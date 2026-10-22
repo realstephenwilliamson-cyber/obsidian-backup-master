@@ -1,0 +1,26 @@
+{
+ "pdf": "/mnt/user-data/uploads/Obsidian Vault/Library/Sanskrit/Macdonell - A Vedic Reader for Students (1992 reprint).pdf",
+ "pdf_vault": "Library/Sanskrit/Macdonell - A Vedic Reader for Students (1992 reprint).pdf",
+ "catalog": "Library/Catalog/Sanskrit-Study/Macdonell - A Vedic Reader for Students (1992 reprint)",
+ "route": "ocr",
+ "title": "A Vedic Reader for Students: Containing Thirty Hymns of the Rigveda in the Original Saṃhitā and Pada Texts, with Transliteration, Translation, Explanatory Notes, Introduction, Vocabulary",
+ "authors": [
+  "Arthur Anthony Macdonell"
+ ],
+ "byline": "Arthur Anthony Macdonell. Motilal Banarsidass, Delhi, 1992.",
+ "folder": "Library/Sanskrit/A Vedic Reader for Students (Macdonell)",
+ "index_name": "A Vedic Reader for Students (Macdonell)",
+ "prefix": "A Vedic Reader for Students",
+ "out": "/home/claude/p4/out",
+ "date": "2026-10-07",
+ "ctype": "book",
+ "single": false,
+ "text_source": "fresh OCR with Tesseract 5 (Latin)",
+ "langs": "Latin",
+ "fixmap": true,
+ "anusvara": true,
+ "san_pages": true,
+ "accents": true,
+ "gutter_bands": true,
+ "callout": "> [!note] Fresh OCR of the page images\n> The English is reliable. The accented transliteration and the Devanagari are sometimes misread (an accented ā may appear as å or ä, and accents can be lost or misplaced), and the two-column blocks (verse beside translation, Saṃhitā beside Padapāṭha) are given one column after the other. For exact forms, read the PDF (the *Open the PDF* button on the catalog note)."
+}

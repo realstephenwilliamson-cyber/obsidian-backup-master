@@ -1,0 +1,51 @@
+---
+type: flashcard
+card: 44
+card_label: "2-17"
+alpha: 60
+devanagari: "थ"
+iast: "tha"
+category: "consonant"
+class: "Dental unvoiced aspirated"
+sthana: "Dantya"
+nyasa: "left thigh (*ūru*)"
+---
+
+# थ tha
+
+<span style="font-size:4em; line-height:1.2">थ</span>
+
+**Card 44 of 108** (printed: Card 2-17 · Alpha 60) · consonant · the letter: [[Letter 33 tha|थ tha]]
+
+## Front
+
+- **Glyph:** थ
+- **Variation:** —
+- **Example:** नाथ
+- The stroke order (*How to Write*) is on the card and is not copied here.
+
+## Back
+
+- **Pronunciation:** As in ‘ea<u>t h</u>oney’
+- **Class (as printed):** 4 (dental) · hard · aspirated
+- **Grid:** the five rows of stops; in bold: थ
+- **Example:** nātha (lord)
+
+## Register
+
+- **Classification:** Dental unvoiced aspirated · **Sthāna:** Dantya
+- **Body place** (*mātṛkā-nyāsa*, [[Tantraloka 15.117|TĀ 15.117]]–120): left thigh (*ūru*)
+
+## Cards
+
+थ::tha · as in ‘eat honey’
+
+Write: tha::थ
+
+## Practice
+
+Write the glyph by hand here: *Ink: New handwriting section* on a pen device; one device per section, and let it sync before another device opens it.
+
+---
+
+[[Flashcards.base|All 108 cards]] · [[Sanskrit 108 Flashcard Register|Register]] · [[Sanskrit Daily Letter Cycle|The cycle]]

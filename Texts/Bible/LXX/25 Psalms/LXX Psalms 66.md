@@ -1,0 +1,36 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Psalms"
+english_book: "Psalms"
+chapter: 66
+aliases:
+  - "Psalms 66"
+  - "Psalm 67 (Hebrew)"
+---
+# LXX Psalms 66
+
+← [[LXX Psalms 65]] · [[LXX]] · [[LXX Psalms 67]] →
+
+*Psalms · [[LXX]]*
+
+Hebrew numbering (JPS): [[Psalms 067]] · Prayer Book (1979): [[BCP Psalm 067]] · [[Psalms numbering]]
+
+**66:1** For the end, a Psalm of David among the Hymns.  ^66-1
+
+**66:2** God be merciful to us, and bless us; *and* cause his face to shine upon us. Pause.  ^66-2
+
+**66:3** That *men* may know thy way on the earth, thy salvation among all nations.  ^66-3
+
+**66:4** Let the nations, O God, give thanks to thee; let all the nations give thanks to thee.  ^66-4
+
+**66:5** Let the nations rejoice and exult, for thou shalt judge the peoples in equity, and shalt guide the nations on the earth. Pause.  ^66-5
+
+**66:6** Let the peoples, O God, give thanks to thee; let all the peoples give thanks to thee.  ^66-6
+
+**66:7** The earth has yielded her fruit; let God, our God, bless us.  ^66-7
+
+**66:8** Let God bless us; and let all the ends of the earth fear him.  ^66-8

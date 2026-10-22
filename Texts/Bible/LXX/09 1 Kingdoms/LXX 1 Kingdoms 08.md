@@ -1,0 +1,67 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "1 Kingdoms"
+english_book: "1 Samuel"
+chapter: 8
+aliases:
+  - "1 Samuel 8"
+  - "LXX 1 Samuel 08"
+---
+# LXX 1 Kingdoms 08
+
+← [[LXX 1 Kingdoms 07]] · [[LXX]] · [[LXX 1 Kingdoms 09]] →
+
+*1 Kingdoms · [[LXX]]*
+
+**8:1** And it came to pass when Samuel was old, that he made his sons judges over Israel.  ^8-1
+
+**8:2** And these *are* the names of his sons; Joel the first-born, and the name of the second Abia, judges in Bersabee.  ^8-2
+
+**8:3** And his sons did not walk in his way; and they turned aside after gain, and took gifts, and perverted judgments.  ^8-3
+
+**8:4** And the men of Israel gather themselves together, and come to Armathaim to Samuel,  ^8-4
+
+**8:5** and they said to him, Behold, thou art grown old, and thy sons walk not in thy way; and now set over us a king to judge us, as also the other nations *have*.  ^8-5
+
+**8:6** And the thing *was* evil in the eyes of Samuel, when they said, Give us a king to judge us: and Samuel prayed to the Lord.  ^8-6
+
+**8:7** And the Lord said to Samuel, Hear the voice of the people, in whatever they shall say to thee; for they have not rejected thee, but they have rejected me from reigning over them.  ^8-7
+
+**8:8** According to all their doings which they have done to me, from the day that I brought them out of Egypt until this day, even *as* they have deserted me, and served other gods, so they do also to thee.  ^8-8
+
+**8:9** And now hearken to their voice; only thou shalt solemnly testify to them, and thou shalt describe to them the manner of the king who shall reign over them.[^1][^2]  ^8-9
+
+**8:10** And Samuel spoke every word of the Lord to the people who asked of him a king.  ^8-10
+
+**8:11** And he said, This shall be the manner of the king that shall rule over you: he shall take your sons, and put them in his chariots, and among his horsemen, and running before his chariots,[^3]  ^8-11
+
+**8:12** and *his manner shall be* to make them to himself captains of hundreds and captains of thousands; and to reap his harvest, and gather his vintage, and prepare his instruments of war, and the implements of his chariots.  ^8-12
+
+**8:13** And he will take your daughters to be perfumers, and cooks, and bakers.  ^8-13
+
+**8:14** And he will take your fields, and your vineyards, and your good oliveyards, and give them to his servants.  ^8-14
+
+**8:15** And he will take the tithe of your seeds and your vineyards, and give *it* to his eunuchs, and to his servants.  ^8-15
+
+**8:16** And he will take your servants, and your handmaids, and your good herds and your asses, and will take the tenth of them for his works.  ^8-16
+
+**8:17** And he will tithe your flocks; and ye shall be his servants.  ^8-17
+
+**8:18** And ye shall cry out in that day because of your king whom ye have chosen to yourselves, and the Lord shall not hear you in those days, because ye have chosen to yourselves a king.  ^8-18
+
+**8:19** But the people would not hearken to Samuel; and they said to him, Nay, but there shall be a king over us.  ^8-19
+
+**8:20** And we also will be like all the nations; and our king shall judge us, and shall go out before us, and fight our battles.[^4]  ^8-20
+
+**8:21** And Samuel heard all the words of the people, and spoke them in the ears of the Lord.  ^8-21
+
+**8:22** And the Lord said to Samuel, Hearken to their voice, and appoint them a king. And Samuel said to the men of Israel, Let each man depart to his city.  ^8-22
+
+[^1]: 8:9 *Gr.* report.
+[^2]: 8:9 *Gr.* judgment.
+[^3]: 8:11 *Gr.* judgment.
+[^4]: 8:20 *Gr.* war.

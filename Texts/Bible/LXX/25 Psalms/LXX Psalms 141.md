@@ -1,0 +1,36 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Psalms"
+english_book: "Psalms"
+chapter: 141
+aliases:
+  - "Psalms 141"
+  - "Psalm 142 (Hebrew)"
+---
+# LXX Psalms 141
+
+← [[LXX Psalms 140]] · [[LXX]] · [[LXX Psalms 142]] →
+
+*Psalms · [[LXX]]*
+
+Hebrew numbering (JPS): [[Psalms 142]] · Prayer Book (1979): [[BCP Psalm 142]] · [[Psalms numbering]]
+
+**141:1** *A Psalm* of instruction for David, when he was in the cave,—a Prayer.  ^141-1
+
+**141:2** I cried to the Lord with my voice; with my voice I made supplication to the Lord.  ^141-2
+
+**141:3** I will pour out before him my supplication: I will declare before him mine affliction.  ^141-3
+
+**141:4** When my spirit was fainting within me, then thou knewest my paths; in the very way wherein I was walking, they hid a snare for me.  ^141-4
+
+**141:5** I looked on *my* right hand, and behold, for there was none that noticed me; refuge failed me; and there was none that cared for my soul.  ^141-5
+
+**141:6** I cried unto thee, O Lord, and said, Thou art my hope, my portion in the land of the living.  ^141-6
+
+**141:7** Attend to my supplication, for I am brought very low; deliver me from them that persecute me; for they are stronger than I.  ^141-7
+
+**141:8** Bring my soul out of prison, that I may give thanks to thy name, O Lord; the righteous shall wait for me, until thou recompense me.  ^141-8

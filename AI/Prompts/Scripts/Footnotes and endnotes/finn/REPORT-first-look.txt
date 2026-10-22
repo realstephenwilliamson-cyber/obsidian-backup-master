@@ -1,0 +1,20 @@
+# D31c, Finn — stopped: not reliably doable in the time box
+
+Book: `Library/Trika/KULACUDAMANI TANTRA and VAMAKESVARA TANTRA with the JAYARATHA COMMENTARY - Louise M. Finn - 1986.pdf` (408 pages, 14.5 MB), notes in `Library/Trika/The Kulacudamani Tantra and The Vamakesvara Tantra (Finn)/` (`The Kulacudamani Tantra 01 - Part 1.md` … `10 - Part 10.md` + index note). Nothing was produced for the vault; no files in `/home/claude/d31c2/finn/`.
+
+## What the PDF is
+
+A scanned **typescript** (typewriter face, 1986), not born-digital. The vault notes were made on 7 Oct by fresh Tesseract OCR (`text_source: fresh OCR with Tesseract 5 (Latin)`, route `ocr`). The PDF also carries its own older OCR layer (Courier / Courier-Oblique fonts, 8.6 pt).
+
+Footnote layout (checked on PDF page 101 = p. 105, image at `/home/claude/d31c2/finn_p101.png`): the notes stand at the foot of the page in the **same type size** as the body, with **no rule**; they are set in *italic* (the typewriter's slanted face); the note number stands in the margin (`139.`, `140.`) exactly where the **verse numbers** of the translation stand (`23.`, `24.` … in roman); the references in the body are small raised numerals (`¹³⁹`), which Tesseract reads as plain digits or drops. So none of the Goodall signals apply: no size difference, no rule, no raised glyphs in the text layer we used, and the margin numbers are ambiguous with verse numbers (the current notes already show both `86\. THIS VIDYĀ is…` (a verse) and `86\. I.e., Agni.` (a note)).
+
+## What a reliable version would take (estimate 2–3 hours of work, plus a full OCR rerun)
+
+The PDF's own OCR layer, which the 7 Oct run did not use for text, does carry the structure: 1,072 italic (Courier-Oblique) margin-numbered note starts on 298 pages, 440 roman margin-numbered lines (verses, lists), and 1,721 small-size (5–6 pt) digit spans that are the raised references. So:
+
+1. From the PDF layer, build per-page zone data: the y-range of the italic notes block at the foot of each page, each note's number and start line, and the positions of the raised digits in the body (which word they follow). This is what the converter's `dz` mechanism expects (`"dz": <json>` with `pages[n].rule`, `starts`, and `dzfn.page_refs`); for Finn the "rule" would be the top of the italic block.
+2. Rerun the Tesseract conversion of the book with that data so the notes come out as footnote definitions and the raised numbers as references — the Tesseract text itself stays what it is now. The 7 Oct OCR is **not** in `/home/claude/p4/cache` under the default key (checked for page 1), so this means a full 408-page Tesseract run (roughly 15–25 minutes) unless the job used other options that I would need from project doc 06 (OCR run state).
+3. Merge into the current notes exactly as for Goodall (markers, headings, frontmatter, corrections carried over, wikilinks), with the same checks.
+4. Expected residue: OCR misreads of note numbers (`833` for `83.3`, `860` for `86.`), references Tesseract dropped (count unknown; the raised numerals are small and faint) — those notes would stay visible and unreferenced, as in the Goodall rule.
+
+I stopped before step 1 because the remaining time (about 12 minutes) would not have covered even the zone extraction with checking, and a half-checked footnote mapping is worse than the current notes.

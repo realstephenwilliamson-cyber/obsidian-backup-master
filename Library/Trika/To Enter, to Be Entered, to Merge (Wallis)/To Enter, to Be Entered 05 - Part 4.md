@@ -1,0 +1,731 @@
+---
+type: book-chapter
+work: "[[Wallis - To Enter, to Be Entered, to Merge]]"
+book: "[[Library/Trika/To Enter, to Be Entered, to Merge (Wallis)/To Enter, to Be Entered, to Merge (Wallis)|To Enter, to Be Entered, to Merge (Wallis)]]"
+order: 5
+source_pdf: Library/Trika/To_Enter_to_be_entered_to_merge_The_role.pdf
+page_range: 117–158
+pdf_pages: 128–169
+text_source: PDF text layer (born-digital), PyMuPDF
+converted: 2026-10-07
+---
+
+[[To Enter, to Be Entered 04 - Part 3|← previous]] · [[To Enter, to Be Entered, to Merge (Wallis)|contents]] · [[To Enter, to Be Entered 06 - Part 5|next →]]
+
+*[p. 117]* ^pg128
+
+more than 200 Śaiva scriptures (at a bare minimum[^247]), as a collation of citations in *Tantrāloka* shows; of these, 80 survived to the present in manuscript libraries around India and Europe; of these, eight survived in Kashmīr.[^248] These eight are the *Mataṅga* and *Mṛgendra* amongst Saiddhāntika scriptures (the latter only partially); the *Netra*; the *Svacchanda*; the *Mālinīvijayottara, Parātrīśika,* and the *Vijñāna-bhairava* amongst Trika scripture; and the *Vātulanātha-sūtra* amongst Krama scriptures. By examining the more recent composite codices that compiled texts for home study (*adhyayana*), now existing in the MSS libraries (EHLERS 2006), we can discover which of these surviving texts had a tradition of active study down to recent times. From a preliminary survey of these codices (SANDERSON 2007: 107n28), we find just one of the scriptures (the *Vijñāna-bhairava*), as well as three exegetical texts (the *Paramārthasāra* of Abhinavagupta, the *Spandakārikā* of Kallaṭa, and the *Mahārthamañjarī-parimala* of Maheśvarānanda) and two *stotra*s (the *Bodha-pañcadaśikā* of Abhinavagupta, and the *Śivastotrāvalī* of Utpaladeva). In terms of scripture, then, the contraction of knowledge in Kashmīr can be mapped numerically as 200:80:8:1. 
+
+In Kashmīr, however, when the tradition contracted and partially atrophied under Muslim rule (1339-1819), a concern for essentialization led to a shift of attention from the sprawling scriptural corpus to the more coherent exegetical material of Abhinavagupta, which came to be regarded as possessing liberative power if correctly internalized. Specifically, I have in mind the evidence of the *Mṛti-tattvānusmaraṇa*, a well-attested Kaśmirian text composed between the fifteenth and the nineteenth century on the destiny of the soul after death, to be recited for the twelve days after someone’s passing (SANDERSON 2007: 116-120). This text declares that salvation from the pains of the hell-realms may be obtain through the *karma-,* *yoga-*, or *jñāna-mārga*. The first is correct brāhminical observance; the second, the activation of *kuṇḍalinī* through the practice of *uccāra* (a Śaiva innovation of a thousand years prior); and the third is a gnostic realization (*śivajñāne samāveśaḥ*) of the truth of the nonduality of God (*śivādvaya*) as expressed in the statement *śivo’ham*, which should be experienced as an all-encompassing wordless reality (*sarvatra bhāvayed avikalpataḥ*)—this is realization before death (*jīvanmukti*) (9.72-73, 81c-82). This realization is here to be accomplished through the three *upāya*s that form the basic theoretical superstructure of Abhinavagupta’s exegesis: *śāmbhava*, *śākta*, and *āṇava* (9.74-77). Now, the *Mṛti-tattvānusmaraṇa* does not explicitly refer to Abhinava-gupta, since it purports to be scripture; but it is only in Abhinavagupta that these three terms denotes three *upāya*s. In the original scriptural source for the terms, the *Mālinī-vijayottara*, they denote *samāveśa*s (more on this later). Furthermore, the *Mṛti-tattvānusmaraṇa* quotes the relevant verses of the *Mālinī* in the order given by Abhinavagupta, which is the reverse of the order given in the original text. 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[^247]: A collation of all the titles referenced by the extant works produces a list of over 1,000 titles. Some of these are undoubtedly spurious, but it seems likely that there were well over 500 scriptures in the tradition, not all of which were acknowledged by all practitioners at any time, of course.
+[^248]: SANDERSON lecture handout, “Rolling Up One’s Sleeves in the Archives,” 28 June 2012, CSMC, Hamburg (available at alexissanderson.com); and SANDERSON 2007a: 105-107.
+
+*[p. 118]* ^pg129
+
+As SANDERSON observes in 2007b, the teachings of the *Mṛti-tattvānusmaraṇa* correspond to the twentieth century instruction of Swāmī Lakṣmaṇ Jū, often called the last Śaiva guru of Kashmīr (d. 1991), in which gnosticism with a dash of yoga was the order of the day, and the rituals and more complex yogas of classical Śaivism were nowhere to be seen. This explains the modern emphasis on unusual scriptural material like the *Vijñāna-bhairava,* which eschews ritual. This situation is only to be expected when we understand that the Śaiva ritual culture, as baroque in its own time as pre-Reformation Catholicism, could not survive without the generous patronage it enjoyed before Muslim conquest (DYCZKOWSKI 1988: 10-12). 
+
+1.6.8 *The Mantramārga’s relation to the* Mantranaya *(aka Tantric Buddhism)* 
+
+Initiating what will doubtless be seen in retrospect as a new era in Tantric studies, especially with regard to the understanding of the sources of Tantric Buddhism, SANDERSON published in 2009 his historical *magnum opus*, “The Śaiva Age.” In this 300-page monograph, SANDERSON amasses reams of evidence to demonstrate a) that Śaivism was by a significant margin the dominant religion of the early medieval period, and b) that Buddhism adopted its Tantric forms directly from Śaivism in order to effectively compete for royal patronage. He writes: 
+
+Now, this co-existence of Buddhism and Śaivism under royal patronage was surely facilitated by the fact that the form of Buddhism adopted and developed was one that had equipped itself not only with a pantheon of ordered sets of deities that permitted such subsumptive equations but also with a repertoire of Tantric ceremonies that paralleled that of the Śaivas and indeed had modelled itself upon it, offering initiation by introduction before a Maṇḍala in which the central deity of the cult and its retinue of divine emanations have been installed, and a system of regular worship animated by the principle of identification with the deity of initiation through the use of Mantras, Mudrās, visualization, and fire-sacrifice (*homa*) . . . (2009: 124) 
+
+We can review the evidence SANDERSON presents in the briefest possible way, following the chronological sequence of the well-known pentadic textual categorization of Buddhist Tantra (which, for its first three categories, parallels the common Śaiva topical division of its tantras into *kriyā, caryā, yoga*, and *jñāna*). 
+
+The foremost[^249] of the Kriyā-tantras is the *Mañjuśriya-mūla-kalpa*, probably of the seventh century. As we have seen, the Catur-bhaginī cult occupies an important place in this work, which is primarily devoted to *siddhi*. But there also exist strong parallels with the Śaiva *Niśvāsa*, dated a century earlier. In their survey of the latter text, GOODALL and ISAACSON write, “\[T\]he *Guhyasūtra* \[of the *Niśvāsa*\] provides evidence of common ground with the non-soteriological Tantric magic of Buddhist *kriyā-tantra*s. For, like the *Mañjuśriya-mūla-kalpa*, it contains a grimoire of recipes in prose for attaining magical siddhis. The recipes of both are couched in extremely similar language, with many identical elements identically phrased” (2007: 124-125). 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[^249]: In this section the word “foremost” is repeatedly used to denote the text that attracted the greatest number of commentaries and so-called satellite texts (*upatantra*s) in its class.
+
+*[p. 119]* ^pg130
+
+Given the dates of these works, it is highly probable that the *Mañjuśriya* drew on some version of the *Niśvāsa*. As the first Buddhist work to draw on Śaiva sources, the *Mañjuśriya* must justify this, and it does so, by having Mañjuśrī declare that “It was I that first taught, in this vast Kalpa, everything that the inhabitants of earth without exception refer to as the teaching of Śiva” (2009: 130). In other words, since Mañjuśrī is the true source of the Śaiva revelation, there is no problem with him teaching parts of it for the benefit of Buddhists. In this way, as SANDERSON puts it, “the strict division between the Buddhist and the non-Buddhist has dissolved within a higher Buddhist intertextual unity” (2009: 131). 
+
+The foremost of the Caryā-tantras and the first soteriologically oriented Buddhist Tantra (i.e., one that claims to teach a path to liberation) is the *Mahā-vairocanābhisaṃbodhi-\[tantra\]*, from the seventh century, which features an array of Śaiva mantra-deities. It justifies this with a similar statement: “in time to come there will arise people of inferior understanding and no faith who will not believe this teaching . . . they will say that this is not the teaching of the Buddhas but belongs to the outsiders” (2009: 128). The author anticipates objections from his coreligionists through the device of prophecy. 
+
+The foremost of the Yoga-tantras is the *Sarva-tathāgata-tattva-saṅgraha*, found in a shorter redaction dateable to c. 700, and an expanded redaction c. 800. Here we see the influence of Kaula Śaivism appear on the scene (for which see the next section), for in this *tantra* it is taught that candidates must achieve *āveśa* in their initiation, exactly as in Kaulism (2009: 133). The term is used repeatedly in the text to denote the state the practitioner must induce in himself in order to accomplish both his *siddhi* and his *bodhi*; most typically we see the compound *vajrāveśa*, emphasizing that this is a Buddhist possession, however much it might resemble the state sought by Kaulas (2009: 138-9). The manual for initiation into the *maṇḍala* of this tantra, Ānandagarbha’s *Sarvavajrodaya*, gives a detailed account of the means by which the Vajrācārya brings about this state of possession in the initiand, and there we see that the procedures involved are exactly parallel to the Kaula ones (but have no precedent whatsoever in earlier Buddhism) (2009: 135). Furthermore, in this text we see the rite of casting a flower onto a consecrated *maṇḍala* while in a state of possession (sections 224-34), the hallmark of all Śākta forms of Śaivism (2009: 134), as witnessed in numerous earlier Śākta-Śaiva text but no Buddhist ones. 
+
+In the foremost of the Mahāyoga- or Yogottara-tantras, the *Guhyasamāja* (eighth century), we see the elements of the Śaiva Vidyāpīṭha come to the fore: the deities, “now multi-faced and multi-armed in a fusion of Śaiva and Buddhist iconography, are represented and visualized copulating with their consorts” (2009: 142). We also see a sexual rite incorporated into the initiation ritual and a concomitant sacralization of impurity. Also in this class we have the *Sarvabuddha-samāyoga-ḍākinī-jāla-śaṃvara* (eighth century), though it is considered a bridge text to content of the Yoginī-tantras. Its name is clearly calqued on two earlier Vidyāpīṭha texts, the *Sarvavīra-samāyoga* and the *Yoginī-jāla-śaṃvara* (2009: 156). In this text we see the advent of the full complement of Kāpālika imagery, and a deity (Heruka) calqued on Bhairava, worshipped in a *maṇḍala* of fierce goddesses precisely characteristic of the most transgressive forms of the Vidyāpīṭha (2009: 148-54). In the *Sarva-kalpa-samuccaya*, an appendix to the *Sarvabuddha-*, we see our first 
+
+*[p. 120]* ^pg131
+
+evidence of direct textual redaction from a Śaiva source: a passage drawn from the *Vīṇāśikhā* (2009: 154-5). 
+
+Finally, in the fifth and last phase of the Mantranaya/Vajrayāna, that of the Yoginī-tantras, the sourcing of both inspiration and specific textual passages from Śaivism reaches its zenith. Here we see a sharper break from antecedent Buddhism than ever before, and the creation of a world whose visual aesthetic is almost indistinguishable from that of Śaivism. The primary deity here, Heruka, is clearly calqued on Bhairava, all of whose iconographical features are adopted. SANDERSON has identified fourteen features that are indisputably found in Śaiva iconography centuries before they appear here (2009: 170). The only feature present deriving from antecedent Buddhism is the vajra. In the practice taught, we see the same pattern: all twelve of the major innovations in *caryā* and yoga (most notably the theory of the three *nāḍī*s and associated practices) found in these textual materials derive from earlier Vidyāpīṭha sources. Furthermore, one of the two foremost texts of this class, the *Laghu-śaṃvara* aka *Cakra-saṃvara* aka *Herukābhidhāna* (c. 900)*,*[^250] is almost totally redacted on the basis of these Śaiva sources.[^251] Indeed, the only element of antecedent Buddhist doctrine contained in the original version of this text (apart from a handful of occurrences of the terms Buddha, Tathāgata, and Bodhisattva) is a section of four verses (10.1-4) (2009: 159). The original version (which ends with 50.19) is that seen with the earliest two commentaries; subsequently another chapter was added, presumably by parties uncomfortable with the un-Buddhist feel of the text, since the added chapter strives to give the text more of a Buddhist context.<sup>204</sup> Finally, the ceremony of initiation itself (and its *maṇḍala*), through which a candidate becomes qualified to practice the tantra’s rites and observances, is drawn from precisely that section of the *Yoginīsaṃcāra* that we had occasion to discuss earlier (p. 62ff), with the result that this phase of Buddhism becomes characterized by archaic elements of the Kāpālika Somasiddhānta that the Mantramārga, for the most part, had already eschewed in its process of refinement. 
+
+Buddhist scholars whose commitment to the tradition they study goes beyond the academic, of which there are many in the American academy, tend to react to these findings with disbelief, even prior to actually examining the evidence. Some of those who do take a look at SANDERSON’s evidence challenge it by distorting fundamental principles of textual criticism (e.g. DAVIDSON \[2002\]’s misuse of the maxim of *lectio difficilior potior*, thoroughly refuted by SANDERSON at 2009: 189-92 and n455, 457, and 461) rather than offering a different reading of the same evidence. But to anyone who reads Sanskrit fluently, and has no vested interest in a particular conclusion, it is apparent that: 
+
+Comparison of the textual parallels reveals that it is the Cakrasaṃvara corpus that has adopted and adapted the Śaiva sources rather than the other way round. For the Buddhist versions abound in instances in which it can be seen that Śaiva material has been misunderstood, crudely, artificially, and incompletely modified, or rendered contextually !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[^250]: The other being the *Hevajra-tantra.*
+[^251]: See SANDERSON’s detailed lecture handout “How Buddhist is the Herukābhidhāna?”, Pondicherry, 21 July 2009 (available online at alexissanderson.com).
+
+*[p. 121]* ^pg132
+
+incongruous. The Śaiva versions, on the other hand, seem . . . to be entirely free of signs of textual dependence on Buddhist originals. (2009: 189) 
+
+We need not, however, see this as a “Śaivization” of Buddhism, since the techniques and ritual structure adopted from Śaivism are generally reframed and given a new context in the form of Mahāyāna doctrine (witness the frequent use of the doctrine of *śūnyatā* in Tantric Buddhist sources). As SANDERSON noted in his first article on Buddhist adoption of Śaiva Tantric ritual, “When we consider Tantric Buddhism in terms of its origins we see Śaiva influences at every turn; and the higher one goes up the hierarchy of the Buddhist Tantras, the more pervasive these influences become. However, Tantric Buddhism is, of course, entirely Buddhist in terms of its function and self-perception; and in transforming Śaiva elements it gave them meanings which obscure these origins” (1994: 96). We may understand this phenomenon better through invoking the dichotomy of form vs. content; when other religions began importing the ritual technologies developed by the Śaivas, they did so in a way that generally preserved the structure of those technologies while filling them with different content. The “content” here is not only the doctrinal frame, but more importantly the mantra-deities which constitute the central object of any Tantric cultus. The “form” is what the practitioner does, and the “content” is the conception he has about the purpose and goal of what he does, a conception signified by the symbol of his deity. To put it simply, one can fairly easily rewrite a Tantric practice manual and simply “fill in the blanks” with the mantras of one’s own deity and similarly revise the elements of the visualization that constitute identifiers of the deity in question; and this is often precisely what was done. Even those changes were not always made as thoroughly as one would suspect; for example, some key mantras (like HŪṂ) were taken over unchanged, and as we have seen deity iconography could be almost identical as well. Just as it can be difficult to tell visual representations of different deities from the same time and region apart without formal art-historical training, it would be difficult, circa the tenth century, to tell apart some Tantric Śaivas from some Tantric Buddhists, not only in terms of outer ritual performance but in terms of the structure of mentally enacted ritual as well. 
+
+The Yoginī-tantras are the final phase of the process of borrowing we have been discussing, for Muslim conquest followed and put an end to state support for both Tantric Buddhism and Tantric Śaivism, hastening the former’s demise in India and initiating the latter’s contraction, a process that would eventually yield the *haṭha-yoga* systems. 
+
+*[p. 122]* ^pg133
+
+The Kulamārga, a.k.a. Kaulism The Kulamārga, which could also simply be called Śāktism,[^252] denotes the sometimes loosely related traditions of practice said to be inaugurated by Macchanda-nātha, his consort Koṅkanāmbā, and six of their sons.[^253] If these were historical figures, they probably lived around the eighth century, the date of our first documented reference to the Kaulas (SANDERSON 2006: 149). Already by the time of Abhinavagupta, Macchanda could be acknowledged as foremost among all human gurus (*Tantrāloka* 1.8) and Lord of the current Age (*yuga-nātha*). As we have seen (pp. 31f above), the Kulamārga derived directly from the Somasiddhānta, and preserved most of its practices, modifying some and adding others (see the list of Kulamārga characteristics on p. 31). Though much study still remains to be done in this area, we can outline the basics with some confidence. 
+
+The fundamental contrast within the Kulamārga is between the early Kula phase and the later Kaula phase (though in practice these terms are often used interchangeably). In all likelihood, we may accurately picture a crossfading spectrum of Somasiddhānta -> Kula -> Kaula. For as we saw, the Somasiddhānta is characterized by the worship of Bhairava surrounded by the Eight Mothers, with special emphasis on the fierce Cāmuṇḍā. In the Kula phase, Bhairava is worshipped as Kuleśvara, together with his consort Kuleśvarī, and the Eight Mothers get associated with sixty-three families (*kula*) of Yoginīs, of which they are the matriarchs. For this reason, the Kula is also referred to (e.g., by SANDERSON) as the Cult of the Yoginīs. Here we are in a strange, wild, visionary, and liminal world, in which the practitioner (who maintains the Kāpālika observances of his forebears) seeks contact (*melāpa*) with these Yoginīs in embodied or disembodied form. SANDERSON writes of this phase in the following evocative passage: 
+
+“When the initiate passed into this subjacent tradition he found that the masculine hierarchy \[of the Mantramārga\] was replaced by ranks of wild, blood-drinking, skull-decked Yoginīs. Radiating out from the heart of the Deity as an all-pervasive network of power (*yoginī-jāla*), they repopulated this vertical order of the Śaiva cosmos . . . and irradiated sacred space by sending forth emanations enshrined and worshipped in power-seats (*pīṭha*) connected with cremation grounds throughout the sub-continent. 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[^252]: The Kulamārga may be termed Śāktism in the same sense that we are using the term Śaivism in the present work: a specific and self-contained religious tradition, requiring initiation and divided into separate lineage-traditions with their own sectarian insignia and practices could not be conflated with those of other lineages (at least not without an additional initiation). In the late medieval period, Śāktism ceased to be an –ism of this kind. Also note that just as Śakti could be worshipped within the Mantramārga (usually as subordinate), Śiva could be worshipped within the Kulamārga (usually as subordinate).
+[^253]: These sons are given Prākṛt names that suggest tribal associations (Pulinda/Śabara, Aḍabilla, Paṭṭila, Karabilla, Ambilla, and Śarabilla) and as well as Sanskrit (Amara, Varadeva, Citra, Ali, Vindhya, and Guḍikā), and the first set of sons is exalted over the second. Their consorts have (mostly) Prākṛt names (Sillāī, Eruṇā, Kumārī, Bodhāī, Mahālacchī, and Aparamekhalā). See [[Tantraloka 29.038|TĀ 29.38]].
+
+*[p. 123]* ^pg134
+
+. . . they were believed also to possess women and thereby to enter into the most intimate contact with their devotees” (1988: 671). 
+
+We have little documentation of the Kula phase, but we see elements of it both in early Mantramārga materials (parts of the *Brahma-yāmala* and the *Jayadratha-yāmala*) and in its own Kula-śāstras, possessing a very different character from Mantramārga sources and written in a register of Sanskrit that is frequently extremely deviant from the Pāṇinean norm, texts such as the *Kula-sāra*, the *Kula-pañcāśikā*, the *Kularatna-mālā*, the *Kula-gahvara*, and the *Kula-sūtra*. 
+
+The Kaula phase, much more thoroughly documented, is definable as the domestication and essentialization of the Kula.[^254] By domestication I mean a suppression of the mortuary and an increased emphasis on refined sensuality. To put it colloquially, Kaulism is (in part) the move out of the cremation ground and into the bedroom. Though its transgression and nondualism causes most Western scholars to view Kaulism as the Tantric tradition *par excellence*, in fact it is markedly distinct from the Tantric sects we have considered by the fact of its rejection of external ritual, including all *homa* and even the nearly ubiquitous *liṅga-*worship (TÖRZSÖK 2007: 473-5), a rejection we will explore below. (Internal ritual is generally not rejected by Kaulas.) This brings it a step further from Brahmanism and a step closer to the Atimārgic roots of the religion. TÖRZSÖK argues that this rejectionism is at least partially based in a spirit of questioning the basic meaning and purpose of ritual acts that characterizes Kaula sources but not properly Tantric ones (2007: 478- 79). This questioning is seen in linguistically unrefined Kaula sources as well as the more polished ones. 
+
+Kaulism is most notably characterized by the *decontamination*, *interiorization*, and *aestheticization* of Kula rituals and transgressive acts, in which their elements are reinterpreted in terms of the aesthetics of inner experience. SANDERSON characterizes this shift with this example: 
+
+The Kāpālika \[of the Kula *yoginī* cult\] sought the convergence of the Yoginīs and his fusion with them through a process of visionary invocation in which he would attract them out of the sky, gratify them with an offering of blood drawn from his own body, and ascend with them into the sky as the leader of their band. The Kaulas translated this visionary fantasy into the aesthetic terms of mystical experience. The Yoginīs became the deities of his senses (*karaṇeśvarī*s), revelling in his sensations. In intense pleasure this revelling completely clouds his internal awareness: he becomes their plaything or victim (*paśu*). However, when in the same pleasure the desiring ego is suspended, then the outer sources of sensation lose their gross otherness. They shine !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[^254]: “The distinction between Kula and Kaula traditions mentioned passim but not clarified (see *Tantrāloka* 13.301; 320-21b; *Mahānayaprakāśa* 1.30; etc.) is best taken to refer to the clan-structured tradition of the cremation-grounds seen in *Brahmayāmala*, *Jayadrathayāmala*, *Tantrasadbhāva*, *Siddhayogeśvarīmata*, etc. (with \[their\] *Kāpālika kaulikā vidhayaḥ*) on the one hand and on the other its reformation and domestication through the banning of mortuary and all sect-identifying signs (*vyaktaliṅgatā*), generally associated with Macchanda/Matsyendra” (SANDERSON 1985: 214n110).
+
+*[p. 124]* ^pg135
+
+*within* cognition as its aesthetic form. The Yoginīs of the senses relish this offering of ‘nectar’ and gratified thereby they converge and fuse with the Kaula’s inner transcendental identity as the Kuleśvara, the Bhairava in the radiant ‘sky’ of enlightened consciousness (*cidvyoma-bhairava*). (1988: 680; emphasis original) 
+
+In the Kaula phase, we also see a condensation and intensification of ritual for the purpose of attaining sudden enlightenment(s) wherever possible (SANDERSON 1995: 87-90). The Kaula forms of initiation (*kula-prakriyā*) greatly condensed the Mantramārgic forms (*tantra-prakriyā*), eliminated the *homa*, and generally added three elements that distinguished them from the non-Kaula forms: 1) the consumption of transgressive substances as a test of nondual awareness; 2) the initiand’s possession (*āveśa*) by a form of Bhairava or the Goddess as a requirement of initiation; and 3) the presence of a charismatic, putatively enlightened Guru, who because of his mastery of spiritual energies could circumvent laborious ritual processes and even bestow initiation merely through a touch or a penetrating gaze (TÖRZSÖK 2007: 475, citing the *Kulasāra*). 
+
+The Kaula way, as the most subtle and essentialized version of the path, was of course considered the highest by its adherents. It was a meta-tradition in the sense that any Tantric cult could be inflected in a Kaula version and re-interpreted in its terms. In his discussion of canon in *Tantrāloka* 35, Abhinavagupta identifies it with the Trika (which indeed has a Kaula form), in a transparent attempt to similarly elevate the latter; but he quotes a passage from a Krama scripture which is useful in that it tells us how adherents of the Kula/Kaula path regarded it: 
+
+There is only one revelation (*āgama*) within which all \[scriptures\] are grounded, from the mundane scriptures \[i.e., the Vedas\] to the Vaiṣṇava, Bauddha, and Śaiva. Its \[true\] abode (*dhāma*), and the ultimate goal, is described within \[the scriptures of\] the Trika. Because of its indivisible nonduality it is called the Kula. Just as there is one vital breath in \[all\] the limbs of the body . . . so the \[Kaula\] Trika is present in all scriptures. And this is declared in the sacred *Kālīkula\[-pañcaśataka\]*: “It has been declared that this is the essence that transcends the five streams . . . The Kula resides within the scriptures \[of other traditions\] like the scent in a flower, the oil in a sesame seed, the soul in the body, or nectar in water.” ([[Tantraloka 35.030|Tantrāloka 35.30-34]]; translation follows SANDERSON 2005: 97) 
+
+In Kaula worship, summarily described in chapter twelve of the *Netra-tantra*, Kuleśvara and Kuleśvarī are worshipped together or separately, surrounded by the eight Mothers (and their eight Vīra counterparts, if Bhairava is present), attended by Gaṇeśa and the *kṣetrapāla* Vaṭuka, along with ancillary worship of the primordial *siddha* lineages (usually, the revealers of the Kula in each of the four world ages \[*avatāraka, yuganātha*\] and their consorts, plus their sons and their consorts). 
+
+The mature Kaula path appears, according to the canonical account in the *Ciñciṇīmata-sāra-sammuccaya*, in four “transmissions” (*āmnāya, anvaya*) or “lodge-teachings” (*gharāmnāya*), associated symbolically with the four directions: 
+
+*[p. 125]* ^pg136
+
+E: Pūrvāmnāya; main deity Kuleśvarī (≈ Trika) 
+
+(cp. *Ciñciṇīmata* 7.38-100 and [[Tantraloka 29.001|TĀ 29.1-55]]) 
+
+W: Paścimāmnāya; main deity Kubjikā (+ Navātman) 
+
+(see *Ciñciṇīmata* 1.1-7.37[^255]) 
+
+S: Dakṣiṇāmnāya; main deity Kāmeśvarī -> Tripurasundarī [^256] 
+
+(see *Ciñciṇīmata* 7.101-154) 
+
+N: Uttarāmnāya; main deity Kālī Kālasaṅkarṣaṇī 
+
+(see *Ciñciṇīmata* 7.155-250) 
+
+The first of these is the earliest to develop, and it resembles closely the version of the Kaula Trika we see in chapter 29 of the *Tantrāloka*. The other three have been covered above as *sampradāya*s #7, 8, and 9 of the Mantramārga. This almost total overlap of the Mantra- and Kula-mārgas is indicative of the inseparability of most forms of Śaivism and Śāktism in this period. 
+
+We have used the terms domestication and decontamination to describe the Kaula phase of the Kulamārga, which dominates the scriptural record. One of the best examples of this is the prohibition of the *kapāla-vrata* in all forms of Kaulism except the Northern Transmission. Indeed, all forms of external marking of sectarian affiliation are forbidden, which indicates the shift of context from the ascetic practicing in the wilds or the charnel ground to the respectable householder practicing at home or at *kula* gatherings. See, e.g., the *Kula-pañcāśikā* (20-21b), where Śiva says: “If one engaged in the practice of ascetic observance, wearing matted locks \[or\] shaven head, the hairtuft, covered with ashes and adorned with the five *mudrā*s \[of the Mahāvrata\], has \[ritual\] intercourse and enjoys the drink of \[Kaula\] heroes \[then\] he does harm to Me, O Goddess Maheśvarī.”[^257] 
+
+In a fascinating passage that concludes the fourth chapter of his *Tantrāloka*, Abhinavagupta (who, incidentally, attributes his realization to a Kaula Trika guru) contrasts the Kula with the Kaula, emphasizing the latter’s abjuration of external forms of religion as characteristic. As SANDERSON writes, “When these two Kaula levels, with discipline and without, are distinguished the first is termed the Kula and the second the Kaula or . . . the Mata” (2005c: 106). The term *mata* appears to be used as a synonym for Kaula only by the *Jayadratha-yāmala* and Abhinavagupta. In this passage, Abhinavagupta positions his own view as the most all-inclusive in that it resists dogmatic adherence to both injunction and prohibition, or rather it allows for *any* injunction or prohibition to be applied according to its utility for a given practitioner while denying that it could be regarded as universally applicable. He writes, 
+
+In the Siddhānta, worship of the *liṅga* is taught, with the intention of coming to see it as embodying the whole universe (*viśvādhvamayatāvide*); but in the Kula and \[the Kaula systems\], it is forbidden, so that one may !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[^255]: The CMSS describes the Paścimāmnāya first and at greatest length because that is the *āmnāya* with which the text identifies itself.
+[^256]: To clarify, while the cult of Kāmeśvarī and the eleven Nityās is called the Southern Transmission in the CMSS, the mature Traipura *sampradāya* of Tripurasundarī never calls itself the Southern Transmission, but rather the Higher (*ūrdhvāmnāya*).
+[^257]: Following the text as established by SANDERSON at 2005c: 109n74.
+
+*[p. 126]* ^pg137
+
+come to see the essence (*ātmatā*) of the universe in one’s own body.[^258] \[But\] here in the all-inclusive \[way of supreme nonduality\] what reason could there be either for \[requiring\] the ritual or forbidding it? \[The Kula texts prescribe the wearing of\] matted locks and the like, so that by constantly adhering to these rules one may realize one’s identity \[with Śiva\]. The Kaula system renounces these, for it teaches an “easy method.” (256-8b) 
+
+Here Abhinavagupta’s commentator Jayaratha adds, 
+
+“He means that in the Kaula system, there is a prohibition of wearing matted locks, ashes, and the rest, as taught \[in the scripture that says\]: ‘He should not associate in act, thought or speech with anyone in the world who wears such insignia (*cihna*) as matted locks and ashes, the banner, the \[human bone ornaments of\] the Kāpālika observance, the trident and the terrible skull-staff.’ For in this \[system\] is taught a method of realizing one's identity with the Divine Essence (*pārameśvara-svarūpa*) easily, without effort, even while one is immersed in \[the experience of\] the objects of the senses, as taught in \[the *Svabodhodaya*- *mañjarī* of Vīranātha v. 12\]: ‘‘Cessation’ (*nirodha*) \[of contracted awareness\] was taught by previous \[masters\] through the method of renunciation \[of the mind and senses\] and arduous practice. Here I will teach cessation through the release of effort.’”[^259] Abhinavagupta continues, 
+
+\[The Kula texts prescribe\] the practice of \[mimetic\] ascetic observance (*vrata-caryā*) as the means of achieving identity with the \[deity\] denoted by \[one’s\] mantra. But \[the Kaula texts\] forbid this practice \[of impersonation\], so that one may realize that the \[deity\] denoted by the mantra is all-embodying (*sārvātmya*). \[The Tantras and the Kula texts prescribe\] going to *kṣetra*s, *pīṭha*s, etc., as a means of overcoming obstacles; or, in the case of an initiate engaged in propitiating a \[particular\] mantra\[-deity\], \[such residence in holy sites\] is taught as the means of achieving that \[mastery\]. But \[in the Kaula texts,\] these injunctions to visit holy places are null and void, so that one may realize that one’s self is all-encompassing (*svātmanaḥ pūrṇatvam*) because it is embodied in everything (*vaiśvarūpya*).[^260] (258c-61b) . . . \[A Kula initiate\] must keep to his own lineage (*santāna*) in order to achieve identity with \[his deity\]. (268cd). . . But these distinctions are rejected in the Mata texts since they introduce dualities into the ultimate reality that is truly undivided. (269c-70b) 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[^258]: MVT 18.3: *yajed ādhyātmikaṃ liṅgaṃ bāhyaṃ liṅgaṃ na pūjayet.*
+[^259]: Here the translation follows SANDERSON, 2005c: 108n74.
+[^260]: *Timirodghāṭana* f. 45v: *dehasthaṃ pīṭhakṣetre tu nānyakṣetraṃ paryaṭate,* “when the sacred sites exist within the body, one need not wander to any other site (*kṣetra*).” Cf. *Kulasāra* f. 80v.
+
+*[p. 127]* ^pg138
+
+The contrast Abhinava describes here is (for him) fundamentally a contrast between on the one hand the dualist (*bheda*) and dualist-cum-nondualist (*bhedābheda*) positions of the Tantras and early Kula texts and the nondualism (*abheda, advaya*) of the Kaula sources. We can safely assume that the contrast he sets up is not as clear-cut as he makes it, as strongly suggested by the fact that the Kālīkula, while thoroughly Kaula and usually nondualist, does not in fact renounce external display of signs including that of the *kapāla-vrata*. The passage concludes with Abhinava-gupta asserting his own position, which he characterizes as a “higher nondualism” (*paramādvaya*) because it does not forbid dualistic practices the way normal nondualism but is all-inclusive. Another way of saying the same thing is that Abhinava refutes both the dogmatism of injunctions characteristic of the Tantras and Kula texts *and* the dogmatism of the overturning of those injunctions that characterizes (most of) Kaulism. 
+
+In our way, none of this—from going to holy sites to lineage restrictions—is enjoined \[for all initiates\], because none are a \[guaranteed\] means of direct access to God (*sākṣān naupayikaṃ śive*), and none of these is specifically prohibited, because they can do nothing to divide or diminish that Reality. For the Lord is universal, so injunction and prohibition are merely differential constructs (*vikalpa*s) \[freely manifested\] within his nature; they cannot divide that nature itself. If one desires to penetrate ultimate reality one has only to adopt whatever method one feels to be most conducive \[in a given circumstance\]; and one may abandon that method as one sees fit. No specific system (*yantraṇā*) is required \[or forbidden\] here. As it is said in the sacred Trika teachings: “All goddesses, lineages (*ovallī*), mantras, scriptures and methods are equal, since all are Śiva. One can clearly see that the reality of Śiva is an undivided existence.” (270c-75[^261])! 
+
+Abhinavagupta’s position here is based on an unusual passage in the *Mālinī-vijayottara,* the existence of which is one of the key reasons that he chose this text as the basis for his exposition of the Tantric corpus: 
+
+Here there is no purity and no impurity . . . neither dualism nor nondualism . . . nothing is enjoined nor prohibited in this \[Kaula system\]. Or, everything is enjoined, and everything forbidden here! In fact, there is but one commandment on this \[higher path\], O Queen of the Gods: the yogin is to make every effort to steady his awareness on Reality. He must practice whatever makes that possible for him. (18.74a, 74c, 77c-79) The “higher” Kaula view, then, is that all systems and all scriptures have an equal claim to validity; that is, any of them is *potentially* valid, in that any of them may offer a *sādhana* that may benefit a given practitioner, and none can claim to be authoritative for everyone. This is the view we saw Abhinava representing in the “Unity of the Canon” section above. It is also discussed by the Naiyāyika Jayanta Bhaṭṭa in his *Āgama-prāmāṇya*, where he represents it by saying, “It cannot be \[said that\] other scriptures are invalid because they teach actions that arouse strong !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[^261]: Translation follows SANDERSON 2005c: 109-112.
+
+*[p. 128]* ^pg139
+
+feelings of revulsion (*hṛdaya-krośana*), for that is not sufficient to invalidate them. For if a person is revolted by the thought of eating from a human skull and the like, it is only because he has been mentally conditioned by constant exposure to a different *darśana*.”[^262] This displays a perspicacity in cultural analysis that strikes us as unusual for any pre-modern period, and is seen elsewhere in Kaula sources as well (e.g. in the argument that caste is merely a cultural construct[^263]). 
+
+Much work remains to be done on the Kulamārga, which is not as well understood as the Mantramārga. Desiderata include: clarifying further the Kula/Kaula distinction, and how far it is actually warranted; editing key passages from the frequently corrupt Kaula sources; mapping the Kaula lineages and their associated insignia (*cihna*), code-phrases (*chomma*), lodges (*ghara, pallī*), etc.; and differentiating between the relatively organized Kaulism we see pre-Muslim conquest and the more amorphous Kaulism that appears post-conquest. 
+
+1.8 
+
+Definition of Nondual Śaiva Tantra We have seen that Tantra as an abstract category is a scholarly construction. Here I offer another construction, one that is useful for the present dissertation: a definition of the particular body of Tantric teachings that I will be focusing on, and which for the sake of convenience I call Nondual Śaiva Tantra (NŚT). My definition of this category is: “A refinement of Śaiva Tantric philosophy and practice in a nondual mode (*parameśvarādaya-vāda; advaitācāra*) that reached its peak in the 10th to 11th centuries and is primarily characterized by— 
+
+1\) emphasis on direct experience (*sākṣātkāra*) of a divine reality that 
+
+has transcendent (*viśvottīrṇa*) and immanent (*viśvarūpa*) aspects, often called *Śiva* and *Śakti* respectively, with Śiva primarily understood as the ultimate ground of being, and Śakti as the energy making up the entire manifest universe; 
+
+2\) initiation into a guru-disciple relationship and an ostensibly 
+
+caste-free *kula*; 
+
+3\) gnostic teachings generally combined with a ritual and/or yogic 
+
+practice utilizing mantras, meditative visualization, breath regulation and subtle-body practices, as well as the aesthetic cultivation of the senses, aimed at accessing and assimilating the divine energy in all things, in order to achieve power, pleasures, and liberation.”[^264] 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[^262]: *Na ca hṛdaya-krośana-hetu-karmopadeśād āgamāntarāṇām aprāmāṇyaṃ tasyāprāmāṇyatāyāṃ aprayojakatvāt. Vicikitsā hi nṛ-śiraḥ-kapālādyaśaneṣu yā sāpy anya-darśanābhyāsa-bhāvanopanibandhanā.* Cited and translated in SANDERSON, Śaivism and Brāhmanism lecture series Handout 8, 4 December 2012. Jayanta Bhaṭṭa himself only approved the Veda-congruent forms of Śaivism, i.e. the Siddhānta, and parodied the others in his farce *Āgama-ḍambara*.
+[^263]: *Pauṣkarapārameśvara* quoted in *Nityādisaṅgraha* (SANDERSON 2009: 289n689) and *Cintyaviśva* quoted in the *Dīkṣādarśa* of Vedajñānaguru: *kalpanā-mātraṃ jāti-bhedam* (Ibid.: n690).
+[^264]: This definition is slightly influenced by the definition of Tantra as a general category offered by David WHITE in his introduction to the book *Tantra in Practice:* “Tantra is that body of beliefs and practices which, working from the principle that the material universe is nothing other than the concrete manifestation of the divine energy of the godhead that creates and maintains that universe, seeks to appropriate and channel that energy, within the human microcosm, in creative and emancipatory ways” (2000: 9). This definition, while intending to subsume the whole of Tantra, in fact only applies to nondual Śaiva Tantra, but in that context is worth quoting. It emphasizes Tantra as a ritual technology that allows its practitioners to appropriate *śakti* and use it to attain *mokṣa* and *bhoga*.
+
+*[p. 129]* ^pg140
+
+Nondual Śaiva Tantra, for our present purposes, constitutes the textual materials where these features can be found. They are, by and large, texts of the Kaula Trika and the Krama, as well as the quasi-independent Kashmiri school known as the Spanda. These will be discussed further in Part Two. 
+
+1.9 
+
+Conclusion to Part One While it is impossible to summarize every important point that has been discussed in the present overview of Śaivism, I wish to draw the reader’s attention to a few significant points. This overview, primarily founded on the groundbreaking work of Professor SANDERSON and his students (GOODALL, VASUDEVA, HANNEDER etc.), has presented us with: 
+
+• a clearer map of the traditions of initiatory Śaivism than has hitherto been seen (see Table 2), 
+
+• a firmer set of key dates than has hitherto emerged (see Table 3), • the fact that Tantric Śaivism was, in all nine of its primary *sampradāya*s, a pan-Indian tradition in our period (as opposed to the recent regional designations such as “Kashmir Shaivism” and “Tamiḷ Śaiva Siddhānta”) 
+
+• the fact that the Śaiva Siddhānta (originally a dualist Tantric system 
+
+originating in North India) coexisted with the non-Saiddhāntika systems focused on Bhairava and the Goddess; “in spite of some mutual opposition on the theoretical level the various forms of Śaivism were co-functional from the point of view of their patrons and many practitioners”;[^265] 
+
+• the fact that all known Tantric traditions are mutually intertextual, with borrowings on both conceptual and liturgical levels amongst the Śākta- Śaivas and the Buddhist Tantras (especially the Yoginī-tantras). This concludes Part One of the present dissertation, constituting an overview of Śaivism that provides the necessary context for what follows. Part Two is an examination of the interrelated concepts of *āveśa, śaktipāta,* and *dīkṣā* in the primary sources of the Śaiva religion, as well as in relevant antecedent sources. 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[^265]: SANDERSON lecture handout, “Rolling Up One’s Sleeves in the Archives,” 28 June 2012, CSMC, Hamburg (available online at alexissanderson.com).
+
+*[p. 130]* ^pg141
+
+Part the Second 
+
+Possession, Conversion, Religious Experience, and Initiation: 
+
+Research on *samāveśa, śaktipāta, dīkṣā,* and their synonyms 
+
+ in the primary sources of Tantric Śaivism and its antecedents 
+
+*<āveśa> m. joining one's self (KātyŚr).; entering, entrance, taking possession of* *(MBh. Śak. Prab. etc.); absorption of the faculties in one wish or idea, intentness,* *devotedness to an object (BhP.); demoniacal frenzy, possession, anger, wrath* *(Bālar. Kād.); apoplectic or epileptic giddiness L.* 
+
+— Sir Monier MONIER-WILLIAMS’ Sanskrit Dictionary (1899) 
+
+2.1 *Theoretical reflections: what is “possession”?* 
+
+A large part of the text-critical exploration that follows is focused on the word *āveśa*, commonly translated as “possession,” generally referring to possession of a human agent by a superhuman one. That translation is only sometimes appropriate with regard to the Śaiva texts we will consider, but since it is certainly the case that *āveśa* signifies possession in the earliest period of our sources, and that the semantic shift of the term takes place against that background, we will begin by considering theoretical approaches to the study of possession and the extent to which they are relevant here. 
+
+There is no shortage of studies on the phenomenon of possession in South Asia and elsewhere, the great majority of them anthropological. The anthropological perspectives on the issue are summarized by Leslie SHARP (1993: 14ff) and critiqued and reevaluated by Morton KLASS (2003). Very few if any of these studies are helpful here, because they almost exclusively cover oracular possession and related forms (such as instructional or protective possession), in which specific ritual agents ordained for the purpose are said to be possessed by specific deities in order to give a blessing, solve a problem, or exorcize a evil spirit (see, e.g., INGLIS 1985: 90). By contrast, the type of *āveśa* that will most concern us here does not fit these categories, for it is described as an experience of the penetration of one’s being by the generalized “power of God.” Indeed, it would not be going too far to say that this latter kind of *āveśa* seems to have more in common with American Pentacostal or Baptist experiences of the “holy Spirit” than with most other forms of “possession” in South Asia. And yet the language of possession is apposite, for this “entry of the power of God” (*rudra-śakti-samāveśa*, *śiva-śakti-pāta*) constitutes an intense and consuming experience that can take a person over and even direct his actions, with the personal will temporarily in abeyance. Furthermore, some of the symptoms of possession in the ethnographic sources (such as shaking, swaying or reeling, fainting, etc.) tally with those described in the Śaiva scriptures we will consider. 
+
+Therefore we will briefly consider some definitions of possession from the literature. For HARPER (1963: 166): possession is “\[a\] type of complete-identification role playing \[that\] involves temporarily taking the identity of . . . a personified supernatural being.” This definition does not correspond to the primary sources examined here, in which there is no performative enacting of the personality of a specific deity. Also inappropriate for us is GARRETT’s (1987: 4) more recent definition 
+
+*[p. 131]* ^pg142
+
+of possession as “a kind of spectacular body language for expressing convictions or emotions too profound, too painful, or too dangerous to be expressed verbally.” Indeed, the common anthropological argument that possession is a ritualized pressure-release valve that allows subalterns (such as women and low-caste people) to express what is usually forbidden to say (an argument problematized in KLASS 2003) has nothing whatever to do with the type of possession examined here, which has to do largely with tapping and assimilating a spiritual energy or power that enlarges the initiate’s sense of self and capacity for action. One might say that possession in any form is frequently about empowerment, and certainly the type we examine here is, but none of the sociopolitical overtones seen in modern anthropological studies are apparent in our sources. 
+
+Morton KLASS’ landmark 2003 monograph that reevaluates the nature of spirit possession in the context of anthropological studies defines it as a subtype of “dissociate identity phenomena” called *patterned dissociative identity* (PDI), described in this way: 
+
+Individuals exhibiting PDI present alters \[viz., alternative identities\] deriving from and recognizable as entities of their society’s belief system (variously, spirits, demons, divinities, ancestors, and so forth) who speak an act in known, predictable, and recognizable ways. Thus . . . the alter manifestations are culturally patterned. . . . the patterned dissociative identities may be viewed as beneficent or community empowering on either or both transcendental (universe-maintaining) and pragmatic (problem-solving) levels. (2001: 119) 
+
+While not irrelevant to the materials we will consider, this definition is also not very germane, because in the Śaiva form of *āveśa*, one does not take on the personality of a specific divinity, since in our sources the concern is overwhelmingly with accessing the power or energy (*śakti*) of a universal Divinity. The effect of *āveśa* is therefore described in terms of a phemenology of trance or emotional experience, and at no point are specific speech acts attributed to those who become “possessed.” So what definitions of possession do we find that do correspond to the Śaiva Tantric sources? Though a bit vague, Janice BODDY’s definition is quite appropriate: 
+
+\[Possession is\] a broad term referring to an integration of spirit and matter, force or power and corporeal reality, in a cosmos where the boundaries between an individual and her environment are acknowledged to be permeable, flexibly drawn, or at least negotiable. (1994: 407) 
+
+Our kind of possession is further unlike that documented in ethnographic studies in that there is little disassociation or displacement of consciousness; corresponding to what David SHULMAN observed in Tamiḷ Nāḍu, the energy of the deity enters “without destroying his empirical, sensually motivated, autarchic being” (1991: 51), though there may be a temporary displacement of personal agency, and subsequent to his liberation the autarchy of his being is thought be fused with that of deity. Most appropriate of all, though, is probably Rich FREEMAN’s thesis (formulated with respect to northern Kerala’s *theyyam* rituals): “To be possessed means to perform 
+
+*[p. 132]* ^pg143
+
+the possession rituals correctly and manifest possession behaviors” (1993: 134). For Śaiva *āveśa* takes place nearly always in a ritual context, specifically initiation rituals, and is assumed to have occurred when the initiands manifest specific behaviors described in the scriptures as the signs (*cihna*s, *lakṣaṇa*s) of possession. 
+
+By far the most relevant single secondary source for the present study is Frederick SMITH’s *The Self Possessed* (2006), from which several of the above citations were drawn. Since SMITH also pursues a philological method, and is surveying premodern Sanskrit texts, his findings are dovetail best with those of the present study, though here we go well beyond his conclusions, especially with regard to his incomplete and often erroneous understanding of the Śaiva sources. Despite the many errors of chapter 10 of his work (“Possession in Tantra: Constructed Bodies and Empowerment”),[^266] the book on the whole is a major contribution, especially for its study of oracular childhood possession (*svasthāveśa*, ch. 11) and the critical/
+theoretical reflections in the introduction and conclusion sections of the book. SMITH argues, and I mostly agree, that possession as we see it in the Sanskrit texts is “an act of social subversion as well as an act of social confirmation, at least within a small but informed circle” (58). While unsure of what kind of social subversion he has in mind, the *āveśa* connected with the initiation rituals in our sources is a kind of confirmation of membership in a circle of cognoscenti. Also mostly apropos is SMITH’s assertion that “what is cultivated \[in possession\] is a heightened awareness and spontaneity that is exciting and attractive to both performer and audience” (60), though in our sources, there is no audience for these nonpublic rituals. But he sometimes contradicts himself, as when he rightly says that in (Kaula) Tantric texts *samāveśa* indicates “a state of complete absorption in an object or deity” (580) but then footnotes that statement with the mostly incorrect (and inverse!) statement that *samāveśa* “indicates blissful pervasion by an external force” (602 n2). There are two somewhat distinct usages in the Tantric sources: when *āveśa* means something like “possession” (in the earliest sources), it construes with an agent in the instrumental case; when *samāveśa* means something like “absorption” or “immersion” (in the mature tradition), it construes with a locative or genitive. In other words, there is no adequate discussion in SMITH 2006 of the question of the *direction* of entry; the verbal root allows for the denotation of both the act of being entered (by a supernatural force) or entering into (the deity).[^267] This is fully explored in the present work. 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[^266]: Even the chapter epigraph is mistranslated and wrongly contextualized (i.e. the view presented is not Śivāgrayogin’s, but rather one he is criticizing). The error is actually compounded in the full citation at p. 369: SMITH misunderstands the meaning of the verse, and calls the 16th century *Śaivaparibhāṣā* a Kāpālika text of the Atimārga! (See p. 296 below*.*) This can only mean he did not read beyond (or before) the verse he quotes, and further indicates a deep confusion about both the taxonomial terminology *and* the chronology of the whole Śaiva tradition. Further mistranslations, misinterpretations, and terminological errors abound in this chapter; perhaps the most egregious of the latter is the constant misuse of the term *saiddhāntika*, to the great detriment of any reader not already well educated in the structure of the Tantric Śaiva canon. Note that all SMITH’s mistranslations from pp. 367-78 are corrected in the present study.
+[^267]: As already noted in TORELLA 1994: xxxii.
+
+*[p. 133]* ^pg144
+
+In his conclusion, SMITH defines the lexical item *āveśa* as follows, attempting to capture both its religious and non-religious meaning: 
+
+*āveśa* suggests self-induced pervasion of a distinct and attractive force within the personality \[such as intense emotion\] . . . More appositely, it is self-induced possession of a celestial or ethereal being . . . indicat\[ing\] a significant shift in personality. This is usually a learned and controlled dissociative behavior that is consuming, integrative, and seamless, with little trace of inner conflict . . . In these two varieties of *āveśa*, the experiences of emotional absorption and that of spirit or deity possession are nearly indistinguishable. (2006: 580) 
+
+With this I mostly can agree, though I am uncomfortable with the application of psychiatric language (“dissociative”) and the definition perhaps infers a little more from the sources than is strictly supported by their evidence. But I think he makes a good point in saying that the emotional connotations of the term (see p. 139 below) cannot be separated from the mystical ones. He notes that *āveśa*, like other forms of “positive” possession, emerges from ritual; but the Tantric rituals we will examine do not fit neatly into either of the two mutually exclusive types of ritual that he identifies (brahmanical vs. non-brahmanical/non-Sanskritic). They are like the first type in that one “inculcates a controlled state of possession through the observance of complicated and precise processes” (591) but in the rituals of initiation we will examine, the one possessed is a passive recipient, while the guru, who is not possessed, is the one performing the ritual and performing the precise processes in question. On the other hand, they are like his second type of ritual in that they often include “a wholesale submersion into an idealized form of a deity” in which “the intentionality and decision making capabilities of the \[one possessed\] are ambiguous and often absent” (592). But our rituals of initiation-cum-possession are unlike both his ritual types in significant ways, as we shall see. However, we can here wholeheartedly agree with SMITH’s statement that in Sanskrit sources possession is often seen as modification of personality, not as a psychological aberration: “an undermining, shifting, or transforming of the identity of the possessed” (584-5) in a positive sense. In the Tantric materials, *āveśa* in general constitutes a religious experience in which the personality-code of the initiand is partially overwritten by that of the deity, resulting in a temporary or permanent transformation of his sense of self. SMITH rightly suggests (*passim*) that these accounts point us toward an implicit understanding of selfhood in South Asia which is radically different from the Western one (at least since Descartes): here the self/identity is mutable, fluid, porous, and permeable, its boundaries can blur and overlap with those of other beings and energies, and thus it exhibits what might be called a multidimensional multivalency. In other words, the self in South Asian discourse (and much of the rest of Asia too, for that matter) exhibits greater continuity with the whole of reality than it does in the Western view. As a result, it is sometimes a contested site, but more importantly it is one that can be *shared*. Self-induced possession that is seen as salutary is really nothing more (or less) than the sharing of self with a deity or divine power that has the qualities that one seeks to internalize. Therefore the individual is not necessarily fractured by “possession” as he is in the Western 
+
+*[p. 134]* ^pg145
+
+psychiatric context of Dissociative Identity Disorder or Dissociative Trance Disorder.[^268] Of course, we must hasten to add that this vision of permeable and porous selfhood does not only contrast with the Western one, but also with the brahmanical paradigm in India of the monadic, inviolable and unchanging self, as exemplified by the Sānkhya *puruṣa* and the *ātman* of the Vedāntins and Mīmāṃsakas.[^269] But though this self was posited as inviolable (e.g., in the *Gītā*), the fact that in practical life no brahmin thought it actually was inviolable is seen in the brahmanical obsession with purity laws, for through his conformity to *dharma* the brahmin maintained the barrier protecting his metaphysical self. SANDERSON precisely articulates this mainstream brahmanical view and its terror of possession when he writes: 
+
+Any relaxation of the inhibition and self-control that this conformity required was seen as opening up a chink in the armour of the integral self through which these ever alert and terrible powers of the excluded could enter and possess, distorting his identity and devouring . . . his essences.[^270] It will readily be recognised that the orthodox anthropologies were in themselves a defence against such forces, admitting as they did in the sphere of action no powers external to the individual’s karma-causality. Possession, therefore, was doubly irrational: it obliterated the purity of self-control and contradicted the metaphysics of autonomy and responsibility. (1985: 200) 
+
+And he cogently argues that the development of the Tantric rites of possession emerged in this context and as a reaction against it, as *tāntrika*s seized the opportunity for a kind of power that was denied the Vaidika brahmin but also made possible by the exclusive values of his worldview: 
+
+It was precisely because these forces threatened the \[brahmin’s\] “impotent purity” that they invited a visionary mysticism of fearless omnipotence, of unfettered super-agency through the controlled assimilation of their lawless power . . . The high Tantric soteriology which obliterated the extrinsicism of Brahmanical purity in the privacy of an ecstatic, all-devouring self-revelation of consciousness came out of the traditions of orders of exorcistic visionaries who, knowing the emanative clan-systems and hierarchies of the powers of impurity, freed and protected the uninitiated from their assaults and at the same time cultivated the practice of controlled possession, seeking permeation by the forms of Bhairava and Kālī which stood at the centre of, and 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[^268]: See the DSM-IV’s definition of the latter (which includes “possession trance,” which is a pathological mental disorder when it is “not accepted as a normal part of a collective cultural or religious practice”) at SMITH 2006: 49 and the important discussion of it at KLASS 2003: 93- 125. I have not yet checked the newly issued DSM-5 (2013) to see if this category still appears.
+[^269]: SANDERSON on the latter: “in his self-representation, the most orthodox of Brahmans was the most individual of individuals. For him there were no external powers which moulded his life” (1985: 195).
+[^270]: Citing TĀV, vol. 11, *āhnika* 29, p. 13, ll. 17-18 and p. 19, ll. 19-20; and *Netra-tantra* 20.1-40.
+
+*[p. 135]* ^pg146
+
+controlled as their emanations, the clans of these impurity-embodying and impurity-addicted obsessors of the orthodox identity. (1985: 200-1) The present study agrees strongly with SMITH when he regards the permeable, porous, and mutable self as the dominant discourse of selfhood in South Asia, the brahmanical schools referred to above being rather the exception, a fact obscured by disproportionate Western scholarly attention toward them up until recent times. It may be that SMITH goes too far when he calls possession “perhaps the region’s most widespread form of spiritual expression” (2006: 597), but it is doubtless far more significant than heretofore generally realized, and it is in Tantric Śaivism specifically that possession and the religious ideas developed out of it achieve their apotheosis, at least within the context of the vast body of Sanskrit literature. Therefore a study of *āveśa* and related ideas in the textual sources of Tantric Śaivism is a desideratum for all those who wish to understand South Asian religion. The present work partially fills that need. Through our exploration of the sources, we will discover that the range of meanings encompassed by *(sam)āveśa* is greater than that attested by the dictionaries. By careful consideration of context and usage, I have so far identified these meanings: entry (= *praveśa*), possession, infusion, pervasion (≈ *vyāpti*), penetration (= *vedha*), copenetration, fusion (*= sāmarasya*), immersion, emergence (= *unmagna* of one’s true nature), communion (= *sāyujya*) or consubstantiation, absorption (*= samāpatti/samādhi*), spiritual experience (= *sākṣātkāra, anubhāva*), and enlightenment or realization (*nityodita-samāveśa*). This constitutes the true semantic range of the word, a range not relflected in our dictionaries (and is *pace* SMITH (2006: 580), who surprisingly regards *āveśa* as having “much less polysemy” than *praveśa* or *grahaṇa*). In general I will not translate *(sam)āveśa*, so the reader can herself track the multivalence of the term. 
+
+Lastly, in the foregoing I used the word “experience” in relation to *āveśa* a number of times. If I refer to *āveśa* as a “religious experience,” it does not indicate that I argue that there are forms of experience that are uniquely religious (though the Śaiva authors certainly thought so), but rather that *āveśa* refers to an experience taking place in a religious context. Moreover, I agree with significant parts of Robert SHARF’s 1998 essay on experience (SHARF 2000), in that I am not proposing that the inner experience of religious agents is amenable to scholarly study, but only that evidence of experience is a central concern of our sources. He argues that “modern Buddhist communities judge ‘claims to experience’ on the basis of the meditator’s particular lineage, the specific ritual practice that engendered the experience, the behaviour that ensued, and so on. In other words, a meditative state or liberative experience is identified . . . on the basis of eminently public criteria” (2000: 279-80). This applies rather perfectly to our premodern sources as well. It is precisely because subjective experience by its very nature is unverifiable by anyone else that our sources focus on the legitimate (i.e., scripturally determined) “signs” of *āveśa*, which is to say the “public criteria” that are couched in, and rendered meaningful by, the very context that SHARF describes. (For more discussion of this, see the Conclusions.) 
+
+Now we turn to the history of our key terms.
+
+*[p. 136]* ^pg147
+
+Āveśa *(and hints of* śaktipāta*) in the antecedent sources* Amongst our key terms, *āveśa* and *dīkṣā* have a long history before the advent of Tantric Śaivism in the historical record (c. 500 CE), while *śaktipāta* is a term unique to Śaivism. The pre-Śaiva history of the term *dīkṣā* is already well summarized by GONDA (1965: 315-462), so here we focus on *āveśa*. Though this term is discussed at length in SMITH 2006, I find his use of the primary sources problematic,[^271] and it seemed best to lay that work aside and conduct my own research, cursory though it is with regard to the pre-tantric sources here summarized. 
+
+The following presentation of sources proceeds chronologically as far as possible. Amongst the materials that merit attention, the early medical literature and the *Mahābhārata* are roughly coeval (100 BCE-100 CE),[^272] followed by the *Pāśupatasūtra*s, the *Brahmasūtra*s, and the *Yogasūtra*s. 
+
+2.2.1 Āveśa *and related concepts in the medical literature* 
+
+The earliest of the Āyurvedic texts is the *Caraka-saṃhitā*, dated to about 100 BCE or shortly thereafter (WUJASTYK 2012),[^273] followed by the *Suśruta-saṃhitā*, dated to the early centuries of the common era (WEISS 1977). The concept of influence or possession by nonhuman beings appears in both, though only rarely in association with the root *āviś*. Possession in Āyurveda has previously been addressed in some detail by WEISS (1977) and has received a fine treatment by SMITH (2006: 471-578). WEISS adventurously but intelligently attempts to assimilate the Āyurvedic categories of *bhūta* and *graha* influence to modern Western categories of mental illness as described in the psychiatric Diagnostic and Statistical Manual, not unreasonably assuming that the former are culturally-specific descriptions of the latter.[^274] For our present purposes, the emic categories will be sufficient to show that the notion of permeable selfhood has an ancient pedigree in Indian culture. 
+
+Caraka[^275] distinguishes between two types of etiology in his discussion of pathological states of madness (*unmāda*), i.e. *nija-* and *āgantu-unmāda* (6.9.16), or what we might call endogenous and exogenous types respectively (WEISS 1977: 1). In Suśruta we see the term *amanuṣa-upasarga* (6.60) instead of *āgantu-unmāda* for exogenous mental illness, stressing the role of nonhuman entities more strongly. We will address the more systemized presentation in Caraka first. There we see eight types of *bhūta*s (nonhuman beings) or *graha*s (seizers, afflictors) enumerated, in order from less to more terrifying and base: *deva*, *ṛṣi, guru-vṛddha-siddhādi*, *pitṛ*, 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[^271]: Specifically, I discovered so many errors of substance and mistranslations in chapter 10 (on “Possession in Tantra”) of his book that I began to wonder whether other chapters dealing with primary sources might be similarly afflicted (though to be fair, perhaps chapter 10 is the weak point of the work).
+[^272]: In his *Rethinking the Mahābhārata* (University of Chicago Press, 2001)*,* Alf HILTEBEITEL proposes 100 BCE as a kind of “center of gravity” date for the text.
+[^273]: MEULENBELD argues, with extensive evidence, that the core of the text dates to 50-150 CE (HIML IA: 105-115).
+[^274]: WEISS’ efforts are evaluated by SMITH at 2006: 497ff.
+[^275]: For the sake of convenience, I will use this name to refer to the text of the *Caraka-saṃhitā*, which in fact appears to have been the product of three individuals: Agniveśa, Caraka, and Dṛḍhabala. See WUJASTYK 2012.
+
+*[p. 137]* ^pg148
+
+*gandharva*, *yakṣa*, *rākṣasa*, and *piśāca*.[^276] These beings afflict humans, either through possession or influence (and here there is no clear distinction between the two), for one of three reasons: out of a desire to injure, to enjoy sense-pleasures, or, curiously, to experience piety (*abhyarcana*) (2.7.15). They take the opportunity to mount (*āruh*), enter (*āviś*), or seize (*grah*) humans when the latter are in liminal space-times: at an empty crossroads at twilight, in an empty isolated house, near a lone tree, in a cremation ground, having intercourse with a menstruating woman, at a battle, at a religious ritual, childbirth, etc. (2.7.14).[^277] They also are given an opportunity to enter/seize if someone breaks a vow (*vratabhaṅga*) or commits a transgression (*aparādha*) and fails to perform the proper expiation (*prāyaścitta*); or as a fruition of *pāpa-karman* from a past life; or they may afflict simply because of a defect in one’s mind (*prajñāparādha*) (here the exogenous blurs into endogenous) (2.7.10). “By virtue of their own powers and attributes (*guṇa-prabhāvaiḥ*), the gods and the rest enter (*viś*-) the body of a man quickly and imperceptibly, without defiling it, like a reflection in a mirror or sunshine in a crystal (*sūryakānta*).”[^278] Each of the different classes bring about *unmāda* in different ways: *deva*s and *pitṛ*s through visions, *guru*s et. al. by cursing, *gandharva*s by touching, *yakṣa*s by entering (*samāviś-*), *rākṣasa*s by making one smell one’s own body-odor (!), and *piśāca*s by mounting and riding a person (2.7.12). (Note that WEISS 1977 instead takes these as referring to prodromal symptoms in the initial onset of mental illness.) On the basis of this description, we might be tempted to suppose that only *yakṣa*s and *piśāca*s actually possess a person, but Cakrapāṇidatta’s (eleventh century) commentary on 6.9.16 glosses the word for “attacks” by all these various beings (*abhidharṣaṇāni*) with the word *āveśa*.[^279] 
+
+Turning to Suśruta, we find much the same material in a less systematic form. He tells us that *graha*s can enter embodied beings unseen (6.60.19), and further that they have trillions and trillions of terrible assistants that can enter/possess a person and feed on his blood, fat, and flesh (6.60.22: *teṣāṃ grahāṇāṃ paricārakā ye koṭī-sahasrāyuta-padma-saṃkhyāḥ | asṛg-vasā-māṃsa-bhujaḥ subhīmā niśāvihārāś ca tam āviśanti*). (One can hardly help but think of germs or viruses here, which of course exist in countless numbers, and which also enter us, feed on us, and can even alter !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[^276]: Note that at *Caraka* 6.9.21, we see the *brahmarākṣasa* added and the *ṛṣi* lumped in with the *gurvādi* category to keep the total at eight *bhūta*s. These beings are in some ways parallel to, but clearly distinct from, the *graha*s that appear in the *Mahābhārata* in association with Skanda and the *gaṇa*s and *mātṛ*s (see HATLEY 2012, esp. pp. 100-103 and n3); note that the *mātṛ*s, initially seen as predominantly malevolent *graha*s and later as benevolent deities, were eventually standardized (by the fifth century) at eight as well.
+[^277]: Tellingly, these and other opportunities for possession are called *chidra*s, “chinks, openings” (*Caraka* 6.9.21.1 and *Aṣṭāṅga-hṛdaya* 6.4.6-8; the same word is used in the Tantric literature, e.g. *Netra-tantra* 19.46).
+[^278]: *Caraka* 6.9.18, trans. SMITH 2006: 488. Cf. *Suśruta* 6.60.19.
+[^279]: Though it is by no means certain that all the ancient authorities thought these pathological conditions were literally due to the influence of other beings with independent agency. Note the definition of *apasmāra* (epilepsy) given in the dramaturgical *Daśarūpa:* “Epilepsy, which is \[due to\] possession by a *graha*, by suffering, or by \[another cause\], is depicted by falling to the ground, shaking, sweating, foaming at the mouth, etc.” (*āveśo graha-duḥkhādyair apasmāro yathāvidhiḥ bhūpāta-kampa-prasveda-lālāphenodgamādayaḥ*, cited in HARA 1979: 271n69). Here the same word—*āveśa*—is used with both a *graha* and *duḥkha* as “agent.”
+
+*[p. 138]* ^pg149
+
+our mental functioning.) However, the verse just before this surprises us by saying: “They do not cohabit (*saṃviś*) with men, nor do they ever possess (*āviś*) men. People who say that they ‘possess’ out of delusion can be disregarded when it comes to demonology.”[^280] In the context, this may well be an interpolation of a later redactor, but even so, the ambiguity it expresses about whether these conditions of mental illness (*unmāda, unmatta*) are really attributable to possession is significant. 
+
+All three of the classic Āyurvedic texts (the third being Vāgbhaṭa’s *Aṣṭāṅga-hṛdaya*, c. seventh century) describe the behaviors and demeanor of a person seized or possessed by each of these *bhūta*s. These accounts are clearly modeled on the behaviors of the respective being as known from mythology (interest in religion and purity in the case of the *deva-graha*, sensuality in the case of the *gandharva-*, aggression in the case of the *rākṣasa*-, etc.); or, to take the view of WEISS (1977), biologically-based mental illnesses are here made sense of with reference to these known cultural categories. For example, the *deva-graha* is afflicted with obsessive-compulsive disorder, the *gandharva* is hypomanic, the *yakṣa*’s symptoms indicate bipolar affective psychosis, and so on. Certainly it is the case that the eight *bhūta*- types are arranged by Caraka in order of increasing antisocial aggression, disorganization of the personality, and loss of competence, as WEISS says (1977: 150), whose analysis is too persuasive to dismiss entirely but fails to take account of the fact that Western psychoanalytic categories are themselves cultural constructions that change with culturally-determined views of normativity (witness the multiple revisions of the DSM) and that therefore his enterprise is reductionistic. What is interesting here for our present purposes is that despite the scale of normativity implied in the *devādi-piśācānta* spectrum, all eight types are treated as thoroughly pathological and in need of treatment and/or exorcism. By contrast, in the Tantric context, possession by deities is considered beneficial and is therefore sought, while possession by *piśāca*s etc. is considered pathological and to be avoided.[^281] 
+
+What is the relevance of these discussions for our primary topic? This evidence demonstrates that from a very early date we confront a cultural milieu in which the human being is seen as permeable, and in which the consequences of sharing your self with other beings can be considerable (see *Netratantra*[^282] 19.46 and 20.1-40 and SANDERSON 1985: 200, cited above on p. 134). The behaviors of the allegedly possessed in these Āyurvedic texts most frequently demonstrate marked rebellion against the strictures of Brāhmanic society (as is also seen in possession cross-culturally; see section 2.2) and a taste for the forbidden (e.g., meat, fish, wine, and women are several times mentioned, especially in the more demonic end of the !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[^280]: 6.60.21: *na te manuṣyaiḥ saha saṃviśanti na vā manuṣyān kvacid āviśanti | ye tv āviśantīti vadanti mohāt te bhūtavidyā-viṣayād apohyāḥ*; but the ablative case in *–viṣayāt* is odd when we would expect a locative, and I wonder if *apohyāḥ* was originally meant to refer to the *graha*s, with a meaning something like “people speak of ‘possession’ because they can be ‘removed’ through the techniques of exorcism,” but perhaps this is a stretch. Cf. WEISS 1977: 54.
+[^281]: We should note that beneficial possession in Tantric yoga and ritual is not really possession in the Western sense of that word, as the consciousness of the person “possessed” is never displaced or turned off (except perhaps in the special case of oracular possession or *svasthāveśa*).
+[^282]: This eighth-century text is coeval with the *Aṣṭāṅga-hṛdaya*.
+
+*[p. 139]* ^pg150
+
+spectrum). I propose that, in the logic of inversion that Tantric works sometimes feature, tasting the forbidden invites possession. As we will see, some Tāntrikas and all Kaulas seek a salutary and controlled form of possession (if we can call it that) by the deity. The Āyurvedic sources do not acknowledge a salutary kind of possession, however. As noted, possession by a *deva* is here just as pathological as by a *rākṣasa*, if less frightening. As we will see, Tāntrikas sought *samāveśa* by/into the benevolent Supreme Deity or his Power in the context of liberation-practice, and only sought *āveśa* by spirits (*yoginī*s, *ḍākinī*s, *mātṛ*s, *nāyaka*s, etc.) in the context of practice for *siddhi—*and it was precisely his ability to negotiate such a dangerous ‘possession’ without losing control that granted him the powers he sought. 
+
+2.2.2 Āveśa *in the epic sources* 
+
+When we turn to the *itihāsa* literature, we see the real flexibility and yet specificity of the term *ā*√*viś* and its synonyms. It is of course usage that determines the semantic range of a term, so we will present a variety of non-technical usages of *āviś* and then discuss them. First we will see a list of instances found in the *Rāmāyaṇa* assembled by Frederick SMITH (2006: 277, 282), and then a more thorough list of instances in the *Mahābhārata* assembled by Minoru HARA (1979). The translations given in SMITH’s list are all from the unabridged translation of the critical edition of the *Rāmāyaṇa* supervised by R. GOLDMAN and S. SUTHERLAND-GOLDMAN, and translated by the same two plus S. POLLOCK and R. LEFEBER. 
+
+Instances of *ā*√*viś* in the *Rāmāyaṇa* (incomplete list): 
+
+• *vīryam āviveśa* “filled with virility” 5.1.33 • *rāvaṇaṃ manyur āviśat*, “rage consumed Rāvaṇa” 6.62.35d • *brahmahatyā yadāviśat*, “when overcome by \[the gravity of\] killing a 
+
+brāhmaṇa” 1.23.18 
+
+• “heartache over the exile of Rāma and Lakṣmaṇa once more swept 
+
+over (*āviveśa*) him” 2.57.2 
+
+• “But then we began to experience intense sweating, fatigue, and fear. 
+
+And we were seized by confusion (*samāviśata mohaḥ*) . . .” 4.60.10 
+
+• “Then Rāma's consternation gave way to a feeling of fear that shot 
+
+through (*āviveśa*) him with sharp pangs” 3.42.20 
+
+• “fear overwhelmed (*āviśat*) Sugrīva” 6.36.24 • “Rāvaṇa was overcome (*āviśat*) with fear” 6.91.4 • “Tell me once again, monkey, of the characteristic marks of Rāma and Lakṣmaṇa so that sorrow shall not overwhelm (*samāviśet*) me” 5.33.3 • “Grief overcame (*samāviśat*) Sītā, anxious . . .” 7.47.17d • “The brothers were absorbed (*samāviśan*) in the precepts of dharma” 
+
+7.10.2cd When we look at the English words with which these reputable Sanskritists render *āviś*—filled, consumed, overcome, swept over, seized, shot through, overwhelm, and absorbed—we see that despite the diversity of usages, they usually have something in common, i.e., that which gives coherence to the semantic field of *āviś*. These usages denote emotional states that are sufficiently intense to “take possession” of one’s consciousness completely, as if, for that moment, one’s selfhood is 
+
+*[p. 140]* ^pg151
+
+experienced as nothing but a mass of fear, anger, sorrow, etc. But not only emotions; other states that encompassing the whole being, like concentration/absorption or sleep (4.26.7: “Nor would sleep come (*āviveśa*) to him”—I would translate “overtake him”) also construe with the verb. In his survey of the uses of *āviś* in the *Rāmāyaṇa*, SMITH finds only one instance of actual possession, that in which Daśaratha is said by his people to be possessed by a *sattva* (being, spirit) at 2.30.10. But here he is following POLLOCK’s translation of a problematic passage without commenting on the problems. For the grammar (*daśarathaḥ sattvam āviśya . . . bhāṣate* is the relevant phrase) does not yield the meaning here demanded of it; or if it does, it is only under duress. While I concur that POLLOCK’s translation probably aligns with the original author’s intent, the passage requires emendation to support that translation.[^283] Without such, I would tend to side with the commentator Śivasahāya who takes the hemistich to mean that Daśaratha clings (overmuch) to *dharma* (= *sattva*) in this matter and thus cannot say otherwise but banish his beloved son.[^284] 
+
+Turning to the *Mahābhārata*, our needs are anticipated by Minoru HARA, who in his usual thorough style sought to arrive at the exact meaning of the phrase *śraddhāviveśa* in the Kaṭhopaniṣad by collating as many different nominal subjects (*kartṛ*) that construed with the verb as he could find in the *Mahābhārata,* with additional citations from the *Harivaṃśa* and the *Rāmāyaṇa.* This resulted in the following list of sixty nominal items denoting things or states that enter/possess/
+overwhelm/seize/fill human beings as they are represented in Sanskrit: 
+
+adharma, ahaṅkāra, alakṣmī, anartha, asukha, asura, avamāna, avṛṣṭi, ārti, bhaya, bhī, cintā, darpa, dānava, duḥkha, durbhikṣa, dainya, ghṛṇā, harṣa, hrī, jvara, kali, kāla, kaśmala, kāma, kautūhala, kopa, krodha, kṛpā, kṣudh, lobha, mada, manmatha, manyu, māna, mātsarya, moha, mṛtyu, nidrā, pāpman, pauruṣa, pipāsā, prajāgara, rajas, rāga, rākṣasa, roṣa, ruṣ(ā), sambhrama, sattva, śoka, śrama, tamas, tuṣṭi, vepathu, vismaya, viṣṇu, vyādhi, yakṣa, yakṣman (HARA 1979: 264-9) 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[^283]: Thus Pollock puts *Daśaratha* in the accusative and supports the emendation by noting that the northern recension has *sattvenāviṣṭa-* (1986: 382n10). But Pollock’s *daśarathaṃ sattvam āviśya* does not solve the problem entirely, for *sattva* in the meaning he wants (“a spirit”) is masculine, not neuter.
+[^284]: Robert GOLDMAN, personal email communication, 28 June 2013. GOLDMAN points to a more unambiguous instance of possession in the text, in sarga 57 of the critical edition (64 in the “vulgate”) where, he says, we find “a compressed and garbled version of the MBh story of Kalmāṣapāda. In the Mbh it is a very clear case of *āveśa* in which a *rākṣasa* possesses the king and makes him a man eater. In the Rām. version, a *rākṣasa* takes the form (*veśa*) of a cook to feed the king human flesh. The story is vague as to whether there is one cook or two. Again Śivasahāya tries his best. He says that while the chief cook was fretting as to how to prepare a kingly meal fit for a guru as well so well, the *rākṣasa* took the form of a second cook and chucked some human chuck into the pot. I see it as a kind of confused account of possession perhaps deriving from a confusion between *veśa* and *āveśa*.”
+
+*[p. 141]* ^pg152
+
+Then HARA analyzed these sixty items into eight classes, an analysis which we accept. These, with some of his citations from the *Mahābhārata* noted, are (1979: 269- 70): 
+
+1\. intense emotion: anger (*krodha* \[e.g. 12.249.5\], *kopa* \[e.g. 3.11.30\], *roṣa* 
+
+\[e.g. 3.21.18\], *manyu* \[1.204.17\]); agony (*ārti*); valor (*pauruṣa* \[e.g. 9.10.24\]); joy (*harṣa* \[e.g. 3.162.10\]); grief (*śoka* \[e.g. 3.2.15\]); fear (*bhī* \[eg. 3.168.16\], *bhaya*); agitation (*sambhrama* \[e.g. 1.73.25\]). 
+
+2\. selfishness: ego (*ahaṅkāra*), arrogance (*darpa*), haughtiness (*māna*), 
+
+contempt (*avamāna*), malice (*mātsarya*), greed (*lobha*) 
+
+3\. desire: *kāma* \[e.g. 1.204.15\], *rāga* \[e.g. 14.42.51\], *madana*, etc. 
+
+4\. suffering or disease: *duḥkha* \[e.g. 4.18.8\], delusion (*moha* \[e.g. 7.31.32\]), 
+
+fever (*jvara* \[e.g. 12.27.12\]), depression (*kaśmala*), seizure (*vepathu*), etc. 
+
+5\. actual possession: *yakṣa* \[e.g. 3.219.51\], *rākṣasa* \[e.g. 3.240.33\], *asura* 
+
+\[e.g. 3.240.11\], *kali*, etc. 
+
+6\. bodily impulse: sleep (*nidrā*), fatigue (*śrama* \[e.g. 13.70.6\]), intoxication 
+
+(*mada* \[eg. 16.4.31\]), thirst (*tṛṣṇa*), hunger (*kṣudh* \[e.g. 14.57.19\]), etc. 
+
+7\. mental impulse: anguish (*cintā*), astonishment (*vismaya* \[e.g. 3.289.23\]), 
+
+compassion (*kṛpā* \[e.g. 5.180.36\]), bashfulness (*lajjā*), shame or modesty (*hrī*) 
+
+8\. calamity: misfortune (*alakṣmī*), draught (*avṛṣṭi*), epidemic (*vyādhi*), etc. Seeking to unite these eight kinds of usage into a pattern, HARA rightly characterizes them in this way: “overpowering impulse, psychological and physiological as well, which \[can\] originate either from outside or inside the human being” (1979: 270). He adds perceptively, “These impulses overtake human beings especially when they are off-guard, who, once overtaken, can hardly resist” (Ibid.). For “off-guard,” we could gloss “unaware, careless, negligent” (*pramāda*), the enemy of yogī and brāhmin alike, which opens up a chink or psychic orifice (*chidra*) through which a possessing entity may gain access. The brāhmin seeks to prevent this unilaterally; the Tantric yogī seeks to allow it to happen in a controlled and conscious manner, as we shall see. 
+
+HARA goes on to say that “all those under the impact of *force majeure* are termed *āviṣṭa*,” and that this form is “almost synonymous with *ākrānta* (seized), *grasta* (stricken), *gṛhīta* (overtaken), *abhibhūta* (overpowered), and *ārūḍha* (ridden).” (1979: 271) What is very significant for us here, however, is that in the Sanskrit, none of these verbs necessarily imply independent agency. The metaphor being a governing form of thought in South Asian culture means that it is normal to attribute agency to virtually anything for the purposes of dramatization or analogy, but we cannot suspect our authors of actually thinking that each of our emotions and bodily impulses like hunger and thirst have independent agency any more than an English poet means it literally when he says “so-and-so was Fury incarnate.” Since precisely the same verbs are also used to indicate what we translate as “possession” or influence by a demon or deity, to what extent can we be sure that our authors regarded this in the literal sense in which Western culture tends to understand possession? This seems to me to be a question that is not easily resolved. We must look carefully at the language in each case. By doing so, we will conclude 
+
+*[p. 142]* ^pg153
+
+that there are a range of possibilities for the usage of these verbs, and that in many cases we would be wrong to read the “possession” as literal. For example, in a *Mahābhārata* story, when Lord Viṣṇu is said to enter (*āviś*) King Kuvalāśva with his energy[^285] to give him the strength to defeat the demon Dhundhu, need we understand this as a case in which Viṣṇu is posited to act as a volitional agent of possession? Or can we instead see it as a culturally-specific and poetic way of saying that the king drew strength from his feeling of connection to his chosen deity? In the birth of Skanda narrative a little later in the same *parvan*, Rudra and Umā are said to merge with (*samāviś*) Agni and Svāhā respectively in order to give birth to Skanda (3.220.9). This is more a case of temporary unity or spiritual coalescence than possession. However, there are other cases which unambiguously must be read as possession or more precisely the sharing of a single body by two (or more) conscious agents. At Mbh. 12.278, Uśanas (termed a *yogasiddha*) projects himself into Kubera to steal his wealth (BLOOMFIELD 1917: 9 and WHITE 2009: 149-50), and in a well-known passage at Mbh. 13.40.40-58, Vipula enters the body of his guru’s wife to prevent her conjugal union with Indra (see below). Therefore, we must always depend on a careful reading of the context to inform us which meaning in a wide spectrum of possibilities to ascribe to a given usage of *āviś*: entry, possession, penetration, infusion, pervasion, immersion, coextensivity, or even, as we shall see later, spiritual experience or enlightenment itself. 
+
+The story of Vipula found in the *Mahābhārata* has been recently discussed by David WHITE[^286] (2009) though without acknowledgment that it was already well discussed by Maurice BLOOMFIELD in a 1917 article on *para-śarīrāveśa*. In the latter source we find a distinction made between a “philosophical” kind of possession and a “folkloric” kind. The second kind, often found in the story literature, depicts the possession and animation of a corpse (or a living body whose owner is temporarily absent) through yogic means, while the first describes the sharing of a single body which BLOOMFIELD associates with the theory outlined at *Yoga-sūtra* 3.38 (to which we shall come) (1917: 7). BLOOMFIELD does not say so, but I find that when a corpse or an “empty” living body is being possessed, *praviś* is often used, whereas when “sharing of self” is happening, *āviś* is generally seen. The folkloric type has abundant examples (Ibid.: 10-12), one of the most famous being the story of “King Vikrama’s Adventures in the Body of a Parrot,” dealt with at length by BLOOMFIELD (Ibid.: 12-43). The “philosophical” type of possession is found only in one instance in the body of literature known to BLOOMFIELD, that being the story of Vipula in Mbh. 13.40, which he briefly summarizes (Ibid.: 7-8). Here we will present a translation of the relevant portion of the story. 
+
+The story of Vipula occurs in a series of misogynistic tales in the Anuśāsana Parvan, and is introduced by phrases that recur in this unfortunate section of the epic: “A wanton woman is a blazing fire; born of Maya, she is Māyā; \[such\] women are the razor’s edge, poison, a serpent, and Death combined” (13.40.4). The moral of these tales is that, as in the *Manu-smṛti*, women cannot be trusted to be faithful and must be guarded carefully since they have no power to resist their baser impulses if 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[^285]: *tam āviśat tato viṣṇur bhagavāṃs tejasā prabhuḥ,* Mbh. 3.195.12ab
+[^286]: With whom I read the passage in 2006.
+
+*[p. 143]* ^pg154
+
+the temptation is sufficiently enticing. Our story involves the incomparably beautiful wife of the Vedic sage Devaśarman. The latter wishes to perform a sacrifice for a distant patron but fears to leave his wife alone, so upon considering the problem he decides to place his wife Ruci in the care of his beloved disciple Vipula. Devaśarman warns Vipula that Indra may come to make love to Ruci, and may take on any form: a man of any *varṇa*, wise, stupid, tall, short, pale, or dark; animal, bird, divine, demonic, an insect, or even the wind (40.10-37). “When invisible, he can only be seen with the eye of wisdom. . . . So you must make a great effort to protect her. He must not lick Ruci like a wretched dog \[would lick\] the offerings laid down for the sacrifice,” he tells Vipula, and departs (40.37-40). We continue with a literal translation of the section immediately following. 
+
+*vipulas tu vacaḥ śrutvā guroś cintāparo ’bhavat* |
+*rakṣāṃ ca paramāṃ cakre deva-rājān mahābalāt* || 41
+*kiṃ nu śakyaṃ mayā kartuṃ guru-dārābhirakṣaṇe* |
+*māyāvī hi surendro ’sau durdharṣaś cāpi vīryavān* || 42
+*nāvidhāyāśramaṃ śakyo rakṣituṃ pākaśāsanāt* |
+*uṭajaṃ vā tathā hy asya nānā-vidha-sarūpatā* || 43
+*vāyu-rūpeṇa vā śakro guru-patnīṃ pradharṣayet* |
+*tasmād imāṃ saṃpraviśya ruciṃ sthāsye ’ham adya vai* || 44
+*atha vā pauruṣeṇeyam aśakyā rakṣituṃ mayā* |
+*bahu-rūpo hi bhagavāñ chrūyate hari-vāhanaḥ* || 45
+*so ’haṃ yoga-balād enāṃ rakṣiṣye pākaśāsanāt* |
+*gātrāṇi gātrair asyāhaṃ saṃpravekṣye ’bhirakṣitum* || 46
+*yady ucchiṣṭām imāṃ patnīṃ ruciṃ paśyeta me guruḥ* |
+*śapsyaty asaṃśayaṃ kopād divya-jñāno mahā-tapāḥ* || 47
+*na ceyaṃ rakṣituṃ śakyā yathānyā pramadā nṛbhiḥ* |
+*māyāvī hi surendro ’sāv aho prāpto ’smi saṃśayam* || 48
+*avaśya-karaṇīyaṃ hi guror iha hi śāsanam* |
+*yadi tv etad ahaṃ kuryām āścaryaṃ syāt kṛtaṃ mayā* || 49
+*yogenānupraviśyeha guru-patnyāḥ kalevaram* |
+*nirmuktasya rajo-rūpān nāparādho bhaven mama* || 50
+*yathā hi śūnyāṃ pathikaḥ sabhām adhyāvaset pathi* |
+*tathādyāvāsayiṣyāmi guru-patnyāḥ kalevaram* || 51
+*asaktaḥ padma-patra-stho jala-bindur yathā calaḥ* |
+*evam eva śarīre ’syā nivatsyāmi samāhitaḥ* || 52
+*ity evaṃ dharmam ālokya veda-vedāṃś ca sarvaśaḥ* |
+*tapaś ca vipulaṃ dṛṣṭvā guror ātmana eva ca* || 53
+*iti niścitya manasā rakṣāṃ prati sa bhārgavaḥ* |
+*ātiṣṭhat paramaṃ yatnaṃ yathā tac chṛṇu pārthiva* || 54
+*guru-patnīm upāsīno vipulaḥ sa mahā-tapāḥ* |
+*upāsīnām anindyāṅgīṃ kathābhiḥ samalobhayat* || 55
+*netrābhyāṃ netrayor asyā raśmīn saṃyojya raśmibhiḥ* |
+*viveśa vipulaḥ kāyam ākāśaṃ pavano yathā* || 56
+*lakṣaṇaṃ lakṣaṇenaiva vadanaṃ vadanena ca* |
+*aviceṣṭann atiṣṭhad vai chāyevāntargato muniḥ* || 57*#*
+
+*[p. 144]* ^pg155
+
+*tato viṣṭabhya vipulo guru-patnyāḥ kalevaram* |
+*uvāsa rakṣaṇe yukto na ca sā tam abudhyata* || 58*#* *yaṃ kālaṃ nāgato rājan gurus tasya mahātmanaḥ* |
+*kratuṃ samāpya svagṛhaṃ taṃ kālaṃ so 'bhyarakṣata* || 59
+Now Vipula, having heard these words of the guru, became absorbed in thought. “I \[must\] give \[Ruci\] the highest protection from the mighty king of the gods (41). Yet how can I protect the guru’s wife? For the best of the gods \[i.e., Indra\] is a trickster, as well as heroic and difficult to assail (42). Not having prepared (for such an occasion), I am not capable of protecting the hermitage from the Punisher of Pāka, nor likewise our grass hut; for he has many various forms (43).[^287] Śakra might violate the wife of the guru in the form of wind; therefore, having entered this Ruci, I will now indeed remain \[in her\] (44). It may be that she cannot be protected by me through human deeds, for it is taught that the Lord Harivāhana has many forms (45). It is I who will protect her from Punisher of Pāka by \[my\] power of yoga. I will enter her limbs with \[my\] limbs, to protect \[her\] (46).[^288] If my guru, of great austerity and divine knowledge, should see his wife Ruci as defiled (*ucchiṣṭa*), he will without doubt curse me in his rage (47). It is no more possible to protect her than any other young wanton woman \[can be protected\] by men. For the best of the gods is a trickster. Oh, I am filled with doubt, for the Guru’s teaching must be followed here! If I would accomplish this, I must do something extraordinary (48-9). Entering the body of the guru’s wife yogically, I shall not be committing an offence, being free of passions[^289] 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[^287]: Grammatical notes: I have adopted two alternate readings for this problematic verse: *avidhāya*, from MSS D4-6, as a negated gerund, here meaning ‘not having prepared’; and the reading of *Pākaśāsana* in the ablative, represented in all the manuscripts of the Southern recension bar one and two of the D MSS. If I was forced to accept the readings in the critical edition, then the first phrase could be read as either *na āpi-dhāya-āśramaṃ*, meaning ‘the hermitage having its friends’ or ‘together with its allies’, contextually unlikely and requiring the reading of *āpi* as ‘friend, ally’, an archaic term. The second way of breaking it up would be *na apidhāya āśramaṃ*, where ‘apidhāya’ is a gerund meaning ‘having concealed’ which as a dependent verb form I take to be negated by the ‘na’ (which thus does double duty), giving us something like “I am not capable of concealing and protecting the hermitage.” This awkward reading requires us to use another archaic Vedic form, *apidhā*. Finally, if forced to use Pākaśāsana in the nominative, I would then take *rakṣ* in the sense of ‘avoid’ and translate “Pākaśāsana is not capable of avoiding the hermitage, together with its friend (i.e. Ruci).” These awkward readings explain why I chose to emend the text.
+[^288]: Grammatical notes: I prefer the reading *asyāḥ* for *asya* here, as it makes more sense in the context. Note that ‘limbs’ for *aṅga* is an imperfect translation, perhaps ‘bodily constituents’ is better but clunky.
+[^289]: Since he will enter her only psychically, not physically. This verse is added below the line: “Just as a son in the womb is not polluted by being born, in the same way a gnostic is not defiled by actions nor by mundane things.” (*garbhasaṃstho yathā putro jāyamāno na lipyate evaṃ jñānī na laukyaiś ca karmabhir naiva duṣyate*)
+
+*[p. 145]* ^pg156
+
+(50). For just as a traveller on the road may dwell in an empty hall,[^290] in that way I will now inhabit the body of the guru’s wife (51). Just as a trembling drop of water on a lotus petal is unattached, in the very same way I, completely absorbed in concentration (*samāhita*), will dwell in her body” (52). Having in this way thoroughly considered *dharma* and the teachings of the Vedas, and having observed the massive austerity \[*vipulaṃ tapas,* a pun\] of the Guru and of himself especially (53); having mentally pondered thus on the \[means of\] protection, that Bhārgava made a great effort—listen to this, Pārthiva! (54) Sitting near the guru’s wife, Vipula of great austerity enticed with stories the woman of faultless limbs who was sitting near \[him\] (55). Having united her eyes with his, her senses (*raśmi*) with his, Vipula entered (*viś*) her ethereal body (*ākāśa-kāya*), like the god of wind (56).[^291] \[Uniting\] sexual organ with sexual organ,[^292] and mouth to mouth, not moving, the sage remained within \[her\], like a shadow (57). Thence, having pervaded the body of the guru’s wife, Vipula, yoked (*yukta*), dwelt in protection, and she was not aware of him (58). That great-souled one \[resolved to\] protect \[her\] as long as his guru had not returned home from his ceremony (59). 
+
+The story continues in Chapter 41: a concise paraphrase of verses 1-27 will suffice for our needs. 
+
+When Indra inevitably shows up bearing a divinely handsome form (41.1), he enters the hermitage and sees Vipula’s body, motionless, its eyes frozen (3), and also sees the beautiful Ruci (4). She wants to rise to meet him and say “Who are you?”, amazed by his beauty (5), but Vipula restrains her from moving or speaking (6). Indra propositions her (7-8), but Vipula keeps her paralyzed and binds her faculties with the bonds of *yoga* (10-11). Seeing her as impassive, Indra is ashamed (12). Ruci wants to say “Come, come here!” but Vipula prevents her (13); what emerges from her moon-like face is instead “Why have you come?” (14). She realizes she is under another’s control and becomes frightened and upset (15). Indra simultaneously realizes something is strange, and looks with his divine eye and sees that Vipula is inside her body, like a reflection in a mirror (16-17). Realizing the awesome *tapas* such a feat requires, he becomes frightened of a possible curse (18). Releasing Ruci, Vipula reenters his own body and chides the frightened Indra (19), calling him a !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[^290]: This is a standard metaphor for possession (cf. Mbh. 12.308.190ab) but the Cr. Ed. notes that seven MSS omit this verse.
+[^291]: This is clearly an early articulation of what would come to be called the “subtle body” (*sūkṣma-śarīra*). For *raśmi* in the meaning “senses” cf. MBh 12.197.13-15, cited below. We find this use of *raśmi* in early Kāpālika sources as well. This is clearly the precedent for the later Tantric idea that the subtle body has a circulatory system of *nāḍī*s or “subtle channels,” for each sense-organ is said to have an associated *nāḍī* (TS ch. 5).
+[^292]: This phrase is interesting in light of Vipula’s earlier concerns about the propriety of entering Ruci even in a non-physical form. Evidently in this process he must unite all his *raśmi*s/*nāḍī*s to hers; this foreshadows the account in *Tantrāloka* 29 we will see later.
+
+*[p. 146]* ^pg157
+
+sinner with no self-control, bent on his desires, and thus no longer worshipped by gods and men (20). Upon being upbraided and threatened by Vipula at some length, Indra, ashamed, vanishes. (21-27) 
+
+Clearly, the word “possession” is appropriate here. We see a notion that the *citta* or *jīva* is not—for yogins at least—bound to the body but may be separated from it to enter into another body. This entry takes place through all of the “gates” or orifices of the body; more precisely, through the joining (*saṃyuj*) of each of the “rays” (*raśmi*) of the possessor with those of the possessed. To clarify this concept, we may turn to Mbh. 12.197, in which it is said: 
+
+*udyan hi savitā yadvat sṛjate raśmi-maṇḍalam* |
+*sa evāstam upāgacchaṃs tad evātmani yacchati* || 13
+*antarātmā tathā deham āviśyendriya-raśmibhiḥ* |
+*prāpyendriyaguṇān pañca so 'stam āvṛtya gacchati* || 14
+For the Sun, rising, emits a circle of rays. As he sets, those very rays return to him. In the same way, the inner Self, entering (*āviś*) the body, grasps the fivefold objects of the senses with the rays of the senses. Withdrawing them again, his consciousness “sets” \[each night in deep sleep\].[^293] The senses, then, are conceived as the rays of the sun that is consciousness, and in the Indian theory (as in the scholasticism of medieval Europe) the rays of consciousness travel out to touch the sense-objects and return to the subject, conveying their impressions. It is thus a relatively small step to imagine the possibility of the life-force of one subject departing along the flows of these five or more rays and entering another subject. This can happen in different ways with different results. In the story of Vipula (and in the story of Sulabhā below), we have a case of two consciousnesses sharing a body, but not merging. This is not, then, the notion of co-extensive selves we will see in the Tantric materials. 
+
+The story of Sulabhā’s possession of King Janaka occurs in the *Mokṣadharma* section of the *Śānti-parvan* (specifically, 12.308). It has been treated in detailed by James FITZGERALD in his 2002 article “Nun Befuddles King, Shows *Karmayoga* Does Not Work.” We reproduce here the relevant sections of his translation. (NB: In the passage that follows I place the verse number after the verse it refers to, as I do throughout the present work, while in FITZGERALD’s article the verse number is placed before the verse it refers to.) 
+
+On this they recite this ancient account of a conversation between Janaka and Sulabhā (3). Once upon a time there was a king of Mithilā known as Janaka ‘Dharmadhvaja’ who sought the fruit of renunciation (4). He had studied the Veda and the science of Absolute Freedom and his 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[^293]: Cited in GOUDRIAAN 1992: 169. Note the parallel passage at *Maitrī Upaniṣad* 6.31, where the rays (*marīci, raśmi*) of the senses are said to be the instruments by which the conscious self “eats” (*atti*) sense-objects. This presages the deification of the sense-faculties as goddesses or *yoginī*s in the Tantric tradition (as noted by GOUDRIAAN 1992: 168), where they are pictured as the spokes of a wheel (*cakra*) where the hub is the conscious self.
+
+*[p. 147]* ^pg158
+
+own science, and so, regularly unifying his senses in meditation (*indriyāṇi samādhāya*), he ruled the earth (5). Other men in various regions, wise men learned in the Vedas, heard about this king’s behaving like a holy man and were jealous of him (6). Now this was the Age of Right and a woman named Sulabhā, who practiced the Rule of Yoga (*yogadharma*) and lived by begging alms, wandered the earth by herself (7). As she wandered all over the earth, here and there she heard other renouncers who carried the triple staff talk about how the king of Mithilā was in the state of Absolute Freedom (*mokṣa*) (8). When she heard this paradoxical report she doubted it, thinking, “It is not so,” and she decided to go see Janaka (9). By her yoga power she cast off her body and put on a flawlessly beautiful one (10). Her eyes like lotuses below her lovely brows, she went to the capital city in Videha in the wink of an eye, traveling as swiftly as the lightest arrow (11). She reached the lovely capital Mithilā that was thronged with prosperous people, and she gained an audience with its lord on the pretext of begging alms from him (12). When the king saw her extreme delicacy and her beauty he was overcome with amazement: “Who is she? Whose is she? Where has she come from,” he said (13). He welcomed her, showed her the best seat, honored her by having her feet washed, and had the best foods brought as refreshments (14). Pleased by the food, the alms-seeking renouncer then, amidst men who knew all the learned commentaries on the learned teachings, challenged the king who was surrounded by his advisors (15). Wondering, “Has he really gained Absolute Freedom in the midst of all his Lawful Duties,” Sulabhā used her knowledge of yoga and entered his being with her being (*sattvaṃ sattvena yogajñā praviveśa*) (16). Just as he was on the point of addressing her, she fused the rays (*raśmi*) of his eyes to the rays of her own two eyes and she bound him with the bonds of her yoga power (17). Janaka, the highest of kings, smiled haughtily, and, keeping his own thought distinct from hers (*bhāvam asyā viśeṣayan*), he received her thoughts with his thoughts (*pratijagrāha bhāvena bhāvam asyā*) (18). Hear the conversation that took place in that one locus, a conversation between a man who had gained Absolute Freedom in the midst of the royal parasol and such things and a woman who had gained Absolute Freedom with the triple staff of renunciation (19). < . . . \[long dialogue follows\] . . . > Sulabhā said: “If you are completely Free, what wrong did I do you when I made entry into you with my being? (167) There is a special stricture in the rules for ascetics: They must dwell in an empty house. What violation did I commit, and to whom, when I came to stay in this empty house? (168) . . . I am going to dwell here in you, king of Mithilā, without touching you, as a drop of water on a lotus-leaf stands on the leaf without touching it (173). . . . There is no mixing of social Order in the loveless union (*bhāvābhāva-samāyoge*) of one who is Freed with another who is Freed, because the soul is single and separate (*jñasya ekatva-pṛthaktvayoḥ*) (176). . . . A bowl is in one’s hand, milk is in the bowl, flies 
+
+*[p. 148]* ^pg159
+
+are in the milk — through the connection between ‘receptacle and ‘occupant’ (*āśritāśraya*). We are two separate ‘receptacles’ (178). The being of the milk is not in the bowl, nor are the flies the milk; the beings of these things are based within themselves and not upon some other receptacle (179). 
+
+This account, I would argue, like the Vipula story, is based in early Sāṅkhya notions of the self. Here the Sāṅkhya self becomes explicit when Sulabhā asserts the singleness (*ekatva*) and separateness (*pṛthaktva*) of the conscious self (*jña*, in a rare usage of the *upapāda* as a stand-alone term). Due to this doctrine of the monadic self, two souls can occupy the same body without “touching” each other, like the flies in the milk. This idea probably also obtains in the *Caraka-saṃhitā* discussed above (p. 137), where it is said that gods and demons can enter the human body “without defiling it, like a reflection in a mirror” (6.9.18); though they play havoc with the body, the soul is untouched. However, this is in direct opposition of the Tantric doctrine, which conceives the soul as an “experiencer” (*bhoktṛ*) not a “witness” (*draṣṭṛ*), which actually contacts (*sparśa*) the world through the expansion of its faculties.[^294] It is this key doctrinal difference that makes the *āveśa* experience transformative for the Śaivas, an actual “modification of the self” (*ātma-saṃskāra*), as we shall see. 
+
+Next we turn to instances in the *Mahābhārata* of “possession” in quite a different sense, and one much closer to the Tantric materials. This different sense of *āveśa* is only rarely noted in the secondary literature. In the examples of Bharadvāja in Mbh. 13.31 and of Vidura in 15.33,[^295] we see the idea that a powerful yogin can infuse his energy or essence into someone else, temporarily or permanently merging it with the other person and thereby augmenting the latter’s physical and mental power. In the first example, which is very brief, Bharadvāja is seen to infuse himself into Prince Pratardana, son of King Divodāsa, whose birth Bharadvāja had magically accomplished on the king’s behalf through a sacrificial ceremony (*iṣṭi*). After causing the prince’s supernaturally rapid growth to adolescence, Bharadvāja penetrates (*samāviś*) him through *yoga*; gathering up the energy of the world (*tejo laukyaṃ*), he infused (*samāviś*) it into the body of the prince.[^296] Here possession is not indicated, for Bharadvāja is not leaving his own body; rather, he is filling/
+permeating/penetrating the prince with his personal power as well as energies endemic to this world. Reading the narrative which follows, in which the prince defeats the sons of Vītahavya, reveals that Bharadvāja is not here seen as animating or controlling the prince’s body as in the case of actual possession. 
+
+In our second example of this type of “possession,” or rather “infusion,” we see Vidura infuse all his powers and faculties into Yudhiṣṭhira just before the 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[^294]: Cf. VASUDEVA 2012 and FÜRLINGER 2009, the latter of which explores at length the great significance of touch (*sparśa*) to the Śaiva tradition.
+[^295]: Already briefly addressed in WHITE 2009; I read these passages with him in my year at Santa Barbara (2005-06), and started thinking about *āveśa* in the Mbh. at that time.
+[^296]: 13.31.30: *yogena ca samāviṣṭo bharadvājena dhīmatā | tejo laukyaṃ sa saṃgṛhya tasmin dehe samāviśat ||* Reading *dehe* for *deśe,* following MSS D1,3.
+
+*[p. 149]* ^pg160
+
+former’s voluntary exit from the body.[^297] In fact it is not entirely clear whether the author intends to depict Vidura completely merging himself with Yudhiṣṭhira, or instead giving the latter all his *tejas* which he no longer needs since he is about to attain final liberation. The textual ambiguity allows us to infer either possibility. A literal translation of the relevant passage (15.33.14-34) follows. Here Yudhiṣṭhira has arrived at the forest retreat of Dhṛtarāṣṭra and Gāndhārī. The usual formalized inquiries after each party’s welfare (*kuśala*) proceed at some length (33.1-13), followed by these words of Yudhiṣṭhira: 
+
+*kva cāsau viduro rājan nainaṃ paśyāmahe 7 ayam saṃjayaḥ kuśalī cāyaṃ kaccin nu tapasi sthitaḥ* || 14!
+
+*ity uktaḥ pratyuvācedaṃ dhṛtarāṣṭro anādhipam kuśalī viduraḥ putra tapo ghoraṃ samāsthitaḥ* || 15!
+
+*vāyubhakṣo nirāhāraḥ kṛśo hamanisamtatah kadā cid dṛśyate vipraiḥ śūnye ’smin kānane kva cit* || 16!
+
+*ity evaṃ vadatas tasya*<sup>242</sup> *jaṭī vīṭāmukhaḥ kṛśaḥ#* *digvāsā mala-digdhāṅgo vana-reṇu-samukṣitaḥ* || 17!
+
+*dūrād ālakṣitaḥ kṣattā tatrākhyāto mahīpateḥ#* *nivartamānaḥ sahasā janaṃ dṛṣṭvāśramaṃ prati* || 18!
+
+*tam anvadhāvan nṛpatir eka eva yudhiṣthirah praviśantaṃ vanaṃ ghoraṃ lakṣyālakṣyaṃ kva cit kva cit* || 19
+*bho bho vidura rājāhaṃ dayitas te yudhisthirah iti bruvan narapatis taṃ yatnād abhyadhāvata* || 20
+*tato vivikta ekānte tasthau buddhimatāṃ varaḥ viduro vṛkṣam āśritya kaṃ cit tatra vanāntare* || 21
+*taṃ rājā kṣīṇa-bhūyiṣṭham \[illegible\]* *abhijajñe mahābuddhiṃ mahābuddhir yudhiṣṭhiraḥ* || 22!
+
+*yudhiṣṭhiro ’ham asmīti vākyam uktvāgrataḥ \[illegible\]* *vidurasya śrave rājā sa ca pratyāha saṃjñayā* || 23!
+
+ “And where is that Vidura, O king? We do not see him! We hope he is well and successful, established in his asceticism.” (14) Dhṛtarāṣṭra, addressed thus, replied to the Lord of the people, “Vidura is well, son, engaged in awesome (*ghora*) austerity. (15) He survives on air, without any food, emaciated, his veins strained like cords. Sometimes he is seen by brāhmins in certain places in this desolate forest.” (16) While he was speaking thus,[^298] the Chamberlain was beheld from afar, dreadlocked, emaciated, holding the *vīṭā* in his mouth, sky-clad, his limbs smeared with filth, sprinkled with the dust of the forest; this was reported to the king.[^299] \[Vidura\] stopped suddenly, looking toward the hermitage and seeing the people \[there\]. (17-18) King Yudhiṣṭhira, all alone, ran after him as he plunged into the terrifying forest, sometimes seeing him !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[^297]: Briefly discussed already in WHITE 2004.
+[^298]: A hemistich or two seems to have dropped out here. The Kashmīrī recension awkwardly tries to clarify the narrative flow by adding at this point: “Yudhiṣṭhira entered the forest and there saw Vidura—” (*jagāma sa vanaṃ rājā dharmarājo yudhiṣṭhiraḥ* - - - - - - *dṛśyate viduras tatra*)
+[^299]: A Telegu MS adds here: “He gazed at Vidura who was quietly approaching, one-pointed.”
+
+*[p. 150]* ^pg161
+
+\[ahead\] and sometimes not (*lakṣyālakṣyaṃ kvacit kvacit*). (19) The king pursued him strenuously, saying “Bho! Bho, Vidura! It is I, Yudhiṣṭhira, your beloved king!” (20) Then Vidura, the best of wise men, stopped and stood alone in an isolated place, leaning on some tree there in the middle of the forest. (21) Wise King Yudhiṣṭhira recognized that wise one, \[though\] he was nearly wasted away, only a suggestion of his form remaining. (22) “I am Yudhiṣṭhira!” Speaking these words within the hearing of Vidura, standing in front of him, the king called his name. (23) *tataḥ so ’nimiṣo bhūtvā rājānaṃ amudaikṣata saṃyojya viduras tasmin dṛṣṭiṃ dṛṣṭyā samāhitaḥ* || 24
+*viveśa viduro dhīmān gātrair gātrāṇi caiva ha prāṇān prāṇeṣu ca dadhad indriyāṇīndriyeṣu ca* || 25!
+
+*sa yogabalam āsthāya viveśa nṛpates anum viduro dharmarājasya tejasā prajvalann iva* || 26!
+
+*vidurasya śarīraṃ tat tathaiva tabdha-locanam vṛkṣāśritaṃ tadā rājā dadarśa gata-cetanam* || 27!
+
+*balavantaṃ tathātmānaṃ mene bahuguṇaṃ tadā dharmarājo mahātejās tac ca sasmāra pāṇḍavaḥ* || 28
+*paurāṇam ātmanaḥ sarvaṃ vidyāvān sa viśāṃ pate yogadharmaṃ mahātejā vyāsena kathitaṃ yathā* || 29!
+
+*dharmarājas tu tatrainaṃ saṃcaskārayiṣus tadā#* *dagdhukāmo ’bhavad vidvān atha vai vāg abhāṣata* || 30!
+
+*bho bho rājan na dagdhavyam etad \[illegible\]* *kalevaram ihaitat te dharma eṣa sanātanaḥ* || 31!
+
+*lokāḥ saṃtānakā nāma bhaviṣyanty asya pārthiva yatidharmam avāpto ’sau naiva śocyaḥ paraṃtapa* || 32!
+
+*ity ukto dharmarājaḥ sa vinivṛtya tataḥ unah rājño vaicitravīryasya tat sarvaṃ pratyavedayat* || 33!
+
+*tataḥ sa rājā dyutimān sa ca sarvo janas tadā bhīmasenādayaś caiva paraṃ vismayam āgatāḥ* || 34!
+
+His gaze unblinking, concentrated (*samāhitaḥ*), Vidura looked intently at the king, uniting gaze with gaze. (24) Wise Vidura entered \[him\], placing limbs in limbs, *prāṇa*s in *prāṇa*s, and sense-faculties in sense-faculties. (25) Resorting to the power of *yoga*, as if blazing with energy, Vidura entered (*viś*) the body of the king, the lord of dharma. (26) Then the king saw the body of Vidura, leaning on the tree just as it was, \[but with\] its eyes motionless \[and\] its consciousness departed. (27) Then the Pāṇḍava who was king of Dharma, radiant with energy, felt himself \[more\] powerful and virtuous, like \[Vidura\], and he remembered (28) \[his\] ancient past, everything about himself, and the religion (*dharma*) of yoga as taught by Vyāsa,[^300] \[becoming\] possessed of wisdom (*vidyāvān*) and radiant splendor. (29) Then the king of Dharma wished to perform the \[final\] *saṃskāra* rite for him there. The wise one wanted to cremate !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[^300]: Note that Sulabhā is also said to be a master of *yogadharma* in the Mokṣadharma account (12.308) of her possession of King Janaka discussed below.
+
+*[p. 151]* ^pg162
+
+\[him\], when suddenly a Voice \[from the sky\] said: (30) “Ho, king! This body that was known as Vidura should not be burned! This \[body\] is \[also\] yours, for this is the eternal Dharma \[himself\]. (31)[^301] His will be the worlds called *Santānaka*, O king. He attained the *dharma* of an ascetic \[and thus\] needs no lamenting, enemy-burner.” (32) Thus addressed, the king of Dharma then returned again. He told all to the king, the son of Vicitravīrya. (33) Then the resplendent king and all the people \[there\], Bhīmasena and so on, became exceedingly amazed. (34) 
+
+As in the stories of Vipula and Sulabhā, here the means of merging the life-force of one person with that of another is the connecting of each of the respective elements of life-force—*prāṇa*s, senses, etc.—in a one-to-one correspondence. Though the theory of *nāḍī*s is not yet articulated,[^302] the description obviously anticipates the notion of joining each respective subtle channel, a salient idea in the Tantric texts that we will see later (e.g. Tantrāloka 29). In the present passage, when all the faculties and *prāṇa*s of the two individuals are joined through the power of *yoga* (here probably meaning both “union” and “magical power gained through *tapas*”), then the transfer of Vidura’s power (*tejas*) in its fullness can take place. This transfer, once completed, leaves Yudhiṣṭhira feeling greatly amplified, his virtue and power increased by this prāṇa-infusion. He also receives a download of knowledge from the transfer, including the “*dharma* of *yoga* taught by Vyāsa.” When we come to look at the Śaiva Tantric *dīkṣā* ceremony, we will see that the merging of the guru’s *jīva* (= *prāṇa* + *citta*) with the initiand’s is instrumental in accomplishing the transformative effect of the rite. The idea there, already present in this *Mahābhārata* account, is that the self is a kind of permeable field of energy with fluid boundaries; and connecting or merging two such selves, even temporarily, has a significant impact. Power and wisdom automatically flows from the fuller container (the guru, or Vidura in the above account) into the “partial vacuum” of the less tejasic receiver (the initiand, or Yudhiṣṭhira above) in a kind of diffusion. This picture of things rather flies in the face of the brāhminical world view, with its monadic selves each bound to their individual *karma.* In the brāhminical *karma* theory, all power and knowledge must be earned through the appropriate actions (*tapas, svādhyāya,* etc.); the fruits of such actions cannot be transmitted from one person to another. And, despite the above narrative, when the Mahābhārata is in its didactic mode, it decidedly affirms the traditional *karma* theory, for example in the same chapter we cited four pages back (12.197): 
+
+*praṇītaṃ karmaṇā mārgaṃ nīyamānaḥ punaḥ punaḥ prāpnoty ayaṃ karmaphalaṃ pravṛddhaṃ dharmam ātmavān* (15) 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[^301]: The Kashmīrī recension adds: “Burning again a body \[already\] burned by knowledge is not done.” (*jñāna-dagdhasya dehasya punardāho na vidyate*)
+[^302]: Leaving aside the brief and rudimentary Upaniṣadic passages describing subtle channels/rays, which in fact are due to a homology of the heart with the sun, such as at Chāndogya Up. 8.6.2-6.
+
+*[p. 152]* ^pg163
+
+Repeatedly led along the path that is created by acts, the \[embodied\] soul obtains the fruits of his acts, the maturation of his *dharma* \[or: increased merit\]. 
+
+When the Mahābhārata’s narrative portion contradicts its didactic portion, we may surmise that the narrative preserves non-brāhminical “folk” beliefs, often of the kind that exerted a formative influence on the development of early Tantra. Part of the heterodoxy of Tantra is to deny the universal necessity of *karma*; it can be altered, alleviated or removed through Tantric ritual, through God’s grace, or through the transmission of the guru’s *śakti* (which are in fact all interrelated), an idea that we see a embryonic precedent for here in the epic. 
+
+2.2.3 *Āveśa* in the *Bhagavad-gītā* 
+
+The opening of the twelfth chapter of the *Gītā* is a passage that uses the verb *āviś* in a religiously significant manner, and not coincidentally, Abhinavagupta comments on this very passage in the course of his discussions of *samāveśa* in his *Īśvara-pratyabhijñā-vimarśinī*, which we will examine later. 
+
+In the second verse of the chapter, Kṛṣṇa declares: 
+
+*mayy āveśya mano ye māṃ nityayuktā upāsate śraddhayā parayopetās te me yuktatamā matāḥ* (2) 
+
+Those who absorb (*āviś*) their minds in me, ever-disciplined, serving me, endowed with supreme faith: they are considered by me as the most fully disciplined and connected (*yukta,* lit. yoked). 
+
+Note that here *ā+viś* is used in its causative form, indicating unambiguously that the yogin is the agent of the action: he who causes his heart/mind (*manas, citta, cetas*) to become absorbed in Kṛṣṇa. When we look five verses later, we again see a causative form of *ā+viś*, when Kṛṣṇa says: 
+
+*teṣām ahaṃ samuddhartā mṛtyu-saṃsāra-sāgarāt bhavāmi na cirāt pārtha mayy āveśita-cetasām* (7) 
+
+I quickly extract from the ocean of death and transmigration those who absorb their minds in me, O Pārtha. 
+
+Here the verb *ā+viś* (here: absorb) is more or less synonymous with *ā+dhā* (focus), as seen in the very next verse (8), which has *mayyeva mana ādhatsva*. Interestingly, in verse 12.9, the Kashmiri rescension has *ā+viś* where the standard version has *ā+dhā*. In the standard version, 12.9 reads 
+
+*atha cittaṃ samādhātuṃ na śaknoṣi mayi sthiram abhyāsa-yogena tato mām icchāptuṃ dhanaṃjaya* (9) 
+
+Dhanañjaya, if you are not able to completely focus the mind steadily on me, then seek to reach me through the discipline of practice. 
+
+but the Kashmiri rescension (commented on by Abhinavagupta), has *athāveśayituṃ cittaṃ* for the first *pāda*, replacing “completely focus/concentrate” (*samādhā*) with “absorb/immerse” (*āviś*). Therefore, the Gītā’s author probably has nothing more than “focus” in mind when he uses *āviś*, though Abhinavagupta reads it explicitly in terms of the Śaiva theology of *\[sam-\]āveśa*. What is important here is that in the Gītā, 
+
+*[p. 153]* ^pg164
+
+*āviś* is used in a religious sense that is very different from the usage in the epic and Āyurvedic sources. The translation “possession” is clearly impossible here, unless the devotee is possessing himself of God, as it were. The obvious translation is that of absorbing or immersing his heart/mind in God, not being entered or possessed by an outside agency. This usage is made possible by the fact that *āviś* can be used actively or passively: ‘to enter‘ as well as ’to be entered‘. The Gītā is the earliest text I am aware of in which these two features come together in the usage of this verb: 1) the human being is the agent of the verb, and 2) God is that which is entered, that which the human being becomes immersed in. Thus the Gītā is a key stepping stone to the Tantric concept of *āveśa*, as Abhinavagupta himself was well aware.[^303] 
+
+2.2.4 Āveśa *in the Pāśupata-sūtra* 
+
+Next we turn to the *Pāśupata-sūtra*, which was discussed and translated in the Introduction to the present work. The sūtras themselves can be dated to the second century CE, and are thus clearly after the *Gītā* and before the *Yoga-sūtra*. In Part One of the text, we saw a description of the eight qualities (*dharma*s) possessed by the *mahāgaṇapati*, i.e., one who has attained the goal of the Pāśupata yoga and left his body (1.23-29). One of these qualities is that he can enter anyone’s body: *sarvāṃś cāviśati* (1.25). The commentary specifies that he can enter the body of any bound soul (*paśu*). We can only presume that possession of the kind envisioned in the coeval Vipula story is here intended, in which the possessing agent can cohabit a body with its owner and override the owner’s control.[^304] (Since possession of a recently deceased body is considered the less difficult yogic feat, that ability too is presumably intended.) The *bhāṣya*, however, adds an interesting comment: “The sense \[of the sūtra\] is that since he possesses sovereign powers of knowledge and action, by joining these powers he is able to enter \[other embodied beings\] and *interrupt their cognitions*.”[^305] Perhaps Kauṇḍinya is here trying to justify the power of entering others’ bodies by imagining a salutary reason for doing so, since in accord with *yoga* philosophy, when the stream of cognition ceases (*nirodha*) then the true self reveals itself (*Yoga-sūtra* 1.2-3). He does not saying anything further, however. 
+
+It seems that Pāśupata ascetics were particularly associated with the power of *para-śarīrāveśa* or entering another’s body: the *Vetāla-pañcaviṃśati*, the *Kathāsaritsāgara*, and the vernacular tales *Baitāl Pachīsī* and *Vedāla Cadai* all relate the story of a decrepit Pāśupata ascetic who leaves his body and enters that of a young brāhmin who has just died, then destroys his old body (BLOOMFIELD 1917: 10 and WHITE 2004: 624). But as we will see next, *para-śarīrāveśa* was widely associated with spiritual/yogic attainment at this period in Indian history. 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[^303]: See p. 327f below.
+[^304]: Something like the depiction of possession in the fiction film, *Being John Malkovich* (Jonze, 1999).
+[^305]: *sa tasya jñānakriyayor vibhutve 'pi śaktisaṃyogād āviśya pratyayalopaṃ kartuṃ samartho bhavatīty arthaḥ*
+
+*[p. 154]* ^pg165
+
+2.2.5 Aveśa *in the Brahma-sūtra* 
+
+The *Brahma-sūtra* attributed to Bādarāyaṇa, also known as the *Vedānta-sūtra*, is of uncertain date but probably composed around the third century CE. The fourth section of the text, the *phalādhyāya*, details the various powers and enjoyments that the liberated soul experiences. Sūtra 4.4.15 reads *pradīpavad āveśas tathā hi darśayati*: “just as one lamp \[may light several others\], entry \[into several bodies is possible for the liberated one\]: for thus \[scripture\] declares.” This instance of *āveśa* is not clearly about possession at all, since the context suggests that the liberated soul can create multiple bodies for itself and enter into all of them simultaneously. However, it is an example of the use of *āveśa* to mean “penetration,” for here the *citta* of the liberated one penetrates the various bodies he has created and animates them and enjoys experiences through them. 
+
+2.2.6 Āveśa *in the Yoga-sūtra* 
+
+Similarly, the *Yoga-sūtra* (c. fourth century CE) in its third *pāda* details the various supernatural powers that the yogin may attain through the practices laid down in the second *pāda* and the beginning of the third. These powers are said to be problems (*upasarga*) when it comes to the attainment of *samādhi*, yet they are perfections (*siddhi*) in the active state (*vyutthāna*) (YS 3.37). (This caution seems to echo Pāśupata-sūtra 2.7.) In fact, the reader cannot easily tell if Patañjali intends sūtra 3.37 to refer to all the supernatural powers listed in the *vibhūti-pāda*, in which case it would also apply to the *āveśa* sūtra which immediately follows (3.38), or whether the author intended his caveat to apply only to the powers listed just previously in sūtra 3.36, which concerns the supernaturally heightened senses (viz., *prātibha, śrāvaṇa, vedanā, ādarśa, āsvāda,* and *vārta*) that arise from knowledge of the real Self (*puruṣa-jñāna*).[^306] 
+
+Sūtra 3.38 (39 in some recensions) reads: *bandha-kāraṇa-śaithilyāt pracāra-saṃvedanāc ca cittasya para-śarīrāveśaḥ*, “By loosening the cause of bondage and by understanding of \[the mind’s\] movements, one’s mind may enter another’s body.” The *bhāṣya* clarifies that the cause of bondage is karma, and it is loosened by *samādhi*. The knowledge of how the mind (*citta*) moves also arises from *samādhi*. Thus, as in the *Pāśupata-sūtra* and the *Brahma-sūtra*, the ability to enter another body (*para-śarīrāveśa*) comes about as a result of intensely diligent spiritual practice, and is a sign of very high attainment indeed. Such a yogī, the *bhāṣya* tells us, “extracts the *citta* from his own body and deposits it in other bodies” (*yogī cittaṃ sva-śarīrān niṣkṛṣya śarīrāntareṣu nikṣipati*). The *vivaraṇa* commentary attributed to Śaṅkara clarifies what “understanding of how the mind moves” (*pracāra-saṃvedana*) means: it consists of psychological insight such as “from this cause it is thrilled, or it is deluded, or it is disturbed on account of that cause” (LEGGETT 340). But Vijñānabhikṣu’s (sixteenth century) commentary, the *Yoga-vārttika*, has a different explanation that is more relevant to our concerns. For in that text, this knowledge is instead a direct perception of the mind’s actual movements (*citta-gati-sākṣātkāra*), !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[^306]: Note the text of sūtra 3.36 is problematic because it contains a mix of adjectives and nouns and presents the otherwise unattested *vārta* in the meaning “smelling.” In my opinion the text is not secure.
+
+*[p. 155]* ^pg166
+
+where one perceives how it flows along particular subtle channels (*nāḍī*) and may leave or enter the body through certain of those channels (*anayā nāḍyā evaṃ-prakāreṇa cittaṃ śarīre praviśati nirgacchati*). This is more germane to the Tantric accounts, and undoubtedly influenced by them. 
+
+Probably not coincidentally, the next Yoga-sūtra (3.39) mentions the practice that was the goal of the Pāśupata yoga, viz., *utkrānti*, the ability to exit out the fontanelle at the time of death and thereby ascend to the highest plane. It reads *udāna-jayāj jala-paṅka-kaṇṭakādiṣu asaṅga utkrāntiś ca*: “By conquest of *udāna*-\[*vāyu*\], \[one can levitate and thereby\] not contact water, mud, thorns etc. \[when walking\], and can exit upward \[out the crown at the time of death\].” The additions in brackets are secured by the commentaries. There is no reason for us to dwell on this sūtra other than to note the collation here of *para-śarīrāveśa* and *utkrānti*, both practices strongly associated with the Pāśupata Śaivas. 
+
+Sūtra 3.43 and *bhāṣya* teaches a meditative exercise (*dhāraṇā*) called *mahāvidehā* or “the Great Bodiless” in which one attempts to locate one’s mind outside the body. At first, we are told, it is purely an exercise of the imagination (*kalpitā*), but with practice, one may succeed in actually separating the mind from the body (*bahir akalpitā vṛttir mahāvidehā*). As a result, the *bhāṣya* says, the yogin may enter other(’s) bodies (*yayā paraśarīrāṇy āviśanti yoginaḥ*). No details of how to perform this practice are given, however. 
+
+2.2.7 *Antecedents of* śaktipāta *in pre-Tantric Śaiva sources* 
+
+Though *śaktipāta* is very much a term particular to the Tantric phase of Śaivism, hints of the doctrine may be found in pre-Tantric sources, as mentioned on p. 26 *supra*. The recent discovery of four previously unknown Atimārga *vidhi* texts by Diwākar ĀCHĀRYA is significant in this regard. The date of these texts—called the *Prāyaścitta-vidhi, Pātra-vidhi, Anteṣṭi-vidhi,* and *Saṃskāra-vidhi*—is unknown. The manuscripts have been dated to the fourteenth century by ĀCHĀRYA, but the texts (or portions of them) are clearly considerably older, because quotations from them have been found in the *Ratnaṭīkā* and Kauṇḍinya’s fourth-century *Pañcārtha-bhāṣya* (ĀCHĀRYA 2007: 27), though the possibility of a common source, now lost, cannot be ruled out. All four texts invoke Lakulīśa, and align with what is known of the Pāśupatas from the previously extent sources. 
+
+The *Saṃskāra-vidhi,* which treats Atimārgic initiation, tells us that only the initiated are qualified to practice this system (*saṃskṛtasyādhikāro’smin,* v. 9a), and the process of initiation begins when “someone who wishes to know \[the truth revealed by Śiva\] and no other \[doctrine\], impelled by Śiva himself, approaches a guru” (v. 10abc).[^307] The relevant verb here is “impelled” (*pra√cud*), with God as the agent; I argue that this usage constitutes a precursor to the notion of *śaktipāta* and present further evidence to support this in what follows. We might pay scant attention to this statement of divine intervention in verse 10 but for the fact that when we reach the end of the present text, we find listed seven stages of the guru-disciple relationship, and there the first two stages are *codanā caiva jijñāsā*, “being impelled” 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[^307]: *yo jijñāsati* (em. ĀCHĀRYA : *jijñāsyati* MS) *nānyāni śivenaiva pracoditaḥ | upasanno* (em. ĀCHĀRYA : *upasannor* MS) *guroḥ samyak* (v. 10abc)
+
+*[p. 156]* ^pg167
+
+and \[therefore\] “desiring to know,” which indicates clearly that this is an important doctrine.[^308] Furthermore, we find similar language in Kauṇḍinya’s *bhāṣya* when he describes the meeting of Lakulīśa and his first disciple, Kuśika: “Then the blessed Kuśika, impelled by Rudra, approached the master. Observing signs of a superior state in him, such as complete contentment, and the opposite in himself, he took hold of his feet . . .”[^309] Thirdly, in the *Mataṅga-pārameśvarāgama*’s *caryāpāda* chapter nine, which we discussed on p. 37 because of its preservation of a text-passage redacted from Atimārga sources, we find at the beginning of its description of the *rudra-vrata*: “wisdom arises \[in him\] spontaneously, impelled by the will of the Cause \[i.e., God\]” (*buddhir utpadyate ’kasmāt kāraṇecchā-pracoditā*, v. 4ab), because of which, we are told, he becomes “devoted to the worship of Rudra” (*rudrārādhana-tatparaḥ*, v. 4d). The first *pāda* of this verse recurs in the text’s *vidyāpāda* (4.45c), where the context is explicitly that of *śaktipāta*. 
+
+Finally, we should note the significant use of the verb *pra√cud* in one of the two key Pāśupata mantras, the famous Raudrī Gāyatrī ending in *pracodayāt,* “may He impel \[us along the path\]” (which mantra was evidently the model for the all the many Gāyatrī mantras that proliferated in the medieval and early modern period and are still in use today). Kauṇḍinya’s commentary on this mantra further underscores the significance of the root *cud* in this context.[^310] 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[^308]: The other stages are: presenting oneself to the guru (*guror ātma-nivedanam*), examination and acceptance (*parigṛhya parīkṣetaḥ*; the wording is in the opposite order of what we would expect), initiation conferring qualification for practice (*saṃskāro vidhiyogyatā*), learning (*vaiduṣyam*), and *guru-pūjā*, called the “secret stage” (*rahaḥ padam*). Note how much of the Tantric model is already in place.
+[^309]: *ato rudra-pracoditaḥ kuśika-bhagavān abhyāgatyācārye paripūrṇa-paritṛptyādy-utkarṣa-lakṣaṇāni viparītāni cātmani dṛṣṭvā pādāv upasaṃgṛhya . . .*
+[^310]: Kauṇḍinya: “*Cud* in the sense of ‘impelling’. Impelling \[here\] means \[bringing about the eventual\] union with the \[divine\] powers of knowledge and action” (*cuda preraṇe. codanaṃ nāma jñāna-kriyā-śakti-saṃyogaḥ.*). He goes to quote an unnamed source: “The union with the powers of knowledge and action, preceded by the will of Rudra, is called ‘impelling’ by the masters” (*rudrasyecchā-pūrvako yo yogo jñāna-kriyā-śaktibhyāṃ . . . tac codanam āhur ācāryāḥ*). Thus God is credited with providing the motive force not only for the impulse to come to the Śaiva path, but also progress on that path through to its completion. In this connection, we may also note a verse of unknown origin quoted in a different part of the *Pañcārtha-bhāṣya* (ad sūtra 1.9): *apracodyaḥ pracodyais tu kāma-kārakaraḥ prabhuḥ |* *krīḍate bhagavāṃl lokair bālaḥ krīḍanakair iva ||* The Almighty is not impelled, but acting as He pleases, the Lord plays with people, who are the ones that are impelled, like a child plays with his toys. This verse, it should be noted, occurs in the context of explaining the word *deva* as deriving from √*div,* “to play,” and thus has a broader context than the *codanā* doctrine, which intends primarily to explain how the aspirant comes to seek the path. But the latter case can be considered a specific application of the former, which undoubtedly evolved into the nondual Śaiva doctrine that there is in fact a single agent of all action, a sole *kartṛ* whom we call God by virtue of that fact. Finally, note this parallel in the *Naya-sūtra* of the *Niśvāsa*: *prerakaḥ puṇyapāpābhyāṃ sarvasya hṛdi saṃsthitaḥ,* “Abiding in the hearts of all, he stimulates them \[on the path\] with merit and demerit” (1.90), with the second half of the verse connecting it to the present context by mentioning the Pāśupata-vrata as the instrument of God’s grace (*anugraha*).
+
+*[p. 157]* ^pg168
+
+In other words, it is God who is in this system credited with the initial awakening of the aspirant, which out of the blue (*akasmāt*) inspires him (*codanā,* *pracodita*) with a longing for spiritual teachings (*jijñāsā*) and to approach a guru for initiation (*guror ātma-nivedanam*). This parallels and presages the Tantric doctrine of *śaktipāta*, according to which someone conceives faith in the Śaiva path and its rites, and approaches a guru, due to God’s power of grace “falling” upon him (*śakti-pāta*). This correspondence between *codanā* and *śaktipāta* is strengthened by an expression that, amongst the Atimārga materials, is found only in the *Saṃskāra-vidhi*. In verse 21, the guru is said to pray in the following manner before undertaking the initiation: “If this brahmin is purified by a fall of Śiva’s glance, then by your command, O best of gods, I will initiate this best of brahmins.”[^311] Here, the “fall” of God’s “glance” (*śiva-dṛṣṭi-nipāta*) is both what impels (*codanā*) the devotee towards the spiritual path, and what qualifies him for initiation. Thus it is undoubtedly a direct antecedent of *śaktipāta/śaktinipāta*. 
+
+There is one more parallel to explore amongst the Atimārgic materials, which is found in the Kālamukha passage of the *Niśvāsa-mukha* already cited on pp. 49-50 above. In that passage, we met with the curious expression *atha-śabda-nipāta*, “the descent of the word *atha*,” with reference to initiation. The relevant lines are: 
+
+*\* \* vai prakriyādhvānam atha-śabdena dīkṣayet* || 96cd *atha-śabda-nipātena dīkṣitaś cāpaśur bhavet* | 97ab Indeed \[the liberated one\] should initiate \[others\] into the levels of that cosmic hierarchy by means of the word *atha*. Initiated by the descent of the word *atha,* one ceases to be a bound soul.[^312] *Atha* is of course the first word of the *Pāśupata-sūtra*, and our suspicion[^313] that this is what is meant here is confirmed by a passage in Kauṇḍinya’s *Pañcārtha-bhāṣya* on the first sūtra (which follows immediately on from the passage quoted in note 285): 
+
+*śiṣyaḥ pṛṣṭavān bhagavan kim eteṣām ādhyātmikādhibhautikādhidaivikānāṃ sarva-duḥkhānām aikāntiko ’tyantiko vyapoho ’sty uta neti . . . śiṣyeṇodīritaṃ pūrvaṃ praśnam apekṣyoktavān atheti. evam ayam athaśabdaḥ pṛṣṭa-prativacanārtho. ’sti. sa duḥkhānta ity arthaḥ.* 
+
+The disciple \[Kuśika\] asked, ‘O Lord, is there a complete and permanent end of all sufferings, whether mental, material, and supernatural, or not?’ . . . in reference to the first question asked by the disciple, he said *atha* \[‘now’ or ‘yes’\]. Thus this word *atha* has the meaning of an answer to what was asked. It means ‘Yes. There is an end to suffering.’” 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[^311]: *śiva-dṛṣṭi-nipātena pūto ’yaṃ yadi brāhmaṇaḥ | tavājñayā sura-śreṣṭha saṃskaromi dvijottamam ||*
+[^312]: However, the interpretation of the passage is not unproblematic. We are missing two *akṣara*s in the MS, which perhaps contained the verb of which *prakriyādhvānam* is the object. I have here translated the latter term as if it were a locative receiving the action of *dīkṣayet*.
+[^313]: The third person plural possessive pronoun is intended literally here, since Professor SANDERSON was the first to propose this idea, and I discussed it with him while at Oxford.
+
+*[p. 158]* ^pg169
+
+Clearly, the word *atha* acquired considerable mystic significance for the tradition as signaling the entry to the path that would lead to the end of all suffering.[^314] By a century or so later, in the Kālamukha context at least, that significance was even imagined in terms of a mystic “descent of the word *atha*” that occurred in initiation. We need not wonder if the later Tantric tradition connected this to their own concept of *śaktipāta*, for a quotation that Abhinavagupta reproduced from a lost text by Somānanda in the former’s *Parātriṃśikā-vivaraṇa* (first noticed by SANDERSON \[2006: 192\]) gives an esoteric reading of *atha*, in which it is said that ‘a’ signifies Śiva, and ‘tha’ means Śakti (*akāraḥ śiva ity uktas thakāraḥ śaktir ucyate*), giving us *śiva-śaktinipāta* as the inner meaning of *atha-śabda-nipāta*. SANDERSON (Ibid.) speculates as to whether the original source for this esoteric reading might be Atimārgic, but that would perhaps be surprising, because it is only in the Somasiddhānta (= Atimārga III) that Śiva’s consort is worshipped. We simply don’t know, and will probably never know, Somānanda’s source for this half-verse (for Abhinavagupta himself confesses ignorance as to its source[^315]). Nonetheless, as argued in the introduction, we find that the more we examine the Atimārga, the more we find antecedent traces of fundamental Tantric doctrines in its materials. 
+
+2.3 
+
+Āveśa, samāveśa, *and* śaktipāta *in the scriptural sources* In this section we enter into the heart of the present work: an examination of the uses of our key terms in the scriptural body of literature claiming to be revealed by Śiva. These texts were authored anonymously, often using a Prākrit-influenced register of Sanskrit called *Aiśa* (“God’s \[language\],” from *Īśa*) whose deviations from the norm seem to indicate origins outside the literate brāhminical heartland known as Āryāvarta.[^316] Roughly speaking, the scriptures of the conservative Siddhānta exhibit more “pukka” Sanskrit and the Śākta texts are more likely to show the abberations of style, grammar, and vocabularly denoted by the term Aiśa. To make another broad generalizing for the sake of orienting the reader, we may say that the Siddhānta sources are more likely to feature the terms *śaktipāta* while the Śākta sources are more likely to focus on the term *(sam)āveśa*. We may also observe that when it comes to what the guru offers to the disciple or initiand, Siddhānta sources use the term *anugraha* (grace, favor) while the term *saṅkramaṇa* (transmission) and its synonyms are reserved for Śākta sources. The term *dīkṣā* (initiation) is equally important to both streams. 
+
+2.3.1 *The Brahma-yāmala* aka *Picumata* 
+
+As already noted (see pp. 73 and 81), the *Brahma-yāmala* (BY) is one of our earliest scriptural sources for the *viśeṣa* branch of Śaivism (that which emphasizes worship of Bhairava and the Goddess, and is not Veda-congruent), probably from the late sixth or early seventh century. As we have seen, it preserves some of the *outré* practices of the Somasiddhānta, and seems to hearken back to a very archaic !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+[^314]: Cf. Śaṅkara’s discussion of the word *atha*, to which he also attributes great significance, in his *bhāṣya* on *Brahmasūtra* 1.1.1.
+[^315]: *Parātriṃśika-vivaraṇa* pp. 99-100, cited in SANDERSON 2006: 192.
+[^316]: The grammatical features of *aiśa* Sanskrit are discussed by Judit TÖRSZÖK in her unpublished Oxford D.Phil. thesis (1999: xxvi-lxix).

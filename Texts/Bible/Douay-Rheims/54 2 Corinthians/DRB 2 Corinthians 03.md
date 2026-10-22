@@ -1,0 +1,53 @@
+---
+type: text
+work: "Douay-Rheims Bible"
+book: "2 Corinthians"
+douay_name: "2 Corinthians"
+chapter: 3
+translation: "Douay-Rheims, American edition of 1899"
+license: "Public domain (eBible.org, engDRA)"
+source: "https://ebible.org/find/details.php?id=engDRA"
+---
+# 2 Corinthians 3 (Douay-Rheims)
+
+[[DRB 2 Corinthians 02|← 2 Corinthians 2]] · [[Douay-Rheims|index]] · [[DRB 2 Corinthians 04|2 Corinthians 4 →]]
+
+Compare: [[2 Corinthians 03|BSB and SBLGNT]]
+
+**3:1** Do we begin again to commend ourselves? Or do we need (as some do) epistles of commendation to you, or from you? ^3-1
+
+**3:2** You are our epistle, written in our hearts, which is known and read by all men: ^3-2
+
+**3:3** Being manifested, that you are the epistle of Christ, ministered by us, and written not with ink, but with the Spirit of the living God; not in tables of stone, but in the fleshly tables of the heart. ^3-3
+
+**3:4** And such confidence we have, through Christ, towards God. ^3-4
+
+**3:5** Not that we are sufficient to think any thing of ourselves, as of ourselves: but our sufficiency is from God. ^3-5
+
+**3:6** Who also hath made us fit ministers of the new testament, not in the letter, but in the spirit. For the letter killeth, but the spirit quickeneth. ^3-6
+
+**3:7** Now if the ministration of death, engraven with letters upon stones, was glorious; so that the children of Israel could not steadfastly behold the face of Moses, for the glory of his countenance, which is made void: ^3-7
+
+**3:8** How shall not the ministration of the spirit be rather in glory? ^3-8
+
+**3:9** For if the ministration of condemnation be glory, much more the ministration of justice aboundeth in glory. ^3-9
+
+**3:10** For even that which was glorious in this part was not glorified, by reason of the glory that excelleth. ^3-10
+
+**3:11** For if that which is done away was glorious, much more that which remaineth is in glory. ^3-11
+
+**3:12** Having therefore such hope, we use much confidence: ^3-12
+
+**3:13** And not as Moses put a veil upon his face, that the children of Israel might not steadfastly look on the face of that which is made void. ^3-13
+
+**3:14** But their senses were made dull. For, until this present day, the selfsame veil, in the reading of the old testament, remaineth not taken away (because in Christ it is made void). ^3-14
+
+**3:15** But even until this day, when Moses is read, the veil is upon their heart. ^3-15
+
+**3:16** But when they shall be converted to the Lord, the veil shall be taken away. ^3-16
+
+**3:17** Now the Lord is a Spirit. And where the Spirit of the Lord is, there is liberty. ^3-17
+
+**3:18** But we all beholding the glory of the Lord with open face, are transformed into the same image from glory to glory, as by the Spirit of the Lord. ^3-18
+
+[[DRB 2 Corinthians 02|← 2 Corinthians 2]] · [[Douay-Rheims|index]] · [[DRB 2 Corinthians 04|2 Corinthians 4 →]]

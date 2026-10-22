@@ -1,0 +1,62 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Wisdom of Solomon"
+english_book: "Wisdom"
+chapter: 19
+aliases:
+  - "Wisdom 19"
+  - "LXX Wisdom 19"
+---
+# LXX Wisdom of Solomon 19
+
+← [[LXX Wisdom of Solomon 18]] · [[LXX]]
+
+*Wisdom of Solomon · [[LXX]]*
+
+**19:1** As for the ungodly, wrath came upon them without mercy unto the end: for he knew before what they would do;  ^19-1
+
+**19:2** how that having given them leave to depart, and sent them hastily away, they would repent and pursue them.  ^19-2
+
+**19:3** For whilst they were yet mourning and making lamentation at the graves of the dead, they added another foolish device, and pursued them as fugitives, whom they had intreated to be gone.  ^19-3
+
+**19:4** For the destiny, whereof they were worthy, drew them unto this end, and made them forget the things that had already happened, that they might fulfil the punishment which was wanting to their torments:  ^19-4
+
+**19:5** and that thy people might pass through a wonderful way: but they might find a strange death.  ^19-5
+
+**19:6** For the whole creature in his proper kind was fashioned again anew, serving the peculiar commandments that were given unto them, that thy children might be kept without hurt:  ^19-6
+
+**19:7** *as namely*, a cloud shadowing the camp; and where water stood before, dry land appeared; and out of the Red sea a way without impediment; and out of the violent stream a green field:  ^19-7
+
+**19:8** through which all the people went that were defended with thy hand, seeing thy marvellous strange wonders.  ^19-8
+
+**19:9** For they went at large like horses, and leaped like lambs, praising thee, O Lord, who hadst delivered them.  ^19-9
+
+**19:10** For they were yet mindful of the things that were done while they sojourned in the strange land, how the ground brought forth flies instead of cattle, and how the river cast up a multitude of frogs instead of fishes.  ^19-10
+
+**19:11** But afterward they saw a new generation of fowls, when, being led with their appetite, they asked delicate meats.  ^19-11
+
+**19:12** For quails came up unto them from the sea for their contentment.  ^19-12
+
+**19:13** And punishments came upon the sinners not without former signs by the force of thunders: for they suffered justly according to their own wickedness, insomuch as they used a more hard and hateful behaviour toward strangers.  ^19-13
+
+**19:14** For the *Sodomites* did not receive those, whom they knew not when they came: but these brought friends into bondage, that had well deserved of them.  ^19-14
+
+**19:15** And not only so, but peradventure some respect shall be had of those, because they used strangers not friendly:  ^19-15
+
+**19:16** but these very grievously afflicted them, whom they had received with feastings, and were already made partakers of the same laws with them.  ^19-16
+
+**19:17** Therefore even with blindness were these stricken, as those were at the doors of the righteous man: when, being compassed about with horrible great darkness, every one sought the passage of his own doors.  ^19-17
+
+**19:18** For the elements were changed in themselves by a kind of harmony, like as in a psaltery notes change the name of the tune, and yet are always sounds; which may well be perceived by the sight of the things that have been done.  ^19-18
+
+**19:19** For earthly things were turned into watery, and the things, that before swam in the water, now went upon the ground.  ^19-19
+
+**19:20** The fire had power in the water, forgetting his own virtue: and the water forgat his own quenching nature.  ^19-20
+
+**19:21** On the other side, the flames wasted not the flesh of the corruptible living things, though they walked therein; neither melted they the icy kind of heavenly meat, that was of nature apt to melt.  ^19-21
+
+**19:22** For in all things, O Lord, thou didst magnify thy people, and glorify them, neither didst thou lightly regard them: but didst assist them in every time and place.  ^19-22

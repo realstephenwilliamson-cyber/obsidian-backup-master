@@ -1,0 +1,36 @@
+---
+title: Mahācīnatantra
+subtitle: ""
+author: []
+editor: []
+translator: []
+year:
+publisher: Digital Corpus of Sanskrit (Oliver Hellwig, 2010-2024)
+series: ""
+volume: ""
+container: ""
+subject:
+  - Hinduism
+type: text
+language:
+  - Sanskrit
+pages:
+text: searchable
+status: keep
+physical_copy: false
+files:
+  - "[[Texts/DCS/Mahacinatantra/Mahacinatantra]]"
+aliases: []
+sanskrit: untranslated
+---
+# Mahācīnatantra (DCS)
+
+```dataviewjs
+await dv.view("Templates/Views/open-pdf")
+```
+
+The Sanskrit text in roman transliteration from the Digital Corpus of Sanskrit (Oliver Hellwig, 2010–2024; CC BY 4.0; https://github.com/OliverHellwig/sanskrit): chapter 7 only (the one chapter the DCS holds), 84 sentences, one note per chapter with a block id per DCS sentence (`^s1` …): [[Mahacinatantra]] in `Texts/DCS`. No translation.
+
+The text appears to be the DCS's segmented reading text, with the vowel sandhi between words undone, rather than an edition's wording (seen in samples, not checked against print).
+
+Details from the source's own metadata, as the cloud build of October 2026 recorded them; not checked against a printed copy; `status: keep` since 14 Oct 2026, as a primary text kept as notes.

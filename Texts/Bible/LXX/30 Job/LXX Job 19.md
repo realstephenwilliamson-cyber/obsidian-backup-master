@@ -1,0 +1,75 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Job"
+english_book: "Job"
+chapter: 19
+aliases:
+  - "Job 19"
+---
+# LXX Job 19
+
+← [[LXX Job 18]] · [[LXX]] · [[LXX Job 20]] →
+
+*Job · [[LXX]]*
+
+**19:1** Then Job answered and said,  ^19-1
+
+**19:2** How long will ye vex my soul, and destroy me with words? only know that the Lord has dealt with me thus.  ^19-2
+
+**19:3** Ye speak against me; ye do not feel for me, but bear hard upon me.  ^19-3
+
+**19:4** Yea verily, I have erred in truth, (but the error abides with myself) 4a in having spoken words which it was not right *to speak*; and my words err, and are unseasonable.  ^19-4
+
+**19:5** But alas! for ye magnify yourselves against me, and insult me with reproach.  ^19-5
+
+**19:6** Know then that it is the Lord that has troubled *me*, and has raised his bulwark against me.  ^19-6
+
+**19:7** Behold, I laugh at reproach; I will not speak: *or* I will cry out, but *there is* nowhere judgment.  ^19-7
+
+**19:8** I am fenced round about, and can by no means escape: he has set darkness before my face.  ^19-8
+
+**19:9** And he has stripped me of my glory, and has taken the crown from my head.  ^19-9
+
+**19:10** He has torn me round about, and I am gone: and he has cut off my hope like a tree.  ^19-10
+
+**19:11** And he has dreadfully handled me in anger, and has counted me for an enemy.  ^19-11
+
+**19:12** His troops also came upon me with one accord, liers in wait compassed my ways.  ^19-12
+
+**19:13** My brethren have stood aloof from me; they have recognised strangers *rather* than me: and my friends have become pitiless.  ^19-13
+
+**19:14** My nearest of kin have not acknowledged me, and they that knew my name, have forgotten me.  ^19-14
+
+**19:15** *As for* my household, and my maid-servants, I was a stranger before them.  ^19-15
+
+**19:16** I called my servant, and he hearkened not; and my mouth intreated *him*.  ^19-16
+
+**19:17** And I besought my wife, and earnestly intreated the sons of my concubines.  ^19-17
+
+**19:18** But they rejected me for ever; whenever I rise up, they speak against me.  ^19-18
+
+**19:19** They that saw me abhorred me: the very persons whom I had loved, rose up against me.  ^19-19
+
+**19:20** My flesh is corrupt under my skin, and my bones are held in *my* teeth.  ^19-20
+
+**19:21** Pity me, pity me, O friends; for it is the hand of the Lord that has touched me.  ^19-21
+
+**19:22** Wherefore do ye persecute me as also the Lord *does*, and are not satisfied with my flesh?  ^19-22
+
+**19:23** For oh that my words were written, and that they were recorded in a book for ever,  ^19-23
+
+**19:24** with an iron pen and lead, or graven in the rocks!  ^19-24
+
+**19:25** For I know that he is eternal who is about to deliver me,  ^19-25
+
+**19:26** *and* to raise up upon the earth my skin that endures these *sufferings*: for these things have been accomplished to me of the Lord;  ^19-26
+
+**19:27** which I am conscious of in myself, which mine eye has seen, and not another, but all have been fulfilled to me in *my* bosom.  ^19-27
+
+**19:28** But if ye shall also say, What shall we say before him, and *so* find the root of the matter in him?  ^19-28
+
+**19:29** Do ye also beware of deceit: for wrath will come upon transgressors; and then shall they know where their substance is.  ^19-29

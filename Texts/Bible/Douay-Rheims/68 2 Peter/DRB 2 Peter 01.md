@@ -1,0 +1,59 @@
+---
+type: text
+work: "Douay-Rheims Bible"
+book: "2 Peter"
+douay_name: "2 Peter"
+chapter: 1
+translation: "Douay-Rheims, American edition of 1899"
+license: "Public domain (eBible.org, engDRA)"
+source: "https://ebible.org/find/details.php?id=engDRA"
+---
+# 2 Peter 1 (Douay-Rheims)
+
+— · [[Douay-Rheims|index]] · [[DRB 2 Peter 02|2 Peter 2 →]]
+
+Compare: [[2 Peter 01|BSB and SBLGNT]]
+
+**1:1** Simon Peter, servant and apostle of Jesus Christ, to them that have obtained equal faith with us in the justice of our God and Saviour Jesus Christ. ^1-1
+
+**1:2** Grace to you and peace be accomplished in the knowledge of God and of Christ Jesus our Lord: ^1-2
+
+**1:3** As all things of his divine power which appertain to life and godliness, are given us, through the knowledge of him who hath called us by his own proper glory and virtue. ^1-3
+
+**1:4** By whom he hath given us most great and precious promises: that by these you may be made partakers of the divine nature: flying the corruption of that concupiscence which is in the world. ^1-4
+
+**1:5** And you, employing all care, minister in your faith, virtue; and in virtue, knowledge; ^1-5
+
+**1:6** And in knowledge, abstinence; and in abstinence, patience; and in patience, godliness; ^1-6
+
+**1:7** And in godliness, love of brotherhood; and in love of brotherhood, charity. ^1-7
+
+**1:8** For if these things be with you and abound, they will make you to be neither empty nor unfruitful in the knowledge of our Lord Jesus Christ. ^1-8
+
+**1:9** For he that hath not these things with him, is blind, and groping, having forgotten that he was purged from his old sins. ^1-9
+
+**1:10** Wherefore, brethren, labour the more, that by good works you may make sure your calling and election. For doing these things, you shall not sin at any time. ^1-10
+
+**1:11** For so an entrance shall be ministered to you abundantly into the everlasting kingdom of our Lord and Saviour Jesus Christ. ^1-11
+
+**1:12** For which cause I will begin to put you always in remembrance of these things: though indeed you know them, and are confirmed in the present truth. ^1-12
+
+**1:13** But I think it meet as long as I am in this tabernacle, to stir you up by putting you in remembrance. ^1-13
+
+**1:14** Being assured that the laying away of this my tabernacle is at hand, according as our Lord Jesus Christ also hath signified to me. ^1-14
+
+**1:15** And I will endeavour, that you frequently have after my decease, whereby you may keep a memory of these things. ^1-15
+
+**1:16** For we have not by following artificial fables, made known to you the power, and presence of our Lord Jesus Christ; but we were eyewitnesses of his greatness. ^1-16
+
+**1:17** For he received from God the Father, honour and glory: this voice coming down to him from the excellent glory: This is my beloved Son, in whom I am well pleased; hear ye him. ^1-17
+
+**1:18** And this voice we heard brought from heaven, when we were with him in the holy mount. ^1-18
+
+**1:19** And we have the more firm prophetical word: whereunto you do well to attend, as to a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts: ^1-19
+
+**1:20** Understanding this first, that no prophecy of scripture is made by private interpretation. ^1-20
+
+**1:21** For prophecy came not by the will of man at any time: but the holy men of God spoke, inspired by the Holy Ghost. ^1-21
+
+— · [[Douay-Rheims|index]] · [[DRB 2 Peter 02|2 Peter 2 →]]

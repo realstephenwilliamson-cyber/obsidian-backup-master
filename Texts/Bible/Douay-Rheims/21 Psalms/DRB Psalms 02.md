@@ -1,0 +1,43 @@
+---
+type: text
+work: "Douay-Rheims Bible"
+book: "Psalms"
+douay_name: "Psalms"
+chapter: 2
+translation: "Douay-Rheims, American edition of 1899"
+license: "Public domain (eBible.org, engDRA)"
+source: "https://ebible.org/find/details.php?id=engDRA"
+---
+# Psalms 2 (Douay-Rheims)
+
+[[DRB Psalms 01|← Psalms 1]] · [[Douay-Rheims|index]] · [[DRB Psalms 03|Psalms 3 →]]
+
+Compare: [[LXX Psalms 02|LXX (Brenton), same numbering]] · the Hebrew numbering: [[Psalms numbering]]
+
+**2:1** Why have the Gentiles raged, and the people devised vain things? ^2-1
+
+**2:2** The kings of the earth stood up, and the princes met together, against the Lord and against his Christ. ^2-2
+
+**2:3** Let us break their bonds asunder: and let us cast away their yoke from us. ^2-3
+
+**2:4** He that dwelleth in heaven shall laugh at them: and the Lord shall deride them. ^2-4
+
+**2:5** Then shall he speak to them in his anger, and trouble them in his rage. ^2-5
+
+**2:6** But I am appointed king by him over Sion his holy mountain, preaching his commandment. ^2-6
+
+**2:7** The Lord hath said to me: Thou art my son, this day have I begotten thee. ^2-7
+
+**2:8** Ask of me, and I will give thee the Gentiles for thy inheritance, and the utmost parts of the earth for thy possession. ^2-8
+
+**2:9** Thou shalt rule them with a rod of iron, and shalt break them in pieces like a potter’s vessel. ^2-9
+
+**2:10** And now, O ye kings, understand: receive instruction, you that judge the earth. ^2-10
+
+**2:11** Serve ye the Lord with fear: and rejoice unto him with trembling. ^2-11
+
+**2:12** Embrace discipline, lest at any time the Lord be angry, and you perish from the just way. ^2-12
+
+**2:13** When his wrath shall be kindled in a short time, blessed are all they that trust in him. ^2-13
+
+[[DRB Psalms 01|← Psalms 1]] · [[Douay-Rheims|index]] · [[DRB Psalms 03|Psalms 3 →]]

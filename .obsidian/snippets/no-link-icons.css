@@ -1,0 +1,27 @@
+/* no-link-icons.css
+   The Cyber Glow theme draws a small icon after every link: the Obsidian logo after
+   internal links and an arrow after web links (theme.css, "Links Styling":
+   .internal-link::after and .external-link::after). The theme has no setting for it.
+   This snippet removes the icon inside callouts (the Home date box, the converted
+   books' notices and so on). The theme file is not changed, so a theme update keeps working. */
+
+.callout .internal-link::after,
+.callout .external-link::after,
+.callout .cm-hmd-internal-link::after,
+.callout .cm-link::after {
+  content: none !important;
+  display: none !important;
+}
+
+/* To remove the icon from links everywhere, not only in callouts,
+   delete the two lines marked START and END below. */
+
+/* START
+.markdown-rendered .internal-link::after,
+.markdown-rendered .external-link::after,
+.cm-s-obsidian span.cm-hmd-internal-link::after,
+.cm-s-obsidian span.cm-link::after {
+  content: none !important;
+  display: none !important;
+}
+END */

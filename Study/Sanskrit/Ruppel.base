@@ -1,0 +1,40 @@
+filters:
+  and:
+    - file.folder == "Study/Sanskrit"
+views:
+  - type: table
+    name: All
+    order:
+      - title
+      - chapter_title
+      - pdf_page_start
+      - pdf_page_end
+      - status
+    sort:
+      - property: order
+        direction: ASC
+  - type: table
+    name: Chapters
+    filters:
+      and:
+        - type == "sanskrit-study-chapter"
+    order:
+      - title
+      - chapter_title
+      - pdf_page_start
+      - pdf_page_end
+      - companion
+    sort:
+      - property: order
+        direction: ASC
+  - type: table
+    name: Reference material
+    filters:
+      and:
+        - type == "sanskrit-study-reference"
+    order:
+      - title
+      - pdf
+    sort:
+      - property: title
+        direction: ASC

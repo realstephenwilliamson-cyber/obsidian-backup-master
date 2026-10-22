@@ -1,0 +1,15 @@
+filters:
+  and:
+    - file.folder.startsWith("Catalog/")
+    - type != "index"
+    - file.folder != "Catalog/Scholars"
+    - status == "delete"
+views:
+  - type: table
+    name: To delete
+    order:
+      - file.name
+      - files
+    sort:
+      - property: file.name
+        direction: ASC

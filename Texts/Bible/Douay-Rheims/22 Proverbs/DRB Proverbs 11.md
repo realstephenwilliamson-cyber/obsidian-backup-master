@@ -1,0 +1,77 @@
+---
+type: text
+work: "Douay-Rheims Bible"
+book: "Proverbs"
+douay_name: "Proverbs"
+chapter: 11
+translation: "Douay-Rheims, American edition of 1899"
+license: "Public domain (eBible.org, engDRA)"
+source: "https://ebible.org/find/details.php?id=engDRA"
+---
+# Proverbs 11 (Douay-Rheims)
+
+[[DRB Proverbs 10|← Proverbs 10]] · [[Douay-Rheims|index]] · [[DRB Proverbs 12|Proverbs 12 →]]
+
+**11:1** A deceitful balance is an abomination before the Lord: and a just weight is his will. ^11-1
+
+**11:2** Where pride is, there also shall be reproach: but where humility is, there also is wisdom. ^11-2
+
+**11:3** The simplicity of the just shall guide them: and the deceitfulness of the wicked shall destroy them. ^11-3
+
+**11:4** Riches shall not profit in the day of revenge: but justice shall deliver from death. ^11-4
+
+**11:5** The justice of the upright shall make his way prosperous: and the wicked man shall fall by his own wickedness. ^11-5
+
+**11:6** The justice of the righteous shall deliver them: and the unjust shall be caught in their own snares. ^11-6
+
+**11:7** When the wicked man is dead, there shall be no hope any more: and the expectation of the solicitous shall perish. ^11-7
+
+**11:8** The just is delivered out of distress: and the wicked shall be given up for him. ^11-8
+
+**11:9** The dissembler with his mouth deceiveth his friend: but the just shall be delivered by knowledge. ^11-9
+
+**11:10** When it goeth well with the just the city shall rejoice: and when the wicked perish there shall be praise. ^11-10
+
+**11:11** By the blessing of the just the city shall be exalted: and by the mouth of the wicked it shall be overthrown. ^11-11
+
+**11:12** He that despiseth his friend, is mean of heart: but the wise man will hold his peace. ^11-12
+
+**11:13** He that walketh deceitfully, revealeth secrets: but he that is faithful, concealeth the thing committed to him by his friend. ^11-13
+
+**11:14** Where there is no governor, the people shall fall: but there is safety where there is much counsel. ^11-14
+
+**11:15** He shall be afflicted with evil, that is surety for a stranger: but he that is aware of the snares, shall be secure. ^11-15
+
+**11:16** A gracious woman shall find glory: and the strong shall have riches. ^11-16
+
+**11:17** A merciful man doth good to his own soul: but he that is cruel casteth off even his own kindred. ^11-17
+
+**11:18** The wicked maketh an unsteady work: but to him that soweth justice, there is a faithful reward. ^11-18
+
+**11:19** Clemency prepareth life: and the pursuing of evil things, death. ^11-19
+
+**11:20** A perverse heart is abominable to the Lord: and his will is in them that walk sincerely. ^11-20
+
+**11:21** Hand in hand the evil man shall not be innocent: but the seed of the just shall be saved. ^11-21
+
+**11:22** A golden ring in a swine’s snout, a woman fair and foolish. ^11-22
+
+**11:23** The desire of the just is all good: the expectation of the wicked is indignation. ^11-23
+
+**11:24** Some distribute their own goods, and grow richer: others take away what is not their own, and are always in want. ^11-24
+
+**11:25** The soul which blesseth, shall be made fat: and he that inebriateth, shall be inebriated also himself. ^11-25
+
+**11:26** He that hideth up corn, shall be cursed among the people: but a blessing upon the head of them that sell. ^11-26
+
+**11:27** Well doth he rise early who seeketh good things; but he that seeketh after evil things shall be oppressed by them. ^11-27
+
+**11:28** He that trusteth in his riches shall fall: but the just shall spring up as a green leaf. ^11-28
+
+**11:29** He that troubleth his own house, shall inherit the winds: and the fool shall serve the wise. ^11-29
+
+**11:30** The fruit of the just man is a tree of life: and he that gaineth souls, is wise. ^11-30
+
+**11:31** If the just man receive in the earth, how much more the wicked and the sinner. ^11-31
+
+[[DRB Proverbs 10|← Proverbs 10]] · [[Douay-Rheims|index]] · [[DRB Proverbs 12|Proverbs 12 →]]

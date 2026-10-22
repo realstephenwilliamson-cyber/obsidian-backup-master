@@ -1,0 +1,101 @@
+# D31c — Goodall (ed.), *Śaivism and the Tantric Traditions*: footnotes re-converted
+
+Date: 15 Oct 2026. Work was local only (nothing written to the vault). Deliverables:
+
+- `/home/claude/d31c/final/` — 18 notes with exactly the current file names (17 chapter notes + the index note).
+- `/home/claude/d31c/jobs/goodall.json` — the job; `/home/claude/d31c/conv.py` — the changed converter copy; `/home/claude/d31c/conv.diff` — its diff against `/home/claude/p4/conv.py` (every change gated behind a job option, so other books are unaffected).
+- `/home/claude/d31c/merge.py` — merges the new conversion into the current notes; `/home/claude/d31c/merge_log.json` — every difference it classified; `/home/claude/d31c/check.py` — compares notes found per page against the margin numbers in the PDF; `/home/claude/d31c/excerpts.md` — before/after page blocks for three pages.
+
+## 1. What was wrong
+
+Sampling pages with PyMuPDF (`get_text('rawdict')`, `get_texttrace()`, `get_drawings()`) and the embedded fonts (fontTools) showed four separate causes.
+
+1. **Body references are not superscripts in the text layer.** Brill sets note numbers in the body with the font's own *superior* digit glyphs: nominal size 11 pt, same baseline, no superscript flag, same line bbox as the other characters. PyMuPDF therefore gives `Guhyasūtra 8:2` for *Guhyasūtra* 8:² (the colon is in the print). The only differences are the glyph id (Brill-Roman uses cids 4669–4678 for superior digits, 4594–4603 for ordinary digits, 4700–4703 for inferior digits as in V₁/V₂) and the advance width (≈0.75 of the normal digit). The converter's superscript rule (flag bit 0, or smaller size and raised bbox) cannot see this, and its fallback (digits straight after a word) refused `8:2` as a verse number — correctly, since it cannot tell.
+2. **The margin number is a separate line.** In Brill's layout the note number stands at x = 56.7 and the note text at x = 68 (one digit) or 79.4 (two or three digits). `merge_same_line` joins a number to its text only when the gap is under one em (9 pt); the two-digit gap is ≈14 pt, so lines like `10` / `See Bisschop 2007 and 2013.` stayed apart. The footnote parser then saw no numbered line, took every line as a *continuation*, and appended the whole page's notes to the previous page's last note (e.g. current note 03, `[^9]: See Sanderson 2006 for references. 10 See Bisschop 2007 and 2013. 11 The manuscript …`). On pages whose previous page had no notes they became plain paragraphs.
+3. **A margin number on the last line was taken for a page number.** A bare `26` at the foot of a page is a "pure number in the bottom zone" and became a header/footer; 107 notes lost their number this way (the page numbers of this book are all at the top).
+4. **Pages that are mostly notes.** The per-page body-size estimate (`pbody`) takes the commonest size in the upper 60 % of the page; on pages where a long note fills most of the page, that is 9 pt, so nothing counted as "small" and no notes zone was found (e.g. PDF 142). Notes may also begin as high as 0.19 of the page height (PDF 302), above the converter's 0.45 limit, and the 10 pt bibliographies were "small" too.
+
+Net result on 7 Oct: 191 notes recognised out of ≈1,130, 157 linked.
+
+## 2. What I changed
+
+All changes are in `/home/claude/d31c/conv.py`, each behind a job option (default off, so the original behaviour is unchanged for other books):
+
+| option | change |
+|---|---|
+| `glyph_sups` | `raised_glyphs(doc)`: reads each embedded CFF font with fontTools and marks glyphs whose outline sits above the baseline (y0 > 0.2 em, y1 < 0.78 em, height < 0.55 em) as raised. `raised_positions(page)` collects the origins of digits drawn with such glyphs (`get_texttrace`); `split_raised()` splits the rawdict spans so a run of raised digits becomes a span flagged `sup`. Digits only — the font's asterisk and daggers are raised by design, and a zero-width glyph can share the origin (PDF 122). The regex-based `bodyrefs` is switched off under this option (it was linking `1.99–101` and the like). |
+| `fn_num_merge` | In the notes zone a number-only line is joined to the text line beside it (either order; the text line sits slightly higher when it holds a raised character). A note *starts* only where the number is the margin span (`spans[0]`), which keeps apparatus entries such as `6a aśastān]` as continuation text. A lone margin number also counts as "numbered" for the zone test. |
+| `fn_rule_cut` | Brill prints a short rule (45 pt wide, at the left margin, alone on its y) above the notes on every page that has them, including continuations. The notes zone is everything small below the *lowest* such rule, taken when the first line below it is a margin-number start or the previous page's zone continues (notes or continuation lines). A verse apparatus in the body has its own indented rule, and table rules come in rows, so they do not qualify. The block-quotation indent test is skipped for a zone found this way, and a note running over three pages is chained to its page. |
+| `page_body: false` | the book-level body size (11 pt) holds on every page. |
+| `fn_top: 0.15`, `fn_max_size: 9.2` | notes may begin at 15 % of the page height; the 10 pt bibliographies are not notes. |
+| `pnum_bottom: false` | a bare number in the bottom zone is not a page number; a note line beside a margin number is not a footer; a line that contains the page number (`See below, note 115.` on p. 115) is not a footer; a line holding a raised number is not a header (`[…].112`). |
+| `fn_carry_ref` | a raised number with no note on its page is linked to the note on the next page when it is the next number in sequence (2 cases: notes 89 and 109 in Ratié's chapter, where the note begins on the following page; both checked). |
+| `hf_top: 50` | existing option: everything above 50 pt is header. The running heads are 10 pt lower-case lines at y ≈ 35, and those occurring fewer than 9 times in the book (Dezső, Törzsök, Hidas, Hanneder, Mallinson …) were left in the text on 7 Oct; 87 such lines are gone now (listed in `merge_log.json` → `running_head_dropped`). If they are wanted back, drop `hf_top` from the job. |
+| (unconditional, small) | `line_markdown` keeps the space after a raised reference (the text layer has no space character there: `others5 have` → `others[^5] have`, previously `others[^5]have`). The `_report.json` now lists the notes with no reference (`noref`). |
+
+Also: `text_refs: false` (no guessing from plain digits). The job's `toc` reproduces the current 40-page split; the TOC headings it generates are discarded and the current headings put back.
+
+### Merge (`merge.py`)
+
+For each current note the frontmatter (every field kept; `text_source` gets `; footnotes re-converted 15 Oct 2026`), the navigation line, every page-marker line and every heading are taken verbatim from the current note; each page's text comes from the new conversion; the current headings are re-inserted at the same place (anchored on the paragraph that follows them, or the one before for the five Part pages). Then: the 20 `[[Tantraloka …|TĀ …]]` wikilinks added in the current notes are placed on the same text (all 20 placed, identical set and counts); the letter corrections are applied (section 4); a word-level diff of the page text outside the notes classifies every other difference.
+
+## 3. Results
+
+Book-wide: **1,129 notes found** (the PDF has ≈1,135 margin numbers; the only numbered 9 pt starts not taken are table rows and Tanemura's apparatus, see below), **1,124 footnote definitions written, 1,124 references in the body**, 5 notes left visible as unreferenced text, 0 references without a definition, 0 duplicate ids, 0 continuation paragraphs left loose. Per note (definitions = references in every note):
+
+| note | definitions | unreferenced notes |
+|---|---|---|
+| 01 - Section | 0 | 0 |
+| 02 - Part 1 | 3 | 0 |
+| 03 - Chapters 1-2 | 67 | 0 |
+| 04 - Chapter 3 Dressing for Power | 80 | 0 |
+| 05 - Chapters 4-5 | 127 | 0 |
+| 06 - Chapter 6 Alchemical Metaphors | 70 | 1 (p. 180 `*`, Wallis's acknowledgement) |
+| 07 - Chapters 7-8 | 34 | 1 (p. 205 `*`, Szántó's acknowledgement) |
+| 08 - Chapters 9-10 | 91 | 0 |
+| 09 - Chapters 11-12 | 96 | 0 |
+| 10 - Chapter 13 Navarātra | 65 | 0 |
+| 11 - Chapters 14-15 | 83 | 0 |
+| 12 - Chapter 16 Lotus Garland | 87 | 0 |
+| 13 - Chapters 17-18 | 82 | 0 |
+| 14 - Chapters 19-20 | 71 | 0 |
+| 15 - Chapter 21 Kriyāsaṃgrahapañjikā | 94 | 0 |
+| 16 - Chapter 22 Mañjuśrī | 70 | 3 (PDF 567 `7`, PDF 569 `8`, `9`: Tanemura's lower register) |
+| 17 - Chapter 23 Sādṛśya | 4 | 0 |
+
+The five unreferenced notes are kept **visible**, in the converter's usual form (`\*\. An earlier version …`, `7\. naimittaṃ\] The folios …`), not as `[^id]:` definitions: Obsidian does not show a definition that nothing references, and the two `*` notes are chapter acknowledgements whose raised asterisk the converter cannot tell from the font's ordinary asterisk, while the three Tanemura entries are notes on verse numbers (7, 8, 9 of the edited text), not footnotes with a body reference. If you prefer hidden definitions, it is a one-line change in `conv.py` (the `else:` branch writing `md_escape(n) + '\\. '`).
+
+Structure checks on all 18 final notes: page markers identical to the current notes (every `*[p. N]* ^pgK` / `*[PDF K]* ^pgK` line, same order); headings identical (same lines, same order, same positions relative to the text); navigation lines and callouts identical (there are no callouts); frontmatter identical apart from the `text_source` suffix; the index note identical apart from that suffix. Every `[^id]` in each note has exactly one definition and every definition at least one reference. No `\x00` or `<sup>` left except one `<sup>3</sup>` in the index (PDF 632, `Dattātreyayogaśāstra`, where the current note has the same broken `…śāstra3` / `8, 453` split of "438").
+
+## 4. Corrections carried over, and differences not carried
+
+**Carried over (2 letters + 20 links):** PDF 613 `Mṛchhakațikā` → `Mṛchhakaṭikā` (ț is a stand-in for ṭ); `jantukkaļaippōlē` → `jantukkaḷaippōlē` (Tamil ḷ, inside a note). The 20 Tantrāloka wikilinks (section 2).
+
+**Not carried, on purpose — please check these (3):** the current notes replace `Mańjuśrī-nāmasaṃgīti` (PDF 25) and `Vijńānavādin` (PDF 632) with `Maṁjuśrī…`, `Vijṁānavādin`: ń in the text layer stands for ñ, and ṁ is not that letter, so I left the text layer's ń. `Roşu` (PDF 203) was changed to `Roṣu` in the current notes; Arion Roşu is Romanian and ş is the real letter, so I left `Roşu`.
+
+**Errors in the current notes that the new text fixes (6 in the compared text, ≈19 in all):** the current notes have ṁ for *rh*: `Āṁata`, `bāṁaspatya` (×3), `yathāṁaṃ`, `gaṁitāḥ`, also `Bhāṁut`, `vāṁatyo`, `niṁetukatā`, `trāṁaḥ`, `gāṁasthya`, `taṁīme`; (ṁ for ṃ in `śrīnāmasaṁgīti`, `Apabhraṁśa`, `Bṛhatsaṁhitā`, `bījaṁ` is the PDF's own usage and stays). The PDF text layer has `rh` (Bārhaspatya, Ārhata …), which is right; it looks as if a glyph-repair pass on 7 Oct mapped something to ṁ. The new text keeps `rh`.
+
+**Other differences, all expected and checked by category (`merge_log.json`):**
+
+- 912 words where the current text carries a note number glued to the word (`Nepal.12 It`) and the new text has the reference (`Nepal.[^12] It`), plus 1 the other way: current `III..8)` for `III.1.8)` on PDF 180 — the old plain-digit rule had linked the `1` of a verse number as note 1.
+- 251 places where the current page holds note text as body paragraphs (or in the previous page's last definition) that is now a footnote; 6 lone number lines of the same origin.
+- 87 running-head lines dropped (section 2). 35 lines present in the new text that the current lacks: about 20 are the Contents/Part titles the old TOC matching swallowed (`Early Śaivism`, `Introduction` …), 2 are lines the old run took for footers (`[…].112`, `See below, note 115.`), the rest are apparatus lines and numbers that had been glued elsewhere.
+- Words hyphenated across a page break now joined (`Rāmakaṇ-` + `ṭha`, `Kubji-` + `kā-Tripurā-oriented`, `bibli-` + `ography`): the old run had note text or a running head between the halves.
+
+I found no difference that looked like a wording edit by Stephen other than the wikilinks.
+
+## 5. Before and after, three pages
+
+See `/home/claude/d31c/excerpts.md` for the full page blocks. In short:
+
+- **p. 50 (PDF 85), note 04:** before `Summary of the conclusion of *Guhyasūtra* 8:2` with `2\. Much of this conclusion …` as a paragraph; after `Summary of the conclusion of *Guhyasūtra* 8:[^2]` and `[^2]: Much of this conclusion has, by the way, been borrowed …`. The list 8.88–141 is unchanged.
+- **p. 19 (PDF 54), note 03:** before `…collection of *Vārāṇasīmāhātmya*s.10 It …(Acc. No. 66).11 The … Nepal.12 It …` and notes 10–12 missing from the page (they sit inside `[^9]:` on p. 18); after `…*Vārāṇasīmāhātmya*s.[^10] It … 66).[^11] The … Nepal.[^12] It …` with `[^10]: See Bisschop 2007 and 2013.`, `[^11]: The manuscript has been microfilmed …`, `[^12]: Some comparable manuscripts …` at the foot of the page, and `[^9]` on p. 18 ends where it should.
+- **p. 107 (PDF 142), note 05:** before, the page's 9 pt text (the end of note 5 and notes 6–10) stood as body paragraphs with `6`, `7` … as separate digits in the text and `quoting8—and`, `below.10 Beside`; after, the continuation of note 5 is appended to `[^5]` on p. 106, notes 6–9 are `[^6-p107]` … `[^9-p107]` (the labels carry the page because 6–9 also exist in chapter 4 in the same note file), the body has `annotations,[^7-p107]`, `quoting[^8-p107]—and`, `below.[^10-p107]`, and note 10, whose number is the last line of the page, is `[^10-p107]: See fragment no. 6? on ĪPK 1.5.8–9.`
+
+## 6. Uncertain or worth a look
+
+- The glyph test is general (outline above the baseline) but was verified only on this book's Brill fonts; the two `*` acknowledgement notes show its limit.
+- Tanemura's chapter (notes 15–16) has two registers below the text: a variant apparatus (left as text, as now) and, under the lowest rule, numbered notes on verse numbers (left visible, unreferenced). I did not try to attach them to the verse numbers.
+- The index (PDF 625–633) is two-column and comes out as it did before; I did not touch its paragraphing.
+- The 87 dropped running heads and the ≈20 restored Contents/Part title lines change the text beyond the footnotes; both are listed in `merge_log.json` if you want to review or revert them.
+- `check.py`'s "expected" count (1,139 margin numbers) includes table rows (PDF 525) and body list numbers; the true note count is ≈1,130.

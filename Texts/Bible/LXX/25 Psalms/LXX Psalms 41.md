@@ -1,0 +1,47 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Psalms"
+english_book: "Psalms"
+chapter: 41
+aliases:
+  - "Psalms 41"
+  - "Psalm 42 (Hebrew)"
+---
+# LXX Psalms 41
+
+← [[LXX Psalms 40]] · [[LXX]] · [[LXX Psalms 42]] →
+
+*Psalms · [[LXX]]*
+
+Hebrew numbering (JPS): [[Psalms 042]] · Prayer Book (1979): [[BCP Psalm 042]] · [[Psalms numbering]]
+
+**41:1** For the end, *a Psalm* for instruction, for the sons of Core.  ^41-1
+
+**41:2** As the hart earnestly desires the fountains of water, so my soul earnestly longs for thee, O God.  ^41-2
+
+**41:3** My soul has thirsted for the living God: when shall I come and appear before God?  ^41-3
+
+**41:4** My tears have been bread to me day and night, while they daily said to me, Where is thy God?  ^41-4
+
+**41:5** I remembered these things, and poured out my soul in me, for I will go to the place of thy wondrous tabernacle, *even* to the house of God, with a voice of exultation and thanksgiving and of the sound of those who keep festival.[^1]  ^41-5
+
+**41:6** Wherefore art thou very sad, O my soul? and wherefore dost thou trouble me? hope in God; for I will give thanks to him; *he is* the salvation of my countenance.  ^41-6
+
+**41:7** O my God, my soul has been troubled within me: therefore will I remember thee from the land of Jordan, and of the Ermonites, from the little hill.  ^41-7
+
+**41:8** Deep calls to deep at the voice of thy cataracts: all thy billows and thy waves have gone over me.  ^41-8
+
+**41:9** By day the Lord will command his mercy, and manifest *it* by night: with me *is* prayer to the God of my life.[^2]  ^41-9
+
+**41:10** I will say to God, Thou art my helper; why hast thou forgotten me? wherefore do I go sad of countenance, while the enemy oppresses *me*?  ^41-10
+
+**41:11** While my bones were breaking, they that afflicted me reproached me; while they said to me daily, Where is thy God?  ^41-11
+
+**41:12** Wherefore art thou very sad, O my soul? and wherefore dost thou trouble me? hope in God; for I will give thanks to him; *he is* the health of my countenance, and my God.  ^41-12
+
+[^1]: 41:5 See *Appendix.*
+[^2]: 41:9 *Heb.* and *Alex.* his song shall be, etc.

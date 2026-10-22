@@ -1,0 +1,60 @@
+---
+type: text
+work: "NRSV Updated Edition"
+book: "Jeremiah"
+chapter: 16
+translation: "New Revised Standard Version Updated Edition (2021)"
+license: "© 2021 National Council of the Churches of Christ in the USA; all rights reserved (private study copy)"
+source: "NRSVue eBible, Friendship Press 2021 (e-ISBN 978-1-7330759-4-7)"
+---
+# Jeremiah 16 (NRSVue)
+
+[[NRSVue Jeremiah 15|← Jeremiah 15]] · [[NRSVue|index]] · [[NRSVue Jeremiah 17|Jeremiah 17 →]]
+
+## Jeremiah’s celibacy and message
+
+**16:1** The word of the LORD came to me: ^16-1
+
+**16:2** You shall not take a wife, nor shall you have sons or daughters in this place. ^16-2
+
+**16:3** For thus says the LORD concerning the sons and daughters who are born in this place and concerning the mothers who bear them and the fathers who father them in this land: ^16-3
+
+**16:4** They shall die of deadly diseases. They shall not be lamented, nor shall they be buried; they shall become like dung on the surface of the ground. They shall perish by the sword and by famine, and their dead bodies shall become food for the birds of the air and for the wild animals of the earth. ^16-4
+
+**16:5** For thus says the LORD: Do not enter the house of mourning or go to lament or bemoan them, for I have taken away my peace from this people, says the LORD, my steadfast love and mercy. ^16-5
+
+**16:6** Both great and small shall die in this land; they shall not be buried, and no one shall lament for them; there shall be no gashing, no shaving of the head for them. ^16-6
+
+**16:7** No one shall break bread^[Gk: Heb *break for them*] for the mourner, to offer comfort for the dead, nor shall anyone give them the cup of consolation to drink for their fathers or their mothers. ^16-7
+
+**16:8** You shall not go into the house of feasting to sit with them, to eat and drink. ^16-8
+
+**16:9** For thus says the LORD of hosts, the God of Israel: I am going to banish from this place, in your days and before your eyes, the voice of mirth and the voice of gladness, the voice of the bridegroom and the voice of the bride. ^16-9
+
+**16:10** And when you tell this people all these words, and they say to you, “Why has the LORD pronounced all this great evil against us? What is our iniquity? What is the sin that we have committed against the LORD our God?” ^16-10
+
+**16:11** then you shall say to them: It is because your ancestors have forsaken me, says the LORD, and have gone after other gods and have served and worshiped them and have forsaken me and have not kept my law, ^16-11
+
+**16:12** and because you have behaved worse than your ancestors, for here you are, every one of you, following your stubborn evil will, refusing to listen to me. ^16-12
+
+**16:13** Therefore I will hurl you out of this land into a land that neither you nor your ancestors have known, and there you shall serve other gods day and night, for I will show you no favor. ^16-13
+
+## God will restore Israel
+
+**16:14** Therefore, the days are surely coming, says the LORD, when it shall no longer be said, “As the LORD lives who brought the people of Israel up out of the land of Egypt,” ^16-14
+
+**16:15** but “As the LORD lives who brought the people of Israel up out of the land of the north and out of all the lands where he had driven them.” For I will bring them back to their own land that I gave to their ancestors. ^16-15
+
+**16:16** I am now sending for many fishermen, says the LORD, and they shall catch them, and afterward I will send for many hunters, and they shall hunt them from every mountain and every hill and out of the clefts of the rocks. ^16-16
+
+**16:17** For my eyes are on all their ways; they are not hidden from my presence, nor is their iniquity concealed from my sight. ^16-17
+
+**16:18** And^[Gk: Heb *And first*] I will doubly repay their iniquity and their sin because they have polluted my land with the carcasses of their detestable idols and have filled my inheritance with their abominations. ^16-18
+
+**16:19** O LORD, my strength and my stronghold, my refuge in the day of trouble, to you shall the nations come from the ends of the earth and say: “Our ancestors have inherited nothing but lies, worthless things in which there is no profit. ^16-19
+
+**16:20** Can mortals make for themselves gods? Such are no gods!” ^16-20
+
+**16:21** “Therefore I am surely going to teach them, this time I am going to teach them my power and my might, and they shall know that my name is the LORD.” ^16-21
+
+[[NRSVue Jeremiah 15|← Jeremiah 15]] · [[NRSVue|index]] · [[NRSVue Jeremiah 17|Jeremiah 17 →]]

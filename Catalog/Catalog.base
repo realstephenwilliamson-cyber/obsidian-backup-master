@@ -1,0 +1,92 @@
+filters:
+  and:
+    - file.folder.startsWith("Catalog/")
+    - type != "index"
+    - file.folder != "Catalog/Scholars"
+formulas:
+  Read: files.filter(value.asFile().ext == "md").map(link(value, "Read"))
+views:
+  - type: table
+    name: All
+    order:
+      - file.name
+      - status
+      - formula.Read
+      - file.links
+    sort:
+      - property: author
+        direction: ASC
+      - property: status
+        direction: DESC
+    columnSize:
+      file.name: 604
+      file.links: 176
+  - type: table
+    name: By subject
+    order:
+      - file.name
+      - subject
+      - type
+      - status
+    sort:
+      - property: subject
+        direction: ASC
+      - property: title
+        direction: ASC
+  - type: table
+    name: Reading now
+    filters:
+      and:
+        - status == "reading"
+    order:
+      - file.name
+      - subject
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Scans without text
+    filters:
+      and:
+        - text == "scan"
+    order:
+      - file.name
+      - subject
+      - text
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: On paper only
+    filters:
+      and:
+        - text == "print"
+    order:
+      - file.name
+      - status
+      - physical_copy
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Review
+    filters:
+      and:
+        - status == "review"
+    order:
+      - file.name
+      - subject
+      - type
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: Scratch
+    order:
+      - file.name
+      - subject
+      - type
+      - status
+    sort:
+      - property: title
+        direction: ASC

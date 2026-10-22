@@ -1,0 +1,43 @@
+---
+type: book-chapter
+work: "[[Catalog/Hinduism/Pintchman (ed.) - Woman and Goddess in Hinduism]]"
+book: "[[Library/Hinduism/Woman and Goddess in Hinduism (Pintchman)/Woman and Goddess in Hinduism (Pintchman)|Woman and Goddess in Hinduism (Pintchman)]]"
+order: 13
+source_pdf: "Library/Hinduism/Pintchman, Sherma (eds.) - Woman and Goddess in Hinduism (2011).pdf"
+pages: "229–232"
+pdf_pages: "240–243"
+text_source: "PDF text layer (born-digital), PyMuPDF; about 80 italic transliterated words, set in a font without a Unicode map, read by OCR (Tesseract 5, Latin)"
+converted: 2026-10-22
+---
+
+[[Woman and Goddess in Hinduism 12 - Conclusion Reimagining the Hindu Feminine Tracy Pintchman|← previous]] · [[Woman and Goddess in Hinduism (Pintchman)|contents]] · [[Woman and Goddess in Hinduism 14 - Index|next →]]
+
+*[p. 229]* ^pg240
+
+## List of Contributors
+
+Loriliai Biernacki is associate professor of religious studies at the University of Colorado at Boulder. Her research interests include Hinduism, ethics, critical theory, and gender. Her first book, *Renowned Goddess of Desire: Women, Sex and Speech in Tantra* (2007), won the Kayden Award in 2008. She is currently working on a translation of a Sanskrit philosophical text by the eleventh-century Indian philosopher Abhinavagupta.
+
+Francis Xavier Clooney, SJ, is the Parkman Professor of Divinity at Harvard Divinity School, and director of the Center for the Study of World Religions. He teaches courses in classical Hinduism and in comparative theology, with a focus on Hindu-Christian examples. His research interests lie in these same fields, and additionally he has studied the Jesuit missionary tradition in India. Recent publications include *Beyond Compare: St. Francis and Sri Vedanta Desika on Loving Surrender to God* (2008), *The Truth, the Way, the Life: Christian Commentary on the Three Holy Mantras of the Srivaisnava Hindus* (2008), and *Comparative Theology: Deep Learning across Religious Borders* (2010). His current major project is an exercise in dramatic theology, a reading of medieval sermons on the *Song of Songs* along with parallel Hindu poetry and commentary similarly illuminating the search for the absent God.
+
+Phyllis K. Herman is a professor of religious studies at California State University, Northridge. She teaches courses in Hinduism, Asian religions, and women and religion. She has published extensively on the goddess, Sītā and her “kitchen shrines,” and on the political implementations of the Indian epic *The Rāmāyanņa.* Her most recent publications include the coedited book *The Constant and Changing Face of the Goddess: Goddess Traditions in Asia* (2008) and *Seeing the Divine: Online Darshan and Virtual Religious Experience* (2010)*.* She is currently working on an expansion of her research on online religion.
+
+*[p. 230]* ^pg241
+
+Veena Rani Howard teaches in the Religious Studies and Social Science Departments at the University of Oregon and Lane Community College. She teaches courses in religions of India, Eastern traditions, Hindu myth and tradition, nonviolence in religion, and Gandhi. Her research interests include Hinduism, Gandhi’s philosophy of asceticism, and comparative religion. Her recent publications include two articles on Gandhi: “Gandhi, The Mahatma: Evolving Narratives and Native Discourse in Gandhi Studies” (2007) and “Non-violence and Justice as Inseparable Principles: A Gandhian Perspective” (2008). She is currently at work on a monograph tentatively entitled *Reconsidering Gandhi’s Celibacy: An Analysis of its Functional Value in Ascetic Activism*.
+
+E. H. Rick Jarow is an associate professor of religion and Asian studies at Vassar College. He is the author of many articles on Vais∙n∙ ava traditions and a book entitled *Tales for the Dying: The Death Narrative of the Bhāgavata Purān∙a* (2003).
+
+Laurie L. Patton is Charles Howard Candler Professor of Early Indian Religions at Emory University. She teaches courses in early Indian myth and literature, comparative mythology, and theory and method in the study of religion. Her research interests include ancient Indian poetry and ritual, religion and literature, and contemporary Hindu women and the Sanskrit tradition. Her most recent publications include *Bringing the Gods to Mind: Mantra and Ritual in Early Indian Sacrifice* (2005); *The Bhagavad Gita* (2008); and *Notes from a Mandala: Essays in The History of Indian Religions* (2010). A second book of poems, *Angel’s Task*, is forthcoming in 2011. She is currently completing two manuscripts, one on the study of religion and its twentieth-century publics and another on women, Sanskrit, and religious identity in contemporary India.
+
+Karen Pechilis is a professor of Asian religions and comparative religion in the Religious Studies Department at Drew University. She teaches courses in the history of Asian religions; thematic comparative topics in religion such as pilgrimage, devotion, and art; and critical theories of gender, language, and aesthetics in religion. Her research interests include classical Tamil poet-saints and their devotional compositions, the imaginary of human and divine embodiment, and women’s religious authority. Her most recent publications include *The Embodiment of Bhakti* (1999), *The Graceful Guru: Hindu Female Gurus in India and the United States* (2004), and *Interpreting Devotion: The Poetry and Legacy of a Female Bhakti Saint of India* 
+
+*[p. 231]* ^pg242
+
+(forthcoming), which is a study of Kāraikkāl Ammaiyār. She is currently working on *Refiguring the Body: Embodiment in South Asian Religions* (coedited with Barbara Holdrege; forthcoming). Tracy Pintchman is professor of Hindu studies and religious studies at Loyola University of Chicago. She teaches courses on Hindu goddess traditions, women and religion, and other religious studies topics. Her research interests include Hindu goddess traditions, women and religion, and transnational Hinduism. Her scholarly publications include a number of articles and book chapters as well as four books: two monographs, *The Rise of the Goddess in the Hindu Tradition* (1994) and *Guests at God’s Wedding: Celebrating Kartik Among the Women of Benares* (2005), and two edited volumes, *Seeking Mahadevi:* *Constructing the Identities of the Hindu Great Goddess* (2001) and *Women’s Rituals, Women’s Lives in the Hindu Tradition: Domesticity and Beyond* (2007).
+
+Neela Bhattacharya Saxena is an associate professor of English at Nassau Community College, Garden City, New York. Her book *In the Beginning Is Desire: Tracing Kali’s Footprints in Indian Literature* was published in 2004. Some of her recent publications include “Gaia Mandala: An Eco-Thealogical Vision of the Indic Shakti Tradition” (2006) and “Color of God: Resplendent Clay of Hindu Images as the Glow of the Ineffable” (2008). Her forthcoming essays include: “Gynocentric Thealogy of Tantric Hinduism: A Meditation upon the Devi,” in *Oxford Handbook of Feminist Theology*, and “Neither Theos, Nor Logos: Indic Mother God beyond Onto-Theology” in *Pathways of Creative Research: Towards a Festival of Dialogues.* Her current book project is titled *Absent Mother God of the West.* Arvind Sharma received a PhD in Sanskrit and Indian studies from Harvard University in 1978. He has published over fifty books and five hundred articles in the fields of comparative religion, Hindu studies, Indian philosophy and ethics, and the role of women in religion. Among his most noteworthy publications are *The Hindu Gita:* *Ancient and Classical Interpretations of the Bhagavadgita* (1986), *The Experiential Dimension of Advaita Vedanta* (1993), *Our Religions:* *The Seven World Religions Introduced by Preeminent Scholars from Each Tradition* (1994), and *The Study of Hinduism* (2003). Rita D. Sherma received her MA in women’s studies in religion and PhD in theology and ethics from Claremont Graduate University. She is director of The Convergence Center, Arizona; founding Chair of the Institute for Theology Beyond Boundaries; and professor and 
+
+*[p. 232]* ^pg243
+
+executive director of the School of Philosophy and Religious Studies at Taksha University, Virginia. Her previous scholarly publications include numerous essays and book chapters on religion and philosophy, and encyclopedia articles in works such as the *Encyclopedia of Women and Religion in North America* and the *Encyclopedia of Love in World Religions*, as well as several edited volumes, including *Dying, Death, and Afterlife in Dharma Traditions and Western Religions* (2006); *Hermeneutics and Hindu Thought: Toward a Fusion of Horizons* (2008), and *Prayer and Worship in Dharma Traditions* (forthcoming).

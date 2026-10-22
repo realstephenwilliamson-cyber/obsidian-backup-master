@@ -1,0 +1,42 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Zechariah"
+english_book: "Zechariah"
+chapter: 5
+aliases:
+  - "Zechariah 5"
+---
+# LXX Zechariah 05
+
+← [[LXX Zechariah 04]] · [[LXX]] · [[LXX Zechariah 06]] →
+
+*Zechariah · [[LXX]]*
+
+**5:1** And I turned, and lifted up mine eyes, and looked and behold a flying sickle.  ^5-1
+
+**5:2** And he said to me, What seest thou? And I said, I see a flying sickle, of the length of twenty cubits, and of the breadth of ten cubits.  ^5-2
+
+**5:3** And he said to me, This is the curse that goes forth over the face of the whole earth: for every thief shall be punished with death on this side, and every false swearer shall be punished on that side.  ^5-3
+
+**5:4** And I will bring it forth, saith the Lord Almighty, and it shall enter into the house of the thief, and into the house of him that swears falsely by my name: and it shall rest in the midst of his house, and shall consume it, and the timber of it, and the stones of it.  ^5-4
+
+**5:5** And the angel that talked with me went forth, and said to me, Lift up thine eyes, and see this that goes forth.  ^5-5
+
+**5:6** And I said, What is it? And he said, This is the measure that goes forth. And he said, This is their iniquity in all the earth.  ^5-6
+
+**5:7** And behold a talent of lead lifted up: and behold a woman sat in the midst of the measure.[^1]  ^5-7
+
+**5:8** And he said, This is iniquity. And he cast it into the midst of the measure, and cast the weight of lead on the mouth of it.  ^5-8
+
+**5:9** And I lifted up mine eyes, and saw, and, behold, two women coming forth, and the wind was in their wings; and they had stork's wings: and they lifted up the measure between the earth and the sky.  ^5-9
+
+**5:10** And I said to the angel that spoke with me, Whither do these carry away the measure?  ^5-10
+
+**5:11** And he said to me, To build it a house in the land of Babylon, and to prepare *a place for it*; and they shall set it there on its own base.[^2]  ^5-11
+
+[^1]: 5:7 *Heb.* and *Gr.* one woman. see ver. 9.
+[^2]: 5:11 *Gr.* preparation.

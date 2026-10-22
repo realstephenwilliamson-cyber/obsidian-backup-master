@@ -1,0 +1,67 @@
+/* Folder colours in the file explorer. Changed 12 Oct 2026 (restructure): Bases -> Catalog, Writing -> Projects,
+   Prompts -> Calendar (Prompts is now AI/Prompts, hidden), and the unused "place" rule -> Study. */
+/* 1. Deep Amethyst */
+.nav-folder-title[data-path="Catalog"] {
+    background-color: #1B1423 !important;
+    color: #DDB6F2 !important;
+}
+
+/* 2. Dark Crimson */
+.nav-folder-title[data-path="Excalidraw"] {
+    background-color: #201214 !important;
+    color: #FF9EAA !important;
+}
+
+/* 3. Shadow Teal */
+.nav-folder-title[data-path="Journal"] {
+    background-color: #0F1D24 !important;
+    color: #89DCEB !important;
+}
+
+/* 4. Dark Bramble */
+.nav-folder-title[data-path="Library"] {
+    background-color: #261521 !important;
+    color: #F5C2E7 !important;
+}
+
+/* 5. Blackened Pine */
+.nav-folder-title[data-path="Notes"] {
+    background-color: #0E211D !important;
+    color: #A6E3A1 !important;
+}
+
+/* 6. Ember Ash */
+.nav-folder-title[data-path="Study"] {
+    background-color: #241811 !important;
+    color: #FAB387 !important;
+}
+
+/* 7. Oxblood */
+.nav-folder-title[data-path="Projects"] {
+    background-color: #291419 !important;
+    color: #F38BA8 !important;
+}
+
+/* 8. Abyssal Indigo */
+.nav-folder-title[data-path="Texts"] {
+    background-color: #131224 !important;
+    color: #B5B2FF !important;
+}
+
+/* 9. Cosmic Bronze */
+.nav-folder-title[data-path="Calendar"] {
+    background-color: #211B11 !important;
+    color: #F1C280 !important;
+}
+
+/* 10. Deep Mint */
+.nav-folder-title[data-path="Templates"] {
+    background-color: #12211C !important;
+    color: #94E2D5 !important;
+}
+
+/* Keep text legible when you hover over the folder */
+.nav-folder-title:hover {
+    filter: brightness(1.3);
+
+}

@@ -1,0 +1,118 @@
+/* Vault styles: callouts, Devanagari, daily-study pages, lectionary embeds.
+   Turned on in Settings → Appearance → CSS snippets ("callout-styles").
+   Everything here is presentation only: notes contain no decoration of their own,
+   so turning this off leaves plain, readable Markdown. */
+
+/* ── Devanagari ───────────────────────────────────────────────
+   A Devanagari face is used for Devanagari characters only; Latin text,
+   including IAST, keeps your normal font. The first font found is used:
+   install Noto Serif Devanagari for the nicest result; Windows falls back
+   to Nirmala UI, Android to Noto Sans Devanagari. */
+@font-face {
+  font-family: "Vault Devanagari";
+  src: local("Noto Serif Devanagari"), local("NotoSerifDevanagari-Regular"),
+       local("Sanskrit Text"), local("Sanskrit 2003"),
+       local("Nirmala UI"), local("Noto Sans Devanagari"), local("Mangal");
+  unicode-range: U+0900-097F, U+1CD0-1CFF, U+A8E0-A8FF;
+  size-adjust: 112%;
+}
+body {
+  --font-text-theme: "Vault Devanagari";
+  --font-editor-theme: "Vault Devanagari";
+}
+
+/* ── Callouts ─────────────────────────────────────────────────
+   Use them as > [!type] Title.
+   Changed 12 Oct 2026: source, lexicon, external, mula, viveka, reflection, hermeneutics, torah and philosophy
+   are defined in Callout Studio (Settings → Callout Studio) and were taken out of this file, so each callout has
+   one definition. The callouts below are the ones Callout Studio does not define. */
+.callout[data-callout="xref"]       { --callout-color: 140, 100, 200; --callout-icon: link; }
+.callout[data-callout="commentary"] { --callout-color: 190, 140, 50;  --callout-icon: quote; }
+.callout[data-callout="translation"]{ --callout-color: 68, 120, 200;  --callout-icon: languages; }
+.callout[data-callout="question"]   { --callout-color: 200, 120, 40;  --callout-icon: help-circle; }
+/* Today's date box (the Calendar note), moved here from vault-panels.css, which is off */
+.callout[data-callout="today"]      { --callout-color: 196, 140, 52;  --callout-icon: calendar-days; }
+.block-language-dataviewjs:has(.vp-today) { background: none; border: none; padding: 0; margin: .3em 0 .8em; overflow: visible; }
+.vp-today .callout { overflow-wrap: anywhere; white-space: normal; }
+.vp-today .callout-content p { white-space: normal; }
+.callout[data-callout="mula"] .callout-content,
+.callout[data-callout="viveka"] .callout-content { font-family: var(--font-text); line-height: 1.7; }
+
+/* ── Daily notes and homilies: cssclasses: manuscript ───────── */
+.manuscript h1 {
+  font-variant: small-caps; letter-spacing: .04em; text-align: center; font-weight: 600;
+}
+.markdown-preview-view.manuscript h1::after,
+.markdown-source-view.mod-cm6.manuscript .inline-title::after {
+  content: "❦"; display: block; font-size: .6em; color: var(--text-faint); margin-top: .2em;
+}
+.manuscript h2 {
+  font-variant: small-caps; letter-spacing: .03em; font-weight: 600;
+  border-bottom: 1px solid var(--background-modifier-border); padding-bottom: .15em;
+}
+/* drop cap on the first paragraph of your reflection (reading view) */
+.markdown-preview-view.manuscript div:has(> h2[data-heading="Reflection"]) + div > p::first-letter,
+.markdown-preview-view.manuscript div:has(> h2[data-heading="Draft"]) + div > p::first-letter {
+  float: left; font-size: 3.1em; line-height: .9; padding: .06em .08em 0 0;
+  font-family: Georgia, "Times New Roman", serif; color: var(--text-accent);
+}
+/* the embedded Sanskrit verses: quiet, no frame */
+.manuscript .markdown-embed,
+.lectionary .markdown-embed {
+  border: none; padding: 0 0 0 .6em; margin: .1em 0 .4em;
+  border-left: 2px solid var(--background-modifier-border);
+}
+.manuscript .markdown-embed-link, .manuscript .markdown-embed-title,
+.lectionary .markdown-embed-link, .lectionary .markdown-embed-title { display: none; }
+.lectionary .markdown-embed .markdown-preview-view { padding: 0; }
+
+/* ── Wide pages: cssclasses: wide ──────────────────────────── */
+.wide { --file-line-width: 1400px; }
+
+/* ── Home ──────────────────────────────────────────────────── */
+.home button { margin: .2em .4em .2em 0; }
+/* BIBLICAL & LITURGICAL */
+.callout[data-callout="tanakh"] {
+  --callout-color: 180, 140, 75; /* Antique Gold */
+  --callout-icon: scroll;
+}
+.callout[data-callout="nt"] {
+  --callout-color: 70, 130, 180; /* Steel Blue */
+  --callout-icon: book-open;
+}
+.callout[data-callout="bcp"] {
+  --callout-color: 165, 42, 42; /* Anglican/Rubric Red */
+  --callout-icon: bookmark;
+}
+.callout[data-callout="fathers"] {
+  --callout-color: 139, 0, 0; /* Deep Crimson */
+  --callout-icon: landmark;
+}
+
+/* TRIKA & HINDUISM */
+.callout[data-callout="tantraloka"], .callout[data-callout="trika"] {
+  --callout-color: 215, 85, 50; /* Saffron / Cinnabar */
+  --callout-icon: flame;
+}
+.callout[data-callout="purana"] {
+  --callout-color: 205, 133, 63; /* Peru / Earth */
+  --callout-icon: mountain;
+}
+
+/* JUDAICA */
+.callout[data-callout="zohar"], .callout[data-callout="chasidut"] {
+  --callout-color: 90, 70, 140; /* Deep Indigo */
+  --callout-icon: sparkle;
+}
+
+/* PHILOSOPHY & THEORY */
+.callout[data-callout="stiegler"] {
+  --callout-color: 105, 120, 135; /* Industrial Slate */
+  --callout-icon: cog;
+}
+
+/* SECONDARY SOURCES / OTHER */
+.callout[data-callout="secondary"], .callout[data-callout="scholar"] {
+  --callout-color: 140, 140, 140; /* Neutral Grey */
+  --callout-icon: file-text;
+}

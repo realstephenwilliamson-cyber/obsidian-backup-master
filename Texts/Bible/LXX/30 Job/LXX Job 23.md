@@ -1,0 +1,49 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Job"
+english_book: "Job"
+chapter: 23
+aliases:
+  - "Job 23"
+---
+# LXX Job 23
+
+← [[LXX Job 22]] · [[LXX]] · [[LXX Job 24]] →
+
+*Job · [[LXX]]*
+
+**23:1** Then Job answered and said,  ^23-1
+
+**23:2** Yea, I know that pleading is out of my reach; and his hand has been made heavy upon my groaning.  ^23-2
+
+**23:3** Who would then know that I might find him, and come to an end *of the matter*?  ^23-3
+
+**23:4** And I would plead my own cause, and he would fill my mouth with arguments.  ^23-4
+
+**23:5** And I would know the remedies which he would speak to me, and I would perceive what he would tell me.  ^23-5
+
+**23:6** Though he should come on me in *his* great strength, then he would not threaten me;  ^23-6
+
+**23:7** for truth and reproof are from him; and he would bring forth my judgment to an end.  ^23-7
+
+**23:8** For if I shall go first, and exist no longer, still what do I know *concerning* the latter end?  ^23-8
+
+**23:9** When he wrought on the left hand, then I observed *it* not: his right hand shall encompass me but I shall not see *it*.  ^23-9
+
+**23:10** For he knows already my way; and he has tried me as gold.  ^23-10
+
+**23:11** And I will go forth according to his commandments, for I have kept his ways; and I shall not turn aside from his commandments,  ^23-11
+
+**23:12** neither shall I transgress; but I have hid his words in my bosom.  ^23-12
+
+**23:13** And if too he has thus judged, who is he that has contradicted, for he has both willed *a thing* and done it.  ^23-13
+
+**23:15** Therefore am I troubled at him; and when I was reproved, I thought of him. 15a Therefore let me take good heed before him: I will consider, and be afraid of him.  ^23-15
+
+**23:16** But the Lord has softened my heart, and the Almighty has troubled me.  ^23-16
+
+**23:17** For I knew not that darkness would come upon me, and thick darkness has covered *me* before my face.  ^23-17

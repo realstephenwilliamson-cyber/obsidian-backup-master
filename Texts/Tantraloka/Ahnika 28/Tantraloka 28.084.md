@@ -1,0 +1,41 @@
+---
+type: "text"
+work: "Tantrāloka"
+author: "Abhinavagupta"
+commentary: "Jayaratha, Viveka"
+chapter: 28
+verse: 84
+edition: "Kashmir Series of Texts and Studies (KSTS), as transcribed by Muktabodha (M00093)"
+license: "CC BY-NC 4.0, Muktabodha Indological Research Institute"
+aliases:
+  - "TĀ 28.84"
+  - "TA 28.84"
+  - "Tantrāloka 28.84"
+---
+[[Tantraloka 28.083|← 28.83]] · [[Tantraloka 28 - Parvapavitrakadiprakasana|Āhnika 28]] · [[Tantraloka 28.085|28.85 →]]
+
+## Mūla
+
+तदा तद्गन्धधूपस्रक्समालम्भनवाससा ।
+पूज्यं चक्रानुसारेण तत्तच्चक्रमिदं त्विति ॥ ^mula
+
+tadā tadgandhadhūpasraksamālambhanavāsasā |
+pūjyaṃ cakrānusāreṇa tattaccakramidaṃ tviti || ^iast
+
+## Translation
+
+> [!source] Dyczkowski, vol. X
+> [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 10 (Dyczkowski)/Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#^pg62|p. 45]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 10.pdf#page=62>))
+>
+> The teacher should (sit) in the middle of those (participants). (The first) circle that (surrounds) him is that of the (other) teachers (guruvarga). There are three circles outside (that one, in which the initiates of progressively lower status sit) in due order, (up to) the regular initiates (samayin) at the end. Or else (they may) all (sit) serially in rows (paṅktikrama).' The teacher should always be in the middle. Then, that (the assembly) should be worshipped with perfumes, incense, garlands, ointments (samālambhana) and cloth, in accord with the (sequence of) circles, (reflecting) that each circle is the particular one that it is. (with 28.82cd–84)
+
+## Viveka
+
+> मध्ये गुरुर्भवेत्तेषां गुरुवर्गस्तदावृतिः ॥
+> तिस्र आवृतयो बाह्ये समययन्ता यथाक्रमम् ।
+> पङ्क्तिक्रमेण वा सर्वे मध्ये तेषां गुरुः सदा ॥
+> तदा तद्गन्धधूपस्रक्समालम्भनवाससा ।
+> पूज्यं चक्रानुसारेण तत्तच्चक्रमिदं त्विति ॥
+
+तदावृतिरिति--गुरुवर्गावरणम्--इत्यर्थः । सदेति--आवृतिक्रमे पङ्क्तिक्रमे वा । तत्तच्चक्रमिति--गुरुसाधकादिरूपं पूज्यतया संमतम् ॥८४ ॥
+

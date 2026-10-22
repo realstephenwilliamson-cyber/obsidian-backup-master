@@ -1,0 +1,69 @@
+---
+type: text
+work: "Douay-Rheims Bible"
+book: "James"
+douay_name: "James"
+chapter: 2
+translation: "Douay-Rheims, American edition of 1899"
+license: "Public domain (eBible.org, engDRA)"
+source: "https://ebible.org/find/details.php?id=engDRA"
+---
+# James 2 (Douay-Rheims)
+
+[[DRB James 01|← James 1]] · [[Douay-Rheims|index]] · [[DRB James 03|James 3 →]]
+
+Compare: [[James 02|BSB and SBLGNT]]
+
+**2:1** My brethren, have not the faith of our Lord Jesus Christ of glory with respect of persons. ^2-1
+
+**2:2** For if there shall come into your assembly a man having a golden ring, in fine apparel, and there shall come in also a poor man in mean attire, ^2-2
+
+**2:3** And you have respect to him that is clothed with the fine apparel, and shall say to him: Sit thou here well; but say to the poor man: Stand thou there, or sit under my footstool: ^2-3
+
+**2:4** Do you not judge within yourselves, and are become judges of unjust thoughts? ^2-4
+
+**2:5** Hearken, my dearest brethren: hath not God chosen the poor in this world, rich in faith, and heirs of the kingdom which God hath promised to them that love him? ^2-5
+
+**2:6** But you have dishonoured the poor man. Do not the rich oppress you by might? and do not they draw you before the judgment seats? ^2-6
+
+**2:7** Do not they blaspheme the good name that is invoked upon you? ^2-7
+
+**2:8** If then you fulfill the royal law, according to the scriptures, Thou shalt love thy neighbour as thyself; you do well. ^2-8
+
+**2:9** But if you have respect to persons, you commit sin, being reproved by the law as transgressors. ^2-9
+
+**2:10** And whosoever shall keep the whole law, but offend in one point, is become guilty of all. ^2-10
+
+**2:11** For he that said, Thou shalt not commit adultery, said also, Thou shalt not kill. Now if thou do not commit adultery, but shalt kill, thou art become a transgressor of the law. ^2-11
+
+**2:12** So speak ye, and so do, as being to be judged by the law of liberty. ^2-12
+
+**2:13** For judgment without mercy to him that hath not done mercy. And mercy exalteth itself above judgment. ^2-13
+
+**2:14** What shall it profit, my brethren, if a man say he hath faith, but hath not works? Shall faith be able to save him? ^2-14
+
+**2:15** And if a brother or sister be naked, and want daily food: ^2-15
+
+**2:16** And one of you say to them: Go in peace, be ye warmed and filled; yet give them not those things that are necessary for the body, what shall it profit? ^2-16
+
+**2:17** So faith also, if it have not works, is dead in itself. ^2-17
+
+**2:18** But some man will say: Thou hast faith, and I have works: shew me thy faith without works; and I will shew thee, by works, my faith. ^2-18
+
+**2:19** Thou believest that there is one God. Thou dost well: the devils also believe and tremble. ^2-19
+
+**2:20** But wilt thou know, O vain man, that faith without works is dead? ^2-20
+
+**2:21** Was not Abraham our father justified by works, offering up Isaac his son upon the altar? ^2-21
+
+**2:22** Seest thou, that faith did co-operate with his works; and by works faith was made perfect? ^2-22
+
+**2:23** And the scripture was fulfilled, saying: Abraham believed God, and it was reputed to him to justice, and he was called the friend of God. ^2-23
+
+**2:24** Do you see that by works a man is justified; and not by faith only? ^2-24
+
+**2:25** And in like manner also Rahab the harlot, was not she justified by works, receiving the messengers, and sending them out another way? ^2-25
+
+**2:26** For even as the body without the spirit is dead; so also faith without works is dead. ^2-26
+
+[[DRB James 01|← James 1]] · [[Douay-Rheims|index]] · [[DRB James 03|James 3 →]]

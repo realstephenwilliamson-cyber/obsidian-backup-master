@@ -1,0 +1,47 @@
+/* Synoptic parallels (Templates/Views/synoptic): the passages of one pericope, one column per gospel.
+   Dataview adds this file to the page with view.js. Phase 7, 13 Oct 2026. */
+.sy-wrap { container: sy / inline-size; margin: .5em 0 1em; }
+
+/* The controls: pericope, translation, Greek */
+.sy-bar { display: flex; flex-wrap: wrap; align-items: center; gap: .5em .8em; margin-bottom: .5em; }
+.sy-select { flex: 1 1 20em; min-width: 0; max-width: 100%; }
+.sy-switch { display: inline-flex; border: 1px solid var(--background-modifier-border); border-radius: var(--radius-s, 4px); overflow: hidden; }
+.sy-switch button { border: none; border-radius: 0; box-shadow: none; background: transparent; padding: .25em .75em;
+  font-size: var(--font-ui-small, .85em); color: var(--text-muted); cursor: pointer; }
+.sy-switch button + button { border-left: 1px solid var(--background-modifier-border); }
+.sy-switch button.sy-on { background: var(--interactive-accent); color: var(--text-on-accent); }
+.sy-greek-switch { font-size: var(--font-ui-small, .85em); color: var(--text-muted); white-space: nowrap; cursor: pointer; }
+
+/* Where the row comes from; links to its sections or to the row it is part of */
+.sy-info { font-size: .8em; color: var(--text-muted); margin: .15em 0; }
+.sy-info p { display: inline; margin: 0; }
+.sy-goto { font-size: 1em; padding: 0 .45em; margin: 0 .15em .15em 0; height: auto; box-shadow: none; cursor: pointer; }
+.sy-notice { font-size: .8em; color: var(--text-muted); font-style: italic; margin: .2em 0 .4em; }
+.sy-warn { font-size: .85em; color: var(--text-error); margin: .2em 0 .4em; }
+
+/* The columns */
+.sy-grid { display: grid; grid-template-columns: repeat(var(--sy-cols, 3), minmax(0, 1fr)); column-gap: 1.4em; margin-top: .7em; }
+.sy-head { border-bottom: 1px solid var(--background-modifier-border); padding-bottom: .25em; margin-bottom: .5em; }
+.sy-gospel { font-weight: 600; }
+.sy-ref { font-size: .8em; color: var(--text-muted); }
+.sy-part + .sy-part { margin-top: .9em; }
+.sy-part-head { font-size: .75em; font-weight: 600; color: var(--text-muted); letter-spacing: .02em; margin-bottom: .3em; }
+.sy-partial .sy-part-head { font-style: italic; }
+.sy-heading { font-size: .78em; font-style: italic; color: var(--text-muted); margin: .6em 0 .2em; }
+.sy-verse { margin: 0 0 .4em; line-height: 1.5; }
+.sy-verse p { display: inline; margin: 0; }
+.sy-num { font-size: .72em; font-weight: 600; color: var(--text-faint); white-space: nowrap; }
+.sy-num a.internal-link { color: var(--text-faint); text-decoration: none; }
+.sy-num a.internal-link:hover { color: var(--text-accent); }
+.sy-missing .sy-text { color: var(--text-faint); }
+.sy-fn { font-size: .7em; color: var(--text-accent); cursor: help; padding: 0 .1em; }
+.sy-fn-text { font-size: .8em; color: var(--text-muted); }
+.sy-greek { color: var(--text-muted); margin-top: .1em; }
+
+/* Narrow (the plugin's 480 px breakpoint, measured on this block, not the screen): the gospels under one another,
+   each still headed by its name and reference. */
+@container sy (max-width: 480px) {
+  .sy-grid { grid-template-columns: 1fr; }
+  .sy-col + .sy-col { margin-top: 1.1em; padding-top: .4em; border-top: 2px solid var(--background-modifier-border); }
+  .sy-select { flex-basis: 100%; }
+}

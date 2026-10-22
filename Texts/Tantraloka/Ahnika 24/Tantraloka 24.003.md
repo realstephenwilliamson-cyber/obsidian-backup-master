@@ -1,0 +1,40 @@
+---
+type: "text"
+work: "Tantrāloka"
+author: "Abhinavagupta"
+commentary: "Jayaratha, Viveka"
+chapter: 24
+verse: 3
+edition: "Kashmir Series of Texts and Studies (KSTS), as transcribed by Muktabodha (M00093)"
+license: "CC BY-NC 4.0, Muktabodha Indological Research Institute"
+aliases:
+  - "TĀ 24.3"
+  - "TA 24.3"
+  - "Tantrāloka 24.3"
+---
+[[Tantraloka 24.002|← 24.2]] · [[Tantraloka 24 - Antyestiprakasana|Āhnika 24]] · [[Tantraloka 24.004|24.4 →]]
+
+## Mūla
+
+ऊर्ध्वशासनगानां च समयोपहतात्मनाम् ।
+अन्त्येष्टिदीक्षा कर्तव्या गुरुणा तत्त्ववेदिना ॥ ^mula
+
+ūrdhvaśāsanagānāṃ ca samayopahatātmanām |
+antyeṣṭidīkṣā kartavyā guruṇā tattvavedinā || ^iast
+
+## Translation
+
+> [!source] Dyczkowski, vol. IX
+> [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)/Tantraloka Dyczkowski v09 15 - Chapter Twenty-Four#^pg362|p. 342]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf#page=362>))
+>
+> The teacher who knows (the true nature of) reality (and the correct procedure) may perform the initiation (given in the course of a) funerary rite to the followers of inferior (traditions, beginning with those who are disciples,) right up to (their) teachers, (but only) because (they have) clearly (received) a descent of the power (of grace) mentioned above. He must impart it to those who adhere to superior doctrines (śāsana) but have transgressed the rules (and failed to perform the required reparatory rites). (with 24.2–3)
+
+## Viveka
+
+> सर्वेषामधरस्थानां गुर्वन्तानामपि स्फुटम् ।
+> शक्तिपातात्पुराप्रोक्तात्कुर्यादन्त्येष्टिदीक्षणम् ॥
+> ऊर्ध्वशासनगानां च समयोपहतात्मनाम् ।
+> अन्त्येष्टिदीक्षा कर्तव्या गुरुणा तत्त्ववेदिना ॥
+
+अधरस्थानामिति--वैष्णवादीनाम् । शक्तिपातादिति-- बन्ध्वादिगाढाभ्यर्थनाद्वारकात् । पुरेति--मृतोद्धारदीक्षायाम् । ऊर्ध्वशासनगानामिति--शैवादीनाम् ॥३ ॥
+

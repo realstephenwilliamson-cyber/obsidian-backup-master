@@ -1,0 +1,73 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Deuteronomy"
+english_book: "Deuteronomy"
+chapter: 23
+aliases:
+  - "Deuteronomy 23"
+---
+# LXX Deuteronomy 23
+
+← [[LXX Deuteronomy 22]] · [[LXX]] · [[LXX Deuteronomy 24]] →
+
+*Deuteronomy · [[LXX]]*
+
+**23:1** A man shall not take his father's wife, and shall not uncover his father's skirt.  ^23-1
+
+**23:2** He that is fractured or mutilated in his private parts shall not enter into the assembly of the Lord.  ^23-2
+
+**23:3** *One born* of a harlot shall not enter into the assembly of the Lord.  ^23-3
+
+**23:4** The Ammanite and Moabite shall not enter into the assembly of the Lord, even until the tenth generation he shall not enter into the assembly of the Lord, even for ever:  ^23-4
+
+**23:5** because they met you not with bread and water by the way, when ye went out of Egypt; and because they hired against thee Balaam the son of Beor of Mesopotamia to curse thee.  ^23-5
+
+**23:6** But the Lord thy God would not hearken to Balaam; and the Lord thy God changed the curses into blessings, because the Lord thy God loved thee.  ^23-6
+
+**23:7** Thou shalt not speak peaceably or profitably to them all thy days for ever.  ^23-7
+
+**23:8** Thou shalt not abhor an Edomite, because he is thy brother; thou shalt not abhor an Egyptian, because thou wast a stranger in his land.  ^23-8
+
+**23:9** If sons be born to them, in the third generation they shall enter into the assembly of the Lord.  ^23-9
+
+**23:10** And if thou shouldest go forth to engage with thine enemies, then thou shalt keep thee from every wicked thing.  ^23-10
+
+**23:11** If there should be in thee a man who is not clean by reason of his issue by night, then he shall go forth out of the camp, and he shall not enter into the camp.  ^23-11
+
+**23:12** And it shall come to pass toward evening he shall wash his body with water, and when the sun has gone down, he shall go into the camp.  ^23-12
+
+**23:13** And thou shalt have a place outside of the camp, and thou shalt go out thither,  ^23-13
+
+**23:14** and thou shalt have a trowel on thy girdle; and it shall come to pass when thou wouldest relieve thyself abroad, that thou shalt dig with it, and shalt bring back the earth and cover thy nuisance.  ^23-14
+
+**23:15** Because the Lord thy God walks in thy camp to deliver thee, and to give up thine enemy before thy face; and thy camp shall be holy, and there shall not appear in thee a disgraceful thing, and *so* he shall turn away from thee.[^1]  ^23-15
+
+**23:16** Thou shalt not deliver a servant to his master, who *coming* from his master attaches himself to thee.  ^23-16
+
+**23:17** He shall dwell with thee, he shall dwell among you where he shall please; thou shalt not afflict him.  ^23-17
+
+**23:18** There shall not be a harlot of the daughters of Israel, and there shall not be a fornicator of the sons of Israel; there shall not be an idolatress of the daughters of Israel, and there shall not be an initiated person of the sons of Israel.[^2][^3]  ^23-18
+
+**23:19** Thou shalt not bring the hire of a harlot, nor the price of a dog into the house of the Lord thy God, for any vow; because even both are an abomination to the Lord thy God.  ^23-19
+
+**23:20** Thou shalt not lend to thy brother on usury of silver, or usury of meat, or usury of any thing which thou mayest lend out.  ^23-20
+
+**23:21** Thou mayest lend on usury to a stranger, but to thy brother thou shalt not lend on usury; that the Lord thy God may bless thee in all thy works upon the land, into which thou art entering to inherit it.  ^23-21
+
+**23:22** And if thou wilt vow a vow to the Lord thy God, thou shalt not delay to pay it; for the Lord thy God will surely require it of thee, and *otherwise* it shall be sin in thee.  ^23-22
+
+**23:23** But if thou shouldest be unwilling to vow, it is not sin in thee.  ^23-23
+
+**23:24** Thou shalt observe the words that proceed from between thy lips; and as thou hast vowed a gift to the Lord God, *so* shalt thou do that which thou hast spoken with thy mouth.  ^23-24
+
+**23:25** And if thou shouldest go into the corn field of thy neighbour, then thou mayest gather the ears with thy hands; but thou shalt not put the sickle to thy neighbour's corn.  ^23-25
+
+**23:26** And if thou shouldest go into the vineyard of thy neighbour, thou shalt eat grapes sufficient to satisfy thy desire; but thou mayest not put them into a vessel.  ^23-26
+
+[^1]: 23:15 *i. e.* would if thou wert disobedient.
+[^2]: 23:18 *Or,* sodomitess or harlot.
+[^3]: 23:18 *Or,* sodomite.

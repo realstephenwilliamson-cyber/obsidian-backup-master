@@ -1,0 +1,55 @@
+---
+type: text
+work: "Douay-Rheims Bible"
+book: "Judith"
+douay_name: "Judith"
+chapter: 12
+translation: "Douay-Rheims, American edition of 1899"
+license: "Public domain (eBible.org, engDRA)"
+source: "https://ebible.org/find/details.php?id=engDRA"
+---
+# Judith 12 (Douay-Rheims)
+
+[[DRB Judith 11|← Judith 11]] · [[Douay-Rheims|index]] · [[DRB Judith 13|Judith 13 →]]
+
+**12:1** Then he ordered that she should go in where his treasures were laid up, and bade her tarry there, and he appointed what should be given her from his own table. ^12-1
+
+**12:2** And Judith answered him and said: Now I cannot eat of these things which thou commandest to be given me, lest sin come upon me: but I will eat of the things which I have brought. ^12-2
+
+**12:3** And Holofernes said to her: If these things which thou hast brought with thee fail thee, what shall we do for thee? ^12-3
+
+**12:4** And Judith said: As thy soul liveth, my lord, thy handmaid shall not spend all these things till God do by my hand that which I have purposed. And his servants brought her into the tent which he had commanded. ^12-4
+
+**12:5** And when she was going in, she desired that she might have liberty to go out at night and before day to prayer, and to beseech the Lord. ^12-5
+
+**12:6** And he commanded his chamberlains, that she might go out and in, to adore her God as she pleased, for three days. ^12-6
+
+**12:7** And she went out in the nights into the valley of Bethulia, and washed herself in a fountain of water. ^12-7
+
+**12:8** And as she came up, she prayed to the Lord the God of Israel, that he would direct her way to the deliverance of his people. ^12-8
+
+**12:9** And going in, she remained pure in the tent, until she took her own meat in the evening. ^12-9
+
+**12:10** And it came to pass on the fourth day, that Holofernes made a supper for his servants, and said to Vagao his eunuch: Go, and persuade that Hebrew woman, to consent of her own accord to dwell with me. ^12-10
+
+**12:11** For it is looked upon as shameful among the Assyrians, if a woman mock a man, by doing so as to pass free from him. ^12-11
+
+**12:12** Then Vagao went in to Judith, and said: Let not my good maid be afraid to go in to my lord, that she may be honoured before his face, that she may eat with him and drink wine and be merry. ^12-12
+
+**12:13** And Judith answered him: Who am I, that I should gainsay my lord? ^12-13
+
+**12:14** All that shall be good and best before his eyes, I will do. And whatsoever shall please him, that shall be best to me all the days of my life. ^12-14
+
+**12:15** And she arose and dressed herself out with her garments, and going in she stood before his face. ^12-15
+
+**12:16** And the heart of Holofernes was smitten, for he was burning with the desire of her. ^12-16
+
+**12:17** And Holofernes said to her: Drink now, and sit down and be merry for thou hast found favour before me. ^12-17
+
+**12:18** And Judith said: I will drink my lord, because my life is magnified this day above all my days. ^12-18
+
+**12:19** And she took and ate and drank before him what her maid had prepared for her. ^12-19
+
+**12:20** And Holofernes was made merry on her occasion, and drank exceeding much wine, so much as he had never drunk in his life. ^12-20
+
+[[DRB Judith 11|← Judith 11]] · [[Douay-Rheims|index]] · [[DRB Judith 13|Judith 13 →]]

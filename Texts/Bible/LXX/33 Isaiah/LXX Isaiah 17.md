@@ -1,0 +1,48 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Isaiah"
+english_book: "Isaiah"
+chapter: 17
+aliases:
+  - "Isaiah 17"
+---
+# LXX Isaiah 17
+
+← [[LXX Isaiah 16]] · [[LXX]] · [[LXX Isaiah 18]] →
+
+*Isaiah · [[LXX]]*
+
+**17:1** THE WORD AGAINST DAMASCUS. Behold, Damascus shall be taken away from among cities, and shall become a ruin;  ^17-1
+
+**17:2** abandoned for ever, to *be* a fold and resting-place for flocks, and there shall be none to go after them.  ^17-2
+
+**17:3** And she shall no longer be a strong place for Ephraim to flee to, and there shall no longer be a kingdom in Damascus, or a remnant of Syrians; for thou art no better than the children of Israel, *even* than their glory; thus saith the Lord of hosts.  ^17-3
+
+**17:4** There shall be in that day a failure of the glory of Jacob, and the riches of his glory shall be shaken.  ^17-4
+
+**17:5** And it shall be as if one should gather standing corn, and reap the grain of the ears; and it shall be as if one should gather ears in a rich valley;  ^17-5
+
+**17:6** and *as if* there should be left stubble therein, or *as it were* the berries of an olive tree, two or three on the topmost bough, or *as if* four or five should be left on their branches; thus saith the Lord, the God of Israel.  ^17-6
+
+**17:7** In that day a man shall trust in him that made him, and his eyes shall have respect to the Holy One of Israel.  ^17-7
+
+**17:8** And they shall not at all trust in their altars, nor in the works of their hands, which their fingers made; and they shall not look to the trees, nor to their abominations.  ^17-8
+
+**17:9** In that day thy cities shall be deserted, as the Amorites and the Evæans deserted *theirs*, because of the children of Israel; and they shall be desolate.  ^17-9
+
+**17:10** Because thou hast forsaken God thy Saviour, and hast not been mindful of the Lord thy helper; therefore shalt thou plant a false plant, and a false seed.[^1]  ^17-10
+
+**17:11** In the day wherein thou shalt plant thou shalt be deceived; but if thou sow in the morning, *the seed* shall spring up for a crop in the day wherein thou shalt obtain an inheritance, and as a man's father, thou shalt obtain an inheritance for thy sons.  ^17-11
+
+**17:12** Woe *to* the multitude of many nations, as the swelling sea, so shall ye be confounded; and the force of many nations shall sound like water;[^2]  ^17-12
+
+**17:13** many nations like much water, as when much water rushes violently: and they shall drive him away, and pursue him afar, as the dust of chaff when men winnow before the wind, and as a storm whirling the dust of the wheel.  ^17-13
+
+**17:14** Toward evening, and there shall be grief; before the morning, and he shall not be. This is the portion of them that spoiled you, and the inheritance to them that robbed you of your inheritance.  ^17-14
+
+[^1]: 17:10 *Gr.* faithless.
+[^2]: 17:12 *Gr.* back; Complut. reads ἠχος, ‘noise’.

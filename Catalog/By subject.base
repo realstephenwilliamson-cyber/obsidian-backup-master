@@ -1,0 +1,24 @@
+filters:
+  and:
+    - file.folder.startsWith("Catalog/")
+    - type != "index"
+    - file.folder != "Catalog/Scholars"
+views:
+  - type: table
+    name: By subject
+    groupBy:
+      property: subject
+      direction: ASC
+    order:
+      - file.name
+      - subject
+      - type
+      - status
+    sort:
+      - property: subject
+        direction: ASC
+      - property: title
+        direction: ASC
+    columnSize:
+      note.title: 421
+      note.subject: 145

@@ -1,0 +1,39 @@
+---
+type: text
+work: "Douay-Rheims Bible"
+book: "Ezra"
+douay_name: "1 Esdras"
+chapter: 1
+translation: "Douay-Rheims, American edition of 1899"
+license: "Public domain (eBible.org, engDRA)"
+source: "https://ebible.org/find/details.php?id=engDRA"
+---
+# Ezra 1 (Douay-Rheims)
+
+*1 Esdras 1 in the Douay-Rheims*
+
+— · [[Douay-Rheims|index]] · [[DRB Ezra 02|Ezra 2 →]]
+
+**1:1** In the first year of Cyrus king of the Persians, that the word of the Lord by the mouth of Jeremias might be fulfilled, the Lord stirred up the spirit of Cyrus king of the Persians: and he made a proclamation throughout all his kingdom, and in writing also, saying: ^1-1
+
+**1:2** Thus saith Cyrus king of the Persians: The Lord the God of heaven hath given to me all the kingdoms of the earth, and he hath charged me to build him a house in Jerusalem, which is in Judea. ^1-2
+
+**1:3** Who is there among you of all his people? His God be with him. Let him go up to Jerusalem, which is in Judea, and build the house of the Lord the God of Israel: he is the God that is in Jerusalem. ^1-3
+
+**1:4** And let all the rest in all places wheresoever they dwell, help him every man from his place. with silver and gold, and goods, and cattle, besides that which they offer freely to the temple of God, which is in Jerusalem. ^1-4
+
+**1:5** Then rose up the chief of the fathers of Juda and Benjamin, and the priests, and Levites, and every one whose spirit God had raised up, to go up to build the temple of the Lord, which was in Jerusalem. ^1-5
+
+**1:6** And all they that were round about, helped their hands with vessels of silver, and gold, with goods, and with beasts, and with furniture, besides what they had offered on their own accord. ^1-6
+
+**1:7** And king Cyrus brought forth the vessels of the temple of the Lord, which Nabuchodonosor had taken from Jerusalem, and had put them in the temple of his god. ^1-7
+
+**1:8** Now Cyrus king of Persia brought them forth by the hand of Mithridates the son of Gazabar, and numbered them to Sassabasar the prince of Juda. ^1-8
+
+**1:9** And this is the number of them: thirty bowls of gold, a thousand bowls of silver, nine and twenty knives, thirty cups of gold, ^1-9
+
+**1:10** Silver cups of a second sort, four hundred and ten: other vessels a thousand. ^1-10
+
+**1:11** All the vessels of gold and silver, five thousand four hundred: all these Sassabasar brought with them that came up from the captivity of Babylon to Jerusalem. ^1-11
+
+— · [[Douay-Rheims|index]] · [[DRB Ezra 02|Ezra 2 →]]

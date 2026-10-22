@@ -1,0 +1,36 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Psalms"
+english_book: "Psalms"
+chapter: 86
+aliases:
+  - "Psalms 86"
+  - "Psalm 87 (Hebrew)"
+---
+# LXX Psalms 86
+
+← [[LXX Psalms 85]] · [[LXX]] · [[LXX Psalms 87]] →
+
+*Psalms · [[LXX]]*
+
+Hebrew numbering (JPS): [[Psalms 087]] · Prayer Book (1979): [[BCP Psalm 087]] · [[Psalms numbering]]
+
+**86:1** A Psalm of a Song for the sons of Core. His foundations are in the holy mountains.  ^86-1
+
+**86:2** The Lord loves the gates of Sion, more than all the tabernacles of Jacob.  ^86-2
+
+**86:3** Glorious things have been spoken of thee, O city of God. Pause.  ^86-3
+
+**86:4** I will make mention of Raab and Babylon to them that know me: behold also the Philistines, and Tyre, and the people of the Ethiopians: these were born there.  ^86-4
+
+**86:5** A man shall say, Sion *is my* mother; and *such* a man was born in her; and the Highest himself has founded her.  ^86-5
+
+**86:6** The Lord shall recount *it* in the writing of the people, and of these princes that were born in her. Pause.[^1]  ^86-6
+
+**86:7** The dwelling of all within thee is as *the dwelling* of those that rejoice.  ^86-7
+
+[^1]: 86:6 *Gr.* have been in her.

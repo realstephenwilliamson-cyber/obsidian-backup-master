@@ -1,0 +1,65 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Genesis"
+english_book: "Genesis"
+chapter: 8
+aliases:
+  - "Genesis 8"
+---
+# LXX Genesis 08
+
+← [[LXX Genesis 07]] · [[LXX]] · [[LXX Genesis 09]] →
+
+*Genesis · [[LXX]]*
+
+**8:1** And God remembered Noe, and all the wild beasts, and all the cattle, and all the birds, and all the reptiles that creep, as many as were with him in the ark, and God brought a wind upon the earth, and the water stayed.  ^8-1
+
+**8:2** And the fountains of the deep were closed up, and the flood-gates of heaven, and the rain from heaven was withheld.  ^8-2
+
+**8:3** And the water subsided, and went off the earth, and after an hundred and fifty days the water was diminished, and the ark rested in the seventh month, on the twenty-seventh day of the month, on the mountains of Ararat.  ^8-3
+
+**8:4** And the water continued to decrease until the tenth month.  ^8-4
+
+**8:5** And in the tenth month, on the first day of the month, the heads of the mountains were seen.  ^8-5
+
+**8:6** And it came to pass after forty days Noe opened the window of the ark which he had made.  ^8-6
+
+**8:7** And he sent forth a raven; and it went forth and returned not until the water was dried from off the earth.[^1][^2]  ^8-7
+
+**8:8** And he sent a dove after it to see if the water had ceased from off the earth.[^3]  ^8-8
+
+**8:9** And the dove not having found rest for her feet, returned to him into the ark, because the water was on all the face of the earth, and he stretched out his hand and took her, and brought her to himself into the ark.  ^8-9
+
+**8:10** And having waited yet seven other days, he again sent forth the dove from the ark.  ^8-10
+
+**8:11** And the dove returned to him in the evening, and had a leaf of olive, a sprig in her mouth; and Noe knew that the water had ceased from off the earth.  ^8-11
+
+**8:12** And having waited yet seven other days, he again sent forth the dove, and she did not return to him again any more.  ^8-12
+
+**8:13** And it came to pass in the six hundred and first year of the life of Noe, in the first month, on the first day of the month, the water subsided from off the earth, and Noe opened the covering of the ark which he had made, and he saw that the water had subsided from the face of the earth.  ^8-13
+
+**8:14** And in the second month the earth was dried, on the twenty-seventh day of the month.  ^8-14
+
+**8:15** And the Lord God spoke to Noe, saying,  ^8-15
+
+**8:16** Come out from the ark, thou and thy wife and thy sons, and thy sons' wives with thee.  ^8-16
+
+**8:17** And all the wild beasts as many as are with thee, and all flesh both of birds and beasts, and every reptile moving upon the earth, bring forth with thee: and increase ye and multiply upon the earth.  ^8-17
+
+**8:18** And Noe came forth, and his wife and his sons, and his sons' wives with him.  ^8-18
+
+**8:19** And all the wild beasts and all the cattle and every bird, and every reptile creeping upon the earth after their kind, came forth out of the ark.  ^8-19
+
+**8:20** And Noe built an altar to the Lord, and took of all clean beasts, and of all clean birds, and offered a whole burnt-offering upon the altar.  ^8-20
+
+**8:21** And the Lord God smelled a smell of sweetness, and the Lord God having considered, said, I will not any more curse the earth, because of the works of men, because the imagination of man is intently bent upon evil things from his youth, I will not therefore any more smite all living flesh as I have done.  ^8-21
+
+**8:22** All the days of the earth, seed and harvest, cold and heat, summer and spring, shall not cease by day or night.  ^8-22
+
+[^1]: 8:7 *Gr.* the raven.
+[^2]: 8:7 *Alex.*+ to see if the water had ceased.
+[^3]: 8:8 *Gr.* the dove.

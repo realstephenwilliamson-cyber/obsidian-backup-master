@@ -1,0 +1,59 @@
+---
+type: text
+work: "Douay-Rheims Bible"
+book: "Tobit"
+douay_name: "Tobias"
+chapter: 11
+translation: "Douay-Rheims, American edition of 1899"
+license: "Public domain (eBible.org, engDRA)"
+source: "https://ebible.org/find/details.php?id=engDRA"
+---
+# Tobit 11 (Douay-Rheims)
+
+*Tobias 11 in the Douay-Rheims*
+
+[[DRB Tobit 10|← Tobit 10]] · [[Douay-Rheims|index]] · [[DRB Tobit 12|Tobit 12 →]]
+
+**11:1** And as they were returning they came to Charan, which is in the midway to Ninive, the eleventh day. ^11-1
+
+**11:2** And the angel said: Brother Tobias, thou knowest how thou didst leave thy father. ^11-2
+
+**11:3** If it please thee therefore, let us go before, and let the family follow softly after us, together with thy wife, and with the beasts. ^11-3
+
+**11:4** And as this their going pleased him, Raphael said to Tobias: Take with thee of the gall of the fish, for it will be necessary. So Tobias took some of that gall and departed. ^11-4
+
+**11:5** But Anna sat beside the way daily, on the top of a hill, from whence she might see afar off. ^11-5
+
+**11:6** And while she watched his coming from that place, she saw him afar off, and presently perceived it was her son coming: and returning she told her husband, saying: Behold thy son cometh. ^11-6
+
+**11:7** And Raphael said to Tobias: As soon as thou shalt come into thy house, forthwith adore the Lord thy God: and giving thanks to him, go to thy father, and kiss him. ^11-7
+
+**11:8** And immediately anoint his eyes with this gall of the fish, which thou carriest with thee. For be assured that his eyes shall be presently opened, and thy father shall see the light of heaven, and shall rejoice in the sight of thee. ^11-8
+
+**11:9** Then the dog, which had been with them in the way, ran before, and coming as if he had brought the news, shewed his joy by his fawning and wagging his tail. ^11-9
+
+**11:10** And his father that was blind, rising up, began to run stumbling with his feet: and giving a servant his hand, went to meet his son. ^11-10
+
+**11:11** And receiving him kissed him, as did also his wife, and they began to weep for joy. ^11-11
+
+**11:12** And when they had adored God, and given him thanks, they sat down together. ^11-12
+
+**11:13** Then Tobias taking of the gall of the fish, anointed his father’s eyes. ^11-13
+
+**11:14** And he stayed about half an hour: and a white skin began to come out of his eyes, like the skin of an egg. ^11-14
+
+**11:15** And Tobias took hold of it, and drew it from his eyes, and immediately he recovered his sight. ^11-15
+
+**11:16** And they glorified God, both he and his wife and all that knew them. ^11-16
+
+**11:17** And Tobias said: I bless thee, O Lord God of Israel, because thou hast chastised me, and thou hast saved me: and behold I see Tobias my son. ^11-17
+
+**11:18** And after seven days Sara his son’s wife, and all the family arrived safe, and the cattle, and the camels, and an abundance of money of his wife’s: and that money also which he had received of Gabelus: ^11-18
+
+**11:19** And he told his parents all the benefits of God, which he had done to him by the man that conducted him. ^11-19
+
+**11:20** And Achior and Nabath the kinsmen of Tobias came, rejoicing for Tobias, and congratulating with him for all the good things that God had done for him. ^11-20
+
+**11:21** And for seven days they feasted and rejoiced all with great joy. ^11-21
+
+[[DRB Tobit 10|← Tobit 10]] · [[Douay-Rheims|index]] · [[DRB Tobit 12|Tobit 12 →]]

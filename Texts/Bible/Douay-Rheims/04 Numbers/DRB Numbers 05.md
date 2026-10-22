@@ -1,0 +1,77 @@
+---
+type: text
+work: "Douay-Rheims Bible"
+book: "Numbers"
+douay_name: "Numbers"
+chapter: 5
+translation: "Douay-Rheims, American edition of 1899"
+license: "Public domain (eBible.org, engDRA)"
+source: "https://ebible.org/find/details.php?id=engDRA"
+---
+# Numbers 5 (Douay-Rheims)
+
+[[DRB Numbers 04|← Numbers 4]] · [[Douay-Rheims|index]] · [[DRB Numbers 06|Numbers 6 →]]
+
+**5:1** And the Lord spoke to Moses, saying: ^5-1
+
+**5:2** Command the children of Israel, that they cast out of the camp every leper, and whosoever hath an issue of seed, or is defiled by the dead: ^5-2
+
+**5:3** Whether it be man or woman, cast ye them out of the camp, lest they defile it when I shall dwell with you. ^5-3
+
+**5:4** And the children of Israel did so, and they cast them forth without the camp, as the Lord had spoken to Moses. ^5-4
+
+**5:5** And the Lord spoke to Moses, saying: ^5-5
+
+**5:6** Say to the children of Israel: When a man or woman shall have committed any of all the sins that men are wont to commit, and by negligence shall have transgressed the commandment of the Lord, and offended, ^5-6
+
+**5:7** They shall confess their sin, and restore the principal itself, and the fifth part over and above, to him against whom they have sinned. ^5-7
+
+**5:8** But if there be no one to receive it, they shall give it to the Lord, and it shall be the priest’s, besides the ram that is offered for expiation, to be an atoning sacrifice. ^5-8
+
+**5:9** All the firstfruits also, which the children of Israel offer, belong to the priest: ^5-9
+
+**5:10** And whatsoever is offered into the sanctuary by every one, and is delivered into the hands of the priest, it shall be his. ^5-10
+
+**5:11** And the Lord spoke to Moses, saying: ^5-11
+
+**5:12** Speak to the children of Israel, and thou shalt say to them: The man whose wife shall have gone astray, and contemning her husband, ^5-12
+
+**5:13** Shall have slept with another man, and her husband cannot discover it, but the adultery is secret, and cannot be proved by witnesses, because she was not found in the adultery: ^5-13
+
+**5:14** If the spirit of jealousy stir up the husband against his wife, who either is defiled, or is charged with false suspicion, ^5-14
+
+**5:15** He shall bring her to the priest, and shall offer an oblation for her, the tenth part of a measure of barley meal: he shall not pour oil thereon, nor put frankincense upon it: because it is a sacrifice of jealousy, and an oblation searching out adultery. ^5-15
+
+**5:16** The priest therefore shall offer it, and set it before the Lord. ^5-16
+
+**5:17** And he shall take holy water in an earthen vessel, and he shall cast a little earth of the pavement of the tabernacle into it. ^5-17
+
+**5:18** And when the woman shall stand before the Lord, he shall uncover her head, and shall, put on her hands the sacrifice of remembrance, and the oblation of jealousy: and he himself shall hold the most bitter waters, whereon he hath heaped curses with execration. ^5-18
+
+**5:19** And he shall adjure her, and shall say: If another man hath not slept with thee, and if thou be not defiled by forsaking thy husband’s bed, these most bitter waters, on which I have heaped curses, shall not hurt thee. ^5-19
+
+**5:20** But if thou hast gone aside from thy husband, and art defiled, and hast lain with another man: ^5-20
+
+**5:21** These curses shall light upon thee: The Lord make thee a curse, and an example for all among his people: may he make thy thigh to rot, and may thy belly swell and burst asunder. ^5-21
+
+**5:22** Let the cursed waters enter into thy belly, and may thy womb swell and thy thigh rot. And the woman shall answer, Amen, amen. ^5-22
+
+**5:23** And the priest shall write these curses in a book, and shall wash them out with the most bitter waters, upon which he hath heaped the curses, ^5-23
+
+**5:24** And he shall give them her to drink. And when she hath drunk them up, ^5-24
+
+**5:25** The priest shall take from her hand the sacrifice of jealousy, and shall elevate it before the Lord, and shall put it upon the altar: yet so as first, ^5-25
+
+**5:26** To take a handful of the sacrifice of that which is offered, and burn it upon the altar: and so give the most bitter waters to the woman to drink. ^5-26
+
+**5:27** And when she hath drunk them, if she be defiled, and having despised her husband be guilty of adultery, the malediction shall go through her, and her belly swelling, her thigh shall rot: and the woman shall be a curse, and an example to all the people. ^5-27
+
+**5:28** But if she be not defiled, she shall not be hurt, and shall bear children. ^5-28
+
+**5:29** This is the law of jealousy. If a woman hath gone aside from her husband, and be defiled, ^5-29
+
+**5:30** And the husband stirred up by the spirit of jealousy bring her before the Lord, and the priest do to her according to all things that are here written: ^5-30
+
+**5:31** The husband shall be blameless, and she shall bear her iniquity. ^5-31
+
+[[DRB Numbers 04|← Numbers 4]] · [[Douay-Rheims|index]] · [[DRB Numbers 06|Numbers 6 →]]

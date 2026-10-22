@@ -1,0 +1,59 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Psalms"
+english_book: "Psalms"
+chapter: 131
+aliases:
+  - "Psalms 131"
+  - "Psalm 132 (Hebrew)"
+---
+# LXX Psalms 131
+
+← [[LXX Psalms 130]] · [[LXX]] · [[LXX Psalms 132]] →
+
+*Psalms · [[LXX]]*
+
+Hebrew numbering (JPS): [[Psalms 132]] · Prayer Book (1979): [[BCP Psalm 132]] · [[Psalms numbering]]
+
+**131:1** A Song of Degrees. Lord, remember David, and all his meekness:  ^131-1
+
+**131:2** how he sware to the Lord, *and* vowed to the God of Jacob, *saying*,  ^131-2
+
+**131:3** I will not go into the tabernacle of my house; I will not go up to the couch of my bed;[^1]  ^131-3
+
+**131:4** I will not give sleep to mine eyes, nor slumber to mine eyelids, nor rest to my temples,  ^131-4
+
+**131:5** until I find a place for the Lord, a tabernacle for the God of Jacob.  ^131-5
+
+**131:6** Behold, we heard of it in Ephratha; we found it in the fields of the wood.  ^131-6
+
+**131:7** Let us enter into his tabernacles: let us worship at the place where his feet stood.  ^131-7
+
+**131:8** Arise, O Lord, into thy rest; thou, and the ark of thine holiness.  ^131-8
+
+**131:9** Thy priests shall clothe themselves with righteousness; and thy saints shall exult.  ^131-9
+
+**131:10** For the sake of thy servant David turn not away the face of thine anointed.  ^131-10
+
+**131:11** The Lord sware *in* truth to David, and he will not annul it, *saying*, Of the fruit of thy body will I set *a king* upon thy throne.  ^131-11
+
+**131:12** If thy children will keep my covenant, and these my testimonies which I shall teach them, their children also shall sit upon thy throne for ever.  ^131-12
+
+**131:13** For the Lord has elected Sion, he has chosen her for a habitation for himself, *saying*,  ^131-13
+
+**131:14** This is my rest for ever: here will I dwell; for I have chosen it.  ^131-14
+
+**131:15** I will surely bless her provision: I will satisfy her poor with bread.  ^131-15
+
+**131:16** I will clothe her priests with salvation; and her saints shall greatly exult.  ^131-16
+
+**131:17** There will I cause to spring up a horn to David: I have prepared a lamp for mine anointed.  ^131-17
+
+**131:18** His enemies will I clothe with shame; but upon himself shall my holiness flourish.[^2]  ^131-18
+
+[^1]: 131:3 *Gr.* if I shall, etc. *Hebraism.*
+[^2]: 131:18 See Ps. 88. 39.

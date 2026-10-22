@@ -1,0 +1,45 @@
+---
+type: book-section
+book: "[[Zohar]]"
+order: 18
+page_range: 879–880
+---
+# Transliteration of Hebrew and Aramaic
+
+← [[Zohar 9.17 - Abbreviations]] · [[Zohar]] · [[Zohar 9.19 - Glossary]] →
+
+[p. 879] # *Transliteration of Hebrew and Aramaic*
+
+|     |         |             |     |     |          |               |
+|-----|---------|-------------|-----|-----|----------|---------------|
+| א   | *alef*  | ’[^1] |     | ל   | *lamed*  | *l*           |
+| בּ   | *bet*   | *b*         |     | מ   | *mem*    | *m*           |
+| ב   | *vet*   | *v*         |     | נ   | *nun*    | *n*           |
+| ג   | *gimel* | *g*         |     | ס   | *samekh* | *s*           |
+| ד   | *dalet* | *d*         |     | ע   | *ayin*   | ’[^2]   |
+| ה   | *he*    | *h*         |     | פּ   | *pe*     | *p*           |
+| ו   | *vav*   | *v*         |     | פ   | *phe*    | *f*[^3] |
+| ז   | *zayin* | *z*         |     | צ   | *tsadi*  | *ts*          |
+| ח   | *ḥet*   | *ḥ*         |     | ק   | *qof*    | *q*           |
+| ט   | *tet*   | *t*         |     | ר   | *resh*   | *r*           |
+| י   | *yod*   | *y, i*      |     | שׁ   | *shin*   | *sh*          |
+| כּ   | *kaf*   | *k*         |     | שׂ   | *sin*    | *s*           |
+| כ   | *khaf*  | *kh*        |     | ת   | *tav*    | *t*           |
+
+The English equivalent letter is doubled when a strong *dagesh* in Hebrew or Aramaic characterizes a verbal conjugation or indicates an assimilated letter, e.g., *dibber, yitten*. However, if the Hebrew letter (in which a *dagesh* appears) is represented by two English letters (such as *sh* or *ts*), then that English equivalent is not doubled, e.g., *va-yishaqehu, matsot*. Further, a single English equivalent letter is not doubled when preceded by a hyphenated prefix, e.g., *ha-sefer, la-melekh, mi-tokh*.
+
+Proper names that appear in roman type do not follow the above schema. Biblical names are rendered according to the *JPS Hebrew-English Tanakh*. Rabbinic names are rendered according to common convention, e.g., Akiva, Resh Lakish. Medieval names are Anglicized, e.g., Moses de León, Joseph Gikatilla. Authors’ names in the Bibliography follow library listings or the *Encyclopaedia Judaica*.
+
+ 
+
+ 
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_ [p. 880]
+
+---
+
+[^1]: *Alef* is not transliterated at the beginning or end of a word nor after a hyphenated prefix. Elsewhere it is transliterated only when accompanied by a vowel, e.g., *Shemu’el*.
+
+[^2]: *Ayin* is not transliterated at the beginning of a word, nor after a hyphenated prefix, nor, unless accompanied by a vowel, at the end of a word. Thus, *Shema*, but *Bava Metsi’a*.
+
+[^3]: Occasionally transliterated as *ph* to compare or contrast it to the letter *pe*.

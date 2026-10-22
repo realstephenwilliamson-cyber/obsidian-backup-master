@@ -1,0 +1,167 @@
+# Shelf books not matched to the catalog (from Downloads/Books.md, 8 Oct 2026)
+
+Set `physical_copy: true` on 26 catalog notes for the books matched with confidence (backups in `.work/backup-books-physical/`).
+
+## Uncertain: which catalog note, if any?
+
+- J.N. Mohanty - Phenomenology → Library/Catalog/.../Phenomenology and the Human Sciences (same author, different title?)
+- Paul Ricoeur - From Text to Action → Ricoeur - The Model of the Text (an essay in that book, not the book)
+- Jaideva Singh - Pratyabhijñāhṛdayam → The Secret of Recognition (which translation?)
+- Tantrāloka: The Light on and of the Tantras (Volumes 1 through 8) → Dyczkowski - Tantraloka (tr., vols I-XI): you own vols 1-8; the catalog note covers all 11
+- Swami Satyasangananda Saraswati - Sri Saundarya Lahari → Saundarya-Lahari (which edition?)
+
+## Not in the catalog (decide later whether they get catalog notes)
+
+- Amélie Berger-Soraruff - Technics of Existence
+- Bernard Stiegler - The Decadence of Industrial Democracies
+- Bertrand Russell - Wisdom of the West
+- Bina Gupta - The Disinterested Witness
+- Charles Taylor - Sources of the Self
+- Dermot Moran & Timothy Mooney (Eds.) - The Phenomenology Reader
+- Emmanuel Levinas - Basic Philosophical Writings
+- G.W.F. Hegel - Hegel's Phenomenology of Spirit
+- Gilles Deleuze & Félix Guattari - Anti-Oedipus
+- Gillian Rose - The Melancholy Science: An Introduction to the Thought of Theodor W. Adorno
+- Gregory L. Ulmer - Teletheory
+- Herrick - Introduction to Logic
+- Jacques Derrida - The Beast & the Sovereign, Volume I
+- Jacques Derrida - The Beast & the Sovereign, Volume II
+- Jean Baudrillard - Simulacra & Simulation
+- Jean-François Lyotard - The Postmodern Condition
+- Max Horkheimer - Eclipse of Reason
+- Michael L. Morgan - Discovering Levinas
+- Mircea Eliade - The Sacred & The Profane
+- Paul Ricoeur - Lectures on Imagination
+- Paul Ricoeur - Living Up to Death
+- Paul Ricoeur - The Conflict of Interpretations
+- Peter Kingsley - Ancient Philosophy, Mystery, and Magic
+- Philosophy Begins in Wonder
+- Plato - The Dialogues of Plato
+- Pojman - Classics of Philosophy
+- R.G. Collingwood - The Idea of History
+- Stumpf - Socrates to Sartre: A History of Philosophy
+- Theodor W. Adorno - Critical Models
+- Theodor W. Adorno - Without Model
+- Theodor W. Adorno: A Very Short Introduction
+- A Reader's Greek New Testament (2nd Edition)
+- A Textual Commentary on the Greek New Testament (2nd Ed.)
+- Amy-Jill Levine - Short Stories by Jesus
+- Barnstone & Meyer - The Gnostics and Their Scriptures
+- Bart D. Ehrman - Heaven and Hell
+- Bart D. Ehrman - Lost Scriptures: Books that Did Not Make It into the New Testament
+- Calvin J. Roetzel - The Letters of Paul
+- Charles Hartshorne - Anselm's Discovery
+- Croy - A Primer of Biblical Greek
+- Edgar - Things Seen and Unseen
+- Elaine Pagels - Miracles and Wonder: The Historical Jesus
+- First Nations Version: An Indigenous Translation of the New Testament
+- Gospel Parallels
+- Herman A. Wegman - Christian Worship
+- Holy Bible (NRSV)
+- I Believe...
+- Jaroslav Pelikan - Jesus Through the Centuries
+- Justo L. González - A History of Christian Thought Volume II
+- Justo L. González - A History of Christian Thought Volume III
+- Lectionary Texts: Various Occasions and Occasional Services
+- Meister Eckhart - The Complete Mystical Works of Meister Eckhart
+- Meyer - The Nag Hammadi Scriptures
+- N.T. Wright - History & Eschatology
+- Nicholas of Cusa - Selected Spiritual Writings
+- Pelikan - Acts (Brazos Theological Commentary on the Bible)
+- Schmidt - Glorious Companions: Five Centuries of Anglican Spirituality
+- The Hymnal 1982
+- The New Greek / English Interlinear New Testament
+- Abraham Isaac Kook - The Lights of Penitence, Moral Principles, Essays, Letters, and Poems
+- Adnan A. Husain & K.E. Fleming - A Faithful Sea
+- Aryeh Kaplan - Sefer Yetzirah
+- Elijah Benamozegh - Israel and Humanity
+- Emmanuel Levinas - Nine Talmudic Readings
+- Mesillas Yesharim
+- Miller - The Practical Tanya
+- Moshe Idel - Primeval Evil in Kabbalah
+- Rabbi Yitzchak Ginsburgh - Kabbalah and Meditation for the Nations
+- Sabbath and Festival Siddur (ArtScroll)
+- Scholem - Sabbatai Sevi: The Mystical Messiah
+- Sepher Ha-Razim
+- Shagar - Faith Shattered and Restored
+- Shagar - Living Time
+- Talmud Bavli (Schottenstein Daf Yomi Edition)
+- Tehillim / Psalms (ArtScroll Transliterated Linear)
+- The Clear Quran
+- Theodor and Greenberg - Dharma and Halacha
+- Weekday Siddur (ArtScroll)
+- A.C. Bhaktivedanta Swami Prabhupada - Bhagavad Gita As It Is
+- Abhinavastotrāvaliḥ
+- Alain Daniélou (Trans.) - The Complete Kāma Sūtra
+- Bailly - Shaiva Devotional Songs of Kashmir
+- Brahma Sūtra Bhāṣya of Śaṅkarācārya
+- Brooks - Auspicious Wisdom
+- Deutsch & Dalvi - The Essential Vedānta
+- Eck - Darśan: Seeing the Divine Image in India
+- Gods and Goddesses
+- Goldman & Goldman - The Rāmāyaṇa of Vālmīki
+- Hawley & Wulff - Devi Goddesses of India
+- Hindu Manners, Customs and Ceremonies
+- Jaideva Singh - Parā-trīśikā-Vivaraṇa: The Secret of Tantric Mysticism
+- Jamison Brereton - The Rigveda (Volumes I-III)
+- K.L. Joshi (Ed.) - Atharvaveda Saṁhitā (Volumes 1-3)
+- Kinsley - Hindu Goddesses
+- Madhu Khanna (Ed.) - Śāktapramodaḥ
+- Manthānabhairavatantram Volumes 1-6
+- Manthānabhairavatantram Volumes 9-13
+- Meditation Revolution
+- Mira: The Divine Lover
+- Reflections of the Self
+- Saṃskṛtasubodhinī: A Sanskrit Primer
+- Singh - Śiva Sūtras
+- The Nectar of Chanting
+- The Path of the Masters
+- The Vāmakeśvarīmatam
+- The Vantras
+- Upaniṣads - Olivelle
+- Vedantasara - Krishnamacharya
+- Venkatesananda - The Concise Yoga Vāsiṣṭha
+- Zoë Slatoff-Ponté - Yogāvatāraṇam
+- Swami Satyananda Saraswati - Karma Sannyasa
+- The Spiritual Science of Kriya Yoga
+- Chawdhri - Practicals of Yantras
+- James - The Principles of Psychology (Vol. I & II)
+- Jung - Jung (The Viking Portable Library)
+- Karen Hao - Empire of AI
+- Magic, Witchcraft, and Religion
+- May - Genocide
+- Meagher - Killing from the Inside Out
+- Oliver Sacks - The Man Who Mistook His Wife for a Hat
+- Reeves - Of Boys and Men
+- Sigmund Freud - General Psychological Theory
+- Sigmund Freud - The Interpretation of Dreams
+- The Art of Will
+- World Without Mind
+- Bina Gupta - Perceiving in Advaita Vedanta
+- Burr & Goldinger - Philosophy and Contemporary Issues
+- Heraclitus - Fragments
+- John Burnet - Early Greek Philosophy
+- Mark Day - The Philosophy of History
+- Mary Ann G. Cutter - Death
+- Peter Kingsley - Reality
+- Bart D. Ehrman - The New Testament: A Historical Introduction to the Early Christian Writings
+- Justo L. González - A History of Christian Thought Volume 1
+- Maximus Confessor: Selected Writings
+- Origen
+- Horwitz - A Kabbalah and Jewish Mysticism Reader
+- An Introduction to Tantric Philosophy
+- Bettina Sharada Bäumer - The Yoga of Netra Tantra
+- Boris Marjanovic (Trans.) - Abhinavagupta's Commentary on the Bhagavad Gita
+- Brown - Ganesh
+- de Vietri - Trika Maṇḍala Prakāśa
+- Deutsch - Advaita Vedanta: A Philosophical Reconstruction
+- Eli Franco & Isabelle Ratié - Around Abhinavagupta
+- Hinduism
+- Introduction to Sanskrit
+- Kriya Yoga
+- Mantras of the Rig Veda
+- Sarasvatī
+- Vanamali - Shakti: Realm of the Divine Mother
+- Williams - A Sanskrit English Dictionary
+- Swami Satyananda Saraswati - Kundalini Tantra
+- Swami Satyasangananda Saraswati - Sri Saundarya Lahari

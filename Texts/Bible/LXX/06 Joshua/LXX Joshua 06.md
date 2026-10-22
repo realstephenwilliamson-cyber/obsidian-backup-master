@@ -1,0 +1,78 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Joshua"
+english_book: "Joshua"
+chapter: 6
+aliases:
+  - "Joshua 6"
+---
+# LXX Joshua 06
+
+← [[LXX Joshua 05]] · [[LXX]] · [[LXX Joshua 07]] →
+
+*Joshua · [[LXX]]*
+
+**6:1** Now Jericho was closely shut up and besieged, and none went out of it, and none came in.  ^6-1
+
+**6:2** And the Lord said to Joshua, Behold, I deliver Jericho into thy power, and its king in it, *and its* mighty men.[^1]  ^6-2
+
+**6:3** And do thou set the men of war round about it.  ^6-3
+
+**6:5** And it shall be *that* when ye shall sound with the trumpet, all the people shall shout together. And when they have shouted, the walls of the city shall fall of themselves; and all the people shall enter, each one rushing direct into the city.[^2][^3]  ^6-5
+
+**6:6** And Joshua the *son* of Naue went in to the priests,  ^6-6
+
+**6:7** and spoke to them, saying, Charge the people to go round, and encompass the city; and let your men of war pass on armed before the Lord.  ^6-7
+
+**6:8** And let seven priests having seven sacred trumpets proceed thus before the Lord, and let them sound loudly; and let the ark of the covenant of the Lord follow.[^4]  ^6-8
+
+**6:9** And let the men of war proceed before, and the priests bringing up the rear behind the ark of the covenant of the Lord *proceed* sounding the trumpets.  ^6-9
+
+**6:10** And Joshua commanded the people, saying, Cry not out, nor let any one hear your voice, until he himself declare to you the time to cry out, and then ye shall cry out.[^5]  ^6-10
+
+**6:11** And the ark of the covenant of God having gone round immediately returned into the camp, and lodged there.  ^6-11
+
+**6:12** And on the second day Joshua rose up in the morning, and the priests took up the ark of the covenant of the Lord.  ^6-12
+
+**6:13** And the seven priests bearing the seven trumpets went on before the Lord; and afterwards the men of war went on, and the remainder of the multitude went after the ark of the covenant of the Lord, and the priests sounded with the trumpets.  ^6-13
+
+**6:14** And all the rest of the multitude compassed the city six times from within a short distance, and went back again into the camp; this they did six days.  ^6-14
+
+**6:15** And on the seventh day they rose up early, and compassed the city on that day seven times.  ^6-15
+
+**6:16** And it came to pass at the seventh circuit the priests blew the trumpets; and Joshua said to the children of Israel, Shout, for the Lord has given you the city.  ^6-16
+
+**6:17** And the city shall be devoted, it and all things that are in it, to the Lord of Hosts: only do ye save Raab the harlot, and all things in her house.[^6]  ^6-17
+
+**6:18** But keep yourselves strictly from the accursed thing, lest ye set your mind upon and take of the accursed thing, and ye make the camp of the children of Israel an accursed thing, and destroy us.  ^6-18
+
+**6:19** And all the silver, or gold, or brass, or iron, shall be holy to the Lord; it shall be carried into the treasury of the Lord.  ^6-19
+
+**6:20** And the priests sounded with the trumpets: and when the people heard the trumpets, all the people shouted at once with a loud and strong shout; and all the wall fell round about, and all the people went up into the city:  ^6-20
+
+**6:21** and Joshua devoted it to destruction, and all things that were in the city, man and woman, young man and old, and calf and ass, with the edge of the sword.[^7]  ^6-21
+
+**6:22** And Joshua said to the two young men who had acted as spies, Go into the house of the woman, and bring her out thence, and all that she has.  ^6-22
+
+**6:23** And the two young men who had spied out the city entered into the house of the woman, and brought out Raab the harlot, and her father, and her mother, and her brethren, and her kindred, and all that she had; and they set her without the camp of Israel.  ^6-23
+
+**6:24** And the city was burnt with fire with all things that were in it; only of the silver, and gold, and brass, and iron, they gave to be brought into the treasury of the Lord.  ^6-24
+
+**6:25** And Joshua saved alive Raab the harlot, and all the house of her father, and caused her to dwell in Israel until this day, because she hid the spies which Joshua sent to spy out Jericho.  ^6-25
+
+**6:26** And Joshua adjured *them* on that day before the Lord, saying, Cursed *be* the man who shall build that city: he shall lay the foundation of it in his first-born, and he shall set up the gates of it in his youngest son. And so did Hozan of Bæthel; he laid the foundation in Abiron his first-born, and set up the gates of it in his youngest surviving son.[^8]  ^6-26
+
+**6:27** And the Lord was with Joshua, and his name was in all the land.  ^6-27
+
+[^1]: 6:2 *Gr.* mighty in strength.
+[^2]: 6:5 *Gr.* let all the people, etc.
+[^3]: 6:5 *Or,* of their own accord.
+[^4]: 6:8 *Heb.* שופרות היובלים *A. V.*‘ram's horns.’ Only in this place.
+[^5]: 6:10 *Gr.* day.
+[^6]: 6:17 *Or,* an accursed thing.
+[^7]: 6:21 *Gr.* mouth.
+[^8]: 6:26 *Gr.* saved.

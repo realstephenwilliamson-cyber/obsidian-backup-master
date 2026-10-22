@@ -1,0 +1,77 @@
+---
+type: text
+work: "Douay-Rheims Bible"
+book: "Exodus"
+douay_name: "Exodus"
+chapter: 4
+translation: "Douay-Rheims, American edition of 1899"
+license: "Public domain (eBible.org, engDRA)"
+source: "https://ebible.org/find/details.php?id=engDRA"
+---
+# Exodus 4 (Douay-Rheims)
+
+[[DRB Exodus 03|← Exodus 3]] · [[Douay-Rheims|index]] · [[DRB Exodus 05|Exodus 5 →]]
+
+**4:1** Moses answered and said: They will not believe me, nor hear my voice, but they will say: The Lord hath not appeared to thee. ^4-1
+
+**4:2** Then he said to him: What is that thou holdest in thy hand? He answered: A rod. ^4-2
+
+**4:3** And the Lord said: Cast it down upon the ground. He cast it down, and it was turned into a serpent: so that Moses fled from it. ^4-3
+
+**4:4** And the Lord said: Put out thy hand and take it by the tail. He put forth his hand, and took hold of it, and it was turned into a rod. ^4-4
+
+**4:5** That they may believe, saith he, that the Lord God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath appeared to thee. ^4-5
+
+**4:6** And the Lord said again: Put thy hand into thy bosom. And when he had put it into his bosom, he brought it forth leprous as snow. ^4-6
+
+**4:7** And he said: Put back thy hand into thy bosom. He put it back, and brought it out again, and it was like the other flesh. ^4-7
+
+**4:8** If they will not believe thee, saith he, nor hear the voice of the former sign, they will believe the word of the latter sign. ^4-8
+
+**4:9** But if they will not even believe these two signs, nor hear thy voice: take of the river water, and pour it out upon the dry land, and whatsoever thou drawest out of the river shall be turned into blood. ^4-9
+
+**4:10** Moses said: I beseech thee, Lord. I am not eloquent from yesterday and the day before: and since thou hast spoken to thy servant, I have more impediment and slowness of tongue. ^4-10
+
+**4:11** The Lord said to him: Who made man’s mouth? or who made the dumb and the deaf, the seeing and the blind? did not I? ^4-11
+
+**4:12** Go therefore and I will be in thy mouth: and I will teach thee what thou shalt speak. ^4-12
+
+**4:13** But he said: I beseech thee, Lord send whom thou wilt send. ^4-13
+
+**4:14** The Lord being angry at Moses, said Aaron the Levite is thy brother, I know that he is eloquent: behold he cometh forth to meet thee, and seeing thee shall be glad at heart. ^4-14
+
+**4:15** Speak to him, and put my words in his mouth: and I will be in thy mouth, and in his mouth, and will shew you what you must do. ^4-15
+
+**4:16** He shall speak in thy stead to the people, and shall be thy mouth: but thou shalt be to him in those things that pertain to God. ^4-16
+
+**4:17** And take this rod in thy hand, wherewith thou shalt do the signs. ^4-17
+
+**4:18** Moses went his way, and returned to Jethro his father in law and said to him: I will go and return to my brethren into Egypt, that I may see if they be yet alive. And Jethro said to him: Go in peace. ^4-18
+
+**4:19** And the Lord said to Moses, in Madian: Go, and return into Egypt: for they are all dead that sought thy life. ^4-19
+
+**4:20** Moses therefore took his wife, and his sons, and set them upon an ass: and returned into Egypt, carrying the rod of God in his hand. ^4-20
+
+**4:21** And the Lord said to him as he was returning into Egypt: See that thou do all the wonders before Pharao, which I have put in thy hand: I shall harden his heart, and he will not let the people go. ^4-21
+
+**4:22** And thou shalt say to him: Thus saith the Lord: Israel is my son, my firstborn. ^4-22
+
+**4:23** I have said to thee: Let my son go, that he may serve me, and thou wouldst not let him go: behold I will kill thy son, thy firstborn. ^4-23
+
+**4:24** And when he was in his journey, in the inn, the Lord met him, and would have killed him. ^4-24
+
+**4:25** Immediately Sephora took a very sharp stone, and circumcised the fore skin of her son, and touched his feet and said: A bloody spouse art thou to me. ^4-25
+
+**4:26** And he let him go after she had said A bloody spouse art thou to me, because of the circumcision. ^4-26
+
+**4:27** And the Lord said to Aaron: Go into the desert to meet Moses. And he went forth to meet him in the mountain of God, and kissed him. ^4-27
+
+**4:28** And Moses told Aaron all the words of the Lord, by which he had sent him, and the signs that he had commanded. ^4-28
+
+**4:29** And they came together, and they assembled all the ancients of the children of Israel. ^4-29
+
+**4:30** And Aaron spoke all the words which the Lord had said to Moses: and he wrought the signs before the people, ^4-30
+
+**4:31** And the people believed. And they heard that the Lord had visited the children of Israel: and that he had looked upon their affliction: and falling down they adored. ^4-31
+
+[[DRB Exodus 03|← Exodus 3]] · [[Douay-Rheims|index]] · [[DRB Exodus 05|Exodus 5 →]]

@@ -1,0 +1,35 @@
+---
+type: "text"
+work: "Tantrāloka"
+author: "Abhinavagupta"
+commentary: "Jayaratha, Viveka"
+chapter: 28
+verse: 89
+edition: "Kashmir Series of Texts and Studies (KSTS), as transcribed by Muktabodha (M00093)"
+license: "CC BY-NC 4.0, Muktabodha Indological Research Institute"
+aliases:
+  - "TĀ 28.89"
+  - "TA 28.89"
+  - "Tantrāloka 28.89"
+---
+[[Tantraloka 28.088|← 28.88]] · [[Tantraloka 28 - Parvapavitrakadiprakasana|Āhnika 28]] · [[Tantraloka 28.090|28.90 →]]
+
+## Mūla
+
+भोक्त्री तत्र तु या शक्तिः स शम्भुः परमेश्वरः ।
+अणुशक्तिशिवात्मेत्थं ध्यात्वा संमिलितं त्रयम् ॥ ^mula
+
+bhoktrī tatra tu yā śaktiḥ sa śambhuḥ parameśvaraḥ |
+aṇuśaktiśivātmetthaṃ dhyātvā saṃmilitaṃ trayam || ^iast
+
+## Translation
+
+> [!source] Dyczkowski, vol. X
+> [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 10 (Dyczkowski)/Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#^pg64|p. 47]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 10.pdf#page=64>))
+>
+> The sacrificial vessel (is Sadāśiva,) the (Great) Ghost (preta). The liquor (contained in it) is the nectar of (Śiva’s) power. There it is the Śakti' who enjoys it, and he, Śambhu, is the Supreme Lord (Himself) (parameśvara)." Having meditated on the three, Man, Power, and Śiva, united together (milita) in this way, (the officiant) should then offer libation to each circle (of the assembly, one after the other) in due order. Then he should enter again into (the midst of the assembly) by moving round in the reverse order, until (he reaches) the teacher who is (in the centre) at the end. That is said to be a complete round. (with 28.88cd–91ab)
+
+## Viveka
+
+Jayaratha comments on this verse together with 28.90: see [[Tantraloka 28.090#Viveka|28.90]].
+

@@ -1,0 +1,47 @@
+---
+type: "text"
+work: "Tantrāloka"
+author: "Abhinavagupta"
+commentary: "Jayaratha, Viveka"
+chapter: 3
+verse: 256
+edition: "Kashmir Series of Texts and Studies (KSTS), as transcribed by Muktabodha (M00092)"
+license: "CC BY-NC 4.0, Muktabodha Indological Research Institute"
+aliases:
+  - "TĀ 3.256"
+  - "TA 3.256"
+  - "Tantrāloka 3.256"
+---
+[[Tantraloka 03.255|← 3.255]] · [[Tantraloka 03 - Sambhavopayaprakasana|Āhnika 3]] · [[Tantraloka 03.257|3.257 →]]
+
+## Mūla
+
+उपासाश्च द्वयाद्वैतव्यामिश्राकारयोगतः ।
+श्रीमत्त्रैशिरसे तच्च कथितं विस्तराद्बहु ॥ ^mula
+
+upāsāśca dvayādvaitavyāmiśrākārayogataḥ |
+śrīmattraiśirase tacca kathitaṃ vistarādbahu || ^iast
+
+> [!lexicon] Word analysis
+> [[Tantraloka 03.256 - words]]
+
+## Translation
+
+> [!source] Dyczkowski, vol. II
+> [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 02 (Dyczkowski)/Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#^pg394|p. 378]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 02.pdf#page=394>))
+>
+> From (just) these (twelve energies) alone emerges (every) wheel of energies, right up (to the full complement of) sixty-four. (So too the wheel) with one spoke up to that of a thousand spokes. They have many names in the scriptures, according to their various functions. The ways they are worshipped (upāsā) are (also various), according to whether the form (of their worship) is dual, nondual or mixed. This has been explained at length in the venerable Traiśirasa (Triśirobhairavatantra), but not written here for fear of going into too many details, and also because it would serve no purpose to do so. (with 3.254cd–257ab)
+
+## Viveka
+
+> ताभ्य एव चतुःषष्टिपर्यन्तं शक्तिचक्रकम् ॥
+> एकारतः समारभ्य सहस्रारं प्रवर्तते ।
+> तासां च कृत्यभेदेन नामानि बहुधागमे ॥
+> उपासाश्च द्वयाद्वैतव्यामिश्राकारयोगतः ।
+> श्रीमत्त्रैशिरसे तच्च कथितं विस्तराद्बहु ॥
+> इह नो लिखितं व्यासभयाच्चानुपयोगतः ।
+
+आगम इति सामान्येनोक्तेः श्रीमत्त्रैशिरस इत्यनेन विशेषो दर्शितः । तत्तत एव प्रथमपटलादेतदनुसर्तव्यम् -- इति भावः ॥ २५६ ॥
+
+ननु यद्येवं तदघोराद्याः सृष्ट्यादिक्रमेष्वप्यवस्थिता याः शक्तयः किमासामेव स्फारो न वा ?
+

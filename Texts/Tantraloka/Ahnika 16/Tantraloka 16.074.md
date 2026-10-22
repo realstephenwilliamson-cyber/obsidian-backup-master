@@ -1,0 +1,40 @@
+---
+type: "text"
+work: "Tantrāloka"
+author: "Abhinavagupta"
+commentary: "Jayaratha, Viveka"
+chapter: 16
+verse: 74
+edition: "Kashmir Series of Texts and Studies (KSTS), as transcribed by Muktabodha (M00093)"
+license: "CC BY-NC 4.0, Muktabodha Indological Research Institute"
+aliases:
+  - "TĀ 16.74"
+  - "TA 16.74"
+  - "Tantrāloka 16.74"
+---
+[[Tantraloka 16.073|← 16.73]] · [[Tantraloka 16 - Prameyaprakasana|Āhnika 16]] · [[Tantraloka 16.075|16.75 →]]
+
+## Mūla
+
+गुरुत्वेन त्वयैवाहमाज्ञातः परमेश्वर ।
+साक्षात्स्वप्नोपदेशाद्यैर्जपैर्गुरुमुखेन वा ॥ ^mula
+
+gurutvena tvayaivāhamājñātaḥ parameśvara |
+sākṣātsvapnopadeśādyairjapairgurumukhena vā || ^iast
+
+> [!lexicon] Word analysis
+> [[Tantraloka 16.074 - words]]
+
+## Translation
+
+> [!source] Dyczkowski, vol. IX
+> [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)/Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#^pg55|p. 35]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf#page=55>))
+>
+> “You yourself, O Supreme Lord, (have ordained) me a teacher by (Your) command (ājñā). These are (my) disciples who, impelled by Śiva’s power, deserve to be graced by You, (either) directly by means of teachings imparted in dreams and the like, by the repetitions of mantras or (indirectly) by the mouth of a teacher. Such are they who are present (here), grace them! I who am Śiva, penetrate me with the rays of your own Self!” Then he should joyfully praise Śiva’s declared (response) that, “may it be thus (as you wish)!” (with 16.74–76)
+
+## Viveka
+
+*Lead-in:* किं विज्ञापयेत्--इत्याह--
+
+Jayaratha comments on this verse together with 16.80: see [[Tantraloka 16.080#Viveka|16.80]].
+

@@ -1,0 +1,35 @@
+---
+type: "text"
+work: "Tantrāloka"
+author: "Abhinavagupta"
+commentary: "Jayaratha, Viveka"
+chapter: 28
+verse: 420
+edition: "Kashmir Series of Texts and Studies (KSTS), as transcribed by Muktabodha (M00093)"
+license: "CC BY-NC 4.0, Muktabodha Indological Research Institute"
+aliases:
+  - "TĀ 28.420"
+  - "TA 28.420"
+  - "Tantrāloka 28.420"
+---
+[[Tantraloka 28.419|← 28.419]] · [[Tantraloka 28 - Parvapavitrakadiprakasana|Āhnika 28]] · [[Tantraloka 28.421|28.421 →]]
+
+## Mūla
+
+देवद्रव्यहृदाकारप्रहर्ता लिङ्गभेदकः ।
+नित्यादिलोपकृद् भ्रष्टस्वकमात्रापरिच्छदः ॥ ^mula
+
+devadravyahṛdākāraprahartā liṅgabhedakaḥ |
+nityādilopakṛd bhraṣṭasvakamātrāparicchadaḥ || ^iast
+
+## Translation
+
+> [!source] Dyczkowski, vol. X
+> [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 10 (Dyczkowski)/Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#^pg211|p. 194]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 10.pdf#page=211>))
+>
+> It is said in the Brahmayāāmala that one who has murdered a Brahmin, has sex with his teacher’s wife, steals a Kaula adept’s sacred substances (vṛradravya) and that of the deity (devadravya), strikes an (iconic) form, smashes Liñgas, fails to perform (his) regular daily rites and the like, has fallen (from attendance to) the accoutrements of his own vow, disfigured a Śakti, killed a yogi or a man of knowledge, (or one who) omits (the performance) of the occasional rites (naimittaka) - should recite (Mantra) for one hundred thousand times and progressively double the number, in due order (according to the offence). If one who is engaged (in the observance of) any vow, eats little, and practices sexual restraint goes elsewhere to assume (an intimate relationship) (parigraha) with a (Kaula) consort (dūfī), (leaving the one he has) because he is deluded by passion, he should repeat Mantra one hundred thousand times (in order to atone for his transgression). (with 28.419cd–423ab)
+
+## Viveka
+
+Jayaratha comments on this verse together with 28.422: see [[Tantraloka 28.422#Viveka|28.422]].
+

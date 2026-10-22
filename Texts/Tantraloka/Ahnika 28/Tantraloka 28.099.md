@@ -1,0 +1,35 @@
+---
+type: "text"
+work: "Tantrāloka"
+author: "Abhinavagupta"
+commentary: "Jayaratha, Viveka"
+chapter: 28
+verse: 99
+edition: "Kashmir Series of Texts and Studies (KSTS), as transcribed by Muktabodha (M00093)"
+license: "CC BY-NC 4.0, Muktabodha Indological Research Institute"
+aliases:
+  - "TĀ 28.99"
+  - "TA 28.99"
+  - "Tantrāloka 28.99"
+---
+[[Tantraloka 28.098|← 28.98]] · [[Tantraloka 28 - Parvapavitrakadiprakasana|Āhnika 28]] · [[Tantraloka 28.100|28.100 →]]
+
+## Mūla
+
+एवं कृत्वा क्रमाद्यागमन्ते दक्षिणया युतम् ।
+समालम्भनताम्बूलवस्त्राद्यं वितरेद्बुधः ॥ ^mula
+
+evaṃ kṛtvā kramādyāgamante dakṣiṇayā yutam |
+samālambhanatāmbūlavastrādyaṃ vitaredbudhaḥ || ^iast
+
+## Translation
+
+> [!source] Dyczkowski, vol. X
+> [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 10 (Dyczkowski)/Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#^pg66|p. 49]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 10.pdf#page=66>))
+>
+> Having performed the sacrifice in this way in due order, at the end, the wise man should dispense unguents, betel, cloth etc., together with a donation (dakṣinā). The wise man should not give a donation of less than half a rāūpaka' to the regular initiates, and to the others, progressively double (that amount, according to their status as initiates,) up to the teacher. This is the Worship of the Embodiments, which of all the sacrifices is the main one (and the most important). In the case of the procedure of an optional (kāmya) rite, it should be repeated seven times in this way. (with 28.99–101)
+
+## Viveka
+
+Jayaratha comments on this verse together with 28.101: see [[Tantraloka 28.101#Viveka|28.101]].
+

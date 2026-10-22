@@ -1,0 +1,71 @@
+---
+type: text
+work: "Douay-Rheims Bible"
+book: "Job"
+douay_name: "Job"
+chapter: 13
+translation: "Douay-Rheims, American edition of 1899"
+license: "Public domain (eBible.org, engDRA)"
+source: "https://ebible.org/find/details.php?id=engDRA"
+---
+# Job 13 (Douay-Rheims)
+
+[[DRB Job 12|← Job 12]] · [[Douay-Rheims|index]] · [[DRB Job 14|Job 14 →]]
+
+**13:1** Behold my eye hath seen all these things, and my ear hath heard them, and I have understood them all. ^13-1
+
+**13:2** According to your knowledge I also know: neither am I inferior to you. ^13-2
+
+**13:3** But yet I will speak to the Almighty, and I desire to reason with God. ^13-3
+
+**13:4** Having first shewn that you are forgers of lies, and maintainers of perverse opinions. ^13-4
+
+**13:5** And I wish you would hold your peace, that you might be thought to be wise men. ^13-5
+
+**13:6** Hear ye therefore my reproof, and attend to the judgment of my lips. ^13-6
+
+**13:7** Hath God any need of your lie, that you should speak deceitfully for him? ^13-7
+
+**13:8** Do you accept his person, and do you endeavour to judge for God? ^13-8
+
+**13:9** Or shall it please him, from whom nothing can be concealed? or shall he be deceived as a man, with your deceitful dealings? ^13-9
+
+**13:10** He shall reprove you, because in secret you accept his person. ^13-10
+
+**13:11** As soon as he shall move himself, he shall trouble you: and his dread shall fall upon you. ^13-11
+
+**13:12** Your remembrance shall be compared to ashes, and your necks shall be brought to clay. ^13-12
+
+**13:13** Hold your peace a little while, that I may speak whatsoever my mind shall suggest to me. ^13-13
+
+**13:14** Why do I tear my flesh with my teeth, and carry my soul in my hands? ^13-14
+
+**13:15** Although he should bill me, I will trust in him: but yet I will reprove my ways in his sight. ^13-15
+
+**13:16** And he shall be my saviour: for no hypocrite shall come before his presence. ^13-16
+
+**13:17** Hear ye my speech, and receive with Sour ears hidden truths. ^13-17
+
+**13:18** If I shall be judged, I know that I shall be found just. ^13-18
+
+**13:19** Who is he that will plead against me? let him come: why am I consumed holding my peace? ^13-19
+
+**13:20** Two things only do not to me, and then from thy face I shall not be hid: ^13-20
+
+**13:21** Withdraw thy hand far from me, and let not thy dread terrify me. ^13-21
+
+**13:22** Call me, and I will answer thee: or else I will speak, and do thou answer me. ^13-22
+
+**13:23** How many are my iniquities and sins? make me know my crimes and offences. ^13-23
+
+**13:24** Why hidest thou thy face, and thinkest me thy enemy? ^13-24
+
+**13:25** Against a leaf, that is carried away with the wind, thou shewest thy power, and thou pursuest a dry straw. ^13-25
+
+**13:26** For thou writest bitter things against me, and wilt consume me for the sins of my youth. ^13-26
+
+**13:27** Thou hast put my feet in the stocks, and hast observed all my paths, and hast considered the steps of my feet: ^13-27
+
+**13:28** Who am to be consumed as rottenness, and as a garment that is moth-eaten. ^13-28
+
+[[DRB Job 12|← Job 12]] · [[Douay-Rheims|index]] · [[DRB Job 14|Job 14 →]]

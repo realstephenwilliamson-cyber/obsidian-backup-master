@@ -1,0 +1,50 @@
+---
+type: text
+work: "NRSV Updated Edition"
+book: "Song of Songs"
+chapter: 2
+translation: "New Revised Standard Version Updated Edition (2021)"
+license: "© 2021 National Council of the Churches of Christ in the USA; all rights reserved (private study copy)"
+source: "NRSVue eBible, Friendship Press 2021 (e-ISBN 978-1-7330759-4-7)"
+---
+# Song of Songs 2 (NRSVue)
+
+[[NRSVue Song of Songs 01|← Song of Songs 1]] · [[NRSVue|index]] · [[NRSVue Song of Songs 03|Song of Songs 3 →]]
+
+**2:1** I am a rose of Sharon, a lily of the valleys. ^2-1
+
+**2:2** As a lily among brambles, so is my love among maidens. ^2-2
+
+**2:3** As an apple tree among the trees of the wood, so is my beloved among young men. With great delight I sat in his shadow, and his fruit was sweet to my taste. ^2-3
+
+**2:4** He brought me to the banqueting house, and his intention toward^[Heb *banner above*] me was love. ^2-4
+
+**2:5** Sustain me with raisins, refresh me with apples, for I am faint with love. ^2-5
+
+**2:6** O that his left hand were under my head and that his right hand embraced me! ^2-6
+
+**2:7** I charge you, O daughters of Jerusalem, by the gazelles or the wild does: do not stir up or awaken love until it is ready! ^2-7
+
+## Springtime rhapsody
+
+**2:8** The voice of my beloved! Look, he comes, leaping upon the mountains, bounding over the hills. ^2-8
+
+**2:9** My beloved is like a gazelle or a young stag. Look, there he stands behind our wall, gazing in at the windows, looking through the lattice. ^2-9
+
+**2:10** My beloved speaks and says to me: “Arise, my love, my fair one, and come away, ^2-10
+
+**2:11** for now the winter is past, the rain is over and gone. ^2-11
+
+**2:12** The flowers appear on the earth; the time of singing has come, and the voice of the turtledove is heard in our land. ^2-12
+
+**2:13** The fig tree puts forth its figs, and the vines are in blossom; they give forth fragrance. Arise, my love, my fair one, and come away. ^2-13
+
+**2:14** O my dove, in the clefts of the rock, in the covert of the cliff, let me see your face; let me hear your voice, for your voice is sweet, and your face is lovely. ^2-14
+
+**2:15** Catch us the foxes, the little foxes, that ruin the vineyards—for our vineyards are in blossom.” ^2-15
+
+**2:16** My beloved is mine, and I am his; he pastures his flock among the lilies. ^2-16
+
+**2:17** Until the day breathes and the shadows flee, turn, my beloved, be like a gazelle or a young stag on the cleft mountains.^[Or *on the mountains of Bether*; meaning of Heb uncertain] ^2-17
+
+[[NRSVue Song of Songs 01|← Song of Songs 1]] · [[NRSVue|index]] · [[NRSVue Song of Songs 03|Song of Songs 3 →]]

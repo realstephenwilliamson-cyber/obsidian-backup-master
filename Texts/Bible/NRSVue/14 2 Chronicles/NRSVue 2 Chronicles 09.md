@@ -1,0 +1,82 @@
+---
+type: text
+work: "NRSV Updated Edition"
+book: "2 Chronicles"
+chapter: 9
+translation: "New Revised Standard Version Updated Edition (2021)"
+license: "© 2021 National Council of the Churches of Christ in the USA; all rights reserved (private study copy)"
+source: "NRSVue eBible, Friendship Press 2021 (e-ISBN 978-1-7330759-4-7)"
+---
+# 2 Chronicles 9 (NRSVue)
+
+[[NRSVue 2 Chronicles 08|← 2 Chronicles 8]] · [[NRSVue|index]] · [[NRSVue 2 Chronicles 10|2 Chronicles 10 →]]
+
+## Visit of the queen of Sheba
+
+**9:1** When the queen of Sheba heard of the fame of Solomon, she came to Jerusalem to test him with riddles, having a very great retinue and camels bearing spices and very much gold and precious stones. When she came to Solomon, she discussed with him all that was on her mind. ^9-1
+
+**9:2** Solomon answered all her questions; there was nothing hidden from Solomon that he could not explain to her. ^9-2
+
+**9:3** When the queen of Sheba had observed the wisdom of Solomon, the house that he had built, ^9-3
+
+**9:4** the food of his table, the seating of his officials, and the attendance of his servants, and their clothing, his valets, and their clothing, and his burnt offerings^[Gk Syr Vg: Heb *ascent*] that he offered at the house of the LORD, it took her breath away. ^9-4
+
+**9:5** So she said to the king, “The report was true that I heard in my own land of your accomplishments and of your wisdom, ^9-5
+
+**9:6** but I did not believe the^[Heb *their*] reports until I came and my own eyes saw it. Not even half of the greatness of your wisdom had been told to me; you far surpass the report that I had heard. ^9-6
+
+**9:7** Happy are your people! Happy are these your servants who continually attend you and hear your wisdom! ^9-7
+
+**9:8** Blessed be the LORD your God, who has delighted in you and set you on his throne as king for the LORD your God. Because your God loved Israel and would establish them forever, he has made you king over them, that you may execute justice and righteousness.” ^9-8
+
+**9:9** Then she gave the king one hundred twenty talents of gold, a very great quantity of spices, and precious stones; there were no spices such as those that the queen of Sheba gave to King Solomon. ^9-9
+
+**9:10** Moreover, the servants of Huram and the servants of Solomon who brought gold from Ophir brought algum wood and precious stones. ^9-10
+
+**9:11** From the algum wood, the king made steps^[Gk Vg: Meaning of Heb uncertain] for the house of the LORD and for the king’s house, lyres also and harps for the singers; there never was seen the like of them before in the land of Judah. ^9-11
+
+**9:12** Meanwhile, King Solomon gave to the queen of Sheba every desire that she expressed, well beyond what she had brought to the king. Then she returned to her own land with her servants. ^9-12
+
+## Solomon’s great wealth
+
+**9:13** The weight of gold that came to Solomon in one year was six hundred sixty-six talents of gold, ^9-13
+
+**9:14** besides that which the traders and merchants brought, and all the kings of Arabia and the governors of the land brought gold and silver to Solomon. ^9-14
+
+**9:15** King Solomon made two hundred large shields of beaten gold; six hundred shekels^[Heb lacks *shekels*] of beaten gold went into each large shield. ^9-15
+
+**9:16** He made three hundred shields of beaten gold; three hundred shekels^[Heb lacks *shekels*] of gold went into each shield, and the king put them in the House of the Forest of Lebanon. ^9-16
+
+**9:17** The king also made a great ivory throne and overlaid it with pure gold. ^9-17
+
+**9:18** The throne had six steps and a footstool of gold, which were attached to the throne, and on each side of the seat were arm rests and two lions standing beside the arm rests, ^9-18
+
+**9:19** while twelve lions were standing, one on each end of a step on the six steps. The like of it was never made in any kingdom. ^9-19
+
+**9:20** All King Solomon’s drinking vessels were of gold, and all the vessels of the House of the Forest of Lebanon were of pure gold; silver was not considered as anything in the days of Solomon. ^9-20
+
+**9:21** For the king’s ships went to Tarshish with the servants of Huram; once every three years the ships of Tarshish used to come bringing gold, silver, ivory, apes, and peacocks.^[Or *baboons*] ^9-21
+
+**9:22** Thus King Solomon excelled all the kings of the earth in riches and in wisdom. ^9-22
+
+**9:23** All the kings of the earth sought the presence of Solomon to hear his wisdom, which God had put into his mind. ^9-23
+
+**9:24** Every one of them brought a present, objects of silver and gold, garments, weaponry, spices, horses, and mules, so much year by year. ^9-24
+
+**9:25** Solomon had four thousand stalls for horses and chariots and twelve thousand horses, which he stationed in the chariot cities and with the king in Jerusalem. ^9-25
+
+**9:26** He ruled over all the kings from the Euphrates to the land of the Philistines and to the territory of Egypt. ^9-26
+
+**9:27** The king made silver as common in Jerusalem as stone and cedar as plentiful as the sycamore of the Shephelah. ^9-27
+
+**9:28** Horses were imported for Solomon from Egypt and from all lands. ^9-28
+
+## Death of Solomon
+
+**9:29** Now the rest of the acts of Solomon, from first to last, are they not written in the history of the prophet Nathan and in the prophecy of Ahijah the Shilonite and in the visions of the seer Iddo concerning Jeroboam son of Nebat? ^9-29
+
+**9:30** Solomon reigned in Jerusalem over all Israel forty years. ^9-30
+
+**9:31** Solomon slept with his ancestors and was buried in the city of his father David, and his son Rehoboam succeeded him. ^9-31
+
+[[NRSVue 2 Chronicles 08|← 2 Chronicles 8]] · [[NRSVue|index]] · [[NRSVue 2 Chronicles 10|2 Chronicles 10 →]]

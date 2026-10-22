@@ -1,0 +1,32 @@
+filters:
+  and:
+    - file.folder.startsWith("Catalog/")
+    - type != "index"
+    - file.folder != "Catalog/Scholars"
+views:
+  - type: table
+    name: By author
+    groupBy:
+      property: author
+      direction: ASC
+    order:
+      - file.links
+      - language
+      - file.name
+      - files
+    sort:
+      - property: file.links
+        direction: ASC
+      - property: title
+        direction: ASC
+    columnSize:
+      file.links: 119
+      note.language: 156
+  - type: cards
+    name: View
+    order:
+      - file.name
+      - author
+    sort:
+      - property: file.name
+        direction: ASC

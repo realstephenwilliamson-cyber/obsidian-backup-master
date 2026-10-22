@@ -1,0 +1,23 @@
+---
+type: "lexicon"
+work: "Greek NT Lexicon (MorphGNT)"
+lemma: "Λιμήν"
+part_of_speech: "noun"
+count: 1
+verses: 1
+strongs: []
+license: "MorphGNT morphology CC BY-SA 3.0; SBLGNT text CC BY 4.0; Dodson lexicon public domain (CC0)"
+source:
+  - "https://github.com/morphgnt/sblgnt"
+aliases:
+  - "Λιμήν"
+---
+# Λιμήν
+
+[[Greek NT Lexicon (MorphGNT)]] · noun
+
+**1** occurrence in 1 verse of the SBL Greek New Testament (MorphGNT lemmatization).
+
+## Λιμένας (1)
+
+*noun, accusative plural masculine* (1): [[Acts 27#^27-8|Acts 27:8]]

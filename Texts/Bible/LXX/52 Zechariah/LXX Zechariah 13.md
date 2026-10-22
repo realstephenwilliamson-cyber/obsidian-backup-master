@@ -1,0 +1,39 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Zechariah"
+english_book: "Zechariah"
+chapter: 13
+aliases:
+  - "Zechariah 13"
+---
+# LXX Zechariah 13
+
+← [[LXX Zechariah 12]] · [[LXX]] · [[LXX Zechariah 14]] →
+
+*Zechariah · [[LXX]]*
+
+**13:1** In that day every place shall be opened to the house of David and to the inhabitants of Jerusalem for removal and for separation.[^1]  ^13-1
+
+**13:2** And it shall come to pass in that day, saith the Lord of hosts, *that* I will utterly destroy the names of the idols from off the land, and there shall be no longer *any* remembrance of them: and I will cut off the false prophets and the evil spirit from the land.  ^13-2
+
+**13:3** And it shall come to pass, if a man will yet prophesy, that his father and his mother which gave birth to him shall say to him, Thou shalt not live; for thou hast spoken lies in the name of the Lord: and his father and his mother who gave him birth shall bind him as he is prophesying.  ^13-3
+
+**13:4** And it shall come to pass in that day, *that* the prophets shall be ashamed every one of his vision when he prophesies; and they shall clothe themselves with a garment of hair, because they have lied.  ^13-4
+
+**13:5** And *one* shall say, I am not a prophet, for I am a tiller of the ground, for a man brought me up *thus* from my youth.  ^13-5
+
+**13:6** And I will say to him, What are these wounds between thine hands? and he shall say, *Those* with which I was wounded in my beloved house.[^2]  ^13-6
+
+**13:7** Awake, O sword, against my shepherds, and against the man *who is* my citizen, saith the Lord Almighty: smite the shepherds, and draw out the sheep: and I will bring mine hand upon the little ones.[^3]  ^13-7
+
+**13:8** And it shall come to pass, *that* in all the land, saith the Lord, two parts thereof shall be cut off and perish; but the third shall be left therein.  ^13-8
+
+**13:9** And I will bring the third *part* through the fire, and I will try them as silver is tried, and I will prove them as gold is proved: they shall call upon my name, and I will hear them, and say, This is my people: and they shall say, The Lord *is* my God.  ^13-9
+
+[^1]: 13:1 *Or,* departure.
+[^2]: 13:6 *Alex.* The house of my beloved.
+[^3]: 13:7 *Alex.* shepherd.

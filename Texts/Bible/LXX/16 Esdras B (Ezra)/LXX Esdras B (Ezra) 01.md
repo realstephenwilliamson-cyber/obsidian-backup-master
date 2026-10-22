@@ -1,0 +1,40 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Esdras B (Ezra)"
+english_book: "Ezra"
+chapter: 1
+aliases:
+  - "Ezra 1"
+  - "LXX Ezra 01"
+---
+# LXX Esdras B (Ezra) 01
+
+[[LXX]] · [[LXX Esdras B (Ezra) 02]] →
+
+*Esdras B (Ezra) · [[LXX]]*
+
+**1:1** NOW in the first year of Cyrus king of the Persians, that the word of the Lord by the mouth of Jeremias might be fulfilled, the Lord stirred up the spirit of Cyrus king of the Persians, and he issued a proclamation through all his kingdom, and that in writing, saying,  ^1-1
+
+**1:2** Thus said Cyrus king of the Persians, The Lord God of heaven has given me all the kingdoms of the earth, and he has given me a charge to build him a house in Jerusalem that is in Judea.  ^1-2
+
+**1:3** Who *is* there among you of all his people? for his God shall be with him, and he shall go up to Jerusalem that is in Judea, and let him build the house of the God of Israel: he *is* the God that is in Jerusalem.  ^1-3
+
+**1:4** And *let* every *Jew* that is left *go* from every place where he sojourns, and the men of his place shall help him with silver, and gold, and goods, and cattle, together with the voluntary offering for the house of God that is in Jerusalem.  ^1-4
+
+**1:5** Then the chiefs of the families of Juda and Benjamin arose, and the priests, and the Levites, all whose spirit the Lord stirred up to go up to build the house of the Lord that *is* in Jerusalem.  ^1-5
+
+**1:6** And all that were round about strengthened their hands with vessels of silver, with gold, with goods, and with cattle, and with presents, besides the voluntary offerings.  ^1-6
+
+**1:7** And king Cyrus brought out the vessels of the house of the Lord, which Nabuchodonosor had brought from Jerusalem, and put in the house of his god.  ^1-7
+
+**1:8** And Cyrus king of the Persians brought them out by the hand of Mithradates the treasurer, and he numbered them to Sasabasar, the chief man of Juda.  ^1-8
+
+**1:9** And this *is* their number: thirty gold basons, and a thousand silver basons, nine and twenty changes, thirty golden goblets,  ^1-9
+
+**1:10** and four hundred *and* ten double silver *vessels*, and a thousand other vessels.  ^1-10
+
+**1:11** All the gold and silver vessels were five thousand four hundred, *even* all that went up with Sasabasar from the *place of* transportation, from Babylon to Jerusalem.  ^1-11

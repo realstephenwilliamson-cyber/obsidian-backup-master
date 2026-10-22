@@ -1,0 +1,35 @@
+---
+type: "text"
+work: "Tantrāloka"
+author: "Abhinavagupta"
+commentary: "Jayaratha, Viveka"
+chapter: 36
+verse: 3
+edition: "Kashmir Series of Texts and Studies (KSTS), as transcribed by Muktabodha (M00093)"
+license: "CC BY-NC 4.0, Muktabodha Indological Research Institute"
+aliases:
+  - "TĀ 36.3"
+  - "TA 36.3"
+  - "Tantrāloka 36.3"
+---
+[[Tantraloka 36.002|← 36.2]] · [[Tantraloka 36 - Ayatikramanirupana|Āhnika 36]] · [[Tantraloka 36.004|36.4 →]]
+
+## Mūla
+
+एतैस्ततो गुरुः कोटिमात्रात् पादं वितीर्णवान् ।
+दक्षादिभ्य उभौ पादौ संवर्तादिभ्य एव च ॥ ^mula
+
+etaistato guruḥ koṭimātrāt pādaṃ vitīrṇavān |
+dakṣādibhya ubhau pādau saṃvartādibhya eva ca || ^iast
+
+## Translation
+
+> [!source] Dyczkowski, vol. XI
+> [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 11 (Dyczkowski)/Tantraloka Dyczkowski v11 10 - Chapter Thirty-Six#^pg238|p. 220]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 11.pdf#page=238>))
+>
+> (This is the transmission) taught in the venerable Siddhā and other (Tantras) (my) teacher has described. (The first to transmit it was) Bhairava, (then the following received and transmitted it successively:) 2) the goddess Bhairavī, 3) Svacchanda, 4) Lākula, 5) Aṇurāṭ (the Lord of the Souls), 6) Gahaneśa, 7) Abjaja (Brahmā, the Lotus Born One), 8) Śakra and 9) Bṛhaspati. (The scripture originally) extended to 1) 90,000,000 (verses). 2-9) 10,000,000 (verses) less (of it) was studied successively by (each of one of) these nine. Then Bṛhaspati out of the mere 10,000,000 (verses he had received) transmitted 10) a quarter (2,500,000) to Dakṣa and the rest, 11) both quarters to Saṁvarta and the rest, 12) a quarter to Vāmana etc (2,500,000), 13) half a quarter (1,250,000) to Bhārgava, 14) a quarter of a quarter to Bali (625,000), 15) a half of the other quarter of a quarter to Siṁha (312,500), 16) then two parts (bhāga) of what remained to Garuḍa (104,167), 17) one part to the snake Vāsuki (52,083). (Up to this point,) these sections (khaṇḍa) number seventeen. Now 18) Rāvaṇa stole half from heaven (78,125). (Then) from that 19) Rāma also (obtained) half from Vibhīṣana’s mouth (78,125). Thus, that (scripture which was transmitted) successively from teacher to disciple in the prescribed manner was divided into nineteen parts (khaṇḍa). (with 36.1–7ab)
+
+## Viveka
+
+Jayaratha comments on this verse together with 36.6: see [[Tantraloka 36.006#Viveka|36.6]].
+

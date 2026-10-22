@@ -1,0 +1,2809 @@
+---
+type: book-section
+book: "[[Forgery and Counterforgery (Ehrman)]]"
+order: 20
+page_range: "591–622"
+---
+[[Forgery and Counterforgery 19 - Index of Ancient Sources|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]] · [[Forgery and Counterforgery 21 - Index of Modern Scholars|next →]]
+
+[p. 591]
+
+## INDEX OF SUBJECTS
+
+This **Subject** index includes general concepts, including a topical guide to ancient sources. For specific ancient sources organized by book, chapter and verse, refer to the **Ancient**
+
+**Sources** index found on pages 575–589.
+
+For modern scholars, refer to the **Modern Scholars** index found on pages 623–628.
+
+- Abamon, 30, 46
+- Abgar Correspondence
+    - anti-Jewish sentiments of, 152, 362–66
+    - anti-Manichaean sentiments of, 153, 455–58
+    - as apologia, 101–2
+    - authorship of, 2
+    - as counterforgery, 456
+    - on Didymus Judas Thomas, 230
+    - scholarly perspectives on, 4
+- Abraham, 72, 292, 296 n. 26, 482
+- acrostics, 127–28
+- Acts of Ignatius (Antiochene Version), 506–8
+- Acts of John, 411, 431, 433, 438
+- Acts of Paul
+    - authenticity of, challenged, 76
+    - authorship of, 379, 379 n. 17
+    - and 3 Corinthians, 426–27
+    - eschatological theme of, 236
+    - as fabrication, 379–80
+    - on lion incident, 381, 382
+    - motivation of author, 132–33
+    - and Pastoral epistles, 379–84, 382 n. 21
+    - and 2 Timothy, 381
+- Acts of Paul and Thecla, 76, 84
+- Acts of Peter, 60, 75, 89, 143
+- Acts of Peter and Paul, 360
+- Acts of Philip, 398
+- Acts of Pilate (Christian version), 350–58
+    - as apologia, 101, 153, 354–58, 483, 484–85
+    - dating of, 353, 353 n. 71
+    - and Letter of Herod to Pilate, 361
+    - patristic references to, 351–53
+    - as refutation of pagan version, 105, 354, 355, 357, 485
+- Acts of Pilate (pagan version)
+    - Christian refutation of, 105, 354, 355, 357, 485
+    - Eusebius on, 140, 352–53, 354, 484
+    - historical problems in, 140
+    - and persecution of Christians, 352–53, 354, 357
+- Acts of the Apostles, 263–82
+    - and Acts of Ignatius, 507
+    - as apologia, 481–83
+    - on apostolic harmony, 257–58, 307
+    - authorship of, 88, 264, 265, 267, 268, 276, 277–80, 278 n. 107, 282, 425
+    - and Barnabas, 317
+    - on crucifixion, 418
+    - as embedded forgery, 264–65
+    - eyewitness claim of, 270 n. 81, 270–79, 280
+    - fabrications present in, 59–60
+    - on Herod Agrippa, 361, 488
+    - and illiteracy of Peter, 245 n. 23
+    - and James, 263–64, 288, 307
+    - [p. 592] on Jerusalem conference, 257, 263–64, 307, 391–92
+    - and Jewish identity, 288
+    - and Jewish Law, 263, 281, 288
+    - Letter to the Galatians compared to, 257
+    - and Letters of Paul and Seneca, 521
+    - narrative voice in, 265–66, 266 n. 64, 268–279, 270 n. 79, 280, 280 n. 111
+    - as non-pseudepigraphic forgery, 149
+    - on Paul’s authority, 152, 264, 280–82
+    - on Paul’s ministry, 202, 263, 280
+    - and persecution of Christians, 241, 257–58, 482
+    - and Peter, 263–64, 307, 315 n. 71
+    - and Peter–Paul relationship, 251 n. 41, 257, 262, 263–64, 267, 281, 297, 307, 308
+    - purposes of, 280–82
+    - and Recognitions counterforgery, 313, 314, 318–20, 319 n. 82
+    - and source documents of author, 267–69
+    - and substitutionary atonement, 253
+    - on suffering, 257–58, 263
+    - and 1 Timothy, 373 n. 8
+    - and Timothy (Paul’s associate), 210
+    - writing style of, 265–66, 266 n. 64, 268 n. 70, 268–70
+- Acts of Thecla, 60, 384, 495
+- Acts of Thomas, 230, 390 n. 43
+- Adamantius, 49
+- Addai Legend, 457–58, 458 n. 17
+- admissions of guilt, 93 n. 2
+- adoptionists and adoptionism, 5, 50, 60, 472, 491, 493
+- Adversus Fulgentium Donatistam (Augustine), 51 n. 54
+- Adversus Haereses (Irenaeus), 58
+- Adversus Helvidium (Jerome), 121
+- Adversus Marcionem (Tertullian), 142
+- Adversus omnes haereses (Tertullian), 51, 149
+- Aeschines, 53, 70, 70 n. 2
+- Aeschylus, 66
+- Akhmim fragment
+    - of Apocalypse of Peter, 272, 445–46
+    - of Gospel of Peter, 326, 327, 327 n. 8
+- Alcibiades (Antisthenes), 53
+- Alexander (opponent of Paul), 380
+- Alexander, Lucian’s infamous “False Prophet,” 99, 125
+- Alexander, son of Herod, 71, 85, 99
+- Alexander the Great, 71, 99, 101
+- Alexandria Library, 80, 97
+- Alexandrians, 2, 75, 91, 149, 150
+- allegiances in Jewish culture, 39–42
+- Allegory of the Cave, 414
+- allonymity, 33 n. 8, 212 n. 32
+- allopigraphy, 33 n. 8, 212 n. 32
+- Ambrosiaster, 81
+- Ammonius, 79
+- Amos, 70
+- Anabasis (Themistogenes), 30
+- anachronisms and historical problems, 139–140
+- Anaphora Pilati, 358–59, 360, 361
+- Anastasius, Pope, 83
+- Anaximenes, 102
+- Andrew, 271, 328, 397, 438
+- Anecletus, 310
+- angels
+    - in Epistle of Jude, 303 n. 49, 303–5
+    - in Letter to the Colossians, 180–81, 261, 304
+- anonymous writing, 49–50
+    - false attributions of, 30, 50–52, 75
+    - prevalence of, 1
+    - and redactional forgeries, 34–35
+- anti-christs, 419–420
+- anti-Jewish sentiments and forgeries, 323–66
+    - Abgar Correspondence, 152, 362–66
+    - Acts of Pilate, 350–58
+    - Anaphora Pilati, 358–59, 360, 361
+    - Apocalypse of Paul, 453–54
+    - Ascension of Isaiah, 332–38
+    - Didascalia Apostolorum, 152, 344–50
+    - Gospel of Peter, 152, 324–32
+    - Gospel of Thomas, 338–44, 344 n. 51
+    - and Jesus, 328–332, 337, 338–44, 344 n. 51, 354–58
+    - Letter of Herod to Pilate, 361–62
+    - Letter of Pilate to Claudius, 359–61
+    - Letter of Pilate to Herod, 362
+    - Letter to the Hebrews, 323 n. 2
+- antinomianism, 301–3, 303 n. 48, 304, 305
+- Antioch incident
+    - conflict in, 257, 261 n. 61, 264
+    - Galatians on, 257, 307, 308, 316, 543
+    - [p. 593] and Homilies, 316
+    - and Jewish identity, 287
+    - and Jewish Law, 261–62, 307, 308
+    - and Johnson’s case, 290
+- Antiochians (Pseudo-Ignatius)
+    - on church offices, 463
+    - polemical targets of, 476, 479
+    - scholarly perspectives on, 462
+    - techniques of forgers in, 469
+    - theological investments of, 470
+    - theological perspectives in, 471–73
+    - Ussher’s exposure of, 461
+- Antisthenes, 44, 70
+- Antonius Gnipho, 108
+- Antony, 99
+- Apion, 144
+- Apocalypse of Adam, 20
+- 1 Apocalypse of James, 284, 409, 531
+- 2 Apocalypse of James, 284, 409, 531
+- Apocalypse of John
+    - and Ascension of Isaiah, 336–37
+    - authenticity of, challenged, 75, 76
+    - and criteria for authentication, 142
+    - curse in conclusion of, 66
+    - Dionysius on, 88–89
+    - eschatological theme of, 167, 229
+    - and homonymity issue, 48
+    - prophecies of, 74 n. 16
+    - writing style of, 139
+- Apocalypse of Paul
+    - afterlife narrative of, 453 n. 137
+    - anti-Jewish sentiments of, 453–54
+    - authorship of, 2
+    - dating of, 451–52, 453 n. 138
+    - on the flesh, 153, 451–54
+    - techniques of forgers in, 123, 125
+- Apocalypse of Peter
+    - afterlife narrative of, 447–48
+    - Akhmim fragment, 272, 445–46
+    - authenticity of, challenged, 75
+    - authorship of, 2, 449–51
+    - as counterforgery, 447
+    - and criteria for authentication, 89, 143
+    - dating of, 445, 446–47
+    - discovery of, 445, 445 n. 110
+    - on the flesh, 153, 449, 450–51
+    - and Gospel of Mark, 447
+    - and Gospel of Peter, 445
+    - narrative voice in, 272, 274
+    - polemics of, 449, 454
+    - techniques of forgers in, 123
+- Apocalypse of Peter, Coptic
+    - accounts of Jesus in, 225, 401–4
+    - anti-institutional polemic of, 401–4, 404 n. 99
+    - dating of, 401, 404 n. 100
+    - eschatological theme of, 403–4
+    - on false teachers, 411–12
+    - on the flesh, 152, 407–12, 450–51
+    - and Gospel of Mark, 408
+    - narrative voice in, 272, 274
+    - and 1 Peter, 408
+    - and 2 Peter, 403 n. 94, 403–4, 408
+    - and *Vergegenwärtigung* tradition, 41–42
+- apocalypses
+    - anti-apocalyptic message of Thomas, 230–37
+    - authorial attribution of, 73
+    - extent of forgeries among, 149
+    - Jewish apocalypses, 72 n. 10, 72–74
+    - and motivations of forgers, 335
+    - as renewal of creation, 232–34, 234–35
+    - techniques of forgers in, 123
+    - and *Vergegenwärtigung* tradition, 41
+    - *See also specific* apocalypses
+- Apocalypses of Adam, 19
+- apocryphal writings
+    - Apocryphal Acts, 60
+    - Apocryphon of James, 272, 284, 306, 404 n. 99
+    - Apocryphon of John, 272, 274, 437, 531
+    - extent of forgeries among, 149
+- Apollinarians and Apollinarianism, 64–65, 393, 464, 467, 478, 478 n. 72
+- Apollo, 99, 125
+- apologia, 481–527
+    - on behavior of Christians, 483–84
+    - on Judaism, 100–101, 482–83
+    - as motivation of forgers, 100–102, 102 n. 36
+    - on suffering, 483, 484
+    - term, 482 n. 1
+    - works of apologia
+
+        - Acts of Ignatius (Antiochene Version), 506–8
+
+        - Acts of the Apostles, 481–83
+
+        - 1 Apology, 325, 326, 351, 542
+
+        - 2 Apology, 508
+
+        - [p. 594] Apology of Apuleius, 141
+
+        - Apology to Anastasius, 65
+
+        - Christian Creations, 512–13
+
+        - Christian Interpolations, 510–12
+
+        - Letters of Paul and Seneca, 520–27
+
+        - Martyrdom of Marian and James, 505–6
+
+        - Martyrdom of Montanus and Lucius, 506
+
+        - Martyrdom of Pionius, 504–5
+
+        - Martyrdom of Polycarp, 153, 483, 493–502
+
+        - Passion of Perpetua, 502–4
+
+        - 1 Peter, 483–84
+
+        - Protevangelium Jacobi, 60, 153, 485–93
+
+        - Sibyllina as apologetic forgeries, 513–19
+
+- 1 Apology (Justin), 325, 326, 351, 542
+- 2 Apology (Justin), 508
+- apostles
+    - absolution of, 482
+    - Antioch incident (*see* Peter–Paul relationship)
+    - apostolic succession, 16, 321, 531–32
+    - authority of, 120, 378–79, 385, 386, 531–32
+    - and church offices and hierarchy, 378–79
+    - and Jerusalem conference
+
+        - alignment of apostles at, 257, 263–64, 307
+
+        - Didascalia Apostolorum on, 345 n. 55, 347, 349, 391–92
+
+        - discrepancies regarding, 267
+
+        - motivations for, 347, 349
+
+    - and Paul, 257, 263, 267, 281
+    - the twelve, 15
+    - and unity in church leadership, 257–59, 263
+    - writings of
+
+        - appearance of forgeries among, 2
+
+        - and authorial spirit of God, 38–39
+
+        - authority of, 87–88, 120 n. 92, 120–21, 143, 532
+
+        - fabrications in, 59
+
+        - lineage considerations, 143–45
+
+        - post-death appearance of, 82
+
+        - and *Vergegenwärtigung* tradition, 40
+
+        - *See also* Apostolic Constitutions; Didascalia Apostolorum
+
+    - *See also specific apostles, including* James, Paul *and* Peter
+- Apostolic Canons, 152, 391
+- Apostolic Church Order, 152, 396–98, 397 nn. 77–79
+- Apostolic Constitutions
+    - apostolic authority of, 391, 395
+    - Arian doctrines in, 393–95
+    - authorship of, 14–16, 150, 394–96, 463, 464–65
+    - on bishop succession, 311
+    - character of, 391–93
+    - on church organization and leadership, 152, 390–96
+    - component texts of, 14, 55, 390–91
+    - condemnation of forgery by, 16 n. 16, 17–19, 18 n. 23
+    - as counterforgery, 151
+    - dating of, 392
+    - narrative voice in, 273
+    - plagiarism case for, 14, 55, 384, 384 n. 25
+    - polemics of, 385–86, 395
+    - redactional analysis of, 392
+    - scholarly perspectives on, 4
+    - on Sibylla, 515
+    - techniques of forgers in, 126
+    - theology of, 393–95
+    - warnings against forgeries in, 16 n. 16, 16–19, 126, 150, 395–96
+- Apostolic Tradition, 14, 55, 384, 387–88
+- Apuleius, 103–4, 167
+- Araspes the Lover of Panthea (Celer), 138
+- Archippus, 174
+- Archytas the Tarentine, 109
+- Arian, 119
+- Arianism
+    - in Apostolic Constitutions, 393–95
+    - in Job Commentary, 394, 464, 465–66, 475, 478–79
+    - of Julian, 464, 466 n. 52, 467–68, 474–75, 476, 478, 479
+    - in Pseudo-Clementine writings, 458–460
+    - in Pseudo-Ignatian letters, 153, 394, 466, 467, 468, 474–75, 479
+    - term, 474–75, 475 n. 62
+- Aristaeus of Proconnesus, 50
+- Aristeas, Letter of, 66, 71, 100
+- Aristippus, 44, 70
+- Ariston of Chios, 47
+- Ariston of Smyrna, 248
+- Ariston the Peripatetic, 47
+- [p. 595] Aristophanes, 47, 53–54
+- Aristotle, 79, 135
+- Aristotle the Younger, 110
+- Arius, 466, 475, 475 n. 62
+- Arius, King of Sparta, 100–101
+- Arrian, 115
+- Artemilla, 381
+- Ascension of Isaiah
+    - anti-Jewish sentiments of, 337–38
+    - authorship of, 34 n. 10, 264, 334–35, 337
+    - on church-related topics, 152
+    - as counterforgery, 400
+    - embedded forgery in, 34, 264, 334–35
+    - on leadership of Christian community, 398–400, 399 n. 87
+    - sources of, 333–34
+    - on status of Jews, 152
+    - techniques of forgers in, 123
+    - themes of, 332–33
+    - theology of, 335–37
+    - writing style of, 334
+- Asclepeius, 99, 125
+- Asconius, 99, 102
+- Athanasius, 64–65, 75, 82, 544–45
+- Athenaeus, 47, 50–51, 84
+- Athenodorus, 62, 84, 118
+- Atieus Philologus, 108
+- attitudes toward forgery
+    - as accepted literary practice, 78–79
+    - of authors, 66–67, 81–83
+    - of critics and intellectuals, 118
+    - in honoring one’s patron, 118, 532
+    - and intellectual property, 78–81
+    - as lies and deceits, 29, 85, 134–35, 532
+    - and morality questions, 546
+    - and terms for forgery, 29–32, 85
+- Augustine
+    - on absence of writings by Jesus, 365
+    - Adversus Fulgentium Donatistam, 51 n. 54
+    - on Apocalypse of Paul, 452
+    - and apologetic forgeries, 101
+    - and authenticity disputes, 75
+    - on authority of canonical Gospels, 120, 120 n. 92
+    - on books of the Hippocratic corpus, 86–87, 117
+    - City of God, 516, 519
+    - Contra Felicianum Arianum, 51 n. 54
+    - Contra mendacium, 535–37
+    - and criteria for authentication, 91–92, 140, 144–45
+    - De mendacio, 535–37
+    - on disputed authorship, 75
+    - and forged letters, 83, 140
+    - on Jesus’ letter to Peter and Paul, 75
+    - on letters of Paul and Seneca, 520
+    - on lying, 134–35, 535–37, 542
+    - and Manichees, 456
+    - on motivations of forgers, 119
+    - oracles of, 509
+    - on Passion of Perpetua, 502–3, 503 n. 58
+    - prophylaxes of, 127
+    - on scriptural integrity, 546–47
+    - on Sibylline counterforgeries, 352–53
+    - on Sibyls, 516
+    - writings in name of, 2, 51, 51 n. 54, 121, 150, 167
+- Augustus, 99, 102, 509
+- Aulus Gellius, 80, 119, 138
+- Aurelian (Pseudo-Spartians), 26
+- authorial spirit of God, 38–39
+- authority of authors, 85–92
+    - authoritative tradition, 42
+    - and discovery narratives, 125
+    - and imperative of authenticity, 85–92, 117, 137
+    - as justification of forgers, 133
+    - and lines of descent, 143
+    - as motive of forgers, 119–21, 150–51, 153
+- Babylon, 241–42
+- baptism practices, 404–6
+- Bar Hebraeus, 452
+- Barcoph, 75
+- Barnabas (apostle), 52, 263, 317–18
+- Barnabas, Epistle of, 52, 75, 149, 163, 331–32, 338
+- Barth, Markus, 176n41
+- Bartholomew, 397
+- Baruch (biblical figure), 72, 73
+- Baruch, Syriac, 241–42
+- Basil, 2, 75, 150, 545
+- Basil of Caesarea, 477
+- Basilides, 75, 404, 461
+- Basilides, gospel of, 411, 546 n. 41
+- bastards, 32
+- “Beggars” (Chionides), 50–51
+- Birth of Mary, 19, 20
+- [p. 596] bishops, 309–12, 387
+- Blessed Virgin letter, 460
+- Bodmer papyri, 426, 427
+- Book of the Watchers, 303
+- Book of Thomas the Contender, 152, 412–15, 413 n. 9, 418, 431, 439
+- Books of Seth, 19
+- Brontinus, 86
+- Brutus, 93 n. 2, 219, 219 n. 53
+- Cadmus of Miletus, 50
+- Caiaphas, 314
+- Callimachus, 80
+- canon, 2, 19, 32 n. 8, 89, 143–45
+- Capernaum, 245 n. 24, 245–46
+- Carpocratians, 23, 58
+- Cassian, John, 538–39
+- Castellius, 380
+- Catalogue of Ships, 62
+- Catilina, 99
+- Celer, 138
+- Celsus
+    - on Christian Sibylline Oracles, 84, 100, 516–17
+    - criticism of Christianity, 23, 60
+    - on deception by God, 542–43
+    - and Protevangelium Jacobi, 5, 151, 488, 489–91
+- Cephas, 287, 290, 397
+- Cercops, 86
+- Cerinthus, 75, 76, 142, 420, 436
+- character defamation, 102–4
+- Christian Acts of Pilate. *See* Acts of Pilate (Christian version)
+- “Christian” identification and persecution, 241
+- Chrysostom, John
+    - on book of James, 284 n. 1
+    - on deception, 135, 545–46
+    - on Jewish holidays, 480
+    - on Letter to the Laodiceans, 441
+    - writings in name of, 51, 150, 532
+- Church History (Theodoret), 544
+- church orders, 384–98
+    - about, 384–87
+    - apostolic character of, 385, 386
+    - appearance of forgeries among, 149–150, 152
+    - on Easter celebrations, 388
+    - polemical function of, 384–87
+    - on the role of the bishop, 387
+    - on women in the church, 388–90, 396–98
+    - *See also* Apostolic Canons; Apostolic Church Order; Apostolic Constitutions; Apostolic Tradition; Didache; Didascalia Apostolorum; Epistula Apostolorum; Epistula Clementis
+- church organization and leadership related forgeries, 367–406
+    - Acts of Paul, 379–384
+    - on apostolic authority, 390–96
+    - on baptism practices, 404–6
+    - on charismatic-to-orthodox transition, 398–400
+    - on church offices and hierarchy, 377 n. 15, 377–79
+    - on Easter celebrations, 388
+    - on false teachers, 369–74
+    - Pastoral epistles, 152, 203–5, 208, 367–84, 400
+    - on prophesy, 399, 400
+    - on proto-orthodox leadership, 398–400, 401–4, 404–6
+    - Pseudo-Ignatian letters on, 479
+    - revelatory texts, 398–406
+    - on the role of the bishop, 387
+    - on women in the church, 374–77, 376 n. 15, 381, 383–84, 388–90, 396–98
+    - *See also* church orders
+- Cicero
+    - on discovery narratives, 125–26
+    - on Epicurus, 103
+    - politically-motivated forgeries, 99, 102
+    - on rhetoricians’ lies, 56, 541
+    - and secretary hypothesis, 219–22
+- Cinaethon, 61
+- City of God (Augustine), 516, 519
+- Claudius I, 359–361
+- Clement of Alexandria
+    - on Apocalypse of Peter, 446, 447
+    - on the flesh, 418
+    - on letter ascribed to Barnabas, 52
+    - on Letter to the Hebrews, 49
+    - on Luke’s authorship of Acts, 277
+    - on Mary, Mother of Jesus, 486
+    - on Onomacritus, 61–62
+    - and pagan criticism, 86
+    - on Paul’s deceptions, 542
+    - [p. 597] on Sibyls and oracles, 516
+    - on 1 and 2 Timothy, 74, 76, 193
+- Clement of Rome
+    - and Apostolic Constitutions, 15–17, 19, 392, 393, 395
+    - and authenticity disputes, 74–75, 76
+    - and Barnabas, 317
+    - and Epistula Petri, 305
+    - and Hebrews, 88
+    - ordination of, 309, 310 nn. 61–62
+    - and Paul, 311, 318
+    - and Peter, 309, 310, 310 n. 61, 311, 318
+    - writings in name of, 1, 75, 144, 532
+
+        - (*see also* Epistula Clementis; Homilies; Recognitions)
+
+- 1 Clement
+    - and Apostolic Constitutions, 17
+    - authorship of, 75 n. 20
+    - and 1 Corinthians, 430
+    - false attribution of, 149
+    - on the flesh, 430, 430 n. 67
+    - on ministry of Paul, 309
+    - on Peter–Paul relationship, 311
+    - and unity in church leadership, 258
+- 2 Clement, 17, 75, 89, 144
+- Clementine Octateuch, 150, 385
+- Cleobius, 18, 126, 349, 427–28
+- coauthorship theory, 212–13, 213 n. 39, 220–21
+- codex Claramontanus, 447
+- codex Fuldensis, 440
+- Cohortatio ad Graecos (Justin), 51, 149, 514–15
+- Colossae community, 178 n. 47, 180–81, 182, 261
+- Colossians, 171–182
+    - on angel worship, 180–81, 261, 304
+    - authorship of, 172–74
+    - as counterforgery, 182
+    - dating of, 155 n. 1
+    - on deception, 541
+    - as earliest forged writing, 171
+    - Ephesians compared to, 172, 174, 183–84, 186, 188 n. 71, 189–190
+    - Epistle of Jude compared to, 304
+    - eschatological theme of, 152, 170 n. 30, 171, 176–77, 177 n. 42, 178, 181, 181 n. 53, 216, 228, 236, 262
+    - evidence of forgery, 174 n. 39, 174–78, 178 n. 44
+    - on false teachers, 179–82
+    - and Letter to the Laodiceans, 105, 441, 443–44
+    - and motivations of forgers, 106
+    - and secretary hypothesis, 219, 220
+    - theology of, 177
+    - writing style of, 161, 162, 174–76, 176 n. 41, 183–85
+- Commentary on John (Origen), 71 n. 6, 544
+- Commentary on Matthew (Origen), 486
+- commissioned writings, 221, 248
+- “Concerning the Genuine and Forged Writings of Hippocrates” (Galen), 116–17
+- Conferences (Cassian), 538–39
+- Constantine, 517 n. 85, 517–18, 530
+- Contra Celsum (Origen), 338, 516–17, 542–43
+- Contra Felicianum Arianum (Augustine), 51 n. 54
+- Contra mendacium (Augustine), 535–37
+- Contra Sabellianos et Arium et Anomoeos (Basil of Caesarea), 477
+- controversies, forgeries arising from, 455–80
+    - Abgar Correspondence, 455–58
+    - Pseudo-Clementine literature, 458–60
+    - *See also* Pseudo-Ignatian letters
+- Coptic Apocalypse of Peter. *See* Apocalypse of Peter, Coptic
+- Coptic Gospel of Thomas. *See* Thomas, gospel of
+- copyists and recopying process, 61, 62 n. 82, 64–67
+- Corinthian congregation
+    - apocalyptic concerns of, 155, 176
+    - church organization and leadership in, 400
+    - and 1 Clement, 311
+    - and 3 Corinthians, 427
+    - leadership in, 258
+    - opposition to Paul in, 216, 236, 281, 427
+    - organization of, 203–5
+- 1 Corinthians
+    - absence of “borrowings” in, 160
+    - and 1 Clement, 430
+    - on conflicting viewpoints, 173
+    - and 3 Corinthians, 428–29
+    - Epistle of James compared to, 293 n. 19
+    - eschatological theme of, 151, 155, 163, 164–65, 178, 185, 216
+    - on false teachers, 207
+    - [p. 598] on the flesh, 431
+    - on foods, 208
+    - on forgiveness of sins, 177 n. 43
+    - and Gospel of Thomas, 232
+    - interpolations in, 376–77, 377 n. 14
+    - and intertextual interpretations, 376
+    - on James (apostle), 290
+    - on marriage and sexual relations, 372
+    - narrative voice in, 271
+    - on salvation, 187 n. 69
+    - 2 Thessalonians compared to, 171
+    - and 1 Timothy, 376
+    - on women in the church, 374–75, 376, 384
+    - writing style of, 162, 176, 185
+- 2 Corinthians
+    - absence of “borrowings” in, 160
+    - and 3 Corinthians, 428–29
+    - on faith, 254, 299 n. 33
+    - on forgiveness of sins, 177 n. 43
+    - narrative voice in, 96, 271
+    - on “Satan,” 185 n. 67
+    - writing style of, 162, 176, 185
+- 3 Corinthians
+    - and Acts of Paul, 426–27
+    - and apostolic authority, 17
+    - component texts of, 427, 427 n. 54
+    - as counterforgery, 431
+    - and Didascalia Apostolorum, 349
+    - on false teachers, 215, 427–28
+    - on the flesh, 152, 425–32, 430 n. 67
+    - and Gospel of Mark, 430
+    - intention to deceive in, 32
+    - themes of, 427–28
+    - and *Vergegenwärtigung* tradition, 40
+- Corpus Paulinum, 183
+- Council of Laodicea, 461
+- counterfeit writings, 32
+- counterforgery, definition of, 4, 27, 151
+- critics and criticism
+    - and authority of authors, 85–92
+    - commonplace nature of, 50
+    - and criteria for authentication, 88–92
+    - detection of forgeries by, 137, 143
+    - and Ephesians, 188
+    - and extent of forgery phenomenon, 74–77
+    - motives of, 79, 85–86
+    - objections to forgery, 118
+    - practices of, 80 n. 43
+- Cross Gospel, 328, 328 n. 14
+- curses, literary, 66–67
+- Cyprian, 25, 50, 75, 120, 128, 140, 506
+- Damasus, 64
+- Daniel (patriarch), 39, 40, 73
+- Daniel, book of, 71, 73, 123, 140, 334–35
+- David (patriarch), 79, 548
+- David (sixth-century Christian Neoplatonist), 119
+- De baptismo (Tertullian), 59, 84, 133, 379, 383
+- De consensu evangelistarum (Augustine), 75, 92, 104, 140
+- De cultu feminarum (Tertullian), 72, 86, 140
+- De duplici martyrio (Cyprian), 25
+- De ecclesiastica theologia (Eusebius), 475, 477
+- De fato (Minucius Felix), 90
+- De gestus Pelagii (Augustine), 75, 140
+- De glandibus (Hippocrates), 143 n. 152
+- De libris propriis (Galen), 82, 121, 167, 306
+- De mendacio (Augustine), 535–37
+- De monarchia (Justin), 51, 149
+- De principiis (Origen), 65
+- De recta in deum fide (Adamantius), 49
+- De sacerdotio (Chrysostom), 545–46
+- De victu acutorum (Hippocrates), 116
+- De viris illustribus (Jerome), 520
+- Decalogue, 288, 345, 348
+- deceivers who were deceived, 11–14, 16–17, 19
+- deception. *See* lies and deception
+- Decree of Artaxerses, 71
+- defamation of character as motivation of forgers, 102–4
+- Demas, 228 n. 75, 380, 381, 383
+- Demetrius of Magnesia, 47
+- Demetrius of Phaleron to Ptolemy II, Letter of, 71
+- Democritus, 80, 119
+- Demosthenes, 138
+- Derdekeas, 405
+- Descent to Hades (Prodicus of Samos), 86
+- detection of forgeries, criteria for, 137–45
+    - anachronisms and historical problems, 139–40
+    - dogmatism, 141 n. 149
+    - established patterns of usage, 143–45
+    - [p. 599] internal inconsistencies and implausibilities, 140–41
+    - theological *Sachkritik*, 141–42
+    - writing style, 138–39
+- Deuteronomy, 231, 320, 375
+- Deutero-Pauline letters
+    - authorship claims of, 173
+    - and Epistle of James, 295
+    - joint-composition theory of, 213
+    - and motivations of forgers, 106
+    - and Pauline school theory, 172, 172 n. 37, 173–74
+    - and 1 Peter, 248, 250, 252, 254, 255
+    - and secretary hypothesis, 218–22
+    - writing style of, 160–61, 162
+    - *See also* Colossians; Ephesians; 2 Thessalonians
+- Dialogue with Trypho (Justin), 324–26, 338, 344
+- Dictys of Crete, 123
+- Didache
+    - anonymous authorship of, 50
+    - and Apostolic Church Order, 396, 396 n. 72
+    - authorship of, 55, 150
+    - on church organization and leadership, 400
+    - as component of Apostolic Constitutions, 14
+    - polemical function of, 385–86
+    - scholarly perspectives on, 385–86
+- Didascalia Apostolorum, 344–50, 387–90
+    - anti-Jewish sentiments of, 152, 344–50
+    - apostolic character of, 386 n. 34, 386–87
+    - authorship of, 55, 150, 346 n. 60, 346–47
+    - as component of Apostolic Constitutions, 14, 55, 391
+    - as counterforgery, 390
+    - dating of, 344
+    - on Easter celebrations, 388
+    - on Jewish Law, 347–50
+    - polemical function of, 386
+    - redactional analysis of, 344 n. 51, 345 n. 55, 345–46, 347–48
+    - on the role of the bishop, 387
+    - on women in the church, 388–90, 390 n. 43
+- Didymus Judas Thomas (brother of Jesus), 230, 412–15, 457, 458 n. 17
+- Didymus the Blind, 74, 223
+- Diogenes Laertius
+    - and criteria for authentication, 139
+    - on defamation of character forgeries, 102
+    - on falsifying of writings, 62
+    - on Heraclides Ponticus, 11–14, 53
+    - on homonymity issues, 47
+    - on incidence of forgery, 70, 81
+    - on lecture-notes publications, 115
+    - Lives of Eminent Philosophers, 70
+    - on Socrates’ paean, 104
+    - on works written in Pythagoras’ name, 108
+- Diognetus, Letter to, 50
+- Dionysius of Alexandria, 48, 76, 88–89, 139
+- Dionysius of Corinth, 63, 76, 84
+- Dionysius of Halicarnassus, 47, 50, 80, 127, 138, 139
+- Dionysius of Miletus, 138
+- Dionysius Spintharos, 12–14, 26, 103, 128
+- Dionysius the Areopagite, 1
+- Dionysodorus, 70, 104
+- Diophantus, 85
+- Diotimus, 84, 102–3
+- Discourses of Epictetus, 119
+- discovery narratives, 123–26
+- Diviniae Institutiones (Lactantius), 515
+- docetism
+    - and Akhmim fragment, 327
+    - and Apocalypse of Paul, 454
+    - and Apocalypse of Peter, 450
+    - and Ascension of Isaiah, 335–36
+    - and 3 Corinthians, 430–31
+    - and Epistula Apostolorum, 434–36, 436 n. 82
+    - and Gospel of Peter, 90, 142, 324, 327, 450
+    - and Ignatius/Pseudo-Ignatius, 421
+    - and 1 John, 419, 420, 421, 424
+    - and Letter to the Laodiceans, 444
+    - and Melchizedek tractate, 432–34
+    - and Protevangelium Jacobi, 491–92
+    - and Pseudo-Ignatian letters, 467, 471, 472, 474
+- Doctrina Addai, 101, 363, 364, 365, 455, 458 n. 17
+- Domitian, 301
+- Drusiana, 59
+- Easter celebrations, 388
+- Ebion, 461
+- Ebionitism, 474
+- [p. 600] Ecclesiastes, 35, 40, 71 n. 6, 123, 264
+- Ecclesiastical History (Eusebius)
+    - anonymous text cited in, 50
+    - on deception, 544
+    - on persecution of Christians, 352, 353
+    - on Pilate, 358
+    - on Serapion’s condemnation of Gospel of Peter, 90
+    - on Sibylline counterforgeries, 518
+- Echtheitskritik, 79, 80, 84, 119, 137, 141 n. 149
+- Eden, life in, 235
+- Egeria, 364, 457
+- Elias, 79, 112
+- Eliot, George (Mary Anne Evans), 30
+- embedded forgeries, 34, 264–65
+- Empedocles, 54, 81, 115, 118
+- Ennis, 48
+- Enoch (patriarch), 40, 72, 75, 86, 140
+- 1 Enoch
+    - anachronisms and historical problems in, 140
+    - and criteria for authentication, 89–90
+    - and Epistle of Jude, 89–90, 142, 299, 300, 303
+    - survival of the flood, 72, 86, 140
+    - techniques of forgers in, 123
+    - tradition represented by, 73
+- 2 Enoch, 73
+    - Ephesians (Ignatius)
+    - on church hierarchy, 479
+    - and Ignatian corpus, 462
+    - techniques of forgers in, 470
+    - theological perspectives in, 472, 473, 474, 477
+    - verisimilitudes in, 469
+- Ephesians (Pauline), 182–88
+    - Colossians compared to, 172, 174, 183–84, 186, 188 n. 71, 189–90
+    - Epistle of Jude compared to, 304
+    - eschatological theme of, 152, 170 n. 30, 182, 185–87, 186 n. 68, 187 n. 69, 216, 228, 236, 262
+    - on “false teachings,” 189
+    - on forgiveness of sins, 177
+    - on former life of Paul, 211
+    - on grace vs. works, 185, 186, 187, 295, 302
+    - intention to deceive in, 78, 188
+    - on Jewish Law, 186–87, 295, 302
+    - letter structure of, 185
+    - and Letter to the Laodiceans, 440, 440 n. 97, 443
+    - and motivations of forgers, 106
+    - the people of Israel in, 189–90
+    - polemics of, 189–90
+    - and secretary hypothesis, 220
+    - on truthfulness, 541, 547
+    - writing style of, 122, 161, 162, 175, 182, 183–85, 252
+- Epictetus, 115, 119
+- Epicureans, 107–8
+- Epicurus, 84, 102–3, 107–8, 115 n. 74
+- Epigenes, 86
+- Epiphanius of Salamis
+    - on Didascalia Apostolorum, 347
+    - on disputed works, 75, 150
+    - fabrications of, 19–24, 58
+    - and Greater Questions of Mary, 19, 20–22, 23–24, 24 n. 33, 150
+    - on Letter to the Laodiceans, 440, 444
+    - on Melchizedekians, 434
+    - Panarion, 19–24
+    - on Phibionites, 19–24, 58, 75
+- epistles
+    - and apologetic forgeries, 101
+    - disputed statuses of, 75
+    - epistolary novels, 43–45, 44 n. 30
+    - extent of forgeries among, 149
+    - *See also specific epistles, such as* James, epistle of
+- Epistula Apostolorum
+    - as counterforgery, 438–39
+    - dating of, 435
+    - on the flesh, 152, 434–39, 436 n. 82
+- Epistula Clementis, 152, 308–12, 344, 384
+- Epistula Petri, 305–8
+    - on authority of Paul, 152
+    - authorship of, 223
+    - and Clement’s Homilies, 305, 308
+    - and 3 Corinthians, 431
+    - and 2 Peter, 308
+    - on Peter–Paul relationship, 290, 306–8
+    - purpose of, 305–6
+    - warnings against forgeries in, 127
+- Erasmus, 25, 182, 522, 523
+- 2 Esdras, 343
+- Ester, book of, 71
+- Eubula, 381
+- [p. 601] Euclides, 70
+- Eunomius, 394
+- Euripides, 66, 70
+- Eusebius
+    - and Abgar Correspondence, 262–63, 366
+    - and Acts of Pilate, 140, 352–53, 354, 484
+    - on Acts of the Apostles, 278
+    - anonymous works cited by, 50, 51
+    - on Apocalypse of Peter, 75, 447
+    - and Arianism, 475, 475 n. 63
+    - on Barnabas, 75
+    - on 2 Clement, 75
+    - and criteria for authentication, 89, 140, 142, 143–44
+    - critics and criticism, 91
+    - on curses, 66–67
+    - De ecclesiastica theologia, 475, 477
+    - on disputed works, 74–75, 76
+    - on Epistle of James, 74, 285
+    - on Epistle of Jude, 74, 298–301
+    - fabrications reiterated by, 59
+    - on Hegesippus, 76
+    - and Homilies, 320–21
+    - and Ignatius letters, 461, 462
+    - on James (apostle), 288
+    - on Letter to the Hebrews, 76
+    - on Marcellus, 477–78
+    - on morality of deception, 538
+    - on Papias, 229
+    - on 2 Peter, 74, 223
+    - and Pilate cycle works, 358
+    - on Polycarp’s martyrdom, 495
+    - Preparatio, 538
+    - on Prophecies of Barcabbas and Barcoph, 75
+    - and Pseudo-Ignatian letters, 461, 462, 468
+    - on Revelation, 76, 142
+    - on Serapion and the Gospel of Peter, 90–91, 324
+    - on Shepherd of Hermas, 32 n. 8, 48, 75
+    - on Sibyls and oracles, 517–18
+    - *See also* Ecclesiastical History
+- Evans, Mary Anne (George Eliot), 30
+- Eve, gospel of, 19, 150
+- Excursus, 218–22
+- Exodus, 135, 547
+- eyewitness testimony, 270 n. 81, 270–79
+- Ezekiel (prophet), 70
+- Ezra, 72, 73, 343
+- 3 Ezra, 71
+- 4 Ezra, 241–42
+- fabrications, 24 n. 33, 55–61, 84, 133
+- faith
+    - and antinomianism, 303 n. 48, 304, 305
+    - apostles on
+
+        - James, 307
+
+        - Paul, 261, 294–95, 307
+
+        - Peter, 307
+
+    - faith vs. works, 185–87, 261, 288–95, 302, 307, 444
+    - texts on
+    - 2 Corinthians, 254, 299 n. 33
+    - Ephesians, 185, 186, 187, 295, 302
+    - Epistle of James, 288–89, 290–91, 292–93, 294–95
+    - Epistle of Jude, 299, 299 n. 33
+    - Galatians, 299 n. 33, 307
+    - Laodiceans, 444
+- false attributions, 49, 50–52, 75, 149, 534 n. 14
+- falsifications, 61–67, 84, 120
+- Faustus, 74, 92, 140–41, 275
+- Favorinus, 139
+- fiction, 133–34, 134 n. 133, 248 n. 31, 533, 533 n. 8
+- fig tree parable, 446
+- “First Peter in Recent Study” (Boring), 253
+- first-person narratives, 123
+- flesh, 407–54
+    - desires of, 413–15
+    - false teachings on, 409, 411–12, 427–28, 429, 429 n. 66
+    - forgeries celebrating
+
+        - Apocalypse of Paul, 451–54
+
+        - Apocalypse of Peter, 445–51
+
+        - 3 Corinthians, 425–32
+
+        - Epistula Apostolorum, 434–39
+
+        - 1 John, 419–25
+
+        - Letter to the Laodiceans, 439–45
+
+        - Melchizedek tractate, 432–34
+
+    - forgeries opposing
+
+        - Book of Thomas the Contender, 412–15
+
+        - Coptic Apocalypse of Peter, 407–12
+
+        - Gospel of Thomas, 415–18
+
+    - and Gnosticism, 23, 24, 406, 411, 432–34, 437
+    - internecine conflicts on, 152
+    - [p. 602] of jesus
+
+        - Apocalypse of Paul on, 454
+
+        - Apocalypse of Peter on, 451
+
+        - Coptic Apocalypse of Peter on, 407–12
+
+        - 3 Corinthians on, 428, 428 n. 57, 431
+
+        - Epistula Apostolorum on, 434–39
+
+        - 1 John on, 419–25
+
+        - Protevangelium Jacobi on, 492–93
+
+    - Jesus’ lessons on, 412–15, 449, 450–51
+    - and the material world, 415–18
+    - and Pseudo-Ignatian letters, 471
+    - and resurrection, 407, 427–31, 430 n. 67, 434–39, 451, 454
+    - and salvation, 408, 409, 416, 421, 428, 431, 439, 444, 451
+- Florinus, Letter to (Irenaeus), 272–73, 274
+- forgers
+    - condemnation of forgery by, 27
+
+        - in Apostolic Constitutions, 16 n. 16, 17–19, 18 n. 23
+
+        - Epiphanius on the Phibionites, 19–24
+
+        - as forgery technique, 126–27
+
+        - in 2 Thessalonians, 24–25
+
+    - justifications of, 132–37, 548
+    - motivations of, 97–105
+
+        - apologia, 100–102, 102 n. 36
+
+        - authority of authors, 119–21, 150–51, 153
+
+        - in condemning forgeries, 18
+
+        - and deceptive intentions of forgers, 131–32, 150–51
+
+        - defamation of character, 102–4
+
+        - humility of students, 105
+
+        - Olympiodorus on, 112
+
+        - political and religious authorization, 98–99
+
+        - profitability, 97–98
+
+        - Salvian’s defense, 93–96
+
+        - supplementation of a tradition, 104–5
+
+        - validation of one’s views, 119–21
+
+    - penalties suffered by, 83–85, 132
+    - reactions to, 83–85, 118, 132
+    - techniques of, 121–28
+
+        - and deceptive intentions of forgers, 131–32
+
+        - first-person narratives, 123
+
+        - imitation of style, 121–22
+
+        - interpolations, 128
+
+        - material and literary prophylaxes, 127–28, 131
+
+        - verisimilitudes, 122–23
+
+        - warnings against forgeries, 126–27
+
+- forgery
+    - attitudes toward
+
+        - as accepted literary practice, 78–79
+
+        - of authors, 66–67, 81–83
+
+        - of critics and intellectuals, 118
+
+        - in honoring one’s patron, 118, 532
+
+        - and intellectual property, 78–81
+
+        - as lies and deceits, 29, 85, 134–35, 532
+
+        - and morality questions, 546
+
+        - and terms for forgery, 29–32, 85
+
+    - criteria for detection of, 137–45
+
+        - anachronisms and historical problems, 139–40
+
+        - dogmatism, 141 n. 149
+
+        - established patterns of usage, 143–45
+
+        - internal inconsistencies and implausibilities, 140–41
+
+        - theological *Sachkritik*, 141–42
+
+        - writing style, 138–39
+
+    - definition of, 1n. 1, 30–31
+    - extent of phenomenon, 1, 69–77, 149–50
+    - fiction compared to, 133–34, 134 n. 133, 533
+    - and intellectual property, 78–81
+    - and intention to deceive, 30–31, 128–32, 533–34
+    - justifications for, 132–37, 548
+    - morality of, 546–48
+    - multifunctionality of, 4–5, 151
+    - objection to term, 29, 32, 32 n. 9
+    - related phenomena, 43–67
+
+        - anonymity, 49–50
+
+        - fabrications, 55–61
+
+        - false attributions, 50–52
+
+        - falsifications, 61–67
+
+        - homonymity, 47–49
+
+        - literary fictions, 43–45, 45 n. 35
+
+        - pen names, 45–47
+
+        - plagiarism, 52–55
+
+    - scholarly perspectives on, 31 n. 6, 35–43, 78–79, 105–7, 106 n. 53, 107 n. 54
+    - terms for, 29–32, 85
+    - types of
+
+        - embedded forgeries, 34
+
+        - non-pseudepigraphic forgeries, 35
+
+        - redactional forgeries, 34–35
+
+- [p. 603] Fourth Oration against the Arians (Pseudo-Athanasius), 477
+- Fronto, 23
+- Fukhajawaqa, 110
+- Gaius of Rome, 76
+- Galatians
+    - and Acts of the Apostles, 257
+    - on Antioch incident, 257, 307, 308, 316, 543
+    - on the apostles, 257, 259, 259 n. 59
+    - and authority of Paul, 152, 281
+    - and coauthorship theory, 213 n. 39
+    - and conversion of Paul, 257, 267
+    - on crucifixion, 418
+    - and Epistle of James, 291–93
+    - eschatological theme of, 163
+    - on faith, 299 n. 33, 307
+    - on forgiveness of sins, 177 n. 43
+    - on James (apostle), 487
+    - and Jewish identity, 287
+    - and Jewish Law, 304, 307
+    - and Letter to the Laodiceans, 439, 442, 443, 445
+    - and Letter to the Romans, 160
+    - oath in, 207
+    - on Peter, 250
+    - on suffering, 259 n. 59
+    - 2 Thessalonians compared to, 171
+    - on women in the church, 383
+    - writing style of, 162, 175–76, 185
+- Galen
+    - “Concerning the Genuine and Forged Writings of Hippocrates,” 116–17
+    - and criteria for authentication, 143 n. 152
+    - criticism of, 80, 80 n. 43
+    - De libris propriis, 82, 121, 167, 306
+    - detection of forgeries, 138
+    - on exercising caution with books, 306
+    - forgeries among surviving texts, 82
+    - on Heraclides Ponticus, 13
+    - on Hippocratic corpus, 80, 116–17
+    - on market for forgeries, 97–98
+    - reaction to forgeries, 82, 167
+    - writing style of, 82, 121, 138
+- Galilee, 243–46
+- Gamaliel, 314
+- Gelasian Decree, 447, 452, 486
+- Genesis
+    - on Abraham’s deception, 135, 547
+    - on Adam and Eve, 235, 376
+    - cited by Eusebius, 321
+    - cited in James, 292, 296 n. 26
+    - on Isaac’s deception, 135
+    - on Jacob’s deception, 547
+- “genuine religious pseudepigraphy” category of forgery, 36–38, 37 n. 15
+- Germanicus, 500
+- Glaucon, 70, 81
+- Gnostics and Gnosticism
+    - and Acts of John, 411
+    - and Apocalypse of Peter, 447
+    - and Book of Thomas the Contender, 412–13
+    - and Coptic Apocalypse of Peter, 407–12
+    - in Corinthian congregation, 430 n. 68
+    - and 3 Corinthians, 429–30, 430 n. 68
+    - and Didascalia Apostolorum, 349
+    - Epiphanius’ condemnation of, 19–24
+    - and Epistula Apostolorum, 435–38
+    - and fabrications, 58
+    - on the flesh, 23, 24, 406, 411, 432–34, 437
+    - and Melchizedek tractate, 432–34
+    - and Paraphrase of Shem, 404–6
+    - and Pastoral epistles, 192, 368 n. 3, 370, 371–72
+    - and 2 Peter, 226
+    - and Peter, 402–4
+    - Phibionites, 19–24, 58
+    - and Pseudo-Ignatian letters, 467, 471–72, 474
+    - and 2 Timothy, 214
+- God
+    - authorial spirit of, 38–39
+    - deceptions of, 135–36, 548
+- Gospel of Perfection, 19
+- gospels
+    - anonymous authorships of, 50, 51, 52, 75
+    - assignment of attributions to, 51–52
+    - authenticity disputes of, 74, 75
+    - extent of forgeries among, 149
+    - and two-source hypothesis, 51–52, 55
+    - *See also specific gospels, such as* Thomas, gospel of *and* Luke, gospel of
+- grace
+    - and antinomianism, 301–3, 303 n. 48, 304, 305
+    - in Epistle of Jude, 302–3, 303 n. 48
+    - in Pauline forgeries, 186–87, 295, 302–3
+- [p. 604] Greater Questions of Mary, 19, 20–22, 23–24, 24 n. 33, 150
+- Greek Apocalypse of Peter, 42, 225, 232–33, 272
+- Grossteste, Robert, 461
+- Hadrian, 26
+- Halicarnassan, 50
+- Hebrews
+    - anti-Jewish sentiments of, 323 n. 2
+    - authenticity of, challenged, 76
+    - and authority of authors, 88
+    - authorship of, 49, 118
+    - on crucifixion, 418
+    - eschatological theme of, 163
+    - as non-pseudepigraphic forgery, 149
+    - Origen on, 88, 88 n. 66, 118
+    - writing style of, 139
+- Hecataeus, 71
+- Hegesippus, 76, 288, 301, 321
+- Heidelberg Papyrus, 426
+- Heliodorus, 541
+- hell, 448
+- Heraclides Ponticus, 11–14, 26, 47, 53, 103
+- heresiology, 19–24, 22 n. 29
+- heretics, 150
+- Hermagoras, 47
+- Hermas, 32 n. 8, 48–49
+- Hermes, 120 n. 92
+- Hermogenes, 228 n. 75, 380, 381, 383
+- Hero (Pseudo-Ignatius), 461, 462, 472, 473, 479
+- Herod, 85, 99, 102, 328–29, 485, 488
+- Herod Agrippa, 361
+- Herod Antipas, 358, 361–62, 488
+- Herodotus, 50, 61, 79, 84, 140
+- Heroides (Ovid), 44
+- Hesiod, 37, 53, 80
+- Hezekiah, Testament of, 333
+- Hilduin of St. Denis, 26
+- Hincmar of Rheims, 26
+- Hippocrates, 98, 116–17, 119, 143 n. 152, 144
+- Hippocratic corpus, 86–87, 116 n. 75, 116–17, 138
+- Hippodamus, 109
+- Hippolytus, 14, 50, 384
+- Historia Augusta (Pseudo-Spartianus), 26, 45–46
+- historical problems and anachronisms, 139–40
+- Histories (Polybius), 57
+- Histories (Timaeus), 54, 115
+- History of Joseph the Carpenter, 67
+- History of the Peloponnesian War (Thucydides), 56
+- Holy Spirit, authorial spirit of, 38–39
+- Homer, 50, 53, 62, 79
+- Homilies (Pseudo-Clement)
+    - Arian perspective of, 458–460
+    - on authority of Paul, 152
+    - on authority of Peter, 309
+    - authorship of, 1, 150, 312
+    - as counter-counter history, 321
+    - dating of, 312 n. 63
+    - and Epistula Clementis, 308
+    - and Epistula Petri, 305, 308
+    - and Eusebius, 320–21
+    - on Judaism, 332
+    - and Paul, 312, 315, 316–18
+    - polemics of, 315, 316–17
+- homonymity in authors’ names, 30, 32, 47–49
+- Hosea, 250, 253
+- humility as motivation of forgers, 105
+- Hymenaeus, 191, 372–73
+- Iamblichus, 30, 46, 107, 110–11, 111 n. 64
+- Ibn Abi Usaybi’a, 109
+- Ignatius of Antioch
+    - on authority of apostles, 120
+    - death of, 506–8
+    - and flesh-of-Christ debates, 419, 421
+    - letters of, 460
+    - and Pseudo-Ignatius, 469–470
+    - and purpose of Pseudo-Ignatian forgeries, 468
+    - writings in name of, 1 n. 2, 2, 121, 150, 532 (*see also* Pseudo-Ignatian letters)
+- Iliad (Homer), 62
+- Infancy Gospel of Thomas, 35, 60, 105, 273, 274
+- intellectual property, 78–81, 79 n. 34, 83
+- intention to deceive, 128–32
+    - as inherent to forgery, 30–31, 533–34
+    - scholarly perspectives on, 30 n. 3, 33 n. 8, 78, 178 n. 47
+- internecine conflicts, 151, 152, 282
+- interpolations, 128
+- [p. 605] Ion of Chius, 79, 86
+- Iphicrates, 139
+- Irenaeus
+    - on Abraham, 296 n. 26
+    - Adversus Haereses, 58
+    - authority of, 278 n. 107
+    - on authorship of gospels, 51
+    - on bishops of Rome, 310
+    - on crucifixion, 546 n. 41
+    - curses of, 66–67
+    - and fabrications, 58
+    - To Florinus, 272–73, 274
+    - and Gnosticism, 22, 23
+    - on Gospel of Basilides, 411
+    - on heretical works, 76, 150
+    - Johannine epistles cited by, 423
+    - on Luke, 276–77, 279
+    - narrative voice of, 272–73
+    - on Peter–Paul relationship, 310 n. 62, 310–11
+    - on Valentinians, 22, 58
+- Isaac, 547
+- Isaiah
+    - authorship of, 70
+    - martyrdom of, 332–33, 337
+    - visions of, 333–38, 399, 399 n. 87
+    - writings in name of, 264 (*see also* Ascension of Isaiah; Vision of Isaiah)
+- 1 Isaiah, 2, 34, 34 n. 10, 39–40, 253, 338
+- 2 Isaiah, 41, 70
+- 3 Isaiah, 70
+- Isidorus, 62
+- Isocrates, 138
+- Jacob, 544, 547
+- James (apostle)
+    - and Acts of the Apostles, 263–64, 288, 307
+    - and Apostolic Constitutions, 15, 392
+    - authority of, 5, 284, 296–97, 309
+    - and Clement of Rome, 309
+    - and Coptic Apocalypse of Peter, 404 n. 99
+    - and Epistula Clementis, 309
+    - and Epistula Petri, 305, 307, 308
+    - illiteracy of, 285–87, 287 n. 7
+    - and Jerusalem conference, 257, 263–64
+    - on Jewish Law and Jewish identity, 287–88
+    - and leadership of the church, 404 n. 99
+    - martyrdom of, 288
+    - and Paul, 281, 288, 290, 296–97, 307, 315, 317
+    - and Recognitions, 314–15
+    - writings in name of, 284, 284 n. 1
+
+        - 1 Apocalypse of James, 284, 409, 531
+
+        - 2 Apocalypse of James, 284, 409, 531
+
+        - Apocryphon of James, 272, 284, 306, 404 n. 99
+
+        - Gospel of James, 75, 149
+
+        - *See also* James, epistle of; Protevangelium Jacobi
+
+- James, epistle of, 286–297
+    - attack on Paul in, 290–91, 291 n. 16, 294–95, 295 n. 23, 296–97
+    - audience of, 284, 288
+    - authenticity of, challenged, 74
+    - authority of, 285
+    - on authority of Paul, 152
+    - authorship of, 33, 283–84, 285, 296–97
+    - 1 Corinthians compared to, 293 n. 19
+    - as counterforgery, 290–91, 295
+    - and criteria for authentication, 89, 144
+    - on cultural identity, 287–88
+    - dating of, 289–90
+    - and Epistle of Jude, 298
+    - evidence of forgery in, 285–290
+    - on faith vs. works, 288–89, 290–91, 292–93, 294–95
+    - false attribution of, 149
+    - and Homilies, 320
+    - and Jesus, 285, 287 n. 10
+    - and Jewish Law, 287–89
+    - Letter to the Romans compared to, 293 n. 19
+    - literary dependence in, 291, 292–95
+    - and 1 Peter, 297, 297 n. 28
+    - and Recognitions, 320
+    - scholarly debate on, 4
+    - writing style of, 285–86
+- James, gospel of, 75, 149
+- James Liturgy, 284 n. 1
+- Jeremiah (prophet), 70, 136, 548
+- Jeremiah, book of, 136, 548
+- Jerome
+    - on absence of writings by Jesus, 365
+    - on Acts of Paul, 380
+    - and apologetic forgeries, 101
+    - authenticity disputes of, 74
+    - authority of, 532
+    - on authority of canonical Gospels, 120–21
+    - on brothers of Jesus, 486
+    - [p. 606] and criteria for authentication, 89–90, 139, 140, 142
+    - De viris illustribus, 520
+    - and defamation of character, 104
+    - and detection of forgeries, 139
+    - and disputed authorship, 75
+    - on Epistle of James, 285
+    - on Epistle of Jude, 299
+    - on falsifications by Rufinus, 65
+    - forged letters purportedly from, 82–83
+    - on homonymity issues, 48
+    - on Jude, 142
+    - on Letter to the Laodiceans, 440
+    - on letters of Paul and Seneca, 520
+    - on Luke, 278
+    - on 2 Peter, 223
+    - on Peter–Paul relationship, 543
+    - and secretary hypothesis, 223 n. 63
+    - on Wisdom of Solomon, 71 n. 6
+    - writings in name of, 2, 51, 51 n. 54, 121, 150, 167, 530–31, 532
+- Jerusalem conference
+    - alignment of apostles at, 257, 263–64, 307
+    - Didascalia Apostolorum on, 345 n. 55, 347, 349, 391–92
+    - discrepancies on, 267
+    - motivations for, 347, 349
+- Jesus
+    - and Abgar Correspondence, 2, 4, 101–2, 363–65, 455, 456 n. 9, 456–57
+    - absence of writings from, 365
+    - alleged letter of, to Peter and Paul, 75, 91–92, 104, 140
+    - and anonymous texts, 49, 50
+    - and anti-Jewish texts, 328–32, 337, 338–44, 344 n. 51, 354–58
+    - apocalyptic message of, 155, 228, 229, 232–35
+    - and apologetic forgeries, 101–2
+    - and Apostolic Church Order, 397
+    - birth of, 486, 487, 489–91, 492–93
+    - birthplace of, 351
+    - brothers of, 5, 230, 412–15, 486 (*see also* James)
+    - and Coptic Apocalypse of Peter, 401–4, 404 n. 99
+    - crucifixion of, 326, 328–32, 354–58, 359, 401, 408–12, 546 n. 41
+    - deceptions of, 135, 548
+    - fabrications about, 58–59, 60
+    - on false teachers, 411–12
+    - and fig tree parable, 446
+    - the flesh, Jesus’ lessons on, 412–15, 449, 450–51
+    - the flesh of, debates on, 407–12, 419–25, 428, 428 n. 57, 431, 434–39, 451, 454
+    - and Greater Questions of Mary, 20, 24
+    - infancy stories of, 105
+    - on the kingdom of God, 231–32
+    - and leadership of the church, 404 n. 99
+    - literacy and language skills of, 365, 456 n. 9
+    - messianic line, deceptions in, 547–48
+    - and Moses, 318, 320, 321
+    - and Paul, 309
+    - and Peter, 251, 309, 401, 411
+    - and Pilate, 354–62, 484–85
+    - Polycarp’s parallels with, 494, 496, 499–500
+    - and Protevangelium Jacobi, 489–91
+    - Pseudo-Ignatian letters on, 476–78
+    - Sibylline Oracles on, 510–11, 512–13, 514–15, 516–17
+    - substitutionary atonement of, 253
+    - suffering of, 177, 255 n. 54, 257, 408–11, 409 n. 3, 421
+    - tour of realms of the dead, 447–48
+    - and women in the church, 397
+- Jewish Law
+    - in Acts of the Apostles, 263, 281, 288
+    - and anti-Jewish texts, 345, 346, 347–350
+    - and Antioch incident, 261–62, 307, 308
+    - and Didascalia Apostolorum, 347–50
+    - in Ephesians, 186–87, 295, 302
+    - and Epistula Petri, 306
+    - and James, 287–89
+    - in Letter to the Galatians, 304, 307
+    - and Paul, 187, 206–7, 257, 261, 263, 267, 281, 288, 293, 295, 307
+    - and 1 Peter, 257
+    - and 2 Peter, 261
+    - and Peter (apostle), 225, 257, 261, 306, 308, 332
+    - and Recognitions, 314–15
+    - and 1 Timothy, 206–7, 371–72, 373–74
+- [p. 607] Jews and Judaism
+    - and anonymity of works, 50, 70
+    - apocalypses in, 72–74
+    - and apologetic forgeries, 100–101, 482–83
+    - authority of, 482
+    - circumcision practices, 343–44
+    - cultural identity of, 287–88
+    - and Gospel of Thomas, 338–44, 344 n. 51
+    - Hebrew Bible, 70–71
+    - Ignatius/Pseudo-Ignatius on, 470, 479–80
+    - Jewish scriptures, 250
+    - and Letters of Paul and Seneca, 524–25
+    - and Martyrdom of Pionius, 504
+    - and Martyrdom of Polycarp, 494, 497, 500, 501–2
+    - persecution of Christians, 482
+    - and Peter, 332
+    - and Pilate cycle works, 354–62
+    - plagiarism in Jewish literature, 70–74
+    - and Protevangelium Jacobi, 489–91
+    - pseudonymity practices in, 72 n. 10, 72–74
+    - and Recognitions, 314–15
+    - sacrifices in, 319–20
+    - Sibylline Oracles on, 510–11, 512, 519
+    - as topic of scriptures, 152, 177
+    - *Vergegenwärtigung*, 39–42
+    - *See also* anti-Jewish sentiments and forgeries
+- Job Commentary (Julian), 394, 463–66, 474–76, 478, 479
+- Joel, 503 n. 58
+- Johannine community, 260–61, 403
+- John
+    - and Apostolic Church Order, 397
+    - and authorship of Revelation, 88
+    - fabrications about, 59
+    - and homonymity issue, 48
+    - Origen on writings of, 88 n. 66
+    - writings in name of (*see* Acts of John; Apocryphon of John; John, gospel of; Revelation; 1 John; 2 John; 3 John)
+- John, gospel of
+    - and Abgar Correspondence, 364, 457, 457 n. 12
+    - apocalyptic message of, 228
+    - and Ascension of Isaiah, 336–37
+    - authorship of, 424 n. 38
+    - on crucifixion, 357
+    - on deception, 135
+    - on Didymus Judas Thomas, 230
+    - eschatological theme of, 231
+    - and Gospel of Peter, 330
+    - and Ignatius/Pseudo-Ignatius, 470
+    - on Jesus’ deception, 135, 548
+    - on Jesus’ writing, 365
+    - on Jews and Judaism, 337
+    - and 1 John, 419 n. 24, 425 n. 41
+    - on Jude, brother of James, 297
+    - narrative voice in, 270, 274
+- 1 John
+    - on antichrists, 419–20
+    - audience of, 424
+    - authorship of, 49, 199, 423–25, 424 n. 39
+    - as eyewitness account, 422 n. 31, 422–24, 424 n. 39, 425
+    - on the flesh, 419–25
+    - and Gospel of John, 419 n. 24, 425 n. 41
+    - narrative voice in, 271, 274
+    - as non-pseudepigraphic forgery, 149
+    - polemic of, 419–21
+    - on suffering of Christ, 421
+- 2 John
+    - audience of, 424
+    - authenticity of, challenged, 75
+    - authorship of, 49, 50, 199, 423, 424 n. 39
+    - and homonymity issue, 48
+- 3 John
+    - audience of, 424
+    - authenticity of, challenged, 75
+    - authorship of, 49, 50, 199
+    - and homonymity issue, 48
+- John Philoponus, 98
+- John the Baptist, 361, 405, 485, 487
+- John the Presbyter, 48
+- Jonah, 548
+- Jonathan, 547–48
+- Joseph, father of Jesus
+    - and birth of Jesus, 273, 487, 489–90
+    - and Epistle of James, 284
+    - and Protevangelium Jacobi, 5, 273, 485, 486, 489–91
+    - sons of, 5, 486, 488
+    - vision of, 273, 486, 487
+- Joseph of Arimathea, 356–57, 358
+- Josephus
+    - on Abgar Correspondence, 456
+    - on Acts of Pilate, 352–53
+    - and apologetic forgeries, 100–101, 101 n. 30
+    - [p. 608] on Capernaum, 245
+    - and Eusebius, 321
+    - fabrications in writing of, 58
+    - literacy of, 244
+    - narrative voice of, 274
+    - on politically-motivated forgeries, 85, 99
+- Joshua, 50, 135, 547
+- Juba, king of Lybia, 98, 112, 114
+- Judas Iscariot, gospel of, 150, 411
+- Judas Thomas (brother of Jesus), 230, 412–15, 457, 458 n. 17
+- Jude (apostle)
+    - and Apostolic Church Order, 397
+    - authority of, 297–98
+    - obscure persona of, 298
+- Jude, epistle of, 297–305
+    - antinomian charges in, 301–3, 303 n. 48, 304, 305
+    - authenticity of, challenged, 74–75
+    - authority of, 298
+    - authorship of, 149, 297–301
+    - and criteria for authentication, 89–90, 142, 144
+    - dating of, 299, 301
+    - and 1 Enoch, 89–90, 142, 299, 300, 303
+    - and Epistle of James, 298
+    - evidence for forgery of, 298–301
+    - on faith, 299, 299 n. 33
+    - on Paul’s authority, 152
+    - and 2 Peter, 55, 224, 227
+    - polemics of, 58, 300–305
+    - scholarly perspectives on, 4, 299–300
+    - writing style of, 298, 298 n. 30, 299–300
+- Judges, 50
+- Judgment of Peter, 75
+- Julian of Antioch
+    - Arian inclinations of, 394–95, 464, 465–66, 466 n. 52, 467–68, 474–75, 476, 478, 479
+    - authorship of Apostolic Constitutions, 394–96, 463, 464–65
+    - authorship of Commentary on Job, 394, 463, 464–65
+    - authorship of Pseudo-Ignatian letters, 394, 463, 465
+    - dating writings of, 466
+    - targets of, 474–78, 479–480
+- Julius Africanus, 140
+- Julius Caesar, 99
+- justifications for forgery, 132–37, 548
+- Justin Martyr
+    - on Acts of Pilate, 351
+    - anti-Jewish sentiments of, 332, 338
+    - on Apocalypse of Peter, 446
+    - Dialogue with Trypho, 324–26, 338, 344
+    - and Gospel of Peter, 324–27, 326 n. 6, 327 n. 8
+    - Isaiah cited by, 338
+    - on Jesus’ birth, 486
+    - on lying, 542
+    - and Memoirs of Peter, 118, 324–26, 326 nn. 6–7, 327 n. 8
+    - Oratio ad Graecos, 51, 149
+    - and Pilate cycle works, 358
+    - on Sibyl, 514
+    - writings in name of, 51
+- Kings, 50
+- Kochba, Bar, 446
+- Lactantius, 512, 515, 517, 520, 537–38
+- language, anachronistic, 140
+- language skills. *See* literacy and language skills
+- Laodiceans
+    - and apostolic authority, 17
+    - authenticity of, challenged, 75
+    - authorship of, 2, 149, 485
+    - on the flesh, 153, 439–45
+    - intention to deceive in, 32
+    - and Letter to the Colossians, 105, 441, 443–44
+    - and motivations of forgers, 105
+    - and Muratorian Fragment, 75, 440, 440 n. 97, 441, 442, 443–44
+    - and Philippians, 439, 442, 443, 445
+    - rejection of, for Marcionite teachings, 91, 150
+- Lasus of Hermione, 61
+- lecture notes of philosophical schools, 114–15
+- Lesser Heracles (Antisthenes), 53
+- Lesser Questions of Mary, 19
+- letter carriers, 249, 249 n. 38
+- letters, forgery of, 82–83
+- Liber antiquitatum biblicarum (Philo), 51
+- Liber Graduum, 235
+- Liber Heraclidis (Heraclides), 46
+- [p. 609] lies and deception
+    - attitudes toward, 134–35
+    - biblical instances of, 135–36, 536, 543, 545, 547–48
+    - and intent to deceive, 30 n. 3, 30–31, 33 n. 8, 78, 128–32, 178 n. 47, 533–34
+    - justifications of, 132–37
+    - lies condemned by liars, 16, 19
+    - medicinal lies, 539–40, 542, 543, 545
+    - morality of, 534–46
+
+        - Augustine on, 134–35, 535–37, 542
+
+        - Cassian on, 538–39
+
+        - Christianity on, 541–46
+
+        - Eusebius on, 538
+
+        - Lactantius on, 537–38
+
+        - Plato on, 135, 540–41, 542
+
+        - Socrates on, 135, 539–41
+
+    - and motivations of forgers, 131–32, 150–51
+    - noble lies, 135, 136, 540–41
+    - as type of forgery, 31–32
+    - and will of God, 547
+- Life of Apollonius (Philostratus), 138–39
+- Life of Plotinus (Porphyry), 85
+- Life of Pythagoras (Iamblichus), 111
+- linguistic arguments, 200
+- Linus, 310, 311
+- literacy and language skills, 242–46
+    - and anti-Jewish texts, 343
+    - composition skills, 242, 243, 244, 247, 286, 300 n. 35
+    - illiteracy of James, 285–87, 287 n. 7
+    - illiteracy of Jude, 299
+    - illiteracy of Peter, 242–47, 245 n. 23
+    - of Jesus, 365, 456 n. 9
+    - and 1 Peter, 242–47
+- literary dependence
+    - in Acts of Paul, 382–83
+    - in Epistle of James, 291, 292–95
+    - in Letter to the Ephesians, 183
+    - in 1 Peter, 254
+- literary fictions, 43–45, 45 n. 35
+- literary form, pseudonymity as, 78–81, 128–29, 534
+- literary phenomena related to forgery, 43–67
+    - anonymity, 49–50
+    - fabrications, 55–61
+    - false attributions, 50–52
+    - falsifications, 61–67
+    - homonymity, 47–49
+    - literary fictions, 43–45, 45 n. 35
+    - pen names, 45–47
+    - plagiarism, 52–55
+- Little Cyrus (Antisthenes), 53
+- Lives of Eminent Philosophers (Diogenes Laertius), 70
+- Livy, 124–25
+- Longinus, 361
+- Lucian, 13, 98, 99, 125
+- Lucius Aelius, 80
+- Lucius Cotta, 48
+- Lucius Gellius, 115
+- Lucius Septimius, 124
+- Luke
+    - authority of, 117–18
+    - biographical evidence for, 277–78, 278 n. 107
+    - obscure persona of, 279–280
+    - and Paul, 76, 117–18, 265, 267, 276–79
+    - and source documents of Acts, 268
+    - and two-source hypothesis, 55
+    - writings of
+    - Acts of the Apostles, 88, 265, 268, 277–78, 279
+    - Gospel of Luke, 51–52, 76, 117–18, 277, 279
+- Luke, gospel of
+    - on acts of piety, 339
+    - apocalyptic message of, 228
+    - authenticity of, challenged, 76
+    - authorship of, 51–52, 76, 117–18, 277, 279
+    - on birthplace of Jesus, 351
+    - cited by Paul, 205
+    - on crucifixion, 418
+    - on deception, 135
+    - eschatological theme of, 231–32
+    - and Gospel of Thomas, 231 n. 77, 231–32, 341
+    - on the kingdom of God, 231–32
+    - and Marcion, 492, 492 n. 23
+    - and Paul, 51, 76, 117–18, 188 n. 70
+    - and substitutionary atonement, 253
+    - and Tertullian, 76, 117–18, 188 n. 70
+    - and two-source hypothesis, 55
+- Luther, 285, 292
+- Lycurgus (Pseudo-Plutarch), 66
+- lying. *See* lies and deception
+- Lyons and Vienne, Letter of, 495
+- Lysias, 80, 138, 139
+- [p. 610] Magnesians (Ignatius)
+    - on church hierarchy, 479
+    - and Ignatian corpus, 462
+    - interpolations in, 469–70
+    - on Judaism, 470, 480
+    - theological perspectives in, 472, 476, 477
+- Manetho, 71
+- Manichees and anti-Manichean campaign, 455–58, 457 n. 12, 458 n. 17
+- Marcellus of Ancyra, 466, 467, 476–78
+- Marcion and Marcionism
+    - and Epistle of Barnabas, 52
+    - and Epistle of James, 296
+    - and Gospel of Luke, 492, 492 n. 23
+    - and Letter to the Laodiceans, 440, 440 n. 97, 442–45
+    - and Pastoral epistles, 193
+    - and Protevangelium Jacobi, 491–92
+    - and Pseudo-Ignatian letters, 467, 471–72, 474
+    - Tertullian on, 63, 91, 492, 492 n. 23
+- Marcosians, 58
+- Marcus, 23
+- Mariam, 412
+- Mark
+    - and 1 Peter, 248, 251, 251 n. 41, 254, 256
+    - and two-source hypothesis, 55
+    - writings attributed to, 51–52, 117–18
+- Mark, gospel of
+    - and Apocalypse of Peter, 447
+    - apocalyptic message of, 228, 234, 236
+    - authenticity of, challenged, 76
+    - authorship of, 49, 51–52, 117–18
+    - and Coptic Apocalypse of Peter, 408
+    - and 3 Corinthians, 430
+    - on crucifixion, 357, 418
+    - eschatological theme of, 163, 165
+    - and Gospel of Thomas, 232
+    - on Jude, brother of James, 297
+    - and Justin on Peter’s “Memoirs,” 118, 325–26, 326 nn. 6–7, 327 n. 8
+    - and Peter, 51, 76, 117–18, 188 n. 70, 327 n. 8
+    - and Tertullian, 76, 117–18, 188 n. 70
+    - and 1 Timothy, 373 n. 8
+- Martha, 397, 398
+- Martial, 53, 81, 84, 103, 166–67
+- martyrologies
+    - Acts of Ignatius (Antiochene Version), 506–8
+    - Martyrdom of Ignatius, 274
+    - Martyrdom of Isaiah, 332–33, 337, 399
+    - Martyrdom of Marian and James, 35, 274, 505–6
+    - Martyrdom of Montanus and Lucius, 506
+    - Martyrdom of Pionius, 504–5
+    - Martyrdom of Polycarp, 493–508
+
+        - anachronisms and historical problems in, 495–97
+
+        - as apologia, 153, 483, 493–502
+
+        - authenticity of, 497–502
+
+        - dating of, 493, 499, 500
+
+        - and Martyrdom of Pionius, 504
+
+        - narrative voice in, 273–74
+
+        - parallels with Jesus’ death, 494, 496, 499–500
+
+        - polemical targets of, 494, 500, 501–2
+
+        - redactional analysis of, 495–97
+
+- Mary, gospel of, 437
+- Mary, Mother of Jesus
+    - Apocalypse of Paul on, 454
+    - 3 Corinthians on, 428, 428 n. 57, 431
+    - Melchizedekians on, 434
+    - and Protevangelium Jacobi, 485–87, 489–491
+    - virginity of, 485–86, 487, 490
+- Mary Magdalene, 20, 397, 398
+- Mary of Cassobola (Pseudo-Ignatius), 460, 461, 462, 468 n. 57, 472
+- material and literary prophylaxes, 127–28, 131
+- Matthew
+    - and Apostolic Constitutions, 392
+    - and Pistis Sophia, 412
+    - and two-source hypothesis, 55
+    - writings in name of, 141, 412
+- Matthew, gospel of
+    - on acts of piety, 338
+    - apocalyptic message of, 236
+    - authenticity of, challenged, 75
+    - authorship of, 149
+    - and criteria for authentication, 141
+    - on crucifixion, 418
+    - and eyewitness testimony, 275
+    - and Gospel of Thomas, 341
+    - on Herod, 488
+    - and Jesus’ brothers, 486
+    - and two-source hypothesis, 55
+- Matthias (author of Thomas the Contender), 412
+- [p. 611] Matthias (disciple replacing Judas Iscariot), 15, 392, 412, 415
+- Maximin, 352, 354
+- Maximus, 352
+- medical schools, 116–17
+- medicinal lies, 539–540, 542, 543, 545
+- Melchizedek tractate, 152, 432–34
+- Melito, 332
+- Memoirs (Hegesippus), 288
+- Memoirs of Peter, 118, 324–26, 326 nn. 6–7, 327 n. 8
+- Memorabilia (Favorinus), 139
+- Memorabilia (Xenophon), 135
+- Menedemus of Eretria, 53
+- Michal, 547–48
+- Milton, John, 460
+- Mishna, 350
+- The Mistaken Critic (Lucian), 98
+- Mithridates, 93 n. 2, 122, 122 n. 95, 133
+- Mixing-Bowl (Zopyrus of Heraclea), 86
+- morality of forgery, 546–48
+- Mordechai, Letter of, 101
+- Moses, 51, 73, 305–6, 319–20, 321, 482
+- Moses, Testament of, 74 n. 18
+- motivations of forgers, 97–105
+    - apologia, 100–102, 102 n. 36
+    - authority of authors, 119–21, 150–51, 153
+    - in condemning forgeries, 18
+    - and deceptive intentions of forgers, 131–32, 150–51
+    - defamation of character, 102–4
+    - humility of students, 105
+    - Olympiodorus on, 112
+    - political and religious authorization, 98–99
+    - profitability, 97–98
+    - Salvian’s defense, 93–96
+    - supplementation of a tradition, 104–5
+    - validation of views, 119–21
+- Muratorian Fragment
+    - on Apocalypse of Peter, 446, 447
+    - on authority of canonical Gospels, 120
+    - and criteria for authentication, 91
+    - and Epistle of James, 285
+    - on heretical works, 76
+    - on Johannine writings, 423
+    - on Letter to the Laodiceans, 75, 440, 440 n. 97, 441, 442, 443–44
+    - on Luke, 277
+    - on Pauline letters, 150
+    - on Shepherd of Hermas, 49, 120 n. 92
+    - on Wisdom of Solomon, 71 n. 6
+- Musaeus, 61, 86
+- Myra, 381
+- Mysteries (Abamon), 30, 46
+- Nag Hammadi library
+    - on the flesh, 23, 409, 418–19
+    - and Gnosticism, 23, 334
+    - narrative voice in, 272
+    - and scope of book, 6
+    - on suffering of Christ, 409
+    - texts of
+
+        - 1 Apocalypse of James, 284, 409, 531
+
+        - 2 Apocalypse of James, 284, 409
+
+        - Apocryphon of James, 284, 306
+
+        - Book of Thomas the Contender, 152, 412–15, 413 n. 9, 418, 431, 439
+
+        - Gospel of Philip, 2, 19–20, 149, 236, 417, 531
+
+        - Letter of Peter to Philip, 223, 409, 411, 438, 450
+
+        - Melchizedek tractate, 152, 432–34
+
+        - Paraphrase of Shem, 152, 404–6
+
+        - Second Treatise of the Great Seth, 20, 365, 406, 411
+
+        - *See also* Apocalypse of Peter, Coptic
+
+- Narrative of Joseph of Arimathea, 365
+- narrative voice, 266, 270 n. 79, 270–76
+- Nathaniel, 397
+- Natural History (Pliny the Elder), 54
+- Nautical Astronomy (Thales), 81
+- Neophron of Sicyon, 70
+- Nero, 127, 241, 360
+- Nestorius, 46
+- New Testament
+    - and Apostolic Constitutions, 16–17
+    - number of forged writings in, 529
+    - orthonymous writings in, 1
+    - presumed authenticity of writings, 17
+    - *See also specific books*
+- Nicene orthodoxy, 395, 467, 475, 476 n. 65, 478, 479
+- Nicephorus, 447
+- Nicodemus, 354–55, 357
+- Nicodemus, gospel of, 60, 105, 149, 152, 354
+- Nikos (Nuqus), 110
+- Noah and the flood, 72, 73, 86, 140
+- [p. 612] noble lies, 135, 136, 540–41. *See also* lies and deception
+- non-pseudepigraphic forgeries, 35
+- Noriah, 19
+- Numa Pompilius, 124–25
+- Ogdoad (Irenaeus), 66–67
+- Okkelos, 109
+- Old Testament, 52. *See also specific books*
+- Olympiodorus, 32, 48, 98, 112–13
+- “On Fate” (Minucius Felix), 75
+- “On Grammarians” (Suetonius), 108
+- On Poetry Attributed to Orpheus (Epigenes), 86
+- “On the Gospel,” 90
+- On the Nature of Man (Hippocrates), 138
+- “On the Proverbs of Solomon,” 90
+- On the Two Forms of Martyrdom (Cyprian), 25
+- Onesimus, 174
+- Onesiphorus, 380, 381
+- Onias III, 100–101, 101 n. 30
+- Onomacritus, 61–62, 84, 86
+- oracles
+    - acrostics in, 127–28
+    - as apologia, 100, 153, 483, 513–18, 518–19
+    - and motivations of forgers, 98–99
+    - Onomacritus’ falsifying of, 61–62, 84, 86
+    - role of, 61 n. 76
+    - Sibylline Oracles, 508–19
+
+        - as apologia, 100, 513–18
+
+        - as Christian creations, 128, 512–13
+
+        - Christian interpolations of, 510–12
+
+        - as counter-forgeries, 518–19
+
+        - numbering of, 508
+
+        - Sibyls, 2, 508, 509–10, 513–19
+
+- oral traditions and cultures, 383
+- Oratio ad Graecos (Justin), 51, 149
+- Origen
+    - on Apocalypse of Paul, 452, 452 n. 133
+    - on authority of canonical Gospels, 120, 120 n. 92
+    - Commentary on John, 71 n. 6, 544
+    - Commentary on Matthew, 486
+    - Contra Celsum, 338, 516–17, 542–43
+    - criteria for authorial attribution, 88
+    - De principiis, 65
+    - and De recta in deum fide, 49
+    - on deception, 542–44
+    - and detection of forgeries, 139
+    - on disputed authorship, 75
+    - and Epistle of James, 296
+    - on eschatological renewal of creation, 233
+    - falsifications of writings by, 64, 65, 76–77
+    - on Hebrews, 88, 88 n. 66, 118
+    - on interpolated oracles, 100
+    - Isaiah cited by, 338
+    - on Johannine writings, 424
+    - on John’s writings, 88 n. 66
+    - and Pastoral epistles, 193
+    - on 2 Peter, 223
+    - on Petrine epistles, 88 n. 66
+    - on Protevangelium Jacobi, 486
+    - on Shepherd of Hermas, 48
+    - on Sibyls and oracles, 516–17
+    - on Wisdom of Solomon, 71 n. 6
+    - writings in name of, 50, 121, 463–64
+- Orpheus, 79, 86
+- Orphic poems, 79
+- orthonymous writing, 1, 7, 71, 156
+- Ovid, 44
+- P writer, 192, 222
+- pagan literature, forgery in, 69–70, 123–25, 128
+- Palestine, 243–47, 286–87
+- Panaetius, 47
+- Panarion (Epiphanius), 19–24
+- Panthera, 489, 491
+- Papias, 229, 232, 325, 453
+- Paraphrase of Shem, 152, 404–6
+- Parthenopaeus (Pseudo-Sophocles), 13, 103, 128
+- Paschal Homily of Melito, 332
+- Pasiphon, 70
+- Passion of Perpetua, 502–4, 503 n. 58, 506
+- The Passion of Peter and Paul, 359
+- *The Passion of Sts. Perpetua and Felicitas* (Harris and Gifford), 506
+- “Passion of Tarachus, Probus, and Andronicus,” 352
+- Pastoral epistles, 192–217
+    - and Acts of Paul, 379–84, 382 n. 21
+    - arguments for authenticity of, 211–13
+    - authorship of, 201–2, 202–5, 206, 368
+    - on church organization and leadership, 152, 203–5, 208, 367–84, 400
+    - common authorship of, 195–202, 205, 368
+    - [p. 613] as corpus, 193–95, 194 n. 12, 201 n. 22, 368, 368 n. 3
+    - as counterforgeries, 384
+    - and Gnosticism, 192, 368 n. 3, 370, 371–72
+    - historical context of, 369–70
+    - and intertextual interpretations, 375–76
+    - Pauline/non-Pauline views in, 206–11
+    - polemical attacks in, 213–17
+    - and Pseudo-Ignatian letters, 468 n. 57, 479
+    - scholarly perspectives on, 192–93
+    - verisimilitudes in, 206, 209, 210, 212, 212 n. 35
+    - on women, 374–77
+    - writing style of, 202–3, 212
+    - *See also* Titus; 1 Timothy; 2 Timothy
+- Patavinus, 99
+- Paul
+    - absolution of, 482
+    - and anonymous texts, 49
+    - and antinomianism, 302–3, 304, 305
+    - and Antioch, 257, 261 n. 61, 261–62, 264, 308 (*see also* Peter–Paul relationship)
+    - apocalyptic message of, 155
+    - and apologetic forgeries, 101
+    - and the apostles, 257, 263, 267, 281
+    - and Apostolic Constitutions, 15, 392
+    - authority of, 152, 173, 260, 262, 280–81
+    - and author’s relationship to authority, 87–88
+    - and Barnabas, 317
+    - on circumcision, 343
+    - and Clement of Rome, 311, 318
+    - and coauthorship theory, 212–13, 213 n. 39
+    - communities of, 173, 203–5
+    - conflicting views attributed to, 87–88
+    - conversion of, 257, 263, 267, 280, 309
+    - death of, 181 n. 53
+    - deceptions of, 542
+    - disputes regarding works of, 74, 76
+    - and Epistle of James, 261, 290–91, 291 n. 16, 294–95, 295 n. 23, 296–97
+    - and Epistula Clementis, 309–12
+    - and Epistula Petri, 306–8
+    - eschatological message of, 262–63
+    - fabrications about, 59–60
+    - on faith vs. works, 261, 294–95, 307
+    - on the flesh, 425–32
+    - forgeries in opposition to (*see* Epistula Clementis; Epistula Petri; James, epistle of; Jude, epistle of; Pseudo-Clementine literature)
+    - forgeries in support of (*see* Acts of the Apostles; 1 Peter; 2 Peter)
+    - gentile mission of, 173–74, 187–88, 306–7, 315, 315 n. 71
+    - and Gentiles, 187–88
+    - and Gospel of Luke, 51, 76, 117–18, 188 n. 70
+    - on grace vs. works, 186–87, 295, 302–3
+    - and Homilies, 312, 315, 316–20
+    - and James, 281, 288, 290, 296–97, 307, 315, 317
+    - and Jerusalem conference, 267
+    - and Jesus, 309
+    - and Jewish Law, 187, 206–7, 257, 261, 263, 267, 281, 288, 293, 295, 307
+    - and Letter to the Laodiceans, 441
+    - and lion incident, 381
+    - and literary fictions, 45, 45 n. 35
+    - and Luke, 76, 117–18, 265, 267, 276–79
+    - on marriage and sexual relations, 208, 372, 381, 383–84
+    - ministry and missionary work of, 202, 250–51, 253 n. 48, 263, 267, 309
+    - motivations of, 4–5
+    - opponents of, 179–82, 206–7, 209, 213–17, 226, 260–61, 280–81, 427, 428–30, 429 n. 66
+    - oral transmission of teachings by, 173
+    - and Pauline School theory, 172 n. 37, 172–74
+    - and Peter (*see* Peter–Paul relationship)
+    - and 1 Peter, 240, 240 n. 3
+    - 2 Peter’s references to, 227, 229
+    - on purity laws, 208, 211
+    - and Recognitions, 290, 314–15, 317–18
+    - on “Satan,” 185, 185 n. 67
+    - and secretary hypothesis, 161, 218–22
+    - and Seneca, 1–2, 101, 149, 153, 520–27
+    - on Shepherd of Hermas, 48
+    - as subject of debate, 152
+    - and substitutionary atonement of Jesus, 253
+    - on suffering, 255 n. 54, 259 n. 59
+    - and Tertullian, 76, 117–18, 188 n. 70
+    - and unity in church leadership, 257–58
+    - [p. 614] and *Vergegenwärtigung* tradition, 40, 41
+    - on women in the church, 207–8, 374–75, 376 n. 14, 383–84
+    - writing style of, 160–62
+    - writings in name of, 117–18, 149, 150 (*see also* Alexandrians; Apocalypse of Paul; Deutero-Pauline letters; Ephesians; Galatians; Hebrews; Laodiceans; Pastoral epistles; Romans; 1 Corinthians; 2 Corinthians; 2 Thessalonians; 3 Corinthians)
+- Paul and Seneca, Letters of, 520 n. 91, 520–27, 525 n. 108
+- *Paulus im ältesten Christentum* (Lindemann), 287 n. 7, 295 n. 23
+- “Paulus und die Weisheit” (Conzelmann), 172
+- Pausanias, 61, 80, 102
+- Pelagius, 75, 140
+- pen names, 45–47
+- Pergamum Library, 80, 84, 97, 118
+- Pericope Adulterae, 365
+- Periktyone, 109
+- Perpetua, 502–4, 503 n. 58
+- Persaeius, 70
+- persecution of Christians
+    - and Acts of Pilate, 352–53, 354, 357
+    - and Acts of the Apostles, 241, 257–58, 482
+    - in apostolic times, 241
+    - by Jews, 482
+    - and 1 Peter, 241, 256–59, 483
+    - by Romans, 357
+    - and Sibylline counterforgeries, 518
+- Peter (apostle)
+    - and Acts of the Apostles, 263–64, 307, 315 n. 71
+    - allegiances to, 42
+    - and anti-Jewish texts, 360
+    - and Antioch, 307, 308 (*see also* Peter–Paul relationship)
+    - and Apostolic Church Order, 397
+    - and Apostolic Constitutions, 15, 392
+    - authority of, 310, 311
+    - and bishop succession, 309–12
+    - and Clement of Rome, 309, 310, 310 n. 61, 311, 318
+    - and debates of the flesh, 408–12
+    - and Epistula Clementis, 309–12
+    - fabrications about, 59
+    - and faith vs. works ideology, 307
+    - and fig tree parable, 446
+    - gentile mission of, 257, 263, 306, 307, 309–10, 315, 315 n. 71
+    - and Gnostic community, 402–4
+    - and Gospel of Mark, 51, 76, 117–18, 188 n. 70, 327 n. 8
+    - and Homilies, 316–17, 320
+    - illiteracy of, 242–47, 245 n. 23
+    - and Jerusalem conference, 257, 263–64
+    - and Jesus, 251, 309, 401, 411
+    - and Jewish Law, 225, 257, 261, 306, 308, 332
+    - and Judaism, 332
+    - and leadership of the church, 401–4, 404 n. 99, 411
+    - martyrdom of, 241, 450 n. 126, 451, 484
+    - missionary work of, 247, 250
+    - name change of, 325, 327 n. 8
+    - Origen on epistles of, 88 n. 66
+    - and Paul (*see* Peter–Paul relationship)
+    - and Recognitions, 320
+    - Sibylline counterforgeries on, 352–53
+    - and Simon Magus, 313–14
+    - and Tertullian, 76, 117–18, 188 n. 70
+    - tour of realms of the dead, 447–48
+    - writings in name of, 117–18, 143–44, 149 (*see also* Apocalypse of Peter; Apocalypse of Peter, Coptic; Epistula Petri; Peter to Philip, Letter of; 1 Peter; 2 Peter)
+- Peter, gospel of
+    - and Akhmim fragment, 326, 327, 327 n. 8
+    - anti-Jewish sentiments of, 152, 328–32
+    - and Apocalypse of Peter, 445
+    - and apostolic authority, 17
+    - authenticity of, challenged, 75, 76
+    - authorship of, 2, 223, 328
+    - and criteria for authentication, 89, 142, 143
+    - on crucifixion, 357
+    - dating of, 328
+    - fabrications present in, 60
+    - and Gospel of John, 330
+    - and Justin on Peter’s “Memoirs,” 118, 324–26, 326 nn. 6–7
+    - narrative voice in, 271
+    - scholarly perspectives on, 4
+    - [p. 615] Serapion’s condemnation of, 75, 76, 90–91, 142, 150, 324, 327, 450
+    - techniques of forgers in, 123
+- Peter to Philip, letter of, 223, 409, 411, 450
+- 1 Peter, 239–263
+    - as apologia, 252 n. 44, 483–84
+    - on authority of Paul, 152, 260
+    - authorship of, 33, 223, 224, 240–42, 242 n. 9, 247, 248 n. 31
+    - and Coptic Apocalypse of Peter, 408
+    - and criteria for authentication, 89, 143
+    - on crucifixion, 401
+    - and Epistle of James, 297, 297 n. 28
+    - evidence of forgery in, 240–47
+    - function of forgery, 249–255
+    - and Ignatius/Pseudo-Ignatius, 470
+    - and illiteracy of Peter, 242–47
+    - and Mark, 248, 251, 251 n. 41, 254, 256
+    - Pauline character of, 250–55, 251 n. 41, 252 n. 44, 256
+    - on persecution, 241, 256–59, 483
+    - and Peter–Paul relationship, 255–59, 308
+    - reasons for, 255–59
+    - scholarly perspectives on, 239–40
+    - and secretary hypothesis, 218, 219, 222, 223 n. 63, 248–49
+    - on suffering, 254, 255 n. 54, 256–59, 259 n. 59, 483, 484
+    - and unity in church leadership, 257–59
+    - writing style of, 139
+- 2 Peter, 222–29, 259–63
+    - authenticity of, challenged, 74
+    - on authority of Paul, 152, 260, 261–63
+    - authorship of, 33, 222–25, 250
+    - and Coptic Apocalypse of Peter, 403 n. 94, 403–4, 408
+    - and criteria for authentication, 89, 143
+    - and Epistula Petri, 308
+    - eschatological theme of, 152, 225–29, 231, 262
+    - evidence for forgery of, 222–25
+    - on false teachers/teachings, 226–29, 230 n. 76, 308, 430
+    - and intention to deceive, 129–30
+    - and Jude, 55, 224, 227
+    - narrative voice in, 271
+    - and Peter–Paul relationship, 260, 261–62, 308
+    - plagiarism case for, 55
+    - polemical function of, 225–29
+    - scholarly perspectives on, 4
+    - and secretary hypothesis, 218, 219, 222, 223 n. 63
+    - techniques of forgers in, 33, 123
+    - and *Vergegenwärtigung* tradition, 41
+    - writing style of, 139, 223–24
+- Peter–Paul relationship
+    - Antioch incident
+
+        - conflict in, 257, 261 n. 61, 264
+
+        - Galatians on, 257, 307, 308, 316, 543
+
+        - and Homilies, 316
+
+        - and Jewish identity, 287
+
+        - and Jewish Law, 261–62, 307, 308
+
+        - and Johnson’s case, 290
+
+    - contrasts highlighted, 309
+    - depicted as
+
+        - in conflict, 257, 261 n. 61, 263–64, 316–17, 543
+
+        - as enemies, 281, 290, 306–8, 309–10
+
+        - in unified harmony, 255–59, 260, 261–62, 263–64, 310–11
+
+    - Irenaeus on, 310 n. 62, 310–11
+    - Jerome on, 543
+    - texts on
+
+        - Acts on, 251 n. 41, 257, 262, 263–64, 267, 281, 297, 307, 308
+
+        - 1 Clement on, 311
+
+        - Epistula Clementis on, 309–12
+
+        - Epistula Petri on, 290, 306–8
+
+        - Galatians on, 257, 261 n. 61, 307, 308, 543
+
+        - Homilies on, 315, 316–17
+
+        - 1 Peter on, 255–59, 308
+
+        - 2 Peter on, 260, 261–62, 308
+
+- Phaedo, 70
+- Phalaris, letters of, 44
+- Phibionites, 19–24, 58, 75
+- Philadelphians (Ignatius), 462, 471–74, 477, 479
+- Philemon
+    - Colossians compared to, 174, 178 n. 46
+    - on forgiveness of sins, 177 n. 43
+    - and intertextual interpretations, 376
+    - writing style of, 162, 175–76
+- Philetus, 191
+- Philip, 392, 412
+- Philip, gospel of
+    - authorship of, 2
+    - Epiphanius’ condemnation of, 19–20
+    - [p. 616] eschatological theme of, 236
+    - on material world, 417
+    - as pseudonymous work, 531
+- Philippians (Pauline)
+    - on church hierarchy, 205
+    - on Clement, 311
+    - eschatological theme of, 165, 185
+    - on forgiveness of sins, 177 n. 43
+    - and Letter to the Laodiceans, 439, 442, 443, 445
+    - and Letters of Paul and Seneca, 521
+    - writing style of, 162, 175–76, 185
+    - Philippians (Pseudo-Ignatius)
+    - ambiguities in, 478
+    - and Ignatian corpus, 462
+    - Job Commentary’s parallels with, 465
+    - on Judaism, 480
+    - theological perspectives in, 476, 477
+    - Ussher’s exposure of, 461
+- Philo, 321
+- Philoaus, 109
+- Philomelium church, 493
+- Philosophers (Phlegon), 81
+- philosophical schools, forgery in, 105–21
+    - ancient perspectives on, 107–11, 117–19, 173
+    - Iamblichus on, 107, 110–11, 111 n. 64
+    - of lecture notes, 114–15, 115 n. 74
+    - medical schools, 116–17
+    - motivations for, 112, 114, 119–121
+    - Porphyry on, 107, 108–10
+    - scholarly perspectives on, 105–7, 106 n. 53, 107 n. 54
+- Philostratus, 138–39
+- Phlegon, 81
+- Phocus of Samos, 81
+- Phygelus, 383
+- Phylarchus, 56–57
+- Phyntis, 109
+- Pilate
+    - and Abgar Correspondence, 365–66
+    - Anaphora Pilati on, 358–59
+    - and anti-Jewish texts, 328–30, 331, 354–62, 365
+    - in apologia, 484–85
+    - fabrications about, 60, 351
+    - and Gospel of Peter, 328–330, 331
+    - writings in name of (*see* Pilate Cycle)
+- Pilate Cycle, 358–62
+    - Anaphora Pilati, 358–59, 360, 361
+    - fabrications present in, 59, 60
+    - Letter of Herod to Pilate, 361–62
+    - Letter of Pilate to Claudius, 359–61
+    - Letter of Pilate to Herod, 362
+    - Mors Pilati, 362 n. 90
+    - Narrative of Joseph of Arimathea, 362 n. 90
+    - Paradosis Pilati, 359 n. 83
+    - on status of Jews, 152
+    - Vindicta Salvatoris, 362 n. 90
+    - *See also* Acts of Pilate (Christian version)
+- Pionius, 494, 504–5
+- Pisistratus, tyrant of Athens, 61, 62, 98, 112
+- Pisistratus of Ephesus, 70
+- Pistis Sophia, 412, 437
+- Pius, bishop of Rome, 49, 120 n. 92
+- plagiarism, 52–55
+    - in Apostolic Constitutions, 14, 55, 384, 384 n. 25
+    - attitudes toward, 85
+    - in 2 Peter, 55
+    - and scope of book, 6
+    - standards for, 115
+- Plato
+    - and Allegory of the Cave, 414
+    - and detection of forgeries, 138
+    - Diogenes on works of, 70
+    - on lying, 135, 540–41, 542
+    - prophylaxes of, 127
+    - on Sibyl, 514
+    - on Socrates’ paean, 104
+    - and techniques of forgers, 127, 128
+    - writings in name of, 122, 127, 212 n. 34
+- Plautus, 80, 138
+- Pliny the Elder, 54, 124–25, 137, 139, 241
+- Plutarch, 46, 61, 80, 84
+- polemics and polemical contexts, 3, 4, 531
+- political motivations of forgers, 98–99
+- Polybius
+    - on eyewitness testimony, 270, 270 n. 81, 274
+    - on fabrications, 56–58
+    - on market for forgeries, 98
+    - on plagiarism, 54
+    - Polycarp (Ignatian), 461, 462, 476, 507
+    - Polycarp (martyr), 193, 493, 496–99. *See also* Martyrdom of Polycarp
+- [p. 617] Polycrates, 70, 139
+- Pompey, 219
+- Porphyry, 85, 87 n. 65, 107, 108–10, 119, 519
+- Poseidippus, 81
+- Postel, G., 485
+- The Praise of Folly (Erasmus), 25
+- Preaching of Peter, 75, 89, 143
+- Preparatio Evangelica (Eusebius) 71, 538
+- Prodicus, 61, 84, 86
+- profit as motive of forgers, 97–98
+- Prolegomenon (Olympiodorus), 112
+- prophecies, *ex eventu*, 72–73
+- Prophecies of Barcabbas, 75
+- prophylaxes, 127–28, 131, 171
+- Protevangelium Jacobi
+    - as apologia, 60, 153, 488–91
+    - authorship of, 485, 487–88, 488 n. 17
+    - Celsus refutation in, 489–91
+    - condemnation of, by Pope, 486
+    - fabrications present in, 60, 489–91
+    - and Gospel of Pseudo-Matthew, 55
+    - motivations of author, 5, 491
+    - multifunctionality of, 151
+    - narrative voice in, 273, 274
+    - polemical targets of, 491–93
+    - titles of, 485 n. 7
+- proto-orthodox leadership
+    - and debates of the flesh, 407–8, 411–12
+    - and Letter to the Laodiceans, 444–45
+    - and Peter, 411
+    - and revelatory texts, 398–406
+- Proverbs, 247
+- Psalms, 177, 470
+- Psalms of Heracleides, 433
+- pseudepigrapha, definition of, 16, 29–30
+- Pseudo-Athanasius, 477
+- Pseudo-Clementine literature, 312–21
+    - Arian perspective of, 458–60
+    - on authority of Paul, 152
+    - authorship of, 312
+    - on crucifixion, 546 n. 41
+    - Grundschrift, 312, 313, 318
+    - on Judaism, 332
+    - on Peter–Paul relationship, 311
+    - polemics of, 313–14, 320–21, 459–60
+    - and Sibyllina, 510
+    - warnings against forgeries in, 127
+    - *See also* Homilies; Recognitions
+- Pseudo-Ignatian letters, 460–80
+    - ambiguities in, 478–79
+    - anachronisms and historical problems in, 461, 463
+    - Arian sentiments in, 394, 466, 467, 468, 474–75, 479
+    - author of, 394, 462–66 (*see also* Julian of Antioch)
+    - dating of, 460, 466
+    - influence of, 460
+    - interpolated versions of, 460–61, 462–63, 469–70
+    - Long Recension, 460, 461, 462
+    - Middle Recension, 5–6, 462
+    - polemical targets of, 474–78, 479–80
+    - purpose of, 466–68
+    - scholarly perspectives on, 4, 461–62
+    - techniques of forgers in, 469–70
+    - theological investments of, 462, 464, 470–74
+    - works, 462
+    - *See also* Antiochians; Ephesians; Hero; Mary of Cassobola; Philippians; Romans; Tarsians
+- Pseudo-Justin, 149, 514, 515
+- Pseudo-Matthew, gospel of, 55, 105, 273, 486
+- pseudonymity, 45–47
+    - definition of, 29–30
+    - and intellectual property, 78–81
+    - as literary form, 78–81, 128–29
+    - and motivations of forgers, 97
+- Pseudo-Plutarch, 66
+- psilanthropism, 467, 471–72, 474
+- Ptolemy Philadelphius, 98, 112
+- punishment of forgers, 83–85, 132
+- Pythagoras and Pythagorean school
+    - and Empedocles, 54, 115, 118
+    - Iamblichus on, 109–14, 111 n. 64
+    - and lecture-notes publications, 115, 115 n. 74, 119
+    - and literary output of school, 107, 107 n. 54, 108, 109–14, 111 n. 64
+    - and market for forgeries, 98
+    - poetry of, 79, 86
+    - and techniques of forgers, 124–25
+- Q writer, 55
+- Qoheleth, 71
+- Quintilian, 47, 80, 114–15, 135
+- [p. 618] Quintus, 495–96, 497, 500
+- Quintus Petilius, 124
+- Rahab, 547
+- reactualization of the tradition, 39–42
+- Rebouel, 406
+- Recognitions (Pseudo-Clement)
+    - Arian perspective of, 458–60
+    - authorship of, 1, 150, 312
+    - counterforgery of, 318–20, 319 n. 82
+    - dating of, 312 n. 63
+    - and Paul, 290, 314–15, 317–18
+    - polemic of, 314–15
+    - on Scriptural prophets, 343 n. 50
+- “A Reconsideration of Pseudepigraphy in Early Christianity” (Duff), 76
+- redactional forgeries, 34–35
+- religious motivations of forgers, 98–99
+- Republic (Plato), 135
+- Revelation
+    - and Ascension of Isaiah, 336–37
+    - authenticity of, challenged, 75, 76
+    - and criteria for authentication, 142
+    - curse in conclusion of, 66
+    - Dionysius on, 88–89
+    - eschatological theme of, 167, 229
+    - and homonymity issue, 48
+    - prophecies of, 74 n. 16
+    - writing style of, 139
+- revelatory texts, 398–406
+- Romans (Ignatius), 461, 462, 470, 471, 473
+- Romans (Pauline)
+    - Acts of the Apostles compared to, 267
+    - Colossians compared to, 176
+    - and Epistle of James, 291–93, 293 n. 19
+    - eschatological theme of, 165, 185, 216
+    - on foods, 208
+    - on forgiveness of sins, 177, 177 n. 43
+    - on Hermas, 48
+    - on Jewish Law, 206
+    - and Letter to the Galatians, 160
+    - oath in, 207
+    - on salvation, 187 n. 69
+    - and secretary hypothesis, 218
+    - and 1 Timothy, 373 n. 8
+    - on women in the church, 376 n. 14, 383–84
+    - writing style of, 162, 185
+- Rome, 241–42
+- Rufinus
+    - and criteria for authentication, 142
+    - and De recta in deum fide, 49
+    - on disputed authorship, 75
+    - and falsifications, 64–65
+    - on falsifications of writings, 63–64, 120
+    - and forged letters, 83
+    - on Recognitions, 459
+    - on Tertullian, 128
+- Rufus, 221
+- Sabbath, 340–41
+- Sabellianism, 467, 471–72, 473, 474, 476–78
+- *Sachkritik*, theological, 141–42
+- Salonius of Geneva, 84, 94–96
+- Salvian of Marseille, 84, 94–96, 119–20, 133, 548
+- Samaritan Chronicle II, 24 n. 32
+- Samuel, 50
+- 1 Samuel, 135, 545, 548
+- Sarpedon, 139
+- sea-voyage narration conventions, 269–70, 276
+- Second Treatise of the Great Seth, 20, 365, 406, 411
+- secretary hypothesis, 218–22
+    - for 1 Peter, 248–49
+    - scholarly perspectives on, 218 n. 50
+    - and writing style differences, 161, 185
+- Seneca
+    - and apologetic forgeries, 101
+    - and authority of authors, 85–86
+    - on Epicurean writings, 107–8
+    - and literary fictions, 45, 45 n. 35
+    - and Paul, 1–2, 101, 149, 153, 520–27
+    - and secretary hypothesis, 220
+- Seneca the Elder, 85
+- separationism, 409
+- Septuagint, 247
+- Serapion’s condemnation of Gospel of Peter
+    - and Akhmim fragment, 327
+    - and criteria for authorial authenticity, 90
+    - and docetism charges, 90, 142, 324, 327, 450
+    - and early orthodox criticism, 150
+    - Eusebius on, 90–91, 324
+    - and pseudepigraphy charges, 75, 76
+- sermons, 75
+- Seth, books of, 150
+- [p. 619] Severus Chronicle (Sulpicius Severus), 71
+- Sextus Emiricus, 135
+- sexual rituals and deviancies, 20–21, 22 n. 29
+- Shem, 404–6
+- Shepherd of Hermas
+    - authority of, 120 n. 92
+    - Eusebius on, 32 n. 8, 48, 75
+    - and homonymity issue, 48
+    - orthonymous status of, 32 n. 8, 74 n. 16
+    - Sibyl reference in, 514
+    - on truthfulness, 541–42
+- Sibylline Oracles, 508–19
+    - as apologetic forgeries, 513–18
+    - as Christian creations, 128, 512–13
+    - Christian interpolations of, 510–12
+    - as counter-forgeries, 518–19
+    - numbering of, 508
+    - Sibyls, 2, 508, 509–10, 513–19
+- Sidon, 71
+- Silas, 266, 268
+- Silvanus, 248–49, 251, 251 n. 41, 254, 256
+- Simon (false teacher), 18, 126, 349, 427–28, 436
+- Simon Magus, 313–14, 315, 315 n. 72, 316, 360, 392
+- Simon of Cyrene, 546 n. 41
+- Simon Peter. *See* Peter (apostle)
+- Simonides, 81
+- Simplicius, 79
+- Smyrneans (Ignatius), 420–21, 462, 473, 474, 477, 479
+- Socrates, 53, 70, 70 n. 2, 104, 135, 539–40
+- Socratic epistles, 44
+- Solomon, 35, 40, 71, 71 n. 6, 123, 264
+- Solon, 62
+- Sophia of Jesus Christ, 437
+- Sophocles, 66, 103, 541
+- Sosicrates of Rhodes, 47, 70
+- Sozomen, 447, 452 n. 133, 452–53
+- Spartans, 100–101
+- Spartianus, Pseudo-, 26
+- Speculum, 440, 441
+- speeches, 55–58
+- Stephen, 251
+- Strabo, 62
+- Strato, 81
+- Stromateis (Clement), 74, 76, 193, 277, 418, 486, 542, 543
+- students of philosophy, 105, 114–15, 173. *See also* philosophical schools, forgery in
+- style, literary, 138–39
+- Suetonius, 48, 99, 102, 108, 127
+- suffering
+    - Acts of the Apostles on, 257–58, 263
+    - Erasmus’s views on, 25
+    - of Jesus, 177, 255 n. 54, 257, 408–11, 409 n. 3, 421
+    - Paul’s views on, 255 n. 54, 259 n. 59
+    - persecution of Christians, 241
+    - 1 Peter on, 254, 255 n. 54, 256–59, 259 n. 59, 483, 484
+- Suron King of Tyre, 71
+- Sybilline Oracles. *See* oracles
+- Tacitus, 241
+- Tarsians (Pseudo-Ignatius), 461, 462, 469, 470–71, 474, 479
+- Tatian, 193
+- techniques of forgers, 121–28
+    - and deceptive intentions of forgers, 131–32
+    - first-person narratives, 123
+    - imitation of style, 121–22
+    - interpolations, 128
+    - material and literary prophylaxes, 127–28, 131
+    - verisimilitudes, 122–23
+    - warnings against forgeries, 126–27
+- Tel Hum, 245
+- Temple, destruction of, 242
+- Tertullian
+    - and Acts of Paul, 132–33, 379, 380, 382, 383
+    - on Acts of the Apostles, 277
+    - Adversus omnes haereses, 51, 149
+    - anti-Jewish writings of, 332
+    - on authority of canonical Gospels, 91, 117–18, 143, 188 n. 70
+    - on authorship of gospels, 51–52
+    - on book of Enoch, 72, 86, 140
+    - on fabrications, 59–60, 60 n. 75, 76, 84
+    - on Johannine writings, 423
+    - on Letter to the Laodiceans, 440
+    - on Marcion, 63, 91, 492, 492 n. 23
+    - on martyrs, 508
+    - on Passion of Perpetua, 503 n. 58
+    - and Pastoral epistles, 193
+    - on Pilate, 351
+    - and Pilate cycle works, 358
+    - and Pseudo-Ignatian letters, 461
+    - [p. 620] and Seneca, 527
+    - writing of, interpolated into Cyprian’s work, 120, 128
+- testaments, 229 n. 76
+- Thaddeus, 363
+- Thales, 81
+- “The Heroes’ Sons” (Homer), 50
+- Thecla, 59, 379, 379 n. 17, 380, 382
+- Themistogenes, 30
+- Theodoret, 50, 461, 544
+- Theodosius Augustus, 125
+- Theodotus, 461
+- Theogony (Hesiod), 37, 80
+- Theophilus
+    - and Acts dedication, 265, 277, 482
+    - and criteria for authentication, 90, 139
+    - on eyewitness testimony, 275
+    - on Sibyls and oracles, 516
+- Theopompus, 102
+- Thespis, 12
+- 1 Thessalonians
+    - Acts of the Apostles compared to, 267
+    - as earliest orthonymous writing, 156
+    - eschatological theme of, 151, 155, 156, 163, 165, 166, 169, 170, 259 n. 59
+    - and Gospel of Thomas, 232
+    - motivations of Paul, 4–5
+    - referenced in 2 Thessalonians, 168–70
+    - 2 Thessalonians compared to, 156–57, 158 n. 10, 158–60
+    - and Timothy, 210
+    - writing style of, 162, 175–76, 185
+- 2 Thessalonians, 156–71
+    - authorship of, 33
+    - as counterforgery, 151, 167–71, 170 n. 30
+    - as earliest forged writing, 156
+    - eschatological theme of, 152, 162–67, 169, 170, 262
+    - evidence of forgery in, 157–58
+    - prophylaxes of, 127
+    - on “Satan,” 185 n. 67
+    - scholarly perspectives on, 4, 76, 82, 156–57, 158
+    - techniques of forgers in, 33, 127, 170–71, 171 n. 31
+    - theology of, 162–67
+    - 1 Thessalonians compared to, 156–57, 158 n. 10, 158–60
+    - warnings against forgeries in, 24–25, 127, 150
+    - writing style of, 160–62, 175
+- Thessalus, 116
+- Thomas (apostle; tax collector), 392
+- Thomas (brother of Jesus), 230, 412–15, 457, 458 n. 17
+- Thomas, gospel of, 230–37
+    - anti-apocalyptic message of, 230–37
+    - anti-Jewish sentiments of, 338–44, 344 n. 51
+    - authorship of, 2, 149
+    - embedded forgery in, 34
+    - eschatological theme of, 152, 228, 230–37
+    - on false teachers, 236–37
+    - on the flesh, 152, 415–18
+    - and Gospel of Luke, 231 n. 77, 231–32, 341
+    - and Gospel of Peter, 412
+    - on the Kingdom of God, 231 n. 77, 231–32, 235, 236
+- Thomas the Contender, Book of, 152, 412–15, 413 n. 9, 418, 431, 439
+- Thucydides, 56, 58, 70 n. 2, 122 n. 95, 138, 274
+- Tiberius
+    - and Abgar Correspondence, 102, 365–66
+    - and Acts of Pilate, 352–53
+    - and Anaphora Pilati, 358–59
+    - fabrications about, 59, 60, 351
+    - and Letter of Pilate to Claudius, 360, 361
+    - and Sibylline Oracles, 509
+- Timaeus, 54, 57–58, 115, 270
+- Timothei ad Ecclesiam Libri IV (Salvian), 94–96, 119–20
+- Timothy
+    - and Colossians’ authorship, 172, 174
+    - Paul’s correspondence with, 84 (*see also* 1 Timothy; 2 Timothy)
+    - writings in name of, 94–96, 119–20, 133
+- 1 Timothy, 367–84
+    - authenticity of, challenged, 76
+    - authorship of, 33
+    - on church offices and hierarchy, 204–5, 208, 369, 377 n. 15, 377–79, 400
+    - as component of Pastoral corpus, 195, 196–205, 368 n. 3
+    - [p. 621] and 1 Corinthians, 376
+    - on false teachers, 207, 214, 369–74, 378
+    - historical context of, 369–70
+    - intention to deceive in, 32
+    - and intertextual interpretations, 376
+    - and Jewish Law, 206–7, 371–72, 373–74
+    - oath in, 207
+    - Pauline and non-Pauline views in, 206–9
+    - polemics of, 369–377
+    - rejection of, by early critics, 74, 193
+    - scholarly perspectives on, 4, 192
+    - on teachings of Jesus, 205
+    - techniques of forgers in, 33
+    - and 2 Timothy, 197–99
+    - and Titus, 196–97, 369
+    - and *Vergegenwäartigung* tradition, 40
+    - on women, 207–8, 374–77, 381
+    - writing style of, 203
+- 2 Timothy
+    - and Acts of Paul, 381
+    - authenticity of, challenged, 76
+    - chronological issues in, 209–10
+    - and coauthorship theory, 213
+    - as component of Pastoral corpus, 195, 197–205, 368, 368 n. 3
+    - as counterforgery, 217
+    - eschatological theme of, 152, 163, 191–92, 216–17, 231, 236
+    - on false teachers, 213–17, 370, 372–73
+    - historical context of, 369
+    - on lion incident, 381
+    - Pauline and non-Pauline views in, 209, 252
+    - polemic of, 213–17
+    - rejection of, by early critics, 74, 193
+    - and 1 Timothy, 197–99
+    - and Titus, 199
+    - and *Vergegenwärtigung* tradition, 41
+    - verisimilitudes in, 209, 212
+    - on women, 381
+    - writing style of, 202–3
+- Tischendorf, 354
+- Titus (associate of Paul), 94, 96, 380, 381
+- Titus, book of
+    - and Acts of the Apostles, 268
+    - on church offices and hierarchy, 204–5, 210–11, 377–79
+    - as component of Pastoral corpus, 195, 196–97, 199–205, 368 n. 3
+    - on false teachers, 214, 369–74, 378
+    - historical context of, 369–70
+    - Pauline and non-Pauline views in, 210–11
+    - polemics of, 369–77
+    - and 1 Timothy, 196–97, 369
+    - and 2 Timothy, 199
+    - writing style of, 203
+- Torah, authorship of, 51
+- traditional allegiances in Jewish culture, 39–42
+- traditions, supplementation of, 104–5
+- Trajan, 241
+- Trallians (Ignatius)
+    - ambiguities in, 478
+    - anachronisms and historical problems in, 461, 463
+    - on authority of apostles, 120
+    - on church hierarchy, 479
+    - on the flesh, 420, 421
+    - and Ignatian corpus, 462
+    - theological perspectives in, 472
+    - Trinitarian emphasis of, 471
+- “transparent” pseudepigraphy, 129–32, 230 n. 76, 533. *See also* intention to deceive
+- treatises, 75
+- Triagmi (Ion of Chius), 79
+- Trojan War, account of, 123–24
+- Trullan Council of 692, 19, 393
+- Tübingen School, 251–52, 252 n. 44
+- Tychicus, 188, 190
+- types of forgeries, 34–35
+- usage of writings, 89
+- Valentinians, 22–23, 58
+- Valerius Antias, 124
+- validation as motive of forgers, 119–21
+- Vaphres, 71
+- Varro, Terentius, 127, 138, 144, 269, 509, 516
+- *Vergegenwärtigung*, 39–42
+- verisimilitudes, 33, 44, 122–23, 131
+- Victor of Capua, 440
+- Victorinus, 75, 83
+- Vision of Isaiah, 333–34, 337
+- Vitruvius, 14, 53–54
+- Vivilius of Thapsus, 51 n. 54
+- War (Josephus), 71, 102
+- Wisdom of Solomon, 71, 71 n. 6
+- [p. 622] women
+    - Acts of Paul on, 381, 383
+    - Apostolic Church Order on, 397 nn. 77–79, 397–98
+    - 1 Corinthians on, 374–75, 376, 384
+    - Didascalia Apostolorum on, 388–90, 390 n. 43
+    - Galatians on, 383
+    - and Jesus, 397
+    - in leadership positions, 387, 389
+    - Romans on, 376 n. 14, 383–84
+    - 1 Timothy on, 207–8, 374–77, 381
+    - 2 Timothy on, 381
+- Xenophon, 30, 46, 70, 70 n. 2, 135, 539–40
+- Zacharaias, 485, 487
+- Zebedee, 246 n. 24
+- Zeno, 62, 84, 102, 118
+- Zopyrus of Heraclea, 86
+- Zostrianus, 85

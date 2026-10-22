@@ -1,0 +1,22 @@
+{
+  "promptDelete": true,
+  "showUnsupportedFiles": true,
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "Projects/_Originals/",
+    "AI/Archive/",
+    "Templates/"
+  ],
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "./Attachments",
+  "showLineNumber": true,
+  "strictLineBreaks": false,
+  "newFileFolderPath": "Notes",
+  "trashOption": "local",
+  "defaultViewMode": "preview",
+  "showInlineTitle": false,
+  "propertiesInDocument": "source",
+  "livePreview": true,
+  "readableLineLength": true,
+  "focusNewTab": false
+}

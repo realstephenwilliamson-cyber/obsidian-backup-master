@@ -1,0 +1,42 @@
+---
+type: "text"
+work: "Tantrāloka"
+author: "Abhinavagupta"
+commentary: "Jayaratha, Viveka"
+chapter: 15
+verse: 156
+edition: "Kashmir Series of Texts and Studies (KSTS), as transcribed by Muktabodha (M00093)"
+license: "CC BY-NC 4.0, Muktabodha Indological Research Institute"
+aliases:
+  - "TĀ 15.156"
+  - "TA 15.156"
+  - "Tantrāloka 15.156"
+---
+[[Tantraloka 15.155|← 15.155]] · [[Tantraloka 15 - Samayadiksaprakasana|Āhnika 15]] · [[Tantraloka 15.157|15.157 →]]
+
+## Mūla
+
+विश्वं व्रजदविघ्नत्वं स्वां सिद्धिं शीघ्रमावहेत् ।
+उक्तं च परमेशेन न विधिर्नार्चनक्रमः ॥ ^mula
+
+viśvaṃ vrajadavighnatvaṃ svāṃ siddhiṃ śīghramāvahet |
+uktaṃ ca parameśena na vidhirnārcanakramaḥ || ^iast
+
+## Translation
+
+> [!source] Dyczkowski, vol. VIII
+> [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 08 (Dyczkowski)/Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#^pg117|p. 99]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 08.pdf#page=117>))
+>
+> For the adept (sādhaka) (who desires worldly benefits) also, the Mantra that grants his accomplishment (siddhi) becomes one with the universe (he contemplates in this way), and (every) obstacle (to its realisation) ceasing (thereby), it quickly bestows its own accomplishment. (with 15.155cd–156ab)
+>
+> The Supreme Lord has said in the Mata and elsewhere: ‘There is no ritual procedure (vidhi) or liturgy (arcanakrama) (that attains the goal); the desired accomplishment (is achieved) solely by recollecting (mantra). (with 15.156cd–157ab)
+
+## Viveka
+
+*Lead-in:* एतां दशामधिरूढस्य हि किञ्चिदपि साधनं नोपादेयम्—तदागम इत्याह--
+
+> उक्तं च परमेशेन न विधिर्नार्चनक्रमः ॥
+> केवलं स्मरणात्सिद्धिर्वाञ्छितेति मतादिषु ।
+
+मतादिषु इति श्रीसिद्धामतादौ ॥
+

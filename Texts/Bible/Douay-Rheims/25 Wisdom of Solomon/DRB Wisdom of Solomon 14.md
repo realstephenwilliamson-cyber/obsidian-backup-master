@@ -1,0 +1,79 @@
+---
+type: text
+work: "Douay-Rheims Bible"
+book: "Wisdom of Solomon"
+douay_name: "Wisdom"
+chapter: 14
+translation: "Douay-Rheims, American edition of 1899"
+license: "Public domain (eBible.org, engDRA)"
+source: "https://ebible.org/find/details.php?id=engDRA"
+---
+# Wisdom of Solomon 14 (Douay-Rheims)
+
+*Wisdom 14 in the Douay-Rheims*
+
+[[DRB Wisdom of Solomon 13|← Wisdom of Solomon 13]] · [[Douay-Rheims|index]] · [[DRB Wisdom of Solomon 15|Wisdom of Solomon 15 →]]
+
+**14:1** Again, another designing to sail, and beginning to make his voyage through the raging waves, calleth upon a piece of wood more frail than the wood that carrieth him. ^14-1
+
+**14:2** For this the desire of gain devised, and the workman built it by his skill. ^14-2
+
+**14:3** But thy providence, O Father, governeth it: for thou hast made a way even in the sea, and a most sure path among the waves, ^14-3
+
+**14:4** Shewing that thou art able to save out of all things, yea though a man went to sea without art. ^14-4
+
+**14:5** But that the works of thy wisdom might not be idle: therefore men also trust their lives even to a little wood, and passing over the sea by ship are saved. ^14-5
+
+**14:6** And from the beginning also when the proud giants perished, the hope of the world fleeing to a vessel, which was governed by thy hand, left to the world seed of generation. ^14-6
+
+**14:7** For blessed is the wood, by which justice cometh. ^14-7
+
+**14:8** But the idol that is made by hands, is cursed, as well it, as he that made it: he because he made it; and it because being frail it is called a god. ^14-8
+
+**14:9** But to God the wicked and his wickedness are hateful alike. ^14-9
+
+**14:10** For that which is made, together with him that made it, shall suffer torments. ^14-10
+
+**14:11** Therefore there shall be no respect had even to the idols of the Gentiles: because the creatures of God are turned to an abomination, and a temptation to the souls of men, and a snare to the feet of the unwise. ^14-11
+
+**14:12** For the beginning of fornication is the devising of idols: and the invention of them is the corruption of life. ^14-12
+
+**14:13** For neither were they from the beginning, neither shall they be for ever. ^14-13
+
+**14:14** For by the vanity of men they came into the world: and therefore they shall be found to come shortly to an end. ^14-14
+
+**14:15** For a father being afflicted with bitter grief, made to himself the image of his son who was quickly taken away: and him who then had died as a man, he began now to worship as a god, and appointed him rites and sacrifices among his servants. ^14-15
+
+**14:16** Then in process of time, wicked custom prevailing, this error was kept as a law, and statues were worshipped by the commandment of tyrants. ^14-16
+
+**14:17** And those whom men could not honour in presence, because they dwelt far off, they brought their resemblance from afar, and made an express image of the king whom they had a mind to honour: that by this their diligence, they might honour as present, him that was absent. ^14-17
+
+**14:18** And to worshipping of these, the singular diligence also of the artificer helped to set forward the ignorant. ^14-18
+
+**14:19** For he being willing to please him that employed him, laboured with all his art to make the resemblance in the best manner. ^14-19
+
+**14:20** And the multitude of men, carried away by the beauty of the work, took him now for a god that a little before was but honoured as a man. ^14-20
+
+**14:21** And this was the occasion of deceiving human life: for men serving either their affection, or their kings, gave the incommunicable name to stones and wood. ^14-21
+
+**14:22** And it was not enough for them to err about the knowledge of God, but whereas they lived in a great war of ignorance, they call so many and so great evils peace. ^14-22
+
+**14:23** For either they sacrifice their own children, or use hidden sacrifices, or keep watches full of madness, ^14-23
+
+**14:24** So that now they neither keep life, nor marriage undefiled, but one killeth another through envy, or grieveth him by adultery: ^14-24
+
+**14:25** And all things are mingled together, blood, murder, theft and dissimulation, corruption and unfaithfulness, tumults and perjury, disquieting of the good, ^14-25
+
+**14:26** Forgetfulness of God, defiling of souls, changing of nature, disorder in marriage, and the irregularity of adultery and uncleanness. ^14-26
+
+**14:27** For the worship of abominable idols is the cause, and the beginning and end of all evil. ^14-27
+
+**14:28** For either they are mad when they are merry: or they prophesy lies, or they live unjustly, or easily forswear themselves. ^14-28
+
+**14:29** For whilst they trust in idols, which are without life, though they swear amiss, they look not to be hurt. ^14-29
+
+**14:30** But for two things they shall be justly punished, because they have thought not well of God, giving heed to idols, and have sworn unjustly, in guile despising justice. ^14-30
+
+**14:31** For it is not the power of them, by whom they swear, but the just vengeance of sinners always punisheth the transgression of the unjust. ^14-31
+
+[[DRB Wisdom of Solomon 13|← Wisdom of Solomon 13]] · [[Douay-Rheims|index]] · [[DRB Wisdom of Solomon 15|Wisdom of Solomon 15 →]]

@@ -1,0 +1,18 @@
+[
+{"pdf": 134, "number": "2", "before": "He studied poetics under Abhinava", "after": "and was", "certain": true},
+{"pdf": 137, "number": "3", "before": "Sarvathā rasasarvasvamabhāṅkṣīt Bhaṭṭa Nāyakaḥ", "after": "Svādayantu rasaṁ", "certain": false, "note": "very small faint raised digit at end of verse line; looks like 3 (sequence fits) but not clearly legible"},
+{"pdf": 140, "number": "1", "before": "on certain points in Abhinavabhāratī", "after": ". This compels", "certain": true},
+{"pdf": 142, "number": "2", "before": "in the poems suggesting Vipralambha Śṛṅgāra.", "after": "A poem", "certain": true},
+{"pdf": 142, "number": "3", "before": "an integral part of the Dhvanikāvya\".", "after": "Abhinavagupta in", "certain": true},
+{"pdf": 143, "number": "3A", "before": "music on the stage.", "after": "Thus Abhinavagupta", "certain": false, "note": "raised mark looks like '3' followed by a second small character (A or +); next note on p144 is 4, so 3A is likely but the second character is blurred"},
+{"pdf": 144, "number": "4", "before": "direct means of realisation of the Ultimate.", "after": "Sattarka is", "certain": true},
+{"pdf": 149, "number": "5", "before": "takes resort to the Īśvarapraṇidhāna.", "after": "These systems", "certain": true},
+{"pdf": 150, "number": "6", "before": "by Abhinava in his work called Kramakelī.", "after": "According to", "certain": false, "note": "printed as a raised '6' (or 5) followed by a dot and a second small blob (looks like '8' or an asterisk), e.g. '6·8'; possibly a double/compound reference; digits not clearly legible"},
+{"pdf": 152, "number": "8·6", "before": "a few words about Tantras,", "after": "the Krama", "certain": false, "note": "raised mark with two characters separated by a dot, reads like '8·6' (or '6·6'/'5·6'); similar compound form to the one on p150; digits not clearly legible"},
+{"pdf": 152, "number": "6", "before": "because he looks upon it as himself.", "after": "Śrī Rāmakṛṣṇa", "certain": false, "note": "single small raised digit, blurred; could be 6 or 8 (next notes on p156 are 7 and 8, so 6 fits)"},
+{"pdf": 156, "number": "7", "before": "must be tested once or twice.", "after": "Those only", "certain": true},
+{"pdf": 156, "number": "8", "before": "or holding a cobra by hand.", "after": "It is", "certain": true},
+{"pdf": 159, "number": "9", "before": "Ānandam Brahmaṇo vidvān Na bibheti kutaścana", "after": "Conclusion From", "certain": false, "note": "raised digit at end of verse line, blurred; looks like 9 or 8 (sequence suggests 9)"},
+{"pdf": 162, "number": "10", "before": "Pṛthaktvaikatvarūpeṇa tattvamekaṁ prakāśate", "after": "It was", "certain": false, "note": "two-character raised number at end of verse line; first is 1, second is blurred (likely 0)"},
+{"pdf": 163, "number": "11", "before": "Pāvaka sama jugabrahma viveku", "after": "We might,", "certain": true}
+]

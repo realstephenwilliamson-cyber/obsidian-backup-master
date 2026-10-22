@@ -1,0 +1,100 @@
+---
+type: text-index
+work: "Gorgias"
+author: Plato
+translator: "Walter Rangeley Maitland Lamb"
+edition: "Plato in Twelve Volumes, vol. 3 (Cambridge, MA: Harvard University Press / London: William Heinemann Ltd., 1925)"
+license: "Translation (Lamb 1925) and Greek text (Burnet): public domain; Perseus Digital Library TEI encoding: CC BY-SA 3.0 US"
+source: "https://github.com/PerseusDL/canonical-greekLit/tree/master/data/tlg0059/tlg023"
+---
+
+# Gorgias (Plato)
+
+**Author:** Plato  
+**Translator:** Walter Rangeley Maitland Lamb (Loeb Classical Library)  
+**Source:** Perseus Digital Library, PerseusDL/canonical-greekLit, data/tlg0059  
+**License:** the translation (Lamb 1925) and Burnet's Greek text are public domain; the Perseus TEI encoding is CC BY-SA 3.0 US  
+
+Stephanus pages 447–527 (81 pages).
+
+- [[Gorgias 447]]
+- [[Gorgias 448]]
+- [[Gorgias 449]]
+- [[Gorgias 450]]
+- [[Gorgias 451]]
+- [[Gorgias 452]]
+- [[Gorgias 453]]
+- [[Gorgias 454]]
+- [[Gorgias 455]]
+- [[Gorgias 456]]
+- [[Gorgias 457]]
+- [[Gorgias 458]]
+- [[Gorgias 459]]
+- [[Gorgias 460]]
+- [[Gorgias 461]]
+- [[Gorgias 462]]
+- [[Gorgias 463]]
+- [[Gorgias 464]]
+- [[Gorgias 465]]
+- [[Gorgias 466]]
+- [[Gorgias 467]]
+- [[Gorgias 468]]
+- [[Gorgias 469]]
+- [[Gorgias 470]]
+- [[Gorgias 471]]
+- [[Gorgias 472]]
+- [[Gorgias 473]]
+- [[Gorgias 474]]
+- [[Gorgias 475]]
+- [[Gorgias 476]]
+- [[Gorgias 477]]
+- [[Gorgias 478]]
+- [[Gorgias 479]]
+- [[Gorgias 480]]
+- [[Gorgias 481]]
+- [[Gorgias 482]]
+- [[Gorgias 483]]
+- [[Gorgias 484]]
+- [[Gorgias 485]]
+- [[Gorgias 486]]
+- [[Gorgias 487]]
+- [[Gorgias 488]]
+- [[Gorgias 489]]
+- [[Gorgias 490]]
+- [[Gorgias 491]]
+- [[Gorgias 492]]
+- [[Gorgias 493]]
+- [[Gorgias 494]]
+- [[Gorgias 495]]
+- [[Gorgias 496]]
+- [[Gorgias 497]]
+- [[Gorgias 498]]
+- [[Gorgias 499]]
+- [[Gorgias 500]]
+- [[Gorgias 501]]
+- [[Gorgias 502]]
+- [[Gorgias 503]]
+- [[Gorgias 504]]
+- [[Gorgias 505]]
+- [[Gorgias 506]]
+- [[Gorgias 507]]
+- [[Gorgias 508]]
+- [[Gorgias 509]]
+- [[Gorgias 510]]
+- [[Gorgias 511]]
+- [[Gorgias 512]]
+- [[Gorgias 513]]
+- [[Gorgias 514]]
+- [[Gorgias 515]]
+- [[Gorgias 516]]
+- [[Gorgias 517]]
+- [[Gorgias 518]]
+- [[Gorgias 519]]
+- [[Gorgias 520]]
+- [[Gorgias 521]]
+- [[Gorgias 522]]
+- [[Gorgias 523]]
+- [[Gorgias 524]]
+- [[Gorgias 525]]
+- [[Gorgias 526]]
+- [[Gorgias 527]]

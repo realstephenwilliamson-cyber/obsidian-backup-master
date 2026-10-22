@@ -1,0 +1,20 @@
+filters:
+  and:
+    - file.folder.startsWith("Catalog/")
+    - type != "index"
+    - file.folder != "Catalog/Scholars"
+    - physical_copy == true
+views:
+  - type: table
+    name: On the shelf
+    groupBy:
+      property: subject
+      direction: ASC
+    order:
+      - file.name
+      - year
+      - publisher
+      - subject
+    sort:
+      - property: title
+        direction: ASC

@@ -1,0 +1,61 @@
+---
+type: "annotations"
+work: "Jewish Annotated New Testament (2nd ed.)"
+book: "1 Peter"
+chapter: 1
+annotator: "Marcie Lenk"
+source: "Oxford University Press 2017 (2nd ed.; ISBN 978-0-19-046185-0); Stephen's copy"
+---
+# 1 Peter 1 (JANT notes)
+
+— · [[Jewish Annotated New Testament|JANT index]] · [[JANT 1 Peter 02|1 Peter 2 →]]
+
+Text: [[NRSVue 1 Peter 01|NRSVue]] · [[1 Peter 01|BSB and SBLGNT]] · Introduction: [[JANT 1 Peter - Introduction]]
+
+**[[NRSVue 1 Peter 01#^1-1|1.1–2]]:** **Greetings.** ^1-1
+
+**[[NRSVue 1 Peter 01#^1-1|1]]:** *Peter*, called Simon in the Gospels (e.g*.* , Mt 1.30; [[Mark 01#^1-16|Mk 1.16]],[[Mark 01#^1-30|30]]; [[Luke 05#^5-8|Lk 5.8]]; [[John 01#^1-40|Jn 1.40]]), and Cephas, the Aramaic for the Greek “petros” meaning “stone” or “rock,” in most of Paul’s writings ([[1 Corinthians 01#^1-12|1 Cor 1.12]]; [[1 Corinthians 03#^3-22|3.22]]; [[1 Corinthians 09#^9-5|9.5]]; [[1 Corinthians 15#^15-5|15.5]]; [[Galatians 01#^1-18|Gal 1.18]]; [[Galatians 02#^2-9|2.9]],[[Galatians 02#^2-11|11]],[[Galatians 02#^2-14|14]]). Jesus names him Peter ([[Matthew 16#^16-18|Mt 16.18]]; see [[Mark 03#^3-16|Mk 3.16]]; [[Luke 06#^6-14|Lk 6.14]]), and Paul once refers to him as Peter ([[Galatians 02#^2-7|Gal 2.7–8]]). *Apostle*, lit., “one sent out.” Paul uses “apostle” for himself and other leaders of communities in Christ ([[Romans 01#^1-1|Rom 1.1]]; [[Romans 16#^16-7|16.7]]; [[1 Corinthians 01#^1-1|1 Cor 1.1]]; [[Galatians 01#^1-1|Gal 1.1]]). *Exiles of the Dispersion* (Gk “diaspora”), likely a metaphor expressing the view that Christians perceive themselves as outsiders within Roman, pagan culture, and as separated from their true kingdom in heaven (1.4; 3.22). The text applies the condition of the (Jewish) exiles of 597 and 586 BCE in the Babylonian Diaspora to Jesus’ followers in *Pontus, Galatia, Cappadocia, Asia, and Bithynia*, regions in Asia Minor (Turkey). ^1-1-2
+
+**[[NRSVue 1 Peter 01#^1-2|2]]:** *Chosen* (Gk “eklektos”), appearing in the Gk in v 1 and not v 2, reflects the idea that exile is part of their chosenness. As God chose Israel and accompanied the people into Babylonian exile ([[Jeremiah 29#^29-4|Jer 29.4]]), so God chose this group and is with them in the exile of their suffering. See 1.17–18. *God the Father*, metaphor is used only occasionally in the Tanakh, e.g*.* , [[Torah 53 - Ha'Azinu#^32-6|Deut 32.6]]; see [[Torah 13 - Shemot#^4-22|Ex 4.22–23]]; [[Torah 44 - Devarim#^1-31|Deut1.31]], but common in the NT, e.g*.* , [[Matthew 06#^6-9|Mt 6.9]]; [[Mark 14#^14-36|Mk 14.36]]. *Spirit*, God’s presence in the world, [[John 14#^14-16|Jn 14.16–17]]; [[John 20#^20-22|20.22]]; [[Acts 02#^2-1|Acts 2.1–4]]. *Sprinkled with his blood*, in [[Torah 18 - Mishpatim#^24-3|Ex 24.3–8]], Moses sprinkles the Israelites with blood at Mt. Sinai in a ceremony reflecting sanctification and obedience. Sprinkling with the blood of Christ enhances the connection between Christ’s suffering and that of the letter’s recipients. *Grace and peace*, typical greetings in a Greek letter, see [[Romans 01#^1-7|Rom 1.7]]; [[1 Corinthians 01#^1-3|1 Cor 1.3]]; [[2 Thessalonians 01#^1-2|2 Thess 1.2]]; [[Titus 01#^1-4|Titus 1.4]]; like the Heb “ḥesed” and “shalom,” it points to values of self-giving and well-being. ^1-2
+
+**[[NRSVue 1 Peter 01#^1-3|1.3–12]]:** **Blessing.** ^1-3
+
+**[[NRSVue 1 Peter 01#^1-3|3]]:** *Blessed be the God*, God is praised, as in Jewish blessing formula, “Blessed are you God, king of the universe” (*b. Ber.* 12a). *New birth*, [[John 03#^3-3|Jn 3.3]],[[John 03#^3-5|5]],[[John 03#^3-7|7]]; [[Titus 03#^3-5|Titus 3.5]]; [[James 01#^1-18|Jas 1.18]]. *Resurrection*, Mt 28; Lk 24; Jn 20–21; [[Romans 06#^6-4|Rom 6.4–5]]; *b. Sanh.* 92b; *Lev. Rab.* 27.4; *Lam. Rab.* 3.23. ^1-3-2
+
+**[[NRSVue 1 Peter 01#^1-4|4]]:** *Inheritance*, the promise of salvation. In the Tanakh the inheritance of the people of Israel is the land (e.g., [[Torah 43 - Masei#^34-2|Num 34.2]]; [[Torah 48 - Shoftim#^20-6|Deut 20.6]]; [[Joshua 17#^17-4|Josh 17.4]]) and God ([[Torah 45 - Vaetchanan#^4-20|Deut 4.20]]; [[Psalms 033#^33-12|Ps 33.12]]), though later Jewish literature uses “inheritance” in reference to possession of the entire earth in end times (*Jub.* 32.19), life beyond this earth (2 Esd \[*4 Ezra*\] 7.9,17; *Pss. Sol*. 14.10; *1 En*. 40.9; *b. Ber.* 51a), or Torah (*Mek. Beshalakh* 10; *Eccl. Rab.* 7.11). *Imperishable, undefiled, and unfading*, believers are assured that God will repay them for their faith, although at present they are not able to enjoy physical gains in this world. What is now experienced as perishable, defiled, and fading will ultimately be the opposite. *Kept in heaven*, God’s promise is guaranteed, though it has not yet been delivered. See [[Psalms 031#^31-20|Ps 31.20]]; [[Colossians 01#^1-5|Col 1.5]]; *m. Avot* 4.16; *b. Qidd.* 39b. ^1-4
+
+**[[NRSVue 1 Peter 01#^1-5|5]]:** *To be revealed*, see 1.7n. *Last time*, [[Torah 12 - Vayechi#^49-1|Gen 49.1]]; [[Isaiah 02#^2-2|Isa 2.2–4]]; [[Jeremiah 49#^49-39|Jer 49.39]]; [[Ezekiel 38#^38-16|Ezek 38.16]]; *b. Sanh.* 99a; *b. Ber.* 34b. In their original contexts, the Tanakh verses mean “in the future,” without any implication of the end of time. ^1-5
+
+**[[NRSVue 1 Peter 01#^1-6|6]]:** *Suffer various trials*, some prophets told of an eschatological time of punishment and suffering, e.g., Am 5.18–20; 8.9–12; [[Zephaniah 2#^2-1|Zeph 2.1–4]]; [[Daniel 12#^12-1|Dan 12.1–2]]. Rabbinic tradition refers to suffering before the final redemption as “ḥevlo shel mashiah,” the birth pangs of the Messiah (*b. Pesah.* 118a; *b. Sanh.* 88b). ^1-6
+
+**[[NRSVue 1 Peter 01#^1-7|7]]:** *Faith . . . tested by fire*, suffering should not be understood as punishment from God, but as the refining of faith. *Revealed* (Gk “apocalypsis”), what is traditionally known as the “second coming.” The promise of Christ’s revelation is repeated seven times in 1 Peter: 1.5,7,12,13,20; 4.13; 5.1. ^1-7
+
+**[[NRSVue 1 Peter 01#^1-9|9]]:** *Salvation of your souls*, 1 Peter tells his audience that they can rejoice because they know that their reward for their faith comes through their unique relationship with God. ^1-9
+
+**[[NRSVue 1 Peter 01#^1-10|10–12]]:** *Prophets who prophesied*, according to 1 Peter, Israel’s prophets (e.g., Isaiah, Jeremiah), inspired by *the Spirit of Christ* (v 11), predicted the Christ’s advent, suffering, and glory, and thus they encourage first-century Christians who were suffering. For the author, like the author of the pesher literature from Qumran, the prophets *testified in advance*, and therefore the meaning of their prophecies can be found by present readers. ^1-10
+
+**[[NRSVue 1 Peter 01#^1-11|11]]:** *Sufferings destined for Christ*, the author might have had in mind [[Isaiah 53#^53-1|Isa 53.1–2]]; [[Daniel 09#^9-25|Dan 9.25–27]]. Nothing in the Tanakh speaks directly of a Messiah (Gk “christos”) suffering**.** ^1-11
+
+**[[NRSVue 1 Peter 01#^1-12|12]]:** *Holy Spirit sent from heaven*, the Spirit enables people to understand new things ([[John 16#^16-13|Jn 16.13–14]]; [[Acts 10#^10-44|Acts 10.44–45]]). *Angels long to look*, believers occupy a perspective greater than that given to the angels. On angels as less privileged, see [[Hebrews 01#^1-1|Heb 1.1–14]]. ^1-12
+
+### 1.13–25: Holy people
+
+*[[NRSVue 1 Peter 01#^1-13|Text]], p. 502* ^1-13
+
+**[[NRSVue 1 Peter 01#^1-13|13]]:** *Prepare your minds for actions*, lit., “girding the loins of your minds,” see God’s command to the Israelites to “gird your loins” while eating the paschal lamb in Egypt ([[Torah 15 - Bo#^12-11|Ex 12.11]]). *Grace*, here a reference to salvation, is parallel to the Heb “ḥesed,” often translated as “lovingkindness.” See [[Psalms 089#^89-3|Ps 89.3]]; *b. Sot.* 14a; *Avot de R. Natan* A 4, where God’s “ḥesed*”* is a model for proper and necessary human behavior. *He is revealed*, see 1.7n. **14**: *Children*, God is the “Father of our Lord Jesus Christ” (1.3), and the recipients have become children of God who is “Father”—this language gives readers an intimate identification with Jesus who suffered like them. See [[Torah 13 - Shemot#^4-22|Ex 4.22–23]]; [[Torah 44 - Devarim#^1-31|Deut 1.31]]. *Formerly had*, a reference to the listeners’ former lives before they became Christians, see 4.3. ^1-13-2
+
+**[[NRSVue 1 Peter 01#^1-15|15–16]]:** *You shall be holy*, confirming God’s command to Israel, [[Torah 26 - Shmini#^11-44|Lev 11.44–45]]; [[Torah 30 - Kedoshim#^19-2|19.2]]; [[Torah 30 - Kedoshim#^20-7|20.7]],[[Torah 30 - Kedoshim#^20-26|26]]. ^1-15
+
+**[[NRSVue 1 Peter 01#^1-17|17]]:** *Invoke as Father*, 1.1–2. *Judges . . . impartially*, various Tanakh texts, including [[Torah 46 - Eikev#^10-17|Deut 10.17]] and [[II Chronicles 19#^19-7|2 Chr 19.7]], emphasize God’s impartiality. *According to their deeds*, [[Torah 46 - Eikev#^11-13|Deut 11.13–21]]; *b. Sanh.* 90a. ^1-17
+
+**[[NRSVue 1 Peter 01#^1-18|18–19]]:** *Ransomed*, the author contrasts ordinary ransom, a physical life saved through payment of money, and the ransom of Christian believers through the *precious blood of Christ* (see [[Psalms 049#^49-7|Ps 49.6–8]]; [[Mark 10#^10-45|Mk 10.45]]; [[Hebrews 09#^9-15|Heb 9.15]]). *Futile ways . . . ancestors*, referring to the pagan former lives of the recipients. *Precious blood of Christ* is contrasted with *perishable things like silver or gold*. In 1.7, “genuineness of your faith” is contrasted with perishable silver and gold. Suffering Christians are like Christ, *a lamb without defect or blemish*, a perfect sacrifice (see [[Torah 31 - Emor#^22-21|Lev 22.21]]). For Christ as sacrificial lamb see [[John 01#^1-29|Jn 1.29]]; [[1 Corinthians 05#^5-7|1 Cor 5.7]]; [[Hebrews 09#^9-5|Heb 9.5]] (interpreting [[Isaiah 53#^53-7|Isa 53.7]]). ^1-18
+
+**[[NRSVue 1 Peter 01#^1-20|20]]:** *Destined before the foundation of the world*, see [[John 01#^1-1|Jn 1.1–2]]. In [[Proverbs 03#^3-19|Prov 3.19–20]]; [[Proverbs 08#^8-22|8.22–25]],[[Proverbs 08#^8-30|30–31]], God created the world with preexistent Wisdom, interpreted by the rabbis as Torah, which served as God’s blueprint for creation (*m. Avot* 3.14; *Lev. Rab*. 19.1). *End of the ages*, Jews would have understood “the end of days” to mean the ideal future period, the messianic age (see [[Isaiah 02#^2-1|Isa 2.1–4]]; [[Isaiah 11#^11-1|11.1–10]]; [[Ezekiel 37#^37-24|Ezek 37.24–28]]); for 1 Peter that time is now, see [[Torah 12 - Vayechi#^49-1|Gen 49.1]]; [[Habakkuk 2#^2-3|Hab 2.3]]; [[Hebrews 01#^1-2|Heb 1.2]]. ^1-20
+
+**[[NRSVue 1 Peter 01#^1-22|22]]:** *Purified your souls*, in the Tanakh, purification is achieved through ritual (in the case of physical impurity, e.g., [[Torah 26 - Shmini#^11-32|Lev 11.32]]) or atonement (in cases of sin, e.g., [[Ezekiel 36#^36-33|Ezek 36.33]]). For 1 Peter, the former beliefs and practices of the listeners made them “impure” and the author declares that their obedience purifies their souls. *Love one another*, [[Torah 30 - Kedoshim#^19-18|Lev 19.18]],[[Torah 30 - Kedoshim#^19-34|34]]; [[Matthew 22#^22-37|Mt 22.37–40]]; [[1 Corinthians 13#^13-1|1 Cor 13.1–13]]; *m. Avot* 1.12. See “The Concept of Neighbor,” p. 645. ^1-22
+
+**[[NRSVue 1 Peter 01#^1-23|23]]:** *Born anew*, the choice of Christian life and faith is understood by 1 Peter to be a kind of rebirth (see 1.3; 2.2; [[John 03#^3-1|Jn 3.1–8]]). Similarly, conversion to Judaism is seen as rebirth, *b. Yebam.* 62a. *Imperishable seed*, see [[1 Corinthians 15#^15-37|1 Cor 15.37–50]], an allusion to the resurrected body here understood as spiritually present. Similarly faith is an “imperishable inheritance” (1.4). ^1-23
+
+**[[NRSVue 1 Peter 01#^1-24|24–25]]:** [[Isaiah 40#^40-6|Isa 40.6–8]] is interpreted according to the key in 1.10–12 to speak directly to the readers. [[Isaiah 40#^40-1|Isa 40.1–6]] speaks of the end of suffering and God’s revelation in glory, and [[Isaiah 40#^40-9|Isa 40.9]] calls for an announcement of the good news, images used in 1 Peter. *Good news*, Gk “euangellos,” whence “evangelical.” ^1-24
+
+— · [[Jewish Annotated New Testament|JANT index]] · [[JANT 1 Peter 02|1 Peter 2 →]]

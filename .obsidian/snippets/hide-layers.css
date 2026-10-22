@@ -1,0 +1,31 @@
+/* Hide non-essential layers from the file explorer.
+   Enable in Settings -> Appearance -> CSS snippets (on since 4 Oct 2026).
+   Changed 12 Oct 2026 (restructure): Library, Templates and AI are hidden whole; the catalog is the way into the
+   library, Home and the folder notes are the way to everything else. Hidden folders still work everywhere else:
+   links, search, Omnisearch, the quick switcher and Smart Connections find their notes as before.
+   This hides FOLDERS by exact path and FILE TYPES, not individual files. Disable any time to see everything
+   again -- nothing here deletes or moves data. */
+
+/* Whole top-level layers */
+.nav-folder:has(> .nav-folder-title[data-path="Library"]),
+.nav-folder:has(> .nav-folder-title[data-path="Templates"]),
+.nav-folder:has(> .nav-folder-title[data-path="AI"]) {
+  display: none;
+}
+
+/* Raw/bulk source folders inside visible layers: the Muktabodha plain-text e-texts */
+.nav-folder:has(> .nav-folder-title[data-path="Texts/MUKTABODHA-LIBRARY-DEVANAGARI"]),
+.nav-folder:has(> .nav-folder-title[data-path="Texts/MUKTABODHA-LIBRARY-IAST_2026_02_20"]) {
+  display: none;
+}
+
+/* Non-markdown files anywhere (PDFs, epub, zip, txt, etc.) --
+   open them via the catalog note's file link instead of browsing to them */
+.nav-file:has(.nav-file-title[data-path$=".pdf"]),
+.nav-file:has(.nav-file-title[data-path$=".epub"]),
+.nav-file:has(.nav-file-title[data-path$=".mobi"]),
+.nav-file:has(.nav-file-title[data-path$=".zip"]),
+.nav-file:has(.nav-file-title[data-path$=".djvu"]),
+.nav-file:has(.nav-file-title[data-path$=".txt"]) {
+  display: none;
+}

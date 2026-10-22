@@ -1,0 +1,46 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Psalms"
+english_book: "Psalms"
+chapter: 2
+aliases:
+  - "Psalms 2"
+---
+# LXX Psalms 02
+
+← [[LXX Psalms 01]] · [[LXX]] · [[LXX Psalms 03]] →
+
+*Psalms · [[LXX]]*
+
+Hebrew numbering (JPS): [[Psalms 002]] · Prayer Book (1979): [[BCP Psalm 002]] · [[Psalms numbering]]
+
+**2:1** Wherefore did the heathen rage, and the nations imagine vain things?  ^2-1
+
+**2:2** The kings of the earth stood up, and the rulers gathered themselves together, against the Lord, and against his Christ;  ^2-2
+
+**2:3** *saying*, Let us break through their bonds, and cast away their yoke from us.  ^2-3
+
+**2:4** He that dwells in the heavens shall laugh them to scorn, and the Lord shall mock them.  ^2-4
+
+**2:5** Then shall he speak to them in his anger, and trouble them in his fury.  ^2-5
+
+**2:6** But I have been made king by him on Sion his holy mountain,  ^2-6
+
+**2:7** declaring the ordinance of the Lord: the Lord said to me, Thou art my Son, to-day have I begotten thee.  ^2-7
+
+**2:8** Ask of me, and I will give thee the heathen *for* thine inheritance, and the ends of the earth *for* thy possession.  ^2-8
+
+**2:9** Thou shalt rule them with a rod of iron; thou shalt dash them in pieces as a potter's vessel.[^1]  ^2-9
+
+**2:10** Now therefore understand, ye kings: be instructed, all ye that judge the earth.  ^2-10
+
+**2:11** Serve the Lord with fear, and rejoice in him with trembling.  ^2-11
+
+**2:12** Accept correction, lest at any time the Lord be angry, and ye should perish from the righteous way: whensoever his wrath shall be suddenly kindled, blessed are all they that trust in him.[^2]  ^2-12
+
+[^1]: 2:9 *Gr.* tend them as a shepherd. Rev. 2. 27.
+[^2]: 2:12 *Note.*- This rendering or a similar one the Jews maintain.

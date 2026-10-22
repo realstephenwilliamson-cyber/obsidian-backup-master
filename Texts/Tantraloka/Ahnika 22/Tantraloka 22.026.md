@@ -1,0 +1,45 @@
+---
+type: "text"
+work: "Tantrāloka"
+author: "Abhinavagupta"
+commentary: "Jayaratha, Viveka"
+chapter: 22
+verse: 26
+edition: "Kashmir Series of Texts and Studies (KSTS), as transcribed by Muktabodha (M00093)"
+license: "CC BY-NC 4.0, Muktabodha Indological Research Institute"
+aliases:
+  - "TĀ 22.26"
+  - "TA 22.26"
+  - "Tantrāloka 22.26"
+---
+[[Tantraloka 22.025|← 22.25]] · [[Tantraloka 22 - Lingoddharaprakasana|Āhnika 22]] · [[Tantraloka 22.027|22.27 →]]
+
+## Mūla
+
+ततो व्रतेश्वरस्तर्प्यः स्वाहान्तेन ततश्च सः ।
+क्षमयित्वा विसृज्यः स्यात्ततोऽग्नेश्च विसर्जनम् ॥ ^mula
+
+tato vrateśvarastarpyaḥ svāhāntena tataśca saḥ |
+kṣamayitvā visṛjyaḥ syāttato'gneśca visarjanam || ^iast
+
+## Translation
+
+> [!source] Dyczkowski, vol. IX
+> [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)/Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#^pg305|p. 285]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf#page=305>))
+>
+> Having encapsulated the name (of his disciple) with the Mantra that is being worshipped (in this way, he inserts it in the following mantra), appropriately modified according to the particular case. PRĀYAŚCITTAṀ ŚODHAYĀMI PHAṬ SVĀHĀ. Having offered a hundred or one thousand oblations (whilst uttering this Mantra), he casts a plenary oblation (into the fire) with the same procedure, ending with (the mantra) VAUṢAT. Then, having invoked the Lord of the Vow, saying OṀ VRAṬEŚVARĀYA NAMAḤ, he should then worship him and declare: “By Śiva’s command you should not do anything to him.” Then libation should be offered to the Lord of the Vow (with an oblation) that ends with the mantra SVĀHĀ. Having asked his pardon, he should be discharged, and so too the fire after that. (The procedure is in two parts): first the declaration to the deity, and then (the deity’s) discharge (with the words) “please pardon (him).” (with 22.23–27ab)
+
+## Viveka
+
+> पूजितेनैव मन्त्रेण कृत्वा नामास्य संपुटम् ।
+> प्रायश्चित्तं शोधयामि फट्स्वाहेत्यूहयोगतः ॥
+> शतं सहस्रं वा हुत्वा पुनः पूर्णाहुतिं तथा ।
+> प्रयोगाद्वौषडन्तां च क्षिप्त्वाहूय व्रतेश्वरम् ॥
+> तारो व्रतेश्वरायेति नमश्चेत्येनमर्चयेत् ।
+> श्रावयेच्च त्वया नास्य कार्यं किञ्चिच्छिवाज्ञया ॥
+> ततो व्रतेश्वरस्तर्प्यः स्वाहान्तेन ततश्च सः ।
+> क्षमयित्वा विसृज्यः स्यात्ततोऽग्नेश्च विसर्जनम् ॥
+> तच्छ्रवणं च देवाय क्षमस्वेति विसर्जनम् ।
+
+तारः प्रणवः । एनमिति--व्रतेश्वरम् ॥
+

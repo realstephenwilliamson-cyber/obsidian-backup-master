@@ -1,0 +1,19 @@
+# D31c, Rastogi, The Krama Tantricism of Kashmir I (1979): footnotes for the text-only notes (18 Oct 2026)
+
+Book: `Library/Trika/Rastogi - The Krama Tantricism of Kashmir, Volume I (1979).pdf` (326 pages; ABBYY FineReader 8 re-typeset text, no scan; body 9 pt, notes 8 pt, calls 5.8 pt raised; the Devanagari quotations in the notes are image fragments). Notes: `Library/Trika/The Krama Tantricism of Kashmir, Volume I (Rastogi)/`; the conversion of 7 Oct already gave the calls as `<sup>N</sup>` and made 47 footnotes. Stephen chose option 3 (18 Oct): pair calls only with notes that have text. Done with the Agent SDK on the laptop.
+
+## Result
+
+108 new footnotes on 62 pages in notes 01 and 03–07 (155 with the earlier 47). The other notes stay as they were.
+
+## Method (`transform.py`)
+
+Per page (pages that already had footnotes left alone): the notes zone from the layer (8 pt lines below the body) and the image fragments in it; a note is taken only if its label "N." is text, nothing between it and the next text label (or the end of the zone) is an image, and the next page's zone does not begin with unlabelled text or an image (a run-on); the body must have exactly one `<sup>N</sup>`; the Markdown must have exactly one paragraph run starting `N\.` whose words match the layer's note (difflib ratio ≥ 0.85). Then `<sup>N</sup>` → `[^N]` (or `[^N-p<page>]` where N is already used in the file) and the note's paragraphs → `[^N]: text`.
+
+## Not converted
+
+Text notes found 216 (the rest of the ~1,000 notes begin with a Devanagari image): an image follows 61; Markdown label paragraph not found once 16; Markdown text does not match the layer 14; call not exactly once on the page 9; runs on to the next page 8. Also 23 pages that already had footnotes. Seen in the image check: PDF 207 note 5 is misprinted "6." in the book (left alone); PDF 207 note 5 lost its second line in the 7 Oct conversion ("131, 145, 154, 167."), not touched.
+
+## Checks
+
+Image check before applying of PDF 130, 147, 193, 196, 207, 215, 225, 230, 245: all references and definitions correct. Markers, headings, frontmatter unchanged apart from `text_source`; removed only the `<sup>` tags and the notes' own labels; all 2,016 paragraphs without a footnote unchanged. After applying: the 6 notes identical to the checked output; 155 references and definitions, none unpaired; page blocks 240 before and after; unresolved links 10 files / 14 links before and after.

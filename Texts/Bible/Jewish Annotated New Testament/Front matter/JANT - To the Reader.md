@@ -1,0 +1,31 @@
+---
+type: "book-section"
+work: "Jewish Annotated New Testament (2nd ed.)"
+author: ""
+source: "Oxford University Press 2017 (2nd ed.; ISBN 978-0-19-046185-0); Stephen's copy"
+---
+# To the Reader (JANT)
+
+[[Jewish Annotated New Testament|JANT index]]
+
+^pg18
+
+\[The following prefatory essay, “To the Reader,” is part of the New Revised Standard Version Bible translation (NRSV), and is reprinted here in accordance with the requirements of the National Council of the Churches of Christ in the U.S.A., which holds copyright to the NRSV.\]
+
+This preface is addressed to you by the Committee of translators, who wish to explain, as briefly as possible, the origin and character of our work. The publication of our revision is yet another step in the long, continual process of making the Bible available in the form of the English language that is most widely current in our day. To summarize in a single sentence: the New Revised Standard Version of the Bible is an authorized revision of the Revised Standard Version, published in 1952, which was a revision of the American Standard Version, published in 1901, which, in turn, embodied earlier revisions of the King James Version, published in 1611.
+
+The need for issuing a revision of the Revised Standard Version of the Bible arises from three circumstances: (*a*) the acquisition of still older Biblical manuscripts, (*b*) further investigation of linguistic features of the text, and (*c*) changes in preferred English usage. Consequently, in 1974 the Policies Committee of the Revised Standard Version, which is a standing committee of the National Council of the Churches of Christ in the U.S.A., authorized the preparation of a revision of the entire RSV Bible.
+
+For the New Testament the Committee has based its work on the most recent edition of *The Greek New Testament*, prepared by an interconfessional and international committee and published by the United Bible Societies (1966; 3rd ed. corrected, 1983; information concerning changes to be introduced into the critical apparatus of the forthcoming 4th edition was available to the Committee). As in that edition, double brackets are used to enclose a few passages that are generally regarded to be later additions to the text, but which we have retained because of their evident antiquity and their importance in the textual tradition. Only in very rare instances have we replaced the text or the punctuation of the Bible Societies’ edition by an alternative that seemed to us to be superior. Here and there in the footnotes the phrase, “Other ancient authorities read,” identifies alternative readings preserved by Greek manuscripts and early versions. Alternative renderings of the text are indicated by the word “Or.”
+
+As for the style of English adopted for the present revision, among the mandates given to the Committee in 1980 by the Division of Education and Ministry of the National Council of Churches of Christ (which now holds the copyright of the RSV Bible) was the directive to continue in the tradition of the King James Bible, but to introduce such changes as are warranted on the basis of accuracy, clarity, euphony, and current English usage. Within the constraints set by the original texts and by the mandates of the Division, the Committee has followed the maxim, “As literal as possible, as free as necessary.” As a consequence, the New Revised Standard Version (NRSV) remains essentially a literal translation. Paraphrastic renderings have been adopted only sparingly, and then chiefly to compensate for a deficiency in the English language—the lack of a common gender third person singular pronoun.
+
+During the almost half a century since the publication of the RSV, many in the churches have become sensitive to the danger of linguistic sexism arising from the inherent bias of the English language towards the masculine gender, a bias that in the case of the Bible has often restricted or obscured the meaning of the original text. The mandates from the Division specified that, in references to men and women, masculine-oriented language should be eliminated as far as this can be done without altering passages that reflect the historical situation of ancient patriarchal culture. As can be appreciated, more than once the Committee found that the several mandates stood in tension and even in conflict. The various concerns had to be balanced case by case in order to provide a faithful and acceptable rendering without using contrived English. In the vast majority of cases, however, inclusiveness has been attained by simple rephrasing or by introducing plural forms when this does not distort the meaning of the passage. Of course, in narrative and in parable no attempt was made to generalize the sex of individual persons.
+
+It will be seen that in prayers addressed to God the archaic second person singular pronouns (*thee*, *thou*, *thine*) and verb forms (*art*, *hast*, *hadst*) are no longer used. Although some readers may regret this change, it should be pointed out that in the original languages neither the Old Testament nor the New makes any linguistic distinction between addressing a human being and addressing the Deity. Furthermore, in the tradition of the King James Version one will not expect to find the use of capital letters for pronouns that refer to the Deity—such capitalization is an unnecessary innovation that has only recently been introduced into a few English translations of the Bible. Finally, we have left to the discretion of the licensed publishers such matters as section headings, cross-references, and clues to the pronunciation of proper names.
+
+^pg19
+
+This new version seeks to preserve all that is best in the English Bible as it has been known and used through the years. It is intended for use in public reading and congregational worship, as well as in private study, instruction, and meditation. We have resisted the temptation to introduce terms and phrases that merely reflect current moods, and have tried to put the message of the Scriptures in simple, enduring words and expressions that are worthy to stand in the great tradition of the King James Bible and its predecessors.
+
+For the Committee, Bruce M. Metzger

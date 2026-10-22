@@ -1,0 +1,46 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Song of Songs"
+english_book: "Song of Solomon"
+chapter: 8
+aliases:
+  - "Song of Solomon 8"
+  - "LXX Song of Solomon 08"
+---
+# LXX Song of Songs 08
+
+← [[LXX Song of Songs 07]] · [[LXX]]
+
+*Song of Songs · [[LXX]]*
+
+**8:1** I would that thou, O my kinsman, wert he that sucked the breasts of my mother; when I found thee without, I would kiss thee; yea, they should not despise me.  ^8-1
+
+**8:2** I would take thee, I would bring thee into my mother's house, and into the chamber of her that conceived me; I would make thee to drink of spiced wine, of the juice of my pomegranates.  ^8-2
+
+**8:3** His left hand *should be* under my head, and his right hand should embrace me.  ^8-3
+
+**8:4** I have charged you, ye daughters of Jerusalem, by the virtues of the field, that ye stir not up, nor awake *my* love, until he please.  ^8-4
+
+**8:5** Who is this that comes up all white, leaning on her kinsman? I raised thee up under an apple-tree; there thy mother brought thee forth; there she that bore thee brought thee forth.  ^8-5
+
+**8:6** Set me as a seal upon thy heart, as a seal upon thine arm; for love is strong as death; jealousy is cruel as the grave, her shafts are shafts of fire, *even* the flames thereof.  ^8-6
+
+**8:7** Much water will not be able to quench love, and rivers shall not drown it; if a man would give all his substance for love, *men* would utterly despise it.  ^8-7
+
+**8:8** Our sister is little, and has no breasts; what shall we do for our sister, in the day wherein she shall be spoken for?  ^8-8
+
+**8:9** If she is a wall, let us build upon her silver bulwarks; and if she is a door, let us carve for her cedar panels.  ^8-9
+
+**8:10** I am a wall, and my breasts are as towers; I was in their eyes as one that found peace.  ^8-10
+
+**8:11** Solomon had a vineyard in Beelamon; he let his vineyard to keepers; every one was to bring for its fruit a thousand *pieces* of silver.  ^8-11
+
+**8:12** My vineyard, even mine, is before me; Solomon *shall have* a thousand, and they that keep its fruit two hundred.  ^8-12
+
+**8:13** Thou that dwellest in the gardens, the companions hearken to thy voice: make me hear *it*.  ^8-13
+
+**8:14** Away, my kinsman, and be like a doe or a fawn on the mountains of spices.  ^8-14

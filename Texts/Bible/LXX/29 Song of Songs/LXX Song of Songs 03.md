@@ -1,0 +1,40 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Song of Songs"
+english_book: "Song of Solomon"
+chapter: 3
+aliases:
+  - "Song of Solomon 3"
+  - "LXX Song of Solomon 03"
+---
+# LXX Song of Songs 03
+
+← [[LXX Song of Songs 02]] · [[LXX]] · [[LXX Song of Songs 04]] →
+
+*Song of Songs · [[LXX]]*
+
+**3:1** By night on my bed I sought him whom my soul loves: I sought him, but found him not; I called him, but he hearkened not to me.  ^3-1
+
+**3:2** I will rise now, and go about in the city, in the market-places, and in the streets, and I will seek him whom my soul loves: I sought him, but I found him not.  ^3-2
+
+**3:3** The watchmen who go their rounds in the city found me. *I said*, Have ye seen him whom my soul loves?  ^3-3
+
+**3:4** *It was* as a little *while* after I parted from them, that I found him whom my soul loves: I held him, and did not let him go, until I brought him into my mother's house, and into the chamber of her that conceived me.  ^3-4
+
+**3:5** I have charged you, O daughters of Jerusalem, by the powers and by the virtues of the field, that ye rouse not nor awake *my* love, until he please.  ^3-5
+
+**3:6** Who is this that comes up from the wilderness as pillars of smoke, perfumed with myrrh and frankincense, with all powders of the perfumer?  ^3-6
+
+**3:7** Behold Solomon's bed; sixty mighty men of the mighty ones of Israel are round about it.  ^3-7
+
+**3:8** They all hold a sword, being expert in war: every man *has* his sword upon his thigh because of fear by night.  ^3-8
+
+**3:9** King Solomon made himself a litter of woods of Lebanon.  ^3-9
+
+**3:10** He made the pillars of it silver, the bottom of it gold, the covering of it scarlet, in the midst of it a pavement of love, for the daughters of Jerusalem.  ^3-10
+
+**3:11** Go forth, ye daughters of Sion, and behold king Solomon, with the crown wherewith his mother crowned him, in the day of his espousals, and in the day of the gladness of his heart.  ^3-11

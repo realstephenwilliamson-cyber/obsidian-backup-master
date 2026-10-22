@@ -1,0 +1,60 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "2 Kingdoms"
+english_book: "2 Samuel"
+chapter: 10
+aliases:
+  - "2 Samuel 10"
+  - "LXX 2 Samuel 10"
+---
+# LXX 2 Kingdoms 10
+
+← [[LXX 2 Kingdoms 09]] · [[LXX]] · [[LXX 2 Kingdoms 11]] →
+
+*2 Kingdoms · [[LXX]]*
+
+**10:1** And it came to pass after this that the king of the children of Ammon died, and Annon his son reigned in his stead.  ^10-1
+
+**10:2** And David said, I will shew mercy to Annon the son of Naas, as his father dealt mercifully with me. And David sent to comfort him concerning his father by the hand of his servants; and the servants of David came into the land of the children of Ammon.  ^10-2
+
+**10:3** And the princes of the children of Ammon said to Annon their lord, *Is it* to honour thy father before thee that David has sent comforters to thee? Has not David rather sent his servants to thee that they should search the city, and spy it out and examine it?  ^10-3
+
+**10:4** And Annon took the servants of David, and shaved their beards, and cut off their garments in the midst as far as their haunches, and sent them away.  ^10-4
+
+**10:5** And they brought David word concerning the men; and he sent to meet them, for the men were greatly dishonoured: and the king said, Remain in Jericho till your beards have grown, and *then* ye shall return.  ^10-5
+
+**10:6** And the children of Ammon saw that the people of David were ashamed; and the children of Ammon sent, and hired the Syrians of Bæthraam, and the Syrians of Suba, and Roob, twenty thousand footmen, and the king of Amalec with a thousand men, and Istob with twelve thousand men.  ^10-6
+
+**10:7** And David heard, and sent Joab and all his host, *even* the mighty men.  ^10-7
+
+**10:8** And the children of Ammon went forth, and set the battle in array by the door of the gate: *those* of Syria, Suba, and Roob, and Istob, and Amalec, being by themselves in the field.  ^10-8
+
+**10:9** And Joab saw that the front of the battle was against him from that which was opposed in front and from behind, and he chose out *some* of all the young men of Israel, and they set themselves in array against Syria.  ^10-9
+
+**10:10** And the rest of the people he gave into the hand of Abessa his brother, and they set the battle in array opposite to the children of Ammon.  ^10-10
+
+**10:11** And he said, If Syria be too strong for me, then shall ye help me: and if the children of Ammon be too strong for thee, then will we be ready to help thee.  ^10-11
+
+**10:12** Be thou courageous, and let us be strong for our people, and for the sake of the cities of our God, and the Lord shall do that which is good in his eyes.  ^10-12
+
+**10:13** And Joab and his people with him advanced to battle against Syria, and they fled from before him.  ^10-13
+
+**10:14** And the children of Ammon saw that the Syrians were fled, and they fled from before Abessa, and entered into the city: and Joab returned from the children of Ammon, and came to Jerusalem.  ^10-14
+
+**10:15** And the Syrians saw that they were worsted before Israel, and they gathered themselves together.  ^10-15
+
+**10:16** And Adraazar sent and gathered the Syrians from the other side of the river Chalamak, and they came to Ælam; and Sobac the captain of the host of Adraazar *was* at their head.[^1][^2]  ^10-16
+
+**10:17** And it was reported to David, and he gathered all Israel, and went over Jordan, and came to Ælam: and the Syrians set the battle in array against David, and fought with him.  ^10-17
+
+**10:18** And Syria fled from before Israel, and David destroyed of Syria seven hundred chariots, and forty thousand horsemen, and he smote Sobac the captain of his host, and he died there.  ^10-18
+
+**10:19** And all the kings the servants of Adraazar saw that they were put to the worse before Israel, and they went over to Israel, and served them: and Syria was afraid to help the children of Ammon any more.[^3]  ^10-19
+
+[^1]: 10:16 *Heb.* and *Alex.* omit the name.
+[^2]: 10:16 *Gr.* before them.
+[^3]: 10:19 *Gr.* save.

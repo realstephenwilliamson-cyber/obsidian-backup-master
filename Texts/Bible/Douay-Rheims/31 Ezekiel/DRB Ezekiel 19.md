@@ -1,0 +1,45 @@
+---
+type: text
+work: "Douay-Rheims Bible"
+book: "Ezekiel"
+douay_name: "Ezechiel"
+chapter: 19
+translation: "Douay-Rheims, American edition of 1899"
+license: "Public domain (eBible.org, engDRA)"
+source: "https://ebible.org/find/details.php?id=engDRA"
+---
+# Ezekiel 19 (Douay-Rheims)
+
+*Ezechiel 19 in the Douay-Rheims*
+
+[[DRB Ezekiel 18|← Ezekiel 18]] · [[Douay-Rheims|index]] · [[DRB Ezekiel 20|Ezekiel 20 →]]
+
+**19:1** Moreover take thou up a lamentation for the princes of Israel, ^19-1
+
+**19:2** And say: Why did thy mother the lioness lie down among the lions, and bring up her whelps in the midst of young lions? ^19-2
+
+**19:3** And she brought out one of her whelps, and he became a lion: and he learned to catch the prey, and to devour men. ^19-3
+
+**19:4** And the nations heard of him, and took him, but not without receiving wounds: and they brought him in chains into the land of Egypt. ^19-4
+
+**19:5** But she seeing herself weakened, and that her hope was lost, took one of her young lions, and set him up for a lion. ^19-5
+
+**19:6** And he went up and down among the lions, and became a lion: and he learned to catch the prey, and to devour men. ^19-6
+
+**19:7** He learned to make widows, and to lay waste their cities: and the land became desolate, and the fulness thereof by the noise of his roaring. ^19-7
+
+**19:8** And the nations Game together against him on every side out of the provinces, and they spread their net over him, in their wounds he was taken. ^19-8
+
+**19:9** And they put him into a cage, they brought him in chains to the king of Babylon: and they cast him into prison, that his voice should no more be heard upon the mountains of Israel. ^19-9
+
+**19:10** Thy mother is like a vine in thy blood planted by the water: her fruit and her branches have grown out of many waters. ^19-10
+
+**19:11** And she hath strong rods to make sceptres for them that bear rule, and her stature was exalted among the branches: and she saw her height in the multitude of her branches. ^19-11
+
+**19:12** But she was plucked up in wrath, and cast on the ground, and the burning wind dried up her fruit: her strong rods are withered, and dried up: the fire hath devoured her. ^19-12
+
+**19:13** And now she is transplanted into the desert, in a land not passable, and dry. ^19-13
+
+**19:14** And a fire is gone out from a rod of her branches, which hath devoured her fruit: so that she now hath no strong rod, to be a sceptre of rulers. This is a lamentation, and it shall be for a lamentation. ^19-14
+
+[[DRB Ezekiel 18|← Ezekiel 18]] · [[Douay-Rheims|index]] · [[DRB Ezekiel 20|Ezekiel 20 →]]

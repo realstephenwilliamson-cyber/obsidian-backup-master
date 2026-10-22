@@ -1,0 +1,61 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Job"
+english_book: "Job"
+chapter: 10
+aliases:
+  - "Job 10"
+---
+# LXX Job 10
+
+← [[LXX Job 09]] · [[LXX]] · [[LXX Job 11]] →
+
+*Job · [[LXX]]*
+
+**10:1** Weary in my soul, I will pour my words with groans upon him: I will speak being straitened in the bitterness of my soul.  ^10-1
+
+**10:2** And I will say to the Lord, Do not teach me to be impious; and wherefore hast thou thus judged me?  ^10-2
+
+**10:3** Is it good before thee if I be unrighteous? for thou hast disowned the work of thy hands, and attended to the counsel of the ungodly.  ^10-3
+
+**10:4** Or dost thou see as a mortal sees? or wilt thou look as a man sees?  ^10-4
+
+**10:5** Or is thy life human, or thy years *the years* of a man,  ^10-5
+
+**10:6** that thou hast enquired into mine iniquity, and searched out my sins?  ^10-6
+
+**10:7** For thou knowest that I have not committed iniquity: but who is he that can deliver out of thy hands?  ^10-7
+
+**10:8** Thy hands have formed me and made me; afterwards thou didst change *thy mind*, and smite me.  ^10-8
+
+**10:9** Remember that thou hast made me *as* clay, and thou dost turn me again to earth.  ^10-9
+
+**10:10** Hast thou not poured me out like milk, and curdled me like cheese?  ^10-10
+
+**10:11** And thou didst clothe me with skin and flesh, and frame me with bones and sinews.  ^10-11
+
+**10:12** And thou didst bestow upon me life and mercy, and thy oversight has preserved my spirit.  ^10-12
+
+**10:13** Having these things in thyself, I know that thou canst do all things; for nothing is impossible with thee.  ^10-13
+
+**10:14** And if I should sin, thou watchest me; and thou hast not cleared me from iniquity.  ^10-14
+
+**10:15** Or if I should be ungodly, woe is me: and if I should be righteous, I cannot lift myself up, for I am full of dishonour.  ^10-15
+
+**10:16** For I am hunted like a lion for slaughter; for again thou hast changed and art terribly destroying me;  ^10-16
+
+**10:17** renewing against me my torture: and thou hast dealt with me in great anger, and thou hast brought trials upon me.  ^10-17
+
+**10:18** Why then didst thou bring me out of the womb? and why did I not die, and no eye see me,  ^10-18
+
+**10:19** and I become as if I had not been? for why was I not carried from the womb to the grave?  ^10-19
+
+**10:20** Is not the time of my life short? suffer me to rest a little,  ^10-20
+
+**10:21** before I go whence I shall not return, to a land of darkness and gloominess;  ^10-21
+
+**10:22** to a land of perpetual darkness, where there is no light, neither *can any one* see the life of mortals.  ^10-22

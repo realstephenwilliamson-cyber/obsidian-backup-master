@@ -1,0 +1,20 @@
+---
+type: book-section
+book: "[[Markandeya Purana]]"
+order: 112
+---
+## Chapter 112
+
+← [[Markandeya Purana 111]] · [[Markandeya Purana]] · [[Markandeya Purana 113]] →
+
+‘Markandeya said, “O brahmana! Pramati Bhargava invoked that curse on Nala, seeming to burn down the three worlds in his rage. He said, ‘You arrived in a state of intoxication and insolence in my hermitage and seized my wife by force. Therefore, you will soon be reduced to ashes.’ As soon as he spoke these words, a fire emerged from his [^959] body and reduced Nala to ashes. On witnessing his powers, Sudeva lost his state of intoxication. He prostrated himself before him and said, ‘You should forgive me. Please forgive me. O illustrious one! Because I was intoxicated from drinking liquor, I spoke those words. Please be pacified and forgive me. Please take back the curse.’ After Nala had been burnt down, Pramati Bhargava lost his rage and his mind was no longer disturbed. Pacified in this way, he replied, ‘The words that I spoke cannot be falsified. However, since I am pleased with you, I will show you a great favour. There is no doubt that you will become a vaishya. But in that very life, you will soon give up the state of a vaishya and become a kshatriya again. That will happen when someone born as a kshatriya forcibly seizes your daughter. When that seizure happens, on your own, you will change back from being a vaishya to being a kshatriya. O lord of the earth! In this way, my father, Sudeva became a vaishya. O immensely fortunate one! Hear everything about who I am. In the Gandhamadana mountains, there was a royal sage named Suratha. He was an ascetic and controlled in his diet. He had given up all attachment and had retired to the forest. He saw a sharika bird fall down to the ground from the mouth of a hawk. Because of his compassion, the great-souled one immediately lost his senses. When he regained his senses, I was generated from his body. On seeing me, his heart was filled with affection and he accepted me. The lord said, “My daughter was born when I was filled with compassion. Therefore, her name will be Kripavati.” [^960] I grew up in the hermitage. Day and night, I roamed around in the forest, along with friends who were like me. The sage Agastya had a famous brother. He was wandering around in the forest, looking for flowers and my friends enraged him. [^961] Therefore, he invoked a curse. “Since you have addressed me as a vaishya, I am cursing you that you will become a vaishya.” When the sage said this, I tried to pacify him. “O supreme among brahmanas! I have not committed a crime against you. Why are you cursing me because of a crime someone else has committed?” The rishi replied, “Someone who is not wicked becomes wicked by association with those who are wicked. It is like a pot filled with the five products from a cow [^962] becoming polluted when a drop of liquor falls into it. However, you prostrated yourself and said that you had not committed a crime. O child! You have pleased me and I will show you my favours. Listen to what I will do. When you are born as a vaishya and instruct your son about accepting the kingdom, you will get back the memory of your past life. At that time, along with your husband, you will again become a kshatriya. With your husband, you will then obtain the right to enjoy all the divine objects of pleasure.” O Indra among kings! In this way, I was formerly cursed by the maharshi. Earlier, my father had been cursed by Pramati. O king! Thus, you are not a vaishya and my father is also not a vaishya. Since I am not tainted, how can you become tainted because of your association with me? I am not degraded.’”’
+
+---
+
+[^959]: Pramati’s.
+
+[^960]: *Kripa* means compassion. The two names Sudeva and Suratha may cause confusion. Kripavati was Suratha’s daughter. In her next life, she was born as Sudeva’s daughter, Suprabha.
+
+[^961]: One deduces that Kripavati’s friends had called Agastya’s brother a vaishya.
+
+[^962]: Milk, ghee, curd, urine, dung—*pancha gavya*.

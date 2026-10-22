@@ -1,0 +1,106 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "1 Paralipomenon"
+english_book: "1 Chronicles"
+chapter: 9
+aliases:
+  - "1 Chronicles 9"
+  - "LXX 1 Chronicles 09"
+---
+# LXX 1 Paralipomenon 09
+
+← [[LXX 1 Paralipomenon 08]] · [[LXX]] · [[LXX 1 Paralipomenon 10]] →
+
+*1 Paralipomenon · [[LXX]]*
+
+**9:1** And *this is* all Israel, *even* their enrolment: and these *are* written down in the book of the kings of Israel and Juda, with the *names of them* that were carried away to Babylon for their transgressions.  ^9-1
+
+**9:2** And they that dwelt before in their possessions in the cities of Israel, the priests, the Levites, and the appointed ones.  ^9-2
+
+**9:3** And there dwelt in Jerusalem some of the children of Juda, and of the children of Benjamin, and of the children of Ephraim, and Manasse.  ^9-3
+
+**9:4** And Gnothi, and the son of Samiud, the son of Amri, the son of Ambraim, the son of Buni, son of the sons of Phares, the son of Juda.  ^9-4
+
+**9:5** And of the Selonites; Asaia his first-born, and his sons.  ^9-5
+
+**9:6** Of the sons of Zara; Jeel, and their brethren, six hundred and ninety.  ^9-6
+
+**9:7** And of the sons of Benjamin; Salom, son of Mosollam, son of Odouia, son of Asinu.  ^9-7
+
+**9:8** And Jemnaa son of Jeroboam, and Elo: these *are* the sons of Ozi the son of Machir: and Mosollam, son of Saphatia, son of Raguel, son of Jemnai;  ^9-8
+
+**9:9** and their brethren according to their generations, nine hundred and fifty-six, all the men *were* heads of families according to the houses of their fathers.  ^9-9
+
+**9:10** And of the priests; Jodaë, and Joarim, and Jachin,  ^9-10
+
+**9:11** and Azaria the son of Chelcias, the son of Mosollam, the son of Sadoc, the son of Maraïoth, the son of Achitob, the ruler of the house of God;  ^9-11
+
+**9:12** and Adaia son of Iraam, son of Phascor, son of Melchia, and Maasaia son of Adiel, son of Ezira, son of Mosollam, son of Maselmoth, son of Emmer;  ^9-12
+
+**9:13** and their brethren, chiefs of their families, a thousand seven hundred and sixty, mighty *men* for the work of the ministration of the house of God.  ^9-13
+
+**9:14** And of the Levites; Samaia son of Asob, son of Ezricam, son of Asabia, of the sons of Merari.  ^9-14
+
+**9:15** And Bacbacar, and Ares, and Galaal, and Matthanias son of Micha, son of Zechri, son of Asaph;  ^9-15
+
+**9:16** and Abdia, son of Samia, son of Galaal, son of Idithun, and Barachia son of Ossa, son of Helcana—who dwelt in the villages of the Notephatites.  ^9-16
+
+**9:17** The door-keepers; Salom, Acum, Telmon, and Diman, and their brethren; Salom *was* the chief;  ^9-17
+
+**9:18** and *he waited* hitherto in the king's gate eastward: these *are* the gates of the companies of the sons of Levi.  ^9-18
+
+**9:19** And Sellum the son of Core, the son of Abiasaph, the son of Core, and his brethren belonging to the house of his father, the Corites *were* over the works of the service, keeping the watches of the tabernacle, and their fathers over the camp of the Lord, keeping the entrance.  ^9-19
+
+**9:20** And Phinees son of Eleazar was head over them before the Lord, and these *were* with him.  ^9-20
+
+**9:21** Zacharias the son of Mosollami *was* keeper of the door of the tabernacle of witness.  ^9-21
+
+**9:22** All the chosen porters in the gates *were* two hundred and twelve, these *were* in their courts, *this was* their distribution: these David and Samuel the seer established in their charge.  ^9-22
+
+**9:23** And these and their sons *were* over the gates in the house of the Lord, and in the house of the tabernacle, to keep watch.  ^9-23
+
+**9:24** The gates were toward the four winds, eastward, westward, northward, southward.  ^9-24
+
+**9:25** And their brethren *were* in their courts, to enter in weekly from time to time with these.  ^9-25
+
+**9:26** For four strong *men* have the charge of the gates; and the Levites were over the chambers, and they keep watch over the treasures of the house of God.  ^9-26
+
+**9:27** For the charge *was* upon them, and these *were* charged with the keys to open the doors of the temple every morning.  ^9-27
+
+**9:28** And *some* of them *were appointed* over the vessels of service, that they should carry them in by number, and carry them out by number.  ^9-28
+
+**9:29** And *some* of them *were* appointed over the furniture, and over all the holy vessels, and over the fine flour, the wine, the oil, the frankincense, and the spices.  ^9-29
+
+**9:30** And some of the priests were makers of the ointment, and *appointed to prepare* the spices.  ^9-30
+
+**9:31** And Matthathias of the Levites, (he *was* the first-born of Salom the Corite,) *was set* in charge over the sacrifices of meat-offering of the pan belonging to the high priest.  ^9-31
+
+**9:32** And Banaias the Caathite, from among their brethren, *was set* over the shewbread, to prepare it every sabbath.  ^9-32
+
+**9:33** And these *were* the singers, heads of families of the Levites, *to whom were* established daily courses, for they were employed in the services day and night.  ^9-33
+
+**9:34** These *were* the heads of the families of the Levites according to their generations; these chiefs dwelt in Jerusalem.  ^9-34
+
+**9:35** And Jeël the father of Gabaon dwelt in Gabaon; and his wife's name *was* Moöcha.  ^9-35
+
+**9:36** And his first-born son *was* Abdon, and *he had* Sur, and Kis, and Baal, and Ner, and Nadab,  ^9-36
+
+**9:37** and Gedur and *his* brother, and Zacchur, and Makeloth.  ^9-37
+
+**9:38** And Makeloth begot Samaa: and these dwelt in the midst of their brethren in Jerusalem, *even* in the midst of their brethren.  ^9-38
+
+**9:39** And Ner begot Kis, and Kis begot Saul, and Saul begot Jonathan, and Melchisue, and Aminadab, and Asabal.  ^9-39
+
+**9:40** And the son of Jonathan *was* Meribaal: and Meribaal begot Micha.  ^9-40
+
+**9:41** And the sons of Micha *were* Phithon and Malach, and Tharach.  ^9-41
+
+**9:42** And Achaz begot Jada: and Jada begot Galemeth, and Gazmoth, and Zambri; and Zambri begot Massa.  ^9-42
+
+**9:43** And Massa begot Baana, and Rhaphaïa *was* his son, Elasa his son, Esel his son.  ^9-43
+
+**9:44** And Esel had six sons, and these *were* their names; Esricam his first-born, and Ismael, and Saraia, and Abdia, and Anan, and Asa: these *were* the sons of Esel.  ^9-44

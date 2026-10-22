@@ -1,0 +1,16 @@
+---
+type: book-section
+book: "[[Markandeya Purana]]"
+order: 52
+---
+## Chapter 52
+
+← [[Markandeya Purana 051]] · [[Markandeya Purana]] · [[Markandeya Purana 053]] →
+
+‘Markandeya continued, “O supreme among brahmanas! In the four mountains beginning with Mandara, there are four groves and four lakes. Hear about them. In the east, there is the grove named Chaitraratha and in the south, Nandana. In the western mountain, there is the grove Vaibhraja and in the northern mountain, the one known as Savitra. The lake Arunoda is to the east and Manasa to the south. The lake Shitoda is to the west of Meru and Mahabhadra to the north. To the east of the great mountain of Mandara, are the mountains Shitarta, Chakramunja, Kulira, Ashva, Kangavat, Manishaila, Vrishavat, Mahanila, Bhavachala, Venu, Tamasa, Nishadha and Devashaila. On the southern flank of the great mountain of Mandara are the mountains Trikuta, Shikharadri, Kalinga, Patangaka, Ruchaka, the mountain Sanumat, Tamraka, Vishakhavat, Shvetadara, Samula, Vasudhara, Ratnavat, Ekashringa, Mahashaila, Rajashaila, Pipathaka, Panchashaila, Kailasa and Himavat, [^619] supreme among mountains. To the west of Meru, beyond the mountains that are adjacent, are the mountains Suraksha, Shishiraksha, Vaidurya, Pingala, Pinjara, Mahabhadra, Surasa, Kapila, Madhu, Anjana, Kukkuta, Krishna, Pandura, supreme among mountains, the mountain Sahasrashikhara, Pariyatra and Shringavat. Hear about the mountains that are known to be to the north. O brahmana! The mountains to the north of Meru are said to be Shankhakuta, Vrishabha, the mountain Hamsanabha, the mountain Kapilendra, Sanumat, Nila, Svarnashringa, Shatashringa, Pushpaka, Meghaparvata, Virajaksha, Varahadri, Mayura and Jarudhi. The valleys of these mountains are extremely beautiful. They are adorned with groves and lakes full of sparkling water. O supreme among brahmanas! Men who are auspicious in their deeds are born there. O best among brahmanas! These regions are like heaven on earth and possess qualities that are superior to heaven. There is no acquisition of merit from good deeds or demerit from bad deeds there. It is said that even the gods enjoy the fruits of their good deeds there. O supreme among brahmanas! On these mountains, Shitanta [^620] and the others, are the great and beautiful residences of vidyadharas, yakshas, kinnaras, *uraga*s, rakshasas, gods and gandharvas. These are pure and pleasant places, filled with divine groves. The lakes are pleasant and the wind is pleasant in all the seasons. Nowhere is there any hardship, or agitation of the mind. I have spoken to you about the lotus on earth, with its four leaves. Bhadrashva, Bharata and the others are the leaves in the four directions. I have spoken about Bharatavarsha, which is to the south. This is *karma-bhumi*. There is no acquisition of merit from good deeds and demerit from bad deeds in any of the others. Know that because these are firmly established here, this is the most important region. O brahmana! It is here that men obtain heaven, hell, emancipation, birth as humans and birth as inferior species.”’
+
+---
+
+[^619]: Himalayas.
+
+[^620]: Probably the same as the Shitarta mentioned earlier.

@@ -1,0 +1,6 @@
+{
+  "_about": "Folders the views cannot find from a note's name (restructure, 12 Oct 2026). When one of these folders moves, change its value here; every other note a view needs is found by its name. letterCycleStart (19 Oct 2026): the first day of the 108-day letter cycle (card 1), read by today-header, today-items, phoneme-card, sanskrit-card and the Sanskrit Daily Letter Cycle note.",
+  "catalog": "Catalog",
+  "markedPages": "Notes/Marked pages",
+  "letterCycleStart": "2026-10-03"
+}

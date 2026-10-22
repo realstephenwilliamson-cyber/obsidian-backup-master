@@ -1,0 +1,62 @@
+filters:
+  and:
+    - file.folder.startsWith("Texts/Muktabodha")
+views:
+  - type: table
+    name: All
+    order:
+      - title
+      - catalog_number
+      - author
+      - commentator
+      - editor
+      - year
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: By author
+    filters:
+      and:
+        - "!author.isEmpty()"
+    groupBy:
+      property: author
+      direction: ASC
+    order:
+      - title
+      - author
+      - commentator
+      - year
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: By commentator
+    filters:
+      and:
+        - commentator != ""
+    groupBy:
+      property: commentator
+      direction: ASC
+    order:
+      - title
+      - commentator
+      - author
+      - year
+    sort:
+      - property: title
+        direction: ASC
+  - type: table
+    name: No author or commentator listed
+    filters:
+      and:
+        - author.isEmpty()
+        - commentator == ""
+    order:
+      - title
+      - catalog_number
+      - publisher
+      - year
+    sort:
+      - property: title
+        direction: ASC

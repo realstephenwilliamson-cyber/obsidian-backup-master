@@ -1,0 +1,56 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Sirach"
+english_book: "Ecclesiasticus"
+chapter: 8
+aliases:
+  - "Ecclesiasticus 8"
+  - "LXX Ecclesiasticus 08"
+---
+# LXX Sirach 08
+
+← [[LXX Sirach 07]] · [[LXX]] · [[LXX Sirach 09]] →
+
+*Sirach · [[LXX]]*
+
+**8:1** Strive not with a mighty man, lest thou fall into his hands.  ^8-1
+
+**8:2** Be not at variance with a rich man, lest he overweigh thee: for gold hath destroyed many, and perverted the hearts of kings.  ^8-2
+
+**8:3** Strive not with a man that is full of tongue, and heap not wood upon his fire.  ^8-3
+
+**8:4** Jest not with a rude man, lest thy ancestors be disgraced.  ^8-4
+
+**8:5** Reproach not a man that turneth from sin, but remember that we are all worthy of punishment.  ^8-5
+
+**8:6** Dishonour not a man in his old age: for even some of us wax old.  ^8-6
+
+**8:7** Rejoice not over thy greatest enemy being dead, but remember that we die all.  ^8-7
+
+**8:8** Despise not the discourse of the wise, but acquaint thyself with their proverbs: for of them thou shalt learn instruction, and how to serve great men with ease.  ^8-8
+
+**8:9** Miss not the discourse of the elders: for they also learned of their fathers, and of them thou shalt learn understanding, and to give answer as need requireth.  ^8-9
+
+**8:10** Kindle not the coals of a sinner, lest thou be burnt with the flame of his fire.  ^8-10
+
+**8:11** Rise not up [in anger] at the presence of an injurious person, lest he lie in wait to entrap thee in thy words.  ^8-11
+
+**8:12** Lend not unto him that is mightier than thyself; for if thou lendest him, count it but lost.  ^8-12
+
+**8:13** Be not surety above thy power: for if thou be surety, take care to pay it.  ^8-13
+
+**8:14** Go not to law with a judge; for they will judge for him according to his honour.  ^8-14
+
+**8:15** Travel not by the way with a bold fellow, lest he become grievous unto thee: for he will do according to his own will, and thou shalt perish with him through his folly.  ^8-15
+
+**8:16** Strive not with an angry man, and go not with him into a solitary place: for blood is as nothing in his sight; and where there is no help, he will overthrow thee.  ^8-16
+
+**8:17** Consult not with a fool; for he cannot keep counsel.  ^8-17
+
+**8:18** Do no secret thing before a stranger: for thou knowest not what he will bring forth.  ^8-18
+
+**8:19** Open not thine heart to every man, lest he requite thee with a shrewd turn.  ^8-19

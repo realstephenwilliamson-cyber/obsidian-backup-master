@@ -1,0 +1,38 @@
+---
+type: "text"
+work: "Tantrāloka"
+author: "Abhinavagupta"
+commentary: "Jayaratha, Viveka"
+chapter: 16
+verse: 159
+edition: "Kashmir Series of Texts and Studies (KSTS), as transcribed by Muktabodha (M00093)"
+license: "CC BY-NC 4.0, Muktabodha Indological Research Institute"
+aliases:
+  - "TĀ 16.159"
+  - "TA 16.159"
+  - "Tantrāloka 16.159"
+---
+[[Tantraloka 16.158|← 16.158]] · [[Tantraloka 16 - Prameyaprakasana|Āhnika 16]] · [[Tantraloka 16.160|16.160 →]]
+
+## Mūla
+
+अघोराद्यष्टकेनेह शोधनीयं विपश्चिता ।
+अथवैकाक्षरामन्त्रैरथवा मातृकाक्रमात् ॥ ^mula
+
+aghorādyaṣṭakeneha śodhanīyaṃ vipaścitā |
+athavaikākṣarāmantrairathavā mātṛkākramāt || ^iast
+
+> [!lexicon] Word analysis
+> [[Tantraloka 16.159 - words]]
+
+## Translation
+
+> [!source] Dyczkowski, vol. IX
+> [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)/Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#^pg91|p. 71]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf#page=91>))
+>
+> And, amongst the Trika scriptures (ṣadardhaśāstra), this is taught in the venerable Sāraśāstra (where we read): ‘the learned (teacher) should (bring about this) purification here by means of the eight, Aghora and the rest, or else with the Mantras (derived from) the monosyllabic (Vidyā of Parā) (ekākṣarā) (namely, those of Parāparā and Aparā), or by the sequence of (the letters of) the Mātrkā (alphabet), or by Bhairava’s heart, or by the Heart of the Khecarīs (KHPHREM), or by Bhairava, O Great Goddess, (or) with the five faces and limbs. The Supreme Goddess (Parameśvarī) commands that (the teacher who) recites Mantra should initiate (his disciple) with whichever Mantra (taught) in this Tantra has made (the disciple) leap (upwards) (udbhava) (pierced by its energy) (with 16.158cd–161)
+
+## Viveka
+
+Jayaratha comments on this verse together with 16.162: see [[Tantraloka 16.162#Viveka|16.162]].
+

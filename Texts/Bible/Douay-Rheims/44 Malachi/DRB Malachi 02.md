@@ -1,0 +1,51 @@
+---
+type: text
+work: "Douay-Rheims Bible"
+book: "Malachi"
+douay_name: "Malachias"
+chapter: 2
+translation: "Douay-Rheims, American edition of 1899"
+license: "Public domain (eBible.org, engDRA)"
+source: "https://ebible.org/find/details.php?id=engDRA"
+---
+# Malachi 2 (Douay-Rheims)
+
+*Malachias 2 in the Douay-Rheims*
+
+[[DRB Malachi 01|← Malachi 1]] · [[Douay-Rheims|index]] · [[DRB Malachi 03|Malachi 3 →]]
+
+**2:1** And now, O ye priests, this commandment is to you. ^2-1
+
+**2:2** If you will not hear, and if you will not lay it to heart, to give glory to my name, saith the Lord of hosts: I will send poverty upon you, and will curse your blessings, yea I will curse them, because you have not laid it to heart. ^2-2
+
+**2:3** Behold, I will cast the shoulder to you, and I will scatter upon your face the dung of your solemnities, and it shall take you away with it. ^2-3
+
+**2:4** And you shall know that I sent you this commandment, that my covenant might be with Levi, saith the Lord of hosts. ^2-4
+
+**2:5** My covenant was with him of life and peace: and I gave him fear: and he feared me, and he was afraid before my name. ^2-5
+
+**2:6** The law of truth was in his mouth, and iniquity was not found in his lips: he walked with me in peace, and in equity, and turned many away from iniquity. ^2-6
+
+**2:7** For the lips of the priest shall keep knowledge, and they shall seek the law at his mouth: because he is the angel of the Lord of hosts. ^2-7
+
+**2:8** But you have departed out of the way, and have caused many to stumble at the law: you have made void the covenant of Levi, saith the Lord of hosts. ^2-8
+
+**2:9** Therefore have I also made you contemptible, and base before all people, as you have not kept my ways, and have accepted persons in the law. ^2-9
+
+**2:10** Have we not all one father? hath not one God created us? why then doth every one of us despise his brother, violating the covenant of our fathers? ^2-10
+
+**2:11** Juda hath transgressed, and abomination hath been committed in Israel, and in Jerusalem: for Juda hath profaned the holiness of the Lord, which he loved, and hath married the daughter of a strange God. ^2-11
+
+**2:12** The Lord will cut off the man that hath done this, both the master, and the scholar, out of the tabernacles of Jacob, and him that offereth an offering to the Lord of hosts. ^2-12
+
+**2:13** And this again have you done, you have covered the altar of the Lord with tears, with weeping, and bellowing, so that I have no more a regard to sacrifice, neither do I accept any atonement at your hands. ^2-13
+
+**2:14** And you have said: For what cause? Because the Lord hath been witness between thee, and the wife of thy youth, whom thou hast despised: yet she was thy partner, and the wife of thy covenant. ^2-14
+
+**2:15** Did not one make her, and she is the residue of his spirit? And what doth one seek, but the seed of God? Keep then your spirit, and despise not the wife of thy youth. ^2-15
+
+**2:16** When thou shalt hate her put her away, saith the Lord the God of Israel: but iniquity shall cover his garment, saith the Lord of hosts, keep your spirit, and despise not. ^2-16
+
+**2:17** You have wearied the Lord with your words, and you said: Wherein have we wearied him? In that you say: Every one that doth evil, is good in the sight of the Lord, and such please him: or surely where is the God of judgment? ^2-17
+
+[[DRB Malachi 01|← Malachi 1]] · [[Douay-Rheims|index]] · [[DRB Malachi 03|Malachi 3 →]]

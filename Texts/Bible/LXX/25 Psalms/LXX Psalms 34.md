@@ -1,0 +1,79 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Psalms"
+english_book: "Psalms"
+chapter: 34
+aliases:
+  - "Psalms 34"
+  - "Psalm 35 (Hebrew)"
+---
+# LXX Psalms 34
+
+← [[LXX Psalms 33]] · [[LXX]] · [[LXX Psalms 35]] →
+
+*Psalms · [[LXX]]*
+
+Hebrew numbering (JPS): [[Psalms 035]] · Prayer Book (1979): [[BCP Psalm 035]] · [[Psalms numbering]]
+
+**34:1** *A Psalm* of David. Judge thou, O Lord, them that injure me, fight against them that fight against me.  ^34-1
+
+**34:2** Take hold of shield and buckler, and arise for my help.  ^34-2
+
+**34:3** Bring forth a sword, and stop *the way* against them that persecute me: say to my soul, I am thy salvation.  ^34-3
+
+**34:4** Let them that seek my soul be ashamed and confounded: let them that devise evils against me be turned back and put to shame.  ^34-4
+
+**34:5** Let them be as dust before the wind, and an angel of the Lord afflicting them.  ^34-5
+
+**34:6** Let their way be dark and slippery, and an angel of the Lord persecuting them.  ^34-6
+
+**34:7** For without cause they have hid for me their destructive snare: without a cause they have reproached my soul.  ^34-7
+
+**34:8** Let a snare which they know not come upon them: and the gin which they hid take them; and let them fall into the very same snare.  ^34-8
+
+**34:9** But my soul shall exult in the Lord: it shall delight in his salvation.  ^34-9
+
+**34:10** All my bones shall say, O Lord, who is like to thee? delivering the poor out of the hand of them that are stronger than he, yea, the poor and needy one from them that spoil him.  ^34-10
+
+**34:11** Unjust witnesses arose, and asked me of things I knew not.  ^34-11
+
+**34:12** They rewarded me evil for good, and bereavement to my soul.  ^34-12
+
+**34:13** But I, when they troubled me, put on sackcloth, and humbled my soul with fasting: and my prayer shall return to my *own* bosom.  ^34-13
+
+**34:14** I behaved agreeably towards them as *if it had been* our neighbour *or* brother: I humbled myself as one mourning and sad of countenance.  ^34-14
+
+**34:15** Yet they rejoiced against me, and plagues were plentifully brought against me, and I knew *it* not: they were scattered, but repented not.[^1][^2]  ^34-15
+
+**34:16** They tempted me, they sneered at me most contemptuously, they gnashed their teeth upon me.  ^34-16
+
+**34:17** O Lord, when wilt thou look upon me? Deliver my soul from their mischief, mine only-begotten one from the lions.  ^34-17
+
+**34:18** I will give thanks to thee even in a great congregation: in an abundant people I will praise thee.  ^34-18
+
+**34:19** Let not them that are mine enemies without a cause rejoice against me; who hate me for nothing, and wink with their eyes.  ^34-19
+
+**34:20** For to me they spoke peaceably, but imagined deceits in *their* anger.  ^34-20
+
+**34:21** And they opened wide their mouth upon me; they said, Aha, aha, our eyes have seen *it*.  ^34-21
+
+**34:22** Thou hast seen *it*, O Lord: keep not silence: O Lord, withdraw not *thyself* from me.  ^34-22
+
+**34:23** Awake, O Lord, and attend to my judgment, *even* to my cause, my God and my Lord.  ^34-23
+
+**34:24** Judge me, O Lord, according to thy righteousness, O Lord my God; and let them not rejoice against me.  ^34-24
+
+**34:25** Let them not say in their hearts, Aha, aha, *it is pleasing* to our soul: neither let them say, We have devoured him.  ^34-25
+
+**34:26** Let them be confounded and ashamed together that rejoice at my afflictions: let them be clothed with shame and confusion that speak great swelling words against me.  ^34-26
+
+**34:27** Let them that rejoice in my righteousness exult and be glad: and let them say continually, The Lord be magnified, who desire the peace of his servant.  ^34-27
+
+**34:28** And my tongue shall meditate on thy righteousness, *and* on thy praise all the day.  ^34-28
+
+[^1]: 34:15 The *Gr.* is repeated, by a *Hebraism.*
+[^2]: 34:15 See Acts 2. 37.

@@ -1,0 +1,73 @@
+---
+type: text
+work: "Douay-Rheims Bible"
+book: "Revelation"
+douay_name: "Apocalypse"
+chapter: 21
+translation: "Douay-Rheims, American edition of 1899"
+license: "Public domain (eBible.org, engDRA)"
+source: "https://ebible.org/find/details.php?id=engDRA"
+---
+# Revelation 21 (Douay-Rheims)
+
+*Apocalypse 21 in the Douay-Rheims*
+
+[[DRB Revelation 20|← Revelation 20]] · [[Douay-Rheims|index]] · [[DRB Revelation 22|Revelation 22 →]]
+
+Compare: [[Revelation 21|BSB and SBLGNT]]
+
+**21:1** And I saw a new heaven and a new earth. For the first heaven and the first earth was gone, and the sea is now no more. ^21-1
+
+**21:2** And I John saw the holy city, the new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband. ^21-2
+
+**21:3** And I heard a great voice from the throne, saying: Behold the tabernacle of God with men, and he will dwell with them. And they shall be his people; and God himself with them shall be their God. ^21-3
+
+**21:4** And God shall wipe away all tears from their eyes: and death shall be no more, nor mourning, nor crying, nor sorrow shall be any more, for the former things are passed away. ^21-4
+
+**21:5** And he that sat on the throne, said: Behold, I make all things new. And he said to me: Write, for these words are most faithful and true. ^21-5
+
+**21:6** And he said to me: It is done. I am Alpha and Omega; the beginning and the end. To him that thirsteth, I will give of the fountain of the water of life, freely. ^21-6
+
+**21:7** He that shall overcome shall possess these things, and I will be his God; and he shall be my son. ^21-7
+
+**21:8** But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, they shall have their portion in the pool burning with fire and brimstone, which is the second death. ^21-8
+
+**21:9** And there came one of the seven angels, who had the vials full of the seven last plagues, and spoke with me, saying: Come, and I will shew thee the bride, the wife of the Lamb. ^21-9
+
+**21:10** And he took me up in spirit to a great and high mountain: and he shewed me the holy city Jerusalem coming down out of heaven from God, ^21-10
+
+**21:11** Having the glory of God, and the light thereof was like to a precious stone, as to the jasper stone, even as crystal. ^21-11
+
+**21:12** And it had a wall great and high, having twelve gates, and in the gates twelve angels, and names written thereon, which are the names of the twelve tribes of the children of Israel. ^21-12
+
+**21:13** On the east, three gates: and on the north, three gates: and on the south, three gates: and on the west, three gates. ^21-13
+
+**21:14** And the wall of the city had twelve foundations, and in them, the twelve names of the twelve apostles of the Lamb. ^21-14
+
+**21:15** And he that spoke with me, had a measure of a reed of gold, to measure the city and the gates thereof, and the wall. ^21-15
+
+**21:16** And the city lieth in a foursquare, and the length thereof is as great as the breadth: and he measured the city with the golden reed for twelve thousand furlongs, and the length and the height and the breadth thereof are equal. ^21-16
+
+**21:17** And he measured the wall thereof an hundred and forty-four cubits, the measure of a man, which is of an angel. ^21-17
+
+**21:18** And the building of the wall thereof was of jasper stone: but the city itself pure gold, like to clear glass. ^21-18
+
+**21:19** And the foundations of the wall of the city were adorned with all manner of precious stones. The first foundation was jasper: the second, sapphire: the third, a chalcedony: the fourth, an emerald: ^21-19
+
+**21:20** The fifth, sardonyx: the sixth, sardius: the seventh, chrysolite: the eighth, beryl: the ninth, a topaz: the tenth, a chrysoprasus: the eleventh, a jacinth: the twelfth, an amethyst. ^21-20
+
+**21:21** And the twelve gates are twelve pearls, one to each: and every several gate was of one several pearl. And the street of the city was pure gold, as it were transparent glass. ^21-21
+
+**21:22** And I saw no temple therein. For the Lord God Almighty is the temple thereof, and the Lamb. ^21-22
+
+**21:23** And the city hath no need of the sun, nor of the moon, to shine in it. For the glory of God hath enlightened it, and the Lamb is the lamp thereof. ^21-23
+
+**21:24** And the nations shall walk in the light of it: and the kings of the earth shall bring their glory and honour into it. ^21-24
+
+**21:25** And the gates thereof shall not be shut by day: for there shall be no night there. ^21-25
+
+**21:26** And they shall bring the glory and honour of the nations into it. ^21-26
+
+**21:27** There shall not enter into it any thing defiled, or that worketh abomination or maketh a lie, but they that are written in the book of life of the Lamb. ^21-27
+
+[[DRB Revelation 20|← Revelation 20]] · [[Douay-Rheims|index]] · [[DRB Revelation 22|Revelation 22 →]]

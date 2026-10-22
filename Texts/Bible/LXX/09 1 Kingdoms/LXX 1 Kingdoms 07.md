@@ -1,0 +1,54 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "1 Kingdoms"
+english_book: "1 Samuel"
+chapter: 7
+aliases:
+  - "1 Samuel 7"
+  - "LXX 1 Samuel 07"
+---
+# LXX 1 Kingdoms 07
+
+← [[LXX 1 Kingdoms 06]] · [[LXX]] · [[LXX 1 Kingdoms 08]] →
+
+*1 Kingdoms · [[LXX]]*
+
+**7:1** And the men of Cariathiarim come, and bring up the ark of the covenant of the Lord: and they bring it into the house of Aminadab in the hill; and they sanctified Eleazar his son to keep the ark of the covenant of the Lord.  ^7-1
+
+**7:2** And it came to pass from the time that the ark was in Cariathiarim, the days were multiplied, and *the time* was twenty years; and all the house of Israel looked after the Lord.  ^7-2
+
+**7:3** And Samuel spoke to all the house of Israel, saying, If ye do with all your heart return to the Lord, take away the strange gods from the midst of you, and the groves, and prepare your hearts to *serve* the Lord, and serve him only; and he shall deliver you from the hand of the Philistines.  ^7-3
+
+**7:4** And the children of Israel took away Baalim and the groves of Astaroth, and served the Lord only.  ^7-4
+
+**7:5** And Samuel said, Gather all Israel to Massephath, and I will pray for you to the Lord.  ^7-5
+
+**7:6** And they were gathered together to Massephath, and they drew water, and poured it out upon the earth before the Lord. And they fasted on that day, and said, We have sinned before the Lord. And Samuel judged the children of Israel in Massephath.  ^7-6
+
+**7:7** And the Philistines heard that all the children of Israel were gathered together to Massephath: and the lords of the Philistines went up against Israel: and the children of Israel heard, and they feared before the Philistines.  ^7-7
+
+**7:8** And the children of Israel said to Samuel, Cease not to cry to the Lord thy God for us, and he shall save us out of the hand of the Philistines.  ^7-8
+
+**7:9** And Samuel took a sucking lamb, and offered it up as a whole-burnt-offering with all the people to the Lord: and Samuel cried to the Lord for Israel, and the Lord heard him.  ^7-9
+
+**7:10** And Samuel was offering the whole-burnt-offering; and the Philistines drew near to war against Israel; and the Lord thundered with a mighty sound in that day upon the Philistines, and they were confounded and overthrown before Israel.  ^7-10
+
+**7:11** And the men of Israel went forth out of Massephath, and pursued the Philistines, and smote them to the parts under Bæthchor.  ^7-11
+
+**7:12** And Samuel took a stone, and set it up between Massephath and the old *city*; and he called the name of it Abenezer, stone of the helper; and he said, Hitherto has the Lord helped us.  ^7-12
+
+**7:13** So the Lord humbled the Philistines, and they did not any more come into the border of Israel; and the hand of the Lord was against the Philistines all the days of Samuel.  ^7-13
+
+**7:14** And the cities which the Philistines took from the children of Israel were restored; and they restored them to Israel from Ascalon to Azob: and they took the coast of Israel out of the hand of the Philistines; and there was peace between Israel and the Amorite.[^1]  ^7-14
+
+**7:15** And Samuel judged Israel all the days of his life.  ^7-15
+
+**7:16** And he went year by year, and went round Bæthel, and Galgala, and Massephath; and he judged Israel in all these consecrated places.  ^7-16
+
+**7:17** And his return was to Armathaim, because there was his house; and there he judged Israel, and built there an altar to the Lord.  ^7-17
+
+[^1]: 7:14 *Alex.* from Accaron to Geth. So the *Heb.*

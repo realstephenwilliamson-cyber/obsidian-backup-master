@@ -1,0 +1,86 @@
+---
+type: ai
+source: AI
+work: "[[Let's Just Blame the Sea Peoples]]"
+date: 2026-08-27
+words: 1375
+original: "[[Russell Issues.txt]]"
+---
+> [!warning] AI output, not my writing
+> An audit of Russell's History of Western Philosophy, Introduction and "The Rise of Greek Civilization". Converted from [[Russell Issues.txt|Russell Issues.txt]] (27 Aug 2026).
+
+I'm working from the text as I know it rather than a fetched copy — I can't reproduce Russell's wording, but the substance of the Introduction and "The Rise of Greek Civilization" is well enough in hand to audit.
+
+**The governing claim itself**
+
+1. **"Nothing in all history is so surprising as the sudden rise of civilization in Greece."** This is the thesis the rest of the chapter serves, and it's the first casualty. Burkert's *The Orientalizing Revolution*, West's *The East Face of Helicon*, and Sarah Morris's *Daidalos* document continuous Near Eastern input into Greek poetry, cosmogony, divination, craft, and myth. Hesiod's succession myth tracks the Hurro-Hittite Kumarbi cycle; Homeric motifs track Gilgamesh. There's no discontinuity requiring a miracle.
+
+2. **The comparative version of the same problem.** G.E.R. Lloyd's work (especially with Nathan Sivin on China) treats the emergence of second-order inquiry as a comparative question with more than one answer. And Russell's dismissal of Indian thought as mystical rather than analytic doesn't survive contact with the pramāṇa literature, Buddhist logic, or Navya-Nyāya.
+
+**Egypt and Babylon as suppliers of rules-of-thumb**
+
+3. **Babylonian mathematics.** Neugebauer's *Exact Sciences in Antiquity* (1951, six years too late for Russell) showed sexagesimal place-value, quadratic methods, and Pythagorean triples (Plimpton 322). Høyrup's later work reads the tablets as genuine "naive geometric" reasoning, not blind recipe-following.
+
+4. **Babylonian astronomy.** System A and System B were predictive mathematical astronomy on which Hipparchus demonstrably drew. Ossendrijver's 2016 publication of the Jupiter trapezoid procedure shows a velocity-time geometrical method long before anything comparable in Greece.
+
+5. **Egyptian geometry as land-surveying after the Nile flood.** This is Herodotus II.109 repeated as fact. It's a Greek origin story about Egypt, not evidence about Egypt.
+
+6. **The proof/recipe dichotomy** is itself the object of critique — Unguru, Netz, Høyrup on how "the Greeks reasoned, the Orientals calculated" encodes a value judgment inherited from 19th-century historiography.
+
+7. **Writing "invented in Egypt about 4000 BC."** Both Egyptian (Abydos tomb U-j) and Mesopotamian (Uruk IV) writing appear c. 3300–3200, and priority is contested rather than settled for Egypt. His tidy pictograph-to-phonetic evolutionary story is also gone; logographic and phonographic elements coexist from the earliest attestations.
+
+8. **Egypt-as-death-obsessed vs. Babylon-as-worldly.** Assmann's work on Egyptian personal piety and theology, and the Mesopotamian theodicy and netherworld literature (*Ludlul bēl nēmeqi*, Ishtar's descent), make the bifurcation unusable.
+
+**Bronze Age Crete and Mycenae — the most dated section**
+
+9. **He is reading Arthur Evans, and Evans has been substantially dismantled.** The peaceful, cheerful, woman-centered Minoan Crete is a reconstruction, not a finding. Minoan weaponry, warrior burials, and defensive architecture have all been pressed against it.
+
+10. **The snake goddess.** Lapatin's *Mysteries of the Snake Goddess* showed how much of that corpus is modern restoration and outright forgery. The "Priest-King" fresco is a composite. Inferences to matriarchy or female-dominated religion from that iconography are not licensed.
+
+11. **"Cretan civilization destroyed by invaders about 1400."** The LM IB destructions cluster c. 1450, and the Thera eruption is caught between a radiocarbon date near 1600 and archaeological synchronisms nearer 1500. Russell's single tidy date belongs to no current scheme.
+
+12. **Linear B was deciphered as Greek in 1952.** This is the single largest thing Russell could not have known, and it undercuts several of his structural moves — chiefly his sharp Minoan/Mycenaean partition and his single-wave "Achaean invasion." Bronze Age collapse scholarship has likewise moved to systems-collapse and climate models rather than conquering waves.
+
+**Dionysus, Orpheus, the mysteries**
+
+13. **Dionysus as a late Thracian import** is straightforwardly falsified. *Di-wo-nu-so-jo* appears in Linear B, at Pylos and at Khania receiving offerings alongside Zeus. Henrichs and Burkert further argue that the god's foreignness is a structural feature of the *myths* (it's what the *Bacchae* is about) rather than a historical datum about importation.
+
+14. **Orphism as a church with doctrine, scripture, and sacraments** is the Rohde–Harrison–Murray picture. Linforth's *The Arts of Orpheus* (1941) and then Guthrie and Dodds broke up the category; Burkert reframed the practitioners as itinerant "craftsmen of the sacred." Then genuinely new evidence arrived that Russell couldn't have: the Derveni Papyrus (1962), the Hipponion and Pelinna gold leaves, the Olbia bone tablets. So there *is* an Orphic textual tradition — it simply isn't shaped like Russell's.
+
+15. **The Zagreus myth and Orphic original sin.** Edmonds ("Tearing Apart the Zagreus Myth," 1999) and his *Redefining Ancient Orphism* showed the reconstruction depends heavily on Olympiodorus and Neoplatonic-Christianizing sources. The inherited-guilt reading is largely a modern assembly.
+
+16. **Mysteries as personal-salvation counter-religion against civic cult.** Sourvinou-Inwood and Bremmer treat the mysteries as embedded in the polis; "the Oriental mystery religions" as a class is a modern construct.
+
+**Homer**
+
+17. **The expurgator.** Russell takes Murray's rationalizing late redactor who scrubbed chthonic and Bacchic material. Parry (1928–30) and Lord established oral-formulaic composition, which makes the editorial-purge model the wrong kind of explanation. Russell shows no awareness of Parry.
+
+18. **"The Olympians were not objects of real worship."** Cult evidence — Nilsson onward, then Burkert — contradicts this flatly. Epic reticence about certain material is genre decorum.
+
+19. **Dating.** Russell leans very late, toward sixth-century Athens and Peisistratus. Janko's linguistic seriation and the mainstream put the poems in the eighth-to-seventh century.
+
+20. **Homeric society as a real aristocracy.** Finley's *World of Odysseus* (1954) opened a debate — Morris, Raaflaub, van Wees — that is still open. Russell reads it as straight social description.
+
+**Presocratics and Pythagoras**
+
+21. **Pythagoras.** Burkert's *Lore and Science in Ancient Pythagoreanism* (1962) demolished the mathematician-scientist Pythagoras. The reconstructible figure is a religious authority and wonder-worker; incommensurability, the theorem, and harmonic theory belong to later Pythagoreans or are Academic retrojections. Russell's chapter — and his claim about Pythagoras's supreme historical importance — rests entirely on the pre-Burkert picture. (Zhmud has since pushed partway back, so this is contested rather than reversed.)
+
+22. **The doxography.** Cherniss's *Aristotle's Criticism of Presocratic Philosophy* (1935 — available to Russell, unused) and later Mansfeld and Runia on Aëtius show how much of the standard picture is Peripatetic reconstruction in Aristotle's own categories. *Archē* as Thales's term is Aristotle's word, not Thales's.
+
+23. **The rise of philosophy explained by Ionian trade contact.** Now displaced or heavily supplemented: Vlastos on *isonomia* and cosmic order, Vernant on the polis, Lloyd on adversarial argument and the culture of proof, Netz on lettered diagrams, Kingsley on Empedocles and Parmenides as iatromantic figures rather than proto-scientists.
+
+**The Apollo/Dionysus schema**
+
+24. This is Nietzsche via Murray, and Russell uses it as load-bearing structure — Greek achievement as the fusion of passion and reason. Dodds's *The Greeks and the Irrational* (1951) is the standing refutation: the "irrational" is constitutive of Greek religion throughout, not a Thracian contaminant of an otherwise rational people, and the shame/guilt and "inherited conglomerate" analyses replace the polarity entirely.
+
+**Introduction-level problems**
+
+25. **Philosophy as the no-man's-land between theology and science.** This begs the question against most of the philosophers in the book — nearly every ancient and medieval figure treated would reject the tripartition, and it converts the history into a story about the gradual clearing of a residue.
+
+26. **The three periods, with a "Catholic" middle.** This erases Byzantine, Islamic, and Jewish philosophy almost entirely. Given that the Aristotelian corpus reaches the Latin West through al-Fārābī, Avicenna, Averroes, and Maimonides, the omission is structural rather than a matter of proportion. It's now generally treated as the book's worst defect after the medieval chapters.
+
+27. **The oscillation between social cohesion and individual liberty** is announced as an explanatory framework and then barely used. Russell's declared method — philosophers as both effects and causes of their social circumstances — is not applied with any consistency.
+
+28. **Historiographical genealogy.** The static-Orient/dynamic-Greece structure, and the occasional Aryan/Semitic temperamental talk, belong to a specific 19th-century diffusionist-racial tradition. Bernal's *Black Athena* (1987) is unreliable in its positive claims and was properly savaged by Lefkowitz and Rogers, but its diagnostic first volume is precisely an anatomy of the story Russell is telling — which makes it worth citing on the framing even where it fails on the facts.
+
+The through-line, if you want one: Russell wrote in 1945 from Murray, Evans, and the pre-Parry, pre-Ventris, pre-Neugebauer, pre-Burkert consensus, and the four decipherments and excavations that most reshaped the field arrived within twenty years of his publication.

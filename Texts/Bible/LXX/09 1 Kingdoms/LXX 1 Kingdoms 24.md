@@ -1,0 +1,70 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "1 Kingdoms"
+english_book: "1 Samuel"
+chapter: 24
+aliases:
+  - "1 Samuel 24"
+  - "LXX 1 Samuel 24"
+---
+# LXX 1 Kingdoms 24
+
+← [[LXX 1 Kingdoms 23]] · [[LXX]] · [[LXX 1 Kingdoms 25]] →
+
+*1 Kingdoms · [[LXX]]*
+
+**24:1** And David rose up from thence, and dwelt in the narrow passes of Engaddi.  ^24-1
+
+**24:2** And it came to pass when Saul returned from pursuing after the Philistines, that it was reported to him, saying, David *is* in the wilderness of Engaddi.  ^24-2
+
+**24:3** And he took with him three thousand men, chosen out of all Israel, and went to seek David and his men in front of Saddæem.  ^24-3
+
+**24:4** And he came to the flocks of sheep that were by the way, and there was a cave there; and Saul went in to make preparation, and David and his men were sitting in the inner part of the cave.  ^24-4
+
+**24:5** And the men of David said to him, Behold, this *is* the day of which the Lord spoke to thee, that he would deliver thine enemy into thy hands; and thou shalt do to him as *it is* good in thy sight. So David arose and cut off the skirt of Saul's garment secretly.[^1]  ^24-5
+
+**24:6** And it came to pass after this that David's heart smote him, because he had cut off the skirt of his garment.  ^24-6
+
+**24:7** And David said to his men, The Lord forbid it me, that I should do this thing to my lord the anointed of the Lord, to lift my hand against him; for he is the anointed of the Lord.  ^24-7
+
+**24:8** So David persuaded his men by *his* words, and did not suffer them to arise and slay Saul: and Saul arose and went his way.  ^24-8
+
+**24:9** And David rose up *and went* after him out of the cave: and David cried after Saul, saying, *My* lord, *O* king! and Saul looked behind him, and David bowed with his face to the ground, and did obeisance to him.[^2]  ^24-9
+
+**24:10** And David said to Saul, Why dost thou hearken to the words of the people, saying, Behold, David seeks thy life?  ^24-10
+
+**24:11** Behold, thine eyes have seen this day how that the Lord has delivered thee this day into my hands in the cave; and I would not slay thee, but spared thee, and said, I will not lift up my hand against my lord, for he is the Lord's anointed.  ^24-11
+
+**24:12** And behold, the skirt of thy mantle *is* in my hand, I cut off the skirt, and did not slay thee: know then and see to-day, there is no evil in my hand, nor impiety, nor rebellion; and I have not sinned against thee, yet thou layest snares for my soul to take it.[^3]  ^24-12
+
+**24:13** The Lord judge between me and thee, and the Lord requite thee on thyself: but my hand shall not be upon thee.  ^24-13
+
+**24:14** As the old proverb says, Transgression will proceed from the wicked ones: but my hand shall not be upon thee.[^4]  ^24-14
+
+**24:15** And now after whom dost thou come forth, O king of Israel? after whom dost thou pursue? after a dead dog, and after a flea?  ^24-15
+
+**24:16** The Lord be judge and umpire between me and thee, the Lord look upon and judge my cause, and rescue me out of thy hand.  ^24-16
+
+**24:17** And it came to pass when David had finished speaking these words to Saul, that Saul said, *Is* this thy voice, son David? and Saul lifted up his voice, and wept.  ^24-17
+
+**24:18** And Saul said to David, Thou *art* more righteous than I, for thou hast recompensed me good, but I have recompensed thee evil.  ^24-18
+
+**24:19** And thou hast told me to-day what good thou hast done me, how the Lord shut me up into thy hands to-day, and thou didst not slay me.  ^24-19
+
+**24:20** And if any one should find his enemy in distress, and should send him forth in a good way, then the Lord will reward him good, as thou hast done this day.  ^24-20
+
+**24:21** And now, behold, I know that thou shalt surely reign, and the kingdom of Israel shall be established in thy hand.  ^24-21
+
+**24:22** Now then swear to me by the Lord, that thou wilt not destroy my seed after me, that thou wilt not blot out my name from the house of my father.  ^24-22
+
+**24:23** So David swore to Saul: and Saul departed to his place, and David and his men went up to the strong-hold of Messera.[^5]  ^24-23
+
+[^1]: 24:5 *Gr.* took away.
+[^2]: 24:9 *Gr.* stooped.
+[^3]: 24:12 *Gr.* bindest my soul.
+[^4]: 24:14 *Gr.* is said.
+[^5]: 24:23 *Gr.* narrow Messera.

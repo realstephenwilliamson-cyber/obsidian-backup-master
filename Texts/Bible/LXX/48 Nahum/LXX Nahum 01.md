@@ -1,0 +1,45 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Nahum"
+english_book: "Nahum"
+chapter: 1
+aliases:
+  - "Nahum 1"
+---
+# LXX Nahum 01
+
+[[LXX]] · [[LXX Nahum 02]] →
+
+*Nahum · [[LXX]]*
+
+**1:1** THE burden of Nineve: the book of the vision of Naum the Elkesite.  ^1-1
+
+**1:2** God is jealous, and the Lord avenges; the Lord avenges with wrath; the Lord takes vengeance on his adversaries, and he cuts off his enemies.  ^1-2
+
+**1:3** The Lord is long-suffering, and his power is great, and the Lord will not hold any guiltless: his way is in destruction and in the whirlwind, and the clouds are the dust of his feet.  ^1-3
+
+**1:4** He threatens the sea, and dries it up, and exhausts all the rivers: the land of Basan, and Carmel are brought low, and the flourishing *trees* of Libanus have come to nought.  ^1-4
+
+**1:5** The mountains quake at him, and the hills are shaken, and the earth recoils at his presence, *even* the world, and all that dwell in it.  ^1-5
+
+**1:6** Who shall stand before his anger? and who shall withstand in the anger of his wrath? his wrath brings to nought kingdoms, and the rocks are burst asunder by him.  ^1-6
+
+**1:7** The Lord is good to them that wait on him in the day of affliction; and he knows them that reverence him.  ^1-7
+
+**1:8** But with an overrunning flood he will make an utter end: darkness shall pursue those that rise up against *him* and his enemies.  ^1-8
+
+**1:9** What do ye devise against the Lord? he will make a complete end: he will not take vengeance by affliction twice at the same time.  ^1-9
+
+**1:10** For *the enemy* shall be laid bare even to the foundation, and shall be devoured as twisted yew, and as stubble fully dry.  ^1-10
+
+**1:11** Out of thee shall proceed a device against the Lord, counselling evil things hostile *to him*.  ^1-11
+
+**1:12** Thus saith the Lord who rules over many waters, Even thus shall they be sent away, and the report of thee shall not be heard any more.  ^1-12
+
+**1:13** And now will I break his rod from off thee, and will burst *thy* bonds.  ^1-13
+
+**1:14** And the Lord shall give a command concerning thee; there shall no more of thy name be scattered: I will utterly destroy the graven *images* out of the house of thy god, and the molten *images*: I will make thy grave; for *they are* swift.  ^1-14

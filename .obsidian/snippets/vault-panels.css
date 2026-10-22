@@ -1,0 +1,85 @@
+/* Vault panels
+   Frames everything in a note that is not your body text, so prose stands
+   apart from properties, link lists, query results and backlinks.
+   Presentation only: switch this snippet off and every note reads as before.
+   Turned on in Settings -> Appearance -> CSS snippets ("vault-panels"). */
+
+/* -- Legibility: callout titles use the normal text colour; the icon and the
+      tinted box carry the callout's colour. Works in light and dark mode. */
+.callout .callout-title-inner { color: var(--text-normal); font-weight: 600; }
+.callout .callout-icon { color: rgb(var(--callout-color)); }
+/* Every callout gets a visible frame, so dark-toned ones (mula, viveka,
+   philosophy...) still read as boxes on a dark background. */
+.callout { border: 1px solid rgba(var(--callout-color), 0.40); border-radius: 6px; }
+.theme-dark .callout { background-color: rgba(var(--callout-color), 0.13); }
+
+/* -- Callouts used by the rescued notes ------------------------------------ */
+.callout[data-callout="matrika"]    { --callout-color: 196, 78, 128;  --callout-icon: flower-2; }
+.callout[data-callout="navigation"] { --callout-color: 70, 120, 170;  --callout-icon: compass; }
+.callout[data-callout="today"]      { --callout-color: 196, 140, 52;  --callout-icon: calendar-days; }
+
+/* Link lists: a framed box with no title row (the section heading above it
+   names it). Write it as  > [!links]  followed by the list. */
+.callout[data-callout="links"] {
+  --callout-color: 120, 128, 140;
+  --callout-icon: link;
+  background-color: rgba(var(--callout-color), 0.10);
+  border: 1px solid rgba(var(--callout-color), 0.45);
+  border-left: 3px solid rgb(var(--callout-color));
+  border-radius: 6px;
+  padding-top: .35em; padding-bottom: .35em;
+}
+.callout[data-callout="links"] > .callout-title { display: none; }
+.callout[data-callout="links"] > .callout-content { margin-top: 0; }
+.callout[data-callout="links"] > .callout-content > ul { margin-block: .2em; }
+
+/* -- Panels for non-body elements ------------------------------------------ */
+body {
+  --vp-bg: var(--background-secondary);
+  --vp-border: var(--background-modifier-border);
+  --vp-accent: var(--text-faint);
+}
+
+/* Properties block */
+.markdown-source-view .metadata-container,
+.markdown-preview-view .metadata-container {
+  background: var(--vp-bg);
+  border: 1px solid var(--vp-border);
+  border-left: 3px solid var(--vp-accent);
+  border-radius: 6px;
+  padding: .3em .7em .4em;
+}
+
+/* Dataview, DataviewJS and Bases output embedded in a note */
+.block-language-dataview,
+.block-language-dataviewjs,
+.block-language-base {
+  background: var(--vp-bg);
+  border: 1px solid var(--vp-border);
+  border-left: 3px solid rgb(70, 120, 170);
+  border-radius: 6px;
+  padding: .45em .8em;
+  margin: .5em 0;
+}
+
+/* Backlinks shown at the bottom of a note (Core plugins -> Backlinks ->
+   "Show backlinks at the bottom of notes") */
+.embedded-backlinks {
+  background: var(--vp-bg);
+  border: 1px solid var(--vp-border);
+  border-left: 3px solid rgb(120, 128, 140);
+  border-radius: 6px;
+  padding: .4em .8em;
+  margin-top: 2em;
+}
+.embedded-backlinks .nav-header { padding-top: .2em; }
+
+/* Daily Sanskrit card on Home and in daily notes */
+.vp-card-row { display: flex !important; flex-direction: row; gap: 1em; flex-wrap: wrap; margin: .4em 0; }
+.vp-card-row > img { width: min(46%, 300px) !important; max-width: 46% !important; height: auto !important;
+  border-radius: 6px; border: 1px solid var(--vp-border); }
+
+/* Home date box: no second frame around it, long lines wrap */
+.block-language-dataviewjs:has(.vp-today) { background: none; border: none; padding: 0; margin: .3em 0 .8em; overflow: visible; }
+.vp-today .callout { overflow-wrap: anywhere; white-space: normal; }
+.vp-today .callout-content p { white-space: normal; }

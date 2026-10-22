@@ -1,0 +1,37 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Hosea"
+english_book: "Hosea"
+chapter: 14
+aliases:
+  - "Hosea 14"
+---
+# LXX Hosea 14
+
+← [[LXX Hosea 13]] · [[LXX]]
+
+*Hosea · [[LXX]]*
+
+**14:1** Samaria shall be utterly destroyed: for she has resisted her God; they shall fall by the sword, and their sucklings shall be dashed against the ground, and their women with child ripped up.  ^14-1
+
+**14:2** Return, O Israel, to the Lord thy God; for the people have fallen through thine iniquities.  ^14-2
+
+**14:3** Take with you words, and turn to the Lord your God: speak to him, that ye may not receive *the reward of* unrighteousness, but that ye may receive good things: and we will render in return the fruit of our lips.  ^14-3
+
+**14:4** Assur shall never save us; we will not mount on horseback; we will no longer say to the works of our hands, Our gods. He who is in thee shall pity the orphan.  ^14-4
+
+**14:5** I will restore their dwellings, I will love them truly: for he has turned away my wrath from him.  ^14-5
+
+**14:6** I will be as dew to Israel: he shall bloom as the lily, and cast forth his roots as Libanus.  ^14-6
+
+**14:7** His branches shall spread, and he shall be as a fruitful olive, and his smell shall be as *the smell* of Libanus.  ^14-7
+
+**14:8** They shall return, and dwell under his shadow: they shall live and be satisfied with corn, and he shall flower as a vine: his memorial shall be to Ephraim as the wine of Libanus.  ^14-8
+
+**14:9** What *has* he to do any more with idols? I have afflicted him, and I will strengthen him: I am as a leafy juniper tree. From me is thy fruit found.  ^14-9
+
+**14:10** Who is wise, and will understand these things? or prudent, and will know them? for the ways of the Lord are straight, and the righteous shall walk in them: but the ungodly shall fall therein.  ^14-10

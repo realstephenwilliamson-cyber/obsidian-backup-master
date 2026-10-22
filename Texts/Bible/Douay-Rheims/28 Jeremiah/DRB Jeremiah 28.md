@@ -1,0 +1,51 @@
+---
+type: text
+work: "Douay-Rheims Bible"
+book: "Jeremiah"
+douay_name: "Jeremias"
+chapter: 28
+translation: "Douay-Rheims, American edition of 1899"
+license: "Public domain (eBible.org, engDRA)"
+source: "https://ebible.org/find/details.php?id=engDRA"
+---
+# Jeremiah 28 (Douay-Rheims)
+
+*Jeremias 28 in the Douay-Rheims*
+
+[[DRB Jeremiah 27|← Jeremiah 27]] · [[Douay-Rheims|index]] · [[DRB Jeremiah 29|Jeremiah 29 →]]
+
+**28:1** And it came to pass in that year, in the beginning of the reign of Sedecias king of Juda, in the fourth year, in the fifth month, that Hananias the son of Azur, a prophet of Gabaon spoke to me, in the house of the Lord before the priests, and all the people, saying: ^28-1
+
+**28:2** Thus saith the Lord of hosts the God of Israel: I have broken the yoke of the king of Babylon. ^28-2
+
+**28:3** As yet two years of days, and I will cause all the vessels of the house of the Lord to be brought back into this place, which Nabuchodonosor king of Babylon took away from this place, and carried them to Babylon. ^28-3
+
+**28:4** And I will bring back to this place Jechonias the son of Joakim king of Juda, and all the captives of Juda, that are gone to Babylon, saith the Lord: for I will break the yoke of the king of Babylon. ^28-4
+
+**28:5** And Jeremias the prophet said to Hananias the prophet in the presence of the priests, and in the presence of all the people that stood in the house of the Lord: ^28-5
+
+**28:6** And Jeremias the prophet said: Amen, the Lord do so: the Lord perform thy words, which thou hast prophesied: that the vessels may be brought again into the house of the Lord, and all the captives may return out of Babylon to this place. ^28-6
+
+**28:7** Nevertheless hear this word that I speak in thy ears, and in the ears of all the people: ^28-7
+
+**28:8** The prophets that have been before me, and before thee from the beginning, and have prophesied concerning many countries, and concerning great kingdoms, of war, and of affliction, and of famine. ^28-8
+
+**28:9** The prophet that prophesied peace when his word shall come to pass, the prophet shall be known, whom the Lord hath sent in truth. ^28-9
+
+**28:10** And Hananias the prophet took the chain from the neck of Jeremias the prophet, and broke it. ^28-10
+
+**28:11** And Hananias spoke in the presence of all the people, saying: Thus saith the Lord: Even so will I break the yoke of Nabuchodonosor the king of Babylon after two full years from off the neck of all the nations. ^28-11
+
+**28:12** And Jeremias the prophet went his way. And the word of the Lord came to Jeremias, after that Hananias the prophet had broken the chain from off the neck of Jeremias the prophet, saying: ^28-12
+
+**28:13** Go, and tell Hananias: Thus saith the Lord: Thou hast broken chains of wood, and thou shalt make for them chains of iron. ^28-13
+
+**28:14** For thus saith the Lord of hosts the God of Israel: I have put a yoke of iron upon the neck of all these nations, to serve Nabuchodonosor king of Babylon, and they shall serve him: moreover also I have given him the beasts of the earth. ^28-14
+
+**28:15** And Jeremias the prophet said to Hananias the prophet: Hear now, Hananias: the Lord hath not sent thee, and thou hast made this people to trust in a lie. ^28-15
+
+**28:16** Therefore thus saith the Lord: Behold I will send thee away from off the face of the earth: this year shalt thou die: for thou hast spoken against the Lord. ^28-16
+
+**28:17** And Hananias the prophet died in that year, in the seventh month. ^28-17
+
+[[DRB Jeremiah 27|← Jeremiah 27]] · [[Douay-Rheims|index]] · [[DRB Jeremiah 29|Jeremiah 29 →]]

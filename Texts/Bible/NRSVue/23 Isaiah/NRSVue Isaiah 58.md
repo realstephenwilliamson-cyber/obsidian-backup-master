@@ -1,0 +1,44 @@
+---
+type: text
+work: "NRSV Updated Edition"
+book: "Isaiah"
+chapter: 58
+translation: "New Revised Standard Version Updated Edition (2021)"
+license: "© 2021 National Council of the Churches of Christ in the USA; all rights reserved (private study copy)"
+source: "NRSVue eBible, Friendship Press 2021 (e-ISBN 978-1-7330759-4-7)"
+---
+# Isaiah 58 (NRSVue)
+
+[[NRSVue Isaiah 57|← Isaiah 57]] · [[NRSVue|index]] · [[NRSVue Isaiah 59|Isaiah 59 →]]
+
+## False and true worship
+
+**58:1** Shout out; do not hold back! Lift up your voice like a trumpet! Announce to my people their rebellion, to the house of Jacob their sins. ^58-1
+
+**58:2** Yet day after day they seek me and delight to know my ways, as if they were a nation that practiced righteousness and did not forsake the ordinance of their God; they ask of me righteous judgments; they want God on their side.^[Or *they delight to draw near to God*] ^58-2
+
+**58:3** “Why do we fast, but you do not see? Why humble ourselves, but you do not notice?” Look, you serve your own interest on your fast day and oppress all your workers. ^58-3
+
+**58:4** You fast only to quarrel and to fight and to strike with a wicked fist. Such fasting as you do today will not make your voice heard on high. ^58-4
+
+**58:5** Is such the fast that I choose, a day to humble oneself? Is it to bow down the head like a bulrush and to lie in sackcloth and ashes? Will you call this a fast, a day acceptable to the LORD? ^58-5
+
+**58:6** Is not this the fast that I choose: to loose the bonds of injustice, to undo the straps of the yoke, to let the oppressed go free, and to break every yoke? ^58-6
+
+**58:7** Is it not to share your bread with the hungry and bring the homeless poor into your house; when you see the naked, to cover them and not to hide yourself from your own kin? ^58-7
+
+**58:8** Then your light shall break forth like the dawn, and your healing shall spring up quickly; your vindicator^[Or *vindication*] shall go before you; the glory of the LORD shall be your rear guard. ^58-8
+
+**58:9** Then you shall call, and the LORD will answer; you shall cry for help, and he will say, “Here I am.” If you remove the yoke from among you, the pointing of the finger, the speaking of evil, ^58-9
+
+**58:10** if you offer your food to the hungry and satisfy the needs of the afflicted, then your light shall rise in the darkness and your gloom be like the noonday. ^58-10
+
+**58:11** The LORD will guide you continually and satisfy your needs in parched places and make your bones strong, and you shall be like a watered garden, like a spring of water whose waters never fail. ^58-11
+
+**58:12** Your ancient ruins shall be rebuilt; you shall raise up the foundations of many generations; you shall be called the repairer of the breach, the restorer of streets to live in. ^58-12
+
+**58:13** If you refrain from trampling the Sabbath, from pursuing your own interests on my holy day; if you call the Sabbath a delight and the holy day of the LORD honorable; if you honor it, not going your own ways, serving your own interests or pursuing your own affairs; ^58-13
+
+**58:14** then you shall take delight in the LORD, and I will make you ride upon the heights of the earth; I will feed you with the heritage of your ancestor Jacob, for the mouth of the LORD has spoken. ^58-14
+
+[[NRSVue Isaiah 57|← Isaiah 57]] · [[NRSVue|index]] · [[NRSVue Isaiah 59|Isaiah 59 →]]

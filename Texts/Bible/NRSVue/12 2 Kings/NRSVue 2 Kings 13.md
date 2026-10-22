@@ -1,0 +1,72 @@
+---
+type: text
+work: "NRSV Updated Edition"
+book: "2 Kings"
+chapter: 13
+translation: "New Revised Standard Version Updated Edition (2021)"
+license: "© 2021 National Council of the Churches of Christ in the USA; all rights reserved (private study copy)"
+source: "NRSVue eBible, Friendship Press 2021 (e-ISBN 978-1-7330759-4-7)"
+---
+# 2 Kings 13 (NRSVue)
+
+[[NRSVue 2 Kings 12|← 2 Kings 12]] · [[NRSVue|index]] · [[NRSVue 2 Kings 14|2 Kings 14 →]]
+
+## Jehoahaz reigns over Israel
+
+**13:1** In the twenty-third year of King Joash son of Ahaziah of Judah, Jehoahaz son of Jehu began to reign over Israel in Samaria; he reigned seventeen years. ^13-1
+
+**13:2** He did what was evil in the sight of the LORD and followed the sins of Jeroboam son of Nebat that he caused Israel to sin; he did not depart from them. ^13-2
+
+**13:3** The anger of the LORD was kindled against Israel, so he gave them repeatedly into the hand of King Hazael of Aram, then into the hand of Ben-hadad son of Hazael. ^13-3
+
+**13:4** But Jehoahaz entreated the LORD, and the LORD heeded him, for he saw the oppression of Israel, how the king of Aram oppressed them. ^13-4
+
+**13:5** Therefore the LORD gave Israel a savior, so they escaped from the hand of the Arameans, and the people of Israel lived in their homes as formerly. ^13-5
+
+**13:6** Nevertheless, they did not depart from the sins of the house of Jeroboam that he caused Israel to sin but walked^[Gk Syr Tg Vg: Heb *he walked*] in them; the sacred pole^[Or *Asherah*] also remained in Samaria. ^13-6
+
+**13:7** So Jehoahaz was left with an army of not more than fifty horsemen, ten chariots, and ten thousand footmen, for the king of Aram had destroyed them and made them like the dust at threshing. ^13-7
+
+**13:8** Now the rest of the acts of Jehoahaz and all that he did, including his might, are they not written in the Book of the Annals of the Kings of Israel? ^13-8
+
+**13:9** So Jehoahaz slept with his ancestors, and they buried him in Samaria; then his son Joash succeeded him. ^13-9
+
+## Jehoash reigns over Israel
+
+**13:10** In the thirty-seventh year of King Joash of Judah, Jehoash son of Jehoahaz began to reign over Israel in Samaria; he reigned sixteen years. ^13-10
+
+**13:11** He also did what was evil in the sight of the LORD; he did not depart from all the sins of Jeroboam son of Nebat that he caused Israel to sin, but he walked in them. ^13-11
+
+**13:12** Now the rest of the acts of Joash and all that he did, as well as the might with which he fought against King Amaziah of Judah, are they not written in the Book of the Annals of the Kings of Israel? ^13-12
+
+**13:13** So Joash slept with his ancestors, and Jeroboam sat upon his throne; Joash was buried in Samaria with the kings of Israel. ^13-13
+
+## Death of Elisha
+
+**13:14** Now when Elisha had fallen sick with the illness of which he was to die, King Joash of Israel went down to him and wept before him, crying, “My father, my father! The chariots of Israel and its horsemen!” ^13-14
+
+**13:15** Elisha said to him, “Take a bow and arrows,” so he took a bow and arrows. ^13-15
+
+**13:16** Then he said to the king of Israel, “Draw the bow,” and he drew it. Elisha laid his hands on the king’s hands. ^13-16
+
+**13:17** Then he said, “Open the window eastward,” and he opened it. Elisha said, “Shoot,” and he shot. Then he said, “The LORD’s arrow of victory, the arrow of victory over Aram! For you shall fight the Arameans in Aphek until you have made an end of them.” ^13-17
+
+**13:18** He continued, “Take the arrows,” and he took them. He said to the king of Israel, “Strike the ground with them”; he struck three times and stopped. ^13-18
+
+**13:19** Then the man of God was angry with him and said, “You should have struck five or six times; then you would have struck down Aram until you had made an end of it, but now you will strike down Aram only three times.” ^13-19
+
+**13:20** So Elisha died, and they buried him. Now bands of Moabites used to invade the land in the spring of the year. ^13-20
+
+**13:21** As a man was being buried, a marauding band was seen and the man was thrown into the grave of Elisha; as soon as the man touched the bones of Elisha, he came to life and stood on his feet. ^13-21
+
+## Israel recaptures cities from Aram
+
+**13:22** Now King Hazael of Aram oppressed Israel all the days of Jehoahaz. ^13-22
+
+**13:23** But the LORD was gracious to them and had compassion on them; he turned toward them because of his covenant with Abraham, Isaac, and Jacob and would not destroy them, nor has he banished them from his presence until now. ^13-23
+
+**13:24** When King Hazael of Aram died, his son Ben-hadad succeeded him. ^13-24
+
+**13:25** Then Jehoash son of Jehoahaz took again from Ben-hadad son of Hazael the towns that he had taken from his father Jehoahaz in war. Three times Joash defeated him and recovered the towns of Israel. ^13-25
+
+[[NRSVue 2 Kings 12|← 2 Kings 12]] · [[NRSVue|index]] · [[NRSVue 2 Kings 14|2 Kings 14 →]]

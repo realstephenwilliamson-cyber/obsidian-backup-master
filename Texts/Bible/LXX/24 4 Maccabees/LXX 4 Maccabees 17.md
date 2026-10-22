@@ -1,0 +1,65 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "4 Maccabees"
+english_book: "4 Maccabees"
+chapter: 17
+aliases:
+  - "4 Maccabees 17"
+---
+# LXX 4 Maccabees 17
+
+← [[LXX 4 Maccabees 16]] · [[LXX]] · [[LXX 4 Maccabees 18]] →
+
+*4 Maccabees · [[LXX]]*
+
+**17:1** And some of the spearbearers said, that when she herself was about to be seized for the purpose of being put to death, she threw herself upon the pile, rather than that they should touch her person.  ^17-1
+
+**17:2** O thou mother, who together with seven children didst destroy the violence of the tyrant, and render void his wicked intentions, and exhibit the nobleness of faith!  ^17-2
+
+**17:3** For thou, as a house bravely built upon the pillar of thy children, didst bear without swaying, the shock of tortures.  ^17-3
+
+**17:4** Be of good cheer, therefore, O holy-minded mother! holding the firm [substance of the] hope of your steadfastness with God.  ^17-4
+
+**17:5** Not so gracious does the moon appear with the stars in heaven, as thou art established honourable before God, and fixed in the firmament with thy sons whom thou didst illuminate with religion to the stars.  ^17-5
+
+**17:6** For thy bearing of children was after the fashion of a child of Abraham.  ^17-6
+
+**17:7** And, were it lawful for us to paint as on a tablet the religion of thy story, the spectators would not shudder at beholding the mother of seven children enduring for the sake of religion various tortures even unto death.  ^17-7
+
+**17:8** And it had been a worthy thing to have inscribed upon the tomb itself these words as a memorial to those of the nation,  ^17-8
+
+**17:9** Here an aged priest, and an aged woman, and seven sons, are buried through the violence of a tyrant, who wished to destroy the polity of the Hebrews.  ^17-9
+
+**17:10** These also avenged their nation, looking unto God, and enduring torments unto death.  ^17-10
+
+**17:11** For it was a truly divine contest which was carried through by them.  ^17-11
+
+**17:12** For at that time virtue presided over the contest, approving the victory through endurance, namely, immortality, eternal life.  ^17-12
+
+**17:13** Eleazar was the first to contend: and the mother of the seven children entered the contest; and the brethren contended.  ^17-13
+
+**17:14** The tyrant was the opposite; and the world and living men were the spectators.  ^17-14
+
+**17:15** And reverence for God conquered, and crowned her own athletes.  ^17-15
+
+**17:16** Who did not admire those champions of true legislation? who were not astonied?  ^17-16
+
+**17:17** The tyrant himself, and all their council, admired their endurance;  ^17-17
+
+**17:18** through which, also, they now stand beside the divine throne, and live a blessed life.  ^17-18
+
+**17:19** For Moses saith, And all the saints are under thy hands.  ^17-19
+
+**17:20** These, therefore, having been sanctified through God, have been honoured not only with this honour, but that also by their means the enemy did not overcome our nation;  ^17-20
+
+**17:21** and that the tyrant was punished, and their country purified.  ^17-21
+
+**17:22** For they became the antipoise to the sin of the nation; and the Divine Providence saved Israel, aforetime afflicted, by the blood of those pious ones, and their propitiatory death.  ^17-22
+
+**17:23** For the tyrant Antiochus, looking to their manly virtue, and to their endurance in torture, proclaimed that endurance as an example to his soldiers.  ^17-23
+
+**17:24** And they proved to be to him noble and brave for land battles and sieges; and he conquered and stormed the towns of all his enemies.  ^17-24

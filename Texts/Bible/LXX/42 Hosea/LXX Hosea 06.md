@@ -1,0 +1,39 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Hosea"
+english_book: "Hosea"
+chapter: 6
+aliases:
+  - "Hosea 6"
+---
+# LXX Hosea 06
+
+← [[LXX Hosea 05]] · [[LXX]] · [[LXX Hosea 07]] →
+
+*Hosea · [[LXX]]*
+
+**6:1** Let us go, and return to the Lord our God; for he has torn, and will heal us; he will smite, and bind us up.  ^6-1
+
+**6:2** After two days he will heal us: in the third day we shall arise, and live before him, and shall know *him*:  ^6-2
+
+**6:3** let us follow on to know the Lord: we shall find him ready as the morning, and he will come to us as the early and latter rain to the earth.  ^6-3
+
+**6:4** What shall I do unto thee, Ephraim? What shall I do to thee, Juda? whereas your mercy is as a morning cloud, and as the early dew that goes away.  ^6-4
+
+**6:5** Therefore have I mown down your prophets; I have slain them with the word of my mouth: and my judgment shall go forth as the light.  ^6-5
+
+**6:6** For I will *have* mercy rather than sacrifice, and the knowledge of God rather than whole-burnt-offerings.  ^6-6
+
+**6:7** But they are as a man transgressing a covenant:  ^6-7
+
+**6:8** there the city Galaad despised me, working vanity, troubling water.  ^6-8
+
+**6:9** And thy strength *is that* of a robber: the priests have hid the way, they have murdered *the people of* Sicima; for they have wrought iniquity in the house of Israel.  ^6-9
+
+**6:10** I have seen horrible *things* there, *even* the fornication of Ephraim: Israel and Juda are defiled;  ^6-10
+
+**6:11** begin to gather grapes for thyself, when I turn the captivity of my people.  ^6-11

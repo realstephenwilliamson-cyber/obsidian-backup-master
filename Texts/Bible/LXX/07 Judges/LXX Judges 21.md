@@ -1,0 +1,78 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Judges"
+english_book: "Judges"
+chapter: 21
+aliases:
+  - "Judges 21"
+---
+# LXX Judges 21
+
+← [[LXX Judges 20]] · [[LXX]]
+
+*Judges · [[LXX]]*
+
+**21:1** Now the children of Israel swore in Massephath, saying, No man of us shall give his daughter to Benjamin for a wife.  ^21-1
+
+**21:2** And the people came to Bæthel, and sat there until evening before God: and they lifted up their voice and wept with a great weeping;  ^21-2
+
+**21:3** and said, Wherefore, O Lord God of Israel, has this come to pass, that to-day one tribe should be counted *as missing* from Israel?  ^21-3
+
+**21:4** And it came to pass on the morrow that the people rose up early, and built there an altar, and offered up whole-burnt-offerings and peace-offerings.[^1]  ^21-4
+
+**21:5** And the children of Israel said, Who of all the tribes of Israel, went not up in the congregation to the Lord? for there was a great oath concerning those who went not up to the Lord to Massephath, saying, He shall surely be put to death.  ^21-5
+
+**21:6** And the children of Israel relented toward Benjamin their brother, and said, To-day one tribe is cut off from Israel.[^2]  ^21-6
+
+**21:7** What shall we do for wives for the rest that remain? whereas we have sworn by the Lord, not to give them of our daughters for wives.  ^21-7
+
+**21:8** And they said, What one *man is there* of the tribes of Israel, who went not up to the Lord to Massephath? and, behold, no man came to the camp from Jabis Galaad to the assembly.  ^21-8
+
+**21:9** And the people were numbered, and there was not there a man from the inhabitants of Jabis Galaad.  ^21-9
+
+**21:10** And the congregation sent thither twelve thousand men of the strongest, and they charged them, saying, Go ye and smite the inhabitants of Jabis Galaad with the edge of the sword.[^3][^4]  ^21-10
+
+**21:11** And this shall ye do: every male and every woman that has known the lying with man ye shall devote *to destruction*, but the virgins ye shall save alive: and they did so.  ^21-11
+
+**21:12** And they found among the inhabitants of Jabis Galaad four hundred young virgins, who had not known man by lying with him; and they brought them to Selom in the land of Chanaan.[^5]  ^21-12
+
+**21:13** And all the congregation sent and spoke to the children of Benjamin in the rock Remmon, and invited them to *make* peace.  ^21-13
+
+**21:14** And Benjamin returned to the children of Israel at that time, and the children of Israel gave them the women whom they *had* saved alive of the daughters of Jabis Galaad; and they were content.[^6]  ^21-14
+
+**21:15** And the people relented for Benjamin, because the Lord had made a breach in the tribes of Israel.[^7]  ^21-15
+
+**21:16** And the elders of the congregation said, What shall we do for wives for them that remain? for the women have been destroyed out of Benjamin.  ^21-16
+
+**21:17** And they said, *There must be* an inheritance of them that are escaped of Benjamin; and *so* a tribe shall not be destroyed out of Israel.  ^21-17
+
+**21:18** For we shall not be able to give them wives of our daughters, because we swore among the children of Israel, saying, Cursed *is* he that gives a wife to Benjamin.  ^21-18
+
+**21:19** And they said, Lo! now *there is* a feast of the Lord from year to year in Selom, which is on the north of Bæthel, eastward on the way that goes up from Bæthel to Sychem, and from the south of Lebona.[^8]  ^21-19
+
+**21:20** And they charged the children of Benjamin, saying, Go and lie in wait in the vineyards;  ^21-20
+
+**21:21** and ye shall see; and lo! if there come out the daughters of the inhabitants of Selom to dance in dances, then shall ye go out of the vineyards and seize for yourselves every man a wife of the daughters of Selom, and go ye into the land of Benjamin.  ^21-21
+
+**21:22** And it shall come to pass, when their fathers or their brethren come to dispute with us, that we will say to them, Grant them freely to us, for we have not taken every man his wife in the battle: because ye did not give to them according to the occasion, ye transgressed.[^9]  ^21-22
+
+**21:23** And the children of Benjamin did so; and they took wives according to their number from the dancers whom they seized: and they went and returned to their inheritance, and built the cities, and dwelt in them.  ^21-23
+
+**21:24** And the children of Israel went thence at that time every man to his tribe and his kindred; and they went thence every man to his inheritance.[^10]  ^21-24
+
+**21:25** And in those days there was no king in Israel; every man did that which was right in his own sight.  ^21-25
+
+[^1]: 21:4 See chap 20. 26.
+[^2]: 21:6 *Or,* comforted themselves, *or* were comforted.
+[^3]: 21:10 *Gr.* sons of strength.
+[^4]: 21:10 *Gr.* mouth.
+[^5]: 21:12 *Gr.* from, out of.
+[^6]: 21:14 *Gr.* it pleased them thus.
+[^7]: 21:15 *Gr.* See ver. 6.
+[^8]: 21:19 *Gr.* from days to days. *Hebraism.*
+[^9]: 21:22 Translated from *Alex.*
+[^10]: 21:24 *Gr.* walked.

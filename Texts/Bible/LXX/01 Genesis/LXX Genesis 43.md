@@ -1,0 +1,91 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Genesis"
+english_book: "Genesis"
+chapter: 43
+aliases:
+  - "Genesis 43"
+---
+# LXX Genesis 43
+
+← [[LXX Genesis 42]] · [[LXX]] · [[LXX Genesis 44]] →
+
+*Genesis · [[LXX]]*
+
+**43:1** But the famine prevailed in the land.  ^43-1
+
+**43:2** And it came to pass, when they had finished eating the corn which they had brought out of Egypt, that their father said to them, Go again; buy us a little food.  ^43-2
+
+**43:3** And Judas spoke to him, saying, The man, the lord of the country, positively testified to us, saying, Ye shall not see my face, unless your younger brother be with you.  ^43-3
+
+**43:4** If, then, thou send our brother with us, we will go down, and buy thee food;  ^43-4
+
+**43:5** but if thou send not our brother with us, we will not go: for the man spoke to us, saying, Ye shall not see my face, unless your younger brother be with you.  ^43-5
+
+**43:6** And Israel said, Why did ye harm me, inasmuch as ye told the man that ye had a brother?  ^43-6
+
+**43:7** And they said, The man closely questioned us about our family also, saying, Does your father yet live, and have ye a brother? and we answered him according to this question: did we know that he would say to us, Bring your brother?  ^43-7
+
+**43:8** And Judas said to his father Israel, Send the boy with me, and we will arise and go, that we may live and not die, both we and thou, and our store.  ^43-8
+
+**43:9** And I engage for him; at my hand do thou require him; if I bring him not to thee, and place him before thee, I shall be guilty toward thee for ever.  ^43-9
+
+**43:10** For if we had not tarried, we should now have returned twice.  ^43-10
+
+**43:11** And Israel, their father, said to them, If it be so, do this; take of the fruits of the earth in your vessels, and carry down to the man presents of gum and honey, and frankincense, and stacte, and turpentine, and walnuts.  ^43-11
+
+**43:12** And take double money in your hands, and the money that was returned in your sacks, carry back with you, lest peradventure it is a mistake.  ^43-12
+
+**43:13** And take your brother; and arise, go down to the man.[^1]  ^43-13
+
+**43:14** And my God give you favour in the sight of the man, and send away your other brother, and Benjamin, for I accordingly as I have been bereaved, am bereaved.  ^43-14
+
+**43:15** And the men having taken these presents, and the double money, took in their hands also Benjamin; and they rose up and went down to Egypt, and stood before Joseph.  ^43-15
+
+**43:16** And Joseph saw them and his brother Benjamin, born of the same mother; and he said to the steward of his household, Bring the men into the house, and slay beasts and make ready, for the men are to eat bread with me at noon.  ^43-16
+
+**43:17** And the man did as Joseph said; and he brought the men into the house of Joseph.  ^43-17
+
+**43:18** And the men, when they perceived that they were brought into the house of Joseph, said, We are brought in because of the money that was returned in our sacks at the first; even in order to inform against us, and lay it to our charge; to take us for servants, and our asses.  ^43-18
+
+**43:19** And having approached the man who was over the house of Joseph, they spoke to him in the porch of the house,  ^43-19
+
+**43:20** saying, We pray *thee*, Sir; we came down at first to buy food.  ^43-20
+
+**43:21** And it came to pass, when we came to unlade, and opened our sacks, *there was* also this money of each in his sack; we have now brought back our money by weight in our hands.  ^43-21
+
+**43:22** And we have brought other money with us to buy food; we know not who put the money into our sacks.  ^43-22
+
+**43:23** And he said to them, *God deal* mercifully with you; be not afraid; your God, and the God of your fathers, has given you treasures in your sacks, and I have enough of your good money. And he brought Symeon out to them.[^2]  ^43-23
+
+**43:24** And he brought water to wash their feet; and gave provender to their asses.  ^43-24
+
+**43:25** And they prepared their gifts, until Joseph came at noon, for they heard that he was going to dine there.  ^43-25
+
+**43:26** And Joseph entered into the house, and they brought him the gifts which they had in their hands, into the house; and they did him reverence with their face to the ground.  ^43-26
+
+**43:27** And he asked them, How are ye? and he said to them, Is your father, the old man of whom ye spoke, well? Does he yet live?  ^43-27
+
+**43:28** And they said, Thy servant our father is well; he is yet alive. And he said, Blessed be that man by God;—and they bowed, and did him reverence.  ^43-28
+
+**43:29** And Joseph lifted up his eyes, and saw his brother Benjamin, born of the same mother; and he said, Is this your younger brother, whom ye spoke of bringing to me? and he said, God have mercy on thee, my son.[^3]  ^43-29
+
+**43:30** And Joseph was troubled, for his bowels yearned over his brother, and he sought to weep; and he went into his chamber, and wept there.  ^43-30
+
+**43:31** And he washed his face and came out, and refrained himself, and said, Set on bread.  ^43-31
+
+**43:32** And they set on *bread* for him alone, and for them by themselves, and for the Egyptians feasting with him by themselves, for the Egyptians could not eat bread with the Hebrews, for it is an abomination to the Egyptians.  ^43-32
+
+**43:33** And they sat before him, the first-born according to his seniority, and the younger according to his youth; and the men looked with amazement every one at his brother.[^4]  ^43-33
+
+**43:34** And they took their portions from him to themselves; but Benjamin's portion was five times as much as the portions of *the others*. And they drank and were filled with drink with him.[^5]  ^43-34
+
+[^1]: 43:13 *Gr.* one.
+[^2]: 43:23 *q. d.* I am satisfied with the money you have given me, both as to quality and quantity.
+[^3]: 43:29 *Gr.* having looked up with, etc.
+[^4]: 43:33 *Gr.* were amazed.
+[^5]: 43:34 *Gr.* was magnified beyond the portions of all five times in comparison of theirs.

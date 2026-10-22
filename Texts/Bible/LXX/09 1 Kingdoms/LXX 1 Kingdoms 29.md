@@ -1,0 +1,49 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "1 Kingdoms"
+english_book: "1 Samuel"
+chapter: 29
+aliases:
+  - "1 Samuel 29"
+  - "LXX 1 Samuel 29"
+---
+# LXX 1 Kingdoms 29
+
+← [[LXX 1 Kingdoms 28]] · [[LXX]] · [[LXX 1 Kingdoms 30]] →
+
+*1 Kingdoms · [[LXX]]*
+
+**29:1** And the Philistines gather all their armies to Aphec, and Israel encamped in Aendor, which is in Jezrael.  ^29-1
+
+**29:2** And the lords of the Philistines went on by hundreds and thousands, and David and his men went on in the rear with Anchus.[^1]  ^29-2
+
+**29:3** And the lords of the Philistines said, Who *are* these that pass by? And Anchus said to the captains of the Philistines, *Is* not this David the servant of Saul king of Israel? he has been with us some time, even this second year, and I have not found any fault in him from the day that he attached himself to me even until this day.[^2][^3]  ^29-3
+
+**29:4** And the captains of the Philistines were displeased at him, and they say to him, Send the man away, and let him return to his place, where thou didst set him; and let him not come with us to the war, and let him not be a traitor in the camp: and wherewith will he be reconciled to his master? will it not be with the heads of those men?[^4]  ^29-4
+
+**29:5** *Is* not this David whom they celebrated in dances, saying, Saul has smitten his thousands, and David his ten thousands?[^5]  ^29-5
+
+**29:6** And Anchus called David, and said to him, *As* the Lord lives, thou *art* right and approved in my eyes, and *so is* thy going out and thy coming in with me in the army, and I have not found *any* evil to charge against thee from the day that thou camest to me until this day: but thou art not approved in the eyes of the lords.  ^29-6
+
+**29:7** Now then return and go in peace, thus thou shalt not do evil in the sight of the lords of the Philistines.  ^29-7
+
+**29:8** And David said to Anchus, What have I done to thee? and what hast thou found in thy servant from the *first* day that I was before thee even until this day, that I should not come and war against the enemies of the lord my king?[^6]  ^29-8
+
+**29:9** And Anchus answered David, I know that thou *art* good in my eyes, but the lords of the Philistines say, He shall not come with us to the war.[^7]  ^29-9
+
+**29:10** Now then rise up early in the morning, thou and the servants of thy lord that are come with thee, and go to the place where I appointed you, and entertain no evil thought in thy heart, for thou *art* good in my sight: and rise early for your journey when it is light, and depart.[^8]  ^29-10
+
+**29:11** So David arose early, he and his men, to depart and guard the land of the Philistines: and the Philistines went up to Jezrael to battle.  ^29-11
+
+[^1]: 29:2 *Gr.* to *or* at.
+[^2]: 29:3 The word עכר is here translated; as in Gen. 14. 13.
+[^3]: 29:3 *Gr.* to *or* days.
+[^4]: 29:4 *Or,* to *or* a plotter against the camp.
+[^5]: 29:5 *Gr.* to *or* began to *celebrate* or gave the precedence.
+[^6]: 29:8 *Gr.* to *or* warring, or having warred.
+[^7]: 29:9 *Heb.* and *Alex.*+ an angel of God.
+[^8]: 29:10 *Gr.* and let there be light upon you.

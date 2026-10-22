@@ -1,0 +1,45 @@
+---
+type: text
+work: "Douay-Rheims Bible"
+book: "Numbers"
+douay_name: "Numbers"
+chapter: 12
+translation: "Douay-Rheims, American edition of 1899"
+license: "Public domain (eBible.org, engDRA)"
+source: "https://ebible.org/find/details.php?id=engDRA"
+---
+# Numbers 12 (Douay-Rheims)
+
+[[DRB Numbers 11|← Numbers 11]] · [[Douay-Rheims|index]] · [[DRB Numbers 13|Numbers 13 →]]
+
+**12:1** And Mary and Aaron spoke against Moses, because of his wife the Ethiopian, ^12-1
+
+**12:2** And they said: Hath the Lord spoken by Moses only? hath he not also spoken to us in like manner? And when the Lord heard this, ^12-2
+
+**12:3** (For Moses was a man exceeding meek above all men that dwelt upon earth) ^12-3
+
+**12:4** Immediately he spoke to him, and to Aaron and Mary: Come out you three only to the tabernacle of the covenant. And when they were come out, ^12-4
+
+**12:5** The Lord came down in a pillar of the cloud, and stood in the entry of the tabernacle calling to Aaron and Mary. And when they were come, ^12-5
+
+**12:6** He said to them: Hear my words: if there be among you a prophet of the Lord, I will appear to him in a vision, or I will speak to him in a dream. ^12-6
+
+**12:7** But it is not so with my servant Moses a who is most faithful in all my house: ^12-7
+
+**12:8** For I speak to him mouth to mouth: and plainly, and not by riddles and figures doth he see the Lord. Why then were you not afraid to speak ill of my servant Moses? ^12-8
+
+**12:9** And being angry with them he went away: ^12-9
+
+**12:10** The cloud also that was over the tabernacle departed: and behold Mary appeared white as snow with a leprosy. And when Aaron had looked on her, and saw her all covered with leprosy, ^12-10
+
+**12:11** He said to Moses: I beseech thee, my lord, lay not upon us this sin, which we have foolishly committed: ^12-11
+
+**12:12** Let her not be as one dead, and as an abortive that is cast forth from the mother’s womb. Lo, now one half of her flesh is consumed with the leprosy. ^12-12
+
+**12:13** And Moses cried to the Lord, saying: O God, I beseech thee heal her. ^12-13
+
+**12:14** And the Lord answered him: If her father had spitten upon her face, ought she not to have been ashamed for seven days at least? Let her be separated seven days without the camp, and after wards she shall be called again. ^12-14
+
+**12:15** Mary therefore was put out of the camp seven days: and the people moved not from that place until Mary was called again. ^12-15
+
+[[DRB Numbers 11|← Numbers 11]] · [[Douay-Rheims|index]] · [[DRB Numbers 13|Numbers 13 →]]

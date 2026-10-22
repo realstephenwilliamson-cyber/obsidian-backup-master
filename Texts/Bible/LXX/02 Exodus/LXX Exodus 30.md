@@ -1,0 +1,102 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Exodus"
+english_book: "Exodus"
+chapter: 30
+aliases:
+  - "Exodus 30"
+---
+# LXX Exodus 30
+
+← [[LXX Exodus 29]] · [[LXX]] · [[LXX Exodus 31]] →
+
+*Exodus · [[LXX]]*
+
+**30:1** And thou shalt make the altar of incense of incorruptible wood.  ^30-1
+
+**30:2** And thou shalt make it a cubit in length, and a cubit in breadth: it shall be square; and the height of it shall be of two cubits, its horns shall be of the same piece.[^1]  ^30-2
+
+**30:3** And thou shalt gild its grate with pure gold, and its sides round about, and its horns; and thou shalt make for it a wreathen border of gold round-about.  ^30-3
+
+**30:4** And thou shalt make under its wreathen border two rings of pure gold; thou shalt make it to the two corners on the two sides, and they shall be bearings for the staves, so as to bear it with them.  ^30-4
+
+**30:5** And thou shalt make the staves of incorruptible wood, and shalt gild them with gold.  ^30-5
+
+**30:6** And thou shalt set it before the veil that is over the ark of the testimonies, wherein I will make myself known to thee from thence.  ^30-6
+
+**30:7** And Aaron shall burn upon it fine compound incense every morning; whensoever he trims the lamps he shall burn incense upon it.  ^30-7
+
+**30:8** And when Aaron lights the lamps in the evening, he shall burn incense upon it; a constant incense-offering always before the Lord for their generations.  ^30-8
+
+**30:9** And thou shalt not offer strange incense upon it, *nor* an offering made by fire, *nor* a sacrifice; and thou shalt not pour a drink-offering upon it.  ^30-9
+
+**30:10** And once in the year Aaron shall make atonement on its horns, he shall purge it with the blood of purification for their generations: it is most holy to the Lord.[^2]  ^30-10
+
+**30:11** And the Lord spoke to Moses, saying,  ^30-11
+
+**30:12** If thou take account of the children of Israel in the surveying of them, and they shall give every one a ransom for his soul to the Lord, then there shall not be among them a destruction in the visiting of them.[^3]  ^30-12
+
+**30:13** And this is what they shall give, as many as pass the survey, half a didrachm which is according to the didrachm of the sanctuary: twenty oboli *go to* the didrachm, but the half of the didrachm is the offering to the Lord.  ^30-13
+
+**30:14** Every one that passes the survey from twenty years old and upwards shall give the offering to the Lord.  ^30-14
+
+**30:15** The rich shall not give more, and the poor shall not give less than the half didrachm in giving the offering to the Lord, to make atonement for your souls.  ^30-15
+
+**30:16** And thou shalt take the money of the offering from the children of Israel, and shalt give it for the service of the tabernacle of testimony; and it shall be to the children of Israel a memorial before the Lord, to make atonement for your souls.  ^30-16
+
+**30:17** And the Lord spoke to Moses, saying,  ^30-17
+
+**30:18** Make a brazen laver, and a brazen base for it, for washing; and thou shalt put it between the tabernacle of witness and the altar, and thou shalt pour forth water into it.[^4]  ^30-18
+
+**30:19** And Aaron and his sons shall wash their hands and their feet with water from it.  ^30-19
+
+**30:20** Whensoever they shall go into the tabernacle of witness, they shall wash themselves with water, so they shall not die, whensoever they advance to the altar to do service and to offer the whole burnt-offerings to the Lord.  ^30-20
+
+**30:21** They shall wash their hands and feet with water, whensoever they shall go into the tabernacle of witness; they shall wash themselves with water, that they die not; and it shall be for them a perpetual statute, for him and his posterity after him.[^5]  ^30-21
+
+**30:22** And the Lord spoke to Moses, saying,  ^30-22
+
+**30:23** Do thou also take sweet herbs, the flower of choice myrrh five hundred shekels, and the half of this two hundred and fifty shekels of sweet-smelling cinnamon, and two hundred and fifty shekels of sweet-smelling calamus,  ^30-23
+
+**30:24** and of cassia five hundred shekels of the sanctuary, and a hin of olive oil.[^6]  ^30-24
+
+**30:25** And thou shalt make it a holy anointing oil, a perfumed ointment *tempered* by the art of the perfumer: it shall be a holy anointing oil.  ^30-25
+
+**30:26** And thou shalt anoint with it the tabernacle of witness, and the ark of the tabernacle of witness,  ^30-26
+
+**30:27** and all its furniture, and the candlestick and all its furniture, and the altar of incense,  ^30-27
+
+**30:28** and the altar of whole burnt-offerings and all its furniture, and the table and all its furniture, and the laver.  ^30-28
+
+**30:29** And thou shalt sanctify them, and they shall be most holy: every one that touches them shall be hallowed.  ^30-29
+
+**30:30** And thou shalt anoint Aaron and his sons, and sanctify them that they may minister to me as priests.  ^30-30
+
+**30:31** And thou shalt speak to the children of Israel, saying, This shall be to you a holy anointing oil throughout your generations.  ^30-31
+
+**30:32** On man's flesh it shall not be poured, and ye shall not make *any* for yourselves according to this composition: it is holy, and shall be holiness to you.  ^30-32
+
+**30:33** Whosoever shall make it in like manner, and whosoever shall give of it to a stranger, shall be destroyed from among his people.  ^30-33
+
+**30:34** And the Lord said to Moses, Take for thyself sweet herbs, stacte, onycha, sweet galbanum, and transparent frankincense; there shall be an equal weight of each.[^7]  ^30-34
+
+**30:35** And they shall make with it perfumed incense, tempered with the art of a perfumer, a pure holy work.  ^30-35
+
+**30:36** And of these thou shalt beat some small, and thou shalt put it before the testimonies in the tabernacle of testimony, whence I will make myself known to thee: it shall be to you a most holy incense.  ^30-36
+
+**30:37** Ye shall not make any for yourselves according to this composition; it shall be to you a holy thing for the Lord.  ^30-37
+
+**30:38** Whosoever shall make any in like manner, so as to smell it, shall perish from his people.[^8]  ^30-38
+
+[^1]: 30:2 *Gr.* of it.
+[^2]: 30:10 *Gr.* on it, on its horns.
+[^3]: 30:12 *Gr.* fall.
+[^4]: 30:18 *Gr.* so as to wash one's self.
+[^5]: 30:21 *Gr.* generations.
+[^6]: 30:24 *Gr.* iris.
+[^7]: 30:34 *Gr.* equal to equal.
+[^8]: 30:38 *Gr.* to smell in it. *Hebraism.*

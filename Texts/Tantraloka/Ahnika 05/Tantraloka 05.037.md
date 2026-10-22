@@ -1,0 +1,40 @@
+---
+type: "text"
+work: "Tantrāloka"
+author: "Abhinavagupta"
+commentary: "Jayaratha, Viveka"
+chapter: 5
+verse: 37
+edition: "Kashmir Series of Texts and Studies (KSTS), as transcribed by Muktabodha (M00092)"
+license: "CC BY-NC 4.0, Muktabodha Indological Research Institute"
+aliases:
+  - "TĀ 5.37"
+  - "TA 5.37"
+  - "Tantrāloka 5.37"
+---
+[[Tantraloka 05.036|← 5.36]] · [[Tantraloka 05 - Anavopayaprakasana|Āhnika 5]] · [[Tantraloka 05.038|5.38 →]]
+
+## Mūla
+
+एवं त्रिशूलात् प्रभृति चतुष्पञ्चारकक्रमात् ।
+पञ्चाशदरपर्यन्तं चक्रं योगी विभावयेत् ॥ ^mula
+
+evaṃ triśūlāt prabhṛti catuṣpañcārakakramāt |
+pañcāśadaraparyantaṃ cakraṃ yogī vibhāvayet || ^iast
+
+> [!lexicon] Word analysis
+> [[Tantraloka 05.037 - words]]
+
+## Translation
+
+> [!source] Dyczkowski, vol. IV
+> [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 04 (Dyczkowski)/Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#^pg51|p. 36]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 04.pdf#page=51>))
+>
+> In the same way, the yogi should generate (and contemplate) (vibhāvayet) the Wheel starting from the Trident to that of four and five spokes, in due order, up to the one of fifty spokes, or he should, undistracted, contemplate the Wheel of sixty-four or a hundred spokes, or again that of a thousand or of countless thousands. (with 5.37–38)
+
+## Viveka
+
+*Lead-in:* न केवलमेतदेव चक्रं योगिना ध्येयं यावच्चक्रान्तराण्यपि -- इत्याह - -
+
+Jayaratha comments on this verse together with 5.38: see [[Tantraloka 05.038#Viveka|5.38]].
+

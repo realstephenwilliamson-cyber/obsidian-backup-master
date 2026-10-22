@@ -1,0 +1,54 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Wisdom of Solomon"
+english_book: "Wisdom"
+chapter: 9
+aliases:
+  - "Wisdom 9"
+  - "LXX Wisdom 09"
+---
+# LXX Wisdom of Solomon 09
+
+← [[LXX Wisdom of Solomon 08]] · [[LXX]] · [[LXX Wisdom of Solomon 10]] →
+
+*Wisdom of Solomon · [[LXX]]*
+
+**9:1** O God of my fathers, and Lord of mercy, who hast made all things with thy word,  ^9-1
+
+**9:2** and ordained man through thy wisdom, that he should have dominion over the creatures which thou hast made,  ^9-2
+
+**9:3** and order the world according to equity and righteousness, and execute judgment with an upright heart:  ^9-3
+
+**9:4** give me wisdom, that sitteth by thy throne; and reject me not from among thy children:  ^9-4
+
+**9:5** for I thy servant and son of thine handmaid am a feeble person, and of a short time, and too young for the understanding of judgment and laws.  ^9-5
+
+**9:6** For though a man be never so perfect among the children of men, yet if thy wisdom be not with him, he shall be nothing regarded.  ^9-6
+
+**9:7** Thou hast chosen me to be a king of thy people, and a judge of thy sons and daughters:  ^9-7
+
+**9:8** thou hast commanded me to build a temple upon thy holy mount, and an altar in the city wherein thou dwellest, a resemblance of the holy tabernacle, which thou hast prepared from the beginning.  ^9-8
+
+**9:9** And wisdom was with thee: which knoweth thy works, and was present when thou madest the world, and knew what was acceptable in thy sight, and right in thy commandments.  ^9-9
+
+**9:10** O send her out of thy holy heavens, and from the throne of thy glory, that being present she may labour with me, that I may know what is pleasing unto thee.  ^9-10
+
+**9:11** For she knoweth and understandeth all things, and she shall lead me soberly in my doings, and preserve me in her power.  ^9-11
+
+**9:12** So shall my works be acceptable, and then shall I judge thy people righteously, and be worthy to sit in my father's seat.  ^9-12
+
+**9:13** For what man is he that can know the counsel of God? or who can think what the will of the Lord is?  ^9-13
+
+**9:14** For the thoughts of mortal men are miserable, and our devices are but uncertain.  ^9-14
+
+**9:15** For the corruptible body presseth down the soul, and the earthy tabernacle weigheth down the mind that museth upon many things.  ^9-15
+
+**9:16** And hardly do we guess aright at things that are upon earth, and with labour do we find the things that are before us: but the things that are in heaven who hath searched out?  ^9-16
+
+**9:17** And thy counsel who hath known, except thou give wisdom, and send thy Holy Spirit from above?  ^9-17
+
+**9:18** For so the ways of them which lived on the earth were reformed, and men were taught the things that are pleasing unto thee, and were saved through wisdom.  ^9-18

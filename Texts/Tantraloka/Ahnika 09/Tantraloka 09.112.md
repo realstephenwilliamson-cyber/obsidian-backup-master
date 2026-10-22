@@ -1,0 +1,35 @@
+---
+type: "text"
+work: "Tantrāloka"
+author: "Abhinavagupta"
+commentary: "Jayaratha, Viveka"
+chapter: 9
+verse: 112
+edition: "Kashmir Series of Texts and Studies (KSTS), as transcribed by Muktabodha (M00092)"
+license: "CC BY-NC 4.0, Muktabodha Indological Research Institute"
+aliases:
+  - "TĀ 9.112"
+  - "TA 9.112"
+  - "Tantrāloka 9.112"
+---
+[[Tantraloka 09.111|← 9.111]] · [[Tantraloka 09 - Tattvaprakasana|Āhnika 9]] · [[Tantraloka 09.113|9.113 →]]
+
+## Mūla
+
+तदवश्यं परस्यापि सतस्तद्दुष्कृतं भवेत् ।
+पराभिसन्धिसंवित्तौ स्वाभिसन्धिर्दृढीभवेत् ॥ ^mula
+
+tadavaśyaṃ parasyāpi satastadduṣkṛtaṃ bhavet |
+parābhisandhisaṃvittau svābhisandhirdṛḍhībhavet || ^iast
+
+## Translation
+
+> [!source] Dyczkowski, vol. VI
+> [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 06 (Dyczkowski)/Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#^pg120|p. 103]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 06.pdf#page=120>))
+>
+> Tf the intention (abhisaṁdhi) of the other person who is to reap the fruits of action (bhoktṛ) is the same as that within oneself, then (the consequences of) the evil deed will certainly accrue to him also. One’s own intention is (sustained and) made firm in the consciousness of someone else’s intention (if the other person is determined to act in the same way together with oneself), but if (that) intention is absent (on the part of the other person), it cannot bear fruit for him. (Therefore,) he who firmly determines that: “this is not my evil work,” it does not bear its consequences for him. (with 9.111cd–113)
+
+## Viveka
+
+Jayaratha comments on this verse together with 9.113: see [[Tantraloka 09.113#Viveka|9.113]].
+

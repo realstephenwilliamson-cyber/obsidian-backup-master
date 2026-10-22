@@ -1,0 +1,124 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Joshua"
+english_book: "Joshua"
+chapter: 19
+aliases:
+  - "Joshua 19"
+---
+# LXX Joshua 19
+
+← [[LXX Joshua 18]] · [[LXX]] · [[LXX Joshua 20]] →
+
+*Joshua · [[LXX]]*
+
+**19:1** And the second lot came out for the children of Symeon; and their inheritance was in the midst of the lots of the children of Juda.  ^19-1
+
+**19:2** And their lot was Beersabee, and Samaa, and Caladam,  ^19-2
+
+**19:3** and Arsola, and Bola, and Jason,  ^19-3
+
+**19:4** and Erthula, and Bula, and Herma,  ^19-4
+
+**19:5** and Sikelac, and Bæthmachereb, and Sarsusin,  ^19-5
+
+**19:6** and Batharoth, and their fields, thirteen cities, and their villages.  ^19-6
+
+**19:7** Eremmon, and Thalcha, and Jether, and Asan; four cities and their villages,  ^19-7
+
+**19:8** round about their cities as far as Balec as *men* go to Bameth southward: this *is* the inheritance of the tribe of the children of Symeon according to their families.  ^19-8
+
+**19:9** The inheritance of the tribe of the children of Symeon *was a part* of the lot of Juda, for the portion of the children of Juda was greater than theirs; and the children of Symeon inherited in the midst of their lot.  ^19-9
+
+**19:10** And the third lot came out to Zabulon according to their families: the bounds of their inheritance shall be—Esedekgola shall be their border,  ^19-10
+
+**19:11** the sea and Magelda, and it shall reach to Bætharaba in the valley, which is opposite Jekman.[^1]  ^19-11
+
+**19:12** And the border returned from Sedduc in a contrary direction eastward from Bæthsamys, to the borders of Chaselothaith, and shall pass on to Dabiroth, and shall proceed upward to Phangai.  ^19-12
+
+**19:13** And thence it shall come round in the opposite direction eastward to Gebere to the city of Catasem, and shall go on to Remmonaa Matharaoza.  ^19-13
+
+**19:14** And the borders shall come round northward to Amoth, and their going out shall be at Gæphael,  ^19-14
+
+**19:15** and Catanath, and Nabaal, and Symoön, and Jericho, and Bæthman.  ^19-15
+
+**19:16** This *is* the inheritance of the tribe of the sons of Zabulon according to their families, *these* cities and their villages.  ^19-16
+
+**19:17** And the fourth lot came out to Issachar.  ^19-17
+
+**19:18** And their borders were Jazel, and Chasaloth, and Sunam,  ^19-18
+
+**19:19** and Agin, and Siona, and Reeroth,  ^19-19
+
+**19:20** and Anachereth, and Dabiron, and Kison, and Rebes,  ^19-20
+
+**19:21** and Remmas, and Jeon, and Tomman, and Æmarec, and Bersaphes.  ^19-21
+
+**19:22** And the boundaries shall border upon Gæthbor, and upon Salim westward, and Bæthsamys; and the extremity of his bounds shall be Jordan.  ^19-22
+
+**19:23** This *is* the inheritance of the tribe of the children of Issachar according to their families, the cities and their villages.  ^19-23
+
+**19:24** And the fifth lot came out to Aser according to their families.  ^19-24
+
+**19:25** And their borders were Exeleketh, and Aleph, and Bæthok, and Keaph,  ^19-25
+
+**19:26** and Elimelech, and Amiel, and Maasa, and the lot will border on Carmel westward, and on Sion, and Labanath.  ^19-26
+
+**19:27** And it will return westward from Bæthegeneth, and will join Zabulon and Ekgai, and Phthæel northwards, and the borders will come to Saphthæbæthme, and Inael, and will go on to Chobamasomel,[^2]  ^19-27
+
+**19:28** and Elbon, and Raab, and Ememaon, and Canthan to great Sidon.  ^19-28
+
+**19:29** And the borders shall turn back to Rama, and to the fountain of Masphassat, and the Tyrians; and the borders shall return to Jasiph, and their going forth shall be the sea, and Apoleb, and Echozob,  ^19-29
+
+**19:30** and Archob, and Aphec, and Raau.  ^19-30
+
+**19:31** This *is* the inheritance of the tribe of the sons of Aser according to their families, the cities and their villages.  ^19-31
+
+**19:32** And the sixth lot came out to Nephthali.  ^19-32
+
+**19:33** And their borders were Moolam, and Mola, and Besemiin, and Arme, and Naboc, and Jephthamai, as far as Dodam; and their goings out were Jordan.  ^19-33
+
+**19:34** And the coasts will return westward by Athabor, and will go out thence to Jacana, and will border on Zabulon southward, and Aser will join *it* westward, and Jordan eastward.  ^19-34
+
+**19:35** And the walled cities of the Tyrians, Tyre, and Omathadaketh, and Kenereth,  ^19-35
+
+**19:36** and Armaith, and Arael, and Asor,  ^19-36
+
+**19:37** and Cades, and Assari, and the well of Asor;  ^19-37
+
+**19:38** and Keroe, and Megalaarim, and Bætthame, and Thessamys.  ^19-38
+
+**19:39** This *is* the inheritance of the tribe of the children of Nephthali.  ^19-39
+
+**19:40** And the seventh lot came out to Dan.  ^19-40
+
+**19:41** And their borders were Sarath, and Asa, and the cities of Sammaus,  ^19-41
+
+**19:42** and Salamin, and Ammon, and Silatha,  ^19-42
+
+**19:43** and Elon, and Thamnatha, and Accaron;  ^19-43
+
+**19:44** and Alcatha, and Begethon, and Gebeëlan,  ^19-44
+
+**19:45** and Azor, and Banæbacat, and Gethremmon.  ^19-45
+
+**19:46** And westward of Hieracon the border *was* near to Joppa.  ^19-46
+
+**19:47** This *is* the inheritance of the tribe of the children of Dan, according to their families, these *are* their cities and their villages: 47a and the children of Dan did not drive out the Amorite who afflicted them in the mountain; and the Amorite would not suffer them to come down into the valley, but they forcibly took from them the border of their portion.  ^19-47
+
+**19:48** And the sons of Dan went and fought against Lachis, and took it, and smote it with the edge of the sword; and they dwelt in it, and called the name of it Lasendan: 48a and the Amorite continued to dwell in Edom and in Salamin: and the hand of Ephraim prevailed against them, and they became tributaries to them.[^3]  ^19-48
+
+**19:49** And they proceeded to take possession of the land according to their borders, and the children of Israel gave an inheritance to Joshua the son of Naue among them,  ^19-49
+
+**19:50** by the command of God, and they gave him the city which he asked for, Thamnasarach, which is in the mount of Ephraim; and he built the city, and dwelt in it.  ^19-50
+
+**19:51** These *are* the divisions which Eleazar the priest divided by lot, and Joshua the *son* of Naue, and the heads of families among the tribes of Israel, according to the lots, in Selo before the Lord by the doors of the tabernacle of testimony, and they went to take possession of the land.[^4]  ^19-51
+
+[^1]: 19:11 *Or,* at *or* towards.
+[^2]: 19:27 *Gr.* from the rising of the sun.
+[^3]: 19:48 *Gr.* mouth.
+[^4]: 19:51 *Heb.* finished dividing. The LXX seems to have read הלך for חלק.

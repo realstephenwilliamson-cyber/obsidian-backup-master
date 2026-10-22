@@ -1,0 +1,43 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Jonah"
+english_book: "Jonah"
+chapter: 4
+aliases:
+  - "Jonah 4"
+---
+# LXX Jonah 04
+
+← [[LXX Jonah 03]] · [[LXX]]
+
+*Jonah · [[LXX]]*
+
+**4:1** But Jonas was very deeply grieved, and he was confounded.  ^4-1
+
+**4:2** And he prayed to the Lord, and said, O Lord, were not these my words when I was yet in my land? therefore I made haste to flee to Tharsis; because I knew that thou art merciful and compassionate, long-suffering, and abundant in kindness, and repentest of evil.[^1]  ^4-2
+
+**4:3** And now, Lord God, take my life from me; for *it is* better for me to die than to live.[^2]  ^4-3
+
+**4:4** And the Lord said to Jonas, Art thou very much grieved?  ^4-4
+
+**4:5** And Jonas went out from the city, and sat over against the city; and he made for himself there a booth, and he sat under it, until he should perceive what would become of the city.  ^4-5
+
+**4:6** And the Lord God commanded a gourd, and it came up over the head of Jonas, to be a shadow over his head, to shade him from his calamities: and Jonas rejoiced with great joy for the gourd.  ^4-6
+
+**4:7** And God commanded a worm the next morning, and it smote the gourd, and it withered away.  ^4-7
+
+**4:8** And it came to pass at the rising of the sun, that God commanded a burning east wind; and the sun smote on the head of Jonas, and he fainted, and despaired of his life, and said, *It is* better for me to die than to live.  ^4-8
+
+**4:9** And God said to Jonas, Art thou very much grieved for the gourd? And he said, I am very much grieved, even to death.  ^4-9
+
+**4:10** And the Lord said, Thou hadst pity on the gourd, for which thou hast not suffered, neither didst thou rear it; which came up before night, and perished before *another* night:[^3]  ^4-10
+
+**4:11** and shall not I spare Nineve, the great city, in which dwell more than twelve myriads of human beings, who do not know their right hand or their left hand; and *also* much cattle?  ^4-11
+
+[^1]: 4:2 *Gr.* anticipate.
+[^2]: 4:3 *Gr.* sovereign Lord.
+[^3]: 4:10 *Or,* little before.

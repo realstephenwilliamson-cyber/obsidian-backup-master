@@ -1,0 +1,110 @@
+---
+type: book-chapter
+work: "[[Catalog/Judaica/Segal - Two Powers in Heaven]]"
+book: "[[Library/Judaica/Two Powers in Heaven (Segal)/Two Powers in Heaven (Segal)|Two Powers in Heaven (Segal)]]"
+order: 22
+source_pdf: "Library/Judaica/Segal - Two Powers in Heaven (2002).pdf"
+pages: "260–267"
+pdf_pages: "287–294"
+text_source: "the PDF's earlier OCR text layer (a scan), PyMuPDF"
+converted: 2026-10-22
+---
+
+[[Two Powers in Heaven 21 - XV. Gnosticism|← previous]] · [[Two Powers in Heaven (Segal)|contents]] · [[Two Powers in Heaven 23 - Bibliography|next →]]
+
+> [!note] Text from the PDF's OCR layer
+> This text is the scan's earlier OCR layer. The English is reliable but may have misread words, especially names, numbers and transliterated Hebrew. Footnote numbers are sometimes misread, so a few notes are joined to the wrong reference or run together with the next. For exact wording and notes, check the PDF (the *Open the PDF* button on the catalog note).
+
+*[p. 260]* ^pg287
+
+CHAPTER SIXTEEN 
+
+## XVI. Conclusions
+
+Having surveyed several varieties of extra-rabbinic literature in the Hellenistic period to find texts relevant to the "two powers" controversy, it is now time to return to the original questions of the inquiry: Which extra-rabbinic groups are most likely to have been the targets of the rabbinic polemic? How early is the "two powers" controversy? The extra-rabbinic evidence has provided much information helpful for answering both of these questions. All the data and many of the conclusions have already been mentioned. But the various findings of the study need to be summarized so that avenues for future research can be defined. 
+
+In the rabbinic evidence, dating was an especially difficult problem, because the traditions crystallized over a long period of time, forming texts with complicated lattices and strata. Even when we could date a document with relative certainty, we could not be sure that the earliest form of that tradition was present in it. In such cases previous scholars have felt relatively free to assume a long and sometimes fanciful pre-history. With more careful attention to the text we were forced to conclude that the rabbinic polemic against "two powers," like most rabbinic traditions, can not be dated earlier than the time of Ishmael and Akiba. While even such an early dating has problems in rabbinic texts, there were many hints of greater antiquity. 
+
+In the rabbinic evidence, we discovered that the earliest issue concerned the identity and status of a human figure in heaven. The issue might have originally been the anthropomorphic language used of God or the meaning of the two Hebrew words for deity, Y H W H and Elohim. It was difficult to tell which problem was the most basic, since both were based on the same exegetical context and were discussed together. In the late tannaitic period, but not before, we found a certain amount of evidence for an opposing, configuration of deities in the heretical theology. (R. Nathan). 
+
+Once the extra-rabbinic evidence was consulted it became obvious that the rabbis' second century opponents had first century forebears. In apocalyptic literature as well as in the Philonic corpus it was often difficult to say whether the borderline between sectarian strife and 
+
+*[p. 261]* ^pg288
+
+CONCLUSIONS 
+
+heresy was actually crossed. N o doubt the line was drawn subjectively, depending on the perspective of the observer. 
+
+It is now possible to construct a coherent, synchronized history of the tradition. The early biblical theophanies which picture God as a man or confuse Y H W H with an angel are the basis of the tradition. The book of Daniel, usually dated to Maccabean times, is the earliest witness in the Bible to the existence of apocalyptic traditions of a heavenly figure, though it is possible that some Enoch traditions are older. Yet neither Daniel nor the early Enoch material give the figure a title. Most attributes of the "son of man" or "manlike" figure are undefined. Instead the tradition grew through differing exegeses of a variety of theophany texts. The events narrated in Dan. 7:9 f. may be part of the Israelite Holy War and Divine Warrior traditions—mythological motifs which Israel shared with its neighbors. If so, Israelite culture, as is normal in cases of cultural contact, not only shared the ideas, but transformed them to fit its own scheme of things. The mythology recorded in early Daniel and Enoch traditions was monotheistic and was fitted through exegesis to the events of Maccabean times, stimulating the development of an eschatology suited to Maccabean partisans. The speculation continued among a number of groups and was later canonized by the rabbinic community. In no way can every occurrence be considered heretical. 
+
+Some traditions which became part of the "two powers" controversy were known by Philo, who used the term "second god" (*deuteros theos)* to describe the *logos.* The Hebrew equivalent "two gods" or "second god" was used infrequently by the rabbis as a term of reproach. It did not become the preferred title for heresy within the rabbinic movement, possibly because of the risk of blasphemy merely in saying it. The usual rabbinic terminology "two powers in heaven" was standardized at the end of the tannaitic period, although alternatives continued to enjoy a certain currency in the amoraic period, apparently in polemical settings. "Two powers," on the other hand, was better suited for informing the community of the dangers of heresy without revealing too much of the content. It is impossible to speculate on how the Pharisees would have reacted to Philo's system. 
+
+Within the Palestinian community, with its many sects, polemics for monotheism were used in a variety of ways. Paul seems to use anti- "two powers" polemic against Jews whom he charged with venerating angels while he himself could have been charged with the identical crime by rabbinic Jews. 
+
+*[p. 262]* ^pg289
+
+One heretical candidate was sure. The christological statements in Johannine literature are clearly heretical because the fourth gospel represents the Jews as opposing Jesus when he equates himself with God. Johannine Christians, if not Jesus himself, were charged with the crime. "Two powers" seems to be one of the basic issues over which Judaism and Christianity separated. 
+
+Therefore the evidence is that opposition to Christian exegesis preceded opposition to extreme gnostic exegesis. In this case, the key factor in separating radical gnosticism from earlier exegesis is the negative portrayal of the demiurge. Whenever the second figure in heaven is seen as negative, we are dealing with a radically gnostic system. Not until then can we say definitively that a gnostic heresy is present. In all the earliest traditions, the second figure is always seen as a complementary figure, suggesting that the notion of a divine helper who carried God's name is the basic concept which developed into heresy, not a redeemed redeemer. 
+
+Marcion's system is not a likely candidate for the original target of the rabbinic attack against "two powers," for the rabbinic attack was exegetical at base, while Marcion does not allow any Old Testament references to the savior God. Although the best candidates for the heresy, both on internal and external evidence, are Christians there is no distinctively anti-Christian polemic at first. Therefore we should continue to assume that the Christians were but one of a number of apocalyptic or mystical groups who posited a primary angelic helper for God. The rabbinic attack against these groups had two thrusts. It damned the sectarian groups for having violated Jewish monotheism, using Dt. 32 and Is. 44-47, and Ex. 20 while suggesting that the dangerous scripture used by the sectarians really concerned God's aspects of justice and mercy or His *shekhina.* 
+
+The rabbis did not invent the exegesis that God's Hebrew names stood for mercy and justice. They used ancient traditions of God's mercy and justice to defeat the heresy. These traditions were also attested by Philo, who understood the names of God as symbols for His attributes. No doubt Philo was relying on more ancient traditions as well. W e have no conclusive evidence about the form these traditions took within the Palestinian, semitic-language-speaking community. The early Palestinian scholars may have followed the Philonic identification of the names of God or they may have followed the opposite identification, the normative tradition in rabbinic literature. Probably they just emphasized that the mixture, both mercy and justice, was present at 
+
+*[p. 263]* ^pg290
+
+CONCLUSIONS 
+
+the creation and at Sinai. Such arguments became even stronger during the gnostic controversy. The received rabbinic identification of justice and mercy with Elohim and Y H W H respectively is attested by the second century. It was a convenient weapon against Christianity, gnosticism and Marcionism because it emphasized that Y H W H was a merciful God, making mercy the aspect of God which was most often manifested to Israel. While the argument made sense against Christianity, it was a very powerful argument against gnosticism, which maintained that Israel's god was ignorant and arbitrary. 
+
+During the later stage of the heresy, which is better evidenced in the rabbinic texts, almost any doctrine incompatible with monotheism was understood by the rabbis as "two powers" speculation. Such may already have been the case during the second century (Passage 1) but it certainly is true in the Mishnah (Passage 7, Chapter 7). It also seems clear that several church fathers evinced "two powers" heresy in the second century. Justin especially, but also Theophilus, maintained doctrines of the *logos* and Christ supported by scriptural traditions which the rabbis opposed. The "two powers" polemic was related to christological controversies between many of the early fathers as well. 
+
+By the end of the second century, arguments like R. Nathan's (Passage 2) were probably being used against dualists and gnostics, though it is unclear whether R. Nathan himself had gnostics in mind. He may have only been defending Torah against its critics. "Many powers in heaven" was also singled out for censure. Groups espousing this belief must have included any sectarians who provided an intricate mythological context for their angelology by using the first chapters in Genesis. Many second century gnostics and most third century gnostics were prominent members of this heresy. By the end of the second century complementary and antagonistic dualists were both evidencing "two powers" traditions, but before that time there was no evidence for any opposing configuration of deities either among the heretics or among the rabbinic traditions. 
+
+The rabbinic texts, which recorded only the rabbinic side of the argument, ordered and related the traditions thematically or by scriptural reference. This unintentionally obfuscated the historical progression of the debate. When both sides of the tradition have been presented and compared according to their use of scripture, the original order of the debate can be reconstructed. 
+
+Once the debate is reconstructed, we are able to understand some of the historical issues affecting the exegesis. By the time of the consolidation
+
+*[p. 264]* ^pg291
+
+of rabbinic authority at Yavneh and the attempt at a new Jewish orthodoxy, mediation traditions were seen as a clear and present danger within rabbinic Judaism. N o doubt the rabbis' concern was linked to the political events which immediately preceded. The war had stimulated a terrible crisis of faith. Furthermore Christians and others had taken the fall of Jerusalem as proof of the end of the Jewish dispensation. Such ideas were heinous to the majority of the Jewish community. A new set of standards was necessary to insure survival. In asserting further control over the synagogue, the rabbis excluded any sectarian who compromised monotheism from participating in the service. This meant that Christians, among others, were excluded from Jewish life. The growing emphasis on strict monotheism characterizes the rabbinic movement and sets it off from the other sects of its time. 
+
+The earliest reports about "two powers" in the rabbinic texts were associated with gentiles. This may further indicate that proto-gnostic interpretations of angelic mediation originated in a thoroughly Hellenized kind of Judaism or among gentiles attracted to synagogue services. But "two powers" heresy has a clear Jewish sectarian setting as well. Apparently, along with the Jewish sectarians, gentiles who had been drawn to the synagogue to hear the Bible proclaimed were attracted to biblical monotheism in a form that distinguished between the supreme God and a divine agent, possibly in a more extreme form than the system that Philo had described. All such doctrines, whether in apocalypticism, Christianity or philosophical speculations, were probably condemned by the rabbis as early as the end of the first century and the beginning of the second. But the gentiles continued to hear the Christian message. 
+
+The response of the excluded groups varied. Orthodox Christianity claimed both that the legal aspects of the Torah were void and that the Jews stubbornly refused to hear the message of the fulfillment of their own scriptures. A few Christians even relied on the teachings of men like Marcion and Cerdo, who argued that the god of salvation was unknown to the Jews. But that was atypical. Others claimed that the god of the official synagogue, in whose name they had been excluded from worship, was not the high god. By his own intransigence he proved he was an ignorant and vain god. For these gnostics, a higher god was envisioned, one who was the author of salvation. These arguments might be phenomenologically similar to Marcion's, but they differed in their use of Jewish scripture. Unlike Marcion, gnostics used familiar Old Testament verses to help prove their con-
+
+*[p. 265]* ^pg292
+
+CONCLUSIONS 
+
+tention of the arrogance of the creator. Condemned by the standards of strict monotheism, some of these "gnostics" transformed the distinction between the transcendent God and His agent manifestation on earth into a contrast between the high god and the vain demiurge god of the Jews. 
+
+The gnostics drew mainly upon the early chapters of Genesis to prove their point. They inherited many ancient traditions congenial to their perspective. But they also created new interpretations: They elaborated cosmogonic myths in order to provide a setting for their claim that Israel's god is ignorant. They also found ways to turn the insults hurled at them into compliments. However, their knowledge and use of other parts of scripture was more limited. The gnostic use of Isaiah and Deuteronomy passages seems to have arisen as a defense against the previous Jewish and Christian use of those scriptures against them. 
+
+There is further evidence that some who cherished moderate "two powers" traditions did not adopt anti-Jewish arguments. Jews who had a closer connection to the legal traditions of the community and were not part of the fierce polemic were able to give the traditions a limited form of acceptability in Merkabah mysticism. 
+
+Most others, having been linked together with the Christians by the rabbis, found refuge in the church and incorporated Christian elements into their systems. However, Christianity immediately found itself faced with the same problem that the rabbis were facing. Using the same traditions, Christians began to define orthodoxy and heresy along much more complicated lines. Tertullian claimed that Marcionites, who postulated a second god, were anti-christs like Jews. Monarchians and modalists claimed that "orthodoxy," like the gnostics and Marcionites, had compromised Christianity's monotheistic center. Therefore they used "two gods" as a term of approbation against "orthodox" Christianity, just as the rabbis did. 
+
+Obviously this is not meant to be *the* authoritative reconstruction of events. But it seems to be a credible account of the complete evidence. Besides a general chronological scheme, a new hypothesis is assumed—namely, *that the radicalization of gnosticism, was a product of the battle between the rabbis, the Christians and various other "two powers"* *sectarians who inhabited the outskirts of Judaism.* The battle was recorded as a debate over the meaning of several scriptural passages, among which were all the angelic or theophany texts of the Old Testament, followed closely by the plurals used by or about God in scripturc. 
+
+*[p. 266]* ^pg293
+
+Of course, it took many sides to make this argument. The rabbis' polemical statements were justified from their perspective by sectarian readiness to dilute strict monotheism in order to support traditions which applied to their ancestors, heroes and saviors. From the other perspectives, the attempt to establish a "normative" Judaism was seen as exclusivist and caused the radicalization of the sectarian community. Therefore, it is possible to say that gnosticism arose in Judaism out of the polarization of the Jewish community over the issue of the status of God's primary angel. 
+
+One advantage of this new hypothesis for describing the gnostic debate is that it not only accounts for the large quantity of Jewish material in gnosticism and the phenomenological similarity between various proto-gnostic groups but it also accounts for the anti-Jewish bias of extreme gnosticism. Phenomenologically and historically the gnostic demiurge is the second deity of the earlier "two powers" theology. Usually he has appropriated half of the traditions about the second power, yielding the honorable traditions to the gnostic savior. The agent manifestation of God was therefore identified with the limited god of the Jews while the high god, unknown to Jews or Christians, was reserved only for the gnostics. 
+
+This theory, of course, does not address the history of gnostic and anti-gnostic speculation within pagan philosophy. Many of the concepts employed by the heretics were also developed in neo-Platonism, for example. But the theory does give a good account of the history of the phenomenon as it existed within its Jewish context. One ramification of this hypothesis lies in the area of New Testament scholarship. This history of traditions seems to show that radical gnosticism superceded rather than preceded Christianity as a target for the rabbinic debate. 
+
+Continued study is needed in almost every area to decide whether the hypothesis deserves further scholarly support. Of particular interest is the relationship of the angelic figure to early christology. Perhaps angelic christologies will turn out to be more important to the thought of the first century than the New Testament leads us to believe. Then too, the use of Enoch and Daniel traditions needs to be traced in detail in sectarian and proto-gnostic thought. Furthermore philosophical issues connecting divine anthropomorphism with the term "second god" need to be studied more closely. Hellenistic concepts of divine justice and mercy need to be explored in greater detail. It has often seemed plausible that a Hellenistic Judaism, like Philo's but less sophisticated, was the background for Justin's and Theophilus' writing. 
+
+*[p. 267]* ^pg294
+
+CONCLUSIONS 
+
+Throughout this work, the central thread uniting all the early traditions has been God's theophany at the Sea, Sinai, in the Temple, in the Song of Songs, Daniel, Psalms and the prophets. It is quite evident that these traditions, contributing to what will be known as Merkabah mysticism in Judaism, have been a major factor in the development of the Jewish-Christian-gnostic polemic. Much more work is needed to uncover the fascinating subject of early Jewish mystical traditions. 
+
+The use of the term "second god" in Christian and pagan Platonism should also be investigated further. Perhaps philosophers like Numenius, who had some contact with Hebrew thought, will become an important link in understanding the relationship between the church fathers and the rabbis. It may turn out that the issues with which the rabbis were concerned were of general interest to all educated men at that time, while the exegetical issues were formulated by those intellectuals interested in combining Greek and Hebrew thought. 
+
+Further research is certainly necessary to uncover the social dynamics of this hostility. The exegetical nature of our texts should not preclude such inquiry. In the early post-war confusion, many groups were doubtlessly making claims for the authority to speak for the entire Jewish community. The conflict, as we have it recorded in "religious texts," was expressed in theological rather than political or social terms. No doubt, some social and political forces were being expressed in the religious controversies. For instance, strict dualism seems to appear where the most ferocious social antagonisms are expressed and seems to function as an explanation of opposition 
+
+This study began by admitting that the reports about "two powers in heaven" were obscure. It is not likely that the preceding description and analysis has altered anyone's opinion about their obscurity. However, it does not necessarily follow that the reports are unimportant. Not until the reports were collected, collated, arranged and dated could the full significance of the "two powers" controversy become evident. It seems to have been one of the primary rabbinic categories for describing heresy. Furthermore, hidden within the reports is the Jewish witness to the rise of Christianity, even though the texts date from centuries later. They certainly give us a good idea of the issues over which Christianity and Judaism separated. Continued close study of rabbinic evidence may reveal more of this epoch-making period of history for all the religious traditions of the West.

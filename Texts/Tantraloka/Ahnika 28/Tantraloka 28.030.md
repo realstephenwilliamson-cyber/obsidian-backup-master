@@ -1,0 +1,48 @@
+---
+type: "text"
+work: "Tantrāloka"
+author: "Abhinavagupta"
+commentary: "Jayaratha, Viveka"
+chapter: 28
+verse: 30
+edition: "Kashmir Series of Texts and Studies (KSTS), as transcribed by Muktabodha (M00093)"
+license: "CC BY-NC 4.0, Muktabodha Indological Research Institute"
+aliases:
+  - "TĀ 28.30"
+  - "TA 28.30"
+  - "Tantrāloka 28.30"
+---
+[[Tantraloka 28.029|← 28.29]] · [[Tantraloka 28 - Parvapavitrakadiprakasana|Āhnika 28]] · [[Tantraloka 28.031|28.31 →]]
+
+## Mūla
+
+शक्तियागश्च यः प्रोक्तो वश्याकर्षणमारणम् ।
+तत्सर्वं पर्वदिवसेष्वयत्नेनैव सिद्ध्यति ॥ ^mula
+
+śaktiyāgaśca yaḥ prokto vaśyākarṣaṇamāraṇam |
+tatsarvaṃ parvadivaseṣvayatnenaiva siddhyati || ^iast
+
+## Translation
+
+> [!source] Dyczkowski, vol. X
+> [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 10 (Dyczkowski)/Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#^pg34|p. 17]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 10.pdf#page=34>))
+>
+> And so it is said there (in the Haiḍaratantra) that ‘there is (true) equality here in the Kula (that is, the family of initiates). O Goddess, by worshipping (at that time), whatever is present in any (disciple’s) heart at the command of (his) teacher, that is, (his) Mantra, Yoga, and the liturgy (krama), it bestows accomplishment. And, in order to attain liberation and accomplishments (siddhi), it is necessary to worship (at that sacred time) by behaving as a Kaula (kulācāra). O (Goddess), ruler of the gods, those who, due to (their wilful) negligence, do not offer libation to (their) teachers and deities in a special way on these auspicious days (of fulfilment), behave very badly. O fair-faced lady, those reprobates are no better than animals (paśutulya). If (an initiate has) omitted (his) regular (daily) worship, it is necessary for him to worship on these (days). The pilgrimage (to meet Yoginīs at their sacred sites) (aṭana), which is said to be done in order to attain the power of knowledge and the like, the sacrifice with a Śakti (śaktiyāga) taught (here), (the black rites meant to) control, attract and kill – all that is effortlessly accomplished successfully on the auspicious days (of fulfilment). (An auspicious) day of fulfilment (parvan) has been described (in the scriptures) as being of six kinds, accord to whether (it is) a normal or a special one. (with 28.25cd–31ab)
+
+## Viveka
+
+> उक्तं च तत्र तेनेह कुले सामान्यतेत्यलम् ॥
+> यस्य यद्धृदये देवि वर्तते दैशिकाज्ञया ।
+> मन्त्रो योगः क्रमश्चैव पूजनात् सिद्धिदो भवेत् ॥
+> कुलाचारेण देवेशि पूज्यं सिद्धिविमुक्तये ।
+> ये पर्वस्वेषु देवेशि तर्पणं तु विशेषतः ॥
+> गुरूणां देवतानां च न कुर्वन्ति प्रमादतः ।
+> दुराचारा हि ते दुष्टाः पशुतुल्या वरानने ॥
+> अभावान्नित्यपूजाया अवश्यं ह्येषु पूजयेत् ।
+> अटनं ज्ञानशक्त्यादिलाभार्थं यत्प्रकीर्तितम् ॥
+> शक्तियागश्च यः प्रोक्तो वश्याकर्षणमारणम् ।
+> तत्सर्वं पर्वदिवसेष्वयत्नेनैव सिद्ध्यति ॥
+> तत्सामान्यविशेषाभ्यां षोढा पर्व निरूपितम् ।
+
+तत्रेति--हैडरे । षोढेति--सामान्यतया सामान्यसामान्यतया सामान्यविशेषतया विशेषतया विशेषविशेषतया विशेषसामान्यतया चेति ॥
+

@@ -1,0 +1,346 @@
+--- /home/claude/p4/conv.py	2026-10-15 08:39:31.392425211 -0400
++++ conv.py	2026-10-15 10:18:02.756691561 -0400
+@@ -357,6 +357,7 @@
+     # A page with /Rotate: the text layer's coordinates are those of the unrotated page, so they are turned into the page as
+     # it is shown (8 Oct 2026: Hanneder's pages, rotated 180, came out bottom to top; pages rotated 90/270 were dropped as vertical text)
+     RM = page.rotation_matrix if page.rotation else None
++    raised_pos = raised_positions(page, raised_glyphs(page.parent)) if OPTS.get('glyph_sups') else set()
+     rb = (lambda bb: tuple(fitz.Rect(bb) * RM)) if RM is not None else (lambda bb: bb)
+     drops = []
+     for bi, b in enumerate(d['blocks']):
+@@ -379,7 +380,7 @@
+             else:
+                 fix_accents(l['spans'], page)
+             sp = []
+-            for s in l['spans']:
++            for s in (split_raised(l['spans'], raised_pos) if raised_pos else l['spans']):
+                 if font_ok and not font_ok(s['font']): continue
+                 t = span_text(s)
+                 if not t: continue
+@@ -401,7 +402,7 @@
+                         gb = (min(c['bbox'][0] for c in g), min(c['bbox'][1] for c in g), max(c['bbox'][2] for c in g), max(c['bbox'][3] for c in g))
+                         sp.append(dict(text=gt, size=s['size'], flags=s['flags'], bbox=rb(gb), font=s['font'], sup=False))
+                     continue
+-                sp.append(dict(text=t, size=s['size'], flags=s['flags'], bbox=rb(s['bbox']), font=s['font'], sup=False))
++                sp.append(dict(text=t, size=s['size'], flags=s['flags'], bbox=rb(s['bbox']), font=s['font'], sup=bool(s.get('is_sup'))))
+             if sp and ''.join(x['text'] for x in sp).strip():
+                 txt = ''.join(x['text'] for x in sp)
+                 heb = len(HEB.findall(txt)); lat = len(re.findall(r'[A-Za-z]', txt))
+@@ -507,6 +508,83 @@
+     return merge_same_line(out)
+ 
+ 
++# ---------------------------------------------------------------- raised glyphs (D31c, 15 Oct 2026)
++# Brill's books set note numbers in the body with the font's own superior digits: same nominal size, same baseline, no
++# superscript flag, so PyMuPDF shows them as ordinary digits ("Guhyasūtra 8:2"). The embedded CFF fonts keep the outlines:
++# a digit whose outline sits well above the baseline is a superior; one that hangs below is an inferior (V₁, V₂) and is left alone.
++_RAISED = {}
++NOREF = []   # (pdf page, note number) of notes with no reference found (D31c report)
++
++
++def raised_glyphs(doc):
++    """{(font name without subset prefix, glyph id): True} for raised digit-sized glyphs in the embedded CFF fonts."""
++    if doc.name in _RAISED: return _RAISED[doc.name]
++    out = {}
++    try:
++        import io
++        from fontTools.cffLib import CFFFontSet
++        seen = set()
++        for i in range(len(doc)):
++            for f in doc.get_page_fonts(i):
++                xref, ext, ftype, basefont = f[0], f[1], f[2], f[3]
++                if xref in seen or ext != 'cid': continue
++                seen.add(xref)
++                try:
++                    buf = doc.extract_font(xref)[3]
++                    cff = CFFFontSet(); cff.decompile(io.BytesIO(buf), None)
++                    top = cff[cff.fontNames[0]]; gs = top.CharStrings
++                    fm = getattr(top, 'FontMatrix', None) or [0.001]
++                    em = 1 / fm[0] if fm[0] else 1000
++                    name = basefont.split('+')[-1]
++                    for gname in gs.keys():
++                        m = re.fullmatch(r'cid0*(\d+)', gname)
++                        if not m: continue
++                        try: b = gs[gname].calcBounds(gs)
++                        except Exception: continue
++                        if not b: continue
++                        x0, y0, x1, y1 = b
++                        if y0 > 0.2 * em and y1 < 0.78 * em and (y1 - y0) < 0.55 * em: out[(name, int(m.group(1)))] = True
++                except Exception as e:
++                    print('raised_glyphs', basefont, e, file=sys.stderr)
++    except Exception as e:
++        print('raised_glyphs', e, file=sys.stderr)
++    _RAISED[doc.name] = out
++    return out
++
++
++def raised_positions(page, table):
++    """Origins (rounded) of the characters on this page drawn with a raised glyph: digits and note symbols only."""
++    pos = set()
++    if not table: return pos
++    try:
++        for sp in page.get_texttrace():
++            fname = sp['font'].split('+')[-1]
++            for c in sp['chars']:
++                if (fname, c[1]) in table and chr(c[0]).isdigit():   # digits only: the font's asterisk and daggers are raised by design
++                    pos.add((round(c[2][0], 1), round(c[2][1], 1)))
++    except Exception as e:
++        print('raised_positions', e, file=sys.stderr)
++    return pos
++
++
++def split_raised(spans, pos):
++    """Split rawdict spans so that a run of raised characters becomes a span of its own, flagged is_sup."""
++    out = []
++    for s in spans:
++        chars = s.get('chars')
++        if not chars or not pos: out.append(s); continue
++        flags_ = [ch['c'].isdigit() and (round(ch['origin'][0], 1), round(ch['origin'][1], 1)) in pos for ch in chars]   # digits only (a zero-width glyph may share the origin)
++        if not any(flags_): out.append(s); continue
++        runs = []
++        for ch, fl_ in zip(chars, flags_):
++            if runs and runs[-1][0] == fl_: runs[-1][1].append(ch)
++            else: runs.append((fl_, [ch]))
++        for fl_, g in runs:
++            gb = (min(c['bbox'][0] for c in g), min(c['bbox'][1] for c in g), max(c['bbox'][2] for c in g), max(c['bbox'][3] for c in g))
++            out.append(dict(s, chars=g, bbox=gb, is_sup=fl_))
++    return out
++
++
+ LEGACY_LANGS = ('grc', 'heb', 'Latin', 'san', 'chi_sim')
+ ODD = re.compile(r'[\ufffd\ue000-\uf8ff¼½¾ØæðþÞÆ¹²³µ¶¿¡¤¦¬ºª]')
+ FWORDS = set('the of and to in a is that for it as was with be by on not he this are or his from at which but have an they'.split())
+@@ -817,10 +895,14 @@
+         if s['sup']:
+             n = t.strip().rstrip('.,')
+             if n in page_notes:
+-                refs.append(n); parts.append(('ref', n)); continue
++                if t.startswith(' '): parts.append(('txt', ' ', False))
++                refs.append(n); parts.append(('ref', n))
++                if t.endswith(' '): parts.append(('txt', ' ', False))   # the gap after a raised number (no space character in the text layer)
++                continue
+             ns = [x.strip() for x in n.split(',')]
+             if len(ns) > 1 and all(x in page_notes for x in ns):   # two notes on one word ("6, c")
+                 for x in ns: refs.append(x); parts.append(('ref', x))
++                if t.endswith(' '): parts.append(('txt', ' ', False))
+                 continue
+             parts.append(('txt', md_escape(t.strip()) and '<sup>' + md_escape(t.strip()) + '</sup>', False)); continue
+         it = italics and bool(s['flags'] & 2) and len(t.strip()) > 0
+@@ -855,7 +937,7 @@
+ def convert(job):
+     global OCR_PREP
+     OCR_PREP = job.get('ocr_prep')
+-    OPTS.clear(); OPTS.update({k: job[k] for k in ('drop_nums', 'col_segments') if k in job})
++    OPTS.clear(); OPTS.update({k: job[k] for k in ('drop_nums', 'col_segments', 'glyph_sups') if k in job})
+     doc = fitz.open(job['pdf'])
+     N = len(doc)
+     route = job['route']
+@@ -979,6 +1061,9 @@
+             ltxt = re.sub(r'(?<=\d) (?=\d)', '', L.text.strip()) if re.fullmatch(r'[\d ]{3,9}', L.text.strip()) else L.text
+             num = page_number_token(ltxt) if len(ltxt) < 120 else None
+             pure_num = bool(re.fullmatch(r'[\(\[]?\s*(\d{1,4}|[ivxlcdmIVXLCDM]{1,7})\s*[\)\]]?', ltxt.strip()))
++            if z == 'b' and pure_num and job.get('pnum_bottom', True) is False: continue   # page numbers are at the top: a bare number at the foot is a note number in the margin (Brill)
++            if job.get('pnum_bottom', True) is False and z == 'b' and any(M is not L and re.fullmatch(r'\W{0,2}(\d{1,3}|[*†‡]+)\W{0,2}', M.text) and M.x1 <= L.x0 + 1 and min(M.y1, L.y1) - max(M.y0, L.y0) > 0 for M in p['lines']): continue   # a note's first line beside its margin number ('See below, note 115.' repeated)
++            if job.get('glyph_sups') and any(s_.get('sup') for s_ in L.spans): continue   # a line holding a raised note number is text ('[…].112')
+             note_like = z == 'b' and not pure_num and bool(re.match(r'^[\W]{0,2}\d{1,3}\.?\s+\S', L.text)) and L.size < body * 0.98 and tails[re.sub(r'^\W{0,2}\d+\.?\s*', '', L.text.strip())] < thr
+             chrome = bool(re.match(r'^(< previous page|next page >|page_\d+|If you like this book, buy it!|Page \d+ of \d+$)', L.text.strip())) or bool(re.search(r'\.indd\s+\d+|\b97[89]\d{10}_', L.text))
+             if chrome or (zone[z + k] >= thr or pure_num or (k in ('#', '# #'))) and not note_like:
+@@ -1069,7 +1154,7 @@
+ 
+     for i, p in enumerate(pages):
+         top, bot = zone_lines(p)
+-        for L in top + bot:
++        for L in (top + bot if job.get('pnum_bottom', True) is not False else top):   # pnum_bottom=false: a note at the foot that happens to hold the page number is text ('See below, note 115.')
+             if L.kind == 'hf' or len(L.text) > 120: continue
+             toks = re.findall(r'\b[\dIVXLCivxlc]+\b', L.text)
+             if pnum[i] in toks and len(L.text) < 90: L.kind = 'hf'
+@@ -1098,6 +1183,9 @@
+         return _dcache[k]
+     fn_pages = []
+     stats = collections.Counter()
++    NOREF.clear()
++    _lms = collections.Counter(round(min(L.x0 for L in p['lines'] if L.kind != 'hf')) for p in pages if any(L.kind != 'hf' for L in p['lines']))
++    book_lm = _lms.most_common(1)[0][0] if _lms else 0   # the book's left margin (tables may reach into the margin)
+     for i, p in enumerate(pages):
+         ls = [L for L in p['lines'] if L.kind != 'hf']
+         if job.get('gutter_bands'): ls = order_gutter_bands(ls, p['W'], p['H']); twocol = False
+@@ -1126,14 +1214,32 @@
+             for L in ls:
+                 if L.y0 < p['H'] * 0.6:
+                     up[round(L.size * 2) / 2] += len(re.findall(r'[A-Za-zÀ-ɏḀ-ỿ]', L.text))
+-            pbody = max(up, key=up.get) if up and sum(up.values()) > 200 else body
++            pbody = max(up, key=up.get) if up and sum(up.values()) > 200 and job.get('page_body', True) else body   # page_body=false: the book's body size holds on every page (a page that is mostly notes would fool the estimate)
+             ref = min(body, pbody) if pbody < body * 0.97 else body
+             def is_small(L): return L.size < ref * 0.93
+             fl = []
+             for L in ls:
+-                if not is_small(L) or L.y0 < p['H'] * 0.45: continue
++                if not is_small(L) or L.y0 < p['H'] * job.get('fn_top', 0.45): continue   # fn_top: how high on the page notes may begin (Brill: pages that are mostly notes)
+                 below = [M for M in ls if M.y0 > L.y1 - 1 and not is_small(M) and min(M.x1, L.x1) - max(M.x0, L.x0) > 0 and len(M.text) > 3]
+                 if not below: fl.append(L)
++            zone_by_rule = False
++            if fl and job.get('fn_rule_cut'):
++                # Brill: a short rule at the left margin stands above the notes on every page that has them, and nothing above it is a note
++                # (a verse apparatus in the body has its own, indented rule; a table's rules come in rows). The lowest such rule is taken.
++                try: dr_ = [dr['rect'] for dr in pg_drawings(i) if dr['rect'].height < 2 and 20 < dr['rect'].width < p['W'] * 0.3]
++                except Exception: dr_ = []
++                lm_ = book_lm   # the book's left margin: the rule and the margin numbers stand on it
++                rules_ = [r for r in dr_ if abs(r.x0 - lm_) < 3 and sum(1 for q in dr_ if abs(q.y0 - r.y0) < 1.5) == 1]
++                zone_ = None
++                if rules_:
++                    r_ = max(rules_, key=lambda r: r.y0)
++                    below_ = sorted([L for L in fl if L.y0 > r_.y0 - 1], key=lambda L: (round(L.y0 / 3), L.x0))
++                    if below_:
++                        f_ = below_[0]
++                        starts_ = re.fullmatch(r'\W{0,2}(\d{1,3}|[*†‡]+)\W{0,2}', f_.spans[0]['text'].strip()) and f_.x0 < lm_ + 3 or f_.spans[0]['sup']   # the margin number: its own line, or merged with the text when the gap is small
++                        carried_ = page_md and (page_md[-1]['notes'] or page_md[-1]['cont'])   # a note running on from the page before (which may itself be all continuation)
++                        if (starts_ or carried_) and f_.y0 - r_.y0 < 14: zone_ = below_
++                fl = zone_ or []; zone_by_rule = bool(zone_)
+             if fl:
+                 # keep only the smallest type at the bottom (block quotations are smaller than the body but larger than notes)
+                 fsz = min(L.size for L in fl if len(L.text) > 10) if any(len(L.text) > 10 for L in fl) else min(L.size for L in fl)
+@@ -1149,7 +1255,7 @@
+                     fx = (min(L.x0 for L in fl) + max(L.x1 for L in fl)) / 2
+                     bl = [L for L in bl if (L.x0 + L.x1) / 2 < p['W'] / 2] if fx < p['W'] / 2 else [L for L in bl if (L.x0 + L.x1) / 2 >= p['W'] / 2]
+                 lm = min((L.x0 for L in bl), default=None)
+-                if lm is not None and min(L.x0 for L in fl) > lm + max(4, body * 0.6):
++                if lm is not None and min(L.x0 for L in fl) > lm + max(4, body * 0.6) and not zone_by_rule:
+                     fl = []          # indented on the left: a block quotation, not footnotes
+             if fl:
+                 first = fl[0]
+@@ -1163,16 +1269,20 @@
+                 except Exception:
+                     pass
+                 numbered = re.match(r'^\W{0,2}(\d{1,3}|[*†‡])', first.text) or first.spans[0]['sup'] or sum(1 for L in fl if re.match(r'^\W{0,2}\d{1,3}\s+\S', L.text)) >= 1 and len(fl) >= 2
++                if job.get('fn_num_merge') and not numbered and any(re.fullmatch(r'\W{0,2}(\d{1,3}|[*†‡]+)\W{0,2}', L.text) and L.x0 < first.x0 + 2 for L in fl): numbered = True   # a note number alone in the margin
+                 carried = page_md and page_md[-1]['notes'] and (has_rule or gap_above > body * 1.2)
+                 if numbered or carried:
+                     fid = set(map(id, fl)); notes_ls = fl; ls = [L for L in ls if id(L) not in fid]
++        if os.environ.get('DBG_PAGE') and i + 1 == int(os.environ['DBG_PAGE']):
++            print('DBG page', i + 1, 'body', body, 'twocol', twocol, 'n ls', len(ls), 'notes_ls', len(notes_ls))
++            for L in p['lines']: print('   ', L.kind, round(L.y0, 1), round(L.x0, 1), L.size, repr(L.text[:60]), 'SUP' if any(s['sup'] for s in L.spans) else '')
+         notes = collections.OrderedDict(); cont = []
+         curn = None
+         bodyrefs = set()
+         for L in ls:
+             for sp_ in L.spans:
+                 if sp_['sup']: bodyrefs.add(sp_['text'].strip().rstrip('.,'))
+-            for m in re.finditer(r'(?<=[A-Za-zà-ÿ\.,;:!?\)\]’”\'"])(\d{1,3})(?=[\s,.;:)\]—–-]|$)', L.text):
++            for m in (re.finditer(r'(?<=[A-Za-zà-ÿ\.,;:!?\)\]’”\'"])(\d{1,3})(?=[\s,.;:)\]—–-]|$)', L.text) if not job.get('glyph_sups') else ()):   # with raised glyphs known, digits in the text are not references
+                 bodyrefs.add(m.group(1))
+         dz_unc = set()
+         for L in (notes_ls if dzp is not None else []):
+@@ -1202,11 +1312,25 @@
+                     elif curn is None: cont.append(note_md(PL, italics))
+                     else: notes[curn].append(note_md(PL, italics))
+             notes_ls = []
++        if job.get('fn_num_merge') and dzp is None and len(notes_ls) >= 2:
++            # the note number stands in the margin, too far from the text for merge_same_line (Brill: "10" at x=57, text at x=79)
++            nl = sorted(notes_ls, key=lambda L: (round(L.y0 / 3), L.x0)); merged_ = []
++            for L in nl:
++                if merged_:
++                    P = merged_[-1]
++                    ov = min(P.y1, L.y1) - max(P.y0, L.y0); h = min(P.y1 - P.y0, L.y1 - L.y0)
++                    if re.fullmatch(r'\W{0,2}(\d{1,3}|[*†‡]+)\W{0,2}', L.text) and h > 0 and ov > 0.5 * h and P.x0 >= L.x1 - 1 and P.x0 - L.x1 < 4 * max(L.size, 6) and not re.fullmatch(r'\W{0,2}(\d{1,3}|[*†‡]+)\W{0,2}', P.text):
++                        M = Line([dict(L.spans[0], text=L.spans[0]['text'].strip() + ' ')] + P.spans); M.blk = P.blk; merged_[-1] = M; continue
++                    if re.fullmatch(r'\W{0,2}(\d{1,3}|[*†‡]+)\W{0,2}', P.text) and h > 0 and ov > 0.5 * h and L.x0 >= P.x1 - 1 and L.x0 - P.x1 < 4 * max(P.size, 6):
++                        M = Line([dict(P.spans[-1], text=P.spans[-1]['text'].rstrip() + ' ')] + L.spans) if len(P.spans) == 1 else Line(P.spans[:-1] + [dict(P.spans[-1], text=P.spans[-1]['text'].rstrip() + ' ')] + L.spans)
++                        M.blk = P.blk; merged_[-1] = M; continue
++                merged_.append(L)
++            notes_ls = merged_
+         for L in (notes_ls if dzp is None else []):
+             m = re.match(r'^\W{0,2}?(\d{1,3}|[*†‡]+)[.)]?\s*', L.text)
+             first_sup = L.spans[0]['sup'] or (L.spans[0]['size'] < L.size * 0.85 and re.fullmatch(r'\d{1,3}', L.spans[0]['text'].strip() or 'x'))
+             start = False
+-            if m and m.group(0).strip() != L.text.strip():
++            if m and m.group(0).strip() != L.text.strip() and (not job.get('fn_num_merge') or first_sup or L.spans[0]['text'].strip().rstrip('.)') == m.group(1)):   # fn_num_merge: the number must be the margin span, not the start of an apparatus entry ('6a aśastān]')
+                 n = m.group(1)
+                 if first_sup or n in bodyrefs: start = True
+                 elif curn is None and not cont: start = True
+@@ -1368,6 +1492,8 @@
+         stats['footnotes'] += len(notes); stats['refs'] += len(refs)
+         if notes: fn_pages.append(i)
+         stats['notes_without_ref'] += len([n for n in notes if n not in refs])
++        for n in notes:
++            if n not in refs: NOREF.append((i + 1, n))
+         page_md.append(dict(paras=paras, notes=notes, cont=cont, refs=refs, unc=dz_unc))
+ 
+     # --- join words hyphenated across pages; continuation of notes across pages
+@@ -1383,7 +1509,11 @@
+                 if not b['paras'][0][0]: b['paras'].pop(0)
+         if b['cont'] and a['notes']:
+             last = next(reversed(a['notes']))
+-            a['notes'][last] += b['cont']; b['cont'] = []
++            a['notes'][last] += b['cont']; b['cont'] = []; b['_src'] = i
++        elif b['cont'] and job.get('fn_rule_cut') and a.get('_src') is not None:
++            # a note running over more than two pages: the middle page holds only continuation lines, already given to the note's page
++            pa = page_md[a['_src']]; last = next(reversed(pa['notes']))
++            pa['notes'][last] += b['cont']; b['cont'] = []; b['_src'] = a['_src']
+ 
+     # --- fonts that print fi/fl/ff ligatures as W/X/V ('Wrst', 'reXect'): repair when the book shows it often
+     if route in ('pymupdf', 'font') and job.get('ligfix', True):
+@@ -1409,25 +1539,48 @@
+             body_lines.append('# ' + md_escape(ch['title']))
+             body_lines.append('')
+         used = set()
+-        for i in range(a, b + 1):
+-            pm = page_md[i]
+-            body_lines.append(f'*[p. {pnum[i]}]* ^pg{i + 1}')
+-            body_lines.append('')
++        labelmaps = {}
++        for i in range(a, b + 1):   # labels first, so that a reference can point to a note that begins on the next page
+             labelmap = {}
+-            for n in pm['notes']:
++            for n in page_md[i]['notes']:
+                 lab = n if n not in used else f'{n}-p{pnum[i]}'
+                 lab = re.sub(r'[^\w.-]', '', lab) or f'n{len(used)}'
+                 if lab in used: lab = f'{lab}-{i + 1}'
+                 used.add(lab); labelmap[n] = lab
++            labelmaps[i] = labelmap
++        for i in range(a, b + 1):
++            pm = page_md[i]
++            body_lines.append(f'*[p. {pnum[i]}]* ^pg{i + 1}')
++            body_lines.append('')
++            labelmap = labelmaps[i]
++            nextmap = labelmaps.get(i + 1, {}) if job.get('fn_carry_ref') else {}   # the note of a reference near the foot of a page may begin on the next page (Brill)
+             if pm['cont'] and not pm['paras']:
+                 pass
++            def _ref(m):
++                n = m.group(1)
++                if n in labelmap: return '[^' + labelmap[n] + ']'
++                if n in nextmap and n not in page_md[i + 1]['refs']:
++                    page_md[i + 1]['refs'].append(n); stats['refs_carried'] += 1
++                    return '[^' + nextmap[n] + ']'
++                return '<sup>' + n + '</sup>'
++            def _sup(m):
++                # a raised number with no note on its page: the note begins on the next page when it is the next number in sequence
++                n = m.group(1)
++                if n in labelmap or n not in nextmap or n in page_md[i + 1]['refs']: return m.group(0)
++                own = [int(k) for k in pm['notes'] if k.isdigit()]
++                first_next = next((int(k) for k in page_md[i + 1]['notes'] if k.isdigit()), None)
++                if (own and int(n) == max(own) + 1) or (not own and first_next == int(n)):
++                    page_md[i + 1]['refs'].append(n); stats['refs_carried'] += 1
++                    return '[^' + nextmap[n] + ']'
++                return m.group(0)
+             for t, kind in pm['paras']:
+-                t = re.sub('\x00REF(.*?)\x00', lambda m: '[^' + labelmap.get(m.group(1), m.group(1)) + ']' if m.group(1) in labelmap else '<sup>' + m.group(1) + '</sup>', t)
++                t = re.sub('\x00REF(.*?)\x00', _ref, t)
++                if nextmap: t = re.sub(r'<sup>(\d{1,3})</sup>', _sup, t)
+                 t = postfix(t, job)
+                 if kind == 'p': t = block_escape(t)
+                 body_lines.append(t); body_lines.append('')
+             if pm['cont']:
+-                body_lines.append(postfix(join_all(pm['cont']), job)); body_lines.append('')
++                body_lines.append(postfix(join_all(pm['cont']), job)); body_lines.append(''); stats['cont_paragraphs'] += 1; NOREF.append((i + 1, 'cont'))
+             for n, parts in pm['notes'].items():
+                 if n in pm['refs']:
+                     body_lines.append(f'[^{labelmap[n]}]: ' + postfix(join_all(parts), job))
+@@ -1476,7 +1629,7 @@
+             idx.append(f'- [[{ch["name"]}|{md_escape(ch["title"])}]] (pp. {ch["pages"]})')
+         open(os.path.join(outdir, job['index_name'] + '.md'), 'w', encoding='utf-8').write('\n'.join(idx).rstrip() + '\n')
+         written.append((job['folder'] + '/' + job['index_name'] + '.md', os.path.join(outdir, job['index_name'] + '.md')))
+-    rep = dict(fn_pages=fn_pages, fill_ocr_pages=stats_fill[0], latin_fixed_lines=stats_latin[0], pdf=job['pdf_vault'], folder=job['folder'], pages=N, notes=len(chapters) + 1, body_size=body, stats=dict(stats),
++    rep = dict(noref=[(p_, n_) for p_, n_ in NOREF if n_ not in page_md[p_ - 1]['refs']], fn_pages=fn_pages, fill_ocr_pages=stats_fill[0], latin_fixed_lines=stats_latin[0], pdf=job['pdf_vault'], folder=job['folder'], pages=N, notes=len(chapters) + 1, body_size=body, stats=dict(stats),
+                page_src=dict(collections.Counter(psrc)), labels_used=bool(use_labels), chapters=[(c['name'], c['start'] + 1, c['end'] + 1) for c in chapters],
+                ocr_conf_mean=round(statistics.mean(ocr_conf), 1) if ocr_conf else None, pnum=pnum, written=written)
+     json.dump(rep, open(os.path.join(outdir, '_report.json'), 'w'), ensure_ascii=False, indent=1)

@@ -1,0 +1,59 @@
+---
+type: text
+work: "Douay-Rheims Bible"
+book: "Philippians"
+douay_name: "Philippians"
+chapter: 3
+translation: "Douay-Rheims, American edition of 1899"
+license: "Public domain (eBible.org, engDRA)"
+source: "https://ebible.org/find/details.php?id=engDRA"
+---
+# Philippians 3 (Douay-Rheims)
+
+[[DRB Philippians 02|← Philippians 2]] · [[Douay-Rheims|index]] · [[DRB Philippians 04|Philippians 4 →]]
+
+Compare: [[Philippians 03|BSB and SBLGNT]]
+
+**3:1** As to the rest, my brethren, rejoice in the Lord. To write the same things to you, to me indeed is not wearisome, but to you it is necessary. ^3-1
+
+**3:2** Beware of dogs, beware of evil workers, beware of the concision. ^3-2
+
+**3:3** For we are the circumcision, who in spirit serve God; and glory in Christ Jesus, not having confidence in the flesh. ^3-3
+
+**3:4** Though I might also have confidence in the flesh. If any other thinketh he may have confidence in the flesh, I more, ^3-4
+
+**3:5** Being circumcised the eighth day, of the stock of Israel, of the tribe of Benjamin, an Hebrew of the Hebrews; according to the law, a Pharisee: ^3-5
+
+**3:6** According to zeal, persecuting the church of God; according to the justice that is in the law, conversing without blame. ^3-6
+
+**3:7** But the things that were gain to me, the same I have counted loss for Christ. ^3-7
+
+**3:8** Furthermore I count all things to be but loss for the excellent knowledge of Jesus Christ my Lord; for whom I have suffered the loss of all things, and count them but as dung, that I may gain Christ: ^3-8
+
+**3:9** And may be found in him, not having my justice, which is of the law, but that which is of the faith of Christ Jesus, which is of God, justice in faith: ^3-9
+
+**3:10** That I may know him, and the power of his resurrection, and the fellowship of his sufferings, being made conformable to his death, ^3-10
+
+**3:11** If by any means I may attain to the resurrection which is from the dead. ^3-11
+
+**3:12** Not as though I has already attained, or were already perfect; but I follow after, if I may by any means apprehend, wherein I am also apprehended by Christ Jesus. ^3-12
+
+**3:13** Brethren, I do not count myself to have apprehended. But one thing I do: forgetting the things that are behind, and stretching forth myself to those that are before, ^3-13
+
+**3:14** I press towards the mark, to the prize of the supernal vocation of God in Christ Jesus. ^3-14
+
+**3:15** Let us therefore, as many as are perfect, be thus minded; and if in any thing you be otherwise minded, this also God will reveal to you. ^3-15
+
+**3:16** Nevertheless whereunto we are come, that we be of the same mind, let us also continue in the same rule. ^3-16
+
+**3:17** Be ye followers of me, brethren, and observe them who walk so as you have our model. ^3-17
+
+**3:18** For many walk, of whom I have told you often (and now tell you weeping), that they are enemies of the cross of Christ; ^3-18
+
+**3:19** Whose end is destruction; whose God is their belly; and whose glory is in their shame; who mind earthly things. ^3-19
+
+**3:20** But our conversation is in heaven; from whence also we look for the Saviour, our Lord Jesus Christ, ^3-20
+
+**3:21** Who will reform the body of our lowness, made like to the body of his glory, according to the operation whereby also he is able to subdue all things unto himself. ^3-21
+
+[[DRB Philippians 02|← Philippians 2]] · [[Douay-Rheims|index]] · [[DRB Philippians 04|Philippians 4 →]]

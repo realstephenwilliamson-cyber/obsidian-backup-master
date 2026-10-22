@@ -1,0 +1,45 @@
+filters:
+  and:
+    - file.hasProperty("sanskrit")
+views:
+  - type: table
+    name: Without translation
+    filters:
+      or:
+        - sanskrit == "untranslated"
+        - sanskrit == "ai-draft"
+    order:
+      - file.name
+      - sanskrit
+      - file.folder
+    sort:
+      - property: file.folder
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Translation elsewhere
+    filters:
+      and:
+        - sanskrit == "elsewhere"
+    order:
+      - file.name
+      - translation
+      - file.folder
+    sort:
+      - property: file.folder
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: All marked
+    order:
+      - file.name
+      - sanskrit
+      - translation
+      - file.folder
+    sort:
+      - property: sanskrit
+        direction: ASC
+      - property: file.name
+        direction: ASC

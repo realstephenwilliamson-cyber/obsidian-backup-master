@@ -1,0 +1,83 @@
+filters:
+  and:
+    - file.inFolder("Journal")
+    - type == "daily"
+    - file.hasProperty("office")
+views:
+  - type: table
+    name: Last 30 days
+    filters:
+      and:
+        - date(note.date) >= today() - "30d"
+    order:
+      - file.name
+      - office
+      - tantraloka
+      - letter
+      - reading_min
+      - cis
+      - exercise
+      - calls
+      - puja
+      - church
+    sort:
+      - property: church
+        direction: ASC
+      - property: file.name
+        direction: DESC
+    summaries:
+      office: Checked
+      tantraloka: Checked
+      letter: Checked
+      reading_min: Average
+      cis: Checked
+      exercise: Checked
+      calls: Checked
+      puja: Checked
+      church: Checked
+  - type: table
+    name: This week
+    filters:
+      and:
+        - date(note.date) >= date(this.file.basename.slice(8))
+        - date(note.date) <= date(this.file.basename.slice(8)) + "6d"
+    order:
+      - file.name
+      - office
+      - tantraloka
+      - letter
+      - reading_min
+      - cis
+      - exercise
+      - calls
+      - puja
+      - church
+    sort:
+      - property: file.name
+        direction: ASC
+    summaries:
+      office: Checked
+      tantraloka: Checked
+      letter: Checked
+      reading_min: Sum
+      cis: Checked
+      exercise: Checked
+      calls: Checked
+      puja: Checked
+      church: Checked
+  - type: table
+    name: All days
+    order:
+      - file.name
+      - office
+      - tantraloka
+      - letter
+      - reading_min
+      - cis
+      - exercise
+      - calls
+      - puja
+      - church
+    sort:
+      - property: file.name
+        direction: DESC

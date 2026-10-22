@@ -1,0 +1,24 @@
+---
+type: book-section
+book: "[[Markandeya Purana]]"
+order: 38
+---
+## Chapter 38
+
+← [[Markandeya Purana 037]] · [[Markandeya Purana]] · [[Markandeya Purana 039]] →
+
+‘“Alarka asked, ‘O illustrious one! I wish to hear the truth about a yogi’s conduct. How is it that a yogi who follows the path of the brahman does not suffer?’
+
+‘“Dattatreya replied, ‘Honour and dishonour cause joy and misery among men. However, for a yogi, they act in the opposite way and are the means to ensuring success. Honour and dishonour are known as both poison and amrita. For them, dishonour is amrita and honour is terrible poison. He examines the ground with his eyes before placing a foot, he only drinks water after it has been strained through a piece of cloth. [^479] He does not speak words that have not been purified by the truth. He does not have thoughts that have not been purified through intelligence. To accomplish his objective, a person who knows about yoga never accepts hospitality, attends the performance of shraddhas and sacrifices, or participates in processions that honour gods and great men. A yogi goes and seeks alms from what has been thrown away, when the smoke and the fire in a household have been extinguished and when everyone in the household has eaten. However, he must never resort to all three. [^480] Without abusing the path of virtue, the yogi must always act so that he is despised and disrespected. Begging alms from householders and the houses of vagrant mendicants [^481] is the best. Of these, the former is said to be better. The yogi must always go to a householder who is good in conduct, faithful, controlled, learned, great-souled, superior in every way—not a householder who has fallen down. Begging from a householder who has no varna is said to be an inferior means of subsistence. Alms should be rice gruel, buttermilk, milk, barley gruel, fruits, roots, seeds of the *priyangu* creeper, broken grain, oilseeds and pounded ground meal. [^482] These are said to be auspicious foods for a yogi and ensure his success. Before eating, the sage must control himself and remain silent. He must meditate and first touch water. He must say, “To prana”. This is said to be the first oblation. He must next say, “To apana”. This is the second oblation. He then says, “To samana”. This is the next oblation. As the fourth oblation, he then says, “To udana”. As the fifth oblation, he says, “To vyana”. Having separately performed these acts of pranayama, he then eats, as he wishes. After this, he again sips water and rinses his mouth, thereafter touching his heart. Honesty, brahmacharya, renunciation, lack of avarice and non-violence—these are said to be the five supreme vows for a mendicant. Lack of anger, service to the guru, purity, restricted diet and constant studying—these have been described as the daily rituals. He must pursue the essence of jnana. This will ensure that he accomplishes the objective. Too many kinds of knowledge become impediments to yoga. If one wanders around, thirsty for knowledge and exclaiming, “This is knowledge. This must be known,” one can spend a thousand kalpas without knowing what should be known. Without attachment, conquering anger, limited in diet, conquering his senses and using his mind as a gate, he must immerse his mind in dhyana. A yogi must always practise dhyana in secluded places, caves and forests. Control over speech, control over action and control over the mind—these are the three staffs of control used by a yogi who is a *tridandi*. [^483] He considers everything in this universe, cause and effect, to be pervaded by the atman. Everything is pervaded by gunas and delinked from gunas. O king! Whom does he love and whom does he hate? His intelligence has been purified. A clod of earth and a lump of gold are the same to him. He is controlled and impartial towards all beings. This mendicant goes to the supreme, undecaying and eternal region, from which, there is no rebirth. The Vedas and all the rites and sacrifices are the best. But meditation is better than sacrifices and the path of jnana is better than meditation. Dhyana, without association and attachment, is superior to jnana. Through this, one realizes the eternal. If a great-souled person is controlled and immersed in the brahman without any distraction, if he is pure and single-mindedly conquers his senses and if he engages in this yoga, then through his own yoga, he attains emancipation.’”’
+
+---
+
+[^479]: Both of these are done so that living creatures are not killed.
+
+[^480]: All three sources on the same day.
+
+[^481]: The word used in the text is *yayavara*.
+
+[^482]: *Saktu*, colloquially known as *sattu.*
+
+[^483]: A mendicant carries a rod with three staffs tied together. Thus, he is a tridandi and the word is being used as a metaphor for controlling thoughts, words and deeds.

@@ -1,0 +1,51 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Jeremiah"
+english_book: "Jeremiah"
+chapter: 35
+aliases:
+  - "Jeremiah 35"
+---
+# LXX Jeremiah 35
+
+← [[LXX Jeremiah 34]] · [[LXX]] · [[LXX Jeremiah 36]] →
+
+*Jeremiah · [[LXX]]*
+
+**35:1** And it came to pass in the fourth year of Sedekias king of Juda, in the fifth month, *that* Ananias the false prophet, the son of Azor, from Gabaon, spoke to me in the house of the Lord, in the sight of the priests and all the people, saying,  ^35-1
+
+**35:2** Thus saith the Lord; I have broken the yoke of the king of Babylon.  ^35-2
+
+**35:3** Yet two full years, and I will return into this place the vessels of the house of the Lord,  ^35-3
+
+**35:4** and Jechonias, and the captivity of Juda: for I will break the yoke of the king of Babylon.  ^35-4
+
+**35:5** Then Jeremias spoke to Ananias in the sight of all the people, and in the sight of the priests that stood in the house of the Lord,  ^35-5
+
+**35:6** and Jeremias said, May the Lord indeed do thus; may he confirm thy word which thou dost prophesy, to return the vessels of the house of the Lord, and all the captivity, out of Babylon to this place.  ^35-6
+
+**35:7** Nevertheless hear ye the word of the Lord which I speak in your ears, and in the ears of all the people.  ^35-7
+
+**35:8** The prophets that were before me and before you of old, also prophesied over much country, and against great kingdoms, concerning war.  ^35-8
+
+**35:9** *As for* the prophet that has prophesied for peace, when the word has come *to pass*, they shall know the prophet whom the Lord has sent them in truth.  ^35-9
+
+**35:10** Then Ananias took the yokes from the neck of Jeremias in the sight of all the people, and broke them to pieces.  ^35-10
+
+**35:11** And Ananias spoke in the presence of all the people, saying, Thus said the Lord; Thus will I break the yoke of the king of Babylon from the necks of all the nations. And Jeremias went his way.  ^35-11
+
+**35:12** And the word of the Lord came to Jeremias, after that Ananias had broken the yokes off his neck, saying,  ^35-12
+
+**35:13** Go and speak to Ananias, saying, Thus saith the Lord; Thou hast broken the yokes of wood; but I will make instead of them yokes of iron.  ^35-13
+
+**35:14** For thus said the Lord, I have put a yoke of iron on the neck of all the nations, that they may serve the king of Babylon.  ^35-14
+
+**35:15** And Jeremias said to Ananias, The Lord has not sent thee; and thou hast caused this people to trust in unrighteousness.  ^35-15
+
+**35:16** Therefore thus said the Lord: Behold, I *will* cast thee off from the face of the earth: this year thou shalt die.  ^35-16
+
+**35:17** So he died in the seventh month.  ^35-17

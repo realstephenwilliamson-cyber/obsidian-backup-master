@@ -1,0 +1,108 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "4 Kingdoms"
+english_book: "2 Kings"
+chapter: 9
+aliases:
+  - "2 Kings 9"
+  - "LXX 2 Kings 09"
+---
+# LXX 4 Kingdoms 09
+
+← [[LXX 4 Kingdoms 08]] · [[LXX]] · [[LXX 4 Kingdoms 10]] →
+
+*4 Kingdoms · [[LXX]]*
+
+**9:1** And Elisaie the prophet called one of the sons of the prophets, and said to him, Gird up thy loins, and take this cruse of oil in thy hand, and go to Remmoth Galaad.  ^9-1
+
+**9:2** And thou shalt enter there, and shalt see there Ju the son of Josaphat son of Namessi, and shalt go in and make him rise up from among his brethren, and shalt bring him into a secret chamber.  ^9-2
+
+**9:3** And thou shalt take the cruse of oil, and pour *it* on his head, and say thou, Thus saith the Lord, I have anointed thee king over Israel: and thou shalt open the door, and flee, and not tarry.  ^9-3
+
+**9:4** And the young man the prophet went to Remmoth Galaad.  ^9-4
+
+**9:5** And he went in, and, behold, the captains of the host were sitting; and he said, I have a message to thee, O captain. And Ju said, To which of all us? And he said, To thee, O captain.  ^9-5
+
+**9:6** And he arose, and went into the house: and he poured the oil upon his head, and said to him, Thus saith the Lord God of Israel, I have anointed thee to be king over the people of the Lord, even over Israel.  ^9-6
+
+**9:7** And thou shalt utterly destroy the house of Achaab thy master from before me, and shalt avenge the blood of my servants the prophets, and the blood of all the servants of the Lord, at the hand of Jezabel,[^1]  ^9-7
+
+**9:8** and at the hand of the whole house of Achaab: and thou shalt utterly cut off from the house of Achaab every male, and him that is shut up and left in Israel.  ^9-8
+
+**9:9** And I will make the house of Achaab like the house of Jeroboam the son of Nabat, and as the house of Baasa the son of Achia.[^2]  ^9-9
+
+**9:10** And the dogs shall eat Jezabel in the portion of Jezreel, and there shall be none to bury her. And he opened the door, and fled.[^3]  ^9-10
+
+**9:11** And Ju went forth to the servants of his lord, and they said to him, *Is* all well? Why came this mad fellow in to thee? And he said to them, Ye know the man, and his communication.[^4]  ^9-11
+
+**9:12** And they said, *It is* wrong: tell us now. And Ju said to them, Thus and thus spoke he to me, saying,—and he said, Thus saith the Lord, I have anointed thee to be king over Israel.  ^9-12
+
+**9:13** And when they heard it, they hasted, and took every man his garment, and put it under him on the top of the stairs, and blew with the trumpet, and said, Ju is king.[^5][^6]  ^9-13
+
+**9:14** So Ju the son of Josaphat the son of Namessi conspired against Joram, and Joram was defending Remmoth Galaad, he and all Israel, because of Azael king of Syria.[^7]  ^9-14
+
+**9:15** And king Joram had returned to be healed in Jezrael of the wounds which the Syrians had given him, in his war with Azael king of Syria. And Ju said, If your heart is with me, let there not go forth out of the city one fugitive to go and report to Jezrael.[^8]  ^9-15
+
+**9:16** And Ju rode and advanced, and came down to Jezrael; for Joram king of Israel was getting healed in Jezrael of the arrow-wounds wherewith the Syrians *had* wounded him in Rammath in the war with Azael king of Syria; for he *was* strong and a mighty man: and Ochozias king of Juda was come down to see Joram.  ^9-16
+
+**9:17** And there went up a watchman upon the tower of Jezrael, and saw the dust *made by* Ju as he approached; and he said, I see dust. And Joram said, Take a horseman, and send to meet them, and let him say, Peace.[^9]  ^9-17
+
+**9:18** And there went a horseman to meet them, and said, Thus says the king, Peace. And Ju said, What hast thou to do with peace? turn behind me. And the watchman reported, saying, The messenger came up to them, and has not returned.  ^9-18
+
+**9:19** And he sent another horseman, and he came to him, and said, Thus says the king, Peace. And Ju said, What hast thou to do with peace? turn behind me.  ^9-19
+
+**9:20** And the watchman reported, saying, He came up to them, and has not returned: and the driver drives Ju the son of Namessi, for it is with furious *haste*.[^10]  ^9-20
+
+**9:21** And Joram said, Make ready. And one made ready the chariot: and Joram the king of Israel went forth, and Ochozias king of Juda, each in his chariot, and they went to meet Ju, and found him in the portion of Nabuthai the Jezraelite.  ^9-21
+
+**9:22** And it came to pass when Joram saw Ju, that he said, *Is it* peace, Ju? And Ju said, How *can it be* peace? as yet *there are* the whoredoms of thy mother Jezabel, and her abundant witchcrafts.  ^9-22
+
+**9:23** And Joram turned his hands, and fled, and said to Ochozias, Treachery, Ochozias.  ^9-23
+
+**9:24** And Ju bent his bow with his full strength, and smote Joram between his arms, and his arrow went out at his heart, and he bowed upon his knees.[^11]  ^9-24
+
+**9:25** And *Ju* said to Badecar his chief officer, Cast him into the portion of ground of Nabuthai the Jezraelite, for I and thou remember, riding *as we were* on chariots after Achaab his father, that the Lord took up this burden against him, *saying*,[^12][^13]  ^9-25
+
+**9:26** Surely, I have seen yesterday the blood of Nabuthai, and the blood of his sons, saith the Lord; and I will recompense him in this portion, saith the Lord. Now then, I pray thee, take him up and cast him into the portion, according to the word of the Lord.[^14]  ^9-26
+
+**9:27** And Ochozias king of Juda saw *it*, and fled by the way of Bæthgan. And Ju pursued after him, and said, *Slay* him also. And one smote him in the chariot at the going up of Gai, which is Jeblaam: and he fled to Mageddo, and died there.[^15]  ^9-27
+
+**9:28** And his servants put him on a chariot, and brought him to Jerusalem, and they buried him in his sepulchre in the city of David.  ^9-28
+
+**9:29** And in the eleventh year of Joram king of Israel, Ochozias began to reign over Juda.  ^9-29
+
+**9:30** And Ju came to Jezrael; and Jezabel heard *of it*, and coloured her eyes, and adorned her head, and looked through the window.  ^9-30
+
+**9:31** And Ju entered into the city; and she said, Had Zambri, the murderer of his master, peace?  ^9-31
+
+**9:32** And he lifted up his face toward the window, and saw her, and said, Who art thou? Come down with me. And two eunuchs looked down towards him.  ^9-32
+
+**9:33** And he said, Throw her *down*. And they threw her *down*; and some of her blood was sprinkled on the wall, and on the horses: and they trampled on her.  ^9-33
+
+**9:34** And *Ju* went in and ate and drank, and said, Look now, after this cursed woman, and bury her, for she is a king's daughter.  ^9-34
+
+**9:35** And they went to bury her; but they found nothing of her but the skull, and the feet, and the palms of her hands.  ^9-35
+
+**9:36** And they returned and told him. And he said, *It is* the word of the Lord, which he spoke by the hand of Eliu the Thesbite, saying, In the portion of Jezrael shall the dogs eat the flesh of Jezabel.  ^9-36
+
+**9:37** And the carcase of Jezabel shall be as dung on the face of the field in the portion of Jezrael, so that they shall not say, *This is* Jezabel.  ^9-37
+
+[^1]: 9:7 *Gr.* bloods.
+[^2]: 9:9 *Gr.* give.
+[^3]: 9:10 *Gr.* there is not a buryer.
+[^4]: 9:11 *Gr.* peace.
+[^5]: 9:13 *Heb.* word in *Gr.*
+[^6]: 9:13 *Lit.* has reigned.
+[^7]: 9:14 *Gr.* from the face of.
+[^8]: 9:15 *Gr.* one having escaped.
+[^9]: 9:17 *Gr.* before them.
+[^10]: 9:20 *Gr.* has driven.
+[^11]: 9:24 *Lit.* filled his hand with the bow.
+[^12]: 9:25 *Gr.* on yokes, *or* chariots with pairs of horses.
+[^13]: 9:25 *Gr.* and the Lord.
+[^14]: 9:26 *Gr.* If I have not seen.
+[^15]: 9:27 *Heb.* the garden house.

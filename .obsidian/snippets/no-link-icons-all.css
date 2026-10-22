@@ -1,0 +1,15 @@
+/* no-link-icons-all.css  (8 Oct 2026)
+   The Cyber Glow theme draws a small logo after every link (theme.css, "Links Styling":
+   .internal-link::after and .external-link::after). The first snippet removed it only
+   inside callouts, but the Home panels (verses, Daily Office, the Study plan line, the
+   Sanskrit card) are dataview blocks, not callouts, so they kept it.
+   This removes the logo after every link, in reading and editing view.
+   The theme's glow behind link text is left as it is. The theme file is not changed. */
+
+.internal-link::after,
+.external-link::after,
+.cm-hmd-internal-link::after,
+.cm-link::after {
+  content: none !important;
+  display: none !important;
+}

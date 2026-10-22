@@ -1,0 +1,23 @@
+{
+ "pdf": "/mnt/user-data/uploads/Obsidian Vault/Library/Trika/Teun Goudriaan - Maya Divine and Human-Motilal Banarsidass (1978).pdf",
+ "pdf_vault": "Library/Trika/Teun Goudriaan - Maya Divine and Human-Motilal Banarsidass (1978).pdf",
+ "catalog": "Library/Catalog/Trika/Maya Divine and Human",
+ "route": "ocr",
+ "title": "Maya Divine and Human: A study of magic and its religious foundations in Sanskrit texts, with particular attention to a fragment on Viṣṇu's Māyā preserved in Bali",
+ "authors": [
+  "Teun Goudriaan"
+ ],
+ "byline": "Teun Goudriaan. Motilal Banarsidass, Delhi, 1978.",
+ "folder": "Library/Trika/Maya Divine and Human (Goudriaan)",
+ "index_name": "Maya Divine and Human (Goudriaan)",
+ "prefix": "Maya Divine and Human",
+ "out": "/home/claude/p4/out",
+ "date": "2026-10-07",
+ "ctype": "book",
+ "single": false,
+ "text_source": "fresh OCR with Tesseract 5 (Latin)",
+ "langs": "Latin",
+ "fixmap": true,
+ "anusvara": true,
+ "san_pages": true
+}

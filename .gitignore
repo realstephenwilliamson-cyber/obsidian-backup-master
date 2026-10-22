@@ -1,0 +1,16 @@
+# Obsidian Git backup (22 Oct 2026): the vault's notes, settings and small files.
+# The PDFs and other large files stay on this computer only.
+*.pdf
+*.PDF
+*.djvu
+*.epub
+*.mobi
+*.zip
+.trash/
+.work/
+.smart-env/
+MUKTABODHA-LIBRARY-*/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+Thumbs.db
+desktop.ini

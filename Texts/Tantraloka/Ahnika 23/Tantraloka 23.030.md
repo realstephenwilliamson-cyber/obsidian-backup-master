@@ -1,0 +1,40 @@
+---
+type: "text"
+work: "Tantrāloka"
+author: "Abhinavagupta"
+commentary: "Jayaratha, Viveka"
+chapter: 23
+verse: 30
+edition: "Kashmir Series of Texts and Studies (KSTS), as transcribed by Muktabodha (M00093)"
+license: "CC BY-NC 4.0, Muktabodha Indological Research Institute"
+aliases:
+  - "TĀ 23.30"
+  - "TA 23.30"
+  - "Tantrāloka 23.30"
+---
+[[Tantraloka 23.029|← 23.29]] · [[Tantraloka 23 - Abhisekaprakasana|Āhnika 23]] · [[Tantraloka 23.031|23.31 →]]
+
+## Mūla
+
+न दीक्षेत गुरुः शिष्यं तत्त्वयुक्तस्तु गर्वतः ।
+योऽस्य स्यान्नरके वास इह च व्याधितो भवेत् ॥ ^mula
+
+na dīkṣeta guruḥ śiṣyaṃ tattvayuktastu garvataḥ |
+yo'sya syānnarake vāsa iha ca vyādhito bhavet || ^iast
+
+## Translation
+
+> [!source] Dyczkowski, vol. IX
+> [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 09 (Dyczkowski)/Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#^pg330|p. 310]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 09.pdf#page=330>))
+>
+> ‘A (true) teacher is said to be one who imparts the teaching (correctly and) appropriately (yathārtham) (as he should). (The teacher should) not disdain (his duty) to rescue (his disciple) from the world of transmigratory existence when the time comes (to perform) the rite (through which the disciple is initiated). If a teacher who, because of (his) pride, were not to initiate a disciple who is fit to (attain the ultimate) reality, his residence (would be) hell (in the next world), and here (in this one) he would be (constantly afflicted by) disease.’ (with 23.29–30)
+
+## Viveka
+
+> यथार्थमुपदेशं तु कुर्वन्नाचार्य उच्यते ।
+> न चावज्ञा क्रियाकाले संसारोद्धरणं प्रति ॥
+> न दीक्षेत गुरुः शिष्यं तत्त्वयुक्तस्तु गर्वतः ।
+> योऽस्य स्यान्नरके वास इह च व्याधितो भवेत् ॥
+
+य इति--अवज्ञावान् गर्वितश्च । अस्येति--एवंविधस्य ॥ ३० ॥
+

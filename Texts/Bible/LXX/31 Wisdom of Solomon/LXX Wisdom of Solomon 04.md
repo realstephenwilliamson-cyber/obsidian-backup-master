@@ -1,0 +1,58 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Wisdom of Solomon"
+english_book: "Wisdom"
+chapter: 4
+aliases:
+  - "Wisdom 4"
+  - "LXX Wisdom 04"
+---
+# LXX Wisdom of Solomon 04
+
+← [[LXX Wisdom of Solomon 03]] · [[LXX]] · [[LXX Wisdom of Solomon 05]] →
+
+*Wisdom of Solomon · [[LXX]]*
+
+**4:1** Better it is to have no children, and to have virtue: for the memorial thereof is immortal: because it is known with God, and with men.  ^4-1
+
+**4:2** When it is present, men take example at it; and when it is gone, they desire it: it weareth a crown, and triumpheth for ever, having gotten the victory, striving for undefiled rewards.  ^4-2
+
+**4:3** But the multiplying brood of the ungodly shall not thrive, nor take deep rooting from bastard slips, nor lay any fast foundation.  ^4-3
+
+**4:4** For though they flourish in branches for a time; yet standing not fast, they shall be shaken with the wind, and through the force of winds they shall be rooted out.  ^4-4
+
+**4:5** The imperfect branches shall be broken off, their fruit unprofitable, not ripe to eat, yea, meet for nothing.  ^4-5
+
+**4:6** For children begotten of unlawful beds are witnesses of wickedness against their parents in their trial.  ^4-6
+
+**4:7** But though the righteous be prevented with death, yet shall he be in rest.  ^4-7
+
+**4:8** For honourable age is not that which standeth in length of time, nor that is measured by number of years.  ^4-8
+
+**4:9** But wisdom is the grey hair unto men, and an unspotted life is old age.  ^4-9
+
+**4:10** He pleased God, and was beloved of him: so that living among sinners he was translated.  ^4-10
+
+**4:11** Yea, speedily was he taken away, lest that wickedness should alter his understanding, or deceit beguile his soul.  ^4-11
+
+**4:12** For the bewitching of naughtiness doth obscure things that are honest; and the wandering of concupiscence doth undermine the simple mind.  ^4-12
+
+**4:13** He, being made perfect in a short time, fulfilled a long time:  ^4-13
+
+**4:14** for his soul pleased the Lord: therefore hasted he *to take him away* from among the wicked.  ^4-14
+
+**4:15** This the people saw, and understood not, neither laid they up this in their minds, That his grace and mercy is with his saints, and that he hath respect unto his chosen.  ^4-15
+
+**4:16** Thus the righteous that is dead shall condemn the ungodly which are living; and youth that is soon perfected the many years and old age of the unrighteous.  ^4-16
+
+**4:17** For they shall see the end of the wise, and shall not understand what God in his counsel hath decreed of him, and to what end the Lord hath set him in safety.  ^4-17
+
+**4:18** They shall see him, and despise him; but God shall laugh them to scorn; and they shall hereafter be a vile carcase, and a reproach among the dead for evermore.  ^4-18
+
+**4:19** For he shall rend them, and cast them down headlong, that they shall be speechless; and he shall shake them from the foundation; and they shall be utterly laid waste, and be in sorrow; and their memorial shall perish.  ^4-19
+
+**4:20** And when they cast up the account of their sins, they shall come with fear: and their own iniquities shall convince them to their face.  ^4-20

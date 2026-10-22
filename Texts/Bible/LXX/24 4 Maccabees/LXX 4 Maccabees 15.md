@@ -1,0 +1,81 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "4 Maccabees"
+english_book: "4 Maccabees"
+chapter: 15
+aliases:
+  - "4 Maccabees 15"
+---
+# LXX 4 Maccabees 15
+
+← [[LXX 4 Maccabees 14]] · [[LXX]] · [[LXX 4 Maccabees 16]] →
+
+*4 Maccabees · [[LXX]]*
+
+**15:1** O reasoning of the sons, lord over the passions, and religion more desirable to a mother than progeny!  ^15-1
+
+**15:2** The mother, when two things were set before her, religion and the safety of her seven sons for a time, on the conditional promise of a tyrant,  ^15-2
+
+**15:3** rather elected the religion which according to God preserves to eternal life.  ^15-3
+
+**15:4** O in what way can I describe ethically the affections of parents toward their children, the resemblance of soul and of form engrafted into the small type of a child in a wonderful manner, especially through the greater sympathy of mothers with the feelings of those born of them!  ^15-4
+
+**15:5** for by how much mothers are by nature weak in disposition and prolific in offspring, by so much the fonder they are of children.  ^15-5
+
+**15:6** And of all mothers the mother of the seven was the fondest of children, who in seven childbirths had deeply engendered love toward them;  ^15-6
+
+**15:7** and through her many pains undergone in connection with each one, was compelled to feel sympathy with them;  ^15-7
+
+**15:8** yet, through fear of God, she neglected the temporary salvation of her children.  ^15-8
+
+**15:9** Not but that, on account of the excellent disposition of her sons, and their obedience to the law, her maternal affection toward them was increased.  ^15-9
+
+**15:10** For they were both just and temperate, and manly, and high-minded, and fond of their brethren, and so fond of their mother that even unto death they obeyed her by observing the law.  ^15-10
+
+**15:11** And yet, though there were so many circumstances connected with love of children to draw on a mother to sympathy, in the case of none of them were the various tortures able to pervert her principle.  ^15-11
+
+**15:12** But she inclined each one separately and all together to death for religion.  ^15-12
+
+**15:13** O holy nature and parental feeling, and reward of bringing up children, and unconquerable maternal affection!  ^15-13
+
+**15:14** At the racking and roasting of each one of them, the observant mother was prevented by religion from changing.  ^15-14
+
+**15:15** She beheld her children's flesh dissolving around the fire; and their extremities quivering on the ground, and the flesh of their heads dropped forwards down to their beards, like masks.  ^15-15
+
+**15:16** O thou mother, who wast tried at this time with bitterer pangs than those of parturition!  ^15-16
+
+**15:17** O thou only woman who hast brought forth perfect holiness!  ^15-17
+
+**15:18** Thy first-born, expiring, turned thee not; nor the second, looking miserable in his torments; nor the third, breathing out his soul.  ^15-18
+
+**15:19** Nor when thou didst behold the eyes of each of them looking sternly upon their tortures, and their nostrils foreboding death, didst thou weep!  ^15-19
+
+**15:20** When thou didst see children's flesh heaped upon children's flesh that had been torn off, hands upon hands cut off, heads decapitated upon heads, dead falling upon the dead, and a choir of children turned through torture into a burying-ground, thou lamentedst not.  ^15-20
+
+**15:21** Not so do siren melodies, or songs of swans, attract the hearers to listening, O voices of children calling upon your mother in the midst of torments!  ^15-21
+
+**15:22** With what and what manner of torments was the mother herself tortured, as her sons were undergoing the wheel and the fires!  ^15-22
+
+**15:23** But religious reasoning, having strengthened her courage in the midst of sufferings, enabled her to forego, for the time, parental love.  ^15-23
+
+**15:24** Although beholding the destruction of seven children, the noble mother, after one embrace, stripped off [her feelings] through faith in God.  ^15-24
+
+**15:25** For just as in a council-room, beholding in her own soul vehement counsellors, nature and parentage and love of her children, and the racking of her children,  ^15-25
+
+**15:26** she holding two votes, one for the death, the other for the preservation of her children,  ^15-26
+
+**15:27** did not lean to that which would have saved her children for the safety of a brief space.  ^15-27
+
+**15:28** But this daughter of Abraham remembered his holy fortitude.  ^15-28
+
+**15:29** O mother of a nation, avenger of the law, and defender of religion, and prime bearer in the battle of the affections!  ^15-29
+
+**15:30** O thou nobler in endurance than males, and more manly than men in patience!  ^15-30
+
+**15:31** For as the ark of Noah, bearing the world in the world-filling flood, bore up against the waves,  ^15-31
+
+**15:32** so thou, the guardian of the law, when surrounded on every side by the flood of passions, and straitened by violent storms which were the torments of thy children, didst bear up nobly against the storms against religion.  ^15-32

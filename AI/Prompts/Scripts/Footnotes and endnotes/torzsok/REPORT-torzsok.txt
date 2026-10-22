@@ -1,0 +1,39 @@
+# D31c, Törzsök, The Doctrine of Magic Female Spirits (1999): footnotes restored (18 Oct 2026)
+
+Book: `Library/Trika/Torzsok - The Doctrine of Magic Female Spirits (1999).pdf` (353 pages, a scan of the 1999 Oxford D.Phil. typescript with an OCRmyPDF/Tesseract layer, redone on 15 Oct). Notes: `Library/Trika/The Doctrine of Magic Female Spirits' (Torzsok)/`, made on 8 Oct from that layer with junk words replaced from a fresh OCR. Done with the Agent SDK on the laptop; scripts ran in `C:\Users\welln\fnwork\` (paths inside them point there and to the vault).
+
+## Result
+
+120 footnotes in notes 01, 02, 06, 07, 08 (73 pages). About 460 notes stay as numbered paragraphs at the foot of their page, exactly as before. Notes 03–05 (the edition: verse-keyed parallels and variants, no calls) untouched. Words unchanged except removed misread note numbers (digits and junk such as ? ! ® * $), plus one letter: `Bhairava?s.` → `Bhairava[^25].` on PDF 235.
+
+## Layout of the book
+
+Footnotes under a short rule, numbered per chapter, in smaller type with tighter line spacing (pitch about 9–10 pt against 15 in the body). The scan is skewed, so x positions drift down the page. Raised calls are read by the OCR as `?0`, `!`, `??`, `®`, `*°` and the like, or dropped; note labels are often lost or glued to the first word (`31Described`), and several notes are often run together in one paragraph.
+
+## Method (scripts in this folder)
+
+- `layer.py` dumps the PDF's text layer; `rows.py` shows rows with pitch and size.
+- `pdfside.py`: per page, the notes zone (the tail of rows after a gap ≥ 18 pt whose pitches are < 14 and median < 11.5), note rows and labels, body words.
+- `raised.py`: is the ink of a candidate call above the baseline of the letters before it (page image, 300 dpi)?
+- `callocr.py`: cuts the raised marks out of the image and compares them with digit shapes learnt from calls the OCR read correctly (`templates.pkl` is rebuilt on the first run); `verify` picks which of the page's possible note numbers the marks show, with a margin.
+- `transform.py`: aligns the note's words with the layer (difflib), finds call candidates in either reading, confirms them on the image, finds the note labels in the Markdown (numbers at a paragraph start or after a sentence end before a capital, glued labels, look-alikes such as `Il`; layer labels only where the Markdown has a paragraph break), takes the longest chain of increasing labels, and writes a footnote only where (1) the note's number is read at its start and the next note's number at its end (or it is the page's last note and nothing starts after it), and (2) a call with exactly those digits is found in the body. Text not converted keeps its original paragraphs verbatim.
+- `check.py` (markers, headings, frontmatter, words, removed characters, pairing) and `layoutcheck.py` (every paragraph without a footnote is an original paragraph or a piece of one); `makejob.py` + `fnjob.js` build the runner job (SHA-256 check, backup, write, then frontmatter / page blocks / pairing / unresolved links).
+- `transform_v1_withdrawn.py`: the first version (below), kept for the record.
+
+## What went wrong first
+
+A first version (335 footnotes) numbered the notes from the layer's rows and guessed label-less note starts from indentation. It was applied; an independent image check of six pages then found definitions attached to the wrong note on four (the references were in the right places, no text lost): one missed or extra start shifts every later note on the page. The word and pairing checks cannot see this. The strict rules above replaced it the same evening (one job; note 09 back to its original). Two further image checks (9 and 7 pages) found no wrong pairing after the fixes; side effects they found (a paragraph split at the body/notes cut, notes re-paragraphed, a false continuation) were fixed and the layout check added.
+
+## Known leftovers
+
+- PDF 282: note 8 continues on PDF 283, where its tail stays a paragraph.
+- PDF 266: a stray OCR full stop after `[^40]`.
+- Pages skipped: 288–292, 297, 313 (tables taken for notes zones), 2 pages with an unaligned paragraph among the notes.
+
+## Lesson for the other books
+
+Check definitions against the page images before applying, not after; word and pairing checks do not catch shifted notes. Require note numbers read at both ends of a definition.
+
+## Second round (19 Oct 2026)
+
+`leftpages.py` found 112 pages whose notes were not all converted; six subagents read every footnote there from the page images (number, first and last words, words before the call: `readings/`). `vlink.py` converts a note only where the reading is certain, the note does not cross a page, its first and last words (digits kept) are found once in order, no other note's first words fall inside it, and the call's words are found once in the body above the page's notes; letters and quote marks next to a call are never removed except a note's own number read as `l`. Result: 245 more footnotes (366). Image checks (17 pages): the first found a call on the wrong word, two definitions cut short and one note spliced into another (all from loose matching, tightened); the second found all correct apart from glued labels and an escape, fixed. Backup of the state before: `.work/backup-footnotes-2026-10-18/Torzsok-round2/`.

@@ -1,0 +1,83 @@
+---
+type: text
+work: "Douay-Rheims Bible"
+book: "Job"
+douay_name: "Job"
+chapter: 21
+translation: "Douay-Rheims, American edition of 1899"
+license: "Public domain (eBible.org, engDRA)"
+source: "https://ebible.org/find/details.php?id=engDRA"
+---
+# Job 21 (Douay-Rheims)
+
+[[DRB Job 20|← Job 20]] · [[Douay-Rheims|index]] · [[DRB Job 22|Job 22 →]]
+
+**21:1** Then Job answered, and said: ^21-1
+
+**21:2** Hear, I beseech you, my words, and do penance. ^21-2
+
+**21:3** Suffer me, and I will speak, and after, if you please, laugh at my words. ^21-3
+
+**21:4** Is my debate against man, that I should not have just reason to be troubled? ^21-4
+
+**21:5** Hearken to me and be astonished, and lay your finger on your mouth. ^21-5
+
+**21:6** As for me, when I remember, I am afraid, and trembling taketh hold on my flesh. ^21-6
+
+**21:7** Why then do the wicked live, are they advanced, and strengthened with riches? ^21-7
+
+**21:8** Their seed continueth before them, a multitude of kinsmen, and of children’s children in their sight. ^21-8
+
+**21:9** Their houses are secure and peaceable, and the rod of God is not upon them. ^21-9
+
+**21:10** Their cattle have conceived, and failed not: their cow has calved, and is not deprived of her fruit. ^21-10
+
+**21:11** Their little ones go out like a flock, and their children dance and play. ^21-11
+
+**21:12** They take the timbrel, and the harp, and rejoice at the sound of the organ. ^21-12
+
+**21:13** They spend their days in wealth, and in a moment they go down to hell. ^21-13
+
+**21:14** Who have said to God: Depart from us, we desire not the knowledge of thy ways. ^21-14
+
+**21:15** Who is the Almighty, that we should serve him? and what doth it profit us if we pray to him? ^21-15
+
+**21:16** Yet because their good things are not in their hand, may the counsel of the wicked be far from me. ^21-16
+
+**21:17** How often shall the lamp of the wicked be put out, and a deluge come upon them, and he shall distribute the sorrows of his wrath? ^21-17
+
+**21:18** They shall be as chaff before the face of the wind, and as ashes which the whirlwind scattereth. ^21-18
+
+**21:19** God shall lay up the sorrow of the father for his children: and when he shall repay, then shall he know. ^21-19
+
+**21:20** His eyes shall see his own destruction, and he shall drink of the wrath of the Almighty. ^21-20
+
+**21:21** For what is it to him what befalleth his house after him: and if the number of his months be diminished by one half? ^21-21
+
+**21:22** Shall any one teach God knowledge, who judgeth those that are high? ^21-22
+
+**21:23** One man dieth strong, and hale, rich and happy. ^21-23
+
+**21:24** His bowels are full of fat, and his bones are moistened with marrow. ^21-24
+
+**21:25** But another dieth in bitterness of soul without any riches: ^21-25
+
+**21:26** And yet they shall sleep together in the dust, and worms shall cover them. ^21-26
+
+**21:27** Surely I know your thoughts, and your unjust judgments against me. ^21-27
+
+**21:28** For you say: Where is the house of the prince? and where are the dwelling places of the wicked? ^21-28
+
+**21:29** Ask any one of them that go by the way, and you shall perceive that he knoweth these same things. ^21-29
+
+**21:30** Because the wicked man is reserved to the day of destruction, and he shall be brought to the day of wrath. ^21-30
+
+**21:31** Who shall reprove his way to his face? and who shall repay him what he hath done? ^21-31
+
+**21:32** He shall be brought to the graves, and shall watch in the heap of the dead. ^21-32
+
+**21:33** He hath been acceptable to the gravel of Cocytus, and he shall draw every man after him, and there are innumerable before him. ^21-33
+
+**21:34** How then do ye comfort me in vain, whereas your answer is shewn to be repugnant to truth? ^21-34
+
+[[DRB Job 20|← Job 20]] · [[Douay-Rheims|index]] · [[DRB Job 22|Job 22 →]]

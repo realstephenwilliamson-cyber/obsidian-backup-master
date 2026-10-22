@@ -1,0 +1,46 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "2 Kingdoms"
+english_book: "2 Samuel"
+chapter: 9
+aliases:
+  - "2 Samuel 9"
+  - "LXX 2 Samuel 09"
+---
+# LXX 2 Kingdoms 09
+
+← [[LXX 2 Kingdoms 08]] · [[LXX]] · [[LXX 2 Kingdoms 10]] →
+
+*2 Kingdoms · [[LXX]]*
+
+**9:1** And David said, Is there yet any one left in the house of Saul, that I may deal kindly with him for Jonathan's sake?  ^9-1
+
+**9:2** And there was a servant of the house of Saul, and his name was Siba: and they call him to David; and the king said to him, Art thou Siba? and he said, I *am* thy servant.  ^9-2
+
+**9:3** And the king said, Is there yet a man left of the house of Saul, that I may act towards him with the mercy of God? and Siba said to the king, There is yet a son of Jonathan, lame *of* his feet.  ^9-3
+
+**9:4** And the king said, Where *is* he? and Siba said to the king, Behold, *he is* in the house of Machir the son of Amiel of Lodabar.  ^9-4
+
+**9:5** And king David sent, and took him out of the house of Machir the son of Amiel of Lodabar.  ^9-5
+
+**9:6** And Memphibosthe the son of Jonathan the son of Saul comes to king David, and he fell upon his face and did obeisance to him: and David said to him, Memphibosthe: and he said, Behold thy servant.  ^9-6
+
+**9:7** And David said to him, Fear not, for I will surely deal mercifully with thee for the sake of Jonathan thy father, and I will restore to thee all the land of Saul the father of thy father; and thou shalt eat bread at my table continually.  ^9-7
+
+**9:8** And Memphibosthe did obeisance, and said, Who am I thy servant, that thou hast looked upon a dead dog like me?  ^9-8
+
+**9:9** And the king called Siba the servant of Saul, and said to him, All that belonged to Saul and to all his house have I given to the son of thy lord.[^1]  ^9-9
+
+**9:10** And thou, and thy sons, and thy servants, shall till the land for him; and thou shalt bring in bread to the son of thy lord, and he shall eat bread: and Memphibosthe the son of thy lord shall eat bread continually at my table. Now Siba had fifteen sons and twenty servants.  ^9-10
+
+**9:11** And Siba said to the king, According to all that my lord the king has commanded his servant, so will thy servant do. And Memphibosthe did eat at the table of David, as one of the sons of the king.  ^9-11
+
+**9:12** And Memphibosthe had a little son, and his name *was* Micha: and all the household of Siba *were* servants to Memphibosthe.  ^9-12
+
+**9:13** And Memphibosthe dwelt in Jerusalem, for he continually ate at the table of the king; and he was lame in both his feet.  ^9-13
+
+[^1]: 9:9 *Gr.* belongs.

@@ -1,0 +1,105 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Jeremiah"
+english_book: "Jeremiah"
+chapter: 31
+aliases:
+  - "Jeremiah 31"
+---
+# LXX Jeremiah 31
+
+← [[LXX Jeremiah 30]] · [[LXX]] · [[LXX Jeremiah 32]] →
+
+*Jeremiah · [[LXX]]*
+
+**31:1** Thus has the Lord said concerning MOAB, Woe to Nabau! for it has perished: Cariathaim is taken: Amath and Agath are put to shame.  ^31-1
+
+**31:2** There is no longer any healing for Moab, *nor* glorying in Esebon: he has devised evils against her: we have cut her off from *being* a nation, and she shall be completely still: after thee shall go a sword;  ^31-2
+
+**31:3** for *there is* a voice of *men* crying out of Oronaim, destruction and great ruin.  ^31-3
+
+**31:4** Moab is ruined, proclaim *it* to Zogora:  ^31-4
+
+**31:5** for Aloth is filled with weeping: one shall go up weeping by the way of Oronaim; ye have heard a cry of destruction.  ^31-5
+
+**31:6** Flee ye, and save your lives, and ye shall be as a wild ass in the desert.  ^31-6
+
+**31:7** Since thou hast trusted in thy strong-hold, therefore thou shalt be taken: and Chamos shall go forth into captivity, and his priests, and his princes together.  ^31-7
+
+**31:8** And destruction shall come upon every city, it shall by no means escape; the valley also shall perish, and the plain country shall be completely destroyed, as the Lord has said.  ^31-8
+
+**31:9** Set marks upon Moab, for she shall be touched with a plague-spot, and all her cities shall become desolate; whence *shall there be* an inhabitant for her?  ^31-9
+
+**31:10** Cursed is the man that does the works of the Lord carelessly, keeping back his sword from blood.  ^31-10
+
+**31:11** Moab has been at ease from a child, and trusted in his glory; he has not poured out *his liquor* from vessel to vessel, and has not gone into banishment, therefore his taste remained in him, and his smell departed not.  ^31-11
+
+**31:12** Therefore, behold, his days come, saith the Lord, when I shall send upon him bad leaders, and they shall lead him astray, and they shall utterly break in pieces his possessions, and shall cut his horns asunder.  ^31-12
+
+**31:13** And Moab shall be ashamed of Chamos, as the house of Israel was ashamed of Bæthel their hope, having trusted in them.  ^31-13
+
+**31:14** How will ye say, We are strong, and men strong for war?  ^31-14
+
+**31:15** Moab is ruined, *even* his city, and his choice young men have gone down to slaughter.  ^31-15
+
+**31:16** The day of Moab is near at hand, and his iniquity moves swiftly *to vengeance*.  ^31-16
+
+**31:17** Shake *the head* at him, all ye that are round about him; all *of you* utter his name; say ye, How is the glorious staff broken to pieces, the rod of magnificence!  ^31-17
+
+**31:18** Come down from *thy* glory, and sit down in a damp place: Dæbon shall be broken, because Moab is destroyed: there has gone up against thee one to ravage thy strong-hold.  ^31-18
+
+**31:19** Stand by the way, and look, thou that dwellest in Arer; and ask him that is fleeing, and him that escapes, and say, What has happened?  ^31-19
+
+**31:20** Moab is put to shame, because he is broken: howl and cry; proclaim in Arnon, that Moab has perished.  ^31-20
+
+**31:21** And judgment is coming against the land of Misor, upon Chelon, and Rephas, and Mophas,  ^31-21
+
+**31:22** and upon Dæbon, and upon Nabau, and upon the house of Dæthlathaim,  ^31-22
+
+**31:23** and upon Cariathaim, and upon the house of Gæmol, and upon the house of Maon,  ^31-23
+
+**31:24** and upon Carioth, and upon Bosor, and upon all the cities of Moab, far and near.  ^31-24
+
+**31:25** The horn of Moab is broken, and his arm is crushed.  ^31-25
+
+**31:26** Make ye him drunk; for he has magnified himself against the Lord: and Moab shall clap with his hand, and shall be also himself a laughing-stock.  ^31-26
+
+**31:27** For surely Israel was to thee a laughing-stock, and was found among thy thefts, because thou didst fight against him.  ^31-27
+
+**31:28** The inhabitants of Moab have left the cities, and dwelt in rocks; they have become as doves nestling in rocks, at the mouth of a cave.  ^31-28
+
+**31:29** And I have heard of the pride of Moab, he has greatly heightened his pride and his haughtiness, and his heart has been lifted up.  ^31-29
+
+**31:30** But I know his works: is it not enough for him? has he not done thus?  ^31-30
+
+**31:31** Therefore howl ye for Moab on all sides; cry out against the shorn men *in* a gloomy place. I will weep for thee,  ^31-31
+
+**31:32** O vine of Aserema, as with the weeping of Jazer: thy branches are gone over the sea, they reached the cities of Jazer: destruction has come upon thy fruits, *and* upon thy grape-gatherers.  ^31-32
+
+**31:33** Joy and gladness have been utterly swept off the land of Moab: and *though* there was wine in thy presses, in the morning they trod it not, neither in the evening did they raise the cry of joy.  ^31-33
+
+**31:34** From the cry of Esebon even to Ætam their cities uttered their voice, from Zogor to Oronaim, and their tidings *as* a heifer of three years old, for the water also of Nebrin shall be dried up.  ^31-34
+
+**31:35** And I will destroy Moab, saith the Lord, as he comes up to the altar, and burns incense to his gods.  ^31-35
+
+**31:36** Therefore the heart of Moab shall sound as pipes, my heart shall sound as a pipe for the shorn men; forasmuch as what *every* man has gained has perished from him.  ^31-36
+
+**31:37** They shall all have their heads shaved in every place, and every beard shall be shaved; and all hands shall beat *the breasts*, and on all loins shall be sackcloth.  ^31-37
+
+**31:38** And on all the housetops of Moab, and in his streets *shall be mourning*: for I have broken *him*, saith the Lord, as a vessel, which is useless.  ^31-38
+
+**31:39** How has he changed! how has Moab turned *his* back! Moab is put to shame, and become a laughing-stock, and an object of anger to all that are round about him.  ^31-39
+
+**31:40** For thus said the Lord;  ^31-40
+
+**31:41** Carioth is taken, and the strong-holds have been taken together.  ^31-41
+
+**31:42** And Moab shall perish from being a multitude, because he has magnified himself against the Lord.  ^31-42
+
+**31:43** A snare, and fear, and the pit, are upon thee, O inhabitant of Moab.  ^31-43
+
+**31:44** He that flees from the terror shall fall into the pit, and he that comes up out of the pit shall even be taken in the snare: for I will bring these things upon Moab in the year of their visitation.  ^31-44

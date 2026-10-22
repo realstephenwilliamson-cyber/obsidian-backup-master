@@ -1,0 +1,5620 @@
+---
+type: book-section
+book: "[[Zohar]]"
+order: 4
+page_range: 26–297
+folios: ZḤ 46d–ZḤ 91b
+aliases:
+  - "Midrash ha-Ne'lam on Ruth"
+  - "MhN Rut"
+  - "MhN Ruth"
+---
+# Midrash ha-Ne'lam al Rut
+
+← [[Zohar 11.03 - Midrash ha-Ne'lam al Shir ha-Shirim]] · [[Zohar]] · [[Zohar 11.05 - Midrash ha-Ne'lam al Eikhah]] →
+
+# [p. 26] **[ZḤ 75a]** רות‎ על‎ הנעלם‎ מדרש ^zh-75a
+
+# *Midrash ha-Ne’lam al Rut*
+
+## MIDRASH HA-NE’LAM ON RUTH
+
+*In the days when the judges judged*… ([[Ruth 1#^1-1|Ruth 1:1]]).[^1]
+
+The rabbis explained the verse *When the morning stars sang together, and all the sons of God shouted for joy* ([[Job 38#^38-7|Job 38:7]]). Who are the *morning stars*? Holy angels ruling by day. Who are the *sons of God*? Angels ruling by night.[^2]
+
+Come and see: Everything that the blessed Holy One created, He created only for His glory, as is said: *Everyone who is called by My name, whom I created for My glory, whom I formed and made* ([[Isaiah 43#^43-7|Isaiah 43:7]]). The blessed Holy One created man in the world and instilled His name יהוה (*YHVH*) within him. ו (*Vav*), called רוח (*ruaḥ*), spirit; ה (*he*), called נפש (*nefesh*), soul. יה (*Yod he*)—ה (*he*), called נשמתא (*nishmeta*), highest soul; י (*yod*)—דנשמתא‎ נשמתא (*nishmeta de-nishmeta*), soul of soul. He called them יה (*yod he*)—Father and Mother; וה (*vav he*)—Son and Daughter.[^3] [p. 27]
+
+Following the pattern for creating spirit and soul of holiness, thus did He create spirit and soul of the left side. Following the pattern of wine on its dregs, so do intellectual spirit and soul rest above animal spirit and soul. Why is it called ‘animal’? Because it comes from the left side along with the serpent—male and female. Of this Solomon—in his wisdom—said *Who knows the spirit of the sons of men that ascends on high, and the spirit of a beast that descends into earth*? ([[Ecclesiastes 03#^3-21|Ecclesiastes 3:21]]).[^4]
+
+To the side of impurity the blessed Holy One does not bestow His name, as is said: *I am YHVH, that is my name; I will not yield My glory to another, nor My praise to idols* ([[Isaiah 42#^42-8|Isaiah 42:8]]). אני (*Ani*), *I*—alludes to what is said: *I will chastise you, even I* ([[Torah 33 - Bechukotai#^26-28|Leviticus 26:28]]). *YHVH*—alludes to attribute of mercy. What is the [p. 28] **[ZḤ 75b]** meaning of *I will not yield… to another*? This is as is written: *For you shall not bow to another god* ([[Torah 21 - Ki Tisa#^34-14|Exodus 34:14]]), for it comes from the side of filth and impurity.[^5] ^zh-75b
+
+Rabbi opened, speaking of the mystery of *YHVH*: “י (*Yod*)—called Elimelech in this array; ה (*he*)—called Naomi in this array. Why is she called נעמי (*Na’omi*), Naomi? As it is said: *May the* נעם (*no’am*), *kindness, of YHVH, our God be upon us. The work of our hands, establish for us*… ([[Psalms 090#^90-17|Psalms 90:17]]). וה (*Vav he*), in this array—signified by Ruth and her husband.[^6]
+
+“רות (*Rut*), Ruth—inversion of her name [75b] is תור (*tor*), turtledove, as is said: ותור (*ve-tor*), *and a turtledove*, וגוזל (*ve-gozal*), *and a young pigeon* (Genesis 15:9). Naomi is called *nishmeta*, as is written: יונתי (*yonati*), *My dove, in the clefts [p. 29] of the rock, in the covert of the cliff, let me see your form, let me hear your voice; for your voice is sweet and your form beautiful* (Song of Songs 2:14).”[^7]
+
+Rabbi opened, saying, “What is the meaning of the verse *The work of our hands, establish for us* ([[Psalms 090#^90-17|Psalms 90:17]])?”
+
+He replied, “This signifies a person’s virtuous action. Virtuous acts—*YHVH* rests upon him. If not, *YHVH* departs from him, as is said: *Wisdom of women builds Her house, and Folly with her own hands destroys it* (Proverbs 14:1). *Wisdom of women*—these are *nishmeta*, and נפשא (*nafsha*), soul. *Folly—nafsha* on the left, called Orpah.”[^8]
+
+He said, “What is the meaning of *let me see your form* ([[Song of Songs 2#^2-14|Song of Songs 2:14]])? When a person is fashioned from a drop—originating in a fleshly body, within the placenta of his mother—just as he grows physically, the blessed Holy One infuses him, bit by bit, with spirit and soul. A lamp rests upon his head at night, as is said: *When His lamp shone over my head* ([[Job 29#^29-3|Job 29:3]]). And a column of light during the day, as is said: *The column of cloud moved to lead them on the way, and by night in a column of fire to give them light, so as to go by day and by night* ([[Torah 16 - Beshalach#^14-19|Exodus 14:19]], [[Torah 16 - Beshalach#^13-21|13:21]]). And it is written: *For a mitsvah is a lamp and Torah is light* ([[Proverbs 06#^6-23|Proverbs 6:23]]). It teaches him the entire Torah and instructs him in all its commandments.[^9] [p. 30]
+
+“He is cautioned, ‘Behold! This is the tortuous path called Night. Into that place enter all souls, as is said: *Small and great alike are there, and the slave is free of his master* ([[Job 03#^3-19|Job 3:19]]).’ They show him—with the column of fire above his head—numerous bears, lions, and scourging angels residing there. The dog abides there too, of which David said *Save my soul from the sword; my only one, from the grip of the dog* ([[Psalms 022#^22-21|Psalms 22:21]]). This place is Darkness, and angels of destruction are called ‘nights.’ Of this is said *from terror in the nights* ([[Song of Songs 3#^3-7|Song of Songs 3:7]]).[^10] [p. 31] **[ZḤ 75c]** ^zh-75c
+
+“They continue, ‘If you are worthy to perform the commandments, [75c] an angel will be fashioned for you from each and every one. Every time you come to this place, with the benefit of commandments, they will proclaim: *Build up, build up a highway! Clear a road! Remove all obstacles from the road of My people!* ([[Isaiah 57#^57-14|Isaiah 57:14]]), and they will not rule over you.[^11]
+
+“Following this pattern for the daytime: If you have attained Torah, each and every letter will be an angel, advocating for you in this place. As for the Torah—called a path—walk in this path, so that they will have no sway over you. Of this is said *to lead them on the way* ([[Torah 16 - Beshalach#^13-21|Exodus 13:21]]). Afterward, they show her the Garden of Eden and the singular portion allotted to each righteous person. Then they adjure her to fulfill the entire Torah.[^12] [p. 32]
+
+“Then they say to him, ‘*YHVH said to Abram: “Go you forth… and I will make of you a great nation… I will bless those who bless you*… ([[Torah 03 - Lech Lecha#^12-1|Genesis 12:1–3]]).” *YHVH said to* אברם (*Avram*), Abram—this is *nishmeta*: אב (*av*), progenitor, to רוח (*ruaḥ*), spirit, and רם (*ram*), superior, to the body. *From your land* (ibid., 1)—this is Garden of Eden. *From your birthplace* (ibid.)—this is womb of a flesh-and-blood woman. *From the house* (ibid.)—this is *Shekhinah. Your father* (ibid.)—this is blessed Holy One, because *your father* can refer only to the blessed Holy One, and one’s mother can be only Assembly of Israel. *To the land that I will show you* (ibid.)—this is the lowly world.’ And they bestow upon him seven blessings said above, from *I will make of you a great nation* (ibid., 2), until [*through you will be blessed*] *all families of the earth, and through your seed* (ibid., 3; 28:14).[^13]
+
+“Of one who is worthy—becoming righteous, knowing the name of the blessed Holy One—what do they say to him when he leaves the world? *You shall not fear from the terror of night… though a thousand fall at your side…. On their palms they will lift you up, lest your strike your foot against a stone* ([[Psalms 091#^91-5|Psalms 91:5]], [[Psalms 091#^91-7|7]], [[Psalms 091#^91-12|12]]). *A stone*—of the tortuous path, as they say: *your foot…. On lion and viper you tread*… until *for he knows My name* (ibid., 12–14).[^14] [p. 33]
+
+“‘If, however, one does not attain Torah and good deeds, when he departs this world he enters the path of darkness, of which we have spoken. All who dwell there tremble, saying: ‘*Could this be Naomi*? ([[Ruth 1#^1-19|Ruth 1:19]]). The one who went into this place replete with all kinds of goodness, brimming with Torah? She who had a column of cloud shining for her in this place, guiding her by day, and a column of fire leading her, as she ventured into this place by night? The one who was accompanied by her husband, לנשמתא‎ נשמתא (*nishmeta le-nishmeta*), soul of soul?’[^15]
+
+“She replied, saying: *Do not call me Naomi; call me Mara, for Shaddai has dealt very bitterly with me* (ibid., 20). For He delivered me into this foul body! *I left full* (ibid., 21)—for this place, *but YHVH has brought me back empty* (ibid.).[^16]
+
+“At that moment, she said, ‘*Turn back, my daughters*…’ (ibid., 11), as is said: *But Naomi said to her daughters-in-law, ‘Turn back, my daughters…’* (ibid., 8, 11). Ruth—holy נפשתא (*nafsheta*), soul—replied, as is said: *Ruth replied, ‘Do not press me to desert you, to resist following you; for wherever you go, I will go; whatever your shelter, I will share it; your people shall be my people, and your God my God* (ibid., 16).[^17]
+
+“Orpah—*nafsheta* from the left side—approaches the body, mourning for it, as is said: *But the flesh upon him will ache, and his soul will mourn for him* (Job 14:22). All the while that she mourns for it, the body says to הבהמית‎ נפש (*nefesh ha-behemit*), the animal soul: ‘As a result of the food and drink that you have given me, the נשמה (*neshamah*), highest soul, suffers mightily—bereft of Torah and commandments. Take what you have given me.’”[^18] [p. 34] **[ZḤ 75d]** ^zh-75d
+
+Rabbi said, “*Happy is one who considers* דל (*dal*), *the poor*… (Psalms 41:2). What is the meaning of דל (*dal*)? A neglected man. He says: ‘Why don’t you give to me? Am I more wicked than all other people in the world?’ Then he proceeds to wage war. What does Scripture say? It is as is written: *But if he holds fast to My refuge, that he may make peace with Me. Let him make peace with Me* (Isaiah 27:5). [75d] *My refuge*—this refers to the indigent, and the blessed Holy One says: ‘One must not judge a person during his time of distress.’”[^19]
+
+Rabbi Tanḥum said, “To the blessed Holy One, Job spoke this verse because of his suffering. What did he say? *Would that I knew how to find Him… I would lay out my case before him* ([[Job 23#^23-3|Job 23:3–4]]), until ultimately, Job hurled accusations heavenward. And is this all? Already in a number of places he denied the resurrection of the dead, spoke insolently, and cast stones at images of the king!”[^20] [p. 35]
+
+In fact, Rabbi Nehorai explained: “At that time, the Accuser asserted before the blessed Holy One, ‘Regarding Job—of whom You said that he is a man who is blameless and upright, revering God and shunning evil—behold, he has denied the resurrection of the dead, hurled accusations, cast stones at images of the king!’ The blessed Holy One replied: ‘Job spoke thoughtlessly when he said those things.’[^21]
+
+“When Job was quarreling with the blessed Holy One, what did he say to Him? ‘*Is it good for you to oppress*… ([[Job 10#^10-3|Job 10:3]]). Is this good—that you oppress me! My father and mother fashioned my body and You, a crofter with them, instilled a soul within me. And You said to the Accuser: “Lay your hand upon all that he has, but spare his soul.” Is this good for You—Your oppression of me—*to spurn Your own hands’ labor*! (ibid.)”’[^22] [75c][^23]
+
+This is like another teaching of Rabbi Nehorai: “What is the meaning of the verse *But if he holds fast to My refuge, that he may make peace with Me. Let him make peace with Me* ([[Isaiah 27#^27-5|Isaiah 27:5]])? Who has disputes with the blessed Holy One? Is not peace His? Does He not make peace in His heights![^24] [p. 36]
+
+“The answer is that the poor man, finding himself in straits, contends with heaven. One who takes hold of the poor man’s hand—helping him charitably—it is he who fashions peace between the indigent and the blessed Holy One. Then, the impoverished one returns, petitioning for forgiveness from the blessed Holy One. Who precipitated this peace? That one—[75d] who held the hand of the poor one, the one of whom it is said *But if he holds fast to My refuge*. For the blessed Holy One does not pass judgment upon one who is in distress.[^25]
+
+“The same holds for Job. When he came to the blessed Holy One, arguing with Him, what did he say? *Once have I spoken and I will not answer; twice, and will not go on* ([[Job 40#^40-5|Job 40:5]]), muzzling himself before the Judge.”[^26]
+
+Rabbi Pedat said, “*For you have not spoken rightly to Me as did my servant Job* (Job 42:7,8). *For you have not spoken rightly* is not how it is written, but rather אלי (*elai*), *to Me, you have not spoken rightly*. He stood up to legitimize the judgment, seeking atonement for his accusations earlier. But they did not beseech on their own behalf, for their mistaken pronouncements.”[^27]
+
+Rabbi Yehoshu’a of Sikhnin said in the name of Rabbi Yehudah: “Whoever suspects worthy men deserves to be afflicted with scaly affliction. This is as is written: *by which we have done foolishly and by which we have sinned* ([[Torah 36 - Beha'alotcha#^12-11|Numbers 12:11]]); and as is written: *Let her not be, pray, like one dead* (ibid., 12). Job’s companions suspected him baselessly, and they did not petition for their souls until Job sought mercy for them. The blessed Holy One informed them that their suspicions were spurious, and consequently: *Job my servant will pray on your behalf* ([[Job 42#^42-8|Job 42:8]]).”[^28] [p. 37]
+
+Rabbi Yose son of Kisma said, “*To him only shall I show favor and not treat you with* נבלה (*nevalah*), *disgrace* (ibid.). What is נבלה (*nevalah*), *disgrace*? This is צרעת (*tsara’at*), as is written: *Had her father spat in her face*… ([[Torah 36 - Beha'alotcha#^12-14|Numbers 12:14]]). The translation of this is ‘He would surely disgrace her upon her face.’[^29]
+
+“Come and see: When the blessed Holy One revealed Himself to Job, what is written? *And YHVH answered Job from the whirlwind* (Job 38:1). Rabbi Yose son of Ḥalafta said, “He responded in kind to Job’s plaint—*He crushes me with a whirlwind* (Job 9:17). Job said, ‘Master of the universe! Perhaps a whirlwind has passed before You, causing you to confuse איוב (*Iyyov*), Job, with אויב (*oyev*), enemy’ *You consider me your* אויב (*oyev*), *enemy* (Job 13:24). This is why He answered him from the whirlwind.”[^30] [p. 38] **[ZḤ 76a]** ^zh-76a
+
+The rabbis taught: “From that צערא (*tsa’ara*), anguish, from Satan who had השעיר (*his’ir*), blasted, Job’s body. From where do we know that he is called סערה (*se’arah*), whirlwind? Since it is written סערה‎ רוח (*ruaḥ se’arah*), blast from a *whirlwind, fulfilling His word* (Psalms 148:8)—and no permission is granted to do anything without the command of the blessed Holy One.”[^31]
+
+Rabbi Bun says: “It is written with a ש (*sin*), and it is written with a ס (*samekh*). It is written with a ש (*sin*), as in the verse *For He crushes me with a* שערה (*se’arah*), *whirlwind* (Job 9:17), and it is written with a ס (*samekh*), as in the verse *from the* סערה (*se’arah*), *whirlwind* (Job 38:1). It is written with a ש (*sin*): *with a* שערה (*se’arah*), *whirlwind* (Job 9:17), and there it is written לשעירים (*la-se’irim*), *to the demons, after whom they go whoring* (Leviticus 17:7).”[^32]
+
+As to being written as בשערה (*bi-s’arah*), *with a whirlwind*, Rabbi Reḥumai said, “Sometimes it is male and sometimes it is female. [76a] This is as is written: *Esau returned that day on his way* שעירה (*se’irah*), *to Se’ir* (Genesis 33:16). With a ס (*samekh*), as is written: *from the* סערה (*se’arah*), *whirlwind*. What is the explanation? שמסעיר (*She-mas’ir*), Because it rages against, a person’s body.”[^33]
+
+And yet it is written *Elijah ascended* בסערה (*ba-s’arah*), *in a whirlwind to heaven* ([[II Kings 02#^2-11|2 Kings 2:11]])! Rabbi Neḥemiah and Rabbi Yudai said, “When the blessed [p. 39] Holy One raised Elijah heavenward, the Angel of Death confronted him. The blessed Holy One said to him, ‘It was for this reason that I created the heavens—so that Elijah could ascend there!’ The Angel of Death replied, ‘Master of the Universe, this will give all other creatures a pretext!’ The blessed Holy One said to him, ‘This one is unlike all the other creatures; he can eliminate you from the world—you do not know his power!’ He said to Him, ‘Master of the Universe, grant me permission and I will go down to him.’ He replied, ‘Go down.’ He descended immediately. When Elijah saw him, he brought him to his knees, requesting permission to blot him out. Permission was denied. He crimped him beneath him—and rose up to heaven, as is written: *Elijah ascended by means of a whirlwind to heaven* (ibid.).[^34]
+
+“When the blessed Holy One revealed Himself to Job, it was from the selfsame whirlwind that He revealed Himself to him. This is as is written: הסערה‎ מנ (*min ha-se’arah*), *from the whirlwind* (Job 38:1)—נ, bent *nun*, not straight. The blessed Holy One buckled him over like a snake, slithering on its belly. Then He spoke to him. What did He say to Job? *Where were you when I founded earth*? (Job 38:4). He shut up at once, unable to contest His rebuke. This teaches that the blessed Holy One’s actions are done in truth.”[^35] [p. 40]
+
+Rabbi Alexandrai opened, saying: “*When the morning stars sang together* ([[Job 38#^38-7|Job 38:7]]). Stars on high rule by night, except those which rule in the morning. All of them sing, glorifying the One who said *When the morning stars sang together*—excluding the night stars—even though their rule is fleeting.”[^36]
+
+*And all the sons of God shouted for joy* (ibid.). Why ויריעו (*va-yari’u*), *shouted*? Rabbi Alexandrai said, “When the morning light rises, those sons of God בתרועה‎ מריעים (*meri’im bi-tru’ah*), blow a blast, dispatching all those angels and stars who officiate at night, other angels governing in their stead, ruling by day.”[^37]
+
+Rabbi Ḥisdai said, “There is one star in the vault that the blessed Holy One extracts from its place—Silon is its name. It ushers all other stars in and out, serving all night. When the morning stars govern, it is hidden away, stowed in its place.”[^38]
+
+Rabbi Shmuel said, “It is written: *Who shakes the earth from her place, and her pillars tremble* ([[Job 09#^9-6|Job 9:6]]). When the blessed Holy One wants to shake the entire world and cause its pillars to tremble, He does so from its place, exclusively. Where is its place? The point of Zion.”
+
+Rabbi Reḥumai says: “From Zion the world was founded, as is written: *A psalm of Asaph. El, Elohim YHVH, spoke and called forth the earth from the rising of the sun to its setting* ([[Psalms 050#^50-1|Psalms 50:1]]). And it is written: *From Zion, perfection of beauty, God shone forth* (ibid., 2).”[^39] [p. 41]
+
+Rabbi Simlai said, “When the blessed Holy One created the world, He infused light within light, clothing this one in that one, creating the heavens, as is written: *wrapped in light as a garment, spreading the heavens like a curtain* (ibid. 104:2). This light is called Light of His Garment—Primordial Light, in which the blessed Holy One garbed Himself. That light spread in splendor and glory, creating the world.”[^40]
+
+Rabbi Ḥidqa said, “When the blessed Holy One took snow from beneath His throne of glory and threw it into the waters, He used the hollow of His hand as a measure.” [p. 42] **[ZḤ 76b]** ^zh-76b
+
+Rabbi Yudai said, “It was the measure of a span that He took, casting it into the waters, as is written: [*weighed*] *in a measure the dust of the earth* ([[Isaiah 40#^40-12|Isaiah 40:12]]); and also: *For to the snow He says, ‘Be earth!’* ([[Job 37#^37-6|Job 37:6]]).”[^41]
+
+Beneath the waters, a single place congealed first in the midst of the depth, and from that place formed a single stone, plunged into the midst. [76b] That spot is the [center] point of the world, and from there the whole world spread out in all directions. Rabbi Ḥidqa said, “Similar to the creation of the human being.”[^42]
+
+When land solidified beneath the water, what is written in Scripture? *Let the waters under heaven be gathered to one place and let the dry land be seen!* ([[Torah 01 - Bereshit#^1-9|Genesis 1:9]]). When the waters saw the dry land, they rose, stacking up to submerge it as before, until the blessed Holy One castigated them and they fled, as is written: *From your rebuke they fled* ([[Psalms 104#^104-7|Psalms 104:7]]).[^43]
+
+And yet, even though they fled, they did not subside. What is the reason? The explanation is that they had covered the land at the outset, even though now they were fleeing from it. What did the blessed Holy One do? He took something like a potsherd and engraved upon it His name of seventy-two names, casting it into the waters. At once, they stood still, subsiding.[^44] [p. 43]
+
+Where did they abate? At Zion. This can be inferred from Scripture: *From Zion, perfection of beauty* ([[Psalms 050#^50-2|Psalms 50:2]])—name of the blessed Holy One. Thus, when the land quakes, it quakes from only this place, focal point of the world.[^45] [p. 44]
+
+Rabbi Pedat says: “One who swears truthfully with the name of the blessed Holy One—this clod upon which His name is sealed soars joyously upward and abides; moreover, the world abides. One who swears falsely—that seal rises, vanishing, seeing that it is in vain. Then the world trembles, intent on reverting to chaos. For the world endures only on account of His name, sealed with truth. Of this is written: תשא‎ לא (*Lo tissa*), *You shall not raise, the name of YHVH* לשוא (*la-shav*), *falsely* (Exodus 20:7).”[^46]
+
+Rabbi Ḥizkiyah son of Rabbi Yehudah says: “The place of the entire world is a single point. Similarly, *Blessed be the glory of YHVH from His place* ([[Ezekiel 03#^3-12|Ezekiel 3:12]])—from *His place* He is blessed. And, where is *His place*? It is said: It is one point upon which everything stands, and the Glory is blessed only from *His place*.”[^47]
+
+What is the meaning of *and* [*makes*] *her pillars tremble* ([[Job 09#^9-6|Job 9:6]])? Rabbi Peraḥiah says: “These are supporting columns—endurance of the world depends on them. How many are they? Seven, as is written: *She has hewn her seven pillars* ([[Proverbs 09#^9-1|Proverbs 9:1]]). The foundation of these pillars is a single Righteous One, as is written: *The Righteous One is the foundation of the world* (ibid. 10:25). It is not written *pillar* but rather *foundation*—foundation upon which everything rests.[^48] [p. 45]
+
+“Corresponding to it are seven heavens and seven stars running to and fro. Seven lands, seven days, seven depths—all dependent upon this utterance, as is written: *Who builds His chambers in the heavens, and His vault He founds upon the earth; who summons the waters of the sea and pours them out upon the face of the earth—YHVH is His name* ([[Amos 9#^9-6|Amos 9:6]]). *Who builds His chambers in the heavens*—seven *sefirot*, great chambers, columns engraved with His great name, all suspended from a single utterance—these are the supernal heavens.[^49]
+
+“Seven holy lands couple with them with no separation, as is written: *There was evening, there was morning: one day* ([[Torah 01 - Bereshit#^1-5|Genesis 1:5]]), *second day* (ibid., 8), *third day* (ibid., 13), *fourth day* (ibid., 19), *fifth day* (ibid., 23), *the sixth day* (ibid., 31). Until the seventh day, as is written: *Six days YHVH made* ([[Torah 17 - Yitro#^20-11|Exodus 20:11]]).[^50] [p. 46]
+
+“Corresponding to them—seven engraved columns, suspended from the heavens. These are the twelve tribes, dangling from the attribute of Jacob, who is called שמים (*shamayim*), Heavens. This is as is written: *Oh*, תשמע (*tishma*), *hear, in* שמים (*shamayim*), *the heavens, Your dwelling place* (1 Kings 8:39); and as is written: שמע (*Shema*), *Hear, O Israel* (Deuteronomy 6:4).”[^51]
+
+Rabbi Reḥumai says, “The seven celestial ones constitute the name of the blessed Holy One. *And His vault He founds upon the earth* ([[Amos 9#^9-6|Amos 9:6]]). What is ואגודתו (*va-aguddato*), *and His vault*? These are the seven chambers below them that stand upon the world, governing it. *Upon the earth*—Lower Earth. *He founds*—Upper Earth, called *Binah*, suspended from *Ḥokhmah*. What is it? תבל (*Tevel*), as is said *He established* תבל (*tevel*), *the world, with* חכמתו (*Ḥokhmato*), *His Wisdom* ([[Jeremiah 10#^10-12|Jeremiah 10:12]]).[^52]
+
+“*Who summons the waters of the sea* ([[Amos 9#^9-6|Amos 9:6]])—one sea, but they are seven!”[^53]
+
+Rabbi Kruspedai asked, “Is there not but one sea in the world?”[^54] [p. 47] **[ZḤ 76c]** ^zh-76c
+
+Rabbi Reḥumai explained: [76c] “It is also written *seas*, as Scripture says: *The gathering of waters He called seas* ([[Torah 01 - Bereshit#^1-10|Genesis 1:10]]). All of them flowing into the Great Sea. They are seven, all converging into it, one below the other, until the very depth. Ultimately, the Great Sea is seven, one upon the other, all suspended from a single utterance.”[^55]
+
+Rabbi Simlai said, “When does the world quake? When the blessed Holy One casts a glance, gazing upon it, as is written: *YHVH looks down from heaven upon humankind to see*… ([[Psalms 014#^14-2|Psalms 14:2]]).”[^56]
+
+Rabbi Nehorai and Rabbi Yitsḥak arose at day’s first light to set out on the way. Before departing, Rabbi Nehorai cast his eyes upward and, seeing the morning stars, perceived that they were quivering. He said to Rabbi Yitsḥak, “Look at how those stars shudder, in awe of their Master! Soon will be the time for them to sing, now that the sons of God preside over them.[^57]
+
+“When the other troops have concluded their night-time praise, the sons of God blow a blast, and all the legions who rule by night withdraw to their stations. Then—stars who rule by day, trembling fearfully in the morning, their song soaring. Now their time draws near to give homage to their Master, at this very moment, when they hear the תרועה (*teru’ah*), blast, as is written: *When the morning stars sang together, and all the sons of God* יריעו (*yari’u*), *shouted for joy* (Job 38:7).”[^58]
+
+They set out, proceeding on their way as daylight broke. When the sun came forth, visible to all, Rabbi Yitsḥak said to Rabbi Nehorai, “I was stunned, looking at the sun! When it first emerges it appears red, then later reverts to white! Why?”[^59] [p. 48]
+
+“In fact, I remember a teaching that Rabbi Yose son of Shalom said in the name of Rabbi Yitsḥak son of Yehudah: ‘When the sun emerges, it smashes through, like a mighty hero bursting through the vault’s thirteen window-panes. Among all the celestial bodies and constellations, none is called “mighty” like the sun.’
+
+“What acts of might does it perform? When the day comes to a close and evening arrives, all apertures and windows of the vault are shut. When day breaks and the sun bursts forth, it is crowned and engraved with letters of the mystery of the Holy Name. Thus forcefully empowered, it struck all those vaults, smashing through all those windows—igniting its flames—bursting them open and breaking through.[^60]
+
+“From where do we know that it is called גבור (*gibbor*), mighty? It is as is written: *Rejoicing like a* גבור (*gibbor*), *mighty one, to run his course* (Psalms 19:6). And it is written: *like the sun rising* בגבורתו (*bi-gvurato*), *in its might* (Judges 5:31). Like a mighty one triumphant in battle is ruddy, and when he rests, he regains his former color, so too is the case with the sun: when it emerges, its flames ignite—red on account of its forcefulness. Afterward, it returns to its original color.”[^61] [p. 49] They ambled on. Upon arriving at a field, Rabbi Isaac asked, “Could the master recite sublime teachings?”[^62]
+
+He opened, saying: “*Hear, O Israel! YHVH our God, YHVH is one* ([[Torah 45 - Vaetchanan#^6-4|Deuteronomy 6:4]]). Regarding this verse: it made sense when the sons declared it to Jacob, or when Moses said it to Israel; but now, when everyone recites *Hear, O Israel*, to which Israel is it proclaimed?[^63]
+
+“Actually, it has been taught that our forefather Jacob did not die, and the blessed Holy One sealed him upon His throne of glory, to be a constant witness that his children unify His name twice daily. When they unify the name of the blessed Holy One, they proclaim: ‘*Hear, O Israel*—testify on our behalf that we are unifying the name of the blessed Holy One fittingly.’[^64] [p. 50] **[ZḤ 76d]** ^zh-76d
+
+“Then Jacob is taken aloft upon four wings spread out to the four directions of the world, and he is brought up before the supernal Holy One, who blesses him with seven blessings. He opens, saying, ‘Happy the father who has sired such offspring in the world! Happy those children who crown their father in this way!’ At that moment all heavenly troops proclaim: ‘Blessed be the name of His glorious kingdom forever and ever!’[^65]
+
+“Then Jacob is crowned with thirteen rivers of pure balsam, abiding enduringly—like a city encircled by a שור (*shur*), wall—over his sons, before the blessed Holy One, never abandoning them to the rule of hard judgment. None of the nations of the world [76d] will be able to annihilate them, as is written: *Fear not, My servant Jacob;* [ישורון (*Yeshurun*), *Jeshurun, whom I have chosen*] (Isaiah 44:2).”[^66] [p. 51]
+
+Rabbi opened, saying: “Like the pattern of twelve tribes below—sons of Jacob—so there is transcendent Jacob, in the heavens, with twelve transcendent tribes. Just as Israel unifies the name of the blessed Holy One below, so do holy angels above unify it. Everything modeled after the supernal array.”[^67]
+
+Rabbi opened, saying: “*Thus says YHVH to the house of Jacob, who redeemed Abraham* ([[Isaiah 29#^29-22|Isaiah 29:22]]). Did Jacob redeem Abraham? Jacob had not even come into the world! Ah, but come and see: When Abraham was cast into the Chaldean furnace, the blessed Holy One gathered His retinue and declared, ‘Spare Abraham on account of his rank.’ They replied to the blessed Holy One, ‘But Ishmael will issue from him!’[^68]
+
+“The blessed Holy One said, ‘But Isaac will issue from him.’[^69]
+
+“They replied, ‘But Esau will issue from him!’[^70] [p. 52]
+
+“The blessed Holy One said, ‘Well, Jacob will issue from him.’
+
+“They said, ‘Surely for Jacob’s merit he will be saved.’ Of this is written [*Jacob*,] *who redeemed Abraham*—in his merit Abraham was redeemed.”[^71]
+
+Rabbi said, “When they bound Hananiah, Mishael, and Azariah—casting them into the blazing, fiery furnace—Hananiah said, ‘*YHVH is with me, I will not fear. What can a man do to me*? ([[Psalms 118#^118-6|Psalms 118:6]]).’ Mishael said, ‘*Do not fear, My servant Jacob …; do not be dismayed, O Israel—for I am with you, declares YHVH* ([[Jeremiah 30#^30-10|Jeremiah 30:10–11]]).’ Azariah said, ‘*Hear, O Israel*… ([[Torah 45 - Vaetchanan#^6-4|Deuteronomy 6:4]]).’[^72]
+
+“The blessed Holy One said, ‘*This one will say, “I am YHVH’s”* ([[Isaiah 44#^44-5|Isaiah 44:5]]). The one who said *YHVH is with me, I will not fear*—this is Hananiah. *Another will call himself by the name of Jacob* (ibid.)—this is Mishael, who said *Do not fear, My servant Jacob*. [*Another shall*] *adopt the name of Israel* (ibid.)—this is Azariah, who said *Hear, O Israel.’ No longer will Jacob be ashamed, no longer his face grow pale* ([[Isaiah 29#^29-22|Isaiah 29:22]]).[^73]
+
+“Why wasn’t Daniel with them? The truth is that he was accustomed to be called Belteshazzar, after the name of [Nebuchadnezzar’s] god, as is said: *Belteshazzar* ([[Daniel 04#^4-5|Daniel 4:5]])—‘Great sage.’ When the blessed Holy One instructed regarding idols: *You shall burn them with fire* ([[Torah 45 - Vaetchanan#^7-5|Deuteronomy 7:5]]), he fled, and so was not in their company.[^74] [p. 53]
+
+“What inspired Hananiah, Mishael, and Azariah to allow themselves to be cast into the fire? Well, they said that the frogs leapt into the flames, polluting the Egyptians at the blessed Holy One’s command, all the more so [should we do] likewise for the sake of our Master’s glory.”[^75]
+
+Rabbi Nehorai said, “Let us diverge from the path and ascend the mountain; we’ll ply Torah and forsake sleep.”[^76]
+
+While they were sitting, delving together in Torah, they heard a voice, saying: “Exalted ones, arise! Slumbering ones below—stupor in their sockets—wake up! Beware, the blessed Holy One is going to shake up the world! The supporting [p. 54] columns upon which the world stands are trembling! Sound of weeping of a fawn, crying over a lion—a scene everlastingly impressed upon the holy throne.”[^77]
+
+Rabbi Nehorai said to Rabbi Yitsḥak, “Did you hear something?”
+
+He said, “I did; and of this I say *I heard and my bowels quaked;* [לקול (*le-qol*), *at the sound, my lips quivered*] (Habakkuk 3:16).”
+
+Rabbi Nehorai said to Rabbi Yitsḥak, “Surely, the blessed Holy One seeks to judge His world; and before exercising judgment, this קלא (*qala*), voice, arouses—heralding ceaselessly to the world. Certainly, most noble ones are about to depart from the world. Now, everything was clear to me except the report of the sound of weeping of a fawn, crying over a lion—I don’t know what this means!”[^78]
+
+Rabbi Neḥemiah said, “At that moment they did not know, but in a few short days, it was revealed to the world. What was it? It was the weeping of Rabbi Yishma’el son of Elisha, the High Priest, crying over the head of Rabban Shim’on son of Gamliel. That wailing will not desist from the King’s throne until the blessed Holy One exacts vengeance upon the other nations.”[^79] [p. 55] **[ZḤ 77a]** ^zh-77a
+
+Rabbi Reḥumai said, “Come and see: When the blessed Holy One judges the world, whom [77a] does He judge first? He judges the most eminent of the generation first—and then executes judgment upon the world. From where do we know this? From this verse: השופטים‎ שפוט‎ בימי‎ ויהי (*Va-yhi bi-ymei shefot ha-shofetim*), *In the days of the judging of the judges, there was a famine in the land* (Ruth 1:1).”[^80]
+
+Rabbi Yose son of Yehudah said, “[We learn it] from here: *to enact justice upon His servant and justice upon His people Israel* ([[I Kings 08#^8-59|1 Kings 8:59]]). *Justice upon His servant* first, and afterward *justice upon His people Israel*.”
+
+> *And* איש (*ish*), *a man, of Bethlehem in Judah went* (Ruth 1:1).[^81]
+
+Rabbi Yehudah and the rabbis said, “When judgment comes to town, one should disappear, since once permission has been granted to the Destroying Angel, he does not defer to anyone. And a man who has infringed upon him—he has permission to do him harm. When Elimelech saw that judgment had come into the [p. 56] world, he absconded immediately to evade judgment. Nonetheless, he was unable to flee from it.”[^82]
+
+Rabbi Yehoshu’a asked, “What is written of the Shunammite? *She replied, ‘Among my own people I dwell’* ([[II Kings 04#^4-13|2 Kings 4:13]]). From here we learn that one should blend in among the populace, and avoid being singled out.[^83]
+
+“What is written at the beginning? *And a man went* ([[Ruth 1#^1-1|Ruth 1:1]])—anonymously—for he wanted to hide, and veil his identity so that none would recognize him. Who identified him? Attribute of Judgment who exclaimed, ‘*The man’s name was Elimelech* (ibid., 2), a man well-known, too prominent to be concealed—unseemly to hide! Is this not Elimelech, leader of the community? Is this not Elimelech, who averted his eyes from his people’s deeds?’”[^84] [p. 57]
+
+Rabbi Peraḥiah said, “At that time, the blessed Holy One was judging the world and the heavenly court was in session. The blessed Holy One sheltered him, saying: ‘*And a man went*’—anonymously. Attribute of Judgment stood up and identified him: ‘*The man’s name was Elimelech*!’ Instantly, a decree was issued against him and his sons. What is written? *And Elimelech died*… [*and then those two—Mahlon and Chilion—also died*] (ibid., 3, 5).”[^85] [p. 58]
+
+Rabbi Yehudah said, “What did Elimelech perceive? Well, since he saw that the generation disparaged their leaders, he said to himself, ‘Surely I should forsake this place, and not get seized in their midst. But Elimelech was the most eminent of the generation, and was in a position to chastise them, yet he left, fleeing. Consequently, he was identified by name, and he was punished.”[^86]
+
+*It came to pass in the days when the judges were judged*… (ibid., 1). Rabbi Yehoshu’a said, “בימי‎ ויהי (*va-yhi bi-ymei*), *It came to pass in the days*, is always an expression of sorrow. Elimelech was comparable to a king. Once he assessed the situation, he slipped away from Israel, sojourning among the nations, calculating that he would not be judged among them. Attribute of Judgment arose, cited him, and he was seized.”[^87]
+
+> *In the days when the judges judged* ([[Ruth 1#^1-1|Ruth 1:1]]).
+
+Rabbi Ḥilkiyah son of Eli’ezer opened the verse *From afar, YHVH appeared to me*… ([[Jeremiah 31#^31-3|Jeremiah 31:3]]). “When the blessed Holy One speaks with the prophets, He is revealed to them only from afar. Consequently, they see the likeness of things—like a person standing at a [p. 59] distance. Moses is the exception. As Rabbi El’azar said in the name of Rabbi Ḥanina: ‘All prophets prophesied only through an *ispaqlarya* that does not shine; Moses, through an *ispaqlarya* that shines. Other prophets, from a distance; Moses, from close up, as is said: *Not so my servant Moses;* [*in all My house he is trusted*] ([[Torah 36 - Beha'alotcha#^12-7|Numbers 12:7]]), trusted in the house of the King—intimate of the King.’[^88] [p. 60] **[ZḤ 77b]** ^zh-77b
+
+“Now, if you say that all of the prophets prophesied from afar, that implies that love of the Omnipresent does not reach them! And yet, it is written: *With eternal love I have loved you, therefore I have drawn you with grace* ([[Jeremiah 31#^31-3|Jeremiah 31:3]]).”[^89]
+
+Rabbi said, “There is distant drawn near, and near distanced. Distant drawn near, as is written: *From afar She brings her food* ([[Proverbs 31#^31-14|Proverbs 31:14]]). Near distanced, as is written: *From afar YHVH appeared to me* ([[Jeremiah 31#^31-3|Jeremiah 31:3]]). The latter is close—for prophets. The former is distant—for kingship.” Rabbi El’azar says the opposite: “[The latter is] close—for kingship. [The former is] distant—from prophets, since prophets see heavenly images in a shape akin to a body.” Rabbi [77b] Ḥilkiyah said, “When the prophets had visions, it was through a polished glass, as is known.”[^90] [p. 61]
+
+> *It came to pass in the days* ([[Ruth 1#^1-1|Ruth 1:1]]).
+
+Rabbi Bun lived all his days in Caesarea, until the day he noticed that the people had become corrupt—poor people passing by with no one paying attention. He said to himself, “Surely judgment will show up here.” He arose and moved on.[^91]
+
+One day, feeling low, he stopped in Kfar Sikhnin. While sleeping, he heard the voice of someone learning—studying in the singsong of Torah—saying, “*If a bird’s nest happens to be before you on the way, in any tree or on the ground—fledglings or eggs—and the mother crouching over the fledglings or over the eggs, you shall not take the mother together with the children* ([[Torah 49 - Ki Teitzei#^22-6|Deuteronomy 22:6]]).[^92]
+
+“*Nest*—alluding to *Teshuvah* (Repentance).[^93]
+
+“*On the way*—alluding to Rachel, as is said: *The way of the righteous is like gleaming light, shining ever brighter until full day* ([[Proverbs 04#^4-18|Proverbs 4:18]]). *The righteous*—two sons, Joseph and Benjamin—and She is called Moon, traveling all night, shining for them. *Until full day*—this is Jacob.[^94] [p. 62]
+
+“עץ‎ בכל (*be-khol ets*), *In all trees*. כל (*Kol*), *All*—alluding to *Tsaddiq Ḥei ha-olamim* (Righteous One, Life of the Worlds).[^95]
+
+“*Ets, Tree—Shekhinah*, as is said: *A tree of life is she to those who grasp her* ([[Proverbs 03#^3-18|Proverbs 3:18]]).
+
+“*On the ground*—Lower Earth.
+
+“*Fledglings*—twelve supernal tribes.[^96]
+
+“*Or eggs*—Israel below, like a garment for the body.[^97]
+
+“*And the mother crouching over the fledglings.… Surely send off the mother* ([[Torah 49 - Ki Teitzei#^22-6|Deuteronomy 22:6–7]]), as is said: *For your crimes, your mother was sent away* ([[Isaiah 50#^50-1|Isaiah 50:1]]).[^98] [p. 63]
+
+“*And the offspring you may take for yourself* ([[Torah 49 - Ki Teitzei#^22-7|Deuteronomy 22:7]]).” Rabbi Bun inclined his ears, listening to the voice as it exclaimed: “This is a sign of compassion? Whoever says this has spoken folly! Someone with pity would have left the mother and children, and continued on his way![^99]
+
+“As for the Mother banished from Her nest, what does She say? Woe, that I have destroyed my house, set my palace ablaze, exiled my children among the nations! For this the blessed Holy One has compassion, for this alone is the Merciful One’s concern.[^100]
+
+“On account of this, *Shekhinah* wails over Her children. This is evident from Scripture: תשלח‎ שלח (*shalle’aḥ teshallaḥ*) *send, you shall send*—two sendings! Implying that if she returns to her fledglings out of love for her children, *send*—even multiple times, until she finally goes. Then, he can tear away the fledglings, and snatch the offspring, hidden as a covey, to claim his reward. This proves that the Merciful One is concerned only with this.[^101] [p. 64]
+
+“והארכת (*Ve-ha’arakhta*), *And you will prolong, your days* (ibid.). שיאריך (*Sheya’arikh*), Prolonging, patience from six days called *banim* (*offspring*)—*YHVH, YHVH! A compassionate and gracious God*, אפים‎ ארך (*erekh appayim*), *long-suffering*… (Exodus 34:7).”[^102]
+
+Rabbi Ḥidqa said in the name of Rabbi Yose son of Qisma, citing Rabbi Shemu’el: “When the blessed Holy One created the world, He created it with three clusters—חכמה (*Ḥokhmah*), Wisdom, תבונה (*Tevunah*), Understanding, and דעת (*Da’at*), Knowledge. This is as is written: *YHVH by wisdom founded the earth; He established the heavens by understanding; by His knowledge the depths were burst* ([[Proverbs 03#^3-19|Proverbs 3:19–20]]).[^103] [p. 65] **[ZḤ 77c]** ^zh-77c
+
+“They are all clusters within man. Cluster of faith bursts out from them, spreading out into other creatures, each one bearing discernment in its own degree.[^104]
+
+“This bird—when she flies away from her nestlings, sent away from her offspring—shrieks as she goes forth, not knowing where her shrieking reaches. She wanders on, vowing self-immolation. But the blessed Holy One, of whom is written *His compassion is over all His creatures* ([[Psalms 145#^145-9|Psalms 145:9]])—even upon the tiniest gnat in the world—His compassion extends to all. The angel appointed over birds arouses the blessed Holy One, and the blessed Holy One is aroused toward His children.”[^105]
+
+Then the voice proceeded, saying: “*Like a sparrow wandering from her nest is a man wandering from his place* ([[Proverbs 27#^27-8|Proverbs 27:8]]). Then, He is awakened regarding all those roaming aimlessly from place to place—one locale to another—broken-hearted, energies depleted. Then His mercy is aroused toward all worlds, and He has compassion upon them, forgiving the debts of those wandering from their homes, extending pity upon them and upon the entire world.[^106]
+
+“The blessed Holy One said, ‘Let the bird dwell outside and she will arouse compassion upon the entire world.’ Who induces Him to be merciful toward the world, awakening compassion for them? That person who sends off the bird, causing her sorrow in two ways. Thus the blessed Holy One is aroused and filled with mercy [77c] upon all those in distress, and upon all those dislodged from their abodes. Consequently, what is written regarding this person’s reward? [p. 66]*So that it may go well with you, and you will prolong your days* ([[Torah 49 - Ki Teitzei#^22-7|Deuteronomy 22:7]]).”[^107]
+
+Rabbi Bun jumped to his feet in delight. He said, “Blessed is the Merciful One for enabling me to hear this voice! If I have come into the world just to hear this, it is enough for me!”[^108]
+
+The voice resumed again as before. It opened, saying: “*How many are Your works, O YHVH! All of them You made in wisdom*… ([[Psalms 104#^104-24|Psalms 104:24]]). The whole world comes about only through wisdom, and it pervades the human being entirely.
+
+“Other creatures—a tracing of wisdom, vestige from the human. Even though this holds for all creatures, none are as nimble imitating human actions as the bird. As a human builds a house to dwell in, so does a bird build a structure for habitation. As a bird provides nourishment for its offspring, so does a human provide food for his children. As a human treats illnesses [with herbs], so does a bird use herbs to treat illness. As a human is an artisan, fashioning boats for the sea, so does a bird take its offspring, training it, and floating with it on the sea. As a human praises and exalts the heavenly King, so does the bird chirp, praising the Master of All.[^109]
+
+“Thus, *so that* ייטב (*yiytav*), *it will benefit you* (Deuteronomy 22:7). It is not written אטיב (*eitiv*), *I will benefit you*, but rather ייטב (*yiytav*), *it will benefit you*—your dispatching of the bird arouses mercy upon the world, to benefit you.”[^110]
+
+Rabbi Bun got up and followed the voice, discovering that it came from Rabbi Yannai the Elder, one of the companions. He approached him, kissed him upon [p. 67] the head, and said, “As you have comforted me, so should the blessed Holy One comfort you.” They sat together as one.[^111]
+
+The Old Man opened, saying: “*In the days of the judging of the judges there was a famine in the land*… ([[Ruth 1#^1-1|Ruth 1:1]]). When the blessed Holy One judges the world, whom does He judge first? Those who judge the world. They judge the world—and who judges them? The blessed Holy One. It is because of corruption of justice that famine comes into the world.[^112]
+
+“In every era, famine always comes on account of the transgressions of the people’s leaders. This is like the teaching of Rabbi Yudai: ‘*Much food from the furrows of the* ראשים (*rashim*), *leaders, and some are swept away without justice* ([[Proverbs 13#^13-23|Proverbs 13:23]]). When there is sufficient food in the world, *furrows of the* ראשים (*rashim*), *poor*, are sown and eaten to satiety. When there is no food in the world, *some are swept away without justice*.’ There is one who abides in tranquility and is swept away without justice. For what crime? For the crime of corruption of justice and fairness—for perverting them.[^113]
+
+“You might infer that when the chiefs transgress *without justice*—for not establishing justice in the world—the blessed Holy One will kill the poor on account of them, but this is not so! The truth is that the poor are vessels of the blessed Holy One, they are His intimates. When famine comes to the world, [p. 68] they cry out to Him, and the blessed Holy One hears them. He investigates the world’s condition and exacts retribution from those who foisted this sorrow upon the destitute. Then they are *swept* out of the world before their time. This is as is written: *When he cries, cries out to Me… I will listen, for I am compassionate* ([[Torah 18 - Mishpatim#^22-22|Exodus 22:22]], [[Torah 18 - Mishpatim#^22-26|26]]); and it is written: *My wrath will flare up, and I will kill you by the sword*… (ibid., 23).[^114]
+
+“Actually, at that very time, *some are swept away*—plucked up from the world before their time. *For lack of justice*—because they did not bring justice to light; because of his supplication; and because they corrupted the rule of law. This is as was taught by Rabbi Yudan: ‘Any judge who is not exacting in judgment will be given exacting judgment from above, and he will be removed from the world before his time. This is as is written: *Some are swept away without justice*.’
+
+“There is one who renders judgment according to the letter of the law and is rewarded for it by the blessed Holy One. Another renders judgment according to the letter of the law and is seized; for example, one who calculates casuistically to benefit the villain. This is as is taught in a *baraita*: ‘A court may administer flogging and penalties in order to make a fence for the Torah, or because the times call for it.’ If the judge recuses himself to avoid punishing him, or examines the case punctiliously to find a loophole to exculpate him from true justice—and that would have been the actual decision—when the blessed Holy One judges the world, that judge will be seized on account of this case and will be expelled from the world before his time. And if this does not occur, of this one Scripture says *He has no offspring or progeny among his people* ([[Job 18#^18-19|Job 18:19]]). When he himself is not snatched away, his progeny will be seized.[^115]
+
+“There is also one who does not render judgment according to the letter of the law and receives reward. As with Abba, who saw a man fraternizing with a married woman—hugging and kissing her. He hauled them off to the flogging station and they were killed. Not that they were subject to the death penalty, [p. 69] **[ZḤ 77d]** but in order to erect a fence around the Torah. This is done so that a judge should not say to himself: ‘I’ll exculpate them according to the Torah’s law, and that will fulfill my obligation.”[^116] ^zh-77d
+
+“In fact, a judge who does not erect a fence for the Torah has no fence for himself in this world or in the world to come. His fence: *offspring or progeny* (ibid.), *ruler or helper* ([[Torah 53 - Ha'Azinu#^32-36|Deuteronomy 32:36]])—in this world. [77d] In the world to come, he is stripped of his good deeds—one’s hedge for the world to come. This is like the teaching of Rabbi Nuri: ‘Erect a fence for the Torah, to prolong your life in this world and in the world to come.’”[^117] [p. 70]
+
+> *And a man went* ([[Ruth 1#^1-1|Ruth 1:1]]).
+
+“Wherever it says איש (*ish*), *a man*, it always signifies a righteous person, great in his generation, able to stand up for himself and for others. Similarly, in a pejorative sense: איש (*ish*), *a man, skilled in hunting*, איש (*ish*), *a man, of the field* ([[Torah 06 - Toldot#^25-27|Genesis 25:27]])—a wicked man, prodigious in villainy, a murderer who crushes people without trepidation.[^118]
+
+“A righteous man, great in his generation, able to stand up for himself and for others—but when the famine came, he fled at once. *From Bethlehem in Judah* (ibid.)—from the place of the Great Sanhedrin, fount of Torah, as is said: *Who will give me water to drink from the cistern that is by the gate of Bethlehem*? ([[II Samuel 23#^23-15|2 Samuel 23:15]]).[^119]
+
+“This one uprooted himself from the flowing Torah of Bethlehem in Judah, *to sojourn in the fields of Moab*—for this reason they were punished. But you, Rabbi, have exiled yourself to this place where the companions cause flowing Torah to gush.”[^120]
+
+[Rabbi Bun] replied, “Blessed is the Merciful One who sent me here to hear your words.”[^121] [p. 71]
+
+Rabbi Bun set out one day on the path and encountered a child. He said to him, “Rabbi, should I accompany you on your way and serve you on this journey?”
+
+He replied, “Come.” He went behind him.
+
+While traveling, he happened upon Rabbi Ḥiyya son of Abba and Rabbi Yehudah son of Rabbi Yose. They said to him, “You are by yourself, with no one goading behind you.”[^122]
+
+He answered, “There is a child following me.”
+
+Rabbi Ḥiyya said, “You have incited harm upon yourself, as you have no one with whom to engage in words of Torah!”[^123]
+
+They sat down in a field under a tree.[^124] [p. 72]
+
+Rabbi Ḥiyya opened, saying: “*The way of the righteous is like gleaming light, shining ever brighter until full day* ([[Proverbs 04#^4-18|Proverbs 4:18]]). One who sets out on a journey must have company with whom to share words of Torah—this is the practice of the righteous.[^125]
+
+“ואור‎ הולך (*Holekh va-or*), *He walks with light—he walks* accompanied by words of Torah.[^126]
+
+“היום‎ נכון‎ עד (*Ad nekhon ha-yom*), *Until the fullness of day*—until *Shekhinah* is arrayed together with him, not budging from his side. This is as we have learned: ‘Wherever there are words of Torah, *Shekhinah* can be found, as is said: *In every place that I cause my name to be invoked*… (Exodus 20:21).”’[^127]
+
+Rabbi Yehudah opened, saying: “*It will be healing for your flesh* [*and a balm to your bones*] ([[Proverbs 03#^3-8|Proverbs 3:8]]). Torah is medicinal for a person—body and bones—in this world and in the world that is coming, as Rabbi Nehorai taught in the name of Rabbi Neḥemiah: ‘What is a daily tonic for people in this world? Recital of the *Shema* as required.’[^128] [p. 73]
+
+“Rabbi Nehorai said further: The recital of *Shema* contains 248 words corresponding to 248 limbs in a man’s body. One who recites *Shema* as required—each and every one of his limbs takes a word for itself, and is healed by it. This is the meaning of *It will be healing for your flesh*.”[^129]
+
+Meanwhile, the child arrived, wearied from the journey, and he sat before them. He heard these teachings and rose to his feet, saying: “But in the *Shema*, there are only 245 words!”[^130]
+
+Rabbi Ḥiyya replied, “Sit down, my son, sit.” He continued, “My son, have you heard something about this?”
+
+He said to him, “This I have learned from my father: the *Shema* contains 245 words, three words short of the number of limbs in a man’s body. How is this resolved? The rabbis established that the prayer leader should repeat three words. What are they? ‘*I am YHVH your God*,’ completing the 248 words for [p. 74] the congregation, and so that the interruption before the word ‘truth’ is no more than three, and no less than three.”[^131] [p. 75] **[ZḤ 78a]** ^zh-78a
+
+In the meantime, Rabbi Yehudah son of Rabbi Pinḥas came and sat among them. He said to them, “What topic are you discussing?”
+
+They said to him, “The words of *Shema*; and here is what this child said…”
+
+He replied, “Certainly so! And thus said Rabbi Yoḥanan son of Nuri in the name of Rabbi Yose son of Durmaskit, citing Rabbi Akiva: ‘Early pious ones established the recital of *Shema* to correspond to the Ten Commandments, as well as to the number of limbs in a person’s body. Since three were lacking from the correspondence to human limbs, they instituted that the prayer leader should repeat [the last words], completing them. What are they? ‘*YHVH your God* is truth.’”[^132]
+
+“In the statutory prayer, they instituted three introductory blessings and three [78a] closing ones. In the recital of the *Shema*: three names at the beginning, *YHVH Eloheinu YHVH*, and three names at the end, *YHVH eloheikhem emet* (*YHVH your God* is truth). Whoever recites the *Shema* in this fashion, as is well known, will not suffer harm on that day.[^133]
+
+“But, whoever recites the *Shema* without the congregation does not perfect his limbs, because he is lacking the three words that the prayer leader repeats. What is his remedy? He should contemplate the fifteen *vavs* of ויציב‎ אמת (*Emet ve-yatsiv*), ‘True and firm.’”[^134] [p. 76] **[ZḤ 48a]** ^zh-48a
+
+“Nonetheless, to one following this practice Father assigned the verse *A crooked thing cannot be made straight* [*nor can the lack be counted*]… ([[Ecclesiastes 01#^1-15|Ecclesiastes 1:15]]). Those three words of *Shema* that the prayer leader repeats—they cannot be counted toward the sum of 248, as is the case for the congregation.”[^135]
+
+He said to the child, “Expound your verse!”[^136]
+
+[48a][^137] The child opened, saying, “*My people! What have I done to you? How have I wearied you? Witness me!* ([[Micah 6#^6-3|Micah 6:3]]). The blessed Holy One, out of His [p. 77] affection for Israel, called them *My people*. לך‎ עשיתי‎ מה (*Meh asiti lekha*), *What have I done to you*?—לך‎ עשיתי‎ למה (*lammah asiti lekha*), why did I make you? Simply, for you to go to synagogues and study halls, to testify that I am One, as is written: *YHVH is One* ([[Torah 45 - Vaetchanan#^6-4|Deuteronomy 6:4]]).[^138]
+
+“Attest that I am One—rising upon the Name of Forty-Two Words—in the paragraph of *Shema* that spans *You shall love* (ibid., 5) to *It shall be* (ibid. 11:13), establishing Me as One over you. This name follows the pattern of the Name of Forty-Two Names.[^139] [p. 78]
+
+“So too with the Name of Seventy-Two Words in the paragraph of *Shema* that begins with *It shall be* and ends with *and you shall set* (ibid. 11:18). Similarly with the Name of Fifty Words—like the number of gates of understanding. As well as with the Name of Seventy-Two, from *And* [*YHVH*] *spoke* ([[Torah 37 - Sh'lach#^15-37|Numbers 15:37]]).[^140]
+
+“These four paragraphs, along with the twelve upper words in the recital of *Shema*, comprise 248, just like the 248 limbs.[^141]
+
+“Whoever recites *Shema* fittingly—each and every word overflows onto each and every one of his limbs. And if a person does not recite *Shema* in the morning and evening, each and every one of his limbs will be permeated with evil spirit and diverse forms of execrable diseases that are found in the world.”[^142]
+
+The child continued, saying: “Three words are lacking from *Shema*—from the sum of 248 words—how shall they be completed?” He said, “I have heard from Father: with ‘*YHVH your God* ([[Torah 37 - Sh'lach#^15-41|Numbers 15:41]]) is truth.’”[^143] [p. 79] **[ZḤ 80d]** ^zh-80d
+
+The Old Man—the child’s father—opened, saying: “*There was a small city, and few people within it…. And there was found within it a poor, wise child*… ([[Ecclesiastes 09#^9-14|Ecclesiastes 9:14–15]]).[^144]
+
+“Come and see: *There was a small city*—this is Noah’s ark. *And few people within it*—alluding to his wife, his sons, their wives, animals, fowl, and livestock. *And a great king came against it and went round it*—alluding to the Evil Impulse. *And there was found within it a poor, wise man*—alluding to Noah. *Who saved it with his wisdom*.”[^145]
+
+[80c][^146] Rabbi Ḥisdai opened: “*There was a small city, and few people within it. A small city*. This is what Rabbi Yose said in the name of Rabbi Yitsḥak: this alludes to the body. *Few people within it*—alluding to the limbs. *A great king came against it*—alluding to the Evil Impulse. *And there was found within it a poor, wise man*—alluding to the Good Impulse, beggared—none heeded him. *Wise*—enlightening the one who gives him an ear, saving him from the punishment of Hell. *Who might have saved it with his wisdom*—alluding to the human soul, exhorting the avoidance of sin before one’s Creator. *But nobody thought of that poor man*—none remembered him, and humanity reverted to sinning with [80d] the Evil Impulse.”[^147] [p. 80]
+
+Rabbi Bun said, “That child who had been sitting with us—what did he say about this verse? Well, this is how he opened: ‘קטנה‎ עיר (*lr qetanah*), *A small city*—Assembly of Israel, called Holy City—Holy City of the blessed Holy One. This is as is said: *We have* קטנה‎ אחות (*aḥot qetanah*), *a small sister* ([[Song of Songs 8#^8-8|Song of Songs 8:8]]); and as is said: *the name of* הקטנה (*ha-qetanah*), *the small one, was Rachel* ([[Torah 07 - Vayetzei#^29-16|Genesis 29:16]]). *Few people within it*—alluding to the patriarchs.[^148]
+
+“Adam appeared—*Shekhinah* descended with him, dwelling within him. Adam sinned—She disappeared. Noah arrived and brought Her down to the world. The generation of the flood transgressed—She vanished from the world. Abraham came and conveyed Her down. Men of Sodom arrived—She evanesced.[^149] [p. 81]
+
+“*A great king came against it and went round it*—Ploni.[^150]
+
+“*There was found within it a poor, wise man*—this is Jacob. Destitute when the people of Israel sinned—divine overflow was withheld from him, and *Matronita* abandoned him.[^151]
+
+“*Who might have saved it with his wisdom*—this is Moses.[^152]
+
+“What is signified by *and went round it*? That Ploni plotted to induce Israel to sin while in exile, to prolong *Matronita*’s exile.[^153]
+
+“Another teaching: *A small city*—Zion. *Few people within it*—alluding to the six days of creation. *A great king came against it and went round it*—this alludes to Ploni. *And there was found within it a poor, wise man*—this is David, as is said: *poor and riding on an ass* ([[Zechariah 09#^9-9|Zechariah 9:9]]); and it is written: *The righteous one is lost* ([[Isaiah 57#^57-1|Isaiah 57:1]]). So as long as divine overflow does not descend upon Him, He *is lost*. Of Him is said *A river is dried up and parched* (ibid. 19:5).[^154] [p. 82]
+
+“*Ass*—this is Samael. *Wise man*—Solomon, of whom it is said *who saved it with his wisdom*, becoming its redeemer, called Messiah son of David. This is salvation from above.[^155]
+
+“Another teaching: *A small city*—Noah’s ark. *Few people within it*—Noah, Noah’s wife, and his sons. *A great king came against it*—the evil impulse, surrounding it. *And there was found within it a poor, wise man*—Noah. *Saved it with his wisdom*—alluding to Abraham, for it is on account of Abraham, destined to come, that the ark was saved, and Noah and his sons redeemed.[^156]
+
+“Another teaching. *A small city*—Jerusalem—at this time, small and desolate. *Few people within it*—few are the Jews in it. *A great king came against it and went round it*—a king from the descendants of Esau, of whom is said in Daniel *arms of iron* ([[Daniel 02#^2-33|Daniel 2:33]]). [*Like iron*] *that smashes, so will it crush and smash all these…. And in the time of those kings… it will crush all those kingdoms* (ibid., 40, 44). When he goes around Jerusalem, *a poor, wise man will be found there* ([[Ecclesiastes 09#^9-15|Ecclesiastes 9:15]])—the first Messiah. *He saved the city with his wisdom*—final Messiah.[^157] [p. 83] **[ZḤ 81a]** ^zh-81a
+
+“Another teaching regarding what we said about Solomon: He designed a lantern, beaming brilliance. *He saved the city with his wisdom*—by fashioning handles for Torah. This is as we have learned: Before Solomon appeared, Torah was like a cauldron without handles—whoever tried to touch it was seared. Once Solomon arrived and prepared handles for it, people were saved by his counsel. He instilled redemption into that city, as it were. How? *With his wisdom*.[^158]
+
+“All this through the configuration configured and efforts expended on Her behalf by that *poor man*—David. For there is no [81a] one who exerted himself on Her behalf as King David.[^159]
+
+“We have learned: It was fitting for King David to have existed on earth for a hundred years. For if only he would have lived for one hundred years, he would have fabricated a potent rectification for the lamp, so that it would never disappear—nor would the Temple have been destroyed. How much degradation for lack of those years![^160]
+
+“*But* לא‎ אדם (*Adam lo*), *Adam did not, remember that poor man* (ibid.)—הראשון‎ אדם (*Adam ha-rishon*), Primal Adam, who gave him only seventy of his own years. Adam did not remember him when Samael came riding on a camel *and [p. 84] encircled* (ibid., 14) him, inducing him to sin. He *did not remember that man* (ibid., 15)—impoverished by that sin, serpent encircling Eve, Samael encircling Adam.[^161]
+
+“Now, Samael did not have the power to turn Adam, until the serpent came and overturned Eve’s heart, and Eve persuaded him—both sinning. Of this he said, *The woman whom You gave to be beside me—she gave me of the tree, and I ate* ([[Torah 01 - Bereshit#^3-12|Genesis 3:12]]). Samael did not have permission to prevail over Adam’s heart until Eve came and induced him to eat—for this, woman was punished.[^162]
+
+“This is as is said: Wherever they were exiled, *Shekhinah* was exiled with them. Exiled to Babylon, *Shekhinah* was with them. Exiled to Edom, *Shekhinah* was with them. It did not say this of any of the male attributes.[^163] [p. 85]
+
+“Adam did give [David] of his own years—those seventy years—but he had not recalled him at first. For if only he had remembered him, he would have apportioned one hundred years, as fitting, to strengthen him in the world, and to enhance the configuration of the lamp. But he called him to mind for a mere seventy years, nothing more.[^164]
+
+“Thirty of those years he was in the wilderness; some with flocks, and some fleeing his father-in-law. At that time—*The poor man’s wisdom is despised and his words are not heeded* ([[Ecclesiastes 09#^9-16|Ecclesiastes 9:16]]) by King Saul. Thus, all that remained for him was forty-less-one, since one year he was eluding his own son. Consequently, fixing the lamp diminished until just one step remained between him and death.[^165]
+
+“All this because Adam forgot him at the beginning, not supplementing him with those thirty years below to complete the hundred. Further, thirty years—of those seventy years below—were defective since his wisdom is *despised, and his words are not heeded*.
+
+“This is why King Solomon praised himself so grandly, describing himself as *wise* ([[Ecclesiastes 09#^9-15|Ecclesiastes 9:15]]). ‘If it goes thus,’ he said, ‘as it did before, then *it is an extraordinary thing that falls to me* (ibid., 13)! It is extraordinary that I praise myself—I do so because nobody else will proclaim it!’”[^166]
+
+The companions came and kissed him. They assigned to him the verse *All your children will be taught by YHVH, and great will be the peace of your children* ([[Isaiah 54#^54-13|Isaiah 54:13]]).
+
+[78a] Rabbi Bun was goading one day after Rabbi Shim’on son of Yoḥai. As they mounted the rock at a mountain summit, they saw a certain bird that had [p. 86] strayed from its fledglings. Others came, tearing at them with their talons, and moved on. He said to him, assigning this verse to the scene: “*Like a sparrow wandering from her nest is a man wandering from his place* ([[Proverbs 27#^27-8|Proverbs 27:8]]).”[^167]
+
+As they continued on their journey, they saw a serpent kill a man and move on. Then they saw a lion ripping off an ear and eating it. Rabbi Shim’on said, “What satisfaction is there for this serpent—who strikes for no reason?”[^168]
+
+He opened, saying, “*In a whirlwind he crushes me and multiplies my wounds for naught* ([[Job 09#^9-17|Job 9:17]]). *In a* שערה (*se’arah*), *whirlwind*—alluding to Satan. For the nature of the serpent is to strike and kill without cause, gaining no satisfaction from it. *He crushes me*—here it is written ישופני (*yeshufeni*), *he crushes me*, and there it is written *he* ישופך (*yeshufkha*), *will crush your, head* ([[Torah 01 - Bereshit#^3-15|Genesis 3:15]])! Since *in a whirlwind he crushes me, he multiplies my wounds for naught*. For it is his nature to ravage without cause, to tear to shreds, for nothing.[^169]
+
+“If you say that he acts without sanction, behold it is written: סערה‎ רוח (*ruaḥ se’arah*), *whirlwind gale, fulfilling His word* (Psalms 148:8); and also: ‘*Does the snake bite without a whisper*? (Ecclesiastes 10:11)—a snake does not bite a person until it is whispered to from above.’” Rabbi Shim’on said further: “Sometimes a person is whispered about above, but he is unknown to the serpent—so he kills another. Happy is the one unknown to him, not inscribed before him![^170] [p. 87]
+
+“What is written regarding Elimelech? *The man’s name was Elimelech* ([[Ruth 1#^1-2|Ruth 1:2]]). Once inscribed before him, the prosecutor persecuted him to the point of execution, as is written: *And Elimelech died* (ibid., 3). Once [Satan was] permitted to begin with him, he was authorized regarding the sons—all of them according to the punishment rendered to a judge. For a judge should not say that he alone will be punished—indeed he, and his children, and his entire household will be seized on account of ‘a judge’s transgression.’[^171]
+
+“A judge is obligated to probe—zealously—the actions of his town, and should not say, ‘My job is to adjudicate between a man and his fellow, nothing more.’ In fact, all the deeds of his town rest upon his head; and if he blinkers his eyes from the town’s affairs, he will be snagged for their sins.[^172]
+
+“Elimelech could have arisen and defended his generation—he was a righteous man! When the blessed Holy One was aroused to execute judgment upon the world, He observed the leaders of the people and sought to shield Elimelech. At first, what was written? *And a man went* (ibid., 1), generically, without specifying who he was. At once the prosecutor jumped up, declaring: ‘*The man’s name is Elimelech* (ibid., 2), he is inscribed and well known—he and his entire household!’[^173]
+
+“From here we learn that there is no judge—in any generation—who is not recognized and identified above. And, when judgment is aroused upon the world, he is judged first.” [p. 88] **[ZḤ 78b]** ^zh-78b
+
+> *His two sons were named Mahlon and Chilion* ([[Ruth 1#^1-2|Ruth 1:2]]).[^174]
+
+Rabbi Pedat and Rabbi Peraḥiah said, “מחלון (*Maḥlon*), *Mahlon*—so called because the blessed Holy One מחל (*maḥal*), forgave, him after some time, since he בידו‎ מוחה (*moḥeh be-yado*), protested, to his father, swaying his judgment. כליון (*Khilion*), *Chilion*—so called because he was נכלה (*nikhleh*), wiped out, of existence.”[^175]
+
+Rabbi Yose son of Qisma said, “As with them, so with their wives. ערפה, *Orpah*—judged in accord with her name—stiff-necked, for she disdained a portion [78b] with Israel. This is as is said: *To me they have turned their* ערף (*oref*), *back, and not their face* ([[Jeremiah 02#^2-27|Jeremiah 2:27]])—for she turned her עורף (*oref*), back, on her mother-in-law.[^176]
+
+“רות (*Rut*), Ruth, on account of the name תור (*tor*), turtledove. Just as the latter is fit for the altar, so was Ruth fit to join the congregation. For the law had already been established: ‘An Ammonite ([[Torah 49 - Ki Teitzei#^23-4|Deuteronomy 23:4]]), but not an Ammonitess; a Moabite (ibid.), but not a Moabitess.’[^177] [p. 89]
+
+“רות (*Rut*), Ruth—forebear of a son who רוה (*rivvah*), satiated, the blessed Holy One with songs and praises.[^178]
+
+“Ruth, wife of Mahlon, came into the congregation. Mahlon, forgiven by the blessed Holy One, allowing him entry into Israel—that his name could be mentioned. Orpah, wife of Chilion—Chilion’s name was not remembered in Israel.[^179]
+
+“Corresponding to this: Naomi—נשמה (*neshamah*), holy soul. Elimelech—לנשמתא‎ נשמתא (*nishmeta le-nishmeta*), soul of soul. Mahlon—השכלית‎ רוח (*ruaḥ ha-sikhlit*), intellectual spirit. Ruth—השכלית‎ נפש (*nefesh ha-sikhlit*), intellectual soul. Chilion—הבהמיות‎ רוח (*ruaḥ ha-behemi’ut*), animal spirit.[^180]
+
+“Of this Solomon said *Who knows if* רוח (*ruaḥ*), *the spirit, of man ascends on high and* רוח (*ruaḥ*), *the spirit, of a beast descends into earth*? (Ecclesiastes 3:21). *Ruaḥ of man*—Mahlon. *Bestial ruaḥ*—Chilion, from the left side. *Bestial nefesh*—Orpah, stiff-necked, from the left side. Thus Chilion—his name was not remembered in Israel.”[^181]
+
+> *And they took for themselves Moabite women* ([[Ruth 1#^1-4|Ruth 1:4]]).[^182]
+
+Rabbi Reḥumai said, “They were the daughters of Eglon, King of Moab.” And the grounds for Eglon’s merit? Rabbi Reḥumai explained, “When Ehud came and said to him, *‘I have a message from Elohim for you,’* immediately *he rose from his seat* ([[Judges 03#^3-20|Judges 3:20]]). The blessed Holy One said to him, ‘You rose from [p. 90] your seat in My honor; by your life, you will be the forebear of one who will sit upon my throne!’ This is as is said: *Solomon sat upon the throne of YHVH* ([[I Chronicles 29#^29-23|1 Chronicles 29:23]]).”[^183]
+
+Rabbi Bun said, “If I had been there when the law of ‘*a Moabite* ([[Torah 49 - Ki Teitzei#^23-4|Deuteronomy 23:4]]), but not a Moabitess’ was instituted, I would have argued against it—and would have proposed ‘a Moabitess, but not a Moabite.’ Of whom was it written *and the people began to go whoring with the daughters of Moab. And they invited the people to the sacrifices for their gods…. ‘Look, these are the ones who led the Israelites by Balaam’s word… and there was a scourge against the community of YHVH’* ([[Torah 40 - Balak#^25-1|Numbers 25:1–2]], [[Torah 42 - Matot#^31-16|31:16]])? They caused all this—and yet the men are forbidden while the women are permitted!”[^184] [p. 91]
+
+But then immediately, he said, “I recant. Just as Moses and Eleazar accepted them, as is written: *but every young woman who has not known lying with a man, let live* (ibid. 31:18). On what basis? The daughters of Moab were under coercion in that incident. This is as Rabbi Ḥilqiyah taught in the name of Rabbi Asia son of Gurion: the men came, bringing them against their will; and whoever did not comply, they would kill. Ultimately, they were there en masse. Certainly, it is the men who should be forbidden and the women permitted![^185]
+
+“Further, *because they did not greet you with food and water… and because they hired* ([[Torah 49 - Ki Teitzei#^23-5|Deuteronomy 23:5]])—the men were at the heart of the matter.”[^186]
+
+Rabbi Ḥisdai said, “We have learned that the Wadi of Shittim boosts promiscuity in women, and yet you have said that they were there under duress! Further, Rabbi Oshaiah said, ‘What is the meaning of the verse *A spring shall issue from the House of YHVH and shall water Wadi of Shittim* ([[Joel 4#^4-18|Joel 4:18]])? It is nothing less than that at that time, the blessed Holy One is destined to heal the entire world; and because Wadi of Shittim increases lewdness, *A spring shall issue from the House of YHVH* to heal that wadi. If so, this demonstrates that the women came on their own for the debauchery.”[^187] [p. 92]
+
+Rabbi Menasia said, “Pity and peace! It is self-evident that they would not venture out in public voluntarily if their husbands and fathers were there. The fact is, the men loosed them, coerced them, at the urging of Balaam.”[^188]
+
+Rabbi Yose son of Qisma, “I would be astonished if this scroll came only to trace the lineage of David back to Ruth the Moabite, and nothing more! If so, what need have I for all this? Better to just write the lineage from Boaz’s marriage to Ruth; then it could say *This is the lineage of Peretz*… until *and Jesse engendered David* ([[Ruth 4#^4-18|Ruth 4:18]], [[Ruth 4#^4-22|22]]). But, actually, all of this is necessary because this righteous woman came to convert and to be enveloped beneath the wings of *Shekhinah*—teaching about her humility and modesty.”[^189]
+
+Rabbi El’azar son of Rabbi Yose said, “It comes to teach that the lineage of David is like *silver smelted in an earthen crucible* ([[Psalms 012#^12-7|Psalms 12:7]]). For the silver of Obed is clarified silver, smelted time and again.[^190]
+
+“If you say, ‘If so, why did they come from such mothers, with this kind of background?’ Well, the explanation is that it is silver purified of its dross, and that the lineage of David is refined from this side and that. This is as is written: *You shall love YHVH your God with all your heart*… ([[Torah 45 - Vaetchanan#^6-5|Deuteronomy 6:5]]), with [p. 93] **[ZḤ 78c]** both your impulses. With the good impulse and the evil impulse—everything as one, as necessary—and the lineage of David, necessarily so.”[^191] [78c] ^zh-78c
+
+Rabbi opened, saying, “Primal Adam—לנשמתא‎ נשמתא (*nishmeta le-nishmeta*), soul of soul. Eve—נשמתא (*nishmeta*), soul. Cain and Abel: Abel, from the same species as Adam and Eve—called spirit of holiness. Cain, spirit of the left, is called כלאים (*kil’ayim*), different kinds. An unnecessary עירבוביא (*irbuvya*), motley mixture; another side—not the species of Adam and Eve. Of this is written *Do not plow with an ox and a donkey together* ([[Torah 49 - Ki Teitzei#^22-10|Deuteronomy 22:10]]).[^192] [p. 94]
+
+“Further, do not insert the holy covenant in a different domain—*You shall have no other gods beside Me* ([[Torah 17 - Yitro#^20-3|Exodus 20:3]]).[^193]
+
+“*Adam*—patterned after heavenly paradigm. *Other gods*—donkey and ass, male and female. Thus, of one who inserts holy covenant in a different domain, it is written *They betrayed YHVH because they bore alien children* ([[Hosea 05#^5-7|Hosea 5:7]]). And the blessed Holy One is jealous only for this—the holy covenant.[^194] [p. 95]
+
+“The blessed Holy One created man with י (*yod*), ה (*he*), ו (*vav*), ה (*he*) within—His holy name, soul of soul—this is called *Adam*. Radiances shine through nine luminaries, suspended from י (*yod*). One light without division. Thus, body of man is called garment of *Adam*.[^195]
+
+“ה (*He*)—called soul. Coupling with י (*yod*), it spreads out to numerous radiances, and it is one. י (*Yod*) ה (*he*), with no separation. Of this is written *God created the human in His image; in the image of God He created him; male and female He created them…. and He called their name* אדם (*Adam*) ([[Torah 01 - Bereshit#^1-27|Genesis 1:27]]; [[Torah 01 - Bereshit#^5-2|5:2]]).[^196]
+
+“ו (*Vav*)—called spirit, and also called Son of יה (*yod he*). ה (*He*)—called נפשא (*nafsha*), soul, and also called Daughter. Father and Mother, Son and [p. 96] Daughter—great mystery of יוד (*yod vav dalet*), הא (*he alef*), ואו (*vav alef vav*), הא (*he alef*)—called *Adam*. His radiance, scattering to forty-five radiances—numerical value of אדם (*Adam*), forty-five. The name יוד (*yod*), הא (*he*), ואו (*vav*), הא (*he*)—*male and female He created them…. and He called their name* אדם (*Adam*).[^197]
+
+“Afterward, He created the body, as is written: *YHVH Elohim formed Adam, dust from the earth, and blew into his nostrils the breath of life* ([[Torah 01 - Bereshit#^2-7|Genesis 2:7]]). What is the difference between *Adam* and *Adam*? *YHVH* is called *Adam* and the body is called *Adam*—what’s the difference between this one and that one? The explanation is that where it is written *God created Adam in His image*—it signifies *YHVH*. Where it is not called *in His image*—it signifies the body.[^198]
+
+“After saying *YHVH Elohim* ייצר (*yiytser*), *formed, Adam*, עשאו (*asa’o*), He made him, as is written: *YHVH Elohim* יעש (*ya’as*), *made, coats of skin for Adam and his wife, and He clothed them* ([[Torah 01 - Bereshit#^3-21|Genesis 3:21]]). אור‎ כתנות (*Kotnot or*), *Coats of light*—after the supernal paradigm. After they sinned, עור‎ כתנות (*kotnot or*), *coats of skin*.[^199] [p. 97]
+
+“Of this is written *Everyone who is called by My name*, בראתיו (*berativ*), *whom I created, for My glory*, יצרתיו (*yetsartiv*), *whom I formed, and* עשיתיו‎ אף (*af asitiv*), *indeed, I have made him* ([[Isaiah 43#^43-7|Isaiah 43:7]]). בראתיו (*Berativ*), *Whom I created*—this is יוד (*yod*), הא (*he*), ואו (*vav*), הא (*he*). יצרתיו (*Yetsartiv*), *Whom I formed*—this signifies *coats of light*. עשיתיו‎ אף (*Af asitiv*), *Indeed, I have made him*—this signifies *coats of skin*, because אף (*af*), *anger*, caused this. To whom shall be ascribed this evil? Evil impulse, the serpent who provoked the decree of death upon Adam and Eve, and upon all humanity.[^200]
+
+“Just as there is a name of holiness, so is there a name of impurity that is repulsive. Of this: *You shall have no other gods beside Me* ([[Torah 17 - Yitro#^20-3|Exodus 20:3]]).[^201]
+
+“Whoever mars one of his limbs below, it is as if he has damaged one above. On account of this, sword comes to the world, and death comes to the world. Of this is written *and I will make your wives widows*… ([[Torah 18 - Mishpatim#^22-23|Exodus 22:23]]), pertaining to one who inserts holy covenant in a different domain. Of this: *a garment of different kinds, sha’atnez shall not be donned by you* ([[Torah 30 - Kedoshim#^19-19|Leviticus 19:19]]). Similarly, *Do not plow with an ox and a donkey together* ([[Torah 49 - Ki Teitzei#^22-10|Deuteronomy 22:10]]), and it says, *Cursed be he who lies with any beast* (ibid. 27:21). What is a beast? A Gentile woman, deriving from the other beast above, from impurity.[^202] [p. 98] **[ZḤ 78d]** ^zh-78d
+
+“Of this is said *See, I have set before you today life and good and death and evil* (ibid. 30:15). *Life and good*—this is *YHVH. Death and evil*—this is the name of Samael, soul of soul from the left side. [78d] נשמה (*Neshamah*), Highest soul, of the left side, רוח (*ruaḥ*), spirit, and נפש (*nefesh*), soul, of the left side in a Jewish body are called *Adam*, while all other nations are not called *Adam*. What does Scripture say? *Choose life* (ibid., 19).[^203] [p. 99]
+
+“Consequently, there are Jewish demons. And the verse that says *You shall have no other gods beside Me* ([[Torah 17 - Yitro#^20-3|Exodus 20:3]]) applies only to Ishmael and Esau. The *other gods* of Ishmael and Esau—from where did they originate? From the dregs of Jewish demons. Of this: *For from the stock of a snake there sprouts an asp* ([[Isaiah 14#^14-29|Isaiah 14:29]]). Thus, if Evil Impulse urges you, ‘Sin—lie down with a beast—do it!’ do not trust him.[^204]
+
+“Thus, there are demons that are Jewish, Muslim, and Christian, but the grandest of them are among the descendants of Esau and Ishmael. From where does this stature originate? From their bodies for they are our brothers, bodily, though not in terms of נשמה (*neshamah*), highest soul, nor spirit, nor נפש (*nefesh*), soul, nor soul of soul.[^205]
+
+“Let me open a wide portal for you: All Israel bow down to the blessed Holy One, while the god of Esau’s people bows down to them! How do we know this? An allusion in Scripture: *elohim came to Balaam in a night-dream* ([[Torah 40 - Balak#^22-20|Numbers 22:20]])—his god bowed down to him, coming to his house, and speaking [p. 100] with Balaam in his dream. Why all this? To honor the body—their primary concern.[^206]
+
+“Now, any Gentile who repents—abandoning idolatry—the blessed Holy One will infuse him with holy spirit and holy נפשא (*nafsha*), soul. Consequently, he will have a portion in the world that is coming—not with Israel, however, but a portion of his own.[^207]
+
+“Why this distinction? On account of the lees in his body, originating in impurity. Holy spirit and holy *nefesh* rest upon those lees, exerting great pressure, bringing them to this body. This is like a person who lives in the midst of trash—once he dies, his dregs disappear.[^208]
+
+“This explains why they have taught that a Gentile’s body is impure during his lifetime, and pure after his death. Why? Because his soul will be vanquished and his body will return to the dust, as before. The Jew is pure in his lifetime and impure at death because his *neshamah* ascends to a lofty place, while the bestial soul remains in the body. Thus, this one is designated impure in death, while the Gentile is pure![^209] [p. 101]
+
+“To what may this be compared? To two trees—one holy, one impure. What makes one holy and the other impure? The one that yields fruit is holy, and the one that does not yield fruit is impure (that one will provide shade for idol worship)—nonetheless, each one is planted in the ground. One tree draws water, and the other also draws water—nonetheless, one tree yields fruit and the other tree does not yield fruit.[^210]
+
+“Similar to this is Israel and the descendants of Esau—two trees planted in the earth—holy spirit and debased spirit. These are the trees, in the same soil since, physically, they are our brothers. One has water and yields fruit—this is holy Torah of Israel, compared to water, as is said: *Ho, everyone who is thirsty, go to water* ([[Isaiah 55#^55-1|Isaiah 55:1]]), and there is no water other than Torah.[^211]
+
+“Of a Jewish body, Scripture says *a tree yielding fruit that has its seed within it… upon the earth*… ([[Torah 01 - Bereshit#^1-11|Genesis 1:11–12]]). He will inherit the Garden of Eden and will inherit a holy, celestial body, and his *neshamah* will revel in the light of *Shekhinah*.[^212] [p. 102] **[ZḤ 79a]** ^zh-79a
+
+“Now, you said that there is no fruit from the Tree of Impurity. If so, why does the verse say *a tree yielding fruit of its own kind* (ibid.)? Look carefully at the fruit of this tree that provides shade for idol worship—it is reputed to yield inedible fruit that the wind drives off. Of this is said *Not so the wicked, but like chaff*… ([[Psalms 001#^1-4|Psalms 1:4]]). This Tree of Impurity draws water, but does not yield fruit, as we have taught—*Like chaff that the wind drives away* (ibid.)—this is their Torah.”[^213]
+
+Rabbi Hoshaya said, “Come and see the example of the Tree of Knowledge of Good and Evil—seed of David [79a] follows this pattern. Tree of Knowledge of Good and Evil—good from the paternal side, evil from the maternal side, but nonetheless, not deriving from their impudence.”[^214] [p. 103]
+
+When Rabbi Eli’ezer heard this, he came and kissed him on the head.
+
+Rabbi Ḥisdai said, “Ruth was among the most modest of them. She entered under the wings of *Shekhinah*, and royalty proceeded from her. Kings necessarily issue from seed of David so that they will be both merciful and cruel. Merciful from the paternal side, brutal from the maternal side—this one and that one, necessarily unified as one. Consequently, seed of David is vengeful and raging as a snake, while merciful to Israel.”[^215]
+
+Rabbi Ḥalafta said, “Scent of the lily—the one emerging from the midst of thorns. Ruth emerged—from seed of the nations—like a lily, wafting fine fragrance before the blessed Holy One.”
+
+Rabbi Pedat asked the son of Rabbi Yose of Sokho, “Since Ruth had converted, why was she not called by another name?”[^216] [p. 104]
+
+He replied, “This is what I heard: She had another name, and when she married Mahlon they renamed her Ruth. From that point, she ascended with this name. For when she married Mahlon she converted, not afterward.”[^217]
+
+He said to him, “But it says afterward: *Your God shall be my God; where you lodge, I will lodge*… ([[Ruth 1#^1-16|Ruth 1:16]]). Naomi exhorted her with many cautions, as we have learned, and she accepted them all. But if she had converted earlier, what need did she have for all this now?”[^218]
+
+He said, “God forbid that she married Mahlon while still a Gentile! In truth, when she was taken as a wife she converted, but her compliance—and Orpah’s—was considered contingent due to the presumption of her husband’s intimidation. When their husbands died, Orpah reverted to her defectiveness, as is written: *See, your sister-in-law has returned to her people and her gods* (ibid., 15). And it is written: *Ruth clung to her* (ibid., 14), as she had at first. When her husband died, she cleaved to the Torah—of her own will.”[^219] [p. 105]
+
+He said to him, “Did you hear what her name was originally?”
+
+He replied, “Her name was Gilit. When she married Mahlon, he called her Ruth. ערפה, Orpah—הרפה (*Haraphah*), Weak One, was her name, and she reverted to her defectiveness, to her name, and to her gods. This is as is written: *Well, now, your sister-in-law has returned to her people* (ibid., 15). *To her people*—to be addressed by her original name. *To her gods*—to worship idols.”[^220]
+
+Rabbi Reḥumai and Rabbi Qisma son of Geiri were together in Ono, from Sabbath to Sabbath. One day they were sitting [and studying], while Rabbi Reḥumai was sitting and teaching, with an assembly before him.[^221]
+
+He opened, saying, “*Therefore* באורים (*ba-urim*), *with lights, honor YHVH* ([[Isaiah 24#^24-15|Isaiah 24:15]]). What is the meaning of באורים (*ba-urim*), *with lights*? These are the ותומים‎ אורים (*urim ve-tumim*), Urim and Thummim.[^222] [p. 106]
+
+“באורים (*Ba-urim*), *With fires*—with two fires, in Zion and Jerusalem. This is as is written: *Declares YHVH, whose fire is in Zion, His furnace in Jerusalem* (ibid. 31:9). But people are unaware of them.[^223]
+
+“*In Zion* alone, you might have thought. Actually, just as Zion and Jerusalem go together, so too do these two go together, like male and female. Male fire is weak, female fire is strong—one corresponding to Zion, and one corresponding to Jerusalem.[^224]
+
+“No one in the world knows the secret of these two fires. They are called evil impulse and good impulse; and the blessed Holy One gave them to humanity for guidance. Scripture says: *Therefore, with fires honor YHVH* ([[Isaiah 24#^24-15|Isaiah 24:15]])—with these, one honors his Master.[^225] [p. 107] **[ZḤ 79b]** ^zh-79b
+
+“There is a gate beneath Zion, a cavity two thousand cubits below the earth—origin of fire, small and weak. This gate is called Hidden. From there it proceeds—spreading until Jerusalem, site of the Temple Mount—until it reaches the place where every male stands to see the face of the Lord, *YHVH Tseva’ot*.[^226]
+
+“What is the explanation? There, beneath the Temple Mount—which is within the courtyard—there is [79b] a subterranean fire measuring 365 cubits by 365 cubits. Above, however, the fire does not burn like a powerful furnace. Below, fire follows the model of foreskin—shrouding covenant, beneath.[^227]
+
+“Every male inscribed with the covenant stands over it, *before the Lord YHVH* ([[Torah 18 - Mishpatim#^23-17|Exodus 23:17]]). Because of this, *Therefore* באורים (*ba-urim*), *with fires, honor YHVH* ([[Isaiah 24#^24-9|Isaiah 24:9]])—with the fire of Zion and the fire of Jerusalem.[^228] [p. 108]
+
+“Gate of the Powerful Furnace, called Foreskin. When the males stand above it, they submerge that fire to the great depth—fire of Hell.[^229]
+
+“Seven names for the evil impulse: Evil, Impure, Satan, Enemy, Stumbling Block, Uncircumcised, Hidden One. Of this is said *all your males shall appear* ([[Torah 18 - Mishpatim#^23-17|Exodus 23:17]]). Seven names for Geihinnom: Pit, Destruction, Dumah, Slimy Mud, Sheol, Tsalmavet, Netherworld. Seven openings to Geihinnom corresponding to its seven names. Seven compartments, one upon the other—all compartments prepared for the wicked to be judged. Their bodies waste in the grave, and their souls incinerated, fire consuming them.[^230] [p. 109]
+
+“First compartment—Pit. Uppermost compartment with numerous classes of violent angels. Like the בור (*bor*), pit, with no water but with snakes and scorpions, similarly with this compartment—called בור (*bor*), Pit. Within, innumerable bands of violent angels like those fiery serpents, for whom no charm can be whispered.[^231]
+
+“Three appointed angels preside over Geihinnom, subject to the rule of Dumah—Destroyer, Wrath, Rage. All others, posted below them. All those compartments—filled with darting to and fro, and the souls of the wicked are judged there.[^232]
+
+“All those cohorts of violent angels cause a tumult in Geihinnom, their voices heard up to the vault. Voices of the wicked in their midst screaming and wailing, ‘Woe, woe!’—but none takes pity upon them.
+
+“Of all these—the three angels along with the other groups of angels of destruction who cause Geihinnom to tremble—Scripture says: קול (*qol*), *Sound, of tumult from the city*, קול (*qol*), *thunder, from the Temple;* קול (*qol*), *voice, of YHVH dealing retribution to His enemies* ([[Isaiah 66#^66-6|Isaiah 66:6]]), corresponding to these three ravaging angels who govern all the days of the week.[^233]
+
+“From the time of the evening prayer, all night long, they judge those who *do their deeds in darkness*… ([[Isaiah 29#^29-15|Isaiah 29:15]])—lasciviously lusting in their beds. Of them Scripture says *they do their deeds in darkness*… and *Woe to those who plot iniquity, plowing evil on their beds*… ([[Micah 2#^2-1|Micah 2:1]]). Once begun, they conclude for them all in the daytime. But the beginning of judgment for the wicked in [p. 110] Geihinnom—when night glooms. Thus, they are called nights, as is said: *from terror of the nights* ([[Song of Songs 3#^3-8|Song of Songs 3:8]]). Rabbi Alexandrai said, ‘From the fear of Geihinnom.’[^234]
+
+“For this reason, they instituted *Yet He is compassionate* ([[Psalms 078#^78-38|Psalms 78:38]]) for the evening prayer through the week—since from the moment that it gets dark, the wicked are judged in Geihinnom by three: משחית (*mashḥit*), Destroyer, אף (*af*), Wrath, and חימה (*ḥeimah*), Rage. All of them included here: *Yet He is compassionate*. As is written: ישחית (*yashḥit*), *destroy*, אפו‎ להשיב (*le-hashiv apo*), *returning His wrath*, חמתו‎ כל (*kol ḥamato*), *all His rage* (ibid.).[^235]
+
+Thus, they instituted *Yet He is compassionate* during the weekdays and not on Shabbat—since once Shabbat enters, Judgment withdraws from the world, the wicked in Geihinnom have respite, and violent angels do not govern them from the moment the day is sanctified.[^236] [p. 111] **[ZḤ 79c]** ^zh-79c
+
+“For this reason, one does not recite *Yet He is compassionate*, so that violent angels will not be roused. For this reason, it is forbidden—out of respect for the King who protects the wicked on Shabbat—to demonstrate that judgment has vanished, and violent ones have no license to injure.[^237]
+
+“This can be compared to a watchman’s beating a criminal. The king comes to protect him, setting [the criminal] before him. Once he is standing before the king, if another threatened with a whip, would that not be an affront to the king! Similarly, the king is Shabbat. He plucks sinners from Geihinnom, placing them before him, protecting them. Then all the guards retreat from the presence of the King. If one were to pick up a lash in the king’s presence and threaten them, would this not be a disgrace to the King? Similarly, one does not [79c] recite ‘Who guards His people Israel.’[^238]
+
+“Judged in this compartment: those who *pluck saltwort*, שיח‎ עלי (*alei siaḥ*), *leaves of wormwood* ([[Job 30#^30-4|Job 30:4]])—who interrupt words bestowed upon the tablets with שיחה‎ עלי (*alei siḥah*), leaves of idle chatter; and those who treat sages disrespectfully. [p. 112] (This is not the place for one who scorns a חכם‎ תלמיד [*talmid ḥakham*], disciple of the learned—he is judged in Slimy Mud.)[^239]
+
+“Judged in this first compartment: one who scorns a sage’s disciple or a sage, even if he honors him publicly; one who curses the deaf, or the like; one who passes behind a synagogue when the congregation is praying; and one who praises his fellow before the latter’s adversary, to ill effect. All these and similar cases are judged in the first compartment.[^240]
+
+“The second compartment is called Destruction, likened to green fire. Nothing but darkness there, no compassion at all. Judged there: those who disparage the biers of scholars; one who shames his fellow, discouraging others from learning from him; one who hectors, but not for the sake of heaven; one who accrues honor from the disgrace of his fellow; one who foresees that his fellow will stumble on a halakhic matter and does not forewarn him before he stumbles, leading to his or others’ joy; one who has a synagogue in his town, but does not step foot there to pray; one who is unpleasant to his fellow—a local [p. 113] colleague—in halakhic matters; one who eats from a meal that is insufficient for the hosts; one who raises his hand to strike his fellow even though the latter had not struck him; and one who jokingly derides his friend, to induce shame. All these are judged there, in that compartment, as well as all those like them.[^241]
+
+“The third compartment is called Dumah. Judged there: all those with swelled egos because of their halakhic erudition, publicly swaggering, but not for the sake of heaven; those who gossip; those who are arrogant with halakhah; one who judges his fellow negatively; one who lends to his fellow with interest; one who reveals aspects of the Torah that are contrary to the *halakhah*; one who does not respond ‘amen’ following another’s blessing; one who turns his prayer into ‘bits and pieces’—like one who chatters in the midst of his prayer, returns [to his prayer], jabbers some more, and goes back [to the prayer], then interrupts—this is called ‘bits and pieces’; one who ridicules his fellow, or gibes at an [p. 114] elder who has forgotten his learning; and one who sees something vexing for his friend and does not inform him privately. All these are judged there, as well as all those like them.[^242]
+
+“The fourth compartment is called Slimy Mud. Judged there: the haughty; all those who respond harshly to the poor and indigent; one who sees a poor person in straits and does not lend him money until the latter implores for help; one who oppresses by withholding wages of the hired laborer; one who emits seed wastefully; one who fornicates with a Gentile woman or a menstruant; one who takes collateral from a poor person and does not return it when the latter has nothing else; one who perverts justice; and one who accepts bribes. All these are judged in this compartment.[^243]
+
+“The fifth compartment is called Sheol. Judged there: Heretics, informers, those who reject the Torah, and those who deny the resurrection of the dead. Of them is said *As a cloud fades and vanishes, so whoever descends to Sheol rises no more* ([[Job 07#^7-9|Job 7:9]]). Of the other sinners is written *YHVH deals death and grants life, brings down to Sheol and raises up* ([[I Samuel 02#^2-6|1 Samuel 2:6]]).[^244] [p. 115] **[ZḤ 79d]** ^zh-79d
+
+“The sixth compartment is called Tsalmavet. Judged there are all those who had intercourse with a Gentile woman or a menstruant.[^245]
+
+“The seventh compartment is called Netherworld. One who descends there never rises again. Of them is said *You will trample the wicked*… ([[Malachi 3#^3-21|Malachi 3:21]]).[^246]
+
+In all of these compartments consuming fire blazes night and day for the souls of the wicked. There is one who is called ‘wicked’ and is judged in Geihinnom for twelve months, but a completely wicked person who has not repented is judged in Geihinnom for eternity. The rabbis say that a wicked person is judged in Geihinnom for six months, and a completely wicked person, twelve months. This applies when they have pondered repentance and died. However, if he did not mull over repentance, nor did he repent for the sin, of them [79d] [p. 116] the verse says *They will go out and stare at the corpses of the people who rebel against Me*… ([[Isaiah 66#^66-24|Isaiah 66:24]]).”[^247]
+
+Rabbi Reḥumai said, “When the blessed Holy One banished Adam from Garden of Eden, he was terrified of the compartment called Netherworld—it had no limits. Of this is said *Land of gloom, thickest murk;* צלמות (*Tsalmavet*), *Death’s Shadow, and disorder, where it shines thickest murk* ([[Job 10#^10-22|Job 10:22]]).[^248]
+
+“What did he do? He repented, entering the waters of Gihon, right up to his neck. The blessed Holy One took pity upon him, raising him to the place called *Adamah*—one of the seven lands. There he fathered Abel and Cain.[^249] [p. 117]
+
+“When Cain murdered Abel, the blessed Holy One decreed that he would be a *restless wanderer upon* הארץ (*ha-arets*), *the earth* ([[Torah 01 - Bereshit#^4-12|Genesis 4:12]]). What is written? *Behold, You have banished me today from the face of Adamah … I shall be a restless wanderer upon Arets* (ibid., 14). The blessed Holy One accepted his penance, and lifted him up to *Arqa*.[^250]
+
+“When Seth was born, the blessed Holy One raised Adam above all the other lands to *Tevel*, to a particular place in Hebron. There was his burial place as well as for Abraham, Isaac, and Jacob, and their wives.”[^251]
+
+Rabbi Kisma said, “The Cave of Machpelah is near the opening of the Garden of Eden. When Eve died, Adam came and buried her there. He inhaled fragrances of the Garden of Eden, mingled with the site’s redolence. He wished to dig deeper, but a heavenly voice boomed, ‘That’s enough!’ He stopped immediately, ceased digging, and was buried there. Who prepared him for burial? His son Seth, who bore *his likeness* and *image* (ibid. 5:3).”[^252]
+
+Rabbi Reḥumai said, “The blessed Holy One tended to him when he was born and tended to him when he died. Nobody knew his whereabouts until Abraham [p. 118] our forefather, peace be upon him, appeared and saw him. He inhaled the aroma of spices wafting from Garden of Eden. He heard the voices of the ministering angels saying, ‘Adam is buried here, and Abraham, Isaac, and Jacob will be readied for this place.’ He saw the flickering lamp and departed. Instantly, he longed for the place.”[^253]
+
+Rav Huna said, “Before Abraham arrived, others attempted to be buried there; but the ministering angels guarded the place. People saw the lamp burning there, but none could enter until Abraham came, entered, and purchased the site.”
+
+Rabbi Neḥemiah opened, “*YHVH Elohim planted a garden in Eden, to the east*… ([[Torah 01 - Bereshit#^2-8|Genesis 2:8]]). When the blessed Holy One created Adam, He created Him from the Temple, taking the Temple’s dust to create him. Once He created him and he stood up on his feet, all the creatures came to prostrate themselves before him.[^254]
+
+“What did the blessed Holy One do? He transported him from there and placed him in the Garden of Eden. He fashioned ten canopies for him—like the quintessential ten canopies the blessed Holy One is destined to make for the righteous in the Garden of Eden, in the time to come. The ministering angels [p. 119] were descending and ascending, rejoicing before him, and the blessed Holy One bestowed supernal wisdom upon him.[^255]
+
+“When Samael descended from heavenly heights, he beheld Adam’s status and the ministering angels serving him in his canopy—and it was loathsome in his eyes. What did he do? He mounted a serpent as if it were a camel and rode upon it. He descended, seducing [Adam] until he transgressed his Maker’s command.”[^256]
+
+“What caused him to sin? Rabbi Alexandrai said, ‘A spirit of debauchery entered him.’ Rabbi Ḥizkiyah said, ‘A spirit of impurity—it was thus that he violated his Maker’s command.’[^257]
+
+“Once he transgressed, the blessed Holy One revealed Himself to him, banishing him from the Garden of Eden. Against [Adam] He mandated ten decrees; against Eve, ten decrees; against the serpent, ten decrees; and against the earth, ten decrees less one—the forty-less-one lashes that the court imposes upon a sinner. Ultimately, he repented—and the blessed Holy One accepted him at once.[^258] [p. 120] **[ZḤ 80a]** ^zh-80a
+
+“This is as Rabbi Yehudah son of Shalom said, ‘What is the meaning of this verse *Hear my prayer, O YHVH; to my cry hearken, to my tears be not deaf! For I am a sojourner with You*… ([[Psalms 039#^39-13|Psalms 39:13]])? King David uttered this, as Rabbi Bun son of Ḥama said: “David said that the blessed Holy One is near [80a] to all who call unto Him.”’”[^259]
+
+He opened, asking about this verse, “How do we know this? It is as is written: *YHVH is near to all who call Him, to all who call Him in truth* ([[Psalms 145#^145-18|Psalms 145:18]]). All who call to the blessed Holy One in truth—He draws them close, receiving them. For the blessed Holy One desires the heart, and a person’s heartfelt devotion is more important to Him than the entire world’s sacrifices and offerings. Once a person directs his mind toward repentance, there is no gate among all the heavens that remains unopened.[^260]
+
+“A person’s sacrifice is contingent upon the heart and intention, as is written: *He shall confess that concerning which he has sinned* ([[Torah 24 - Vayikra#^5-5|Leviticus 5:5]]), and it is written: *confess over it* (ibid. 16:21)—all dependent upon the heart.”[^261] [p. 121]
+
+*Hear my prayer, O YHVH; to my cry give ear; to my tears be not deaf!* ([[Psalms 039#^39-13|Psalms 39:13]]). Rabbi Neḥunia son of Qaneh said to the sages, “My children! By your lives, there is nothing as close to the Omnipresent as a person’s heart—more pleasing to Him than all the sacrifices and offerings of the entire world!
+
+“One who fasts, aligning his heart and intention, offers a perfect sacrifice. For it is pleasing to the blessed Holy One when a person sacrifices his fat, blood, and body, offering the heat and aroma of his breath. His heart and will are called Altar of Atonement.[^262]
+
+“A sacrificial offering is apportioned to numerous sides, numerous divisions. An individual’s fast is apportioned to numerous sides, numerous divisions; but from the entirety, the blessed Holy One takes only the heart and devotion.[^263]
+
+“There are three sovereigns within the body: mind, heart, and liver. Mind absorbs from everything and provides to heart. Heart absorbs from all and it gives to liver. Liver provides to all, as is said: *All the streams flow into the sea, yet the sea is not full* ([[Ecclesiastes 01#^1-7|Ecclesiastes 1:7]]). This structure is analogous to the sea, and the blessed Holy One accepts it.[^264] [p. 122]
+
+“Nothing in the entire world endures before Him, other than a person’s repentance and prayer.” Rabbi Yehudah said, “Three types of repentance here in this verse: prayer, cry, and tears. All in this verse: prayer—*Hear my prayer, O YHVH*; cry—*to my cry give ear*; tears—*to my tears be not deaf!* ([[Psalms 039#^39-13|Psalms 39:13]]). All three are esteemed before the blessed Holy One; but among them, none as esteemed as tears—for along with tears go the heart, will, and the entire body. Through twelve gates, tears enter before the blessed Holy One.[^265] [p. 123]
+
+“*Prayer*—connected with hearing, as is written: *Hear my prayer, O YHVH. Cry*—as is written of it: *to my cry give ear*. *Tears*—unlike these, indeed superior to them all, as is written: *to my tears be not deaf!* What is the difference between them?[^266]
+
+“The rabbis of Caesarea and Rabbi El’azar son of Yose disputed the matter. [He said,] ‘*Prayer*—Sometimes a person supplicates in prayer and the blessed Holy One hears, yet declines to fulfill his request, remaining silent, largely indifferent. That is the case of *prayer*.[^267]
+
+“‘*Cry*—superior to *prayer*, for this one wails with heartfelt devotion before his Master. Since he directs his intention more fervently, it is written: *give ear*, like one inclining his ear toward a particular word. Nonetheless, He is silent, unmoved by his request.[^268]
+
+‘“But *tears* come with intention, heart, and the entire body; and therefore of this case is written *to my tears be not deaf!’*
+
+“But the rabbis say, ‘Not all tears enter before the King. Tears of rage, and tears seeking judgment of one’s fellow, do not gain access to the King. But those of prayer, repentance, and agonized pleas all burst through heavens, open gates, and enter before the King.’[^269]
+
+“This is as we have learned: ‘On the day the Temple was destroyed, all gates were locked, but the gates of tears were not locked.’ What is written regarding Hezekiah? *I have heard your prayer, I have seen your tears* ([[Isaiah 38#^38-5|Isaiah 38:5]]). Actual seeing, on account of tears.[^270] [p. 124] **[ZḤ 80b]** ^zh-80b
+
+“Of the time to come, what is written? *YHVH Elohim will wipe away tears from all faces* (ibid. 25:8). There are tears of virtue and tears of ill will. Of virtue—from the good impulse. Of ill will—from the evil impulse. Of tears of suffering and tears of prayer is written *With weeping they will come; with supplications I will conduct them*… ([[Jeremiah 31#^31-9|Jeremiah 31:9]]).”[^271] [80b]
+
+Rabbi Kruspedai fell ill; and Rabbi Yoḥanan son of Qisma, and the rabbis, came to visit him. It was the Sabbath. They saw him cry, then smile, and then he fell asleep. They said, “It is the Sabbath, so it is forbidden to move him—no further exertion is required.” They left him.[^272]
+
+Rabbi Yoḥanan rose, teaching: “*And Elimelech, Naomi’s husband, died; and she was left with her two sons* ([[Ruth 1#^1-3|Ruth 1:3]]). Elimelech died and her two sons remained; [p. 125] she was consoled by them. Elimelech’s two sons survived to fulfill his post—he was לנשמתא‎ נשמתא (*nishmeta le-nishmeta*), soul of soul. What is written afterward? *Then those two—Mahlon and Chilion—also died* (ibid., 5)—holy spirit and animal spirit. Rupture upon rupture! *Nishmeta le-nishmeta*, which is *yod*, and intellectual spirit, which is *vav*, will not die; but one who plunges from great stature is called dead.[^273]
+
+“Similarly, in this case. When Rabbi Eli’ezer went to sleep, the rabbis remained, providing consolation. Rabbi Yoḥanan son of Nuri, and his companions, died—and now our companion Rabbi Kruspedai, as well! Rupture upon rupture!”[^274]
+
+While they sat, Rabbi Ḥilqi’ah was near him. He noticed that tears had returned to his cheeks, and a smile to his lips. He called to Rabbi Yoḥanan and the companions: “I saw tears on his cheeks and a smile on his lips!”
+
+They exclaimed, “He’s certainly not dead!”
+
+They sat, not permitting anyone to come close to him. In the morning, he opened his eyes and asked for water to drink. Rabbi Yoḥanan drew close to him. He said to them, “Come back to me tomorrow, and I will tell you what I saw. For now I have to arrange everything that I have seen; I was ordered to recount it to the companions. Of the night that I was there, I will tell you—but I cannot fathom it! Tell the members of my household not to approach me, nor should anyone remain here.”[^275]
+
+They all left, but Rabbi Yoḥanan remained, not approaching him all that night. When daylight shone, they saw that he was talking and weeping, but they understood nothing.
+
+He rose, then sat down, then called for Rabbi Yoḥanan. [p. 126]
+
+He said to him, “What did you see in that other world?”
+
+“I have come from another world. I entered there, but I was denied permission to reveal any of it, other than to you and your companions.” Then he described to them what he had seen.
+
+He said to Rabbi Yoḥanan, “Arrange your words and go to the throne that they have prepared for you, for twelve of the companions are coming on your account. Happy are those companions whose teaching endures in their hands![^276]
+
+“I saw that it was the very place where King Messiah resided. A herald proclaims every day, ‘Happy are those engaged with Torah, those who render others worthy, and those who waive the right of retribution!’[^277]
+
+“Did you see when I was crying and smiling? Permission had been granted to the Angel of Death and he was coming; but I saw *Shekhinah* by my side and She would not let him. So I was taken to *beit din*, where I saw numerous troops and legions, all occupied with judgments of this world. At their head, Sandalfon, Master of the Countenance, braiding bands for his Master. A single canopy spread over him, all heavenly forces under his rule. But I was refused permission to approach and see him.[^278] [p. 127] **[ZḤ 80c]** ^zh-80c
+
+“I saw courts with throngs of officers attending, among them humanity’s defenders, prosecutors among them, too. They seized me, leading me before them. And I saw many of the companions there.
+
+“They asked the Angel of Death, ‘What defense could he have before you?’
+
+“He replied, ‘Since I was denied permission to take him, I have brought him here for judgment.’
+
+“Three witnesses arose, proclaiming three times, ‘We have found indemnification!’ And they testified on my behalf [80c] that I always waived the right of retribution. They were occupied with my judgment the whole time you saw me sleeping, assessing my days and years, deeming them whole. Since I always relinquished justified retribution, they abandoned the case, unable to render a verdict until it was referred for judgment elsewhere—its location unknown to me.[^279] [p. 128]
+
+“The verdict was issued to release me, and to give me time to complete my study in this world—for I had not yet completed it. But the Angel of Death did not discharge me until they delivered to him Rabbi Kruspedai the Elder—who preceded me—in my stead. Then he turned me loose.[^280]
+
+“When you saw tears on my cheeks and a smile on my lips: the tears I cried because of the Angel of Death; I smiled from joy in *Shekhinah*. My sleeping for another interval—to instruct me in what I am to reveal to you. [I was not taken] by the Angel of Death, but the soul of Rabbi Oshaya was left with me, and I will travel there with him at that time.”[^281] [p. 129]
+
+The companions were astonished, and proclaimed of him: “הבכא‎ בעמק‎ עברי (*ovrei be-emeq ha-bakha*), *who pass through the Valley of Weeping, making him a spring; also*, מורה (*moreh*), *the teacher, will cloak him with blessings* ([[Psalms 084#^84-7|Psalms 84:7]]). *They pass through the Valley of Weeping*—this is Rabbi Kruspedai, who traversed it. For the Angel of Death—he is the *Valley of Weeping*—the one who causes everyone to weep. *Making him a spring*—he was ordained to complete [his study], to become a fountain of Torah. Therefore, *also, the teacher will cloak him with blessings*—if Torah brings him life, all the more so one who reviews a tradition and teaches it.”[^282]
+
+Rabbi Yoḥanan proclaimed of him: “*Light dawns in darkness for the upright; gracious, compassionate, and just* ([[Psalms 112#^112-4|Psalms 112:4]]). *Light dawns in darkness*—what is *darkness*? Angel of Death—who besmirches faces in the world, as is said: *with darkness over the abyss* ([[Torah 01 - Bereshit#^1-2|Genesis 1:2]]). The blessed Holy One shines in this *darkness* for the *upright one*—Rabbi Kruspedai—powerful light, beacon of Torah. And who did this? The blessed Holy One, who is called *gracious, compassionate, and just*.”[^283]
+
+> *Naomi said to her two daughters-in-law… for she had heard, while still in Moab, that YHVH had remembered His people and given them food* ([[Ruth 1#^1-8|Ruth 1:8]], 6).[^284]
+
+Rabbi Berekhiah said in the name of Rabbi Isaac, “Come and see: One who averts his eyes from the poor during years of dearth—they will see the world’s relief, but he will not. Elimelech was a wealthy man, but when he saw the famine, he turned aside from charitable giving and fled to the fields of Moab.”[^285] [p. 130]
+
+Rabbi Berekhiah said to them, “But is it not in fact the practice of the righteous to flee from famine? Were not Abraham, Isaac, and Jacob greater than Elimelech—and richer as well—and yet one went to Egypt because of famine, and the other to the land of the Philistines!”[^286]
+
+Rabbi Berekhiah said in the name of Rabbi Isaac, “The blessed Holy One induced those righteous ones to leave from the midst of evil ones, and to publicize to all their character. Hence, He brought famine. But it was not so with Elimelech, for he dwelt with them. When famine came, the poor approached him, but he avoided them and fled. Further, he perceived that judgment fell upon the entire world, and yet he went off among the nations!”[^287]
+
+[81a][^288] Rabbi Reḥumai said, “There were three years of famine in the days of King David. What was the reason? To inform him that the event derived from judgment, as is written: *There was a famine in the days of David… David sought out* ([[II Samuel 21#^21-1|2 Samuel 21:1]]), continuing until the verdict was completed. Once judgment was fulfilled, then immediately: *God granted the plea of the land*… (ibid., 14).[^289] [p. 131]
+
+“For Rabbi Ḥiyya taught: ‘The entire world drinks only from the drippings of the land of Israel. When notice is taken of the world, [the land of Israel] is noted first, because there is none drawing for her or defending her at the start.’[^290]
+
+“Elimelech was righteous, and he could have protected the people of the land; but he fled, hiding among the other nations. For this, he was punished—he died. His sons went and married foreign women—aliens—and they were punished.”[^291]
+
+*When humankind began to increase on the face of the earth and daughters were born to them, the sons of God saw that the daughters of humankind were beautiful, and they took themselves wives, whomever they chose*.
+
+*YHVH said, “My spirit shall not abide in the human forever, for he too is but flesh*]. *Let his days be a hundred and twenty years.” The fallen ones were on earth in those days—and afterward as well—when the sons of God came in to the daughters of humankind, who bore them children. These are the heroes of old, men of renown* ([[Torah 01 - Bereshit#^6-1|Genesis 6:1–4]]).
+
+Rabbi Ḥananiah opened: “*The sons of God saw that the daughters of humankind were beautiful, and they took themselves wives, whomever they chose* ([[Torah 01 - Bereshit#^6-2|Genesis 6:2]]). *The sons of God saw*—Uzza and Aza’el: two angels who castigated their Master, and the blessed Holy One cast them down from a heavenly site above. When they descended, they materialized in the air, becoming like men.[^292] [p. 132] **[ZḤ 81b]** ^zh-81b
+
+[81b] “Among all the angels, none mingled among human beings so well as those called אישים (*ishim*), heavenly men, and those called אלהים‎ בני (*benei elohim*), sons of God. Once the blessed Holy One cast them down, they materialized with all the physical elements with which humans clothe themselves. Other angels—upon descent, though destined to return to their stations—concretize in the air, then strip off materiality and return to their places.”[^293]
+
+Kisma son of Rabbi Yannai said, “It is written: *He makes His angels spirits, His ministers flaming fire* ([[Psalms 104#^104-4|Psalms 104:4]]). Some angels are fashioned of wind, and some fashioned of fire, but each one gives to his fellow because harmony prevails [p. 133] among them. Consequently those who descend, descend from these two foundations. When they descend, they are more fully cloaked in the air of this world—materializing.[^294]
+
+“Those who blend into this world, with the elements of this world, are unable to bolt and return to their stations—restrained here. As they linger here for seven days—day by day—they cannot return. Of this is written *The sons of God saw that the daughters of humankind*… ([[Torah 01 - Bereshit#^6-2|Genesis 6:2]]).[^295]
+
+“What is the meaning of *were beautiful* (ibid.)? Their beauty shone like heavenly light.
+
+“Once they sired offspring, the blessed Holy One took them and stowed them in the Mountains of Darkness, called *Ancient Mountains* ([[Torah 40 - Balak#^23-7|Numbers 23:7]]). He bound them in iron chains—chains sunk down to the great abyss. There, they instructed humanity in magical arts.[^296]
+
+“Balaam acquired his sorcerer’s skill there, learning it from the denizens of those mountains. This is as is written: *From Aram, Balak led me… from Ancient Mountains* (ibid.). There were crowned all the world’s experts.[^297]
+
+“Since they had been critics of their Master from the outset, continuing until today to scorn their Master—using sorcery to subvert the celestial family—if [p. 134] not for those shackles sunken in the abyss, binding them in a mighty brace, they would sully the world, and the world would be unable to withstand it.[^298]
+
+“There, among those dark mountains, they suckle from the north—for it is from that side that all of these species are reinforced.”[^299]
+
+Rabbi Neḥemiah said in the name of Rabbi Yehudah, “Na’amah was around at that time, and everyone was seduced by her.”[^300]
+
+Rabbi Shalom says, “She was the mother of demons. When the sons of God saw the daughters of humankind, they strayed after them, because the daughters of humankind were strolling naked. They had intercourse with them and had children from them. This is as is written: *and afterward as well—when the sons of God*…שם‎ אנשי (*anshei shem*), *men of renown* ([[Torah 01 - Bereshit#^6-4|Genesis 6:4]]).[^301]
+
+“Who are the שם‎ אנשי (*anshei shem*), *men of the name*…? These are the *fallen ones* (ibid.), who taught the world names for each and every thing, consummating their sorcery.”[^302] [p. 135]
+
+Rabbi Yehudah and Rabbi Yose said, “*Men of the name*—actually! As is said: *Sixty warriors surrounding her* ([[Song of Songs 3#^3-7|Song of Songs 3:7]]).”[^303]
+
+Rabbi Isaac said, “But it is written: *of the heroes of Israel*!”[^304]
+
+*No female witch shall you let live* ([[Torah 18 - Mishpatim#^22-17|Exodus 22:17]]). Rabbi Azariah asked Rabbi Yose, of Kefar Ono, “Why is witchcraft more common among women than among men—as is written: *No female witch shall you let live* ([[Torah 18 - Mishpatim#^22-17|Exodus 22:17]])? It is not written *male witch*!”[^305]
+
+He replied, “It is written: *No* רעה (*ra’ah*), *evil, will befall you* (Psalms 91:10)—side of the female, certainly! *Nor* נגע (*nega*), *affliction, draw near your tent* (ibid.)—the male. From the female, all kinds of sorcery and evil depths come into the world, as is written: *I find woman more bitter than death* (Ecclesiastes 7:26).”[^306] [p. 136] **[ZḤ 81c]** ^zh-81c
+
+“What is the meaning of *fetters her hands* (ibid.)? Rabbi Yannai and Rabbi Yehoshu’a [disputed the matter]. One said, ‘One who touches a woman or receives money from her, hand to hand, shall not escape the punishment of Geihinnom [81c], as is said: *Hand to hand, evil will not go unpunished* ([[Proverbs 11#^11-21|Proverbs 11:21]]); and as is written: *fetters her hands*—actually!’[^307]
+
+“The other said, ‘From females come all forms of magic and witchcraft, and all evil thoughts. If not for *her hands are fettered*, and her being restricted, women would murder and bring death to the entire world—always, everywhere.’[^308]
+
+“The female gains strength only from the power of the male. Since she originates in his depths, she knows how to adjure a man to consummate her desire. How? With a name, and with profound words—with the name of impurity. Thus, the act depends upon her, words upon the male—both aroused from the female. Therefore, all kinds of sorcery are found among the female, not the male.”[^309] [p. 137]
+
+It has been taught: ‘One who passes between two women—if they are menstruants, he will be afflicted with epilepsy, not desisting unless they take some action on his behalf—blood disease or murder lies in wait for him. If they are not menstruants, the evil eye governs his body or his property.[^310]
+
+This is like what happened to Rabbi Naḥum son of Rabbi Simlai. One time when he was in Caesarea, he passed between two women. They gazed upon him and he was endangered immediately, in his body and property. How did this happen? Because of the evil eye resting upon them, bearing potential for harm.
+
+What is the remedy? He should recite the following: ‘Go away, go away! Be silent, be silent! Untie the knot—not tied for you, not tied for me!’ Then he should begin with *El* and conclude with *El*. It is written: *El brings them out from Egypt, like the wild ox’s antlers for him. For there is no augury against Jacob, no divination against Israel* ([[Torah 40 - Balak#^23-22|Numbers 23:22]]). Concluding with *El: Now be it said to Jacob and to Israel what has been performed by El* (ibid., 23). Then he should go on his way, and not look back.[^311] [p. 138]
+
+Rav Huna was on pilgrimage from Babylon to the land of Israel. When he went up there, he happened upon a town and noticed a woman following behind him. She threw water on his shoulders and took dust from beneath his feet. He turned his head around and said to her, “Go ahead and take, my daughter. This has no effect on me! But I decree against you that your mind be scattered!” Then he said, “Not on my account, but rather to prevent you from murdering other people.” And so it was. Her mind was addled—a complete blank—and she died. Of this is written *No evil will befall you, nor affliction draw near your tent* ([[Psalms 091#^91-10|Psalms 91:10]]).[^312]
+
+Rabbi Ḥiyya taught, “*He who is good before God will escape her, and a sinner will be trapped by her* ([[Ecclesiastes 07#^7-26|Ecclesiastes 7:26]]). Escape from whom? From the woman of whom is written *For she is all snares, and nets her heart*… (ibid.).”[^313]
+
+Come and see: When there is famine in town, one should not show oneself, nor walk unaccompanied in the city, for the Angel of Death is there and he has permission to harm. Of this is written *Jacob said to his sons, ‘Why do you display yourselves?’* ([[Torah 10 - Miketz#^42-1|Genesis 42:1]]). Similarly, when there is plague in town, one should confine oneself and not be seen in the market. Once permission has been given to attack, whoever offends him will be struck, and he is culpable for his own soul.[^314] [p. 139] **[ZḤ 81d]** ^zh-81d
+
+Come and see: For ten years, Naomi dwelt in the fields of Moab. Eventually, [she returned to Israel] *for in the fields of Moab she had heard* ([[Ruth 1#^1-6|Ruth 1:6]]). Why were Mahlon and Chilion punished? Because they married Moabite women.[^315]
+
+For no women in the world are engaged with divination and witchcraft like the Moabites. How do we know this? As is written: *Israel clung to Baal Peor*… ([[Torah 40 - Balak#^25-3|Numbers 25:3]]), *and the people ate and bowed down to their gods* (ibid., 2). As soon as they had a nibble produced by their sorcery, they bowed down before their idols at once.[^316]
+
+*And they clung*—Rabbi Ḥiyya said, “Like the clinging of bracelets, so were they joined to Baal Peor.[^317]
+
+“On account of women’s magic—how do we know this? It is as is written: *Look, these are the ones who led the Israelites by Balaam’s word* (ibid. 31:16)—he taught them how to utter words. For there was no sorcery or magic in the world like theirs, but reciting formulae [81d] to consummate their sorcery—that was unknown to them. Therefore, *by Balaam’s word*, they executed and completed their sorcery, trapping them.”
+
+Rabbi Yoḥanan said, “But Ruth was worthy.”[^318] [p. 140]
+
+> *Naomi said to her daughters-in-law, ‘Go, return, each of you to her mother’s home* ([[Ruth 1#^1-8|Ruth 1:8]]).[^319]
+
+It is written: יעשה (*ya’aseh*), *May He treat*. If you are worthy to enter beneath the wings of the *Shekhinah*, יעשה (*ya’aseh*), *May* [*YHVH*] *treat*; but if not, יעש (*ya’as*), *May* [*YHVH*] *treat*, lacking ה (*he*).[^320]
+
+*It has been far more grievous for me* מכם (*mi-kem*), *from you* (ibid., 13). It should say עליכם (*aleikhem*), *for you*, as is said: *I grieve* עליך (*aleikha*), *for you* ([[II Samuel 01#^1-26|2 Samuel 1:26]]). What is the meaning of מכם (*mi-kem*), *from you*? Rabbi Kronia said in the name of Rav Bizna, ‘“The anguish in my heart is from you, for you caused my sons to die”—like someone roaring on account of another.’[^321]
+
+*And Orpah kissed her mother-in-law goodbye* ([[Ruth 1#^1-14|Ruth 1:14]]). ערפה, *Orpah*—הרפה, Harafah was her name! So, why was she called Orpah? Because she turned her עורף (*oref*), back, on her mother-in-law. She journeyed to her place, to the fields of Moab, where she was promiscuous and dishonored. [So she went] to the land of the Philistines, where everyone pounded her like הריפות (*harifot*), groats. [p. 141]
+
+Harafah—she behaved רפה (*rafah*), in a degraded fashion, and from her licentiousness gave birth to six sons, all falling at the hand of David and his men.[^322]
+
+בנוב‎ ישבי, *Ishbi of Nob, of the offspring of Harafah* ([[II Samuel 21#^21-16|2 Samuel 21:16]]). But, why is he located in Nob? Is it not next to Jerusalem, in the land of Israel, whereas he was in the land of the Philistines! Here is the explanation offered by Rabbi Pinḥas: “It comes to teach נוב‎ עסקי‎ על‎ שבא (*she-ba al isqei nov*), that he came regarding the events at Nob.[^323]
+
+“For [David] had prompted the affair at Nob—city of priests; and the blessed Holy One deals strictly with the righteous, even to a hairbreadth.
+
+The blessed Holy One said, ‘David, You caused such a stir in Nob, city of priests—by your life, judgment will fall either upon you or your seed, and only one shall remain!’”[^324] [p. 142]
+
+Rabbi Ḥiyya taught, “*But one son of Ahimelech son of Ahitub escaped*… ([[I Samuel 22#^22-20|1 Samuel 22:20]]). For none of Ahimelech’s kin survived—from his father’s entire household—other than Abiathar alone. On account of this sin, Saul and his son died, as well as thousands and myriads from Israel. It was decreed, too, that David should die.
+
+“When he arrived in the land of the Philistines, that very same Harafah saw him—and said to her son, ‘This is the one who killed your brother!’ At that moment, the time had come for Attribute of Judgment to take vengeance upon David regarding the events at Nob, summoning Ishbi to kill him. At once, בנוב‎ ישבי, *Ishbi be-Nob* (2 Samuel 21:16)—נוב‎ עסקי‎ על‎ שבא (*she-ba al isqei nov*), who came regarding the events at Nob.”[^325]
+
+Rabbi Yoḥanan said, “This is what David said: ‘Blessed Holy One, let my seed be enduring before you. I stand prepared to accept the judgment upon myself.’ What happened? Ishbi took him and bore down on him with his staff. [David] said, ‘This is beneath my dignity.’ He took him and tossed him up in the air, rapier point propped so that David would be killed. This is as is written: *and he was girded with new gear—he meant to strike down David* (ibid.). Just then, [David] uttered the Ineffable Name and he was suspended in mid-air. His horse bolted, headed to Jerusalem.[^326]
+
+“Abishai went and asked the Sanhedrin, ‘What is the law pertaining to riding a king’s horse?’ They permitted him. He found David, suspended in mid-air, and said to him, ‘Retract your prayer!’[^327] [p. 143] **[ZḤ 82a]** ^zh-82a
+
+“He replied, ‘*How can I give back to YHVH for all he requited to me*? ([[Psalms 116#^116-12|Psalms 116:12]]). For this is what I have received from the court of Samuel of Ramah…’ He returned immediately to his prayer and accepted judgment upon his seed, as is written: *Abishai son of Zeruiah came to his aid and struck down the Philistine* … ([[II Samuel 21#^21-17|2 Samuel 21:17]]).[^328]
+
+“What is written? *Now when Athaliah, the mother of Ahaziah, saw that her son was dead, she arose and killed off all who were of royal stock* ([[II Kings 11#^11-1|2 Kings 11:1]])—from the house of David. It is written: ותאבד (*va-te’abbed*), *she killed off*, but it is also written: ותדבר (*va-tedabber*), *she spoke* ([[II Chronicles 22#^22-10|2 Chronicles 22:10]])! What is the meaning of *she spoke*? She predicted that David’s seed was destined to be eliminated.[^329]
+
+“*She killed off* ([[II Kings 11#^11-1|2 Kings 11:1]])—*But Jehosheba, daughter of King Joram… Joash* … ([[II Kings 11#^11-2|2 Kings 11:2]]). This teaches that the blessed Holy One judges measure for measure.[^330]
+
+“Of all this, what is written? Even though this edict had been decreed and permission granted to Attribute of Judgment, it is written: *This same day at Nob he shall stand* ([[Isaiah 10#^10-32|Isaiah 10:32]]). [82a] Attribute of Judgment still stands at Nob, demanding justice before the blessed Holy One. If the blessed Holy One deals strictly with the righteous, all the more so with the wicked.”[^331] [p. 144]
+
+> *So she said, ‘See, your sister-in-law has returned to her people and to her gods’* ([[Ruth 1#^1-15|Ruth 1:15]]).[^332]
+
+Rabbi Naḥum said in the name of Rabbi Yehudah, “At first it says *returned*, teaching that she had been a convert at the outset. It is also written *and to her gods*—for she had one God with Naomi. But now—to her original stench, backsliding to her idolatry.[^333]
+
+“*But Ruth clung unto her* (ibid., 14). Just as she had accepted [its yoke] during her husband’s lifetime, so did she cling to her faith afterward. Come and see: How exemplary is Ruth! Even without fear of her husband, she clung to her faith. Nonetheless, Naomi reinitiated her as before, admonishing her with cautions, and she acceded to them all.”
+
+Rabbi Brokah said, “It is written: *Abraham rose early in the morning and took bread and a skin of water and gave them to Hagar, placing them on her shoulder, and he gave her the child* ([[Torah 04 - Vayera#^21-14|Genesis 21:14]]). Since it is written *to Hagar*, what is the meaning of *placing… on her shoulder*? Well, it teaches that he cautioned her about the yoke of faith, and to remind her of her original state with him. Here it is written שם (*sam*), *placing,… on her shoulder*, and it is written: *There* שם (*sam*), *He placed, for them statute and law* ([[Torah 16 - Beshalach#^15-25|Exodus 15:25]]). As below it signifies the yoke of *Shekhinah*, so too here, yoke of *Shekhinah*.[^334] [p. 145]
+
+“What did she do? Once she reflected upon her exit from Abraham’s domain, she returned to her degradation. What is written? *And she went* ותתע (*va-teta*), *and she strayed* (Genesis, ibid.)—after the idol worship and filthy fetishes of her father’s house. It is also written: *They are vanity, work of* תעתועים (*ta’tu’im*), *delusion* (Jeremiah 10:15, 51:18).”[^335]
+
+Rabbi Ḥidka and Rabbi Shim’on son of Yose were walking on the way. Rabbi Shim’on said to Rabbi Ḥidka, “Now, we have learned: ‘A Gentile who is engaged in Torah is like a high priest.’ Like a high priest! How could they equate him with a high priest? Behold, it is written: *He established a testimony in Jacob, and ordained a teaching in Israel* ([[Psalms 078#^78-5|Psalms 78:5]])! The blessed Holy One bestowed it upon Israel so that they might receive reward in the world that is coming. Gentiles, who did not accept it, do not receive reward for it. This is as is taught by Rabbi Akiva: the people Israel, since they stood at Mount Sinai, receive reward for it. Yet you have said that a Gentile who is occupied with Torah is like a high priest!”[^336] [p. 146]
+
+He replied, “Like a high priest—thus we have learned! For Rabbi Yose son of Rabbi Yehudah said in the name of Rabbi Yoḥanan: ‘What is the meaning of the verse *She is more precious than rubies; nothing desired can compare with her* ([[Proverbs 03#^3-15|Proverbs 3:15]], [[Proverbs 08#^8-11|8:11]])? Even a bastard scholar is greater than an ignorant high priest, even though he enters within, within.’ Since he does not study Torah, his service is not service, and he does not receive reward for it. Of him is said *Surely, without knowledge a soul is not good* ([[Proverbs 19#^19-2|Proverbs 19:2]]). A high priest who does not comprehend the essence of worship, his worship is no worship.[^337] [p. 147]
+
+“And Rabbi Yuda said, ‘From where do we know that a high priest must be a scholar? As is written: *For the lips of a priest guard knowledge, and people seek rulings from his mouth* ([[Malachi 2#^2-7|Malachi 2:7]]). But if he is an ignoramus, he receives no reward for it.’ Similarly for a Gentile who is occupied with Torah—since he is a Gentile—his service is not service and he does not receive reward for it. The reward of an ignorant high priest and a Gentile are equivalent because they do not receive reward for their efforts.”[^338]
+
+He opened, “*Command Aaron and his sons, saying*… ([[Torah 25 - Tzav#^6-2|Leviticus 6:2]]). *Aaron and his sons* are commanded—other descendants are not commanded? Well, the explanation is that any priest who does not know the essence of worship like Aaron and his sons is not commanded. And if he serves, his worship is invalid, for what would his intention be—he is oblivious![^339]
+
+“This is what Rabbi Ḥiyya son of Rabbi Yitsḥak said: ‘Priests, Levites, and Israelites can all impede a sacrifice, but most vital for the offering is the priest. For he must contemplate the Holy Name, arranging its supernal rungs, uniting it in consummate union—so both upper and lower ones are arrayed according to their respective aspirations and intentions.[^340]
+
+“And thus said Rabbi Ḥiyya in the name of Rabbi Yitsḥak: What is the meaning of this verse: *a fire offering, an aroma pleasing to YHVH* ([[Torah 24 - Vayikra#^1-9|Leviticus 1:9]])? Parallel to those three rungs.[^341] [p. 148] **[ZḤ 82b]** ^zh-82b
+
+“*Fire offering*: Levites, for they are appointed for song—raising voice—coming from the side of *fire offering*. And they contemplate pattern, melody, and joyous song.[^342]
+
+“As a result, as long as he ascends the platform [82b] while still hale, and the blaze of fire within him is strong enough to lift his voice in pleasing melody, he is fit for service. When the flame of youth flags, and the coals of his pyre dim, then his potency is weakened, and his voice broken. Of this is written *From the age of fifty years he* [the Levite] *shall retire from the legion of service and serve no more* ([[Torah 36 - Beha'alotcha#^8-25|Numbers 8:25]])—his worship is invalid. From here on—*He shall serve his brothers… but service he shall not perform* (ibid., 26).[^343]
+
+“Heavenly watches, too, come to play music before their Master—called אישים (*ishim*), fires. And I heard the following in the name of Rabbi Shim’on son of Yoḥai: ‘These cadres—some appointed for outer gates, and some for inner ones, within. These inner ones intone in song, soaring, and entering five rungs with this song, up to fifty years—corresponding to the fifty gates of the Jubilee year.[^344] [p. 149]
+
+“‘Upon attaining this height, a blast of blazing fire takes them, smashing their power. Once their vigor is shattered, they are cast out, plummeting from those rungs. They stand outside, appointed to gates there. They take their portion from the smoke of the sacrificial fire, as opposed to those who take from within. For each and every day, others are inaugurated, appointed for singing.’[^345]
+
+“*Aroma*—corresponding to Israel. For when they pour forth their prayer, it is as precious before the blessed Holy One as the aroma of spices in the Garden of Eden.[^346]
+
+“*Pleasing*—providing balm on high. [Corresponding to] the priest who contemplates the pattern and aspiration of the Holy Name, forging a union of inscribed letters. All rungs shine, flare, and sparkle in celestial glow, from supernal, hidden depth.[^347] [p. 150]
+
+“Consequently, the priest must be enlightened with wisdom, distinguished in insight, distinguished with resplendence of Torah, most scrupulous and discerning of all. But, if he is an ignoramus, his worship is not worship. Of him is written *Fools have no standing in your sight* ([[Psalms 005#^5-6|Psalms 5:6]]).[^348]
+
+“Come and see: Slime of a Gentile, even if he has converted, is hard to slough. Such slime lasts for three generations—all the more so for one who has remained a Gentile. The best among them: Ruth—and no blemish was found in her at all. This is intellectual soul. Orpah, bestial soul, returned at once to her stench and degradation.”[^349]
+
+Rabbi Ḥidka came and kissed him, saying, “Few indeed are those among them whose slime has been removed.”
+
+Rabbi Nehemiah said, “It is written: *He* [*Solomon*] *set out a throne for the king’s mother* ([[I Kings 02#^2-19|1 Kings 2:19]])—this refers to Ruth the Moabite, who merited to see King Solomon on his throne.[^350] [p. 151] **[ZḤ 82c]** ^zh-82c
+
+“Just as her heart was complete, so did the blessed Holy One complete her days and years. This is as is written: *may you have* שלמה (*sheleimah*), *full recompense* ([[Ruth 2#^2-12|Ruth 2:12]])—*full*, actually! It is written and read שלמה (*sheleimah*), *full*, to teach that she witnessed King שלמה (*shlomoh*), Solomon, on his throne. This one saw her reward in this world and the world to come.[^351]
+
+“*And she left the place where she had been living, accompanied by her two daughters-in-law* (ibid. 1:7). After נשמה (*neshamah*), holy soul, intellectual soul, and bestial soul left the body, what did *neshamah* say? *Naomi said to her daughters-in-law, ‘Turn back, my daughters…’* (ibid., 8, 11). *But Ruth replied, ‘Do not urge me to leave you* (ibid., 16)—Orpah had *returned to her people and to her gods’* (ibid., 15). This is the way that one examines a convert to ensure that they will endure beneath the wings of *Shekhinah*—like Ruth with a perfect heart.”[^352] [82c] [p. 152]
+
+Rabbi Alexandrai opened, “*A certain woman, the wife of one of the sons of the prophets, cried out to Elisha*… ([[II Kings 04#^4-1|2 Kings 4:1]]). On this we have learned: This is the wife of Obadiah—appointed by Ahab, king of Israel. When Obadiah went to Elijah, Elisha recognized him.[^353]
+
+“You might say that Elisha had not yet begun to minister to him! In truth, he had already begun to serve him, but ‘that which is early and that which is late’ [applies here]. Of this is written *he feared YHVH greatly* ([[I Kings 18#^18-3|1 Kings 18:3]]; [[II Kings 04#^4-1|2 Kings 4:1]])—certainly Elisha knew him![^354]
+
+“*She cried out to Elisha* ([[II Kings 04#^4-1|2 Kings 4:1]]). When Obadiah had passed away and King Yehoram was coming to take his two children, what did she do? She wailed, sobbing on the way to the cemetery. She stood before his grave and cried out, ‘Fearer of *Elohim*, they are perpetrating such-and-such against the orphans!’[^355] [p. 153]
+
+“They told Obadiah, ‘Your wife is standing in the road, shrieking and weeping.’[^356]
+
+“What did he do? He went off to Hezekiah. The latter responded, ‘I have had enough of this world!’[^357]
+
+“He sought out the patriarchs and reported, ‘This is my plight.’ They told him, ‘We’ve already heard her howling at Elisha the prophet.’
+
+“By then she had returned, ululating and wailing at his grave, saying, ‘Fearer of God,’ as before. They told Obadiah, ‘Your wife is weeping and wailing…’
+
+“He said to her, ‘Woe, poor woman, go to Elisha!’[^358]
+
+“This concludes what we learned.
+
+“Come and see: How can they converse with each other in the grave? Aren’t their souls located elsewhere! *The secret of YHVH is for those who revere Him* ([[Psalms 025#^25-14|Psalms 25:14]]).”[^359]
+
+Rabbi Bun chanced upon him, and commented, “If a difficulty remains, one word is worth two, while silence is worth none.”[^360]
+
+He opened, saying, “[*With*] *my soul I desire You in the night;* [*with*] *my spirit within me I seek You at dawn* ([[Isaiah 26#^26-9|Isaiah 26:9]]). “[*With*] *my soul I desire You*—two clusters has the blessed Holy One infused within the human, to serve him in this world, and these are ורוחא‎ נפשא (*nafsha ve-ruḥa*), soul and spirit. נפש [p. 154] (*Nefesh*), Soul, sustaining the body with commandments, and arousing it. רוח (*Ruaḥ*), Spirit—arousing him with Torah, which guides him in this world. If these have descended upon him, even greater abundance will alight upon him from above, according to his desserts.[^361]
+
+“With these two—a person travels through the world—serving him. For the *nefesh* will not endure in the body without arousal of *ruaḥ* settled upon it.[^362]
+
+“When a person comes to serve and worship his Master with these two, he is awakened from above with holy arousal, which settles upon him, surrounding him on all sides. Then he is aroused by supernal wisdom, so that he can dwell in the palace of the King.[^363]
+
+“The arousal that rests upon him comes from a supernal place. What is its name? *Neshamah*. It stimulates man to repent. A powerful, supernal force, the power of repentance—mother to *ruaḥ*, and *ruaḥ* is son to her.[^364] [p. 155] **[ZḤ 82d]** ^zh-82d
+
+“Above *nishmeta* comes strength from a heavenly lover. What is its name? לנשמתא‎ נשמתא (*Nishmeta le-nishmeta*), Soul of soul—called father to *ruaḥ*. From there, fear is aroused in a person. These are Father and Mother, Son and Daughter. Father—י (*yod*); ה (*he*)—Mother; ואו (*vav*)—Son; הא (*he*)—Daughter. This is the consummate Name.[^365]
+
+“Just as there is *ruḥa* and *nafsha* on the left for the evil impulse, so on the right, there is *ruḥa* and *nafsha* for the good impulse. Of this is said *See, I have set before you life and good and death and evil* ([[Torah 51 - Nitzavim#^30-15|Deuteronomy 30:15]]). *Life and good*—of holiness. *Death and evil*—from the left side, of the evil impulse. This is hinted at in *from the tree of knowledge of good and evil* ([[Torah 01 - Bereshit#^2-16|Genesis 2:16]]). From the *good—you may eat* (ibid.); [82d] but from the *evil*—do not eat. One with understanding will understand.[^366] [p. 156]
+
+“Of upper ה (*he*), which is *nishmeta*, Mother, and of lower ה (*he*), Daughter, this verse is invoked: *Wisdom of women builds her house* ([[Proverbs 14#^14-1|Proverbs 14:1]]). *And Folly with her own hands destroys it* (ibid.)—bestial soul of the evil impulse. *With her own hands destroys it*—the body. דקודשא‎ רוח (*Ruaḥ de-qudsha*), A holy spirit, did the blessed Holy One bestow upon the human for service in this world, and *neshamah* for arousal for divine service.[^367]
+
+“When a person in this world sleeps in his bed, his spirit roaming and ranging, he yearns to ascend nightly. But how many archons stand at each and every vault![^368]
+
+“For Rabbi Neḥuniah son of Kanah said, ‘Son of Proud Ones described to me: “When I ascended to the first vault, I saw angels, seraphim, all appearing like torches—wheels of fire circling round them; their eyebrows like fiery coals; their teeth and eyes, sparks of fire; their garments, flashing fire.”[^369] [p. 157]
+
+“‘Above them all, a single officer—*Yahdumi* is his name. When I saw him, they said, “Who permitted one born of woman among us in this place!” I uttered the letters of the name when I saw that they sought to scorch me with their breath. They froze.[^370]
+
+“‘That great prince who is appointed over them asked me, “Who are you?”
+
+“‘I told him my name.
+
+“‘He said to me, “Oh, friend! All who dwell in the world pass through my hands each and every night when they lie down in their beds and submit their spirits to the Master of the Universe. At once those spirits spring from them, rising before Him. All those spirits are present before me, but I am denied permission to grant entry to any besides those who are inscribed before me—those who performed commandments that day. Yet, still we petition on their behalf and search after them.
+
+“‘I lifted up my eyes and saw 365 palaces, like the number of days of the sun. All on the eastern side with four gates to each and every palace. [How many] officers and ministers are appointed over them, all with a single visage! They are called Ministers of the East. [p. 158]
+
+“‘The same can be found on the southern side, except that on that side there was one gate far higher than all the others. I asked him about that gate, and he replied, “Woe, friend! Through this gate pass all those who suffer, all those who weep because of the oppression of the nations of the world, and all penitents—all entering through this gate.”[^371]
+
+“‘Above this gate a huge gate loomed before me, with ten gates around it. I inquired about it. He replied, “This gate—I have no authority over it, and it is opened only on the New Moon, Sabbaths, and festivals. At those times—at the onset of the Sabbath, New Moon, or festival, a voice blasts through all those heavens, proclaiming: *Open the gates, so that a righteous nation, keeping faith, may enter* ([[Isaiah 26#^26-2|Isaiah 26:2]]). This is so because all spirits that are in the Garden of Eden during all days of the week abide there, ambling about.[^372]
+
+“At the same time, in the same firmament that is above the earthly Garden of Eden, four windows are opened, inscribed with the four letters of the Ineffable Name, unique among heavenly treasures. All those spirits are garbed in precious garments in that Garden of Eden—in the very image that they had had in that world where they endured in a garment of flesh, [formed] from a putrid drop. When the windows are opened, they all strip off their garments, soaring upward, through those windows, rising to this place.[^373] [p. 159] **[ZḤ 83a]** ^zh-83a
+
+“‘Six winged ones—with many archons among them—open this gate. In all those ten, spirits enter with delight, flying upward. Similarly, through expanse after expanse in this fashion.[^374] [83a]
+
+“‘When those spirits ascend, other spirits descend, added among the living in this world. These ascend and those descend. From the very place that those descended, others are stationed—and the place is never empty.[^375]
+
+“‘When Sabbath departs—when the Jews recite *May the kindness of YHVH our God be upon us*… ([[Psalms 090#^90-17|Psalms 90:17]])—those spirits that descended on the Sabbath ascend. These ascend and those descend. These ascend to their place. On this matter, it is eternally thus.’”[^376]
+
+Rabbi Alexandrai said, “When a person passes from this world, the *neshamah* and the *nefesh* journey as one, as is said: *And they went, the two of them, until they reached Bethlehem* ([[Ruth 1#^1-19|Ruth 1:19]]).[^377] [p. 160]
+
+“*When they arrived in Bethlehem, the whole city hummed with excitement because of them*. [*The women*] *asked, ‘Could this be Naomi?’* (ibid.). For she had gone to that place filled with all kinds of bounty, brimming with Torah! A pillar of cloud above her head by day, and she was shown the Garden of Eden. A lamp over her head at night, and she was shown the place where the wicked are judged, as is said: *When His lamp shone over my head* ([[Job 29#^29-3|Job 29:3]]).[^378]
+
+“At that moment, the *neshamah* said, ‘*Do not call me Na’omi, she replied. “Call me Mara, for Shaddai has dealt very bitterly with me. I left full, but YHVH brought me back empty”* ([[Ruth 1#^1-20|Ruth 1:20–21]]). In this place, I was filled with all forms of abundance, but now *YHVH brought me back empty* to this world.’[^379]
+
+“*How can you call me Naomi, when YHVH has dealt harshly with me, when Shaddai has brought misfortune upon me!* (ibid., 21). For He has injected the evil impulse into me—the bestial *ruaḥ* and bestial *nefesh*, of which is said *Wisdom of women builds Her house, and Folly with her own hands destroys it* ([[Proverbs 14#^14-1|Proverbs 14:1]]). *Wisdom of women—Neshamah* and *nefesh* of holiness. *Folly*—bestial *nefesh* of the evil impulse, destroying the body through her folly. This is the one that remains in the body, as is said: *But the flesh upon him will ache, and his nefesh will mourn for him* ([[Job 14#^14-22|Job 14:22]]), for the two participated jointly.[^380] [p. 161]
+
+“A parable. To what may this be compared? To a king who appointed two sentries for his garden: one, lame; the other, blind. He said to them, ‘Take heed that you do not eat from the fruit of this garden, for I know all the fruit in it!’
+
+“What did they do? The lame one said to the blind one, ‘We both want to eat from the fruit of the tree.’ The blind one said, ‘I cannot see.’ The lame one said, ‘And I cannot walk.’ What did they do? The lame one rode upon the blind one, and they ate.
+
+“The king came and saw that that they had eaten from the fruit of the tree. He said to them, ‘Who ate this fruit? The blind one said, ‘I can’t see.’ The lame one said, ‘Look, I can’t walk.’
+
+“What did the king do? [He said to them,] ‘In the same way that you ate from the fruit, so shall be done to you!’ What did he do? The king said to his servants, ‘Since the lame one rode upon the blind one, strike them with lashes right here.’ Thus, the bestial *nefesh* from the evil impulse [will be judged] with the body.”[^381]
+
+Rabbi Azariah and Rabbi Ḥizkiyah were traveling on pilgrimage for the festival, a certain donkey-driver goading behind them. Rabbi Azariah said to Rabbi Ḥizkiyah, “Have you learned anything about the verse *I went down to the nut grove to see the new green by the brook* ([[Song of Songs 6#^6-11|Song of Songs 6:11]])? Words of Torah are compared to a nut. How?”[^382] [p. 162] **[ZḤ 83b]** ^zh-83b
+
+He replied, “As a nut has a shell and a kernel within, so do words of Torah have מעשה (*ma’aseh*), ritual action; מדרש (*midrash*), homily; אגדה (*aggadah*), legend—all of them—this within that; that within this.”[^383]
+
+He replied, “This is what I have heard concerning this: When King Solomon revealed the Song of Songs, the slime that the primal serpent injected into Adam and Eve ceased from the world. For when offspring of Adam and Eve came [83b] into the world, they issued from that slime.[^384] [p. 163]
+
+“So have we heard from our masters, and they heard it extending back to the mouth of Elijah, who said thus: ‘What is the meaning of the verse *And Adam knew Eve his woman, and she conceived and bore Cain; and she said, ‘I have got me a man with YHVH’* ([[Torah 01 - Bereshit#^4-1|Gen. 4:1]])? והאדם (*Ve-ha-adam*), *And the man*—Primal Adam. When the serpent copulated with Eve, he injected slime into her. Cain emerged from the side of that serpent—as it is the way of the serpent to slay and kill, so too did Cain immediately become a murderer.[^385] [p. 164]
+
+“This is as is said: *For from the stock of a snake there sprouts an asp, its offspring a fiery, flying serpent* ([[Isaiah 14#^14-29|Isaiah 14:29]]). *For from the stock of a snake*—Primal Serpent. *Sprouts an asp*—Cain, who slithered out from its stock and essence. *Its offspring a fiery, flying serpent*—for he became a murderer, like this fiery serpent, over whose wound no spell can be whispered. מעופף (*Me’ofef*), *Flying*—doubled, for the serpent’s species was already replicated.[^386]
+
+“And if you should say ‘He emerged from that slime? But it is said: *And Adam knew Eve his woman, and she conceived and bore Cain; and she said, ‘I have got me a man with YHVH’* ([[Torah 01 - Bereshit#^4-1|Genesis 4:1]])—actually! He came from Adam—and not from that slime!’[^387]
+
+“Well, that serpent injected slime into Eve—and that slime, which absorbed into her, rattled about in her womb. For there was no body to contain it, to [p. 165] usher that spirit into the world. When Adam came upon her, the slime was aroused by that seed, which provided substance for the evil body. The slime was in her womb—contained within it—and he emerged into the world, with a ruddier complexion than all the rest of humanity who followed him.[^388]
+
+“Moreover, the very seed that Adam injected to form a body was itself from the side of wickedness! The evil spirit was strengthened, materializing in the world. When she saw him, she said, ‘*I have got me a man* יהוה‎ את (*et YHVH*), *with YHVH*.’[^389]
+
+“When he brought a sacrifice, it too came from that side of evil, as is written: ימים‎ מקץ (*mi-qets yamim*), *at the end of days* ([[Torah 01 - Bereshit#^4-3|Genesis 4:3]]), and it is not written ימין‎ מקץ (*mi-qets yamin*), *the end of the right* ([[Daniel 12#^12-13|Daniel 12:13]]).[^390]
+
+“שת (*Shet*), Seth—foundation of the world, through the righteous and the pious who descended from him afterward.[^391] [p. 166]
+
+“שת (*Shin tav*)—consummation of the alphabet. From him onward, letters returned to the inverted sequence—ק‎ ר‎ ש‎ ת (*tav shin resh qof*).[^392]
+
+“With the denouement of the righteous and pious ones, until Noah arrived—the generation of the deluge who were all wiped out—when all of them had been wiped out, and Noah and his sons alighted from the ark, it is written: *from these, the whole earth spread out* ([[Torah 02 - Noach#^9-19|Genesis 9:19]]). Then the letters of the alphabet began to proceed in reverse sequence: ק‎ ר‎ ש‎ ת (*tav shin resh qof*). Then it is written *from these, the whole earth spread out*.[^393]
+
+“The entire world continued with the serpent’s slime until the people of Israel stood on Mount Sinai, and the letters returned to the proper sequence. But some remained inverted—one here and one there. Befouled, the letters were transformed into a different body; restored, the letters return to a different array.[^394] [p. 167]
+
+“Thus the world continued according to the mysteries of the alphabet, until Solomon arrived. When Solomon came, the letters stood in their posts. Then is written: *Solomon’s wisdom surpassed*… ([[I Kings 05#^5-10|1 Kings 5:10]]), and the moon abode in perfection. With this, Song of Songs was revealed in the world! Then he said, *‘I descended to the nut garden* ([[Song of Songs 6#^6-11|Song of Songs 6:11]]). As with a nut whose kernel is encountered only at the end, so too the world: until the shells were completed, the world subsisted in the kernel; and the moon, in completion.”[^395]
+
+The donkey driver said, “What do you say about, and how have you established the verse, as is written: *And they went, the two of them, until they reached* לחם‎ בית (*beit leḥem*), *Bethlehem* (Ruth 1:19)? לחם (*Leḥem*), *Bread*—Torah, as is written: *Go, eat your bread with joy* (Ecclesiastes 9:7). *When they arrived in Bethlehem, the whole city hummed with excitement because of them*. [*The women*] *asked, ‘Could this be Naomi?’* (Ruth 1:19)—one, and no more!”[^396] [p. 168] **[ZḤ 83c]** ^zh-83c
+
+Rabbi Azariah said, “Happy are you, O Israel, that even the empty among you are filled with Torah and good deeds!”[^397]
+
+The two of them dismounted. They said to him, “Have you heard something about this verse?”[^398]
+
+He said, “So have I heard: When the blessed Holy One desired to give the Torah to Israel, the tablets were written front and back, as is said: *on the one side and on the other* [83c] *they were written* ([[Torah 21 - Ki Tisa#^32-15|Exodus 32:15]]). One tablet, front and back; and the other tablet, right and left. This is as is said: *And the tablets, God’s doing they were; and the script, God’s script it was, engraved on the tablets* ([[Torah 21 - Ki Tisa#^32-16|Exodus 32:16]]).[^399] [p. 169]
+
+“Twice—why does it say twice מכתב‎ והמכתב (*ve-ha-mikhtav mikhtav*), *and the script… script*? Before Israel fashioned the calf, the blessed Holy One desired to give two Torahs to Israel—through Moses—inscribed on the tablets: *And the tablets, God’s doing they were*… והלוחות (*VH luḥot*), *And the tablets*—following the paradigm וה (*VH*)—one tablet. והמכתב (*VH mikhtav*), *and the script*—וה (*VH*).[^400]
+
+“והלוחות (*Ve-ha-luḥot*), *And the tablets*—יה (*YH*). אלהים‎ מעשה (*Ma’aseh elohim*), *Elohim’s doing, they were*—heavenly *Binah*.[^401]
+
+“*VH*—two arms.[^402]
+
+“מכתב‎ ה‎ ו (*VH mikhtav*), *VH script*—Jacob and Rachel, who are called sun and moon, are called two breasts, and are called one.[^403]
+
+“Of this is said *God’s script it was*, חרות (*ḥarut*), *engraved, on the tablets*. What is the meaning of *ḥarut*? Rather, the word should be read *ḥeirut, freedom*—from the Angel of Death, from the subjugation of kingdoms, and from all evil diseases of the world.[^404] [p. 170]
+
+“When they fashioned the calf, the letters flew off from two sides—front and back. I shall open for you a straight path that you might understand: Elimelech and Naomi, Mahlon and Ruth according to this array—two [tablets]. Elimelech and Naomi—one tablet, right and left. Mahlon and Ruth—front and back, another tablet. When the people of Israel produced the calf, Elimelech and Mahlon disappeared, but Naomi and Ruth remained—two women.[^405]
+
+“The two continued on, for they *had heard that YHVH had taken note of His people and given them bread* ([[Ruth 1#^1-6|Ruth 1:6]])—for He gave the Torah another time. *And they went, the two of them, until they reached* לחם‎ בית (*beit leḥem*), *House of Bread* (ibid., 19).[^406]
+
+“*The whole city hummed with excitement because of them* (ibid.). *Whole*—Righteous One. *The city*—Zion, city of David.[^407]
+
+“*They said, ‘Could this be Naomi?’* (ibid.). For when the Torah was given on Mount Sinai, it is written: *And all the people saw the thunderings and the lightning flashes*… ([[Torah 17 - Yitro#^20-15|Exodus 20:15]]). Then, Torah wailed, saying, *‘Do not call me Naomi… I went away full…’* ([[Ruth 1#^1-20|Ruth 1:20–21]])—of total joy, all worldly goodness, and freedom from subjugation of foreign kingdoms—and so she asked, *‘How can you call me Naomi?’* ([[Ruth 1#^1-21|Ruth 1:21]]).[^408] [p. 171] **[ZḤ 83d]** ^zh-83d
+
+“This is the secret of what the blessed Holy One said to Israel: ‘*and you will see My back, but My face will not be seen* ([[Torah 21 - Ki Tisa#^33-23|Exodus 33:23]]). When I wanted to give the Torah to Israel—right and left, front and back—they rejected it, fashioning the calf. Now that they desire, I do not.’”[^409]
+
+He said, “This is what I have heard: When the blessed Holy One wanted to give the Torah to Israel, He took the Written Torah and the Oral Torah to the other nations, but they did not want to receive them, until He brought them down for Israel on Mt. Sinai.[^410]
+
+“The ministering angels asked, ‘To whom does the blessed Holy One wish to give these two Torahs?’ He replied, ‘To Israel.’ The blessed Holy One said, ‘Even though I want to give them to Israel, their guarantors are [83d] infants and sucklings, and on their account these two Torahs will be aroused. This is as is written: *From the mouths of babes and sucklings You have founded strength* ([[Psalms 008#^8-3|Psalms 8:3]]).[^411] [p. 172]
+
+“It derives from there? In truth, it derives from here: *Whom will he teach knowledge? To whom will he explain a message? Those weaned from milk, taken from the breast*? ([[Isaiah 28#^28-9|Isaiah 28:9]]).
+
+“*Whom will he teach knowledge*?—Written Torah.
+
+“*To whom will he explain a message*?—Oral Torah.
+
+“*Those weaned from milk, taken from the breast*—on their account, Torah descended for Israel upon Mount Sinai.[^412]
+
+“Alternatively, *And they went, the two of them, until they reached Bethlehem* ([[Ruth 1#^1-19|Ruth 1:19]]). Where did they go? To the other nations, until they arrived at Mount Sinai, for Israel stood at Mount Sinai. When the Written Torah and the Oral Torah descended, immediately *the whole city hummed with excitement because of them*. [*The women*] *said, ‘Could this be Naomi?’* The whole world trembled. Then is said *all the people saw the thunderings and the lightning flashes* and *they said*, נעמי‎ הזאת (*ha-zot Na’omi*), ‘*This is Naomi!*—נעימו (*ne’imu*), sweetness of Torah!’[^413]
+
+“Until they arrived at Marah, as is written: *They came* מרתה (*Maratah*), *to Marah* (Exodus 15:23); and as is written: *There did He set him a statute and law, and there He did test him* (Exodus 15:25). Of this, Torah said *Call me* מרא (*Mara*), *Bitter*.”[^414] [p. 173]
+
+They carried him on their shoulders for three parasangs. They applied to him the verse *Like a pomegranate, the curve of your cheek* ([[Song of Songs 6#^6-7|Song of Songs 6:7]]). “Even empty ones of Israel are filled with Torah like a pomegranate!”[^415]
+
+He said to them, “Thus they were crowned with Torah, crowned with supernal, engraved names. When they made the calf, becoming defiled, while Moses was bringing the Torah—written upon heavenly stone tablets, filled with all goodness: freedom from the Angel of Death, freedom from the subjugation of kingdoms, and from all evil diseases of the world—when Moses saw the calf, the letters flew off, all soaring upward.[^416]
+
+“Then Torah wailed, saying, ‘*I went away full*—full of abundant goodness for Israel. Now I have returned, *empty*, useless, of no benefit to them.’ Then supernal [p. 174] beings shrieked, saying, ‘*Woe to them for straying from me* ([[Hosea 07#^7-13|Hosea 7:13]])! Woe to them for not abiding in faith with their Master!’”
+
+Rabbi Alexandrai continued his line of thought. For he said, “The soul and the body are partners together, traveling together in this world.[^417]
+
+“*Until they reached* לחם‎ בית (*beit leḥem*), *Bethlehem* ([[Ruth 1#^1-19|Ruth 1:19]]). Why is it so named? Because the court, accuser, and contention are there. Of this, *the whole city hummed with excitement because of them* (ibid.). All the dead trembled on their account, because of the disputations, and because of the judgments from the fracas.[^418]
+
+“For we have learned: The angel appointed over the cemetery enters the grave when one dies. He stands over the deceased, gazing, and says, ‘Woe to this poor person! Woe to the hands and feet that engaged in vanities of the world!’[^419]
+
+“The body says, ‘I cannot see!’ The body claims, ‘The soul leads me!’ The soul says, ‘And I don’t know how to walk!’ The two of them are like the parable of the lame one and the blind one. What does he do? He inserts the soul into the body and judges him for three [days], one after the other. After three days, he is judged—based on his mouth, his hands, and his feet.[^420] [p. 175] **[ZḤ 84a]** ^zh-84a
+
+“After that, the body [84a] bursts open, and maggots and worms rise up on it. The soul mourns over it, as is written: *But the flesh upon him will ache, and his soul will mourn for him* ([[Job 14#^14-22|Job 14:22]]). She says, ‘*I went away full* ([[Ruth 1#^1-21|Ruth 1:21]]), to that world, and *YHVH brought me back empty* (ibid.), to this world, without deeds and without Torah.’[^421]
+
+“Alternatively, the soul can be compared to *Shekhinah* and the body to Israel. It was Israel who sinned, so why was *Shekhinah* exiled there with them? She did not sin! Well, it is because anyone who is lavished with wealth and great honor, given all they desire—they would transgress. Of this is said *Jeshurun fattened and kicked—you fattened, you thickened, grew gross—and abandoned the God who had made him, and despised the Rock of his rescue* ([[Torah 53 - Ha'Azinu#^32-15|Deuteronomy 32:15]])—for this She was exiled with them.[^422]
+
+“Just as maggots and worms assail the body, so too when Israel behaves wickedly, the nations of the children of Ishmael and Esau—called ‘maggot’ and ‘worm’—rule over them. Then the body bursts—they kill the people of Israel. Of this: *But his flesh upon him will ache, and his soul* [*will mourn*] *for him* ([[Job 14#^14-22|Job 14:22]]). What does this mean? *His flesh*—upon them will ache. *And his soul will mourn*—for Israel. Then she pines for the heavenly *neshamah*, called Naomi.[^423] [p. 176] “*And they went, the two of them, until they reached Bethlehem* ([[Ruth 1#^1-19|Ruth 1:19]])—until the blessed Holy One gave the Torah to Israel. *The whole city hummed with excitement because of them* (ibid.)—*And all the people saw the thunderings and the lightning flashes*… ([[Torah 17 - Yitro#^20-15|Exodus 20:15]]). After the people of Israel made the calf, she wails, saying, *Do not call me Naomi, call me Mara… I went away full*… ([[Ruth 1#^1-20|Ruth 1:20–21]]).[^424]
+
+“Happy is the one whose learning is in his hands when he goes to his eternal rest—for even in his grave, his lips are astir. And they are *roses* ([[Song of Songs 5#^5-13|Song of Songs 5:13]])—do not read שושנים (*shoshanim*), [*his lips are like*] *roses*, but rather ששונים (*she-shonim*), [*his lips*] *reciting*, for his Torah shields him. This is as is written: *When you lie down, she will protect you* ([[Proverbs 06#^6-22|Proverbs 6:22]]).[^425] [p. 177]
+
+“This is like the case of Rabbi Ḥisda when he departed for his eternity. Rabbi Yose, his son, went and spent the night at his grave. He heard from within the tomb the delight of teeming bands who had gathered, saying, ‘Let us attend the joyous festival of Rabbi Ḥisda’s Torah.’ Even ministering angels assembled to unite with him!
+
+“He heard them saying, ‘Why do the living come to our place of delight here, let them study Torah in that world!’ [Rabbi Ḥisda] said to him, ‘My son, leave here and keep up your learning! Happy is the one who arrives here with his learning in his hands, for even the ministering angels cannot approach him. Go tell Rabbi Ḥaggai to complete his studies, for on such-and-such a day he is to come here.’[^426]
+
+“While speaking with him, Rabbi Ḥisda was taken up to the celestial academy. Rabbi Yose, his son, got up, and went to recount it to the Companions.[^427]
+
+“Rabbi Yudai said to him, ‘If you were not Rabbi Yose, you would have deserved punishment there!’[^428]
+
+“He replied, ‘It was out of anguish for my father that I went and heard all this.’ [p. 178] **[ZḤ 84b]** ^zh-84b
+
+“Rabbi Yonatan applied to Rabbi Ḥisda *You will lie down and your sleep will be sweet* ([[Proverbs 03#^3-24|Proverbs 3:24]]), as well as this other verse: *Sweet is the worker’s sleep, whether he eats little or much* ([[Ecclesiastes 05#^5-11|Ecclesiastes 5:11]]).”
+
+> *Now Naomi had a kinsman on her husband’s side, a man of* חיל‎ גבור (*gibbor ḥayil*), *powerful might, of the clan of Elimelech, whose name was Boaz* (Ruth 2:1).[^429]
+
+Rabbi Reḥumai opened, “גבור (*gibbor*), *Mighty, in the land his seed will be, the generation of the upright will be blessed* (Psalms 112:2). *Mighty in the land his seed will be*—happy is the one who is blessed with building in this world, so that he does not go on alone in that world. [84b] If not, he shall proceed hand to hand, and it is written: *Hand to hand, the evil one will not go unpunished* (Proverbs 11:21). *The secret of YHVH* is for those who revere Him (Psalms 25:14).”[^430] [p. 179]
+
+Rabbi Naḥman says, “This is as is said: *Now Naomi had a kinsman on her husband’s side, a man of* חיל‎ גבור (*gibbor ḥayyil*), *powerful might, of the clan of Elimelech, whose name was Boaz*; and it is written: *The man is kin to us; he is one of our redeeming kinsmen* (Ruth 2:20).”[^431]
+
+Rabbi Reḥumai asked, “If so, what is the meaning of *the evil one will not go unpunished*?”[^432]
+
+He replied, “This refers to the guardsman who whips sinners until he is given a surety; and if he is not given one, the guardsman’s flogging proceeds uninterrupted.”[^433]
+
+He said to him, “This is not the explanation. And there will be none until the arrival and revelation of the one who resuscitated a person—then you shall know this.”[^434] [p. 180] **[ZḤ 84c]** ^zh-84c
+
+Rabbi Zemira’ah went out to the fields of Ono. He saw, inside enclosed crevices, clustered flames ascending. He inclined his ear and heard voices. A certain Arab said to him, “Come with me, and I will show you strange things—hidden from humanity!”[^435]
+
+He went with him behind a boulder and saw other crevices with flames leaping upward. They heard other voices. He said to him, “Incline your ear here.” [84c] He inclined his ear and heard voices moaning, “Woe, woe!” He said, “Certainly this must be one of the locations of Hell.” The Arab went on, but he remained. [p. 181]
+
+Then he bent over in a different spot and saw a man howling. He was taken and placed in the depth of a compartment, concealed from view forever more.
+
+He slept, and saw the man in a dream. He asked him, “Who are you?”[^436]
+
+He replied, “He is a sinful Jew—there is no baseness or transgression in the world that he did not commit.”[^437]
+
+He asked him (in the dream), “What is your name?”
+
+He replied, “I don’t know, for sinners in Hell cannot remember their names.”[^438]
+
+He said to him, “Do you know the name of your place?”
+
+He replied, “Upper Galilee. I was a butcher there. On account of the many crimes I committed, the man is punished three times a day and twice at night.”[^439]
+
+[Rabbi Zemira’ah] picked himself up and went to the Upper Galilee. He heard the voice of a child reciting *If you seek it like silver, search for it like treasure, then will you understand fear of YHVH* ([[Proverbs 02#^2-4|Proverbs 2:4–5]]). He went to a different house of study and heard the voice of a different child, reciting *Seek righteousness, seek humility; perhaps you will be hidden*… ([[Zephaniah 2#^2-3|Zephaniah 2:3]]). He proceeded, continuing his investigation of the man.[^440]
+
+They said, “Let such-and-such befall that evil man, who left no earthly crimes or transgressions undone! Let such-and-such befall him and the child he nurtured!”
+
+He asked, “He left a child in the world?”
+
+They replied, “Yes, he left a son behind; and he is wicked like his father, for he is a child who goes off to the slaughterhouse.”[^441] [p. 182]
+
+He sought him out, took him, and studied Torah with him—until he had taught him Scripture, prayer, and *Shema*. Afterward, he taught him Mishnah, Talmud, laws, legends—until he became exceedingly wise: this is Rabbi Naḥum הפקולי (*ha-Pekuli*), the cotton dealer.[^442]
+
+Why did they call him *ha-Pekuli*? This is as is said: פליליה‎ פקו (*paqu peliliyyah*), *removes from judgment* ([[Isaiah 28#^28-7|Isaiah 28:7]]), for he אפיק (*aphiq*), extricated, his father from judgment in that world. Many of this generation’s greatest sages descended from him and are called *Pekuli*.[^443]
+
+He came to him in a dream, saying, “Rabbi, as you have consoled me, so shall the blessed Holy One console you. For from the day that my son knew one verse, they eased my punishment. When he was able to recite the *Shema*, my judgment by day and by night was lightened to a single occurrence. On the day that he recited [Torah] in the home of the rabbi, I was acquitted entirely.[^444]
+
+“On the day that he grew wiser and was called Rabbi, my throne was prepared among the righteous in the Garden of Eden—for every day that his speech renews Torah, he is crowned with the heavenly crown that adorns the [p. 183] righteous. On account of you, Rabbi, I have merited all this honor. Happy is the one who leaves a son who learns Torah in this world!”[^445]
+
+Rabbi Ḥiyya son of Abba said, “It occurred in the same fashion for Rabbi Akiva.”[^446]
+
+One day, Rabbi Natan asked Rabbi Yose son of Rabbi Ḥanina, “Did Elijah have a son?”
+
+He replied, “He is of a different nature altogether, as is written: *Do not touch My anointed ones; do not harm My prophets* (1 Chronicles 16:22). What is the meaning of תרעו‎ אל (*al tare’u*), *do not harm*? Don’t ever imagine yourselves רעים (*rei’im*), friends, or companions. The blessed Holy One chose them, separating them from Israel for His worship, and He brought them into His palace. Of one who is an angel in heaven, you would raise suspicions!”[^447]
+
+Rabbi Yoḥanan says, “He was from the tribe of Gad.”[^448] [p. 184]
+
+Rabbi Nehorai said, “Elijah was of a different nature, as is written: *Who has gone up to heaven and come down*? ([[Proverbs 30#^30-4|Proverbs 30:4]]).”[^449]
+
+*Who has gone up to heaven*—Rabbi El’azar said in the name of Rabbi Shim’on, “*Who has gone up to heaven and come down*? Elijah. *And come down*—beforehand. Thus, he was of a different nature.”[^450]
+
+This poses a quandary for Rabbi El’azar; for Rabbi El’azar also stated, “Elijah—he is Phineas.” If [you identify the two] on account of his being zealous for the blessed Holy One, this one was zealous and that one was zealous! But this is not the case, for Rabbi Eli’ezer said, “It is written: *I have been zealous, zealous indeed* ([[I Kings 19#^19-10|1 Kings 19:10]])—‘[I was zealous] in Shittim and I am zealous here!’ The blessed Holy One said to him, ‘For how long will you be zealous on behalf of My name?’”[^451] [p. 185] **[ZḤ 84d]** ^zh-84d
+
+Rabbi Yehudah son of Shalom said, “*Who has gone up to heaven*? Elijah, as is written: [84d] *Elijah ascended in a whirlwind to heaven* ([[II Kings 02#^2-11|2 Kings 2:11]]). וירד (*Va-yered*), *And come down*—Jonah, as is written: *Jonah* ירד (*yarad*), *went down, into the hold of the ship*… ([[Jonah 1#^1-5|Jonah 1:5]]), [and] *To the base of the mountains* ירדתי (*yaradeti*), *I went down* (ibid. 2:7).[^452]
+
+“*Who has gathered the wind in the hollow of his hands* ([[Proverbs 30#^30-4|Proverbs 30:4]])? Moses.[^453]
+
+“*Who has bound the waters in a garment* (ibid.)? Elisha, who healed the waters in Jericho. *In a garment*—with the power of Elijah’s garment.[^454] [p. 186]
+
+“*Who has established all the ends of earth* (ibid.)? Abraham. This is as is written: *These are the generations of heaven and earth* בהבראם (*be-hibbare’am*), *when they were created* ([[Torah 01 - Bereshit#^2-4|Genesis 2:4]])—באברהם (*be-Avraham*), *by Abraham*.[^455]
+
+“*What is the name* ([[Proverbs 30#^30-4|Proverbs 30:4]]) of the master who drew all these to his service? *YHVH Tseva’ot* is His name. *What is his son’s name* (ibid.)? Israel, as is written: *My son, My firstborn, is Israel* ([[Torah 13 - Shemot#^4-22|Exodus 4:22]]).”[^456]
+
+Rabbi Naḥman says, “All of these are speaking of the blessed Holy One.”[^457]
+
+Rabbi Nehorai and Rabbi Yudai happened upon each other under a tree in a field, and sat down. Soon, they saw a youth approaching, meandering in the field. Rabbi Yudai said, “Either that fellow is lost in the field, or he’s a bandit, or he is frightened of us.”[^458]
+
+Rabbi Nehorai said, “Who are you?”
+
+He replied, “Since I did not inquire of your welfare, you could not know who I might be. I am Jewish; and I am lost in this field—for all night I have been fleeing those who took me captive. I slipped away, but have been wandering in this field. I did not greet you for I thought, ‘They might be Gentiles,’ and it is written: *There is no peace—said YHVH—for the wicked* ([[Isaiah 48#^48-22|Isaiah 48:22]]). Thus, I did not make myself known to you until I saw the wings of commandment, and I was delighted! So now—peace unto you, rabbis!”[^459] [p. 187]
+
+They sat beneath the tree. Rabbi Yudai said, “Let us engage in worship of our Master, and let us open.”
+
+Rabbi Yudai opened, saying, “*You shall write them on the doorposts of your house and on your gates* ([[Torah 45 - Vaetchanan#^6-9|Deuteronomy 6:9]]). It is written: מזוזת (*mezuzat*), *doorpost*. Why?[^460]
+
+“Well, happy are Israel who are always ensconced within commandments—when they sit down, when they rise, and when they go on the way—as is written: *when you sit in your house and when you go on the way and when you lie down and when you rise* (ibid., 7). Israel should always be crowned with Torah and commandments, so that they might cleave constantly to the blessed Holy One, as is said: *You, cleaving to YHVH your God* ([[Torah 45 - Vaetchanan#^4-4|Deuteronomy 4:4]]). Whoever cleaves to his Master can never be harmed.[^461]
+
+“Not only this! Two ministering angels accompany him, one on his right and one on his left, as is written: *For His angels He will command for you, to guard you on all your ways* ([[Psalms 091#^91-11|Psalms 91:11]]). Not only this! If one is always ensconced in a commandment, the blessed Holy One, as it were, becomes his guard, as is said: *YHVH is your guard, YHVH is your shade at your right hand* ([[Psalms 121#^121-5|Psalms 121:5]]).[^462] [p. 188]
+
+“What does the blessed Holy One do? He takes the angel walking on his right and positions him in front, and He stands in the latter’s place; [He takes the one] on the left and that angel goes behind the person; and the blessed Holy One is on the right and the left. Thus one is protected on all sides—who could harm him!
+
+“Therefore one must never—even for a moment—be lacking a commandment. In one’s house, the blessed Holy One guards him on the outside while he is within. We have learned: Rabbi Yehudah son of Rabbi Yose said, ‘A doorway that bears a mezuzah: no demon—neither accuser nor evil spirit—can approach, because the blessed Holy One watches the doorway. Even when the destroying angel has permission to harm, he lifts his gaze and sees the name of the Omnipresent poised over the doorway, as it were—and He *will not allow the Destroyer to enter your houses to strike* ([[Torah 15 - Bo#^12-23|Exodus 12:23]]). Therefore, one should always be [enveloped] by a mezuzah.”[^463]
+
+Rabbi Nehorai opened regarding the passage on tzitzit, expounding, “*They shall make for themselves a tassel on the wing of their garments for their generations* [p. 189] **[ZḤ 85a]** ([[Torah 37 - Sh'lach#^15-38|Numbers 15:38]]). Why is it written here *for their generations*, and regarding Sabbath it is written *for their generations* ([[Torah 21 - Ki Tisa#^31-16|Exodus 31:16]])? For it is written: *celebrating the Sabbath* לדרתם (*le-dorotam*), *for their generations* (ibid.), written defectively.[^464] ^zh-85a
+
+“For we have learned: The recital of *Shema* was established, and the creation of humanity can be found in the passage of *Shema*. Excluding the passage regarding tzitzit, which is missing there [in the mezuzah scroll]. How is it completed? Well, when one is enwrapped [85a] with tzitzit and he emerges at his doorway, then his dwelling is completed.[^465]
+
+“Then the blessed Holy One rejoices, the Destroying Angel slinks away, and the person is saved from all harm and any destroyer. Thus לדורתם (*le-dorotam*), *for their generations*—so that דירתם (*diratam*), their dwelling place, shall be complete. Then, when he departs from the opening of his dwelling with the commandment, the Destroying Angel slinks away and the person is saved from all harm.[^466] [p. 190]
+
+“From where do we know this? From its written form—מזוזת (*mezuzot*), *doorposts*. Its letters demonstrate: מות‎ זז (*zaz mavet*), Death slinks off, for he is not given permission to attack, and he slinks away from the opening.[^467]
+
+“Regarding the Sabbath, the word is written [defectively] as לדרתם (*le-dorotam*)—what is the reason? Once the day has been sanctified, Jewish dwellings must have a lamp lit and the table set—dwellings arrayed like the dwelling of the groom to receive the bride. Who is she? Sabbath is the bride. She should be brought only into a home that is prepared for her glory, as is fitting. Of this is written *preparing the Sabbath* ([[Torah 21 - Ki Tisa#^31-16|Exodus 31:16]]), and then לדרתם (*le-dirotam*), *for their dwellings* (ibid.), to bring the holy Bride into their dwellings, so that She can be in their midst.[^468]
+
+“When the day is sanctified and the Bride comes but does not find one’s dwelling prepared, table set, and lamp lit, the Bride says, ‘This dwelling is not of Israel! It is written: *Between me and the Children of Israel* (ibid., 17)—this one is not of Israel, and his dwelling has no part in holiness.’ Thus, a Jewish dwelling needs a sign of holiness. This is why it is written לדרתם (*le-dirotam*), *for their dwellings*, regarding the Sabbath and tzitzit.”[^469]
+
+Rabbi Nehorai said, “I attest regarding one who leaves the gate of his home enwrapped in the commandment, with tefillin upon his head: when he emerges from between the two doorposts *Shekhinah* appears above him, along with the two angels who are designated for him—one on his right and one on his left—all escort him to the synagogue and bless him. A single accuser, stationed at one’s doorway, follows behind them—and is forced to respond, saying ‘Amen.’[^470] [p. 191]
+
+“זכור (*Zakhor*), *Remember* [*the Sabbath day*] (ibid. 20:8), and *Keep* [*the Sabbath day*] ([[Torah 45 - Vaetchanan#^5-12|Deuteronomy 5:12]]) are the essence of the entire Torah. *Remember* signifies the passage regarding mezuzah. And if you say that mezuzah refers to the Female, this is certainly so! But this passage (the passage of *remember*) is contained within the Female. And *keep* signifies tzitzit.[^471]
+
+“When one leaves the gates of his home, he emerges with tefillin—above, in the principle of *remember*. And tzitzit along with them, signifying *keep*. At the [p. 192] gate of his home, the principle of *remember*, and then the tzitzit complete him entirely. “It has been taught: *Remember* and *Keep* were uttered as one. But mezuzah—comprising both, principles of male and female as one.[^472]
+
+“Tefillin above, from the principle of *remember*; tefillin of the arm, from *keep*—each contained in the other. [The term] ‘making’ is written only regarding tzitzit, signifying *keep*. All proceeding as one.”[^473]
+
+The youth came forward, saying, “In a place with chiefs like these, who can speak!”[^474]
+
+He opened, saying, “*Now Naomi had a kinsman on her husband’s side, a man* חיל‎ גבור (*gibbor ḥayil*), *of substance, of the clan of Elimelech, whose name was Boaz* ([[Ruth 2#^2-1|Ruth 2:1]]). This scroll should have begun with none other than this verse![^475]
+
+“We have learned: When the blessed Holy One wanted to create the world, He spread out the world before Him, but it could not endure until He created *Teshuvah*.[^476] [p. 193]
+
+“He created the world and established it upon a single pillar. What is it? *The righteous one is the foundation of the world* ([[Proverbs 10#^10-25|Proverbs 10:25]]). As it were, the world was established [on his account].[^477]
+
+“What did He do? He created *teshuvah*. Once He created *teshuvah*, light sparked from it—and that light brightened, shining from one end of the world to the other. It was with this that He created the world. The blessed Holy One foresaw, seeing the wicked yet to come into this world, and He treasured it away. And for whom did He treasure it away? For the righteous in the time to come.[^478] [p. 194] **[ZḤ 85b]** ^zh-85b
+
+“If you say, since He was going to treasure it away in the future, why did He create it? Well, the explanation is that when the blessed Holy One created this light, He created it only for the sake of creating His world. When he looked and saw that the wicked would come in the future, He treasured it away. For whom did he treasure it away? For the righteous in the time to come.
+
+“Even today—even though the blessed Holy One has hidden it away—the world is sustained by it. By that one, you suppose! Actually, I would say on account of another light that emerges [85b] from it—and it is like a ray emanating from a great light, and on its account the world endures. This is Foundation of the World, as is said: *righteous one is the foundation of the world*.[^479]
+
+“From there, seed of David—peace be upon him—was planted and then emitted, as is said: *Seed* יעבדנו (*ya’avdennu*), *shall serve Him; it will be told of YHVH to the generation* [*to come*] ([[Psalms 022#^22-31|Psalms 22:31]]). All of David’s seed issued from this Righteous One. Similarly, *Everything YHVH made for His sake* ([[Proverbs 16#^16-4|Proverbs 16:4]]).[^480]
+
+“It is written: *Now Naomi had a kinsman on her husband’s side* ([[Ruth 2#^2-1|Ruth 2:1]]). This is where this scroll should have begun! Regarding the creation of the world (as we discussed above), there had been another, but it did not endure.”[^481] [p. 195]
+
+Rabbi Nehorai said to him, “Open your mouth, for these are new-ancient words, from the day that the world was created!” Then he asked him, “What is your name?”[^482]
+
+He replied, “I shall tell you afterward.”[^483]
+
+Rabbi Yudai said, “The *Shekhinah* is with us. Since we first saw you, I have been thrilled by you. Speak, my son, speak!”
+
+He said to them, “Ruth, Naomi, and Boaz—three of them in the image of sashed, exalted, enduring rungs. And the progeny of Ruth, from the midst of these images, was planted in the world.[^484]
+
+“Who is נעם (*no’am*), kindness? *Teshuvah. To gaze on* נעם (*no’am*), *kindness of YHVH* ([[Psalms 027#^27-4|Psalms 27:4]])—*Teshuvah* and the World that is Coming. *And to contemplate His palace* (ibid.)—another world, below.[^485] [p. 196]
+
+“Ruth—in the image of the lower world, saturating the blessed Holy One with songs and praises perpetually. רות (*Rut*), Ruth, like the name תור (*tor*), turtledove. As the turtledove has a unique song among all others, so Assembly of Israel has a song of praise unique among all other calls—praise of תור (*tur*), awakening.[^486]
+
+“The turtledove emits two calls as one: one high and one low—all as one. Assembly of Israel, too, arouses above and arouses below—all at once and with a single voice. This is as is written: *O Elohim, do not be silent! Do not be mute or quiet, O El!* ([[Psalms 083#^83-2|Psalms 83:2]]). *Do not be mute* from arousing above, and *do not be quiet* from arousing below—all as one.[^487]
+
+“*Boaz*—in the supernal array of Righteous One, guarding the covenant. He overpowered his impulse and was called [*a man of*] *powerful might* ([[Ruth 2#^2-1|Ruth 2:1]]), actually—he was a righteous one.[^488] [p. 197]
+
+“And do not say that one who draws close to Assembly of Israel is Righteous One, for it is written: *there is* [*another*] *redeemer closer than I* (ibid. 3:12). And who is that? Actually, there is a *redeemer closer than I*—primal Good of the entire Torah. *God saw the light, that it was good* ([[Torah 01 - Bereshit#^1-4|Genesis 1:4]])—this one is *closer*, for it precedes that Good that is called Righteous One. This is as is written: *Say of the righteous one that he is good* ([[Isaiah 03#^3-10|Isaiah 3:10]]). Of this: *If he will act as a redeemer, good will redeem* ([[Ruth 3#^3-13|Ruth 3:13]]), for he is *closer than I*. He initiated, for he preceded, arousing to embrace at the outset. Thus, He is *closer*.[^489]
+
+“*As for Naomi, known to her husband* [*was a man*] ([[Ruth 2#^2-1|Ruth 2:1]]).
+
+“It should not be stated in reference to him, for we have learned: the King who possesses Peace—who is His Peace? Righteous One.[^490] [p. 198] **[ZḤ 85c]** ^zh-85c
+
+“The explanation is that World that is Coming receives delight exclusively and is created exclusively from supernal Thought, poised above it. Here, too, Righteous One stands in precisely the same pattern as Thought. And what is his name? Elimelech, in the paradigm of ruling over Supernal King—World that is Coming. Similarly, Righteous One is *known to* and knows of him to provide delight, and to stand in relation to lower King according to that paradigm [85c]—actually![^491]
+
+“This one is called *Bo’az*—strength within him to absorb all delight of the body and all beauty of the body, infusing it there. What did he infuse? All seed of David, all royal adornments, and commandments of the Torah. Thus, strength within him, not weakness. Living eternally, to be *Bo’az*—taking all desires, all delights, and all beauty of the body, and bestowing them upon her.[^492]
+
+“Now Ruth begins to enter the world, bit by bit, until she is bonded with Boaz. Thus, the entire basis for this scroll derives from Naomi, Boaz, and Ruth.[^493] [p. 199] “It is written: *Enoch walked with God and he was no more, for God took him* ([[Torah 01 - Bereshit#^5-24|Genesis 5:24]]) from the midst of the world of mortals. Enoch was extended, bit by bit, until he became what he became—and he settled into his post, fittingly: Metatron the Great, Angel of the Presence. Before him heavenly rulers and attendants tremble, approaching him to acquire governance, and to extract from him powers and holy crowns.[^494]
+
+“Here too, according to the same paradigm, the blessed Holy One draws Ruth after Him, extracting her from among the nations, drawing her toward Him, causing troops and holy camps to issue forth from Her.[^495]
+
+“The blessed Holy One established Enoch’s role—when He took him from the land—to cleave to Him, and appearing with a crown of supernal spirit. He called him נער (*na’ar*), Youth; and on his account, each נערה (*na’arah*), *maiden* ([[Torah 49 - Ki Teitzei#^22-15|Deuteronomy 22:15]], [[Torah 49 - Ki Teitzei#^22-16|16]], [[Torah 49 - Ki Teitzei#^22-20|20]], [[Torah 49 - Ki Teitzei#^22-23|23–27]]), is written נער (*na’ara*).[^496] [p. 200]
+
+“Standing with him, from above and below: together with him—upper spirit; below, with that coalescence, and the latter is embraced from the side of Enoch which takes from below. Consequently, his rule is from two sides: adhering above and adhering below.[^497]
+
+“*Train the youth, according to his way; even when he is old he will not swerve from it* ([[Proverbs 22#^22-6|Proverbs 22:6]]). לנער‎ חנוך (*Ḥanokh la-na’ar*), *Enoch into Youth*—this is Metatron, conveyed by the blessed Holy One from below, and governing through him over lower ones. *According to his way*—according to his conduct below.[^498]
+
+“*Even when he is old*—as is written: *I have been* נער (*na’ar*), *Youth; I have also been old* ([[Psalms 037#^37-25|Psalms 37:25]]). We have learned: ‘This verse was uttered by the Prince of the World.’ Of this is written *even when he is old he will not swerve from it*—he will not swerve from that path, in order to continue drawing downward.[^499]
+
+“Up to here, I have heard from Rabbi El’azar son of Rabbi Shim’on, who explained it all in this fashion. Now it can all be understood.”
+
+Rabbi Nehorai and Rabbi Yudai wept, saying, “If one sees a lion’s tail, one trembles; all the more so, one who sees the lion itself!” They rose and kissed him.[^500] [p. 201]
+
+He said to them, “My name is Rabbi Yeisa the Younger.”[^501]
+
+They replied, “This must be true, since Rabbi Yeisa said that he was always nestled in the fragrant dust of Rabbi Shim’on son of Yoḥai!”[^502]
+
+Rabbi Nehorai opened, expounding: “*Your palate is like fine wine—flowing to my beloved smoothly* ([[Song of Songs 7#^7-10|Song of Songs 7:10]]). *Your palate*—scholars, for they are like fine wine. Just as fine wine stands in one place and its aroma travels afar, so it is with scholars: they are in one place and their Torah travels everywhere. Even when they are in the grave, their lips murmur their Torah, as is written: *stirring the lips of sleepers* (ibid.). All the more so in a place where the pillars of the world stand; all the more so, for even ministering angels cannot stand before them![^503]
+
+“Once there was a plague in Lydda. Rabbi Shim’on son of Yoḥai came to the place. They asked him, ‘What shall we do?’ He got up and toured the town, and he saw people dying. He exclaimed, ‘All this in the town when I am here! I decree its annulment!’
+
+“They heard a voice saying, ‘Neither here nor on camel basket saddles, for Rabbi Shim’on son of Yoḥai is here; the blessed Holy One decrees—and he annuls!’”[^504] [p. 202]
+
+Rabbi Ḥanina was there; and he related it to Rabbi Me’ir, who spoke his praises: “Who could rise above him? Is he not greater than Moses!”[^505]
+
+He opened, saying, “*Moses said to Aaron, ‘Take the fire-pan and place fire upon it from the altar and put in incense*…’ ([[Torah 38 - Korach#^17-11|Numbers 17:11]]). And it is written: *And Aaron took*… (ibid., 12) and *the plague had begun*… (ibid.). And it is also written *He stood between the dead and the living, and the plague was halted* ([[Torah 38 - Korach#^17-13|Numbers 17:13]]). Moses had to expend all this effort, but for Rabbi Shim’on son of Yoḥai—the blessed Holy One decrees, while he abolishes death.”[^506]
+
+Rabbi Yeisa said to him, “Since I have been aroused by these words of wisdom, [let me restate that] Ruth was fit!”[^507]
+
+Rabbi Yudai responded, “Even though she was fit, her suitability was not apparent until she clung to that righteous one. Come and see: Ruth was most fit among all the nations. What did Boaz say to her? *Don’t go to another field, but stick here close to* נערותי (*na’arotai*), *my maidens* (Ruth 2:8). What did she report? *He even told me, ‘Stay close by my* נערים (*na’arim*), *youths’* (ibid., 21). Once her mother-in-law saw this, she told her, ‘That’s incorrect. *It is best, daughter, that you go out with* נערותיו (*na’arotav*), *his maidens* (ibid., 22), and not with the youths.’”[^508] [p. 203]
+
+Rabbi Yeisa said, “God forbid that such slander be spoken against this righteous woman! She was fit, for this is what Rabbi Shim’on has said: ‘It is written: *Listen, my daughter. Don’t go to glean in another field* (ibid., 8). What was written previously? *Ruth said, “Let me go to the field and glean among the ears of grain”* (ibid., 2). This teaches that holy spirit sparkled within her. *Let me go to the field*—which field did she scrutinize with great faith? Which field was it? The *field blessed by YHVH* ([[Torah 06 - Toldot#^27-27|Genesis 27:27]]), the Field of Apples.’[^509]
+
+“What is the meaning of מקרה‎ ויקר (*va-yiqer miqreha*), *as it happened* ([[Ruth 2#^2-3|Ruth 2:3]])? Regarding Balaam, it is written: אלהים‎ ויקר (*Va-yiqqar Elohim*), *God happened upon Balaam* ([[Torah 40 - Balak#^23-4|Numbers 23:4]])—a term of defilement and impurity. Here it was changed, saying *Va-yiqer miqreha, as it happened*, terms of honor. This is as is written: *How* יקר (*yaqar*), *glorious, is your faithful care, O Elohim* ([[Psalms 036#^36-8|Psalms 36:8]]).[^510] [p. 204]
+
+“Which glory did she encounter? *Parcel of land* ([[Torah 08 - Vayishlach#^33-19|Genesis 33:19]])—a parcel of the field of the righteous. She had gone there, entering into a particular section, learning its way, becoming expert in it from those reapers. Who are they? Scholars, called ‘reapers of the field.’[^511]
+
+“Meanwhile, *presently, Boaz arrived* ([[Ruth 2#^2-4|Ruth 2:4]]). Look, righteous one arrived, laden with blessings and bountiful sanctifications. *And he greeted the reapers* (ibid.)—who were these reapers? Heavenly court, Great Sanhedrin above. *‘YHVH be with you!’* (ibid.). Now he bestows blessings from holy ones. And they responded, *‘YHVH bless you*’ (ibid.), granting him power to draw from Source of Life, from the midst of World that is Coming.[^512]
+
+“*Whose maiden is that*? (ibid., 5)—longingly, he inquired after her, out of love.[^513] [p. 205] **[ZḤ 86a]** ^zh-86a
+
+“This is what the Holy Lamp, Rabbi Shim’on, said: ‘This scroll alludes to Written Torah, Oral Torah, and the World that is Coming. She arouses the mystery of Written Torah so the righteous can bond with Oral Torah. Thus it was ordained that this scroll be read on Shavu’ot, occasion of the giving of the Torah.’[^514]
+
+“*Listen, my daughter. Don’t go to glean in another field* (ibid., 8). These are holy chariots selected for us by holy Jacob—flocks unmingled with others, as is written: *He set his own herds apart and did not put them with Laban’s flock* ([[Torah 07 - Vayetzei#^30-40|Genesis 30:40]]). Of this: *Don’t go to glean in another field*, and don’t be aroused by another kingdom or other chariots. *And don’t go away from here* ([[Ruth 2#^2-8|Ruth 2:8]]) with these crowns of yours—don’t ever leave. *From here*—don’t leave your husband, don’t ever leave him.[^515]
+
+“*Stay* כה (*khoh*), *here, close to my maidens* (ibid.). She has many names, and *khoh* is one of them. *Khoh*—as is written: *Your devoted ones* כה‎ יברכו (*yevarekhu khoh*), *will bless here* ([[Psalms 145#^145-10|Psalms 145:10]]). *Stay khoh*—with these chariots, maidens selected for you [86a] to cleave to.[^516] [p. 206]
+
+“Just then, *he measured out six* [*measures of*] *barley, and he put it on her* ([[Ruth 3#^3-15|Ruth 3:15]]). He took המדה‎ קו (*Qav ha-Middah*), Ray of Measurement, and measured. He measured out six sides that were appropriate for Her to bond with their unity. He provided Her with presents and gifts—for without these, She would be unable to enter World that is Coming. This is as is said: *These six* [*measures of*] *barley he gave me, saying, ‘Do not go back to your mother-in-law empty’* (ibid., 17). These *six* [*measures of*] *barley*—six sides presided over by World that is Coming.[^517]
+
+“שעורים (*Se’orim*), [*measures of*] *barley*, as is written: *Lift up your heads*, שערים (*se’orim*), *O* [*measures of*] *barley* ([[Psalms 024#^24-7|Psalms 24:7]]). *He put it on her*—he placed them upon Her to guide Her and bless Her. Thus She is the כלה (*kallah*), bride—כלולה (*kelulah*), comprised, of all six sides.[^518] [p. 207]
+
+“Consequently, when World that is Coming saw Her with all these six sides, she exclaimed, יהי (*yehi*), *Let there be. The one who noticed you is* ברוך (*barukh*), *blessed* ([[Ruth 2#^2-19|Ruth 2:19]]). Who is *Barukh*? Solomon, King who possesses peace. Of this: *King Solomon* ברוך (*Barukh*), *Blessed* ([[I Kings 02#^2-45|1 Kings 2:45]]). Be blessed with this name henceforth, since You have been blessed by all these six sides. Then She—World that is Coming—gave Her additional blessings over and above those She had. This is as is written: *she took out and gave her extra* משבעה (*mi-shiv’ah*), *from the seven* ([[Ruth 2#^2-18|Ruth 2:18]])—surfeit of sanctifications and blessings.[^519]
+
+“*He even told me, ‘Stick close by my youths’* ([[Ruth 2#^2-21|Ruth 2:21]]). Her desire: to cleave perpetually to the *youths*—holy cherubim. For all Her longing was for them. This teaching is a holy mystery.[^520] [p. 208]
+
+“You might say she spoke falsely, for he had said *with my maidens* (ibid., 8), and not *with the youths* (ibid., 21)! But the explanation is, the name *Koh* is named so only when aligned over two cherubim to receive blessings through the mystery of twenty-five letters of unification. They are אחד‎ יהוה‎ אלהינו‎ יהוה‎ ישראל‎ שמע (*Shema Israel YHVH Eloheinu YHVH eḥad*), *Hear, O Israel! YHVH our God, YHVH is one* ([[Torah 45 - Vaetchanan#^6-4|Deuteronomy 6:4]]). Twenty-five letters of unification through the alignment of cherubim—once they are arranged with them, then She is called *Koh*, and then it says *stick close to Khoh* ([[Ruth 2#^2-8|Ruth 2:8]]). Together with all this, *with my maidens*—all are necessary—abandoning neither males nor females.[^521]
+
+“*And also don’t go away from this* (ibid.). Rav Yeiva Sava said, ‘This teaches that he showed her cherubim. It says in the Book of Adam that even though the Temple was destroyed, She should never stray from one particular cherub. Like the supernal configuration—once the Temple was destroyed, only one cherub was seen—she too should follow this array. This is as is written: *and also don’t go away from this*—never abandon one of these! This is why she said *to the youths*—these two cherubim—*stick to them* (ibid., 21), actually! So too with the female chariots, as is said: *Let your eyes be on the field they are reaping, and follow after them* (ibid., 9).[^522] [p. 209]
+
+“This verse is ripe for interpretation. In truth, *your eyes*—these are *the eyes of YHVH, ranging over the whole earth* ([[Zechariah 04#^4-10|Zechariah 4:10]])—*on the field they are reaping*. Since they range over the whole earth, *follow after them*—to understand.[^523]
+
+“For *I have ordered the youths not to interfere with you* ([[Ruth 2#^2-9|Ruth 2:9]])—for the youths’ desire to suckle from Her never abates, as is written: *that you may draw from her bosom, and take delight in her glory’s gleam* ([[Isaiah 66#^66-11|Isaiah 66:11]]). When She follows after the eyes to survey all activities of the world, these cherubim neither approach Her, nor do they arouse to suckle from Her.[^524]
+
+“*If you are thirsty, go to the vessels* ([[Ruth 2#^2-9|Ruth 2:9]]). *If you are thirsty*—when You yearn to suckle from the mystery of the upper world, do so when aroused by the cherubim; for She can be aroused only toward the upper realm by the cherubim. On account of them, She drinks the heavenly potion, as is written: *and you shall drink* מאשר (*me-asher*), *from that, which the youths have drawn* (ibid.)—these are the cherubim.[^525]
+
+“*To the jars* (ibid.)—supernal founts, replete from the beginning. *And you shall drink*—when cherubim below arouse. *From that which the youths have drawn*—from supernal cherubim, called Great Faces.[^526] [p. 210] **[ZḤ 86b]** ^zh-86b
+
+“Up to here is lore of hidden words [86b] and supernal holiness—concealed matters in this scroll. Everything according to the supernal image and hidden secrets.”
+
+They rose and kissed him. They exclaimed, “Happy is the generation that merits all this—to learn holy words, words of supernal wisdom—from the Holy Lamp! Of this is written *Happy is the person who finds wisdom, the person who attains understanding* ([[Proverbs 03#^3-13|Proverbs 3:13]]).”[^527]
+
+They asked him, “Of this other verse, have you heard the essence of its wisdom? For we know only how to expound upon it homiletically.”[^528]
+
+He replied, “Which one?”
+
+They said, “It is written: *Boaz said to her at mealtime, ‘Come over here and partake of the meal, and dip your morsel in the vinegar’* ([[Ruth 2#^2-14|Ruth 2:14]]).” He replied, “I have heard something.”
+
+He opened, saying, “*Hear the word of YHVH, you who tremble at His word: Your brothers who hate you—who ban you—have said: ‘Because of my name, YHVH will be glorified.’ But we will see your joy, while they will be put to shame* ([[Isaiah 66#^66-5|Isaiah 66:5]]). This verse was established by Rabbi El’azar: *Hear the word of YHVH*. What is added by *you who tremble at His word*?[^529]
+
+“The explanation is that *word of YHVH* is always rung of Faith, except in those instances where it is written *Hear the word of YHVH*. That term emanates [p. 211] from the rung called *word of YHVH*, rung hovering above. *Hear the word of YHVH*—a term that issues from it, such as *Hear the word of YHVH, O nations* ([[Jeremiah 31#^31-10|Jeremiah 31:10]]), a term issuing from that rung.[^530]
+
+“*Who tremble at His word*—that rung, actually! Who *tremble*? Israel, always trembling on account of that *word*. חרדים (*Ḥareidim*), *Trembling*—numerous tremblings among the nations. *Trembling*—numerous tremblings in order to perfect it, that *word*.[^531]
+
+“*Your brothers who hate you have said*—descendants of Esau and descendants of Ishmael. *Who ban you*—who bans whom? Really, they are banned by you, for you neither eat with them, nor drink with them, nor are you familiar with them. Thus, they are under your ban![^532]
+
+“Another teaching: *Who ban you*—in your exile, as is written: ‘*Go away! Impure!’ They shouted at them* ([[Lamentations 4#^4-15|Lamentations 4:15]]). Since they say, *‘For my sake YHVH will manifest His presence!’* ([[Isaiah 66#^66-5|Isaiah 66:5]]). Because of us—because of our souls—*YHVH will manifest His presence*. All His glory is due to us! While [Israel] arouses, daily awaiting the delight of redemption by the blessed Holy One, they have no faith at all, saying *so that we may see your joy* (ibid.)—at the time that [p. 212] this delight of yours descends. *But they will be put to shame* (ibid.)—like one ascribing his own corruption to another.[^533]
+
+“In a threshing chamber, there was a certain wealthy man coming from the side of wine’s lees. He is one and they are two, but they are as one with all crowns and names of holy faith. All of this can be found in its evil inversion, the ones who stand perpetually at the door of the king’s dwelling, outside the mystery of faith. *Word of YHVH* is called Name of Goodness. This is as is written: שם‎ טוב (*tov shem*), *Name of Goodness* ([[Ecclesiastes 07#^7-1|Ecclesiastes 7:1]])—*YHVH* is *Goodness*.[^534]
+
+“On the evil side—two—male and female, joined as one. Their names, evil inversions: אחרים‎ אלהים (*Elohim Aḥerim*), Other Gods; אחר‎ אל (*El Aḥer*), Other God; רע‎ שם (*Shem Ra*), Evil Name. The female is so called when bonded with the male; and he bonds with her, never separating.[^535]
+
+“They are appointed over the other nations, but not because of their names—even though She wanders and is distant from Him, while with them in exile. [p. 213] **[ZḤ 86c]** And they are unaware that it is through Holy Name that they are strengthened, for She nourishes and fortifies Evil Name with the transgressions of Israel. This is as is said: *They made me guardian of the vineyards* ([[Song of Songs 1#^1-6|Song of Songs 1:6]]). Even when Holy One of Faith governs, She provides a portion—bone to the dog. From here the wicked are nourished.[^536] ^zh-86c
+
+“What is written? *Boaz said to her at mealtime* ([[Ruth 2#^2-14|Ruth 2:14]])—when She is consummated from the midst of lower ones and upper ones. From those below—through sacrifices, burnt offerings, prayers, and the longing of will soaring upward from lower ones. From those above—through preparations of food, delight, and desire by chariots and cherubim. That is *mealtime*.[^537]
+
+“Then desire of Righteous One is exclusively for Her, and She is arrayed upon Her chariots. What did He say to Her? *Come over here* (ibid.) [86c]—with royal ornaments from Supernal King. *Partake of the meal* (ibid.)—You shall receive food, will, and holy nourishment to distribute to Your holy legions, above and below.[^538]
+
+Notwithstanding all this, *dip your morsel in the vinegar* (ibid.). On high there is a dipping in vinegar of the left side, to suckle the demonic side and to feed the other nations, so that they can be nourished from it. *He handed her roasted grain* (ibid.)—food that issued from fire of the left side to provide food and nutriments for all, even for the dogs—all those that issue from and spread out [p. 214] from that Other Side, side of impurity. Then *she ate and was sated and had some left over* (ibid.). *She ate and was sated*—from that holy food. *And had some left over*—from that other slop, coming in dribs and drabs—leftovers after satiation. *And had some left over*—He prepared scraps for Her as food for the Other Side.”[^539]
+
+Rabbi Nehorai and Rabbi Yudai rejoiced, saying, “If we had come into the world only to hear these words, it would suffice!”
+
+> *Boaz ate and drank*, לבו‎ וייטב (*va-yiytav libo*), *and his heart was glad* (Ruth 3:7).[^540]
+
+What is the meaning of *his heart was glad*? Rabbi Ḥizkiyah said, “This teaches that he recited Grace after Meals—he blessed the place called Heart.”[^541]
+
+Rabbi Neḥemiah opened, “*When you have eaten and are satisfied, you shall bless YHVH your God* ([[Torah 46 - Eikev#^8-10|Deuteronomy 8:10]]). *When you have eaten and are satisfied*—whoever eats and drinks without reciting Grace after Meals is called a destroyer and a thief, as is said: *He who robs his father and mother and says, ‘It is no crime,’ is partner to a destroyer* ([[Proverbs 28#^28-24|Proverbs 28:24]]). For we have learned: ‘Whoever derives enjoyment from this world without reciting a blessing, it is as if he robs the blessed Holy One and Assembly of [p. 215] Israel, as is said: *He who robs his father and mother and says, “It is no crime,” is partner* משחיט‎ לאיש (*le-ish mashḥit*), *to a destroyer*.’”[^542]
+
+Rabbi Yehudah said, “*He is partner* to Jeroboam son of Nebat שהשחיט (*she-hishḥit*), who corrupted, Israel before their Father in heaven.”[^543]
+
+Rabbi Yudai said, “Great is Grace after Meals, for it adds power above.”[^544]
+
+Rabbi Ḥanina said, “Great is Grace after Meals, for it adds blessing to human handiwork.”[^545]
+
+Rabbi Bun and Rabbi Yose son of Rabbi Ḥanina journeyed on the way to redeem hostages. They happened upon a certain place, where they slept in a particular inn. At midnight, they rose to study Torah. The woman of the house rose and kindled a lamp for them. As they sat down, she sat behind them to hear words of Torah. Rabbi Bun noticed the woman of the house behind him—the innkeeper—and took note of her.[^546] [p. 216]
+
+One of them opened, saying, “*YHVH’s lamp is the human soul, searching all the inward chambers* ([[Proverbs 20#^20-27|Proverbs 20:27]]). *YHVH’s lamp is the human soul*—actually! As a lamp shines through gloom, so does the human soul illuminate the body.” He said further, “Through three things does a woman acquire merit: laws of menstrual impurity, [separating a portion of] dough, and kindling the lamps—all these we have learned.”[^547] [p. 217] **[ZḤ 86d]** ^zh-86d
+
+Meanwhile, he turned his head and saw that the woman was weeping. Her father rose and sat among them.
+
+Rabbi [Bun] asked him, “Why is your daughter crying?”
+
+He replied, “Because her husband has not succeeded to learn Torah. He is a youth, eighteen years old, and he doesn’t even know Grace after Meals! Nor have I been able to teach him.”
+
+He said, “If so, why not exchange him for another? And, why did you give him to your daughter?”[^548]
+
+He replied, “I didn’t know him at all, until one day I saw that he leaped from a roof down to the ground, just to hear a single *Qaddish*. I vowed to myself that I would betroth my daughter to him. I came out of the synagogue, gave him my daughter, and I didn’t worry about anything else, nor did I examine further. And now, it turns out, that he doesn’t know a single word of Torah, nor does he wish to learn anything!”[^549]
+
+Rabbi Bun said to him, “Perhaps he will merit to have a son who will teach him Torah in abundance.”[^550] [86d] [p. 218]
+
+Meanwhile, the youth had risen from his bed and leaped toward them, sitting in their midst. Rabbi Bun gazed upon him. He said, “I can see from his face that a mighty beacon of Torah shall beam from this young man!”[^551]
+
+The youth opened, saying, “*I am young in days, and you are aged; therefore I was fearful and dared not declare my own opinion* ([[Job 32#^32-6|Job 32:6]]). Then he opened, speaking about Grace after Meals. He said, “Since you’ve asserted that I don’t even know the Grace after Meals, let me tell you some well-known teachings pertaining to the Grace after Meals.[^552]
+
+“First: The table should be set in keeping with one’s means. But one who has limited food and sets the table amply nevertheless is praiseworthy, for he is sitting to eat before the King, as is written: *you shall eat before YHVH* ([[Torah 47 - Re'eh#^14-23|Deuteronomy 14:23]]).[^553]
+
+“Second: Laving hands before eating. One who eats without laving his hands is like one who has eaten impure food.[^554]
+
+“Third: When laving hands, the right laves the left and the left serves the right. One must lave the hand up to the joint, as enacted by the rabbis.[^555] [p. 219]
+
+“Fourth: After laving, the hands should be raised when reciting the blessing, linking arms as one when the hands are raised.[^556]
+
+“Fifth: One must recite the blessing for this laving.[^557]
+
+“Sixth: One should give of one’s bread to the poor.[^558]
+
+“Seventh: Recite the blessing ‘המוציא (*ha-motsi*), who brings forth [bread from the earth],’ carefully enunciating the ה (*he*). It is forbidden to eat without a blessing.[^559]
+
+“Eighth: “Eating at one’s table, one should be neither a gorger nor a glutton, but rather like one eating before a king.[^560]
+
+“Ninth: Words of Torah must be spoken at the table. For one dining alone—with no one to discuss Torah—reciting blessings will suffice.[^561]
+
+“Tenth: Final waters is an obligation, not a requirement. The blessing that one recites—since one’s hands are filthy on account of the food—is ‘on the rinsing of hands.’[^562] [p. 220]
+
+“All ten of these are required before Grace after Meals, and each and every one has a rationale from the celestial academy. Now I shall review them.
+
+“First: The table should be set for one’s food in honor of the King who provides food to sustain the body. This is as we have learned: ‘Providing human sustenance is as difficult for the blessed Holy One as splitting the Red Sea.’ Why so difficult? Well, the explanation is that food comes only from Judgment, but the blessed Holy One passes over judgment and feeds the wicked—both those who are worthy and those who are not. The blessed Holy One feeds all, from the horns of wild oxen to the eggs of lice.[^563]
+
+“*Shekhinah* comes first and looks upon each and every one of the people of Israel, as is said: *This is the table that is before YHVH* ([[Ezekiel 41#^41-22|Ezekiel 41:22]]). *Before YHVH*—actually! And it is written: *and you shall eat before YHVH* (Deuteronomy [p. 221] **[ZḤ 87a]** 14:23). Therefore, during the week, one’s table should be set and not set, but on the Sabbath it requires something extra—modification for enhancement.[^564] ^zh-87a
+
+“Second: Laving one’s hands before the meal. What is the explanation? It is because eating calls for cleanliness just like the ministering angels above. For this is as Rav Hamnuna Sava said, ‘What is the meaning of *Man ate the bread of the mighty* ([[Psalms 078#^78-25|Psalms 78:25]])? Bread eaten by the ministering angels. What is adduced from this? As the ministering angels eat in holiness, purity, and cleanliness, so should the Jewish people eat in holiness and cleanliness. This is as is written: *You shall sanctify yourselves* ([[Torah 26 - Shmini#^11-44|Leviticus 11:44]])—first waters. *And be holy* (ibid.)—final waters. *For holy* (ibid.)—fine oil. *Am I, YHVH* (ibid. 20:7)—Grace after Meals.’[^565]
+
+“Further, whoever eats without laving his hands, Attribute of Suffering will rest upon him and will constitute his meal [87a]—impurity. As for *Shekhinah*, what does She say? *Do not eat* עין‎ רע‎ לחם (*leḥem ra ayin*), *bread from Evil Eye, nor desire its delicacies* ([[Proverbs 23#^23-6|Proverbs 23:6]]). What is עין‎ רע (*ra ayin*), *Evil Eye*? הרע‎ יצר (*Yetser ha-ra*), Evil impulse. Thus whoever eats without laving his hands, that food becomes *bread from Evil Eye*.[^566] [p. 222]
+
+“This follows Rav Hamnuna Sava’s teaching: Two attributes stand before a person’s table—one, Attribute of Goodness; the other, Attribute of Evil. If a person sanctifies his hands and recites the blessing, Attribute of Goodness declares: ‘This is the table of the blessed Holy One!’ and rests its hands upon his head and says, ‘You are my servant—servant of the Omnipresent.’ This is as is said: *He said to me, “You are My servant; Israel, in whom I glory”* ([[Isaiah 49#^49-3|Isaiah 49:3]]). But if one does not lave his hands before eating, Attribute of Evil says, ‘That one’s mine!’ It rests upon him at once, rendering him impure, and his food is called *Bread from Evil Eye*.[^567]
+
+“It once happened that a man had invited a poor person over to eat. The latter saw that his host had not laved his hands before eating. The poor man arose from the table and departed. The other called him, saying, ‘Come back to your place and eat!’ He replied, ‘God forbid that I should eat with you, for of you is written *Do not eat bread from one with an evil eye*…. Not only that, your food is impure! It is written: *do not become impure with them*, ונטמתם (*ve-nitmetem*), *becoming impure, through them* ([[Torah 26 - Shmini#^11-43|Leviticus 11:43]]). Without an א (*alef*), referring to one upon whom the spirit of Evil Eye has come to rest—he absorbs stopped-up impurity, with no recourse at all. The case came before the rabbis, and they awarded one hundred *zuzim* to the indigent.”[^568] [p. 223]
+
+Rabbi Ḥaggai wept and exclaimed, “Happy are you, O Israel, engaged with Torah and commandments! As for the poor man who subdued his belly and constrained himself, concerned only for the glory of his Master—what wonderful reward awaits one who learns Torah!”
+
+“Third: One should lave one’s right hand with the left. The reason is that the right is more praiseworthy than the left in all matters, so it should lave the right, ministering to it. For a person’s right hand follows the supernal pattern: superior to the left. The Torah was given with the right; and it is written: *The right hand of YHVH is raised up; the right hand of YHVH performs valiantly* ([[Psalms 118#^118-16|Psalms 118:16]]). Consequently, *when Moses would raise his hand, Israel prevailed* ([[Torah 16 - Beshalach#^17-11|Exodus 17:11]]).[^569] [p. 224]
+
+“Sanctifying one’s hands requires that the left sanctify the right. When a priest ascends the platform, who laves his hands? One inevitably responds ‘The Levite’—because he derives from the left side, he serves the priest ascending the platform. Then the right is configured fittingly, sanctified from the midst of the left. Here, too, the right can be sanctified only from the left.[^570]
+
+“יד (*Yad*), Hand, must be laved—anything called yad. Fourteen phalanges called *yad*, and this is the meaning of For יד (*yad*), *hand, upon Yah’s throne* (ibid., 16). This has been established by Rav Hamnuna Sava with the alphabet technique—using first and last letters—called בש‎ את (*at bash*), from ה (*he*) onward. All fourteen phalanges in the secret of the alphabet from ה (*he*) onward—called ‘*yad* phalanges.’ Fourteen serve fourteen, so that everything of the right is in the left, and of the left in the right. Thus, hand-laving contains one in the other.[^571]
+
+“Fourth: One should raise one’s hands when reciting the blessing after laving, sanctifying the hands. This is as is written: *Lift up your hands in sanctity and bless YHVH* ([[Psalms 134#^134-2|Psalms 134:2]]). Why? Well, it is because fingers are an image of the supernal realm. There are five fingers: four fingers, joined as one, have three phalanges each—mystery of the celestial chariot. For the holy chariot is four, with twelve sections.[^572] [p. 225] **[ZḤ 87b]** ^zh-87b
+
+“Similarly, the Ineffable Name of four letters—numbering twelve letters. Thus the Ineffable Name, with its letters, corresponds to twelve phalanges—each and every phalanx called a letter.[^573]
+
+“An extra digit [87b] beyond these, with two phalanges. These two phalanges—two hidden letters and two hidden, heavenly rungs—praise of them all. Twelve are calculated in the sum, but these are not, for they are praise of them all. They are the key for all above for that Hidden One, unrevealed. These phalanges, all stretching upward toward that Hidden One—after being sanctified—because all are blessed by it.[^574]
+
+“Now, since the fingers have been sanctified, one should extend them upward to arouse the celestial, holy phalanges—hidden ones. Thus, on the right arm there are five fingers and their fourteen phalanges, yielding nineteen, plus two elevated phalanges. Behold, twenty-one on the right arm—corresponding to אהיה (*Ehyeh*), *I will be* ([[Torah 13 - Shemot#^3-14|Exodus 3:14]]), whose sum is twenty-one. And on the left arm, twenty-one, corresponding to *Ehyeh*. Of this: אהיה‎ אשר‎ אהיה (*Ehyeh asher Ehyeh*), *I will be who I will be* ([[Torah 13 - Shemot#^3-14|Exodus 3:14]]). אהיה‎ ראש‎ אהיה (*Ehyeh rosh Ehyeh*), *I will be, head, I will be*. Of this is said: שבטיכם‎ ראשיכם (*rosheikhem shivteikhem*), *your heads, your tribes* ([[Torah 51 - Nitzavim#^29-9|Deuteronomy 29:9]]). *Your heads*—right hand. *Your tribes*—left hand.[^575] [p. 226]
+
+“Fifth: One should recite the blessing, as we have said, to arouse blessings from above with the image of fingers.
+
+“Sixth: One should give of one’s food to the poor, as is fitting. It is a superlative performance of the commandment if he is given to eat from the finest delicacies that he most enjoys—for the food he provides is from *YHVH*. For the food he provides comforts this poor person and gladdens him.[^576]
+
+“Seventh: One should recite the blessing of *ha-motsi* over bread. For this is what was stated by Rav Hamnuna Sava: There are seven lands—they are all chambers below. Of them all, none is favored by the blessed Holy One besides *Tevel*. Of them all, none has the seven species other than *Tevel*. [To them all,] the blessed Holy One provides all herbs and fruit of the land, other than these seven species—bread for human consumption. As a consequence, one is required to enunciate precisely—for bread is given by His hand, not by the hands of angels; He produces it, none other. Thus, *ha-motsi*, not *motsi*.[^577] [p. 227]
+
+“Eighth: One should be neither a glutton nor a gorger, but rather like one who is eating before a king. For blessing does not rest in the belly of a habitual glutton, but rather in one who is not prone to be a glutton. Like Esau, as is written: *Let me gulp down some of this red red stuff* ([[Torah 06 - Toldot#^25-30|Genesis 25:30]])—style of a gulper. What is the explanation? It is because the wicked serpent dwells within his belly and remains unsated. Not only this, he too is called wicked, as is written: *The belly of the wicked will be in want* ([[Proverbs 13#^13-25|Proverbs 13:25]]). One who is sated without gorging is superior—dining like one sitting before a king.[^578]
+
+“Ninth: Words of Torah should be spoken at the table. For we have learned that if one’s table lacks words of Torah, he is like one who has eaten sacrifices to the dead. This is idolatry, as is written: *Surely all tables are full of filthy vomit, without the Omnipresent* ([[Isaiah 28#^28-8|Isaiah 28:8]]).[^579]
+
+“Such a place is called *filthy vomit* because the blessed Holy One distributes portions every day and every night, nourishment to celestial ones and worldly ones. At nighttime, to those angels appointed over their stations, ruling at night. They eat at night, as is written: *She rises while it is night and provides food for her household and a portion for her maidens* ([[Proverbs 31#^31-15|Proverbs 31:15]]). At daytime, to those [p. 228] **[ZḤ 87c]** angels appointed over their stations, ruling during the day—the blessed Holy One distributes food to them during the day. Once He has distributed to them, He distributes food to all inhabitants of the world. All those angels above—while they are eating their food—all praise and laud their Master. So too, following the behavior of those eating their food, Israel below are required to comport themselves in this same manner—actually—to be part of their cohort.[^580] ^zh-87c
+
+“Tenth: Final waters. Obligatory to disperse evil slime and to dispense a portion from this one—keeping the prosecutor out of range. This is as we have learned: Attribute of Goodness takes devotion, intention, [87c] and Grace after Meals. Attribute of Evil takes his slime with the final waters—in this fashion he deserts him and refrains from persecuting him. Each takes his respective portion.[^581]
+
+“Of this is written *Boaz ate and drank, and he gladdened* לבו (*libo*), *his heart* ([[Ruth 3#^3-7|Ruth 3:7]])—for he had recited the blessing after his meal. Behold, he directed it toward that place called לב (*lev*), Heart—Heart that desires people’s heartfelt longing.[^582]
+
+“Final waters is a חובה (*ḥovah*), obligation; and it is received by one called חובה (*Ḥovah*), Sin—and these waters ease his mind. For these are two rungs: one called Merit and one called Sin. All matters of this realm open toward Merit, and all matters of that realm open toward Sin, arousing Sin. Consequently, final waters is the portion of Sin, who relishes it. Wondrous mystery![^583] [p. 229] “Cup of blessing has ten requirements, as aroused by the rabbis.[^584]
+
+“Grace after Meals with three requires a cup, but without three no cup is required. What is the reason? Cup of blessing receives blessing only from three or more, but not less than three. With three, the rabbis instructed that one should say ‘Let us bless Him of whose bounty we have eaten.’ But it does not specify who is being blessed! Even though there are three, there is no reference to whose bounty ‘we have eaten,’ nor a name—it says only ‘we have eaten,’ without specifying a recipient![^585]
+
+“For this reason the rabbis remarked that he should have the cup of blessing poised before him, eyes gazing upon it, since it is written: *The eyes of YHVH your God are upon it* ([[Torah 46 - Eikev#^11-12|Deuteronomy 11:12]]). Cup of Blessing takes blessings and nourishment from the midst of the three patriarchs. When She descends, all the worlds eat of that food that She has absorbed. This is why one gazes upon it and says, ‘Let us bless Him of whose bounty we have eaten.’ Let us have common conviction to bless, since we have eaten of His food—the very food that She took to nourish the world.[^586] [p. 230]
+
+“Then they respond toward the supernal realm, ‘ברוך (*Barukh*), Blessed, is He of whose bounty we have eaten.’ Here an allusion is uttered to that known rung from which all food emanates—נברך (*nevarekh*), Let Us Bless.’ From where do we know this? As is written: *And King* ברוך‎ שלמה (*Shelomo Barukh*), *Solomon Blessed* ([[I Kings 02#^2-45|1 Kings 2:45]])—King who possesses שלום (*shalom*), peace. Thus they utter an allusion to that place that he did not divulge.[^587]
+
+“Why? It is because upper world, *Binah*, from the outset pours forth blessings to two cherubs below Her—right and left. Thus, two are marked, leaving a trace of the supernal rung. Once they have joined as one with the twelve tribes, the one who blesses—in the middle between them—takes all from the two sides, and he blesses henceforth, alluding to place and rung.[^588]
+
+“When these two converge harmoniously as one, alluding toward the upper world, they say, ‘and by whose goodness, we live.’ ‘And by whose goodness,’ and not ‘from whose goodness’—lower world, issuing from Attribute of Goodness itself. For this one is called ‘His goodness,’ as is written: ונהרו (*ve-naharu*), *and [p. 231] **[ZḤ 87d]** they will flow, toward YHVH and His goodness* ([[Hosea 03#^3-5|Hosea 3:5]]). *Toward YHVH*—lower world. *Toward His goodness*—Tree of Life. ונהרו (*Ve-naharu*), *Flowing, toward the goodness of YHVH* (Jeremiah 31:12)—through it, all worlds are nourished ואתנהירו (*ve-itnehiru*), and illuminated.[^589] ^zh-87d
+
+“With ten—all in one accord, from the supernal top until the end of all rungs—the one who blesses utters and registers, ‘Let us bless our God.’ Similarly from there onward.[^590]
+
+“Once he has recited the blessing ‘Who nourishes’ for food—indicating that it emanates from the midst of the upper world, source of all—he turns back to [87d] ‘On the land,’ mystery of the lower world. Why? Because all blessings must first be directed toward the upper world, source of all, and then toward the holy, lower world.[^591]
+
+“Similarly with *Qaddish*, for sanctification and blessing are directed first toward the upper world, and then toward the lower world. ‘May His Great Name be magnified and sanctified’—that great name, supreme over all. Source of Life from which flow all blessings and all sanctifications—World that is Coming. Then, drawn from it—‘in the world that He created according to [p. 232] His Will’—lower world. This is the paradigm for all blessings, other than those blessings in prayer in which one bows down—for there, one commences from below upward.[^592]
+
+“Blessing for the land—lower world, combined with circumcision and Torah. Circumcision—Tree of Life. Torah—central column. Life and food—emerging from World that is Coming—food for that tree.[^593]
+
+“Women, slaves, and minors are obligated in Grace after Meals, but they do not recite the blessing, for we have learned: ‘Woe to a man whose wife and children recite a blessing on his behalf.’[^594]
+
+“Rabbi Abba said, ‘Women are obligated in the public reading of the *Megillah*, but may not perform the public reading. They are, however, obligated to hear from the one who reads and blesses. Similarly, in Grace after Meals, women are obligated to hear from the one reciting the blessing, and a woman is required to sit and hear the blessing from her husband. Her husband is obligated to wait for her at the table so that she can hear the blessing from him.[^595] [p. 233]
+
+“If there is no man present, someone is called to recite the blessing for her. If many women are present, the one reciting the blessing for them does not utter the Divine Name. For we have learned: ‘Women may not be included,’ and since they cannot be included for a *zimmun*, the one reciting the blessing for them cannot bless with the Divine Name. For the obligation of Grace after Meals is primarily upon men, not women, but they are obligated to hear Grace after Meals. And they are obligated to hear the reader’s public reading of the *Megillah*.[^596]
+
+“[The blessing] ‘Building of Jerusalem’ is in the Grace after Meals because up to this point we have blessed above, but it is also fitting to bless below. One blesses concerning the Temple, for it is from there that food issues for the entire world, and all the rest of humanity is nourished from there alone.[^597]
+
+“Everything is comprised within Grace after Meals—from the last blessing to the *zimmun*. One who recites Grace after Meals causes joy above and joy below. Joy must be accompanied by blessing and devotion, bringing joy to the Attribute of Goodness, as is written: *a good-hearted person has a continuous feast* ([[Proverbs 15#^15-15|Proverbs 15:15]]).”[^598] [p. 234] **[ZḤ 88a]** ^zh-88a
+
+The companions came and kissed him; and they prepared another wedding feast, inviting all the people of the town—and they appointed him head over them all.[^599]
+
+> *He went to lie down at the end of the heap of grain* ([[Ruth 3#^3-7|Ruth 3:7]]).[^600]
+
+Rabbi Nehorai and Rabbi Yehudai came to Tiberias, where they heard Rabbi Shim’on expound upon this verse: *Boaz ate and drank*… (ibid.). “*His heart was glad* (ibid.)—consuming heavenly life—this life gladdened his heart. After rejoicing, at once *He went to lie down at the end of the heap of grain*. These are the celestial precious stones and magnificent jewels surrounding the holy throne, as is said: *Your belly is a heap of wheat edged with lilies* ([[Song of Songs 7#^7-3|Song of Songs 7:3]]).[^601]
+
+“What is the meaning of the verse *Then she came* [88a] *stealthily and uncovered his feet and lay down* ([[Ruth 3#^3-7|Ruth 3:7]])? Lying down by his legs—not opposite him, or next to him. From here we learn that until midnight he did not know. And the blessed Holy One does not enter the Garden of Eden with the righteous until after midnight.[^602]
+
+“At the beginning of night, all souls ascend—perfecting Heap of Wheat. When night is split, a voice arouses, calling out, aroused from the north side. The flame reaches the one called גבר (*gever*), rooster, crowing forcefully—this is called ‘crow of the rooster.’ Who is this? גבריאל (*Gavriel*), Gabriel. The flame strikes his wings and he cries out. Then upper and lower abide under the aegis [p. 235] of Judgment of the left. Then it is written: *At midnight, the man trembled and twisted away—and behold! There was a woman lying at his feet!* ([[Ruth 3#^3-8|Ruth 3:8]]).[^603]
+
+“*At midnight*. We have learned: There are three watches of the night; and during each watch, the blessed Holy One sits and roars like a lion. At each and every watch, known angels are appointed over the night.[^604]
+
+“The three watches: during the first watch, the guardians are the angels who sing at the beginning of the night. What do they sing? *The earth and her fullness are YHVH’s, the world and those who dwell in her. For upon seas He founded her…. Who shall ascend the mount of YHVH…? The clean of hands and the pure of heart…* ([[Psalms 024#^24-1|Psalms 24:1–4]]). For all human souls depart, longing to rise.[^605]
+
+“When they rise to the locale of the first-watch angels, there are 365 palaces there—like the number of days of the year—heavenly princes appointed over them. [If they are worthy], celestial portals are opened for those souls. But if not, they are ejected and they go forth, wandering round the world. They encounter evil spirits dispensing diverse reports—some false, some true.[^606] [p. 236]
+
+“If they are worthy to enter, all is fitting, and a doorway is opened. They enter, ascending to the domain of the angels of the second watch. Other angels are there, Mourners of Zion, who lament the destruction of the Temple.[^607]
+
+“At the moment that the rooster crows—when the flame from the northern side is aroused—the flame’s flaring descends to this world, licking at the wings of the earthly rooster. He crows loudly, proclaiming, ‘Arise to wail for the Temple, all masters of peace!’[^608]
+
+“All those who have not seen the weeping, and all those who have—all gather to weep over the Temple. Who has seen the tumult of all the heavenly forces, all the holy chariots wailing and crying in the 370 firmaments?[^609]
+
+“Then, at that precise moment, *At midnight, the man trembled and twisted away* ([[Ruth 3#^3-8|Ruth 3:8]]). *The man*—the blessed Holy One split them, bellowing a mournful wail for the Temple, as is written: *YHVH roars from on high, and from His holy habitation He utters His voice*… ([[Jeremiah 25#^25-30|Jeremiah 25:30]]). *And twisted away*—as is said: *their paths twist* ([[Job 06#^6-18|Job 6:18]]). Then he kicks all the firmaments, and all the troops and chariots weep and mourn at that hour. What do they say? *God, nations have come into Your estate…. They have given Your servants’ corpses*… ([[Psalms 079#^79-1|Psalms 79:1–2]]), and *By the rivers of Babylon*… ([[Psalms 137#^137-1|Psalms 137:1]]).[^610] [p. 237] **[ZḤ 88b]** ^zh-88b
+
+“*And twisted away*. Why? Because *Behold! There was a woman lying at his feet!*—lying in the dust crushed by His feet—this is Assembly of Israel. Then, at that moment, she was aroused toward him and he asked her, *saying*, ‘My daughter, *who are you* ([[Ruth 3#^3-9|Ruth 3:9]]) in exile? *Who are you* at this moment?’[^611]
+
+“*And she replied, ‘I am* רות (*Rut*), *Ruth, your handmaid* (ibid.)—מרוות (*meravvat*), brimming, with sorrow, overflowing with pain over my children in exile, and over the holy palaces, for I have been exiled from My sanctuary. And it is not enough that I have been banished, but they abuse and curse Me every day on account of them, and I have no voice in exile to respond!’[^612] [88b]
+
+“*He exclaimed, ‘Blessed are you to YHVH, my daughter! Your latest deed of loyalty is greater than the first, in that you have not turned to* הבחורים (*ha-baḥurim*), *younger men, whether poor or rich’* (ibid., 10). The blessed Holy One said to Her, ‘My daughter, I remember when David was excommunicated from Jerusalem and he fled to Bahurim. Shimei came out from among the Benjaminites toward the anointed one, blaspheming and cursing him—but he was silent. Never had there been blasphemy like that, but he felt no need to respond, remaining silent.[^613] [p. 238]
+
+“‘Even now in exile you have treated me with abundant goodness and faithfulness. Abundant goodness—the last kindness was greater than the first in Bahurim. And you did not doubt even after the scorn and blasphemy of the other nations, those who come from Bahurim. Neither to a lowly one like Vespasian who was not of royal birth—nor rich, like King Nebuchadnezzar, who was the son of a king, *head of gold* ([[Daniel 02#^2-38|Daniel 2:38]]).[^614]
+
+“What is written of Solomon’s wisdom regarding Shimei? *Thus said Shimei as he cursed, ‘Get out, get out, you man of bloodshed, you depraved person!’* ([[II Samuel 16#^16-7|2 Samuel 16:7]]). ‘Get out, get out—twice: get out of Jerusalem and get out of your house. Solomon replied in a different fashion: *Build yourself a house in Jerusalem… For on the very day that you go out*… ([[I Kings 02#^2-36|1 Kings 2:36–37]]).[^615] [p. 239]
+
+“Of this the blessed Holy One said ‘*Your latest deed of loyalty is greater than the first*, for You have been steadfast by Me and ignored the blasphemy and scorn of the other nations. But, *stay for the night* ([[Ruth 3#^3-13|Ruth 3:13]]). *Stay for the night*—stay now in exile and guide Your children there with Torah and good deeds. If their good deeds aid Your redemption, You will be redeemed. If not, [*then in the morning*…] *I will redeem you myself, by YHVH’s life! Lie down until morning* (ibid.). For morning and the light of redemption will come.’[^616]
+
+“Alternatively, *stay for the night… Lie down until morning*—when the night splits She is aroused toward Him. Then the blessed Holy One enters the Garden of Eden to delight with the righteous in Torah until day’s light shines.[^617]
+
+“Then the redeemer will come. When? At the time that Israel prays, joining Redemption to Prayer, then Israel dwells in the Holy Land. Everything joined one to the other, even in a state of exile.[^618] [p. 240]
+
+“*Now the redeemer whom Boaz had mentioned passed by* (ibid. 4:1). This is the *close redeemer* (ibid. 3:12)—much closer to the redemption—the World that is Coming, and the supernal right.[^619]
+
+“*He called, ‘Come over and sit down here*, אלמוני‎ פלוני (*Ploni almoni*), *so-and-so!’ And he came over and sat down* (ibid. 4:1). Why is he called *Ploni Almoni*? Since it is written *He has withdrawn His right hand* ([[Lamentations 2#^2-3|Lamentations 2:3]]). Why? The reason is that until the end of the right, She lies down on the earth; thus, he is *Almoni, anonymous. Ploni*—concealed—treasured away from the day the world was created.[^620] [p. 241]
+
+“*I cannot redeem for myself, lest I impair my own estate* ([[Ruth 4#^4-6|Ruth 4:6]]). *Ploni Almoni*—from here we learn that there are two messiahs, a close redeemer and a distant redeemer. Close redeemer—from the right side. The other redeemer—Messiah son of Joseph. Who is he? Joseph, called Righteous One, messiah who comes first.[^621]
+
+“*I cannot redeem for myself*, since regarding the right—which is behind—it is written: *Save with Your right hand and answer me* ([[Psalms 060#^60-7|Psalms 60:7]]). Until that saving, *I cannot redeem for myself*.[^622]
+
+“*Redeem for yourself my redemption* ([[Ruth 4#^4-6|Ruth 4:6]]). For Son of Joseph will arrive and redeem first, and afterward the hidden right will be aroused—hidden for the righteous. For these two Righteous Ones—Righteous One and Righteous One. Of this we have learned that it is hidden away for the righteous. Through this light they will arise, bonding in hidden desire, producing greenery and fruit in the world. Then, *The right hand of YHVH is raised up* ([[Psalms 118#^118-16|Psalms 118:16]]).[^623] [p. 242] **[ZḤ 88c]** ^zh-88c
+
+“*So when the redeemer said to Boaz, ‘Acquire for yourself,’ he took off his sandal* ([[Ruth 4#^4-8|Ruth 4:8]]). *A man* [*would take off*] (ibid., 7)—this refers to Moses, speaking euphemistically of arousal of the covenant. When the right was aroused toward Righteous One, *he took off his sandal* at once—arousal [88c] toward the lower world. Then he was aroused to produce fruit in the world with the force of the *closer redeemer*, arousing him toward the world, saying, *Acquire for yourself*. This concludes the mysteries of this matter.”[^624]
+
+Rabbi Nehorai and Rabbi Yehudai came and kissed him on his head and hands, exclaiming, “Certainly the light of Sinai stands here in his presence, too! He is the lamp of light!”[^625]
+
+> לפנים (*Le-fanim*), *Of old, this was done in Israel regarding redemption or substitute: to validate any transaction, one man would take off his sandal and hand it to his fellow*. *This was testimony in Israel* (Ruth 4:7).[^626]
+
+“The rabbis explained this verse, saying, ‘לפנים (*Le-fanim*), *Of old, You founded the earth* ([[Psalms 102#^102-26|Psalms 102:26]]). When the blessed Holy One created His world, He created it based exclusively upon the Torah. The Torah existed two thousand years before the creation of the world, as is said: *I was with Him as an artisan, I was a delight day after day* ([[Proverbs 08#^8-30|Proverbs 8:30]]).’[^627]
+
+“This is as we have learned: When the blessed Holy One created His world, He stabilized the Torah—gazing upon it, recounting it, and probing it—as is said: *Then He saw it and recounted it; He [p. 243] stabilized it and probed it, too* ([[Job 28#^28-27|Job 28:27]]). He created the world with it, concealing it afterward until He created Primal Adam, and taught it to him, as is written: *He said to Adam*… (ibid., 28).[^628]
+
+“At that moment all the letters arose before Him. This one said, ‘The blessed Holy One should create the world with me!’ And that one said, ‘Let Him create it with me!’ The letters all presented themselves before Him—in reverse order, ר‎ ש,‎ ת, (*tav, shin, resh*).[^629] [p. 244]
+
+“ת (*tav*) said to the blessed Holy One, ‘Master of the Universe, may it be Your will to create the world through me, for I am the culmination of all created beings. Furthermore, Your name is אמת (*emet*), Truth, sealed through me.’[^630]
+
+“He replied, ‘No, you are not worthy that My world be created through you. For through you, righteous children of Mine are destined to die, as is written: *make a mark upon the foreheads of the people*… ([[Ezekiel 09#^9-4|Ezekiel 9:4]]).’ She departed at once, forlorn.[^631]
+
+“ש (*Shin*) stood before the blessed Holy One: ‘Master of the Universe, may it be Your will that Your world be created through me, for Your Name שדי (*Shaddai*) begins with me.’[^632]
+
+“He replied, ‘I will not create My world through you.’
+
+“Then ק (*qof*) and ר (*resh*) came, joined together. He said, ‘I will not create My world with them.’[^633] [p. 245]
+
+“And thus did they all present themselves before Him, up until the letter כ (*kaf*). When כ descended from הכתר (*ha-keter*), the crown, the crown trembled—along with 80,000 quivering myriads of precious stones, embedded in the crown. The blessed Holy One asked them, ‘Why are you shaking?’[^634]
+
+“They replied, ‘Master of the Universe, all of our beauty and all our glory come from כ alone, and now she has descended from us.’
+
+“She asked Him, ‘Master of the Universe, may it be Your will to create Your world through me, for I am the letter of כבודך (*kevodekha*), Your glory.’
+
+“The blessed Holy One castigated Her, saying, ‘*Kaf, Kaf*, return to your abode, so that My crown will not remain disgraced. I will not create My world through You, for through You מישראל‎ אלפים‎ כמה‎ ליכשל (*likashel kamah alafim mi-yisrael*), many thousands of Jews will stumble.’ She retreated at once, bereft.[^635]
+
+“And so it went for them all, until ב (*bet*) came before Him and asked, ‘Master of the Universe, may it be Your will that your world be created through me. For I am the letter of ברכה (*berakhah*), blessing; and through me, Your children—the people of Israel—are destined to come into the world, saying “Blessed are you, *YHVH*,…’”[^636]
+
+“He replied, ‘Through you, certainly, I will create my world, for you are fit for this purpose.’
+
+“The letter א (*alef*) rose but did not come before Him. The blessed Holy One said to her, ‘*Alef, Alef*, why do you not make an entrance like the rest of the letters who came before Me?’
+
+“She replied, ‘Master of the Universe, I saw that all the letters who came before You left dispirited. You have already granted permission to ב for Your world to be created through her, and it is unseemly for the King of Glory to revoke a gift that He has bestowed upon someone! Consequently, I stayed in my place.’
+
+“The blessed Holy One said to her, ‘If so, you shall be first of all the letters. Through you I will be elevated to be called by My name אחד (*eḥad*), One.’[^637]
+
+“So He perused the Torah and created the world.” [p. 246] **[ZḤ 88d]** ^zh-88d
+
+“Here you have stated that the blessed Holy One created His world through ב alone, but you also say that the Holy One created His world through the entire Torah!”
+
+“Well, the explanation is that the blessed Holy One fashioned ב into a kind of secret wardrobe of treasures. All the letters come and display their power there—all the letters [88d] enduring there. Thus it was the Torah—actually!—that the blessed Holy One scrutinized to create His world.”[^638]
+
+Rav Huna said, “Come and see: the blessed Holy One does not withhold reward due to any creature. Even though the letters proceeded before Him in reverse order—ר‎ ש,‎ ת, (*tav, shin, resh*)—and He rejected them, giving this honor to ב, when He came to create His world He linked them to ב, as is written: בראשית (*bereshit—bet, resh, alef, shin, yod, tav*). Thus you have ר‎ ש,‎ ת,—the letters that came forward—combined with ב .ב took all the letters with her; and the blessed Holy One created His world through them.[^639]
+
+“All the letters are called *of old* ([[Ruth 4#^4-7|Ruth 4:7]]). Why? Because they were created two thousand years before the creation of the world. And through the Torah—called *of old*—the blessed Holy One created His world, as is written: *Of old You founded the earth, and the heavens—Your handiwork* ([[Psalms 102#^102-26|Psalms 102:26]]).”[^640] [p. 247]
+
+Rabbi Ḥanina said, “From among those things that came to mind before the blessed Holy One created His world, Israel arose in His mind as worthy to receive the Torah—all its letters becoming crowns upon his head. Since he arose in His mind, the blessed Holy One stood up, as it were, and engraved the Torah upon him—all the letters, crowns upon his head.[^641]
+
+“[The world] was established upon him, as is written: *Now this was done of old upon Israel* ([[Ruth 4#^4-7|Ruth 4:7]]). *This* refers to none other than Torah, which predated Israel. *Of old*—the letters ה‎ י (*Y, H*). Everything engraved and inscribed upon Israel.[^642]
+
+“*On the testimony* (ibid.)—this is the Jerusalem Talmud, as is written: *Form the testimony; seal Torah within My disciples* ([[Isaiah 08#^8-16|Isaiah 8:16]]). In the land of Israel they are called *My disciples*—residing there, not outside the Land. And it is written: *for instruction and testimony* (ibid., 20). *Exchange* ([[Ruth 4#^4-7|Ruth 4:7]])—the Babylonian Talmud, for they changed the language and custom. Everything was in the presence of the blessed Holy One before He created the universe.[^643] [p. 248]
+
+“*To firm up any transaction* (ibid.)—covenant of circumcision, fulfillment of the entire Torah.[^644]
+
+“*One man would take off his sandal* (ibid.)—commandment of *ḥalitsah* (release). *And hand it to his fellow* (ibid.)—commandment of *yibbum* (levirate marriage). From here Rabbi Akiva derived that the commandment of *ḥalitsah* takes precedence over the commandment of *yibbum*. *Such was the practice in Israel* (ibid.), for Rabbi Akiva said that from the time that the Temple was destroyed, the chief councilors were cut down, opinions confounded, and the heart unsettled, in thrall to appearances.”[^645] [p. 249]
+
+Rabbi Yudai said, “Commandment of *yibbum* is praiseworthy, and one who fulfills it becomes partner to the blessed Holy One. One who fulfills the commandment of *yibbum* with proper intent is greater than the prophet Ezekiel, as is written: *suddenly a sound while I was prophesying, a noise* ([[Ezekiel 37#^37-7|Ezekiel 37:7]])—his prophecy raucous, not tranquil.”
+
+Rabbi Ḥidqa said, “Great is the commandment of *yibbum*, for one who fulfills the commandment of *yibbum* with proper intent becomes a partner with the blessed Holy One. This is as is written: *so that the name of the deceased may not disappear* ([[Ruth 4#^4-10|Ruth 4:10]]); and it is written: *all flesh shall not be cut off* ([[Torah 02 - Noach#^9-11|Genesis 9:11]]).”[^646]
+
+Rabbi Ḥanina, consistent with his reasoning, said, “*Hand it to his fellow* ([[Ruth 4#^4-7|Ruth 4:7]])—this is the commandment of *yibbum*.” What is the meaning of *hand it to his fellow*? Rabbi Ḥanina said, “This can be compared to a man astray in the desert, a place frequented by bandits and wild beasts. When bandits saw him disoriented, they pounced upon him and beat him, looting all his treasure and earnings.[^647] [p. 250] **[ZḤ 89a]** ^zh-89a
+
+“His friend heard about it and armed himself. He set out and freed the man from their clutches—he had been stripped of everything. What did he do? He built a house for him and consigned it to him. He prepared new garments for him and delivered them. The man came and donned the garments, dwelt in the house, and began to profit as before. This is the meaning of *hand it to his fellow*—actually![^648]
+
+“*Such was the practice in Israel*—but not among the other nations, because He did not give them this commandment. Of them is written *Let them perish from the earth and from under these heavens* ([[Jeremiah 10#^10-11|Jeremiah 10:11]]). For He provides no revival for them, neither in this world nor in the World that is Coming, as is written: *The dead will not live; spirits of the dead will never rise*… ([[Isaiah 26#^26-14|Isaiah 26:14]]).[^649]
+
+> “*All the people at the gate and the elders responded*, ‘[*We are*] *witnesses. May YHVH make the woman who is coming into your house like Rachel and like Leah, the two who built up the House of Israel! Do* [*something*] *mighty in Ephrathah, and perpetuate your name in Bethlehem!’* ([[Ruth 4#^4-11|Ruth 4:11]]).[^650]
+
+“From here we learn that [89a] seven blessings are recited for a virgin only, for she is called ‘bride.’ But for a widower and a widow, as in the case of Boaz and Ruth—widower and widow—they were blessed with the semblance of seven blessings. For preeminence of a virgin over a woman-once-espoused is expressed in blessings and presents: one is called ‘bride’ and the other is not, as is written: *As a youth espouses a maiden*… ([[Isaiah 62#^62-5|Isaiah 62:5]]).[^651] [p. 251]
+
+“A semblance of the seven blessings were bestowed upon Boaz—through which words? As is written: *All the people at the gate responded* ([[Ruth 4#^4-11|Ruth 4:11]])—one. *May YHVH make the woman who is coming into your house* (ibid.)—two. *Like Rachel, and like Leah, the two who built up the House of Israel* (ibid.)—five. *Do* [*something*] *mighty in Ephrathah* (ibid.)—six. *Perpetuate your name in Bethlehem* (ibid.)—seven.[^652]
+
+“In honor of the widower and widow, the blessing ‘Who creates the fruit of the vine’ is recited as for the virgin, with this blessing in the middle. In conclusion, one recites the blessing ‘Who created jubilation and happiness, groom and bride…’ in their honor, for it includes ten faithful ones corresponding to the ten utterances with which the world was created.”[^653] [p. 252]
+
+Rabbi Yehudah said, “There are seven. ‘Jubilation and happiness’—one. Two—‘Groom.’ ‘And bride’—three. ‘Love and companionship’—five. ‘Peace and fellowship’—seven.”[^654]
+
+Rabbi Ḥanina explained that each one stands on its own: “‘Jubilation’—one; ‘happiness’—two; ‘groom’—three; ‘bride’—four; adding ‘rejoicing, exultation’—six; ‘love’—seven; ‘companionship’—eight; ‘peace and fellowship’—ten. For these ten correspond to the ten utterances with which the world was created.
+
+“Within this blessing are the five voices through which the Torah was given. A bride inherits them all through her blessings, for she is fitting—but a widow is unfit.”[^655]
+
+*All the people at the gate* ([[Ruth 4#^4-11|Ruth 4:11]])—this refers to the Great Sanhedrin, who were present, as is written: *Who will give me water to drink from the cistern which is by the gate of Bethlehem*? ([[II Samuel 23#^23-15|2 Samuel 23:15]]). *And the elders*—sages and community leaders. Everyone blessed them with this blessing, for he was the foremost communal leader of the generation. Who was he? Ibzan of Bethlehem.[^656] [p. 253] **[ZḤ 89b]***And he was given to them, and the women neighbors gave him a name, saying, “A son is born to Naomi!”* ([[Ruth 4#^4-17|Ruth 4:17]]). The rabbis explained this verse by way of another. We have learned, as is written: *If you should indeed take your neighbor’s garment in pledge*… ([[Torah 18 - Mishpatim#^22-25|Exodus 22:25]])—this verse speaks of one’s soul in this world, and of one’s body after passing on to one’s eternal rest. Regarding the soul in this world, it teaches that when a human soul departs—each and every night—the blessed Holy One takes it as a pledge, returning it the next day to one’s bosom.[^657] ^zh-89b
+
+Consequently, one delivers one’s soul as a pledge to his Maker by means of a verse evoking compassion, such as *Into Your hand I entrust my spirit*… ([[Psalms 031#^31-6|Psalms 31:6]]). Since it is a pledge—despite being culpable for numerous sins—the blessed Holy One restores it to one’s bosom.[^658]
+
+Similarly, one must conduct oneself in accord with His attributes, as is written: *and you shall walk in His ways* ([[Torah 50 - Ki Tavo#^28-9|Deuteronomy 28:9]]).[^659] [89b]
+
+When a person’s time has come, as a result of transgressions against his Master, he destroys what was his, and He seizes his soul.[^660] [p. 254]
+
+Therefore it is written: *You shall not take a widow’s garment as pledge* (ibid. 24:17). Why? Since his pledge is in the hand of the Omnipresent, it does not need to be given as a pledge again, as is written: *You will not arise twice in distress* ([[Nahum 1#^1-9|Nahum 1:9]]).[^661]
+
+All souls are in the hands of the blessed Holy One: if they merit, they enter the precinct of the righteous in the Garden of Eden; if they do not merit, they go to Hell.[^662]
+
+Rabbi Neḥuniah son of Yose said, “A place is set aside in Hell for the souls of the wicked; and from there they go forth, roaming in the world. Achieving no rest, they return to Hell. They come afterward [to the Garden of Eden]—but are shoved out of the Gates of Life, and they return to the world. Who are they? Those who have blemished the covenant by not engaging in procreation. Ultimately, the blessed Holy One comes and builds them, transplanting them in the world.[^663]
+
+“This can be compared to one who plants a tree. When he sees that it fails to thrive, he uproots it and transplants it in a different place. This can occur multiple times, as is written: *Truly, God does all these things two or three times to a man* ([[Job 33#^33-29|Job 33:29]]).[^664] [p. 255]
+
+“*For four, I will not return him* ([[Amos 2#^2-6|Amos 2:6]]). Four portals in the heavens, with officers at each and every door. The first are merciful—they uproot them and transplant them in a different place. If he repents, the first ones—merciful ones—say to him, ‘Leave this doorway and we will aid your flight.’ So it goes with the second group and the third: if he repents and profits as at first, then the first, second, and third groups all become merciful, escorting him out. But if he arrives at the fourth opening, he will not escape, as is said: *For three transgressions of Israel; for four, I will not* (ibid.). These are the ones who have blemished the covenant.[^665]
+
+“What is the explanation? We have learned: Rabbi Yose said in the name of Rabbi Yehudah, ‘Since he has diminished the image, he is banished from the World that is Coming, his good deeds dwindling before the Omnipresent.’ Of them is written *They will go out and stare at the corpses of the people who rebel against Me, for their worm will not die* ([[Isaiah 66#^66-24|Isaiah 66:24]]). For whoever causes a defect in his covenant is, as it were, like one who causes a defect in another place.”[^666] [p. 256]
+
+Rabbi Yose opened, “*Happy is the man who fills his quiver with them*… ([[Psalms 127#^127-5|Psalms 127:5]])—speaking of one engaged in procreation. What is the meaning of *they will not be put to shame when they contend with enemies in the gate* (ibid.)? Well, the explanation is that when a person leaves this world and his soul is ready to enter its fitting niche, diverse damaging angels stand on this side and that, and diverse angels of peace stand on this side and that. If he is meritorious, angels of peace greet him first, saying, ‘Peace to you in your arrival!’ If he is not meritorious, angels of destruction rise and greet him first, saying, *Woe to the wicked! Evil! For what his hands have perpetrated will be requited to him* ([[Isaiah 03#^3-11|Isaiah 3:11]]).[^667]
+
+“*Woe to the wicked! Evil!* Who is this? One who did not attempt to leave behind a son in this world, for whoever leaves a child in this world and teaches him Torah and good deeds, cannot be ruled by angels of destruction or Hell. This is as is written: *they will not be put to shame when they contend with enemies in the gate* ([[Psalms 127#^127-5|Psalms 127:5]])—angels of destruction, with no dominion over him.[^668]
+
+“Let a man not say that his Torah learning and deeds will protect him, so that he may abstain from procreation. Rather, even though he does possess [p. 257] **[ZḤ 89c]** Torah and good deeds, he will not enter the precinct of the blessed Holy One, nor will he have a portion in the World that is Coming.[^669] ^zh-89c
+
+“This is like the case of one of our companions, ejected from the thirteen gates of that world. If not for the plea of Rabbi Yehudah the Pious, he would have been banished from two worlds! For none possessed Torah and good deeds like Hezekiah, king of Judah, and yet it is written: *Thus says YHVH: Set your house in order, for you are going to die; you will not live* ([[Isaiah 38#^38-1|Isaiah 38:1]])—you will die in this world, and you will not live in the World that is Coming.”[^670] [89c]
+
+Rabbi Yoḥanan expounded, “*In the morning sow your seed, and at evening do not hold back your hand*… ([[Ecclesiastes 11#^11-6|Ecclesiastes 11:6]]). A man must be occupied with procreating in his youth and in his old age, never abstaining. Even if he is aged, he may not excuse himself. What is the reason? Because you cannot know which one will be fit before God, this one or that.”
+
+Rabbi Yoḥanan became grizzled in years, his vision retreated, and he was overcome by weakness. He rose and said, “I am dead to the World that is Coming, for I had children but they have died!”[^671] [p. 258]
+
+[His students] said to him, “Our master, we drink of your waters—how many descendants you leave behind who strengthen you for the World that is Coming!”[^672]
+
+He was not comforted until the blessed Holy One illumined the vision of a certain elder who rose, saying, “Concerning you, Rabbi Yoḥanan—elderly and overcome by infirmity—and of Rabbi Ḥizkiyah, who is impotent, Scripture says: *Thus says YHVH: As for the eunuchs who keep My Sabbaths, who have chosen what I desire and grasp My covenant—I will give them, in My house and within My walls, a monument and a name better than sons and daughters* ([[Isaiah 56#^56-4|Isaiah 56:4–5]]).” Rabbi Yoḥanan’s mind was eased. He said to the man, “Put your mind to rest—as you have put my mind to rest.”[^673]
+
+Rabbi Beroka said, “It is written: *That soul shall be cut off from before Me* ([[Torah 31 - Emor#^22-3|Leviticus 22:3]]). If that soul is cut off, what of the body? If this is the case, how many graves will be empty! How many markers for naught! For if the blessed Holy One rebuilds that soul in this world afterward as before, the body left behind perishes, the grave empty! If so, how many bones forsaken, how many graves wasted![^674] [p. 259]
+
+“Ah, the explanation is that the blessed Holy One discards His handiwork only from this earth and these heavens. [Those bodies] descend to be rebuilt in a different form, in lower realms, in the domain called נשיה (*Neshiyyah*), Oblivion—corralled there for generations upon generations.[^675]
+
+“Seven lands below—*Erets, Adamah, Arka, Gei, Neshiyyah, Tsiyyah*, and *Tevel*. *Tevel*—our domain. *Neshiyyah*, Oblivion—why the domain of *Neshiyyah*? Well, the reason is that since they אנשי (*anshei*), were oblivious, to the covenant by not spreading through the world, they are אנשי (*anshei*), forgotten, into *Neshiyyah*, Oblivion. Never is there a grave in vain, nor marker empty![^676]
+
+“In the domain of *Neshiyyah*—only those called ‘worthless bodies,’ having descended there for worthlessness. They do not engender there, as there are no נשי (*nashei*), women, among them, so they just sow and eat—*anshei*, forgetting, all they do.[^677] [p. 260]
+
+“Souls—before being rebuilt in this world—are barred from numerous gates, roaming and wandering in this world until redemption. These are called שכינות (*shekheinot*), dwellers, as is written: *and they called him ‘dwellers’* (Ruth 4:17). Then this body is built to endure in His land, *Tevel*.”[^678]
+
+Rabbi Yudai was in the presence of Rabbi Azariah son of Simai. He asked him, “Righteous ones who stumble upon a sin from the Torah that invokes excision, ponder repentance, and die—does their death atone for them?”[^679]
+
+He replied, “Yes, and sometimes they are punished in this world, procuring atonement.”
+
+He saw Rabbi Yudai’s face turn sallow. He said to him, “Say what you would say! The Torah does not receive impurity, as is written: *Is not My word like fire, says YHVH*? ([[Jeremiah 23#^23-29|Jeremiah 23:29]]). Thoughts in your heart?”[^680]
+
+“*The secret of YHVH is for those who revere Him* ([[Psalms 025#^25-14|Psalms 25:14]]). Ten elders martyred by the empire on account of the sale of Joseph!”[^681] [p. 261] **[ZḤ 89d]** ^zh-89d
+
+He said to him, “Phinehas is Elijah.”[^682]
+
+He replied, “But Rabbi Akiva [89d] did not have ancestral merit!”[^683] [p. 262]
+
+He said, “*Of the descendants of Issachar, men who knew how to interpret the signs of the times* ([[I Chronicles 12#^12-33|1 Chronicles 12:33]]).”[^684]
+
+He opened, saying, “*When Jacob came in from the field in the evening, Leah went out to meet him and said, ‘You are to come to me, for* שכרתיך‎ שכר (*sakhor sekhartikha*), *I have surely hired you* (Genesis 30:16). שכר (*S’khar*), *Reward*—afterward. יששכר (*Yesh s’khar*), *There is reward*. *Yesh, There is* now; afterward, lambs for the kingdom of heaven. Their bodies will remain in their places in this world, everything ultimately restored to primal form. It is written: *Each according to his blessing, he blessed them* (Genesis 49:28).”[^685]
+
+Rabbi Yudai fell prostrate, and slept. In his dream, they showed him *Do not let your mouth incriminate your flesh* ([[Ecclesiastes 05#^5-5|Ecclesiastes 5:5]]). “You have entered—seal it.” From that day on, he did not mention it. He said, “*How precious is your love, [p. 263] O God, and the children of humankind shelter in the shadow of Your wings* ([[Psalms 036#^36-8|Psalms 36:8]]), and their children should not speak of them—kindness of God in everything.”[^686]
+
+Rabbi Azariah said, “This is certainly so, as is written: *Do not touch my anointed ones* ([[I Chronicles 16#^16-22|1 Chronicles 16:22]]); and it is written: *In whose hand is the soul of every living thing and the spirit of all human flesh* ([[Job 12#^12-10|Job 12:10]]). Concerning His concealed, hidden matters one may not speak at all, for of One who has the spirits and souls of the righteous in His hands—of hidden matters He has fashioned—one should not encroach.[^687]
+
+“*A son is born to Naomi!* ([[Ruth 4#^4-17|Ruth 4:17]]). What did she find? Lost object she had lost. From here we learn that a wandering soul, [inserted into] a tiny body, may not shine nor expand, displaying its power. This is as is written: *He will return to the days of his youth* ([[Job 33#^33-25|Job 33:25]]).[^688]
+
+“When this body was built, at once *and the dwellers, called for him—name* ([[Ruth 4#^4-17|Ruth 4:17]]). Indeed, for everyone of whom it is written *name*, as is written: *so that the name of the deceased may not disappear* (ibid., 10)—this is the soul. [p. 264] **[ZḤ 90a]** Here, *and* השכנות (*ha-shekheinot*), *the dwellers, called for him—name* (ibid., 17). Those *dwellers* called for that body where *name* was to be built. They called for that soul to be perfected within that body, for sometimes a soul is there in readiness; but sometimes it is not, on account of roaming and wandering in the world. In that case, they beckon it to this body.[^689] ^zh-90a
+
+“When will is aroused, to where does the soul travel? To the graves of the patriarchs and the graves of pious ones. Ultimately, Boaz was aroused, and other souls coaxed it, until it arrived, consummated in the designated place.[^690]
+
+“But it is written: *If he sets his heart upon him, his spirit and soul he will gather to him* ([[Job 34#^34-14|Job 34:14]])! Ah, this one is different, since he is a *closer redeemer* ([[Ruth 3#^3-12|Ruth 3:12]])—he is of greater benefit, the redeemer named *closer*. The soul is poised [90a] to appear there, instantly upon being roused by him. But this one—since he is distant—must be summoned, on account of the thought’s distance. When thought is close, this is not necessary; rather [the soul] comes as a result of that arousal to be built there. Of this: *And they called* ([[Ruth 4#^4-17|Ruth 4:17]]) that body *name*—for that soul to be built there.”[^691] [p. 265]
+
+Rabbi Simai said, “In many places, the blessed Holy One acted graciously with those souls who find no rest, preventing their demise. This excludes those of whom is written *I shall make that soul perish* ([[Torah 31 - Emor#^23-30|Leviticus 23:30]]). What happens to that one?”[^692]
+
+Rabbi Simai and Rabbi Yose dispute the matter. One says that the blessed Holy One sends it down to subterranean *Erets*, while the other says to *Avadon*. Whoever descends there is lost irrevocably, and of them is written *I shall make that soul perish*.”[^693]
+
+Rabbi Yehudah son of Simon said, “Happy is the one who strives to know about that world, the location of souls. Whoever is conscious of it and strives to learn about it—his wisdom is immeasurable!”
+
+Rabbi Peraḥiah said, “As long as a body does not rest in its place, the same is true of its soul.” He endeavored constantly to comprehend the world of souls.[^694]
+
+One day he was passing through a field when he came across a corpse beneath a withered tree. He took a closer look and discerned that he was Jewish, with mitsvah-windings on his person, a book of legends next to him. He remarked, “This must have been a scholar.” He took care of the burial and covered him up; went off to town, prepared shrouds and a grave. He assembled people [for the funeral], wept over the man, tending to him, depleting all of his own resources.[^695] [p. 266]
+
+Once the corpse was concealed and buried, the soul entered the heavenly academy. They said to him, “There is nothing for you here now, in the place of the Sublime Rock! Go compensate the generosity of the one who completed you!”
+
+One day, Rabbi Peraḥiah was at the Lydda city-gate, grieving over his stressful circumstances. A certain man approached him and said to him, “Rabbi, would you like to go to such-and-such a place with me? I will give you silver vessels in return for engaging in Torah, together as one, on the way.”[^696]
+
+He replied, “Let’s go.”
+
+He said to him, “Rabbi, what is the meaning of *For the living know that they will die, and the dead know nothing* ([[Ecclesiastes 09#^9-5|Ecclesiastes 9:5]])?”[^697]
+
+[He replied,] “*The living*—the righteous. *The dead*—the wicked.”[^698]
+
+“By your life, Rabbi! Even in this world the wicked are aware of their impending agony, and they know about the esteem of the righteous and the judgment of the wicked!”
+
+He responded, “If so, what is the meaning of *and the dead know nothing*?” [p. 267] **[ZḤ 90b]** ^zh-90b
+
+He explained, [90b] “Scripture is referring to this world. The righteous—called *living*—see and comprehend that they will die, and they are prepared to give account. For there is justice and there is a judge, as is said: *let the living take it to heart* (ibid. 7:2). But the wicked—called *dead*—know nothing of the affairs of that world. They are called *dead* since this world is not for the living—theirs is the World that is Coming.[^699]
+
+“That is the world of souls and spirits, while this is the world of the body. That is the world where spirits of men dwell. They resemble their previous appearances, recognizing one another; they also know what lies in store for this world; and they strive to understand the glory of their Master there by means of the garment of that world.”[^700] [p. 268]
+
+When they arrived at a particular field, he said to him, “Let’s tarry here.” He groaned.[^701]
+
+He asked him, “Why do you groan so?”
+
+He replied, “For a lost object—lost in this place.”
+
+He assured him, “The blessed Holy One will summon it for you.”
+
+They came across a cavern. The man said, “Rabbi, let us go in here; I know it—it’s familiar to me.” They entered, climbing down rungs until they arrived at an orchard. There they saw trees, all different from one another, and from all other trees of the world—and one tree, distinct from all other trees. They clambered up and heard the sound of teeming legions, intoning, “*Come, let us bow down and kneel; let us bend the knee before YHVH our Maker* (Psalms 95:6).”[^702]
+
+Rabbi Peraḥiah was astonished, exclaiming, “What is this?”
+
+“Silence!” he replied.
+
+Rabbi Peraḥiah recounted, “By God! When I went with him to the middle of that orchard, I saw two paths, with companies on this side and that. I asked him, ‘What is this?’
+
+“He replied, ‘Here diverge the paths of souls: those going to the Garden of Eden, and those going to Hell. For one going to the Garden of Eden, these accompany him, completing him consummately. For one going to Hell, these bring him there for judgment.’[^703] [p. 269]
+
+“We traversed the orchard and arrived at walls, towers, and gates. Upon our arrival at one gate—Eastern Gate—the man exclaimed, *Open for me the gates of righteousness!* ([[Psalms 118#^118-19|Psalms 118:19]]).[^704]
+
+“They asked him, ‘On what grounds?’
+
+“He replied, ‘I have come as an emissary of the Master of the Universe.’
+
+“They all burst out, ‘Who permitted one born of woman to this place!’[^705]
+
+“He answered them, ‘This is Rabbi Peraḥiah.’
+
+“They asked, ‘Is this the one who rendered you whole in that world?’
+
+“He replied, ‘Yes.’
+
+“They opened the gates for him and instructed, ‘Strip him, for one is not permitted to enter here with a body from that world.’ They stripped him at once, and clothed him in vapors of the inner garden.[^706]
+
+“Entering, he viewed the firmament stretched over the Garden, the firmament that had detached from the one arched over the rest of humanity. This firmament is bounded by a border of the full spectrum of colors. Four paned windows open within it onto the four directions of the world, with one in the middle.[^707]
+
+“One window, on the east side, has four openings embroidered within it, in the mystery of the four letters יהוה (*YHVH*), totaling twelve—three letters for each and every one. Three times a day, these panes and letters bond—all bonding with the Holy Name.[^708] [p. 270] **[ZḤ 90c]** ^zh-90c
+
+“One archon appointed over that side, named Ye’azri’el. Four keys in his hand, to open four gates located above that firmament. None are aware of them, other than on New Moons and Sabbaths—for then souls combine with bodies in the grave, bowing down, prostrate in front of those gates before the Master of All. This is as is said: *From new moon to new moon and from Sabbath to Sabbath, all flesh shall come to bow down before Me* ([[Isaiah 66#^66-23|Isaiah 66:23]]). *All*—including those souls that dwell with the body, called *all flesh*.[^709]
+
+“Another window, on the southern side. Six panes within it, [90c] for entry for those who recite *Shema* daily with devotion and intention.”[^710]
+
+Rabbi Peraḥiah exclaimed, “By God! When I looked through that split window, an archon named Ana’el approached—the one appointed over the gate on the south side. He said to me, ‘Stand at your station and look upon this window, for permission to enter it or gaze upon it is granted only to those who recite *Shema* properly. As for each one who recites *Shema* properly, sixty angels enter before him, crowning him with holy diadems, proclaiming, “This is the crown of so-and-so, who recites *Shema* as prescribed!’”[^711] [p. 271]
+
+“I beseeched him, imploring, ‘Master, what is required for the proper recitation of *Shema*?’
+
+“He replied, ‘O pious one! Supernal secret here! In the *Shema* are four paragraphs.[^712]
+
+“‘First paragraph, for unification, consists of two unifications in twelve words: six words in the upper unity, and six words in the other unity.[^713]
+
+“‘Second paragraph—*You shall love* ([[Torah 45 - Vaetchanan#^6-5|Deuteronomy 6:5]])—forty-two words in the mystery of the Name of Forty-Two Letters.[^714] [p. 272]
+
+“‘Third paragraph—*It shall be, if you indeed heed* (ibid. 11:13)—right contained in left, and left contained in right. Mystery and secret of the holy chariot, until *You shall set* (ibid., 18). This is the paragraph that rules over all—mystery of seventy-two words in the mystery of seventy-two names of the holy chariot.[^715]
+
+“‘Fourth paragraph—*You shall set*—fifty words corresponding to fifty gates of Understanding.[^716]
+
+“‘Paragraph of tzitzit—comprised of them all. Totality of the paragraphs amounts to the numerical value of a man.’[^717]
+
+“In all other sections—whether treating commandments of the Torah or other places in the Torah—Male is alone and Female is alone. But here, site of unification for the blessed Holy One, Male and Female are gathered as one, ascending in one measure. Male is completed through Her, in contrast to all other places in the Torah. This is the eminence of supernal faith, to know that *YHVH is God* ([[Torah 45 - Vaetchanan#^4-35|Deuteronomy 4:35]]). Male made whole by Female, each completed in the other, Male built up through Female. This is consummate unification: no perfection without Male and Female as one.[^718] [p. 273] **[ZḤ 90d]** ^zh-90d
+
+“Come and see: Whoever completes the unification as prescribed, directing intention to these paragraphs every day, becomes worthy of these panes and windows, becoming whole there. None will hold him back, as long as he recites it properly, directing intention to these supernal mysteries.[^719]
+
+“He took hold of my right hand and said to me, ‘O pious one! Come see the glory of those who unite the holy name fittingly, reading *Shema* in this way.’
+
+“I entered a chamber, and in that chamber were 365 chambers, like the days of the year. Abraham, Isaac, and Jacob rule in that palace—Primal Adam among them. I saw many bands of souls—garbed in embroidery of the Tree of Life and diverse colors of the celestial glory—entering the chamber. Yofi’el, supreme angel over all, esteemed angel of the Torah, was among them.[^720]
+
+“He opened, calling out, ‘Awake, holy ones of the world! Behold, your holy children are uniting the Holy Name, concentrating intention upon the paragraphs of *Shema*.’
+
+“I observed Primal Adam overseeing them. When a person’s recitation of *Shema* enters, [90d] it soars first into this chamber. Primal Adam sniffs it, and if one letter of *Shema* is missing, he rejects it. In such a case, the person’s structure is defective—normally comprised of 248 [limbs] when supplemented by those words repeated by the prayer leader. But if he discerns that it is fitting, he accepts it—and Abraham, Isaac, and Jacob take it from him, kissing it. Who has seen such delight! Who has glimpsed such excitement among all those righteous ones in the Garden of Eden who come with this joy![^721] [p. 274]
+
+“Then, when he reaches that world, who has witnessed his joy, when the patriarchs seat him in their midst twice daily! Every day, dew alights upon him from the head of the King.[^722]
+
+“Through that dew, they comprehend and eat the food eaten by celestial angels. They learn what is, what will be, and what will come to be, until the time when the blessed Holy One resurrects the bodies decaying in this world—the blessed Holy One establishing them in a perfected structure, fittingly.[^723]
+
+“In the window on the southern side was inscribed ש (*shin*): ו (*vav*) on this side, ו (*vav*) on another side, and ו (*vav*) on another side. I asked that man, inquiring, ‘What is the meaning of these letters?’[^724]
+
+“He replied, ‘I don’t know.’
+
+“Eventually that angel came and explained to me, ‘O pious one! These letters are the markers of the paragraphs of *Shema*. Happy is the portion of the one who says them daily with intention of the heart!’[^725]
+
+“Another window on the northern side—placed within it are two panes, five letters flaming and sparkling in their midst. Two letters on this side and two [p. 275] letters on that, with one above, suspended above them, according to the mystery of the holy name that is called אלהים (*Elohim*).[^726]
+
+“In the window and panes dwell two archons (of that firmament): *Tsurtaq* and *Gazri’el*, appointed over that unopened side.[^727]
+
+“One chamber there, embroidered with numerous colors, countless designs. Abiding there are all those who sanctify the name of their Master daily with an utterance. They bless Him, chanting, ‘Blessed be the name of His glorious kingdom forever and ever!’—sanctifying him afterward with the threefold sanctification.[^728]
+
+“That chamber is called Threefold, as is said: *Temple of YHVH, Temple of YHVH, Temple of YHVH* ([[Jeremiah 07#^7-4|Jeremiah 7:4]])—that chamber is Threefold. I asked him, ‘What is this?’[^729] [p. 276] **[ZḤ 91a]** ^zh-91a
+
+“The man replied, ‘This is for the ones who refrain—every day—from eating over their blood, since a person’s soul in that world departs from him each and every night. In the morning it is restored to him, resting in his nose, neither entering nor settling in his viscera until he blesses the blessed Holy One and prays over his blood. Then it settles in its place. Of this is written *Desist from a human, whose breath is in his nostrils* ([[Isaiah 02#^2-22|Isaiah 2:22]]).[^730]
+
+“‘What is the meaning of *whose breath is in his nostrils*? In the morning the soul descends, and the blessed Holy One says to her, “Go, dwell within his nostrils, on condition that he utters his prayers. If he blesses fittingly—dwell within him.” But if not—she flies off, soaring upward, and this person ends up as one deficient in holiness of soul. Since his soul is lacking, *of what account is he*? (ibid.). He is worth nothing, as if he had never existed.[^731]
+
+“‘Consequently, it is forbidden to bless one’s fellow before blessing one’s Master at the beginning of prayer. [91a] The cantor chants, “Bless *YHVH*, who is blessed” and he responds, “Blessed be *YHVH* who is blessed forever and ever.” Once he has blessed his Master, prayer begins from that point, and the *qedushot* can dwell. Happy are those who bless and sanctify their Master every day with devotion of the heart!’[^732] [p. 277]
+
+“It was then that I learned that one is not permitted to pray with a quorum of ten until they have first praised the blessed Holy One. Once they have praised him, then they can offer their prayers.[^733]
+
+“The man said, ‘Rabbi, that blessing serves only to configure praise for our Master—who returns our souls, designated with five names. The blessing has five words—[ועד‎ לעולם]‎ המבורך‎ יהוה‎ ברוך (*barukh YHVH ha-mvorakh* [*le-olam va’ed*]), “Blessed be *YHVH*, who is blessed [forever and ever].” Upon this blessing, prayer dwells; and the *qedushah* dwells only upon blessing, invigorating our Master in all. This blessing and the *qedushah*—only with ten.’[^734]
+
+“I asked him, ‘Why is this chamber on the northern side?’ [p. 278] **[ZḤ 91b]** ^zh-91b
+
+“He replied, ‘In this chamber, all wicked dimensions are suppressed—[91b] prevented from ruling in this world.[^735]
+
+“‘This window is called Window of Brilliance; and none are permitted to gaze upon it besides those who dwell there. All of them look and gaze—they are able to see. All of them go about in garments resembling their forms from this world.’[^736]
+
+“I saw there many of the companions, but I was not permitted to approach them. They all recognized each other, eating the meals of powerful celestials.[^737] [p. 279] **[ZḤ 46d]** ^zh-46d
+
+“This firmament journeys daily to the four sides of the world; and as it travels, it sprinkles dew of life into the garden. Then all the righteous ones there come to bathe in that dew, shining like the radiance of the sky. Then they enter the presence of the messiah, the patriarchs, and Primal Adam; but I was not privy to those encounters.
+
+“The window on the western side is distinct from all other windows in its colors and lights. It is bounded by four letters of the holy name that shine and sparkle upon that window, sometimes revealed, sometimes concealed.
+
+“He showed me, in one place, bands of righteous ones on rungs above them all…[^738]
+
+[46d][^739] “Come and see: When they were created, they were garbed in a holy, supernal form of luminosity in the Upper Garden of Eden, and in another holy form in the Lower Garden of Eden. They were also given a supernal heavenly inheritance and a celestial portion. After this has been given to them, an angel says to them, ‘Time has come for you to depart—the blessed Holy One has said that you must leave.’[^740]
+
+“Astonished, they pleaded, ‘Whereto?’
+
+“Two angels say to them, ‘The blessed Holy One said, “*Go you forth from your land, from your birthplace, from the house of your father, to a land that I will show you’* ([[Torah 03 - Lech Lecha#^12-1|Genesis 12:1]]).’” *From your land*—Lower Garden of Eden. *From the house of [p. 280] your father*—Upper Garden of Eden. *To a land that I will show you*—a dark, base land.
+
+“They show him the entire Garden of Eden, and they show him palaces and houses, supernal chambers—numerous, beautiful palaces, multifarious houses, diverse chambers, abundant rungs—the portion that each and every righteous person receives.[^741]
+
+“He says, ‘What are these palaces?’
+
+“Two angels reply, ‘Forty-two palaces, embroidered from numerous splendid colors. Whoever recites the *Shema* with the Name of Forty-Two Names fittingly, inherits them.’[^742]
+
+“They bring him into seventy rungs—within them seventy-two windows, embroidered from copious colors. He asks, ‘For whom are these?’
+
+“They reply, ‘Whoever recites *Shema* with the Name of Seventy-Two Words fittingly, inherits this.’[^743]
+
+“They bring him farther, showing him fifty more dwellings, embroidered from multifarious colors. He inquires, ‘For whom are these?’
+
+“They reply, ‘Whoever recites *Shema* with the Name of Fifty Words fittingly, inherits this.’[^744]
+
+“They take him farther and show him seventy-two other dwellings, embroidered with profuse colors. He asks, ‘For whom are these?’ [p. 281]
+
+They reply, “For each person who recites *Shema* with the Name of Seventy-Two Words of the fourth section.”[^745]
+
+“He asks them, ‘How can I earn this?’[^746]
+
+“They replied, ‘*By painful toil will you eat of it* ([[Torah 01 - Bereshit#^3-17|Genesis 3:17]]).’
+
+“He asks them, ‘And what is the *painful toil*?’
+
+“They replied, ‘*We will do and we will listen* ([[Torah 18 - Mishpatim#^24-7|Exodus 24:7]])—doing through virtuous actions, listening through the Torah.’[^747]
+
+“Then they pluck him out of the Garden of Eden, traveling with him to Hell, a pillar of cloud above his head accompanying him by day, a pillar of fire by night. They say to him, ‘Come and see: This place is darkness, by day and by night.’ They show him all the compartments of Hell, *the flame of the whirling sword* ([[Torah 01 - Bereshit#^3-24|Genesis 3:24]]), and they show him *the dogs that are ravenous for souls—insatiable* ([[Isaiah 56#^56-11|Isaiah 56:11]]).[^748]
+
+“He asks them, ‘What are these?’
+
+“They respond, ‘Forty-two chambers of gloom. Countless men here with chains round their necks, hands and feet bound. And they wail, “Woe, woe! Woe unto us, for we followed the vanities of this world and did not go to the synagogues. Nor did we recite the Name of Forty-Two Names, for we had not [p. 282] **[ZḤ 47a]** learned it. Woe unto us! Woe unto our souls!” Chief Warden of prisoners is appointed over them.’[^749] ^zh-47a
+
+“They bring him in farther, showing him seventy-two tenebrous windows, where the chains around the necks [of the wicked] are affixed. They bring him in farther and show him fifty gates, all of them gashed, with the legs of sinners inserted into the gaps. They shriek, crying, ‘Woe to our legs that tramped after the vanities of the world and did not lead us to the synagogue! Nor did we learn the Name of Fifty Words in the *Shema*!’[^750]
+
+“They take him farther to seventy-two compartments, where the hands [of the wicked] are bound to chinks in house-doorposts. They howl, “Woe unto us! Woe unto our hands that did not tie tefillin to head and hands!”[^751]
+
+“They take him farther, showing him all the compartments of Hell, and they proclaim, ‘All humanity shall enter here, even those who are exempt.’ This is as is written: *Small and great alike are there, and the slave is free of his master* ([[Job 03#^3-19|Job 3:19]]). [None is free,] other than one who knows the name of the blessed Holy One fittingly, as is written: *I will raise him high, for he knows My name. He calls Me, and I answer him* ([[Psalms 091#^91-14|Psalms 91:14–15]]).[^752] [47a]
+
+“Come and see: Whoever performs good deeds (positive commandments), each and every commandment that he performed soars upward and stands before the blessed Holy One. It declares, ‘I am from so-and-so, who fashioned me!’ The [p. 283] blessed Holy One bestows an angel upon him, to assist him in the gloomiest part of Hell; it is called Night, and is located there.[^753]
+
+“For each word of Torah that he heard—each and every word—the blessed Holy One grants him an angel to assist him, one for each and every word. Of this: *Let not this book of Torah depart from your mouth; you shall meditate on it day and night, so that you may be careful to act according to all that is written in it. For then you will make your way prosperous, and then you will succeed* ([[Joshua 01#^1-8|Joshua 1:8]]). And if you do this that the blessed Holy One has commanded you, occupying yourself with Torah day and night, and carefully acting upon everything written in it, you need not fear this place. This is as is written: *I charge you: be strong and resolute; do not be terrified or dismayed*… (ibid., 9). The blessed Holy One will be with you when you are delving in Torah day and night, and the blessed Holy One will be with you when you carefully perform all that is written in it. The blessed Holy One will be with you when you leave the world and enter this place.[^754]
+
+“But if you do not occupy yourself with Torah, and do not dedicate yourself and perform the Torah’s commandments, the blessed Holy One will abandon you, and He will not command His angels for you, to guard you in all your ways. This is as is written: *If you walk with Me contrarily… I Myself will walk with you contrarily* ([[Torah 33 - Bechukotai#^26-21|Leviticus 26:21]], [[Torah 33 - Bechukotai#^26-24|24]]).[^755]
+
+“After he was shown all this, and told all about it, one of the two angels—Good Impulse—says to him, ‘The blessed Holy One said to me that I should go [p. 284] with you, Evil Impulse and I. Swear to me that you will fulfill the entire Torah—to learn, to teach, to observe, and to perform.’ He swears to him. Afterward he says, *Go you forth, from your land, from your birthplace* ([[Torah 03 - Lech Lecha#^12-1|Genesis 12:1]]), to a lowly body, as I have instructed you.[^756]
+
+“At the point that he emerges from his mother’s womb, an angel seizes him by the neck—causing him to forget the Torah—and marks him on the mouth with his finger: ‘Do not forget the oath that you have sworn to me.’[^757]
+
+“And if a person performs and fulfills the oath, he is given all that they had shown him, and if he earns more, they give him more. This is as we have learned: ‘Learn much Torah and you will be given great reward.’[^758]
+
+“But if not, come and see: Within man is יהוה (*YHVH*). *YH*—World that is Coming; *VH*—this world. *YH*—garbed in celestial form from supernal Garden of Eden. *VH*—garbed in a form from lower Eden. Arrayed according to this paradigm: י (*Y*)—Elimelech; ה (*H*)—Naomi; ו (*V*)—Mahlon; ה (*H*)—Ruth.[^759]
+
+“If this man follows righteous paths and fulfills the oath that he swore, he is given all the benefits that he was shown and everything that he accrued in that world. But if not, what does the holy name say? ‘*Naked I issued from my mother’s [p. 285] womb, and naked will I return there* ([[Job 01#^1-21|Job 1:21]]).’ What does this mean? *Naked* of the holy name *YHVH*, as we have said.[^760]
+
+“Come and see: When a person comes into the world, the blessed Holy One places His name within him. Another name comes from a Jewish demon, ‘Mundane,’ and another name, ‘Darkness.’ This is as is written: *See, I have set before you life and good and death and evil* ([[Torah 51 - Nitzavim#^30-15|Deuteronomy 30:15]]). *Life*—alluding to the blessed Holy One’s name *YHVH. And Good*—alluding to the Jewish demon who gave him riches in this world. *And Death and Evil*—alluding to the two wicked, impure prosecutors from the side of Samael and Serpent, archons of Ishmael and Esau.[^761]
+
+“If one fulfills the oath that he had sworn, good; but if he does not, *Yod* and *Vav* abandon him, leaving *He* and *He*. Then, what does Upper *He* proclaim? *Turn back, turn back from your evil ways* ([[Ezekiel 33#^33-11|Ezekiel 33:11]])—these are the wicked to whom we referred.[^762]
+
+“If they repent, good. If not, upper *He* flies off with *Vav* and *Yod*, becoming *HVY*. And what does She say? הוי (*HVY*), *Alas, sinful nation*… ([[Isaiah 01#^1-4|Isaiah 1:4]]). If they [p. 286] **[ZḤ 47b]** repent, since Lower *He* remains, good. But if not, הויה (*HVYH*) is produced. This is as is written: [47b] *He has withdrawn His right hand in the face of the enemy* ([[Lamentations 2#^2-3|Lamentations 2:3]])—the wicked became united against them.[^763] ^zh-47b
+
+“Then the wicked become masters over them and impurity ascends—from the side of the archon of Esau over Elimelech and Naomi, and by the archon of Ishmael over Mahlon and Ruth. Then they cry, *O YHVH our God! Lords other than You possessed us* ([[Isaiah 26#^26-13|Isaiah 26:13]]).
+
+“At that moment, *there was a famine in the land* ([[Ruth 1#^1-1|Ruth 1:1]]). *The land*—body. At that point, if a person delves in Torah, good. If not, Samael arrives riding on a serpent toward Elimelech. *He saw that he could not prevail against him, and he touched the socket of his thigh* ([[Torah 08 - Vayishlach#^32-26|Genesis 32:26]])—he came to [Elimelech’s] wife Naomi to turn her and induce her to sin, to become vile.[^764]
+
+“If one avoids her, good, as Job said, ‘*You talk as one of the churlish women would talk. Shall we accept only good from God, and evil we shall not accept*? ([[Job 02#^2-10|Job 2:10]]). The advice given to you by the Impure One we shall not follow; and if sinful urging arises, as she exhorted, leading one to steal or perform any transgression, afterward they will hang him from a tree.’ This is as is written: *and [p. 287] then those two—Mahlon and Chilion—also died* ([[Ruth 1#^1-5|Ruth 1:5]]), leaving ה (*he*) and ה (*he*) as widows.[^765]
+
+“*Naomi said* (ibid., 8). What did she say? ‘וה‎ וי‎ וי (*vay, vay, vah*), Woe, woe, ahh!’ But nonetheless, Naomi says, ‘*Turn back, my daughters* (ibid., 11). Turn back, turn back in repentance. *Have I any more sons in my womb who might be husbands for you*? (ibid.)’—י (*yod*) and ו (*vav*) having departed. Orpah, from the side of impurity, turned back to her people and her gods. But Ruth cleaved to Naomi, as is written: *wherever you go, I will go* (ibid., 16).[^766]
+
+“If they turn back in repentance, Elimelech will appear and Mahlon will appear; and if they all turn back, the holy, supernal name appears. But if not, they will die. This is as is written: *She left from the place where she had been living, accompanied by her two daughters* (ibid., 7)—they leave the body.[^767]
+
+“Then she proceeds to the sentinels of the Garden of Eden, to enter there, but they shove her out, and she wanders in the place of darkness. *The whole city hummed with excitement because of her*. [*The women*] *asked, ‘Could this be Naomi?’* (ibid., 19). Then she said, *‘I went away full and YHVH brought me back empty* (ibid., 21)—[empty of] the holy name that was within me. This is as is written: *YHVH testified against me* (ibid.)—the holy name *YHVH* testifies against me regarding all the sins I have committed. At once the serpent comes and takes her as a maidservant. Then she says, *How has the faithful city become a harlot? She who was full of justice, righteousness lodged in her—but now murderers!* ([[Isaiah 01#^1-21|Isaiah 1:21]]).’[^768] [p. 288]
+
+“י (*Y*) and ו (*V*) remained poor and downtrodden, *poor and riding on an ass* ([[Zechariah 09#^9-9|Zechariah 9:9]]). Of the downtrodden it is said: *Happy is one who considers the downtrodden; on the day of evil YHVH will deliver him* ([[Psalms 041#^41-2|Psalms 41:2]]). If he leaves a son who follows in the path of the blessed Holy One and is occupied with Torah, He will save him from evil, and they will be scattered to the four corners of the earth.[^769]
+
+“It is written: *Thus says YHVH to the house of Jacob, who redeemed Abraham* ([[Isaiah 29#^29-22|Isaiah 29:22]]). Jacob was not yet in the world, and yet you say *who redeemed Abraham*![^770]
+
+“Ah, but come and see: Before they hurled Abraham into the blazing furnace, he had been previously arraigned on high. The blessed Holy One ordered, ‘My throne! Go rescue Abraham from the Chaldean furnace, for he had acted thus for my honor!’ The angels replied, ‘But Master of the Universe, a man will issue from him, Ishmael, who shall act toward them as he will.’[^771] [p. 289] **[ZḤ 47c]** ^zh-47c
+
+“He said to them, ‘Isaac, too, will issue from him, and he will stretch out his neck upon the altar.’[^772]
+
+“They replied, ‘But Esau, who will issue from him, will destroy the Temple!’[^773]
+
+“He said, ‘Ah, but Jacob will issue from him, and he is the perfect throne.’[^774]
+
+“They replied, ‘Well, certainly on the merit of Jacob he should be saved.’ This is as is written: *Thus says YHVH to the house of Jacob, who redeemed Abraham*.[^775]
+
+“When they bound Hananiah, Mishael, and Azariah to cast them into the blazing, fiery furnace, Hananiah opened, saying, ‘*YHVH is with me, I will not fear. What can a man do to me? YHVH is with me among my helpers, and I will see the defeat of my enemies* ([[Psalms 118#^118-6|Psalms 118:6–7]]).’[^776]
+
+“Mishael opened, saying, ‘*Thus says YHVH* [47c] *to the house of Jacob, who redeemed Abraham: No longer will Jacob be ashamed, no longer his face grow pale. For when he sees his children, the work of My hands*… ([[Isaiah 29#^29-22|Isaiah 29:22–23]]). Then he was judged above.’[^777]
+
+“The blessed Holy One said, ‘*This one will say, “I am YHVH’s”* (ibid. 44:5).’ This refers to Hananiah, who said, *YHVH is with me among my helpers, and I will see the defeat of my enemies* ([[Psalms 118#^118-7|Psalms 118:7]]). *Another will call himself by the name of Jacob* ([[Isaiah 44#^44-5|Isaiah 44:5]])—this is Mishael, who said, *Thus says YHVH to the house of Jacob*… ([[Isaiah 29#^29-22|Isaiah 29:22]]). *And adopt the name of Israel* (ibid. 44:5)—this is Azariah, who said, ‘*Hear, O Israel*… ([[Torah 45 - Vaetchanan#^6-4|Deuteronomy 6:4]]).[^778] [p. 290]
+
+“Come and see: When Mishael said, *‘Thus says YHVH to the house of Jacob, who redeemed Abraham,’* they mocked him. The blessed Holy One said, ‘My throne! Their mockery—rescue these upon that rung, just as you rescued Abraham: *No longer will Jacob be ashamed, no longer his face grow pale* ([[Isaiah 29#^29-22|Isaiah 29:22]]). At once, all those who had bound the others were slain by fire-flash.[^779]
+
+“Why wasn’t Daniel with them? He said to himself, ‘Look, they have turned me into an idol, and the king has said that my name was like that of his god.’ This is as is written: *whose name is Belteshazzar after the name of my god* ([[Daniel 04#^4-5|Daniel 4:5]]). It is also written *The graven images of their gods you shall burn with fire* ([[Torah 46 - Eikev#^7-25|Deuteronomy 7:25]]). So he hid from them.[^780]
+
+“Is it possible for someone to escape the king’s ruling? The explanation is that angels concealed him.
+
+“What inspired Hananiah, Mishael, and Azariah to allow themselves to be cast into the fire? Well, come and see: One day, David had gone down to luxuriate by the river, and he said, ‘*Guard my life, for I am pious* ([[Psalms 086#^86-2|Psalms 86:2]]).’[^781] [p. 291]
+
+“They asked him, ‘You, pious?!’[^782]
+
+“He replied, ‘Am I not pious? For my hands are soiled by blood, fetus, and placenta in order to deem the pure, pure; and the impure, impure. And I rise joyously at the three watches, as is said: *At midnight I rise to praise you* (ibid. 119:62). I sleep like a horse, the duration of a single breath, and I rise at midnight to occupy myself with Torah. At the third watch, I play music with the angels for the blessed Holy One, as is written: *When the morning stars sang together, and all the sons of God shouted for joy* ([[Job 38#^38-7|Job 38:7]]).’ Who are they? Holy angels who chant with me at night, as is written: *in the night His song is with me* ([[Psalms 042#^42-9|Psalms 42:9]]).[^783]
+
+“The frogs boasted, ‘We surpassed you, for the sake of the blessed Holy One!’
+
+“David replied, ‘And how have you bested me?’
+
+They responded, ‘We incinerated ourselves in the blaze of the Egyptian ovens!’[^784] [p. 292]
+
+“When Hananiah, Mishael, and Azariah were bound, they thought to themselves, ‘Let us act like the frogs.’[^785]
+
+“We have learned in a *baraita*: The night has three watches; and during each and every watch, the blessed Holy One sits and roars like a lion. Come and see: the three watches consist of twelve hours, divided into four for each watch. Over each and every watch, the blessed Holy One sits and roars like a lion, lamenting ‘Woe, I have destroyed My House…!’[^786]
+
+“Come and see: Just as there are watches in the heavens, so are there watches on earth. How are they marked? The second watch consists of dogs howling, as is written: *The leech has two daughters—‘Give!’ and ‘Give!’* ([[Proverbs 30#^30-15|Proverbs 30:15]]). *The dogs are greedy; they never know satiety* ([[Isaiah 56#^56-11|Isaiah 56:11]]).[^787]
+
+“During the first watch, the donkey brays, as is written: *Do not plow with an ox and a donkey together* ([[Torah 49 - Ki Teitzei#^22-10|Deuteronomy 22:10]]). It was in this manner that Balaam abused his donkey, and he would prophesy through his ‘wife.’ This is as is written: *There did not arise again in Israel a prophet like Moses* ([[Torah 54 - V'Zot HaBerachah#^34-10|Deuteronomy 34:10]])—but among the nations of the world, one arose.[^788] [p. 293] **[ZḤ 47d]** ^zh-47d
+
+“You would mention the vilest of the vile in the same breath as the purest! Well, the intent is Moses in purity, and Balaam in impurity. Of this one, he would have intercourse with his ass.[^789]
+
+“*If a bird’s nest happens to be before you*… ([[Torah 49 - Ki Teitzei#^22-6|Deuteronomy 22:6]]). Come and see: *nest* alludes to body. *On the way* (ibid.)—pursuing virtuous ways. *In any tree* (ibid.) [47d]—alluding to Torah, as is said: *A tree of life is she to those who grasp her* ([[Proverbs 03#^3-18|Proverbs 3:18]]). *Or on the land* ([[Torah 49 - Ki Teitzei#^22-6|Deuteronomy 22:6]])—alluding to Israel, called Land, who are taught Torah. *Fledglings* (ibid.)—youths delving in Torah. *Or eggs* (ibid.)—young ones learning *alef beit*, the alphabet.[^790]
+
+“*The mother crouching* (ibid.)—*mother* always refers to Torah, as is written: *Do not forsake your mother’s teaching* ([[Proverbs 01#^1-8|Proverbs 1:8]]). If you want to take the offspring, *surely send off the mother* ([[Torah 49 - Ki Teitzei#^22-7|Deuteronomy 22:7]]), and afterward *the offspring you may take for yourself,… and you will prolong your days* (ibid.).[^791]
+
+“Alternatively, יקרא‎ כי (*ki yiqqare*), *If one proceeds contrarily* (ibid., 6)—this is as is said: *If you walk with Me* קרי (*qeri*), *contrarily,… I Myself will walk with you contrarily* ([[Torah 33 - Bechukotai#^26-21|Leviticus 26:21]], [[Torah 33 - Bechukotai#^26-24|24]]). *I will go on smiting you sevenfold for your sins* (ibid., 21). What is the meaning of *seven*? *Shekhinah. On the way*—alluding to the burial of Rachel, for she stands at the crossroads. He sends Her good tidings [p. 294] and He sends Her comfort, but She refuses to be consoled, as is written: *refusing to be comforted* ([[Jeremiah 31#^31-15|Jeremiah 31:15]]). Since they had walked with Him contrarily, He exiled them; and *Shekhinah* went into exile along with them.[^792]
+
+“*In any tree*—alluding to Jericho. *Or on the land*—Jerusalem. *Fledglings*—supernal angels; *or eggs*—lower angels; large faces and small faces.[^793] [p. 295]
+
+“*The mother crouching over the fledglings or over the eggs. You shall not take the mother together with the offspring. Send off the mother*—this is as is written: *For your crimes, your mother was sent away* ([[Isaiah 50#^50-1|Isaiah 50:1]]). *The offspring you may take for yourself*, so *that it will benefit you, and you will prolong your days*—for She roams and wanders from Her fledging and from Her nest. דאנפין‎ אריכו (*Arikhu de-anpin*), Lengthened faces—celestial six days, with compassion for the world. This is as is written: *YHVH, YHVH!*… אפים‎ ארך (*erekh appayim*), *long faces* ([[Torah 21 - Ki Tisa#^34-6|Exodus 34:6]]). Fury אריך (*arikh*), is distanced, from the faces that had withdrawn on account of Israel’s sins. This is as is written: *You will see My back, but My face will not be seen* ([[Torah 21 - Ki Tisa#^33-23|Exodus 33:23]]).[^794]
+
+“Another teaching. *My love has gone down to his garden, to the beds of spices, to graze in the gardens and to gather lilies* ([[Song of Songs 6#^6-2|Song of Songs 6:2]]). Come and see: All songs are holy, but Song of Songs is holy of holies. Assembly of Israel exalts the blessed Holy One, singing, *My lover*, as is written: *My lover is radiant and ruddy* ([[Song of Songs 5#^5-10|Song of Songs 5:10]]).[^795]
+
+“Come and see: When the night is split, a single flame is aroused and flares beneath the wings of the rooster, and he crows. At that moment, the blessed Holy One descends to His garden—upper Garden of Eden, belonging to the blessed Holy One. Then the celestial rooster is aroused and crows, ‘Arise, all those with slumber in their sockets! The time has come for the doe to bond with her mate!’[^796] [p. 296]
+
+“Happy are all those who rise at midnight to delve in Torah, for the blessed Holy One and all the righteous listen to his voice. This is as is written: *You who dwell in the gardens, companions listen for your voice; let me hear!* ([[Song of Songs 8#^8-13|Song of Songs 8:13]]). At that moment, a single filament of love pours down upon one who studies Torah.[^797]
+
+“Then, *He has gone down to his garden*. To whom does He descend? *To the beds of spices*. And who are the *beds of spices*? This is as is written: *choice spices* ([[Torah 21 - Ki Tisa#^30-23|Exodus 30:23]]). Who are they? The righteous. *To graze in the gardens*—in the supernal Garden of Eden and lower Garden of Eden, called This World and World that is Coming.[^798]
+
+“*To gather roses*—who are these *roses*? The righteous who delve in Torah, lips astir with Torah. This is as is written: שושנים (*shoshanim*), *roses*; do not read שושנים (*shoshanim*), [*lips like*] *roses*, but rather ששונים (*she-shonim*), [*lips*] *reciting*, for even in the grave they are astir with Torah.”[^799] [p. 297]
+
+He said to him, “Does He indeed cause the untimely deaths of those who are occupied with Torah? They are righteous ones, who have not sinned![^800]
+
+“Come and see: When Jeroboam was a child, he was righteous without sin. The blessed Holy One said to the Angel of Death, ‘Go fetch Jeroboam son of Nebat.’[^801]
+
+“At once the ministering angels protested, *YHVH, our Lord, how majestic* [48a] *is Your Name throughout the earth* ([[Psalms 008#^8-2|Psalms 8:2]]). Through Your name he has attained his majesty, and he is righteous. Through his merit, divine overflow proceeds to us!’
+
+“He said to them, ‘If it is your will that I should leave him be, I’ll leave him be.’
+
+“Later he took a wayward turn, producing two golden calves, sinning and inducing Israel to sin. The blessed Holy One said to them, ‘All the divine overflow that he furnished for you has turned to slime! You would have been better off had you brought him here when he was righteous! Then Metatron would have taught him Torah.’[^802]
+
+“At that point they all opened, chanting: *Just are you, YHVH; and upright are Your laws* ([[Psalms 119#^119-137|Psalms 119:137]]). Of this, the blessed Holy One *has gone down to his garden to gather roses*.”[^803]
+
+[^1]: ***In the days*…** The full verse reads: *In the days when the judges* [or: *chieftains*] *judged, there was a famine in the land; and a man of Bethlehem in Judah, with his wife and two sons, went to reside in the country of Moab*.
+
+[^2]: **The rabbis explained the verse…** The development of this verse continues below on 76a. On this verse, see *Zohar* 1:189a; 3:22b; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-76a|ZḤ* 76a]] (*MhN, Rut*).
+
+[^3]: **He created only for His glory…** The author interprets the verse from Isaiah hyperliterally: *Everyone who is called by My name*, signifying the human being, actually bears the divine name within him. The four-part composite soul of the human being manifests the four-letter ineffable name of God. *Nefesh* (“soul”) is the basic power animating the human being. The higher levels of soul are *ruaḥ* (“spirit, breath”), *nishmeta* (in Hebrew: *neshamah*, “breath, soul”), and *nishmeta de-nishmeta* (“soul of soul”). These four correspond, in ascending order, to *Malkhut, Tif’eret, Binah*, and *Ḥokhmah*. Together, four aspects of soul and four letters of the tetragrammaton symbolize the Divine Family: Father, Mother, Son, and Daughter.
+
+    The concept “soul of soul” as a component of the composite human soul is rare—found only in four passages: here, below at 78b, 82c–82d (both in *MhN, Rut*), and *Zohar* 1:79b (*ST*). See also Joseph of Hamadan, *Sefer Tashaq*, 438. The phrase derives from Solomon ibn Gabirol’s *Keter Malkhut* 4:47: “You are alive but not through… soul, for You are soul of soul.” See *Zohar* 1:103b, 245a; 3:109b (*RM*), 152a; Scholem, *Major Trends*, 110, 375, n. 97; idem, “Iqvotav shel Gabirol ba-Kabbalah,” 43–45.
+
+    On this application of the verse in Isaiah, see *Avot* 6:9; BT *Yoma* 38a. On the correspondence of the tetragrammaton to the four parts of the human soul, see *Zohar* 1:79b–80a (*ST*); *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-78c|ZḤ* 78c]], [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-82c|82c]] (both in *MhN, Rut*).
+
+    On the rabbinic notion of five faculties of soul, see *Bereshit Rabbah* 14:9 and notes of Theodor-Albeck there. On the teachings regarding the soul in the *Zohar*, see Tishby, *Wisdom*, 677–722; in *Midrash ha-Ne’lam* specifically, 703–13; cf. below, note 734. Different names are used for different faculties of the soul throughout *Midrash ha-Ne’lam* on Ruth, indicating a mix of various theories.
+
+    On יה (*yod he*) as Father and Mother, see BT *Sotah* 17a and Rashi, ad loc.; *Zohar* 1:95b, 232b, 237b; 2:22a, 123b, 126b, 165b; 3:10b, 11a, 78a, 290b, 291a (last two *IZ*); *[[Zohar 12.11 - Zohar al ha-Parashot#^zh-48d|ZḤ* 48d]]; Moses de León, *Sheqel ha-Qodesh*, 99 (126–27); Gikatilla, *Sha’arei Orah*, 45b, 91a, 92b, 94b. On וה (*vav he*) as Son and Daughter, see *Zohar* 3:10b, 11b, 290b.
+
+[^4]: **Following the pattern…** The notion of an animal *ruaḥ* and *nefesh* deriving from the left side is unique to *Midrash ha-Ne’lam* on Ruth and to later scribal additions to *Sitrei Torah*. These components of the soul are associated with the Evil Impulse within the human being. While wine can be improved by sitting on its dregs, the author’s intent here is to signify the superiority of holy souls to animal ones. Spirit and soul of the left side correspond to Samael riding upon the serpent.
+
+    The simple sense of the verse is *Who knows if the spirit of the sons of men ascends on high while the spirit of a beast descends into earth?* but the author of *Midrash ha-Ne’lam* on Ruth is certain of these souls’ destinations. There may also be a play here on the word מי (*Mi*), *Who*, since *Mi* is often used in the *Zohar* to allude to *Binah*—it is *Binah Who knows*. Thus, *Binah* knows the spirit of the human that ascends on high, whereas the animal spirit descends.
+
+    On the image of “wine on its dregs,” see [[Isaiah 25#^25-6|Isaiah 25:6]], and Rashi and Radak, ad loc. Cf. *Matoq mi-Devash*. On the intellectual soul, see Maimonides, *Shemoneh Peraqim* 1; *Zohar* 1:79b, 81a (both *ST*); *[[Zohar 10.03 - Parashat Be-Reshit#^zh-6d|ZḤ* 6d]] (*MhN*), 9a (*MhN*), 33b (*MhN*), 34c (*MhN*), 82b (*MhN, Rut*); Moses de León, *Sefer ha-Mishqal*, 38–47; idem, *Sheqel ha-Qodesh* 24, 33, 35. On the animal soul (*nefesh behamit*), see Naḥmanides on [[Torah 29 - Achrei Mot#^17-11|Leviticus 17:11]]; *Zohar* 1:79b (*ST*). On Ecclesiastes as “wisdom of Solomon,” see BT *Megillah* 7a. On the relation between Samael and the evil serpent, see *Pirqei de-Rabbi Eli’ezer* 13 and 21, where Samael is described as riding the serpent; cf. 3 Baruch 9:7, where Satanel cloaks himself with the serpent as with a garment.
+
+[^5]: **To the side of impurity…** Letters of God’s name are not manifest among the animal spirit and soul as they were with the aspects of soul of holiness. With the name אני (*Ani*) signifying *Shekhinah* in its aspect as the attribute of judgment, while *YHVH* signifies the attribute of mercy, the phrase *I am YHVH* indicates the union of these qualities within the Godhead, and the attempt to articulate the transcendent *Tif’eret* through the more immanent *Shekhinah*.
+
+    On *Shekhinah* as אני (*ani*), *I*, see *Zohar* 1:6a–b, 65b, 204b, 228a; 2:236b; Moses de León, *Sefer ha-Rimmon*, 380 (and Wolfson’s nn. 8–9); cf. *Mekhilta, Beshallaḥ* 3.
+
+[^6]: **mystery of *YHVH*…** “Rabbi” (most likely referring to Rabbi Yehudah) explains how the tetragrammaton, *YHVH*, is represented by the four characters of the story: Elimelech, Naomi, Mahlon and Ruth.
+
+    The word “array” renders דוגמא (*dugma*), which appears pervasively in the *Zohar* in the Aramaic form גונא (*gavvna*). In the *Zohar* proper it is translated as “model,” “pattern,” but in *Midrash ha-Ne’lam* could be translated as “analogy,” or perhaps even “parable.” In the *Zohar*’s style of meaning-making through symbolic imagery, the signifying term is inextricably bound up with and transparent to the entity being represented. In most of *Midrash ha-Ne’lam*, biblical figures represent divine or metaphysical aspects of reality through the more attenuated form of allegory, in which the signifying term can ultimately be sacrificed once the signified term has been identified. See Wolfson, *Luminal Darkness*, 56–110; Mottolese, *Analogy in Midrash and Kabbalah*.
+
+    L38, L39, MS3, CH1, and Thiengen all omit the attribution to “Rabbi.” While the MT records *kindness of the Lord* in [[Psalms 090#^90-17|Psalms 90:17]], *Minḥat Shai* indicates that there are versions circulating with *kindness of YHVH*.
+
+    For other instances of a difference between the Masoretic spelling or wording and the *Zohar*’s reading, see above, p. 5, n. 6.
+
+    The association of the four letters of *YHVH* with these personalities serves the allegorical aim of teaching about the four levels of the human soul, and it draws on the Zohar’s gendering of those four letters, yet it does not reflect anything about the characters of Elimelech and Mahlon in particular. On these four individuals, see *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-47a|ZḤ* 47a]] (*MhN, Rut*); cf. *Zohar* 3:10b, 11b, 290b (*IZ*); *ZḤ* 20C.
+
+    On *Binah* as *the no’am, kindness* [or: *pleasantness, sweetness*] *of YHVH*, see *Zohar* 1:197b, 219a; 2:31a–b, 57b, 127a, 170b; 3:79b, 161b; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-85b|ZḤ* 85b]] (*MhN, Rut*).
+
+    On the name Naomi, see Sasson, 17–18.
+
+    The full verse in Psalms reads: *May the kindness of the Lord, our God be upon us. The work of our hands, establish for us; the work of our hands, establish it*.
+
+[^7]: **תור (*tor*), turtledove…** Ruth and Naomi are both compared to birds in Scripture, based on wordplays. The letters of רות (*rut*) are reversed, yielding תור (*tor*), meaning “turtle-dove”; and Naomi’s name can be translated as “kindness,” “sweetness,” or “pleasantness”—words that are used to describe the dove in Song of Songs.
+
+    The verse from Genesis refers to Abraham’s covenant with God, when God’s presence is revealed to Him. Here, the author interprets the verse from Song of Songs in the same light—as a request to see the divine presence.
+
+    On the association of Naomi and *nishmeta*, (“highest soul”), see *Zohar* 1:80b (standard edition). On Ruth and the turtledove, see *Zohar* 1:80b (*ST*).
+
+[^8]: **Virtuous acts—*YHVH* rests upon him…** When a person behaves virtuously, Divinity rests upon him. Rabbi proves this with the verse from Proverbs, in which *wisdom of women* represents the two female figures: Naomi, signifying *Binah* and “highest soul,” and Ruth, symbolizing *Shekhinah* and “soul.” Impiety leads to spiritual abasement, marked by the ascendancy of a degenerate animal soul, represented by Orpah.
+
+    On this verse, see *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-82d|ZḤ* 82d]] (*MhN, Rut*).
+
+[^9]: **fashioned from a drop…** Concurrent with the physical development of the embryo, God implants soul and spirit within the fetus. The developing child is enlightened in this way—as indicated by the luminous cloud by day and the column of fire by night. The fire by night, symbolizing *Malkhut*, signifies the commandments, while the column of cloud by day, representing *Tif’eret*, signifies the Torah. Along with this spiritual infusion, the embryo is taught the entire Torah and its commandments.
+
+    See BT *Niddah* 30b, in the name of Rabbi Simlai: “What does an embryo resemble when it is in its mother’s belly? A folded writing tablet…. A light burns above its head and it looks and sees from one end of the world to the other, as is said: *When His lamp shone over my head, by its light I walked in darkness* ([[Job 29#^29-3|Job 29:3]])…. And there is no time in which a man experiences greater good than in those days, for it is said: *Would that I were as in moons of yore, as the days when God watched over me* (ibid., 2). Now which are the days that constitute months but do not make up years? The months of pregnancy. It is also taught the entire Torah, for it is said: *He taught me and said to me: ‘Let your heart hold on to my words. Keep my commands and live* ([[Proverbs 04#^4-4|Proverbs 4:4]]). As soon as it emerges into the world, an angel approaches and slaps it on its mouth, causing it to forget all the Torah completely, as is said: *At the opening crouches sin* ([[Torah 01 - Bereshit#^4-7|Genesis 4:7]]).”
+
+    On being ensouled “bit by bit,” see BT *Sanhedrin* 91b: “Antoninus said to Rabbi, ‘When is the soul placed in a human being; as soon as it is decreed [or: from conception] or when the embryo is actually formed?’ He replied, ‘From the moment of formation.’ He objected, ‘Can a piece of meat be unsalted for three days without becoming putrid? Rather, it must be from the moment of the decree.’ Rabbi said, ‘This Antoninus taught me—and Scripture supports him, for it is written: *And your decree my spirit kept* ([[Job 10#^10-12|Job 10:12]]).’”
+
+    On the spiritual journey and instruction in the womb, see *Tanḥuma, Tazri’a* 1; *Seder Yetsirat ha-Velad* (*Beit ha-Midrash*, 1:153–55); [[Zohar 12.11 - Zohar al ha-Parashot#^zh-42a|ZH 42a]], 47a (*MhN, Rut*); Urbach, 246–48; Kessler, *Conceiving Israel*, 29–46; cf. Plato, *Meno* 81.
+
+    The author has conflated the two verses from Exodus, each of which speaks of the column of cloud. The full verse in Exodus 14 reads: *The angel of Elohim who was going before the camp of Israel moved and went behind them, and the column of cloud moved from before them and stood behind them*. The full verse in Exodus 13 reads: *YHVH was going before them by day in a column of cloud to lead them on the way, and by night in a column of fire to give them light, so as to go by day and by night*.
+
+    A different and expanded version of this homily can be found in *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-46d|ZḤ* 46d]]–47a (*MhN, Rut*).
+
+[^10]: **He is cautioned…** Before coming into the world, a soul is cautioned about the dangers of Hell, referred to here as “tortuous path called Night” and “Darkness.” The image of “the dog” recalls the figure of Cerberus, the multi-headed dog who sits at the entrance to Hades from Greek and Roman mythology.
+
+    “Tortuous path” renders עקלתון‎ דרך (*derekh aqalaton*), which could also be translated as “Path of the Twisted One.” [[Isaiah 27#^27-1|Isaiah 27:1]] refers to עקלתון‎ נחש (*naḥash aqalaton*), in a context that illuminates this Zoharic passage: *On that day, YHVH will punish—with His fierce, great, mighty sword—Leviathan the elusive snake, Leviathan the twisted snake, and He will slay the Dragon in the sea*. On the serpent, see Fishbane, *Biblical Myth and Rabbinic Mythmaking*, 273–92. This entire first homily explores the contrast of day and night ([[Job 38#^38-7|Job 38:7]]; [[Torah 16 - Beshalach#^13-21|Exodus 13:21]]; [[Torah 16 - Beshalach#^14-19|14:19]]).
+
+    On the preexistence of the soul, see also *Bereshit Rabbah* 8:7; BT *Yevamot* 62a; *Tanḥuma, Yitro* 11, *Pequdei* 3, *Nitsavim* 3; *Seder Yetsirat ha-Velad* (*Beit ha-Midrash*, 1:153–58); *Ḥibbut ha-Qever*, ed. Higger, 253–55; *Arukh ha-Shalem*, s.v. *guf*; Tishby, *Wisdom of the Zohar*, 2:698–703. A tour of both Paradise and Hell is described in *Tanḥuma, Pequdei* 3; *Seder Yetsirat ha-Velad*; and *Ḥibbut ha-Qever*; cf. *Midrash Tehillim* 6:6.
+
+    On the role of a dog in connection to sin, see BT *Avodah Zarah* 5a. On *terror in the night* as the terror of Hell, see BT *Yevamot* 109b; *Tanḥuma, Mishpatim* 6; *Bemidbar Rabbah* 11:3; *Zohar* 2:163b. The context in Song of Songs (3:7–8) reads: *Behold the bed of Solomon! Sixty warriors surrounding her, of the warriors of Israel—all of them skilled with a sword, expert in war, each with his sword on his thigh because of terror in the night*. On the dog as Cerberus, see Vol. 10, p. 571; Idel, “Qeta 10 yadu’a,” 74–75.
+
+[^11]: **an angel will be fashioned for you…** In rabbinic literature, commandments serve as angelic defenders, transgressions as prosecutors. Here, the angels that are created through the performance of commandments are depicted as road-builders, clearing the path for angels of destruction, who wait for sinners.
+
+    See Mishnah *Avot* 4:1, in the name of Rabbi Eli’ezer son of Jacob: “Whoever performs one commandment acquires for himself one advocate, but one who commits one transgression acquires for himself one accuser. Repentance and good deeds are like a shield against punishment.”
+
+    On the acquisition of protective or accusatory angels, see *Tosefta Pe’ah* 4:21; BT *Shabbat* 32a, *Bava Batra* 10a; *Zohar* 3:17a, 83b, 118a, 268b, 307b; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-47a|ZḤ* 47a]] (*MhN, Rut*); cf. BT *Avodah Zarah* 5a. On the cleared pathway for the righteous in the afterlife, see BT *Berakhot* 18b; *Ketubbot* 33b; *[[Zohar 10.04 - Parashat Noah#^zh-21a|ZḤ* 21a]] (*MhN*); cf. BT *Ketubbot* 77b, 104a.
+
+[^12]: **each and every letter…** Commandments and Torah study are depicted as the luminous columns guiding the Israelites through the desert, signifying in turn the protection that guides the righteous past the travails of Hell.
+
+    On the Torah as a path, see *Shemot Rabbah* 30:13. On the individual portions allotted to the righteous, see BT *Shabbat* 152a: “*When a person is going to one’s everlasting home* ([[Ecclesiastes 12#^12-5|Ecclesiastes 12:5]])—Rabbi Isaac said, ‘This teaches that each and every righteous person is given a dwelling place in accordance with his honor. A parable: A king enters a city along with his servants. When they enter, they all enter through a single gate, but when they sleep, each and every one is given a dwelling place in accordance with his honor.’”
+
+    See *Vayiqra Rabbah* 18:1, 27:1; *Rut Rabbah* 3:4; *Shemot Rabbah* 52:3; *Tanḥuma, Emor* 6; *Tanḥuma* (Buber), *Emor* 9; *Midrash Tehillim* 34:2; *Pesikta de-Rav Kahana* 9:1; *Zohar* 3:196b; *[[Zohar 12.11 - Zohar al ha-Parashot#^zh-26b|ZḤ* 26b]] (*MhN*), 34a–b, 46c (*MhN, Rut*), 49b.
+
+[^13]: ***Go you forth*…** Rabbi Yehudah interprets God’s command to Abram to leave the comforts of his homeland in terms of the injunction to the *neshamah* to leave its pristine and divine origins for its embodied journey in this world. The “blessed Holy One,” signifying *Tif’eret*, and *Shekhinah* together engender the soul before it proceeds downward. Seven blessings are educed from the three biblical verses cited, as promised to Abram, that is, the *neshamah*.
+
+    On Abram as an aspect of soul, see *Zohar* 1:79b (*ST*); cf. *Zohar* 1:76b (*ST*); *[[Zohar 10.04 - Parashat Noah#^zh-24a|ZḤ* 24a]]–b (*MhN*). On the inter-relationships between *neshamah, ruaḥ*, and body, see *Zohar* 1:62a, 81a (*ST*), 206a; 2:141b, 182a; 3:24b–25a, 70b; Tishby, *Wisdom*, 684–98. On the divine couple as parents of the soul, see *Zohar* 1:245b; 2:12a, 94b (*TZ*); 3:174b. On the blessed Holy One and the Assembly of Israel as Father and Mother, see BT *Berakhot* 35b. On the seven blessings, see *Zohar* 1:76b and 78a (both *ST*); *[[Zohar 10.04 - Parashat Noah#^zh-24a|ZḤ* 24a]]–b (*MhN*).
+
+[^14]: **worthy…** Worthiness is defined as righteousness, achieved through performance of the commandments, and through knowing the name of God, identified with the Torah. This is the path of becoming a kabbalist, and it is through kabbalistic lore that the soul is protected from the various torments of Hell.
+
+    As confirmation of the promises made regarding angelic assistance, [[Psalms 091#^91-11|Psalms 91:11]] reads: *For His angels He will command for you, to guard you on all your ways*.
+
+    On Torah as God’s Name, see Ezra of Gerona, *Peirush le-Shir ha-Shirim*, 548; Azriel of Gerona, *Peirush ha-Aggadot*, 37; *Zohar* 2:55b, 60a, 87a, 90b, 124a, 161b; 3:13b, 19a, 21a, 35b–36a, 61a, 71a–73a, 76a, 80b, 89b, 98b, 159a, 176a, 265b, 298b; Moses de León, *Sefer ha-Rimmon*, 341–42; Scholem, *On the Kabbalah*, 37–44; Tishby, *Wisdom of the Zohar*, 3:1085–86; Idel, “Tefisat ha-Torah”; Wolfson, “The Glorious Name and the Incarnate Torah.” Cf. Naḥmanides, introduction to Commentary on the Torah, 6–7; idem, “Torat ha-Shem Temimah,” in *Kitvei Ramban*, 1:167–68.
+
+[^15]: ***Could this be Naomi?*…** All those who reside in that dark path, either angels or other condemned souls, gape at the newly arrived soul, signified by Naomi, astonished that she fell so low despite all the benefits that accompanied her into this world.
+
+    The preposition in the phrase signifying “soul of soul” varies in the text—reading sometimes as *nishmeta de-nishmeta* and sometimes as *nishmeta le-nishmeta*—but the reference remains the same.
+
+[^16]: ***Do not call me Naomi*…** This verse could be construed as: *Do not call me Sweet One, call me Bitter One*… When *nishmeta* says *I left full*, she refers to the Torah and illumination granted her in the womb. When she refers to her emptiness, she is speaking of her failure to study Torah and to perform the commandments.
+
+[^17]: ***Turn back, my daughters*…** Naomi (signifying the highest soul) urges Ruth (signifying the *nefesh*, “soul”) and Orpah (symbolizing the animal soul) to depart, so that they will not suffer her fate. Because Ruth represents a purified *nefesh*, she yearns to stay with her upper partner. See Englander; *Matoq mi-Devash*.
+
+[^18]: **Orpah…** In contrast to Ruth (representing the holy *nefesh*, “soul,” that wishes to remain attached to *nishmeta*, “highest soul”), Orpah (who signifies the *nefesh ha-behemit*, “animal soul”) pines for the body and the delights that it experienced in physical existence. The body, in its misery, appears to have learned its lesson, assigning blame to the animal soul.
+
+    The narrative of the body’s complaint derives from a teaching in BT *Shabbat* 151b: “*I will spread dung upon your faces, the dung of your feasts* ([[Malachi 2#^2-3|Malachi 2:3]]). Rav Huna—others say Rav Ḥagga—said, ‘This refers to people who abandon words of Torah and make all their days like feasts.’ Rabbi Levi said in the name of Rav Pappi in the name of Rabbi Yehoshu’a, ‘After three days [in the grave], his belly bursts and it [i.e., its contents] falls upon his face, exclaiming to him, “Take what you put into me!”’”
+
+    On the *nefesh* mourning over the body, see JT *Mo’ed Qatan* 3:5, 82b; *Bereshit Rabbah* 100:7; *Vayiqra Rabbah* 18:1; *Qohelet Rabbah* on 12:6; BT *Shabbat* 152a; *Tanḥuma, Miqqets* 4; *Zohar* 1:122b (*MhN*), 218b–219a, 226a; 2:142a–b, 199b; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-83a|ZḤ* 83a]], [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-83d|83d]]–84a (both *MhN, Rut*); Moses de León, *Sefer ha-Rimmon*, 396–97.
+
+[^19]: ***Happy is one who considers* דל (*dal*), *the poor*…** Rabbi, presumably intending Rabbi Yehudah, explains the word דל (*dal*), “poor, helpless, powerless,” in the sense of being forsaken, that is, deprived of God’s grace. Rabbi Yehudah goes on to interpret משכיל (*maskil*) not as *considers* but as *provides succor*. Thus, *Happy is one* who enlightens the person who is resentful, feeling abandoned. Such a person will bring the latter to peaceable relations with God. In a surprising reversal, the word מעוזי (*ma’uzi*), *My refuge*, signifies the impecunious person who needs to be reconciled with God, and the one who *holds fast to ma’uzi* is anyone who supports him.
+
+    All of the manuscripts and printed editions (excluding Venice) have a different arrangement of materials than that found in Margaliot, skipping after the full citation of the verse from Isaiah to the middle of 75d, and then returning to 75c (bottom) and 75d (top), below. The entire section is marked by a lack of mystical, theosophic or theurgic materials, reading more like rabbinic midrash.
+
+    On the righteous person reconciling the indigent with God, see *Zohar* 2:61a, 250b (*Heikh*); cf. *Midrash Tehillim* 41:3. The full verse from Psalms reads: *Happy is one who considers the poor; on the day of evil YHVH will deliver him*. As is often the case, the uncited part of the verse is an essential part of the homiletical teaching.
+
+[^20]: **Job ultimately hurled accusations heavenward…** On Job’s murmuring against God, see BT *Bava Batra* 16a; *Pesiqta Rabbati* 47, 189b–190a; *Masekhet Semaḥot* 8:11; cf. BT *Berakhot* 31b; *Sukkah* 53a. On Job’s denying resurrection, see BT *Bava Batra* 16a. The meaning of “cast stones at images of the king” is not entirely clear; it may signify various aspersions that Job directs at God and His apparent lack of providence.
+
+[^21]: **the Accuser asserted…** By allowing Satan to present Job’s failings before God, Rabbi Nehorai ostensibly provides an ethical justification for Job’s afflictions. Job has been scourged because he does not live up to his reputation as *blameless and upright, revering God and shunning evil*. This is derived from [[Job 01#^1-8|Job 1:8]], which reads in full: *YHVH said to Satan, “Have you noticed My servant Job? For there is no one like him on earth, a man blameless and upright, revering God and shunning evil*.”
+
+    In [[Job 34#^34-35|Job 34:35]], Elihu ascribes to *discerning men* the following: “*Job speaks without knowledge, and his words are without any sense*.” Cf. BT *Bava Batra* 16b.
+
+[^22]: **Is this good…** In the course of his complaints to God, Job refers to Him as a “crofter,” which renders אריס (*aris*), “tenant farmer, sharecropper.” Though the talmudic passage upon which Job’s comments here are based (see next paragraph) refer to God as a “partner,” Job’s description of God’s role is pejorative. Cf. *Sullam*; *Matoq mi-Devash*; Mopsik; Englander.
+
+    BT *Niddah* 31a records: “There are three partners in [the creation of] a human being: the blessed Holy One, his father, and his mother. His father supplies the semen of white substance, out of which [are formed] bones, sinews, nails, the brain in his head, and the white of his eye; his mother supplies the semen of red substance, out of which [are formed] skin, flesh, hair, and the black of his eye; and the blessed Holy One gives him spirit and *neshamah*, beautiful features, eyesight, hearing, speech, the ability to walk, understanding, and discernment. When his time to depart from the world approaches, the blessed Holy One takes back his portion and leaves the shares of his father and his mother with them.”
+
+    The full verse in Job reads: *Does it benefit you to oppress, spurn Your own hands’ labor, and on the plan of the wicked to shine?*
+
+[^23]: **[75c]…** At this point, the version in the manuscripts reverts to the sequence of the printed edition.
+
+[^24]: ***Let him make peace with Me*…** From the perspective of rabbinic Judaism, Isaiah’s statement seems strange: Why would someone have to make peace with God, when He Himself is the master of peace? The formulation of Rabbi Nehorai’s question derives in part from [[Job 25#^25-2|Job 25:2]]: *He makes peace in His heights*.
+
+[^25]: **One who takes hold…** Rabbi Nehorai repeats elements of the teaching offered in the name of Rabbi above. The repetitiveness here is not entirely uncharacteristic in the *Zohar*.
+
+    On God’s leniency with Job because he was suffering, see BT *Bava Batra* 16b. On charitable giving as peacemaking between the indigent and God, see Moses de León, *Shushan Edut*, 356–57.
+
+[^26]: **muzzling himself…** In God’s exchange with Job, God appears to demand that Job reply to the rebuke, and yet Job refuses. Though it is not clear in the biblical text whether this refusal stems from defiance, fear, or humility, the author here interprets it as submission to the validity of divine judgment. This follows the apparent meaning of [[Job 40#^40-4|Job 40:4]]: *Look, I am worthless. What can I say back to You? I clap my hand to my mouth*. See Naḥmanides on [[Job 40#^40-2|Job 40:2]].
+
+[^27]: ***you have not spoken rightly to Me*…** Rabbi Pedat explains why God specifies that Job’s companions did not speak correctly to Him, since in the text, the companions speak to Job and any other listener—but are not addressing God. The word אלי (*elai*), *to Me*, is included to indicate the absence of their contrition. Whereas Job retracted his words, his companions did not.
+
+[^28]: **Whoever suspects worthy men…** According to [[Torah 36 - Beha'alotcha#^12-1|Numbers 12:1]], *Miriam, and Aaron with her, spoke against Moses concerning the Cushite wife he had taken*. For gossiping about Moses, Miriam was punished with a scaly skin disease (ibid., 9). According to rabbinic tradition (BT *Shabbat* 97a), Aaron was similarly punished but was quickly freed from the disease. In Rabbi Yehoshu’a of Sikhnin’s reading, Job’s companions were doomed by virtue of their groundless accusations of Job, being redeemed only by Job’s prayer on their behalf.
+
+    On the eruption of scale disease as a result of misplaced suspicions, see BT *Shabbat* 97a, in the name of Resh Lakish: “One who suspects worthy men is physically afflicted, for it is written: *But, look, they will not believe me*, but it was known to the blessed Holy One that Israel would believe. He said to him, ‘They are believers, [and] the descendants of believers, whereas you will ultimately disbelieve. They are believers, as is written: *the people believed* ([[Torah 13 - Shemot#^4-31|Exodus 4:31]]); the descendants of believers: *he* [*Abraham*] *believed in YHVH* ([[Torah 03 - Lech Lecha#^15-6|Genesis 15:6]]). You will ultimately disbelieve, as is said: [*And YHVH said to Moses and Aaron*,] *Because you did not believe in Me* ([[Torah 39 - Chukat#^20-12|Numbers 20:12]]). From where do we learn that he was afflicted? Since it is written: *And YHVH said further to him, ‘Bring, pray, your hand into your bosom*…’ ([[Torah 13 - Shemot#^4-6|Exodus 4:6]]).” Cf. BT *Arakhin* 16b.
+
+    Scaly affliction renders צרעת (*tsara’at*). On the term *tsara’at*, often translated imprecisely as “leprosy,” see Milgrom, *Leviticus*, 1:774–76, 816–26. On the association of scale disease with death, see BT *Nedarim* 64b; *Bereshit Rabbah* 1:29; *Shemot Rabbah* 1:34; 5:4; *Tanḥuma, Tsav* 13; cf. BT *Yevamot* 103b; *Sifrei*, Numbers 105; Josephus, *Antiquities* 3.264.
+
+[^29]: **What is נבלה (*nevalah*), *disgrace*…** Rabbi Yose son of Kisma provides etymological support for the teaching of Rabbi Yehoshu’a of Sikhnin above, explaining the word נבלה (*nevalah*), *disgrace*, as related to the word נבלה (*neveilah*), “carcass,” which shares the same spelling.
+
+    Rabbi Yose’s cited Aramaic version of the verse does not appear in the standard *Targum* rescensions. The rhetorical question in Numbers reads: *Had her father spat in her face, would she not be disgraced seven days?*
+
+[^30]: **He responded in kind…** Rabbi Yose son of Ḥalafta explains that God responds to Job, measure for measure. Since Job accused God of attacking him from a whirlwind, via transposing the middle two letters of his name איוב (*Iyyov*) to yield אויב (*oyev*), God ultimately responds to him from a whirlwind.
+
+    See BT *Bava Batra* 16a: “Rabbah said, ‘Job blasphemed with a tempest… as is written: *He crushes me with a tempest*. He said before Him, “Master of the universe! Perhaps a tempest wind has passed before You, causing you to confuse איוב (*Iyyov*), Job, with אויב (*oyev*), enemy.”’” See Mopsik, n. 38.
+
+[^31]: **anguish from Satan…** The rabbis engage in wordplay, noting the similarity of צערא (*tsa’ara*), “anguish,” and סערה‎ רוח (*ruaḥ se’arah*), *blast from a whirlwind*. They suggest that while Job’s physical distress is implemented by Satan (demon *ruaḥ*, “spirit”), permission had to have been given by God, as proven by the verse from Psalms.
+
+[^32]: **written with a ש (*sin*)…** The word *se’arah* can be written with a to שׂ (*sin*) or with a ס (*samekh*), reflecting the fact that the name Satan can also be written with both to שׂ (*sin*) and ס (*samekh*). See Englander; cf. Mopsik.
+
+    There are two figures, father and son, in the Babylonian and Jerusalem Talmuds named Rabbi Bun (or Avin or Ravin). The father is distinguished for reporting traditions from the land of Israel to the rabbis in Babylon. See BT *Gittin* 9b, *Ketubbot* 62a, *Bava Batra* 139a.
+
+[^33]: **written as בשערה (*bi-s’arah*)…** In the teaching of Rabbi Bun, we find the word לשעירים (*la-se’irim*), *to the demons*, a masculine form, while Rabbi Reḥumai notes that the word is also written in the feminine form: בשערה (*bi-s’arah*), *with a tempest*. Similarly, in [[Torah 06 - Toldot#^27-11|Genesis 27:11]], Esau is described as שעיר‎ איש (*ish sa’ir*), using the masculine form, whereas in [[Torah 08 - Vayishlach#^33-16|Genesis 33:16]] he travels שעירה (*se’irah*), *to Se’ir*, using a locative form with ה (*he*) at the end of the word—but interpreted here as if it was the (identically spelled) feminine form. These disparities reflect the masculine and feminine manifestations of demonic forces. If God speaks to Job *from the* סערה (*se’arah*), *whirlwind*, one might think that the *samekh* form denotes a divine wind—and yet both *samekh* and *sin* have denoted the demonic. Rabbi Reḥumai explains that God indeed speaks to Job from the midst of this destructive wind.
+
+    Rabbi Reḥumai is a late *amora*, appearing infrequently in the *Midrash ha-Ne’lam* and the *Zohar*, but commonly in the *Bahir*. See *Bahir* 12 (16), 46 (68), 74 (104–5), 82 (113), 87 (123, n.1), 91 (134), 99–100 (149–50); *Zohar* 1:11a; *[[Zohar 11.03 - Midrash ha-Ne'lam al Shir ha-Shirim#^zh-60c|ZḤ* 60c]] (*MhN, ShS*). Cf. BT *Ketubbot* 62b. On this destructive wind, cf. *Zohar* 2:203a.
+
+[^34]: ***Elijah ascended* בסערה (*ba-s’arah*), *in a whirlwind*…** If סערה (*se’arah*) denotes something destructive, how can it also refer to the whirlwind that carried Elijah to heaven? God grants special dispensation to Elijah, ending his life without having to suffer agonies at the hands of the Angel of Death. The Angel of Death objects that others may seek similar relief, but God replies that Elijah is “unlike all the other creatures.” Elijah ultimately subdues Satan, also known as סערה (*se’arah*), pinioning him and inducting him as bearer of the fiery chariot that carries Elijah to heaven.
+
+    The description of Elijah as “unlike all the other creatures” accords with the view of Moses de León, according to whom the angel Elijah assumed bodily form in descending to earth. See his *She’elot u-Tshuvot*, 63, 68–71. Cf. *Zohar* 1:46b, 151b, 209a, 245b (*Nitsotsei Zohar*, n. 2); 2:197a; 3:88b; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-84c|ZḤ* 84c]]–d (*MhN, Rut*). Moses de León’s view is criticized by Moses Cordovero (*Pardes Rimmonim* 24:14).
+
+    On God’s stipulations with creation on Elijah’s behalf, see *Zohar* 2:198b. This section dealing with Job, Elijah, and the questions regarding the different spellings of *se’arah* are found almost verbatim in Moses de León, *She’elot u-Tshuvot*, 60–61, 68–69.
+
+    The full verse in Kings reads: *As they* [Elijah and Elisha] *were walking along and talking, suddenly a chariot of fire and horses of fire appeared and separated the two of them, and Elijah ascended in a whirlwind to heaven*.
+
+[^35]: **bent *nun*…** The word מנ (*min*), *from*, is written uniquely with the medial letter נ (*nun*), rather than with the normal ן (final *nun*). This “bent” form is interpreted to mean that Job himself was bent over by God’s judgment, manifest as the satanic whirlwind. See *Matoq mi-Devash*.
+
+    V24, O17, O18, MS3, MS4, L37, L38, L39, CH1, N41, V6, Th, and V all add “He opened and said” followed by all or part of [[Job 38#^38-7|Job 38:7]]—*When the morning stars sang together, and all the sons of God shouted for joy*—immediately after God’s rebuke of Job. Although V6 has a formulation that is more plausible than the rest—omitting “He opened and said”—the addition seems to reflect an early scribal error, misplaced from or unduly influenced by the next homily. Cf. Englander.
+
+    On the unusual written form of the phrase הסערה‎ מנ (*min ha-se’arah*), *from the whirlwind*, see Moses de León, *Commentary on the Chariot*, 59; *Minḥat Shai*.
+
+[^36]: ***morning stars*…** On the first light of dawn, often symbolized by the *morning stars* of [[Job 38#^38-7|Job 38:7]], see, e.g., *Zohar* 2:10a–b, 188a–b; 3:22b, 52b, 171b–172a, 249a; Liebes, *Pulḥan ha-Shaḥar*, 31–43, 141–79. On the angels and stars singing in the morning, see *Zohar* 1:172b, 231b; 2:30a, 196a; 3:36a.
+
+[^37]: **dispatching all those angels…** The angelic “sons of God” mark the celestial changing of the guard with their shouting. See *Zohar* 3:22b.
+
+[^38]: **Silon is its name…** As part of the ceremony—one that the author carefully indicates is choreographed by the blessed Holy One—a star with a brief role named Silon guides the nighttime and daytime angels.
+
+    V24, O17, O18, MS3, MS4, and L39, as well as Thiengen, Venice, and *Or Yaqar* indicate סילון (*Silon*) as the name of the star, yet its actions appear to correspond to those of וילון (*Vilon*), “Curtain,” referred to in BT *Ḥagigah* 12b: “Rabbi Yehudah said, ‘There are two רקיעים (*reqi’im*), firmaments [or: heavens, vaults]….’ Resh Lakish said, ‘Seven—namely *Vilon* (Curtain), *Raqi’a, Sheḥaqim, Zevul, Ma’on, Makhon, Aravot*. Curtain performs no function at all except entering in the morning and leaving in the evening, and renewing each day the act of creation.’”
+
+    See *Zohar* 1:108b (*ST*), 207b, 233b; 3:239b; Moses de León, *Shushan Edut* 338; idem, *Sefer ha-Rimmon*, 6, 257; idem, *Sheqel ha-Qodesh*, 12 (15), 50 (61).
+
+[^39]: **From Zion the world was founded…** According to the progression of the verses, God creates the world from the location where the sun rises—identified in [[Psalms 050#^50-2|Psalms 50:2]] as Zion—the place from which *God shone forth*.
+
+    BT *Yoma* 54b explains why M *Yoma* 5:2 calls an ancient Temple stone by the name Foundation: “A *Tanna* taught: ‘[It was so called] because from it the world was founded.’ We were taught in accord with the view that the world was created from Zion. For it was taught in a *baraita*: ‘Rabbi Eli’ezer says: “The world was created from its center, as is said: *When the earth melts to a mass, and its clods cling fast together* ([[Job 38#^38-38|Job 38:38]]).” Rabbi Yehoshu’a said, “The world was created from its sides on, as is said: *For to the snow He says, ‘Fall to the ground! and rain in torrents, the rain of His mighty torrents* (ibid. 37:6).” Rabbi Yitsḥak said, “The blessed Holy One cast a stone into the sea—from it the world was founded, as is said: *On what were her pedestals sunk, or who laid her cornerstone?* (ibid. 38:6).” But the rabbis said, “The world was created from Zion, as is said: *A psalm of Asaph. God, Elohim YHVH* ([[Psalms 050#^50-1|Psalms 50:1]])… and it continues: *From Zion, perfection of beauty* (ibid., 2)—out of Zion, the world’s perfection.”’”
+
+    On Zion as the place from which the world was founded, see *Tosefta Yoma* 2:14; JT *Yoma* 5:2, 42c; *Vayiqra Rabbah* 20:4; *Pesiqta de-Rav Kahana* 26:4; *Tanḥuma, Qedoshim* 10; *Pirqei de-Rabbi Eli’ezer* 35; *Bemidbar Rabbah* 12:4; *Midrash Konen* (*Beit ha-Midrash*, 2:24–25); *Zohar* 1:71b–72a, 231a; 2:211a, 222a; 3:65b–66a; *[[Zohar 10.09 - Parashat Va-Yetse#^zh-28a|ZḤ* 28a]] (*MhN*), 61a (*MhN, ShS*), 76b (*MhN, Rut*); Moses de León, *Sefer ha-Rimmon*, 333; idem, *Sheqel ha-Qodesh*, 74–75 (95); Liebes, *Peraqim*, 372–73; Lieberman, *Tosefta ki-Fshutah*, 4:772–73; Ginzberg, *Legends*, 5:14–16, n. 39.
+
+[^40]: **light within light…** The process of creation is described as an unfolding of stages of radiance, each subsequent layer serving as garment for the previous stage, or as shell for the previous kernel.
+
+    See *Tanḥuma* (Buber), *Vayaqhel* 7: “Rabbi Shim’on son of Rabbi Yehotsadak asked Rabbi Shemu’el son of Naḥman, ‘Since you are a master of *aggadah*, tell me how the blessed Holy One created the world.’ He replied, ‘When the blessed Holy One wished to create the world, He enwrapped Himself in light and created the world, as is said: *Wrapped in light as in a garment*, and afterward: *spreading the heavens like a curtain* ([[Psalms 104#^104-2|Psalms 104:2]]).’”
+
+    See *Bereshit Rabbah* 3:4 (and Theodor, ad loc.); *Vayiqra Rabbah* 31:7; *Midrash Tehillim* 104:4; *Shemot Rabbah* 50:1; *Pirqei de-Rabbi Eli’ezer* 3; Maimonides, *Guide of the Perplexed*, 2:26; Ezra of Gerona, *Peirush le-Shir ha-Shirim*, 493–94; Ezra ben Solomon of Gerona, ed. Scholem, “Te’udah Ḥadashah,” 157–58; Azriel of Gerona, *Peirush ha-Aggadot*, 172–73; *Zohar* 1:2a, 15b, 29a, 90a (*ST*), 245a; 2:164b; Moses de León, *Mishkan ha-Edut*, 13.
+
+[^41]: **the blessed Holy One took snow…** *Pirqei de-Rabbi Eli’ezer* 3 describes creation of the earth: “From where was the earth created? From the snow beneath the throne of glory. He took it and threw it upon the waters, and the waters congealed—and dust was made.”
+
+    See BT *Yoma* 54b; JT *Ḥagigah* 2:1, 77a; *Midrash Konen*, 24; *Tanḥuma* (*Buber*), *Bereshit* 11 and n. 66); *[[Zohar 11.03 - Midrash ha-Ne'lam al Shir ha-Shirim#^zh-61a|ZḤ* 61a]] (*MhN, ShS*).
+
+    [[Isaiah 40#^40-12|Isaiah 40:12]] reads: *Who has measured the waters in the hollow of his hand, gauged the heavens with a span, held in a measure the dust of the earth, and weighed mountains on a scale and hills in a balance?*
+
+[^42]: **a single place congealed first…** The foundation stone. This creation story is like conception and gestation in which a white substance is cast into “waters,” here signifying the female genitals, developing in all directions from that single point.
+
+    On the foundation stone, see below, note 44. On the similarity to human development, see *Nitsotsei Zohar*.
+
+[^43]: **stacking up to submerge it…** On the waters’ attempt to rise up and God’s suppression of them, see *Pirqei de-Rabbi Eli’ezer* 5.
+
+[^44]: **they did not subside…** The waters longed to return to their original place, like all creations. To still the impending deluge, God engraved a stone with the divine name of seventy-two letters and threw it into the watery depths. This stone sank, sealing the depths and ensuring that the waters would not rise and inundate the world. From this stone, the whole world was founded.
+
+    Cf. BT *Sukkah* 53a–b, in the name of Rabbi Yoḥanan: “When David dug the hollows [beneath the site of the Temple], the abyss arose and threatened to drown the world…. [David] inscribed the [divine] Name on a potsherd and cast it into the abyss, and it subsided….”
+
+    See JT *Sanhedrin* 10:2, 29a; BT *Makkot* 11a; *Midrash Shemu’el* 26; Gaster, ed., *Sefer ha-Ma’asiyyot*, 113–14; *Zohar* 2:50b (*Mat*), 91b, 152a; 3:198b; Ginzberg, *Legends*, 6:258, n. 70; Sperber, “Sealing the Abysses”; Rubenstein, *History of Sukkot*, 117–31, 311–17; Fishbane, *Biblical Myth*, 124–31; Liebes, *Torat ha-Yetsirah*, 177–89.
+
+    The name of God in question, consisting of seventy-two elements, is a complex divine name derived from the description of the splitting of the Red Sea: [[Torah 16 - Beshalach#^14-19|Exodus 14:19–21]]. Each of these three verses contains seventy-two letters. The name is composed of seventy-two triads (or “words”), according to the following pattern: the first letter of the first verse, the last letter of the second verse, the first letter of the third verse (forming the first triad); the second letter of the first verse, the penultimate letter of the second verse, the second letter of the third verse (the second triad); etc.
+
+    On this name of seventy-two triads, see *Bereshit Rabbah* 44:19; *Vayiqra Rabbah* 23:2; *Shir ha-Shirim Rabbah* on 2:2; *Leqaḥ Tov*, [[Torah 16 - Beshalach#^14-21|Exodus 14:21]]; Rashi on BT *Sukkah* 45a, s.v. אני (*Ani*); Hai Gaon, in Lewin, ed., *Otsar ha-Ge’onim, Ḥagigah*, 23; *Sekhel Tov*, [[Torah 16 - Beshalach#^14-21|Exodus 14:21]] (with vocalized triads); Ibn Ezra (long) on [[Torah 16 - Beshalach#^14-19|Exodus 14:19]]; *Bahir* 76 (107), 79 (110); Eleazar ben Judah of Worms, *Peirushei Siddur ha-Tefillah*, 1:131–32; idem [pseud.], *Peirush ha-Roqeaḥ al ha-Torah*, [[Torah 16 - Beshalach#^14-19|Exodus 14:19–21]]; Naḥmanides, introduction to Commentary on the Torah, 6–7; idem, *Kitvei Ramban*, 1:168; Abulafia, *Ḥayyei ha-Olam ha-Ba*, 58–64; idem, *Sefer ha-Ḥesheq*, 24–33; *Zohar* 1:7b, 17a, 79b; 2:51b, 115a (*RM*), 132b, 269b–270a (*Tosafot*); 3:34b, 73a, 75a, 150b–151a, 219b (*RM*); *[[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-61d|ZḤ* 61d]] (*ShS*); Moses de León, *Sefer ha-Rimmon*, 148–49; Baḥya ben Asher on [[Torah 16 - Beshalach#^14-21|Exodus 14:21]]; [[Torah 16 - Beshalach#^15-3|15:3]]; Cordovero, *Pardes Rimmonim*, 21:5; *Sefer Razi’el*, 24b, 28a–29b, 30b–31b, 40b, 43a; Trachtenberg, *Jewish Magic and Superstition*, 95–97; Kasher, *Torah Shelemah*, 14:67, 284–86; Kaplan, *Meditation and Kabbalah*, 93–106; Idel, *The Mystical Experience in Abraham Abulafia*, 23–24, 35–38; idem, *Golem*, 98–101; Verman, *Books of Contemplation*, 162; Wolfson, *Through a Speculum That Shines*, 235–36; Kanarfogel, *Peering through the Lattices*, 144; Huss, “All You Need Is LAV,” 612–14.
+
+    Various other traditions discuss a divine name of seventy-two letters or components, or a name equivalent numerically to seventy-two. For example, according to *Bereshit Rabbah* 44:19 (in the name of Rabbi Avin), God redeemed the Israelites from Egypt by His seventy-two-letter name. See Theodor’s note, ad loc.; *Vayiqra Rabbah* 23:2; *Shir ha-Shirim Rabbah* on 2:2; *Avot de-Rabbi Natan* A, 13; Ibn Ezra (short) on [[Torah 13 - Shemot#^3-13|Exodus 3:13]]; Ibn Ezra (long) on [[Torah 16 - Beshalach#^14-19|Exodus 14:19]]; [[Torah 21 - Ki Tisa#^33-21|33:21]]; Jacob ben Jacob ha-Kohen, *Peirush Merkevet Yeḥezqel*, on 1:1; Naḥmanides on [[Torah 36 - Beha'alotcha#^11-16|Numbers 11:16]]; *Zohar* 1:117b–118a; 2:51b, 58a; *Minḥat Shai* on [[Ezekiel 01#^1-1|Ezekiel 1:1]]; Urbach, *The Sages*, 1:130–31; Scholem, *Kabbalah*, 342; Idel, *The Mystical Experience in Abraham Abulafia*, 105; Verman, *Books of Contemplation*, 52, 63; Wolfson, *Through a Speculum That Shines*, 235–36. Cf. *Zohar* 2:35a.
+
+    On the Foundation Stone, see M *Yoma* 5:2; *Tosefta Yoma* 2:14; JT *Yoma* 5:2, 42c; BT *Yoma* 54b; *Targum Yerushalmi*, [[Torah 20 - Tetzaveh#^28-30|Exodus 28:30]]; *Targum* on [[Song of Songs 4#^4-12|Song of Songs 4:12]]; *Targum* on [[Ecclesiastes 03#^3-11|Ecclesiastes 3:11]]; *Vayiqra Rabbah* 20:4; *Pesiqta de-Rav Kahana* 26:4; *Pirqei de-Rabbi Eli’ezer* 35; *Tanḥuma, Pequdei* 3; *Qedoshim* 10; *Bemidbar Rabbah* 12:4; *Midrash Konen*, 24–25; *Zohar* 1:71b–72a, 186a, 231a; 2:50a–b (*Mat*), 91b, 152a, 222a; Moses de León, *Sefer ha-Rimmon*, 333; idem, *Sheqel ha-Qodesh* 74–75 (95); Lieberman *Tosefta ki-Fshutah*, 4:772–73; Noy, “Even ha-Shetiyyah”; Vol. 4, p. 526, n. 582.
+
+[^45]: **At Zion…** Where the potsherd with the engraved divine names came to rest. The sacred center in Zion is marked by God’s name, thus averting chaos and constituting its beauty.
+
+    See *Tanḥuma, Qedoshim* 10: “The land of Israel sits in the center of the world, Jerusalem in the center of the land of Israel, the Temple in the center of Jerusalem, the nave in the center of the Temple, the ark in the center of the nave, and in front of the ark the Rock of Foundation, from which the world was founded.”
+
+    On Israel as the focal point of the world, see BT *Yoma* 54b, *Sanhedrin* 37a; *Tanḥuma* (Buber), *Qedoshim* 10; Ibn Ezra on [[Torah 01 - Bereshit#^1-2|Genesis 1:2]]; Naḥmanides on [[Torah 29 - Achrei Mot#^18-25|Leviticus 18:25]]; *Zohar* 1:78a, 84b, 226a; 2:157a, 184b, 193a; 3:65b, 161b; Moses de León, *Sheqel ha-Qodesh*, 74–75 (95).
+
+[^46]: **One who swears truthfully…** The sustenance by the potsherd bearing the divine name, which serves as the bulwark against a deluge from the waters of the depths, depends upon the truthful behavior of humanity. A false oath, in contrast, threatens the world’s continued existence. This is because God’s seal—truth—undergirds the cosmos and depends upon human affirmation. The simple meaning of the verse is תשא‎ לא (*Lo tissa*), *You shall not take, the name of YHVH your God* לשוא (*la-shav*), *in vain*; here, however, Rabbi Pedat interprets the opening words hyperliterally, thereby leaving the world exposed to the threatening waters.
+
+    On truth as the divine seal, see JT *Sanhedrin* 1:1, 18a; BT *Shabbat* 55a, *Yoma* 69b, *Sanhedrin* 64a; *Bereshit Rabbah* 81:2; *Shir ha-Shirim Rabbah* on 1:9; *Devarim Rabbah* 1:10; *Zohar* 2:220b. On a false oath inciting the waters below, see *Zohar* 2:91b.
+
+[^47]: ***His place*…** Referring, apparently, to the Foundation Stone in the Holy of Holies. The obscure formulation in the verse from Ezekiel leads Rabbi Ḥizkiyah to interpret *His place* as a reference to a specific place. Cf. *Bahir* 90 (130–33); *Zohar* 2:63b (standard edition), 207a.
+
+[^48]: **supporting columns…** This marks the introduction of *sefirot* and kabbalistic theosophy into a cosmological discourse. The seven “supporting columns” signify the bottom seven *sefirot—Ḥesed* through *Shekhinah*. The Righteous One (*Yesod*) is the foundational pillar because it serves as the bridge between upper *sefirot* and *Shekhinah*.
+
+    The verse reads עולם‎ יסוד‎ וצדיק (*Ve-tsaddiq yesod olam*), whose simple sense is *The righteous one is an everlasting foundation*; but it is understood midrashically as *The righteous one is the foundation of the world*.
+
+    See BT *Ḥagigah* 12b: “The Sages say, ‘[The world] stands on twelve pillars….’ And some say seven pillars…. Rabbi El’azar son of Shammu’a says, ‘On one pillar, whose name is Righteous One, as is said: *The righteous one is the foundation of the world*.’” See *Zohar* 3:69a.
+
+[^49]: **seven heavens…** The entire cosmos is composed of elements numbering seven—heavens, stars, lands, days, depths—all manifestations of the seven lower *sefirot*, and all correlating with each other.
+
+    On various “sevens,” see *Sefer Yetsirah* 4:12: “From here onward, go forth and contemplate upon that which the mouth is unable to utter, the ear unable to hear. These are the seven stars in the universe: Sun, Venus, Mercury, Moon, Saturn, Jupiter, Mars. These are the seven days of the year: seven days of Creation. Seven gates in the soul: two eyes, two ears, two nostrils, and the mouth. Engraved upon them are seven heavens, seven lands, and seven hours. Thus did He show favor to sevens below the heavens.”
+
+    See ibid., 4; *Vayiqra Rabbah* 29:11; *Pesiqta de-Rav Kahana* 23:10; *Avot de-Rabbi Natan* A, 37; *Pirqei de-Rabbi Eli’ezer* 18; *Midrash Tehillim* 9:11; 92:2; *Zohar* 2:165a; 3:9b; *[[Zohar 11.07 - Matnitin#^zh-3a|ZḤ* 3a]] (*MhN*).
+
+    On the seven heavens, see also BT *Ḥagigah* 12b. On the seven rivers, see *Zohar* 1:52a. Cf. the four rivers mentioned in BT *Bava Batra* 74b; *Midrash Tehillim* 24:6.
+
+    The rare use of the term *sefirot* in material that has traditionally comprised *Sefer ha-Zohar* shows the influence of *Sefer Yetsirah*, yet it appears also to be a reference to the theosophic *sefirot* that underpin the *Zohar*’s conception of Divinity. See *Sefer Yetsirah* 1:13; Scholem, *Major Trends in Jewish Mysticism*, 165–66.
+
+[^50]: **Seven holy lands couple with them…** Each daytime corresponds to a male firmament that couples with the nighttime, which signifies a land. This suggests that the seven *sefirot* here extend from *Binah* to *Yesod*, treated as masculine, in loving union with seven corresponding gradations within *Malkhut*. Those seven are then identified with twelve gradations within *Malkhut* that are symbolized by the twelve tribes. See Gikatilla, *Sha’arei Orah*, 81b; cf. *Sullam*; *Matoq mi-Devash*; Mopsik.
+
+    Construed literally, the verse in Exodus begins: *Six days YHVH made heaven and earth and sea, and all that is in them; and He rested on the seventh day*. The simple meaning is that God made the world in six days. However, the temporal notice lacks a preposition such as ב (*be*), “in,” which creates grammatical ambiguity. Here, the verse is read hyperliterally to suggest that *YHVH made six days*, that is, He emanated six cosmic days (usually, the *sefirot* from *Ḥesed* through *Yesod*), thereby generating *Tif’eret* (*heaven*) and *Shekhinah* (*earth*).
+
+    On the verse in Exodus, see [[Torah 21 - Ki Tisa#^31-17|Exodus 31:17]]; Ibn Ezra on [[Torah 03 - Lech Lecha#^14-4|Genesis 14:4]]; *Bahir* 39 (57), 55 (82); Naḥmanides on [[Torah 17 - Yitro#^20-11|Exodus 20:11]]; Solomon ibn Adret, *Responsa* 1:423; *Zohar* 1:30a, 247a; 2:31a, 89b; 3:94b, 103b, 298b; *[[Zohar 12.11 - Zohar al ha-Parashot#^zh-26c|ZḤ* 26c]]; Moses de León, *Sefer ha-Rimmon*, 134. On the correspondence between the seven earths and the seven heavens, see *Zohar* 1:253b (*Hash, ST*); *ZḤ* 9b (*ST*).
+
+[^51]: **seven engraved columns…** Aspects of *Malkhut*, “suspended from the heavens,” signifying *Tif’eret*. Rabbi Peraḥiah employs the rabbinic interpretative technique called *gezerah shavah* to derive common meaning from two unrelated verses, based on their use of an identical term. Since both verses use forms of the verb שמע (*shm’*), *hear*, it is concluded that the subject of the verb in each instance—*heavens* and *Israel* must be identical.
+
+[^52]: **seven celestial ones…** Expounding the verse from Amos, Rabbi Reḥumai contrasts the “seven celestial ones”—signifying the *sefirot* and identified with the divine name—with “seven chambers” below *Malkhut*, signifying gradations within *Malkhut* or archangels, who manage this world. He deduces the following associations: *He founds* and *tevel* (“the world”), both symbolizing *Binah*; *His vault*, signifying the seven beings above the lower world; *earth*, symbolizing the earth in which humanity dwells; and *His Wisdom*, symbolizing *Ḥokhmah*, overseeing all. See *Sullam*; *Matoq mi-Devash*; Mopsik; Englander.
+
+[^53]: **but they are seven!** Scripture refers to one sea, but above, reference was made to seven depths! It appears that this is a play on the homonym *yamim*, which can mean both “days” and “seas.” Thus, the term that instigates the question is not actually about “seas,” but rather “days.”
+
+[^54]: **but one sea…** The ocean, which encompasses the entire world. See *Sullam*; *Matoq mi-Devash*.
+
+[^55]: **They are seven…** Rabbi Reḥumai explains that the apparent contradiction in Scripture actually indicates that there are seven minor seas which flow into the Great Sea, signifying *Shekhinah*.
+
+    On the seven seas, see also JT *Kil’ayim* 9:4, 32c; *Ketubbot* 12:3, 35b; BT *Bava Batra* 74b; *Midrash Tehillim* 24:6.
+
+[^56]: **When the blessed Holy One casts a glance…** The verse in Psalms concludes: *if there is one who is wise, who seeks God*. If the blessed Holy One does not find any righteous ones, the world will tremble and be inundated.
+
+[^57]: **Rabbi Nehorai…** The name Nehorai means “light,” an appropriate choice given that the upcoming homily deals largely with the light at daybreak. Rabbi Nehorai interprets the stars’ twinkling as an expression of their awe of God.
+
+    In the *Zohar*, the companions frequently experience elements of the natural world as an opportunity for contemplation. They view the natural world as a symbolic portal to the worlds above and to Scripture, each being a necessary concomitant of the other. See Wolfson, “Mirror of Nature”; Hellner-Eshed, *A River Flows from Eden*, 111–20; Hecker, *Mystical Bodies*, 1–18, 116–41.
+
+[^58]: **sons of God…** Angels who send off the night shift and prompt the morning stars to sing.
+
+[^59]: **When the sun came forth…** Elsewhere the *Zohar* notes that the early light of dawn is a time that elicited prayer and even worship of the sun. According to early Islamic sources, the Mandaeans (called Sabians) performed such worship. The medieval pagans of Harran (also called Sabians) worshiped the sun alongside their main deity, the moon. According to the ninth-century Muslim scholar Aḥmad Ibn al-Tayyib al-Sarakhsi, the Harranians’ first prayer of the day included multiple prostrations “half an hour or less before the rising of the sun, finishing at sunrise.”
+
+    See Gündüz, *The Knowledge of Life*, 24, 26–27, 143, 164. Cf. Maimonides, *Guide of the Perplexed* 3:29. On sun worship, see also [[Ezekiel 08#^8-16|Ezekiel 8:16]]; M *Sukkah* 5:4; BT *Berakhot* 7a; *Zohar* 1:95b; 2:35a, 188a–b; Scholem, “Parashah Ḥadashah min ha-Midrash ha-Ne’lam she-be-Zohar,” 430, and n. 12 there. On the *Zohar*’s ambivalence toward sun worship, see Liebes, *Pulḥan ha-Shaḥar*, 31–43.
+
+[^60]: **sun bursts forth…** At the end of an astronomical discourse about the sun’s movements, *Pirqei de-Rabbi Eli’ezer* 6 says: “The sun has three letters of the Divine Name written upon his heart, and the angels lead him. Those who lead him by day do not lead him by night, and such as lead him by night do not lead him by day. The sun rides in a chariot and rises, crowned as a bridegroom, rejoicing as a mighty one, as is said: *He is like a groom coming forth from his canopy* ([[Psalms 019#^19-6|Psalms 19:6]]).”
+
+    In the Sabbath Morning service, the liturgy praises “the God who daily opens the doors of the gates of the East and cleaves the windows of the sky, who brings out the sun from its place and the moon from its abode.” On the mythical emergence of the sun, see *Zohar* 2:137a, 188a.
+
+    On the letters of the divine name written upon the sun, see Eleazar of Worms, *Sodei Razaya, Ot Yod*; Vol. 10, p. 559; Isaac ibn Sahula, *Meshal ha-Qadmoni*, V 1231–32. Cf. 2 Enoch 14:2–4; 3 Baruch 6:1–8; *Zohar* 2:35a.
+
+[^61]: **red…** “Red” and “white” here allude to the sun’s manifestations as *Gevurah* and *Ḥesed*, respectively. When the sun first chases back the demonic powers that lurk at night, it does so as a manifestation of *Gevurah*, a mighty warrior. After successfully beating them back, it reverts to its normal color of white, signifying *Ḥesed*.
+
+    The context in [[Psalms 019#^19-5|Psalms 19:5–6]] reads: *The sun he set up as a tent for* [*the heavens*]…. *He is like a groom coming forth from his canopy, rejoicing like a mighty one running his course*.
+
+[^62]: **a field…** In the *Zohar*, a field symbolizes the *Shekhinah*; and *meḥatsedei ḥaqla*, “reapers of the field,” is a common appellation for the kabbalists. Arriving at a field serves as a prompt for the delivery of mystical homilies. Here Rabbi Isaac inquires of his “master,” presumably Rabbi Nehorai. See below, note 124.
+
+[^63]: **when the sons declared it to Jacob…** See BT *Pesaḥim* 56a, in the name of Rabbi Shim’on son of Lakish: “[Upon his death bed,] Jacob wished to reveal to his sons the end of days, but *Shekhinah* departed from him [depriving him of inspiration]. He said, ‘Perhaps, Heaven forbid, there is a blemish in my bed [i.e., someone unfit among my children], like Abraham, from whom issued Ishmael, or like my father Isaac, from whom issued Esau.’ His sons answered him, ‘*Hear, O Israel!* [i.e., Jacob]. *YHVH is our God, YHVH is one*—just as there is only *one* in your heart, so there is only *one* in our heart.’ At that moment our father Jacob opened and exclaimed, ‘Blessed be the name of His glorious kingdom forever and ever!’” Rabbi Nehorai explains that when Jacob’s sons uttered these words, they were demonstrating their worthiness. Further, when Moses taught them to the entire nation of Israel, that was a necessary part of the divine instruction. But, since Rabbi Nehorai assumes that all Jews recite this line twice daily, the question arises as to whom the teaching of God’s oneness is now directed.
+
+    See *Targum Yerushalmi*, [[Torah 08 - Vayishlach#^35-22|Genesis 35:22]]; *Targum Yerushalmi* (frag.), [[Torah 12 - Vayechi#^49-1|Genesis 49:1]]; *Sifra, Beḥuqqotai* 8:7, 112c; *Sifrei*, Deuteronomy 31, 312; *Bereshit Rabbah* 68:5, 96 (pp. 1200–1202); 98:3; *Vayiqra Rabbah* 36:5; *Shir ha-Shirim Rabbah* on 4:7; *Devarim Rabbah* 2:35; *Zohar* 1:148a; 2:134a–b; cf. Moses de León, *Sefer ha-Rimmon*, 370–71.
+
+[^64]: **our forefather Jacob did not die…** According to biblical narratives, only Enoch and Elijah did not die a mortal death. According to rabbinic tradition, Jacob likewise did not really die, but rather was given eternal life through the people Israel’s perpetuity. This notion is based on [[Torah 12 - Vayechi#^49-33|Genesis 49:33]]: *Jacob finished instructing his sons, and he gathered his feet into the bed, and he expired, and was gathered to his people*. The use of the unusual term ויגוע (*va-yigva*), *he expired*, rather than *he died*, prompts this rabbinic interpretation. Jacob’s image is engraved upon the throne in order to serve as a link between Israel below and God above. Following the midrashic model in which Jacob’s sons say to him *Hear, O Israel*, here the whole nation calls to him with the same words, seeking his validation of their faithfulness. See the previous note.
+
+    On Jacob’s immortality, see BT *Ta’anit* 5b, in the name of Rabbi Yoḥanan: “Jacob our father did not die…, as is said: *Do not fear, My servant Jacob—declares YHVH—do not be dismayed, O Israel! For I will save you from afar, your seed from the land of their captivity* ([[Jeremiah 30#^30-10|Jeremiah 30:10]]). The verse compares him to his seed; just as his seed is alive, so he too is alive.”
+
+    See Rashi and Naḥmanides on [[Torah 12 - Vayechi#^49-33|Genesis 49:33]]; *Tosafot, Ta’anit* 5b, s.v. *ya’aqov avinu*; *Zohar* 1:235b, 248b; 2:48b, 141b, 174a; Moses de León, *Sefer ha-Rimmon*, 108–9, 370; idem, “Commentary on the Ten *Sefirot*,” 336b.
+
+    On Jacob’s image engraved upon the divine throne, see *Bereshit Rabbah* 68:12; 78:3; 82:2; *Eikhah Rabbah* 2:2; *Targum Yerushalmi* and *Targum Yerushalmi* (frag.), [[Torah 07 - Vayetzei#^28-12|Genesis 28:12]]; BT *Ḥullin* 91b (and Rashi, ad loc., s.v. *bi-dyoqno*); *Bemidbar Rabbah, Bemidbar* 4:1; *Tanḥuma, Bemidbar* 19; *Pirqei de-Rabbi Eli’ezer* 35; Ibn Ezra on [[Torah 53 - Ha'Azinu#^32-8|Deuteronomy 32:8]]; Judah ben Barzillai, *Peirush Sefer Yetsirah*, 43; *Zohar* 1:72a; Moses de León, “Commentary on the Ten *Sefirot*,” 338b; Kugel, *In Potiphar’s House*, 112–20; Wolfson, *Along the Path*, 1–62.
+
+    On testimony to Israel’s twice daily unification of God, see *Zohar* 2:160b; *ZḤ* 45a, [[Zohar 12.09 - Qav ha-Middah#^zh-57a|57a]] (*QhM*).
+
+[^65]: **supernal Holy One who blesses him…** In this continued reworking of the midrash of Jacob and his sons, God declares the distinctiveness of Jacob and the children of Israel, and the hosts of heaven respond with the exclamation previously voiced by Jacob’s sons: “Blessed be the name of His glorious kingdom forever and ever!”
+
+    See *Zohar* 1:12a, 18b; 2:139b, and sources mentioned above in note 63.
+
+[^66]: **thirteen rivers of pure balsam…** According to a rabbinic tradition, thirteen rivers of balsam await the righteous in the world that is coming. Frequently in the *Zohar* these rivers flow from *Binah* to *Shekhinah*. The number thirteen is significant in rabbinic and kabbalistic literature as a symbol for the thirteen divine attributes of mercy, and its recurrence here may be such an allusion.
+
+    See JT *Avodah Zarah* 3:1, 42c; *Bereshit Rabbah* 62:2; BT *Ta’anit* 25a; *Tanḥuma, Bereshit* 1; *Tanḥuma* (Buber), *Pequdei* 7; *Zohar* 1:4b, 7a, 88a (*ST*), 176a; 2:127a–b, 146b, 175b, 177a (*SdTs*); 3:67a, 131a (*IR*), 181a; Englander; cf. *Matoq mi-Devash*.
+
+    Normally, *Jeshurun* is simply a poetic name for Israel meaning “the upright one.” Here, however, the author engages in wordplay, comparing ישורון (*Yeshurun*), *Jeshurun*, to a protective שור (*shur*), “wall.” See [[Torah 53 - Ha'Azinu#^32-15|Deuteronomy 32:15]]; [[Torah 54 - V'Zot HaBerachah#^33-5|33:5]], [[Torah 54 - V'Zot HaBerachah#^33-26|26]].
+
+    *Matoq mi-Devash* speculates that the following material, until the return of Rabbi Yitsḥak and Rabbi Nehorai, was inserted here by the editor of *Zohar Ḥadash*, and it is absent in V6.
+
+[^67]: **Like the pattern…** It is a common refrain throughout Zoharic Kabbalah that the lower realm is patterned after the higher realm.
+
+    See BT *Ḥullin* 91b: “The ministering angels do not utter song above until Israel sings below, as is said: *When the morning stars sang together, and all the sons of God shouted for joy* ([[Job 38#^38-7|Job 38:7]]).”
+
+    On Jacob in both this world and the transcendent realm, see *Zohar* 2:17a (*MhN*), 216a; 3:129b, 262b. On twelve supernal tribes, see *Bahir* 82 (113); *Zohar* 1:155a–b, 159b; 2:229b; 3:134b; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-87c|ZḤ* 87c]] (*MhN, Rut*). On angels singing in heaven, pursuant to the praise of Israel, see *Sifrei*, Deuteronomy 306; *Zohar* 1:40a (*Heikh*), 90a (*ST*), 231a; 2:129b, 164b; 3:66a, 190b; Moses de León, *Sefer ha-Rimmon*, 91; cf. *[[Zohar 10.03 - Parashat Be-Reshit#^zh-12b|ZḤ* 12b]] (*MhN*).
+
+[^68]: ***Thus says YHVH*…** The verse is usually understood as *Thus says YHVH, who redeemed Abraham, to the house of Jacob*. However, Rabbi reads it hyperliterally, based on the midrashic tradition that Jacob’s (future) merit *redeemed Abraham* from Nimrod’s fiery furnace. As Abraham was cast into the furnace, the heavenly court debated whether he should be saved. The angels opposed rescuing Abraham because Ishmael was destined to issue from him.
+
+    See *Bereshit Rabbah* 63:2; *Vayiqra Rabbah* 36:4; *Tanḥuma, Toledot* 4, *Shemot* 4; *Zohar* 1:154b. Cf. BT *Sanhedrin* 19b; *Tanḥuma* (Buber), *Toledot* 1. Parallels to this whole passage appear in *Zohar* 3:57a; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-47b|ZḤ* 47b]]–c (*MhN, Rut*).
+
+    The full verse in Isaiah reads: *Therefore, thus says YHVH to the house of Jacob, who redeemed Abraham: No longer will Jacob be ashamed, no longer his face grow pale*.
+
+[^69]: **Well, Isaac…** God replied that Isaac would also issue from Abraham, implying that Isaac’s extreme devotion—demonstrated by his willingness to be sacrificed on the altar—should suffice to redeem Abraham.
+
+[^70]: **But Esau…** Ishmael and Esau are regarded as wicked and as blemishes in their fathers’ lineages, rendering Abraham and Isaac irredeemable in the eyes of the angels.
+
+    Rabbinic typologies and kabbalistic symbolism represent Ishmael and Esau as the progenitors of Islam and Christianity, respectively, and thus as oppressors of the Jewish people through history.
+
+    On the unfit natures of Ishmael and Esau, see, e.g., *Tosefta Sotah* 6:6; *Sifrei*, Deuteronomy 31; *Bereshit Rabbah* 68:11; *Vayiqra Rabbah* 36:5; BT *Pesaḥim* 56a; Rashi on *Sukkah* 29a, s.v. *eloheiha*; *Zohar* 1:118b, 139a–b, 146a; 2:11a, 17a (*MhN*), 32a, 86a, 111a (*SA*), 163b; 3:124a (*RM*), 192b, 199b, 246b (*RM*); *[[Zohar 10.04 - Parashat Noah#^zh-23d|ZḤ* 23d]], [[Zohar 12.11 - Zohar al ha-Parashot#^zh-27d|27d]] (last two *MhN*), 47a, 78d (last two *MnN, Rut*); Moses de León, *She’elot u-Tshuvot*, 46; idem, *Sheqel ha-Qodesh*, 53–54 (66–68); Kiener, “The Image of Islam in the Zohar,” 49–65; Wolfson, *Venturing Beyond*, 17–185.
+
+[^71]: **Surely for Jacob’s merit…** In contrast to Abraham and Isaac, Jacob’s children all remained faithful to the divine covenant, and thus his lineage is considered pure. See above, note 63.
+
+[^72]: **When they bound…** As Hananiah, Mishael, and Azariah were about to be cast into the furnace, each one proclaimed a verse (or verses).
+
+    Rabbinic sources describe these three heroes as proclaiming parts of verses from Psalms 115 and 117. See BT *Pesaḥim* 118a; *Tanḥuma, Noaḥ* 10; *Tanḥuma* (Buber), *Noaḥ* 15; *Midrash Tehillim* 117:3; *Shemot Rabbah* 9:1; 18:5.
+
+[^73]: ***This one will say*…** In one of the consolation passages in Isaiah, God promises that the faithful will rise proclaiming their fidelity, and He will respond by redeeming Jacob’s descendants. Here, Rabbi associates three of those giving testimony with Daniel’s three companions, proving that it was the merit of Jacob that saved them.
+
+[^74]: **Belteshazzar…** In [[Daniel 01#^1-7|Daniel 1:7]], Nebuchadnezzar’s chief officer gave Babylonian names to Daniel, Hananiah, Mishael, and Azariah. In chapter 2, Nebuchadnezzar praises Daniel’s dream interpretation and pays him homage. In chapter 4, when Nebuchadnezzar calls on Daniel to interpret his dream, he calls him by the name Belteshazzar, noting that this is the name of one of his deities. He heralds him as חרטמיא‎ רב (*rav ḥartumayya*), *chief magician* (ibid. 4:6; though a number of the manuscripts denote him חכימייא‎ רב (*rav ḥakhimayya*), “chief sage”). In Rabbi’s treatment, Daniel becomes aware of the fiery furnace and God’s injunction from Deuteronomy and—fearful that he will be mistaken for one of the idols to be consigned to the fire—he bolts.
+
+    This story derives from a rabbinic legend in BT *Sanhedrin* 93a: “Our Rabbis taught: Three were involved in that conspiracy [to keep Daniel out of the furnace] : The blessed Holy One, Daniel, and Nebuchadnezzar. The blessed Holy One said, ‘Let Daniel depart from here, lest it be said that they were delivered through his merit.’ Daniel said, ‘Let me leave this place, so that I do not become a fulfillment of *The graven images of their gods you shall burn with fire* ([[Torah 45 - Vaetchanan#^7-5|Deuteronomy 7:5]]).’ And Nebuchadnezzar said, ‘Let Daniel escape, lest people say he has set his god ablaze.’ And from where do we know that he worshipped him? Since it is written: *Then King Nebuchadnezzar prostrated himself, and worshiped Daniel* [*and commanded that a meal offering and incense be offered to him*] ([[Daniel 02#^2-46|Daniel 2:46]]).”
+
+    The full verse in Daniel reads: *Finally there came before me Daniel—whose name is Belteshazzar after the name of my god, and who is endowed with the spirit of the holy gods—and before him I related the dream*.
+
+[^75]: **frogs leapt into the flames…** In [[Torah 14 - Vaera#^7-28|Exodus 7:28]], God instructs Moses to warn Pharaoh that *The Nile will swarm frogs and they will come up and come into your house, into your bedroom, onto your bed, into your servants’ houses, upon your people, into your ovens, and into your kneading bowls*. Hananiah, Mishael, and Azariah concluded that if frogs, who generally do not receive commandments, decided to jump into the ovens based on God’s word, all the more so should they allow themselves to be martyred to sanctify God. In some of the rabbinic legends from which this story derives, an inference is drawn from [[Torah 14 - Vaera#^8-9|Exodus 8:9]]: *the frogs died out from the houses, from the courtyards, and from the fields*; that is, excluding those that jumped into the ovens. Daniel’s companions were presumably encouraged by this miraculous event.
+
+    See BT *Pesaḥim* 53b, and *Tosafot*, ad loc., s.v. *mah ra’u*; *Mishnat Rabbi Eli’ezer* 19; *Tanḥuma, Va’era* 14; *Midrash Tehillim* 28:2; *Zohar* 2:29b; 3:232b (*RM*); *Pereq Shirah* 4.
+
+[^76]: **forsake sleep** Studying Torah at night (particularly from midnight to dawn) is highly praised in the *Zohar*, and viewed as ideal behavior for the companions. Rabbi Nehorai’s suggestion alludes to Moses’ activity at Mount Sinai.
+
+    See 2 Enoch 8:3; *Sifra, Beḥuqqotai* 3:3, 111b; JT *Berakhot* 1:1, 2d; BT *Sanhedrin* 102a; *Mishnat Rabbi Eli’ezer* 13, pp. 254–55; *Seder Eliyyahu Zuta* 17, p. 22; *Aggadat Bereshit* 23:5; *Midrash Mishlei* 31:15; Maimonides, *Mishneh Torah, Hilkhot Talmud Torah* 3:13; *Zohar* 1:10b, 40b (*Heikh*), 72a, 77a–b, 82b, 92a–b, 104a, 136a–b, 178a–b, 194b, 206b–207b, 231b–232a, 242b; 2:26b, 30a, 36b, 46a, 56b–57a, 67b, 130a–b, 136a, 149a, 173b, 195b–196a, 209a; 3:11a, 13a, 21b–23a, 25a–b, 36a, 44a–b, 49b, 52b, 64b–65a, 67b–68a, 81a, 90a, 156b, 193a, 213a, 260a; *[[Zohar 10.03 - Parashat Be-Reshit#^zh-13b|ZḤ* 13b]]–c, 18a (both *MhN*), 53b, 122a (*Mat*); Vol. 10, p. 554; Moses de León, *Sefer ha-Rimmon*, 54; [idem?], *Seder Gan Eden*, 294–95 (3:138); Scholem, *On the Kabbalah*, 146–50; Hellner-Eshed, *A River Flows from Eden*, 121–45; Asulin, “Midrash ha-Ne’lam le-Bereshit,” 231. Cf. BT *Tamid* 32b, in the name of Rabbi Ḥiyya: “Whoever engages in Torah at night—*Shekhinah* faces him.”
+
+[^77]: **a voice…** Very often in the *Zohar*, the companions hear a voice urging slumbering humanity to rouse itself from spiritual and moral somnolence. Here the voice warns that the world is about to be judged and that humanity must awaken. The trembling pillars probably refer to both the lower seven *sefirot* and the famous righteous martyrs, whose fate is described in the forthcoming passage. The exalted tone of the invocation is similar to that found in *Matnitin* and *Tosefta*.
+
+    See *Zohar* 1:4a, 62a (*Tos*), 77a–b, 121a (*Tos*), 161b (*Mat*), 227a; 3:52b, 57b–58a; Moses de León, *Sefer ha-Rimmon*, 1; Hellner-Eshed, 204–17. Cf. Jonas, *Gnostic Religion*, 68–75; BT *Ḥagigah* 12b; Maimonides, *Hilkhot Teshuvah* 3:4; MacRae, “Sleep and Awakening in Gnostic Texts.”
+
+    “Fawn” renders דאילתא‎ עוזילא (*uzila de-ayalta*). Alternatively, “young doe.”
+
+[^78]: **noble ones…** According to rabbinic tradition, virtuous people may be seized for the sins of others. See BT *Shabbat* 33b: “Rabbi Gorion (according to others, Rabbi Yosef son of Rabbi Shema’yah) said, ‘When there are righteous ones in the generation, the righteous are seized for the sin of the generation. When there are no righteous in the generation, schoolchildren are seized for the sin of the generation.’”
+
+    See *Bereshit Rabbah* 33:1; *Kallah Rabbati* 6:4; Rashi on BT *Ta’anit* 11a, s.v. *ha-tsaddiq avad*; *Zohar* 1:67b–68a, 180a; 2:10b, 38b, 53a, 195a; 3:46b, 218a. Cf. *Mekhilta, Neziqin* 18; BT *Shabbat* 54b–55a, *Avodah Zarah* 4a.
+
+    On *Shekhinah* as a doe, see *Zohar* 1:4a; 2:7b, 8b, 10a–b, 36b, 46a, 52b, 56b, 119b (*RM*), 219b–220a; 3:21b, 25a–b, 68a, 249a–b; Liebes, *Pulḥan ha-Shaḥar*, 153–67.
+
+[^79]: **weeping of Rabbi Yishma’el…** In the narratives of “The Story of the Ten Martyrs,” Rabbi Yishma’el and Rabban Shim’on son of Gamli’el were the first victims. The story is set during the “Hadrianic persecutions” following the suppression of the Bar Kokhba revolt in 135 C.E., but actually takes on its literary form in Byzantine Palestine between the late fifth and early seventh centuries. The story intertwines a range of martyrological stories from the Jerusalem Talmud and early Palestinian midrashic collections. Though historically these ten span several generations of the first and second centuries, the story’s power derives from compacting them into a single, long gruesome event of sacrifice and redemption. In the story, Rabbi Yishma’el and Rabban Shim’on son of Gamli’el cast lots to determine who would be executed first. Rabban Shim’on son of Gamli’el was the first to be decapitated, upon which Rabbi Yishma’el picked up his head, wailing over the loss. The martyrology came to be universally known in the Jewish world through its incorporation into the Yom Kippur liturgy for Musaf.
+
+    On the double execution of Rabbi Yishma’el son of Elisha and Rabban Shim’on son of Gamli’el, see *Mekhilta Mishpatim* 18 (313); *Avot de-Rabbi Natan* A, 38; B, 41; *Massekhet Semaḥot* (Higger) 8:8; Saul Lieberman, “Redifat Dat Yisra’el,” 227–28 and parallels there.
+
+    See *Midrash Tehillim* 9:13; *Midrash Eileh Ezkerah* (*Beit ha-Midrash*, 2:64–72); *Zohar* 1:106a, 202a; 2:33a; *ZḤ* 46a, [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-89d|89d]] (*MhN, Rut*), 93b (*MhN, Eikhah*); Stern, *Rabbinic Fantasies*, 143–65; Reeg, *Die Geschichte von den Zehn Märtyrern*; Boustan, *From Martyr to Mystic*, especially 51–60, 71–98; below, pages 260–61, note 681.
+
+[^80]: ***judging of the judges*…** The straightforward reading of the verse is *In the days when the judges* [or: *chieftains*] *judged*, but Rabbi Reḥumai reads the verse hyperliterally to mean that the fate of the leaders themselves was being reckoned. The decree was a famine, killing them off, as inferred from the continuation of the verse: *and a man of Bethlehem in Judah, with his wife and two sons, went to reside in the country of Moab*.
+
+    The book of Judges portrays this period in Jewish history in alternating intervals of sinfulness and punishment. According to rabbinic tradition, the story of Ruth occurs during the time of Ibzan ([[Judges 12#^12-8|Judges 12:8–10]]).
+
+    On the famine in the story as a form of divine punishment, see Targum; *Rut Rabbah* 1:1, 4; Rashi. On the rabbinic dating of the book of Ruth, see BT *Bava Batra* 91a. On Elimelech and his sons as leaders in Bethlehem and Moab, see *Targum* 1:2; *Rut Rabbah* 1:4; Rashi, ad loc. On the historical context of the story, see Sasson; Zakovitch; Eskenazi and Frymer-Kensky.
+
+[^81]: **איש (*ish*), *a man*…** In its simple sense, the word *ish* may have designated the head of a household or landowner. Later interpretive traditions explain it as signifying a community leader. *Beit Leḥem*, “Bethlehem,” literally means “house of bread [or: food].” In a town whose very name bespeaks fertility, the onset of famine suggests its severity—and also its being part of a divine plan.
+
+    On the words *ish* and *Beit Leḥem*, see Sasson; Zakovitch; Eskenazi and Frymer-Kensky.
+
+[^82]: **one should disappear…** The Angel of Death lashes out at both the righteous and the wicked indiscriminately, so Rabbi Yehudah and the rabbis concede that even a leader should try to flee the carnage. As the passage continues, different opinions emerge about the legitimacy of Elimelech’s flight, but Rabbi Yehudah and the rabbis absolve him of moral culpability.
+
+    See BT *Bava Qamma* 60a–b: “Rabbi Yosef taught: ‘What is the meaning of the verse *None of you shall go out from the entrance of his house until morning* ([[Torah 15 - Bo#^12-22|Exodus 12:22]])? Once permission has been granted to the Destroyer, he does not distinguish between righteous and wicked. Moreover, he begins with the righteous first, as is said: *I will wipe out from you both the righteous and the wicked* ([[Ezekiel 21#^21-8|Ezekiel 21:8]])’… Our Rabbis taught: ‘A plague in town? Keep your feet indoors.’… Our Rabbis taught: ‘A plague in town? One should not walk in the middle of the road because the Angel of Death walks there, for as soon as permission has been granted him, he strides brazenly.’”
+
+    See *Mekhilta, Pisḥa* 11; *Zohar* 1:63a, 64b, 67b–69a, 101b–102a, 107b, 113a, 182b, 197b, 204b; 2:36a, 196b–197a, 227a; 3:38b, 54a–b; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-81c|ZḤ* 81c]] (*MhN, Rut*).
+
+[^83]: **the Shunammite…** Elisha offers to advance the Shunammite woman’s cause before the authorities, but she declines, preferring to be inconspicuous. Rabbi Yehoshu’a lauds this behavior, because it is specifically a mark of distinction that draws the attention of the Destroying Angel.
+
+    “The Shunammite” was a wealthy woman from the town of Shunem who fed and housed the prophet Elisha. She was rewarded with a son, who later died but was resuscitated by Elisha. She is referred to here as a model of exemplary behavior, for not separating herself from the community.
+
+    See BT *Berakhot* 49b, in the name of Shemu’el: “A person should never exclude himself from the entire community.” See M *Avot* 2:4; BT *Berakhot* 29b–30a.
+
+    See [[II Kings 04#^4-8|2 Kings 4:8–36]]; *Zohar* 1:69b, 160b; 2:33b, 44b; 3:231a. Cf. [[II Kings 08#^8-1|2 Kings 8:1–2]] and the remarks of Yefet ben Eli on [[Ruth 1#^1-3|Ruth 1:3]]; Levine, *Aramaic Version*, 45. On the Shunammite’s motive, cf. Englander.
+
+[^84]: **anonymously…** Rabbi Yehoshu’a criticizes Elimelech, depicting him as a failed leader, unwilling to protest the sinful behaviors of his community. Sometimes the righteous one is punished particularly for not rebuking the wicked for their sins.
+
+    See BT *Shabbat* 54b, in the name of Rav, Rabbi Ḥanina, Rabbi Yoḥanan (or Yonatan), and Rav Ḥaviva: “Whoever can protest against his household [committing a sin] and does not, is seized for [the sins of] his household; [if he can protest] against his townspeople [and does not], he is seized for his townspeople; [if he can protest] against the whole world [and does not], he is seized for the whole world.”
+
+    See BT *Shabbat* 119b, *Avodah Zarah* 18a; *Tanḥuma, Mishpatim* 7; *Zohar* 3:46b, 218a. Cf. JT *Beitsah* 2:8, 61d; *Ketubbot* 13:1, 35c; *Vayiqra Rabbah* 25:1; BT *Shabbat* 55a, 119b; *Tanḥuma, Shemini* 9; *Balaq* 19; *Tanḥuma* (Buber), *Balaq* 28; *Bemidbar Rabbah* 20:23; *Qohelet Zuta* 7:11.
+
+    This critique (and that of Rabbi Peraḥiah below) reflects the situation in the Jewish community in thirteenth-century Castile, in which moralists sharply criticized communal leaders for failing to rebuke sinners. In 1280–1281 a number of prominent Jewish courtiers were executed by the command of King Alfonso X, and these deaths were interpreted as punishment for their failures of moral leadership. See Jonah Gerondi, *Sha’arei Teshuvah* 3:131: “One who cohabits with a maidservant is like those liable for the death penalty…. As our sages, of blessed memory, said, ‘One who cohabits with a Gentile woman should be struck down by zealous ones’ (BT *Sanhedrin* 81b), as is written: *He stabbed the two of them* ([[Torah 40 - Balak#^25-8|Numbers 25:8]]). Thus, if you find such a person erring in full sight of others, and he will not stop, you are to kill him as soon as you come upon him. This act is more grave than all others liable for the death penalty, for those others are executed only with witnesses, warning, and judgment of the Sanhedrin. But this sinner is to be killed by whoever comes upon him, without witnesses or warning.” See ibid. 3:59, 72–73; *Zohar* 2:3b; Baer, *A History of the Jews in Christian Spain*, 1:250–70 (esp. 253, 257, 263); Hecker, “The Face of Shame,” 42–46.
+
+[^85]: **sheltered him…** Rabbi Peraḥiah dramatizes the court scene, with [[Ruth 1#^1-1|Ruth 1:1–5]] serving as the script. Once again, Elimelech is apparently singled out for timorous leadership. Why his sons were included in the punishment is not stated, but some earlier sources hold that it happened because they had married Moabite women.
+
+    *Targum* on 1:4–5 reads: “And they transgressed the ordinance of the Word of *YHVH* and they took for themselves foreign wives, from the daughters of Moab… And because they had transgressed the commandment of the Word of *YHVH* by marrying into foreign nations, their days were cut short. And both Mahlon and Chilion died on unclean soil.”
+
+    On this teaching, see *Rut Zuta* 1:1; *Yalqut Shim’oni Rut* 599. On the prohibition against marrying Moabites, see [[Torah 49 - Ki Teitzei#^23-4|Deuteronomy 23:4–7]]; *Tanḥuma, Behar* 3; *Tanḥuma* (Buber), *Behar* 8; Eleazar of Worms on [[Ruth 1#^1-4|Ruth 1:4]]; *Zohar* 3:190a; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-81a|ZḤ* 81a]] (*MhN, Rut*); cf. *Rut Rabbah* 2:9; *Rut Zuta* 1:5; Ibn Ezra on [[Ruth 1#^1-2|Ruth 1:2]]; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-79a|ZḤ* 79a]] (*MhN, Rut*).
+
+    The context in Ruth reads: *And Elimelech, Naomi’s husband, died; and she was left with her two sons. They married Moabite women, one named Orpah and the other Ruth. They lived there for about ten years, and then those two—Mahlon and Chilion—also died*… (vv. 3–5).
+
+[^86]: **disparaged their leaders…** Rabbi Yehudah affirms that even though the people disparaged their leaders, Elimelech should still have rebuked them.
+
+    See BT *Shabbat* 119b, in the name of Rav Yehudah: “‘Jerusalem was destroyed only because scholars were scorned there. For it is said, *But they mocked the messengers of God, and disdained his words, and taunted his prophets, until the wrath of YHVH arose against his people, beyond remedy* ([[II Chronicles 36#^36-16|2 Chronicles 36:16]]).’ What does *beyond remedy* intimate? Rav Yehudah said in Rav’s name: ‘He who despises a scholar, his wounds are *beyond remedy*.’”
+
+    See BT *Arakhin* 16b: “Up to what point should one offer rebuke? Rav said, ‘To the point of being struck.’ Shemu’el said, ‘To the point of being cursed.’ And Rabbi Yoḥanan said, ‘To the point of being scorned.’ This is like the dispute among the *tanna’im*: Rabbi Eli’ezer says, ‘To the point of being struck.’ Rabbi Yehoshu’a says, ‘To the point of being cursed.’ Ben Azzai says, ‘To the point of being scorned.’”
+
+    See *Tanna de-vei Eliyahu* 18; cf. BT *Beitsah* 30a, *Yevamot* 65b; Maimonides, *Sefer ha-Mitsvot* 205; idem, *Hilkhot De’ot* 6:7–8; *Sefer Ḥasidim* (ed. Margaliot) par. 412; *Sefer Ḥastdim* (Wistinetzki) par. 1338; *Tosafot* on *Bava Batra* 60b, s.v. *mutav she-yihyu*; Moses of Coucy, *Sefer Mitsvot ha-Gadol* 11; Isaac of Corbeil, *Sefer Mitsvot Qatan* 112; Yom Tov Ishbili, *Hiddushei Ritva* on *Yevamot* 65b; *Sefer ha-Ḥinnukh* 239; above, note 84.
+
+[^87]: **בימי‎ ויהי (*va-yhi bi-ymei*), *It came to pass in the days*…** The word ויהי (*va-yhi*), *It came to pass*, is read as היה‎ וי (*vai hayah*), “there was woe,” or as הי‎ וי (*vai, hi*), “woe, wailing.” Rabbi Yehoshu’a treats Elimelech’s sin as a national one: leaving both country and people.
+
+    See BT *Megillah* 10b: “Rabbi Levi, or some say Rabbi Yonatan, said, ‘This matter is a tradition handed down to us from the Men of the Great Assembly: Wherever it is said ויהי (*va-yhi*), *It came to pass*, this denotes sorrow.’… Rav Ashi said, ‘ויהי (*Va-yhi*), *It came to pass*, sometimes denotes this and sometimes not—while בימי‎ ויהי (*va-yhi bi-ymei*), *It came to pass in the days of*, always denotes sorrow.’”
+
+    See *Bereshit Rabbah* 41(42) :3 (on [[Torah 03 - Lech Lecha#^14-1|Genesis 14:1]]); *Vayiqra Rabbah* 11:7; BT *Megillah* 11a; Eleazar of Worms on [[Ruth 1#^1-1|Ruth 1:1]]; *Zohar* 1:16b, 119b; 2:140b, 167a; 3:231a; Moses de León, *Commentary to Ezekiel’s Chariot*, 57.
+
+[^88]: ***From afar*…** Moses saw God more directly and fully than any other human, and several different metaphors are used to describe the higher quality of his vision. Rabbi Ḥilkiyah expresses the difference in terms of proximity and distance, so that other prophets perceive as if from afar. Rabbi El’azar distinguishes between opacity and clarity of vision, speaking in terms of the instrument or organ of vision.
+
+    See BT *Yevamot* 49b: “All the prophets gazed through an opaque glass, whereas Moses our teacher gazed through a translucent glass.” The phrase “an opaque glass” renders מאירה‎ שאינה‎ אספקלריא (*ispaqlarya she-einah me’irah*), literally “an *ispaqlarya* that does not shine.” The phrase “a translucent glass” renders המאירה‎ אספקלריא (*ispaqlarya ha-me’irah*), literally “an *ispaqlarya* that shines.” The word *ispaqlarya* derives from Greek *speklon*, “mirror, window-pane,” and Latin *speculum*, “mirror.”
+
+    See Maimonides, Commentary to M *Kelim* 30:2: “*Speqlarya*—a screen [or curtain] that is fashioned so that forms may be seen from behind it. According to my understanding, this is a compound word: לראיה‎ ספק (*safeq le-re’iyah*), inconclusive vision, since one who looks through a screen made of glass or crystal, or any other transparent material, does not see the object in its true place, as is clarified in optics, nor is it seen according to its proper dimensions. And the sages call a very transparent screen that does not conceal anything behind it a “speculum that shines.” By way of example they said this regarding the apprehension of our teacher Moses, peace be upon him, of divine entities—and that he perceived the Creator at the pinnacle of a person’s capability, one whose intellect is tied to materiality.”
+
+    In the main body of the *Zohar, Shekhinah* is a speculum that does not shine on its own, but rather reflects and transmits the other *sefirot*. She is the medium through which prophets normally perceive a sefirotic vision. Moses, in contrast, attains the rung of *Tif’eret*, corresponding to the speculum that shines. In this section of *Midrash ha-Ne’lam* on Ruth, however, the terms do not appear to signify theosophic gradations.
+
+    See BT *Sanhedrin* 97b; *Vayiqra Rabbah* 1:14; Maimonides, Commentary to M *Sanhedrin* 10:1, *ha-yesod ha-shevi’i*; idem, *Shemoneh Peraqim*, 7; Azriel of Gerona, *Peirush ha-Aggadot*, 33–34 (95–96); Naḥmanides on [[Torah 14 - Vaera#^6-2|Exodus 6:2]]; Jacob ben Sheshet, *Sefer ha-Emunah ve-ha-Bittaḥon*, 408; *Zohar* 1:33b, 120a, 170b–171a, 183a; 2:23b, 69a–b, 82a–b, 130b, 213a, 221a; 3:174b, 268b; *[[Zohar 12.10 - Merkevet Yehezqel#^zh-39d|ZḤ* 39d]]; Moses de León, *Sefer ha-Mishqal*, 58; idem, *Peirush ha-Merkavah*, 69; Ginzberg, *Legends*, 6:44–45, n. 242; Wolfson, *Through a Speculum That Shines*, index, s.v. “speculum”; Huss, *Ke-Zohar ha-Raqi’a*, 17–21. Cf. [[1 Corinthians 13#^13-12|1 Corinthians 13:12]]: “For now we see through a glass darkly, but then face-to-face.”
+
+    [[Torah 36 - Beha'alotcha#^12-6|Numbers 12:6–8]] reads: *He said, “Hear My words: If there be among you a prophet of YHVH, in a vision I make Myself known to him, in a dream I speak with him. Not so My servant Moses—in all My house he is trusted. Mouth to mouth I speak with him; in a vision, not in riddles; and the form of YHVH he beholds*.”
+
+[^89]: **love… does not reach them…** How could Jeremiah’s statement about seeing God *from afar* be taken as a universal principle describing the prophets? Indeed, the very same verse talks about God’s love for him!
+
+[^90]: **distant drawn near…** Rabbi [Yehudah] and Rabbi El’azar disagree about how to interpret the term *afar* in these two verses. Rabbi Yehudah explains that the verse from Proverbs, traditionally ascribed to King Solomon, describes the normal state of things: kings do not have an intimate visionary relationship with God. The verse from Jeremiah suggests divine grace overcoming distance. Rabbi Yehudah’s classification may allude to kabbalists and communal leaders, echoing the distinction in the previous homily. Rabbi El’azar contends that the two verses are exceptional, rather than typical: the one from Proverbs, indicating intimacy beyond the norm; the verse from Jeremiah representing a divine vision that lacks clarity because of its distance, though prophets normally have anthropomorphic visions, as in Ezekiel 1. Rabbi Ḥilkiyah takes a different approach, contending that in fact when prophets have visions, perhaps as opposed to receiving oracles or dreams, it is through a speculum that shines, a rung normally ascribed only to Moses. See Englander.
+
+    On kings and prophecy, see BT *Rosh ha-Shanah* 21b: “Rav and Shemu’el had a dispute. One said, ‘Fifty gates of *binah*, understanding, were created in the world; and all were given to Moses except for one, as is said: *You made him little less than God* ([[Psalms 008#^8-6|Psalms 8:6]]). Now, Koheleth sought to find out *words of delight* ([[Ecclesiastes 12#^12-10|Ecclesiastes 12:10]]). [That is to say,] Koheleth sought to be like Moses. A divine voice burst forth, saying, “And it is written: *write honestly words of truth* (ibid.), and *There did not arise again in Israel a prophet like Moses* ([[Torah 54 - V'Zot HaBerachah#^34-10|Deuteronomy 34:10]]).”’ The other said, ‘Among the prophets *there did not arise*, but among the kings there did *arise*.’”
+
+    See M *Yoma* 5:2, *Sotah* 9:12; BT *Sotah* 48b; *Targum* on [[Song of Songs 1#^1-1|Song of Songs 1:1]]; *Bemidbar Rabbah* 19:3; Rashi on *Bava Batra* 75a, s.v. *oy lah le-ottah bushah*; Maimonides, *Guide of the Perplexed*, 2:45; *Zohar* 2:154a. On prophecy among Moses de León, Joseph Gikatilla, and others who may have been part of the circle of authorship of the *Zohar*, see Mopsik, “Editor’s Introduction,” *Sheqel ha-Qodesh*, 6–8 (Hebrew pagination).
+
+    The passage “Distant drawn near… Near distanced” is absent from V24, O17, L39, MS4, Th, and V. The addition—its original provenance undetermined—fills in an apparent lacuna.
+
+[^91]: **Rabbi Bun…** The author represents Rabbi Bun as similar to Elimelech, leaving town in anticipation of judgment for the place’s sinfulness, in recognition that he cannot change their ways. Cf. *Matoq mi-Devash*. On this story, see Greenstein, *Roads to Utopia*, 166–68.
+
+[^92]: **singsong…** Rendering the unusual form רננא (*rinena*), which may have been chosen to rhyme with the term תנינא (*tenina*), “learning.” See Targum [[Job 03#^3-7|Job 3:7]]: “May that night be a desolation, may the רננא (*rinena*), song, of the ברא‎ תרנגול (*tarnegol bera*), wild rooster, not be heard praising in it.” The word ברא (*bera*), “wild” (or “field”) may have been creatively misread by the author of *Midrash ha-Ne’lam* on Ruth to mean “offspring,” in anticipation of the upcoming homily.
+
+    “Studying in the sing-song of Torah” renders דאורייתא‎ ברננא‎ לעי (*la’ei be-rinena d’oraita*) but could also be translated as “studying the song of Torah.” Torah is referred to as “song” in BT *Eruvin* 18b; *Megillah* 32a. Cf. BT *Ḥagigah* 12b.
+
+[^93]: ***Nest… Teshuvah* (Repentance)** The person learning proceeds to interpret the verse word-by-word in terms of each word’s theosophic significance. *Teshuvah* is a common designation for *Binah*.
+
+    On the kabbalistic interpretation of this verse’s commandment, see *Bahir* 74 (104–5); Naḥmanides and Recanati on [[Torah 49 - Ki Teitzei#^22-6|Deuteronomy 22:6]]; *Zohar* 1:158a; 2:8a, 93a; 3:254a; Moses de León, *Sefer ha-Rimmon*, 338–39; Todros Abulafia, *Otsar ha-Kavod, Berakhot* 33b, pp. 7a–b; *Ḥullin* 142a, pp. 32c–d.
+
+[^94]: ***On the way*…** The speaker interprets this phrase as alluding to Rachel, who died *on the way* ([[Torah 08 - Vayishlach#^35-19|Genesis 35:19]]; [[Torah 12 - Vayechi#^48-7|48:7]]) and who, according to tradition, remains there mourning over the exile of Israel. Rachel signifies *Shekhinah*, who shines constantly—illuminating the way for the righteous, Joseph and Benjamin. There are two aspects of *Yesod*, known as Righteous One. Joseph attains the rank of Righteous One above, while Benjamin represents “righteous one” below. Once *Shekhinah* has guided the righteous through the night, they are shepherded by *Tif’eret*, signified by both daylight and Jacob.
+
+    On the dual position of righteous ones, see *Zohar* 1:153b, 155a–b, 245b; 2:211b, 259a (*Heikh*).
+
+    In rabbinic literature, Joseph is granted the title Righteous One in recognition of his resisting the sexual advances of Potiphar’s wife. See Genesis 39; BT *Yoma* 35b; *Bereshit Rabbah* 93:7; *Bemidbar Rabbah* 14:3, 6; *Pesiqta de-Rav Kahana, nispaḥim*, 460. Cf. *Tanḥuma, Noaḥ* 5, *Tanḥuma* (Buber), *Noaḥ* 4, and *Pirqei de-Rabbi Eli’ezer* 38, which cite [[Amos 2#^2-6|Amos 2:6]].
+
+    In kabbalistic literature, because of his sexual purity Joseph attained the level of *Yesod*, the divine phallus and site of the covenant. *Yesod*’s epithet as Righteous One is based on [[Proverbs 10#^10-25|Proverbs 10:25]]: עולם‎ יסוד‎ וצדיק (*Ve-tsaddiq yesod olam*). The verse literally means *The righteous one is an everlasting foundation* but is understood as *The righteous one is the foundation of the world*. See BT *Ḥagigah* 12b; *Bahir* 71 (102); Azriel of Gerona, *Peirush ha-Aggadot*, 34.
+
+    Benjamin is the only other one of Jacob’s sons who is accorded the title Righteous. See BT *Yoma* 12a, *Megillah* 26a (and Rashi, ad loc.), *Sotah* 37a, *Bava Batra* 11a; *Avot de-Rabbi Natan* A, 3. On the identification of daylight with Jacob, see *Bereshit Rabbah* 2:3.
+
+[^95]: **כל (*Kol*), *All…*** *Yesod*, also known as Righteous One, Life of the Worlds, is called *kol*, “all,” because He includes the entire flow of emanation and conveys it to *Shekhinah*.
+
+    On *Yesod* as *kol*, “all,” see *Bahir* 14 (22); Naḥmanides on [[Torah 05 - Chayei Sara#^24-1|Genesis 24:1]]; *Zohar* 1:17a, 31a, 129a, 130b; 2:40b, 134b, 157a; Moses de León, *Sefer ha-Rimmon*, 129; idem, *Sod Eser Sefirot Belimah*, 381; *Sheqel ha-Qodesh*, 12 (14–15), 56 (69).
+
+    On various senses of the title העולמים‎ חי (*Ḥei ha-Olamim*), “Life of the Worlds,” see [[Daniel 12#^12-7|Daniel 12:7]]; *Mekhilta, Pisḥa* 16; *Bereshit Rabbah* 1:5; *Sefer Yetsirah* 1:9; Schäfer, *Synopse zur Hekhalot-Literatur*, §275; *Bahir* 123 (180); *Zohar* 1:4b, 132a, 135b, 164a, 167b, 193b, 207b, 211b; 2:138a; 245b (*Heikh*); Moses de León, *Sefer ha-Rimmon*, 123; idem, *Sefer Maskiyyot Kesef*, 21; idem, *Sheqel ha-Qodesh*, 49 (60), 55–56 (68), 58 (71); idem, *Sod Eser Sefirot Belimah*, 381; Gikatilla, *Sha’arei Orah*, 60b.
+
+[^96]: **twelve supernal tribes** Within *Malkhut*.
+
+[^97]: **garment for the body** The nation of Israel in this world is like a garment for the *Shekhinah* and Her twelve supernal tribes above. Cf. Mopsik.
+
+[^98]: ***mother*…** Signifying Shekhinah, sent into exile on account of Israel’s sins.
+
+    On the exile of *Shekhinah*, see *Mekhilta, Pisḥa* 14, in the name of Rabbi Akiva: “Wherever Israel went in exile, *Shekhinah*, as it were, went into exile with them. When they were exiled to Egypt, *Shekhinah* was with them…. When they were exiled to Babylon, *Shekhinah* was with them…. And when in the future they return, *Shekhinah*, as it were, will return with them.”
+
+    See *Sifrei*, Numbers 84; JT *Ta’anit* 1:1, 64a; BT *Megillah* 29a; *Eikhah Rabbah* 1:54; *Zohar* 1:68b–69a, 120b, 134a, 149a, 159b, 182a, 211a; 2:2a–b, 41b (*Piq*), 82a, 2:189b, 216b; 3:2b, 6a–b, 74a–b, 114b–115a, 199a, 297b; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-47d|ZḤ* 47d]] (*MhN, Rut*), 65b (*ShS*), 80d, 84a (last two *MhN, Rut*); Moses de León, *Sefer ha-Mishqal*, 122–23; idem, *Sheqel ha-Qodesh*, 73–74 (92–93); Tishby, *Wisdom* 1:382–85.
+
+    On the verse in Isaiah, see *Zohar* 1:237a; 2:189b; 3:8a, 74b–75a, 102b, 115a. The full verse reads: *Thus says YHVH: Where is your mother’s bill of divorce by which I sent her away? Or which of My creditors was it to whom I sold you off? Behold, it is for your sins that you were sold, and for your crimes your mother was sent away*.
+
+[^99]: **sign of compassion…** One might construe this commandment in terms of an effort to mitigate the mother bird’s grief, shooing her away so that she would not see the seizing of her chicks and eggs. Clearly, however, this commandment is not interested in the mother bird’s feelings.
+
+    M *Berakhot* 5:3 warns: “If a man said [in his prayer], ‘To a bird’s nest do your mercies extend,’… he should be silenced.” In the talmudic treatment of this passage (33b), Rabbi Yose son of Zebida explains that such a man “transforms the attributes of the blessed Holy One into [expressions of] mercy, when they are nothing but decrees.”
+
+    Rashi, s.v. *middotav*, comments that God enacted this and other commandments solely “to impose legal decrees upon Israel, so that they might know that they are His servants—followers of His commandments and the full extent of His laws—even in those matters to which Satan and the idolaters might retort, asking, ‘What benefit do these serve?’”
+
+    See BT *Megillah* 25a and *Tosafot*, ad loc., s.v. *mi-penei*; Maimonides, *Commentary on the Mishnah, Berakhot* 5:3. Cf. Ibn Ezra and Naḥmanides on [[Torah 49 - Ki Teitzei#^22-6|Deuteronomy 22:6–7]]; Maimonides, *Guide of the Perplexed*, 3:48; *Sefer ha-Ḥinnukh*, #545.
+
+[^100]: **destroyed my house…** The true meaning of these verses concerns the destruction of the Temple, the exile of the Jewish people, and the sorrow of *Shekhinah*.
+
+    *Shekhinah*’s lament is derived from BT *Berakhot* 3a. There, God blames the Jewish people’s sinfulness as cause for the sacking of the Temple, whereas the Zoharic version emphasizes the catastrophe and pain. Cf. Ezra of Gerona, *Peirush Shir ha-Shirim*, 2:495.
+
+[^101]: **until she finally goes…** The verse is emphatic about sending off the mother bird to indicate that in fulfilling the divine injunction one sends her off repeatedly, showing no concern for her emotional state or the welfare of her offspring. Once successful, the person takes the nestlings with impunity, and can expect his reward as promised: *And you will prolong your days*. The utter lack of compassion demonstrated in this practice proves that Divine Compassion is directed toward Israel in exile, not to a bird and her eggs.
+
+    “Covey” renders the word קוטרא (*qutra*); alternatively, “cluster, pack.” See JT *Megillah* 3:6, 74b; *Shabbat* 7:2, 10c; Jastrow; Sokoloff, *A Dictionary of Jewish Palestinian Aramaic*.
+
+[^102]: ***prolong your days*…** The homily concludes through the tying together of its various strands. Scripture promises that the one who fulfills the injunction to shoo away the mother bird will receive longevity in return. This extension of one’s days derives from the six primordial days, which are here called *banim, offspring*, signifying the central *sefirot—Ḥesed* to *Yesod*. They also correspond to the first six of the thirteen attributes of mercy—as delineated in BT *Rosh ha-Shanah* 17b—recited as supplication for God’s mercy. Under the influence of later kabbalistic teaching, it has become normative to recite them repeatedly on the Day of Atonement, fast days, and other occasions. The two Temples were destroyed as a result of Israel’s sinfulness, but through the performance of the commandment involving the mother bird, one elicits mercy from the six central *sefirot*—effectively, a performance of the attributes of mercy. The conclusion is paradoxical inasmuch as the voice that Rabbi Bun has heard denied the connection of divine mercy to the performance of the Torah’s command, yet divine mercy is elicited on behalf of Israel through that very same performance.
+
+    God’s “thirteen attributes” of compassion are derived from [[Torah 21 - Ki Tisa#^34-6|Exodus 34:6–7]]: *YHVH, YHVH! A compassionate and gracious God, long-suffering, and abounding in kindness and faithfulness, keeping kindness for the thousandth generation, bearing crime, trespass, and sin; yet He does not wholly acquit, inflicting the guilt of fathers upon sons and upon sons of sons, to the third and fourth generations*. In kabbalistic thought, these attributes are often associated with *Keter*, the realm of total Compassion. In certain strata of the *Zohar, Keter* is designated as אנפין‎ אריך (*Arikh Anpin*), “long-suffering; slow to anger; taking a long time for his nostrils to flare.” See Ibn Ezra (short) on [[Torah 21 - Ki Tisa#^34-6|Exodus 34:6]]; *Zohar* 2:176b (*SdTs*); 3:129a–b (*IR*); Vol. 5, pp. 152–53, n. 38.
+
+[^103]: **three clusters…** The biblical terms *wisdom, understanding*, and *knowledge* refer respectively to the upper sefirotic triad of *Ḥokhmah, Binah*, and *Da’at*, by which all was eventually created. “Clusters” renders קיטרין (*qitrin*), “knots, bonds, nexuses.” Sometimes in Kabbalah, each of the *sefirot* is treated as a composite of ten *sefirot* within, or as bearing the influence of preceding *sefirot*.
+
+    On the creative function of *wisdom, understanding*, and *knowledge*, see BT *Berakhot* 55a; *Pirqei de-Rabbi Eli’ezer* 3; *Tanḥuma* (Buber), *Vayaqhel* 6; *Shemot Rabbah* 48:4. These sources all ascribe knowledge of these creative potencies to Bezalel, who fashioned the Dwelling (or Tabernacle)—the model for the Temple.
+
+    See *Zohar* 2:14b (*MhN*), 221a; *[[Zohar 10.03 - Parashat Be-Reshit#^zh-3d|ZḤ* 3d]]–4a (*MhN*); Moses de León, *Sefer Mishkan ha-Edut*, 9. On *Tevunah*, see *Zohar* 2:14b (*MhN*), 221a; 3:64a, 290b (*IZ*); *[[Zohar 10.03 - Parashat Be-Reshit#^zh-3d|ZḤ* 3d]] (*MhN*).
+
+[^104]: **Cluster of faith…** In this chain of being, the most recondite *sefirot* are manifest within the human being, and subsequently through all creatures. A hierarchical continuity of intelligence pervades all reality.
+
+[^105]: **not knowing…** The pathos of the scene is exacerbated by the bird’s consciousness, her awareness of her plight and her perplexity about the possibility of salvation. But just as understanding extends to all creatures, so does divine compassion; the blessed Holy One is stimulated by the bird’s angel to take care of His children, the Jewish people.
+
+    On angels presiding over all aspects of earthly existence, see 2 Enoch 19:3–5; 3 Enoch 14:3–4; *Bereshit Rabbah* 10:6; Maimonides, *Guide of the Perplexed* 2:10; *Zohar* 1:34a; 2:15b (*MhN*), 30b, 80b; 3:86a; *ZḤ* 8b; Moses de León, *Sefer ha-Rimmon*, 181, 294; idem, *Sefer ha-Mishqal*, 135.
+
+[^106]: **Then the voice proceeded…** This is apparently the same voice that Rabbi Bun had heard before. Now it affirms Rabbi Bun’s essential message regarding the blessed Holy One’s concern for all those sauntering without direction. Ultimately, he forgives all of them for the sins that had sent them rambling.
+
+[^107]: **Let the bird dwell outside…** The bird’s suffering—losing her fledglings and being exiled from home—is purposeful, arousing compassion from the blessed Holy One. As a result, the one who causes this torment by sending off the mother bird, ultimately prompts a profound repair for people exiled everywhere. This is why Scripture provides its extraordinary promise to the one who fulfills this precept. Cf. Englander.
+
+[^108]: **If I have come… just to hear this…** Similar exclamations appear in rabbinic literature and often in the *Zohar*. See BT *Berakhot* 16a, 24b; *Shabbat* 41a; *Pesiqta de-Rav Kahana* 1:3; *Shir ha-Shirim Rabbah* on 3:11; *Qohelet Rabbah* on 6:2; *Qohelet Zuta* 5:17; *Zohar* 1:2a, 129b (*MhN*), 148b, 164b, 235b, 240a; 2:99a, 121b–122a, 193b; 3:26a, 121a, 203a.
+
+[^109]: **tracing of wisdom…** “Tracing” renders the word *tufsa*, which derives from Greek *tupos*, “form, shape, figure, pattern, outline, mold, matrix, configuration, frame, template, formula.” See *Bei’ur ha-Millim ha-Zarot*, 178–80.
+
+    On the human form as a template for all other creatures, see Moses de León, *Peirush ha-Merkavah*, 61. On birds’ knowledge of the healing power of herbs, see *Vayiqra Rabbah* 22:4.
+
+[^110]: ***it will benefit you*…** The seemingly mysterious voice interprets the third-person grammatical inflection of the irregular verb, explaining that it is not God personally providing longevity to the person who enacts the ritual of sending away the mother bird, but rather the very act itself serves as a mechanism eliciting compassion upon the world and upon the individual.
+
+[^111]: **kissed him…** The kiss at the end of a homily variously marks its approbation, an act of recognition between members of the kabbalistic fraternity, or even mystical alignment between the two participants. See Hecker, “Kissing Kabbalists,” 182–84.
+
+[^112]: **corruption of justice…** Rabbi Yannai correlates *the judging of the judges* with *there was a famine in the land*. When the judges are found to be lacking integrity, famine comes to the world.
+
+    M *Avot* 5:8 indicates that famine is the punishment for a variety of transgressions, whereas corrupt justice is said to be punished with the sword. On famine coming as a result of corrupt judges, see *Tanḥuma, Shemini* 9.
+
+    The סבא (*Sava*), “Old Man,” is one of the *Zohar*’s mysterious characters, frequently appearing as a donkey-driver. Here he is merely referred to as (literally) “that Old Man.” The word (*Sava*), rendered here as “Old Man,” was also equivalent to “father”; in modern Hebrew, it has taken on the primary meaning of “grandfather.”
+
+[^113]: **sufficient food in the world…** A sign that justice is being preserved; consequently, even the fields of the poor provide abundantly. Famine is a sign of injustice, specifically the injustice perpetrated by judges.
+
+    See *Midrash Mishlei* on 13:23 in the name of Rabbi Shimon son of Yoḥai: “In this world, the rich man devours the poor man; but in the time to come, the blessed Holy One will lay this claim against him, as is said: *From the plunder of the poor, from the groans of the needy, now will I rise,’ says YHVH* ([[Psalms 012#^12-6|Psalms 12:6]]).”
+
+    The MT has preserved an extra letter א (*alef*) in the word ראשים (*rashim*), so while it actually denotes רשים (*rashim*), *poor* [or: *destitute*], it can be read as *heads*, meaning *leaders*. The author of our text uses this misreading to consider the fate of corrupt leaders and judges in a time of famine.
+
+[^114]: **the poor are vessels…** One might infer from the verse in Proverbs that the poor die for others’ transgressions. Instead, their suffering is a signal to God regarding injustice in the world. Those who are *swept away* are those who have ruled *without justice*, that is, have corrupted justice.
+
+    On the poor as God’s vessels, see *Vayiqra Rabbah* 7:2; *Pesiqta de-Rav Kahana* 24:5; *Zohar* 1:10b; 2:86b; 3:9a; *Midrash ha-Gadol*, [[Torah 09 - Vayeshev#^38-1|Genesis 38:1]]; Tishby, *Wisdom of the Zohar*, 3:1455, n. 120; 1463, nn. 288, 308.
+
+    [[Torah 18 - Mishpatim#^22-22|Exodus 22:22]] reads in full (hyperliterally): *If you abuse, abuse him, when he cries, cries out to Me, I will hear, hear his outcry*. [[Torah 18 - Mishpatim#^22-26|Exodus 22:26]] reads: *When he cries out to Me, I will hear, for I am compassionate*. As for [[Torah 18 - Mishpatim#^22-23|Exodus 22:23]], it is here applied to God’s punishment of the wicked, who are responsible for the famine.
+
+[^115]: **according to the letter of the law…** This renders לאמתו (*le-amito*), “according to the truth of the matter.” Rabbi Yannai considers both positive and negative meanings for the term, while emphasizing that manifesting the true intent of the law may lie in its abrogation and extension. See next note.
+
+[^116]: **As with Abba…** Sometimes the true intent of the law requires punctilious observance, while other times a right-minded jurist must violate that narrow definition to attain the law’s intent. Thus, during a time of promiscuity, lack of concern for the poor, or other transgressions, one must “erect a fence for the Torah” to ensure that its core values are being sustained.
+
+    See BT *Yevamot* 90b, in the name of Rabbi El’azar son of Ya’akov: “I heard that a court may mete out lashes and punishments even without any Torah [authority for their rulings]; not, however, for the purpose of transgressing the words of the Torah, but in order to erect a fence for the Torah. It once happened that a man rode on horseback on the Sabbath in the days of the Greeks. He was brought before the court and was stoned; not because he deserved this penalty, but because the exigencies of the hour demanded it. And another incident occurred with a man who had intercourse with his wife under a fig tree; and he was brought before the court and flogged; not because he deserved such a penalty, but because the exigencies of the hour demanded it.” See BT *Sanhedrin* 46a.
+
+    See also BT *Bava Metsi’a* 30b, in the name of Rabbi Yoḥanan: “‘Jerusalem was destroyed only because they gave judgments there in accordance with biblically ordained law.’ Were they then to have judged in accordance with untrained arbitrators? Instead, say the following: [Jerusalem was destroyed only] because they based their judgments on strict interpretations of the Torah, and did not go beyond the letter of the law.” On the Talmud’s use of this “supererogatory” approach to its own legal system, see BT *Yevamot* 90b; *Sanhedrin* 27a, 45b–46a; *Niddah* 13b; JT *Ḥagigah* 2:2, 78a; *Tanḥuma, Mishpatim* 6; *Megillat Ta’anit*, 336; *Entsiklopedyah Talmudit* 8:521–26; Elon, *Jewish Law*, vol. 2, 515–16, n. 94; Ben-Menahem, *Judicial Deviation in Talmudic Law*, 82–84, 142–49; see next note.
+
+    On the Iberian Peninsula during the Middle Ages, different rulers ceded a range of powers of self-rule to local Jewish communities and their leaders. Rabbis Solomon ibn Adret (Rashba) and Asher ben Yeḥiel (Rosh) were granted considerable authority in this respect, including the permission to impose corporal punishment.
+
+    On the various forms of corporal punishment administered by medieval Jewish authorities as justified on the basis of exigency jurisdiction, see e.g., Maimonides, *Hilkhot Sanhedrin* 24:4–5; Solomon ibn Adret (Rashba), *Responsa* 4:311; 5:238; Asher ben Yeḥiel (Rosh), *Responsa* 18:13; *Tur Ḥoshen Mishpat* 2 and *Beit Yosef*, ad loc.; Assaf, *Ha-Onshim aḥarei hatimat ha-Talmud*, 61–101.
+
+    On the *Zohar*’s critique of laxity in sexual mores in Castile and the critique of contemporary Castilian leadership for failing to censure transgressors, see sources cited above, note 84.
+
+[^117]: **no fence for himself…** Rabbi Yannai expands the metaphor of the word סיג (*seyag*), “fence, hedge,” to include protection from prosecutors in this world and the next. Forms of protection in this world include descendants or temporal rulers, while a record of good deeds insulates one from punishment in the world to come.
+
+    On good works serving as a protection in the world to come, see M *Avot* 3:12. On progeny as a shield after one’s death, see *Zohar* 3:188a; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-89c|ZḤ* 89c]] (*MhN Rut*).
+
+    Normally in this translation, the term דאתי‎ עלמא (*alma de-atei*) is rendered as “the world that is coming,” but here it is rendered as “world to come” because the context shows little reworking beyond the ancient rabbinic framework (in which there is a temporal divide between this world and the next), rather than the medieval, mystical paradigm (which recognizes a world that is “constantly coming, never ceasing”). See *Zohar* 3:290b (*IZ*); Vol. 1, p. 4, n. 19.
+
+[^118]: **איש (*ish*), *a man*…** The use of the word איש (*ish*), *a man*, to designate Elimelech indicates that he was a senior figure who could rule justly and independently. His merits sufficed to protect him and his fellow townsfolk. Esau stands in contrast, the very model of wickedness.
+
+    On איש (*ish*), *a man*, as connoting a great or prominent man, see *Tanḥuma, Shemini* 9; Ibn Janaḥ, *Kitab al-Utsul*, s.v. *ish*; Rashi on [[Torah 37 - Sh'lach#^13-3|Numbers 13:3]], [[I Samuel 01#^1-11|1 Samuel 1:11]], and [[Isaiah 02#^2-9|Isaiah 2:9]]; Radak, *Sefer ha-Shorashim*, s.v. *ish*; Eleazar of Worms on Ruth 1:2. For other interpretations, see *Matoq mi-Devash*; Englander.
+
+[^119]: **place of the Great Sanhedrin…** Throughout rabbinic literature, *water* is interpreted as a symbol for Torah study. In BT *Bava Qamma* 60b, s.v. *asher be-sha’ar*, Rashi explains that *the gate of Bethlehem* in the verse from 2 Samuel signifies the “Sanhedrin, the elders at the gate.” Elimelech’s transgression, then, becomes an abandonment not only of his leadership role, but also of the benefits of being in a site from which Torah originates.
+
+[^120]: **But you, Rabbi…** Rabbi Yannai contrasts Rabbi Bun with Elimelech, saying that the latter fled the fount of Torah, while Rabbi Yannai left his town to seek out the blessing of Torah.
+
+    See M *Avot* 4:14: “Rabbi Nehorai said, ‘Exile yourself to a place of Torah…”
+
+[^121]: **[Rabbi Bun]** No name is offered for the prior speaker or for this respondent, but it may be intended to be Rabbi Bun because he is again the protagonist of the upcoming story.
+
+[^122]: **no one goading…** In many of the *Zohar*’s narratives, a rabbi will be accompanied by a mysterious figure serving as a donkey driver. These characters are apparently innocuous, even ostensibly uneducated, but inevitably they turn out to be great kabbalists. Here—as elsewhere—it is a child, often identified in the *Zohar* as the son of the great Rabbi Hamnuna.
+
+    “Goading” renders טעין (*ta’ein*), derived from the noun טייעא (*tayya’a*), “Arab; Arab caravaner,” itself derived from the name of the Arabian tribe *Ṭayyi*’. In the *Zohar, tayya’a* usually indicates one of various wandering donkey-drivers encountered by the Companions on the road. On the word טעין (*ta’ein*), “goad,” see Radak on [[Torah 11 - Vayigash#^45-17|Genesis 45:17]]; idem, *Sefer ha-Shorashim*, s.v. *t’n*; Scholem, *Major Trends*, 165, 388, nn. 42, 46; idem, *Kabbalah*, 227.
+
+    On the figure of the donkey-driver, see M *Qiddushin* 4:14, in the name of Abba Guryya: “One should not teach one’s son to be a donkey-driver or a camel-driver, or a barber or a sailor, or a herdsman or a shopkeeper, for their craft is the craft of robbers. Rabbi Yehudah says in his name, ‘Most donkey-drivers are wicked…’”
+
+    See JT *Ta’anit* 1:4, 64b; BT *Berakhot* 56b, *Rosh ha-Shanah* 26b, *Yevamot* 120b, *Bava Batra* 73b, *Sanhedrin* 110a, *Ḥullin* 7a, *Niddah* 14a; *Bereshit Rabbah* 32:10; *Zohar* 1:5b, 238a; 2:45b, 94b–114a, 145b, 155b–157a; 3:21a–23a, 186b; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-83a|ZḤ* 83a]]–d (*MhN, Rut*); *TZ* 23, 69a; Steinschneider, *Polemische und apologetische Literatur*, 248–54; Scholem, *Major Trends*, 165, 388, nn. 42, 46; idem, *Kabbalah*, 227; Idel, “Defusim shel pe’ilut go’elet,” 254–56, esp. n. 14; Schwartz, *Ha-Re’ayon ha-Meshiḥi be-Hagut Yisrael*, 117–21; Yisraeli, *Parshanut ha-Sod ve-Sod ha-Parshanut*, 76–79; Benarroch, *Sodo shel Yanuqa*, 77–80. Cf. BT *Mo’ed Qatan* 25a–b; *Shir ha-Shirim Rabbah* on 4:3.
+
+    On the figure of the child, see BT *Ḥagigah* 13a; *Zohar* 1:70a–b, 238b–240b; 3:171a–b, 186a–192a, 204b–206a; *[[Zohar 12.11 - Zohar al ha-Parashot#^zh-48a|ZḤ* 48a]] (*MhN, Rut*); Tishby, *Wisdom of the Zohar*, 197–223; Oron, “Motiv ha-Yanuqa u-Mashma’uto be-sefer ha-Zohar”; Benarroch, *Sodo shel Yanuqa*; idem, *Sava ve-Yanuqa*. On the figure of the wise fool, see Goldberg, “The Foolishness of the Wise.” The prophet Elijah returns to earth as a *tayya’a* in BT *Berakhot* 6b, and as an ערבי (*aravi*), “Arab,” in *Rut Zuta* 1:20; 4:11.
+
+[^123]: **You’ve incited harm upon yourself…** See M *Avot* 3:4, in the name of Rabbi Ḥanina son of Ḥakhinai: “One who walks on the way alone… is liable to the death penalty.”
+
+    In BT *Eruvin* 54a the female sage Beruriah speaks of the need to have Torah ingrained in one’s 248 limbs, similar to the child’s concern here. On the importance of engaging in Torah while on a journey, see [[Torah 45 - Vaetchanan#^6-7|Deuteronomy 6:7]]; *Zohar* 1:7a, 58b, 69b–70a, 76a, 87a, 115b. A similar scenario occurs in *Zohar* 1:69b.
+
+[^124]: **They sat down in a field…** The group remedies Rabbi Bun’s deficiency by gathering under a tree. When the members of the *Zohar*’s mystical fraternity sit down somewhere to exchange words of Torah, their chosen site and the brief details supplied are often loaded with kabbalistic significance. Here, a tree in a field marks the conjunction of the masculine and feminine potencies of Divinity, and the kabbalists locate themselves at this juncture to partake of the mystical harmony there.
+
+    See above, note 57. On the significance of sitting to study Torah and topography, see Hecker, *Mystical Bodies*, 121–25.
+
+[^125]: **One who sets out on a journey…** Rabbi Ḥiyya understands the brightening of the path of the righteous as a direct result of their exchange of words of Torah while traveling. He proceeds to interpret the verse’s details in a hyperliteral fashion to demonstrate this.
+
+[^126]: **ואור‎ הולך (*Holekh va-or*), *He walks with light*…** The formulation in Proverbs is poetic, while Rabbi Ḥiyya exploits the simple, straightforward meaning of ואור‎ הולך (*Holekh va-or*), *shining ever brighter*. This yields a reflection on the group’s own activities of walking with *light*, namely Torah.
+
+    On the significance of walking in the *Zohar*, see Greenstein, *Roads to Utopia*.
+
+[^127]: **היום‎ נכון‎ עד (*Ad nekhon ha-yom*), *Until the fullness of day*…** The syntax of the phrase, in which *fullness* is construed as a portion of the day, allows Rabbi Ḥiyya to explain that *fullness* signifies *Shekhinah*.
+
+    This translation of the sentence follows V6 and Venice, but V24, O17, L39, MS3, MS4, Thiengen (and *OY* with a slight discrepancy) read: “until *Shekhinah* is arrayed together with him. And we do not learn from him: ‘Wherever there are words of Torah….’” This version allows Rabbi Ḥiyya to continue with his rebuke of Rabbi Bun through his homily, by qualifying a well-known rabbinic teaching. Rabbi Ḥiyya warns Rabbi Bun that one cannot simply learn Torah on one’s own and expect the accompaniment of the *Shekhinah*; rather, one must be engaged in active discourse with one’s fellow in order to induce *Shekhinah*’s descent.
+
+    On the *Shekhinah*’s dwelling even with a single individual who is studying Torah, see M *Avot* 3:6; BT *Berakhot* 6a. The verse in Exodus concludes: *I will come to you and bless you*.
+
+[^128]: **Torah is medicinal…** See the *baraita* in BT *Qiddushin* 30b: “ושמתם (*Ve-samtem*), *And you shall set* [*these words upon your hearts and upon your soul*] ([[Torah 46 - Eikev#^11-18|Deuteronomy 11:18]], from the second paragraph of the *Shema*)—*sam tam*, a perfect remedy. The Torah is comparable to an elixir of life. This may be analogized to a man who struck his son with a mighty blow, and applied a bandage to his wound, saying to him: ‘My son! As long as this bandage is on your wound you can eat and drink to your heart’s content, and bathe in hot or cold water, without concern. But if you remove it, it will break out into sores.’ Thus did the blessed Holy One say to Israel: ‘My children! I created the Evil Impulse, but I also created the Torah as its antidote. If you occupy yourselves with the Torah, you will not be delivered into his hand.’”
+
+    See *Sifrei*, Deuteronomy 45. On the proper recitation of *Shema*, see below, notes 139–43, 710–19, 742–45; Vol. 10, pp. 568, 572.
+
+    Proverbs 3 opens: *My son, do not forget my Torah, and let your heart keep my commandments*, enabling Rabbi Yehudah to understand *Torah* as the subject of verse 8. On the latter verse, see JPS, Fox, Alter.
+
+[^129]: **248 words…** Rabbi Nehorai extends the medical metaphor by asserting that each and every word of the *Shema* has a restorative effect for each corresponding limb in the body.
+
+    On the correspondence of the number of words in *Shema* and limbs of the body, see *Tanḥuma, Qedoshim* 6; *Shibbolei ha-Leqet ha-Shalem*, 15; *Maḥazor Vitri*, 65; El’azar of Worms, *Sefer ha-Roqeaḥ*, 320; Abraham ben Isaac of Narbonne, *Sefer ha-Eshkol*, 9; Judah ben Yaqar, *Peirush ha-Tefilot ve-ha-Berakhot*, 30–31; *Peirushei Siddurei ha-Tefilah la-Roqeaḥ*, 297; Abraham ben Nathan ha-Yarḥi, *Sefer ha-Manhig, Dinei Tefillah*, 33; *Kol Bo*, 9; Rabbenu Yonah, *Sefer ha-Yir’ah*, 8a; *Zohar* 1:24a (*TZ*), 101a (*Mat*, standard editions), 253a (*Hash*); 3:263a (*Piq*); Moses de León, *Maskiyyot ha-Kesef*, 26; idem, *Sheqel ha-Qodesh*, 84 (107); David Abudarham, *Sefer Abudarham*, 77; Wolfson, “Dimmui Antropomorphi,” 161 n. 62.
+
+    On the 248 limbs of the human body (that is, joints or bones covered with flesh and sinews), see M *Oholot* 1:8; BT *Nedarim* 32b; *Makkot* 23b; *Bereshit Rabbah* 69:1; *Pesiqta de-Rav Kahana* 12:1; El’azar of Worms, *Peirushei Siddur ha-Tefillah la-Roqeaḥ*, 679; Moses de León, *Sefer ha-Rimmon*, 132, 262.
+
+[^130]: **only 245 words…** The *Shema* consists of three paragraphs: [[Torah 45 - Vaetchanan#^6-4|Deuteronomy 6:4–9]], [[Torah 46 - Eikev#^11-13|11:13–21]]; [[Torah 37 - Sh'lach#^15-37|Numbers 15:37–41]]. Together with the rabbinic formula *Barukh shem kevod malkhuto le-olam va’ed*, “Blessed be the name of His glorious kingdom forever and ever,” inserted after the first line, it includes 245 words, not 248.
+
+[^131]: **repeat three words…** The repetition of three words does not constitute a normative interruption of one’s concentration in prayer. In the twelfth and thirteenth centuries, traditions circulated in Germany and France to resolve the numerical discrepancy, arising from the midrashic claim of correspondence between words and limbs. The custom had developed in Ashkenaz to say נאמן‎ מלך‎ אל (*El melekh ne’eman*), “God is a faithful king,” before the *Shema*. Because the acronymn of these three words spells *Amen*, they were construed as a plausible, albeit unusual, response to the preceding blessing. This practice elicited strong protests from Naḥmanides and subsequent Spanish rabbinic authorities. The solution offered here is a novel one (notwithstanding the child’s assertion that it was instituted by the rabbis), attempting to attain the 248 words while avoiding the halakhic problems of the Ashkenazi practice.
+
+    In addition to the perceived need to attain the number of 248, the rabbis instituted a requirement that one conclude the *Shema* by adding the word אמת (*emet*), “truth,” at the end without interruption as an affirmation of Jeremiah’s assertion that אמת‎ אלהים‎ ויהוה (*va-YHVH Elohim emet*), *And YHVH is the God of truth*. See [[Jeremiah 10#^10-10|Jeremiah 10:10]]. When the Mishnah establishes the places during the *Shema* at which a worshiper may be interrupted, Rabbi Yehudah contends that one may not interrupt between the end of the third paragraph and the succeeding blessing, beginning with the word *emet*, “truth.” See M *Berakhot* 2:2; BT *Berakhot* 14a–b; *Shabbat* 55a, in the name of Rabbi Ḥanina: “The seal of the blessed Holy One is Truth.” See also BT *Yoma* 69a, *Sanhedrin* 64a.
+
+    On אמן (*amen*) as an acronym for *El melekh ne’eman*, see BT *Shabbat* 119b, and *Tosafot*, ad loc., s.v. *amar rabbi Ḥanina*; *Zohar* 3:285b. Cf. *Midrash Aggadah* on [[Torah 45 - Vaetchanan#^5-11|Deuteronomy 5:11]], where *El melekh ne’eman* is added to the text of the Ten Commandments to attain a sum of 613 words.
+
+    The translation follows V24, MS4, Thiengen, and Venice, which indicate that one repeats the words אלהיכם‎ יהוה‎ אני (*Ani YHVH Eloheikhem*), *I am YHVH, your God*. V6, O17, L39, MS3, O18, and *Or Yaqar* all have אמת‎ אלהיכם‎ יהוה (*Adonai Eloheikhem emet*), in accord with the emerging normative practice. See *TZ* 10 (25b); Moses ben Jacob (of Kiev), *Sefer Shushan Sodot* (Korets, 1779), 8b–9a.
+
+    See *Zohar* 1:101a (*Mat*, standard edition), *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-78a|ZḤ* 78a]] (*MhN, Rut*), and *TZ* 10 (25b), which record *Adonai Eloheikhem emet* as the words to be repeated. It is possible that Moses de León also adopted two different positions: different manuscript versions of *Shushan Edut* record each of the possibilities. MS Oxford 1947 38 says *ani YHVH Eloheikhem* are repeated, while MS NY 1887 15a indicates that one should repeat *Adonai Eloheikhem emet*. (This latter text affirms that it is the divine body that is being perfected, rather than the human body.) De León’s *Sheqel ha-Qodesh*, 84–85 (107–8), has an unusual halakhic discussion affirming that one should repeat the words *Adonai Eloheikhem emet*, and it appears that the halakhic emphasis on joining *Adonai Eloheikhem* with *emet* served as an impetus to repeat those three words, ultimately leading to inconsistency even within the manuscripts that first recommend repeating *Ani YHVH Eloheikhem*.
+
+    Texts from fourteenth- and fifteenth-century Spain indicate that the practice there was to repeat *ani YHVH Eloheikhem*. This was adopted by Shne’ur Zalman of Liadi, the first rebbe of Lubavitch, for an individual; and it was instituted as the practice for the public prayer service by Menahem Mendel Schneersohn, the last rebbe of Lubavitch. See *Siddur Rabbeinu ha-Zaqen*, 90, and nn. 121–22.
+
+    On the different practices regarding the repetition of three words after *Shema*, see Naḥmanides, *Ḥiddushei Ramban* on *Berakhot* 11b; Abraham of Narbonne, *Sefer ha-Eshkol, Hilkhot Tefillah u-Qri’at Shema*, 5:11; Recanati as cited in Maharam Alashqar, *Responsa* 60; Meir Halevi Abulafia as cited in David Abudarham, *Sefer Abudarham*, p. 77–78; Moses ben Jacob of Kiev, *Shoshan Sodot*, 8b–9a; Simeon ben Tsemaḥ Duran, *Responsa* 2:236; Joseph Caro, *Beit Yosef, Oraḥ Ḥayyim* 61:3; Buber’s note 7 in *Midrash Aggadah* on [[Torah 45 - Vaetchanan#^5-11|Deuteronomy 5:11]]; *Nitsotsei Zohar*; Ta-Shma, “El Melekh Ne’eman”; Katz, “Hakhra’ot ha-Zohar bi-dvar Halakhah,” 39–43; Wolfson, “Dimmui Antropomorphi,” 161–63 and nn. 62, 66, 67.
+
+[^132]: **Ten Commandments…** Rabbi Akiva’s version adds to the child’s argument with the correspondence to the Ten Commandments, and by contending that the three words to be repeated are אמת‎ אלהיכם‎ יהוה (*Adonai Eloheikhem emet*)—the last two words of the *Shema* and the first word of the succeeding blessing, *Emet ve-yatsiv*.
+
+    On recitation of the *Shema* and the Ten Commandments, see the teaching ascribed to Rav Ba in JT *Berakhot* 1:4, 3c: “‘The Ten Commandments are the very essence of *Shema*.’ Rav Matnah and Rabbi Shemu’el son of Naḥman both said, ‘It would have been appropriate to read the Ten Commandments daily. And why don’t we read them? Because of the claim of the heretics—to prevent them from saying that these alone were given to Moses at Sinai.’”
+
+    See M *Tamid* 5:1; JT *Berakhot* 1:4, 3c; BT *Berakhot* 12a; *Otsar ha-Midrashim*, 489; Freundel, *Why We Pray*, 30–50; Tabory, “Prayers and Berakhot,” 291–92. On the three words to be repeated, see preceding note.
+
+[^133]: **they instituted three blessings…** The child resumes his discourse, explaining the position that his father had rejected: that in the statutory prayer (the *Amidah*), the composers of the liturgy instituted three introductory blessings and three concluding blessings, as well as three names of God at the beginning and ending of the recitation of the *Shema*.
+
+[^134]: **without the congregation…** With out hearing the repetition of the final three words during the public service, one cannot completely fulfill the injunction regarding *Shema*’s 248 words.
+
+    There are sixteen terms of praise that follow the *Shema*, at the beginning of the morning blessing that succeeds the *Shema*. After the first one, *emet*, “truth,” the next fifteen are all joined with the letter ו (*vav*), “and.” It is not clear how the recitation of these fifteen *vav*s serves as a substitute for a full 248-word recital of *Shema*, but the prayer commentary ascribed to Eleazar of Worms indicates that these fifteen times six—the numerical value of *vav*—equals ninety, corresponding to the word צדק (*tsedeq*), *just*, in [[Psalms 017#^17-1|Psalms 17:1]]; the letter צ (*tsadi*) at the beginning of the word has the numerical value of 90. *Midrash Tehillim* 17:6 explains as follows: “שמעה (*Shim’ah*), *Hear, YHVH, what is just*—this signifies the recitation of *Shema*.” Alternatively, as suggested by Joseph Caro in *Shulḥan Arukh, Oraḥ Ḥayyim* 61:3, the number 90 corresponds to the numerical value of three iterations of *YHVH*, plus four for the number of letters of the name. These explanations are more convoluted than the *Zohar*’s usual style.
+
+    Cf. Judah son of Yaqar, *Peirush ha-Tefillot ve-ha-Berakhot*, 30–32; *Peirushei Siddur Tefillah la-Roqeaḥ*, 298–99; “Sefer ha-Navon,” 118, 127–28, 132–33.
+
+[^135]: ***A crooked thing*…** Ultimately, there is no replacement for praying with the community, because it is only with the prayer leader’s repetition of the final three words that one attains the sum of 248.
+
+    On the verse from Ecclesiastes, BT *Berakhot* 26a teaches: “*A crooked thing cannot be made straight*—this denotes one who omitted the *Shema* of the evening or the *Shema* of the morning, or the prayer of the evening or the prayer of the morning. *Nor can the lack be counted*—this denotes one whose companions formed a group to perform a *mitsvah* and he was not included with them.”
+
+[^136]: **Expound your verse…** A nearly identical expression appears in rabbinic literature. There too it is addressed to children, whose casual utterances of biblical verses constitute a form of divination.
+
+    See BT *Ḥagigah* 15a–b, *Gittin* 56a, 68a, *Ḥullin* 95b; *Ester Rabbah* 7:13; Lieberman, *Hellenism in Jewish Palestine*, 195–98.
+
+[^137]: **[48a]…** The printed editions all note a caesura at this point, indicating that the child’s homily continues “below,” at 80d where Rabbi Bun relays the child’s teaching. There is, however, another homily of the child that floats alone at *[[Zohar 12.11 - Zohar al ha-Parashot#^zh-48a|ZḤ* 48a]]; and a number of editors indicate that it, too, is continued “below.” The Vilna Gaon reconstructed the text, moving back and forth between 77d and 48a, concluding on 80d–81a, and then returning to the regular flow of the text on 78a. This translation follows the reconstruction proposed by Benarroch.
+
+    See Munkacz at 1:79a; 2:30b; *Sefer Midrash Rut ha-Ḥadash* (*Hadrat Qodesh*) 8a–b; *Nitsotsei Zohar* 48a, 78a; Scholem; Mopsik, p. 77, n. 118; *Matoq mi-Devash* on 48a, 80c; Benarroch, “The Mystery of Unity,” 233 and n. 7.
+
+    Moses Cordovero remarks upon the incomplete and sometimes fragmentary quality of available *Zohar* manuscripts. These brief statements are expanded in his comments on *Tiqqunei Zohar*: “I do not possess this book in its proper form and arrangement. And I have struggled greatly with the codices and arranged the book with great effort. And God knows the extent to which I regret [any mistakes I have made regarding] this book’s order because [my efforts] are intended only for the sake of heaven. May God forgive me if I have bungled some of the sequencing! But my intent was only to arrange the book appropriately.” See *Or Yaqar Tiqqunei Zohar* 2:81; ibid. 1:15; *Or Yaqar*, 5:9; 14:82, 89. On the problems of assembling the *Zohar*, see Abrams, *Kabbalistic Manuscripts*, 224–438, especially 232–65.
+
+[^138]: ***Witness me*…** The conventional construal of the phrase בי‎ ענה (*aneh vi*) is *testify against me*, with God rhetorically asking what excess burden He has imposed upon the Jewish people to make them so resistant to His call. Here, the child explains the verse midrashically as *witness Me* [or: *testify about Me*], becoming a petition that Israel attest God’s oneness through their study and prayer, particularly through the recital of the *Shema*.
+
+[^139]: **Name of Forty-Two Names…** Reciting each one of the paragraphs of the *Shema*, as delineated here with specific numbers of words, achieves a unification of Divinity. The Name of Forty-Two Words appears to be a reference to the Name of Forty-Two Letters that is mentioned in the name of Rav, though not recorded, in BT *Qiddushin* 71a. According to Jacob ben Meir Tam (Rabbenu Tam), this name consists of the first forty-two letters of the Torah, from the ב (*bet*) of בראשית (*Be-reshit*), *In the beginning*, through the ב (*vet*) of בהו (*vohu*), *empty* (or *void*) ([[Torah 01 - Bereshit#^1-2|Genesis 1:2]]). By this complex divine name, the world came into being. Hai Gaon indicates that the Name of Forty-two Letters consists of the letters ,שקוצית‎ יגלפזק,‎ חקבטנע,‎ בטרצתג,‎ נגדיכש,‎ קרעשטן‎ אבגיתץ,, which are also the initial letters of the forty-two words constituting the prayer *Anna be-Khoaḥ* (Please, with the Strength [of Your Right Hand’s Greatness]).
+
+    Cordovero (Or *Yaqar*) describes how the name *YHVH* (“the engraved, explicit name”) can be permuted into a forty-two-letter name; cf. *Zohar* 2:260a (*Heikh*). In *Zohar* 1:9a, Moses’ staff is described as “radiating the engraved name in every direction with the radiance of the wise who engraved the explicit name in forty-two colors.”
+
+    See Lewin, *Otsar ha-Ge’onim, Ḥagigah*, 23; *Tosafot, Ḥagigah* 11b, s.v. *ein doreshin*; *Zohar* 1:1a, 15b, 30a–b; 2:92b (*Piq*), 130b, 132b, 175b, 187a, 234a–b; 3:78a, 172b; *[[Zohar 12.11 - Zohar al ha-Parashot#^zh-42a|ZḤ* 42a]]; Baḥya ben Asher on [[Torah 13 - Shemot#^2-12|Exodus 2:12]]; Cordovero, *Pardes Rimmonim* 21:12–13; *Ketem Paz* 1:46c–d; Trachtenberg, *Jewish Magic and Superstition*, 94–96; Scholem, “Rav Moshe mi-Burgos,” 54–61; Idel, “Al ha-Peirushim,” 161–62, n. 24; 167–68, n. 52. Cf. Maimonides, *Guide of the Perplexed* 1:62.
+
+    On the Name of Forty-Two Letters and the forty-two words in the “second” paragraph of the *Shema*, see *Zohar* 3:263a (*Piq*); *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-46d|ZḤ* 46d]] (*MhN, Rut*); Moses de León, *Sheqel ha-Qodesh*, 83 (106); idem, *Maskiyyot Kesef*, 28.
+
+[^140]: **Name of Seventy-Two Words…** The child reveals that other sections of the *Shema* also have numerical word-counts that correspond to divine names. Actually, the “paragraph” in Deuteronomy with seventy-two letters is not a natural literary paragraph; and the final paragraph of *Shema*, from Numbers, comprises only sixty-nine distinct words—three words short of what is claimed here. The name of fifty letters is derived from *these words* ([[Torah 46 - Eikev#^11-8|Deuteronomy 11:8]]) until the end of [[Torah 46 - Eikev#^11-21|Deuteronomy 11:21]].
+
+    On the seventy-two words and fifty words in these paragraphs of *Shema*, see *Zohar* 3:263a (*Piq*); *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-46d|ZḤ* 46d]], [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-90c|90c]] (both *MhN, Rut*); Moses de León, *Sheqel ha-Qodesh*, 84 (106); idem, *Maskiyyot Kesef*, 29. On the name of seventy-two names, see above, note 44.
+
+    The number fifty is frequently associated with *Binah*, based on a statement attributed to Rav and Shemu’el (BT *Rosh ha-Shanah* 21b, *Nedarim* 38a): “Fifty gates of בינה (*binah*), understanding, were created in the world, and all were given to Moses except for one, as is said: *You made him little less than God* (Psalms 8:6).” See Naḥmanides, *Peirush al ha-Torah*, intro, 3–4; *Zohar* 1:3b.
+
+[^141]: **These four paragraphs…** The *Zohar* apparently innovates this division of the *Shema* into four paragraphs. The “twelve upper words” refers to the six words that begin the *Shema*, from [[Torah 45 - Vaetchanan#^6-4|Deuteronomy 6:4]], along with the response *Barukh shem kevod malkhuto le-olam va-ed*, “Blessed be the name of His glorious kingdom forever and ever,” added by the rabbis.
+
+    On the four paragraphs of *Shema*, see Moses de León, *Sheqel ha-Qodesh*, 84 (106). On the addition of “Blessed be the name of His glorious kingdom forever and ever,” see above, note 63.
+
+[^142]: **Whoever recites *Shema* fittingly…** See *Tanḥuma, Qedoshim* 6, in the name of Rabbi Mani: “Do not look askance at the recital of *Shema*, for there are 248 words in it like the sum of limbs in a human body…. The blessed Holy One said, ‘If שמרת (*shamarta*), you are vigilant, regarding Mine [i.e., My 248 words]—reciting *Shema* as prescribed—then אשמר (*eshmor*), I shall guard, yours [i.e., your 248 limbs].”
+
+    On the “evil spirit” that fill the limbs of the one who does not recite *Shema*, cf. *Zohar* 3:186a.
+
+[^143]: **Three words…** Apparently, the competing impulses for each set of three words (actually repeating the last three words, versus joining the words *YHVH Eloheikhem* to *emet*) led to this contradiction regarding which three words to repeat, sometimes even within the same manuscript.
+
+    On these three words, see above, note 131; *Nitsotsei Zohar*.
+
+[^144]: **Old Man…** A number of narratives link the Old Man (see above, note 112) with the child, either as his father or grandfather. On their relationship, see Benarroch, *Sava ve-Yanuqa*, 258–352.
+
+    While the text cites [[Ecclesiastes 09#^9-15|Ecclesiastes 9:15]] as referring to *a poor, wise child*, MT reads: *a poor, wise man*; the change in wording, if intentional, seeks to identify the child of the story with the wisdom and messianic elements of the succeeding homilies. What follows are seven interpretations of the anecdote from Ecclesiastes.
+
+    The context of the verses in Ecclesiastes reads: *There was a small city, and few people within it, and a great king came against it* [or: *to it*] *and went round it and built great siegeworks against it. And there was found within it a poor, wise man who might have saved it* [or: *who saved it*] *with his wisdom, but nobody thought of that poor man*. Modern translators have interpreted some of these terms in multiple ways, and the upcoming homilies likewise choose variously among these options. See NJPS; Fox; Alter.
+
+    On discrepancies between MT and scriptural citations in the *Zohar*, see above, p. 5, n. 6.
+
+[^145]: **Noah’s ark…** This begins a new series of homiletical interpretations of the passage in Ecclesiastes. The first one is fragmentary. Later in the series, a more developed homily likewise cites Noah and his family in the ark, which may be a fuller version of this one. The Vilna Gaon omits this homily, along with the opening from the Old Man. For another treatment of the anecdote, see *Zohar* 3:68b.
+
+[^146]: **[80c]…** The homilies regarding the *small city* continue here. See above, n. 137.
+
+[^147]: **Rabbi Yitzḥak…** This homily draws directly on two teachings of Rabbi Ammi son of Abba in BT *Nedarim* 32b, addressing the 248 limbs of the male Jewish body and the verses under consideration here: “‘[First] אברם (*Avram*), Abram, is written; then אברהם (*Avraham*), Abraham. At first, God gave him mastery over two hundred forty-three limbs, and later over two hundred forty-eight, the additional ones being the two eyes, two ears, and the membrum.’ [The addition of the letter ה (*he*)—with the numerical value of five—accounts for the increased self-control after circumcision.] Rabbi Ammi son of Abba also said, ‘What is the meaning of *There was a small city*…? *A small city*—this is the body; *and few people within it*—these are the limbs; *and a great king came against it and went round it*—this signifies the Evil Impulse; *and built great siegeworks against it*—these are sins. *And there was found within it a poor, wise man*—this signifies the Good Impulse; *who saved it with his wisdom*—this refers to repentance and good deeds; *but nobody thought of that poor man*—for when the Evil Impulse gains dominion, none remember the Good Impulse.’”
+
+    See *Qohelet Rabbah* on [[Ecclesiastes 09#^9-15|Ecclesiastes 9:15]]. The latter part of [[Ecclesiastes 09#^9-16|Ecclesiastes 9:16]] reads: *but the poor man’s wisdom is scorned, and his words are unheard*.
+
+[^148]: ***little sister*—Assembly of Israel…** Signifying the *Shekhinah*, who is called Holy City in Her relationship to *Tif’eret*, known as the blessed Holy One. She is *small* in relation to the blessed Holy One; and She has few dedicated inhabitants, such as the patriarchs.
+
+    “Assembly of Israel” is described as God’s sister, based on a midrashic reading of [[Song of Songs 5#^5-2|Song of Songs 5:2]]: *my sister, my beloved*. See *Pesiqta de-Rav Kahana* 1:3; *Shir ha-Shirim Rabbah* on 3:11; *Tanḥuma* (Buber), *Pequdei* 8; *Shemot Rabbah* 52:5; *Bemidbar Rabbah* 12:8.
+
+[^149]: ***Shekhinah* descended with him…** *Shekhinah*’s residence on earth is entirely dependent upon human righteousness or criminality. Her smallness is a sign of that vulnerability, and the persistent sinfulness of humanity a proof that there are few people attached to Her.
+
+    On the various stages of *Shekhinah*’s ascents and descents, see *Bereshit Rabbah* 19:7, in the name of Rabbi Abba son of Kahana: “The root [or: essence] of *Shekhinah* was in the world below. Once Adam sinned, She withdrew to the first heaven. Cain sinned; She ascended to the second heaven. The generation of Enosh sinned; She ascended to the third. The generation of the Flood sinned—to the fourth. The generation of the Dispersion—to the fifth. The Sodomites—to the sixth. The Egyptians in the days of Abraham—to the seventh.
+
+    “Opposite these, seven righteous ones arose—Abraham, Isaac, Jacob, Levi, Kohath, Amram, Moses—and brought Her down to earth. Abraham, from the seventh to the six; Isaac brought [Her] down from the sixth to the fifth; Jacob brought [Her] down from the fifth to the fourth; Levi brought [Her] down from the fourth to the third; Kohath brought [Her] down from the third to the second; Amram brought [Her] down from the second to the first; Moses brought Her down below.”
+
+    See *Pesiqta de-Rav Kahana* 1:1; *Pesiqta Rabbati* 5, 18b; *Bemidbar Rabbah* 13:2; *Shir ha-Shirim Rabbah* on 5:1; *Tanḥuma, Pequdei* 6, *Naso* 16; *Tanḥuma* (Buber), *Naso* 24; *Pirqei de-Rabbi Eli’ezer* 14; *Avot de-Rabbi Natan* A, 34; *Zohar* 2:145a, 146a; Moses de León, *Mishkan ha-Edut*, 15–16. In *Sha’arei Orah*, 8a–9a, Gikatilla extends this midrashic theme to David and Solomon, explaining that only with Solomon’s Temple did *Shekhinah* finally find a permanent dwelling place on earth.
+
+[^150]: **Ploni…** The name “Ploni” normally signifies anonymity, but here it is a euphemism for Samael, personification of the Other Side. Scholem suggests that this could be a reference to Jesus.
+
+    On the caution regarding enunciating the name Samael, see Margaliot, *Mal’akhei Elyon*, 248, n. 1. Cf. [[Ruth 4#^4-1|Ruth 4:1]].
+
+[^151]: **divine overflow was withheld…** Elsewhere in the *Zohar*, Jacob is called “master of the house,” signifying “husband of *Shekhinah*.” When Joseph was reported killed, Jacob lost the holy spirit that he had enjoyed.
+
+    On the withdrawal of *Shekhinah*, see Rashi on [[Torah 11 - Vayigash#^45-27|Genesis 45:27]]. On Jacob as “master of the house,” see *Zohar* 1:21b, 138b.
+
+[^152]: **Moses** After Jacob’s death, Moses becomes “master of the house.” See *Zohar* 1:21b, 152b, 236b, 239a; 2:22b, 235b, 238b, 244b (*Heikh*). Cf. *Matoq mi-Devash*.
+
+[^153]: ***Matronita*’s exile** *Shekhinah* goes into exile with the Jewish people.
+
+    See BT *Megillah* 29a, in the name of Rabbi Shim’on son of Yoḥai: “Come and see how beloved are Israel in the sight of the blessed Holy One! Wherever they went in exile, *Shekhinah* accompanied them. When they were exiled to Egypt, *Shekhinah* was with them…. When they were exiled to Babylon, *Shekhinah* was with them…. And even when they are destined to be redeemed, *Shekhinah* will be with them.” See also sources cited above, note 98.
+
+[^154]: **Zion…** This teaching interprets the verses as a parable describing the blockage of divine overflow from *Yesod* to *Shekhinah* when *Shekhinah* is besieged by Samael. When the Messiah comes, that flow resumes, restoring divine harmony. “Zion” is a name for *Shekhinah*. The “six days of creation” signify the six lower *sefirot* from *Ḥesed* to *Yesod*. When Samael encircles *Shekhinah*, the effusion from those six is choked off. The messianic figure (depicted as *riding on an ass*, and represented here by David) will come to free the stream from above—redeeming Righteous One, symbol of *Yesod*.
+
+    The full verse in Zechariah reads: *See, your king is coming to you! Righteous and triumphant is he; poor and riding on an ass—on a donkey, foal of a she-ass*. The full verse in Isaiah reads: *The righteous one* אבד (*avad*), *perishes* [or: *is lost*], *and no one takes it to heart; devout people are taken away, while no one understands that because of evil, the righteous one was taken away*. On the verses from Isaiah and Zechariah, see *Zohar* 2:57a–b.
+
+[^155]: **Messiah son of David…** King Solomon is specified as the literal son of David, redeeming *Shekhinah* and Zion by virtue of his wisdom. When Solomon acts in this way, he redeems *Yesod* itself—and salvation will flow to Zion.
+
+[^156]: ***poor, wise man*—Noah…** This time, the poverty of the poor, wise man lies in Noah’s inability to save himself or his family. The one with wisdom is Abraham, and by virtue of his being an eventual descendant of Noah’s son Shem, the ark and its passengers are delivered.
+
+    On Noah’s being redeemed by his descendants, see *Bereshit Rabbah* 29:5; *Tanḥuma, Noaḥ* 2.
+
+[^157]: **Jerusalem—at this time…** After the destruction of the Temple, Jerusalem is laid waste and its Jewish inhabitants exiled. In the book of Daniel, King Nebuchadnezzar has a dream featuring a fearsome statue, with iron legs. For the author of *Midrash ha-Ne’lam* on Ruth, the statue symbolizes the rule of Esau’s descendants, later to be vanquished by the messianic redeemer. In [[Torah 08 - Vayishlach#^36-1|Genesis 36:1]], Esau is identified with Edom, whom (according to [[II Samuel 08#^8-13|2 Samuel 8:13–14]]) David defeated. In rabbinic literature Esau represents the Roman Empire, while in medieval Jewish literature he stands for Christianity.
+
+    The two Messiahs apparently reflect the dual-Messiah doctrine, in which one military figure—designated Messiah son of Joseph—will arise and be defeated. He will be succeeded by Messiah son of David who will bring about the ultimate redemption.
+
+    See *Targum Yerushalmi* on [[Torah 23 - Pekudei#^40-11|Exodus 40:11]]; *Shir ha-Shirim Rabbah* on 2:9; *Bemidbar Rabbah* 14:1; *Pesiqta Rabbati* 15, 72b; BT *Sukkah* 52a–b; *Midrash Tehillim* 60:3; 87:6; Saadiah Gaon, *Emunot ve-De’ot* 8:5; *Sefer Zerubavel*; Naḥmanides on [[Torah 16 - Beshalach#^17-9|Exodus 17:9]]; Ezra ben Solomon of Gerona, *Peirush Shir ha-Shirim*, 515; *Zohar* 1:25b (*TZ*); 3:278b, 279a (both *RM*); *[[Zohar 12.11 - Zohar al ha-Parashot#^zh-56b|ZḤ* 56b]]; Scholem, *The Messianic Idea in Judaism*, 17–18; Berger, “Three Typological Themes,” 141–48; Lenowitz, *The Jewish Messiahs*, 31–32. Cf. *Zohar* 2:7b.
+
+    This passage bears echoes of the medieval apocalyptic work *Sefer Zerubavel*, particularly since that work features a stone statue carried into battle by the Roman leader. On *Sefer Zerubavel*, see Himmelfarb, “Sefer Zerubbabel.”
+
+    On the identification of Esau, Edom, and the Roman Empire, see Yisraeli, *Pitḥei Heikhal*, 157–63.
+
+    In the verse from Daniel, it is actually the legs that are of iron. [[Daniel 02#^2-32|Daniel 2:32–33]] reads: *The head of that statue was of fine gold; its breast and arms were of silver; its belly and thighs, of bronze; its legs were of iron, and its feet part iron and part clay*.
+
+[^158]: **handles for Torah…** BT *Eruvin* 21b ascribes the following teaching to Rava: “What is the meaning of the verse *More than being wise, Qohelet further taught knowledge to the people, and weighed, and searched out and framed many maxims* (Ecclesiastes 12:9)? …ואזן (*ve-izzen*), *and weighed, and searched out and framed many maxims*—Ulla explained in the name of Rabbi El’azar, that the Torah was at first like a basket that had no אזנים (*oznayim*), handles, until Solomon came and affixed אזנים (*oznayim*), handles, to it.” Rashi explains in light of BT *Yevamot* 21a that these handles refer to decrees instituted by King Solomon. The text in *Or Yaqar* and later printed editions include a passage indicating that Solomon’s wisdom saved the city from heresy and apostates.
+
+    This homily appears fragmented in all the manuscripts consulted and in Thiengen, while Venice and *Or Yaqar* apparently draw on a source supplying interpretations of the earlier part of the parable in Ecclesiastes.
+
+[^159]: **efforts expended… by that *poor man*—David…** On David’s adornment of *Shekhinah* through song, in advance of Solomon’s efforts, see *Zohar* 2:145a. On David as a poor person, see Psalms (traditionally ascribed to King David) 25:16; 34:7; 35:10; 40:18; 69:30; 70:6; 86:1; 102:1; 109:22.
+
+[^160]: **potent rectification for the lamp…** If David would have lived for one hundred years, he would have firmly secured the position of *Shekhinah*, represented by the בוצינא (*botsina*), “lamp,” so that divine overflow would have persisted down to this world.
+
+    Nathan Neta Shapira (*Megalleh Amuqot*, 200) notes that in [[Psalms 023#^23-6|Psalms 23:6]], when the psalmist longs *to dwell in the house of YHVH for many long days*, the numerical value of the word ימים (*yamim*), *days*, equals one hundred.
+
+[^161]: ***But* לא‎ אדם (*Adam lo*), *Adam did not, remember*…** The simple meaning of the phrase *Adam lo* is *nobody*, but here it is interpreted hyperliterally as a reference to Primal Adam, the first man, who forgot about David’s future reign and limited lifespan. According to a midrashic tradition, King David was destined to die at childbirth, but Adam offered him 70 of his own 1000 allotted years, so David lived for 70 years and Adam for 930. Samael came riding on the serpent, which appeared like a camel, and he and the serpent enticed Adam and Eve respectively. King David became impoverished as a result of that original sin. Adam should have remembered him because when he was first created, God brought all future souls to pass before him.
+
+    See *Pirqei de-Rabbi Eli’ezer* 13: “Samael… took his band and descended and saw all the creatures created by the blessed Holy One. He determined that the most cunningly evil was the serpent, as is said: *Now the serpent was slier than any creature of the field that YHVH Elohim had made*. He [the serpent] looked like a camel, and he [Samael] mounted and rode him.”
+
+    On Adam’s donating seventy years to David, see Jubilees 4:30; *Pirqei de-Rabbi Eli’ezer* 19, and David Luria, ad loc., n. 31; *Midrash Tehillim* 92:10; *Bemidbar Rabbah* 14:12; *Bereshit Rabbati* 5:5; *Avot de-Rabbi Nathan* B, 42; *Zohar* 1:55a–b, 91b, 140a, 168a–b, 233b, 248b; 2:103b, 235a; *[[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-67d|ZḤ* 67d]] (*ShS*); Moses de León, *Sheqel ha-Qodesh*, 68 (85); idem, *Sod Eser Sefirot Belimah*, 383.
+
+    On Samael riding the serpent (or Lilith), see *Pirqei de-Rabbi Eli’ezer* 21; *Bahir* 141 (200); *Zohar* 1:35b, 55a, 64a, 137b, 145b–146a, 153a, 160b, 169b, 228a; 253b (*Hash, ST*); 2:236a, 242b–244a; *ZḤ* 8c, [[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-69a|69a]] (*ShS*), 91d (*Eikhah*).
+
+    On future souls passing before Adam, see *Seder Olam Rabbah* 30; *Avot de-Rabbi Natan* A, 31; *Bereshit Rabbah* 24:2; BT *Sanhedrin* 38b; *Avodah Zarah* 5a; *Bereshit Rabbati* 5:5; *Zohar* 1:55a, 90b, 227b; 2:70a; *[[Zohar 10.03 - Parashat Be-Reshit#^zh-16d|ZḤ* 16d]] (*MhN*); 37b (*ST*); 67d, 69a (both *ShS*); Moses de León, *Sheqel ha-Qodesh*, 68 (85); idem, *Sod Eser Sefirot Belimah*, 383.
+
+[^162]: **Samael did not have the power…** The serpent is female, and Samael is male, with each one allowed to seduce its human counterpart of the same sex.
+
+    See *Bahir* 140 (199); *TZ* 59, 93a.
+
+[^163]: ***Shekhinah* was exiled with them…** This explains why *Shekhinah* was exiled with the Jewish people, to the exclusion of the higher, male *sefirot*: it was due to the sinfulness of Eve.
+
+    On *Shekhinah*’s exile with Israel, see above, note 98. Though this passage seems like an interpolation, I am including it in the critical edition because it is found in V24, O17, L39, MS3, MS4, Thiengen, and Venice.
+
+[^164]: **to strengthen him…** If David had had the full measure of one hundred years, he could have reinforced and properly configured *Shekhinah*, represented by the lamp. Thus, Adam’s sin had long-term historical consequences.
+
+[^165]: **all that remained for him…** So much of David’s time was consumed with duties or in flight from Saul and Absalom that he was unable to do the work of repair to the *Shekhinah* that would have given Her permanence.
+
+    On Absalom’s rebellion, see 2 Samuel 14–18.
+
+[^166]: **King Solomon praised himself…** King Solomon’s statement appears at first to be grand hubris, but he makes his declaration lest he suffer the same troubles of being ignored and persecuted as his father King David had been. In this interpretation of *a poor, wise man* ([[Ecclesiastes 09#^9-15|Ecclesiastes 9:15]]), David is *poor* and Solomon is *wise*. The child explains the phrase in [[Ecclesiastes 09#^9-13|Ecclesiastes 9:13]]—אלי‎ היא‎ וגדולה (*u-gdolah hi elai*)—to mean *it is an extraordinary* [or: *grand, great*] *thing that falls to me*.
+
+    See *Sullam*. On the word אלי (*elai*), *to me*, cf. *Rut Rabbah* 2:5. The simple sense of [[Ecclesiastes 09#^9-13|Ecclesiastes 9:13]] reads *Wisdom, too, have I seen under the sun*, אלי‎ היא‎ וגדולה (*u-gdolah hi elai*), *and it is great in my eyes*.
+
+[^167]: **tearing at them with their talons…** As Rabbi Bun and Rabbi Shim’on proceed on their journey, they see several instances of vicious animal behavior. The vision of other birds tearing at fledglings suggests the plight of the Jews in exile. “Tearing at them with their talons” renders טופרהא‎ אמרטון (*imretun tufreha*).
+
+[^168]: **What satisfaction is there for this serpent…** Unlike the lion, the snake did not eat his victim. What can account for this wanton violence?
+
+    See BT *Ta’anit* 8a, in the name of Resh Lakish: “What is the meaning of the verse *If the snake bites because no charm was uttered, there is no advantage to the charmer* ([[Ecclesiastes 10#^10-11|Ecclesiastes 10:11]])? In the future age, all animals will assemble and come to the serpent and say to him, ‘The lion claws [his victim] and devours it, the wolf tears it and devours it, but what benefit do you derive?’ His reply will be, ‘*There is no advantage to the charmer*.’”
+
+    See JT *Pe’ah* 1:1, 16a; *Zohar* 1:143a; Moses de León, *She’elot u-Tshuvot*, 61.
+
+[^169]: ***In a* שערה (*se’arah*), *tempest*—alluding to Satan…** The term שערה (*se’arah*) resembles the word שעיר (*se’ir*), “goat,” and also the name of Mount Se’ir, both of which are associated with Satan or Samael. Rabbi Shim’on draws attention to an apparent contradiction: in Job, the verb שוף (*shuf*), “crush,” is enacted by the demonic against humanity, whereas in Genesis it is the human being who will crush the head of the snake. He resolves the problem by noting that because Satan appears in the guise of a tempest, his nature is to cause wanton harm, as opposed to humans killing snakes as an act of self-defense.
+
+    On the סערה (*se’arah*), *tempest wind*, as a symbol of Satan, see *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-75b|ZḤ* 75b]]–76a (*MhN, Rut*), and above, notes 31–33.
+
+[^170]: ***Does the snake bite*…** The full verse reads: *If the snake bites because no* לחש (*laḥash*), *charm, was uttered, there is no advantage to the charmer*. *Laḥash* means “whisper, incantation, charm, spell.” Here Rabbi Bun understands it as “whisper,” referring to a divine whisper commanding the snake to kill someone who deserves to die. Once the serpent has been prompted, it is certain to kill someone, even if its originally intended victim cannot be found.
+
+    For a different interpretation, see *Matoq mi-Devash*. See *Vayiqra Rabbah* 26:2; *Pesiqta de-Rav Kahana* 4:2; *Qohelet Rabbah* on 10:11; *Tanḥuma, Ḥuqqat* 4; *Zohar* 2:68b, 268b (*Heikh*); *ZḤ* 54a.
+
+[^171]: **What is written regarding Elimelech…** A case in point regarding the dangers of inscription is that of Elimelech. Once identified, because of his status as a judge, he and his family were all subject to Satan’s wide prosecutor’s net, sanctioned from above. *Matoq mi-Devash* explains that he was liable for corruption of justice.
+
+    See *Yalqut Shim’oni, Mishlei* 939.
+
+[^172]: **A judge is obligated to probe…** A judge is liable for the misdeeds and laxity in his town, so he must provide leadership and rebuke where appropriate. He must not insulate himself in the narrow confines of rendering judgment.
+
+    On the obligation to investigate the deeds of one’s townsfolk, see above, note 84.
+
+[^173]: **blessed Holy One was aroused to execute judgment…** Virtually the same teaching can be found above on 77a, in the name of Rabbi Peraḥiah.
+
+[^174]: ***named Mahlon and Chilion*…** Many names in the book of Ruth convey thematic meaning. מחלון (*Maḥlon*) can be related to illness, from the verbal root *ḥlh*; alternatively, it resembles the root *mḥl*, which in postbiblical Hebrew means “forgive.” כליון (*Khilion*) derives from *klh* or *kly*, “end, destroy, annihilate,” as in [[Ezekiel 11#^11-13|Ezekiel 11:13]].
+
+    See BT *Bava Batra* 91b; *Rut Rabbah* 2:5; Eleazar of Worms; Sasson; Zakovitch; Eskenazi and Frymer-Kensky.
+
+[^175]: ***Mahlon*—so called…** Rabbis Pedat and Peraḥiah offer punning interpretations of the names Mahlon and Chilion, deducing the former’s redemption, and the latter’s oblivion. Ruth later underwent levirate marriage with Boaz, providing offspring in the name of Mahlon, whereas Orpah, Chilion’s wife, moved on.
+
+    See *Yalqut Shim’oni Rut* 600.
+
+[^176]: **As with them…** Just as the men’s names foretold their fate, so do the women’s names. In Orpah’s case, she turned her back on Ruth and the people of Israel.
+
+    “Stiff-necked” renders קדל‎ קשיא (*qashya qedal*), the Aramaic form of the Hebrew ערף‎ קשת (*qeshat oref*), upon which the pun is based. See *Rut Rabbah* 2:9.
+
+    On the name Orpah, see Sasson. On her turning her back on Naomi, see *Rut Rabbah* 2:9; Eleazar of Worms on 1:4.
+
+[^177]: **so was Ruth fit to join…** According to [[Torah 49 - Ki Teitzei#^23-4|Deuteronomy 23:4–5]], *No Ammonite or Moabite shall be admitted into the Assembly of YHVH; none of their descendants, even in the tenth generation, shall ever be admitted*. Mishnaic law, however, asserted that the injunction proscribed marriage to male Moabites and Ammonites only—and did not prohibit marriage to their females.
+
+    See M *Yevamot* 8:3; BT *Yevamot* 69a, 76b–77a; *Qiddushin* 7b, 75a; *Ketubbot* 7b; *Ḥullin* 62b; cf. M *Yadayim* 4:4.
+
+    In the rabbinic tradition, some teachings assert that the permission to marry female Moabites and Ammonites was not widely publicized, or that it was innovated in Boaz’s day. See *Rut Rabbah* 2:9, 4:1; 7:10; *Pesikta de-Rav Kahana* 16:1; Margaliot, *Olelot* 41–44.
+
+    On the analogy of *Rut* and *tor*, see *Zohar* 1:80b (*ST*, standard editions). On the name Ruth, see Sasson.
+
+[^178]: **a son who רוה (*rivvah*), satiated, the blessed Holy One…** This refers to King David who, according to tradition, composed the book of Psalms. See [[Ruth 4#^4-18|Ruth 4:18–22]]; BT *Berakhot* 7b, *Bava Batra* 14b; Eleazar of Worms on [[Ruth 1#^1-4|Ruth 1:4]].
+
+[^179]: **came into the congregation…** The names of these four predict whether they would produce offspring that continued the line of Israel. Although Mahlon had sinned—perhaps by leaving the land of Israel in a time of distress or through complicity in his father’s failings—he was ultimately forgiven.
+
+    On the perpetuation of the memory of Mahlon, see [[Ruth 4#^4-10|Ruth 4:10]].
+
+[^180]: **Corresponding to this…** After elaborating the spiritual status of these individuals above, the author explains their correspondences (as well as those of Naomi and Elimelech) to the different aspects of the human soul. See *Zohar* 1:80b (*ST*, standard editions) for a virtually identical discussion; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-75a|ZḤ* 75a]], [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-82c|82c]] (both from *MhN, Rut*); above, notes 3–4, 17–18.
+
+[^181]: ***spirit of man*…** Answering Solomon’s question in Ecclesiastes, the text explains that actually the *spirit of man* comes from the right side, is aligned with holiness, and therefore it would *ascend on high*. In contrast, *spirit of a beast* is derived from the left side, and therefore it does not enjoy eternal membership among the nation of Israel.
+
+[^182]: ***Moabite women*…** Moab descended from the incestuous union between Abraham’s nephew Lot and his older daughter, and Moab is generally regarded negatively in the Bible. Biblical marriages are usually endogamous, with Israelite marrying Israelite. There are some exceptions, however, with Moses being the most prominent, marrying a Midianite. Beyond the injunctions in Deuteronomy (7:3; 23:4) proscribing marriages to non-Israelites, and particularly to Ammonites and Moabites, Ezra and Nehemiah strongly protest the influx of “foreign” women. See, especially, Ezra 9–10 and [[Nehemiah 13#^13-23|Nehemiah 13:23–30]]. The book of Ruth offers a more welcoming solution to the problem of intermarriage, portraying her as an exemplar of commitment to Israel and God, and—through rabbinic eyes—as a model convert.
+
+    The Bible’s most basic statement regarding the Moabites is in [[Torah 49 - Ki Teitzei#^23-4|Deuteronomy 23:4–5]], [[Torah 49 - Ki Teitzei#^23-7|7]]: *No Ammonite or Moabite shall be admitted into the Assembly of YHVH; none of their descendants, even in the tenth generation, shall ever be admitted. Because they did not greet you with food and water on the way when you came out of Egypt, and because they hired against you Balaam son of Beor from Aram Naharaim to curse you… You shall not seek their well-being or their prosperity all your days, forever*.
+
+    The Targum translates and interprets the sons’ acts as follows: “They transgressed the decree of the Word of *YHVH* and took for themselves foreign wives from the daughters of Moab.” On the rabbinic interpretations of these prohibitions, see above, note 177.
+
+    The author refers to the marriages with the word ויקחו (*va-yiqḥu*), *and they took*, whereas MT reads וישאו (*va-yis’u*), *And they married, Moabite women*. The term *va-yis’u* derives from the root נשא (*ns’*), “carried; lifted up.” In biblical literature, it is used to designate a marriage partner only in postexilic works, while the root *lqḥ* is more common throughout the Bible for this purpose. See Eskenazi and Frymer-Kensky on 1:4, 4:13, and pp. xlvi-xlvii.
+
+[^183]: **daughters of Eglon, King of Moab…** According to Judges 3, *YHVH* punished the Israelites for their serial transgressions, subjecting them to various foreign rulers. Among them was Eglon, king of Moab, who defeated the Israelite army with the aid of the Ammonites and Amalekites, and then proceeded to rule over them for eighteen years. He was assassinated by Ehud.
+
+    Another motive for the rabbis’ ascribing Ruth’s royal filiation may be to account for a later Moabite king’s willingness to shelter David’s parents when the latter was a fugitive. See [[I Samuel 22#^22-3|1 Samuel 22:3–4]].
+
+    On Ruth and Orpah as daughters of Eglon, see *Rut Rabbah* 2:9. Other ancient sources indicate only that Ruth was the daughter of Eglon; see *Targum*; BT *Sotah* 47a, *Sanhedrin* 105b; *Zohar* 3:190a. Others say that Ruth was Eglon’s granddaughter; see BT *Nazir* 23b and *Tosafot*, s.v. *bat beno shel Eglon*; *Horayot* 10b.
+
+[^184]: **a Moabitess, but not a Moabite…** Rabbi Bun argues that it was the Moabite women’s seduction of the Israelite men that led to Israel’s downfall. If a group is to be excluded, he concludes, it should be the women—not the men!
+
+    In the biblical passages cited, the first refers to Moabite women, while the second refers to Midianite women. In Numbers 22 the two nations had jointly hired Balaam, and it appears that they were political allies. See [[Torah 40 - Balak#^22-4|Numbers 22:4]] and Rashi, Naḥmanides, Baḥya ben Asher, and Milgrom, ad loc.; *Zohar* 3:189b–190a.
+
+    Rabbi Bun’s formulation—“If I had been there”—highlights the tension surrounding the dating of the permissibility of marrying a Moabitess. While this statement would be ironic in rabbinic literature, it is doubly ironic here. See above, note 177. For expressions similar to “If I had been there,” see JT *Berakhot* 1:2, 3b; *Zohar* 1:72b.
+
+[^185]: **under coercion…** Since Moses and Eleazar admitted young Moabite girls into the Israelite camp, there must be a general presumption of their innocence. Rabbi Bun cites a teaching that purportedly demonstrates that it was the Moabite men who were wicked, not the women.
+
+    Regarding the females allowed to live, the literal translation of the verse is *all the little ones of the women*, referring either to girls who were not yet sexually active or were still prepubescent. See Rashi; Tigay; Alter.
+
+[^186]: **the men…** BT *Yevamot* 76b explains the exclusion of women from the prohibition against Ammonites and Moabites: “*Because they did not greet you with food and water*. It is customary for a man to greet [travelers], but it is not customary for a woman to greet them.” Rabbi Bun concludes from here, and from the fact that a foreign seer was hired to curse the Israelites, that the noxious Moabite behavior came from the men.
+
+[^187]: **Wadi of Shittim boosts promiscuity…** A rabbinic tradition in *Bemidbar Rabbah* 20:22 ascribes lewd behavior to the Wadi of Shittim: “*Israel stayed at Shittim and the people began to go whoring*… ([[Torah 40 - Balak#^25-1|Numbers 25:1]]). *Shittim*—they committed folly, for *He who commits adultery with a woman is senseless* ([[Proverbs 06#^6-32|Proverbs 6:32]]) Some fountains foster strong men and some weaklings, some handsome and some ugly, some chaste and some steeped in lewdness. The fountain of Shittim—promiscuity.” From this teaching it appears that the Moabite women were prone to adulterous behavior. Rabbi Oshaiah’s teaching about the purification of Wadi Shittim in the messianic era provides more proof that the Moabite women were innately lascivious and did not pursue the Israelite men under duress.
+
+    On Wadi Shittim and promiscuity, see *Zohar* 3:165b, 270b (*Mat*). Different kinds of waters promote holy or evil impulses; see *Zohar* 1:66a, 125a (*MhN*); 2:30b; 3:101a. On the rectification of Wadi Shittim, Rashi says that the river from the house of *YHVH* will atone for the sin of Peor. Cf. [[Zechariah 14#^14-8|Zechariah 14:8]].
+
+[^188]: **It is self-evident…** Rabbi Menasia asserts that it is inconceivable (in a premodern culture) that women would have publicly cavorted before foreigners if their own menfolk were present, had there not been some duress and incitement to do so.
+
+[^189]: **if this scroll came only to trace the lineage of David…** Rabbi Yose contends that the book of Ruth did not find its way into the canon for the political purpose of authorizing David’s kingship, but rather to illustrate a particular woman’s ethical virtues, and to present her as an ideal convert.
+
+    See *Rut Rabbah* 8:1. Some modern commentators have argued that the genealogy in [[Ruth 4#^4-18|Ruth 4:18–22]] is an appendix, legitimizing David’s foreign origins or of inclusion within the canon. See Sasson, 178–86; Zakovitch, 19.
+
+[^190]: **lineage of David…** The book actually comes to demonstrate the purity of the Davidic line, refined through repeated episodes of purification. “Smelted time and again [or: once and twice]” because Peretz was born of the union of Judah and Tamar, Obed from the coupling of Boaz and Ruth. In each case, a questionable union leads to ultimate redemption in the absorption into Judaean and Davidic royalty.
+
+    The translation follows the text in *Or Yaqar* and Venice, which is close to that of V24, O17, L39, MS3, MS4, and Thiengen. V6 reads: “For Peretz and Obed are clarified silver, smelted time and again,” further underscoring the stages of purification of their non-Israelite mothers. Cf. Joseph of Hamadan, *Ta’amei ha-Mitsvot*, in Idel, “Additional Fragments,” 47–48.
+
+[^191]: **such mothers…** The Davidic and messianic line calls for the influence of both holy and demonic sides of humanity. The ideal leader originates from a purified mixture of a non-Israelite woman—with adverse elements purged—and an Israelite man. This combination fulfills the commandment to love God with both good and evil impulses. Cf. *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-79a|ZḤ* 79a]] (*MhN, Rut*).
+
+    See M *Berakhot* 9:5: “*With all* לבבך (*levavekha*), *your heart*—with both your impulses: the good impulse and the evil impulse.” The word לבבך (*levavekha*) is written with the unusual double ב (*vet*), prompting the rabbis to understand it as *your hearts*. Ideally, one should serve God not only with the good impulse but even with the evil impulse—by subduing it, or by sublimating and channeling one’s passions into holy deeds, thereby dedicating the raw power of the evil impulse to good ends.
+
+    On the two impulses, see *Tosefta Berakhot* 6:7; *Sifrei*, Deuteronomy 32; *Sifrei*, Deuteronomy (Finkelstein), 55; *Targum Yerushalmi*, [[Torah 45 - Vaetchanan#^6-5|Deuteronomy 6:5]]; JT *Berakhot* 9:5, 14b; *Qohelet Rabbah* on 4:13–14; 9:7; BT *Berakhot* 5a, 54a, 61a; *Midrash Tehillim* 9:5; *Avot de-Rabbi Natan* A, 16; *Zohar* 1:12a, 49b, 144b, 155b, 165b, 174b, 178b; 2:26b, 28a, 162b–163a, 174a; 3:263b (*Piq*), 267a–268a; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-47a|ZḤ* 47a]] (*MhN, Rut*), 58a, 58d, 78a (*MhN, Rut*); Moses de León, *Sefer ha-Rimmon*, 42–43, 101; Schechter, *Aspects of Rabbinic Theology*, 255–63; Urbach, *The Sages*, 471–83; Boyarin, *Carnal Israel*, 64–67; Satlow, “And on the Earth you shall Sleep,” 209–21; Rosen-Zvi, *Demonic Desires*, esp. 26–29, 54–58, 61–64, 72–78,146 n. 52. Cf. JT Sotah 5:7, 20c.
+
+    The full verse in Deuteronomy reads: *You shall love YHVH your God with all your heart, with all your soul, and with all your might*.
+
+[^192]: **לנשמתא‎ נשמתא (*nishmeta le-nishmeta*), soul of soul…** As Elimelech and his family were mapped onto the different aspects of soul, Rabbi [Yehudah] now does the same with Adam and Eve, Cain and Abel. While Abel is deemed the natural and holy offspring of Adam and Eve, the *Zohar* treats Cain as the demon child born of the serpent’s injecting his filth into Eve. In contrast to the redeemed mixture of the previous homily, resulting in the Davidic line, Cain represents an illegitimate union of disparate elements, and is thus compared to the prohibition of yoking together the ox (a beast fit for eating) with a donkey (an animal not fit for eating).
+
+    [[Torah 30 - Kedoshim#^19-19|Leviticus 19:19]] reads: *Your beast: you shall not mate* כלאים (*kil’ayim*), *different kinds; your field you shall not sow with kil’ayim; and a garment of kil’ayim, sha’atnez shall not be donned by you*. The word *kil’ayim, different* [or: *two*] *kinds*, is rendered by *Targum Onqelos* as עירובין (*eruvin*), “mixtures,” and by *Targum Yerushalmi* as עירבובין (*irbuvin*), “motley mixture [or: confusions].” The etymology and meaning of *sha’atnez* are uncertain; see Milgrom, *Leviticus* 2:1664.
+
+    For the mapping of different aspects of the soul onto the figures from the story of Ruth, see *Zohar* 1:80b (*ST*); *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-75a|ZḤ* 75a]]–b, 80b (both in *MhN, Rut*); cf. *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-82c|ZḤ* 82c]] (*MhN, Rut*).
+
+    On the serpent’s copulation with Eve and its role in engendering Cain, see [[LXX 4 Maccabees 18#^18-7|4 Maccabees 18:7–8]]; *Targum Yerushalmi*, [[Torah 01 - Bereshit#^4-1|Genesis 4:1]] (per British Library MS 27031, ed. Clark); BT *Yevamot* 103b; David Luria, *Pirqei de-Rabbi Eli’ezer* 21, n. 8; 22; Naḥmanides, “Torat ha-Adam,” in *Kitvei Ramban*, 296; Scholem, “Qabbalot R. Ya’aqov ve-R. Yitsḥaq,” 237; Todros ben Joseph Abulafia, *Sha’ar ha-Razim*, 132; *Zohar* 1:36b–37a, 52a, 54a–55a, 63b, 122b, 126a–b, 145b; 2:94a, 167b, 178a (*SdTs*), 193b, 236b; 3:14b, 76b, 97b, 143a (*IR*); *ZḤ* 8c–9b, 63c (*ShS*), 83b (*MhN Rut*); Moses de León, *Sefer ha-Rimmon*, 139; idem, *Sheqel ha-Qodesh*, 81 (103); idem, *Sefer Mishkan ha-Edut*, 12, 27–28; Israel Knohl, “Cain: Son of God or Son of Satan?” Cf. [[1 John 03#^3-10|1 John 3:10–12]].
+
+    On the prohibition of plowing with an ox and donkey together because one is ritually pure and one ritually impure, see Maimonides, *Commentary on the Mishnah* 8:2; idem, *Hilkhot Kil’ayim* 9:8. In the *Zohar*, the prohibition arises because both ox and donkey are associated with the demonic side. See *Zohar* 1:166b, 172b; 2:64b–65a; 3:86b, 207a; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-47c|ZḤ* 47c]] (*MhN, Rut*).
+
+[^193]: **holy covenant in a different domain…** The principle of prohibited mixtures is extended to sexual relations with a non-Jew, construed here as tantamount to idolatry. The sign of the covenant—the virtual imprinting of God’s name upon the male sexual organ—symbolizes *Yesod*; consequently, intercourse of a male Jew with a non-Jewish woman signifies introducing God’s name into the realm of the demonic.
+
+    This anxiety should be seen within the broader context of concern about miscegenation in Medieval Spain. King Alfonso the Wise of Castile, contemporary of the *Zohar*’s authorship, said the following: “Since Christians who commit adultery with married women deserve death, how much more so do Jews who lie with Christian women, for these are spiritually espoused to Our Lord Jesus Christ by virtue of the faith and baptism they received in His name…” See Nirenberg, “Religious and Sexual Boundaries in the Medieval Crown of Aragon,” 144.
+
+    On the prohibition against Jewish men having sexual intercourse with non-Jewish women, see BT *Eruvin* 19a; *Zohar* 1:93a, 131b, 189b; 2:3b, 7a, 57b, 60b–61a, 87b, 90a, 264a (*Heikh*); 3:13b–14a, 57b, 104b, 111a (*RM*), 142a (*IR*), 266a; *[[Zohar 10.04 - Parashat Noah#^zh-21a|ZḤ* 21a]] (*MhN*); Moses de León, *Sefer ha-Rimmon*, 212–13; idem, *Sheqel ha-Qodesh*, 51–54 (63–67); David son of Judah he-Hasid, *Sefer Mar’ot Tsov’ot*, 222; Tishby, *Wisdom*, 1365, 1370–71; Giller, *The Enlightened Will Shine*, 152, n. 102; Wolfson, *Venturing Beyond*, 56, 75, 81–82, 137–38, 139–40 n. 41, 168. Cf. *Pesiqta Rabbati* 21. On the verse in Hosea, see *Zohar* 1:93a, 204a; 2:90a. See Nirenberg, “Religious and Sexual Boundaries in the Medieval Crown of Aragon”; idem, “Love Between Muslim and Jew in Medieval Spain: A Triangular Affair”; idem, *Communities of Violence*, 127–65.
+
+[^194]: ***Adam*—patterned after heavenly paradigm…** Since the Jewish male is patterned after Divinity, his behavior can have grave consequences. Interaction with “donkey and ass”—ritually impure animals that signify Samael and Lilith—is particularly dangerous. The female “ass” plays a role in Balaam’s visions, since it is through his sexual intercourse with her that he attains prophecy. Thus, the author associates the Jew’s defilement through intercourse with a non-Jewish woman with three negative tropes: idolatry; union with the feminine aspect of the demonic; and Balaam’s prophetic bestiality. For God, there is no greater offense—eliciting His anger—than degrading the covenantal mark that signifies *Yesod*.
+
+    On Balaam’s coupling with his ass, see BT *Sanhedrin* 105a–b and Rashi, s.v. *be’or she-ba al be’ir*; *Zohar* 1:125b; 2:21b (*MhN*); 3:107b, 194a, 206b–207a, 209b; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-47c|ZḤ* 47c]] (*MhN, Rut*); Moses de León, *Sefer Sheqel Ha-Qodesh*, 14–15 (18); idem, “*She’eilot u-Teshuvot be-Inyanei Kabbalah*,” 75.
+
+    On God’s zeal for the covenant, see [[Malachi 2#^2-11|Malachi 2:11]]; *Bereshit Rabbah* 26:5; *Vayiqra Rabbah* 23:9; *Tanḥuma, Bereshit* 12; *Tanḥuma* (Buber), *Bereshit* 33; *Zohar* 1:240b; 2:3b; Moses de León, *Sefer ha-Rimmon*, 213. Cf. Maimonides, *Guide* 1:36: “Know that if you consider the whole of the Torah and all the books of the prophets, you will find that the expressions *wrath, anger*, and *jealousy* are exclusively used with reference to idolatry.”
+
+[^195]: **man with י (*yod*), ה (*he*), ו (*vav*), ה (*he*) within…** The ineffable name is inscribed within the first man, constituting soul of soul, which is his essence. Within Divinity, the *yod* signifies *Ḥokhmah*, the second of the *sefirot*; it also comprises the top nine *sefirot*, from *Keter* through *Yesod*. These nine are imprinted within the human soul. Consequently, when the Torah describes the human being created in God’s image, it refers to his soul—not the body, which is merely a garment. Here, the name *Adam* refers exclusively to the paradigm of the Jewish male.
+
+    On human beings as modeled after Divinity’s array of the four letters of the tetragrammaton, see *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-75a|ZḤ* 75a]] (*MhN, Rut*). On the nine radiances, *Sullam*; *Matoq mi-Devash*; cf. Englander. On the name *Adam* as signifying the Jewish male, see Wolfson, *Venturing Beyond*, 42–90. On the body as a garment, see *Zohar* 1:20b; 2:75b–76a; Moses de León, *Sefer ha-Mishqal*, 44, 159; idem, *Sheqel ha-Qodesh*, 28–30 (33–36); Tishby, *Wisdom of the Zohar*, 2:680. On the divine significance of *Adam*, see also [[Ezekiel 01#^1-26|Ezekiel 1:26]]; Liebes, *Peraqim*, 52.
+
+[^196]: **Coupling with י (*yod*) …** ה (*He*) signifies both *Binah* above and its correlate within *Adam*. Together with י (*yod*), its influx gushes to the other *sefirot*, all constituting a single unity. With *Ḥokhmah* it produces an indivisible bond, evoking the comparison to the original *Adam*—above and below—a unity consisting of both genders.
+
+    The word אדם (*adam*), “human,” may be related to the word אדמה (*adamah*), “ground, earth,” just as in English the word “human” is likely related to “humus.”
+
+[^197]: **ו (*Vav*)—called spirit…** Within man, ו (*vav*) represents *ruaḥ*, an intermediate aspect of the soul, and in Divinity it represents *Tif’eret* and the five *sefirot—Ḥesed* through *Yesod*—surrounding it. *Zohar* 3:290b indicates that the word בינה (*Binah*) can be divided into two parts, each consisting of two letters: בן (*ben*), “son of,” plus יה (*yod he*), signifying *Ḥokhmah* and *Binah*. The second ה (*he*) of the tetragrammaton, signifies the *nefesh* within the human being, and *Shekhinah* within the Godhead. The numerical value of the letters of the tetragrammaton when spelled out—יוד (*yod, vav, dalet*), 20; הא (*he, alef*), 6; ואו (*vav alef vav*), 13; הא (*he alef*), 6—is forty-five, equal to that of the name אדם (*alef*, 1; *dalet*, 4; *mem*, 40). Lastly, the sum of the numbers from 1 to 9 also equals forty-five. All these numerical equations demonstrate the symbolic identity of Divinity (as manifest in the *sefirot*, tetragrammaton, and Divine Family) and *Adam* (whose letters comprise the numerical value of God’s Name).
+
+    On ו (*vav*) as Son, see *Zohar* 1:28a (*TZ*); 3:10b, 118b, 121b (*RM*), 232a (*RM*); *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-82c|ZḤ* 82c]] (*MhN, Rut*); cf. 1:158a, 219a; 2:84a, 85b. On ה (*he*) as Daughter, see *Zohar* 1:28a (*TZ*); 3:10b, 11a–b; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-82c|ZḤ* 82c]] (*MhN, Rut*). On the identity of *YHVH* and *Adam*, see Liebes, *Peraqim*, 34–35. On the linguistic symbolism of the human body, see Wolfson, “Dimmui Antropomorphi.” On the Divine Family, see Idel, *Ben*, 382–85.
+
+[^198]: **between *Adam* and *Adam*…** One verse indicates that the composite human soul—a manifestation of *YHVH*—constitutes *Adam*, while another states that it is the body that is designated *Adam*. The explanation is that the term’s meaning is contingent upon whether *Adam* is said to be created *in the image of God* or not.
+
+    The verse from Genesis concludes: האדם (*ha-adam*), *the human, became a living being*.
+
+[^199]: ***made coats of skin*…** In creating the first humans, God creates soul, body, and finally garments. According to the verse in Genesis, God fashioned garments for Adam and Eve after they sinned. The simple sense of עור‎ כתנות (*kotnot or*), *coats of skin*, is “coats of animal skin; hides,” but a variant reading recorded in midrashic literature is אור‎ כתנות (*kotnot or*), *coats of light*, suggesting Adam and Eve’s original aura or garments of splendor. See *Bereshit Rabbah* 20:12: “In the Torah [scroll] of Rabbi Me’ir, it was found written: ‘אור‎ כתנות (*kotnot or*), *garments of light*.’ These are the clothes of Adam.” Elsewhere the *Zohar* teaches that as a result of eating the fruit of the Tree of Knowledge, Adam and Eve lost their lustrous *coats of light* and from then on were clothed in human *coats of skin*.
+
+    On *kotnot or, coats of skin* (or *of light*), see *Bereshit Rabbah* 12:6; 20:12 (and Theodor’s note); *Zohar* 1:36b, 224a; 2:76a, 179a (*SdTs*), 208b, 229b; 3:83b, 261b; Moses de León, *Sefer ha-Rimmon*, 404; Scholem, *Major Trends*, 404, n. 87. For Gnostic parallels, see Origen, *Contra Celsum* 4:40; *Hypostasis of the Archons* 90:17; Irenaeus, *Adversus haereses* 1:5:5.
+
+[^200]: **אף (*af*), *anger*, caused this…** The succession of three verbs in the verse in Isaiah refers to three stages in the creation of the first humans: levels of soul; garments of light; and, garments of skin. Though [[Torah 01 - Bereshit#^3-21|Genesis 3:21]] indicates that God created these garments, the verse from Isaiah, read hyperliterally, demonstrates that this event was induced by אף (*af*), *anger*, signifying the demonic serpent or the Other Side.
+
+    The word אף (*af*), *indeed* (or *also, yea*), can also denote “anger” in the Biblical idiom. See, e.g., [[Torah 07 - Vayetzei#^30-2|Genesis 30:2]], [[Torah 09 - Vayeshev#^39-19|39:19]]; [[Torah 13 - Shemot#^4-14|Exodus 4:14]], [[Torah 18 - Mishpatim#^22-23|22:23]], [[Torah 21 - Ki Tisa#^32-10|32:10–12]]; [[Torah 40 - Balak#^25-4|Numbers 25:4]]; [[Torah 46 - Eikev#^9-19|Deuteronomy 9:19]]; [[II Kings 24#^24-20|2 Kings 24:20]]. The verse in Isaiah concludes: *whom I created for My glory*.
+
+[^201]: **name of impurity…** Rabbi Shim’on continues with his description of holy and demonic entities. Having discussed Cain and Abel, *YHVH* and Samael, holy souls and the evil impulse, and garments of light and skin, he now refers to different uses of the name *Elohim*—sometimes holy, and sometimes impure, as in [[Torah 17 - Yitro#^20-3|Exodus 20:3]].
+
+[^202]: **Whoever mars one of his limbs…** The symbolic correspondence of the human body and the anthropomorphic form of Divinity is perfected through the performance of the commandments. Thus, performance of the commandments has a direct impact on the unity, strength, and purity of the Divine body above. Damage above results in damage, that is, punishment below. Of paramount concern is the improper mixing of species—vegetable, animal, and human—with those mixtures that include the last species being the most accursed.
+
+    On causing a defect above, Moses de León writes in *Sefer ha-Rimmon*: “Know that the Creator, may He be blessed, created the human and established him in the upper form, the correct pattern, distinguishing him from all other creatures. Inasmuch as the human is above all other creatures, in a lofty paradigm, he must be careful not to damage or cause any disfigurement to that supernal form so that the countenances will be complete without any damage, not displaying any blemish in that pattern.”
+
+    See BT *Sanhedrin* 74a (in the name of Rabbi Shim’on son of Yoḥai); *Zohar* 2:26b, 85b, 162b, 165b; 3:8a, 16b, 66a, 78a, 79a, 297a–b; Moses de León, *Sefer ha-Rimmon* 298–99; Joseph Gikatilla, *Sha’arei Orah*, 2a–3a; Joseph of Hamadan, *Sefer Ta’amey ha-Miẓwoth*, 294, 427–29; idem, *Sefer Tashak*, 18; Meier, “Introduction” to *A Critical Edition of the Sefer Ta’amey ha-Miẓwoth*, 23–26; idem, *Sefer Toledot Adam*, 86b–87a; Idel, *New Perspectives*, 184–87; Wolfson, “Mystical Rationalization,” 230–35. On the concept of weakening and strengthening God, see BT *Shabbat* 89a; *Sifrei*, Deuteronomy 319; *Vayiqra Rabbah* 23:12; *Eikhah Rabbah* 1:33; *Pesiqta de-Rav Kahana* 25:1; *Zohar* 1:57b, 234b; 2:32b, 64a, 65b; 3:22a, 75b. On *sha’atnez*, see above, note 192.
+
+    See BT *Pesaḥim* 49b, in the name of the rabbis: “Let a man always sell all he has and marry the daughter of a scholar. If he does not find the daughter of a scholar, let him marry the daughter of one of the great men of the generation. If he does not find the daughter of one of the great men of the generation, let him marry the daughter of the head of a synagogue…. But let him not marry the daughter of an *am ha-arets*, ignoramus, because they are detestable, their wives are vermin, and of their daughters is said *Cursed be he who lies with any beast*.” Here, Rabbi Shim’on has transformed the teaching in accord with the persistent warning against Jewish men having sexual relations with Gentile women. On the use of animal metaphors in Jewish-Christian polemics, see Cuffel, *Gendering Disgust*, 198–239.
+
+    The verse in MT reads: *My wrath shall flare up and I will kill you by the sword, and your wives shall be widows and your children orphans*.
+
+[^203]: **Samael, soul of soul…** The evil impulse is comprised of the demonic counterparts to the holy soul—נשמה (*Neshamah*), “highest soul,” רוח (*ruaḥ*), “spirit,” and נפש (*nefesh*), “soul.” Within a Jewish person, they do not detract from the status of *adam*, in contrast to non-Jews—who do not share that status. The homily interprets *I have set before you* as if it said *I have placed within you*, affording a choice that is profoundly immanent.
+
+    The ethnocentric interpretation of the term *adam* is first expressed by Rabbi Shim’on son of Yoḥai in BT *Yevamot* 60b–61a: “The graves of Gentiles do not impart impurity by a tent [i.e., one who stands on or bends over such a grave, thereby constituting a tent with his body, is not rendered impure], as is said: *You, My flock, flock of My pasture, are adam* [*and I am Your God*] ([[Ezekiel 34#^34-31|Ezekiel 34:31]]). You are called *adam*; Gentiles are not called *adam*.”
+
+    See BT *Bava Metsi’a* 114b, *Karetot* 6b; *Tosafot* on *Yevamot* 61a, s.v. *ve-ein ha-ovdei kokh-avim*; on *Bava Qamma* 38a, s.v. *ela adam*; on *Sanhedrin* 59a, s.v. *ela ha-adam*; *Zohar* 1:20b; 2:25b (*Piq*), 86a; 3:173a, 219a; *[[Zohar 12.07 - Raza de-Razin#^zh-37b|ZḤ* 37b]] (*RR*); Wolfson, *Venturing Beyond*, 42–57. Cf. M *Avot* 3:14; *Bava Qamma* 38a; *Avodah Zarah* 3a; *Sanhedrin* 59a.
+
+[^204]: **Jewish demons…** In kabbalistic demonology, some demons are subject to—and descended from—Samael, Lilith, and Na’amah; meanwhile, Jewish demons are descended from and ruled by Ashmedai, king of demons. These latter demons are constrained by the Torah. Sometimes they even appear as great sages, distinguished by special knowledge of philosophy and astrology. Indeed, Isaac ben Moses of Vienna says: “My teacher, Rabbi Judah the Pious, may his memory be a blessing, used to say that demons believe in the Torah and perform everything decreed by the sages.” When a person comes into the world, the blessed Holy One gives him His own name (*YHVH*), another name from a Jewish demon (“Mundane”), and a third name from Samael and the Serpent (“Darkness”).
+
+    On Jewish demons, see BT *Pesaḥim* 110a; *Yevamot* 122a and Rashi, s.v. *limmedeni Yonatan shida*; *Sefer Ḥasidim* (ed. Wistinetzki) pars. 733, 1763; Isaac ben Moses, *Sefer Or Zaru’a, Hilkhot Eruvin* 147; Zlotnick, “Ma’aseh Yerushalmi,” 27–29; *Zohar* 3:253a, 277a (both *RM*); *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-47a|ZḤ* 47a]] (*MhN, Rut*), 48d; Scholem, *Kabbalah*, 320–26; Kanarfogel, *Peering through the Lattices*, 224–25 nn. 9–11; cf. BT *Gittin* 66a. On Ashmedai, see [[LXX Tobit 03#^3-8|Tobit 3:8]], [[LXX Tobit 03#^3-17|17]]; [[LXX Tobit 06#^6-13|6:13–14]]; [[LXX Tobit 08#^8-3|8:3]]; Testament of Solomon 5; BT *Gittin* 68a–b; Scholem, “Peraqim Ḥadashim”; Shaked, “The Zoroastrian Demon of Wrath.” On demons inclined to piety in medieval Christianity, see Barbara Newman, “Possessed by the Spirit,” 749–59.
+
+    Rabbi Shim’on continues his dualistic description of metaphysical entities by describing the Christian and Moslem deities as “dregs of Jewish demons.” These *other gods* are then identified with Evil Impulse. The latter counsels violation of the prohibition against sexual contact with an animal—which is fulfilled via sexual intimacy with a Gentile woman.
+
+[^205]: **demons that are Jewish, Moslem, and Christian…** Christian and Moslem demons are the most eminent among demons because they derive from the same family as the Jewish people—Ishmael as half-brother to Isaac, Esau as twin brother to Jacob. Any resemblance or connection to them pertains only to a common physical root, excluding any spiritual relationship.
+
+    Several of the manuscripts and printed editions omit or transmute the word “Christian,” presumably because of censors.
+
+[^206]: **god of Esau’s people bows down to them…** In the Biblical story of Balaam, it is *Elohim*—God of Israel—who visits him, but the homily reads the term generically to refer to the deity of the nation of Esau. “To honor the body” appears to be an anti-Christian critique, ridiculing the notion of Jesus as God incarnate.
+
+    On the respective positioning of the righteous and wicked below and above their deities, see *Bereshit Rabbah* 89:4.
+
+    MT reads: *Elohim came to Balaam at night*, while [[Torah 04 - Vayera#^20-3|Genesis 20:3]] reads: *came to Abimelech in a night-dream*. The author has apparently conflated the two. Cf. *Zohar* 2:96a, where the two verses appear together.
+
+[^207]: **a portion in the world that is coming…** While a repentant Gentile may attain everlasting life in the world that is coming, presumably because he has gained the lower aspects of soul, this portion is distinct from that of Jews.
+
+    On the eligibility of Gentiles to enter the world that is coming, see *Tosefta Sanhedrin* 13:1–2; BT *Sanhedrin* 105a; *Mishnat Rabbi Eli’ezer*, 121; Maimonides, *Hilkhot Teshuvah* 3:5; *Melakhim* 8:11.
+
+    In this Talmudic passage, Rabbi Shim’on assumes a connection between *human* and “impurity by a tent,” based on the wording of [[Torah 39 - Chukat#^19-14|Numbers 19:14]]: *When a human dies in a tent, anyone entering the tent and anyone in the tent will be impure seven days*. See *Tosafot* to *Avodah Zarah* 5a, s.v. *ein ben David ba*; *Zohar* 1:20b, 28b, 131a; 2:25b (*Piq*), 86a; 3:219a; *[[Zohar 10.03 - Parashat Be-Reshit#^zh-8d|ZḤ* 8d]] (*MhN*), 37b (*RR*); Moses de León, *Mishkan ha-Edut*, 110–11.
+
+[^208]: **lees in his body…** The corruption of the Gentile body is so extensive that it requires considerable repair from holy soul and spirit, ultimately redeeming it. In the end, the old contaminants dissipate.
+
+[^209]: **a Gentile’s body is impure…** Generally, a corpse—a body without a soul—imparts impurity. See [[Torah 39 - Chukat#^19-14|Numbers 19:14]]: *When a person dies in a tent, anyone entering the tent and anyone in the tent will be impure for seven days*. According to rabbinic teaching, once the soul of a Gentile has departed, his body is no longer impure.
+
+    See BT *Bava Metsi’a* 114b; *Zohar* 1:20b, 47a, 131a, 220a (standard editions); 2:21b (*MhN*), 25b (*Piq*), 86a; 3:25b, 104b, 219a; *[[Zohar 10.03 - Parashat Be-Reshit#^zh-10c|ZḤ* 10c]] (*MhN*); Moses de León, *Sefer ha-Rimmon*, 211–12; idem, *Mishkan ha-Edut*, 66–67, 110–11; Joseph of Hamadan, *Sefer Tashaq*, 6–7. On the complicated question of Gentile ritual impurity, see Hayes, *Gentile Impurities and Jewish Identities*.
+
+[^210]: **two trees—one holy, one impure…** The holy tree signifies *Yesod*, the male sexual organ of Divinity, its fruitfulness contrasting with the sterility and impotence of the demonic realm, represented by the impure tree.
+
+    On the impotence of the demonic realm, see *Zohar* 2:103a and the other sources cited below, note 213.
+
+[^211]: **Israel and the descendants of Esau…** Even though Israel and the descendants of Esau are both physical offspring of Jacob, their spiritual constitutions are polar opposites. Israel’s holiness and fruitfulness stems from its possession of Torah, which sustains life and quenches the thirst for wisdom. The use of the formula “descendants of Esau” is apparently part of an anti-Christian polemic. See below, note 213.
+
+    BT *Ta’anit* 7a records a series of teachings comparing Torah to water and attesting to Torah’s life-giving properties: “Rav Yehudah said, ‘The day when rain falls is as great as the day when the Torah was given, as is said: *Let my teaching drop like rain* ([[Torah 53 - Ha'Azinu#^32-2|Deuteronomy 32:2]]), and there is no *teaching* other than Torah, as is said: *For good teaching I have given you, do not forsake my Torah* ([[Proverbs 04#^4-2|Proverbs 4:2]]).’… Rabbi Ḥanina son of Ida said, ‘Why are words of Torah compared to water, as is written: *Ho, everyone who is thirsty, go to water* ([[Isaiah 55#^55-1|Isaiah 55:1]])? To teach you: just as water descends from a lofty place, flowing to a lower one, so too words of Torah endure only with one who is humble.’”
+
+    See *Mekhilta, Vayassa* 1; *Mekhilta de-Rashbi*, [[Torah 16 - Beshalach#^15-22|Exodus 15:22]]; BT *Sukkah* 52b; *Qiddushin* 30b; *Bava Qamma* 82a; *Bereshit Rabbah* 54:1; *Tanḥuma, Beshallaḥ* 19; *Zohar* 1:12b; 2:60a.
+
+[^212]: **He will inherit…** A Jew who is engaged with Torah in this life purifies his body of its earthly dross, and his soul delights in *Shekhinah*. Before the physical body is stripped away at death, a spiritual body is prepared. This latter body is apparently the ethereal body.
+
+    On a holy body, see *Zohar* 2:61b–62a; Baḥya ben Asher, *Shulḥan shel Arba*, 505; cf. Moses de León, *She’eilot u-Teshuvot*, 72–73.
+
+    The *Zohar* draws on and employs diverse conceptions of the astral or ethereal body and its function. See Naḥmanides on [[Torah 12 - Vayechi#^49-33|Genesis 49:33]]; *Zohar* 1:7a, 38b (*Heikh*), 81a (*ST*, standard edition), 90b–91a, 115b (*MhN*), 131a, 191a, 217b, 219a, 220a (standard editions), 224a–b, 227a–b, 233b; 2:11a, 13a–b, 96b, 141b, 150a, 156b–157a, 161b; 3:13b, 43a–b, 61b, 70b, 104a–b; *[[Zohar 10.03 - Parashat Be-Reshit#^zh-10b|ZḤ* 10b]]–c (*MhN*), 68d–69a (*ShS*), 90b (*MhN, Rut*); Moses de León, *Sefer ha-Rimmon*, 390; idem, *Seder Gan Eden*, 133; Scholem, *Shedim Ruḥot u-Nshamot*, 215–38; idem, *Kabbalah*, 158–59; idem, *On the Mystical Shape of the Godhead*, 251–73; Tishby, *Wisdom of the Zohar*, 2:770–73. Cf. Rashi on BT *Ḥagigah* 12b, s.v. *ve-ruḥot u-nshamot*; Vol. 6, p. 197, n. 266.
+
+    The homily conflates the two verses from Genesis. MT reads: *God said, “Let the earth sprout grass, plants generating seed, fruit trees* [literally: *a fruit tree*] *yielding fruit of each kind, that has its seed within it upon the earth.” And so it was. The earth brought forth grass, plants generating seed of each kind, and trees* [literally: *a tree*] *yielding fruit that has its seed within it of each kind, and God saw that it was good*.
+
+[^213]: **fruit from the Tree of Impurity…** Signifying the teachings of Christianity. “Their Torah” may signify their teachings, their mode of exegesis, Jesus himself, or perhaps the cross. The “inedible fruit” here and the impotence described above probably allude to Christian celibacy and the monastic ideal, which the *Zohar* rejects.
+
+    See *Zohar* 2:103a, 109a, 176b (*SdTs*); 3:135a–b (*IR*), 142a (*IR*), 292a (*IZ*); Tishby, *Wisdom*, 1362; Mopsik; Liebes, *Studies in the Zohar*, 149, 156, and 234, n. 47; Wolfson, *Language, Eros, Being*, 311–12, 385. Cf. *Zohar* 1:55b; 3:5b, 7a; Scholem; *Nitsotsei Zohar*; Mopsik. On the tree as a symbolic target of anti-Christian polemics, see Abulafia, *Mafteaḥ ha-Shemot*, 130–31; Idel, *Studies in Ecstatic Kabbalah*, 52; cf. Gikatilla, *Sha’arei Orah*, 109–110.
+
+    The context in Psalms (1:3–4) reads: [*The righteous one*] *shall be like a tree planted by streams of water, that bears its fruit in its season, and its leaf does not wither—and in all that he does he prospers. Not so the wicked, but like chaff that the wind drives away*.
+
+[^214]: **seed of David…** Rabbi Hoshaya builds upon the preceding discussions of hybridity, concluding that King David—signifying *Malkhut* and associated with the Tree of Knowledge of Good and Evil—draws from the goodness emerging from his Jewish side, and the necessary evil derived from his mother’s side. Though Ruth bestows a legacy from the side of evil, she does not manifest their impudence (alternatively: she was not among their most impudent). This continues the discussion of David’s mixed heritage from above, pp. 92–93 and nn. 190–91.
+
+    On the Tree of Knowledge of Good and Evil, see *Zohar* 1:33a, 35a, 221b (standard edition); 3:42b, 107b, 217b, 239b; Moses de León, *Sheqel ha-Qodesh*, 22 (27), 80 (101); Gikatilla, *Sha’arei Orah* 13a–b, 17a, 20a, 60b–61a.
+
+[^215]: **Merciful from the paternal side…** On the mercifulness of Israel and the cruelty of the nations, a teaching in BT *Yevamot* 79a relates: “*The king* [*David*] *called to the Gibeonites, and said to them… ‘What shall I do for you, and how shall I atone, that you may bless YHVH’s heritage?’ And the Gibeonites said to him, ‘We have no claim of silver or gold against Saul and his house, and we have no man in Israel* [*to put to death*]…. *Let seven men of his sons be given to us that we may impale them before YHVH*… ([[II Samuel 21#^21-2|2 Samuel 21:2–4]], [[II Samuel 21#^21-6|6]]). He tried to pacify them but they would not be pacified. Thereupon he said to them, ‘This nation [Israel] has three distinguishing characteristics: They are merciful, bashful and benevolent. Merciful, as is written: *And give you mercy, and be merciful to you, and make you multiply* ([[Torah 47 - Re'eh#^13-18|Deuteronomy 13:18]]).” Rashi explains that it was from this behavior of the Gibeonites that David decreed that they be excluded from the Jewish nation. The talmudic story notably omits the verses in which David responds to the Gibeonites’ request by handing over seven of Saul’s sons. Cf. [[Jeremiah 06#^6-22|Jeremiah 6:22–23]].
+
+    The expression “vengeful and raging as a snake” comes from BT *Shabbat* 63a and *Yoma* 23a. On the need for David and his line to have instinctive cruelty, see *Zohar* 1:110b (*ST*). On the two opposing qualities of David, cf. *Zohar* 2:73a (*RR*).
+
+    On Israel’s inherent compassion, see JT *Qiddushin* 4:1, 65b; *Sanhedrin* 6:4, 23d; BT *Beitsah* 32b, *Yevamot* 79a; *Midrash Shemu’el* 28:7; *Devarim Rabbah* 3:4; *Midrash Tehillim* 1:10; *Bemidbar Rabbah* 8:4. Cf. *Zohar* 2:12b.
+
+[^216]: **called by another name…** Naḥmanides writes of Moses’ father-in-law that “Hobab was the new name that they gave to Jethro when he returned to the Torah of Israel—for such is the way of all who convert, for *His servants he will call by a different name* ([[Isaiah 65#^65-15|Isaiah 65:15]]).” See Naḥmanides on [[Torah 36 - Beha'alotcha#^10-29|Numbers 10:29]].
+
+    See BT *Rosh ha-Shanah* 16b, in the name of Rabbi Yitsḥak: “Four things tear up the writ of a person’s verdict: charity, crying out, change of name, and change of conduct.’” See Maimonides’ wording in *Mishneh Torah, Hilkhot Teshuvah* 2:4: “Among the ways of *teshuvah* are… changing one’s name, by which one says: I am another [person], no longer that person who did those deeds.”
+
+    See *Bereshit Rabbah* 44:12; *Pesiqta de-Rav Kahana* 28:3; *Qohelet Rabbah* on 5:6; *Tanḥuma, Noaḥ* 8; *Tanḥuma* (Buber), *Noaḥ* 13; *Sefer Ḥasidim* (ed. Margaliot), par. 20; *Zohar* 1:133b; 3:9a, 76a. Cf. *Targum* on [[II Chronicles 13#^13-2|2 Chronicles 13:2]], [[II Chronicles 15#^15-16|15:16]].
+
+[^217]: **when she married Mahlon…** Her new name bestowed an elevated status upon her.
+
+    See BT *Berakhot* 7b. Below at *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-81a|ZḤ* 81a]], the author says that Naomi’s sons died because they had married Gentile women. On the question of whether Ruth had already converted when she married Mahlon, see *Rut Rabba* 2:9; Ibn Ezra on [[Ruth 1#^1-2|Ruth 1:2]]; *Tosafot* on *Ketubbot* 7b, s.v. *ve-ha Bo’az almon*; *Zohar* 3:190a; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-81a|ZḤ* 81a]], c, 82a (all in *MhN, Rut*).
+
+    On Ruth’s ascent, cf. *Matoq mi-Devash*.
+
+[^218]: **many cautions…** Rabbi Pedat wonders why Naomi went to such lengths dissuading Ruth from continuing with her if she had already converted, as suggested by Rabbi Yose’s son. The former assumes that this was part of the normative practice of deterring would-be converts.
+
+    See BT *Yevamot* 47a–b: “Our Rabbis taught: If a person comes to convert nowadays, he is to be addressed as follows: ‘What has motivated you to desire to convert? Are you unaware that Israel at the present time are persecuted and oppressed, despised, harassed, and overcome by afflictions?’ If he replies, ‘I know, and I am unworthy,’ he is accepted immediately—and is given instruction in some of the minor and some of the major commandments…. He is not to be overburdened [with detail] nor scrutinized excessively. Rabbi El’azar said, ‘What is the scriptural proof? It is written: *When she* [*Naomi*] *saw how determined she was to go with her, she ceased arguing with her* ([[Ruth 1#^1-18|Ruth 1:18]]). “We are forbidden regarding Sabbath boundaries,” [Naomi] told [Ruth]. “*Wherever you go, I will go; and where you lodge, I will lodge* (ibid., 16).” “We have been commanded six hundred and thirteen commandments.” “*Your people shall be my people* (ibid.).” “We are forbidden idolatry.” “*And your God my God* (ibid.).” “Four modes of execution were entrusted to the courts.” “*Where you die, I will die* (ibid., 17).”’” See *Rut Rabbah* 2:22–24.
+
+[^219]: **her compliance… was considered contingent…** Certain situations, such as the potential for intimidation by one’s master or husband, raise the concern that an apparently free-willed conversion lacks full commitment. That shadow fell upon Ruth’s and Orpah’s conversions until their true intentions were revealed after the deaths of their husbands.
+
+    BT *Yevamot* 24b records: “Both a man who converts for the sake of a woman and a woman who converts for the sake of a man; and, similarly, one who converts with the motive of eating at the king’s table, or of joining Solomon’s servants, are not converts. These are the words of Rabbi Nehemiah, for Rabbi Nehemiah maintained, ‘Neither converts because of [fear of] lions, nor converts because of dreams, nor the converts of Mordecai and Esther are considered converts unless they convert at the present time.’ … Concerning this, it was stated that Rabbi Yitsḥak son of Shemu’el son of Marta said in the name of Rav: ‘The law is in accordance with the one who says, “They are all valid converts.””’
+
+    On invalid conversion, see JT *Qiddushin* 4:1, 65b; *Avodah Zarah* 2:2, 41a; BT *Gittin* 45b, *Avodah Zarah* 47b, 57a; *Gerim* 1:3; *Tosafot* on *Yevamot* 79a, s.v. *u-ntinim David gazar aleihen*; *Tosafot* on *Avodah Zarah* 57b, s.v. *ad she-tishtaqa*; Maimonides, *Hilkhot Issurei Bi’ah* 13:10–14; *Nitsotsei Zohar*; Sagi and Zohar, *Transforming Identity*, 9–36. On conversion in the *Zohar*, see Wijnhoven, “The Zohar and the Proselyte”; Wolfson, *Venturing Beyond*, 165–74.
+
+    *Her gods* renders אלהיה (*eloheiha*), although the simple sense is the singular *her god*, since Moabites of the period worshiped only Chemosh, a deity who evolved and developed along the same lines as the Israelite *YHVH*. See Sasson; Eskenazi and Frymer-Kensky.
+
+[^220]: **Her name was Gilit…** This name could connote joy, revelation, or exile. Cf. Scholem.
+
+    The contrast between the paths chosen by Orpah and by Ruth is intensified in BT *Sotah* 42b, which identifies Orpah as the mother of Goliath: “It is written: *Haraphah* ([[II Samuel 21#^21-18|2 Samuel 21:18]]) and also Orpah ([[Ruth 1#^1-4|Ruth 1:4]])! Rav and Shemu’el: One said that her name was *Haraphah*. And why was she called Orpah? Because all עורפין (*orphin*), had intercourse from the rear, with her. The other said: Her name was Orpah; and why was she called *Haraphah*? Because all ground her like הריפות (*harifoth*), grits…. *These four were born to Haraphah in Gath; and they fell at the hand of David, and at the hand of his servants* ([[II Samuel 21#^21-22|2 Samuel 21:22]]). Who were they? Rav Ḥisda said, ‘*Saph, Madon, Goliath*, and *Ishbi-benob* (ibid., 18, 20,19, 16). *And they fell at the hand of David, and at the hand of his servants*—as is written: *And Orpah kissed her mother-in-law goodbye, but Ruth clung unto her* ([[Ruth 1#^1-14|Ruth 1:14]]).’ Rabbi Yitsḥak said, ‘The blessed Holy One said, “May the sons of the one who kissed [Orpah] come and fall by the hand of the sons of the one [Ruth] who cleaved.”’”
+
+[^221]: **son of Geiri…** Or “son of converts.”
+
+[^222]: **ותומים‎ אורים (*urim ve-tummim*), *Urim and Thummim*…** These were elements of an oracular device whose precise character is unknown. They were placed within the garments worn by the High Priest when he would enter the Dwelling (or Tabernacle). Their use may have been similar to a Mesopotamian practice of psephomancy—divination by means of white and black stones, such as alabaster and hematite. Several Akkadian texts refer to the alabaster stone as shining or radiant, a clear parallel to the term *urim*, deriving from or, “light,” or *ur*, “flame.” The Bible nowhere describes the appearance of the Urim and Thummim, the material from which they were made, or the technique of their use. Apparently the device generated a binary response, indicating which of two alternatives was right. See [[Torah 20 - Tetzaveh#^28-30|Exodus 28:30]]; [[Torah 25 - Tzav#^8-8|Leviticus 8:8]]; [[Torah 41 - Pinchas#^27-21|Numbers 27:21]]; [[Torah 54 - V'Zot HaBerachah#^33-8|Deuteronomy 33:8]]; [[I Samuel 14#^14-41|1 Samuel 14:41–42]] (see LXX and Alter, ad loc.); 28:6; [[Ezra 02#^2-63|Ezra 2:63]]; [[Nehemiah 07#^7-65|Nehemiah 7:65]]; Ibn Ezra on [[Torah 19 - Terumah#^26-5|Exodus 26:5]]. Cf. [[I Samuel 23#^23-9|1 Samuel 23:9–12]]; [[I Samuel 30#^30-7|30:7–8]].
+
+    See BT *Yoma* 73b: “Why were they called ותומים‎ אורים (*urim ve-tummim*)? *Urim*—שמאירין (*she-me’irin*), for they illumine [or: elucidate], their words. *Tummim* [understood here as based on the root תמם (*tmm*), “to be complete”]—for they fulfill their words.”
+
+    See *Matoq mi-Devash*; Horowitz and Hurwitz, “Urim and Thummim.”
+
+[^223]: **two fires…** They are out of sight.
+
+    On the two fires, see Targum Yonatan. The full verse in Isaiah reads: *‘His rock shall melt with terror, and his officers shall collapse from weakness,’ declares YHVH, whose fire is in Zion, His furnace in Jerusalem*
+
+[^224]: ***In Zion* alone…** This begins a discourse on the fires of hell. See BT *Eruvin* 19a: “Rabbi Yirmeyah son of El’azar said, ‘Geihinnom has three gates: one in the wilderness, one in the ocean, and one in Jerusalem… In Jerusalem, as is said: *Declares YHVH, whose fire is in Zion, His furnace in Jerusalem*.’ The school of Rabbi Yishma’el taught: ‘*Whose fire is in Zion*—this is *Geihinnom. His furnace in Jerusalem*—this is the opening of Geihinnom.’… Rabbi Yehoshu’a son of Levi said, ‘Hell has seven names: Sheol, Ruin, Pit of Destruction, Tumultuous Pit, Miry Clay, Shadow of Death, and Netherworld.’” On Zion and Jerusalem in relation to the entrance to Hell, see *Midrash Konen* (*Beit ha-Midrash*, 2:30).
+
+    The fires gendered “male” and “female” refer to male and female desire. Cf. BT *Yevamot* 113a, *Ketubbot* 86a, *Gittin* 49b, *Bava Metsi’a* 84a. See also next note.
+
+    “Zion” and “Jerusalem” generally allude to *Yesod* and *Shekhinah*, corresponding to the male and female attributions here. See *Matoq mi-Devash*. Cf. *Zohar* 2:262b.
+
+[^225]: **evil impulse and good impulse…** The most complete worship of God is with both of these “fires.” See above, note 191.
+
+[^226]: **Hidden…** Directly beneath the site of the national conclave with Divinity during the pilgrimage festivals, lies the opening to hell. North is normally associated with *Gevurah*, the *sefirah* of Judgment from which evil emerges.
+
+    See *Bahir* 109 (162): “What is [this attribute]? It is the Satan. This teaches us that the blessed Holy One has an attribute whose name is Evil; and it is to the north of the blessed Holy One, as is written: *From the north evil opens* [*on all the inhabitants of the land*] ([[Jeremiah 01#^1-14|Jeremiah 1:14]]). That is to say, any evil that comes to *any of the inhabitants of the land*, comes from the north.”
+
+    The viewing of God derives from [[Torah 18 - Mishpatim#^23-17|Exodus 23:17]]: *Three times a year all your males* יראה (*yera’eh*), *shall be seen, in the presence of the Lord YHVH*. See the interpretation attributed to Rabbi Yehudah in BT *Ḥagigah* 4b: “יִרְאֶה (*Yir’eh*), *He shall see*, יֵרָאֶה (*yera’eh*), *He shall be seen*; just as He comes to see, so He comes to be seen.” Here, Rabbi Reḥumai reads the verse to mean that the individuals come to see God.
+
+    In the liturgical poetry: “May the Merciful One bless the tender, circumcised one on the eighth day, that he might merit to see the face of the *Shekhinah*, three times a year”—for if he had not been circumcised, he would not have merited this. Here it is maleness itself, as indicated by the male organ, that facilitates viewing God at the pilgrimage festivals. See *Nitsotsei Zohar* on *Zohar* 2:124a (*Milu’im*).
+
+    “Cavity” renders מחלון (*maḥalon*), an otherwise unknown word that is attested in most of the manuscripts. It resembles the term מחילה (*meḥilah*), “cavity,” whose plural is מחילין (*meḥilin*). The use of מחלון (*maḥalon*) may reflect a scribal error, or it may have been used deliberately to associate this opening to Hell with Ruth’s husband, Mahlon.
+
+[^227]: **subterranean fire…** The two fires mentioned in the verse in Isaiah correspond to the sacrificial fire in the Temple, and the fire of Hell directly below: one serving the purposes of holiness, and the other wrathful destruction of evil. The fire below signifies the uncircumcised penis, obscuring the corona—which represents the holy covenant. Uncircumcised, a man’s sexual desire is voracious and, consequently, more destructive.
+
+    On the enormity of Hell, cf. BT *Pesaḥim* 94a; *Ta’anit* 10a; *Shir ha-Shirim Rabbah* on 6:9; Moses de León, *Mishkan ha-Edut*, 99. On circumcision as a means to reduce sexual desire, see Ibn Ezra, *Yesod Mora*, 7; Judah Halevi, *Kuzari* 1:115; Maimonides, *Guide of the Perplexed* 3:33, 49; Gross, “Reasons for the Commandment of Circumcision,” especially 25–33.
+
+[^228]: **inscribed with the covenant…** The covenant of circumcision signifies *Yesod*. When the circumcised Jewish males came for the pilgrimage and stood within the Temple precincts, symbolizing *Shekhinah*, they manifest and unite these two *sefirot*. The two אורים (*urim*), *fires*, mentioned in Isaiah refer to this moment of unification—the honor for *YHVH*.
+
+    The full verse in Exodus reads: *Three times a year all your males shall appear in the presence of the Lord YHVH*. The phrase *in the presence* [or: *before the face*] *of the Lord YHVH* alludes to *Yesod*, apparently because אדון (*adon*), *Lord*, refers to *Shekhinah, before* whom is *Yesod*. On the biblical phrase, see *Zohar* 1:2a. On *your males* and the sign of circumcision, see *Zohar* 2:183a; 3:165b.
+
+[^229]: **Foreskin…** This is the marker that divides Jew from non-Jew, holy from demonic, procreation from perversion, and thus it is a fitting name for the entry to the fires of Hell. The positioning of male circumcised Jews in the Temple subdues the raging fires of sexual desire and forces it into its designated geographical locale.
+
+[^230]: **Seven names for the evil impulse…** See BT *Sukkah* 52a: “The evil impulse has seven names. The blessed Holy One called it Evil… ; Moses called it Uncircumcised… ; David called it Impure… ; Solomon called it Enemy… ; Isaiah called it Stumbling Block… ; Ezekiel called it Stone… ; Joel called it Hidden One.” See *Zohar* 2:262b–263a. The proof-text from Exodus appears to reinforce the focus on circumcision and legitimate sexual practice as the key targets for the evil impulse.
+
+    On the seven names of the evil impulse, see *Zohar* 2:262b–263a; Moses de León, *Mishkan ha-Edut*, 97. On the names of Hell, see *Zohar* 1:18a, 185a; Moses de León, ibid., 97, 99. On the seven entrances to Hell, see *Pirqei de-Rabbi Eli’ezer* 53; *Zohar* 1:237b; 2:150b; 3:285b; *[[Zohar 10.05 - Parashat Lekh Lekha#^zh-25b|ZḤ* 25b]] (*MhN*); cf. BT *Eruvin* 19a. On its seven compartments (or divisions), see BT *Sotah* 10b; *Midrash Tehillim* 11:6; *Midrash Konen* (*Beit ha-Midrash*, 2:30, 35–36); *Seder Rabbah di-Vreshit*, 28 (*Battei Midrashot*, 1:34); *Zohar* 1:40a (*Heikh*), 62b (*Tos*), 237b; 2:150b, 263a–68b (*Heikh*); 3:178a, 285b–286a; *[[Zohar 10.05 - Parashat Lekh Lekha#^zh-25b|ZḤ* 25b]] (*MhN*); Moses de León, *Mishkan ha-Edut*, 117; *Massekhet Geihinnom* (*Beit ha-Midrash*, 1:149); Ginzberg, *Legends*, 5:20, n. 56. On Geihinnom in general, see Moses de León, *Sefer ha-Mishqal*, 63–73; idem, *Mishkan ha-Edut*, 96–120. On the evil impulse, see Tishby, *Wisdom of the Zohar*, 767–70; Rosen-Zvi, *Demonic Desires*. On the sinners’ end, see *Matoq mi-Devash*.
+
+    Dumah (literally “silence”) is a name for the netherworld in the Bible, e.g., [[Psalms 094#^94-17|Psalms 94:17]]: *Unless YHVH had been my help, my soul would soon have dwelt in dumah*. Cf. [[Psalms 115#^115-17|Psalms 115:17]].
+
+    In rabbinic literature, Dumah is the angel in charge of souls of the dead (BT *Berakhot* 18b; *Shabbat* 152b; *Ḥagigah* 5a; *Sanhedrin* 94a). In the *Zohar* he retains this role but also oversees Hell. See 1:8a–b, 94a, 102a (*MhN*), 121a (*Tos*), 124a (*MhN*), 130b, 237b; Moses de León, *Mishkan ha-Edut*, 99–100, 154; Weiss, *Kol Yordei Dumah*, 18–22, 46–66.
+
+    The biblical term צלמות (*tsalmavet*), understood here as “Shadow of Death,” means “gloom, darkness,” but according to popular folk etymology it combines צל (*tsel*), “shadow,” and מות (*mavet*), “death.”
+
+[^231]: **snakes and scorpions…** Infesting the pit. Once one has descended to this place, there is no recourse—as with the serpent who cannot be charmed.
+
+    See *Bereshit Rabbah* 84:16 regarding Joseph: “*They took him and threw him into the pit, and the pit was empty; there was no water in it* ([[Torah 09 - Vayeshev#^37-24|Genesis 37:24]]). Water was not in it; snakes and scorpions were.” Cf. *Targum Yerushalmi*, [[Torah 09 - Vayeshev#^37-24|Genesis 37:24]]; BT *Shabbat* 22a; *Tanḥuma, Vayeshev* 2; *Zohar* 1:185a; 3:279a (*RM*); *ZḤ* 33d.
+
+[^232]: **Destroyer, Wrath, Rage…** Dumah is the chief angel of destruction, ranking above Destroyer, Wrath, and Rage. They in turn preside over bands of angels below.
+
+    In BT *Shabbat* 55a, Rav Ḥisda identifies six angels of destruction: “Indignation, Wrath, Rage, Destroyer, Breaker, and Annihilator.”
+
+    On the names of angels of destruction, see *Targum Yerushalmi* on [[Torah 46 - Eikev#^9-19|Deuteronomy 9:19]]; JT *Ta’anit* 2:1, 65b; *Shemot Rabbah* 41:7; *Devarim Rabbah* 3:11; *Midrash Tehillim* 7:6; *Qohelet Rabbah* on 4:3; *Midrash Tanḥuma, Ki Tissa* 20; *Midrash Tanḥuma* (Buber), *Ki Tissa* 13; *Pirqei de-Rabbi Eliezer* 45; *Zohar* 1:23b, 27b (both *TZ*); 2:41b, 227b (both *RM*), 249b, 264b (last two *Heikh*); 3:236b, 237a (both *RM*); *Tiqqunei Zohar*, 14b; Moses de León, *Sefer ha-Mishqal*, 114. Cf. BT *Nedarim* 32a; *Tosafot* on *Shabbat* 55a, s.v. *qetsef af ve-heimah*.
+
+[^233]: **corresponding to these three…** Ultimately, judgment derives from holiness—Jerusalem, the Temple, and *YHVH*—even if it is executed by angels of destruction.
+
+[^234]: **all night long…** Judgment commences for the wicked with the onset of night, continuing through daybreak. But it is the evening’s darkening that signals their doom.
+
+    MT for Micah does not read *plowing evil*, but rather *designing evil*, and the use here of the term “plowing” seems to have a sexual connotation, emphasizing that the wicked are engaged in masturbatory, adulterous, or other illicit sexual acts. The full verse in Micah reads: *Ah, those who plot iniquity, designing evil on their beds. When morning dawns they do it, for they have the power*. Rabbi Reḥumai interprets the second half of the verse as referring to the punishing angels, and it is because of the phrase *When morning dawns they do it*, that he describes the continuing of judgment into daytime.
+
+    The full verse in Isaiah reads: *Woe unto those who would hide their plans deep from YHVH! They do their deeds in darkness and say, ‘Who sees us, who knows us?’*
+
+    The simple reading of the phrase from Song of Songs is *because of terror* בלילות (*ba-leilot*), *in the night*, but Rabbi Reḥumai reads the plural form *ba-leilot* hyperliterally—*because of terror of the nights*—as a symbol for the destroying angels. On *terror in the night* as the terror of Hell, see BT *Yevamot* 109b; *Sanhedrin* 7b; *Tanḥuma, Mishpatim* 6; *Bemidbar Rabbah* 11:3; *Zohar* 2:163b, 226a.
+
+    The context in Song of Songs (3:7–8) reads: *Behold the bed of Solomon! Sixty warriors surrounding her, of the warriors of Israel—all of them skilled with a sword, expert in war, each with his sword on his thigh because of terror in the night*.
+
+[^235]: ***Yet He is compassionate*…** This verse begins the evening prayer and is apparently designed to keep destructive forces at bay. It first appears in *Seder Rav Amram Gaon*, and then in all subsequent liturgies.
+
+    The full verse in Psalms reads: *Yet He is compassionate, He purges iniquity and does not destroy, and often restrains His wrath and does not arouse all His rage*.
+
+[^236]: **not on Shabbat…** On Friday night (eve of the Sabbath), when harsh Judgment is eliminated, this verse is inappropriate and should not be recited. Through the course of Shabbat, the punishing angels have no sway over the souls in Geihinnom. Reciting this verse on Shabbat would, however, arouse those terrifying angels.
+
+    The medieval Ashkenazic custom of omitting this verse on Sabbath eve spread to Spain. By the time of the *Zohar*, it had largely displaced the native Sephardic custom of reciting the verse. See Abraham ben Nathan ha-Yarḥi, *Sefer ha-Manhig*, 1:118–19, 133; *Zohar* 2:130a, 135b, 207a; 3:243b (*RM*); Moses de León, *Sefer ha-Mishqal*, 113–14; *Sha’arei Teshuvah* (*Teshuvot ha-Ge’onim*), 80; idem, *Mishkan ha-Edut*, 100, 114; *Tur, Oraḥ Ḥayyim*, 267; Katz, *Divine Law in Human Hands*, 22–23; Ta-Shma, *Ha-Nigleh sheba-Nistar*, 29; Liebes, “Ha-Zohar ke-Sefer Halakhah,” 582, 584–85. Cf. Vol. 1, p. 264, n. 1220.
+
+    According to *Bereshit Rabbah* 11:5, one of the dwellers in Hell reports: “Whoever does not observe the Sabbath willingly in your world observes it here under coercion…. All week long we are punished, and on the Sabbath we are allowed to rest.”
+
+    See BT *Sanhedrin* 65b; *Tanḥuma, Ki Tissa* 33; *Pesiqta Rabbati* 23; *Zohar* 1:14b, 17b, 41a (*Heikh*), 48a, 62b, 197b, 237b; 2:31b, 88b, 100a, 136a, 150b–151a, 203b, 207a; 3:94b, 288b (*IZ*); *[[Zohar 10.03 - Parashat Be-Reshit#^zh-17a|ZḤ* 17a]]–b (*MhN*); Weiss, *Kol Yordei Dumah*, 33–45.
+
+[^237]: **to demonstrate that judgment has vanished…** Cf. Mopsik, who interprets להורות‎ אסור… (*asur…le-horot*)—rendered here as “forbidden… to demonstrate”—as a reference to the prohibition against issuing legal rulings on Shabbat.
+
+[^238]: **pick up a lash…** Reciting *Yet He is compassionate* on Shabbat is compared to raising a whip to threaten sinners protected by the king, Shabbat. Uttering the names of the punishing angels would frighten the sinners needlessly, since on Shabbat they are shielded by the king. Whereas on week-nights, the second blessing following the *Shema* concludes “who guards His people Israel forever,” on Sabbath eve (according to an Ashkenazic custom adopted in parts of Spain and promoted by the *Zohar*) this wording changes to “who spreads a canopy of peace over us, over His entire people Israel, and over Jerusalem.”
+
+    See *Zohar* 1:48a; 2:205a; Moses de León, *Sefer ha-Mishqal*, 112–13; *Teshuvot ha-Ge’onim, Sha’arei Teshuvah*, 80; Tishby, *Wisdom of the Zohar*, 3:1266, n. 139; Ta-Shma, *Minhag Ashkenaz ha-Qadmon*, 142–56; Liebes, “Ha-Zohar ke-Sefer Halakhah,” 582. Cf. *Nitsotsei Zohar* on *Zohar* 2:205a. On the protection of sinners during the Sabbath, cf. “Commentary of the Baal Shem Tov on Psalm 107.”
+
+[^239]: **Judged in this compartment…** The text turns to a cataloguing of the various sins that lead to the suffering of the seven compartments of Hell. Interrupting Torah study—the “words bestowed upon the tablets”—with frivolous conversation is viewed grievously. Rabbi Reḥumai puns on the word שיח (*siaḥ*), *wormwood* [or: *bush*], with שיחה (*siḥah*), “conversation,” linking the bitterness of one with the other.
+
+    See BT *Ḥagigah* 12b: “Rabbi Levi said, ‘Whoever interrupts words of Torah to engage in idle talk is made to eat coals of broom, for it is said: *They pluck saltwort through* שיח (*siaḥ*), *idle chatter, and broom roots are their food* (Job 30:4).’”
+
+    On the opposition to conversing during prayer, see *Sefer Ḥasidim* (ed. Wistinetzki), par. 1589; *Sefer Ḥasidim* (ed. Margaliot), par. 18 and note 92; *Zohar* 2:131b, 205b–206a; 3:126a; *Nitsotsei Zohar*; Ḥallamish, *Ha-Qabbalah*, 401–33. Cf. BT *Megillah* 28a–b; *Avodah Zarah* 3b. On one who scorns the disciple of the wise, see *Nitsotsei Zohar*.
+
+    Many of the sins enumerated here and correlated with the various compartments of hell are listed in Maimonides, *Mishneh Torah, Hilkhot Teshuvah* 3–4.
+
+    The full context of the verse in Job reads: *In want and starvation, bereft, they flee to desert land—the darkness of desolate dunes—plucking saltwort, leaves of wormwood* [or: *plucking saltwort from the bush*], *the roots of wormwood their food* ([[Job 30#^30-3|Job 30:3–4]]). Both saltwort and wormwood are plants that are particularly bitter and are thus eaten only by those in dire straits.
+
+[^240]: **when the congregation is praying…** This apparently refers to someone who prays with his back to the synagogue entrance, thus praying in the direction opposite that of the congregation, and thus away from God.
+
+    See BT *Berakhot* 6b: “Rav Huna says: ‘Whoever prays behind a synagogue is called wicked, as is said: *All around go the wicked* ([[Psalms 012#^12-9|Psalms 12:9]]).’ …A certain individual prayed behind the synagogue and did not turn to face it. Elijah passed by, appearing to him in the guise of an Arab merchant. He said to him: ‘This is how you stand before your Master?’ He drew his sword and slew him.”
+
+    On praying behind the synagogue, see Rashi; *Tosafot* on 6a, s.v. *aḥorei beit ha-keneset*; Rabbenu Yonah, s.v. *ve-Rabbenu Yitsḥaq ha-zaqen*, 3b (according to pages of Alfasi); Yom Tov Ishbili on *Berakhot* 6b; cf. BT *Rosh ha-Shanah* 27b, 28b, 29a.
+
+[^241]: **second compartment…** See BT *Berakhot* 19a: “Rabbi Yehoshu’a son of Levi said, ‘Whoever disparages מטתן (*mittatan*), the biers of scholars is cast into Geihinnom, as is said: *And those* המטים (*ha-mattim*), *who bend, to crookedness, may YHVH take them off with the wrongdoers. Peace upon Israel!* (Psalms 125:5)… It was taught in the school of Rabbi Yishma’el: If you see a scholar who has committed an offense by night, do not think ill of him by day, for perhaps he has repented.”
+
+    Shaming one’s fellow (in public) is deemed one of the most heinous of transgressions. See M *Avot* 3:11; BT *Bava Metsi’a* 58b; Maimonides, *Sefer ha-Mitsvot*, Negative Commandments 303; idem, *Commentary on the Mishnah, Sanhedrin* 10 (p. 141 in Qafaḥ); idem, *Hilkhot De’ot* 6:8; idem, *Hilkhot Teshuvah* 3:14; *Midrash ke-Tapuaḥ Atsei ha-Ya’ar* (in *Batei Midrashot* 1:282); *Maḥazor Vitri* 531 (p. 725); *Sefer ha-Roqe’aḥ, Hilkhot Teshuvah* 16, 28; Moses son of Jacob of Coucy, *Sefer Mitsvot Gadol*, Positive Commandments 70; Negative Commandments 6; Jonah Gerondi, *Sha’arei Teshuvah* 3:140–41, 214.
+
+    On hectoring (or “swaggering”), see BT *Rosh ha-Shanah* 17a. On gaining honor through another’s disgrace, see *Bereshit Rabbah* 1:5.
+
+    On the caution regarding pleasure from another’s stumbling, see BT *Berakhot* 28b: “Rabbi Neḥunia son of ha-Qaneh used to say a prayer upon entering the study hall and a short prayer upon exiting… Our Rabbis taught: On entering what does one say? ‘May it be Your will, *YHVH*, my God, that no offense may occur on account of me; that I not stumble in a matter of *halakhah*; that my colleagues may rejoice in me; that I not call impure ‘pure,’ or pure ‘impure’; and that my colleagues not stumble in a matter of *halakhah*; and that I may rejoice in them.’” See Rashi, ad loc.
+
+    On avoiding a local synagogue, see BT *Berakhot* 8a; Maimonides *Hilkhot Tefillah* 8:1.
+
+    On unpleasant interactions with a local colleague, cf. BT *Shabbat* 63a, in the name of Rabbi Shim’on son of Lakish: “When two scholars are amicable to each other regarding *halakhah*, the blessed Holy One listens to them, as is said: *Then those who revere YHVH* נדברו (*nidberu*), *spoke with one another*, [*and YHVH listened attentively*]… (Malachi 3:16).”
+
+    On benefiting from one’s hosts’ scanty resources, see Maimonides, *Hilkhot Teshuvah* 4:4, who cites this as one of the actions that seem benign, thus eluding one’s purview for repentance. On striking one’s fellow when unprovoked, see BT *Sanhedrin* 58b; Maimonides, *Hilkhot Ḥovel u-Mazziq* 5:2.
+
+[^242]: **third compartment…** On being arrogant about one’s erudition, see M *Avot* 4:5: “Rabbi Tsadok said, ‘Do not use [words of Torah] as a crown to elevate oneself, nor as a spade to dig with.’ And Hillel used to say, ‘He who makes use of the crown [of Torah] shall perish. Thus one learns: Whoever derives worldly benefit from words of Torah, removes himself from the world.” See Maimonides, ad loc.; cf. *Matoq mi-Devash*.
+
+    On revealing meanings in the Torah that are contrary to *halakhah*, see M *Avot* 3:11; *Tosefta Sanhedrin* 12:9; *Mekhilta de-Rabbi Yishma’el, Massekhet de-Pisḥa Bo* 5; *Sifrei*, Numbers 112; JT *Pe’ah* 1:1, 16b; *Pesaḥim* 6:2, 33b; *Sanhedrin* 10:1, 27c; BT *Yoma* 85b and Rashi and *Tosafot*, s.v. *ḥuts mi-poreq ol*; *Sanhedrin* 99a–b, *Shevu’ot* 13a, *Karetot* 7a; *Avot de-Rabbi Natan* A, 26; Maimonides, *Hilkhot Teshuvah* 3:11; cf. M *Megillah* 4:9.
+
+    On not responding to one’s fellow’s blessing, see *Zohar* 3:286a. On one who ridicules a scholar who has forgotten his learning, see BT *Berakhot* 8b, in the name of Rabbi Yehoshu’a son of Levi: “Be careful [to respect] an old man who has forgotten his knowledge through no fault of his own, as we say: Both the whole tablets and the fragments of the tablets were placed in the Ark.”
+
+[^243]: **withholding wages of the hired laborer…** See *Sifrei*, Deuteronomy 279: “Whoever withholds a hired person’s wages is as though he takes his life.” On the passage in *Sifrei*, see *Midrash Tanna’im*, [[Torah 49 - Ki Teitzei#^24-15|Deuteronomy 24:15]]; BT *Bava Metsi’a* 112a; *Zohar* 3:84b–85a. Cf. *Shir ha-Shirim Zuta* on 1:15. On fornicating with a Gentile, see BT *Eruvin* 19a; *Sefer Ḥasidim* (Margaliot), 1129; and sources cited above, notes 84, 193.
+
+[^244]: **fifth compartment is called Sheol…** In the Bible, שאול (*she’ol*) is the name of the underworld, abode of the dead. See *Zohar* 2:266a (*Heikh*); cf. 3:54b.
+
+    On this group of sinners, see M *Sanhedrin* 10:1: “All of Israel have a share in the world to come, as is said: *Your people, all of them righteous, will inherit the land forever—sprout of My planting, work of My hands, that I may be glorified* ([[Isaiah 60#^60-21|Isaiah 60:21]]). And the following have no share in the world to come: One who denies that resurrection is a biblical doctrine, that the Torah was divinely revealed, and a skeptic.” See Maimonides, *Mishneh Torah, Hilkhot Teshuvah* 3:6.
+
+    Most of the denizens of this compartment of Hell sinned by denying key elements of belief. Informers attained their occupancy because of the gravity of their transgression, having been a perennial problem for Jews living under foreign rule. See BT *Berakhot* 28b, *Rosh ha-Shanah* 17a, *Megillah* 17b. BT *Shabbat* 33b tells the story of Rabbi Shim’on son of Yoḥai’s refuge in a cave after an informant reported his slander against the Romans.
+
+    See Maimonides, *Mishneh Torah, Ḥovel u-Mazziq* 8:9–11: “It is forbidden to inform about a person to the Gentiles and endanger his physical person or his property. [This applies] even when the person concerned is a wicked person and a sinner, and even if he causes irritation or distress. Whoever informs about a Jew and endangers his person or his property to the Gentiles has no portion in the world to come. It is permissible to kill an informer in any place, even in the present age when [the court] no longer metes out capital punishment… It is a frequent occurrence, in western locales, to kill informers who have made an established pattern of informing with regard to people’s property, and to hand the informers over to Gentiles to punish them, beat them, and imprison them, according to their wicked ways.”
+
+    In Spain, the problem of informers became so severe that the word *malshin*, “informer,” became adopted into Spanish: *malsin*; *malsinería*; *malsindad*. On Jewish informers in the Middle Ages, see Rashi on *Rosh ha-Shanah* 17a, s.v. *ve-ha-msorot*; Kaufmann, “Jewish Informers in the Middle Ages”; Baer, *A History of the Jews in Christian Spain*, 1:161–62, 231–34; Lourie, *Crusade and Colonisation*, XII, 69–89.
+
+[^245]: **with a Gentile woman…** These two were already mentioned in the fourth compartment. V24, O17, L39, MS4, and MS3 all refer to a Gentile woman or a menstruant, but Thiengen and subsequent editions read: “with their mother or a menstruant,” thus distinguishing from the previous compartment.
+
+[^246]: **Netherworld…** See BT *Rosh ha-Shanah* 17a: “Transgressors of Israel who sin with their body and transgressors of the Gentiles who sin with their body descend to Hell and are punished there for twelve months. After twelve months their body is consumed, their soul burned, and the wind scatters them under the soles of the feet of the righteous, as is said: *You will trample the wicked, for they will be ashes under the soles of your feet* ([[Malachi 3#^3-21|Malachi 3:21]]). But as for the heretics, informers, skeptics, those who rejected Torah, those who denied the resurrection of the dead, those who abandoned the ways of the community, those who *spread* their *terror in the land of the living* ([[Ezekiel 32#^32-23|Ezekiel 32:23]]), and those who sinned and led the masses to sin…, these descend to Hell and are punished there for generation after generation…. Hell will be consumed, but they will not be consumed.”
+
+    See *Tosefta Sanhedrin* 13:4; *Seder Olam Rabbah* 3; *Zohar* 1:62b, 77b; 2:150b; 3:285b–286a.
+
+[^247]: **twelve months…** The wicked who intended to turn back to God but never fulfilled this in their lifetime are punished in Hell but then rise from there.
+
+    See BT *Rosh ha-Shanah* 16b–17a, in the name of the House of Shammai: “There are three groups at the Day of Judgment: one of the completely righteous, one of the completely wicked, and one of the intermediate. The completely righteous are written and sealed immediately for life; the completely wicked are written and sealed immediately for Hell… ; the intermediate go down to Hell and [on account of their punishment] squawk [or: chirp, twitter, squeal], and rise.”
+
+    See M *Eduyyot* 2:10; *Zohar* 2:150a; 3:178a; *ZḤ* 33d, [[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-69a|69a]] (*ShS*). On intending *teshuvah*, see BT *Gittin* 57b, *Qiddushin* 49b; *Zohar* 1:41a (*Heikh*); 3:220b.
+
+    The verse in Isaiah concludes: *for their worm will not die, nor their fire be quenched, and they will be a horror to all flesh*.
+
+[^248]: ***shines thickest murk*** The darkness of this place is so complete that even the light that shines there is gloom itself. See Alter; *Matoq mi-Devash*.
+
+[^249]: **He repented…** See *Pirqei de-Rabbi Eli’ezer* 20: “On the first day of the week, Adam entered the waters of the upper Gihon until the waters reached his neck, and he fasted seven weeks until his body became like a sieve. Adam said before the blessed Holy One, ‘Master of all the worlds! Remove, please, my sin from me, and accept my repentance—and all the generations will learn that one can repent, and that you accept the repentance of penitents.’ What did the blessed Holy One do? He extended His right hand, erased his sin, and accepted his repentance.” See *Bereshit Rabbah* 22:13; BT *Eruvin* 18b; cf. *Avodah Zarah* 8a; *Zohar* 1:55b.
+
+    [[Torah 01 - Bereshit#^2-13|Genesis 2:13]] identifies the Gihon as the second of the four branches of the river that issues from Eden. Gihon is also the name of the spring providing water for Jerusalem, where Solomon was anointed. On the Gihon, see [[I Kings 01#^1-33|1 Kings 1:33–34]]; [[II Chronicles 32#^32-30|2 Chronicles 32:30]]; Rashi on *Berakhot* 10b, s.v. *satam mei giḥon*; *Zohar* 2:35a. On the double sense of Gihon, see David Luria on *Pirqei de-Rabbi Eli’ezer* 20, n. 30.
+
+    “Seven lands,” also known as the “seven climates [or: zones],” are the distinct inhabitable regions recognized in Ptolemaic and medieval geography. *Vayiqra Rabbah* 29:11 records the names of the seven earths: *Erets, Adamah, Arka, Gei, Tsiyyah, Neshiyyah*, and *Tevel*. See *Sefer Yetsirah* 4:12; *Avot de-Rabbi Natan* A, 37; Ibn Ezra on [[Torah 01 - Bereshit#^1-2|Genesis 1:2]]; *Zohar* 1:9b, 39b (*Heikh*), 157a, 177a, 253b (*Hash, ST*); 2:30b; 3:9b–10a; *ZḤ* 9b, 33b, [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-87b|87b]], [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-89c|89c]] (last two *MhN, Rut*); Moses de León, *Sefer Mishkan ha-Edut*, 11. On Cain’s and Abel’s birthplace, cf. BT *Sanhedrin* 38b and *Tosafot*, ad loc., s.v. *ve-yaredu arba’ah*.
+
+    This whole section is similar to *Zohar* 1:253b–254a (*Hash, ST*); *ZḤ* 9b.
+
+[^250]: ***from the face of Adamah… a restless wanderer upon Arets*…** Though these terms are synonyms for earth, Rabbi Reḥumai reads them hyperliterally, as references to different zones in the world. Cain is lowered to *Arets*, one level below *Adamah*. After his repentance, he is raised to one level higher, *Arqa*.
+
+    On the different levels of earth, see preceding note. On *Arqa* and *Erets*, see *Zohar* 1:157a.
+
+[^251]: ***Tevel*…** *Tevel* is the highest of the seven lands. See *Vayiqra Rabbah* 29:11.
+
+[^252]: **Cave of Machpelah…** Rabbi Kisma associates the sweet fragrance of the righteous dead in the Cave of Machpelah with that of Eden. According to rabbinic tradition, Adam and Eve were buried in this cave. Based on this tradition, the *Zohar* teaches that the Cave of Machpelah leads to the Garden of Eden.
+
+    The place-name מכפלה (*makhpelah*) is interpreted according to the root כפל (*kphl*), “double.” See BT *Eruvin* 53a: “Regarding the cave of Machpelah, Rav and Shemu’el: One said, ‘Two chambers, one within the other.’ The other said, ‘A chamber and a second story above it.’”
+
+    See *Bereshit Rabbah* 58:4, 8; BT *Eruvin* 53a; *Pirqei de-Rabbi Eli’ezer* 20, 36; *Midrash ha-Gadol*, Rashi, and Ibn Ezra on [[Torah 05 - Chayei Sara#^23-9|Genesis 23:9]]; *Zohar* 1:38b (*Heikh*), 57b; 81a (*ST*), 127a–128b, 219a, 248b, 250b; 2:151b; *[[Zohar 10.04 - Parashat Noah#^zh-21a|ZḤ* 21a]] (*MhN*).
+
+    On the fragrance of the Garden of Eden as the paradigmatic ideal, see *Bereshit Rabbah* 65:22; *Shir ha-Shirim Rabbah* on 4:11; Rashi on [[Torah 06 - Toldot#^27-27|Genesis 27:27]]; cf. BT *Ta’anit* 29b; *Tanḥuma* (Buber), *Toledot* 10, 22. On the fragrance of the dead in rabbinic literature, see Green, *The Aroma of Righteousness*, 169–96. In kabbalistic literature, see Moses de León, *Seder Gan Eden*, 137; Mopsik, *Les Rites Qui Font Dieu*, 198–99. Cf. Hecker, *Mystical Bodies, Mystical Meals*, 226, n. 23.
+
+    On Seth’s tending to Adam, see *Life of Adam and Eve* [*Apocalypse*], 39. Seth’s birth is described in [[Torah 01 - Bereshit#^5-3|Genesis 5:3]]: *Adam lived a hundred and thirty years and he engendered in his likeness, according to his image, and called his name Seth*. According to a midrashic interpretation, Seth alone was in Adam’s likeness, unlike both Cain and Abel. See BT *Eruvin* 18b; *Pirqei de-Rabbi Eli’ezer* 22; Maimonides, *Guide of the Perplexed* 1:7; *Zohar* 1:55a; 2:167b–168a, 231b; *ZḤ* 8c–9b.
+
+[^253]: **The blessed Holy One tended to him…** Rabbi Reḥumai offers a different description of Adam’s burial.
+
+    See *Pirqei de-Rabbi Eli’ezer* 36: “[Abraham] ran to fetch a calf [for the three messengers visiting him ([[Torah 04 - Vayera#^18-7|Genesis 18:7]])], but the calf ran away from him and entered the Cave of Machpelah; so he went in after it, and there he found Adam and Eve lying on their beds asleep, with lamps burning above them and a lovely fragrance around them, like a *pleasing aroma* ([[Torah 24 - Vayikra#^1-9|Leviticus 1:9]]). Therefore he desired to possess the Cave of Machpelah as a burial site.” See *Zohar* 1:127a.
+
+    An ancient tradition relates that upon expulsion from Eden, Adam pleaded with God to be permitted to take some of the garden’s fragrant spices with him. See *Life of Adam and Eve* [*Apocalypse*], 29. On Adam’s burial by God, cf. ibid., 39.
+
+[^254]: **He created him from the Temple…** In rabbinic tradition, God created Adam from the dust of the Temple. According to Rabbi Neḥemiah, God thought that the homage being paid to Adam was inappropriate and so relocated him to the Garden of Eden.
+
+    See *Pirqei de-Rabbi Eli’ezer* 11: “He began gathering the dust of Adam [see [[Torah 01 - Bereshit#^2-7|Genesis 2:7]]] from the four corners of the earth…. He stood up on his feet [and] his height equaled the distance from one end of the earth to the other… and he bore the likeness of God. The creatures saw him and were terrified, thinking that he was their creator, so they all came to bow down before him.” Cf. *Pirqei de-Rabbi Eli’ezer* 12: “He created him from a pure, holy site. From where did He take him? From the site of the Temple.”
+
+    See 2 Enoch 30:13; *Bereshit Rabbah* 14:8 (and Theodor, ad loc.); JT *Nazir* 7:2, 56b; BT *Sanhedrin* 38a–b; *Tanḥuma, Pequdei* 3; *Targum Yerushalmi*, [[Torah 01 - Bereshit#^2-7|Genesis 2:7]]; Maimonides, *Mishneh Torah, Hilkhot Beit ha-Beḥirah* 2:2; *Zohar* 1:34b, 130b, 205b; 2:23b, 24b; 3:46b, 83a (*Piq*); Moses de León, *Shushan Edut*, 344.
+
+[^255]: **ten canopies…** See BT *Bava Batra* 75a: “Rabbah said in the name of Rabbi Yoḥanan, ‘…The blessed Holy One will fashion a canopy for each and every [righteous] person… befitting his honor.’… Rabbi Ḥanina said, ‘…Each one will be scorched by the canopy of his fellow. Alas for such shame! Alas for such humiliation!’”
+
+    See *Zohar* 1:39a (*Heikh*), 130a; 2:246b (*Heikh*); Moses de León, *Shushan Edut*, 348; idem, *Sefer ha-Rimmon*, 374.
+
+[^256]: **When Samael descended…** Adam’s exalted rank aroused Samael’s envy. See *Pirqei de-Rabbi Eli’ezer* 13: “Samael… took his band and descended and saw all the creatures created by the blessed Holy One. He determined there was none as cunningly evil as the serpent, as is said: *Now the serpent was slier than any creature of the field that YHVH Elohim had made*. He [the serpent] looked like a camel, and he [Samael] mounted and rode him.”
+
+    See BT *Sanhedrin* 59b, in the name of Rabbi Yehudah son of Tema: “Adam was reclining in the Garden of Eden, while the ministering angels roasted meat and strained wine for him. Thereupon the serpent peeked in, saw his glory, and became envious of him.”
+
+    See *Zohar* 1:35b, 52a, 64a, 137b, 146a, 153a; Margaliot, *Mal’akhei Elyon*, 249 n. 4.
+
+[^257]: **What caused him to sin…** Literally, “How did he sin?” Rabbi Alexandrai and Rabbi Ḥizkiyah disagree, the former indicating that it was a moral failing, related to sexual passion; the latter contending that a more essential force corrupted Adam.
+
+    See BT *Sotah* 3a, in the name of Resh Lakish: “A person does not sin unless a spirit of folly enters into him.”
+
+[^258]: **forty-less-one lashes…** The four sinners—Adam, Eve, serpent, and the earth—together constitute the paradigm for corporal punishment in rabbinic law. See M *Makkot* 3:10: “How many lashes do they inflict? Forty-less-one, as is written: *In number, forty* [*he is to be struck, no more*] ([[Torah 49 - Ki Teitzei#^25-2|Deuteronomy 25:2–3]])—a number close to forty. Rabbi Yehudah says, ‘He suffers the forty lashes in full.’”
+
+    On the number of lashes administered, see *Tanḥuma, Qoraḥ* 12; *Bemidbar Rabbah* 18:21; Maimonides, *Mishneh Torah, Hilkhot Sanhedrin* 17:1; *Zohar* 1:61b; 2:184a, 249b (*Heikh*); Moses de León, *Sefer Mishkan ha-Edut*, 28–31.
+
+    On the ten curses decreed upon Eve, see BT *Eruvin* 100b. *Pirqei de-Rabbi Eli’ezer* 14 enumerates nine curses applied to each of Adam, Eve, and the serpent. *Hadrat Qodesh* deduces the curses from the scriptural verses.
+
+[^259]: **near to all who call unto Him** Adam was formed from the dust of the future Temple Mount, the place where sacrifices were offered to procure atonement. When there is no Temple standing, repentance and prayer serve the same goal.
+
+    On Adam’s repentance, see *[[Zohar 10.03 - Parashat Be-Reshit#^zh-19b|ZḤ* 19b]] (*MhN*). Rabbi Bun’s citation of King David is an Aramaic translation of [[Psalms 145#^145-18|Psalms 145:18]], the subject of the next homily. On the following passage, see Tishby, *Wisdom of the Zohar*, 3:1515–17.
+
+[^260]: **the blessed Holy One desires the heart…** The importance of heartfelt devotion is articulated in rabbinic literature, but becomes a matter of central concern for medieval philosophers, mystics, and pietists. Ibn Ezra writes in *Yesod Mora* 7: “All commandments [are performed] in [one of] three ways: First, with faithfulness of the heart; second, with the mouth; and, third, through action. But just as the number one is comprised within any mathematical calculation, so too the essence of every commandment that is fulfilled with the mouth or through action requires faithfulness of the heart. And if it is absent, it is all in vain and worthless. And the sages say, ‘The Compassionate One desires the heart’” (BT *Sanhedrin* 106b).
+
+    See Baḥya ibn Paquda, *Ḥovot ha-Levavot*, Introduction; Ibn Ezra (long) on [[Torah 21 - Ki Tisa#^31-18|Exodus 31:18]]; idem on [[Ecclesiastes 05#^5-1|Ecclesiastes 5:1]]; *Sefer Ḥasidim* (ed. Margaliot), 530, 590, 1013; *Zohar* 2:162b; 3:281b (*RM*).
+
+    On nothing blocking the way to repentance, see JT *Pe’ah* 1:1, 16b: “Nothing withstands anyone who is repentant.” See Maimonides, *Mishneh Torah, Hilkhot Teshuvah* 3:14; *Zohar* 2:12b, 106a; 3:78b, 122b; *[[Zohar 10.03 - Parashat Be-Reshit#^zh-19d|ZḤ* 19d]] (*MhN*).
+
+[^261]: **contingent upon the heart…** According to *Midrash ha-Ne’lam*, these two verses both call for confession as part of the ritual of the sacrificial offering, affirming that heartfelt devotion is the essential component.
+
+    On these two confessions as understood in the biblical and ancient context, see Levine; Milgrom.
+
+[^262]: **One who fasts… offers a perfect sacrifice…** Rabbi Neḥunia compares the act of fasting to the ritual sacrifices. The person’s bodily depletion is reckoned as a perfect substitute. The “heat and aroma” of the breath play on the words of [[Torah 24 - Vayikra#^1-9|Leviticus 1:9]]: ליהוה‎ ניחוח‎ ריח‎ אשה (*isheh reiaḥ niḥoaḥ la-YHVH*), *a fire offering, a pleasing aroma to YHVH*, and thus serve as substitute for the fire of the altar and the aroma of the sacrifice.
+
+    See BT *Berakhot* 17a: “When Rav Sheshet kept a fast, upon concluding his prayer he said the following: ‘Master of the Universe, You know full well that in the time when the Temple was standing, if a person sinned he used to bring a sacrifice. Though all that was offered of it was its fat and blood, it procured atonement for him. Now I have kept a fast, and my fat and blood have diminished. May it be Your will that my fat and blood that have been diminished be deemed as if I had offered them before You on the altar, and You favored me [with forgiveness].”
+
+    Formerly, animal sacrifice was a representation of the self, whereas Rav Sheshet, through offering his own flesh and blood, giving through pain, symbolically offers from the self. See Halbertal, *On Sacrifice*, 48–49. In the *Midrash ha-Ne’lam* on Ruth, “heart and will” become the altar, the media that symbolically transfer parts of the person’s very self to God. On offering one’s own fat and blood to God through fasting, see *Zohar* 2:20b (*MhN*), 153a; Moses de León, *Sefer ha-Rimmon*, 127–28; idem, *Mishkan ha-Edut*, 80–81; Hecker, *Mystical Bodies*, 75–76. Cf. *Zohar* 2:62a; 3:9b; Moses de León, *Sefer ha-Rimmon*, 79. On one’s breath serving as part of the sacrifice, see *Bereshit Rabbah* 41:1; *Pirqei de-Rabbi Eli’ezer* 1.
+
+[^263]: **apportioned to numerous sides…** The material parts of an offering are distributed among the *sefirot*, angels, and even the demonic shells. *Tif’eret*, signified by the blessed Holy One, is interested only in the sacrifice’s inward aspects: the sincerity and devotion.
+
+[^264]: **mind, heart, and liver…** Corresponding to three organs in the human body: the brain, heart, and liver. According to medieval anatomy (based on Galen), these are the three main organs. The liver receives the digested food and transforms it into “nutritive blood,” which flows through the veins, nourishing the peripheral organs. Some blood enters the right chamber of the heart, from where it passes through the lungs and the septum to the left chamber. There the blood mixes with pneuma, or spirit, producing “vital blood,” which reaches the brain (and the rest of the body) via the arteries. However, in the sefirotic realm the process is reversed: the divine brain (*Ḥokhmah*) receives the initial flow of emanation from *Keter* and conveys this to the heart (*Tif’eret*), who gives to the liver (*Shekhinah*), who in turn feeds the lower worlds.
+
+    Rabbi Neḥuniah’s description of these organs as “three kings” apparently alludes to the fact that the initial letters of מוחא (*moḥa*), “brain,” לבא (*libba*), “heart,” and כבדא (*kavda*), “liver,” spell מלך (*melekh*), “king.” See Simeon ben Tsemaḥ Duran, *Magen Avot* 5:19: “The experts in medicine agree that there are three major organs in the human being, namely והכבד‎ והלב‎ המוח (*ha-moaḥ ha-lev ve-ha-kaved*), the brain, the heart, and the liver; their sign: מלך (*melekh*), king.”
+
+    These three organs within the divine body refer to *Ḥokhmah, Tif’eret*, and *Shekhinah*. Divine overflow proceeds from *Keter* to “brain,” or *Ḥokhmah*, which absorbs it all. It then proceeds to *Tif’eret* and *Shekhinah*, who is represented as the sea that is never full. *Shekhinah* receives from above and distributes to all creatures below.
+
+    On the three organs, see *Zohar* 1:138a (*MhN*); 2:153a; 3:224a–b; Tishby, *Wisdom of the Zohar*, 1:296–97; 3:1516, n. 50. On Galen’s theory, see Siegel, *Galen’s System of Physiology and Medicine*, 51, 87–91, 104–6, 113–15, 183–90; Jacquart and Thomasset, *Sexuality and Medicine in the Middle Ages*, 33–34, 48–50.
+
+    This section appears somewhat fragmentary, lacking a link to the theme of fasting and repentance, but it can be explained through reference to a similar passage in *Zohar* 2:153a. By fasting, one stimulates the sefirotic process according to the human pattern: liver, then heart, then brain. The person’s own fat and blood, together with his intention, are offered to *Shekhinah* (the liver), who offers it to *Tif’eret* (the heart), who offers it to *Hokhmah* (the brain), who rule over the entire sefirotic body. “This structure is analogous to the sea” probably refers to the flow of arousal from below to *Shekhinah*, who then transmits those energies upward to the blessed Holy One, signified by the heart. Because *Shekhinah* continually sends arousal upward, She is never full. Thus the individual’s fasting demonstrates the commitment of the human heart, which is then received by the divine heart, *Tif’eret*, above. Ultimately, fasting operates on three separate levels: physiological, spiritual/emotional, and sefirotic.
+
+[^265]: **Three types of repentance…** After the kabbalistic explanation, Rabbi Yehudah returns to classical rabbinical methods for eliciting God’s merciful attentions. Each of the terms in the verse from Psalms signifies a different level of repentance, with “tears” being paramount because they arouse the entire body. Weeping signifies the broken heart suggested in [[Psalms 051#^51-19|Psalms 51:19]]: *The sacrifices of Elohim are a broken spirit; a broken and crushed heart, O Elohim, You will not spurn*.
+
+    On these three terms—*hear, give ear*, and *be not deaf*—see *Zohar* 1:132b. See BT *Bava Metsi’a* 59a, in the name of Rabbi El’azar: “Since the day the Temple was destroyed, the gates of prayer have been locked…. Yet even though the gates of prayer are locked, the gates of tears are not, as is said: *Hear my prayer, O YHVH, to my cry hearken, to my tears be not deaf!*” See BT *Berakhot* 32b; *Zohar* 1:132b; 2:12b, 19b–20a (*MhN*), 165a, 245b (*Heikh*); 3:20a; *Nitsotsei Zohar*.
+
+    On the twelve heavenly gates, see *Zohar* 1:92a; 2:128b; 3:170a. Cf. V6, MS3, and O17, as well as *[[Zohar 10.03 - Parashat Be-Reshit#^zh-18d|ZḤ* 18d]] (*MhN*), mentioning thirteen such gates, which would signify God’s thirteen attributes of mercy. See *Matoq mi-Devash*; Mopsik; Englander.
+
+[^266]: **What is the difference…** Namely, between the verse’s three different terms. And why is repentance through tears formulated differently?
+
+[^267]: **declines to fulfill his request…** See *Midrash Ḥaserot vi-Yteirot* 222 (in *Battei Midrashot*, 310): “Every instance of *Shema* in Scripture is deficient, even that of the blessed Holy One: *O Listener to prayer, unto You all flesh shall come* ([[Psalms 065#^65-3|Psalms 65:3]]). Why is this so? Sometimes [prayer] is heard, and sometimes it is not heard.”
+
+    See *Zohar* 1:105; cf. *Tanḥuma, Ha’azinu* 4.
+
+[^268]: ***Cry*—superior to *prayer*…** On the superiority to regular hearing of the listening implied by *give ear*, see *Zohar* 3:286b. For a ranking of other terms related to prayer, see *Zohar* 2:20a (*MhN*).
+
+[^269]: **Not all tears enter…** See BT *Berakhot* 55a, in the name of Rabbi Yitsḥak: “Three things cause a man’s sins to be remembered [on high]: [walking next to] a shaky wall, expectation of [the fulfillment of] prayer, and calling on heaven to punish his neighbor.”
+
+[^270]: **What is written regarding Hezekiah?…** When Hezekiah fell ill, Isaiah conveyed God’s message that he should set his affairs in order, for he would not get well. Hezekiah responded with the following prayer: *“Please, O YHVH,” he said, “remember how I have walked before You sincerely and wholeheartedly, and have done what is good in Your eyes.” And Hezekiah wept profusely*. God’s response concludes: *I hereby add* [literally: *I hereby He will add*], *fifteen years to your life* ([[Isaiah 38#^38-3|Isaiah 38:3]], [[Isaiah 38#^38-5|5]]). Hezekiah’s tears are the medium through which God sees his true devotion, leading to His compassionate response.
+
+    The full verse in Isaiah 25 reads: *He will swallow up death forever. My Lord YHVH will wipe away tears from all faces and remove the disgrace of His people from the whole earth—for YHVH has spoken*.
+
+[^271]: **the time to come…** The homily about repentance and tears concludes with a prediction for the messianic era: when Israel repents sincerely, with tears from the heart, God will graciously receive them.
+
+[^272]: **Rabbi Kruspedai fell ill…** Given Rabbi Kruspedai’s mysterious behavior, the rabbis assumed that he had died. While certain preparations of the corpse are permitted on the Sabbath, the rabbis determined that Rabbi Kruspedai’s corpse did not require any further measures, such as placing an infant or loaf of bread upon the body to permit carrying it to another place. See M *Shabbat* 23:5: “One may perform all necessary tasks for a corpse: anointing and washing it, provided that one does not move any of its limbs. One may remove a cushion from under it, and lay it on sand to extend its preservation. Its jaw may be bound… One may not close the eyes of a corpse on the Sabbath.”
+
+    See BT *Shabbat* 151a–b and Rashi, ad loc.; Maimonides, *Hilkhot Shabbat* 26:20–23; *Nitsotsei Zohar*; *Matoq mi-Devash*.
+
+    Rabbi Kruspedai (also known as Krispa, Kruspai, Krispi) was a third-century Palestinian *amora*, and a student of Rabbi Yoḥanan. The story about him that begins here is modeled after one in BT *Bava Batra* 10b about Yosef the son of Rabbi Yehoshu’a: “He was sick, becoming comatose; seemingly dead. [After he recovered], his father said to him, ‘What was in your vision?’ He replied, ‘I saw a topsy-turvy world, the upper below and the lower above.’ He said to him, ‘You saw a refined world.’ ‘In what condition did you see us [students]?’ He replied, ‘As our esteem is here, so it is there. I also heard them saying, “Happy is the one who comes here in full possession of his learning.”’” Samuel Eidels (Maharsha) explains, “The essence of study, and what makes the greatest mark, is study that comes through writing. It is on account of this that sages are called ‘scribes.’”
+
+    See BT *Rosh ha-Shanah* 17a; *Pesaḥim* 50a and Rashi, s.v. *itnegid*; cf. *Rut Rabbah* 3:1; *Tosafot*, s.v. *elyonim le-matah*; *Zohar* 3:164b; *TZ* 70 (136a). Cf. also [[Matthew 19#^19-30|Matthew 19:30]]; [[Matthew 20#^20-16|20:16]]: [[Luke 13#^13-30|Luke 13:30]].
+
+[^273]: **to fulfill Elimelech’s post…** Since the verse specifies that the sons remained after Elimelech’s death, Rabbi Yoḥanan interprets it to mean that in some sense they were to serve as substitutes for him. Since Elimelech signified “soul of soul,” while Mahlon and Chilion represented the much lower rungs of “holy spirit” and “animal spirit,” they were inadequate for the task—and they died as well. The sons’ inferiority is indicated in the verse by the feminine singular formulation of the verb (*she was left with her two sons*), moving them into the background. Rabbi Yoḥanan anticipates the objection that Elimelech could not have truly died, since he represents the letter י (*yod*), first letter of the tetragrammaton. He explains that the death described in Ruth actually refers to his fall from prominence. Cf. *Matoq mi-Devash*.
+
+    See *Bereshit Rabbah* 96:3: “[The term] ‘death’ signifies only decline.” See note in Theodor-Albeck; BT *Avodah Zarah* 5a; *Zohar* 2:19b (*MhN*); 3:135b (*IZ*). On the symbolic ranking and identification of the souls of Elimelech, Mahlon, and Chilion, see above, note 192.
+
+[^274]: **went to sleep…** This phrase renders דמוך (*damukh*), “lay down; sleep; die.” “Rupture upon rupture” refers to the woeful series of losses through these rabbis’ deaths.
+
+[^275]: **I will tell you—but I cannot fathom it…** Literally, “I saw, but I do not know what it was.”
+
+[^276]: **Arrange your words…** Rabbi Kruspedai informs Rabbi Yoḥanan that his death is imminent; he conveys this news partly by instructing him to arrange and consolidate his teachings while he still can. This is part of the broader lesson that Rabbi Kruspedai learned in his visit to the heavenly realm. It also echoes the heraldic message that concludes the talmudic story; see above, note 272.
+
+    As something of a consolation, Rabbi Yoḥanan learns that he will be given honorable accompaniment by twelve great rabbis who already reside in the heavenly realm. See *Zohar* 1:218a.
+
+[^277]: **Happy are those…** Three groups are identified here. First are the elite for whom Torah study is their primary vocation—presumably a reference to the kabbalists. Second are the righteous who play a leadership role in fostering piety in their community. Third are common people who have achieved the uncommon ethical distinction of not longing for retribution from those who have wronged them.
+
+    “Waiving the right of retribution” (or “overcoming his natural temperament”; literally “passing by his measures”) is a talmudic ideal that becomes a staple of talmudic and medieval ethical works. See BT *Megillah* 28a: “Rabbi Akiva asked Rabbi Neḥunia the great: ‘On account of what merit have you reached such length of days?’… He replied, ‘Never in my life have I accepted presents, nor have I insisted on retribution [when wronged], and I have been generous with my money.’ ‘Nor have I insisted on retribution,’ as Raba said: ‘He who waives his right to retribution is forgiven all his sins, as is said: *forgiving iniquity and passing over transgression* ([[Micah 7#^7-18|Micah 7:18]]). Whose iniquity is forgiven? The iniquity of one who passes over transgression.’”
+
+    See Rashi, ad loc.; BT *Rosh ha-Shanah* 17a; *Yoma* 23a, 87b; *Ta’anit* 25b; *Sefer Mitsvot Gadol*, Positive Commandments 16, 70; Negative Commandments 12; Baḥya ibn Paquda, *Ḥovot ha-Levavot*, 6:6; Maimonides, *Hilkhot De’ot* 7:7; *Sefer Ḥasidim* (ed. Margaliot), 607; Jonah Gerondi, *Sha’arei Teshuvah* 1:28.
+
+[^278]: **Permission had been granted…** The Angel of Death was authorized to take Rabbi Kruspedai’s life, but then *Shekhinah* intervened on his behalf. The Angel of Death’s recourse was to the heavenly tribunals—where Rabbi Kruspedai glimpsed Sandalfon, who was “braiding bands” (or “tying knots”) for the blessed Holy One.
+
+    See BT *Ḥagigah* 13b: “A certain angel, who stands on the earth with his head reaching the living creatures. It is taught in a *baraita*: His name is Sandalfon: he is higher than his fellows by a [distance of] five hundred years’ journey; and he stands behind the chariot, tying crowns for his Maker.”
+
+    See *Shemot Rabbah* 21:4; *Ma’yan Ḥokhmah* (*Beit ha-Midrash*, 1:59); *Pesiqta Rabbati* 20; *Midrash Tehillim* 88:2; Schäfer, *Synopse zur Hekhalot-Literatur*, §§582, 597, 655–56, 821–22; *Tosafot, Ḥagigah* 13b, s.v. *ve-qosher*; El’azar of Worms, *Sodei Razaya*, 74, 76–77, 112, 114; Ezra of Gerona, *Peirush le-Shir ha-Shirim*, 495; *Zohar* 1:167b; 2:58a, 146b, 202b, 209a, 245b–246a (*Heikh*); *[[Zohar 12.07 - Raza de-Razin#^zh-36b|ZḤ* 36b]] (*RR*); Recanati on [[Torah 04 - Vayera#^19-27|Genesis 19:27]], 26a; Margaliot, *Mal’akhei Elyon*, 148–54; Green, *Keter*, 20–41. Cf. *Zohar* 1:37b, 132a, 168b–169a.
+
+    “Braiding bands” renders קשרין‎ מקשר (*meqasher qishrin*). In many of the sources cited above, Sandalfon weaves כתרין (*kitrin*), crowns or laurels for God from Israel’s prayers.
+
+[^279]: **We have found indemnification…** What ultimately saved Rabbi Kruspedai was his prominent quality of forgoing retribution, a willingness to forgive all who wronged him.
+
+    The story of Rabbi Kruspedai was woven together from a number of talmudic stories. On this section, see BT *Ta’anit* 25b: “An incident occurred involving Rabbi Eli’ezer, who ordained thirteen fasts upon the community and no rain fell. In the end, as the people began to depart [from the synagogue], he exclaimed, ‘Have you prepared graves for yourselves?’ The people broke down sobbing, and rain fell. It is further related of Rabbi Eli’ezer that once he descended before the ark [to lead the prayer service] and recited the twenty-four benedictions [for fast days] but he was not answered. Rabbi Akiva descended after him and exclaimed, ‘Our Father, our King, we have no king but You. Our Father, our King, for Your sake have mercy upon us,’ and rain fell. The Rabbis were whispering among themselves [about this preference for Rabbi Akiva]. A Divine Voice emerged, proclaiming, ‘This man was answered not because he is greater than the other man, but because he forgoes the right of retribution and the other does not.”
+
+    See BT *Rosh ha-Shanah* 17a: “He who waives the right to retribution is forgiven all his iniquities, as it says: *forgiving iniquity and passing over transgression* ([[Micah 7#^7-18|Micah 7:18]]). Who is forgiven iniquity? One who passes by transgression [against himself]. Rav Huna son of Rav Yehoshu’a was once ill. Rav Papa went to inquire about him. He saw that he was very ill and said to those present, ‘Make ready the provisions for his journey.’ Eventually, however, he recovered, and Rav Papa felt ashamed to see him. He said to him, ‘What did you see?’ He replied, ‘It was indeed as you thought,’ but the blessed Holy One said to them [the angels]: ‘Because he [Rav Yehoshu’a] does not insist upon his rights, do not be particular with [Rav Papa], as it says, *Forgiving iniquity and passing over transgression*. Who is forgiven iniquity? He who passes over transgression.’” See BT *Ḥagigah* 5b.
+
+    Rabbi Kruspedai appears only a few times in rabbinic writings, but he was probably selected as the subject of this story because of his famous statement in BT *Rosh ha-Shanah* 16b: “Rabbi Kruspedai said in the name of Rabbi Yoḥanan: ‘Three books are opened on Rosh Hashanah: one for the completely wicked, one for the completely righteous, and one for the intermediate. The completely righteous at once are inscribed and sealed in the book of life; the thoroughly wicked at once are inscribed and sealed in the book of death; the fate of the intermediate is suspended from New Year until the Day of Atonement: if they are deemed meritorious, they are inscribed in the book of life; if not, they are inscribed in the book of death.’”
+
+[^280]: **complete my study…** Rabbi Kruspedai was released from the clutches of the Angel of Death because of his redeeming quality of forgiveness; however, he had a persistent flaw of not having fully arranged and, perhaps, composed in writing, the fruits of his study. The Angel of Death would not depart empty-handed, so Rabbi Kruspedai’s more elderly namesake was delivered to him as a substitute. Cf. *Zohar Ḥadash* 54a.
+
+    Several talmudic stories relate that when an individual’s demise approaches, he encounters the Angel of Death; but he can seek a reprieve to review his learning. See BT *Mo’ed Qatan* 28a, *Ketubbot* 77b; cf. *Berakhot* 38b, *Pesaḥim* 68b. What distinguishes Rabbi Kruspedai here from those rabbis is that he requested time to complete his study. See *Nitsotsei Zohar*; *Matoq mi-Devash*. On the Angel of Death substituting a namesake, see BT *Ḥagigah* 4b–5a.
+
+    On the significance of remembering one’s learning, see M *Avot* 3:8, in the name of Rabbi Me’ir: “Of one who forgets one word of his learning, Scripture appraises him as liable for his own soul, as is said: *But take care, take exceeding care for your soul lest you forget the words that your own eyes have seen* ([[Torah 45 - Vaetchanan#^4-9|Deuteronomy 4:9]]).”
+
+    On Torah knowledge as a means of protection after death, see BT *Ḥagigah* 27a, in the name of Rabbi El’azar: “The fire of Hell has no dominion over scholars.” See *Seder Eliyyahu Rabbah* 1; *Midrash Mishlei* 10; *Zohar* 1:132a; 2:123b; 3:144a (*IR*), 196b; *[[Zohar 12.08 - Sitrei Otiyyot#^zh-2c|ZḤ* 2c]] (*SO*), 8d (*MhN*), 70d (*ShS*). Cf. *Zohar* 1:4a; 2:134b; 3:205b.
+
+[^281]: **tears on my cheeks…** Each interval of Rabbi Kruspedai’s trance corresponded to a particular episode in his travels. When he was weeping, it was from fear of the Angel of Death. His smile resulted from his joy in his salvation through *Shekhinah*. The role of Rabbi Oshaya is not clear. See *Matoq mi-Devash*; Mopsik.
+
+[^282]: ***Who pass through the Valley of Weeping*…** The word בכא (*bakha*) refers to a certain valley, through which pilgrims may have passed on their way into Jerusalem. Since it resembles the root בכה (*bkh*), “weep,” the Septuagint and Targum, followed by *Midrash ha-Ne’lam* here, interpret it as Valley of Weeping. Similarly, the word מורה (*moreh*), in the scriptural context, signifies *the early rain*, but is interpreted according to its homonym, “teacher.” Thus, Rabbi Kruspedai has survived the encounter with the Angel of Death, represented by the *Valley of Weeping*; he is destined to become a *fountain* of Torah as a result of his completion of his learning; and, as a *teacher* he will *cloak* his student *with blessings*.
+
+    The simple meaning of the verse is *Happy the folk whose strength is in You, the highways in their heart, who pass through the Valley of Baca, they make it into a spring—yes, the early rain cloaks it with blessings* (ibid., 6–7).
+
+[^283]: **Rabbi Yoḥanan…** Although Rabbi Kruspedai returned bearing news of Rabbi Yoḥanan’s imminent death, Rabbi Yoḥanan praises Rabbi Kruspedai for reaffirming faith in God’s goodness and the beauty of Torah, even in the face of death.
+
+    On besmirching the world, see *Zohar* 1:73a.
+
+[^284]: ***Naomi said*…** The author has conflated two verses in inverse order. On discrepancies between the MT and Zoharic citation, see above, p. 5, n. 6. Cf. *Hadrat Qodesh*.
+
+[^285]: **he turned aside…** On the critique of Elimelech’s departure on account of the famine, see BT *Bava Batra* 91a; *Rut Rabbah* 1:4.
+
+[^286]: **practice of the righteous…** All three patriarchs left the land of Canaan during times of famine, so Elimelech’s behavior seems unexceptional, even appropriate.
+
+    See [[Torah 03 - Lech Lecha#^12-10|Genesis 12:10]]; [[Torah 06 - Toldot#^26-1|26:1]]; [[Torah 11 - Vayigash#^45-9|45:9–13]]. See also BT *Bava Qamma* 60b: “Our Rabbis taught: ‘When there is a famine in town, withdraw your feet [i.e., get moving], as stated: *And there was a famine in the land; and Abram went down to Egypt to sojourn there* ([[Torah 03 - Lech Lecha#^12-10|Genesis 12:10]]).’ Cf. BT *Bava Metsi’a* 75b.
+
+[^287]: **he dwelt with them…** The text is fragmentary. It implies that Elimelech lived among righteous people, so his case was different from that of the patriarchs. He was punished for his callousness in the face of his people’s suffering, and for his preference to live among Gentiles—given that the famine was no less severe in Moab than in the land of Israel.
+
+[^288]: **[81a]…** The material spanning 80c–81a was translated above. See pp. 79–85.
+
+[^289]: **the event derived from judgment…** In the biblical story, David consults an oracle to inquire about the reason for the famine, and he is informed that it is the consequence of Saul’s murder of Gibeonites.
+
+    See BT *Yevamot* 78b: “*David sought out the presence of YHVH*. What does this mean? Resh Lakish explained, ‘He inquired of the Urim and Thummim…’ *And YHVH said, ‘On account of Saul and on account of the house of bloodguilt, because he put the Gibeonites to death.’ On account of Saul*—because he was not eulogized properly; *and on account of the house of bloodguilt*—because he put to death the Gibeonites. Where, however, do we find that Saul put to death the Gibeonites! The truth is that since he killed the inhabitants of Nob—the city of priests—who were supplying them with water and food, Scripture regards it as if he himself had killed them. Justice is demanded for Saul because he was not properly eulogized, and justice is demanded because he put to death the Gibeonites? Yes, as Resh Lakish said, ‘What is meant by the verse *Seek righteousness, seek humility; perhaps you will be hidden on the day of YHVH’s wrath* ([[Zephaniah 2#^2-3|Zephaniah 2:3]])? Where there is his judgment, there are also his executions.’” See JT *Sanhedrin* 6:7, 23d; *Bemidbar Rabbah, Naso* 8:4.
+
+    [[II Samuel 21#^21-1|2 Samuel 21:1]] reads in full: *There was a famine in the days of David for three years*, *year after year. And David sought out the presence of YHVH. And YHVH said, ‘On account of Saul and on account of the house of bloodguilt, because he put the Gibeonites to death.’*
+
+    [[II Samuel 21#^21-14|2 Samuel 21:14]] reads in full: *And they buried the bones of Saul and of Jonathan his son in the territory of Benjamin in Zela, in the tomb of Kish his father; and they did all that the king had charged. And God then granted the plea for the land*.
+
+[^290]: **drippings of the land of Israel…** The prominence of the land of Israel elicits benefits and misfortune. Its relationship with Divinity is unmediated so it receives preeminent blessings, but when judgment rules the world, Israel is punished first.
+
+    See BT *Ta’anit* 10a: “The land of Israel drinks water directly from the rain, while the rest of the world drinks of the drippings [Munich MS continues: of the land of Israel].”
+
+    See Naḥmanides on [[Torah 46 - Eikev#^11-10|Deuteronomy 11:10–12]]; *Zohar* 1:84b, 108b, 255b (*Hash*); 2:22b, 152b; 3:209a–b, 265b; *[[Zohar 10.03 - Parashat Be-Reshit#^zh-9d|ZḤ* 9d]] (*MhN*), 61b (*MhN, ShS*), 87d (*MhN, Rut*).
+
+[^291]: **Elimelech was righteous…** In contrast to David—who sought the welfare of the land and its inhabitants—Elimelech simply fled, abandoning his people. His sons, too, rejected their people by marrying Moabite women.
+
+[^292]: **Uzza and Aza’el…** According to ancient legend, the angels Uzza and Aza’el opposed the creation of Adam and Eve, fell from heaven, and were attracted by *the daughters of men* ([[Torah 01 - Bereshit#^6-2|Genesis 6:2]]).
+
+    See 1 Enoch 6–11; Jubilees 5:1–8; *Targum Yerushalmi* on [[Torah 01 - Bereshit#^6-4|Genesis 6:4]]; BT *Yoma* 67b; *Pesikta Rabbati* 34; *Pirqei de-Rabbi Eli’ezer* 22; *Yalqut Shim’oni*, Genesis 44; *Shemḥazi ve-Aza’el* (*Beit ha-Midrash*, 4:127–28); Schäfer, *Synopse zur Hekhalot Literature*, §8; Rashi on *Niddah* 61a, s.v. *benei aḥi’ah*; *Zohar* 1:9b, 19b, 23a (*TZ*), 25a–b (*TZ*), 37a, 37a (*Tos*), 55a, 58a, 126a, 133b; 2:112b, 178b–179a (*SdTs*); 3:60b, 144a (*IR*), 194a, 207b–208b, 212a–b, 233a–b; Ginzberg, *Legends*, 1:147–51; 4:169–72; Tishby, *Wisdom of the Zohar*, 631–32; Bamberger, *Fallen Angels*; Reed, *Fallen Angels*. Cf. Testament of Solomon 6:1–4; Orlov, *Dark Mirrors*, 47–81.
+
+    On rabbinic discomfort with this legend, see *Bereshit Rabbah* 26:5 (and note of Theodor-Albeck): “*The sons of God saw that the daughters of humankind*. Rabbi Shim’on son of Yoḥai called them ‘sons of judges.’ Rabbi Shim’on son of Yoḥai cursed all who called them ‘sons of God.’” See *Targum Onqelos* on [[Torah 01 - Bereshit#^6-2|Genesis 6:2]], [[Torah 01 - Bereshit#^6-4|4]]; *Targum Yerushalmi* and Rashi on [[Torah 01 - Bereshit#^6-2|Genesis 6:2]].
+
+[^293]: **אישים (*ishim*), and…אלהים‎ בני (*benei elohim*), sons of God…** The transition from heavenly realms to the mundane necessitates a translation from the spiritual to the material. In order for angels (or other ethereal entities, such as manna) to descend into this world, they must take on aspects of the material world as garments. Both wind and fire are necessary for the angels to appear in this world, so the angels composed of fire contribute fire to those composed of wind, and vice-versa.
+
+    Popular etymology suggests a relationship between אישים (*ishim*), “fiery beings; angels,” and איש (*ish*), “man,” indicating metaphysical similarity. Though the usual biblical plural of *ish* is אנשים (*anashim*), *ishim* does appear three times as the plural form ([[Isaiah 53#^53-3|Isaiah 53:3]]; [[Psalms 141#^141-4|Psalms 141:4]]; and [[Proverbs 08#^8-4|Proverbs 8:4]]). Similarly, the fact that the אלהים‎ בני (*benei elohim*), “sons of God,” were able to blend in with humanity suggests their near-parity as well.
+
+    On the materialization of spiritual entities, see Naḥmanides on [[Torah 04 - Vayera#^18-1|Genesis 18:1]]; *Zohar* 1:34a–b, 58a, 81a (*ST*), 98b (*ST*), 101a, 144a; 2:197a, 229b, 231a; 3:126b, 152a, 155b, 208a; *[[Zohar 12.11 - Zohar al ha-Parashot#^zh-48c|ZḤ* 48c]] (*MhN*); Moses de León, *Sefer ha-Rimmon*, 316–17. Cf. *Zohar* 2:61b; Moses de León, *Sefer ha-Rimmon*, 395.
+
+    See BT *Bava Qamma* 86b: “Rabbi Tanḥum son of Ḥanilai said, ‘One should never deviate from custom; for look, Moses ascended on high and ate no bread, whereas the ministering angels [who appeared to Abraham] descended below and ate bread.” See *Bereshit Rabbah* 48:14; *Zohar* 1:102a.
+
+    On the names of different kinds of angels, see Maimonides, *Hilkhot Yesodei ha-Torah* 2:7: “The differing nomenclature of the angels corresponds to their rank. Thus they are called: *ḥayyot ha-qodesh* (which are superior to them all), *ofanim, er’elim, ḥashmalim, seraphim, mal’akhim, elohim*, sons of *elohim, keruvim*, and *ishim*…. The tenth category is the rank of form called *ishim*, because their level is closest to the level of human knowledge.” See ibid. 7:1; *Zohar* 1:81a (*ST*); 2:43a (*RM*); *[[Zohar 10.03 - Parashat Be-Reshit#^zh-6a|ZḤ* 6a]] (*MhN*), 33b; Todros Abulafia, *Otsar ha-Kavod, Rosh ha-Shanah* 24b, p. 17a.
+
+    On angels returning heavenward once they have completed their task, see *Bereshit Rabbah* 50:2; *Tanḥuma, Vayera* 8.
+
+[^294]: ***He makes winds His messengers*…** The verse in Psalms reads: לוהט‎ אש‎ משרתיו‎ רוחות‎ מלאכיו‎ עושה (*oseh mal’akhav ruḥot, mesharetav esh lohet*), whose simple meaning is: *He makes winds into His messengers, flaming fire into His ministers*. Here, Rabbi Kisma adopts a midrashic reading that transposes the objects being acted upon with their described end state.
+
+    See *Pirqei de-Rabbi Eli’ezer* 4: “When they are sent off by His word, they are made into winds; and when they minister before Him, they are made into fire, as is said: *He makes His angels winds, His ministers flaming fire*.”
+
+    See *Tanḥuma, Ḥayyei Sarah* 3; Maimonides, *Mishneh Torah, Hilkhot Yesodei ha-Torah* 2:4; Naḥmanides on [[Torah 04 - Vayera#^18-1|Genesis 18:1]]; [[Torah 12 - Vayechi#^49-33|49:33]]; Jacob ben Sheshet, *Meshiv Devarim Nekhoḥim*, 77; *Zohar* 1:40b (*Heikh*), 58a, 81a (*ST*), 101a, 144a; 2:10a, 98b, 173a–b, 229b, 231a; 3:9b, 126b, 152a; *[[Zohar 10.03 - Parashat Be-Reshit#^zh-10a|ZḤ* 10a]] (*MhN*); Moses de León, *Sefer ha-Rimmon*, 316–17; idem, *Sefer Mishkan ha-Edut*, 128; Gikatilla, *Peirush ha-Merkavah*, 54–55; Cohen-Alloro, 29; Wolfson, “The Secret,” xxv–xxvii.
+
+[^295]: **blend into this world…** After seven days, a spiritual entity—angel or human soul—becomes attached to its physical abode. In this case, two factors weighted them down: the angels mixed in the elements of water and earth to their composition, and in addition, they saw the beauty of *the daughters of humankind* and were apparently smitten. See *Zohar* 1:23a, 25a (both *TZ*); 3:43b, 206a; *Matoq mi-Devash*.
+
+[^296]: **magical arts…** See 1 Enoch 7–8: “And they taught them magical medicine, incantations, the cutting of roots, and taught them about plants…. And Aza’el taught the people the art of making swords and knives, and shields, and breastplates; and he showed to their chosen ones bracelets, decorations… ornamentation, the beautifying of the eyelids, all kinds of precious stones, and all coloring tinctures and alchemy.”
+
+    On the *Ancient Mountains*, cf. [[Torah 54 - V'Zot HaBerachah#^33-15|Deuteronomy 33:15]].
+
+[^297]: **Balaam acquired his sorcerer’s skill…** On Balaam’s learning of the magical arts, see *Zohar* 1:126a.
+
+[^298]: **to subvert the celestial family…** Part of Uzza’s and Aza’el’s crime was to defy the natural order and undermine the boundaries of different species, by mating with human women. Were they to continue, the world could not endure.
+
+    The phrase “subvert the celestial Family” renders דלעילא‎ פמליא‎ אכחיש (*akhḥish pamalya di-l’eila*), which derives from BT *Sanhedrin* 67b, where Rabbi Yoḥanan asks, “Why are they called מכשפים (*mekhashephim*), sorcerers? Because sorcerers מעלה‎ של‎ פמליא‎ מכחישין (*makhḥishin pamalya shel ma’lah*), subvert [or: negate, impair, deny] the celestial Family [i.e., the heavenly household; divine agents].”
+
+    See BT *Ḥullin* 7b; *Tanḥuma, Mi-Qets* 2; *Zohar* 1:243b; 3:86b; Moses de León, *Sefer ha-Rimmon*, 279.
+
+[^299]: **suckle from the north…** North is the side of Judgment, and all malevolent forces derive from there.
+
+[^300]: **Na’amah…** Na’amah, whose name means “lovely,” was the sister of Tubal-Cain and a great-great-great-great-grand-daughter of Cain ([[Torah 01 - Bereshit#^4-22|Genesis 4:22]]). According to rabbinic tradition, the fallen angels were attracted by her beauty.
+
+    See *Tanḥuma* (Buber), *Ḥuqqat*, add. 1; *Midrash Aggadah* and *Midrash ha-Gadol* on [[Torah 01 - Bereshit#^4-22|Genesis 4:22]]; Naḥmanides on [[Torah 01 - Bereshit#^4-22|Genesis 4:22]]; *Zohar* 1:9b, 19b, 55a; 3:76b–77a; *[[Zohar 10.03 - Parashat Be-Reshit#^zh-19d|ZḤ* 19d]] (*MhN*); *Mal’akhei Elyon*, 246–48.
+
+[^301]: **mother of demons…** In the *Zohar*, Na’amah is the mother of Ashmedai, king of the demons. She is often said to generate demons by seducing men in their sleep. Here, she is the seductive spirit that causes the fallen angels to stray after human women.
+
+    See Naḥmanides on [[Torah 01 - Bereshit#^4-22|Genesis 4:22]]; *Zohar* 1:9b, 19b, 55a; 3:76b–77a; *[[Zohar 10.03 - Parashat Be-Reshit#^zh-19d|ZḤ* 19d]] (*MhN*).
+
+    The full verse reads: *The Nephilim* [or: *fallen ones*] *were on earth in those days—and afterward as well—when the sons of God came in to the daughters of humankind, who bore them children. These are the heroes of old, men of renown*.
+
+[^302]: ***men of the name*…** Rabbi Shalom offers a hyperliteral reading of the phrase שם‎ אנשי (*anshei shem*), *men of renown*. The invocation of a name—divine or demonic—is a central feature of magical practice, and it is fitting that the descendants of the fallen angels, who had taught magical arts to humanity, should be masters of names. (Typically, however, names are used in particular situations, to achieve particular goals, rather than being permanently associated with some object in nature, as indicated here.)
+
+    See Luria, *Pirqei de-Rabbi Eli’ezer* 7, n. 32. On the use of names in magical practice, see Trachtenberg, *Jewish Magic and Superstition*, 78–103; Bohak, *Ancient Jewish Magic*, 17–18, 117–19, 305–7, 376–78; Harari, *Early Jewish Magic*, 245–55, 258–61.
+
+    In its simple sense, the verse from Genesis reads: *The Nephilim* [or: *fallen ones*] *were on earth in those days—and afterward as well—when the sons of Elohim came in to the daughters of humankind, who bore them children. These are the heroes of old, men of renown*.
+
+[^303]: ***Men of the name*—actually…** Rabbi Yehudah and Rabbi Yose use the word ממש (*mamash*), “actually,” to signal that the formula שם‎ אנשי (*anshei shem*) refers to *men of Shekhinah*. They derive this from the presence of the word גברים (*gibborim*), *heroes* [or: *warriors*], in both [[Torah 01 - Bereshit#^6-4|Genesis 6:4]] and [[Song of Songs 3#^3-7|Song of Songs 3:7]]. Their teaching is not fully explicated, but somehow they have concluded that either the *sons of God* or their offspring are *heroes* dedicated to *Shekhinah*.
+
+    In its simple sense, the verse from Song of Songs reads: *Behold the bed of Solomon! Sixty warriors surrounding her, of the warriors of Israel*.
+
+    See Sullam. On *Shekhinah* as God’s name, see *Targum Onqelos* and *Targum Yerushalmi* on [[Torah 17 - Yitro#^20-21|Exodus 20:21]].
+
+    ממש (*Mamash*), “Actually,” is a technical term that signals the transparency of the mundane world to the supernal world and, from a hermeneutical perspective, “an overlapping of exoteric and esoteric signification.” See Wolfson, “Beautiful Maiden,” 80–88.
+
+[^304]: ***heroes of Israel*…** Rabbi Yitsḥak rejects the previous teaching on the grounds that the verse identifies the *men of the name* as *heroes of Israel*, which the fallen angels are clearly not.
+
+[^305]: **Why is witchcraft more common among women…** The biblical prohibition specifies a female practitioner of sorcery, prompting Rabbi Azariah’s question.
+
+    See BT *Sanhedrin* 67a: “Most women engage in witchcraft.” In *Soferim* 15:7, Rabbi Shim’on bar Yoḥai teaches: “The most worthy of women practices witchcraft.” See M *Avot* 2:7; JT *Qiddushin* 4:14, 66b; Rashi, Rashbam, and Ibn Ezra on [[Torah 18 - Mishpatim#^22-17|Exodus 22:17]]; *Zohar* 1:126a–b; Fishbane, “Most Women Engage in Sorcery.”
+
+[^306]: ***No* רעה (*ra’ah*), *evil, will befall you*…** With his interpretation of the verse from Psalms, Rabbi Yose concedes that wickedness comes in both male and female forms: in the word-pair *evil* and *affliction*, one is female and the other is male. By citing the verse from Ecclesiastes, he demonstrates that females are far more malevolent.
+
+    The word “depths” renders עומקין (*umqin*; singular *umqa*), which is used by *Targum Onqelos* to signify the word שאת (*se’et*), *inflammation* [or: *swelling*], one of the features of the skin disease *tsara’at*, generically called *nega*, “affliction.”
+
+    The verse from Ecclesiastes reads in full: *I find woman more bitter than death. For she is all snares, and nets her heart, and fetters her hands. He who is good before God will escape her, and an offender will be trapped by her*.
+
+    On women’s propensity for sorcery, see Tishby, *Wisdom of the Zohar*, 3:1358 and notes there; Koren, *Forsaken*, 114–16.
+
+    See *Targum Onqelos* on [[Torah 27 - Tazria#^13-2|Leviticus 13:2]], [[Torah 27 - Tazria#^13-10|10]], [[Torah 27 - Tazria#^13-19|19]]; [[Torah 28 - Metzora#^14-56|14:56]]; cf. [[Ecclesiastes 07#^7-24|Ecclesiastes 7:24]]. See Fox on [[Ecclesiastes 07#^7-24|Ecclesiastes 7:24]], [[Ecclesiastes 07#^7-26|26]]; Alter on ibid. 7:26.
+
+[^307]: ***fetters her hands*…** How should one understand Ecclesiastes’ assertion that the seductress’s *hands* (or *arms*) are fetters? Rabbi Yannai explains that a man’s contact with a woman, even with just her hand, is so sexually seductive that it plunges him into hell. On account of the sexual desire she arouses, her *hands* themselves are *fetters*.
+
+    See BT *Berakhot* 61a: “Our Rabbis taught: If a man counts out money from his hand into the hand of a woman so as to have the opportunity of gazing at her, even if he has assets of Torah and good deeds like Moses our teacher, he shall not escape the punishment of Geihinnom, as it says: *Hand to hand, evil will not go unpunished*—he shall not escape the punishment of Geihinnom.” See BT *Eruvin* 18b.
+
+    See BT *Kallah* 1:3: “Rabbi El’azar son of Azariah warned with three hundred rams’ horns, ‘Whoever receives a cup from the hand of a bride, and drinks it, has no portion in the world to come.”
+
+    On the dangers of magic being passed hand to hand, see *Zohar* 2:192a.
+
+[^308]: **women would murder and bring death…** Rabbi Yehoshu’a offers a harsher interpretation of the verse from Ecclesiastes. Heaven restrains woman and *her hands are fettered*, because if not, women’s sexual allures and magical practices would bring death and destruction to the entire world. According to Rabbi Yannai, danger is contingent upon a man’s incautious behavior; here, women’s danger is so pervasive that it is only heaven’s restraint upon her that protects the world.
+
+[^309]: **she originates in his depths…** Since woman emerges from man—in Genesis 2 and as elaborated in kabbalistic literature—she has intimate knowledge of his thinking and can easily entrance him, coercing him by administering oaths with impure names and sorcery. In the hierarchy of language and action, language is associated with the male and action with the female, but woman remains responsible for eliciting both.
+
+    *Matoq mi-Devash* interprets the references to male and female here as symbolic of gender in the demonic realm. On female rootedness within the male, see Wolfson, “Re/membering the Covenant”; idem, *Language, Eros, Being*, 142–89.
+
+[^310]: **One who passes between two women…** In ancient and medieval times, menstruating women were considered to be sources of contagion, whose gaze emitted toxins that could pollute the air and have murderous effects upon men where their gaze alighted. Even if these women are not menstruating, their behavior is suspicious and they are likely casting an evil eye upon passersby. That is, these women can harm men simply by looking at them.
+
+    See BT *Pesaḥim* 111a: “When two women sit at a crossroad, one on one side of the road and one on the other side, facing each other, they are certainly engaged in witchcraft. What is the remedy? If there is another road, let him go that way. But if there is no other road, then if another man is with him, let them clasp hands and switch places. If there is no other person, let him recite: ‘Iggeret, Azlat, Asiya, Belusiya [the demons whose aid you seek] are killed by arrows.’”
+
+    On the fear of menstrual blood as a repository of demonic forces, see Milgrom, *Leviticus*, 1:948–53. On the menstrual gaze, see Koren, *Forsaken*, 106–9. On the evil eye, see Trachtenberg, *Jewish Magic and Superstition*, 54–56; Kern-Ulmer, “The Power of the Evil Eye,” 344–53, especially 350–51; idem, *The Evil Eye*.
+
+[^311]: **Go away, go away!…** This formula will unbind whatever evil spell the woman has cast. It is recommended for anyone who passes between two women.
+
+    See BT *Pesaḥim* 111a: “Our Rabbis taught: ‘There are three who must not pass between [two men], nor may [others] pass between them—a dog, a palm tree, and a woman.’ Some say: ‘a swine, too’; some say: ‘a snake, too.’ If they do pass between, what is the remedy? Rav Papa said, ‘Let them recite [a verse] commencing with *El* and [a verse] concluding with *El*.’” See Rashi, Rashbam, *Tosafot*.
+
+[^312]: **a woman following behind him…** This is another story demonstrating women’s engagement with witchcraft, but this one shows the superior power of rabbinic holiness and learning, as Rav Huna easily dispels her magical attempts.
+
+    In the talmudic source, it is Ḥanina son of Dosa, the wonder worker, who deflects the witch’s spell. See BT *Sanhedrin* 67b: “A woman once attempted to take dirt from under Rabbi Ḥanina’s feet. He said to her, ‘If you succeed in your attempts, go and practice it [sorcery].’” See BT *Ḥullin* 7b.
+
+[^313]: ***He who is good before God*…** Rabbi Ḥiyya teaches that it is righteousness and piety that protects one from witchcraft.
+
+[^314]: **famine in town…** The homily proceeds to other dangers that are contingent on visibility. If one does not take precautionary measures during dangerous times, one is liable for one’s own demise.
+
+    The simple meaning of the verse in its context ([[Torah 10 - Miketz#^42-1|Genesis 42:1–2]]) reads: *Jacob saw that there were provisions* [or: *that there was grain*] *in Egypt, and Jacob said to his sons*, “תתראו‎ למה (*lammah titra’u*), *Why do you keep looking at one another?*” Jacob discerns the brothers’ unease regarding the prospect of a return trip to Egypt, expressed (with the reflexive verb form) as *looking at one another*. Here Jacob’s question is interpreted to mean, literally, *Why are you allowing yourselves to be seen*, [*since that exposure could be dangerous*]*?*
+
+    See BT *Bava Qamma* 60a–b: “Rabbi Yosef taught: ‘What is the meaning of the verse *None of you shall go out from the entrance of his house until morning* ([[Torah 15 - Bo#^12-22|Exodus 12:22]])? Once permission has been granted to the Destroyer, he does not distinguish between righteous and wicked. Moreover, he begins with the righteous first, as is said: *I will wipe out from you both the righteous and the wicked* ([[Ezekiel 21#^21-8|Ezekiel 21:8]])’… Our Rabbis taught: ‘A plague in town? Keep your feet indoors.’… Our Rabbis taught: ‘A plague in town? One should not walk in the middle of the road because the Angel of Death walks there—for as soon as permission has been granted him, he strides brazenly.’”
+
+    See *Mekhilta, Pisḥa* 11; *Zohar* 1:63a, 64b, 67b–69a, 101b–102a, 107b, 113a, 182b, 197b, 204b; 2:36a, 196b–197a, 227a; 3:38b, 54a–b; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-77a|ZḤ* 77a]] (*MhN, Rut*).
+
+    On this reading of [[Torah 10 - Miketz#^42-1|Genesis 42:1]], see *Targum Onqelos*; BT *Ta’anit* 10b; *Bereshit Rabbah* 91:2; *Tanḥuma, Mi-Qets* 8; *Tanḥuma* (Buber), *Mi-Qets* 8; *Zohar* 1:197b; Sarna. Cf. *Zohar* 1:208a. On the significance of outward display, see Hecker, *Mystical Bodies, Mystical Meals*, 130–41.
+
+[^315]: **Why were Mahlon and Chilien punished…** Naomi and her family had left the land of Israel—where there was famine—so that they would not appear satiated while everyone else was hungry; she returned only when word arrived that the famine had ended and food was available. If so, why were her sons punished, since they had conducted themselves appropriately? Because they had married outside the fold.
+
+    See *Sullam*; *Matoq mi-Devash*. The context in Ruth reads: *they lived there about ten years… for in the fields of Moab she had heard that YHVH had taken note of His people and given them food*.
+
+[^316]: **no women in the world…** like the Moabites… The power of the Moabite women’s power was such that when the Israelites ate just a morsel of food produced by their sorcery, the men were ensnared and began worshipping Moabite idols.
+
+    The context in Numbers reads: *The people began to go whoring with the daughters of Moab. And they called the people to the sacrifices of their gods, and the people ate and bowed down to their gods. And Israel clung to Baal Peor, and the wrath of YHVH flared against Israel* ([[Torah 40 - Balak#^25-1|Numbers 25:1–3]]).
+
+[^317]: **Like the clinging of bracelets…** Just as they were attached to and adored their own jewelry, so did they cling to Baal Peor. See BT *Sanhedrin* 64a; *Bemidbar Rabbah* 20:23.
+
+[^318]: **how to utter words…** The simple meaning of the phrase *by Balaam’s word* is that he had ordered them to entice the Israelite men. Rabbi Yose here reads the phrase hyperliterally to mean that it was Balaam’s words, and the mode of uttering them, that signified their advance in magical knowledge.
+
+    For his part, Rabbi Yoḥanan emphasizes Ruth’s uniqueness—a recurrent theme in this work—by asserting that Ruth was worthy and uninvolved with the magical arts. Cf. Mopsik, n. 285.
+
+    The full verse in Numbers reads: *Look, these are the ones who led the Israelites by Balaam’s word to trespass against YHVH in the affair of Peor, and there was a scourge against the community of YHVH*.
+
+[^319]: ***to her daughters-in-law*…** MT reads: *Naomi said to her two daughters-in-law*. On scriptural variants in the *Zohar*, see above, p. 5, n. 6.
+
+[^320]: **If you are worthy… יעשה (*ya’aseh*), *May* [*YHVH*] *treat*…** Masoretic tradition indicates that the word should be written יעשה but vocalized יעש (*ya’as*), where—according to the *Zohar*—the letter ה (*he*) signifies *Shekhinah*. In this homily, the discrepancy registers the righteousness of Ruth and Orpah: if they are saintly, *Shekhinah* will be with them, and if not, they will be deprived of that protection.
+
+[^321]: **מכם (*mi-kem*), *from you*…** The homily picks up on the unusual use of the preposition מן (*min*) attached to the pronominal suffix כם (*khem*), *you*. While the simple meaning of the verse reads the preposition comparatively: *it has been far more grievous for me than for you*, the speaker indicates that a more common expression—עליכם (*aleikhem*)—could have been chosen to convey that point. Consequently, he interprets מן (*min*) as *from*, to indicate that Ruth and Orpah are the direct causes of Naomi’s distress.
+
+    MT reads: מאד‎ לי‎ מר (*mar li me’od*), *far more bitter for me*, rather than מאד‎ לי‎ צר (*tsar li me’od*), *far more grievous for me*, as here. On scriptural variants in the *Zohar*, see above, p. 5, n. 6.
+
+    The further explanation is offered in the name of Rabbi Bizna, according to a number of the manuscripts, though other manuscripts and printed editions variously read the name as Kizba, Kahana, and Ukba.
+
+    The second half of the verse reads: *Enough, my daughters, it has been far more bitter for me than for you; indeed, the hand of YHVH has struck me*.
+
+[^322]: **הרפה, Harafah was her name…** Rabbinic tradition offers a series of pejorative interpretations of the name Orpah, identifying her with Harafah from [[II Samuel 21#^21-18|2 Samuel 21:18]]. The term הרפה (*ha-rafah*) means literally *the giant* [or: *titan*; *race of giants*], but because of its similarity to Orpah it is used for wordplay. Ultimately, the sons of Orpah—the one who turned away from Naomi and her values—fell at the hands of David, the paramount descendant of Ruth, who affirmed Jewish faith and practice.
+
+    See BT *Sotah* 42b, cited above, note 220.
+
+[^323]: ***Ishbi of Nob*…** The name of David’s assailant is actually Ishbi-benob, but the *Zohar* reads it as Ishbi of Nob, to highlight his connection to the events at Nob. In fact, the battle with the Philistines occurred at Gob, rather than Nob, thus prompting the question. Rabbi Pinḥas explains that the name בנוב‎ ישבי (*yishbi be-nov*), Ishbi-benob, is a play on words. See [[II Samuel 21#^21-18|2 Samuel 21:18]] and the next note.
+
+[^324]: **For [David] had prompted the affair at Nob…** 1 Samuel 21–22 recounts an episode during David’s flight from Saul when the latter was trying to assassinate him. David went to the priestly town of Nob and told Ahimelech the priest that he was the king’s emissary, when in fact he was seeking refuge from Saul’s pursuit. An assistant of Saul’s, Doeg the Edomite, saw the affair and, when he supplied the information to the king, King Saul assigned Doeg the task of decimating the city, including women and children. Only Abiathar, one of Abimelech’s sons, survived the slaughter and when he told David of the events, David said, *I am the one who caused the loss of all the lives of your father’s house* ([[I Samuel 22#^22-22|1 Samuel 22:22]]).
+
+    Even though Saul actually perpetrated the crime, rabbinic tradition holds David responsible for the massacre in Nob, telling an elaborate tale of the various attempts to take revenge on him—and the miracles that save his life. The crimes committed at Nob are said to lead ultimately to Sennacherib’s invasion and siege of Jerusalem, as intended to requite the sin. *Midrash ha-Ne’lam* on Ruth proceeds to tell much of that story here.
+
+    Though David’s infraction does not seem to call for the catastrophe that followed, in rabbinic tradition God is said to be exacting regarding the sins of the righteous. See BT *Yevamot* 121b, in the name of Rabbi Abba: “The blessed Holy One deals strictly with those around Him, even to a hairbreadth.’”
+
+    On Nob and its destruction, see BT *Sanhedrin* 95a–b; cf. *Zohar* 1:63b; 2:49b, 224a. On the higher standard set for the righteous, see *Mishnat Rabbi Eli’ezer* 11, p. 217; JT *Sheqalim* 5:1, 48d; BT *Bava Qamma* 50a; *Tanḥuma, Balaq* 20; *Tanḥuma* (Buber), *Balaq* 29; *Bemidbar Rabbah* 20:24; *Zohar* 1:140a, 185b; 2:247b (*Heikh*); *ZḤ* 34b.
+
+[^325]: **This is the one who killed your brother…** According to the tale in BT *Sanhedrin* 95a, Goliath was Ishbi’s brother, and Ishbi noticed David himself. See above, note 220.
+
+[^326]: **let my seed be enduring…** See BT *Sanhedrin* 95a, in the name of Rav Yehudah: “The blessed Holy One said to David, ‘How long will this crime be concealed in your hand? By your hand Nob, the city of priests, was massacred; by your hand, Doeg the Edomite was banished; and by your hand, Saul and his three sons were slain. Should your seed be ended, or shall you be delivered into the enemy’s hand?’ He replied: ‘Master of the Universe! I would rather be delivered into the enemy’s hand than that my line should end.’”
+
+    In the talmudic version of the story (BT *Sanhedrin* 95a), it is Abishai who utters the Ineffable Name, as an interpretation of *Abishai son of Zeruiah came to his aid* ([[II Samuel 21#^21-17|2 Samuel 21:17]]), but the oldest manuscripts do not specify here who utters God’s name, while the context suggests that it is David. On this passage, see *Sullam*; *Matoq mi-Devash*; Mopsik; Englander.
+
+    On Ishbi’s attempt to crush David beneath his own weight and with the use of his מטה (*matteh*), “staff,” a midrashic tradition teaches: “He shoved him beneath the legs of המטה (*ha-mittah*), the bed,… to crush all his limbs.” See *Midrash Goliat ha-Pelishti* (*Beit ha-Midrash*, 4:140).
+
+[^327]: **riding a king’s horse…** See M *Sanhedrin* 2:5: “None may ride on [the king’s] horse, none may sit on his throne, and none may make use of his scepter. None may see him while his hair is being cut, nor while he is naked, nor while he is in the bathhouse, as is written: *You shall surely put over you a king* ([[Torah 48 - Shoftim#^17-15|Deuteronomy 17:15]])—one whose awe shall be over you.” Abishai is asking whether the mishnah’s rule applies in extenuating circumstances, such as when the king’s life is in danger.
+
+    Abishai counsels David to reverse his request to God, petitioning now that his own life be preserved rather than his line. See BT *Sanhedrin* 95a: “[Abishai] said to him, ‘Retract your prayer!… Better that your grandson sell wax rather than that you should suffer!’”
+
+[^328]: ***How can I give back to YHVH*…** The simple meaning of this verse is one of thankfulness: *How can I give back to YHVH for all he requited to me?* In this crisis, David has accepted his fate and asks Abishai how he could possibly recant that consent. At this point, the text appears to conflate two different rabbinic traditions. BT *Yevamot* 77a relates that Doeg questioned the legitimacy of King David when the latter was being prepared by Saul for battle with Goliath. The Talmud cites a tradition from the court of the prophet Samuel: “*An Ammonite* ([[Torah 49 - Ki Teitzei#^23-4|Deuteronomy 23:4]]), but not an Ammonitess; *a Moabite* (ibid.), but not a Moabitess.” What is probably intended, however, is the following from BT *Berakhot* 10a, with Hezekiah speaking in the name of King David: “This tradition I have from the house of my ancestor: ‘Even if a sharp sword rests upon a man’s neck, he should not desist from prayer.’” In *Midrash ha-Ne’lam* on Ruth, David’s insight leads him to pray for his own salvation, instead of on behalf of his descendants. *Sullam* suggests that the aid that Abishai provided was precisely this advice. Cf. *Midrash Tehillim* 4:3.
+
+[^329]: ***she killed off… she spoke*…** The two verses offer contradictory versions of the events. In 2 Kings, Athaliah (the queen mother) dispatches all the royal descendants in Jerusalem, while in 2 Chronicles, she merely predicts the ultimate demise of David’s seed.
+
+[^330]: **measure for measure…** Just as one of the offspring of Ahimelech remained alive, so too did Joash, one of David’s progeny, survive. See above, note 324.
+
+[^331]: **Attribute of Judgment still stands…** Even though an extraordinary toll had been taken from David, still the prosecuting angel insists that judgment has not been adequately meted out. Though Divine Judgment is strict with King David, one of the great leaders of Israel, one is to derive comfort from the much harsher punishment rendered to the wicked.
+
+[^332]: ***to her people and to her gods*…** Naomi explicitly distinguishes between Orpah and Ruth, using the third person *her people and her gods* to highlight their contrasting commitments. On the expression *her gods*, see above, note 219.
+
+[^333]: **she had been a convert…** There is considerable dispute within rabbinic literature and here in *Midrash ha-Ne’lam Rut*, about whether Orpah and Ruth had converted before they married Chilion and Mahlon, respectively, and to what extent potential intimidation in marriage undermines conversion.
+
+    In medieval interreligious polemics, foul odors are frequently ascribed by one group to another as a way of demeaning their religions. See Cuffel, *Gendering Disgust*, index, s.v. smell, stench, stinking.
+
+    On the timing of Ruth’s and Orpah’s conversions, see above, note 217. On Orpah’s backsliding, see previous note.
+
+[^334]: **he cautioned her…** Rabbi Brokah wonders about the apparent redundancy of the verse, in its saying that Abraham placed upon her, after already indicating that he had given her food and water. He explains that the second iteration signifies Abraham’s admonition to Hagar (who came originally from Egypt) to maintain her fidelity to the true God. Like Orpah and Naomi, Hagar was also leaving the confines of a household that could enforce her religious practice, and so she henceforth faced a test of her commitment.
+
+    The context of the verse from Exodus—the episode at Marah, in which Moses is given a tree to sweeten the bitter waters—as interpreted by the rabbis, calls for complete adherence to Torah. Because the key term שם (*sam*), “*placed, set*,” is used there as well as in the story of Hagar, it demonstrates that Hagar too was being encouraged to reaffirm her former commitments.
+
+    The context in Exodus reads: *He cried out to YHVH, and YHVH showed him a tree, and he threw it into the water, and the water turned sweet. There He* שם (*sam*), *set, him statute and law, and there He tested him. He said, “If you really heed the voice of YHVH your God, and do what is right in His eyes, and hearken to His commands and keep all His statutes, all the sickness that I imposed upon Egypt I will not impose upon you, for I am YHVH your healer”* (15:25–26).
+
+    On the *tree* in [[Torah 16 - Beshalach#^15-25|Exodus 15:25]] as Torah, see *Mekhilta, Vayassa* 1; *Mekhilta de-Rashbi*, [[Torah 16 - Beshalach#^15-25|Exodus 15:25]]; *Tanḥuma* (Buber), *Beshallaḥ* 18. Kasher, *Torah Shelemah*, [[Torah 16 - Beshalach#^15-25|Exodus 15:25]], n. 261\*. On Torah as *tree* and Tree of Life, see *Sifrei*, Deuteronomy 47; BT *Berakhot* 32b, *Arakhin* 15b; *Zohar* 1:152b, 168a, 174b, 193a; 3:53b, 261a; Moses de León, *Sefer ha-Rimmon*, 330.
+
+[^335]: **she returned to her degradation…** Like Orpah, Hagar too abandons her earlier fidelity to true faith as soon as she is released from a Jewish household, returning to her idolatrous patrimony. The verse from Jeremiah, with its similar wording, proves that Hagar’s having *strayed* signifies idol worship.
+
+    See *Pirqei de-Rabbi Eli’ezer* 30, and Luria’s note there; Rashi on [[Torah 04 - Vayera#^21-14|Genesis 21:14]].
+
+    The pairing of Orpah and Hagar seems to be a subtle polemic against both Christianity and Islam: Orpah returned to Moab, symbolically associated with Edom and therefore with Christianity; Hagar, as the mother of Ishmael, symbolically represents Islam.
+
+    In its simple sense, the verse in Genesis concludes: *and sent her away*, ותתע (*va-teta*), *and she wandered, through the wilderness of Beersheba*.
+
+[^336]: **A Gentile who is engaged in Torah…** Rabbi Shim’on contrasts the rabbinic statement praising the Gentile who studies Torah, with the verse proclaiming the Torah to be the exclusive heritage of Israel. If Gentiles do not receive reward for their engagement with Torah, how can they be compared to the high priest! Moreover, Rabbi Akiva’s teaching is that only those who stood at Mount Sinai—a qualification that includes the people of Israel alone—will receive reward for fulfillment of the Torah.
+
+    On the reward of Gentiles for performance of the Noaḥide commandments, see BT *Bava Qamma* 38a, in the name of Mar son of Rabana: “‘Even were they to keep the commandments, they would receive no reward.’—No? But it has been taught in a *baraita*: ‘Rabbi Me’ir used to say, “From where do we know that even an idolater who is engaged with Torah is like a high priest? As it says: [*You shall keep My statutes and My laws*,] *which a person shall do and live through them* ([[Torah 29 - Achrei Mot#^18-5|Leviticus 18:5]]). Priests, Levites, and Israelites are not mentioned, but *a person*. Thus, you learn that even an idolater who is engaged with Torah is like a high priest.”’ — ‘I mean [in saying that Gentiles would receive no reward] that they will receive a reward not like one who has been commanded to perform *mitsvot*, but like those who have not been commanded but do perform. As Rabbi Ḥanina has stated: “Greater is the reward of one who has been commanded and performs, than that of one who has not been commanded, but performs.”’” See BT *Sanhedrin* 59a, *Avodah Zarah* 3a.
+
+    The full verse in Psalms reads: *He established a testimony in Jacob, and ordained a teaching in Israel, which He commanded to our fathers to make them known to their children*.
+
+[^337]: **ignorant high priest…** In his response, Rabbi Ḥidka first demonstrates that there are different grades of high priests, with an ignorant priest ranking quite low. In quoting the verse from Proverbs, Rabbi Ḥidka plays on an ancient variant within the biblical text tradition: the word מפנינים (*mi-peninim*), *more… than rubies*, is actually written as מפניים—which he construes midrashically as *more than merely inside*, that is, as ולפנים‎ לפני (*lifnei ve-lifnim*), “within, within; before and within; inner sanctum.” This yields the teaching that Torah is far more valuable even than the status of the high priest.
+
+    Only the high priest may enter the Holy of Holies (“within, within”) on Yom Kippur—an exalted status, ranking high for questions of triage; but if he is ignorant, then a bastard scholar takes precedence over him. See *Tosefta Horayot* 2:10: “A regular priest takes precedence over a Levite, a Levite over an Israelite, an Israelite over a bastard, a bastard over a *natin* [a descendant of the Gibeonites, whom Joshua made into Temple slaves], a *natin* over a convert, and a convert over an emancipated slave. When [does this apply]? When they are all [otherwise] equal. However, if the bastard is a scholar and the high priest an ignoramus, then the bastard scholar takes precedence over the ignorant high priest. As is said: *She is precious* מפנינים (*mi-peninim*), *more than rubies* ([[Proverbs 03#^3-15|Proverbs 3:15]])—than a high priest who enters within, within.”
+
+    See M *Horayot* 3:8; BT *Horayot* 13a; *Zohar* 2:95b.
+
+    On the significance of the priest’s understanding the importance of his worship, see *Sifrei*, Numbers 116; BT *Ḥullin* 132b–133a; Ezra of Gerona, *Peirush le-Shir ha-Shirim*, 521; *Zohar* 1:45b (*Heikh*), 89b (*ST*); 2:57a; 3:8b, 18a, 35a, 146b; Baḥya ben Asher, *Kad ha-Qemaḥ*, 292; Lieberman, *Tosefet Rishonim*, 2:207; Scholem, “Seridim me-Rabbi Azriel,” 209.
+
+    Rabbi Yoḥanan blends two similar verses describing wisdom, here identified with Torah: *She is more precious than rubies; nothing you desire can compare with her* ([[Proverbs 03#^3-15|Proverbs 3:15]]), and *For wisdom is better than rubies; nothing desired can compare with her* (ibid. 8:11).
+
+[^338]: **a high priest must be a scholar…** By citing Rabbi Yuda’s opinion, Rabbi Ḥidka completely undermines the initial teaching cited by Rabbi Shim’on son of Yose, asserting that the comparison regarding the high priest referred only to one who was an ignoramus. The worship by an ignorant high priest is entirely worthless, rendering comparisons to him relatively meaningless. In the end, this high priest and the Gentile are on par because neither of them receives reward for their service.
+
+    The verse in Malachi concludes: *For he is a messenger of YHVH Tseva’ot*.
+
+[^339]: **other descendants are not commanded…** Rabbi Shim’on son of Yose rhetorically infers from the verse’s specification of *Aaron and his sons* that only Aaron’s own progeny are fit to offer sacrifices. He states that the limitation excludes priests who are ignorant of the proper mystical intentions—such worship is worthless.
+
+    On the intention of the priest, see above, note 337.
+
+[^340]: **contemplate the Holy Name…** The priest’s task is to contemplate, align, and unite the “supernal rungs”—the *sefirot*, as symbolized by the Holy Name.
+
+    On the requirement for priests, Levites, and Israelites to be present at sacrificial offerings, see M *Ta’anit* 4:1; BT *Ta’anit* 27a; Rashi on *Sotah* 8a, s.v. *aqorbanaihu*.
+
+[^341]: **three rungs** The three terms of the verse—*fire offering, aroma*, and *pleasing*—correspond to Levites, Israelites, and priests, respectively.
+
+    On the different roles of these three groups, see Tishby, *Wisdom of the Zohar*, 885–88.
+
+[^342]: ***Fire offering*…** In Kabbalah, both fire and the Levite symbolize *Din*, or *Gevurah*, on the left. The Levites’ joyous singing—attending to its qualities of pattern, melody, and delight—attunes the left side.
+
+    On the song of the Levites, see *Zohar* 1:104a; 2:19a (*MhN*), 143b.
+
+    On the term אשה (*isheh*), *fire offering*, see Levine, *Leviticus*, at 1:9, citing David Zvi Hoffman. Cf. Milgrom, *Leviticus*, 1:161–62, who contends that this term actually means “gift” or “food gift.”
+
+[^343]: **blaze of fire…** Since the Levite is associated with fire and song, his aptitude for service is measured by the sustenance of the “fire within him”—his youthful vigor—and the strength of his voice. After these weaken, which occurs at the age of fifty by the Bible’s assessment, he can no longer perform all of his duties.
+
+    On the semi-retirement of the Levites, see *Sifrei*, Numbers 63; *Sifrei Zuta* 8:26; *Tosefta Ḥullin* 1:16; BT *Ḥullin* 24a–b; *Bemidbar Rabbah* 6:8–9; Rashi and Naḥmanides on [[Torah 36 - Beha'alotcha#^8-25|Numbers 8:25]]; Maimonides, *Mishneh Torah, Hilkhot Kelei ha-Miqdash* 3:8; idem, *Guide of the Perplexed* 3:45; *Zohar* 1:249b; 3:151b.
+
+    The full context for the Levites’ service in [[Torah 36 - Beha'alotcha#^8-24|Numbers 8:24–26]] reads: *This is what regards the Levites. From twenty-five years old and up, each shall come to do legion service in the work of the Tent of Meeting. From the age of fifty years he* [the Levite] *shall retire from the legion of service and serve no more. He shall serve his brothers in the Tent of Meeting to keep watch, but work he shall not do*.
+
+[^344]: **אישים (*ishim*), fires…** Corresponding to the Levites, who play instruments and sing in the Temple, angels play and sing above to *Shekhinah* (known as Master). Since they are aligned with the Levites and with the אשה (*isheh*), *fire offering*, of the left side, they are called אישים (*ishim*), “fires, men, agents.” The situational context and the verb “appointed” evoke the sense of the singular noun *ish* (of which *ishim* is a rare plural form) as the agent or representative of another party—in this case, of God. See [[Torah 15 - Bo#^11-3|Exodus 11:3]]; [[Torah 21 - Ki Tisa#^32-1|32:1]]; [[Torah 36 - Beha'alotcha#^12-3|Numbers 12:3]]; [[Torah 54 - V'Zot HaBerachah#^33-1|Deuteronomy 33:1]]; [[Daniel 09#^9-21|Daniel 9:21]].
+
+    According to the Bible, every seventh year is a Sabbatical, during which the land must lie fallow and at the end of which all debts are remitted ([[Torah 32 - Behar#^25-1|Leviticus 25:1–24]]; [[Torah 47 - Re'eh#^15-1|Deuteronomy 15:1–3]]). After seven Sabbaticals comes the Jubilee, proclaimed every fifty years, when slaves are released and land reverts to its original owner ([[Torah 32 - Behar#^25-8|Leviticus 25:8–55]]). The fifty-year age limit of the Levites corresponds to the fifty-year cycle of the Jubilee, the pinnacle of a recurrent cycle. In Zoharic Kabbalah, the Jubilee symbolizes *Binah*, who in general is characterized by the number fifty, based on a statement attributed to Rav and Shemu’el (BT *Rosh ha-Shanah* 21b, *Nedarim* 38a): “Fifty gates of בינה (*binah*), understanding, were created in the world—all of which were given to Moses except for one, as is said: *You made him little less than God* (Psalms 8:6).” This passage is probably not referring to the *sefirah*, but the image of fifty gates is part of the chain of associations.
+
+    On angels singing, see BT *Ḥagigah* 14a; *Ḥullin* 91b; *Schäfer, Synopse zur Hekhalot Literatur*, §§30, 58, 161, 185–88; *Zohar* 1:159a, 1:189a, 231a–b; 3:64b; *[[Zohar 10.03 - Parashat Be-Reshit#^zh-5d|ZḤ* 5d]]–6a (*MhN*). On אישים (*ishim*), see above, note 293. On the fifty gates, see Naḥmanides, *Peirush al ha-Torah*, Introduction, 3–4; *Zohar* 1:3b, 106a, 208b, 261b (*Hash*); 2:68b (*Tos*), 83a, 123a, 139b, 175b, 183a; 3:15b, 142a (*IR*), 233b; *[[Zohar 12.11 - Zohar al ha-Parashot#^zh-48a|ZḤ* 48a]] (*MhN, Rut*), 67b, 73a (last two *ShS*), 82b (*MhN, Rut*). On the five rungs and the fifty gates, see *Matoq mi-Devash*.
+
+[^345]: **smashing their power…** Like the Levites, who are deposed after completing their term of duty, so too the angels who sing above are cast out of their positions when their strength flags. Once finished, they are sent to the outer gates, receiving a lower form of nourishment: smoke from the sacrifices, rather than nourishment from the fire itself.
+
+    On the daily issuing of singing angels, see BT *Ḥagigah* 14a: “Shemu’el said to Rabbi Ḥiyya son of Rav, ‘O son of a lion! Come, I will tell you one of those fine words said by your father: Every single day ministering angels are created from a river of fire [or: the Dinur River], chant a song, then cease to be, as is said: *New every morning*, [*immense is Your faithfulness!*] ([[Lamentations 3#^3-23|Lamentations 3:23]]).’”
+
+    See 3 Enoch 40:4; *Bereshit Rabbah* 78:1; *Shemot Rabbah* 15:6; *Eikhah Rabbah* 3:8; BT *Ḥagigah* 13b; *Ma’yan Ḥokhmah* (*Beit ha-Midrash*, 1:60); Ezra of Gerona, *Peirush le-Shir ha-Shirim*, 510; *Zohar* 1:17b, 2:10a, 213b–214a, 247a (*Heikh*); 3:39b, 73b (*Mat*); *Sidrei de-Shimmusha Rabba*, 123–24 (and Scholem’s n. 31); Moses de León, *Sefer ha-Mishqal*, 65; idem, *Sefer ha-Rimmon*, 205; idem, *Seder Gan Eden*, 139; Todros Abulafia, *Otsar ha-Kavod, Ḥagigah* 14a, p. 23d; Tishby, *Wisdom of the Zohar*, 2:624–25.
+
+[^346]: **pour forth their prayer…** Returning to the interpretation of the verse, Rabbi Ḥiyya explains that the word *aroma* signifies Israel, who offer prayer while their sacrifice is offered at the altar.
+
+[^347]: **contemplates the pattern… of the Holy Name…** The spiritual task of the priest is to meditate upon the letters of the Ineffable Name, thus uniting them. Then the rungs, possibly signifying *sefirot*, all beam their luminosity, deriving from *Binah*, signified by the “supernal, hidden depth.” *Midrash ha-Ne’lam* on Ruth largely avoids explicit reference to *sefirot*, though they often seem to be lurking beneath the surface.
+
+    On the “supernal [or: high] depth,” see *Sefer Yetsirah* 1:5: “depth of above, depth of below.” See *Zohar* 1:30b, 229a–b; 2:244a; 3:26a, 70a, 265b.
+
+[^348]: **the priest must be enlightened with wisdom…** Due to the profound mystical significance of his service, the priest must be a paragon of humanity. Lacking such distinction, a priest has no worth in God’s eyes.
+
+[^349]: **Slime of a Gentile…** Rabbi Shim’on son of Yose closes his homily comparing the High Priest and the Gentile by returning to the status of the non-Jew. He contrasts Ruth and Orpah, signifying intellectual soul and bestial soul, in terms of their respective abilities to transcend innate human filth.
+
+    On the taint of original sin that remains for three generations after initiation into Judaism, see BT *Shabbat* 145b–146a: “‘Rav Yosef taught, “…Why are idolaters lustful? Because they did not stand at Mount Sinai. For when the serpent copulated with Eve, he injected her with זוהמא (*zohama*), slime [or: filth, lust]. Israel, who stood at Mount Sinai—their *zohama* ceased. Star-worshipers, who did not stand at Mount Sinai—their *zohama* did not cease.’ Rav Aḥa son of Rava asked Rav Ashi, ‘What about proselytes?’ …Rabbi Abba son of Kahana said, ‘Until three generations the *zohama* did not disappear from our forefathers: Abraham begat Ishmael, Isaac begat Esau, [but] Jacob begat the twelve tribes in whom there was no taint whatsoever.’”
+
+    On the difficulty of removing Gentile filth, even after conversion, see *Zohar* 2:87b; 3:14b; Moses de León, *Sefer ha-Rimmon*, 212; cf. *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-78d|ZḤ* 78d]] (*MhN, Rut*).
+
+    On the theme of “three generations,” see [[Torah 49 - Ki Teitzei#^23-9|Deuteronomy 23:9]], according to which the *third generation* (i.e., the grandchildren) of Edomites and Egyptians living among Israelites may be admitted *into the assembly of YHVH*. See M *Yevamot* 8:3; *Sifrei*, Deuteronomy 252.
+
+    On being the most fit from among the Gentiles, see *Mekhilta, Beshallaḥ* 1, in the name of Rabbi Shim’on son of Yoḥai: “The best among the Gentiles—kill! The best among serpents—smash its brains!’” See *Mekhilta de-Rashbi*, [[Torah 16 - Beshalach#^14-7|Exodus 14:7]]; JT *Qiddushin* 4:14, 66b; *Tanḥuma, Beshallaḥ* 8; *Soferim* 15:7.
+
+[^350]: ***the king’s mother*…** In context, King Solomon sets out a throne for his mother, Bathsheba. Here, Rabbi Neḥemiah reads *the king’s mother* as a reference to Ruth.
+
+    See BT *Bava Batra* 91b: “*They dwelt there* (1 Chronicles 4:23)—referring to Ruth the Moabite, who saw the kingdom of Solomon, the grandson of her grandson. For it is said: [*Solomon*] *set out a throne for* המלך‎ אם (*em ha-melekh*), *the king’s mother*. Rabbi Eleazar said, ‘For המלכות‎ אם (*em ha-malkhut*), the mother of the dynasty.”
+
+[^351]: ***full*, actually…** Since according to MT the word שלמה is written in the defective form—without a י (*yod*)—it can be read as either *shelomo, Solomon*, or *sheleimah, full*. Rabbi Neḥemiah opts for the former reading, which yields: שלמה‎ משכרתך‎ ותהי (*u-thi maskurtekh Shlomo*), *May your recompense be Solomon*—in other words, Boaz says to Ruth, ‘May the reward for your commitment be that you will see your descendant Solomon upon the royal throne.’ He infers as well that the double reading indicates that Ruth merits reward in this world and the next.
+
+    On the significance of “actually,” see below, note 387.
+
+[^352]: **holy soul, intellectual soul, and bestial soul left the body…** This interpretation employs the allegorical reading of the story, in which each of the characters corresponds to an aspect of the soul: Naomi signifies “highest soul”; Ruth, “intellectual soul”; and, Orpah, “bestial soul.” Rabbi Neḥemiah explains that Naomi’s departure from Moab (with her daughters-in-law), a land that symbolizes “the body,” represents the response of different aspects of the soul after death. The higher, “intellectual soul,” when enlightened, longs to stay with “holy soul,” rather than with the body, while the “bestial soul” clings to the body.
+
+    On these allegorical associations, see above, notes 3 and 18.
+
+    The rabbinic metaphor of coming under the wings of *Shekhinah* to describe conversion derives from [[Ruth 2#^2-11|Ruth 2:11–12]], where Boaz says to Ruth: *I have been told of all that you did for your mother-in-law after the death of your husband, how you left your father and mother and the land of your birth and came to a people you had not known before. May YHVH reward your deed, and may you have a full recompense from YHVH, the God of Israel, under whose wings you have sought refuge*. See BT *Shabbat* 31a; *Mekhilta de-Rashbi*, [[Torah 17 - Yitro#^18-6|Exodus 18:6]]; and *Vayiqra Rabbah* 2:9: “Thus have the sages taught in the Mishnah: If a convert comes to convert, one should extend a hand to him to bring him beneath the wings of *Shekhinah*.”
+
+    On converts entering beneath the wings of *Shekhinah*, see *Zohar* 1:13a–b; 2:70a; 3:14a–b, 168a; Moses de León, *Sefer ha-Rimmon*, 16, 212–13; J. Wijnhoven, “The *Zohar* and the Proselyte,” 123–25.
+
+[^353]: **the wife of Obadiah…** According to the account in Kings, the prophet Elisha performed a miracle for an anonymous poor woman, providing her with an immense amount of oil. In Scripture, the woman is unidentified, but according to various sources she was the widow of the prophet Obadiah.
+
+    See Josephus, *Antiquities of the Jews* 9:4:2; *Pesiqta de-Rav Kahana* 2:5; *Tanḥuma, Ki Tissa* 5; *Targum Yonatan*, Rashi, and Radak on [[II Kings 04#^4-1|2 Kings 4:1]].
+
+    The verse in Kings concludes ‘*Your servant my husband is dead, and you know how your servant revered YHVH. And now a creditor is coming to seize my two children as slaves*.’
+
+[^354]: **early… and late…** Rabbi Alexandrai seeks to explain why Obadiah’s widow is calling to Elisha. According to the chronology in Kings, it appears that Obadiah could not yet have met Elisha, since the latter had not yet begun to accompany Elijah. Rabbi Alexandrai applies the principle that “there is no early and late in the Torah [or: the Torah does not follow chronological order],” a rule that is applied throughout rabbinic and medieval writings to explain a large variety of exegetical difficulties dealing with chronology in the Torah. Since Obadiah’s wife says *Your servant my husband is dead, and you know how your servant revered YHVH*, Elisha must have met him.
+
+    On the rule that chronology does not apply in the Torah, see *Mekhilta, ha-Shirah* 7; *Sifrei*, Numbers 64; BT *Pesaḥim* 6b; *Tanḥuma, Terumah* 8; *Shir ha-Shirim Rabbah* on 1:2; *Rut Rabbah* 4:5; *Qohelet Rabbah* on 1:12; *Pesiqta Rabbati* 22, 111a; Rashi on [[Torah 01 - Bereshit#^6-3|Genesis 6:3]], [[Torah 08 - Vayishlach#^35-29|35:29]]; [[Torah 13 - Shemot#^4-20|Exodus 4:20]], [[Torah 17 - Yitro#^19-11|19:11]], [[Torah 21 - Ki Tisa#^31-18|31:18]]; [[Torah 25 - Tzav#^8-2|Leviticus 8:2]]; [[Torah 36 - Beha'alotcha#^9-1|Numbers 9:1]]; [[Joshua 08#^8-30|Joshua 8:30]]; [[Isaiah 01#^1-1|Isaiah 1:1]], [[Isaiah 06#^6-1|6:1]]; [[Ezekiel 01#^1-3|Ezekiel 1:3]], [[Ezekiel 29#^29-17|29:17]]; [[Psalms 072#^72-20|Psalms 72:20]]; BT *Pesaḥim* 6b, s.v. *ein muqdam u-m’uḥar ba-Torah*; *Sotah* 35a, s.v. *shavu ha-mayyim*; Ibn Ezra on [[Torah 01 - Bereshit#^6-3|Genesis 6:3]], [[Torah 02 - Noach#^11-29|11:29]], [[Torah 04 - Vayera#^18-13|18:13]]; [[Torah 13 - Shemot#^4-19|Exodus 4:19]], [[Torah 16 - Beshalach#^16-15|16:15]], [[Torah 21 - Ki Tisa#^32-11|32:11]], [[Torah 21 - Ki Tisa#^33-7|33:7]]; [[Torah 32 - Behar#^25-1|Leviticus 25:1]]; [[Torah 50 - Ki Tavo#^28-5|Deuteronomy 28:5]], [[Torah 52 - Vayeilech#^31-15|31:15]]; Naḥmanides on [[Torah 08 - Vayishlach#^32-23|Genesis 32:23]], [[Torah 08 - Vayishlach#^35-28|35:28]]; [[Torah 13 - Shemot#^2-1|Exodus 2:1]], [[Torah 16 - Beshalach#^15-9|15:9]], [[Torah 17 - Yitro#^20-15|20:15]]; [[Torah 36 - Beha'alotcha#^9-1|Numbers 9:1]], [[Torah 38 - Korach#^16-1|16:1]]; *Zohar* 3:148a; *Tiqqunei Zohar* 16a.
+
+    On Obadiah’s distinctive moniker as one who *feared YHVH greatly*, see BT *Sanhedrin* 39b: “Rabbi Abba said, ‘Greater [praise] was expressed of Obadiah than Abraham, since of Abraham the word *greatly* is not used, while of Obadiah it is.’ Rabbi Isaac said, ‘Why did Obadiah merit the gift of prophecy? Because he hid a hundred prophets in caves, as is written: *When Jezebel was killing off the prophets of YHVH, Obadiah had taken a hundred prophets and hidden them, fifty to a cave, and provided them with bread and water* ([[I Kings 18#^18-4|1 Kings 18:4]]).
+
+[^355]: **King Yehoram was coming…** In the story in Kings, Obadiah had hidden one hundred prophets, fifty to a cave, away from Ahab’s murderous intent. According to rabbinic legend, Obadiah and his wife had secured credit from Yehoram at high interest in order to feed the refugee prophets, submitting their two children as collateral for the loan.
+
+    See *Shemot Rabbah* 31:4; *Tanḥuma, Mishpatim* 9; *Pesikta de-Rav Kahana* 2:5; Ginzberg, *Legends*, 4:189–90, 240–41.
+
+    According to Biblical law, wives and children could be seized for nonpayment of debts. See [[Torah 18 - Mishpatim#^21-7|Exodus 21:7]]; Sarna on [[Torah 18 - Mishpatim#^21-7|Exodus 21:7]]; Cogan and Tadmor on [[II Kings 04#^4-1|2 Kings 4:1]]; cf. [[Isaiah 50#^50-1|Isaiah 50:1]].
+
+[^356]: **They told Obadiah…** Other souls informed Obadiah about his wife’s activity. See *Matoq mi-Devash*.
+
+[^357]: **Hezekiah…** The Vilna Gaon points out that Hezekiah would not be born yet for several generations, so perhaps Elijah is intended. See *Hadrat Qodesh*.
+
+[^358]: **go to Elisha** Ultimately she turns to Elisha and, according to the account in Kings, he performs a wonder for her, producing vast amounts of oil that allow her to pay off her debt. See [[II Kings 04#^4-2|2 Kings 4:2–7]].
+
+[^359]: **How can they converse…** in the grave… Rabbi Alexandrai wonders how the dead can converse in the grave, since their souls have left their bodies and ascended to the Garden of Eden.
+
+    On souls conversing in the grave, see BT *Berakhot* 18b.
+
+[^360]: **If a difficulty remains…** Rabbi Bun explains that speech is justifiable when it clarifies understanding of the Torah. To express that point, he inverts a talmudic adage of a certain Rabbi Yehudah from BT *Megillah* 18a: “‘What is meant by the verse *To you praise is silent* ([[Psalms 065#^65-2|Psalms 65:2]])? The best medicine of all is silence.’ When Rav Dimi came, he said, ‘They say in the West: “A word is worth a *sela*; silence, two *selas*.”’” Cf. BT *Ḥullin* 89a.
+
+[^361]: **two clusters…** Generally, the soul has three rungs: נפש (*nefesh*), “soul”; רוח (*ruaḥ*), “spirit”; and נשמה (*neshamah*), “holy soul [or: breath].” *Nefesh*, lowest of the three, vitalizes and animates the body through the performance of commandments. *Ruaḥ* is the intermediate aspect, arousing the person through study of Torah and providing moral guidance. If a person is sufficiently animated through commandments and Torah, he will merit a higher soul—*neshamah*—overflowing from above.
+
+    On this passage, see Tishby, *Wisdom of the Zohar*, 2:729–31. On the three aspects of soul, see *Zohar* 1:62a, 81a (*ST*), 83a–b, 205b–206a, 224b–225a; 2:94b (*TZ*), 95a–b, 141b–142b, 182a; 3:24b–25a, 70b–71b, 91b; *[[Zohar 10.03 - Parashat Be-Reshit#^zh-6d|ZḤ* 6d]] (*MhN*); Moses de León, *Sefer ha-Mishqal*, 40; idem, *Sefer ha-Rimmon*, 305; idem, *Sheqel ha-Qodesh*, 28–29 (33–34). Cf. *Bereshit Rabbah* 14:9; *Vayiqra Rabbah* 32:2; *Devarim Rabbah* 2:37; Rashi and Naḥmanides on [[Torah 01 - Bereshit#^2-7|Genesis 2:7]]. For an extensive discussion of the three aspects of the soul, see Tishby, *Wisdom of the Zohar*, 2:684–722, 761–64. On *ruaḥ* as providing moral guidance, see ibid., 729, n. 45.
+
+    The full verse reads: *With my soul I desire You in the night, with my spirit within me I seek You at dawn. For when Your judgments reach the earth, inhabitants of the world learn righteousness*. See *Zohar* 1:83a–b; 3:67a, 68a; Moses de León, *Sefer ha-Rimmon*, 197.
+
+    *Nafsha* and *nefesh, ruḥa* and *ruaḥ*, and *nishmeta* and *neshamah* are Aramaic and Hebrew cognate terms for the same entities, respectively.
+
+[^362]: **With these two…** *Nefesh* and *ruaḥ* comprise a unit and, while *nefesh* animates the body, it is dependent upon *ruaḥ*.
+
+[^363]: **supernal wisdom…** Supernal wisdom here probably signifies generic wisdom from above. Cf. Tishby; Mopsik; *Matoq mi-Devash*.
+
+[^364]: **power of repentance…** תשובה (*Teshuvah*), “Repentance, return,” signifies *Binah*, source of the *neshamah*. All aspects of the soul are ultimately conjoined under the governance of *neshamah*, seeking to return to their source in *Binah. Binah* is mother to *Tif’eret*, who is the source of *ruaḥ*—and thus *neshamah* is like mother to *ruaḥ*.
+
+    On the origins of the different aspects of the soul, see Joseph Gikatilla, *Sha’arei Orah* (86a): “This *sefirah* [*Binah*] is called… Repentance, the reason being that the *neshamot* are emanated from this place, *ruḥot* from *Tif’eret*, and *nefashot* from the *sefirah Malkhut*. They are bound to one another so that they can all be unified in the *sefirah Binah*.” See *Zohar* 1:94a; 2:95b; Moses de León, *Sefer ha-Rimmon*, 407; idem, *Sheqel ha-Qodesh*, 100 (127). On the mother and son relationship, see Tishby; Mopsik; Englander.
+
+[^365]: **לנשמתא‎ נשמתא (*Nishmeta le-nishmeta*), Soul of soul…** *Nishmeta le-nishmeta* is the highest aspect of the human soul, deriving from *Ḥokhmah*. Thus, as *Ḥokhmah* is united in love with *Binah*, producing *Tif’eret*, so does *nishmeta le-nishmeta* overflow onto *nishmeta*, producing *ruaḥ*. The four aspects of soul thus symbolically correspond to *Ḥokhmah, Binah, Tif’eret*, and *Malkhut*, as expressed by the four letters of the tetragrammaton, יהוה (*YHVH*). Keeping in mind the centrality of Torah study and the performance of commandments—both of which are paradigmatically male activities—in the actualization and induction of *ruaḥ* and *neshamah*, this formulation establishes the symbolic parallelism of Divinity and the Jewish adult male.
+
+    “Fear” (or “awe, reverence”) derives from *Ḥokhmah*, based on the association in [[Psalms 111#^111-10|Psalms 111:10]]: *The beginning of* חכמה (*Ḥokhmah*), *Wisdom, is fear of YHVH*.
+
+    On *nishmeta le-nishmeta*, see *Zohar* 1:79a–b (*ST*, standard edition); 2:118b (*RM*); above, note 192.
+
+    The phrase “soul of soul” derives from Solomon ibn Gabirol’s *Keter Malkhut* 4:47 where it is a description of God: “You are alive but not through… soul, for You are soul of soul.” See *Zohar* 1:103b, 245a; 3:109b (*RM*), 152a; Scholem, *Major Trends*, 110, 375, n. 97.
+
+    On the four letters of the tetragrammaton as representing four *sefirot*, configured as a family, see *Zohar* 1:28a (*TZ*), 162a (*ST*); 3:11a–b, 34a (*RM*), 258a (*RM*); *Tiqqunei Zohar* 18 (35a), 21 (61b); above, note 3.
+
+[^366]: ***ruḥa* and *nafsha* on the left…** The soul is conceptualized as having parallel components on the right and left sides, corresponding to the sides of holiness and impurity within a person. Each side has its own impulse, prompting it to do good or evil. The verse in Deuteronomy on human choice echoes the verse in Genesis about the Tree of Knowledge. The tree is interpreted as a symbol of the human soul, with its choices of good and evil. The concluding comment for those with understanding indicates that through the choice of eating from the *good*, one cleaves to the side of holiness. Through eating from the *evil*, one cleaves to *Sitra Aḥra*.
+
+    On the parallel construct of the soul, see *Zohar* 1:79b (*ST*, standard edition); *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-75b|ZḤ* 75b]]–c (*MhN, Rut*). On this interpretation of the Tree of Knowledge of Good and Evil, see Gikatilla, *Sha’arei Orah*, 209–10. The Hasidic master Mordekhai Yosef Leiner (of Izbica) expands upon this teaching: “In the messianic era, when the sin of Primal Adam is rectified, the verses will be combined—*From every tree of the garden you may surely eat and from the tree of knowledge of good*, and afterward, *but evil you may not eat*. Thus only the good in the tree he was permitted to eat, but the evil he should not eat. And *YHVH*, may He be blessed, will clarify that he ate only from the good, whereas the sin, by His assessment, was like a garlic peel, nothing more.” See Leiner, *Mei ha-Shiloaḥ*, 1:15a–b.
+
+[^367]: ***Wisdom of women builds her house*…** Mother and daughter—signified by the first and second ה (*he*) of the tetragrammaton, are represented by *women* of the verse in Proverbs. The bestial soul of the evil impulse is represented by *folly* in the verse. These three spiritual entities correspond to Naomi, Ruth, and Orpah, respectively; thus, the women of the story symbolize different aspects of the human soul. Each individual has the option of following the edifying side of holy spirituality or the destructive side of demonic spirituality in conducting one’s life.
+
+[^368]: **When a person… sleeps…** Every night, one’s spirit longs to make an ascent to the upper worlds, but innumerable angels stand at each gate, intercepting the unworthy.
+
+    On the soul’s wandering at night, see *Pirqei de-Rabbi Eli’ezer* 34, in the name of Rabbi Zechariah: “Sleep at night is like this world, and the awakening of the morning is like the world to come. And just as in the nighttime sleep one lies down and sleeps, his spirit roams over all the earth, and tells him in a dream whatever happens, as is said: *In a dream, a vision of night… He then uncovers human ears* ([[Job 23#^23-15|Job 23:15–16]]), similarly with the dead: their spirits wander over all the earth, telling them everything that happens.”
+
+[^369]: **Son of Proud Ones…** An episode in *Heikhalot Rabbati* recounts how Rabbi Yishma’el was approached by his fellow mystical initiates, beseeching that because of his great erudition in Torah, he should recall Rabbi Neḥuniah son of Kanah. The latter had ascended on high and the besieged rabbis sought to learn their fate, which they thought Rabbi Neḥuniah might have discovered. They address Rabbi Yishma’el as גאים‎ בן (*ben ge’im*), “Son of Proud Ones”—referring to his parents, who would have taken great pleasure in their son’s accomplishments. In this rendition of the story, imitating the style of Heikhalot imagery, it is Neḥuniah who asks Yishma’el to describe his vision. See Schäfer, *Synopse zur Hekhalot-Literatur*, §225. Cf. Scholem.
+
+    The following vision is replete with imagery and verbal formulations from Heikhalot literature.
+
+[^370]: ***Yahdumi* is his name…** The name *Yahdumi* is probably derived from the names of the angels Dumi’el and Dumah. In the story from *Heikhalot Rabbati* concerning Rabbi Yishma’el and Rabbi Neḥuniah, the latter relates the central role played by the angel Dumi’el in the initiate’s ascent. Here, as in the stories of Moses’ terrifying ascent to heaven, Rabbi Yishma’el utters God’s name as a magical practice to protect himself from the angels’ incendiary breath.
+
+    The manuscripts and printed versions offer several different permutations of this angel’s name. Cf. *Zohar* 2:129a, 142b.
+
+    On Dumi’el, see Schäfer, *Synopse zur Hekhalot-Literatur*, §§230–35. “Dumah” (literally “silence”) is a name for the netherworld in the Bible, e.g., [[Psalms 094#^94-17|Psalms 94:17]]: *Unless YHVH had been my help, my soul would soon have dwelt in dumah*. Cf. [[Psalms 115#^115-17|Psalms 115:17]]. In rabbinic literature, Dumah is the angel in charge of souls of the dead. See BT *Berakhot* 18b; *Shabbat* 152b; *Ḥagigah* 5a; *Sanhedrin* 94a. In the *Zohar*, he retains this role but also oversees Hell. See *Zohar* 1:8a–b, 94a, 102a, 124a (last two *MhN*), 130b, 237b.
+
+    Tales of the rivalry between the angels and humanity are pervasive in rabbinic and heikhalot literature. See BT *Shabbat* 88b, in the name of Rabbi Yehoshu’a son of Levi: “When Moses ascended on high, the ministering angels said before the blessed Holy One, ‘Master of the Universe! What is one born of woman doing here among us?’ He answered, ‘He has come to receive Torah.’ They said, ‘That precious treasure—hidden by You for 974 generations before the world was created—You desire to give to flesh and blood! *What is a human that You are mindful of him, a human being that You take note of him?* ([[Psalms 008#^8-5|Psalms 8:5]])…’ ‘Answer them,’ said the blessed Holy One to Moses. ‘Master of the Universe,’ he replied, ‘I fear they could scorch me with the breath of their mouths.’ He said, ‘Grasp My throne of Glory, and answer them.’”
+
+    See *Pesiqta Rabbati* 20, 96b–98a; *Ma’yan Ḥokhmah* (*Beit ha-Midrash*, 1:58–61); *Zohar* 1:5a; 2:58a; 3:78b.
+
+    “They froze” renders כולם‎ ועמדו (*ve-amedu khulam*); alternatively, “they stood stock-still.”
+
+[^371]: **one gate…** It is unclear if this gate is on the eastern or southern sides. *Matoq mi-Devash* emphasizes that it is the eastern side. See following note.
+
+[^372]: **opened only on the New Moon…** In his vision concerning the Temple rite, Ezekiel refers to a gate that is opened only on the Sabbath and New Moon: *Thus says the Lord God: The gate of the inner court facing east shall be shut on the six working days, but on the Sabbath it shall be opened, and on the day of the new moon it shall be opened* ([[Ezekiel 46#^46-1|Ezekiel 46:1]]). While Ezekiel relates that this gate is opened for the prince whenever he brings a freewill offering, *Midrash ha-Ne’lam* says it is opened on these special days for the faithful of Israel, the *righteous nation*—specifically, the virtuous among them.
+
+[^373]: **above the earthly Garden of Eden…** On Sabbaths, festivals, and the New Moon, righteous souls ascend from the earthly Garden of Eden, through celestial windows marked by the tetragrammaton, toward the supernal Garden of Eden. In the earthly Garden of Eden, they are clothed in an ethereal body that resembles the physical body that they inhabited on earth. On these festive days, *ruḥot* are stripped of the garments that they wore in the earthly Garden, and they ascend to the heavenly Garden. It appears that the term “*ruḥot*” is being used generically to mean “soul,” rather than signifying the middle entity of the tripartite human soul.
+
+    On the four windows inscribed with the letters of God’s name, located in the heaven above the Garden of Eden, see *Zohar* 2:212a–b; Moses de León, *Seder Gan Eden*, 132; idem, *Mishkan ha-Edut*, 145; cf. *Zohar* 2:209b; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-90b|ZḤ* 90b]] (*MhN, Rut*).
+
+    On the ethereal body, see Naḥmanides on [[Torah 12 - Vayechi#^49-33|Genesis 49:33]]; *Zohar* 1:7a, 38b (*Heikh*), 81a (*ST*), 90b–91a, 115b (*MhN*), 131a, 217b, 219a, 220a (standard editions), 224a–b, 227a–b, 233b; 2:11a, 13a–b, 96b, 141b, 150a, 156b–157a, 161b; 3:13a–b, 43a–b, 61b, 70b, 104a–b; *[[Zohar 10.03 - Parashat Be-Reshit#^zh-10b|ZḤ* 10b]]–c (*MhN*), 90b (*MhN, Rut*); Moses de León, *Sefer ha-Rimmon*, 390; idem, *Seder Gan Eden*, 133; idem, *Sefer Mishkan ha-Edut*, 135, 139–40; Scholem, *Shedim Ruḥot u-Nshamot*, 215–45; idem, *Kabbalah*, 158–59; idem, *On the Mystical Shape of the Godhead*, 251–73; Tishby, *Wisdom of the Zohar*, 2:770–73. Cf. Rashi on BT *Ḥagigah* 12b, s.v. *ve-ruḥot u-nshamot*.
+
+    On the spirit’s (or soul’s) Sabbath and festival ascent, see *Zohar* 1:81a (*ST*); 2:141b–142a, 212a; 3:70b, 144b–145a (*IR*), 159b, 168a; Moses de León, *Seder Gan Eden*, 138–39.
+
+    On the image of “a putrid drop,” see M *Avot* 3:1; *Vayiqra Rabbah* 18:1; *Tanḥuma, Ḥayyei Sarah* 7 (Buber); *Qohelet Rabbah* on [[Ecclesiastes 12#^12-1|Ecclesiastes 12:1]]; *Avot de-Rabbi Natan* A, 19; Lieberman, “How Much Greek in Jewish Palestine?” 136–37; Biale, *Eros and the Jews*, 45, 247, nn. 67–70; Swartz, *Scholastic Magic*, 69, 166–70; Boustan, *From Martyr to Mystic*, 117.
+
+[^374]: **Six winged ones…** *Hadrat Qodesh* interprets this to mean “six-winged ones.”
+
+[^375]: **added among the living…** When spirits of the righteous ascend from the earthly Garden of Eden to the supernal Garden of Eden, others descend from the earthly garden, becoming the additional Sabbath soul. Throughout, the Garden remains fittingly populated.
+
+    The image of an additional soul derives from BT *Beitsah* 16a, in the name of Rabbi Shim’on son of Lakish: “On Sabbath eve, the blessed Holy One imparts an additional נשמה (*neshamah*), soul, to a human being. When Sabbath departs, it is taken from him.”
+
+    See *Zohar* 1:48a; 2:88b, 98a, 135b–136b, 204a–b; 3:173a, 288b (*IZ*); Tishby, *Wisdom of the Zohar*, 3:1230–33; Ginsburg, *The Sabbath in the Classical Kabbalah*, 121–36.
+
+    On the Garden as never being empty, see *Zohar* 2:136a; Moses de León, *Sheqel ha-Qodesh*, 27–28 (32–33); idem, *Mishkan ha-Edut*, 138, 153. Cf. *Zohar* 2:253a (*Heikh*).
+
+[^376]: **When Sabbath departs…** Once the Sabbath concludes, this verse and Psalm 91 are recited, prompting the extra soul to go back to the earthly Garden of Eden, and souls from the heavenly Garden of Eden to return to the earthly one.
+
+    On reciting [[Psalms 090#^90-17|Psalms 90:17]], see *Seder Rav Amram Gaon*, 81–82; *Maḥazor Vitri*, 1:114; *Zohar* 1:17b, 197b; 2:31b; Elbogen, *Jewish Liturgy*, 102; cf. *Matoq mi-Devash*.
+
+    While the MT records *kindness of Adonai* in [[Psalms 090#^90-17|Psalms 90:17]], *Minḥat Shai* indicates that there are versions circulating that read *kindness of YHVH*. On discrepancies between MT and biblical citations, see above, p. 5, n. 6.
+
+    The full verse in Psalms reads: *May the kindness of the Lord our God be upon us. The work of our hands, establish for us; the work of our hands, establish it*.
+
+[^377]: ***neshamah* and *nefesh* journey as one…** Rabbi Alexandrai reads the verse allegorically, with Naomi representing the *neshamah*, while Ruth stands for the *nefesh*. The phrase *the two of them* is essentially redundant but emphasizes the joint nature of their travel. See Eskenazi and Frymer-Kensky.
+
+[^378]: **filled with all kinds of bounty…** When the soul leaves the upper realms to descend into this world, it is given tours of Heaven and Hell, and then it comes replete with holiness and knowledge of Torah. In this world, however, it is buffeted by sorrows and desires that tarnish its original beauty. *Neshamah*, signified by Naomi, leaves her former dwelling place, returning to the storehouse of souls, signified by Bethlehem, and all there are astonished by her changed state.
+
+    On the soul’s preparation to descend to the world and its return to heaven afterward, see above, pages 29–33 and note 9.
+
+    The full verse in Job reads: *When His lamp shone over my head, by its light I walked in darkness*.
+
+[^379]: ***Call me Mara*…** The name *Mara* means “bitter,” in contrast to the name *Na’omi*, which connotes sweetness or loveliness. Naomi’s response could be construed as *Do not call me Sweet One, call me Bitter One*. The *Targum* reads: “Do not call me Naomi, call me Bitter of Soul.” The emptiness that she refers to, of course, is the deaths of her husband and sons—and by extension, her status in her home community. Here, Naomi signifies a soul that has not attained its spiritual promise on earth, and so it returns to its source, bereft.
+
+    The name *Shaddai* (Almighty) is associated with havoc ([[Isaiah 13#^13-6|Isaiah 13:6]]; [[Joel 1#^1-15|Joel 1:15]]), and Job uses identical phrasing in ascribing his suffering to *Shaddai*. See [[Job 27#^27-2|Job 27:2]]; cf. 5:17. However, in [[Torah 12 - Vayechi#^49-25|Genesis 49:25]], the name is also associated with fertility, and possibly with breasts, so Naomi’s invocation of that name could be ironic, signaling her lack of the blessings normally ascribed to *Shaddai*. See Eskenazi and Frymer-Kensky; cf. Sasson.
+
+[^380]: **For He has injected the evil impulse into me…** In the verse, Naomi attributes her suffering to God, and Rabbi Alexandrai interprets this ascription as the *neshamah*’s blaming God for saddling her with the evil impulse, in the form of bestial *nefesh* and bestial *ruaḥ*. Citing the verse from Proverbs, the soul notes that it is *Folly*, namely “bestial *nefesh* from the evil impulse,” that brought on death. After its demise, the physical body undergoes its suffering, while the *nefesh* mourns over it.
+
+    The words *has dealt harshly with me* render בי‎ ענה (*anah vi*), interpreted by *Targum* as “my sin has testified against me.” See Sasson; Zakovitch.
+
+    On the *nefesh* mourning over the body, see JT *Mo’ed Qatan* 3:5, 82b; *Bereshit Rabbah* 100:7; *Vayiqra Rabbah* 18:1; *Qohelet Rabbah* on 12:6; BT *Shabbat* 152a; *Tanḥuma, Miqqets* 4; *Zohar* 1:122b (*MhN*), 218b–219a, 226a; 2:142a–b, 199b; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-75c|ZḤ* 75c]], [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-83d|83d]]–84a (both in *MhN, Rut*); Moses de León, *Sefer ha-Rimmon*, 396–97; idem, *Sefer Mishkan ha-Edut*, 105, 131.
+
+[^381]: **two sentries…** one, lame; the other, blind… The soul and body are both punished, since they are jointly accountable for any misdeeds.
+
+    On the parable concerning the joint responsibility of body and soul after death, see *Mekhilta de-Rashbi* on Exodus 15:1 (76–77); *Vayiqra Rabbah* 4:5; BT *Sanhedrin* 91a–b. See *Zohar* 1:225a; 2:199b; 3:53a, 126b; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-83d|ZḤ* 83d]]–84a (*MhN, Rut*); Bregman, “The Parable of the Lame and the Blind.”
+
+[^382]: **donkey-driver…** טייעא (*Tayya’a*) more precisely designates an “Arab; Arab caravaner,” derived from the name of the Arabian tribe *al-Ṭa’i*. In the *Zohar, tayya’a* usually indicates one of various wandering donkey-drivers encountered by the Companions on the road. These donkey-drivers are invariably great kabbalists—wise fools in disguise. The word טען (*ta’an*) is Arabic for “goad”—specifically of donkeys—but these mystical donkey-drivers goad the companions, as well.
+
+    See 1:5b; 2:45b, 94a–114a, 145b, 155b–157a; 3:21a–23a, 186b, 299b; *TZ* 23, 69a. Cf. *Mekhilta de-Rashbi*, [[Torah 18 - Mishpatim#^21-1|Exodus 21:1]]; *Tosefta Ḥagigah* 2:1; JT *Ḥagigah* 2:1, 77a; BT *Mo’ed Qatan* 25a–b, *Ḥagigah* 14b; *Bereshit Rabbah* 32:10; *Shir ha-Shirim Rabbah* on 4:3.
+
+    On *tayya’a*, see BT *Berakhot* 56b; *Rosh ha-Shanah* 26b; *Ta’anit* 22b; *Yevamot* 120b; *Bava Batra* 73b–74a; *Sanhedrin* 110a; *Ḥullin* 7a; Scholem, *Major Trends*, 165, 388, n. 46; idem, *Kabbalah*, 227; Yisraeli, *Parshanut ha-Sod*, 76–79. On *ta’an*, see Radak, *Sefer ha-Shorashim*, 54b, s.v. טען. The prophet Elijah returns to earth as a *tayya’a* in BT *Berakhot* 6b, and as an ערבי (*aravi*), “Arab,” in *Rut Zuta* 1:20; 4:11.
+
+    On words of Torah being like a nut, see BT *Ḥagigah* 15b, in the name of Rava: “What is the meaning of the verse: *I went down to the nut grove to see the new green by the brook*? Why are scholars compared to a nut? To tell you that just as in the case of a nut, even if it becomes soiled with mud and filth, its contents remain unsullied, so in the case of a scholar: although he may have been corrupted, his Torah is not disgraced.”
+
+[^383]: **a nut has a shell and a kernel within…** The nut was a popular symbol in medieval Jewish mysticism, because of its ability to connote inward holiness and outward profanity; as a symbol for the divine chariot and mystical experience; or as here, signifying the external versus internal meanings of Torah. The text does not elaborate on the meaning of its terms; *ma’aseh* might signify narrative, while *midrash* might represent legalistic meaning. Eventually, a fourfold system of interpretation developed, associated with the acronym פרדס (*PaRDeS*), “orchard,” and comprising the following levels: פשט (*Peshat*), “simple meaning”; רמז (*Remez*), “allegory”; דרשה (*Derashah*), “homily”; and סוד (*Sod*), “mystery.”
+
+    The printed texts from Venice onward include a fourth, esoteric element—סוד (*sod*), “mystery, secret, esoteric meaning.” All modern scholarship has assumed that this is the first mention of the fourfold method of exegesis in Jewish sources. However, the early manuscripts and Thiengen have only the three interpretive methods witnessed above.
+
+    On the image of the nut, see *Zohar* 1:19b–20a, 44b (*Heikh*); 2:15b (*MhN*), 140b–141a, 233b; Moses de León, *Sefer ha-Mishqal*, 156–60; Scholem, *Major Trends*, 239; Altmann, *Studies*, 161–71; *ABD* 2:808; Pope, *Song of Songs*, 574–79; Abrams, *Sexual Symbolism and Merkavah Speculation*.
+
+    On the various levels of meaning in Torah, see *Zohar* 1:26b (*TZ*); 2:99a–99b, 114b (*RM*); 3:152a, 202a; *ZḤ* 102d, 107c (*TZ*); Moses de León, *She’elot u-Tshuvot*, 56, 64; idem, *Sefer ha-Mishqal*, 105; Baḥya ben Asher, “Introduction to Commentary on the Torah, 4–6; Bacher, “L’exégèse biblique dans le Zohar,” 34–40; Sandler, “Li-V’ayat ‘Pardes’”; Scholem, *On the Kabbalah*, 50–62; Tishby, *Wisdom of the Zohar*, 3:1077–92; Heide, “PARDES”; Talmage, “Apples of Gold,” 319–21; Matt, “New-Ancient Words,” 204–6; Wolfson, “Beautiful Maiden Without Eyes”; Idel, “PaRDeS”; idem, *Absorbing Perfections*, 429–37; Yisraeli, *Parshanut ha-Sod*, 213–19. On the meanings of the terms here, see Mopsik; *Matoq mi-Devash*; Englander.
+
+[^384]: **When King Solomon revealed the Song of Songs…** The revelation of Song of Songs is the spiritual apex of history, when love and harmony reign between God and the Jewish people, as symbolized by the Song. At that time, the scum that dwelt within humanity—a consequence of Eve’s initial copulation with the serpent—was purged. Until then, all human offspring were defiled.
+
+    On the composition of Song of Songs as a climactic moment, see *Zohar* 2:143a: “This song was aroused by Solomon when the Temple was built and all worlds were consummated, above and below, in single perfection…. This song was uttered solely in completeness, when the moon became full and the Temple was constructed according to the pattern above.”
+
+    See M *Yadayim* 3.4; *Shir ha-Shirim Rabbah* 1:11, 12; *Shir ha-Shirim Zuta* (Buber), 9 and notes 32, 34; *Shir ha-Shirim Zuta* (Schechter), 53 and notes there; Rashi on [[Song of Songs 1#^1-1|Song of Songs 1:1]]; *Derashot Yehoshu’a ibn Shu’eib*, 42a; Isaac ibn Sahula, *Peirush Shir ha-Shirim*, 407–8; *Zohar* 2:143a–146a; 3:74b, 181b; *[[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-62c|ZḤ* 62c]]–d (*ShS*).
+
+    According to a rabbinic tradition, Cain was engendered by the sexual union of the serpent and Eve. See *Pirqei de-Rabbi Eli’ezer* 21 (according to David Luria’s emendation, based on *Yalqut Shim’oni*, Genesis 35): “The serpent-rider [Samael] copulated with her and she conceived Cain. Afterward her husband, Adam, copulated with her and she conceived Abel.” Cf. BT *Shabbat* 145b–146a, in the name of Rav Yosef: “When the serpent copulated with Eve, he injected her with זוהמא (*zohama*), filth [or: slime, lust].” Rashi (ad loc., s.v. *ke-she-ba naḥash al ḥavah*) explains: “When he counseled her to eat from the tree, he had sexual relations with her, as is written: *The serpent* השיאני (*hissi’ani*), *betrothed me* (Genesis 3:13), deriving from נשואין (*nissu’in*), marriage.” The verse from Genesis actually reads: השיאני‎ הנחש (*ha-naḥash hishi’ani*), *the serpent beguiled me*,” but Rashi alters the vocalization to derive this teaching. Cordovero asserts that the serpent did not literally copulate with Eve. See, however, Recanati, who writes: “It seems to me that even though there is a double meaning… nonetheless, [the serpent] performed an actual act of intercourse with her.” See *Peirush al ha-Torah*, 12c; Cordovero, *Pardes Rimmonim*, 25:6.
+
+    See *Targum Yerushalmi*, [[Torah 01 - Bereshit#^4-1|Genesis 4:1]] (variants); BT *Yevamot* 103b; *Zohar* 1:36b–37a, 52a, 54a–55a, 122b, 145b; 2:178a (*SdTs*), 231a; 3:76b; *ZḤ* 8c–9b, 63c (*ShS*); Moses de León, *Sefer ha-Rimmon*, 165, 368–69; idem, *Sefer Mishkan ha-Edut*, 12, 27–28, 30; Stroumsa, *Another Seed*, 38–53; Knohl, “Cain: Son of God or Son of Satan?”; Koren, *Forsaken*, 89–92. Cf. [[LXX 4 Maccabees 18#^18-7|4 Maccabees 18:7–8]].
+
+[^385]: **mouth of Elijah…** Indicating that it is a very ancient teaching. Since Cain was the progeny of the serpent, he too became a murderer, killing his brother Abel.
+
+    According to [[II Kings 02#^2-11|2 Kings 2:11]], the prophet Elijah did not die a normal death but was carried off to heaven in a chariot of fire. He became associated with the Messianic age; in rabbinic tradition, he is described as “still existing” and revealing divine secrets to righteous humans. The early kabbalists spoke of their mystical experiences and knowledge as “revelations of Elijah.”
+
+    See [[Malachi 3#^3-23|Malachi 3:23–34]]; BT *Bava Batra* 121b; *Bava Metsi’a* 59b; *Zohar* 2:216b; Scholem, *On the Kabbalah and its Symbolism*, 19–21.
+
+    On the serpent’s copulation with Eve and its role in engendering Cain, see [[LXX 4 Maccabees 18#^18-7|4 Maccabees 18:7–8]]; *Targum Yerushalmi*, [[Torah 01 - Bereshit#^4-1|Genesis 4:1]] (per British Library MS 27031, ed. Clark); BT *Yevamot* 103b; David Luria, *Pirqei de-Rabbi Eli’ezer* 21, n. 8; Naḥmanides, “Torat ha-Adam,” in *Kitvei Ramban*, 2:296; Scholem, “Qabbalot R. Ya’aqov ve-R. Yitsḥaq,” 237; “Peirush Merkavat Yeḥezqel le-Rabbi Moshe mi-Burgos,” 184; Todros ben Joseph Abulafia, *Sha’ar ha-Razim*, 132; *Zohar* 1:36b–37a, 52a, 54a–55a, 63b, 122b, 126a–b, 145b; 2:94a, 167b, 178a (*SdTs*), 193b, 236b; 3:14b, 76b, 97b, 143a (*IR*); *ZḤ* 8c–9b, 78c, 83b (latter two from *MhN Rut*); Moses de León, *Sefer ha-Rimmon*, 139; Israel Knohl, “Cain: Son of God or Son of Satan?” Cf. [[1 John 03#^3-10|1 John 3:10–12]].
+
+    Cf. *[[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-63c|ZḤ* 63c]]–d (*ShS*), which seems to be an elaboration of this entire passage. On the formulation “extending back to the mouth of Elijah,” see *Zohar* 2:216b.
+
+[^386]: **Cain, who slithered out…** The verse is parsed into three sections: one corresponding to the serpent; the second to Cain; and the third to his murderous heritage. Ideally, one can whisper a magical incantation or a charm for a wound, but not over one from the malevolent serpent.
+
+    The word מעופף (*me’ofef*), *flying*, signifies a replication of the serpent in Cain through its spelling with a double פ (*peh*). Further, *Targum Onqelos* on [[Torah 19 - Terumah#^26-9|Exodus 26:9]] renders the word וכפלת (*ve-khafalta*), *and you shall double over* [or: *and you shall fold*], as ותיעוף (*vetei’of*), deriving from the root עפף (*’ff*), which can mean “fly” or “double.” On Cain’s deriving from the serpent, see *Zohar* 1:54a; 3:76b.
+
+[^387]: **He came from Adam…** The verse states explicitly that Eve conceived as a result of intercourse with Adam, and her exclamation—*I have got me a man with YHVH*—confirms that the child derives from the side of holiness.
+
+    In its simple sense, Eve’s naming announcement means “*I hereby engage an agent-and-successor in the service of YHVH*.” See Naḥmanides, ad loc.: “This son will be for me an acquisition for *YHVH*—for when we shall die, he will exist in our stead to worship his Creator.”
+
+    ודאי (*Vadai*), “Actually,” is a technical term that signals the transparency of the mundane world to the supernal world and, from a hermeneutical perspective “an overlapping of exoteric and esoteric signification.” Here it indicates Eve’s understanding that her child has actually derived from her partnership with *YHVH*. See Wolfson, “Beautiful Maiden,” 79–88. In rabbinic literature, the term has precisely the opposite meaning, signaling the literal meaning as opposed to the figurative. See Loewe, “The ‘Plain Meaning’ of Scripture in Early Jewish Exegesis”; Halivni, *Peshat and Derash*, 17–19, 76–77.
+
+[^388]: **rattled about in her womb…** How could both the serpent and Adam have contributed to the formation of Cain? Adam’s seed served as the material substrate for the wicked slime that was already in Eve’s innards, but that could not constitute a corporeal body on its own.
+
+    Red is the color associated with the side of Judgment and death, signaling Cain’s character, and the ruddiness here anticipates the birth of Esau in [[Torah 06 - Toldot#^25-25|Genesis 25:25]].
+
+    See *Life of Adam and Eve* [*Apocalypse*], 21:3: “And she bore a son, and he was lustrous… and his name was called Cain.” See Kugel, *Traditions of the Bible*, 146.
+
+[^389]: **seed that Adam injected…** When Adam heeded Eve’s advice and ate from the Tree of Knowledge of Good and Evil, he became subject to the evil influence of the serpent—and his own seed was transformed, fortifying the evil slime deposited by the serpent. By receiving seed from Adam, who was created in the image of *YHVH*, Eve assumed that her offspring, too, would bear the divine stamp.
+
+[^390]: **ימים‎ מקץ (*mi-qets yamim*), *at the end of days*…** Rabbi Alexandrai contrasts this verse from [[Torah 01 - Bereshit#^4-3|Genesis 4:3]]—ending with ימים (*yamim*), *days*—with [[Daniel 12#^12-13|Daniel 12:13]], which ends: הימין‎ לקץ (*le-qets ha-yamin*), *at the end of days*. In the verse from Daniel, ימין (*yamin*) is an aramaized form of the Hebrew ימים (*yamim*), “days,” but Rabbi Alexandrai now interprets it as the Hebrew ימין (*yamin*), *right*, distinguishing between הימים‎ קץ (*qets ha-yamim*), *end of days*, and הימין‎ קץ (*qets ha-yamin*), *end of the right*.
+
+    *Qets ha-yamin, End of the right*, alludes to *Shekhinah*, who is the consummation of the divine flow, characterized by the grace of *Ḥesed* on the right (as opposed to the Other Side, which derives from the left). She will eventually bring redemption, reigning as the Kingdom of Heaven throughout all the worlds. *Qets ha-yamim*, “End of days,” refers to the Other Side, who appears as the Angel of Death and ends all human life.
+
+    In its simple sense, the verse in Genesis reads: *It happened* ימים‎ מקץ (*mi-qets yamim*), *in the course of time, that Cain brought from the fruit of the soil an offering to YHVH*. The verse in Daniel reads: *As for you, go on till the end; you will rest, and arise for your share* הימין‎ לקץ (*le-qets ha-yamin*), *at the end of days*.
+
+    On *qets ha-yamin*, see *Eikhah Rabbah* 2:6; *Pesiqta de-Rav Kahana* 17:5; *Midrash Tehillim* 137:7; *Zohar* 1:54a–b, 62b–63a, 75a (*ST*), 210b, 233b, 234b–235a; 2:33a–34a, 181b; 3:142b (*IR*); *[[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-63c|ZḤ* 63c]] (*ShS*); Moses de León, *Sefer ha-Rimmon*, 73–75, 368–71; idem, *Sheqel ha-Qodesh*, 80–81 (102–3); idem, *Sefer ha-Mishqal*, 158.
+
+[^391]: **Seth—foundation…** See *Bemidbar Rabbah* 14:12: “*He named him* שת (*Shet*), *Seth* (Genesis 5:3), because on him the world הושתת (*hushtat*), was founded.”
+
+    On the righteous as descending from Seth, see *Bereshit Rabbah* 23:5; *Pirqei de-Rabbi Eli’ezer* 22; *Zohar* 1:36b, 38a, 55a, 55b; 3:77a; Liebes, *Peraqim*, 372–73; Stroumsa, *Another Seed*, 74. Cf. BT *Eruvin* 18b.
+
+[^392]: **consummation of the alphabet…** The letters of Seth’s name—ת‎ ש, (*shin, tav*)—are the last two letters of the alphabet and proceed in the proper sequence. The correct sequencing of letters signifies the harmonious composition of the world. After Seth, the righteous in the world diminished and the linguistic order was reversed.
+
+    The reversal of the letters is indicated in the verse from Isaiah, *For from the stock of the snake there sprouts a* צפע (*tsefa*), *asp*, whose letters—ע‎ פ,‎ צ, (*tsadi, feh, ayin*) are in reverse sequence. The asp that comes *from the stock of the snake* is a symbolic manifestation of the corruption of the divine linguistic order. Given that God spoke the world into being, undermining language connotes the profanation of reality itself.
+
+    On the inversion of the alphabet, see *Zohar* 1:2b, 55b–56a, 205b; 2:51b, 212b; *ZḤ* 8c–9b, 66c–d (*ShS*).
+
+[^393]: ***from these, the whole earth spread out*…** A dearth of righteous people allows for corruption of humanity and of language itself. As a result, the linguistic restoration accomplished by Seth is undone by the time of the Flood, and the letters once again appear in reverse order. *These* refers to the letters—that is, humanity proceeded from these jumbled letters. See *Hadrat Qodesh*.
+
+[^394]: **stood on Mount Sinai…** When Israel accepted the Torah at Mount Sinai, they were sweetened—and cleansed of the primal filth that the serpent had injected into humanity. Consequently the alphabet was rectified, though some letters continued in their distorted fashion. When the Israelites sinned with the golden calf, their own spiritual putrefaction led to further corruption of the letters. When they repented, the letters were perfected again, attaining yet a different form.
+
+    On the purifying effect of the revelation at Sinai, see BT *Shabbat* 145b–146a, in the name of Rav Yosef: “When the serpent copulated with Eve, he injected her with זוהמא (*zohama*), slime [or: filth, lust]. Israel, who stood at Mount Sinai—their filth ceased. Idolaters, who did not stand at Mount Sinai—their filth did not cease.” See BT *Avodah Zarah* 22b; *Zohar* 2:87b; Moses de León, *Sefer ha-Rimmon*, 212.
+
+    The text is somewhat fragmentary here. The phrase “some remained inverted—one here and one there” may indicate a confused and inconsistent state of the world, or that the letters are proceeding in a combinatory sequence related to ב״ש‎ א״ת (*at bash*), normally an esoteric technique for substituting letters—last for first, penultimate for second, etc.—but here combining the pairs. Here that would indicate that holiness proceeded in an esoteric fashion. Yet another possibility is that this is a reference to the so-called inverted *nuns* that appear in [[Torah 36 - Beha'alotcha#^10-35|Numbers 10:35–36]]. See *Matoq mi-Devash*.
+
+    On the transmutations of letters, see BT *Sanhedrin* 22a, in the name of Rabbi: “At first the Torah was given to Israel in this writing [i.e., *Ashurit*]. When they sinned, it was changed into *Ro’etz* [i.e., the archaic Hebrew script]. When they repented, it was restored, as it says: *Return to the stronghold, you prisoners of hope* ([[Zechariah 09#^9-12|Zechariah 9:12]]).” See Rashi, s.v. *bikhtav zeh nitnah torah le-yisra’el*.
+
+[^395]: **When Solomon came…** With the arrival of King Solomon, the Temple was built, language was stabilized, and the moon—probably signifying *Shekhinah*—was fully illuminated: perfection was recovered. The pinnacle of that cosmic, spiritual, and historical moment was the revelation of Song of Songs, because then God’s love for the Jewish people was completely revealed. This homily began by considering the ways in which the Torah is like a nut: simple meaning without, profundity within. By concluding with the sacred history of humanity, in conjunction with the sacred history of the alphabet, the nut is now seen as a symbol of the axis of Torah, language, and history.
+
+    On the link between Solomon’s reign and the full moon, see *Shemot Rabbah* 15:26: “The moon, on the first of Nisan, begins to shine and continues to illuminate for fifteen days… Similarly, there are fifteen generations from Abraham to Solomon…. When King Solomon came, the disc of the moon became full, as is said: *And Solomon sat on the throne of YHVH as king*…” ([[I Chronicles 29#^29-23|1 Chronicles 29:23]]). See *Pesiqta de-Rav Kahana* 5:12.
+
+    On Solomon in the *Zohar*, see *Zohar* 1:73b–74a, 150a, 223a–b, 225b, 238a, 243a, 249b; 2:85a, 149a, 242a; 3:61a, 74b; Moses de León, *Shushan Edut*, 342; idem, *Sefer Sheqel ha-Qodesh*, 22–23 (26–27); idem, *Sefer ha-Mishqal*, 149; Hellner-Eshed, *A River Flows from Eden*, 93–99. On the significance of Song of Songs in the *Zohar*, see above, note 384.
+
+    The verse in Kings reads in full: *Solomon’s wisdom surpassed the wisdom of all the children of the East and all the wisdom of Egypt*.
+
+[^396]: **לחם (*Leḥem*), *bread*—Torah…** Torah is commonly associated with bread, but what is puzzling is the discrepancy between the two parts of the verse: the first part refers to two women, while in the second part the local women ask about Naomi only, as if she were alone.
+
+    On the identification of bread with Torah, see *Sifrei*, Deuteronomy 9; *Bereshit Rabbah* 43:6, 48:11, 70:5; *Vayiqra Rabbah* 30:1; *Shemot Rabbah* 25:8, 47:5; *Bemidbar Rabbah* 8:9, 13:15; *Pesikta de-Rav Kahana* 27:1; *Tanḥuma, Aḥarei Mot* 10; *Rut Rabbah* 2:1; *Qohelet Rabbah* 7:16, 10:19; *Midrash Tehillim* 34; *Midrash Mishlei* 31:14; *Eliyahu Zuta* 13; *Zohar* 1:165a; 3:58a, 236a (*RM*).
+
+    The full verse in Ecclesiastes reads: *Go, eat your bread with joy, and drink your wine with a merry heart; for God has already been pleased by your deeds*.
+
+[^397]: **even the empty among you…** A reference to the donkey-driver as an unskilled laborer. See BT *Sanhedrin* 37a, in the name of Resh Lakish: “*Like a pomegranate*, רקתך (*raqqatekh*), *the curve of your cheek* (Song of Songs 6:7). Even הריקנים (*ha-reiqanim*), the empty, among you are filled with commandments like a pomegranate!”
+
+[^398]: **dismounted…** The rabbis’ dismounting recalls a famous rabbinic story (BT *Ḥagigah* 14b): “Once Rabban Yoḥanan son of Zakkai was riding on a donkey, traveling on the road, and Rabbi El’azar son of Arakh was guiding the donkey behind him. [Rabbi El’azar] said to him, ‘Master, teach me one chapter of the Account of the Chariot [based on Ezekiel’s vision].” [Rabbi Yoḥanan] replied, “Have I not taught you: ‘Nor [may one expound the Account of] the Chariot in the presence of one, unless he is a sage who understands on his own’ (M *Ḥagigah* 2:1)?’ He said to him, ‘Master, permit me to say before you one thing that you have taught me.’ He replied, ‘Speak!’ Immediately, Rabban Yoḥanan son of Zakkai dismounted from the donkey and enwrapped himself and sat upon a stone beneath an olive tree. He [Rabbi El’azar] said to him, ‘Master, why did you dismount from the donkey?’ He replied, ‘Is it possible that you are expounding the Account of the Chariot—and *Shekhinah* is with us, and the ministering angels accompany us—and I should be riding on a donkey?’ Immediately, Rabbi El’azar son of Arakh began expounding the Account of the Chariot, and fire descended from heaven and encompassed [or: intertwined with] all the trees of the field, whereupon they all opened in song.”
+
+    See *Tosefta Ḥagigah* 2:1; *Mekhilta de-Rashbi*, [[Torah 18 - Mishpatim#^21-1|Exodus 21:1]]; JT *Ḥagigah* 2:1, 77a.
+
+[^399]: **tablets were written front and back…** The two verses from Exodus apparently specify a doubling of the tablets: first, it says *on the one side and on the other they were written*, and then there is a repeated reference to the tablets. Thus, one tablet symbolizes “front and back,” while the other symbolizes “right and left.” In Kabbalah, “front and back” signify *Tif’eret* and *Shekhinah*, respectively; and, “right and left” signify *Ḥesed* and *Gevurah*, respectively.
+
+    According to BT *Shabbat* 104a, in the name of Rav Ḥisda, the divine engraving of the first tablets had miraculous features: “The *mem* and the *samekh* that were in the tablets stood via a miracle…. The writing of the tablets could be read from within and without [that is, from both sides], e.g., נבוב (*nevuv*), hollow [would be read] בובן (*vuvan*); בהר (*be-har*), on the mountain, [as] רהב (*rahab*); סרו (*saru*), they departed, [as] ורס (*varas*).” See also M *Avot* 5:6; *Mekhilta, Vayassa* 5; *Mekhilta de-Rashbi*, [[Torah 16 - Beshalach#^16-32|Exodus 16:32]]; *Sifrei*, Deuteronomy 355; JT *Sheqalim* 6:1, 49d; BT *Pesaḥim* 54a; *Avot de-Rabbi Natan* B, 37; *Pirqei de-Rabbi Eli’ezer* 19, 46; Kasher, *Torah Shelemah*, [[Torah 21 - Ki Tisa#^32-15|Exodus 32:15]] and nn. 160–62; *Zohar* 2:84a–b.
+
+[^400]: **(*ve-ha-mikhtav mikhtav*), *and the script… script*…** Initially, God wanted to give two Torahs to Israel—presumably the Written Law and the Oral Law—signifying *Tif’eret* and *Shekhinah*. These two are represented by the letters ה‎ ו (*vav, he*)—literally *and the*—which are the last two letters of the tetragrammaton. The *vav* and *he* preceding the words *tablets* and *script*—along with the fact that there are specifically two tablets and two iterations of *script*—indicate that one tablet manifests the union of masculine and feminine aspects of Divinity.
+
+[^401]: **והלוחות (*Ve-ha-luḥot*), *And the tablets*…** The second tablet manifests the union of *Ḥokhmah* and *Binah*, signified by ה‎ י (*yod he*). The miraculous engraving is an act of *Elohim*, the divine name signifying *Binah*. Thus, the two tablets together—one signifying *vav he*, and one signifying *yod he*—express the union of the totality of God.
+
+[^402]: **two arms…** Continuing in a series of interpretations of the letters ו (*vav*) and ה (*he*), here they signify *Ḥesed* and *Gevurah*.
+
+[^403]: **Jacob and Rachel…** *Script* that is defined by *vav* and *he* refers to Written and Oral Torah, signifying *Tif’eret* and *Shekhinah*. This pair is often symbolized by the pairs “Jacob and Rachel,” “sun and moon,” or two breasts. When they are united, they are as one.
+
+    On “two breasts” as signifying two tablets, see *Mekhilta, Baḥodesh* 8: “The sages say, ‘Ten [utterances] on this tablet and ten on that, as is said: …*Your breasts are two fawns, twins of a gazelle* ([[Song of Songs 7#^7-4|Song of Songs 7:4]]).’”
+
+[^404]: ***ḥeirut, freedom*…** The tablets, or the Torah, provide the ultimate redemption from all ills. See *Vayiqra Rabbah* 18:3: “*Ḥarut, engraved upon the tablets*. Do not read *ḥarut, engraved*, but rather *ḥeirut, freedom*. Rabbi Yehudah, Rabbi Neḥemiah, and the Rabbis [disputed the matter]. Rabbi Yehudah said, ‘Freedom from the Angel of Death.’ Rabbi Neḥemiah said, ‘Freedom from kingdoms.’ The Rabbis said, ‘Freedom from suffering.’”
+
+    See *Avot* 6:2; BT *Eruvin* 54a, *Avodah Zarah* 5a; *Shir ha-Shirim Rabbah* on 8:6; *Tanḥuma, Ki Tissa* 16, *Eqev* 8; *Tanḥuma* (Buber), *Va’era* 9; *Shelaḥ* add. 1; *Shemot Rabbah* 41:7; *Pirqei de-Rabbi Eli’ezer* 46; *Zohar* 1:37b, 63b, 131b–132a, 152b; 2:45b, 113b–114a, 183a; 3:6b, 176a, 196b; Moses de León, *Sheqel ha-Qodesh*, 25 (29–30). Cf. *Avot de-Rabbi Natan* A, 2.
+
+[^405]: **letters flew off from two sides…** The sin of the golden calf caused the linguistic dissolution of the tablets—the masculine right and front sides departed, leaving only the feminine left and back, a distorted and deficient revelation.
+
+    On the letters flying away, see BT *Pesahim* 87b; *Avot de-Rabbi Natan* A, 2; *Shemot Rabbah* 46:1. On the distinction between the original tablets and their copy, see Tishby, *Wisdom of the Zohar*, 3:1103–06.
+
+[^406]: ***bread*…** The end of the famine and the deliverance of bread signifies the giving of the second tablets, another bestowal of Torah.
+
+    In rabbinic and kabbalistic literature, bread frequently serves as a symbol for Torah—for both are life-sustaining staples. See *Bereshit Rabbah* 70:5: “[Aquila the convert] came to Rabbi Yehoshu’a and began with words of comfort: “The bread is the Torah, as is written: *Come, eat my bread-food* ([[Proverbs 09#^9-5|Proverbs 9:5]]).” See above, note 396.
+
+[^407]: ***Whole*—Righteous One…** The term כל (*kol*), *whole*, signifies *Yesod*; and העיר (*ha-ir*), *the city*, signifies *Malkhut*. Thus, the arrival of Naomi and Ruth in Bethlehem marks a restoration of divine unity.
+
+[^408]: ***Could this be Naomi*…** In the biblical story, Naomi leaves the land of Israel with her husband and two sons, and—according to rabbinic tradition—as part of a family of wealthy community leaders. She returns as a widow, indigent, and with a widowed daughter-in-law. Here, Naomi’s downfall represents the shattered tablets. When the first tablets were given, Israel experienced bliss and freedom from worldly concerns. The revelation of the first set of commandments was characterized by the experience of *seeing the* קולות (*qolot*), *the thunderings*. Now the unified *sefirot Yesod* and *Malkhut*, represented by *the whole city*, are astonished by the fallen state of the tablets. Naomi, signifying the Torah, also bemoans her degradation. The name Naomi means “delight” or “sweetness,” which she, and the Torah corresponding to her, no longer manifests. Upon receiving the second set of tablets, this multi-sensory experience is not depicted, and the people therefore ask: *Could this be Naomi?* Can this be the same Torah we received before?
+
+    On the striking formulation of *seeing* הקולות (*ha-qolot*), *the thunderings*, see *Mekhilta, Baḥodesh* 9, in the name of Rabbi Akiva: “They were seeing the fiery word issuing from the mouth of Power and being engraved on the tablets, as is said: *The* קול (*qol*), *voice, of YHVH hews flames of fire* (Psalms 29:7).”
+
+    See *Mekhilta de-Rashbi*, [[Torah 17 - Yitro#^20-15|Exodus 20:15]]; *Pirqei de-Rabbi Eli’ezer* 41; *Midrash Shemu’el* 9:4; Rashi, Rashbam, and Ibn Ezra (short and long) on the verse; *Bahir* 29 (45); Maimonides, *Guide of the Perplexed* 1:46; *[[Zohar 12.11 - Zohar al ha-Parashot#^zh-41b|ZḤ* 41b]]–c; *TZ* 38, 79a. Cf. *Zohar* 1:52b; *Zohar* 2:81a–b, 82a.
+
+    The full verse in Exodus 20 reads: *All the people were seeing the thunderings* [or: *voices*], *and the flashes and the sound* [or: *voice*] *of, the shofar and the mountain smoking, and the people saw and trembled and they stood at a distance*.
+
+[^409]: ***you will see My back*…** At first, the people of Israel were offered revelation in its full glory, with tablets of right and left, front and back. Forging the calf represented their rejection of that aspect of Torah, so they were left with an inferior version—just left and back sides.
+
+[^410]: **to the other nations…** According to rabbinic tradition, before giving the Torah to Israel, God offered it to the other nations. However, they refused to accept its moral constraints.
+
+    On God offering the Torah to other nations, see *Mekhilta, Baḥodesh* 5; *Sifrei*, Deuteronomy 343; *Midrash Tanna’im*, [[Torah 54 - V'Zot HaBerachah#^33-2|Deuteronomy 33:2]]; *Targum Yerushalmi*, [[Torah 54 - V'Zot HaBerachah#^33-2|Deuteronomy 33:2]]; BT *Avodah Zarah* 2b; *Pirqei de-Rabbi Eli’ezer* 41; *Tanḥuma, Vezot Haberakhah* 4; *Shemot Rabbah* 27:9; *Zohar* 1:25a (*TZ*); 2:3a; 3:19b, 91b, 192a–193a.
+
+[^411]: **infants and sucklings…** God has two Torahs and procures two sets of guarantors, “the babes and sucklings.”
+
+    See *Shir ha-Shirim Rabbah* on 1:4, in the name of Rabbi Me’ir: “When Israel stood before Mount Sinai to receive the Torah, the blessed Holy One said to them, ‘Shall I give you the Torah without guarantors! Rather, bring me trustworthy guarantors as assurance, and then I shall give it to you.’ They said, ‘Our forefathers will be our guarantors.’ The blessed Holy One said to them, ‘Your forefathers need guarantors!… I have [charges] against them. I have a charge against Abraham because he said, *How shall I know* [*that I will inherit it?*] ([[Torah 03 - Lech Lecha#^15-8|Genesis 15:8]]). I have a charge against Isaac because he loved Esau, while I hated him, as is said: *But Esau I hated* ([[Malachi 1#^1-3|Malachi 1:3]]). [Against] Jacob, as is said: [*Why do you say, O Jacob*]… *‘My way is hid from YHVH’* ([[Isaiah 40#^40-27|Isaiah 40:27]])…. Bring me trustworthy guarantors and I shall give it to you!’ They said to Him, ‘Behold, our children will be our guarantors.’ The blessed Holy One said, ‘These are indeed trustworthy guarantors. By means of their surety I shall give it to you.’ This is as is written: *From the mouths of babes and sucklings You have founded strength* ([[Psalms 008#^8-3|Psalms 8:3]]).”
+
+[^412]: ***Those weaned from milk*…** In Isaiah, all sections of the verse are questions. Here, the last question is read as a statement answering the first two.
+
+    On the theme of the son redeeming the father, see *[[Zohar 12.11 - Zohar al ha-Parashot#^zh-49a|ZḤ* 49a]]–b, 84a–c (both *MhN, Rut*); Benarroch, *Sava ve-Yanuqa*, 264–65.
+
+[^413]: **Israel stood at Mount Sinai…** Mount Sinai is called לחם‎ בית (*Beit Leḥem*), “House of Bread,” because the Torah—which is compared to bread, was given there. When the Torahs were given, all the nations, signified by *the women*, are astonished and proclaim: *This is indeed Naomi*, signifying their awareness of the sweetness of Torah. Thus, the teaching has turned the question into an exclamation.
+
+    On Torah as *bread*, see above, note 406.
+
+    The name Naomi means “she of loveliness [or: pleasance, sweetness].” The name is quite old, often appearing in Ugaritic as an epithet for gods and the heroes Aqhat and Keret. See Sasson; Eskenazi and Frymer-Kensky.
+
+[^414]: **they arrived at Marah…** The place name Marah means “bitter,” referring to the bitterness of the desert springs encountered by the Israelites in the wilderness after leaving Egypt. The bitter waters there were their first experience of the challenges and demands of Torah. In response to this experience, Naomi—signifying the Torah—refers to herself as *Mara*, *Bitter*.
+
+    In rabbinic literature, the verse *There did He set him a statute and law, and there did He test him* is applied to the laws of circumcision, Sabbath, sexual morality, honoring one’s parents, and the establishment of law courts. See *Mekhilta, Vayassa* 1; *Tanḥuma* (Buber), *Beshallaḥ* 18; BT *Sanhedrin* 56b; *Bahir* 107 (161); *Zohar* 2:40a, 60b; *TZ* 60, 93a.
+
+[^415]: **three parasangs…** The donkey driver who previously goaded for them now rides upon them, a mark of great honor. A parasang is a Persian mile, equaling just under three-and-a-half modern miles. In the Talmud, distances were measured by the time it would take to traverse them, and it was approximated that three parasangs would take three-and-a-half hours to walk.
+
+    According to Rav Sheshet in BT *Sotah* 46b, one should escort his teacher a distance of a parasang; a distinguished teacher, however, is to be escorted for three parasangs. This is also the distance one must have from one’s teacher in order to be able to teach Torah. *Bereshit Rabbah* 32:10 relates that when Rabbi Yonatan was startled by the wisdom of his donkey driver, he “immediately descended from his donkey and made the driver ride three miles. He applied… to him *Like a pomegranate, the curve of your cheek*—even the ריקנין (*reiqqanim*), empty ones, among you are full of answers like a pomegranate.”
+
+    On the fullness of those who are ignorant at first glance, see *Bereshit Rabbah* 32:10; *Pesiqta de-Rav Kahana* 18:5; above, notes 122, 382, 397. On the significance of three parasangs, see BT *Eruvin* 63a, *Sanhedrin* 5b; *Leqaḥ Tov, Shofetim* 34b; Maimonides, *Mishneh Torah, Hilkhot Sanhedrin* 20:9, *Hilkhot Avel* 14:3; *Zohar* 1:51a, 87a, 96b, 150b, 217a, 240a; 2:14a, 164a, 187a; 3:8b.
+
+[^416]: **crowned with supernal, engraved names…** See *Tanhuma* (Buber), *Shelaḥ*, add. 1: “Rabbi Shim’on son of Yoḥai said, ‘He equipped them with weapons engraved with the Ineffable Name, and as long as they possessed these, no evil could touch them, neither the Angel of Death nor anything else. Once they sinned, Moses said to them, *Now take off your ornaments, and I will know what I should do with you* ([[Torah 21 - Ki Tisa#^33-5|Exodus 33:5]]).’”
+
+    On Israel’s ornaments at Sinai, see *Targum Onqelos* and *Targum Yerushalmi*, [[Torah 21 - Ki Tisa#^33-4|Exodus 33:4]], [[Torah 21 - Ki Tisa#^33-6|6]]; *Targum Shir ha-Shirim* 2:17; *Eikhah Rabbah, Petiḥta* 24; *Shir ha-Shirim Rabbah* on 1:4; BT *Shabbat* 88a; *Tanḥuma, Shelaḥ* 13; *Shemot Rabbah* 45:2; 51:8; *Bemidbar Rabbah* 16:24; *Pirqei de-Rabbi Eli’ezer* 47; Naḥmanides on [[Torah 21 - Ki Tisa#^33-6|Exodus 33:6]]; *Zohar* 1:52b, 63b; 2:227a; Green, *Keter*, 68–77.
+
+[^417]: **Rabbi Alexandrai continued…** This continues Rabbi Alexandrai’s discourse from 83a. “Rabbi Alexandrai continued his trend” appears to be a gloss interpolated by a later hand to make the connection. See Scholem; *Matoq mi-Devash*; above, page 161.
+
+[^418]: **Why is it so named?…** The root לחם (*lḥm*) can mean “quarrel, battle, dispute.” Thus, *beit leḥem* can be read as “house of dispute.” When a person dies, the body and soul are judged in the celestial tribunal, where there is contention over the person’s fate. *The whole city hummed* signifies all the souls of the dead who are in tumult, concerned about the outcome.
+
+[^419]: **angel appointed over the cemetery…** On seeing an angel at the time of death, see *Massekhet Ḥibbut ha-Qever*, 150–51; Moses de León, *Sefer Mishkan ha-Edut*, 104.
+
+[^420]: **lame one and the blind one…** The parable of the blind and lame thieves entails the latter climbing on the back of the other, so that the two of them together can steal from the king’s orchard. This explains the relationship of the body and soul, neither of which can sin on its own, but they can transgress effectively together. Each pleads innocence—each blaming the other. For three days, they are judged jointly, based on the evidence provided by the person’s speech and actions.
+
+    On the soul being judged together with the body for three days, see BT *Shabbat* 151b: “*I will spread dung upon your faces, the dung of your feasts*. Rav Ḥuna—others say Rav Ḥaga—said, ‘This refers to people who abandon words of Torah and make all their days like feasts.’ Rabbi Levi said in the name of Rav Pappi in the name of Rabbi Yehoshu’a, ‘After three days [in the grave], his belly bursts and it [i.e., its contents] falls upon his face, exclaiming to him, “Take what you put into me!”’”
+
+    On the parable of the lame and blind watchmen and its application to the body and soul, see above, notes 380–81. On the insertion of the soul into the body before judgment, see *Massekhet Ḥibbut ha-Qever*, 150–51. On the bodily disgrace after three days, see *Vayiqra Rabbah* 18:1.
+
+[^421]: **The soul mourns…** After three days, vermin afflict the body and the soul mourns its failure to learn Torah and act virtuously in this world.
+
+    On the *nefesh* mourning over the body, see above, note 380.
+
+    From here on, the sections of text on 84a appear in a different sequence in V24, O17, L39, MS3, MS4, and Thiengen. A long passage—dealing with quartets of letters, aspects of soul, and the tetragrammaton—that appears on 84a–b is being omitted from the critical edition of our text. Though it is found in all the early manuscripts, its style reveals that it was a later addition. See Scholem; Liebes, *Peraqim*, 176; Weiss, “Shtei Girsa’ot,” 534–35 and n. 56.
+
+[^422]: **why was *Shekhinah* exiled…** *Shekhinah* is held responsible for spoiling Israel, continuing to bestow material goods upon them without regard for their lack of piety. Consequently, She is sent into exile along with them. Thus, She is like the soul that is supposed to guide and discipline the pleasure-seeking body; when the soul fails to do so, it is punished along with the body.
+
+    On *Shekhinah*’s exile, see BT *Megillah* 29a: “Rabbi Shim’on son of Yoḥai says, ‘Come and see how beloved are Israel in the sight of the blessed Holy One! Wherever they went in exile, *Shekhinah* accompanied them. When they were exiled to Egypt, *Shekhinah* was with them…. When they were exiled to Babylon, *Shekhinah* was with them…. And even when they are destined to be redeemed, *Shekhinah* will be with them.’” See above, note 98.
+
+    On Israel’s rebellions arising from excessive material well-being, see *Sifrei*, Deuteronomy 312.
+
+[^423]: **children of Ishmael and Esau…** The “children of Ishmael” can represent the biblical figure’s descendants, but most often, as here, signifies Muslims. In rabbinic literature, the name Esau (or his nation Edom) often represents Rome, and in medieval literature it often represents Christianity. Rabbi Alexandrai explains the midrash regarding the decomposition of the body symbolically, regarding the vermin as representative of Muslims and Christians, and the bursting of the body as symbolic of those nations’ persecution of Israel. This is part of divine retribution for their moral and spiritual backsliding. The *Shekhinah* mourns over their tribulations, and She then ascends upward to *Binah*, signified by Naomi.
+
+    On persecution of the Jews by Muslims and Christians, see *Pirqei de-Rabbi Eli’ezer* 30; *Zohar* 2:17a (*MhN*), 178b. On Ishmael in the *Zohar*, see Kiener, “The Image of Islam in the *Zohar*.” On Esau representing Rome and Christianity, see Cohen, “Esau as Symbol in Early Medieval Thought”; Yuval, *Two Nations in Your Womb*, 10–12.
+
+[^424]: ***hummed with excitement*…** The excitement generated by Naomi’s and Ruth’s return is identified with the astonishing experience of revelation at Mount Sinai.
+
+    This section appears out of place and is not found in the printed text. However, because it is present in V24, MS4, O17, L39, MS3, *OY*, Th, and V, I have included it here.
+
+[^425]: **his lips are astir…** One has “his learning in his hands” if he has recited the teachings repeatedly. Then, even in the grave, his lips will continue to utter words of Torah, which offer protection from punishment.
+
+    The notion of repeated recital of one’s learning is exemplified in a teaching ascribed to Hillel in BT *Ḥagigah* 9b: “He who repeated his chapter a hundred times is not to be compared with one who repeated it one hundred and one times.”
+
+    On having total possession of one’s learning through repeated recital, see BT *Pesaḥim* 50a, and Rabbenu Ḥananel, ad loc.; *Bava Batra* 10b, and Rabbenu Gershom, ad loc.; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-80b|ZḤ* 80b]] (*MhN, Rut*). Maharsha explains that the phrase signifies one who has composed his understanding of Torah in writing. See Maharsha on *Bava Batra* 10b; cf. BT *Yoma* 38b.
+
+    On lips *she-shonim*, “that recite”—rather than being like *shoshanim, roses*—see BT *Shabbat* 30b; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-47d|ZḤ* 47d]] (*MhN, Rut*). On scholars’ lips moving in the grave, see *Shir ha-Shirim Rabbah* on 7:10: “Rabbi Yoḥanan said, ‘Even when a scholar [reading תורה‎ בן (*ben torah*), “son of Torah,” instead of תורתה‎ בן (*ben tortah*), “son of Tortah”] is dead, his lips move in the grave. Why? *Stirring the lips of sleepers* ([[Song of Songs 7#^7-10|Song of Songs 7:10]]).’” On *shoshanim* as roses, see Vol. 1, p. 1, n. 1; Benarroch, “‘The Mystery of Unity,’” 243–44, nn. 63–64.
+
+    See also BT *Sanhedrin* 90b, in the name of Rabbi Shim’on son of Yehotsadak: “If a law is quoted in a person’s name in this world, his lips stir in the grave, as is said: *stirring the lips of sleepers*.” See JT *Berakhot* 2:1, 4b; *Sheqalim* 2:5, 47a; *Mo’ed Qatan* 3:7, 83c; BT *Yevamot* 97a, *Bekhorot* 31b; *Tanḥuma, Ki Tissa* 3; *Midrash Tehillim* 30:3; *Midrash Shemu’el* 19:4; *Pesiqta Rabbati* 2, 5b–6a; *Zohar* 3:39a–b; 96a; 135a (*IR*); *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-47d|ZḤ* 47d]] (*MhN, Rut*).
+
+    On Torah’s protection in the grave, see *Avot* 6:9; *Sifra, Aḥarei Mot* 13:11, 86b; BT *Sotah* 21a and Rashi, ad loc., s.v. *hi tesiḥekha*; *Devarim Rabbah* (Lieberman) on 6:9; *Aggadat Bereshit* 46; *Zohar* 1:175b, 185a.
+
+    The end of the verse from Song of Songs reads: *his lips are like lilies dripping flowing myrrh*. The full verse in Proverbs, understood as describing Torah, reads: *When you walk, she will guide you; when you lie down, she will protect you; you will awake, and she will speak for you*.
+
+[^426]: **complete his studies…** Several talmudic stories relate that an individual encounters the Angel of Death but seeks a reprieve to review his learning. See BT *Mo’ed Qatan* 28a, *Ketubbot* 77b; cf. *Berakhot* 38b, *Pesaḥim* 68b; above, note 280.
+
+[^427]: **While speaking with him…** In the midst of Rabbi Ḥisda’s speaking with Rabbi Yose, angels came to escort Rabbi Ḥisda up to his heavenly abode.
+
+[^428]: **deserved punishment there** On the dangers of watching souls’ heavenly ascent, see BT *Bava Metsi’a* 85b, in the name of Rav Ḥaviva son of Surmakia: “I saw one of the rabbis whom Elijah used to frequent, whose eyes were clear in the morning, but in the evening they looked as if burnt in fire. I asked him, ‘What happened here?’ And he answered me, ‘I asked Elijah to show me the Rabbis as they ascend to the heavenly academy. He replied, “You can look upon all, except for the chair of Rabbi Ḥiyya—upon which you may not look.” “How is it to be distinguished?” “All are accompanied by angels when they ascend and descend, except Rabbi Ḥiyya’s chair, which ascends and descends on its own.” But unable to control myself, I gazed upon it. Two fiery streams issued forth, struck, and blinded the man [a euphemism for “me”] in one eye. The following day, I went and prostrated myself upon his grave—crying out, “It is your *baraita* that I study!”—and I was healed.’”
+
+[^429]: ***kinsman on her husband’s side*…** The nature of Boaz’s familial connection to Elimelech is unclear, but based on 3:12, he appears to be a distant relation. Rabbinic tradition suggests that he is Elimelech’s nephew and Naomi’s cousin. See BT *Bava Batra* 91a; Rashi.
+
+    *Powerful might* renders חיל‎ גבור (*gibbor ḥayil*). In narratives about Israel’s early history, the term signifies military might, but later it comes to mean social and economic worth. In rabbinic texts, it comes to signify erudition in Torah. See BT *Sanhedrin* 93b; *Rut Rabbah* 4:3; *Targum*; Sasson; Zakovitch; Eskenazi and Frymer-Kensky.
+
+[^430]: **גבור (*gibbor*), *Mighty, in the land*…** If one has procreated and has descendants, he has “built” in the world, securing his future in eternity. If he does not sire children and is compelled to undergo the suffering of *yibbum* (levirate marriage), then he must proceed “hand to hand,” through reincarnation. Such a person is evil and cannot escape punishment.
+
+    Rabbi Reḥumai understands *hand to hand* as a reference to reincarnation which, in Zoharic Kabbalah, is activated through levirate marriage. This doctrine is deeply esoteric in thirteenth- and fourteenth-century Kabbalah, as indicated here by Reḥumai’s oblique use of the verse from Psalms. The verse concludes: *And to them He reveals His covenant*, with the term *covenant* being understood as a symbol for procreation.
+
+    According to the biblical custom of levirate marriage, if a married man dies childless, his brother should marry the widow and then father a child, who will be considered the offspring of the deceased. Posthumously providing the dead man with offspring prevents his name from being blotted out. In the story of Ruth, Boaz—as kinsman to Mahlon—fulfills the function normally performed by the brother. In Kabbalah, levirate marriage is understood in terms of reincarnation: not only the name of the deceased husband is preserved but also his soul, transmigrating into the embryo generated by the union of his widow and his brother.
+
+    On levirate marriage, see Genesis 38; [[Torah 49 - Ki Teitzei#^25-5|Deuteronomy 25:5–10]]; Ruth 3–4; Tigay, *Deuteronomy*, 231–32, 482–83; Eskenazi and Frymer-Kensky, xxxii–viii. On the medieval context, see Katz, *Halakhah ve-Qabbalah*, 127–74; Grossman, *Pious and Rebellious*, 90–101. The English term “levirate marriage” derives from Latin *levir*, “husband’s brother.” The corresponding Hebrew term יבום (*yibbum*) similarly derives from יבם (*yabbam*), “husband’s brother.”
+
+    On reincarnation in Kabbalah, see *Bahir* 86 (121–22), 104 (155–56), 126–27 (184), 135 (195); Naḥmanides on [[Torah 09 - Vayeshev#^38-8|Genesis 38:8]], [[Torah 49 - Ki Teitzei#^25-6|Deuteronomy 25:6]], [[Job 33#^33-30|Job 33:30]]; *Zohar* 1:48a, 131a, 186b–188a, 239a; 2:75a, 91b; 3:7a, 88b, 177a, 182b; *[[Zohar 12.11 - Zohar al ha-Parashot#^zh-59a|ZḤ* 59a]]–c (*MhN*), 89b–90a (*MhN, Rut*); Todros Abulafia, *Otsar ha-Kavod, Yevamot*, p. 25a; on 62a, p. 25c–d; *Ketubbot* 111a, p. 27c; Joseph of Hamadan, *Sefer Ta’amey ha-Miẓwoth*, 250–57; Scholem, *Major Trends*, 242–43; idem, *Kabbalah*, 344–50; idem, *Origins of the Kabbalah*, 188–94, 237–38 (on the Catharist theory of reincarnation), 456–60; idem, *On the Mystical Shape of the Godhead*, 197–250 (on the Catharists, 199–200); idem, *Shedim Ruḥot u-Nshamot*, 186–214, 298; Tishby, *Wisdom of the Zohar*, 3:1362–63; Gottlieb, *Meḥqarim*, 370–96; Liebes, *Peraqim*, 291–327; Elior, “Torat ha-Gilgul”; Oron, “Qavvim le-Torat ha-Nefesh ve-ha-Gilgul”; idem, “Mavo” to Todros Abulafia, *Sha’ar ha-Razim*, 22–24 (and nn. 43–46); Schwartz, “Ha-Biqqoret al Torat Gilgul ha-Neshamot”; Yisraeli, *Parshanut ha-Sod*, 113–29; Ḥaggai ben Shammai, “Gilgul neshamot,” 117–36. The first extensive kabbalistic discussion of reincarnation is found in the section titled *Sava de-Mishpatim* (*Zohar* 2:95a–113a).
+
+    On the connection between levirate marriage and reincarnation, see Ezra of Gerona, *Peirush le-Shir ha-Shirim*, 537; Naḥmanides on [[Torah 09 - Vayeshev#^38-8|Genesis 38:8]]; *Zohar* 1:155b (*Mat*), 186b–188a; 3:167a, 177a, 259b; *[[Zohar 12.11 - Zohar al ha-Parashot#^zh-59a|ZḤ* 59a]]–c (*MhN*), 89d–90a (*MhN, Rut*); Moses de León, *Shushan Edut*, 353–60; idem, *Sefer ha-Rimmon*, 240–52; idem, *Sefer ha-Mishqal*, 136–46; idem, *She’elot u-Tshuvot*, 33–35; Katz, *Halakhah ve-Qabbalah*, 167–71; idem, *Divine Law in Human Hands*, 45–49.
+
+    The verse in Proverbs concludes: *but the seed* [or: *offspring*] *of the righteous escapes*. See Fox.
+
+[^431]: ***redeeming kinsmen*** Actually, Mahlon will be redeemed from his failure to father children—as achieved through the levirate marriage of, and procreation by, Boaz and Ruth.
+
+[^432]: ***will not go unpunished*** How can Boaz’s levirate marriage resolve the issue, since the verse seems to promise that Mahlon would be punished?
+
+[^433]: **guardsman who whips sinners…** It is true that one who dies childless will be scourged, but once levirate marriage achieves its aim of producing offspring (the “surety” in the parable) in the name of the deceased husband, he is relieved of further punishment. At that point, the guard ceases his flogging.
+
+[^434]: **one who resuscitated a person…** The truth of this matter is so recondite that it will not be revealed until the arrival of Elijah, precursor of the messiah—the one who had revived a child. See [[I Kings 17#^17-23|1 Kings 17:23]]; Malachi 4:23. Alternatively, it may be a reference to the messiah who will resurrect the dead.
+
+    The exchange here between Rabbi Rehumai and Rabbi Naḥman is somewhat obscure. Others have interpreted it as referring to two different esoteric understandings of transmigration of souls. See *Sullam*; Mopsik; *Matoq mi-Devash*; Englander.
+
+[^435]: **Rabbi Zemira’ah…** The following story, often called “The *Tanna* and the Restless Dead,” outlines a method for alleviating the suffering of a sinner in Geihinnom. The story enjoyed wide circulation in over forty versions in medieval folktales, liturgical works, midrash, ethical literature, and Kabbalah. A number of the versions portray Rabban Yoḥanan son of Zakkai as the hero, while some have Rabbi Akiva. This is the first version to name Rabbi Zemira’ah as the hero. The mysterious Arab here may be understood as Elijah in disguise.
+
+    On voices coming from beneath the ground, see BT *Sanhedrin* 110a, in the name of Rabbah son of Bar Ḥana: “I was proceeding on the road, when an Arab said to me, ‘Come, and I will show you where Korah [and his band were] were swallowed up.’ I went and saw two crevices, smoke issuing from them. Thereupon he took a piece of clipped wool, soaked it in water, attached it to the point of his spear, and passed it over there—and it was singed. I said to him, ‘Listen to what you are about to hear.’ And I heard them saying thus, ‘Moses and his Torah are true, but they [Korah’s company] are liars.’” Cf. BT *Eruvin* 19a, *Ḥagigah* 15b, *Bava Batra* 74a, *Sanhedrin* 65b.
+
+    “Enclosed” renders קרטוניא (*qartunyah*), from קרטון (*qarton*), which refers to an enclosure for a division in a military camp. However, the phrase קרטוניא‎ בקעי (*baq’ei qartunia*), “enclosed crevices,” recalls the crevices encountered by Rabbi Ḥiyya and Rabbi Yose in the קרדו‎ טורי (*turei qardu*), “mountains of Kurdistan,” in *Zohar* 1:63a. See Vol. 1, p. 366, n. 178; *[[Zohar 12.11 - Zohar al ha-Parashot#^zh-49a|ZḤ* 49a]]. Further, the word is similar to קרטופנא (*qartufna*), plural קרטופני (*qartufanei*), which can mean “incision, scratch.” On קרטון (*qarton*), see BT *Berakhot* 32b. On קרטופנא (*qartufna*), see BT *Pesaḥim* 30b, *Ketubbot* 107b, *Bava Qamma* 86a, *Avodah Zarah* 33b; *Bei’ur ha-Millim ha-Zarot*, 187, s.v. *qartufa*.
+
+    “Clustered” renders קומטרי (*qumterei*), based on the root קמט (*qmt*), “to bind, tie” (as in *Targum Yonatan*, [[Proverbs 05#^5-22|Proverbs 5:22]]). See *Zohar* 1:107b (Tos); 3:18a, 88a; *Bei’ur ha-Millim ha-Zarot*, 187, s.v. *qumta*; Luria, *Va-Ye’esof David*, s.v. *qumta*.
+
+    On Elijah disguised as an Arab, see BT *Berakhot* 6b; *Midrash Rut Zuta* 1:20, 4:11.
+
+    On the story, see *Nispaḥim le-Seder Eliyahu Zuta, Pirqei Derekh Erets*, 22–23; *Kallah Rabbati*, 2:9 (Higger); *Ginzei Schechter*, 238–40; *Maḥazor Vitri*, 112–13; Isaac ben Moses, *Or Zaru’a*, *Hilkhot Shabbat*, vol. 2, 50; Abu Hamad al Ghazali, *Sefer Mozenei Tsedeq*, 121; *[[Zohar 12.11 - Zohar al ha-Parashot#^zh-49a|ZḤ* 49a]]–b; M. B. Lerner, “Ma’aseh ha-tanna ve-ha-met”; Rella Kushelevsky, “The Tanna and the Restless Dead”; idem, “Ha-tanna ve-ha-met ha-noded”; Ta-Shma, *Ha-Nigleh she-be-Nistar*, 116–18 n. 39; Weiss, “Shtei Girsa’ot.”
+
+[^436]: **He asked him…** On listening to and communicating with the dead, see BT *Berakhot* 18b, *Sanhedrin* 65b; Meroz, “The Grieving Dead,” 49–50.
+
+[^437]: **He is a sinful Jew…** The sinner speaks about himself in the third person—a literary expression of his alienation, being adrift between the worlds of the living and the dead.
+
+[^438]: **sinners… cannot remember their names** On the dead not remembering their names, see *Massekhet Ḥibbut ha-Qever* (*Beit ha-Midrash*, 1:150); *[[Zohar 12.11 - Zohar al ha-Parashot#^zh-49a|ZḤ* 49a]].
+
+[^439]: **punished three times a day…** On the daily punishments in Hell, see *[[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-69a|ZḤ* 69a]] (*ShS*).
+
+[^440]: **voice of a child reciting…** Each of the children gives Rabbi Zemira’ah an oracular message. The first encourages him to continue his search—for, like Torah, the understanding that he seeks can be achieved only through diligence. The second child communicates that through particularly virtuous behavior, one can spare oneself from punishment. As a result, Rabbi Zemira’ah proceeded with his investigation.
+
+    On the oracular quality of children’s recitation of verses, see Augustine’s comment: “I heard the voice of a boy or a girl—I know not which—coming from the neighboring house, chanting over and over again, ‘Pick it up, read it; pick it up, read it.’” See Augustine, *Confessions*, 8:12:29; Lieberman, *Hellenism in Jewish Palestine*, 195–98. On the verse from Proverbs, see Fox; Alter. The verse in Zephaniah concludes: *on the day of YHVH’s wrath*.
+
+[^441]: **slaughterhouse** It is unclear what sinful behavior marked the father’s being a butcher and the child’s activity at the slaughterhouse. In the parallel version in *Zohar Ḥadash* 49b, it says that a man had sought out the child and “saw a child who was משחק (*mesaḥeq*), sporting, with the youths at the slaughterhouse.” The word *mesaḥeq* could suggest idolatrous, murderous, or illicit sexual behavior, which in this case would suggest homosexual activity. See *Bereshit Rabbah* 53:11.
+
+[^442]: **He sought him out…** Rabbi Zemira’ah took it upon himself to reform the sinner’s child and to educate him, to the point that the child grew up to be a renowned scholar.
+
+    In parallel (and earlier) versions of the story (see above, note 435), the child is taught to perform a public liturgical act, such as saying *Barekhu*, reciting *Qaddish*, or chanting the *haftarah* (a unit of prophetic writings that follows the Torah reading on the Sabbath and holy days). The absence of that element in this version suggests opposition to minors performing these acts.
+
+    On the resistance to minors’ discharging these rituals publicly, see Ta-Shma, *Minhag Ashkenaz ha-Qadmon*, 308–9.
+
+    According to Rashi, Rabbi Shim’on *ha-Pekuli* was a cotton dealer who presented Rabban Gamli’el a version of the eighteen blessings for the daily statutory prayer. See BT *Berakhot* 28b, *Megillah* 17b; Rashi on both texts, s.v. *ha-Pekuli*. The word *pekuli* could mean simply “bundles”; in Greek, the word *fakelos* means “bundle of wood.”
+
+[^443]: ***ha-Pekuli*…** The narrator devises a folk etymology through wordplay, based on the similar sounding phrase in Isaiah. Subsequently other great sages were apparently able to redeem other sinners from hell-fire, on account of their learning.
+
+    According to BT *Sanhedrin* 104a: “A son confers benefit onto his father.” Cf. *Shir ha-Shirim Rabbah* on 1:4. On the sequence of the sinner’s gradual alleviation of punishment, see *Sullam*; *Matoq mi-Devash*; cf. Mopsik; Englander.
+
+    The simple meaning of the phrase from Isaiah is *stumble in judgment*.
+
+[^444]: **eased my punishment…** Even a great sinner can be redeemed by a righteous son who learns Torah. See *Zohar* 1:115b, 188a; Moses de León, *Sefer ha-Rimmon*, 110; idem, *Sefer ha-Mishqal*, 138.
+
+[^445]: **my throne was prepared…** The deceased undergoes three stages of elevation in hell, and then in his fourth ascent he attains the Garden of Eden. This last phase coincides with the son’s receiving public honor and being adorned with crowns, the glory given to whoever engages in Torah.
+
+    On the sinner’s ascent, see Weiss, “Shtei Girsa’ot,” 527–28 and n. 24. On crowns as adornment for Torah study, see *Zohar* 3:22a, 36a; cf. Maimonides, *Mishneh Torah, Hilkhot Teshuvah* 8:2. On leaving a son who learns Torah, see Moses de León, *Sefer Mishkan ha-Edut*, 61.
+
+[^446]: **Rabbi Akiva** Some of the versions recount this story as happening to Rabbi Akiva rather than Rabbi Zemira’ah, while *Maḥazor Vitri* says that the child’s name was also Akiva, forging a strong identity between the child and his redeemer.
+
+[^447]: **different nature altogether…** Asking whether Elijah fathered children is the greatest impertinence. While having children is one of the most important commandments, Elijah was the sole prophet who ascended to heaven—deserving to be called an “angel”—and thus more than any of them should not be subjected to questions that presume familiarity. This is the meaning of the verse from Chronicles: people of preeminent holiness are beyond reproach by ordinary mortals. Cf. Joseph Caro, *Maggid Meisharim*, 106; *Matoq mi-Devash*.
+
+    The description of Elijah as having “a different nature altogether” accords with the view of Moses de León, according to whom the angel Elijah assumed bodily form in descending to earth. See his *She’elot u-Tshuvot*, 60–63, 68–71, and the critique by Moses Cordovero (*Pardes Rimmonim* 24:14).
+
+    Various sources allude to Elijah’s heavenly or angelic status. See *Midrash Tehillim* 8:7: “*The bird of heaven* ([[Psalms 008#^8-9|Psalms 8:9]])—this is Elijah, who flies through the world as a bird.” In *Targum*, [[Ecclesiastes 10#^10-20|Ecclesiastes 10:20]], and *Ma’yan Ḥokhmah* (*Beit ha-Midrash*, 1:60) Elijah is identified as “Master of Wings.”
+
+    See BT *Berakhot* 4b, *Bava Metsi’a* 85b, 114a–b; *Pirqei de-Rabbi Eli’ezer* 29, and David Luria, ad loc., nn. 66–67; Abraham ben David (Rabad) on Maimonides, *Mishneh Torah, Hilkhot Teshuvah* 8:2; *Zohar* 1:46b, 151b, 209a, 245b; 2:197a; 3:68a–b, 88b; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-76a|ZḤ* 76a]] (*MhN, Rut*); Ish-Shalom, “Introduction,” *Seder Eliyahu Rabbah ve-Seder Eliyahu Zuta*, 2–20; Margaliot, *Mal’akhei Elyon*, 16, n. 25.
+
+[^448]: **from the tribe of Gad** Elijah was descended from Gad, so he could not have been truly angelic. Moreover his status was ambiguous regarding his tribal origins as well, and this was subject to rabbinic debate. See *Bereshit Rabbah* 71:9: “Rabbi Lazar said, ‘From Benjamin, [as is written]: *Jaareshiah, Elijah, and Zichri were the sons of Jeroham.… All these were of the descendants of Benjamin* ([[I Chronicles 08#^8-27|1 Chronicles 8:27]], [[I Chronicles 08#^8-40|40]]).’ Rabbi Nehorai said, ‘From Gad, as is written: *Elijah the Tishbite, of the settlers of Gilead, said*… ([[I Kings 17#^17-1|1 Kings 17:1]]).’… On one occasion our Rabbis were debating about him [Elijah], some maintaining that he was from Gad, others, from Benjamin. He came and stood before them, saying to them, ‘Masters, why do you debate about me? I am a descendant of the sons of Rachel.’” Cf. *Pesiqta Rabbati* 4 and note 451 below.
+
+[^449]: ***Who has gone up to heaven*…** Midrashic sources apply this verse both to God and to biblical heroes such as Moses and Elijah. For earlier midrashic treatments of this verse, see *Pesiqta de-Rav Kahana* 1:4; *Pesiqta Rabbati* 5, 15a–b; *Tanḥuma, Naso* 24; *Midrash Mishlei* 30:4; *Bemidbar Rabbah* 12:11. Cf. *Zohar* 2:78b–79a, 197a.
+
+[^450]: ***And come down*—beforehand…** Elijah’s ascent to heaven is reported in [[II Kings 02#^2-11|2 Kings 2:11]]: *Elijah ascended in a whirlwind to heaven*, but this alone does not account for the second half of the Proverbs verse, *and come down*. The latter words apply to Elijah, as well, since he did not originate on earth, but rather in the heavens, like an angel.
+
+    The verse in Proverbs continues: *Who has gathered the wind in the hollow of his hands? Who has bound the waters in a garment? Who has established all the ends of earth? What is his name, and what is his son’s name, if you know?*
+
+    This explanation and the other forthcoming applications of this verse from Proverbs show that Rabbi Natan had anticipated an explanation of the end of the verse, regarding *his son’s name*.
+
+[^451]: **Elijah—he is Phinehas…** If Elijah is Phinehas, not only did he have a normal human origin, but also he must be a priest—and therefore from the tribe of Levi! Moreover, just because each of them was zealous is no proof, as many can be zealous for God’s honor. And yet, the doubling of the word *zealous* in the verse from 1 Kings indicates that there is one speaker for two events of zealotry—once for the time that Phinehas killed Zimri and Cozbi at Shittim (see [[Torah 40 - Balak#^25-6|Numbers 25:6–15]]), and a second time in Kings when he stands up to Ahab and Jezebel. This confirms the identity of Elijah and Phinehas. God directs his question to Elijah, a single “you,” suggesting continuity of a single individual’s zealotry. From all these arguments it is clear that Elijah was not an angel. Cf. *Nitsotsei Zohar*; Englander.
+
+    See *Pirqei de-Rabbi Eli’ezer* 29: “The blessed Holy One appeared to [Elijah] and said, ‘*What are you doing here, Elijah?*’ He answered, ‘*I have been zealous, zealous indeed* [*for YHVH, God of Hosts, for the Children of Israel have forsaken Your covenant*]’ ([[I Kings 19#^19-10|1 Kings 19:10]]). The blessed Holy One said, ‘You are always zealous! You were zealous in Shittim on account of sexual immorality [Numbers 25]…, and here too you are zealous.’”
+
+    On Elijah as identified with Phinehas, see *Targum Yerushalmi*, [[Torah 14 - Vaera#^6-18|Exodus 6:18]]; [[Torah 41 - Pinchas#^25-12|Numbers 25:12]]; BT *Bava Metsi’a* 114b, and Rashi, ad loc., s.v. *lav kohen mar*; *Tosafot*, ad loc., s.v. *mahu she-yessaderu be-va’al ḥov*; idem, ad loc., s.v. *amar leih lav kohen mar*; *Tanḥuma, Pinḥas* 1; *Pirqei de-Rabbi Eli’ezer* 47; Radak on [[I Chronicles 08#^8-27|1 Chronicles 8:27]]; *Zohar* 1:209b; 2:190a; 3:214a, 215a (*RM*), 282a (*RM*). Cf. Pseudo-Philo 48:1–2; Origen on [[John 06#^6-7|John 6:7]]; Ginzberg, *Legends*, 6:316–17, n. 3.
+
+[^452]: ***And come down*—Jonah…** Elijah is not an angel, since the word וירד (*Va-yered*), *And come down*, refers to Jonah, not to Elijah.
+
+    The association of Elijah and Jonah draws on the midrashic view that a stricken boy whom Elijah revived (according to 1 Kings 17) was none other than Jonah. Therefore Jonah is called *son of* אמתי (*Amittai*), alluding to the statement by his mother, the widow from Zarephath, to Elijah after her son’s revival: *Now I know that you are a man of God and that the word of YHVH in your mouth is* אמת (*emet*), *truth*.
+
+    Both Elijah and Jonah prayed that they might die; see [[I Kings 19#^19-4|1 Kings 19:4]]; Jonah 4:8. On the parallels between these two biblical figures, see Liebes, “Yonah ben Amittai,” 304–5. On Jonah as the son of the widow from Zarephath, see JT *Sukkah* 5:1, 55a; *Bereshit Rabbah* 98:11; *Pirqei de-Rabbi Eli’ezer* 33; *Midrash Tehillim* 26:7; *Midrash Ḥaserot vi-Yterot*, 173 (*Battei Midrashot*, 2:299–300). None of these sources connects the name of Jonah’s father, אמתי (*Amittai*), with the word אמת (*emet*) in the verse from Kings, but the Church father Jerome quotes this midrashic interpretation in the introduction to his commentary on Jonah. See Ginzberg, *Legends*, 6:318, n. 9.
+
+[^453]: ***hollow of his hands*… Moses** This is how Moses instigated the plague of boils. See [[Torah 14 - Vaera#^9-8|Exodus 9:8]]: *YHVH said to Moses and to Aaron, ‘Take you handfuls of soot from the kiln and let Moses throw it toward the heavens before Pharaoh’s eyes.’*
+
+[^454]: **Elisha, who healed the waters…** After Elijah had ascended to heaven (see [[II Kings 02#^2-11|2 Kings 2:11]]), Elisha was asked by the disciples of the prophets in Jericho to remedy the waters which were spoiling the earth. See ibid., 20–22: [*Elisha*] *responded, “Bring me a new dish and put salt in it,” and they brought it to him. He went to the spring and threw salt into it. And he said, “Thus said YHVH, ‘I heal this water; no longer shall death and bereavement come from it!”’ The water has remained wholesome to this day, in accordance with the word spoken by Elisha*. To achieve this feat, in fulfillment of the words *in a garment*, Elisha used Elijah’s magical mantle, which he had picked up after the latter’s ascent heavenward (see ibid., 8, 13–14).
+
+[^455]: **באברהם (*be-Avraham*), *by Abraham*** On account of the merit of Abraham, the world was created and sustained.
+
+    The anagram בהבראם (*be-hibbare’am*), *when they were created*—באברהם (*be-Avraham*), *by Abraham*, appears in *Bereshit Rabbah* 12:9. There, according to Rabbi Yehoshu’a son of Korḥah, it indicates that *heaven and earth* were created for Abraham’s sake. See also *Tanḥuma* (Buber), *Bereshit* 16; *Lekh Lekha* 4; *Zohar* 1:3b, 86b, 91b, 93a, 105b, 128b, 154b, 230b, 247a; 2:31a, 48b, 79a, 220b; 3:31a, 38a, 117a, 298a; *[[Zohar 10.03 - Parashat Be-Reshit#^zh-19b|ZḤ* 19b]] (*MhN*).
+
+[^456]: ***YHVH Tseva’ot* is His name…** Behind all these miraculous acts by the various prophets lies the power of God. *His son* signifies His people Israel.
+
+    On the question *What is his son’s name?* see also *Zohar* 1:154b; 2:79a, 197a; 3:191b. On the divine son in Jewish mysticism, see Liebes, *Studies in the Zohar*, 144–52; Idel, *Ben*, especially 403–34.
+
+[^457]: **the blessed Holy One** The subject of all these verses is God, not any of the prophets adduced above. This applies as well to the double question *What is his name, and what is his son’s name?* Here, the name *YHVH Tseva’ot* is used for God, while the name *Israel* refers not only to the people Israel but also to *Tif’eret Yisra’el*, “Beauty of Israel,” who is (generally) the son of *Hokhmah* and *Binah*.
+
+    Alternatively, since the author of *Midrash ha-Ne’lam* on Ruth rarely refers to *sefirot*, Rabbi Naḥman’s qualification here applies only to the previous verses and not to the final question.
+
+[^458]: **tree in a field…** Having unexpectedly met up in a field, Rabbi Nehorai and Rabbi Yudai sat down to learn Torah together.
+
+    On the significance of this type of setting, see above, note 124. “A youth” renders רווק (*ravvaq*), based on *Targum Yonatan* on Isaiah 40:30. See *Hadrat Qodesh*; *Nitsotsei Zohar*.
+
+[^459]: ***There is no peace*…** The standard rabbinic greeting upon meeting is עליכם‎ שלום (*shalom aleikhem*), “peace to you.” The youth interprets the verse from Isaiah hyperliterally, to mean that one should not greet the wicked by extending wishes for peace. But when he sees the rabbis’ tzitzit (ritual tassels worn on the corners of one’s garment), he knows that they are trustworthy. Then he feels safe to offer the proper greeting.
+
+    “Wings of commandment” renders מצוה‎ כנפי (*kanfei mitsvah*). The youth construes the noun כנף (*kanaf*), “corner [where the ritual is executed],” in its poetic and metaphorical sense of “wings” that provide protection. Thus the phrase could also be translated as “protection of the commandment” or “commandment corners.” The ensuing homily proceeds to consider the protective qualities of commandments. For the biblical source of the commandment of tzitzit, see [[Torah 37 - Sh'lach#^15-37|Numbers 15:37–41]].
+
+    On refraining from greeting the wicked, see *Kallah Rabbati* 3; *Sefer Ḥasidim*, ed. Margaliot, par. 51; *Zohar* 1:171b, 205a; 2:23b.
+
+[^460]: **It is written מזוזת (*mezuzat*), *doorpost*…** In deficient form, without the second ו (*vav*), the word could be construed in the singular. How could placing a scroll on just one doorpost suffice?
+
+    Both the first and second paragraphs of the *Shema* ([[Torah 45 - Vaetchanan#^6-4|Deuteronomy 6:4–9]], [[Torah 46 - Eikev#^11-13|11:13–21]]) refer to the commandment of mezuzah, while the third paragraph ([[Torah 37 - Sh'lach#^15-37|Numbers 15:37–41]]) refers to tzitzit.
+
+[^461]: **ensconced within commandments…** One should always seek the adornment of even a single commandment, because through dedication to constant engagement with Torah study and the performance of commandments, one cleaves to God—eliciting divine protection.
+
+    On this passage, see Tishby, *Wisdom of the Zohar*, 1015, n. 445.
+
+[^462]: **one on his right and one on his left…** One who is occupied with commandments is protected by incremental levels of protection. An angel on the right and the left, representing *Ḥesed* and *Din*, guard the person once he leaves home. Moreover, God Himself steps into the role of protector.
+
+    On a person’s two accompanying angels, see BT *Shabbat* 119b, *Ta’anit* 11a, *Ḥagigah* 16a; *Zohar* 1:12b, 144b, 165b; 2:106b, 239a; 3:52b; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-47a|ZḤ* 47a]] (*MhN, Rut*). On [[Psalms 091#^91-11|Psalms 91:11]], see *Zohar* 3:262a.
+
+[^463]: **blessed Holy One guards him…** The mezuzah, bearing the divine name on the outside of the scroll, wards off all harmful forces and ensures that the blessed Holy One watches over those within the house. This answers the opening question regarding the defective spelling of the word *mezuzot*, written as if it said *mezuzat*, in the singular form: it is the commandment of mezuzah and not merely a particular scroll that provides protection.
+
+    A talmudic legend relates that when Onqelos converted to Judaism, the Roman emperor sent a series of contingents of Roman soldiers to bring him back. As described in BT *Avodah Zarah* 11a, on the third attempt (after two contingents were themselves enticed to convert), “they took hold of him; and as they were walking on, he saw the mezuzah that was affixed to the door-frame. He placed his hand on it, saying to them, ‘What is this?’ They replied, ‘Tell us.’ He said, ‘According to universal custom, the mortal king dwells within, and his servants guard him outside; but [in the case of] the blessed Holy One, it is His servants who dwell within—while He guards them outside. This is as is said: *YHVH will guard your going and your coming, now and forever* ([[Psalms 121#^121-8|Psalms 121:8]]).’ They converted. [The emperor] sent for him no more.”
+
+    See BT *Menaḥot* 43b; *Zohar* 3:76b, 238a (*RM*), 263b–264a (*Piq*), 266a–b; Moses de León, *Sefer ha-Rimmon*, 231; Joseph of Hamadan, *Sefer Ta’amey ha-Miẓwoth*, 71. In the Geonic period, customs developed to write the names of angels and various obscure divine names on the outer side of the mezuzah, to further ensure protection. The protective uses of the mezuzah became a controversial topic in twelfth- and thirteenth-century halakhic discussions. See Maimonides, *Mishneh Torah, Hilkhot Tefillin, Mezuzah, ve-Sefer Torah* 5:4, and *Haggahot Maimoniyyot*, ad loc., n. 4; Asher ben Yeḥiel (Rosh), “Hilkhot Mezuzah,” 18; Joseph Caro, *Beit Yosef, Yoreh De’ah* 288, s.v. *katav*; Moses Isserles, *Darkhei Moshe*, ad loc., nn. 3–4. See Aptowitzer, “Les Noms de Dieu et des anges dans la Mezouza”; Trachtenberg, *Jewish Magic and Superstition*, 146–52; Gordon, “*Mezuzah*: Protective Amulet or Religious Symbol.”
+
+[^464]: **לדרתם (*le-dorotam*), *for their generations*, written defectively** What is distinctive about the commandments of tzitzit and the Sabbath that leads both of them to be described as rituals to be performed *for their generations*? And, why in both cases is the word לדרתם (*le-dorotam*), *for their generations*, written defectively, without the letter ו (*vav*)?
+
+    In fact, the argument is forced; many commandments that are established for all time are written in this defective form. See [[Torah 03 - Lech Lecha#^17-9|Genesis 17:9]]; [[Torah 15 - Bo#^12-42|Exodus 12:42]]; [[Torah 20 - Tetzaveh#^27-21|27:21]]; [[Torah 21 - Ki Tisa#^30-21|30:21]]; [[Torah 23 - Pekudei#^40-15|40:15]]; [[Torah 29 - Achrei Mot#^17-7|Leviticus 17:7]]; [[Torah 31 - Emor#^21-17|21:17]]. Curiously V6, V24, O17, L39, MS3, MS4, *Or Yaqar*, and the printed text all write out the form לדורותם, which does not appear at all in the Hebrew Bible.
+
+    The verse in Numbers concludes: *and place on the tassel of the wing* [or: *hem, corner*] *a thread of violet* [or: *bluish purple*].
+
+[^465]: **recital of *Shema* was established…** The ritual reciting of the *Shema* includes [[Torah 45 - Vaetchanan#^6-4|Deuteronomy 6:4–9]]; [[Torah 46 - Eikev#^11-13|11:13–21]]; and [[Torah 37 - Sh'lach#^15-37|Numbers 15:37–41]], the last one being the passage on tzitzit. Further, according to rabbinic tradition, the body of the Jewish male is comprised of 248 limbs corresponding to the 248 words of the entire *Shema*. But the commandment regarding mezuzah includes only the first two paragraphs of the *Shema*, excluding the passage on tzitzit—apparently rendering the commandment deficient and in need of completion. The individual achieves this rectification by wearing his tasseled garment at his doorway, establishing a union of the tzitzit and the mezuzah.
+
+    On the correspondence of human limbs to the words in *Shema*, see above, note 129.
+
+[^466]: **blessed Holy One rejoices…** This unification leads to delight for God and protection from any harmful demons or angels. The wordplay of *dorotam* and *diratam* indicates that the commandment is fulfilled with encouragement *for their generations* when their dwellings are perfected.
+
+    On the mezuzah as offering protection from demons, see David ben Judah he-Ḥasid in *Mar’ot ha-Tsove’ot*, 70: “Therefore a person must make a mezuzah for the doorway of his home, in which is written the Holy Name שדי (*Shaddai*) with supernal crowns. Then [demons] approach and see written on the mezuzah שד (*shin, dalet*), and they think it is the name שד (*shed*), demon. Immediately, they draw closer and reach the Name, and when they see it is שדי (*Shaddai*), they render honor to the Name of the King. Then they move far away from Him.” See also Joseph of Hamadan, *Sefer Ta’amey ha-Miẓwoth*, 72.
+
+[^467]: **מות‎ זז (*zaz mavet*), Death slinks off…** Further proof that harmful forces are driven off lies in the anagram of the word מזוזת (*mezuzot*), *doorposts*. Its letters can be rearranged to spell מות‎ זז (*zaz mavet*), “death slinks off.”
+
+    On this anagram, see *Tiqqunei Zohar* 22 (66a). On the mezuzah (and tzitzit) as protection from death, see BT *Shabbat* 32b.
+
+[^468]: **lamp lit and the table set…** The word *le-dorotam* is written defectively, so that it can be read *le-dirotam*. The Sabbath is the bride (*Shekhinah*), but she cannot enter a Jewish home and attain union with the groom (*Tif’eret*), unless the home has been properly prepared. The verse can now be read as לעשות (*la’asot*), *making, the Sabbath* לדרתם (*le-dirotam*), *for their dwellings*—through preparing their homes they accommodate the Sabbath.
+
+    On the prepared Shabbat home, see BT *Shabbat* 119b (quoted below, note 470). On the wordplay between *le-dorotam* and *le-dirotam*, see *Zohar* 3:238b (*RM*).
+
+[^469]: **This dwelling is not of Israel…** Since the verse from Exodus defines the Jewish observance of the Sabbath as a defining feature of the covenant between God and Israel, if a Jewish home does not demonstrate its commitment overtly, it is deemed outside the nation. Belonging is interpreted explicitly as a result of ritual performance.
+
+[^470]: **enwrapped in the commandment…** If one is wearing tzitzit and tefillin, he bears the appearance of a perfected Jew, surrounded by commandments. Accordingly, *Shekhinah* and the angels appointed over him all bless him. An accusing angel—who stands ready at all times when a person leaves his home, waiting for a slip in behavior—is ironically compelled to affirm the blessing.
+
+    On the two accompanying angels, see BT *Shabbat* 119b, in the name of Rabbi Yose son of Yehudah: “Two ministering angels accompany a person on Sabbath eve from the synagogue to his home, one a good [angel] and one an evil [one]. And when he arrives home and finds the lamp burning, the table laid, and the bed covered with a spread, the good angel exclaims, ‘May it be like this on another Sabbath, too,’ and the evil angel responds unwillingly, ‘Amen.’” See BT *Ta’anit* 11a; *Zohar* 1:12b, 165b; 2:106b; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-47a|ZḤ* 47a]] (*MhN, Rut*), 48d.
+
+    On wearing tzitzit and tefillin, see Tishby, *Wisdom of the Zohar*, 3:1161–65. On this ideal comportment with tzitzit and tefillin, see *Zohar* 3:265a; cf. *Devarim Rabbah* 4:4; *Zohar* 2:106b, 199a; 3:52b, 160b; *[[Zohar 12.11 - Zohar al ha-Parashot#^zh-41d|ZḤ* 41d]]. On coercing wicked forces to affirm the righteous, see *Zohar* 1:144b, 165b; cf. 2:106b.
+
+[^471]: ***Remember and Keep are the essence of the entire Torah*…** The first version of the Ten Commandments reads: זכור (*Zakhor*), *Remember, the Sabbath day to keep it holy* ([[Torah 17 - Yitro#^20-8|Exodus 20:8]]). The second version reads: שמור (*Shamor*), *Keep, the Sabbath day to keep it holy* ([[Torah 45 - Vaetchanan#^5-12|Deuteronomy 5:12]]). According to Kabbalah, *zakhor* alludes to זכר (*zakhar*), “male,” signifying the male divine potency, whereas the alternative formulation, *shamor*, signifies the female, *Shekhinah*. Further, *zakhor* implies the 248 positive commandments of Torah (since time-bound positive commandments are generally incumbent only on men), while *shamor* alludes to the 365 negative commandments (incumbent on women as well), together totaling 613 commandments. Since according to rabbinic tradition the two were spoken simultaneously, constituting a unity, when these two principles are united they comprise the entirety of Torah.
+
+    The mezuzah represents *Shekhinah* because of its association with guarding Jews at home and upon departure; further, the opening where the mezuzah is posted is a visual reminder of the feminine *Shekhinah*. However, the scriptural passages written upon the scroll are masculine, and they are contained within the scroll and its housing.
+
+    On *remember* and *observe* as being spoken simultaneously, see *Mekhilta, Baḥodesh* 7; *Mekhilta de-Rashbi*, [[Torah 17 - Yitro#^20-8|Exodus 20:8]]; *Midrash Tanna’im*, [[Torah 45 - Vaetchanan#^5-12|Deuteronomy 5:12]]; JT *Nedarim* 3:2, 37d; BT *Rosh ha-Shanah* 27a.
+
+    On *remember* and *observe* as male and female, see *Bahir* 124 (182); Ezra of Gerona, *Peirush le-Shir ha-Shirim*, 496–97; Naḥmanides on [[Torah 17 - Yitro#^20-8|Exodus 20:8]]; Jacob ben Sheshet, *Sefer ha-Emunah ve-ha-Bittaḥon*, 420; *Zohar* 1:5b, 47b, 48b, 164b, 199b, 248a; 2:70b, 92a (*Piq*), 92b, 138a, 165b; 3:81b, 92b (*Piq*), 115b, 224a; Moses de León, *Sefer ha-Rimmon*, 118; idem, *Sefer ha-Mishqal*, 110; Wolfson, introduction to *Sefer ha-Rimmon*, 63–71.
+
+    On the mezuzah as signifying the feminine, see *Zohar* 3:257a (*RM*); Moses de León, *Sefer ha-Rimmon*, 231; Joseph of Hamadan, *Sefer Ta’amey ha-Miẓwoth*, 72–73, 383. On tzitzit as feminine, see *Zohar* 1:141a; 3:178a (*RM*), 278a (*RM*); *[[Zohar 12.11 - Zohar al ha-Parashot#^zh-42a|ZḤ* 42a]].
+
+[^472]: **When one leaves the gates of his home…** When a man wears tefillin and tzitzit, he manifests the masculine and feminine potencies. When he stands at the doorway (signifying the male) with his tzitzit (signifying the female) he has replicated the iconic representation again. Even the mezuzah, on its own, manifests the unity of male and female.
+
+    See BT *Menaḥot* 43b: “Our Rabbis taught: ‘Beloved are Israel, for the blessed Holy One surrounded them with *mitsvot*: tefillin on their heads, tefillin on their arms, tzitzit on their garments, a mezuzah on their door.”
+
+    On tzitzit as representing the female, and tefillin as symbolizing the male, see *ZḤ* 101c (*Tiq*); *TZ* 10 (26a), 70 (130b).
+
+[^473]: **Tefillin above… tefillin of the arm…** Separately, the tefillin of the head and tefillin of the arm also represent male and female, respectively. The whole ensemble of ritual couture—tefillin and tzitzit—is a manifestation of total unity.
+
+    See *Zohar* 1:13b–14a, 168b; 3:269b; *[[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-64d|ZḤ* 64d]]–65a (*ShS*).
+
+[^474]: **who can speak!** It would be presumptuous of me to speak in the presence of such great masters of esoteric wisdom.
+
+[^475]: **with none other than this verse** The book of Ruth should have started here, since the aim of the book is to establish King David’s lineage, and it is only with the introduction of Boaz that the narrative of the genealogy begins.
+
+    Cf. *Shir ha-Shirim Rabbah* on 1:4; *Tanḥuma* (Buber), *Bereshit* 11; Rashi on [[Torah 01 - Bereshit#^1-1|Genesis 1:1]].
+
+[^476]: ***Teshuvah*** *Teshuvah* means “return; turning back to God; repentance.” Without the opportunity of *teshuvah*, humanity would be subject to strict Judgment and the world would be doomed; so surely its creation preceded the world, as a precondition.
+
+    See *Pirqei de-Rabbi Eli’ezer* 3: “Before the world was created, the blessed Holy One and His name alone existed, and the thought arose to create the world. He began to trace the foundations of the world, but it could not stand. They told a parable: ‘To what can this be compared? To a king who wishes to build his palace. If he has not hewn out its foundations in the earth, its exits and its entrances, he does not begin to build. Likewise, the blessed Holy One traced out the plans of the world, but it could not endure until He created *teshuvah*.”
+
+    See BT *Pesaḥim* 54a: “Seven things were created before the world was created: Torah, *teshuvah*, the Garden of Eden, Hell, the Throne of Glory, the Temple, and the name of the Messiah.”
+
+    See *Bereshit Rabbah* 1:4; BT *Nedarim* 39b; *Tanḥuma, Naso* 11; *Tanḥuma* (Buber), *Naso* 19; *Midrash Tehillim* 72:6; 90:12; *Midrash Mishlei* 8:9; Azriel of Gerona, *Peirush ha-Aggadot*, 2–3, 96, 98–99, 102–3, 116; Jacob ben Sheshet, *Sefer ha-Emunah ve-ha-Bittaḥom*, 410; *Zohar* 1:90a (*ST*), 134b; 3:34b, 69b; *[[Zohar 10.03 - Parashat Be-Reshit#^zh-5a|ZḤ* 5a]] (*MhN*); Tishby, *Wisdom of the Zohar*, 1499–1502. Cf. *Seder Eliyyahu Rabbah* 31, p. 160; *Midrash Tehillim* 93:3; *Zohar* 1:113a (*MhN*).
+
+[^477]: **single pillar…** Once *teshuvah* was created, God proceeded to create the world, resting on the foundation of the Righteous One, the *sefirah Yesod*.
+
+    See BT *Yoma* 38b, in the name of Rabbi Yoḥanan: “The world is sustained even for the sake of one righteous one, as is said: *The righteous one is the foundation of the world*.”
+
+    The pious formulation כביכול (*ki-v-yakhol*) “as it were,” is an attempt to emphasize the figurative rather than literal understanding of a given statement. Though its use is not rare in the *Zohar*, it feels misplaced in a text whose lyrical power arises from its assertions about how Divinity acts in the world, and may be one of the signs of different authors, or the hands of redactors and scribes. See Fishbane, *Biblical Myth and Rabbinic Mythmaking*, 325–401.
+
+    Although the simple sense of the verse is *The righteous one is an everlasting foundation*, it is understood midrashically as *The righteous one is the foundation of the world*. See BT *Ḥagigah* 12b; *Bahir* 71 (102); Azriel of Gerona, *Peirush ha-Aggadot*, 34.
+
+[^478]: **He created *teshuvah*…** While the righteous one is the foundation for the world, God actually created the world with the light that emanated from *teshuvah*. *Teshuvah* signifies *Binah*, which emits *Ḥesed*, the light that extends from one end of the world to the other.
+
+    See *Vayiqra Rabbah* 11:7, in the name of Rabbi Yehudah son of Rabbi Simon: “With the light created by the blessed Holy One on the first day, one could gaze and see from one end of the universe to the other. When the Holy One foresaw the corruption of the generation of Enosh and the generation of the Flood, He hid it away from them, as is written: *The light of the wicked is withheld* ([[Job 38#^38-15|Job 38:15]]). Where did He hide it? In the Garden of Eden. *Light is sown for the righteous, joy for the upright in heart* ([[Psalms 097#^97-11|Psalms 97:11]]).”
+
+    On the hiding away of the first light, see BT *Ḥagigah* 12a; *Bereshit Rabbah* 3:6; 41:3; *Shemot Rabbah* 35:1; *Tanḥuma, Shemini*, 9; *Midrash Tehillim* 27:1; *Bahir* 97–98 (147), 106 (160), 131 (190); *Zohar* 1:1a, 7a, 21a, 30b, 31b–32a, 45b–46a, 47a, 59a, 121b (*MhN*), 131a, 203b; 2:35a, 78b, 127a, 147b, 148b–149a, 166b–167a, 220a–b, 224b, 230a; 3:34a–b, 88a, 93a, 225b, 231b; *ZḤ* 1a, [[Zohar 10.03 - Parashat Be-Reshit#^zh-15a|15a]] (*MhN*), 66a (*ShS*), 122a (*Mat*); Moses de León, *Sefer ha-Rimmon*, 183; idem, *Sefer Mishkan ha-Edut*, 140; *Matoq mi-Devash*.
+
+[^479]: **another light that emerges from it…** The world could not be sustained by a light that was hidden away, but rather it is maintained primarily by *Yesod*, the light that emerges from the concealed light.
+
+    See BT *Yoma* 38b, in the name of Rabbi El’azar: “Even for the sake of a single righteous one was the world created, as is said: *God saw the light, that it was good* ([[Torah 01 - Bereshit#^1-4|Genesis 1:4]]). And there is no good other than the righteous one, as is said, *Say of the righteous one that he is good* ([[Isaiah 03#^3-10|Isaiah 3:10]]).”
+
+[^480]: **seed of David… was planted…** The entire lineage of King David was initiated from *Yesod*, represented by Boaz, the righteous one. This is alluded to in the cited verse from Psalms, which says *Seed* יעבדנו (*ya’avdennu*), *shall serve Him*, an allusion to the name of Boaz’s son, עובד (*oved*), Obed. His progeny was Jesse, who in turn fathered David. Further, the entire royal House of David would also be derived from this line, originating in Righteous One. Since David signifies *Malkhut*, the generative flow from Boaz to David manifests the divine intimacy between *Yesod* and *Malkhut*.
+
+    On the planting of the righteous, see [[Psalms 092#^92-13|Psalms 92:13–16]]: *The righteous one flourishes like a palm tree, like a cedar in Lebanon he grows. Planted in the house of YHVH, in the courts of our God they flourish. They bear fruit still in old age, full of sap and fresh they are, to tell that YHVH is upright, my rock, in whom there is no wrong*. See also [[Psalms 001#^1-3|Psalms 1:3]]. See BT *Yoma* 38b: “*YHVH* saw that the righteous were few, so he planted them in every generation.” See also *Bereshit Rabbah* 26; *Midrash Tehillim* on 92:14.
+
+    The simple meaning of the verse from Proverbs is: *YHVH made everything for its purpose*.
+
+[^481]: **there had been another…** This enigmatic statement appears to refer to the rabbinic teaching that God originally created other worlds and destroyed them. See *Bereshit Rabbah* 9:2: “*Everything He has made appropriate in its time* ([[Ecclesiastes 03#^3-11|Ecclesiastes 3:11]])…. Rabbi Abbahu said, ‘From here we learn that the blessed Holy One kept creating worlds and destroying them, until He created these [i.e., heaven and earth]. Then He declared, “These please Me; those do not.”’”
+
+    The theme of previous worlds that did not endure is developed in the *Idrot* and inspired Isaac Luria’s theory of “the breaking of the vessels.” See *Bereshit Rabbah* 3:7; *Qohelet Rabbah* and *Qohelet Zuta* on 3:11; *Midrash Tehillim* 34:1; *Shemot Rabbah* 30:3; *Zohar* 1:29a, 154b, 223b; 2:34b, 176b (*SdTs*); 3:128a (*IR*), 135a–b (*IR*), 142a (*IR*), 292a–b (*IZ*); *[[Zohar 10.03 - Parashat Be-Reshit#^zh-2d|ZḤ* 2d]] (*MhN*); Vol. 5, p. 546, n. 4; Liebes, “Ha-Mashiaḥ shel ha-Zohar,” 219–21; idem, *Studies in the Zohar*, 65–68, 134–35, 155–56; Meroz, “Reqimato shel Mitos,” 182–83. Cf. Origen, *De Principiis*, 3:5:3.
+
+[^482]: **new-ancient words…** These words have never been spoken before, but they express the most ancient truths.
+
+    The *Zohar* frequently employs the paradoxical phrase “new-ancient words” to signify simultaneously the novel interpretations that its authorship evokes, and the esoteric assertion that the secrets being revealed have always been latent within the biblical text. See, e.g., *Zohar* 1:243a; 2:183b; 3:166b, 168a, 171b, 197b; *[[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-69b|ZḤ* 69b]], [[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-70d|70d]] (both from *ShS*); Daniel Matt, “‘New Ancient Words.’”
+
+[^483]: **I shall tell you afterward** Even my identity is esoteric and cannot be revealed immediately.
+
+    See *Zohar* 1:87a, 149a, 207a; 2:16b (*MhN*), 157a, 187b; 3:39b, 75b, 158a; *[[Zohar 10.03 - Parashat Be-Reshit#^zh-11c|ZḤ* 11c]] (*MhN*).
+
+[^484]: **sashed, exalted, enduring rungs…** Ruth, Naomi, and Boaz signify *Shekhinah, Binah*, and *Yesod*, respectively. Ruth’s son Obed and the entire Davidic line emerges from the nexus of these three figures.
+
+    “Sashed” renders *qumrin*—the plural of *qamar*, “sash, belt, cummerbund, girdle,” presumably adorned to signify a social position of distinction. See BT *Horayot* 13b and Rashi, s.v. *nahei de’ahanei* and *qamara*; *Tosafot* on *Shabbat* 59b, s.v. *a-avnet shel melakhim*; *Arukh*, s.v. *qmr*; *Matoq mi-Devash*.
+
+[^485]: **Who is נעם (*no’am*), kindness…** The sequencing in the verse indicates the hierarchy that inheres between Naomi and Ruth, and the *sefirot* that they represent. The name נעמי (*Na’omi*), “Naomi,” derives from the common noun נעם (*no’am*), “kindness”—here symbolizing *Binah*, also associated with *Teshuvah* (Repentance) and with World that is Coming. *His palace* signifies *Malkhut*, the lower world.
+
+    On “Kindness of *YHVH*” and World that is Coming, see Maimonides, *Mishneh Torah, Hilkhot Teshuvah* 8:4; *Zohar* 1:197b, 219a; 2:31b, 57b, 127a, 170b; 3:161b.
+
+    The full verse reads: *One thing I ask of YHVH, this is what I seek: that I may dwell in the house of YHVH all the days of my life—to gaze on the beauty of YHVH, and to contemplate His palace* ([[Psalms 027#^27-4|Psalms 27:4]]).
+
+[^486]: **Ruth… saturating…** Ruth signifies the lower world, *Malkhut*, represented in the verse by *His palace*, ideally engaged in the continual praise of Her lover above. The letters of רות (*rut*) are reversed, yielding תור (*tor*), “turtledove.” In rabbinic literature, “Assembly of Israel” denotes the people of Israel. In the *Zohar*, Assembly of Israel can refer to the earthly community but also (often primarily) to *Shekhinah*, the divine feminine counterpart of the people, the aspect of God most intimately connected with them. Just as the turtledove’s call is distinctive, so is the quality of praise that comes from Assembly of Israel. Further wordplay offers a different vocalization of the letters תור, yielding *tur*, which refers to awakening or arousal. Thus *Shekhinah*’s praise is unique not only in its ability to arouse the divine Male, but also as an expression of the superior quality of Jewish prayer.
+
+    On the wordplay with Ruth’s name, see BT *Berakhot* 7b: “What is the meaning of *Rut*? Rabbi Yoḥanan said that she had the privilege that David—who inundated the blessed Holy One with songs and praises—would descend from her. From where do we know that a name determines destiny? Rabbi El’azar said, ‘For Scripture states: *Go, gaze upon the acts of YHVH, who has brought* שמות (*shammot*), *desolation, on earth* (Psalms 46:9). Do not read שַׁמּוֹת (*shammot*), *desolation*, but rather שֵׁמוֹת (*shemot*), *names*.”’
+
+    “Praise of arousal” renders תור‎ בשבחה (*be-shavḥa tur*), following MS4 and V24. The verb *tur* means literally “to awaken,” but the author (or a scribe) appears to have chosen this form to enhance the wordplay. The printed text has יתיר (*yatir*), “abundant,” while O17, L39, and *Or Yaqar* all omit the word.
+
+    On Ruth and the turtledove, see *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-75b|ZḤ* 75b]], [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-78b|78b]] (both *MhN, Rut*). On *Shekhinah*’s continuous praise to Her lover above, see *[[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-62b|ZḤ* 62b]], [[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-63b|63b]] (both *ShS*).
+
+[^487]: **two calls as one…** The turtledove and Assembly of Israel are similar also in having two components to their praise. The turtledove’s call has two parts, one of a higher pitch, the other lower. *Shekhinah* sings in two directions simultaneously: above to *Binah*, and below to the people of Israel. The psalmist beseeches God twice, signifying the two directions. The simultaneity of *Shekhinah*’s song emphasizes the harmonious love above and below.
+
+    In nature, the male turtledove’s territorial and courtship call is a series of mournful cooing notes, with the second note stressed and higher in pitch than the other.
+
+[^488]: ***Boaz*…** The name בועז (*Bo’az*) implies עז‎ בו (*bo oz*), “in him is strength.” Through his triumph over his sexual impulse, Boaz attained the rung of *Yesod*, known as Righteous One.
+
+    According to rabbinic tradition, Boaz was tempted to have intercourse with Ruth, but he overcame his sexual impulse by adjuring it. See *Rut Rabbah* 6:4: “Rabbi Yose said, ‘There were three who were attacked by their impulse but girded themselves against it with an oath: Joseph, David, and Boaz.’ … How do we know this concerning Boaz? Because it is said: *By YHVH’s life! Lie down until morning* ([[Ruth 3#^3-13|Ruth 3:13]])…. Rabbi Yehudah said, ‘That whole night his impulse incited him, saying, “You are single, looking for a wife; and she is single, looking for a husband. Go have intercourse with her—and she will be your wife!” He adjured his impulse, saying, “*As YHVH lives*, I will not touch her!” And to the woman he said, *Lie down until morning*.’”
+
+    See *Sifrei*, Numbers 88; *Sifrei*, Deuteronomy 33; *Vayiqra Rabbah* 23:11; BT *Sanhedrin* 19b; *Zohar* 2:104a; 3:280 (*RM*); *TZ* 31 (75b).
+
+[^489]: **a redeemer closer than he…** If Boaz signifies *Yesod*, how could there be a redeemer closer than he, since normally *Yesod* unites with *Shekhinah*? The explanation is that since the righteous one, representing *Yesod*, is referred to as *good*, he can be compared to another *sefirah, Ḥesed*, that is also called *good*, as demonstrated by the verse from Genesis. Therefore, Boaz explains, there is *good*, closer—that is, with greater claim—that can redeem Ruth. The youth reads the verse from Ruth hyperliterally, yielding *good will redeem*; that is, a prior *good*—*Ḥesed*—will redeem.
+
+    In their simple sense, the verses from Ruth read: *But while it is true I am a redeemer, there is* [*another*] *redeemer closer than I. Stay for the night. Then in the morning, if he will redeem you—good, let him redeem! But if he does not want to redeem you—I myself will redeem you, as YHVH lives! Lie down until morning*.
+
+    According to rabbinic tradition, Elimelech had a brother whose name was Good; and thus Boaz specifically identified that other redeemer. See *Rut Rabbah* 6:3.
+
+[^490]: **King who possesses Peace…** The man referenced in the verse—Boaz—symbolizes *Yesod*. As such, he stands in direct relationship to Naomi, as described in the phrase “the King who possesses Peace,” whose elements signify *Binah* and *Yesod*, respectively. Consequently, the verse should not state that Boaz was known to Elimelech, but rather to Naomi!
+
+    See BT *Shabbat* 152a, where Rabbi Shim’on son of Ḥalafta refers to the phallus as “peacemaker of the home.”
+
+    On the sefirotic associations of Elimelech and Naomi, see above, note 6. On the phrase “the King who possesses peace,” see *Sifra, Shemini, Millu’im*, 15, 44c; *Pesiqta de-Rav Kahana* 1:2, 3; *Shemot Rabbah* 52:5; *Shir ha-Shirim Rabbah* on 1:2; 3:7, 9, 11; 8:11; *Shir ha-Shirim Zuta* on 1:5; 3:9, 11; *Pesiqta de-Rav Kahana* on 3:9, 11; *Tanḥuma, Naso* 9; *Tanḥuma* (Buber), *Pequdei* 8; *Naso* 16; *Bereshit Rabbati, Va-Yḥi* on 48:22, 230; *Zohar* 1:5b, 29a, 184a, 226b, 248b; 2:5a (*MhN*), 14a (*MhN*), 127b, 132a–b, 143b–144b, 145b, 164a; 3:10b, 20a, 60a, 73b, 284b; *[[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-62a|ZḤ* 62a]] (*ShS*), 87c (*MhN, Rut*).
+
+[^491]: **World that is Coming receives delight…** The apparently contradictory pairings, as delineated in [[Ruth 2#^2-1|Ruth 2:1]] and the expression “the King who possesses Peace,” can be harmonized when one understands that Boaz stands in relation to Ruth in an analogous manner to Elimelech’s standing in relation to Naomi. Thus, Boaz (Righteous One) is *known to* Elimelech (*Ḥokhmah*, called Thought here) and “knows of him” insofar as he provides delight to the Lower King (*Malkhut*), just as Elimelech provides it to the Upper King (*Binah*).
+
+[^492]: **absorb all delight of the body…** The name בועז (*Bo’az*) implies עז‎ בו (*bo oz*), “in him is strength,” namely a strength within *Yesod* to draw down all the delight within *Tif’eret*, signified by “the body.” It then conveys that divine overflow—consisting of the souls of the Davidic dynasty, their spiritual grandeur, and the commandments of the Torah—to *Shekhinah*.
+
+    “The body” is identified with different locations throughout the *Zohar*. It stands for the heavenly treasure-house of unborn souls located in the Garden of Eden, or for *Shekhinah* as the point from which souls emerge, or for *Tif’eret*.
+
+    See BT *Yevamot* 62a, in the name of Rabbi Assi: “The Son of David [i.e., the Messiah] will not come until all souls in the body have been depleted.”
+
+    On *Bo’az* as *bo oz*, see *Zohar* 2:104a. “Living eternally” renders לעלמין‎ חי (*ḥai le-almin*), commonly representing *Yesod*. See *Zohar* 1:135b, 167b, 193b, 207b, 211b; 2:138a, 245b; Moses de León, *Maskiyyot Kesef*, 21; idem, *Sheqel ha-Qodesh*, 49 (60), 55–56 (68); idem, *Sod Eser Sefirot Belimah*, 381.
+
+[^493]: **entire basis for this scroll… Naomi, Boaz, and Ruth** This answers the opening question regarding the relevance of the first two chapters of the book of Ruth. Why begin with Elimelech and his family? To illustrate the interconnections from *Ḥokhmah*, represented by Elimelech, all the way down to *Shekhinah*, symbolized by Ruth.
+
+[^494]: ***Enoch walked with God*…** Enoch was taken before his time because of his holy stature. Gradually, he was elevated to the rank of chief angel, Prince of the Presence.
+
+    The verse’s enigmatic wording probably reflects a fuller narrative that was expurgated. In postbiblical literature the statement was understood as alluding to Enoch’s miraculous ascension alive to heaven, where he learned God’s mysteries and was transformed into the angel Metatron, the “youth.” His journey is recorded in the pseudepigraphic Enoch literature.
+
+    On Enoch and his transformation into Metatron, see 3 Enoch 4:1–10; *Targum Yerushalmi*, [[Torah 01 - Bereshit#^5-24|Genesis 5:24]]; *Midrash Aggadah*, [[Torah 01 - Bereshit#^5-24|Genesis 5:24]]; BT *Yevamot* 16b; *Tosafot* on *Yevamot* 16b, s.v. *pasuq zeh*; *Alfa Beita de-Rabbi Aqiva* A (*Battei Midrashot*, 2:354–55); *Bemidbar Rabbah* 12:12; *Midrash Otiyyot de-Rabbi Aqiva ha-Shalem*, 451–52; Ibn Ezra on [[Psalms 073#^73-24|Psalms 73:24]], [[Psalms 101#^101-2|101:2]]; *Zohar* 1:37b, 56b, 223b; 2:179a (*SdTs*); 3:83b (*Piq*), 217b; *ZH* 42d–43a, 69b (*ShS*); Ginzberg, *Legends*, 5:156–64, nn. 58–61; Margaliot, *Mal’akhei Elyon*, 73–108; Tishby, *Wisdom of the Zohar*, 626–32; Scholem, *Kabbalah*, 377–81; Idel, “Enoch is Metatron”; idem, *Olam ha-Mal’akhim*, 74–104; idem, *Ben*, 645–70; Alexander, “From Son of Adam to a Second God: Transformation of the Biblical Enoch”; Mopsik, *Le Livre hebreu de Henoch*, 44–58; Abrams, “Boundaries of Divine Ontology”; Wolfson, “Metatron and Shi’ur Qomah,” 64–68, 77–92; Yisraeli, “Aliyyatam shel Ḥanokh ve-Eliyahu.”
+
+[^495]: **extracting her…** Like Enoch, plucked out of one realm to attain a higher rank, so too is Ruth selected for a higher purpose: matriarch of the Davidic, and thus messianic, line.
+
+[^496]: **The blessed Holy One established Enoch’s role…** Enoch is raised up to a position of intimacy with God. He is crowned to indicate that he was a paragon of human nature.
+
+    In the Masoretic text of Deuteronomy 22 (discussing various situations in which a maiden’s virginity is impacted) the word נער (*na’ara*), *maiden*, is spelled without the final ה (*he*), which the youth here interprets as a scribal act intended to honor Metatron, called נער (*na’ar*), “Youth.”
+
+    On Metatron’s being named *na’ar*, see below, note 498. On נער (*na’ara*) and נערה (*na’arah*), see BT *Ketubbot* 40b; *Zohar* 1:51a; 2:38b; 3:156b; Moses de León, *Sefer ha-Rimmon*, 115; idem, *Sheqel ha-Qodesh*, 43 (51); *Minḥat Shai* on [[Torah 49 - Ki Teitzei#^22-19|Deuteronomy 22:19]].
+
+    The following passages until the middle of 87c, are missing in the majority of manuscripts, as well as Thiengen and Venice. V22, *Or Yaqar*, and the standard edition all have versions of the following material.
+
+[^497]: **his rule is from two sides…** Metatron distinctively intersects the boundaries between *sefirot*, angels, and humanity. He was a human being who was transformed into an angel. As chief angel or “Angel of the Presence,” he stands at the nexus of *sefirot* and angelic realms. From above he takes divine overflow to benefit the lower worlds; from below he takes human prayers, conducting them above.
+
+    See Cordovero, *Pardes Rimmonim* 28:12; cf. *Matoq mi-Devash*.
+
+[^498]: ***Ḥanokh la-na’ar, Enoch into Youth*…** The youth teaching the homily reads the verse hyperliterally: the verb *ḥanokh* literally means *train*, but here it is taken as well as a reference to the human *Ḥanokh*, “Enoch,” who was trained (or: transformed) into *Na’ar, a youth*, one of the names of Metatron. He was elevated because of his exemplary conduct on earth.
+
+    On Metatron as *na’ar*, see Moses de León, *Sheqel ha-Qodesh*, 42–43 (51); Idel, *Ben*, 130–33, 135–36, 147.
+
+[^499]: ***I have been* נער (*na’ar*), *Youth*…** Metatron ages, yet he is continually rejuvenated, to fulfill his role of conducting blessing down to the world.
+
+    On the declaration by the Prince of the World, see BT *Yevamot* 16b in the name of Rabbi Yoḥanan: “This verse was uttered by the Prince of the World: *I have been a youth; I have also been old* ([[Psalms 037#^37-25|Psalms 37:25]]). Who said it? If you suggest it was the blessed Holy One, does old age pertain to Him? So David must have said it. But was he so old? Rather you must conclude that the Prince of the World uttered it.”
+
+    See *Alfa Beita de-Rabbi Aqiva* A (*Battei Midrashot*, 2:354); *Bemidbar Rabbah* 12:12; *Tosafot* on *Yevamot* 16b, s.v. *pasuq zeh*; *Zohar* 1:95b, 124b–125a, 126a–b (*MhN*), 143a, 162a, 179b, 181b, 223b; 2:66a, 143a, 164a, 169b; *[[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-69b|ZḤ* 69b]] (*ShS*).
+
+[^500]: **the lion itself** A reference to the young kabbalist.
+
+[^501]: **Yeisa the Younger…** He is like Metatron, called Youth—bearing wisdom beyond his years. On Rabbi Yeisa’s young age, see *Zohar* 1:162a; 2:79b, 153a; *[[Zohar 12.11 - Zohar al ha-Parashot#^zh-31a|ZḤ* 31a]].
+
+[^502]: **nestled in the fragrant dust…** See M *Avot* 1:4, in the name of Rabbi Yose son of Yo’ezer: “Let your house be a meeting-house for the sages; sit amid the dust of their feet, and drink in their words with thirst.”
+
+[^503]: **their Torah travels…** The mystical wisdom that originated with Rabbi Shim’on son of Yoḥai had traveled a great distance, transmitted by the youth. Members of the kabbalistic fraternity, designated as “pillars of the world,” are even more intimidating to the angels than ordinary scholars.
+
+    The contention about the sages’ superiority to the angels on high appears to be a mild retort to the child’s emphasis on the great stature of Enoch, who transcended his humanity to become an angel. For Rabbi Nehorai, one need not abandon one’s humanity to achieve greatness on high.
+
+    On scholars’ lips murmuring in the grave, see above, note 425. On the superiority of scholars to angels, see BT *Sanhedrin* 93a, in the name of Rabbi Yoḥanan: “The righteous are greater than the ministering angels, as is said: *He answered, ‘But I see four men unbound, walking about in the midst of the fire unharmed; and the fourth looks like a divine being’* ([[Daniel 03#^3-25|Daniel 3:25]]).” Rashi explains that the angel is mentioned last because it is the least of the four. See *[[Zohar 10.05 - Parashat Lekh Lekha#^zh-26a|ZḤ* 26a]].
+
+[^504]: **blessed Holy One decrees—and he annuls…** A voice emerges from heaven, banishing the destructive forces that brought the plague, and adjuring that it be banished from Lydda and from anywhere it could travel. This illustrates the principle that a righteous person can abolish God’s harsh decrees.
+
+    See BT *Mo’ed Qatan* 16b, where Rabbi Abbahu quotes God as saying: “I rule over humanity. Who rules over Me? The righteous one. For I issue a decree and he abolishes it.”
+
+    See *Midrash Tanna’im*, [[Torah 54 - V'Zot HaBerachah#^33-1|Deuteronomy 33:1]]; *Tanḥuma, Ki Tavo* 1; *Devarim Rabbah* 10:3; *Shemot Rabbah* 15:20; *Zohar* 1:10a, 45b (*Heikh*); 2:15a (*MhN*), 262a (*Heikh*); 3:242a. Cf. BT *Shabbat* 63a, *Bava Metsi’a* 85a; *Rut Zuta* 2:19; *Bemidbar Rabbah* 14:6; *Zohar* 1:209a; 3:68a.
+
+    On the special status of Rabbi Shim’on, see BT *Sukkah* 45b; *Zohar* 1:218a, 223a; 2:15a (*MhN*), 38a, 97b; 3:59b–61b, 71b, 79b, 132b (*IR*), 159a, 206a, 241b, 296b (*IZ*); Liebes, *Studies in the Zohar*, 1–84; Hellner-Eshed, *A River Flows from Eden*, 31–61; Huss, *Ke-Zohar ha-Raqi’a*, 11–42.
+
+    “Camel saddles” renders עביתתא (*aviteta*), probably derived from the word עביטא (*avita*). See *Targum Onqelos* on [[Torah 07 - Vayetzei#^31-34|Genesis 31:34]]; JT *Bava Qamma* 10:6, 7c; BT *Bava Qamma* 115a.
+
+[^505]: **greater than Moses** Boaz Huss has argued that Moses, when compared negatively to Rabbi Shim’on bar Yoḥai, is a cipher for Moses Naḥmanides. See Huss, *Ke-Zohar ha-Raqi’a*, 38–42.
+
+[^506]: **Moses had to expend all this effort…** Rabbi Me’ir adds to Rabbi Nehorai’s observation that while Moses had to supervise a complex incense offering to cease the plague, Rabbi Shim’on bar Yoḥai simply declares that it must disappear.
+
+[^507]: **Ruth was fit** Rabbi Yeisa the Younger returns to his previous discussion, affirming that Ruth was worthy of joining the Jewish people. Cf. Scholem.
+
+[^508]: **her suitability was not apparent…** When Ruth reports to Naomi about her conversation with Boaz, she is described as *Ruth the Moabite*, an appellation that had not been used recently, but was renewed apparently because she still lacked some probity and discretion. Boaz had invited Ruth to join together with his נערות (*na’arot*), “young women,” who were harvesting, but Ruth apparently misreports this invitation in relating it to Naomi, referring instead to the נערים (*na’arim*), *youths*, the young men in the fields. Naomi prudently corrects Ruth’s (possibly youthful) misinterpretation.
+
+    See *Rut Rabbah* 5:11: “*Ruth the Moabite said, ‘He even told me, “Stay close by my young men*”’ ([[Ruth 2#^2-21|Ruth 2:21]]). Rabbi Ḥanin son of Levi said, ‘Truly, she was a Moabite, for Boaz said to her, *Stick here close to my maidens* (ibid., 8), while she said *by my young men*.”
+
+    In the biblical story, both Boaz and Naomi may be concerned with Ruth’s welfare and safety in urging her to cling to the young women, whereas it is possible that Ruth, knowing that greater gleaning opportunities may be available to the men, noted that Boaz gave her the opportunity to align herself with them (2:9, 15). On Ruth’s restatement in verse 21, see Eleazar of Worms; Zakovitch; Sasson; Eskenazi and Frymer-Kensky.
+
+    The context in MT ([[Ruth 2#^2-8|Ruth 2:8–9]]) actually reads: *Boaz said to Ruth, “Listen, my daughter. Don’t go to glean in another field and don’t go away from here, but stick here close to my maidens. Let your eyes be on the field they are reaping, and follow after them. I have ordered the young men not to harm you. And if you are thirsty, go to the vessels and drink from what the young men have drawn.”* On discrepancies between the *Zohar*’s citation of verses and those in MT, see above, p. 5, n. 6.
+
+[^509]: ***Don’t go to glean in another field*…** Boaz warns Ruth about the dangers of the fields of others, referring to other religions or men of other nations. But Ruth’s choices were already informed by holiness—as evinced by her having told Naomi *Let me go to the field*, signifying *Shekhinah*, called Field of Apples, and also called Faith. Clearly, she was righteous even before she met Boaz!
+
+    The image of the apple orchard derives from an interpretation of the verse in Genesis. See BT *Ta’anit* 29b, in the name of Rav: “*Like the fragrance of a field blessed by YHVH*…—Like the fragrance of a field of apple trees.”
+
+    On the image of the field and on *Shekhinah* as a field or apple orchard, see *Bereshit Rabbah* 65:22; *Tanḥuma, Toledot* 11; *Tanḥuma* (Buber), *Toledot* 10, 22; *Shir ha-Shirim Rabbah* on 4:11; 7:9; Azriel of Gerona, *Peirush ha-Aggadot*, 35–37; *Zohar* 1:36a, 85a–b, 122a, 128b, 139a, 141b, 142b–143b, 224b, 249b; 2:39a–b, 48b, 60b, 61b, 84b, 127b; 3:74a, 84a, 95a, 133b (*IR*), 135b (*IR*), 202b, 286b–287a, 288a (*IZ*), 292b (*IZ*); Moses de León, *Shushan Edut*, 365; idem, *Sefer ha-Rimmon*, 4.
+
+[^510]: **What is the meaning of… *as it happened*…** In the story of Balaam, the verbal root *yqr* implies impurity, so how can it be applied to a worthy woman such as Ruth? The explanation is that the term is pointed slightly differently, so as to indicate an alternate meaning: “glory” (or “honor, preciousness”).
+
+    On *va-yiqqar* as signifying impurity, see *Bereshit Rabbah* 52:5: “What is the difference between the prophets of Israel and those of other nations? Rabbi Ḥama son of Rabbi Ḥanina said, ‘The blessed Holy One reveals Himself to the prophets of other nations with half-speech only, as is said: *God encountered Balaam* ([[Torah 40 - Balak#^23-4|Numbers 23:4]]).’ Rabbi Issachar of Kefar Mandi said, ‘The term *va-yiqqar* signifies only impurity, as is said: [*Should there be among you a man who becomes impure through*] *a* לילה‎ מקרה (*miqreh lailah*), *nocturnal mishap* ([[Torah 49 - Ki Teitzei#^23-11|Deuteronomy 23:11]]). But to the prophets of Israel He speaks with complete speech, in terms of love and holiness, with language in which the ministering angels praise Him, as is said: וקרא (*ve-qara*), [*Seraphs*] *called, to one another, saying: Holy, holy, holy, is YHVH of hosts* ([[Isaiah 06#^6-3|Isaiah 6:3]]).” The *Zohar*’s formulation here derives from Rashi on [[Torah 40 - Balak#^23-4|Numbers 23:4]].
+
+    See *Vayiqra Rabbah* 1:13; *Tanḥuma* (Buber), *Vayishlaḥ* 24; *Zohar* 3:210a; Epstein, *Torah Temimah* on [[Ruth 2#^2-3|Ruth 2:3]].
+
+    The unusual formulation *va-yiqer miqreha, as it happened*, denotes serendipity or happenstance, but it can also imply divine providence. See [[Torah 05 - Chayei Sara#^24-11|Genesis 24:11]]; [[Torah 06 - Toldot#^27-20|27:20]]; Sasson; Zakovitch; Eskenazi and Frymer-Kensky. The simple reading of the verse from Numbers is *God encountered Balaam*.
+
+[^511]: **field of the righteous…** The “reapers of the field” are the Companions, who harvest secrets of Torah sprouting in the field of *Shekhinah*. Ruth went there to learn its mysteries.
+
+    See *Zohar* 1:156a (*ST*), 216a; 2:37a, 79b, 85b, 240b, 258a (*Heikh*); 3:106a, 127b, 141b, 143a, 144a (last four, *IR*), 214b, 297a; Liebes, *Studies in the Zohar*, 175–76, n. 99.
+
+[^512]: **Great Sanhedrin above…** These reapers are the seventy angels who surround and are nourished by the Field, *Shekhinah*. They are the heavenly princes who oversee the nations of the world—and are called Great Sanhedrin because each group comprises seventy members. Boaz signifies *Yesod*; his greeting conveys blessing from *YHVH* (the divine name representing *Tif’eret*) and from the other *sefirot* above, to the heavenly princes and nations below. The angels’ blessing in response empowers *Yesod* to elicit blessing from *Binah*, symbolized by World that is Coming.
+
+    On the seventy heavenly princes, see [[Daniel 10#^10-13|Daniel 10:13]], [[Daniel 10#^10-20|20–21]]; Septuagint, [[Torah 53 - Ha'Azinu#^32-8|Deuteronomy 32:8–9]]; Jubilees 15:31; *Targum Yerushalmi*, [[Torah 02 - Noach#^11-8|Genesis 11:8]], [[Torah 53 - Ha'Azinu#^32-8|Deuteronomy 32:8–9]]; *Pirqei de-Rabbi Eli’ezer* 24; *Leqaḥ Tov*, [[Torah 02 - Noach#^9-19|Genesis 9:19]]; *Zohar* 1:46b, 61a, 113a (*MhN*), 149b, 177a; 2:16b (*MhN*), 46b, 95b–96a, 126b, 186b–187a, 209a–b, 232b; 3:260b–261a, 298b; Ginzberg, *Legends*, 5:204–5, n. 91.
+
+[^513]: **he inquired after her…** He asked about the *Shekhinah* and Her condition; perhaps he also reminded the other heavenly powers that She is the consort to *YHVH* alone.
+
+[^514]: **This scroll alludes…** World that is Coming signifies *Binah*; and She arouses *Yesod* with the Written Torah, alluding to *Tif’eret*. This arousal leads *Yesod* to bond with Oral Torah, representing *Shekhinah*. This is the secret of the Scroll of Ruth: the three main characters—Naomi, Boaz, and Ruth—represent the three *sefirot* involved in the divine union above. As a result of this description of unity of Written and Oral Torah comprised within the book of Ruth, the rabbis established that it should be read on Shavu’ot, marking the giving of the Torah at Sinai.
+
+    On the reading of Ruth on Shavu’ot, see *Masekhet Sofrim* 14:16.
+
+    קדישא‎ בוצינא (*Botsina Qaddisha*), “the Holy Lamp,” is the title of Rabbi Shim’on. See *Zohar* 1:3b–4a, 156a, 197b, 217a, 235b–236a; 2:4a, 31a, 123b, 127b, 149a–150a, 160b, 162a, 189b–190b, 200a–b, 203b, 204b, 210b, 223b; 3:7b, 25b, 31a, 61a–62a, 100b, 106a, 159a, 166b, 171a, 173b, 197a, 214b–215a, 217b, 220b, 234a, 240a, 275b, 291b (*IZ*), 296b (*IZ*), 298a, 299b; *[[Zohar 12.11 - Zohar al ha-Parashot#^zh-59c|ZḤ* 59c]]; Liebes, *Peraqim*, 137, 139–40. Cf. [[II Samuel 21#^21-17|2 Samuel 21:17]]; *Bereshit Rabbah* 85:4; BT *Ketubbot* 17a, where Rabbi Abbahu is called דנהורא‎ בוצינא (*Botsina di-Nhora*), “Lamp of Light”; *Berakhot* 28b, where Rabban Yoḥanan son of Zakkai is called ישראל‎ נר (*Ner Yisra’el*), “Lamp of Israel”; and *Zohar* 1:6a, where *Botsina Qaddisha* designates Rav Hamnuna Sava.
+
+[^515]: **don’t be aroused by another kingdom…** *Yesod* admonishes *Shekhinah*, represented by Boaz and Ruth, respectively, that She should remain steadfast in Her attachment to the *sefirot*, and not be enticed by a demonic power. Jacob’s action of separating the flocks was a careful segregation of holiness from impurity. So She should not abandon the “chariots” and “crowns” reserved for Her—probably referring to the Torah and its commandments. Alternatively, Boaz counsels Ruth to avoid the temptations of foreign religions and foreign people.
+
+    On Jacob’s separation of the flocks, see *[[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-68a|ZḤ* 68a]] (*ShS*).
+
+[^516]: ***khoh*…** When Boaz says *Stick close* כה (*khoh*), he means *Stick close with khoh*, the *Shekhinah*. Similarly, while the simple meaning of the verse in Psalms is *Your devoted ones* יברכוכה (*yevarekhukha*), *will bless you*, Rabbi Yeisa construes the superfluous final *heh* as significant, interpreting the verse to mean *Your devoted ones yevarekhu khoh, will bless khoh* [i.e., they will bless *Shekhinah*].
+
+    See BT *Sotah* 38a: “כה (*Koh*), *Thus, shall you bless the children of Israel* (Numbers 6:23)—with the Ineffable Name. You say that it means with the tetragrammaton; but perhaps the intent is to use a כנוי (*kinnui*), cognomen [i.e., pronounced *Adonai*]. Scripture says, *They shall set My name* [*upon the People of Israel*] (ibid., 27)—My name that is unique to Me.”
+
+    On *koh*, “here, thus, so,” as a name of *Shekhinah*, see *Zohar* 1:90b, 96a, 152b, 174b; 2:23b, 37b, 139b; 3:145b–146a, 148a, 264b; Gikatilla, *Sha’arei Orah*, 12a–13a. On the verse in Psalms, see *Zohar* 2:79b, 139b, 3:146a, 264b, 267a; *[[Zohar 12.08 - Sitrei Otiyyot#^zh-1c|ZḤ* 1c]] (*SO*).
+
+[^517]: **המדה‎ קו (*Qav ha-Middah*), Ray of Measurement…** The *Qav ha-Middah* is the instrument used by God to regulate the divine overflow for the *sefirot*. Boaz’s gift to Ruth, signifying the allotment of Divinity from the six central *sefirot—Ḥesed* to *Yesod*—to *Shekhinah*, enables her to return to Naomi, representing *Binah*, World that is Coming. In order for *Shekhinah* to reunite with *Binah*, She must be endowed with holy influx from above, as signified by the “presents and gifts.”
+
+    The term המדה‎ קו (*qav ha-middah*), *the measuring line*, appears in [[Jeremiah 31#^31-39|Jeremiah 31:39]], in a description of the future rebuilding of Jerusalem. In Kabbalah, *Qav ha-Middah* is the luminous, invisible, divine instrument that maps out the paths and stages of emanation: measuring, giving scale, shape, light, and color to the *sefirot* below.
+
+    On the *Qav ha-Middah*, see Azriel of Gerona, *Peirush ha-Aggadot*, 89–90; Jacob ben Sheshet, *Meshiv Devarim Nekhoḥim*, 113; *Zohar* 1:15a, 18a–b; 2:233a–b, 258a (*Heikh*); *ZḤ* 31c, 33a–d, 56d–58d (the section called *Qav ha-Middah*); *TZ* 18, 37b. In *Qav ha-Middah* 57a, 58b, and *TZ* 18, 37b, *the measuring line* is identified with the Lamp (or Spark) of Adamantine Darkness, whereas elsewhere *qav ha-middah* emerges from it. On the whole, the subject is quite enigmatic, and Cordovero comments that “even basic understanding is elusive.” See Cordovero, *Pardes Rimmonim* 4:7.
+
+    The literal meaning of שעורים‎ שש (*shesh se’orim*) is “six barleys,” but since that is so miniscule an amount, traditional and modern commentators interpret it to mean “six measures of barley,” specifically *se’ahs*, amounting to 58–95 pounds. See Targum; Sasson; Zakovitch; Eskenazi and Frymer-Kensky.
+
+[^518]: ***Lift up your heads*, שערים (*se’orim*), *O* [*measures of*] *barley*…** The verse in Psalms continues: *Be lifted up, openings of eternity! So the King of Glory may come*. All six measures of barley are called upon to prepare for the *King of Glory*, signified by Ruth. Boaz places six measures of barley upon Ruth, alluding to *Yesod*’s conveyance of divine overflow from the lower six *sefirot* (*Ḥesed* to *Yesod*) to *Shekhinah*. Then *Shekhinah* is fully the *kallah*, “Bride,” a term signifying Her ability to embrace blessing from all six sides.
+
+    In its simple meaning, the verse in Psalms reads: *Lift up your heads*, שערים (*she’arim*), *O gates!* Yeisa the Younger’s revocalization turns the *she’arim* into *se’orim*, [*measures of*] *barley*.
+
+[^519]: **יהי (*yehi*), *Let there be*…** After *Shekhinah* has received blessings from all six *sefirot*, conveyed by *Yesod*, She receives a supplemental blessing from *Binah*, called World that is Coming. That blessing consists of the word יהי (*yehi*), *Let there be. Binah* identifies *the one who noticed Shekhinah* as *Barukh*, one of the names of King Solomon who, like Boaz, symbolizes *Yesod*.
+
+    *Binah*’s blessing—*yehi*—alludes to the entire stream of emanation, from the primordial point of *Ḥokhmah*, symbolized by the first י (*yod*), through *Shekhinah*, symbolized here by the second י (*yod*). The potent command, יהי (*yehi*), “Let there be,” appears three times in the opening chapter of Genesis, in connection with the creation of the “expanse”; the sun, moon, and stars; and the primordial light of the first day. The potency of creation is now transplanted here.
+
+    Since the passive participle *barukh*, normally translated as *blessed*, can also be a name, Yeisa the Younger suggests that it could be interpreted as part of King Solomon’s name: “King Solomon Barukh.” Once *Yesod* has this name, it can be conferred upon *Shekhinah* as well.
+
+    The simple meaning of the verses in Ruth is: *She carried it and proceeded to town. Her mother-in-law saw what she had gleaned, and she took out and gave her what she had left over after eating* שבעה (*sov’ah*), *her fill. Her mother-in-law asked her, ‘Where did you glean today? And how did you accomplish it? May the one who noticed you be blessed*. Here, revocalization transmutes (*sov’ah*), *her fill*, into שבעה (*shiv’ah*), *seven*, signifying the seven *sefirot* below *Binah—Ḥesed* through *Shekhinah*.
+
+    On *yehi*, see *Zohar* 1:16b, 232b; 2:177a (*SdTs*). On *Barukh* as one of King Solomon’s names, see *[[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-67a|ZḤ* 67a]] (*ShS*), 87c (*MhN, Rut*). On the phrase “the King who possesses peace,” see above, note 490.
+
+[^520]: **cleave perpetually to the *youths…*** *Shekhinah*’s desire is to stay close to the holy beings below Her. *Sullam* and *Matoq mi-Devash* identify these angelic beings as Metatron and Sandalfon.
+
+    The association of cherubim and youths derives from BT *Sukkah* 5b: “What is כרוב (*keruv*), cherub? Rabbi Abbahu said, ‘כרביא (*Ke-ravya*), Like a child, for in Babylon they call a child רביא (*ravya*).’”
+
+    On the childlike cherubim, see BT *Ḥagigah* 13b; *Zohar* 1:1b, 18b, 172a, 228b; 2:176a, 278a; 3:60b, 217b, 274a; *ZḤ* 43c. (The plump childlike angels of Christian art conceivably derive from the Talmudic tradition, but more likely from the Greco-Roman *Erotes*, “loves,” winged boys in the company of Aphrodite.)
+
+[^521]: **You might say she spoke falsely…** When Boaz told Ruth to *stick close* כה (*khoh*), *here, to my maidens*, he addressed her with the name *khoh*, but that name is applicable only when *Shekhinah* is perfectly arrayed, which occurs when She adheres to two cherubim. When She is aligned above them, She can receive the blessings of the twenty-five letters of *Shema*—twenty-five also being the numerical value (*gimatriyyah*) of the name כה (*khoh*), *here*. It is only then that *Shekhinah* can cleave to the *maidens*, perhaps signifying chariots below.
+
+    On the twenty-five letters of *Shema*, see *Zohar* 2:139b; *[[Zohar 11.05 - Midrash ha-Ne'lam al Eikhah#^zh-91c|ZḤ* 91c]] (*MhN, Eikhah*). On *koh* as a name of *Shekhinah*, see *Zohar* 1:90b, 96a, 152b, 174b; 2:23b, 37b, 79b, 143b; 3:145b–146a; Gikatilla, *Sha’arei Orah*, 12a–13a.
+
+[^522]: **he showed her cherubim…** The demonstrative זה (*zeh*), *this*, suggests that Boaz actually pointed at something when instructing Ruth—namely the cherubim. He admonishes her that at all times she should stay connected to one of these two (without specifying which one). This is like the ancient teaching in the Book of Adam that the *Shekhinah* would always retain Her connection to one of the two cherubim. Thus, Ruth correctly understands that she should cling to *the youths* and to *the maidens*, signifying the cherubim and chariots, respectively.
+
+    According to various medieval traditions, the angel Raziel transmitted a magical book to Adam. Later, probably in the seventeenth century, *Sefer Razi’el ha-Mal’akh* (the Book of the Angel Raziel) was compiled in its present form, comprising ancient magical, mystical, and cosmological teachings. This book is not to be confused with the Book of Adam in the Apocrypha. Note the comment by Shim’on Lavi, *Ketem Paz*, 1:22d: “All such books mentioned in the *Zohar*… have been lost in the wanderings of exile…. Nothing is left of them except what is mentioned in the *Zohar*.”
+
+    On the pair of cherubim connected to the Temple, see *ZḤ* 43a–b. On the use of the demonstratives *zeh* and *zot* in rabbinic and kabbalistic literature, see Rojtman, “Sacred Language and Open Text.” On the disappearance of one of the cherubim, see *Zohar* 3:162a; *[[Zohar 11.05 - Midrash ha-Ne'lam al Eikhah#^zh-92d|ZḤ* 92d]] (*MhN, Eikhah*).
+
+    On the Book of Adam, see BT *Bava Metsi’a* 85b–86a, *Sanhedrin* 38b, *Avodah Zarah* 5a; *Bereshit Rabbah* 24:1; *Zohar* 1:17b, 37a–b, 55a–b, 58b, 72b, 90b, 227b; 2:70a–b, 70a–b (*RR*), 77a, 131a, 143b, 180a, 181a, 197a; 3:10a, 68b; *[[Zohar 10.03 - Parashat Be-Reshit#^zh-16d|ZḤ* 16d]] (*MhN*), 37b; Ginzberg, *Legends*, 5:117–18, n. 110; Liebes, *Peraqim*, 85–87; idem, *Pulḥan ha-Shaḥar*, 66–77.
+
+[^523]: **ripe for interpretation…** The verse can be interpreted homiletically, but the kabbalistic meaning is that Boaz is referring to God’s “eyes”—angelic beings *ranging over the whole earth*. Boaz encourages Ruth to follow them to acquire heavenly wisdom.
+
+    The scriptural citation is a conflation of the verse from Zechariah and a nearly identical phrase from [[II Chronicles 16#^16-9|2 Chronicles 16:9]]. In describing God’s providential eyes, the prophet Zechariah employs a masculine verb, whereas Chronicles employs a feminine verb—and the *Zohar* often interprets these as two separate forces.
+
+    On God’s angelic eyes, see *Zohar* 1:241a; 2:38b, 107a, 108a (*ST*); 3:76a. On discrepancies between MT and biblical citations, see above, p. 5, n. 6.
+
+[^524]: **never abates…** The cherubim always long to derive divine nourishment from *Shekhinah*; but when She attends to humanity below, they are constrained from approaching Her.
+
+    The full verse in Isaiah reads: *That you may suckle and be sated from her breast of consolation, that you may draw from her bosom, and delight from her glory’s gleam*.
+
+[^525]: **suckle from the mystery of the upper world…** When *Shekhinah* directs Her attention toward *Binah*—which is called “upper world” and also represented by the word אשר (*asher*), *that*—She must do so in concert with arousal from the cherubim below.
+
+    On *asher* as a name of *Binah*, see *Zohar* 1:15a, 158a, 246a; 2:49b, 85a, 97b; 3:65b.
+
+[^526]: **supernal cherubim…** Here *the youths* represent *Ḥesed* and *Gevurah*, the two *sefirot* that conduct supernal efflux from *Binah* down to *Shekhinah* below.
+
+    The term “Great Faces” derives from BT *Sukkah* 5b. See *Zohar* 3:201a, 217b, 274a; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-47d|ZḤ* 47d]] (*MhN, Rut*). On its signifying *Ḥesed* and *Gevurah*, see *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-87c|ZḤ* 87c]] (*MhN, Rut*).
+
+[^527]: **from the Holy Lamp…** Although the youth was the speaker, the other rabbis ascribe the mystical teachings to Rabbi Shimon bar Yoḥai because he was the original source.
+
+    The *Zohar* frequently refers to the generation of Rabbi Shim’on as one of the most exalted in history, particularly well-suited for revealing the most esoteric secrets.
+
+    On the uniqueness of this generation and its fitness for revealing secrets, see *Zohar* 1:226a; 2:86b, 144a; 3:79a, 105b–106a, 159a, 167b, 179b, 236b, 298a; Liebes, “Mashiaḥ shel ha-Zohar,” 143–44; Matt, “New Ancient Words,” 184; Hellner-Eshed, *A River Flows*, 49–50, 102–4.
+
+[^528]: **to expound upon it homiletically** This renders דרשא‎ ביה‎ למדרש (*le-midrash beih derasha*). The rabbis seek the mystical meaning, beyond the exoteric meanings that they can deduce.
+
+[^529]: ***Your brothers who hate you*…** That is, the enemies of the faithful—alluding to “other nations.” They reject *YHVH* and mock the faithful; but in the future, their errors will be revealed—and they will be disgraced. Since the verse invokes listening to God’s word, of what use is further description?
+
+    The translation here follows the prosody of the Masoretic cantillation and the interpretation by Rashi; see *The Jewish Study Bible*. According to its simple meaning, the verse reads: *Hear the word of YHVH, you who tremble at His word: Your brothers who hate you, who ban you because of My name, have said, ‘Let YHVH be glorified, so that we may see your joy!’ But they will be put to shame* ([[Isaiah 66#^66-5|Isaiah 66:5]]). On this verse, see *Zohar* 2:188b.
+
+[^530]: **rung of Faith…** *Word of YHVH* alludes to Faith, one of the names of *Malkhut*, since Speech is associated with *Malkhut* who derives from *YHVH*. The word *Hear* issues from *word of YHVH*, drawing attention to Her authority. See Mopsik; Englander; cf. *Matoq mi-Devash*.
+
+[^531]: **Israel, always trembling…** They do so out of their great zeal and concern for the dignity of *Malkhut*. The plural form חרדים (*ḥareidim*) signifies Israel’s vulnerability when in exile among the nations: they are potentially subject to attack, as a consequence of their transgressions. But the plural form also alludes to the multiple ways that the Jewish people seek to consummate *Malkhut*, known as *word of YHVH*.
+
+[^532]: **descendants of Esau…** The Muslims and Christians are the perennial enemies of Israel, but because they descend from Ishmael and Esau—the brother of Isaac and of Jacob, respectively—they are referred to as *your brothers*. In spite of their oppression, they are excluded from the higher spiritual stature of the Jewish people, whose laws forbid them from various forms of socializing with non-Jews.
+
+    In medieval Spain, legislation under both Muslim and Christian rule regulated commercial and social interaction with Jews, effectively treating the latter as a lower class. Rabbi Yeisa the Younger ironically turns the tables, contending that it is the Jews who limit contact with their neighbors. On Muslim and Christian enmity, see above, notes 70, 423.
+
+    On the avoidance of commensality with Gentiles, see [[Daniel 01#^1-5|Daniel 1:5–16]]; Septuagint Esther C 28; [[LXX Judith 12#^12-1|Judith 12:1–4]]; Joseph and Asenath 7:1; [[LXX Tobit 01#^1-10|Tobit 1:10–13]]; Jubilees 22:16; Letter of Aristeas, 128, 130, 139, 142; M *Berakhot* 7:1, *Shevi’it* 8:10, *Avodah Zarah* 2:3–7; 5:3–8; *Tosefta Avodah Zarah* 4:6, 11; BT *Sanhedrin* 104b, *Avodah Zarah* 8a, 29b, 31b, 35b, 36b, 38a, 64b, *Ḥullin* 116b; *Sifre Numbers* 131; Moses de León, *Sefer Sheqel ha-Qodesh*, 52–54 (65–67); Rosenblum, *Food and Identity*, 36–45, 81–102; Kramer, *Jewish Eating and Identity*, 123–36 and in index, s.v. “Separation from Gentiles.”
+
+[^533]: **in your exile…** Common features of medieval anti-Jewish polemic were the charges that Jews were tainted, and that their degraded historical stature reflected God’s rejection of them. Spanish Christians claimed that God’s true glory was found in their own midst, while sarcastically taunting the Jews regarding their expectations of redemption. Jewish polemicists quoted Isaiah’s words, trusting that eventually the true picture would emerge.
+
+    See the remarks of the anti-Jewish polemicist Friar Raymond in his tract *Pugio Fidei* (as cited in Cohen, *Living Letters of the Law*, 353): “It is sufficiently evident how immense is the stupidity, how great the madness, how enormous the folly of the Jews, who do not cease to practice circumcision, the Sabbath, and other rituals which God took away from them and the devil restored.” See also Cohen, *The Friars and the Jews*; Chazan, *Daggers of Faith*; idem, *Reassessing Jewish Life in Medieval Europe*, 43–51, 163–82.
+
+[^534]: **threshing chamber…** The “wealthy man” and the “threshing chamber” allude not only to *Yesod* and *Shekhinah*, respectively, but also to the narrative in [[Ruth 3#^3-6|Ruth 3:6–15]], in which Ruth joins Boaz at night at the threshing place. Though they can be identified discretely as two, when united they are as one. In the demonic realm, there is an exact parallel with a male and female, but they are always excluded from the realm of holiness. *Word of YHVH* is now understood as *good name*, exemplifying the adornments that *Shekhinah* and *Yesod* share in conjugation.
+
+    The simple sense of the verse is שם‎ טוב (*tov shem*), *a good name, is better than fine oil*. Here, the youth breaks the verse down as if it were a sequential code, with *name* representing *Shekhinah*, and *good* symbolizing *YHVH*. Then it is precisely analogous to יהוה‎ דבר (*devar YHVH*), *word of YHVH*, where *word* alludes to *Shekhinah*.
+
+    The rich man is identified with wine’s lees because wine ages best on its sediment, or lees.
+
+    For the expression “wine on its lees,” see *Zohar* 1:216b; 3:128b (*IR*), 140b (*IR*), 248a. The phrase “coming from the side of wine’s lees” is from the Munkacz edition of *Zohar Ḥadash*, edited by the seventeenth-century kabbalist Nathan Neta Shapira.
+
+[^535]: **Their names, evil inversions…** The male and female on the left, usually identified as Samael and Lilith, are the demonic counterparts to *YHVH* and *Shekhinah*. They have demonic names to signify their status as evil copies of the holy names.
+
+[^536]: **not because of their names…** Samael and Lilith govern the other nations, but they are unable to nourish them themselves. Rather, because *Shekhinah* is in exile among the nations with Israel, She bestows sustenance upon רע‎ שם (*shem ra*), “Evil Name,” or “dog”—names of the demonic female consort—who conveys it to the nations, as nutriment devised from the sins of Israel.
+
+    On Samael and Lilith, see above, notes 161–62. On the metaphor of throwing a bone to a dog, see *Zohar* 2:152b; 3:63a–b (*Piq*), 197a; Moses de León, *Sefer ha-Mishkal*, 124, 126–27; cf. *Midrash Tehillim* 4:11.
+
+[^537]: **when She is consummated…** *Mealtime* signifies *Shekhinah* as receiving spiritual influx from Jewish worship and angelic service. “Sacrifices, burnt offerings, prayers, and the longing of will” marks the sequence of ascending and deepening worship, as service is increasingly spiritualized in movement from the materiality of animal sacrifices (from which portions are eaten) to nonverbal, heartfelt devotion. Angels offer homage through supplying celestial food and sacred pleasures.
+
+    On Israel’s providing nourishment for the divine realm by sacrifices, see *Midrash Tanna’im*, [[Torah 47 - Re'eh#^15-9|Deuteronomy 15:9]]; *Shir ha-Shirim Zuta* 1:15; *Aggadat Shir ha-Shirim* 1:15 (27–28); *Yalqut Shim’oni*, Exodus 418; *Zohar* 3:3b–4a, 7a–b. Cf. *Tosefta Menaḥot* 7:9. All of these are based on [[Torah 41 - Pinchas#^28-2|Numbers 28:2]]: *My offering, My bread, for My fire offerings, My pleasing aroma, you shall take care to offer to Me at its fixed time*. See Tishby, *Wisdom of the Zohar*, 880–90.
+
+[^538]: **Then desire of Righteous One…** Once *Shekhinah* has been sated with worship from below, She arouses the desire of *Tif’eret* above. He summons Her, and She comes fully adorned. Then *Tif’eret* bestows blessing upon Her distribute to holy beings below.
+
+[^539]: **dipping in vinegar…** Even during the harmonious union of *Tif’eret* and *Malkhut*, nourishment is provided for the demonic Other Side. There are two different descriptions of the origins of this nourishment, though in both cases it comes from the side of Judgment on the left side of the sefirotic tree. Both vinegar and fire derive from *Gevurah*, providing food for the Other Side, which in turn sustains the nations and all demonic entities, called “dogs.” This food is described as “scraps,” leftovers from the primary meal of holiness.
+
+    According to the verse’s simple sense, the fact that Ruth had some left over is a sign of Boaz’s generosity. Here, the word ותתר (*va-totar*) is understood in the sense of “residue” or “excess,” something beyond the essential. “Roasted grain” is a popular food among field workers because it can be quickly prepared and easily transported. See [[I Samuel 17#^17-17|1 Samuel 17:17]]; [[I Samuel 25#^25-18|25:18]]; [[II Samuel 17#^17-28|2 Samuel 17:28]]. See Sasson; Eskenazi and Frymer-Kensky.
+
+[^540]: **לבו‎ וייטב (*va-yiytav libo*), *and his heart was glad*…** Alternatively, in its simple sense: *he was in a cheerful mood* [or: *he felt free of care*]. The description here suggests that Boaz’s meal was festive and that it put him in a receptive, possibly intoxicated, frame of mind. See Sasson; Zakovitch; Eskenazi and Frymer-Kensky. Cf. [[Judges 19#^19-22|Judges 19:22]]; [[I Samuel 25#^25-36|1 Samuel 25:36]]; [[II Samuel 13#^13-28|2 Samuel 13:28]]; [[I Kings 08#^8-66|1 Kings 8:66]]; [[Proverbs 15#^15-15|Proverbs 15:15]]; [[Ecclesiastes 09#^9-7|Ecclesiastes 9:7]]; [[Ecclesiastes 11#^11-9|11:9]]; [[Esther 01#^1-10|Esther 1:10]].
+
+[^541]: **Grace after Meals…** According to *Rut Rabbah* 5:15 (on this verse), Boaz’s *heart was glad* because he blessed God for the food that he had eaten. Here, Rabbi Ḥizkiyah reinterprets the verse as *he gladdened his heart*, that is, by offering a blessing Boaz *gladdened* the divine heart, *Shekhinah*. *Gladdened* renders וייטב (*va-yiytav*), derived from טוב (*tov*), which alludes to *Yesod*. Thus even before Ruth’s arrival, Boaz’s reciting of Grace after Meals signifies the erotic union of *Yesod* and *Shekhinah*. See *Zohar* 2:218a; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-86c|ZḤ* 86c]], [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-87c|87c]] (*MhN, Rut*); Hecker, *Mystical Bodies, Mystical Meals*, 78–81.
+
+[^542]: **without reciting the Grace after Meals…** See BT *Berakhot* 35b, in the name of Rabbi Ḥanina son of Papa: “Whoever enjoys this world without reciting a blessing—it is as if he robs the blessed Holy One and Assembly of Israel, as is said: *He who robs his father and mother and says, “It is no crime,” is partner to a destroyer—father* is none other than the blessed Holy One… and *mother* is none other than Assembly of Israel.” In that Talmudic passage, Assembly of Israel apparently refers to a supernal hypostasis (the mother of Israel), as it later does regularly in Kabbalah, designating *Shekhinah*.
+
+    See *Zohar* 1:77a (*ST*); 2:193a–b, 250a (*Heikh*); 3:44b, 55a, 61b, 119a, 156a, 270b (*Piq*); Moses de León, *Sefer ha-Rimmon*, 104, 217, 349 (and Wolfson’s notes); Idel, *Kabbalah and Eros*, 27; cf. Joseph of Hamadan, *Sefer Ta’amey ha-Miẓwoth*, 84; Baḥya ben Asher, *Kad ha-Qemaḥ*, 79; idem, *Shulḥan shel Arba*, 487–89.
+
+[^543]: **Jeroboam son of Nebat…** King Jeroboam (who ruled the northern kingdom of Israel) erected two golden calves for worship (see 1 Kings 12–13). By sinning and causing Israel to sin, he ruined the union of the divine couple (or parents), *Tif’eret* and *Shekhinah*, who are alluded to in the verse from Proverbs. Moreover, see [[I Kings 11#^11-28|1 Kings 11:28]], where Jeroboam is referred to as *ha-ish Yarov’am, Jeroboam the agent* [or: *commissioner, official*].
+
+[^544]: **adds power above** Reciting Grace after Meals fortifies Divinity above.
+
+    See *Zohar* 2:168b–169a, 218a; Moses de León, *Sefer ha-Rimmon*, 104; Joseph of Hamadan, *Sefer Ta’amey ha-Miẓwoth*, 84. On the significance of Grace after Meals, see Hecker, *Mystical Bodies, Mystical Meals*, 171–73.
+
+[^545]: **Great is Grace after Meals…** See previous note.
+
+[^546]: **redeem hostages…** Redeeming hostages is considered to be one of the greatest of the commandments. See BT *Bava Batra* 8b: “Ifra Hormizd the mother of King Shapur sent a chest of gold coins to Rav Yosef, requesting that it be used for the fulfillment of a very important commandment. Rav Yosef thought deeply about what such a precept could be. Abbaye said to him, ‘Since Rav Shemu’el son of Yehudah has taught that money for charity is not to be levied from orphans even for the redemption of captives, we may conclude that redemption of captives is a commandment of great importance.’ Raba asked Rabbah son of Mari, ‘From where is derived the maxim of the Rabbis that the redemption of captives is a commandment of great importance?’ He replied, ‘From the verse *And if they ask you, “To what shall we go forth?” Answer them, “Thus said YHVH: Those destined for the plague, to the plague; those destined for the sword, to the sword; those destined for famine, to famine; and those destined for captivity, to captivity*”’ ([[Jeremiah 15#^15-2|Jeremiah 15:2]]). Rabbi Yoḥanan commented: ‘Each punishment mentioned in this verse is more severe than the one before…. Captivity is harder than all, because it includes the sufferings of all.’”
+
+    See *Tosafot*, s.v. *pidyon shevuyim*; Maimonides, *Mishneh Torah, Hilkhot Matnot Aniyyim* 8:10.
+
+    As will soon become evident, the “woman of the house” is the innkeeper’s daughter, while the term probably also alludes to *Shekhinah*. The forthcoming story of her and her young husband, along with the teachings about dining rituals, receives expanded development at *Zohar* 2:165b–169a. Cf. 3:272a (*RM*); Baḥya ben Asher, *Shulḥan shel Arba*, 463–82; Wineman, *Mystic Tales from the Zohar*, 89–104. In the other version, the two rabbis are Rabbi Ḥiyya and Rabbi Abba.
+
+    On the custom of studying Torah at midnight, see BT *Berakhot* 3b, in the name of Rabbi Shim’on the Ḥasid: “A lyre was suspended above [King] David’s bed. As soon as midnight arrived, a north wind would come and blow upon it, and it played by itself. He would rise immediately and engage in Torah until the first rays of dawn.” See [[Psalms 119#^119-62|Psalms 119:62]].
+
+    In the *Zohar* this legendary custom is expanded into a ritual. At midnight, God delights in the souls of the righteous in the Garden of Eden, and those who study Torah here below partake of that joy. Kabbalists are expected to rise at midnight and adorn *Shekhinah* with words of Torah in preparation for Her union with *Tif’eret*. This parallels the midnight vigil common among Christian monks from early medieval times. In *Zohar* 3:119a, Rabbi Yehudah alludes to the Christian practice: “I have seen something similar among the nations of the world.”
+
+    See above, note 76.
+
+[^547]: **kindling the lamps…** Honoring the innkeeper’s daughter who kindled a lamp, Rabbi Bun begins his exposition with teachings about the significance of lamps.
+
+    See *Tanḥuma* (Buber), *Metsora* 17: “Why were [the commandments of menstrual impurity, separating a portion of dough before baking, and kindling the Sabbath lamps] given to the woman? The blessed Holy One said, ‘She [i.e., Eve] extinguished the lamp of the world [i.e., the soul of Adam]…, so she [the woman of the house] should keep the commandment of the lamp.’ The blessed Holy One said, ‘She rendered the dough of the world impure—Primal Adam, who was the dough of the world….’ Regarding menstrual impurity, the blessed Holy One said, ‘She spilled the blood of Primal Adam, so she is liable to have her own blood spilled. Thus she should observe her menstrual impurity to atone for the blood that she spilled.’”
+
+    On women lighting the Sabbath lamp, see M Shabbat 2:6; JT *Shabbat* 2:6, 5b; *Bereshit Rabbah* 17:8 (and Theodor, ad loc.); BT *Shabbat* 31b–32a; *Tanḥuma, Noaḥ* 1; *Tanḥuma* (Buber), *Noaḥ* 1 (and n. 15); *Avot de-Rabbi Natan* B, 9; *Zohar* 1:48b; 2:166a.
+
+[^548]: **exchange him for another…** Paradoxically, Rabbi Bun suggests that the man’s daughter should divorce her ignorant young husband. He then asks the logical question of what prompted the man to betroth his daughter to the youth in the first place.
+
+[^549]: ***Qaddish*…** The *Qaddish* is one of the most important liturgical units in the daily prayers, so the zeal of the young man’s response to the *Qaddish*, apparently signifying the depth of his learning, so impressed the innkeeper that he acted impulsively and married off his daughter to the youth.
+
+    See BT *Shabbat* 119b, in the name of Rabbi Yehoshu’a son of Levi: “Whoever responds with all his might: ‘Amen! May His great Name be blessed’—his [heavenly] decreed sentence is torn up.” See Rashi, s.v. *be-khol koḥo*; *Tosafot*, s.v. *kol ha-oneh amen*.
+
+    Jacob ben Sheshet, a mid-thirteenth-century kabbalist, comments: “The most fitting way to explain ‘with all one’s might’ is that it refers back to the divine name. That is to say, that one should direct one’s intention toward the divine name as fitting with its letters, explanations, constructs, and appropriate vocalization…. This is the meaning of ‘with all his might’: with all the power of the divine name.”
+
+    See BT *Berakhot* 3a and *Tosafot*, s.v. *ve-onin yehei shemeih ha-gadol mevorakh*; *Sefer Abudarham*, 67; El’azar of Worms, *Peirushei Siddur ha-Tefillah le-Roqeaḥ*, 247; Jacob ben Sheshet, *Meshiv Devarim Nekhoḥim*, 172; *Zohar* 1:38b (*Heikh*), 62b; 2:129b, 165b–166a; 3:220a; Moses de León, *Sefer ha-Rimmon*, 69–71 (and Wolfson’s notes); idem, *Seder Gan Eden*, 133; Todros Abulafia, *Otsar ha-Kavod, Shabbat* 119b, p. 12a; Elbogen, *Jewish Liturgy*, 80–84.
+
+    On God’s remembering His children as a result of this response, see BT *Berakhot* 3a (per Munich MS 95), in the name of Rabbi Yose (quoting a teaching he heard from the prophet Elijah): “When Israel enters the synagogues and houses of study and responds: ‘May His great name be blessed,’ the blessed Holy One nods His head and says, ‘Happy is the king who is praised thus in his house! Woe to the father who has exiled his children, and woe to the children who have been banished from their father’s table!’”
+
+[^550]: **son who will teach him Torah…** That would justify the marriage and resolve the problem of his ignorance.
+
+[^551]: **leaped toward them…** Suddenly, the young husband appears, jumping once again. As with the donkey-drivers and other child kabbalists, this young man also surprises the rabbis with his wealth of kabbalistic lore. See above, notes 122, 382.
+
+[^552]: **speaking about Grace after Meals…** Like Elihu, the speaker of the verse in Job, the young husband initially restrained himself, but now he is eager to share his insights. He proceeds to demonstrate his mastery of the prayer that he supposedly did not know. First, he outlines ten principles regarding Grace after Meals, before expanding upon them one by one.
+
+    On the young husband’s teachings on Grace after Meals, cf. *Zohar* 2:168b. On the ten principles and rituals for table behavior, see *Zohar* 3:272b (*RM*).
+
+[^553]: **sitting to eat before the King…** In the context of the verse’s biblical setting, when the Temple stood and Israel made pilgrimage to Jerusalem, they could actually *eat before YHVH*. Here, the youth takes the phrase out of context to indicate that all of one’s meals, even meager ones, are eaten *before YHVH*, and so the table should be set accordingly, with dignity.
+
+    The full verse in Deuteronomy reads: *You shall eat before YHVH your God, in the place that He chooses to have His name dwell, the tithe of your grain, your wine, and your oil, and the firstborn of your cattle and your sheep, so that you may learn to revere YHVH your God all the days*.
+
+[^554]: **Laving hands before eating…** See BT *Sotah* 4b: “Rav Avira expounded… ‘Whoever eats bread without laving his hands is as though he had intercourse with a harlot, as is said: *For a whore’s price is a loaf of bread* ([[Proverbs 06#^6-26|Proverbs 6:26]])’… Rabbi Zerika said in the name of Rabbi El’azar, ‘Whoever makes light of laving the hands will be uprooted from the world.’ …Rabbi Abbahu says: ‘Whoever eats bread without first drying his hands is as though he has eaten impure food, as is said: *YHVH said, “So shall the Children of Israel eat their bread impure”* ([[Ezekiel 04#^4-13|Ezekiel 4:13]]).’”
+
+    See Rashi, s.v. *kol ha-okhel beli nigguv yadayyim*. Cf. M *Ḥagigah* 2:5; BT *Shabbat* 62b; *Eruvin* 21b; *Ḥullin* 105a; Maimonides, *Hilkhot Berakhot* 6:1, 19; *Tur Oraḥ Ḥayyim* 158; Joseph Caro, *Shulḥan Arukh, Oraḥ Ḥayyim* 158:1, 9.
+
+[^555]: **right laves the left…** The right hand holds the laving vessel and pours over the left, and then vice versa. “Up to the joint” apparently means to the second phalanx of the fingers.
+
+    See BT *Ḥullin* 106a and Rashi, Naḥmanides, ad loc.; *Zohar* 3:245a (*RM*). Cf. JT *Berakhot* 8:2, 12a; *Haggahot Maimoniyyot, Hilkhot Berakhot* 6:7; Moses de León, *Sefer ha-Rimmon*, 56–57.
+
+[^556]: **linking arms…** The rabbis enjoined raising one’s hands, but one must also join them together.
+
+    See BT *Sotah* 4b, in the name of Rav: “With the first washing, one must raise one’s hands up…. This is also taught in a *baraita*: When washing one’s hands, one must lift them up—lest the water pass beyond the joint, flow back, and render the hands unclean.”
+
+[^557]: **recite the blessing…** See BT *Berakhot* 60b.
+
+[^558]: **give of one’s bread…** See BT *Berakhot* 54b–55a: “Rav Yehudah said, “There are three matters which, if one prolongs their duration, extend a person’s days and years: …one who prolongs his mealtime… Regarding prolonging one’s mealtime, perhaps a poor person will come and he will give him.” See *Zohar* 3:245b, 272b (both *RM*).
+
+[^559]: **carefully enunciating the ה (*he*)…** On *motsi* and *ha-motsi* in the blessing over bread, see JT *Berakhot* 6:1, 10a; BT *Berakhot* 38a–b and *Tosafot*, ad loc., s.v. *ve-hilkheta ha-motsi*; *Bereshit Rabbah* 15:7; *Midrash Tehillim* 104:11; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-87b|ZḤ* 87b]] (*MhN, Rut*). On the sefirotic significance of *ha-motsi*, see *Zohar* 1:2a; 2:120b–121a (*RM*), 168b, 231b; 3:98a (*Piq*), 244b (*RM*), 272a–b (*RM*); *TZ* 17 (31a), 22 (68a), 51 (86b–87a).
+
+[^560]: **neither a gorger nor a glutton** See BT *Berakhot* 39b, *Yoma* 39a–b; *Derekh Erets* 5:4; *Derekh Erets* (*Pirqei ben Azzai*) 4:5; 5:1; *Bereshit Rabbah* 45:5; *Devarim Rabbah* 6:11; *Otsar Midrashim*, 30; *Zohar* 2:168b; 3:246a (*RM*), 272a (*RM*); Joseph of Hamadan, *Sefer Toledot Adam*, 97d. Cf. *Zohar* 2:154b.
+
+[^561]: **Words of Torah…** See below, note 579. Cf. *Zohar* 2:153b, which appears to exclude the possibility of reciting Grace after Meals to satisfy the requirement for words of Torah. See *Magen Avraham* 170:1; *Nitsotsei Orot*; *Nitsotsei Zohar*.
+
+[^562]: **Final waters…** See BT *Ḥullin* 105a–b: “Rav Idi son of Avin said in the name of Rabbi Yitsḥak son of Ashyan, ‘The first waters [i.e., washing the hands before the meal] are מצוה (*mitsvah*), a commandment; and the last [waters, i.e., rinsing after the meal] are חובה (*ḥovah*), an obligation.’ … Abbaye said, ‘At first I thought the reason why the last laving may not be performed over the ground was that it made a mess, but now my Master has told me: It is because an evil spirit rests upon it.’”
+
+    On why this rinsing is called “an obligation,” see BT *Eruvin* 17b, in the name of Rav Ḥiyya son of Ashi: “This is because of salt from Sodom, which can blind one’s eyes [on account of its corrosive nature].”
+
+    The question of whether to recite a blessing—ידים‎ רחיצת‎ על (*al reḥitsat yadayyim*)—over rinsing after a meal was a matter of dispute in medieval halakhic literature. The standard edition and the Munkacz edition read that one does not recite a blessing, but V6, V24, O17, L39, MS3, MS4, Th, and V all indicate that the blessing should be said. See BT *Berakhot* 53b: “*You shall sanctify yourselves* ([[Torah 26 - Shmini#^11-44|Leviticus 11:44]])—these are the first waters; *and be holy* (ibid.)—these are the final waters; *for holy* (ibid.)—this is oil; *am I, YHVH your God* (ibid. 20:7)—this is blessing.”
+
+    On the “final waters” (or “fingerbowl water”), see also *Tosefta Berakhot* (Lieberman) 5:13; BT *Berakhot* 53b, *Ḥullin* 105b–106a; *Tanḥuma, Balaq* 15; *Tanḥuma* (Buber), *Balaq* 24; Rashi (s.v. *she-melaḥ sedomit yesh*) and *Tosafot* (s.v. *mayyim aḥaronim ḥovah*) on *Eruvin* 17b; idem on *Ḥullin* 105b, s.v. *mayyim rishonim*; Maimonides, *Mishneh Torah, Hilkhot Berakhot* 6:3; 7:12; *Zohar* 2:154b, 169a, 265a, 266b (last two *Heikh*); 3:186b, 246a (*RM*), 273b (*RM*); Joseph of Hamadan, *Sefer Ta’amey ha-Miẓwoth*, 87; Bahya ben Asher, *Shulḥan shel Arba*, 463, 475–76; Jacob ben Asher, *Arba’ah Turim, Oraḥ Ḥayyim* 181; Joseph Caro, *Shulḥan Arukh* 181:1; Ta-Shma, *Ha-Nigleh she-ba-Nistar*, 62, 80–87.
+
+[^563]: **providing human sustenance…** See BT *Pesaḥim* 118a, in the name of Rabbi El’azar son of Azariah: “Human sustenance is as difficult [to provide] as splitting the Red Sea, as is written: *Who gives food to all flesh* ([[Psalms 136#^136-25|Psalms 136:25]]); and near it: *To Him who cut the Red Sea into pieces* (ibid., 13).
+
+    See *Bereshit Rabbah* 97 (98):3; *Zohar* 1:207b; 2:52b, 170a; 3:292b (*IZ*).
+
+    The phrase “from the horns of wild oxen…” appears in a description of God’s weekday daytime schedule in BT *Avodah Zarah* 3b, in the name of Rav: “For the first three hours, the blessed Holy One sits engaged in Torah. For the second [three hours], He sits and judges the whole world. Once He sees that the world deserves to be destroyed, He rises from the seat of Judgment and sits upon the seat of Compassion. For the third [three hours], He sits and feeds the whole world, from the horns of wild oxen to the eggs of lice. For the fourth, He sits and plays with Leviathan.” See BT *Shabbat* 107b; *Zohar* 2:170a; 3:252b (*RM*).
+
+    On God’s feeding the wicked, both worthy and unworthy, see Moses de León, *Sefer ha-Rimmon*, 104.
+
+[^564]: ***Shekhinah* comes first…** *Shekhinah* signifies *the table that is before YHVH*. Thus She is already present, waiting to see how the Jewish people will set their tables. During the week, one should set the table in a way that is visibly incomplete as a remembrance of the absence of the Temple; but on the Sabbath, the table should be fully adorned.
+
+    On minor forms of asceticism in remembrance of the Temple, see BT *Bava Batra* 60b: “One may stucco one’s house—but should leave a little bare…. One can prepare a full-course banquet—but should omit something small. What should this be? Rav Papa said, ‘A hash of fish.’ A woman can put on all her ornaments—but leave off one or two.”
+
+    On the significance of the table, see Hecker, *Mystical Bodies, Mystical Meals*, 117–19.
+
+[^565]: **ministering angels eat in holiness…** The Jewish people should emulate the lofty standards of the angels since, as educed from the verse in Psalms, people eating before God are eating the *bread of angels* [or: *of the mighty*].
+
+    Washing one’s hands is required before prayer, priestly service, or the consumption of sacred foods.
+
+    On the angelic meal (often consisting of beholding the Divine Presence itself), see *Wisdom of Solomon* 16:20; *Life of Adam and Eve* [*Apocalypse*], 4:1–2; BT *Yoma* 75b. On angels eating, see Vermes, “He is the Bread”; Goodman, “Do Angels Eat?” On sanctity of the body for eating, see *Zohar* 2:154b; Hecker, *Mystical Bodies, Mystical Meals*, 151–53.
+
+    On this midrashic teaching, see BT *Berakhot* 53b as quoted above, note 562. In the talmudic passage, there is a reference to a “blessing” to be recited but not Grace after Meals specifically, and it is that ambiguity that led to the dispute regarding a blessing for rinsing one’s fingers after the meal. However, the fact that in the discussion above, the manuscripts and most of the printed texts indicate that one should say a blessing for rinsing one’s fingers, whereas here the rabbinic teaching is understood as referring to Grace after Meals, suggests two different stages of redaction of this text.
+
+    The speaker has conflated [[Torah 26 - Shmini#^11-44|Leviticus 11:44]] and 20:7. On the phenomenon of divergence between the MT and the *Zohar*’s citation of biblical texts, see above, p. 5, n. 6.
+
+[^566]: ***bread from Evil Eye*…** The simple meaning of the verse in Proverbs is *Do not eat the bread* עין‎ רע (*ra ayin*), *of a stingy man, nor desire his delicacies*, but the young husband construes it so as to link *ra ayin*, which means literally *of an eye of harm*, to the rabbinic concept of *yetser ha-ra*, “evil impulse.” In the simple sense, the bread comes from a *stingy man*, whereas here it derives from Satan—who is identified with the evil impulse. When a person eats without ritually laving his hands, he demonstrates that he is in thrall to the evil impulse, and his food reflects that impurity.
+
+    See BT *Bava Batra* 16a, in the name of Resh Lakish: “Satan, the evil impulse, and the Angel of Death are one and the same.” On the verse in Proverbs, see BT *Sotah* 38b; *Zohar* 1:144a; 2:3a; 3:104a, 147b, 206b.
+
+[^567]: **Two attributes…** These are like the two angels who accompany one home from the synagogue on Friday night. Here it is the ritual hand laving that is the deciding factor between the two competing forces, determining if one is in the domain of goodness or the domain of evil. See *[[Zohar 12.11 - Zohar al ha-Parashot#^zh-48d|ZḤ* 48d]]; above, note 470.
+
+[^568]: **his host had not laved his hands…** Ritual washing—or its omission—before eating bread is a social and mythical marker that identifies those whose food is holy and whose is impure. The full verse reads: *Do not make yourselves detestable through any swarming thing that swarms and do not become impure with them*, ונטמתם (*ve-nitmetem*), *becoming impure, through them*. According to the young husband (based on a Talmudic passage), the lack of the letter א (*alef*) in the word ונטמתם (*ve-nitmetem*), *becoming impure*—which would normally be spelled ונטמאתם (*ve-nittmetem*)—allows for a different reading: ונטמתם (*ve-nittamtem*), *becoming obstructed* [or: *stopped-up*]. One who eats forbidden food defiles and obstructs himself irremediably.
+
+    This story develops one in *Tanḥuma* (Buber), *Balaq* 24: “There was a story during a time of oppression of a Jewish shopkeeper who would cook kosher meat and pork, and he would sell it so that no one would detect that he was a Jew. This was his practice: Whoever would enter his store and would not lave his hands, he would note that he was an idol worshipper and would give him pork. Whoever would lave his hands and recite a blessing, he would note that he was a Jew and would feed him kosher meat. One time a Jew entered to eat and did not lave his hands. The shopkeeper reasoned that he must be an idol worshipper—and gave him pork. The man ate without reciting a blessing. He came to settle his account for the bread and meat, and pork was selling at a premium. He said to him, ‘You owe me this amount for the meat you ate, because the meat costs ten *manah*.’ He replied, ‘Yesterday you gave it to me for eight, and today you want ten!’ The shopkeeper said, ‘But this is pork that you ate.’ When he told him this, the man’s hair stood on end, and he trembled, terrified. He said to him, ‘I am a Jew, but disguised, and you gave me pork!’ He replied, ‘May your spirit perish! When I saw you eat without laving and without a blessing, I thought you must be an idol worshipper.’ Consequently, the rabbis said, ‘When Rav Dimi came [from Palestine] he reported: The omission to lave one’s hands before the meal caused one to eat pig’s flesh; final waters, he has killed a soul.” See Buber’s note; *Tanḥuma, Balaq* 15; BT *Yoma* 38b, 83b; *Hullin* 106a.
+
+    The youth is apparently referring to רצוצה‎ טומאה (*tum’ah retsutsah*), “stopped-up impurity,” whose powerful ability to contaminate is described in *Ḥullin* 71a: “Impurity that is stopped-up breaks through upward to the sky.” See M *Ohalot* 7:1; *Hadrat Qodesh*; *Nitsotsei Zohar*; *Matoq mi-Devash*; Mopsik.
+
+    On the impact of eating impure foods, see BT *Yoma* 39a: “Sin dulls [or: obstructs] a person’s heart, as is said: *Do not become impure with them*, ונטמתם (*ve-nitmetem*), *becoming impure, through them*. Do not read ונטמאתם (*ve-nitmetem*), *becoming impure*, but rather [per Munich MS] ונטמתם (*ve-nittamtem*), *becoming stopped-up* [or: *obstructed*].” See *Pesiqta Zutarta* and Ibn Ezra on [[Torah 26 - Shmini#^11-43|Leviticus 11:43]]; *Zohar* 2:125b; 3:41b–42a, 75b; Baḥya ben Asher on [[Torah 26 - Shmini#^11-43|Leviticus 11:43]].
+
+[^569]: **lave one’s right hand with the left…** The right hand symbolizes *Ḥesed* (Loving-kindness) and the left hand symbolizes *Gevurah* (Judgment). By washing the right hand with the left, one subjugates left to right, making the left serve the right—and thereby ensuring that Loving-kindness will prevail over Judgment, and that Amalek, deriving from the left, will be thwarted.
+
+    See *Zohar* 1:198b; 2:154b; Moses de León, *Maskiyyot Kesef*, 9; Joseph Caro, *Beit Yosef, Oraḥ Ḥayyim* 4:8–11; idem, *Shulḥan Arukh, Oraḥ Ḥayyim* 4:10; Katz, *Divine Law in Human Hands*, 53–54; Wolfson, *Luminal Darkness*, 1–28.
+
+    The verse in Exodus concludes: *when he would let down his hand, Amalek prevailed*.
+
+[^570]: **Levite…** According to the *Zohar*, the priest symbolizes *Ḥesed* on the right, while the Levite symbolizes *Gevurah* on the left. See *Zohar* 1:244a; 2:143b; 3:32a–b, 90b, 151b, 176a–b, 241b; 3:146b; *[[Zohar 12.11 - Zohar al ha-Parashot#^zh-46c|ZḤ* 46c]].
+
+[^571]: **anything called *yad*…** The fourteen phalanges (or finger segments) of the hand correspond to the numerical value of the word יד (*yad*), where *yod* signifies ten and *dalet* signifies four. Thus, whatever corresponds to *yad* (hand) or *yod*-plus-*dalet* (fourteen) must be sanctified. This applies even to the *hand* that is *upon Yah’s throne*, apparently belonging to the side of Judgment or Amalek, hindering the consummation of God’s name. The significance of the number fourteen is corroborated by Rav Hamnuna Sava, who uses the technique of letter permutation known by the acronym at *bash*: substituting the first letter of the alphabet, א (*alef*), with the last letter, ת (*tav*); the second by the penultimate, and so on. If one begins the pairing process with the letter ה (*he*), there are fourteen letters altogether, and the numerical sum of each pair (using only single-digit values per letter) is fourteen: ה (*he*) equals five and is paired with צ (*tsadi*), equaling nine; ו (*vav*) equals six and is paired with פ (*pe*), equaling eight; and so on. The fourteen phalanges of the left lave the fourteen of the right and vice versa, providing reciprocal consummation.
+
+    On the symbolism of fingers and phalanges, see Joseph of Hamadan, *Sefer ha-Malkhut*, 93b–c. On *at bash*, see *Zohar* 2:132a–b; *[[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-66c|ZḤ* 66c]], [[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-67a|67a]]–b, 68b (all *ShS*). On *at bash* from *he* onward, see *Hadrat Qodesh*; *Sullam*; Scholem; *Nitsotsei Zohar*; *Matoq mi-Devash*; Englander.
+
+    The verse in Exodus concludes: *War for YHVH against Amalek from generation to generation*. On this verse, see Naḥmanides; *Zohar* 1:25a (*TZ*), 214a (standard editions); 2:67a; 3:245b (*RM*), 249a (*RM*); *Tiqqunei Zohar* 21 (50a); Moses de León, *Sefer ha-Rimmon*, 68; Baḥya ben Asher.
+
+[^572]: **fingers are an image of the supernal realm…** The ten fingers of the human hand represent the ten *sefirot*. The twelve phalanges of the fingers (excluding thumbs) correspond to twelve components of the chariot. While the chariot signifies *Shekhinah*, the twelve phalanges either represent twelve camps of angels below Her or the *sefirot Ḥesed, Gevurah, Tif’eret*, and *Malkhut*, each accompanied by one creature and one *ofan* (wheel).
+
+    On the ten fingers, see *Sefer Yetsirah* 1:3; *Midrash Tadshe* 10 (*Beit ha-Midrash*, 3:174); *Bahir* 87 (124), 94 (138); Naḥmanides on [[Torah 16 - Beshalach#^17-12|Exodus 17:12]]; [[Torah 17 - Yitro#^20-13|20:13]]; [[Torah 21 - Ki Tisa#^30-19|30:19]]; Todros Abulafia, *Otsar ha-Kavod, Sotah* 37b–38a, pp. 29b–c; idem, *Sha’ar ha-Razim*, 57; *Zohar* 1:20b–21a; 2:57a, 67a–b, 75b–77a, 208a–b; 3:143a (*IR*), 145a (*Piq*), 186a–b, 195b; Moses de León, *Sefer ha-Rimmon*, 56–57, 254. On the twelve phalanges, see *Matoq mi-Devash*.
+
+[^573]: **twelve letters…** The four fingers correspond to the four letters of the tetragrammaton, and the twelve phalanges to the twelve-letter divine name.
+
+    A name of twelve letters is mentioned, but not identified, in BT *Qiddushin* 71a. Later it was associated with the three occurrences of *YHVH* in the priestly blessing ([[Torah 35 - Nasso#^6-24|Numbers 6:24–26]]). See *Bahir* 80 (111): “numbering three, numbering twelve.” See *Zohar* 1:16a, 19b; 2:58a, 201b; 3:78a–b, 172b; *[[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-62b|ZḤ* 62b]] (*ShS*); Trachtenberg, *Jewish Magic and Superstition*, 92, 290, n. 32; *Sullam*; *Matoq mi-Devash*.
+
+[^574]: **extra digit…** The thumb is separate from the other four fingers; its two phalanges signify the more recondite *sefirot Ḥokhmah* and *Binah*. These two, in turn, provide access to *Keter*—called here Hidden One—the source of all blessing.
+
+[^575]: **two elevated phalanges…** The wrist and elbow, or elbow and shoulder. The sum of the number of fingers and thumb, their phalanges, and these two additional joints is twenty-one, corresponding to the numerical value of the word אהיה (*Ehyeh*), *I will be*. Both arms together thus correspond to the two iterations of this word in God’s declaration to Moses of His name, אהיה‎ אשר‎ אהיה (*Ehyeh asher Ehyeh*), *I will be who I will be*. ראש (*Rosh*), *Head*, signifying *Ḥokhmah*, is an anagram of the letters of אשר (*asher*), *who*, signifying *Binah*. Thus the divine name *Ehyeh asher Ehyeh* is represented by the two arms and their component parts and the head, all of which signify the *sefirot Ḥokhmah* through *Gevurah*. Washing one’s hands and extending one’s fingers effectively draws on those two upper *sefirot*, drawing their blessing into *Ḥesed* and *Gevurah*, represented by the two arms.
+
+    On extending the fingers, see Moses de León (?), *Tsava’at Rabbi Eli’ezer ha-Gadol*, 12; idem, *Maskiyyot ha-Kesef*, 9. On *asher* and *rosh*, see *Zohar* 1:15a. On the verse in Deuteronomy, see Moses de León, *Commentary on the Ten Sefirot*, 341a.
+
+[^576]: **One should give of one’s food…** One should give the food that one most desired to enhance the indigent’s self-esteem and make him feel like a desired guest. All of one’s food is ultimately a gift from above, and so it should be shared with a sense of gratitude and generosity. In the *Zohar*, this obligation is discussed most often in relation to the festivals.
+
+    See Maimonides, *Mishneh Torah, Hilkhot Issurei Mizbeaḥ* 7:11: “One who desires to gain merit for himself should subjugate his evil impulse, amplify his generosity, and bring a sacrifice from the most desirable and superior specimen of the species he is bringing…. The same principle applies to everything given for the sake of God, who is good. It should be of the finest and highest quality…. If he feeds a hungry person, he should feed him from the finest and tastiest foods of his table. If he clothes one who is naked, he should clothe him with his finest garments… as is said: *All fat to YHVH* ([[Torah 24 - Vayikra#^3-16|Leviticus 3:16]]).
+
+    See *Zohar* 1:10b; 2:88b, 198a, 199b; 3:104a; Moses de León, *Sefer ha-Rimmon*, 140; Hecker, *Mystical Bodies, Mystical Meals*, 145, 174–75.
+
+[^577]: **seven lands…** Also known as the “seven climates [or: zones],” these are the distinct inhabitable regions recognized in Ptolemaic and medieval geography. According to [[Torah 46 - Eikev#^8-8|Deuteronomy 8:8]], the land of Israel is blessed with seven species, but only two of these are grains. Rabbinic literature refers to five species of grain from which bread is normally produced: wheat, barley, oats, spelt, and rye. Modern scholarship has questioned this identification, pointing out that oats and rye did not grow in the land of Israel in ancient times. In the biblical period the “five species” likely consisted of the following: hard (bread) wheat; rice wheat; spelt wheat; six- and four-rowed barley; and two-rowed barley. See Feliks, *EJ*, “Five Species.”
+
+    The reason given in JT *Berakhot* 6:1, 10a, for the unusual form *ha-motsi* in the blessing over bread is to facilitate articulation of the consonants. Here, the young husband explains that the unusual use of the definite article *ha-* emphasizes that the bread is coming from God, in the land called *Tevel*—and not from angelic beings elsewhere.
+
+    On the seven lands, see above, note 249. On the five grains, see M *Ḥallah* 1:1; *Pesaḥim* 2:5; *Mekhilta, Pisḥa* 8; BT *Berakhot* 35b; *Zohar* 1:157a. On *ha-motsi*, see above, note 559; cf. *Sullam*; *Matoq mi-Devash*.
+
+[^578]: **neither a glutton nor a gorger…** Being a glutton is not merely bad manners, it is the penchant of one who has the demonic serpent dwelling within. Personal comportment reveals the nature of one’s soul: righteous or evil. One day, when Esau came back from hunting and saw that his brother, Jacob, had prepared a lentil stew, he said to him, *Let me gulp down some of this red red stuff, for I am famished*. Here, Esau represents the Other Side, which is characterized by gluttony. One who strives to eat in holiness must shun such behavior, which befits (and would attract) the demonic force.
+
+    On gluttony, see above, note 560. The full verse in Proverbs reads: *A righteous one eats, sating his soul, but the belly of the wicked is* [or: *will be*] *in want*—that is, the wicked are never satisfied and always crave more.
+
+[^579]: **Words of Torah…** See M *Avot* 3:3, in the name of Rabbi Shim’on: “If three have eaten at one table without speaking over it words of Torah, it is as though they have eaten of sacrifices to the dead, as is said: *Surely all tables are full of filthy vomit, without the Omnipresent* ([[Isaiah 28#^28-8|Isaiah 28:8]]). But if three have eaten at one table and have spoken over it words of Torah, it is as if they have eaten from the table of the Omnipresent, as is said: *He said to me, ‘This is the table that is before YHVH’* ([[Ezekiel 41#^41-22|Ezekiel 41:22]]).”
+
+    The verse in Isaiah reads: *Surely all tables are full of filthy vomit, without* מקום (*maqom*), *a place* [or: *a space*]. The rendering *without the Omnipresent* reflects the rabbinic use of *maqom* as a designation of God, apparently connoting immanence.
+
+    On reciting words of Torah at the table, see *Zohar* 2:153b–154a, 168b; Hecker, *Mystical Bodies, Mystical Meals*, 159–62. On the term *maqom*, see Urbach, *The Sages*, 1:66–79. On the phrase “sacrifices [offered] to the dead,” see [[Psalms 106#^106-28|Psalms 106:28]].
+
+[^580]: **praise and laud…** Lacking words of Torah signifies the absence of acknowledgment and appreciation of God’s gifts. The angels sing and praise above; and when the people of Israel below exchange words of Torah, or recite Grace after Meals, they are considered part of the angelic company.
+
+[^581]: **Final waters…** This dirty water is offered to the Other Side (called “prosecutor” and “Attribute of Evil”) to appease him and prevent him from dominating. One should offer a portion to the Other Side, consisting of the water with which he washes off the remnants of food from his fingers. “Attribute of Goodness” signifies *Shekhinah*, who takes the pious adoration those reciting Grace after Meals.
+
+    By providing a portion to the Other Side, one ensures that the demonic force will be occupied, assuaged, and deterred from interfering in the realm of holiness. On this theme, see *Sifra, Shemini, Millu’im* 1:3, 43c; *Pirqei de-Rabbi Eli’ezer* 46; Naḥmanides on [[Torah 29 - Achrei Mot#^16-8|Leviticus 16:8]]; Moses of Burgos, *Ammud ha-Semali*, 158–59; *Zohar* 1:11a, 64a–65a, 89b (*ST*), 113b–114b, 138b, 145b, 174b, 190a, 210b, 247b; 2:33a, 111b, 130a, 141a, 152b, 154b, 157a–b, 169a, 181b, 184b–185a, 203b, 227a–b, 237b–239b, 242b, 266b (*Heikh*), 269a (*Heikh*); 3:63a–b (*Piq*), 101b–102a, 202b–203a, 224a–b, 258b–259a; *[[Zohar 12.10 - Merkevet Yehezqel#^zh-20c|ZḤ* 20c]], [[Zohar 12.11 - Zohar al ha-Parashot#^zh-46c|46c]], [[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-67b|67b]] (*MhN, ShS*), 86c (*MhN, Rut*); Moses de León, *Sefer ha-Rimmon*, 165–67; idem, *Sefer ha-Mishqal*, 124–27; idem, *She’elot u-Tshuvot*, 49; Tishby, *Wisdom of the Zohar*, 2:453–54, 3:890–95, 959.
+
+[^582]: **he had recited the blessing after his meal…** In his recitation of Grace after Meals, Boaz directed his intention toward *Shekhinah*, signified by Heart.
+
+    On this verse, see above, notes 540–41. On Heart as signifying *Shekhinah*, see *Zohar* 2:128b, 218a.
+
+[^583]: **Final waters is a חובה (*ḥovah*), obligation…** In his homily, the young husband plays with the Hebrew *ḥovah*, “obligation,” and the Aramaic *ḥovah*, “sin.” The “final waters” are an obligatory practice (*ḥovah*), and their purpose is not to pay homage to Divinity, but rather to satisfy “Sin” (*Ḥovah*).
+
+    The exclamation “wondrous mystery” may be a response to Naḥmanides’ conservative formulation in his commentary on [[Torah 29 - Achrei Mot#^16-8|Leviticus 16:8]]: “Now the intention in our sending away the goat to the desert was not that it should be an offering from us to it—Heaven forbid! Rather, our intention should be to fulfill the wish of our Creator, who commanded us to do so.”
+
+[^584]: **Cup of blessing…** See BT *Berakhot* 51a: “Ten things were said with regard to a cup of blessing. It requires rinsing and washing; undiluted, and full; adorning and wrapping; he takes it in his two hands and places it in his right; and he lifts it one handbreadth from the ground; he fixes his eyes upon it. And some say: He also sends it as a gift to members of his household.” See *Zohar* 2:43a (*RM*).
+
+[^585]: **three or more…** When three or more have eaten a meal together, they are required to participate in a *zimmun*, literally “an invitation.” The *zimmun* is a responsive liturgical unit in which the leader invites the others present to recite (or listen to) the Grace after Meals. If less than ten men are present, one does not include God’s name in the *zimmun*.
+
+    See M *Berakhot* 7:3: “How do we recite the *zimmun*? If three are present, one says, ‘Let us bless [Him of whose bounty we have eaten].’ If three besides himself, he says, ‘Bless [Him of whose bounty we have eaten]!’ If ten [men] are present, one says, ‘Let us bless our God [of whose bounty we have eaten].’ …It is the same where there are ten, or ten myriads. If a hundred are present, one says, ‘Let us bless *YHVH*, our God…’”
+
+    While the blessing is obviously directed toward God, here the young husband draws attention to the apparently anonymous recipient of this blessing.
+
+    On the cup of blessing with three, see *Beit Yosef, Oraḥ Ḥayyim* 182; *Nitsotsei Zohar*. On anonymous references to God, cf. *Zohar* 1:102b, 115a, 138a, 142b, 144b, 173b; 2:60b, 125b, 131a, 138a, 157a; 3:4b, 53b, 56a.
+
+[^586]: **cup of blessing poised before him…** One gazes upon the cup of blessing—signifying *Shekhinah*—in imitation of God, who constantly has His eyes upon Her. She receives nourishment from *Ḥesed, Gevurah*, and *Tif’eret*—who are represented by Abraham, Isaac, and Jacob, respectively; and once She has been infused, She brings the divine overflow down to the angelic and human realms. This ritualized attention upon the cup clarifies that the *zimmun* blessing is directed toward the entire cluster of *sefirot* that convey food into this world. Cf. *Hadrat Qodesh*; *Matoq mi-Devash*.
+
+    See BT *Berakhot* 51a, in the name of Rav AḤa son of Ḥanina: “one fixes one’s eyes upon the cup, so that his attention will not be distracted from it.”
+
+[^587]: **Blessed is He…** By saying ברוך (*barukh*), “Blessed,” the respondents have referred to one of God’s names, and the previous anonymity is erased. Because the adjective *barukh*, normally translated as *blessed*, can also be a name, the young husband suggests that it could be interpreted as part of King Solomon’s name: “King Solomon Barukh.” Since King Solomon symbolizes *Binah*, it is now clear that the *zimmun* is directed toward *Binah*, whom one cannot mention directly.
+
+    In the *Zohar*, the phrase “the King who possesses peace” can refer to the entire male realm extending down from *Binah*—who “possesses” *Yesod*, known as “peace.”
+
+    On *Barukh* as a name, see *[[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-67a|ZḤ* 67a]] (*ShS*); above, note 519; cf. *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-86a|ZḤ* 86a]] (*MhN, Rut*). On “the King who possesses peace,” see above, note 490.
+
+    “Let us be of common conviction” renders דעתא‎ נסכים (*naskim da’ata*); alternatively, “let us join our intentions.”
+
+[^588]: **two cherubs below Her…** The three people who have formed the company to recite the *zimmun* symbolize *Ḥesed, Gevurah*, and *Tif’eret*, all emerging from *Binah*. Once they have responded with *Barukh*, they have registered *Binah* as the origin of nourishment’s pathway. This joins them with the twelve tribes, who are camps within *Shekhinah*. The leader, representing *Tif’eret*, proceeds with the next line: ‘Blessed is He of whose bounty we have eaten and by whose goodness we live.’ The term ‘good’ or ‘goodness’ signifies *Yesod*, which is the point from which all nourishment emerges from the male aspect of Divinity and is absorbed by *Shekhinah*.
+
+    On twelve supernal tribes, see *Bahir* 82 (113); *Zohar* 1:155a–b, 159b; 2:229b; 3:134b; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-76d|ZḤ* 76d]]; (*MhN, Rut*).
+
+[^589]: **‘And by whose goodness’—and not ‘from whose goodness’…** The wording “by whose goodness” refers to *Yesod*, who bestows bounty and goodness upon the lower world, *Shekhinah*. She is signified by the alternative wording “from whose goodness,” since She derives from *Yesod*. Ultimately, all nourishment for the worlds below flows from His Goodness, *Yesod*.
+
+    See BT *Berakhot* 50a: “From one’s blessings it is obvious whether or not he is a Torah scholar. How so? Rabbi says, ‘[If he says] “and by whose goodness,” he is a Torah scholar. [But if he says] “and from whose goodness,” he is an ignoramus.’” See Rashi, ad loc., s.v. *u-mi-tuvo harei zeh bur*.
+
+    On “by whose goodness” as opposed to “from whose goodness,” see *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-87c|ZḤ* 87c]] (*MhN, Rut*); cf. *Zohar* 2:168b.
+
+    The verse in Hosea actually reads: ופחדו (*u-faḥadu*), *and they will tremble, before YHVH and His goodness*. For other instances of a difference between the Masoretic spelling or wording and the *Zohar*’s reading, see above, p. 5, n. 6.
+
+[^590]: **ten…** When ten are present at a meal, all the *sefirot* from *Keter* to *Malkhut* are in harmony, so the leader of the *zimmun* says ‘Let us bless our God.’ Even with more than ten people, the same formula is used.
+
+    The version of the *zimmun* here reads לאלהינו‎ נברך (*nevarekh le-loheinu*), which means literally “Let us bless to our God.” There was some dispute in the medieval liturgical practice regarding the addition of the preposition *le-*, “to.” See M *Berakhot* 7:3 and Alfasi, ad loc.; Sa’adia Gaon, *Siddur Rav Sa’adia Gaon*, 105, 107; Amram Gaon, *Seder Rav Amram Gaon*, 45; Maimonides, *Mishneh Torah, Hilkhot Berakhot* 5:4–5; *Tosafot* on *Berakhot* 49b, s.v. *nevarekh Eloheinu garsinan*; *Zohar* 3:246a (*RM*); *Nitsotsei Zohar*.
+
+[^591]: **on the land…** The *zimmun* and the first of the four blessings of Grace after Meals are directed toward the upper world—*Binah* through *Yesod*. The second blessing offers thanks for the land of Israel, covenant of circumcision, and the Torah, but its focus is on “land,” signifying *Shekhinah*. Thus the trajectory of the blessing is from the upper realm to the lower realm.
+
+[^592]: **Great Name…** Presumably יה (*Yah*), normally signifying *Ḥokhmah* and *Binah* and the entire flow of emanation—but here emphasizing *Binah*, called World that is Coming. The *Qaddish* proceeds to talk about “the world,” alluding to *Shekhinah*, the lower realm. According to this pattern, blessings directed toward the highest spheres facilitate the drawing down of divine blessing below. The exceptions are in the statutory prayer; of its 19 blessings, both the first (*Avot*) and the seventeenth (*Hoda’ah*) begin and end with bowing—which signifies the direction of blessing from below upward.
+
+    On *Qaddish*, see above, note 549. On the Great Name, see *Zohar* 2:165b; Vol. 5, p. 458, n. 759. On bowing in the statutory prayer, see Ehrlich, *The Non-Verbal Language of Prayer*, 29–63.
+
+[^593]: **Blessing for the land…** The second blessing of Grace after Meals begins with a reference to “the land,” then proceeds to refer to “covenant [of circumcision] and Torah, life and food.” Here, “covenant and Torah” symbolize *Yesod* and *Tif’eret*, respectively, while “life and food” signify the flow of blessings from *Binah* down to *Yesod*, who conveys it to *Shekhinah*.
+
+    On the need to include “covenant and Torah” in the second blessing of Grace after Meals, see BT *Berakhot* 48b–49a; *Zohar* 2:168b.
+
+[^594]: **Women…** are obligated in Grace after Meals… Women, who lack the sign of circumcision and are not commanded to study Torah, are therefore unable to recite Grace after Meals on behalf of others or to lead others in reciting it.
+
+    On the question of women’s reciting (or enabling others to fulfill their obligation to recite) Grace after Meals, see M *Berakhot* 3:3; 7:2; BT *Berakhot* 20b and *Tosafot*, ad loc., s.v. *nashim*; 45b and Jonah Gerondi, ad loc. (on Rif); *Arakhin* 3a and *Tosafot*, ad loc., s.v. *mezammenot le-atsman*; Maimonides, *Mishneh Torah, Hilkhot Berakhot* 5:1, 7; *Zohar* 2:190a; 3:19b, 191a; *Sha’arei Teshuvah* (*Teshuvot ha-Ge’onim*), 345; Joseph Caro, *Shulḥan Arukh, Oraḥ Ḥayyim* 186:1; 199:6; Ta-Shma, *Ha-Nigleh she-ba-Nistar*, 44–45, 128, nn. 107–8. On this passage, see *Sullam*; Mopsik; Englander; *Matoq mi-Devash*.
+
+[^595]: **Women are obligated…** “The *Megillah*” refers to a scroll inscribed with the book of Esther, which is read aloud on the holiday of Purim. See BT *Megillah* 4a, in the name of Rabbi Yehoshu’a son of Levi: “Women are obligated in the public reading of the *Megillah*, for they too were involved in that miracle.”
+
+    On women’s ability to read the *Megillah* on behalf of others, see *Tosefta Megillah* 2:7; BT *Megillah* 4a, and ad loc.: *Tosafot*, s.v. *nashim ḥayyavot*; Solomon ibn Adret (Rashba); Yom Tov ben Ishbili (Ritva); and Asher ben Yeḥiel (Rosh); *Arakhin* 2b–3a and Rashi ad loc.; Maimonides, *Mishneh Torah, Hilkhot Megillah* 1:1–2; Eleazar of Worms, *Sefer ha-Roqe’aḥ*, 236; Joseph Caro, *Shulḥan Arukh, Oraḥ Ḥayyim* 689:1–2.
+
+    With regard to women’s obligation for Grace after Meals, the text is somewhat knotty. It appears to be talking about a woman who is unable to recite Grace after Meals on her own and so is dependent upon someone else. The comment about a husband’s being obligated to wait for his wife might suggest that she was otherwise occupied with responsibilities connected to the meal or the household.
+
+    Cf. the position ascribed to Rabbenu Jonah Gerondi: “Women who do not understand the holy tongue must recite Grace after Meals for themselves, and they cannot be exempted through the blessing that they hear from men.” See *Peirush Talmidei Rabbeinu Yonah, Berakhot* 33a (Alfasi’s pagination).
+
+[^596]: **does not utter the Divine Name…** This refers to the *zimmun* in which the Divine Name is invoked when ten men are present—but not for women, regardless of the number. On the *zimmun*, see above, note 585. On women’s ineligibility to join a *zimmun* with men, see BT *Berakhot* 45b.
+
+[^597]: **Building of Jerusalem…** The third blessing of Grace after Meals concerns the building of Jerusalem, implicitly pertaining to the Temple. The previous two blessings applied to the divine realm; this is the first reference to the earthly realm.
+
+    On the land of Israel as the source of the world’s nourishment, see the sources cited above, note 290.
+
+[^598]: **Everything is comprised within Grace after Meals…** Although each of the blessings is directed to a different place, ultimately Grace after Meals is germane to all of Divinity and the material world. If one brings joy to *Shekhinah* (signified by “Attribute of Goodness”) through the recital of the blessing, one merits eternal, divine nourishment. See *Sullam*; cf. *Matoq mi-Devash*.
+
+    The full verse in Proverbs reads: *All the days of the poor are wretched, but a good-hearted person has a continuous feast*. On this verse, see *Zohar* 2:128b, 197b, 259b (*Heikh*).
+
+[^599]: **inviting…** The narrative echoes the theme of *zimmun*, the liturgical ‘invitation’ that played an important role in the young husband’s homily. In this way, the social setting broadens the performance beyond the limitations of the ritual of Grace after Meals.
+
+[^600]: ***He went to lie down*…** The verse in Ruth reads in full: *Boaz ate and drank, and his heart was glad, and he went to lie down at the end of the heap of grain. Then she came stealthily and uncovered his feet and lay down*.
+
+[^601]: **consuming heavenly life…** Boaz, signifying *Yesod*, draws supernal nourishment from the *sefirot* above and conveys it to *his heart*, signifying *Shekhinah*. This leads to full consummation of the heavenly union as he lies down by the grain pile, which symbolizes the celestial adornments of the “holy throne,” representing *Shekhinah*. Its *lilies* (here called “jewels”) signify angels and other holy beings in the retinue of *Shekhinah*, who is signified by *heap of wheat*.
+
+    On jewels surrounding the celestial throne, see *Zohar* 1:107b (*Tos*), 149b (*ST*).
+
+[^602]: **after midnight** Ruth lies down at Boaz’s feet—but he is unaware of her presence until midnight, when God strolls with the righteous in the Garden of Eden. On God and the righteous at midnight, see above, notes 76, 546. On the image of Ruth uncovering Boaz’s feet (or legs), see Kara-Ivanov Kaniel, “‘Va-tagel Margelotav.’”
+
+[^603]: **all souls ascend…** When people go to sleep, their souls depart their bodies; those souls’ ascent configures *Shekhinah*. The voice and fire that emerge from the north, signifying *Gevurah*, cause the archangel *Gavriel*, “Gabriel”—also known as the supernal *gever*, “rooster”—to crow. The entire celestial realm exists under the auspices of the Left, frightful with its fire of Judgment from above. This explains why Boaz, representing *Yesod*, was shaken with fright when he found Ruth, representing *Shekhinah*, at his feet.
+
+    On souls ascending at night, see Moses de León, *Maskiyyot ha-Kesef*, 11; idem, *Sheqel ha-Qodesh*, 70–71 (88–89). On the rooster, see Rashi on BT *Eruvin* 53b, s.v. *maggidei ba-alatah*, according to whom the rooster’s crows mark the various divisions of the night. See *Pereq Shirah*, 2:57 (s.v. *tarnegol*): “When the blessed Holy One comes to the righteous in the Garden of Eden, all the trees of the Garden sprinkle spices before Him, with song and praise. Then [the rooster], too, is aroused and praises.”
+
+    See 3 Baruch 6:15–16; Naḥmanides on [[Job 38#^38-36|Job 38:36]]; *Zohar* 1:10b, 77b, 92b, 218b; 2:195b–196a; 3:22b–23b, 52b, 171b–172a; *[[Zohar 10.03 - Parashat Be-Reshit#^zh-13c|ZḤ* 13c]] (*MhN*), 47d, 88a (last two *MhN, Rut*); Moses de León, *Maskiyyot Kesef*, 12–13; Liebes, *Pulḥan ha-Shaḥar*, 168–97.
+
+[^604]: **three watches of the night…** See BT *Berakhot* 3a, in the name of Rav: “The night consists of three watches; and over each and every watch, the blessed Holy One sits and roars like a lion, saying, ‘Woe to the children because of whose sins I destroyed My House, and burned my Sanctuary, and exiled them among the nations of the world.’”
+
+    On the three divisions (or watches) of the night, see BT *Berakhot* 3a–b and Rashi, ad loc., s.v. *i qa-savar*; Azriel of Gerona, *Peirush ha-Aggadot*, 1; Jacob ben Sheshet, *Sefer Meshiv Devarim Nekhoḥim*, 184–85; *Zohar* 1:122a (*MhN*), 188b–189a, 230b–231b; 2:18b (*MhN*), 143b, 173a–b, 195b–196a; 3:64b; *[[Zohar 10.03 - Parashat Be-Reshit#^zh-5d|ZḤ* 5d]]–6a, 17d, 47c (last three all *MhN*); Todros Abulafia, *Otsar ha-Kavod, Rosh ha-Shanah* 24b, p. 17a; Moses de León, *Sefer ha-Rimmon*, 403; idem, *Sheqel ha-Qodesh*, 70–71 (88–89). On the image of the roaring lion, see Fishbane, *The Exegetical Imagination*, 22–40.
+
+[^605]: ***Who shall ascend*…** When people go to sleep, their souls leave their bodies, hoping to be deemed virtuous enough to enter the Garden of Eden. The angels’ song reflects their desire.
+
+[^606]: **some false, some true** As is characteristic of dreams. The 365 palaces may be a reference to the 365 biblical prohibitions that worthy ones have guarded against. See *Matoq mi-Devash* on *Zohar* 3:172a; cf. *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-82d|ZḤ* 82d]] (*MhN, Rut*).
+
+[^607]: **Mourners of Zion…** This phrase originates in Isaiah 61:3. It is used to designate a historical group of Karaites who adopted ritual practices to lament the fallen state of Jerusalem. See *Pesikta Rabbati* 34 (158–59). The *Zohar* reimagines them as a particular subset of angels. See *Zohar* 2:195b; Moses de León, *Sheqel ha-Qodesh*, 70–71 (89); Liebes, “Zikkat ha-*Zohar*,” 40–41.
+
+[^608]: **the rooster crows…** When Gabriel (the supernal rooster) crows, the heavenly flame licks at the wings of terrestrial roosters, who then give forth their cry—which is a call to human beings and angels to lament the destruction of the Temple.
+
+    On the rooster’s cry, see [[Isaiah 33#^33-7|Isaiah 33:7]]: *Behold, the Erelim cried outside; angels of* שלום (*shalom*), *peace, weep bitterly*. *Shalom* in the verse may be a reference to Jerusalem, which is sometimes called *Shalem*. See [[Torah 03 - Lech Lecha#^14-18|Genesis 14:18]]; [[Psalms 076#^76-3|Psalms 76:3]]. On the verse in Isaiah, see *Zohar* 1:120a, 182a, 210a–b; 2:2b, 195b–196a; *[[Zohar 12.10 - Merkevet Yehezqel#^zh-37d|ZḤ* 37d]]; 93a (*MhN, Eikhah*).
+
+    On the custom of rising in the middle of the night to lament the fallen state of Jerusalem, see *Sefer ha-Yashar ha-Meyuḥas le-Rabbeinu Tam*, 46–47; Scholem, *On the Kabbalah and Its Symbolism*, 146–150; Magid, “Conjugal Union, Mourning and Talmud Torah”; Idel, *Messianic Mystics*, 308–20; Giller, *Shalom Shar’abi*, 140–41.
+
+[^609]: **370 firmaments** The numerical equivalent in *gimatriyyah* of the word שלם (*Shalem*), “complete.” This may also be an allusion to the *sefirot*, wherein the number 300 stands for the three highest *sefirot*, and the number 70 signifies the seven lower *sefirot*. See *Zohar* 1:4b; 2:14a–b (*MhN*); 3:133b–134a, 135b (last two *IR*). Cf. *Zohar* 3:154a.
+
+[^610]: **the blessed Holy One split them…** During the first half of the night, Judgment prevails and God also mourns over the destruction of the Temple and Israel’s exile. The forcefulness of His grief splits apart the camps of heavenly beings who had gathered to weep over Jerusalem.
+
+    See BT *Berakhot* 59a: “When the blessed Holy One remembers His children, who are plunged in suffering among the nations of the world, He sheds two tears into the Great Sea, and His voice [or: its sound] resounds from one end of the world to the other…. The Rabbis say, ‘He kicks the firmament.’” See *Seder Eliyahu Rabbah* 30 (28), p. 148; *Zohar* 1:4a, 231a; 2:18a (*MhN*), 195b–196a; *ZḤ* 53b–c; Moses de León, *Seder Gan Eden*, 133; idem, *Sheqel ha-Qodesh*, 70–71 (89).
+
+    The verse in Jeremiah concludes: *He roars mightily over His abode*. The verses in Psalms 79 read in full: *God, nations have come into Your estate, they have defiled Your holy temple. They have turned Jerusalem to ruins. They have given Your servants’ corpses as food to the fowl of the heavens, the flesh of Your faithful to the beasts of the earth*.
+
+[^611]: **lying in the dust…** Why was Boaz so frightened? It is because of the downtrodden nature of the woman lying in the dust of his feet. Ruth signifies *Shekhinah*, Assembly of Israel, who lies “in the dust” while in exile. Boaz, representing *Yesod*, inquires after Her condition in exile.
+
+    On the questions that Boaz asks Ruth, see *Rut Rabbah* 6:1: “He began to feel her hair, and said, ‘Spirits do not have hair!’ He said to her, ‘Who are you, a spirit or a woman?’ She said, ‘A woman.’ ‘A free woman or married?’ ‘A free woman.’ ‘Are you impure or pure?’ She replied, ‘Pure.’ *Behold! There was a woman*—purer than all women… as is said: *He said, ‘Who are you? And she replied, ‘I am Ruth, your handmaid*.” See *Rut Zuta* 3:8; Sasson; Eskenazi and Frymer-Kensky.
+
+    MT [[Ruth 3#^3-9|Ruth 3:9]] reads: *He said, ‘Who are you? And she replied, ‘I am Ruth, your handmaid. Spread your robe over your handmaid, for you are a redeemer* [or: *a redeeming kinsman*]. On discrepancies between verses cited in the *Zohar* and MT, see above, p. 5, n. 6.
+
+[^612]: ***I am* רות (*Rut*), *Ruth*… מרוות (*meravvat*), brimming…** Ruth, symbolizing *Shekhinah*, speaks of her anguish over the condition of the Jewish people, suffering in exile. Moreover, She too endures the agony of banishment and abuse.
+
+    Rabbi Shim’on engages in wordplay, associating רות (*Rut*), *Ruth*, with מרוות (*meravvat*), “overflowing” (or “brimming”), as in [[Psalms 023#^23-5|Psalms 23:5]]: *my cup* רויה (*revaya*), *overflows*. Cf. BT *Berakhot* 7b as quoted above, note 486.
+
+[^613]: ***Your latest deed of loyalty*…** Rabbi Shim’on interprets Boaz’s effusive appreciation to Ruth as an utterance from the blessed Holy One, signifying *Tif’eret*, to *Malkhut*. He explains it in the context of King David’s behavior, who also symbolizes *Malkhut*, when he was sent out of Jerusalem.
+
+    Rabbi Shim’on puns on the word בחורים (*baḥurim*), *younger men*, in the verse from Ruth, for it is also the name of the town from which (several generations later) Shimei emerges to curse David. That locale becomes associated with temptation or evil. Yet Rabbi Shim’on also seems to connect its name to the root בחר (*bḥr*), “choose,” which plays prominently in the midrashic tradition that God chose David even though the Sanhedrin had excommunicated him for the sin of Bathsheba.
+
+    In the story’s simple sense, Ruth’s first act of *ḥesed, loyalty*, is her returning to Canaan with Naomi or—as *Targum* emphasizes—her conversion to Judaism. Her *latest* (second) act of *ḥesed* probably refers to her seeking out a levir or, as in the midrash, to her desire to join him rather than younger men. See *Targum*; *Rut Rabbah* 6:2; Rashi; Ibn Ezra; Sasson; Eskenazi and Frymer-Kensky.
+
+    Shimei was a relative of King Saul who held David responsible for various deaths in Saul’s family. When David was fleeing Jerusalem, Shimei cast curses, stones, and dirt at the king and his cohort. David is advised to kill Shimei, but he spares him, insisting that God instructed Shimei to curse.
+
+    On *baḥurim*, see [[II Samuel 16#^16-5|2 Samuel 16:5]], [[II Samuel 16#^16-18|18]]; [[Psalms 078#^78-70|Psalms 78:70]]; *Bemidbar Rabbah* 3:2; *Midrash Shemu’el* 8:2; Sasson on Ruth 3:10. On Shimei and David, see [[II Samuel 16#^16-5|2 Samuel 16:5–13]]. Verse 10 reads: *If he curses, it is because YHVH told him, “Curse David”; and who can say, “Why have You done this?*” See *Zohar* 2:107b.
+
+[^614]: **Even now in exile…** The blessed Holy One commends *Malkhut* for Her fortitude and fidelity during the long years of exile. Like David who did not react to Shimei’s viciousness, so too did *Malkhut* remain steadfast in passive response to the abuses that She suffered in Jewish history, neither responding with violence nor falling into despair.
+
+    Titus Flavius Vespasian came from an undistinguished family and rose through the ranks in the military. Ultimately he led the Roman army’s subjugation of the Jewish revolt in Judaea, which culminated in the sack of Jerusalem and the destruction of the Temple in 70 C.E. under his son Titus’s command. Vespasian ruled as emperor of Rome from 69–79 C.E. and his son was the first son of an emperor to serve as Roman Emperor. See BT *Gittin* 56a.
+
+    Nebuchadnezzar succeeded his father to the throne and ruled Babylon from 605 to 562 B.C.E. In 588 he laid siege to Jerusalem, ultimately capturing it and laying waste the Temple in 586. In rabbinic tradition, Nebuchadnezzar is depicted as having turned himself into a god. See BT *Sanhedrin* 96a; *Bereshit Rabbah* 9:5; *Shemot Rabbah* 8:2.
+
+[^615]: **Solomon’s wisdom regarding Shimei…** In contrast to Shimei’s scorn, driving David out of Jerusalem, Solomon calmly warns Shimei that he will be a prisoner there, in Jerusalem, risking death should he step out. David signifies *Malkhut* who is forced to leave Her Temple twice, in accordance with Shimei’s doubled curse—*get out*.
+
+    The verses in 1 Kings 2 read in full: *Then the king summoned Shimei and said to him, ‘Build yourself a house in Jerusalem and dwell there—do not ever go out from there hither and yon. For on the very day that you go out and cross the Wadi Kidron, know for certain that you will surely die; your blood will be on your own head*.
+
+[^616]: **stay now in exile…** *Malkhut*’s faithfulness during the first exile at the hand of Nebuchadnezzar was impressive, but not nearly as much as during the long exile after the destruction of the second Temple. The blessed Holy One asks Her to remain patient as the exile continues, and to persist in leading the Jewish people in piety and faith. If their actions do not lead to redemption, though, God promises that He will bring salvation at the end of *the night*, nonetheless.
+
+    In the verse, the grammatical subject is unstated—being implied by the inflection of the verb יגאלך (*yig’alekh*): *if* [*he*] *will redeem you*. In its simple sense, this refers to the kinsman mentioned in the previous verse. Here, Rabbi Shim’on construes the subject midrashically, yielding: *if* [*Israel*] *redeems you*.
+
+    See BT *Sanhedrin* 98a, where Rabbi Yehoshu’a son of Levi discusses [[Isaiah 60#^60-22|Isaiah 60:22]], describing Israel’s redemption (*I, YHVH, will hasten it in its time*): “It is written *in its time*; yet it is written *I will hasten it*. If they prove worthy, *I will hasten it*; if not, *in its time*.” See Rashi and Radak on [[Isaiah 60#^60-22|Isaiah 60:22]]; *Zohar* 1:117b; 3:66b; *Hadrat Qodesh*.
+
+    The full verse in Ruth reads: *Stay for the night. Then in the morning, if he will redeem you—good, let him redeem! But if he does not want to redeem you—I myself will redeem you, as YHVH lives! Lie down until morning*. See Sasson.
+
+[^617]: **to delight with the righteous…** On God’s delight with the righteous in the Garden of Eden at midnight, see above, notes 76, 546.
+
+[^618]: **joining Redemption to Prayer…** In the daily morning liturgy, the blessing “Blessed are You, *YHVH*, who has redeemed Israel” immediately precedes the *Amidah*, the “standing” prayer—so central that it is known simply as “prayer.” According to BT *Berakhot* 4b and 9b, there should be no pause between this blessing and the beginning of the *Amidah*. (In the evening liturgy, the ‘redemption’ blessing also precedes ‘prayer,’ but other blessings intervene.) According to Kabbalah, *Shekhinah* is adorned during the sitting prayer in preparation for Her union with *Tif’eret*, which takes place during the *amidah*. When Israel does this, they too have bonded with *Shekhinah*, signified by “Holy Land.”
+
+    On the juxtaposition of Redemption and Prayer, see Todros Abulafia, *Otsar ha-Kavod, Berakhot* 9b, p. 5b: “Know well that Prayer is above, the beginning of waters that have no end; and Redemption is below, end of the supernal ones, from which begins the emanation of all individual created entities. The reason for juxtaposing Redemption to Prayer is in order to unify everything up to *Ein Sof*, drawing down and bonding it to Tent—making all one. Then it is like ‘its end is fixed in its beginning,’ since as there is Wisdom above, so is there Wisdom below, and Redemption receives in place of Prayer.”
+
+    See BT *Berakhot* 10b; *Zohar* 1:132b, 205b, 228b; 2:128b, 138b, 156a, 216b; 3:195b; Moses de León, *Sefer Maskiyyot ha-Kesef*, 30–31; idem, *Sefer ha-Rimmon*, 78–79; idem, *Sheqel ha-Qodesh*, 75–76 (96).
+
+[^619]: **closer to the redemption…** Boaz refers to the *close redeemer*, the relative whose proximity of kinship gives him precedence as a potential levir for Ruth. Here, he is referring to the ultimate redemption that derives from *Binah*, signified by the World that is Coming, and from *Ḥesed*, the first *sefirah* to emanate from *Binah*. Boaz, in contrast, symbolizes the redemption of *Yesod* and is thus further removed from the source of redemption.
+
+[^620]: **Why is he called *Ploni Almoni*?…** Why is the redeemer unnamed? It is because *Ḥesed* has been concealed, as educed from the verse in Lamentations. The reason for this hiddenness is that until the ultimate redemption comes from there, *Malkhut* will lie in the dust of exile. Her degraded state corresponds to the anonymity of Her redeemer. According to the Targumim, the term *ploni* means “hidden” or “one whose ways are concealed.” The term *Almoni* can also signify a widower, one whose wife “lies down on the earth.” *Qets ha-yamin*, “End of the right” (from [[Daniel 12#^12-13|Daniel 12:13]]), alludes to *Malkhut*, who is the consummation of the divine flow, characterized by the grace of *Ḥesed* on the right. The hidden redeemer is identified with the light of *Ḥesed* hidden away at the time of creation.
+
+    On *Ploni*, see *Targum Onqelos*, Saadiah Gaon, Rashi, Ibn Ezra, and Radak on [[Torah 04 - Vayera#^18-14|Genesis 18:14]]; *Targum Onqelos*, Saadiah Gaon, Rashi, and Ibn Ezra on [[Torah 48 - Shoftim#^17-8|Deuteronomy 17:8]]; *Targum Yonatan* on [[I Samuel 21#^21-3|1 Samuel 21:3]]; *Targum* on [[Ruth 1#^1-4|Ruth 1:4]]; *Matoq mi-Devash*. On *Almoni*, see Mopsik; Englander. On *qets ha-yamin*, see *Eikhah Rabbah* 2:6; *Pesiqta de-Rav Kahana* 17:5; *Midrash Tehillim* 137:7; *Zohar* 1:54a–b, 62b–63a, 75a (*ST*), 210b, 233b, 234b–235a; 2:33a–34a, 181b; 3:142b (*IR*); *[[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-63c|ZḤ* 63c]] (*ShS*), 83b (*MhN, Rut*); Moses de León, *Sefer ha-Rimmon*, 73–75, 368–71; idem, *Sheqel ha-Qodesh*, 80–81 (102–3); idem, *Sefer ha-Mishqal*, 158. On the light hidden away for the righteous, see above, note 478.
+
+    The verse in Lamentations reads: *He has withdrawn His right hand in the face of the enemy* [thereby enabling them to defeat Israel]. See *Mekhilta, Shirta* 5; *Mekhilta de-Rashbi*, [[Torah 16 - Beshalach#^15-6|Exodus 15:6]]; *Eikhah Rabbah, Petiḥta* 24; 2:6; *Tanḥuma, Beshallaḥ* 15; *Zohar* 1:163b; 2:57a–b, 143b, 203a, 254a (*Heikh*); 3:74a, 201a, 237a; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-47b|ZḤ* 47b]] (*MhN, Rut*), 61b–c (*MhN, ShS*), 74d (*ShS*).
+
+[^621]: **two messiahs…** Rabbinic and medieval Jewish works attest to a tradition of two messiahs: Messiah son of Joseph, who would be oppressed and suffer, ultimately dying in battle; and Messiah son of David, who would bring the ultimate historical redemption.
+
+    On the two messiahs, see BT *Sukkah* 52a: “What is the cause of the mourning [mentioned in [[Zechariah 12#^12-12|Zechariah 12:12]]]? Rabbi Dosa and the Rabbis disputed the matter. One explained that it refers to the slaying of Messiah son of Joseph, and the other explained that it refers to the slaying of the Evil Impulse. It is understandable according to him who explains that it refers to the slaying of Messiah son of Joseph, since that well accords with the verse *And they shall look upon Me concerning the one they have stabbed, and they shall mourn for him as one mourns over an only child* ([[Zechariah 12#^12-10|Zechariah 12:10]]).” See above, note 157.
+
+    On Joseph as Righteous One, see above, note 94.
+
+[^622]: **the right—which is behind…** The right, signifying *Ḥesed*, is hidden; and until it is revealed and comes to the fore, Messiah Son of David cannot redeem the world.
+
+    The full verse in Psalms reads: *That those whom You love might be rescued, deliver with Your right hand and answer me*.
+
+[^623]: **Son of Joseph will arrive and redeem first…** The Messiah Son of Joseph, representing *Yesod*, will redeem first through union with *Malkhut*. Subsequently, the light of *Ḥesed* (identified here also as Righteous One), which had been stored away for the righteous, is revealed. Then the two Righteous Ones—*Ḥesed*, deriving from the upper world, and *Yesod*, redeemer of the lower world—unite, emanating divine overflow onto the universe. *Yesod* is now empowered by *Ḥesed* and unites with “the world,” signifying *Malkhut*, to produce new souls. The words *Acquire for yourself* represent the bonding of *Malkhut* with *Ḥesed*, and by extension with the upper world, *Binah*.
+
+    On the light hidden away for the righteous, see above, note 478.
+
+[^624]: ***he took off his sandal*…** Removing the sandal signifies the unsheathing of the divine phallus *Yesod* in preparation for union with *Malkhut*. Thus, when the first redeemer hands over his sandal to Boaz, it is a sign that he has transferred access to *Malkhut* and enabled the redemption from the right, manifest through Moses, to appear.
+
+    In [[Ruth 4#^4-7|Ruth 4:7]], the noun איש (*ish*), *man*, midrashically alludes to Moses, in that he was told to remove his sandals upon encountering the burning bush ([[Torah 13 - Shemot#^3-5|Exodus 3:5]]), and because the Torah refers to him conspicuously as “the *ish*” ([[Torah 15 - Bo#^11-3|Exodus 11:3]]; [[Torah 21 - Ki Tisa#^32-1|32:1]]; [[Torah 36 - Beha'alotcha#^12-3|Numbers 12:3]]; cf. [[Torah 54 - V'Zot HaBerachah#^33-1|Deuteronomy 33:1]]).
+
+    See *Zohar* 3:148a, 180a, 308b (*Tosafot*); Moses de León, *Sefer ha-Mishqal*, 145–46; idem, *Sefer ha-Rimmon*, 253; Wolfson, “Images of God’s Feet,” 166–67. Cf. *[[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-72d|ZḤ* 72d]] (*ShS*).
+
+[^625]: **lamp of light** *Shekhinah* Herself has come to hear Rabbi Shim’on’s teachings, since he is the very source of Her light.
+
+[^626]: ***to validate any transaction*…** The simple meaning of the verse refers to a ritual form of validating legal transactions. As noted by Ibn Ezra (on 4:8), a sandal was commonly available and thus easy to use. It is not entirely clear in the original context who gave his sandal to whom, though it is clarified in the subsequent verse. The sandal practice in Ruth does not carry the disgrace that is depicted in the *ḥalitsah* ritual of [[Torah 49 - Ki Teitzei#^25-9|Deuteronomy 25:9]].
+
+    On לפנים (*le-fanim*), *of old*, as a reference to the hoary past, see [[I Samuel 09#^9-9|1 Samuel 9:9]]; cf. [[I Chronicles 09#^9-20|1 Chronicles 9:20]]. On the verse, see BT *Bava Metsi’a* 47a; *Rut Rabbah* 7:12; Ibn Ezra; Rashi; Sasson; Zakovitch; Eskenazi and Frymer-Kensky.
+
+[^627]: **He created it based… upon the Torah…** According to a midrashic tradition, the verse in Psalms 102 is spoken by the Torah, which served as God’s blueprint for Creation, or as His architect. Midrashic tradition also notes that one thousand years is like a single day for God, as indicated in [[Psalms 090#^90-4|Psalms 90:4]]: *For a thousand years in Your eyes are like yesterday gone, like a watch in the night*.
+
+    See *Bereshit Rabbah* 1:1, in the name of Rabbi Osha’ya: “*I was by Him as* אמון (*amon*), *a nursling*…. אמון (*amon*)—אומן (*umman*), *an artisan*. Torah says, ‘I was the artistic tool of the blessed Holy One.’ According to the custom of the world, when a mortal king builds a palace, he does not build it by his own skill but rather by the skill of an architect. And the architect does not build it out of his own knowledge, but rather has parchments and tablets [with plans and diagrams] to know how to make the rooms and doors. Similarly, the blessed Holy One gazed into Torah and created the world.”
+
+    See M *Avot* 3:14; *Seder Eliyyahu Rabbah* 29, p. 160; *Tanḥuma, Bereshit* 1; *Tanḥuma* (Buber), *Bereshit* 5; *Shir ha-Shirim Rabbah* 5:11; *Bereshit Zuta* 1:1; *Zohar* 1:5a, 47a, 134a–b; 2:161a–b, 200a, 221a; 3:35b, 61b, 152a, 178a; Moses de León, *Sefer Mishkan ha-Edut*, 2; Wolfson, *Philo*, 1:242–45, 266–74.
+
+    On Torah’s preceding the world by two thousand years, see *Bereshit Rabbah* 8:2; *Va-yiqra Rabbah* 19:1; *Pesiqta de-Rav Kahana* 12:24; *Shir ha-Shirim Rabbah* on 5:11; *Midrash Shemu’el* 5:2; *Tanḥuma, Vayeshev* 4; *Tanḥuma* (Buber), *Yitro* 16; *Midrash Tehillim* 25:8; 90:12, 17; *Bahir* 4 (5), 37 (55); Azriel of Gerona, *Peirush ha-Aggadot*, 3–4, 77; *Zohar* 2:49a, 84b, 99a; 3:128a (*IR*), 159a; *[[Zohar 10.03 - Parashat Be-Reshit#^zh-5a|ZḤ* 5a]] (*MhN*), 29c, 49b.
+
+    The full verse in Proverbs (spoken by Wisdom) reads: *I was by him as* אמון (*amon*), *a nursling* [or: *intimate, confidant, artisan*]; *I was a delight day after day, playing before Him at all times*. The simple meaning of *amon* is obscure; it appears only one other time in the Bible, in [[Jeremiah 52#^52-15|Jeremiah 52:15]]. Cf. [[Song of Songs 7#^7-2|Song of Songs 7:2]].
+
+[^628]: **He stabilized the Torah…** To fully exploit the Torah’s potential, God consolidated, examined, and investigated it. The context in Job describes how God prepares wisdom for humankind and transmits it to them. According to midrashic sources, this biblical passage alludes to God’s careful preparation for His revelation at Sinai.
+
+    The simple sense of the word אדם (*adam*) here is “man,” but the homily understands it as referring to Adam.
+
+    See *Bereshit Rabbah* 24:5; *Tanḥuma, Yitro* 15, *Vayaqhel* 4; *Tanḥuma* (Buber), *Vayaqhel* 5; *Shemot Rabbah* 40:1; cf. *Sefer Yetsirah* 6:4.
+
+    [[Job 28#^28-28|Job 28:28]] reads in full: *He said to man, “See! Fear of the Lord—that is wisdom, and the shunning of evil is understanding.”*
+
+[^629]: **all the letters arose…** This legend appears first in medieval midrashim. Here we see what is apparently the first version in the Zoharic corpus; it is couched in Hebrew. A fuller account appears in Aramaic in *Zohar* 1:2b–3a.
+
+    See *Alfa Beita de-Rabbi Aqiva*, ver. 2 (*Battei Midrashot* 2:396–404); *Midrash Aseret ha-Dibberot* (*Beit ha-Midrash*, 1:62–63); *Midrash Shir ha-Shirim* (ed. L. Greenhut) 5:11; *Zohar* 1:205b; *TZ, Haqdamah*, 16a; Tishby, *The Wisdom of the Zohar*, 562–67; Oron, “Sippur ha-Otiyyot u-Mqorotav.” Cf. BT *Berakhot* 55a, in the name of Rav: “Bezalel knew how to combine the letters with which heaven and earth were created.” On letters in inverted order, see below, p. 418, n. 170.
+
+[^630]: **Your name is אמת (*emet*), Truth…** According to BT *Shabbat* 55a, in the name of Rabbi Ḥanina, God’s seal is אמת (*emet*), “truth,” the final letter of which is ת (*tav*). The notion that God’s name is truth derives from [[Jeremiah 10#^10-10|Jeremiah 10:10]]: יהוה (*YHVH*) *is the God of truth*.
+
+[^631]: **destined to die…** See [[Ezekiel 09#^9-3|Ezekiel 9:3–4]]: *He* [*YHVH*] *called to the man dressed in linen with the scribe’s kit at his waist, and YHVH said to him, “Pass through the city, through Jerusalem, marking a mark upon the foreheads of the people who moan and groan over all the abominations being committed in it.”* In the old Hebrew script, the ת (*tav*) was shaped like an X, the simplest mark of intention. Its purpose in Ezekiel was to distinguish the righteous from the rest of the population: only those bearing the mark escape death (ibid., 6). However, according to the legend in BT *Shabbat* 55a, recorded in the name of Rabbi Aḥa son of Rabbi Ḥanina, even the marked righteous were killed: “The blessed Holy One said to [the angel] Gabriel, ‘Go and inscribe a *tav* of ink on the foreheads of the righteous so that the angels of destruction will not have dominion over them. And on the foreheads of the wicked a *tav* of blood so that the angels of destruction will have dominion over them.’ The attribute of justice said before the blessed Holy One, ‘Master of the Universe, how are these different from those?’ He replied, ‘These are full-fledged righteous people and these are full-fledged wicked people.’ [The attribute of justice] said to Him, ‘Master of the Universe, it was in the hands of the righteous to protest—and they did not protest! [Therefore, they too are culpable!]’… Rabbi Shmu’el son of Naḥmani said, ‘[The letter *tav* teaches] that these are people who fulfilled the entire Torah from *alef* through *tav*.’”
+
+    See BT *Shabbat* 55a; *Avodah Zarah* 4a; *Tanḥuma, Mishpatim* 7, *Tazri’a* 9; *Tanḥuma* (Buber), *Tazri’a* 13; *Zohar* 1:2b, 205b.
+
+[^632]: **Your Name שדי (*Shaddai*) begins with me** See BT *Ḥagigah* 12a, where Resh Lakish interprets this name as alluding to God’s original command to limit the expansion of the universe: “I am the one ש (*she*), who, said to the world: ‘די (*dai*), Enough!’”
+
+[^633]: **joined together…** In other versions of the story, ש-ק-ר (*shin, qof, resh*) all come together and are rejected because they form the word שקר (*sheqer*), “falsehood.”
+
+    See *Alfa Beita de-Rabbi Aqiva*, ver. 2 (*Battei Midrashot* 2:397–98); *Midrash Aseret ha-Dibberot* (*Beit ha-Midrash*, 1:62–63); *Zohar* 1:2b, 205b.
+
+[^634]: **כ descended from הכתר (*ha-keter*), the crown…** כ (*kaf*) is the first letter of כתר (*keter*), “crown,” and thus represents it in its entirety.
+
+[^635]: **thousands of Jews will stumble…** God is probably alluding to [[Torah 21 - Ki Tisa#^32-28|Exodus 32:28]], which reads: *The Levites did according to the word of Moses, and from the people* כשלשת (*kishloshet*), *about three thousand, men fell on that day*. The presence of the letter *kaf* as the prefixed modifier כ (*ke-*), *about*, entangles *kaf* in that massacre, and she is thus tainted as an instrument for creation.
+
+[^636]: **letter of ברכה (*berakhah*), blessing…** ב (*Bet*) stands for ברכה (*berakhah*), “blessing,” and the Torah begins with it: בראשית (*bereshit*), *In the beginning*.
+
+    See JT *Ḥagigah* 2:1, 77c; *Bereshit Rabbah* 1:10; *Pesiqta Rabbati* 21, 109a; *Tanḥuma, Bereshit* 5; *Bereshit Zuta* 1:1; *Midrash ha-Gadol*, [[Torah 01 - Bereshit#^1-1|Genesis 1:1]]; *Bahir* 5 (4).
+
+[^637]: **My name אחד (*eḥad*), One** Which begins with א (*alef*). א also represents the number one, a numerical representation of the blessed Holy One.
+
+    On the blessed Holy One’s being called “One,” see *Zohar* 1:33a; 2:134a, 161b; 3:7b, 16b, 56a, 77b, 93b; *ZḤ* 43d.
+
+[^638]: **fashioned ב into a kind of secret wardrobe of treasures…** All the letters of the alphabet shone through the letter *bet* like trophies in a display case, so that when the blessed Holy One contemplated the Torah—which begins with *bet*—He was actually gazing upon both the letter *bet* and the entire Torah with all the letters.
+
+    “Secret wardrobe of treasures” renders דאסקופא‎ קומטרא (*qumtera de-isquppa*). The word *qamtera* generally refers to a clothes-chest or wardrobe, while *isquppa* can mean “yard” (of a ship) or “threshold” (of a doorway). In *[[Zohar 11.07 - Matnitin#^zh-3a|ZḤ* 3a]] (*MhN*), *isquppa* refers to the “threshold” beneath which household valuables were buried. On *qamtera*, see M *Kelim* 16:7; *Ohalot* 9:15; *Targum Yonatan* on [[II Kings 10#^10-22|2 Kings 10:22]]. On *isquppa*, see BT *Berakhot* 18b; Montgomery, *Aramaic Incantation Bowls from Nippur*, 147, 161; Rashi on BT *Mo’ed Qatan* 11a, s.v. *tsinnor*; idem on [[Joshua 24#^24-26|Joshua 24:26]]; *Zohar* 1:46b, 67a; 2:83b; 3:69a and *Derekh Emet*, ad loc.; *Bei’ur ha-Millim ha-Zarot*, 173; Scholem, *Major Trends*, 165, 388, n. 47; *Arukh ha-Shalem*, s.v. אסקופה (*asquppah*); cf. *Midrash Tehillim* 3:3 (and Buber’s note there).
+
+    Medieval illuminations depict wardrobes (or “clothing-chests”) as containers that could hold treasures, particularly in paintings in Haggadot depicting the Israelites taking valuables from their Egyptian neighbors, deriving from [[Torah 15 - Bo#^12-35|Exodus 12:35]]: *The Israelites had done according to Moses’ word, and they had asked of the Egyptians objects of silver and objects of gold, and cloaks*. See the fifteenth-century *The Second Nuremberg Haggadah*, fol. 18b; Isaac ibn Sahula’s *Meshal Haqadmoni*, fol. 12b; *Golden Haggadah*, fol. 13r.
+
+    On “actually,” see above, note 303.
+
+[^639]: **the blessed Holy One does not withhold reward…** God rewards the initiative shown by the last three letters (who came first), by fusing them with the letter ב (*bet*) to form the word בראשית, simultaneously restoring them to their proper order.
+
+[^640]: **And through the Torah…** Based on the association both of letters and of Torah with the phrase *of old*, Rav Huna offers another explanation of how the blessed Holy One created the world both through individual letters and through the Torah.
+
+    The full verse in Ruth reads: *Now this was done of old in Israel in cases of redemption or exchange: to validate any transaction, one man would take off his sandal and hand it to his fellow. Such was testimony in Israel*.
+
+[^641]: **Israel arose in His mind…** See *Tanḥuma, Naso* 11: “Seven things were created before the world was created. They are: the Throne of Glory, the Torah, the Temple, the world’s patriarchs, the people of Israel, the name of the messiah, and repentance.”
+
+    Rabbi Ḥanina interprets the scriptural terms from Ruth sefirotically, seeing “Torah” as a reference to *Ḥokhmah*, and “Israel” as a reference to *Tif’eret*. (Other textual versions explain that the Torah is inscribed upon the people Israel. See *Hadrat Qodesh*; Mopsik; *Matoq mi-Devash*; Englander.)
+
+    See *Bereshit Rabbah* 17:5, in the name of Rabbi Avin: “The unripe fruit of heavenly wisdom is the Torah.”
+
+    On items created before the creation of the world, see *Sifrei*, Deuteronomy 37; BT *Pesaḥim* 54a, *Nedarim* 39b; *Bereshit Rabbah* 1:4, p. 6; *Tanḥuma* (Buber), *Naso* 19; *Midrash Tehillim* 90:12; 93:3; *Pirqei de-Rabbi Eli’ezer* 3; *Midrash Mishlei* 8:9; *Seder Eliyyahu Rabbah* 31, p. 160; *Zohar* 1:113a (*MhN*); *[[Zohar 10.03 - Parashat Be-Reshit#^zh-5a|ZḤ* 5a]] (*MhN*). On Israel as arising in God’s thought before Creation, see *Zohar* 1:24a (*TZ*), 118b; 2:108b, 119a (*RM*).
+
+[^642]: **the letters ה‎ י (*Y, H*)…** The letters ה‎ י represent *Ḥokhmah* and *Binah*, the recondite realms of divine thought from which letters concretize and emerge, ultimately assuming the form of Written Torah in *Tif’eret*, represented by “Israel.”
+
+    On the sefirotic origins of primal Torah, see Azriel of Gerona, *Peirush ha-Aggadot*, 2–4, 77, and Tishby’s n. 5; *Zohar* 1:15b, 16b, 47b, 156b (*ST*); 2:61b–62a, 85a, 121a, 161b, 200a; 3:81a, 182a, 192b, 261a, 290a (*IR*); *[[Zohar 10.03 - Parashat Be-Reshit#^zh-15b|ZḤ* 15b]] (*MhN*); Moses de León, *Shushan Edut*, 336, 369; idem, *Sefer ha-Rimmon*, 106–8, 326–30; Tishby, *Wisdom of the Zohar*, 293–94, 1085–86.
+
+    The simple sense of the phrase in Ruth reads: *Now this was done of old* בישראל (*be-yisra’el*), *in Israel*. Here, Rabbi Ḥanina hypostasizes *Israel* and interprets the preposition ב (*be-*) to mean that the Torah was inscribed upon him.
+
+[^643]: **Jerusalem Talmud…** The Torah that pre-exists the world by two thousand years includes both the Jerusalem and Babylonian Talmuds. The former is more authentic, however, since it was composed in the land of Israel, whereas the latter, written in Babylonian Aramaic and incorporating different interpretations of Torah and different practices, is a distortion.
+
+    The Zoharic authorship represents itself as writing in the land of Israel in the second century, sometimes polemicizing against the Jews in Babylon, criticizing them for being excessively reticent regarding esoteric lore.
+
+    See BT *Sanhedrin* 24a: “Rabbi Oshaya said, ‘What is the meaning of the verse *I took for myself two staffs; one I called* נעם (*No’am*), *Pleasantness, and the other I called* חובלים (*Ḥovelim*), *Bonds* ([[Zechariah 11#^11-7|Zechariah 11:7]])? *No’am*—these are the scholars in the land of Israel, שמנעימין (*she-man’imin*), who treat with graciousness, each other when engaged in halakhic debates. *Ḥovelim*—these are the scholars of Babylon, שמחבלים (*she-meḥabbelim*), who injure, each other when discussing halakhah…’ What does [the name] בבל (*Bavel*), Babylon, connote? Rabbi Yoḥanan said, ‘בלולה (*Belulah*), Mixed-up, scripture; mixed-up Mishnah; and mixed-up Talmud.’ *In dark places He has made me dwell, like those dead for eternity* ([[Lamentations 3#^3-6|Lamentations 3:6]]). Rabbi Yirmeyahu said, ‘This refers to the Babylonian Talmud.’”
+
+    On criticism of Babylon, see [[Jeremiah 13#^13-13|Jeremiah 13:13]]; BT *Pesaḥim* 87a, *Yoma* 57a, *Zevaḥim* 60b, *Menaḥot* 52a, *Bekhorot* 25b; *Zohar* 1:96b, 224b–225a; *[[Zohar 11.05 - Midrash ha-Ne'lam al Eikhah#^zh-91a|ZḤ* 91a]]–93d (*MhN, Eikhah*); Liebes, “Ziqqat ha-Zohar le-Erets Israel”; Huss, “Ḥakham Adif mi-Navi,” 41–42 and n. 126. Liebes suggests that the Jerusalem Talmud is a cipher for the *Zohar* itself. See Liebes, 42–44.
+
+    The citation from Ruth represents a small discrepancy from MT. On the *Zohar*’s divergences from MT, see above, p. 5, n. 6.
+
+    The simple meaning of [[Isaiah 08#^8-16|Isaiah 8:16]] reads: *Bind up the testimony; seal Torah among My disciples*.
+
+[^644]: **covenant of circumcision …** *To firm up* renders לקים (*le-qayyem*), whose simple meaning in the verse is *to validate*. In the *Zohar*, however, the root *qym* often refers to the covenant of circumcision or to *Yesod*. See Liebes, *Peraqim*, 358, 361–62, 368, 371–79.
+
+    On circumcision as equivalent to all the commandments of the Torah, see JT *Nedarim* 3:11, 38b; *Zohar* 2:92a.
+
+[^645]: **commandment of *ḥalitsah*…** According to the biblical custom of levirate marriage, if a married man dies childless, his brother should marry the widow and then father a child who will be considered the offspring of the deceased. Posthumously providing the dead man with offspring prevents his name from being blotted out. If the brother refuses, he and the widow perform the ceremony of *ḥalitsah* (release): before a religious court, his shoe is removed and she spits in his presence (or his face). As a consequence, he is freed of his obligation and she is free to marry another man. Rabbinic tradition indicates that men began to choose to marry their late brother’s widows for base reasons and so began to prefer *ḥalitsah* over *yibbum*.
+
+    See M *Bekhorot* 1:7: “The commandment of *yibbum* takes precedence over the commandment of *ḥalitsah*—this was in olden days, when they acted for the sake of fulfilling a commandment. But now, when they do not act for the sake of fulfilling a commandment, they have ruled that the commandment of *ḥalitsah* takes precedence over the commandment of *yibbum*.” BT *Yevamot* 39b supplies another opinion that this preference was reversed yet again. The privileging of *ḥalitsah* over *yibbum* reflects the Ashkenazi practice, while the Sephardi practice privileges *yibbum*. The reading here is not found in V6, O17, O18, L39, MS3, N55, CH1, Th, V, or *Hadrat Qodesh*, but it is found in some of the manuscripts (MS4, V22, and in L38 in a later hand) and some of the printed texts preserve it as an alternate reading (Or *Yaqar*; Munkacz; Margaliot).
+
+    On levirate marriage, see above, note 430. On the legal context of *ḥalitsah*, see Rashi on *Bekhorot* 13a, s.v. *akhshav*; *Tosafot* on *Yevamot* 39b, s.v. *amar rav ein kofin*; Maimonides, *Mishneh Torah, Hilkhot Yibbum*, 1:2; Jacob ben Asher, *Arba’ah Turim, Even ha-Ezer*, 165; Joseph Caro, *Shulḥan Arukh, Even ha-Ezer* 165:1. On *ḥalitsah* in Zoharic Kabbalah and subsequent ramifications, see *Zohar* 3:180a; Moses de León, *Shushan Edut*, 359; idem, *Sefer ha-Rimmon*, 252–54; idem, *Sefer ha-Mishqal*, 145–46; Joseph of Hamadan, *Sefer Ta’amey ha-Miẓwoth*, 258–62; Katz, *Halakhah ve-Kabbalah*, 62–65, 127–74; idem, *Divine Law in Human Hands*, 45–49. On *yibbum* with wrong intent, see *Zohar* 3:177a.
+
+    On the loss of wisdom after the destruction of the Temple, see BT *Megillah* 12b: “From the day when the Temple was destroyed and we were exiled from our land, counsel has been taken from us and we do not know how to judge capital cases.” See BT *Sotah* 49a–b; *Matoq mi-Devash*.
+
+    Traditional interpretation of this verse treats the shoe ceremony as a form of symbolic acquisition called *ḥalipin*. See JT *Qiddushin* 1:5, 60c; BT *Bava Metsi’a* 47a, *Niddah* 45a; *Rut Rabbah* 7:11; *Midrash Shmu’el* 18:5; Rashi; Ibn Ezra; El’azar of Worms.
+
+[^646]: **partner with the blessed Holy One…** As the blessed Holy One prevented the cessation of life, so does the man who performs *yibbum*, for he continues his brother’s lineage.
+
+[^647]: **man astray in the desert…** This parable represents the soul of a man who dies childless, for despite all his pious actions during his lifetime, his soul cannot ascend to benefit from the heavenly reward he had earned. Without siring children, he is like one beset by thugs. Cf. *Matoq mi-Devash*.
+
+[^648]: **His friend…** His brother came and performed *yibbum*, marrying his brother’s widow. The deceased was like one who had performed no religious acts, but when a child was born of the new union—the deceased reincarnated—he was like one who had been given a new house and new clothes. Through pious action, he soon accrued new deeds in his name. Thus the transfer of *his sandal* represents the entire cycle of one brother giving his deceased brother a new lease on life, by allowing him to come back into the world to rectify his defective condition.
+
+    In *Sefer ha-Mishqal*, 138, Moses de León says that the redeemer saves him from the hands of “destroyers,” presumably angels of destruction.
+
+[^649]: **other nations…** The doubled formulation in the two verses indicates that they are like the dead in this world, nor will they be rejuvenated at the time of resurrection.
+
+    The full verse in Jeremiah reads: *Thus shall you say to them: Let the gods, who did not make heaven and earth, perish from the earth and from under these heavens*.
+
+[^650]: ***like Rachel and like Leah*…** Through much of the book of Ruth, she is referred to as a Moabite. At this point, the people of the town approve of and bless her union with Boaz, expressly welcoming her into the people, while bypassing the prohibition against marrying Moabites ([[Torah 49 - Ki Teitzei#^23-4|Deuteronomy 23:4]]). *Do* [*something*] *mighty… and perpetuate your name* implies success in procreation. See Sasson; Zakovitch; Eskenazy/Frymer-Kensky.
+
+[^651]: **for a virgin only…** In a standard wedding ceremony, seven blessings are recited to honor and gladden the bride and groom. In cases involving widowers and widows, however, only one is recited. While there are several statements within the simple sense of the people’s invocation ([[Ruth 4#^4-11|Ruth 4:11]]), here they are understood as all part of a single utterance and as one blessing.
+
+    Rabbi Ḥanina contradicts the Talmudic teaching, in which the number of days on which blessings are recited differs for virgins and widows, not the number of blessings. See BT *Ketubbot* 7a, in the name of Rav Huna in the name of Rav: “‘A virgin as well as a widow requires a blessing.’ But did Rav Huna say so? Did not Rav Huna say: ‘A widow does not require a blessing?’ There is no contradiction. Here it refers to a young man who marries a widow, while there it refers to a widower who marries a widow. And when a widower marries a widow, [a blessing] is not required? Did not Rav Naḥman say: ‘Huna son of Nathan said to me, “A *Tanna* taught, ‘From where is it derived that the blessing of bridegrooms has to be said in the presence of ten? As is said, *Then he took ten men from the elders of the town and said, ‘Be seated here’; and they sat down* ([[Ruth 4#^4-2|Ruth 4:2]]).”’ And yet Boaz was a widower, who married a widow! What is the meaning of the ‘she does not require a blessing’ that Rav Huna said? She does not require a blessing all seven days, but on one day she requires a blessing.”
+
+    On the restriction of one blessing for a widow, see the remarks of Solomon ibn Adret, *Responsa* 1:1175: “Regarding your statement that you had seen a certain prayer-book that distinguishes the wedding blessings conferred when a widower marries a widow and those for a young man who marries a virgin, that the widower marrying a widow receives only one blessing… I have never heard such a thing, and there is no suggestion of such in the Talmud at all. On the contrary, the words of the Talmud prescribe the opposite.… I have not seen a single authority who has written those, nor have I seen anyone conduct himself in this way…. Nobody knows who wrote these words.” Ta-Shma indicates that this practice is first recorded in late twelfth-century France.
+
+    On the seven blessings, see BT *Ketubbot* 7b–8a; *Zohar* 2:169a–b. On limiting the blessings of the widower and widow, see *Zohar* 3:266b; *Sha’arei Teshuvah* (*Teshuvot ha-Ge’onim*), 344; *Sefer Kol Bo*, 75; Ta-Shma, *Ha-Nigleh she-be-Nistar*, 33. On Boaz as a widower, see BT *Bava Batra* 91a.
+
+    The full verse in Isaiah reads: *As a youth espouses a virgin, Your sons shall espouse you; And as a bridegroom rejoices over his bride, So will your God rejoice over you*. Since the verse parallels the term *virgin* with *bride*, one can infer that only a virgin is called “bride.”
+
+[^652]: **A semblance of the seven blessings…** The root principles of the normative seven blessings are present within this one benediction conferred by the people.
+
+[^653]: **In honor…** The three days of rejoicing that the Talmud prescribes for the widower and widow are reconceived here as three blessings. Jewish holidays are sanctified and ceremonies are often introduced with wine and its accompanying blessing. The second blessing is the one bestowed by the people upon Boaz and Ruth. The third is a version of the final wedding blessing: “Blessed are You, *YHVH* our God, King of the world, who has created jubilation and happiness, groom and bride, love, companionship, rejoicing, exultation, peace, and fellowship. Soon, *YHVH* our God, may there be heard in the cities of Yehudah, and in the streets of Jerusalem, the sounds of jubilation and happiness, the sounds of the groom and bride, the joyous sounds of grooms from their wedding canopy and of young people at their feasts of song. Blessed are You, *YHVH*, who causes the groom to rejoice with the bride.” The version of this blessing in BT *Ketubbot* 8a (and in the standard liturgy) includes twelve synonyms of, or nouns related to, joy, rather than the ten listed here—where Rabbi Ḥanina wishes to parallel the ten utterances used to create the world and, most likely, the ten *sefirot*.
+
+    On the “ten utterances,” see M *Avot* 5:1: “By ten utterances the world was created.” See *Bereshit Rabbah* 17:1; BT *Rosh ha-Shanah* 32a, *Megillah* 21b; *Pesiqta Rabbati* 21, 108a–b (and Ish Shalom’s n. 138); 40, 169a; *Avot de-Rabbi Natan* A, 31; B, 36; *Pirqei de-Rabbi Eli’ezer* 3 (and Luria’s n. 73); Ezra of Gerona, *Peirush le-Shir ha-Shirim*, 506; *Zohar* 1:16b, 30a; 2:14b (*MhN*), 34b, 67a, 75b, 156b, 169b, 178b (*SdTs*), 200a; 3:11b–12a, 73a; *[[Zohar 12.08 - Sitrei Otiyyot#^zh-4b|ZḤ* 4b]] (*SO*). Cf. BT *Ḥagigah* 12a; *Sefer ha-Bahir* 96 (141–46).
+
+[^654]: **seven…** Rabbi Yehudah disagrees with Rabbi Ḥanina, contending that there are only seven distinct terms within the blessing.
+
+[^655]: **five voices…** In the penultimate line of the final blessings, the repeated term קול (*qol*) means “sound(s)” in its simple sense. Rabbi Ḥanina construes each iteration of the word in its related meaning as “voice,” yielding five “voices”: of jubilation; of happiness; of the groom; of the bride; and “of grooms from their wedding canopy and of young people at their feasts of song.”
+
+[^656]: **Great Sanhedrin…** BT *Bava Qamma* 60b (and Rashi, ad loc.) cites the verse from 2 Samuel, interpreting *the gate* to refer to the Sanhedrin. See *Targum*.
+
+    On Boaz as Ibzan, see BT *Bava Batra* 91a; above, note 80.
+
+[^657]: **one’s soul in this world…** The full verse in Exodus reads: *If you take your neighbor’s garment in pledge, you must return it to him before the sun sets*. God, too, follows this rule, in restoring a person’s soul after its nightly ascent.
+
+    On the soul’s nightly ascent, see *Bereshit Rabbah* 78:1: “*New every morning; great is Your faithfulness* ([[Lamentations 3#^3-23|Lamentations 3:23]]). Rabbi Shim’on son of Abba said, ‘Before you renew us each and every morning, we know that you are immensely faithful to redeem us.’ Rabbi Alexandrai said, ‘Before you renew us each and every morning, we know that you are immensely faithful to resurrect the dead.’” See *Zohar* 2:213b–214a; *[[Zohar 10.03 - Parashat Be-Reshit#^zh-18b|ZḤ* 18b]] (*MhN*).
+
+    The words *And he was given to them* are not found in MT. On discrepancies between the *Zohar*’s rendering of verses and those in MT, see above, p. 5, n. 6.
+
+[^658]: **a verse evoking compassion…** During sleep, the soul ascends to heaven. If we took into account one’s daily sins, the soul should not be restored in the morning. However, by consciously delivering the soul as a pledge to God before sleep, one ensures that God will return the pledge.
+
+    See BT *Berakhot* 5a, in the name of Abbaye: “Even a scholar should recite one verse evoking compassion [before going to bed], such as: *Into Your hand I entrust* [or: *commend, commit, deposit*] *my spirit; You redeem me, YHVH, God of truth* ([[Psalms 031#^31-6|Psalms 31:6]]).” Traditionally, this verse is included in the nightly recital of *Shema* before sleep.
+
+    See *Zohar* 1:11a, 36b; 3:119a, 198b, 260a; *[[Zohar 10.03 - Parashat Be-Reshit#^zh-18b|ZḤ* 18b]] (*MhN*); Moses de León, *Maskiyyot Kesef*, 11; idem, *Sefer ha-Rimmon*, 53.
+
+[^659]: **in accord with His attributes…** This statement is somewhat fragmentary and probably refers to the individual’s obligation to return a neighbor’s pledge before the end of the day. See [[Torah 18 - Mishpatim#^22-25|Exodus 22:25–26]]; [[Torah 49 - Ki Teitzei#^24-6|Deuteronomy 24:6]], [[Torah 49 - Ki Teitzei#^24-12|12–13]], [[Torah 49 - Ki Teitzei#^24-17|17]]; *Zohar* 3:119a, 198b (and *Nitsotsei Zohar*, n. 8); *[[Zohar 10.03 - Parashat Be-Reshit#^zh-18c|ZḤ* 18c]] (*MhN*); Vol. 8, pp. 267–68, n. 63. Cf. [[Ezekiel 18#^18-16|Ezekiel 18:16]]; [[Amos 2#^2-8|Amos 2:8]]; [[Job 22#^22-6|Job 22:6]]; [[Job 24#^24-3|24:3]].
+
+[^660]: **He seizes his soul** [[Torah 18 - Mishpatim#^22-25|Exodus 22:25]] reads: *If* תחבל‎ חבל (*ḥavol taḥbol*), *you should indeed take in pledge, your neighbor’s garment*. Here, Rabbi Ḥanina interprets the doubling of the verb to signify two events: if one ruins one’s soul through sinful behavior, he will die—and God will seize his soul as a pledge.
+
+    On this reading, see Mopsik; *Matoq mi-Devash*; cf. Englander. The simple meaning of the verse from Nahum reads: *Why will you plot against YHVH? He wreaks utter destruction: No adversary opposes Him twice!*
+
+[^661]: **his pledge is in the hand of the Omnipresent…** The widow’s *garment* refers to the child born of the marriage of the widow and the brother-in-law. For the infraction of not siring children, the deceased’s soul was taken by God as pledge—and will not be taken again for this transgression. Alternatively, it will not meet an early demise on any account. Cf. Moses de León, *Sefer ha-Rimmon*, 324–25; *Hadrat Qodesh*; *Matoq mi-Devash*.
+
+[^662]: **All souls** Ultimately, all souls will receive their just deserts.
+
+[^663]: **blemished the covenant…** These tortured souls wander without respite, until they are reincarnated into another body.
+
+    See BT *Bava Batra* 116a, in the name of Rabbi Shim’on son of Yoḥai: “Whoever does not leave a son to succeed him incurs the full wrath of the blessed Holy One.”
+
+    On punishment for not engaging in procreation, see *Zohar* 1:228b; 2:105b–106a; Moses de León, *Sefer ha-Rimmon*, 224, 241–44; idem, *Sefer ha-Mishqal*, 138; Recanati, *Peirush al ha-Torah*, 33c. Some kabbalists distinguish between those who do not marry or procreate intentionally and those who make every effort but are unsuccessful. See Moses de León, *Shushan Edut*, 353 ff. and Scholem’s n. 183; idem, *Sefer ha-Rimmon*, 249–52; idem, *Sefer ha-Mishqal*, 141–45; Joseph of Hamadan, *Sefer Ta’amey ha-Miẓwoth*, 254–55. See also Asher ben David, *Sefer ha-Yiḥud*, 129; *Zohar* 1:90a, 187b. On the significance of procreation, see BT *Yevamot* 63b; *Zohar* 1:115a; *[[Zohar 10.11 - Parashat Ki Tetse#^zh-59b|ZḤ* 59b]] (*MhN*); Moses de León, *Sefer ha-Mishqal*, 137–38; idem, *Mishkan ha-Edut*, 23; Mopsik, “Creation and Procreation”; below, note 666.
+
+[^664]: **uproots it and transplants it…** One who fails to procreate will be given further opportunities through reincarnation to do so, up to a maximum of three chances.
+
+    See *Bahir* 135 (195 and Margaliot’s nn. 5 and 7, ad loc.); *Zohar* 1:48a, 186b–187a; 2:109a; *[[Zohar 12.11 - Zohar al ha-Parashot#^zh-59a|ZḤ* 59a]] (*MhN*); Moses de León, *Shushan Edut*, 358; idem, *Sefer ha-Rimmon*, 248; *ZḤ* 114b (*Tiq*); *TZ* 6 (22b), 28 (72b), 69 (103a).
+
+    [[Job 33#^33-29|Job 33:29–30]] reads: *Truly, God does all these things two or three times to a man, To bring him back from the Pit, that he may bask in the light of life*.
+
+[^665]: **Four portals in the heavens…** Rabbi Neḥuniah son of Yose explains the references in Amos to *three* and *four* as signifying groups of angels who meet the soul after its successive deaths. Though the text says that they are appointed over doorways in the heavens (following its literary model in *Pirqei de-Rabbi Eli’ezer* 15), in context it is clear that they are appointed over openings to Hell. One who fails to procreate is given three opportunities to avoid Hell, but if he fails to marry and sire children after all those chances, the fourth group is no longer merciful—and prevents him from leaving. Alternatively, even if he fails to procreate but repents of this unintentional transgression, he is forgiven and saved from Hell.
+
+    See BT *Yoma* 86b, in the name of Rabbi Yose son of Yehudah: “If a person commits a transgression once, he is forgiven; twice, he is forgiven; a third time, he is forgiven; a fourth time, he is not forgiven, as is said: *Thus says YHVH: For three transgressions of Israel; for four, I will not reverse it* ([[Amos 2#^2-6|Amos 2:6]]).”
+
+    On this passage, see *Hadrat Qodesh*; *Matoq mi-Devash*. See *Pirqei de-Rabbi Eli’ezer* 15 and Luria’s note 12; *[[Zohar 12.11 - Zohar al ha-Parashot#^zh-59a|ZḤ* 59a]]–c (*MhN*), 89c (*MhN, Rut*).
+
+[^666]: **diminished the image…** Building on the foundational notion from [[Torah 01 - Bereshit#^1-26|Genesis 1:26]] that the human being is created in the image of God, [[Torah 01 - Bereshit#^5-3|Genesis 5:3]] reads: *Adam lived a hundred and thirty years, and he engendered in his likeness—according to his image—and called his name Seth*. In Zoharic Kabbalah, procreation signifies the continuous manifestation of the image of God; the failure to procreate signifies a failure to continue the chain of the divine image. Moreover, by causing a blemish within his own point of circumcision, he produces a defect in *Yesod* above.
+
+    On “diminishing the [divine] image,” see *Bereshit Rabbah* 34:14: “Rabbi El’azar son of Azariah expounded, ‘Whoever abstains from procreation is as though he diminished the image. What is the explanation? *For in the image of God He made the human* ([[Torah 02 - Noach#^9-6|Genesis 9:6]]), and written afterward: *As for you, be fruitful and multiply* (ibid., 7).’ Ben Azzai expounded: ‘Whoever abstains from procreation is as though he spilled blood and diminished the [divine] image.’”
+
+    See *Tosefta Yevamot* 8:7; BT *Yevamot* 63b; *Mekhilta, Baḥodesh* 8; *Bereshit Rabbah* 17:2; *Zohar* 1:13a, 66a, 186b; *[[Zohar 12.11 - Zohar al ha-Parashot#^zh-59a|ZḤ* 59a]] (*MhN*); Moses de León, *Shushan Edut*, 353–55 and n. 183, ad loc.; idem, *Sefer ha-Rimmon*, 241–43; idem, *Sefer ha-Mishqal*, 137–38; idem, *Mishkan ha-Edut*, 23, 58; Joseph of Hamadan, *Sefer Ta’amey ha-Miẓwoth*, 152, 243–44, 250–51, 256, 262; David ben Judah he-Ḥasid, *The Book of Mirrors*, 28, and introduction, 34, n. 238; Heschel, *Heavenly Torah*, 261–64; Tishby, *Wisdom of the Zohar*, 1362–63.
+
+    The verse in Isaiah concludes: *nor their fire be quenched, and they will be a horror to all flesh*. On this verse, see *Zohar* 1:13a; 2:85b, 106b, 214b.
+
+[^667]: ***fills his quiver*…** See BT *Ḥagigah* 15a, in the name of Shemu’el: “Any emission of semen that does not shoot forth like an arrow does not fructify.” See *Zohar* 1:6a, 88a. On this verse, see *Zohar* 1:115b, 188a.
+
+    *For what his hands have perpetrated* is frequently interpreted as a reference to masturbation, the one sin in the *Zohar* for which repentance does not avail. See BT *Niddah* 13a: “Rabbi Yitsḥak and Rabbi Ammi said, ‘[Whoever emits semen fruitlessly] is as though he sheds blood.’”
+
+    Cf. *Zohar* 1:56b–57a, 62a, 69a, 100b, 188a, 219b; 2:103a, 214b, 263b (*Heikh*); 3:90a, 158a; Moses de León, *Shushan Edut*, 353; idem, *Sefer ha-Rimmon*, 230; idem, *Orḥot Ḥayyim*, par. 58; idem, *Mishkan ha-Edut*, 59; Tishby, *Wisdom of the Zohar*, 3:1365–66; Satlow, *Tasting the Dish*, 246–64; Pachter, *Shemirat ha-Berit*; idem, “‘Ḥet she-ein alav teshuvah.’”
+
+[^668]: **cannot be ruled by angels of destruction…** Children’s good deeds and merit protect their parents from harsh judgment in the hereafter.
+
+    See *Zohar* 1:115b, 188a; Moses de León, *Sefer ha-Rimmon*, 110; idem, *Sefer ha-Mishqal*, 138.
+
+[^669]: **abstain from procreation…** One must always persevere in the commandment of procreation, since Torah learning and good deeds alone do not secure salvation.
+
+    On learning and good deeds as insufficient to procure salvation if one has not procreated, see BT *Berakhot* 10a; *Zohar* 1:228b. On the salvific quality of good deeds, see BT *Shabbat* 32a: “These are a person’s advocates: repentance and good deeds. And even if nine hundred and ninety-nine argue for his guilt, while one argues in his favor, he is saved, as is said: *If he has an angel over him, an advocate, one among a thousand to vouch for his uprightness, then He is gracious to him and says, ‘Spare him from descending to the Pit…’* ([[Job 33#^33-23|Job 33:23–24]]). Rabbi Eli’ezer son of Rabbi Yose the Galilean says, ‘Even if nine hundred and ninety-nine parts of that angel are in his disfavor and one part is in his favor, he is saved, as is said: *an advocate, one among a thousand* (ibid., 23).’” See *Zohar* 1:13a, 174b; 2:32b, 249a, 252a (last two *Heikh*); *[[Zohar 10.03 - Parashat Be-Reshit#^zh-14c|ZḤ* 14c]] (*MhN*), 47a, 75c, 77d (last three all *MhN, Rut*); above, note 11.
+
+[^670]: **one of our companions…** The reference to a companion refers to the story of Rabbi Yoḥanan below. See BT *Berakhot* 5a–b, *Bava Batra* 116a; Moses de León, *Sefer ha-Mishqal*, 141; idem, *Sefer ha-Rimmon*, 250–51.
+
+    According to rabbinic tradition, Hezekiah had not fathered children when Isaiah warned him that he was doomed to die. See BT *Berakhot* 10a; *Zohar* 1:66a, 228b.
+
+[^671]: **I am dead to the World that is Coming…** According to BT *Berakhot* 5b, Rabbi Yoḥanan buried ten children and wondered whether such suffering would bring atonement.
+
+    See BT *Yevamot* 62b, in the name of Rabbi Yehoshu’a: “If [a man] had children in his youth, he should also have children in his old age, as is said, *In the morning sow your seed, and at evening do not hold back your hand; for you do not know which will prosper, this or that, or whether both are equally good* ([[Ecclesiastes 11#^11-6|Ecclesiastes 11:6]]).
+
+    See also *Seder Eliyyahu Zuta* 24: “… Rabbi Yoḥanan wept as death approached. He students said to him, ‘If you cry, Master, what will befall us?’ He replied, “My children, I do not weep because I will be brought to judgment and my actions will be presented before me and I will be judged for them. Rather, because they will tell me, “[You will receive your judgment] because your children died in your lifetime and you did not merit to repair the world.”…’ From here one learns that one whose children die during his lifetime, his teeth are blunted, his eyes dimmed, and his strength dissipates.”
+
+    See *Qohelet Rabbah* 11:6; *Zohar* 1:187b (and Scholem’s note there), 188a; Moses de León, *Sefer ha-Mishqal*, 140–42; *Sefer ha-Rimmon*, 250–51.
+
+[^672]: **how many descendants…** Rabbi Yoḥanan’s students contended that they counted as his children because of all the Torah that they had learned from him.
+
+    See BT *Sanhedrin* 19b: “Rabbi Ḥanina says, ‘…*And he was given to them, and the women neighbors gave him a name, saying, ‘A son is born to Naomi!’* ([[Ruth 4#^4-17|Ruth 4:17]]). Did Naomi give birth? It was Ruth who gave birth! This comes to teach that Ruth gave birth and Naomi raised the child and therefore the birth was ascribed to her’… Rabbi Shemu’el son of Naḥmani said in the name of Rabbi Yonatan, ‘Whoever teaches Torah to the son of his fellow, scripture ascribes to him as if he had engendered him.’”
+
+[^673]: **Rabbi Ḥizkiyah, who is impotent…** On Rabbi Ḥizkiyah, see *Zohar* 1:187b. On the expression “Put your mind to rest—as you have put my mind to rest,” see BT *Shabbat* 152b, *Pesaḥim* 32b, *Yoma* 66b, *Sanhedrin* 30b, *Menaḥot* 45a, 100a.
+
+    [[Isaiah 56#^56-5|Isaiah 56:5]] concludes: *An everlasting name I will give them, which will not be cut off*.
+
+[^674]: **how many graves will be empty…** If a person’s soul is reincarnated in a new body to have another chance to engender children, what will happen to the first body at the time of resurrection? Surely, the soul will be resurrected in the last body it inhabited! In such cases, the first bodies are ultimately useless, their graves considered empty.
+
+    The biblical meaning of being *cut off* (or *excised*) is interpreted in a range of ways; the cutting off of one’s line is the simple meaning. Here, Rabbi Beroka’s interpretation is ironic, probably intentionally so. He explains it in the context of the continuity of the soul through metempsychosis and the potential end of the usefulness of the individual’s first body.
+
+    On the fate of the first body, see *Zohar* 1:131a; 2:100a; 3:308a–b; *TZ* 31 (76a); Scholem, *Shedim Ruḥot u-Nshamot*, 191, 197. Cf. [[Matthew 22#^22-23|Matthew 22:23–33]]; *Teshuvot ha-Rashba*, 1:418.
+
+    On “excision,” see M *Karetot* 1:1; *Sifrei Bemidbar* 112; *Mekhilta Pisḥa* 8; BT *Mo’ed Qatan* 28a; Rashi on BT *Shabbat* 25a, s.v. *ve-karet*; Ibn Ezra on [[Torah 03 - Lech Lecha#^17-14|Genesis 17:14]]; Maimonides, *Mishneh Torah, Hilkhot Teshuvah* 8:1; Naḥmanides on [[Torah 30 - Kedoshim#^20-3|Leviticus 20:3]]; Levine, *Leviticus*, 241–42; Milgrom, *Leviticus 1–16*, 457–60.
+
+    In its simple meaning, the verse in Leviticus reads: *Say to them, ‘To your generations, any man of all your seed who draws near the sacred donations that the Israelites consecrate to YHVH with his uncleanness upon him, that person shall be cut off from before Me. I am YHVH*.
+
+[^675]: **from this earth…** According to medieval renderings of Ptolemaic cosmology, there are seven earths, one of which is called *Neshiyya*. That name derives from the root נשי (*nshy*), “forget”—and may also bear an echo of its meaning “dislocate.” While God would not destroy these bodies, He does leave them abandoned in *Neshiyya* for ages.
+
+    On the seven earths, see above, note 249. On *Tevel*, see above, note 251.
+
+[^676]: **oblivious to the covenant…** Since these bodies abandoned the covenant through their failure to procreate, so does God forsake them. Rabbi Beroka answers his own question by saying that those bodies have not disappeared and so the graves were not dug in vain—they are markers for these condemned bodies.
+
+    In Zoharic Kabbalah, forgetfulness is directly linked to the demonic, while memory is associated with fidelity to the covenant of circumcision. This latter association is based partly on the assumed link between the words זכר (*zekher*), “memory,” and זכר (*zakhar*), “male.”
+
+    On remembering and forgetting, see BT *Berakhot* 32b; *Midrash Tehillim* 137:8; in connection with the covenant, see *Zohar* 1:72b, 159b–160a, 193b; 2:92b; Moses de León, *Shushan Edut*, 363–64; Wolfson, “Re/Membering the Covenant,” 202–5. Cf. Radak, *Sefer ha-Shorashim*, s.v. *zakhar*; Ba’al ha-Turim on [[Torah 46 - Eikev#^7-18|Deuteronomy 7:18]]; Mandelkern, *Concordance*, s.v. *zakhar*; Ben-Yehudah, s.v. *zakhar*, 1337.
+
+    According to the *Zohar*, the wicked in Hell forget their names. See *[[Zohar 12.11 - Zohar al ha-Parashot#^zh-49a|ZḤ* 49a]], [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-84c|84c]] (*MhN, Rut*); cf. *Massekhet Ḥibbut ha-Qever* 2 (*Beit ha-Midrash*, 1:150).
+
+[^677]: **no נשי (*nashei*), women…** Rabbi Beroka plays on the similarity of the name *Neshiyyah* to the term נשי (*nashei*), “women,” which is not etymologically related. In this womanless world, men’s bodies engage in a sterile and entirely self-involved existence. The word זרעי (*zar’ei*), “sow,” here implies “ejaculate,” meaning that the men’s primary activities are masturbation and accidental emissions—fruitless endeavors. Their own obliviousness evokes a punishment of being consigned to oblivion.
+
+[^678]: **שכינות (*shekheinot*), ‘dwellers,’…** When a redeemer comes to perform *yibbum* (levirate marriage), these souls are called *shekheinot*, “dwellers,” because the children borne of such a marriage are inhabited by souls that were looking for a place to reside. See Moses de León, *Shushan Edut*, 357–58.
+
+    In [[Ruth 4#^4-17|Ruth 4:17]], the simple meaning of *shekheinot* is *women neighbors*, and it functions as the grammatical subject rather than as an object.
+
+    On God’s land being called *Tevel*, see [[Proverbs 08#^8-31|Proverbs 8:31]]. On this body’s returning to *Tevel*, see *Zohar* 2:100a. On wandering souls being called *dwellers*, see *[[Zohar 12.07 - Raza de-Razin#^zh-37b|ZḤ* 37b]] (*RR*).
+
+[^679]: **die…** These people apparently die before they actually repent.
+
+    The following passage discussing the ten martyrs is rather opaque, perhaps in accord with the esotericism prescribed. See Baḥya ben Asher on [[Torah 10 - Miketz#^44-17|Genesis 44:17]]; Alqabets, *Berit ha-Levi*, 44a–b; Mopsik; Englander; below, note 681.
+
+[^680]: **Torah does not receive impurity…** Rabbi Azariah thinks that Rabbi Yudai’s blanching arises from shame regarding some infraction. He assures Rabbi Yudai that even one who is impure is allowed to engage in Torah or read it publicly.
+
+    The interchange draws on a story involving Rabbi Yehudah son of Beteira in BT *Berakhot* 22b: “Words of Torah are not susceptible to impurity. There was a story of a disciple who was [reciting teachings] hesitantly [because he had had a seminal emission] before Rabbi Yehudah son of Beteira. He said to him, ‘My son, open your mouth and let your words shine, for words of Torah are not susceptible to impurity, as is said: *Is not My word like fire* ([[Jeremiah 23#^23-29|Jeremiah 23:29]]). Just as fire is not susceptible to impurity, so too words of Torah are not susceptible to impurity.’”
+
+    See JT *Berakhot* 3:4, 6b–c; BT *Berakhot* 22a, *Ḥullin* 136b.
+
+[^681]: **sale of Joseph** According to rabbinic tradition, the brothers’ sin of selling Joseph was finally requited by the martyrdom of ten prominent rabbis at the hand of the Romans during the Hadrianic persecution in the second century. Rabbi Yudai wonders why these deaths were required, given that Joseph’s brothers had certainly repented and died after their sin.
+
+    See *Midrash Mishlei* 1:13, in the name of Rabbi Yehoshu’a son of Levi, and the statement attributed there to Rabbi Avin, according to which ten martyrs in each generation suffer on account of the brothers’ misdeed, “and still that sin lingers.”
+
+    See Schäfer, *Synopse zur Hekhalot-Literatur*, §108; *Elleh Ezkerah* (*Beit ha-Midrash*, 2:64–72); *Midrash Tehillim* 9:13; *Midrash Elleh Ezkerah* (*Beit ha-Midrash*, 2:64–72); *Ma’aseh Asarah Harugei Malkhut* (in ibid., 6:19–35); *Zohar* 1:39a (*Heikh*), 106a, 202a; 2:8b, 33a; *ZḤ* 46a; 93b (*MhN, Eikhah*); Musaf Yom Kippur Liturgy; Stern, *Rabbinic Fantasies*, 143–65; Reeg, *Die Geschichte von den Zehn Märtyrern*; Boustan, *From Martyr to Mystic*, especially 51–60, 71–98; Meroz, “R. Yosef Angelet u-Khtavav ha-Zohariyyim,” 329–33; above, note 79.
+
+    The verse in Psalms reads: *The counsel* [or: *secret*] *of YHVH is for those who fear* [or: *revere*] *Him, and to them He reveals His covenant*. In midrashic and Zoharic literature, this verse is used to refer primarily to circumcision—associated in the *Zohar* with Joseph—or to God’s destruction of large numbers of people. See *Bereshit Rabbah* 49:2; *Tanḥuma, Lekh Lekha* 19, *Vayera* 5–6; *Tanḥuma* (Buber), *Lekh Lekha* 23, *Vayera* 6; *Midrash Tehillim* 25:13; Ezra of Gerona, *Peirush Shir ha-Shirim*, 526; *Zohar* 1:37b, 73a, 95a, 236b; 2:75a, 237b; 3:43b (*Piq*), 91b–92a, 127b (*IR*) 141b (*IR*), 294b (*IZ*); Moses de León, *Shushan Edut*, 339; idem, *Sefer ha-Rimmon*, 226.
+
+[^682]: **Phinehas is Elijah…** Rabbi Azariah explains to Rabbi Yudai: ‘Do not be troubled by the fact that there is a link between Joseph’s brothers and the martyred sages, since we know that Phinehas returned as Elijah.’ In other words, sometimes reincarnation occurs for obscure reasons. Commentators resolve this cryptic response by suggesting that the deaths of the rabbis procured for them different kinds of spiritual purification, achieved various forms of divine unifications, or resulted from a far more venal crime by Joseph’s brothers than mentioned in the text.
+
+    See *TZ* 69 (110a): “Rabbi Yose said, ‘With this *yod* Joseph sinned, as is written: *Yet firm remained his bow, his arms ever-moving* ([[Torah 12 - Vayechi#^49-24|Genesis 49:24]]). What is *ever-moving*? He discharged a drop—which is *yod*—from between his fingers, and it split up into ten sparks, shot from the bow, which is covenant. Where did they get discharged? Into the ten martyrs of the empire.’ [Rabbi El’azar] replied, ‘But I heard that the ten martyrs were the sons of Jacob!’ He said, ‘God forbid! Rather they had their appearance.’ He replied, ‘Who caused them to be discharged there?’ He said, ‘It was on account of the image of his father—who had the image of Primal Adam—who appeared there. This caused them to be discharged there, and he dug his fingernails into the ground. Then he fled, so that they were not ejaculated into that harlot.’ For if the image of his father had not been displayed before him, this discharge would not have occurred… Thus it was not a transgression, but rather beneficial…’” See BT *Sotah* 36b; *Bereshit Rabbah* 87:7; Recanati, *Peirush al ha-Torah*, 33b–c; Alqabets, *Berit Ha-Levi*, 44a–d; *Sullam*; *Matoq mi-Devash*; Pachter, *Shemirat ha-Berit*, 189 and nn. 81–82.
+
+    On Elijah and Phinehas, see above, note 451.
+
+[^683]: **Rabbi Akiva did not have ancestral merit** Why did Rabbi Akiva suffer this fate, given that he was the descendant of converts—and thus not descended from the ten tribes? What benefit could his death provide?
+
+    See BT *Berakhot* 27b. On ancestral merit, see *Mekhilta, Pisḥa* 1; *Mekhilta de-Rashbi*, [[Torah 14 - Vaera#^6-2|Exodus 6:2]]; *Bereshit Rabbah* 60:2, 70:8, 71:9, 74:12, 87:5; *Shemot Rabbah* 1:34, 28:2, 40:4; *Vayiqra Rabbah* 29:7, p. 676; 36:5–6; JT *Sanhedrin* 10:1, 27d; BT *Shabbat* 55a, 129b; *Bava Batra* 91a; *Bemidbar Rabbah* 8:9, 9:45, 11:2, 19:26; *Devarim Rabbah, Eqev* 15; *Ki Tetsei* 5; *Shir ha-Shirim Rabbah* on 1:2, 9; *Eikhah Rabbah, Petiḥtah* 23; *Qohelet Rabbah* on 7:11, 12:7; *Midrash Zuta* on *Qohelet* 4:3, 12:5; *Pesiqta de-Rav Kahana* 3, 5:8, 23:7; *Pesiqta Rabbati* 4, 13b; 15, 71b, 73b; 34, 159b; 40, 169a; *Tanḥuma, Vayetse* 13; *Bo* 5; *Ki Tissa* 4, 20, 30, 32; *Bemidbar* 14; *Ḥuqat* 21; *Tanḥuma* (Buber), *Vayera* 9; *Ḥuqqat* 48; *Balaq* 14; *Midrash Tehillim* 7:6; 27:7; 28:2; 94:5; 106:9; *Pirqei de-Rabbi Eli’ezer* (Higger) 47; *Zohar* 1:66a; *[[Zohar 12.07 - Raza de-Razin#^zh-35d|ZḤ* 35d]] (*RR*).
+
+[^684]: ***Of the descendants of Issachar*…** See BT *Yoma* 26a, in the name of Rava: “You will not find any rabbinical scholar offering rulings unless he is a descendant from the tribe of Levi or Issachar. ‘Levi,’ as is written: *They shall teach Your laws to Jacob* ([[Torah 54 - V'Zot HaBerachah#^33-10|Deuteronomy 33:10]]). ‘Issachar,’ as is written: *Of the descendants of Issachar, men who knew how to interpret the signs of the times, to know what Israel ought to do* ([[I Chronicles 12#^12-33|1 Chronicles 12:33]]).” Thus Rabbi Akiva was a descendant of Issachar, earning him his woeful place among the other martyrs.
+
+    The assumption that Torah scholars descend from Issachar derives from the pseudo-etymological breakdown of his name into שכר‎ יש (*yesh sakhar*), *there is reward*. See *Bereshit Rabbah* 72:5, 98:12, 99:9 (and nn. there); *Vayiqra Rabbah* 25:2; *Bemidbar Rabbah* 13:17; *Shir ha-Shirim Rabbah* 7:14; *Tanḥuma, Va-yeḥi* 11; Rashi on [[Torah 54 - V'Zot HaBerachah#^33-17|Deuteronomy 33:17]]; Radak on [[Torah 12 - Vayechi#^49-15|Genesis 49:15]]; Kasher, *Torah Shelemah* on [[Torah 07 - Vayetzei#^30-18|Genesis 30:18]], n. 64.
+
+[^685]: **יששכר (*Yesh s’khar*), *There is reward*…** From Jacob and Leah’s intercourse on the evening that she hired him, יששכר (*Yissaskhar*), “Issachar,” was born—his name punning on the root שכר (*skr*), “hire,” and on the doubled letter ש (*sin*), which is written but not pronounced. The apparently superfluous letter warrants explanation. Here, the doubled *sin* in Issachar refers to reward at two different times: when the tribe first settles in the land of Israel, and in a future incarnation as “sheep for the kingdom of heaven”—rabbinic martyrs “sacrificed” to God. The bodies of the ten elders remain in this world even though they had previously encased righteous souls descended from Issachar.
+
+    On the double *sin* in Issachar, see Samuel ben Meir (Rashbam) on [[Torah 07 - Vayetzei#^30-18|Genesis 30:18]]; see previous note.
+
+    The verse in Genesis reads: *All these are the tribes of Israel, twelve, and this is what their father spoke to them, blessing them; each according to his blessing, he blessed them*. On this verse, see *Zohar* 1:241a, 248a; 3:62a.
+
+[^686]: **Rabbi Yudai fell prostrate…** Overwhelmed and humbled by the revelation of this secret lore. Celestial beings displayed the same verse from Ecclesiastes that was assigned to the heretical Elisha son of Avuyah, whose sin was to articulate his understanding of his vision from above. Rabbi Yudai retreats to pious reticence, affirming God’s kindness even in the most confounding situations.
+
+    V24, O17, L39, MS4, V, and Th all include a gloss at this point that explains that the souls of Joseph’s ten brothers were infused into the bodies of the ten martyrs. Consequently, the justice meted out was directed precisely at those who had committed the infraction, rather than at innocents. This translation has omitted the passage since it is clearly interpolated by a later hand (and is not found in O18 and MS3), but the comment does reflect a relatively early interpretation. See Munkacz; *Sullam*; *Nitsotsei Zohar*, n. 1; *Matoq mi-Devash*.
+
+[^687]: **His concealed, hidden matters…** Issues such as the nature of the soul, reincarnation, and sainted individuals are the most recondite—and must be kept secret, out of concern for the dignity of God and of those figures.
+
+    On ambivalence about revealing secrets, see *Zohar* 3:74b: “Rabbi Shim’on clapped his hands and wept. He exclaimed, ‘Woe is me if I speak and reveal the secret! Woe is me if I do not speak, for the Companions will be deprived of the word.’” See M *Kelim* 17:16; *Tosefta Kelim* (*Bava Metsi’a*) 7:9; BT *Bava Batra* 89b; *Zohar* 1:11b; 2:123b, 257b; 3:127b (*IR*).
+
+    The tension about concealing and revealing the secrets of the soul and reincarnation are most pronounced in the *Sava de-Mishpatim* section. See *Zohar* 2:95a, 100b. On reticence regarding the souls of exalted figures, see above, note 447.
+
+[^688]: **Lost object she had lost…** Why does the verse say *A son is born to Naomi*, rather than to Boaz? The explanation is that Naomi had lost her son Mahlon ([[Ruth 1#^1-5|Ruth 1:5]]), but she now regained him—reincarnated in the offspring of Boaz and Ruth. Even though he has reappeared in this world, he emerges as an infant rather than at the peak of his powers.
+
+    See Moses de León, *Shushan Edut*, 358; idem, *Sefer ha-Mishqal*, 138.
+
+[^689]: ***name*…** This term signifies the soul that has been wandering, waiting to re-enter the world in a new body. It is not literally the name that can suffer excision, but rather the soul. Once a new body was formed for the soul of Mahlon, other souls (*dwellers*) had to call for Mahlon’s soul to return from roaming in the world.
+
+    Moses de León explains that these *dwellers* are other souls who likewise await redemption through levirate marriage and reincarnation. See *Shushan Edut*, 357–58. On the identification of “name” with soul, see Radak on [[Psalms 024#^24-4|Psalms 24:4]]; cf. *Bahir* 54 (80, and Margaliot’s note there); Jacob ben Sheshet, *Sefer ha-Emunah ve-ha-Bittaḥon*, 418; Moses de León, *Sefer ha-Mishqal*, 139; Solomon ibn Adret, *Responsa* 4:30; *Nitsotsei Zohar*, n. 4.
+
+[^690]: **When will is aroused…** When the divine will is aroused to cause a soul to transmigrate, the soul travels to the graves of the ancient ones, to beseech them on its behalf. Here, Boaz becomes the designated route through which the soul of Mahlon would come to reenter the world. See *Matoq mi-Devash*.
+
+[^691]: ***If he sets his heart upon him*…** Why does the soul need to be summoned, when this verse says that mere thought is enough to draw the soul into the body produced by the levirate marriage? The answer is that in the case of a close redeemer such as a brother, his spiritual intention alone will draw the soul to its proper place; however, if the redeemer is a more distant relative, other souls are required to prompt the reincarnating soul back into the world. See *Hadrat Qodesh*; *Nitsotsei Zohar*; *Matoq mi-Devash*.
+
+    On intention and reincarnation, see Moses de León, *Sefer ha-Mishqal*, 140: “This is the mystery regarding the establishment of the name of the deceased and the mystery of intention, concentration, and correct thought regarding the one deceased. He will be gathered in to him, to his home, and *He will return to the days of his youth* ([[Job 33#^33-25|Job 33:25]]). This is the mystery of *If he sets his heart upon him, his spirit and soul he will gather to him*, because intention, concentration, and spirit’s thought draw the spirit, as we have said. And this is the mystery of intention of prayer: thought draws supernal spirit in the mystery of the person’s spirit and thought, because spirit is drawn with spirit.” See *Zohar* 1:155b (*ST*); Moses de León, *Shushan Edut*, 357; cf. *Zohar* 3:177a.
+
+[^692]: **preventing their demise…** Even souls who do not procreate are not necessarily condemned forever.
+
+[^693]: **subterranean *Erets… Avadon*…** The two rabbis differ as to which region of Hell is the destiny for souls decreed to perish. Rabbi Simai says they go to subterranean *Erets*, while Rabbi Yose says they are condemned to the lowest level of Hell: *Avadon* (or Perdition).
+
+    According to rabbinic tradition, there are seven divisions of Hell. See *Sotah* 10b; *Midrash Tehillim* 11:6; *Zohar* 1:40a (*Heikh*), 62b, 237b; 2:150b, 263a–68b (*Heikh*); 3:178a, 285b–86a; *[[Zohar 10.05 - Parashat Lekh Lekha#^zh-25b|ZḤ* 25b]] (*MhN*); *Massekhet Geihinnom* (*Beit ha-Midrash*, 1:149); *Gan Eden ve-Geihinnom* (*Beit ha-Midrash*, 5:50); Ginzberg, *Legends*, 5:20, n. 56. BT *Eruvin* 19a lists seven names for Hell. On *Avadon*, see [[Proverbs 15#^15-11|Proverbs 15:11]]; [[Job 26#^26-6|Job 26:6]]; [[Job 28#^28-22|28:22]]; [[Job 31#^31-12|31:12]]; *Zohar* 1:62b (*Tos*); 3:54b. Cf. [[Revelation 09#^9-11|Revelation 9:11]], where Avadon is the name of “the angel of the bottomless pit.”
+
+[^694]: **a body does not rest in its place…** Until a body is buried, the person’s soul roams restlessly, unable to ascend to its rightful place in heaven. On the unburied body, see *Vayiqra Rabbah* 18:1; *Qohelet Rabbah* on 12:7; *Zohar* 3:88b; *Nitsotsei Zohar*, n. 8.
+
+[^695]: **He took care of the burial…** According to rabbinic law, if one comes across a corpse who cannot be identified, one is obligated to ensure that all the requirements for burial and the seven-day mourning period are provided for and observed. This type of case is called a מצוה‎ מת (*met mitsvah*), “orphan corpse” (or “commandment regarding the [unattended] corpse.” See BT *Shabbat* 152a: “[In the case of] a deceased person who has no comforters, ten people should go and sit in his place. A certain person died in Rav Yehudah’s neighborhood who did not have any comforters. Every day, Rav Yehudab would take ten people and sit in his place. After seven days, [the deceased] appeared to Rav Yehudah in his dream and said to him, ‘Put your mind to rest—for you have put my mind to rest.’” See BT *Eruvin* 17b, *Yevamot* 89b, *Nazir* 43b, *Sanhedrin* 35a–b, *Zevaḥim* 100a; Maimonides, *Mishneh Torah, Hilkhot Evel* 13:4; Joseph Caro, *Shulḥan Arukh, Yoreh De’ah* 376:3.
+
+    On the significance of this commandment, see BT *Megillah* 3b, in the name of Rava: “[In a conflict between] Torah study and the commandment of the unattended corpse, the commandment of the unattended corpse takes precedence, since it is taught in a *baraita*: Torah study is deferred to take out the dead and for welcoming a bride.” See M *Nazir* 7:1; *Mekhilta de-Rabbi Yishma’el, Neziqin*, 4; *Sifra, Emor*, 1:3, 93c; 2:2, 94d; *Sifrei*, Numbers 26; *Vayiqra Rabbah* 26:8; BT *Yevamot* 7a, *Nazir* 47b–48b; *Eikhah Rabbah* 1:41; *Tanḥuma, Emor*, 3; *Tanḥuma* (Buber), *Emor* 5; *Bemidbar Rabbah* 10:11; *Midrash Shemu’el* 24:8; *Midrash Aggadah, Vayiqra* 21:1.
+
+    “Withered tree” renders חריב‎ אילן. See Scholem.
+
+    “Mitsvah-windings” renders דמצוה‎ כריכין (*kerikhin de-mitsvah*) and signifies either tefillin (wound about the forearm), or tzitzit (ritual tassels that are tied with a series of knots and twists). See *Sullam*; Scholem; Mopsik; Englander; *Matoq mi-Devash*.
+
+[^696]: **A certain man…** Presumably the reincarnated soul of the man whose corpse Rabbi Peraḥiah had buried.
+
+    On engaging in Torah for monetary gain, see *Zohar* 1:88b (*ST*); cf. Scholem.
+
+[^697]: ***the dead know nothing*** The verse continues: *and they no longer have recompense, for their memory is forgotten*.
+
+[^698]: ***The living*—the righteous…** The righteous, although physically dead, are considered as living, while the wicked, though physically alive, are considered dead.
+
+    See BT *Berakhot* 18a–b, in the name of Rabbi Ḥiyya: “The righteous are called ‘living’ even in their death, as is said: *Benayahu son of Yehoyada, son of a living man* ([[II Samuel 23#^23-20|2 Samuel 23:20]])…. Do you mean to say that all other people are sons of dead men? Rather, *son of a living man*—for even in his death he was called *living*.”
+
+    See *Zohar* 1:131b–32a, 207b; 2:106b; 3:182b, 287b; *[[Zohar 10.03 - Parashat Be-Reshit#^zh-18b|ZḤ* 18b]], [[Zohar 10.03 - Parashat Be-Reshit#^zh-20b|20b]]; Moses de León, *Sefer ha-Rimmon*, 252; Gikatilla, *Sha’arei Tsedeq*, 7a.
+
+[^699]: **prepared to give account…** The righteous are conscious that their actions in this world bear consequences for eternity, so they conduct themselves accordingly. The wicked know that judgment awaits, but their villainy lies in their refusal to repent. Thus the righteous who are physically living in this world are considered as if they are dead to this world, a world dominated by material concerns.
+
+    See *Avot de-Rabbi Natan* B, 32, in the name of Rabbi Yehudah the Prince: “Do you want not to die? Die before you die. Do you want to live? Do not live until you live. You are better off to die in this world (for you will die inevitably), than to die the death of the time to come. For if you wish, you shall not die.” See BT *Tamid* 32a, where Alexander the Great poses a question to the elders of the south: “‘What shall a person do to live?’ They replied, ‘Let him kill himself.’” Cf. BT *Berakhot* 63b, *Shabbat* 83b, *Gittin* 57b; *Mishnat Rabbi Eli’ezer* 13, p. 257; *Tanḥuma, Noaḥ* 3.
+
+    On the wicked and their awareness of impending judgment, see BT *Berakhot* 18b; *Zohar* 1:81b (*ST*); 3:70b.
+
+    The full verse in Ecclesiastes reads: *Better to go to the house of mourning than to go to the house of carousing. For that is the end of all men—let the living take it to heart*.
+
+    *Midrash ha-Ne’lam* on Ruth ends at this point in V24, O17, O18, L39, MS3, MS4, Th, and V. Only *Or Yaqar* and subsequent printed versions supply the following material. This translation has followed these latter versions because they provide a plausible continuation of the text, whereas the manuscripts and other early printed editions end abruptly.
+
+    The following passage is an example of Zoharic textual phenomena as elaborated by Daniel Abrams. See Abrams, *Kabbalistic Manuscripts and Textual Theory*, 384–85: *“‘The Zohar’ is not the text hidden within the transmission history that contains the dynamic quality of the text, but should be conceived as the textual process itself that began with the earliest textual formulations and continues on as a living phenomenon and text* (*or more precisely, multiple phenomena and texts*)” (emphasis in original).
+
+[^700]: **resemble their previous appearances…** In the next world, souls adopt ethereal bodies that are similar to their forms in this world. They have knowledge of what is preordained for this world, and with their new garments—woven from their virtuous acts in this world—they are better suited to comprehend Divinity. Parallels appear in Islamic and Iranian eschatology—and in Mahayana Buddhism, according to which the Buddha enjoys *sambhogakaya* (“a body of bliss”), generated by merit accrued over eons.
+
+    See *Zohar* 1:7a, 66a, 81a–b (*ST*), 82b, 91a, 224a–b, 225a, 226b, 233b; 2:11a, 150a, 210a–b, 229b, 247a (*Heikh*); 3:70b, 101a, 174b–175a, 214a; Moses de León, *Sefer ha-Rimmon*, 404; idem, *Sefer ha-Mishqal*, 56; idem, *Seder Gan Eden* (*Beit Midrash*, 3:133); idem, *Sefer Mishkan ha-Edut*, 135; Gruenwald, *Apocalyptic and Merkavah Mysticism*, 61; Scholem, “Levush ha-Neshamot”; idem, *Kabbalah*, 158–59; idem, *On the Mystical Shape of the Godhead*, 264–65; David Snellgrove, in *Encyclopedia of Religion*, ed. Jones, 2:1077–78.
+
+    Cf. *Sifrei*, Deuteronomy 36; *Bereshit Rabbah* 19:6; *Shemot Rabbah* 1:35; *Pirqei de-Rabbi Eli’ezer* 14; [[Matthew 22#^22-1|Matthew 22:1–14]]; [[Romans 13#^13-12|Romans 13:12]]; [[Galatians 03#^3-27|Galatians 3:27]]; [[Revelation 03#^3-4|Revelation 3:4–18]]; [[Revelation 06#^6-11|6:11]]; [[Revelation 07#^7-13|7:13–14]]; [[Revelation 19#^19-8|19:8]]; [[Revelation 22#^22-14|22:14]].
+
+[^701]: **a particular field** Where Rabbi Peraḥiah had buried the man’s body.
+
+[^702]: **orchard…** The biblical image of an orchard ([[Song of Songs 4#^4-13|Song of Songs 4:13]]) came to signify a realm of mystical experience and understanding, beginning in rabbinic literature and pervasively in medieval kabbalistic literature. See *Tosefta Ḥagigah* 2:3; BT *Ḥagigah* 14b; Schäfer, *Synopse zur Hekhalot Literatur*, §597.
+
+[^703]: **paths of souls…** On the two paths, see the prayer of Rabbi Neḥuniah son of Haqanah as formulated by the sages at BT *Berakhot* 28b: “Upon his exit, what did he say? ‘I give thanks before You, *YHVH*, my God, that You have placed my lot among those who sit in the study hall, and that you have not given me my portion among those who sit idly on street corners. I rise early, and they rise early. I rise early for words of Torah, and they rise early for useless matters. I toil and they toil. I toil and receive a reward, and they toil and do not receive a reward. I run and they run. I run to the life of the world to come and they run to the pit of destruction.
+
+    See [[Torah 51 - Nitzavim#^30-15|Deuteronomy 30:15–20]]; [[Psalms 001#^1-1|Psalms 1:1]]; 2 Baruch 85:13; *Testament of Abraham* 11; *Testament of Asher* 1:3, 5; M *Avot* 2:9; *Sifrei*, Deuteronomy 53; Matthew 7:13–14. A description of the tour of both Paradise and Hell appears in *Tanḥuma, Pequdei* 3; *Seder Yetsirat ha-Velad*; and *Ḥibbut ha-Qever*.
+
+[^704]: ***Open for me*** The full verse in Psalms reads: *Open for me the gates of righteousness; I will enter them and praise Yah*.
+
+[^705]: **Who permitted one born of woman…** See BT *Shabbat* 88b, in the name of Rabbi Yehoshu’a son of Levi: “When Moses ascended on high, the ministering angels said before the blessed Holy One, ‘Master of the Universe! What is one born of woman doing here among us?… *What is a human that You are mindful of him, a human being that You take note of him?* ([[Psalms 008#^8-5|Psalms 8:5]]).’”
+
+    See *Pesiqta Rabbati* 20, 96b; *Ma’yan Ḥokhmah* (*Beit ha-Midrash*, 1:58–59); *Zohar* 1:5a; 2:58a, 156b; 3:78b.
+
+[^706]: **body from that world…** The soul is robed in a special garment when it descends to this world, which it doffs when it returns to the upper realms.
+
+    See *Zohar* 1:7a, 81a (*ST*), 115b (*MhN*), 227b; 2:11a, 13b, 150a, 161b; 3:13a; *[[Zohar 10.03 - Parashat Be-Reshit#^zh-10b|ZḤ* 10b]] (*MhN*); Moses de León, *Sheqel ha-Qodesh*, 30 (35–36); Tishby, *Wisdom of the Zohar*, 702; above, notes 293, 373.
+
+[^707]: **Four paned windows…** “Paned windows” renders משקופי‎ חלוני (*ḥalonei mashqofei*). The Hebrew term משקוף (*mashqof*) generally means “lintel,” but here the plural *mashqofei* connotes “window openings, recessed windows, window frames,” apparently based on שקפים (*shequfim*) in [[I Kings 06#^6-4|1 Kings 6:4]]; [[I Kings 07#^7-4|7:4]]. See *Zohar* 2:143a, 172a, 181a, 241b; *[[Zohar 10.03 - Parashat Be-Reshit#^zh-15c|ZḤ* 15c]] (*MhN*), *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-76c|ZḤ* 76c]], [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-82d|82d]] (last two *MhN, Rut*). On this firmament with its four windows, see *Zohar* 2:209b, 212a–b; Moses de León, *Sefer Mishkan ha-Edut*, 147.
+
+[^708]: **three letters for each and every one…** The later printed editions include a gloss from the seventeenth-century kabbalist Moses Zacuto that offers two explanations. The first option is that each and every letter of the tetragrammaton is written out with three letters: יוד (*yod*), היא (*he*), ואו (*vav*), היא (*he*). The other possibility is that the four letters of the tetragrammaton are distributed three times each among the four window openings.
+
+[^709]: **on New Moons and Sabbaths…** On these holy days, souls of the deceased reunite with bodies in the grave, and these resurrected individuals prostrate themselves before God.
+
+    Usually in the *Zohar*, the New Moon and Sabbaths mark the ascent and worship by the soul alone. For this worship as based on the verse in Isaiah, see *Zohar* 1:115b–116a (*MhN*); 2:156b–157a; 3:144b–145a (*IR*), 159b, 182b; *[[Zohar 10.03 - Parashat Be-Reshit#^zh-18b|ZḤ* 18b]] (*MhN*); Moses de León, *Sheqel ha-Qodesh*, 30 (35–36). Cf. *Zohar* 1:62b (*Tos*), 134b (*MhN*); 2:142a.
+
+    The name יעזריאל (*Ye’azriel*) means “God will help me.” See *Zohar* 3:303b (*Tosafot*); *ZḤ* 53a; Margaliot, *Mal’akhei Elyon*, 67–68. On the activity of the soul on the new moon, see *Zohar* 1:81b (*ST*).
+
+[^710]: ***Shema*…** The central prayer declaring God’s oneness. According to Kabbalah, by reciting the *Shema* with full intention, one stimulates and effects sefirotic union.
+
+    On the significance of the *Shema*, see *Zohar* 1:12a, 18b; 2:43b (*Piq*), 133b–34b, 160b–162a, 216a–b; 3:162a, 195b, 203b–204a, 236b, 262b, 263a, 264a–b, 268a; *[[Zohar 12.11 - Zohar al ha-Parashot#^zh-48a|ZḤ* 48a]] (*MhN, Rut*), 56d–58a (*QhM*); Tishby, *Wisdom of the Zohar*, 3:971–74.
+
+[^711]: **Ana’el…** The name ענאל (*Ana’el*) means “God answers.” See *Midrash Tehillim* 68:10; *Seder Rabbah di-Vreshit*, 37 (*Battei Midrashot*, 1:40); *Zohar* 1:108a (*ST*), 149b (*ST*); 2:202a; *[[Zohar 12.10 - Merkevet Yehezqel#^zh-38d|ZḤ* 38d]].
+
+    On the “sixty angels,” see *[[Zohar 10.05 - Parashat Lekh Lekha#^zh-25d|ZḤ* 25d]] (*MhN*): “‘Whoever recites the bedtime *Shema* as prescribed—his soul ascends, soaring through the Land of Life, as is written: *Sixty warriors surrounding her* [the bed of Solomon], *of the warriors of Israel* ([[Song of Songs 3#^3-7|Song of Songs 3:7]])…. In the recitation of the *Shema*, there are sixty letters until *and in your gates* ([[Torah 45 - Vaetchanan#^6-9|Deuteronomy 6:9]]); and on every single letter, mystery of the glory of holy kingship, of the supernal ruler.” On the bedtime *Shema*, see BT *Berakhot* 5a, in the name of Rabbi Isaac: “Whoever recites *Shema* on his bed, it is as if he holds a double-edged sword, as is said: *Exultations of God in their throat, a double-edged sword in their hand* ([[Psalms 149#^149-6|Psalms 149:6]])… [and he taught] Whoever recites *Shema* upon his bed, demons stay away from him.”
+
+    Here the “bedtime *Shema*” could refer to the first paragraph of the *Shema*, which contains many more than sixty letters, or to a unit of the entire liturgical composition called “bedtime *Shema*.” See *Bemidbar Rabbah* 11:3: “*Sixty warriors surrounding it* [the bed of Solomon] ([[Song of Songs 3#^3-7|Song of Songs 3:7]])—these are the sixty letters in the priestly blessing ([[Torah 35 - Nasso#^6-24|Numbers 6:24–26]]).” The fuller context in [[Song of Songs 3#^3-7|Song of Songs 3:7–8]] reads: *Behold, the bed of Solomon! Sixty warriors surrounding her, of the warriors of Israel, all of them skilled with a sword, expert in war, each with his sword on his thigh because of terror in the night*). This is cited in rabbinic literature as a reference to the sixty letters contained within the priestly blessing. In the bedtime liturgy accompanying the *Shema*, [[Song of Songs 3#^3-7|Song of Songs 3:7–8]] is followed immediately by the priestly blessing. Both the warriors surrounding Solomon’s bed and the individual reciting *Shema* bear swords for protection; thus the likely intention of the reference to sixty letters is to the priestly blessing within the liturgy of the bedtime *Shema*.
+
+    See BT *Berakhot* 5a; *Bemidbar Rabbah* 18:21; *Shir ha-Shirim Rabbah* on 3:7; *Tanḥuma, Naso* 9; *Qoraḥ* 12; *Tanḥuma* (Buber), *Naso* 16; *Midrash Birkat Kohanim* (in *Battei Midrashot* 2:112); *Midrash Ḥaserot vi-Yterot* (in *Battei Midrashot* 2:273–74); Isaac ibn Sahula, “Peirush Shir ha-Shirim,” 440; *Nitsotsei Zohar*; Ta-Shma, *Ha-Nigleh she-ba-Nistar*, 40–41, 127, nn. 94–95; cf. *Zohar* 1:101a (*ST*).
+
+[^712]: **four paragraphs** Usually one speaks of the *Shema* as consisting of three paragraphs: [[Torah 45 - Vaetchanan#^6-4|Deuteronomy 6:4–9]], [[Torah 46 - Eikev#^11-13|11:13–21]]; and [[Torah 37 - Sh'lach#^15-37|Numbers 15:37–41]], with the rabbinic formula “Blessed be the name of His glorious kingdom forever and ever,” inserted after the opening verse. Here the enumeration excludes the last section (regarding tzitzit), following the comments of Eli’ezer ben Joel Halevi, a German rabbi of the late twelfth and early thirteenth centuries. See *Sefer Ra’aviyah, Berakhot*, 33.
+
+    On the division of paragraphs of the *Shema*, see BT *Berakhot* 16a; *Zohar* 3:228a (*RM*); *TZ* 10 (25b); Ta-Shma, *Ha-Nigleh she-ba-Nistar*, 39–40.
+
+[^713]: **two unifications in twelve words…** The six words of the opening line of the *Shema* symbolize the unification of *Tif’eret* with the five *sefirot* surrounding Him (*Ḥesed* through *Yesod*). The six words of the following line symbolize the unification of *Shekhinah*, or *Malkhut* (Kingdom), with Her angelic retinue, the lower unity that corresponds to *Tif’eret*’s sefirotic retinue. Cf. Mopsik; Englander. On the first two lines of the *Shema*, see *Zohar* 1:12a, 18b; 2:139b; 3:264a.
+
+    On the sixfold unification, see BT *Berakhot* 13b, where the recitation of the first line of *Shema* is described as enthroning God “above, below, and over the four directions of heaven.”
+
+[^714]: **Name of Forty-Two Letters** This divine name is mentioned in the name of Rav, though not recorded, in BT *Qiddushin* 71a. According to Jacob ben Meir Tam (Rabbenu Tam), this name consists of the first forty-two letters of the Torah, from the ב (*bet*) of בראשית (*Be-reshit*), *In the beginning*, through the ב (*vet*) of בהו (*vohu*), *empty* (or *void*) ([[Torah 01 - Bereshit#^1-2|Genesis 1:2]]). By this complex divine name, the world came into being. Hai Gaon indicates that the Name of Forty-two Letters consists of the letters: שקוצית‎ יגלפזק,‎ חקבטנע,‎ בטרצתג,‎ נגדיכש,‎ קרעשטן,‎ אבגיתץ,, which are also the initial letters of the forty-two words constituting the prayer *Anna be-Khoaḥ* (“Please, with the Strength [of Your Right Hand’s Greatness]”). See above, note 136.
+
+[^715]: **right contained in left…** This paragraph contains elements both of love, or *Ḥesed* (*to love YHVH your God*), and of judgment, or *Gevurah* (*Then the anger of YHVH will flare up against you*…). Containing both aspects, this paragraph signifies a harmonization and unification of these two opposing aspects of divinity. See *Matoq mi-Devash*. Cf. *Zohar* 2:162b.
+
+    On the seventy-two words in this paragraph of *Shema*, see above, note 140. On the Name of Seventy-Two Names, see above, note 44.
+
+[^716]: **fifty words…** There are fifty words following *You shall set* until the end of the paragraph from Deuteronomy.
+
+    The trope of “fifty gates of Understanding” is based on a statement attributed to Rav and Shemu’el (BT *Rosh ha-Shanah* 21b, *Nedarim* 38a): “Fifty gates of *binah* (understanding) were created in the world, and all were given to Moses except for one, as is said: *You made him little less than God* ([[Psalms 008#^8-6|Psalms 8:6]]).” See above, note 344.
+
+    On the fifty words in this paragraph of *Shema*, see above, note 140.
+
+[^717]: **tzitzit—comprised of them all…** [[Torah 37 - Sh'lach#^15-39|Numbers 15:39]] reads: *You will see it* [the tzitzit] *and remember all of YHVH’s commandments*. Rashi explains: “The numerical value of ציצית (*tsitsit*) is 600, plus eight threads, plus five knots equals 613.”
+
+    See *Tanḥuma, Qedoshim* 6, in the name of Rabbi Mani: “Do not look askance at the recital of *Shema*, for there are 248 words in it like the sum of limbs in a human body…. The blessed Holy One said, ‘If שמרת (*shamarta*), you are vigilant, regarding Mine [i.e., My 248 words]—reciting *Shema* as prescribed—then אשמר (*eshmor*), I shall guard, yours [i.e., your 248 limbs].” See above, note 129.
+
+[^718]: **site of unification…** The recital of the *Shema* is supreme among all other passages in the Torah, as it is the only one that expresses the absolute unity of masculine and feminine aspects of Divinity.
+
+[^719]: **directing intention to these paragraphs…** If one directs one’s mind to the unifications described above regarding each of the *Shema*’s sections, one will merit to view these celestial panes and the heavenly visions that lie beyond them.
+
+[^720]: **Yofi’el…** See *Targum Yerushalmi* on [[Torah 54 - V'Zot HaBerachah#^34-6|Deuteronomy 34:6]], where Yofi’el is among the angels participating in the burial of Moses. See *Zohar* 1:108a (*ST*); 2:247b (*Heikh*); 3:2b (standard editions); *[[Zohar 12.07 - Raza de-Razin#^zh-36b|ZḤ* 36b]] (*RR*), 64a, 68c (last two *ShS*).
+
+[^721]: **Primal Adam sniffs it…** Through smelling, one can ascertain the spiritual quality of people, particularly with regard to their performance of commandments. A faulty recitation of the *Shema* results in a deficiency in the 248 Adamic limbs that are ideally constituted by proper recitation. The three paragraphs of the *Shema* actually contain only 245 words, so the last three words (*I am YHVH, your God*) are repeated on the congregation’s behalf by the prayer leader.
+
+    In the *Zohar*, kissing is often a mark of approbation after someone offers a homily, but sometimes—as in this instance—it is a mark of acceptance for prayers.
+
+    On the sense of smell as a barometer for spiritual or ethical worthiness, see BT *Ta’anit* 29b, *Sanhedrin* 93b, *Niddah* 20b; *Bereshit Rabbah* 65:22; *Vayiqra Rabbah* 30:12; *Shir ha-Shirim Rabbah* 1:3, 12; 2:2; *Pesiqta de-Rav Kahana* 27:9; *Tanḥuma, Toledot* 11; *Sefer Ḥasidim* (Margaliot), 1129; *Zohar* 1:142b–143a, 208b, 224b; 2:20a (*MhN*), 39a–b; 98b; 3:35b, 186a; Benarroch, *Sava ve-Yanuqa*, 35–39; Green, *The Aroma of Righteousness*, esp. 147–59.
+
+    On the 245 words of *Shema* and the three repeated words, see above, notes 129–31. On kisses bestowed upon words of prayer or Torah, see *Zohar* 1:4b; 2:201b–202a.
+
+[^722]: **twice daily…** Whenever Jews recite the *Shema* twice daily at its specified times, the souls of the deceased who had recited it properly in this world are seated in the heavens alongside the patriarchs—a scene of overwhelming joyousness. “Dew… from the head of the King” is one of the most rarefied forms of divine overflow, signifying an extraordinary reward for the one who has recited *Shema* with the correct devotion and intentions.
+
+[^723]: **food eaten by celestial angels…** [[Psalms 078#^78-25|Psalms 78:25]] refers to the manna, miraculous food that descends from on high, as *bread of the angels*. Here, Rabbi Peraḥiah explains that the soul who has been punctilious in his recitation of the *Shema* consumes this food, and it confers profound understanding of reality and of the future. One continues in this exalted state until the resurrection, when souls will be returned to their bodies, restored here on earth.
+
+    On the manna and heavenly food, see Septuagint on Psalms 78:25; *Wisdom of Solomon* 16:20; BT *Yoma* 75b, *Ḥagigah* 12b; Naḥmanides on [[Torah 16 - Beshalach#^16-4|Exodus 16:4]], [[Torah 16 - Beshalach#^16-6|6]]; *Zohar* 1:157a–b, 226b, 246a; 2:40a, 61b–63a, 88a–89a, 101b, 153a, 156b–157b, 183a–b, 213b; 3:95b–96a, 97b, 128b (*IR*), 155b, 156a, 196a, 208a, 272a, 292b (*IZ*); *[[Zohar 12.11 - Zohar al ha-Parashot#^zh-48c|ZḤ* 48c]], [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-86c|86c]] (*MhN, Rut*); Moses de León, *She’eilot u-Teshuvot*, 63; idem, *Sefer ha-Rimmon*, 132–33, 135; idem, *Sefer Mishkan ha-Edut*, 135; Joseph of Hamadan, *Sefer Tashaq*, 308–9; idem, *Sefer Toledot ha-Adam*, 57b, 62b; idem, *Sefer Ta’amei ha-Mitsvot*, 221–23; Kugel, *Traditions of the Bible*, 616–17; Hecker, *Mystical Bodies, Mystical Meals*, 82–115.
+
+[^724]: **ש (*shin*)** See next note.
+
+[^725]: **markers of the paragraphs of *Shema*…** The letter *shin* is written with three vertical strokes, as if three instances of the letter *vav*. *Matoq mi-Devash* says that the letter *shin* signifies the first letter of the word שמע (*Shema*), *Hear*, and that the three *vav*s refer to the first letters of the second, third, and fourth paragraphs (as divided above): ואהבת (*ve-ahavta*), *And you shall love*; והיה (*ve-hayah*), *And it shall be*; ושמתם (*ve-samtem*), *And you shall place*.
+
+[^726]: **window on the northern side…** The “northern side” and the name *Elohim* are both associated with *Gevurah*, the divine aspect of Judgment. The five letters appointed around the window spell the divine name *Elohim*.
+
+    In *Hadrat Qodesh*, the four letters are distributed to the four sides of the window, with one letter suspended above.
+
+[^727]: ***Tsurtaq* and *Gazri’el*…** According to the *Zohar*, the angel *Gazri’el* conveys the divine דין‎ גזר (*gezar din*), “decree of judgment.”
+
+    On *Tsurtaq*, see Schäfer, *Synopse zur Hekhalot-Literatur*, §§204, 302, 332; *Zohar* 108b (*ST*); *[[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-68c|ZḤ* 68c]] (*ShS*); Margaliot, *Mal’akhei Elyon*, 170–71. On *Gazri’el*, see *Zohar* 1:108a (*ST*); 2:248b, 251b (both *Heikh*); 3:3a (standard editions), 78b; *[[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-68c|ZḤ* 68c]] (*ShS*); Margaliot, *Mal’akhei Elyon*, 46.
+
+[^728]: **Blessed be the name of His glorious kingdom…** At the beginning of the morning and evening worship services, the leader calls the congregation to prayer: “Bless *YHVH*, who is blessed!” They respond: “Blessed be *YHVH*, who is blessed forever and ever.” Subsequently, the daily morning service includes three instances of the “threefold sanctification,” the *Qedushah* prayer, whose central formulation is: *Holy, holy, holy is YHVH of Hosts; the whole earth is full of His glory* ([[Isaiah 06#^6-3|Isaiah 6:3]]). They are: *Qedushah* of *Yotser* (pertaining to the blessing “who forms the luminaries,” recited before the *Shema*), in which Israel describes the angels’ act of sanctification; the *Qedushah* of the *Amidah*, when Israel sanctifies God along with the angels; and *Qedushah de-Sidra* (Sanctification of the Scriptural Section), a version in Hebrew and Aramaic near the end of the service.
+
+    On the significance of the threefold sanctification formula, see BT *Sotah* 49a, and Rashi, ad loc., s.v. *a-qedushah de-sidra*; *Ḥullin* 91b; El’azar of Worms, *Sefer ha-Roqeaḥ, Hilkhot Qaddish*, 362; *Bahir* 89 (128); Azriel of Gerona, *Peirush ha-Aggadot*, 56–57; Jacob ben Sheshet, *Meshiv Devarim Nekhoḥim*, 149–52; *Zohar* 1:18b, 40a (*Heikh*), 90a (*ST*), 189a, 231a–b; 2:18b (*MhN*), 52a, 129a–b, 132b–133a, 164b, 217a, 247b (*Heikh*); 3:93a (*Piq*), 190b, 297a; Moses de León, *Sefer ha-Rimmon*, 72–73, 85, 90–91 (and Wolfson’s notes); idem, *Sheqel ha-Qodesh*, 103–5 (131–34); idem, *Mishkan ha-Edut*, 14; Joseph ben Shalom Ashkenazi, *Peirush Qabbali*, 143; Elbogen, *Jewish Liturgy*, 59–61, 70–71; Tishby, *Wisdom of the Zohar*, 3:969; Schäfer, *The Origins of Jewish Mysticism*, 254–56, 259–68, 327–28.
+
+[^729]: **chamber…** “Chamber” renders היכלא (*heikhala*), “palace, tabernacle, temple,” as in the verse from Jeremiah—where the repeated term is היכל (*heikhal*).
+
+[^730]: **eating over their blood…** According to BT *Berakhot* 10b, Rabbi Eli’ezer son of Ya’akov interpreted *You shall not eat over the blood* ([[Torah 30 - Kedoshim#^19-26|Leviticus 19:26]]) to mean “You shall not eat before you have prayed for your blood [i.e., your life].” Here, the man explains to Rabbi Peraḥiah that until one has completed the morning prayers, one’s soul remains hovering within the nostrils, not released to infuse the body.
+
+    The full verse in Leviticus reads: *You shall not eat over the blood. You shall not divine nor interpret omens*. Its original, simple meaning apparently relates to a pagan rite of divination, in which a ritual meal was consumed over a pit or large receptacle containing blood, perhaps with the idea that spirits of the dead could be conjured up from the blood. On the verse, see Naḥmanides; Milgrom, *Leviticus*, 2:1685–86; Alter.
+
+    On the link between blood and soul, see [[Torah 47 - Re'eh#^12-23|Deuteronomy 12:23]]: *For the blood is* הנפש (*ha-nefesh*), *the life*. On the prohibition against eating before morning prayers, see Maimonides, *Mishneh Torah, Hilkhot Tefillah* 6:4; *Zohar* 1:207b; 2:215b; 3:241b, 307b (*Tosafot*); Moses de León, *Sefer ha-Rimmon*, 304; Jacob ben Asher, *Arba’ah Turim, Oraḥ Ḥayyim* 89; Joseph Caro, *Shulḥan Arukh, Oraḥ Ḥayyim* 89:3. On the verse in Leviticus, see *Sifra, Qedoshim* 6:1, 90b; BT *Sanhedrin* 63a; Ibn Ezra; Samuel ben Meir (Rashbam); Radak on [[I Samuel 14#^14-32|1 Samuel 14:32]]; *Zohar* 2:122a. On the verse from Isaiah, see below, notes 731–32.
+
+[^731]: **He is worth nothing…** The conclusion of the verse from Isaiah (*of what account is he*) emphasizes the contingency of a person’s existence before prayer.
+
+[^732]: **forbidden to bless one’s fellow…** One may not bless one’s friend using God’s name before the morning prayers. Once prayer has begun, holiness can reside among the congregation, expressed with the liturgical formula of *qedushah*.
+
+    See BT *Berakhot* 14a: “Rav said, ‘Whoever greets his fellow before praying [the *Amidah*] has, as it were, made him into a cult site, as is said: *Desist from a human, whose breath is in his nostrils, for* בַמֶּה (*va-meh*), *of what, account is he?* (Isaiah 2:22). Do not read בַמֶּה (*va-meh*), *of what*, but rather בָּמָה (*bamah*), *a cult site*.’ Samuel said, ‘Why have you esteemed this person and not God?’” For Rav, by greeting a human being before acknowledging God, one is, in effect, idolizing that person, who *is accounted as a cult site*. For both Rav and Samuel, one should *desist from a human* until after praying.
+
+    See *Zohar* 1:207b, 228a, 248a; 2:182a, 226b; 3:190b; Moses de León, *Shushan Edut*, 343; idem, *Sefer ha-Rimmon*, 35; idem, *Sheqel ha-Qodesh*, 42 (50–51); idem; *Maskiyyot Kesef* 22; idem, *Orḥot Ḥayyim*, 16. In several of these sources, a distinction is drawn between a standard greeting and a greeting using the name of God.
+
+    On the term *bamah*, see Milgrom, *Leviticus*, 3:2316–18. On the responsive blessing chanted at the commencement of prayer, see *Zohar* 2:135b.
+
+[^733]: **Once they have praised him…** See BT *Berakhot* 32a, in the name of Rabbi Simlai: “A person should always offer praise of the blessed Holy One, and then pray.” According to Rashi (on BT *Avodah Zarah* 7b, s.v. *yesadder adam*), “praise” refers to the first three blessings of the *Amidah*, while “prayer” refers to various requests that follow. Here, Rabbi Peraḥiah interprets “praise” as the call-and-response between cantor and congregation that initiates the morning prayer.
+
+    See Maimonides, *Mishneh Torah, Hilkhot Tefillah* 1:2; *Zohar* 1:169a, 244a; 3:260b, 285a; cf. JT *Berakhot* 4:4, 8b; BT *Avodah Zarah* 7b–8a; *Midrash Tehillim* 102:2.
+
+[^734]: **five names…** The congregation’s five-word rejoinder to the cantor’s invocation not only paves the way for prayer, but it also provides the framework that reciprocates God’s reconstitution of the individuals’ fivefold soul.
+
+    Rabbinic literature identifies five names for the soul, which medieval thought turns into a hierarchy of different parts of the soul. See *Bereshit Rabbah* 14:9: “חיים‎ נשמת (*nishmat ḥayyim*), *breath of life* ([[Torah 01 - Bereshit#^2-7|Genesis 2:7]])—It has five names: *nefesh, neshamah, ḥayyah, ruaḥ, yeḥidah*. *Nefesh* is the blood: *For the blood is the nefesh, the life* ‘ ([[Torah 47 - Re'eh#^12-23|Deuteronomy 12:23]]). *Ruaḥ* [is so called] because it ascends and descends [like the wind], as is written: *Who knows the ruaḥ of the sons of men*… ([[Ecclesiastes 03#^3-21|Ecclesiastes 3:21]])? *Neshamah* is the breath; as people say, His breathing is good. *Ḥayyah* [literally: living]: because all the limbs are mortal, whereas this is immortal in the body. *Yeḥidah* [literally: unique, singular]: because all the limbs come in pairs, whereas this is singular in the body.”
+
+    See *Devarim Rabbah* 2:37; Saadiah Gaon, *Emunot ve-De’ot* 6; Kallir, *Qerovah* for second day of Passover; Moses de León, *Sefer ha-Rimmon*, 406–8. Much more common in medieval philosophy and Kabbalah is a tripartite understanding of soul. See BT *Ḥagigah* 12b and Rashi, ad loc., s.v. *ve-ruḥot u-nshamot*; *Sefer ha-Bahir* 35 (53); Maimonides, *Shemonah Peraqim* 1; Radak, *Sefer ha-Shorashim*, s.v. *yḥd*; *Zohar* 1:62a, 79b–81a (*ST*, standard editions), 83a–b, 109a–b (*MhN*), 206a, 224b–225a; 2:95a–b, 141b–142b, 182a; 3:16a, 24b–25a, 70b–71a, 91b; *[[Zohar 10.03 - Parashat Be-Reshit#^zh-6d|ZḤ* 6d]] (*MhN*), 9a (*MhN*), 14b (*MhN*), 75a–c, 78d, 82c, 83a (all *MhN, Rut*); Moses de León, *Sefer ha-Mishqal*, 38–47; idem, *Sefer ha-Rimmon*, 305; idem, *Sheqel ha-Qodesh*, 28–30 (33–36); idem, *Sefer Mishkan ha-Edut*, 83–85; Tishby, *Wisdom of the Zohar*, 2:684–722, 761–64.
+
+    In Zoharic Kabbalah, blessing does not rest upon an empty place; rather, it requires a foundation upon which to rest. Here, blessing rests upon prayer, and holiness rests upon blessing. See Hecker, *Mystical Bodies, Mystical Meals*, 158–62.
+
+    On the requirement of ten men, see BT *Berakhot* 21b, in the name of Rav Adda son of Ahavah: “From where is it derived that an individual may not recite *Qedushah* alone? As is said: *I will be sanctified in the midst of the Children of Israel* ([[Torah 31 - Emor#^22-32|Leviticus 22:32]]). Any expression of sanctity may not be recited with fewer than ten.” The phrase “expression of sanctity” refers to the three liturgical units of *Barekhu* (the call to prayer), *Qedushah*, and *Qaddish*. There are three *Qedushot* recited in the daily morning service. On the three types of *Qedushah*, see above, note 728.
+
+    Here, the author is apparently weighing in on a medieval halakhic dispute regarding the *Qedushah* of *Yotser*. Most authorities, based on the teaching in BT *Soferim* 16:9, restrict its reading to a group of ten, but in Ashkenaz and Spain that practice began to change in the late thirteenth and early fourteenth centuries.
+
+    On the general requirement for ten men, see M *Megillah* 4:3; Maimonides, *Mishneh Torah, Hilkhot Tefillah* 8:6; Jacob ben Asher, *Arba’ah Turim, Oraḥ Ḥayyim* 55; Joseph Caro, *Shulḥan Arukh, Oraḥ Ḥayyim* 55:1; *Zohar* 1:253b (*Hash*); 2:129b; Moses de León, *Sefer ha-Rimmon*, 91. On the requirement for ten for *Qedushah*, see BT *Berakhot* 21b, *Megillah* 23b. On *Qedushah* of *Yotser*, see Natronai Gaon, *Responsa, Oraḥ Ḥayyim* 39; Maimonides, *Mishneh Torah, Hilkhot Tefillah* 7:17; idem, *Responsa* 219; Rabbenu Yeruḥam, *Toledot Adam ve-Ḥavah*, 3:2, 24d; *Haggahot Maimoniyyot, Hilkhot Tefillah* 7:17, n. 90; Jonah Gerondi on *Berakhot* 21b (13a in pages of Alfasi); Naḥmanides, *Ḥiddushei Ramban* on *Berakhot* 11b; Ibn Adret, *Responsa* 1:7; Abraham ben Nathan, *Sefer ha-Manhig, Dinei Tefillah*, 63; *Shibbolei ha-Leqet*, 13; *Zohar* 2:129b, 132b–133a; Moses de León, *Sefer ha-Rimmon*, 72–73 (and Wolfson’s n. 12); idem, *Maskiyyot Kesef*, 24–25; Angelet, *Livnat ha-Sappir*, 32c; Asher ben Yeḥiel (Rosh), on *Berakhot* 21b; Jacob ben Asher, *Arba’ah Turim, Oraḥ Ḥayyim* 59; *Beit Yosef, Oraḥ Ḥayyim* 59; Elbogen, *Jewish Liturgy*, 59–61, 402, n. 20. Cf. *Sha’arei Teshuvah* (*Teshuvot ha-Ge’onim*), 55.
+
+[^735]: **wicked dimensions are suppressed…** North is associated with *Gevurah*, “Judgment,” and so it is a fitting location for a chamber in which evil is subjugated.
+
+[^736]: **garments** On the spiritual forms of souls once they ascend to the heavenly realms, see above, note 373.
+
+[^737]: **meals of powerful celestials** Manna and other ethereal foodstuffs. See above, note 723. On righteous souls recognizing each other in heaven, see Moses de León, *Seder Gan Eden* ver. 2 (*Bet Midrash* 3), 137.
+
+[^738]: **He showed me…** *Or Yaqar*, Venice (1658), and the later printed versions of *Midrash ha-Ne’lam* on Ruth end here abruptly. This line is virtually identical to the line that preceded the previous section that is contained only in *Or Yaqar* and the later printed editions. Sometimes that phenomenon indicates that a scribe has inserted (or written) material from another location, while other times it indicates a lacunae in the other sources that lack this material. See above, note 699.
+
+[^739]: **[46d]** The material reproduced here is found in few surviving manuscripts, and it has been printed (at the end of the section of *Midrash ha-Ne’lam* on *Lekh Lekha*) in *Zohar Ḥadash* in the Salonika and Cracow editions, 48a–49b. As confirmed by the manuscripts, I have adopted the view of *Sullam* (91b), who suggests that this material continues where the text ended abruptly at the end of *Midrash ha-Ne’elam* on Ruth. See Scholem at the beginning of this section, who doubts that it is part of *Midrash ha-Ne’lam* as titled.
+
+    There is thematic continuity from *Midrash ha-Ne’lam* on Ruth for the first part of the section. Afterward, the text offers short treatments of a number of the themes treated throughout *Midrash ha-Ne’lam* on Ruth. As printed, the passage appears to be missing some earlier (possibly connecting) material.
+
+[^740]: **When they were created…** Two luminous garments are prepared for souls that are about to leave heavenly realms and emerge into the world. “Upper Garden of Eden” and “Lower Garden of Eden” respectively signify *Binah* and *Shekhinah*, two points of departure for the soul. *Matoq mi-Devash* suggests that the two different garments shine in the two different gardens. See Tishby, *Wisdom of the Zohar*, 748–54.
+
+[^741]: **entire Garden of Eden…** The soul gets a complete tour of the Garden of Eden as inducement to behave righteously and perform commandments in this world, in order to receive these rewards after death.
+
+    Descriptions of tours of both Paradise and Hell appear in *Tanḥuma, Pequdei* 3, 6; *Seder Yetsirat ha-Velad*; and *Ḥibbut ha-Qever*. On the individualized rewards for the righteous in the Garden of Eden, see *Vayiqra Rabbah* 27:1: “*They will be sated with the fare of Your house, and from Your stream of delights You give them drink* (Psalms 36:9). Rabbi El’azar son of Menaḥem said, ‘It is not written עדנך (*adanekha*), *Your delight* [singular], but rather עדניך (*adaneikha*), *Your delights* [plural].’” The Hebrew term can also be construed as *Your Edens*—that is, one for each individual. From here we learn that each and every righteous one has an Eden for himself.” See above, note 12.
+
+    Of the individual portions, the text reads literally: “each and every portion that a righteous one receives.” Throughout the following descriptions of Heaven and Hell, the text alternates between present and past tenses. In the interest of readability, I have translated consistently in the present tense.
+
+[^742]: **Whoever recites the *Shema*…** One should direct mystical intention regarding the Name of Forty-Two Names toward the first paragraph of the *Shema*, beginning with *You shall love*, for it contains forty-two words. See above, notes 139, 714.
+
+[^743]: ***Shema* with the Name Of Seventy-Two Words…** The second full paragraph of *Shema* ([[Torah 46 - Eikev#^11-13|Deuteronomy 11:13]] until the first word of 11:18) comprises seventy-two words. See above, notes 44, 140, 715.
+
+[^744]: ***Shema* with the Name of Fifty Words…** The remaining words of the second paragraph of *Shema*, concluding with [[Torah 46 - Eikev#^11-21|Deuteronomy 11:21]], comprises fifty words. See above, notes 140, 716.
+
+[^745]: ***Shema* with the Name of Seventy-Two Words…** The final paragraph of *Shema* ([[Torah 37 - Sh'lach#^15-37|Numbers 15:37–41]]) contains seventy-two words. See above, note 140.
+
+[^746]: **How can I earn this?** How can I earn all the magnificent rewards that you have shown me here in the Garden of Eden?
+
+[^747]: **doing through virtuous actions…** Exerting oneself in the performance of commandments and the study of Torah constitutes the *painful toil*. See Maimonides, *Mishneh Torah, Hilkhot Talmud Torah* 3:12: “The Torah is not fulfilled by one who treats commandments casually, nor by those who study amid luxury and in the midst of eating and drinking. Rather, only through one who kills himself over it—constantly afflicting himself, ceding neither sleep to his eyes nor rest to his eyelids. The sages alluded to this: ‘*This is the Torah: When a person dies in a tent* ([[Torah 39 - Chukat#^19-14|Numbers 19:14]])—the Torah is fulfilled only by one who kills himself in the tents of the sages.’” See BT *Berakhot* 63b, *Shabbat* 83b, *Ketubbot* 111b, *Gittin* 57b; *Avot* 6:4; *Midrash Aggadah, Bemidbar* 19:14; Joseph Caro, *Shulḥan Arukh, Yoreh De’ah* 246:21.
+
+[^748]: **traveling with him to Hell…** After conducting the soul through Heaven, the angels escort him around Hell, showing him its terrors. The journey is designed to instill terror and provide incentive to behave piously in this world.
+
+    On the tour of hell, see sources cited above, note 741. On the dog’s evil nature, see *Tanḥuma, Yitro* 3; *Tanḥuma* (Buber), *Yitro* 4; *Pesiqta Rabbati* 12, 52a; *Pesiqta de-Rav Kahana* 3, s.v. *zakhor*, 3:8–9; *Pirqei de-Rabbi Eli’ezer* 44; *Zohar* 1:242b; 2:65a, 121b, 163b; 3:25a, 32b, 63a–b (*Piq*), 197a, 211a; 3:80a, 259b; *ZḤ* 43b, [[Zohar 11.05 - Midrash ha-Ne'lam al Eikhah#^zh-92d|92d]] (*MhN, Eikhah*); Moses de León, *Sefer ha-Rimmon*, 313. Cf. *Shemot Rabbah* 26:2. On the dog as the fiercest animal, see BT *Beitsah* 25b. On the dog as the most impudent animal, see *Shemot Rabbah* 42:9. Cf. *Zohar* 2:121b.
+
+    The simple meaning of the verse in Isaiah is *The dogs are greedy* [or: *fiercely ravenous*]; *they never know satiety*.
+
+[^749]: **Forty-two chambers of gloom…** The converse of the forty-two luminous chambers in the Garden of Eden. Sinners arrive here on account of their failure to recite *Shema* while cognizant of its paragraph as corresponding to the Name of Forty-Two Names.
+
+    “Chief Warden of prisoners” renders האסורין‎ בעל (*ba’al ha-asurin*). SP has the variant הייסורין‎ בעל (*ba’al ha-yissurin*), “Master of Afflictions.”
+
+[^750]: **chains around the necks…** On the punishment of the various limbs, see also *Zohar* 2:199b; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-83d|ZḤ* 83d]] (*MhN, Rut*); *Ḥibbut ha-Qever* (*Beit ha-Midrash*, 1:151); *Ḥibbut ha-Qever*, ed. Higger, 259.
+
+[^751]: **hands… bound to chinks in house-doorposts…** Passages in the Torah that command the placing of *mezuzot* on doorways also give instructions regarding tefillin. See [[Torah 45 - Vaetchanan#^6-7|Deuteronomy 6:7]], [[Torah 45 - Vaetchanan#^6-9|9]]; [[Torah 46 - Eikev#^11-18|11:18]], [[Torah 46 - Eikev#^11-20|20]].
+
+[^752]: **even those who are exempt…** During the thirty days following death, even a soul destined for the Garden of Eden is punished for whatever sins were committed by the person on earth. According to various traditions, it shares some of the punishment suffered by the corpse in the grave, known as *ḥibbut ha-qever* (beating in the grave), which is administered by the Angel of Death or other heavenly or demonic beings.
+
+    See 3 Enoch 28:10; *Ḥibbut ha-Qever* (*Beit ha-Midrash*, 1:150–52); *Ḥibbut ha-Qever*, ed. Higger, 258–59; *Gan Eden ve-Geihinnom* (in: *Beit ha-Midrash*, 5:49); *Sefer Ḥasidim*, ed. Margaliot, par. 30; *Zohar* 1:185a, 225a; 2:141b, 151a, 210a, 211b, 220b; 3:126b–127a.
+
+    On the verses from Psalms, see Ibn Ezra; Maimonides, *Guide of the Perplexed*, 3:18, 51; *Zohar* 3:184a; Moses de León, *Sefer Sheqel ha-Qodesh*, 49 (60).
+
+[^753]: **bestows an angel…** Even those who have performed commandments in this world must spend some time in Hell, but they are protected by angels that they have accrued.
+
+    See BT *Avodah Zarah* 2a, 4b (referring to the testimony of *mitsvot* in the afterlife); and M *Avot* 4:11, in the name of Rabbi Eli’ezer son of Ya’akov: “A person who performs a single *mitsvah* acquires one defender; a person who commits a single transgression acquires one accuser.” See *Tanḥuma, Mishpatim* 19; *Va-Yaqhel* 1; *Zohar* 3:83b, 118a, 268b.
+
+    On “Night” and Hell, cf. BT *Sanhedrin* 107b. On the different compartments in Hell, see BT *Sotah* 10b; *Midrash Tehillim* 11:6; *Midrash Konen* (*Beit ha-Midrash*, 2:30, 35–36); *Seder Rabbah di-Vreshit*, 28 (*Battei Midrashot*, 1:34); *Zohar* 1:40a (*Heikh*), 62b (*Tos*), 237b; 2:150b, 263a–68b (*Heikh*); 3:178a, 285b–286a; *[[Zohar 10.05 - Parashat Lekh Lekha#^zh-25b|ZḤ* 25b]] (*MhN*); *Massekhet Geihinnom* (*Beit ha-Midrash*, 1:149); Ginzberg, *Legends*, 5:20, n. 56.
+
+[^754]: **you need not fear this place…** [[Joshua 01#^1-9|Joshua 1:9]] concludes: *do not be terrified or dismayed, for YHVH your God is with you wherever you go*—even in Hell.
+
+[^755]: **He will not command His angels…** Based on [[Psalms 091#^91-11|Psalms 91:11]] (*For His messengers* [or: *angels*] *He will command for you, to guard you on all your ways*), there is a rabbinic tradition that two angels accompany a person every day.
+
+    On angelic accompaniment, see BT *Ta’anit* 11a and *Ḥagigah* 16a; *Zohar* 1:12b, 144b, 165b, 174b; 2:106b; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-47a|ZḤ* 47a]], [[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-84d|84d]] (both *MhN, Rut*); above, notes 11, 669. Cf. *Berakhot* 60b, and Rashi, ad loc., s.v. *hitkabbedu*; *Shabbat* 119b.
+
+[^756]: **two angels…** On the two impulses, see the interpretation of the biblical command *You shall love YHVH your God with all your heart* ([[Torah 45 - Vaetchanan#^6-5|Deuteronomy 6:5]]) in M *Berakhot* 9:5: “*With all* לבבך (*levavekha*), *your hearts*—with both your impulses: the good impulse and the evil impulse.”
+
+    See above, note 191. On the adjuration of the soul, see BT *Niddah* 30b; *Seder Yetsirat ha-Velad*, 157; *Zohar* 1:76b (*ST*), 233b; 2:161b; 3:13a, 43a.
+
+[^757]: **emerges from his mother’s womb…** On Torah in the womb and birth, see BT *Niddah* 30b, in the name of Rabbi Simlai: “It is also taught the entire Torah, as is said: *He taught me and said to me: ‘Let your heart hold on to my words. Keep my commands and live’* ([[Proverbs 04#^4-4|Proverbs 4:4]])…. As soon as it emerges into the world, an angel approaches and slaps it on its mouth, causing it to forget all the Torah completely, as is said: *At the opening crouches sin* ([[Torah 01 - Bereshit#^4-7|Genesis 4:7]]).”
+
+[^758]: **Learn much Torah…** See M *Avot* 2:15–16, in the name of Rabbi Tarfon: “The day is short, the work is much, the workers are lazy, the reward is abundant, and the master of the house is insistent… You are not obligated to finish the work, yet you are not free to desist from it. If you have studied much Torah, you are given much reward, and your employer can be trusted to pay you the reward of your labor, and know that the grant of reward to the righteous is for the time to come.”
+
+[^759]: **Within man is יהוה (*YHVH*)…** Since the human being is created in the image of God, the human soul has four aspects that derive from the four letters of the tetragrammaton. These four can be mapped onto a binary division of the *sefirot*, with יה (*YH*) manifesting *Ḥokhmah* and *Binah*, while וה (*VH*) manifests *Ḥesed* through *Shekhinah*. The four letters also correspond to four primary characters in the story of Ruth.
+
+    These unnamed aspects possibly correspond to those identified at the start of this work: *nefesh* (soul), *ruaḥ* (spirit, breath), *nishmeta* (highest soul; Hebrew *neshamah*, “breath, soul”), and *nishmeta de-nishmeta* (soul of soul). See above, note 3.
+
+[^760]: ***Naked* of the holy name *YHVH*…** Upon departing this world, the wicked lose the spiritual garment that they were given at birth—their holy soul—and are left naked.
+
+    See *Bereshit Rabbah* 19:6; *Pirqei de-Rabbi Eli’ezer* 14; *Bahir* 141 (200); *Zohar* 1:224a–b; 2:150a, 247a (*Heikh*); 3:174b–175a, 214a; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-78d|ZḤ* 78d]] (*MhN, Rut*). Cf. JT *Kil’ayim* 9:4, 32b.
+
+    “What does the holy name say” is the reading found in the early printed editions and SP. It appears to imply a permanent inscription of the divine name upon the individual’s soul, although the latter’s connection to Divinity is nonetheless contingent upon the person’s conduct in this world. Alternatively, Mk reads more straightforwardly: “what does the holy soul say.”
+
+[^761]: **places His name within him…** When a person comes into the world, he is given three names that provide different faculties. The name *YHVH* gives the impetus to behave piously. The name that is bestowed by the Jewish demon enables one to acquire wealth, ideally for the sake of performing commandments. The last of the three names, which comes from the side of evil, tempts people into wickedness.
+
+    “Serpent” alludes to Samael’s consort, who is often identified as Lilith.
+
+    On Jewish demons, see above, notes 204–5. On Samael as the archon of Esau, see *Bereshit Rabbah* 77:3; *Tanḥuma, Vayishlaḥ* 8; *Shir ha-Shirim Rabbah* on 3:6; *Midrash Aggadah* on [[Torah 08 - Vayishlach#^32-27|Genesis 32:27]]; Rashi on [[Torah 08 - Vayishlach#^32-27|Genesis 32:27]]; [[Hosea 12#^12-5|Hosea 12:5]]; *Sukkah* 29a, s.v. *eloheiha*; *Zohar* 1:144a, 146a, 166a, 170a–b; 2:105a, 163b; 3:45a, 192b, 199b; *[[Zohar 10.03 - Parashat Be-Reshit#^zh-14d|ZḤ* 14d]], [[Zohar 10.04 - Parashat Noah#^zh-23d|23d]] (both *MhN*). On Samael and the Serpent, see *Pirqei de-Rabbi Eli’ezer* 13. On Serpent as the archon of Ishmael, see *Zohar* 3:124a, 246b (both *RM*).
+
+[^762]: ***Yod* and *Vav* abandon him…** If a person fails to fulfill his commitment to righteousness, the first and third letters of the tetragrammaton, two aspects of the human soul that correspond to masculine aspects of Divinity—namely *Ḥokhmah* and *Ḥesed*—withdraw.
+
+    The full verse in Ezekiel reads: *As I live—declares YHVH Elohim—I do not delight in the death of the wicked, but that he turn from his way and live. Turn back, turn back from your evil ways, that you may not die, O house of Israel*.
+
+[^763]: **upper *He* flies off with *Vav* and *Yod*…** People are given multiple opportunities to repent, but without repentance at this stage, the first ה (*H*) of the tetragrammaton withdraws as well, joining י (*Y*) and ו (*V*). Together they form the sorrowful groan הוי (*Hoy*), *Alas*. If sinners refuse to repent after that, all the letters of the divine name are jumbled, and God removes all protection from Israel, freeing their enemies to attack. At each stage, repentance could have restored the divine name that rests within the individual, while persistent sinfulness creates havoc in the holy soul bestowed in each person.
+
+    See *Mekhilta, Shirta* 5: “*Your right hand, O YHVH, glorious in power;* [*Your right hand, O YHVH, smashes the enemy*] ([[Torah 16 - Beshalach#^15-6|Exodus 15:6]]). When the Israelites perform the will of the Omnipresent, they make His left hand like His right, as is said: *Your right hand, YHVH … Your right hand, YHVH*—twice. And when the Israelites fail to perform the will of the Omnipresent, they make His right hand like His left, as is said: *He has withdrawn His right hand*.” See *Mekhilta de-Rashbi*, [[Torah 16 - Beshalach#^15-6|Exodus 15:6]]; *Eikhah Rabbah, Petiḥta* 24; 2:6; *Tanḥuma, Beshallaḥ* 15; *Zohar* 2:143b, 203b.
+
+    SP1, S, and C are missing material from here until near the top of 47d.
+
+    The full verse in Isaiah reads: *Ah, sinful nation, a people laden with iniquity, seed of evildoers, destructive children! They have forsaken YHVH, spurned the Holy One of Israel, turned their backs*.
+
+[^764]: ***The land*—body…** When evil descends upon the world because of spiritual impoverishment, one can combat it through learning Torah. Otherwise, Samael and his consort arrive, bringing affliction. *Sullam* and *Matoq mi-Devash* explain that since the demonic couple could not overcome the highest level of soul, represented by Elimelech, they attacked the next level, signified by Naomi.
+
+    On *the land* as body, see BT *Sanhedrin* 91b. On Torah study in the battle against evil, see *Sifrei Devarim* 43, 45; *Bereshit Rabbah* 70:8; BT *Sukkah* 52b, *Qiddushin* 30b; Satlow, “And on the Ground You Shall Sleep”; Rosen-Zvi, *Demonic Desires*, 20–25. On Samael riding the serpent, see above, note 161.
+
+[^765]: **If one avoids her…** Job chastises his wife, contending that one must avoid the goading of Samael and the serpent, for following their incitement leads only to death. This was the fate of Mahlon and Chilion, representing aspects of the soul that succumbed. When they *died*, only Naomi and Ruth—the two remaining faculties of the soul, represented by the two *hes*—survived.
+
+    The context in [[Job 02#^2-9|Job 2:9–10]] reads: *His wife said to him, “Do you still cling to your innocence? Curse God and die!” But he said to her, “You talk as one of the base women would talk. Shall we accept good from God, too, and evil we shall not accept?.” In all this, Job did not sin with his lips*.
+
+[^766]: **וה‎ וי‎ וי (*vay, vay, vah*), Woe, woe, ahh!…** Each of these defective forms of the divine name reflects the absence of ה (*he*), which symbolizes *Binah*, and Repentance. That upper *he*, represented by Naomi, pleads with the lower aspects of soul to return, but only Ruth responds as desired.
+
+    On these expressions of woe, see *Pesiqta de-Rav Kahana* 10:4; *Eikhah Rabbah* 1:31; *Zohar* 1:238b; 3:74b–75a; cf. *Esther Rabbah, Petiḥta* 6.
+
+[^767]: **Elimelech will appear…** Repentance leads to the full reconstitution of the human soul with all the letters of the tetragrammaton. Failure to repent causes the withdrawal of all components of the soul.
+
+[^768]: **[empty of] the holy name…** Each individual comes into the world with the divine name suffused within, but the sinner leaves the world bereft of that name. At that juncture, the soul is taken over by the Other Side for servitude. Cf. *Matoq mi-Devash*.
+
+    The simple meaning of the phrase in Ruth is: *YHVH* ענה (*anah*), *has dealt harshly, with me*, but the author construes the word as a different verb with the same letters, yielding *testified* [literally: *answered*].
+
+    MT [[Ruth 1#^1-19|Ruth 1:19]] reads *The whole city hummed with excitement because of them* (plural). The misreading here (as a singular pronoun) may be intentional, to conform with the sense of the teaching. On discrepancies with MT, see above, p. 5, n. 6.
+
+[^769]: **י (*Y*) and ו (*V*) remained poor and downtrodden…** Hope remains for these male aspects of the wicked soul, which were not overtaken. If the deceased had fathered a pious son—dedicated to Torah study—he will be saved from Samael and the serpent, who will then be dispatched.
+
+    The full verse in Zechariah reads: *Rejoice greatly, O daughter of Zion! Shout aloud, O daughter of Jerusalem! See, your king is coming to you: righteous and having salvation is he; poor and riding on an ass—on a donkey, foal of a she-ass*.
+
+[^770]: **Jacob was not yet in the world…** The verse is perplexing: how could Jacob rescue his grandfather Abraham from the Chaldean furnace when he had not even been born?
+
+    Parallels to this whole passage appear in *Zohar* 3:57a; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-76d|ZḤ* 76d]] (*MhN, Rut*). The passage in *Zohar* 3:57a appears in the section of *Aḥarei Mot*. Perhaps for that reason this whole section was placed in *Zohar Ḥadash, Aḥarei Mot*.
+
+[^771]: **they hurled Abraham into the blazing furnace…** The verse is usually understood as *Thus says YHVH, who redeemed Abraham, to the house of Jacob*. The speaker here reads it hyperliterally, based on the midrashic tradition that Jacob’s (future) merit *redeemed Abraham* from Nimrod’s fiery furnace. As Abraham was cast into the furnace on account of having destroyed his father’s idols, the heavenly court debated whether he should be saved. The angels opposed rescuing Abraham because Ishmael was destined to issue from him—Ishmael being the ancestor of the Muslims, who in the future will oppress the Jewish people.
+
+    This tradition partially derives from [[Torah 02 - Noach#^11-31|Genesis 11:31]], which relates the departure of Terah, Abraham, Sarah, and their household from כשדים‎ אור (*Ur Kasdim*), Ur of the Chaldeans, en route to Canaan. There were several cities in Mesopotamia named Ur, but because “Ur” can also denote “fire,” the name contributed to the rabbinic legend about Abraham and the furnace. See above, note 68.
+
+[^772]: **he will stretch out his neck…** Isaac’s example of extreme devotion should outweigh Ishmael’s cruelty.
+
+[^773]: **But Esau…** will destroy the Temple Esau is considered to be the progenitor of Rome, and the Romans destroyed the second Temple.
+
+    On the reprobate natures of Ishmael and Esau, see above, note 70.
+
+[^774]: **perfect throne** Unlike Abraham and Isaac, who each fathered a corrupt child, Jacob is considered to have begotten only righteous offspring. See above, note 63.
+
+[^775]: **on the merit of Jacob…** The prosecuting angels are forced to concede that Jacob and his progeny are worthy to redeem Abraham from the furnace’s flames.
+
+[^776]: **When they bound Hananiah, Mishael, and Azariah…** As Hananiah, Mishael, and Azariah were about to be cast into the furnace, each one proclaimed a verse (or verses). Rabbinic sources describe these three heroes as proclaiming parts of verses in Psalms 115 or 117.
+
+    See above, note 72.
+
+[^777]: ***his children*…** Mishael trusts that his willingness to sanctify God’s name through martyrdom will redeem him, just as Jacob’s righteousness redeemed Abraham.
+
+    [[Isaiah 29#^29-23|Isaiah 29:23]] concludes: *For when he sees his children, the work of My hands in his midst, they will sanctify My name. And they will sanctify the Holy One of Jacob and stand in awe of the God of Israel*.
+
+[^778]: **This is Hananiah…** The verse in Isaiah identifies three different characters, and these are mapped onto the three heroes of the story—based on the verses that they recite as they prepare for their deaths. The first says, “*I am YHVH’s*,” which matches Hananiah’s verse: *YHVH is with me, I will not fear*. Similarly, *Another will call himself by the name of Jacob* matches Mishael’s verse: *Do not fear, My servant Jacob*. The conclusion of the verse in Isaiah—*Another will write on his hand, “YHVH’s,” and adopt the name of Israel*—corresponds to Azariah’s verse: *Hear, O Israel! YHVH our God, YHVH is one*.
+
+    The verse from Deuteronomy begins the *Shema*, declaring God’s oneness and the obligation to love God with all one’s soul, and a martyr is enjoined to recite the *Shema* when death is imminent.
+
+    See M Berakhot 9:5; *Sifrei*, Deuteronomy 32; BT *Berakhot* 61b; Maimonides, *Mishneh Torah, Hilkhot Yesodei ha-Torah* 5:7; *Zohar* 1:12a; Moses de León, *Sefer ha-Rimmon*, 43–44.
+
+[^779]: **Their mockery…** The Chaldeans ridiculed the notion, expressed by Mishael, that linear time could be reversed and that Jacob could redeem Abraham. In response, God commands that the three heroes should be saved by the very *shame* (as expressed in [[Isaiah 29#^29-22|Isaiah 29:22]]) that the Chaldeans had invoked. As with Abraham, Jacob redeems Daniel’s three friends, as well.
+
+    The fuller context in [[Isaiah 29#^29-22|Isaiah 29:22–24]] reads: *No longer will Jacob be ashamed, no longer his face grow pale. For when he sees his children, the work of My hands in his midst, they will sanctify My name. They will sanctify the Holy One of Jacob, and stand in awe of the God of Israel. And the confused of spirit shall acquire insight, and grumblers accept instruction*.
+
+[^780]: **my name was like that of his god…** In [[Daniel 01#^1-7|Daniel 1:7]], Nebuchadnezzar’s chief officer gave Babylonian names to Daniel, Hananiah, Mishael, and Azariah. In chapter 2, Nebuchadnezzar praises Daniel’s dream interpretation and pays him homage. In chapter 4, when Nebuchadnezzar calls on Daniel to interpret his dream, he calls him by the name Belteshazzar, noting that this is the name of one of his deities. Here, Daniel becomes aware of the fiery furnace and God’s injunction from Deuteronomy and, fearful that he will be mistaken for one of the idols to be consigned to the fire, he bolts.
+
+    See above, note 74. The full verse in Daniel reads: *Finally there came before me Daniel—whose name is Belteshazzar after the name of my god, and who is endowed with the spirit of the holy gods—and before him I related the dream*.
+
+[^781]: ***Guard my life*** The full verse in Psalms reads: *Guard my life, for I am pious* [or: *faithful, steadfast*]. *Rescue Your servant who trusts in You—You, my God*.
+
+[^782]: **They asked him…** The frogs in the river questioned David’s assertion of his piety. On the frogs’ competitiveness with David, see *Pereq Shirah*, Introduction; Beit Arié, *Perek Shirah*, 2:22–26 and nn. ad loc.
+
+[^783]: **Am I not pious…** King David affirms his righteousness by referring to his efforts to assess the status of blood that women have discharged—so as to determine whether they are sexually permitted to their husbands; and by referring to his nocturnal rising at midnight to study Torah.
+
+    See BT *Berakhot* 4a: “[*A prayer*] *of David… Keep my soul, for I am pious* ([[Psalms 086#^86-1|Psalms 86:1–2]]). Levi and Rabbi Isaac [offered different interpretations]: One said, ‘So said David before the blessed Holy One: “Master of the Universe, am I not pious? As all of the kings of the East and the West sleep until the third hour [of the day], but I, *at midnight I rise to praise You* ([[Psalms 119#^119-62|Psalms 119:62]]).”’ The other said, ‘David said the following before the blessed Holy One, “Master of the Universe, am I not pious? For all the kings of the East and the West sit in groups befitting their honored status, while my hands become soiled with the blood [of menstruation], with a miscarried fetus, and with placenta, in order to render a woman ritually pure for her husband.”’” The rabbinic teaching and the Zoharic recasting of it appears to be a reinterpretation of [[I Chronicles 22#^22-7|1 Chronicles 22:7–8]], in which David recounts that God forbade him from building the Temple because he had too much blood on his hands.
+
+    On the three “watches” (divisions) of the night, see above, note 604.
+
+    According to BT *Sukkah* 26b (in the name of Abbaye), David’s sleep was like that of a horse, which lasts for sixty breaths. See BT *Berakhot* 3b; *Zohar* 1:206b–207a; *Nitsotsei Zohar* on *Zohar* 1:206b, n. 8.
+
+    On David’s nighttime study, see BT *Berakhot* 3b, in the name of Rabbi Shim’on the Ḥasid: “There was a harp suspended above [King] David’s bed. As soon as midnight arrived, a north wind came and blew upon it, and it played by itself. He immediately arose and engaged in Torah until the break of dawn.” Here, David’s harp symbolizes *Shekhinah*, who is aroused by the wind of *Gevurah* (symbolized by the north). See above, notes 76, 546.
+
+[^784]: **we incinerated ourselves …** In [[Torah 14 - Vaera#^7-28|Exodus 7:28]], God instructs Moses to warn Pharaoh: *The Nile will swarm frogs and they will come up and come into your house, into your bedroom, onto your bed, into your servants’ houses, upon your people, into your ovens, and into your kneading bowls*. In some of the rabbinic legends from which this story derives, an inference is drawn from [[Torah 14 - Vaera#^8-9|Exodus 8:9]]: *the frogs died out from the houses, from the courtyards, and from the fields*; that is, excluding those that jumped into the ovens. See above, note 75.
+
+[^785]: **Let us act like the frogs** Hananiah, Mishael, and Azariah concluded that if frogs decided to jump into the ovens so as to honor God, all the more so should they allow themselves to be martyred to sanctify God.
+
+[^786]: **roars like a lion…** See BT *Berakhot* 3a, in the name of Rav: “The night consists of three watches; and over each and every watch, the blessed Holy One sits and roars like a lion, saying, ‘Woe to the children because of whose sins I destroyed My House, and burned my Sanctuary, and exiled them among the nations of the world!’”
+
+[^787]: ***The leech has two daughters*…** The leech subsists on the blood of others; and her daughters, too, are characterized by greed. Here the names of the two daughters—הב‎ הב (*Hav, Hav*)—resemble the sound of insatiable dogs barking.
+
+    In Proverbs, this saying refers to a greedy person or to someone constantly leeching off others. It may also be a warning that a greedy parent engenders greedy children. Anatomically, a leech has two suckers, one at each end, which are pictured in this verse as *two daughters*. In rabbinic literature, it is associated with Hell. See BT *Avodah Zarah* 17a; *Shemot Rabbah* 7:4; *Midrash Mishlei* (Buber) 17:1, 30:15 (in the name of Rabbi Shim’on son of Yoḥai).
+
+    On the signs of the earthly watches, see BT *Berakhot* 3a.
+
+[^788]: ***an ox and a donkey together*…** The Torah forbids yoking these two animals together because they are different species entirely. Balaam defied this basic rule and committed bestiality with his donkey, the method by which he attained prophecy.
+
+    On Balaam and his ass, see [[Torah 40 - Balak#^22-21|Numbers 22:21–35]], recounting how his ass sees an angel of *YHVH*, yet the great wizard sees nothing. See above, note 194.
+
+    See *Sifrei*, Deuteronomy 357: “*Never again did there arise in Israel a prophet like Moses*—in Israel none arose, but among the nations of the world, one did! Who is this? Balaam son of Beor.” See *Bemidbar Rabbah* 14:20; *Zohar* 1:10a; 3:193b; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-47c|ZḤ* 47c]] (*MhN, Rut*). See also *Tanḥuma, Balaq* 1; *Bemidbar Rabbah* 20:1; *Vayiqra Rabbah* 1:13; *Seder Eliyyahu Zuta* 10.
+
+    On the prohibition of plowing with an ox and donkey together, see above, note 192.
+
+[^789]: **in the same breath…** Moses and Balaam are exemplars in their respective domains.
+
+[^790]: **Come and see…** The commandment to shoo away the mother bird from her nest when one wants to take the fledglings and eggs instructs that one should be dedicated to Torah study, and to teach Torah to the young. This brings about the unification of *Tif’eret* (symbolized by Torah and the Tree of Life) and *Shekhinah* (symbolized by Israel and Land). The land of Israel metonymically represents the people of Israel, as in [[Malachi 3#^3-12|Malachi 3:12]]. Cf. *Zohar* 2:50a.
+
+    On the commandment of shooing away the mother bird, see above, notes 92–107.
+
+    The remainder of what the printed edition calls *Midrash ha-Ne’lam* on Ruth shows a dramatically different style. See Meroz, “R. Yosef Angelet u-khetavav ha-zohariyyim,” 320.
+
+    The full context in Deuteronomy (22:6–7) reads: *If a bird’s nest happens to be before you on the way, in any tree or on the land* [or: *ground*]—*fledglings or eggs—and the mother crouching over the fledglings or over the eggs, you shall not take the mother together with the offspring. Surely send off the mother, and the offspring you may take for yourself, so that it will benefit you, and you will prolong your days*.
+
+    The full verse in Proverbs reads: *A tree of life is she to those who grasp her, and those who hold her are deemed happy*.
+
+[^791]: ***mother* always refers to Torah…** *Matoq mi-Devash* explains that situations arise in which one needs to set aside one’s Torah study in order to perform a commandment. Nonetheless, one’s length of days is assured.
+
+[^792]: ***If one proceeds contrarily*…** The simple meaning of the phrase is *If it happens*; here, it is interpreted as deliberate disobedience. In such a case, God punishes both the people of Israel and *Shekhinah*, who is signified by *seven*. Even when God tries to reconcile with Her—now symbolized by Rachel—She remains dedicated to Israel in their exile.
+
+    The word קרי (*qeri*) derives from the root קרה (*qrh*), “meet; encounter; happen to.” In Leviticus, *qeri* implies “hostile encounter; opposition.” In rabbinic usage, *qeri* means “accident; mishap; pollution; nocturnal emission.” On the biblical term *qeri*, see Milgrom, *Leviticus*, 3:2309–10.
+
+    The context in Jeremiah (31:15–17) reads: *Thus says YHVH: A voice is heard in Ramah* [or: *on a height*]—*wailing, bitter weeping—Rachel weeping for her children, refusing to be comforted for her children, for they are no more. Thus says YHVH: Restrain your voice from weeping, your eyes from tears; for there is reward for your labor, declares YHVH: they will return from the land of the enemy. There is hope for your future, declares YHVH: children will return to their land*.
+
+    See *Bereshit Rabbah* 82:10: “*Rachel died, and she was buried on the road to Ephrath*… ([[Torah 08 - Vayishlach#^35-19|Genesis 35:19]]). What prompted Jacob to bury Rachel on the road to Ephrath? He foresaw that the exiles [carried off by the Babylonians] would pass through there; therefore he buried her there—so that she would pray for mercy for them, as is written: *Rachel weeping for her children…. Thus says YHVH: Restrain your voice from weeping…. There is hope for your future.”*
+
+    On *Shekhinah*’s persistent accompaniment of Israel, see BT *Megillah* 29a, in the name of Rabbi Shim’on son of Yoḥai: “Come and see how beloved are Israel in the sight of the blessed Holy One! Wherever they went in exile, *Shekhinah* accompanied them. When they were exiled to Egypt, *Shekhinah* was with them…. When they were exiled to Babylon, *Shekhinah* was with them…. And even when they are destined to be redeemed, *Shekhinah* will be with them.”
+
+    The rabbinic term קרי‎ בעל (*ba’al qeri*), “master [or: owner] of mishap,” means one to whom a mishap happens, particularly one who experiences a nocturnal emission. See M *Berakhot* 3:4–5.
+
+    On Mother Rachel as the Divine Mother, *Shekhinah*, see *Eikhah Rabbah, Petiḥta* 24; *Zohar* 1:134a, 175a–b, 181b, 203a, 209b–210a, 228b; 2:29b; 3:20b, 187a; *[[Zohar 11.05 - Midrash ha-Ne'lam al Eikhah#^zh-92a|ZḤ* 92a]]–b (*MhN, Eikhah*); Moses de León, *Sheqel ha-Qodesh*, 66 (83); Hasan-Rokem, *Web of Life*, 126–29. On *Shekhinah* as going into exile, see above, notes 98, 153.
+
+[^793]: **supernal angels… lower angels…** Angels are sometimes described in terms of upper and lower, or male and female, to describe the direction of influence from above to below. Here, the “large faces” (or “face”) signifies the higher group, while the “small faces” (or “face”) signifies the lower group. Both sets of angels are part of *Shekhinah*’s retinue that goes into exile.
+
+    The image of large and small faces derives from a Talmudic discussion of the cherubim. See BT *Sukkah* 5b: “Rabbi Aḥa son of Ya’akov said, ‘We have learned that the face of the cherubim was no less than a handbreadth….’ What is a כרוב (*keruv*), cherub? Rabbi Abbahu said, ‘כרבייא (*Ke-ravya*), Like a child, for in Babylon they call a child רביא (*ravya*).’ Abbaye said to him, ‘If so, how do you explain the verse *The face of one was the face of a cherub, and the face of the second the face of a human* (Ezekiel 10:14), seeing that [the faces of] a cherub and a human are the same?’—‘A large face and a small face [i.e., *The face of a human* is large, while *the face of a cherub* is small].’” See *Zohar* 2:4b (*MhN*); above, note 526. Cf. *Sullam*; *Matoq mi-Devash*.
+
+[^794]: **Lengthened faces…** On account of *Shekhinah*’s willingness to accompany Israel, God bestows compassion upon Her and Israel, as expressed through דאנפין‎ אריכו (*arikhu de-anpin*), “lengthened faces.” Sometimes the highest *sefirah, Keter*, is identified as the Holy Ancient One—who is characterized by pure compassion and is described as אנפין‎ אריך (*Arikh Anpin*), “long-suffering, slow to anger, taking a long time for his nostrils to flare.” This expression derives from [[Torah 21 - Ki Tisa#^34-6|Exodus 34:6]]: *YHVH, YHVH! A compassionate and gracious God*, אפים‎ ארך (*erekh appayim*), *slow to anger* [or: *long-suffering*], *and abounding in kindness and faithfulness*. Here, the central six *sefirot* (*Ḥesed* to *Yesod*) constitute “lengthened faces” (or “smooth nostrils”). When divine anger cools, God’s anger is distanced; but when the fury is in full force, one can see only the divine back, and the other *sefirot* withdraw.
+
+    See Ibn Ezra (short), ad loc.; *Zohar* 2:175b; 3:129a–b (*IR*).
+
+[^795]: **Song of Songs is holy of holies…** Song of Songs is the absolutely superlative song, as famously described by Rabbi Akiva in M *Yadayim* 3:5, “All of Scripture is holy, but Song of Songs is holy of holies.” See Ibn Ezra, Introduction: “This book is glorious, entirely delightful; and there is none other among the 1005 songs of King Solomon that is like it. Thus it is written: *The Song of Songs of Solomon* (1:1), for this song is superior to all other songs of Solomon. Within it is a secret, concealed and sealed from the days of Abraham until the coming of the messiah.” See above, pp. 19–20, n. 50.
+
+[^796]: **a single flame… flares beneath the wings of the rooster…** The celestial rooster (identified above as the angel Gabriel), is aroused by a flame emitted by *Gevurah*, and in turn he arouses the righteous to learn Torah. His crowing laments that many remain spiritually dulled while the blessed Holy One descends to the Garden of Eden and mates with *Shekhinah*, symbolized by the doe.
+
+    On the rooster, see above, note 603. On *Shekhinah* as a doe, see *Zohar* 1:4a; 2:7b, 8b, 10a–b, 36b, 46a, 52b, 56b, 119b (*RM*), 219b–220a; 3:21b, 25a–b, 68a, 249a–b; Liebes, *Pulḥan ha-Shaḥar*, 153–67.
+
+[^797]: **those who rise at midnight…** Through midnight Torah study, the kabbalists enable the doe to unite with her mate.
+
+    On the custom of studying Torah at midnight, see BT *Berakhot* 3b: “Rabbi Shim’on the Ḥasid said, ‘A lyre was suspended above [King] David’s bed. As soon as midnight arrived, a north wind would come and blow upon it, and it played by itself. He would rise immediately and engage in Torah until the first rays of dawn.’” In the *Zohar*, midnight is the time that the blessed Holy One descends to the Garden of Eden to delight in the righteous and the learning of those on this earth. See above, notes 76, 546, 783.
+
+    On the filament of love (or “thread of grace”), see BT *Ḥagigah* 12b, in the name of Resh Lakish: “To one who engages in Torah by night, the blessed Holy One extends a thread of grace by day, as is said: *By day YHVH ordains His love* ([[Psalms 042#^42-9|Psalms 42:9]]). Why? Because *in the night His song is with me* (ibid.).” *His song* is the song of Torah.
+
+    See BT *Avodah Zarah* 3b; *Mishnat Rabbi Eli’ezer* 13, pp. 254–55; *Seder Eliyyahu Zuta* 17, p. 22; *Midrash Mishlei* 31:15; Maimonides, *Mishneh Torah, Hilkhot Talmud Torah* 3:13; *Zohar* 1:82b, 92a, 104a, 178b, 194b, 207b; 2:46a, 57a, 149a; 3:22a, 23b, 25a–b, 36a, 44a–b, 64b–65a, 68a, 76a, 213a; *[[Zohar 11.07 - Matnitin#^zh-122a|ZḤ* 122a]] (*Mat*); Moses de León, *Sefer ha-Rimmon*, 54.
+
+[^798]: ***To graze in the gardens*…** The plural *gardens* signifies more than one—namely “supernal Garden of Eden,” signifying World that is Coming, and “lower Garden of Eden,” signifying This World, which symbolize *Binah* and *Malkhut*, respectively.
+
+[^799]: **even in the grave they are astir…** The *roses* are scholars taken before their time.
+
+    On scholars’ lips moving in the grave, see *Shir ha-Shirim Rabbah* on 7:10: “Rabbi Yoḥanan said, ‘Even when a scholar [reading תורה‎ בן (*ben torah*), “son of Torah,” instead of תורתה‎ בן (*ben tortah*), “son of Tortah”] is dead, his lips move in the grave. Why? *Stirring the lips of sleepers* ([[Song of Songs 7#^7-10|Song of Songs 7:10]]).’” See above, note 425.
+
+[^800]: **untimely deaths…** This section is clearly fragmentary, as neither the speakers are identified, nor is there previous mention of untimely deaths.
+
+    On the gathering of roses as a metaphor for children’s deaths, see *Zohar* 3:263a–b (*Piq*); *[[Zohar 10.03 - Parashat Be-Reshit#^zh-20a|ZḤ* 20a]]–b (*MhN*); Benarroch, “The Mystery of Unity,” 246–49. On removing a person from the world while he is innocent (or righteous), see *Wisdom of Solomon* 4:10–11; *Bereshit Rabbah* 25:1 (and Theodor’s note); BT *Ḥagigah* 5a; *Shir ha-Shirim Rabbah* on 6:2; *Qohelet Rabbah* on 7:15; *Zohar* 1:56b; 2:10b, 96b; *[[Zohar 10.03 - Parashat Be-Reshit#^zh-20a|ZḤ* 20a]]–b (*MhN*), 36b. Cf. M *Sanhedrin* 8:5; *Sifrei*, Deuteronomy 218.
+
+[^801]: **Jeroboam…** A promising leader in King Solomon’s civil service, whom God chose to become ruler over the northern tribes, with the promise of establishing a lasting dynasty ([[I Kings 11#^11-26|1 Kings 11:26–40]]). However, as king of Israel, he appointed an unauthorized priesthood and set up golden calves for his subjects to worship, rather than going to the Temple in Jerusalem (12:26–31)—thus earning God’s condemnation (13:33–34).
+
+    See BT *Berakhot* 35b: “What is the meaning of *He is partner to a destroyer* ([[Proverbs 28#^28-24|Proverbs 28:24]])? Rabbi Ḥanina son of Papa said, ‘*He is partner to* Jeroboam son of Nebat—who destroyed Israel’s [faith in] their Father in Heaven.’” See [[I Kings 12#^12-26|1 Kings 12:26–33]]; M *Avot* 5:18; BT *Sanhedrin* 101b–102a; *Rosh ha-Shanah* 17a.
+
+    On Jeroboam’s childhood righteousness, see *Nitsotsei Zohar* on *[[Zohar 12.11 - Zohar al ha-Parashot#^zh-56a|ZḤ* 56a]], n. 6. *[[Zohar 10.03 - Parashat Be-Reshit#^zh-20a|ZḤ* 20a]]–b (*MhN*) has a similar homily about Jeroboam.
+
+[^802]: **Metatron would have taught him Torah** On an angel teaching Torah to children’s souls, see BT *Avodah Zarah* 3b (and Rashi, s.v. *gemulei me-ḥalav*); *Bereshit Rabbati* 5:24; *Kallah Rabbati* 2:9; *Sefer Ḥanokh* (*Beit ha-Midrash*, 2:115–16); *Otiyyot de-Rabbi Aqiva* (*Battei Midrashot*, 2:353); *Zohar* 1:41a (*Heikh*); 2:169b; 3:186a; *[[Zohar 12.07 - Raza de-Razin#^zh-36b|ZḤ* 36b]]; Moses de León, *Seder Gan Eden*, 134–35; Margaliot, *Mal’akhei Elyon*, 98–100; Yisraeli, *Parshanut ha-Sod*, 163–65. Cf. *Zohar* 2:113b; 3:77a.
+
+[^803]: **the blessed Holy One *has gone down… to gather roses*** Since the episode with the angels and Jeroboam, God sometimes takes children from the earth before their time, to prevent their spoiling.

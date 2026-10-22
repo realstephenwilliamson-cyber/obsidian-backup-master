@@ -1,0 +1,57 @@
+filters:
+  or:
+    - and:
+        - file.inFolder("Study/Sanskrit/Flashcards")
+        - type == "flashcard"
+    - and:
+        - file.inFolder("Study/Sanskrit/Letters")
+        - type == "letter"
+views:
+  - type: table
+    name: Register
+    filters:
+      and:
+        - type == "flashcard"
+    order:
+      - card
+      - devanagari
+      - iast
+      - category
+      - class
+      - sthana
+      - nyasa
+      - card_label
+      - alpha
+      - file.name
+    sort:
+      - property: card
+        direction: ASC
+  - type: cards
+    name: Chart
+    filters:
+      and:
+        - type == "flashcard"
+    order:
+      - devanagari
+      - iast
+      - card
+    sort:
+      - property: card
+        direction: ASC
+  - type: table
+    name: The fifty letters
+    filters:
+      and:
+        - type == "letter"
+    order:
+      - order
+      - devanagari
+      - iast
+      - class
+      - sthana
+      - nyasa
+      - cards
+      - file.name
+    sort:
+      - property: order
+        direction: ASC

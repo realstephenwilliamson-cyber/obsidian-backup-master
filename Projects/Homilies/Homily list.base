@@ -1,0 +1,62 @@
+filters:
+  and:
+    - file.folder.startsWith("Projects/Homilies")
+    - type == "homily"
+views:
+  - type: table
+    name: All homilies
+    order:
+      - file.name
+      - occasion
+      - rcl_year
+      - stage
+      - preached_at
+    sort:
+      - property: date
+        direction: DESC
+  - type: table
+    name: Ideas
+    filters:
+      and:
+        - stage == "idea"
+    order:
+      - file.name
+      - occasion
+    sort:
+      - property: date
+        direction: ASC
+  - type: table
+    name: Drafting
+    filters:
+      and:
+        - stage == "drafting"
+    order:
+      - file.name
+      - occasion
+    sort:
+      - property: date
+        direction: ASC
+  - type: table
+    name: Finished
+    filters:
+      and:
+        - stage == "finished"
+    order:
+      - file.name
+      - occasion
+      - preached_at
+    sort:
+      - property: date
+        direction: DESC
+  - type: table
+    name: Preached
+    filters:
+      and:
+        - stage == "preached"
+    order:
+      - file.name
+      - occasion
+      - preached_at
+    sort:
+      - property: date
+        direction: DESC

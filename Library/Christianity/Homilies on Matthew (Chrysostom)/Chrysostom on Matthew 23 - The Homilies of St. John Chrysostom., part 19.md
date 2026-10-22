@@ -1,0 +1,717 @@
+---
+type: book-chapter
+work: "[[Catalog/Christianity/Chrysostom - Homilies on Matthew (Prevost)]]"
+book: "[[Library/Christianity/Homilies on Matthew (Chrysostom)/Homilies on Matthew (Chrysostom)|Homilies on Matthew (Chrysostom)]]"
+order: 23
+source_pdf: "Library/Christianity/Chrysostom - Homilies on Matthew (NPNF1 10, 1888).pdf"
+page_range: "724–763"
+pdf_pages: "732–771"
+text_source: "PDF text layer (born-digital, CCEL), PyMuPDF"
+converted: 2026-10-15
+---
+
+[[Chrysostom on Matthew 22 - The Homilies of St. John Chrysostom., part 18|← previous]] · [[Homilies on Matthew (Chrysostom)|contents]] · [[Chrysostom on Matthew 24 - The Homilies of St. John Chrysostom., part 20|next →]]
+
+*[p. 724]* ^pg732
+
+vineyard to other husbandmen,” they say nothing else than this, publishing their sentence with much greater force.
+
+With this Stephen also upbraids them, which thing most of all stung them, that having enjoyed always much providential care, they requited their benefactor with the contraries, which very thing itself was a very great sign, that not the punisher, but the punished, were the cause of the vengeance brought upon them.
+
+This here likewise is shown, by the parable, by the prophecy. For neither was He satisfied with a parable only, but added also a twofold prophecy, one David’s, the others from Himself.
+
+What then ought they to have done on hearing these things? ought they not to have adored, to have marvelled at the tender care, that shown before, that afterwards? But if by 399 none of these things they were made better, by the fear of punishment at any rate ought they not to have been rendered more temperate?
+
+But they did not become so, but what do they after these things? “When they had heard it,” it is said, “they perceived that He spake of them. And when they sought to lay hands on Him, they were afraid because of the multitudes, for they took Him for a prophet.”<sup>2579</sup> For they felt afterwards that they themselves were intimated. Sometimes indeed, when being seized, He withdraws through the midst of them, and is not seen; and sometimes while appearing to them He lays a check upon their laboring eagerness; at which indeed men marveled, and said, “Is not this Jesus? Lo, He speaketh boldly, and they say nothing unto Him.”<sup>2580</sup> But in this instance, forasmuch as they were held in restraint by the fear of the multitude, He is satisfied with this, and doth not work miracles, as before, withdrawing through the midst, and not appearing. For it was not His desire to do all things in a superhuman way, in order that the Dispensation<sup>2581</sup>might be believed.
+
+But they, neither by the multitude, nor by what had been said, were brought to a sound mind; they regarded not the prophet’s testimony, nor their own sentence, nor the disposition of the people; so entirely had the love of power and the lust of vainglory blinded them, together with the pursuit of things temporal.
+
+3\. For nothing so urges men headlong and drives them down precipices, nothing so makes them fail of the things to come, as their being riveted to these decaying things. Nothing so surely makes them enjoy both the one and the other, as their esteeming the things to come above all. For, “Seek ye,” saith Christ, “the kingdom of God, and all these things shall be added unto you.”<sup>2582</sup> And indeed, even if this were not joined, not even in that case ought we to aim at them. But now in obtaining the others, we may obtain these
+
+258\. 0 \[John vii. 25, 26.\] Gr. οκονομα, *i.e*., the verity of the Incarnation. 2581 Matt. vi. 33. \[“first” is omitted; inserted by the Oxford translator against the Greek text.—R.\]
+
+
+*[p. 725]* ^pg733
+
+two; and not even so are some persuaded, but are like senseless stones, and pursue shadows of pleasure. For what is pleasant of the things in this present life? what is delightful? For with greater freedom do I desire to discourse with you to-day; but suffer it, that ye may learn that this life which seems to you to be a galling and wearisome life, I mean that of the monks and of them that are crucified, is far sweeter, and more to be desired than that which seems to be easy, and more delicate.
+
+And of this ye are witnesses, who often have asked for death, in the reverses and despondencies that have overtaken you, and have accounted happy them that are in mountains, them that are in caves, them that have not married, them that live the unworldly life; ye that are engaged in crafts, ye that are in military services, ye that live without object or rules, and pass your days at the theatres and orchestras. For of these, although numberless fountains of pleasures and mirth seem to spring up, yet are countless darts still more bitter brought forth.
+
+For if any one be seized with a passion for one of the damsels that dance there, beyond ten thousand marches, beyond ten thousand journeys from home, will he undergo a torture more grievous, being in a more miserable state than any besieged city.
+
+However, not to inquire into those things for the present, having left them to the conscience of those that have been taken captive, come let us discourse of the life of the common sort of men, and we shall find the difference between either of these kinds of life as great as between a harbor, and a sea continually beaten about with winds.
+
+And observe from their retreats at once the first signs of their tranquillity. For they have fled from market places, and cities, and the tumults amidst men, and have chosen the life in mountains, that which hath nothing in common with the things present, that which undergoes none of the ills of man, no worldly sorrows, no grief, no care so great, no dangers, no plots, no envy, no jealousy, no lawless lusts, nor any other thing of this kind.
+
+Here already they meditate upon the things of the kingdom, holding converse with groves, and mountains, and springs, and with great quietness, and solitude, and before all these, with God. And from all turmoil is their cell pure, and from every passion and disease is their soul free, refined and light, and far purer than the finest air.
+
+And their work is what was Adam’s also at the beginning and before his sin, when he was clothed with the glory, and conversed freely with God, and dwelt in that place that was full of great blessedness. For in what respect are they in a worse state than he, when before his disobedience he was set to till the garden? Had he no worldly care? But neither have these. Did he talk to God with a pure conscience? this also do these; or rather they have a 400 greater confidence than he, inasmuch as they enjoy even greater grace by the supply of the Spirit.
+
+Now ye ought indeed by the sight to take in these things; but forasmuch as ye are not willing, but pass your time in turmoils and in markets, by word at least let us teach you,
+
+*[p. 726]* ^pg734
+
+taking one part of their way of living (for it is not possible to go over their whole life). These that are the lights of the world, as soon as the sun is up, or rather even long before its rise, rise up from their bed, healthy, and wakeful, and sober (for neither doth any sorrow and care, nor headache, and toil, and multitude of business, nor any other such thing trouble them, but as angels live they in Heaven); having risen then straightway from their bed cheerful and glad, and having made one choir, with their conscience bright, with one voice all, like as out of one mouth, they sing hymns unto the God of all, honoring Him and thanking Him for all His benefits, both particular, and common.<sup>2583</sup>
+
+So that if it seem good, let us leave Adam, and inquire what is the difference between the angels and this company of them who on earth sing and say, “Glory to God in the highest, and on earth peace, good will towards men.”<sup>2584</sup>
+
+And their dress is suitable to their manliness. For not indeed, like those with trailing garments, the enervated and mincing, are they dressed, but like those blessed angels, Elijah, Elisha, John, like the apostles; their garments being made for them, for some of goat’s hair, for some of camel’s hair, and there are some for whom skins suffice alone, and these long worn.
+
+Then, after they have said those songs, they bow their knees, and entreat the God who was the object of their hymns for things, to the very thought of which some do not easily arrive. For they ask nothing of things present, for they have no regard for these, but that they may stand with boldness before the fearful judgment-seat, when the Only-Begotten Son of God is come to judge quick and dead, and that no one may hear the fearful voice that saith, “I know you not,” and that with a pure conscience and many good deeds they may pass through this toilsome life, and sail over the angry sea with a favorable wind. And he leads them in their prayers, who is their Father, and their ruler.
+
+After this, when they have risen up and finished those holy and continual prayers, the sun being risen, they depart each one to their work, gathering thence a large supply for the needy.
+
+4\. Where now are they who give themselves to devilish choirs, and harlot’s songs, and sit in theatres? For I am indeed ashamed to make mention of them; nevertheless, because of your infirmity it is needful to do even this. For Paul too saith, “Like as ye have yielded your members servants to uncleanness, even so now yield your members servants to righteousness unto holiness.”<sup>2585</sup>
+
+258\. 3 “For all Thy goodness and loving kindness *to us, and to all men.*” Thanksgiving Prayer. See the Morning Thanksgiving; Const. Apost. viii. 38, and The Eucharistic Prayer, ib. c. 12. 2584 \[Luke ii. 14, as in the received text. But “among men” is the only possible rendering, whichever reading he accepted.—R.\] Rom. vi. 19. \[R.V., “sanctification.”\] 401 2586 \[“by the tongues of those;” there being a contrast in the Greek, which is obscured in the English rendering.—R.\]
+
+
+*[p. 727]* ^pg735
+
+Come let us also therefore compare the company that is made up of harlot women, and prostituted youths on the stage, and this same that consists of these blessed ones in regard of pleasure, for which most of all, many of the careless youths are taken in their snares. For we shall find the difference as great as if any one heard angels singing above that all-harmonious melody of theirs, and dogs and swine howling and grunting on the dunghill. For by the mouths of these Christ speaketh, by their tongues<sup>2586</sup>the devil.
+
+But is the sound of pipes joined to them with unmeaning noise, and unpleasing show, when cheeks are puffed out, and their strings stretched to breaking? But here the grace of the Spirit pours forth a sound, using, instead of flute or lyre or pipes, the lips of the saints.
+
+Or rather, whatever we may say, it is not possible to set forth the pleasure thereof, because of them that are riveted to their clay, and their brick-making? Therefore I would even wish to take one of those who are mad about these matters, and to lead him off there, and to show him the choir of those saints, and I should have no more need for these words. Nevertheless, though we speak unto miry ones, we will try, though by word, still by little and little, to draw them out of the slime and the fens. For there the hearer receives straightway the fire of illicit love; for as though the sight of the harlot were not enough to set the mind on fire, they add the mischief also from the voice; but here even should the soul have any such thing, it lays it aside straightway. But not their voice only, nor their countenance, but even their clothes do more than these confound the beholders. And should it be some poor man of the grosser and heedless sort, from the sight he will cry out ten thousand times in bitter despair, and will say to himself, “The harlot, and the prostituted boy, children of cooks and cobblers, and often even of slaves live in such delicacy, and I a freeman, and born of freemen, choosing honest labor, am not able so much as to imagine these things in a dream;” and thus he will go his way inflamed with discontent.
+
+But in the case of the monks there is no such result, but rather the contrary altogether. For when he shall see children of rich men and descendants of illustrious ancestors clothed in such garments as not even the lowest of the poor, and rejoicing in this, consider how great a consolation against poverty he will receive as he goes away. And should he be rich, he returns sobered, become a better man. Again in the theatre, when they see the harlot clothed with golden ornaments, while the poor man will lament, and bemoan, seeing his own wife having nothing of the kind, the rich will in consequence of this spectacle contemn and despise the partners of their home. For when the harlot present to the beholders garb and look, and voice and step, all luxurious, they depart set on fire, and enter into their own houses, thenceforth captives.
+
+*[p. 728]* ^pg736
+
+Hence the insults, and the affronts, hence the enmities, the wars, the daily deaths; hence to them that are taken captive, life is insupportable, and the partner of their home thenceforth unpleasing, and their children not as much objects of affection, and all things in their houses turned upside down, and after that they seem to be thrown into disorder by the very sunbeam.
+
+But not from these choirs does any such dissatisfaction arise, but the wife will receive her husband quiet and meek, freed from all unlawful lust, and will find him more gentle to her than before this. Such evil things doth that choir bring forth, but this good things, the one making wolves of sheep, this lambs of wolves. But as yet we have perhaps said nothing hitherto touching the pleasure.
+
+And what could be more pleasant than not to be troubled or grieved in mind, neither to despond and groan? Nevertheless, let us carry on our discourse still further, and examine the enjoyment of either kind of song and spectacle; and we shall see the one indeed continuing until evening, so long as the spectator sits in the theatre, but after this paining him more grievously than any sting; but in the other case forever vigorous in the souls of them that have beheld it. For as well the fashion of the men, and the delightfulness of the place, and the sweetness of their manner of life, and the purity, of their rule, and the grace of that most beautiful and spiritual song they have for ever infixed in them. They at least who are in continual enjoyment of those havens, thenceforth flee as from a tempest, from the tumults of the multitude.
+
+But not when singing only, and praying, but also when riveted to their books, they are a pleasing spectacle to the beholders. For after they have ended the choir, one takes Isaiah and discourses with him, another converses with the apostles, and another goes over the labors of other men, and seeks wisdom concerning God, concerning this universe, concerning the things that are seen, concerning the things that are not seen, concerning the objects of sense, and the objects of intellect, concerning the vileness of this present life, and the greatness of that to come.
+
+5\. And they are fed on a food most excellent, not setting before themselves cooked flesh of beasts; but oracles of God, beyond honey and the honey comb, a honey marvellous, and far superior to that whereon John fed of old in the wilderness. For this honey no wild bees collect, settling on the flowers, neither do lay it up in hives digesting the dew, but the grace of the Spirit forming it, layeth it up in the souls of the saints, in the place of honeycombs, and hives, and pipes, so that he that will may eat thereof continually in security. These bees then they also imitate, and hover around the honeycombs of those holy books, reaping therefrom great pleasure.
+
+And if thou desirest to learn about their table, be near it, and thou shalt see them bursting forth<sup>2587</sup>with such things, all gentle and sweet, and full of a spiritual fragrance. No
+
+ἐρευγομνου .
+
+*[p. 729]* ^pg737
+
+foul word can those spiritual mouths bring forth, nothing of foolish jesting, nothing harsh, but all worthy of Heaven. One would not be wrong in comparing the mouths of them that crawl about in the market places, and are mad after worldly things, to ditches of some mire; but the lips of these to fountains flowing with honey, and pouring forth pure streams.
+
+But if any felt displeased that I have called the mouths of the multitude ditches of some mire, let him know that I have said it, sparing them very much. For Scripture hath not used this measure, but a comparison far stronger. “For adder’s poison,” it is said, “is under their lips,<sup>2588</sup>and their throat is an open sepulchre.” But theirs are not so, but full of much fragrance.
+
+And their state here is like this, but that hereafter what speech can set before us? what thought shall conceive? the portion of angels, the blessedness unspeakable, the good things 402 untold?
+
+Perchance some are warmed now, and have been moved to a longing after this good rule of life. But what is the profit, when whilst ye are here only, ye have this fire; but when ye have gone forth, ye extinguish the flame, and this desire fades. How then, in order that this may not be? While this desire is warm in you, go your way unto those angels, kindle it more. For the account that we give will not be able to set thee on fire, like as the sight of the things. Say not, I will speak with my wife, and I will settle my affairs first. This delay is the beginning of remissness. Hear, how one desired to bid farewell to them at his house,<sup>2589</sup>and the prophet suffered him not. And why do I say, to bid farewell? The disciple desired to bury his father,<sup>2590</sup>and Christ allowed not so much as this. And yet what thing seems to thee to be so necessary as the funeral of a father? but not even this did He permit.
+
+Why could this have been? Because the devil is at hand fierce, desiring to find some secret approach; and though it be but a little hindrance or delay he takes hold of, he works a great remissness. Therefore one adviseth, “Put not off from day to day.”<sup>2591</sup> For thus shalt thou be able to succeed in most things, thus also shall the things in thine house be well ordered for thee. “For seek ye,” it is said, “the kingdom of God, and all these things shall be added unto you.”<sup>2592</sup> For if we establish in great security them that overlook their own interests, and prefer the care of ours, much more doth God, who even without these things hath a care for us, and provides for us.
+
+Be not thoughtful then about thine interests, but leave them to God. For if thou art thoughtful about them, thou art thoughtful as a man; but if God provide, He provides as
+
+258\. 8 Ps. cxl. 3 and v. 9. 2589 1 Kings xix. 20.
+
+259\. 0 Matt. viii. 21–22. 2591 Ecclus. v. 7.
+
+
+*[p. 730]* ^pg738
+
+God. Be not so thoughtful about them as to let go the greater things, since then He will not much provide for them. In order therefore that He may fully provide for them, leave them to Him alone. For if thou also thyself takest them in hand, having let go the things spiritual, He will not make much provision for them.
+
+In order then that both these things may be well disposed for thee, and that thou mayest be freed from all anxiety, cleave to the things spiritual, overlook the things of the world; for in this way thou shalt have earth also with heaven, and shalt attain unto the good things to come, by the grace and love towards man of our Lord Jesus Christ, to whom be glory and might world without end. Amen.
+
+*[p. 731]* ^pg739
+
+### Matthew XXII. 1-14.
+
+Homily LXIX.
+
+Matt. XXII. 1-14.
+
+*“And Jesus answered and spake again*<sup>2593</sup>*in parables. The kingdom of Heaven is like unto a certain king, which made a marriage*<sup>2594</sup>*for his son; and sent forth his servants to call them which were bidden to the wedding; and they would not come. Again, he sent forth other servants, saying, Tell them which are bidden, I have prepared my dinner; my oxen and my fatlings are killed, and all things are ready; come unto the marriage. But they made light of it, and went their ways, one to his farm, another to his merchandise: and the remnant took his servants,* *and entreated them spitefully, and slew them.”*<sup>2595</sup>
+
+Seest thou both in the former parable and in this the difference between the Son and the servants? Seest thou at once the great affinity between both parables, and the great difference also? For this also indicates God’s long-suffering, and His great providential care, and the Jews’ ingratitude.
+
+But this parable hath something also more than the other. For it proclaims beforehand both the casting out of the Jews, and the calling of the Gentiles; and it indicates together 403 with this also the strictness of the life required, and how great the punishment appointed for the careless.
+
+And well is this placed after the other. For since He had said, “It shall be given to a nation bringing forth the fruits thereof,” He declares next to what kind of nation; and not this only, but He also again sets forth His providential care towards the Jews as past utterance. For there He appears before His crucifixion bidding them; but here even after He is slain, He still urges them, striving to win them over. And when they deserved to have suffered the most grievous punishment, then He both presses them to the marriage, and honors them with the highest honor. And see how both there He calls not the Gentiles first, but the Jews, and here again. But as there, when they would not receive Him, but even slew Him when He was come, then He gave away the vineyard; thus here too, when they were not willing to be present at the marriage, then He called others.
+
+What then could be more ungrateful than they, when being bidden to a marriage they rush away? For who would not choose to come to a marriage, and that a King’s marriage, and of a King making a marriage for a Son?
+
+And wherefore is it called a marriage? one may say. That thou mightest learn God’s tender care, His yearning towards us, the cheerfulness of the state of things, that there is
+
+259\. 3 \[The order here is slightly varied, and “unto them” is omitted. With these exceptions the entire passage is in verbal agreement with the received text.—R.\] 2594 \[R.V., “marriage feast.”\] 2595 \[Verses 7–14 do not appear in the Greek text of Migne’s edition, but are added in the Oxford translation, and in Field’s Greek text.—R.\]
+
+
+*[p. 732]* ^pg740
+
+nothing sorrowful there, nor sad, but all things are full of spiritual joy. Therefore also John calls Him a bridegroom, therefore Paul again saith, “For I have espoused you to one husband;”<sup>2596</sup>and, “This is a great mystery, but I speak concerning Christ and the Church.”<sup>2597</sup> Why then is not the bride said to be espoused to Him, but to the Son? Because she that
+
+is espoused to the Son, is espoused to the Father. For it is indifferent in Scripture that the one or the other should be said, because of the identity<sup>2598</sup>of the substance.
+
+Hereby He proclaimed the resurrection also. For since in what went before He had spoken of the death, He shows that even after the death, then is the marriage, then the bridegroom.
+
+But not even so do these become better men nor more gentle, than which what can be worse? For this again is a third accusation. The first that they killed the prophets; then the son; afterwards that even when they had slain Him, and were bidden unto the marriage of Him that was slain, by the very one that was slain, they come not, but feign excuses, yokes of oxen, and pieces of ground, and wives. And yet the excuses seem to be reasonable; but hence we learn, though the things which hinder us be necessary, to set the things spiritual at a higher price than all.
+
+And He not suddenly, but a long time before. For, “Tell,” He saith, “them that are bidden;” and again, “Call them that were bidden;” which circumstance makes the charge against them heavier. And when were they bidden? By all the prophets; by John again; for unto Christ he would pass all on, saying, “He must increase, I must decrease;”<sup>2599</sup>by the Son Himself again, “Come unto me, all ye that labor and are heavy laden, and I will refresh you;”<sup>2600</sup>and again, “If any man thirst, let him come unto me, and drink.”<sup>2601</sup>
+
+But not by words only, but also by actions did He bid them, after His ascension by Peter, and those with him. “For He that wrought effectually in Peter,” it is said, “to the apostleship of the circumcision, was mighty also in me towards the Gentiles.”<sup>2602</sup>
+
+For since on seeing the Son, they were wroth and slew Him, He bids them again by His servants. And unto what doth He bid them? Unto labors, and toils, and sweat? Nay but unto pleasure. For, “My oxen,” He saith, “and my fatlings are killed.” See how complete His banquet,<sup>2603</sup>how great His munificence.
+
+259\. 6 2 Cor. xi. 2. 2597 Eph. v. 32. ἀπαρλλακτον . 2598 2599 John iii. 30.
+
+260\. 0 Matt. xi. 28. \[“Refresh” is the rendering of the Greek term answering to “give rest” in the English versions.—R.\] 2601 John vii. 37. 2602 Gal. ii. 8. \[R.V., “wrought for” twice; the Greek verb is the same in both clauses.—R.\] πση πανδαισα.
+
+
+*[p. 733]* ^pg741
+
+And not even this shamed them, but the more long-suffering He showed, so much the more were they hardened. For not for press of business, but from “making light of it,” they did not come.
+
+“How then do some bring forward marriages, others yokes of oxen? these things surely are of want of leisure.”
+
+By no means, for when spiritual things call us, there is no press of business that has the power of necessity.
+
+And to me they seem moreover to make use of these excuses, putting forward these things as cloke for their negligence. And not this only is the grievous thing, that they came not, but also that which is a far more violent and furious act, to have even beaten them that came, and to have used them despitefully, and to have slain them; this is worse than the former. For those others came, demanding produce and fruits, and were slain; but these, bidding them to the marriage of Him that had been slain by them, and these again are 404 murdered.
+
+What is equal to this madness? This Paul also was laying to their charge, when he said, “Who both killed the Lord, and their own prophets, and have persecuted us.”<sup>2604</sup>
+
+Moreover, that they may not say, “He is an adversary of God, and therefore we do not come,” hear what they say who are bidding them; that it is the father who is making the marriage, and that it is He who is bidding them.
+
+What then did He after these things? Since they were not willing to come, yea and also slew those that came unto them; He burns up their cities, and sent His armies and slew them.
+
+And these things He saith, declaring beforehand the things that took place under Vespasian and Titus, and that they provoked the father also, by not believing in Him; it is the father at any rate who was avenging.
+
+And for this reason let me add, not straightway after Christ was slain did the capture take place, but after forty years, that He might show His long suffering, when they had slain Stephen, when they had put James to death, when they had spitefully entreated the apostles.
+
+Seest thou the truth of the event, and its quickness? For while John was yet living, and many other of them that were with Christ, these things came to pass, and they that had heard these words were witnesses of the events.
+
+See then care utterable. He had planted a vineyard; He had done all things, and finished; when His servants had been put to death, He sent other servants; when those had been slain, He sent the son; and when He was put to death, He bids them to the marriage. They would not come. After this He sends other servants, and they slew these also.
+
+1 Thess. ii. 15. \[R.V., “and drove out us.”\]
+
+*[p. 734]* ^pg742
+
+Then upon this He slays them, as being incurably diseased. For that they were incurably diseased, was proved not by their acts only, but by the fact, that even when harlots and publicans had believed, they did these things. So that, not by their own crimes alone, but also from what others were able to do aright, these men are condemned,
+
+But if any one should say, that not then were they out of the Gentiles called, I mean, when the apostles had been beaten and had suffered ten thousand things, but straightway after the resurrection (for then He said to them, “Go ye and make disciples of all nations.”<sup>2605</sup>) We would say, that both before the crucifixion, and after the crucifixion, they addressed themselves to them first. For both before the crucifixion, He saith to them, “Go to the lost sheep of the house of Israel;”<sup>2606</sup>and after the crucifixion, so far from forbidding, He even commanded them to address themselves to the Jews. For though He said, “Make disciples of all nations,” yet when on the point of ascending into Heaven, He declared that unto those first they were to address themselves; For, “ye shall receive power,” saith He, “after that the Holy Ghost is come upon you, and ye shall be witnesses unto me both in Jerusalem, and in all Judæa, and unto the uttermost part of the earth;”<sup>2607</sup>and Paul again, “He that wrought effectually in Peter to the apostleship of the circumcision, was mighty in me also toward the Gentiles.”<sup>2608</sup> Therefore the apostles also went first unto the Jews, and when they had tarried a long time in Jerusalem, and then had been driven away by them, in this way they were scattered abroad unto the Gentiles.
+
+2\. And see thou even herein His bounty; “As many as ye shall find,” saith He, “bid to the marriage.” For before this, as I said, they addressed themselves both to Jews and Greeks, tarrying for the most part in Judæa; but since they continued to lay plots against them, hear Paul interpreting this parable, and saying thus, “It was necessary that the word of God should first have been spoken to you, but since ye judge yourselves unworthy, lo, we turn to the Gentiles.”<sup>2609</sup>
+
+Therefore Christ also saith, “The wedding is ready, but they which were bidden were not worthy.”
+
+He knew this indeed even before, but that He might leave them no pretext of a shameless sort of contradiction, although He knew it, to them first He both came and sent, both stopping their mouths, and teaching us to fulfill all our parts, though no one should derive any profit.
+
+Since then they were not worthy, go ye, saith He, into the highways, and as many as ye shall find, bid; both the common sort, and the outcasts. For because He had said in every
+
+260\. 5 Matt. xxviii. 19. 2606 Matt. x. 6. 2607 Acts i. 8. 2608 Gal. ii. 8. \[Comp. note 7, p. 421.\] Acts xiii. 46. \[Slightly abridged.\]
+
+
+*[p. 735]* ^pg743
+
+way,<sup>2610</sup>“The harlots and publicans shall inherit heaven;” and, “The first shall be last, and the last first;” He shows that justly do these things come to pass; which more than anything stung the Jews, and goaded them far more grievously than their overthrow, to see those from the Gentiles brought into their privileges, and into far greater than theirs.
+
+405 Then in order that not even these should put confidence in their faith alone, He discourses unto them also concerning the judgment to be passed upon wicked actions; to them that have not yet believed, of coming unto Him by faith, and to them that have believed, of care with respect to their life. For the garment is life and practice.
+
+And yet the calling was of grace; wherefore then doth He take a strict account? Because although to be called and to be cleansed was of grace, yet, when called and clothed in clean garments, to continue keeping them so, this is of the diligence of them that are called.
+
+The being called was not of merit, but of grace. It was fit therefore to make a return for the grace, and not to show forth such great wickedness after the honor. “But I have not enjoyed,” one may say, “so much advantage as the Jews.” Nay, but thou hast enjoyed far greater benefits. For what things were being prepared for them throughout all their time, these thou hast received at once, not being worthy. Wherefore Paul also saith, “And that the Gentiles might glorify God for His mercy.”<sup>2611</sup> For what things were due to them, these thou hast received.
+
+Wherefore also great is the punishment appointed for them that have been remiss. For as they did despite by not coming, so also thou by thus sitting down with a corrupt life. For to come in with filthy garments is this namely, to depart hence having one’s life impure; wherefore also he was speechless.
+
+Seest thou how, although the fact was so manifest, He doth not punish at once, until he himself, who has sinned, has passed the sentence? For by having nothing to reply he condemned himself, and so is taken away to the unutterable torments.
+
+For do not now, on hearing of darkness, suppose he is punished by this, by sending into a place where there is no light only, but where “there is” also “weeping and gnashing of teeth.”<sup>2612</sup> And this He saith, indicating the intolerable pains.
+
+Hear ye, as many as having partaken of the mysteries, and having been present at the marriage, clothe your souls with filthy deeds. Hear whence ye were called.
+
+From the highway. Being what? Lame and halt in soul, which is a much more grievous thing than the mutilation of the body. Reverence the love of Him, who called you, and let no one continue to have filthy garments, but let each of you busy himself about the clothing of your soul.
+
+261\. 0 Or, “repeatedly.” 2611 Rom. xv. 9.
+
+
+*[p. 736]* ^pg744
+
+Hear, ye women; hear, ye men; we need not these garments that are bespangled with gold, *that adorn our outward parts*,<sup>2613</sup>but those others, that adorn the inward. Whilst we have these former, it is difficult to put on those latter. It is not possible at the same time to deck both soul and body. It is not possible at the same time both to serve mammon, and to obey Christ as we ought.
+
+Let us put off us therefore this grievous tyranny. For neither if any one were to adorn thy house by hanging it with golden curtains, and were to make thee sit there in rags, naked, wouldest thou endure it with meekness. But lo, now thou doest this to thyself, decking the house of thy soul, I mean the body, with curtains beyond number, but leaving the soul itself to sit in rags. Knowest thou not that the king ought to be adorned more than the city? so therefore while for the city hangings are prepared of linen, for the king there is a purple robe and a diadem. Even so do thou wrap the body with a much meaner dress, but the mind do thou clothe in purple, and put a crown on it, and set it on a high and conspicuous chariot. For now thou art doing the opposite, decking the city in various ways, but suffering the king, the mind, to be dragged bound after the brute passions.
+
+Rememberest thou not, that thou art bidden to a marriage, and to God’s marriage? Considerest thou not how the soul that is bidden ought to enter into those chambers, clad, and decked with fringes of gold.
+
+3\. Wilt thou that I show thee them that are clad thus, them that have on a marriage garment?
+
+Call to mind those holy persons, of whom I discoursed to you of late, them that wear garments of hair, them that dwell in the deserts. These above all are the wearers of the garments of that wedding; this is evident from hence, that how many soever purple robes thou wert to give them, they would not choose to receive them; but much as a king, if any one were to take the beggar’s rags, and exhort him to put them on, would abhor the clothing, so would those persons also his purple robe. And from no other cause have they this feeling, but because of knowing the beauty of their own raiment. Therefore even that purple robe they spurn like the spider’s web. For these things hath their sackcloth taught them; for indeed they are far more exalted and more glorious than the very king who reigns.
+
+And if thou wert able to open the doors of the mind, and to look upon their soul, and 406 all their ornaments within, surely thou wouldest fall down upon the earth, not bearing the glory of their beauty, and the splendor of those garments, and the lightning brightness of their conscience.
+
+For we could tell also of men of old, great and to be admired; but since visible examples lead on more those of grosser souls, therefore do I send you even to the tabernacles of those holy persons. For they have nothing sorrowful, but as if in heaven they had pitched their
+
+\[The clause in italics is not found in the mss. collated by Field, but occurs in the Benedictine edition.—R.\]
+
+*[p. 737]* ^pg745
+
+tents, even so are they encamped far off the wearisome things of this present life, in campaign against the devils; and as in choirs, so do they war against him. Therefore I say, they have fixed their tents, and have fled from cities, and markets, and houses. For he that warreth cannot sit in a house, but he must make his habitation of a temporary kind, as on the point of removing straightway, and so dwell. Such are all those persons, contrary to us. For we indeed live not as in a camp, but as in a city at peace.
+
+For who in a camp ever lays foundation, and builds himself a house, which he is soon after to leave? There is not one; but should any one attempt it, he is put to death as a traitor. Who in a camp buys acres of land, and makes for himself trades? There is not one, and very reasonably. “For thou art come here,” they would say, “to fight, not to traffic; why then dost thou trouble thyself about the place, which in a little time thou wilt leave? When we are gone away to our country, do these things.”
+
+The same do I now say to thee also. When we have removed to the city that is above, do these things: or rather thou wilt have no need of labors there; after that the king will do all things for thee. But here it is enough to dig a ditch round only, and to fix a palisade, but of building houses there is no need.
+
+Hear what was the life of the Scythians, that lived in their wagons, such, as they say, are the habits of the shepherd tribes. So ought Christians to live; to go about the world, warring against the devil, rescuing the captives held in subjection by him, and to be in freedom from all worldly things.
+
+Why preparest thou a house, O man, that thou mayest bind thyself more? Why dost thou bury a treasure, and invite the enemy against thyself? Why dost thou compass thyself with walls, and prepare a prison for thyself?
+
+But if these things seem to thee to be hard, let us go away unto the tents of those men, that by their deeds we may learn the easiness thereof. For they having set up huts, if they must depart from these, depart like as soldiers, having left their camp in peace. For so likewise are they encamped, or rather even much more beautifully.
+
+For indeed it is more pleasant to behold a desert containing huts of monks in close succession, than soldiers stretching the canvas in a camp, and fixing spears, and suspending from the point of the spears saffron garments,<sup>2614</sup>and a multitude of men having heads of brass, and the bosses of the shields glistening much, and men armed all throughout with steel, and royal courts hastily made, and ground levelled far, and men dining and piping. For neither is this spectacle so delightful as that of which I now speak.
+
+For if we were to go away into the wilderness, and look at the tents of Christ’s soldiers, we shall see not canvas stretched, neither points of spears, nor golden garments making a royal pavilion; but like as if any one upon an earth much larger than this earth, yea infinite,
+
+φρη κροκωτ.
+
+*[p. 738]* ^pg746
+
+had stretched out many heavens, strange and awful would be the sight he showed; even so may one see here.
+
+For in nothing are their lodging-places in a condition inferior to the heavens; for the angels lodge with them, and the Lord of the angels. For if they came to Abraham, a man having a wife, and bringing up children, because they saw him hospitable; when they find much more abundant virtue, and a man delivered from the body, and in the flesh disregarding the flesh, much more do they tarry there, and celebrate the choral feast that becomes them. For there is moreover a table amongst them pure from all covetousness, and full of self-denial.
+
+No streams of blood are amongst them, nor cutting up of flesh, nor heaviness of head, nor dainty cooking, neither are there unpleasing smells of meat amongst them, nor disagreeable smoke, neither runnings and tumults, and disturbances, and wearisome clamors; but bread and water, the latter from a pure fountain, the former from honest labor. But if any time they should be minded to feast more sumptuously, their sumptuousness consists of fruits, and greater is the pleasure there than at royal tables. There is no fear there, or trembling; no ruler accuses, no wife provokes, no child casts into sadness, no dis orderly mirth dissipates, no multitude of flatterers puffs up; but the table is an angel’s table free from all such turmoil.
+
+And for a couch they have grass only beneath them, like as Christ did when making a 407 dinner in the wilderness. And many of them do this, not being even under shelter, but for a roof they have heaven, and the moon instead of the light of a candle, not wanting oil, nor one to attend to it; on them alone does it shine worthily from on high.
+
+4\. This table even angels from heaven beholding are delighted and pleased. For if over one sinner that repenteth they rejoice, over so many just men imitating them, what will they not do? There are not master and slave; all are slaves, all free men. And do not think the saying to be a dark proverb, for they are indeed slaves one of another, and masters one of another.
+
+They have no occasion to be in sadness when evening has overtaken them, as many men feel, revolving the anxious thoughts that spring from the evils of the day. They have no occasion after their supper to be careful about robbers, and to shut the doors, and to put bars against them, neither to dread the other ills, of which many are afraid, extinguishing their candles with strict care, lest a spark anywhere should set the house on fire.
+
+And their conversation again is full of the same calm. For they talk not of these things, whereof we discourse, that are nothing to us; such a one is made governor, such a one has ceased to be governor; such a one is dead, and another has succeeded to the inheritance, and all such like, but always about the things to come do they speak and seek wisdom; and as though dwelling in another world, as though they had migrated unto heaven itself, as living there, even so all their conversation is about the things there, about Abraham’s bosom,
+
+*[p. 739]* ^pg747
+
+about the crowns of the saints, about the choiring with Christ; and of things present they have neither any memory nor thought, but like as we should not deign to speak at all of what the ants do in their holes and clefts; so neither do they of what we do; but about the King that is above, about the war in which they are engaged, about the devil’s crafts, about the good deeds which the saints have achieved.
+
+Wherein therefore are we different from ants, when compared with them? For like as they care for the things of the body, so also do we; and would it were for these alone: but now it is even for things far worse. For not for necessary things only do we care like them, but also for things superfluous. For those insects pursue a business free from all blame, but we follow after all covetousness, and not even the ways of ants do we imitate, but the ways of wolves, but the ways of leopards, or rather we are even worse than these. For to them nature has assigned that they should be thus fed, but us God hath honored with speech, and a sense of equity,<sup>2615</sup>and we are become worse than the wild beasts.
+
+And whereas we are worse than the brutes, those men are equal to the angels, being strangers and pilgrims as to the things here; and all things in them are made different from us, clothing, and food, and house, and shoes, and speech. And if any one were to hear them conversing and us, then he would know full well, how they indeed are citizens of heaven, but we are not worthy so much as of the earth.
+
+So that therefore, when any one invested with rank is come unto them, then is all inflated pride found utterly vain. For the laborer there, and he that hath no experience of worldly affairs, sits near him that is a commander of troops, and prides himself on his authority, upon the grass, upon a mean cushion. For there are none to extol him, none to puff him up; but the same result takes place, as if any one were to go to a goldsmith, and a garden of roses, for he receives some brightness from the gold and from the roses; so they too, gaining a little from the splendor of these, are delivered from their former arrogance. And like as if any were to go upon a high place, though he be exceedingly short, he appears high; so these too, coming unto their exalted minds, appear like them, so long as they abide there, but when they are gone down are abased again, on descending from that height.
+
+A king is nothing amongst them, a governor is nothing; but like as we, when children are playing at these things, laugh; so do they also utterly spurn the inflamed pride of them who strut without. And this is evident from hence, that if any one would give them a kingdom to possess in security, they would never take it; yet they would take it, unless their thoughts were upon what is greater than it, unless they accounted the thing to be but for a season.
+
+What then? Shall we not go over unto blessedness so great? Shall we not come unto these angels; shall we not receive clean garments, and join in the ceremonies of this wedding feast; but shall we continue begging, in no respect in a better condition than the poor in the
+
+ἰσονομ.
+
+*[p. 740]* ^pg748
+
+streets, or rather in a state far worse and more wretched? For much worse than these are they that are rich in evil ways, and it is better to beg than to spoil, for the one hath excuse, but the other brings punishment; and the beggar in no degree offends God, but this other both men and God; and undergoes the labors of rapine, but all the enjoyment thereof other 408
+
+men often reap.
+
+Knowing then these things, let us lay aside all covetousness, and covet the things above, with great earnestness “taking the kingdom by force.”<sup>2616</sup> For it cannot be, it cannot be that any one who is remiss should enter therein.
+
+But God grant that we all having become earnest, and watchful may attain thereto, by the grace and love towards man of our Lord Jesus Christ, to whom be glory and might, world without end. Amen.
+
+*[p. 741]* ^pg749
+
+### Matthew XXII. 15.
+
+Homily LXX.
+
+Matt. XXII. 15.
+
+“Then went the Pharisees, and took counsel how they might entangle Him in His talk.” Then. When? When most of all they ought to have been moved to compunction, when they should have been amazed at His love to man, when they should have feared the things to come, when from the past they ought to have believed touching the future also. For indeed the things that had been said cried aloud in actual fulfillment. I mean, that publicans and harlots believed, and prophets and righteous men were slain, and from these things they ought not to have gainsaid touching their own destruction, but even to believe and to be sobered.
+
+But nevertheless not even so do their wicked acts cease, but travail and proceed further. And forasmuch as they could not lay hands on Him (for they feared the multitude), they took another way with the intention of bringing Him into danger, and making Him guilty of crimes against the state.
+
+For “they sent out unto Him their disciples with the Herodians saying, Master, we know that thou art true, and teachest the way of God in truth, neither carest thou for any man; for thou regardest not the person of men. Tell us therefore, What thinkest thou? Is it lawful to give tribute unto Cæsar or not?”<sup>2617</sup>
+
+For they were now tributaries, their state having passed under the rule of the Romans. Forasmuch then as they saw that Theudas and Judas<sup>2618</sup>with their companies for this cause were put to death, as having prepared for a revolt, they were minded to bring Him too by these words into such a suspicion. Therefore they sent both their own disciples, and Herod’s soldiers, digging, as they thought, a precipice on either side, and in every direction setting the snare, so that, whatever He should say, they might lay hold of it; and if He should answer in favor of the Herodians, themselves might find fault with Him, but if in their favor, the others should accuse Him. And yet He had given the didrachmas,<sup>2619</sup>but they knew not that.
+
+And in either way indeed they expected to lay hold of Him; but they desired rather that He should say something against the Herodians. Wherefore they send their disciples also to urge Him thereto by their presence, that they might deliver Him to the governor as an usurper. For this Luke also intimates and shows, by saying, that they asked also in the presence of the multitude, so that the testimony should be the stronger.
+
+But the result was altogether opposite; for in a larger body of spectators they afforded the demonstration of their folly.
+
+261\. 7 Matt. xxii. 16, 17. 2618 Acts v. 36, 37.
+
+
+*[p. 742]* ^pg750
+
+And see their flattery, and their hidden craft. “We know,” their words are, “that Thou art true.” How said ye then, “He is a deceiver,” and “deceiveth the people,” and “hath a devil,” and “is not of God?”<sup>2620</sup>how a little while before did ye devise to slay Him?
+
+But they are at everything, whatsoever their craft against Him may suggest. For since, when a little before they had said in self will, “By what authority doest Thou these things?”<sup>2621</sup>they did not meet with an answer to the question, they look to puff Him up by their flattery, and to persuade Him to say something against the established laws, and opposed 409 to the prevailing government.
+
+Wherefore also they testify the truth unto Him, confessing what was really so, nevertheless, not with an upright mind, nor willingly; and add thereto, saying, “Thou carest not for any man.” See how plainly they are desiring to urge Him to these sayings, that would make Him both offend Herod, and incur the suspicion of being an usurper, as standing up against the laws, so that they might punish Him, as a mover of sedition, and an usurper. For in saying, “Thou carest not for any man,” and, “Thou regardest not the person of man,” they were hinting at Herod and Cæsar.
+
+“Tell us therefore, what thinkest Thou?” Now ye honor Him, and esteem Him a Teacher, having despised and insulted Him oftentimes, when He was discoursing of the things that concern your salvation. Whence also they are become confederates.
+
+And see their craftiness. They say not, Tell us what is good, what is expedient, what is lawful? but, “What thinkest Thou?” So much did they look to this one object, to betray Him, and to set Him at enmity with the rulers. And Mark declaring this, and more plainly discovering their self-will, and their murderous disposition, affirms them to have said, “Shall we give Cæsar tribute, or shall we not give?”<sup>2622</sup> So that they were breathing anger, and travailing with a plot against Him, yet they feigned respect.
+
+What then saith He? “Why tempt ye me, ye hypocrites?” Seest thou how He talks with them with more than usual severity? For since their wickedness was now complete and manifest, He cuts the deeper, first confounding and silencing them, by publishing their secret thoughts, and making it manifest to all with what kind of intent they are coming unto Him.
+
+And these things He did, repulsing their wickedness, so that they might not suffer hurt in attempting the same things again. And yet their words were full of much respect, for they both called Him Master, and bore witness to His truth, and that He was no respecter of persons; but being God, He was deceived by none of these things. Wherefore they also ought
+
+262\. 0 John vii. 12; viii. 48; ix. 16. 2621 Matt. xxi. 23. Mark xii. 15.
+
+
+*[p. 743]* ^pg751
+
+to have conjectured, that the rebuke was not the result of conjecture, but a sign of His knowing their secret thoughts.
+
+2\. He stopped not, however, at the rebuke, although it was enough merely to have convicted them of their purpose, and to have put them to shame for their wickedness; but He stoppeth not at this, but in another way closes their mouths; for, “Shew me,” saith He, “the tribute money.” And when they had shown it, as He ever doth, by their tongue He brings out the decision, and causes them to decide, that it is lawful; which was a clear and plain victory. So that, when He asks, not from ignorance doth He ask, but because it is His will to cause them to be bound by their own answers. For when, on being asked, “Whose is the image?” they said, “Cæsar’s;” He saith, “Render unto Cæsar the things that are Cæsar’s.”<sup>2623</sup> For this is not to give but to render, and this He shows both by the image, and by the superscription.
+
+Then that they might not say, Thou art subjecting us to men, He added, “And unto God the things that are God’s.” For it is possible both to fulfill to men their claims and to give unto God the things that are due to God from us. Wherefore Paul also saith, “Render unto all their dues; tribute to whom tribute is due, custom to whom custom, fear to whom fear.”<sup>2624</sup>
+
+But thou, when thou hearest, “Render unto Cæsar the things which are Cæsar’s,” know that He is speaking only of those things, which are no detriment to godliness; since if it be any such thing as this, such a thing is no longer Cæsar’s tribute, but the devil’s.
+
+When they heard these things, their mouths were stopped, and they “marvelled” at His wisdom. Ought they not then to have believed, ought they not to have been amazed. For indeed, He gave them proof of His Godhead, by revealing the secrets of their hearts, and with gentleness did He silence them.
+
+What then? did they believe? By no means, but they “left Him, and went their way;” and after them, “came to Him the Sadducees.”
+
+O folly! When the others had been put to silence, these made the attack, when they ought to have been the more backward. But such is the nature of rashness, shameless, and importunate, and attempting things impossible. Therefore the evangelist also, amazed at their folly, signified this very thing, by saying, “On that day came to Him.”<sup>2625</sup> On that day. On what day? In which He had convicted their craftiness, and put them to shame. But who
+
+262\. 3 Matt. xxii. 20, 21. \[Abridged.\] 2624 Rom. xiii. 7. 2625 Matt. xxii. 22, 23. \[The article may not form part of the citation. It does not occur in the New Testament passage.—R.\]
+
+
+*[p. 744]* ^pg752
+
+are these? A sect of the Jews dif ferent from the Pharisees, and much worse than they, who said, “that there is no resurrection, nor angel, nor spirit.”<sup>2626</sup> For these were some of a grosser sort, and eager after the things of the body. For there were many sects even amongst the Jews. Wherefore Paul also saith, “I am a Pharisee, of the strictest sect amongst us.”<sup>2627</sup> 410 And they say nothing indeed directly about a resurrection; but they feign a story, and
+
+make up a case, which, as I suppose, never so much as had an existence; thinking to drive Him to perplexity, and desiring to overthrow both things, both the existence of a resurrection, and of such a resurrection.
+
+And again, these too attack Him with a show of moderation, saying, “Master, Moses said, If a man die, not having children, his brother shall marry his wife, and raise up seed unto his brother. Now there were with us seven brethren: and the first, when he had married a wife, deceased; and, having no issue,<sup>2628</sup>left his wife unto his brother. Likewise the second also, and the third, unto the seventh. And last of all the woman died also. Therefore, in the resurrection, whose wife shall she be of the seven?”<sup>2629</sup>
+
+See Him answering these like a teacher. For though out of craft they came unto Him, yet was their question rather one of ignorance. Therefore neither doth He say unto them, “Ye hypocrites.”
+
+Moreover, in order that He might not blame, saying, “Wherefore had seven one wife?” they add the authority of Moses; although, as I have said before, it was a fiction, in my judgment at least. For the third would not have taken her, when he saw the two bridegrooms dead; or if the third, yet not the fourth or the fifth; and if even these, much more the sixth or the seventh would not have come unto the woman, but have shrunk from her. For such is the nature of the Jews. For if now many have this feeling, much more then had they; when at least, even without this, they often avoided marrying in this way, and that when the law was constraining them. Thus, at any rate, Ruth, that Moabitish woman, was thrust off to him that was further off from her kindred; and Tamar too was thus compelled to obtain, by stealth, seed from her husband’s kinsman.
+
+And wherefore did they not feign two or three, but seven? In order the more abundantly to bring derision, as they thought, upon the resurrection. Wherefore they further say, “they all had her,” as driving Him into some difficulty.
+
+What then saith Christ? He replies unto both, as taking His stand not against the words, but the purpose, and on every occasion revealing the secrets of their hearts; and at one time exposing them, at another time leaving the refutation of them that question Him to their
+
+262\. 6 Acts xxiii. 8. 2627 Acts xxiii. 6, and xxvi. 5. 2628 \[R.V., “seed.”\] 2629 Matt. xxii. 24–28. \[With the trifling variations the Greek of these verses agrees with the received text.—R.\] 411
+
+
+*[p. 745]* ^pg753
+
+conscience. See, at any rate here, how He proves both points, as well that there will be a resurrection, as that it will not be such a resurrection as they suspect.
+
+For what saith He? “Ye do err, not knowing the Scriptures, nor the power of God.”<sup>2630</sup> For since, as if they knew them, they put forward Moses and the law, He shows that this question is that of men very ignorant of the Scriptures. For hence also arose their tempting Him, from their being ignorant of the Scriptures, and from their not knowing the power of God as they ought.
+
+“For what marvel then is it,” He saith, “if ye tempt me, who am as yet unknown to you, when at least ye know not so much as the power of God, of which ye have had so much experience, and neither from common sense nor from the Scriptures have become acquainted with it;” if indeed even common sense causes us to know this, that to God all things are possible. And in the first place He answers to the question asked. For since this was the cause for their not believing a resurrection, that they think the order of things is like this, He cures the cause, then the symptom also (for thence arose the disease too), and shows the manner of the resurrection. “For in the resurrection,” saith He, “they neither marry, nor are given in marriage, but are as angels of God in Heaven.”<sup>2631</sup> But Luke saith, “As Sons of God.”<sup>2632</sup>
+
+If then they marry not, the question is vain. But not because they do not marry, therefore are they angels, but because they are as angels, therefore they do not marry. By this He removed many other difficulties also, all which things Paul intimated by one word, saying, “For the fashion of this world passeth away.”<sup>2633</sup>
+
+And by these words He declared how great a thing the resurrection is; and that moreover there is a resurrection, He proves. And indeed this too was demonstrated at the same time by what He had said, nevertheless over and above He adds again to His word by what He saith now. For neither at their question only did He stop, but at their thought. Thus when they are not dealing with great craft, but are asking in ignorance, He teaches even over and above, but when it is of wickedness only, not even to their question doth He answer.
+
+And again by Moses doth He stop their mouths, since they too had brought forward Moses; and He saith, “But as touching the resurrection of the dead, have ye not read, I am the God of Abraham, and the God of Isaac, and the God of Jacob? He is not the God of the dead, but of the living.”<sup>2634</sup> Not of them that are not His meaning is, and that are utterly
+
+263\. 0 Matt. xxii. 29. 2631 Matt. xxii. 30. \[The second verb is peculiar, but conveys the same sense as the received text.—R.\] 2632 Luke xx. 36. 2633 1 Cor. vii. 31. 2634 Matt. xxii. 31, 32. \[In the last clause the text differs from the received, ὁ θε being omitted (so Tischendorf). The R.V. follows a slightly different reading: “God is not the God,” etc.—R.\]
+
+
+*[p. 746]* ^pg754
+
+blotted out, and are to rise no more. For He said not, I was, but, I am; of them that are, and them that live. For like as Adam, although he lived on the day that he ate of the tree, died in the sentence: even so also these, although they had died, lived in the promise of the resurrection.
+
+How then doth He say elsewhere, “That He might be Lord both of the dead and of the living?”<sup>2635</sup> But this is not contrary to that. For here He speaks of the dead, who are also themselves to live. And moreover too, “I am the God of Abraham,” is another thing from, “That He might be Lord both of the dead and of the living.” He knew of another death too, concerning which He saith, “Let the dead bury their dead.”<sup>2636</sup>
+
+“And when the multitudes heard this, they were astonished at His doctrine.”<sup>2637</sup> Yet not even here the Sadducees; but these go away defeated, while the impartial multitude reap the benefit.
+
+Since then the resurrection is like this, come let us do all things, that we may obtain the first honors there. But, if ye will, let us show you some even before the resurrection here pursuing and reaping these blessings, again having made our resort to the deserts. For again will I enter upon the same discourse, since I see you listening with more pleasure.
+
+Let us behold then to-day also the spiritual camps, let us behold their pleasure unalloyed with fear. For not with spears are they encamped like the soldiers, for at this point I lately ended my discourse, neither with shields and breastplates; but bare of all these wilt thou see them, yet achieving such things, as not even with arms do they.
+
+And if thou art able to observe, come and stretch forth thy hand to me, and let us go unto this war, both of us, and let us see their battle array. For these too fight every day, and slay their adversaries, and conquer all the lusts that are plotting against us; and thou wilt see these cast out on the ground, and not able so much as to struggle, but proving by very deed that saying of the apostle, “They that are Christ’s have crucified the flesh with the affections and lusts.”<sup>2638</sup>
+
+Seest thou a multitude of dead lying there, slain by the sword of the Spirit? Therefore in that place is no drunkenness nor gluttony. And their table proves it, and the trophy that is set thereon. For drunkenness and gluttony lie dead, put to the rout by the drinking of water, though this be multiform, and a many-headed monster. For like as in the fabled Scylla and Hydra, so in drunkenness may one see many heads, on one side fornication growing up, on another wrath; on one hand sloth, on another lawless lusts; but all these things are taken away. And yet all those other armies, though they get the better in ten thousand wars,
+
+263\. 5 Rom. xiv. 9. 2636 Matt. viii. 22. 2637 Matt. xxii. 33. Gal. v. 24.
+
+
+*[p. 747]* ^pg755
+
+are taken captive by these; and neither arms, nor spears, nor whatever else there may be, is able to stand against these phalanxes; but the very giants, the heroes, those that do countless brave deeds, thou wilt find without bonds bound by sleep and drunkenness, without slaughter or wounds lying like the wounded, or rather in more grievous case. For those at least struggle; but these do not even this, but straightway give up.
+
+Seest thou that this host is greater and more to be admired? For the enemies that got the better of the others it destroys by its mere will. For they do so weaken the mother of all their evils, that she cannot even trouble them any more; and the leader being overthrown, and the head removed, the rest of the body also lies still.
+
+And this victory one may see each of them, that abide there, achieving. For it is not as in these wars of ours, where, if any enemy hath received a blow from one, he is no more grievous to another, having been once overthrown; but it is necessary for all to smite this monster; and he that hath not smitten and overthrown her, is surely troubled by her.
+
+Seest thou a glorious victory? For such a trophy as the hosts in all parts of the world having met together have not power to erect, this each one of those men erects; and all things that from the army of drunkenness lie mingled together wounded, delirious words of frenzy, insane thoughts, unpleasing haughtiness. And they imitate their own Lord, at whom the Scripture marvelling saith, “He shall drink of the brook in the way, therefore shall He lift up the head.”<sup>2639</sup>
+
+Would ye see also another multitude of dead? Let us see the lusts that arise from luxurious living, those that are cherished by the makers of sauces, by the cooks, the furnishers of feasts, 412 the confectioners. For I am ashamed indeed to speak of all; however, I will tell of the birds from Phasis, the soups that are mixed from various things: the moist, the dry dishes, the laws made about these things. For like as if ordering some city and marshalling hosts, even so these too make laws, and ordain such a thing first, and such a thing second, and some bring in first birds roasted on the embers, filled within with fish; and others make of other material the beginnings of these unlawful feasts; and there is much rivalry about these things, about quality, and about order, and about quantity; and they take a pride in the things, for which they ought to bury themselves for shame; some saying that they have spent the half of the day, some all of it, some that they have added the night too. Behold, O wretched man, the measure of thy belly, and be ashamed of thy unmeasured earnestness!
+
+But there is nothing like this amongst those angels; but all these desires also are dead. For their meals are not unto fullness, and unto luxurious living, but unto necessity. No bird hunters are there, no fishermen, but bread and water. But this confusion, and the disturbance, and the turmoils, are all removed from thence, alike from the house and from the body, and great is the haven, but amongst these great the tempest.
+
+*[p. 748]* ^pg756
+
+Burst open now in thought the belly of them who feed on such things, and thou wilt see the vast refuse, and the unclean channel, and the whited sepulchre.
+
+But what come after these I am even ashamed to tell, the disagreeable eructations, the vomitings, the discharges downwards and upwards.
+
+But go and see even these desires dead there, and those more violent lusts that spring from these; I mean, those of impurity. For these too thou wilt see all overthrown, with their horses, with their beasts of burden. For the beast of burden, and the weapon, and the horse of a filthy deed, is a filthy word. But thou wilt see such like horse and rider together, and their weapons thrown down; but here quite the contrary, and souls cast down dead. But not at their meal only is the victory of these holy men glorious, but in the other things also, in money, in glory, in envy, in all diseases of the soul.
+
+Surely does not this host seem to thee mightier than that, and the meal better? Nay, who will gainsay it? None, not even of those persons themselves, though he be very mad. For this guides us on to Heaven, that drags to hell; this the devil lays out, that Christ; for this luxury gives laws, and intemperance, for that self-denial and sobriety, here Christ is present, there the devil. For where there is drunkenness, the devil is there; where there are filthy words, where there is surfeiting, there the devils hold their choirs. Such a table had that rich man, therefore not even of a drop of water was he master.
+
+But these have not such a table, but they already practise the ways of the angels. They marry not, they are not given in marriage, neither do they sleep excessively, nor live luxuriously, but except a few things they are even bodiless.
+
+Now who is there that so easily overcomes his enemies as he that sets up a trophy while at his dinner? Therefore also the prophet saith, “Thou hast prepared a table before me, in the presence of them that trouble me.”<sup>2640</sup> One could not be wrong in repeating this oracle about this table. For nothing so troubles a soul as disorderly concupiscence, and luxury, and drunkenness, and the evils that spring from these; and this they know full well who have had experience thereof.
+
+And if thou wast to learn also, whence this table is procured, and whence that; then thou wouldest see well the difference between each. Whence then is this procured. From countless tears, from widows defrauded, from orphans despoiled; but the other from honest labor. And this table is like to a fair and well-favored woman, needing nothing external, but having her beauty from nature; but that to some ugly and ill-favored harlot, wearing much paint, but not able to disguise her deformity, but the nearer she is, the more convicted. For this too, when it is nearer to him that is at it, then shows its ugliness more. For look not I tell thee, at the banqueters, as they come only, but also as they go away, and then thou wilt see its ugliness. For that, as being free, suffers them that come unto it to say nothing
+
+*[p. 749]* ^pg757
+
+shameful; but this nothing seemly, as being a harlot, and dishonored. This seeks the profit of him that is at it, that the hurt. And one permits not to offend God, the other permits not but that we must offend Him.
+
+Let us go away therefore unto those men. Thence we shall learn with how many bonds we are encompassed. Thence shall we learn to set before ourselves a table full of countless blessings, most sweet, without cost, delivered from care, free from envy and jeal ousy and every disease, and full of good hope, and having its many trophies. No turmoil of soul there, no sorrow, no wrath; all is calm, all is peace.
+
+For tell me not of the silence of them that serve in the houses of the rich, but of the 413 clamor of them that dine; I mean, not that which they make one to another (for this too is worthy of derision), but that within, that in the soul, that brings on them a great captivity, the tumults of the thoughts, the sleet, the darkness, the tempest, by which all things are mingled and confused, and are like to some night battle. But not in the monks’ tents are such things as these; but great is the calm, great the quietness. And that table is succeeded by a sleep that is like death, but this by sobriety and wakefulness; that by punishment, this by the kingdom of heaven, and the immortal rewards.
+
+This then let us follow, that we may enjoy also the fruits thereof; unto which God grant we may all attain, by the grace and love towards man of our Lord Jesus Christ to whom be glory and might world without end. Amen.
+
+*[p. 750]* ^pg758
+
+### Matthew XXII. 34-36.
+
+Homily LXXI.
+
+Matt. XXII. 34-36.
+
+“But when the Pharisees had heard that He had put the Sadducees to silence, they were gathered together; and one of them, which was a lawyer, asked Him a question, tempting Him, and saying, Master, which is the great commandment in the law?”
+
+Again doth the evangelist express the cause, for which they ought to have held their peace, and marks their boldness by this also. How and in what way? Because when those others were put to silence, these again assail Him. For when they ought even for this to hold their peace, they strive to urge further their former endeavors,<sup>2641</sup>and put forward the lawyer, not desiring to learn, but making a trial of Him, and ask, “What is the first commandment?”
+
+For since the first commandment was this, “Thou shalt love the Lord thy God,” thinking that He would afford them some handle, as though He would amend it, for the sake of showing that Himself too was God, they propose the question. What then saith Christ? Indicating from what they were led to this; from having no charity, from pining with envy, from being seized by jealousy, He saith, “Thou shalt love the Lord thy God. This is the first and great commandment.<sup>2642</sup> And the second is like unto this,<sup>2643</sup> Thou shalt love thy neighbor as thyself.”<sup>2644</sup>
+
+But wherefore “like unto this?” Because this makes the way for that, and by it is again established; “For every one that doeth evil hateth the light, neither cometh to the light;”<sup>2645</sup>and again, “The fool hath said in his heart, There is no God.” And what in consequence of this? “They are corrupt, and become abominable in their ways.”<sup>2646</sup> And again, “The love of money is the root of all evils; which while some coveted after they have erred from the faith;”<sup>2647</sup>and, “He that loveth me, will keep my commandment.”<sup>2648</sup>
+
+But His commandments, and the sum of them, are, “Thou shalt love the Lord thy God, and thy neighbor as thyself.” If therefore to love God is to love one’s neighbor, “For if thou lovest me,” He saith, “O Peter, feed my sheep,”<sup>2649</sup>but to love one’s neighbor worketh a
+
+ἐπαγωνζονται το προτροι.
+
+264\. 1 2642 \[R.V., following a different reading, “great and first.”\] 2643 \[The text varies from the received slightly, as well as from the reading accepted in the R.V.—R.\] 2644 Matt. xxii. 37–39. 2645 John iii. 20. 2646 Ps. liii. 1. 2647 1 Tim. vi. 10. 2648 John xiv. 15. \[The paraphrase given above confirms the rendering of the R.V., “If ye love me, ye will keep my commandments.”—R.\]
+
+
+*[p. 751]* ^pg759
+
+keeping of the commandments, with reason doth He say, “On these hang all the law and the prophets.”<sup>2650</sup>
+
+So therefore what He did before, this He doth here also. I mean, that both there, when asked about the manner of the resurrection, He also taught a resurrection, instruct ing them beyond what they inquired; and here, being asked the first commandment, He rehearses the second also, which is not much inferior to that (for though second, it is like that), intimating to them, whence the question had arisen, that it was from hatred. “For charity envieth 414 not.”<sup>2651</sup> By this He shows Himself to be submissive both to the law and to the prophets.
+
+But wherefore doth Matthew say that he asked, tempting Him, but Mark the contrary? “For when Jesus,” he saith, “saw that he answered discreetly, He said unto him, Thou art not far from the kingdom of God.”<sup>2652</sup>
+
+They are not contradicting each other, but indeed fully agreeing. For he asked indeed, tempting, at the beginning, but being benefitted by the answer, was commended. For not at the beginning did He commend him, but when he had said, “That to love his neighbor is more than whole burnt sacrifices,” then He saith, “Thou art not far from the kingdom;” because he overlooked low things, and embraced the first principle of virtue. For indeed all those are for the sake of this, as well the Sabbath as the rest.
+
+And not even so did He make His commendation perfect, but yet deficient. For His saying, “Thou art not far off,” indicates that he is yet falling short, that he might seek after what was deficient.
+
+But if, when He said, “There is one God, and there is none other but He,” He commended him, wonder not, but by this too observe, how He answers according to the opinion of them that come unto Him. For although men say ten thousand things about Christ unworthy of His glory, yet this at any rate they will not dare to say, that He is not God at all. Wherefore then doth He praise him that said, that beside the Father, there is no other God?
+
+Not excepting Himself from being God; away with the thought; but since it was not yet time to disclose His Godhead, He suffers him to remain in the former doctrine, and praises him for knowing well the ancient principles, so as to make him fit for the doctrine of the New Testament, which He is bringing in its season.
+
+And besides, the saying, “There is one God, and there is none other but He,” both in the Old Testament and everywhere, is spoken not to the rejection of the Son, but to make the distinction from idols. So that when praising this man also, who had thus spoken, He praises him in this mind.
+
+265\. 0 Matt. xxii. 40. 2651 1 Cor. xiii. 4. Mark xii. 34.
+
+
+*[p. 752]* ^pg760
+
+Then since He had answered, He asks also in turn, “What think ye of Christ, whose Son is He? They say unto Him, The Son of David.”<sup>2653</sup>
+
+See after how many miracles, after how many signs, after how many questions, after how great a display of His unanimity with the Father, as well in words, as in deeds; after having praised this man that said, that there is one God, He asks the question, that they may not be able to say, that He did miracles indeed, yet was an adversary to the law, and a foe to God.
+
+Therefore, after so many things, He asks these questions, secretly leading them on to confess Him also to be God. And the disciples He asked first what the others say, and then themselves; but these not so; for surely they would have said a deceiver, and a wicked one, as speaking all things without fear. So for this cause He inquires for the opinion of these men themselves.
+
+For since He was now about to go on to His passion, He sees forth the prophecy that plainly proclaims Him to be Lord; and not as having come to do this without occasion, nor as having made this His aim, but from a reasonable cause.
+
+For having asked them first, since they answered not the truth concerning Him (for they said He was a mere man), to overthrow their mistaken opinion, He thus introduces David proclaiming His Godhead. For they indeed supposed that He was a mere man, wherefore also they said, “the Son of David;”<sup>2654</sup>but He to correct this brings in the prophet witnessing to His being Lord, and the genuineness of His Sonship, and His equality in honor with His Father.
+
+And not even at this doth He stop, but in order to move them to fear, He adds what followeth also, saying, “Till I make Thine enemies Thy footstool;”<sup>2655</sup>that at least in this way He might gain them over.
+
+And that they may not say, that it was in flattery he so called Him, and that this was a human judgment, see what He saith, “How then doth David in spirit call Him Lord?” See how submissively He introduces the sentence and judgment concerning Himself. First, He had said, “What think ye? Whose Son is He?” so by a question to bring them to an answer. Then since they said, “the Son of David,” He said not, “And yet David saith these things,”
+
+265\. 3 Matt. xxii. 42. \[R.V., “the Christ.”\] 2654 It may be in this view that it is said of St. Paul, immediately on his conversion, that “he preached Christ in the synagogues, that He is the Son of God.” Acts ix. 20. 2655 Matt. xxii. 43. \[The form is that of the received text. R.V., following strongly preponderant authority, “underneath thy feet.”—R.\]
+
+
+*[p. 753]* ^pg761
+
+but again in this order of a question, “How then doth David in spirit call Him Lord?” in order that the sayings might not give offense to them. Wherefore neither did He say, What think ye of me, but of Christ. For this reason the apostles also reasoned submissively, saying, “Let us speak freely of the Patriarch David, that he is both dead and buried.”<sup>2656</sup> 415 And He Himself too in like manner for this cause introduces the doctrine in the way of
+
+question and inference, saying, “How then doth David in spirit call Him Lord, saying, The Lord said unto my Lord, Sit Thou on my right hand, until I make Thy foes Thy footstool;”<sup>2657</sup>and again, “If David then call Him Lord, how is He then his Son,”<sup>2658</sup>not taking away the fact that He is his Son, away with the thought; for He would not then have reproved Peter for this,<sup>2659</sup>but to correct their secret thoughts. So that when He saith, “How is He his Son?” He meaneth this, not so as ye say. For they said, that He is Son only, and not also Lord. And this after the testimony, and then submissively, “If David then call Him Lord, how is He his Son?”
+
+But, nevertheless, even when they had heard these things, they answered nothing, for neither did they wish to learn any of the things that were needful. Wherefore He Himself addeth and saith, that “He is his Lord.” Or rather not even this very thing doth He say without support, but having taken the prophet with Him, because of His being exceedingly distrusted by them, and evil reported of amongst them. To which fact we ought to have especial regard, and if anything be said by Him that is lowly and submissive, not to be offended, for the cause is this, with many other things also, that He talks with them in condescension.
+
+Wherefore now also He delivers His doctrine in the manner of question and answer; but He darkly intimates even in this way His dignity. For it was not as much to be called Lord of the Jews, as of David.
+
+But mark thou also, I pray thee, how seasonable it is. For when He had said, “There is one Lord,” then He spake of Himself that He is Lord, and showed it by prophecy, no more by His works only. And He showeth the Father Himself taking vengeance upon them in His behalf, for He saith, “Until I make Thine enemies Thy footstool,” and great unanimity even hereby on the part of Him that begat Him towards Himself, and honor. And upon His reasonings with them He doth set this end high and great, and sufficient to close fast their mouths.
+
+For they were silent from thenceforth, not willingly, but from their having nothing to say; and they received so deadly a blow, as no longer to dare to attempt the same things any more. For, “no one,” it is said, “durst from that day forth ask Him any more questions.”<sup>2660</sup>
+
+265\. 6 Acts ii. 29. 2657 Matt. xxii. 44. 2658 Matt. xxii. 45. 2659 For being unwilling to admit what belonged to His Humanity; Matt. xvi. 22, 23. 416
+
+
+*[p. 754]* ^pg762
+
+And this was no little advantage to the multitude.<sup>2661</sup> Therefore also unto them doth He henceforth direct His word, having removed the wolves, and having repulsed their plots.
+
+For those men gained nothing, taken captive by vainglory, and having fallen upon this terrible passion. For terrible is this passion and many-headed, for some set their heart upon power for the sake of this, some on wealth, some on strength. But proceeding in order it goes on unto almsgiving also, and fasting, and prayers, and teaching, and many are the heads of this monster.
+
+But to be vainglorious indeed about those other things is nothing wonderful; but to be so about fasting and prayer, this is strange and lamentable.
+
+But that we may not again blame only, come and let us tell the means, by which we shall avoid this. Against whom shall we prepare to contend first, against those that are vainglorious of money, or those of dress, or those of places of power, or those of sciences, or those of art, or those of their person, or those of beauty, or those of ornaments, or those of cruelty, or those of humanity and almsgiving, or those of wickedness, or those of death, or those after death? For indeed, as I have said, this passion hath many links,<sup>2662</sup>and goes on beyond our life. For such a one, it is said, is dead, and that he may be held in admiration, hath charged that such and such things be done; and therefore such a one is poor, such a one rich.
+
+For the grievous thing is this, that even of opposite things is it made up. Against whom then shall we stand, and let ourselves in array first? For one and the same discourse suffices not against all. Will ye then that it be against them that are vainglorious about almsgiving?
+
+To me at least it seems well; for exceedingly do I love this thing, and am pained at seeing it marred, and vainglory plotting against it, like a pandering nurse against some royal damsel. For she feeds her in deed, but for disgrace and mischief, prostituting her and commanding her to despise her father; but to deck herself to please unholy and often despicable men; and invests her with such a dress, as strangers wish, disgraceful, and dishonorable, not such as the father.
+
+Come now, then, let us take our aim against these; and let there be an almsgiving made in abundance for display to the multitude. Surely then, first vainglory leads her out of her Father’s chamber. And whereas her Father requires not to appear so much as to the left hand,<sup>2663</sup>she displays her to the slaves, and to the vulgar, that have not even known her.
+
+266\. 1 See the parallel place, Mark xii. 37, where it is added, “The common people heard Him gladly.” \[R.V., margin, “or, the great multitude,” etc.\] πλεκτνα. 2662
+
+
+*[p. 755]* ^pg763
+
+Seest thou a harlot, and pander, casting her into the love of foolish men, that according as they require, so she may order herself? Dost thou desire to see how it renders such a soul not a harlot only, but insane also?
+
+Mark then her mind. For when she lets go heaven and runs after fugitives and menial slaves, pursuing through streets and lanes them that hate her, the ugly and deformed, them that are not willing so much as to look at her, them that, when she burns with love towards them, hate her, what can be more insane than this? For no one do the multitude hate so much, as those that want the glory they have to bestow. Countless accusations at least do they frame against them, and the result is the same, as if any one were to bring down a virgin daughter of the king from the royal throne, and to require her to prostitute herself to gladiators, who abhorred her. These then, as much as thou pursuest them, so much do they turn away from thee; but God, if thou seek the glory that cometh from Him, so much the more both draws thee unto Himself, and commends thee, and great is the reward He renders unto thee.
+
+But if thou art minded in another way also to discern the mischief thereof, when thou givest for display and ostentation, consider how great the sorrow that then comes upon thee, and how continual the desponding, while Christ’s voice is heard in thine ears, saying,<sup>2664</sup>“Thou hast lost all thy reward.” For in every matter indeed vainglory is a bad thing, yet most of all in beneficence, for it is the utmost cruelty, making a show of the calamities of others, and all but upbraiding those in poverty. For if to mention one’s own good actions is to upbraid, what dost thou think it is to publish them even to many others.
+
+How then shall we escape the danger? If we learn how to give alms, if we see after whose good report we are to seek. For tell me, who has the skill of almsgiving? Plainly, it is God, who hath made known the thing, who best of all knows it, and practises it without limit. What then? If thou art learning to be a wrestler, to whom dost thou look? or to whom dost thou display thy doings in the wrestling school, to the seller of herbs, and of fish, or to the trainer? And yet they are many, and he is one. What then, if while he admires thee, others deride thee, wilt thou not with him deride them?
+
+What, if thou art learning to box, wilt thou not look in like manner to him who knows how to teach this? And if thou art practising oratory, wilt thou not accept the praise of the teacher of rhetoric, and despise the rest.
+
+How then is it other than absurd, in other arts to look to the teacher only, but here to do the contrary? although the loss be not equal. For there, if you wrestle according to the opinion of the multitude, and not that of the teacher, the loss is in the wrestling; but here it is in eternal life. Thou art become like to God in giving alms; be thou then like Him in not making a display. For even He said, when healing, that they should tell no man.
+
+*[p. 756]* ^pg764
+
+But dost thou desire to be called merciful amongst men? And what is the gain? The gain is nothing; but the loss infinite. For these very persons, whom thou callest to be witnesses, become robbers of thy treasures that are in the heavens; or rather not these, but ourselves, who spoil our own possessions, and scatter what we have laid up above.
+
+O new calamity! this strange passion. Where moth corrupteth not, nor thief breaketh through, vainglory scattereth. This is the moth of those treasures there; this the thief of our wealth in heaven; this steals away the riches that cannot be spoiled; this mars and corrupts all. For because the devil saw that that place is impregnable to thieves and to the worm, and the other plots against them, he by vainglory steals away the wealth.
+
+But dost thou desire glory? Doth not then that suffice thee which is given by the receiver himself, that from our gracious God, but dost thou set thine heart on that from men also? Take heed, lest thou undergo the contrary, lest some condemn thee as not showing mercy, but making a display, and seeking honor, as making a show of the calamities of others.
+
+For indeed the showing of mercy is a mystery. Shut therefore the doors, that none may see what it is not pious to display. For our mysteries too are above all things, a showing of God’s mercy and loving-kindness. According to His great mercy, He had mercy on us being disobedient.
+
+And the first prayer too is full of mercy, when we entreat for the energumens; and the 417 second again, for others under penance seeking for much mercy; and the third also for ourselves, and this puts forward the innocent children of the people entreating God for mercy. For since we condemn ourselves for sins, for them that have sinned much and deserve to be blamed we ourselves cry; but for ourselves the children; for the imitators of whose simplicity the kingdom of heaven is reserved. For this image shows this, that they who are like those children, lowly and simple, these above all men are able to deliver the guilty by their prayers.
+
+But the mystery itself, of how much mercy, of how much love to man it is full, the initiated know.
+
+Do thou then, when according to thy power thou art showing mercy to a man, shut the doors, let the object of thy mercy see it only; but if it be possible, not even he. But if thou set them open, thou art profanely exposing thy mystery.
+
+Consider that the very person, whose praise thou seekest, even himself will condemn thee; and if he be a friend, will accuse thee to himself; but if an enemy, he will deride thee unto others also. And thou wilt undergo the opposite of what thou desirest. For thou indeed desirest that he should call thee the merciful man; but he will not call thee this, but the vainglorious, the man-pleaser, and other names far more grievous than these.
+
+But if thou shouldest hide it, he will call thee all that is opposite to this; the merciful, the kind. For God suffers it not to be hidden; but if thou conceal it, the other will make it known, and greater will be the admiration, and more abundant the gain. So that even for
+
+*[p. 757]* ^pg765
+
+this very object of being glorified, to make a display is against us; for with respect to the thing unto which we most hasten and press, as to this most especially is this thing against us. For so far from obtaining the credit of being merciful, we obtain even the contrary, and besides this, great is the loss we undergo.
+
+For every motive then let us abstain from this, and set our love on God’s praise alone. For thus shall we both attain to honor here, and enjoy the eternal blessings, by the grace and love towards man of our Lord Jesus Christ, to whom be glory and might world without end. Amen.
+
+*[p. 758]* ^pg766
+
+### Matthew XXIII. 1-3.
+
+Homily LXXII.
+
+Matt. XXIII. 1-3.
+
+*“Then spake Jesus to the multitudes and to His disciples, saying, The Scribes and the Pharisees sit in Moses’ seat: all therefore whatsoever they bid you do, that do;*<sup>2665</sup>*but do not after their works.”*
+
+Then. When? When He had said these things, when He had stopped their mouths; when He had brought them that they should no more dare to tempt Him; when He had shown their state incurable.
+
+And since He had made mention of “the Lord” and “my Lord,”<sup>2666</sup> He recurs again to the law. And yet the law said nothing of this kind, but, “The Lord thy God is one Lord.”<sup>2667</sup> But Scripture calls the whole Old Testament the law.
+
+But these things He saith, showing by all things His full agreement with Him that begat Him. For if He were opposed, He would have said the opposite about the law; but now He commands so great reverence to be shown towards it, that, even when they that teach it are depraved, He charges them to hold to it.
+
+But here He is discoursing about their life and morals, since this was chiefly the cause of their unbelief, their depraved life, and the love of glory. To amend therefore His hearers; that which in the first place most contributes to salvation, not to despise our teachers, neither to rise up against our priests, this doth He command with superabundant earnestness. But He does not only command it, but also Himself doth it. For though they were depraved, He doth not depose them from their dignity; to them rendering their condemnation heavier, and to His disciples leaving no cloke for disobedience.
+
+I mean, that lest any one should say, that because my teacher is bad, therefore am I become more remiss, He takes away even this pretext. So much at any rate did He establish their authority, although they were wicked men, as even after so heavy an accusation to say, “All whatsoever they command you to do, do.” For they speak not their own words, but God’s, what He appointed for laws by Moses. And mark how much honor He showed towards Moses, again showing His agreement with the Old Testament; since indeed even by this doth He make them objects of reverence. “For they sit,” He saith, “on Moses’ seat.” For because He was not able to make them out worthy of credit by their life, He doth it from the grounds that were open to Him, from their seat, and their succession from him. But when thou hearest all, do not understand all the law, as, for instance, the ordinances about meats,
+
+418 2665 \[The Greek text in this clause differs somewhat both from the received and from that followed in the R.V.—R.\] \[κυρου κα κυρου, referring to the two uses of the word in the Old Testament passage cited in Matt. xxii. 2666 44, but not in precise terms.—R.\] Deut. vi. 4.
+
+*[p. 759]* ^pg767
+
+those about sacrifices, and the like; for how was He to say so of these things, which He had taken away beforehand? but He meant all things that correct the moral principle, and amend the disposition, and agree with the laws of the New Testament, and suffer them not any more to be under the yoke of the law.
+
+Wherefore then doth He give these things divine authority, not from the law of grace, but from Moses? Because it was not yet time, before the crucifixion, for these things to be plainly declared.
+
+But to me He seems, in addition to what has been said, to be providing for another object, in saying these things. For since He was on the point of accusing them, that He might not seem in the sight of the foolish to set His heart on this authority of theirs, or for enmity to be doing these things, first He removed this thought, and having set himself clear from suspicion, then begins His accusation. And for what intent doth He convict them, and run out into a long discourse against them? To set the multitude on their guard, so that they might not fall into the same sins. For neither is dissuading like pointing out those that have offended; much as recommending what is right, is not like bringing forward those that have done well. For this cause also He is beforehand in saying, “Do not after their works.” For, lest they should suppose, because of their listening to them, they ought also to imitate them, He uses this means of correction, and makes what seems to be their dignity a charge against them. For what can be more wretched than a teacher, when the preservation of his disciples is, not to give heed to his life? So that what seemeth to be their dignity is a most heavy charge against them, when they are shown to live such a life, as they that imitate are ruined.
+
+For this cause He also falls upon His accusations against them, but not for this only, but that He might show, that both their former unbelief wherewith they had not believed, and the crucifixion after this, which they dared to perpetrate, were not a charge against Him who was crucified and disbelieved, but against their perverseness.
+
+But see whence He begins, and whence He aggravates His blame of them. “For they say,” He saith, “and do not.” For every one is worthy of blame in transgressing the law, but especially he that bears the authority of teaching, for doubly and triply doth he deserve to be condemned. For one cause, because he transgresses; for another, that as he ought to amend others, and then halteth, he is worthy of a double punishment, because of his dignity; and in the third place, that he even corrupts the more, as committing such transgression in a teacher’s place.
+
+And together with these He mentions also another charge against them, that they are harsh to those accountable to them.
+
+“For they bind heavy burdens, and grievous to be borne, and lay them on men’s shoulders, but they will not move them with their finger.”<sup>2668</sup> He mentions here a twofold
+
+Matt. xxiii. 4. \[“For,” as in rec. text.\]
+
+*[p. 760]* ^pg768
+
+wickedness, their requiring great and extreme strictness of life, without any indulgence, from those over whom they rule, and their allowing to themselves great security; the opposite to which the truly good ruler ought to hold; in what concerns himself, to be an unpardoning and severe judge, but in the matters of those whom he rules, to be gentle and ready to make allowances; the contrary to which was the conduct of these men.
+
+2\. For such are all they who practise self restraint in mere words, unpardoning and grievous to bear as having no experience of the difficulty in actions. And this itself too is no small fault, and in no ordinary way increases the former charge.
+
+But do thou mark, I pray thee, how He aggravates this accusation also. For He did not say, “they cannot,” but, “they will not.” And He did not say, “to bear,” but, “to move with a 419 finger,” that is, not even to come near them, nor to touch them.
+
+But wherein are they earnest, and vigorous? In the things forbidden. For, “all their works they do,” He saith, “to be seen of men.”<sup>2669</sup> These things He saith, accusing them in respect of vainglory, which kind of thing was their ruin. For the things before were signs of harshness and remissness, but these of the mad desire of glory. This drew them off from God, this caused them to strive before other spectators, and ruined them. For whatever kind of spectators any one may have, since it hath become his study to please these, such also are the contests he exhibits. And he that wrestles among the noble, such also are the conflicts he takes in hand, but he among the cold and supine, himself also becomes more remiss. For instance, hath any one a beholder that delights in ridicule? he himself too becomes a mover of ridicule, that he may delight the spectator: hath another one who is earnest minded, and practises self-government? he endeavors himself to be such as he is, since such is the disposition of him who praises him.
+
+But see again that here too the charge is with aggravation. For neither is it that they do some things in this way, some in another way, but all things absolutely this way.
+
+Then, having blamed them for vainglory, He shows that it is not even about great and necessary things they are vainglorious (for neither had they these, but were destitute of good works), but for things without warmth or worth, and such as were certain proofs of their baseness, the phylacteries, the borders; of their garments. “For they make broad their phylacteries,” He saith, “and enlarge the borders of their garments.”<sup>2670</sup>
+
+And what are these phylacteries, and these borders? Since they were continually forgetting God’s benefits, He commanded His marvellous works to be inscribed on little tablets, and that these should be suspended from their hands (wherefore also He said, “They shall be immoveable in thine eyes”),<sup>2671</sup>which they called phylacteries; as many of our women now
+
+266\. 9 Matt. xxiii. 5.
+
+267\. 0 Matt. xxiii. 5. Deut. vi. 8; so LXX. A.V. “as frontlets between.” 420 2672 Numb. xv. 38, 39. \[The passage is freely given from the LXX.\] 2673 \[R.V., “the chief place.”\] 2674 \[With the oldest New Testament mss. the word “Rabbi” is not repeated.—R.\] 2675 This passage has afforded grounds for a conjecture as to the date of the Homily, but the language is too general to prove anything; see Montfaucon’s Preface.
+
+
+*[p. 761]* ^pg769
+
+wear Gospels hung from their necks. And in order that by another thing again they may be reminded, like as many often do, binding round their finger with a piece of linen or a thread, as being likely to forget, this God enjoined them as children to do, “to sew a ribbon of blue on their garments, upon the fringe that hung round their feet, that they might look at it, and remember the commandments;”<sup>2672</sup>and they were called “borders.”
+
+In these things then they were diligent, making wide the strips of the tablets, and enlarging the borders of their garments; which was a sign of the most extreme vanity. For wherefore art thou vainglorious, and dost make these wide? what, is this thy good work? what doth it profit thee at all, if thou gain not the good results from them. For God seeks not the enlarging of these and making them wide, but our remembering His benefits. But if for almsgiving and prayer, although they be attended with labor, and be good deeds on our parts, we must not seek vainglory, how dost thou, O Jew, pride thyself in these things, which most of all convict thy remissness.
+
+But they not in these only, but in other little things, suffered from this disease. For, “they love,” He saith, “the uppermost rooms<sup>2673</sup>at feasts, and the chief seats in the synagogues, and greetings in the markets, and to be called of men, Rabbi.”<sup>2674</sup> For these things, although one may think them small, yet are they a cause of great evils. These things have overthrown both cities and churches.
+
+And it comes upon me now even to weep, when I hear of the first seats, and the greetings, and consider how many ills were hence engendered to the churches of God, which it is not necessary to publish to you now; nay rather as many as are aged men do not even need to learn these things from us.<sup>2675</sup>
+
+But mark thou, I pray thee, how vainglory prevailed; when they were commanded not to be vainglorious, even in the synagogues, where they had entered to discipline others.
+
+For to have this feeling at feasts, to howsoever great a degree, doth not seem to be so dreadful a thing; although even there the teachers ought to be held in reverence, and not in the church only, but everywhere. And like as a man, wherever he may appear, is manifestly distinguished from the brutes; so also ought the teacher, both speaking and holding his peace, and dining, and doing whatever it may be, to be distinguished as well by his gait, as by his look, and by his garb, and by all things generally. But they were on every account objects of ridicule, and in every respect disgraced themselves, making it their study to follow what they ought to flee. For they love them, it is said; but if the loving them be a matter of
+
+*[p. 762]* ^pg770
+
+blame, what a thing must the doing them be; and to hunt and strive after them, how great an evil.
+
+3\. The other things then He carried no further than to accuse them, as being small and trifling, and as though His disciples needed not at all to be corrected about these matters; but what was a cause of all the evils, even ambition, and the violent seizing of the teacher’s chair, this He brings forward, and corrects with diligence, touching this vehemently and earnestly charging them.
+
+For what saith He? “But be not ye called Rabbi.” Then follows the cause also; “For one is your master, and all ye are brethren;”<sup>2676</sup>and one hath nothing more than another, in respect of his knowing nothing from himself. Wherefore Paul also saith, “For who is Paul, and who is Apollos, but ministers?”<sup>2677</sup> He said not masters. And again, “Call not, father,”<sup>2678</sup>not that they should not call, but they may know whom they ought to call Father, in the highest sense. For like as the master is not a master principally; so neither is the father. For He is cause of all, both of the masters, and of the fathers.
+
+And again He adds, “Neither be ye called guides, for one is your guide, even Christ;”<sup>2679</sup>and He said not, I. For like as above He said, “What think ye of Christ?”<sup>2680</sup>and He said not, “of me,” so here too.
+
+But I should be glad to ask here, what they would say, who are repeatedly applying the term one, one, to the Father alone, to the rejection of the Only-begotten. Is the Father guide? All would declare it, and none would gainsay it. And yet “one,” He saith, “is your guide, even Christ.” For like as Christ, being called the one guide, casts not out the Father from being guide; even so the Father, being called Master, doth not cast out the Son from being Master. For the expression, one, one, is spoken in contradistinction to men, and the rest of the creation.
+
+Having warned them therefore against this grievous pest, and amended them, He instructs also how they may escape it; by humility. Wherefore He adds also, “He that is greatest among you shall be your servant. For whosoever shall exalt himself shall be abased, and whosoever shall abase himself shall be exalted.”<sup>2681</sup>
+
+For nothing is equal to the practice of modesty, wherefore He is continually reminding them of this virtue, both when He brought the children into the midst, and now. And, when
+
+267\. 6 Matt. xxiii. 8. 2677 1 Cor. iii. 5. 2678 Matt. xxiii. 9. Matt. xxiii. 10. \[The word καθηγητς is rendered “Master” in our English versions, but “guide” is more 2679 literal; “the Christ” (R.V.), is preferable, especially in view of the context here.—R.\]
+
+268\. 0 Matt. xxii. 42. \[R.V., “the Christ.”\] Matt. xxiii. 11, 12. \[R.V., “humbled,” and “humble.” The A.V. here uses both “abase” and “humble.”—R.\]
+
+
+*[p. 763]* ^pg771
+
+on the mount, beginning the beatitudes, He began from hence. And in this place, He plucks it up by the roots hereby, saying, “He that abaseth himself shall be exalted.”
+
+Seest thou how He draws off the hearer right over to the contrary thing. For not only doth He forbid him to set his heart upon the first place, but requires him to follow after the last. For so shalt thou obtain thy desire, He saith. Wherefore he that pursues his desire for the first, must follow after the last place. “For he that abaseth himself shall be exalted.”
+
+And where shall we find this humility? Will ye that we go again to the city of virtue, the tents of the holy men, the mountains, I mean, and the groves? For there too shall we see this height of humility.
+
+For men, some illustrious from their rank in the world, some from their wealth, in every way put themselves down, by their vesture, by their dwelling, by those to whom they minister; and, as in written characters, they throughout all things inscribe humility.
+
+And the things that are incentives of arrogance, as to dress well, and to build houses splendidly, and to have many servants, things which often drive men even against their will to arrogance; these are all taken away. For they themselves light their fire, they themselves cleave the logs, themselves cook, themselves minister to those that come there.
+
+No one can be heard insulting there, nor seen insulted, nor commanded, nor giving commands; but all are devoted to those that are waited on, and every one washes the strangers’ feet, and there is much contention about this. And he doeth it, not inquiring who it is, neither if he be a slave, nor if he be free; but in the case of every one fulfills this service. No man there is great nor mean. What then? Is there confusion? Far from it, but the highest order. For if any one be mean, he that is great seeth not this, but hath accounted himself again to be inferior even to him, and so becomes great.
+
+There is one table for all, both for them that are served, and for them that serve; the same food, the same clothes, the same dwellings, the same manner of life. He is great there, who eagerly seizes the mean task. There is not mine and thine, but this expression is exterminated, that is a cause of countless wars.
+
+421 4. And why dost thou marvel, if there be one manner of life and table and dress for all, since indeed there is even one soul to all, not in substance only (for this is with all men also), but in love? how then should it ever be lifted up itself against itself? There is no wealth and poverty there, honor and dishonor; how then should haughtiness and arrogance find an entrance? For they are indeed little and great in respect of their virtue; but, as I have said, no one seeth this. He that is little, feels not pain, as despised; for neither is there any one to despise him; and should any one spurn him, this above all are they taught, to be despised, to be spurned, to be set at nought, in word and in deed. And with the poor and maimed do they associate, and their tables are full of these guests; so that for this are they worthy of the heavens. And one tends the wounds of the mutilated, another leads the blind by the hand, a third bears him that is lamed of his leg.

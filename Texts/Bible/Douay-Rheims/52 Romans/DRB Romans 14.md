@@ -1,0 +1,63 @@
+---
+type: text
+work: "Douay-Rheims Bible"
+book: "Romans"
+douay_name: "Romans"
+chapter: 14
+translation: "Douay-Rheims, American edition of 1899"
+license: "Public domain (eBible.org, engDRA)"
+source: "https://ebible.org/find/details.php?id=engDRA"
+---
+# Romans 14 (Douay-Rheims)
+
+[[DRB Romans 13|← Romans 13]] · [[Douay-Rheims|index]] · [[DRB Romans 15|Romans 15 →]]
+
+Compare: [[Romans 14|BSB and SBLGNT]]
+
+**14:1** Now him that is weak in faith, take unto you: not in disputes about thoughts. ^14-1
+
+**14:2** For one believeth that he may eat all things: but he that is weak, let him eat herbs. ^14-2
+
+**14:3** Let not him that eateth, despise him that eateth not: and he that eateth not, let him not judge him that eateth. For God hath taken him to him. ^14-3
+
+**14:4** Who art thou that judgest another man’s servant? To his own lord he standeth or falleth. And he shall stand: for God is able to make him stand. ^14-4
+
+**14:5** For one judgeth between day and day: and another judgeth every day: let every man abound in his own sense. ^14-5
+
+**14:6** He that regardeth the day, regardeth it unto the Lord. And he that eateth, eateth to the Lord: for he giveth thanks to God. And he that eateth not, to the Lord he eateth not, and giveth thanks to God. ^14-6
+
+**14:7** For none of us liveth to himself; and no man dieth to himself. ^14-7
+
+**14:8** For whether we live, we live unto the Lord; or whether we die, we die unto the Lord. Therefore, whether we live, or whether we die, we are the Lord’s. ^14-8
+
+**14:9** For to this end Christ died and rose again; that he might be Lord both of the dead and of the living. ^14-9
+
+**14:10** But thou, why judgest thou thy brother? or thou, why dost thou despise thy brother? For we shall all stand before the judgment seat of Christ. ^14-10
+
+**14:11** For it is written: As I live, saith the Lord, every knee shall bow to me, and every tongue shall confess to God. ^14-11
+
+**14:12** Therefore every one of us shall render account to God for himself. ^14-12
+
+**14:13** Let us not therefore judge one another any more. But judge this rather, that you put not a stumblingblock or a scandal in your brother’s way. ^14-13
+
+**14:14** I know, and am confident in the Lord Jesus, that nothing is unclean of itself; but to him that esteemeth any thing to be unclean, to him it is unclean. ^14-14
+
+**14:15** For if, because of thy meat, thy brother be grieved, thou walkest not now according to charity. Destroy not him with thy meat, for whom Christ died. ^14-15
+
+**14:16** Let not then our good be evil spoken of. ^14-16
+
+**14:17** For the kingdom of God is not meat and drink; but justice, and peace, and joy in the Holy Ghost. ^14-17
+
+**14:18** For he that in this serveth Christ, pleaseth God, and is approved of men. ^14-18
+
+**14:19** Therefore let us follow after the things that are of peace; and keep the things that are of edification one towards another. ^14-19
+
+**14:20** Destroy not the work of God for meat. All things indeed are clean: but it is evil for that man who eateth with offence. ^14-20
+
+**14:21** It is good not to eat flesh, and not to drink wine, nor any thing whereby thy brother is offended, or scandalized, or made weak. ^14-21
+
+**14:22** Hast thou faith? Have it to thyself before God. Blessed is he that condemneth not himself in that which he alloweth. ^14-22
+
+**14:23** But he that discerneth, if he eat, is condemned; because not of faith. For all that is not of faith is sin. ^14-23
+
+[[DRB Romans 13|← Romans 13]] · [[Douay-Rheims|index]] · [[DRB Romans 15|Romans 15 →]]

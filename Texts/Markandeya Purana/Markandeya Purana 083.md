@@ -1,0 +1,13 @@
+---
+type: book-section
+book: "[[Markandeya Purana]]"
+order: 83
+aliases:
+  - Devi Mahatmya 6
+  - Devi Mahatmya chapter 6
+---
+## Chapter 83
+
+← [[Markandeya Purana 082]] · [[Markandeya Purana]] · [[Markandeya Purana 084]] →
+
+‘“The rishi said, ‘Hearing these words of the goddess, the messenger was filled with intolerance. The king of the asuras heard the messenger’s words. He angrily spoke to Dhumralochana, lord of the daityas. “O Dhumralochana! Quickly surround yourself with your own soldiers. Forcibly disable that wicked woman and bring her here, dragging her by her hair. If there is anyone else there who wishes to save her, an immortal, a yaksha or a gandharva, he deserves to be killed.” Hearing this command, Dhumralochana quickly surrounded himself with sixty thousand asuras and swiftly left. He saw the goddess on that snow-clad mountain and loudly shouted, “Come before Shumbha and Nishumbha. If you do not cheerfully come and serve my master, I will disable you and forcibly take you there, dragging you by your hair.” The goddess replied, “The lord of daityas has sent a powerful person, surrounded by an army. If you take me there forcibly, what is it possible for me to do?” O amiable one! Thus addressed, the asura Dhumralochana rushed towards her. However, with a humkara, Ambika reduced him to ashes. After this, Ambika angrily showered down sharp arrows, spears and battleaxes on the large army of asuras. The lion, the mount of the goddess, shook its mane in rage and roared extremely fiercely. It descended on the asura soldiers. Some daityas were slain with a blow from the paw, others by biting with the mouth. It slew some large asuras by striking them with its hind feet. The maned lion brought some down and tore their entrails apart with its nails. With a blow from its paws, it severed the heads of others. There were others who had their arms and heads severed, while the maned lion drank the blood from the entrails of others. In a short while, driven by great rage, the goddess’s great-souled maned mount destroyed that entire army. Shumbha, the lord of the daityas, heard that the asura Dhumralochana had been killed by the goddess and that the entire army had been destroyed by the goddess’s lion. His lips quivered in rage and he commanded the two great asuras, Chanda and Munda. “O Chanda! O Munda! Surround yourselves with many forces. You should go there. Having gone there, swiftly bring her here. Drag her here by her hair, or bind her. In the course of the battle, if there is some uncertainty about this and you find that all the asuras are being killed with all manner of weapons, then kill her. Alternatively, when the wicked Ambika’s lion has been killed, seize and bind her and quickly return here.”’”’

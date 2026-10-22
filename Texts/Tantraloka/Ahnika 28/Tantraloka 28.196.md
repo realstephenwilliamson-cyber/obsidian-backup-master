@@ -1,0 +1,37 @@
+---
+type: "text"
+work: "Tantrāloka"
+author: "Abhinavagupta"
+commentary: "Jayaratha, Viveka"
+chapter: 28
+verse: 196
+edition: "Kashmir Series of Texts and Studies (KSTS), as transcribed by Muktabodha (M00093)"
+license: "CC BY-NC 4.0, Muktabodha Indological Research Institute"
+aliases:
+  - "TĀ 28.196"
+  - "TA 28.196"
+  - "Tantrāloka 28.196"
+---
+[[Tantraloka 28.195|← 28.195]] · [[Tantraloka 28 - Parvapavitrakadiprakasana|Āhnika 28]] · [[Tantraloka 28.197|28.197 →]]
+
+## Mūla
+
+तथा च स्मृतिशास्त्रेषु सन्ततेर्दायहारिता ।
+युक्तैव तावान्स ह्युक्तो भेदाद्दूरान्तिकत्वतः ॥ ^mula
+
+tathā ca smṛtiśāstreṣu santaterdāyahāritā |
+yuktaiva tāvānsa hyukto bhedāddūrāntikatvataḥ || ^iast
+
+## Translation
+
+> [!source] Dyczkowski, vol. X
+> [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 10 (Dyczkowski)/Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#^pg106|p. 89]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 10.pdf#page=106>))
+>
+> In this way, according to the law books (smrtiśāstra), (the transmission) of an inheritance (dāyahāritā) through a (family) lineage is (legally) sound (and proper). That is said (to be based) on the degree (of the relationship between family members,) according to whether it is, variously, close or distant. The familial relationship between those who have abandoned (their) regard (@sthd)) for the body and have a sense of identity with consciousness (bodhāhambhāva) is because (they belong to) the two lineages of consciousness and service. (with 28.196–197)
+
+## Viveka
+
+*Lead-in:* अतश्च स्मृतिरपि युक्ता--इत्याह--
+
+Jayaratha comments on this verse together with 28.197: see [[Tantraloka 28.197#Viveka|28.197]].
+

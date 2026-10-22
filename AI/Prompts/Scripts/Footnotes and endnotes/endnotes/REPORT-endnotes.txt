@@ -1,0 +1,98 @@
+# D31d — endnote calls linked to their endnotes
+
+Date: 15 Oct 2026. Local only. Output: `/home/claude/d31c2/endnotes/<book folder>/<exact note name>.md` for every note that changes (Ricoeur: 17 notes; Stiegler: 10 notes). Script: `/home/claude/d31c2/endnotes.py`; full log: `/home/claude/d31c2/endnotes_log.json`.
+
+## What was done
+
+- Every `<sup>N</sup>` call in the body becomes `[[<notes note>#^<id>|<superscript digits>]]` (Unicode superscripts, no `<sup>` around the link). Nothing else in the body changes.
+- Every endnote paragraph gets a block id on its last line: Ricoeur `^n-C07-12` (chapter 7, note 12; `^n-ed-5` for the Editor's Introduction, whose notes form their own section), Stiegler `^n-83`. No endnote paragraph already carried a block id (page markers are lines of their own), so no second id was ever needed.
+- A call is linked only when its number matches exactly one endnote of its chapter (Ricoeur) or of the book-wide sequence (Stiegler) **and** it is the next number in sequence; the rest are left as `<sup>` and listed below.
+- `text_source` in every changed note gets `; endnote calls linked 15 Oct 2026`. Frontmatter is otherwise untouched.
+- **One layout change, please review:** in both Notes sections the converter had run several endnotes together in one paragraph (`… p. 126. 49 Stiegler, *States of Shock*, p. 126.`). A block id can only mark a whole paragraph, so such paragraphs were split at the next note number — only where the number is exactly the next in sequence, is preceded by sentence punctuation and followed by a capital, an asterisk or a quotation mark. No words change. Ricoeur: 7 paragraphs split; Stiegler: 23. All listed at the end.
+
+## Checks (all notes in both books)
+
+Page-marker lines identical to the current notes (same lines, same order); headings identical; frontmatter identical apart from the `text_source` suffix; the words of each note identical to the current note once the links and block ids are stripped (the two Stiegler notes that keep an unlinked `<sup>` differ only there); every link target `^n-…` exists exactly once in the note it points to; no duplicate block ids.
+
+## Ricoeur, *Politics, Economy, and Society*
+
+Notes note: `Politics, Economy, and Society 27 - Notes` — 17 chapter sections (`### N. Title`, plus `### Editor’s Introduction`); chapters 7 and 11 have no notes. Endnotes found: **123**, all of them now called. Calls found: 123 numeric + 1 non-numeric; linked: **123**; unmatched: 1.
+
+| note | calls | linked | unmatched |
+|---|---|---|---|
+| Politics, Economy, and Society 02 - Editor's Introduction | 17 | 17 | — |
+| Politics, Economy, and Society 05 - 1 The Adventures of the State and the Task of Christians | 1 | 1 | — |
+| Politics, Economy, and Society 06 - 2 From Marxism to Contemporary Communism | 12 | 12 | — |
+| Politics, Economy, and Society 07 - 3 Socialism Today | 2 | 2 | — |
+| Politics, Economy, and Society 09 - 4 Hegel Today | 1 | 1 | — |
+| Politics, Economy, and Society 10 - 5 Morality, Ethics, and Politics | 5 | 5 | — |
+| Politics, Economy, and Society 11 - 6 Responsibility and Fragility | 4 | 4 | — |
+| Politics, Economy, and Society 13 - 8 Happiness, Off Site | 1 | 1 | — |
+| Politics, Economy, and Society 15 - 9 Is Crisis a Phenomenon Specific to Modernity | 31 | 31 | — |
+| Politics, Economy, and Society 16 - 10 Money From One Suspicion to the Next | 22 | 22 | — |
+| Politics, Economy, and Society 18 - 12 The Condition of the Foreigner | 15 | 15 | — |
+| Politics, Economy, and Society 19 - 13 Fragile Identity Respect for the Other and Cultural Identity | 1 | 1 | — |
+| Politics, Economy, and Society 21 - 14 What New Ethos for Europe | 2 | 2 | — |
+| Politics, Economy, and Society 22 - 15 The Dialogue of Cultures, the Confrontation of Heritages | 1 | 1 | — |
+| Politics, Economy, and Society 23 - 16 The Crisis of Historical Consciousness and Europe | 2 | 2 | — |
+| Politics, Economy, and Society 25 - 17 The Struggle for Recognition and the Economy of the Gift | 6 | 6 | — |
+| Politics, Economy, and Society 26 - Origin of the Texts | 0 | 0 | `e` (not a number) |
+
+The one unmatched `<sup>e</sup>` is the French ordinal in `VII<sup>e</sup> Rencontres` (Origin of the Texts), not a note. Endnotes without a call: none. A note whose text continues after a page marker (e.g. Editor's Introduction note 10) carries its id on the first paragraph. Chapter 10 note 10 (`10\tAdam Smith`) had a tab after its number and is handled.
+
+## Stiegler, *Nanjing Lectures 2016–2019*
+
+The endnotes are numbered **continuously 1–453 through the whole book** (not per lecture); there are no lecture headings in the Notes section (pp. 345–384, which the 40-page split puts in `… part 9` from `^pg347` and `… part 10`). So the ids are `^n-N` without a lecture prefix — a lecture prefix would have had to be guessed from unheaded text and adds nothing to uniqueness. Endnotes found: **452** of 453; calls found: 454 (453 numbered + one `cm<sup>3</sup>` unit exponent in a figure); linked: **452**; unmatched: 2.
+
+| note | calls | linked | unmatched |
+|---|---|---|---|
+| Nanjing Lectures 2016-2019 03 - Stiegler_2020_Nanjing-Lectures, part 1 | 22 | 21 | `3` (no endnote with this number) |
+| Nanjing Lectures 2016-2019 04 - Stiegler_2020_Nanjing-Lectures, part 2 | 60 | 60 | — |
+| Nanjing Lectures 2016-2019 05 - Stiegler_2020_Nanjing-Lectures, part 3 | 44 | 43 | `3` (out of sequence (previous call 123)) |
+| Nanjing Lectures 2016-2019 06 - Stiegler_2020_Nanjing-Lectures, part 4 | 54 | 54 | — |
+| Nanjing Lectures 2016-2019 07 - Stiegler_2020_Nanjing-Lectures, part 5 | 31 | 31 | — |
+| Nanjing Lectures 2016-2019 08 - Stiegler_2020_Nanjing-Lectures, part 6 | 37 | 37 | — |
+| Nanjing Lectures 2016-2019 09 - Stiegler_2020_Nanjing-Lectures, part 7 | 55 | 55 | — |
+| Nanjing Lectures 2016-2019 10 - Stiegler_2020_Nanjing-Lectures, part 8 | 97 | 97 | — |
+| Nanjing Lectures 2016-2019 11 - Stiegler_2020_Nanjing-Lectures, part 9 | 54 | 54 | — |
+
+- Endnote 3 has lost its number in the text layer (the paragraph `*Translator’s note*: See Paul Valéry, ‘Freedom of the Mind’ …` sits between notes 2 and 4 with no `3`); the call `<sup>3</sup>` in part 1 is therefore left unlinked rather than guessed. If you want it linked, the paragraph is the one right after `^n-2`; adding ` ^n-3` to it and linking the call is a two-line change.
+- `cm<sup>3</sup>` (part 3, a figure caption) is out of sequence and left alone.
+- Endnotes without a call: none.
+- The text layer of the Notes section is irregular: numbers stand on lines of their own (`1\t`), or come *after* the first line of their note (`… in Jacques Derrida, 7\t`), or run on inside the previous paragraph. All three forms are handled; the block id always goes on the paragraph holding the note's first line of text. Where a number stands on its own line, that line is left as it is (the id is on the text paragraph after it).
+
+## Paragraphs split (run-on notes)
+
+Ricoeur (section: first words of each resulting paragraph):
+- ed: `2 Paul Ricoeur, *Lectures 1. Autour du politique* (Paris: Le…` / `3 Paul Ricoeur, *Lectures on Ideology and Utopia*, ed. G. H.…`
+- ed: `7 This article is reprinted in Ricoeur, *History and Truth*,…` / `8 This text anticipates “Should We Renounce Hegel?,” a chapt…` / `9 “Ideology and Utopia,” in *From Text to Action*, pp. 300–1…`
+- C02: `2 Karl Marx, *Economic and Philosophical Manuscripts*, in *E…` / `3 Karl Marx and Frederick Engels, *The German Ideology* (Mos…`
+- C05: `1 This text was accompanied by the following summary: “Polit…` / `2 Jean-Marc Ferry, *Les Puissances de l’expérience, Vol. II.…`
+- C05: `4 Michael Walzer, *Spheres of Justice* (New York: Basic Book…` / `5 Luc Boltanski and Laurent Thévenot, *On Justification: Eco…`
+- C09: `7 Reinhart Koselleck, *Critique and Crisis: Enlightenment an…` / `8 The two passages from Rousseau’s *Émile* are cited by Kose…`
+- C10: `A. Goldhammer (Chicago: University of Chicago Press, 1980), …` / `2 Ibid., p. 30.…`
+
+Stiegler (note file suffix: first words of each resulting paragraph):
+-  part 9: `48 Hegel, *Phenomenology of Spirit*, §196, tr…` / `49 Stiegler, *States of Shock*, p. 126.…`
+-  part 9: `Samuel Moore (London: Penguin, 1967), p. 88, …` / `68 Marx and Engels, *The German Ideology*, p.…`
+- part 10: `102 Referring here to *The Infinite Conversat…` / `103 Contrary to what Nietzsche argues.…`
+- part 10: `122 See Stiegler, *Technics and Time, 3*, ch.…` / `123 *Translator’s note*: See Jean-Pierre Vern…`
+- part 10: `124 André Leroi-Gourhan, *Gesture and Speech*…` / `125 Ibid., p. 413.…`
+- part 10: `Janet Lloyd with Jeff Fort (New York: Zone Bo…` / `153 Ibid.…`
+- part 10: `*An Essay on the Representation of Space and …` / `160 Vernant, *Myth and Thought among the Gree…`
+- part 10: `those syntheses composed of tertiary retentio…` / `174 Immanuel Kant, *Religion within the Bound…`
+- part 10: `Werner S. Pluhar (Indiana and Cambridge: Hack…` / `175 Heidegger, *Being and Time*, p. 7, German…`
+- part 10: `236 Vygotsky, ‘The Instrumental Method in Psy…` / `237 Ibid.…`
+- part 10: `Laurence Garey (Princeton: Princeton Universi…` / `254 Bernard Stiegler, ‘Préface’, in Maryanne …` / `255 Allen Buchanan, *Better than Human: The P…` / `256 Bernard Stiegler, ‘Lights and Shadows in …` / `257 Bernard Stiegler, *Symbolic Misery, Volum…`
+- part 10: `Rachel Bowlby (Stanford: Stanford University …` / `268 Rudolf Boehm, ‘Pensée et technique. Notes…`
+- part 10: `292 Lotka, ‘The Law of Evolution as a Maximal…` / `293 Ibid.…`
+- part 10: `sensory, principle of orientation to the righ…` / `305 ‘Concretized’ in Simondon’s sense.…`
+- part 10: `*La technique et le temps 6. La guerre des es…` / `357 Paul Valéry, ‘The Crisis of the Mind’, in…` / `358 Paul Valéry, ‘Freedom of the Mind’, in Va…` / `359 This will be elaborated in a forthcoming …`
+- part 10: `360 I will return to this in Stiegler, *La So…` / `361 Claude Lévi-Strauss, *Tristes Tropiques*,…`
+- part 10: `Teubner, 1937); Bertalanffy, *General System …` / `383 Henri Atlan, *L’Organisation biologique e…`
+- part 10: `386 With the exception, precisely, of Bailly,…` / `387 See Bernard Stiegler, *Automatic Society,…`
+- part 10: `401 Simondon, *On the Mode of Existence of Te…` / `402 See Stiegler, *La technique et le temps 4…`
+- part 10: `410 See Lotka, ‘The Law of Evolution as a Max…` / `411 See Georges Canguilhem, *The Normal and t…`
+- part 10: `413 This will be analysed in greater depth in…` / `414 This confusion is the expression of suffe…`
+- part 10: `A Second Notice’, *BioScience* 67 (2017), pp.…` / `420 Intergovernmental Panel on Climate Change…`
+- part 10: `449 *Translator’s note*: See Stiegler, *Techn…` / `450 Karl Meyerson, *Les Fonctions psychologiq…`

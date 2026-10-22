@@ -1,0 +1,36 @@
+# D31c, The Dhvanyāloka with the Locana (HOS 49, 1990): section notes made footnotes (18 Oct 2026)
+
+Book: `Library/Trika/Anandavardhana - The Dhvanyaloka, with the Locana of Abhinavagupta (1990).pdf` (853 pages, scan with an ABBYY FineReader 12 layer). Notes: `Library/Trika/The Dhvanyaloka of Anandavardhana with the Locana (Anandavardhana)/`, made on 7 Oct by a fresh Tesseract OCR; the translation is in notes 05–21 (PDF 56–745). Done with the Agent SDK on the laptop; scripts ran in `C:\Users\welln\fnwork\dhv\`.
+
+## Layout
+
+The translation is in blocks marked in the margin K (Kārikā), A (Vṛtti) and L (Locana). Each block's text carries raised note numbers from 1, and the block's notes follow it in smaller type, often over several pages, until the next block or a section heading. The ABBYY layer keeps the call digits (glued to the word, `agents.5`, or as a raised fragment of its own, `.1`) and the note labels ("1.", also "I.", "1 ."); Tesseract read the calls as ? ! ® ’ and the like.
+
+## Result
+
+886 Markdown footnotes in the 17 translation notes; ids `<letter><PDF page where the block starts>-<note>` (`L58-7`; `b` added where two blocks of one letter start on one page). Of 1,309 notes found in unbroken label chains, 423 stay as they were: call not in the layer 165; last note of a block not confirmable 91; start or end not confirmed 74; call number ambiguous 40; call and note in different note files 33; call after a bracket not found 27; a few others.
+
+## Method (`blocks.py`, `transform.py`)
+
+The layer's fragments, in page order, split into blocks at the margin letters (also misread TA / ZL / IL, a mark before the letter, or the letter starting a fragment after a large gap); a lone section number ("4.4") or a chapter head ends a block. A block's notes start at an indented or spaced "1."; the labels 1, 2, 3 … are taken while unbroken (at a fragment start or after a sentence end, before a capital). Calls: candidates with exact digits in the block's text, the longest increasing run, a number dropped if another candidate with the same digits would also fit. Each layer page is aligned with its Markdown page (difflib). A note becomes a footnote only if its call is placed, its start is confirmed in the Markdown (its label, or a paragraph break), and its end is the next note's confirmed start or, for the block's last note, the next block's start, with no sign that the chain was cut short. The definition replaces the note's text where it begins; a continuation on the next page is moved up into it (page markers and running heads stay after it). An unconverted note that now opens a paragraph gets its label escaped (`11\.`) so that it is not shown as a list.
+
+## What the image checks found (all fixed before applying)
+
+First check (8 pages): stray OCR marks before references; one reference before a printed full stop; a label "S." left in a definition; a Kārikā line, a section number and an editorial paragraph swallowed into definitions (block boundaries missed); a block letter read "TA"; a running head inside a definition; a "2" inside a quoted stanza taken for a call; calls after a bracket placed on the word before it. Second check (10 pages): stray quote marks remained; the misread "TA". Trying to remove quote marks by counting quotations removed real ones, so in this book no quote mark is ever removed.
+
+## Known leftovers
+
+- Where both OCRs read a raised number as a quotation mark, that mark stays just before the footnote (about 20 on the 18 pages checked).
+- PDF 702: `as in[^A701-7]` may sit one word early (the print has "as in:⁷").
+
+## Checks
+
+Before applying: page markers, headings and frontmatter unchanged apart from `text_source`; removed only digits and junk marks at calls and the notes' own labels; every reference paired with one definition; of 3,675 paragraphs without a footnote, 153 differ only by the added escape and none otherwise. After applying: the 17 notes identical to the checked output; 886 references and definitions, none unpaired; page blocks 690 before and after; unresolved links 10 files / 14 links before and after.
+
+## Quote marks (18 Oct 2026)
+
+`quotesheets.py` cropped the printed line of each of 335 references with a quote mark before it (311 found) onto numbered contact sheets; two subagents said for each whether a quotation mark is printed there (`readings/qresult*.json`). `quotefix.py` removed the marks the print does not have: 241 fixed; 41 real quotes, 4 with punctuation between quote and number, 22 uncertain and 3 others left. Backup: `.work/backup-footnotes-2026-10-18/Dhvanyaloka-quotes/`.
+
+## Second round (19 Oct 2026)
+
+`round2.py` listed the blocks with notes still not converted (270 blocks, 573 pages); eight subagents read, per missing note, the call's page and words and the note's first and last words (`readings/r2res*.json`; many listed numbers do not exist in their block). `dvlink.py` converts a note under the same strict rules as Törzsök's second round; a note may run over pages within one note file; a call is looked for only outside notes and definitions. Result: 465 more footnotes (1,351). Image checks (16 pages): one definition missing its first word (fixed); then all correct. Leftovers: a stray `S.` line on PDF 581; note L668-19's closing quote on its own line; stray quote marks beside some references. Readers also found blocks my block rule made up (A182 inside L180, K709 inside A705, A715 inside L711): the first-round footnotes next to them were checked and are paired correctly (A182's ids carry the wrong letter only). Backup: `.work/backup-footnotes-2026-10-18/Dhvanyaloka-round2/`.

@@ -1,0 +1,45 @@
+---
+type: text
+work: "Douay-Rheims Bible"
+book: "Psalms"
+douay_name: "Psalms"
+chapter: 20
+translation: "Douay-Rheims, American edition of 1899"
+license: "Public domain (eBible.org, engDRA)"
+source: "https://ebible.org/find/details.php?id=engDRA"
+---
+# Psalms 20 (Douay-Rheims)
+
+[[DRB Psalms 19|← Psalms 19]] · [[Douay-Rheims|index]] · [[DRB Psalms 21|Psalms 21 →]]
+
+Compare: [[LXX Psalms 20|LXX (Brenton), same numbering]] · the Hebrew numbering: [[Psalms numbering]]
+
+**20:1** Unto the end. A psalm for David. ^20-1
+
+**20:2** In thy strength, O Lord, the king shall joy; and in thy salvation he shall rejoice exceedingly. ^20-2
+
+**20:3** Thou hast given him his heart’s desire: and hast not withholden from him the will of his lips. ^20-3
+
+**20:4** For thou hast prevented him with blessings of sweetness: thou hast set on his head a crown of precious stones. ^20-4
+
+**20:5** He asked life of thee: and thou hast given him length of days for ever and ever. ^20-5
+
+**20:6** His glory is great in thy salvation: glory and great beauty shalt thou lay upon him. ^20-6
+
+**20:7** For thou shalt give him to be a blessing for ever and ever: thou shalt make him joyful in gladness with thy countenance. ^20-7
+
+**20:8** For the king hopeth in the Lord: and through the mercy of the most High he shall not be moved. ^20-8
+
+**20:9** Let thy hand be found by all thy enemies: let thy right hand find out all them that hate thee. ^20-9
+
+**20:10** Thou shalt make them as an oven of fire, in the time of thy anger: the Lord shall trouble them in his wrath, and fire shall devour them. ^20-10
+
+**20:11** Their fruit shalt thou destroy from the earth: and their seed from among the children of men. ^20-11
+
+**20:12** For they have intended evils against thee: they have devised counsels which they have not been able to establish. ^20-12
+
+**20:13** For thou shalt make them turn their back: in thy remnants thou shalt prepare their face. ^20-13
+
+**20:14** Be thou exalted, O Lord, in thy own strength: we will sing and praise thy power. ^20-14
+
+[[DRB Psalms 19|← Psalms 19]] · [[Douay-Rheims|index]] · [[DRB Psalms 21|Psalms 21 →]]

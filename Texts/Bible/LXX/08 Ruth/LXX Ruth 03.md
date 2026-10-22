@@ -1,0 +1,53 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Ruth"
+english_book: "Ruth"
+chapter: 3
+aliases:
+  - "Ruth 3"
+---
+# LXX Ruth 03
+
+← [[LXX Ruth 02]] · [[LXX]] · [[LXX Ruth 04]] →
+
+*Ruth · [[LXX]]*
+
+**3:1** And she lodged with her mother-in-law: and Noemin her mother-in-law said to her, My daughter, shall I not seek rest for thee, that it may be well with thee?  ^3-1
+
+**3:2** And now *is* not Booz our kinsman, with whose damsels thou wast? behold, he winnows barley this night in the floor.  ^3-2
+
+**3:3** But do thou wash, and anoint thyself, and put thy raiment upon thee, and go up to the threshing-floor: do not discover thyself to the man until he has done eating and drinking.  ^3-3
+
+**3:4** And it shall come to pass when he lies down, that thou shalt mark the place where he lies down, and shalt come and lift up the covering of his feet, and shalt lie down; and he shall tell thee what thou shalt do.  ^3-4
+
+**3:5** And Ruth said to her, All that thou shalt say, I will do.  ^3-5
+
+**3:6** And she went down to the threshing-floor, and did according to all that her mother-in-law enjoined her.  ^3-6
+
+**3:7** And Booz ate and drank, and his heart was glad, and he came to lie down by the side of the heap of corn; and she came secretly, and lifted up the covering of his feet.  ^3-7
+
+**3:8** And it came to pass at midnight that the man was amazed, and troubled, and behold, a woman lay at his feet.  ^3-8
+
+**3:9** And he said, Who art thou? and she said, I am thine handmaid Ruth; spread therefore thy skirt over thine handmaid, for thou art a near relation.  ^3-9
+
+**3:10** And Booz said, Blessed *be* thou of the Lord God, *my* daughter, for thou hast made thy latter kindness greater than the former, in that thou followest not after young men, whether *any be* poor or rich.  ^3-10
+
+**3:11** And now fear not, my daughter, whatever thou shalt say I will do to thee; for all the tribe of my people knows that thou art a virtuous woman.  ^3-11
+
+**3:12** And now I am truly akin to thee; nevertheless there is a kinsman nearer than I.  ^3-12
+
+**3:13** Lodge *here* for the night, and it shall be in the morning, if he will do the part of a kinsman to thee, well—let him do it: but if he will not do the part of a kinsman to thee, I will do the kinsman's part to thee, *as* the Lord lives; lie down till the morning.  ^3-13
+
+**3:14** And she lay at his feet until the morning; and she rose up before a man could know his neighbour; and Booz said, Let it not be known that a woman came into the floor.  ^3-14
+
+**3:15** And he said to her, Bring the apron that is upon thee: and she held it, and he measured six measures of barley, and put them upon her, and she went into the city.  ^3-15
+
+**3:16** And Ruth went in to her mother-in-law, and she said to her, *My* daughter! and *Ruth* told her all that the man had done to her.  ^3-16
+
+**3:17** And she said to her, He gave me these six measures of barley, for he said to me, Go not empty to thy mother-in-law.  ^3-17
+
+**3:18** And she said, Sit still, *my* daughter, until thou shalt know how the matter will fall out; for the man will not rest until the matter be accomplished this day.  ^3-18

@@ -1,0 +1,33 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Leviticus"
+english_book: "Leviticus"
+chapter: 12
+aliases:
+  - "Leviticus 12"
+---
+# LXX Leviticus 12
+
+← [[LXX Leviticus 11]] · [[LXX]] · [[LXX Leviticus 13]] →
+
+*Leviticus · [[LXX]]*
+
+**12:1** And the Lord spoke to Moses, saying,  ^12-1
+
+**12:2** Speak to the children of Israel, and thou shalt say to them, Whatsoever woman shall have conceived and born a male child shall be unclean seven days, she shall be unclean according to the days of separation for her monthly courses.  ^12-2
+
+**12:3** And on the eighth day she shall circumcise the flesh of his foreskin.  ^12-3
+
+**12:4** And for thirty-three days she shall continue in her unclean blood; she shall touch nothing holy, and shall not enter the sanctuary, until the days of her purification be fulfilled.  ^12-4
+
+**12:5** But if she should have born a female child, then she shall be unclean twice seven days, according to the time of her monthly courses; and for sixty-six days shall she remain in her unclean blood.  ^12-5
+
+**12:6** And when the days of her purification shall have been fulfilled for a son or a daughter, she shall bring a lamb of a year old without blemish for a whole-burnt-offering, and a young pigeon or turtle-dove for a sin-offering to the door of the tabernacle of witness, to the priest.  ^12-6
+
+**12:7** And he shall present it before the Lord, and the priest shall make atonement for her, and shall purge her from the fountain of her blood; this is the law of her who bears a male or a female.  ^12-7
+
+**12:8** And if she cannot afford a lamb, then shall she take two turtle-doves or two young pigeons, one for a whole-burnt-offering, and one for a sin-offering; and the priest shall make atonement for her, and she shall be purified.  ^12-8

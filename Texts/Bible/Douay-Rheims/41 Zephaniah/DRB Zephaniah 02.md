@@ -1,0 +1,47 @@
+---
+type: text
+work: "Douay-Rheims Bible"
+book: "Zephaniah"
+douay_name: "Sophonias"
+chapter: 2
+translation: "Douay-Rheims, American edition of 1899"
+license: "Public domain (eBible.org, engDRA)"
+source: "https://ebible.org/find/details.php?id=engDRA"
+---
+# Zephaniah 2 (Douay-Rheims)
+
+*Sophonias 2 in the Douay-Rheims*
+
+[[DRB Zephaniah 01|← Zephaniah 1]] · [[Douay-Rheims|index]] · [[DRB Zephaniah 03|Zephaniah 3 →]]
+
+**2:1** Assemble yourselves together, be gathered together, O nation not worthy to be loved: ^2-1
+
+**2:2** Before the decree bring forth the day as dust passing away, before the fierce anger of the Lord come upon you, before the day of the Lord’s indignation come upon you. ^2-2
+
+**2:3** Seek the Lord, all ye meek of the earth, you that have wrought his judgment: seek the just, seek the meek: if by any means you may be hid in the day of the Lord’s indignation. ^2-3
+
+**2:4** For Gaza shall be destroyed, and Ascalon shall be a desert, they shall cast out Azotus at noonday, and Accaron shall be rooted up. ^2-4
+
+**2:5** Woe to you that inhabit the sea coast, O nation of reprobates: the word of the Lord upon you, O Chanaan, the land of the Philistines, and I will destroy thee, so that there shall not be an inhabitant. ^2-5
+
+**2:6** And the sea coast shall be the resting place of shepherds, and folds for cattle: ^2-6
+
+**2:7** And it shall be the portion of him that shall remain of the house of Juda, there they shall feed: in the houses of Ascalon they shall rest in the evening: because the Lord their God will visit them, and bring back their captivity. ^2-7
+
+**2:8** I have heard the reproach of Moab, and the blasphemies of the children of Ammon, with which they reproached my people, and have magnified themselves upon their borders. ^2-8
+
+**2:9** Therefore as I live, saith the Lord of hosts the God of Israel, Moab shall be as Sodom, and the children of Ammon as Gomorrha, the dryness of thorns, and heaps of salt, and a desert even for ever: the remnant of my people shall make a spoil of them, and the residue of my nation shall possess them. ^2-9
+
+**2:10** This shall befall them for their pride: because they have blasphemed, and have been magnified against the people of the Lord of hosts. ^2-10
+
+**2:11** The Lord shall be terrible upon them, and shall consume all the gods of the earth: and they shall adore him every man from his own place, all the islands of the Gentiles. ^2-11
+
+**2:12** You Ethiopians, also shall be slain with my sword. ^2-12
+
+**2:13** And he will stretch out his hand upon the north, and will destroy Assyria: and he will make the beautiful city a wilderness, and as a place not passable, and as a desert. ^2-13
+
+**2:14** And flocks shall lie down in the midst thereof, all the beasts of the nations: and the bittern and the urchin shall lodge in the threshold thereof: the voice of the singing bird in the window, the raven on the upper post, for I will consume her strength. ^2-14
+
+**2:15** This is the glorious city that dwelt in security: that said in her heart: I am, and there is none beside me: how is she become a desert, a place for beasts to lie down in? every one that passeth by her, shall hiss, and wag his hand. ^2-15
+
+[[DRB Zephaniah 01|← Zephaniah 1]] · [[Douay-Rheims|index]] · [[DRB Zephaniah 03|Zephaniah 3 →]]

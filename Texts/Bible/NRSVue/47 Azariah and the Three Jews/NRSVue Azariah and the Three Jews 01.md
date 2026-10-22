@@ -1,0 +1,152 @@
+---
+type: text
+work: "NRSV Updated Edition"
+book: "Azariah and the Three Jews"
+chapter: 1
+translation: "New Revised Standard Version Updated Edition (2021)"
+license: "© 2021 National Council of the Churches of Christ in the USA; all rights reserved (private study copy)"
+source: "NRSVue eBible, Friendship Press 2021 (e-ISBN 978-1-7330759-4-7)"
+---
+# Azariah and the Three Jews 1 (NRSVue)
+
+[[NRSVue|index]]
+
+## The prayer of Azariah in the furnace
+
+**1:1** They walked around in the midst of the flames, singing hymns to God and blessing the Lord. ^1-1
+
+**1:2** Then Azariah stood still in the fire and prayed aloud: ^1-2
+
+**1:3** “Blessed are you, O Lord, God of our ancestors, and worthy of praise, and glorious is your name forever! ^1-3
+
+**1:4** For you are just in all you have done; all your works are true and your ways right, and all your judgments are true. ^1-4
+
+**1:5** You have executed true judgments in all you have brought upon us and upon Jerusalem, the holy city of our ancestors; by a true judgment you have brought all this upon us because of our sins. ^1-5
+
+**1:6** For we have sinned and broken your law in turning away from you; in all matters we have sinned grievously. ^1-6
+
+**1:7** We have not obeyed your commandments; we have not kept them or done what you have commanded us for our own good. ^1-7
+
+**1:8** So all that you have brought upon us and all that you have done to us, you have done by a true judgment. ^1-8
+
+**1:9** You have handed us over to our enemies, lawless and hateful rebels, and to an unjust king, the most wicked in all the world. ^1-9
+
+**1:10** And now we cannot open our mouths; we, your servants who worship you, bear shame and reproach. ^1-10
+
+**1:11** For your name’s sake do not give us up forever, and do not annul your covenant. ^1-11
+
+**1:12** Do not withdraw your mercy from us, for the sake of Abraham your beloved and for the sake of Isaac your servant and Israel your holy one, ^1-12
+
+**1:13** to whom you promised to multiply their descendants like the stars of heaven and like the sand on the shore of the sea. ^1-13
+
+**1:14** For we, O Lord, have become fewer than any other nation and are brought low this day in all the world because of our sins. ^1-14
+
+**1:15** In our day we have no ruler, or prophet, or leader, no burnt offering, or sacrifice, or oblation, or incense, no place to make an offering before you and to find mercy. ^1-15
+
+**1:16** Yet with a contrite heart and a humble spirit may we be accepted, ^1-16
+
+**1:17** as though it were with burnt offerings of rams and bulls or with tens of thousands of fat lambs; such may our sacrifice be in your sight today, and may we unreservedly follow you,^[Meaning of Gk uncertain] for no shame will come to those who trust in you. ^1-17
+
+**1:18** And now with all our heart we follow you; we fear you and seek your presence. ^1-18
+
+**1:19** Do not put us to shame, but deal with us in your patience and in your abundant mercy. ^1-19
+
+**1:20** Deliver us in accordance with your marvelous works, and bring glory to your name, O Lord. ^1-20
+
+**1:21** Let all who do harm to your servants be put to shame; let them be disgraced and deprived of all power, and let their strength be broken. ^1-21
+
+**1:22** Let them know that you alone are the Lord God, glorious over the whole world.” ^1-22
+
+## The song of the three Jews
+
+**1:23** Now the king’s servants who threw them in kept stoking the furnace with naphtha, pitch, tinder, and brushwood. ^1-23
+
+**1:24** And the flames poured out above the furnace forty-nine cubits ^1-24
+
+**1:25** and spread out and burned those Chaldeans who were caught near the furnace. ^1-25
+
+**1:26** But the angel of the Lord came down into the furnace to be with Azariah and his companions and drove the fiery flame out of the furnace ^1-26
+
+**1:27** and made the inside of the furnace as though a moist wind were whistling through it. The fire did not touch them at all and caused them no pain or distress. ^1-27
+
+**1:28** Then the three with one voice praised and glorified and blessed God in the furnace: ^1-28
+
+**1:29** “Blessed are you, O Lord, God of our ancestors, and to be praised and highly exalted forever; And blessed is your glorious, holy name, and to be highly praised and highly exalted forever. ^1-29
+
+**1:30** Blessed are you in the temple of your holy glory, and to be extolled and highly glorified forever. ^1-30
+
+**1:31** Blessed are you who look into the depths from your throne on the cherubim, and to be praised and highly exalted forever. ^1-31
+
+**1:32** Blessed are you on the throne of your kingdom, and to be extolled and highly exalted forever. ^1-32
+
+**1:33** Blessed are you in the firmament of heaven, and to be sung and glorified forever. ^1-33
+
+**1:34** “Bless the Lord, all you works of the Lord; sing praise to him and highly exalt him forever. ^1-34
+
+**1:35** Bless the Lord, you heavens; sing praise to him and highly exalt him forever. ^1-35
+
+**1:36** Bless the Lord, you angels of the Lord; sing praise to him and highly exalt him forever. ^1-36
+
+**1:37** Bless the Lord, all you waters above the heavens; sing praise to him and highly exalt him forever. ^1-37
+
+**1:38** Bless the Lord, all you powers of the Lord; sing praise to him and highly exalt him forever. ^1-38
+
+**1:39** Bless the Lord, sun and moon; sing praise to him and highly exalt him forever. ^1-39
+
+**1:40** Bless the Lord, stars of heaven; sing praise to him and highly exalt him forever. ^1-40
+
+**1:41** “Bless the Lord, all rain and dew; sing praise to him and highly exalt him forever. ^1-41
+
+**1:42** Bless the Lord, all you winds; sing praise to him and highly exalt him forever. ^1-42
+
+**1:43** Bless the Lord, fire and heat; sing praise to him and highly exalt him forever. ^1-43
+
+**1:44** Bless the Lord, winter cold and summer heat; sing praise to him and highly exalt him forever. ^1-44
+
+**1:45** Bless the Lord, dews and falling snow; sing praise to him and highly exalt him forever. ^1-45
+
+**1:46** Bless the Lord, nights and days; sing praise to him and highly exalt him forever. ^1-46
+
+**1:47** Bless the Lord, light and darkness; sing praise to him and highly exalt him forever. ^1-47
+
+**1:48** Bless the Lord, ice and cold; sing praise to him and highly exalt him forever. ^1-48
+
+**1:49** Bless the Lord, frosts and snows; sing praise to him and highly exalt him forever. ^1-49
+
+**1:50** Bless the Lord, lightnings and clouds; sing praise to him and highly exalt him forever. ^1-50
+
+**1:51** “Let the earth bless the Lord; let it sing praise to him and highly exalt him forever. ^1-51
+
+**1:52** Bless the Lord, mountains and hills; sing praise to him and highly exalt him forever. ^1-52
+
+**1:53** Bless the Lord, all that grows in the ground; sing praise to him and highly exalt him forever. ^1-53
+
+**1:54** Bless the Lord, seas and rivers; sing praise to him and highly exalt him forever. ^1-54
+
+**1:55** Bless the Lord, you springs; sing praise to him and highly exalt him forever. ^1-55
+
+**1:56** Bless the Lord, you sea monsters and all that swim in the waters; sing praise to him and highly exalt him forever. ^1-56
+
+**1:57** Bless the Lord, all birds of the air; sing praise to him and highly exalt him forever. ^1-57
+
+**1:58** Bless the Lord, all wild animals and cattle; sing praise to him and highly exalt him forever. ^1-58
+
+**1:59** “Bless the Lord, all people on earth; sing praise to him and highly exalt him forever. ^1-59
+
+**1:60** Bless the Lord, O Israel; sing praise to him and highly exalt him forever. ^1-60
+
+**1:61** Bless the Lord, you priests of the Lord; sing praise to him and highly exalt him forever. ^1-61
+
+**1:62** Bless the Lord, you servants of the Lord; sing praise to him and highly exalt him forever. ^1-62
+
+**1:63** Bless the Lord, spirits and souls of the righteous; sing praise to him and highly exalt him forever. ^1-63
+
+**1:64** Bless the Lord, you who are holy and humble in heart; sing praise to him and highly exalt him forever. ^1-64
+
+**1:65** “Bless the Lord, Hananiah, Azariah, and Mishael; sing praise to him and highly exalt him forever. For he has rescued us from Hades and saved us from the power^[Gk *hand*] of death and delivered us from the midst of the burning fiery furnace; from the midst of the fire he has delivered us. ^1-65
+
+**1:66** Give thanks to the Lord, for he is good, for his mercy endures forever. ^1-66
+
+**1:67** All who worship the Lord, bless the God of gods, sing praise to him and give thanks to him, for his mercy endures forever.” ^1-67
+
+[[NRSVue|index]]

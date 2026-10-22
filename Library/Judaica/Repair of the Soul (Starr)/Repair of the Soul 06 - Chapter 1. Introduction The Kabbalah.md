@@ -1,0 +1,77 @@
+---
+type: book-chapter
+work: "[[Starr - Repair of the Soul]]"
+book: "[[Library/Judaica/Repair of the Soul (Starr)/Repair of the Soul (Starr)|Repair of the Soul (Starr)]]"
+order: 6
+source_pdf: Library/Judaica/Starr - Repair of the Soul (2008).pdf
+page_range: 1–8
+pdf_pages: 26–33
+text_source: PDF text layer (born-digital), PyMuPDF
+converted: 2026-10-07
+---
+
+[[Repair of the Soul 05 - Acknowledgments|← previous]] · [[Repair of the Soul (Starr)|contents]] · [[Repair of the Soul 07 - Chapter 2. Psychoanalysis and the Kabbalah A Case for Dialogue|next →]]
+
+*[p. 1]* ^pg26
+
+## Chapter 1. Introduction: The Kabbalah
+
+Madonna’s proclamation of herself as a kabbalist, adopting the name Esther to signify her self-described spiritual transformation, has sparked a stampede of celebrities as well as ordinary folk toward the 87 (as of this writing) worldwide Kabbalah Centres established by Philip Berg, formerly known as Feivel Gruberger. An insurance salesman turned spiritual leader, Berg disseminates free copies of the Zohar*,* the central text of the Kabbalah written in Hebrew and Aramaic, to his adherents, and encourages them to “scan” it, so that they may gain an unconscious understanding of its teachings, as well as a safeguard from evil. The hot Hollywood accessory of the moment is the *bendel,* a bracelet of red string, considered to be imbued with the protection of the Hebrew matriarch Rachel. Used by traditional Jews, the *bendel* was often placed by a mother under the mattress of the crib of her newborn baby to ward off the evil eye. Now available over the Internet for prices ranging from \$25.99 to \$95, and worn by the likes of Britney Spears and Demi Moore, the “red-string kabbalah bracelet” (Helem, 2004, p. 14) has become a celebrity fashion craze.
+
+The Kabbalah, an ancient term coined over 800 years ago, is gaining widespread familiarity in modern times, thanks in part to Madonna’s embrace of this Jewish mystical tradition, vigorously reported in the 
+
+*[p. 2]* ^pg27
+
+news media and gossip columns. Passed down orally from teacher to student, the knowledge contained within the Kabbalah was originally kept hidden from all but a select few deemed worthy of receiving it. The word Kabbalah itself means “received” and/or “tradition,” reflecting the care that was taken to keep it secret and rooted in *halacha,* Jewish law and religious practice. Equivalent Hebrew words to describe what is known as Jewish mysticism are *sod,* secret, and *chochma nistara,* hidden wisdom. In startling contrast with the esotericism of these traditional teachings and their restriction to a small group of acolytes of exceptional character and meticulous adherence to Jewish practice, the current popularization of the Kabbalah has brought it into the mainstream, making it accessible to the masses without regard to particular religious beliefs or practices. Interest in the Kabbalah by the layperson, rather than the Jewish scholar, has reached astounding proportions. As of this writing, a Google search of “Kabbalah” brings up 4,160,000 results.
+
+A closer examination of the teachings expounded by the Berg family’s Kabbalah Centres (Berg, 1988) reveals that they have little to do with the traditional Kabbalah, and much to do with promoting the financial interests of its founders (“The Truth About the Madonna Cult,” 2004; Simon, 1998). However, not all of the current fascination with Kabbalah is fashion or fad. There has been a parallel increase in serious study of the original kabbalistic texts. Synagogues offer a growing number of classes in traditional Kabbalah, as does Chabad, the Lubavitch Hasidic movement that has incorporated the Kabbalah’s principles into its ethics.
+
+Some of the Kabbalah’s ideas have permeated the intellectual mainstream, informing contemporary visions of social justice and environmental responsibility. The goal of *tikkun olam,* repair of the world, has been taken on by Michael Lerner, the founder of *Tikkun Magazine,* as a challenge to effect social change by adding a spiritual dimension to movements such as the women’s movement, the gay rights movement, the environmental movement, and the movement for economic justice. The concept of *tikkun* has also infiltrated the field of psychology (Brown, 1997; Kory, 2007), along with the recognition that the psychologist’s aim of healing the individual is inexorably linked with the desire to make the world a better place by doing so. The psychologist Laura Brown (1997) characterizes *tikkun olam* as a “core notion informing social justice-oriented practice,” exhorting psychologists to “ask themselves
+
+*[p. 3]* ^pg28
+
+, individually and in their organizations, how must they act so as to continue their revolution of healing the world” (p. 461).
+
+Kabbalistic thought is similarly influencing the development of a new trend in contemporary Jewish theology. Arthur Green (1999) argues for a modern reworking of the ancient Jewish doctrine to meet the needs of:
+
+an environmentally-concerned future that is already upon us. … The insight that God and universe are related not primarily as Creator and creature, but as deep structure and surface, a central insight of the mystical tradition, is key to the Judaism of the future. But the ways in which we develop and act upon that insight will have to be appropriate to our own age. (Retrieved April 27, 2003. www.tikkun.org/magazine/index.ctm/action/tikkun/issue/tik9909/article/990911.html.)
+
+Albeit at times superficial, the rise of popular interest in the Kabbalah suggests a compelling need in contemporary society for answers to some ancient spiritual questions. In a world rife with fundamentalism, suicide bombings, and terrorism on an international scale, in which “martyrs” surrender their lives to God by killing thousands of innocent people in the process, the call to comprehend the incomprehensible has a renewed relevance. It is no surprise that people seek protection from evil that seems to come out of nowhere. Madonna’s “Die Another Day” video, in which she is seen putting on phylacteries containing the name of God while fighting an unidentified enemy, appears to depict the cosmic battle between good and evil, fought on a personal scale. Although it can be considered to be a bastardization of kabbalistic themes, it may on some level tap into the deeper anxieties of an age of fear and uncertainty, in which the threat of apocalyptic annihilation is all too real.
+
+The original flowering of the Kabbalah began during the Middle Ages, a period of similar circumstances of fear and uncertainty for medieval Jewry. Faced with polemics against their minority religion from Christian and Muslim authorities, the Jews were forced to constantly defend their traditions against hostile forces. New intellectual ideas such as Neoplatonism and Aristotelianism also posed a challenge to traditional Judaism, one that was met with a reinterpretation of traditional teachings to incorporate the new ways of thinking. The form that this reinterpretation of the canonized body of Jewish knowledge took 
+
+*[p. 4]* ^pg29
+
+was the commentary, a legacy of the Talmudic age (Green, 2004). The Talmud, or body of Jewish law, is itself a commentary on the Torah.
+
+The Kabbalah is essentially creative commentary, a mystical reinterpretation of biblical and rabbinic literature. It can be understood as a radical formulation of a metaphor of creation and the workings of the universe, rooted in traditional Judaism and derived hermeneutically. The kabbalists graphically articulated the view of a mutual relationship between humanity and God as partners in creative process. Because of the divine admonition in the second of the Ten Commandments against “graven images,” language was the primary tool with which to articulate this vision. The kabbalists viewed language as the medium through which the world was created, considering the letters of the Hebrew alphabet to be the building blocks of the universe. To them, language was a reflection of the “fundamental, spiritual nature of the world” (Scholem, 1995, p. 17), a window into the soul of the human and the divine. Through their innovative conceptualization of language, the kabbalists raised the interpretive process to new heights of creativity.
+
+This creativity, however, was firmly rooted in the heritage of rabbinic and Talmudic Judaism. Green (2004) distinguishes five elements of Jewish tradition that are evident in the Kabbalah’s writings. *Aggadah,* the narrative tradition of the Talmud and the Midrash, is the first of these elements. The *Aggadah* is the teaching of wisdom through the telling of maxims, parables, and fantastic tales, including mythological conceptions of God, and legends of the rabbis. The techniques of interpretation used in the Midrash and appropriated by the kabbalists include finding hidden meanings in the text through the juxtaposition of verses of Scripture, wordplay, and *gematria* or numerology, the assignment of numerical values to individual letters. Through this process of interpretation, the kabbalists believed that they could derive unifying, cosmic structures from the words of the Torah. In fact, the Torah itself was believed by the kabbalists to be the divine in word, a linguistic manifestation of God. It was conceived as a living organism, containing within it an infinity of meanings, all of which are interpretations of what is hidden (Scholem, 1991).
+
+The second element is *halacha,* Jewish law. The early kabbalists were schooled in *halacha* and lived strictly within its boundaries. Much of their teaching sprang from their desire to transform Jewish religious practice from intellectualized, rote performance to vibrant ritual, alive 
+
+*[p. 5]* ^pg30
+
+with spiritual meaning and capable of cosmic effect. Practice of Jewish law was seen as a tool for enabling *tikkun,* repair of the world, a task that could be accomplished only by humanity on the physical plane. It is the Kabbalah’s “relation to the spiritual heritage of rabbinical Judaism,” says Scholem, that is the secret to its success. “This relation differs from that of rationalist philosophy, in that it is more deeply and in a more vital sense connected with the main forces active in Judaism” (1995, p. 23).
+
+The liturgy comprises the third element. The kabbalists deemed these texts of poetry and prayer worthy of interpretation and commentary, and paid great attention to the spiritual intention, or *kavanah,* behind each prayer. Indeed, the Friday night service welcoming the “Sabbath bride,” recited to this day in modern Jewish congregations, was composed by the kabbalists of Safed in the 16th century, and is replete with kabbalistic themes. These prayers vividly depict the relationship between humanity and God as that of beloved soul mates and reflect the kabbalistic yearning for union of the masculine and feminine aspects of the divine. *Merkavah,* or chariot, mysticism, which predated the Kabbalah, is the fourth element. Originating from the prophetic “chariot” visions of Ezekiel, *Merkavah* mysticism is characterized by mystical praxis with the goal of attaining a vision of God. The fifth element is the *Sefer Yetzirah,* a proto-kabbalistic work that develops an abstract conceptualization of cosmic unity through the contemplation of the meaning of numbers and letters. It is in *Sefer Yetzirah* that the doctrines of the *sefirot,* the attributes of God, and the *otiyot yesod,* the foundational letters held to be the “pillars of the universe,” first appear.
+
+The Kabbalah proper is said to originate in 12th-century Provence, with the appearance of the *Sefer HaBahir,* an anonymously authored book of language mysticism (Scholem, 1987). The Kabbalah rapidly spread to Spain, where the Zohar, the central text of the Kabbalah, was “discovered” by Moses de Leon in 1286. Although de Leon attributed the Zohar to Shimon Bar Yohai, a rabbi of the 2nd century, modern scholars believe that de Leon himself was the Zohar’s author. The Zohar, for the most part a commentary on the five books of Moses, contains discourses on the process of creation, the nature of good and evil, the composition of the human soul, and the attributes of God.
+
+A stunning revival of kabbalistic thought took place in the 16th century in the town of Safed (known as Tzfat in modern-day Israel). Moses Cordovero (1522–1570) and Isaac Luria (1534–1572) developed strikingly
+
+*[p. 6]* ^pg31
+
+original theosophical systems, founded on the ideas articulated in the Zohar. Cordovero developed a system of ordering the *sefirot,* values or archetypes, and posited that the *sefirot* were not only attributes of God, but were also aspects of the human soul, which was, in the words of the Bible, “fashioned in God’s image (*tzelem Elohim*)” ([[Torah 01 - Bereshit#^1-27|Genesis 1:27]]). The implication of this concept is that the journey to search for God must be traveled on the path to self-understanding.
+
+Luria’s oral teachings, written down by his student, Chaim Vital (1543–1620), form the complex and innovative theosophical system of thought known as the Lurianic Kabbalah. Luria’s ideas stand in contrast with those of prior kabbalists, who had developed a theory of creation based on language and emanation. The creation metaphor articulated by Isaac Luria is roughly as follows: God is a paradoxical union of being and no-thing, of *Ein-sof,* without end, and *ayin,* nothingness. *Ein-sof* made creation possible through a negative act of contraction or withdrawal, *tzimtzum,* leaving a void. Into this void emanated the *sefirot,* archetypes of values and ways of being. These *sefirot* are contained in vessels, said by earlier kabbalists to be composed of the 22 letters (the Hebrew alphabet) of divine speech.
+
+Unable to contain the divine light they were meant to contain, the vessels shattered, creating broken shards that tumbled through the void, entrapping sparks of light in husks, *klippot,* that form the lower worlds, including the world of evil, referred to by Luria as *sitra achra,* the other side. Evil, separated from its source, but still encapsulating light, takes on a life and energy of its own, perpetuating itself, and wreaking havoc upon humanity. In the higher worlds, the masculine and feminine aspects of the divine were driven apart, disrupting the flow of erotic energy in all the worlds. Some of the divine light, not trapped in *klippot,* returned to its source, beginning a process of repair, or *tikkun.* Humanity’s role in this cosmic drama is to continue the process of *tikkun.*
+
+Luria’s ideas are unique in viewing humanity in partnership with God in the creative process, and as participating in a continuous dialogue with the divine. By contracting, God in effect made room for the world, humanity, and human free will. *Tikkun olam,* repair of the world, is completed by humankind, whose task it is to elevate the sparks, reuniting the masculine and feminine aspects of God. The Kabbalah holds that the universe is comprised of many worlds of varying dimensions. Humanity’s domain is the physical world, and so it is humankind’s 
+
+*[p. 7]* ^pg32
+
+moral, intellectual, and spiritual acts, including acts of social justice, that effect *tikkun* in all the worlds (Steinsaltz, 1980). In this manner, the human being acts as God’s partner in creation of the world, and is said even to transform God Himself.
+
+*[p. 8]* ^pg33

@@ -1,0 +1,67 @@
+---
+type: text
+work: "Douay-Rheims Bible"
+book: "Matthew"
+douay_name: "Matthew"
+chapter: 1
+translation: "Douay-Rheims, American edition of 1899"
+license: "Public domain (eBible.org, engDRA)"
+source: "https://ebible.org/find/details.php?id=engDRA"
+---
+# Matthew 1 (Douay-Rheims)
+
+— · [[Douay-Rheims|index]] · [[DRB Matthew 02|Matthew 2 →]]
+
+Compare: [[Matthew 01|BSB and SBLGNT]]
+
+**1:1** The book of the generation of Jesus Christ, the son of David, the son of Abraham: ^1-1
+
+**1:2** Abraham begot Isaac. And Isaac begot Jacob. And Jacob begot Judas and his brethren. ^1-2
+
+**1:3** And Judas begot Phares and Zara of Thamar. And Phares begot Esron. And Esron begot Aram. ^1-3
+
+**1:4** And Aram begot Aminadab. And Aminadab begot Naasson. And Naasson begot Salmon. ^1-4
+
+**1:5** And Salmon begot Booz of Rahab. And Booz begot Obed of Ruth. And Obed begot Jesse. ^1-5
+
+**1:6** And Jesse begot David the king. And David the king begot Solomon, of her that had been the wife of Urias. ^1-6
+
+**1:7** And Solomon begot Roboam. And Roboam begot Abia. And Abia begot Asa. ^1-7
+
+**1:8** And Asa begot Josaphat. And Josaphat begot Joram. And Joram begot Ozias. ^1-8
+
+**1:9** And Ozias begot Joatham. And Joatham begot Achaz. And Achaz begot Ezechias. ^1-9
+
+**1:10** And Ezechias begot Manasses. And Manesses begot Amon. And Amon begot Josias. ^1-10
+
+**1:11** And Josias begot Jechonias and his brethren in the transmigration of Babylon. ^1-11
+
+**1:12** And after the transmigration of Babylon, Jechonias begot Salathiel. And Salathiel begot Zorobabel. ^1-12
+
+**1:13** And Zorobabel begot Abiud. And Abiud begot Eliacim. And Eliacim begot Azor. ^1-13
+
+**1:14** And Azor begot Sadoc. And Sadoc begot Achim. And Achim begot Eliud. ^1-14
+
+**1:15** And Eliud begot Eleazar. And Eleazar begot Mathan. And Mathan begot Jacob. ^1-15
+
+**1:16** And Jacob begot Joseph the husband of Mary, of whom was born Jesus, who is called Christ. ^1-16
+
+**1:17** So all the generations, from Abraham to David, are fourteen generations. And from David to the transmigration of Babylon, are fourteen generations: and from the transmigration of Babylon to Christ are fourteen generations. ^1-17
+
+**1:18** Now the generation of Christ was in this wise. When as his mother Mary was espoused to Joseph, before they came together, she was found with child, of the Holy Ghost. ^1-18
+
+**1:19** Whereupon Joseph her husband, being a just man, and not willing publicly to expose her, was minded to put her away privately. ^1-19
+
+**1:20** But while he thought on these things, behold the angel of the Lord appeared to him in his sleep, saying: Joseph, son of David, fear not to take unto thee Mary thy wife, for that which is conceived in her, is of the Holy Ghost. ^1-20
+
+**1:21** And she shall bring forth a son: and thou shalt call his name JESUS. For he shall save his people from their sins. ^1-21
+
+**1:22** Now all this was done that it might be fulfilled which the Lord spoke by the prophet, saying: ^1-22
+
+**1:23** Behold a virgin shall be with child, and bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us. ^1-23
+
+**1:24** And Joseph rising up from sleep, did as the angel of the Lord had commanded him, and took unto him his wife. ^1-24
+
+**1:25** And he knew her not till she brought forth her firstborn son: and he called his name JESUS. ^1-25
+
+— · [[Douay-Rheims|index]] · [[DRB Matthew 02|Matthew 2 →]]

@@ -1,0 +1,41 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Isaiah"
+english_book: "Isaiah"
+chapter: 25
+aliases:
+  - "Isaiah 25"
+---
+# LXX Isaiah 25
+
+← [[LXX Isaiah 24]] · [[LXX]] · [[LXX Isaiah 26]] →
+
+*Isaiah · [[LXX]]*
+
+**25:1** O Lord God, I will glorify thee, I will sing to thy name; for thou hast done wonderful things, *even* an ancient *and* faithful counsel. So be it.  ^25-1
+
+**25:2** For thou hast made cities a heap, *even* cities *made* strong that their foundations should not fall: the city of ungodly men shall not be built for ever.  ^25-2
+
+**25:3** Therefore shall the poor people bless thee, and cities of injured men shall bless thee.  ^25-3
+
+**25:4** For thou hast been a helper to every lowly city, and a shelter to them that were disheartened by reason of poverty: thou shalt deliver them from wicked men: *thou hast been* a shelter of them that thirst, and a refreshing air to injured men.  ^25-4
+
+**25:5** *We were* as faint-hearted men thirsting in Sion, by reason of ungodly men to whom thou didst deliver us.  ^25-5
+
+**25:6** And the Lord of hosts shall make *a feast* for all the nations: on this mount they shall drink gladness, they shall drink wine:  ^25-6
+
+**25:7** they shall anoint themselves with ointment in this mountain. Impart thou all these things to the nations; for this is *God's* counsel upon all the nations.  ^25-7
+
+**25:8** Death has prevailed and swallowed *men* up; but again the Lord God has taken away every tear from every face. He has taken away the reproach of *his* people from all the earth: for the mouth of the Lord has spoken it.  ^25-8
+
+**25:9** And in that day they shall say, Behold our God in whom we have trusted, and he shall save us: this *is* the Lord; we have waited for him, and we have exulted, and will rejoice in our salvation.  ^25-9
+
+**25:10** God will give rest on this mountain, and the country of Moab shall be trodden down, as they tread the floor with waggons.  ^25-10
+
+**25:11** And he shall spread forth his hands, even as he also brings down *man* to destroy *him*: and he shall bring low his pride *in regard to the thing* on which he has laid his hands.  ^25-11
+
+**25:12** And he shall bring down the height of the refuge of the wall, and it shall come down even to the ground.  ^25-12

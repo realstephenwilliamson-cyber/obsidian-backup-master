@@ -1,0 +1,12 @@
+[
+  {"pdf": 74, "number": "2", "before": "Rasa because of the enjoyability", "after": "According to", "certain": false, "note": "Raised mark after 'enjoyability' (before the period and closing quote) is a faint speck; digit not legible. '2' inferred from sequence (next call is '2 A' on p. 77)."},
+  {"pdf": 77, "number": "2A", "before": "the mystic experience of Brahman.", "after": "It is", "certain": false, "note": "Printed as '(2 A)' in parentheses at normal size, not raised; looks like a note call 2A but is not superscript."},
+  {"pdf": 85, "number": "3", "before": "types such as Śṛṅgāra, Karuṇa, etc.", "after": "The function", "certain": false, "note": "Small raised digit is tiny and blurred; looks like 3, which fits the sequence."},
+  {"pdf": 92, "number": "4", "before": "to him on the stage.", "after": "And there", "certain": true},
+  {"pdf": 92, "number": "5", "before": "intellectual grasp of the presented.", "after": "The object", "certain": false, "note": "Raised digit blurred; could be read as 6, but 5 fits the sequence (4 earlier on this page, 6 on p. 93)."},
+  {"pdf": 93, "number": "6", "before": "which gradually becomes all pervasive.", "after": "The image", "certain": false, "note": "Raised digit blurred (could be 4 or 6); 6 fits the sequence."},
+  {"pdf": 94, "number": "7", "before": "bahutaraṁ stokamurvyām prayāti.", "after": "The spectator", "certain": true},
+  {"pdf": 95, "number": "8", "before": "develops on the super normal plane.", "after": "From where", "certain": true},
+  {"pdf": 96, "number": "9", "before": "susceptibility and power of visualisation.", "after": "As Bhaṭṭa", "certain": true},
+  {"pdf": 100, "number": "10", "before": "the 'prakṛti' of all the Rasas.", "after": "This aesthetic", "certain": false, "note": "Raised number is blurred (second digit looks like 4 or d); 10 fits the sequence after 9."}
+]

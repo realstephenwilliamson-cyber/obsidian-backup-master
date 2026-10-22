@@ -1,0 +1,49 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Psalms"
+english_book: "Psalms"
+chapter: 148
+aliases:
+  - "Psalms 148"
+---
+# LXX Psalms 148
+
+← [[LXX Psalms 147]] · [[LXX]] · [[LXX Psalms 149]] →
+
+*Psalms · [[LXX]]*
+
+Hebrew numbering (JPS): [[Psalms 148]] · Prayer Book (1979): [[BCP Psalm 148]] · [[Psalms numbering]]
+
+**148:1** Alleluia, *a Psalm* of Aggæus and Zacharias. Praise ye the Lord from the heavens: praise him in the highest.  ^148-1
+
+**148:2** Praise ye him, all his angels: praise ye him, all his hosts.  ^148-2
+
+**148:3** Praise him, sun and moon: praise him, all ye stars and light.  ^148-3
+
+**148:4** Praise him, ye heavens of heavens, and the water that is above the heavens.  ^148-4
+
+**148:5** Let them praise the name of the Lord: for he spoke, and they were made; he commanded, and they were created.  ^148-5
+
+**148:6** He has established them for ever, even for ever and ever: he has made an ordinance, and it shall not pass away.  ^148-6
+
+**148:7** Praise the Lord from the earth, ye serpents, and all deeps.  ^148-7
+
+**148:8** Fire, hail, snow, ice, stormy wind; the things that perform his word.  ^148-8
+
+**148:9** Mountains, and all hills; fruitful trees, and all cedars:  ^148-9
+
+**148:10** wild beasts, and all cattle; reptiles, and winged birds:  ^148-10
+
+**148:11** kings of the earth, and all peoples; princes, and all judges of the earth:  ^148-11
+
+**148:12** young men and virgins, old men with youths:  ^148-12
+
+**148:13** let them praise the name of the Lord: for his name only is exalted; his praise is above the earth and heaven,  ^148-13
+
+**148:14** and he shall exalt the horn of his people, *there is* a hymn for all his saints, *even* of the children of Israel, a people who draw near to him.[^1]  ^148-14
+
+[^1]: 148:14 *Or,* who is the praise of.

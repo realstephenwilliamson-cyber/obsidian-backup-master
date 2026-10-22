@@ -1,0 +1,26 @@
+filters:
+  and:
+    - file.folder.startsWith("Catalog/")
+    - type != "index"
+    - file.folder != "Catalog/Scholars"
+    - or:
+        - list(author).join(" ").contains("Stiegler")
+        - title.contains("Stiegler")
+        - file.name.contains("Stiegler")
+views:
+  - type: table
+    name: Stiegler
+    order:
+      - file.name
+      - file.links
+      - subject
+    sort:
+      - property: author
+        direction: DESC
+      - property: subject
+        direction: ASC
+      - property: title
+        direction: ASC
+    columnSize:
+      note.author: 126
+      file.links: 139

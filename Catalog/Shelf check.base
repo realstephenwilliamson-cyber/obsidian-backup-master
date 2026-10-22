@@ -1,0 +1,20 @@
+filters:
+  and:
+    - file.folder.startsWith("Catalog/")
+    - type != "index"
+    - file.folder != "Catalog/Scholars"
+views:
+  - type: table
+    name: Shelf check
+    order:
+      - file.name
+      - physical_copy
+      - subject
+    sort:
+      - property: subject
+        direction: ASC
+      - property: title
+        direction: ASC
+    columnSize:
+      note.author: 168
+      note.subject: 177

@@ -1,0 +1,16 @@
+{
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "callout-styles",
+    "dark-folders"
+  ],
+  "showRibbon": true,
+  "baseFontSize": 17,
+  "cssTheme": "Minimal",
+  "accentColor": "#5c4cd6",
+  "interfaceFontFamily": "Palatino,Noto Serif,Noto Serif Devanagari",
+  "theme": "obsidian",
+  "textFontFamily": "Noto Serif,Noto Serif Devanagari",
+  "monospaceFontFamily": "Noto Sans Mono",
+  "showViewHeader": true
+}

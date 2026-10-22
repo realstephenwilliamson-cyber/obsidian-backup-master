@@ -1,0 +1,19 @@
+filters:
+  and:
+    - file.folder.startsWith("Catalog/")
+    - type != "index"
+    - file.folder != "Catalog/Scholars"
+    - status == "reading"
+views:
+  - type: table
+    name: Currently reading
+    order:
+      - file.name
+      - files
+      - subject
+      - year
+    sort:
+      - property: title
+        direction: ASC
+    columnSize:
+      note.files: 94

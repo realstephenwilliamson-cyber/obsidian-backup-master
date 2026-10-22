@@ -1,0 +1,22 @@
+filters:
+  and:
+    - file.folder.startsWith("Catalog/")
+    - type != "index"
+    - file.folder != "Catalog/Scholars"
+    - status == "review"
+views:
+  - type: table
+    name: Needs review
+    groupBy:
+      property: subject
+      direction: ASC
+    order:
+      - file.name
+      - subject
+      - file.links
+      - type
+    sort:
+      - property: subject
+        direction: ASC
+      - property: title
+        direction: ASC

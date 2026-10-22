@@ -1,0 +1,35 @@
+---
+type: "text"
+work: "Tantrāloka"
+author: "Abhinavagupta"
+commentary: "Jayaratha, Viveka"
+chapter: 28
+verse: 321
+edition: "Kashmir Series of Texts and Studies (KSTS), as transcribed by Muktabodha (M00093)"
+license: "CC BY-NC 4.0, Muktabodha Indological Research Institute"
+aliases:
+  - "TĀ 28.321"
+  - "TA 28.321"
+  - "Tantrāloka 28.321"
+---
+[[Tantraloka 28.320|← 28.320]] · [[Tantraloka 28 - Parvapavitrakadiprakasana|Āhnika 28]] · [[Tantraloka 28.322|28.322 →]]
+
+## Mūla
+
+जुगुप्साभावभङ्गस्थे सर्वतः स्तम्भवत्स्थिते ।
+सर्वव्यापत्तिरहिते प्रमाणप्रत्ययातिगे ॥ ^mula
+
+jugupsābhāvabhaṅgasthe sarvataḥ stambhavatsthite |
+sarvavyāpattirahite pramāṇapratyayātige || ^iast
+
+## Translation
+
+> [!source] Dyczkowski, vol. X
+> [[Library/Trika/Tantraloka (Dyczkowski)/Tantraloka vol 10 (Dyczkowski)/Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#^pg154|p. 137]] ([pdf](<Library/Trika/Dyczkowski - Tantraloka translation/Dyczkowski - Tantraloka, vol. 10.pdf#page=154>))
+>
+> It is said in the venerable Traiśirasa also: ‘this awakened consciousness transcends the perceptions (of the senses, that are) the means of knowledge. Free of the (binding) hollow space of the Sun (of exhalation) and the Moon (of inhalation), it abides in the cessation of disgust and its absence, and stands in every way like a pillar (in the centre), free of all troubles. Merged (Mna) within it, even the agent of Karma is without stain. The material (body) is the jar and the Self is the space (within it). When the jar has been destroyed, the space (within it) is not. In the same way, this Self is (indestructible) Śiva. The one who has (this spiritual) knowledge abides free, and extends through all things. For him there is neither being nor non-being; he has no location (saṁsthāna), nor is he conceived (in any way).’ (with 28.320cd–324ab)
+
+## Viveka
+
+Jayaratha comments on this verse together with 28.323: see [[Tantraloka 28.323#Viveka|28.323]].
+

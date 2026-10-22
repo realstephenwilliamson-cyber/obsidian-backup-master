@@ -1,0 +1,69 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "4 Maccabees"
+english_book: "4 Maccabees"
+chapter: 4
+aliases:
+  - "4 Maccabees 4"
+---
+# LXX 4 Maccabees 04
+
+← [[LXX 4 Maccabees 03]] · [[LXX]] · [[LXX 4 Maccabees 05]] →
+
+*4 Maccabees · [[LXX]]*
+
+**4:1** For a certain man named Simon, who was in opposition to Onias, who once held the high priesthood for life, and was an honourable and good man, after that by slandering him in every way, he could not injure him with the people, went away as an exile, with the intention of betraying his country.  ^4-1
+
+**4:2** Whence coming to Apollonius, the military governor of Syria, and Phœnicia, and Cilicia, he said,  ^4-2
+
+**4:3** Having good will to the king's affairs, I am come to inform thee that infinite private wealth is laid up in the treasuries of Jerusalem which do not belong to the temple, but pertain to king Seleucus.  ^4-3
+
+**4:4** Apollonius, acquainting himself with the particulars of this, praised Simon for his care of the king's interests, and going up to Seleucus informed him of the treasure;  ^4-4
+
+**4:5** and getting authority about it, and quickly advancing into our country with the accursed Simon and a very heavy force,  ^4-5
+
+**4:6** he said that he came with the commands of the king that he should take the private money of the treasury.  ^4-6
+
+**4:7** And the nation, indignant at this proclamation, and replying to the effect that it was extremely unfair that those who had committed deposits to the sacred treasury should be deprived of them, resisted as well as they could.  ^4-7
+
+**4:8** But Apollonius went away with threats into the temple.  ^4-8
+
+**4:9** And the priests, with the women and children, having supplicated God to throw his shield over the holy, despised place,  ^4-9
+
+**4:10** and Apollonius going up with his armed force to the seizure of the treasure,—there appeared from heaven angels riding on horseback, all radiant in armour, filling them with much fear and trembling.  ^4-10
+
+**4:11** And Apollonius fell down half dead upon the court which is open to all nations, and extended his hands to heaven, and implored the Hebrews, with tears, to pray for him, and propitiate the heavenly host.  ^4-11
+
+**4:12** For he said that he had sinned, so as to be consequently worthy of death; and that if he were saved, he would celebrate to all men the blessedness of the holy place.  ^4-12
+
+**4:13** Onias the high priest, induced by these words, although for other reasons anxious that king Seleucus should not suppose that Apollonius was slain by human device and not by Divine punishment, prayed for him;  ^4-13
+
+**4:14** and he being thus unexpectedly saved, departed to manifest to the king what had happened to him.  ^4-14
+
+**4:15** But on the death of Seleucus the king, his son Antiochus Epiphanes succeeds to the kingdom: a man of haughty pride and terrible.  ^4-15
+
+**4:16** Who having deposed Onias from the high priesthood, appointed his brother Jason to be high priest:  ^4-16
+
+**4:17** who had made a covenant, if he would give him this authority, to pay yearly three thousand six hundred and sixty talents.  ^4-17
+
+**4:18** And he committed to him the high priesthood and rulership over the nation.  ^4-18
+
+**4:19** And he both changed the manner of living of the people, and perverted their civil customs into all lawlessness.  ^4-19
+
+**4:20** So that he not only erected a gymnasium on the very citadel of our country, [but neglected] the guardianship of the temple.  ^4-20
+
+**4:21** At which Divine vengeance being grieved, instigated Antiochus himself against them.  ^4-21
+
+**4:22** For being at war with Ptolemy in Egypt, he heard that on a report of his death being spread abroad, the inhabitants of Jerusalem had exceedingly rejoiced, and he quickly marched against them.  ^4-22
+
+**4:23** And having subdued them, he established a decree that if any of them lived according to the laws of his country, he should die.  ^4-23
+
+**4:24** And when he could by no means destroy by his decrees the obedience to the law of the nation, but saw all his threats and punishments without effect,  ^4-24
+
+**4:25** for even women, because they continued to circumcise their children, were flung down a precipice along with them, knowing beforehand of the punishment.  ^4-25
+
+**4:26** When, therefore, his decrees were disregarded by the people, he himself compelled by means of tortures every one of this race, by tasting forbidden meats, to abjure the Jewish religion.  ^4-26

@@ -1,0 +1,35 @@
+---
+type: "lxx"
+work: "Brenton English Septuagint"
+translator: "Sir Lancelot C. L. Brenton (1851)"
+license: "Public Domain"
+source: "https://github.com/GZancewicz/hypomnema"
+book: "Isaiah"
+english_book: "Isaiah"
+chapter: 39
+aliases:
+  - "Isaiah 39"
+---
+# LXX Isaiah 39
+
+← [[LXX Isaiah 38]] · [[LXX]] · [[LXX Isaiah 40]] →
+
+*Isaiah · [[LXX]]*
+
+**39:1** At that time Marodach Baladan, the son of Baladan, the king of Babylonia, sent letters and ambassadors and gifts to Ezekias: for he had heard that he had been sick *even* to death, and was recovered.[^1]  ^39-1
+
+**39:2** And Ezekias was glad of their coming, and he shewed them the house of *his* spices, and of silver, and gold, and myrrh, and incense, and ointment, and all the houses of his treasures, and all that he had in his stores: and there was nothing in his house, nor in all his dominion, which Ezekias did not shew.  ^39-2
+
+**39:3** And Esaias the prophet came to king Ezekias, and said to him, What say these men? and whence came they to thee? and Ezekias said, They are come to me from a land afar off, from Babylon.  ^39-3
+
+**39:4** And Esaias said, What have they seen in thine house? and Ezekias said, They have seen everything in my house; and there is nothing in my house which they have not seen: yea, also the *possessions* in my treasuries.  ^39-4
+
+**39:5** And Esaias said to him, Hear the word of the Lord of hosts:  ^39-5
+
+**39:6** Behold, the days come, when they shall take all the *things that are* in thine house, and all that thy fathers have gathered until this day, shall go to Babylon; and they shall not leave anything at all: and God hath said,  ^39-6
+
+**39:7** that they shall take also of thy children whom thou shalt beget; and they shall make them eunuchs in the house of the king of the Babylonians.  ^39-7
+
+**39:8** And Ezekias said to Esaias, Good is the word of the Lord, which he hath spoken: let there, I pray, be peace and righteousness in my days.  ^39-8
+
+[^1]: 39:1 *Gr.* was.

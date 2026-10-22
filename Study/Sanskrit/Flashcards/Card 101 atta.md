@@ -1,0 +1,52 @@
+---
+type: flashcard
+card: 101
+card_label: "3-41"
+alpha: 3
+devanagari: "अट्ट"
+iast: "aṭṭa"
+category: "word"
+class: "Word card (ṭa + ṭa conjunct)"
+sthana: "Double retroflex stop"
+nyasa: "a: forehead (*lalāṭa*) · ṭa: right hip (*kaṭi*)"
+---
+
+# अट्ट aṭṭa
+
+<span style="font-size:4em; line-height:1.2">अट्ट</span>
+
+**Card 101 of 108** (printed: Card 3-41 · Alpha 3) · word
+
+## Front
+
+- **Glyph:** अट्ट
+- **Variation:** —
+- **Example:** —
+- The card has no stroke order (*How to Write*).
+
+## Back
+
+- **Pronunciation:** —
+- **Gloss:** adj: ‘high’ or ‘loud’
+- **Class (as printed):** —
+- **Grid:** अ alone above the five rows of stops; in bold: अ, ट
+- **Example:** —
+
+## Register
+
+- **Classification:** Word card (ṭa + ṭa conjunct) · **Sthāna:** Double retroflex stop
+- **Body place** (*mātṛkā-nyāsa*, [[Tantraloka 15.117|TĀ 15.117]]–120): a: forehead (*lalāṭa*) · ṭa: right hip (*kaṭi*)
+
+## Cards
+
+अट्ट::aṭṭa · adj: ‘high’ or ‘loud’
+
+Write: aṭṭa::अट्ट
+
+## Practice
+
+Write the glyph by hand here: *Ink: New handwriting section* on a pen device; one device per section, and let it sync before another device opens it.
+
+---
+
+[[Flashcards.base|All 108 cards]] · [[Sanskrit 108 Flashcard Register|Register]] · [[Sanskrit Daily Letter Cycle|The cycle]]

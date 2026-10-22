@@ -1,0 +1,415 @@
+---
+type: book-section
+book: "[[Forgery and Counterforgery (Ehrman)]]"
+order: 21
+page_range: "623–628"
+---
+[[Forgery and Counterforgery 20 - Index of Subjects|← previous]] · [[Forgery and Counterforgery (Ehrman)|contents]]
+
+[p. 623]
+
+## INDEX OF MODERN SCHOLARS
+
+This index includes only **Modern Scholars.**
+
+For specific ancient sources organized by book, chapter and verse, refer to the **Ancient Sources** index found on pages 575–589.
+
+For general concepts, including a topical guide to ancient sources, refer to the **Subject** index found on pages 591-622.
+
+- Aageson, James, 194
+- Achtemeier, P., 129, 247, 252
+- Aland, Kurt, 38-39
+- Amelungk, Arnold, 464, 476 nn. 65-66
+- Bagatti, Bellarmino, 246 n. 24
+- Bahr, Gordon, 220
+- Bailey, John A., 157, 160
+- Balz, H., 39, 104, 114
+- Bar-Ilan, Meir, 242, 243-44, 246, 287 n. 7
+- Barlow, Claude, 524
+- Barrett, C. K., 267 n. *66*, 278
+- Barth, Markus, 106, 176 n. 41, 185
+- Bauckham, R., 129-30, 223 n. 63, 224, 229 n. 76, 300 n. 35, 300 n. 40, 300, 302, 303, 333, 446, 447-48, 450
+- Bauer, W., 363, 456
+- Baum, Armin Daniel, 31, 31 n. 6, *69* n. 1, 78, 78 n. 32, 87 n. 65, 87-88, 90, 106, 107, 108-10, 116-17, 118, 130, 136, 202-3
+- Baur, F. C., 192, 251-52, 252 n. 44, 256, 372
+- Beatrice, P., 37
+- Becker, Eve-Marie, 29, 167 n. 24, 169
+- BeDuhn, Jason, 31 n. 3
+- Benko, Stephen, 22
+- Bentley, Richard, 12, 44
+- Bernays, J., 129
+- Best, Ernest, 184, 185 n. 67, 188, 188 n. 70
+- Bickell, J. W., 396
+- Bickerman, E. J., 37
+- Bigg, Charles, 458-59
+- Bisbee, Gary, 499, 502, 502 n. 51, 507
+- Bischoff, Bernhard, 524
+- Blanke, Helmut, 106, 176 n. 41
+- Bludau, A., 62 n. 82
+- Bock, D., 278
+- Boissier, G., 522
+- Boring, M. Eugene, 239-40, 253
+- Bovon, Francois, 398
+- Bradshaw, Paul, 345
+- Brock, Sebastian, 363
+- Brown, Milton, 463
+- Brown, Raymond, 403, 419, 419 n. 26, 422, 422 nn. 30-32, 423, 424
+- Brox, Norbert, *69* n. 1, 78, 95-96, 106, 122, 130, 136, 193, 194, 212, 212 n. 35, 248-49, 256, 256 n. 57, 468 n. 57, 479, 538
+- Buchholz, D., 446, 446 n. 116
+- Bujard, Walter, 175-76, 184
+- Bundy, D., 426
+- Burkitt, F. C., 363, 455-56
+- Burnet, Régis, 439, 441, 443-44
+- Buschmann, Gerd, 496
+- Byron, George Gordon, 426
+- Byrskog, Samuel, 266, 266 n. 64
+- [p. 624] Cadbury, H., 268
+- Calhoun, Robert Matthew, 122 n. 95
+- Campbell, William S., 265, 274, 275 n. 95
+- Campenhausen, Hans von, 495-96
+- Camps, J. Rius, 462
+- Candlish, J. S., 128-29
+- Capelle, Bernard, 393
+- Carey, Greg, 337-38
+- Cavallo, G., 445
+- Chancey, Mark, 244, 287 n. 7
+- Charles, J. Daryl, 298, 298 n. 30, 300
+- Charles, R. H., 333
+- Clarke, Emma C., 46
+- Cludius, H. H., 240, 248
+- Collins, John, 72-73, 510, 511, 513
+- Connolly, R. H., 344
+- Conzelmann, Hans, 172
+- Costa, C. D. N., 43-44
+- Côté, Dominique, 313
+- Cribiore, Raffaella, 121, 242-43
+- Crönert, W., 103
+- Crossan, J. D., 328, 328 n. 14, 330-31
+- Cureton, William, 462
+- Czachesz, Istvan, 448, 449, 453 n. 139
+- Daniélou, Jean, 397 n. 79
+- Davids, Peter H., 299 n. 33, 305
+- Davies, Stevan L., 60 n. 75, 379, 379 n. 17
+- de Santos Otero, Aurelio, 452 n. 133, 453 n. 138
+- de Strycker, Emile, 486
+- de Wette, W. M. L., 182-83, 184, 285
+- DeConick, April, 231 nn. 77-78, 233, 234, 338, 342, 344 n. 51, 417, 417 n. 20, 418
+- Dehandschutter, B., 496
+- Denker, Jürgen, 331
+- Dessau, Herman, 46
+- Dibelius, Martin, 166, 296
+- Diekamp, 464
+- Dillon, John M., 46
+- Doerfler, Maria, 101 n. 34
+- Doering, Lutz, 242 n. 9, 251 n. 43
+- Donelson, Lewis, 122, 131, 212 n. 34, 214
+- Draguet, R., 464
+- Drey, Johann Sebastian von, 392
+- Drijvers, H. J. W., 363, 455, 456, 457, 457 n. 12, 457 n. 14
+- Dubois, Jean-Daniel, 360 n. 85, 406
+- Duensing, H., 452 n. 133, 453 n. 138
+- Duff, Jeremy, 76, 78, 192
+- Dunn, James, 129
+- Easton, B. S., 130 n. 122
+- Edwards, Mark, 313
+- Eichhorn, J. G., 192, 193, 248
+- Elliott, J. H., 228 n. 75, 239, 246-47, 250 n. 40, 252, 360
+- Elliott, J. K., 224, 435 n. 80
+- Epp, E., 192-93
+- Ernst, Carl, 109, 110
+- Evanson, E., 182
+- Ewald, Heinrich, 172
+- Faivre, A., 398
+- Fascher, E., 251
+- Fee, Gordon, 201
+- Feldman, Louis, 244
+- Fenton, J. C., 97
+- Fideler, David R., 107 n. 54
+- Fischer, K. M., 75, 248, 254
+- Fitzmyer, J., 278
+- Fonrobert, C., 350, 350 n. 64
+- Foskett, Mary, 488
+- Fossum, Jarl, 234
+- Foster, Paul, 325, 326, 326 nn. 6-7
+- Frank, Nicole, 171 n. 33
+- Frenschkowski, M., 59
+- Frey, Jörg, 3 n. 5, 225, 230 n. 76, 298, 298 n. 30, 303, 304, 305 n. 53
+- Fuchs, Rüdiger, 194
+- Funk, F. X., 345 n. 56, 393, 464, 476 n. 65
+- Funkenstein, Amos, 321
+- Furnish, Victor Paul, 174
+- Fürst, A., 520, 520 n. 91, 523
+- Gager, John, 513
+- Gamble, Harry, 42, 105-6
+- Gass, J. C., 192
+- Geffcken, Johannes, 511, 513
+- Gero, Stephen, 22, 35
+- Gese, Michael, 106
+- Gesenius, W., 333
+- Gifford, S. K., 506
+- Gill, Christopher, 134 n. 133, 533 n. 8, 541
+- Glasson, T. F., 231
+- Goguel, M., 166
+- [p. 625] Goodspeed, Edgar J., 183
+- Goppelt, L., 248, 252
+- Gounell, Rémi, 353, 353 n. 71, 354, 360 n. 85
+- Grafton, Anthony, 25-26, 78, 130, 131, 137
+- Grébaut, Sylvain, 434-35, 445
+- Green, J., 129
+- Greschat, Katharina, 327
+- Griffiths, Paul, 134-35, 536, 537, 545
+- Grotius, 166
+- Gryson, Roger, 398 n. 79
+- Gudeman, A., 98
+- Guerrier, Louis, 434-35
+- Gunkel, Hermann, 233 n. 82
+- Gunther, John, 179
+- Häfner, G., 194, 194 n. 12, 368
+- Hagedorn, Dieter, 394, 463, 464, 465
+- Hall, Robert, 336, 336 n. 31, 399, 399 n. 85
+- Hannah, Darrell, 335, 399
+- Hannah, Jack, 462-63
+- Harnack, A., 166, 268, 325, 394, 396, 426, 440, 441, 442, 444, 464, 486, 523
+- Harnack, Adolf, 439
+- Harris, J. Rendell, 506
+- Harris, William, 242
+- Harrison, P. N., 129, 202, 203
+- Haufe, Günter, 214, 368, 368 n. 3
+- Havelaar, Henriette, 402-3, 403 n. 94, 410
+- Heffernan, Thomas, 503
+- Hegermann, B., 130 n. 122
+- Hengel, Martin, 51, 293 n. 19
+- Hercher, R., 43
+- Hershbell, Jackson B., 46
+- Herzer, Jens, 3 n. 5, 192, 194, 200, 252
+- Hezser, Catherine, 243-44, 246, 287 n. 7
+- Hilgenfeld, A., 157, 325
+- Hilhorst, A., 379, 452, 525, 525 n. 109
+- Hills, Julian, 435 n. 81
+- Hock, Ronald, 486
+- Hogan, Karina Martin, 73
+- Holland, Glenn S., 167 n. 24
+- Holtzmann, H. J., 130 n. 122, 157, 184, 192
+- Hooker, Morna, 179-80
+- Hopfner, T., 46
+- Hornschuh, Manfred, 435-36, 436 n. 82, 437 n. 87
+- Hovhanessian, Vahan, 429
+- Hübner, R. M., 5-6, 462
+- Hughes, Frank, 170 n. 30
+- Hüneburg, Martin, 183, 189
+- Hunzinger, C., 241-42, 242 n. 8
+- Izydorczyk, Z., 353, 353 n. 71, 354
+- Jackson-McCabe, Matt, 286, 291 n. 16
+- Jakobi, Rainer, 525-26
+- James, M. R., 445
+- Janssen, Martina, 3 n. 5, 45, *69* n. 1, 108, 130 n. 122, 132 n. 129
+- Jervell, J., 278
+- Jewett, Robert, 157, 159, 160, 166, 171 n. 31
+- Johnson, Luke Timothy, 130, 194, 201, 202, 203, 204, 212-13, 213-14, 215, 286, 290, 291, 368 n. 3
+- Johnston, S., 427, 429
+- Joly, Robert, 6, 462
+- Jones, F. Stanley, 318, 319, 319 n. 82
+- Jülicher, A., 251
+- Karris, Robert, 214, 215
+- Keim, Theodor, 495, 497
+- Keith, Chris, 365
+- Kelley, Nicole, 313, 459-60
+- Kern, F. H., 285
+- Kirk, A., 331
+- Klauck, H.-J., 130 n. 122
+- Klijn, A. F. J., 427, 429
+- Knight, Jonathan, 334, 335
+- Knox, John, 183
+- Konradt, Matthias, 287, 297
+- Kopecek, Thomas, 391, 395
+- Koschorke, Klaus, 402
+- Kraus, Thomas J., 446 n. 116
+- Krauter, Stefan, 526
+- Krentz, Edgar, 157, 158, 166
+- Lambert, David, 96
+- Lampe, G. W. H., 354
+- Lechner, Thomas, 5-6, 462
+- Legras, Bernard, 52-53
+- Leipoldt, Johannes, 416
+- Leppä, Outi, 174 n. 39, 184
+- Leutholf, J., 396
+- [p. 626] Liénard, Édmond, 520 n. 91
+- Lieu, Judith, 422 n. 32, 423
+- Lightfoot, J. B., 50, 441, 460, 462, 463, 475, 475 n. 63, 477, 507, 521, 523
+- Lincoln, Andrew, 78, 183, 184
+- Lindemann, Andreas, 168-69, 172, 186 n. 68, 217, 227, 254, 287 n. 7, 292, 295 n. 23
+- Lipsius, R. A., 495, 497
+- Löhr, Winrich, 502 n. 52
+- Louw, Johannes P., 245 n. 23
+- Lüdemann, Gerd, 318, 319
+- Luttikhuizen, Gerald P., 410, 427, 429
+- MacDonald, Dennis, 380, 382, 383
+- MacDonald, Margaret, 106
+- Maehler, H., 445
+- Malherbe, Abraham, 157, 158
+- Marcus, Joel, 261 n. 61
+- Marshall, I. Howard, 212 n. 32, 214
+- Martin, Dale, 116 n. 75, 261 n. 61
+- Martyn, J. Louis, 399 n. 85, 403
+- Marxsen, Willi, 157, 169
+- Masson, F., 426
+- Mayer, Hans Helmut, 380
+- Mayerhoff, Ernest, 172, 184
+- McDowell, D., 47
+- McLeman, J., 184-85
+- Meade, David, 39-42, 129
+- Merz, Annette, 130, 375, 376
+- Methuen, Charlotte, 387, 388, 389-90, 390 n. 43
+- Metzger, Bruce, 130
+- Metzger, Marcel, 394-95
+- Meyers, Eric, 246 n. 24
+- Michaelis, J. D., 254 n. 50
+- Michaelis, W., 202
+- Miller, James D., 212 n. 33
+- Mirecki, Paul, 328 n. 14
+- Mitchell, Margaret, 294, 376, 294 n. 21
+- Mitchell, Stephen, 352
+- Mitton, C. L., 183
+- Momigliano, Arnaldo, 525, 525 n. 108
+- Morton, A. Q., 184-85
+- Moss, Candida, 496, 497, 500, 500 n. 48
+- Muddiman, John, 188 n. 71
+- Mueller, Joseph G., 16 n. 16, 18
+- Muretow, M., 429
+- Murphy-O’Connor, Jerome, 194, 197, 215, 218 n. 50
+- Musurillo, Herbert, 502, 506
+- Nagel, Peter, 340
+- Nicklas, T., 331, 446 n. 116
+- Nida, Eugene, 245 n. 23
+- Niebuhr, N. W., 293-94
+- Nienhuis, David, 32 n. 8, 296, 296 nn. 26-27
+- Norelli, E., 333
+- Osiek, Carolyn, 388, 389, 390
+- Pearson, Birger, 403, 404, 433-34
+- Perler, Othmar, 464, 475 n. 63, 476 n. 66, 478
+- Pervo, Richard, 106 n. 53, 178 n. 44, 201, 201 n. 22, 368, 368 n. 3, 382, 439 n. 92
+- Pesce, Mauro, 333
+- Pilhofer, P., 118, 326, 326 n. 8, 327
+- Pink, Karl, 439, 441 n. 102
+- Piovanelli, P., 452, 452 n. 133, 453 n. 137
+- Plese, Zlatko, 116 n. 75
+- Plisch, Uwe-Karsten, 232 n. 81, 235 n. 89, 341, 416, 417
+- Plümacher, E., 269, 276
+- Plummer, A., 423
+- Poirer, Paul-Hubert, 413 n. 9
+- Popkes, Wiard, 293
+- Portier-Young, Anthea, 74 n. 18
+- Praeder, Susan, 269-70, 270 n. 79, 276
+- Pratscher, Wilhelm, 287, 294
+- Prior, Michael, 194, 197, 213, 213 n. 39, 215
+- Prostmeier, Ferdinand-Rupert, 242 n. 8
+- Reed, Annette Yoshiko, 71, 313, 320-21
+- Reed, Jonathan, 245 n. 24, 246
+- Reinmuth, E., 130 n. 122
+- Reumann, John, 269
+- Rhode, J., 382 n. 21
+- Richards, E. Randolph, 218-22, 219 n. 53
+- Richards, William A., 194, 368 n. 3, 369
+- Rink, W. F., 426
+- Rist, M., 429, 429 nn. 59-60
+- Rius-Camps, Josep, 6
+- Robbins, Edward, 245
+- [p. 627] Robbins, Vernon, 269, 276
+- Roberge, Michel, 404-5, 406, 406 n. 104
+- Ronchey, Silvia, 496, 497
+- Roose, Hanna, 168, 169 n. 29, 170
+- Rordorf, W., 379, 429
+- Rosenmeyer, P., 43, 44-45, 44 n. 30
+- Rothschild, Clare K., 3 n. 5, 323 n. 2
+- Rowland, Christopher, 41, 72 n. 10, 73
+- Ruinart, T., 461
+- Russell, D. H., 72
+- Ryme, R., 44
+- Sanders, E. P., 174 n. 39
+- Saxer, Victor, 496, 500
+- Scheidweiler, F., 353, 360
+- Schenke, Hans-Martin, 254, 413 n. 9
+- Schermann, T., 397
+- Schleiermacher, Friedrich, 192, 196 n. 14
+- Schmidt, Carl, 426, 434, 437
+- Schmidt, Darryl, 161-62, 268
+- Schmidt, J. E. Chr., 156-57, 158, 184, 192
+- Schmidt, K. M., 248 n. 31
+- Schnackenburg, R., 422 nn. 31-32, 423
+- Schneemelcher, Wilhelm, 422 n. 31
+- Schoedel, William, 496
+- Schöllgen, G., 346, 385-86, 386 n. 34, 388
+- Schutter, William, 253
+- Schwegler, Albert, 252 n. 44
+- Scopello, Madeleine, 404 n. 99
+- Segal, Judah, 364, 456
+- Sellin, Gerhard, 183, 302, 303, 303 n. 45, 303 nn. 48-49, 304
+- Semler, J. S., 240
+- Seufert, W., 248
+- Sevenster, J. N., 287 n. 7
+- Siebeck, Mohr, 218 n. 50
+- Silverstein, T., 452
+- Sint, J., 36
+- Smid, H., 488, 488 n. 17
+- Smith, J. Z., 234
+- Smith, Morton, 133
+- Smith, Terrence, 403, 450, 450 n. 126
+- Speyer, Wolfgang, 2 n. 4, 26, 31, 32, 36-38, 37 n. 15, 49, *69* n. 1, 78, 79, 93, *99*, 119, 121, 123, 126, 130-31, 141 n. 149, 396 n. 72, 444, 532, 534, 538
+- Spicq, Ceslas, 214
+- Standhartinger, Angela, 115 n. 74, 155 n. 1, 174 n. 39, 178 n. 47, 181 n. 53, 182
+- Stanton, Graham, 316, 319
+- Steimer, Bruno, 15, 18, 385
+- Stewart-Sykes, Alistair, 344, 345-46, 347-48, 345 n. 56, 387, 388, 396, 397, 397 nn. 77-78, 398
+- Stone, Michael, 73
+- Strange, James, 246 n. 24
+- Strecker, Georg, 422 n. 30, 424 n. 39
+- Streeter, B. H., 248
+- Sumney, Jerry, 215, 374
+- Syme, Ronald, 26, 45, 46
+- Syreeni, Kari, 291
+- Tardieu, Michel, 404, 404 n. 100
+- Testuz, Michel, 426, 427
+- Theissen, Gerd, 130 n. 122
+- Thompson, B., 516
+- Thompson, James Westfall, 502 n. 52
+- Thompson, M., 129
+- Thornton, Claus-Jürgen, 265, 268, 268 n. 67, 268 n. 70, 278, 278 n. 107, 280 n. 111, 325, 326 n. 8, 327 n. 8
+- Tigchelaar, E., 446
+- Torm, Frederik, 79, 128-29
+- Trilling, W., 157, 160-61, 256
+- Trummer, P., 194, 368
+- Turner, C. H., 393
+- Turner, John, 412, 412 n. 7, 413 n. 9, 414
+- Ullmann, W., 309, 310 n. 62
+- Ussher, James, 394, 425, 460, 461, 462
+- Valantasis, Richard, 234, 234 n. 85, 235, 340, 341-42, 416, 417, 417 n. 20
+- Valla, Lorenzo, 25, 523
+- Van der Waerden, B. L., 109
+- Van Minnen, Peter, 446
+- van Unnik, W. C., 276
+- Verheyden, J., 331
+- Vielhauer, P., 267 n. 65
+- Vögtle, A., 130 n. 122, 298
+- Voss, Isaac, 461
+- Vouaux, Leon, 439
+- Wagner, Georg, 393-94
+- Wedderburn, A. J. M., 268, 276
+- [p. 628] Wehnert, J., 265, 268, 269 n. 73, 275
+- Wehrli, F., 13
+- Weijenborg, Reinoud, 6, 462
+- Westcott, Brooke Foss, 441
+- Whiston, William, 426
+- White, Benjamin, 429 n. *66*, 431
+- Williams, Rowan, 474-75
+- Wilson, Charles, 245, 246 n. 24
+- Wilson, R. McL., 178 n. 47
+- Wimsatt, W. K., 30 n. 3
+- Wischmeyer, Wolfgang, 525
+- Wisse, Frederik, 301
+- Wolter, Michael, 49, 50
+- Wood, Michael, 133-34, 533
+- Wrede, W., 157
+- Zahn, Theodore, 462, 464
+- Zembaty, Jane, 135
+- Zhmud, Leonid, 113
+- Zmijewski, Josef, 214

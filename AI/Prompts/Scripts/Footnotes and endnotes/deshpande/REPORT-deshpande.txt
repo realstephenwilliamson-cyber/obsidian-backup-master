@@ -1,0 +1,29 @@
+# D31c, Deshpande, Abhinavagupta (Sahitya Akademi): endnote calls linked (18 Oct 2026)
+
+Book: `Library/Trika/G. T. Deshpande - Abhinavagupta-Sahitya Akademi (1995).pdf` (182 pages, a 150 dpi scan with an ABBYY FineReader 12 layer). Notes: `Library/Trika/Abhinavagupta (Deshpande)/`, made on 7 Oct by a fresh Tesseract OCR. Endnotes in an appendix (PDF 165–179, note `Abhinavagupta 12 - Appendix - Notes and References`), numbered per chapter. Done with the Agent SDK on the laptop; scripts ran in `C:\Users\welln\fnwork\desh\`.
+
+## Result
+
+81 calls in notes 05–11 are links `[[Abhinavagupta 12 - Appendix - Notes and References#^n-<chapter>-<note>|<raised number>]]`; the appendix has the 81 block ids (only endnotes that a link uses get one). 11 appendix paragraphs that ran two endnotes together were split where the second begins. Endnote numbers were not added (Stephen, 18 Oct). Words unchanged; removed are only the OCR's marks where the raised number is printed (’ ” ' " ? ® * ™ ° $ ! and their escapes).
+
+## Why images
+
+The raised numbers are about 6 px high at 150 dpi: ABBYY reads them as “ or *, Tesseract as ’ or nothing, and an automatic detector (`calls.py`) found quote marks and specks as often as calls. So five subagents read every body page (PDF 14–164, three bands each, `bands.py`) and listed each raised number with the words before it (`calls-read-from-images/`). 104 numbers; 4 were verse labels (PDF 119) and were left out. Where a number was blurred, the reader gave the number that fits the sequence and marked it uncertain.
+
+## Method
+
+- `anchors.py`: the endnotes and their chapters from the PDF layer's labels ("1.", "2." …; chapters from the number resets), aligned with the appendix note's words (difflib); the paragraph where each endnote begins, accepted only if its first words match the layer's (96 of 99 anchored).
+- `link.py`: per chapter, numbers repeated or unreadable are dropped and only the longest increasing run is kept; each call is found in its page's Markdown by the words before it; a stray mark at the call is removed only if it holds no letters, and printed punctuation after the call is kept; nothing on heading lines. Then the block ids and splits in the appendix.
+- `checklinks.py`: markers, headings, frontmatter, words (links and ids set aside), removed characters, every link with exactly one target id. After the apply, a runner job confirmed 81 ids registered and 81 links resolving.
+
+## Not linked (listed in `linklog.json`)
+
+No anchor for the endnote: IV 2A (printed at normal size, no such endnote), V 1, V 14, V 17, VI 1, VII 8. Punctuation in the Markdown too different to edit safely: PDF 16 (I 7), 58 (III 26), 142 (VII 3). Words not found: PDF 56 (III 23). Doubtful: VII 6 and a mark read "8·6" on PDF 150/152; III 35 sits on a section heading. Chapter I endnote 18 and III 36–38 have no call that was read.
+
+## The book's own numbering
+
+In chapter III the body's notes 28–34 match the appendix's notes 31–37 by content (image check, PDF 61). The links follow the printed numbers.
+
+## Checks
+
+Image check before applying of PDF 18, 21, 48, 61, 74, 106, 112, 143 and the appendix pages 165, 171, 175: links on the right words and to the start of the right endnote; two punctuation errors found (a stray colon kept, a real full stop and quote removed) and fixed, with three more found by the after-check. After the apply: the 8 notes identical to the checked output; page blocks 166 before and after; unresolved links 10 files / 14 links before and after.

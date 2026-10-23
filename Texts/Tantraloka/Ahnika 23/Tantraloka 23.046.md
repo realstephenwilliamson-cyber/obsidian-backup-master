@@ -31,6 +31,9 @@ bhūya eva parīkṣeta tattadaucityaśālinam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 318–319)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.46–47]]
+
 *Lead-in:* एवमपि दीक्षितस्य ज्ञानदानादौ पौनःपुन्येन परीक्षां कुर्यात्-- इत्याह--
 
 > बुद्ध्वा ज्ञाने शास्त्रसिद्धिगुरुत्वादौ च तं पुनः ।

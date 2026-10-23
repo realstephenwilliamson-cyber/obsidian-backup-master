@@ -31,6 +31,9 @@ athocyate śivenoktaḥ pavitrakavidhiḥ sphuṭaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 61–62)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.112–113]]
+
 *Lead-in:* एवं चक्रार्चनमभिधाय पवित्रकविधिमभिधातुमाह--
 
 Jayaratha comments on this verse together with 28.113: see [[Tantraloka 28.113#Viveka|28.113]].

@@ -31,6 +31,9 @@ utkṛṣṭāttata evāśu ko'pi buddhvā vivekitām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 292–293)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.271–273]]
+
 > मायागर्भाधिकारीयशक्तिपातवशात्ततः ॥
 > कोऽपि प्रधानपुरुषविवेकी प्रकृतेर्गतः ।
 > उत्कृष्टात्तत एवाशु कोऽपि बुद्ध्वा विवेकिताम् ॥

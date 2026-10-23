@@ -35,6 +35,9 @@ tatsaṃskṛto'pyanyadeṣa kurvansvātmani tṛpyati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 123–124)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.276–277]]
+
 *Lead-in:* एतदेव दृष्टान्तमुखेनापि हृदयङ्गमयति--
 
 Jayaratha comments on this verse together with 16.277: see [[Tantraloka 16.277#Viveka|16.277]].

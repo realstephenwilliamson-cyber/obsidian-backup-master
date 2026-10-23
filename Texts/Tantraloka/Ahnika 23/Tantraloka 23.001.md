@@ -30,6 +30,11 @@ athābhiṣekasya vidhiḥ kathyate pārameśvaraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 295–296)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 23.2–3.*
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.2–3]]
+
 *Lead-in:* इदानीं द्वितीयार्धेन अभिषेकविधिमभिधातुमुपक्रमते--
 
 > अथाभिषेकस्य विधिः कथ्यते पारमेश्वरः ॥

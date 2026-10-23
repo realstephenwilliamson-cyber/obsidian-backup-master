@@ -31,6 +31,9 @@ tena tadrūpatāyogācchaktipātaḥ sthito'pi san || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 291)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.268–270]]
+
 > विष्ण्वादिरूपता देवे या काचित्सा निजात्मना ॥
 > भेदयोगवशान्मायापदमध्यव्यवस्थिता ।
 > तेन तद्रूपतायोगाच्छक्तिपातः स्थितोऽपि सन् ॥

@@ -31,6 +31,9 @@ daśāṣṭādaśabhedasya ṣaṭsrotasa ihocyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 74)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.146–147]]
+
 *Lead-in:* तदेवाह--
 
 > त्रिप्रमेयस्य शैवस्य पञ्चपञ्चात्मकस्य वा ।

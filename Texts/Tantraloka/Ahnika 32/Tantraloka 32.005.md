@@ -31,6 +31,9 @@ mahāpretā yogamudrā jvālinī kṣobhiṇī dhruvā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 139)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.4–6]]
+
 > तत्र प्रधानभूता श्रीखेचरी देवतात्मिका ।
 > निष्कलत्वेन विख्याता साकल्येन त्रिशूलिनी ॥
 > करङ्किणी क्रोधना च भैरवी लेलिहानिका ।

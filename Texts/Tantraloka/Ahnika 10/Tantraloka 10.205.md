@@ -31,6 +31,9 @@ tāvattuṭidvayaṃ yāti nyūnatāṃ kramaśaḥ sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 421)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.205]]
+
 *Lead-in:* एवमेतत्प्रसङ्गादभिधाय प्रकृतमेवाह --
 
 > एवं द्वयं द्वयं यावन्न्यूनीभवति भेदगम् ।

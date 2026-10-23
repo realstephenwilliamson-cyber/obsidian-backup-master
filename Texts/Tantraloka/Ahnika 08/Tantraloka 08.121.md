@@ -35,6 +35,9 @@ daśa vāyupathāste ca pratyekamayutāntarāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 163)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.121–122]]
+
 *Lead-in:* इदानीं भुवर्लोकाद्यभिधत्ते --
 
 > भुवर्लोकस्तथा त्वार्काल्लक्षमेकं तदन्तरे ।

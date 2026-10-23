@@ -36,7 +36,7 @@ Text: [[NRSVue 1 Peter 04|NRSVue]] · [[1 Peter 04|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue 1 Peter 04#^4-11|11]]:** *Glory and the power*, a doxology (word of glory), often found at the end of songs, liturgies, or books of the Bible, [[Torah 16 - Beshalach#^15-18|Ex 15.18]]; [[Psalms 041#^41-14|Ps 41.13]]; 146.10; [[Romans 16#^16-27|Rom 16.27]]; [[1 Peter 05#^5-11|1 Pet 5.11]]. The Kaddish prayer at the end of Jewish prayer services, which developed in the later rabbinic period, similarly functions as a doxology. ^4-11
 
-**[[NRSVue 1 Peter 04#^4-12|4.12–19]]:** **Enduring trials**. *Fiery ordeal* . . . *to test you*, possibly a reference to martyrdom, but more likely to a general suffering that tested the faith of believers, see [[Zechariah 13#^13-9|Zech 13.9]]; [[Psalms 066#^66-10|Ps 66.10]]; [[Proverbs 17#^17-3|Prov 17.3]]; [[Job 23#^23-10|Job 23.10]]; *Gen Rab.* 55.1; *b. Ber.* 5a. ^4-12
+**[[NRSVue 1 Peter 04#^4-12|4.12–19]]:** **Enduring trials**. *Fiery ordeal* . . . *to test you*, possibly a reference to martyrdom, but more likely to a general suffering that tested the faith of believers, see [[Zechariah 13#^13-9|Zech 13.9]]; [[Psalms 066#^66-10|Ps 66.10]]; [[Proverbs 17#^17-3|Prov 17.3]]; [[Job 23#^23-10|Job 23.10]]; *Gen Rab.* 55.1; [[Berakhot 5#5a|*b. Ber.* 5a]]. ^4-12
 
 **[[NRSVue 1 Peter 04#^4-13|13]]:** *Sharing Christ’s sufferings*, in your own suffering you are imitating Christ, 2.21–25; 3.18. The Gk “koinoneo,” meaning sharing, is the same term that is used for mutuality and sharing in the Lord’s Supper, [[1 Corinthians 10#^10-16|1 Cor 10.16]]. ^4-13
 

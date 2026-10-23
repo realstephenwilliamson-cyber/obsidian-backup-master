@@ -31,6 +31,9 @@ yayā yānti parāṃ siddhiṃ tadbhāvagatamānasāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 300–301)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.285]]
+
 *Lead-in:* न केवलमेतदस्मदागम एवोक्तं यावच्छ्रुत्यर्थोपजीविनि पुराणादावपि - - इत्याह --
 
 > पुराणेऽपि च तस्यैव प्रसादाद्भक्तिरिष्यते ।

@@ -31,5 +31,8 @@ rudraśaktyākṛṣyamāṇau dīptayāṃkuśarūpayā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 354–355)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.187–191]]
+
 Jayaratha comments on this verse together with 29.191: see [[Tantraloka 29.191#Viveka|29.191]].
 

@@ -31,6 +31,9 @@ asūyurnūnamadhvastavyādhiḥ svasthāyate balāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 332)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.81–82]]
+
 *Lead-in:* गुर्वपरिग्रहादेश्च ज्ञानानाश्वासहेतुकत्वमेव अन्वयव्यतिरेकाभ्यां दृष्टान्तमुखेन द्रढयति--
 
 Jayaratha comments on this verse together with 23.82: see [[Tantraloka 23.082#Viveka|23.82]].

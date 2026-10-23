@@ -33,6 +33,11 @@ māyāgarbhādhikārīyaśaktipātavaśāttataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 292–293)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.270–271]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.271–273]]
+
 *Lead-in:* ततश्च किम्? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 13.270: see [[Tantraloka 13.270#Viveka|13.270]].

@@ -33,6 +33,9 @@ parokṣasaṃsthitasyātha dīkṣākarma nigadyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 244)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.1]]
+
 *Lead-in:* इदानीं द्वितीयार्धेन परोक्षदीक्षायां कर्म निगदितुं प्रतिजानीते--
 
 > परोक्षसंस्थितस्याथ दीक्षाकर्म निगद्यते ॥

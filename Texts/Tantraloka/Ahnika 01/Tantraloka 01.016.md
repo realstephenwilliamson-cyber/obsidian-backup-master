@@ -39,6 +39,11 @@ bodhojjvalo'bhinavagupta idaṃ karoti || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 79–82)
+> ![[Tantraloka Dyczkowski v01 03 - Chapter One, part 2#Viveka on 1.16]]
+>
+> ![[Tantraloka Dyczkowski v01 04 - Chapter One, part 3#Viveka on 1.16 (continued)]]
+
 > इत्यहं बहुशः सद्भिः शिष्यसब्रहाचारिभिः ।
 > अर्थितो रचये स्पष्टां पूर्णार्थां प्रक्रियामिमाम् ॥
 > श्रीभट्टनाथचरणाब्जयुगात्तथा श्री

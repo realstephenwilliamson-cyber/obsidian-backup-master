@@ -34,6 +34,9 @@ tatsaṃnidhau nādhikārasteṣāṃ muktaśivātmavat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 91–92)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.74–76]]
+
 > यथा भेदेनादिसिद्धाच्छिवान्मुक्तशिवा ह्यधः ॥
 > तथा सांसिद्धिकज्ञानादाहृतज्ञानिनोऽधमाः ।
 > तत्संनिधौ नाधिकारस्तेषं मुक्तशिवात्मवत् ॥

@@ -34,6 +34,9 @@ icchayaiva śivaḥ sākṣāttasmāttaṃ pūjayetsadā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 275–276)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.59–61]]
+
 *Lead-in:* तत्त्वज्ञस्य पुनरेतन्न किञ्चिदुपादेयम्--इत्याह--
 
 Jayaratha comments on this verse together with 21.60: see [[Tantraloka 21.060#Viveka|21.60]].

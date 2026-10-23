@@ -34,6 +34,9 @@ dadyātpuraṃ śodhayāmītyūhayuktaṃ prasannadhīḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 163)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.50–51]]
+
 > अपरामन्त्रमुक्त्वा प्रागमुकात्मन इत्यथ ॥
 > गर्भाधानं करोमीति पुनर्मन्त्रं तमेव च ।
 > स्वाहान्तमुच्चरन्दद्यादाहुतित्रितयं गुरुः ॥

@@ -37,6 +37,11 @@ karapāṇyabhijalpau tau saṅkīryetāṃ kathaṃ kila |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 115–116)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.261–263]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.263–264]]
+
 *Lead-in:* ननु यद्येवं, तत्संभवन्ती अपि शब्दाच्छब्दान्तरे व्युत्पत्तिः कथमपह्नूयते ?--इत्याशङ्क्याह--
 
 > शब्दाच्छब्दान्तरे तेन व्युत्पत्तिर्व्यवधानतः ॥

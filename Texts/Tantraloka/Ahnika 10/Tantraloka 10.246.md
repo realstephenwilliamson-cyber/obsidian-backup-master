@@ -31,6 +31,9 @@ nāmāni trīṇi bhaṇyante svapnādiṣvapyayaṃ vidhiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 452–453)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.246]]
+
 *Lead-in:* एवं चात्र तिस्त्र एव संज्ञाः -- इत्यवधारणं कुतस्त्यम् ? -- इत्याशङ्क्याह --
 
 > लोकयोगप्रसंख्यानत्रैरूप्यवशतः किल ।

@@ -33,6 +33,11 @@ svacchandaśāstre proktaṃ ca vaiṣṇavādiṣu ye ratāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 321–322)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.314–316]]
+>
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.316–317]]
+
 *Lead-in:* अत एवागमोऽप्येवम् -- इत्याह --
 
 > स्वच्छन्दशास्त्रे प्रोक्तं च वैष्णवादिषु ये रताः ॥

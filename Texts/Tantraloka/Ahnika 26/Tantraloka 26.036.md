@@ -36,6 +36,13 @@ sandhyādhyānoditānantatanmayībhāvayuktitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 382–385)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 26.37–42.*
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.34–36]]
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.37–42]]
+
 *Lead-in:* ननु कथं सन्ध्याचतुष्टयानुष्ठेयं कर्म एकस्यामेव सन्ध्यायां क्रियमाणं परिपूर्तिं यायात् ?--इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 26.35: see [[Tantraloka 26.035#Viveka|26.35]].

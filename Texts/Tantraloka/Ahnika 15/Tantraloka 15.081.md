@@ -33,5 +33,10 @@ tadbāhyamiha tatsiddhiviśeṣāya na muktaye |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 59)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 15.81–83.*
+>
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.81–83]]
+
 Jayaratha comments on this verse together with 15.82: see [[Tantraloka 15.082#Viveka|15.82]].
 

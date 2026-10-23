@@ -33,6 +33,11 @@ yathā dharādau vāyvante bhṛgvambvagnyupavāsakaiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 368–369)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.33–35]]
+>
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.35–36]]
+
 *Lead-in:* भोगोपायता चास्याः कथं स्यात् ? -- इत्याशङ्क्याह --
 
 > यथा धरादौ वायवन्ते भृग्वम्ब्वग्न्युपवासकैः ॥

@@ -34,6 +34,9 @@ tattattvamiti nirṇītaṃ ṣaṭtriṃśaṃ hṛdi bhāsate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 16–17)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.23–24]]
+
 *Lead-in:* एतदेव दर्शयति -
 
 > यद्वेद्यं किञ्चिदाभाति तत्क्षये यत्प्रकाशते ।

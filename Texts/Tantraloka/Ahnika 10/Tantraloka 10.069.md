@@ -31,6 +31,9 @@ na hyanyaṃ prati vai kañcidbhāti sā vedyatā tathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 339)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.68–69]]
+
 > तत्तद्विज्ञातृवेद्यत्वं सर्वान्प्रत्येव भासताम् ॥
 > इत्येवं चोदयन्मन्ये व्रजेद् बधिरधुर्यताम् ।
 > न ह्यन्यं प्रति वै कञ्चिद्भाति सा वेद्यता तथा ॥

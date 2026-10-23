@@ -31,6 +31,9 @@ yathā śrīmādhavakule parameśena bhāṣitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 252–253)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.56]]
+
 *Lead-in:* एवमियता सिद्धपत्नीकुलक्रममभिधाय, अर्चाप्रकारासूत्रणाय अत्र ससंवादं मतान्तरमपि अभिधातुमाह--
 
 > पीठक्षेत्रादिभिः साकं कुर्याद्वा कुलपूजनम् ।

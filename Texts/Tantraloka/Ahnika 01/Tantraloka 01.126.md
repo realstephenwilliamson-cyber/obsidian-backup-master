@@ -35,6 +35,9 @@ vedyā hi devatāsṛṣṭiḥ śakterhetoḥ samutthitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 291–292)
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.125–127]]
+
 > तेनाविच्छिन्नतामर्शरूपाहन्ताप्रथात्मनः ॥
 > स्वयंप्रथस्य न विधिः सृष्ट्यात्मास्य च पूर्वगः ।
 > वेद्या हि देवतासृष्टिः शक्तेर्हेतोः समुत्थिता ॥

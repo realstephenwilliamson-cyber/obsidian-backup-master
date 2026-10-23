@@ -31,6 +31,9 @@ saṃdadhad dṛḍhamabhyeti śivabhāvaṃ prasannadhīḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 35–36)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.40–42]]
+
 > बह्वीषु तासु तास्वेष क्रियासु शिवतां हृदि ॥
 > संदधद् दृढमभ्येति शिवभावं प्रसन्नधीः ।
 > शिवीभूतो यद्यदिच्छेत्तत्तत्कर्तुं समीहते ॥

@@ -35,6 +35,9 @@ cidātmanā hi devena sṛṣṭirdikkālayorapi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 95)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.111]]
+
 *Lead-in:* ननु तत्तन्नियतदेशकालावलम्बनेन तत्तदर्थजातस्योत्पत्तिविनाशावनपह्नवनीयावेव -- इति कथमुक्तं नैषामुदयो व्ययो वेति ? -- इत्याशङ्क्याह --
 
 > देशे कालेऽत्र वा सृष्टिरित्येतदसमञ्जसम् ।

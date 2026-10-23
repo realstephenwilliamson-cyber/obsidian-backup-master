@@ -34,6 +34,9 @@ na sā mukhyā, tato nāyaṃ prasaṅga iti niścitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 335)
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.162]]
+
 *Lead-in:* इत्यादिना ज्ञानमोक्षयोः कार्यकारणभाव उक्त एव, इति कथं नायं प्रसङ्गः ? इत्याह --
 
 > यतो ज्ञानेन मोक्षस्य या हेतुफलतोदिता ।

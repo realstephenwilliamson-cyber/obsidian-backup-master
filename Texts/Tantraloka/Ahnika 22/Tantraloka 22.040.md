@@ -33,6 +33,11 @@ siddhānte dīkṣitāstantre daśāṣṭādaśabhedini || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 290–292)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.39–40]]
+>
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.40–42]]
+
 *Lead-in:* एतदेव प्रपञ्चयति--
 
 Jayaratha comments on this verse together with 22.39: see [[Tantraloka 22.039#Viveka|22.39]].

@@ -33,6 +33,11 @@ tena bhraṣṭe vidhau vīrye svarūpe vā'nayā param || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 89–90)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.133–134]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.134–135]]
+
 *Lead-in:* अत एव सर्वमन्त्रारणिस्वभावया मन्त्रान्तराणामपि उद्दीपनं क्रियते--इत्याह--
 
 > तेन भ्रष्टे विधौ वीर्ये स्वरूपे वाऽनया परम् ॥

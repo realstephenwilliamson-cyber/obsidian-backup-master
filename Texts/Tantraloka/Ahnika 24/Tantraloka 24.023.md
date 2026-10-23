@@ -31,6 +31,9 @@ kramāttridaśamatriṃśatriṃśavatsaravāsare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 353–354)
+> ![[Tantraloka Dyczkowski v09 15 - Chapter Twenty-Four#Viveka on 24.23]]
+
 *Lead-in:* स्वशास्त्रविहितं कार्यमेव--इत्याह--
 
 > शिवं संपूज्य चक्रार्चां यथाशक्ति समाचरेत् ।

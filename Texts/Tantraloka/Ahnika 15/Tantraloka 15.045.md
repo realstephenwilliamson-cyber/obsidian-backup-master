@@ -31,6 +31,9 @@ kintu snānaṃ suvastratvaṃ tuṣṭisañjananaṃ bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 37)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.45]]
+
 *Lead-in:* ननु भवतु एवं तथापि स्नानं नाम अशुद्धेः प्रतिपक्षः सा च शिवाभिमानिताभाजो न भवेदेवेति किं तेन?--इत्याशङ्क्य आह--
 
 > श्रीमदानन्दशास्त्रे च नाशुद्धिः स्याद्विपश्चितः ।

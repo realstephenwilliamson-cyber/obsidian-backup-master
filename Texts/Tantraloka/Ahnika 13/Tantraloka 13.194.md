@@ -31,6 +31,9 @@ pāśacchedādvimucyante prabuddhyante śivādhvare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 244–245)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.194–195]]
+
 *Lead-in:* एतदपि परमेश्वरः प्रत्युक्तवान् -- इत्याह --
 
 Jayaratha comments on this verse together with 13.195: see [[Tantraloka 13.195#Viveka|13.195]].

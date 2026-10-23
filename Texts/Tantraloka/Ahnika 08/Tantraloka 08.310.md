@@ -37,6 +37,11 @@ teṣāmatisūkṣmāṇāmetāvattvaṃ na varṇyate vidhiṣu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 310–312)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.308–310]]
+>
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.310–313]]
+
 *Lead-in:* एते चानवच्छिन्ना -- इत्याह --
 
 > तेषामतिसूक्ष्माणामेतावत्त्वं न वर्ण्यते विधिषु ॥

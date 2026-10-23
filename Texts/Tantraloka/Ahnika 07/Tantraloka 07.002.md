@@ -34,6 +34,9 @@ bījapiṇḍātmakaṃ sarvaṃ saṃvidaḥ spandanātmatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 3–4)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.2–3]]
+
 *Lead-in:* ननु सर्वमन्त्रसामान्यभूताया भगवत्या मातृकायाः समनन्तरमेवोदय उक्तः, तत्तद्विशेषरूपाणां मन्त्राद्यात्मनां चक्राणामप्युदयाभिधाने किं निमित्तम् ? -- इत्याशङ्क्याह --
 
 > इत्ययत्नजमाख्यात यत्नजं तु निगद्यते ।

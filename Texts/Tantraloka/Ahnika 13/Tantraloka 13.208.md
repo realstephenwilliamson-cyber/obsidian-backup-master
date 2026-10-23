@@ -30,6 +30,9 @@ kṣobho hi bheda evaikyaṃ praśamastanmayī tataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 252)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.208]]
+
 *Lead-in:* नन्वस्य स्वरूपावरणदर्शनाद्यनेककार्यकरणप्रवणतया विमर्शमयी स्वातन्त्र्यशक्तिरेव सर्वतः समुज्जृम्भते, तत् आच्छादनात्मा वामेति शान्ता च ज्येष्ठा इत्येतत्कथमुक्तम्? -- इत्याशङ्क्याह --
 
 > क्षोभो हि भेद एवैक्यं प्रशमस्तन्मयी ततः ॥

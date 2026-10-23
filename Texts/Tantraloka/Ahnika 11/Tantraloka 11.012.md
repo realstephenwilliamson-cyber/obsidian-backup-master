@@ -36,6 +36,11 @@ aṇḍaṃ ca nāma bhuvanavibhāgasthitikāraṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 6–7)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.10–12]]
+>
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.12–13]]
+
 *Lead-in:* ननु भवतु नामैतन्नास्माकमत्र विप्रतिपत्तिः किन्तु शक्त्यन्तमेव यावत् कस्मादण्डत्वमुक्तं न तु व्यापिन्यादौ? -- इत्याशङ्क्याह --
 
 > अण्डं च नाम भुवनविभागस्थितिकारणम् ॥

@@ -34,6 +34,9 @@ anivṛttapaśūbhāvastatrāhaṃkṛtpralīyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 238–239)
+> ![[Tantraloka Dyczkowski v03 08 - Chapter Four, part 7#Viveka on 4.165–167]]
+
 > कर्ता च द्विविधः प्रोक्तः कल्पिताकल्पितात्मकः ।
 > कल्पितो देहबुद्ध्यादिव्यवच्छेदेन चर्चितः ॥
 > कालाग्निरुद्रसंज्ञास्य शास्त्रेषु परिभाषिता ।

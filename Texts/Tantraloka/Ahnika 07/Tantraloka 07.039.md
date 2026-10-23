@@ -36,6 +36,11 @@ japahomārcanādīnāṃ prāṇasāmyamato vidhiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 27–28)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.38–39]]
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.39]]
+
 *Lead-in:* तदाह --
 
 > जपहोमार्चनादीनां प्राणसाम्यमतो विधिः ॥

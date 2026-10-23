@@ -34,6 +34,9 @@ sattarkaḥ śuddhavidyaiva sā cecchā parameśituḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 44–45)
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.34]]
+
 *Lead-in:* ननु यद्येवं तर्हि अस्य वैष्णवादेर्वामाधिष्ठितत्त्वात् सद्गुरावेवाश्वासो न जायते, इति का कथा साक्षान्मोक्षावाप्तौ ? -- इत्याशङ्क्याह --
 
 > सोऽपि सत्तर्कयोगेन नीयते सद्गुरुं प्रति ।

@@ -34,6 +34,9 @@ pramāṇādyā saṃskriyāyai dīkṣā hi guruṇā kṛtā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 371–372)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.5–6]]
+
 *Lead-in:* ननु इयं नाम शेषवृत्तिरुच्यते यद्भुक्तिमुक्तिनिमित्तं नित्यनैमित्तिकादेरनुष्ठानमिति, तदेतत्साधकः पुत्रको वा किमविशेषेणैव अनुतिष्ठेन्न वा ?--इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 26.6: see [[Tantraloka 26.006#Viveka|26.6]].

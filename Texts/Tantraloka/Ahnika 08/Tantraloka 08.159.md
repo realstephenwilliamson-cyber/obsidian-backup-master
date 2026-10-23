@@ -37,6 +37,11 @@ puraṃ puraṃ ca rudrordhvamuttarottaravṛddhitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 187–190)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.158–159]]
+>
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.159–161]]
+
 *Lead-in:* नन्वेवं माहात्म्यवत्किमेतदेव भुवनमस्ति उत भुवनान्तराण्यपि ? -- इत्याह --
 
 > पुरं पुरं च रुद्रोर्ध्वमुत्तरोत्तरवृद्धितः ॥

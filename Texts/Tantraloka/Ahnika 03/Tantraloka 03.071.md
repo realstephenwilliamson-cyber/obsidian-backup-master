@@ -37,6 +37,11 @@ saṅghaṭṭe'smiṃścidātmatvādyattatpratyavamarśanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 164–169)
+> ![[Tantraloka Dyczkowski v02 06 - Chapter Three, part 3#Viveka on 3.69–71]]
+>
+> ![[Tantraloka Dyczkowski v02 06 - Chapter Three, part 3#Viveka on 3.71–72]]
+
 *Lead-in:* एवं चिदानन्दशक्ती अभिधाय इच्छाशक्तिमाह --
 
 > सङ्घट्टेऽस्मिंश्चिदात्मत्वाद्यत्तत्प्रत्यवमर्शनम् ॥

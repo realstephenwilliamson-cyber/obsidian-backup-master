@@ -36,6 +36,11 @@ iṣṭāpūrtaratāḥ puṇye varṣe ye bhārate narāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 104–109)
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.56–57]]
+>
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.57–58]]
+
 *Lead-in:* एतच्च पुण्यकर्मणां भोगस्थानम् -- इत्याह --
 
 > इष्टापूर्तरताः पुण्ये वर्षे ये भारते नराः ॥

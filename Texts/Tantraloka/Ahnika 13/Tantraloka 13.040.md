@@ -31,6 +31,9 @@ viveko'nādisaṃyogātkā hyanyonyaṃ vicitratā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 147–148)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.40]]
+
 *Lead-in:* ननूत्तर एव पक्षोऽस्तु आनन्त्यचोद्यं तु निःशेषविशेषानवलम्बनात् कतिपयविशेषाश्रयणाच्च न स्यात्? -- इत्याशङ्कते --
 
 > कैश्चिदेव विशेषैश्चेत्सर्वेषां युगपद्भवेत् ।

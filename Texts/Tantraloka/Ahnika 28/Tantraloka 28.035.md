@@ -31,6 +31,9 @@ sajātīyā tu sotkṛṣṭetyevaṃ śambhurnyarūpayat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 19–20)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.34–35]]
+
 > मासस्याद्यं पञ्चमं च श्रीदिनं परिभाष्यते ॥
 > उत्कृष्टत्वात् पर्वदिनं श्रीपूर्वत्वेन भाष्यते ।
 > समयो ह्येष यद्गुप्तं तन्नानुपपदं वदेत् ॥

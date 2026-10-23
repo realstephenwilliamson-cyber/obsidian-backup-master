@@ -34,6 +34,11 @@ bālāturastrīvṛddhe ca mṛtoddhāraṃ prakalpayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 253–255)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 21.14–15.*
+>
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.14–15]]
+
 *Lead-in:* तदेवार्थतः पठति--
 
 Jayaratha comments on this verse together with 21.15: see [[Tantraloka 21.015#Viveka|21.15]].

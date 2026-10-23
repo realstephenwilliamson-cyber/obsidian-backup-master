@@ -31,6 +31,9 @@ dīkṣāyogyā yogayogyā iti śrīkairaṇe vidhau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 15–16)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.18]]
+
 *Lead-in:* ननु परे विचित्रा इत्यत्र किं प्रमाणम् ?--इत्याशङ्क्य आह--
 
 > ज्ञानयोग्यास्तथा केचिच्चर्यायोग्यास्तथापरे ।

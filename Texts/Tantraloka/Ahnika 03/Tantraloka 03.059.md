@@ -35,6 +35,9 @@ kiṃ tataḥ pratibimbe hi bimbaṃ tādātmyavṛtti na || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 131)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.59]]
+
 *Lead-in:* एतदेव प्रतिविधत्ते --
 
 > किं ततः प्रतिबिम्बे हि बिम्बं तादात्म्यवृत्ति न ॥

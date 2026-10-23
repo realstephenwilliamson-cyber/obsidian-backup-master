@@ -34,6 +34,9 @@ vibhāti varado bimbapratibimbadṛśākhile || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 77)
+> ![[Tantraloka Dyczkowski v02 04 - Chapter Three, part 1#Viveka on 3.11]]
+
 *Lead-in:* तदाह—
 
 > तदेवमुभयाकारमवभासं प्रकाशयन् ।

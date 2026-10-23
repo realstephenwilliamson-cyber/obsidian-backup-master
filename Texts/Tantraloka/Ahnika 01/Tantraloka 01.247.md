@@ -35,6 +35,9 @@ saṃśayaḥ kutracidrūpe niścite sati nānyathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 421–422)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.247]]
+
 *Lead-in:* अयमेव च प्रायः शंशयः"इत्युच्यते -- इत्याह --
 
 > तथानुद्घाटिताकारा निर्वाच्येनात्मना प्रथा ।

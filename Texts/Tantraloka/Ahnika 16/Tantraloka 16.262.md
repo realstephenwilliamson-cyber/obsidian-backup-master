@@ -35,6 +35,9 @@ paṇāyate karotīti vikalpasyocitau sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 115)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.261–263]]
+
 > घटकुम्भ इतीत्थं वा यदि भेदो निरूप्यते ॥
 > सोऽप्यन्यकल्पनादायी ह्यनादृत्यः प्रयत्नतः ।
 > पणायते करोतीति विकल्पस्योचितौ स्फुटम् ॥

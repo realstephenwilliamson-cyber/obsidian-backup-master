@@ -34,6 +34,9 @@ tathāpi pratipattṝṇāṃ pratipādayitustathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 68)
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.17–19]]
+
 > यद्यप्यमुष्य नाथस्य संवित्त्यनतिरेकिणः ॥
 > पूर्णस्योर्ध्वादिमध्यान्तव्यवस्था नास्ति वास्तवी ।
 > तथापि प्रतिपत्तॄणां प्रतिपादयितुस्तथा ॥

@@ -33,6 +33,11 @@ tādātmyavṛttiranyeṣāṃ tanna satyapi vedyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 145–146)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.335–336]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.336–337]]
+
 *Lead-in:* ननु एवमपि संविदधिष्ठेयत्वाविशेषात् नीलादीनामपि कथं न प्रलीनत्वं प्रोक्तम् ?--इत्याशङ्क्य आह--
 
 > तादात्म्यवृत्तिरन्येषां तन्न सत्यपि वेद्यते ॥

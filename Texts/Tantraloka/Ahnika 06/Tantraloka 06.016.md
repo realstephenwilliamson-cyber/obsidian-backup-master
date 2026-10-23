@@ -34,6 +34,9 @@ matiṃ pramāṇīkurvantaścārvākāstattvadarśinaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 232–233)
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.16]]
+
 *Lead-in:* एतदधिशयाना एव "चार्वाका"इत्युच्यन्ते -- इत्याह --
 
 > तामेव बालमूर्खस्त्रीप्रायवेदितृसंश्रिताम् ।

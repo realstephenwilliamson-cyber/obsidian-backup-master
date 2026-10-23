@@ -33,6 +33,11 @@ cidānandeṣaṇājñānakriyāṇāṃ susphuṭatvataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 56–57)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.49–50]]
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.50–51]]
+
 *Lead-in:* पञ्चधा प्रविभागमेव दर्शयति --
 
 > चिदानन्देषणाज्ञानक्रियाणां सुस्फुटत्वतः ॥

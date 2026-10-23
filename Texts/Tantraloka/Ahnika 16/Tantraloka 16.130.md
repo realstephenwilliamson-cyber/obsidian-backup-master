@@ -34,6 +34,9 @@ aṣṭaśaraṃ saṃkhyānaṃ khamunikṛtaṃ tatpare vidhau jñeyam || ^ias
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 59)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.129–130]]
+
 > अष्टादशाधिकशतं पुराणि देहेऽत्र चतुरशीतिमिते ।
 > विन्यस्तानि तदित्थं शेषे तु व्यापकं शिवं तत्त्वम् ॥
 > इति विधिरपरः कथितः परापराख्यो रसश्रुतिस्थाने ।

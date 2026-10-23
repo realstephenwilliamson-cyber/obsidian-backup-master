@@ -34,6 +34,9 @@ akalpite hi pūrṇatve phalamanyatkimucyatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 311)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.210]]
+
 *Lead-in:* तदाह --
 
 > फलं सर्वमपूर्णत्वे तत्र तत्र प्रकल्पितम् ।

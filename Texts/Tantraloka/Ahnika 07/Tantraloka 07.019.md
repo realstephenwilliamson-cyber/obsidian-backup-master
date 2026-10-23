@@ -36,6 +36,11 @@ krameṇetthamidaṃ cakraṃ ṣaṭkṛtvo dviguṇaṃ yadā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 7–10)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.5–19]]
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.19–21]]
+
 *Lead-in:* न चैतावतैव विरन्तव्यमित्याह --
 
 Jayaratha comments on this verse together with 7.20: see [[Tantraloka 07.020#Viveka|7.20]].

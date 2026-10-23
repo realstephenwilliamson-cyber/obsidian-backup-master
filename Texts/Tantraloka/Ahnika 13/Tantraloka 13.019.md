@@ -31,6 +31,9 @@ jñānaṃ bhāvi vimukte'sminniti ceccarcyatāmidam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 134–135)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.18–19]]
+
 > भाविनः प्रागभावश्च ज्ञानस्येति स्थिते सति ॥
 > मुक्ताणोरपि सोऽस्त्येव जन्मतः प्रागसौ न च ।
 > ज्ञानं भावि विमुक्तेऽस्मिन्निति चेच्चर्च्यतामिदम् ॥

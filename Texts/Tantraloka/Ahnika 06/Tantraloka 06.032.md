@@ -34,5 +34,8 @@ pūrvatve vā pradhānaṃ syāttatrāntarbhāvayettataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 251)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.31–33]]
+
 Jayaratha comments on this verse together with 6.33: see [[Tantraloka 06.033#Viveka|6.33]].
 

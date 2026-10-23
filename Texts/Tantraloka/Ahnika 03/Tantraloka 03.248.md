@@ -36,6 +36,11 @@ vibhāgābhāsanāyāṃ ca mukhyāstisro'tra śaktayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 371–373)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.247–248]]
+>
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.248–249]]
+
 *Lead-in:* ननु परस्य निरंशस्य प्रकाशस्य विभागेन प्रकाशनमेव नोपपद्यते, तत्रापि त्रैरूप्ये किं निमित्तम् ? -- इत्याशङ्क्याह --
 
 > विभागाभासनायां च मुख्यास्तिस्रोऽत्र शक्तयः ॥

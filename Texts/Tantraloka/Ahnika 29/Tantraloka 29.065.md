@@ -31,6 +31,9 @@ grāmyadharmarataḥ siddhyetsarvadā smaraṇena hi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 258–259)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.65]]
+
 *Lead-in:* ननु देशकालव्रतादिनियन्त्रणया सिद्धिर्भवेदिति सर्वत्र उक्तम् । तत् कथमत्र अनुसन्धिमात्रेणैव एवं स्यात् ?--इत्याशङ्क्य आह--
 
 > न तिथिर्न च नक्षत्रं नोपवासो विधीयते ।

@@ -31,6 +31,9 @@ tadrūpatanmayībhāvādupeyaṃ śīghramāpnuyāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 87)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.190]]
+
 *Lead-in:* ननु उपायत्वं नाम तदुपकरणमात्ररूपत्वमुच्यते, तस्यापि पूजया किं स्यात् ?--इत्याशङ्क्य आह--
 
 > उपेयसूतिसामर्थ्यमुपायत्वं तदर्चनात् ।

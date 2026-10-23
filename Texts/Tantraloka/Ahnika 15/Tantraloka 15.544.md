@@ -32,5 +32,8 @@ gurostvārādhitātpūrṇaṃ prasarajjñānamāpyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 327–328)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.540–545]]
+
 Jayaratha comments on this verse together with 15.571: see [[Tantraloka 15.571#Viveka|15.571]].
 

@@ -31,6 +31,9 @@ haimapuraṃ navamaṃ syānmadhye tāsāṃ ca cakriṇī mukhyā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 260–261)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.67]]
+
 *Lead-in:* तद्गृहाण्येव च सङ्केतस्थानतया पीठानि--इत्याह--
 
 > सङ्गमवरुणाकुलगिर्यट्टहासजयन्तीचरित्रकाम्रककोट्टम् ।

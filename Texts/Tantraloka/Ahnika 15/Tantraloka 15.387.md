@@ -32,6 +32,9 @@ madhyegṛhaṃ tato gandhamaṇḍale pūjayed guruḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 239–240)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.385–388]]
+
 > कुम्भस्थाम्बुसमापत्तिवृंहितं मन्त्रवृन्दकम् ॥
 > तेजोमात्रात्मना ध्यातं सर्वमाप्याययेद्विधिम् ।
 > अतः कुम्भे मन्त्रगणं सर्वं संपूजयेद् गुरुः ॥

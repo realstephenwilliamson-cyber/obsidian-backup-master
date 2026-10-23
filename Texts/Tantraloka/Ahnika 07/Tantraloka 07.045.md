@@ -34,6 +34,9 @@ upāṃśurvā śaktyudayaṃ teṣāṃ na parikalpayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 32)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.45]]
+
 *Lead-in:* ननु सर्वेषां मन्त्रादीनामविशेषेणैव किमियं व्यवस्था किमन्यथा वा ? -- इत्याशङ्क्याह --
 
 > मालामन्त्रेषु सर्वेषु मानसो जप उच्यते ।

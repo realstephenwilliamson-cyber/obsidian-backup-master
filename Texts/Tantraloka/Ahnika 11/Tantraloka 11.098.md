@@ -35,6 +35,9 @@ na svayaṃ sadasanto no kāraṇākāraṇātmakāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 87–88)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.98]]
+
 *Lead-in:* इत्यादिनीत्या विवादस्तत्कथं चित एकत्वादेवंभावो भवेत्? -- इत्याशङ्क्याह --
 
 > नगरार्णवशैलाद्यास्तदिच्छानुविधायिनः ।

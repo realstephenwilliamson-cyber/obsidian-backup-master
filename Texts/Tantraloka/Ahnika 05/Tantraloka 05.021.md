@@ -34,6 +34,9 @@ kadalīsaṃpuṭākāraṃ sabāhyābhyantarāntaram |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 23–25)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.21]]
+
 *Lead-in:* तत्रत्यमेव ग्रन्थं पठति --
 
 > कदलीसंपुटाकारं सबाह्याभ्यन्तरान्तरम् ।

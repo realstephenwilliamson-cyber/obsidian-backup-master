@@ -33,6 +33,11 @@ dhanyastu pūrṇavijñānaṃ jñānārthī labhate gurum || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 335–336)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.341–342]]
+>
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.342]]
+
 *Lead-in:* तीव्रशक्तिपाताघ्रतः पुनः पूर्णज्ञानमेव गुरुमासादयेत् यत्प्रसादादनायासमेवास्य स्वात्मनो विज्ञानपारिपूर्ण्यं समुदियात् -- इत्याह --
 
 > धन्यस्तु पूर्णविज्ञानं ज्ञानार्थी लभते गुरुम् ॥

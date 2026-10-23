@@ -72,12 +72,12 @@ From the above, every person in whose mind enter doubts as to [his] faith can de
 
 Furthermore, the *sitra achara* itself entertains no doubts about faith, except that she has been given permission to confuse man with words of falsehood and deceit in order that he may acquire greater rewards, as the harlot seeks to seduce the king’s son with falsehood and deceit, with the king’s approval, as [in the parable] mentioned in the holy *Zohar*.[^31]
 
-[^1]: *Taanit* 2a.
+[^1]: [[Taanit 2#2a|*Taanit* 2a]].
 [^2]: See above, ch. 27, where a limited form of abstemiousness is highly commended.
 [^3]: *Zohar* [[Zohar 9.04 - Rav Metivta#^z3-168a|III:168a]].
 [^4]: A play on [[Psalms 015#^15-4|Psalms 15:4]]. Note the reinterpretation.
 [^5]: Comp. [[Psalms 051#^51-19|Psalms 51:19]].
-[^6]: Morning Liturgy; *Berachot* 60b.
+[^6]: Morning Liturgy; [[Berakhot 60#60b|*Berachot* 60b]].
 [^7]: [[Torah 21 - Ki Tisa#^30-32|Exodus 30:32]].
 [^8]: *Vayikra Rabbah* 34:3.
 [^9]: Ch. 24.
@@ -87,16 +87,16 @@ Furthermore, the *sitra achara* itself entertains no doubts about faith, except 
 [^13]: See above, ch. 6.
 [^14]: [[Psalms 024#^24-3|Psalms 24:3]], 4.
 [^15]: [[Psalms 015#^15-4|Psalms 15:4]]; see above, note 4.
-[^16]: *Berachot* 5a.
+[^16]: [[Berakhot 5#5a|*Berachot* 5a]].
 [^17]: [[Psalms 004#^4-5|Psalms 4:5]].
 [^18]: Elsewhere (e.g., *Torah Or* 38b) the author does not identify the evil impulse with the animal soul, defining the former as the attributes of the latter.
-[^19]: Cf. *Sukkah* 52a.
+[^19]: Cf. [[Sukkah 52#52a|*Sukkah* 52a]].
 [^20]: [[Malachi 3#^3-6|Malachi 3:6]].
 [^21]: Above, ch. 6.
 [^22]: Ibid.
 [^23]: [[Obadiah 1#^1-4|Obadiah 1:4]].
 [^24]: [[Torah 37 - Sh'lach#^13-31|Numbers 13:31]].
-[^25]: *Arachin* 15a; *Sotah* 35a. The Hebrew word ממנו permits both interpretations.
+[^25]: [[Arakhin 15#15a|*Arachin* 15a]]; [[Sotah 35#35a|*Sotah* 35a]]. The Hebrew word ממנו permits both interpretations.
 [^26]: [[Torah 37 - Sh'lach#^14-40|Numbers 14:40]].
 [^27]: Cf. Joshua 12.
 [^28]: [[Torah 37 - Sh'lach#^14-27|Numbers 14:27]], 29, 35.

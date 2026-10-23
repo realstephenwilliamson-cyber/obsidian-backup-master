@@ -34,6 +34,9 @@ tatra kācitpunaḥ śaktiranantā vā mitāśca vā |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 385–386)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.207]]
+
 *Lead-in:* अत एवाह—
 
 > तत्र काचित्पुनः शक्तिरनन्ता वा मिताश्च वा ।

@@ -33,6 +33,11 @@ lakṣayetsukhaduḥkhādi svaṃ kāryaṃ hetubhāvataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 107–108)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.120–121]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.121]]
+
 *Lead-in:* तत्र कर्मसूत्रं व्याचष्टे --
 
 > लक्षयेत्सुखदुःखादि स्वं कार्यं हेतुभावतः ॥

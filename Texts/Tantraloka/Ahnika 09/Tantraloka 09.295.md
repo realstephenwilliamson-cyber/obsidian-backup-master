@@ -31,5 +31,8 @@ saṃsparśaḥ pākajo'nuṣṇāśītaḥ śabdo vicitrakaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 271–274)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.294–297]]
+
 Jayaratha comments on this verse together with 9.296: see [[Tantraloka 09.296#Viveka|9.296]].
 

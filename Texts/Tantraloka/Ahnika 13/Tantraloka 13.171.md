@@ -31,5 +31,8 @@ nā badhyo bandhane śaktiḥ karaṇaṃ kartṛtāṃ spṛśat |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 229–230)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.170–172]]
+
 Jayaratha comments on this verse together with 13.172: see [[Tantraloka 13.172#Viveka|13.172]].
 

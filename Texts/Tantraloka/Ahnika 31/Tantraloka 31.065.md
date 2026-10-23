@@ -31,6 +31,9 @@ jīve khaṇḍenduyugalaṃ kuryādantarbhramādbudhaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 96–97)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.65–67]]
+
 *Lead-in:* कथम्?--इत्याह--
 
 Jayaratha comments on this verse together with 31.66: see [[Tantraloka 31.066#Viveka|31.66]].

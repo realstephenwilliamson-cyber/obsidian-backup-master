@@ -31,5 +31,8 @@ yoginīmelakaḥ svāṃśasantānādyaiśca melanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 7–8)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.6–9]]
+
 Jayaratha comments on this verse together with 28.9: see [[Tantraloka 28.009#Viveka|28.9]].
 

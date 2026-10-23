@@ -34,6 +34,11 @@ paraprakṛtisāyujyaṃ yadvāpyānandarūpatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 35)
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.29–30]]
+>
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.29–30 (continued)]]
+
 *Lead-in:* ननु प्राप्तेऽपि वैष्णवादिशास्त्रान्तरोदिते मोक्षे किमिति नाम अयं जनः संसारात् नोन्मज्जति ? -- इत्याशङ्क्याह—
 
 Jayaratha comments on this verse together with 4.30: see [[Tantraloka 04.030#Viveka|4.30]].

@@ -34,5 +34,10 @@ tadete tadvidhāḥ prāptāstvamebhyaḥ kurvanugraham || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 37–38)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 16.78–80.*
+>
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.78–80]]
+
 Jayaratha comments on this verse together with 16.80: see [[Tantraloka 16.080#Viveka|16.80]].
 

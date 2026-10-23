@@ -31,6 +31,9 @@ dvāramātrāśritopāyā paśyāmītyanupāyikā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 468–469)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.268–269]]
+
 *Lead-in:* नन्वियं प्रमाणफलरूपा मेयादित्रयसाध्या मितिरतो मेयादयोऽस्या जीवितं न तु सा तेषामिति किमेतदुक्तम् ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 10.269: see [[Tantraloka 10.269#Viveka|10.269]].

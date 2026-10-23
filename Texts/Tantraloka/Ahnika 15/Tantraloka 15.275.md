@@ -33,6 +33,11 @@ ye tu tīvratamodriktaśaktinirmalatājuṣaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 163–164)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.274–275]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.275–276]]
+
 *Lead-in:* इत्यादि उक्तं तत् किमिह भावनापर्यवसायिन्यासादिना अभिहितेन?-- इत्याशङ्क्य आह--
 
 > ये तु तीव्रतमोद्रिक्तशक्तिनिर्मलताजुषः ॥

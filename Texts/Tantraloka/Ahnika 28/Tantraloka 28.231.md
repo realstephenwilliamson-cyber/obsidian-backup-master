@@ -31,6 +31,9 @@ sa dehaḥ pratibudhyeta prasuptotthitavattadā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 103)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.230–232]]
+
 > तस्मिन्विघटिते यन्त्रे सा संवित्प्राणनात्मताम् ॥
 > गृह्णाति योनिजेऽन्यत्र वा देहे कर्मचित्रिते ।
 > स देहः प्रतिबुध्येत प्रसुप्तोत्थितवत्तदा ॥

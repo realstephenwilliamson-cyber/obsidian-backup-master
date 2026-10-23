@@ -308,4 +308,4 @@ and the King would descend from it towards
 [^33]: 6
 [^34]: 21
 [^35]: 21
-[^36]: *BT* Baba Batra 25b
+[^36]: *BT* [[Bava Batra 25#25b|Baba Batra 25b]]

@@ -34,6 +34,11 @@ athavāgneḥ śikhāṃ vāmaprāṇenādāya hṛjjuṣā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 255–256)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.411–412]]
+>
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.412–413]]
+
 *Lead-in:* एवमपि दृढप्रतिपत्तिपवित्रीकृतान्प्रति बाह्यसंस्कारनिरपेक्षतया वह्निं संस्कर्तुं युक्त्यन्तरमाह--
 
 > अथवाग्नेः शिखां वामप्राणेनादाय हृज्जुषा ॥

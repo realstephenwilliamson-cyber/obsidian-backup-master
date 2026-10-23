@@ -35,6 +35,9 @@ catuṣkaṃ kila mīnādyamantikaṃ cottarottaram || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 347–348)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.119–120]]
+
 *Lead-in:* अत्राप्यवान्तरोऽस्ति विशेषः -- इत्याह --
 
 Jayaratha comments on this verse together with 6.120: see [[Tantraloka 06.120#Viveka|6.120]].

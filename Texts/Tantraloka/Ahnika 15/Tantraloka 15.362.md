@@ -31,6 +31,9 @@ khecarīyaṃ khasañcārasthitibhyāṃ khāmṛtāśanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 222–223)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.361–362]]
+
 > द्वादशान्तमिदं प्राग्रं त्रिशूलं मूलतः स्मरन् ।
 > देवीचक्राग्रगं त्यक्तक्रमः खेचरतां व्रजेत् ॥
 > मूलाधाराद् द्विषट्कान्तव्योमाग्रापूरणात्मिका ।

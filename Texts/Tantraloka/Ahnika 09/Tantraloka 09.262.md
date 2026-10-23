@@ -33,6 +33,11 @@ nanvetat kheṭapālādyairnirākāri na karmaṇām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 246–247)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.261–262]]
+>
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.262–263]]
+
 *Lead-in:* ननु किमिहानेनोक्तेन फलं यदन्यैरेवैतत् परिहृतमित्याह --
 
 > नन्वेतत् खेटपालाद्यैर्निराकारि न कर्मणाम् ॥

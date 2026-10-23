@@ -33,6 +33,11 @@ evaṃ siddhaṃ hi vedyatvaṃ bhāvadharmo'stu kā ghṛṇā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 346)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.77–78]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.78–79]]
+
 *Lead-in:* ननु भवतु नाम वेद्यता नाम भावधर्मः का नो विचिकित्सा, इदं पुनः कथं यदनेकेषु प्रमातृषु तथानैक्यमिति, नहि प्रमातृभेदेऽपि नीलस्य स्वात्मनि कश्चिद्विशेषो येनैवं स्यात् ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 10.77: see [[Tantraloka 10.077#Viveka|10.77]].

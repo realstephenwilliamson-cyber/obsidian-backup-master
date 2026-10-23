@@ -34,5 +34,8 @@ pūrayedvāyunā dehamaṃguṣṭhānmastakāntakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 206–207)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.11–14]]
+
 Jayaratha comments on this verse together with 19.14: see [[Tantraloka 19.014#Viveka|19.14]].
 

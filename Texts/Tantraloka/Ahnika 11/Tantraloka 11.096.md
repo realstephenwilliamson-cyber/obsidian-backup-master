@@ -35,6 +35,9 @@ viśeṣāḥ pratibhāsante na bhāvyante'pi te yathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 85–86)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.96]]
+
 *Lead-in:* न केवलं स्वप्नादावेतदेवावभासते यावदत्यन्तासंभाव्यमन्यदपि -- इत्याह --
 
 > स्वप्नेऽपि प्रतिभामात्रसामान्यप्रथनाबलात् ।

@@ -36,6 +36,11 @@ yatroddiṣṭe vidhau paścāttadanantaiḥ kriyātmakaiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 154–155)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.28–29]]
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.29–30]]
+
 *Lead-in:* न च अवयविप्राये बहिस्तथात्मतयानवभासने कर्मण्यप्यभ्यूहनं कार्यम्--इत्याह--
 
 > यत्रोद्दिष्टे विधौ पश्चात्तदनन्तैः क्रियात्मकैः ॥

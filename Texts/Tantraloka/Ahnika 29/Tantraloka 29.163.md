@@ -31,6 +31,9 @@ uktaḥ sa yoginībhūḥ svayameva jñānabhājanaṃ rudraḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 341)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.162–163]]
+
 > तादृङ्मेलककलिकाकलिततनुः कोऽपि यो भवेद्गर्भे ॥
 > उक्तः स योगिनीभूः स्वयमेव ज्ञानभाजनं रुद्रः ।
 > श्रीवीरावलिशास्त्रे बालोऽपि च गर्भगो हि शिवरूपः ॥

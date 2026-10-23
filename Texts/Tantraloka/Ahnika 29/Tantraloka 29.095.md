@@ -31,6 +31,9 @@ daśānyāstadupāyāyetyevaṃ home daśāṃśatām |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 284)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.93–95]]
+
 > शुद्धाशुद्धविकल्पानां त्याग एकान्त उच्यते ।
 > तत्रस्थः स्वयमेवैष जुहोति च जपत्यपि ॥
 > जपः सञ्जल्पवृत्तिश्च नादामर्शस्वरूपिणी ।

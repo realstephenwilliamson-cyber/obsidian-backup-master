@@ -33,6 +33,11 @@ tāro māyā vedakalo mātṛtāro navātmakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 51–53)
+> ![[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#Viveka on 30.89–90]]
+>
+> ![[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#Viveka on 30.90–91]]
+
 *Lead-in:* निष्कलामेव ब्रह्मविद्यां निर्दिशति--
 
 Jayaratha comments on this verse together with 30.89: see [[Tantraloka 30.089#Viveka|30.89]].

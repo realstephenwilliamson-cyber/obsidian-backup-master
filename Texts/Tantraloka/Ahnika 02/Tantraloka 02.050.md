@@ -33,6 +33,11 @@ idamanuttaradhāmavivecakaṃ vigalitaupayikaṃ kṛtamāhnikam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 62)
+> ![[Tantraloka Dyczkowski v02 03 - Chapter Two, part 2#Viveka on 2.50]]
+>
+> ![[Tantraloka Dyczkowski v02 04 - Chapter Three, part 1#Viveka on 2.50 (continued)]]
+
 *Lead-in:* इदानीमाह्निकार्थं श्लोकस्य प्रथमार्धेनोपसंहरति --
 
 > इदमनुत्तरधामविवेचकं विगलितौपयिकं कृतमाह्निकम् ॥

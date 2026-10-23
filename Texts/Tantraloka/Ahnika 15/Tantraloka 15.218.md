@@ -33,6 +33,11 @@ itthaṃ sūryāśrayā diksyātsā vicitrāpi tādṛśī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 133–134)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.217–218]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.218–219]]
+
 > इत्थं सूर्याश्रया दिक्स्यात्सा विचित्रापि तादृशी ॥
 > अधिष्ठिता महेशेन चित्रतद्रूपधारिणा ।
 

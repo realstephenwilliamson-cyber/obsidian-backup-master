@@ -32,5 +32,8 @@ tryakṣare nirṛtiprāye nāmni bhoḥśabdamekakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 234–239)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.378–385]]
+
 Jayaratha comments on this verse together with 15.384: see [[Tantraloka 15.384#Viveka|15.384]].
 

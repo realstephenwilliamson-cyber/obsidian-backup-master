@@ -36,6 +36,11 @@ asminsthūlatraye yattadanusandhānamādivat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 370–371)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.244–245]]
+>
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.245–246]]
+
 *Lead-in:* एवं स्थूलं भेदत्रयमभिधाय सूक्ष्ममप्याह --
 
 > अस्मिन्स्थूलत्रये यत्तदनुसन्धानमादिवत् ॥

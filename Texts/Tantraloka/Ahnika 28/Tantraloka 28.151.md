@@ -31,6 +31,11 @@ cāturāśramikāṇāṃ tu subhruvā kartitokṣitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 76–77)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 28.155–156.*
+>
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.155–156]]
+
 *Lead-in:* अस्यैव स्वरूपं निर्देष्टुमाह--
 
 Jayaratha comments on this verse together with 28.155: see [[Tantraloka 28.155#Viveka|28.155]].

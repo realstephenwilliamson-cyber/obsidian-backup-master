@@ -37,6 +37,11 @@ duṣṭānāmeva sarveṣāṃ bhūtabhavyabhaviṣyatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 135)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.302]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.302–304]]
+
 *Lead-in:* अतश्चायं गुर्वधीनसिद्धिरेव--इत्याह--
 
 > गुरुदीक्षामन्त्रशास्त्राधीनसर्वस्थितिस्ततः ।

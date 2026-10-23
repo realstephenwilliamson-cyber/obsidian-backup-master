@@ -34,6 +34,9 @@ etareyākhyavedānte parameśena vistarāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 347)
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.226]]
+
 *Lead-in:* विसर्गशक्तिरेव च इयान्विश्वस्फारः -- इति न केवलमस्मन्नयसहोदरेषु शास्त्रेषु भगवता उक्तं यावदितो बाह्येष्वपि -- इत्याह --
 
 > विसर्गशक्तिर्विश्वस्य कारणं च निरूपिता ।

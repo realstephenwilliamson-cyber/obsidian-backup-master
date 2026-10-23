@@ -31,5 +31,10 @@ sapta, sādhakagāḥ pañca, putrake sapta, sāmaye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 81)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 28.167.*
+>
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.167]]
+
 Jayaratha comments on this verse together with 28.185: see [[Tantraloka 28.185#Viveka|28.185]].
 

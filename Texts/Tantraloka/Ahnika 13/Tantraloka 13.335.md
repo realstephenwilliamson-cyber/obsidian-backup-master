@@ -31,6 +31,9 @@ vijñānārthī tathā śiṣyo gurorgurvantaraṃ vrajet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 332)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.335]]
+
 *Lead-in:* तदेव पठति --
 
 > आमोदार्थी यथा भृङ्गः पुष्पात्पुष्पान्तरं व्रजेत् ।

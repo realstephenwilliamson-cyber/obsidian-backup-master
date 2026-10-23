@@ -34,5 +34,8 @@ tāsāṃ ca kṛtyabhedena nāmāni bahudhāgame || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 379)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.254–257]]
+
 Jayaratha comments on this verse together with 3.256: see [[Tantraloka 03.256#Viveka|3.256]].
 

@@ -31,5 +31,8 @@ piṇḍīkṛtya paribhramya pañcāṣṭaśikhayā haṭhāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 395–396)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.257–258]]
+
 Jayaratha comments on this verse together with 29.271: see [[Tantraloka 29.271#Viveka|29.271]].
 

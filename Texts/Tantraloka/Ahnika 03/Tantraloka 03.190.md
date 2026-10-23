@@ -37,6 +37,13 @@ anuttarānandamayo devo bhoktaiva kathyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 308–310)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.189–190]]
+>
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.189–190 (continued)]]
+>
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.190–191]]
+
 *Lead-in:* अत आह --
 
 > अनुत्तरानन्दमयो देवो भोक्तैव कथ्यते ॥

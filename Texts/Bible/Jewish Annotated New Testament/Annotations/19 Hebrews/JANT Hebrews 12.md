@@ -40,7 +40,7 @@ Text: [[NRSVue Hebrews 12|NRSVue]] · [[Hebrews 12|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Hebrews 12#^12-15|15]]:** *Grace of God*, perhaps referring to God’s action through Jesus; cf. 2.9. *Root of bitterness,* possibly an allusion to [[LXX Deuteronomy 29#^29-17|Deut 29.17]]\[LXX\]. ^12-15
 
-**[[NRSVue Hebrews 12#^12-16|16]]:** *Esau* . . . *birthright*, see [[Torah 06 - Toldot#^25-29|Gen 25.29–34]]. *Immoral*, Gk “pornos,” meaning sexually *immoral*. Postbiblical traditions portray Esau as Rome, and later as Christianity, as more wicked than depicted in the Tanakh, the opposite of his brother Jacob, though no texts describe him as “pornos”; see Philo, *Virtues* 208; *b. Sanh.* 101b; *Gen. Rab.* 37,40,43,45. ^12-16
+**[[NRSVue Hebrews 12#^12-16|16]]:** *Esau* . . . *birthright*, see [[Torah 06 - Toldot#^25-29|Gen 25.29–34]]. *Immoral*, Gk “pornos,” meaning sexually *immoral*. Postbiblical traditions portray Esau as Rome, and later as Christianity, as more wicked than depicted in the Tanakh, the opposite of his brother Jacob, though no texts describe him as “pornos”; see Philo, *Virtues* 208; [[Sanhedrin 101#101b|*b. Sanh.* 101b]]; *Gen. Rab.* 37,40,43,45. ^12-16
 
 **[[NRSVue Hebrews 12#^12-17|17]]:** *Inherit the blessing*, Gen 27. *Found no chance distracts* b Or *who instead of* c Other ancient authorities read *such hostility from sinners against themselves to repent*, see 6.4–8; 10.26–31. *With tears*, Esau’s grief when he learns his brother has stolen his blessing, [[Torah 06 - Toldot#^27-38|Gen 27.38]]. ^12-17
 
@@ -50,7 +50,7 @@ Text: [[NRSVue Hebrews 12|NRSVue]] · [[Hebrews 12|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Hebrews 12#^12-20|20]]:** [[Torah 17 - Yitro#^19-12|Ex 19.12–13]]. ^12-20
 
-**[[NRSVue Hebrews 12#^12-21|21]]:** [[Torah 46 - Eikev#^9-19|Deut 9.19]], moved to a new context; on Moses’ fear, see also *b. Shabb*. 88b. ^12-21
+**[[NRSVue Hebrews 12#^12-21|21]]:** [[Torah 46 - Eikev#^9-19|Deut 9.19]], moved to a new context; on Moses’ fear, see also [[Shabbat 88#88b|*b. Shabb*. 88b]]. ^12-21
 
 **[[NRSVue Hebrews 12#^12-22|22]]:** *Mount Zion*, the mountain in Jerusalem where God dwells; site of the Jerusalem Temple; the image is in contrast to descriptions of Sinai in vv 18–21; cf. [[Galatians 04#^4-21|Gal 4.21–31]]. *Living God*, see 3.12; 9.14; 10.31. *Heavenly Jerusalem*, although *Jerusalem* is not earlier named explicitly, the heavenly city was mentioned; see 11.10,16. *Innumerable angels*, angels are often part of theophanies; see [[Torah 54 - V'Zot HaBerachah#^33-2|Deut 33.2]] (referring specifically to Sinai); [[Daniel 07#^7-10|Dan 7.10]]; [[Revelation 05#^5-11|Rev 5.11]]; *1 En.* 13.8; in 4QShirShabba angels singing God’s praise assemble in heaven for Sabbath worship. See “Supernatural Beings,” p. 682. ^12-22
 

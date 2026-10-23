@@ -34,6 +34,9 @@ tadādare tadarthastu cinteti paricarcyatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 123–124)
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.103]]
+
 *Lead-in:* ननु यद्विषयोऽयं नाम स्वपरामर्श इष्यते, तयोः पाठचिन्तनयोरेव किं स्वरूपम् ? -- इत्याशङ्क्याह --
 
 > सङ्केतानादरे शब्दनिष्ठमामर्शनं पठिः ।

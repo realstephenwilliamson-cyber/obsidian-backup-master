@@ -35,6 +35,11 @@ vaktrākāśaṃ saśabdaṃ sadbhāti tatparavaktṛvat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 103)
+> ![[Tantraloka Dyczkowski v02 04 - Chapter Three, part 1#Viveka on 3.31]]
+>
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.31 (continued)]]
+
 *Lead-in:* तदाह --
 
 > अतः कूपादिपिठिराकाशे तत्प्रतिबिम्बितम् ।

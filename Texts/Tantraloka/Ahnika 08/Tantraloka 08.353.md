@@ -37,6 +37,11 @@ atrāpi yato dṛṣṭānugrāhyāṇāṃ niyojyatā śaivī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 343–344)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.352–353]]
+>
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.353–354]]
+
 *Lead-in:* हेयत्वे चात्र किं निमित्तम् ? -- इत्याशङ्क्याह --
 
 > अत्रापि यतो दृष्टानुग्राह्याणां नियोज्यता शैवी ॥

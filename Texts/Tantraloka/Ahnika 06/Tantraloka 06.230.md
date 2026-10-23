@@ -37,6 +37,11 @@ ekāśītipadodāravimarśakramabṛṃhitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 437–438)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.229–230]]
+>
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.230–231]]
+
 *Lead-in:* ननु यद्येवं तदेकाशीत्यर्धमात्रात्मिकेयमेव भगवती परा शक्तिरवस्थितेति किमनेनैतत्समव्याप्तिकेन व्योमव्यापिनोपदिष्टेन ? -- इत्याशङ्क्याह --
 
 > एकाशीतिपदोदारविमर्शक्रमबृंहितः ॥

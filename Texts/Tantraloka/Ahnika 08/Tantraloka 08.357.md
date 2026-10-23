@@ -37,5 +37,10 @@ aiśātsādāśivaṃ jñānakriyāyugalamaṇḍitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 345–348)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.355–357]]
+>
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.357–359]]
+
 Jayaratha comments on this verse together with 8.356: see [[Tantraloka 08.356#Viveka|8.356]].
 

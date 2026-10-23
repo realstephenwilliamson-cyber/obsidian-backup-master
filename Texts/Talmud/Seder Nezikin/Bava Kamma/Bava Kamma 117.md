@@ -1,0 +1,196 @@
+---
+type: "text"
+work: "Talmud Bavli"
+masekhet: "Bava Kamma"
+seder: "Nezikin"
+daf: 117
+translation: "William Davidson Edition - English"
+edition: "English from The William Davidson digital edition of the Koren Noé Talmud, with commentary by Rabbi Adin Even-Israel Steinsaltz"
+license: "CC-BY-NC"
+source: "https://www.sefaria.org/Bava_Kamma.117a?ven=William_Davidson_Edition_-_English&lang=en"
+aliases:
+  - "Bava Kamma 117a"
+  - "Bava Kamma 117b"
+  - "BT Bava Kamma 117"
+---
+# Bava Kamma 117
+
+← [[Bava Kamma 116]] · [[Bava Kamma]] · [[Bava Kamma 118]] →
+
+*Seder Nezikin · Bava Kamma · Daf 117* · [[Bava Kamma]] · [[Talmud]]
+
+## 117a
+
+> [!torah]- Torah Or (117a)
+> - [[Isaiah 51#^51-20|Isaiah 51:20]] (line 19)
+
+> [!xref]- Mesoret HaShas (117a)
+> - [[Avodah Zarah 6#^6b-2|Avodah Zarah 6b:2]] (line 15)
+> - [[Bava Batra 34#^34b-1|Bava Batra 34b:1]] (line 17)
+> - [[Bava Metzia 6#^6b-1|Bava Metzia 6b:1]] (line 17)
+> - [[Pesachim 55#^55b-8|Pesachim 55b:8]] (line 4)
+> - [[Bava Metzia 38#^38b-3|Bava Metzia 38b:3]] (line 4)
+> - [[Ketubot 31#^31a-2|Ketubot 31a:2]] (line 8)
+> - [[Gittin 52#^52b-16|Gittin 52b:16]] (line 9)
+
+> [!xref]- Ein Mishpat (117a)
+> - [[Mishneh Torah - One Who Injures a Person or Property 08#^8-3|Mishneh Torah, One Who Injures a Person or Property 8:3]] (lines 11, 12, 14)
+> - [[Mishneh Torah - One Who Injures a Person or Property 08#^8-4|Mishneh Torah, One Who Injures a Person or Property 8:4]] (lines 11, 12, 14)
+> - [Sefer Mitzvot Gadol, Positive Commandments 70](https://www.sefaria.org/Sefer_Mitzvot_Gadol,_Positive_Commandments.70) (lines 2, 6, 11, 12, 14)
+> - [Tur, Choshen Mishpat 388](https://www.sefaria.org/Tur,_Choshen_Mishpat.388) (lines 11, 12, 14, 17, 18)
+> - [Shulchan Arukh, Choshen Mishpat 388:2](https://www.sefaria.org/Shulchan_Arukh,_Choshen_Mishpat.388.2) (lines 11, 12, 14)
+> - [[Mishneh Torah - One Who Injures a Person or Property 08#^8-5|Mishneh Torah, One Who Injures a Person or Property 8:5]] (line 17)
+> - [Shulchan Arukh, Choshen Mishpat 388:5](https://www.sefaria.org/Shulchan_Arukh,_Choshen_Mishpat.388.5) (line 17)
+> - [[Mishneh Torah - One Who Injures a Person or Property 08#^8-10|Mishneh Torah, One Who Injures a Person or Property 8:10]] (line 18)
+> - [Shulchan Arukh, Choshen Mishpat 388:10](https://www.sefaria.org/Shulchan_Arukh,_Choshen_Mishpat.388.10) (line 18)
+> - [[Mishneh Torah - One Who Injures a Person or Property 07#^7-1|Mishneh Torah, One Who Injures a Person or Property 7:1]] (line 2)
+> - [[Mishneh Torah - One Who Injures a Person or Property 07#^7-2|Mishneh Torah, One Who Injures a Person or Property 7:2]] (line 2)
+> - [Tur, Choshen Mishpat 385](https://www.sefaria.org/Tur,_Choshen_Mishpat.385) (line 2)
+> - [Shulchan Arukh, Choshen Mishpat 385:1](https://www.sefaria.org/Shulchan_Arukh,_Choshen_Mishpat.385.1) (line 2)
+> - [[Mishneh Torah - Theft 03#^3-2|Mishneh Torah, Theft 3:2]] (line 8)
+
+**if** it is **the *halakha*** or **if** it is **a fine?** Rav Huna bar Ḥiyya **said to him: If** it is **the *halakha*, we learn from it** and apply this ruling to other cases, but **if** it is **a fine, we do not learn from it,** as it is possible that Rav Naḥman had a specific reason to impose a fine in this case. ^117a-1
+
+The Gemara asks: **And from where do you say that we do not learn from** the imposition of **a fine** in one case and apply the ruling in other cases? The Gemara answers that the source is **as it is taught** in a *baraita*: **Initially,** the Sages **would say** that **one who renders** another’s food **ritually impure,** thereby rendering it unfit for him to consume, **and one who pours** another’s wine as **a libation** for idol worship, thereby rendering it an item from which deriving benefit is prohibited, are liable to pay the owner for the financial loss they caused despite the fact that damage is not evident. **Subsequently,** they added to this list, **to say** that **even one who intermingles** *teruma*, the portion of the produce designated for the priest, with another’s non-sacred produce, thereby rendering the non-sacred food forbidden to non-priests, is liable to compensate the owner for the loss of value of the produce, as fewer people will be willing to buy it from him. ^117a-2
+
+The Gemara comments: It may be inferred from the *baraita* that it is only because the Sages **subsequently** added to the list that **yes,** one who intermingles *teruma* with another’s non-sacred produce must compensate him. But if **they had not subsequently** added to the list, he would **not** be liable. **What is the reason** that we do not learn that he is liable from the cases of one who renders another’s food impure or pours wine as a libation for idol worship, as this is also a case in which one causes damage that is not evident? **Is it not due to** the fact that his payment **is a fine, and** with regard to **a fine, we do not learn from** one case that it may be imposed in other circumstances? ^117a-3
+
+The Gemara answers: **No,** this is not the reason. Rather, **initially** the Sages **maintained** that they **were concerned** with regard **to a large** financial **loss,** e.g., the cases of one who renders another’s food impure or pours his wine as a libation for idol worship, but with regard **to a small** financial **loss,** e.g., one who intermingles *teruma* with another’s non-sacred produce, **they were not concerned. And ultimately** the Sages **maintained** that they **were concerned** with regard **to a small loss as well** and imposed liability. ^117a-4
+
+The Gemara asks: **Is that so? But didn’t the father of Rabbi Avin teach** the *baraita* as follows: **Initially they would say** that **one who renders** another’s produce **impure and one who intermingles** *teruma* with another’s non-sacred produce are both liable to pay for the financial loss that they caused, despite the fact that the damage is not evident. **Subsequently,** they added to this list, **to say** that **even one who pours** another’s wine as **a libation** for idol worship is **also** liable to pay a fine for the loss that he caused. It may be inferred that it is only because the Sages **subsequently** added to the list, that **yes,** one who pours the libation is liable. But if **they had not subsequently** added to the list, he would **not** be liable. ^117a-5
+
+The Gemara comments: Since one who offers libations for idol worship causes a large financial loss, the rationale offered previously cannot apply to this version of the *baraita*. Accordingly, **what is the reason** that the liability for pouring another’s wine as a libation could not be extrapolated from the fine imposed for rendering another’s food impure or intermingling it with *teruma*? Is it **not due to** the fact that **we do not learn from** the imposition of **a fine** in one case that a fine may be imposed in other cases? ^117a-6
+
+The Gemara answers: **No,** this is not the reason. Rather, the reason is that **initially** the Sages **held in accordance with** the opinion of **Rabbi Avin, and ultimately they held in accordance with** the opinion of **Rabbi Yirmeya.** ^117a-7
+
+The Gemara elaborates: **Initially they held in accordance with** the opinion of **Rabbi Avin, as Rabbi Avin says:** If one stood in the public domain on Shabbat and **shot an arrow from the beginning of** an area measuring **four** cubits **to the end of** an area measuring **four** cubits, **and** the arrow **tore** another’s **silks [*shira’in*] in** the course of **its travel** through the air, the one who threw it is **exempt** from paying for the cloth. The reason for this is **that lifting** an item **is a necessity for placing** it elsewhere, and therefore the entire process, from when one shoots the arrow until it comes to a rest, is considered to be a single act. The one performing it is **liable to** receive the **death** penalty for violating Shabbat. One who performs a single act for which he is liable to receive the death penalty and is also liable to pay money receives only the death penalty. Similarly, one who pours another’s wine as a libation for idol worship incurs the death penalty, and is therefore exempt from paying for the wine. ^117a-8
+
+**And ultimately they held** that the liabilities are not incurred simultaneously, **in accordance with** the opinion of **Rabbi Yirmeya, as Rabbi Yirmeya says: From the time of the lifting,** the thief **acquires** the wine and is therefore immediately **liable** to pay **money to** the owner. But **he is not liable to** receive the **death** penalty **until the time** that he pours the **libation.** Once the Sages concluded that the liabilities are not incurred simultaneously, they ruled that one who pours another’s wine as a libation for idol worship is liable to reimburse him. ^117a-9
+
+§ The Gemara returns to the matter of one who showed another’s field to thugs. **Rav Huna bar Yehuda happened** to come **to** the town of **Bei Abiyonei** and **came before Rava,** who **said to him: Did any** legal **incident come to you** for judgment recently? Rav Huna bar Yehuda **said to him:** There was a case of **a Jew whom gentiles coerced and,** as a result **he showed** them **property** belonging to **another,** which the gentiles later seized. He **came to me** for judgment, **and I deemed** him **liable** to compensate the owner for the loss. ^117a-10
+
+Rava **said to** Rav Huna bar Yehuda: **Reverse** your decision in this **case** and return the money **to its owner,** i.e., the thug, **as it is taught** in a *baraita*: In the case of **a Jew whom gentiles coerced and,** as a result **he showed** them **property** belonging to **another** that the gentiles later seized, he is **exempt** from reimbursing the owner of the property. **But if he** actively **took** the property **and gave** it to the gentiles **by** his own **hand,** he is **liable** to compensate the owner. ^117a-11
+
+The Gemara adds that **Rabba says: If he showed** the gentiles the property **of his own** volition, it is **as though he** actively **took** the property **and gave** it to the gentiles **by** his own **hand,** and he is liable to compensate the owner. ^117a-12
+
+The Gemara recounts another incident: There was **a certain man that gentiles** had **coerced and** so **he showed them the wine of Rav Mari, son of Rav Pineḥas, son of Rav Ḥisda, and** the gentiles **said to him: Carry** the wine **and bring it with us.** Complying with the gentiles, **he carried and brought** it **with them.** The case **came before Rav Ashi,** and he **exempted** the man from compensating Rav Mari for the wine. ^117a-13
+
+**The Rabbis said to Rav Ashi: But isn’t it taught** in a *baraita*: **If** he **took** the property **and manually transferred** it to the gentiles, he is **liable** to compensate the owner? Rav Ashi **said to them: That statement applies** only in a case **where** the Jew **did not bring** the gentiles **to** the property **at the outset; but if he brought** the gentiles **to** the property **at the outset,** it is as though **he** already **burned** it, as the gentiles then had access to the property. Since the damage inflicted by the Jew was committed by merely showing the wine to the gentiles, he is exempt from payment even though he later actively carried the wine with his hands. ^117a-14
+
+**Rabbi Abbahu raised an objection to** the opinion of **Rav Ashi** from a *baraita*: In a case where **a ruffian said to** a Jew: **Pass me this bundle of grain, or this cluster of grapes, and** the Jew **passed it to him,** the Jew is **liable** to pay the owner of the grain or the grapes. Since the ruffian was already present, it is evident from this *baraita* that one who hands over another’s property to a third party is liable despite the fact that the latter already had access to it. Rav Ashi answered: **With what are we dealing here?** We are dealing with a case **where** the Jew and the ruffian were **standing on two** different **sides of a river,** so that the ruffian did not have access to the item when the Jew passed it to him. ^117a-15
+
+The Gemara points out that the language of the *baraita* **is also precise** according to this explanation, **as it teaches** its ruling using the term: **Pass,** which indicates that the ruffian could not have reached the item himself, **and** it **did not teach** using the term: **Give,** which would indicate that the ruffian was standing next to the other individual. The Gemara concludes: **Learn from** the language of the *baraita* that Rav Ashi’s interpretation is correct. ^117a-16
+
+The Gemara relates another incident: There was **a certain** fishing **net over which two** people **were quarreling. This one said: It is mine, and that one said: It is mine. One of them went and gave it to an officer [*lefarhagna*] of the king. Abaye said:** He is exempt from payment because **he can say** to the court: **When I gave** it to the official, **I gave** what is **mine. Rava said to** Abaye: **And is it in his** power to do so when the ownership of the net is the subject of dispute? **Rather, Rava said: We excommunicate him until he brings** the net back **and stands in court** for adjudication. ^117a-17
+
+The Gemara relates another incident: There was **a certain man who desired to show another** individual’s **straw** to the gentile authorities, who would seize it. **He came before Rav,** who **said to him: Do not show** it **and do not show** it, i.e., you are absolutely prohibited from showing it. The man **said to him: I will show** it **and I will show** it, i.e., I will certainly show it. **Rav Kahana was sitting before Rav,** and, hearing the man’s disrespectful response, **he dislodged** the man’s **neck from him,** i.e., he broke his neck and killed him. ^117a-18
+
+Seeing Rav Kahana’s action, **Rav read** the following verse **about him: “Your sons have fainted, they lie at the head of all the streets, as an antelope in a net”** ([[Isaiah 51#^51-20|Isaiah 51:20]]). **Just as** with regard to **this antelope, once it falls into the net,** the hunter **does not have mercy upon it, so too** with regard to **the money of a Jew, once it falls into the hand of gentiles, they do not have mercy upon him,** i.e., the Jew. Since gentiles who seek a Jew’s money will kill him in order to seize the property, Rav Kahana acted appropriately when he broke the miscreant’s neck, as he protected the Jew’s property and, by extension, the Jew himself. ^117a-19
+
+**Rav** then **said to** Rav Kahana: **Kahana, until now there were Persian** rulers **who were not particular about bloodshed. But now there are Greeks who are particular about bloodshed, and they** will **say: Murder [*meradin*], murder,** and they will press charges against you. Therefore, **get up** and **ascend to Eretz Yisrael** to study there under Rabbi Yoḥanan, **and accept upon yourself that you will not raise** any **difficulties to** the statements of **Rabbi Yoḥanan** for **seven years.** ^117a-20
+
+Rav Kahana **went** to Eretz Yisrael and **found Reish Lakish, who was sitting and reviewing** Rabbi Yoḥanan’s **daily** lecture in the **academy for the Rabbis,** i.e., the students in the academy. When he finished, Rav Kahana **said to** the students: **Where is Reish Lakish? They said to him: Why** do you wish to see him? Rav Kahana **said to them:** I have **this difficulty and that difficulty** with his review of Rabbi Yoḥanan’s lecture, **and this resolution and that resolution** to the questions he raised. **They told** this to **Reish Lakish. Reish Lakish** then **went and said to Rabbi Yoḥanan: A lion has ascended from Babylonia,** and **the Master** ought **to examine** the discourse he will deliver **in the academy tomorrow,** as Rav Kahana may raise difficult questions about the material. ^117a-21
+
+**The next day, they seated** Rav Kahana **in the first row, in front of Rabbi Yoḥanan.** Rabbi Yoḥanan **stated a *halakha* and** Rav Kahana **did not raise a difficulty,** in accordance with Rav’s instruction. Rabbi Yoḥanan stated another ***halakha* and** again, Rav Kahana **did not raise a difficulty.** As a result, **they placed** Rav Kahana further **back** by one row. This occurred until he had been moved back **seven rows, until he was seated in the last row. Rabbi Yoḥanan said to Rabbi Shimon ben Lakish: The lion you mentioned has become a fox,** i.e., he is not knowledgeable. ^117a-22
+
+Rav Kahana **said** to himself: **May it be** God’s **will that these seven rows** I have been moved **should replace the seven years that Rav told me** to wait before raising difficulties to the statements of Rabbi Yoḥanan. **He stood up on his feet and said to** Rabbi Yoḥanan: Let the **Master go back to the beginning** of the discourse and repeat what he said. Rabbi Yoḥanan **stated a *halakha* and** Rav Kahana **raised a difficulty.** Therefore, **they placed him in the first row,** and again, Rav Yoḥanan **stated a *halakha*, and he raised a difficulty.** ^117a-23
+
+**Rabbi Yoḥanan was sitting upon seven cushions [*bistarkei*]** so that he could be seen by all the students, **and** since he could not answer Rav Kahana’s questions, **he removed one cushion from under himself** to demonstrate that he was lowering himself out of respect for Rav Kahana. He then **stated** another ***halakha* and** Rav Kahana **raised** another **difficulty.** This happened repeatedly **until** Rabbi Yoḥanan **removed all the cushions from underneath himself until he was sitting on the ground. Rabbi Yoḥanan was an old man and his eyebrows drooped** over his eyes. **He said to** his students: **Uncover my eyes for me and I will see** Rav Kahana, so **they uncovered** his eyes **for him with a silver eye brush.** ^117a-24
+
+Once his eyes were uncovered, Rabbi Yoḥanan **saw that** Rav Kahana’s **lips were split** and **thought** that Rav Kahana **was smirking at him.** As a result, Rabbi Yoḥanan **was offended, and** Rav Kahana **died** as punishment for the fact that he offended Rabbi Yoḥanan. **The next day, Rabbi Yoḥanan said to the Rabbis,** his students: **Did you see how that Babylonian,** Rav Kahana, **behaved** in such a disrespectful manner? **They said to him: His** usual **manner** of appearance **is such,** and he was not mocking you. Hearing this, Rabbi Yoḥanan **went up to** Rav Kahana’s burial **cave** and **saw** that **it was** ^117a-25
+
+## 117b
+
+> [!torah]- Torah Or (117b)
+> - [[Torah 24 - Vayikra#^5-21|Leviticus 5:21]] (line 16)
+> - [[Torah 24 - Vayikra#^5-24|Leviticus 5:24]] (line 16)
+
+> [!xref]- Mesoret HaShas (117b)
+> - [[Bava Kamma 100#^100a-5|Bava Kamma 100a:5]] (line 5)
+> - [[Sukkah 44#^44a-11|Sukkah 44a:11]]
+> - [Jerusalem Talmud Peah 2:5:3](https://www.sefaria.org/Jerusalem_Talmud_Peah.2.5.3)
+> - [Mishnah Bava Kamma 10:5](https://www.sefaria.org/Mishnah_Bava_Kamma.10.5) (line 15)
+> - [[Shevuot 37#^37b-11|Shevuot 37b:11-12]] (line 15)
+> - [[Eruvin 27#^27b-14|Eruvin 27b:14]] (line 16)
+> - [[Sukkah 50#^50b-7|Sukkah 50b:7]] (line 16)
+> - [[Nazir 34#^34b-6|Nazir 34b:6-7]] (line 17)
+> - [[Bekhorot 51#^51a-13|Bekhorot 51a:13]] (line 19)
+> - [[Shevuot 4#^4b-9|Shevuot 4b:9]] (line 19)
+> - [[Bava Metzia 57#^57b-9|Bava Metzia 57b:9-10]] (line 19)
+> - [[Bava Metzia 56#^56b-2|Bava Metzia 56b:2]] (line 20)
+> - [[Bava Kamma 64#^64b-5|Bava Kamma 64b:5]] (line 20)
+> - [[Sanhedrin 6#^6a-2|Sanhedrin 6a:2]] (line 5)
+> - [Mishnah Bekhorot 4:4](https://www.sefaria.org/Mishnah_Bekhorot.4.4) (line 5)
+> - [[Sanhedrin 33#^33a-2|Sanhedrin 33a:2]] (line 5)
+> - [Tosefta Sanhedrin 1:3](https://www.sefaria.org/Tosefta_Sanhedrin.1.3) (line 5)
+
+> [!xref]- Ein Mishpat (117b)
+> - [[Mishneh Torah - One Who Injures a Person or Property 08#^8-15|Mishneh Torah, One Who Injures a Person or Property 8:15]] (line 10)
+> - [Sefer Mitzvot Gadol, Positive Commandments 70](https://www.sefaria.org/Sefer_Mitzvot_Gadol,_Positive_Commandments.70) (line 10)
+> - [Tur, Choshen Mishpat 380](https://www.sefaria.org/Tur,_Choshen_Mishpat.380) (lines 10, 11, 12, 13)
+> - [Shulchan Arukh, Choshen Mishpat 380:4](https://www.sefaria.org/Shulchan_Arukh,_Choshen_Mishpat.380.4) (line 10)
+> - [[Mishneh Torah - One Who Injures a Person or Property 08#^8-12|Mishneh Torah, One Who Injures a Person or Property 8:12]] (lines 11, 12, 13)
+> - [[Mishneh Torah - One Who Injures a Person or Property 08#^8-13|Mishneh Torah, One Who Injures a Person or Property 8:13]] (lines 11, 12, 13)
+> - [[Mishneh Torah - One Who Injures a Person or Property 08#^8-14|Mishneh Torah, One Who Injures a Person or Property 8:14]] (lines 11, 12, 13)
+> - [Shulchan Arukh, Choshen Mishpat 380:3](https://www.sefaria.org/Shulchan_Arukh,_Choshen_Mishpat.380.3) (lines 11, 12, 13)
+> - [[Mishneh Torah - Robbery and Lost Property 09#^9-1|Mishneh Torah, Robbery and Lost Property 9:1]] (line 14)
+> - [Tur, Choshen Mishpat 371](https://www.sefaria.org/Tur,_Choshen_Mishpat.371) (line 14)
+> - [Shulchan Arukh, Choshen Mishpat 371:2](https://www.sefaria.org/Shulchan_Arukh,_Choshen_Mishpat.371.2) (line 14)
+> - [[Mishneh Torah - Oaths 07#^7-4|Mishneh Torah, Oaths 7:4]] (line 20)
+> - [[Mishneh Torah - Plaintiff and Defendant 05#^5-1|Mishneh Torah, Plaintiff and Defendant 5:1]] (line 20)
+> - [Sefer Mitzvot Gadol, Negative Commandments 248](https://www.sefaria.org/Sefer_Mitzvot_Gadol,_Negative_Commandments.248) (line 20)
+> - [Sefer Mitzvot Gadol, Positive Commandments 95](https://www.sefaria.org/Sefer_Mitzvot_Gadol,_Positive_Commandments.95) (line 20)
+> - [Tur, Choshen Mishpat 95](https://www.sefaria.org/Tur,_Choshen_Mishpat.95) (line 20)
+> - [Shulchan Arukh, Choshen Mishpat 95:1](https://www.sefaria.org/Shulchan_Arukh,_Choshen_Mishpat.95.1) (line 20)
+> - [Sefer Mitzvot Gadol, Positive Commandments 88](https://www.sefaria.org/Sefer_Mitzvot_Gadol,_Positive_Commandments.88) (lines 8, 9, 21)
+> - [[Mishneh Torah - Borrowing and Deposit 05#^5-2|Mishneh Torah, Borrowing and Deposit 5:2]] (line 8)
+> - [Tur, Choshen Mishpat 292](https://www.sefaria.org/Tur,_Choshen_Mishpat.292) (lines 8, 9)
+> - [Shulchan Arukh, Choshen Mishpat 292:8](https://www.sefaria.org/Shulchan_Arukh,_Choshen_Mishpat.292.8) (line 8)
+> - [[Mishneh Torah - Borrowing and Deposit 05#^5-1|Mishneh Torah, Borrowing and Deposit 5:1]] (line 9)
+> - [Shulchan Arukh, Choshen Mishpat 292:9](https://www.sefaria.org/Shulchan_Arukh,_Choshen_Mishpat.292.9) (line 9)
+> - [Tur, Choshen Mishpat 301](https://www.sefaria.org/Tur,_Choshen_Mishpat.301) (line 9)
+> - [Shulchan Arukh, Choshen Mishpat 301:7](https://www.sefaria.org/Shulchan_Arukh,_Choshen_Mishpat.301.7) (line 9)
+
+**encircled by a serpent [*akhna*],** which had placed its tail in its mouth, completely encircling the cave and blocking the entrance. Rabbi Yoḥanan **said to it: Serpent, serpent, open your mouth and** allow **the teacher** to **enter** and be **near the disciple, but** the serpent **did not open** its mouth to allow him entry. He then said: Allow **a colleague** to **enter** and be **near** his **colleague, but** still the serpent **did not open** its mouth. Rabbi Yoḥanan said: Allow the **disciple** to **enter** and be **near the teacher,** referring to Rav Kahana as his own teacher. The snake then **opened** its mouth **for him** to allow him entry. Rabbi Yoḥanan **requested** divine **mercy** from God and **raised** Rav Kahana from the dead. ^117b-1
+
+Rabbi Yoḥanan **said to** Rav Kahana: **Had I known that this was the Master’s manner** of appearance, **I would not have been offended. Now** let **the Master come with me** to the study hall. Rav Kahana **said to him: If you are able to request** divine **mercy** so **that I will not die again, I will go** with you, **and if not, I will not go** with you. The Gemara comments: **Since the time** decreed for his death **had passed, it had passed.** ^117b-2
+
+Rabbi Yoḥanan then completely **awakened him** and **stood him up.** Thereafter, **he asked him** about **every uncertainty that he had, and** Rav Kahana **resolved** each of **them for him. And this is** the background to **that which Rabbi Yoḥanan says** to his students on several occasions: What **I said was yours is** in fact **theirs,** i.e., I thought that the Torah scholars in Eretz Yisrael were the most advanced, but in fact the scholars of Babylonia are the most advanced, as evidenced by Rav Kahana’s knowledge. ^117b-3
+
+§ The Gemara relates another incident pertaining to one who informed gentiles of the whereabouts of another Jew’s property. There was **a certain** individual **who showed Rabbi Abba’s silk [*ametakesa*]** to gentiles, who later seized it. **Rabbi Abbahu and Rabbi Ḥanina bar Pappi and Rabbi Yitzḥak Nappaḥa sat** together to determine whether Rabbi Abba was entitled to compensation from the informer, **and Rabbi Ile’a sat next to them.** ^117b-4
+
+The judges **thought to deem** the informer **liable** to reimburse Rabbi Abba **based upon that which we learned** in a mishna (*Bekhorot* 28b): If a judge **issued a judgment** and erred, and he **acquitted** one who was in fact **liable,** or **deemed liable** one who should have in fact been **acquitted,** or if he **ruled** that **a pure** item is **impure,** or **ruled** that **an impure** item is **pure,** and by doing so he caused a litigant a monetary loss, **what he did is done,** i.e., the judgment stands, **and** the judge **must pay** damages **from his home,** i.e., from his personal funds. This indicates that one is liable to pay for a financial loss that he causes even if his involvement was only through speech. ^117b-5
+
+**Rabbi Ile’a said to them: This is** what **Rav says: And that** mishna is discussing a case **where** the judge not only issued a ruling, but actively **took** the money from the one whom he found liable, **and gave** it to the other party **by** his own **hand.** Consequently, it cannot serve as a precedent to render the informer liable in this case. The Sages serving as judges **said to** Rabbi Abba: **Go to Rabbi Shimon ben Elyakim and Rabbi Elazar ben Pedat, who rule** that there is **liability** for damage caused by **indirect** action. ^117b-6
+
+Rabbi Abba **went to them,** and **they deemed** the informer **liable** to reimburse Rabbi Abba, as it is taught **in the mishna: If** the thugs seized the field **due to the robber, he is liable to provide** the owner with **a different field. And it was established that** the mishna is referring to a case **where** an individual **showed** the field to thugs who later seized it. The *halakha* stated in the mishna would apply to this case as well. ^117b-7
+
+The Gemara relates another incident: There was **a certain man** with **whom a silver cup was deposited. Thieves came upon him** in his home and **he took** the cup and **gave it to them.** The case **came before Rabba,** and Rabba **exempted him** from payment. **Abaye said to him: This** individual is **saving himself with another’s property,** and he should therefore be liable. **Rather, Rav Ashi said,** in explanation of Rabba’s ruling: **We look** at his financial status: **If** the bailee **is a wealthy man,** the thieves **came with the intent** to steal **his** property, and he is therefore liable to pay, as he saved himself from financial loss by handing over another’s property. **And if** he is **not** wealthy, the thieves presumably **came with the intent** to steal **the silver** cup, and he is therefore exempt from liability. ^117b-8
+
+The Gemara relates another incident: There was **a certain man with whom the purse** containing funds collected **for the redemption of captives was deposited. Thieves came upon him** and **he took** the purse and **gave it to them.** The case **came before Rabba,** and Rabba **exempted him** from payment. **Abaye said to him: But this** individual **is saving himself with another’s property,** and he should therefore be liable to pay. Rabba **said to him: You have no greater redemption of captives than this.** Since the man used the money to avoid being harmed by the thieves, Rabba considered the money to have been used for its intended purpose. ^117b-9
+
+The Gemara relates another incident: There was **a certain man who hastened and brought his donkey** onboard **a ferry [*lemavra*] before** other **people boarded the ferry.** The donkey began to move around and **was about** to cause the boat **to sink. A certain** other **man came** and **pushed the donkey of that** first **man into the river, and it drowned.** The case **came before Rabba,** and Rabba **exempted him** from payment. **Abaye said to him: But this** individual **is saving himself with another’s property,** and he should therefore be liable to pay. Rabba **said to him: This** owner of the donkey **was** considered **a pursuer from the outset,** as he endangered the other travelers. It is permitted to stop a pursuer by any means necessary, including by destroying his property. ^117b-10
+
+The Gemara notes that **Rabba** conforms **to his** standard line of **reasoning, as Rabba says:** In the case of **a pursuer who was chasing after another** in order **to kill him and** the pursuer **broke vessels** during the chase, **whether** they **belonged to the pursued** party **or to anyone** else, he is **exempt** from reimbursing the owner of the vessels. This is **because he is liable to** receive the **death** penalty for attempted murder and is consequently exempt from any monetary liability he incurs simultaneously. ^117b-11
+
+**And a pursued** individual **who broke the vessels of the pursuer** is also **exempt** from payment, **as the pursuer’s property shall not be cherished more than his body,** i.e., his life. Since it is permitted to kill the pursuer in order to save his intended victim, it is permitted to destroy his property for that purpose. **But** if he destroyed property **belonging to anyone** else, he is **liable** to reimburse them, **as it is prohibited** for him **to save himself with another’s property.** ^117b-12
+
+**And** with regard to **a pursuer who was chasing after** another **pursuer** in order **to save** the latter’s intended victim, **and** he **broke vessels** during the chase, **whether** they **belonged to the pursued** individual, i.e., the individual attempting murder, **or to anyone** else, he is **exempt** from payment. The Gemara notes: **And this is not** the *halakha* **by** Torah **law, but if you do not say so, you** will **not have** any **person that saves another from a pursuer.** In order to encourage people to attempt to save the lives of others, the Sages instituted that one who damages another’s property in the process of saving a life is exempt from payment. ^117b-13
+
+**MISHNA:** If **a river flooded** a misappropriated field, the robber **may say to** its owner: **That which is yours is before you,** and no compensation is required. Since the field would have been flooded in any case, the robber has not caused the damage to the field, and is therefore exempt. ^117b-14
+
+**GEMARA:** **The Sages taught:** In the case of **one who robbed a field from another and a river** then **flooded it,** the robber is **liable to provide** the field’s owner with **a different field.** This is **the statement of Rabbi Elazar. And the Rabbis say:** He is exempt from doing so, as **he** can **say to** the owner: **That which is yours is before you.** ^117b-15
+
+The Gemara analyzes this dispute: **With regard to what do they disagree?** The Gemara explains: **Rabbi Elazar interpreted** the verses: “If any one sin, and commit a trespass against the Lord, and deal falsely with his neighbor in a matter of deposit…or anything about which he has sworn falsely, he shall restore it in full” ([[Torah 24 - Vayikra#^5-21|Leviticus 5:21–24]]), according to the hermeneutical principle of **amplifications and restrictions.** The phrase: “If any one sin, and commit a trespass against the Lord, **and deal falsely with his neighbor,”** is **an amplification.** When the verse states: **“In a matter of deposit,”** it has **restricted** the *halakha* to the case of a deposit. When the verse then states: **“Or anything about which he has sworn falsely,** he shall restore it in full,” **it** has **then amplified** the *halakha* again. ^117b-16
+
+Accordingly, as the Torah **amplified and** then **restricted and** then **amplified** again, it has **amplified** the *halakha* to include **everything,** with only a single exception. **And what** is included due to the fact that the verse **has amplified** the *halakha*? The verse **has amplified** the *halakha* to include **everything** that one steals. ^117b-17
+
+**And what** is excluded due to the fact that the verse **restricted** the *halakha*? **It restricted** the *halakha* in order to exclude financial **documents,** which are dissimilar to a deposit in that their value is not intrinsic, but rather due to their function. Consequently, according to Rabbi Elazar, land that was stolen is included in the *halakhot* stated in these verses, and one who steals land must reimburse the field’s owner. ^117b-18
+
+**And the Rabbis interpreted** these verses according to the hermeneutical principle of **generalizations and details.** The phrase: **“And deal falsely** with his neighbor,” is **a generalization,** while the subsequent phrase: **“In a matter of deposit,”** is **a detail.** When the verse then states: **“Or anything** about which he has sworn falsely, he shall restore it in full,” **it** has **then generalized** again. In a case of **a generalization, and a detail, and a generalization, you may deduce** that the verse is referring **only** to items **similar to the detail.** ^117b-19
+
+Accordingly, **just as the detail,** i.e., a deposit, **is movable property and** has **intrinsic monetary** value, **so too,** the verse includes **anything that is movable property and** has **intrinsic monetary** value. Consequently, **land has been excluded, as it is not movable property. Slaves have been excluded, as they are compared to land** with regard to many areas of *halakha*. Financial **documents have been excluded because, although they** are **movable property, they do not** have **intrinsic monetary** value. ^117b-20
+
+The Gemara asks: **And** there is **that which is taught** in a *baraita*: In the case of **one who robbed** another of **a cow and a river washed it away,** the robber is **liable to provide** the owner with another **cow;** this is **the statement of Rabbi Elazar. And the Rabbis say:** The robber can **say to** the owner: **That which is yours is before you,** and he would consequently be exempt. The Gemara asks: **There,** in the *baraita*, **with regard to what do they disagree?** The rationale offered previously cannot apply, as a cow is movable property and has intrinsic value, and yet Rabbi Elazar and the Rabbis still disagree. ^117b-21
+
+**Rav Pappa said: There, with what are we dealing?** We are dealing with a case **where he** had **robbed another of a field, and there was** ^117b-22

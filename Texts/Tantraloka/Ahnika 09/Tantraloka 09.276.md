@@ -33,6 +33,11 @@ rājasāhaṃkṛterjāto rajasaḥ karmatā yataḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 256–258)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.275–276]]
+>
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.276–277]]
+
 *Lead-in:* ननु आस्तामेतत् न वयमत्र विप्रतिपद्यामहे, "चित्रो हि कार्यकारणभावः"इत्युपपादितम् । श्रीपूर्वशास्त्रे पुनः किं न्याययमिति चिन्तनीयम् । तदधिकारेणैव हि तात्त्विकः कार्यकारणभावो निरूपयितुमुपक्रान्तः । अत आह --
 
 > श्रीपूर्वशास्त्रे तु मनो राजसात् सात्त्विकात्पुनः ॥

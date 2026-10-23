@@ -31,6 +31,9 @@ tattatpureśadīkṣādikramānnaśyediti sthitiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 121)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.279–280]]
+
 *Lead-in:* निष्कृतिश्च एषां किमस्ति न वा?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 28.280: see [[Tantraloka 28.280#Viveka|28.280]].

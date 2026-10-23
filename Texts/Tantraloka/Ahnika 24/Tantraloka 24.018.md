@@ -31,6 +31,9 @@ tadvidhiḥ śrutipatre'bje madhye devaṃ sadāśivam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 351–352)
+> ![[Tantraloka Dyczkowski v09 15 - Chapter Twenty-Four#Viveka on 24.18–19]]
+
 *Lead-in:* तदेवाह--
 
 Jayaratha comments on this verse together with 24.20: see [[Tantraloka 24.020#Viveka|24.20]].

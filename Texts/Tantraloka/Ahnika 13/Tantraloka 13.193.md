@@ -33,6 +33,11 @@ nanu prātibhato muktau dīkṣayā kiṃ śivādhvare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 243–244)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.192–193]]
+>
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.193]]
+
 *Lead-in:* इति भङ्ग्या प्रातिभादेव चेन्मुक्तिस्तत्किमनेकायाससाध्यया दीक्षया इति पुनर्देवी प्रश्नयति --
 
 > ननु प्रातिभतो मुक्तौ दीक्षया किं शिवाध्वरे ॥

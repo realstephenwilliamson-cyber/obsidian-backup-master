@@ -35,6 +35,9 @@ mahāsaṃvitsamāsannetyuktaṃ śrīgamaśāsane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 128–129)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.286]]
+
 *Lead-in:* न च एतद्युक्तिमात्रसिद्धमेव--इत्याह--
 
 > तद्विमर्शस्वभावा हि सा वाच्या मन्त्रदेवता ।

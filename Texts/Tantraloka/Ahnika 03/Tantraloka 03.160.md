@@ -35,6 +35,9 @@ anuttaraṃ yattatraikaṃ taccedānandasūtaye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 277–278)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.160–162]]
+
 *Lead-in:* अनुत्तरे पुनरेवंरूपत्वेऽपि विशेषोऽस्ति -- इत्याह --
 
 Jayaratha comments on this verse together with 3.161: see [[Tantraloka 03.161#Viveka|3.161]].

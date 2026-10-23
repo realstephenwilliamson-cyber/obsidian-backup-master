@@ -230,7 +230,7 @@ to know each-and-every letter upon
 [^19]: *beiyt*
 [^20]: *adam*
 [^21]: Tipheret
-[^22]: *BT* Berakhot 6a
+[^22]: *BT* [[Berakhot 6#6a|Berakhot 6a]]
 [^23]: *BRYT EiSh*
 [^24]: *tipheret*
 [^25]: Malkhut

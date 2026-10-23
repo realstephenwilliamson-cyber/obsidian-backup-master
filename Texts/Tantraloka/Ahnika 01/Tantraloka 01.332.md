@@ -35,6 +35,9 @@ yastvāmāha jaḍaṃ jaḍaḥ sahṛdayaṃmanyatvaduḥśikṣito manye'mu�
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 481–482)
+> ![[Tantraloka Dyczkowski v01 13 - Chapter One, part 12#Viveka on 1.332]]
+
 > यस्त्वामाह जडं जडः सहृदयंमन्यत्वदुःशिक्षितो मन्येऽमुष्य जडात्मता स्तुतिपदं त्वत्साम्यसम्भावनात् ॥
 
 हे भावव्रात -- नीलाद्यर्थ ? आत्मनो हृदयं तेन आत्मतथ्यम् रूपं गोपयित्वा जनस्य—सर्वस्यैव वादिनो हृदयानि -- आशयान् बलात्कारेण आक्रम्य --

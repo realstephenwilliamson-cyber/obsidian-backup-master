@@ -31,6 +31,9 @@ adhikārī tato muktiṃ yātīti skandayāmale || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 197–198)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.430–431]]
+
 *Lead-in:* किमत्र प्रमाणम् ?--इत्याशङ्क्य आह--
 
 > गुरुपूजामकुर्वाणः शतं जन्मानि जायते ।

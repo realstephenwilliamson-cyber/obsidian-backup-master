@@ -31,5 +31,8 @@ bhavejjanmadinaṃ mukhyaṃ jñānasantānajanmataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 96–97)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.213–216]]
+
 Jayaratha comments on this verse together with 28.216: see [[Tantraloka 28.216#Viveka|28.216]].
 

@@ -37,6 +37,11 @@ tatsaṅghaṭṭādvayollāso mukhyo mātā vilāpakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 330–331)
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.102–103]]
+>
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.103]]
+
 *Lead-in:* नन्वेवमेतद्विलापने कः क्षम ? -- इत्याशङ्क्याह --
 
 > तत्सङ्घट्टाद्वयोल्लासो मुख्यो माता विलापकः ॥

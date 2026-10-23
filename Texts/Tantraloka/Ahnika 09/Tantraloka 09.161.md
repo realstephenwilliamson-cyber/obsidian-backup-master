@@ -35,6 +35,13 @@ yatsaṅkalpyaṃ tathā tasya bahirdeho'sti cetanaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 141–142)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.160–161 (2)]]
+>
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.160–161]]
+>
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.161–163]]
+
 *Lead-in:* ननु यद्येवं तत् कृतमत्यन्ताभावव्यवहारेण ? -- इत्याशङ्क्याह --
 
 > ..........टथात्यन्ताभावोऽप्येवं विविच्यताम् ।

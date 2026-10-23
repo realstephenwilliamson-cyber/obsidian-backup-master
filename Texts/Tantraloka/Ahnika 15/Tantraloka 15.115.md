@@ -33,6 +33,11 @@ yāgaukaḥ prāpya śuddhātmā bahireva vyavasthitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 77–78)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.114–115]]
+>
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.115–116]]
+
 *Lead-in:* एवं स्थानकल्पनमभिधाय, सामान्यन्यासभेदमासूत्रयति--
 
 > यागौकः प्राप्य शुद्धात्मा बहिरेव व्यवस्थितः ॥

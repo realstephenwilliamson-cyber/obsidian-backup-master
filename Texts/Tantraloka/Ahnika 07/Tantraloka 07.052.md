@@ -36,6 +36,13 @@ eṣa cakrodayaḥ proktaḥ sādhakānāṃ hitāvahaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 34–37)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 7.53.*
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.48–52]]
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.53]]
+
 *Lead-in:* एतदेवोपसंहरति -
 
 > एष चक्रोदयः प्रोक्तः साधकानां हितावहः ॥

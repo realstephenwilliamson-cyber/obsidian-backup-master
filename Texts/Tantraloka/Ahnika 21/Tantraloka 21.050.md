@@ -34,6 +34,9 @@ parokṣadīkṣaṇe samyak pūrṇāhutividhau yadi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 273)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.50–53]]
+
 *Lead-in:* अत्रैव गुर्वन्तरोपदिष्टं विशेषं दर्शयति--
 
 > श्रीमान् धर्मशिवोऽप्याह पारोक्ष्यां कर्मपद्धतौ ।

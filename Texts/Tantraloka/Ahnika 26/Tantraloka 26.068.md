@@ -36,5 +36,10 @@ taccoktaṃ kartṛtātattvanirūpaṇavidhau purā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 394–395)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.67–68]]
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.68]]
+
 Jayaratha comments on this verse together with 26.70: see [[Tantraloka 26.070#Viveka|26.70]].
 

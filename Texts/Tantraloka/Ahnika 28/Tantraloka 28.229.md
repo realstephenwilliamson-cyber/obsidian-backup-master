@@ -31,6 +31,9 @@ ityevamādi yatkiñcit prāksaṃsthānopamardakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 102–103)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.228–230]]
+
 > नाडीचक्रेषु सङ्कोचविकासौ विपरीततः ॥
 > भङ्गः शोषः क्लिदिर्वातश्लेष्माग्न्यपचयोच्चयैः ।
 > इत्येवमादि यत्किञ्चित् प्राक्संस्थानोपमर्दकम् ॥

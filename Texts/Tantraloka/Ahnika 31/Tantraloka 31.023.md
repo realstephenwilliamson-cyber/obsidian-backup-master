@@ -31,6 +31,9 @@ bhavetpaścānmukho mantrī tasmiṃśca brahmasūtrake || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 76)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.22–24]]
+
 > ब्रह्मसूत्रद्वयस्याथ मध्यं ब्रह्मपदं स्फुटम् ॥
 > कृत्वावधिं ततो लक्ष्यं चतुर्थं सूत्रमादितः ।
 > ततस्तिर्यग्व्रजेत् सूत्रं चतुर्थं तदनन्तरे ॥

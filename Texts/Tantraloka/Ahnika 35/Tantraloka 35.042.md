@@ -33,6 +33,11 @@ pradhāne'ṅge kṛto yatnaḥ phalavānvastuto yataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 217)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.41–42]]
+>
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.42–43]]
+
 *Lead-in:* एवं हि कुतोऽयं नियमो यदेकस्मिन्नपि आगमे कस्यचिदेव वाक्यस्य अन्यथाव्याकरणादि, न अन्यस्येति भङ्ग्या सर्वस्यैव आगमस्य प्रामाण्यविप्रलोपः प्रसज्जेत्, तदागमप्रामाण्यं वा हातव्यम्, अस्मदुक्तयुक्तिसतत्त्वं वा ग्रहीतव्यम्, न अन्तराऽवस्थेयम्--इत्याह--
 
 > अवश्योपेत्यमेवैतच्छास्त्रनिष्ठानिरूपणम् ।

@@ -31,6 +31,9 @@ badhnātyātmānameveha svātantryāditi varṇitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 187–188)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.104]]
+
 *Lead-in:* ननु एतावता कः संसारार्थः ? -- इत्याशङ्क्याह --
 
 > स स्वयं कल्पिताकारविकल्पात्मकर्मभिः ।

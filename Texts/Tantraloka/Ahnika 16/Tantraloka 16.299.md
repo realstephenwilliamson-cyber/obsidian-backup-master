@@ -37,6 +37,11 @@ dīkṣā ca kevalā jñānaṃ vināpi nijamāntaram || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 134)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.298–299]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.299–300]]
+
 *Lead-in:* ननु ज्ञानयोगादिवन्ध्यस्य दैशिकोऽपि किं कुर्यात् ?--इत्याशङ्क्याह--
 
 > दीक्षा च केवला ज्ञानं विनापि निजमान्तरम् ॥

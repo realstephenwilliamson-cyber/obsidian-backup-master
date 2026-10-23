@@ -31,5 +31,8 @@ tāḍayeta kalāḥ sarvāḥ kampate'sau tataḥ paśuḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 349–350)
+> ![[Tantraloka Dyczkowski v09 15 - Chapter Twenty-Four#Viveka on 24.13–16]]
+
 Jayaratha comments on this verse together with 24.16: see [[Tantraloka 24.016#Viveka|24.16]].
 

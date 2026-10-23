@@ -24,7 +24,7 @@ Text: [[NRSVue Luke 07|NRSVue]] · [[Luke 07|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 07#^7-9|9]]:** *Not even in Israel*, Luke hails this Gentile’s piety. ^7-9
 
-**[[NRSVue Luke 07#^7-10|10]]:** *They found the slave*, for rabbinic healings at a distance, see, e.g., *b. Ber*. 34b on Rabbi Ḥanina ben Dosa’s healing children; see “Jewish Miracle Workers,” p. 680. ^7-10
+**[[NRSVue Luke 07#^7-10|10]]:** *They found the slave*, for rabbinic healings at a distance, see, e.g., [[Berakhot 34#34b|*b. Ber*. 34b]] on Rabbi Ḥanina ben Dosa’s healing children; see “Jewish Miracle Workers,” p. 680. ^7-10
 
 ### 7.11–17: The widow’s son
 

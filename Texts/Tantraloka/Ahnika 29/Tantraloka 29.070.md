@@ -33,6 +33,11 @@ ekavīrā cakrayuktā cakrayāmalagāpi vā |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 262–266)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.69–70]]
+>
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.70–71]]
+
 *Lead-in:* अत्र कथं पीठानि साहित्येन पूज्यानि?--इत्याशङ्क्य आह--
 
 > ईशेन्द्राग्नियमक्रव्यात्कवायूदक्षु हासतः ॥

@@ -37,6 +37,11 @@ ata eva nijaṃ śāstraṃ paṭhati kvāpi sāmaye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 226–227)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.45–46]]
+>
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.46–47]]
+
 *Lead-in:* एवं शास्त्रपाठादिनापि परोपकृतावस्य न कश्चित्समयलोपजन्मा दोषः--इत्याह--
 
 > अत एव निजं शास्त्रं पठति क्वापि सामये ॥

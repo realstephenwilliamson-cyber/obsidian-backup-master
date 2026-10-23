@@ -34,6 +34,9 @@ viparyasya svakaṃ vaktraṃ gṛhṇantīti sa pṛcchyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 78)
+> ![[Tantraloka Dyczkowski v02 04 - Chapter Three, part 1#Viveka on 3.12]]
+
 > यस्त्वाह नेत्रतेजांसि स्वच्छात्प्रतिफलन्त्यलम् ।
 > विपर्यस्य स्वकं वक्त्रं गृह्णन्तीति स पृच्छयते ॥
 

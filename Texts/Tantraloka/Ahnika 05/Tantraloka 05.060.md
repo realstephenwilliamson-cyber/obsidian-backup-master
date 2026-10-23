@@ -36,6 +36,11 @@ ekīkṛtamahāmūlaśūlavaisargike hṛdi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 65–68)
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.58–60]]
+>
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.60–61]]
+
 *Lead-in:* एतदेव सङ्कलयति -
 
 > एकीकृतमहामूलशूलवैसर्गिके हृदि ॥

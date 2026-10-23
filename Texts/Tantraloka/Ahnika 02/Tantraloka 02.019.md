@@ -35,6 +35,9 @@ ghaṭakumbhavadekārthāḥ śabdāste'pyekameva ca || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 26–28)
+> ![[Tantraloka Dyczkowski v02 02 - Chapter Two, part 1#Viveka on 2.19]]
+
 *Lead-in:* ननु बाह्योऽर्थः प्रकाशमानत्वात्प्रकाशात्मैव इत्यास्ताम्, अन्योन्यं पुनरस्य भेदे किमायातम्, इत्यापतितमेव द्वैतम् ? -- इत्याशङ्क्याह --
 
 > अस्यां भूमौ सुखं दुःखं बन्धो मोक्षश्चितिर्जडः ।

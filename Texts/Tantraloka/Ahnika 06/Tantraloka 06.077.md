@@ -36,6 +36,11 @@ sapāde dvyaṅgule tithyā ahorātro vibhajyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 302–305)
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.76–77]]
+>
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.77–78]]
+
 *Lead-in:* अत्राप्यहोरात्रविभागमाह --
 
 > सपादे द्व्यङ्गुले तिथ्या अहोरात्रो विभज्यते ॥

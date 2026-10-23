@@ -34,6 +34,9 @@ gandho raso rūpamantaḥ sūkṣmabhāvakrameṇa tu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 29–32)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.29–31]]
+
 *Lead-in:* एवमेतत्प्रसङ्गादभिधाय प्रकृतमेवोपक्षेप्तुं न केवलमेभिरेवमखिलं जगद्व्याप्तं यावद्भङ्ग्यन्तरेणापि -- इत्याह --
 
 Jayaratha comments on this verse together with 11.31: see [[Tantraloka 11.031#Viveka|11.31]].

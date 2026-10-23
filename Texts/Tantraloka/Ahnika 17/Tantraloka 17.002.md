@@ -34,6 +34,9 @@ karmamāyāṇumalinatrayaṃ bāhau gale tathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 140)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.1–3]]
+
 > एवं मण्डलकुम्भाग्निशिष्यस्वात्मसु पञ्चसु ॥
 > गृहीत्वा व्याप्तिमैक्येन न्यस्याध्वानं च शिष्यगम् ।
 > कर्ममायाणुमलिनत्रयं बाहौ गले तथा ॥

@@ -34,6 +34,9 @@ saṃhṛtiṃ kalayatyeva svātmavahnau vilāpanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 219–221)
+> ![[Tantraloka Dyczkowski v03 07 - Chapter Four, part 6#Viveka on 4.152]]
+
 *Lead-in:* इदानीं तु प्रमाणांशभक्षणप्रवणं संहारादिदेवीचतुष्कं निरूपयति --
 
 > संहृत्य शङ्कां शङ्क्यार्थवर्जं वा भावमण्डले ।

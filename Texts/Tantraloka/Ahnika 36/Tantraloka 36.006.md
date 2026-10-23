@@ -31,6 +31,9 @@ vibhīṣaṇamukhādāpa guruśiṣyavidhikramāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 220–222)
+> ![[Tantraloka Dyczkowski v11 10 - Chapter Thirty-Six#Viveka on 36.1–7]]
+
 > श्रीसिद्धादिविनिर्दिष्टा गुरुभिश्च निरूपिता ।
 > भैरवो भैरवी देवी स्वच्छन्दो लाकुलोऽणुराट् ॥
 > गहनेशोऽब्जजः शक्रो गुरुः कोट्यपकर्षतः ।

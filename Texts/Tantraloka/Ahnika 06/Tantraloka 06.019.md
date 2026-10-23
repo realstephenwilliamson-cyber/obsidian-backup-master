@@ -34,6 +34,9 @@ anyakartavyaśaithilyātsaṃbhāvyānuśayatvataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 235–237)
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.19–20]]
+
 *Lead-in:* इति । तत्सर्वत्रास्यैव कथमवरतया निर्देशः । यदाहुः -- "चार्वाकास्तु वराकाः प्रतिक्षेप्तव्या एव कः क्षुद्रतर्कस्य तदीयस्येह गणनावसरः"इति । तत्किमेतत् ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 6.20: see [[Tantraloka 06.020#Viveka|6.20]].

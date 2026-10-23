@@ -34,6 +34,9 @@ dvaitināṃ bhogyabhāvāttu prabuddhānāṃ yato'dyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 249–250)
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.30]]
+
 *Lead-in:* नन्वत्राध्वशब्दस्य प्रवृत्तौ किं निमित्तम् ? -- इत्याशङ्क्याह --
 
 > अध्वा क्रमेण यातव्ये पदे संप्राप्तिकारणम् ।

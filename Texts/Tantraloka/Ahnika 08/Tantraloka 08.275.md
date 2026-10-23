@@ -35,6 +35,9 @@ mūḍhavivṛttavilīnaiḥ karaṇaiḥ kecittu vikaraṇakāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 279–280)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.274–275]]
+
 > यावन्तः क्षेत्रज्ञाः सहजागन्तुकमलोपदिग्धचितः ॥
 > ते सर्वेऽत्र विनिहिता रुद्राश्च तदुत्थभोगभुजः ।
 > मूढविवृत्तविलीनैः करणैः केचित्तु विकरणकाः ॥

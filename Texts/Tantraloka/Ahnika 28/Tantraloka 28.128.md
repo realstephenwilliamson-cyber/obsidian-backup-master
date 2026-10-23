@@ -31,6 +31,9 @@ tadatra samaye sarvavidhisaṃpūraṇātmakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 68)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.127–129]]
+
 > तदेतद्बहुशास्त्रोक्तं रूपं देवो न्यरूपयत् ॥
 > एकेनैव पदेन श्रीरत्नमालाकुलागमे ।
 > तदत्र समये सर्वविधिसंपूरणात्मकः ॥

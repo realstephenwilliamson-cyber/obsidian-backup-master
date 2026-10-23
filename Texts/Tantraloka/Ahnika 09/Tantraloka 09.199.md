@@ -33,6 +33,11 @@ kiñcittu kurute tasmānnūnamastyaparaṃ tu tat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 172–173)
+> ![[Tantraloka Dyczkowski v06 07 - Chapter Nine, part 5#Viveka on 9.199]]
+>
+> ![[Tantraloka Dyczkowski v06 07 - Chapter Nine, part 5#Viveka on 9.199–200]]
+
 *Lead-in:* ननु विद्याख्यस्य करणस्य वेद्य एव भावो गोचरः, स च बाह्य एव इति कथमेवमुक्तम् -- इत्याशङ्क्याह --
 
 > भावानां प्रतिबिम्बं च वेद्यं धीकल्पना ततः ।

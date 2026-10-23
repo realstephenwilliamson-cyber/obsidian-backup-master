@@ -37,6 +37,13 @@ iti prameyaṃ kathitaṃ dīkṣākāle guroryathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 137–138)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.310–311]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.311]]
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 16.311 (continued)]]
+
 *Lead-in:* आह्निकार्थमेव श्लोकस्य प्रथमार्धेनोपसंहरति--
 
 > इति प्रमेयं कथितं दीक्षाकाले गुरोर्यथा ॥

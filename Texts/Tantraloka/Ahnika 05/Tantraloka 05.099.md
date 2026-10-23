@@ -35,6 +35,9 @@ parāṃ ca vindati vyāptiṃ pratyahaṃ hyabhyaseta tam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 130–135)
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.99–100]]
+
 *Lead-in:* तदेवमत्रैव परमवधातव्यं येन परमार्थिकस्वरूपलाभो भवेत् -- इत्याह --
 
 > जितरावो महायोगी संक्रामेत्परदेहगः ।

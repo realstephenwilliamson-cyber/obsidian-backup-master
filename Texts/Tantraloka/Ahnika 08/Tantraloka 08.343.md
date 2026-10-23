@@ -35,6 +35,11 @@ ananta eva dhyeyaśca pūjyaścāpyuttarottaraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 332–335)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.341–343]]
+>
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.341–343 (continued)]]
+
 > विद्यातत्त्वोर्ध्वमैशं तु तत्त्वं तत्र क्रमोर्ध्वगम् ।
 > शिखण्ङ्याद्यमनन्तान्तं पुराष्टकयुतं पुरम् ॥
 > शिखण्डी श्रीगलो मूर्तिरेकनेत्रैकरुद्रकौ ।

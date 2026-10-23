@@ -36,6 +36,11 @@ sāpatnakaṃ tirayate subhagaprabhāvaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 260)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 37.69.*
+>
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.69]]
+
 > श्रीशौरिसंज्ञतनयः किल कर्णनामा
 > यो यौवने विदितशांभवतत्त्वसारः ।
 > देहं त्यजन् प्रथयति स्म जनस्य सत्यं

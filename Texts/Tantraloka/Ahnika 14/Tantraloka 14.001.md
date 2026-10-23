@@ -33,6 +33,13 @@ svabhāvāt parameśāno niyatyaniyatikramam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 345–346)
+> *No commentary follows this verse directly; shown here is the next, after Dyczkowski's verse 1cd-2ab.*
+>
+> ![[Tantraloka Dyczkowski v07 11 - Chapter Fourteen, opening page#Viveka on 14.1]]
+>
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on Dyczkowski's verse 1cd-2ab]]
+
 *Lead-in:* इह तावत्परमेश्वरः पञ्चविधकृत्यकारीति सर्वत्रोक्तम् । तत्रास्य पूर्वं संहारचित्रतानिरूपणावसरे सृष्ट्यादित्रयं दर्शितं समनन्तराह्निके चानुग्रह इति संप्रत्यवशिष्टं तिरोभावाख्यं पञ्चम कृत्यं द्वितीयार्धेन प्रतिपादयितुमाह --
 
 > तिरोभावस्वरूपं तु कथ्यमानं विविच्यताम् ।

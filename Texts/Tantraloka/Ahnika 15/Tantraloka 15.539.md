@@ -32,6 +32,9 @@ gurūpabhuktaṃ yatkiñcicchayyāvastrāsanādikam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 323)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.537–540]]
+
 > तमापादितरुद्रांशं समयान् श्रावयेद् गुरुः ॥
 > अष्टाष्टकात्मकान्देव्यायामलादौ निरूपितान् ।
 > अवादोऽकरणं गूढिः पूजा तर्पणभावने ॥

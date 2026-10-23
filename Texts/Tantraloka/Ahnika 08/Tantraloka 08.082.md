@@ -34,6 +34,9 @@ tatra tretā sadā kālo bhārate tu caturyugam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 129)
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.81–82]]
+
 > संभवन्त्यप्यसंस्कारा भारतेऽन्यत्र चापि हि ।
 > दृढप्राक्तनसंस्कारादीशेच्छातः शुभाशुभम् ॥
 > स्थानान्तरेऽपि कर्मास्ति दृष्टं तच्च पुरातने ।

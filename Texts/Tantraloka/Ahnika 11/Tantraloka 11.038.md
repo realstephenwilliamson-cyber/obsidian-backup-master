@@ -36,6 +36,11 @@ yatra yatra hi bhogecchā tatprādhānyopayogataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 36–37)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.37–38]]
+>
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.38–39]]
+
 *Lead-in:* ननु तत्त्वाद्यध्वनामन्यतमेनैव प्रकारेण दीक्षा सिद्ध्येदिति मूलतः षड्वधत्वमेव किमर्थमुक्तं, तत्राप्यवान्तरवैचित्र्यम् ? -- इत्याशङ्क्याह --
 
 > यत्र यत्र हि भोगेच्छा तत्प्राधान्योपयोगतः ॥

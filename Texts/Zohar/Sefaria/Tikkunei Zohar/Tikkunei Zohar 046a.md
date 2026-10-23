@@ -298,4 +298,4 @@ And when She resides in the arms
 [^25]: *pheruqinn*
 [^26]: *halakhah*
 [^27]: *qabalah*
-[^28]: *BT* Sukkah 5b
+[^28]: *BT* [[Sukkah 5#5b|Sukkah 5b]]

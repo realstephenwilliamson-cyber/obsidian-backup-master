@@ -31,6 +31,9 @@ dīkṣādyadhikṛtiṃ kuryādvinā tasyājñayā punaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 308)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.25–26]]
+
 *Lead-in:* नन्वेवमभिषेकमस्मै दत्त्वा गुरुणा अनन्तरं कथं वर्तितव्यम् ?-- इत्याशङ्क्याह--
 
 > ज्ञानहीनो गुरुः कर्मी स्वाधिकारं समर्प्य नो ।

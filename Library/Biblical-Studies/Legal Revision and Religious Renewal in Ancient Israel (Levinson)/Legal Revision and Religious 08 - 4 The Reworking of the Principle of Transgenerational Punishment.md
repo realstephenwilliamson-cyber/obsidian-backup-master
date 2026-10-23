@@ -76,7 +76,7 @@ failure to repudiate it validates the deportees’ perception that Yahweh is unj
 
 Ezekiel therefore uses the proverb as a strategic foil for the far more theologically problematic act of effectively annulling a divine law. The prophet in effect “devoices” the doctrine’s original attribution to God and then “revoices” it as folk wisdom. By this means, the oracle obscures its subversion of the divine instruction found in the Decalogue. The antithetical nature of these two texts was already recognized in the Talmud.[^8] It is a much simpler matter to repudiate a folk saying than to reject the Decalogue’s concept of transgenerational punishment as morally repugnant. Figure 1 shows how the formulation of the new conception of divine justice echoes the existing rule requiring individual liability in matters of civil and criminal law. In the latter sphere, biblical law prohibits vicarious punishment and specifies that only the perpetrator should be held accountable:
 
-[^8]: “R. Jose ben Ḥanina said: ‘Our master Moses decreed four sentences against Israel, but four prophets came and annulled them (!wlfybw). *. . .* Moses said, “visiting the iniquity of the fathers upon the children” \[[[Torah 17 - Yitro#^20-5|Exod 20:5b]] = 34:7b\]. But Ezekiel came and annulled it (hlfyb): “The person who sins, only he shall die!”’” (*b. Mak.* 24a).
+[^8]: “R. Jose ben Ḥanina said: ‘Our master Moses decreed four sentences against Israel, but four prophets came and annulled them (!wlfybw). *. . .* Moses said, “visiting the iniquity of the fathers upon the children” \[[[Torah 17 - Yitro#^20-5|Exod 20:5b]] = 34:7b\]. But Ezekiel came and annulled it (hlfyb): “The person who sins, only he shall die!”’” ([[Makkot 24#24a|*b. Mak.* 24a]]).
 
 *[p. 64]* ^pg92
 

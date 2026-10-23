@@ -34,6 +34,9 @@ prāgvannavatayāmarśātpṛthagvargasvarūpiṇī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 316–318)
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.198–200]]
+
 > एकामर्शस्वभावत्वे शब्दराशिः स भैरवः ।
 > आमृश्यच्छायया योगात्सैव शक्तिश्च मातृका ॥
 > सा शब्दराशिसङ्घट्टाद् भिन्नयोनिस्तु मालिनी ।

@@ -34,6 +34,9 @@ ekāmarśasvabhāvatve śabdarāśiḥ sa bhairavaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 316–318)
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.198–200]]
+
 *Lead-in:* नन्वेवं परामर्शान्तराणामत्रैव निष्ठितत्वात्पञ्चाशदेव परामर्शा मुख्या, इति पुनरपि नियतावच्छेद एवापतेत् ? -- इत्याशङ्क्य अवच्छेदाधानासामर्थ्यं द्योतयितुमवास्तवत्वप्रकटीकाराय आमर्शविशेषणां तत्तदुपाधियोगोत्थापितत्वं दर्शयति --
 
 Jayaratha comments on this verse together with 3.199: see [[Tantraloka 03.199#Viveka|3.199]].

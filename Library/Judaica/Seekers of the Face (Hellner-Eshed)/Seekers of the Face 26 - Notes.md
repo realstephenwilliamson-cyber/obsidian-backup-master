@@ -110,7 +110,7 @@ Chapter 2: The Language of Divine Faces
 
 *[p. 386]* ^pg398
 
-double-faced (*du partsufin/diprosopon*)” (Genesis Rabbah 8:1). It also appears in the Talmud: “One who sees large populations of Israelites recites: *Blessed is He who is Wise of all Secrets*. For neither their minds nor their faces (*partsufehen*) are similar to one another.” BT Berakhot 58a.
+double-faced (*du partsufin/diprosopon*)” (Genesis Rabbah 8:1). It also appears in the Talmud: “One who sees large populations of Israelites recites: *Blessed is He who is Wise of all Secrets*. For neither their minds nor their faces (*partsufehen*) are similar to one another.” BT [[Berakhot 58#58a|Berakhot 58a]].
 
 3\. See note 5 in Chapter 1.
 
@@ -146,7 +146,7 @@ Sava and Yanuka Figures in the Zohar,” *Jewish Quarterly Review* 107, no.1 (20
 
 17\. Pesiqta de-Rav Kahana 12:24. See also the midrashic collection on the face of God in Yalquṭ Shimʿoni, Shemot \[Exodus\] 286. A fuller discussion of this series of midrashim can be found in Arthur Green, “The Children in Egypt and the Theophany at the Sea,” *Judaism* 24, no. 3 (Fall 1975): 446–456.
 
-18\. BT Yoma 54a. See Moshe Idel, *Kabbalah and Eros* (New Haven, CT: Yale University Press, 2005), 31–32, 58–59. The terms “large face and small face” (*appei ravrevei ve-appei zuṭra*) that serve as a source for describing the two *partsufim* in the Idra—*Arikh Anpin* and *Ze*ʿ*eir Anpin*—are present in the talmudic account of the cherubs’ faces. See BT Sukkah 5b.
+18\. BT [[Yoma 54#54a|Yoma 54a]]. See Moshe Idel, *Kabbalah and Eros* (New Haven, CT: Yale University Press, 2005), 31–32, 58–59. The terms “large face and small face” (*appei ravrevei ve-appei zuṭra*) that serve as a source for describing the two *partsufim* in the Idra—*Arikh Anpin* and *Ze*ʿ*eir Anpin*—are present in the talmudic account of the cherubs’ faces. See BT [[Sukkah 5#5b|Sukkah 5b]].
 
 19\. See Idel, *Kabbalah and Eros*, 35–38; Haviva Pedaya, “Reʾiyyah, Nefilah, Shirah; Hishtoqequt Reʾiyyat ha-ʾEl ve-ha-Yesod ha-Ruḥi be-Mistorin ha-Yehudi ha-Qadum” 
 
@@ -232,7 +232,7 @@ Sava and Yanuka Figures in the Zohar,” *Jewish Quarterly Review* 107, no.1 (20
 
 56\. On this return to the relationship between the *partsufim*, see the section “Sweetening the Powers of Judgment Continues,” in Chapter 21.
 
-57\. Manna appears in the Zohar as the spiritual food that sustains the mystics, with the jar containing a full *omer* of manna ([[Torah 16 - Beshalach#^16-33|Exodus 16:33]]; and cf. BT Yoma 52b; and Horayot 12a) representing the Zohar itself ([[Zohar 3.07 - Parashat Va-Yhi#^z1-217a|Zohar 1:217a]]). Also see Liebes, *Studies in the Zohar*, 200n58; and Hellner-Eshed, *A River Flows from Eden*, 368–370.
+57\. Manna appears in the Zohar as the spiritual food that sustains the mystics, with the jar containing a full *omer* of manna ([[Torah 16 - Beshalach#^16-33|Exodus 16:33]]; and cf. BT [[Yoma 52#52b|Yoma 52b]]; and [[Horayot 12#12a|Horayot 12a]]) representing the Zohar itself ([[Zohar 3.07 - Parashat Va-Yhi#^z1-217a|Zohar 1:217a]]). Also see Liebes, *Studies in the Zohar*, 200n58; and Hellner-Eshed, *A River Flows from Eden*, 368–370.
 
 58\. For more on this point, see the section “A Figure within a Figure: The Structure of Reality,” in Chapter 17.
 
@@ -318,7 +318,7 @@ in the Zohar, the most striking of which is that between good and evil—between
 
 16\. R. Naḥman of Breslov employed this exegesis from the Idra, and the division between Primordial Years (*shanim qadmoniyyot*) and *days of the world* (*yemei* ʿ*olam*), with stunning creativity, in a teaching that formed the conceptual basis of his own choice to tell the members of his community stories rather than only expounding his convoluted and profound teachings to them. He distinguishes between the teachings of *yemei* ʿ*olam*, which are connected to the Jewish culture and religion, and the legends that come from the archaic realm of ʿ*Attiqa* of *shanim qadmoniyyot*. See *Liqquṭe Moharan* 1:60, #6.
 
-17\. BT Berakhot 7a.
+17\. BT [[Berakhot 7#7a|Berakhot 7a]].
 
 18\. Earlier on this page in the Talmud, the same formulation appears as God’s prayer to Himself: “R. Yoḥannan says in the name of R. Yose: How do we know that the Blessed Holy One prays? \[ . . . \] What does He pray? Said R. Zuṭra b. Ṭubiah, said Rab: ‘May it be My will that My mercy will overcome My anger, and may My mercy prevail over My attributes, and may I conduct Myself toward My children with the attribute of mercy, and may I enter before them \[in Judgment\] while stopping short of strict Justice.’”
 
@@ -380,7 +380,7 @@ Shavuot, see Liebes, *Studies in the Zohar*, 74–82 and related notes.
 
 24\. Cordovero, *Or Yaqar*, 21:28–30. See also his additional comments on the terrestrial Garden of Eden and the possibility of entering it in *Or Yaqar*, 11:65–66.
 
-25\. See BT Ḥagigah 14b–16a; and Song of Songs Rabbah 1:27.
+25\. See BT [[Chagigah 14#14b|Ḥagigah 14b]]–16a; and Song of Songs Rabbah 1:27.
 
 26\. For example, in his *Meccan Openings* (3:177), Ibn al-ʿArabī says: “The *barzakh*-- imagination is the cornerstone. The senses ascend to it, and spiritual essences descend to it \[ . . . \] the *barzakh* \[ . . . \] is the place between this world and the hereafter, this being the imaginal world. \[ . . . \] In the imaginal realm of being, the imagination brings God into existence,” quoted in Sara Sviri, *Ha-Sufim* \[The Sufis: An anthology\] (Tel Aviv: Tel Aviv University, 2008), 531–532 and related notes.
 
@@ -430,7 +430,7 @@ blessing after the second *tiqqun* of ʿ*Attiqa*’s beard: “Now the world is 
 
 2\. This is in contradistinction to the Idra Zuṭa, which describes the affairs of the divine realm within time. Thus, at the climax of the Idra Zuṭa, Rabbi Shimʿon transforms into a transpersonal figure of the High Priest, the human being who is adorned with the crowns of the *sefirah* of Foundation (*Yesod*). He is characterized by the phallus, which enacts the sexual coupling of the divine Male and Female, and of the Divine and the human.
 
-3\. BT Ḥagigah 13a.
+3\. BT [[Chagigah 13#13a|Ḥagigah 13a]].
 
 4\. Mishnah Ḥagigah 2:1.
 
@@ -492,9 +492,9 @@ Chapter 8: Entering the Idra Rabba
 
 4\. In classical rabbinic literature, the expression “pillars of the world” may refer to the biblical patriarchs, teachers, and sages. See, for example, *Pirqe de-Rabbi Eli*ʿ*ezer*, chap. 47; and *Yalquṭ Shim*ʿ*oni*, Ruth 4:606. In the Zohar, the disciples are called “pillars” who must be erected or supported; see, for example, the narrative of R. Ḥiyya’s initiation ([[Zohar 4.03 - Parashat Shemot#^z2-13a|Zohar 2:13a]]).
 
-5\. See BT Sukkah 45b; and BT Sanhedrin 97b. For the singular and unique character of Rabbi Shimʿon in the Zohar, see Liebes, *Studies in the Zohar*, 12–19; Yehuda Liebes, “Marʿish ha-Areẓ: Yeḥiduto Shel RaSHB˝I” \[Earth shaker: RaShBY’s aloneness\], in *Yahadut: Sugiyot, Qeta*ʿ*im, Panim, Zehuyot* \[Judaism, topics, fragments, faces, identities.\], ed. Haviva Pedaya and Ephraim Meir, 337–357 (Beer Sheva: Ben-Gurion University of the Negev Press, 2007); Huss, *Zohar: Reception and Impact*; and Hellner-Eshed, *A River Flows from Eden*, 31–61.
+5\. See BT [[Sukkah 45#45b|Sukkah 45b]]; and BT [[Sanhedrin 97#97b|Sanhedrin 97b]]. For the singular and unique character of Rabbi Shimʿon in the Zohar, see Liebes, *Studies in the Zohar*, 12–19; Yehuda Liebes, “Marʿish ha-Areẓ: Yeḥiduto Shel RaSHB˝I” \[Earth shaker: RaShBY’s aloneness\], in *Yahadut: Sugiyot, Qeta*ʿ*im, Panim, Zehuyot* \[Judaism, topics, fragments, faces, identities.\], ed. Haviva Pedaya and Ephraim Meir, 337–357 (Beer Sheva: Ben-Gurion University of the Negev Press, 2007); Huss, *Zohar: Reception and Impact*; and Hellner-Eshed, *A River Flows from Eden*, 31–61.
 
-6\. BT Ḥagigah 12b.
+6\. BT [[Chagigah 12#12b|Ḥagigah 12b]].
 
 7\. *Sefer ha-Bahir*, 102.
 
@@ -502,15 +502,15 @@ Chapter 8: Entering the Idra Rabba
 
 9\. For example, see [[Zohar 3.07 - Parashat Va-Yhi#^z1-225a|Zohar 1:225a]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-9a|3:9a]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-62a|3:62a–b]]. See also, Liebes, *Studies in the Zohar*, 12–19; and Hellner-Eshed, *A River Flows from Eden*, 37–51, 245–249.
 
-10\. These two interpretive possibilities are placed side by side in the Babylonian Talmud (Berakhot 63a). For the interpretation of the verse in the various places that it is cited 
+10\. These two interpretive possibilities are placed side by side in the Babylonian Talmud ([[Berakhot 63#63a|Berakhot 63a]]). For the interpretation of the verse in the various places that it is cited 
 
 *[p. 400]* ^pg412
 
 in the Idra, see Liebes, *Studies in the Zohar,* 175n99; and Liebes, “Zohar ve-ʾEros,” 72n34.
 
-11\. A clear example of such a violation for religious motivations (*for YHVH*) was the decision to record the Oral Torah in writing, an act motivated by a fear of forgetting, despite the traditional proscription against the practice. See BT Giṭṭin 60a.
+11\. A clear example of such a violation for religious motivations (*for YHVH*) was the decision to record the Oral Torah in writing, an act motivated by a fear of forgetting, despite the traditional proscription against the practice. See BT [[Gittin 60#60a|Giṭṭin 60a]].
 
-12\. BT Berakhot 63a. See also the subsequent discussion of Hillel’s words and Rabbi Shimʿon bar Yoḥai’s reference to them in the Palestinian Talmud. In this context, also consider the talmudic account of the emergency gathering in Yavneh after the destruction of the Temple, at which the sages are terrified that the Torah will be forgotten. In response, Rabbi Shimʿon bar Yoḥai expresses his trust in the eternal bond between Israel and the Torah. See BT Shabbat 138b: “When our rabbis entered the Vineyard at Yavneh they said: The Torah will be forgotten by Israel! Rabbi Shimʿon b. Yoḥai says: God forfend that the Torah will be forgotten by Israel, as it is written: *For it shall never be forgotten from his seed’s mouth* ([[Torah 52 - Vayeilech#^31-21|Deut. 31:21]]).”
+12\. BT [[Berakhot 63#63a|Berakhot 63a]]. See also the subsequent discussion of Hillel’s words and Rabbi Shimʿon bar Yoḥai’s reference to them in the Palestinian Talmud. In this context, also consider the talmudic account of the emergency gathering in Yavneh after the destruction of the Temple, at which the sages are terrified that the Torah will be forgotten. In response, Rabbi Shimʿon bar Yoḥai expresses his trust in the eternal bond between Israel and the Torah. See BT [[Shabbat 138#138b|Shabbat 138b]]: “When our rabbis entered the Vineyard at Yavneh they said: The Torah will be forgotten by Israel! Rabbi Shimʿon b. Yoḥai says: God forfend that the Torah will be forgotten by Israel, as it is written: *For it shall never be forgotten from his seed’s mouth* ([[Torah 52 - Vayeilech#^31-21|Deut. 31:21]]).”
 
 13\. For a discussion of the additional interpretation of this verse in the Idra as well as its use in the works of Maimonides and other sections of the Zohar, see the section “Time to Act for YHVH—Deepening the Interpretation,” later in this chapter.
 
@@ -520,13 +520,13 @@ in the Idra, see Liebes, *Studies in the Zohar,* 175n99; and Liebes, “Zohar ve
 
 16\. Liebes, *Studies in the Zohar*, 175n99.
 
-17\. For example, see BT Ḥagigah 14a; BT Qiddushin 30b; Be-Midbar Rabbah 11:3; and so on.
+17\. For example, see BT [[Chagigah 14#14a|Ḥagigah 14a]]; BT [[Kiddushin 30#30b|Qiddushin 30b]]; Be-Midbar Rabbah 11:3; and so on.
 
 18\. For example, see [[Zohar 4.06 - Parashat Be-Shallah#^z2-51a|Zohar 2:51a]], [[Zohar 7.08 - Parashat Aharei Mot#^z3-59b|3:59b]]. Cf., in particular, with Rabbi Shimʿon’s call to gather the great scholars of the Hebrew Bible to arise and go to battle for the *Shekhinah*: *Tiqqunei Zohar* 61a (*tiqqun* 21). On this, see Roi, *Love of the Shekhina*, 137–308.
 
 19\. [[Proverbs 18#^18-21|Proverbs 18:21]]: *Death and life are in the power of the tongue.*
 
-20\. See BT ʿArakhin 15b; Kaplan, *Sefer Yetzirah* 6:8; Liebes, “Zohar ve-ʾEros,” 71–72; and Liebes, *Torat ha-Yeẓirah*, 144–148.
+20\. See BT [[Arakhin 15#15b|ʿArakhin 15b]]; Kaplan, *Sefer Yetzirah* 6:8; Liebes, “Zohar ve-ʾEros,” 71–72; and Liebes, *Torat ha-Yeẓirah*, 144–148.
 
 21\. PT Berakhot 68a. Also see the parallel in the Tosefta Berakhot 6:30.
 
@@ -542,11 +542,11 @@ in the Idra, see Liebes, *Studies in the Zohar,* 175n99; and Liebes, “Zohar ve
 
 26\. See the series of interpretations of the verse *Joseph could no longer restrain himself* ([[Torah 11 - Vayigash#^45-1|Genesis 45:1]]) in [[Zohar 3.06 - Parashat Va-Yiggash#^z1-208a|Zohar 1:208a]].
 
-27\. See BT Ḥagigah 3b; and BT Soṭah 4b. On the use of this verse, see Liebes, *Studies in the Zohar*, 34–37 and related notes.
+27\. See BT [[Chagigah 3#3b|Ḥagigah 3b]]; and BT [[Sotah 4#4b|Soṭah 4b]]. On the use of this verse, see Liebes, *Studies in the Zohar*, 34–37 and related notes.
 
 28\. See Liebes, *Studies in the Zohar*, 34–37 and related notes; and Hellner-Eshed, *A River Flows from Eden*, 63–67.
 
-29\. BT Ḥagigah 14b.
+29\. BT [[Chagigah 14#14b|Ḥagigah 14b]].
 
 30\. For a discussion of Rabbi Shimʿon’s statements, see the section “Ending 4: Legitimizing a Smaller Circle of Companions,” in Chapter 22.
 
@@ -572,7 +572,7 @@ the individual entered: i.e., *Shekhinah*, the *sefirah* of Sovereignty (*Malkhu
 
 39\. For more on the various appearances of the field in the Idra, both in the narrative frame and in the *tiqqunim* themselves, see Sobol, *Transgression*, 100–103.
 
-40\. See BT Yevamot 34b.
+40\. See BT [[Yevamot 34#34b|Yevamot 34b]].
 
 41\. In his commentary on the Idra Rabba, R. Moses Ḥayyim Luzzatto develops this theme with great profundity. In his opinion, since the time was not yet ripe for bringing the potent divine influx down from the upper realms, the Companions had to gather and ascend together in their minds to the place that opens into the expanses of the divine world. Foundation (*Yesod*) of the Female, the sexual organ of the *Shekhinah*, the Garden of Eden—this is the place from which the *tiqqun* must begin, and it is symbolized by the field in which the Companions gather. See Luzzatto, *Sefer Adir Ba-Marom*, 15a–b.
 
@@ -670,7 +670,7 @@ exegesis on the Ten Martyrs and the death of the kings from the original writing
 
 7\. This passage is cited, along with a thorough discussion (comparing it with the motif of the Death of the Kings, among other things), in Farber-Ginat, “Qelipah Qodemet le-Peri,” 133–138. For more on this passage, see Haviva Pedaya, *Ha-RaMBa*˝*N: Hit*ʿ*alut:* *Zeman Maḥzori ve-Teqst Qadosh* \[Nahmanides: Cyclical time and holy text\] (Tel Aviv: Am Oved, 2003), 417.
 
-8\. BT Bava Batra 74b. On the evolution of this myth, see Idel, “Leviyatan u-Vat Zugo”; Esther Liebes, “Qordovero ve-ha-ʾAR˝I: Beḥinah Meḥudeshet Shel Mitos Mot Malkhei ʾEdom” \[Cordovero and Luria\], in *Ma*ʿ*ayan* ʿ*Ein Ya*ʿ*aqov le-R. Mosheh Qordovero* \[The ʿ*Ein Ya*ʿ*aqov* Spring of Rabbi Moses Cordovero\], ed. Bracha Sack (Beer Sheva: Ben-Gurion University of the Negev Press, 2008), 41–43; Michael Fishbane, *Biblical Myth and Rabbinic Mythmaking* (Oxford: Oxford University Press, 2005), 115–116; and Pedaya, *Ha-RaMBa*˝*N*, 291–296. Note that Sifra di-Tsniʿuta itself draws a connection between the kings of Edom and the mythic creatures—the great reptiles and sea serpents—whose power lies in their opposition to cosmic order.
+8\. BT [[Bava Batra 74#74b|Bava Batra 74b]]. On the evolution of this myth, see Idel, “Leviyatan u-Vat Zugo”; Esther Liebes, “Qordovero ve-ha-ʾAR˝I: Beḥinah Meḥudeshet Shel Mitos Mot Malkhei ʾEdom” \[Cordovero and Luria\], in *Ma*ʿ*ayan* ʿ*Ein Ya*ʿ*aqov le-R. Mosheh Qordovero* \[The ʿ*Ein Ya*ʿ*aqov* Spring of Rabbi Moses Cordovero\], ed. Bracha Sack (Beer Sheva: Ben-Gurion University of the Negev Press, 2008), 41–43; Michael Fishbane, *Biblical Myth and Rabbinic Mythmaking* (Oxford: Oxford University Press, 2005), 115–116; and Pedaya, *Ha-RaMBa*˝*N*, 291–296. Note that Sifra di-Tsniʿuta itself draws a connection between the kings of Edom and the mythic creatures—the great reptiles and sea serpents—whose power lies in their opposition to cosmic order.
 
 9\. Several studies have been written on the myth of the kings of Edom in the works of Cordovero and Luria. See Liebes, “Qordovero ve-ha-ʾAR˝I,” and the extensive review of earlier research therein; and Fine, *Physician of the Soul*, 131–138.
 
@@ -740,7 +740,7 @@ Chapter 11: *Arikh Anpin*: Features of the Face
 
 9\. Yehuda Liebes, “Zemirot le-Seʿudot Shabat she-Yasad ha-ʾAR˝I ha-Qadosh” \[The Sabbath table songs established by R. Isaac Luria\], *Molad* 4, no. 23 (1972): 540–555.
 
-10\. See Mishnah Yevamot 16:3; BT Bekhorot 46b; and BT Yevamot 120a, with Rashi’s commentary. See also, Nahmanides’ commentary on [[Torah 31 - Emor#^21-18|Leviticus 21:18]].
+10\. See Mishnah Yevamot 16:3; BT [[Bekhorot 46#46b|Bekhorot 46b]]; and BT [[Yevamot 120#120a|Yevamot 120a]], with Rashi’s commentary. See also, Nahmanides’ commentary on [[Torah 31 - Emor#^21-18|Leviticus 21:18]].
 
 11\. [[Zohar 9.15 - Idra Zuta#^z3-294a|Zohar 3:294a]]; trans. Matt 9:824.
 
@@ -752,7 +752,7 @@ Chapter 11: *Arikh Anpin*: Features of the Face
 
 13\. See [[Zohar 9.15 - Idra Zuta#^z3-289a|Zohar 3:289a]] (Idra Zuṭa).
 
-14\. This echoes the interpretation attributed to Rabbi Akiva, focused on the plurality of thrones mentioned in the verses describing God in the Book of Daniel 7:9. Rabbi Akiva interprets the plural form as a reference to two thrones: one connected to the divine realm, and the other for King David, the Messiah. This exegesis aroused the ire of Rabbi Yose, who objected that this inappropriately blurs the boundaries between the human and the Divine. See BT Ḥagigah 14a. Without doubt, the Idra here aligns itself with Rabbi Akiva and develops upon his position. See Liebes, ʿ*Alilot* ʾ*Elohim*, 143.
+14\. This echoes the interpretation attributed to Rabbi Akiva, focused on the plurality of thrones mentioned in the verses describing God in the Book of Daniel 7:9. Rabbi Akiva interprets the plural form as a reference to two thrones: one connected to the divine realm, and the other for King David, the Messiah. This exegesis aroused the ire of Rabbi Yose, who objected that this inappropriately blurs the boundaries between the human and the Divine. See BT [[Chagigah 14#14a|Ḥagigah 14a]]. Without doubt, the Idra here aligns itself with Rabbi Akiva and develops upon his position. See Liebes, ʿ*Alilot* ʾ*Elohim*, 143.
 
 15\. The Idra appears to omit the mouth, which we might have expected here after the descriptions (moving down the face) of the forehead, eyes, and nose. However, the mouth is still to come, for the Idra considers it to be part of the beard.
 
@@ -768,7 +768,7 @@ Chapter 12: Arraying *Arikh Anpin’s* Beard
 
 4\. “‘\[*A*\] *good name from fine oil* ([[Ecclesiastes 07#^7-1|Ecclesiastes 7:1]])! For the Holy Name issues from oil, kindling holy lamps. What is this oil? As is written: *A river issues from Eden to water the garden* ([[Torah 01 - Bereshit#^2-10|Genesis 2:10]]).’ Rabbi Yitsḥak said, ‘As is written: *like precious oil on the head* \[ . . . \] ([[Psalms 133#^133-2|Psalms 133:2]]).’ Rabbi Elʿazar said: ‘These are mountains of pure balsam.’ Rabbi Shimʿon said, ‘*A good name* ([[Ecclesiastes 07#^7-1|Ecclesiastes 7:1]])—how good is the supernal Name of holy lamps, all of which glow *from fine oil*, as I have said’” ([[Zohar 4.07 - Parashat Yitro#^z2-87b|Zohar 2:87b]]; trans. Matt 4:496). See also, Hellner-- Eshed, *A River Flows from Eden*, 229–251.
 
-5\. See, for example, BT Yevamot 80b; BT Shabbat 152a; and Rashi on BT Shabbat 50b, among other instances.
+5\. See, for example, BT [[Yevamot 80#80b|Yevamot 80b]]; BT [[Shabbat 152#152a|Shabbat 152a]]; and Rashi on BT [[Shabbat 50#50b|Shabbat 50b]], among other instances.
 
 6\. “Now, you might say, ‘The beard is nowhere to be found, and Solomon said only *his cheeks* ([[Song of Songs 5#^5-13|Song of Songs 5:13]]), never mentioning a beard.’ However, we have learned as follows in the Concealment of the Book: All that is concealed and hidden away—not 
 
@@ -778,7 +778,7 @@ mentioned or revealed—is most sublime and precious of all, precisely because i
 
 7\. See Liebes, *Studies in the Zohar*, 62–63 and related notes.
 
-8\. As stated by the rabbis: “Glory of the face—a beard; joy of the heart—a wife; YH-VH’s portion—children.” BT Shabbat 152a.
+8\. As stated by the rabbis: “Glory of the face—a beard; joy of the heart—a wife; YH-VH’s portion—children.” BT [[Shabbat 152#152a|Shabbat 152a]].
 
 9\. [[Zohar 8.09 - Idra Rabba#^z3-131a|Zohar 3:131a]]. This statement is presented as a citation from Sifra di-Tsniʿuta, but it does not appear in that work in its present form. See Liebes, *Studies in the Zohar*, 187n176. In a personal conversation with the author, Liebes noted an interesting parallel between extending the hand into the beard in the Idra, and the account of the *Iliad*’s warriors who, when captured during war, touch the beard of their captor while pleading for their lives. See, for example, *Iliad*, 10.454–455.
 
@@ -786,7 +786,7 @@ mentioned or revealed—is most sublime and precious of all, precisely because i
 
 11\. There is indeed a similar formulation in Sifra di-Tsniʿuta ([[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177a|Zohar 2:177a]]).
 
-12\. See PT Avodah Zarah 18b; Bereshit Rabbah 62:2; and BT Taʿanit 25a.
+12\. See PT Avodah Zarah 18b; Bereshit Rabbah 62:2; and BT [[Taanit 25#25a|Taʿanit 25a]].
 
 13\. The formulation “some are manifested on the seventh in the world,” brought in our Idra Rabba text as a citation from Sifra di-Tsniʿuta, refers to the seventh month, Tishrei. This is made explicit in Sifra di-Tsniʿuta following the thirteen *tiqqunim*: “When Tishrei, the seventh month, arrives, these thirteen appear in the supernal world and thirteen gates of Compassion open” ([[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177a|Zohar 2:177a]]; trans. Matt 5:537, emended).
 
@@ -804,7 +804,7 @@ mentioned or revealed—is most sublime and precious of all, precisely because i
 
 19\. [[Zohar 9.15 - Idra Zuta#^z3-288a|Zohar 3:288a]].
 
-20\. See Liebes, *Studies in the Zohar*, 100–103. There is some resemblance between this episode and the narrative of Ben Zoma, one of the four who entered the Orchard (*ha-* *pardes*), who “glimpsed and was harmed.” The Talmud relates that, after emerging from the Orchard, his teacher Rabbi Yehoshua found him contemplating the second day of creation, sinking deep into a vision of the work of creation. See BT Ḥagigah 15a. Ben Zoma contemplates the work of creation in the Talmud, while in the Zohar Rabbi Ḥizkiyah’s vision focuses on the Work of the Chariot. Perhaps their unmediated contact with the depths of the divine realms alludes to their inevitably impending deaths.
+20\. See Liebes, *Studies in the Zohar*, 100–103. There is some resemblance between this episode and the narrative of Ben Zoma, one of the four who entered the Orchard (*ha-* *pardes*), who “glimpsed and was harmed.” The Talmud relates that, after emerging from the Orchard, his teacher Rabbi Yehoshua found him contemplating the second day of creation, sinking deep into a vision of the work of creation. See BT [[Chagigah 15#15a|Ḥagigah 15a]]. Ben Zoma contemplates the work of creation in the Talmud, while in the Zohar Rabbi Ḥizkiyah’s vision focuses on the Work of the Chariot. Perhaps their unmediated contact with the depths of the divine realms alludes to their inevitably impending deaths.
 
 *[p. 410]* ^pg422
 
@@ -824,7 +824,7 @@ mentioned or revealed—is most sublime and precious of all, precisely because i
 
 28\. On the superiority of Rabbi Shimʿon over Moses in the Zohar, see: [[Zohar 7.03 - Parashat Va-Yiqra#^z3-15a|Zohar 3:15a]], [[Zohar 8.11 - Parashat Be-Ha'alotekha#^z3-149a|3:149a]], and others. For more on this matter, see Liebes, *Studies in the Zohar*, 106; Yehuda Liebes, “Ha-Zohar ve-ha-Tiqunim: Me-Renesans la-Mahapekhah” \[Zohar and *tiqqunei* Zohar: From renaissance to revolution\], *Te*ʿ*uda: New Developments in Zohar Studies* 21/22, no. 2 (2007): 251–301; Huss, *Zohar: Reception and Impact*, 11–42; and Hellner-Eshed, *A River Flows from Eden*, 44–48. On this special state of consciousness that combines the visual with a discursive and reflective quality, see Ibn Arabi’s fascinating discussion in his book *The Meccan Revelations*, quoted in Corbin, *Spiritual Body*, 135–143.
 
-29\. See BT Yevamot 49b; and BT Sukkah 45b.
+29\. See BT [[Yevamot 49#49b|Yevamot 49b]]; and BT [[Sukkah 45#45b|Sukkah 45b]].
 
 30\. On Rabbi Shimʿon’s character, see Liebes, *Studies in the Zohar*, 4–12, 14–19; Hellner-- Eshed, *A River Flows from Eden*, 29–53; and Huss, *Zohar: Reception and Impact*, 11–42.
 
@@ -848,7 +848,7 @@ Misti” \[Consumed by love: The death of Nadav and Avihu as a ritual of erotic 
 
 38\. “The term *mazzal* has a wide range of meaning: constellation, planet, planetary or astrological influence, zodiacal sign, destiny, fortune, guardian angel” (Zohar 3:1344; trans. Matt 8:370–371n179).
 
-39\. See BT Moed Katan 28a.
+39\. See BT [[Moed Katan 28#28a|Moed Katan 28a]].
 
 40\. See Yehuda Liebes, *Pulḥan ha-Shaḥar: Yaḥas ha-Zohar le-*ʿ*Avodah Zarah* \[The cult of the dawn: The attitude of the Zohar toward idolatry\] (Jerusalem: Carmel Press, 2011), 16–30, and his associated references to classical rabbinic and kabbalistic literature.
 
@@ -868,7 +868,7 @@ Misti” \[Consumed by love: The death of Nadav and Avihu as a ritual of erotic 
 
 48\. [[Zohar 8.09 - Idra Rabba#^z3-132b|Zohar 3:132b]].
 
-49\. See BT Ḥagigah 14b; Vayyiqra Rabbah 16:4; and Ruth Rabbah 6:4. Torah as fire 
+49\. See BT [[Chagigah 14#14b|Ḥagigah 14b]]; Vayyiqra Rabbah 16:4; and Ruth Rabbah 6:4. Torah as fire 
 
 comes also from the reading of the verse in [[Torah 54 - V'Zot HaBerachah#^33-1|Deuteronomy 33]] of the words ומל תדשא ונימימ
 
@@ -892,7 +892,7 @@ comes also from the reading of the verse in [[Torah 54 - V'Zot HaBerachah#^33-1|
 
 57\. On this point, see Liebes, “Zohar ve-ʾEros,” 71–72.
 
-58\. See BT Yevamot 97a.
+58\. See BT [[Yevamot 97#97a|Yevamot 97a]].
 
 59\. See [[Torah 19 - Terumah#^26-30|Exodus 26:30–33]]: “You shall make a curtain . . . and the curtain shall divide for you between the holy place and the Holy of Holies.”
 
@@ -950,7 +950,7 @@ Chapter 15: *Zeʿeir Anpin’s* Head and Its Features
 
 2\. There is another layer of complexity in this text: alongside ʿ*Attiqa* and *Ze*ʿ*eir Anpin* also appears “the Blessed Holy One”—the anthropomorphic “traditional” figure of the God of Israel, who is identified in the main body of the Zohar with the *sefirah* of Beauty (*Tif*ʾ*eret*). It is the Blessed Holy One who seeks to delight with the righteous, not *Ze*ʿ*eir Anpin* or ʿ*Attiqa*. Thus, what we have here is a combination of two mythical languages that are not in the same “register”—the rabbinic-zoharic myth of the Blessed Holy One who takes pleasure, and the Idra’s myth of the illumination of the forehead.
 
-3\. BT Rosh ha-Shanah 17b.
+3\. BT [[Rosh Hashanah 17#17b|Rosh ha-Shanah 17b]].
 
 4\. For more on the tension between Gnosticism and the unity of the divine *partsufim*, see the section “Zeʿeir Anpin and Gnosticism: Between Splitting and Healing,” in Chapter 4.
 
@@ -964,7 +964,7 @@ Chapter 15: *Zeʿeir Anpin’s* Head and Its Features
 
 9\. As we saw, in the Idra Rabba *Ze*ʿ*eir Anpin*’s eyes are compared with doves. In the Idra Zuṭa, however, the term *doves* (*yonim*) is also interpreted as being derived from *ona*ʾ*ah* (cheating, oppression). See [[Zohar 9.15 - Idra Zuta#^z3-293b|Zohar 3:293b]].
 
-10\. BT Berakhot 59a: “When the blessed Holy One recalls his children, immersed in suffering among the nations of the world, he lets two tears drop into the Great Sea, and the sound is heard from one end of the earth to the other.”
+10\. BT [[Berakhot 59#59a|Berakhot 59a]]: “When the blessed Holy One recalls his children, immersed in suffering among the nations of the world, he lets two tears drop into the Great Sea, and the sound is heard from one end of the earth to the other.”
 
 11\. Indeed, in the first *tiqqun* of the beard there is a description of the forces of Judgment becoming sweetened from the sweetened bitterness of the tears that dwell in the Great Sea. See [[Zohar 8.09 - Idra Rabba#^z3-132a|Zohar 3:132a]].
 
@@ -992,7 +992,7 @@ Chapter 15: *Zeʿeir Anpin’s* Head and Its Features
 
 22\. On the possibility that the three Companions who die in the Idra constitute a sacrifice, see the section “Ending 2: Fear of Revelation and the Deaths of the Companions,” in Chapter 22.
 
-23\. Cf. Bereshit Rabbah 33:3: “Woe to the wicked, who turn the Attribute of Mercy into the Attribute of Judgment”; BT Yoma 87a: “Woe to the wicked! Is it not sufficient that they condemn themselves? But they condemn their children and their children’s children until the end of all generations.”
+23\. Cf. Bereshit Rabbah 33:3: “Woe to the wicked, who turn the Attribute of Mercy into the Attribute of Judgment”; BT [[Yoma 87#87a|Yoma 87a]]: “Woe to the wicked! Is it not sufficient that they condemn themselves? But they condemn their children and their children’s children until the end of all generations.”
 
 24\. In some printed editions of the Zohar, this version of the description appears: “so that the sound may linger in its entering the brain, and be discerned by the brain, and not hurriedly.”
 
@@ -1120,7 +1120,7 @@ Qavvim le-Geniʾologiah Shel ha-Shekhinah ve-ha-ʾEm” \[And now we have no mot
 
 19\. For example, consider Sifra di-Tsniʿuta’s identification of the Lamp of Adamantine Darkness with the letter *vav*, which is the standard signifier for *Tif*ʾ*eret* in the Zohar ([[Zohar 5.06 - Sifra di-Tsni'uta#^z2-177a|2:177a]]). It also should be noted that the Lamp of Adamantine Darkness possesses a distinctly feminine aspect. See the section “The Formation of *Ze*ʿ*eir Anpin*’s Skull,” in Chapter 14.
 
-20\. See BT Shabbat 118b for language identifying “woman” with “house.”
+20\. See BT [[Shabbat 118#118b|Shabbat 118b]] for language identifying “woman” with “house.”
 
 21\. The author of *Tiqqunei ha-Zohar* provided an admirable remedy for this in a beautiful description of the *Shekhinah*’s head, as did Moses Cordovero in his detailed account of the *Shekhinah*’s body in his work *Elimah*. On the account in *Tiqqunei ha-Zohar*, see Roi, “Mitos ha-Shekhinah,” 234–304. On Cordovero’s account, see Shifra Asulin, “Ha-- Havnayah ha-Kefulah Shel Demut ha-Shekhinah be-Maʿyan ʿEin Yaʿaqov ve-Zeqatah le-Sifrut ha-ʾIdrot” \[The double construct of the image of the Shekhinah in *Ma‘ayan ‘Ein Ya*ʾ*aqov* and its relation to the ‘Idra’ literature\], in *Ma*ʿ*ayan* ʿ*Ein Ya*ʿ*aqov le-R. Mosheh Qordovero* \[The ʿ*Ein Ya*ʿ*aqov* Spring of Rabbi Moses Cordovero\], edited by Bracha Sack (Beer Sheva: Ben-Gurion University of the Negev Press, 2008), 61–111. On the lack of detail in the description of the Female body in the Idra, see the section “The Divine Body: Male and Female,” in Chapter 2.
 
@@ -1128,7 +1128,7 @@ Qavvim le-Geniʾologiah Shel ha-Shekhinah ve-ha-ʾEm” \[And now we have no mot
 
 23\. Avishar Har-Shefi offered a precise description of this: “*Tif*ʾ*eret* (when it is one of *Ze*ʿ*eir Anpin*’s *tiqqunim*) includes both Mercy and forces of Judgment, and when it constructs *Ze*ʿ*eir Anpin* and *Nuqba* it divides so that its Mercy constructs *Ze*ʿ*eir Anpin* while its Judgment constructs *Nuqba*. If we pay close attention to the portrayal, in the case of each body part discussed, that of *Ze*ʿ*eir Anpin* is constructed first, and thereafter the Mercy remains within him while the forces of Judgment are transferred to *Nuqba*, and it is they that construct that body part within her.” Har-Shefi, *Malkhin Qadma*ʾ*in*, 147.
 
-24\. On the female ʿ*ervot*, see BT Berakhot 24a. The Talmud lists three areas of nakedness, to which the Idra adds two.
+24\. On the female ʿ*ervot*, see BT [[Berakhot 24#24a|Berakhot 24a]]. The Talmud lists three areas of nakedness, to which the Idra adds two.
 
 25\. Matt chooses to translate ʿ*ervah* as “lewdness,” which, for our purposes, has overly negative connotations.
 
@@ -1156,11 +1156,11 @@ Chapter 20: Separation and Coupling
 
 4\. This was Moses Cordovero’s interpretation. See Melila Hellner-Eshed, “Temunot me-Ḥayyei Mishpaḥah: Mitosim ʿAl ha-Shekhinah Metokh ‘ʿEin Yaʿaqov’ le-R. Mosheh Qordovero \[Domestic troubles: Family myths in Moshe Cordovero’s book ʾ*Eilima*\],” *Te*ʿ*uda* 21/22, no. 3 (2007): 427–435.
 
-5\. See BT Bava Batra, 74b. For the myth of the serpents, see the section “Pre-Creation Processes,” in Chapter 9 and related notes therein.
+5\. See BT [[Bava Batra 74#74b|Bava Batra, 74b]]. For the myth of the serpents, see the section “Pre-Creation Processes,” in Chapter 9 and related notes therein.
 
 6\. Genesis Rabbah 7:5: “These are the demons whose souls the blessed Holy One created, but before he could create their bodies the Sabbath began—and he did not create them. This instructs you in proper conduct, based on \[the creation of\] the demons. For if a person is holding a precious object or jewel at the beginning of the Sabbath, around the time of dusk, he will be told: Cast it away! For the One who spoke and brought the world into being was busy creating the world, and he had created their souls, but before he could create their bodies the Sabbath began—and he did not create them.”
 
-7\. BT Sanhedrin 106a.
+7\. BT [[Sanhedrin 106#106a|Sanhedrin 106a]].
 
 8\. This aromatized coupling is highly reminiscent of the accounts of the erotic encounter and preparation for coupling between the King and Queen on the Sabbath eve that we find throughout the Zohar. The most famous is “The Secret of the Sabbath” (*raza de-* *shabbat*), which appears in some prayer books at the conclusion of the service inaugurating the Sabbath (*qabbalat shabbat*). See [[Zohar 5.05 - Parashat Terumah#^z2-135b|Zohar 2:135b]].
 
@@ -1180,13 +1180,13 @@ Chapter 21: Sweetening Judgment
 
 root *m-t-q* (sweet). On scents and fragrances as arousing, see [[Zohar 9.09 - Yanuqa#^z3-191a|Zohar 3:191a]]. On *bissum* as sweetening, see Scholem, *Major Trends in Jewish Mysticism*, 388n44; and Liebes, “Peraqim be-Milon Sefer ha-Zohar,” 55 (entry 149), 243 (entry 323). On “olfactory symbolism” in Kabbalah, see Elliot K. Ginsburg, *The Sabbath in the Classical Kabbalah* (Albany: State University of New York Press, 1989), 129, 262. On fragrance and the mystical experience, see Hellner-Eshed, *A River Flows from Eden*, 302–304.
 
-3\. See BT Megillah 7b.
+3\. See BT [[Megillah 7#7b|Megillah 7b]].
 
 4\. Nahum Bronznick, “Lʿhoraʾato shel haShoresh *b-s-m*” \[To the understanding of the root *b-s-m*\], *Sinai* 63 (1968), 81–85. In a conversation, Yehuda Liebes also pointed out to me a possible connection with the Arabic verb *basama* (smile).
 
 5\. [[Zohar 8.09 - Idra Rabba#^z3-143a|Zohar 3:143a]]; trans. Matt 8:441.
 
-6\. BT Yevamot 103b.
+6\. BT [[Yevamot 103#103b|Yevamot 103b]].
 
 7\. From a literary point of view, it would seem that during the configuration and completion of the divine faces, and with the configuration of Adam, primordial Edom becomes increasingly marginalized, and the forces of Judgment are no longer described in the primordial and archetypical terminology of “the kings of Edom,” but rather with the names of figures from the Genesis narratives.
 
@@ -1226,7 +1226,7 @@ ha-Melkhim ba-ʾIdraʾ Raba” \[The story of Cain and Abel as a closing chapter
 
 23\. [[Zohar 8.04 - Parashat Emor#^z3-107a|Zohar 3:107a–b]]. On the difference between Jewish and Christian views of virginity and sexuality, see Arthur Green, “Shekhina, the Virgin Mary and the Song of Songs,” *AJS Review* 26, no. 1 (2002): 1–52.
 
-24\. BT Yoma, 54a.
+24\. BT [[Yoma 54#54a|Yoma, 54a]].
 
 25\. This sits in some tension with the main body of the Zohar, in which the “Mystery of Faith” (*raza di-mehemnuta*) refers to theoretical and experiential knowledge of the process by which divine bounty and being emanates, flowing from its source through all of the *sefirot* and into the *sefirah* of Sovereignty (*Malkhut*), which is connected to the potencies of the Male in the *sefirot* above her. The Mystery of Faith also comprises the virtuosic theurgical 
 
@@ -1234,11 +1234,11 @@ ha-Melkhim ba-ʾIdraʾ Raba” \[The story of Cain and Abel as a closing chapter
 
 knowledge required to expound scriptural verses in such a way that the interpretation stimulates the flow of divine bounty to the interpreters, bringing blessing to the world. See Jonathan Garb, “Sodot ha-ʾEmunah be-Sefer ha-Zohar” \[The “secrets of faith” in the Zohar\], in ʿ*Al ha-*ʾ*Emunah u-be-Toldotav be-Mesoret ha-Yehudit* \[On faith: Studies in the concept of faith and its history in the Jewish tradition\], ed. Moshe Halbertal, David Kurzweil, and Avi Sagi, 294–311 (Jerusalem: Keter, 2005).
 
-26\. BT Ḥullin 60b; *Tanḥuma*, [[Torah 02 - Noach#^11-1|Genesis 11]]; Genesis Rabbah 12:9. There is a similar account in Sefer Yetzirah, for which see the extensive discussion in Liebes, *Torat ha-Yeẓirah*, 73–105.
+26\. BT [[Chullin 60#60b|Ḥullin 60b]]; *Tanḥuma*, [[Torah 02 - Noach#^11-1|Genesis 11]]; Genesis Rabbah 12:9. There is a similar account in Sefer Yetzirah, for which see the extensive discussion in Liebes, *Torat ha-Yeẓirah*, 73–105.
 
 27\. See, for example, [[Zohar 2.03 - Parashat Va-Yera#^z1-97a|Zohar 1:97a–b]].
 
-28\. BT Sanhedrin 98a. In his notes to the conclusion of the Idra, Daniel Matt interprets this verse not in a messianic vein, but as an account of *Ze*ʿ*eir Anpin*, God as a human figure (*ke-bar enash*), approaching the Ancient of Days. See Zohar, trans. Matt 8:451 and related notes.
+28\. BT [[Sanhedrin 98#98a|Sanhedrin 98a]]. In his notes to the conclusion of the Idra, Daniel Matt interprets this verse not in a messianic vein, but as an account of *Ze*ʿ*eir Anpin*, God as a human figure (*ke-bar enash*), approaching the Ancient of Days. See Zohar, trans. Matt 8:451 and related notes.
 
 29\. Liebes, *Studies in the Zohar*.
 
@@ -1250,11 +1250,11 @@ Chapter 22: Emerging from the Idra Rabba
 
 3\. There are other cases in the Idra Rabba in which YHVH appears as a name of ʿ*Attiqa* (see, for example, [[Zohar 8.09 - Idra Rabba#^z3-138b|Zohar 3:138b]]). Daniel Matt offers an additional interpretive possibility, suggesting that the term *sees* (*yir*ʾ*eh*) be vocalized passively, *is seen* (*yera*ʾ*eh*). That is: *Adam is seen by the eyes, but YHVH* \[*Ze*ʿ*eir Anpin*\] *is seen by the heart* \[ʿ*Attiqa*\]. See Zohar, trans. Matt 8:451n457.
 
-4\. Indeed, this verse is understood to describe the figure of the Messiah, the perfected human being. For example, see BT Sanhedrin 98a; Rashi on [[Daniel 07#^7-13|Daniel 7:13]]; Nahmanides commentary on [[Torah 01 - Bereshit#^2-3|Genesis 2:3]]; and others. In 1 Enoch 46–48, there is an account of the connection between the Ancient of Days and the human figure of the Messiah, the chosen one.
+4\. Indeed, this verse is understood to describe the figure of the Messiah, the perfected human being. For example, see BT [[Sanhedrin 98#98a|Sanhedrin 98a]]; Rashi on [[Daniel 07#^7-13|Daniel 7:13]]; Nahmanides commentary on [[Torah 01 - Bereshit#^2-3|Genesis 2:3]]; and others. In 1 Enoch 46–48, there is an account of the connection between the Ancient of Days and the human figure of the Messiah, the chosen one.
 
 5\. See Boaz Huss, *Zohar: Reception and Impact*, esp. the chapter ”The Depiction of R. Shimon bar Yohai and Moses,” 9–35.
 
-6\. BT Ḥagigah 14a.
+6\. BT [[Chagigah 14#14a|Ḥagigah 14a]].
 
 7\. On this interpretation, see Liebes, ʿ*Alilot* ʾ*Elohim*, 143.
 
@@ -1294,17 +1294,17 @@ Chapter 22: Emerging from the Idra Rabba
 
 24\. [[Zohar 4.06 - Parashat Be-Shallah#^z2-61b|Zohar 2:61b]]; trans. Matt 4:330.
 
-25\. See BT Bava Batra 17a; Song of Songs Rabbah 1:16. Death is a major theme in the Zohar in general, leading Isaiah Tishby to devote a complete chapter to it in his *Wisdom of the Zohar*, 2:831–863. Also see Michael Fishbane’s monograph on the place of death and “death with a kiss” in Jewish spiritual and mystical discourse. Michael Fishbane, *The Kiss of God: Spiritual and Mystical Death in Judaism* (Seattle: University of Washington Press, 
+25\. See BT [[Bava Batra 17#17a|Bava Batra 17a]]; Song of Songs Rabbah 1:16. Death is a major theme in the Zohar in general, leading Isaiah Tishby to devote a complete chapter to it in his *Wisdom of the Zohar*, 2:831–863. Also see Michael Fishbane’s monograph on the place of death and “death with a kiss” in Jewish spiritual and mystical discourse. Michael Fishbane, *The Kiss of God: Spiritual and Mystical Death in Judaism* (Seattle: University of Washington Press, 
 
 *[p. 426]* ^pg438
 
-26\. BT Shabbat 88b.
+26\. BT [[Shabbat 88#88b|Shabbat 88b]].
 
 27\. Pedaya, “Zeman Maʿagali.”
 
 28\. On the deaths of the three Companions as “death with a kiss” and as a sacrifice that enables the rebuilding of Jericho (representing the *Shekhinah*), see Liebes, *Studies in the Zohar*, 51–55.
 
-29\. BT Shabbat 33b.
+29\. BT [[Shabbat 33#33b|Shabbat 33b]].
 
 30\. On fragrant scents and illumination of the face as an authorization of mystical experience, see Hellner-Eshed, *A River Flows from Eden*, 302–304. A testimony to the deeply personal ways in which the Idra has been internalized throughout the generations, and to experiences of identification with the Companions as they leave the assembly in a state of illumination and radiance, may be found in an account of Rabbi Nathan of Nemirov, Rabbi Nachman of Bratslav’s close disciple. In a letter in which Rabbi Nachman’s final days are described, the people of Bratslav testified: “\[Rabbi Nathan\] then related a tremendous tale about the book that was burnt \[ . . . \] and that he wrote the book in three and a half hours, ‘and afterwards I emerged as if from the Idra.’” Cited in Joseph G. Weiss, *Meḥqarim be-Sifrut Breslav* \[Studies in Breslav Hassidism\] (Jerusalem: Bialik Institute, 1974), 242 n78.
 

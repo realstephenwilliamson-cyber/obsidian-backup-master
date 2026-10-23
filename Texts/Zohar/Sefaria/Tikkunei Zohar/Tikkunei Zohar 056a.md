@@ -281,7 +281,7 @@ with a crown upon their heads,
 [^3]: 6
 [^4]: Tipheret
 [^5]: *ḥalom*
-[^6]: *BT* Berakhot 57b
+[^6]: *BT* [[Berakhot 57#57b|Berakhot 57b]]
 [^7]: *Yisrael Sava*
 [^8]: ו
 [^9]: *yir-ah*
@@ -305,7 +305,7 @@ with a crown upon their heads,
 [^27]: 40
 [^28]: *Mishnah* Avot 5:21
 [^29]: י
-[^30]: *BT* Berakhot 17a
+[^30]: *BT* [[Berakhot 17#17a|Berakhot 17a]]
 [^31]: Liturgical: Sabbath Morning Service
 [^32]: *dugma*
 [^33]: *malei*

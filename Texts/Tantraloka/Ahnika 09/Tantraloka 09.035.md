@@ -36,6 +36,11 @@ tathā ca teṣāṃ hetūnāṃ saṃyojanaviyojane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 41–42)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.33–35]]
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.35–36]]
+
 *Lead-in:* तदाह -
 
 > तथा च तेषां हेतूनां संयोजनवियोजने ॥

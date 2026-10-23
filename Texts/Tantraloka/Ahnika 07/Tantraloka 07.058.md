@@ -34,6 +34,9 @@ bahvakṣarastu yo mantro vidyā vā cakrameva vā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 39–40)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.57–59]]
+
 > द्विस्त्रिश्चतुर्वा मात्राभिर्विद्यां वा चक्रमेव वा ।
 > तत्त्वोदययुतं नित्यं पृथग्भूतं जपेत्सदा ॥
 > पिण्डाक्षरपदैर्मन्त्रमेकैकं शक्तितत्त्वगम् ।

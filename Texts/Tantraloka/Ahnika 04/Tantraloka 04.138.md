@@ -36,6 +36,11 @@ yato jātaṃ jagallīnaṃ yatra ca svakalīlayā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 185–186)
+> ![[Tantraloka Dyczkowski v03 06 - Chapter Four, part 5#Viveka on 4.137–138]]
+>
+> ![[Tantraloka Dyczkowski v03 06 - Chapter Four, part 5#Viveka on 4.138]]
+
 *Lead-in:* ननु यदि नामायं जगत्सिसृक्षुः, तत्तदौन्मुख्येन प्रवृत्त्यास्य कोऽर्थः ? इत्याशङ्क्याह --
 
 > यतो जातं जगल्लीनं यत्र च स्वकलीलया ॥

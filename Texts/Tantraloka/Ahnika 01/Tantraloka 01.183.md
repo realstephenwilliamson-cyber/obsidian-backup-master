@@ -36,6 +36,11 @@ kevalaṃ saṃvidaḥ so'yaṃ nairmalyetaraviśramaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 360–362)
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.182–183]]
+>
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.183–184]]
+
 *Lead-in:* यद्येवं निर्विकल्पकसिद्ध एव अर्थे विकल्पः प्रवर्तते न अधिकं किञ्चित्करोति तत्किमिति तेन स क्वचिदपेक्ष्यते -- इत्याह --
 
 > केवलं संविदः सोऽयं नैर्मल्येतरविश्रमः ॥

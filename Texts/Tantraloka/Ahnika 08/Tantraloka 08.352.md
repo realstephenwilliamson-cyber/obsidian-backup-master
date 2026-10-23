@@ -37,6 +37,11 @@ māyādiravīcyanto bhavastvanantādirucyate'pyabhavaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 339–343)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.349–352]]
+>
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.352–353]]
+
 *Lead-in:* नन्वधर एवाध्वन्यनन्तोऽधिकृतः -- इत्युक्तम्, तत्कोऽसावधरोऽन्यो वाध्वा ? -- इत्याशङ्क्याह --
 
 > मायादिरवीच्यन्तो भवस्त्वनन्तादिरुच्यतेऽप्यभवः ॥

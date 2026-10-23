@@ -31,6 +31,9 @@ paśupāśapatijñānaṃ svayaṃ nirbhāsate tadā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 232–233)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.177–179]]
+
 *Lead-in:* एवं गुर्वाम्नायगतं प्रातिभं ज्ञानं निरूप्य, पात्रोपकृतं तदेव स्वाभाविकं निरूपयितुं प्रथमं तावद्विवेकस्यैव स्वरूपम् निरूपयति --
 
 Jayaratha comments on this verse together with 13.178: see [[Tantraloka 13.178#Viveka|13.178]].

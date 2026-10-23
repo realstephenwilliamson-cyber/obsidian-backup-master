@@ -34,6 +34,9 @@ jyeṣṭhā tu suprabuddhānāṃ bubhutsūnāṃ ca raudrikā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 267)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.56]]
+
 *Lead-in:* ननु प्रभुशक्तिर्यद्यात्मप्राणाभ्यां सह प्राणीयं यत्नं विदधाति तदस्तु, तस्यास्तु त्रैविध्यं किमर्थमुक्तम् ? -- इत्याशङ्क्याह --
 
 > वामा संसारिणामीशा प्रभुशक्तिर्विधायिनी ।

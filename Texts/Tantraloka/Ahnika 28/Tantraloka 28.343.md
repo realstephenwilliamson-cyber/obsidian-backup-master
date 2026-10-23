@@ -35,5 +35,12 @@ kasyāpi tu śarīrānte vāsanā yā prabhotsyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 151–152)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.342–343]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.343–345]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.343–345 (2)]]
+
 Jayaratha comments on this verse together with 28.342: see [[Tantraloka 28.342#Viveka|28.342]].
 

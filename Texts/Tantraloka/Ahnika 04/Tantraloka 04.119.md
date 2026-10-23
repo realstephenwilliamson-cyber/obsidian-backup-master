@@ -36,6 +36,11 @@ evaṃ svadehaṃ bodhaikapātraṃ galitabhedakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 139–140)
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.118–119]]
+>
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.119–120]]
+
 *Lead-in:* ततश्च किम्, -- इत्याह -
 
 > एवं स्वदेहं बोधैकपात्रं गलितभेदकम् ॥

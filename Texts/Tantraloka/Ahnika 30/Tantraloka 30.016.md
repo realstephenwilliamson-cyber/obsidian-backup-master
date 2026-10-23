@@ -33,5 +33,10 @@ jhakārasaṃhṛtiprāṇāḥ saṣaṣṭhasvarabindukāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 12–14)
+> ![[Tantraloka Dyczkowski v11 02 - Chapter Thirty, part 1#Viveka on 30.15–16]]
+>
+> ![[Tantraloka Dyczkowski v11 02 - Chapter Thirty, part 1#Viveka on 30.16–17]]
+
 Jayaratha comments on this verse together with 30.27: see [[Tantraloka 30.027#Viveka|30.27]].
 

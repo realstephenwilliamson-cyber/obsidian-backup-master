@@ -35,6 +35,9 @@ tatsvarūpāparijñānaṃ citraṃ hi puruṣāstataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 300)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.293–294]]
+
 *Lead-in:* नन्वेवं वेदकैकस्वरूपात् पराच्छिवादन्ये वेद्यैकरूपास्तनुकरणादयो जडा यदि पाशत्वेनेष्यन्ते तदास्ताम्, कथं पुनः वेदकैकस्वभावाः पररूपाः प्रमातारोऽपि ? -- इत्याशङ्क्याह --
 
 > तदेवं पुंस्त्वमापन्ने पूर्णेऽपि परमेश्वरे ।

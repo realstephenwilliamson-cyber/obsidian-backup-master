@@ -33,6 +33,11 @@ pūrṇatvādeva bhedānāmasyāṃ sambhāvanā na hi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 474–475)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.280–281]]
+>
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.281–282]]
+
 *Lead-in:* अत एवात्र प्रचय इव भेदसंभावनापि नास्तीति न कश्चिदपि विशेषकतया भेद उक्तः -- इत्याह -
 
 > पूर्णत्वादेव भेदानामस्यां सम्भावना न हि ॥

@@ -34,6 +34,9 @@ rahasyaṃ vetti yo yatra sa muktaḥ sa ca mocakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 106–110)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.89–91]]
+
 > श्रीमद्वीरावलौ चोक्तं बोधमात्रे शिवात्मके ।
 > चित्तप्रलयबन्धेन प्रलीने शशिभास्करे ॥
 > प्राप्ते च द्वादशे भागे जीवादित्ये स्वबोधके ।

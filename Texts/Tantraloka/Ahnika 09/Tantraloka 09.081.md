@@ -31,6 +31,11 @@ na ceśapreritaḥ puṃso mala āvṛṇuyādyataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 82)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.81–82]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.81–82 (continued)]]
+
 *Lead-in:* नन्वेवं मलोऽपि स्वतन्त्रेश्वरशक्तिपेर्रितमेव चेतनमणुवर्गमावृणुयात् ? -- इत्याशङ्क्याह --
 
 > न चेशप्रेरितः पुंसो मल आवृणुयाद्यतः ॥

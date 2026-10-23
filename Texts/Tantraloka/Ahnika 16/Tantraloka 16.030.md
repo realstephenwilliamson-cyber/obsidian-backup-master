@@ -34,6 +34,9 @@ yathottaraṃ na dātavyamayogyebhyaḥ kadācana |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 15)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.29–30]]
+
 > दृष्टप्रोक्षितसंद्रष्टृप्रालब्धोपात्तयोजितः ।
 > निर्वापितो वीरपशुः सोऽष्टधोत्तरतोत्तमः ॥
 > यथोत्तरं न दातव्यमयोग्येभ्यः कदाचन ।

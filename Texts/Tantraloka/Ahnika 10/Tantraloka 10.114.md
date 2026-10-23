@@ -33,6 +33,11 @@ svaprakāśe'tra kasmiṃścidanabhyupagate sati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 367–368)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.113–114]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.114–115]]
+
 *Lead-in:* ननु परप्रकाशत्वेनैव सर्वेषां प्रकाशः सिद्ध्येदिति किं स्वप्रकाशत्वेनाप्यभ्युपगतेन ? -- इत्याशङ्क्याह -
 
 Jayaratha comments on this verse together with 10.113: see [[Tantraloka 10.113#Viveka|10.113]].

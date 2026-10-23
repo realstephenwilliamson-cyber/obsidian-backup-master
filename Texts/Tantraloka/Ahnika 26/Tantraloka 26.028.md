@@ -36,6 +36,11 @@ tataḥ suśikṣitāṃ sthānadehāntaḥśodhanatrayīm || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 380)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 26.28–29.*
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.28–29]]
+
 > यथान्यशिष्यानुष्ठानं नान्यशिष्येण बुध्यते ॥
 > तथा कुर्याद् गुरुर्गुप्तिहानिर्दोषवती यतः ।
 > देवीनां त्रितयं शुद्धं यद्वा यामलयोगतः ॥

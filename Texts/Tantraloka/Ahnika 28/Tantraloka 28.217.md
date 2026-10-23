@@ -33,6 +33,11 @@ vyāpako'pi śivaḥ svecchākḷptasaṅkocamudraṇāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 97–98)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.217]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.217–218]]
+
 *Lead-in:* ननु मरणमेव नाम किमुच्यते यस्मिन्सति शिवाभेदोऽपि भवेत् ?-- इत्याशङ्कायां प्रसङ्गापतितं मरणस्वरूपमेव तावदभिधातुं प्रतिजानीते--
 
 > तत्र प्रसङ्गान्मरणस्वरूपं ब्रूमहे स्फुटम् ।

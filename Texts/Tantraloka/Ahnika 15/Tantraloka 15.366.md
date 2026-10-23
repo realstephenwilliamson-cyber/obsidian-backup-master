@@ -31,6 +31,9 @@ itthaṃ prāṇād vyomapadaparyantaṃ cetanaṃ nijam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 225)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.366]]
+
 *Lead-in:* इत्यादिदृशा प्राणादावात्मनि शिवीभावं भावयित्वा बाह्ययागं कुर्यात्--इत्याह--
 
 > इत्थं प्राणाद् व्योमपदपर्यन्तं चेतनं निजम् ।

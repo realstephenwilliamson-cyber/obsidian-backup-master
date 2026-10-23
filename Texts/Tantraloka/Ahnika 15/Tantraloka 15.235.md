@@ -31,6 +31,9 @@ dehapuryaṣṭakāhantāvidhvaṃsādeva jāyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 142)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.235]]
+
 *Lead-in:* ननु ध्वंसो नाम अभावः, स च न दृश्यमानस्य देहस्य लक्ष्यते । तत् कथं तनुं दहेदिति प्रत्यक्षविरुद्धमुक्तम्?--इत्याशङ्क्य आह--
 
 > तेन मन्त्राग्निना दाहो देहे पुर्यष्टके तथा ।

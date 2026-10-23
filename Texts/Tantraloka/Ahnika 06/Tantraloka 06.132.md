@@ -37,6 +37,11 @@ tacca dvādaśabhirhatvā māsasaṃkhyātra labhyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 359–360)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.130–132]]
+>
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.132–134]]
+
 *Lead-in:* एतदेव विभजति -
 
 Jayaratha comments on this verse together with 6.131: see [[Tantraloka 06.131#Viveka|6.131]].

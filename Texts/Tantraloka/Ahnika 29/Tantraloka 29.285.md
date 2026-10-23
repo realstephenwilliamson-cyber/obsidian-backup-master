@@ -33,6 +33,11 @@ cakracaryāntarāle'syā vidhiḥ sañcāra ucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 408–409)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.284–285]]
+>
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.285–287]]
+
 *Lead-in:* कश्च अत्र विधिर्विवक्षितो यस्य अनेन पूर्णता स्यात्--इत्याह--
 
 Jayaratha comments on this verse together with 29.284: see [[Tantraloka 29.284#Viveka|29.284]].

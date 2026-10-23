@@ -32,6 +32,9 @@ tataḥ kumbhe'strakalaśe vahnau svātmani taṃ śiśum || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 291–292)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.472–474]]
+
 > एतत्तन्त्रे समययादिक्रमादाप्तोत्तरक्रियः ।
 > आचार्यो न पुनर्बौद्धवैष्णवादिः कदाचन ॥
 > एवं प्रसङ्गान्निर्णीतं प्रकृतं तु निरूप्यते ।

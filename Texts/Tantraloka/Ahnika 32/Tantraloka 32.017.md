@@ -31,6 +31,9 @@ triśūlaṃ tadvijānīyādyena vyomotpated budhaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 146)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.16–17]]
+
 > शून्याशून्यलये कृत्वा एकदण्डेऽनिलानलौ ॥
 > शक्तित्रितयसम्बद्धे अधिष्ठातृत्रिदैवते ।
 > त्रिशूलं तद्विजानीयाद्येन व्योमोत्पतेद् बुधः ॥

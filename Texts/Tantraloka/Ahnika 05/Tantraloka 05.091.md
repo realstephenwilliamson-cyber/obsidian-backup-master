@@ -35,6 +35,9 @@ khamadhyāsyādhikāreṇa padasthāścinmarīcayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 115–119)
+> ![[Tantraloka Dyczkowski v04 05 - Chapter Five, part 3#Viveka on 5.89–91]]
+
 > निस्तरङ्गावतीर्णा सा वृत्तिरेका शिवात्मिका ॥
 > चतुष्षड्द्विर्द्विगुणितचक्रषट्कसमुज्ज्वला ।
 > तत्स्थं(त्स्थो) विचारयेत् खं खं खस्थं खस्थेन संविशेत् ॥

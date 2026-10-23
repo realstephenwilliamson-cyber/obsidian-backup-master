@@ -31,6 +31,9 @@ aliases:
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 303–304)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.290–292]]
+
 *Lead-in:* एतच्च न्यायागमकोविदैर्गुरुभिरप्यनुमतम् -- इत्याह --
 
 Jayaratha comments on this verse together with 13.291: see [[Tantraloka 13.291#Viveka|13.291]].

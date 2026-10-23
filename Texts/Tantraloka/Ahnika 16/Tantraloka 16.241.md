@@ -35,6 +35,9 @@ nānusandhā yataḥ saikasvāntayuktākṣakalpitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 105–106)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.241]]
+
 *Lead-in:* ननु असिद्धोऽयं दृष्टान्तो यदस्य व्यापकत्वात् तत्रापि एवमनुसन्धिरस्तु ?--इत्याशङ्क्याह--
 
 > नियत्या मनसो देहमात्रे वृत्तिस्ततः परम् ।

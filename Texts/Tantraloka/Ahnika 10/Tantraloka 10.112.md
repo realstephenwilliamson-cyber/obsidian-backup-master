@@ -31,6 +31,9 @@ tasminvijñeyatāṃ prāpte svaprakāśaḥ paraḥ śivaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 367)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.110–113]]
+
 > यदा तु मेयता पुंसः कलान्तस्य प्रकल्प्यते ।
 > तदुद्भूतः कञ्चुकांशो मेयो नास्य प्रमातृता ॥
 > अतः सकलसंज्ञस्य प्रमातृत्वं न विद्यते ।

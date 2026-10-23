@@ -33,6 +33,11 @@ ityeṣā kathitā dīkṣā jananādisamanvitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 191–192)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.122]]
+>
+> ![[Tantraloka Dyczkowski v09 09 - Chapter Eighteen#Viveka on 17.122 (continued)]]
+
 *Lead-in:* एतदेव प्रथमार्धेनोपसंहरति--
 
 > इत्येषा कथिता दीक्षा जननादिसमन्विता ॥

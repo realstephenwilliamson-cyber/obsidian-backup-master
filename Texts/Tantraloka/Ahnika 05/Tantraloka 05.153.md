@@ -37,6 +37,11 @@ atastathāvidhe rūpe rūḍho rohati saṃvidi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 205)
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.152–153]]
+>
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.153–154]]
+
 *Lead-in:* अतश्च सर्वेषामेव मन्त्राणां संविदात्मन्यनुपाधौ रूपे विश्रान्तस्ताद्रूप्यमेवासादयेत् -- इत्याह -
 
 > अतस्तथाविधे रूपे रूढो रोहति संविदि ॥

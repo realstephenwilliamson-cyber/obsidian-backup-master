@@ -34,6 +34,9 @@ bhāvasyāhaṃmayasvātmatādātmyāveśyamānatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 146–147)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.14]]
+
 *Lead-in:* नन्वावाहनमेव नाम किमुच्यते यदानन्तर्येणापि पूजादि स्यात्?-- इत्याशङ्क्याह--
 
 > आवाहनं च संबोधः स्वस्वभावव्यवस्थितेः ।

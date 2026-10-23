@@ -33,6 +33,11 @@ evaṃ rasādiśabdāntatanmātreṣvapi yojanā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 262)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.281–282]]
+>
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.282]]
+
 *Lead-in:* एतदेवान्यत्रापि अतिदिशति --
 
 > एवं रसादिशब्दान्ततन्मात्रेष्वपि योजना ॥

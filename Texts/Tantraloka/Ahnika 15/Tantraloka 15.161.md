@@ -31,6 +31,9 @@ arghapātrāmbuvipruḍbhiḥ spṛṣṭaṃ sarvaṃ hi śudhyati |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 102)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.161]]
+
 *Lead-in:* ननु कथं तत्स्थेनैव जलादिना शोधनं स्यात्?--इत्याशङ्क्य आह--
 
 > अर्घपात्राम्बुविप्रुड्भिः स्पृष्टं सर्वं हि शुध्यति ।

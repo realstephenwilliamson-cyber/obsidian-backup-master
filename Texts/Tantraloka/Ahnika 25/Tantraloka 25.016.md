@@ -33,6 +33,11 @@ sacakreṣṭi bhavecchrauto na tu syātpāśavo vidhiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 363–364)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.16]]
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.16–18]]
+
 *Lead-in:* अत्र च समययादेः सर्वस्य स्वशास्त्रोक्त एव विधिर्न्याययः, न लौकिकः--इत्याह--
 
 > यस्य कस्यापि वा श्राद्धे गुरुदेवाग्नितर्पणम् ।

@@ -31,6 +31,9 @@ prāk ca kurvanvihanyeta siddhātantre taducyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 309–310)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.26–28]]
+
 > ततः प्रभृत्यसौ पूर्वो गुरुस्त्यक्ताधिकारकः ॥
 > यथेच्छं विचरेद् व्याख्यादीक्षादौ यन्त्रणोज्झितः ।
 > कुर्वन्न बाध्यते यस्माद्दीपाद्दीपवदीदृशः ॥

@@ -34,6 +34,9 @@ tena prokṣaṇasaṃsekajapādividhiṣu dhruvam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 154)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.26–28]]
+
 > अनाभासिततद्वस्तुभासनाय नियुज्यते ॥
 > मन्त्रः किं तेन तत्र स्यात्स्फुटं यत्रावभासि तत् ।
 > तेन प्रोक्षणसंसेकजपादिविधिषु ध्रुवम् ॥

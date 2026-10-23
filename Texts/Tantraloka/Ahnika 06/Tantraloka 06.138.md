@@ -37,6 +37,11 @@ divyārkābdasahasrāṇi yugeṣu caturāditaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 362–363)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.137–138]]
+>
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.138–140]]
+
 *Lead-in:* इदानीमेतदुपजीवनेनैव युगादिव्यवस्थामप्याह --
 
 Jayaratha comments on this verse together with 6.137: see [[Tantraloka 06.137#Viveka|6.137]].

@@ -35,6 +35,9 @@ prasarānantarodbhūtasaṃhārodayabhāgapi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 428–429)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.254–255]]
+
 *Lead-in:* कुत्र कथं चास्याः प्रष्ट्टत्वम् ? इत्याह --
 
 Jayaratha comments on this verse together with 1.255: see [[Tantraloka 01.255#Viveka|1.255]].

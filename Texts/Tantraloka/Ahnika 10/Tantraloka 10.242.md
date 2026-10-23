@@ -31,6 +31,9 @@ yogināṃ yogasiddhyarthaṃ saṃjñeyaṃ paribhāṣyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 449)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.242]]
+
 *Lead-in:* नन्वित्थं प्रमेयभूमौ पिण्डस्थमेव मुख्यमुक्तं स्यान्न जाग्रत् ? -- इत्याशंक्य जाग्रत एवेदं संज्ञान्तरम् -- इत्याह -
 
 > लौकिकी जाग्रदित्येषा संज्ञा पिण्डस्थमित्यपि ।

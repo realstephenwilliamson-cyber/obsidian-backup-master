@@ -34,6 +34,9 @@ ahorātraḥ prāṇacāre kathito māsa ucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 300–301)
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.74–75]]
+
 > सितासितौ दीर्घह्रस्वौ धर्माधर्मौ दिनक्षपे ॥
 > क्षीयेते यदि तद्दीक्षा व्याप्त्या ध्यानेन योगतः ।
 > अहोरात्रः प्राणचारे कथितो मास उच्यते ॥

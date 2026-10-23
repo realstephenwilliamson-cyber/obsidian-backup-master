@@ -32,6 +32,9 @@ akramāttatprasiddhyarthaṃ kramiko vidhirucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 242)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.394]]
+
 *Lead-in:* येषां पुनरेवं संवित्प्ररोहो नास्ति, तान्प्रति अयं बाह्यः क्रियाक्रमः--इत्याह--
 
 > तादृशीं ये तु नो रूढां संवित्तिमधिशेरते ।

@@ -31,6 +31,9 @@ tatraivaṃ mantradīpte'ntarmaladāhe nimajjanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 39–40)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.47]]
+
 *Lead-in:* ननु स्नानं नाम जलादिना बाह्येन आसेचनम् कथं च तेन एवं भवेत्?--इत्याशङ्क्य आह—
 
 > स्नानं च देवदेवस्य यन्मूर्त्यष्टकमुच्यते ।

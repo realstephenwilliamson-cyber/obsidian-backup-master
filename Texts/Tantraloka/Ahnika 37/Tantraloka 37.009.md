@@ -31,6 +31,9 @@ adhaḥśāstreṣu māyātvaṃ lakṣyate sargarakṣaṇāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 230)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.9]]
+
 *Lead-in:* इत्यादिदृशा ज्ञानादि उक्तमिति अत्र कस्मादसर्वज्ञप्रणीतत्वं ज्ञायते इत्युक्तम्?--इत्याशङ्क्य आह--
 
 > ऊर्ध्वशासनवस्त्वंशे दृष्ट्वापि च समुज्झिते ।

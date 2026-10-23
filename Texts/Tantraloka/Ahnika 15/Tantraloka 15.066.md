@@ -31,6 +31,9 @@ dharādeśca viśeṣo'sti vīrasādhakasaṃmataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 51–52)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.66–68]]
+
 *Lead-in:* अत्रापि एतत् प्रकारान्तरेण उक्तम्--इत्याह--
 
 Jayaratha comments on this verse together with 15.68: see [[Tantraloka 15.068#Viveka|15.68]].

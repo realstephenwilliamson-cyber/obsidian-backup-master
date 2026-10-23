@@ -31,5 +31,8 @@ bhramayedunmukhaṃ khaṇḍacandrayugvahnibhāgagam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 73–74)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.15–16]]
+
 Jayaratha comments on this verse together with 31.23: see [[Tantraloka 31.023#Viveka|31.23]].
 

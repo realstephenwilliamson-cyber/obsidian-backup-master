@@ -31,6 +31,9 @@ tyaktvā tu niyamaṃ kārmaṃ duḥkhamohaparītatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 348)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.5–7]]
+
 > नियत्यैव यदा चैष स्वरूपाच्छादनक्रमात् ॥
 > भुङ्क्ते दुःखविमोहादि तदा कर्मफलक्रमः ।
 > त्यक्त्वा तु नियमं कार्मं दुःखमोहपरीतताम् ॥

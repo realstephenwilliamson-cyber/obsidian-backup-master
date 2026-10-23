@@ -33,6 +33,11 @@ yathā caurād gṛhītvārthaṃ taṃ nigṛhṇāti bhūpatiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 319–321)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.312–313]]
+>
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.313–314]]
+
 > यथा चौराद् गृहीत्वार्थं तं निगृह्णाति भूपतिः ॥
 > वैष्णवादेस्तथा शैवं ज्ञानमाहृत्य सन्मतिः ।
 

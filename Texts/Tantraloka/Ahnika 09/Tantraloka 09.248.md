@@ -31,6 +31,9 @@ tayā vinā tu nānyeṣāṃ karaṇānāṃ sthitiryataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 236)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.248]]
+
 *Lead-in:* तदेव प्रतिविधत्ते --
 
 > उच्यते कर्तृतैवोक्ता करणत्वे प्रयोजिका ।

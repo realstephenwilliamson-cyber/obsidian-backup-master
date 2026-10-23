@@ -34,6 +34,9 @@ bhittiḥ paropajīvitvaṃ parā prajñātha tatkṛtiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 60–65)
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.47–48]]
+
 > अस्य भेदाश्च बहवो निर्भित्तः सहभित्तिकः ॥
 > सर्वगोंऽशगतः सोऽपि मुख्यामुख्यांशनिष्ठितः ।
 > भित्तिः परोपजीवित्वं परा प्रज्ञाथ तत्कृतिः ॥

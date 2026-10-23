@@ -33,6 +33,11 @@ aliases:
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 126–128)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.203–204]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.204–206]]
+
 *Lead-in:* एतदेव विभजति--
 
 Jayaratha comments on this verse together with 15.203: see [[Tantraloka 15.203#Viveka|15.203]].

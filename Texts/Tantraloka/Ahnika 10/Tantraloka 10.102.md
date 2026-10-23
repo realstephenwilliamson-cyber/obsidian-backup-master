@@ -31,6 +31,9 @@ sakalāntaramastyeva prameye'trāpi mātṛ hi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 361)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.102]]
+
 *Lead-in:* ननु वेद्यांशप्राधान्याद्धरादिवत्पुंस्यपि पाञ्चदश्यमेव न्याययं तत्कथं "आनराद्भेदयुग्धीनम्"इत्याद्युक्तम्? -- इत्याशङ्क्याह --
 
 > पाञ्चदश्यं धराद्यन्तर्निविष्टे सकलेऽपि च ।

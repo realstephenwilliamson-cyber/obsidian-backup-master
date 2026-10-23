@@ -31,6 +31,9 @@ adhame yaḥ pade tasmātko'nyaḥ syāddaivadagdhakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 333–334)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.337]]
+
 *Lead-in:* नन्विह भावना नाम मुख्या, सा चाज्ञेऽपि गुरौ क्रियमाणावश्यं फलेदिति किं तत्त्यागेन? -- इत्याशङ्क्याह --
 
 > उत्तरोत्तरमुत्कर्षलक्ष्मीं पश्यन्नपि स्थितः ।

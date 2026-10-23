@@ -36,6 +36,11 @@ tasyāpi bhedā utkṛṣṭamadhyamandādyupāyataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 68–69)
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.51–52]]
+>
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.52]]
+
 *Lead-in:* सांसिद्धिकवदस्यापि बहवो भेदाः, इत्याह --
 
 > तस्यापि भेदा उत्कृष्टमध्यमन्दाद्युपायतः ॥

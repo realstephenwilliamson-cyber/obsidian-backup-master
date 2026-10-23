@@ -33,6 +33,11 @@ tata eva vicitro'yaṃ bhuvanādividhiḥ sthitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 387–388)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.150–151]]
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.151]]
+
 *Lead-in:* एवं च भुवनादेरपि वैचित्र्यमवतिष्ठते, -- इत्याह --
 
 > तत एव विचित्रोऽयं भुवनादिविधिः स्थितः ॥

@@ -34,6 +34,9 @@ tato'pi saṃhārarase pūrṇe vighnakarīṃ svayam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 214–218)
+> ![[Tantraloka Dyczkowski v03 07 - Chapter Four, part 6#Viveka on 4.151]]
+
 *Lead-in:* एवं प्रमेयगतं संहारस्वरूपं निरूप्य, अनाख्यस्वरूपमप्याह --
 
 > ततोऽपि संहाररसे पूर्णे विघ्नकरीं स्वयम् ।

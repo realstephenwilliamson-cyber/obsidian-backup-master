@@ -33,6 +33,11 @@ guruḥ kāraṇamatroktaṃ tatpatnī sahakāriṇī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 94–95)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.207–209]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.209–210]]
+
 *Lead-in:* तदेव विभजति--
 
 > गुरुः कारणमत्रोक्तं तत्पत्नी सहकारिणी ॥

@@ -31,5 +31,8 @@ vyākhyātā tena tatrāpi viśeṣāddevatārcanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 166)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.368–370]]
+
 Jayaratha comments on this verse together with 28.370: see [[Tantraloka 28.370#Viveka|28.370]].
 

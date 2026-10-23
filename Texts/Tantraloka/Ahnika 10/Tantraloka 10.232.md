@@ -31,6 +31,9 @@ abhidhākaraṇībhūtāḥ śabdāḥ kiṃ cābhidhā pramā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 442–443)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.232–233]]
+
 *Lead-in:* एतदेव प्रपञ्चयति --
 
 Jayaratha comments on this verse together with 10.233: see [[Tantraloka 10.233#Viveka|10.233]].

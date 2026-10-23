@@ -31,6 +31,9 @@ tāṃ citiṃ paśya kāyasthāṃ kālānalasamaprabhām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 351)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.182]]
+
 *Lead-in:* ननु विपश्चितोऽपि सति देहादौ संविन्मात्रस्थितं देवीचक्रं कथं तर्पणीयम्--इत्याह--
 
 > यत्र सर्वे लयं यान्ति दह्यन्ते तत्त्वसञ्चयाः ।

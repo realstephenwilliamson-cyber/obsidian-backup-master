@@ -281,7 +281,7 @@ for prayer is equal to all precepts.
 דצלותא שקילא ככל פקודין ^51a-25
 
 [^1]: *akh*
-[^2]: *BT* Pesaḥim 5a
+[^2]: *BT* [[Pesachim 5#5a|Pesaḥim 5a]]
 [^3]: *yad*
 [^4]: 14
 [^5]: *aur*
@@ -307,9 +307,9 @@ for prayer is equal to all precepts.
 [^25]: **֦**
 [^26]: *ravi’a*
 [^27]: *darga*
-[^28]: *BT* Megillah 29a
+[^28]: *BT* [[Megillah 29#29a|Megillah 29a]]
 [^29]: **֗**
 [^30]: ‘hell’
-[^31]: *BT* Rosh HaShanah 23b
+[^31]: *BT* [[Rosh Hashanah 23#23b|Rosh HaShanah 23b]]
 [^32]: *keseh*
 [^33]: *it-kasya*

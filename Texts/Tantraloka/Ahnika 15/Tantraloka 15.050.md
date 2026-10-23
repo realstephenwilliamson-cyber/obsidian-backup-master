@@ -31,6 +31,9 @@ utthāyāśeṣasajjyotirdevatāgarbhamambare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 43)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.49–51]]
+
 > तत्रेष्टमन्त्रहृदयो गोरजोऽन्तः पदत्रयम् ।
 > गत्वागत्य भजेत्स्नानं पार्थिवं धृतिदायकम् ॥
 > अस्त्रमन्त्रितमृद्धूतमलः पञ्चाङ्गमन्त्रितैः ।

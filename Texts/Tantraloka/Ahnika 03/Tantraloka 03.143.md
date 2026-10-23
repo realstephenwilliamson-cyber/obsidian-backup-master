@@ -35,6 +35,9 @@ visargastasya nāthasya kaulikī śaktirucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 254)
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.143]]
+
 *Lead-in:* इत्याद्यन्यथोक्तम्, इति किमेतत् ? इत्याशङ्क्याह --
 
 > अनुत्तरं परं धाम तदेवाकुलमुच्यते ।

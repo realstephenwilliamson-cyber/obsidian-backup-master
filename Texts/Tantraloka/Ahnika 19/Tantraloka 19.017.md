@@ -34,6 +34,9 @@ cintayitvāmunā tasya vedanaṃ bodhanaṃ bhramam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 216–217)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.17–20]]
+
 *Lead-in:* अत्रैव प्राधान्येनापि पक्षान्तरमाह--
 
 Jayaratha comments on this verse together with 19.20: see [[Tantraloka 19.020#Viveka|19.20]].

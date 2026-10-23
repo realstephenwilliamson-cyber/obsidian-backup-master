@@ -31,6 +31,9 @@ evaṃ nānāvidhānbhedānāśrityaikaiva yā sthitā |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 165–166)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.63]]
+
 *Lead-in:* एतदुपसंहरन् वीर्यवन्दनमवतारयति--
 
 > एवं नानाविधान्भेदानाश्रित्यैकैव या स्थिता ।

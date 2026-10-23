@@ -50,7 +50,7 @@ But as for the soul itself, it sometimes happens that the soul of an infinitely 
 
 [^1]: [[Job 31#^31-2|Job 31:2]]; cf. also [[Psalms 016#^16-5|Psalms 16:5]]; [[Psalms 073#^73-26|73:26]]; [[Jeremiah 10#^10-16|Jeremiah 10:16]].
 [^2]: [[Torah 01 - Bereshit#^2-7|Genesis 2:7]]; comp. Nachmanides’ Commentary, ad loc.
-[^3]: Liturgy, Morning Prayer. *Berachot* 60b.
+[^3]: Liturgy, Morning Prayer. [[Berakhot 60#60b|*Berachot* 60b]].
 [^4]: Cf. *Bereishit Rabbah* 1:4.
 [^5]: [[Torah 13 - Shemot#^4-22|Exodus 4:22]].
 [^6]: [[Torah 47 - Re'eh#^14-1|Deuteronomy 14:1]].
@@ -68,7 +68,7 @@ But as for the soul itself, it sometimes happens that the soul of an infinitely 
 [^18]: A play on the word עקבתא, “soles.”
 [^19]: Cf. *Zohar* [[Zohar 3.06 - Parashat Va-Yiggash#^z1-206a|I:206a]]; [[Zohar 5.05 - Parashat Terumah#^z2-141b|II:141b]], etc.; also *Shnei Luchot HaBrit* I, 9b.
 [^20]: The doctrine that all souls are related in that they all come from the same source was given much emphasis by the founder of Chasidut, the Baal Shem Tov, and was a major issue of contention between the protagonists and antagonists of Chasidut. The author elaborates on it in ch. 32 (לב).
-[^21]: *Niddah* 31a.
+[^21]: [[Niddah 31#31a|*Niddah* 31a]].
 [^22]: [[Psalms 104#^104-24|Psalms 104:24]].
 [^23]: [[Torah 51 - Nitzavim#^30-20|Deuteronomy 30:20]].
 [^24]: *Ketuvot* 111b.

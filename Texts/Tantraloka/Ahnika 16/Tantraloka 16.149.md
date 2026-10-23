@@ -34,6 +34,9 @@ caturaṇḍavidhistvādiśabdeneha pragṛhyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 67)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.147–150]]
+
 > चतुर्षु रसवेदे द्वाविंशतौ द्वादशस्वथ ॥
 > निवृत्त्याद्याश्चतस्रः स्युर्व्याप्त्री स्याच्छान्त्यतीतिका ।
 > द्वितीयस्यां कलायां तु द्वादश द्वादशांगुलान् ॥

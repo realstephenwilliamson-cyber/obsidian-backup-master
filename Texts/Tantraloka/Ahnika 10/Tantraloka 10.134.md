@@ -31,6 +31,9 @@ svabodhāvasare tāvadbhotsyate layakevalī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 379)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.133–135]]
+
 > श्रूयतां संविदैकात्म्यतत्त्वेऽस्मिन्संव्यवस्थिते ॥
 > जडेऽपि चितिरस्त्येव भोत्स्यमाने तु का कथा ।
 > स्वबोधावसरे तावद्भोत्स्यते लयकेवली ॥

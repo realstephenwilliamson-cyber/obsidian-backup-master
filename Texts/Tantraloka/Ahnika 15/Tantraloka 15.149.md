@@ -31,6 +31,9 @@ aśvaḥ saṃgrāmarūḍho'pi tāṃ śikṣāṃ nātivartate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 97)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.149–151]]
+
 *Lead-in:* ननु यजिक्रियायां कारकाणामेवमभ्यस्यमानः शिवाव्यतिरेकः कथं लौकिक्यां गमनादिक्रियायामपि स्यात्?--इत्याशङ्कां दृष्टान्तप्रदर्शनेन उपशमयितुमाह--
 
 > यथा हि वाहकटकभ्रमस्वातन्त्र्यमागतः ।

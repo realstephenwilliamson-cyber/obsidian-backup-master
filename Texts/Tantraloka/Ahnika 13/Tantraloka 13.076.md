@@ -31,6 +31,9 @@ vaicitrī bhuktametena kalpametena tu dvayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 173)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.76–77]]
+
 *Lead-in:* स्यात् पुनरयं विशेषो यदि कर्मादित्रितयान्यतरस्य कस्यचिदादिमत्त्वं भवेत् यदवधिकतयाऽनेन कल्पं भुक्तमनेन तु कल्पद्वयम् अत एव च चिरक्षिप्रलक्षणात्प्रतिनियताद्भोगक्रमात्कर्मणामपि साम्यम् -- इत्याह --
 
 > आदिमत्त्वे हि कस्यापि वर्गादस्माद्भवेदियम् ।

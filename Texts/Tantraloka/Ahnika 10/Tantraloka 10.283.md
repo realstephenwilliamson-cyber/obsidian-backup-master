@@ -33,6 +33,11 @@ turyātīte bheda ekaḥ satatodita ityayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 475–477)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.283]]
+>
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.283–284]]
+
 *Lead-in:* किमत्र प्रमाणम् ? -- इत्याशङ्क्याह --
 
 > न ह्येक एव भवति भेदः क्वचन कश्चन ।

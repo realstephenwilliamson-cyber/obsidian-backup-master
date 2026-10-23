@@ -303,7 +303,7 @@ the phylacteries of the head.
 [^5]: dreaming
 [^6]: *ḥelma*
 [^7]: Aleph
-[^8]: *BT* Ḥullin 91b
+[^8]: *BT* [[Chullin 91#91b|Ḥullin 91b]]
 [^9]: ’olim
 [^10]: *yordim*
 [^11]: א
@@ -312,14 +312,14 @@ the phylacteries of the head.
 [^14]: *it-gazrat*
 [^15]: *ge-zeirah*
 [^16]: *Mishnah* Avot 4:13
-[^17]: *BT* Ḥagigah 14b
+[^17]: *BT* [[Chagigah 14#14b|Ḥagigah 14b]]
 [^18]: Beiyt
 [^19]: Dalet
 [^20]: Vav
 [^21]: *su-aḥ*
 [^22]: *siḥah*
-[^23]: *BT* Berakhot 26b
-[^24]: See *BT* Berakhot 27b
+[^23]: *BT* [[Berakhot 26#26b|Berakhot 26b]]
+[^24]: See *BT* [[Berakhot 27#27b|Berakhot 27b]]
 [^25]: *reshut*
 [^26]: *reshut*
 [^27]: phylacteries

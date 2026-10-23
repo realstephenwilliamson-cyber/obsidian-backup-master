@@ -33,6 +33,11 @@ anena nayabījena manye vaicitryakāraṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 173)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.76–77]]
+>
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.77–78]]
+
 *Lead-in:* एवं च न केवलमियदेव अवद्यं यावदन्यदपि -- इत्याह --
 
 > अनेन नयबीजेन मन्ये वैचित्र्यकारणम् ॥

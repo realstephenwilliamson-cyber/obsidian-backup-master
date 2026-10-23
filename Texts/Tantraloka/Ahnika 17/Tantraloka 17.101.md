@@ -34,6 +34,9 @@ pūrṇāṃ kṣipaṃstattvajālaṃ dhyāyedbhārūpakaṃ sṛtam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 185)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.101]]
+
 *Lead-in:* कथं चात्र शुद्धतत्त्वसृष्टिं कुर्यात्?--इत्याशङ्क्याह--
 
 > अभिन्नाच्छिवसंबोधजलधेर्युगपत्स्फुरत् ।

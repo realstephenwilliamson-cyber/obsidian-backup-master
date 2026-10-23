@@ -34,6 +34,9 @@ dehaṃ yatkurute saṃvitpūrṇastenaiṣa bhāsate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 230–231)
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.14]]
+
 *Lead-in:* नन्वेवमुल्लसिताया अस्याः किं प्रयोजनम् ? -- इत्याशङ्क्याह --
 
 > सा प्राणवृत्तिः प्राणाद्यै रूपैः पञ्चभिरात्मसात् ।

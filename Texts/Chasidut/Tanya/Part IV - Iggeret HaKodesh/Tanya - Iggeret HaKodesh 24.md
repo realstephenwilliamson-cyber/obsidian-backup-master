@@ -38,10 +38,10 @@ And he who will disobey wittingly shall sit on the ground and beg of three peopl
 
 Also, (this applies) only when they speak deliberately, with contempt, but not to one who forgets, or unwittingly uttered some words, for he does not require a release at all; “And G–d who is righteous examines the hearts and the kidneys.”[^26] Be Beneficient, O L–rd, to the good and to those who are upright in their hearts.[^27]
 
-[^1]: The inclination toward evil.—[The Hebrew passage is a play on words (יוצרי–יצרי), cf. *Berachot* 61a; *Rut Rabbah* 3:1.]
+[^1]: The inclination toward evil.—[The Hebrew passage is a play on words (יוצרי–יצרי), cf. [[Berakhot 61#61a|*Berachot* 61a]]; *Rut Rabbah* 3:1.]
 [^2]: Par. *Eduyot* 5:6.
-[^3]: The Synagogue; cf. *Megillah* 19a.
-[^4]: [[Torah 29 - Achrei Mot#^16-16|Leviticus 16:16]]; cf. *Yoma* 56b.
+[^3]: The Synagogue; cf. [[Megillah 19#19a|*Megillah* 19a]].
+[^4]: [[Torah 29 - Achrei Mot#^16-16|Leviticus 16:16]]; cf. [[Yoma 56#56b|*Yoma* 56b]].
 [^5]: He who focuses his prayers on his wants and needs.
 [^6]: See above, Epistle 15, note 24, for the connotation of the word “chariot.” This notion applies to the realm of impurity as well as to the realm of holiness; see above, Epistle 2, note 16.
 [^7]: The principal aspect and source of the forces of evil; see below, note 9; *Torah Or*, *Hosafot Vayechi* 102c.
@@ -50,14 +50,14 @@ Also, (this applies) only when they speak deliberately, with contempt, but not t
 [^10]: [[Proverbs 12#^12-8|Proverbs 12:8]].
 [^11]: The textual writ, as opposed to the textual reading (cf. above, Epistle 19).
 [^12]: Thus reading: man praises (or prays) according to his intellect. The content of one’s prayer reflects one’s intellect and, correspondingly, the extent of revelation elicited by that prayer; cf. above, Epistle 12, and note 38, ad loc., for a similar interpretation.
-[^13]: See *Berachot* 58a; *Zohar* [[Zohar 3.05 - Parashat Mi-Qets#^z1-197a|I:197a]].
+[^13]: See [[Berakhot 58#58a|*Berachot* 58a]]; *Zohar* [[Zohar 3.05 - Parashat Mi-Qets#^z1-197a|I:197a]].
 [^14]: Brackets appear in the text.
 [^15]: For the allegory following, see *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-131a|II:131a]]-b (*Zohar* I:256a, sect. 22).
 [^16]: Par. [[Psalms 049#^49-13|Psalms 49:13]], 21.—I.e., irrational.
 [^17]: [[Proverbs 03#^3-35|Proverbs 3:35]].
-[^18]: *Berachot* 33a.
+[^18]: [[Berakhot 33#33a|*Berachot* 33a]].
 [^19]: *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-131b|II:131b]]; cf. *Zohar* I:256a.
-[^20]: Par. *Bava Kama* 84b.
+[^20]: Par. [[Bava Kamma 84#84b|*Bava Kama* 84b]].
 [^21]: See references cited above, note 19, and commentary *Mikdash Melech*, ad loc.; *Sefer Chassidim*, sect. 18. See also *Mikdash Melech* on *Zohar* [[Zohar 7.08 - Parashat Aharei Mot#^z3-75b|III:75b]].
 [^22]: Who leads the congregation in prayer.
 [^23]: Prayer of sanctification of G–d’s Name.

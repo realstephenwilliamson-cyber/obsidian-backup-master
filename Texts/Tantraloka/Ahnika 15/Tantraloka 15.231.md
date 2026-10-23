@@ -31,6 +31,9 @@ tanmadhyasthitanāthasya grahītuṃ dakṣiṇaṃ mahaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 138–139)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.230–231]]
+
 *Lead-in:* इति युक्तमुक्तम्--इत्याह--
 
 > तन्मध्यस्थितनाथस्य ग्रहीतुं दक्षिणं महः ॥

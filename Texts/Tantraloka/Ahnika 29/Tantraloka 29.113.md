@@ -33,6 +33,11 @@ anucakradevatātmakamarīciparipūraṇādhigatavīryam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 306–307)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.112–113]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.113–114]]
+
 *Lead-in:* ननु एवमनुचक्रदेवीनां मुख्यचक्रविश्रान्त्या अनयोः किं स्यात्?-- इत्याशङ्क्य आह--
 
 > अनुचक्रदेवतात्मकमरीचिपरिपूरणाधिगतवीर्यम् ॥

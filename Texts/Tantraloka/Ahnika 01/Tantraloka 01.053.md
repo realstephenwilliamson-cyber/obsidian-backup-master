@@ -34,6 +34,9 @@ yatkuḍyasadṛśī neyaṃ dhīravastvetadityapi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 177–178)
+> ![[Tantraloka Dyczkowski v01 06 - Chapter One, part 5#Viveka on 1.53]]
+
 *Lead-in:* एवं च न केवलं नीलादेर्ज्ञेयस्य भावस्य प्रकाशमानत्वात्प्रकाशात्मकः शिवस्तत्त्वं यावत्तदभावस्यापि -- इत्याह --
 
 > अवस्तुतापि भावानां चमत्कारैकगोचरा ।

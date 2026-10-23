@@ -31,6 +31,9 @@ ghaṭādivatkāryamiti hetureko'sya sā niśā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 123–124)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.3–4]]
+
 > तत्रेदं दृश्यमानं सत्सुखदुःखविमोहभाक् ।
 > विषमं सत्तथाभूतं समं हेतुं प्रकल्पयेत् ॥
 > सोऽव्यक्तं तच्च सत्त्वादिनानारूपमचेतनम् ।

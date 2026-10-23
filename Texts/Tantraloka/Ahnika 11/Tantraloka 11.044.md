@@ -34,6 +34,9 @@ padaṃ hyavagamātmatvasamāveśāttaducyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 43–44)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.44–45]]
+
 *Lead-in:* तदाह -
 
 Jayaratha comments on this verse together with 11.45: see [[Tantraloka 11.045#Viveka|11.45]].

@@ -295,7 +295,7 @@ a hand that writes, from the aspect
 יד \*כותבת מסטרא ^35b-19
 
 [^1]: *Rosh Ha-Shanah*
-[^2]: *BT* Sotah 21a
+[^2]: *BT* [[Sotah 21#21a|Sotah 21a]]
 [^3]: *bezeq*
 [^4]: *ru-aḥ*
 [^5]: *ru-aḥ*
@@ -306,8 +306,8 @@ a hand that writes, from the aspect
 [^10]: bed
 [^11]: *’eres*
 [^12]: ten
-[^13]: *BT* Megillah 23b
-[^14]: *BT* Shabbat 12a
+[^13]: *BT* [[Megillah 23#23b|Megillah 23b]]
+[^14]: *BT* [[Shabbat 12#12a|Shabbat 12a]]
 [^15]: *’eres*
 [^16]: *phe-’amayikh*
 [^17]: *pe-’amym*

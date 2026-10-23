@@ -25,7 +25,7 @@ W e have learned a considerable amount about the early character of binitarian h
 
 PASSAGE 4 
 
-Genesis Rabba 1:14, b. Hag. 12a, Tan. 8 
+Genesis Rabba 1:14, b. [[Chagigah 12#12a|Hag. 12a]], Tan. 8 
 
 *the heavens and °T the earth* (Gen. 1:1) R. Ishmael asked R. Akiba: 1 Since you have studied twenty-two years under Nahum of Gimzo \[who formulated the principle that\] *°K* and *RQ* are limitations while and *GM* are extensions, \[tell me\], what of the[^3]Γ written here? Said he to him: "If it stated 'In the beginning created God heaven and earth' 2 we might have maintained that heaven and earth too are divine." Thereupon he cited to him. 3 *"For it is no empty matter for you* (Dt. 32:47)" and if it is empty, it is so on your account—because you are unable to interpret—rather: 
 

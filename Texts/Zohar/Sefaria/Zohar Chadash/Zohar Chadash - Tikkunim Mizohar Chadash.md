@@ -13,7 +13,7 @@ section: "Tikkunim Mizohar Chadash"
 
 [[Zohar Chadash (Sefaria)]]
 
-**1** Three people are especially beloved by G-d: One who does not lose control of his temper, one who does not become drunk, and one who does not demand his full rights. (Pesachim 113a)  
+**1** Three people are especially beloved by G-d: One who does not lose control of his temper, one who does not become drunk, and one who does not demand his full rights. ([[Pesachim 113#113a|Pesachim 113a]])  
 בְּרֵאשִׁית בָּרָא אֱלֹהִים. תָּא חֲזֵי תְּרֵין תֵּיבִין אִלֵּין אִתְפְּלָגוּ לִתְרֵין סִטְרִין כָּל חַד. בְּרֵאשִׁי"ת בָּרָא שִׁי"ת אֱלֹהִים מִי אֵלֶּה. מַאי שִׁית. אִלֵּין שִׁית סִטְרִין דְּמַשְׁכְּנָא דְּאִיהוּ כְּגַוְנָא דְּשָׁמַיִם וָאָרֶץ. וּבְגִינַיְהוּ אִתְּמַר אֵלֶּה פִּקּוּדֵי הַמִּשְׁכָּן. וְדָא הוּא מִי אֵלֶּה. הָדָא הוּא דִּכְתִיב (ישעיהו מ׳:כ״ו) שְׂאוּ מָרוֹם עֵינֵיכֶם וּרְאוּ מִי בָּרָא אֵלֶּה. וּתְרֵין מִשְׁכָּנוֹ' אִנּוּן דְּאִתְרְמִיזוּ בְּהַאי קְרָא, אֵלֶּה פִּקּוּדֵי הַמִּשְׁכָּן מִשְׁכַּן הָעֵדוּת. מִשְׁכָּן עִלָּאָה. מִי, וְדָא עָלְמָא עִלָּאָה מִשְׁכָּן תַּתָּאָה. ^1
 
 **2** One who carefully guards himself against giving in to anger and avoids any arguments, merits that his home is compared to the holy Temple. (Zohar)  

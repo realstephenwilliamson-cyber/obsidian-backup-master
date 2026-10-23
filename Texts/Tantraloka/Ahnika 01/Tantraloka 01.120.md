@@ -35,5 +35,8 @@ taṃ bījabhāvamāgatya saṃvidaṃ sphuṭayanti tām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 284–286)
+> ![[Tantraloka Dyczkowski v01 08 - Chapter One, part 7#Viveka on 1.117–122]]
+
 Jayaratha comments on this verse together with 1.122: see [[Tantraloka 01.122#Viveka|1.122]].
 

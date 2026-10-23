@@ -31,6 +31,9 @@ jñānine yogine vāpi yo dadāti karoti vā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 37–38)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.64]]
+
 *Lead-in:* तदेव पठति--
 
 Jayaratha comments on this verse together with 28.71: see [[Tantraloka 28.071#Viveka|28.71]].

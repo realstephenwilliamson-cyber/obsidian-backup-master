@@ -31,6 +31,9 @@ tatsaṃyogāccakrayukto yāgaḥ sarvaphalapradaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 44–45)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.79–82]]
+
 > केवलो यामलो मिश्रश्चक्रयुग्वीरसङ्करः ।
 > केवलः केवलैरेव गुरुभिर्मिश्रितः पुनः ॥
 > साधकाद्यैः सपत्नीकैर्यामलः स द्विधा पुनः ।

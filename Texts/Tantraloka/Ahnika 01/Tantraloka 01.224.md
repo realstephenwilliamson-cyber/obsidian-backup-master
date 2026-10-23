@@ -35,6 +35,9 @@ adhovyāptuḥ śivasyaiva sa prakāśo vyavasthitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 400–401)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.224–225]]
+
 *Lead-in:* न केवलमेतदद्वैतशास्त्रेषु उक्तं यावत् द्वैतशास्त्रेष्वपि -- इत्याह - -
 
 Jayaratha comments on this verse together with 1.225: see [[Tantraloka 01.225#Viveka|1.225]].

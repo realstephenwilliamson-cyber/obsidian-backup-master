@@ -34,6 +34,9 @@ svayaṃ tu teṣāṃ tattādṛk kiṃ brūmaḥ kila tānprati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 12–13)
+> ![[Tantraloka Dyczkowski v02 02 - Chapter Two, part 1#Viveka on 2.3]]
+
 *Lead-in:* नन्वत्र प्रसज्यप्रतिषेधपक्षावलम्बनेनाविद्यमानोपायत्वमेव, इति मुख्योऽर्थः कस्मान्न व्याख्यातः? -- इत्याशङ्क्याह --
 
 > अनुपायमिदं तत्त्वमित्युपायं विना कुतः ।

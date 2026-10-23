@@ -34,6 +34,9 @@ vijñātatanmukhāyātaśaktipātāṃśadharmaṇaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 251–252)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.9–11]]
+
 > बन्धुभार्यासुहृत्पुत्रगाढाभ्यर्थनयोगतः ॥
 > स्वयं तद्विषयोत्पन्नकरुणाबलतोऽपि वा ।
 > विज्ञाततन्मुखायातशक्तिपातांशधर्मणः ॥

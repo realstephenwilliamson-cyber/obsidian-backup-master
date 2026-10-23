@@ -34,6 +34,9 @@ saṃviddevī svatantratvātkalpite'haṃkṛtātmani || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 233–235)
+> ![[Tantraloka Dyczkowski v03 08 - Chapter Four, part 7#Viveka on 4.163]]
+
 *Lead-in:* एतदेव प्रकृते विश्रमयति --
 
 > तेनेन्द्रियौघमार्तण्डमण्डलं कलयेत्स्वयम् ।

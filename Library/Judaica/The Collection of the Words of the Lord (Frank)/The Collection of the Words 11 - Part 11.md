@@ -507,7 +507,7 @@ P. 118 426. “miał wór z dukatami” rd “miał trzos z dukatami”; “Nabr
 
 P. 122 439. “lecz pomoc widzę” rd “lecz pomoc waszą”
 
-P. 123 446a “Gittin 68” should be “Gittin 68a”
+P. 123 446a “Gittin 68” should be “[[Gittin 68#68a|Gittin 68a]]”
 
 P. 124 449a should be [[Psalms 072#^72-8|Ps 72.8]] P. 125 450. Rd *wehi rehauko mimeni*
 
@@ -553,7 +553,7 @@ P. 157 649. Rd “*Aiszer osissi….betachtias hoorez*”
 
 P. 158 655a D has this wrong. The quote comes from [[Song of Songs 3#^3-4|Song 3.4]]
 
-657c Por. Sanhedrin 72 should rd Por. Sanhedrin 70a P. 160 671a Rdz 29,6 P. 161 674a fragment 428, 1158 P. 163 685a por. Sot 49b P. 164 693b wrong p., wrong cite anyway P. 166 701b Can’t find what D means by this cite P. 168 708c Sanh 97a
+657c Por. Sanhedrin 72 should rd Por. [[Sanhedrin 70#70a|Sanhedrin 70a]] P. 160 671a Rdz 29,6 P. 161 674a fragment 428, 1158 P. 163 685a por. Sot 49b P. 164 693b wrong p., wrong cite anyway P. 166 701b Can’t find what D means by this cite P. 168 708c Sanh 97a
 
 708d See above P. 170 716a traktat Chagiga 14b
 
@@ -603,7 +603,7 @@ P. 41 947a Por. Wj 1,1
 
 958c ???
 
-P. 44 965a Sanhedrin 98b P. 45 970a Misznajot P. 48 978b ??? [[Isaiah 21#^21-12|Isa 21.12]]
+P. 44 965a [[Sanhedrin 98#98b|Sanhedrin 98b]] P. 45 970a Misznajot P. 48 978b ??? [[Isaiah 21#^21-12|Isa 21.12]]
 
 P. 50 988a Jer 31,14 P. 51 993. Chocme rabse
 

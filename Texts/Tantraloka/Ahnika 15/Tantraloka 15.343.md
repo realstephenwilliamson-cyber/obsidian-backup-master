@@ -33,6 +33,11 @@ tā evānyonyātmakabhedāvacchedanājihāsutayā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 211–212)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.342–343]]
+>
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.343–344]]
+
 *Lead-in:* ननु एवमिच्छाज्ञानक्रियाणामासनतया आधारत्वमेव उक्तं स्यात्, आधेयस्तु किं तदतिरिक्तः पूज्यतया उपगन्तव्यो न वा ?--इत्याशङ्क्य आह--
 
 > ता एवान्योन्यात्मकभेदावच्छेदनाजिहासुतया ॥

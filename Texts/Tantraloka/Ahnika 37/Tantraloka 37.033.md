@@ -40,6 +40,13 @@ vaicitryavarjaṃ nahi ramyabhāvaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 240–241)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 37.34–35.*
+>
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.32–33]]
+>
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.34–35]]
+
 *Lead-in:* ग्रन्थकृतां साङ्गोपाङ्गः परिचयः इदानीमेतद्ग्रन्थाभिधाने स्वात्मनि योग्यतां प्रकाशयितुं सातिशयत्वप्रयोजकीकारेण देशवंशदैशिकादिक्रममुट्टङ्क्य स्वेतिवृत्तमभिधत्ते--
 
 > षट्त्रंशता तत्त्वबलेन सूता

@@ -36,6 +36,11 @@ etattattvāntare yatpuṃvidyāśaktyātmakaṃ trayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 364–367)
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.186–187]]
+>
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.187–188]]
+
 *Lead-in:* तमेव भेदं निरूपयति --
 
 > एतत्तत्त्वान्तरे यत्पुंविद्याशक्त्यात्मकं त्रयम् ॥

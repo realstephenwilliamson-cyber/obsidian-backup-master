@@ -37,6 +37,11 @@ vidhirniyogastryaṃśā ca bhāvanā codanātmikā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 291–295)
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.125–127]]
+>
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.127]]
+
 *Lead-in:* ननु विधेर्नियोगभावनाद्यात्मतया बहुविधत्वमुक्तम्, स्वात्मा पुनः कस्य विधेर्विषयतां न भजते ? इत्याशङ्क्याह --
 
 > विधिर्नियोगस्त्र्यंशा च भावना चोदनात्मिका ॥

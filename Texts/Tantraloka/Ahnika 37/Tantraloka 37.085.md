@@ -36,6 +36,11 @@ tyabhinavaparituṣṭo lokamātmīkuruṣva || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 267)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.85]]
+>
+> ![[Tantraloka Dyczkowski v11 12 - Chapter Thirty-Seven, part 2, and Appendices#Viveka on 37.85 (continued)]]
+
 *Lead-in:* किं वा प्रादेशिकवैदुष्यशालिविद्वज्जनाभ्यर्थनया, शिव एव अत्र श्रोता भविष्यति--इत्याह--
 
 > इदमभिनवगुप्तप्रोम्भितं शास्त्रसारं

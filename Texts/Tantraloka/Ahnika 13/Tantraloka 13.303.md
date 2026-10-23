@@ -31,6 +31,9 @@ jñānācārādibhedena hyuttarādharatā vibhuḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 314)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.303]]
+
 *Lead-in:* इत्याद्युक्त्या हेतुतः फलतो वा न कश्चिद्विशेषः, तत्कथमिदमुत्तरमिदं चाधरशास्त्रमित्युक्तम्? -- इत्याशङ्क्याह -
 
 > ज्ञानाचारादिभेदेन ह्युत्तराधरता विभुः ।

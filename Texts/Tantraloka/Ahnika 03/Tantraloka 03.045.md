@@ -35,6 +35,9 @@ tadādhāroparāgeṇa bhānti khaḍge mukhādivat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 119–120)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.45–46]]
+
 *Lead-in:* ननु संवित्तेरनतिरिक्तमेव चेद्विश्वं तत्संवित्त्यात्मकत्वात्तस्य तद्धर्मधर्मित्वमपि स्यात् ? सत्यम् -- अस्त्येव तत्, इति बाह्यदृष्टान्तपुरःसरमाह --
 
 Jayaratha comments on this verse together with 3.46: see [[Tantraloka 03.046#Viveka|3.46]].

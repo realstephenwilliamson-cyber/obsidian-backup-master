@@ -36,6 +36,9 @@ sadyo'nugṛhṇātu ca tattvadṛṣṭyā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 267)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.84]]
+
 > त्सङ्कोचहार्दनलिनीघटितोज्ज्वलश्रीः ।
 > तं लुम्पकः परिचचार समुद्यमेषु
 > साधुः समावहति हन्त करावलम्बम् ॥

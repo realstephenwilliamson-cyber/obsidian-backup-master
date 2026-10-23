@@ -35,6 +35,9 @@ aliases:
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 206–207)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.181–183]]
+
 > मधु मधुकृतः कदम्बं केसरजालानि यद्वदावृणुते ॥
 > तद्वत्ते शिवरुद्रा ब्रह्माण्डमसंख्यपरिवाराः ।
 > शराष्टनियुतं कोटिरित्येषां सन्निवेशनम् ॥

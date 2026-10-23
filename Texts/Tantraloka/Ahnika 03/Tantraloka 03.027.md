@@ -34,6 +34,9 @@ yathādarśe tathā kenāpyuktamākarṇaye tviti || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 101)
+> ![[Tantraloka Dyczkowski v02 04 - Chapter Three, part 1#Viveka on 3.27]]
+
 *Lead-in:* न केवलं वस्तुभूतमुख्यशब्दजातीयत्वाभावात् अत्र प्रतिबिम्बत्वं यावद्रूपप्रतिबिम्बजातीयत्वादपि -- इत्याह --
 
 > इदमन्यस्य वेद्यस्य रूपमित्यवभासते ।

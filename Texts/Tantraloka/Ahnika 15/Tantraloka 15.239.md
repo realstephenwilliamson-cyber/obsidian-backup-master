@@ -33,6 +33,11 @@ tato navātmadevena nyāsastattvodayātmakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 144–147)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.238–239]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.239–244]]
+
 *Lead-in:* इदानीं विशेषन्यासवैचित्र्यमभिधातुमाह--
 
 Jayaratha comments on this verse together with 15.238: see [[Tantraloka 15.238#Viveka|15.238]].

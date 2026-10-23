@@ -33,6 +33,11 @@ sarvatra ca parvadine kuryādanuyāgacakramatiśayataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 23–24)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.39–40]]
+>
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.40–42]]
+
 *Lead-in:* ननु इह पूजा नाम आदियागात् प्रभृति अनुयागपर्यन्तमुच्यते, सा च बहुकालनिर्वर्त्येति कथमसौ इयति समये पर्वसु सिद्ध्येत् ?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 28.39: see [[Tantraloka 28.039#Viveka|28.39]].

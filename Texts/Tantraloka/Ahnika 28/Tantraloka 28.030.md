@@ -31,6 +31,11 @@ tatsarvaṃ parvadivaseṣvayatnenaiva siddhyati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 19–20)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 28.34–35.*
+>
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.34–35]]
+
 > उक्तं च तत्र तेनेह कुले सामान्यतेत्यलम् ॥
 > यस्य यद्धृदये देवि वर्तते दैशिकाज्ञया ।
 > मन्त्रो योगः क्रमश्चैव पूजनात् सिद्धिदो भवेत् ॥

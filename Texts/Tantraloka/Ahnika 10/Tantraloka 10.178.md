@@ -31,6 +31,9 @@ prakṣobho yastadevoktaṃ śaktīnāṃ saptakaṃ sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 401–403)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.178–181]]
+
 *Lead-in:* एवं प्रमातृसप्तकं निर्दिश्य, सामान्येन तच्छक्तिसप्तकं निर्देष्टुमाह -
 
 Jayaratha comments on this verse together with 10.180: see [[Tantraloka 10.180#Viveka|10.180]].

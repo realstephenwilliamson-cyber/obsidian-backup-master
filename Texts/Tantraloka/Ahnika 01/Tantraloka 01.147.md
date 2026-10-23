@@ -34,6 +34,9 @@ bhāti bhāvaḥ sphuṭastadvatkeṣāmapi śivātmatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 316–317)
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.147–148]]
+
 *Lead-in:* एतदेव दृष्टान्तोपदेशेन स्फुटीकर्तुमाह --
 
 Jayaratha comments on this verse together with 1.148: see [[Tantraloka 01.148#Viveka|1.148]].

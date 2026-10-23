@@ -35,6 +35,9 @@ taduktaṃ parameśena triśirobhairavāgame |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 110)
+> ![[Tantraloka Dyczkowski v04 05 - Chapter Five, part 3#Viveka on 5.86]]
+
 *Lead-in:* न चैवमस्माभिः स्वोत्प्रेक्षितमेवोक्तमित्याह --
 
 > तदुक्तं परमेशेन त्रिशिरोभैरवागमे ।

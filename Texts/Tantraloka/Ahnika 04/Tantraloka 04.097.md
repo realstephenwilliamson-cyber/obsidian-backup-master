@@ -34,6 +34,9 @@ buddhau vārpyaṃ tadabhyāsānnaiṣa nyāyastu saṃvidi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 117–118)
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.97]]
+
 *Lead-in:* एतदेवोपपादयति --
 
 > अन्तः संविदि रूढं हि तद्द्वारा प्राणदेहयोः ।

@@ -33,6 +33,11 @@ uktaṃ ca niśisañcārayogasañcāraśāstrayoḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 275)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.240–241]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.241]]
+
 *Lead-in:* किमत्र प्रमाणम्? -- इत्याशङ्क्याह --
 
 > उक्तं च निशिसञ्चारयोगसञ्चारशास्त्रयोः ॥

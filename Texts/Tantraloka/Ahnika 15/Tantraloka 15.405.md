@@ -34,6 +34,11 @@ pañcāṅgameva pṛthvyādirūpaṃ kaṭhinatādikāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 251–252)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.404–405]]
+>
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.405–406]]
+
 *Lead-in:* ननु एतावतैव कथमेवं स्यात्?--इत्याशङ्क्य आह--
 
 > पञ्चाङ्गमेव पृथ्व्यादिरूपं कठिनतादिकाः ॥

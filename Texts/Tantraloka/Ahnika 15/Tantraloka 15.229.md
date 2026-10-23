@@ -33,6 +33,11 @@ sādhako yañca vā kṣetraṃ maṇḍalaṃ veśma vā bhajet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 137–138)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.228–229]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.229–230]]
+
 *Lead-in:* इति कथमुक्तम्?--इत्याशङ्क्य आह--
 
 > साधको यञ्च वा क्षेत्रं मण्डलं वेश्म वा भजेत् ॥

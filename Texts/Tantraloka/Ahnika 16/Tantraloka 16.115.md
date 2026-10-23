@@ -34,5 +34,10 @@ devayogāṣṭake dve hi pratyekāṃgulapādataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 55–56)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 16.117–119.*
+>
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.117–119]]
+
 Jayaratha comments on this verse together with 16.119: see [[Tantraloka 16.119#Viveka|16.119]].
 

@@ -31,6 +31,9 @@ tataḥ prapūjayeccakraṃ yathāvibhavasambhavam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 198)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.431–432]]
+
 > पूर्वं हि यागाङ्गतया प्रोक्तं तत्तुष्टये त्विदम् ॥
 > तज्जुष्टमथ तस्याज्ञा प्राप्याश्नीयात्स्वयं शिशुः ।
 > ततः प्रपूजयेच्चक्रं यथाविभवसम्भवम् ॥

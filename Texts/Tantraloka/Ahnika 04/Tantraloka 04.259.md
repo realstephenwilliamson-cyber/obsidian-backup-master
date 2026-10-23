@@ -36,6 +36,11 @@ kṣetrapīṭhopapīṭheṣu praveśo vighnaśāntaye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 365–366)
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.258–259]]
+>
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.259–260]]
+
 *Lead-in:* अथ क्षेत्रादिसंप्रवेशं व्याख्यातुमाह --
 
 > क्षेत्रपीठोपपीठेषु प्रवेशो विघ्नशान्तये ॥

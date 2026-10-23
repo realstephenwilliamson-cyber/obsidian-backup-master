@@ -33,6 +33,11 @@ tadaiva tasya vettyeva svayameva hyabāhyatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 456)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.250–251]]
+>
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.251]]
+
 *Lead-in:* नन्वत्रार्थस्य स्पष्टास्पष्टत्वाभ्यां जाग्रत्स्वप्नविभाग उक्तस्तच्च स्पष्टास्पष्टत्वं संनिकर्षविप्रकर्षाभ्यामपि देवकुलादौ दृष्टमिति कथं तावतैवैतद्भवेत् ?इत्याशङ्क्याह --
 
 > तदैव तस्य वेत्त्येव स्वयमेव ह्यबाह्यताम् ॥

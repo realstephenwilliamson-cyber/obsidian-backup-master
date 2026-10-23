@@ -35,6 +35,9 @@ tathā tathāvidhākāśapaścātstho vetti na dhvanim || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 105–106)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.32]]
+
 *Lead-in:* अत एव च बिम्बप्रतिबिम्बयोर्मध्यदेशग एव प्रमाता तत्तद्गृह्णाति नान्य इत्याह --
 
 > यथा चादर्शपाश्चात्त्यभागस्थो वेत्ति नो मुखम् ।

@@ -31,6 +31,9 @@ nigṛhya tatra tattūrṇaṃ prerayet khatrayeṇa tu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 143–144)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.10–12]]
+
 > बद्ध्वा पद्मासनं योगी नाभावक्षेश्वरं क्षिपेत् ॥
 > दण्डाकारं तु तं तावन्नयेद्यावत्कखत्रयम् ।
 > निगृह्य तत्र तत्तूर्णं प्रेरयेत् खत्रयेण तु ॥

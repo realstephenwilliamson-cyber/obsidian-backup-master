@@ -34,6 +34,9 @@ tadapahnavanaṃ kartuṃ śakyaṃ vidhiniṣedhayoḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 336)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.238]]
+
 *Lead-in:* अत आह --
 
 > स्वार्थप्रत्यायनं चास्य स्वसंवित्त्यैव भासते ।

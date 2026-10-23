@@ -31,6 +31,9 @@ gurormūḍhatayā kopadhāmāpi na tirohitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 324)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.62]]
+
 *Lead-in:* एवं च श्रेयोरूपत्वादेव क्वचिदपि नायं कुप्येत्--इत्याह--
 
 > अत एव शिवे शास्त्रे ज्ञाने चाश्वासभाजनम् ।

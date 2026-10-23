@@ -31,6 +31,9 @@ paraṃ śivaṃ prakurvīta śivatāpattido guruḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 401–402)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.271]]
+
 > मायागर्भाग्निवर्णौघयुक्ते त्र्यश्रिणि मण्डले ॥
 > ध्यात्वा ज्वालाकरालेन तेन ग्रन्थीन् विभेदयेत् ।
 > पुष्पैर्हन्याद्योजयेच्च परे मन्त्राभिधो विधिः ॥

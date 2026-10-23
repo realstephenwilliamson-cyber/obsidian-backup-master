@@ -35,6 +35,9 @@ jñeyatvātsphuṭataḥ proktametāvatsparśarūpakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 271–272)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.153]]
+
 *Lead-in:* इत्याद्युक्त्या कादयो मावसानाः पञ्चविंशतिर्वर्णाः पृथ्वीतत्त्वादारभ्य पुरुषतत्त्वान्तं यावत्स्थिताः । तत् तत्त्वान्तराणामपि संभवाद्विश्वमवशिष्यत इति कथमेतावतैवोक्तम् - - "यतो विश्वं समाप्यते"इति ? -- इत्याशङ्क्याह --
 
 > ज्ञेयरूपमिदं पञ्चविंशत्यन्तं यतः स्फुटम् ।

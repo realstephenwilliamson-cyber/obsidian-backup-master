@@ -33,5 +33,10 @@ nādoccāreṇa nādākhyaḥ sṛṣṭikramaniyogataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 382–383)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.241–243]]
+>
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.243–244]]
+
 Jayaratha comments on this verse together with 29.247: see [[Tantraloka 29.247#Viveka|29.247]].
 

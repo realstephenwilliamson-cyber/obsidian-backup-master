@@ -33,6 +33,11 @@ viśuddhasvaprakāśātmaśivarūpatayā vinā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 192–193)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.111–112]]
+>
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.112–113]]
+
 > इति ॥ ननु भेदवादिवन्मलादीनामीश्वरस्य च
 
 "यथानादिप्रवृत्तोऽयं घोरः संसारसागरः ।

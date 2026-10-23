@@ -34,6 +34,11 @@ uktaṃ ca pūrṇāṃ ca kṛśāṃ dhyātvā dvādaśagocare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 294–295)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.479–480]]
+>
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.480–481]]
+
 *Lead-in:* किमत्र प्रमाणम्?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 15.479: see [[Tantraloka 15.479#Viveka|15.479]].

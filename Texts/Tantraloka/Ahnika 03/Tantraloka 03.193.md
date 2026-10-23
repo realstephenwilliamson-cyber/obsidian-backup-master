@@ -37,6 +37,11 @@ tenākṣiptaṃ yato viśvamato'sminsamupāsite || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 311–312)
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.192–193]]
+>
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.193–194]]
+
 *Lead-in:* तदाह—
 
 > तेनाक्षिप्तं यतो विश्वमतोऽस्मिन्समुपासिते ॥

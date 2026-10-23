@@ -31,6 +31,9 @@ tādātmyena vinikṣipya saptakaṃ saptakaṃ viduḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 416)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.197]]
+
 *Lead-in:* अत्रैव द्विधा मतान्तरं दर्शयति --
 
 > केचित्वेकां तुटिं ग्राह्ये चैकामपि ग्रहीतरि ।

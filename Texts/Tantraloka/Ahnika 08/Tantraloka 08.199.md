@@ -37,6 +37,11 @@ rudrāṇḍaṃ sālilaṃ tvaṇḍaṃ śakracāpākṛti sthitam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 219–222)
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.198–199]]
+>
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.199–200]]
+
 *Lead-in:* तन्मध्ये तु भुवनान्तराणि किं स्थितानि न वा ? -- इत्याशङ्क्याह --
 
 > आ वीरभद्रभुवनाद्भद्रकाल्यालयात्तथा ॥

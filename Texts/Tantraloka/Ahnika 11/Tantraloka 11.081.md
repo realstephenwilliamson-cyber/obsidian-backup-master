@@ -37,6 +37,11 @@ taduktaṃ varadena śrīsiddhayogīśvarīmate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 71–73)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.80–81]]
+>
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.81–82]]
+
 *Lead-in:* इत्यादिनीत्या मायीयवर्णानां परामर्शमात्रसारा एते वर्णा वीर्यत्वेनावश्यमुपगन्तव्याः, अन्यथा हि ते लिपिसंनिवेशकल्पा न काञ्चन सिद्धिं विदध्युरित्यागमसंवादेन द्रढयति --
 
 > तदुक्तं वरदेन श्रीसिद्धयोगीश्वरीमते ॥

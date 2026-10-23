@@ -34,6 +34,9 @@ bhairavīye kathaṅkāraṃ bhavetsākṣādupāyatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 23)
+> ![[Tantraloka Dyczkowski v02 02 - Chapter Two, part 1#Viveka on 2.13]]
+
 *Lead-in:* तस्मादसामर्थ्यवैयर्थ्योपहतत्वादवधानस्यापि यत्र नास्ति उपायभावस्तत्र का वार्ता तदनुप्राणितस्य भावनादेः ? इत्याह --
 
 > तेनावधानप्राणस्य भावनादेः परे पथि ।

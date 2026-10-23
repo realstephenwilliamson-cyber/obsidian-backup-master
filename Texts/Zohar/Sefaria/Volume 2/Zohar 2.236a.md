@@ -41,5 +41,5 @@ Pritzker translation (Matt): [[Zohar 6.06 - Parashat Pequdei#^z2-236a|Parashat P
 
 **Pekudei 35:306** Observe that when the Israelites committed the sin of the Golden Calf there was no reason why they should have made a calf rather than anything else of the evil side. But, indeed, they did not choose the Calf, but merely said: “Up, make us a god who shall go before us” (Ex. 32, 1); and Aaron intended to delay them. ^pekudei-35-306
 
-[^1]: v. T. B. Pesahim 42b.
+[^1]: v. T. B. [[Pesachim 42#42b|Pesahim 42b]].
 [^2]: The Zohar plays upon the Hebrew root GML, which as G *a* M *a* L =camel, and as G *e* M *u* L=reward, requitement, for good or evil deed.

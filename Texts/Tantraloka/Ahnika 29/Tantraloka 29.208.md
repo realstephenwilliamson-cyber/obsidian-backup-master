@@ -31,6 +31,9 @@ aliases:
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 363–364)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.207–208]]
+
 > अनया शोध्यमानस्य शिशोस्तीव्रादिभेदतः ।
 > शक्तिपाताच्चितिव्योमप्राणनान्तर्बहिस्तनूः ॥
 > आविशन्ती रुद्रशक्तिः क्रमात्सूते फलं त्विदम् ।

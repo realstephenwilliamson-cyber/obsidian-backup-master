@@ -39,6 +39,13 @@ tena mantrārthasaṃbodhe mantravārtikamādarāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 119–120)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.267–268]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.268–269]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.268–270]]
+
 *Lead-in:* तदेवं सर्वात्मना मन्त्रार्थपरिशीलनपरेणैव गुरुणा भाव्यम्-- इत्याह--
 
 > तेन मन्त्रार्थसंबोधे मन्त्रवार्तिकमादरात् ॥

@@ -31,6 +31,9 @@ yadvetti tatra tatrāsya śivatā jyāyasī ca sā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 209–210)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.139]]
+
 *Lead-in:* न केवलं प्रातिभस्यैव गुरोः परानपेक्षत्वे श्रेष्ठत्वं यावत्कल्पितस्यापि, शास्त्रीये क्कचिदंशे येन कल्पितोऽप्यसौ अकल्पित इत्युच्यते । तस्मात्प्रातिभत्वमेव सर्वात्मना ज्यायः -- इत्याह --
 
 > अन्यतः शिक्षितानन्तज्ञानोऽपि प्रतिभाबलात् ।

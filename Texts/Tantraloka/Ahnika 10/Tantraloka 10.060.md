@@ -33,6 +33,11 @@ na caitajjñānasaṃvittimātraṃ bhāvāṃśapṛṣṭhagam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 332–334)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.58–60]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.60–61]]
+
 *Lead-in:* ननु संविन्मयश्चेदर्थस्तर्हि तस्य वेद्यत्वमिति संविदेवोक्ता भवेत्, न च संविदर्थस्य धर्मस्तत्किमिदं वेद्यत्वं भावधर्म इति ? -- इत्याशङ्क्याह --
 
 > न चैतज्ज्ञानसंवित्तिमात्रं भावांशपृष्ठगम् ॥

@@ -37,6 +37,11 @@ pañca viṣayoparamato'rjanarakṣāsaṅgasaṃkṣayavighātaiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 283)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.279–280]]
+>
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.280]]
+
 *Lead-in:* तदाह --
 
 Jayaratha comments on this verse together with 8.281: see [[Tantraloka 08.281#Viveka|8.281]].

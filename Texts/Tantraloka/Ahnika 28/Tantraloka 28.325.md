@@ -31,6 +31,9 @@ taṃ tamevaiti kaunteya sadā tadbhāvabhāvitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 139–140)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.325–326]]
+
 *Lead-in:* तदेव आह--
 
 > यं य वापि स्मरन्भावं त्यजत्यन्ते कलेवरम् ।

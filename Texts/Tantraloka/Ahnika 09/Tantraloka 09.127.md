@@ -33,6 +33,11 @@ kṣīvo'pi rājā sūdaṃ cedādiśetprātarīdṛśam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 110–112)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.126–127]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.127–129]]
+
 *Lead-in:* ननु भवेदेवं यद्यनुसंधानमेव स्यात्, नहि जन्मान्तरीये कर्मणि एहिके च फले कस्यचित् तदस्ति ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 9.126: see [[Tantraloka 09.126#Viveka|9.126]].

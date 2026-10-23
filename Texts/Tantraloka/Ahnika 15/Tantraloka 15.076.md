@@ -31,6 +31,9 @@ asya snānāṣṭakasyāsti bāhyāntaratayā dvitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 56–57)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.75–76]]
+
 > मन्त्रध्यानसमाधानभेदात्स्नानं तु यन्न तत् ॥
 > युक्तं स्नानं यतो न्यासकर्मादौ योग्यतावहम् ।
 > अस्य स्नानाष्टकस्यास्ति बाह्यान्तरतया द्विता ॥

@@ -31,6 +31,9 @@ catasraḥ śaktyastvasya sthūlāḥ sūkṣmāstvanekadhā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 108–109)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.99]]
+
 *Lead-in:* ननु सदाशिवस्य शान्त्याद्याः कलाः शक्तित्वेन उक्ताः । कथमासामियती व्याप्तिः?--इत्याशङ्क्य आह--
 
 > भैरवं दण्ड ऊर्ध्वस्थं रूपं सादाशिवात्मकम् ।

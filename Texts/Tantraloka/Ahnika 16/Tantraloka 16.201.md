@@ -36,6 +36,11 @@ saṃskāraśeṣavartanajīvitamadhye'sya samayalopādyam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 86–87)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.200–201]]
+>
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.201–203]]
+
 *Lead-in:* ननु यद्येवं न युक्तं तत् कतरः पक्ष आश्रयणीयः?-- इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 16.200: see [[Tantraloka 16.200#Viveka|16.200]].

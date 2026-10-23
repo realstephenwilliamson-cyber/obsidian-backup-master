@@ -33,6 +33,11 @@ tadā ca dehasaṃstho'pi sa mukta iti bhaṇyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 265–267)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.227–229]]
+>
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.229]]
+
 *Lead-in:* एवंविधया चानया "कथनादुभयसामरस्यम्"इत्याद्युक्तनीत्या सत्यपि देहे परसंविद्विश्रान्तिर्जायते, येनायं जीवन्मुक्त इति व्यपदेशपात्रतामियात् । तदाह --
 
 > तदा च देहसंस्थोऽपि स मुक्त इति भण्यते ॥

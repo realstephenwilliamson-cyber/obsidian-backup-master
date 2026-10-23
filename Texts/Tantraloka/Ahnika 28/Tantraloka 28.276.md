@@ -31,6 +31,9 @@ paścādāsthānibandhena tāvadeva phalaṃ bhajet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 120)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.276]]
+
 > यस्तु तावदयोग्योऽपि तथास्ते स शिवालये ।
 > पश्चादास्थानिबन्धेन तावदेव फलं भजेत् ॥
 

@@ -35,6 +35,9 @@ catvāriṃśattulyopabhogadeśādhikāni bhuvanāni || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 250)
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.231]]
+
 *Lead-in:* तदाह -
 
 > तनुभोगाः पुनरेषामधः प्रभूतात्मकाः प्रोक्ताः ।

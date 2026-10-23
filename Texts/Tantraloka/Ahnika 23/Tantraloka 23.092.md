@@ -31,6 +31,9 @@ svollāsi smarasarvasvaṃ dārḍhyāyānyatra dṛśyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 335–336)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.92]]
+
 *Lead-in:* एतदेव दृष्टान्तयति--
 
 > दृढानुरागसुभगसंरम्भाभोगभागिनः ।

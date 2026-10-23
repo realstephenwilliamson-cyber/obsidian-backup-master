@@ -34,6 +34,9 @@ na caiṣa mukhyastatkāryapāramparyāprakāśanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 111)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.37]]
+
 *Lead-in:* इत्याशङ्क्याह --
 
 > न चैष मुख्यस्तत्कार्यपारम्पर्याप्रकाशनात् ॥

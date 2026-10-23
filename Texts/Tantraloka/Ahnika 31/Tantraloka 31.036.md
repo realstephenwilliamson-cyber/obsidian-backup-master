@@ -31,6 +31,9 @@ tadbhedānmaṇḍalānāṃ syādasaṅkhyo bhedavistaraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 82–83)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.33–36]]
+
 *Lead-in:* एषामपि भेदानां यदि भेदः क्रियते, तत् मण्डलानामनन्तो भेदोदयः--इत्याह--
 
 Jayaratha comments on this verse together with 31.35: see [[Tantraloka 31.035#Viveka|31.35]].

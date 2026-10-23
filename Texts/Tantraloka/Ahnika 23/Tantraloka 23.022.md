@@ -33,6 +33,13 @@ dīkṣā vyākhyā kṛpā maitrī śāstracintā śivaikatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 305–307)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 23.23–24.*
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.20–22]]
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.23–24]]
+
 *Lead-in:* प्रोक्त इति--समनन्तरमेव । ननु का नाम सप्तसत्री, तां च असौ कथं प्रवर्तयेत् ?--इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 23.21: see [[Tantraloka 23.021#Viveka|23.21]].

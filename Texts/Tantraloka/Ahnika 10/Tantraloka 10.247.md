@@ -31,6 +31,9 @@ vedyaṃ satpūrvakathitaṃ bhūtatattvābhidhāmayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 453–454)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.247–248]]
+
 *Lead-in:* एवं जाग्रदवस्थां निरूप्य, स्वप्नावस्थामपि निरूपयति --
 
 > यत्त्वधिष्ठानकरणभावमध्यास्य वर्तते ।

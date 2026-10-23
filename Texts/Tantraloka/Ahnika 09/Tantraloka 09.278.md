@@ -33,6 +33,11 @@ uktaṃ ca guruṇā kuryānmano'nuvyavasāyi sat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 258–260)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.277–278]]
+>
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.278–279]]
+
 *Lead-in:* नन्वत्र किं प्रमाणम् -- इत्याशङ्क्याह --
 
 > उक्तं च गुरुणा कुर्यान्मनोऽनुव्यवसायि सत् ॥

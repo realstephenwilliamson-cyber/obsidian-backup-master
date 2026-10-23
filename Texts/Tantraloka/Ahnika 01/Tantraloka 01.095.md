@@ -35,6 +35,9 @@ mahābhairavadevo'yaṃ patiryaḥ paramaḥ śivaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 244–246)
+> ![[Tantraloka Dyczkowski v01 07 - Chapter One, part 6#Viveka on 1.95]]
+
 *Lead-in:* बहुशक्तित्वमेव च एतदभिधायकानां प्रवृत्तिनिमित्तम् -- इत्याह --
 
 > देवो ह्यन्वर्थशास्त्रोक्तैः शब्दैः समुपदिश्यते ।

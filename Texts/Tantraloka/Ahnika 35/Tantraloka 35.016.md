@@ -31,6 +31,9 @@ santaḥ samupajīvanti śaivamevādyamāgamam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 199)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.16–17]]
+
 *Lead-in:* ननु भवतु एवम्, नियतागमपरिग्रहे तु किं निमित्तम्?--इत्याशङ्क्य आह- -
 
 > तयैवाशैशवात्सर्वे व्यवहारधराजुषः ।

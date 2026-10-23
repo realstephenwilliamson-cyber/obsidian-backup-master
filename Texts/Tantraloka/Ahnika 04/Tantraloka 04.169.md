@@ -34,6 +34,9 @@ iti pravikasadrūpā saṃvittiravabhāsate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 242–245)
+> ![[Tantraloka Dyczkowski v03 08 - Chapter Four, part 7#Viveka on 4.169–170]]
+
 *Lead-in:* एवं प्रमातृगतं स्थितिस्वरूपमभिधाय संहारस्वरूपमप्याह --
 
 Jayaratha comments on this verse together with 4.170: see [[Tantraloka 04.170#Viveka|4.170]].

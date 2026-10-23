@@ -33,6 +33,11 @@ nijanijabhogābhogapravikāsinijasvarūpaparimarśe || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 304–306)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.110–111]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.111–112]]
+
 *Lead-in:* एतदेव प्रपञ्चयति--
 
 > निजनिजभोगाभोगप्रविकासिनिजस्वरूपपरिमर्शे ॥

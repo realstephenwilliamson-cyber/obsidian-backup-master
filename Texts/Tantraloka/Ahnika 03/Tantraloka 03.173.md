@@ -37,6 +37,11 @@ atra rūḍhiṃ sadā kuryāditi no guravo jaguḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 297–298)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.172–173]]
+>
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.173–174]]
+
 *Lead-in:* एवमेतत्प्रसङ्गादभिधाय प्रकृतमेवाह --
 
 Jayaratha comments on this verse together with 3.172: see [[Tantraloka 03.172#Viveka|3.172]].

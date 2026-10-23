@@ -34,6 +34,9 @@ ceṣṭāṃ paśyantyato mugdhā nāstyanyaditi manvate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 231–232)
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.15]]
+
 *Lead-in:* तदाह -
 
 > प्राणनावृत्तितादात्म्यसंवित्खचितदेहजाम् ।

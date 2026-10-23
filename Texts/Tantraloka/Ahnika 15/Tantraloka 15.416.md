@@ -34,6 +34,11 @@ sruvaṃ srucaṃ ca saṃpaśyedadhovaktrau kramād guruḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 256–258)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.414–416]]
+>
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.416–417]]
+
 *Lead-in:* ननु अग्नावेव संस्कारहोमः स्रुवादिभिः कार्यः, तत् प्रथममेषामेव संस्कारः कस्मात् न कृतः?--इत्याह--
 
 > स्रुवं स्रुचं च संपश्येदधोवक्त्रौ क्रमाद् गुरुः ॥

@@ -37,6 +37,11 @@ tato māyā tripuṭikā mukhyato'nantakoṭibhiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 301–305)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.294–298]]
+>
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.298–300]]
+
 *Lead-in:* इदानीं ग्रन्थितत्त्वशक्त्यात्मना त्रिप्रकारं मायायाः स्वरूपं निरूपयति --
 
 Jayaratha comments on this verse together with 8.297: see [[Tantraloka 08.297#Viveka|8.297]].

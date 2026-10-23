@@ -61,10 +61,10 @@ And this is what our Sages, of blessed memory, meant by saying: “Israel will b
 [^9]: Abundant, or magnanimous *chesed* (cf. [[Torah 21 - Ki Tisa#^34-6|Exodus 34:6]]).
 [^10]: *Sifrei*, Deuteronomy, sect. 343 (on [[Torah 53 - Ha'Azinu#^32-2|Deuteronomy 32:2]]); *Shir Hashirim Rabbah* 1, s.v. *Meshacheni* 1; *Tanchuma*, *Berachah* 4; cf. above, Epistle 1, note 10. See *Likkutei Torah*, *Shelach* 39d.
 [^11]: See above, Epistle 1, note 10.
-[^12]: *Makkot* 23b (acc. to various versions, e.g., *Eyn Yaakov*, etc.); *Tanchuma*, *Shoftim* 9; et al.
-[^13]: Lit., “Might,” a frequent rabbinic expression denoting Divine majesty (the L–rd) and in Kabbalistic-Chasidic literature related to the equally named attribute of *gevurah*. This term is also used with respect to the Giving of the Torah (see *Makkot* 24a; *et passim*).—Whereas I could not find any rabbinic saying as our text would seem to suggest—“the 613 commandments of the *gevurah*”—(though see *Zohar* II:116b), I divided it under the assumption that the author added it on his own to the original expression. Thus the proof-text from Deuteronomy is also not to be taken as an integral part of the preceeding, but added to support it, and the following interpretation.
+[^12]: [[Makkot 23#23b|*Makkot* 23b]] (acc. to various versions, e.g., *Eyn Yaakov*, etc.); *Tanchuma*, *Shoftim* 9; et al.
+[^13]: Lit., “Might,” a frequent rabbinic expression denoting Divine majesty (the L–rd) and in Kabbalistic-Chasidic literature related to the equally named attribute of *gevurah*. This term is also used with respect to the Giving of the Torah (see [[Makkot 24#24a|*Makkot* 24a]]; *et passim*).—Whereas I could not find any rabbinic saying as our text would seem to suggest—“the 613 commandments of the *gevurah*”—(though see *Zohar* II:116b), I divided it under the assumption that the author added it on his own to the original expression. Thus the proof-text from Deuteronomy is also not to be taken as an integral part of the preceeding, but added to support it, and the following interpretation.
 [^14]: [[Torah 54 - V'Zot HaBerachah#^33-2|Deuteronomy 33:2]].
-[^15]: See *Zohar* [[Zohar 5.03 - Parashat Mishpatim#^z2-113a|II:113a]]; *Tikkunei Zohar*, Introduction 11b. See also *Zohar* II:118b, [[Zohar 9.11 - Parashat Pinehas#^z3-237a|III:237a]], and *Berachot* 6a (especially in the light of the following note).
+[^15]: See *Zohar* [[Zohar 5.03 - Parashat Mishpatim#^z2-113a|II:113a]]; *Tikkunei Zohar*, Introduction 11b. See also *Zohar* II:118b, [[Zohar 9.11 - Parashat Pinehas#^z3-237a|III:237a]], and [[Berakhot 6#6a|*Berachot* 6a]] (especially in the light of the following note).
 [^16]: See *Zohar* [[Zohar 1.026b|I:26b]]; *Tikkunei Zohar*, Introduction [[Tikkunei Zohar 017a|17a]]; *et passim*.
 [^17]: See *Zohar* II:118a; *Tikkunei Zohar* 30 (74a); cf. *Zohar* [[Zohar 4.07 - Parashat Yitro#^z2-83b|II:83b]], ibid., [[Zohar 5.05 - Parashat Terumah#^z2-163b|163b]]; *Tikkunei Zohar* 70 (131a) ff.*—*See *Kitzurim V’Hearot*, p. 106 ff., and cf. *Shomer Emunim* 1:24 ff.
 [^18]: Brackets appear in the text.
@@ -74,34 +74,34 @@ And this is what our Sages, of blessed memory, meant by saying: “Israel will b
 [^22]: See below, Epistle 15.
 [^23]: The aspect of *gevurah*.
 [^24]: See [[Torah 17 - Yitro#^20-15|Exodus 20:15]] and *Mechilta*, *Yitro*, ad loc. (s.v. *Bachodesh*, ch. 9); *Pirkei d’R. Eliezer*, ch. 41; *Shemot Rabbah* 29:3.
-[^25]: *Shemot Rabbah* 29:3; *Shabbat* 88b.
+[^25]: *Shemot Rabbah* 29:3; [[Shabbat 88#88b|*Shabbat* 88b]].
 [^26]: *Shulchan Aruch*, *Orach Chaim* 11:4; cf. *Shulchan Aruch HaRav* 11:5 (and 7).
 [^27]: *Shulchan Aruch*, *Orach Chaim* 32:41, *Magen Avraham*, ad loc.; cf. *Shulchan Aruch HaRav* 32:63.
-[^28]: *Menachot* 35a; *Shulchan Aruch*, *Orach Chaim* 32:39; cf. *Shulchan Aruch HaRav* 32:59.
-[^29]: *Sukkah* 32b; *Shulchan Aruch*, *Orach Chaim* 650:1.
+[^28]: [[Menachot 35#35a|*Menachot* 35a]]; *Shulchan Aruch*, *Orach Chaim* 32:39; cf. *Shulchan Aruch HaRav* 32:59.
+[^29]: [[Sukkah 32#32b|*Sukkah* 32b]]; *Shulchan Aruch*, *Orach Chaim* 650:1.
 [^30]: *Shulchan Aruch*, *Orach Chaim* 634:1.
-[^31]: *Niddah* 26a; *Shulchan Aruch*, *Orach Chaim* 586:9.
-[^32]: *Eruvin* 4b; Mishnah, *Mikvaot* 1:7; *Shulchan Aruch*, *Yoreh Deah* 201.
+[^31]: [[Niddah 26#26a|*Niddah* 26a]]; *Shulchan Aruch*, *Orach Chaim* 586:9.
+[^32]: [[Eruvin 4#4b|*Eruvin* 4b]]; Mishnah, *Mikvaot* 1:7; *Shulchan Aruch*, *Yoreh Deah* 201.
 [^33]: *Pirkei d’R. Eliezer*, ch. 12.
 [^34]: [[Psalms 089#^89-3|Psalms 89:3]].
 [^35]: See *Avot d’R. Nattan*, ch. 4; *Yalkut Shimoni*, Psalms 839 (on Psalms 89).
 [^36]: Maimonides, *Hilchot Matnot Aniyim* 7:5; *Shulchan Aruch*, *Yoreh Deah* 249:1.
 [^37]: [[Psalms 052#^52-3|Psalms 52:3]].
-[^38]: *Chagigah* 13a.
-[^39]: *Sanhedrin* 97a.
+[^38]: [[Chagigah 13#13a|*Chagigah* 13a]].
+[^39]: [[Sanhedrin 97#97a|*Sanhedrin* 97a]].
 [^40]: The limited amount for charity.
 [^41]: Cf. *Zohar* [[Zohar 7.08 - Parashat Aharei Mot#^z3-66a|III:66a]]; also, [[Zohar 4.07 - Parashat Yitro#^z2-85b|II:85b]], [[Zohar 5.05 - Parashat Terumah#^z2-155b|155b]], [[Zohar 5.05 - Parashat Terumah#^z2-162b|162b]], and [[Zohar 7.03 - Parashat Va-Yiqra#^z3-16b|III:16b]]; *et passim*.—קדש העליון (Supreme Holiness) refers to the *Supreme chochmah*; see *Zohar* [[Zohar 5.04 - Sava de-Mishpatim#^z2-121a|II:121a]]; *Likkutei Amarim*, Part I, ch. 19. See also below, Epistle 17, note 34.
 [^42]: Cf. *Iggeret Hateshuvah*, ch. 1.
-[^43]: In the place where penitents stand, not even the perfectly righteous can stand (*Berachot* 34b) because the penitents elicit the supreme light in greater strength and measure than the righteous. See *Zohar* [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-39a|I:39a]] and [[Zohar 7.03 - Parashat Va-Yiqra#^z3-16b|III:16b]]. Cf. also above, Epistle 8, note 23.
-[^44]: See [[Isaiah 06#^6-10|Isaiah 6:10]] (*Megillah* 17b); *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-150a|II:150a]]; also ibid., [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-41a|I:41a]].—Cf. also, “*teshuvah* is *binah*” (*Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-79b|I:79b]], [[Zohar 8.08 - Parashat Naso#^z3-122a|III:122a]] and 255b), “which is the heart” (*Tikkunei Zohar*, Introduction [[Tikkunei Zohar 017a|17a]]).
-[^45]: Division of the word חסד into חס and the final letter ד (cf. *Tikkunei Zohar* 22 (67b)). The ד (which written out fully spells the word דלי”ת meaning “has not”) signifies the poor and destitute for which one is to care—see *Shabbat* 104a; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-3a|I:3a]] and III:273b. See also *Netivot Olam*, s.v. *Tzedakah*, ch. 2.
+[^43]: In the place where penitents stand, not even the perfectly righteous can stand ([[Berakhot 34#34b|*Berachot* 34b]]) because the penitents elicit the supreme light in greater strength and measure than the righteous. See *Zohar* [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-39a|I:39a]] and [[Zohar 7.03 - Parashat Va-Yiqra#^z3-16b|III:16b]]. Cf. also above, Epistle 8, note 23.
+[^44]: See [[Isaiah 06#^6-10|Isaiah 6:10]] ([[Megillah 17#17b|*Megillah* 17b]]); *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-150a|II:150a]]; also ibid., [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-41a|I:41a]].—Cf. also, “*teshuvah* is *binah*” (*Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-79b|I:79b]], [[Zohar 8.08 - Parashat Naso#^z3-122a|III:122a]] and 255b), “which is the heart” (*Tikkunei Zohar*, Introduction [[Tikkunei Zohar 017a|17a]]).
+[^45]: Division of the word חסד into חס and the final letter ד (cf. *Tikkunei Zohar* 22 (67b)). The ד (which written out fully spells the word דלי”ת meaning “has not”) signifies the poor and destitute for which one is to care—see [[Shabbat 104#104a|*Shabbat* 104a]]; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-3a|I:3a]] and III:273b. See also *Netivot Olam*, s.v. *Tzedakah*, ch. 2.
 [^46]: *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-11b|I:11b]].
 [^47]: [[Proverbs 21#^21-3|Proverbs 21:3]].
 [^48]: *Ketuvot* 50a.
 [^49]: [[Job 02#^2-4|Job 2:4]]. Cf. *Iggeret Hateshuvah*, end of ch. 3. See also Maimonides, *Hilchot Deot* 11:2, and ibid., 1:5 (in which he obviously includes the disbursement of charity exceeding one-fifth, and as he states explicitly in his commentary on the Mishnah, *Peah* 1:1; according to the abovementioned, this cannot be regarded as contradicting his ruling—based on *Ketuvot* 50a and 67b—in *Hilchot Erchin* 8:13). Cf. *Birkei Yosef* on *Yoreh Deah* 249 and *Chomat Anach* on Proverbs 11. See also *Meah She’arim* 1:28 (9a) and 3:3 (18a).
 [^50]: Lit., without limit and measure.
 [^51]: [[Psalms 103#^103-17|Psalms 103:17]].
-[^52]: *Yevamot* 79a.
+[^52]: [[Yevamot 79#79a|*Yevamot* 79a]].
 [^53]: Infinite.
 [^54]: [[Lamentations 3#^3-22|Lamentations 3:22]].
 [^55]: Text adds etc., but omitted according to H. V.
@@ -109,6 +109,6 @@ And this is what our Sages, of blessed memory, meant by saying: “Israel will b
 [^57]: לא תמנו is usually translated “they are not concluded,” but may also mean, as the author translates/interprets now, “we are not perfect.”
 [^58]: Lit., to arouse over us.
 [^59]: Our verse reads now: (We need to perform kindness in a mode of) “the graces of the L–rd, because we are not perfect”; (this enables us to draw forth the infinite Divine compassion) “for His compassion is not exhausted.”
-[^60]: *Shabbat* 139a; *Sanhedrin* 98a (see glossary note, ad loc.).
-[^61]: “—until the *perutah* (the smallest coin) has gone from the purse, *Sanhedrin* 97a; see also *Pesikta Zutrata* on [[Torah 53 - Ha'Azinu#^32-36|Deuteronomy 32:36]].—The implication is a total disbursement, without regard to any limit or measure.
+[^60]: [[Shabbat 139#139a|*Shabbat* 139a]]; [[Sanhedrin 98#98a|*Sanhedrin* 98a]] (see glossary note, ad loc.).
+[^61]: “—until the *perutah* (the smallest coin) has gone from the purse, [[Sanhedrin 97#97a|*Sanhedrin* 97a]]; see also *Pesikta Zutrata* on [[Torah 53 - Ha'Azinu#^32-36|Deuteronomy 32:36]].—The implication is a total disbursement, without regard to any limit or measure.
 [^62]: The original letter concludes here with a lengthy appeal for charity (see *Igrot Kodesh Admur Hazaken* (Kehot, 2012), p. 135 ff.).

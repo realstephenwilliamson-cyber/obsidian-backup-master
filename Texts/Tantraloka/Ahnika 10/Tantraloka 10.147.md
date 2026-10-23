@@ -33,6 +33,11 @@ tāmeva dṛṣṭvā ca tadā samānāśayabhāgapi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 386)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.146–147]]
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.147–148]]
+
 *Lead-in:* ननु संभुज्यमानापि कुलवधूर्यदि योग्यतामात्रेण कञ्चित्प्रति भोग्या तदविशेषात्सर्वान्प्रत्येवास्तु? -- इत्याशङ्क्याह --
 
 > तामेव दृष्ट्वा च तदा समानाशयभागपि ॥

@@ -34,6 +34,9 @@ apūrṇā mātṛdaurātmyāttadapāye vikasvarā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 394–395)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.216]]
+
 *Lead-in:* ननु अस्मदादेः सर्वस्यैव अयत्नोपनतः स्वारसिको निर्विकल्पकः प्रत्ययः स्थितः इति किं नाम तत्र शाम्भवावेशरूपत्वमुक्तम्, यदपि उपेयतया उपदिश्यते ? इत्याशङ्क्याह --
 
 > पशोर्वै याविकल्पा भूर्दशा सा शाम्भवी परम् ।

@@ -31,6 +31,9 @@ nyāse vivarjyate'muṣminnaṅgānyapyasya santi hi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 148)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.245–246]]
+
 > इत्थं श्रीपूर्वशास्त्रे मे सम्प्रदायं न्यरूपयत् ॥
 > शम्भुनाथो न्यासविधौ देवो हि कथमन्यथा ।
 > न्यासे विवर्ज्यतेऽमुष्मिन्नङ्गान्यप्यस्य सन्ति हि ॥

@@ -35,6 +35,9 @@ asadyuktivicārajñāñchuṣkatarkāvalambinaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 325)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.332–336]]
+
 > अतः परं स्थिता माया देवी जन्तुविमोहिनी ॥
 > देवदेवस्य सा शक्तिरतिदुर्घटकारिता ।
 > निर्वैरपरिपन्थिन्या तया श्रमितबुद्धयः ॥

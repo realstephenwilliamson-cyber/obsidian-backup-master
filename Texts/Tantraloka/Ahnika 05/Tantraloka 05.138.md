@@ -35,6 +35,9 @@ anekākārarūpeṇa sarvatrāvasthitena tu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 190–192)
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.138–139]]
+
 *Lead-in:* तामेव विशिनष्टि --
 
 Jayaratha comments on this verse together with 5.139: see [[Tantraloka 05.139#Viveka|5.139]].

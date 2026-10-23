@@ -33,6 +33,11 @@ iti cakrāṣṭakarūḍhaḥ sahajaṃ japamācaran pare dhāmni || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 336–337)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.154–156]]
+>
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.156–157]]
+
 *Lead-in:* अत्रैव पौनःपुन्येन भावनातस्तल्लाभो भवेत्--इत्याह--
 
 > इति चक्राष्टकरूढः सहजं जपमाचरन् परे धाम्नि ॥

@@ -33,6 +33,11 @@ sadbhāvamātrādroddhṛtve śivamuktāṇvasaṃbhavaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 163)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.61]]
+>
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.61 (2)]]
+
 *Lead-in:* अथोच्यते रोधिकास्य शक्तिरिति तत्किमसौ रुन्ध्यात् -- इत्याह --
 
 > रोद्ध्रीति चेत्कस्य नृणां ज्ञत्वकर्तृत्वयोर्यदि ।

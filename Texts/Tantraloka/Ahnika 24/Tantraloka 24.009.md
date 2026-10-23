@@ -33,6 +33,13 @@ mantrayogādibhirye ca māritā narake tu te || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 347–348)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 24.11–12.*
+>
+> ![[Tantraloka Dyczkowski v09 15 - Chapter Twenty-Four#Viveka on 24.6–9]]
+>
+> ![[Tantraloka Dyczkowski v09 15 - Chapter Twenty-Four#Viveka on 24.11–12]]
+
 *Lead-in:* न केवलं समयलोपोपहतानामेव एषा कार्या, यावदन्येषामपि-- इत्याह--
 
 Jayaratha comments on this verse together with 24.8: see [[Tantraloka 24.008#Viveka|24.8]].

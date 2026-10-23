@@ -33,5 +33,12 @@ siddhe hi cetane yukta upacāraḥ sa hi sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 326–327)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.49–50]]
+>
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.50–52]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.50–52 (continued)]]
+
 Jayaratha comments on this verse together with 10.49: see [[Tantraloka 10.049#Viveka|10.49]].
 

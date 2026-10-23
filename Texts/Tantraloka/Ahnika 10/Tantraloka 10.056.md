@@ -33,6 +33,11 @@ evaṃ ca nīlatā nāma yathā kācitprakāśate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 330–331)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.55–56]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.56–57]]
+
 *Lead-in:* अत आह --
 
 > एवं च नीलता नाम यथा काचित्प्रकाशते ॥

@@ -35,6 +35,9 @@ niḥsaṃkhyaṃ ca vicitraṃ māyaivaikā tvabhinneyam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 319)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.324]]
+
 *Lead-in:* अत एव कार्यस्यापि आनन्त्यमित्याह --
 
 > तेन कलादिधरान्तं यदुक्तमावरणजालमखिलं तत् ।

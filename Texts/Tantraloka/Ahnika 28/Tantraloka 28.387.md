@@ -33,6 +33,11 @@ yo yatra śāstre svabhyastajñāno vyākhyāṃ carettu saḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 175–177)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.386–387]]
+>
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.387–388]]
+
 *Lead-in:* ननु एवं व्याख्यायां कस्य अधिकारः ?--इत्याशङ्क्य आह--
 
 > यो यत्र शास्त्रे स्वभ्यस्तज्ञानो व्याख्यां चरेत्तु सः ॥

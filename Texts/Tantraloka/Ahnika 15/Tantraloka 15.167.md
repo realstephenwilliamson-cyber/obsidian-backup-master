@@ -33,6 +33,11 @@ unmajjayati nirmagnāṃ saṃvidaṃ yattu suṣṭhu tat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 104–105)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.166–167]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.167–168]]
+
 *Lead-in:* एवं संविदुद्रेचकमेव वस्तु अर्चने योग्यम्--इत्याह--
 
 > उन्मज्जयति निर्मग्नां संविदं यत्तु सुष्ठु तत् ॥

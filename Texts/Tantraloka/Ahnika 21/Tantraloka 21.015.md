@@ -34,6 +34,9 @@ bhūyodine ca devārcā sākṣānnāsyopakāri tat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 253–255)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.14–15]]
+
 > अदीक्षिते नृपत्यादावलसे पतिते मृते ।
 > बालातुरस्त्रीवृद्धे च मृतोद्धारं प्रकल्पयेत् ॥
 > विधिः सर्वः पूर्वमुक्तः स तु संक्षिप्त इष्यते ।

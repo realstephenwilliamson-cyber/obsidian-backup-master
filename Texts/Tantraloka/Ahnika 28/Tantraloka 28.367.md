@@ -40,6 +40,11 @@ yadi pibatha tadānīṃ niścitaṃ vaḥ śivatvam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 164–165)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.366–367]]
+>
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.367]]
+
 *Lead-in:* ननु कथं मृतिसतत्त्ववचनमात्रेण तद्भीतिः शाम्येत् ?-- इत्याशङ्क्य आह--
 
 > विदितमृतिसतत्त्वाः संविदम्भोनिधानाद्

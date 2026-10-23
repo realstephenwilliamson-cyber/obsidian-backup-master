@@ -31,6 +31,9 @@ mandiraṃ devadevasya sarvakāmaphalapradam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 129)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.147–154]]
+
 > दलानि कार्याणि सितैः केसरं रक्तपीतलैः ।
 > कर्णिका कनकप्रख्या पल्लवान्ताश्च लोहिताः ॥
 > व्योमरेखा तु सुमिता वर्तुलाब्जान्तनीलभाः ।

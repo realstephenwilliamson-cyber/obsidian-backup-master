@@ -34,6 +34,9 @@ niṣkampatā vrataṃ śuddhaṃ sāmyaṃ nandiśikhoditam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 104–105)
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.12]]
+
 *Lead-in:* नन्वेवमनुतिष्ठतः किं स्यात् -- इत्याशङ्क्याह --
 
 > तथैवंकुर्वतः सर्वं समभावेन पश्यतः ।

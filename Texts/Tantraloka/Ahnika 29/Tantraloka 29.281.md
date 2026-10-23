@@ -31,6 +31,9 @@ dīkṣeyaṃ sarvajantūnāṃ śivatāpattidāyikā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 406–407)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.278–281]]
+
 > बाह्यं प्राणं बाह्यगतं तिमिराकारयोगतः ॥
 > निर्यातं रोमकूपैस्तु भ्रमन्तं सर्वकारणैः ।
 > मध्यं निर्लक्ष्यमास्थाय भ्रमयेद्विसृजेत्ततः ॥

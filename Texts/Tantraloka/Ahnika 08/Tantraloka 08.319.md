@@ -35,6 +35,9 @@ parivarttate sthitiḥ kila devo'nantastu sarvathā madhye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 314–316)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.318–319]]
+
 > गहनासाध्यौ हरिहरदशेश्वरौ त्रिकलगोपती षडिमे ।
 > मध्येऽनन्तः क्षेमो द्विजेशविद्येशविश्वशिवाः ॥
 > इति पञ्च तेषु पञ्चसु षट्सु च पुटगेषु तत्परावृत्त्या ।

@@ -31,6 +31,9 @@ manuśaktibhuvanarūpajñāpiṇḍasthānanāḍiparabhedāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 394)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.254–255]]
+
 *Lead-in:* प्रकारान्तरेणापि अस्य बहुधात्वं दर्शयति--
 
 > मनुशक्तिभुवनरूपज्ञापिण्डस्थाननाडिपरभेदात् ॥

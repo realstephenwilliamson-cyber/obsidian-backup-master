@@ -36,6 +36,11 @@ tena śāṃbhavamāhātmyaṃ jānanyaḥ śāsanāntare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 31–32)
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.23–24]]
+>
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.24–25]]
+
 *Lead-in:* अत एव च अस्य मूढजनस्य संसारादुन्मज्जनमेव नास्ति, इत्याह --
 
 > तेन शांभवमाहात्म्यं जानन्यः शासनान्तरे ॥

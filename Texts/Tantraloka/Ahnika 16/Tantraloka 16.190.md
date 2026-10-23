@@ -34,6 +34,11 @@ dīkṣā bahudhā bhinnā śodhyavihīnā tu saptatidhā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 83)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 16.191–193.*
+>
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.191–193]]
+
 *Lead-in:* भेदान्तराणां सद्भावं दर्शयति--
 
 Jayaratha comments on this verse together with 16.192: see [[Tantraloka 16.192#Viveka|16.192]].

@@ -31,6 +31,9 @@ vimbasya yasyā udaya ityuktā tadupāyatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 135–136)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.2]]
+
 *Lead-in:* तदेव तात्पर्यद्वारेण आह--
 
 > बिम्बात्समुदयो यस्या इत्युक्ता प्रतिबिम्बता ।

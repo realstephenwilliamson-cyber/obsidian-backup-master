@@ -35,6 +35,9 @@ abhedavṛttitaḥ paśyedviśvaṃ citicamatkṛteḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 92–93)
+> ![[Tantraloka Dyczkowski v04 05 - Chapter Five, part 3#Viveka on 5.74]]
+
 *Lead-in:* नन्वत्र विश्रान्तस्य किं नामाभिज्ञानम् ? -- इत्याशङ्क्याह --
 
 > हानादानतिरस्कारवृत्तौ रूढिमुपागतः ।

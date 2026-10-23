@@ -34,6 +34,9 @@ māyīyabhedakḷptaṃ tatsyādakālpanikekatham || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 355)
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.254]]
+
 *Lead-in:* इदानीं ङ द्वैतं नापि चाद्वैतम्"इति व्याचष्टे --
 
 > इदं द्वैतमिदं नेति परस्परनिषेधतः ।

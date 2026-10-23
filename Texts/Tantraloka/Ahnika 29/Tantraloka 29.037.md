@@ -31,5 +31,8 @@ dvidaśāntordhvagakuṇḍalibaindavahṛnnābhikandamiti chummāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 236–237)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.35–39]]
+
 Jayaratha comments on this verse together with 29.39: see [[Tantraloka 29.039#Viveka|29.39]].
 

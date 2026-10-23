@@ -31,6 +31,9 @@ na me duṣkṛtamityeṣā rūḍhistasyāphalāya sā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 104)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.111–113]]
+
 > तस्य भोक्तुस्तथा चेत्स्यादभिसन्धिर्यथात्मनि ॥
 > तदवश्यं परस्यापि सतस्तद्दुष्कृतं भवेत् ।
 > पराभिसन्धिसंवित्तौ स्वाभिसन्धिर्दृढीभवेत् ॥

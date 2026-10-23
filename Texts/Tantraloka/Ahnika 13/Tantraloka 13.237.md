@@ -31,5 +31,8 @@ prāṇairviyojito'pyeṣa bhuṅkte śeṣaphalaṃ yataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 273–274)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.236–238]]
+
 Jayaratha comments on this verse together with 13.238: see [[Tantraloka 13.238#Viveka|13.238]].
 

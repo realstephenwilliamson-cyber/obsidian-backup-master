@@ -36,6 +36,11 @@ catuṣkapañcāśikayā tadetattattvamucyate |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 385–386)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.43–44]]
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.44]]
+
 *Lead-in:* न केवलमेतदत्रैवोक्तं यावदन्यत्रापि--इत्याह--
 
 > श्रीनिर्मर्यादशास्त्रे च तदेतद्विभुनोदितम् ॥

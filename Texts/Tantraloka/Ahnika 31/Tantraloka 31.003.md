@@ -31,5 +31,8 @@ matsyasandhidvayaṃ tvevaṃ dakṣiṇottarayorbhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 66)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.1–4]]
+
 Jayaratha comments on this verse together with 31.6: see [[Tantraloka 31.006#Viveka|31.6]].
 

@@ -35,6 +35,9 @@ ataḥ svacchatamo bodho na ratnaṃ tvākṛtigrahāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 122–123)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.48]]
+
 *Lead-in:* ननु का नामास्य ततोऽप्यत्यन्तस्वच्छता ? -- इत्याह --
 
 > अत्यन्तस्वच्छता सा यत्स्वाकृत्यनवभासनम् ।

@@ -33,6 +33,11 @@ yaḥ sarvatanmayībhāve hlādo natvekakasya saḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 170)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.375–376]]
+>
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.376–377]]
+
 *Lead-in:* इत्यादिनीत्या प्रत्येकमपि आनन्दनिर्भरैव संविदिति किं सर्वतन्मयीभावेन?--इत्याशङ्क्य आह--
 
 > आनन्दनिर्भरा संवित्प्रत्येकं सा तथैकताम् ॥

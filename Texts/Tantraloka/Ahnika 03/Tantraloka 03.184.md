@@ -37,6 +37,11 @@ svarāṇāṃ ṣaṭkameveha mūlaṃ syādvarṇasaṃtatau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 304–305)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.183–184]]
+>
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.184–185]]
+
 *Lead-in:* एवं च श्वरा एव सर्ववर्णानां मूलकारणम्"इयुक्तं भवेत् -- तदाह --
 
 > स्वराणां षट्कमेवेह मूलं स्याद्वर्णसंततौ ॥

@@ -33,6 +33,11 @@ paṭahe dhvanirityeva bhātyabādhitameva yat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 274–275)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.297–298]]
+>
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.298]]
+
 *Lead-in:* एतदेवोपपादयति -
 
 > पटहे ध्वनिरित्येव भात्यबाधितमेव यत् ॥

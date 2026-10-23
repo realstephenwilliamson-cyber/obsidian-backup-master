@@ -37,6 +37,11 @@ grāmadharmavṛttiruktastasya sarvaṃ prasiddhyati |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 226–235)
+> ![[Tantraloka Dyczkowski v01 07 - Chapter One, part 6#Viveka on 1.84–86]]
+>
+> ![[Tantraloka Dyczkowski v01 07 - Chapter One, part 6#Viveka on 1.86]]
+
 *Lead-in:* अत आह—
 
 > ऊर्ध्वं त्यक्त्वाधो विशेत्स रामस्थो मध्यदेशगः ॥

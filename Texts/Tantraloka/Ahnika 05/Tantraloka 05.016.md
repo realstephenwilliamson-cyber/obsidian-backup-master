@@ -36,6 +36,11 @@ buddhiprāṇaśarīreṣu pārameśvaryamañjasā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 14–18)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.14–16]]
+>
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.16–17]]
+
 *Lead-in:* नन्वेवं बुद्ध्यादेरपारमार्थिकत्वेऽपि ध्यानादिद्वारेण यथा परमार्थप्रकाशने निमित्तत्वमुक्तं, तथा शून्यस्यापि कथं न ? -- इत्याशङ्क्याह --
 
 > बुद्धिप्राणशरीरेषु पारमेश्वर्यमञ्जसा ॥

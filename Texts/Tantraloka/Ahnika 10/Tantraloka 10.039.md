@@ -31,6 +31,9 @@ manvāna evaṃ vaktyasmi gamitaḥ svāmineti hi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 320–322)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.39–43]]
+
 *Lead-in:* तदाह --
 
 Jayaratha comments on this verse together with 10.43: see [[Tantraloka 10.043#Viveka|10.43]].

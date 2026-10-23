@@ -33,6 +33,11 @@ upāyo'tra vivekaikaḥ sa hi heyaṃ vihāpayan || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 224–225)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.164–165]]
+>
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.165–166]]
+
 *Lead-in:* किं न्यरूपयत् ? -- इत्याह --
 
 > उपायोऽत्र विवेकैकः स हि हेयं विहापयन् ॥

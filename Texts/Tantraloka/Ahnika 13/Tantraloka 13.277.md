@@ -33,6 +33,11 @@ nānyena śivabhāvo hi kenacitsaṃprakāśate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 295)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.276–277]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.277]]
+
 *Lead-in:* ननु स एवैवं कस्मात्? -- इत्याशङ्क्याह --
 
 > नान्येन शिवभावो हि केनचित्संप्रकाशते ॥

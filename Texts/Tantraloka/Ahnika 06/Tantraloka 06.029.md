@@ -34,6 +34,9 @@ mūrtikriyābhāsanaṃ yatsa evādhvā maheśituḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 249)
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.29]]
+
 *Lead-in:* नन्वमूर्तायां निष्क्रियायां च संविदि मूर्तः क्रमिकश्चाध्वा कथमास्ते ? -- इत्याशङ्क्याह --
 
 > अमूर्तायाः सर्वगत्वान्निष्क्रियायाश्च संविदः ।

@@ -35,6 +35,9 @@ aliases:
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 189–190)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.159–161]]
+
 > ब्रह्माण्डाधश्च रुद्रोर्ध्वं दण्डपाणेः पुरं स च ।
 > शिवेच्छया दृणात्यण्डं मोक्षमार्गं करोति च ॥
 > सर्वरुद्रौ भीमभवावुग्रो देवो महानथ ।

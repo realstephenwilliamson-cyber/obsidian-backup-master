@@ -31,6 +31,9 @@ tataḥ sakalavedyo'sau ghaṭaḥ sakala eva hi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 395–396)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.165–166]]
+
 *Lead-in:* ननु यन्नामेदं शक्तेरुद्भवतिरोभावाद्युक्तं तत्प्रमातुरतिशयो नान्यस्येति कथमेवंभेदभिन्नत्वं घटादेर्वेद्यस्यार्थस्य स्यात् ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 10.166: see [[Tantraloka 10.166#Viveka|10.166]].

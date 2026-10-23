@@ -34,6 +34,9 @@ mālinī hi parā śaktirnirṇītā viśvarūpiṇī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 359)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.233]]
+
 *Lead-in:* ननु कथमेतावतैवास्या विश्वरूपत्वम् ? -- इत्याह --
 
 > बीजयोनिसमापत्तिविसर्गोदयसुन्दरा ।

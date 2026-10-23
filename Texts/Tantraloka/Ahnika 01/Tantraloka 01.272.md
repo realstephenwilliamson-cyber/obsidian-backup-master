@@ -37,6 +37,11 @@ etatprāṇita evāyaṃ vyavahāraḥ pratāyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 448–451)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.272]]
+>
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.272 (2)]]
+
 *Lead-in:* ननु संख्यासाम्यमात्रादेव उद्देशादित्रयस्य पश्यन्त्यादिरूपत्वम्, इति किमिदम् ? इत्याशङ्क्याह—
 
 > इच्छादि शक्तित्रितयमिदमेव निगद्यते ।

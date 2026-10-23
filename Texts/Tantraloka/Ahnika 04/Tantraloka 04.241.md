@@ -34,6 +34,9 @@ saṃvittādātmyamāpannaṃ sarvaṃ śuddhamataḥ sthitam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 338)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.241–242]]
+
 *Lead-in:* न च एतद्युक्तिमात्रेणैव सिद्धं यावदागमेनापि, -- इत्याह --
 
 > श्रीमद्वीरावलौ चोक्तं शुद्ध्यशुद्धिनिरूपणे ॥

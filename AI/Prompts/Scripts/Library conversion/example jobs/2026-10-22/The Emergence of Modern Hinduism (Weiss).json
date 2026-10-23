@@ -1,0 +1,19 @@
+{
+ "pdf": "/mnt/user-data/uploads/Obsidian Vault/Library/Hinduism/Weiss - The Emergence of Modern Hinduism (2019).pdf",
+ "pdf_vault": "Library/Hinduism/Weiss - The Emergence of Modern Hinduism (2019).pdf",
+ "catalog": "Catalog/Hinduism/Weiss - The Emergence of Modern Hinduism",
+ "route": "pymupdf",
+ "title": "The Emergence of Modern Hinduism: Religion on the Margins of Colonialism",
+ "authors": [
+  "Richard S. Weiss"
+ ],
+ "byline": "Richard S. Weiss. University of California Press, Oakland, 2019.",
+ "folder": "Library/Hinduism/The Emergence of Modern Hinduism (Weiss)",
+ "index_name": "The Emergence of Modern Hinduism (Weiss)",
+ "prefix": "The Emergence of Modern Hinduism",
+ "out": "/home/claude/p4/out",
+ "date": "2026-10-22",
+ "ctype": "book",
+ "single": false,
+ "text_source": "PDF text layer (born-digital), PyMuPDF"
+}

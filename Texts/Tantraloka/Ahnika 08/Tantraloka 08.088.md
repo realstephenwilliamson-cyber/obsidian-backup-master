@@ -34,6 +34,9 @@ bhārate yatkṛtaṃ karma kṣapitaṃ vāpyavīcitaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 136–137)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.88]]
+
 *Lead-in:* नन्वेवमत्र शुभाशुभार्जनेन कोऽर्थः? -- इत्याशङ्क्याह --
 
 > भारते यत्कृतं कर्म क्षपितं वाप्यवीचितः ।

@@ -35,6 +35,9 @@ nāthasya vadate'muṣya vimalāṃ viśvarūpatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 118–119)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.44]]
+
 *Lead-in:* एवं प्रतिबिम्बसतत्त्वमुपपाद्य प्रकृते योजयति --
 
 > तेन संवित्तिमकुरे विश्वमात्मानमर्पयत् ।

@@ -33,6 +33,11 @@ vastūktamatra svātantryātsvātmarūpaprakāśanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 199–200)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 13.125.*
+>
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.125]]
+
 *Lead-in:* एतदेव तात्पर्यतो व्याचष्टे --
 
 > वस्तूक्तमत्र स्वातन्त्र्यात्स्वात्मरूपप्रकाशनम् ॥

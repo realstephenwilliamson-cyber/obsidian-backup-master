@@ -31,6 +31,9 @@ tādṛkprathāsvabhāvasya svabhāve kā'nuyojyatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 189)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.107]]
+
 *Lead-in:* ननु भवतु नामैवम्, तथापि भेददशाधिशायित्वेऽस्य किं नायं पर्यनुयोग इति । ननु एवं चेन्मन्यसे कः पर्यनुयोगार्थ ? -- इत्याह --
 
 > देव एव तथाऽसौ चेत् स्वरूपं चास्य तादृशम् ।

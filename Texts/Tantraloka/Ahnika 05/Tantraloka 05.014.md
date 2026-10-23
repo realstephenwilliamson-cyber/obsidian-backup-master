@@ -36,6 +36,11 @@ antaḥ saṃvidi satsarvaṃ yadyapyaparathā dhiyi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 13–17)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.13–14]]
+>
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.14–16]]
+
 *Lead-in:* इत्यादिनीत्या प्रमात्रैकात्म्येनावस्थितानामेव भावानां बहिरवभासनं भवेत् -- इति सर्वत्रैव उपपादितं, तत् बुद्ध्यादेरपि प्रमातुरन्तरवस्थितानामेव अर्थानां किं बहिरवभासनं भवेन्नवा ? इत्याशङ्क्याह -
 
 Jayaratha comments on this verse together with 5.13: see [[Tantraloka 05.013#Viveka|5.13]].

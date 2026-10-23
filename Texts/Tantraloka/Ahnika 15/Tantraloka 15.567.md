@@ -32,5 +32,10 @@ gṛhopaskaraṇāstrāṇi devatāyāgayogataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 333–334)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 15.571.*
+>
+> ![[Tantraloka Dyczkowski v08 10 - Chapter Fifteen, part 9#Viveka on 15.571]]
+
 Jayaratha comments on this verse together with 15.571: see [[Tantraloka 15.571#Viveka|15.571]].
 

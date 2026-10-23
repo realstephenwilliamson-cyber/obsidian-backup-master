@@ -31,6 +31,9 @@ svatantro'vasthito jñānī prasaretsarvavastuṣu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 138–139)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.320–324]]
+
 > श्रीमत्त्रैशिरसेऽप्युक्तं सूर्येन्दुपुटवर्जिते ॥
 > जुगुप्साभावभङ्गस्थे सर्वतः स्तम्भवत्स्थिते ।
 > सर्वव्यापत्तिरहिते प्रमाणप्रत्ययातिगे ॥

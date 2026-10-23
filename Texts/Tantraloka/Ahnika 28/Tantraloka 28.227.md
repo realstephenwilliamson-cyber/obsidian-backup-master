@@ -33,6 +33,11 @@ kṣaye tu karmaṇāṃ teṣāṃ dehayantre'nyathāgate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 101–102)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.224–227]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.227–228]]
+
 *Lead-in:* इत्यादि बहु ॥ इह मरणस्य नान्तरीयकवृत्तित्वात् जन्माभिधानपूर्वं समुचितं वचनम्--इत्याह--
 
 > क्षये तु कर्मणां तेषां देहयन्त्रेऽन्यथागते ॥

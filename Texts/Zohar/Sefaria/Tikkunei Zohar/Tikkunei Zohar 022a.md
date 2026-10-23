@@ -283,7 +283,7 @@ of Whom it is stated: ([[Proverbs 01#^1-8|Prov. 1:8]]) *... do not forsake the T
 
 [^1]: *zot*
 [^2]: this
-[^3]: *BT* Berakhot 5b
+[^3]: *BT* [[Berakhot 5#5b|Berakhot 5b]]
 [^4]: *teshuvah*
 [^5]: Binah
 [^6]: *koh va-khoh*

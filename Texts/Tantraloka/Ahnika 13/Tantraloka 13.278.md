@@ -31,6 +31,9 @@ triṣaṣṭyabhyadhikaṃ bhrāntaṃ vaiṣṇavādyaṃ niśāntare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 296)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.278–279]]
+
 *Lead-in:* अत एवाह -
 
 > स्वच्छन्दशास्त्रे तेनोक्तं वादिनां तु शतत्रयम् ।

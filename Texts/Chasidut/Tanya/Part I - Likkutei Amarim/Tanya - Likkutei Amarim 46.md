@@ -53,7 +53,7 @@ Similarly, [transgression involving] the slightest amount of leaven, or the hand
 [^3]: See above, ch. 2, note 9.
 [^4]: [[Job 25#^25-3|Job 25:3]].
 [^5]: [[Daniel 07#^7-10|Daniel 7:10]].
-[^6]: *Chagigah* 13b.
+[^6]: [[Chagigah 13#13b|*Chagigah* 13b]].
 [^7]: Ch. 20.
 [^8]: [[Isaiah 06#^6-3|Isaiah 6:3]].
 [^9]: [[Torah 10 - Miketz#^42-9|Genesis 42:9]].
@@ -66,7 +66,7 @@ Similarly, [transgression involving] the slightest amount of leaven, or the hand
 [^16]: [[Torah 30 - Kedoshim#^20-26|Leviticus 20:26]].
 [^17]: [[Torah 37 - Sh'lach#^15-40|Numbers 15:40-41]].
 [^18]: See above, ch. 18, note 3.
-[^19]: *Kiddushin* 33a.
+[^19]: [[Kiddushin 33#33a|*Kiddushin* 33a]].
 [^20]: See above, ch. 14.
 [^21]: [[Psalms 073#^73-22|Psalms 73:22-23]].
 [^22]: Implicit in the words ולא אדע.

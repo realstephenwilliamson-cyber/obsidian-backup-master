@@ -33,6 +33,11 @@ tena māyāntarāle ye rudrā ye ca tadūrdhvataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 284–286)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.256–257]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.257–259]]
+
 *Lead-in:* अतश्च शुद्धात्मनां कर्मादिनैरपेक्ष्येणैव भैरवीभावो भवेत् -- इत्याह --
 
 Jayaratha comments on this verse together with 13.256: see [[Tantraloka 13.256#Viveka|13.256]].

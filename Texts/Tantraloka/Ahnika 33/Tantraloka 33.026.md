@@ -31,6 +31,9 @@ vargāṣṭakaṃ varṇabheda ekāśītikalodayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 180–181)
+> ![[Tantraloka Dyczkowski v11 07 - Chapter Thirty-Three#Viveka on 33.25–27]]
+
 > विश्वमेकपरामर्शसहत्वात्प्रभृति स्फुटम् ।
 > अंशांशिकापरामर्शान् पर्यन्ते सहते यतः ॥
 > अतः पञ्चाशदैकात्म्यं स्वरव्यक्तिविरूपता ।

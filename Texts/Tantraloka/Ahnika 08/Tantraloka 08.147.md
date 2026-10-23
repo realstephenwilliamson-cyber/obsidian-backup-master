@@ -37,6 +37,11 @@ svassapta mārutaskandhā āmeghādyāḥ pradhānataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 180–181)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.147]]
+>
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.147 (2)]]
+
 *Lead-in:* अत्र बद्धत्वेऽपि एषामाधारः कः ? -- इत्याशङ्क्याह --
 
 > अत्र बद्धानि सर्वाण्यप्यूह्यन्ते निलमण्डले ।

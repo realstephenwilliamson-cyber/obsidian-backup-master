@@ -31,6 +31,9 @@ malo naśyettathāpyeṣa nāśo yadi sahetukaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 158–159)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.54–56]]
+
 > मलस्य पाकः कोऽयं स्यान्नाशश्चेदितरात्मनाम् ।
 > स एको मल इत्युक्तेर्नैर्मल्यमनुषज्यते ॥
 > अथ प्रत्यात्मनियतोऽनादिश्च प्रागभाववत् ।

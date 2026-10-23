@@ -36,6 +36,11 @@ jñānaṃ svapratyayaṃ yasmānna phalāntaramarhati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 236–237)
+> ![[Tantraloka Dyczkowski v09 11 - Chapter Twenty#Viveka on 20.8–10]]
+>
+> ![[Tantraloka Dyczkowski v09 11 - Chapter Twenty#Viveka on 20.10–11]]
+
 *Lead-in:* एतदेव युक्त्यागमाभ्यामुपपादयति--
 
 > ज्ञानं स्वप्रत्ययं यस्मान्न फलान्तरमर्हति ॥

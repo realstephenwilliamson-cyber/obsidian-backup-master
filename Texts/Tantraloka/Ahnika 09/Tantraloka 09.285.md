@@ -33,6 +33,11 @@ anye tvāhurdhvaniḥ khaikaguṇastadapi yujyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 263–264)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.283–285]]
+>
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.285–287]]
+
 *Lead-in:* नन्वन्यैराकाशैकगुणः शब्दः -- इत्युक्तम् । यदाहुः -- "तत्राकाशस्य गुणाः शब्दसंख्यापरिमाणपृथक्त्वसंयोगविभागाः ।"इति । तत्कथमिह वायोरपि तद्गुणत्वमुच्यते ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 9.284: see [[Tantraloka 09.284#Viveka|9.284]].

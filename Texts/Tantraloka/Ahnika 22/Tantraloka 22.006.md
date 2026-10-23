@@ -31,6 +31,9 @@ anena kramayogena saṃprāptaḥ paramaṃ padam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 279)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.2–7]]
+
 > उक्तं श्रीमालिनीतन्त्रे किल पार्थिवधारणाम् ।
 > उक्त्वा यो योजितो यत्र स तस्मान्न निवर्तते ॥
 > योग्यतावशसञ्जाता यस्य यत्रैव शासना ।

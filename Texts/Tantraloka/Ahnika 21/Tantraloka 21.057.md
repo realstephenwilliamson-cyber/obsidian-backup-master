@@ -36,6 +36,11 @@ yadi vā daiśikaḥ samyaṅ na dīptastasya tatpurā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 274–275)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.56–57]]
+>
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.57–58]]
+
 *Lead-in:* अत्रैव पक्षान्तरमाह--
 
 Jayaratha comments on this verse together with 21.56: see [[Tantraloka 21.056#Viveka|21.56]].

@@ -34,6 +34,9 @@ sadya utkrāntidā cānyā yasyāṃ pūrṇāhutiṃ tadā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 219–220)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.27–29]]
+
 > अनयोत्क्रम्यते शिष्यो बलादेवैककं क्षणम् ॥
 > कालस्योल्लङ्घ्य भोगो हि क्षणिकोऽस्यास्तु किं ततः ।
 > सद्य उत्क्रान्तिदा चान्या यस्यां पूर्णाहुतिं तदा ॥

@@ -31,6 +31,9 @@ saṃvitturīyarūpaivaṃ prakāśātmā svayaṃ ca sā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 468–469)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.268–269]]
+
 > रूपं दृशाहमित्यंशत्रयमुत्तीर्य वर्तते ।
 > द्वारमात्राश्रितोपाया पश्यामीत्यनुपायिका ॥
 > प्रमातृता स्वतन्त्रत्वरूपा सेयं प्रकाशते ।

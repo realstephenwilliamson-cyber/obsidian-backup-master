@@ -34,6 +34,9 @@ svasaṃvinmātṛmakure svātantryādbhāvanādiṣu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 210–211)
+> ![[Tantraloka Dyczkowski v01 07 - Chapter One, part 6#Viveka on 1.72]]
+
 *Lead-in:* न केवलं शक्तिरेवास्यैवङ्कल्पितेन भेदेनावभासते यावत्स्वयमपि -- इत्याह --
 
 > शिवश्चालुप्तविभवस्तथा सृष्टोऽवभासते ।

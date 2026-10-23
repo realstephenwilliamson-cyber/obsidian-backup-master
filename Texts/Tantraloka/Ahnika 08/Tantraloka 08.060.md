@@ -36,6 +36,11 @@ caitrarathanandanākhye vaibhrājaṃ pitṛvanaṃ vanānyāhuḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 109–111)
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.58–60]]
+>
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.60–62]]
+
 *Lead-in:* तदाह --
 
 > एतैर्भुवमवष्टभ्य मेरुस्तिष्ठति निश्चलः ।

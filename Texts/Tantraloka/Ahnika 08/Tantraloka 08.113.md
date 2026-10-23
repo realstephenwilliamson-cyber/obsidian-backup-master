@@ -35,6 +35,9 @@ catvāriṃśatsahasrāṇi dhvāntaṃ lokācalādbahiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 158–159)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.113–114]]
+
 *Lead-in:* एवमेतत्प्रसङ्गादभिधाय प्रकृतमेवानुसरति --
 
 Jayaratha comments on this verse together with 8.114: see [[Tantraloka 08.114#Viveka|8.114]].

@@ -36,6 +36,11 @@ nārthavādādiśaṅkā ca vākye māheśvare bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 329–331)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.231–232]]
+>
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.232]]
+
 *Lead-in:* इत्यादेः श्रूयमाणस्य सर्वनिर्विकल्पेन योगिना भाव्यम्, -- इत्यादेः परिकल्प्यमानस्य वा विधेः प्ररोचनाकारितया शेषभूतोऽयमर्थवाद एव ? -- इत्याशङ्क्याह --
 
 > नार्थवादादिशङ्का च वाक्ये माहेश्वरे भवेत् ॥

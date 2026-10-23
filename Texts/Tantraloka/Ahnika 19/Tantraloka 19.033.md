@@ -36,6 +36,11 @@ paṭhatostvanayorvastusvabhāvāttasya sā gatiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 221–222)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.32–33]]
+>
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.33]]
+
 *Lead-in:* ननु यदि नाम नायमुपदेशादिरूपः पाठस्तत्कथमस्य समयदीक्षा कृता भवेदित्युक्तम् ?--इत्याशङ्क्याह--
 
 > पठतोस्त्वनयोर्वस्तुस्वभावात्तस्य सा गतिः ॥

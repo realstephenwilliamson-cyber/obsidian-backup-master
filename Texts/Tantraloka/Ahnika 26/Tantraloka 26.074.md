@@ -34,6 +34,11 @@ svayaṃ tu śaṅkāsaṅkocaniṣkāsanaparāyaṇaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 398)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 26.75–76.*
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.75–76]]
+
 *Lead-in:* न च एतन्निर्मूलमेव उक्तम्--इत्याह--
 
 > श्रीमन्मतमहाशास्त्रे तदुक्तं विभुना स्वयम् ।

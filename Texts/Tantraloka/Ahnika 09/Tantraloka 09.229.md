@@ -31,6 +31,9 @@ vṛttirbodho bhaved buddheḥ sā cāpyālambanaṃ dhruvam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 215–216)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.228–229]]
+
 > विषयप्रतिबिम्बं च तस्यामक्षकृतं बहिः ।
 > अतद्द्वारं समुत्पेर्क्षाप्रतिभादिषु तादृशी ॥
 > वृत्तिर्बोधो भवेद् बुद्धेः सा चाप्यालम्बनं ध्रुवम् ।

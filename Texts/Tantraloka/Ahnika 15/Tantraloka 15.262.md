@@ -33,6 +33,11 @@ tena ye'codayanmūḍhāḥ pāśadāhavidhūnane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 157–158)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.261–262]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.262–264]]
+
 *Lead-in:* अतश्च देहदाहानन्तरमेव यष्टा तदुत्तीर्णे शुद्धचिदात्मनि शिवे रूढ इति किमस्य पुनः शुद्धदेहसृष्ट्येति चोदयन्तो दूरं निरस्ता-- इत्याह--
 
 Jayaratha comments on this verse together with 15.261: see [[Tantraloka 15.261#Viveka|15.261]].

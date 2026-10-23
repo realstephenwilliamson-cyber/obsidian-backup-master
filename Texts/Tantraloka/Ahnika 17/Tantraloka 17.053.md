@@ -34,6 +34,9 @@ aparāmantrataḥ śiṣyamuddhṛtyātmahṛdaṃ nayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 164)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.52–53]]
+
 > एवं कलामन्त्रपदवर्णेष्वपि विचक्षणः ।
 > तिस्रस्तिस्रो हुतीर्दद्यात् पृथक् सामस्त्यतोऽपि वा ॥
 > ततः पूर्णाहुतिं दत्त्वा परया वौषडन्तया ।

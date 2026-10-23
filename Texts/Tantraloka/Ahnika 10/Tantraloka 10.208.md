@@ -31,6 +31,9 @@ lābhaḥ sarvajñakartṛtve tuṭeḥ pāto'parā tuṭiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 423–425)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.207–208]]
+
 *Lead-in:* न चात्र विगीतत्वमस्ति -- इत्याह --
 
 > तथा चोक्तं कल्लटेन श्रीमता तुटिपातगः ।

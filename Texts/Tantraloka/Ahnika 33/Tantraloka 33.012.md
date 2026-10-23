@@ -31,5 +31,8 @@ tanusecanamūrtīśāḥ sarvāmṛtadharo'paraḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 174)
+> ![[Tantraloka Dyczkowski v11 07 - Chapter Thirty-Three#Viveka on 33.9–12]]
+
 Jayaratha comments on this verse together with 33.16: see [[Tantraloka 33.016#Viveka|33.16]].
 

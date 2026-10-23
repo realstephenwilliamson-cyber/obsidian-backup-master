@@ -33,6 +33,11 @@ prasiddhiścāvigānotthā pratītiḥ śabdanātmikā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 201–202)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.19]]
+>
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.19–20]]
+
 *Lead-in:* निमित्तान्तरमपि अत्र किञ्चित् न न्याययम्--इत्याह--
 
 > न च काप्यत्र दोषाशा शङ्कायाश्च निवृत्तितः ।

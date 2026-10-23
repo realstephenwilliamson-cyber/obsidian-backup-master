@@ -33,6 +33,11 @@ nityādyalpālpakaṃ kuryādyaduktaṃ brahmayāmale || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 317)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.42–43]]
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.43–44]]
+
 *Lead-in:* एवं परानुग्रहव्यग्रतया नित्याद्यपि अयं संक्षेपेण कुर्यात्-- इत्याह--
 
 > नित्याद्यल्पाल्पकं कुर्याद्यदुक्तं ब्रह्मयामले ॥

@@ -34,5 +34,8 @@ nīlaḥ śvetastriśṛṅgaśca tāvantaḥ savyataḥ punaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 115–117)
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.63–67]]
+
 Jayaratha comments on this verse together with 8.67: see [[Tantraloka 08.067#Viveka|8.67]].
 

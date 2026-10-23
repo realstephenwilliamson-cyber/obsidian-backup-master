@@ -31,6 +31,9 @@ kṣamayitvā visṛjyaḥ syāttato'gneśca visarjanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 285–286)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.23–27]]
+
 > पूजितेनैव मन्त्रेण कृत्वा नामास्य संपुटम् ।
 > प्रायश्चित्तं शोधयामि फट्स्वाहेत्यूहयोगतः ॥
 > शतं सहस्रं वा हुत्वा पुनः पूर्णाहुतिं तथा ।

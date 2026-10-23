@@ -34,6 +34,9 @@ bhūyo bhūyastadekātma vaktraṃ vetti nijātmanaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 309–310)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.207–208]]
+
 *Lead-in:* एतदेव हृदयङ्गमीकर्तुं दृष्टान्तान्तरप्रदर्शनेनाप्युपपादयितुमाह --
 
 Jayaratha comments on this verse together with 4.208: see [[Tantraloka 04.208#Viveka|4.208]].

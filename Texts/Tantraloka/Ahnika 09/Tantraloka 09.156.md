@@ -33,6 +33,11 @@ evaṃ vidyādayo'pyete dharāntāḥ paramārthataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 136–137)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.155–156]]
+>
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.156–157]]
+
 *Lead-in:* एतदेवान्यत्रापि अतिदिशति --
 
 > एवं विद्यादयोऽप्येते धरान्ताः परमार्थतः ॥

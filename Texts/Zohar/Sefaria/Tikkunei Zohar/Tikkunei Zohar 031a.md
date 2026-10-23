@@ -263,7 +263,7 @@ And because of this, the measure
 [^8]: *reishyt*
 [^9]: *ḥallah*
 [^10]: wheat
-[^11]: *BT* Berakhot 40a
+[^11]: *BT* [[Berakhot 40#40a|Berakhot 40a]]
 [^12]: ה
 [^13]: *ḥal*
 [^14]: sin
@@ -291,7 +291,7 @@ And because of this, the measure
 [^36]: *Hei*
 [^37]: The-Extractor
 [^38]: ה
-[^39]: *BT* Rosh HaShanah 8a
+[^39]: *BT* [[Rosh Hashanah 8#8a|Rosh HaShanah 8a]]
 [^40]: *’issurin*
 [^41]: *’aser te-’aser*
 [^42]: Malkhut

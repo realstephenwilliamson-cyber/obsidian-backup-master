@@ -35,6 +35,9 @@ iti deśādhvavibhāgaḥ kathitaḥ śrīśambhunā samādiṣṭaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 395–397)
+> ![[Tantraloka Dyczkowski v05 11 - Chapter Eight, part 9#Viveka on 8.445–452]]
+
 *Lead-in:* ननु शान्त्यतीतायामप्यन्यत्र भुवनविभाग उक्तस्तत्पुनरिह कस्मात् न ? इत्याशङ्क्याह --
 
 > ..................शान्त्यतीता त्वभुवनैव ।

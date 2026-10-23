@@ -31,6 +31,9 @@ vayaṃ tūktānuvacanamaphalaṃ nādriyāmahe || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 239)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.30–31]]
+
 > मयैतत्स्रोतसां रूपमनुत्तरपदाद् ध्रुवात् ।
 > आरभ्य विस्तरेणोक्तं मालिनीश्लोकवार्तिके ॥
 > जिज्ञासुस्तत एवेदमवधारयितुं क्षमः ।

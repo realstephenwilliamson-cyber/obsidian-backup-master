@@ -33,6 +33,9 @@ atha paramarahasyo'yaṃ cakrāṇāṃ bhaṇyate'bhyudayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 2–3)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.1]]
+
 *Lead-in:* इदानीं कालतत्त्वानुषक्तमेव द्वितीयार्धेन चक्रोदयं वक्तुमुपक्रमते --
 
 > अथ परमरहस्योऽयं चक्राणां भण्यतेऽभ्युदयः ॥

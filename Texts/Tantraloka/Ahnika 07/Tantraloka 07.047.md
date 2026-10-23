@@ -34,5 +34,10 @@ tāvantamudayaṃ kṛtvā tripadoktyāditaḥ kramāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 34–36)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 7.48–52.*
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.48–52]]
+
 Jayaratha comments on this verse together with 7.51: see [[Tantraloka 07.051#Viveka|7.51]].
 

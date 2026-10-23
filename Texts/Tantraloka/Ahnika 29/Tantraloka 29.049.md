@@ -31,6 +31,9 @@ saṅghaṭṭānandaviśrāntyā yugmamitthaṃ prapūjayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 245–246)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.49–50]]
+
 *Lead-in:* ननु एकवीरक्रमात् यामलक्रमेण पूजायां को विशेषः?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 29.50: see [[Tantraloka 29.050#Viveka|29.50]].

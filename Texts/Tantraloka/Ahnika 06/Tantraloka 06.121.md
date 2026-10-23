@@ -35,6 +35,9 @@ varṣe'smiṃstithayaḥ pañca pratyaṅgulamiti kramaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 348–349)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.121–122]]
+
 *Lead-in:* तदाह -
 
 > निर्गमे दिनवृद्धिः स्याद्विपरीते विपर्ययः ।

@@ -36,6 +36,11 @@ tasyāpyuktanayādvedyabhāve'tra parikalpite || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 14–16)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.21–22]]
+>
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.22–23]]
+
 *Lead-in:* नन्वेवमस्तु को दोषः, एतस्यापि रूपस्य भावनोपदेशादौ पुनर्यदा वेद्यभावः परिकल्प्यते तदा कस्य प्रमातृत्वं स्यात् ? -- इत्याशङ्क्याह --
 
 > तस्याप्युक्तनयाद्वेद्यभावेऽत्र परिकल्पिते ॥

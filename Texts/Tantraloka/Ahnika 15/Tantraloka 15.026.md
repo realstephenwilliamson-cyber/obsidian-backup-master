@@ -31,6 +31,9 @@ dīkṣānugrāhikā pālyā viśeṣasamayāstu taiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 19–22)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.23–26]]
+
 > साधको द्विविधः शैवधर्मा लोकोज्झितस्थितिः ॥
 > लोकधर्मी फलाकांक्षी शुभस्थश्चाशुभोज्झितः ।
 > द्विधा मुमुक्षुर्निर्बीजः समयादिविवर्जितः ॥

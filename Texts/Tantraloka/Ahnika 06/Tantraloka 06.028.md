@@ -36,6 +36,11 @@ ataḥ saṃvidi sarvo'yamadhvā viśramya tiṣṭhati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 248–249)
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.28]]
+>
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.28 (2)]]
+
 *Lead-in:* एतच्चोपसंहारद्वारेण प्रकृते योजयति --
 
 > एवं बद्धा शिखा यत्र तत्तत्फलनियोजिका ।

@@ -36,6 +36,11 @@ yadi vā vastudharmo'pi mātrapekṣānibandhanaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 342–343)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.244–245]]
+>
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.245–246]]
+
 *Lead-in:* ननु प्रमातुस्तत्तद्वस्तुदर्शनेनैव हि मनः प्रसीदेद्विचिकित्स्याच्च, -- इति कथं न शुद्ध्यशुद्धी वस्तुनो धर्मः? -- इत्याशङ्क्याह --
 
 > यदि वा वस्तुधर्मोऽपि मात्रपेक्षानिबन्धनः ॥

@@ -31,5 +31,8 @@ gatabhedaṃ ca yantrāṇāṃ sandhīnāṃ marmaṇāmapi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 328–329)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.142–146]]
+
 Jayaratha comments on this verse together with 29.145: see [[Tantraloka 29.145#Viveka|29.145]].
 

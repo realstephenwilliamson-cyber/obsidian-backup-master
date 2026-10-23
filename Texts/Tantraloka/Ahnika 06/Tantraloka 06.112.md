@@ -35,6 +35,9 @@ indugrahaśca pratipatsandhau pūrvapraveśataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 340)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.112–113]]
+
 *Lead-in:* अत्रैव च पक्षसन्धिताद्यप्यतिदिशति --
 
 Jayaratha comments on this verse together with 6.113: see [[Tantraloka 06.113#Viveka|6.113]].

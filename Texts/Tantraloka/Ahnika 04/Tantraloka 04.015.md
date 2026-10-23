@@ -34,6 +34,9 @@ heyādyālocanāttasmāttatra yatnaḥ praśasyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 20–23)
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.15–16]]
+
 *Lead-in:* अतश्च "इदमेव उत्तमं योगस्याङ्गं"इत्यस्मद्दर्शने उच्यते, इत्याह—
 
 Jayaratha comments on this verse together with 4.16: see [[Tantraloka 04.016#Viveka|4.16]].

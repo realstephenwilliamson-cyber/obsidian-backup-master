@@ -34,6 +34,11 @@ yathā hi raktahṛdayastāṃstānkāntāguṇānsvayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 278)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.451–452]]
+>
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.452–453]]
+
 *Lead-in:* एतदेव दृष्टान्तोपदर्शनेन हृदयङ्गमयति--
 
 > यथा हि रक्तहृदयस्तांस्तान्कान्तागुणान्स्वयम् ॥

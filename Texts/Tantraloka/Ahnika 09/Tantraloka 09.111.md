@@ -33,6 +33,11 @@ tasya bhoktustathā cetsyādabhisandhiryathātmani || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 103–104)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.110–111]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.111–113]]
+
 *Lead-in:* एतदेव उपपादयति -
 
 Jayaratha comments on this verse together with 9.110: see [[Tantraloka 09.110#Viveka|9.110]].

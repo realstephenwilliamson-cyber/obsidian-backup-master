@@ -33,6 +33,11 @@ etadevānusartavyamarghapātre'pi lakṣaṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 411–412)
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.25–28]]
+>
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.28]]
+
 *Lead-in:* एतदेव अन्यत्रापि अतिदिशति--
 
 > एतदेवानुसर्तव्यमर्घपात्रेऽपि लक्षणम् ॥

@@ -35,5 +35,8 @@ dīkṣopakramaṇaṃ dīkṣā sāmayī pautrike vidhau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 460–461)
+> ![[Tantraloka Dyczkowski v01 13 - Chapter One, part 12#Viveka on 1.278–284]]
+
 Jayaratha comments on this verse together with 1.283: see [[Tantraloka 01.283#Viveka|1.283]].
 

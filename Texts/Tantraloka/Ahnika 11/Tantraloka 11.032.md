@@ -34,6 +34,9 @@ ityuktaṃ kṣobhakatvena spande sparśastu no tathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 32–33)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.32]]
+
 *Lead-in:* नन्वेषां भूतगुणत्वाविशेषेऽपि योगिना स्पर्श एव स्पृहणीयो न रूपादयः -- इत्यत्र किं प्रमाणम् ? -- इत्याशङ्क्याह -
 
 > अतो विन्दुरतो नादो रूपमस्मादतो रसः ।

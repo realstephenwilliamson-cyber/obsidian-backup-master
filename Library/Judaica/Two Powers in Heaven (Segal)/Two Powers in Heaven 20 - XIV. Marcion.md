@@ -41,7 +41,7 @@ follow the "orthodox exegesis" were descended from Cain, but he transvalued that
 
 Such common terminology between Jewish and Christian communities is important to us because it points to a relationship between them. W e already have good evidence that such relationships existed, based on corresponding terminology and exegesis in the rabbis and church fathers. Although the church's use of language parallel to rabbinic practice in calling Marcion names appears now to tell us nothing specific about the "two powers" controversy, the reversal theme will provide a 
 
-[^3]: b. Yeb. 16a, j. Yeb. 3a.
+[^3]: b. [[Yevamot 16#16a|Yeb. 16a]], j. Yeb. 3a.
 [^4]: See N. A. Dahl, "Der Erstgeborene Satans und Der Vater des Teufels (Polyk
 [^7]: ״Cf., see Iren., *Haer*., I, X X V , 1; Origen, *Contr. Gels.,* IV, 10 and E. C. Blackman, *Marcion and his Influence* (London: 1948), p. 102.
 [^6]: See Harnack, *Marcion: Das Evangelium vom fremden Gott: Eine Monographie zur Geschichte der Grundlegung der katholischen Kirche* (Leipzig: 2nd ed., 1924). In Harnack's opinion, based on the reports of Irenaeus, Marcion believed that Christ's function was to be judge at the end of the world, redeeming the good men from among the living and from the grave. If so, this would have been an idea he held in common with orthodox Christianity.

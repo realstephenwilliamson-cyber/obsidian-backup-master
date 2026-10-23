@@ -34,6 +34,9 @@ adhikīkuryād gaṇanāvaśena bhāgaṃ vidhidvaye kramaśaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 59–60)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.131]]
+
 *Lead-in:* ननु कथं चात्र द्वादशानां चतुर्विशतेर्वा अंगुलानामाधिक्यम् ?-- इत्याशङ्क्याह--
 
 > लकुलादेर्योगाष्टकपर्यन्तस्यात्र भुवनपूगस्य ।

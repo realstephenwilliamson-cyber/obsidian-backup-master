@@ -36,6 +36,11 @@ mātṛmaṇḍalasaṃbodhāt saṃskārāttapasaḥ priye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 73–76)
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.55–57]]
+>
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.57–58]]
+
 *Lead-in:* एवमुपदर्शितेऽपि निमित्तानन्त्यसाधनाय प्रमाणेऽधिकावापं कर्तुं श्रीब्रह्मयामलग्रन्थं पठति --
 
 Jayaratha comments on this verse together with 4.56: see [[Tantraloka 04.056#Viveka|4.56]].

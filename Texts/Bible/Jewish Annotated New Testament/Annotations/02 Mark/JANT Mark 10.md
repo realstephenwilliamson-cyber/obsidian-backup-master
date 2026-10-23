@@ -39,7 +39,7 @@ Text: [[NRSVue Mark 10|NRSVue]] · [[Mark 10|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Mark 10#^10-21|21]]:** Many biblical passages mandate giving *to the poor* ([[Torah 49 - Ki Teitzei#^24-13|Deut 24.13–22]]; Am 2.6; [[Psalms 085#^85-12|Ps 85.12]]; [[Psalms 089#^89-15|89.15]]; [[Proverbs 10#^10-2|Prov 10.2]]; [[Proverbs 19#^19-17|19.17]]; [[LXX Tobit 04#^4-5|Tob 4.5–7]]; [[LXX Sirach 07#^7-29|Sir 7.29–36]]), as did the rabbis (*t. Peʾah* 4.19; *Lev. Rab.* 3.1), but giving all of one’s possessions is not commended in rabbinic tradition, since that would put one’s family at risk. Some NT texts promote a higher level of giving ([[Acts 02#^2-43|Acts 2.43–47]]; [[Acts 04#^4-32|4.32–5.11]]; 2 Cor 8–9; [[James 02#^2-1|Jas 2.1–7]]). ^10-21
 
-**[[NRSVue Mark 10#^10-25|25]]:** Contrary to a commonly cited medieval legend, there is no narrow “Eye of the Needle” gate in Jerusalem. The Talmud (*b. Ber.* 55b) uses a needle’s eye and an *wife* b Gk lacks *the money* c Other ancient authorities add *for those who trust in riches* elephant to make the same point. ^10-25
+**[[NRSVue Mark 10#^10-25|25]]:** Contrary to a commonly cited medieval legend, there is no narrow “Eye of the Needle” gate in Jerusalem. The Talmud ([[Berakhot 55#55b|*b. Ber.* 55b]]) uses a needle’s eye and an *wife* b Gk lacks *the money* c Other ancient authorities add *for those who trust in riches* elephant to make the same point. ^10-25
 
 **[[NRSVue Mark 10#^10-28|28–31]]:** This dialogue between Jesus and Peter lies right before the last of the three Passion predictions (see Introduction and 8.22–10.52n.) and is thus near the end of a long transitional arc between the Galilean ministry (1–8.26) and the Passion (11.1–16.8). ^10-28
 

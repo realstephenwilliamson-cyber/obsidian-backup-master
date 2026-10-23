@@ -1,0 +1,35 @@
+{
+ "pdf": "/mnt/user-data/uploads/Obsidian Vault/Library/Judaica/Jewish Mysticism Guidebook.pdf",
+ "pdf_vault": "Library/Judaica/Jewish Mysticism Guidebook.pdf",
+ "catalog": "Catalog/Judaica/Bland - Jewish Mysticism",
+ "route": "pymupdf",
+ "title": "Jewish Mysticism",
+ "authors": [
+  "Kalman P. Bland"
+ ],
+ "byline": "Kalman P. Bland. The Teaching Company, 1996.",
+ "folder": "Library/Judaica/Jewish Mysticism (Bland)",
+ "index_name": "Jewish Mysticism (Bland)",
+ "prefix": "Jewish Mysticism",
+ "out": "/home/claude/p4/out",
+ "date": "2026-10-22",
+ "ctype": "other",
+ "single": true,
+ "text_source": "the PDF's earlier OCR text layer (a scan), PyMuPDF",
+ "callout": "> [!note] Text from the PDF's OCR layer\n> This text is the scan's earlier OCR layer. The English is reliable but may have misread words, especially names and numbers. For exact wording, check the PDF (the *Open the PDF* button on the catalog note).",
+ "ncols": 2,
+ "ncols_landscape": true,
+ "pnum_override": {
+  "3": "2–3",
+  "4": "4–5",
+  "5": "6–7",
+  "6": "8–9",
+  "7": "10–11",
+  "8": "12–13",
+  "9": "14–15",
+  "10": "16–17",
+  "11": "18–19",
+  "12": "20–21",
+  "13": "22"
+ }
+}

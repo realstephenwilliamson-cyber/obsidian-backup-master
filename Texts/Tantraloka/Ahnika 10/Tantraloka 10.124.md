@@ -33,6 +33,11 @@ tato layākale meye pramātāsti layākalaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 373–375)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.123–124]]
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.124–127]]
+
 *Lead-in:* अत एवाह -
 
 Jayaratha comments on this verse together with 10.123: see [[Tantraloka 10.123#Viveka|10.123]].

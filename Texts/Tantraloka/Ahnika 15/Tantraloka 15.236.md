@@ -31,6 +31,9 @@ ahantāyāṃ hi dehatvaṃ sā dhvastā taddahed dhruvam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 143)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.236]]
+
 *Lead-in:* ननु सत्यपि अहन्ताया विध्वंसे न देहस्य दाहं पश्यामस्तत्सद्भावस्य प्रत्यक्षसिद्धत्वात्?--इत्याशङ्क्य आह--
 
 > नहि सद्भावमात्रेण देहोऽसावन्यदेहवत् ।

@@ -41,6 +41,6 @@ Pritzker translation (Matt): [[Zohar 8.10 - Commentary on Naso, continued#^z3-14
 
 **Nasso 17:173** [^2] A teacher taught in the presence of R. Simeon: Whoever is in distress on account of a dream should recite during the time the priests spread forth their hands the following:[^3] “ O Master of the world, I am Thine and my dreams are Thine….” For that is a propitious moment, and if one then offers up prayer in his distress, Rigour is turned for him into Mercy. ’ ^nasso-17-173
 
-[^1]: v. T. B. Hagigah, 16a.
+[^1]: v. T. B. [[Chagigah 16#16a|Hagigah, 16a]].
 [^2]: The first 3 lines of the Hebrew text are not found in our translation.
 [^3]: T. B. Berachoth, 55a.

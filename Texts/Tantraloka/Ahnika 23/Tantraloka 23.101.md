@@ -33,6 +33,11 @@ sādhakasyābhiṣeke'pi sarvo'yaṃ kathyate vidhiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 340–341)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.100–101]]
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.101]]
+
 *Lead-in:* इदानीं साधकत्वमभिधातुं तदभिषेके पूर्वोक्तं विधिमतिदिशति--
 
 > साधकस्याभिषेकेऽपि सर्वोऽयं कथ्यते विधिः ॥

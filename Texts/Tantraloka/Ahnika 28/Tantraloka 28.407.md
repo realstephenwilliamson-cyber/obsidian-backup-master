@@ -31,6 +31,9 @@ vyākhyānte kṣamayitvā visṛjya sarvaṃ kṣipedagādhajale |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 188–189)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.407]]
+
 > दृढरचितपूर्वपक्षप्रोद्धरणपथेन वस्तु यद्वाच्यम् ।
 > शिष्यमतावारोहति तदाशुसंशयविपर्ययैर्विकलम् ॥
 > भाषा न्यायो वादो लयः क्रमो यद्यदेति शिष्यस्य ।

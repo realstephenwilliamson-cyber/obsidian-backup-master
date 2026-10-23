@@ -34,5 +34,12 @@ agnyarṇatattvamekakapadamantraṃ sainyabhuvanamiti turyā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 49)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 11.53.*
+>
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.53]]
+>
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.53 (continued)]]
+
 Jayaratha comments on this verse together with 11.53: see [[Tantraloka 11.053#Viveka|11.53]].
 

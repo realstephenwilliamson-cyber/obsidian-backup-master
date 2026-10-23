@@ -35,6 +35,9 @@ himānīva mahāgrīṣme svayameva vilīyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 381–382)
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.277]]
+
 *Lead-in:* नन्वत्रासक्त्या किं स्यात् ? -- इत्याशङ्क्याह --
 
 > अस्ंमिश्च यागे विश्रान्ंतिं कुर्वतां भवडम्बरः ।

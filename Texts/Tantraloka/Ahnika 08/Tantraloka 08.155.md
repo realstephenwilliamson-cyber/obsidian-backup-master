@@ -35,5 +35,8 @@ brahmāsanātkoṭiyugmaṃ puraṃ viṣṇornirūpitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 183–187)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.155–157]]
+
 Jayaratha comments on this verse together with 8.156: see [[Tantraloka 08.156#Viveka|8.156]].
 

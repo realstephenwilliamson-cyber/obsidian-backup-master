@@ -34,5 +34,10 @@ proktaṃ bhagavatā śrīmadānandādhikaśāsane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 95–97)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 8.41–42.*
+>
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.41–42]]
+
 Jayaratha comments on this verse together with 8.41: see [[Tantraloka 08.041#Viveka|8.41]].
 

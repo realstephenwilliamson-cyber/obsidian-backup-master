@@ -31,6 +31,9 @@ na santānādi no vidyāvrataṃ prātibhavartmanaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 210)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.140–141]]
+
 *Lead-in:* एवमकल्पितत्वादेव प्रातिभस्य गुरोर्न बाह्यं किञ्चिदपेक्षणीयम् -- इत्याह --
 
 Jayaratha comments on this verse together with 13.141: see [[Tantraloka 13.141#Viveka|13.141]].

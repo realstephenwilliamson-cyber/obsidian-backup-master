@@ -31,6 +31,9 @@ eṣā mudrā mahāmudrā bhairavasyeti gahvare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 161)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.52–53]]
+
 > नासां नेत्रद्वयं चापि हृत्स्तनद्वयमेव च ॥
 > वृषणद्वयलिङ्गं च प्राप्य कायं गता त्वियम् ।
 > भवस्थानाभवस्थानमुच्चारेणावधारयेत् ॥

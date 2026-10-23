@@ -34,6 +34,9 @@ niḥsṛtya jhaṭiti svātmavāmamārgeṇa saṃviśet |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 19–20)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.39–45]]
+
 > तथा ह्यादौ परं रूपमेकीभावेन संश्रयेत् ॥
 > तस्मादाग्नेयचारेण ज्वालामालामुपाविशेत् ।
 > पशोर्वामेन चन्द्रांशुजालं तापेन गालयेत् ॥

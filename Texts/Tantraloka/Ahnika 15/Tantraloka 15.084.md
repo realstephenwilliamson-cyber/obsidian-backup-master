@@ -31,6 +31,9 @@ agryaṃ tatkāmarūpaṃ syādbindunādadvayaṃ tataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 60–61)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.84–86]]
+
 *Lead-in:* तदेव अर्थद्वारेण आह--
 
 Jayaratha comments on this verse together with 15.96: see [[Tantraloka 15.096#Viveka|15.96]].

@@ -31,6 +31,9 @@ evaṃ krameṇa saṃpuṣṭadehaprāṇabalo bhṛśam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 99–100)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.222–224]]
+
 > स वायवात्मा दृढे तस्मिन्देहयन्त्रे चिदात्मना ॥
 > प्रेर्यमाणो विचरति भस्त्रायन्त्रगवायुवत् ।
 > अतः प्राग्गाढसंसुप्तोत्थितवत्स प्रबुध्यते ॥

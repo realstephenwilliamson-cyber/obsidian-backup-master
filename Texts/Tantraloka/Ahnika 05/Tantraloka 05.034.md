@@ -36,6 +36,11 @@ anena dhyānayogena viśvaṃ cakre vilīyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 34–35)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.33–34]]
+>
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.34–35]]
+
 *Lead-in:* एतदेव सङ्कलयति -
 
 > अनेन ध्यानयोगेन विश्वं चक्रे विलीयते ॥

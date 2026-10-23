@@ -33,6 +33,11 @@ asmākaṃ tu svaprakāśaśivatāmātravādinām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 334–335)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.61–62]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.62–63]]
+
 *Lead-in:* अस्मत्पक्षे पुनः परप्रकाशात्मा स्वतन्त्रः शिव एवास्तीति तदपेक्षया नान्यः कश्चिदिति सर्वार्थस्यैवाभावात् कं प्रति चकास्यात् -- इत्याह - -
 
 > अस्माकं तु स्वप्रकाशशिवतामात्रवादिनाम् ॥

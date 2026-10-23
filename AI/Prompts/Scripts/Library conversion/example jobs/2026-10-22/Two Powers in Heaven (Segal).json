@@ -1,0 +1,137 @@
+{
+ "pdf": "/mnt/user-data/uploads/Obsidian Vault/Library/Judaica/Segal - Two Powers in Heaven (2002).pdf",
+ "pdf_vault": "Library/Judaica/Segal - Two Powers in Heaven (2002).pdf",
+ "catalog": "Catalog/Judaica/Segal - Two Powers in Heaven",
+ "route": "pymupdf",
+ "title": "Two Powers in Heaven: Early Rabbinic Reports about Christianity and Gnosticism",
+ "authors": [
+  "Alan F. Segal"
+ ],
+ "byline": "Alan F. Segal. Brill Academic Publishers, Boston, 2002.",
+ "folder": "Library/Judaica/Two Powers in Heaven (Segal)",
+ "index_name": "Two Powers in Heaven (Segal)",
+ "prefix": "Two Powers in Heaven",
+ "out": "/home/claude/p4/out",
+ "date": "2026-10-22",
+ "ctype": "book",
+ "single": false,
+ "text_source": "the PDF's earlier OCR text layer (a scan), PyMuPDF",
+ "callout": "> [!note] Text from the PDF's OCR layer\n> This text is the scan's earlier OCR layer. The English is reliable but may have misread words, especially names, numbers and transliterated Hebrew. Footnote numbers are sometimes misread, so a few notes are joined to the wrong reference or run together with the next. For exact wording and notes, check the PDF (the *Open the PDF* button on the catalog note).",
+ "toc": [
+  [
+   1,
+   "TWO POWERS IN HEAVEN: Early Rabbinic Reports about Christianity and Gnosticism",
+   4
+  ],
+  [
+   1,
+   "Table of Contents",
+   8
+  ],
+  [
+   1,
+   "Preface",
+   10
+  ],
+  [
+   1,
+   "List of Abbreviations",
+   16
+  ],
+  [
+   1,
+   "Transliterations",
+   27
+  ],
+  [
+   1,
+   "I. Two Powers in Heaven: The History and Importance of the Problem",
+   28
+  ],
+  [
+   1,
+   "II. Conflicting Appearances of God",
+   58
+  ],
+  [
+   1,
+   "III. Aher, Metatron, Merkabah, and the Angel of YHWH",
+   87
+  ],
+  [
+   1,
+   "IV. A Controversy between Ishmael and Akiba",
+   101
+  ],
+  [
+   1,
+   "V. Midrashic Warnings against \"Two Powers\"",
+   111
+  ],
+  [
+   1,
+   "VI. Mishnaic Prohibitions against Unorthodox Prayer",
+   125
+  ],
+  [
+   1,
+   "VII. \"Many Powers in Heaven\" and Miscellaneous Reports",
+   136
+  ],
+  [
+   1,
+   "VIII. How Many Powers Created the World?",
+   148
+  ],
+  [
+   1,
+   "IX. Divine Powers and Angels",
+   162
+  ],
+  [
+   1,
+   "X. Summary of Rabbinic Findings",
+   174
+  ],
+  [
+   1,
+   "XI. Philo",
+   184
+  ],
+  [
+   1,
+   "XII. Jewish Sectarian Texts",
+   209
+  ],
+  [
+   1,
+   "XIII. The Church Fathers",
+   247
+  ],
+  [
+   1,
+   "XIV. Marcion",
+   261
+  ],
+  [
+   1,
+   "XV. Gnosticism",
+   271
+  ],
+  [
+   1,
+   "XVI. Conclusions",
+   287
+  ],
+  [
+   1,
+   "Bibliography",
+   295
+  ],
+  [
+   1,
+   "Indices",
+   316
+  ]
+ ]
+}

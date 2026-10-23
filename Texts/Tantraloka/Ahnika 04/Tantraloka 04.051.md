@@ -36,6 +36,11 @@ yastu tadrūpabhāgātmabhāvanātaḥ paraṃ vinā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 67–68)
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.51]]
+>
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.51–52]]
+
 *Lead-in:* अस्य च व्यपदेशान्तरमपि अस्ति, इत्याह --
 
 > अकल्पितो गुरुर्ज्ञेयः सांसिद्धिक इति स्मृतः ।

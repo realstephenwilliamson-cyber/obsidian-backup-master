@@ -31,6 +31,9 @@ yo'bhyasyetsa gururnaiva vastvarthā hi viḍambakāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 221–222)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.160]]
+
 *Lead-in:* ननु इह प्रतिभायाः साक्षान्मध्यतीव्रः शक्तिपातः पारिपूर्ण्ये निमित्तमिति नास्ति विमतिः, तदितरद् बाह्यं पुनः कियदनुशीलनादपि प्रातिभत्वं भजेत् ? -- इत्याशङ्क्याह --
 
 > ततः प्रातिभसंवित्त्यै शास्त्रमस्मत्कृतं त्विदम् ।

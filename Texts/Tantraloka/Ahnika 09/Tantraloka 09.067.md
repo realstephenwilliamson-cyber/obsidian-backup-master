@@ -33,6 +33,11 @@ vyatiriktaḥ svatantrastu na ko'pi śakaṭādivat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 68–69)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.66–67]]
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.67]]
+
 *Lead-in:* न चैवमित्याह -
 
 > व्यतिरिक्तः स्वतन्त्रस्तु न कोऽपि शकटादिवत् ॥

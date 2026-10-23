@@ -37,6 +37,11 @@ jñātvaivaṃ śodhayed buddhiṃ sārdhaṃ puryaṣṭakendriyaiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 253)
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.234–235]]
+>
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.235]]
+
 *Lead-in:* अत एव च दीक्षायामेतच्छुद्धौ यतितव्यम् -- इत्याह --
 
 > ज्ञात्वैवं शोधयेद् बुद्धिं सार्धं पुर्यष्टकेन्द्रियैः ॥

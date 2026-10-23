@@ -35,5 +35,8 @@ tānyapyamuṣya nāthasya svātantryalaharībharaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 220–223)
+> ![[Tantraloka Dyczkowski v01 07 - Chapter One, part 6#Viveka on 1.78–81]]
+
 Jayaratha comments on this verse together with 1.81: see [[Tantraloka 01.081#Viveka|1.81]].
 

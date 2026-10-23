@@ -34,6 +34,9 @@ kuryādatyantamabhyastamanyāntarbhāvapūritam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 42)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.89–90]]
+
 *Lead-in:* नन्वत्रानुसन्धानेन किं स्यात् ?--इत्याशङ्क्याह--
 
 > अनुसन्धिबलान्ते च समासव्यासभेदतः ।

@@ -34,6 +34,9 @@ tata eva samucchedyamityāvṛttyānirūpitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 127–130)
+> ![[Tantraloka Dyczkowski v01 05 - Chapter One, part 4#Viveka on 1.28–30]]
+
 > चैतन्यमिति भावान्तःशब्दःस्वातन्त्र्यमात्रकम् ।
 > अनाक्षिप्तविशेषं सदाह सूत्रे पुरातने ॥
 > द्वितीयेन तु सूत्रेण क्रियां वा करणं च वा ।

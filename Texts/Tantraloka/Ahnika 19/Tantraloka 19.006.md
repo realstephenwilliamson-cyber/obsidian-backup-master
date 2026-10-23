@@ -34,6 +34,9 @@ antyāngurustadā kuryātsadyautkrāntidīkṣaṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 201–202)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.4–6]]
+
 > यदा ह्यासन्नमरणे शक्तिपातः प्रजायते ।
 > तत्र मन्देऽथ गुर्वादिसेवयायुः क्षयं व्रजेत् ॥
 > अथवा बन्धुमित्रादिद्वारा सास्य विभोः पतेत् ।

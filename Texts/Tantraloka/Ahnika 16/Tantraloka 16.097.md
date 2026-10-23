@@ -34,6 +34,11 @@ nyasedyathepsitaṃ mantraṃ śodhyaucityānusārataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 46)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.97–98]]
+>
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.97–98 (continued)]]
+
 *Lead-in:* इदानीं तु शोध्यशोधकयोर्वैचित्र्यमभिधत्ते--
 
 Jayaratha comments on this verse together with 16.98: see [[Tantraloka 16.098#Viveka|16.98]].

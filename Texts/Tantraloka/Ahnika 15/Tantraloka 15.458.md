@@ -34,6 +34,11 @@ uktaṃ dīkṣottare caitajjvālāsaṃpātaśobhinā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 281–283)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.456–458]]
+>
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.458–459]]
+
 *Lead-in:* ननु एतत्प्रकृते श्रीपूर्वशास्त्रे न उक्तमिति कुत आनीतम्?-- इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 15.457: see [[Tantraloka 15.457#Viveka|15.457]].

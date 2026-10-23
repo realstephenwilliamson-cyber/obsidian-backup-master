@@ -31,6 +31,9 @@ tathāpi mārgamātreṇa kathyamāno vivicyatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 389)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.153]]
+
 *Lead-in:* ननूच्यतां विस्तारो येन भुवनादावेवं वैचित्र्यम् ? -- इत्याशङ्क्याह - -
 
 > स च नो विस्तरः साक्षाच्छक्यो यद्यपि भाषितुम् ।

@@ -24,7 +24,7 @@ Text: [[NRSVue 2 Corinthians 09|NRSVue]] · [[2 Corinthians 09|BSB and SBLGNT]] 
 
 **[[NRSVue 2 Corinthians 09#^9-5|5]]:** *Bountiful gift . . . voluntary gift* both translate Gk “eulogia”; see 8.1n. ^9-5
 
-**[[NRSVue 2 Corinthians 09#^9-6|6]]:** *One who sows bountifully will also reap bountifully*, cf. [[Hosea 10#^10-12|Hos 10.12]]; the idea that people reap as they sow appears in rabbinic literature (e.g., *b. Sukk*. 49b: “He who does charity and justice is regarded as though he had filled all the world with kindness”). ^9-6
+**[[NRSVue 2 Corinthians 09#^9-6|6]]:** *One who sows bountifully will also reap bountifully*, cf. [[Hosea 10#^10-12|Hos 10.12]]; the idea that people reap as they sow appears in rabbinic literature (e.g., [[Sukkah 49#49b|*b. Sukk*. 49b]]: “He who does charity and justice is regarded as though he had filled all the world with kindness”). ^9-6
 
 **[[NRSVue 2 Corinthians 09#^9-7|7]]:** *God loves a cheerful giver*, see [[Proverbs 22#^22-9|Prov 22.9]]. ^9-7
 

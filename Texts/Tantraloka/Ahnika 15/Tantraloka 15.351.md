@@ -33,6 +33,11 @@ iti bhairavaparapūjātattvaṃ śrīḍāmare mahāyāge || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 216–218)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.350–351]]
+>
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.351–352]]
+
 *Lead-in:* एतच्च गुरुशास्त्रसंप्रदायेन अस्माभिरुक्तम्--इत्याह--
 
 > इति भैरवपरपूजातत्त्वं श्रीडामरे महायागे ॥

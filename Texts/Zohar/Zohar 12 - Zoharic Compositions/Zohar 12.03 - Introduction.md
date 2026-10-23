@@ -64,7 +64,7 @@ Most importantly, I extend my deepest gratitude to Rabbi Yehiel Poupko, our fait
 
 I dedicate this work to my *kinderlekh*, Layla, Ella, and Lev:
 
-“May your steps run to hear words of the Ancient of Days” (BT *Berakhot* 17a).
+“May your steps run to hear words of the Ancient of Days” (BT [[Berakhot 17#17a|*Berakhot* 17a]]).
 
 *Acknowledgments by Joel Hecker*
 
@@ -96,7 +96,7 @@ At every step, literally, my parents have been my most devoted supporters. Deep 
 
 My wife, Frani Pollack, is my booster, my support, and my *beshert*. Through the years, she has undergirded this work through her own sacrifices—enabling me to devote the requisite time to this translation and commentary. I am eternally grateful for her love, support, and patience, as well as for her willingness to listen to abstruse monologues about various details regarding the *Zohar*.
 
-My boys, Razi, Shai, and Hanina, have watched this project from a distance but with growing respect for its significance. I thank them for their endurance when I have been preoccupied with this project, and more importantly, for the light and laughter they bring to my life. Each of them has stretched me in his own distinctive way; I am grateful even for the torments they inflicted that resulted in my own personal growth. I dedicate this book to them in the spirit of the Babylonian Talmud, *Shabbat* 104a: “Children have now come to the house of study and said things unparalleled even in the days of Joshua son of Nun:… Open מ (*mem*) and closed ם (*mem*)—open utterance and sealed utterance,” for they have taught me lessons both revealed and concealed.
+My boys, Razi, Shai, and Hanina, have watched this project from a distance but with growing respect for its significance. I thank them for their endurance when I have been preoccupied with this project, and more importantly, for the light and laughter they bring to my life. Each of them has stretched me in his own distinctive way; I am grateful even for the torments they inflicted that resulted in my own personal growth. I dedicate this book to them in the spirit of the Babylonian Talmud, [[Shabbat 104#104a|*Shabbat* 104a]]: “Children have now come to the house of study and said things unparalleled even in the days of Joshua son of Nun:… Open מ (*mem*) and closed ם (*mem*)—open utterance and sealed utterance,” for they have taught me lessons both revealed and concealed.
 
 The task of translating and interpreting the *Zohar* has been both grand and humbling; and I echo the sentiments of Rabbi Moshe Cordovero, who wrote, “I have explained the words [of the kabbalists] only according to what I have been taught from heaven. I know with true faith that their words are very, very deep, and my head does not reach even their ankles—but what can I do? For the commentator is obliged to explain as much as he can” (*Or Yaqar* 8:178). I give praise and thanks to the Almighty—the blessed Holy One, *YHVH*, Mystery who fills and encompasses all reality, who has provided me with glimpses of glory through the *Zohar, Book of Radiance*.
 

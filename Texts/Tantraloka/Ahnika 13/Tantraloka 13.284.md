@@ -31,6 +31,9 @@ granthagauravabhītyā tu tallikhitvā na yojitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 300)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.284]]
+
 *Lead-in:* इति, तत्किमेतदुक्तम्? -- इत्याशङ्क्याह --
 
 > अनयैव दिशा नेयं मतङ्गकिरणादिकम् ।

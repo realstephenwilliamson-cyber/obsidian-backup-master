@@ -31,6 +31,9 @@ vyomni sindūrasubhage rājavarttabhṛte'thavā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 229–230)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.25–27]]
+
 *Lead-in:* तच्च कुत्र?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 29.26: see [[Tantraloka 29.026#Viveka|29.26]].

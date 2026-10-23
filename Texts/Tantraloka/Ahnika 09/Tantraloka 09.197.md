@@ -31,6 +31,9 @@ bahiḥsthasyaiva tasyāstu buddheḥ kiṅkalpanā kṛtā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 170–171)
+> ![[Tantraloka Dyczkowski v06 07 - Chapter Nine, part 5#Viveka on 9.196–197]]
+
 *Lead-in:* एतदेव परिहरति -
 
 > जडमेव हि मुख्योऽथ पुंस्प्रकाशोऽस्य भासनम् ।

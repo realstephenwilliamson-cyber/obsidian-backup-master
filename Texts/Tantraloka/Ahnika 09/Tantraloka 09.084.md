@@ -33,5 +33,10 @@ malo'bhilāṣaścājñānamavidyā lolikāprathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 83–85)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.83–84]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.84–86]]
+
 Jayaratha comments on this verse together with 9.83: see [[Tantraloka 09.083#Viveka|9.83]].
 

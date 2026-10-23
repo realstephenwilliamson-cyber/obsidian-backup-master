@@ -35,6 +35,9 @@ tatra prātipade tasmiṃstuṭyardhārdhe purādalam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 326)
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.100]]
+
 *Lead-in:* एवं प्राणे पक्षोदयं प्रदर्श्य सूर्यग्रहणमपि दर्शयति --
 
 > तत्र प्रातिपदे तस्मिंस्तुट्यर्धार्धे पुरादलम् ।

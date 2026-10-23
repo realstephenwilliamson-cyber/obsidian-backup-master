@@ -36,6 +36,11 @@ iti jñātvā guruḥ samyak paramānandaghūrṇitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 379)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 26.24–25.*
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.24–25]]
+
 > ये तु पुस्तकलब्धेऽपि मन्त्रे वीर्यं प्रजानते ॥
 > ते भैरवीयसंस्काराः प्रोक्ताः सांसिद्धिका इति ।
 > इति ज्ञात्वा गुरुः सम्यक् परमानन्दघूर्णितः ॥

@@ -34,6 +34,9 @@ etadāvāhanaṃ mukhyaṃ vyajanānmarutāmiva || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 384–385)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.37–42]]
+
 > सन्ध्याध्यानोदितानन्ततन्मयीभावयुक्तितः ॥
 > तत्संस्कारवशात्सर्वं कालं स्यात्तन्मयो ह्यसौ ।
 > ततो यथेष्टकालेऽसौ पूजां पुष्पासवादिभिः ॥

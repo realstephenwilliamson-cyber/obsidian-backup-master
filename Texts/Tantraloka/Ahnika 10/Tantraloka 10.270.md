@@ -31,6 +31,9 @@ tatsamāveśoparāgānmānatvaṃ meyatā punaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 469)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.270–271]]
+
 *Lead-in:* अत एवाह -
 
 > तत्समावेशतादात्म्ये मातृत्वं भवति स्फुटम् ।

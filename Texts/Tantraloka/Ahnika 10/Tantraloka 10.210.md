@@ -31,6 +31,9 @@ cinvanti pratibhāṃ devīṃ sarvajñatvādisiddhaye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 426–427)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.210–211]]
+
 *Lead-in:* एवं द्वितीयैव तुटिः सर्वज्ञत्वादिसिद्धिनिमित्तम् -- इत्याह --
 
 Jayaratha comments on this verse together with 10.211: see [[Tantraloka 10.211#Viveka|10.211]].

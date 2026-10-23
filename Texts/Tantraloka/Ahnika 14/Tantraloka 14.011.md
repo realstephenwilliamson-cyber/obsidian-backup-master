@@ -36,5 +36,8 @@ mithyābodhaḥ sarpavasādīpajakalpaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 351)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.9–12]]
+
 Jayaratha comments on this verse together with 14.12: see [[Tantraloka 14.012#Viveka|14.12]].
 

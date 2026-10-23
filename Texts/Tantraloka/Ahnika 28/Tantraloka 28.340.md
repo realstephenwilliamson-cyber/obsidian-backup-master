@@ -35,6 +35,13 @@ smaranniti śatā hetau tadrūpaṃ pratipadyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 147–150)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.338–340]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.340]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.340–341]]
+
 *Lead-in:* ननु अस्तु अन्त्ये क्षणे स्मरणं भाविदेहहेतुत्वं तु तस्य कुतोऽवगतम्?--इत्याशङ्क्य आह--
 
 > स्मरन्निति शता हेतौ तद्रूपं प्रतिपद्यते ॥

@@ -35,6 +35,9 @@ paśyanvikalpavikalo bhairavībhavati svayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 398)
+> ![[Tantraloka Dyczkowski v02 12 - Chapter Three, part 9#Viveka on 3.277]]
+
 *Lead-in:* ननु यदि नाम परप्रमात्रेकरूपं भैरवात्मकं परं तत्त्वं तत्कथं दर्शनक्रियायां भैरवात्मत्वे चोपायतां यायात् ? -- इत्याशङ्क्याह --
 
 > तदप्यकल्पितोदारसंविद्दर्पणबिम्बितम् ।

@@ -31,6 +31,9 @@ ekatrāpi prabhau pūrṇe citturyātītamucyate |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 489)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.299–300]]
+
 *Lead-in:* तदाह --
 
 > एकत्रापि प्रभौ पूर्णे चित्तुर्यातीतमुच्यते ।

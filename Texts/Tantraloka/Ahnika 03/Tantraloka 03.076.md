@@ -37,6 +37,11 @@ rūḍhaṃ tajjñeyavargasya sthitiprārambha ucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 172–175)
+> ![[Tantraloka Dyczkowski v02 06 - Chapter Three, part 3#Viveka on 3.75–76]]
+>
+> ![[Tantraloka Dyczkowski v02 06 - Chapter Three, part 3#Viveka on 3.76–77]]
+
 *Lead-in:* एवदेव प्रपञ्चयति --
 
 Jayaratha comments on this verse together with 3.75: see [[Tantraloka 03.075#Viveka|3.75]].

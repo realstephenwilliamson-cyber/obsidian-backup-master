@@ -35,6 +35,9 @@ medhībhūto vimānānāṃ sarveṣāmupari dhruvaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 178–180)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.143–146]]
+
 > अग्निकन्या मातरश्च रुद्रशक्त्या त्वधिष्ठिताः ॥
 > द्वितीये तत्परे सिद्धचारणा निजकर्मजाः ।
 > तुर्ये देवायुधान्यष्टौ दिग्गजाः पञ्चमे पुनः ॥

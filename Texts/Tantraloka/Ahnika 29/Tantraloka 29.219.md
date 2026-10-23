@@ -30,6 +30,9 @@ pṛthaktattvavidhau dīkṣāṃ yogyatāvaśavartinaḥ | tattvābhyāsavidhā
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 371)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.219–220]]
+
 *Lead-in:* यदि नाम च प्रतिनियतभोगेच्छुः कोऽपि स्यात्, तदा अस्य तादृशीमेव दीक्षां कुर्यात्--इत्याह --
 
 Jayaratha comments on this verse together with 29.220: see [[Tantraloka 29.220#Viveka|29.220]].

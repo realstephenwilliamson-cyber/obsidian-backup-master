@@ -38,6 +38,9 @@ bhairavīyaparamādvayārcane ko'pi rajyati maheśacoditaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 381)
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.276]]
+
 *Lead-in:* न च अत्र सर्व एव पात्रं, किं तु कश्चिदेव तीव्रतमशक्तिपातपवित्रितः, -- इत्याह --
 
 > केतकीकुसुमसौरभे भृशं भृङ्ग एव रसिको न मक्षिका ।

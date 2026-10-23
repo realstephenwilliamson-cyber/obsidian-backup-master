@@ -36,6 +36,11 @@ visargaśaktiryā śambhoḥ setthaṃ sarvatra vartate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 327–328)
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.207–208]]
+>
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.208–209]]
+
 *Lead-in:* ननु "परस्याकुलस्य धाम्नः कौलिकी शक्तिर्विसर्गः"इति प्रगुक्तम् । सा च न शक्तिमतोऽतिरिक्तेति तस्यास्तदतिरेकेण परिस्फुरणमेव न युज्यते, इति का वार्ता पुनरपि तत्र विश्रान्तौ ? इत्याशङ्क्याह --
 
 > विसर्गशक्तिर्या शम्भोः सेत्थं सर्वत्र वर्तते ॥

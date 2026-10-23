@@ -36,6 +36,11 @@ māyāto'vyaktakalayoriti rauravasaṃgrahe || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 44–46)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.39–40]]
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.40–41]]
+
 *Lead-in:* तत्र प्राधान्यात् शास्त्रीयं तावद्वैचित्र्यं दर्शयति --
 
 > मायातोऽव्यक्तकलयोरिति रौरवसंग्रहे ॥

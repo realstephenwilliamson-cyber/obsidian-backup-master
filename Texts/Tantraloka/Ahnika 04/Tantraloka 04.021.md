@@ -36,6 +36,11 @@ yatastāvati sā tasya vāmākhyā śaktiraiśvarī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 29–30)
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.20–21]]
+>
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.21–22]]
+
 *Lead-in:* ननु असौ साक्षान्मोक्षोपायतया शिवशासनस्य प्रभावातिशयं चेज्जानीते किमित्यन्यत्र आसक्तो भवेत् ? -- इत्याशङ्क्याह --
 
 > यतस्तावति सा तस्य वामाख्या शक्तिरैश्वरी ॥

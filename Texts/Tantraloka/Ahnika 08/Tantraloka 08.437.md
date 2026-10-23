@@ -35,6 +35,9 @@ kālāgniḥ kūṣmāṇḍo narakeśo hāṭako'tha bhūtalapaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 389)
+> ![[Tantraloka Dyczkowski v05 11 - Chapter Eight, part 9#Viveka on 8.436–437]]
+
 *Lead-in:* तदेवाह --
 
 Jayaratha comments on this verse together with 8.436: see [[Tantraloka 08.436#Viveka|8.436]].

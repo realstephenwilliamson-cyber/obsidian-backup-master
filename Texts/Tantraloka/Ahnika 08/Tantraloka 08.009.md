@@ -34,6 +34,9 @@ brahmānantātpradhānāntaṃ viṣṇuḥ puṃsaḥ kalāntagam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 58–61)
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.9–10]]
+
 *Lead-in:* तत्रत्यमेव ग्रन्थं पठति --
 
 Jayaratha comments on this verse together with 8.10: see [[Tantraloka 08.010#Viveka|8.10]].

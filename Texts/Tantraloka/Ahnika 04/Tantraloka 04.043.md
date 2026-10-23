@@ -36,6 +36,11 @@ sa eva sarvācāryāṇāṃ madhye mukhyaḥ prakīrtitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 55–58)
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.42–43]]
+>
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.43–44]]
+
 *Lead-in:* अतश्च स एव परमुत्कृष्ट इत्याह --
 
 > स एव सर्वाचार्याणां मध्ये मुख्यः प्रकीर्तितः ॥

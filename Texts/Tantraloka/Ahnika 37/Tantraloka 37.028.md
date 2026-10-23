@@ -31,6 +31,9 @@ mokṣavidyāvihīnaṃ ca vinayaṃ tyaja dūrataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 238)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.27–28]]
+
 > उक्तं श्रीरत्नमालायामेतच्च परमेशिना ॥
 > अशेषतन्त्रसारं तु वामदक्षिणमाश्रितम् ।
 > एकत्र मिलितं कौलं श्रीषडर्धकशासने ॥

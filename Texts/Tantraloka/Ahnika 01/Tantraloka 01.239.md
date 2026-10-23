@@ -34,6 +34,9 @@ tadvihantrī kriyā dīkṣā tvañjanādikakarmavat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 413)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.239–240]]
+
 *Lead-in:* इत्याशङ्क्याह—
 
 Jayaratha comments on this verse together with 1.240: see [[Tantraloka 01.240#Viveka|1.240]].

@@ -31,6 +31,9 @@ liṅgoddhṛtistadā pūrvaṃ dīkṣākarma tataḥ param || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 281–282)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.12–14]]
+
 > अथ वैष्णवबौद्धादितन्त्रान्ताधरवर्तिनाम् ॥
 > यदा शिवार्करश्म्योघैर्विकासि हृदयाम्बुजम् ।
 > लिङ्गोद्धृतिस्तदा पूर्वं दीक्षाकर्म ततः परम् ॥

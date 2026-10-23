@@ -285,7 +285,7 @@ And after he
 ולבתר דאיהו ^62b-22
 
 [^1]: *tephilin*
-[^2]: *BT* Pesaḥim 56a
+[^2]: *BT* [[Pesachim 56#56a|Pesaḥim 56a]]
 [^3]: love
 [^4]: 13
 [^5]: *ahavah*
@@ -296,7 +296,7 @@ And after he
 [^10]: **֒**
 [^11]: **֝**
 [^12]: Sh-‘A-T-N-Z G-Tz
-[^13]: *BT* Menaḥot 29b
+[^13]: *BT* [[Menachot 29#29b|Menaḥot 29b]]
 [^14]: ז
 [^15]: phylacteries
 [^16]: י
@@ -305,12 +305,12 @@ And after he
 [^19]: י
 [^20]: *tephilin*
 [^21]: *Mishnah* Avot 4:13
-[^22]: See *BT* Berakhot 26b
+[^22]: See *BT* [[Berakhot 26#26b|Berakhot 26b]]
 [^23]: *qorban*
 [^24]: *qorbana*
-[^25]: *BT* Yoma 21b
+[^25]: *BT* [[Yoma 21#21b|Yoma 21b]]
 [^26]: *treiphah*
-[^27]: See *BT* Berakhot 3a
+[^27]: See *BT* [[Berakhot 3#3a|Berakhot 3a]]
 [^28]: *hav hav*
 [^29]: *gehinom*
 [^30]: *give*

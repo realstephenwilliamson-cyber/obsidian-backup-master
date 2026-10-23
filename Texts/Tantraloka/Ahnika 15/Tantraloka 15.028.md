@@ -31,5 +31,8 @@ sādhakasya tu bhūtyarthamitthameva viśodhayet |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 23–27)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.27–29]]
+
 Jayaratha comments on this verse together with 15.29: see [[Tantraloka 15.029#Viveka|15.29]].
 

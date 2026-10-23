@@ -33,6 +33,11 @@ loke rūḍhamidaṃ dṛṣṭirasminkāraṇamantarā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 386–387)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.147–148]]
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.148–149]]
+
 *Lead-in:* ननु कारणाविशेषेऽपि कार्यं क्वचिदेव नान्यत्रेति निर्हेतुककार्यनियमवादिन एवोपालभ्याः? -- इत्याशङ्क्य दृष्टान्तदृशोपपादयति --
 
 > लोके रूढमिदं दृष्टिरस्मिन्कारणमन्तरा ॥

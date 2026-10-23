@@ -33,6 +33,13 @@ adhunā prāṇaśaktisthe tattvajāle vivicyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 405–410)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 10.187–188.*
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.185–186]]
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.187–188]]
+
 *Lead-in:* इत्याद्युक्त्या बहिरिवान्तरपि प्राणे तत्त्वाध्वास्तीति तद्गतत्वेनापि पाञ्चदश्याद्यभिधातुमुपक्रमते --
 
 > अधुना प्राणशक्तिस्थे तत्त्वजाले विविच्यते ॥

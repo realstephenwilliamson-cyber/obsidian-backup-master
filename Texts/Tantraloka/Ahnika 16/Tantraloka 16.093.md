@@ -36,6 +36,13 @@ tāpanirgharṣasekādipāramparyeṇa vahnitām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 43–44)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 16.94–96.*
+>
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.90–93]]
+>
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.94–96]]
+
 *Lead-in:* इत्यादि प्रागुक्तम् ॥ ननु पौनःपुन्येनैवंभावनया किं स्यात्?-- इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 16.92: see [[Tantraloka 16.092#Viveka|16.92]].

@@ -36,6 +36,11 @@ abhinavaguptaguruḥ punarāha hi sati vittadeśakālādau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 84–85)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.193–195]]
+>
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.195–196]]
+
 *Lead-in:* अस्मद्गुरवः पुनरेतन्न मन्यन्ते--इत्याह--
 
 > अभिनवगुप्तगुरुः पुनराह हि सति वित्तदेशकालादौ ॥

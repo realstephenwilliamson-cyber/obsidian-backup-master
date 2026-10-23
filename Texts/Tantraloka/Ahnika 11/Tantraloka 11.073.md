@@ -37,6 +37,11 @@ tathā hi paravākyeṣu śruteṣvāvriyate nijā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 66–67)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.72–73]]
+>
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.73–74]]
+
 *Lead-in:* एतदेव निदर्शयति -
 
 > तथा हि परवाक्येषु श्रुतेष्वाव्रियते निजा ॥

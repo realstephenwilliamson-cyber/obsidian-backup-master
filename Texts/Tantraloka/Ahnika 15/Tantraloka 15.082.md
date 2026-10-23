@@ -31,6 +31,9 @@ pīṭhasthānaṃ sadā yāgayogyaṃ śāstreṣu bhaṇyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 59)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.81–83]]
+
 > पर्वताग्रनदीतीरैकलिङ्गादि यदुच्यते ॥
 > तद्बाह्यमिह तत्सिद्धिविशेषाय न मुक्तये ।
 > आभ्यन्तरं नगाग्रादि देहान्तःप्राणयोजनम् ॥

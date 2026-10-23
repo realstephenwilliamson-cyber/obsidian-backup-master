@@ -34,6 +34,9 @@ nirapekṣeṣu bhāveṣu svātmaniṣṭhatayā katham || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 19–24)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.11]]
+
 *Lead-in:* इति च । न च स्वभावमुत्सृज्य भावानामन्यत् किंचिदपेक्षणीयम्, इति किमत्र चेतनानुप्रवेशनेन ? -- इत्याशङ्क्याह -
 
 > तस्मिन्सति हि तद्भाव इत्यपेक्षैकजीवितम् ।

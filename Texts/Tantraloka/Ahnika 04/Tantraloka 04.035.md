@@ -34,6 +34,9 @@ bhuktimuktiprasiddhyarthaṃ nīyate sadguruṃ prati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 45–46)
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.35]]
+
 *Lead-in:* न च एतत् स्वोपज्ञमेवोक्तम्, इत्याह --
 
 > श्रीपूर्वशास्त्रे तेनोक्तं स यियायुः शिवेच्छया ।

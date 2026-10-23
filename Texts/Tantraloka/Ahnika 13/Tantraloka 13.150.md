@@ -31,6 +31,9 @@ sāṃsiddhikaṃ yadvijñānaṃ taccintāratnamucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 217)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.149–151]]
+
 *Lead-in:* तदभिहितमेव पठति --
 
 > सांसिद्धिकं यद्विज्ञानं तच्चिन्तारत्नमुच्यते ॥

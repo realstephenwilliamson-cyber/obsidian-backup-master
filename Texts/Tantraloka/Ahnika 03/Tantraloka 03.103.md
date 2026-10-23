@@ -36,6 +36,11 @@ svātmasaṅghaṭṭavaicitryaṃ śaktīnāṃ yatparasparam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 208–209)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.102–103]]
+>
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.103–104]]
+
 *Lead-in:* एतदेव च परं क्रियाशक्ते रूपम्, -- इत्याह --
 
 > स्वात्मसङ्घट्टवैचित्र्यं शक्तीनां यत्परस्परम् ॥

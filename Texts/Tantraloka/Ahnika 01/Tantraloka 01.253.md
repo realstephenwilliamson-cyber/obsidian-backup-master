@@ -35,6 +35,9 @@ prasarantī svasaṃvittiḥ praṣṭrī śiṣyātmatāṃ gatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 427–428)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.253]]
+
 *Lead-in:* तत्र संशयितेऽर्थे प्रश्नः प्रवर्तते, इति तन्निर्णयानन्तरं निर्णेतव्यः प्रश्नः, इति प्राप्तावसरं तत्सतत्त्वमेव वक्तुमाह --
 
 > तथानुद्घाटिताकारभावप्रसरवर्त्मना ।

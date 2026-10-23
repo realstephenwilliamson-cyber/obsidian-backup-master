@@ -31,5 +31,8 @@ surāpaḥ steyahārī ca brahmahā gurutalpagaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 42)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.72–75]]
+
 Jayaratha comments on this verse together with 28.74: see [[Tantraloka 28.074#Viveka|28.74]].
 

@@ -31,6 +31,9 @@ arghapātraṃ yāgadhāma dīpa ityucyate trayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 217–218)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.14–16]]
+
 *Lead-in:* एवमस्य प्राधान्येऽपि अवान्तरवस्त्वपेक्षया शास्त्रान्तरेऽन्यदपि किञ्चित्प्रधानतयोक्तम्--इत्याह--
 
 Jayaratha comments on this verse together with 29.16: see [[Tantraloka 29.016#Viveka|29.16]].

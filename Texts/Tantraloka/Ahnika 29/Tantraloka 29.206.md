@@ -31,6 +31,9 @@ kurute nirdahatyanyadbhinnajātikadambakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 362–363)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.204–206]]
+
 > प्रोक्षितस्य शिशोर्न्यस्तप्रोक्तशोध्याध्वपद्धतेः ॥
 > ऋजुदेहजुषः शक्तिं पादान्मूर्धान्तमागताम् ।
 > पाशान्दहन्तीं संदीप्तां चिन्तयेत्तन्मयो गुरुः ॥

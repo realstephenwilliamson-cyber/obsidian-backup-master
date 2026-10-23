@@ -35,6 +35,9 @@ yatra sūtraṇayāpīyamupāyopeyakalpanā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 396)
+> ![[Tantraloka Dyczkowski v02 12 - Chapter Three, part 9#Viveka on 3.272–273]]
+
 *Lead-in:* इत्यादिना नित्योदितत्वेनादिसिद्धत्वाद्भैरवीयायां संविदि ज्ञापकः कारको वा न कोऽप्युपायः समस्तीत्युक्तम् तत्कथमिदमिदानीमुक्तम् -- अयं निर्विकल्पः समावेशोऽत्राभ्युपायः ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 3.273: see [[Tantraloka 03.273#Viveka|3.273]].

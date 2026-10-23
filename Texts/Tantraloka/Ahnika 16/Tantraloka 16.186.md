@@ -34,6 +34,9 @@ aṣṭau śatāni dīkṣābhedo'yaṃ mālinītantre || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 81)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.185–186]]
+
 > पञ्चाशीतिशती या चत्वारिंशत्समुत्तारा कथिता ।
 > तां सप्तत्या भित्त्वा दीक्षाभेदान्स्वयं कलयेत् ॥
 > पञ्चकमिह लक्षाणां च सप्तनवतिः सहस्रपरिसंख्या ।

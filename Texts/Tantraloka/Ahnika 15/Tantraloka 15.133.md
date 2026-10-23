@@ -33,6 +33,11 @@ ekatvena smarantīti śambhunātho nirūcivān |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 87–89)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.130–133]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.133–134]]
+
 *Lead-in:* ननु अनयोः पञ्चाशतोऽपि वर्णानामविशेषात्कोऽयं भेदो नाम?-- इत्याशङ्क्य आह—
 
 > शब्दराशिर्मालिनी च शिवशक्त्यात्मकं त्विदम् ॥

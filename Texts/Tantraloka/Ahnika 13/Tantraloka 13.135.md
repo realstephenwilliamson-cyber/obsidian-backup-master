@@ -33,6 +33,11 @@ yanmūlaṃ śāsanaṃ tena na riktaḥ ko'pi jantukaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 207–208)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.134–135]]
+>
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.135]]
+
 *Lead-in:* ननु स्वयमेव चेत्प्रतिभायाः समुल्लासस्तत्कस्यचिदेव इति कुतस्त्योऽयं नियमः । बाढं, न नियम -- इत्याह -
 
 > यन्मूलं शासनं तेन न रिक्तः कोऽपि जन्तुकः ॥

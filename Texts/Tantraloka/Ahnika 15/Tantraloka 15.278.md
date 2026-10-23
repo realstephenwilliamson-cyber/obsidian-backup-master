@@ -33,6 +33,11 @@ saṃsāravāmācāratvātsarvaṃ vāmakareṇa tu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 165)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.276–278]]
+>
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.278–279]]
+
 *Lead-in:* ननु इदं न्यासादि सर्वं करकार्यं तत् करेण तावत् केन एतत् क्रियते ?--इति न जानीमः--इत्याशङ्क्य आह--
 
 > संसारवामाचारत्वात्सर्वं वामकरेण तु ॥

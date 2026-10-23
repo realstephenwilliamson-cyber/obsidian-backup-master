@@ -31,6 +31,9 @@ teṣāṃ śivoktisaṃvādād bodho dārḍhyaṃ vrajediti || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 245)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.196]]
+
 *Lead-in:* ननु एतन्न्यायमुखेनैव कस्मान्नोपपादितं किं प्रतिपदं तद्ग्रन्थपाठेन? -- इत्याशङ्क्याह --
 
 > इत्येष पठितो ग्रन्थः स्वयं ये बोद्धुमक्षमाः ।

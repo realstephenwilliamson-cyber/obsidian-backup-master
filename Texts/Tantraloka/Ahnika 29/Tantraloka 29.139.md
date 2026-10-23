@@ -31,6 +31,9 @@ cakreśvaro'pi pūrvoktayuktitaḥ procchaledrabhasāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 325–326)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.138–139]]
+
 > तन्निजविषयार्पणतः पूर्णसमुच्छलितसंविदासारः ॥
 > अनुचक्रदेवतागणपरिपूरणजातवीर्यविक्षोभः ।
 > चक्रेश्वरोऽपि पूर्वोक्तयुक्तितः प्रोच्छलेद्रभसात् ॥

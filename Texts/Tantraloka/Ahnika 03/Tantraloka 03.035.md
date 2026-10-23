@@ -35,6 +35,9 @@ prakṛtaṃ brūmahe tatra pratibimbanamarhati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 109–111)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.35–36]]
+
 *Lead-in:* एवं नैयायिकमतापहस्तनेन प्रतिबिम्बपरमार्थमुपपाद्य प्रकृतमेवोपक्रमते --
 
 > इत्थं प्रदर्शितेऽमुत्र प्रतिबिम्बसतत्त्वके ।

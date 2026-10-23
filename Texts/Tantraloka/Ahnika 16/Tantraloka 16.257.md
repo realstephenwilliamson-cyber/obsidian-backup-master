@@ -37,6 +37,11 @@ nanu svatantrasañjalpayogādastu vimarśitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 112–113)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.254–257]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.257–259]]
+
 *Lead-in:* ननु भवतु नाम विकल्पस्य क्षेत्रज्ञस्वातन्त्र्योल्लिखितसञ्जल्पयोगाद्विमर्शकत्वं तद्योग एवास्य पुनः प्रथमतरं कुतस्त्यः ?--इत्याह--
 
 Jayaratha comments on this verse together with 16.256: see [[Tantraloka 16.256#Viveka|16.256]].

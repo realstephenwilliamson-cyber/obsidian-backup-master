@@ -36,6 +36,11 @@ tena prāṇapathe viśvākalaneyaṃ virājate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 258–259)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.44–45]]
+>
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.45–46]]
+
 *Lead-in:* एवं प्राणे विश्वात्मत्वमस्ति -- इति तदेवात्र संप्रत्यभिधीयते -- इत्याह --
 
 > तेन प्राणपथे विश्वाकलनेयं विराजते ॥

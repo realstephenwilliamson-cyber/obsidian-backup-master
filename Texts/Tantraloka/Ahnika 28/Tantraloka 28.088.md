@@ -33,6 +33,11 @@ pretarūpaṃ bhavetpātraṃ śāktāmṛtamathāsavaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 46–48)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.87–88]]
+>
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.88–91]]
+
 *Lead-in:* अन्यत्रेति--त्र्यरे । तादृशमिति--तत्तन्नियतसंख्याकम्--इत्यर्थः । पूर्वमिति--प्रथमं प्रधानं वा ॥ एतदेव उपपादयति--
 
 Jayaratha comments on this verse together with 28.87: see [[Tantraloka 28.087#Viveka|28.87]].

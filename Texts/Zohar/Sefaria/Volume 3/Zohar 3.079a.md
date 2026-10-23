@@ -43,4 +43,4 @@ Pritzker translation (Matt): [[Zohar 7.08 - Parashat Aharei Mot#^z3-79a|Parashat
 
 [^1]: The primordial *Yod*.
 [^2]: v. Zohar, Numbers, 144a.
-[^3]: v. T. B. Moed Katan, 18a; Niddah, 17a.
+[^3]: v. T. B. [[Moed Katan 18#18a|Moed Katan, 18a]]; [[Niddah 17#17a|Niddah, 17a]].

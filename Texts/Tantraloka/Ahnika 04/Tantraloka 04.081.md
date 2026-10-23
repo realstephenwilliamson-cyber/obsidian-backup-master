@@ -36,6 +36,11 @@ itthameva mitau vācyaṃ karaṇasya svakaṃ vapuḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 95–98)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.80–81]]
+>
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.81–83]]
+
 *Lead-in:* एतदेव प्रकृते योजयति --
 
 Jayaratha comments on this verse together with 4.80: see [[Tantraloka 04.080#Viveka|4.80]].

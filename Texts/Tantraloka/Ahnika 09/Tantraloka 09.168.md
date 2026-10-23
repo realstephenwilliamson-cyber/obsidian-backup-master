@@ -33,6 +33,11 @@ ekasyāmeva jagati bhogasādhanasaṃhatau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 145–146)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.167–168]]
+>
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.168–169]]
+
 *Lead-in:* ननु कलादीनां स्वरूपाभेदेऽपि सुखदुःखादिभेदे किं हीयेत ? -- इत्याशङ्क्याह --
 
 > एकस्यामेव जगति भोगसाधनसंहतौ ॥

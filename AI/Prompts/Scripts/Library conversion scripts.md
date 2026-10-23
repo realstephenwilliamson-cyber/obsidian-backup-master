@@ -1,6 +1,6 @@
 ---
 type: prompt
-updated: 2026-10-09
+updated: 2026-10-22
 ---
 # Library conversion scripts
 
@@ -26,6 +26,7 @@ They were written for a Cowork task's Linux workspace with the vault folder stag
 | `ocr_worker.py` | Fills the OCR cache for whole books in the background: `python3 ocr_worker.py queue.json 0 1` (worker 0 of 1); a queue item is `{pdf, langs, san_pages, psm, ocr_prep, reverse}` |
 | `spreads.py` | For scans with two book pages on one PDF page: reads the printed page numbers in the corners and writes `<job>.spreads.json` |
 | `bundle.py` | Packs converted books into JSON bundles (under 24 MB) plus `create-list.json` and `check-list.json` for the runner |
+| `underdot.py` | (22 Oct 2026) For a text layer that draws the dot below a letter as a separate mark (PyMuPDF reads it as `\_`, as in Lutgendorf's *Hanuman's Tale*): puts the dot back on its letter in the converted notes. `python3 underdot.py <folder> [write]`; without `write` it only counts |
 
 ### Runner jobs (`runner/`)
 
@@ -43,6 +44,25 @@ They run inside Obsidian through the vault's runner (`.work/plan/phase-3-tools/r
 
 Work in bundles of at most about 300 notes and wait a minute or two after an apply before the checks: larger applies froze Obsidian twice on 7 Oct while Omnisearch and Smart Connections indexed the new notes.
 
+## Added 22 Oct 2026 (the PDF-only works: 21 books)
+
+`conv.py` gained five options; the old behaviour is unchanged when they are absent. The 22 job files of that day are in `example jobs/2026-10-22/` and show each option in use.
+
+| Option | What it fixes | Example job |
+|---|---|---|
+| `split_halves` | Scans with two book pages on one PDF page, read by fresh OCR: each half is read on its own, so the gutter does not garble the lines beside it | Graham |
+| `ncols_landscape` | With `ncols`: apply the column split only to landscape pages (the two-page spreads), not to single pages in the same file | Graham |
+| `baseline_sort` | Lines ordered by their baseline, not their top, so a raised note letter does not lift its line out of order (an apparatus of lettered notes) | Davila |
+| `bidi_runs` | Lines that mix Hebrew and English (notes quoting Hebrew): Hebrew runs read right to left, English runs keep their order | Berman |
+| `san_sort` | With `san_pages`: one-column verse pages keep their Devanagari and transliteration lines in page order | Olivelle, the *Durgā Saptaśatī* hymns |
+
+Options that already existed, used in new ways that day:
+- `ocr_ranges` with the Hebrew model on Hebrew pages (`heb`, or `heb+eng` on mixed pages), the rest from the text layer (Verman).
+- `charmap` for a born-digital PDF whose font puts diacritics at its own letter codes (Å for ā, ç for ī, æ for ṇ …), read off the PDF's pages (*Seeking Mahadevi*).
+- `force_bad_fonts` for a book whose TimesNewRoman fonts lack a Unicode map (*Woman and Goddess in Hinduism*). It made Lutgendorf worse; `underdot.py` fixed that book instead.
+
+**Lesson:** choose each book's route and languages after looking at a few page images, not only from `classify.py`'s text-layer statistics. Olivelle's edition prints the Upanisads in Devanagari, and the first route (Latin only) would have lost it. The record is the AI log, 22 Oct 2026 (afternoon), and the project doc *PDF-only works - record (22 Oct 2026)*.
+
 ## Job options used most
 
-`route` (`pymupdf` or `ocr`); `langs` (`Latin`, `eng`, `Latin+san` …); `san_pages` (a second OCR with `+san` only on pages that need it); `psm` (`3`, `6` or `best`); `ocr_prep: 'norm-sauvola'` (yellowed scans); `merge_ocr` (keep a text layer, replace its junk words from a fresh OCR); `latin_fix` (English lines that the `san` model spoiled read again with `eng`); `fixmap`, `anusvara`, `charmap` (letter repairs); `accents` (a book with Vedic accents: no ä/å repair); `use_toc`, `toc`, `big_heads`, `contents_heads`, `fuzzy_heads` (where the chapters come from); `pnum_override`, `labels` (printed page numbers); `ncols`, `gutter_bands`, `columns`, `col_segments` (column layouts); `fn_runin`, `fn_max_size` (footnotes); `callout` (a warning at the top of each note); `single` (an article in one note). The three files in `example jobs/` show a plain OCR job, a layer-and-OCR merge with a callout, and a two-column OCR job.
+`route` (`pymupdf` or `ocr`); `langs` (`Latin`, `eng`, `Latin+san` …); `san_pages` (a second OCR with `+san` only on pages that need it); `psm` (`3`, `6` or `best`); `ocr_prep: 'norm-sauvola'` (yellowed scans); `merge_ocr` (keep a text layer, replace its junk words from a fresh OCR); `latin_fix` (English lines that the `san` model spoiled read again with `eng`); `fixmap`, `anusvara`, `charmap` (letter repairs); `accents` (a book with Vedic accents: no ä/å repair); `use_toc`, `toc`, `big_heads`, `contents_heads`, `fuzzy_heads` (where the chapters come from); `pnum_override`, `labels` (printed page numbers); `ncols`, `gutter_bands`, `columns`, `col_segments` (column layouts); `fn_runin`, `fn_max_size` (footnotes); `callout` (a warning at the top of each note); `single` (an article in one note). The three files in `example jobs/` show a plain OCR job, a layer-and-OCR merge with a callout, and a two-column OCR job; `example jobs/2026-10-22/` has the 22 jobs of 22 Oct 2026.

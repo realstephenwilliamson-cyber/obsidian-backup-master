@@ -33,6 +33,11 @@ ukto yo'rcākālastaṃ cedullaṅghya bhagrahatithiḥ syāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 26–27)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.46–47]]
+>
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.47–48]]
+
 *Lead-in:* ननु अत्रैव विभाजितं पूजाकालमतिक्रम्य तिथ्यादि यदि स्यात्, तदा किं प्रतिपत्तव्यम् ?--इत्याशङ्क्य आह--
 
 > उक्तो योऽर्चाकालस्तं चेदुल्लङ्घ्य भग्रहतिथिः स्यात् ॥

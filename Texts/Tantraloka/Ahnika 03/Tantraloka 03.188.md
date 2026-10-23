@@ -35,6 +35,9 @@ anuttaraṃ parāmṛśyaparāmarśakabhāvataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 306–308)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.186–188]]
+
 *Lead-in:* एतदेव प्रकृते योजयति --
 
 > अनुत्तरं परामृश्यपरामर्शकभावतः ॥

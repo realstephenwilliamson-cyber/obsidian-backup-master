@@ -35,6 +35,9 @@ athāsya lakṣaṇāvekṣe nirūpyete yathākramam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 476)
+> ![[Tantraloka Dyczkowski v01 13 - Chapter One, part 12#Viveka on 1.329]]
+
 *Lead-in:* एतदुपसंहरन्नन्यदवतारयति --
 
 > इत्युद्देशविधिः प्रोक्तः सुखसंग्रहहेतवे ।

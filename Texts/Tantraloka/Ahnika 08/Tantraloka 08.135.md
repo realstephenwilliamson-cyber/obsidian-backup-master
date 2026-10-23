@@ -37,5 +37,10 @@ viṣāvartācchatādūrdhvaṃ durjayaḥ śvāsasaṃbhavaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 171–174)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.133–135]]
+>
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.135–137]]
+
 Jayaratha comments on this verse together with 8.138: see [[Tantraloka 08.138#Viveka|8.138]].
 

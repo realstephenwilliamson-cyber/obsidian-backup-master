@@ -36,6 +36,11 @@ tasyātadrūpatābhānaṃ malo granthiḥ sa kīrtyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 140–141)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.1–3]]
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.3–4]]
+
 *Lead-in:* एषां च ग्रन्थिरूपतया प्रक्षेपे कोऽभिप्रायः ?--इत्याशङ्क्याह--
 
 > तस्यातद्रूपताभानं मलो ग्रन्थिः स कीर्त्यते ॥

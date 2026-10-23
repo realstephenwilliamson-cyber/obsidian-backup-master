@@ -35,6 +35,9 @@ kena nāma na rūpeṇa bhāsate parameśvaraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 242)
+> ![[Tantraloka Dyczkowski v01 07 - Chapter One, part 6#Viveka on 1.92]]
+
 *Lead-in:* एतदेवोपसंहरति—
 
 > एवं स्वातन्त्र्यपूर्णत्वादतिदुर्घटकार्ययम् ।

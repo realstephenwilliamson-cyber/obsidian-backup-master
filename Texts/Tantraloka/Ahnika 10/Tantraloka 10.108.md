@@ -31,5 +31,8 @@ so'pi meyaḥ kañcukaikyaṃ yato māyā susūkṣmikā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 366)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.108–109]]
+
 Jayaratha comments on this verse together with 10.112: see [[Tantraloka 10.112#Viveka|10.112]].
 

@@ -31,6 +31,9 @@ viśvābhogaprayogeṇa tarpaṇīyaṃ vipaścitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 350–351)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.181]]
+
 *Lead-in:* यद्वा किमनात्मरूपैर्देहादिभिः, संविन्निष्ठतयैव देवीचक्रं तर्पयेत्--इत्याह--
 
 > संविन्मात्रस्थितं देवीचक्रं वा संविदर्पणात् ।

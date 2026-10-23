@@ -37,6 +37,9 @@ yatra tatra pradeśe tu pūjayitvā guruḥ śivam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 194)
+> ![[Tantraloka Dyczkowski v09 09 - Chapter Eighteen#Viveka on 18.1–3]]
+
 *Lead-in:* इदानीं द्वितीयार्धेन संक्षिप्तां दीक्षां वक्तुमाह--
 
 > अथ संक्षिप्तदीक्षेयं शिवतापत्तिदोच्यते ।

@@ -31,6 +31,9 @@ yattadorvyatyayaṃ kecitkecidanyādṛśaṃ kramam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 163–164)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.364–365]]
+
 *Lead-in:* एतदर्थानभिज्ञैः पुनरेतदन्यथा व्याख्यायि--इत्याह--
 
 Jayaratha comments on this verse together with 28.365: see [[Tantraloka 28.365#Viveka|28.365]].

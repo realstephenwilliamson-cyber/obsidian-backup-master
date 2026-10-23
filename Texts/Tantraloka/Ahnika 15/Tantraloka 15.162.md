@@ -31,6 +31,9 @@ na cāsaṃśodhitaṃ vastu kiñcidapyupakalpayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 102)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.162–163]]
+
 *Lead-in:* न च एतन्न्यायत एव सिद्धम्--इत्याह--
 
 > ऊचे श्रीपूर्वशास्त्रे तदर्घपात्रविधौ विभुः ।

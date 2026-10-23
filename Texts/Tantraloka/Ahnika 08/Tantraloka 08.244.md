@@ -37,5 +37,10 @@ umāpatipurasyordhvaṃ sthitaṃ mūrtyaṣṭakaṃ param || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 259–261)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.243–244]]
+>
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.244–247]]
+
 Jayaratha comments on this verse together with 8.243: see [[Tantraloka 08.243#Viveka|8.243]].
 

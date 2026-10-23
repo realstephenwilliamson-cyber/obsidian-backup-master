@@ -31,6 +31,9 @@ so'bhiṣikto guruṃ paścāddakṣiṇābhiḥ prapūjayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 307)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.23–24]]
+
 > दीक्षा व्याख्या कृपा मैत्री शास्त्रचिन्ता शिवैकता ॥
 > अन्नादिदानमित्येतत्पालयेत्सप्तसत्रकम् ।
 > अभिषेकविधौ चास्मै करणीखटिकादिकम् ॥

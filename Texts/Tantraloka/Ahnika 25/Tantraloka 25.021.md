@@ -33,6 +33,11 @@ evaṃ śrāddhamukhenāpi bhogamokṣobhayasthitim || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 364–365)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.19–21]]
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.21–22]]
+
 *Lead-in:* येति--मात्राद्युद्देशानुसारं वामाद्यन्यतमा । भावयेदिति--वहन्तीम् । यद्वेति--अयोगिविषयतया ॥ एवं नाडीविधिमभिधाय, श्राद्धस्य भोगमोक्षदानहेतुत्वमस्ति--इत्याह--
 
 > एवं श्राद्धमुखेनापि भोगमोक्षोभयस्थितिम् ॥

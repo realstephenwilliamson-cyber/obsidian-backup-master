@@ -33,6 +33,11 @@ tanna saiddhāntiko vāme nāsau dakṣe sa no mate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 323–324)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.319–320]]
+>
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.320–321]]
+
 *Lead-in:* तदेव विभज्य दर्शयति --
 
 > तन्न सैद्धान्तिको वामे नासौ दक्षे स नो मते ॥

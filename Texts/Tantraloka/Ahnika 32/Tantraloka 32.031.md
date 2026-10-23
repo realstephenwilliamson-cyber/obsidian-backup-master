@@ -31,6 +31,9 @@ anayā hi khacārī śrīyogasañcāra ucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 150–151)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.30–31]]
+
 > परदेहेषु चात्मानं परं चात्मशरीरतः ।
 > पश्येच्चरन्तं हानादाद्गमागमपदस्थितम् ॥
 > नवच्छिद्रगतं चैकं नदन्तं व्यापकं ध्रुवम् ।

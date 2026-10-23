@@ -33,6 +33,11 @@ yadā sattve vivṛddhe tu pralīnastvūrdhvagastadā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 139–141)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.325–326]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.326–327]]
+
 *Lead-in:* तदेव व्याचिकीर्षुः पीठिकाबन्धं कर्तुं गीतार्थमेव तावत् संगृह्य अभिधत्ते यदेत्यादिना--
 
 > यदा सत्त्वे विवृद्धे तु प्रलीनस्त्वूर्ध्वगस्तदा ॥

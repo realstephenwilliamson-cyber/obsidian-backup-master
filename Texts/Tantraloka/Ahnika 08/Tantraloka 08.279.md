@@ -37,6 +37,11 @@ heye'pyādeyadhīḥ siddhiḥ tathā coktaṃ hi kāpilaiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 282–286)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.279]]
+>
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.279–280]]
+
 *Lead-in:* तुष्ट्यादीनां च किं रूपम् ? -- इत्याशङ्क्याह --
 
 > अतत्त्वे तत्त्वबुद्ध्या यः सन्तोषस्तुष्टिरत्र सा ।

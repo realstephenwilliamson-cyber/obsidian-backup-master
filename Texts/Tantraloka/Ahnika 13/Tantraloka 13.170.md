@@ -31,6 +31,9 @@ nṛśaktiśivamuktaṃ hi tattvatrayamidaṃ tvayā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 229–230)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.170–172]]
+
 *Lead-in:* ननु किं नामास्य केवलीभावसिद्ध्या ? -- स्यादित्याह --
 
 Jayaratha comments on this verse together with 13.172: see [[Tantraloka 13.172#Viveka|13.172]].

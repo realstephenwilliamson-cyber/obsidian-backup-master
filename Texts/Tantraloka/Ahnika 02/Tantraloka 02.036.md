@@ -35,6 +35,9 @@ nirvikalpaparāveśamātraśeṣatvamāgatāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 45–46)
+> ![[Tantraloka Dyczkowski v02 03 - Chapter Two, part 2#Viveka on 2.36–37]]
+
 *Lead-in:* अत एवाह --
 
 Jayaratha comments on this verse together with 2.37: see [[Tantraloka 02.037#Viveka|2.37]].

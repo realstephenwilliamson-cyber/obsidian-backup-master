@@ -35,6 +35,13 @@ khapuṣpaṃ kāladiṅmātṛsāpekṣaṃ nāstiśabdataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 140–141)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.160]]
+>
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.160–161 (2)]]
+>
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.160–161]]
+
 *Lead-in:* ननु खपुष्पादेः सङ्कल्पादौ पृथग्भानेऽपि नहि बहिरस्तिता, इत्यनैकान्तिकोऽयं हेतुः ? -- इत्याशङ्क्याह -
 
 > खपुष्पाद्यस्तितां ब्रूमस्ततो न व्यभिचारिता ।

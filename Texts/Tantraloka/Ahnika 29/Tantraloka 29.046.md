@@ -33,6 +33,13 @@ mantrasiddhaprāṇasaṃvitkaraṇātmani yā kule || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 243–245)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.45–46]]
+>
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.45–46 (continued)]]
+>
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.46–48]]
+
 *Lead-in:* एवं च अत्र अन्वर्थतामभिधास्यन्कुलेश्वर्या मुख्यतया पूजायां विनियोगमाह--
 
 Jayaratha comments on this verse together with 29.45: see [[Tantraloka 29.045#Viveka|29.45]].

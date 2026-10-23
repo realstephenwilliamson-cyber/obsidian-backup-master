@@ -34,6 +34,11 @@ tato'pi jalatattvasya vahnau vyomni cidātmake |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 168–169)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 17.65–66.*
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.65–66]]
+
 *Lead-in:* एतच्च सर्वमेव प्रागुक्तं तत्त्वान्तरेष्वतिदिशति--
 
 Jayaratha comments on this verse together with 17.66: see [[Tantraloka 17.066#Viveka|17.66]].

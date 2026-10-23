@@ -42,7 +42,7 @@ Text: [[NRSVue Acts 01|NRSVue]] · [[Acts 01|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 01#^1-11|11]]:** *Come in the same way*, [[Zechariah 14#^14-4|Zech 14.4]] identifies the Mount of Olives as the site where the Lord (Heb “YHWH”) will appear. ^1-11
 
-**[[NRSVue Acts 01#^1-12|12]]:** *Olivet*, Mount of Olives, across the Kidron Valley to the east of Jerusalem. *Sabbath day’s journey*, restrictions on travel during the Sabbath appear in the DSS (1,000 cubits \[CD 10.21\]; 2,000 cubits when pasturing animals \[CD 11.5\]) and rabbinic tradition (2,000 cubits \[*m. Eruv.* 4.3; 5.7; *b. Eruv.* 51a; *Mek. Vayassa* 6\]); 2,000 cubits is approximately 1 km (0.6 mi). ^1-12
+**[[NRSVue Acts 01#^1-12|12]]:** *Olivet*, Mount of Olives, across the Kidron Valley to the east of Jerusalem. *Sabbath day’s journey*, restrictions on travel during the Sabbath appear in the DSS (1,000 cubits \[CD 10.21\]; 2,000 cubits when pasturing animals \[CD 11.5\]) and rabbinic tradition (2,000 cubits \[*m. Eruv.* 4.3; 5.7; [[Eruvin 51#51a|*b. Eruv.* 51a]]; *Mek. Vayassa* 6\]); 2,000 cubits is approximately 1 km (0.6 mi). ^1-12
 
 **[[NRSVue Acts 01#^1-13|13]]:** The same names, in a different order and minus Judas Iscariot, appear in [[Luke 06#^6-14|Lk 6.14–16]]. *Zealot*, possibly identifying him as a member of a group aiming at violent revolution but more likely an epithet indicating ardent commitment. ^1-13
 

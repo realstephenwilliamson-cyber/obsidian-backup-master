@@ -31,6 +31,9 @@ vipruḍbhirūrdhvādharayorantaḥpītyā ca tarpayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 227)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.23]]
+
 *Lead-in:* इत्याद्युक्त्या तर्पणमवश्यं कार्यम्--इत्याह--
 
 > तेन निर्भरमात्मानं बहिश्चक्रानुचक्रगम् ।

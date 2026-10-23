@@ -31,6 +31,9 @@ laukikyāmaviśuddhau hi mṛditāyāmathāntarīm || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 227–228)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.369–374]]
+
 > कृत्वान्तर्यागमादाय धान्याद्यस्त्रेण मन्त्रितम् ।
 > दिक्षु क्षिपेद् विघ्ननुदे संहृत्यैशीं दिशं नयेत् ॥
 > निरीक्षणं प्रोक्षणं च ताडनाप्यायने तथा ।

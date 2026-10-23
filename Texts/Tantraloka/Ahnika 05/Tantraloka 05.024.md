@@ -36,6 +36,11 @@ vahnyarkasomaśaktīnāṃ tadeva tritayaṃ bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 26–28)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.23–24]]
+>
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.24]]
+
 *Lead-in:* ननु सोमसूर्याग्निसङ्घट्टात्म ध्यानं परप्रमातृतापत्तौ निमित्तम् -- इत्युक्तं तत्कथमिदानीमेव तदभेदेन मितमात्रादेर्भावमप्युच्यते -- इत्याशङ्क्याह --
 
 > वह्न्यर्कसोमशक्तीनां तदेव त्रितयं भवेत् ॥

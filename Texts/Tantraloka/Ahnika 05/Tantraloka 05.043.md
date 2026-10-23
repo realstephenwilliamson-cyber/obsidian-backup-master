@@ -34,6 +34,9 @@ tadupāyatayā brūmo'nuttarapravikāsanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 40)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.43]]
+
 *Lead-in:* एवं ध्यानस्वरूपं निरूप्य तदनन्तरोद्दिष्टं प्राणतत्त्वसमुच्चारं वक्तुमुपक्रमते --
 
 > अथ प्राणस्य या वृत्तिः प्राणनाद्या निरूपिता ।

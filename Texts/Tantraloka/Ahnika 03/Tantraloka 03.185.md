@@ -37,6 +37,11 @@ saurāṇāmeva raśmīnāmantaścāndrakalā yataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 305–306)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.184–185]]
+>
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.185–186]]
+
 *Lead-in:* न केवलमेषां सौरमेव रूपं संभवेद्यावच्चान्द्रमपि -- इत्याह—
 
 > सौराणामेव रश्मीनामन्तश्चान्द्रकला यतः ॥

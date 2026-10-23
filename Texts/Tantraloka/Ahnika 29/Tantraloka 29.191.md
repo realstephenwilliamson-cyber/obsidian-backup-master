@@ -31,6 +31,9 @@ hastayormūrdhni cāpyasya devīcakraṃ samarcayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 354–355)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.187–191]]
+
 > रुद्रशक्त्या तु तं प्रोक्ष्य देवाभ्याशे निवेशयेत् ॥
 > भुजौ तस्य समालोक्य रुद्रशक्त्या प्रदीपयेत् ।
 > तयैवास्यार्पयेत्पुष्पं करयोर्गन्धदिग्धयोः ॥

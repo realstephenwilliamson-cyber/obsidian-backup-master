@@ -35,6 +35,9 @@ haṃsaḥ prāṇo vyañjanaṃ ca sparśaśca paribhāṣyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 252–253)
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.142]]
+
 *Lead-in:* अत एवाह—
 
 > विसर्ग एवमुत्सृष्ट आश्यानत्वमुपागतः ।

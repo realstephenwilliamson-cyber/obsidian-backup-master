@@ -31,6 +31,9 @@ padapañcakasya saṃbodhanayuktasyāgnidayitānte || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 59–60)
+> ![[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#Viveka on 30.107]]
+
 *Lead-in:* एतदेव विद्यात्रयं निर्दिशति--
 
 > प्रणवो माया बिन्दुर्वर्णत्रयमादितः कुर्यात् ।

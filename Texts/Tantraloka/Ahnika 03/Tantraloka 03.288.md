@@ -35,6 +35,9 @@ ke'pyeva yānti viśvāsaṃ parameśena bhāvitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 407)
+> ![[Tantraloka Dyczkowski v02 12 - Chapter Three, part 9#Viveka on 3.288]]
+
 *Lead-in:* अत एवाह—
 
 > तदस्मिन्परमोपाये शाम्भवाद्वैतशालिनि ।

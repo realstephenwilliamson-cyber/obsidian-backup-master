@@ -31,6 +31,9 @@ duḥkhaṃ mohātmakaṃ vāpi viṣayaṃ darśayedapi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 168–169)
+> ![[Tantraloka Dyczkowski v06 07 - Chapter Nine, part 5#Viveka on 9.194]]
+
 *Lead-in:* ननु पुंसस्तत्तत्प्रत्ययविशिष्टायां बुद्धौ वेद्यायामस्तु नाम विद्याकरणं विषयोपलब्धौ पुनरस्यानया कोऽर्थः, तत्र हि बुद्धिरेव तथास्ति ? -- इत्याशङ्क्याह --
 
 > बुद्धिस्तु गुणसङ्कीर्णा विवेकेन कथं सुखम् ।

@@ -34,6 +34,11 @@ padamantreṣu sarveṣu yāvattatpadaśaktigam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 34–36)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 7.48–52.*
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.48–52]]
+
 *Lead-in:* ननु समनन्तरमेवोक्तं यच्छक्तिवर्त्मन्ययोजिता मन्त्रा न सिद्ध्यन्तीति तत्कथमिदमुच्यते -- "शक्त्युदयं तेषां न परिकल्पयेत्"? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 7.51: see [[Tantraloka 07.051#Viveka|7.51]].

@@ -31,6 +31,9 @@ aliases:
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 146–147)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.18–20]]
+
 *Lead-in:* नच एतावतैव अयं व्योम उत्पतेत्--इत्याह--
 
 Jayaratha comments on this verse together with 32.19: see [[Tantraloka 32.019#Viveka|32.19]].

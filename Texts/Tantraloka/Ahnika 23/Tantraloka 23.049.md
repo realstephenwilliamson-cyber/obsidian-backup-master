@@ -33,6 +33,11 @@ rūḍhyarūḍhī tadicchāyā api śaṃbhuprasādataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 319)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.48–49]]
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.49]]
+
 *Lead-in:* ननु परमेश्वराधिष्ठानात् प्रबुद्धापि एवमिच्छा कथं न प्ररोहं गच्छेत्?--इत्याशङ्क्याह--
 
 > रूढ्यरूढी तदिच्छाया अपि शंभुप्रसादतः ॥

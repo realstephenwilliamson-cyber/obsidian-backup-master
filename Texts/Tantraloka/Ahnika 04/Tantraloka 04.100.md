@@ -34,6 +34,9 @@ prabuddhe tadvipakṣāṇāṃ vyudāsaḥ pāṭhacintane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 121)
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.100]]
+
 *Lead-in:* एतदेव प्रकृते योजयति --
 
 > गुरुवाक्यपरामर्शसदृशे स्वविमर्शने ।

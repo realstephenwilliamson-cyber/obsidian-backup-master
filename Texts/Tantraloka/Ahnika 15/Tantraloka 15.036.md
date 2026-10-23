@@ -33,6 +33,11 @@ svadhanena daridrasya kuryāddīkṣāṃ guruḥ svayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 31–33)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.35–36]]
+>
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.36–37]]
+
 *Lead-in:* न केवलमनानुगुण्यमत्र अस्य गुरुणा कार्यं यावदानुगुण्यमपि-- इत्याह--
 
 > स्वधनेन दरिद्रस्य कुर्याद्दीक्षां गुरुः स्वयम् ॥

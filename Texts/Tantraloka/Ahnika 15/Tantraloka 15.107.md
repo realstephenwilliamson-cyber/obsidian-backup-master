@@ -33,6 +33,11 @@ yatra yatra hṛdambhojaṃ vikāsaṃ pratipadyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 72–74)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.105–107]]
+>
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.107–108]]
+
 *Lead-in:* ननु निरधिकरणस्तावद्यागो न भवेदिति मुमुक्षुणापि स्थानभेदोऽवश्याश्रयणीयः, तत्कथमेतदुक्तं मुक्तये यागस्य न स्थानभेद इति ? --इत्याशङ्क्य आह--
 
 > यत्र यत्र हृदम्भोजं विकासं प्रतिपद्यते ॥

@@ -37,6 +37,11 @@ so'yamātmānamāvṛtya sthito jaḍapadaṃ gataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 300–302)
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.134]]
+>
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.134–135]]
+
 *Lead-in:* ननु यद्येवं तत्कथमयं जडाजडात्मा विश्वप्रसरः ? इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 1.135: see [[Tantraloka 01.135#Viveka|1.135]].

@@ -37,6 +37,11 @@ svakavarṣaśatānte'sya kṣayastadvaiṣṇavaṃ dinam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 366–367)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.145]]
+>
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.145–146]]
+
 *Lead-in:* निशाक्षये पुनः किं स्यात् ? -- इत्याशङ्क्याह --
 
 > निशाक्षये पुनः सृष्टिं कुरुते तामसादितः ।

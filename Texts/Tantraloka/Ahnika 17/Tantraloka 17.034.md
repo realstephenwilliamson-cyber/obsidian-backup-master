@@ -34,6 +34,9 @@ svakarmāparatantratvāt sarvatrotpattimarhati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 159)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.34–35]]
+
 *Lead-in:* नन्वेवमात्मीयहृदयानयनेन शिष्यात्मनः कोऽर्थः?-- इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 17.35: see [[Tantraloka 17.035#Viveka|17.35]].

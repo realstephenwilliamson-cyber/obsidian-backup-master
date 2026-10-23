@@ -34,6 +34,9 @@ prāvrajannatha jambvākhye rājā yo'gnīdhranāmakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 141–142)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.94–96]]
+
 *Lead-in:* नन्वेवङ्खण्डत्वेऽस्य किं निमित्तम्? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 8.96: see [[Tantraloka 08.096#Viveka|8.96]].

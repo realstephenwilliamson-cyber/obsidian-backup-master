@@ -36,6 +36,13 @@ tathā hyādau paraṃ rūpamekībhāvena saṃśrayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 16–20)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 16.39–45.*
+>
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.32–36]]
+>
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.39–45]]
+
 *Lead-in:* एतदेव प्रपञ्चयति--
 
 Jayaratha comments on this verse together with 16.35: see [[Tantraloka 16.035#Viveka|16.35]].

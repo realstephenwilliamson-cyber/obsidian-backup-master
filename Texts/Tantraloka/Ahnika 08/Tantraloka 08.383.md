@@ -35,6 +35,9 @@ kāntiḥ prabhā ca vimalā pañcaitā rodhikāstataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 360–361)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.383–384]]
+
 *Lead-in:* इदानीं प्रकृतमेवाह --
 
 Jayaratha comments on this verse together with 8.384: see [[Tantraloka 08.384#Viveka|8.384]].

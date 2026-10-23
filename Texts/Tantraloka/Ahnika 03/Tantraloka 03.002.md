@@ -36,6 +36,11 @@ na ca tadvyatirekyasti viśvaṃ sadvāvabhāsate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 66–67)
+> ![[Tantraloka Dyczkowski v02 04 - Chapter Three, part 1#Viveka on 3.2]]
+>
+> ![[Tantraloka Dyczkowski v02 04 - Chapter Three, part 1#Viveka on 3.2 (2)]]
+
 *Lead-in:* तदेवाह—
 
 > यः प्रकाशः स सर्वस्य प्रकाशत्वं प्रयच्छति ।

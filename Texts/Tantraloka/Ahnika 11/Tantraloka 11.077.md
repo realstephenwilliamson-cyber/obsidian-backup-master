@@ -37,6 +37,11 @@ tathā tathā camatkāratāratamyaṃ vibhāvyate |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 69–70)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.76–77]]
+>
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.77–78]]
+
 *Lead-in:* ननु च प्रमा नामानवच्छिन्नसहजपरामर्शमयी इति तस्याः प्रबोधः सर्वतोमुख एव भवेन्नांशांशिकया इति कथमुक्तम् "यथायथं तद्रूपमतिरिच्यते"इति? -- इत्याशङ्क्याह --
 
 > आद्यामायीयवर्णान्तर्निमग्ने चोत्तरोत्तरे ॥

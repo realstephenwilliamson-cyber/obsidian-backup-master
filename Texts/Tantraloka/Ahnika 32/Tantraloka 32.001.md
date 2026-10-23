@@ -34,6 +34,9 @@ uktā bimbodayaśrutyā vācyadvayavivecanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 134–135)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.1]]
+
 *Lead-in:* इदानीं मुद्राविधिमभिधातुमुपक्रमते--
 
 > अथ कथये मुद्राणां गुर्वागमगीतमत्र विधिम् ।

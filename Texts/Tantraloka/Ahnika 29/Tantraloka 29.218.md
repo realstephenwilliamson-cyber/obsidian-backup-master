@@ -33,6 +33,11 @@ athavā sarvaśāstrāṇyapyudgrāhayati tatkṣaṇāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 369–370)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.217–218]]
+>
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.218]]
+
 *Lead-in:* न केवलमस्य स्वात्मनि एव प्रत्ययनिमित्तमेवमनुभवो जायते, यावत् स्वपरयोरपि--इत्याह--
 
 > अथवा सर्वशास्त्राण्यप्युद्ग्राहयति तत्क्षणात् ॥

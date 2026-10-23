@@ -1,0 +1,83 @@
+---
+type: "text"
+work: "Talmud Bavli"
+masekhet: "Zevachim"
+seder: "Kodashim"
+daf: 67
+translation: "William Davidson Edition - English"
+edition: "English from The William Davidson digital edition of the Koren Noé Talmud, with commentary by Rabbi Adin Even-Israel Steinsaltz"
+license: "CC-BY-NC"
+source: "https://www.sefaria.org/Zevachim.67a?ven=William_Davidson_Edition_-_English&lang=en"
+aliases:
+  - "Zevachim 67a"
+  - "Zevachim 67b"
+  - "BT Zevachim 67"
+---
+# Zevachim 67
+
+← [[Zevachim 66]] · [[Zevachim]] · [[Zevachim 68]] →
+
+*Seder Kodashim · Zevachim · Daf 67* · [[Zevachim]] · [[Talmud]]
+
+## 67a
+
+**Rabbi Eliezer said to him:** The case of **offerings of the most sacred order that one slaughtered in the south** of the Temple courtyard **and slaughtered for the sake of offerings of lesser sanctity, will prove** that the fact that one changed the offering’s designation to an item that is not subject to the *halakhot* of misuse is not a relevant factor. **As** in this case, one **changed their designation to an item that is not subject to** the *halakhot* of **misuse and,** nevertheless, one is liable for **misusing them. You too should not be puzzled about the burnt offering,** concerning which **even though one changed its designation to an item that is not subject to** the *halakhot* of **misuse,** the *halakha* is **that** one would be liable for **misusing it.** ^67a-1
+
+**Rabbi Yehoshua said to him: No,** that is no proof, as **if you said with regard to offerings of the most sacred order that one slaughtered in the south** of the Temple courtyard, **and slaughtered them for the sake of offerings of lesser sanctity,** that one is liable for misusing them, that is reasonable. The reason is **that** one who slaughtered them **changed their designation to an item for which there are both prohibited and permitted** elements as offerings of lesser sanctity. Although one is not liable for misuse of their flesh, after the blood is sprinkled one is liable for misuse of the portions consumed on the altar. **Would you say** the *halakha* is the same **in** the case of **a burnt offering** for **which one changed its designation to an item that** is **permitted in its entirety,** i.e., a bird sin offering, which is eaten by the priests and none of it is burned on the altar? ^67a-2
+
+**GEMARA:** The discussion between Rabbi Eliezer and Rabbi Yehoshua **is taught** in a *baraita*, where it is recounted in greater detail: **Rabbi Eliezer said to Rabbi Yehoshua:** The case of **a guilt offering that one slaughtered in the north** of the Temple courtyard **for the sake of a peace offering will prove** my point, **as** here the one who performed the slaughter **changed its designation** to an item for which there is no liability for misuse, **and** yet one is liable for **misusing it. And you too should not be puzzled about the** bird **burnt offering** that was sacrificed as a sin offering, concerning **which even though** the one who performed the slaughter **changed its designation** to an item for which there is no liability for misuse, the *halakha* is **that** one is liable for **misusing it.** ^67a-3
+
+**Rabbi Yehoshua said to him: No, if you say** that this is the *halakha* **with regard to a guilt offering** sacrificed as a peace offering, **as although** the one who performed the slaughter **changed its designation, he** still **did not change its location** but sacrificed it in the north of the Temple courtyard, which is the appropriate location for both guilt offerings and peace offerings, **shall you** also **say** that this is the *halakha* **with regard to** a bird **burnt offering** sacrificed below the red line as a sin offering, **where** the one who performed the slaughter **changed its designation and** also **changed its location?** ^67a-4
+
+**Rabbi Eliezer said to him: A guilt offering that one slaughtered in the south** of the Temple courtyard **for the sake of a peace offering will prove** my point, **as** here the one who performed the slaughter **changed its designation and** also **changed its location, and** yet one is liable for **misusing it. You too should not be puzzled about the** bird **burnt offering** that was sacrificed below the red line as a sin offering, concerning **which even though** the one who performed the slaughter **changed its designation and** also **changed its location,** the *halakha* is that one is liable for **misusing it.** ^67a-5
+
+**Rabbi Yehoshua said to him: No, if you say** that this this is the *halakha* **with regard to a guilt offering** sacrificed as a peace offering, in **which** case the one who performed the slaughter **changed its designation and changed its location, but** he **did not change its procedure, shall you** also **say** that this is the *halakha* **with regard to** a bird **burnt offering** sacrificed entirely according to the procedure of a sin offering, in **which** case the one who performed the slaughter **changed its designation and procedure and** also **changed its location?** ^67a-6
+
+The *baraita* ends here, and it would appear that Rabbi Eliezer had no response to this claim. **Rava said:** Why? **Let him say to** Rabbi Yehoshua that **a guilt offering that one slaughtered in the south** of the Temple courtyard **for the sake of a peace offering with a deviation with regard to** the offering’s **owner,** i.e., he slaughtered it for the sake of someone other than the offering’s owner, will prove my opinion; **as** this is tantamount to a case where the one who performed the slaughter **changed its designation and changed its location and** also **changed its procedure,** yet one is liable for its misuse. ^67a-7
+
+Rava concluded: **Since he did not say this to him, learn from it** that at this stage **Rabbi Eliezer grasped Rabbi Yehoshua’s** line of **reasoning; as Rav Adda bar Ahava says** that **Rabbi Yehoshua would say** the following reasoning: In the case of **a bird burnt offering that one sacrificed below** the red line **according to the procedure of a sin offering** and **for the sake of a sin offering, once he pinched one of the organs that must be severed in ritual slaughter [*siman*],** i.e., either the gullet or the windpipe, the offering **is removed** from its status as a burnt offering **and becomes a bird sin offering.** ^67a-8
+
+The Gemara challenges: **If so,** then in the case of **a bird sin offering that one sacrificed above** the red line **according to the procedure of a burnt offering, too, as soon as he pinches one *siman* it should be removed** from its status as a sin offering **and become a bird burnt offering. And if you would say** that **indeed** that is so, this is difficult: **But doesn’t Rabbi Yoḥanan say in the name of Rabbi Bena’a** that **this is** the accurate **presentation of the mishna? What,** does he **not** mean that **this is** the accurate **presentation** in the sense that Rabbi Yehoshua’s principle applies specifically to the case stated in the mishna, namely, that of a burnt offering sacrificed as a sin offering, **and** to **nothing more?** ^67a-9
+
+The Gemara answers: **No,** what Rabbi Bena’a means is that **this is** the accurate **presentation of the entire mishna.** Just as Rabbi Yehoshua disagrees with Rabbi Eliezer with regard to a bird burnt offering sacrificed entirely as a sin offering, he holds similarly that a bird sin offering sacrificed entirely as a burnt offering assumes the status of a burnt offering. ^67a-10
+
+**Rav Ashi said:** The two cases are different. **Granted,** Rabbi Yehoshua’s principle applies to **a bird burnt offering that one sacrificed below** the red line **according to the procedure of a sin offering** and **for the sake of a sin offering. Since** the method of **preparing** this bird sin offering is **by** pinching **one *siman*, and** the method of **preparing that** bird burnt offering is **by** pinching **two *simanim*, and** since **there** can be **no bird burnt offering below** the red line, therefore **once he pinched one *siman*** below the red line, the offering **is removed** from its status as a burnt offering **and becomes a bird sin offering.** ^67a-11
+
+**But** one cannot say this with regard to **a bird sin offering** that was sacrificed as a burnt offering. **Since the Master said** with regard to the bird sin offering: **Pinching is valid everywhere** on the altar, it follows that **as soon as one pinched one *siman*** for the sake of a burnt offering it was **disqualified,** like any other sin offering pinched for the sake of a different type of offering. Consequently, **when he then pinched the other *siman*** according to the procedure of a burnt offering, **how could it** then **be removed** from its status as a sin offering **and become a bird burnt offering?** ^67a-12
+
+§ The Gemara discusses **the** matter **itself,** that **Rav Adda bar Ahava says** that **Rabbi Yehoshua would say:** In the case of **a bird burnt offering that one sacrificed below** the red line **according to the procedure of a sin offering** and **for the sake of a sin offering, once he pinched one *siman*,** the offering **is removed** from its status as a burnt offering **and becomes a bird sin offering.** ^67a-13
+
+## 67b
+
+> [!xref]- Mesoret HaShas (67b)
+> - [[Zevachim 73#^73b-6|Zevachim 73b:6-7]] (line 2)
+
+The Gemara suggests: **Come** and **hear** a challenge to this principle from a mishna in tractate *Kinnim* (24a). A woman after childbirth must bring two bird offerings: A burnt offering and a sin offering. The mishna discusses a case where two women after childbirth, one of whom already brought her burnt offering and one of whom already brought her sin offering, bring their remaining offerings to the Temple, **a sin offering for this one and a burnt offering for that one,** but confusion has arisen as to which bird is which. ^67b-1
+
+If the priest **sacrificed both of them above** the red line, **half** of the birds, i.e., one of them, **is fit,** as in any event the burnt offering has been sacrificed properly, **and half** of the birds, i.e., the other one, **is disqualified.** Likewise, if he sacrificed **both of them below** the red line, **half are fit,** as in any event the sin offering was sacrificed properly, **and half are disqualified.** If he sacrificed **one above** the red line **and one below, they are both disqualified, as I say** that perhaps the **sin offering was sacrificed above, and** the **burnt offering was sacrificed below.** ^67b-2
+
+But according to Rav Adda bar Ahava’s explanation of Rabbi Yehoshua’s principle, the sin offering should be deemed fit in any event; **even** though the **burnt offering was indeed sacrificed below** the red line, **it should be removed** from its status as a burnt offering **and become a bird sin offering.** ^67b-3
+
+The Gemara rejects this claim: It is reasonable to **say that Rabbi Yehoshua stated** his principle **with regard to one person,** whose offering the priest sacrificed below the red line instead of above it; but **did he state** it **with regard to two people,** one of whose offering the priest sacrificed for the sake of the other person? In the case of the two women, the priest sacrificed the offering for the sake of a different person altogether, and Rabbi Yehoshua would concede that such an offering does not become a sin offering. ^67b-4
+
+The Gemara suggests: **Come** and **hear** another challenge from a mishna in tractate *Kinnim* (24a). The mishna discusses a case of two women who jointly brought three pairs of birds, as follows: The birds of one pair were designated as **a sin offering and a burnt offering** respectively, but it was not specified which woman’s obligation they were to satisfy; **and** the second pair was **unspecified** as to which bird was to be which offering; **and** the third pair was **specified** as to both the type of offering of each bird and whose obligation each bird was to satisfy. ^67b-5
+
+If the priest **sacrificed all of them above** the red line, **half** of the birds **are fit,** as in any event the burnt offerings have been sacrificed properly, **and half are disqualified.** Likewise, if he sacrificed **all of them below** the red line, **half are fit,** as in any event the sin offerings were sacrificed properly, **and half are disqualified.** If he sacrificed **half of** every pair **above** the red line **and half of** it **below,** but it is unclear which bird he sacrificed above and which he sacrificed below, **only** the **unspecified** pair is **fit,** as by sacrificing one above and one below the priest has in effect designated them. **And** since the women brought the birds jointly, the fit pair **is divided between them,** one bird counting toward the obligation of each woman. ^67b-6
+
+The mishna teaches that only the unspecified pair is fit, **while** the **specified** birds are **not,** as perhaps each bird was sacrificed on the wrong side of the red line and disqualified. **But why** should that be the *halakha*? According to Rav Adda bar Ahava’s explanation of Rabbi Yehoshua’s principle, **even** if the **burnt offering was indeed sacrificed below** the red line, **it should be removed** from its status as a burnt offering **and become a bird sin offering.** ^67b-7
+
+**And if you would say** that **this** mishna **is not in accordance with** the opinion of **Rabbi Yehoshua, how can you say that?** ^67b-8
+
+The Gemara explains: **Come** and **hear** evidence that the *mishnayot* in tractate *Kinnim* are in accordance with the opinion of Rabbi Yehoshua from another mishna in the same chapter (24b): The mishna discusses the case of **a woman who said: It** is incumbent **upon me** to bring **one nest,** i.e., one pair of bird offerings, **if I give birth to a male** child. Since all women who give birth must bring one pair of birds in any event, if **she** ultimately **gave birth to a male, she must bring two nests, one for her vow and one for her obligation.** ^67b-9
+
+If **she gave them to the priest** without specifying which bird is to be which type of offering, **the priest must sacrifice three above** the red line **and one below.** This is because the obligatory pair must consist of a burnt offering and a sin offering, while a pair of birds brought to fulfill a vow must consist of two burnt offerings. ^67b-10
+
+If the priest **did not do so,** but **rather,** thinking that both pairs were obligatory, **sacrificed two above and two below, and** he **did not consult** the woman before sacrificing them, **she must bring one more bird [*perida*] and sacrifice it above** the red line to satisfy her remaining obligation. ^67b-11
+
+This is the *halakha* only if both pairs were **of the same species** of bird, either doves or pigeons; **but** if the two pairs were **of two** different **species,** and the priest does not remember which pair he sacrificed first, **she must bring two** more birds, one of each species. Whichever pair was sacrificed first is deemed the obligatory pair, and the woman must bring a bird of the other species to satisfy her remaining obligation of a burnt offering. But since it is not known which species of bird that is, she must bring one of each. ^67b-12
+
+If the woman initially **specified** which species of bird she would bring for **her vow** but subsequently forgot what species she specified, and she then brought two pairs of a single species, and the priest mistakenly sacrificed two birds above the red line and two below, then **she must bring three more birds,** all as burnt offerings. One must be of the species she brought, to replace the bird mistakenly sacrificed below, and the other two must be of the other species, in case that was the species she specified in the first place. ^67b-13
+
+This is the *halakha* only if both pairs that she brought were **of the same species. But** if they were **of two** different **species,** and the priest does not remember which pair he sacrificed first, **she must bring four,** two of each species. This is because no matter which species she specified, the priest may have sacrificed the pair of that species first, leaving none of that species to satisfy even part of her vow. She therefore may still need to satisfy an entire vow of either species. ^67b-14
+
+The mishna continues: If, besides forgetting which species of bird she specified to bring for her vow, the woman also **committed** to sacrificing the birds of **her vow** together with the burnt offering of the obligatory pair, but the priest mistakenly sacrificed two birds above the red line and two below, ^67b-15

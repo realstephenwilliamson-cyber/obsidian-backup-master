@@ -31,6 +31,9 @@ sthāvarādyāstiryagantāḥ paśavo'smindvaye mṛtāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 108)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.245–248]]
+
 > येऽपि तत्त्वावतीर्णानां शङ्कराज्ञानुवर्तिनाम् ॥
 > स्वयम्भूमुनिदेवर्षिमनुजादिभुवां गृहे ।
 > मृतास्ते तत्पुरं प्राप्य पुरेशैर्दीक्षिताः क्रमात् ॥

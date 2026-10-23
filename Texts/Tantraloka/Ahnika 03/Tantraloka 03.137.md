@@ -37,6 +37,11 @@ uktaṃ ca triśiraḥśāstre kalāvyāptyantacarcane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 242–251)
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.136–137]]
+>
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.137–141]]
+
 *Lead-in:* न चैतदस्मदुपज्ञमेव -- इत्याह --
 
 Jayaratha comments on this verse together with 3.136: see [[Tantraloka 03.136#Viveka|3.136]].

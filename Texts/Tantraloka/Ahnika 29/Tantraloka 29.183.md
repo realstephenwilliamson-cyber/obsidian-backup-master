@@ -31,6 +31,9 @@ krīḍāsthāne mahāraudre sarvāstamitavigrahe || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 352)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.183–185]]
+
 *Lead-in:* एतदेव स्फुटयति--
 
 Jayaratha comments on this verse together with 29.185: see [[Tantraloka 29.185#Viveka|29.185]].

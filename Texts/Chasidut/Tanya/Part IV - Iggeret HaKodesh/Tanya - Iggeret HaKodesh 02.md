@@ -40,18 +40,18 @@ Therefore I come with a general announcement to inform all our followers regardi
 [^8]: *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-11b|I:11b]] (emphasis is the author’s).
 [^9]: [[Micah 7#^7-20|Micah 7:20]]. Abraham signifies the attribute of *chesed*; see *Sefer Habahir* 48 (131); *Zohar* [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-41a|I:41a]], [[Zohar 4.06 - Parashat Be-Shallah#^z2-51b|II:51b]]; *Zohar Chadash* [[Zohar 12.11 - Zohar al ha-Parashot#^zh-27a|27a]]; *et passim*.—The “right side,” too, signifies *chesed*; see Addendum, *Mystical Concepts in Chassidism*.
 [^10]: [[Torah 04 - Vayera#^18-27|Genesis 18:27]].
-[^11]: Cf. *Chullin* 89a.
+[^11]: Cf. [[Chullin 89#89a|*Chullin* 89a]].
 [^12]: [[Torah 06 - Toldot#^28-6|Genesis 28:6]].
 [^13]: Lit., was very, very small in his (own) esteem.
 [^14]: [[Torah 08 - Vayishlach#^32-11|Genesis 32:11]].
-[^15]: *Berachot* 4a.
+[^15]: [[Berakhot 4#4a|*Berachot* 4a]].
 [^16]: See [[Ecclesiastes 07#^7-14|Ecclesiastes 7:14]]: “G–d has made one thing opposite the other.” This verse is interpreted to mean that everything in one realm has its corresponding opposite in another realm. Thus every factor in the realm of “holiness” has a corresponding opposite in the “other side,” in the realm of the profane or evil.—See *Sefer Habahir* 9 (11); *Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-160a|I:160a]]; ibid., III:282a; *Tikkunei Zohar* 70 (125a); *et passim*. See also *Pardes Rimonim* 25:1; *Or Hatorah*, *Nach*, vol. 2, p. 1128; below, Epistle 25, note 63.
 [^17]: As Abraham signifies the attribute of *chesed* in holiness, so Ishmael signifies the attribute of *chesed* in *kelipah*; see *Zohar* III:246b (also ibid., [[Zohar 8.08 - Parashat Naso#^z3-124a|124a]]). Cf. *Likkutei Torah*, *Ekev* 18a.
-[^18]: Cf. *Chullin* 89a and *Midrash Tehillim*, ed. Buber, 22:20, in the editor’s glosses, note 99.
+[^18]: Cf. [[Chullin 89#89a|*Chullin* 89a]] and *Midrash Tehillim*, ed. Buber, 22:20, in the editor’s glosses, note 99.
 [^19]: Par. [[Psalms 126#^126-3|Psalms 126:3]].
 [^20]: Par. [[Isaiah 11#^11-11|Isaiah 11:11]].
 [^21]: Par. [[Jeremiah 06#^6-9|Jeremiah 6:9]]; [[Jeremiah 31#^31-6|31:6]]; etc.
-[^22]: Cf. *Rosh Hashanah* 17a.
+[^22]: Cf. [[Rosh Hashanah 17#17a|*Rosh Hashanah* 17a]].
 [^23]: Alternately: to *whistle* at them; cf. *The Arrest and Liberation*, p. 65.
 [^24]: Par. [[Amos 6#^6-10|Amos 6:10]].
 [^25]: Cf. *Avot* 4:10.

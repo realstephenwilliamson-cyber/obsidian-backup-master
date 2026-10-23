@@ -33,6 +33,11 @@ na sarvaḥ pratibhāviṣṭaḥ śaktyā nīyeta sadgurum || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 280–281)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.247–248]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.248–249]]
+
 *Lead-in:* नचैतदविशेषेणैव भवेत् -- इत्याह --
 
 > न सर्वः प्रतिभाविष्टः शक्त्या नीयेत सद्गुरुम् ॥

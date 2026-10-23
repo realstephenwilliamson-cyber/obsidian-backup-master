@@ -31,6 +31,9 @@ adhomukhaṃ ca saṃpūjya sthāpayeta vicakṣaṇaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 418)
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.42–43]]
+
 > अधोमुखं सदा स्थाप्यं पूजितं पूजने पुनः ।
 > तत्पात्रमुन्मुखं तच्च रिक्तं कुर्यान्न तादृशम् ॥
 > पूजान्ते तद्रसापूर्णमात्मानं प्रविधाय तत् ।

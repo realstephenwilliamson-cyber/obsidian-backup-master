@@ -35,6 +35,9 @@ netrānandatvamabhyeti paśyopādheḥ prabhāvitām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 224)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.118]]
+
 *Lead-in:* ननु उपाधियोगमात्रादेव कथमेवं स्वरूपातिशायकमपि वैचित्र्यं भवेत् ? इत्याशङ्कां दृष्टान्तोपदर्शनेन उपशमयति --
 
 > दुर्दर्शनोऽपि घर्मांशुः पतितः पाथसां पथि ।

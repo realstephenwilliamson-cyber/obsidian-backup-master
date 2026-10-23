@@ -36,6 +36,11 @@ hṛtpadmakośamadhyasthastayoḥ saṅghaṭṭa iṣyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 335–338)
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.215]]
+>
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.215–219]]
+
 *Lead-in:* अत एव भगवताप्येवमुक्तम् -- इत्याह --
 
 > तत्त्वरक्षाविधानेऽतो विसर्गत्रैधमुच्यते ।

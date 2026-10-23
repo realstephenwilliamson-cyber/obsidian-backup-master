@@ -34,6 +34,9 @@ bodhyatāmānayandevaḥ sphuṭameva vibhāvyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 6–7)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.10–12]]
+
 > स्वातन्त्र्यात्तु निजं रूपम् बोद्धृधर्मादविच्युतम् ॥
 > उपदेशतदावेशपरमार्थत्वसिद्धये ।
 > बोध्यतामानयन्देवः स्फुटमेव विभाव्यते ॥

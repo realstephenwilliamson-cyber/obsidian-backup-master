@@ -35,6 +35,9 @@ adhastanapadāvastho na tu jñāneddhacetanaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 229)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.51–53]]
+
 > इत्थं सद्यःसमुत्क्रान्तिर्योक्ता तामाज्ञया गुरोः ॥
 > समययादिरपि प्रोक्तकाले प्रोक्तार्थसिद्धये ।
 > स्वयं कुर्यात्समभ्यस्तप्राणचारगमागमः ॥

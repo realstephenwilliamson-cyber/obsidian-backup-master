@@ -35,6 +35,9 @@ sarve rudrāstathā mūle māyāgarbhādhikāriṇaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 369–370)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.149–150]]
+
 *Lead-in:* अत्र च सृष्टिसंहारादौ कस्याधिकारः -- इत्याशङ्क्याह --
 
 > तदा श्रीकण्ठ एव स्यात्साक्षात्संहारकृत्प्रभुः ।

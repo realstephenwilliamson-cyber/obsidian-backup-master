@@ -36,6 +36,11 @@ vināpi kriyayā bhāvibrahmavidyābalād guruḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 219–220)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.27–29]]
+>
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.29–31]]
+
 *Lead-in:* क्रियादिपरिहारेणापि ब्रह्मविद्याया एवात्र साधनत्वमस्ति--इत्याह--
 
 Jayaratha comments on this verse together with 19.28: see [[Tantraloka 19.028#Viveka|19.28]].

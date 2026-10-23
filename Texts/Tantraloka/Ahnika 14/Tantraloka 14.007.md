@@ -33,6 +33,11 @@ yathā prakāśasvātantryāt pratibuddho'pyabuddhavat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 348–349)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.5–7]]
+>
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.7–8]]
+
 *Lead-in:* ननु तिरोधानमेव नाम किमुच्यते यत्रापि विभोः कर्मादिनैरपेक्ष्यम्? -- इत्याशङ्कां गर्भीकृत्य कार्यद्वारेण दृष्टान्तोपदर्शनपुरःसरं तत्स्वरूपमेवाभिधत्ते --
 
 > यथा प्रकाशस्वातन्त्र्यात् प्रतिबुद्धोऽप्यबुद्धवत् ॥

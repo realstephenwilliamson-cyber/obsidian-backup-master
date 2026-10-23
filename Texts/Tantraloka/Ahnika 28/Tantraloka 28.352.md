@@ -31,6 +31,9 @@ tathānubhavanārūḍhyā sphuṭasyāpi tu bhāvitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 155–156)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.351–353]]
+
 > देशादिव्यवधानेऽपि वासनानामुदीरितात् ॥
 > आनन्तर्यैकरूपत्वात्स्मृतिसंस्कारयोरतः ।
 > तथानुभवनारूढ्या स्फुटस्यापि तु भाविता ॥

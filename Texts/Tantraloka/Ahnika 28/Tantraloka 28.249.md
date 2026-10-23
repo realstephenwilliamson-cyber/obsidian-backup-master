@@ -33,6 +33,11 @@ sthāvarādyāstathābhāvamuttarottaratāṃ ca vā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 109)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.249]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.249–250]]
+
 *Lead-in:* ननु एषां स्थावरादिवदेव किमविवेकः समस्ति न वा?--इत्याशङ्क्य आह--
 
 > अविवेकस्तद्विशेषानुन्मेषान्मौढ्यतस्तथा ।

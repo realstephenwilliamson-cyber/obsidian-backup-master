@@ -35,6 +35,9 @@ prahare ca pṛthak svapnāścitradikkālamāninaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 95–96)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.112]]
+
 *Lead-in:* न च मायापदेऽपि देशकालयोः कश्चिन्नियमः -- इत्याह --
 
 > जागराभिमते सार्धहस्तत्रितयगोचरे ।

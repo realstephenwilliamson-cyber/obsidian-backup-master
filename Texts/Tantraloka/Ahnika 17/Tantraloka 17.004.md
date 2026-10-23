@@ -36,6 +36,11 @@ bāhū karmāspadaṃ viṣṇurmāyātmā galasaṃśritaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 140–141)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.3–4]]
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.4–5]]
+
 *Lead-in:* एवमप्येतद्बाह्वादावेव कस्मादुक्तम्?--इत्याशङ्क्याह--
 
 > बाहू कर्मास्पदं विष्णुर्मायात्मा गलसंश्रितः ॥

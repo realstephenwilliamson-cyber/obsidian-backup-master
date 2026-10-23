@@ -35,6 +35,9 @@ pāribhāṣikamityetannāmnā bindurihocyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 356–357)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.379]]
+
 *Lead-in:* एतच्च भङ्ग्यन्तरेणोक्तम् -- इत्याह --
 
 > श्रीमन्मतङ्गशास्त्रे च लयाख्यं तत्त्वमुत्तमम् ।

@@ -34,6 +34,9 @@ indriyāṇāṃ samākhyātaḥ siddhayogīśvare mate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 188–189)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.113–114]]
+
 > एतानि व्यापके भावे यदा स्युर्मनसा सह ।
 > मुक्तानि क्वापि विषये रोधाद् बन्धाय तानि तु ॥
 > इत्येवं द्विविधो भावः शुद्धाशुद्धप्रभेदतः ।

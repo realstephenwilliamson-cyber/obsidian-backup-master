@@ -35,6 +35,9 @@ tenāvacchedanude paramamahatpadaviśeṣaṇamupāttam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 262–263)
+> ![[Tantraloka Dyczkowski v01 08 - Chapter One, part 7#Viveka on 1.105]]
+
 *Lead-in:* ननु एवमपि किं विशेषणयोगेन ? इत्याशङ्क्याह --
 
 > ईदृग्रूपं कियदपि रुद्रोपेन्द्रादिषु स्फुरेद्येन ।

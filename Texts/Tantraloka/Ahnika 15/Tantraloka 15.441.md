@@ -34,6 +34,11 @@ bhojyabhojakacarvagnyoritthamekānusandhitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 272–273)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.436–441]]
+>
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.441–442]]
+
 *Lead-in:* अत एव आह--
 
 > भोज्यभोजकचर्वग्न्योरित्थमेकानुसन्धितः ॥

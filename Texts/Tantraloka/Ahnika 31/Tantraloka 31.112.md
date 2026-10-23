@@ -31,6 +31,9 @@ pīṭhordhve tu prakartavyaṃ śūlamūlaṃ tu suvrate |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 112–113)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.112–113]]
+
 > शूलाग्रं शूलमध्यं तच्छूलमूलं तु तद्भवेत् ॥
 > वेदी मध्ये प्रकर्तव्या उभयोश्च षडंगुलम् ।
 > द्वादशांगुलदीर्घा तु उभयोः पार्श्वयोस्तथा ॥

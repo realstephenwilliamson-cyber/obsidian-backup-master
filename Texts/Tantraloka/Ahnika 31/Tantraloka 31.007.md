@@ -33,6 +33,13 @@ ekasmātprabhṛti proktaṃ śatāntaṃ maṇḍalaṃ yataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 68–70)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 31.9–10.*
+>
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.6–7]]
+>
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.9–10]]
+
 *Lead-in:* इत्याशयेन श्रीत्रिकसद्भावदर्शितं त्रित्रिशूलं मण्डलं प्रथमं वक्तुं प्रतिजानीते—
 
 Jayaratha comments on this verse together with 31.6: see [[Tantraloka 31.006#Viveka|31.6]].

@@ -34,5 +34,8 @@ upāyāntarasāpekṣyaviyogenaiva jāyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 3–5)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.3–4]]
+
 Jayaratha comments on this verse together with 5.4: see [[Tantraloka 05.004#Viveka|5.4]].
 

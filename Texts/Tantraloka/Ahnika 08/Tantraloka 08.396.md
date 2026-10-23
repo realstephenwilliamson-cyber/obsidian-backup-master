@@ -35,6 +35,9 @@ tasyāṃ sūkṣmā susūkṣmā ca tathānye amṛtāmite || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 368–369)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.395–397]]
+
 > ...................टां भित्त्वा चोर्ध्वकुण्डली ॥
 > शक्तिः सुप्ताहिसदृशी सा विश्वाधार उच्यते ।
 > तस्यां सूक्ष्मा सुसूक्ष्मा च तथान्ये अमृतामिते ॥

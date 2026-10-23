@@ -36,6 +36,11 @@ tatra svamantrayogena dharāmāvāhayetpurā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 143–144)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.7–8]]
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.8–10]]
+
 *Lead-in:* तदेवाह--
 
 Jayaratha comments on this verse together with 17.7: see [[Tantraloka 17.007#Viveka|17.7]].

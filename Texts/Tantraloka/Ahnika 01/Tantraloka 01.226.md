@@ -35,6 +35,9 @@ prayāta eva tadrūḍhiṃ vinā naiva hi kiñcana || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 402)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.226]]
+
 *Lead-in:* एवमेतत्प्रसङ्गादभिधाय प्रकृतमेवाह --
 
 > द्वावप्येतौ समावेशौ निर्विकल्पार्णवं प्रति ।

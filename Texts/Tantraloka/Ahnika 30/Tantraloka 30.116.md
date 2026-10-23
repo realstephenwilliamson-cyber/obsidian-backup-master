@@ -31,5 +31,8 @@ aṣṭārṇamatha pañcārṇaṃ yogadhāriṇisaṃjñitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 63)
+> ![[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#Viveka on 30.116–120]]
+
 Jayaratha comments on this verse together with 30.119: see [[Tantraloka 30.119#Viveka|30.119]].
 

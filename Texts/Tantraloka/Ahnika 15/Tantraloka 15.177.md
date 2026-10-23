@@ -33,6 +33,11 @@ atha tatra na tadbhakṣyaṃ tadā tena tathā tataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 110–111)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.177]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.177–178]]
+
 *Lead-in:* ननु एवमपि भक्ष्यत्वाभक्ष्यत्वयोः समुच्चयविकल्पौ स्याताम्?-- इत्याशङ्क्य आह—
 
 > न विधिप्रतिषेधाख्यधर्मयोरेकमास्पदम् ।

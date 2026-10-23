@@ -36,6 +36,11 @@ stotreṣu bahudhā caitanmayā proktaṃ nijāhnike || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 392)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.61–62]]
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.62]]
+
 *Lead-in:* एतच्च मयैव अन्यत्र वितत्योक्तम्--इत्याह--
 
 > स्तोत्रेषु बहुधा चैतन्मया प्रोक्तं निजाह्निके ॥

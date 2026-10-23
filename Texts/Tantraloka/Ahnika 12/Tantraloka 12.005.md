@@ -34,6 +34,9 @@ nahyavaccheditāṃ kvāpi svapne'pi viṣahāmahe || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 102)
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.5]]
+
 *Lead-in:* ननु संकुचितस्यापि देहादिप्रमातुः कथमेवं भायात् ? -- इत्याशङ्क्याह --
 
 > सर्वं सर्वत्र रूपं च तस्यापि न न भासते ।

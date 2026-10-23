@@ -33,6 +33,11 @@ ataścakrārcanādyeṣu vijātīyamatanmayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 171–172)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.378–379]]
+>
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.379–380]]
+
 *Lead-in:* एवमेवंविधस्य मेलकादौ प्रवेश एव न दातव्यः--इत्याह--
 
 > अतश्चक्रार्चनाद्येषु विजातीयमतन्मयम् ॥

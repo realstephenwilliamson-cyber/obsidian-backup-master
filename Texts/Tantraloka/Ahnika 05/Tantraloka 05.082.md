@@ -35,6 +35,9 @@ tatra viśrāntimāgacchedyadvīryaṃ mantramaṇḍale |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 104)
+> ![[Tantraloka Dyczkowski v04 05 - Chapter Five, part 3#Viveka on 5.82]]
+
 *Lead-in:* न च अत्रैव विश्रमणीयम् -- इत्याह --
 
 > तत्र विश्रान्तिमागच्छेद्यद्वीर्यं मन्त्रमण्डले ।

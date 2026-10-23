@@ -33,6 +33,11 @@ pūrvaṃ kiṃ na tathā kasmāttadaiveti na saṅgatam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 250–251)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.204–205]]
+>
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.205–206]]
+
 *Lead-in:* ननु स्वात्मप्रत्यवमर्शे व्यतिरिक्तं तावन्निमित्तं किञ्चिन्नापेक्षणीयं तत्पूर्वमपि सोऽस्तु, यद्वा इदानीमपि मा भूत्? -- इत्याशङ्क्याह --
 
 > पूर्वं किं न तथा कस्मात्तदैवेति न सङ्गतम् ॥

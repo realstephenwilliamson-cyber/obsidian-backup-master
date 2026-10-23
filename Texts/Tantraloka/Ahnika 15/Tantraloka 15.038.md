@@ -33,6 +33,11 @@ tatrādau śivatāpattisvātantryāveśa eva yaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 33–35)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.37–38]]
+>
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.38–39]]
+
 *Lead-in:* एवमादौ शिष्याणां तत्तद्भेदभिन्नतया योग्यतालक्षणमौचित्यं परीक्ष्य, स्नानभेदादि प्रतिपादयितुं पीठिकाबन्धमारचयति--
 
 > तत्रादौ शिवतापत्तिस्वातन्त्र्यावेश एव यः ॥

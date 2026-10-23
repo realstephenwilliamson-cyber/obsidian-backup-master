@@ -297,7 +297,7 @@ and he remained
 [^2]: what
 [^3]: 45
 [^4]: *mah*
-[^5]: *BT* Sanhedrin 59b
+[^5]: *BT* [[Sanhedrin 59#59b|Sanhedrin 59b]]
 [^6]: *basar*
 [^7]: *be-shagam*
 [^8]: 345
@@ -310,7 +310,7 @@ and he remained
 [^15]: Yesod
 [^16]: Yesod
 [^17]: Malkhut
-[^18]: See *BT* Sukkah 5a and Berakhot 6a
+[^18]: See *BT* [[Sukkah 5#5a|Sukkah 5a]] and [[Berakhot 6#6a|Berakhot 6a]]
 [^19]: *Shekhinah*
 [^20]: **֘**
 [^21]: *taga*

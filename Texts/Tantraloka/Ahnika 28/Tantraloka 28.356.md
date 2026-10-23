@@ -33,6 +33,11 @@ ya evaite tu dṛśyante jāgratyete mayekṣitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 157–158)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.355–356]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.356–357]]
+
 *Lead-in:* ननु एवमपि जाग्रत्स्वप्नयोर्दार्ढ्यादार्ढ्याभ्यां सत्यत्वमसत्यत्वं च सर्वत्र प्रसिद्धं कथमपह्नोतुं शक्यम् ?--इत्याशङ्क्य आह--
 
 > य एवैते तु दृश्यन्ते जाग्रत्येते मयेक्षिताः ॥

@@ -36,6 +36,11 @@ atra tatpūrṇavṛttyaiva viśvāveśamayaṃ sthitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 68–70)
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.60–61]]
+>
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.61–62]]
+
 *Lead-in:* अत आह --
 
 > अत्र तत्पूर्णवृत्त्यैव विश्वावेशमयं स्थितम् ॥

@@ -31,6 +31,11 @@ jñānasamakālamuktaḥ kaivalyaṃ yāti hataśokaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 135)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 28.313.*
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.313]]
+
 *Lead-in:* इतरत्रापि तात्पर्यार्थं तावदाह--
 
 Jayaratha comments on this verse together with 28.313: see [[Tantraloka 28.313#Viveka|28.313]].

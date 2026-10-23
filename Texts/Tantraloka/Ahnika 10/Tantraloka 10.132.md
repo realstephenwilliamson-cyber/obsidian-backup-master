@@ -33,6 +33,11 @@ nanvastu vedyatā bhāvadharmaḥ kintu layākalau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 378)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.131–132]]
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.132–133]]
+
 *Lead-in:* अधुना तु तदेव घटयितुं प्रलयाकलविज्ञानाकलापेक्षया तन्मूलभूता वेद्यतैव नास्ति? -- इत्याशङ्कते -
 
 > नन्वस्तु वेद्यता भावधर्मः किन्तु लयाकलौ ॥

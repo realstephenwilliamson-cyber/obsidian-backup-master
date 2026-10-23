@@ -36,6 +36,11 @@ tajjaṃ dhruvecchonmeṣākhyaṃ trikaṃ varṇāstataḥ punaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 338–344)
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.220–221]]
+>
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.221–223]]
+
 *Lead-in:* एतदेव विभजति—
 
 Jayaratha comments on this verse together with 3.220: see [[Tantraloka 03.220#Viveka|3.220]].

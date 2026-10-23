@@ -36,6 +36,11 @@ avikalpena bhāvena munayo'pi tathābhavan || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 338–341)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.243]]
+>
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.243 (2)]]
+
 *Lead-in:* तदाह --
 
 > तस्माद्यत्संविदो नातिदूरे तच्छुद्धिमावहेत् ।

@@ -31,6 +31,9 @@ jñānaṃ taduttaraṃ jyāyo yato mokṣaikakāraṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 327–328)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.327]]
+
 *Lead-in:* तद्वैचित्र्यमेव दर्शयति --
 
 > श्रौतं चिन्तामयं द्वात्म भावनामयमेव च ।

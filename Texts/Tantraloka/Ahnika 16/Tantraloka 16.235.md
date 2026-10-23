@@ -35,6 +35,9 @@ dvādaśāṃgulamanyacca dve'nye pañcāṃgule pṛthak || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 102)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.234–236]]
+
 > एकैकं द्व्यंगुलं ज्ञेयं तत्र पूर्वं पदत्रयम् ।
 > अष्टांगुलानि चत्वारि दशांगुलमतः परम् ॥
 > द्व्यंगुले द्वे पदे चान्ये षडंगुलमतः परम् ।

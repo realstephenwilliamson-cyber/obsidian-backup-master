@@ -50,7 +50,7 @@ In the case of a person who is intelligent enough to know G–d and to reflect o
 
 But he whose intelligence is too limited to know and reflect on the greatness of the *En Sof*, blessed is He, so as to beget out of this understanding a conscious love in his heart, and also awe in his mind and dread of G–d in his heart, yet he recalls and awakens the natural love that is hidden in his heart, bringing it out of the hidden recesses of the heart into the conscious mind, at least, so that his will which is in his mind and which is latent also in his heart should approve and favor, with complete willingness and truthful sincerity, that he suffer martyrdom in actual fact for the Unity of G–d, in order to attach to Him his divine soul and her garments and unite them with His Unity and Oneness, namely, the Supernal Will that is clothed in Torah study and in the performance of the commandments, as explained above; and in this [natural love] is contained also fear [wherewith] to accept His reign and not rebel against Him, G–d forbid—and with this *kavanah* he turns away from evil and does good, and studies and prays and recites benedictions, following only the plain meaning of the words without conscious fear and love in his heart and mind—this *kavanah* is, by way of the simile, like the soul of a living creature that has no intelligence and freedom of will, whose *middot*, namely its fear of harmful tilings and its love of pleasing things, are only natural to it and do not originate in its understanding and knowledge. So, by way of example, are the natural love and fear which are latent in the heart of every Jew, since they are our heritage from our Patriarchs and like a natural instinct in our souls, as has been mentioned above.[^15]
 
-[^1]: *Berachot* 20b; *Shulchan Aruch*, *Orach Chaim* 62:3.
+[^1]: [[Berakhot 20#20b|*Berachot* 20b]]; *Shulchan Aruch*, *Orach Chaim* 62:3.
 [^2]: *Shulchan Aruch*, loc. cit.
 [^3]: Ibid. 185:2.
 [^4]: Maimonides, *Hilchot Berachot* 1:1.
@@ -58,7 +58,7 @@ But he whose intelligence is too limited to know and reflect on the greatness of
 [^6]: Ibid. 101:2.
 [^7]: Ibid. 60:5.
 [^8]: Ibid. 101:1.
-[^9]: *Berachot* 13b.
+[^9]: [[Berakhot 13#13b|*Berachot* 13b]].
 [^10]: See above, ch. 37.
 [^11]: *Shnei Luchot HaBrit*, vol. 1, 249b.
 [^12]: Ch. 7.

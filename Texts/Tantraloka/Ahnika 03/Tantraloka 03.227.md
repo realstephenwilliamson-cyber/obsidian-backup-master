@@ -34,6 +34,11 @@ a iti brahma paramaṃ tatsaṅghaṭṭodayātmakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 348–349)
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.227]]
+>
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.227 (continued)]]
+
 *Lead-in:* तदेव अर्थद्वारेण संवादयति --
 
 > यल्लोहितं तदग्निर्यद्वीर्यं सूर्येन्दुविग्रहम् ।

@@ -34,6 +34,9 @@ tatra yā svarasandarbhasubhagā nādarūpiṇī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 365–367)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.237–238]]
+
 *Lead-in:* एवं न केवलमासामेकैकस्य स्थूलत्वादिना त्रैरूप्यं यावत्प्रत्येकमपि -- इत्याह --
 
 > तासामपि त्रिधा रूपं स्थूलसूक्ष्मपरत्वतः ।

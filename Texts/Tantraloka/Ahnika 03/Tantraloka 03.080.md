@@ -35,6 +35,9 @@ tathāpi vibhavasthānaṃ sā na tu prācyajanmabhūḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 181–182)
+> ![[Tantraloka Dyczkowski v02 06 - Chapter Three, part 3#Viveka on 3.80]]
+
 *Lead-in:* ननु यदीच्छाशक्तेरिष्यमाणसमापत्त्या परामर्शान्तरोदय इष्यते तज्ज्ञानशक्तेरपि किं न ज्ञेयसमापत्त्या ? -- इत्याशङ्क्याह --
 
 > उन्मेषशक्तावस्त्येतज्ज्ञेयं यद्यपि भूयसा ।

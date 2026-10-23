@@ -35,6 +35,9 @@ svayaṃbhāsātmanānena tādātmyaṃ yātyananyadhīḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 204)
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.151]]
+
 *Lead-in:* नन्वेवं लक्ष्यतामाप्तेनात्मनास्य किं स्यात् ? -- इत्याशङ्क्याह -
 
 > स्वयंभासात्मनानेन तादात्म्यं यात्यनन्यधीः ।

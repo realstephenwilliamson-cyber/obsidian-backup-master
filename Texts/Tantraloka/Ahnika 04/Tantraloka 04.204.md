@@ -34,6 +34,9 @@ udeti rūḍhiḥ paramā tathāpītthaṃ nirūpitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 308)
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.204]]
+
 *Lead-in:* नन्वकैकस्मादेव वास्तवाज्जप्यादेः स्वरूपविश्रान्तिः सिद्ध्येत् इति किं जप्यादिभिर्बहुभिरेवमुपदिष्टैः ? -- इत्याशङ्क्याह --
 
 > जप्यादौ होमपर्यन्ते यद्यप्येकैककर्मणि ।

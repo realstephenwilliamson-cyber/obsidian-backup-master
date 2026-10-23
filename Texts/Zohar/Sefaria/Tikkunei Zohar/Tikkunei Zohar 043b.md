@@ -285,7 +285,7 @@ and these *TaNaYiM* are *EiTaNYM*[^20] with a reversal of
 [^4]: Netzaḥ-Hod
 [^5]: *lev*
 [^6]: 32
-[^7]: See *BT* Baba Batra 74b
+[^7]: See *BT* [[Bava Batra 74#74b|Baba Batra 74b]]
 [^8]: See *Pirqei de-Rabbi Eli’ezer* Ch.4
 [^9]: *ryv*
 [^10]: argument

@@ -40,6 +40,9 @@ dūraṃ runddhetprabhavatu kathaṃ tatra mālinyaśaṅkā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 478–480)
+> ![[Tantraloka Dyczkowski v01 13 - Chapter One, part 12#Viveka on 1.331]]
+
 *Lead-in:* ननु आत्मनः स्वरूपप्रथनमेव "मोक्षः"इत्युक्तम्, आत्मा चैक एव अखण्डः इति तत्प्रथात्मनो मोक्षस्यापि वैचित्र्यं कुतस्त्यम् ? इत्याशङ्क्याह --
 
 > मिथ्याज्ञानं तिमिरमसमान् दृष्टिदोषान्प्रसूते

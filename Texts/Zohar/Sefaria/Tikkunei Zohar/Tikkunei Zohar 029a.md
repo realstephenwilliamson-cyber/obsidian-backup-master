@@ -297,7 +297,7 @@ The One who rides upon them is YQV”Q.
 [^22]: *hadas*
 [^23]: *lulav*
 [^24]: *’aravah*
-[^25]: See *Mishnah* Sukkah 3:6 and *BT* Sukkah 35b
+[^25]: See *Mishnah* Sukkah 3:6 and *BT* [[Sukkah 35#35b|Sukkah 35b]]
 [^26]: *Mishnah* Sukkah 3:1
 [^27]: life-force
 [^28]: 18
@@ -308,7 +308,7 @@ The One who rides upon them is YQV”Q.
 [^33]: Yesod
 [^34]: *ḥaiy*
 [^35]: *Sepher Yetzirah* 1:13
-[^36]: *BT* Sukkah 37b
+[^36]: *BT* [[Sukkah 37#37b|Sukkah 37b]]
 [^37]: E-’ELeH
 [^38]: א
 [^39]: citron

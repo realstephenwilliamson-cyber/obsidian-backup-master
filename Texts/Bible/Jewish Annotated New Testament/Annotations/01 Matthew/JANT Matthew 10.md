@@ -43,9 +43,9 @@ Text: [[NRSVue Matthew 10|NRSVue]] · [[Matthew 10|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 10#^10-8|8]]:** *Raise the dead*, see *Lev. Rab.* 10.4, where Yehuda ha-Nasi (Rabbi Judah the Prince) is also said to be able to raise the dead. ^10-8
 
-**[[NRSVue Matthew 10#^10-9|9]]:** *Take no gold, or silver, or copper*, God provides for those who study and/or teach the Torah (in *b. Bek*. 29a the rabbis note that one should teach the Torah without expectation of payment; see also *Tanh. Ex.* 29). ^10-9
+**[[NRSVue Matthew 10#^10-9|9]]:** *Take no gold, or silver, or copper*, God provides for those who study and/or teach the Torah (in [[Bekhorot 29#29a|*b. Bek*. 29a]] the rabbis note that one should teach the Torah without expectation of payment; see also *Tanh. Ex.* 29). ^10-9
 
-**[[NRSVue Matthew 10#^10-10|10]]:** *Laborers deserve their food*, missionaries should receive hospitality ([[1 Corinthians 09#^9-14|1 Cor 9.14]]; see *b. Shabb.* 127a on the importance of hospitality). ^10-10
+**[[NRSVue Matthew 10#^10-10|10]]:** *Laborers deserve their food*, missionaries should receive hospitality ([[1 Corinthians 09#^9-14|1 Cor 9.14]]; see [[Shabbat 127#127a|*b. Shabb.* 127a]] on the importance of hospitality). ^10-10
 
 **[[NRSVue Matthew 10#^10-15|15]]:** *Sodom and Gomorrah,* destroyed for lack of charity and hospitality according to [[Ezekiel 16#^16-49|Ezek 16.49]]; on Sodom and Gomorrah’s wickedness see [[Torah 03 - Lech Lecha#^13-13|Gen 13.13]]; [[Torah 04 - Vayera#^18-20|18.20]]; [[Torah 04 - Vayera#^19-24|19.24]],[[Torah 04 - Vayera#^19-28|28]]. ^10-15
 
@@ -75,7 +75,7 @@ Text: [[NRSVue Matthew 10|NRSVue]] · [[Matthew 10|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 10#^10-28|28]]:** *Fear him*, see [[Hebrews 10#^10-31|Heb 10.31]]. *Hell,* lit, “Gehenna”; see 5.22n. ^10-28
 
-**[[NRSVue Matthew 10#^10-29|29–31]]:** *Sparrows*, if God cares for seemingly insignificant animals, how much more so will God care for human beings (a “qal vahomer” argument; see 6.26n.; 10.30–32); *b. B. Metz.* 85a states that if a man is compassionate to animals, how much more so should he receive compassion (see. *y. Seb.* 9.1; *Gen. Rab*. 33.18; see also [[Luke 12#^12-6|Lk 12.6]]). ^10-29
+**[[NRSVue Matthew 10#^10-29|29–31]]:** *Sparrows*, if God cares for seemingly insignificant animals, how much more so will God care for human beings (a “qal vahomer” argument; see 6.26n.; 10.30–32); [[Bava Metzia 85#85a|*b. B. Metz.* 85a]] states that if a man is compassionate to animals, how much more so should he receive compassion (see. *y. Seb.* 9.1; *Gen. Rab*. 33.18; see also [[Luke 12#^12-6|Lk 12.6]]). ^10-29
 
 **[[NRSVue Matthew 10#^10-33|33]]:** *Whoever denies me*, a warning to be faithful despite persecution. ^10-33
 

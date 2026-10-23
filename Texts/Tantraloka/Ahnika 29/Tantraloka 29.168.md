@@ -31,6 +31,9 @@ vidyāmantrātmakaṃ pīṭhadvayamatraiva melayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 345–346)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.166–168]]
+
 > युग्मस्यास्य प्रसादेन व्रतयोगविवर्जितः ॥
 > सर्वदा स्मरणं कृत्वा आदियागैकतत्परः ।
 > शक्तिदेहे निजे न्यस्येद्विद्यां कूटमनुक्रमात् ॥

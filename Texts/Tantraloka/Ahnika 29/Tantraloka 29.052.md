@@ -31,5 +31,8 @@ endrī yāmyā muṇḍā yogeśīrīśatastu koṇeṣu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 249–250)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.52–53]]
+
 Jayaratha comments on this verse together with 29.54: see [[Tantraloka 29.054#Viveka|29.54]].
 

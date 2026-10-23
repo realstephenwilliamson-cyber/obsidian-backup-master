@@ -34,6 +34,9 @@ devamāvāhayāmīti tato devāya dīpakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 152)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.22–24]]
+
 > संबोधनविभक्त्यैव विना कर्मादिशक्तिताम् ॥
 > स्वातन्त्र्यात्तं दर्शयितुं तत्रो(त्रा)हमिममाचरेत् ।
 > देवमावाहयामीति ततो देवाय दीपकम् ॥

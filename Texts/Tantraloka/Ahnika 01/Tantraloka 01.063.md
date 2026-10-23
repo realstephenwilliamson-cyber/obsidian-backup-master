@@ -34,6 +34,9 @@ vyomādiśabdavijñānāt paro mokṣo na saṃśayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 199–201)
+> ![[Tantraloka Dyczkowski v01 06 - Chapter One, part 5#Viveka on 1.63]]
+
 *Lead-in:* इतिन्यायेन यस्य यत्र निष्ठा तस्य तत्प्राप्तिर्भवति -- इत्याह --
 
 > यो यदात्मकतानिष्ठस्तद्भावं स प्रपद्यते ।

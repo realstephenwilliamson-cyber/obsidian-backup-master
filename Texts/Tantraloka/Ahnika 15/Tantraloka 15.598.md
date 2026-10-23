@@ -34,6 +34,11 @@ atatsvabhāve tādrūpyaṃ darśayannavaśe'pi yaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 343–344)
+> ![[Tantraloka Dyczkowski v08 10 - Chapter Fifteen, part 9#Viveka on 15.598]]
+>
+> ![[Tantraloka Dyczkowski v08 10 - Chapter Fifteen, part 9#Viveka on 15.598–599]]
+
 *Lead-in:* ननु जात्यादौ ग्रहतया निरूपणं कस्मात् कृतम् ?--इत्याशङ्क्य आह--
 
 > अतत्स्वभावे ताद्रूप्यं दर्शयन्नवशेऽपि यः ॥

@@ -33,6 +33,11 @@ dhvanijyotirmarudyuktaṃ cittaṃ viśramya copari || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 143–144)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.10–12]]
+>
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.12–13]]
+
 *Lead-in:* अस्या एव अवान्तरभेदसहितायाः श्रीयोगसञ्चारोक्तं रूपं निर्दिशति--
 
 > ध्वनिज्योतिर्मरुद्युक्तं चित्तं विश्रम्य चोपरि ॥

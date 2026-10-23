@@ -35,6 +35,9 @@ ata ūrdhvaṃ kaṭāho'ṇḍe sa ghanaḥ koṭiyojanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 193)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.165–166]]
+
 *Lead-in:* एतदेव सङ्कलयति --
 
 > कालाग्नेर्दण्डपाण्यन्तमष्टानवतिकोटयः ।

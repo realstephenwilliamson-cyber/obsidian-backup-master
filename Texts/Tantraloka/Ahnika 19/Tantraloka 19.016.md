@@ -34,6 +34,9 @@ pūrṇāhutiprayogeṇa sveṣṭe dhāmni niyojayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 209–215)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.15–16]]
+
 > षोडशाधारषट्चक्रलक्ष्यत्रयखपञ्चकात् ।
 > क्वचिदन्यतरत्राथ प्रागुक्तपशुकर्मवत् ॥
 > प्रविश्य मूलं कन्दादेश्छिन्दन्नैक्यविभावनात् ।

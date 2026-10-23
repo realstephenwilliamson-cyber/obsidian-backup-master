@@ -31,6 +31,9 @@ avaśyamūrdhvādharatāsthityā prāmāṇyasiddhaye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 214)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.38–39]]
+
 *Lead-in:* ननु यदि एक एव आगमस्तत् तुल्यप्रमाणशिष्टानां विकल्प इति नीत्या विकल्पोपपत्तेः किं विषयभेदेन कृत्यम्?--इत्याशङ्क्य आह--
 
 > अनेकागमपक्षेऽपि वाच्या विषयभेदिता ।

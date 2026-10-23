@@ -35,5 +35,8 @@ abdheḥ puraṃ tatastvāpyaṃ rasatanmātradhāraṇāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 226–232)
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.201–202]]
+
 Jayaratha comments on this verse together with 8.204: see [[Tantraloka 08.204#Viveka|8.204]].
 

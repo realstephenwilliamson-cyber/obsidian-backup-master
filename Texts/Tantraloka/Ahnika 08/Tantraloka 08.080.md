@@ -34,6 +34,9 @@ paśūnāṃ karmasaṃskāraḥ syāttādṛgdṛḍhasaṃskṛteḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 128–129)
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.80]]
+
 *Lead-in:* इति, तत् कथमेतदुक्तं यद्भारतात् अन्यद्भोगभूरेव ? -- इत्याशङ्क्याह --
 
 > अत्र बाहुल्यतः कर्मभूभावोऽत्राप्यकर्मणाम् ।

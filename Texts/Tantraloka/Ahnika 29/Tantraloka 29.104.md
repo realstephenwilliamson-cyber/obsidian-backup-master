@@ -33,6 +33,11 @@ tāmāhṛtya mitho'bhyarcya tarpayitvā parasparam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 300–301)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.104]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.104–105]]
+
 *Lead-in:* ननु एतदास्ताम्, "बाह्यस्थया शक्त्या साकं समर्चयेत्"इत्येव कस्मादुक्तम् ?--इत्याशंक्य आह--
 
 > द्वाभ्यां तु सृष्टिसंहारौ तस्मान्मेलकमुत्तमम् ।

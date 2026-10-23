@@ -35,6 +35,9 @@ vikalpaḥ śabdamūlaśca śabdaḥ saṅketajīvitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 63–65)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.70]]
+
 *Lead-in:* नन्वस्य किं सङ्केतान्तरमार्गणेन, अङ्गुल्यादिनिर्देशेन व्युत्पत्तिर्भविष्यति? -- इत्याशङ्क्याह --
 
 > अङ्गुल्यादेशनेऽप्यस्य नाविकल्पा तथा मतिः ।

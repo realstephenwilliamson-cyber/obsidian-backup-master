@@ -34,6 +34,9 @@ sā saṃskriyāyai mokṣāya bhogāyāpi dvayāya vā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 370)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.2]]
+
 *Lead-in:* इत्याद्युक्त्या दीक्षामात्रेणैव कार्तार्थ्यमिति किं शेषवृत्त्युपदेशेन ?--इत्याशङ्कां गर्भीकृत्य दीक्षाभेदोक्तिपुरःसरं तत्प्रयोजनं प्रदर्शयति--
 
 > दीक्षा बहुप्रकारेयं श्राद्धान्ता या प्रकीर्तिता ।

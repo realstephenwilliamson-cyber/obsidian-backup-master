@@ -34,6 +34,9 @@ anusaṃdhivaśādyā ca sākṣānmoktrī sabījikā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 370–371)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.3–4]]
+
 *Lead-in:* एतदेव प्रपञ्चयति--
 
 Jayaratha comments on this verse together with 26.4: see [[Tantraloka 26.004#Viveka|26.4]].

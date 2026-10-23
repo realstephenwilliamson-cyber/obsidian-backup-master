@@ -33,6 +33,9 @@ deśādhvano'pyatha samāsavikāsayogātsaṅgīyate vidhirayaṃ śivaśāstrad
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 49)
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.1]]
+
 *Lead-in:* इदानीं द्वितीयार्धेन देशाध्वनः स्वरूपं संगिरितुमुपक्रमते --
 
 > देशाध्वनोऽप्यथ समासविकासयोगात्सङ्गीयते विधिरयं शिवशास्त्रदृष्टः ॥

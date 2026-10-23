@@ -31,6 +31,9 @@ triśūlārkavṛṣāndiksthā mātaraḥ kṣetrapaṃ yajet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 112–113)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.181–183]]
+
 *Lead-in:* तदेव आह--
 
 Jayaratha comments on this verse together with 15.182: see [[Tantraloka 15.182#Viveka|15.182]].

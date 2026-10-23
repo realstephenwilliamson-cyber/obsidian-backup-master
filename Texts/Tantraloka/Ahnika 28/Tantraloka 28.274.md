@@ -31,6 +31,9 @@ vrajannāyatanaṃ naiva phalaṃ kiñcitsamaśnute || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 119–120)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.274–275]]
+
 *Lead-in:* सिद्धान्तादावूर्ध्वोर्ध्वं दीक्षितस्य पुनस्तत्र अनास्थया तीर्थादि आश्रयतः सर्वं निरर्थकमेव भवेत्--इत्याह--
 
 Jayaratha comments on this verse together with 28.275: see [[Tantraloka 28.275#Viveka|28.275]].

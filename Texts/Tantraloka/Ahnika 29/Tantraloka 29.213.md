@@ -31,6 +31,9 @@ etatpiṇḍatrayaṃ stobhakāri pratyekamucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 366–367)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.212–213]]
+
 > सुधाग्निमरुतो मन्दपरकालाग्निवायवः ॥
 > वह्निसौधासुकूटाग्निवायुः सर्वे सषष्ठकाः ।
 > एतत्पिण्डत्रयं स्तोभकारि प्रत्येकमुच्यते ॥

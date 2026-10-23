@@ -33,6 +33,11 @@ darśanaṃ karaṇāpekṣaṃ kriyātvāditi cocyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 242–243)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.257]]
+>
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.257–258]]
+
 *Lead-in:* एवं हि बुद्धीन्द्रियकल्पनमपि अफलमेव भवेत् ? -- इत्याह --
 
 > तथाभावे तु बुद्ध्यक्षैरपि किं स्यात्प्रयोजनम् ।

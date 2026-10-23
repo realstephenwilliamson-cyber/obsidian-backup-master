@@ -35,6 +35,9 @@ manodevastato divyaḥ somo vibhurudīritaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 245–247)
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.223–224]]
+
 > पञ्चवर्णयुतं गन्धतन्मात्रमण्डलं महत् ।
 > आच्छाद्य योजनानेककोटिभिः स्थितमन्तरा ॥
 > एवं रसादिमात्राणां मण्डलानि स्ववर्णतः ।

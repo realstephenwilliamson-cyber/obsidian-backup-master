@@ -33,6 +33,11 @@ amaravaradevacitrālivindhyaguḍikā iti kramātṣaḍamī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 233–235)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.29–33]]
+>
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.33–34]]
+
 > खगेन्द्रः सहविज्जाम्ब इल्लारि अम्बया सह ॥
 > वक्तष्टिर्विमलोऽनन्तमेखलाम्बायुतः पुरा ।
 > शक्त्या मङ्गलया कूर्म इल्लारि अम्बया सह ॥

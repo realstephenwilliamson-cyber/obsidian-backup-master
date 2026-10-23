@@ -31,6 +31,9 @@ bhogaṃ prati viraktaśceditthaṃ dehaṃ tyajediti || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 370)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.38]]
+
 *Lead-in:* एतद्धि पारमेश्वरशक्तिपातवशोन्मिषितपरसंविदैकात्म्यभाजां योगिनां बाह्यविषयोपभोगवैमुख्यात् देहत्याग एव उपायमात्रमिति । तदाह --
 
 > जपध्यानादिसंसिद्धः स्वातन्त्र्याच्छक्तिपाततः ।

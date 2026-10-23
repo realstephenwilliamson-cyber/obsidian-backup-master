@@ -31,6 +31,9 @@ tirobhūtaḥ paretāsurapi bandhusuhṛdgurūn |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 356)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.22]]
+
 *Lead-in:* परद्वारेणाप्याह -
 
 > तिरोभूतः परेतासुरपि बन्धुसुहृद्गुरून् ।

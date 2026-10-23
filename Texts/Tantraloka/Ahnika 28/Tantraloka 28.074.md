@@ -31,6 +31,9 @@ paryantavāsī yo jñānī deśasyāpi pavitrakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 42)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.72–75]]
+
 > श्रीमन्निशाटनेऽप्युक्तं कथनान्वेषणादपि ।
 > श्रोत्राभ्यन्तरसंप्राप्ते गुरुवक्त्राद्विनिर्गते ॥
 > मुक्तस्तदैव काले तु यन्त्रं तिष्ठति केवलम् ।

@@ -31,6 +31,9 @@ na yonisaṃbandhavaśādvidyāsaṃbandhajastu saḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 89)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.194]]
+
 *Lead-in:* ननु इह पितरमुद्दिश्य भ्रत्रादिव्यवहारो न्याययः, तत्कथं गुरुमुद्दिश्यापि एवमुक्तम् ?--इत्याशङ्क्य आह--
 
 > गुरोः पत्नी तथा भ्रता पुत्र इत्यादिको गणः ।

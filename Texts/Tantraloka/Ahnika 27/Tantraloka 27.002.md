@@ -31,6 +31,9 @@ bahiṣkuryāttato hyete rahasyatvena siddhidāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 400)
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.2]]
+
 *Lead-in:* ननु अत्र कस्माल्लिङ्गपूजायाः साक्षादेव न अभिधानं कृतम् ?-- इत्याशङ्क्य आह--
 
 > एतेषामूर्ध्वशास्त्रोक्तमन्त्राणां न प्रतिष्ठितम् ।

@@ -33,6 +33,11 @@ ye'pyaprāptavibodhāste'bhyuditotphullayāgasaṃrūḍhāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 319–321)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.128–129]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.129–130]]
+
 *Lead-in:* एवमेतत् ज्ञानिविषयमभिधाय, कर्मिविषयमपि आह--
 
 > येऽप्यप्राप्तविबोधास्तेऽभ्युदितोत्फुल्लयागसंरूढाः ॥

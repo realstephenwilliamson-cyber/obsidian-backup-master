@@ -34,6 +34,9 @@ iti nirṇetumatraitaduktamaṣṭottaraṃ śatam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 54)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.112–113]]
+
 > देहातीतेऽपि विश्रान्त्या संवित्तेः कल्पनावशात् ॥
 > देहत्वमिति तस्मात्स्यादुत्थानं द्वादशांगुलम् ।
 > इति निर्णेतुमत्रैतदुक्तमष्टोत्तरं शतम् ॥

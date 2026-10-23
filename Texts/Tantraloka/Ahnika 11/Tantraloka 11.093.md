@@ -35,6 +35,9 @@ pratibimbasvarūpeṇa na tu bāhyatayā yataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 83)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.93]]
+
 *Lead-in:* एतदेवोपपादयति --
 
 > सर्वमेतद्विभात्येव परमेशितरि ध्रुवे ।

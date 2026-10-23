@@ -35,6 +35,9 @@ na tvākṛtiḥ kuto'pyanyā devatā na hi socitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 299)
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.133]]
+
 *Lead-in:* ननु एकश्च उभयात्मा च इति कथं सङ्गच्छताम् ? इत्याशङ्क्याह—
 
 > याजमानी संविदेव याज्या नान्येति चोदितम् ।

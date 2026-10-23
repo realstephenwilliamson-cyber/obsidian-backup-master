@@ -33,6 +33,11 @@ raṇaraṇakarasānnijarasabharitabahirbhāvacarvaṇavaśena || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 324–325)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.136–137]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.137–138]]
+
 *Lead-in:* एवंविधश्च अयं करणरश्मिगणः किं कुर्यात्?--इत्याशङ्क्य आह--
 
 > रणरणकरसान्निजरसभरितबहिर्भावचर्वणवशेन ॥

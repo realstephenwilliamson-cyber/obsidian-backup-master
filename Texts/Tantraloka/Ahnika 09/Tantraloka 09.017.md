@@ -36,6 +36,11 @@ kramo'kramo vā bhāvasya na svarūpādhiko bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 30–31)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.17]]
+>
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.17–18]]
+
 *Lead-in:* अत आह -
 
 > क्रमेण चित्राकारोऽस्तु जडः किं नु विरुद्ध्यते ।

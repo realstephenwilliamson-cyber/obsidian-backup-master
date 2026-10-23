@@ -31,6 +31,9 @@ anāttadehāḥ krīḍanti taistairdehairaśaṅkitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 241–243)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.43–45]]
+
 *Lead-in:* इत्याद्युक्त्या अन्येऽपि सपत्नीका गुरव उक्तास्तद्वदिहापि कथं नोच्यन्ते?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 29.45: see [[Tantraloka 29.045#Viveka|29.45]].

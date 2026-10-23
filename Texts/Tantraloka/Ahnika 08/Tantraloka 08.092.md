@@ -34,6 +34,9 @@ parāparau svarnirayāviti rauravavārtike || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 140)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.92]]
+
 *Lead-in:* तदाह -
 
 > पुंसां सितासितान्यत्र कुर्वतां किल सिद्ध्यतः ।

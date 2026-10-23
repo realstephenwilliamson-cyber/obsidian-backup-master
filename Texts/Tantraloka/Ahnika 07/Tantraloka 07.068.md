@@ -36,5 +36,10 @@ pādāṅguṣṭhādikordhvasthabrahmakuṇḍalikāntagaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 46–48)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.67–68]]
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.68–70]]
+
 Jayaratha comments on this verse together with 7.67: see [[Tantraloka 07.067#Viveka|7.67]].
 

@@ -36,6 +36,9 @@ sādhakānāṃ bubhukṣūṇāṃ vidhirniyatiyantritaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 389)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.54–55]]
+
 *Lead-in:* ननु यद्येवं तत्कथं शान्तिपुष्ट्याह--
 
 > साधकानां बुभुक्षूणां विधिर्नियतियन्त्रितः ॥

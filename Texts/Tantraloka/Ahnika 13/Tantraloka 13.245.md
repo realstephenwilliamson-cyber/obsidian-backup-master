@@ -33,6 +33,11 @@ tīvramande madhyamande mandamande bubhukṣutā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 277–279)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.244–245]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.245–246]]
+
 *Lead-in:* तत्र प्रथमः प्रकारः पुत्रकविषयः । शिष्टं तु प्रकारद्वयं शिवधर्मिसाधकविषयमिति निरूपितम् ॥ इदानीं तु लोकधर्मिविषयमवशिष्टं शक्तिपातं निरूपयति --
 
 > तीव्रमन्दे मध्यमन्दे मन्दमन्दे बुभुक्षुता ॥

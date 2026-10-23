@@ -33,6 +33,11 @@ sarvānprati ca tannīlaṃ sa ghaṭaśceti yadvacaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 334–335)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.62–63]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.63–64]]
+
 *Lead-in:* न केवलमेकप्रमातृसतत्त्ववस्तुवादेनैवं युज्यते यावत्प्रमातृप्रमेययोस्तत्त्वतो भेदेऽपि -- इत्याह -
 
 > सर्वान्प्रति च तन्नीलं स घटश्चेति यद्वचः ॥

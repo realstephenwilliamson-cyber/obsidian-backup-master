@@ -36,6 +36,11 @@ idaṃ saṃhārahṛdayaṃ prācyaṃ sṛṣṭau ca hṛnmatam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 291–295)
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.189–191]]
+>
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.191]]
+
 *Lead-in:* एतदेवोपसंहरति --
 
 > इदं संहारहृदयं प्राच्यं सृष्टौ च हृन्मतम् ॥

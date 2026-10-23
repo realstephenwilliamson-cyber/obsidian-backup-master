@@ -34,5 +34,8 @@ kālo vyavacchittadyukto vahnirbhoktā yataḥ smṛtaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 238–239)
+> ![[Tantraloka Dyczkowski v03 08 - Chapter Four, part 7#Viveka on 4.165–167]]
+
 Jayaratha comments on this verse together with 4.167: see [[Tantraloka 04.167#Viveka|4.167]].
 

@@ -31,6 +31,9 @@ nyasyed vyāptṛtayetyuktaṃ siddhayogīśvarīmate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 193)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.321]]
+
 *Lead-in:* आसनार्चने च तन्त्रान्तरीयमवशिष्टं किञ्चिद्वक्तुमाह--
 
 > तत्रासने पुरा मूर्तिभूतां सार्धाक्षरां द्वयीम् ।

@@ -33,6 +33,11 @@ uktaṃ ca gahvarābhikhye śāstre śītāṃśumaulinā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 99–101)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.222–224]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.224–227]]
+
 *Lead-in:* न च एतत्स्वोपज्ञमेव अस्माभिरुक्तम्--इत्याह--
 
 Jayaratha comments on this verse together with 28.223: see [[Tantraloka 28.223#Viveka|28.223]].

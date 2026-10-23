@@ -37,6 +37,11 @@ svātmapratyavamarśo yaḥ prāgabhūdekavīrakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 169–171)
+> ![[Tantraloka Dyczkowski v02 06 - Chapter Three, part 3#Viveka on 3.72–73]]
+>
+> ![[Tantraloka Dyczkowski v02 06 - Chapter Three, part 3#Viveka on 3.73–74]]
+
 *Lead-in:* एवमिच्छाशक्तिं द्विप्रकारामभिधाय ज्ञानशक्तिमप्याह --
 
 > स्वात्मप्रत्यवमर्शो यः प्रागभूदेकवीरकः ॥

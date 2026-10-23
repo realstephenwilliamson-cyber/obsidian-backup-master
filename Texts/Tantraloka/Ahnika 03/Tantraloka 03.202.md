@@ -36,6 +36,11 @@ aparicchinnaviśvāntaḥsāre svātmani yaḥ prabhoḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 319–323)
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.201–202]]
+>
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.202–203]]
+
 *Lead-in:* ननु अविभागपरप्रकाशविश्रान्तावपि अहंपरामर्शस्य भेदमयत्वमेवास्ति ? -- इत्याह --
 
 > अपरिच्छिन्नविश्वान्तःसारे स्वात्मनि यः प्रभोः ॥

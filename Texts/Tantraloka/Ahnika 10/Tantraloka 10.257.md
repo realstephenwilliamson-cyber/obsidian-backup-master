@@ -33,6 +33,11 @@ yattvadhiṣṭhātṛbhūtādeḥ pūrvoktasya vapurdhruvam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 461)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 10.257–259.*
+>
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.257–259]]
+
 > वेद्यच्छायोऽवभासो हि मेयेऽधिष्ठानमुच्यते ।
 > यत्त्वधिष्ठातृभूतादेः पूर्वोक्तस्य वपुर्धुर्वम् ॥
 > बीजं विश्वस्य तत्तूष्णीभूतं सौषुप्तमुच्यते ।

@@ -37,5 +37,12 @@ mantramunikoṭiparivṛtamatha vibhuvāmādirudratacchaktiyutam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 354–356)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 8.377–378.*
+>
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.368–373]]
+>
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.377–378]]
+
 Jayaratha comments on this verse together with 8.372: see [[Tantraloka 08.372#Viveka|8.372]].
 

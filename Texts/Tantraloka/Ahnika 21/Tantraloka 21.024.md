@@ -34,6 +34,9 @@ mahājālaprayogeṇa sarvasmādadhvamadhyataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 258–259)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.22–24]]
+
 > कृत्वा मण्डलमभ्यर्च्य तत्र देवं कुशैरथ ॥
 > गोमयेनाकृतिं कुर्याच्छिष्यवत्तां निधापयेत् ।
 > ततस्तस्यां शोध्यमेकमध्वानं व्याप्तिभावनात् ॥

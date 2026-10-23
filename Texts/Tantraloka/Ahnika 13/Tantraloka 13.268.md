@@ -33,6 +33,11 @@ viṣṇvādirūpatā deve yā kācitsā nijātmanā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 290–291)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.267–268]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.268–270]]
+
 *Lead-in:* ननु विष्ण्वादिप्रसादोपनतापि सा सा सिद्धिर्भवन्ती लोके दृश्यत एव, तच्छिवशक्तिपातादेवैवं भवेत् -- इति कस्मादुक्तम्? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 13.267: see [[Tantraloka 13.267#Viveka|13.267]].

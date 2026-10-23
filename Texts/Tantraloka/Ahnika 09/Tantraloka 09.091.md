@@ -31,6 +31,9 @@ kevalaṃ pārimityena śivābhedamasaṃspṛśan || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 90–92)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.90–92]]
+
 > निष्कर्मा हि स्थिते मूलमलेऽप्यज्ञाननामनि ॥
 > वैचित्र्यकारणाभावान्नोर्ध्वं सरति नाप्यधः ।
 > केवलं पारिमित्येन शिवाभेदमसंस्पृशन् ॥

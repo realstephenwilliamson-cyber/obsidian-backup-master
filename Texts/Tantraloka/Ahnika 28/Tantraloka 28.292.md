@@ -31,6 +31,9 @@ cittaṃ niveśayantyeva tattattvaṃ yāntyaśaṅkitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 126)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.292]]
+
 *Lead-in:* योगिनां पुनर्ज्ञानिभ्योऽपि मृतावतिशयः--इत्याह--
 
 > ये पुनर्योगिनस्तेऽपि यस्मिंस्तत्त्वे सुभाविताः ।

@@ -31,6 +31,9 @@ apūrṇasarvavitproktirjñāyate'dharaśāsane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 230)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.8]]
+
 *Lead-in:* अत एव अधरशासनेषु असर्वज्ञप्रणीतत्वं निश्चीयते--इत्याह--
 
 > यदुक्ताधिकसंवित्तिसिद्धवस्तुनिरूपणात् ।

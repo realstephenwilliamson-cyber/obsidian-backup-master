@@ -33,6 +33,11 @@ lalāṭavaktre dṛkkarṇanāsāgaṇḍaradauṣṭhage || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 78–80)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.116–117]]
+>
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.117–120]]
+
 *Lead-in:* एतदेव विभजति—
 
 Jayaratha comments on this verse together with 15.116: see [[Tantraloka 15.116#Viveka|15.116]].

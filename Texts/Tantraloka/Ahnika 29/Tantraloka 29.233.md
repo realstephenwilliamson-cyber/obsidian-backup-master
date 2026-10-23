@@ -31,6 +31,9 @@ sākaṃ bhairavanāthena tadaṣṭakamudāhṛtam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 376–377)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.233–235]]
+
 *Lead-in:* एतदेव आन्तरेण क्रमेणापि अभिधत्ते--
 
 Jayaratha comments on this verse together with 29.235: see [[Tantraloka 29.235#Viveka|29.235]].

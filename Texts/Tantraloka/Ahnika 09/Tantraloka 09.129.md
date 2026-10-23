@@ -33,6 +33,11 @@ ata eva kṛtaṃ karma karmaṇā tapasāpi vā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 111–112)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.127–129]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.129–130]]
+
 *Lead-in:* तदाह -
 
 > अत एव कृतं कर्म कर्मणा तपसापि वा ॥

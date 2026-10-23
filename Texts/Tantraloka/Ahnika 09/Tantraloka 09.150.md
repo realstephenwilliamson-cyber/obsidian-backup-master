@@ -33,6 +33,11 @@ bhedāvabhāsasvātantryaṃ tathāhi sa tayā kṛtaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 128–130)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.149–150]]
+>
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.150–151]]
+
 *Lead-in:* तदाह -
 
 > आद्यो भेदावभासो यो विभागमनुपेयिवान् ॥

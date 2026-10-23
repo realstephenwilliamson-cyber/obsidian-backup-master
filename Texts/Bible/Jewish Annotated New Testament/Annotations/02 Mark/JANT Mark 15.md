@@ -20,7 +20,7 @@ Text: [[NRSVue Mark 15|NRSVue]] · [[Mark 15|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Mark 15#^15-2|2]]:** *King of the Jews*, a claim that the Romans would understand as dangerous; they tolerated no kings except those, like the Herods, whom they had appointed. ^15-2
 
-**[[NRSVue Mark 15#^15-6|6–15]]:** *Barabbas*, Aramaic for “son of the father,” and thus the character is likely seen as a narrative double for Jesus, depicted by Mark as the son of God the Father. The name is not unknown, however (*m. Peʾah* 2.6; *b. Ber.* 18b). There is no evidence that the Romans released prisoners, much less insurrectionists, at Passover. Further, were Barabbas to be released for the festival, the timing is off: the paschal lamb was eaten the night before. ^15-6
+**[[NRSVue Mark 15#^15-6|6–15]]:** *Barabbas*, Aramaic for “son of the father,” and thus the character is likely seen as a narrative double for Jesus, depicted by Mark as the son of God the Father. The name is not unknown, however (*m. Peʾah* 2.6; [[Berakhot 18#18b|*b. Ber.* 18b]]). There is no evidence that the Romans released prisoners, much less insurrectionists, at Passover. Further, were Barabbas to be released for the festival, the timing is off: the paschal lamb was eaten the night before. ^15-6
 
 **[[NRSVue Mark 15#^15-14|14–15]]:** Mark places the blame on the Jews, an increasing tendency in subsequent Gospels. After the dissemination of the Gospels, some Christians considered *Pilate* a convert to Christianity, and he is honored as a martyr in the Coptic Orthodox Church; his feast day is June 25. The transfer of guilt from the Romans—who crucified Jesus—to the Jews was then complete. *Flogging*, served to weaken the victim before crucifixion. ^15-14
 

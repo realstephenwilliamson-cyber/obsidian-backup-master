@@ -34,6 +34,9 @@ parameśvaraśāstre hi na ca kāṇādadṛṣṭivat |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 332–333)
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.158]]
+
 *Lead-in:* इत्याद्युक्त्या साक्षात्पत्युर्धर्मितया शक्तीनां च धर्मतया निरूपणं कृतम् इति धर्मिणश्च अनिरूपणात् इत्यसिद्धोऽयं हेतुः ? इत्याशङ्क्याह --
 
 > परमेश्वरशास्त्रे हि न च काणाददृष्टिवत् ।

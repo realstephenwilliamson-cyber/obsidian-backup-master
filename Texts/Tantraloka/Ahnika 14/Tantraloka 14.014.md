@@ -31,6 +31,9 @@ kiṃ hi tatkarma kasmādvā pūrveṇātra samo vidhiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 352–353)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.14]]
+
 *Lead-in:* नन्वत्र चास्य किं प्राक्तनकर्मविस्फूर्जितं निमित्तमुतान्यत्किञ्चित्? -- इत्याशङ्क्याह --
 
 > न चास्य कर्ममहिमा तादृग्येनेत्थमास्त सः ।

@@ -34,6 +34,9 @@ niveditaḥ punaḥ prāptadeho bhūyo niveditaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 30–31)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.63]]
+
 *Lead-in:* इत्याद्युक्त्या जन्मभेदेनापि पशूनामुत्तमादिरूपत्वमस्तीत्यादि, तदिह कस्मान्नोक्तम् ?--इत्याशङ्क्याह--
 
 > निवेदितः पुनः प्राप्तदेहो भूयो निवेदितः ।

@@ -33,6 +33,11 @@ tasmātsarvaprayatnena sa kāryaḥ kulavedibhiḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 63–65)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.114–121]]
+>
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.121–123]]
+
 *Lead-in:* कदा कार्यः--इत्याह--
 
 Jayaratha comments on this verse together with 28.120: see [[Tantraloka 28.120#Viveka|28.120]].

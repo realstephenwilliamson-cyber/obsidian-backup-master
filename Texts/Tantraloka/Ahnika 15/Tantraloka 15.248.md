@@ -33,6 +33,11 @@ parāparāṃ savaktrāṃ prāktataḥ prāgiti mālinīm || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 149–151)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.247–248]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.248–251]]
+
 *Lead-in:* तदेव आह--
 
 Jayaratha comments on this verse together with 15.247: see [[Tantraloka 15.247#Viveka|15.247]].

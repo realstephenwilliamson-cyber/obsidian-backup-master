@@ -48,7 +48,7 @@ NOTE: AS MAIMONIDES, OF BLESSED MEMORY, HAS WRITTEN—AND THE SCHOLARS OF KABBAL
 
 [^1]: I.e., uncaused.
 [^2]: The doctrine of *tzimtzum* has already been referred to previously in chs. 21 and 38. Here and in the next chapter, it is further expounded.
-[^3]: *Chagigah* 13a.
+[^3]: [[Chagigah 13#13a|*Chagigah* 13a]].
 [^4]: See *Torah Or* 27a; *Likkutei Torah*, *Vayikra* 51b ff.; *Ekev* 17a ff. See also Translator’s Introduction to *Tanya*, Part II (Addendum, p. a).
 [^5]: [[Isaiah 06#^6-3|Isaiah 6:3]].
 [^6]: [[Jeremiah 23#^23-24|Jeremiah 23:24]].

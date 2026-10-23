@@ -35,6 +35,9 @@ prakāśo yāti taikṣṇyādimavāntaravicitratām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 223–224)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.117]]
+
 *Lead-in:* ननु यद्येवं तर्हि त्रयाणामपि तेजोरूपत्वाविशेषेऽपि तैक्ष्ण्याद्यात्म वैचित्र्यं कुतस्त्यम् ? -- इत्याशङ्क्याह --
 
 > स्वस्वातन्त्र्यप्रभावोद्यद्विचित्रोपाधिसङ्गतः ।

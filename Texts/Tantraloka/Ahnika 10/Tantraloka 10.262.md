@@ -31,6 +31,9 @@ nāsti tena mahāvyāptiriyaṃ tadanusārataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 462–463)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.261–262]]
+
 > रूपकत्वाच्च रूपं तत्तादात्म्यं योगिनः पुनः ।
 > रूपस्थं तत्समापत्त्यौदासीन्यं रूपिणां विदुः ॥
 > प्रसंख्यानवतः कापि वेद्यसङ्कोचनात्र यत् ।

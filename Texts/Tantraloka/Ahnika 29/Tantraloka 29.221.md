@@ -31,6 +31,9 @@ kulayāgastathādeśyo yoginīmukhasaṃsthitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 371)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.221]]
+
 *Lead-in:* पञ्चावस्थासमन्वितमेव व्याचष्टे--
 
 > जाग्रदादिषु संवित्तिर्यथा स्यादनपायिनी ।

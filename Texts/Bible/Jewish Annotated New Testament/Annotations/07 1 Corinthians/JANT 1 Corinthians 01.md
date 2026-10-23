@@ -42,7 +42,7 @@ Text: [[NRSVue 1 Corinthians 01|NRSVue]] · [[1 Corinthians 01|BSB and SBLGNT]] 
 
 *[[NRSVue 1 Corinthians 01#^1-10|Text]], p. 323* ^1-10
 
-**[[NRSVue 1 Corinthians 01#^1-10|10]]:** *Brothers* \[*and sisters*\], the letter is replete with kinship language, common for ancient religious associations and trade guilds ([[Torah 30 - Kedoshim#^19-17|Lev 19.17]]; [[LXX 3 Maccabees 04#^4-12|3 Macc 4.12]]; Josephus, *J.W.* 2.122; *b. Yebam.* 45b). *Name*, perhaps a reference to baptism in the name of Jesus as opposed to other teachers, with whom various factions within the community identify, and thus an implicit appeal for unity (see 1.12–13). ^1-10-2
+**[[NRSVue 1 Corinthians 01#^1-10|10]]:** *Brothers* \[*and sisters*\], the letter is replete with kinship language, common for ancient religious associations and trade guilds ([[Torah 30 - Kedoshim#^19-17|Lev 19.17]]; [[LXX 3 Maccabees 04#^4-12|3 Macc 4.12]]; Josephus, *J.W.* 2.122; [[Yevamot 45#45b|*b. Yebam.* 45b]]). *Name*, perhaps a reference to baptism in the name of Jesus as opposed to other teachers, with whom various factions within the community identify, and thus an implicit appeal for unity (see 1.12–13). ^1-10-2
 
 **[[NRSVue 1 Corinthians 01#^1-11|11]]:** *Chloe’s people*, family, slaves, and/or employees of a female-headed household. ^1-11
 
@@ -68,7 +68,7 @@ Text: [[NRSVue 1 Corinthians 01|NRSVue]] · [[1 Corinthians 01|BSB and SBLGNT]] 
 
 **[[NRSVue 1 Corinthians 01#^1-22|22]]:** *Signs*, miraculous events (1 *En.* 82.16; *Sib. Or.* 3.335). Characterization of Jews seeking signs supported medieval stereotypes of Jews as unable to accept Christian truth (Aquinas, *Summa Theologica* 3.47.5; see 3.1–3nn.). Signs can refer to prophecy, whether true ([[I Samuel 10#^10-7|1 Sam 10.7]],[[I Samuel 10#^10-9|9]]; [[II Kings 20#^20-8|2 Kings 20.8–9]]; [[Isaiah 07#^7-11|Isa 7.11]],[[Isaiah 07#^7-14|14]]) or false ([[Isaiah 44#^44-25|Isa 44.25]]). The Bible is somewhat ambivalent about whether or not it is good to seek divine signs (see [[Isaiah 07#^7-1|Isa 7.1–17]]). ^1-22
 
-**[[NRSVue 1 Corinthians 01#^1-23|23]]:** *Stumbling block* (Gk “skandalon,” whence “scandal”; see [[Romans 09#^9-33|Rom 9.33]]; [[Romans 11#^11-1|11.1–10]]; Ps 69); Jesus’ ignominious and premature death, which hindered belief in his messiahship; some rabbinic writings, however, record a tradition that one of the two anticipated messiahs, the messiah ben Joseph, would die prior to the coming of the king-ruler messiah ben David (*b. Sukk.* 52a; *Sefer Zerubbabel*). *Foolishness,* Gentiles regarded Jesus’ crucifixion as a disqualification for kingship. ^1-23
+**[[NRSVue 1 Corinthians 01#^1-23|23]]:** *Stumbling block* (Gk “skandalon,” whence “scandal”; see [[Romans 09#^9-33|Rom 9.33]]; [[Romans 11#^11-1|11.1–10]]; Ps 69); Jesus’ ignominious and premature death, which hindered belief in his messiahship; some rabbinic writings, however, record a tradition that one of the two anticipated messiahs, the messiah ben Joseph, would die prior to the coming of the king-ruler messiah ben David ([[Sukkah 52#52a|*b. Sukk.* 52a]]; *Sefer Zerubbabel*). *Foolishness,* Gentiles regarded Jesus’ crucifixion as a disqualification for kingship. ^1-23
 
 **[[NRSVue 1 Corinthians 01#^1-24|24]]:** *Called*, see 1.2n. ^1-24
 

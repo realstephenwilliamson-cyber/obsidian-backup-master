@@ -35,6 +35,9 @@ tatra brahmā sitaḥ śūlī pañcāsyaḥ śaśiśekharaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 366–367)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.394–395]]
+
 > सुषुम्नोर्ध्वे ब्रह्मबिलसंज्ञयावरणं त्रिदृक् ।
 > तत्र ब्रह्मा सितः शूली पञ्चास्यः शशिशेखरः ॥
 > तस्योत्सङ्गे परा देवी ब्रह्माणी मोक्षमार्गगा ।

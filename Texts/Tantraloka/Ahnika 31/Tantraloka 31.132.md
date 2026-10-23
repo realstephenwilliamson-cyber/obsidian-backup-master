@@ -33,6 +33,11 @@ nāḍikāḥ sthāpayetpūrvaṃ muhūrtaṃ parimāṇataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 119–120)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.132]]
+>
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.132–133]]
+
 *Lead-in:* एवं शूलाब्जभेदमभिधाय व्योमेशस्वस्तिकं निरूपयति--
 
 > स्वस्तिकेनाथ कर्तव्यं युक्तं तस्योच्यते विधिः ।

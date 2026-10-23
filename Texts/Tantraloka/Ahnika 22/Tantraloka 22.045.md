@@ -31,6 +31,9 @@ uktaṃ ca śrīmate śāstre tatra tatra ca bhūyasā |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 293)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.45–46]]
+
 *Lead-in:* इत्यादिदृष्ट्या प्रत्यवाय आम्नातः, तत्कथमेवमुक्तम्?--इत्याशङ्कां गर्भीकृत्य आगममेव संवादयति--
 
 > उक्तं च श्रीमते शास्त्रे तत्र तत्र च भूयसा ।

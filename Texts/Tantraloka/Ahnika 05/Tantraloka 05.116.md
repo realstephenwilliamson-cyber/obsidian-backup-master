@@ -37,6 +37,11 @@ yannyakkṛtaśivāhantāsamāveśaṃ vibhedavat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 155–157)
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.114–116]]
+>
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.116]]
+
 *Lead-in:* न केवलं व्यक्ताव्यक्तमेव लिङ्गमस्याः स्फारो यावत् व्यक्तमपि -- इत्याह --
 
 > यन्न्यक्कृतशिवाहन्तासमावेशं विभेदवत् ॥

@@ -34,6 +34,9 @@ tathā ghaṭānantaratā kiṃ tu sā niyamojjhitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 33–34)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.23–24]]
+
 *Lead-in:* नन्वेवं बीजाङ्कुरादौ घटपटादौ च सर्वत्र भगवत्कर्तृकर्मविशेषेणावभासनम्, इति कथं क्वचिदेव कार्यकारणताव्यवहारः ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 9.24: see [[Tantraloka 09.024#Viveka|9.24]].

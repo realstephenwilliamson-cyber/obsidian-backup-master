@@ -35,6 +35,9 @@ bhinnā saṃsāriṇāṃ rajjau sarpasragvīcibuddhivat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 84)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.94]]
+
 *Lead-in:* ननु दर्पणादौ बाह्यार्थसमर्पितत्वादस्ति प्रतिबिम्बस्य वैचित्र्यम्, इह पुनरुक्त्या बाह्यसमर्पकाभावाच्चिदाहितमेव तदिति चित एकत्वात्तत्रास्य प्रमातृप्रमेयादेर्वैचित्र्यं न स्यात्? -- इत्याशङ्क्याह -
 
 > चिद्व्योम्न्येव शिवे तत्तद्देहादिमतिरीदृशी ।

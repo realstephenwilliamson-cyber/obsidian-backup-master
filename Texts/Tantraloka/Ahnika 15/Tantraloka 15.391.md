@@ -34,6 +34,11 @@ uktaṃ śrīyogasañcāre tathāhi parameśinā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 241–242)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.390–391]]
+>
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.391–393]]
+
 *Lead-in:* किमत्र प्रमाणम्?--इत्याशङ्क्य आह--
 
 > उक्तं श्रीयोगसञ्चारे तथाहि परमेशिना ॥

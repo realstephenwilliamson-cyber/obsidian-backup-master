@@ -36,6 +36,9 @@ manye sthitā jīvata eva muktiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 252)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.57]]
+
 *Lead-in:* तमेव संस्कारं व्यनक्ति--
 
 > माता परं बन्धुरिति प्रवादः

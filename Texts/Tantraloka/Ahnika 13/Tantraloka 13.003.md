@@ -31,6 +31,9 @@ viṣamaṃ sattathābhūtaṃ samaṃ hetuṃ prakalpayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 123–124)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.3–4]]
+
 *Lead-in:* नन्विह प्रकृतिपुरुषविवेकज्ञानान्मुक्तिस्तस्य च वैराग्यादि निमित्तमिति किमदृष्टस्य शक्तिपातस्य परिकल्पनेन? -- इत्याशङ्कां गर्भीकृत्य सांख्यात्तावदाधिक्यं प्रतिपादयति --
 
 Jayaratha comments on this verse together with 13.4: see [[Tantraloka 13.004#Viveka|13.4]].

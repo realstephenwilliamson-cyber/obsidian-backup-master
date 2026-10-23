@@ -36,6 +36,11 @@ asmiṃstattvodaye tasmādahorātrastriśastriśaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 39–41)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.57–59]]
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.59–60]]
+
 *Lead-in:* आरूढस्य पुनर्योगिनो न केवलं पूर्ण एव समुदये प्रवेशादित्रैविध्यं यावत्तदंशेष्वपीत्याह --
 
 > अस्मिंस्तत्त्वोदये तस्मादहोरात्रस्त्रिशस्त्रिशः ॥

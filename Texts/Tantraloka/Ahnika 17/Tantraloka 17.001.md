@@ -36,6 +36,9 @@ evaṃ maṇḍalakumbhāgniśiṣyasvātmasu pañcasu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 140)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.1–3]]
+
 *Lead-in:* इदानीमत्रैव द्वितीयार्धेन महाप्रयोजनामितिकर्तव्यतां वक्तं प्रतिजानीते--
 
 > अथ भैरवतादात्म्यदायिनीं प्रक्रियां ब्रुवे ।

@@ -31,6 +31,9 @@ tadetatsparśatanmātrayogāt prakṣobhamāgatam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 263–264)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.283–285]]
+
 > क्षुभितं शब्दतन्मात्रं चित्राकाराः श्रुतीर्दधत् ॥
 > नभः शब्दोऽवकाशात्मा वाच्याध्याससहो यतः ।
 > तदेतत्स्पर्शतन्मात्रयोगात् प्रक्षोभमागतम् ॥

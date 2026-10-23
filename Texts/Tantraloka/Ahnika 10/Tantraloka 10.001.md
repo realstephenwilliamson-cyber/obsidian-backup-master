@@ -30,5 +30,8 @@ ucyate trikaśāstraikarahasyaṃ tattvabhedanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 285–286)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.1]]
+
 > इदानीमेषामेव तत्त्वानां द्वितीयार्धेन पाञ्चदश्यादिभेदमभिधातुं प्रतिजानीते उच्यते त्रिकशास्त्रैकरहस्यं तत्त्वभेदनम् ॥
 

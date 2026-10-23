@@ -33,6 +33,11 @@ satyaṃ kāpi prabuddhāsāvicchā rūḍhiṃ na gacchati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 319)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.47–48]]
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.48–49]]
+
 *Lead-in:* तत्रेति--ज्ञानादौ ॥ एतदेवाभ्युपगम्य प्रतिविधत्ते--
 
 > सत्यं कापि प्रबुद्धासाविच्छा रूढिं न गच्छति ॥

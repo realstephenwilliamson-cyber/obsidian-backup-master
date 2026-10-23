@@ -33,6 +33,11 @@ madhyagā kila yā devī saiva sadbhāvarūpiṇī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 202–204)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.330–331]]
+>
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.331–332]]
+
 *Lead-in:* ननु एतत् मध्यगाया एव देव्याः कस्मादभिन्नतया पूज्यत्वेन उक्तम्?-- इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 15.330: see [[Tantraloka 15.330#Viveka|15.330]].

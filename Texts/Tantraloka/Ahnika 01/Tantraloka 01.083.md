@@ -35,6 +35,9 @@ sāmūhyaṃ caiva tattvānāṃ grāmaśabdena kīrtitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 224–225)
+> ![[Tantraloka Dyczkowski v01 07 - Chapter One, part 6#Viveka on 1.83]]
+
 *Lead-in:* तत्रत्यमेव ग्रन्थं शास्त्रस्य शब्दार्थरूपतया द्वैविध्येन प्रवृत्तेरुभयथाप्याह --
 
 > हृदिस्थं सर्वदेहस्थं स्वभावस्थं सुसूक्ष्मकम् ।

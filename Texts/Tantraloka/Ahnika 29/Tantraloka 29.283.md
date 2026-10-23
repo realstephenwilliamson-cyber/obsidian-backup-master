@@ -31,6 +31,9 @@ sa eva pātakaṃ tasya praśamo'yaṃ prakīrtitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 408)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.282–283]]
+
 > दीक्षान्ते दीपकान् पक्त्वा समस्तैः साधकैः सह ।
 > चरुः प्राश्यः कुलाचार्यैर्महापातकनाशनः ॥
 > इति श्रीरत्नमालायामूनाधिकविधिस्तु यः ।

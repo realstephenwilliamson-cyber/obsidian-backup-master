@@ -31,5 +31,8 @@ tīrthāyatanapuṇyeṣu kālaṃ vā vañcayetpriye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 112)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.256–259]]
+
 Jayaratha comments on this verse together with 28.258: see [[Tantraloka 28.258#Viveka|28.258]].
 

@@ -33,6 +33,11 @@ sa eva ca malo mūrtaḥ kiṃ jñānena na vedyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 79–80)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.75–76]]
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.76–77]]
+
 > स एव च मलो मूर्तः किं ज्ञानेन न वेद्यते ॥
 > सर्वगेण ततः सर्वः सर्वज्ञत्वं न किं भजेत् ।
 

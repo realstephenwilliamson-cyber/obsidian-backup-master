@@ -35,6 +35,9 @@ sarvataśca vibhuryo'sau vibhutvapadadāyakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 129–130)
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.97–98]]
+
 > श्रीब्रह्मयामले चोक्तं श्रीमान् रावो दशात्मकः ॥
 > स्थूलः सूक्ष्मः परो हृद्यः कण्ठ्यस्तालव्य एव च ।
 > सर्वतश्च विभुर्योऽसौ विभुत्वपददायकः ॥

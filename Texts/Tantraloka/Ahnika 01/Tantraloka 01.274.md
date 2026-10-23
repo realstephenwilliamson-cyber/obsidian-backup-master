@@ -35,6 +35,9 @@ mahānavāntaro divyo miśro'nyo'nyastu pañcamaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 452–454)
+> ![[Tantraloka Dyczkowski v01 13 - Chapter One, part 12#Viveka on 1.274]]
+
 *Lead-in:* एतच्च स्वोपज्ञमस्माभिर्नोक्तम् -- इत्याह --
 
 > यथोक्तं रत्नमालायां सर्वः परकलात्मकः ।

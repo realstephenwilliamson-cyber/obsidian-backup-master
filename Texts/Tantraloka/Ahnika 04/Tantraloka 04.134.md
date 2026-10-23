@@ -36,6 +36,11 @@ sṛjatītthaṃ jagatsarvamātmanyātmanyanantakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 181)
+> ![[Tantraloka Dyczkowski v03 06 - Chapter Four, part 5#Viveka on 4.134]]
+>
+> ![[Tantraloka Dyczkowski v03 06 - Chapter Four, part 5#Viveka on 4.134 (2)]]
+
 *Lead-in:* ननु कथमनेकप्रकारमियदविच्छेदेनैव विश्वं प्रस्फुरेत् ? -- इत्याशङ्क्याह --
 
 > तत्रस्थां मुञ्चते धारां सोमो ह्यग्निप्रदीपितः ।

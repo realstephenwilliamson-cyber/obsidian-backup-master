@@ -33,6 +33,11 @@ jāgrajjāgradabuddhaṃ tajjāgratsvapnastu buddhatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 445–447)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.238]]
+>
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.238–239]]
+
 *Lead-in:* ननु जाग्रदादीनि पञ्च पदानि परस्परं विभिन्नानीत्युक्तम्, तत्कथमियं सङ्कीर्णप्राया जाग्रत्स्वप्नो जाग्रत्सुषुप्तमित्यादिप्रसिद्धिः ? -- इत्याशङ्क्याह --
 
 > जाग्रदादि चतुष्कं हि प्रत्येकमिह विद्यते ।

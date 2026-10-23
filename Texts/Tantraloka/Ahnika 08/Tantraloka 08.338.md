@@ -37,6 +37,11 @@ vāmā jyeṣṭhā raudrī kālī kalavikaraṇībalavikāriketathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 328–332)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.337–338]]
+>
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.338–340]]
+
 *Lead-in:* वामाद्या एव पठति -
 
 Jayaratha comments on this verse together with 8.337: see [[Tantraloka 08.337#Viveka|8.337]].

@@ -36,6 +36,11 @@ icchonmeṣagataḥ kṣobho yaḥ proktastadgaterapi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 202–205)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.96–97]]
+>
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.97–98]]
+
 *Lead-in:* नन्वनुत्तरानन्दयोरिच्छोन्मेषाभ्यां सङ्घट्टे यथा परामर्शान्तरोदय उक्तः तथा तत्क्षोभरूपाभ्यामीशनोनताभ्यामपि किमिति न ? -- इत्याशङ्क्याह --
 
 > इच्छोन्मेषगतः क्षोभो यः प्रोक्तस्तद्गतेरपि ॥

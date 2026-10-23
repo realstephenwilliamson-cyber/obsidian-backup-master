@@ -31,6 +31,9 @@ kathañcidapyadhiṣṭhātṛbhāvastajjāgraducyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 443–444)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.234–235]]
+
 > तथा हि भासते यत्तन्नीलमन्तः प्रवेदने ।
 > सङ्कल्परूपे बाह्यस्य तदधिष्ठातृ बोधकम् ॥
 > यत्तु बाह्यतया नीलं चकास्त्यस्य न विद्यते ।

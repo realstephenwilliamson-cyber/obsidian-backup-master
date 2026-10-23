@@ -34,6 +34,9 @@ tathāmṛtāgnisaṃyogād dravataste na saṃśayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 177–179)
+> ![[Tantraloka Dyczkowski v03 06 - Chapter Four, part 5#Viveka on 4.131]]
+
 *Lead-in:* अत आह --
 
 > यथा योनिश्च लिङ्गं च संयोगात्स्रवतोऽमृतम् ।

@@ -37,6 +37,11 @@ evaṃ māmātṛmānatvameyatvairyo'vabhāsate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 73–74)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.81–82]]
+>
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.82–83]]
+
 *Lead-in:* तदेवोपसंहरति -
 
 > एवं मामातृमानत्वमेयत्वैर्योऽवभासते ॥

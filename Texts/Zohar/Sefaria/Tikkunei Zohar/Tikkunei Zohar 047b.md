@@ -333,7 +333,7 @@ And because of this:
 [^29]: *dokhyam*
 [^30]: *dokhyam*
 [^31]: *Bereishyt Rabbah* 5:4
-[^32]: *BT* Berakhot 32b
+[^32]: *BT* [[Berakhot 32#32b|Berakhot 32b]]
 [^33]: poor-one
 [^34]: sea
 [^35]: *dakh*

@@ -33,6 +33,11 @@ gurvantasyāpyadhodṛṣṭiśāyinaḥ saṃskriyāmimām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 287–288)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.28–31]]
+>
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.31–32]]
+
 *Lead-in:* एवंसंस्कृतस्यास्योपदेष्टव्यम्--इत्याह--
 
 > गुर्वन्तस्याप्यधोदृष्टिशायिनः संस्क्रियामिमाम् ॥

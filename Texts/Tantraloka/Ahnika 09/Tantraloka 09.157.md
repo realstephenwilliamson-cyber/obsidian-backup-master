@@ -33,6 +33,11 @@ tathāpi yatpṛthagbhānaṃ kalāderīśvarecchayā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 137–138)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.156–157]]
+>
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.157–158]]
+
 *Lead-in:* नन्वेवं कलादेस्तत्त्वग्रामस्य शिवशक्तिमयत्वमेव यद्यस्ति तत्तर्हि कस्य माया कारणं स्यात् ? -- इत्याशङ्क्याह -
 
 Jayaratha comments on this verse together with 9.156: see [[Tantraloka 09.156#Viveka|9.156]].

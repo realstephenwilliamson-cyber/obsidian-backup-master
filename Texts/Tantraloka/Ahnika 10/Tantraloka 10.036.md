@@ -31,6 +31,9 @@ atha karmaṇi ṣaṣṭhyeṣā ṇyarthastatra hṛdi sthitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 316–317)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.36]]
+
 *Lead-in:* तत्र संभवमात्रेणाशंकितमप्याद्यं पक्षद्वयं परस्यानभिप्रेतमित्यप्रतिक्षिप्य तृतीयमेव पक्षं प्रतिक्षेप्तुं विभजति --
 
 > षष्ठी कर्तरि चेदुक्तो दोषः एव दुरुद्धरः ।

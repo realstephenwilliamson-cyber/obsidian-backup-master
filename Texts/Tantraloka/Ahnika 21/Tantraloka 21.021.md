@@ -34,6 +34,9 @@ yena saṃdṛṣṭamātreti siddhamātrapadadvayāt |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 257)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.18–22]]
+
 > क्रियातिभूयसी पुष्पाद्युत्तमं लक्षणान्वितम् ॥
 > एकलिङ्गादि च स्थानं यत्रात्मा संप्रसीदति ।
 > मण्डलं त्रित्रिशूलाब्जचक्रं यन्मन्त्रमण्डले ॥

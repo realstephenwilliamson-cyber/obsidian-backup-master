@@ -31,6 +31,9 @@ tathā svadehasaṃbandho jīvanmuktasya yadyapi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 137)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.317–320]]
+
 *Lead-in:* इति?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 28.319: see [[Tantraloka 28.319#Viveka|28.319]].

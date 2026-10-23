@@ -35,6 +35,9 @@ bahiścaṣakaṣaṭtriṃśaddina itthaṃ tathā niśi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 446–447)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.245–246]]
+
 *Lead-in:* तदाह --
 
 > एकैकवर्णे प्राणानां द्विशतं षोडशाधिकम् ।

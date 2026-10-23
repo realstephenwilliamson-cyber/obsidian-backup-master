@@ -33,6 +33,11 @@ yaḥ punaḥ sarvatattvāni vettyetāni yathārthataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 261–263)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.218–219]]
+>
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.219–222]]
+
 *Lead-in:* तदेव पठति -
 
 Jayaratha comments on this verse together with 13.218: see [[Tantraloka 13.218#Viveka|13.218]].

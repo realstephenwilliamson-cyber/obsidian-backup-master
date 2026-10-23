@@ -36,6 +36,11 @@ vratacaryā ca mantrārthatādātmyapratipattaye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 359–365)
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.257–258]]
+>
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.258–259]]
+
 *Lead-in:* अथ व्रतादीनां चरणाचरणं व्याचष्टे --
 
 > व्रतचर्या च मन्त्रार्थतादात्म्यप्रतिपत्तये ॥

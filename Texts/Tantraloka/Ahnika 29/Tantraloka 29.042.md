@@ -31,6 +31,9 @@ tadaprasarayogena te proktā ūrdhvaretasaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 238–240)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.42]]
+
 *Lead-in:* ननु अधिकार एव कः?--इत्याशङ्क्य आह--
 
 > अधिकारो हि वीर्यस्य प्रसरः कुलवर्त्मनि ।

@@ -33,6 +33,11 @@ mantradhyānasamādhānabhedātsnānaṃ tu yanna tat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 55–57)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.73–75]]
+>
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.75–76]]
+
 *Lead-in:* इति फलश्रुतेः स्नानं न यजनाङ्गमिति; यदाहुः-- "फलवत्संनिधावफलं तदङ्गम्"इति अयुक्तमेतत्?--इत्याह--
 
 Jayaratha comments on this verse together with 15.74: see [[Tantraloka 15.074#Viveka|15.74]].

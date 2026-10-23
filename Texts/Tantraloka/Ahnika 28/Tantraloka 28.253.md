@@ -31,6 +31,9 @@ atattvavidyadācāryo liṅgaṃ sthāpayate tadā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 110–111)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.251–254]]
+
 > हंसकारण्डवाकीर्णे नानातरुकुलाकुले ॥
 > इत्येतदागमेषूक्तं तत एव पुरे पुरे ।
 > क्षेत्रमानं ब्रुवे श्रीमत्सर्वज्ञानादिषूदितम् ॥

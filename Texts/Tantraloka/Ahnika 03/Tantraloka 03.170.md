@@ -35,6 +35,9 @@ viṣasya cāmṛtaṃ tattvaṃ chādyatve'ṇoścyute sati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 291–294)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.170]]
+
 *Lead-in:* इत्यादिना कामतत्त्वस्यैव पुनर्विषतत्त्वत्वेनाभिधाने क आशयः ? -- इत्याशङ्क्याह --
 
 > कामस्य पूर्णता तत्त्वं सङ्घट्टे प्रविभाव्यते ।

@@ -53,14 +53,14 @@ These are the words of the compiler of the said *Likkutei Amarim*.
 [^1]: *Hakdamat Hamelaket*—for the author considers himself merely a “compiler.”
 [^2]: As contrasted with books which the author considers divinely inspired, of which he speaks in the following part.
 [^3]: In the Hebrew text the word ומתעורר (“and excites”) is added according to *Luach HaTikkun* (*List of Text Emendations in the Tanya*), by the Lubavitcher Rebbe (below, p. 781).
-[^4]: *Berachot* 58a.
+[^4]: [[Berakhot 58#58a|*Berachot* 58a]].
 [^5]: The blessing praises G–d, Who knows the secrets in the hearts of all men.
 [^6]: [[Torah 41 - Pinchas#^27-18|Numbers 27:18]].
 [^7]: Cf. Rashi’s commentary on said verse.
 [^8]: In the Hebrew text the word נשמות (“souls”) is added according to *Luach HaTikkun*.
 [^9]: [[Zohar 7.08 - Parashat Aharei Mot#^z3-73a|III:73a]], see *Some Aspects of Chabad Chassidism*, pp. 18 ff. Revised edition: *On the Study of Chasidus—A Trilogy of Chasidic Essays* (Kehot, 1997), pp. 7 ff.
 [^10]: The expression “revealed to us and to our children” is taken from [[Torah 51 - Nitzavim#^29-28|Deuteronomy 29:28]]. The first part of this verse is quoted by the author later. See also below, beg. ch. 44.
-[^11]: *Eruvin* 13b.
+[^11]: [[Eruvin 13#13b|*Eruvin* 13b]].
 [^12]: *Elokim chayim*, rather than *eloka chay*.
 [^13]: The third category is *tiferet* (“beauty”). See *Iggeret Hakodesh*, sect. 15.
 [^14]: See ibid., sect. 13 for more light on the subject.
@@ -68,13 +68,13 @@ These are the words of the compiler of the said *Likkutei Amarim*.
 [^16]: A reinterpretation of the word *shi’ur* (“an estimated measure”) and *shaar* (“gate”) in the Biblical quotation following.
 [^17]: [[Zohar 2.03 - Parashat Va-Yera#^z1-103a|I:103a]]-b.
 [^18]: [[Proverbs 31#^31-23|Proverbs 31:23]].
-[^19]: *Taanit* 2a. Cf. Bachya’s Introduction to his *Duties of the Heart*.
+[^19]: [[Taanit 2#2a|*Taanit* 2a]]. Cf. Bachya’s Introduction to his *Duties of the Heart*.
 [^20]: On the sources of the *Tanya* see Introduction (Addendum, p. a).
 [^21]: Rabbi Schneur Zalman regarded some of his senior colleagues, the disciples of R. Dov Ber of Miezricz (among whom he himself was the youngest) as his “teachers,” esp. R. Mendel Horodoker.
-[^22]: *Temurah* 16a.
+[^22]: [[Temurah 16#16a|*Temurah* 16a]].
 [^23]: [[Proverbs 29#^29-13|Proverbs 29:13]].
 [^24]: [[Jeremiah 31#^31-33|Jeremiah 31:33]].
 [^25]: [[Isaiah 11#^11-9|Isaiah 11:9]].
 [^26]: [[Torah 50 - Ki Tavo#^27-17|Deuteronomy 27:17]].
-[^27]: *Shevuot* 36a.
-[^28]: *Kiddushin* 6a.
+[^27]: [[Shevuot 36#36a|*Shevuot* 36a]].
+[^28]: [[Kiddushin 6#6a|*Kiddushin* 6a]].

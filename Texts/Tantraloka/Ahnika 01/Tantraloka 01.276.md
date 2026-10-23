@@ -35,6 +35,9 @@ anenaiva nayena syātsaṃbandhāntaramapyalam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 457)
+> ![[Tantraloka Dyczkowski v01 13 - Chapter One, part 12#Viveka on 1.276]]
+
 *Lead-in:* संबन्धान्तरेष्वपि एतदेवातिदिशति --
 
 > अनेनैव नयेन स्यात्संबन्धान्तरमप्यलम् ।

@@ -37,6 +37,11 @@ guruvaktrācca boddhavyaṃ karaṇaṃ yadyapi sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 172–180)
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.128–130]]
+>
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.130–131]]
+
 *Lead-in:* नन्विहैतन्निर्भज्य कस्मान्नोक्तं किमागमपाठमात्रेण ? -- इत्याशङ्क्याह --
 
 > गुरुवक्त्राच्च बोद्धव्यं करणं यद्यपि स्फुटम् ॥

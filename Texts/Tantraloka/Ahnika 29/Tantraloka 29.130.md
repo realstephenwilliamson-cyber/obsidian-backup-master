@@ -33,6 +33,11 @@ te tatra śakticakre tenaivānandarasamayena bahiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 320–322)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.129–130]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.130–132]]
+
 *Lead-in:* तत्रैव चक्रस्थानां देवतानां परिकल्पनां दर्शयति--
 
 Jayaratha comments on this verse together with 29.129: see [[Tantraloka 29.129#Viveka|29.129]].

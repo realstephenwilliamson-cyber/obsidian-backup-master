@@ -33,6 +33,11 @@ uktāḥ samāsataścaiṣāṃ citrāḥ kāryeṣu vṛttayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 249–250)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.266–268]]
+>
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.268]]
+
 *Lead-in:* ननु बुद्धीन्द्रियाणामालोचनं वृत्तिरित्युक्तम्, कर्मेन्द्रियाणां का वृत्तिः? -- इत्याशङ्क्याह --
 
 > उक्ताः समासतश्चैषां चित्राः कार्येषु वृत्तयः ॥

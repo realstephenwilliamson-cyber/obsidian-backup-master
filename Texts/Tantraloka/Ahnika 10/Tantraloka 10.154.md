@@ -31,6 +31,9 @@ rūpamekānnapañcāśatsvarūpaṃ cādhikaṃ tataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 389)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.154]]
+
 *Lead-in:* तत्र शक्तिशक्तिमतां मौलश्चतुर्दशविधः समनन्तरमेवोक्तोऽन्योन्यं च तेषां भेदादवान्तरमपि भेदजातं भवेत् -- इत्याह --
 
 > सप्तानां मातृशक्तीनामन्योन्यं भेदने सति ।

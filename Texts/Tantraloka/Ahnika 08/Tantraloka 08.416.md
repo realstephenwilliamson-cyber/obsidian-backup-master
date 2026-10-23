@@ -35,6 +35,9 @@ guṇatattve paṅktitrayamiti ṣaṭpañcāśataṃ purāṇi viduḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 380)
+> ![[Tantraloka Dyczkowski v05 11 - Chapter Eight, part 9#Viveka on 8.415–416]]
+
 > अण्डस्यान्तरनन्तः कालः कूष्माण्डहाटकौ ब्रह्महरी ॥
 > रुद्राः शतं सवीरं बहिर्निवृत्तिस्तु साष्टशतभुवना स्यात् ।
 > जलतेजःसमीरनभोऽहंकृद्धीमूलसप्तके प्रत्येकम् ॥

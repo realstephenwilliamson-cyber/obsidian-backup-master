@@ -319,7 +319,7 @@ regarding redemption* – this is the Higher Shekhinah, higher Hei,
 [^4]: *bohu*
 [^5]: *ḥoshekh*
 [^6]: *tehom*
-[^7]: See *BT* Baba Batra 75a
+[^7]: See *BT* [[Bava Batra 75#75a|Baba Batra 75a]]
 [^8]: *ḥalitzah*
 [^9]: *ḥalutz*
 [^10]: *na’alo*

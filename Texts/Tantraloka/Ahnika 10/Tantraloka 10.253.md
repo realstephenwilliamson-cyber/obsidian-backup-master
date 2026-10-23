@@ -33,6 +33,11 @@ atrāpi pūrvavannāma laukikaṃ svapna ityadaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 457–459)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.252–253]]
+>
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.253–255]]
+
 *Lead-in:* स्वप्नेऽपि जागरावत्त्रिधैव संज्ञाभेदोऽस्ति -- इत्याह --
 
 Jayaratha comments on this verse together with 10.252: see [[Tantraloka 10.252#Viveka|10.252]].

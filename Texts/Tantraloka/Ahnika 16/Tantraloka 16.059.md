@@ -36,6 +36,11 @@ vyādhicchedauṣadhatapoyojanātra nidarśanam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 27–29)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.58–59]]
+>
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.59–62]]
+
 *Lead-in:* ननु यद्येवं मारणादेव मुक्तिः स्यात्, तत्कृतं दीक्षादिना ?-- इत्याशङ्कां शमयितुमागमं संवादयति--
 
 Jayaratha comments on this verse together with 16.58: see [[Tantraloka 16.058#Viveka|16.58]].

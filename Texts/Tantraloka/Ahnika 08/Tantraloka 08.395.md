@@ -37,5 +37,10 @@ roddhrī dātrī ca mokṣasya tāṃ bhittvā cordhvakuṇḍalī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 366–369)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.394–395]]
+>
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.395–397]]
+
 Jayaratha comments on this verse together with 8.394: see [[Tantraloka 08.394#Viveka|8.394]].
 

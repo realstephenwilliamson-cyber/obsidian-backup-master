@@ -34,6 +34,9 @@ vikāsatāratamyena patijñānaṃ tu bādhakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 354)
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.253]]
+
 *Lead-in:* तदाह --
 
 > सङ्कोचतारतम्येन पाशवं ज्ञानमीरितम् ।

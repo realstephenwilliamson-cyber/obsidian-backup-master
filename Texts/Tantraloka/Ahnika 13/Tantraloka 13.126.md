@@ -33,6 +33,11 @@ malamāyāvicāreṇa kliśyante svalpabuddhayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 200)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.126–127]]
+>
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.126–127 (2)]]
+
 *Lead-in:* न केवलमेतदत्रैवोक्तं यावदन्यत्रापि -- इत्याह --
 
 Jayaratha comments on this verse together with 13.127: see [[Tantraloka 13.127#Viveka|13.127]].

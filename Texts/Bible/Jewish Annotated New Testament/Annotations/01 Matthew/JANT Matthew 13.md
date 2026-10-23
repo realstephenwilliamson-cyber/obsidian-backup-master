@@ -18,7 +18,7 @@ Text: [[NRSVue Matthew 13|NRSVue]] · [[Matthew 13|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 13#^13-1|1–3]]:** Introduction to the parables ([[Mark 04#^4-1|Mk 4.1]]). ^13-1-2
 
-**[[NRSVue Matthew 13#^13-3|3]]:** *Parables*, Gk “parabolē,” meaning “comparison” (cf. Heb “mashal”; see “Midrash and Parables,” p. 707). Parables appear in various forms throughout Jewish literature ([[II Samuel 12#^12-1|2 Sam 12.1–7]]; [[Isaiah 05#^5-1|Isa 5.1–7]]; [[LXX Sirach 01#^1-24|Sir 1.24]]; [[LXX Sirach 03#^3-29|3.29]]; [[LXX Sirach 20#^20-20|20.20]]; [[LXX Sirach 39#^39-2|39.2]]; [[LXX Sirach 47#^47-17|47.17]]; *1 En*. 1.2–3; 37–71; *T. Job* 18.7–8; *m. Sot*. 9.15; *t. Sot.* 5.9; *b. Ber.* 61b). ^13-3
+**[[NRSVue Matthew 13#^13-3|3]]:** *Parables*, Gk “parabolē,” meaning “comparison” (cf. Heb “mashal”; see “Midrash and Parables,” p. 707). Parables appear in various forms throughout Jewish literature ([[II Samuel 12#^12-1|2 Sam 12.1–7]]; [[Isaiah 05#^5-1|Isa 5.1–7]]; [[LXX Sirach 01#^1-24|Sir 1.24]]; [[LXX Sirach 03#^3-29|3.29]]; [[LXX Sirach 20#^20-20|20.20]]; [[LXX Sirach 39#^39-2|39.2]]; [[LXX Sirach 47#^47-17|47.17]]; *1 En*. 1.2–3; 37–71; *T. Job* 18.7–8; *m. Sot*. 9.15; *t. Sot.* 5.9; [[Berakhot 61#61b|*b. Ber.* 61b]]). ^13-3
 
 ### 13.3–9: Parable of the sower
 
@@ -70,7 +70,7 @@ Text: [[NRSVue Matthew 13|NRSVue]] · [[Matthew 13|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 13#^13-48|48]]:** Fishermen in the Sea of Galilee would have had to separate kosher and non-kosher fish from their nets. ^13-48
 
-**[[NRSVue Matthew 13#^13-52|52]]:** *Scribe . . . trained for the kingdom of heaven*, elsewhere, scribes are condemned (ch 23), suggesting this positive reference relates to Matthew’s own scribes (see 5.17–20; 8.18; 9.3; 13.52; 15.1; 20.18; 21.15; 23). *What is new and what is old* (see 9.17n.), implies that older Torah teachings are still valid, but Jesus’ new interpretations must be heeded as well. The rabbis also utilized “old” and “new” to refer to the teachings of the Torah and the scribal interpretations of those teachings, respectively (see *b. Eruv*. 21b). ^13-52
+**[[NRSVue Matthew 13#^13-52|52]]:** *Scribe . . . trained for the kingdom of heaven*, elsewhere, scribes are condemned (ch 23), suggesting this positive reference relates to Matthew’s own scribes (see 5.17–20; 8.18; 9.3; 13.52; 15.1; 20.18; 21.15; 23). *What is new and what is old* (see 9.17n.), implies that older Torah teachings are still valid, but Jesus’ new interpretations must be heeded as well. The rabbis also utilized “old” and “new” to refer to the teachings of the Torah and the scribal interpretations of those teachings, respectively (see [[Eruvin 21#21b|*b. Eruv*. 21b]]). ^13-52
 
 ### 13.53–58: Rejection in Nazareth
 

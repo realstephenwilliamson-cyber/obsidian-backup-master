@@ -31,6 +31,9 @@ sākṣādeṣa kathaṃ martyānmocayedgurutāṃ vrajan || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 329–331)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.331]]
+
 *Lead-in:* ननु केनैवमुक्तं यदस्योर्ध्वेषु सदाशिवादितत्त्वेषु योगजा सिद्धिर्न स्यात्, यद्वशात्सर्वमपीदं जगदुन्मोचयेत्? -- इत्याशङ्क्याह --
 
 > यस्तूत्पन्नसमस्ताध्वसिद्धिः स हि सदाशिवः ।

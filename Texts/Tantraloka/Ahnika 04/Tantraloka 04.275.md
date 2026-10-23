@@ -37,6 +37,11 @@ sa hyakhaṇḍitasadbhāvaṃ śivatattvaṃ prapaśyati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 380–381)
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.274–275]]
+>
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.275]]
+
 *Lead-in:* ननु को नाम सर्वं शिवमयं जानाति, यस्यैवमुपदेशः प्ररोहमियात् ? इत्याशङ्क्याह --
 
 > स ह्यख्ण्डितसद्भावं शिवतत्त्वं प्रपश्यति ॥

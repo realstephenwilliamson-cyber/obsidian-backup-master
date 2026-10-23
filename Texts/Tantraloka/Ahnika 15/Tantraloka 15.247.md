@@ -31,6 +31,9 @@ mūrtiḥ sṛṣṭistritattvaṃ cetyaṣṭau mūrtyaṅgasaṃyutāḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 149)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.247–248]]
+
 *Lead-in:* श्रीलक्ष्मणगुप्तः पुनरेतदन्यथा व्याचख्यौ--इत्याह--
 
 > मूर्तिः सृष्टिस्त्रितत्त्वं चेत्यष्टौ मूर्त्यङ्गसंयुताः ।

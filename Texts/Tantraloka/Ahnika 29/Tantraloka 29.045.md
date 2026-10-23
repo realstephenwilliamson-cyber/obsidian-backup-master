@@ -33,6 +33,13 @@ tato'bhyantarato vāyuvahnyormātṛkayā saha || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 241–243)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.43–45]]
+>
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.45–46]]
+>
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.45–46 (continued)]]
+
 > अन्याश्च गुरुतत्पत्नयः श्रीमत्कालीकुलोदिताः ।
 > अनात्तदेहाः क्रीडन्ति तैस्तैर्देहैरशङ्किताः ॥
 > प्रबोधिततथेच्छाकैस्तज्जे कौलं प्रकाशते ।

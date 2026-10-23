@@ -33,6 +33,13 @@ prārabdhṛkarmasaṃbandhāddehasya sukhiduḥkhite || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 267–270)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.230–231]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.230–231 (continued)]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.231–232]]
+
 *Lead-in:* ननु यदि तदानीं देहादेर्यन्त्रप्रायता, तत्कथं सुखदुःखे स्यातां स्यातां चेन्न मुक्तत्वम्? -- इत्याशङ्क्याह --
 
 > प्रारब्धकर्मसंबन्धाद्देहस्य सुखिदुःखिते ॥

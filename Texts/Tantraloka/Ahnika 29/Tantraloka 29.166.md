@@ -33,6 +33,11 @@ yugmasyāsya prasādena vratayogavivarjitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 343–346)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.164–166]]
+>
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.166–168]]
+
 *Lead-in:* इह विद्यामन्त्रमुद्रामण्डलात्मतया चतुष्पीठं तावच्छास्त्रम् । तत्र मन्त्रमुद्रात्मनः पीठद्वयस्य संप्रदाय उक्तः । इदानीमत्रैव अवशिष्टस्य विद्यामण्डलात्मनोऽपि अस्य संप्रदायं निरूपयति--
 
 Jayaratha comments on this verse together with 29.165: see [[Tantraloka 29.165#Viveka|29.165]].

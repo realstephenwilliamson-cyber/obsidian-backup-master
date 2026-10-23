@@ -31,6 +31,9 @@ ye siddhiṃ dadate teṣāṃ bāhyatvaṃ rūpavicyutiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 400–401)
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.3]]
+
 *Lead-in:* ननु एषां बहिःप्रतिष्ठया किं स्यात् ?--इत्याशङ्क्य आह--
 
 > स्ववीर्यानन्दमाहात्म्यप्रवेशवशशालिनीम् ।

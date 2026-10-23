@@ -33,6 +33,11 @@ vedāśrite caturhaste tribhāgaṃ sarvatastyajet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 70–71)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.9–10]]
+>
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.10–11]]
+
 *Lead-in:* इत्यन्तम् ॥ तदेव आह--
 
 > वेदाश्रिते चतुर्हस्ते त्रिभागं सर्वतस्त्यजेत् ॥

@@ -34,6 +34,9 @@ meyaugha iti yatsarvamatra cinmātrameva tat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 246–249)
+> ![[Tantraloka Dyczkowski v03 08 - Chapter Four, part 7#Viveka on 4.171–172]]
+
 *Lead-in:* एवं प्रमातृगतं संहारस्वरूपं निरूप्यानाख्यास्वरूपमपि निरूपयति --
 
 Jayaratha comments on this verse together with 4.172: see [[Tantraloka 04.172#Viveka|4.172]].

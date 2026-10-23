@@ -31,5 +31,8 @@ satatāviyutaṃ nālaṃ ṣoḍaśadalakamalakalitasanmūlam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 333–334)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.150–153]]
+
 Jayaratha comments on this verse together with 29.152: see [[Tantraloka 29.152#Viveka|29.152]].
 

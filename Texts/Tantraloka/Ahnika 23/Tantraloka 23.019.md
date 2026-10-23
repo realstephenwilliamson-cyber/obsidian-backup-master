@@ -33,6 +33,11 @@ sarvaṃ kartavyasāraṃ yacchāstrāṇāṃ paramaṃ rahaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 303–304)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.17–19]]
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.17–20]]
+
 > प्राग्वत्संपूज्य हुत्वा च श्रावयित्वा चिकीर्षितम् ॥
 > ततोऽभिषिञ्चेत्तं शिष्यं चतुःषष्ट्या ततः सकृत् ।
 > तन्मन्त्ररसतोयेन पूर्वोक्तविधिना गुरुः ॥

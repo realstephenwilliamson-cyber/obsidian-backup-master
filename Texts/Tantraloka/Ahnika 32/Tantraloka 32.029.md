@@ -31,6 +31,9 @@ japedyadi tataḥ siddhyet trailokyaṃ sacarācaram || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 150)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.27–29]]
+
 > कनिष्ठया विदार्यास्यं तर्जनीभ्यां भ्रुवौ तथा ।
 > अनामे मध्यमे वक्त्रे जिह्वया तालुकं स्पृशेत् ॥
 > एषा करङ्किणी देवी ज्वालिनीं शृणु सांप्रतम् ।

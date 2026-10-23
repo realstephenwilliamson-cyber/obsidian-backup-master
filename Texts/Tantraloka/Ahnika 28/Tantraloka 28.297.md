@@ -31,6 +31,9 @@ tenaivātaḥ prabuddhyeta paradehe'kṣacakrakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 129)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.296–297]]
+
 > तथाहि मानसं यत्नं तावत्समधितिष्ठति ।
 > अहंरूढ्या परे देहे यावत्स्याद् बुद्धिसञ्चरः ॥
 > प्राणचक्रं तदायत्तमपि सञ्चरते पथा ।

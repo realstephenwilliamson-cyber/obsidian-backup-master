@@ -34,6 +34,9 @@ svapaścātsthaṃ priyaṃ paśyeṭṭaṃkitaṃ mukure vapuḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 102)
+> ![[Tantraloka Dyczkowski v02 04 - Chapter Three, part 1#Viveka on 3.29]]
+
 *Lead-in:* ननु यद्येवं तर्हि तन्मध्यगत्वेऽपि केनापि निमित्तेनाश्रुतबिम्बाभिमतशब्दाकाराः प्रमातारः कथं बिम्बाभिमुख्येन प्रवर्तमानं प्रतिशब्दं गृह्णीयुः? -- इत्याशङ्क्याह --
 
 > मुख्यग्रहं त्वपि विना प्रतिबिम्बग्रहो भवेत् ।

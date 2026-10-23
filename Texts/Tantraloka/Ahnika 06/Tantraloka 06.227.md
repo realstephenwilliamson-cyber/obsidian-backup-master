@@ -37,6 +37,11 @@ ekāśītipadā devī śaktiḥ proktā śivātmikā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 430–435)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.227]]
+>
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.227–228]]
+
 *Lead-in:* तस्याप्येवमभिधाने क इवाशयः ? -- इत्याशङ्क्याह --
 
 > यद्वशाद्भगवानेकाशीतिकं मन्त्रमभ्यधात् ।

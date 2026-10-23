@@ -74,11 +74,11 @@ It is important also to acknowledge that Swamiji exemplified a method — a way 
 
 While Swami Laksmaṇajoo was a great master of inner, yogic practice, in Nepal I was introduced into the vast and complex world of Newar Kaula ritual by Kedararāja Rajopādhyāya, whose ancestors were the purohitas and Tantric gurus of the Malla kings of Bhaktapur. Kedararāja generously gave me his time and courageously braved the possible consequences of transmitting such matters outside the circle of his initiates. 
 
-Pt. Vrajavallabha Dvivedi, former head of the Yogatantra Department at Sarpūrṇānanda Sanskrit University, was an abiding source of inexhaustible knowledge. Indeed, his scholarly work, both in Sanskrit and Hindi, is formidable — ranging as it does through virtually every major Tantric tradition including not only Kashmiri Śaivism, but also Śaiva Siddhānta, Vīra Śaivism, Śrīvidyā, the Kaula Tantras, Vaiṣṇava Pañcarātra, the Buddhist Anuttarayoga Tantras and even Jain Tantrism. 
+Pt. Vrajavallabha Dvivedi, former head of the Yogatantra Department at Saṁpūrṇānanda Sanskrit University, was an abiding source of inexhaustible knowledge. Indeed, his scholarly work, both in Sanskrit and Hindi, is formidable — ranging as it does through virtually every major Tantric tradition including not only Kashmiri Śaivism, but also Śaiva Siddhānta, Vīra Śaivism, Śrīvidyā, the Kaula Tantras, Vaiṣṇava Pañcarātra, the Buddhist Anuttarayoga Tantras and even Jain Tantrism. 
 
-In other areas of study, I cannot but recall with -gratitude Pt. B. P. Tripathi, better known as Vāgīśa Śāstrī, former Director of the Research Department of Sarnpūrṇānanda Sanskrit University, who labored for years to teach me Sanskrit grammar both in the traditional manner through the Siddhāntakaumudī and through his own didactic method. 
+In other areas of study, I cannot but recall with -gratitude Pt. B. P. Tripathi, better known as Vāgīśa Śāstrī, former Director of the Research Department of Saṁpūrṇānanda Sanskrit University, who labored for years to teach me Sanskrit grammar both in the traditional manner through the Siddhāntakaumudī and through his own didactic method. 
 
-Although I have not studied formally with Prof. K. D. Tripathi, retired dean of the Sanskrit college of Banaras Hindu University, I cannot but acknowledge that the many lectures I have heard him deliver and dialogues I have had with him over the years inspired and helped me very much to understand Pratyabhijñā, Bharṭṁari’s philosophy of grammar, Abhinavagupta’ s aesthetics and the aiva Āgamas. In a similar way, I had the good fortune to listen to many lectures and attend classes on the Nātyaśastra with Abhinavagupta’s commentary by the late Premalata Sharma, formerly Dean of the Music Faculty of BHU and President of the Sangit Nataka Academy. There 
+Although I have not studied formally with Prof. K. D. Tripathi, retired dean of the Sanskrit college of Banaras Hindu University, I cannot but acknowledge that the many lectures I have heard him deliver and dialogues I have had with him over the years inspired and helped me very much to understand Pratyabhijñā, Bharṭṁari’s philosophy of grammar, Abhinavagupta’ s aesthetics and the Śaiva Āgamas. In a similar way, I had the good fortune to listen to many lectures and attend classes on the Nātyaśastra with Abhinavagupta’s commentary by the late Premalata Sharma, formerly Dean of the Music Faculty of BHU and President of the Sangit Nataka Academy. There 
 
 *[p. m]* ^pg7
 
@@ -86,7 +86,7 @@ are many other renowned scholars in \[Kasi whom I must also thank for inspiratio
 
 I owe a special thanks also to Bettina Bäumer whose dedication and scholarship in many fields has been an abiding source of inspiration and knowledge for me throughout the 50 years of our acquaintance. Of those who do not reside in Benares I gratefully acknowledge Prof. Navajivan Rastogi whose books and lectures have helped me a great deal. 
 
-I should not forget to mention my good friends and fellow travelers, especially Dr. Śitalāprasād Upādhyāya, formarly head of the Yogatantra Department at Sarnpūrṇānanda Sanskrit University and then rector of the University. I am especially grateful to Prof. Rana Singh, retired head of the Geography department of Banaras Hindu University who guided me through the principles of sacred geography, particularly that of Kasi. 
+I should not forget to mention my good friends and fellow travelers, especially Dr. Śitalāprasād Upādhyāya, formarly head of the Yogatantra Department at Saṁpūrṇānanda Sanskrit University and then rector of the University. I am especially grateful to Prof. Rana Singh, retired head of the Geography department of Banaras Hindu University who guided me through the principles of sacred geography, particularly that of Kasi. 
 
 During the decades that went into making this translation and study I continuously searched for the sources Abhinavagupta quotes in his Tantrāloka and other works. In this regard I am deeply indebted to the librarians who permitted me to have copies of manuscripts and early rare printed books. I am especially grateful to the German directors in Nepal of the German Nepalese Manuscript Preservation Project. Over the twenty odd years in which I travelled every year, sometimes more than once, to Nepal, seven came and went. There I collected copies of manuscripts of the majority of the most important texts belonging to the early period, that is, prior to Abhinavagupta, from which he drew. The Nepalese collection is very extensive and contains most of thè earliest manuscripts preserved in the Indian subcontinent. Other libraries that have furnished manuscripts of important texts, are the Asiatic Society in Calcutta, the central library of Banaras Hindu University, and the libraries in Jodhpur and Poone. 
 
@@ -132,13 +132,13 @@ the Sacred Thread and Other Occasional Rites
 
 Definition of Occasional (naimittika) and Regular Rites (nitya), verses 2-5, pages 3-6 
 
-The Kinds of Occasional Events and the Injunction concerning their Application (naimittikavibhāgah prayojanavidhih ) 
+The Kinds of Occasional Events and the Injunction concerning their Application (naimittikavibhāgaḥ prayojanavidhiḥ ) 
 
-The Occasions for the Performance of Occasional Rites), verses 6-9, pages 6-8 Kinds of Auspicious Days (parvabhedāh) 
+The Occasions for the Performance of Occasional Rites), verses 6-9, pages 6-8 Kinds of Auspicious Days (parvabhedāḥ) 
 
-According to the Yogasaricāra, verses 10-14ab, pages 8-10 According to the Haidara and Bhairavakula, verses 14cd-18ab, pages 10-13 Abhinava’s Analysis of the State of Collective Consciousness of Those Who Worship Together in the Assembly for Ādiyāga, verses 8cd-25ab, pages 13-16 Common Auspicious Days according to the Haidara, verses 25cd-35, pages 16-19 
+According to the Yogasaṁcāra, verses 10-14ab, pages 8-10 According to the Haidara and Bhairavakula, verses 14cd-18ab, pages 10-13 Abhinava’s Analysis of the State of Collective Consciousness of Those Who Worship Together in the Assembly for Ādiyāga, verses 8cd-25ab, pages 13-16 Common Auspicious Days according to the Haidara, verses 25cd-35, pages 16-19 
 
-Special Auspicious Times of Fulfilment (tadviśeṣah) 
+Special Auspicious Times of Fulfilment (tadviśeṣaḥ) 
 
 According to the Haidaratantra, verses 36-52, pages 20-31 According to the Ūrmikaula, verses 3-59, pages 31-34 The Observance of the Assembly (cakracaryā), verses 60cd-82ab, pages 35-45 The Worship of the Assembly (tadarcanam), verses 82cd-111, pages 45-59 The Procedure to Offer the Sacred Thread (pavitrakavidhi), verses 112-127ab, pages 59-67 
 
@@ -146,9 +146,9 @@ The Procedure to Offer the Sacred Thread According to the Kularatnamālā, verse
 
 The Procedure to Offer the Sacred Thread According to the 
 
-Triśirobhairavatantra, verses 146-186ab, pages 73-86 The Occasional Rites (naimittikavidhih), verses 186cd-212, pages 86-95 The Purpose of Worship on the Day of the Teacher’s Birth and Death Etc. 
+Triśirobhairavatantra, verses 146-186ab, pages 73-86 The Occasional Rites (naimittikavidhiḥ), verses 186cd-212, pages 86-95 The Purpose of Worship on the Day of the Teacher’s Birth and Death Etc. 
 
-(gurvādyantadinādyarcāprayojananirūpaṇnam), verses 213-216, pages 96-97 The Examination of Death (mrteh parīkṣā) 
+(gurvādyantadinādyarcāprayojananirūpaṇnam), verses 213-216, pages 96-97 The Examination of Death (mṛteḥ parīkṣā) 
 
 The First Appearance of Life, Death and Decay of the Body, verses 
 
@@ -178,7 +178,7 @@ The Power of the Creative Imagination (bhāvanā). The Perceivers who are Dreami
 
 Summary and Conclusion, verses 360cd-367, pages 161-165 Other Special Occasions, verses 368-370, pages 165-166 The Procedure Concerning the Gathering (melaka) of Yoginīs and the Like 
 
-(yogisīmelakādividhih), verses 371-373ab, pages 166-168 The Union with Members of One’s Own Spiritual Lineage, verses 373cd-385ab, pages 168-174 The Procedure for the Explanation of the Scriptures (vyākhyāvidhih), verses 
+(yogisīmelakādividhiḥ), verses 371-373ab, pages 166-168 The Union with Members of One’s Own Spiritual Lineage, verses 373cd-385ab, pages 168-174 The Procedure for the Explanation of the Scriptures (vyākhyāvidhiḥ), verses 
 
 385cd-407, pages 174-189 The Procedure for the Expiation of Transgressions of the Rule, verses 408- 
 
@@ -188,7 +188,7 @@ CHAPTER TWENTY- NINE
 
 The Secret Observance (rahasyacaryā) 
 
-Those Fit to Participate in the Kaula Rites (adhikāryātmano bhedah), verses lcd-2ab, pages 200-201 
+Those Fit to Participate in the Kaula Rites (adhikāryātmano bhedaḥ), verses lcd-2ab, pages 200-201 
 
 The 
 
@@ -294,7 +294,7 @@ Appendix A: The Yoginīs Who Are Embodiments of the Mothers, According to Chapte
 
 Appendix B: The Gathering of Initiates (vīramelāpa), According to Chapter Fifty-four of the Fourth Saka of the Jayadrathayāmala, Called vīratāṇdavavidhikramajñāna, pages 413-417 
 
-Appendix C: Concerning Ādyayãga, According to the Fourth Ṣapka of the 
+Appendix C: Concerning Ādyayāga, According to the Fourth Ṣapka of the 
 
 Jayadrathayāmala, pages 418-421 
 
@@ -308,11 +308,11 @@ Appendix A: Chapter Twenty of the Fourth Ṣatka of the Jayadrathayāmala called
 
 Appendix B: Dūtīyāga According to the Brahmayāmala, pages 425-455 
 
-Appendix C: The Procedure Concerning the Kaula Consort, dūtiyāgavidhih. 
+Appendix C: The Procedure Concerning the Kaula Consort, dūtiyāgavidhiḥ. 
 
 Chapter Six of the Kulapradīpa by Śrīgosvāmī Śivānanda, pages 456- 457 
 
-Appendix D: The Procedure Concerning the Kaula Consort dūtiyāgavidhih, pages 458-478 
+Appendix D: The Procedure Concerning the Kaula Consort dūtiyāgavidhiḥ, pages 458-478 
 
 *[PDF 15]* ^pg15
 
@@ -320,7 +320,7 @@ Abbreviations
 
 APS 
 
-Ajadapramātrsiddhi ASB 
+Ajadapramātṛsiddhi ASB 
 
 Asiatic Society of Bengal AV 
 
@@ -338,7 +338,7 @@ B,ṁadāraṇnyakopaniṣad ChUp
 
 Chandogyopaniṣad CMSS 
 
-Ciñcinīmatasãrasamuccaya DhAK 
+Ciñcinīmatasārasamuccaya DhAK 
 
 Dharmālaṁkārakārii DDŚ 
 
@@ -424,13 +424,13 @@ Monier-Williams Munq
 
 Mundaka Upaniṣad MT 
 
-Mrgendratantra MrTvK 
+Mṛgendratantra MrTvK 
 
-Mrgendratantravrtti Kriyāpāda MrKri 
+Mṛgendratantravṛtti Kriyāpāda MrKri 
 
-Mrgendratantra Kriyāpāda MrV 
+Mṛgendratantra Kriyāpāda MrV 
 
-Mrgendratantra Vidyāpāda NGMPP 
+Mṛgendratantra Vidyāpāda NGMPP 
 
 Nepal German Manuscript Preservation Project NṢA 
 
@@ -468,7 +468,7 @@ Pramāṇavārtika PVi
 
 Pramānṇaviniścaya PrHr 
 
-Pratyabhijñāhrdaya RSO 
+Pratyabhijñāhṛdaya RSO 
 
 Ricerche e Studi Orientali RT 
 
@@ -502,7 +502,7 @@ Spandapradīpikā SpSarn
 
 P andasadoha ŚDr 
 
-ivadrṣtṭi Śsū 
+ivadṛṣtṭi Śsū 
 
 Śivasūtra Śsū 
 
@@ -524,7 +524,7 @@ Somaśambhupaddhati SvT
 
 Svacchandatantra SvTu 
 
-Svacchandatantroddyota Svāyambhuvasūtrasagraha SvāSūSar SUNY 
+Svacchandatantroddyota Svāyambhuvasūtrasagraha SvāSūSaṁ SUNY 
 
 State University of New York Press SYM 
 

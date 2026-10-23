@@ -35,6 +35,11 @@ sureśvarīmahādhāmni ye mriyante ca tatpure || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 240)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 8.215.*
+>
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.215]]
+
 *Lead-in:* न केवलमेतदत्रैवोक्तं यावदन्यत्रापि -- इत्याह --
 
 > श्रीकामिकायां कश्मीरवर्णने चोक्तवान्विभुः ।

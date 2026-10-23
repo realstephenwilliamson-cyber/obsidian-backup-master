@@ -43,10 +43,10 @@ That is why (the section of Miriam) was adjoined expressly to the section of the
 [^3]: Author of *Keter Torah*.
 [^4]: [[Torah 39 - Chukat#^20-1|Numbers 20:1]].
 [^5]: Numbers, ch. 19.
-[^6]: *Moed Kattan* 28a.
+[^6]: [[Moed Katan 28#28a|*Moed Kattan* 28a]].
 [^7]: Brackets suggested by H. V.
-[^8]: [[Torah 39 - Chukat#^19-3|Numbers 19:3]]; *Rashi*, ad loc.; *Yoma* 68a.
-[^9]: [[Torah 39 - Chukat#^19-9|Numbers 19:9]]; *Rashi*, ad loc. *Avodah Zarah* 23b; *Chullin* 11a. The red heifer as such is not a sacrifice proper. It was not sacrificed on the altar but outside the camps of the Priests, Levites, and Israelites. However, Scripture terms it a sin offering, thus subjecting it to Halachic rulings applying to sacrifices.
+[^8]: [[Torah 39 - Chukat#^19-3|Numbers 19:3]]; *Rashi*, ad loc.; [[Yoma 68#68a|*Yoma* 68a]].
+[^9]: [[Torah 39 - Chukat#^19-9|Numbers 19:9]]; *Rashi*, ad loc. [[Avodah Zarah 23#23b|*Avodah Zarah* 23b]]; [[Chullin 11#11a|*Chullin* 11a]]. The red heifer as such is not a sacrifice proper. It was not sacrificed on the altar but outside the camps of the Priests, Levites, and Israelites. However, Scripture terms it a sin offering, thus subjecting it to Halachic rulings applying to sacrifices.
 [^10]: V. L.: (which was prepared outside) and….
 [^11]: Cf. *Zohar* [[Zohar 1.08 - Parashat Noah#^z1-64b|I:64b]] f.; [[Zohar 12.05 - Heikhalot Pequdei#^z2-268b|II:268b]] f.; [[Zohar 9.11 - Parashat Pinehas#^z3-240a|III:240a]] ff. Arizal, *Likkutei Torah*, *Vayikra*. (On the Arizal, see above, Epistle 5, note 103.)
 [^12]: Feminine waters; see above, Epistle 4, note 46.
@@ -75,11 +75,11 @@ That is why (the section of Miriam) was adjoined expressly to the section of the
 [^35]: Will; or Favor. Arizal, *Likkutei Torah*, *Toldot* (on [[Torah 06 - Toldot#^25-21|Genesis 25:21]]) and *Ki Tissa* (on [[Torah 21 - Ki Tisa#^34-7|Exodus 34:7]]); cf. *Zohar* III:280a.*—*See *Igrot Kodesh* by the Lubavitcher Rebbe, vol. 2, pp. 119-120.
 [^36]: Lit., the Time of Will (or Favor). Auspicious time.
 [^37]: Lit., the *tzaddikim* of the Most High.
-[^38]: See *Zohar* [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-124b|I:124b]]; cf. *Tikkunei Zohar*, Introduction 10b and *Zohar* [[Zohar 12.06 - Piqqudin#^z3-263b|III:263b]]; *Berachot* 61b. See below, Epistle 32, note 18.
+[^38]: See *Zohar* [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-124b|I:124b]]; cf. *Tikkunei Zohar*, Introduction 10b and *Zohar* [[Zohar 12.06 - Piqqudin#^z3-263b|III:263b]]; [[Berakhot 61#61b|*Berachot* 61b]]. See below, Epistle 32, note 18.
 [^39]: Brackets appear in the text.
 [^40]: See *Zohar* [[Zohar 10.07 - Parashat Hayyei Sarah#^z1-124b|I:124b]].
 [^41]: See above, Epistle 19, note 35.
-[^42]: Par. [[Proverbs 16#^16-26|Proverbs 16:26]] (cf. [[Isaiah 53#^53-11|Isaiah 53:11]]); see *Sanhedrin* 99b.
+[^42]: Par. [[Proverbs 16#^16-26|Proverbs 16:26]] (cf. [[Isaiah 53#^53-11|Isaiah 53:11]]); see [[Sanhedrin 99#99b|*Sanhedrin* 99b]].
 [^43]: Cf. above, Epistle 27.
 [^44]: Par. [[Psalms 103#^103-17|Psalms 103:17]].
 [^45]: Par. [[Psalms 074#^74-12|Psalms 74:12]].

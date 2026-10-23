@@ -33,6 +33,11 @@ tatrādyaḥ paramādvaito nirvibhāgarasātmakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 408–412)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.187–188]]
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.188–190]]
+
 *Lead-in:* एतदेव विभजति -
 
 Jayaratha comments on this verse together with 10.187: see [[Tantraloka 10.187#Viveka|10.187]].

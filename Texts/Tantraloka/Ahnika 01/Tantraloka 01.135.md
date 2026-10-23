@@ -35,6 +35,9 @@ jaḍājaḍasyāpyetasya dvairūpyasyāsti citratā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 301–302)
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.134–135]]
+
 > सोऽयमात्मानमावृत्य स्थितो जडपदं गतः ॥
 > आवृतानावृतात्मा तु देवादिस्थावरान्तगः ।
 > जडाजडस्याप्येतस्य द्वैरूप्यस्यास्ति चित्रता ॥

@@ -34,6 +34,9 @@ dṛḍhaprāktanasaṃskārādīśecchātaḥ śubhāśubham || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 129)
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.81–82]]
+
 *Lead-in:* नन्वेवमप्यत्र कर्मभूमित्वं न सिद्ध्येत्, अन्यत्र च भोगभूमित्वम्, यदत्र केषामपि कर्म न स्यादन्यत्र च स्यात् -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 8.82: see [[Tantraloka 08.082#Viveka|8.82]].

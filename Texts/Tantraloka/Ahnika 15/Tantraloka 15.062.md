@@ -31,6 +31,9 @@ abhedaṃ ca kramādeti snānāṣṭakaparo muniḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 48–49)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.62]]
+
 *Lead-in:* एवं स्नानाष्टकेन अस्य किं स्यात्?--इत्याशङ्क्य आह--
 
 > धृत्याप्यायमलप्लोषवीर्यव्याप्तिमृजिस्थितीः ।

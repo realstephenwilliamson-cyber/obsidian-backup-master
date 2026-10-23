@@ -34,6 +34,9 @@ svabhāve'natiriktau cetsama ityavaśiṣyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 24–26)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.12]]
+
 > स पूर्वमथ पश्चात्स इति चेत्पूर्वपश्चिमौ ।
 > स्वभावेऽनतिरिक्तौ चेत्सम इत्यवशिष्यते ॥
 

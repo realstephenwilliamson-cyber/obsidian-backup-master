@@ -35,6 +35,9 @@ dūrāsannādiko bhedaścitsvātantryavyapekṣayā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 241–242)
+> ![[Tantraloka Dyczkowski v01 07 - Chapter One, part 6#Viveka on 1.91]]
+
 *Lead-in:* ननु प्रायः सर्वत्रैव ध्यानस्य व्यतिरिक्तसाकारध्येयविषयत्वं जपस्य विकल्पात्मकवाचकवाच्यजप्यनिष्ठत्वं चोक्तम्, इह पुनः स्वात्माभेदेन परामर्शमात्रमेवोभयो रूपम् इति किमेतद् ? इत्याशङ्क्याह --
 
 > तदत्रापि तदीयेन स्वातन्त्र्येणोपकल्पितः ।

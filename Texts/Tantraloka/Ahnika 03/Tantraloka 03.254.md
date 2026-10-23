@@ -36,6 +36,11 @@ tābhya eva catuḥṣaṣṭiparyantaṃ śakticakrakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 376–379)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.253–254]]
+>
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.254–257]]
+
 *Lead-in:* आसां च यत्प्रोक्तं मुख्यत्वं तदेव प्रपञ्चयति --
 
 Jayaratha comments on this verse together with 3.253: see [[Tantraloka 03.253#Viveka|3.253]].

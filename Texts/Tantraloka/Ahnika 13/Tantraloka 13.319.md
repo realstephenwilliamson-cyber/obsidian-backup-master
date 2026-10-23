@@ -33,6 +33,11 @@ uktaṃ śrīmadgahvare ca parameśena tādṛśam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 322–323)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.318–319]]
+>
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.319–320]]
+
 *Lead-in:* न केवलमेतत्स्वच्छन्दशास्त्रे एवोक्तं यावदन्यत्रापि -- इत्याह --
 
 > उक्तं श्रीमद्गह्वरे च परमेशेन तादृशम् ॥

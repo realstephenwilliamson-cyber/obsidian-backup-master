@@ -37,6 +37,11 @@ yastu dīkṣākṛtāmevāpekṣya yojanikāṃ śiśuḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 134–135)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.299–300]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.300–301]]
+
 *Lead-in:* दीक्षोचितमेव ज्ञानयोगाद्यधितिष्ठतः पुनः किं स्यात् ?-- इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 16.299: see [[Tantraloka 16.299#Viveka|16.299]].

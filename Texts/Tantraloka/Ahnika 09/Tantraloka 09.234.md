@@ -31,6 +31,9 @@ manobuddhyakṣaṣaṭkaṃ tu jātaṃ bhedastu kathyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 221–222)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.234]]
+
 *Lead-in:* तत्र सात्त्विकस्य यावत् प्रकृतिस्कन्धतां निरूपयति --
 
 > सत्त्वप्रधानाहङ्काराद्भोक्त्रंशस्पर्शिनः स्फुटम् ।

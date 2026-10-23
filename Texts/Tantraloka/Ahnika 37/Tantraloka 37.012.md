@@ -33,6 +33,11 @@ yathā khageśvarībhāvaniḥśaṅkatvādviṣaṃ vrajet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 231–232)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.11–12]]
+>
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.12–13]]
+
 *Lead-in:* ननु एवं कर्मस्थितिः किं न नश्येत्?--इत्याशङ्कां दृष्टान्तोपदर्शनपूर्वकमपाकरोति यथेत्यादिना--
 
 > यथा खगेश्वरीभावनिःशङ्कत्वाद्विषं व्रजेत् ॥

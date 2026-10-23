@@ -298,14 +298,14 @@ they add up to 72.
 [^7]: 7
 [^8]: 91
 [^9]: electrum
-[^10]: *BT* Ḥagigah 13b
+[^10]: *BT* [[Chagigah 13#13b|Ḥagigah 13b]]
 [^11]: *ḥashot*
 [^12]: *me-male-lot*
-[^13]: *BT* Berakhot 53b
+[^13]: *BT* [[Berakhot 53#53b|Berakhot 53b]]
 [^14]: 91
 [^15]: 91
 [^16]: Yod
-[^17]: *BT* Baba Batra 25b
+[^17]: *BT* [[Bava Batra 25#25b|Baba Batra 25b]]
 [^18]: ה
 [^19]: ה
 [^20]: ה
@@ -330,7 +330,7 @@ they add up to 72.
 [^39]: 45
 [^40]: precept
 [^41]: *Shm’a*
-[^42]: *BT* Berakhot 3b
+[^42]: *BT* [[Berakhot 3#3b|Berakhot 3b]]
 [^43]: *eḥad*
 [^44]: 13
 [^45]: one

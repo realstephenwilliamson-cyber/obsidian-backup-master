@@ -34,6 +34,9 @@ eṣaiva ca kriyāśaktirbandhamokṣaikakāraṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 312–314)
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.145]]
+
 *Lead-in:* ननु एवमपि कथमेकस्यैव उपायोपेयभावः सङ्गच्छते ? इत्याशङ्क्याह --
 
 > उपायोपेयभावस्तु ज्ञानस्य स्थौल्यविश्रमः ।

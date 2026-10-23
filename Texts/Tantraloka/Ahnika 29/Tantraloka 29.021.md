@@ -31,6 +31,9 @@ kevalā mālinī yadvā tāḥ samasteṣu karmasu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 224–225)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.21]]
+
 *Lead-in:* ननु अत्र मन्त्रत्रयमुद्दिष्टम्, तस्य पुनः कथं विनियोगः?-- इत्याशङ्क्य आह--
 
 > परासम्पुटगा यद्वा मातृसम्पुटगाप्यथो ।

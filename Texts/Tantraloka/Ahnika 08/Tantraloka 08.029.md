@@ -34,6 +34,9 @@ ye sakṛdapi parameśaṃ śivamekāgreṇa cetasā śaraṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 86–87)
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.28–30]]
+
 > शास्त्रविरुद्धाचरणात् कृष्णं ये कर्म विदधते ॥
 > तत्र भीमैर्लोकपुरुषैः पीड्यन्ते भोगपर्यन्तम् ।
 > ये सकृदपि परमेशं शिवमेकाग्रेण चेतसा शरणम् ॥

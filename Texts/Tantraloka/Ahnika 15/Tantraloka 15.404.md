@@ -34,6 +34,11 @@ tenāṅgapañcakaireva hutiṃ dadyātsakṛtsakṛt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 250–252)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.403–404]]
+>
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.404–405]]
+
 *Lead-in:* अत एव आह--
 
 > तेनाङ्गपञ्चकैरेव हुतिं दद्यात्सकृत्सकृत् ॥

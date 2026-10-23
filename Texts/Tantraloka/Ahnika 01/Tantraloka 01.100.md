@@ -37,6 +37,11 @@ bhairava iti gurubhirimairanvarthaiḥ saṃstutaḥ śāstre || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 248–257)
+> ![[Tantraloka Dyczkowski v01 08 - Chapter One, part 7#Viveka on 1.96–100]]
+>
+> ![[Tantraloka Dyczkowski v01 08 - Chapter One, part 7#Viveka on 1.100]]
+
 *Lead-in:* एतदेवोपसंहरति—
 
 > भैरव इति गुरुभिरिमैरन्वर्थैः संस्तुतः शास्त्रे ॥

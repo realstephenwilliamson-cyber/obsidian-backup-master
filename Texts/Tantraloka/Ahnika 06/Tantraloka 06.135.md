@@ -35,6 +35,9 @@ devānāṃ yadahorātraṃ mānuṣāṇāṃ sa hāyanaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 361)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.134–135]]
+
 *Lead-in:* तदेव पठति -
 
 > देवानां यदहोरात्रं मानुषाणां स हायनः ।

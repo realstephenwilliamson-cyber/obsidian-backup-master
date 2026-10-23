@@ -33,6 +33,11 @@ atyantaṃ svaviśeṣāṇāṃ tatrārpaṇavaśāt sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 93)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.203–204]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.204–205]]
+
 *Lead-in:* तदेव अस्य उपपादयति--
 
 > अत्यन्तं स्वविशेषाणां तत्रार्पणवशात् स्फुटम् ॥

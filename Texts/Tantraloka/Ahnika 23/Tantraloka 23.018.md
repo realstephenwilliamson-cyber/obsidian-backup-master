@@ -33,5 +33,10 @@ tanmantrarasatoyena pūrvoktavidhinā guruḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 303–304)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.17–19]]
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.17–20]]
+
 Jayaratha comments on this verse together with 23.19: see [[Tantraloka 23.019#Viveka|23.19]].
 

@@ -31,6 +31,9 @@ nyasyetsa ca mahāpreta iti śāstreṣu bhaṇyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 183)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.309]]
+
 *Lead-in:* ईश्वरसदाशिवयोः पुनर्मायोत्तीर्णमेव सदातनं रूपमस्तीति अनयोरिह अविशेषेणैव न्यासः--इत्याह--
 
 > रुद्रोर्ध्वे चेश्वरं देवं तदूर्ध्वे च सदाशिवम् ।

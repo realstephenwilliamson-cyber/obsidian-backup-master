@@ -35,6 +35,9 @@ anudghāṭitarūpaṃ tatpūrvameva prakāśate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 421)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.246]]
+
 *Lead-in:* इत्याद्युक्त्या प्रायः संशयिते एव अर्थे निर्णयात्मनः शास्त्रस्य प्रणयनमुक्तम् इति संशयस्य तदङ्गत्वात् प्रथमं तत्स्वरूपमेव निरूपयितुम् उपक्रमते --
 
 > तत्रेह यद्यदन्तर्वा बहिर्वा परिमृश्यते ।

@@ -31,6 +31,9 @@ dīkṣayā mucyate jantuḥ prātibhena tathā priye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 227–228)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.168–169]]
+
 *Lead-in:* एतदप्युत्तरयति परमेश्वरः -- इत्याह --
 
 > इति देव्या कृते प्रश्ने प्रावर्तत विभोर्वचः ।

@@ -33,6 +33,11 @@ ityasya svaprakāśatve kimanyairyuktiḍambaraiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 369–370)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.116]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.116–117]]
+
 *Lead-in:* ननु भासते चेद्विश्वं तर्हि "प्रथमस्य तथाभावे प्रद्वेषः किंनिबन्धनः । इति भंग्या तस्यैव स्वप्रकाशत्वमस्तु किमवान्तरेण? -- इत्याशङ्क्याह --
 
 > अन्याधीनप्रकाशं हि तद् भात्यन्यस्त्वसौ शिवः ।

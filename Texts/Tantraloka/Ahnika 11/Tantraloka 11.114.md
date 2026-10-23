@@ -35,6 +35,9 @@ te nūnamenayā nāḍyā śūnyadṛṣṭyavalambinaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 96–97)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.113–114]]
+
 > अत एव क्षणं नाम न किञ्चिदपि मन्महे ।
 > क्रियाक्षणे वाऽप्येकस्मिन् बह्व्यः संस्युर्द्रुताः क्रियाः ॥
 > तेन ये भावसङ्कोचं क्षणान्तं प्रतिपेदिरे ।

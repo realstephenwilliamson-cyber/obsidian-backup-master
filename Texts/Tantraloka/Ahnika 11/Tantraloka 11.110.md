@@ -35,6 +35,9 @@ paramārthata eṣāṃ tu nodayo na vyayaḥ kvacit || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 95)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.110]]
+
 *Lead-in:* ननु यद्यनुदितानस्तमितसंविन्मात्रसारं घनद्रवादिरूपम् धराद्यर्थजातमभ्युपेयते तत्कथमस्योदयव्यययोगः समाधीयते ? -- इत्याशङ्क्याह --
 
 > मणाविन्द्रायुधे भास इव नीलादयः शिवे ।

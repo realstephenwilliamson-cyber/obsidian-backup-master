@@ -35,6 +35,9 @@ cidvyomabhairavaṃ devamabhedenādhiśerate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 390)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.264]]
+
 *Lead-in:* ततोऽपि किम् ? -- इत्याह --
 
 > तास्तृप्ताः स्वात्मनः पूर्णं हृदयैकान्तशायिनम् ।

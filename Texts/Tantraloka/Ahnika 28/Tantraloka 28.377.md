@@ -33,6 +33,11 @@ nṛttādau viṣaye prāptā pūrṇānandatvamaśnute |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 170–171)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.376–377]]
+>
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.377–378]]
+
 *Lead-in:* ननु एवमपि देहसङ्कोचाद्यविगलनात् कथमेषां पूर्णानन्दमयत्वं स्यात्?--इत्याशङ्क्य आह--
 
 > ईर्ष्यासूयादिसङ्कोचकारणाभावतोऽत्र सा ॥

@@ -34,6 +34,9 @@ nirupādhini saṃśuddhe saṃvidrūpe'stamīyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 222–224)
+> ![[Tantraloka Dyczkowski v03 07 - Chapter Four, part 6#Viveka on 4.154]]
+
 *Lead-in:* एवं प्रमाणगतं सृष्टिस्वरूपमभिधाय, स्थितिस्वरूपमप्यभिधातुमाह --
 
 > संहार्योपाधिरेतस्याः स्वस्वभावो हि संविदः ।

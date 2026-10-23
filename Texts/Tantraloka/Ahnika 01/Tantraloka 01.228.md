@@ -35,6 +35,9 @@ tadvikalpakramopāttanirvikalpapramāṇatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 403)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.228]]
+
 *Lead-in:* न केवलमिह निर्विकल्पके विश्रान्तिसतत्त्वं यावदितो बाह्यानां मतेऽपि -- इत्याह—
 
 > विकल्पापेक्षया योऽपि प्रामाण्यं प्राह तन्मते ।

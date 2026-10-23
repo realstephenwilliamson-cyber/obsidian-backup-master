@@ -31,6 +31,9 @@ bījāllatā tvaṃkurānno bījādiha tu sarvataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 432–433)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.220–222]]
+
 > न च बीजाङ्कुरलतादलपुष्पफलादिवत् ॥
 > क्रमिकेयं भवेत्संवित्सूतस्तत्र किलाङ्कुरः ।
 > बीजाल्लता त्वंकुरान्नो बीजादिह तु सर्वतः ॥

@@ -31,6 +31,9 @@ jñaptau kṛtau tu sāmānyaṃ kalā karaṇamucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 235)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.246]]
+
 *Lead-in:* तदाह -
 
 > तेनाशुद्धैव विद्यास्य सामान्यं करणं पुरा ।

@@ -35,6 +35,9 @@ pratibimbaṃ tathā bodhe sarvataḥ svacchatājuṣi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 121)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.47]]
+
 *Lead-in:* ननु रूपादीनां मध्यात्क्वचिदेव किञ्चित्प्रतिबिम्बमेतीति प्रतिपादितं प्राक्, तत्कथं रूपाद्यात्मकं निखिलमेव विश्वमेकस्मिन्बोधे प्रतिसंक्रान्तिमियात्? -- इत्याशङ्क्याह --
 
 > यथा च सर्वतः स्वच्छे स्फटिके सर्वतो भवेत् ।

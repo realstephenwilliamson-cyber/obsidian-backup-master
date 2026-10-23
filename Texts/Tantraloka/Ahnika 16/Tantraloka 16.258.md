@@ -35,6 +35,9 @@ prākkutaḥ sa vimarśāccetkutaḥ so'pi nirūpaṇe |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 112–113)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.257–259]]
+
 > ननु स्वतन्त्रसञ्जल्पयोगादस्तु विमर्शिता ॥
 > प्राक्कुतः स विमर्शाच्चेत्कुतः सोऽपि निरूपणे ।
 > आद्यस्तथाविकल्पत्वप्रदः स्यादुपदेष्टृतः ॥

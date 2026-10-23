@@ -33,6 +33,11 @@ sā jaḍā bhedarūpatvāt kāryaṃ cāsyā jaḍaṃ yataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 128–134)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.150–151]]
+>
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.151–152]]
+
 *Lead-in:* इत्यागमार्थगर्भीकारेण तत्त्वरूपतामपि अभिधातुमाह --
 
 Jayaratha comments on this verse together with 9.150: see [[Tantraloka 09.150#Viveka|9.150]].

@@ -34,6 +34,9 @@ dīkṣākarmoditaṃ tatra tatra śāstre maheśinā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 195–196)
+> ![[Tantraloka Dyczkowski v09 09 - Chapter Eighteen#Viveka on 18.3–6]]
+
 > परामन्त्रस्ततोऽस्येति तत्त्वं संशोधयाम्यथ ॥
 > स्वाहेति प्रतितत्त्वं स्याच्छुद्धे पूर्णाहुतिं क्षिपेत् ।
 > एवं मन्त्रान्तरैः कुर्यात्समस्तैरथवोक्तवत् ॥

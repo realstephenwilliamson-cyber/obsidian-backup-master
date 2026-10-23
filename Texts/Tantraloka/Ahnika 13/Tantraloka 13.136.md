@@ -33,6 +33,11 @@ yuktiḥ śāstraṃ gururvādo'bhyāsa ityādyapekṣate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 208)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.136]]
+>
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.136 (2)]]
+
 *Lead-in:* ननु यद्येवं तत्कस्मादविशिष्टैव सर्वेषां प्रतिभा नोल्लसेत्? -- इत्याशङ्क्याह --
 
 > तत्रापि तारतम्योत्थमानन्त्यं दार्ढ्यकम्प्रते ।

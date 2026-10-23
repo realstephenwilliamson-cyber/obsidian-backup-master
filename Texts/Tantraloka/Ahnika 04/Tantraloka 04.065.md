@@ -34,6 +34,9 @@ guroralābhe proktasya vidhimetaṃ samācaret || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 82–83)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.65]]
+
 *Lead-in:* ननु दीक्षामन्तरेण कथं समययादिरूपत्वं स्यात् ? -- इत्याशङ्क्याह --
 
 > दीक्षयेज्जपयोगेन रक्तादेवी क्रमाद्यतः ।

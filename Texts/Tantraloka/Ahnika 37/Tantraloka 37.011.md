@@ -33,6 +33,11 @@ yadārṣe pātahetūktaṃ tadasmin vāmaśāsane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 231)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.10–11]]
+>
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.11–12]]
+
 *Lead-in:* ननु मन्वादिशास्त्रं यदि न ग्राह्यं तत् किं न अयं सर्व एव आचारो भ्रश्येत्?--इत्याशङ्क्य आह--
 
 > यदार्षे पातहेतूक्तं तदस्मिन् वामशासने ॥

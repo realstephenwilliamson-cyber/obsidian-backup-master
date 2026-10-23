@@ -36,6 +36,11 @@ uccāraṇaṃ ca prāṇādyā vyānāntāḥ pañca vṛttayaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 18–19)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.17–18]]
+>
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.18]]
+
 *Lead-in:* ननु द्विधा प्राणीया वृत्तिरस्ति -- यदेका पञ्चानामपि प्राणादीनां भित्तिभूता सामान्यप्राणीया, अपरा च विशिष्टप्राणात्मिका -- इति; तत् पञ्च वृत्तय उच्चारणम् -- इति कथमुक्तम् ? इत्याशङ्क्याह --
 
 > आद्या तु प्राणनाभिख्यापरोच्चारात्मिका भवेत् ॥

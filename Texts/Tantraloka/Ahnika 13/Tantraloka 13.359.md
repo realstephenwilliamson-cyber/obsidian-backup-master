@@ -31,6 +31,9 @@ na śāsane samāmnātaṃ liṅgoddhārādi kiñcana || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 343)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.359]]
+
 *Lead-in:* एवं ह्यस्मद्दर्शन इव तत्रापि तं प्रति कश्चन लिङ्गोद्धारप्रायः संस्कारविशेषोऽभिहितः स्यात् । तदाह --
 
 > अत एव हि सर्वर्ज्ञैब्रह्मविष्ण्वादिभिर्निजे ।

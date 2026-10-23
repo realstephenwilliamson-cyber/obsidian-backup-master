@@ -35,6 +35,9 @@ krīḍā sarvotkarṣeṇa vartanecchā tathā svatantratvam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 257–259)
+> ![[Tantraloka Dyczkowski v01 08 - Chapter One, part 7#Viveka on 1.101–103]]
+
 *Lead-in:* हेयेत्यादिना देवशब्दस्य निर्वचनमाह --
 
 Jayaratha comments on this verse together with 1.103: see [[Tantraloka 01.103#Viveka|1.103]].

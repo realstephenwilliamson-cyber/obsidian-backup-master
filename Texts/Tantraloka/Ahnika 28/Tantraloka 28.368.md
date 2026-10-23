@@ -31,6 +31,9 @@ saṃvidabdhitaraṅgābhaṃ sūte tadapi parvavat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 166)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.368–370]]
+
 *Lead-in:* एवं प्रसङ्गान्मरणस्वरूपमभिधाय, प्रकृतमेव आह--
 
 Jayaratha comments on this verse together with 28.370: see [[Tantraloka 28.370#Viveka|28.370]].

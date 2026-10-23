@@ -33,5 +33,10 @@ sabindukāḥ kṣmaṃ prete jūṃ śūlaśṛṅgeṣu kalpayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 6–7)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 30.8–9.*
+>
+> ![[Tantraloka Dyczkowski v11 02 - Chapter Thirty, part 1#Viveka on 30.8–9]]
+
 Jayaratha comments on this verse together with 30.11: see [[Tantraloka 30.011#Viveka|30.11]].
 

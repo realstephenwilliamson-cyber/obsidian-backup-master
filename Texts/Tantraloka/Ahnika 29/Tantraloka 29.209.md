@@ -31,6 +31,9 @@ evaṃ stobhitapāśasya yojitasyātmanaḥ śive |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 364)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.209]]
+
 *Lead-in:* एवमस्य स्तोभितपाशतया शिवे एव योजनिका जातेति तदैव देहपातः प्रसजेत् ?--इत्याशङ्क्य आह--
 
 > एवं स्तोभितपाशस्य योजितस्यात्मनः शिवे ।

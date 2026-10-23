@@ -37,6 +37,11 @@ taduktaṃ parameśena bhairavo vyāpako'khile || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 183–185)
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.134–135]]
+>
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.135–136]]
+
 *Lead-in:* आगमोऽप्येवमित्यर्थद्वारेणाह --
 
 > तदुक्तं परमेशेन भैरवो व्यापकोऽखिले ॥

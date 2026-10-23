@@ -36,6 +36,11 @@ svasminkārye'tha dharmaughe yadvāpi svasadṛgguṇe || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 7–9)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.4]]
+>
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.4–6]]
+
 *Lead-in:* एतदेवान्यत्रापि अतिदिशति --
 
 > एवं जलादितत्त्वेषु वाच्यं यावत्सदाशिवे ।

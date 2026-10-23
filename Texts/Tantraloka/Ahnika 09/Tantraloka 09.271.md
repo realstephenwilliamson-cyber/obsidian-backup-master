@@ -33,6 +33,11 @@ tamaḥpradhānāhaṅkārād bhoktraṃśacchādanātmanaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 251–254)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.271]]
+>
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.271–272]]
+
 *Lead-in:* एवमक्षपादादिमतं प्रक्षिप्य स्वमतमेव उपसंहरति --
 
 > उक्त इन्द्रियवर्गोऽयमहङ्कारात् तु राजसात् ।

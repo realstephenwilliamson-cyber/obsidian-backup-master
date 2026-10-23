@@ -33,6 +33,13 @@ evamāśācatuṣke'sminmadhyaviśrāntiyogataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 123–125)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.197–201]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.197–201 (continued)]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.201–202]]
+
 *Lead-in:* ननु एवमौत्तराधर्ययोगात् मध्यविभागाच्च परशिवपदे, तदौचित्याच्च उत्तरदशास्वपि षडेव दिशः स्युः?--इत्याशङ्क्य आह--
 
 > एवमाशाचतुष्केऽस्मिन्मध्यविश्रान्तियोगतः ॥

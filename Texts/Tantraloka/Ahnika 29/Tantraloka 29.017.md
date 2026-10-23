@@ -31,6 +31,9 @@ yānyuktānyaviśaṅko'tra bhavecchaṅkā hi dūṣikā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 219–221)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.17]]
+
 *Lead-in:* अस्मद्दर्शने हि अर्घस्यैव प्राधान्यमिति तदुचितान्येव द्रव्यान्तराण्यपि परमेश्वरः समादिक्षत्, तत् ततस्तेभ्यो वा न शङ्कितव्यम् । शङ्कैव हि महद्दूषणमित्युक्तं प्राग्बहुशः । तदाह--
 
 > तेनार्घपात्रप्राधान्यं ज्ञात्वा द्रव्याणि शम्भुना ।

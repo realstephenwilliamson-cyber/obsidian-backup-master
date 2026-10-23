@@ -31,6 +31,9 @@ pītādyāḥ sthirakampratvāccaturdaśa dharādiṣu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 362–364)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.103–104]]
+
 *Lead-in:* ननु किमनेनैवमुपदिष्टेन पाञ्चदश्येन? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 10.104: see [[Tantraloka 10.104#Viveka|10.104]].

@@ -36,6 +36,11 @@ pañcatattvavidhiḥ proktastritattvamadhunocyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 33–35)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.33–34]]
+>
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.34–35]]
+
 *Lead-in:* एतदुपसंहरन्नन्यदवतारयति --
 
 Jayaratha comments on this verse together with 11.33: see [[Tantraloka 11.033#Viveka|11.33]].

@@ -34,6 +34,9 @@ ityuktyāṇavapāśo'tra māyīyastu niśāvadhiḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 172–173)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.76–78]]
+
 > यतोऽधिकारभोगाख्यौ द्वौ पाशौ तु सदाशिवे ॥
 > इत्युक्त्याणवपाशोऽत्र मायीयस्तु निशावधिः ।
 > शिष्यो यथोचितं स्नायादाचामेद्दैशिकः स्वयम् ॥

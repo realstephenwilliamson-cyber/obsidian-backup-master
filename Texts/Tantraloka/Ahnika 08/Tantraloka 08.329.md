@@ -37,6 +37,11 @@ aluptavibhavāḥ sarve māyātattvādhikāriṇaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 321–322)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.328–329]]
+>
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.329–330]]
+
 *Lead-in:* एषां च सर्वेषामेव यथासंभवं स्वरूपमभिधातुमाह --
 
 > अलुप्तविभवाः सर्वे मायातत्त्वाधिकारिणः ॥

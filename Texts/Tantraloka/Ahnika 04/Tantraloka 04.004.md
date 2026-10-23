@@ -34,6 +34,9 @@ asphuṭaḥ sphuṭatābhāvī prasphuṭansphuṭitātmakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 7–8)
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.4]]
+
 *Lead-in:* ननु एकस्मात् संस्कृताद्विकल्पात् यदि तादृशस्यैव द्वितीयस्योत्पादः तदास्तां, तृतीयादेः पुनरेवमेवोत्पात्तावानर्थक्यं स्यात्, विशेषे वा सादृश्यस्य हानिः ? इत्याशङ्क.याह --
 
 > चतुर्ष्वेव विकल्पेषु यः संस्कारः क्रमादसौ ।

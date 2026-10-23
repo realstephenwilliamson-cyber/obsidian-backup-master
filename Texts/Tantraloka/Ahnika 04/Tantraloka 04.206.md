@@ -34,6 +34,11 @@ bhaṅgībhirabhito dvaitaṃ tyājitā bhairavāyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 308)
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.205–206]]
+>
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.205–206 (continued)]]
+
 > यथाहि तत्र तत्राश्वः समनिम्नोन्नतादिषु ।
 > चित्रे देशे वाह्यमानो यातीच्छामात्रकल्पिताम् ॥
 > तथा संविद्विचित्राभिः शान्तघोरतरादिभिः ।

@@ -33,6 +33,11 @@ ekā tu sā tuṭistatra pūrṇā śuddhaiva kevalam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 421–422)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.206]]
+>
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.206–207]]
+
 *Lead-in:* एवं च शक्तिमच्छक्तिसंबन्धिनीनां द्वादशानां तुटीनामन्त्योपान्त्यात्मतुटिद्वयलक्षणस्वरूपपक्षनिक्षेपाच्छिवे तुटिद्वयमेवावशिष्यते? -- इत्याह --
 
 > अत एव शिवावेशे द्वितुटिः परिगीयते ।

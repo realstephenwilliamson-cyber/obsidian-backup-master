@@ -34,6 +34,9 @@ bhūyo'tidiṣṭaṃ tatraiva śāstre'smaddhṛdayeśvare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 65)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.145]]
+
 > द्विविधोऽपि हि वर्णानां षड्वधो भेद उच्यते ।
 > तत्त्वमार्गविधानेन ज्ञातव्यः परमार्थतः ॥
 > उपदेशातिदेशाभ्यां यदुक्तं तत्पदादिषु ।

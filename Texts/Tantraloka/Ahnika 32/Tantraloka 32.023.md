@@ -31,6 +31,9 @@ karṇākṣimukhanāsādicakrasthaṃ devatāgaṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 147–148)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.20–24]]
+
 > त्यक्तांशको निराचारो निःशङ्को लोकवर्जितः ॥
 > अवधूतो निराचारो नाहमस्मीति भावयन् ।
 > मन्त्रैकनिष्ठः संपश्यन् देहस्थाः सर्वदेवताः ॥

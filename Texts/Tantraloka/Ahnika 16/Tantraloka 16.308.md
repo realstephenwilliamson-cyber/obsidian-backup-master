@@ -37,6 +37,11 @@ bhāvināṃ cādyadehasthadehāntaravibhedinām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 136–137)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.307–308]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.308–309]]
+
 *Lead-in:* भाविशुभकर्माप्रक्षये पुनरस्य तत्र तत्रोपभोग एव--इत्याह--
 
 > भाविनां चाद्यदेहस्थदेहान्तरविभेदिनाम् ॥

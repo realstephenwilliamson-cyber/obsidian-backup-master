@@ -33,6 +33,11 @@ vaiṣṇavādau hi yā bhaktirnāsau kevalataḥ śivāt |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 302)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.287–288]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.288–289]]
+
 *Lead-in:* ननु समनन्तरमेवेदमुक्तं यच्छैव्या शक्त्यानधिष्ठितं न किञ्चिदपि स्यादिति, तदिदानीं वैष्णवादौ भक्तिः शिवान्नेति कथमिवाभिधीयते? -- इत्याशङ्क्याह --
 
 > शिवो भवति तत्रैष कारणं न तु केवलः ॥

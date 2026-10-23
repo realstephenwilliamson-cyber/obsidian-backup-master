@@ -33,6 +33,11 @@ aṣṭāṃgulapramāṇaiḥ syāddhastamātraṃ samantataḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 111–112)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.105–106]]
+>
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.106–108]]
+
 *Lead-in:* एतदेव भागत्रयं शूलावयावाश्रयतया विभजति--
 
 Jayaratha comments on this verse together with 31.105: see [[Tantraloka 31.105#Viveka|31.105]].

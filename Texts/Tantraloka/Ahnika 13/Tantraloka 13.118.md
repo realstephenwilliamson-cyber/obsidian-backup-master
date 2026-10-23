@@ -31,6 +31,9 @@ yā phalārthitayā bhaktiḥ sā karmādyamapekṣate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 196)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.117–119]]
+
 > कुलजातिवपुष्कर्मवयोऽनुष्ठानसंपदः ॥
 > अनपेक्ष्य शिवे भक्तिः शक्तिपातोऽफलार्थिनाम् ।
 > या फलार्थितया भक्तिः सा कर्माद्यमपेक्षते ॥

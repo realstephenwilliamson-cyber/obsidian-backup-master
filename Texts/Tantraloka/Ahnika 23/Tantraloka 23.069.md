@@ -31,6 +31,9 @@ prāyaścittairviśodhyainaṃ dīkṣeta kṛpayā guruḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 327)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.69]]
+
 *Lead-in:* एवमस्य कृपापरेणैव भाव्यम्--इत्याह--
 
 > अत एव स्वतन्त्रत्वादिच्छायाः पुनरुन्मुखम् ।

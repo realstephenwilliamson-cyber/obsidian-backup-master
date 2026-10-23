@@ -35,6 +35,9 @@ kāmayate patirenāmicchānuvidhāyinīṃ yadā devīm || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 310–311)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.308–310]]
+
 > उत्पत्त्या तेष्वस्याः पतिशक्तिक्षोभमनुविधीयमानेषु ॥
 > योनिविवरेषु नानाकामसमृद्धेषु भगसंज्ञा ।
 > कामयते पतिरेनामिच्छानुविधायिनीं यदा देवीम् ॥

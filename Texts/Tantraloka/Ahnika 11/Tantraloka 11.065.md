@@ -35,6 +35,9 @@ varṇaughāste pramārūpāṃ satyāṃ bibhrati saṃvidam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 58–59)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.63–65]]
+
 > उच्छलत्संविदामात्रविश्रान्त्यास्वादयोगिनः ॥
 > सर्वाभिधानसामर्थ्यादनियन्त्रितशक्तयः ।
 > सृष्टाः स्वात्मसहोत्थेऽर्थे धरापर्यन्तभागिनि ॥

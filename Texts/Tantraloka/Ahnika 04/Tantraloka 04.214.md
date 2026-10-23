@@ -34,6 +34,11 @@ na cāpi tatparityāgo niṣparigrahatāpi vā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 316–318)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 4.217–221.*
+>
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.217–221]]
+
 Jayaratha comments on this verse together with 4.220: see [[Tantraloka 04.220#Viveka|4.220]].
 
 ## Compare

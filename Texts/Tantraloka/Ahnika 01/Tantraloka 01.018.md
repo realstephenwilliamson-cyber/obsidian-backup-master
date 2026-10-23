@@ -34,6 +34,9 @@ tatsāraṃ trikaśāstraṃ hi tatsāraṃ mālinīmatam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 84–108)
+> ![[Tantraloka Dyczkowski v01 04 - Chapter One, part 3#Viveka on 1.18]]
+
 *Lead-in:* एतदेवाह—
 
 > दशाष्टादशवस्वष्टभिन्नं यच्छासनं विभोः ।

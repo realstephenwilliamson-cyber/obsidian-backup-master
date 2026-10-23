@@ -34,6 +34,9 @@ kramāttādātmyametīti vikṣiptaṃ vidhimācaret || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 197)
+> ![[Tantraloka Dyczkowski v09 09 - Chapter Eighteen#Viveka on 18.10]]
+
 *Lead-in:* ननु यद्येवं तद्बहुवित्तव्ययायाससाध्येन विस्तृतेन कर्मणा कोऽर्थः?--इत्याशङ्क्याह--
 
 > अतन्मयीभूतमिति विक्षिप्तं कर्म सन्दधत् ।

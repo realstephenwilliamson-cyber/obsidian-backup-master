@@ -34,6 +34,9 @@ vyākhyātaḥ śrīmatāsmākaṃ guruṇā śambhumūrtinā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 200)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.2–3]]
+
 > शाङ्करीं दीक्षां तस्माद्दीक्षाक्षणात्परम् ॥
 > शिवं व्रजेदित्यर्थोऽत्र पूर्वापरविवेचनात् ।
 > व्याख्यातः श्रीमतास्माकं गुरुणा शम्भुमूर्तिना ॥

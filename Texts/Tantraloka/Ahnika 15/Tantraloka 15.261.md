@@ -33,6 +33,11 @@ mūrtinyāsātsamārabhya yā sṛṣṭiḥ prasṛtā'tra sā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 157–158)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.259–261]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.261–262]]
+
 *Lead-in:* का नाम अस्याः शुद्धता?--इत्याशङ्क्य आह--
 
 > मूर्तिन्यासात्समारभ्य या सृष्टिः प्रसृताऽत्र सा ॥

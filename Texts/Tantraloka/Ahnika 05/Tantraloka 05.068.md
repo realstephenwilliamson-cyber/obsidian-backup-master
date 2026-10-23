@@ -37,6 +37,11 @@ paro visargaviśleṣastanmayaṃ viśvamucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 77–79)
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.68]]
+>
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.68 (2)]]
+
 *Lead-in:* ननु यदि नामननुत्तरनाथस्य विसर्गः कौलिकी शक्तिः, तन्मातृकोदये किमेवं प्रदर्शितं न वा ? -- इत्याशङ्क्याह --
 
 > अंअ इति कुलेश्वर्या सहितो हि कुलेशिता ।

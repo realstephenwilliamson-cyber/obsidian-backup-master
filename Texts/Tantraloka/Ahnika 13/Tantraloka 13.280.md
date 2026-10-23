@@ -33,6 +33,11 @@ teneha vaiṣṇavādīnāṃ nādhikāraḥ kathañcana || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 296–297)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.279–280]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.280–281]]
+
 *Lead-in:* इत्याद्युक्तशक्त्यधिष्ठितानां भेदावष्टम्भभाजां वैष्णवादीनामस्मिन्संविदद्वैतात्मनि शिवज्ञानेऽधिकारो नास्ति -- इत्याह --
 
 > तेनेह वैष्णवादीनां नाधिकारः कथञ्चन ॥

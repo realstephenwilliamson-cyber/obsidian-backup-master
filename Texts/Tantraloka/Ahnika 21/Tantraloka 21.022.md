@@ -36,6 +36,11 @@ kṛtvā maṇḍalamabhyarcya tatra devaṃ kuśairatha || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 257–259)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.18–22]]
+>
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.22–24]]
+
 *Lead-in:* एवमेतत्प्रसङ्गादभिधाय प्रकृतमाह--
 
 Jayaratha comments on this verse together with 21.21: see [[Tantraloka 21.021#Viveka|21.21]].

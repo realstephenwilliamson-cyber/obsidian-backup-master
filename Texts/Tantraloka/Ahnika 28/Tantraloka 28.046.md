@@ -33,6 +33,11 @@ dinavelābhagrahakalpanena tatrāpi saumyaraudratvam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 26–27)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 28.46–47.*
+>
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.46–47]]
+
 > दिवसनिशे किल कृत्वा
 > त्रिभागशः प्रथममध्यमापरविभागः ॥
 > पूजाकालस्तत्र त्रिभागिते मुख्यतमः कालः ।

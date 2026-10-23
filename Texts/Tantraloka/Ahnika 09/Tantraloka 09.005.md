@@ -34,6 +34,9 @@ tattattvaṃ kramaśaḥ pṛthvīpradhānaṃ puṃśivādayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 8–9)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.4–6]]
+
 > स्वस्मिन्कार्येऽथ धर्मौघे यद्वापि स्वसदृग्गुणे ॥
 > आस्ते सामान्यकल्पेन तननाद्व्याप्तृभावतः ।
 > तत्तत्त्वं क्रमशः पृथ्वीप्रधानं पुंशिवादयः ॥

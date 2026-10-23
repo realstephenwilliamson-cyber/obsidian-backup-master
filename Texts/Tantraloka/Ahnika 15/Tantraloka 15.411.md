@@ -32,6 +32,9 @@ pitarau pūjayitvā svaṃ śuddhaṃ dhāma visarjayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 255)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.411–412]]
+
 *Lead-in:* इदानीमनन्तरकरणीयमाह--
 
 > जातेऽग्नौ संस्कृते शैवे शब्दराशिं च मालिनीम् ।

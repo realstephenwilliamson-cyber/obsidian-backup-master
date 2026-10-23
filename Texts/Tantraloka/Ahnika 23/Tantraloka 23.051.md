@@ -33,6 +33,11 @@ ajñāte'pi punarjñāte vijñānaharaṇaṃ caret || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 320–322)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.50–51]]
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.51–55]]
+
 *Lead-in:* यः पुनरेवं ज्ञानार्पणकाले न ज्ञातस्तदुत्तरकालं तु ज्ञातस्तस्य ज्ञानापहरणमेव कुर्यात्--इत्याह--
 
 > अज्ञातेऽपि पुनर्ज्ञाते विज्ञानहरणं चरेत् ॥

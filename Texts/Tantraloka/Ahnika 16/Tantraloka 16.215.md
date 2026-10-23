@@ -35,6 +35,11 @@ vidyeśvarasadāśaktiśiveṣu padapañcakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 91–92)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.213–216]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.213–216 (continued)]]
+
 > श्रीपूर्वशास्त्रे चाप्युक्तं ते तैरालिङ्गिता इति ॥
 > सद्योजातादिवक्त्राणि हृदाद्यङ्गानि पञ्च च ।
 > षट्कृत्वो न्यस्य षट्त्रिंशन्न्यासं कुर्याद्धरादितः ॥

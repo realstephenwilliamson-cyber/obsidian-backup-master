@@ -31,6 +31,9 @@ aprameye'paricchinne svatantre bhāvyatā kutaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 473–474)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.279–280]]
+
 *Lead-in:* ननु लोकयोगप्रसंख्यानवशाद्यथा जाग्रदादीनां चतसॄणामप्यवस्थानां त्रीणि नामान्युक्तानि, तद्वदिहापि किमुच्यन्ते न वा ? -- इत्याशङ्क्याह --
 
 > नात्र योगस्य सद्भावो भावनादेरभावतः ।

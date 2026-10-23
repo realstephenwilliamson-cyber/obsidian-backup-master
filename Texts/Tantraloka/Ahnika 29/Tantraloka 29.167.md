@@ -31,5 +31,8 @@ sarvadā smaraṇaṃ kṛtvā ādiyāgaikatatparaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 345–346)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.166–168]]
+
 Jayaratha comments on this verse together with 29.168: see [[Tantraloka 29.168#Viveka|29.168]].
 

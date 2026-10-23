@@ -33,5 +33,10 @@ netre gamāgame karṇe haṃse vaktre ca bhāmini || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 279–280)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 29.88.*
+>
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.88]]
+
 Jayaratha comments on this verse together with 29.88: see [[Tantraloka 29.088#Viveka|29.88]].
 

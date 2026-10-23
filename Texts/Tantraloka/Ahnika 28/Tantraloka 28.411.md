@@ -31,6 +31,9 @@ tathāpi sthitirakṣārthaṃ kartavyaścodito vidhiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 190)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.409–411]]
+
 > श्रीपिचौ च स्मृतेरेव पापघ्नत्वे कथं विभो ॥
 > प्रायश्चित्तविधिः प्रोक्त इति देव्या प्रचोदिते ।
 > सत्यं स्मरणमेवेह सकृज्जप्तं विमोचयेत् ॥

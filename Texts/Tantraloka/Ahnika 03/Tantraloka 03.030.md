@@ -34,6 +34,9 @@ sāṃmukhyaṃ cocyate tādṛgdarpaṇābhedasaṃsthiteḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 102–103)
+> ![[Tantraloka Dyczkowski v02 04 - Chapter Three, part 1#Viveka on 3.30]]
+
 *Lead-in:* ननूक्तयुक्त्या दर्पणादेरतिरेकेण प्रतिबिम्बं पृथक्सत्तामेव नोपलभत इति कथं तस्य बिम्बसांमुख्यं भवति? -- इत्याशङ्क्याह --
 
 > ंंंंसांमुख्यं चोच्यते तादृग्दर्पणाभेदसंस्थितेः ॥

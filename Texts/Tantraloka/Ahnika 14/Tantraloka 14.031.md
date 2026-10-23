@@ -31,6 +31,9 @@ pavanabhramaṇaprāṇavikṣepādikṛtaśramāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 360–363)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.31–32]]
+
 *Lead-in:* ननु किमत्र प्रमाणम्? -- इत्याशङ्क्याह --
 
 > उक्तं च सिद्धसन्तानश्रीमदूर्मिमहाकुले ।

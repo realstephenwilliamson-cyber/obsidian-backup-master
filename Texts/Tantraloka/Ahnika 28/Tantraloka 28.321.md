@@ -31,5 +31,8 @@ sarvavyāpattirahite pramāṇapratyayātige || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 138–139)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.320–324]]
+
 Jayaratha comments on this verse together with 28.323: see [[Tantraloka 28.323#Viveka|28.323]].
 

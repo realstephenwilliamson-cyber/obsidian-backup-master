@@ -34,6 +34,9 @@ yadātmateddhā mantrāḥ syuḥ pāśaploṣavidhāvalam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 39)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.82]]
+
 > मण्डलस्थोऽहमेवायं साक्षी चाखिलकर्मणाम् ।
 > शुद्धा हि द्रष्ट्टता शम्भोर्मण्डले कल्पिता मया ॥
 > होमाधिकरणत्वेन वह्नावहमवस्थितः ।

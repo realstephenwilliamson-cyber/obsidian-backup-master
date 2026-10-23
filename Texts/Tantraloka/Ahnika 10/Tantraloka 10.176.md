@@ -31,6 +31,9 @@ tūlikādisukhasparśasmṛtireṣeti tatkutaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 400)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.176]]
+
 *Lead-in:* अत एवात्र स्थिरप्रबोधाभावेऽप्यन्तरान्तरा प्रबुद्धस्य विद्युदुन्मिषितन्यायेन तथानुभवात्स्मृतिरित्यादि वदन्त उत्पेर्क्षितव्याः -- इत्याह --
 
 > तेन मूढैर्यदुच्येत प्रबुद्धस्यान्तरान्तरा ।

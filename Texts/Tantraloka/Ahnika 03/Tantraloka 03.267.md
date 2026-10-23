@@ -37,6 +37,11 @@ alamanyena bahunā prakṛte'tha niyujyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 392–393)
+> ![[Tantraloka Dyczkowski v02 12 - Chapter Three, part 9#Viveka on 3.266–267]]
+>
+> ![[Tantraloka Dyczkowski v02 12 - Chapter Three, part 9#Viveka on 3.267]]
+
 *Lead-in:* तदेवं प्रसक्तानुप्रसक्त्यागतमेतदुपसंहरन्प्रकृतमेवावतारयति --
 
 > अलमन्येन बहुना प्रकृतेऽथ नियुज्यते ॥

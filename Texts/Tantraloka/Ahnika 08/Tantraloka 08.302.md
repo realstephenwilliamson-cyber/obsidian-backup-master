@@ -37,6 +37,11 @@ kramāttattattvamāyānti yatreśo'nanta ucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 306–307)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.301–302]]
+>
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.302]]
+
 *Lead-in:* नन्वेषामपि सृष्ट्यादिकारी प्रभुरनन्तोऽस्ति - इति किमेतावत्पदप्राप्त्या -- इत्याशङ्क्याह --
 
 > क्रमात्तत्तत्त्वमायान्ति यत्रेशोऽनन्त उच्यते ॥

@@ -37,6 +37,11 @@ pratibhuvanamevamayaṃ nivāsināṃ gurubhiruddiṣṭaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 312)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.310–313]]
+>
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.313]]
+
 *Lead-in:* एतदेवान्यत्रापि अतिदिशति --
 
 > प्रतिभुवनमेवमयं निवासिनां गुरुभिरुद्दिष्टः ॥

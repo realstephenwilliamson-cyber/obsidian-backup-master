@@ -33,6 +33,11 @@ anekaśaktikhacitaṃ yato bhāvasya yadvapuḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 116)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.266–267]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.267–268]]
+
 *Lead-in:* नन्वेवमैकरूप्येऽपि रुद्रत्वस्य कथमेतद्युज्येत?--इत्याशङ्क्य आह--
 
 > अनेकशक्तिखचितं यतो भावस्य यद्वपुः ॥

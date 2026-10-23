@@ -34,6 +34,9 @@ mūrtivaicitryajastajjo deśādhvā'tha nirūpyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 50–51)
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.2]]
+
 *Lead-in:* नन्ववान्तराणां प्रमेयाणामनन्तानां प्रतिपाद्यत्वेऽपि कथमिह अस्यैव निर्देशः, इत्याशङ्क्याह -
 
 > विचारितोऽयं कालाध्वा क्रियाशक्तिमयः प्रभोः ।

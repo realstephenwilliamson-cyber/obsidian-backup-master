@@ -37,6 +37,13 @@ anuttarātkavargasya sūtiḥ pañcātmanaḥ sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 266–267)
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.148–149]]
+>
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.149–150]]
+>
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.149–150 (continued)]]
+
 *Lead-in:* तदेवाह—
 
 > अनुत्तरात्कवर्गस्य सूतिः पञ्चात्मनः स्फुटम् ॥

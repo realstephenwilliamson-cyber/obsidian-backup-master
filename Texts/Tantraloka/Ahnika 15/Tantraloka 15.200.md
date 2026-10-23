@@ -31,6 +31,11 @@ dakṣiṇasya puraḥsaṃsthaṃ vāmamityupadiśyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 123)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.197–201]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.197–201 (continued)]]
+
 > तत्र यद्यत्प्रकाशेन सदा स्वीकरणे क्षमम् ।
 > तदेवोर्ध्वं प्रकाशात्म स्पर्शायोग्यमधः पुनः ॥
 > किञ्चित्प्रकाशता मध्यं ततो वै दिक्समुद्भवः ।

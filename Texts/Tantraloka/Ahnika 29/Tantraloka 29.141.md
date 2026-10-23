@@ -31,6 +31,9 @@ kuṇḍaṃ śaktiḥ śivo liṅgaṃ melakaṃ paramaṃ padam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 326–327)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.141]]
+
 *Lead-in:* न च एतदस्मदुपज्ञमेव--इत्याह--
 
 > श्रीतत्त्वरक्षणे श्रीनिगमे त्रिशिरोमते च तत्प्रोक्तम् ।

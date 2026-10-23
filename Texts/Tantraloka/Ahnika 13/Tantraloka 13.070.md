@@ -31,6 +31,9 @@ tathaiva deye svaphale keyamanyo'nyaroddhṛtā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 169–170)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.70]]
+
 *Lead-in:* एतदेव हि प्रतिक्षिपति --
 
 > नैतत्क्रमिकसंशुद्धव्यामिश्राकारकर्मभिः ।

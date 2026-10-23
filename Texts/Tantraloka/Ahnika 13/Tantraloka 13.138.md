@@ -31,6 +31,9 @@ tathā tathā gururasau śreṣṭho vijñānapāragaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 209)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.138]]
+
 *Lead-in:* ननु एवमत्र फले कश्चिद्विशेषोऽस्ति न वा? -- इत्याशङ्क्याह --
 
 > यथा यथा परापेक्षातानवं प्रातिभे भवेत् ।

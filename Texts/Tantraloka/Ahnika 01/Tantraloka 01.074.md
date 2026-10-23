@@ -34,6 +34,9 @@ anubhāvo vikalpo'pi mānaso na manaḥ śive || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 213–216)
+> ![[Tantraloka Dyczkowski v01 07 - Chapter One, part 6#Viveka on 1.74–75]]
+
 *Lead-in:* अतश्च अनयोरसावुपायोपेयभावस्तत्र तत्र आगमेषु उद्धोष्यते -- इत्याह --
 
 > श्रीमत्किरणशास्त्रे च तत्प्रश्नोत्तरपूर्वकम् ।

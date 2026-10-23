@@ -33,6 +33,11 @@ yādṛśā svena rūpeṇa dīpo rūpaṃ prakāśayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 328–329)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.53]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.53–54]]
+
 *Lead-in:* नन्वत्रापि प्रागुक्तं समग्रमेव दूषणजातमुपनिपतेत् -- इत्याह --
 
 > अत्रापि न वहन्त्येताः किं नु युक्तिविकल्पनाः ।

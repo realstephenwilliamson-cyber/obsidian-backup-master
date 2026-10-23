@@ -34,6 +34,9 @@ svācchandyamanapekṣaṃ yatsā parā parameśvarī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 246–249)
+> ![[Tantraloka Dyczkowski v03 08 - Chapter Four, part 7#Viveka on 4.171–172]]
+
 > प्रमातृवर्गो मानौघः प्रमाश्च बहुधा स्थिताः ।
 > मेयौघ इति यत्सर्वमत्र चिन्मात्रमेव तत् ॥
 > इयतीं रूपवैचित्रीमाश्रयन्त्याः स्वसंविदः ।

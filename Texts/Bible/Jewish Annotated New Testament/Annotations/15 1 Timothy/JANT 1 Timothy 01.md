@@ -44,7 +44,7 @@ Text: [[NRSVue 1 Timothy 01|NRSVue]] · [[1 Timothy 01|BSB and SBLGNT]] · Intro
 
 **[[NRSVue 1 Timothy 01#^1-13|13–14]]:** *Formerly a . . . persecutor*, Paul’s early persecution of Jesus’ followers ([[1 Corinthians 15#^15-9|1 Cor 15.9]]; [[Galatians 01#^1-13|Gal 1.13]]; cf. [[Acts 08#^8-1|Acts 8.1]]; [[Acts 09#^9-1|9.1–2]]). *Ignorantly*, the epistle is consistent with [[Acts 03#^3-17|Acts 3.17]], where Peter tells the Jews in Jerusalem, “I know that you acted in ignorance, as did also your rulers” in crucifying Jesus. *Mercy* (Gk “eleos,” “compassion”; Heb “hesed”). . . *grace*, (Gk “charis,” “grace,” “favor”; Heb “ḥein”), the loving actions of God to which the believer responds *with the faith and love* . . . *in Christ Jesus*. ^1-13
 
-**[[NRSVue 1 Timothy 01#^1-15|15]]:** *Saying is sure*, a frequent phrase in the Pastoral Epistles but absent from the undisputed letters. *Save sinners*, for rabbinic ideas of God as the one who pardons sin, see especially *b. Rosh Ha-Shanah* 17b, the thirteen attributes of divine mercy. ^1-15
+**[[NRSVue 1 Timothy 01#^1-15|15]]:** *Saying is sure*, a frequent phrase in the Pastoral Epistles but absent from the undisputed letters. *Save sinners*, for rabbinic ideas of God as the one who pardons sin, see especially [[Rosh Hashanah 17#17b|*b. Rosh Ha-Shanah* 17b]], the thirteen attributes of divine mercy. ^1-15
 
 **[[NRSVue 1 Timothy 01#^1-16|16]]:** *An example*, an appeal to mimesis (imitation): to imitate one’s teachers as they in turn imitate Christ ([[1 Corinthians 11#^11-1|1 Cor 11.1]]). *Eternal life*, see *m. Avot* 2.7, “\[If\] he has gotten teachings of Torah, he has gotten himself life eternal \[Heb “ḥayei ha-ʿolam habaʾ ”\].” ^1-16
 

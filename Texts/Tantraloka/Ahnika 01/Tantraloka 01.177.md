@@ -34,6 +34,9 @@ jaḍena yaḥ samāveśaḥ sapraticchandakākṛtiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 351–353)
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.176–178]]
+
 > ज्ञेयं द्विधा च चिन्मात्रं जडं चाद्यं च कल्पितम् ॥
 > इतरत्तु तथा सत्यं तद्विभागोऽयमीदृशः ।
 > जडेन यः समावेशः सप्रतिच्छन्दकाकृतिः ॥

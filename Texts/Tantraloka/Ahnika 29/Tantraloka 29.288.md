@@ -33,6 +33,11 @@ kṣetrapaṃ vīrasaṅghātaṃ gurvādikramaśastataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 409–410)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.287–288]]
+>
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.288–290]]
+
 > कृत्वा भुवि गुरुं नत्वादाय संतर्प्य खेचरीः ॥
 > स्वं मन्त्रं तच्च वन्दित्वा दूतीं गणपतिं गुरुन् ।
 > क्षेत्रपं वीरसङ्घातं गुर्वादिक्रमशस्ततः ॥

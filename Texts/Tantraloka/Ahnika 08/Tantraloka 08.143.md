@@ -37,5 +37,10 @@ svarlokastu bhuvarlokād dhruvāntaṃ paribhāṣyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 177–180)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.142–143]]
+>
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.143–146]]
+
 Jayaratha comments on this verse together with 8.146: see [[Tantraloka 08.146#Viveka|8.146]].
 

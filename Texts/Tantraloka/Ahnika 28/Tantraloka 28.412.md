@@ -31,6 +31,9 @@ teṣāṃ dolāyite citte jñānahāniḥ prajāyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 190)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.412]]
+
 > अतत्त्ववेदिनो ये हि चर्यामात्रैकनिष्ठिताः ।
 > तेषां दोलायिते चित्ते ज्ञानहानिः प्रजायते ॥
 

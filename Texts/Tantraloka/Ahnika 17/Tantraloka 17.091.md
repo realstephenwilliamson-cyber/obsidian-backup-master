@@ -34,6 +34,9 @@ na bhūyaḥ paśutāmeti dagdhamāyānibandhanaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 178)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.91]]
+
 *Lead-in:* एवं सति किं स्यात्?--इत्याह--
 
 > एवं युक्तः परे तत्त्वे गुरुणा शिवमूर्तिना ।

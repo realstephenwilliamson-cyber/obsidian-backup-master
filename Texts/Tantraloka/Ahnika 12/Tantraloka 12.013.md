@@ -34,6 +34,9 @@ paripūrṇāṃ sthitiṃ prāhuḥ samādhiṃ guravaḥ purā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 106–108)
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.13]]
+
 *Lead-in:* अयमेव च परः समाधिः -- इत्याह --
 
 > तथार्चनजपध्यानहोमव्रतविधिक्रमात् ।

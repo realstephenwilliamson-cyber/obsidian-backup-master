@@ -258,13 +258,13 @@ and their appearance is lower*[^19] *than the wall*.
 שפל הוא גוון אוכם ^52b-18
 
 [^1]: *nishmata*
-[^2]: *BT* Sotah 21a
-[^3]: See *BT* Ḥullin 13a
+[^2]: *BT* [[Sotah 21#21a|Sotah 21a]]
+[^3]: See *BT* [[Chullin 13#13a|Ḥullin 13a]]
 [^4]: Leviathan
-[^5]: *BT* Berakhot 33a
+[^5]: *BT* [[Berakhot 33#33a|Berakhot 33a]]
 [^6]: *saraph*
 [^7]: *se-reiphah*
-[^8]: See *BT* Sanhedrin 98b
+[^8]: See *BT* [[Sanhedrin 98#98b|Sanhedrin 98b]]
 [^9]: human
 [^10]: 45
 [^11]: 45

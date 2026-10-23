@@ -34,6 +34,9 @@ parāparādyupāyaughasaṅkīrṇatvavibhedataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 56)
+> ![[Tantraloka Dyczkowski v02 03 - Chapter Two, part 2#Viveka on 2.45]]
+
 *Lead-in:* भावी च विधिः कीदृक् ? -- इत्याह --
 
 > अनुग्रह्यानुसारेण विचित्रः स च कथ्यते ।

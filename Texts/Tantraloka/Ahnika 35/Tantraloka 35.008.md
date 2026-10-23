@@ -33,6 +33,11 @@ prāgvāsanopajīvyetat pratibhāmātrameva na || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 194)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.7–8]]
+>
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.8–9]]
+
 *Lead-in:* ननु चेतः प्रसादो हि तत्कालोल्लसितविमर्शरूपं प्रतिभामात्रमिति प्राग्वासनारूपेण विमर्शेन परिकल्पित इति किमुक्तम् ?--इत्याशङ्क्य आह--
 
 > प्राग्वासनोपजीव्येतत् प्रतिभामात्रमेव न ॥

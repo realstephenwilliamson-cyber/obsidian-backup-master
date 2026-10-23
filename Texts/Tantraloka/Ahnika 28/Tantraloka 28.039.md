@@ -33,6 +33,11 @@ kanyāntyajātha veśyā rāgavatī tattvavedinī dūtī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 21–23)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.36–39]]
+>
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.39–40]]
+
 > कृष्णयुगं वह्निसितं श्रुतिकृष्णं वह्निसितमिति पक्षाः ।
 > अर्केन्दुजीवचन्द्रा बुधयुग्मेन्द्वर्ककविगुरुविधु स्यात् ॥
 > परफल्गुश्चैत्रमघे तिष्यः प्राक्फल्गुकर्णशतभिषजः ।

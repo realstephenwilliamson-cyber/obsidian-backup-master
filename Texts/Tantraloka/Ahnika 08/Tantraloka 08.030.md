@@ -36,6 +36,11 @@ sahasranavakotsedhamekāntaramatha kramāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 86–89)
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.28–30]]
+>
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.30–31]]
+
 > सहस्रनवकोत्सेधमेकान्तरमथ क्रमात् ॥
 > पातालाष्टकमेकैकमष्टमे हाटकः प्रभुः ।
 

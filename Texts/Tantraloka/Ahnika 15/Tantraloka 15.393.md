@@ -32,6 +32,9 @@ juhoti japati preddhe pūjayedvihased vrajet |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 242)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.391–393]]
+
 > चतुर्दशविधे भूते पुष्पे धूपे निवेदने ।
 > दीपे जपे तथा होमे सर्वत्रैवात्र चण्डिका ॥
 > जुहोति जपति प्रेद्धे पूजयेद्विहसेद् व्रजेत् ।

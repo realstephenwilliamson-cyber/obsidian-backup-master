@@ -31,6 +31,9 @@ evaṃ jigamiṣāyogādācāryaḥprāpyate sa ca || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 263)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.222–224]]
+
 > किं तत्त्वं तत्त्ववेदी क इत्यामर्शनयोगतः ॥
 > प्रतिभानात्सुहृत्सङ्गाद्गुरौ जिगमिषुर्भवेत् ।
 > एवं जिगमिषायोगादाचार्यःप्राप्यते स च ॥

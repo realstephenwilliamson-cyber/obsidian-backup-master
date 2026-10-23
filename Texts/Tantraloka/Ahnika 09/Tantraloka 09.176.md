@@ -31,6 +31,9 @@ tasyāścāpyaṇunānyonyaṃ hyañjane sā prasūyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 152)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.176]]
+
 *Lead-in:* नन्वेवं जडमेव जगत् स्यात् तदपि वा न स्यात्, दृक्शक्तितिरोभावेन तथात्वाप्रथनात् ? -- तदेतदाशङ्क्याह -
 
 > कला हि किंचित्कर्तृत्वं सूते स्वालिङ्गनादणोः ।

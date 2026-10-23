@@ -31,6 +31,9 @@ tenātra nyāsayogyo'sau bhagavānratiśekharaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 147)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.239–244]]
+
 > ततो नवात्मदेवेन न्यासस्तत्त्वोदयात्मकः ॥
 > अङ्गवक्त्राणि तस्यैव स्वस्थानेषु नियोजयेत् ।
 > अथ मातृकया प्राग्वत्तत्तत्त्वस्फुटतात्मकः ॥

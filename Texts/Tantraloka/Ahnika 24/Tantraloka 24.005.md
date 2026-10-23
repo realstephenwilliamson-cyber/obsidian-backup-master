@@ -31,6 +31,9 @@ pratimāyāṃ tadevātra sarvaṃ śavatanau caret || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 346)
+> ![[Tantraloka Dyczkowski v09 15 - Chapter Twenty-Four#Viveka on 24.5]]
+
 *Lead-in:* अत्रैव इतिकर्तव्यतामाह--
 
 > यत्किञ्चित्कथितं पूर्वं मृतोद्धाराभिधे विधौ ।

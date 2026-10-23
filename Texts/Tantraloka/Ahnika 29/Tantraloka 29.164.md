@@ -31,6 +31,9 @@ mukhyaśca yāgastenāyamādiyāga iti smṛtaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 343–345)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.164–166]]
+
 *Lead-in:* इतिदृशा आदियागशब्दस्य अत्र प्रवृत्तौ किं निमित्तम्?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 29.165: see [[Tantraloka 29.165#Viveka|29.165]].

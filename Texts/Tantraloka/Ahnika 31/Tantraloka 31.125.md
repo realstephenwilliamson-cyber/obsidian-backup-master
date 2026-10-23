@@ -31,6 +31,9 @@ nābhisthaḥ śūladaṇḍastu śūlamūlaṃ hṛdi sthitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 117)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.124–126]]
+
 > अरात्रयविभागस्तु प्रवेशो निर्गमो भ्रमः ।
 > अनाहतपदव्याप्तिः कुण्डल्या उदयः परः ॥
 > हृदि स्थाने गता देव्यस्त्रिशूलस्य सुमध्यमे ।

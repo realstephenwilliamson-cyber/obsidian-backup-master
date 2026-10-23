@@ -34,5 +34,8 @@ taduktam mālinītantre siddhaṃ samayamaṇḍalam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 257)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.18–22]]
+
 Jayaratha comments on this verse together with 21.21: see [[Tantraloka 21.021#Viveka|21.21]].
 

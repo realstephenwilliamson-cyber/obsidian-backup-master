@@ -33,6 +33,11 @@ kalākāryaṃ bhoktṛbhāve tiṣṭhadbhoktṛtvapūritam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 176–180)
+> ![[Tantraloka Dyczkowski v06 07 - Chapter Nine, part 5#Viveka on 9.203]]
+>
+> ![[Tantraloka Dyczkowski v06 07 - Chapter Nine, part 5#Viveka on 9.203 (2)]]
+
 *Lead-in:* इत्यादिश्रीस्वच्छन्दशास्त्रस्थित्या कलावत् किं मायाया एव कार्यमुत न ? -- इत्याशङ्क्याह --
 
 > विद्या रागोऽथ नियतिः कालश्चैतच्चतुष्टयम् ।

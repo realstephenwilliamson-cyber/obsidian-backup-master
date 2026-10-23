@@ -31,6 +31,9 @@ tiṣṭhāsāyogyataunmukhyamīśvarecchāvaśācca tat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 123)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.143]]
+
 *Lead-in:* इत्यादौ क्षुब्धत्वं प्राक्प्रस्तावितं तत् किमुच्यते ? -- इत्याशङ्क्याह --
 
 > क्षोभोऽस्य लोलिकाख्यस्य सहकारितया स्फुटम् ।

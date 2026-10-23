@@ -34,6 +34,9 @@ liṅgapūjādikaṃ sarvamityupakramya śambhunā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 127–128)
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.106–108]]
+
 *Lead-in:* न चैतत् निष्प्रमाणकमित्याह --
 
 Jayaratha comments on this verse together with 4.105: see [[Tantraloka 04.105#Viveka|4.105]].

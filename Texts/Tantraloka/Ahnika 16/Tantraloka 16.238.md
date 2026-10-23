@@ -35,6 +35,9 @@ pāśajālaṃ vilīyeta tad dhyānabalato guroḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 104)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.238–239]]
+
 *Lead-in:* नन्वेवं शोधकस्य द्विविधेन न्यासेन किं स्यात् ?--इत्याशङ्कां गर्भीकृत्य फलाविशेषेऽपि प्रक्रियामात्रस्यैव वैचित्र्यम्--इत्याह--
 
 Jayaratha comments on this verse together with 16.239: see [[Tantraloka 16.239#Viveka|16.239]].

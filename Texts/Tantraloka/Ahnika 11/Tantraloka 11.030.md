@@ -34,5 +34,8 @@ sparśaḥ ko'pi sadā yasmai yoginaḥ spṛhayālavaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 29–32)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.29–31]]
+
 Jayaratha comments on this verse together with 11.31: see [[Tantraloka 11.031#Viveka|11.31]].
 

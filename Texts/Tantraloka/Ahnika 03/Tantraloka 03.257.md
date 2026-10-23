@@ -36,6 +36,11 @@ tā eva nirmalāḥ śuddhā aghorāḥ parikīrtitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 379–381)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.254–257]]
+>
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.257–259]]
+
 *Lead-in:* -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 3.256: see [[Tantraloka 03.256#Viveka|3.256]].

@@ -31,5 +31,8 @@ gomūtragomayadadhikṣīrājyaṃ mantrayenmukhaiḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 227–228)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.369–374]]
+
 Jayaratha comments on this verse together with 15.373: see [[Tantraloka 15.373#Viveka|15.373]].
 

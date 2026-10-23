@@ -32,6 +32,9 @@ añjaliṃ punarāpūrya teṣāṃ lāghavataḥ paṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 277–278)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.448–451]]
+
 > स्थण्डिले कुम्भकर्कर्योर्भागं भागं निवेदयेत् ॥
 > भागेनाग्नौ मन्त्रतृप्तिर्द्वयं शिष्यात्मनोरथ ।
 > इत्थं विहितकर्तव्यो विज्ञाप्येशं तदीरितः ॥

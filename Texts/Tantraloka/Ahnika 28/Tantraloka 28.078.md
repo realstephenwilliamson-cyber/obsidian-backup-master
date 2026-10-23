@@ -31,6 +31,9 @@ kāmanārthaṃ ca kartavyo mūrtiyāgaḥ sa pañcadhā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 43)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.76–78]]
+
 > पवित्रारोहणे श्राद्धे तथा पर्वदिनेष्वलम् ॥
 > सूर्यचन्द्रोपरागादौ लौकिकेष्वपि पर्वसु ।
 > उत्सवे च विवाहादौ विप्राणां यज्ञकर्मणि ॥

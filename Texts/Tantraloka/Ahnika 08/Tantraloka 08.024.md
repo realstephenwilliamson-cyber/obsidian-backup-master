@@ -36,5 +36,10 @@ daśa koṭyo vibhorjvālā tadardhaṃ śūnyamūrdhvataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 80–85)
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.23–24]]
+>
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.24–28]]
+
 Jayaratha comments on this verse together with 8.23: see [[Tantraloka 08.023#Viveka|8.23]].
 

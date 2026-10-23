@@ -35,6 +35,9 @@ yāmalasthitiyoge tu rudraśaktyavibhāgitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 447)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.247]]
+
 *Lead-in:* अत्र चोदये विशेषं दर्शयति --
 
 > शतमष्टोत्तरं तत्र रौद्रं शाक्तमथोत्तरम् ।

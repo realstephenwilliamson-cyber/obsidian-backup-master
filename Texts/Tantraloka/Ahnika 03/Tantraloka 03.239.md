@@ -36,6 +36,11 @@ tadasyāṃ nādarūpāyāṃ saṃvitsavidhavṛttitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 367–368)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.238–239]]
+>
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.239–240]]
+
 *Lead-in:* तदेवमत्र आसक्तिभाजां योगिनां सहसैव संविन्मयीभावो भवतीत्याह --
 
 > तदस्यां नादरूपायां संवित्सविधवृत्तितः ॥

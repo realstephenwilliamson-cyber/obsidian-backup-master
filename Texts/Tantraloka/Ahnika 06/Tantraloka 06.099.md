@@ -35,6 +35,9 @@ paraṃ prātipadaṃ cārdhamiti saṃdhiḥ sa kalpyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 324–325)
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.99]]
+
 *Lead-in:* ननु संधिर्ह्युभयोर्भवति, तत्कथमेकस्यैव प्राणीयस्य तृट्यर्धस्यासौ स्यात् ? -- इत्याशङ्क्याह --
 
 > तस्माद्विश्रमतुट्यर्धादामावस्यं पुरादलम् ।

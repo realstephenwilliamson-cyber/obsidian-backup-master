@@ -33,6 +33,11 @@ phalaṃ prakaṭatārthasya saṃvidveti dvayaṃ tataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 331–332)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.56–57]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.57–58]]
+
 > फलं प्रकटतार्थस्य संविद्वेति द्वयं ततः ॥
 > विपक्षतो रक्षितं च सन्धानं चापि तन्मिथः ।
 

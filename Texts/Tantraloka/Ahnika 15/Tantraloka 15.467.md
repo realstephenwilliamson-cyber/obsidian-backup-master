@@ -31,5 +31,8 @@ daśatantrātimārgajña ācāryaḥ sa vidhīyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 288–289)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.466–468]]
+
 Jayaratha comments on this verse together with 15.468: see [[Tantraloka 15.468#Viveka|15.468]].
 

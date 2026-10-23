@@ -31,6 +31,9 @@ chindyātpāśāṃstato yatnaṃ kuryāttanmayatāsthitau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 311–313)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.31–32]]
+
 > प्राप्ताभिषेकः स गुरुः षण्मासान्मन्त्रपद्धतिम् ।
 > सर्वां तन्त्रोदितां ध्यायेज्जपेच्चातन्मयत्वतः ॥
 > यदैव तन्मयीभूतस्तदा वीर्यमुपागतः ।

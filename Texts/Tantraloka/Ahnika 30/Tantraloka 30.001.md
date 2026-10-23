@@ -33,6 +33,11 @@ tāvadvimarśānārūḍhadhiyāṃ tatsiddhaye kramāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 1)
+> ![[Tantraloka Dyczkowski v11 02 - Chapter Thirty, part 1#Viveka on 30.1]]
+>
+> ![[Tantraloka Dyczkowski v11 02 - Chapter Thirty, part 1#Viveka on 30.1 (2)]]
+
 *Lead-in:* इदानीं द्वितीयार्धेन मन्त्रान् निरूपयितुमाह--
 
 > अथ यथोचितमन्त्रकदम्बकं त्रिककुलक्रमयोगि निरूप्यते ।

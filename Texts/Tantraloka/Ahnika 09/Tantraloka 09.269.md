@@ -31,6 +31,9 @@ tatkasyārthe prakalpyeyamindriyāṇāmaniṣṭhitiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 250)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.269]]
+
 *Lead-in:* तदाह -
 
 > तदेतद्व्यतिरिक्तं हि न कर्म क्वापि दृश्यते ।

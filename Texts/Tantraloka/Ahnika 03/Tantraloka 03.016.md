@@ -34,6 +34,9 @@ nyagbhūtaireva tadyuktaṃ vastu tatpratibimbitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 86–87)
+> ![[Tantraloka Dyczkowski v02 04 - Chapter Three, part 1#Viveka on 3.16]]
+
 *Lead-in:* अत आह—
 
 > रूपसंस्थानमात्रं तत्स्पर्शगन्धरसादिभिः ।

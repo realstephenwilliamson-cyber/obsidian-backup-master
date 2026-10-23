@@ -35,5 +35,8 @@ puṃstattva eva gandhāntaṃ sthitaṃ ṣoḍaśakaṃ punaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 296–298)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.288–291]]
+
 Jayaratha comments on this verse together with 8.291: see [[Tantraloka 08.291#Viveka|8.291]].
 

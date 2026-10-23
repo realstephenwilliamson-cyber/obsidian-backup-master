@@ -31,6 +31,9 @@ sacintācintakatvoktiretāvatsaṃbhavasthitim || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 134)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.311]]
+
 *Lead-in:* एतदेव संक्षेपेण व्याचष्टे--
 
 > अपि चेति ध्वनिर्जीवन्मुक्ततामस्य भाषते ।

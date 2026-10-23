@@ -34,6 +34,9 @@ tatrāstvasatyaḥ svātantrye sa eva tu vidhāyakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 333–334)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.236]]
+
 *Lead-in:* एवमपि यद्यस्य क्वचिन्मिथ्यार्थत्वं स्यात् तदापि न कश्चिद्दोषः, इत्याह --
 
 > अर्थवादोऽपि यत्रान्यविध्यादिमुखमीक्षते ।

@@ -37,6 +37,11 @@ khatattve bhuvanaṃ vyomnaḥ prāpyaṃ tadvyomadhāraṇāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 235–237)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 8.208–209.*
+>
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.208–209]]
+
 > ततस्तु तैजसं तत्त्वं शिवाग्नेरत्र संस्थितिः ।
 > ते चैनं वह्निमायान्ति वाह्नीं ये धारणां श्रिताः ॥
 > भैरवादिहरीन्द्वन्तं तैजसे नायकाष्टकम् ।

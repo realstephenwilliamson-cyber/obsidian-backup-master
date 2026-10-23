@@ -36,6 +36,11 @@ ta evonmeṣayoge'pi punastanmayatāṃ gate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 201–204)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.95–96]]
+>
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.96–97]]
+
 *Lead-in:* एवमनुत्तरानन्दयोरेकारेण सङ्घट्टे यथा परामर्शान्तरोदयः, तद्वदोकारेणापि -- इत्याह --
 
 > त एवोन्मेषयोगेऽपि पुनस्तन्मयतां गते ॥

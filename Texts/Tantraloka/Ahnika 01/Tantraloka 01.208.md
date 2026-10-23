@@ -34,6 +34,9 @@ bhairavatvaṃ viśvaśaktīrākṣipedvyāpakatvataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 386)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.208–209]]
+
 *Lead-in:* एतदेव प्रकृते योजयति --
 
 Jayaratha comments on this verse together with 1.209: see [[Tantraloka 01.209#Viveka|1.209]].

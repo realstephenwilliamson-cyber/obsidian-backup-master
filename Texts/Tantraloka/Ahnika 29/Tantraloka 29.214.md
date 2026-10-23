@@ -31,6 +31,9 @@ hṛccakre nyasyate mantro dvādaśasvarabhūṣitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 367–369)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.214–216]]
+
 *Lead-in:* अत्रैव इतिकर्तव्यतामाह--
 
 Jayaratha comments on this verse together with 29.216: see [[Tantraloka 29.216#Viveka|29.216]].

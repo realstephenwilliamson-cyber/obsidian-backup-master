@@ -33,6 +33,11 @@ etadevāntarāgūrya gururgītāsvabhāṣata || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 138–139)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.320–324]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.324]]
+
 *Lead-in:* शास्त्रान्तराण्यपि एवम्--इत्याह--
 
 > एतदेवान्तरागूर्य गुरुर्गीतास्वभाषत ॥

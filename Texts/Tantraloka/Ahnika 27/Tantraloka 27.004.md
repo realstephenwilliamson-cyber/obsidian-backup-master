@@ -31,6 +31,9 @@ bhogalāmpaṭyabhāgbhogavicchede nigrahātmakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 401)
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.4]]
+
 *Lead-in:* निमित्तान्तरमप्यत्रास्ति--इत्याह--
 
 > किञ्च चोक्तं समावेशपूर्णो भोक्त्रात्मकः शिवः ।

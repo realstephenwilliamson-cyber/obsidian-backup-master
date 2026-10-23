@@ -33,6 +33,11 @@ lokasthitiṃ racayituṃ madyādeḥ paśuśāsane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 106–107)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.169–170]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.170–171]]
+
 *Lead-in:* ननु यदि एवं तत् कथं श्रुतिस्मृत्यादौ मद्यादेरशुद्धत्वमुक्तम्?-- इत्याह--
 
 > लोकस्थितिं रचयितुं मद्यादेः पशुशासने ॥

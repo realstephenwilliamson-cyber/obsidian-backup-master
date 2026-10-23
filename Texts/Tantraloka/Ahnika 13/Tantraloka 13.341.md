@@ -31,6 +31,9 @@ jñānānyādāya vijñānaṃ kurvītākhaṇḍamaṇḍalam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 335–336)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.341–342]]
+
 *Lead-in:* ननु यद्येवं मितोऽपि ज्ञानी गुरुः कार्यः, तद्विज्ञानार्थिनः शिष्यस्य तत्परिपूर्तिः कुतः स्यात्? -- इत्याशङ्क्याह -
 
 > ज्ञानी न पूर्ण एवैको यदि ह्यंशांशिकाक्रमात् ।

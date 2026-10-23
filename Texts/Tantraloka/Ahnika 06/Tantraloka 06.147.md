@@ -35,6 +35,9 @@ dinarātrivibhāgaḥ syāt svasvāyuḥśatamānataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 368)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.147]]
+
 *Lead-in:* अव्यक्तान्तमपीयमेव व्यवस्था -- इत्याह --
 
 > अबाद्यव्यक्ततत्त्वान्तेष्वित्थं वर्षशतं क्रमात् ।

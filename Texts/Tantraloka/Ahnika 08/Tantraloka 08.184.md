@@ -35,6 +35,9 @@ aṇḍānāṃ kramaśo dvidviguṇaṃ rūpyādiyojitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 207–208)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.184–185]]
+
 *Lead-in:* अत्र चेयानन्यत्र विशेषः -- इत्याह --
 
 Jayaratha comments on this verse together with 8.185: see [[Tantraloka 08.185#Viveka|8.185]].

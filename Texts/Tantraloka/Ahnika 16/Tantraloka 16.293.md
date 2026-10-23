@@ -37,6 +37,11 @@ anenaitadapi proktaṃ yogī tattvaikyasiddhaye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 131–132)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.289–293]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.293–295]]
+
 *Lead-in:* तात्पर्यगत्या तु ग्रन्थकृदेव व्याख्यातुमाह--
 
 Jayaratha comments on this verse together with 16.292: see [[Tantraloka 16.292#Viveka|16.292]].

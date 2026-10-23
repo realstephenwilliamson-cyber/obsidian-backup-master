@@ -31,6 +31,9 @@ madhyasthapūrṇasundaraśaśadharadinakarakalaughasaṅghaṭṭāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 333–334)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.150–153]]
+
 > श्रीयोगसञ्चरेऽपि च मुद्रेयं योगिनीप्रिया परमा ॥
 > कोणत्रयान्तराश्रितनित्योन्मुखमण्डलच्छदे कमले ।
 > सततावियुतं नालं षोडशदलकमलकलितसन्मूलम् ॥

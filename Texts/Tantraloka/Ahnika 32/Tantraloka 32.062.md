@@ -31,6 +31,9 @@ aṣṭadhetthaṃ varṇitā śrībhargāṣṭakaśikhākule || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 165)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.54–62]]
+
 > सूपविष्टः पद्मके तु हसताग्रांगुलिरश्मिभिः ।
 > पराङ्मुखैर्झटित्युद्यद्रश्मिभिः पृष्ठसंस्थितैः ॥
 > अन्तःस्थितिः खेचरीयं सङ्कोचाख्या शशाङ्किनी ।

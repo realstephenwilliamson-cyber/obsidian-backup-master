@@ -31,6 +31,9 @@ asvāsthye dhātudoṣotthānyeva tadbhogamātrakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 122–123)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.281–282]]
+
 > यानि जातुचिदप्येव स्वास्थ्ये नोदमिषन्पुनः ।
 > अस्वास्थ्ये धातुदोषोत्थान्येव तद्भोगमात्रकम् ॥
 

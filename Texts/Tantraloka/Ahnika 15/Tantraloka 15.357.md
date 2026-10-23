@@ -31,6 +31,9 @@ tiṣṭhannatrārpayanviśvaṃ tarpayeddevatāgaṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 219–220)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.357–358]]
+
 > अग्नीशरक्षोवायवन्तदिक्षु विद्याङ्गपञ्चकम् ॥
 > शक्त्यङ्गानि शिवाङ्गानि तथैवात्र पुनर्द्वये ।
 > अस्त्रं न्यस्येच्चतुर्दिक्कं मध्ये लोचनसंज्ञकम् ॥

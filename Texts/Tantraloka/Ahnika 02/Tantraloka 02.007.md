@@ -34,6 +34,9 @@ nirupāyāmupāsīnāstadvidhiḥ praṇigadyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 15–16)
+> ![[Tantraloka Dyczkowski v02 02 - Chapter Two, part 1#Viveka on 2.7]]
+
 *Lead-in:* एवमेतत् प्रसंगादभिधाय प्रकृतमेवाह --
 
 > तत्र ये निर्मलात्मानो भैरवीयं स्वसंविदम् ।

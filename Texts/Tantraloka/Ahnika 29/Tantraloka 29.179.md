@@ -31,6 +31,9 @@ karandhrairviśatāpānacāndracakreṇa tarpaṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 349)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.179]]
+
 *Lead-in:* कथं च अत्र पूजनं कार्यम्--इत्याह--
 
 > प्राणाश्रितानां देवीनां ब्रह्मनासादिभेदिभिः ।

@@ -34,6 +34,9 @@ karaṇatvātprayātyeva kartari pralayaṃ sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 236–237)
+> ![[Tantraloka Dyczkowski v03 08 - Chapter Four, part 7#Viveka on 4.164]]
+
 *Lead-in:* एवं प्रमाणांशभक्षणप्रवणं देवीचतुष्टयं निरूपितम्, इदानीं प्रमात्रंशचर्वणाचतुरं देवीचतुष्टयं निरूपयति --
 
 > स एव परमादित्यः पूर्णकल्पस्त्रयोदशः ।

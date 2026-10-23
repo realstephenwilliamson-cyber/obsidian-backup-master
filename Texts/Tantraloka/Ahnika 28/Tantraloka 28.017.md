@@ -31,6 +31,9 @@ parvaśabdo niruktaśca parva tatpūraṇāditi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 12–13)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.15–18]]
+
 > तत्र पर्वविधिं ब्रूमो द्विधा पर्व कुलाकुलम् ।
 > कुलाष्टककृतं पूर्वं प्रोक्तं श्रीयोगसञ्चरे ॥
 > अब्धीन्दुमुनिरित्येतन्माहेश्या ब्रह्मसन्ततेः ।

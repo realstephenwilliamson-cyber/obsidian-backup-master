@@ -35,6 +35,9 @@ kasmād bhāti na vai saṃvid vicchedaṃ purato gatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 133–134)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.63]]
+
 *Lead-in:* तदाह --
 
 > अन्यथा संविदारूढा कान्ता विच्छेदयोगिनी ।

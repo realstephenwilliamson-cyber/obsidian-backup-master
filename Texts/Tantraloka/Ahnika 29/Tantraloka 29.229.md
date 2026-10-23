@@ -31,6 +31,9 @@ aṣṭāṣṭakena pūjyāste madhye prāgvat kuleśvarau |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 374–375)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.228–229]]
+
 > साधकस्य बुभुक्षोस्तु सम्यग्योगाभिषेचनम् ।
 > तत्रेष्ट्वा विभवैर्देवं हेमादिमयमव्रणम् ॥
 > दीपाष्टकं रक्तवर्तिसर्पिषापूर्य बोधयेत् ।

@@ -33,6 +33,11 @@ tasyāṃ hrāso vikalpasya sphuṭatā cāvikalpinaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 418–419)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.200]]
+>
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.200 (2)]]
+
 *Lead-in:* एवं पाञ्चदश्यमुपदिश्य, त्रायोदश्याद्यप्युपदिशति --
 
 > क्रमात्तु भेदन्यूनत्वे न्यूनता स्यात्तुटिष्वपि ।

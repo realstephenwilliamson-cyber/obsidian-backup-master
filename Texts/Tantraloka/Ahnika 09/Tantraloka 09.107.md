@@ -33,6 +33,11 @@ tathābhisaṃdhānākhyāṃ tu mānase karma saṃskriyām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 100–101)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.106–107]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.107–108]]
+
 *Lead-in:* नन्वेवं कर्मफलयोर्वैयधिकरण्यात् कृतनाशाकृताभ्यागमचोद्यं कथङ्कारं परानुद्यते ? -- इत्याशङ्क्याह --
 
 > तथाभिसंधानाख्यां तु मानसे कर्म संस्क्रियाम् ॥

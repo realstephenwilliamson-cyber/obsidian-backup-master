@@ -33,6 +33,11 @@ yastu tatrāpi dārḍhyena phalasaṃskāramujjhati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 100–102)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.107–108]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.108–109]]
+
 *Lead-in:* नन्वेवमभिसंधानमात्रायत्तत्वे कर्मफलयोः तद्व्यवस्थैव तुट्येत् यत् सर्व एवाफलाभिसन्धानेन यत्तत्कर्म कुर्वाणोऽपि न तत्फलभागी भवेदिति कृतं स्वर्निरयाभ्यामिति ? सत्यमेतत् -- यद्यत्र कश्चित् तीव्रमभिनिविष्टो भवेत् । तदाह --
 
 > यस्तु तत्रापि दार्ढ्येन फलसंस्कारमुज्झति ॥

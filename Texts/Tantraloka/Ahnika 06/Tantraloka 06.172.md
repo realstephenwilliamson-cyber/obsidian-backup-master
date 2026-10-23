@@ -35,6 +35,9 @@ tallayo vāntarastasmādekaḥ sṛṣṭilayeśitā |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 387–388)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.171–172]]
+
 > कालाग्निर्भुवि संहर्ता मायान्ते कालतत्त्वराट् ।
 > श्रीकण्ठो मूल एकत्र सृष्टिसंहारकारकः ॥
 > तल्लयो वान्तरस्तस्मादेकः सृष्टिलयेशिता ।

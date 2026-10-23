@@ -33,6 +33,11 @@ tenācidrūpadehādiprādhānyavinimajjakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 105–106)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.167–168]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.168–169]]
+
 *Lead-in:* अतश्च इदं सिद्धम्--इत्याह--
 
 > तेनाचिद्रूपदेहादिप्राधान्यविनिमज्जकम् ॥

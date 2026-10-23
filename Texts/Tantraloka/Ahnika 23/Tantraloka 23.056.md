@@ -31,5 +31,8 @@ ato vijñānaharaṇaṃ kathaṃ śrīpūrva ucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 322)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.56]]
+
 > अतो विज्ञानहरणं कथं श्रीपूर्व उच्यते ॥
 

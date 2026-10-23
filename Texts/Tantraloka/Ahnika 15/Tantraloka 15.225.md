@@ -33,6 +33,11 @@ itthaṃ svādhīnarūpāpi diksaurī tūpadiśyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 135–137)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.222–225]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.225–226]]
+
 *Lead-in:* ननु परमशिवात्प्रभृति सदाशिवादिक्रमेण तत्तदाश्रयावलम्बनादनियतरूपा दिगिति उक्तम्, तत् वयं पुनः कतरां तामाश्रयामहे ?--इति न जानीमः--इत्याशङ्क्य आह--
 
 > इत्थं स्वाधीनरूपापि दिक्सौरी तूपदिश्यते ॥

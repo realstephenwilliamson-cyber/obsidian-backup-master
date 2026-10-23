@@ -33,6 +33,11 @@ vijñānākalatāṃ prāptaḥ kevalādadhikārataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 293–295)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.274–275]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.275–276]]
+
 *Lead-in:* इति ॥ ननु भवतु नामैतत्, मायापुंविवेकज्ञस्य तु ज्ञानाकलतैव किं भवेदुत ततोऽपि विशेषः? -- इत्याशङ्क्याह --
 
 > विज्ञानाकलतां प्राप्तः केवलादधिकारतः ॥

@@ -34,5 +34,8 @@ prāyaścittāṃstathā tatsthā vāmācārasya dūṣakāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 91–93)
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.32–35]]
+
 Jayaratha comments on this verse together with 8.34: see [[Tantraloka 08.034#Viveka|8.34]].
 

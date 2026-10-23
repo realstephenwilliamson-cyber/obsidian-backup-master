@@ -36,6 +36,11 @@ svātantryāttu nijaṃ rūpam boddhṛdharmādavicyutam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 6–7)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.9–10]]
+>
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.10–12]]
+
 *Lead-in:* ननु यद्येवं तत् शर्वक्रियाणां कर्ता शिवो विज्ञेयः"इत्युपदेशादौ कथमसौ कलनीयतां यायात् ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 11.9: see [[Tantraloka 11.009#Viveka|11.9]].

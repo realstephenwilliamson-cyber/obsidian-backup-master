@@ -36,6 +36,11 @@ na cānavasthā hyevaṃ syād dṛśyatāṃ hi mahātmabhiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 15–17)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.22–23]]
+>
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.23–24]]
+
 *Lead-in:* नन्वेवं तस्यापि वेद्यत्वपरिकल्पनेऽन्यः प्रमाता कल्पनीयस्तस्याप्यन्य इत्यनवस्था स्यात् ? -- इत्याशङ्क्याह -
 
 > न चानवस्था ह्येवं स्याद् दृश्यतां हि महात्मभिः ॥

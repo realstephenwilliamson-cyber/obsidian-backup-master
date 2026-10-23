@@ -34,6 +34,9 @@ viśvabījādataḥ sarvaṃ bāhyaṃ bimbaṃ vivartsyati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 193–194)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.89]]
+
 *Lead-in:* एवमेतत्पदार्थद्वारेण व्याख्याय तात्पर्यमुखेनाप्यभिधत्ते --
 
 > ततस्तदान्तरं ज्ञेयं भिन्नकल्पत्वमिच्छति ।

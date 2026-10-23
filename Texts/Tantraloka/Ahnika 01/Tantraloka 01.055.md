@@ -34,6 +34,9 @@ teṣāmapi paro jīvaḥ sa eva parameśvaraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 180–183)
+> ![[Tantraloka Dyczkowski v01 06 - Chapter One, part 5#Viveka on 1.55]]
+
 *Lead-in:* न केवलमेतत्सिद्धौ प्रमाणानामनुपयोगो यावत्प्रत्युत एषां तदधीना सिद्धिः -- इत्याह --
 
 > प्रमाणान्यपि वस्तूनां जीवितं यानि तन्वते ।

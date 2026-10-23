@@ -31,6 +31,9 @@ ityuktyā mālinīśāstre tatsarvaṃ prakaṭīkṛtam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 13–14)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.17]]
+
 *Lead-in:* तच्चास्य ज्ञानं सर्वविषयमागमेषूक्तम्--इत्याह--
 
 > आत्मने वा परेभ्यो वा हितार्थी चेतयेदिदम् ।

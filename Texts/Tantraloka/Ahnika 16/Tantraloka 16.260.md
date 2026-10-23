@@ -37,6 +37,11 @@ yastathāvidhasañjalpabalātko'pi svatantrakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 113–114)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.259–260]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.260–261]]
+
 *Lead-in:* एवं च तन्माहात्म्योपनतो यः कश्चन वैकल्पिको व्यवहारः, सोऽपि ध्रुवं तदात्मैव--इत्याह--
 
 > यस्तथाविधसञ्जल्पबलात्कोऽपि स्वतन्त्रकः ॥

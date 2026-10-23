@@ -33,6 +33,11 @@ ekonatriṃśadvaṃśāḥ syurṛjutiryaggatāstathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 120)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.132–133]]
+>
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.133]]
+
 *Lead-in:* एवञ्च किं स्यात्?--इत्याह--
 
 > एकोनत्रिंशद्वंशाः स्युरृजुतिर्यग्गतास्तथा ॥

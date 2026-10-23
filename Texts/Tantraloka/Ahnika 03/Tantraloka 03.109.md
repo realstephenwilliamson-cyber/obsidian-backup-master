@@ -35,6 +35,9 @@ brāhmyādirūpasaṃbhedādyātyaṣṭāṣṭakatāṃ sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 213–215)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.109]]
+
 *Lead-in:* अथैतदेव प्रमेयान्तरावापेन उपसंहरति --
 
 > इत्थं परामृतपदादारभ्याष्टकमीदृशम् ।

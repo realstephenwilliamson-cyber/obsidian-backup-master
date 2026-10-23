@@ -35,6 +35,9 @@ mantrābhyāsena bhogaṃ vā mokṣaṃ vāpi prasādhayan || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 131–132)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.293–295]]
+
 > अनेनैतदपि प्रोक्तं योगी तत्त्वैक्यसिद्धये ॥
 > मन्त्रमेवाश्रयेन्मूलं निर्विकल्पान्तमादृतः ।
 > मन्त्राभ्यासेन भोगं वा मोक्षं वापि प्रसाधयन् ॥

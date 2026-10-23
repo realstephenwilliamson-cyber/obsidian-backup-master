@@ -34,6 +34,9 @@ rūḍheryogāntatāṃ prāptamiti śrīgamaśāsane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 319–320)
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.150]]
+
 *Lead-in:* ननु ज्ञानमेव उपायः इति सामान्येन प्रतिज्ञातम्, तत्कथमाणवे क्रियोपायत्वमुक्तम् ? इत्याशङ्क्याह—
 
 > यतो नान्या क्रिया नाम ज्ञानमेव हि तत्तथा ।

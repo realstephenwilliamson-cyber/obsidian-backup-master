@@ -35,6 +35,9 @@ visargāntapadātītaṃ prāntakoṭinirūpitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 110–111)
+> ![[Tantraloka Dyczkowski v04 05 - Chapter Five, part 3#Viveka on 5.87]]
+
 *Lead-in:* किं तत् ? -- इत्याशङ्क्याह --
 
 > मध्यनाड्योर्ध्वगमनं तद्धर्मप्राप्तिलक्षणम् ।

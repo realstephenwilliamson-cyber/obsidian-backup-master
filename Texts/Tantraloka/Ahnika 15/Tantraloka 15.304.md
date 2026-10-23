@@ -31,5 +31,10 @@ vidyāpadme'tra taccoktamapi prāgdarśyate punaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 181–182)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 15.307.*
+>
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.307]]
+
 Jayaratha comments on this verse together with 15.307: see [[Tantraloka 15.307#Viveka|15.307]].
 

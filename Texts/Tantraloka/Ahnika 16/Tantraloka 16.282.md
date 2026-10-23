@@ -35,6 +35,9 @@ akṛtrimavimarśātma sphuredvastvavikalpakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 126)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.282]]
+
 *Lead-in:* एतदेवोपसंहारभङ्ग्या प्रतिपादयति--
 
 > एवं सञ्जल्पनिर्ह्रासे सुपरिस्फुटतात्मकम् ।

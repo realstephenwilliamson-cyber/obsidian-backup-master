@@ -31,6 +31,9 @@ cikīrṣurdeha evādau bhūyastaṃ mukhyato'rpayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 221–222)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.360]]
+
 > नाभिहृत्कण्ठतालूर्ध्वकुण्डे ज्वलनवत्स्मरन् ।
 > मन्त्रचक्रं तत्र विश्वं ज्वह्वन्संपादयेद्धुतिम् ॥
 > दीक्षाकर्मणि कर्तव्ये दीक्षां येनाध्वना गुरुः ।

@@ -31,6 +31,9 @@ tadeva karmaṇāṃ svasminkartavye sahakāraṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 137–138)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.24]]
+
 *Lead-in:* एवं प्रसज्यप्रतिषेधपक्षं प्रतिक्षिप्य पर्युदासमुपक्षिपति --
 
 > अथाज्ञानं नह्यभावो मिथ्याज्ञानं तु तन्मतम् ।

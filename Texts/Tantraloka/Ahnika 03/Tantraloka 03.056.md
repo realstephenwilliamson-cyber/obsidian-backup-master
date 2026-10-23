@@ -38,6 +38,9 @@ pratibimbamiti prāhurdarpaṇe vadanaṃ yathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 128–129)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.56]]
+
 *Lead-in:* नन्वेवमपि प्रतिबिम्बस्य लक्षणं न किञ्चिदुक्तं स्यात् ? -- इत्याशङ्कां प्रदर्श्य तल्लक्षणमेवाह --
 
 > नन्वित्थं प्रतिबिम्बस्य लक्षणं किं तदुच्यते ।

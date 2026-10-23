@@ -31,6 +31,9 @@ na vidhiḥ pūrṇatāṃ yāti kuryādyatnena taṃ tataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 408–409)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.284–285]]
+
 *Lead-in:* अत्रैव पूर्णतानिमित्तमितिकर्तव्यतान्तरमपि आह--
 
 > परेऽहनि गुरोः कार्यो यागस्तेन विना यतः ।

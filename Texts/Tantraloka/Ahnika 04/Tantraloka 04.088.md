@@ -34,6 +34,9 @@ prāṇāyāmāśca ye sarvametadbāhyavijṛmbhitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 104–105)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.87–88]]
+
 > अहिंसा सत्यमस्तेयब्रह्मचर्यापरिग्रहाः ।
 > इति पञ्च यमाः साक्षात्संवित्तौ नोपयोगिनः ॥
 > तपः प्रभृतयो ये च नियमा यत्तथासनम् ।

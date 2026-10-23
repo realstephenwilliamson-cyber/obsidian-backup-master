@@ -31,6 +31,9 @@ saṃhāradānādānādiśaktiyuktā yato ralau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 87–89)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.130–133]]
+
 > शब्दराशेर्भैरवस्य याऽनुच्छूनतयान्तरी ॥
 > सा मातेव भविष्यत्त्वात्तेनासौ मातृकोदिता ।
 > मालिनी मालिता रुद्रैर्धारिका सिद्धिमोक्षयोः ॥

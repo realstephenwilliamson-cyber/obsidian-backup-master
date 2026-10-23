@@ -33,6 +33,11 @@ pūraṇaṃ śaktiyogena śaktyātma ca sitaṃ dalam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 68–70)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.127–129]]
+>
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.129–130]]
+
 *Lead-in:* इत्याद्युक्त्या कृष्णपक्षेऽपि अयं विधिः कर्तव्यत्वेनोक्तः, तत्कथमिहान्यथोक्तम् ?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 28.128: see [[Tantraloka 28.128#Viveka|28.128]].

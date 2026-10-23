@@ -35,6 +35,9 @@ meṣaṃ prāpte ravau puṇyaṃ viṣuvatpāralaukikam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 342–344)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.115]]
+
 *Lead-in:* अत्रैव विषुवत्सङ्क्रान्तिं दर्शयति --
 
 > संक्रान्तित्रितये वृत्ते भुंक्ते चाष्टादशाङ्गुले ।

@@ -37,6 +37,11 @@ aṇḍasvarūpaṃ gurubhiścoktaṃ śrīrauravādiṣu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 194–198)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.167–168]]
+>
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.168–170]]
+
 *Lead-in:* ननु अण्डं नाम किमुच्यते यदपि ब्रह्मसम्बन्धि स्यात् ? -- इत्याशङ्क्याह --
 
 > अण्डस्वरूपं गुरुभिश्चोक्तं श्रीरौरवादिषु ॥

@@ -35,6 +35,9 @@ kāmatattvamiti śrīmatkulaguhvara ucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 256)
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.146]]
+
 *Lead-in:* एवमस्य विसर्जक्रियाकर्तृत्वादेव व्यपदेशान्तरमप्यन्यत्रास्ति -- इत्याह --
 
 > अत एव विसर्गोऽयमव्यक्तहकलात्मकः ।

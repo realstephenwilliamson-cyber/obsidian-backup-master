@@ -35,5 +35,8 @@ tanmātrārkenduśrutipurāṣṭakaṃ buddhikarmadevānām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 379)
+> ![[Tantraloka Dyczkowski v05 11 - Chapter Eight, part 9#Viveka on 8.413–414]]
+
 Jayaratha comments on this verse together with 8.416: see [[Tantraloka 08.416#Viveka|8.416]].
 

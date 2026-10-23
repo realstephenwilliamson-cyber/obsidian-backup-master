@@ -33,6 +33,11 @@ nānyatragatyā mokṣo'sti so'jñānagranthikartanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 73–74)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.107–108]]
+>
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.108–109]]
+
 *Lead-in:* ननु तत्रापि पीठादिगमनेन सौकर्यं किं न स्यात्?--इत्याशङ्क्य आह--
 
 > नान्यत्रगत्या मोक्षोऽस्ति सोऽज्ञानग्रन्थिकर्तनात् ॥

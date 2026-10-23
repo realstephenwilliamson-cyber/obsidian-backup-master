@@ -33,6 +33,11 @@ avāntare yā ca sṛṣṭiḥ sthitiścātrāpyayantritam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 347–348)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.3–4]]
+>
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.4–5]]
+
 *Lead-in:* न केवलमत्रास्य नियतित्यागो यावदवान्तरसर्गादावपि -- इत्याह --
 
 > अवान्तरे या च सृष्टिः स्थितिश्चात्राप्ययन्त्रितम् ॥

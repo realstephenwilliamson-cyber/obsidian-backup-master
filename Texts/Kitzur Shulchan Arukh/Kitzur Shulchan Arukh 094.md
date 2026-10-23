@@ -1,0 +1,150 @@
+---
+type: "text"
+work: "Kitzur Shulchan Arukh"
+translation: "Kitzur Shulchan Aruch, trans. Rabbi Avrohom Davis, Metsudah Pub., 1996"
+translator:
+  - "Avrohom Davis"
+license: "CC-BY"
+source: "https://www.sefaria.org/Kitzur_Shulchan_Arukh.94?ven=Kitzur_Shulchan_Aruch%2C_trans._Rabbi_Avrohom_Davis%2C_Metsudah_Pub.%2C_1996&lang=en"
+aliases:
+  - "Kitzur Shulchan Arukh 94"
+  - "Kitzur Shulchan Aruch 94"
+  - "KSA 94"
+chapter: 94
+---
+# Kitzur Shulchan Arukh 094
+
+← [[Kitzur Shulchan Arukh 093]] · [[Kitzur Shulchan Arukh]] · [[Kitzur Shulchan Arukh 095]] →
+
+*Chapter 94* · [[Kitzur Shulchan Arukh]]
+
+**1.** Introductory Remarks to Chapter 94  
+Houses usually were arranged in this fashion with endless variations:Throughout these *halachos*, when reference is made to people living in a courtyard, it means people living in the houses that open to the courtyard. In order to carry from the houses into the courtyard, all residents had to join in making an eiruv. This is a rabbinical ordinance instituted by King Solomon and his Court. Sometimes courtyards were adjoining each other, having only one exit to the street, (as illustrated):and sometimes each courtyard had its own exit to the street. There are *halachos* of *eiruv* pertaining to such situations. When the *halachah* refers to an alley, it denotes an area into which two or more courtyards exit. See illustration.In order to carry in the alley, many requirements must be fulfilled. The *halachos* are complex and not discussed in the *Kitzur Shulchan Aruch*. However, mention is made of partnership in the alley. This is achieved when all the inhabitants of the courtyard that exit into the alley jointly make a special eiruv, the details of which are not discussed in the *Kitzur Shulchan Aruch*, but at times will be referred to in the footnotes.  
+Two or more Jews who reside in one courtyard, each living in his own apartment, are forbidden to carry[^1] from the house into the courtyard, or from the courtyard into the house. It is also forbidden to carry from[^2] one house into the other, even without passing through the courtyard, as for example, when there is a door or a window between one house and the other house.[^3] It is a mitzvah for them to make an *eiruvei chatzeiros*, so that they do not fall into transgression.[^4] ^94-1
+
+**2.** When two courtyards have a door between them, if they wish, all the tenants of each courtyard may make a separate *eiruv*, whereby all the tenants of the courtyard are permitted to carry into their own courtyard; but any vessels that were in the house before Shabbos began,[^5] are forbidden to be carried from one courtyard into the other.[^6] If they wish, all the tenants of both courtyards can make one *eiruv* jointly, in order that they should be allowed to carry, from one courtyard into the other, even such vessels that were in the house when Shabbos began. And if there is even a window between the courtyards that measures no less than four *tefachim* wide by four *tefachim* high,[^7] and it is within ten[^8] *tefachim* above the ground, and it has no grate,[^9] [the tenants of both courtyards] may also make a joint *eiruv*. But if it is less than that, they cannot make a joint *eiruv*. If there is a window between two houses, even if it is higher than ten *tefachim*, they can make a joint *eiruv*, (because the house is considered as filled).[^10] ^94-2
+
+**3.** [If there are] two courtyards, one behind the other, and the tenants of the inner courtyard have no other exit to the street than through the outer courtyard, if [the tenants of both courts] wish to do so, they may make a joint *eiruv*. If they did not make a joint *eiruv*, then if the tenants of the inner court alone made an *eiruv*, they are permitted to carry in their own court and the tenants of the outer court are forbidden[^11] [to carry]. If the tenants of the inner court did not make an *eiruv*, but the tenants of the outer court alone made an *eiruv*, then the *eiruv* is of no use to them, because, since the tenants of the inner court have a right of passage through the outer court, they prohibit the tenants of the outer court [from carrying in their own court]. This is true only if the people of the inner court did not make an *eiruv*. For then, since they forbid one another [to carry] in their own place (court), it is "a foot (referring to the person) which is forbidden [to carry] in its own place," and a "foot forbidden in its place" forbids [others] also in another place. But if they made an *eiruv* by themselves, and they are allowed to carry in their own court, then it constitutes "a foot permitted [to carry] in its own place," and they do not forbid carrying even to the tenants of the outer court. Consequently, if there is only one Jewish tenant in the inner court, since he is not forbidden to carry in his own court, he cannot cause a prohibition to be imposed [on the tenants of the outer court]. If two tenants live in the inner court and they did not make an *eiruv*, even though only one tenant lives in the outer court, since they are "a foot forbidden in its own place," they also forbid the single tenant.[^12] ^94-3
+
+**4.** When houses are built with a second story, and a balcony in front of them, from which the tenants go into the courtyard through a stairway, and from the courtyard into the public domain, they are govorned by the same [laws] that apply to two courts, one behind the other, and the balcony is considered as the inner court.[^13] ^94-4
+
+**5.** A house that has two apartments with a lobby through which you enter both apartments, and the apartments are occupied by two tenants, they are forbidden to carry anything even from their apartments into the lobby. Similarly, even if one apartment is divided into two rooms occupied by two tenants, even though the occupant of the inner room has no other exit than through the outer room, which leads into the courtyard, nevertheless, they may not carry anything, even from one room into the other until they make an *eiruv*. (If the two houses or apartments belong to one person, and he rented an apartment to someone, and he also has "a hold[^14] on the apartment,"[^15] see *Shulchan Aruch* 370 and *Chayei Adam* 73: 3–4.) ^94-5
+
+**6.** How do you make an *eiruv?* The mitzvah done to perfection is for one of the tenants of the courtyard, to take one whole loaf[^16] of his own bread on *erev Shabbos* and confer a share of it, through another person, to all the tenants of that court. This is done by saying to that other person, in any language he understands, as follows: "Take this loaf and acquire it on behalf of all the Jews who live in this courtyard, (or in these courtyards)." This person then takes the loaf and raises it one *tefach*.[^17] Then the one who is making the *eiruv* takes it from him and[^18] recites the *berachah, Baruch atah Adonai Elokeinu melech ha'olam asher kiddeshanu bemitzvosav vetzivanu al mitzvas eiruv*.[^19] ["Blessed are You, Hashem, our God, King of the Universe, Who sanctified us with His commandments and commanded us concerning the mitzvah of *eiruv*]." He then says, "By means of this *eiruv* it will be permissible for us to take out and to bring in from the houses into the courtyard and from the courtyard into the houses and from one house into another, for all the Jews who live in the houses of the courtyard."[^20] Since they all acquired a share in this loaf, and at the beginning of Shabbos it is in the house[^21] of the one who made the *eiruv*, it is considered as if all the tenants were living in this house, and therefore they are permitted to carry from the houses into the courtyard, and from the courtyard into the houses, and also in the entire courtyard. ^94-6
+
+**7.** It is essential [that the maker of the *eiruv*] should grant them ownership only through a third party, therefore, he may not grant ownership through his son or daughter who are minors,[^22] even if they do not eat at his table, because their hand is considered an extension of his own hand.[^23] But through another minor he may grant ownership rights, (for regarding Rabbinical ordinances, a minor can acquire rights for another person);[^24] and, if possible, he should not grant ownership through his wife whom he supports, and not through his son or daughter who are *bar* or *bas mitzvah* who eat at his table [i.e. supported by him], for according to some authorities, they too are considered as an extension of his hand.[^25] However, if there is no other person present, he may grant it through them. If his son is married, although he is supported by his father, all authorities agree that the father may grant ownership rights through him.[^26] ^94-7
+
+**8.** What is the amount (of bread) required for the *eiruv?* If there are eighteen tenants or less, the amount is the size of a dried fig (which is one third of an egg) for each tenant, except for the one who makes the *eiruv* and keeps it in his house, (for he is not required to give bread [to establish his residence] since he already lives in his house). If there are more than eighteen tenants, even if there are one thousand, the size of the *eiruv* is an amount of food enough for two meals, which is [a loaf of bread] the size of eighteen dried figs, which is equivalent to six eggs.[^27] Some authorities hold that it is the equivalent of eight eggs.[^28] (According to their opinion a dried fig is equivalent to 1/3 and 1/9 of an egg.) ^94-8
+
+**9.** It is essential [that the one making the *eiruv*] should not resent it if a neighbor[^29] eats it.[^30] If he does resent it, it is not a valid *eiruv*. He should, therefore, be careful not to make the *eiruv* with food he prepared for Shabbos. ^94-9
+
+**10.** The *eiruv* must be placed where it is accessible to every tenant at twilight on *erev Shabbos*. Therefore, if there was a dead person there, or in an adjacent apartment and one of the tenants is a *kohein*, who is therefore unable to enter the place where the *eiruv* is at twilight, the *eiruv* is void.[^31] ^94-10
+
+**11.** The *eiruv* should be made every *erev Shabbos*,[^32] and on Shabbos, *Hamotzi* should be said over it,[^33] [and it should be eaten], as stated in Chapter 102:2 below, (for it has to be on hand) only at the beginning of Shabbos). But if you are afraid that you might in the future forget [to make an *eiruv*], you may make an *eiruv* with one loaf of bread for all the Shabbosos until Pesach, and [in this case], when you say: "By means of this *eiruv* etc." you should conclude: "For all the Shabbosos until Pesach which will come to us for goodness." And [in this case] it is necessary that the loaf is thin and well baked, so that it will not become spoiled. For the Shabbos during Pesach you must make the *eiruv* with matzoh that is kosher for Pesach. ^94-11
+
+**12.** You may not make an *eiruv chatzeiros* on Yom Tov.[^34] Thus, if a Yom Tov occurs on *erev Shabbos*, you must make the *eiruv* on *erev Yom Tov* [Thursday]. ^94-12
+
+**13.** If a person eats in one place, and sleeps in another place, the place where he eats is his legal residence[^35] as far as the laws of *eiruv* are concerned. It is there that he prohibits [the other tenants from carrying if they were not included in the *eiruv*] if he eats his own food there, in a special room. But in the place where he sleeps he does not prohibit [the other tenants to carry]. ^94-13
+
+**14.** Regarding a visiting guest in a court, some authorities hold,[^36] that even if he stays in a house by himself, as long as he does not stay there permanently, but for thirty days or less,[^37] [^38] he does not prohibit the tenants of the court [to carry]. Therefore all of them are permitted to carry either from the tenants' houses, or from the house of the guest; even if there are many guests [in the courtyard] and only one tenant. This is true only if there is [at least] one permanent tenant, even if he is a non-Jew,[^39] for then the guests become subordinate to him. But when all [the people in the court] are guests, they do prohibit one another from carrying,[^40] if each one eats in a special room for himself. If there is a non-Jew among them they must rent his residence from him as will be discussed below. Some authorities say[^41] that there is no difference between a guest and a tenant; thus, as long as [the guest] has a special room where he eats, his status is the same as that of a tenant. It is proper to follow the stricter view initially,[^42] and they should make an *eiruv* without reciting the *berachah*. But when it is done already, the first opinion may be relied upon. ^94-14
+
+**15.** When a Jew lives with a non-Jew in the same courtyard, the non-Jew does not prohibit [the Jew to carry], and he is allowed to carry from the house into the courtyard and from the courtyard into the house. Even if there are two or more Jews, but they live there under such conditions that they do not need an *eiruv*, as explained in paragraph 13 above, then the non-Jew does not prohibit them [to carry]. But if there are two or more Jews [living there] who are required to make an *eiruv*, and a non-Jew also lives there, he prohibits them [to carry],[^43] and they cannot make an *eiruv* until they rent the premises. If two or more non-Jews live there, they must rent [the premises] from each of them.[^44] ^94-15
+
+**16.** Even if the non-Jew lives in another courtyard but he has no exit to the street other than through the court where the Jews live, or if he lives in the attic and the stairway leads to the courtyard, he also prohibits them [to carry].[^45] ^94-16
+
+**17.** If a courtyard belongs to a Jew, but he rented or lent an apartment to a non-Jew, [the non-Jew] does not prohibit [the Jewish residents from carrying], because [the Jew] did not rent or lend it to [the non-Jew] with the power to prohibit the Jewish residents [from carrying],[^46] even if the owner of the courtyard himself does not live there.[^47] ^94-17
+
+**18.** How do you rent [the premises from a non-Jew]? The Jew says to the [non-Jew] "Rent me your premises for so and so much money," and he does not have to explain to him that it is in order to make carrying[^48] permissible. However, if he says to him "Give me permission," even though he explains to him, "in order that I may be permitted to carry in the courtyard," it is not valid.[^49] ^94-18
+
+**19.** You may rent [the premises] even from the [non-Jew's] wife[^50] and even from his servant. ^94-19
+
+**20.** If you rented the premises without specifying any definite period of time, it remains valid as long as the non-Jew does not change[^51] his mind, and he still lives there. However, if the non-Jew moves away from there and another non-Jew moves in, you must renew the rental agreement with the second [non-Jew]. If you rented [the premises] for a specific time, and during that time the non-Jew rented his apartment to another non-Jew, then the original rental agreement is sufficient.[^52] But if the non-Jew died or he sold it to another non-Jew during this time, you must rent it again from the heir or from the buyer.[^53] And if you rented it from his servant, if you rented it without specifying a time, it is valid only as long as the servant is there. But if you rented it for a certain length of time, then even if the servant left, the lease remains in force until that time expires.[^54] ^94-20
+
+**21.** Whenever a rental [from a non-Jew] expires and you have to make a new lease, you also have to make a new *eiruv*; for an *eiruv* is not automatically[^55] renewed. ^94-21
+
+**22.** If it is impossible to rent the premises[^56] from [the non-Jew], one of the Jews[^57] should ask him to lend him a special place on his premises,[^58] to place an object there. And he should then put the object there and through this, the Jew acquires that place. Even if he removed the article from there before Shabbos,[^59] nevertheless, since the Jew had the right to leave that object there on Shabbos, it is considered as if he had a share in the apartment. This Jew may then rent the premises[^60] to all the residents of the courtyard. ^94-22
+
+**23.** An apostate or a person who publicly desecrates the Shabbos[^61] [^62] (according to some authorities, even if it is only a Rabbinic prohibition),[^63] is considered as a non-Jew, and you must rent his premises from him. ^94-23
+
+**24.** In many communities they equip all alleyways and streets with an *eiruv* (by installing the form of a door[^64] [*tzuras hapesach*] or something similar), and they rent the property rights from the non-Jews,[^65] in order to be able to carry throughout the city. It is essential that all the procedures are performed by a Rav who is an expert, and well versed [in these *halachos*]. In these communities it is customary to place the *eiruv* in the synagogue, (because the laws of partnership apply to it, and it is not necessary [to place it] specifically in a dwelling).[^66] ^94-24
+
+**25.** In communities, however, where the city is not equipped with an *eiruv*, then, even when they make *eiruvei chatzeiros* for the residents of the courtyard in which the synagogue [is located], it is forbidden to put the *eiruv* in the synagogue, but it must be put in one of the dwellings.[^67] ^94-25
+
+**26.** If a city-wide *eiruv* became defective on Shabbos, the residents of every courtyard that is properly [surrounded with partitions] in which there is no break [large enough] to make [carrying there] forbidden,[^68]—even if that courtyard contains many houses—are permitted to carry there the entire Shabbos. Even if the *eiruv* is deposited in another premise which is now separated from this courtyard, nevertheless, they are permitted [to carry], because regarding this, we say, "Once it was permitted on that Shabbos, it continues to be permitted."[^69] [^70] However, since there is strong reason to be concerned that many people will fall into error and carry [by mistake], even in places where it is now forbidden to do so, since they are accustomed to carrying legally; therefore, if it is possible to have it repaired by a non-Jew, it may be done.[^71] If the string of the "form of the door" was torn, and it is possible for a non-Jew to repair it with a loop, or by making one knot and a loop over it, so much the better. ^94-26
+
+**27.** If a Yom Tov occurs on *erev Shabbos* and the *eiruv* became defective,[^72] even though the *eiruv* serves a need also on Yom Tov [of permitting you to carry] articles you do not need [on Yom Tov], still we do not say that since it was permitted on Yom Tov[^73] it should also be permitted on Shabbos, because Yom Tov and Shabbos have two [distinctly different] characters of holiness.[^74] ^94-27
+
+[^1]: This is a Rabbinic decree enacted by King Solomon and his Court for fear that a person will carry out from a private domain to a public domain. [*Tur* 366] See *Maseches Eiruvin* 21a; *Rambam, Eiruvin* 1: 2 and *Bach* 366—*Rav Hai Gaon*.
+[^2]: A common application of this rule is that it is forbidden to carry from your apartment into the hall of the apartment building if there is another Jew living in that building, unless you make an *eiruv chatzeiros*.
+[^3]: Even through a non-Jew except for a *mitzvah* or for indispensable Shabbos needs. [*Avkas Rochel* (29)]
+[^4]: I.e. of carrying from a private domain to a public domain.
+[^5]: But vessels that were in the court at the beginning of Shabbos may be carried from one court into the other. [*Mishnah Berurah* 372: 13]
+[^6]: If you did take out an article from a house to the court without an *eiruv* you may not move the article four *amos* in the court. See *Mishnah Berurah* 372: 16 and *Biur Halachah*.
+[^7]: Four by four square. If the window is round it must be large enough so that a four by four [*tefachim*] square can be inscribed in it. That puts the diameter of the window at 5 3/5 *tefachim*. See *Sha’ar Hatziyun* 372: 18—*Rambam* etc.
+[^8]: Part of it has to be within ten *tefachim*. That part must be four *tefachim* wide. [*Shulchan Aruch* 372: 4, *Eliyahu Rabbah, Mishnah Berurah*]
+[^9]: *Rema* 372: 5. There must be an unobstructed empty space of four by four *tefachim*. [*Mishnah Berurah*— *Acharonim*]
+[^10]: And thus the window is not considered to be ten *tefachim* high. [*Mishnah Berurah* 372: 34]
+[^11]: Because they did not make an *eiruv*.
+[^12]: *Shulchan Aruch* 378.
+[^13]: *Shulchan Aruch* 375: 1. This is true only if the balcony is ten *tefachim* higher than the yard. If not, they are considered as one court and no separate *eiruv* can be made for each.
+[^14]: *Tefisas yad*, “having a hold on the apartment,” means that the landlord stored articles in the apartment that are either too heavy to move or forbidden to be moved on Shabbos because they are *muktzeh*. See *Shulchan Aruch*, 370: 2.
+[^15]: Having a hold on the apartment gives the occupant the *halachah* of a guest which is discussed in paragraph 14.
+[^16]: Bread is required because *eiruvei chatzeiros* makes the place of the *eiruv* your place of dwelling. Only bread will serve this purpose. [*Mishnah Berurah* 386: 3] You may not make an *eiruv chatzeiros* with a piece of bread, even a large one; you must use a whole one. [*Shulchan Aruch* 366: 6]
+[^17]: *Shulchan Aruch* 366: 9 and *Mishnah Berurah* 366: 51.
+[^18]: See *Bi’ur Halachah*.
+[^19]: Even if he did not say the *berachah*, the *eiruv* is valid and carrying is permitted. [*Shulchan Aruch* 366: 15]
+[^20]: Even if he did not say this, it also becomes a valid *eiruv* (see *Shulchan Aruch Harav* 366) but if he said only part of it and not all of it the *Peri Megadim* (M.Z. 366: 7) says that it may not be a valid *eiruv*.
+[^21]: The place where it is must be no less than four *amos* by four *amos*. If it is in a room of less than four by four, but the apartment is large enough, it is questionable if it is valid. [*Shemiras Shabbos Kehilchasah—Rabbi S. Z. Auerbach zatzal*].
+[^22]: *Rambam*. However, the *Mishnah Berurah* 366: 69 says you can be *meikil* here if necessary.
+[^23]: Therefore they are not making the acquisition, for it is as though he himself were picking up his own bread.
+[^24]: See *Maseches Gittin* 64b, *Rambam, Eruvin* 1: 20.
+[^25]: Since, according to *halachah*, anything they find belongs to him.
+[^26]: *Rema* 366: 10.
+[^27]: *Rambam*.
+[^28]: *Tur*. It is best to use this amount, but if you make it the size of six eggs it is also a valid *eiruv*. [*Gra, Chayei Adam, Mishnah Berurah* 368: 12] The egg size includes the shell. [*Peri Megadim, Mishnah Berurah* 368: 11]
+[^29]: Who is included in the *eiruv*.
+[^30]: On *Erev Shabbos* or during twilight; but after that, once the *eiruv* takes effect, even if you do not allow your neighbor to eat from it, it is a valid *eiruv*. [*Bi’ur Halachah* 366: 5]
+[^31]: *Peri Megadim* M.Z. 366: 7, 386: 2. But the *Maharsham* (Resp. Vol. 6: 1, and in notes on *Orach Chaim* 366: 5) says that it is sufficient if the *eiruv* is in a place fit for dwelling even if he cannot go there.
+[^32]: The *Mishnah Berurah* 368: 21 says that it is preferable to have an *eiruv* in the synagogue for everyone. Nevertheless, every person who needs an *eiruv* should make his own every week without a *berachah* and grant ownership to everyone in his court (in case the one in the synagogue becomes spoiled).
+[^33]: *Maseches Shabbos* 117b—since one *mitzvah* was done with it, it is fitting that another one be done with it. The *Ariz’l* said *Hamotzi* at night over the bread from the partnership of the alley (שִׁיתּוּף מְבוֹאוֹת) and in the morning on the loaf of *eiruvei chatzeiros*. [*Sha’ar Hakavanos*]
+[^34]: *Maseches Beitzah* 16, *Shulchan Aruch* 393: 1, for it appears as though you were preparing on Yom Tov for Shabbos. If you did it, the validity of the *eiruv* is questionable. [*Peri Megadim, Mishnah Berurah*]
+[^35]: If he would really prefer to eat in the place where he sleeps, then the place where he sleeps is his legal residence. [*Rashba, Ritva, Peri Megadim, Bi’ur Halachah* 370: 5]
+[^36]: *Rashba, Shulchan Aruch* 370: 8 etc.
+[^37]: If he rented for more than thirty days he prohibits the people to carry on Shabbos as of the beginning of the rental. [*Mishnah Berurah* 370: 5]
+[^38]: In a community situation, even one who visits for more than thirty days is included when the *eiruv* is made. This is a ruling of the *Beis Din* (the Jewish court) and is automatic. The inclusion of guests need not be spelled out when making the *eiruv*. [*Taz*. Also see *Mishnah Berurah* 370: 55 and 366: 53]
+[^39]: If the non-Jew in the building does not own the apartments in which the guests are staying, they do not become secondary to him and they prohibit one another to carry. They must make an *eiruv* and rent the non-Jew’s residence. [*Mishnah Berurah* 370: 60, *Bi’ur Halachah* (*Terumas Hadeshen*)] If the non-Jew does own these apartments (and the guests are renting from him), the *Yad Ephraim* says that they are considered his guests and do not need an *eiruv*. The *Peri Megadim* says that they must rent the property of the non-Jew.
+[^40]: Even if they are visiting for less than thirty days (even only one Shabbos). [*Rema* 370: 8, *Mishnah Berurah*]
+[^41]: *Even Ha’ozer*.
+[^42]: The *Bi’ur Halachah* 370: 8 says not to deviate from the *Shulchan Aruch, Rashba*, et al (who are lenient).
+[^43]: *Chasam Sofer* (*Orach Chaim* 92). Also see *Maharam Shick* 182 and *Maharsham* Vol. 5: 34 who are lenient in certain circumstances.
+[^44]: *Rema* and *Be’eir Hagolah* 382: 15 say this applies only if the non-Jews live in separate apartments. The *Mishnah Berurah* 382: 51—*poskim* are *machmir* even if they share one house. The *Chayei Adam* is *machmir* if each has his own space in the room. If one is a live-in worker, he and the owner are as one person and it is enough to rent from one of them.
+[^45]: Until they rent the *reshus* from the non-Jew. Also see *Bi’ur Halachah* 382: 17.
+[^46]: *Rema* 382: 1. Based on the *Rashba* who maintains that it is unusual for a Jew to rent or lend a house to a non-Jew in the building in which he lives. [see *Mishnah Berurah* 38].
+[^47]: *Chayei Adam*.
+[^48]: *Shulchan Aruch* 382: 4.
+[^49]: Asking him to give it as a present would also make it invalid. See *Chayei Adam* 75: 7. However, rental even for the smallest sum of money is valid, even for less than a *prutah* which is the halachic minimum required for financial transactions. [*Shulchan Aruch* 382: 5] You may rent it from him even on Shabbos [*Rema*] for it is not considered actual renting.
+[^50]: Or another family member. [*Tosafos* (*Maseches Eiruvin* 65b)]
+[^51]: If you specified a time the non-Jew may not change his mind even if he returns the money. [*Shvuss Yaakov, Mishnah Berurah* 382: 23] Also see *Taz*, and *Sha’ar Hatziyun* 382: 22.
+[^52]: But if you did not specify a time you must rent it again from the new tenant. [*Peri Megadim, Chayei Adam*. See *Sha’ar Hatziyun* 382: 28]
+[^53]: *Chacham Tzvi, Rabbi Akiva Eiger*.
+[^54]: *Shulchan Aruch* 382: 14.
+[^55]: *Shulchan Aruch* 382: 7.
+[^56]: Because the non-Jew refuses to rent it.
+[^57]: Even a Jew who does not live in the court. [*Levush, Mishnah Berurah* 382: 36]
+[^58]: See *Bi’ur Halachah* 382: 13 for important details.
+[^59]: If you did something to acquire the use of the space it is valid even if you did not use it at all. [*Magein Avraham* 382: 8, *Aruch Hashulchan*]
+[^60]: See *Mishnah Berurah* 382: 41.
+[^61]: This applies only when he knows that it is forbidden. If he does not know he probably is not considered an apostate. [*Bi’ur Halachah* 385: 3]
+[^62]: If he refrains from doing it in the presence of a distinguished person, he does not fall into this category. [*Eliyahu Rabbah, Mishnah Berurah*]
+[^63]: *Shulchan Aruch* 385: 3 (*Rashi, Tosafos* etc.). See *Tiferes Yisrael* that even if he handles *muktzeh* in public he is in this category. See *Bi’ur Halachah* who rules that even those *poskim* who say that ordinarily he is not considered an apostate if he violates rabbinic prohibitions of Shabbos, agree that regarding this *Halachah*, he is considered as one. [*Mishnah Berurah*]
+[^64]: That consists of two posts ten *tefachim* high with a crossbeam (or wire) over them like this: . Such a structure is considered as a solid wall and you may carry in the enclosed area (if *eiruv* requirements are fulfilled). Many people choose not to rely on a צוּרַת הַפֶּתַח to carry on Shabbos. See *Bi’ur Halachah* 364: 2 and *Mishnah Berurah* 364: 8.
+[^65]: Since it must be rented from all the non-Jews, it may be rented from the mayor of the city. He is, in effect, a public servant of all the non-Jews in the city.
+[^66]: *Rema* 366: 3.
+[^67]: *Machatzis Hashekel* 365: 15.
+[^68]: That is if the whole of a wall is broken down or if the majority of all the walls is broken down or if there is a breach of more than ten *amos* width in one wall. These are general rules, but a *posek* must be consulted every time these *halachos* are involved.
+[^69]: This is true only if it is open to another private domain, but if it is open to a public domain or *karmelis*, you may not continue to carry in your court. [see *Shulchan Aruch* 374: 2]
+[^70]: See *Shulchan Aruch* 365: 8. See *Shulchan Aruch* 374: 1 and *Bi’ur Halachah* at length.
+[^71]: Even if it requires doing a *melachah de’oraisa* (as is evident from the *Kitzur Shulchan Aruch*). [*Chayei Adam* 62: 11, and *Mishnah Berurah* 276: 25, *Rema* 276] This ruling is based on the *Ittur* who permits this because it is a *mitzvah* involving the public. [*Machatzis Hashekel* 365]
+[^72]: If it breaks on Yom Tov, you may not ask a non-Jew to repair it on Yom Tov, for this is not as great a necessity as on Shabbos. [*Magein Avraham* 363: 4]
+[^73]: We do not say since it was permitted on Yom Tov to carry objects that are not needed on Yom Tov, because of the principle of “Once it was permitted on that day, it continues to be permitted,” it should, therefore, also be permitted on Shabbos.
+[^74]: *Magein Avraham* 363: 4.

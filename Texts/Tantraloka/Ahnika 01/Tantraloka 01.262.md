@@ -35,6 +35,9 @@ uddeśalakṣaṇāvekṣātritayaṃ prāṇināṃ sphuret || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 439)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.262]]
+
 *Lead-in:* एतच्च उद्देशादित्रयं सर्वत्रैवास्ति -- इत्याह --
 
 > दृष्टानुमानौपम्याप्तवचनादिषु सर्वतः ।

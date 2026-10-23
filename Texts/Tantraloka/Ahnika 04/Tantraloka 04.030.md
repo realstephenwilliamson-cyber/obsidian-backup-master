@@ -34,6 +34,11 @@ sa savedyāpavedyātmapralayākalatāmayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 35)
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.29–30]]
+>
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.29–30 (continued)]]
+
 > मोक्षेऽपि वैष्णवादेर्यः स्वसङ्कल्पेन भावितः ।
 > परप्रकृतिसायुज्यं यद्वाप्यानन्दरूपता ॥
 > विशुद्धचित्तमात्रं वा दीपवत्संततिक्षयः ।

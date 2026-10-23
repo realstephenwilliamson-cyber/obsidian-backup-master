@@ -30,6 +30,11 @@ iti tattvasvarūpasya kṛtaṃ samyak prakāśanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 284)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.314]]
+>
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 9.314 (continued)]]
+
 *Lead-in:* एतदेव श्लोकस्य प्रथमार्धेनोपसंहरति --
 
 > इति तत्त्वस्वरूपस्य कृतं सम्यक् प्रकाशनम् ॥

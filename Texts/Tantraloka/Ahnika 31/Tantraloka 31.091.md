@@ -31,6 +31,9 @@ bhrāmyaṃ pippalavat patraṃ vartanaiṣā tvadho bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 106)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.91–92]]
+
 *Lead-in:* अत्रैव आमलकसारकं वर्तयति--
 
 > भागं भागं गृहीत्वा तु उभयोरथ गोचरात् ।

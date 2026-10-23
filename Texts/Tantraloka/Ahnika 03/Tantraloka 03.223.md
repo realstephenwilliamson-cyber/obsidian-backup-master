@@ -36,6 +36,11 @@ bindurātmani mūrdhāntaṃ hṛdayādvyāpako hi saḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 340–345)
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.221–223]]
+>
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.223]]
+
 *Lead-in:* न केवलमेवमस्या एव संभवेत्, यावन्मननत्राणधर्माणां मन्त्राणामपि -- इत्याह --
 
 > आदिमान्त्यविहीनास्तु मन्त्राः स्युः शरदभ्रवत् ॥

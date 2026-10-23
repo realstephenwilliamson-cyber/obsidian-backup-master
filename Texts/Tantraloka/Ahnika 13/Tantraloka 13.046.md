@@ -31,6 +31,9 @@ prācyaḥ paryanuyogaḥ syānnimittaṃ cenna labhyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 151–152)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.45–47]]
+
 > तच्च कस्मात्प्रसूतं स्यान्मायातश्चेत्कथं नु सा ॥
 > क्वचिदेव सुवीतैतन्न तु मुक्तात्मनीत्ययम् ।
 > प्राच्यः पर्यनुयोगः स्यान्निमित्तं चेन्न लभ्यते ॥

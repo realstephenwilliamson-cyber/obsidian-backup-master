@@ -33,6 +33,11 @@ tata evaikatāyāṃ cānyātmasādhāraṇatvataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 151–152)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.45–47]]
+>
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.47]]
+
 *Lead-in:* न केवलं नित्यत्वादेव नैतद्विनश्यति यावन्निमित्तान्तरादपि -- इत्याह - -
 
 > तत एवैकतायां चान्यात्मसाधारणत्वतः ॥

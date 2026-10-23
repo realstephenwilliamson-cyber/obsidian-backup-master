@@ -34,6 +34,9 @@ ye tu tāmadvayavyāptiṃ na vindanti śivātmikām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 11–12)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.21–23]]
+
 > इत्थं सर्वगतत्वे श्रीपरादेव्याः स्थिते सति ॥
 > यागो भवेत्सुसंपूर्णस्तदधिष्ठानमात्रतः ।
 > एकशूलेऽप्यतो यागे चिन्तयेत्तदधिष्ठितम् ॥

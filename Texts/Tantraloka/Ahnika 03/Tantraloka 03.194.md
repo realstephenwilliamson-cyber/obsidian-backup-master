@@ -37,6 +37,11 @@ ityeṣa mahimaitāvāniti tāvanna śakyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 312)
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.193–194]]
+>
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.194]]
+
 *Lead-in:* सर्वं चैतदाक्षेप्यमेत्स्फारसारमपरिच्छेद्यं चेत्याह --
 
 > इत्येष महिमैतावानिति तावन्न शक्यते ॥

@@ -35,6 +35,9 @@ tasyaiva pratibimbatve kiṃ bimbamavaśiṣyatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 123–124)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.49]]
+
 *Lead-in:* तदेवं संवित्प्रतिबिम्बेन विश्वस्य सर्वतः संभवत्यपि बाह्यप्रतिबिम्बसाम्ये अस्ति कश्चित्ततो युक्तिबलानीतो विशेषः -- इत्याह --
 
 > प्रतिबिम्बं च बिम्बेन बाह्यस्थेन समर्प्यते ।

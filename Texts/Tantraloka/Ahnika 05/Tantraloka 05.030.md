@@ -36,6 +36,11 @@ anena kramayogena yatra yatra patatyadaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 32)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.29–30]]
+>
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.30–31]]
+
 *Lead-in:* ननु शब्दादि श्रोत्रादिनियतवृत्तिवेदनीयम् -- इति कथमेकैकत्र तत्र निखिलमेव श्रोत्रादिवृत्तिचक्रं निपतेत् -- इति किमेतदुक्तम्? इत्यशङ्क्याह --
 
 > अनेन क्रमयोगेन यत्र यत्र पतत्यदः ॥

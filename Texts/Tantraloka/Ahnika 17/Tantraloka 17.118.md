@@ -34,6 +34,9 @@ tāmeva dviguṇīkuryātpadādhvani caturguṇām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 191)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.118–120]]
+
 *Lead-in:* भुवनाध्वप्राधान्येन उक्तामाहुतिसंख्यामितराध्वसु अधिकावापेनातिदिशति--
 
 Jayaratha comments on this verse together with 17.120: see [[Tantraloka 17.120#Viveka|17.120]].

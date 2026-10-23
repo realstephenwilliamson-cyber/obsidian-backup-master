@@ -31,5 +31,10 @@ sa gururmocayenneti siddhayogīśvarīmate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 297)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 23.6–7.*
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.6–7]]
+
 Jayaratha comments on this verse together with 23.7: see [[Tantraloka 23.007#Viveka|23.7]].
 

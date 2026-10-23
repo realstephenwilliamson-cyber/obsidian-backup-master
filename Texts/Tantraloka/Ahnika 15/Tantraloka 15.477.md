@@ -32,6 +32,9 @@ svayaṃ vyutthānaparyantaṃ dvādaśāntaṃ tato vrajet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 293)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.474–478]]
+
 > ततः शङ्करमभ्यर्च्य शययामस्त्राभिमन्त्रिताम् ॥
 > कृत्वास्यां शिष्यमारोप्य न्यस्तमन्त्रं विधाय च ।
 > शिष्यहृच्चक्रविश्रान्तिं कृत्वा तद्द्वादशान्तगः ॥

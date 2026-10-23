@@ -33,6 +33,11 @@ sudhāgnimaruto mandaparakālāgnivāyavaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 365–367)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.211–212]]
+>
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.212–213]]
+
 *Lead-in:* तामेव आह--
 
 Jayaratha comments on this verse together with 29.211: see [[Tantraloka 29.211#Viveka|29.211]].

@@ -37,6 +37,11 @@ upariṣṭāddhiyo'dhaśca prakṛterguṇasaṃjñitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 263–266)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.251–253]]
+>
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.253–254]]
+
 > उपरिष्टाद्धियोऽधश्च प्रकृतेर्गुणसंज्ञितम् ॥
 > तत्त्वं तत्र तु संक्षुब्धा गुणाः प्रसुवते धियम् ।
 

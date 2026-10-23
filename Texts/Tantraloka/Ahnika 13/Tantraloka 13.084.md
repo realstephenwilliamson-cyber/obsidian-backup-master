@@ -31,6 +31,9 @@ anādi karma cedgacchetkiṃ malasyopakalpanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 177)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.83–84]]
+
 > तथाहि कर्म तावन्नो यावन्माया न पुद्गले ।
 > व्याप्रियेत न चाहेतुस्तद्वृत्तिस्तन्मितो मलः ॥
 > इत्थं च कल्पिते मायाकार्ये कर्मणि हेतुताम् ।

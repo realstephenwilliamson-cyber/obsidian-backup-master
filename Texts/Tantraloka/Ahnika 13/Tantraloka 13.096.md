@@ -31,6 +31,9 @@ hetutve ceśvarecchāyā vācyaṃ pūrvavadeva tu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 182–183)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.95–96]]
+
 *Lead-in:* ननु किमेभिः, ईश्वरेच्छैवास्य हेतुरुच्यताम् -- इत्याह --
 
 > हेतुत्वे चेश्वरेच्छाया वाच्यं पूर्ववदेव तु ॥

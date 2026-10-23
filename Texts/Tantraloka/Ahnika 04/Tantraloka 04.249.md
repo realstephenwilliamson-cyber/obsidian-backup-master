@@ -36,6 +36,11 @@ na śaivaṃ vaiṣṇavairvākyairbādhanīyaṃ kadācana || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 345–347)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.248–249]]
+>
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.249–250]]
+
 *Lead-in:* अत एव विपर्ययेण बाधो न भवेदित्याह --
 
 > न शैवं वैष्णवैर्वाक्यैर्बाधनीयं कदाचन ॥

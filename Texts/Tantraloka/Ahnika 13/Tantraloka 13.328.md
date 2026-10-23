@@ -31,6 +31,9 @@ kathaṃ kuryādvinā jñānaṃ bhāvanāmayamuttamam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 328)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.328]]
+
 *Lead-in:* मोक्षैककारणत्वमेव विभज्य दर्शयति --
 
 > तत्त्वेभ्य उद्धृतिं क्वापि योजनं सकलेऽकले ।

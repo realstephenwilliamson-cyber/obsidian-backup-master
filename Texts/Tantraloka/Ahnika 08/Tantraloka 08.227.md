@@ -35,6 +35,9 @@ avatīryātmajanmānaṃ dhyāyantaḥ saṃbhavanti te || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 247–248)
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.225–227]]
+
 > ततोऽपि सकलाक्षाणां योनेर्बुद्ध्यक्षजन्मनः ।
 > स्थूलादिच्छगलान्ताष्टयुक्तं चाहङ्कृतेः पुरम् ॥
 > बुद्धितत्त्वं ततो देवयोन्यष्टकपुराधिपम् ।

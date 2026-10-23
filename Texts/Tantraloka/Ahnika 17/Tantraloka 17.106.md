@@ -34,5 +34,10 @@ aliases:
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 187)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 17.107–108.*
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.107–108]]
+
 Jayaratha comments on this verse together with 17.111: see [[Tantraloka 17.111#Viveka|17.111]].
 

@@ -34,6 +34,9 @@ tasya devātidevasya parāpekṣā na vidyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 187)
+> ![[Tantraloka Dyczkowski v01 06 - Chapter One, part 5#Viveka on 1.58–59]]
+
 *Lead-in:* न केवलमत्र युक्तिरेवास्ति यावदागमोऽपि -- इत्याह --
 
 > कामिके तत एवोक्तं हेतुवादविवर्जितम् ।

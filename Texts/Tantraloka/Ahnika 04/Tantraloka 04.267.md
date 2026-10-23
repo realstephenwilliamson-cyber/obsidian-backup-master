@@ -36,6 +36,11 @@ yugakrameṇa kūrmādyā mīnāntā siddhasaṃtatiḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 373–375)
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.265–267]]
+>
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.267–268]]
+
 *Lead-in:* "गोत्रादि"इत्यादिशब्दार्थमाह --
 
 > आदिशब्देन च घरं पल्ली पीठोपपीठकम् ॥

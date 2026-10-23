@@ -35,6 +35,9 @@ mantrasvarūpaṃ tadbhāvyasvarūpāpattiyojakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 186–189)
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.137]]
+
 *Lead-in:* तदेव पठति --
 
 > स्मृतिश्च स्मरणं पूर्वं सर्वभावेषु वस्तुतः ।

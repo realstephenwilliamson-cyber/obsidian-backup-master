@@ -31,6 +31,9 @@ aṭṭahāsaṃ śikhāsthāne caritraṃ ca karandhrake |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 255–256)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.59–63]]
+
 *Lead-in:* तमेव आह--
 
 Jayaratha comments on this verse together with 29.63: see [[Tantraloka 29.063#Viveka|29.63]].

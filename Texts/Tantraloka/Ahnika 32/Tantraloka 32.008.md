@@ -33,6 +33,11 @@ kāmye karmaṇi tāśca syurmukhyāḥ kasyāpi jātucit || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 140–141)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.7–8]]
+>
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.8]]
+
 *Lead-in:* इत्याद्युक्त्या साधकविषयं मुख्यत्वमस्तीति कथमेवमुक्तम्?-- इत्याशङ्क्य आह—
 
 > काम्ये कर्मणि ताश्च स्युर्मुख्याः कस्यापि जातुचित् ॥

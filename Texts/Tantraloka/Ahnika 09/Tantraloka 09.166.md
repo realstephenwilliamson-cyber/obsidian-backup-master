@@ -33,6 +33,11 @@ sā yadyapyanyaśāstreṣu bahudhā dṛśyate sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 143–145)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.164–166]]
+>
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.166–167]]
+
 *Lead-in:* ननु प्रतिशास्त्रं यदि तात्त्वीयस्य कार्यकारणभावस्य भेदेनाभिधानं तत् तर्हि कतरस्येहोपदेशः -- इत्याशङ्क्याह --
 
 > सा यद्यप्यन्यशास्त्रेषु बहुधा दृश्यते स्फुटम् ॥

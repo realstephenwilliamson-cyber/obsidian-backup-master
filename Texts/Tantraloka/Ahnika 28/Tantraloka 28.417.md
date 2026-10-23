@@ -33,5 +33,10 @@ kulajānāṃ samākhyātā niṣkṛtirduṣṭakartarī |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 192–194)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 28.417–419.*
+>
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.417–419]]
+
 Jayaratha comments on this verse together with 28.418: see [[Tantraloka 28.418#Viveka|28.418]].
 

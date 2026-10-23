@@ -33,6 +33,11 @@ vaktrāṇi pañca citspandajñānecchākṛtisaṅgateḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 413–415)
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.30–32]]
+>
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.32–33]]
+
 *Lead-in:* अत्रैव व्याप्तिं दर्शयति--
 
 Jayaratha comments on this verse together with 27.31: see [[Tantraloka 27.031#Viveka|27.31]].

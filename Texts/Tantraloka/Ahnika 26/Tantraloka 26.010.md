@@ -36,6 +36,11 @@ kramāttanmayatopāyagurvarcanaratau tu tau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 373–374)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.9–10]]
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.10]]
+
 *Lead-in:* ननु यद्येवं, तत्किमनयोः काष्ठकुड्यादिवत् वर्तनमुत पामरवत्?-- इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 26.9: see [[Tantraloka 26.009#Viveka|26.9]].

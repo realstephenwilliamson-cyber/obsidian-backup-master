@@ -31,6 +31,9 @@ anāme madhyame vaktre jihvayā tālukaṃ spṛśet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 149)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.26–27]]
+
 *Lead-in:* एवं त्रिशूलिन्याः स्वरूपमभिधाय करङ्किण्या अपि आह--
 
 Jayaratha comments on this verse together with 32.29: see [[Tantraloka 32.029#Viveka|32.29]].

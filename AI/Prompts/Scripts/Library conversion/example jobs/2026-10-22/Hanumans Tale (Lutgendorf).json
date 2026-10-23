@@ -1,0 +1,87 @@
+{
+ "pdf": "/mnt/user-data/uploads/Obsidian Vault/Library/Hinduism/Lutgendorf - Hanuman's Tale (2007).pdf",
+ "pdf_vault": "Library/Hinduism/Lutgendorf - Hanuman's Tale (2007).pdf",
+ "catalog": "Catalog/Hinduism/Lutgendorf - Hanuman's Tale - The Messages of a Divine Monkey",
+ "route": "pymupdf",
+ "title": "Hanuman's Tale: The Messages of a Divine Monkey",
+ "authors": [
+  "Philip Lutgendorf"
+ ],
+ "byline": "Philip Lutgendorf. Oxford University Press, New York, 2007.",
+ "folder": "Library/Hinduism/Hanuman's Tale (Lutgendorf)",
+ "index_name": "Hanuman's Tale (Lutgendorf)",
+ "prefix": "Hanuman's Tale",
+ "out": "/home/claude/p4/out",
+ "date": "2026-10-22",
+ "ctype": "book",
+ "single": false,
+ "text_source": "PDF text layer (born-digital), PyMuPDF; the dots below letters, drawn as separate marks, put back where they sit by their letter",
+ "toc": [
+  [
+   1,
+   "On Transliteration, Vocabulary, and Style",
+   14
+  ],
+  [
+   1,
+   "1. Major and Minor - Hanuman in Hindu Life and Scholarly Discourse",
+   18
+  ],
+  [
+   1,
+   "2. A Long and Winding Tail - Hanuman in History and Historiography",
+   50
+  ],
+  [
+   1,
+   "3. Prayers, Recipes, Memoirs - Hanuman in Hindi Popular Literature",
+   104
+  ],
+  [
+   1,
+   "4. The Hanumayana - Forty Tales of Hanuman",
+   140
+  ],
+  [
+   1,
+   "5. A Reader's Guide to the Hanumayana",
+   192
+  ],
+  [
+   1,
+   "6. Sitings and Sightings - Hanuman in the Cultural Landscape",
+   252
+  ],
+  [
+   1,
+   "7. Like Mother, Like Son - Hanuman, Goddesses, and Women",
+   314
+  ],
+  [
+   1,
+   "8. Monkey in the Middle - Hanuman and His Kin in Transcultural Discourse",
+   348
+  ],
+  [
+   1,
+   "Appendix - Two Poems in Praise of Hanuman",
+   412
+  ],
+  [
+   1,
+   "Glossary",
+   418
+  ],
+  [
+   1,
+   "Bibliography",
+   422
+  ],
+  [
+   1,
+   "Index",
+   440
+  ]
+ ],
+ "callout": "> [!note] Dots below letters\n> The PDF draws the dot under ṭ, ḍ, ṇ, ṣ and ṃ as a separate mark. Where it sits by its letter it has been put back; where it had drifted, it was dropped, so some transliterated words lack a dot (*samhitā* for *saṃhitā*). For exact spellings, check the PDF (the *Open the PDF* button on the catalog note)."
+}

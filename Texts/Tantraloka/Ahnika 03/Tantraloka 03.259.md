@@ -36,6 +36,11 @@ upādhyatītaṃ yadrūpaṃ taddvidhā guravo jaguḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 379–381)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.257–259]]
+>
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.259–260]]
+
 *Lead-in:* ननु अनाख्यक्रमे योऽयं सृष्ट्याद्यात्मन उपाधित्रयस्य अत्यय उक्तः स किं प्रागभावरूपः प्रध्वंसाभावरूपो वा ? -- इत्याशङ्क्याह --
 
 > उपाध्यतीतं तद्रूपं तद्द्वधा गुरवो जगुः ॥

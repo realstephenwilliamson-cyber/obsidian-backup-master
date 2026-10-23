@@ -31,5 +31,8 @@ satyaṃ smaraṇameveha sakṛjjaptaṃ vimocayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 190)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.409–411]]
+
 Jayaratha comments on this verse together with 28.411: see [[Tantraloka 28.411#Viveka|28.411]].
 

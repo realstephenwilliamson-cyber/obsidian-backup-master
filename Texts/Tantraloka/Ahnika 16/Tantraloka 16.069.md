@@ -36,6 +36,11 @@ nāpi naiṣa bhavedyogya iti buddhvāpasārayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 33–34)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.68–69]]
+>
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.69–70]]
+
 *Lead-in:* ननु यागयोग्यपशुविषये भवतु नामैवम्, अयोग्यस्तु ढौकितोऽपि ततोऽपसारणीयोऽन्यत्र च स्वेच्छया विनियोज्य एव, तन्नायं नियमो भोग्यीचिकीर्षितं पशुं नान्यत्र कुर्यादिति ?--इत्याशङ्क्याह—
 
 > नापि नैष भवेद्योग्य इति बुद्ध्वापसारयेत् ॥

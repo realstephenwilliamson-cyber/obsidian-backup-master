@@ -34,6 +34,11 @@ ityeṣa sūkṣmaparimarśanaśīlanīyaścakrodayo'nubhavaśāstradṛśā may
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 48)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.71]]
+>
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 7.71 (continued)]]
+
 *Lead-in:* इदानीमाह्निकार्थमेव श्लोकस्य प्रथमार्धेनोपसंहरति --
 
 > इत्येष सूक्ष्मपरिमर्शनशीलनीयश्चक्रोदयोऽनुभवशास्त्रदृशा मयोक्तः ॥

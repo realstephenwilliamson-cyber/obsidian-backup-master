@@ -33,6 +33,11 @@ yattu na sparśavaddharmaḥ śabda ityādi bhaṇyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 271–274)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.294–297]]
+>
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.297–298]]
+
 *Lead-in:* इति । तत्कथमिह स्पर्शवतां क्षित्यादीनामपि गुणः शब्दः -- इत्युच्यते ? -- इत्याशङ्क्याह --
 
 > यत्तु न स्पर्शवद्धर्मः शब्द इत्यादि भण्यते ॥

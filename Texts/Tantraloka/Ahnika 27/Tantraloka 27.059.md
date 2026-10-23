@@ -33,6 +33,11 @@ bahuprakārabhinnasya liṅgasyārcā nirūpitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 424–425)
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.58–59]]
+>
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.59]]
+
 *Lead-in:* एतदेव उपसंहरति--
 
 > बहुप्रकारभिन्नस्य लिङ्गस्यार्चा निरूपिता ॥

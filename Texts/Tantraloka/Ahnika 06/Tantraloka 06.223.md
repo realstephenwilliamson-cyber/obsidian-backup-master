@@ -35,6 +35,9 @@ binduḥ prakāśo hārṇaśca pūraṇātmatayā sthitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 428)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.223]]
+
 *Lead-in:* ननु सर्वत्रायं नियमः किं संभवेन्न वा ? -- इत्याशङ्क्याह --
 
 > हृद्येष प्राणरूपस्तु सकारो जीवनात्मकः ।

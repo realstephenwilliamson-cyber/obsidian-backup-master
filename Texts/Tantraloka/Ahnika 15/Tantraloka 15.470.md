@@ -32,6 +32,9 @@ adhikārī sa na punaḥ sādhane bhinnayojane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 290)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.470]]
+
 *Lead-in:* पुत्रकाचार्ययोरविशेषेऽपि परतत्त्वयोजनिका कथञ्चिद्भेदमभिधत्ते- -
 
 > पुत्रको दैशिकत्वे तु तुल्ययोजनिको भवेत् ।

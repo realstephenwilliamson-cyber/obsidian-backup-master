@@ -33,6 +33,11 @@ gāḍhanidrāvimūḍho'pi kāntāliṃgitavigrahaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 385)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.144–145]]
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.145–146]]
+
 *Lead-in:* अत्रैव दृष्टान्तयति --
 
 > गाढनिद्राविमूढोऽपि कान्तालिड्गितविग्रहः ॥

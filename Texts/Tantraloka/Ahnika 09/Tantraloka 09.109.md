@@ -33,6 +33,11 @@ anayā paripāṭyā yaḥ samastāṃ karmasaṃtatim || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 101–103)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.108–109]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.109–110]]
+
 *Lead-in:* एतदेव प्रकृते योजयति --
 
 > अनया परिपाट्या यः समस्तां कर्मसंततिम् ॥

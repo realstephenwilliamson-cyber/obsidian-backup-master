@@ -35,6 +35,9 @@ daśadhāhaṅkṛtāntaṃ dhīstasyāḥ syācchatadhā tataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 209–210)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.186–190]]
+
 *Lead-in:* एवं तत्त्वान्तराणामपि उत्तरोत्तरवृद्ध्या मानं समस्ति -- इत्याह --
 
 Jayaratha comments on this verse together with 8.185: see [[Tantraloka 08.185#Viveka|8.185]].

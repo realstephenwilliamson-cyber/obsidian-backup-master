@@ -31,6 +31,9 @@ dharādhirohiṇo jñeyāḥ sakalā iha pudgalāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 400)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.177]]
+
 > मायाकर्मसमुल्लाससंमिश्रितमलाबिलाः ।
 > धराधिरोहिणो ज्ञेयाः सकला इह पुद्गलाः ॥
 

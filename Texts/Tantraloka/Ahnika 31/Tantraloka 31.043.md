@@ -33,6 +33,11 @@ yā sā devī parā śaktiḥ prāṇavāhā vyavasthitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 85–87)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.42–43]]
+>
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.43–44]]
+
 *Lead-in:* ननु एवं माहात्म्यमस्य कुतस्त्यम्?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 31.42: see [[Tantraloka 31.042#Viveka|31.42]].

@@ -33,6 +33,13 @@ tāvanmātrāttvaviśrānteḥ saṃvidaḥ kathitāḥ kriyāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 170–172)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 15.288–290.*
+>
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.286–287]]
+>
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.288–290]]
+
 *Lead-in:* यस्य पुनरेवं विश्रान्तिर्न स्यात्, तं प्रति एतत् बाह्यमुच्यते--इत्याह--
 
 > तावन्मात्रात्त्वविश्रान्तेः संविदः कथिताः क्रियाः ॥

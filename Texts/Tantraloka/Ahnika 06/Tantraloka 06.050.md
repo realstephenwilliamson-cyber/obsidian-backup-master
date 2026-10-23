@@ -34,6 +34,9 @@ svacchandaśāstre nāḍīnāṃ vāyvādhāratayā sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 261–263)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.50]]
+
 *Lead-in:* यदभिप्रायेणैव श्रीस्वच्छन्दशास्त्रे ततः प्रभृति प्राणादेरवस्थानमुक्तम् -- इत्याह --
 
 > कन्दाधारात्प्रभृत्येव व्यवस्था तेन कथ्यते ।

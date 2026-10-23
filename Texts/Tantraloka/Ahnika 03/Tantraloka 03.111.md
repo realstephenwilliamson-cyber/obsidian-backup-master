@@ -35,6 +35,9 @@ avibhāgaḥ prakāśo yaḥ sa binduḥ paramo hi naḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 217)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.111]]
+
 *Lead-in:* अत आह --
 
 > उदितायां क्रियाशक्तौ सोमसूर्याग्निधामनि ।

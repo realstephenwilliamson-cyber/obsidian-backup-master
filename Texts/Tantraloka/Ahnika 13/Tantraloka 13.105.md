@@ -31,6 +31,9 @@ svaṃ rūpaṃ pariśuddhaṃ satspṛśatyapyaṇutāmayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 188)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.105]]
+
 *Lead-in:* न केवलं स्वातन्त्र्यादात्मानं बध्नात्येव यावन्मोचयत्यपि -- इत्याह --
 
 > स्वातन्त्र्यमहिमैवायं देवस्य यदसौ पुनः ।

@@ -37,6 +37,11 @@ yasya hi svapramābodho vipakṣodbhedanigrahāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 68–69)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.74–75]]
+>
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.75–76]]
+
 *Lead-in:* न केवलमस्यैवं प्रमालाभे परकीय एव वाक्यादौ बोद्धृत्वं भवेद्यावत्स्वकीयेऽपि कर्तृत्वम् -- इत्याह --
 
 > यस्य हि स्वप्रमाबोधो विपक्षोद्भेदनिग्रहात् ॥

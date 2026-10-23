@@ -31,6 +31,9 @@ svaśāstre cāpyahīśāno viśvādhāradhurandharaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 133)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.309]]
+
 *Lead-in:* तथा च आगम--इत्याह--
 
 > श्रीरत्नमालाशास्त्रे तदुवाच परमेश्वरः ।

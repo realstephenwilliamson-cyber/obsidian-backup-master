@@ -35,6 +35,9 @@ atra prayāsavirahāt sarvo'sau devatāgaṇaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 162–163)
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.122]]
+
 *Lead-in:* नन्वत्रैव विश्रान्त्या कथमेवं स्यात्? इत्याशङ्क्याह --
 
 > अत्र प्रयासविरहात् सर्वोऽसौ देवतागणः ।

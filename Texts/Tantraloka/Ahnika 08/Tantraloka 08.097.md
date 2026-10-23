@@ -34,6 +34,9 @@ lakṣaikamātro lavaṇastadbāhye'sya puro'drayaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 143)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.97–98]]
+
 *Lead-in:* इदानीं तद्बहिरपि संस्थानविशेषं दर्शयति --
 
 Jayaratha comments on this verse together with 8.104: see [[Tantraloka 08.104#Viveka|8.104]].

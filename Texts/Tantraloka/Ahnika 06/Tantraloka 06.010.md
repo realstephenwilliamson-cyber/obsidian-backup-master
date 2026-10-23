@@ -36,6 +36,11 @@ neti neti vimarśena yogināṃ sā parā daśā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 225–227)
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.10]]
+>
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.10 (2)]]
+
 *Lead-in:* अत एवाह --
 
 > तदेव शून्यरूपत्वं संविदः परिगीयते ।

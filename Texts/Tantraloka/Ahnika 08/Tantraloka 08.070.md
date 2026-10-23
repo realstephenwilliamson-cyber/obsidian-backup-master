@@ -34,5 +34,8 @@ sahasradaśakāyustatsapañcakulaparvatam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 120)
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.70]]
+
 Jayaratha comments on this verse together with 8.78: see [[Tantraloka 08.078#Viveka|8.78]].
 

@@ -34,6 +34,9 @@ aṃśāṃśikātaḥ kvāpyanyadvimalaṃ tattadicchayā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 75–76)
+> ![[Tantraloka Dyczkowski v02 04 - Chapter Three, part 1#Viveka on 3.9]]
+
 *Lead-in:* तदेतन्नैर्मल्यं मुख्यामुख्यतया द्विप्रकारमिति दर्शयितुमाह --
 
 > नैर्मल्यं मुख्यमेकस्य संविन्नाथस्य सर्वतः ।

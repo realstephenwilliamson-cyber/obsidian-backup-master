@@ -31,6 +31,9 @@ tadākramya balaṃ mantrāḥ sarvajñabalaśālinaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 316)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.39–41]]
+
 > विद्याव्रतमिदं प्रोक्तं मन्त्रवीर्यप्रसिद्धये ॥
 > तच्च तादात्म्यमेवेति यदुक्तं स्पन्दशासने ।
 > तदाक्रम्य बलं मन्त्राः सर्वज्ञबलशालिनः ॥

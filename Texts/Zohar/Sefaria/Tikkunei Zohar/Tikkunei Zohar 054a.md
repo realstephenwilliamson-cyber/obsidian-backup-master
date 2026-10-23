@@ -239,7 +239,7 @@ every day,
 [^5]: coriander
 [^6]: bestowing
 [^7]: paupers
-[^8]: See *BT* Shabbat 104a
+[^8]: See *BT* [[Shabbat 104#104a|Shabbat 104a]]
 [^9]: *Yonah*
 [^10]: י
 [^11]: membrum
@@ -266,6 +266,6 @@ every day,
 [^32]: Yesod
 [^33]: *kveidah*
 [^34]: *qalah*
-[^35]: See *BT* Megillah 16b
+[^35]: See *BT* [[Megillah 16#16b|Megillah 16b]]
 [^36]: *ḥaiy*
 [^37]: life

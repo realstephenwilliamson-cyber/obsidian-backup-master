@@ -36,6 +36,9 @@ turyākhyasaṃtatimahodadhipūrṇacandraḥ
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 256)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.61]]
+
 *Lead-in:* त्रैयम्बकप्रसरसागरशायिसोमा-
 
 > नन्दात्मजोत्पलजलक्ष्मणगुप्तनाथः ।

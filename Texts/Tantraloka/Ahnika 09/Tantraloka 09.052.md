@@ -33,6 +33,11 @@ tathāhi svasvatantratvaparipūrṇatayā vibhuḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 57–60)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.51–52]]
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.52–53]]
+
 *Lead-in:* ननु यदि नामात्र परे रूपेऽपि एवं भेदः संभवेत् तर्हि अस्य कथमनवच्छिन्नपरप्रकाशात्मकं स्वरूपं तिष्ठेत् ? -- इत्याशङ्क्याह --
 
 > तथाहि स्वस्वतन्त्रत्वपरिपूर्णतया विभुः ॥

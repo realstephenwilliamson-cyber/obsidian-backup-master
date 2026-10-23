@@ -34,6 +34,11 @@ tataḥ śaṅkaramabhyarcya śayyāmastrābhimantritām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 291–293)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.472–474]]
+>
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.474–478]]
+
 *Lead-in:* इदानीं शययां कल्पयितुमाह--
 
 Jayaratha comments on this verse together with 15.473: see [[Tantraloka 15.473#Viveka|15.473]].

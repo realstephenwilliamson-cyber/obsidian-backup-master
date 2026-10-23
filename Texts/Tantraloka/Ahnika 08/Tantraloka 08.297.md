@@ -35,6 +35,9 @@ manonmanyantagāstāśca vāmādyāḥ parikīrtitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 301–303)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.294–298]]
+
 > उक्तानुक्तास्तु ये पाशाः परतन्त्रोक्तलक्षणाः ।
 > ते पुंसि सर्वे तांस्तत्र शोधयन्मुच्यते भवात् ॥
 > पुंस ऊर्ध्वं तु नियतिस्तत्रस्थाः शङ्करा दश ।

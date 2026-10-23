@@ -33,6 +33,11 @@ yathāhi pṛthubudhnādirūpe kumbhasya satyapi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 312–314)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.28–29]]
+>
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.29–31]]
+
 *Lead-in:* एतदेव दृष्टान्तोपदर्शनद्वारेण द्रढयति --
 
 Jayaratha comments on this verse together with 10.28: see [[Tantraloka 10.028#Viveka|10.28]].

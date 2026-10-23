@@ -33,6 +33,11 @@ niyatiryojanāṃ dhatte viśiṣṭe kāryamaṇḍale || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 174–176)
+> ![[Tantraloka Dyczkowski v06 07 - Chapter Nine, part 5#Viveka on 9.201–202]]
+>
+> ![[Tantraloka Dyczkowski v06 07 - Chapter Nine, part 5#Viveka on 9.202]]
+
 *Lead-in:* ननु तामर्थक्रियामर्थयमानो जनः किंचिदुपादत्ते, किंचिच्च जहाति, -- इति नास्ति विमतिः; कुतः पुनरयं नियमो यत् पाकार्थी वह्निमेवादित्सति न लोष्ठम्, स्वर्गार्थी च ज्योतिष्टोममेव न श्येनम् -- इति तदवश्यमत्र केनचिन्नमित्तेन भाव्यं तच्च किम् -- इत्याशङ्क्याह --
 
 > नियतिर्योजनां धत्ते विशिष्टे कार्यमण्डले ॥

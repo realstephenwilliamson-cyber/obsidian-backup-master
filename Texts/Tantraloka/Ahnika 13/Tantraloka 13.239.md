@@ -31,6 +31,9 @@ vidadhyātparameśājñālaṅghanaikaphalā hi sā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 274–275)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.239]]
+
 *Lead-in:* अत आह --
 
 > तस्मात्प्राणहरीं दीक्षां नाज्ञात्वा मरणक्षणम् ।

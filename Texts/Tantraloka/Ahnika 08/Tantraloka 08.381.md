@@ -35,6 +35,9 @@ mātuḥ sphūrjanmahājñānalīnatvānna vibhāvyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 359)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.381]]
+
 *Lead-in:* ननु सकलत्वं नाम कलादिक्षित्यन्तदेहयोग्यत्वमुच्यते, तच्चेत् सदाशिवभट्टारकस्य संभवति तत्कथमस्यापि अस्मदादिवत् क्षित्यादिरूपत्वं न लक्ष्यते ? -- इत्याशङ्क्याह --
 
 > निवृत्त्यादेः सुसूक्ष्मत्वाद्धराद्यारब्धदेहता ।

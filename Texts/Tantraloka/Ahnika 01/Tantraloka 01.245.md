@@ -40,6 +40,11 @@ tanmayā tantryate tantrālokanāmnyatra śāsane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 416–421)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.243–245]]
+>
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.245]]
+
 *Lead-in:* अयमेव च शास्त्रार्थः -- इत्याह --
 
 > इति ज्ञानचतुष्कं यत्सिद्धिमुक्तिमहोदयम् ।

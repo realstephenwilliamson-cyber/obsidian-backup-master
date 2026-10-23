@@ -31,6 +31,9 @@ sidhyejjñānakriyābhyāṃ taddvitīyaṃ saṃprakāśate |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 36–37)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.43–44]]
+
 > नाध्यात्मेन विना बाह्यं नाध्यात्मं बाह्यवर्जितम् ॥
 > सिध्येज्ज्ञानक्रियाभ्यां तद्द्वितीयं संप्रकाशते ।
 > श्रीब्रह्मयामले देव इति तेन न्यरूपयत् ॥

@@ -36,6 +36,11 @@ yasyākarot paramanugrahamāgraheṇa || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 251)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 37.54.*
+>
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.54]]
+
 *Lead-in:* तस्यान्वये महति कोऽपि वराहगुप्त-
 
 > नामा बभूव भगवान् स्वयमन्तकाले ।

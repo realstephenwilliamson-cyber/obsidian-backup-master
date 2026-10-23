@@ -33,6 +33,11 @@ kalāśrayasyāpyatyantaṃ karmaṇo vinivartanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 292–293)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.271–273]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.273–274]]
+
 > कलाश्रयस्याप्यत्यन्तं कर्मणो विनिवर्तनात् ॥
 > ज्ञानाकलः प्राक्तनस्तु कर्मी तस्याश्रयस्थितेः ।
 

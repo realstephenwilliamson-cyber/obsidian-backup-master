@@ -33,5 +33,10 @@ kṛtvākṣasūtraṃ tasyāpi sarvaṃ sthaṇḍilavadbhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 415–417)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 27.37–39.*
+>
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.37–39]]
+
 Jayaratha comments on this verse together with 27.39: see [[Tantraloka 27.039#Viveka|27.39]].
 

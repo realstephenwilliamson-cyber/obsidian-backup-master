@@ -36,6 +36,11 @@ samayācārasadbhāvaḥ pālyatvenopadiśyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 367–370)
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.260–261]]
+>
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.261–263]]
+
 *Lead-in:* अथ समयादिप्रपालनमाचष्टे --
 
 Jayaratha comments on this verse together with 4.260: see [[Tantraloka 04.260#Viveka|4.260]].

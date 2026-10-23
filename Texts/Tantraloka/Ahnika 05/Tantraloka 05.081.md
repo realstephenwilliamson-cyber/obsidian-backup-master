@@ -35,6 +35,9 @@ vimarśanaṃ viśeṣākhyaḥ spanda aunmukhyasaṃjñitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 102–103)
+> ![[Tantraloka Dyczkowski v04 05 - Chapter Five, part 3#Viveka on 5.81]]
+
 *Lead-in:* अत आह --
 
 > ततः स्वातन्त्र्यनिर्मेये विचित्रार्थक्रियाकृति ।

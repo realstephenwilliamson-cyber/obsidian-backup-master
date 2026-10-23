@@ -35,5 +35,8 @@ yāntyanyonyaṃ layaṃ teṣāmāyurgāhanikaṃ dinam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 372)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.153–154]]
+
 Jayaratha comments on this verse together with 6.157: see [[Tantraloka 06.157#Viveka|6.157]].
 

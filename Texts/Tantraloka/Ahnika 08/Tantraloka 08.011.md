@@ -34,6 +34,9 @@ na prakriyāparaṃ jñānamiti svacchandaśāsane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 61–62)
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.11]]
+
 *Lead-in:* यदभिप्रायेणैव श्रीस्वच्छन्दशास्त्रमप्येवमाह --
 
 > एवं शिवत्वमापन्नमिति मत्वा न्यरूप्यत ।

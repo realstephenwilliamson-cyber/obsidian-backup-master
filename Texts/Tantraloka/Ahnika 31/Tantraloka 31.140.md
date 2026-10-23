@@ -31,6 +31,9 @@ lokasthā nāḍikā hitvā netrādvedāgnayaḥ kramāt |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 124)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.140–141]]
+
 *Lead-in:* एवं पुरीसंनिवेशं वर्तयित्वा स्वस्तिकवर्तनामपि आह--
 
 > लोकस्था नाडिका हित्वा नेत्राद्वेदाग्नयः क्रमात् ।

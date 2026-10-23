@@ -31,6 +31,9 @@ nāyastaṃ patitāghātadāne ko hi na paṇḍitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 278–279)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.305]]
+
 *Lead-in:* ननु काणादैः शब्दस्य स्पर्शवद्धर्मतामपाकर्तुं हेतुत्रयमुपन्यस्तं तत् कथमेतदेकेनैव हेतुना पराकृतेन पराकृतं स्यात्, अन्यस्य हेतुद्वयस्याविकलस्यैव भावात् ? -- इत्याशङ्क्याह --
 
 > एतच्चान्यैरपाकारि बहुधेति वृथा पुनः ।

@@ -32,5 +32,8 @@ tādṛk ca na guruḥ kāryastaṃ kṛtvāpi parityajet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 339–340)
+> ![[Tantraloka Dyczkowski v08 10 - Chapter Fifteen, part 9#Viveka on 15.586–588]]
+
 Jayaratha comments on this verse together with 15.597: see [[Tantraloka 15.597#Viveka|15.597]].
 

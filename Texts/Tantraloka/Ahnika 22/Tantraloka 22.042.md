@@ -33,6 +33,11 @@ tena sarvo'dharastho'pi liṅgoddhṛtyānugṛhyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 291–292)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.40–42]]
+>
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.42]]
+
 *Lead-in:* एतदेव प्रकृते विश्रमयति--
 
 > तेन सर्वोऽधरस्थोऽपि लिङ्गोद्धृत्यानुगृह्यते ॥

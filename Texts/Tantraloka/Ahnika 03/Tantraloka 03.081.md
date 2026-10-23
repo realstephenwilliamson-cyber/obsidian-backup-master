@@ -35,6 +35,9 @@ kṣobhāntarasyāsadbhāvānnedaṃ bījaṃ ca kasyacit || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 182–185)
+> ![[Tantraloka Dyczkowski v02 06 - Chapter Three, part 3#Viveka on 3.81]]
+
 *Lead-in:* इह पुनः किञ्चिदुच्छूनतासमापत्त्या पृथगिवावभास इति इत्येतदुक्तम् । अत आह --
 
 > इच्छाशक्तेरतः प्राहुश्चातूरूप्यं परामृतम् ।

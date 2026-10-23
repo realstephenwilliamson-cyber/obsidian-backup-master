@@ -31,6 +31,9 @@ putrakaḥ sādhako vyaktamavyaktaṃ vā samāśrayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 404)
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.9]]
+
 *Lead-in:* एवमस्मद्दर्शने बहिःस्थिरप्रतिष्ठानिषेधात् चलैव कार्या--इत्याह- -
 
 > आ तन्मयत्वसंसिद्धेरा चाभीष्टफलोदयात् ।

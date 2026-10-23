@@ -33,6 +33,13 @@ evaṃ vicitre'pyetasmiñchaktipāte sthite sati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 305–308)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.293–295]]
+>
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.293–295 (continued)]]
+>
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.295–300]]
+
 *Lead-in:* इहेदानीं शक्तिपातवैचित्र्यमूलमधिकारवैचित्र्यमप्यभिधातुमुपक्रमते -
 
 > एवं विचित्रेऽप्येतस्मिञ्छक्तिपाते स्थिते सति ॥

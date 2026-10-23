@@ -31,5 +31,8 @@ so'pyahorātramevainaṃ japedalpabhugapyabhuk || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 284–285)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.20–22]]
+
 Jayaratha comments on this verse together with 22.22: see [[Tantraloka 22.022#Viveka|22.22]].
 

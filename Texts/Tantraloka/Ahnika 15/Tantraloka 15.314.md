@@ -31,6 +31,9 @@ paṅkajānāṃ sitaṃ saptatriṃśadātmedamāsanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 186–189)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.313–314]]
+
 > तस्य नाभ्युत्थितं मूर्धरन्ध्रत्रयविनिर्गतम् ।
 > नादान्तात्म स्मरेच्छक्तिव्यापिनीसमनोज्ज्वलम् ॥
 > अरात्रयं द्विषट्कान्तं तत्राप्यौन्मनसं त्रयम् ।

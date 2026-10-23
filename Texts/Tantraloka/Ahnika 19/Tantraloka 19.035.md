@@ -34,6 +34,9 @@ na lupyate tadantaḥsthaprāṇivargopakārataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 222–223)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.34–35]]
+
 > यथा निषिद्धभूतादिकर्मा मन्त्रं स्मरन्स्वयम् ।
 > आविष्टेऽपि क्वचिन्नैति लोपं कर्तृत्ववर्जनात् ॥
 > यथा च वाचयञ्शास्त्रं समयी शून्यवेश्मनि ।

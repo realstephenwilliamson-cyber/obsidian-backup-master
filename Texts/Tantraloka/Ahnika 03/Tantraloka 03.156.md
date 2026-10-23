@@ -35,6 +35,9 @@ vakāratvaṃ prapadyeta sṛṣṭisārapravarṣakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 273–274)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.154–156]]
+
 > इच्छाशक्तिश्च या द्वेधा क्षुभिताक्षुभितत्वतः ।
 > सा विजातीयशक्त्यंशप्रोन्मुखी याति यात्मताम् ॥
 > सैव शीघ्रतरोपात्तज्ञेयकालुष्यरूषिता ।

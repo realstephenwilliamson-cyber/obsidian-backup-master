@@ -26,17 +26,17 @@ converted: 2026-10-07
 तवगरक्तमांसमूतरेष यवर्ग परिकल्पयेत् | ३९१ ||
 शामस्थिवसाशुक्रप्राणकुपेषु पञ्चकम् ।
 
-a lalāṭe dvitīyar ca vaktre \[illegible\] \[illegible\] et | 
+a lalāṭe dvitīyaṁ ca vaktre \[illegible\] \[illegible\] et | 
 
 i-ī netradvaye dattvā u-ū karnṇadvaye nyaset || 27 ॥
 r R nāsāpuṭte tadvat ( L gandadvaye tathā |
-e ai adhordhvadanteṣu o-aukārau tatho ‘ṣthayoh ॥ 28 ॥
-arh śikhāyār visargeṇa jihvāṁ sarhparikalpayet |
+e ai adhordhvadanteṣu o-aukārau tatho ‘ṣthayoḥ ॥ 28 ॥
+aṁ śikhāyār visargeṇa jihvāṁ saṁparikalpayet |
 dakṣiṇaskandhadordandakarāṁgulinakheṣu ca || 29 ॥
-kavargarh vinyased vāme tadvaccādyamanukramāt |
+kavargaṁ vinyased vāme tadvaccādyamanukramāt |
 tatādyau pūrvavadvargau nitamborvādiṣu nyaset || 30 ॥
-pādyaṁ pārśvadvaye prṣthe jathare hrdyanukramāt |
-tvagraktamāṁisamūtreṣu yavargarh parikalpayet || 31 ॥
+pādyaṁ pārśvadvaye pṛṣthe jathare hṛdyanukramāt |
+tvagraktamāṁisamūtreṣu yavargaṁ parikalpayet || 31 ॥
 sādyamasthivasāśukraprāṇakūpeṣu pañcakam | 
 
 A should be imagined to be on the forehead and the second one (4) on the mouth. Having placed I and Ī on the two eyes, one should deposit U and \[illegible\] on the two ears. r and R are on the nostrils. In the same way one should deposit ḷ and Ḷ on the two cheeks. E and AI are on the lower and upper teeth (respectively). The letters O and AU are in the same way on the two lips. M is on the topknot. The tongue should be fashioned with H. 
@@ -45,10 +45,10 @@ One should deposit the gutturals on the right shoulder, arm, hand, fingers and n
 
 *[p. 412]* ^pg430
 
-(phonemes) beginning with \[illegible\] (i.e., \$, S, H and K\$) are on the bones, fat, sperm, vital breath and the testicles (respectively).” (27-32ab) 
+(phonemes) beginning with \[illegible\] (i.e., \$, S, H and KṢ) are on the bones, fat, sperm, vital breath and the testicles (respectively).” (27-32ab) 
 
 मूर्यङ्गानि ततो दत्वा शिवमावाहयेटबृधः || ३२ ॥
-mūrtyaṁgāni tato dattvā śivamāvāhayedbudhah ॥ 32 ॥ 
+mūrtyaṁgāni tato dattvā śivamāvāhayedbudhaḥ ॥ 32 ॥ 
 
 Having formed the limbs of the Icon (mūrti) (mantra), the wise man should then invoke Śiva (to enter into it). (32cd) 
 
@@ -58,15 +58,15 @@ Bhairavasadbhāva प्राणोपरि न्यसेत्नाभि�
 अद्भान्यनेन का्यीणि पूर्ववत्स्वरभेदतः || ३४ ||
 
 prāṇopari nyasennābhiṁ tadūrdhve dakṣināṁgulim |
-vāmakarṇaprameyotah sarvasiddhipradah śivah ॥ 33 ॥
-sadbhāvah paramo hyeṣa bhairavasya mahātmanah |
-aṁgānyanena kāryānṇi pūrvavatsvarabhedatah || 34 ॥ 
+vāmakarṇaprameyotaḥ sarvasiddhipradaḥ śivaḥ ॥ 33 ॥
+sadbhāvaḥ paramo hyeṣa bhairavasya mahātmanaḥ |
+aṁgānyanena kāryānṇi pūrvavatsvarabhedataḥ || 34 ॥ 
 
-The navel (K\$) should be deposited above (i.e., before) the vital breath (H), and above that the right finger (JH). (This is) Śiva, the bestower of all accomplishments, threaded through with the objectivity (prameyota) of the left ear \[illegible\] This is the supreme essence (sadbhāva) of Bhairava, the great soul. The limbs should be formed as before, in conjunction with the vowels.” (33-34) Śāmbhavanyāsa मूर्तिः सुष्टिखितत्वं च अष्टौ मूर्यद्धसंयुताः ।
+The navel (KṢ) should be deposited above (i.e., before) the vital breath (H), and above that the right finger (JH). (This is) Śiva, the bestower of all accomplishments, threaded through with the objectivity (prameyota) of the left ear \[illegible\] This is the supreme essence (sadbhāva) of Bhairava, the great soul. The limbs should be formed as before, in conjunction with the vowels.” (33-34) Śāmbhavanyāsa मूर्तिः सुष्टिखितत्वं च अष्टौ मूर्यद्धसंयुताः ।
 शिवः साद्श्च षोढेव न्यासः संपरिकीर्तितः ॥ ३५ ॥
 
-\[illegible\] srṣtṭistritattvaṁ ca aṣtau mūrtyaṁgasaṁyutāh |
-sivah sāṁùgaśca ṣodhaiva nyāsah saṁparikīrtitah ॥ 35 ॥ 
+\[illegible\] sṛṣtṭistritattvaṁ ca aṣtau mūrtyaṁgasaṁyutāḥ |
+sivaḥ sāṅgaśca ṣodhaiva nyāsaḥ saṁparikīrtitaḥ ॥ 35 ॥ 
 
 The Icon (mūrti), emanation, the three principles, the eight, conjoined to the limbs of the Icon,” and Śiva with his limbs ~ this is said to be the sixfold deposition.” (35) 
 
@@ -88,32 +88,32 @@ The Icon (mūrti), emanation, the three principles, the eight, conjoined to the 
 अघोयी्टकं न्यस्य विाङ्गानि तु पूर्ववत् |
 ततस्त्वावाहयेच्छक्तिं सर्वयोगिनमस्कृताम् ॥ ३८ ॥
 
-asyopari tatah śāktaṁ kuryānnyāsaṁ yathā 51114 | 
+asyopari tataḥ śāktaṁ kuryānnyāsaṁ yathā 51114 | 
 
 māūrtau parāparāṁ nyasya tadvaktrāṇi ca mālinīm || 36 ॥
-parāditritayaṁn paścācchikhāhrtpādagaṁ nyaset |
-kavaktrakanthahrnnābhiguhyorūpādagaṁ kramāt ॥ 37 ॥
+parāditritayaṁn paścācchikhāhṛtpādagaṁ nyaset |
+kavaktrakanthahṛnnābhiguhyorūpādagaṁ kramāt ॥ 37 ॥
 aghoryādyaṣṭakaṁ nyasya vidyāṁgāni tu pūrvavat |
-tatastvāvāhayecchaktiṁn sarvayoginamaskrtām || 38 ॥ 
+tatastvāvāhayecchaktiṁn sarvayoginamaskṛtām || 38 ॥ 
 
 One should then perform the deposition of energy \[illegible\] above it; listen to how (that is done).” 
 
 Having first of all deposited Parāparā with (Her) faces (and limbs) onto the Icon and (on emanation) Mālinī, he should then deposit the triad Parā and the rest (of the three principles)” onto the topknot, heart and feet, respectively. Then having deposited (above the eight, Aghora and the rest, the eight goddesses) beginning with Aghorī onto the head, face, throat, heart, navel, genitals, thighs and feet, respectively (he should deposit) the five limbs of the Vidyā (vidyāṁga) (above the corresponding limbs of the Icon) as before.” Then (finally, the officiant) should invoke (āvāhayet) (Śiva’s) power which is revered by all yogis.” (36-38) 
 
-995?\. Concerning all this, see TĀ 15/247-250ab. According to Śambhunātha’s interpretation (see TĀ 15/245cd-246), the translation of MV 8/35 would be as follows: “The deposition according to the tradition is sixfold, consisting of mārti (= Navātman), emission (= Mātrkā), the three principles, the eight conjoined to the ‘icon’, iva (= Bhairavasadbhāva) and (by a sixth being) with his limbs.’
+995?\. Concerning all this, see TĀ 15/247-250ab. According to Śambhunātha’s interpretation (see TĀ 15/245cd-246), the translation of MV 8/35 would be as follows: “The deposition according to the tradition is sixfold, consisting of mārti (= Navātman), emission (= Mātṛkā), the three principles, the eight conjoined to the ‘icon’, Śiva (= Bhairavasadbhāva) and (by a sixth being) with his limbs.’
 
-996?\. MV 8/35-36ab is quoted in TĀ 15/247-248ab with variants but without change of meaning. In place of MV 8/35cd sivah \[illegible\] ca ṣodhaiva nyāsah saṁprakīrtitah — ‘and Śiva with his limbs - this is said to be the sixfold deposition’, TĀ 15/247cd reads: sivah sāṁgaś ca vijñeyo nyāsah ṣodhā prakīrtitah — \[illegible\] should (also) know Śiva with his limbs — “this is said to be the sixfold deposition’. In place of MV 8/36ab asyopari tatah \[illegible\] kuryān nyāsari yathā rnu — “then one should then perform the deposition of energy above it; listen to how (that is done)’, TĀ 15/248ab reads: asyopari tatah śāktaṁ nyāsari kuryācca ṣadvidham — \*one should then perform the sixfold deposition of energy above it.’ TĀ 15/239cd-246 explains these and related verses in the MV.
+996?\. MV 8/35-36ab is quoted in TĀ 15/247-248ab with variants but without change of meaning. In place of MV 8/35cd sivaḥ \[illegible\] ca ṣodhaiva nyāsaḥ saṁprakīrtitaḥ — ‘and Śiva with his limbs - this is said to be the sixfold deposition’, TĀ 15/247cd reads: sivaḥ sāṁgaś ca vijñeyo nyāsaḥ ṣodhā prakīrtitaḥ — \[illegible\] should (also) know Śiva with his limbs — “this is said to be the sixfold deposition’. In place of MV 8/36ab asyopari tataḥ \[illegible\] kuryān nyāsaṁ yathā śṛṇu — “then one should then perform the deposition of energy above it; listen to how (that is done)’, TĀ 15/248ab reads: asyopari tataḥ śāktaṁ nyāsaṁ kuryācca ṣadvidham — \*one should then perform the sixfold deposition of energy above it.’ TĀ 15/239cd-246 explains these and related verses in the MV.
 
 997?\. According to this view, the three principles are the three Bhairavas: Navātman, Ratiśekhara and Bhairavasadbhāva.
 
 998?\. See TĀ 15/247-250ab.
 
-999?\. TĀ 5/248cd-250 is a close paraphrase of MV 8/36-38. MV 8/38cd reads tatas tv āvāhayec chaktiń sarvayoginamaskrtām — ‘Then (finally, the officiant) should invoke (āvāhayet) (Śiva’s) power which is saluted by all yogis.’ TĀ 15/250d reads instead ‘Then (finally, the officiant) should invoke (āvāhayer) \[illegible\] \[illegible\] power) in the form of Mātrsadbhāva’.
+999?\. TĀ 5/248cd-250 is a close paraphrase of MV 8/36-38. MV 8/38cd reads tatas tv āvāhayec chaktiń sarvayoginamaskṛtām — ‘Then (finally, the officiant) should invoke (āvāhayet) (Śiva’s) power which is saluted by all yogis.’ TĀ 15/250d reads instead ‘Then (finally, the officiant) should invoke (āvāhayer) \[illegible\] \[illegible\] power) in the form of Mātṛsadbhāva’.
 
 
 *[p. 414]* ^pg432
 
-Mātrsadbhāva 
+Mātṛsadbhāva 
 
 जीवः प्राणपुटान्तस्थः कालानलसम्तिः ।
 अतिदीप्तस्तु वामाद्गहिभूषितो मूध बिन्दुना ॥ ३९ ॥
@@ -124,13 +124,13 @@ Mātrsadbhāva
 रुद्रशक्तिसमावेशो नित्यमत्र प्रतिष्ठितः ।
 यस्मादेषा पराशक्तिर्भटेनानेन कीर्तिता ॥ ४२ ॥
 
-jīvah prāṇapuṭāntasthah kālānalasamadyutih |
+jīvaḥ prāṇapuṭāntasthaḥ kālānalasamadyutiḥ |
 atidīptas tu vāmāṁghribhūṣito mūrdhni bindunā ॥ 39 ॥
-dakṣajānuyutaś cãyarn sarvamātrganānvitah” |
-anena prīnitāh sarvā? dadate vāñchitaṁ phalam II 40 ॥
-sadbhāvah paramo hyeṣa mātRnāṁ paripaṭhyate” |
-tasmādenāṁTM japenmantrī ya icchetsiddhimuttamām ॥ 41 ॥
-rudraśaktisamāveśo nityamatra pratiṣthitah |
+dakṣajānuyutaś cāyarn sarvamātṛganānvitaḥ” |
+anena prīnitāḥ sarvā? dadate vāñchitaṁ phalam II 40 ॥
+sadbhāvaḥ paramo hyeṣa mātRnāṁ paripaṭhyate” |
+tasmādenāṁ japenmantrī ya icchetsiddhimuttamām ॥ 41 ॥
+rudraśaktisamāveśo nityamatra pratiṣthitaḥ |
 yasmādeṣā parāśaktirbhedenānena\* kīrtitā ॥ 42 ॥ 
 
 %The Living Being (S) within the capsule of (the two) Vital Breaths (B), shining like the Fire of Time (R), the Left Foot (of the goddess) (PH), intensely energized, its head adorned with the Point (M) and linked with the Right Knee (E).” Accompanied by all the host of Mothers,” this (mantra) gives life to them all” and they bestow the fruit (one’s) desires. 11 is taught that this is the supreme essence (sadbhāva) of the Mothers.” Therefore, the officiant (mantrin) who aspires to the most excellent accomplishment must repeatedly recite it. The penetration of Rudra’s power (rudraśaktisamāveśa) 
@@ -141,7 +141,7 @@ yasmādeṣā parāśaktirbhedenānena\* kīrtitā ॥ 42 ॥
 
 1002?\. TĀ bhairavasya ca.
 
-1003?\. \*Read with TĀ -nam for -nār.
+1003?\. \*Read with TĀ -nam for -nāṁ.
 
 1004?\. Variant reading: 100 anyeneti.
 
@@ -149,7 +149,7 @@ yasmādeṣā parāśaktirbhedenānena\* kīrtitā ॥ 42 ॥
 
 1006?\. \[illegible\] Thus, the Mantra is HSHRPHEM.
 
-1007?\. 16 30/48b reads sarvamātrganārcitah ‘venerated by all the host of Mothers’ for MV 8/40b sarvamātrganānvitah ‘accompanied by all the host of Mothers’.
+1007?\. 16 30/48b reads sarvamātṛganārcitaḥ ‘venerated by all the host of Mothers’ for MV 8/40b sarvamātṛganānvitaḥ ‘accompanied by all the host of Mothers’.
 
 1008?\. TĀ 30/48c reads ‘sarve’ for sarvā. The feminine in this reading refers to the Mothers.
 
@@ -163,30 +163,30 @@ is always established here, for it is said to be the Supreme Power, in this aspe
 यावत्यः सिद्धयस्तन््रे सवी: स्युरनया कृताः ।
 अद्खानि कल्पयेद् अस्याः पूर्ववत्स्वरभेदतः || ४३ ||
 
-11111111 syuranayā krtāh |
-añṁgāni kalpayed asyāh pūrvavatsvarabhedatah ॥ 43 ॥ 
+11111111 syuranayā kṛtāḥ |
+aṅgāni kalpayed asyāḥ pūrvavatsvarabhedataḥ ॥ 43 ॥ 
 
-As many as are the accomplishments (siddhi) (promised) in the Tantra, all of them are generated by this (Vidyā).® Her limbs should be formed as before in conjunction with the vowels (as appropriate).“ (43) 
+As many as are the accomplishments (siddhi) (promised) in the Tantra, all of them are generated by this (Vidyā). Her limbs should be formed as before in conjunction with the vowels (as appropriate).“ (43) 
 
 मूर्तिः सवक्त्रा शक्तिश्च विात्रितय एव च ।
 अघोयीष्टक चेति तथा विाङ्गपञ्चकम् | ४४ ||
 सद्गा चैव परा शक्ति््यासः प्ोक्तोऽथ षड्विधः ।
 यामलोऽयमतो न्यासः सर्वसिद्धिप्रसिद्धये | ४५ ||
 
-mūrtih savaktrā śaktiśca vidyātritaya eva ca |
+mūrtiḥ savaktrā śaktiśca vidyātritaya eva ca |
 aghoryādyaṣtakari ceti” tathā vidyāṁgapañcakam ॥ 44 ॥
-sāṁgā caiva parā śaktirnyāsah prokto ‘tha ṣadvidhah |
-yāmalo ‘yamato nyāsah sarvasiddhiprasiddhaye ॥ 45 ॥ 
+sāṁgā caiva parā śaktiṁyāsaḥ prokto ‘tha ṣadvidhaḥ |
+yāmalo ‘yamato nyāsaḥ sarvasiddhiprasiddhaye ॥ 45 ॥ 
 
 Now, the deposition is said to be sixfold. (It consists of) the Icon (of Mālinī) with its faces, power, the three Vidyās, the group of eight beginning with AghorT, the five limbs (of the Vidyā) and the supreme power with (her) limbs. Thus, this double \[illegible\] deposition (first male then female) serves to attain all accomplishments (siddhi).“ (44-45) 
 
-1010?\. TĀ 30/50d reads bhedenānyena- ‘in another aspect’ for MV 8/42d bhedānena — ‘in this aspect’. The reference here is to the sonic form of Parā, that is, SAUH. See above, TĀv on 29/21; ‘Here with the word ‘Parā’ itself the author has referred (vyākrta) to Mātrsadbhāva which is the highest form of Parā Herself.”
+1010?\. TĀ 30/50d reads bhedenānyena- ‘in another aspect’ for MV 8/42d bhedānena — ‘in this aspect’. The reference here is to the sonic form of Parā, that is, SAUH. See above, TĀv on 29/21; ‘Here with the word ‘Parā’ itself the author has referred (vyākṛta) to Mātṛsadbhāva which is the highest form of Parā Herself.”
 
-1011?\. TĀ and kh: pu0 tāh sarvāh kurute tviyam.
+1011?\. TĀ and kh: pu0 tāh sarvāḥ kurute tviyam.
 
-1012?\. \[illegible\] of them are generated by this \[illegible\] TĀ 31/51b reads \[illegible\] sarvāh kurute tv iyam — “this (Vidyā) generates them all.”
+1012?\. \[illegible\] of them are generated by this \[illegible\] TĀ 31/51b reads \[illegible\] sarvāḥ kurute tv iyam — “this (Vidyā) generates them all.”
 
-1013?\. See TĀ 30/47-51. TĀ 30/51cd reads aṁgavaktrāni cāpyasyāh prāgvatsvaraniyogatah — ‘her limbs and faces are formed by applying the vowels in the same way as (explained) previously’ for MV 8/43cd \[illegible\] kalpayed asyāh pūrvavat svarabhedatah — \[illegible\] limbs should be formed as before in conjunction with the vowels.” For the limbs and faces of Mātrsadbhāva (HSHRPHREM) see above, note 553. + k: anyathāpyanneti.
+1013?\. See TĀ 30/47-51. TĀ 30/51cd reads aṁgavaktrāni cāpyasyāḥ prāgvatsvaraniyogataḥ — ‘her limbs and faces are formed by applying the vowels in the same way as (explained) previously’ for MV 8/43cd \[illegible\] kalpayed asyāḥ pūrvavat svarabhedataḥ — \[illegible\] limbs should be formed as before in conjunction with the vowels.” For the limbs and faces of Mātṛsadbhāva (HSHRPHREM) see above, note 553. + k: anyathāpyanneti.
 
 1014?\. See TĀ 15/254-255.
 
@@ -195,19 +195,19 @@ Now, the deposition is said to be sixfold. (It consists of) the Icon (of Mālin�
 
 वामो वायं विधिः कार्यो मुक्तिमागीवलम्बिभिः |
 वरणमन््रविभेदेन पृथग्वा तत्फलार्धिभिः || ४६ ||
-vāmo vāyaṁ vidhih kāryo muktimārgāvalambibhih |
-varṇamantravibhedena prthagvā tatphalārthibhih |l 46 ॥ 
+vāmo vāyaṁ vidhiḥ kāryo muktimārgāvalambibhiḥ |
+varṇamantravibhedena pṛthagvā tatphalārthibhiḥ |l 46 ॥ 
 
-Those who take their support from the path to liberation should (first) perform this procedure of the left (concerning Śakti).® Or else those who do not desire that fruit (should perform them) separately with (the correspondingly) different mantras and phonemes. (46) 
+Those who take their support from the path to liberation should (first) perform this procedure of the left (concerning Śakti). Or else those who do not desire that fruit (should perform them) separately with (the correspondingly) different mantras and phonemes. (46) 
 
 यावन्तः कीर्तिता भेदैः शंभुशक्त्यणुवाचकाः ।
 तावत्स्वप्येवमेवायं न्यासः पञ्चविधो मतः || ४७ ||
 कितु बाह्यस्तु यो यत्र स तत्राद्गसमन्वितः ।
 षष्ठः स्यादिति सर्वत्र षोढैवायमुदाहतः | ४८ ॥
-yāvantah kīrtitā bhedaih śabhuśaktyaṇuvācakāh |
-tāvatsvapyevamevāyaṁ nyāsah pañcavidho matah ॥ 47 ॥
-kirhtu bāhyastu yo yatra sa tatrāīṁgasamanvitah |
-ṣaṣthah syāditi sarvatra ṣodhaivāyamudāhrtah ॥ 48 ॥ 
+yāvantaḥ kīrtitā bhedaiḥ śabhuśaktyaṇuvācakāḥ |
+tāvatsvapyevamevāyaṁ nyāsaḥ pañcavidho mataḥ ॥ 47 ॥
+kiṁtu bāhyastu yo yatra sa tatrāīṁgasamanvitaḥ |
+ṣaṣthaḥ syāditi sarvatra ṣodhaivāyamudāhṛtaḥ ॥ 48 ॥ 
 
 This deposition is considered in the same way to be of five kinds and concerns (all the mantras) with their varieties, however many they be (in all the Tantras), that denote Śiva, (His) Power and the individual soul. However, (one should take care) that wherever the (mantra) which is invoked“ (happens to be), that it is present there with its limbs and should be the sixth (deposition). This sixfold (deposition) is mentioned everywhere (in the scriptures)." (47-48) 
 
@@ -216,19 +216,19 @@ The Sacrificial Substances and the Sacrificial Vessel स्वानुष्�
 
 1015?\. MV 8/44-46ab is concisely paraphrased as TĀ 15/254-255ab. MV 8/46ab is quoted in TĀv ad 15/255cd.
 
-1016?\. Read vātatphalārthibhih for vā tatphalārthibhih.
+1016?\. Read vātatphalārthibhiḥ for vā tatphalārthibhiḥ.
 
-1017?\. TĀ 15/257, where MV 8/47 is quoted, reads bhedāh for bhedaih and ṣogdhaiva kīrtitah for pañcavidho matah. Thus, the translation of the text there in the TĀ is: ‘The sixfold deposition (in this case) is said to be one in which (the Mantras deposited) are the kinds amongst these Mantras (taught in any of the Tantras), however many they be, that denote Siva, (His) Power and the individual soul,”
+1017?\. TĀ 15/257, where MV 8/47 is quoted, reads bhedāḥ for bhedaiḥ and ṣogdhaiva kīrtitaḥ for pañcavidho mataḥ. Thus, the translation of the text there in the TĀ is: ‘The sixfold deposition (in this case) is said to be one in which (the Mantras deposited) are the kinds amongst these Mantras (taught in any of the Tantras), however many they be, that denote Siva, (His) Power and the individual soul,”
 
-1018?\. \[illegible\] Read with TĀ 15/258a, kirntv āvāhyas tu for kirhtu bāhyastu.
+1018?\. \[illegible\] Read with TĀ 15/258a, kiṁtv āvāhyas tu for kiṁtu bāhyastu.
 
 1019?\. \[illegible\] TĀ 15/258 is a direct citation of MV 8/48.
 
 
 *[p. 417]* ^pg435
 
-svānuṣthānāvirodhena bhāvābhāvavikalpanaih |
-yāgadravyāni sarvānṇi kāryāni vidhivadbudhaih ॥ 49 ॥ 
+svānuṣthānāvirodhena bhāvābhāvavikalpanaiḥ |
+yāgadravyāni sarvānṇi kāryāni vidhivadbudhaiḥ ॥ 49 ॥ 
 
 The wise (unafflicted) by notions of existence and non-existence should prepare all the sacrificial substances as (enjoined by the appropriate) procedure without being in conflict with (the requirements of) their own ritual observance (svānuṣthāna). (49) 
 
@@ -241,21 +241,21 @@ Then taking up the sacrificial vessel (arghapātra) which, devoid of notions of 
 
 कर्तव्या यस्य संशुद्धिरन्यस्याप्यत्र वस्तुनः ।
 तस्यानेनैव मार्मेण प्रकर्तव्या विजानता ॥ ५१ ||
-kartavyā yasya samśuddhiranyasyāpyatra vastunah |
+kartavyā yasya samśuddhiranyasyāpyatra vastunaḥ |
 tasyānenaiva mārgeṇa prakartavyā vijānatā || 51 ॥ 
 
 (Whatever) is to be purified, be it this entity or something else, that should be done in this very same way by one who knows (how to do it).\* (51) ना चासंशोधितं वस्तु किंचिदप्यत्र कल्पयेत् ।
 तेन शुद्धं तु सर्वं यदशुद्धमपि तच्छुचि | ५२ ॥
-nā cāsaṁśodhitaṁ vastu kirùcidapyatra\* kalpayet |
-tena“ śuddham tu sarvarh yadaśuddhamapi tacchuci ॥ 52 ॥ 
+nā cāsaṁśodhitaṁ vastu kiṁcidapyatra\* kalpayet |
+tena“ śuddham tu sarvaṁ yadaśuddhamapi tacchuci ॥ 52 ॥ 
 
-1020?\. Read bhāvābhāvāvikalpanaih for bhāvābhāvavikalpanaih; the meaning it seems is that the officiant should not worry whether a sacrificial substance that is normally required for a rite is amongst the offerings or not. Whatever inspires him is pleasing to the deity. As Abhinavagupta writes: “It is not specified which substances are (best suited) for the sacrifice nor the liquid offering (argha). (This is because) the cause of (attaining) the particular accomplishment of one who desires accomplishments (is the type of) practice (sādhanā) (and the offering of a particular sacrificial substances that that entails). (However,) for one who aspires to liberation, nothing is prohibited or enjoined; whatever is pleasing (to him) is fit to bring about oneness with Śiva’s consciousness.’ TĀ 15/290cd-291.
+1020?\. Read bhāvābhāvāvikalpanaiḥ for bhāvābhāvavikalpanaiḥ; the meaning it seems is that the officiant should not worry whether a sacrificial substance that is normally required for a rite is amongst the offerings or not. Whatever inspires him is pleasing to the deity. As Abhinavagupta writes: “It is not specified which substances are (best suited) for the sacrifice nor the liquid offering (argha). (This is because) the cause of (attaining) the particular accomplishment of one who desires accomplishments (is the type of) practice (sādhanā) (and the offering of a particular sacrificial substances that that entails). (However,) for one who aspires to liberation, nothing is prohibited or enjoined; whatever is pleasing (to him) is fit to bring about oneness with Śiva’s consciousness.’ TĀ 15/290cd-291.
 
 1021?\. See TĀ 30/41cd.
 
 1022?\. MV 8/51 is quoted in TĀv ad 15/420cd-421ab (417cd-418ab).
 
-1023?\. \[illegible\] Variant reading: kirncid apyupakalpayed.
+1023?\. \[illegible\] Variant reading: kiṁcid apyupakalpayed.
 
 1024?\. k: saṁśodhitaṁ ca yat sarvam.
 
@@ -268,7 +268,7 @@ One should not think (kalpayet) that any substance, whatever it be (that is offe
 अमृतीकृत्य स्वणि तेन द्रव्याणि शोधयेत् || ५३ ॥
 
 tadambunā samāpūrya ṣadbhiraṁgaihṛ samarpya ca |
-amrtīkrtya sarvānṇi tena dravyānṇi śodhayet || 53 ॥ 
+amṛtīkṛtya sarvānṇi tena dravyānṇi śodhayet || 53 ॥ 
 
 After having filled (the sacrificial vessel) with water, offered it with the six limbs (of the mantra, and thus) transformed it into nectar, all the (sacrificial) substances should be purified with it. (53) 
 
@@ -277,7 +277,7 @@ The Inner Sacrifice
 The Trika Trident आत्मानं पूजयित्वा तु कुयीदन्तः कृतिं यथा ।
 तथा ते कथयि ष्यामि सर्वयोगिगणार्चिते || ५४ ||
 
-ātmānari pūjayitvā tu kuryādantah krti yathā |
+ātmānari pūjayitvā tu kuryādantaḥ kṛti yathā |
 tathā te kathayiṣyāmi sarvayogiganārcite || 54 || 
 
 O goddess who is honoured by all the host of yogis, I will tell you now how, after having worshipped the Self, the inner sacrifice is performed. (54) 
@@ -287,7 +287,7 @@ O goddess who is honoured by all the host of yogis, I will tell you now how, aft
 एकंकाहवलमेतत्सयाचछूस्यामलसारकम् ।
 
 ādāv ādhāraśakti tu nābhyadhaś caturaṁgulām |
-dharāṁ surodarh potan ca kandaśceti catuṣtayam || 55 ॥
+dharāṁ surodaṁ potan ca kandaśceti catuṣtayam || 55 ॥
 ekaikāṁgulametatsyācchūlasyāmalasārakam” | 
 
 The Base of the Trident 
@@ -298,7 +298,7 @@ The Base of the Trident
 
 1026?\. k: ṣadbhirarghair.
 
-1027?\. k: caturañgulametad.
+1027?\. k: caturaṅgulametad.
 
 
 *[p. 419]* ^pg437
@@ -312,7 +312,7 @@ The Base of the Trident
 
 tato nālamanantākhyaṁ dandamasya prakalpayet ॥ 56 Il lambikāvadhitaścātra śūlordhvaṁ granthiriṣyate |
 abhittvainan mahādevi pāśajālamahārṇavam II 57 ॥
-na sa yogamavāpnoti śivena saha mānavah | 
+na sa yogamavāpnoti śivena saha mānavaḥ | 
 
 The Shaft of the Trident 
 
@@ -339,7 +339,7 @@ The reciter of mantra should meditate on the four qualities (of the intellect), 
 
 *[p. 420]* ^pg438
 
-the four cornices (gātraka)® in the four-directions, starting with the east. (58cd- 59) 
+the four cornices (gātraka) in the four-directions, starting with the east. (58cd- 59) 
 
 The Square at Śuddhavidyā between the Uvula and Cavity of Brahmā 
 
@@ -348,7 +348,7 @@ The Square at Śuddhavidyā between the Uvula and Cavity of Brahmā
 कखलम्बिकयोर्मध्ये तत्तत्वमनुचिन्तयेत् |
 
 grantherūrdhvar trīśūlādho bhavitavyā catuṣkikā |
-vidyātattvaṁ tadevāhuścharidanatrayasanyutam“ || 60 II kakhalambikayormadhye tattattvamanucintayet®’ | 
+vidyātattvaṁ tadevāhuścharidanatrayasanyutam“ || 60 II kakhalambikayormadhye tattattvamanucintayet’ | 
 
 One should meditate (in this way) on the square base (catuṣkikā) which is above the knot and below the three prongs. They say that it is the principle of (Pure) Knowledge and that it has two coverings.\* One should meditate (anucintayet) on that principle in the middle (between) the Cavity of Brahmā (kakha) and the uvula.” (60-61ab) 
 
@@ -357,21 +357,21 @@ The Lotus of the Īévara Principle in the Cavity of Brahmā
 पदाकृति कखतत्त्वमैश्वरं चिन्तयेद्बुधः || ६९ ||
 कर्णिकाकेसरोपेतं सबीजं विकसत्सितम् |
 
-padmākrti® 1111011 11011 1111 11110111 vikasatsitam | 
+padmākṛti 1111011 11011 1111 11110111 vikasatsitam | 
 
 The wise man should meditate (cintayet) on the Īśvara principle within the Cavity of Brahma (kakha).” Its form a lotus flower, blooming and white, it has a calix, stamens and seeds. (61cd-62ab) 
 
-1031?\. The gātrakas are elevated cornices that adorn the corners of the throne. Cf. Kṣemarāja ad SvT 2/63, who defines them as siñhhāsanapaṭtikārūpāh, and ad NT 18/41: gātrakāṇi koṇāntarālagā avayavaviśeṣāh. On these cornices, which according to the SvT are white, and according to the NT, yellow, are projected from the eastern to northern corner impiety (adharma), ignorance (ajñāna), lack of detachment (avairāgya) and lack of mastery (anaiśvarya).
+1031?\. The gātrakas are elevated cornices that adorn the corners of the throne. Cf. Kṣemarāja ad SvT 2/63, who defines them as siñhhāsanapaṭtikārūpāḥ, and ad NT 18/41: gātrakāṇi koṇāntarālagā avayavaviśeṣāḥ. On these cornices, which according to the SvT are white, and according to the NT, yellow, are projected from the eastern to northern corner impiety (adharma), ignorance (ajñāna), lack of detachment (avairāgya) and lack of mastery (anaiśvarya).
 
 1032?\. kh: chadanadvayeti.
 
-1033?\. k: kakhalambakayormadhye tattvamanuvicintayedityeyaṁvidhah.
+1033?\. k: kakhalambakayormadhye tattvamanuvicintayedityeyaṁvidhaḥ.
 
 1034?\. Read with MS Kh, chadanadvaya- for chadanatraya-.
 
-1035?\. MV 8/61 is quoted in TĀv ad 15/297cd-303ab. 6 k: krti kakhe tattvam.
+1035?\. MV 8/61 is quoted in TĀv ad 15/297cd-303ab. 6 k: kṛti kakhe tattvam.
 
-1036?\. cintayettata. \[illegible\] k: bījar vikasitarh sitam.
+1036?\. cintayettata. \[illegible\] k: bījaṁ vikasitaṁ sitam.
 
 1037?\. \*Read, as Sanderson suggests (1986: 179, n 47) kakhe for kakha-.
 
@@ -384,7 +384,7 @@ The wise man should meditate (cintayet) on the Īśvara principle within the Cav
 बलप्रमथनी चान्या सर्वभूतदमन्यपि |
 मनोन्मनी च मध्येऽपि भानुमार्गेण विन्यसेत् || ६४ ||
 
-pūrvapatrāditah paścādvāmādinavakaṁ nyaset || 62 ||
+pūrvapatrāditaḥ paścādvāmādinavakaṁ nyaset || 62 ||
 vāmā jyeṣthā ca raudrī ca kālī ceti tathā parāṛ |
 kalavikaranṇī caiva balavikaranī tathā ॥ 63 ॥
 balapramathanī cānyā sarvabhūtadamanyapi |
@@ -398,7 +398,7 @@ One should then deposit the group of nine (goddesses) Vāmā and the rest (on th
 
 vibhvādinavakari cānyadvilomātparikalpayet |
 vibhurjñānī kriyā cecchvā vāgīśī jvālinī tathā ॥ 65 ॥
-vāmā jyeṣthā ca raudrī ca sarvāh kālānalaprabhāh | 
+vāmā jyeṣthā ca raudrī ca sarvāḥ kālānalaprabhāḥ | 
 
 One should then imagine (vikalpayet) another group of nine (goddesses) beginning with Vibhvī (arranged) anticlockwise. (They are) Vibhvī, Jñānī, Kriyā, Icchā, Vāgīśī, Jvālinī, Vāmā, Jyeṣṭhā, and Raudrī. All of them (shine) with the light of the Fire of Time.” (65-66ab) 
 
@@ -406,10 +406,10 @@ One should then imagine (vikalpayet) another group of nine (goddesses) beginning
 दलकेसरमध्यस्था मण्डलानां त ईश्वराः |
 ध्वनि ? चाकंन्दुवह्वीनां संज्ञया परिभावयेत् || ६७ ||
 
-brahmaviṣṇuharāh \[illegible\] ye śāktāh pratipāditāh ॥ 66 ॥
-dalakesaramadhyasthā mandalānāṁ ta īśvarāh | 
+brahmaviṣṇuharāḥ \[illegible\] ye śāktāḥ pratipāditāḥ ॥ 66 ॥
+dalakesaramadhyasthā mandalānāṁ ta īśvarāḥ | 
 
-1038?\. k: tatah.
+1038?\. k: tataḥ.
 
 1039?\. Verses 60-66ab are paraphrased and explained in TĀ 15/302-306. Verses 61-66ab are quoted in TĀv ad 15/303cd-307.
 
@@ -423,7 +423,7 @@ In the centre, the stamens and the petals, one should meditate (respectively) on
 इश्वरं च महाप्रें प्रहसन्तं सचेतनम् |
 कालागिकोटिवपुषमित्येवं सर्वमासनम् ॥ ६८ ॥
 
-\[illegible\] ca mahāpretaṁ prahasantarh sacetanam |
+\[illegible\] ca mahāpretaṁ prahasantaṁ sacetanam |
 kālāgnikoṭivapuṣamityevaṁ sarvamāsanam” || 68 ॥ 
 
 Sadāśiva The Great Ghost (Mahāpreta) 
@@ -436,13 +436,13 @@ And (above Pure Knowledge one should contemplate) Īśvara (and above him Sadā�
 स्वीधिष्ठायकं शुक्टमित्येतत्परमासनम् ॥ ७० ॥
 
 tasya nābhyutthitaṁ śaktisūlaśṛṅgatrayai smaret |
-kakhatrayeṇa niryātah dvādaśāntāvasānakam || 69 ॥
-cintayet tasya Śrṁùgeṣu śākta padmatrayari tatah |
+kakhatrayeṇa niryātaḥ dvādaśāntāvasānakam || 69 ॥
+cintayet tasya Śṛṅgeṣu śākta padmatrayari tataḥ |
 sarvādhiṣthāyakaṁ śuklamityetatparamāsanam || 70 ॥ 
 
 The Three Prongs 
 
-One should (now) recollect the three prongs of the Trident of Energy (ŝaktiśūla) that have arisen from (Sadāśiva’s) navel. They exit as three (rays from) within the Cavity of Brahmā” (on the crown of the head) and end in the End of the Twelve. Then one should think that on its prongs there are three lotuses empowered (by the three powers), white and presiding over all. This is the supreme throne.” (69-70) 
+One should (now) recollect the three prongs of the Trident of Energy (śaktiśūla) that have arisen from (Sadāśiva’s) navel. They exit as three (rays from) within the Cavity of Brahmā” (on the crown of the head) and end in the End of the Twelve. Then one should think that on its prongs there are three lotuses empowered (by the three powers), white and presiding over all. This is the supreme throne.” (69-70) 
 
 1040?\. The text here is partially corrupt. The sense however is clear on the basis of TĀ 15/307 and also SvT 2/72cd-73.
 
@@ -472,10 +472,10 @@ Visualized Forms of the Three Goddesses
 इच्छारूपधरां ध्यात्वा किचिदुग्रां न भीषणाम् |
 अपरां वामधरद्धे तु भीषणां कृष्णपिद्धलाम् ॥ ७३ ॥
 
-tato madhye parār \[illegible\] dakṣinottarayordvayam |
-parāparāṁ svarūpeṇa raktavarnāh mahābalām || 72 ||
+tato madhye parāṁ \[illegible\] dakṣinottarayordvayam |
+parāparāṁ svarūpeṇa raktavarnāḥ mahābalām || 72 ||
 icchārūpadharām dhyātvā kimcidugrār na bhīṣaṇām |
-aparār vāmaśrùge tu bhīṣaṇām krṣṇapiṁgalām ॥ 73 ॥ 
+aparār vāmaśrùge tu bhīṣaṇām kṛṣṇapiṁgalām ॥ 73 ॥ 
 
 Then, (one should contemplate) the supreme power (Parā) in the middle and the (other) two on the right and the left. Parāparā (on the right) is red by nature and very powerful. She bears the form of the will (> sic. knowledge) and is somewhat fierce (but) not frightening (bhīṣaṇa). Having visualized. (her, meditate on) Aparā on the left prong, who is frightening and tawny-black. (72- 73) 
 
@@ -485,13 +485,13 @@ Then, (one should contemplate) the supreme power (Parā) in the middle and the (
 
 icchārūpadharāri \[illegible\] praṇatārtivināśinīm |
 parām cāpyāyanīmṁ \[illegible\] candrakoṭyayutaprabhām | 74 |
-ṣadvidhe ‘pi \[illegible\] \$ākte mūrtyādāvapi cintayet | 
+ṣadvidhe ‘pi \[illegible\] Śākte mūrtyādāvapi cintayet | 
 
 Once performed the six-fold (deposition) of power, as is done with the Icon and the rest,” one should think of Parā, the goddess who bears the form of 
 
 1045?\. \[illegible\] See TĀ 15/321-323ab.
 
-1046?\. The meaning here is unclear. See TĀ 15/326ab. Read mūrtāv iva for mūrtāv api.
+1046?\. The meaning here is unclear. See TĀ 15/326ab. Read mūrtāv Śiva for mūrtāv api.
 
 
 *[p. 424]* ^pg442
@@ -501,7 +501,7 @@ the will and destroys the suffering of (her) devotees (pranata). She is the godd
 विाद्खपञ्चकं पश्वादाग्नेय्यादिषु विन्यसेत् ॥ ७५ ॥
 अग्नीशरक्षोवायूनां दक्षिणे च यथाक्रमम् |
 
-vidyāṁùgapañcakaṁ paścādāgneyyādiṣu vinyaset || 75 ॥
+vidyāṅgapañcakaṁ paścādāgneyyādiṣu vinyaset || 75 ॥
 agnīśarakṣovāyūnār dakṣiṇne ca yathākramam | 
 
 After that one should deposit the five limbs of the Vidyā in the south-east etc., that is, in the southeast, northeast, soutwest, north-west and south, in due order.[^1048] (15cd-76ab). 
@@ -511,13 +511,13 @@ After that one should deposit the five limbs of the Vidyā in the south-east etc
 अघोराटकं ध्यायेदघो्य।ष्टकाचवितम् ॥ ७७ ॥
 
 saktyaṁgāni śivāṁgāni tathaiva vidhinā smaret || 76 ||
-kirn tu ŝakrādidikṣv astramantrarhń madhye ca locanam |
+kirn tu śakrādidikṣv astramantraṁń madhye ca locanam |
 aghorādyaṣṭakaṁ dhyāyed aghoryādyaṣtakānvitam | 77 ॥ 
 
-One should recollect with the same procedure the limbs of Śakti and those of iva. However, (one should also) meditate on the Weapon mantra in (all) the directions, beginning with (east governed by) Indra, the Eye in the middle and (on the petals of the lotus), the group of eight beginning with Aghora along with the eight (corresponding goddesses) beginning with Aghorī. (16cd-77) 
+One should recollect with the same procedure the limbs of Śakti and those of Śiva. However, (one should also) meditate on the Weapon mantra in (all) the directions, beginning with (east governed by) Indra, the Eye in the middle and (on the petals of the lotus), the group of eight beginning with Aghora along with the eight (corresponding goddesses) beginning with Aghorī. (16cd-77) 
 
 सवीसामावृतत्वेन लोकपालांश्च बाह्यतः |
-sarvāsām āvrtatvena lokapālāmś ca bāhyatah | 
+sarvāsām āvṛtatvena lokapālāmś ca bāhyataḥ | 
 
 Then having reflected on the guardians of the quarters along with (their) weapons as encompassing all of them externally by means of their own mantras. (18ab) 
 
@@ -533,15 +533,15 @@ Then having reflected on the guardians of the quarters along with (their) weapon
 सकृदेकेकशो म्री होमकर्मप्रसिद्धये |
 इत्येव मानसो यागः कथितः सामुदायिकः ॥ ८० ॥
 
-sāstrān svamantraih sarhcintya \[illegible\] paścāt samārabhet ॥ 78 ॥
+sāstrān svamantraiḥ saṁcintya \[illegible\] paścāt samārabhet ॥ 78 ॥
 svarūpe tallayo bhūtvā ekaikāṁ daśadhā smaret |
 jvalatpāvakasaikāśāri dhyātvā svāhāntam uccaret || 79 ॥
-sakrd ekaikaśo mantrī homakarmaprasiddhaye |
-ity eva mānaso yāgah kathitah sāmudāyikah ॥ 80 ॥ 
+sakṛd ekaikaśo mantrī homakarmaprasiddhaye |
+ity eva mānaso yāgaḥ kathitaḥ sāmudāyikaḥ ॥ 80 ॥ 
 
 After that one should begin to repeat the mantra and, merged into one’s own nature, one should recollect each one (of the Vidyās (?)) ten times. Having meditated on (each one) to be like a blazing fire, the one who recites mantra should utter SVĀHĀ at the end, once for each one, in order to render the oblation (homakarman) successful.[^1049] 
 
-Such is the mental sacrifice (mānasayāga) which is said to be made of the assemblage (of mantras) (sãāmudayika). (78cd-80) 
+Such is the mental sacrifice (mānasayāga) which is said to be made of the assemblage (of mantras) (sāmudayika). (78cd-80) 
 
 एतत्िशुलमुदिष्टमेकटण्ड त्रिशक्तिकम् |
 इत्थमेतदविज्ञाय शक्तिशुलं वरानने ॥ ८१ ॥
@@ -567,7 +567,7 @@ Thus, this is said to be the Divine (śāmbhava) (Trident). The Empowered one (�
 
 *[p. 426]* ^pg444
 
-Individual (Trident) ends four (fingers’ space above it). This is considered to be the triple Trident.® (82cd-83ab) 
+Individual (Trident) ends four (fingers’ space above it). This is considered to be the triple Trident. (82cd-83ab) 
 
 पृथग्यागविधानेन शक्तिचक्रं विचिन्तयेत् | ८३ ॥
 तेनापि खेचरं बद्धवा त्यजत्येवं महीतलम् |
@@ -575,7 +575,7 @@ Individual (Trident) ends four (fingers’ space above it). This is considered t
 11111111 vicintayet I| 83 I|
 tenāpi \[illegible\] baddhvā tyajatyeva mahītalam | 
 
-(One can also) meditate on the assembly of powers (śakticakra) by the procedure (in which the deities) are worshipped individually (prthagyāgavidhānena).” By that (means also), once having formed (the gesture of) the Skyfaring (Goddess), he quits in the same way the surface of the earth.\* (83cd- 84ab) 
+(One can also) meditate on the assembly of powers (śakticakra) by the procedure (in which the deities) are worshipped individually (pṛthagyāgavidhānena).” By that (means also), once having formed (the gesture of) the Skyfaring (Goddess), he quits in the same way the surface of the earth.\* (83cd- 84ab) 
 
 ततोऽभिमनच्य धान्यानि महाखेण त्रिसप्तधा ॥ ८४ ॥
 निक्षिपेदिश्चु सवीसु ज्वकत्पावकवत्स्मरेत् |
@@ -583,9 +583,9 @@ tenāpi \[illegible\] baddhvā tyajatyeva mahītalam |
 
 tato ‘bhimantrya dhānyāni mahāstreṇa trisaptadhā ॥ 84 I|
 nikṣipeddikṣu sarvāsu jvalatpāvakavatsmaret |
-nirvighnarh tadgrharn dhyātvā sarihrtyeśadiśaṁ nayet ॥ 85 ॥ 
+nirvighnaṁ tadgṛharn dhyātvā sarihṛtyeśadiśaṁ nayet ॥ 85 ॥ 
 
-Then, after having consecrated grains of wheat with the great Weapon twenty-one times, he should scatter them in all the directions, meditating on them as being like a burning fire. Having meditated on that abode (of the sacrifice) as being free of obstacles and having gathered (the grains) together, he should place (them) in the northeastern quarter.TM” (84cd-85) 
+Then, after having consecrated grains of wheat with the great Weapon twenty-one times, he should scatter them in all the directions, meditating on them as being like a burning fire. Having meditated on that abode (of the sacrifice) as being free of obstacles and having gathered (the grains) together, he should place (them) in the northeastern quarter.” (84cd-85) 
 
 पञ्चगव्यं ततः कयीद्रदनैः पञ्चभिर्बुधः |
 गोमूत्रं गोमयं चैव क्षीरं दधि घृतं तथा | ८६ ॥
@@ -606,10 +606,10 @@ Then, after having consecrated grains of wheat with the great Weapon twenty-one 
 
 *[p. 427]* ^pg445
 
-pañcagavyari tatah kuryādvadanaih pañcabhirbudhah |
-gomūtraṁ gomayari caiva \[illegible\] dadhi ghrtarh tathā ॥ 86 ॥
-mantrayedürdhvaparyantaih ṣadaṁùgena kuśodakam |
-mudre dravyāmrte baddhvā tattvarh tasya vicintayet ॥ 87 ॥
+pañcagavyaṁ tataḥ kuryādvadanaiḥ pañcabhirbudhaḥ |
+gomūtraṁ gomayari caiva \[illegible\] dadhi ghṛtaṁ tathā ॥ 86 ॥
+mantrayedürdhvaparyantaih ṣadaṅgena kuśodakam |
+mudre dravyāmṛte baddhvā tattvaṁ tasya vicintayet ॥ 87 ॥
 tena sathprokṣayedbhūmiṁ svalpenānyannidhāpayet” | 
 
 The wise man should then (consecrate) the five products of a cow, that is, cow urine, dung, milk, curd and clarified butter, (with the mantras of the) five faces (of Sadāśiva) and with the six limbs. He should consecrate the water (in which sacred) kusa (grass is immersed) with the six limbs, ending with the upper ones (?) . . °”! One should sprinkle the ground with a little of this (water) and set aside the rest.” (86-88ab) 
@@ -618,7 +618,7 @@ The wise man should then (consecrate) the five products of a cow, that is, cow u
 पुष्पैरञ्जलिमापूर्य फकारादि समुच्चरन् |
 ध्यात्वा शक्त्यन्तमध्वानं नकारान्ते विनिक्षिपेत् || ८९ |
 
-vāstuyāgari tatah kuryānmālinyuccārayogatah || 88 ॥
+vāstuyāgari tataḥ kuryānmālinyuccārayogataḥ || 88 ॥
 puṣpairañjalimāpūrya phakārādi samuccaran |
 dhyātvā śaktyantamadhvānaṁ nakārānte vinikṣipet || 89 ॥ 
 
@@ -634,7 +634,7 @@ Worship of Gaṇeśa
 
 1056?\. k: nānyadvidārayed.
 
-1057?\. cannot understand the following line (8/87cd): mudre dravāmrtahn baddhvā tattvańn tasya vicintayet | Abhinavagupta does not refer to it.
+1057?\. cannot understand the following line (8/87cd): mudre dravāmṛtahn baddhvā tattvańn tasya vicintayet | Abhinavagupta does not refer to it.
 
 1058?\. See TĀ 15/371-372.
 
@@ -649,16 +649,16 @@ Worship of Gaṇeśa
 
 gandhadhūpādikarni datvā ganṇeśānari prapūjayet |
 sadutthamāsanari nyasya praṇavena tatopari || 90 |I gāmityanena vighneśa gandhadhūpādibhiryajet” |
-asyāùgāni” gakāreṇa ṣaddīrghasvarayogatah ॥ 91 ॥
-trinetramuditarhn dhyātvā gajāsyai vāmanākrtim |
+asyāṅgāni” gakāreṇa ṣaddīrghasvarayogataḥ ॥ 91 ॥
+trinetramuditaṁ dhyātvā gajāsyai vāmanākṛtim |
 visarjya siddhikāmastu mahāstramanupūjayet || 92 || 
 
-After having offered perfume and incense etc., one should worship Ganṇeśa. After having placed a seat (for him) generated from six (components, as will be explained), one should worship the Lord of Obstacles with (the syllable) GŪAUM and with perfumes and flowers etc.” His limbs (are formed) with the letter G in conjunction with the six long (vowels). Having meditated on him as having three eyes and joyful, with the face of an elephant and form of a dwarf, ® then he who desires accomplishments should, after he has been dismissed, worship the great Weapon (Mantra).” (90-92) 
+After having offered perfume and incense etc., one should worship Ganṇeśa. After having placed a seat (for him) generated from six (components, as will be explained), one should worship the Lord of Obstacles with (the syllable) GŪAUM and with perfumes and flowers etc.” His limbs (are formed) with the letter G in conjunction with the six long (vowels). Having meditated on him as having three eyes and joyful, with the face of an elephant and form of a dwarf,  then he who desires accomplishments should, after he has been dismissed, worship the great Weapon (Mantra).” (90-92) 
 
 दत्वानन्तं तथा धर्म ज्ञानं वैराग्यमेव च |
 एेशर्य कर्णिकायां च षडुत्थमिदमासनम् ॥ ९३ ॥
 
-dattvānantaṁ tathā dharmarh jṁñānaṁ vairāgyameva ca |
+dattvānantaṁ tathā dharmaṁ jṁñānaṁ vairāgyameva ca |
 aiśvaryaṁ karṇikāyām ca ṣadutthamidamāsanam |I| 93 ॥ 
 
 (This is done) once Ananta, Dharma, Knowledge, Dispassion, Mastery and the calix (of 
@@ -690,8 +690,8 @@ The Deity of the Weapon
 *[p. 429]* ^pg447
 
 asyopari nyaseddhyātvā khadgakheṭakadhārinam |
-vikarālam mahādaṁṣtrarnṁ mahograrh bhrukufīmukham ॥ 94 I|
-svāṁùgaṣaṭkasamopetari diñmātrparivāritam |
+vikarālam mahādaṁṣtrarnṁ mahograṁ bhrukufīmukham ॥ 94 I|
+svāṅgaṣaṭkasamopetari diñmātṛparivāritam |
 svārṇairevāṁgaṣaṭkam"” tu phaṭkāraparidīpitam ॥ 95 II 
 
 Place (the deity of the Weapon) on it, having meditated (on him) as bearing a sword and shield. He has big teeth and his mouth gapes terribly; very fierce, the eyebrows on his face are knit. He is possesses his own six limbs and is surrounded by the Mothers of the directions. The group of six limbs (are fashioned) with their own (respective) vowels and are well energized by the syllable PHAT. (94-95) 
@@ -705,10 +705,10 @@ The Eight Mothers and their Worship
 खड्गपाशध्वजे्यक्ता चिन्तये|गपत्तिये |
 कौवेरीं मुद्ररकरामीशानीं शूलसंयुताम् ॥ ९८ ॥
 
-tadrūpameva sarhcintya tato mātraṣṭtakari yajet |
+tadrūpameva saṁcintya tato mātraṣṭtakari yajet |
 indrāṇīri pūrvapatre tu savajrāṁ yugapatsmaret || 96 ॥
-āgneyīm śaktihastām ca yāmyāri dandakarāri tatah |
-nair-rtīṁ varuṇānīmh ca vāyavīṁ ca vicakṣanṇah ॥ 97 ॥
+āgneyīm śaktihastām ca yāmyāri dandakarāri tataḥ |
+nair-rtīṁ varuṇānīmh ca vāyavīṁ ca vicakṣanṇaḥ ॥ 97 ॥
 khadgapāśadhvajairyuktāṁ cintayedyugapatpriye |
 kauverīṁm mudgarakarāmīśānīri śūlasaṁyutām ॥ 98 I| 
 
@@ -717,7 +717,7 @@ Having meditated intensely on that form, the group of eight Mothers should be wo
 गन्धपुष्पादिभिः पूज्य स्वतव्रे होममाचरेत् |
 आदौ च कलशं कर्यीत्सहस्राधिकमच्रितम् ॥ ९९ |
 
-1068?\. k, kh: sāãṁgaih (sārṇaih) ityevarhvidhah.
+1068?\. k, kh: sāṁgaiḥ (sārṇaiḥ) ityevaṁvidhaḥ.
 
 1069?\. MV 8/94-98 is quoted in TĀv ad 15/378cd-381ab (377 + 2, 3 and 4).
 
@@ -727,7 +727,7 @@ Having meditated intensely on that form, the group of eight Mothers should be wo
 सहस्रं होमयेत्त्र ततो जप्त्वा विसर्जयेत् |
 शतमष्टोत्तरं पूर्णं पश्चा।जनमारभेत् || १०० ||
 
-gandhapuṣpādibhih pūjya svatantre homamācaret |
+gandhapuṣpādibhiḥ pūjya svatantre homamācaret |
 ādau ca kalaśaṁi kuryātsahasrādhikamantritam || 99 ॥
 sahasrarn homayettatra tato japtvā visarjayet |
 śsatamaṣtottaraṁ pūrṇnaṁ paścādyajanamārabhet ॥ 100 ॥ 
@@ -747,8 +747,8 @@ The Large and the Little Jar, Placement and Worship
 
 tatrādau kumbhamādāya hemādimayamavraṇam |
 sarvamarintrauṣadhīgarbha'm gandhāmbuparipūritam | 101 ॥
-cūtapallavavaktrar ca sraksūtrasitamkanthakamTM \\ rakṣoghratilakākrāntari sitavastrayugāvrtam || 102 ॥
-satāṣṭottarasaṁjapta mūlamantraprapūjitamTM \\ vārdhānyapi tathābhūtā kitu sastreṇa pūjitā ॥ 103 ॥ 
+cūtapallavavaktrar ca sraksūtrasitamkanthakam \\ rakṣoghratilakākrāntari sitavastrayugāvṛtam || 102 ॥
+satāṣṭottarasaṁjapta mūlamantraprapūjitam \\ vārdhānyapi tathābhūtā kitu sastreṇa pūjitā ॥ 103 ॥ 
 
 There in the beginning (of the rite), one should take a jar without cracks made of gold or the like, that contains all (kinds of) jewels and herbs” and is completely filled with fragrant water, its mouth (adorned) with young mango 
 
@@ -756,7 +756,7 @@ There in the beginning (of the rite), one should take a jar without cracks made 
 
 1071?\. Variant reading: sarvaratnauṣadhīgarbham.
 
-1072?\. Variant reading: krtakanthakam.
+1072?\. Variant reading: kṛtakanthakam.
 
 1073?\. k: sūlamantraprapūritam.
 
@@ -765,14 +765,14 @@ There in the beginning (of the rite), one should take a jar without cracks made 
 
 *[p. 431]* ^pg449
 
-leaves and a garland and thread fashioned as its necklace.TM” It is covered with a mark (tilaka) that serves to destroy demons” and is wrapped in a white cloth. It is worshipped with the root Mantra repeated one hundred and eight times.” The small jar (vārdhānī) is also (adorned) like that, however, (unlike the large jar) it is worshipped with the Weapon (mantra). 12 (101-103) 
+leaves and a garland and thread fashioned as its necklace.” It is covered with a mark (tilaka) that serves to destroy demons” and is wrapped in a white cloth. It is worshipped with the root Mantra repeated one hundred and eight times.” The small jar (vārdhānī) is also (adorned) like that, however, (unlike the large jar) it is worshipped with the Weapon (mantra). 12 (101-103) 
 
 विकिरैरासनं दत्त्वा पूर्वोक्तं तु विचक्षणः |
 इनद्रादीन्पूजयेत्पश्चात्स्वदिक्षु प्रोक्तस्वस्वरैः ॥ १०४ ||
 
 11111111 1 1113 11 1) 
 
-indrādīnpūjayetpaścātsvadikṣu proktasvasvaraih ॥ 104 ॥ 
+indrādīnpūjayetpaścātsvadikṣu proktasvasvaraiḥ ॥ 104 ॥ 
 
 Once the skilful (officiant) has offered the seat mentioned previously (for the jar) along with the scattered grains (on which it is placed), he should worship Indra and the rest (of the guardians of the quarters each) in their own quarter with their own vowels, as stated \[illegible\] 11 (104) 
 
@@ -783,7 +783,7 @@ Once the skilful (officiant) has offered the seat mentioned previously (for the 
 
 avicchinnār tato dhārām vārdhānyā pratipādayet |
 bhrāmayetkalaśaṁ paścādbrūyāllokeśvarānidam ॥ 105 ॥
-bho bhoh śakra tvayā svasyāṁ diśi vighnapraśāntaye’" |
+bho bhoḥ śakra tvayā svasyāṁ diśi vighnapraśāntaye’" |
 sāvadhānena karmāntaṁ bhavitavyarn śivājñayā ॥ 106 ॥ 
 
 (The disciple) should then cause an unbroken stream (of liquid) to fall from the small jar (vārdhanī), and after that (the teacher) should rotate it around the large jar (kalaśa), saying this to the lords of the regions: 
@@ -794,7 +794,7 @@ sāvadhānena karmāntaṁ bhavitavyarn śivājñayā ॥ 106 ॥
 
 1076?\. The expression rakṣoghnatilakākrāntaṁ may also be understood to mean ‘covered with white mustard (rakṣoghna) and sesame (seeds)’, which seems to me to be less likely.
 
-1077?\. Read -sarjaptamūla- for -sańjaptarhn mūla-.
+1077?\. Read -sarjaptamūla- for -sańjaptaṁ mūla-.
 
 1078?\. TĀ 15/381cd-391ab (378-388ab) are a paraphrase of MV 8/101-109. MV 8/101-103 is quoted in TĀv ad 15/381cd-388ab (378-385ab). Abhinavagupta condenses these verses into TĀ 15/381- 382a.
 
@@ -812,12 +812,12 @@ nītvā tatrāsane
 1 1 110 |
 tasya dakṣinadigbhāge vārdhānīṁ viniveśayet"" || 107 Il 
 
-Having brought the jar which serves as the icon (of the deity), one should place it there on (its) seat in the east.” One should place the (small) jar (vārdhānī) in the quarter to its right (dakṣina).”® (107) 
+Having brought the jar which serves as the icon (of the deity), one should place it there on (its) seat in the east.” One should place the (small) jar (vārdhānī) in the quarter to its right (dakṣina).” (107) 
 
 आत्ममूत्यादिपूज्यान्तं कुम्भे विन्यस्य मन्रवित् |
 गन्धपुष्पादिभिः पूज्य वारधीन्यां पूजयेदिमम् | १०८ |
 ātmamūrtyādipūjyāntan kumbhe vinyasya mantravit |
-gandhapuṣpādibhih pūjya vārdhānyāṁ pūjayedimam’” || 108 ॥ 
+gandhapuṣpādibhiḥ pūjya vārdhānyāṁ pūjayedimam’” || 108 ॥ 
 
 Once the knower of mantra has deposited onto the (big) jar (kumbha) (the mantras) beginning with that of the icon of the Self (ātmamūrti) up to that of the object of worship and worshipped with scent and flowers etc., he should worship the Weapon within the (small) jar.” (108) 
 
@@ -826,10 +826,10 @@ The Fire Sacrifice गनधर्मण्डलकं कृत्वा ब�
 
 The Purification of the Fire (agnisaṁskāra) 
 
-gandhairmandalakari"TM" krtvā brahmasthāne vicakṣaṇah |
+gandhairmandalakari"" kṛtvā brahmasthāne vicakṣaṇaḥ |
 tatra sahpūjayetṣatka"” trika” vāpyekameva vā || 109 II 
 
-Once the skilled (practitioner) has fashioned the mandala with scents (or unguents),TM in (the middle of the abode of the sacrifice, which is) the 
+Once the skilled (practitioner) has fashioned the mandala with scents (or unguents), in (the middle of the abode of the sacrifice, which is) the 
 
 1081?\. k: mūrtibhūtāṁ parām.
 
@@ -849,18 +849,18 @@ Once the skilled (practitioner) has fashioned the mandala with scents (or unguen
 
 1089?\. Variant reading: trike veti.
 
-1090?\. TĀ 15/387cd (384cd) reads gandhamandale for gandhair mandalakarh.
+1090?\. TĀ 15/387cd (384cd) reads gandhamandale for gandhair mandalakaṁ.
 
 
 *[p. 433]* ^pg451
 
-location of Brahmā, he should worship either the group of six or the triad (of goddesses) or just one.'TM(109) 
+location of Brahmā, he should worship either the group of six or the triad (of goddesses) or just one.'(109) 
 
 कुण्डस्योल्टेखनं टेखः कुटनं चोपलठेपनम् |
 चतुष्पथाक्षवाटं च वज्संस्थापनं तथा || ११० ||
 कुशास्तरणपरिधिविष्टराणां च कल्पनम् |
 
-kundasyollekhanari lekhah kuttanarn copalepanam |
+kundasyollekhanari lekhaḥ kuttanarn copalepanam |
 catuṣpathākṣavātari ca vajrasaristhāpanaṁ tathā ॥ 110 ॥
 kuśāstaraṇaparidhiviṣtarānāmi ca kalpanam | 
 
@@ -871,27 +871,27 @@ kuśāstaraṇaparidhiviṣtarānāmi ca kalpanam |
 ताम्रपात्रे शरावे वा आनयेज्जातवेदसम् | ११२ ॥
 शिवशुक्रमिति ध्यात्वा वियोनौ विनिध्िपेत् |
 
-sarvamastreṇa kurvīta vidyārmohīmiti'TM nyaset || 111 ॥
-sivamomiti vinyasya sahpūjya dvitayarn punah |
+sarvamastreṇa kurvīta vidyārmohīmiti' nyaset || 111 ॥
+sivamomiti vinyasya sahpūjya dvitayarn punaḥ |
 tāmrapātre śarāve vā ānayejjātavedasam || 112 ॥
 sivaśukramiti dhyātvā vidyāyonau vinikṣipet | 
 
-One should deposit the (Mālinī) Vidyā OM HRĪM. Having deposited the Siva (Mātrkā with an initial) OM and worshipped both again, he should bring the fire on a copper or earthenware plate. Having meditated (on it thinking that it is) \$iva’s seed, it should be cast into the womb (yoni) of the Vidyā.”’ (111cd- 113ab) 
+One should deposit the (Mālinī) Vidyā OM HRĪM. Having deposited the Siva (Mātṛkā with an initial) OM and worshipped both again, he should bring the fire on a copper or earthenware plate. Having meditated (on it thinking that it is) Śiva’s seed, it should be cast into the womb (yoni) of the Vidyā.”’ (111cd- 113ab) 
 
 ततस्त्वाहुतयः पञ्च वि\]ड्ैरेव होमयेत् || ११३ ॥
 जादि ततः कर्म सर्वमेवं कृते कृतम् |
 
 1091?\. MV 8/109 is quoted in TĀv ad 15/388cd-391ab (385cd-388ab).
 
-1092?\. TĀ 15/402-404ab (399-401ab) comment on MV 8/110-1 lab. 12 kh: vidyāãmaindrīm.
+1092?\. TĀ 15/402-404ab (399-401ab) comment on MV 8/110-1 lab. 12 kh: vidyāmaindrīm.
 
 1093?\. MV 8/111d-113ab is quoted in the TĀv ad 15/405cd-406ab (402cd-403ab). ‘Having moved three times around outside the pit with the syllable OM \[illegible\] This line (quoted by Jayaratha just after this verse) is not found in the edition of the MV.
 
 
 *[p. 434]* ^pg452
 
-tatastvāhutayah pañca vidyāṁgaireva homayet || 113 ॥
-jananādi tatah karma sarvamevarh krte krtam | 
+tatastvāhutayaḥ pañca vidyāṁgaireva homayet || 113 ॥
+jananādi tataḥ karma sarvamevaṁ kṛte kṛtam | 
 
 Then, one should offer five oblations with the (five) limbs of the Vidyā. Thus, done in this way, all the (purificatory) rites beginning with (those performed at) birth are done.” (113cd-114ab) 
 
@@ -899,9 +899,9 @@ Then, one should offer five oblations with the (five) limbs of the Vidyā. Thus,
 संपूज्य मातरं वहेः पितरं च विसर्जयेत् |
 चवीदिसाधनायागिनं समुद्धृत्य ततः पुनः | ११५ |
 
-parāparāmanusmrtya dadyāt pūrṇāhutiṁ punah || 114 ||
-samhpūjya mātaraṁ vahneh pitararh ca visarjayet |
-carvādisādhanāyāgnirṁn samuddhrtya tatah punah || 115 ॥ 
+parāparāmanusmṛtya dadyāt pūrṇāhutiṁ punaḥ || 114 ||
+samhpūjya mātaraṁ vahneḥ pitaraṁ ca visarjayet |
+carvādisādhanāyāgnirṁn samuddhṛtya tataḥ punaḥ || 115 ॥ 
 
 Having recollected Parāparā, he should offer a full oblation again, and (after) having worshipped the mother and the father of the fire, dismiss them. Then having taken fire (from the hearth, install it) again (separately) in order to prepare the sacrificial pap ete.” (114cd-115) 
 
@@ -912,12 +912,12 @@ Another Fire Sacrifice
 पूणं च पूर्ववद् दद्याच्छिवाग्नेरपरो विधिः ।
 
 jvalitasyāthavā vahneś citim vāmena vāyunā |
-ākrṣya hrdi samkumbhya dakṣinena punah kṣipet Il 116 ॥
-pūrṇām ca pūrvavad dadyācchivāgner aparo vidhih | 
+ākṛṣya hṛdi samkumbhya dakṣinena punaḥ kṣipet Il 116 ॥
+pūrṇām ca pūrvavad dadyācchivāgner aparo vidhiḥ | 
 
-Or else, the other procedure (concerning) Śiva’s fire (is as follows). Having drawn in a flame (citi) of the burning fire into the heart with (the inhaled) breath on the left and retained it, he should expel it again with (the exhaled breath on) the right and, as before, he should offer a full (oblation). "° (116-117ab) 
+Or else, the other procedure (concerning) Śiva’s fire (is as follows). Having drawn in a flame (citi) of the burning fire into the heart with (the inhaled) breath on the left and retained it, he should expel it again with (the exhaled breath on) the right and, as before, he should offer a full (oblation). " (116-117ab) 
 
-1094?\. MV 8/113cd-114ab is quoted in TĀv ad 15/407cd-408ab (404cd-405ab). Read evarhkrte for evar krte.
+1094?\. MV 8/113cd-114ab is quoted in TĀv ad 15/407cd-408ab (404cd-405ab). Read evaṁkṛte for evar kṛte.
 
 1095?\. MV 8/115 is paraphrased and explained in TĀ 15/414-415ab (41 1-412ab).
 
@@ -931,16 +931,16 @@ Or else, the other procedure (concerning) Śiva’s fire (is as follows). Having
 शिवरूपं तमालोक्य तस्यात्मान्तः कृतिः क्रमात् ॥ ११७ ॥
 कु्यीदन्तः कृतिं मत्री ततो होमं समारभेत् |
 
-sivarūpaṁ tamālokya tasyātmāntah (1171 kramāt ॥ 117 ॥
-kuryādantah krti mantrī tato homan samārabhet | 
+sivarūpaṁ tamālokya tasyātmāntaḥ (1171 kramāt ॥ 117 ॥
+kuryādantaḥ kṛti mantrī tato homan samārabhet | 
 
 (Another way to worship Śiva’s fire is) to gaze upon it (seeing that it is) Śiva (śivarūpa); (in this way) the rite is progressively internalized into the Self. (Thus,) the reciter of mantra should perform the inner rite and then commence the (outer) oblation.” (117cd-118ab) 
 
 मूलं शतेन संतप्य तदज्खानि षडड्तः ॥ ११८ ॥
 शेषाणां मन्रजातीनां दशांशेनैव तर्पणम् |
 
-mūlaṁ śatena sarhtarpya tadaṁùgāni ṣadaṁgatah ॥ 118 ॥
-śeṣāṇāṁ mantrajātīnār daśāmiśenaiva'TM\* tarpaṇam | 
+mūlaṁ śatena saṁtarpya tadaṅgāni ṣadaṁgataḥ ॥ 118 ॥
+śeṣāṇāṁ mantrajātīnār daśāmiśenaiva'\* tarpaṇam | 
 
 After having offered libation to the root mantra a hundred times, (he should offer) libation with a sixth part (of the clarified butter) to the limbs (and faces of the mantra), and with a tenth part, the remaining kinds of mantras. (118cd-119ab) 
 
@@ -950,14 +950,14 @@ After having offered libation to the root mantra a hundred times, (he should off
 पञ्चगव्यं चरुं दाहन्तधावनमेव च ॥ १२० ||
 हदयेन चरोः सिद्धिर्यजञिकैः क्षीरतण्डुलैः |
 
-tatah pravesayecchiṣyãñśucīnsnātānupoṣitān || 119 I|
+tataḥ pravesayecchiṣyāñśucīnsnātānupoṣitān || 119 I|
 pranamya devadeveśaṁ catuṣtayagataṁ kramāt |
-pañcagavyar carurh dadyāddantadhāvanameva ca || 120 ॥
-hrdayena caroh siddhiryājñikaih kṣīratandulaih । 
+pañcagavyar caruṁ dadyāddantadhāvanameva ca || 120 ॥
+hṛdayena caroḥ siddhiryājñikaiḥ kṣīratandulaiḥ । 
 
 The Introduction of the Neophant 
 
-He should then introduce (his) disciples, who are pure, have bathed, and are fasting, (into the abode of the sacrifice). Then, after having bowed to the Lord of the gods who is present in the four (things)TM” in due order, he should give (his disciples) the five products of a cow, the sacrificial pap, and (the stick) to clean the teeth. The sacrificial pap is (prepared) successfully with sacrificial 
+He should then introduce (his) disciples, who are pure, have bathed, and are fasting, (into the abode of the sacrifice). Then, after having bowed to the Lord of the gods who is present in the four (things)” in due order, he should give (his disciples) the five products of a cow, the sacrificial pap, and (the stick) to clean the teeth. The sacrificial pap is (prepared) successfully with sacrificial 
 
 1098?\. TĀ 15/416cd-417ab (413cd-414ab) is an explanation of MV 8/1 17cd-118ab (not quoted by Jayaratha). 1 k: dasāṁsaiścaiva tarpanam.
 
@@ -966,37 +966,37 @@ He should then introduce (his) disciples, who are pure, have bathed, and are fas
 
 *[p. 436]* ^pg454
 
-rice boiled in milk and (the utterance of the) mantra of the Heart (while it cooks).TM (119cd-121ab) 
+rice boiled in milk and (the utterance of the) mantra of the Heart (while it cooks). (119cd-121ab) 
 
 संपातं सप्तभिर्मनरैस्ततः षड्भागभाजितम् | १२१ ॥
 शिवाग्निगुरुशिष्याणां वाधीनीकुम्भयोः समम् |
 
-saripātaṁ saptabhirmantraistatah ṣadbhāgabhājitam ॥ 121 ॥
-Sivāgniguruśiṣyāṇāṁ"” vārdhānīkumbhayoh samam | 
+saripātaṁ saptabhirmantraistataḥ ṣadbhāgabhājitam ॥ 121 ॥
+Sivāgniguruśiṣyāṇāṁ"” vārdhānīkumbhayoḥ samam | 
 
-(Then) the oblation (saṁpāta) is offered with (the utterance of) seven mantras” and (the sacrificial pap) is then divided into six (equal) portions. (These are offered) equally to Siva, the fire, the teacher and disciples, and to the small (vārdhānī) and large jars (kumbha).'TMTM® (121cd-122ab) 
+(Then) the oblation (saṁpāta) is offered with (the utterance of) seven mantras” and (the sacrificial pap) is then divided into six (equal) portions. (These are offered) equally to Siva, the fire, the teacher and disciples, and to the small (vārdhānī) and large jars (kumbha).' (121cd-122ab) 
 
 दन्तकाष्ठं ततो दात्श्ीरवृक्षसमुद्धवम् ॥ १२२ ॥
 तस्य पातः शुभः प्राचीसौम्यैशाप्योध्वदिग्गतः |
 अशुभोऽन्यत्र तत्रापि होमोऽषटशतिको भवेत् || १२३ |
 
-dantakāṣṭhari tato dadyātkṣīravrkṣasamudbhavam || 122 ॥
-tasya pātah śubhah prācīsaumyaiśāpyordhvadiggatah |
+dantakāṣṭhari tato dadyātkṣīravṛkṣasamudbhavam || 122 ॥
+tasya pātaḥ śubhaḥ prācīsaumyaiśāpyordhvadiggataḥ |
 aśubho ‘nyatra tatrāpi homo ‘ṣṭaśatiko bhavet ॥ 123 ॥ 
 
-(The teacher) should then give (them) a stick for the teeth made of milkwood (kṣīravrkṣa). It is auspicious for that (stick) to fall to the east, north, northeast, west or vertically (&rdhvadik). It is inauspicious (if it falls) elsewhere. (To remedy that, another fire sacrifice should be performed). There (in that case) also the oblations should be one hundred and eight." (122cd-123) 
+(The teacher) should then give (them) a stick for the teeth made of milkwood (kṣīravṛkṣa). It is auspicious for that (stick) to fall to the east, north, northeast, west or vertically (&rdhvadik). It is inauspicious (if it falls) elsewhere. (To remedy that, another fire sacrifice should be performed). There (in that case) also the oblations should be one hundred and eight." (122cd-123) 
 
 बहिःकर्म ततः कुयीद् दिक्षु सर्वासु दैशिकः |
 ओं क्षः क्षः सर्वभूतेभ्यः स्वाहेति मनुनामुना ॥ १२४ ||
 
-bahihkarma’”'tatah kuryād dikṣu sarvāsu daiśikah ।
-om kṣah kṣah sarvabhūtebhyah svāheti manunāmunā I| 124 ॥ 
+bahihkarma’”'tataḥ kuryād dikṣu sarvāsu daiśikaḥ ।
+om kṣaḥ kṣaḥ sarvabhūtebhyaḥ svāheti manunāmunā I| 124 ॥ 
 
 1100?\. See TĀ 15/437-438.
 
 1101?\. k: giṣyāmsceti.
 
-1102?\. Tt seems that according to TĀ 15/439 ff. these-Mantras are those of the three goddesses, the three Śaktis and Mātrsadbhāva.
+1102?\. Tt seems that according to TĀ 15/439 ff. these-Mantras are those of the three goddesses, the three Śaktis and Mātṛsadbhāva.
 
 1103?\. MV 8/121-122ab is quoted in TĀv ad 15/447cd-449 (444cd-446). See TĀ 15/444cd-445. There Śiva is replaced by the sthandila, that is, the sacrificial surface.
 
@@ -1020,12 +1020,12 @@ The Examination of the Disciple’s Dreams
 प्रभाते नित्यक्मीदि कृत्वा स्वपनं विचारयेत् | १२६ ||
 शुभं प्रकाशयेत्तेषामशुभे होममाचरेत् |
 
-samācamya krtanyāsah samabhyarcya ca śaṁkaram |
+samācamya kṛtanyāsaḥ samabhyarcya ca śaṁkaram |
 ; न 1331. ॥ , मः # ९१८ 1 ॥ 125 |
 0 1231 
 
-nyāsaṁ krtvā tu ś\$iṣyāṇnāmātmanaśca viśeṣatah |
-prabhāte nityakarmādi krtvā svapnarh vicārayet ॥ 126 ॥
+nyāsaṁ kṛtvā tu śiṣyāṇnāmātmanaśca viśeṣataḥ |
+prabhāte nityakarmādi kṛtvā svapnaṁ vicārayet ॥ 126 ॥
 subhan prakāśayetteṣāmaśubhe homamācaret | 
 
 Having rinsed (his mouth), performed the deposition, and worshipped Śaṁkara. . . in the abode, pure. 
@@ -1038,10 +1038,10 @@ Having performed deposition on the disciples and, especially, himself, and perfo
 देवतादर्शनं साक्षात्तथा विष्ठानुलेपनम् |
 एवं विधं शुभं दृष्टवा सिद्धिं प्रा्ोत्यभीप्सिताम् ॥ १२९ ॥
 
-tatah puṣpaphalādīnār suveśābharanāh striyah ॥ 127 Il āpaduttaraṇari caiva \$ubhadeśāvarohaṇam |
+tataḥ puṣpaphalādīnār suveśābharanāḥ striyaḥ ॥ 127 Il āpaduttaraṇari caiva Śubhadeśāvarohaṇam |
 madyapānar śiraśchedamāmamārmisasya bhakṣaṇnam || 128 ॥
 devatādarśanam sākṣāttathā viṣthānulepanam |
-evar vidha \$ubharh drstvā siddhi prāpnotyabhīpsitām ॥ 129 ॥ 
+evar vidha Śubhaṁ dṛṣtvā siddhi prāpnotyabhīpsitām ॥ 129 ॥ 
 
 1106?\. MV 8/124 is with reference to TĀ 15/476-478ab (472-474ab) (not quoted by Jayaratha).
 
@@ -1057,7 +1057,7 @@ Auspicious dreams such those of flowers, fruits and the like, women with beautif
 तन्त्रोक्तां निष्कृतिं कृत्वा द्विजत्वापादनं तत; |
 
 etadevānyathābhūtaṁ duhsvapna[^1109] iti kīrtyate \\ pakvamāṁsāśanābhyaṁgagartādipatanādikam ॥ 130 ॥
-tantroktām niṣkrtiṁ krtvā dvijatvāpādanar tatah | 
+tantroktām niṣkṛtiṁ kṛtvā dvijatvāpādanar tataḥ | 
 
 One that is contrary to this is said to be a bad dream (duhsvapna). (Examples are dreaming of) eating cooked meat, being smeared with unguents, falling into a precipice and the like. After having performed the rites of expiation taught in the Tantras[^1110] (the disciple) attains the condition of a ‘twice born’ (brahmin). (130-13 1ab) 
 
@@ -1066,7 +1066,7 @@ The Teaching of the Rules and Concluding Ablution
 देवागिनगरुदेवीनां पूजां कृत्वा सदा बुधः ॥ (first).[^1112] ॥
 एतेषामनिवेद्यैव न किंचिदपि भक्षयेत्
 
-devāgnigurudevīnār pūjāṁ krtvā sadā budhah || 131 I|
+devāgnigurudevīnār pūjāṁ kṛtvā sadā budhaḥ || 131 I|
 eteṣāmanivedyaiva na kińncidapi bhakṣayet | 
 
 The wise man always (eats) after having (first) worshipped the gods, fire, teachers and goddesses, and should not eat anything without having offered them food (first). (131cd-132ab) 
@@ -1095,12 +1095,12 @@ yogābhyāsarato bhūüyānmantrābhyāsarato ‘pi vā ॥ 133 ॥
 कारयेच्छिवकुम्भेन सर्वदुष्कृतहारिणा |
 
 ityevamādisamayāñśrāvayitvā visarjayet |
-devadevarh tatah snānaṁ śiṣyānāmātmano ‘pi vā ॥ 134 ॥
-kārayecchivakumbhena sarvaduṣkrtahāriṇā | 
+devadevaṁ tataḥ snānaṁ śiṣyānāmātmano ‘pi vā ॥ 134 ॥
+kārayecchivakumbhena sarvaduṣkṛtahāriṇā | 
 
 Having taught (his disciples) such rules (samaya) and others like them, (the \[illegible\] should dismiss the God of the gods, and (then) by means of (the water in) 
 
-Siva’s jar that destroys all sin (duṣkrta), he should make (his) disciples’ bath and, or else, (he should bathe) himself also.[^1114] (134-135ab) 
+Siva’s jar that destroys all sin (duṣkṛta), he should make (his) disciples’ bath and, or else, (he should bathe) himself also.[^1114] (134-135ab) 
 
 इत्येतत्सामयं कर्म समासात् परिकीर्तितम् ॥ १३५ |
 ityetatsāmayaṁ karma samāsāt parikīrtitam || 135 ॥ 
@@ -1108,7 +1108,7 @@ ityetatsāmayaṁ karma samāsāt parikīrtitam || 135 ॥
 Thus this, in brief, is said to be the ritual procedure (that concerns a common) regular (initiate). (135cd) 
 
 इति श्रीमालिनीविजयोत्तरे तत्रे समयाधिकारोऽषए्मः ॥ ८ ॥
-iti śrīmālinīvijayottare tantre samayādhikāro ‘ṣtamah ॥ 8 I| 
+iti śrīmālinīvijayottare tantre samayādhikāro ‘ṣtamaḥ ॥ 8 I| 
 
 [^1113]: See TĀ 15/534-535ab.
 [^1114]: See TĀ 15/610cd-612.
@@ -1156,7 +1156,7 @@ Dharma (Piety). Wisdom |
 
 r 
 
-~ \[illegible\] Avairhgya, Ansiivarya) 
+~ \[illegible\] Avaiṁgya, Ansiivarya) 
 
 (| Tik = Sia, - topaas \[४ \[= ~ । armate ad 
 
@@ -1260,7 +1260,7 @@ io
 
 \[e\] 
 
-\[Crm \[illegible\] | \[illegible\] |
+\[Cṛm \[illegible\] | \[illegible\] |
 \[2\] 
 
 \[rm | + 

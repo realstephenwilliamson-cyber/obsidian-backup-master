@@ -33,6 +33,11 @@ atra brūmaḥ padārthānāṃ na dharmo yadi vedyatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 312–313)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.27–28]]
+>
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.28–29]]
+
 *Lead-in:* एतदेव प्रतिविधत्ते --
 
 > अत्र ब्रूमः पदार्थानां न धर्मो यदि वेद्यता ॥

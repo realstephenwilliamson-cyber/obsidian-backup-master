@@ -31,6 +31,11 @@ svayaṃ bhuktiśca muktiśca svayaṃ devī svayaṃ prabhuḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 199–200)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 13.125.*
+>
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.125]]
+
 > धर्माधर्मात्मकैर्भावैरनेकैर्वेष्टयेत्स्वयम् ।
 > असन्देहं स्वमात्मानमवीच्यादिशिवान्तके ॥
 > तद्वच्छक्तिसमूहेन स एव तु विवेष्टयेत् ।

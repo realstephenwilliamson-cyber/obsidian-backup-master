@@ -31,6 +31,9 @@ saṃvedayante yadrūpaṃ tatra kiṃ vāgvikatthanaiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 417)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.198]]
+
 *Lead-in:* ननु यद्येवं तर्हि कतरदुपपन्नम् ? -- इत्याशङ्क्याह --
 
 > तदस्यां सूक्ष्मसंवित्तौ कलनाय समुद्यताः ।

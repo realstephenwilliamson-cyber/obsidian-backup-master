@@ -12,7 +12,7 @@ source: "Oxford University Press 2017 (2nd ed.; ISBN 978-0-19-046185-0); Stephen
 
 Text: [[NRSVue Philippians 02|NRSVue]] · [[Philippians 02|BSB and SBLGNT]] · Introduction: [[JANT Philippians - Introduction]]
 
-**[[NRSVue Philippians 02#^2-3|2.3]]:** *In humility*, elevating others along with depreciating oneself (see [[Proverbs 03#^3-34|Prov 3.34]]; [[Proverbs 11#^11-2|11.2]]; [[Proverbs 18#^18-12|18.12]]; *m*. *Avot* 4.4; *b. Sanh*. 88b; *b. Taʾan*. 7a; *Lev. Rab*. 1). ^2-3
+**[[NRSVue Philippians 02#^2-3|2.3]]:** *In humility*, elevating others along with depreciating oneself (see [[Proverbs 03#^3-34|Prov 3.34]]; [[Proverbs 11#^11-2|11.2]]; [[Proverbs 18#^18-12|18.12]]; *m*. *Avot* 4.4; [[Sanhedrin 88#88b|*b. Sanh*. 88b]]; *b. Taʾan*. 7a; *Lev. Rab*. 1). ^2-3
 
 **[[NRSVue Philippians 02#^2-5|5]]:** *The same mind*, of humility. ^2-5
 

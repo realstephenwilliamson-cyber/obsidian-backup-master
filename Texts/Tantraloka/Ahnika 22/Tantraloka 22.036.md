@@ -31,6 +31,9 @@ tadāpyasya śiśorevaṃ śuddhiṃ kṛtvā sa sadguruḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 289)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.35–37]]
+
 > अधोदर्शनसंस्थेन गुरुणा दीक्षितः पुरा ॥
 > तीव्रशक्तिवशात्पश्चाद्यदा गच्छेत्स सद्गुरुम् ।
 > तदाप्यस्य शिशोरेवं शुद्धिं कृत्वा स सद्गुरुः ॥

@@ -37,6 +37,11 @@ na vaiṣamyamanāpannaṃ kāraṇaṃ kāryasūtaye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 264–266)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.253–254]]
+>
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.254]]
+
 *Lead-in:* न च वैषम्यमनापन्नं कारणं कार्यं जनयेत्, बीजं हि जलादिसंपर्कादुच्छूनतामापन्नं सत् अङ्कुरादि उत्पादयेत् नान्यथा, तथात्वे हि मूलादपि तदुत्पादः स्यात्, तदाह --
 
 > न वैषम्यमनापन्नं कारणं कार्यसूतये ॥

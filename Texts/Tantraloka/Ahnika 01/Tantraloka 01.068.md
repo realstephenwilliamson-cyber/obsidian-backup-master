@@ -34,6 +34,9 @@ tenādvayaḥ sa evāpi śaktimatparikalpane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 206–207)
+> ![[Tantraloka Dyczkowski v01 07 - Chapter One, part 6#Viveka on 1.68]]
+
 *Lead-in:* ननु एवमपीश्वराद्वयवादो न निर्व्यूढस्तदतिरिक्तायाः स्वातन्त्र्यशक्तेरप्यभिधानात् ? इत्याशङ्क्याह—
 
 > शक्तिश्च नाम भावस्य स्वं रूपं मातृकल्पितम् ।

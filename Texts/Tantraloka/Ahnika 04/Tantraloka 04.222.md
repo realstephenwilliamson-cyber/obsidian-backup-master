@@ -36,6 +36,11 @@ aśuddhasya ca bhāvasya śuddhiḥ syāttādṛśaiva kim || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 319–321)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.221–222]]
+>
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.222–223]]
+
 *Lead-in:* एवं प्रमातृधर्मत्वेऽशुद्धं चेद्वस्त्वन्तरेण शोध्यते, तत् किं शुद्धेनाशुद्धेन वा ? इत्याह --
 
 > अशुद्धस्य च भावस्य शुद्धिः स्यात्तादृशैव किम् ॥

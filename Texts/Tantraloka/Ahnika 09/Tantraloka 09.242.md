@@ -33,6 +33,11 @@ karaṇatvamato yuktaṃ kartraṃśaspṛktvayogataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 232–233)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.241–242]]
+>
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.242–243]]
+
 *Lead-in:* एषां चाहङ्कारिकत्वादेव करणत्वं घटते नान्यथा -- इत्याह --
 
 > करणत्वमतो युक्तं कर्त्रंशस्पृक्त्वयोगतः ॥

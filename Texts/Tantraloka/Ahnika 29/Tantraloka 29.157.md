@@ -33,6 +33,11 @@ gamanāgamane'vasitau karṇe nayane dviliṅgasaṃparke || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 336–338)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.156–157]]
+>
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.157–158]]
+
 *Lead-in:* ननु किं नाम चक्राष्टकं यदारूढोऽपि जपमाचरेत्?--इत्याशङ्क्य आह--
 
 > गमनागमनेऽवसितौ कर्णे नयने द्विलिङ्गसंपर्के ॥

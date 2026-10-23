@@ -35,6 +35,9 @@ ahaṃbodhastu na tathā te tu saṃvedyarūpatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 295–296)
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.128–129]]
+
 *Lead-in:* तदेवाह—
 
 > तदेकसिद्धा इन्द्राद्या विधिपूर्वा हि देवताः ।

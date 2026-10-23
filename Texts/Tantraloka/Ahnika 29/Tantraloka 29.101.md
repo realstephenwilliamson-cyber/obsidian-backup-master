@@ -33,6 +33,11 @@ laukikālaukikadvyātmasaṅgāttādātmyato'dhikāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 296–299)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.100–101]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.101–102]]
+
 *Lead-in:* तदाह--
 
 Jayaratha comments on this verse together with 29.100: see [[Tantraloka 29.100#Viveka|29.100]].

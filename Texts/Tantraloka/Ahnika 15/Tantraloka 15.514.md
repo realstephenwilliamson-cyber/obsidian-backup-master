@@ -34,6 +34,11 @@ mukuṭādiṣu śāstreṣu devenāpi nirūpitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 313–314)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.514]]
+>
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.514 (2)]]
+
 *Lead-in:* ननु केन एवमुक्तम्?--इत्याशङ्क्य आह--
 
 > मुनिना मोक्षधर्मादावेतच्च प्रविवेचितम् ।

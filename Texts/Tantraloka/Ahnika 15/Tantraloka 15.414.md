@@ -34,6 +34,11 @@ navāhutīratho dadyānnavātmasahitena tu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 256–257)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.413–414]]
+>
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.414–416]]
+
 *Lead-in:* अत्रैव शास्त्रान्तरपक्षमपि आह--
 
 Jayaratha comments on this verse together with 15.413: see [[Tantraloka 15.413#Viveka|15.413]].

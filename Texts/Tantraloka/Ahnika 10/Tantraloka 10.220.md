@@ -33,6 +33,11 @@ na ca bījāṅkuralatādalapuṣpaphalādivat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 432–433)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.220]]
+>
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.220–222]]
+
 *Lead-in:* एवमित्युक्तगत्या । भवित्वादेव हि नैषां तथा परामर्शोऽस्ति येनायं सर्वतो न भायात् -- इति भावः । अत एवैषां तथापरामर्शायोगाद्दूर एव संविदवभासो येनायमियान्संसारडम्बरः । यदुक्तम् --
 
 > श्वापरामर्शमात्रं यदपराधः कियानसौ ।

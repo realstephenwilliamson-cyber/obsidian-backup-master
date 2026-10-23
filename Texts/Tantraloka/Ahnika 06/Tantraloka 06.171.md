@@ -35,6 +35,9 @@ kālāgnirbhuvi saṃhartā māyānte kālatattvarāṭ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 387–388)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.171–172]]
+
 *Lead-in:* अत्रैव स्रष्ट्टसंहर्तृविभागमपि दर्शयति --
 
 Jayaratha comments on this verse together with 6.172: see [[Tantraloka 06.172#Viveka|6.172]].

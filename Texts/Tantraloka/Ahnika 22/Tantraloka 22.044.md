@@ -31,6 +31,9 @@ jñānopodvalikāstā hi tattajjñānavatā kṛtāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 292–293)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.43–44]]
+
 > योऽपि हृत्स्थमहेशानचोदनातः सुविस्तृतम् ।
 > शास्त्रज्ञानं समन्विच्छेत्सोऽपि यायाद् बहून् गुरून् ॥
 > तद्दीक्षाश्चापि गृह्णीयादभिषेचनपश्चिमाः ।

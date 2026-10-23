@@ -34,5 +34,8 @@ ye mahyāḥ krośamātreṇa tiṣṭhanti jalavarṣiṇaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 165–167)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.123–128]]
+
 Jayaratha comments on this verse together with 8.128: see [[Tantraloka 08.128#Viveka|8.128]].
 

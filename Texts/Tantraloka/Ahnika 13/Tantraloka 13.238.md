@@ -31,6 +31,9 @@ karmāntaranirodhena śīghramevāpavṛjyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 273–274)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.236–238]]
+
 > तत्र त्वेषोऽस्ति नियम आसन्ने मरणक्षणे ।
 > तां कुर्यान्नान्यथारब्धृ कर्म यस्मान्न शुद्ध्यति ॥
 > उक्तं च पूर्वमेवैतन्मंत्रसामर्थ्ययोगतः ।

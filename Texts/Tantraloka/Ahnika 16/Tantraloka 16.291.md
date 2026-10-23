@@ -35,5 +35,8 @@ kriyājñānavibhedena sā ca dvedhā nigadyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 131)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.289–293]]
+
 Jayaratha comments on this verse together with 16.292: see [[Tantraloka 16.292#Viveka|16.292]].
 

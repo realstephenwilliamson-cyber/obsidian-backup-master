@@ -37,6 +37,11 @@ punaḥ punaridaṃ coktaṃ śrīmaddevyākhyayāmale || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 237–239)
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.209–212]]
+>
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.212]]
+
 *Lead-in:* किमत्र प्रमाणम् ? -- इत्याशङ्क्याह --
 
 > पुनः पुनरिदं चोक्तं श्रीमद्देव्याख्ययामले ॥

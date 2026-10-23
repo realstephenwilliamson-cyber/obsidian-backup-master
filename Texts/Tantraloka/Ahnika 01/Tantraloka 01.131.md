@@ -35,6 +35,9 @@ viduste hyanavacchinnaṃ tadbhaktā api yānti mām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 297)
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.131]]
+
 *Lead-in:* ननु यद्येवं कथमन्यदेवताभक्ता अपि यजन्ति इत्युक्तम् ? इत्याशङ्क्याह --
 
 > निमज्ज्य वेद्यतां ये तु तत्र संविन्मयीं स्थितिम् ।

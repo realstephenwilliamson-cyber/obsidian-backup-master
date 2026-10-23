@@ -34,6 +34,9 @@ anyopāyātra tūccārarahitatvaṃ nyarūpayat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 397)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.219]]
+
 > अन्योपायात्र तूच्चाररहितत्वं न्यरूपयत् ॥
 > तत्र इत्यादिना समाधिः, अन्य इति उच्चारादयः ।
 

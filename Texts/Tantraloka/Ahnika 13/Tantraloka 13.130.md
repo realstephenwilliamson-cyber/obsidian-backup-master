@@ -34,6 +34,11 @@ tīvratīvraḥ śaktipāto dehapātavaśātsvayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 203–205)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.129–130]]
+>
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.130–132]]
+
 *Lead-in:* एतदेव फलतो दर्शयति --
 
 Jayaratha comments on this verse together with 13.129: see [[Tantraloka 13.129#Viveka|13.129]].

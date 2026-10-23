@@ -31,6 +31,9 @@ vimalaṃ tattathā kuryācchrīmatkālīmukhoditam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 419)
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.44–46]]
+
 *Lead-in:* तत्तच्छास्त्रोदितानि पूजाधारान्तराण्यपि दर्शयितुमाह--
 
 Jayaratha comments on this verse together with 27.46: see [[Tantraloka 27.046#Viveka|27.46]].

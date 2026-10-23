@@ -34,6 +34,9 @@ yato'sti tena sarvo'yamadhvā ṣaḍvidha ucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 253)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.36]]
+
 *Lead-in:* ननु यदि नाम मूर्तिक्रिययोर्वैचित्र्यावभासाद्देशकालभेदेनाध्वनो द्वैविध्यमुच्यते तदास्तां, तत्रापि प्रत्येकं त्रैविध्ये किं निमित्तम् ? -- इत्याशङ्क्याह --
 
 > त्रिकद्वयेऽत्र प्रत्येकं स्थूलं सूक्ष्मं परं वपुः ।

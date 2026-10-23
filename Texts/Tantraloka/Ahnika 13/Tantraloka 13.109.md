@@ -33,6 +33,11 @@ channasvarūpatābhāse puṃsi yadyādṛśaṃ phalam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 190–191)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.108–109]]
+>
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.109–110]]
+
 *Lead-in:* ननु कर्मणि तत्फलोपभोगे वा कर्तव्ये निमित्तमन्तरेण पुंसः प्रवृत्तिरेव न भवेत्, तत्किमेतदुक्तमपरेषां निमित्तानां क्व मार्गणमिति? -- इत्याशङ्क्याह --
 
 > छन्नस्वरूपताभासे पुंसि यद्यादृशं फलम् ॥

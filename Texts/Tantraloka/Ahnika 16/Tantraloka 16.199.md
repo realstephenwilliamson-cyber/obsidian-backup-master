@@ -36,6 +36,11 @@ yadyapi vikalpavṛtterapi mokṣaṃ dīkṣayaiva dehānte || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 86)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 16.199–200.*
+>
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.199–200]]
+
 > चिद्वृत्तेर्वैचित्र्याच्चाञ्चल्येऽपि क्रमेण सन्धानात् ॥
 > तस्मिंस्तस्मिन्वस्तुनि रूढिरवश्यं शिवात्मिका भवति ।
 > तत्त्वमिदमेतदात्मकमेतस्मात्प्रोद्धृतो मया शिष्यः ॥

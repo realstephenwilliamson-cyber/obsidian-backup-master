@@ -31,6 +31,9 @@ antyeṣṭiśrāddhavidhyādirupayogī kadācana || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 359–360)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.10]]
+
 *Lead-in:* ज्ञानिनस्तु एतन्न किञ्चिदपि उपादेयम्--इत्याह--
 
 > तत्त्वज्ञानार्कविध्वस्तध्वान्तस्य तु न कोऽप्ययम् ।

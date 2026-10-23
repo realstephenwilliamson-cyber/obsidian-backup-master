@@ -31,6 +31,9 @@ svayaṃ pratiṣṭhitaṃ yena so'syābhoge vinaśyati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 401–402)
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.5]]
+
 *Lead-in:* ननु निग्रहात्मकत्वेन अस्य किं स्यात् ?--इत्याशङ्क्य आह--
 
 > शान्तत्वन्यक्क्रियोद्भूतजिघत्सावृंहितं वपुः ।

@@ -37,6 +37,11 @@ svātmanaḥ svātmani svātmakṣepo vaisargikī sthitiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 244–252)
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.137–141]]
+>
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.141]]
+
 *Lead-in:* ननु एकैव अखण्डसंवित् अस्ति इति तदतिरिक्तं किञ्चिदपि न संभवेत्, तत्कस्य नाम सृष्टिः संहारो वा स्यात्, येनास्यास्तत्कारित्वमपि भवेत् ? -- इत्याशङ्क्याह --
 
 > स्वात्मनः स्वात्मनि स्वात्मक्षेपो वैसर्गिकी स्थितिः ॥

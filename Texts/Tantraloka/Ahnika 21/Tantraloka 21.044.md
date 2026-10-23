@@ -34,6 +34,9 @@ saṅkalpamātreṇākarṣo jīvasya mṛtibhītitaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 269)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.42–44]]
+
 > मृतोद्धारोदितैरेव यथासंभूति हेतुभिः ॥
 > जीवत्परोक्षदीक्षापि कार्या निर्बीजिका तु सा ।
 > तस्यां दर्भाकृतिप्रायकल्पने जालयोगतः ॥

@@ -34,6 +34,9 @@ saṅketabalato nāsya pustakātprathate mahaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 378)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.21–22]]
+
 > मन्त्रा वर्णात्मकास्ते च परामर्शात्मकाः स च ।
 > गुरुसंविदभिन्नश्चेत्संक्रामेत्सा ततः शिशौ ॥
 > लिपिस्थितस्तु यो मन्त्रो निर्वीर्यः सोऽत्र कल्पितः ।

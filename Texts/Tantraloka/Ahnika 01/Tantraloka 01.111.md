@@ -35,6 +35,9 @@ dvādaśāramahācakranāyako bhairavastviti || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 271–276)
+> ![[Tantraloka Dyczkowski v01 08 - Chapter One, part 7#Viveka on 1.110–111]]
+
 > एकवीरो यामलोऽथ त्रिशक्तिश्चतुरात्मकः ।
 > पञ्चमूर्तिः षडात्मायं सप्तकोऽष्टकभूषितः ॥
 > नवात्मा दशदिक्छक्तिरेकादशकलात्मकः ।

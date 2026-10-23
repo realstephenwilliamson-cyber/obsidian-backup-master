@@ -33,6 +33,11 @@ bhogalolikayā cetsā vicitreti kuto nanu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 173–174)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.78–79]]
+>
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.79]]
+
 *Lead-in:* अथात्र भोगलोलिका चेन्निमित्तं तत्तस्या अपि कुतस्त्यं वैचित्र्यम् -- इत्याह --
 
 > भोगलोलिकया चेत्सा विचित्रेति कुतो ननु ॥

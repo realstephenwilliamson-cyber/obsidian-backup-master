@@ -35,6 +35,9 @@ etadvarṇacatuṣkasya svoṣmaṇābhāsanāvaśāt |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 300–301)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.179]]
+
 *Lead-in:* एवमेतत्प्रसङ्गादभिधाय प्रकृतमेवाह --
 
 > एतद्वर्णचतुष्कस्य स्वोष्मणाभासनावशात् ।

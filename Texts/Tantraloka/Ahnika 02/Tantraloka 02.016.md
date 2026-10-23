@@ -35,6 +35,9 @@ amuṣminparamādvaite prakāśātmani ko'paraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 25)
+> ![[Tantraloka Dyczkowski v02 02 - Chapter Two, part 1#Viveka on 2.16–17]]
+
 *Lead-in:* न केवलं भावनाद्येव उपायत्वेनाभीष्टमेवम्, यादवन्यदपि -- इत्याह --
 
 Jayaratha comments on this verse together with 2.17: see [[Tantraloka 02.017#Viveka|2.17]].

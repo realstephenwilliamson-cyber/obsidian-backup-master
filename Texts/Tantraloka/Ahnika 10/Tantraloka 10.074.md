@@ -31,6 +31,9 @@ tadvannīlādidharmāṃśayukto dharmī svayaṃ sthitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 342–344)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.72–75]]
+
 > ब्रूषे यथा हि कुरुते सत्ता सत्यसतः सतः ॥
 > समवायोऽपि संश्लिष्टः श्लिष्टानश्लिष्टताजुषः ।
 > अन्त्यो विशेषो व्यावृत्तिरूपो व्यावृत्तिवर्जितान् ॥

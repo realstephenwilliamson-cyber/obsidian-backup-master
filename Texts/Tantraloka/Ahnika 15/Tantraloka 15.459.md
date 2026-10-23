@@ -32,6 +32,9 @@ sāyujyamīśvare tattve jīvato'dhītiyogyatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 281–283)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.458–459]]
+
 > उक्तं दीक्षोत्तरे चैतज्ज्वालासंपातशोभिना ॥
 > दत्तेन शिवहस्तेन समयी स विधीयते ।
 > सायुज्यमीश्वरे तत्त्वे जीवतोऽधीतियोग्यता ॥

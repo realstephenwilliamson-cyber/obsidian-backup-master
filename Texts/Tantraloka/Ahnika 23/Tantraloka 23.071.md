@@ -31,6 +31,9 @@ adhodṛṣṭau prapannastu tadanāśvastamānasaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 328)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.70–71]]
+
 > ऊर्ध्वदृष्टौ प्रपन्नः सन्ननाश्वस्तस्ततः परम् ।
 > अधःशास्त्रं प्रपद्यापि न श्रेयः पात्रतामियात् ॥
 > अधोदृष्टौ प्रपन्नस्तु तदनाश्वस्तमानसः ।

@@ -37,6 +37,11 @@ etāni bhaktiyogaprāṇatyāgādigamyāni || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 250–252)
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.232]]
+>
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.232–233]]
+
 *Lead-in:* ननु यद्येषां तुल्योपभोगादित्वमस्ति तत्कथं गुह्याष्टकाद्यष्टकपञ्चकतया भेदः? -- इत्याशङ्क्याह --
 
 > साधनभेदात्केवलमष्टकपञ्चकतयोक्तानि ।

@@ -251,7 +251,7 @@ By the time of the destruction of the Second Temple in 70 CE, an authoritative c
 ועשו סיג לתורה , “make a fence around the Torah.” In the Mishnah’s *Yadayim* 4:5, biblical texts are not said to “defile the hands” unless and until אשורית, על העור, ובדיו שיכתבנו , “they are written 
 
 [^49]: In another eight manuscripts, the divine name was substituted with four dots, sometimes called the “Tetrapuncta.” See Emanuel Tov, *Scribal Practices and Approaches Reflected in the Texts Found in the Judean Desert* (Leiden: Brill, 2004), 238–45. Cf. Donald W. Parry, “4QSam<sup>a</sup> and the Tetragrammaton,” in *Current Research and Technological Developments on the Dead Sea Scrolls*, ed. Stephen D. Ricks and Donald W. Parry (Leiden: Brill, 1996), 106–25.
-[^50]: The Talmudic text *Shevuot* 35a, which dates to the fifth century CE at the earliest, explains that while adjectives describing the deity may be erased, terms like אל , אלהים , either term with second person singular or plural suffices, אהיה אשר אהיה , שדי , and other divine epithets may not be erased.
+[^50]: The Talmudic text [[Shevuot 35#35a|*Shevuot* 35a]], which dates to the fifth century CE at the earliest, explains that while adjectives describing the deity may be erased, terms like אל , אלהים , either term with second person singular or plural suffices, אהיה אשר אהיה , שדי , and other divine epithets may not be erased.
 [^51]: See Frank Edward Shaw, “The Earliest Non-Mystical Use of Jewish Ιαω” (PhD diss., University of Cincinnati, 2002; Martin Rösel, “The Reading and Translation of the Divine Name in the Masoretic Tradition and the Greek Pentateuch,” *JSOT* 31.4 (2007): 411–28; Hermann Lichtenberger, “The Divine Name in the Dead Sea Scrolls and in New Testament Writings,” in *The Religious Worldviews Reflected in the Dead Sea Scrolls:* *Proceedings of the Fourteenth International Symposium of the Orion Center for the Study of the Dead Sea Scrolls and Associated Literature, 28–30 May, 2013*, ed. Ruth A. Clements, Menahem Kister, and Michael Segal (Leiden: Brill, 2018), 140–55.
 
 *[p. 429]* ^pg446
@@ -290,7 +290,7 @@ The golem is a creature, particularly a human being, made in an artificial way b
 
 While there are indeed several ancient analogues to the notion of animated anthropomorphic statues[^61]—many have already been discussed in this thesis—the tradition is largely inspired by the medieval mystical text, *Sefer Yeṣirah*, which explores the capacity for special combinations of letters and numbers to reify divine creative powers.[^62] More broadly, the tradition hearkens back to the initial creation of humanity in [[Torah 01 - Bereshit#^2-7|Genesis 2:7]] from the dust of the earth. The Talmudic 
 
-tractate *Sanhedrin* 38b even refers to Adam as a גולם , “golem.” Later Jewish sages would assert 
+tractate [[Sanhedrin 38#38b|*Sanhedrin* 38b]] even refers to Adam as a גולם , “golem.” Later Jewish sages would assert 
 
 their access to similar life-giving power through their knowledge of the Torah. In *Sanhedrin* 
 

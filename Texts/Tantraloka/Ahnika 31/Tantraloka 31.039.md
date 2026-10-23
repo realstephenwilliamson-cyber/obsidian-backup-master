@@ -31,5 +31,8 @@ sindūraṃ rājavartaṃ ca khaṭikā ca sitottamā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 84–85)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.39–41]]
+
 Jayaratha comments on this verse together with 31.40: see [[Tantraloka 31.040#Viveka|31.40]].
 

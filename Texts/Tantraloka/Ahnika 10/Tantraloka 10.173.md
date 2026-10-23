@@ -31,6 +31,9 @@ anyathā niyatasvapnasaṃdṛṣṭirjāyate kutaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 398–399)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.173]]
+
 *Lead-in:* ननु प्रलयाकलानां तत्तत्त्वलीनत्वं रूपम्, तच्च देहादिप्रमातृसंस्कारसंभवमात्रात्मनि सौषुप्ते न संभवेदिति कथङ्कारमेषां तदवस्थोपेतत्वम्? -- इत्याशङ्क्याह --
 
 > सौषुप्ते तत्त्वलीनत्वं स्फुटमेव हि लक्ष्यते ।

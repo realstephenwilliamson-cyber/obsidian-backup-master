@@ -33,6 +33,11 @@ svaśarīrādhikasadbhāvabhāvitāmiti tataḥ prāha || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 314–316)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.122–123]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.123–124]]
+
 *Lead-in:* इति च उक्तम् ॥ एतच्च गुरुभिरपि उक्तम्--इत्याह--
 
 > स्वशरीराधिकसद्भावभावितामिति ततः प्राह ॥

@@ -37,6 +37,15 @@ tasmāt karmendriyāṇyāhustvagvad vyāptṝṇi mukhyataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 244–246)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.259–260]]
+>
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.259–260 (2)]]
+>
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.260–261]]
+>
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.260–261]]
+
 *Lead-in:* ननु न वयं गमनादावकरणपूर्वकत्वमुपगच्छामः, किंतु नियतपादेन्द्रियादिकरणपूर्वकत्वं नेच्छामः यत् लूनाङ्घ्र्योऽपि जान्वादिना गच्छन्ति, उरगाश्चोरसापीति? -- तदाशङ्क्याह --
 
 > तस्मात् कर्मेन्द्रियाण्याहुस्त्वग्वद् व्याप्तॄणि मुख्यतः ॥

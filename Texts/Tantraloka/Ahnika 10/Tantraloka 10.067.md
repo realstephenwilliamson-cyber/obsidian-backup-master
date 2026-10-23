@@ -33,6 +33,11 @@ na ca jñātā'tra niyataḥ kaścijjñāne yathā tava || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 337–338)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.66–67]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.67–68]]
+
 *Lead-in:* न चास्य पर्यनुयोगस्यावकाशलेशमपि पश्यामः -- इत्याह --
 
 > न च ज्ञाताऽत्र नियतः कश्चिज्ज्ञाने यथा तव ॥

@@ -31,6 +31,9 @@ uttarottarabhūteṣu pūrvapūrvasthitiryataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 264)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.285–287]]
+
 > अन्ये त्वाहुर्ध्वनिः खैकगुणस्तदपि युज्यते ॥
 > यतो वायुर्निजं रूपं लभते न विनाम्बरात् ।
 > उत्तरोत्तरभूतेषु पूर्वपूर्वस्थितिर्यतः ॥

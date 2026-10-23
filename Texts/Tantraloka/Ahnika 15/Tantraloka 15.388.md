@@ -34,6 +34,11 @@ agnikāryavidhānāya tataḥ kuṇḍaṃ prakalpayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 239–241)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.385–388]]
+>
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.388–389]]
+
 *Lead-in:* इदानीं वह्निकार्यमभिधातुमुपक्रमते--
 
 > अग्निकार्यविधानाय ततः कुण्डं प्रकल्पयेत् ॥

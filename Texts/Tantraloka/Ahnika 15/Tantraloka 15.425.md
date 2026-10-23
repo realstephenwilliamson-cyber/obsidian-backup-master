@@ -32,5 +32,8 @@ samacittaprāṇatanuraikātmyavidhiyogataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 264–265)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.424–428]]
+
 Jayaratha comments on this verse together with 15.428: see [[Tantraloka 15.428#Viveka|15.428]].
 

@@ -34,6 +34,9 @@ iha tūkto yatastasmāt pratiyogyavikalpakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 387)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.210]]
+
 *Lead-in:* ननु विकल्प एव तत्कल्पनाबलान्नियतः सामान्यात्मा धर्मोऽवभासते इति तत्र तन्मुखेन धर्मिणि अवभासो भवेत् इत्ययं क्रमः शाक्तोपाये स्यात् न तु अखण्डवस्त्ववभासात्मनि निर्विकल्पकस्वभावे शाम्भवे इति कथमिहैतदुक्तम् ? इत्याशङ्क्याह—
 
 > इत्थं-भावे च शाक्ताख्यो वैकल्पिकपथक्रमः ।

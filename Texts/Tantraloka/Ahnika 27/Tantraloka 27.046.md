@@ -31,6 +31,9 @@ svena svenopacāreṇa saṅkaraṃ varjayediti || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 419)
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.44–46]]
+
 > खङ्गं कृपाणिकां यद्वा कर्तरीं मकुरं च वा ।
 > विमलं तत्तथा कुर्याच्छ्रीमत्कालीमुखोदितम् ॥
 > श्रीभैरवकुलेऽप्युक्तं कुलपर्वप्रपूजने ।

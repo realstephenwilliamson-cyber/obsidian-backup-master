@@ -35,6 +35,9 @@ ye yogaṃ saguṇaṃ śambhoḥ saṃyatāḥ paryupāsate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 260–261)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.244–247]]
+
 > उमापतिपुरस्योर्ध्वं स्थितं मूर्त्यष्टकं परम् ॥
 > शर्वादिकं यस्य सृष्टिर्धराद्या याजकान्ततः ।
 > ताभ्य ईशानमूर्तिर्या सा मेरौ संप्रतिष्ठिता ॥

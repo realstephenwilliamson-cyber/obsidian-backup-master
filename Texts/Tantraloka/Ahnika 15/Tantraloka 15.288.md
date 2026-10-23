@@ -33,6 +33,11 @@ tato'rghapātraṃ kartavyaṃ śivābhedamayaṃ param || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 171–172)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 15.288–290.*
+>
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.288–290]]
+
 *Lead-in:* इदानीं विशेषन्यासवैचित्र्यानन्तरोद्दिष्टं विशेषार्घपात्रमभिधातुमाह--
 
 Jayaratha comments on this verse together with 15.287: see [[Tantraloka 15.287#Viveka|15.287]].

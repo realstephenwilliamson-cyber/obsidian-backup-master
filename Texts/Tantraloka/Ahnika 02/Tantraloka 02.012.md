@@ -39,6 +39,9 @@ nāpūrṇamabhyeti ca satyabhāvam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 22–23)
+> ![[Tantraloka Dyczkowski v02 02 - Chapter Two, part 1#Viveka on 2.12]]
+
 *Lead-in:* अत एवाह—
 
 > त्यजावधानानि ननु क्व नाम

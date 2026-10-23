@@ -1,0 +1,23 @@
+{
+ "pdf": "/mnt/user-data/uploads/Obsidian Vault/Library/Hinduism/DURGA700_END_TRANS.pdf",
+ "pdf_vault": "Library/Hinduism/DURGA700_END_TRANS.pdf",
+ "catalog": "Catalog/Hinduism/Sri Durga Saptasati - Concluding Hymns",
+ "route": "ocr",
+ "title": "Śrī Durgā Saptaśatī: Concluding Hymns",
+ "authors": [],
+ "byline": "The stotras recited after the Devī Māhātmya, in Devanāgarī with transliteration and translation (an undated Word file of 9 Aug 2003, no author or publisher named).",
+ "folder": "Library/Hinduism/Durga Saptasati - Concluding Hymns (text)",
+ "index_name": "Durga Saptasati - Concluding Hymns (text)",
+ "prefix": "Durga Saptasati - Concluding Hymns (text)",
+ "out": "/home/claude/p4/out",
+ "date": "2026-10-22",
+ "ctype": "other",
+ "single": true,
+ "text_source": "fresh OCR with Tesseract 5 (Latin; Latin+san on the pages with Devanagari) of the page images (the PDF sets its Devanagari and transliteration in old fonts with no Unicode map)",
+ "langs": "Latin",
+ "san_pages": true,
+ "fixmap": true,
+ "anusvara": true,
+ "callout": "> [!note] Fresh OCR of the page images\n> The PDF's own text uses old fonts that do not copy, so this text was read from the page images by OCR (Tesseract, Latin and Sanskrit models). The transliteration is fairly reliable; the Devanagari has misread letters and conjuncts, and the line order of verse, transliteration and translation may be shuffled in places. For exact text, read the PDF (the *Open the PDF* button on the catalog note).",
+ "san_sort": true
+}

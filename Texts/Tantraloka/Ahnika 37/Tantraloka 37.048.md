@@ -36,6 +36,9 @@ tyaktā api prabhuguṇānadhikaṃ dhvananti || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 248–249)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.48]]
+
 > ग्रस्तार्केन्दुर्गगनविमलो योगिनीनां च वर्गः ॥
 > श्रीमत्परं प्रवरनाम पुरं च तत्र
 > यन्निर्ममे प्रवरसेन इति क्षितीशः ।

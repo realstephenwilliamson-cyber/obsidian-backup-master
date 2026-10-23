@@ -35,5 +35,12 @@ sadyojātādivaktrāṇi hṛdādyaṅgāni pañca ca |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 91–92)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 16.213–216.*
+>
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.213–216]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.213–216 (continued)]]
+
 Jayaratha comments on this verse together with 16.215: see [[Tantraloka 16.215#Viveka|16.215]].
 

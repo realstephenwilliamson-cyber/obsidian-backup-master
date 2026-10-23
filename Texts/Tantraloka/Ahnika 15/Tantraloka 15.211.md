@@ -31,6 +31,9 @@ pañcamasya yujitve tau parityaktanijātmakau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 130)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.211]]
+
 *Lead-in:* ननु एवं पञ्चवक्त्रायोगे तन्मूलो दिग्विभाग एव न स्यात्?--इत्याशङ्क्य आह--
 
 > दिग्विभागस्तु तज्जोऽस्ति वदनानां चतुष्टयात् ।

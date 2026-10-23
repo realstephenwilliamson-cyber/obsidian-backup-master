@@ -31,6 +31,9 @@ nāśo dṛṣṭaḥ prāgabhāvastvavastviti tathā'stu saḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 160)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.58]]
+
 *Lead-in:* एतच्च मलस्य नाशमभ्युपगम्योक्तं वस्तुतस्त्वसावस्य न स्यात् -- इत्याह --
 
 > न च नित्यस्य भावस्य हेत्वनायत्तजन्मनः ।

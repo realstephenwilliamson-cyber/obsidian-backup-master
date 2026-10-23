@@ -35,6 +35,9 @@ laukikālaukikaṃ bhūyaḥphalaṃ syātpāralaukikam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 334)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.107]]
+
 *Lead-in:* अस्य च ग्रहणस्य महत्त्वे निमित्तं दर्शयति --
 
 > ग्रासमोक्षान्तरे स्नानध्यानहोमजपादिकम् ।

@@ -32,6 +32,9 @@ vahniḥ prāṇaḥ sruksruvau ca snehaḥ saṅkalpacidrasaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 265–266)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.429–430]]
+
 *Lead-in:* ननु एवमभिसन्धाने क इव अभिप्रायः ?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 15.430: see [[Tantraloka 15.430#Viveka|15.430]].

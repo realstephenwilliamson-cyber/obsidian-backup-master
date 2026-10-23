@@ -31,6 +31,9 @@ yadrūpaṃ tatparaṃ tattvaṃ tatra tatra suniścitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 219–220)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.157]]
+
 *Lead-in:* अत एवाह --
 
 > उपाययोगक्रमतो निरुपायमथाक्रमम् ।

@@ -35,6 +35,9 @@ mahāḍāmarake yāge śrīparā mastake tathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 164–166)
+> ![[Tantraloka Dyczkowski v02 06 - Chapter Three, part 3#Viveka on 3.69–71]]
+
 > परापरात्परं तत्त्वं सैषा देवी निगद्यते ।
 > तत्सारं तच्च हृदयं स विसर्गः परः प्रभुः ॥
 > देवीयामलशास्त्रे सा कथिता कालकर्षिणी ।

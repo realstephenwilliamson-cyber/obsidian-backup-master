@@ -32,5 +32,8 @@ tadvargaṃ nijasantānamanyaṃ tasyāpyasaṃnidhau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 338)
+> ![[Tantraloka Dyczkowski v08 10 - Chapter Fifteen, part 9#Viveka on 15.581–584]]
+
 Jayaratha comments on this verse together with 15.597: see [[Tantraloka 15.597#Viveka|15.597]].
 

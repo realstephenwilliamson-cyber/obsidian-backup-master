@@ -31,5 +31,8 @@ svayambhūte sahasraṃ tu tadardhamṛṣiyojite || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 110–111)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.251–254]]
+
 Jayaratha comments on this verse together with 28.253: see [[Tantraloka 28.253#Viveka|28.253]].
 

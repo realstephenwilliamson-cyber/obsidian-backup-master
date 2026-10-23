@@ -36,6 +36,11 @@ vyākhyātaḥ kṛṣṇapakṣo yastatra prāṇagataḥ śaśī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 315–317)
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.91–92]]
+>
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.92–94]]
+
 *Lead-in:* इदानीं प्रकृतमेवावतारयति --
 
 Jayaratha comments on this verse together with 6.91: see [[Tantraloka 06.091#Viveka|6.91]].

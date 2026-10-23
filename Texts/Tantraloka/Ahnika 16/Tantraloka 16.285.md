@@ -35,6 +35,9 @@ avikalpakaparyantapratīkṣā nopayujyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 128)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.285]]
+
 *Lead-in:* ननु एवमपि अविकल्पकपर्यन्तीभूतादेवास्मादेतन्न्याययं न तु अन्यथा, तत्कथं सञ्जल्पमात्रादेव मोक्षो भवेत् ?--इत्याशङ्क्याह--
 
 > विकल्पेऽपि गुरोः सम्यगभिन्नशिवताजुषः ।

@@ -33,6 +33,11 @@ evaṃ dehaṃ pūjayitvā prāṇadhīśūnyavigrahān || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 173–174)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.293–295]]
+>
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.295–296]]
+
 > अर्घपात्रार्चनादत्तपुष्पसङ्कीर्णताभयात् ॥
 > नार्घपात्रेऽत्र कुसुमं कुर्याद्देवार्चनाकृते ।
 > अर्घपात्रे तदमृतीभूतमम्ब्वेव पूजितम् ॥

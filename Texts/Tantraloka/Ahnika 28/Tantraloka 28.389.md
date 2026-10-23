@@ -31,6 +31,9 @@ tatrāpi yā'sya cidvṛttikarmibhit sāpyavāntarā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 177–178)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.389]]
+
 *Lead-in:* ननु एवमपि स्वभ्यस्तज्ञानतायामेव गुरोः सर्वत्र कस्माद्भरः ?-- इत्याशङ्क्य आह--
 
 > गुरोर्लक्षणमेतावत्सम्पूर्णज्ञानतैव या ।

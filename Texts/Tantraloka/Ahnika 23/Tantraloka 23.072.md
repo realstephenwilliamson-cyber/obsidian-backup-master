@@ -31,6 +31,9 @@ viparyayastu netyevamūrdhvāṃ dṛṣṭiṃ samāśrayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 328)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.72]]
+
 *Lead-in:* एतदेव दृष्टान्तोपदर्शनेन घटयति--
 
 > राज्ञे दुर्ह्यन्नमात्याङ्गभूतोऽपि हि विहन्यते ।

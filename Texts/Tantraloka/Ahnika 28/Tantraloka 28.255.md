@@ -31,6 +31,9 @@ tasmāttattvavidā yadyatsthāpitaṃ liṅgamuttamam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 111)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.254–256]]
+
 > अहमन्यः परात्मान्यः शिवोऽन्य इति चेन्मतिः ॥
 > न मोचयेन्न मुक्तश्च सर्वमात्ममयं यतः ।
 > तस्मात्तत्त्वविदा यद्यत्स्थापितं लिङ्गमुत्तमम् ॥

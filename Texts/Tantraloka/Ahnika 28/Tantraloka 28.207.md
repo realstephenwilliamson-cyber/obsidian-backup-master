@@ -33,6 +33,11 @@ tena vijñānasantānaprādhānyādyaunasantateḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 94–95)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.206–207]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.207–209]]
+
 *Lead-in:* प्रकृतमेव उपसंहरति--
 
 Jayaratha comments on this verse together with 28.206: see [[Tantraloka 28.206#Viveka|28.206]].

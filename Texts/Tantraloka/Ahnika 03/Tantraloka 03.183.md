@@ -37,6 +37,11 @@ itthaṃ yadvarṇajātaṃ tatsarvaṃ svaramayaṃ purā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 303–304)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.181–183]]
+>
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.183–184]]
+
 *Lead-in:* इदानीमेवमुपपादितं कादिहान्तं वर्णजातं स्वरानुप्राणितमेव भवति, इति दर्शयितुमाह --
 
 > इत्थं यद्वर्णजातं तत्सर्वं स्वरमयं पुरा ॥

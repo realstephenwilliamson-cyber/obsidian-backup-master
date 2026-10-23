@@ -37,6 +37,11 @@ yathā yathā cākṛtakaṃ tadrūpamatiricyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 68–69)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.75–76]]
+>
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.76–77]]
+
 *Lead-in:* ननु यद्येवं तत्प्रमाबोधस्याविशेषेऽपि कस्मात् केचित्प्रमातारो वाक्याद्येव कुर्वते परे शास्त्राद्यपि -- इत्याशङ्क्याह --
 
 > यथा यथा चाकृतकं तद्रूपमतिरिच्यते ॥

@@ -34,6 +34,9 @@ itthaṃ pradarśite'mutra pratibimbanavartmani |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 100–101)
+> ![[Tantraloka Dyczkowski v02 04 - Chapter Three, part 1#Viveka on 3.24–26]]
+
 *Lead-in:* तदेवमुपपादिते प्रतिबिम्बमार्गे यच्छब्दस्य प्रतिबिम्बं तत्सामवायिकेन अभिधानान्तरेणाप्यभिधीयते -- इत्याह --
 
 Jayaratha comments on this verse together with 3.26: see [[Tantraloka 03.026#Viveka|3.26]].

@@ -45,7 +45,7 @@ Now, those who are familiar with the esoteric meaning of Scripture know [the exp
 
 [^1]: Collected Discourses. For an introduction to this part of the *Tanya*, see Addendum, p. a.
 [^2]: The following is the author’s introduction which is called *Chinuch Kattan*. The complete work is referred to as *Shaar Hayichud VehaEmunah*.
-[^3]: The *Shema* consists of three sections of the Torah: [[Torah 45 - Vaetchanan#^6-4|Deuteronomy 6:4-10]], 11:13-22, and [[Torah 37 - Sh'lach#^15-37|Numbers 15:37-42]]. Following the first verse of the first section, our Sages instituted the recital of the verse, *Blessed be the name of the glory of His kingdom for ever and ever*. See *Pesachim* 56a.
+[^3]: The *Shema* consists of three sections of the Torah: [[Torah 45 - Vaetchanan#^6-4|Deuteronomy 6:4-10]], 11:13-22, and [[Torah 37 - Sh'lach#^15-37|Numbers 15:37-42]]. Following the first verse of the first section, our Sages instituted the recital of the verse, *Blessed be the name of the glory of His kingdom for ever and ever*. See [[Pesachim 56#56a|*Pesachim* 56a]].
 [^4]: [[Proverbs 22#^22-6|Proverbs 22:6]].
 [^5]: Cf. Commentary on Maimonides’ *Hilchot Yesodei HaTorah* 2:10; *Reishit Chochmah*, beg. of *Shaar HaAhavah*; Rabbi Schneur Zalman, *Shulchan Aruch*, *Hilchot Talmud Torah* 4:6.
 [^6]: [[Psalms 034#^34-15|Psalms 34:15]]; i.e., the fulfillment of the negative injunctions.

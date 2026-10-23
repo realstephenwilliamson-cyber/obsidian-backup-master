@@ -31,6 +31,9 @@ adhobhāgādibhiścordhvaṃ tatra rekhā prapadyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 132–133)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.161–163]]
+
 > मध्ये चोर्ध्वं ततः कुर्यादधस्तादंगुलद्वयम् ॥
 > रेखाद्वयं पातयेत यथा शूलं भवत्यपि ।
 > अधोभागादिभिश्चोर्ध्वं तत्र रेखा प्रपद्यते ॥

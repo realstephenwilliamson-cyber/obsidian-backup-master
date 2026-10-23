@@ -36,6 +36,11 @@ itthaṃ vaśvādhvapaṭalamayatnenaiva līyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 32–34)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.30–31]]
+>
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.31–32]]
+
 *Lead-in:* नन्वेवं सर्वस्य सर्वात्मकत्वोपदेशेन किम् ? -- इत्याशङ्क्याह --
 
 > इत्थं वश्वाध्वपटलमयत्नेनैव लीयते ॥

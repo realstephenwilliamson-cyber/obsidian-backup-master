@@ -36,6 +36,11 @@ tatra svātantryadṛṣṭyā vā darpaṇe mukhabimbavat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 10–12)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.10–11]]
+>
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.11–12]]
+
 *Lead-in:* एतदेव पक्षान्तरेणाप्याह --
 
 > तत्र स्वातन्त्र्यदृष्ट्या वा दर्पणे मुखबिम्बवत् ॥

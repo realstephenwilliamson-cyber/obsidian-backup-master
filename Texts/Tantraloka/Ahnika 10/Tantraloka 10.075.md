@@ -33,6 +33,11 @@ vedyatā bhāsamānā ca svayaṃ nīlādidharmavat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 342–345)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.72–75]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.75–76]]
+
 *Lead-in:* ननु यथा (सत्ता)स्वरूपेण सती तथा वेद्यतापि स्वरूपेणैव वेद्येत्युक्ते स्वरूपस्यैव वेद्यत्वं वेदकत्वं च द्वितयं प्राप्नुयात्, तच्च न युक्तं, विरोधात् ? -- इत्याशङ्क्य स्वयंवेद्यतां स्वप्रकाशतायामेव विश्रमयति -
 
 > वेद्यता भासमाना च स्वयं नीलादिधर्मवत् ॥

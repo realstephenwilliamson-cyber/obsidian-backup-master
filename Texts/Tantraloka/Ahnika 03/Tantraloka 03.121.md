@@ -37,6 +37,13 @@ anyonyamaviyuktau tau svatantrāvapyubhau sthitau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 226)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.121]]
+>
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.121–123]]
+>
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.121–123 (continued)]]
+
 > एवं च सूर्य प्रमाणमित्याहुः सोमं मेयं प्रचक्षते ।
 
 एवं सूर्यसोमयोः स्वरूपमभिधाय वह्नेरप्यभिधत्ते --

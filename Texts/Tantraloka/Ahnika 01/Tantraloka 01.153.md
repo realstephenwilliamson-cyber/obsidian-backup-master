@@ -34,6 +34,9 @@ kriyā saiva ca yogaḥ syāttattvānāṃ cillayīkṛtau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 324–327)
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.152–153]]
+
 > स्वचित्ते वासनाः कर्ममलमायाप्रसूतयः ।
 > तासां शान्तिनिमित्तं या मतिः संवित्स्वभाविका ॥
 > सा देहारम्भिबाह्यस्थतत्त्वव्रताधिशायिनी ।

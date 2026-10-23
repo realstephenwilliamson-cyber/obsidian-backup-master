@@ -36,6 +36,11 @@ bahistathātmatābhāve kāryaṃ karmapadohanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 154–155)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.26–28]]
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.28–29]]
+
 > बहिस्तथात्मताभावे कार्यं कर्मपदोहनम् ॥
 > तृप्तावाहुतिहुतभुक्पाशप्लोषच्छिदादिषु ।
 

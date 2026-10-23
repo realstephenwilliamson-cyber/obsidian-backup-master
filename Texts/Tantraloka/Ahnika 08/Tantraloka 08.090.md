@@ -34,6 +34,9 @@ prāpyaṃ manorathātītamapi bhāratajanmanām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 139)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.90]]
+
 *Lead-in:* इत्याद्युक्त्या दुःखभूयिष्ठाः, -- इत्यत्र "जन्म दुर्लभम्"इति केन निमित्तेनोक्तम्? इत्याशङ्क्याह --
 
 > अन्यवर्षेषु पशुवद् भोगात्कर्मातिवाहनम् ।

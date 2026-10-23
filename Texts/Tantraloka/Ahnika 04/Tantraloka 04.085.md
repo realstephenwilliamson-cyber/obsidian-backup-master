@@ -34,6 +34,9 @@ na vyarthatā nānavasthā nānyonyāśrayatāpi ca || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 100–101)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.85]]
+
 *Lead-in:* तदेतदाह --
 
 > इत्थं च मानसंप्लुत्यामपि नाधिगते गतिः ।

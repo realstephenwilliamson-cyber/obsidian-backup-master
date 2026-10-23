@@ -33,6 +33,11 @@ ko'pi bhāvaḥ projjhatīti satyaṃ tadbhāvanā phalet |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 372)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.120–121]]
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.121]]
+
 *Lead-in:* नचैतदागमेष्वपि असिद्धतयैवोक्तमपि तु अत एव न्यायात् -- इत्याह --
 
 > श्रीपूर्वशास्त्रे तेनोक्तं शिवः साक्षान्न भिद्यते ॥

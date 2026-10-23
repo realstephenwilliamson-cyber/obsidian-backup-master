@@ -5,3 +5,5 @@ type: index
 
 - [[Tanya]]
 - [[Mei HaShiloach]]
+- [[Kedushat Levi]]
+- [[Likutei Moharan]]

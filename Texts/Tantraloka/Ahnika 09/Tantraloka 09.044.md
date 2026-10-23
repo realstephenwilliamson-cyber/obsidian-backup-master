@@ -33,6 +33,11 @@ tata eva svarūpe'pi krame'pyanyādṛśī sthitiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 48–50)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.44]]
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.44–45]]
+
 *Lead-in:* अत आह --
 
 > स तु सर्वत्र तुल्यस्तत्परामर्शैक्यमस्ति तु ।

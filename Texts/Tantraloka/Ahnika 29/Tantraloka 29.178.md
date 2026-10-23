@@ -31,6 +31,9 @@ paśyetpūrvoktayuktyaiva tatraivābhyarcayedguruḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 349)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.178]]
+
 *Lead-in:* एतच्च देहे इव प्राणेऽपि कार्यम्--इत्याह--
 
 > अथवा प्राणवृत्तिस्थं समस्तं देवतागणम् ।

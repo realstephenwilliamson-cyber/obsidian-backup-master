@@ -31,6 +31,9 @@ kāryo'smin pūjite yatra sarveśvarapadaṃ bhajet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 118–119)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.128–131]]
+
 > अस्पन्दकरणं कृत्वा एकदा स्पन्दवर्तनम् ।
 > मूलमानन्दमापीड्य शक्तित्रयपदं विशेत् ॥
 > तत्र पूज्यं प्रयत्नेन जायन्ते सर्वसिद्धयः ।

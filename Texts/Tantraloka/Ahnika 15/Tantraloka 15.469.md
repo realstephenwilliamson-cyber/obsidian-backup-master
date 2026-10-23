@@ -32,6 +32,9 @@ sarvatraivādhikārī syātputrakādipadatraye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 289–290)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.469]]
+
 *Lead-in:* ननु एवमभिहिते समयिनः किमुक्तं स्यात् ?--इत्याशङ्क्य आह--
 
 > एतैर्वाक्यैरिदं चोक्तं समयी राजपुत्रवत् ।

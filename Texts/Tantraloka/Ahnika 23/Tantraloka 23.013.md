@@ -33,6 +33,13 @@ yastu karmitayācāryastatra kāṇādivarjanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 299–302)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 23.14–15.*
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.12–13]]
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.14–15]]
+
 *Lead-in:* अस्मच्छास्त्रे पुनः कस्मादयं नियमो नोक्तः ?--इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 23.12: see [[Tantraloka 23.012#Viveka|23.12]].

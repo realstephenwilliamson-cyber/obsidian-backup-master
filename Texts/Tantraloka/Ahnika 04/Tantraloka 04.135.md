@@ -34,6 +34,9 @@ evaṃ krameṇa sarvatra cakreṣvamṛtamuttamam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 182–183)
+> ![[Tantraloka Dyczkowski v03 06 - Chapter Four, part 5#Viveka on 4.135–136]]
+
 *Lead-in:* तच्च कथम् ? इत्याह --
 
 > षोडशद्वादशाराभ्यामष्टारेष्वथ सर्वशः ।

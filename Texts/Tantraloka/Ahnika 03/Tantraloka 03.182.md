@@ -35,6 +35,9 @@ catuṣkaṃ ca catuṣkaṃ ca bhedābhedagataṃ kramāt |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 303–304)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.181–183]]
+
 *Lead-in:* एतदेव प्रपञ्चयति --
 
 > आद्यं चतुष्कं संवित्तेर्भेदसंधानकोविदम् ॥

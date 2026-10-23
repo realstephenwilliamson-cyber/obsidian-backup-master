@@ -36,6 +36,11 @@ anābhāsitatadvastubhāsanāya niyujyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 153–154)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.25–26]]
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.26–28]]
+
 *Lead-in:* एतदेवोपपादयति--
 
 Jayaratha comments on this verse together with 17.25: see [[Tantraloka 17.025#Viveka|17.25]].

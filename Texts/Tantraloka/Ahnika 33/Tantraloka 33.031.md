@@ -33,6 +33,13 @@ turye viśrāntirādheyā mātṛsadbhāvasāriṇi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 183)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 33.32.*
+>
+> ![[Tantraloka Dyczkowski v11 07 - Chapter Thirty-Three#Viveka on 33.31]]
+>
+> ![[Tantraloka Dyczkowski v11 07 - Chapter Thirty-Three#Viveka on 33.32]]
+
 *Lead-in:* ननु यदि तुर्यमेव विश्रान्तिस्थानं तत् कथं तत् विभज्य न उक्तम्?-- इत्याशङ्क्य आह--
 
 > तच्च प्रकाशं वक्त्रस्थं सूचितं तु पदे पदे ।

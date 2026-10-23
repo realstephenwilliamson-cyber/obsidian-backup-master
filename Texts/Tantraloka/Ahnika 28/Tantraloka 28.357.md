@@ -33,6 +33,11 @@ yānapaśyamahaṃ svapne pramātaṃste na kecana || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 158–159)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.356–357]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.357–358]]
+
 *Lead-in:* ननु स्वप्ने तावत् बन्ध्वादयः केचित्, नहि अस्य ते द्वये सम्भवन्ति ?-- इत्याशङ्क्य आह--
 
 > यानपश्यमहं स्वप्ने प्रमातंस्ते न केचन ॥

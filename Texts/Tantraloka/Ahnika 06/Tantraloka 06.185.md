@@ -37,6 +37,11 @@ evaṃ prāṇe yathā kālaḥ kriyāvaicitryaśaktijaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 394)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.185]]
+>
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.185–186]]
+
 > प्रमात्रभेदे भेदेऽथ चित्रो विततिमाप्यसौ ।
 
 अनेनैतत्स्वप्नादावनुभूतम् -- इति प्रमात्रन्तरैकीकारेण विततिम्नोऽवभासः; मयैवैतदसाधारण्येनानुभूतम् -- इति वा ॥

@@ -33,6 +33,13 @@ na hyasya sa gurutve syāddoṣo yenoṣare kṛṣim || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 333–335)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 23.89.*
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.83–87]]
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.89]]
+
 *Lead-in:* इत्यादिदृशा तस्य परित्याग एव क्रियतां, किमन्यत्र गमनेन?-- इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 23.86: see [[Tantraloka 23.086#Viveka|23.86]].

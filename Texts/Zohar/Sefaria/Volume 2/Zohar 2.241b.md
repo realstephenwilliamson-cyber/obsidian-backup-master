@@ -41,4 +41,4 @@ Pritzker translation (Matt): [[Zohar 6.06 - Parashat Pequdei#^z2-241b|Parashat P
 
 **Pekudei 42:409** Now observe that the *Ofanim* (Wheels) are carried by the *Hayoth* (living creatures). For that which is of a higher grade, though it seems to be carried by that which is of a lower grade, really carries it. It was the same with the Ark, which also carried its carriers.[^1] ^pekudei-42-409
 
-[^1]: T. B. Sotah, 35a.
+[^1]: T. B. [[Sotah 35#35a|Sotah, 35a]].

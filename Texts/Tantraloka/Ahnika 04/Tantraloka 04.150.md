@@ -36,6 +36,11 @@ saṃjihīrṣuḥ sthiternāśaṃ kalayantī nirucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 204–213)
+> ![[Tantraloka Dyczkowski v03 07 - Chapter Four, part 6#Viveka on 4.149–150]]
+>
+> ![[Tantraloka Dyczkowski v03 07 - Chapter Four, part 6#Viveka on 4.150]]
+
 *Lead-in:* एवं प्रमेयगतं स्थितिस्वरूपमभिधाय संहारस्वरूपमप्यभिधातुमाह --
 
 > .....................टामन्तर्मुखतारसात् ।

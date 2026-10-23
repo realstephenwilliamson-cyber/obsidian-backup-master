@@ -31,6 +31,9 @@ aparā tu pratiṣṭhā syānnivṛttistu parāparā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 108)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.98]]
+
 *Lead-in:* आसामेव प्रपञ्चतो व्याप्तिमाह--
 
 > शान्तिरूपा कला ह्येषा विद्यारूपा परा भवेत् ।

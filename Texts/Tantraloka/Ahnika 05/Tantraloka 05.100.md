@@ -37,6 +37,11 @@ atra bhāvanayā dehagatopāyaiḥ pare pathi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 130–138)
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.99–100]]
+>
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.100–104]]
+
 *Lead-in:* एवं परतत्त्वान्तःप्रवेशं निर्णीय तदानन्तर्योद्दष्टानि तत्पथलक्षणान्यपि लक्षयितुमाह --
 
 Jayaratha comments on this verse together with 5.99: see [[Tantraloka 05.099#Viveka|5.99]].

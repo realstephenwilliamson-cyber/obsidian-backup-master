@@ -39,6 +39,9 @@ prabhoḥ sūryasyeva spṛśata caraṇāndhvāntajayinaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 60–62)
+> ![[Tantraloka Dyczkowski v02 03 - Chapter Two, part 2#Viveka on 2.49]]
+
 *Lead-in:* तदेव सर्वत्रावधातव्यम् -- इत्याह --
 
 > गुरोर्वाक्याद्युक्तिप्रचयरचनोन्मार्जनवशात्

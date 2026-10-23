@@ -33,6 +33,11 @@ sarvago'pyanilo yadvadvyajanenopavījitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 136–137)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.225–226]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.226–228]]
+
 *Lead-in:* ननु दिशामिन्द्रादयोऽधिष्ठातार इति उक्तम् । ते च पारमेश्वरैन्द्यरदिशक्तिस्वभावाः । ताश्च व्यापिका इति कथमासां नियतदिगाधिपत्येन तदुचितफलप्रदत्वं स्यात्?--इत्याशङ्कां दृष्टान्तोपदर्शनेन उपशमयति--
 
 Jayaratha comments on this verse together with 15.225: see [[Tantraloka 15.225#Viveka|15.225]].

@@ -40,6 +40,11 @@ yasminnāśu samāveśādbhavedyogī nirañjanaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 212–213)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.107–108]]
+>
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.108]]
+
 *Lead-in:* अत एव च एतत् त्रिशूलशब्देनोक्तम् -- इत्याह --
 
 > लोलीभूतमतः शक्तित्रितयं तत्त्रिशूलकम् ।

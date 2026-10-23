@@ -36,6 +36,11 @@ taddhyānāraṇisaṃkṣobhānmahābhairavahavyabhuk || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 25–26)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.22]]
+>
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.22–23]]
+
 *Lead-in:* नन्वात्मनः सर्वदेहव्यापकत्वेऽपि कथं हृदय एवं साक्षात्कारो भवेत् ? इत्याशङ्क्याह --
 
 > सोमसूर्याग्निसङ्घट्टं तत्र ध्यायेदनन्यधीः ।

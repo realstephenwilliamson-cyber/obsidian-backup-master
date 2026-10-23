@@ -1,0 +1,87 @@
+---
+type: "text"
+work: "Talmud Bavli"
+masekhet: "Zevachim"
+seder: "Kodashim"
+daf: 53
+translation: "William Davidson Edition - English"
+edition: "English from The William Davidson digital edition of the Koren Noé Talmud, with commentary by Rabbi Adin Even-Israel Steinsaltz"
+license: "CC-BY-NC"
+source: "https://www.sefaria.org/Zevachim.53a?ven=William_Davidson_Edition_-_English&lang=en"
+aliases:
+  - "Zevachim 53a"
+  - "Zevachim 53b"
+  - "BT Zevachim 53"
+---
+# Zevachim 53
+
+← [[Zevachim 52]] · [[Zevachim]] · [[Zevachim 54]] →
+
+*Seder Kodashim · Zevachim · Daf 53* · [[Zevachim]] · [[Talmud]]
+
+## 53a
+
+> [!xref]- Mesoret HaShas (53a)
+> - [[Menachot 97#^97b-5|Menachot 97b:5]] (line 9)
+> - [[Menachot 97#^97b-6|Menachot 97b:6]] (line 4)
+> - [[Yoma 59#^59a-14|Yoma 59a:14]] (line 10)
+> - [[Zevachim 10#^10b-31|Zevachim 10b:31]] (line 6)
+> - [[Zevachim 63#^63a-2|Zevachim 63a:2-3]] (line 1)
+> - [[Zevachim 64#^64b-5|Zevachim 64b:5]] (line 4)
+> - [Jerusalem Talmud Maaser Sheni 5:1:4](https://www.sefaria.org/Jerusalem_Talmud_Maaser_Sheni.5.1.4) (line 9)
+
+**He ascended the ramp** of the altar **and turned** right **to the surrounding ledge** and he continued east, **and he came to the southeast corner** and sprinkled the blood of the sin offering there and then to the **northeast** corner and sprinkled the blood there, and then to the **northwest** corner and sprinkled the blood there, and the **southwest** corner, where he performed the fourth sprinkling and descended from the altar. **He would pour the remainder of the blood on the southern base** of the altar. **And** the meat portions of the offering **are eaten within the curtains,** i.e., in the Temple courtyard, **by the males of the priesthood.** And they are eaten prepared **in any** form of **food** preparation, **on** the **day** the offering is sacrificed **and** during the **night** that follows, **until midnight.** ^53a-1
+
+**GEMARA:** **How does** the priest **perform** the rite of sprinkling the blood on the corners of the altar? There is a dispute between **Rabbi Yoḥanan and Rabbi Elazar. One says** that the priest **places** the blood within **a cubit on this** side **or a cubit on that** side. He places the blood wherever he wants, provided that it is within one cubit of the corner of the altar. **And one says** that **he sprinkles** the blood **on the** outer **edge of** the **corner** of the altar, **and** it flows **down** on both sides of the altar. ^53a-2
+
+The Gemara comments: **According to** the opinion **of Rabbi Elazar, son of Rabbi Shimon, who says** that the sprinkling of the blood of a sin offering **itself is performed only on the actual corner,** the one-by-one-cubit projection above each corner of the altar, **everyone agrees** that the blood may be sprinkled anywhere on the corner, and this will be a fulfillment of the verse: “And put it upon the corners of the altar of burnt offering” ([[Torah 24 - Vayikra#^4-25|Leviticus 4:25]]). **When they disagree** is only **according to** the opinion **of Rabbi** Yehuda HaNasi, who holds that the blood may be sprinkled anywhere above the red line on the edge of the altar. One **Sage holds** that the blood may be sprinkled on the cubit on either side of the edge, because **a cubit on this** side **and a cubit on that** side **is** still considered to be **on** the **corner. And** one **Sage holds** that **on its edge, yes,** it is fit, but any **further** on either side is **not.** ^53a-3
+
+The Gemara **raises an objection** to the opinion that one cubit on either side of the edge is still considered on the edge, from a *baraita*: With regard to **communal sin offerings and individual** sin offerings, **how** is **the placement of their blood** on the altar performed? The priest **would ascend the ramp** of the altar **and turn** right **to the surrounding ledge** and continue east, **and** he would **come to** the **southeast corner. And** he would then **dip with his right [*haymanit*] finger, the** most **dexterous [*hamyumenet*] of the right** hand, i.e., the index finger, **of the blood that is in the bowl, and** would **gather** the blood **with his thumb above and his smallest finger below,** so that it would remain on his finger. **And** he would **sprinkle** the blood **and** move his hand **down on the** outer **edge of** the **corner, until** he would **finish** sprinkling **all the blood that** was **on** his **finger. And** he would act **similarly** at **each and every corner.** This *baraita* states explicitly that the blood must be sprinkled on the actual edge. ^53a-4
+
+The Gemara answers: **This** is what the *baraita* **is saying:** The optimal manner to perform the **mitzva** is to sprinkle the blood **on the edge of** the corner. But **if he did** the sprinkling on the **cubit on this** side, **or** the **cubit on that** side, **we have no** problem **with it,** and he has still fulfilled the mitzva. ^53a-5
+
+The Gemara discusses the aforementioned dispute. **What** is the opinion of **Rabbi** Yehuda HaNasi, **and what** is the opinion of **Rabbi Elazar, son of Rabbi Shimon?** This is **as it is taught** in a *baraita* (*Tosefta* 6:11): The **blood** that must be placed on **the upper** half of the altar, e.g., the blood of a sin offering, **is placed** anywhere **from the red line** that circumscribed the middle of the altar **and above.** The **blood** that must be placed on **the lower** half of the altar **is placed** anywhere **from the red line or below it.** This is **the statement of Rabbi** Yehuda HaNasi. ^53a-6
+
+The *baraita* continues: **Rabbi Elazar, son of Rabbi Shimon says: In what** case **is this statement said?** It is said **with regard to a bird burnt offering,** as its blood may be placed anywhere above the red line. **But with regard to an animal sin offering,** the placement **itself may be performed only on the actual corner** of the altar. This is based on the verse that states: “And the priest shall take of the blood of the sin offering with his finger, and put it upon the corners of the altar of burnt offering” ([[Torah 24 - Vayikra#^4-25|Leviticus 4:25]]). ^53a-7
+
+**Rabbi Abbahu says: What is the reason** for the opinion **of Rabbi** Yehuda HaNasi? **As it is written: “And the altar shall be four cubits; and from the altar and above** there shall be four corners” ([[Ezekiel 43#^43-15|Ezekiel 43:15]]). The Gemara asks: **Was** the altar only **four cubits** wide? **Rav Adda bar Ahava said: And** the total **area** of the four **corners,** which were each one square cubit, was **four** cubits. The Gemara asks: **Was the area of** the **corners four** square cubits? If the four corners would be placed together the area would be only two square cubits. **Rather, say** that the **domain** of the **corners** is **four** cubits. In other words, the verse means that the blood may be sprinkled up to four cubits beneath the actual corners of the altar. ^53a-8
+
+**We learned** in a mishna **there** (*Middot* 35b): **A red line circumscribed** the altar **in the middle, to separate between** the area for the **blood** that must be placed on **the upper** part of the altar **and** the area for the **blood** that must be placed on **the lower** part of the altar. The Gemara asks: **From where is this matter** derived? **Rav Aḥa bar Rav Ketina said** it is derived from a verse, **as it is stated:** “And you shall put it under the ledge round the altar beneath, **and the net will reach halfway up the altar”** ([[Torah 19 - Terumah#^27-5|Exodus 27:5]]). **The Torah provided** for **a separation** on the altar, **to separate between** the area for the **blood** placed on **the upper** part of the altar **and** the area for the **blood** placed on **the lower** part of the altar. ^53a-9
+
+§ The mishna teaches: He would pour **the remainder of the blood** on the southern base of the altar. **The Sages taught** in a *baraita*: Concerning the phrase: **“At the base of the altar”** ([[Torah 24 - Vayikra#^4-30|Leviticus 4:30]]), mentioned with regard to pouring the remainder of the blood of the sin offering of a king, **this** is referring to the **southern base** of the altar. The *baraita* challenges: **Do you say** that **this** is referring to the **southern base, or is it** referring **only** to the **western base?** ^53a-10
+
+The *baraita* suggests: **And** one can **derive** the meaning of this **unspecified** phrase **from** the meaning of **the explicit** phrase, as follows: **You said** that one can **derive** the location of the priest’s **descent from the ramp** of the external altar after sprinkling blood of the sin offering by comparing it **to his exit from the Sanctuary** with the blood that remained after having sprinkled blood inside the Sanctuary. The verse states with regard to the bull offering of the High Priest: “And all the remaining blood of the bull he shall pour out at the base of the altar of burnt offering, which is at the entrance of the Tent of Meeting” ([[Torah 24 - Vayikra#^4-7|Leviticus 4:7]]). **Just as** upon **his exit from the Sanctuary** the priest pours the remainder of the blood **on** the side **closest to him,** the western side, **so too,** upon **his descent from the ramp** of the external altar after sprinkling blood from the sin offering, he pours the blood **on** the side **closest to him,** which is the southern side. ^53a-11
+
+**It is taught** in another *baraita*: **Rabbi Yishmael says: This and that,** both the remainder of the blood sprinkled inside the Sanctuary and the remainder of the blood sprinkled on the external altar, are poured on the **western base** of the altar. **Rabbi Shimon ben Yoḥai says: This and that** are poured on the **southern base** of the altar. ^53a-12
+
+The Gemara clarifies: **Granted, according to the one who says** that the blood is poured on the **western base** of the altar, it is clear how he derived his *halakha*. He **holds** that one can **derive** the meaning of **an unspecified** phrase **from** the meaning of **the explicit** phrase. Therefore, just as the remainder of the blood sprinkled inside the Sanctuary is poured on the western base of the external altar, the same is done with the remainder of the blood sprinkled on the external altar. ^53a-13
+
+**But according to the one who says** that the blood is poured on the **southern base** of the altar, **what is the reason? Rabbi Asi said: This *tanna* holds** that **the entire** external **altar stands in the north** of the Temple courtyard. Therefore, the southern base is in the center of the courtyard, opposite the entrance to the Sanctuary. This is what the verse is referring to when it states: “At the entrance of the Tent of Meeting” ([[Torah 24 - Vayikra#^4-7|Leviticus 4:7]]). The Gemara presents **another formulation** of Rabbi Asi’s explanation: **The entire entrance** of the Sanctuary **stands in the south** of the altar. Accordingly, when the priest exits the Sanctuary the southern base is the first one he encounters. ^53a-14
+
+## 53b
+
+> [!xref]- Mesoret HaShas (53b)
+> - [[Megillah 26#^26a-14|Megillah 26a:14]] (line 9)
+> - [[Yoma 12#^12a-4|Yoma 12a:4]] (line 9)
+> - [[Yoma 15#^15b-3|Yoma 15b:3-4]] (line 7)
+> - [[Zevachim 118#^118b-9|Zevachim 118b:9]] (line 9)
+> - [[Zevachim 26#^26a-9|Zevachim 26a:9]] (line 2)
+> - [[Zevachim 47#^47a-12|Zevachim 47a:12-13]] (line 2)
+
+**The school of Rabbi Yishmael, in accordance with** the opinion of **Rabbi Shimon ben Yoḥai, says:** Both **this and that,** i.e., the blood of an inner sin offering and that of an external sin offering, were poured at the **western base** of the altar. According to this version, Rabbi Shimon ben Yoḥai agrees with the opinion of Rabbi Yishmael. The Gemara comments: **And your mnemonic** to remember this change in opinion is: **The men pulled the man.** In this case, the numerous students of Rabbi Yishmael claim that Rabbi Shimon ben Yoḥai agrees with their teacher. ^53b-1
+
+**MISHNA:** **The burnt offering** is **an offering of the most sacred order. Its slaughter** is **in the north** of the Temple courtyard **and the collection of its blood in a service vessel** is **in the north, and its blood requires two placements that are four, and** it **requires flaying** of its carcass **and the cutting** of the sacrificial animal into pieces, **and** it is consumed **in its entirety,** with the exception of its hide, **by the fire** of the altar. ^53b-2
+
+**GEMARA:** **What is the reason** that the *tanna* **taught** that **a burnt offering** is **an offering of the most sacred order,** when the mishna earlier (52b) did not mention that a sin offering is of the most sacred order? The Gemara answers: It is **because** in the Torah **it is not written** explicitly **with regard to** the burnt offering: **It is most sacred,** as it states concerning the sin offering and the guilt offering in a verse concerning a meal offering: “It shall not be baked with leaven. I have given it as their portion of My offerings made by fire; it is most sacred, as the sin offering, and as the guilt offering” ([[Torah 25 - Tzav#^6-10|Leviticus 6:10]]). Consequently, the *tanna* explicitly states that a burnt offering is likewise of the most sacred order. ^53b-3
+
+The mishna teaches: **And its blood requires two placements** that are four. **How does** the priest **perform** the placements? **Rav says: He places** the blood on one side of the corner of the altar, **and places** it **again** on the other side of the corner of the altar. He repeats this on the diagonally opposite corner, so that he places on two corners but on all four sides of the altar. **And Shmuel says:** He **places one placement** on each of the two diagonally opposite corners, so that each placement is **similar to** the shape of the Greek letter **gamma,** which is bent at a right angle. ^53b-4
+
+The Gemara comments: This dispute between Rav and Shmuel is **like** a dispute between ***tanna’im*:** One **might** have thought that a priest **should sprinkle one sprinkling** with the blood of a burnt offering. To counter this possibility, **the verse states:** “And sprinkle the blood **around** against the altar that is at the entrance of the Tent of Meeting” ([[Torah 24 - Vayikra#^1-5|Leviticus 1:5]]). **If** the blood must be sprinkled **around** the altar, one **might** have thought that **he should circumscribe** the altar **as** one would do with **a thread,** and sprinkle the blood all around. To counter this possibility, **the verse states:** “Shall present the blood, **and sprinkle** the blood around against the altar” ([[Torah 24 - Vayikra#^1-5|Leviticus 1:5]]), and one cannot have the blood circumscribe the altar as a thread would without directly applying it with a finger. **How** can **these** verses be reconciled? He applies the blood in a shape that is **similar to** that of the Greek letter **gamma, and its blood requires two sprinklings that are four.** This opinion accords with the opinion of Shmuel. ^53b-5
+
+The *baraita* continues: **Rabbi Yishmael says: It is stated here:** “Shall present the blood, and sprinkle the blood **around** against the altar” ([[Torah 24 - Vayikra#^1-5|Leviticus 1:5]]), **and it is stated there,** with regard to the sin offering sacrificed at the inauguration of the Tabernacle: “And when it was slain, Moses took the blood, and put it upon the corners of the altar **around** with his finger” ([[Torah 25 - Tzav#^8-15|Leviticus 8:15]]). **Just as there,** with regard to the sin offering, the blood was placed **discretely and** with **four placements,** one on each corner, **so too here,** with regard to a burnt offering, it must be placed **discretely and** with **four placements.** This opinion accords with the opinion of Rav. ^53b-6
+
+**If** these offerings are compared to each other, why not say that **just as there,** the blood of the sin offering must have **four placements on** the **four corners, so too here,** the blood of the burnt offering requires **four placements on** the **four corners? You said** that **a burnt offering requires** that the blood be placed on a part of the altar that has **a base, and** the **southeast corner** of the altar **had no base** beneath it. Therefore, the blood had to be placed on the northeast corner and the southwest corner. ^53b-7
+
+The Gemara asks: **What is the reason** that there was no base on the southeast corner of the altar? **Rabbi Elazar says: Because it was not in the portion** of land **of the one who tears,** i.e., the tribe of Benjamin, as he is described in the following manner: “Benjamin is a wolf that tears apart; in the morning he devours the prey, and in the evening he divides the spoil” ([[Torah 12 - Vayechi#^49-27|Genesis 49:27]]). **As Rav Shmuel, son of Rav Yitzḥak, says:** The **altar** would **consume,** i.e., occupy, **one cubit of the portion of Judah.** The part of the altar in Judah’s portion was the southeast corner of the base, and therefore there was no base on that corner. ^53b-8
+
+**Rabbi Levi bar Ḥama says** that **Rabbi Ḥama, son of Rabbi Ḥanina, says: A strip** of land **emerged from the portion of Judah and entered into the portion of Benjamin,** and the southeast corner of the base was on that strip. **And** the tribe of **Benjamin the righteous would agonize over it every day,** desiring **to take it** into its portion, due to its unique sanctity. **As it is stated** in Moses’ blessing to the tribe of Benjamin: ^53b-9

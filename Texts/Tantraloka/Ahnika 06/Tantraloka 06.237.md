@@ -35,6 +35,9 @@ krūre saumye vilomena hādi yāvadapaścimam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 441–442)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.237]]
+
 *Lead-in:* नन्वेवं वर्णोदयेनाभिहितेन कोऽर्थः ? -- इत्याशङ्क्याह --
 
 > इत्थं षट्त्रिंशके चारे वर्णानामुदयः फले ।

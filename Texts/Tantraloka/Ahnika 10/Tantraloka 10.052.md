@@ -33,6 +33,13 @@ nanu pradīpo rūpasya prakāśaḥ kathamīdṛśam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 326–328)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.50–52]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.50–52 (continued)]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.52]]
+
 *Lead-in:* ननु परप्रकाश(श्य)त्वेऽपि दीपो यथार्थस्य प्रकाशस्तथा ज्ञानमपि भवेत् तत्कथमेवमुक्तं यज्ज्ञानान्तरज्ञेयत्वादप्रकाशरूपं ज्ञानं नार्थं प्रकाशयेत् इति ? -- इत्याह --
 
 > ननु प्रदीपो रूपस्य प्रकाशः कथमीदृशम् ॥

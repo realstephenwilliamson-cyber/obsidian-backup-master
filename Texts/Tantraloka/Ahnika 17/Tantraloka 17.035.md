@@ -34,6 +34,9 @@ māyāyāṃ taddharātattvaśarīrāṇyasya saṃsṛjet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 159)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.34–35]]
+
 > स्वबन्धस्थानचलनात् स्वतन्त्रस्थानलाभतः ।
 > स्वकर्मापरतन्त्रत्वात् सर्वत्रोत्पत्तिमर्हति ॥
 > तेनात्महृदयानीतं प्राक्कृत्वा पुद्गलं ततः ।

@@ -31,6 +31,9 @@ tādātmyaṃ kila piṇḍasthaṃ mitaṃ piṇḍaṃ hi piṇḍitam || ^ias
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 450)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.243]]
+
 *Lead-in:* ननु योगसिद्धौ पिण्डस्थमिति परिभाषणे किं निमित्तम् ? -- इत्याशङ्क्याह --
 
 > अधिष्ठेयसमापत्तिमध्यासीनस्य योगिनः ।

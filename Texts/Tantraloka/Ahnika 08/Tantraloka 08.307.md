@@ -35,6 +35,9 @@ te'nantāderjagataḥ sargasthitivilayakartāraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 309–310)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.307–308]]
+
 *Lead-in:* ननु को नाम शुद्धाशुद्धयोः स्रोतसोरधिकार ? -- इत्याशङ्क्याह --
 
 > शिवगुणयोगे तस्मिन् महति पदे ये प्रतिष्ठिताः प्रथमम् ।

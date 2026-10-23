@@ -35,6 +35,9 @@ pañcāśadbhedatāṃ pūrvasūtritāṃ yojayedbudhaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 397)
+> ![[Tantraloka Dyczkowski v02 12 - Chapter Three, part 9#Viveka on 3.274–276]]
+
 *Lead-in:* उपायोपेयभावमेव चात्र दर्शयति --
 
 Jayaratha comments on this verse together with 3.276: see [[Tantraloka 03.276#Viveka|3.276]].

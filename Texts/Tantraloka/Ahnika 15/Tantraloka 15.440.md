@@ -32,6 +32,9 @@ svā ityamṛtavarṇena vahnau hutvājyaśeṣakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 272–273)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.436–441]]
+
 > ततः प्राक्स्थापितान्यस्तमन्त्रसंस्कृतवह्निना ॥
 > चरुः साध्योऽथवा शिष्यैर्होमेन समकालकः ।
 > चरौ च वीरद्रव्याणि लौकिकान्यथवेच्छया ॥

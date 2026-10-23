@@ -31,6 +31,9 @@ puṃsi kartari sā kartrī prayojakatayā yataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 156–158)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.183]]
+
 > सेयं कला न करणं मुख्यं विद्यादिकं यथा ।
 > पंसि कर्तरि सा कर्त्री प्रयोजकतया यतः ॥
 

@@ -34,6 +34,9 @@ kvacidanyataratrātha prāguktapaśukarmavat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 209–215)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.15–16]]
+
 *Lead-in:* अत्रैव पक्षान्तरं दर्शयति--
 
 Jayaratha comments on this verse together with 19.16: see [[Tantraloka 19.016#Viveka|19.16]].

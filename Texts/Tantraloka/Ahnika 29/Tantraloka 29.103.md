@@ -31,6 +31,9 @@ aliases:
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 299–300)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.103]]
+
 *Lead-in:* न च एतदस्मदुपज्ञमेव--इत्याह--
 
 > श्रीसर्वाचारहृदये तदेतदुपसंहृतम् ।

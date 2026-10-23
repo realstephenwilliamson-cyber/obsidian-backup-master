@@ -35,6 +35,9 @@ mano'nusandhirno viśvasaṃyogapravibhāgavat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 104–105)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.240]]
+
 *Lead-in:* नन्वेवमस्याणोर्युगपदनेकशरीरगतत्वेन भोक्तृत्वेऽपि किमन्योन्यस्यानुसन्धानमस्ति न वा ?--इत्याशङ्क्याह--
 
 > देहैस्तावद्भिरस्याणोश्चित्रं भोक्तुरपि स्फुटम् ।

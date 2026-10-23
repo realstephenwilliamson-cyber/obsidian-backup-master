@@ -33,6 +33,11 @@ vibhāgastveṣa me proktaḥ śaṃbhunāthena darśyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 331–332)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.333]]
+>
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.333 (2)]]
+
 *Lead-in:* चशब्दोऽवधारणे भिन्नक्रमः । तेन स्वभ्यस्तज्ञानवानेव गुरुर्मोक्षप्रदः प्रोक्त इति ॥ ततश्चेदं सिद्धम् -- इत्याह --
 
 > तस्मात्स्वभ्यस्तविज्ञानतैवैकं गुरुलक्षणम् ।

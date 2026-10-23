@@ -35,6 +35,9 @@ guruśiṣyapade'pyeṣa dehabhedo hyatāttvikaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 430–435)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.256]]
+
 *Lead-in:* न केवलं संविदः प्रष्ट्टत्वमेव अस्ति, यावत् प्रश्नादिरूपत्वमपि -- इत्याह—
 
 > स्वयमेवं विबोधश्च तथा प्रश्नोत्तरात्मकः ।

@@ -33,6 +33,11 @@ evaṃ saurī digīśānabrahmaviṣṇvīśasauśivaiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 137–138)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.226–228]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.228–229]]
+
 *Lead-in:* न केवलमियं सूर्याश्रया दिगैन्द्यरद्याभिः पारमेश्वरीभिः शक्तिभिरेव अधिष्ठिता तत्फलप्रदा, यावत् कारणपञ्चकेनापि-- इत्याह--
 
 > एवं सौरी दिगीशानब्रह्मविष्ण्वीशसौशिवैः ॥

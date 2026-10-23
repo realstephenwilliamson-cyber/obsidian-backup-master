@@ -37,6 +37,11 @@ saṃbandhaḥ paratā cāsya pūrṇaikātmyaprathāmayī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 454–457)
+> ![[Tantraloka Dyczkowski v01 13 - Chapter One, part 12#Viveka on 1.275]]
+>
+> ![[Tantraloka Dyczkowski v01 13 - Chapter One, part 12#Viveka on 1.275 (2)]]
+
 *Lead-in:* परकलात्मत्वमेव व्याचष्टे --
 
 > भिन्नयोः प्रष्टृतद्वक्त्रोश्चैकात्म्यं यत्स उच्यते ।

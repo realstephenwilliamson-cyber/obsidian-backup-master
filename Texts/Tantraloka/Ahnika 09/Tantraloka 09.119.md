@@ -31,6 +31,9 @@ ahaṃbhāvaparo'pyeti na karmādhīnavṛttitām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 107)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.119]]
+
 *Lead-in:* ननु मलस्य ध्वस्तत्वे शर्वमहम्"इति सर्वत्राहंभावोदयात् कर्मणि तत्फले च तथाभावात् अस्य पुनरपि कार्ममलयोगः स्यात् ? -- इत्याशङ्क्याह --
 
 > अपध्वस्तमलस्त्वन्तःशिवावेशवशीकृतः ।

@@ -35,6 +35,9 @@ kramikaṃ tattvoddharaṇādi karma mokṣe'pi yuktamativitatam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 88)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.204–205]]
+
 *Lead-in:* एतदेव निगमयति—
 
 > तस्माद् गुरुशिष्यमतौ शिवभावनिरूढिवितरणसमर्थम् ।

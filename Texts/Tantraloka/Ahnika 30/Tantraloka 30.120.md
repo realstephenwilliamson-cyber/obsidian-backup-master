@@ -33,6 +33,11 @@ etadvidyātrayaṃ śrīmadbhūtirājo nyarūpayat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 63)
+> ![[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#Viveka on 30.116–120]]
+>
+> ![[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#Viveka on 30.120–121]]
+
 > एतद्विद्यात्रयं श्रीमद्भूतिराजो न्यरूपयत् ॥
 > यः साक्षादभजच्छ्रीमाञ्श्रीकण्ठो मानुषीं तनुम् ।
 

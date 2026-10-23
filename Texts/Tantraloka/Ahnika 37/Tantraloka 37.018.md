@@ -31,6 +31,9 @@ samūhaḥ pīṭhametacca dvidhā dakṣiṇavāmataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 234–235)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.18–19]]
+
 *Lead-in:* अत्रैव पीठचतुष्टयात्मकत्वं निर्णेतुमाह--
 
 > श्रीमदानन्दशास्त्रादौ प्रोक्तं भगवता किल ।

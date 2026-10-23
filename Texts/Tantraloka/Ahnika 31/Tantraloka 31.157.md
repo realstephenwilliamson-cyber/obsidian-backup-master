@@ -31,5 +31,8 @@ adhastād bhrāmayetsūtraṃ śaśāṅkaśakalākṛti || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 130)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.156–157]]
+
 Jayaratha comments on this verse together with 31.160: see [[Tantraloka 31.160#Viveka|31.160]].
 

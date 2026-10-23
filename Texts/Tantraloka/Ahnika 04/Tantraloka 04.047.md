@@ -36,6 +36,11 @@ asya bhedāśca bahavo nirbhittiḥ sahabhittikaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 59–65)
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.46–47]]
+>
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.47–48]]
+
 *Lead-in:* उपाधिभेदाच्च अस्य नानात्वम्, इत्याह --
 
 Jayaratha comments on this verse together with 4.46: see [[Tantraloka 04.046#Viveka|4.46]].

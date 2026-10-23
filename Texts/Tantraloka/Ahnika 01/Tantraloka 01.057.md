@@ -34,6 +34,9 @@ yattatra ke pramāṇānāmupapattyupayogite || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 184–186)
+> ![[Tantraloka Dyczkowski v01 06 - Chapter One, part 5#Viveka on 1.57]]
+
 *Lead-in:* अतश्च तत्र व्यर्थमेव बौद्धस्यापि प्रमाणस्य परिकल्पनम् -- इत्याह --
 
 > अपह्नुतौ साधने वा वस्तूनामाद्यमीदृशम् ।

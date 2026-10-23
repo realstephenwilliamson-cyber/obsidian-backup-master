@@ -37,6 +37,9 @@ antarullikhitacitrasaṃvido no bhaveyuranubhūtayaḥ sphuṭāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 380–381)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.201]]
+
 *Lead-in:* तदेव पठति—
 
 > त्वत्स्वरूपमविकल्पमक्षजा कल्पने न विषयीकरोति चेत् ।

@@ -36,6 +36,11 @@ anuttarānandacitī icchāśaktau niyojite || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 197–201)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.93–94]]
+>
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.94–95]]
+
 *Lead-in:* एवमेकारस्योदयमात्रमुक्त्वा गर्भीकारेण स्वरूपमप्यभिधत्ते --
 
 > अनुत्तरानन्दचिती इच्छाशक्तौ नियोजिते ॥

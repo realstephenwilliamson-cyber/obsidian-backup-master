@@ -37,6 +37,11 @@ ekāśītimimāmardhamātrāṇāmāha no guruḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 430)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.225–226]]
+>
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.226]]
+
 *Lead-in:* नन्वेवं विभाजने किं प्रमाणम् ? -- इत्याशङ्क्याह --
 
 > एकाशीतिमिमामर्धमात्राणामाह नो गुरुः ॥

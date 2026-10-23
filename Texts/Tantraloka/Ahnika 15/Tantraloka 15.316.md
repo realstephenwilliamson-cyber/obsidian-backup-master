@@ -31,5 +31,8 @@ tādātmyenātha sṛṣṭāni bhidevārcyatvayojane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 190)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.315–317]]
+
 Jayaratha comments on this verse together with 15.317: see [[Tantraloka 15.317#Viveka|15.317]].
 

@@ -31,6 +31,9 @@ tattvajño'pyṛṇabandhena tena yātyadhikāritām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 197)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.425–429]]
+
 > मण्डले स्वस्तिकं कृत्वा तत्र हैमादिकासनम् ॥
 > कृत्वार्चयेत तत्रस्थमध्वानं सकलान्तकम् ।
 > ततो विज्ञपयेद्भक्त्या तदधिष्ठितये गुरुम् ॥

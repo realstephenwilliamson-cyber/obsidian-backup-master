@@ -35,6 +35,9 @@ parā saikākṣarā devī yatra līnaṃ carācaram || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 425–426)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.218]]
+
 *Lead-in:* स एव च परमुपेयः -- इत्याह --
 
 > स तु भैरवसद्भावो मातृसद्भाव एष सः ।

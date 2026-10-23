@@ -33,6 +33,11 @@ māse māse caturmāse varṣe vāpi pavitrakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 71–72)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 28.142–143.*
+>
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.142–143]]
+
 > पूरणं शक्तियोगेन शक्त्यात्म च सितं दलम् ॥
 > दक्षिणायनसाजात्यात् तेन तद्विधिरुच्यते ।
 > एकद्वित्रिचतुःपञ्चषड्लतैकतमं महत् ॥

@@ -33,6 +33,11 @@ ekavijñātṛvedyatve na jñātrantaravedyatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 310–311)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.24–25]]
+>
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.25–26]]
+
 *Lead-in:* तदाह -
 
 > एकविज्ञातृवेद्यत्वे न ज्ञात्रन्तरवेद्यता ॥

@@ -32,6 +32,9 @@ iti samayadīkṣaṇamidaṃ prakāśitaṃ vistarācca saṃkṣepāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 348)
+> ![[Tantraloka Dyczkowski v08 10 - Chapter Fifteen, part 9#Viveka on 15.611–613]]
+
 > इति समयदीक्षणमिदं प्रकाशितं विस्तराच्च संक्षेपात् ॥
 
 विस्तरादिति--अर्थात् । संक्षेपादिति--ग्रन्थत इति शिवम् ॥ ६१३ ॥

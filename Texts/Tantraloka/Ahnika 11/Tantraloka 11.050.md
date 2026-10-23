@@ -38,6 +38,13 @@ tatra śaktiparispandastāvān prāk ca nirūpitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 47–48)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.49–50]]
+>
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.50]]
+>
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.50 (2)]]
+
 *Lead-in:* ननु यदि नाम निर्विभागपरिपूर्णसंविदात्मिका सा दशा, कुतस्त्योऽयं विभागः? -- इत्याशङ्क्याह --
 
 > तत्र शक्तिपरिस्पन्दस्तावान् प्राक् च निरूपितः ॥

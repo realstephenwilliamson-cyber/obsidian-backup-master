@@ -34,6 +34,9 @@ sā śaktistāpitā bhūyaḥ pañcārādikramaṃ sṛjet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 190–191)
+> ![[Tantraloka Dyczkowski v03 06 - Chapter Four, part 5#Viveka on 4.141–142]]
+
 > अधस्तं पादयेदग्निरमृतं स्रवति क्षणात् ॥
 > गुल्फजान्वादिषु व्यक्तं कुटिलार्कप्रदीपिता ।
 > सा शक्तिस्तापिता भूयः पञ्चारादिक्रमं सृजेत् ॥

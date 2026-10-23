@@ -34,6 +34,9 @@ ekaikatra yatastena dvādaśātmakatoditā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 193–197)
+> ![[Tantraloka Dyczkowski v03 07 - Chapter Four, part 6#Viveka on 4.145]]
+
 *Lead-in:* एवं संवादिते आगमे तात्पर्यार्थं व्याचष्टे --
 
 > अत्र तात्पर्यतः प्रोक्तमक्षे क्रमचतुष्टयम् ।

@@ -31,6 +31,9 @@ saṃvedanagataṃ vedyaṃ tajjāgratsamudāhṛtam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 441–442)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.231]]
+
 *Lead-in:* तदेवाह -
 
 > यदधिष्ठेयमेवेह नाधिष्ठातृ कदाचन ।

@@ -31,6 +31,9 @@ ityukte parameśānyā jagādādiguruḥ śivaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 230)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.173–174]]
+
 *Lead-in:* एतच्च निर्णेतुं परमेश्वरः प्रत्युवाच -- इत्याह --
 
 > इत्युक्ते परमेशान्या जगादादिगुरुः शिवः ।

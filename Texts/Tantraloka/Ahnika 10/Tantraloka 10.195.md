@@ -31,6 +31,9 @@ jighṛkṣite'pyupādhau syuḥ pararūpādavicyutāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 415)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.194–195]]
+
 > एवं द्वितीयषट्केऽपि किं त्वत्र ग्राह्यवर्त्मना ।
 > उपरागपदं प्राप्य परापरतया स्थिताः ॥
 > आद्येऽत्र षट्के ता देव्यःस्वातन्त्र्योल्लासमात्रतः ।

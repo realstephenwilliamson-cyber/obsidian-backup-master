@@ -267,7 +267,7 @@ because of Her is stated:
 [^10]: *shenit*
 [^11]: *sheni*
 [^12]: *qedushah*
-[^13]: *BT* Megillah 23b
+[^13]: *BT* [[Megillah 23#23b|Megillah 23b]]
 [^14]: *malkhut*
 [^15]: *tzedaqah*
 [^16]: Yesod

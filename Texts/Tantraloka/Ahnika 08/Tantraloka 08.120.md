@@ -35,6 +35,9 @@ abhimānato yatheṣṭaṃ bhogasthānaṃ nivāsaśca || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 162)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.119–120]]
+
 > पशुखगमृगतरुमानुषसरीसृपैः षड्भिरेष भूर्लोकः ।
 > व्याप्तः पिशाचरक्षोगन्धर्वाणां सयक्षाणाम् ॥
 > विद्याभृतां च किं वा बहुना सर्वस्य भूतसर्गस्य ।

@@ -35,5 +35,10 @@ māyāmalanirmuktāḥ kevalamadhikāramātrasaṃrūḍhāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 355–356)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 8.377–378.*
+>
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.377–378]]
+
 Jayaratha comments on this verse together with 8.376: see [[Tantraloka 08.376#Viveka|8.376]].
 

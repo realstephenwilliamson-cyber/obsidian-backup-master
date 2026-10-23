@@ -31,6 +31,9 @@ jñānī tatastataḥ saṃvittattvamasya prakāśate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 452)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.245]]
+
 *Lead-in:* एवमपि प्रसंख्यानपरेष्वेवायं संज्ञानियमः -- इति कोऽभिप्रायः ? -- इत्याशङ्क्याह --
 
 > सर्वसत्तासमापूर्णं विश्वं पश्येद्यतो यतः ।

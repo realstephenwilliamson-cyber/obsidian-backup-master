@@ -31,6 +31,9 @@ nārikelamatho bailvaṃ sauvarṇaṃ rājataṃ ca vā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 417–418)
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.40–41]]
+
 *Lead-in:* इदानीमुक्तेऽपि पात्रस्य लक्षणे तद्भेदोपदर्शनाय पक्षान्तरमाह--
 
 Jayaratha comments on this verse together with 27.41: see [[Tantraloka 27.041#Viveka|27.41]].

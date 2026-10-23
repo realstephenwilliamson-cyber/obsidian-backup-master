@@ -35,6 +35,9 @@ ploṣakaḥ śiva evāhamityullāsī hutāśanaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 405–407)
+> ![[Tantraloka Dyczkowski v02 12 - Chapter Three, part 9#Viveka on 3.286]]
+
 *Lead-in:* नन्वेवमपि विश्वस्य सृज्यमानत्वादिरूपतया संस्कारेणावस्थानात्कथमस्य प्रशान्ततोदियात् ? -- इत्याशङ्क्याह—
 
 > अनन्तचित्रसद्गर्भसंसारस्वप्नसद्मनः ।

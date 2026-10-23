@@ -35,6 +35,9 @@ dehāntarādirmaraṇe kīdṛgvā dehasaṃbhavaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 84–85)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.95]]
+
 *Lead-in:* ननु रज्जुभुजगादिबुद्धिरपि किं भ्रन्तिमात्रमेव ? -- इत्याशङ्कां निरवकाशयितुं भ्रन्तित्वमेवोपपादयति --
 
 > यतः प्राग्देहमरणसिद्धान्तः स्वप्नगोचरः ।

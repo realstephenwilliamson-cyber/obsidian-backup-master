@@ -37,6 +37,11 @@ akṛte vā'tha śodhyasya nyāse vastubalāt sthiteḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 94–97)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.222–223]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.223–224]]
+
 > सार्धं चैकं चैकं सार्धं द्वे द्वे शशी दृगथ युग्मम् ॥
 > त्रीणि दृगब्धिश्चन्द्रः श्रुतिः शशी पञ्च विधुमहश्चन्द्राः ।
 > एकान्नविंशतौ स्यादक्षरसंख्या पदेष्वियं देव्याः ॥

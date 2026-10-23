@@ -38,6 +38,9 @@ tatkṣobhaḥ kādihāntaṃ tatprasarastattvapaddhatiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 76–77)
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.67]]
+
 *Lead-in:* ननु यदि नामैतावत् विसर्गामृतं परप्रमात्रात्मना परामृष्टं, तावता षड्वधस्याध्वमण्डलस्य किमायातं यदेवमुक्तम् ? -- इत्याशङ्क्याह --
 
 > यतोऽनुत्तरनाथस्य विसर्गः कुलनायिका ।

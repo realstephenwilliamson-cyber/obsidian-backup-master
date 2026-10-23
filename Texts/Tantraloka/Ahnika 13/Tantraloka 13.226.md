@@ -31,6 +31,9 @@ jīvanmuktaḥ śivībhūtastadaivāsau nigadyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 264)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.224–226]]
+
 > प्राग्भेदभागी झटिति क्रमात्सामस्त्यतोंऽशतः ॥
 > इत्यादिभेदभिन्नो हि गुरोर्लाभ इहोदितः ।
 > तस्माद्दीक्षां स लभते सद्य एव शिवप्रदाम् ॥

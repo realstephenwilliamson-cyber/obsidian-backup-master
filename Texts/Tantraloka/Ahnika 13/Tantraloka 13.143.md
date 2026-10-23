@@ -33,6 +33,11 @@ yato vājasaneyākhya uktaṃ siñcetsvayaṃ tanum || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 211–213)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.142–143]]
+>
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.143–144]]
+
 *Lead-in:* ननु किमत्र प्रमाणम्? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 13.142: see [[Tantraloka 13.142#Viveka|13.142]].

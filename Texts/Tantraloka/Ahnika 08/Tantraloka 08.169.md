@@ -35,6 +35,9 @@ vyakterabhimukhībhūtaḥ pracyutaḥ śaktirūpataḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 197–198)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.168–170]]
+
 *Lead-in:* तद्ग्रन्थमेव पठति --
 
 Jayaratha comments on this verse together with 8.170: see [[Tantraloka 08.170#Viveka|8.170]].

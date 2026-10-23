@@ -31,6 +31,9 @@ varuṇo macchando bhagadatta iti trayamidaṃ hṛdaye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 58–59)
+> ![[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#Viveka on 30.102–104]]
+
 *Lead-in:* तदेव आह--
 
 Jayaratha comments on this verse together with 30.106: see [[Tantraloka 30.106#Viveka|30.106]].

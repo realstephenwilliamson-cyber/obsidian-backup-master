@@ -15,14 +15,17 @@ filters:
     - file.folder.startsWith("Catalog/")
     - subject.contains("Biblical-Studies")
     - status != "delete"
+formulas:
+  Read: files.filter(value.asFile().ext == "md").map(link(value, "Read"))
 views:
   - type: table
     name: Biblical Studies
     order:
+      - formula.Read
       - file.name
       - author
-      - year
       - type
+      - year
       - text
       - status
     sort:
@@ -34,8 +37,10 @@ views:
       and:
         - status == "review"
     order:
+      - formula.Read
       - file.name
       - author
+      - type
       - year
     sort:
       - property: file.name

@@ -33,6 +33,13 @@ dakṣahastena bhadraṃ syādvellitā śuktirucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 48–51)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 28.99–101.*
+>
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.93–94]]
+>
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.99–101]]
+
 *Lead-in:* तदेव दर्शयति--
 
 Jayaratha comments on this verse together with 28.93: see [[Tantraloka 28.093#Viveka|28.93]].

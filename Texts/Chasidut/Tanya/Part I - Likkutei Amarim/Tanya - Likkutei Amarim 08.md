@@ -46,7 +46,7 @@ Unless he employs [these sciences] as a useful instrument, viz., as a means of a
 [^2]: Cf. *Zohar* III:253a; 277a f.
 [^3]: Ch. 7.
 [^4]: *Chibut hakever*. Cf. *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-151a|II:151a]], and especially R. Chaim Vital, end of *Sefer Hagilgulim*, and *Sefer Hakavanot*, p. 55b f.
-[^5]: Cf. [[I Samuel 25#^25-29|I Samuel 25:29]]: “And the soul of your enemies, He will sling it with the hollow of the sling,” eschatologically interpreted in *Shabbat* 152b.
+[^5]: Cf. [[I Samuel 25#^25-29|I Samuel 25:29]]: “And the soul of your enemies, He will sling it with the hollow of the sling,” eschatologically interpreted in [[Shabbat 152#152b|*Shabbat* 152b]].
 [^6]: *Zohar* [[Zohar 4.06 - Parashat Be-Shallah#^z2-59a|II:59a]].
 [^7]: The Purgatory, where the soul is cleansed of the “stains” acquired during its lifetime so that it could then enter *Gan Eden* in the presence of the Divine Glory, operates on the principle of “measure for measure,” or in kind. Thus offences of commission caused by passion and lust are cleansed in a “stream of fire,” while those of omission, due to indolence and coolness, are cleansed in a Purgatory of Snow, etc.
 [^8]: Arizal, *Likkutei Torah*, *Shemot*. Cf. also *Zohar* [[Zohar 1.08 - Parashat Noah#^z1-62b|I:62b]]; [[Zohar 3.07 - Parashat Va-Yhi#^z1-237b|237b]]; [[Zohar 5.05 - Parashat Terumah#^z2-150a|II:150a]]-b.

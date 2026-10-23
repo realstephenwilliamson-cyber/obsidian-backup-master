@@ -34,6 +34,11 @@ prāvṛṇmeghaghanavyomavidyullekhāvilāsinīm || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 38–41)
+> ![[Tantraloka Dyczkowski v01 02 - Chapter One, part 1#Viveka on 1.3]]
+>
+> ![[Tantraloka Dyczkowski v01 03 - Chapter One, part 2#Viveka on 1.3 (continued)]]
+
 *Lead-in:* एवमुक्तेऽपि परास्वरूपेऽपरास्वरूपमनभिधाय, तदुभयमयस्य परास्वरूपस्य वक्तुमशक्यत्वात् क्रमप्राप्तां परापरां देवीं परिहृत्य, प्रथमं तावदपरां देवीमभिमुखयति—
 
 > नौमि देवीं शरीरस्थां नृत्यतो भैरवाकृते ।

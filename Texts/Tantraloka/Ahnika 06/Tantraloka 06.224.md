@@ -37,6 +37,11 @@ praveśe ṣoḍaśaunmukhye ravayaḥ ṣaṇṭhavarjitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 428–429)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.224]]
+>
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.224–225]]
+
 *Lead-in:* एतदुपसंहरन्नन्यदवतारयति --
 
 > उक्तः परोऽयमुदयो वर्णानां सूक्ष्म उच्यते ।

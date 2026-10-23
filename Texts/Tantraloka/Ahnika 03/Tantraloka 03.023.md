@@ -39,6 +39,9 @@ dhruvaṃ mohaḥ śāmyediti niradiśaddarpaṇavidhiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 97–99)
+> ![[Tantraloka Dyczkowski v02 04 - Chapter Three, part 1#Viveka on 3.23]]
+
 *Lead-in:* अत एवाह --
 
 > न देशो नो रूपं न च समययोगो न परिमा

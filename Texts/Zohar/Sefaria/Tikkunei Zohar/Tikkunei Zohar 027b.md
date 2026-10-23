@@ -358,4 +358,4 @@ for the sake of which it is stated:[^68]
 [^65]: 6
 [^66]: י
 [^67]: 10
-[^68]: *BT* Berakhot 15b
+[^68]: *BT* [[Berakhot 15#15b|Berakhot 15b]]

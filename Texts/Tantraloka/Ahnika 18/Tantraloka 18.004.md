@@ -34,5 +34,8 @@ evaṃ mantrāntaraiḥ kuryātsamastairathavoktavat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 195–196)
+> ![[Tantraloka Dyczkowski v09 09 - Chapter Eighteen#Viveka on 18.3–6]]
+
 Jayaratha comments on this verse together with 18.6: see [[Tantraloka 18.006#Viveka|18.6]].
 

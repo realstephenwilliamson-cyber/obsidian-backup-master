@@ -34,6 +34,9 @@ tāṃ dṛṣṭvā paramāṃ jyotsnāṃ kālajñānaṃ pravartate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 179–180)
+> ![[Tantraloka Dyczkowski v03 06 - Chapter Four, part 5#Viveka on 4.132]]
+
 *Lead-in:* ननु मातृमेयाद्यात्मा मायीयोऽयं व्यवहारः, तत् कथं तस्मिन् सत्यप्येवं भवेत् ? -- इत्याशङ्क्याह --
 
 > तच्चक्रपीडनाद्रात्रौ ज्योतिर्भात्यर्कसोमगम् ।

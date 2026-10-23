@@ -34,6 +34,11 @@ jhaṭityālokite māntraprabhāvollāsite sthale || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 277–278)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.448–451]]
+>
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.451–452]]
+
 *Lead-in:* एवमस्य किं स्यात् ?--इत्याशङ्क्य आह--
 
 > झटित्यालोकिते मान्त्रप्रभावोल्लासिते स्थले ॥

@@ -36,6 +36,11 @@ nararṣidevadruhiṇaviṣṇurudrādyudīritam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 345–346)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.248]]
+>
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.248–249]]
+
 *Lead-in:* ननु यथा शैव्या विशेषचोदनया सामान्यात्मिका वैदिकी चोदना बाध्यते, तथा वैदिक्यापि शैवी चोदना किं न वा ? इत्याशङ्कां गर्भीकृत्य आगमार्थमेव दर्शयितुमुपक्रमते --
 
 > सर्वज्ञानोत्तरादौ च भाषते स्म महेश्वरः ।

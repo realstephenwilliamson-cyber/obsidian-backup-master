@@ -33,6 +33,11 @@ jāgratsvapnaḥ suṣuptaṃ ca turyaṃ ca tadatītakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 439)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.227–228]]
+>
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.228–229]]
+
 *Lead-in:* अवस्थापदान्येव विभजति --
 
 > जाग्रत्स्वप्नः सुषुप्तं च तुर्यं च तदतीतकम् ॥

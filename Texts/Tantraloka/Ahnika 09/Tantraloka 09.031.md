@@ -36,6 +36,11 @@ yadyasyānuvidhatte tāmanvayavyatirekitām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 38–39)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.30–31]]
+>
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.31–32]]
+
 *Lead-in:* ननु यत् यस्यान्वयव्यतिरेकावनुविधत्ते तत् तस्य कारणमित्युक्तम् । व्यस्तानां च मृद्दण्डादीनामेवंभावो नास्ति समग्राणां चास्ति, इति कोऽर्थः सामग्रीशब्दवाच्येनैकेन वपुषाभ्युपगतेनैषाम् ? -- इत्याशङ्क्याह -
 
 > यद्यस्यानुविधत्ते तामन्वयव्यतिरेकिताम् ॥

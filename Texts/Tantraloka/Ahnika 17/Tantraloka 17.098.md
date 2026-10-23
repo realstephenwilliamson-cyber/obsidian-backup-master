@@ -34,6 +34,9 @@ tuṭimātraṃ niṣkalaṃ tadadehaṃ tadahaṃparam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 180–184)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.97–99]]
+
 > श्रीमद्दीक्षोत्तरे चोक्तं चारे षट्त्रशदंगुले ॥
 > तत्त्वान्यापादमूर्धान्तं भुवनानि त्यजेत्क्रमात् ।
 > तुटिमात्रं निष्कलं तददेहं तदहंपरम् ॥

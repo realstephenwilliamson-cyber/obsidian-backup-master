@@ -34,6 +34,9 @@ sa sarvastanmukhaperkṣī tatropāyatvabhākkatham || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 20–21)
+> ![[Tantraloka Dyczkowski v02 02 - Chapter Two, part 1#Viveka on 2.11]]
+
 *Lead-in:* इत्याशङ्क्याह—
 
 > यावानुपायो बाह्यः स्यादान्तरो वापि कश्चन ।

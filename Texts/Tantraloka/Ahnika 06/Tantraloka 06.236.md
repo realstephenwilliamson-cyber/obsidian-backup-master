@@ -35,6 +35,9 @@ sarvavarṇodayādyantasandhiṣūdayabhāgvibhuḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 440–441)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.234–236]]
+
 > क्षकारस्त्र्यर्धमात्रात्मा मात्रिकः स तथान्तरा ॥
 > विश्रान्तावर्धमात्रास्य तस्मिंस्तु कलिते सति ।
 > अङ्गुलार्धेऽद्रिभागेन त्वर्धमात्रा पुरा पुनः ॥

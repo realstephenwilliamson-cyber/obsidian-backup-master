@@ -35,6 +35,9 @@ pratipacca viśuddhā syāttanmokṣo dūrage vidhau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 333–334)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.106]]
+
 *Lead-in:* तदेवाह -
 
 > आमावास्यं यदा त्वर्धं लीनं प्रातिपदे दले ।

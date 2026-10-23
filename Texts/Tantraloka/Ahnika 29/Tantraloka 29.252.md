@@ -31,6 +31,9 @@ kṣīṇe citte sureśāni parānanda udāhṛtaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 391–393)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.252]]
+
 > कलास्तत्त्वानि नन्दाद्या व्योमानि च कुलानि च ।
 > ब्रह्मादिकारणान्यक्षाण्येव सा पञ्चकात्मिका ॥
 > एवं पञ्चप्रकारा सा ब्रह्मस्थानविनिर्गता ।

@@ -33,6 +33,11 @@ sa itthaṃ prāṇago bhedaḥ khecarīcakragopitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 436–438)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.225–226]]
+>
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.226–227]]
+
 *Lead-in:* प्रकृतमेवोपसंहरति --
 
 > स इत्थं प्राणगो भेदः खेचरीचक्रगोपितः ॥

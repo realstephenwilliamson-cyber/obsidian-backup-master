@@ -41,4 +41,4 @@ Pritzker translation (Matt): [[Zohar 7.08 - Parashat Aharei Mot#^z3-70a|Parashat
 
 *Not translated in the Soncino edition: Achrei Mot 43:254.*
 
-[^1]: v. T. B. Kiddushin, 49b.
+[^1]: v. T. B. [[Kiddushin 49#49b|Kiddushin, 49b]].

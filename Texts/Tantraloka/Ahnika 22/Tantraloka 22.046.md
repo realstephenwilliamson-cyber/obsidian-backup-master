@@ -33,6 +33,11 @@ gurūṇāṃ bhūyasāṃ madhye yato vijñānamuttamam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 293–294)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.45–46]]
+>
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.46–47]]
+
 *Lead-in:* ननु एषां गुरूणां मध्ये भूयसा किमेवं कस्यचित् कश्चिद्विशेषोऽस्ति न वा ?--इत्याशङ्क्याह--
 
 > गुरूणां भूयसां मध्ये यतो विज्ञानमुत्तमम् ॥

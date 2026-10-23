@@ -35,6 +35,9 @@ saumyaṃ vānyanmitaṃ saṃvidūrmicakramupāsyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 281)
+> ![[Tantraloka Dyczkowski v01 08 - Chapter One, part 7#Viveka on 1.116]]
+
 *Lead-in:* तदेवाह—
 
 > एकस्य संविन्नाथस्य ह्यान्तरी प्रतिभा तनुः ।

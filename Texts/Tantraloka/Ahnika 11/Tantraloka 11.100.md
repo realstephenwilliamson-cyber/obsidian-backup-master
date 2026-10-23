@@ -35,6 +35,9 @@ evamasmītyanāmarśo bhedako bhāvamaṇḍale || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 89)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.100]]
+
 *Lead-in:* ननु यद्येवं पूर्णरूपा चिदेव तथा तथाऽवभासते तत्कोऽयं भेदो नाम? -- इत्याशङ्क्याह --
 
 > एकचिन्मात्रसंपूर्णभैरवाभेदभागिनि ।

@@ -31,6 +31,9 @@ devatānāṃ priyaṃ nityaṃ tasmādetatpibetsadā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 209–216)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.11–13]]
+
 > श्रीब्रह्मयामलेऽप्युक्तं सुरा शिवरसो बहिः ।
 > तां विना भुक्तिमुक्ती नो पिष्टक्षौद्रगुडैस्तु सा ॥
 > स्त्रीनपुंसकपुंरूपा तु पूर्वापरभोगदा ।

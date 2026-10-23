@@ -33,6 +33,11 @@ niḥsaṃkhyairbahubhī rūpairbhātyavacchedavarjanāt |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 60–62)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.52–53]]
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.53–55]]
+
 *Lead-in:* ननु "अनेकत्र एकरूपानुगमस्तत्त्वम्"इत्युक्तं तच्चात्र कथम् ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 9.52: see [[Tantraloka 09.052#Viveka|9.52]].

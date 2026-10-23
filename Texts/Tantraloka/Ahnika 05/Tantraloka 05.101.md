@@ -35,5 +35,8 @@ tato'pi vidyudāpātasadṛśe dehavarjite || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 135–138)
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.100–104]]
+
 Jayaratha comments on this verse together with 5.103: see [[Tantraloka 05.103#Viveka|5.103]].
 

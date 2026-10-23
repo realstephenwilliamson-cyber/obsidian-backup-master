@@ -33,6 +33,11 @@ jātyāyurbhogadasyaikapraghaṭṭakatayā sthitiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 271–272)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.232–233]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.233–234]]
+
 *Lead-in:* ननु देहप्रारब्धॄणि त्रीणि जात्यायुर्भोगदानि कर्माणि संभवन्ति इति कथं कर्मणा इत्येकवचनेन निर्देशः? तच्छब्दस्य च यच्छब्दनिर्देश्यपरामृश्यार्थानुपलक्षणात् कथमुपपत्ति? -- इत्याशङ्काद्वयं गर्भीकृत्याह --
 
 > जात्यायुर्भोगदस्यैकप्रघट्टकतया स्थितिः ॥

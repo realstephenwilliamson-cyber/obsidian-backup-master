@@ -37,6 +37,11 @@ svāṃśenaiva mahātmāno na tyajanti svaketanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 249)
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.228–229]]
+>
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.229]]
+
 *Lead-in:* न चैवमपि आसां बुद्धाववस्थितेभ्यो भुवनेभ्यः प्रच्यावः -- इत्याह --
 
 > स्वांशेनैव महात्मानो न त्यजन्ति स्वकेतनम् ॥

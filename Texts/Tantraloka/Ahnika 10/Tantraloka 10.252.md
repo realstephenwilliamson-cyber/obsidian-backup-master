@@ -33,6 +33,13 @@ tatrāpi cāturvidhyaṃ tat prāgdiśaiva prakalpayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 456–458)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.252]]
+>
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.252 (continued)]]
+>
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.252–253]]
+
 *Lead-in:* ननु अबाह्यता नाम किमुच्यते ? -- इत्याशङ्क्याह --
 
 > प्रमात्रन्तरसाधारभावहान्यस्थिरात्मते ।

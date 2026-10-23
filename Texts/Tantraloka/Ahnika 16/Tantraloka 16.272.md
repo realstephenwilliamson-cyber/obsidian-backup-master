@@ -35,6 +35,9 @@ sañjalpāntarato'pyarthakriyāṃ tāmeva paśyati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 121)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.272–273]]
+
 *Lead-in:* यस्तु सत्यपि भेदे कीटगोमयाभ्यामिव कीटं मन्त्रसञ्जल्पाभ्यामपि एकामेवार्थक्रियां पश्यति, स शिव एव--इत्याह--
 
 > गोमयात्कीटतः कीट इत्येवं न्यायतो यदा ।

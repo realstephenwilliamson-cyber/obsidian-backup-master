@@ -34,6 +34,9 @@ liṅgaṃ tūraṃ paṭaḥ pustaṃ pratimā mūrtireva ca || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 217–218)
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.2–4]]
+
 > प्राणश्च पञ्चधा देहे द्विधा बाह्यान्तरत्वतः ॥
 > मण्डलं स्थण्डिलं पात्रमक्षसूत्रं सपुस्तकम् ।
 > लिङ्गं तूरं पटः पुस्तं प्रतिमा मूर्तिरेव च ॥

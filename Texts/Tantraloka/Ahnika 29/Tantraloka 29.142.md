@@ -31,6 +31,9 @@ srotodvayasya niṣṭhāntamūrdhvādhaścakrabodhanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 328–329)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.142–146]]
+
 *Lead-in:* एवं गमशास्त्रं संवादयित्वा श्रीत्रिशिरोभैरवमपि संवादयति--
 
 Jayaratha comments on this verse together with 29.141: see [[Tantraloka 29.141#Viveka|29.141]].

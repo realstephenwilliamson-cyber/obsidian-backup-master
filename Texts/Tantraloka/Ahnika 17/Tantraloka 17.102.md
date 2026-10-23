@@ -34,6 +34,9 @@ tathā dhyānabalādeva yadvā pūrṇābhiṣecanaiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 185)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.102]]
+
 *Lead-in:* अत्रैव मतान्तराण्युद्दिशति--
 
 > विशुद्धतत्त्वसृष्टिं वा कुर्यात्कुम्भाभिषेचनात् ।

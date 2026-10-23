@@ -33,6 +33,11 @@ hastamātraṃ tridhā sūryānnavakhaṇḍaṃ yathā bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 129–130)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.155]]
+>
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.155–156]]
+
 *Lead-in:* एवं श्रीत्रिशिरोभैरवोक्तिप्रसङ्गात् व्योमेशस्वस्तिकमभिधाय श्रीसिद्धातन्त्रोक्तमपि शूलाब्जमभिधत्ते--
 
 > श्रीसिद्धायां शूलविधिः प्राक् क्षेत्रे चतुरश्रिते ।

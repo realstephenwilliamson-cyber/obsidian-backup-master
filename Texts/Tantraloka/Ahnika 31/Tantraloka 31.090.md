@@ -31,6 +31,9 @@ ardhabhāgapramāṇastu daṇḍo dviguṇa iṣyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 105)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.89–90]]
+
 > ऊर्ध्वाद्योजयते सूत्रं ब्रह्मसूत्रावधि क्रमात् ॥
 > क्रमाद्वैपुल्यतः कृत्वा अंशं वै ह्रासयेत् पुनः ।
 > अर्धभागप्रमाणस्तु दण्डो द्विगुण इष्यते ॥

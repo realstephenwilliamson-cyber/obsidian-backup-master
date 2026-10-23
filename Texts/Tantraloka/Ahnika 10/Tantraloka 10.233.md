@@ -31,6 +31,9 @@ viśvametadadhiṣṭheyaṃ yadā jāgrattadā smṛtam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 442–443)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.232–233]]
+
 > चैत्रमैत्रादिभूतानि तत्त्वानि च धरादितः ।
 > अभिधाकरणीभूताः शब्दाः किं चाभिधा प्रमा ॥
 > प्रमातृमेयतन्मानप्रमारूपं चतुष्टयम् ।

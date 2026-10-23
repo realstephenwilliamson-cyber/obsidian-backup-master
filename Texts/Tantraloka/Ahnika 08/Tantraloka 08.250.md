@@ -35,6 +35,9 @@ yatta [sta] tsāyujyamāpannaḥ sa tena saha modate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 262–263)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.249–251]]
+
 > मूर्त्यष्टकोपरिष्टात्तु सुशिवा द्वादशोदिताः ।
 > वामाद्येकशिवान्तास्ते कुङ्कुमाभाः सुतेजसः ॥
 > तदूर्ध्वं वीरभद्राख्यो मण्डलाधिपतिः स्थितिः ।

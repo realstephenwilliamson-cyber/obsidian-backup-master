@@ -31,5 +31,8 @@ pañcāṣṭarandhratryaṣṭārṇakrameṇa padapañcakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 60)
+> ![[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#Viveka on 30.108–110]]
+
 Jayaratha comments on this verse together with 30.119: see [[Tantraloka 30.119#Viveka|30.119]].
 

@@ -34,6 +34,9 @@ tasmādyena mukhenaiṣa bhātyanaṃśo'pi tattathā |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 212–213)
+> ![[Tantraloka Dyczkowski v01 07 - Chapter One, part 6#Viveka on 1.73]]
+
 *Lead-in:* एतदेवोपसंहरति --
 
 > तस्माद्येन मुखेनैष भात्यनंशोऽपि तत्तथा ।

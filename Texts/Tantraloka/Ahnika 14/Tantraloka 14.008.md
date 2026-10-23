@@ -33,6 +33,11 @@ yathā ca buddhastāṃ mūḍhaceṣṭāṃ kurvannapi dviṣan || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 349–350)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.7–8]]
+>
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.8–9]]
+
 *Lead-in:* इत्याद्युक्त्या शिवतामनापन्नोऽपि तादात्म्यप्रतिपत्तये तथा भावयेदित्याम्नातं तदेवमेवास्य चेच्चेष्टा तदा को दोषः ? -- इत्याशङ्क्याह --
 
 > यथा च बुद्धस्तां मूढचेष्टां कुर्वन्नपि द्विषन् ॥

@@ -37,6 +37,11 @@ itthaṃ prakāśatattvasya somasūryāgnitā sthitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 236–237)
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.129–130]]
+>
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.130–131]]
+
 *Lead-in:* तदाह—
 
 > इत्थं प्रकाशतत्त्वस्य सोमसूर्याग्निता स्थिता ॥

@@ -33,6 +33,13 @@ uktaṃ śrīyogasañcāre brahmacarye sthitiṃ bhajet |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 285–287)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.97]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.97 (continued)]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.97–98]]
+
 *Lead-in:* इत्यादि लक्षणमुक्तम् । तत्कथमिह बाह्यस्थया शक्त्या सह समर्चयेदित्युक्तम्?--इत्याशङ्कां परमेश्वरोक्त्यैव निरवकाशयन्नमुष्य विधेः पीठिकाबन्धं करोति--
 
 > उक्तं श्रीयोगसञ्चारे ब्रह्मचर्ये स्थितिं भजेत् ।

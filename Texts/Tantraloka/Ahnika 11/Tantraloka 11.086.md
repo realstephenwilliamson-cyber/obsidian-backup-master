@@ -35,6 +35,9 @@ tallīnatā tannirāsaḥ sarvaṃ caitatkramākramāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 76–78)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.85–86]]
+
 > शोधनं बहुधा तत्तद्भोगप्राप्त्येकतानता ॥
 > तदाधिपत्यं तत्त्यागस्तच्छिवात्मत्ववेदनम् ।
 > तल्लीनता तन्निरासः सर्वं चैतत्क्रमाक्रमात् ॥

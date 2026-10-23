@@ -36,6 +36,11 @@ pūjayedyena tenātra triśūlatrayamālikhet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 4–5)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 16.11–12.*
+>
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.11–12]]
+
 *Lead-in:* अत्र चोभयत्रापि त्रिशूलाब्जमेव मण्डलमुचितम्--इत्याह--
 
 Jayaratha comments on this verse together with 16.11: see [[Tantraloka 16.011#Viveka|16.11]].

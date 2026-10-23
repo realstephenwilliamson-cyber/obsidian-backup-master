@@ -1,0 +1,80 @@
+{
+ "pdf": "/mnt/user-data/uploads/Obsidian Vault/Library/Trika/Watson - The Self's Awareness of Itself, Bhatta Ramakantha against the Buddhist No-Self.pdf",
+ "pdf_vault": "Library/Trika/Watson - The Self's Awareness of Itself, Bhatta Ramakantha against the Buddhist No-Self.pdf",
+ "catalog": "Catalog/Trika/Watson - The Self's Awareness of Itself",
+ "route": "ocr",
+ "title": "The Self's Awareness of Itself: Bhaṭṭa Rāmakaṇṭha's Arguments Against the Buddhist Doctrine of No-Self",
+ "authors": [
+  "Alex Watson"
+ ],
+ "byline": "Alex Watson. Sammlung de Nobili, Institut für Südasien-, Tibet- und Buddhismuskunde der Universität Wien, Wien, 2006.",
+ "folder": "Library/Trika/The Self's Awareness of Itself (Watson)",
+ "index_name": "The Self's Awareness of Itself (Watson)",
+ "prefix": "The Self's Awareness of Itself",
+ "out": "/home/claude/p4/out",
+ "date": "2026-10-22",
+ "ctype": "book",
+ "single": false,
+ "langs": "Latin",
+ "fixmap": true,
+ "anusvara": true,
+ "text_source": "fresh OCR with Tesseract 5 (Latin) of the page images (the text layer garbles the transliterated Sanskrit)",
+ "callout": "> [!note] Fresh OCR of the page images\n> The PDF's own text layer is an earlier OCR that garbles the transliterated Sanskrit, so this text was read again from the page images (Tesseract, Latin model). The English is reliable. In the Sanskrit, long vowels and ś come through, but the dots below letters (ṭ, ḍ, ṇ, ṣ, ṃ, ḥ) are mostly lost or misread. Footnote numbers are often garbled, and the two-column bibliography comes out column by column. For exact Sanskrit and notes, check the PDF (the *Open the PDF* button on the catalog note).",
+ "toc": [
+  [
+   1,
+   "Preface",
+   12
+  ],
+  [
+   1,
+   "References, Abbreviations and Conventions",
+   20
+  ],
+  [
+   1,
+   "Introduction",
+   52
+  ],
+  [
+   1,
+   "Synopsis of the Contents of the First Chapter of NPP",
+   120
+  ],
+  [
+   1,
+   "Chapter 1 - Can We Infer the Existence of the Self",
+   128
+  ],
+  [
+   1,
+   "Chapter 2 - Can We Know the Self Through Self-Awareness (Svasamvedana)",
+   212
+  ],
+  [
+   1,
+   "Chapter 3 - Can We Perceive the Self Through I-Cognition (Ahampratyaya)",
+   260
+  ],
+  [
+   1,
+   "Chapter 4 - The Equating of Self and Cognition",
+   336
+  ],
+  [
+   1,
+   "Conclusion",
+   386
+  ],
+  [
+   1,
+   "Text Passages",
+   392
+  ],
+  [
+   1,
+   "General Index",
+   420
+  ]
+ ]
+}

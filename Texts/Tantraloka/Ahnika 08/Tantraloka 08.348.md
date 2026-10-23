@@ -35,5 +35,8 @@ nirvātyanantanāthastaddhāmāviśati sūkṣmarudrastu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 338–339)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.345–348]]
+
 Jayaratha comments on this verse together with 8.351: see [[Tantraloka 08.351#Viveka|8.351]].
 

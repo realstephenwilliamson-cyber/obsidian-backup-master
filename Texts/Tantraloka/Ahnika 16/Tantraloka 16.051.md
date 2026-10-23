@@ -34,6 +34,9 @@ niḥśaṅkaḥ siddhimāpnoti gopyaṃ tatprāṇavatsphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 22–23)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.50–51]]
+
 > कृत्वा कतिपयं कालं तत्राभ्यासमनन्यधीः ॥
 > यथा चिन्तामणौ प्रोक्तं तेन रूपेण योगवित् ।
 > निःशङ्कः सिद्धिमाप्नोति गोप्यं तत्प्राणवत्स्फुटम् ॥

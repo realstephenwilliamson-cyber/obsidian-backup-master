@@ -31,6 +31,9 @@ anāviśyeva yadvetti tatrānyā vedyatā khalu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 392–393)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.160–161]]
+
 *Lead-in:* ननु चक्षुरादिशक्तीनां यद्युद्भवतिरोभावौ तद्वेद्यतायाः किमायातं येनैवं भेदान्तरोदयः स्यात् ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 10.161: see [[Tantraloka 10.161#Viveka|10.161]].

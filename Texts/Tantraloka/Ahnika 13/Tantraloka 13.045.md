@@ -33,6 +33,11 @@ tacca kasmātprasūtaṃ syānmāyātaścetkathaṃ nu sā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 150–152)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.44–45]]
+>
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.45–47]]
+
 *Lead-in:* तच्चैवंविधं किं नित्यं कार्यं वा, कार्यं चेत्तत्कुतोऽस्य प्रसवः -- इत्याह --
 
 Jayaratha comments on this verse together with 13.44: see [[Tantraloka 13.044#Viveka|13.44]].

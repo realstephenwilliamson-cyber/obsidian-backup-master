@@ -36,6 +36,11 @@ iyattākalanājjñānāttāḥ proktāḥ kālikāḥ kvacit |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 375–378)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.252–253]]
+>
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.253–254]]
+
 *Lead-in:* न केवलमेताः क्रमदर्शनादावेवोक्ता यावदस्मन्नयसहोदरेषु शास्त्रेष्वपि -- इत्याह --
 
 > श्रीसारशास्त्रे चाप्युक्तं मध्य एकाक्षरां पराम् ॥

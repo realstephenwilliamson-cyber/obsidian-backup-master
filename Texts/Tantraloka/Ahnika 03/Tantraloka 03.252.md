@@ -36,6 +36,11 @@ parāmarśātmakatvena visargākṣepayogataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 375–376)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.251–252]]
+>
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.252–253]]
+
 *Lead-in:* एता एव द्वादशापि संविदः क्रमदर्शनादौ अन्वर्थेनापि अभिधानेन दर्शितारः -- इति दर्शयितुमाह—
 
 > परामर्शात्मकत्वेन विसर्गाक्षेपयोगतः ॥

@@ -31,6 +31,9 @@ turyaṃ tu madhyato yadvā sarveṣu paripūrakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 89)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.52]]
+
 > मण्डलस्यास्य यो व्याप्तिं देवतान्यासमेव च ॥
 > वर्तनां च विजानाति स गुरुस्त्रिकशासने ।
 > तस्य पादरजो मूर्ध्नि धार्यं शिवसमीहिना ॥

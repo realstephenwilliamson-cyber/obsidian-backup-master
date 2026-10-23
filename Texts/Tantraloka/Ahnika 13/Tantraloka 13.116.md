@@ -33,5 +33,10 @@ tena śuddhaḥ svaprakāśaḥ śiva evātra kāraṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 194–195)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.115–116]]
+>
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.116]]
+
 > शुद्धः स्वप्रकाशः शिव एवात्र कारणम् ॥
 

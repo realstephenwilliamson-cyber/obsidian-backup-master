@@ -36,6 +36,11 @@ yastu śāstraṃ vinā naiti śuddhavidyākhyasaṃvidam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 86–87)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.69]]
+>
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.69–70]]
+
 *Lead-in:* अत्रैव वैषम्यात् पदयुगं व्याचष्टे --
 
 > पूर्वं पदयुगं वाच्यमन्योन्यं हेतुहेतुमत् ।

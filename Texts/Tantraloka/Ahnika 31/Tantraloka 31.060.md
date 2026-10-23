@@ -31,6 +31,11 @@ siddhātantre trikakule devyāyāmalamālayoḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 95)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 31.62–63.*
+>
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.62–63]]
+
 *Lead-in:* एवं श्रीत्रिकसद्भावोक्तं शूलाब्जविन्यासमभिधाय, शास्त्रान्तरनिरूपितमपि अभिधातुमुपक्रमते--
 
 Jayaratha comments on this verse together with 31.61: see [[Tantraloka 31.061#Viveka|31.61]].

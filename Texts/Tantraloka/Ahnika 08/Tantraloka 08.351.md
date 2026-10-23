@@ -35,6 +35,9 @@ taṃ bhagavantamanantaṃ dhyāyantaḥ svahṛdi kāraṇaṃ śāntam || ^ias
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 339–343)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.349–352]]
+
 > भगबिलशतकलितगुहामूर्धासनगोऽष्टशक्तियुग्देवः ॥
 > गहनाद्यं निरयान्तं सृजति च रुद्रांश्च विनियुङ्क्ते ।
 > उद्धरति मनोन्मन्या पुंसस्तेष्वेव भवति मध्यस्थः ॥

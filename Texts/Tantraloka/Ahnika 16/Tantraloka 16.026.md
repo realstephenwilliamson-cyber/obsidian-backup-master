@@ -36,6 +36,11 @@ yacchivādvayapīyūṣasaṃsiktaṃ paramaṃ hi tat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 12–13)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.23–26]]
+>
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.26–27]]
+
 *Lead-in:* नन्वत्रापि अद्वयभावेन कोऽर्थः?--इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 16.25: see [[Tantraloka 16.025#Viveka|16.25]].

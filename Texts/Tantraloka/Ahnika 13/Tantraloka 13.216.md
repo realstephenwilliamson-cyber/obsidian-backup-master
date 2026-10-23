@@ -31,6 +31,9 @@ tatrāpi bhuktau muktau ca prādhānyaṃ carcayed budhaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 259–261)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.214–216]]
+
 > रुद्रशक्तिसमाविष्ट इत्यनेनास्य वर्ण्यते ।
 > चिह्नवर्गो य उक्तोऽत्र रुद्रे भक्तिः सुनिश्चला ॥
 > मन्त्रसिद्धिः सर्वतत्त्ववशित्वं कृत्यसंपदः ।

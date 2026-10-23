@@ -34,6 +34,9 @@ māyāpāśena baddhatvācchivadīkṣāṃ na vindate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 33–34)
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.26–27]]
+
 > वेदसांख्यपुराणज्ञाः पाञ्चरात्रपरायणाः ।
 > ये केचिदृषयो धीराः शास्त्रान्तरपरायणाः ॥
 > बौद्धार्हताद्याः सर्वे ते विद्यारागेण रञ्जिताः ।

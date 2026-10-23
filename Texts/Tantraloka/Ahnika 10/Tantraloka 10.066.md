@@ -33,6 +33,11 @@ yathā cārthaprakāśātma jñānaṃ saṅgīryate tvayā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 336–338)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.64–66]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.66–67]]
+
 *Lead-in:* भवन्मते परापेक्षस्य धर्मस्य परत्वाविशेषेऽपि परत्र यथा नियमो दृष्टस्तद्वदिह किं नेष्यते -- इत्याह -
 
 > यथा चार्थप्रकाशात्म ज्ञानं सङ्गीर्यते त्वया ॥

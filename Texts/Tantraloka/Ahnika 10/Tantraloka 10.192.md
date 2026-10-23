@@ -31,6 +31,11 @@ vikalparūḍhirapyeṣā kramātprasphuṭatāṃ gatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 413)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.192]]
+>
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.192 (continued)]]
+
 *Lead-in:* एवमेकं क्षणषट्कं व्याख्याय, परमप्याचष्टे --
 
 > द्वितीयं मध्यमं षट्कं परापरपदात्मकम् ।

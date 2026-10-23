@@ -37,6 +37,11 @@ tarhi pāṣāṇatulyo'sau vilīnendriyavṛttikaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 224)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.38–39]]
+>
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.39–40]]
+
 *Lead-in:* एवं तर्हि कुड्यप्रायस्य मुमूर्षोरग्रेऽपि पठतोऽस्य कः समयलङ्घनार्थः?--इत्याह--
 
 > तर्हि पाषाणतुल्योऽसौ विलीनेन्द्रियवृत्तिकः ॥

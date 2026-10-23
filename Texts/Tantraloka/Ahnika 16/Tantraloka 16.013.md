@@ -34,5 +34,8 @@ triśūle dakṣiṇe madhyaśṛṅgastho ratiśekharaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 5–10)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.12–15]]
+
 Jayaratha comments on this verse together with 16.14: see [[Tantraloka 16.014#Viveka|16.14]].
 

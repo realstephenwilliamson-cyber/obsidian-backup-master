@@ -34,6 +34,9 @@ icchājñānakriyāśaktisūkṣmarandhrasrugagragam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 73–75)
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.64–66]]
+
 > अथेन्दुः षोडशकलो विसर्गग्रासमन्थरः ॥
 > सञ्जीवन्यमृतं बोधवह्नौ विसृजति स्फुरन् ।
 > इच्छाज्ञानक्रियाशक्तिसूक्ष्मरन्ध्रस्रुगग्रगम् ॥

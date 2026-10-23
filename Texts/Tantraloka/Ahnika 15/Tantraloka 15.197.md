@@ -31,6 +31,11 @@ tadevordhvaṃ prakāśātma sparśāyogyamadhaḥ punaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 123)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.197–201]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.197–201 (continued)]]
+
 *Lead-in:* एतदेव उत्तरमवरोहक्रमेण विभज्य दर्शयति--
 
 Jayaratha comments on this verse together with 15.200: see [[Tantraloka 15.200#Viveka|15.200]].

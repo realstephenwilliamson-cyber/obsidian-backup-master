@@ -35,6 +35,9 @@ devatrayasya vaktrāṇāmaṅgānāmaṣṭakasya ca || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 82)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.90–91]]
+
 *Lead-in:* ननु यथान्यत्र मूलमन्त्रस्यैव शोधकत्वमुक्तमन्येषां हृदादीनां पुनः शोध्यत्वं शोधकत्वं च तद्वदिहापि शक्तित्रयमन्त्राणामेव किं शोधकत्वमुक्तं न वा? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 11.91: see [[Tantraloka 11.091#Viveka|11.91]].

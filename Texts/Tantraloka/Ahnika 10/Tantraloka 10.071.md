@@ -33,6 +33,11 @@ vedyatā kintu dharmo'sau yadyogātsarvadharmavān || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 340–341)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.70–71]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.71–72]]
+
 *Lead-in:* एतदेवोपपादयति -
 
 > तथा ह्यन्यैर्नीलाद्यै किन्तु सदृशी न सा ।

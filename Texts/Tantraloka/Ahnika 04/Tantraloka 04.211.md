@@ -34,6 +34,9 @@ yasya prasīdecciccakraṃ drāgapaścimajanmanaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 312)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.211]]
+
 *Lead-in:* एतदेव सप्रशंसमुपसंहरति --
 
 > एष यागविधिः कोऽपि कस्यापि हृदि वर्तते ।

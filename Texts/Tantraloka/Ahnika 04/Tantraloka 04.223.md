@@ -36,6 +36,11 @@ pṛthivī jalataḥ śuddhyejjalaṃ dharaṇitastathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 321–322)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.222–223]]
+>
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.223–225]]
+
 *Lead-in:* तदाह --
 
 Jayaratha comments on this verse together with 4.222: see [[Tantraloka 04.222#Viveka|4.222]].

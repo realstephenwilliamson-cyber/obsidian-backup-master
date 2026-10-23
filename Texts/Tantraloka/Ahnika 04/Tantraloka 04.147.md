@@ -34,6 +34,9 @@ svayaṃ nirbhāsya tatrānyadbhāsayantīva bhāsate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 198–199)
+> ![[Tantraloka Dyczkowski v03 07 - Chapter Four, part 6#Viveka on 4.147]]
+
 *Lead-in:* एवमेकैवेयं परा संवित् तत्तद्रूपतया सर्वत्रावभासते, इत्याह --
 
 > अत एषा स्थिता संविदन्तर्बाह्योभयात्मना ।

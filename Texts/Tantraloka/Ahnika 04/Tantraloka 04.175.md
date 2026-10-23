@@ -34,6 +34,9 @@ nādaḥ svātmaparāmarśaśeṣatā tadvilopanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 271–273)
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.173–175]]
+
 > क्षेपो ज्ञानं च संख्यानं गतिर्नाद इति क्रमात् ॥
 > स्वात्मनो भेदनं क्षेपो भेदितस्याविकल्पनम् ।
 > ज्ञानं विकल्पः संख्यानमन्यतो व्यतिभेदनात् ॥

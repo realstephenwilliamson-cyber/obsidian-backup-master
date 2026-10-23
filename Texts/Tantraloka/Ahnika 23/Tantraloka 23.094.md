@@ -31,6 +31,9 @@ vināpi daiśikātprāgvatsvayameva vimucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 336–337)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.94]]
+
 *Lead-in:* तामेव विचित्रतां दर्शयति--
 
 > भवेत्कोऽपि तिरोभूतः पुनरुन्मुखितोऽपि सन् ।

@@ -33,6 +33,11 @@ vāmāviddhastu tannindetpaścāttaṃ ghātayedapi |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 173–174)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.382–383]]
+>
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.383–384]]
+
 *Lead-in:* न च एतदस्माभिः स्वोपज्ञमेवोक्तम्--इत्याह--
 
 > श्रीमत्पिचुमते चोक्तमादौ यत्नेन रक्षयेत् ॥

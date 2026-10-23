@@ -37,6 +37,11 @@ sādhakastu sadā sādhye phale niyatiyantraṇāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 227–228)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.49–50]]
+>
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.50–51]]
+
 *Lead-in:* ननु आचार्यस्य तावत् परानुग्रहे नास्ति काचित् क्षतिः, समयिपुत्रकयोस्तु प्रासङ्गिकत्वेनापीत्युक्तम्; साधकस्य पुनरत्र का वार्ता?--इत्याशङ्क्याह--
 
 > साधकस्तु सदा साध्ये फले नियतियन्त्रणात् ॥

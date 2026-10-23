@@ -34,6 +34,9 @@ nahyādarśe saṃsthito'sau taddṛṣṭau sa upāyakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 87–88)
+> ![[Tantraloka Dyczkowski v02 04 - Chapter Three, part 1#Viveka on 3.18]]
+
 > किं च अत एव गुरुत्वादिर्धर्मो नैतस्य लक्ष्यते ।
 > नह्यादर्शे संस्थितोऽसौ तद्दृष्टौ स उपायकः ॥
 

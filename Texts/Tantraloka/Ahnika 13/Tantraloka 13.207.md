@@ -37,6 +37,11 @@ satyaṃ sācchādanātmā tu śāntā tveṣā svarūpadṛk || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 251–252)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.206–207]]
+>
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.207]]
+
 > शैवी महाशक्तिः संबद्धैवात्मभिः स्थिता ।
 > सत्यं साच्छादनात्मा तु शान्ता त्वेषा स्वरूपदृक् ॥
 

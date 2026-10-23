@@ -35,6 +35,9 @@ vyaktāvyaktamidaṃ liṅgaṃ mantravīryaṃ parāparam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 155–156)
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.114–116]]
+
 > देहगाध्वसमुन्मेषे समावेशस्तु यः स्फुटः ॥
 > अहन्ताच्छादितोन्मेषिभावेदंभावयुक् स च ।
 > व्यक्ताव्यक्तमिदं लिङ्गं मन्त्रवीर्यं परापरम् ॥

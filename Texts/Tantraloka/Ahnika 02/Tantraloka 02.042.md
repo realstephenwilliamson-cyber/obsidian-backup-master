@@ -34,6 +34,9 @@ paṭāddhyānaṃ tato dhyeyaṃ tataḥ syāddhāraṇottarā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 54–55)
+> ![[Tantraloka Dyczkowski v02 03 - Chapter Two, part 2#Viveka on 2.42–43]]
+
 *Lead-in:* तदेव पठति—
 
 Jayaratha comments on this verse together with 2.43: see [[Tantraloka 02.043#Viveka|2.43]].

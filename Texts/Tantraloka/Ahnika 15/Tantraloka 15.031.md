@@ -31,6 +31,9 @@ dīkṣāmātreṇa muktiḥ syādbhaktyā deve gurau sadā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 29)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.31–32]]
+
 *Lead-in:* एवं भोगदीक्षां निर्णीय, मोक्षदीक्षामपि निर्णयति--
 
 Jayaratha comments on this verse together with 15.32: see [[Tantraloka 15.032#Viveka|15.32]].

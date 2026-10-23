@@ -33,6 +33,11 @@ ucchalannijaraśmyoghaḥ saṃvitsu pratibimbitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 168–169)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.373–374]]
+>
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.374–375]]
+
 *Lead-in:* ननु कथमेतावतैव अस्यां विकस्वरत्वं स्यात् ?--इत्याशङ्क्य आह--
 
 > उच्छलन्निजरश्म्योघः संवित्सु प्रतिबिम्बितः ॥

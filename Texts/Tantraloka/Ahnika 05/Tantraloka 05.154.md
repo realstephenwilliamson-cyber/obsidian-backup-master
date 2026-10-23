@@ -37,6 +37,11 @@ nīle pīte sukhe duḥkhe saṃvidrūpamakhaṇḍitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 205–206)
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.153–154]]
+>
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.154–155]]
+
 *Lead-in:* नन्विह सर्वमन्त्राणां स्वरूपे तावदविवादसिद्ध एव भेदः -- इति स फलेऽप्यवश्यमापतेत् कारणभेदाधीनत्वात् तस्य, तत् कथमेवमुक्तम् ? -- इत्याशङ्क्याह --
 
 > नीले पीते सुखे दुःखे संविदूर्पमखण्डितम् ॥

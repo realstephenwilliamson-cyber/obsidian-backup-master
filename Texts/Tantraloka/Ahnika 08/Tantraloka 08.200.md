@@ -35,6 +35,9 @@ tato bhuvaḥ sahādreḥ pūrgandhatanmātradhāraṇāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 221–222)
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.199–200]]
+
 *Lead-in:* तान्येवाह -
 
 Jayaratha comments on this verse together with 8.199: see [[Tantraloka 08.199#Viveka|8.199]].

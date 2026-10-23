@@ -34,5 +34,8 @@ dvyātmayā sakalānte tu niṣkale parayaiva tu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 189–190)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.115–117]]
+
 Jayaratha comments on this verse together with 17.117: see [[Tantraloka 17.117#Viveka|17.117]].
 

@@ -33,6 +33,11 @@ samyagjñānini vṛttāntaḥ purastāttūpadekṣyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 113)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.259–260]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.260]]
+
 *Lead-in:* नन्वेवं क्षेत्रोपयोगः किमज्ञानामेव किं स्वित् ज्ञानिनामपि?-- इत्याशङ्क्य आह--
 
 > सम्यग्ज्ञानिनि वृत्तान्तः पुरस्तात्तूपदेक्ष्यते ॥

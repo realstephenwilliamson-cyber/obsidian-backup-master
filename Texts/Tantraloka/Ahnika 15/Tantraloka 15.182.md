@@ -31,6 +31,9 @@ ekoccāreṇa vā bāhyaparivāretiśabditāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 112–113)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.181–183]]
+
 > प्रभामण्डलके खे वा सुलिप्तायां च वा भुवि ।
 > त्रिशूलार्कवृषान्दिक्स्था मातरः क्षेत्रपं यजेत् ॥
 > योगिनीश्च पृथङ्मन्त्रैरोंनमोनामयोजितैः ।

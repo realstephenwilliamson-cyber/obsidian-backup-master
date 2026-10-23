@@ -34,6 +34,9 @@ evaṃ sthito vibhāgo'tra varṣasiddhyai nirūpyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 115–117)
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.63–67]]
+
 > निषधो हेमकूटश्च हिमवान्दक्षिणे त्रयः ॥
 > लक्षं सहस्रनवतिस्तदशीतिरिति क्रमात् ।
 > नीलः श्वेतस्त्रिशृङ्गश्च तावन्तः सव्यतः पुनः ॥

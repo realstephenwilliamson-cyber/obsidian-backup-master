@@ -33,6 +33,11 @@ tādṛṅmelakakalikākalitatanuḥ ko'pi yo bhavedgarbhe || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 340–341)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.161–162]]
+>
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.162–163]]
+
 *Lead-in:* एवंविधे च मेलकावसरे गृहीतजन्मा परमुत्कृष्टः--इत्याह--
 
 Jayaratha comments on this verse together with 29.161: see [[Tantraloka 29.161#Viveka|29.161]].

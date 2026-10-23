@@ -31,6 +31,9 @@ tatra dīkṣaiva bhoge ca muktau cāyātyupāyatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 2)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.1–2]]
+
 *Lead-in:* इदानी नित्यकर्माद्यात्मकं यजनं निरूपयितुं द्वितीयार्धेन प्रतिजानीते--
 
 > अथैतदुपयोगाय यागस्तावन्निरूप्यते ।

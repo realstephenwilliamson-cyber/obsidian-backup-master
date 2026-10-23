@@ -34,6 +34,9 @@ spandaḥ sa kathyate śāstre svātmanyucchalanātmakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 282–283)
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.182–183]]
+
 > हृदये स्वविमर्शोऽसौ द्राविताशेषविश्वकः ॥
 > भावग्रहादिपर्यन्तभावी सामान्यसंज्ञकः ।
 > स्पन्दः स कथ्यते शास्त्रे स्वात्मन्युच्छलनात्मकः ॥

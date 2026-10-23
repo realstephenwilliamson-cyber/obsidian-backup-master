@@ -34,6 +34,9 @@ samayyapyeti tāṃ dīkṣāmiti śrīmālinīmate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 206–207)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.11–14]]
+
 > कृत्वा पूर्वोदितं न्यासं कालानलसमप्रभम् ।
 > संहृतिक्रमतः सार्धं सृक्छिन्दियुगलेन तु ॥
 > आग्नेयीं धारणां कृत्वा सर्वमर्मप्रतापनीम् ।

@@ -54,7 +54,7 @@ Text: [[NRSVue Acts 21|NRSVue]] · [[Acts 21|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 21#^21-19|19]]:** *Gentiles*, Acts often portrays Paul working among Gentiles, although his efforts result in converting Jews as well (13.43; 17.11; 18.8). ^21-19
 
-**[[NRSVue Acts 21#^21-20|20]]:** *Believers . . . among the Jews,* Acts portrays Jewish opposition to Paul extending even to Jewish believers. *Zealous for the law*, normally presented in Jewish literature as a positive quality ([[LXX 2 Maccabees 02#^2-27|2 Macc 2.27]]; [[LXX 4 Maccabees 16#^16-16|4 Macc 16.16]]; Josephus, *Ant.* 12.268; *b. Sanh.* 70b), here suggesting a factor that motivates Jews against Paul. ^21-20
+**[[NRSVue Acts 21#^21-20|20]]:** *Believers . . . among the Jews,* Acts portrays Jewish opposition to Paul extending even to Jewish believers. *Zealous for the law*, normally presented in Jewish literature as a positive quality ([[LXX 2 Maccabees 02#^2-27|2 Macc 2.27]]; [[LXX 4 Maccabees 16#^16-16|4 Macc 16.16]]; Josephus, *Ant.* 12.268; [[Sanhedrin 70#70b|*b. Sanh.* 70b]]), here suggesting a factor that motivates Jews against Paul. ^21-20
 
 **[[NRSVue Acts 21#^21-21|21]]:** *To forsake Moses,* Acts repeatedly defends Paul against this claim (16.3; 18.18; 20.16). ^21-21
 

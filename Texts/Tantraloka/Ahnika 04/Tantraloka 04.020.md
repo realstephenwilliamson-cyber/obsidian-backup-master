@@ -36,6 +36,11 @@ siddhyaṅgamiti mokṣāya pratyūha iti kovidāḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 26–29)
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.19–20]]
+>
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.20–21]]
+
 *Lead-in:* एवमेवंस्वभावत्वादेव साक्षान्मोक्षोपायमपहाय अन्यत्रासक्तो भवेत्, इत्याह --
 
 > शिवशासनमाहात्म्यं विदन्नप्यत एव हि ॥

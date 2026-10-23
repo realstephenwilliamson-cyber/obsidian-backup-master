@@ -37,6 +37,11 @@ bālyayauvanavṛddhatvanidhaneṣu punarbhave || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 398–399)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.189–190]]
+>
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.190–191]]
+
 *Lead-in:* कामिकीयमेव ग्रन्थं पठति --
 
 > बाल्ययौवनवृद्धत्वनिधनेषु पुनर्भवे ॥

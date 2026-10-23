@@ -31,6 +31,9 @@ viśvajananīṣu śaktiṣu paramārtho hi svatantratāmātram || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 215)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.347–348]]
+
 *Lead-in:* इत्यादि उक्तम्, तदत्र मातृसद्भावशब्दस्य अपि प्रवृत्तौ किं निमित्तम्?- -इत्याशङ्क्य आह--
 
 > तत्त्वं सत्ता प्राप्तिर्मातृषु मेयोऽनया संश्च ।

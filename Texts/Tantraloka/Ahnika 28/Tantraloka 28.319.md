@@ -31,6 +31,9 @@ adhunoktaṃ kevalatvaṃ yadvā mātrantarāśrayāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 137)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.317–320]]
+
 > परदेहादिसंबन्धो यथा नास्य विभेदकः ।
 > तथा स्वदेहसंबन्धो जीवन्मुक्तस्य यद्यपि ॥
 > अतश्च न विशेषोऽस्य विश्वाकृतिनिराकृतेः ।

@@ -31,6 +31,9 @@ ahaṃrūḍhyā pare dehe yāvatsyād buddhisañcaraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 129)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.296–297]]
+
 *Lead-in:* तदेव उपपादयति--
 
 Jayaratha comments on this verse together with 28.297: see [[Tantraloka 28.297#Viveka|28.297]].

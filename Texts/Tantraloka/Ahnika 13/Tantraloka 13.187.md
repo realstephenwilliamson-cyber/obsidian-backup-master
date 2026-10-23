@@ -33,6 +33,11 @@ nanvācāryātsendriyaṃ tajjñānamuktamatīndriyam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 237–239)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.186–187]]
+>
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.187–188]]
+
 *Lead-in:* एवमुपपादितेऽपि प्रातिभस्य द्वैधे देवी पुनः प्रश्नयति --
 
 > नन्वाचार्यात्सेन्द्रियं तज्ज्ञानमुक्तमतीन्द्रियम् ॥

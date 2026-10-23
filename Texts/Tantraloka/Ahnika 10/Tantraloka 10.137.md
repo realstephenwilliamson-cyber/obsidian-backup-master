@@ -31,6 +31,9 @@ layākalātsvasaṃskārātprabuddhyante bhavāya te || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 380)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.135–137]]
+
 > भावनादिबलादन्यवैष्णवादिनयोदितात् ॥
 > यथास्वमाधरौत्तर्यविचित्रात्संस्कृतस्तथा ।
 > लीनः प्रबुद्धोः मन्त्रत्वं तदीशत्वमथैति वा ॥

@@ -35,6 +35,9 @@ unmudraṇaṃ tayākṛtyā lakṣaṇottaranirṇayāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 437–438)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.260]]
+
 *Lead-in:* न केवलमस्य निश्चयमात्ररूपत्वमेवास्ति, यावल्लक्षणादिरूपत्वमपि -- इत्याह --
 
 > तस्याथ वस्तुनः स्वात्मवीर्याक्रमणपाटवात् ।

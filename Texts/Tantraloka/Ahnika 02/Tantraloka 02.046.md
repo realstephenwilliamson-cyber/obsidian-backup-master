@@ -34,6 +34,9 @@ tadabhyupāyaśāstrādiśravaṇādhyayanādaraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 57)
+> ![[Tantraloka Dyczkowski v02 03 - Chapter Two, part 2#Viveka on 2.46]]
+
 *Lead-in:* न केवलमस्य परानुग्रहार्थं भाविविध्याश्रयणमुपयुक्तम्, यावत्तदभिधायकं शास्त्राद्यपि -- इत्याह—
 
 > तदर्थमेव चास्यापि परमेश्वररूपिणः ।

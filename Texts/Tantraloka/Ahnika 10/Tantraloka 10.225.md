@@ -33,6 +33,11 @@ anayā ca diśā sarvaṃ sarvadā pravivecayan || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 435–436)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.224–225]]
+>
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.225–226]]
+
 *Lead-in:* एतदेव च परमुपादेयमित्यत्रैव निरूढिः कार्या -- इत्याह --
 
 > अनया च दिशा सर्वं सर्वदा प्रविवेचयन् ॥

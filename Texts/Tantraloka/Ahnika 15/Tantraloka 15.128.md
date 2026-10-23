@@ -33,6 +33,11 @@ phakārādisamuccārānnakārānte'dhvamaṇḍalam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 85–87)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.127–128]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.128–130]]
+
 *Lead-in:* मुख्यत्वमेव दर्शयति--
 
 Jayaratha comments on this verse together with 15.127: see [[Tantraloka 15.127#Viveka|15.127]].

@@ -35,6 +35,9 @@ iha siddhipradaṃ caitaddakṣiṇāyanagaṃ tataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 344–345)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.116]]
+
 *Lead-in:* अष्टादशाङ्गुल इति --
 
 > प्रतिसंक्रान्त्यङ्गुलषट्कस्य भोगात् ।

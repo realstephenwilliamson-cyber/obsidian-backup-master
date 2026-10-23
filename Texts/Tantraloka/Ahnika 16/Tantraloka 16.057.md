@@ -36,6 +36,11 @@ tenāvīro'pi śaṅkādiyuktaḥ kāruṇiko'pi ca || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 25–27)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.56–57]]
+>
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.57–58]]
+
 *Lead-in:* अतश्च पशुवेदनादि हिंस्रं कर्मेति न संभावनीयम्--इत्याह--
 
 > तेनावीरोऽपि शङ्कादियुक्तः कारुणिकोऽपि च ॥

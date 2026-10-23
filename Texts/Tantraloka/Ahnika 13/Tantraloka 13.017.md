@@ -33,6 +33,11 @@ na kiñcidyasya vijñānamudapādi tathāvidhaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 133–134)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.16–17]]
+>
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.17–18]]
+
 *Lead-in:* नह्येवं कश्चित्क्रमः संभवति, यदनादावस्मिन् संसारे यस्य न किञ्चिदात्मास्तीति तदाह -
 
 > न किञ्चिद्यस्य विज्ञानमुदपादि तथाविधः ॥

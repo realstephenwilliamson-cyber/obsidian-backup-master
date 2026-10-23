@@ -31,6 +31,9 @@ sāmastya evābhihitaṃ pāñcadaśyaṃ puroditam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 396–397)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.167–169]]
+
 *Lead-in:* एवं धरादौ भावभुवनादिगतत्वेन व्यस्तसमस्ततया पाञ्चदश्यमुपपाद्य, तत्त्वाश्रयतयागमगर्भं सामस्त्येनेवाभिधत्ते --
 
 Jayaratha comments on this verse together with 10.169: see [[Tantraloka 10.169#Viveka|10.169]].

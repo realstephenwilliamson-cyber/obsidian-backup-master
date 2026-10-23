@@ -31,6 +31,9 @@ na cāvajñā kriyākāle saṃsāroddharaṇaṃ prati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 310–311)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.29–30]]
+
 *Lead-in:* तत्रत्यमेव ग्रन्थं पठति--
 
 Jayaratha comments on this verse together with 23.30: see [[Tantraloka 23.030#Viveka|23.30]].

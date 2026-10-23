@@ -31,6 +31,9 @@ tathā kṛtvā na kartavyaṃ laukikaṃ kiñcanāpi hi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 353)
+> ![[Tantraloka Dyczkowski v09 15 - Chapter Twenty-Four#Viveka on 24.21–22]]
+
 *Lead-in:* एवमस्य संस्कारमभिधाय, तत्प्रयोजनमाह--
 
 Jayaratha comments on this verse together with 24.20: see [[Tantraloka 24.020#Viveka|24.20]].

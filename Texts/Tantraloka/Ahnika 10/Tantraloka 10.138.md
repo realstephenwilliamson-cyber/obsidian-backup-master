@@ -31,6 +31,9 @@ mantrāditvāya vā jātu jātu saṃsṛtaye'pi vā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 380–381)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.138]]
+
 *Lead-in:* न केवलं प्रलयाकल एव द्विधा बुद्ध्यते यावद्विज्ञानाकलोऽपि -- इत्याह --
 
 > ज्ञानाकलोऽपि मन्त्रेशमहेशत्वाय बुध्यते ।

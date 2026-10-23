@@ -37,6 +37,11 @@ vastutaḥ saṃvido deśaḥ kālo vā naiva kiñcana || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 91)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.104]]
+>
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.104 (2)]]
+
 *Lead-in:* ननु यदि जन्ममृत्यू न स्तस्तत्कथमिह परलोकादिव्यवस्था स्यात्? -- इत्याशङ्क्याह -
 
 > परेहसंविदामात्रं परलोकेहलोकते ।

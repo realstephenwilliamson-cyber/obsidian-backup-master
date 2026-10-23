@@ -33,6 +33,11 @@ iti śaśadharavāsarapaticitragusaṅghaṭṭamudrayā jhaṭiti || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 333–335)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.150–153]]
+>
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.153–154]]
+
 *Lead-in:* ननु एवं मुद्रया बद्धया अस्य किं स्यात् ?--इत्याशङ्क्य आह--
 
 > इति शशधरवासरपतिचित्रगुसङ्घट्टमुद्रया झटिति ॥

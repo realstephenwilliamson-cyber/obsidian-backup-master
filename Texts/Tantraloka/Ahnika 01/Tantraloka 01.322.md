@@ -35,5 +35,10 @@ vyākhyāvidhiḥ śrutavidhirgurupūjāvidhistviyat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 472–474)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 1.325–327.*
+>
+> ![[Tantraloka Dyczkowski v01 13 - Chapter One, part 12#Viveka on 1.325–327]]
+
 Jayaratha comments on this verse together with 1.326: see [[Tantraloka 01.326#Viveka|1.326]].
 

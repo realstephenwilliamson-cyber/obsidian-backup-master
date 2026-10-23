@@ -35,6 +35,9 @@ vyāpinī sarvamadhvānaṃ vyāpya devī vyavasthitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 209–210)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.186–190]]
+
 > धरातोऽत्र जलादि स्यादुत्तरोत्तरतः क्रमात् ।
 > दशधाहङ्कृतान्तं धीस्तस्याः स्याच्छतधा ततः ॥
 > सहस्रधा व्यक्तमतः पौंस्नं दशसहस्रधा ।

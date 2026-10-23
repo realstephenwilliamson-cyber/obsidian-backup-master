@@ -37,6 +37,11 @@ uccārakaraṇadhyānavarṇairebhiḥ pradarśitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 206–208)
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.154–155]]
+>
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.155–156]]
+
 *Lead-in:* एवमेकस्मिन्नेवोपेये प्राप्तव्ये परमियदूपायजातमुपदिष्टम् -- इत्याह --
 
 > उच्चारकरणध्यानवर्णैरेभिः प्रदर्शितः ॥

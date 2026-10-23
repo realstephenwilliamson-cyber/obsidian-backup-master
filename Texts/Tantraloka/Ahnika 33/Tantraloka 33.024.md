@@ -31,6 +31,9 @@ tadyoge ṣoḍaśākhyaṃ syādevaṃ yāvadasaṃkhyatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 179–180)
+> ![[Tantraloka Dyczkowski v11 07 - Chapter Thirty-Three#Viveka on 33.22–24]]
+
 > तथान्तःस्थपरामर्शभेदने वस्तुतस्त्रिकम् ।
 > अनुत्तरेच्छोन्मेषाख्यं यतो विश्वं विमर्शनम् ॥
 > आनन्देशोर्मियोगे तु तत्षट्कं समुदाहृतम् ।

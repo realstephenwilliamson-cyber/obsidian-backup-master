@@ -429,7 +429,7 @@ Tell Fekherye inscription 393
 
 Egyptian, Classical, Post-Biblical, and Rabbinic Texts
 
-b. Shab. 31a 378 b. Sukkah 28a 386
+b. [[Shabbat 31#31a|Shab. 31a]] 378 b. [[Sukkah 28#28a|Sukkah 28a]] 386
 
 Instructions of Amenemope 479
 

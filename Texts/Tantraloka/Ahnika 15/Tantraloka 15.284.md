@@ -33,6 +33,11 @@ galite viṣayaunmukhye pārimitye vilāpite || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 169–170)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.283–284]]
+>
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.284–285]]
+
 *Lead-in:* ननु कथमिदमनात्मरूपं देहादि शिवात्मकतया भावनीयम्?-- इत्याशङ्क्य आह--
 
 > गलिते विषयौन्मुख्ये पारिमित्ये विलापिते ॥

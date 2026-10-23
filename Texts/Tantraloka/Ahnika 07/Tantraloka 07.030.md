@@ -36,6 +36,11 @@ ata ekaiva saṃvittirnānārūpe tathā tathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 20–21)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.30]]
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.30–31]]
+
 *Lead-in:* तदाह -
 
 > वस्तुतो ह्यत एवेयं कालं संविन्न संस्पृशेत् ।

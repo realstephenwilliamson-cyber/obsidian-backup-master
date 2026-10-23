@@ -31,5 +31,8 @@ dvādaśāṃguladīrghā tu ubhayoḥ pārśvayostathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 111–112)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.106–108]]
+
 Jayaratha comments on this verse together with 31.112: see [[Tantraloka 31.112#Viveka|31.112]].
 

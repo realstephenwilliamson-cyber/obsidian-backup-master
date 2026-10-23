@@ -33,6 +33,11 @@ yathā ciropāttadhanaḥ kurvannutsavamādarāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 15–17)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.20–23]]
+>
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.23–25]]
+
 *Lead-in:* ननु सिद्धयोगिन्यादीनां पर्वादौ संविदः पारिपूर्ण्यात् तत्तत्फलमस्तु, अन्येषां पुनरेतत्कथं स्यात्?--इत्याशङ्कां प्रशमयितुं दृष्टान्तयति--
 
 Jayaratha comments on this verse together with 28.22: see [[Tantraloka 28.022#Viveka|28.22]].

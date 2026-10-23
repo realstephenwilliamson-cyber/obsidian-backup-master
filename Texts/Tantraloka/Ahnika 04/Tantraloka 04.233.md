@@ -34,6 +34,9 @@ vyomādirūpe nigame śaṅkā mithyārthatāṃ prati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 332)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.233]]
+
 *Lead-in:* यत् पुनर्बद्धिमता न प्रयुक्तं तत्रैवं संभावना भवेत्, -- इत्याह - -
 
 > अबुद्धिपूर्वं हि तथा संस्थिते सततं भवेत् ।

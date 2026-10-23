@@ -21,7 +21,7 @@ Text: [[NRSVue 2 Corinthians 04|NRSVue]] · [[2 Corinthians 04|BSB and SBLGNT]] 
 **[[NRSVue 2 Corinthians 04#^4-2|2]]:** *Renounced . . . shameful things*, Paul develops the contrast between his teaching and that of Moses, who hid the temporary nature of his ministry. Paul is unlike those who *falsify God’s word* for their own advantage. *Cunning*, lit., “crafty”; see 11.3; 12.16. *Conscience*, see 1.12n. ^4-2
 
 > [!note] Reading of the Old Covenant *(p. 358)*
-> Paul’s reference to the people of Israel who “hear the reading of the old covenant” reflects the practice of reading successive passages of the Pentateuch in the synagogue on Sabbaths (as well as on Mondays and Thursdays; see *m. Meg.* 3.4–6). While the number of segments in which the reading took place on weekdays, Sabbaths, and festivals was known in Mishnaic times (*m. Meg.* 4.1–2), in this period, the specific length and sequence of readings was debated (*b. Meg.* 31b). Only by the fourth or fifth centuries were the weekly readings fixed. The tradition in the land of Israel was that the community would hear the entirety of the Pentateuch read sequentially over a period of three years, while in the Babylonian Diaspora the reading took place over a single year (*b. Meg.* 29b). Since Aramaic was the language of everyday speech, the Mishnah prescribes that the Scripture in its original Hebrew would be followed, verse by verse, by an Aramaic translation and interpretation, provided by an individual known as a
+> Paul’s reference to the people of Israel who “hear the reading of the old covenant” reflects the practice of reading successive passages of the Pentateuch in the synagogue on Sabbaths (as well as on Mondays and Thursdays; see *m. Meg.* 3.4–6). While the number of segments in which the reading took place on weekdays, Sabbaths, and festivals was known in Mishnaic times (*m. Meg.* 4.1–2), in this period, the specific length and sequence of readings was debated ([[Megillah 31#31b|*b. Meg.* 31b]]). Only by the fourth or fifth centuries were the weekly readings fixed. The tradition in the land of Israel was that the community would hear the entirety of the Pentateuch read sequentially over a period of three years, while in the Babylonian Diaspora the reading took place over a single year ([[Megillah 29#29b|*b. Meg.* 29b]]). Since Aramaic was the language of everyday speech, the Mishnah prescribes that the Scripture in its original Hebrew would be followed, verse by verse, by an Aramaic translation and interpretation, provided by an individual known as a
 >
 > *Meturgemon*, that is, an official translator (*m. Meg.* 4.4). In this way, the content of God’s demands and promises as well as their significance and meaning in the current day were made clear.
 >
@@ -33,7 +33,7 @@ Text: [[NRSVue 2 Corinthians 04|NRSVue]] · [[2 Corinthians 04|BSB and SBLGNT]] 
 
 **[[NRSVue 2 Corinthians 04#^4-6|6]]:** Paraphrase of [[Torah 01 - Bereshit#^1-3|Gen 1.3]]; [[Isaiah 09#^9-1|Isa 9.2]]; [[Psalms 112#^112-4|Ps 112.4]]. ^4-6
 
-**[[NRSVue 2 Corinthians 04#^4-7|4.7–5.10]]:** **Affliction and consolation,** Themes of weakness and suffering, raised in 1.3–11, are elaborated to signal God’s empowering presence; *b. Ber*. 5a-b following [[Proverbs 03#^3-12|Prov 3.12]] depicts suffering and affliction in the absence of sin as evidence of God’s love. ^4-7
+**[[NRSVue 2 Corinthians 04#^4-7|4.7–5.10]]:** **Affliction and consolation,** Themes of weakness and suffering, raised in 1.3–11, are elaborated to signal God’s empowering presence; [[Berakhot 5#5a|*b. Ber*. 5a]]-b following [[Proverbs 03#^3-12|Prov 3.12]] depicts suffering and affliction in the absence of sin as evidence of God’s love. ^4-7
 
 **[[NRSVue 2 Corinthians 04#^4-7|7]]:** *Clay jars*, our human bodies, which are weak and impermanent and so cannot be the source of the power of the *treasure* found in knowledge of the Gospel. The idea of the human body as a vessel of clay, which ultimately returns to dust, is common in Job (4.19; 10.9; 33.6) and Isaiah (e.g., 64.8), which depicts God as the potter and humankind as God’s creation. ^4-7-2
 
@@ -51,6 +51,6 @@ Text: [[NRSVue 2 Corinthians 04|NRSVue]] · [[2 Corinthians 04|BSB and SBLGNT]] 
 
 **[[NRSVue 2 Corinthians 04#^4-16|16]]:** *Lose heart*, see 4.1. O*uter nature*, that part that undergoes sufferings (vv 8–9) and carries Jesus’ death (vv 10–11). *Inner nature* . . . *renewed* daily; cf. [[Romans 12#^12-2|Rom 12.2]]. ^4-16-2
 
-**[[NRSVue 2 Corinthians 04#^4-18|18]]:** *Temporary and eternal*, a distinction familiar in Jewish eschatological thinking; see, e.g., *b. Shabb*. 10a; 33b; *b. Taʾan*. 21a. ^4-18
+**[[NRSVue 2 Corinthians 04#^4-18|18]]:** *Temporary and eternal*, a distinction familiar in Jewish eschatological thinking; see, e.g., [[Shabbat 10#10a|*b. Shabb*. 10a]]; 33b; *b. Taʾan*. 21a. ^4-18
 
 [[JANT 2 Corinthians 03|← 2 Corinthians 3]] · [[Jewish Annotated New Testament|JANT index]] · [[JANT 2 Corinthians 05|2 Corinthians 5 →]]

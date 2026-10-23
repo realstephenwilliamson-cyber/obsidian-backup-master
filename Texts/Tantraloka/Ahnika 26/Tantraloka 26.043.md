@@ -34,6 +34,9 @@ arthakṛtsarvagaṃ mantracakraṃ rūḍhestathā bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 385)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.43–44]]
+
 *Lead-in:* दृष्टान्तमेव विभज्य दर्शयति--
 
 > सर्वगोऽपि मरुद्यद् व्यजनेनोपजीवितः (वीजितः) ।

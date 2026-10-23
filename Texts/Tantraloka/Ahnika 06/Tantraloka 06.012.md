@@ -34,6 +34,9 @@ antaḥkaraṇatattvasya vāyurāśrayatāṃ gataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 229)
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.12]]
+
 *Lead-in:* यदभिप्रायेणैव भट्टश्रीकल्लटादयोऽप्येवमूचुः -- इत्याह --
 
 > तेनाहुः किल संवित्प्राक्प्राणे परिणता तथा ।

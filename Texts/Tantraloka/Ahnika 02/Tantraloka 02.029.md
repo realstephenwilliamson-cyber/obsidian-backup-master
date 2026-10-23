@@ -35,6 +35,9 @@ sa eva ghaṭavalloke saṃstathā naiṣa bhairavaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 35–37)
+> ![[Tantraloka Dyczkowski v02 03 - Chapter Two, part 2#Viveka on 2.28–29]]
+
 > न सन्न चासत्सदसन्न च तन्नोभयोज्झितम् ।
 > दुर्विज्ञेया हि सावस्था किमप्येतदनुत्तरम् ॥
 > अयमित्यवभासो हि यो भावोऽवच्छिदात्मकः ।

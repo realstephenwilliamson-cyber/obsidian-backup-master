@@ -35,6 +35,9 @@ gograhe vadhyamokṣe vā mṛtāste vaidyute sthitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 168–170)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.130–131]]
+
 > पञ्चाशदूर्ध्वं वज्राङ्काद्वैद्युतोऽशनिवर्षिणः ।
 > अब्दा अप्सरसश्चात्र ये च पुण्यकृतो नराः ॥
 > भृगौ वह्नौ जले ये च संग्रामे चानिवर्तिनः ।

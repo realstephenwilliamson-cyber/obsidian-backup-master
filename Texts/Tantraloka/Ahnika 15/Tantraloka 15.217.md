@@ -33,6 +33,11 @@ sā sā dikca tathā tasya phaladāpi viparyaye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 132–133)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.213–217]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.217–218]]
+
 *Lead-in:* इत्याद्युक्त्या प्रतिनियतफलप्रदत्वमासां कथं सङ्गच्छते?-- इत्याशङ्क्य आह--
 
 > सा सा दिक्च तथा तस्य फलदापि विपर्यये ॥

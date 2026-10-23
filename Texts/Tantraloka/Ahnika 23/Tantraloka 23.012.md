@@ -33,6 +33,11 @@ yogacāre ca yadyatra tantre coditamācaret || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 299–301)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.11–12]]
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.12–13]]
+
 *Lead-in:* ननु इहापि समानन्यायत्वात् तन्त्रान्तरोक्तो नियमः कस्मान्नानुषज्यते ?--इत्याशङ्क्याह--
 
 > योगचारे च यद्यत्र तन्त्रे चोदितमाचरेत् ॥

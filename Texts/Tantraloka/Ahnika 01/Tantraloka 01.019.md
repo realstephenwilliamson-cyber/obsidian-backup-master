@@ -34,6 +34,9 @@ adṛṣṭaṃ prakaṭīkurmo gurunāthājñayā vayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 108–109)
+> ![[Tantraloka Dyczkowski v01 04 - Chapter One, part 3#Viveka on 1.19]]
+
 *Lead-in:* अतश्च सर्वसहत्वात्तदधिकारेणैव च प्रतिज्ञाया अपि निर्वाहो युक्तः— इत्याह --
 
 > अतोऽत्रान्तर्गतं सर्वं संप्रदायोज्झितैर्बुधैः ।

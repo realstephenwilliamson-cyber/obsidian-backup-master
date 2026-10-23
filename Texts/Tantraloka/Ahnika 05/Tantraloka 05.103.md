@@ -35,6 +35,9 @@ galite dehatādātmyaniścaye'ntarmukhatvataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 135–138)
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.100–104]]
+
 > अत्र भावनया देहगतोपायैः परे पथि ॥
 > विविक्षोः पूर्णतास्पर्शात्प्रागानन्दः प्रजायते ।
 > ततोऽपि विद्युदापातसदृशे देहवर्जिते ॥

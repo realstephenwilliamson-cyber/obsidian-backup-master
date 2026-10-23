@@ -35,5 +35,8 @@ ajasānantaikaśivau vidyāyāṃ krodhacaṇḍayugmaṃ syāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 395–397)
+> ![[Tantraloka Dyczkowski v05 11 - Chapter Eight, part 9#Viveka on 8.445–452]]
+
 Jayaratha comments on this verse together with 8.451: see [[Tantraloka 08.451#Viveka|8.451]].
 

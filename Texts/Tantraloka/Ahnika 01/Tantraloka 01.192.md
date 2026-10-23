@@ -34,6 +34,9 @@ ko'vakāśo bhavettatra bhautāveśādivarṇane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 373–374)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.192–193]]
+
 *Lead-in:* ननु श्रीपूर्वशास्त्रे रुद्रशक्तिसमावेशस्य पञ्चधात्वचर्चनं प्रतिज्ञाय भूतादीनां स्वरूपनिरूपणं कृतम् ? इत्याह --
 
 Jayaratha comments on this verse together with 1.193: see [[Tantraloka 01.193#Viveka|1.193]].

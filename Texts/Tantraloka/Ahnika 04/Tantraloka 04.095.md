@@ -34,6 +34,9 @@ saṃvidaṃ prati no kañcidupayogaṃ samaśnute || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 116)
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.95]]
+
 *Lead-in:* इति तेषां किमिति नाम न तत्रोपयोगः ? -- इत्याशङ्क्याह -
 
 > तदेषा धारणाध्यानसमाधित्रितयी पराम् ।

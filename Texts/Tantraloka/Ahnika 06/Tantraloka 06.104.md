@@ -35,6 +35,9 @@ advayena tatastena puṇya eṣa mahāgrahaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 331)
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.104]]
+
 *Lead-in:* अत एव चायं कालो महापुण्यः -- इत्याह --
 
 > अर्केन्दुराहुसङ्घट्टात् प्रमाणं वेद्यवेदकौ ।

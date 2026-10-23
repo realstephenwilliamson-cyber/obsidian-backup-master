@@ -36,6 +36,11 @@ nirañjanamidaṃ coktaṃ gurubhistattvadarśibhiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 209–211)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.104–105]]
+>
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.105–106]]
+
 *Lead-in:* न केवलमत्र शक्तित्रयसमावेशात् त्रिशूलत्वं भगवतोक्तं यावन्निरञ्जनत्वमपि अधिगततत्तदागमार्थैर्गुरुभिः -- इत्याह --
 
 > निरञ्जनमिदं चोक्तं गुरुभिस्तत्त्वदर्शिभिः ॥

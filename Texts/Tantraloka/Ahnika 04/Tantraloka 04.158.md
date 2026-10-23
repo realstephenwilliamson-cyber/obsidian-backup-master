@@ -36,6 +36,11 @@ tadapi drāvayedeva tadapyāśyānayedatha || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 227–230)
+> ![[Tantraloka Dyczkowski v03 07 - Chapter Four, part 6#Viveka on 4.158]]
+>
+> ![[Tantraloka Dyczkowski v03 07 - Chapter Four, part 6#Viveka on 4.158 (2)]]
+
 *Lead-in:* न च मितः प्रमाता तदीयो वा चैतसिकः शङ्काख्यो धर्म एवं विधातुमुत्सहते, इत्याह --
 
 > रोधनाद् द्रावणाद्रूपमित्थं कलयते चितिः ।

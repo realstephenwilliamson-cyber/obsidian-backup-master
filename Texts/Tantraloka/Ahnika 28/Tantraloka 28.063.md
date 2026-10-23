@@ -31,6 +31,9 @@ tatsaṃparkātpūrṇatā syāditi traiśirasādiṣu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 36–37)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.60–63]]
+
 > तत्रानुयागसिद्धर्थं चक्रयागो निरूप्यते ॥
 > मूर्तियाग इति प्रोक्तो यः श्रीयोगीश्वरीमते ।
 > नित्यं नैमित्तिकं कर्म यदत्रोक्तं महेशिना ॥

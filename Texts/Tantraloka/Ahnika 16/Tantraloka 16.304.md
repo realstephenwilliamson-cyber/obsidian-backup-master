@@ -37,6 +37,11 @@ tatra dravyamayīṃ dīkṣāṃ kurvannājyatilādikaiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 135–136)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.302–304]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.304–307]]
+
 *Lead-in:* बुभुक्षोरिति--लोकधर्मिणः साधकस्य । शुभेष्वपीति--शोधनं कार्यमिति प्राच्येन संबन्धः ॥ अत्रापि क्रियाज्ञानयोः प्राधान्येऽयं विशेषः--इत्याह--
 
 Jayaratha comments on this verse together with 16.303: see [[Tantraloka 16.303#Viveka|16.303]].

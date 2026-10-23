@@ -36,6 +36,11 @@ saṅghaṭṭanaṃ ca kramikaṃ sañjalpātmakameva tat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 55–56)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.58]]
+>
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.58–59]]
+
 *Lead-in:* एतदेवोपपादयति -
 
 > तथा हि मातुर्विश्रान्तिर्वणान्सङ्घट्य तान्बहून् ।

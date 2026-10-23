@@ -34,6 +34,9 @@ ityevaṃvidhimālocya karma kuryād gurūttamaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 189–190)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.115–117]]
+
 > समस्तमन्त्रैर्दीक्षायां नियमस्त्वेष कथ्यते ॥
 > मायान्तशुद्धौ सर्वाः स्युः क्रिया ह्यपरया सदा ।
 > द्व्यात्मया सकलान्ते तु निष्कले परयैव तु ॥

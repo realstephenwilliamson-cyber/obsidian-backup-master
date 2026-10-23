@@ -35,6 +35,9 @@ satribhāgaiva saṃkrāntirvarge pratyekamucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 446)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.244–245]]
+
 > सत्रिभागैव संक्रान्तिर्वर्गे प्रत्येकमुच्यते ॥
 > अहर्निशं तदैक्ये तु शतानां श्रुतिचक्षुषी ।
 

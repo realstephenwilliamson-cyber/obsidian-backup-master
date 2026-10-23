@@ -34,5 +34,8 @@ tattvādimukhyatāyogāddīkṣāyāṃ tu padāvalī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 61)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.132–135]]
+
 Jayaratha comments on this verse together with 16.134: see [[Tantraloka 16.134#Viveka|16.134]].
 

@@ -33,6 +33,11 @@ anantāvāntaredṛkṣayonibhedavataḥ sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 375–376)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.127–128]]
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.128–129]]
+
 *Lead-in:* ननु कोऽसौ सुस्फुटः सकले भेदो यः प्रलयाकलादौ नास्ति? -- इत्याशङ्क्याह --
 
 > अनन्तावान्तरेदृक्षयोनिभेदवतः स्फुटम् ॥

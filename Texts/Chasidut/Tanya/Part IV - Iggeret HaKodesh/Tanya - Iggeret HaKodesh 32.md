@@ -49,21 +49,21 @@ And this is the meaning of “*yehalech* before Him.”[^28] For (*tzedek*) lead
 [^7]: Par. [[Psalms 106#^106-31|Psalms 106:31]].
 [^8]: [[Psalms 112#^112-9|Psalms 112:9]].
 [^9]: The feminine is the recipient aspect, while the masculine is the emanating aspect; cf. above, Epistle 4, note 46, and Epistle 15, note 9.
-[^10]: He who causes others to do is greater than the doer.—*Bava Batra* 9a. See *Shulchan Aruch*, *Yoreh Deah* 249:5, and *Turei Zahav*, ad loc.
+[^10]: He who causes others to do is greater than the doer.—[[Bava Batra 9#9a|*Bava Batra* 9a]]. See *Shulchan Aruch*, *Yoreh Deah* 249:5, and *Turei Zahav*, ad loc.
 [^11]: Encompassing (transcending) all worlds. See above, Epistle 3, note 12.
 [^12]: See above, Epistle 17.
 [^13]: [[Jeremiah 23#^23-29|Jeremiah 23:29]].
 [^14]: See *Likkutei Amarim*, Part I, chs. 35, 52, and 53 (in comment. on *Zohar* [[Zohar 9.09 - Yanuqa#^z3-187a|III:187a]]).
 [^15]: *Tikkunei Zohar*, Introduction [[Tikkunei Zohar 017a|17a]].
 [^16]: The composer of the liturgical hymn *You are our G–d* (*Machzor*, Shacharit for Rosh Hashanah and for Yom Kippur).
-[^17]: *Sukkah* 49b; cf. ref. cited above, Epistle 30, note 15.
+[^17]: [[Sukkah 49#49b|*Sukkah* 49b]]; cf. ref. cited above, Epistle 30, note 15.
 [^18]: [[Hosea 10#^10-12|Hosea 10:12]].
 [^19]: *Tikkunei Zohar*, Introduction 3b; see above, beg. of Epistle 20.
 [^20]: [[Psalms 085#^85-14|Psalms 85:14]].
 [^21]: [[Torah 46 - Eikev#^11-22|Deuteronomy 11:22]] (ibid., 30:22).
 [^22]: I.e., to be in a mode of readiness for self-sacrifice for the sanctification of G–d’s Name, when uttering the word *echad* (the L–rd is One—[[Torah 45 - Vaetchanan#^6-4|Deuteronomy 6:4]]). See the writings of the Arizal dealing with devotions (*Shaar Hakavanot*; *Pri Etz Chaim*, etc.) s.v. *Keriat Shema*; cf. *Tikkunei Zohar*, Introduction 10b; *Bach* on *Tur Orach Chaim* 61 (s.v. *Veyikra’enah*). See also *Likkutei Torah*, *Vayikra* 5a, and cf. above, Epistle 28, note 38.
 [^23]: “And you shall love the L–rd with all your wealth”; [[Torah 45 - Vaetchanan#^6-5|Deuteronomy 6:5]].
-[^24]: See *Berachot* 54a and 61b.
+[^24]: See [[Berakhot 54#54a|*Berachot* 54a]] and 61b.
 [^25]: [[Proverbs 27#^27-19|Proverbs 27:19]]; see above, Epistle 1, note 26. (The “Supernal Man”—see [[Ezekiel 01#^1-26|Ezekiel 1:26]].)
 [^26]: Set above, Epistle 4, note 45.
 [^27]: See above, note 12.

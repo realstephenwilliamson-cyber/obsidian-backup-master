@@ -32,6 +32,9 @@ anena śivahastena samayī bhavati sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 284–285)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.460–463]]
+
 > श्रीदेव्यायामले तूक्तमष्टारान्तस्त्रिशूलके ।
 > चक्रे भैरवसन्नाभावघोराद्यष्टकारके ॥
 > बाह्यापरे परानेमौ मध्यशूलपरापरे ।

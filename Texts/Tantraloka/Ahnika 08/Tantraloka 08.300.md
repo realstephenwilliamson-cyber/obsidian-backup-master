@@ -37,6 +37,11 @@ vāmādyāḥ puruṣādau ye proktāḥ śrīpūrvaśāsane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 304–306)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.298–300]]
+>
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.300–301]]
+
 *Lead-in:* अत्र च श्रीपूर्वशास्त्रादपि विशेषान्तरमस्ति -- इत्याह --
 
 > वामाद्याः पुरुषादौ ये प्रोक्ताः श्रीपूर्वशासने ॥

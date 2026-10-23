@@ -36,6 +36,11 @@ saṃskārāṇāṃ catuṣke'sminnaparāṃ ca parāparām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 160)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 17.38–39.*
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.38–39]]
+
 > तत्रास्य गर्भाधानं च युक्तं पुंसवनादिभिः ।
 > गर्भनिष्क्रामपर्यन्तैरेकां कुर्वीत संस्क्रियाम् ॥
 > जननं भोगभोक्तृत्वं मिलित्वैकाथ संस्क्रिया ।

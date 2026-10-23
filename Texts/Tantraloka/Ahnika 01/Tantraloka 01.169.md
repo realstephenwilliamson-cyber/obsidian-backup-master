@@ -34,5 +34,8 @@ yaṃ samāveśamāpnoti śāktaḥ so'trābhidhīyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 342–343)
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.168–170]]
+
 Jayaratha comments on this verse together with 1.170: see [[Tantraloka 01.170#Viveka|1.170]].
 

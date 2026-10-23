@@ -37,6 +37,11 @@ sa brahmā viṣṇurudrādyā vaiṣṇavyāderataḥ kramāt |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 390–391)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.177–178]]
+>
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.178–179]]
+
 *Lead-in:* ननु ब्रह्मी नाम यदि शिवस्यैव शक्तिस्तत्कथमसावन्यं यायाद्येनायं ब्रह्मेत्युच्यते, न ह्यन्यदीयधर्मस्यान्यत्रान्वयः संभवेत् ? -- इत्याशङ्क्याह --
 
 > शक्तिमन्तं विहायान्यं शक्तिः किं याति नेदृशम् ॥

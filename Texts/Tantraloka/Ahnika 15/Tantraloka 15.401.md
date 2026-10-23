@@ -34,6 +34,11 @@ tatastu pūjite kuṇḍe kriyāśaktitayā sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 245–246)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 15.401–402.*
+>
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.401–402]]
+
 > मध्यग्रहणं दर्भद्वयेन कुशसंवृतिश्च भित्तीनाम् ।
 > प्राङ्मुखरेखात्रितयोर्ध्वरेखिकाः कुशसमावृतिश्च बहिः ॥
 > शस्तलताश्चतुरश्रं दशलोकेशार्चनासनविधिश्च ।

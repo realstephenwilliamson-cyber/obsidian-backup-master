@@ -33,6 +33,11 @@ evaṃ saṃvedyamātraṃ yat sukhaduḥkhavimohataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 208–210)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.220]]
+>
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.220–221]]
+
 *Lead-in:* यदि चात्र वस्तुसत्तामपहाय संभावनामात्रेण क्रम उच्यते प्रत्युत विपर्ययेणापि असौ स्यात् भोगोत्पादानन्तरं भोक्तृत्वोत्पादः, इति तस्मात् नात्र विप्रतिपत्तव्यम् -- इत्याह --
 
 > तस्माद्विप्रतिपत्तिं नो कुर्याच्छास्त्रोदिते विधौ ।

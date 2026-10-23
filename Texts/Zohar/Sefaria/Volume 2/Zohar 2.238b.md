@@ -41,4 +41,4 @@ Pritzker translation (Matt): [[Zohar 6.06 - Parashat Pequdei#^z2-238b|Parashat P
 
 **Pekudei 40:353** whereas its beast-part, the consumed fats, were food for the unclean side. Not so the other, or peace-offerings, which had in them the sides of the forces of Rigour, and hence were named “lesser holy offerings”; for they do not ascend as adornments to the height of heights like the most holy offerings; and hence may be killed on any side of the altar.’ ^pekudei-40-353
 
-[^1]: *Vide* T. B. Pesahim, 42b.
+[^1]: *Vide* T. B. [[Pesachim 42#42b|Pesahim, 42b]].

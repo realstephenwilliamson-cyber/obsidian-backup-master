@@ -37,6 +37,13 @@ taduktaṃ na vidurmāṃ tu tattvenātaścalanti te || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 295–297)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 1.130.*
+>
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.128–129]]
+>
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.130]]
+
 *Lead-in:* तदुक्तम्—
 
 > न विदुर्मां तु तत्त्वेनातश्चलन्ति ते ॥

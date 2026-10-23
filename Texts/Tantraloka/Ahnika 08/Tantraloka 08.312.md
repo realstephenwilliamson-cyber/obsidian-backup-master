@@ -35,6 +35,9 @@ nivasanti tatra rudrāḥ sukhinaḥ pratibilamasaṃkhyātāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 312)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.310–313]]
+
 > अववरकाण्येकस्मिन्यद्वत्साले बहूनि बद्धानि ।
 > योनिबिलान्येकस्मिंस्तद्वन्मायाशिरःसाले ॥
 > मायापटलैः सूक्ष्मैः कुङ्यैः पिहिताः परस्परमदृश्याः ।

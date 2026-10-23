@@ -34,6 +34,11 @@ tenātra ye codayanti yathā bālasya saṃskriyā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 253–254)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.408–409]]
+>
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.409–410]]
+
 *Lead-in:* अत एव अत्र विप्रतिपन्ना दूरं निरस्ताः--इत्याह--
 
 Jayaratha comments on this verse together with 15.408: see [[Tantraloka 15.408#Viveka|15.408]].

@@ -33,6 +33,11 @@ samyagjñānasvabhāvā hi vidyā sākṣādvimocikā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 5–7)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.8–9]]
+>
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.9]]
+
 > सम्यग्ज्ञानस्वभावा हि विद्या साक्षाद्विमोचिका ॥
 
 इह मलो नाम न किञ्चन द्रव्यम्, अपि तु अज्ञानं तच्च ज्ञानोदयादेव निवर्तत इत्युपपादितं प्राग् बहुशः । तत् स्वविरुद्धमज्ञानं विनिवर्तयत् सम्यग्ज्ञानमेव पुंसां साक्षान्मोक्षहेतुरिति युक्तमुक्तं साक्षान्मोचिकां विद्यां प्रति अकुशलानां क्रिया सुखमुपाय इति ॥ ९ ॥

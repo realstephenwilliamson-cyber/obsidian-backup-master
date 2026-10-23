@@ -31,6 +31,9 @@ alpaṃ vā bahu vā tadvadanudhyā muktikāraṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 367–368)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.27–29]]
+
 *Lead-in:* एतदेव दृष्टान्तोपदर्शनेनोपपादयति--
 
 Jayaratha comments on this verse together with 25.28: see [[Tantraloka 25.028#Viveka|25.28]].

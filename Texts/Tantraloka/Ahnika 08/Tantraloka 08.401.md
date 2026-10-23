@@ -37,6 +37,11 @@ tadārūḍhaḥ śivaḥ kṛtyapañcakaṃ kurute prabhuḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 372–373)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.400–401]]
+>
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.401]]
+
 *Lead-in:* तदधिष्ठानमेव स्फुटयति --
 
 > तदारूढः शिवः कृत्यपञ्चकं कुरुते प्रभुः ॥

@@ -34,6 +34,11 @@ yonirna kāraṇaṃ tatra śāntātmā dvija ucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 312–313)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.512–513]]
+>
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.513]]
+
 *Lead-in:* ननु अविप्लुतात् ब्रह्मणादविप्लुतायां ब्रह्मण्यां जातो द्विज इति उच्यते, तत् कथमेतदुक्तम् ?--इत्याशङ्क्य आह--
 
 > योनिर्न कारणं तत्र शान्तात्मा द्विज उच्यते ॥

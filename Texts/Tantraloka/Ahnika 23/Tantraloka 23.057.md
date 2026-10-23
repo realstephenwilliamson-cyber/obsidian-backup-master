@@ -31,6 +31,9 @@ tathātve haraṇaṃ kasmātpūrṇayogyatvaśālinaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 323)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.57]]
+
 *Lead-in:* एतदेव प्रतिविधत्ते--
 
 > उच्यते नास्य शिष्यस्य विज्ञानं रूढिमागतम् ।

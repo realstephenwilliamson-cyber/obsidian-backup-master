@@ -31,5 +31,8 @@ asyāpyuccāraṇādeva saṃvittiḥ syātpuroditā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 38)
+> ![[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#Viveka on 30.52–53]]
+
 Jayaratha comments on this verse together with 30.63: see [[Tantraloka 30.063#Viveka|30.63]].
 

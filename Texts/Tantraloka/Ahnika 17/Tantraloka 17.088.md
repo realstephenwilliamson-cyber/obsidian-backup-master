@@ -34,6 +34,9 @@ kṛtvā śiṣyaṃ tathātmasthaṃ mūlamantramanusmaran || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 178)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.88–90]]
+
 *Lead-in:* एतच्च अस्मच्छास्त्रेऽप्युक्तम्--इत्याह--
 
 Jayaratha comments on this verse together with 17.87: see [[Tantraloka 17.087#Viveka|17.87]].

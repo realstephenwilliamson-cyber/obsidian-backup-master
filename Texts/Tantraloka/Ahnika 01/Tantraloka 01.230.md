@@ -35,6 +35,9 @@ bhedābhedātmakopāyaṃ bhedopāyaṃ tadāṇavam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 406)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.230]]
+
 *Lead-in:* इति, तत्र आणवं भेदप्रधानमुक्तम्, शाक्तं च भेदाभेदप्रधानं शाम्भवं पुनः किं प्रधानम् ? इत्याशङ्क्याह—
 
 > अभेदोपायमत्रोक्तं शाम्भवं शाक्तमुच्यते ।

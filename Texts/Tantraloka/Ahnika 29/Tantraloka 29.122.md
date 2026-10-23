@@ -33,6 +33,11 @@ tasyāmeva kulārthaṃ samyak sañcārayedgurustena || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 314–315)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.122]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.122–123]]
+
 *Lead-in:* ततश्च गर्भधारणादेव अस्याः सर्वत्र शास्त्रे प्रविकस्वरमध्यधामत्वमुक्तम्--इत्याह--
 
 > प्रविकस्वरमध्यपदा शक्तिः शास्त्रे ततः कथिता ।

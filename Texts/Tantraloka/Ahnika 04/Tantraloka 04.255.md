@@ -34,6 +34,9 @@ dvaitādvaitavikalpotthaṃ grasate kṛtadhīriti || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 355–356)
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.255]]
+
 *Lead-in:* किं चात्र प्रमाणम् ? -- इत्याशङ्क्याह --
 
 > उक्तं भर्गशिखायां च मृत्युकालकलादिकम् ।

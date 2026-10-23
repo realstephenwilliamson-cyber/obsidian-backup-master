@@ -35,6 +35,9 @@ ayatnajaṃ yatnajaṃ tu recanādatha rodhanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 336–338)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.109]]
+
 *Lead-in:* तिथिच्छेदादित्युक्तमधिकावापेन लक्षयति --
 
 > तिथिच्छेद ऋणं कासो वृद्धिर्निःश्वसनं धनम् ।

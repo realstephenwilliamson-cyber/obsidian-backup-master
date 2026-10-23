@@ -36,6 +36,11 @@ agnisaṃpuṭaphullārṇatryaśrakālātmako mahān || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 21)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.47–48]]
+>
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.48–49]]
+
 *Lead-in:* ननु किमेतत्समन्त्रकं कार्यं न वा?--इत्याशङ्क्याह--
 
 > अग्निसंपुटफुल्लार्णत्र्यश्रकालात्मको महान् ॥

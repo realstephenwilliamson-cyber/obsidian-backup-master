@@ -31,6 +31,9 @@ sauṣuptāvasthayopetāste'tra pralayakevalāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 397–398)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.170–172]]
+
 > प्रेर्यमाणास्तु मन्त्रेशा मन्त्रास्तद्वाचकाः स्फुटम् ।
 > धरातत्त्वगतं योगमभ्यस्य शिवविद्यया ॥
 > न तु पाशवसांख्यीयवैष्णवादिद्वितादृशा ।

@@ -33,6 +33,11 @@ paratatsvarūpasaṅghaṭṭamantareṇaiṣa karaṇaraśmigaṇaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 323–324)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.135–136]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.136–137]]
+
 *Lead-in:* ननु एवमनुचक्रदेवतागणोऽपि निरानन्दे एव पदे विश्रान्तोऽस्तु, किमस्य आनन्दसाकाङ्क्षत्वेन?--इत्याशङ्क्य आह--
 
 > परतत्स्वरूपसङ्घट्टमन्तरेणैष करणरश्मिगणः ॥

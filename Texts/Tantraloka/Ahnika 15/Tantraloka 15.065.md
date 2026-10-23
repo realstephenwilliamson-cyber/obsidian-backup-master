@@ -31,6 +31,9 @@ tathāhi yogasañcāre mantrāḥ syurbhuvi pārthivāḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 50–51)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.65]]
+
 *Lead-in:* ननु सर्वत्र विना मन्त्रैरर्चा न भवेदित्युक्तम् । मन्त्राश्च पराहंप्रकाशमया इति को नाम एषामेवं फले विशेषः ?-- इत्याशङ्कामागमार्थप्रदर्शनेन उपशमयति--
 
 > तथाहि योगसञ्चारे मन्त्राः स्युर्भुवि पार्थिवाः ।

@@ -31,5 +31,10 @@ dakṣaścaṇḍo haraḥ śauṇḍī pramatho bhīmamanmathau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 174)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 33.9–12.*
+>
+> ![[Tantraloka Dyczkowski v11 07 - Chapter Thirty-Three#Viveka on 33.9–12]]
+
 Jayaratha comments on this verse together with 33.16: see [[Tantraloka 33.016#Viveka|33.16]].
 

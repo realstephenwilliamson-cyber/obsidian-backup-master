@@ -35,6 +35,9 @@ yadvisphuliṅgāḥ saṃsārabhasmadāhaikahetavaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 108–110)
+> ![[Tantraloka Dyczkowski v04 05 - Chapter Five, part 3#Viveka on 5.84–85]]
+
 > महासाहससंयोगविलीनाखिलवृत्तिकः ।
 > पुञ्जीभूते स्वरश्म्योघे निर्भरीभूय तिष्ठति ॥
 > अकिचिच्चिन्तकस्तत्र स्पष्टदृग्याति संविदम् ।

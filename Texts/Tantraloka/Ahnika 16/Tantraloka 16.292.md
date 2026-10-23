@@ -35,6 +35,9 @@ na ca yogādhikāritvamekamevānayā bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 131)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.289–293]]
+
 > योगमेकत्वमिच्छन्ति वस्तुनोऽन्येन वस्तुना ।
 > तद्वस्तु ज्ञेयमित्युक्तं हेयत्वादिप्रसिद्धये ॥
 > तत्प्रसिद्ध्यै शिवेनोक्तं ज्ञानं यदुपवर्णितम् ।

@@ -36,6 +36,11 @@ anapekṣasya vaśino deśakālākṛtikramāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 187–188)
+> ![[Tantraloka Dyczkowski v01 06 - Chapter One, part 5#Viveka on 1.58–59]]
+>
+> ![[Tantraloka Dyczkowski v01 06 - Chapter One, part 5#Viveka on 1.59–60]]
+
 *Lead-in:* एवमस्य परानपेक्षत्वाद्यथा न प्रमाणान्यवच्छेदकानि, तथा प्रमेयाण्यपि इत्याह --
 
 > अनपेक्षस्य वशिनो देशकालाकृतिक्रमाः ॥

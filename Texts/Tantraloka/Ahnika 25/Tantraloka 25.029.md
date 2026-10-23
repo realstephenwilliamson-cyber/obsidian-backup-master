@@ -33,6 +33,11 @@ uktaḥ śrāddhavidhirbhrāntigarātaṅkavimardanaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 367–369)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.27–29]]
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.29]]
+
 *Lead-in:* एतदेव प्रथमार्धेनोपसंहरति--
 
 > उक्तः श्राद्धविधिर्भ्रन्तिगरातङ्कविमर्दनः ॥

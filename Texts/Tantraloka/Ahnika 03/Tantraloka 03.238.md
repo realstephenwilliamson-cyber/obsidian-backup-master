@@ -36,6 +36,11 @@ avibhāgaikarūpatvaṃ mādhuryaṃ śaktirucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 365–367)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.237–238]]
+>
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.238–239]]
+
 *Lead-in:* तदाह --
 
 > अविभागैकरूपत्वं माधुर्यं शक्तिरुच्यते ॥

@@ -31,6 +31,9 @@ gataṃ kiṃ tatra vedyaṃ vā kāryaṃ vā vyapadeśabhāk || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 426)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.209]]
+
 *Lead-in:* ननु द्वितीयस्यां तुटाववहितस्य कस्मात्सर्वज्ञत्वादिलाभः, प्रथमायामेव तथात्वमस्तु ? -- इत्याशङ्क्याह -
 
 > आद्यायां तु तुटौ सर्वं सर्वतः पूर्णमेकताम् ।

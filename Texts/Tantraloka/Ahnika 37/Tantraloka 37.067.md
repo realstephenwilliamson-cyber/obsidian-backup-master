@@ -36,6 +36,11 @@ saṃpūritaṃ svahṛdayaṃ hṛdi bhāvayantaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 260)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 37.69.*
+>
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.69]]
+
 *Lead-in:* ये संपदं तृणममंसत शंभुसेवा-
 
 Jayaratha comments on this verse together with 37.66: see [[Tantraloka 37.066#Viveka|37.66]].

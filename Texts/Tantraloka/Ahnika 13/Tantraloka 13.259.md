@@ -33,6 +33,11 @@ nanu pūjājapadhyānaśaṅkarāsevanādibhiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 285–286)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.257–259]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.259–260]]
+
 *Lead-in:* नन्वेते पूजाजपादिकर्मणैव तां तां सिद्धिमुपाश्रिता इति कथङ्कारमुक्तकर्माद्यनपेक्षिणः? -- इत्याह --
 
 > ननु पूजाजपध्यानशङ्करासेवनादिभिः ॥

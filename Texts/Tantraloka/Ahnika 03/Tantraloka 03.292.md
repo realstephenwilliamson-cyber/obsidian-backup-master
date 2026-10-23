@@ -35,6 +35,9 @@ tadā vicitraṃ dīkṣādividhiṃ śikṣeta kovidaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 409–410)
+> ![[Tantraloka Dyczkowski v02 12 - Chapter Three, part 9#Viveka on 3.291–292]]
+
 > अथासौ तादृशो न स्याद्भवभक्त्या च भावितः ॥
 > तं चाराधयते भावितादृशानुग्रहेरितः ।
 > तदा विचित्रं दीक्षादिविधिं शिक्षेत कोविदः ॥

@@ -36,6 +36,13 @@ ye tu pustakalabdhe'pi mantre vīryaṃ prajānate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 378–379)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 26.24–25.*
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.23]]
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.24–25]]
+
 *Lead-in:* ननु पुस्तकात् मन्त्रवीर्याकथने किं प्रमाणम्?--इत्याशङ्क्याह--
 
 > पुस्तकाधीतविद्याश्चेत्युक्तं सिद्धामते ततः ।

@@ -31,6 +31,9 @@ vāgakṣiśrutigamyaṃ cāpyanyāpekṣaṃ varānane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 232–233)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.177–179]]
+
 > विवेकोऽतीन्द्रियस्त्वेष यदायाति विवेचनम् ।
 > पशुपाशपतिज्ञानं स्वयं निर्भासते तदा ॥
 > प्रातिभे तु समायाते ज्ञानमन्यत्तु सेन्द्रियम् ।

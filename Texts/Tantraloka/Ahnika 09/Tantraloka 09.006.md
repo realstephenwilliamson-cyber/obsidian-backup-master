@@ -36,6 +36,11 @@ dehānāṃ bhuvanānāṃ ca na prasaṅgastato bhavet |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 8–10)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.4–6]]
+>
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.6]]
+
 *Lead-in:* नन्वेवमभिधाने किं प्रमाणम् ? -- इत्याशङ्क्याह --
 
 > श्रीमन्मतङ्गशास्त्रादौ तदुक्तं परमेशिना ॥

@@ -37,6 +37,11 @@ anye'pi bahuvikalpāḥ svadhiyācāryaiḥ samabhyūhyāḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 388–389)
+> ![[Tantraloka Dyczkowski v05 11 - Chapter Eight, part 9#Viveka on 8.436]]
+>
+> ![[Tantraloka Dyczkowski v05 11 - Chapter Eight, part 9#Viveka on 8.436–437]]
+
 *Lead-in:* नन्वत्र किमियन्त एव विकल्पाः संभवन्ति न वा ? -- इत्याशङ्क्याह --
 
 > अन्येऽपि बहुविकल्पाः स्वधियाचार्यैः समभ्यूह्याः ।

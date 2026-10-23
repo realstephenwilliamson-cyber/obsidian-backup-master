@@ -31,6 +31,9 @@ guṇādhikatayā tiṣṭhan vyāptā tāvān prakāśate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 279)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.306]]
+
 *Lead-in:* एवं शिवादेर्धरान्तस्य तत्त्वजातस्य क्रमं निरूप्य व्याप्यव्यापकभावं दर्शयति --
 
 > अमीषां तु धरादीनां यावांस्तत्त्वगणः पुरा ।

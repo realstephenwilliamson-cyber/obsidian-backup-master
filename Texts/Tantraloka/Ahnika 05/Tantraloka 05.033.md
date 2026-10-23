@@ -36,6 +36,11 @@ tatastaddāhyavilayāt tatsaṃskāraparikṣayāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 34)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.32–33]]
+>
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.33–34]]
+
 *Lead-in:* ननु संनिहितेऽपि बाह्येऽर्थजाते चक्षुरादीन्द्रियवृत्त्यात्म संविच्चक्रमुदियात् -- इत्यविवादः । तदेव चेत् परिक्षीणं तत् कथमेतत् चक्रमपि स्वात्मन्युल्लसेत् -- इति किमेतदुक्तम् ? -- इत्याशङ्क्याह --
 
 > ततस्तद्दाह्यविलयात् तत्संस्कारपरिक्षयात् ॥

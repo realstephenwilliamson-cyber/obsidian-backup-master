@@ -34,6 +34,9 @@ mahāsandhyā tṛtīyā tu supraśāntātmikā sthitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 245–248)
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.24–27]]
+
 > क्षपा शशी तथापानो नाद एकत्र तिष्ठति ॥
 > जीवादित्यो न चोद्गच्छेत्तुट्यर्धं सान्ध्यमीदृशम् ।
 > ऊर्ध्ववक्त्रो रविश्चन्द्रोऽधोमुखो वह्निरन्तरे ॥

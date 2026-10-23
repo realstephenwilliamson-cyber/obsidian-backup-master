@@ -31,6 +31,9 @@ tataśca suptaṃ viśvaṃ syānna caivaṃ bhāsate hi tat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 368)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.114–115]]
+
 > स्वप्रकाशेऽत्र कस्मिंश्चिदनभ्युपगते सति ॥
 > अप्रकाशात्प्रकाशत्वे ह्यनवस्था दुरुत्तरा ।
 > ततश्च सुप्तं विश्वं स्यान्न चैवं भासते हि तत् ॥

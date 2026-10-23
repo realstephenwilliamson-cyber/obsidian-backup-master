@@ -34,6 +34,9 @@ saṃvidabhyeti vimalāmavikalpasvarūpatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 8–9)
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.6]]
+
 *Lead-in:* ननु एवं-कृते सति किं स्यात् ? -- इत्याशङ्क्याह --
 
 > ततः स्फुटतमोदारताद्रूप्यपरिबृंहिता ।

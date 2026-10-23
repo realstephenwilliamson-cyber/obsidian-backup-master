@@ -33,6 +33,11 @@ yataḥ sarvānumānānāṃ svasaṃvedananiṣṭhitau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 158–160)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.357–358]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.358–359]]
+
 *Lead-in:* ननु अनुमानं प्रमाणम्, तच्च प्रमेयोपसर्जनम्, प्रमेयं च अत्र प्रमात्रन्तरलक्षणं नास्त्येवेति किमालम्बनं तदुदियात् ?-- इत्याशङ्क्य आह--
 
 > यतः सर्वानुमानानां स्वसंवेदननिष्ठितौ ॥

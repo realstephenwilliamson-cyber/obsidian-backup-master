@@ -31,6 +31,9 @@ satsaṅgaḥ parameśānapūjādyabhyāsanityatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 184–185)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.98–100]]
+
 *Lead-in:* अथोच्यते वैराग्याद्यपेक्ष्य परमेश्वरः शक्तिपातं विदध्यादिति, तदपि न -- इत्याह --
 
 Jayaratha comments on this verse together with 13.99: see [[Tantraloka 13.099#Viveka|13.99]].

@@ -34,6 +34,9 @@ gurusaṃvidabhinnaścetsaṃkrāmetsā tataḥ śiśau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 378)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.21–22]]
+
 *Lead-in:* एतदेव उपपादयति--
 
 Jayaratha comments on this verse together with 26.22: see [[Tantraloka 26.022#Viveka|26.22]].

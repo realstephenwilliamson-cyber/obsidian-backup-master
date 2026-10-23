@@ -31,6 +31,9 @@ tathā satyapi vijñāne vijñātṛsamavāyini || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 313–314)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.29–31]]
+
 > यथाहि पृथुबुध्नादिरूपे कुम्भस्य सत्यपि ॥
 > अतदात्मा पटो नैति पृथुबुध्नादिरूपताम् ।
 > तथा सत्यपि विज्ञाने विज्ञातृसमवायिनि ॥

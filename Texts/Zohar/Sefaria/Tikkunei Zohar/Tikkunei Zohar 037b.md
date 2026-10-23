@@ -291,10 +291,10 @@ It is this that is written:
 ואמר בראשית  
 תמן ב"ת ^37b-30
 
-[^1]: See *BT* Berakhot 61b
+[^1]: See *BT* [[Berakhot 61#61b|Berakhot 61b]]
 [^2]: angelic-beasts
 [^3]: Liturgical, from the ‘Standing’ Prayer of Sabbath Morning
-[^4]: See *BT* Yoma 53a–b
+[^4]: See *BT* [[Yoma 53#53a|Yoma 53a]]–b
 [^5]: *dorona*
 [^6]: *mitzvah*
 [^7]: *Midrash Tanḥuma*, Mishpatim Ch.19
@@ -312,7 +312,7 @@ It is this that is written:
 [^19]: Aleph-shva
 [^20]: Aleph-tzeirei
 [^21]: Aleph-qubutz
-[^22]: See *BT* Pesaḥim 94b
+[^22]: See *BT* [[Pesachim 94#94b|Pesaḥim 94b]]
 [^23]: *ḥalal*
 [^24]: *meḥale-leha*
 [^25]: *ḥayot*

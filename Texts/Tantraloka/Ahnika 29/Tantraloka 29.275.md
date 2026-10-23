@@ -31,6 +31,9 @@ ubhayośconmanogatyā tatkāle dīkṣito bhavet |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 404)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.274–275]]
+
 > चित्ते समरसीभूते द्वयोरौन्मनसी स्थितिः ॥
 > उभयोश्चोन्मनोगत्या तत्काले दीक्षितो भवेत् ।
 > शशिभास्करसंयोगे जीवस्तन्मयतां व्रजेत् ॥

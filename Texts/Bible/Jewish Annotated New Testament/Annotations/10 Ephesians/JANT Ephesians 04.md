@@ -54,7 +54,7 @@ Text: [[NRSVue Ephesians 04|NRSVue]] · [[Ephesians 04|BSB and SBLGNT]] · Intro
 
 **[[NRSVue Ephesians 04#^4-28|28]]:** S*omething to share with the needy*, and not merely to support themselves or acquire riches. See [[James 02#^2-14|Jas 2.14]]**–**17, where James argues that works are crucial for salvation and the needy must be supported. The rabbis, too, insisted that a person should have honest labor and support the poor; see, e.g*. , m. Avot* 1.2 and 3.17. ^4-28
 
-**[[NRSVue Ephesians 04#^4-29|29–31]]:** *Evil talk . . . wrangling and slander*, 1QS 7.2**–**9 condemns a similar list; the rabbis condemn what they call “leshon ha-raʿ,” “the tongue of evil”; see, e.g., *Lev. Rab*. 16 and *b. Arak*. 15b. ^4-29
+**[[NRSVue Ephesians 04#^4-29|29–31]]:** *Evil talk . . . wrangling and slander*, 1QS 7.2**–**9 condemns a similar list; the rabbis condemn what they call “leshon ha-raʿ,” “the tongue of evil”; see, e.g., *Lev. Rab*. 16 and [[Arakhin 15#15b|*b. Arak*. 15b]]. ^4-29
 
 **[[NRSVue Ephesians 04#^4-30|30]]:** *Seal*, see 1.13n. ^4-30
 

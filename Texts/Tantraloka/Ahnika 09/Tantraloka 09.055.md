@@ -33,6 +33,11 @@ tena yatprāhurākhyānasādṛśyena viḍambitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 60–63)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.53–55]]
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.55–59]]
+
 *Lead-in:* तदाह -
 
 Jayaratha comments on this verse together with 9.54: see [[Tantraloka 09.054#Viveka|9.54]].

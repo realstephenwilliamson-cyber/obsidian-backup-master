@@ -37,6 +37,11 @@ yāvaddhāmani saṅketanikārakalanojjhite || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 70–71)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.78–79]]
+>
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.79–80]]
+
 *Lead-in:* परधाराधिरोहे पुनः सर्वज्ञानक्रियायोग एव स्यात् -- इत्याह --
 
 > यावद्धामनि सङ्केतनिकारकलनोज्झिते ॥

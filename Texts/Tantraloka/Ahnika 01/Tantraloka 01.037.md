@@ -34,6 +34,9 @@ svapūrṇacitkriyārūpaśivatāvaraṇātmakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 146–150)
+> ![[Tantraloka Dyczkowski v01 05 - Chapter One, part 4#Viveka on 1.37–38]]
+
 *Lead-in:* तदेव लक्षयति—
 
 > तत्र पुंसो यदज्ञानं मलाख्यं तज्जमप्यथ ।

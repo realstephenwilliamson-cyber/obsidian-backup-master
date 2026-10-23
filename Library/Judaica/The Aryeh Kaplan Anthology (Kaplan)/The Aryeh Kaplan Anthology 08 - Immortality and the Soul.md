@@ -251,7 +251,7 @@ Aldous Huxley, The Doors of Perception (Harper & Row, N.Y. 1970) p. 22f. . Berac
 
 . Midrash Tehilim a. L. 
 
-. Kiddushin 81a. 
+. [[Kiddushin 81#81a|Kiddushin 81a]]. 
 
 . Yebamos 105b. 
 
@@ -261,11 +261,11 @@ Aldous Huxley, The Doors of Perception (Harper & Row, N.Y. 1970) p. 22f. . Berac
 
 . Eduyos 2:10. 
 
-. Moed Katan 22b. 
+. [[Moed Katan 22#22b|Moed Katan 22b]]. 
 
 . Berachos 58b. 
 
-. Rosh HaShanah 17a. 
+. [[Rosh Hashanah 17#17a|Rosh HaShanah 17a]]. 
 
 . Ramban, introduction to Job. 
 
@@ -273,15 +273,15 @@ Aldous Huxley, The Doors of Perception (Harper & Row, N.Y. 1970) p. 22f. . Berac
 
 . Berachos 18b. 
 
-. See Tosfos, Shabbos 153a “VeNishmaso,” Sotah 34b “Avoi” Maaver Yavek 2:25, Nishmas Chaim 2:22. 
+. See Tosfos, [[Shabbat 153#153a|Shabbos 153a]] “VeNishmaso,” [[Sotah 34#34b|Sotah 34b]] “Avoi” Maaver Yavek 2:25, Nishmas Chaim 2:22. 
 
-. Taz, Yoreh Deah 339:3. Cf. Avodah Zara 20b, Pirkei Rabbi Eliezer. . Shabbos 152a, Midrash Ne'elam, [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-122b|Zohar 1:122b]]. 
+. Taz, Yoreh Deah 339:3. Cf. [[Avodah Zarah 20#20b|Avodah Zara 20b]], Pirkei Rabbi Eliezer. . [[Shabbat 152#152a|Shabbos 152a]], Midrash Ne'elam, [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-122b|Zohar 1:122b]]. 
 
-. Shabbos 152b, Sefer Mitzvos Gadol, Esin DeRabanan 2 (Vinitzia, 5307) p. 246a. 
+. [[Shabbat 152#152b|Shabbos 152b]], Sefer Mitzvos Gadol, Esin DeRabanan 2 (Vinitzia, 5307) p. 246a. 
 
-. Shabbos, ibid., Maharsha a. l., [[Zohar 3.07 - Parashat Va-Yhi#^z1-217b|Zohar 1:217b]], 3:185b, 222b. . Berachos 18b, Shabbos 152a. 
+. Shabbos, ibid., Maharsha a. l., [[Zohar 3.07 - Parashat Va-Yhi#^z1-217b|Zohar 1:217b]], 3:185b, 222b. . Berachos 18b, [[Shabbat 152#152a|Shabbos 152a]]. 
 
-. Emunos VeDeyos 6:7, Tshuvos Rashba 369, Sefer Chasidim 1163, Tosfos Yom Tov 2:7, Tshuvos Sh'vus Yaakov 2:97, Zvi Hirsh Chayos on Shabbos 13b. Cf. Tanchuma, VaYikra 8. 
+. Emunos VeDeyos 6:7, Tshuvos Rashba 369, Sefer Chasidim 1163, Tosfos Yom Tov 2:7, Tshuvos Sh'vus Yaakov 2:97, Zvi Hirsh Chayos on [[Shabbat 13#13b|Shabbos 13b]]. Cf. Tanchuma, VaYikra 8. 
 
 32\. Emunos VeDeyos, ibid., Nishmas Chaim 2:24, Maaver Yavak 2:7. 
 

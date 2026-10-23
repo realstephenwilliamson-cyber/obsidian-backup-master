@@ -31,6 +31,9 @@ jñānaṃ dīkṣādisaṃskārasatattvamiti varṇitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 218)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.151–154]]
+
 > एवं यो वेद तत्त्वेन तस्य निर्वाणगामिनी ॥
 > दीक्षा भवत्यसन्दिग्धा तिलाज्याहुतिवर्जिता ।
 > अदृष्टमण्डलोऽप्येवं यः कश्चिद्वेत्ति तत्त्वतः ॥

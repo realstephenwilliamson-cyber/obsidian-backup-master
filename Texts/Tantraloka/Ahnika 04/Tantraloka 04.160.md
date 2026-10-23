@@ -34,6 +34,9 @@ prakāśakatvātsūryātmā bhinne vastuni jṛmbhate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 231–232)
+> ![[Tantraloka Dyczkowski v03 08 - Chapter Four, part 7#Viveka on 4.160]]
+
 *Lead-in:* ननु कान्येतानि द्वादश करणानि, किं चैषां करणत्वम् ? -- इत्याशङ्क्याह --
 
 > कर्मबुद्ध्यक्षवर्गो हि बुद्ध्यन्तो द्वादशात्मकः ।

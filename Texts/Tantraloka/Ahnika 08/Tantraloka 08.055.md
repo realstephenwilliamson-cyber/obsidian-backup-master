@@ -34,6 +34,9 @@ yaśasvinī maheśasya tasyāḥ paścimato hariḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 102–104)
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.53–56]]
+
 > भैरवीयं च तल्लिङ्गं धरणी चास्य पीठिका ॥
 > सर्वे देवा निलीना हि तत्र तत्पूजितं सदा ।
 > मध्ये मेरुसभा धातुस्तदीशदिशि केतनम् ॥

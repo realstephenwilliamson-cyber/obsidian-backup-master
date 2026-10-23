@@ -33,6 +33,11 @@ nirudhya raśmicakraṃ svabhogamokṣāvubhāvapi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 404–405)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.276]]
+>
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.276–277]]
+
 *Lead-in:* एतच्च कारणानामपि आशंसास्पदम्--इत्याह--
 
 > अत्र ब्रह्मादयो देवा मुक्तये मोक्षकाङ्क्षिणः ।

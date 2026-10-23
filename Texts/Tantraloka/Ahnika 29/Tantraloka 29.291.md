@@ -31,6 +31,9 @@ naimittikeṣu prokteṣu śiṣyaḥ kuryādimaṃ vidhim || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 410)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.291]]
+
 *Lead-in:* कदा च एतत्कार्यम् ?--इत्याशङ्क्य आह--
 
 > यागादौ यागमध्ये च यागान्ते गुरुपूजने ।

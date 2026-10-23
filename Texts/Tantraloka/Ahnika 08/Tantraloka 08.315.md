@@ -35,6 +35,9 @@ srotastenānyānyapi tulyavidhānāni vedyāni || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 313–314)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.315–316]]
+
 *Lead-in:* नन्वस्मात्स्रोतसः किं स्रोतोन्तराणि विलक्षणानि न वा ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 8.316: see [[Tantraloka 08.316#Viveka|8.316]].

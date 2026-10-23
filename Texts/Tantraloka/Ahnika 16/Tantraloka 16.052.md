@@ -36,6 +36,11 @@ praveśito yāgabhuvi hatastatraiva sādhitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 23)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 16.52–53.*
+>
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.52–53]]
+
 *Lead-in:* एतदेव परोक्षदीक्षायामप्यतिदिशति--
 
 > परोक्षेऽपि पशावेवं विधिः स्याद्योजनं प्रति ।

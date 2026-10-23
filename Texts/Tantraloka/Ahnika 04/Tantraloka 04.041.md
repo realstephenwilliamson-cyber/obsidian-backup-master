@@ -36,6 +36,11 @@ kiraṇāyāṃ yadapyuktaṃ gurutaḥ śāstrataḥ svataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 50–55)
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.40–41]]
+>
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.41–42]]
+
 *Lead-in:* ननु अन्यत्र परतत्त्वाधिगमे गुर्वाद्यन्यदपि कारणतयोक्तम्, इह पुनः कथं स्वत एव इति "एकमेव"-- इत्याशङ्क्याह --
 
 > किरणायां यदप्युक्तं गुरुतः शास्त्रः स्वतः ॥

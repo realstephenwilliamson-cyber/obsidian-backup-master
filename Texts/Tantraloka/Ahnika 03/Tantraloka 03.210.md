@@ -34,6 +34,9 @@ mādhyasthyavigame yāsau hṛdaye spandamānatā |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 328–331)
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.209–210]]
+
 > तथाहि मधुरे गीते स्पर्शे वा चन्दनादिके ॥
 > माध्यस्थ्यविगमे यासौ हृदये स्पन्दमानता ।
 > आनन्दशक्तिः सैवोक्ता यतः सहृदयो जनः ॥

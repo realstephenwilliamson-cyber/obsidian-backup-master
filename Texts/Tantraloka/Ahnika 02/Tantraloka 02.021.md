@@ -34,6 +34,9 @@ na prakāśaviśeṣatvamata evopapadyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 28–31)
+> ![[Tantraloka Dyczkowski v02 02 - Chapter Two, part 1#Viveka on 2.20–21]]
+
 > प्रकाशे ह्यप्रकाशांशः कथं नाम प्रकाशताम् ।
 > प्रकाशमाने तस्मिन्वा तद्द्वैतास्तस्य लोपिताः ॥
 > अप्रकाशेऽथ तस्मिन्वा वस्तुता कथमुच्यते ।

@@ -35,6 +35,9 @@ bhūyobhiścāpi bāhyārthadūṣaṇaiḥ pravyaramyata || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 98)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.116–117]]
+
 > तदित्थं परमेशानो विश्वरूपः प्रगीयते ।
 > न तु भिन्नस्य कस्यापि धरादेरुपपन्नता ॥
 > उक्तं चैतत्पुरैवेति न भूयः प्रविविच्यते ।

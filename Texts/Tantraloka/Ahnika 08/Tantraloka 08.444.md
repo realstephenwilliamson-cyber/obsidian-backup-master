@@ -35,6 +35,9 @@ sthūlasthūleśaśaṅkuśrutikālañjarāśca maṇḍalabhṛt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 392–393)
+> ![[Tantraloka Dyczkowski v05 11 - Chapter Eight, part 9#Viveka on 8.440–445]]
+
 > कालाग्निः कूष्माण्डो नरकेशो हाटकोऽथ भूतलपः ॥
 > ब्रह्मा मुनिलोकेशो रुद्राः पञ्चान्तरालस्थाः ।
 > अधरेऽनन्तः प्राच्याः कपालिवह्न्यन्तनिरृतिबलाख्याः ॥

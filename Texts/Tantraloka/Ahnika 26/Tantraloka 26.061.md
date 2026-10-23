@@ -36,6 +36,11 @@ kriyā syāttanmayībhūtyai hṛdayāhlādadāyibhiḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 392)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.60–61]]
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.61–62]]
+
 *Lead-in:* अत एव एषां चिदानन्दघनमेव रूपं पूजायोग्यम्--इत्याह--
 
 > शिवाभेदभराद्भाववर्गः श्च्योतति यं रसम् ॥

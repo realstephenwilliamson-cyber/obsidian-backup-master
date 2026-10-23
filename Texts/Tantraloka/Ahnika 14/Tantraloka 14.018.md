@@ -33,6 +33,11 @@ yaduktaṃ parameśena śrīmadānandagahvare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 354–355)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.18]]
+>
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.18–19]]
+
 *Lead-in:* न केवलमस्य पारमेश्वरमिच्छामात्रमेव निमित्तं यावदन्यदपि -- इत्याह --
 
 > अन्योऽपि च तिरोभावः समयोल्लङ्घनात्मकः ।

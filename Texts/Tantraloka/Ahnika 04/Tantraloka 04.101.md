@@ -34,6 +34,9 @@ dhiyi ropayituṃ tena svaprabodhakramo dhruvam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 121–122)
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.101]]
+
 *Lead-in:* ननु गुरुवाक्यबलादेवास्य मौढ्यादीनामपि व्युदासः सिध्येदि अन्तर्गडुप्रायेण स्वविमर्शेनापि कोऽर्थः ? -- इत्याशङ्क्याह --
 
 > नह्यस्य गुरुणा शक्यं स्वं ज्ञानं शब्द एव वा ।

@@ -33,6 +33,11 @@ tāsāṃ bahutvāmukhyatvayogābhyāṃ neha varṇanam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 140–141)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.6–7]]
+>
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.7–8]]
+
 *Lead-in:* ननु श्रीमालिनीमते पद्ममुद्रादिसाहचर्येणैव श्रीखेचरी अपि निर्दिष्टा, तत् सैव प्रधानेति तु कुतस्त्यम् ?--इत्याशङ्क्य आह--
 
 > श्रीखेचरीसमाविष्टो यद्यत्स्थानं समाश्रयेत् ॥

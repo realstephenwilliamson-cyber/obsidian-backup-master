@@ -33,6 +33,11 @@ kvacidviṣayatulyatvādbādhyabādhakatā yadi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 110–111)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.177–178]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.178–179]]
+
 *Lead-in:* ननु मा भूद्विषयभेदे शिवोक्तेः श्रुतिर्बाधिका समाने तु विषये को बाधविरोधः ?--इत्याशङ्क्य आह—
 
 > क्वचिद्विषयतुल्यत्वाद्बाध्यबाधकता यदि ॥

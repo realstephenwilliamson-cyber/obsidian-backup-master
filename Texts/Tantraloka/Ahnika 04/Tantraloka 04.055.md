@@ -34,6 +34,9 @@ kadācidbhaktiyogena karmaṇā vidyayāpi vā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 73–74)
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.55–57]]
+
 *Lead-in:* एवमनेकागमोक्तावपि निदर्शनार्थं प्रथमं श्रीसर्ववीरग्रन्थं पठति --
 
 Jayaratha comments on this verse together with 4.56: see [[Tantraloka 04.056#Viveka|4.56]].

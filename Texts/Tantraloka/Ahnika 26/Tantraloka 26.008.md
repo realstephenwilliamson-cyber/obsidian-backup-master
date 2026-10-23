@@ -34,6 +34,9 @@ svasaṃvidgurusaṃvittyostulyapratyayabhāgapi |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 372–373)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.8]]
+
 *Lead-in:* एवं गुरुप्रत्ययवत् स्वप्रत्ययोऽपि यस्यास्ति, तस्यापि एषैव वार्त्ता-- इत्याह--
 
 > स्वसंविद्गुरुसंवित्त्योस्तुल्यप्रत्ययभागपि ।

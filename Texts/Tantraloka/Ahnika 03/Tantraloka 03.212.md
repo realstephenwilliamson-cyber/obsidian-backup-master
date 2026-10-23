@@ -34,5 +34,8 @@ cittasaṃbodhanāmoktaḥ śāktollāsabharātmakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 332–335)
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.211–214]]
+
 Jayaratha comments on this verse together with 3.214: see [[Tantraloka 03.214#Viveka|3.214]].
 

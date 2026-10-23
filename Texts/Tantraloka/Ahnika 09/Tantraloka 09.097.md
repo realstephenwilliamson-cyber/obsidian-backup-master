@@ -33,6 +33,11 @@ ataḥ pradhvaṃsanaunmukhyakhilībhūtasvaśaktikaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 95)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.97]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.97–98]]
+
 *Lead-in:* अत आह -
 
 > ततश्च सुप्ते तुर्ये च वक्ष्यते बहुभेदता ।

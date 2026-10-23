@@ -31,6 +31,9 @@ kuryādyadi tataḥ pūrṇamadhikāritvamasya tat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 324)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.59–61]]
+
 *Lead-in:* ननु विलयशक्त्याघ्रतत्वादस्य स्वभावत एव चेत् विद्याद्यमपकारकं तत् गुरुः किमर्थं विज्ञानापहरणं कुर्यात् ?--इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 23.61: see [[Tantraloka 23.061#Viveka|23.61]].

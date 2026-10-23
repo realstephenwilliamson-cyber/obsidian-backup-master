@@ -36,6 +36,11 @@ naraśaktiśivākhyasya trayasya bahubhedatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 141–142)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.4–5]]
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.5–6]]
+
 *Lead-in:* नन्वेवमपि सूत्रस्य त्रिस्त्रिगुणीकरणे कोऽर्थः?--इत्याशङ्क्याह--
 
 > नरशक्तिशिवाख्यस्य त्रयस्य बहुभेदताम् ॥

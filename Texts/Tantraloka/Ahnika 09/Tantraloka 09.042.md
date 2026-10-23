@@ -33,6 +33,11 @@ loke ca gomayātkīṭāt saṅkalpātsvapnataḥ smṛteḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 46–47)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.41–42]]
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.42–43]]
+
 *Lead-in:* इदानीं लौकिकमपि वैचित्र्यं दर्शयति --
 
 > लोके च गोमयात्कीटात् सङ्कल्पात्स्वप्नतः स्मृतेः ॥

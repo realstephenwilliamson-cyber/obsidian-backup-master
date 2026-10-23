@@ -40,13 +40,13 @@ After this manner it is stated in the *Zohar*, “Weeping is lodged in one side 
 
 [^1]: Cf. above, ch. 18, note 3.
 [^2]: *Zohar* III:232a; cf. also *Zohar* [[Zohar 7.03 - Parashat Va-Yiqra#^z3-7a|III:7a]].
-[^3]: *Shabbat* 88b.
+[^3]: [[Shabbat 88#88b|*Shabbat* 88b]].
 [^4]: Ch. 53.
-[^5]: *Berachot* 8a.
-[^6]: “…and one at night.” *Menachot* 99b.
+[^5]: [[Berakhot 8#8a|*Berachot* 8a]].
+[^6]: “…and one at night.” [[Menachot 99#99b|*Menachot* 99b]].
 [^7]: [[Job 17#^17-9|Job 17:9]].
-[^8]: “…G–d joins to a deed.” *Kiddushin* 40a; *Zohar* [[Zohar 1.028a|I:28a]].
-[^9]: “…so must you be compassionate.” *Shabbat* 133b.
+[^8]: “…G–d joins to a deed.” [[Kiddushin 40#40a|*Kiddushin* 40a]]; *Zohar* [[Zohar 1.028a|I:28a]].
+[^9]: “…so must you be compassionate.” [[Shabbat 133#133b|*Shabbat* 133b]].
 [^10]: *Tikkunei Zohar*, Introduction [[Tikkunei Zohar 017a|17a]].
-[^11]: *Sukkah* 49b; *Bava Batra* 9a.
+[^11]: [[Sukkah 49#49b|*Sukkah* 49b]]; [[Bava Batra 9#9a|*Bava Batra* 9a]].
 [^12]: *Zohar* [[Zohar 12.05 - Heikhalot Pequdei#^z2-255a|II:255a]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-75a|III:75a]].

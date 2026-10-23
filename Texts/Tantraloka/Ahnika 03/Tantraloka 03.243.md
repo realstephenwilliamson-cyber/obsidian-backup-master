@@ -36,6 +36,11 @@ avibhāgo hi nirvṛtyai dṛśyatāṃ tālapāṭhataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 369–370)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.242–243]]
+>
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.243–244]]
+
 *Lead-in:* नन्वविभाग एवासक्तौ निमित्तमित्यत्र किं प्रमाणम् ? -- इत्याशङ्क्याह - -
 
 > अविभागो हि निर्वृत्यै दृश्यतां तालपाठतः ॥

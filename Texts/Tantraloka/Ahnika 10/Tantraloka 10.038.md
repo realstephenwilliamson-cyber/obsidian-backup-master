@@ -33,6 +33,11 @@ mukhyo ṇyarthasya viṣayo jaḍeṣu tvaupacārikaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 318–319)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.38]]
+>
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.38 (2)]]
+
 *Lead-in:* अत्रैवोत्तरयति --
 
 > ...............उच्यते चेतनस्थितौ ।

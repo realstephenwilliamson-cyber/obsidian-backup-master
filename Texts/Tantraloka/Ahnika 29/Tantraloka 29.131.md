@@ -31,5 +31,8 @@ saṃpūjya madhyamapade kuleśayugmaṃ tvarātraye devīḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 321–322)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.130–132]]
+
 Jayaratha comments on this verse together with 29.132: see [[Tantraloka 29.132#Viveka|29.132]].
 

@@ -35,6 +35,9 @@ prāṇollāsanirodhābhyāṃ bījapiṇḍeṣu pūrṇatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 192–194)
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.141]]
+
 *Lead-in:* ननु समयानपेक्षमेव कथमेवमेते कुर्वन्ति ? -- इत्याशङ्क्याह --
 
 > वाच्याभावादुदासीनसंवित्स्पन्दात्स्वधामतः ।

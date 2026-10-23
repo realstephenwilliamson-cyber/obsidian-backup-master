@@ -31,6 +31,9 @@ ataḥ karmavipākajñaprabhuśaktibaleritam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 82)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.79–80]]
+
 *Lead-in:* ततः किम् ? -- इत्याशङ्क्याह --
 
 > अतः कर्मविपाकज्ञप्रभुशक्तिबलेरितम् ॥

@@ -35,6 +35,9 @@ ye mantrāḥ śuddhamārgasthāḥ śivabhaṭṭārakādayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 112)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.254–257]]
+
 > उक्तं श्रीपौष्करेऽन्ये च ब्रह्मविष्ण्वादयोऽण्डगाः ॥
 > प्राधानिकाः साञ्जनास्ते सात्त्वराजसतामसाः ।
 > तैरशुद्धपरामर्शात्तन्मयीभावितो गुरुः ॥

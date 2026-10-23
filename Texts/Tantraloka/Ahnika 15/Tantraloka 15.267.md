@@ -33,6 +33,11 @@ bhede vijṛmbhite māyā māyāmāturvijṛmbhate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 159–160)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.267]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.267–268]]
+
 *Lead-in:* ननु यदि एवं भेदेनैव अयमवभासते, तत् सदैव संसारः स्यात्, न तु कदाचिदपि कैवल्यम् ?--इत्याशङ्क्य आह--
 
 > भास्यमानोऽत्र चाभेदः स्वात्मनो भेद एव च ।

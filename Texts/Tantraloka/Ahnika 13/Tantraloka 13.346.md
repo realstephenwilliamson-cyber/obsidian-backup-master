@@ -33,6 +33,11 @@ lokādhyātmātimārgādikarmayogavidhānataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 337–338)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.345–346]]
+>
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.346–347]]
+
 *Lead-in:* ननु यथा वैष्णवादिभ्यः शैवादीनां गुरूणामेवमुत्कर्षः, तथैषामधरशासनस्थानामपि परस्परं किमस्ति न वा? -- इत्याशङ्क्याह --
 
 > लोकाध्यात्मातिमार्गादिकर्मयोगविधानतः ॥

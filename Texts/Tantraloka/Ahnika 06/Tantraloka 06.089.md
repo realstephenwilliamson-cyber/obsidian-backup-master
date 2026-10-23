@@ -36,6 +36,11 @@ dinarātrikramaṃ me śrīśaṃbhuritthamapaprathat |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 314–315)
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.88–89]]
+>
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.89–91]]
+
 *Lead-in:* अत एवान्यथान्यैर्यत्तद्विभजनं कृतं तदग्राह्यमेव -- इत्याह --
 
 Jayaratha comments on this verse together with 6.88: see [[Tantraloka 06.088#Viveka|6.88]].

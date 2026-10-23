@@ -37,6 +37,11 @@ tato māyālaye bhuktasamastasukhabhogakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 137–138)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.309–310]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.310–311]]
+
 *Lead-in:* मायालये वृत्ते पुनरस्य किं स्यात्?--इत्याशङ्क्याह--
 
 > ततो मायालये भुक्तसमस्तसुखभोगकः ॥

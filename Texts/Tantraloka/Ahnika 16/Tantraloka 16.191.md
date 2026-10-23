@@ -34,5 +34,8 @@ mantrāṇāṃ sakaletarasāṅganiraṅgādibhedasaṅkalanāt |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 83)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.191–193]]
+
 Jayaratha comments on this verse together with 16.192: see [[Tantraloka 16.192#Viveka|16.192]].
 

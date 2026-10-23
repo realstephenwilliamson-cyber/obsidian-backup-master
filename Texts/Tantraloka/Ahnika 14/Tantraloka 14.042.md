@@ -33,6 +33,11 @@ evaṃ sṛṣṭyādikartavyasvasvātantryopadeśanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 371–374)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.41–42]]
+>
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.42–45]]
+
 *Lead-in:* इत्याद्युक्तम् -- तस्मात्सृष्ट्यादिपञ्चविधकृत्यकारित्वाभिमान एव स्वात्मनि परं मुक्तावुपायः -- इत्याह --
 
 > एवं सृष्ट्यादिकर्तव्यस्वस्वातन्त्र्योपदेशनम् ॥

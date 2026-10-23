@@ -31,6 +31,9 @@ te'rdhanārīśapuragā guravaḥ samayacyutāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 338–339)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.97]]
+
 *Lead-in:* श्रीत्रिकसारोक्तमेव पठति--
 
 > अन्यायं ये प्रकुर्वन्ति शास्त्रार्थं वर्जयन्त्यलम् ।

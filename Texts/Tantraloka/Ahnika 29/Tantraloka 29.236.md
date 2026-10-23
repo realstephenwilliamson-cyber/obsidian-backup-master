@@ -31,6 +31,9 @@ kuryātsadyastathābhīṣṭaphaladaṃ vedhadīkṣaṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 377)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.236]]
+
 *Lead-in:* एवमभिषेकविधिमभिधाय, तत् पुरोद्दिष्टं वेधस्वरूपं निर्णेतुकामस्तद्दीक्षां वक्तुमुपक्रमते--
 
 > सद्य एव तु भोगेप्सोर्योगात्सिद्धतमो गुरुः ।

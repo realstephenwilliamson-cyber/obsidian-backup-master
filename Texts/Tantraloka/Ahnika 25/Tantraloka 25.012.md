@@ -33,6 +33,13 @@ janmaikyadivasau tena parvaṇī bodhasiddhitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 360–361)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 25.13–14.*
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.12]]
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.13–14]]
+
 *Lead-in:* पर्वशब्दस्य अत्र प्रवृत्तौ निमित्तमाह--
 
 > यदा हि बोधस्योद्रेकस्तदा पर्वाह पूरणात् ।

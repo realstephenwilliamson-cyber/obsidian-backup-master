@@ -33,6 +33,11 @@ vyāpakaṃ tata evoktaṃ sahetutvāttu na dhruvam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 261–262)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.280–281]]
+>
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.281–282]]
+
 *Lead-in:* तच्च सामान्यरूपत्वादेव अशेषविशेषान्वयात् व्यापि -- इत्याह --
 
 > व्यापकं तत एवोक्तं सहेतुत्वात्तु न ध्रुवम् ॥

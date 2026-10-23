@@ -33,6 +33,11 @@ uktaṃ ca parameśena na vidhirnārcanakramaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 99–100)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.155–156]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.156–157]]
+
 *Lead-in:* एतां दशामधिरूढस्य हि किञ्चिदपि साधनं नोपादेयम्—तदागम इत्याह--
 
 > उक्तं च परमेशेन न विधिर्नार्चनक्रमः ॥

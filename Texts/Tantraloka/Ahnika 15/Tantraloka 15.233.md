@@ -31,6 +31,9 @@ astraṃ dhyātvā tacchikhābhirbahirantardahettanum || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 141)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.233]]
+
 *Lead-in:* अनेन च दिक्स्वरूपानन्तरोद्दिष्टं देहप्राणादिशोधनमुपक्रान्तम् । तदेव आह--
 
 > अंगुष्ठाग्रात्कालवह्निज्वालाभास्वरमुत्थितम् ।

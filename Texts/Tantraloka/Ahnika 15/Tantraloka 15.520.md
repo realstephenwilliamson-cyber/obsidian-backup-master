@@ -34,6 +34,11 @@ adhītau śravaṇe nityaṃ pūjāyāṃ gurusevane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 316–317)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.519–520]]
+>
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.520–521]]
+
 *Lead-in:* ननु एवं संस्कृतत्वे अस्य किं स्यात्?--इत्याशङ्क्य आह--
 
 > अधीतौ श्रवणे नित्यं पूजायां गुरुसेवने ॥

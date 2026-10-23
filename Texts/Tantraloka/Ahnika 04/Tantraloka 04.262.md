@@ -34,6 +34,9 @@ samayādiniṣedhastu mataśāstreṣu kathyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 368–370)
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.261–263]]
+
 > समयाचारसद्भावः पाल्यत्वेनोपदिश्यते ॥
 > भेदप्राणतया तत्तत्त्यागात्तत्त्वविशुद्धये ।
 > समयादिनिषेधस्तु मतशास्त्रेषु कथ्यते ॥

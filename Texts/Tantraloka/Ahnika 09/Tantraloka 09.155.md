@@ -33,6 +33,11 @@ niruddhaśakteryā kiṃcitkartṛtodvalanātmikā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 136–137)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.154–155]]
+>
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.155–156]]
+
 *Lead-in:* एतदेवोपपादयति -
 
 > निरुद्धशक्तेर्या किंचित्कर्तृतोद्वलनात्मिका ॥

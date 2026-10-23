@@ -33,6 +33,11 @@ rudraśaktyā tu taṃ prokṣya devābhyāśe niveśayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 353–355)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.186–187]]
+>
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.187–191]]
+
 *Lead-in:* तदेव आह--
 
 Jayaratha comments on this verse together with 29.186: see [[Tantraloka 29.186#Viveka|29.186]].

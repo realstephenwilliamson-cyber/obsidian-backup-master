@@ -31,5 +31,8 @@ ataśca na phaletānte tābhyāṃ karmāntarāṇi ca || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 180–181)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.89–92]]
+
 Jayaratha comments on this verse together with 13.91: see [[Tantraloka 13.091#Viveka|13.91]].
 

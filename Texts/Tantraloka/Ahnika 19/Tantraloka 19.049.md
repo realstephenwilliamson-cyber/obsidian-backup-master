@@ -37,6 +37,11 @@ yato'sya pratyayaprāptiprepsoḥ samayinastathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 227–228)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.48–49]]
+>
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.49–50]]
+
 *Lead-in:* अत्रैव हेतुमाह--
 
 > यतोऽस्य प्रत्ययप्राप्तिपेर्प्सोः समयिनस्तथा ॥

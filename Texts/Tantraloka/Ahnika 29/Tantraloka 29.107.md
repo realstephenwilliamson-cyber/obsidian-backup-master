@@ -33,6 +33,11 @@ yāgaśca tarpaṇaṃ bāhye vikāsastacca kīrtyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 302)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.106–107]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.107]]
+
 *Lead-in:* इत्यादिनीत्या पूजोपयोगिनो द्रव्यजातस्य आनन्दसन्दोहित्वं लक्षणं सर्वत्र उक्तम् । इह पुनर्मुख्यचक्रादेः पूज्यस्यैव कथं तदुच्यते?-- इत्याशङ्क्य आह--
 
 > यागश्च तर्पणं बाह्ये विकासस्तच्च कीर्त्यते ॥

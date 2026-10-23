@@ -37,6 +37,11 @@ te puṃsi sarve tāṃstatra śodhayanmucyate bhavāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 300–303)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.293–294]]
+>
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.294–298]]
+
 *Lead-in:* एवमिहापि अनुक्तं यत्किञ्चित्पराच्छिवादन्यत् तत्सर्वं पाशतयैव ज्ञेयमित्याह -
 
 Jayaratha comments on this verse together with 8.297: see [[Tantraloka 08.297#Viveka|8.297]].

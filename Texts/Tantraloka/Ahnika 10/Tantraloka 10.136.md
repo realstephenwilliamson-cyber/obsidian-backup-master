@@ -31,5 +31,8 @@ līnaḥ prabuddho mantratvaṃ tadīśatvamathaiti vā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 380)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.135–137]]
+
 Jayaratha comments on this verse together with 10.137: see [[Tantraloka 10.137#Viveka|10.137]].
 

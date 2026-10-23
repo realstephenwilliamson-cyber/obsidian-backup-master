@@ -33,6 +33,11 @@ svasthatanoraparasya tu tā dehādhiṣṭhitaṃ vihāya yataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 305–306)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.111–112]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.112–113]]
+
 *Lead-in:* ननु एवं तत्तदर्थग्रहणकाले सर्वेषामविशेषेणैव मुख्यचक्रैकात्म्यं सेत्स्यतीति किमेतदुपदेशेन?--इत्याशङ्क्य आह--
 
 > स्वस्थतनोरपरस्य तु ता देहाधिष्ठितं विहाय यतः ॥

@@ -33,6 +33,11 @@ pramātā svakatādātmyabhāsitākhilavedyakaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 367–368)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.110–113]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.113–114]]
+
 *Lead-in:* ननु तस्मिन्नपि विज्ञेयतां प्राप्ते कः प्रमाता ? -- इत्याशङ्क्याह --
 
 > शिवः प्रमाता नो मेयो ह्यन्याधीनप्रकाशता ॥

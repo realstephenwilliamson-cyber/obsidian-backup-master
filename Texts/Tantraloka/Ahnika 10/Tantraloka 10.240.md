@@ -33,6 +33,11 @@ meyabhūmiriyaṃ mukhyā jāgradākhyānyadantarā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 447–448)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.239–240]]
+>
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.240]]
+
 *Lead-in:* एवमवस्थाचतुष्टयस्य परस्परं सङ्कीर्णत्वेऽपि "यो देहांशः"इत्यादिनोक्तं प्रमेयपदं मुख्या जाग्रदवस्था -- इत्याह --
 
 > मेयभूमिरियं मुख्या जाग्रदाख्यान्यदन्तरा ॥

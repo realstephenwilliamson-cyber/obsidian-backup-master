@@ -32,5 +32,8 @@ madhyatīvrātpunaḥ sarvamajñānaṃ vinivartate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 205)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.130–132]]
+
 Jayaratha comments on this verse together with 13.132: see [[Tantraloka 13.132#Viveka|13.132]].
 

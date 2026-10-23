@@ -35,5 +35,8 @@ gurudevāgniśāstreṣu ye na bhaktā narādhamāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 325)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.332–336]]
+
 Jayaratha comments on this verse together with 8.335: see [[Tantraloka 08.335#Viveka|8.335]].
 

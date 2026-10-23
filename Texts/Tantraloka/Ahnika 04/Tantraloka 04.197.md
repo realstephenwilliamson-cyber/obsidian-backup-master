@@ -34,6 +34,9 @@ anyākṛtyapahānena ghaṭamarthayate rasāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 301–302)
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.197–198]]
+
 *Lead-in:* ननु विश्वाकृतिचेच्चिद्धाम, तत् कथम् अस्याकारान्तराभासपरिहारेण नियताकारतयाभासः स्यात् ? -- इत्याशङ्क्याह -
 
 Jayaratha comments on this verse together with 4.198: see [[Tantraloka 04.198#Viveka|4.198]].

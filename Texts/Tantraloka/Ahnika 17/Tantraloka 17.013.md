@@ -36,6 +36,11 @@ ityūhamantrayogena tattatkarma pravartayet |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 145–146)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.11–13]]
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.13]]
+
 *Lead-in:* तारः प्रणवः । वर्णो मातृकायाः यथा धरायां क्षः । संबुद्धीति--धरे इत्यादि । उत्तमेति--आवाहयामीति । दीपकं नमः । नामेति--धरादेः । उचितेति--पूजादौ नमः, होमे स्वाहेत्यादि ॥ नन्वत्रावाहनोपक्रमं कस्मात्पूजाद्युक्तम्?--इत्याशङ्क्याह--
 
 > आवाहनानन्तरं हि कर्म सर्वं निगद्यते ॥

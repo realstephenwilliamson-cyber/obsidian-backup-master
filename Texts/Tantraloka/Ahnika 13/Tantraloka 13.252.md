@@ -31,6 +31,9 @@ tadaiva te vimuktāstu dīkṣitā guruṇā yataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 282–283)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.251–253]]
+
 > उक्तं नन्दिशिखातन्त्रे प्राच्यषट्के महेशिना ।
 > अभिलाषः शिवे देवे पशूनां भवते तदा ॥
 > यदा शैवाभिमानेन युक्ता वै परमाणवः ।

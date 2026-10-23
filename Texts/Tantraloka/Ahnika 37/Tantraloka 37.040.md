@@ -36,5 +36,8 @@ kaśmīrebhyaḥ paramatha puraṃ pūrṇavṛtterna tuṣṭyai || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 244)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.40]]
+
 Jayaratha comments on this verse together with 37.43: see [[Tantraloka 37.043#Viveka|37.43]].
 

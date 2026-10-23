@@ -36,6 +36,11 @@ yo'nuttaraḥ paraḥ spando yaścānandaḥ samucchalan || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 195–197)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.92–93]]
+>
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.93–94]]
+
 *Lead-in:* एतदेव दर्शयति --
 
 > योऽनुत्तरः परः स्पन्दो यश्चानन्दः समुच्छलन् ॥

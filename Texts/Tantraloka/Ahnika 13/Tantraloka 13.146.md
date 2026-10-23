@@ -31,6 +31,9 @@ yatprātibhādvā sarvaṃ cetyūce śeṣamahāmuniḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 214–215)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.146]]
+
 > श्रीसर्ववीरश्रीब्रह्मयामलादौ च तत्तथा ।
 > निरूपितं महेशेन कियद्वा लिख्यतामिदम् ॥
 > इत्थं प्रातिभविज्ञानं किं किं कस्य न साधयेत् ।

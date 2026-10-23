@@ -31,6 +31,9 @@ ekarūpā tatastritvaṃ yuktamantaḥkṛtau sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 227)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.238]]
+
 *Lead-in:* नन्वन्तारूपत्वाविशेषात् एकमेवान्तःकरणमस्तु, किमस्य त्रैविध्येन? -- इत्याशङ्क्याह --
 
 > अवसायोऽभिमानश्च कल्पना चेति न क्रिया ।

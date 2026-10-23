@@ -31,6 +31,9 @@ asvāpsaṃ sukhamityādismṛtivaicitryadarśanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 399)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.174]]
+
 *Lead-in:* ननु यदि सौषुप्तेऽपि निखिलवेद्यविलयात्मा तत्त्वविलयस्तन्नियतवेद्यानुभवसंस्कारलब्धजन्मनः स्मृतेस्तदा प्रबुद्धस्य कोऽवसरः ? -- इत्याशङ्क्याह --
 
 > सौषुप्तमपि चित्रं च स्वच्छास्वच्छादि भासते ।

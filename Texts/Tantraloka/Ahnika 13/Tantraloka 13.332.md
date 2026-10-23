@@ -31,6 +31,9 @@ yataśca mokṣadaḥ proktaḥ svabhyastajñānavānbudhaiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 331)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.332]]
+
 *Lead-in:* तदाह -
 
 > तेनोक्तं मालिनीतन्त्रे विचार्य ज्ञानयोगिते ।

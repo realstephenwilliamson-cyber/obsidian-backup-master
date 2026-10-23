@@ -34,6 +34,9 @@ kiñciccalanametāvadananyasphuraṇaṃ hi yat |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 284–285)
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.184]]
+
 *Lead-in:* ननु यद्येवं तद्बोधस्य किञ्चिच्चलनेन स्वस्वरूपप्रच्यावान्नित्यताहानिः स्यात्? इत्याशङ्क्याह --
 
 > किञ्चिच्चलनमेतावदनन्यस्फुरणं हि यत् ।

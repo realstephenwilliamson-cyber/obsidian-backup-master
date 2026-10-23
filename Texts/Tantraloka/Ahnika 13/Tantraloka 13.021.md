@@ -31,6 +31,9 @@ ajñānaṃ prāgabhāvo'sau na bhāvyutpattyasaṃbhavāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 135–136)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.20–21]]
+
 > कस्माज्ज्ञानं न भाव्यत्र ननु देहाद्यजन्मतः ।
 > तत्कस्मात्कर्मणः क्षैण्यात्तत्कुतोऽज्ञानहानितः ॥
 > अज्ञानस्य कथं हानिः प्रागभावे हि संविदः ।

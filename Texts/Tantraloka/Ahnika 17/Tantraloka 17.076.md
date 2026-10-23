@@ -36,6 +36,11 @@ yato'dhikārabhogākhyau dvau pāśau tu sadāśive || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 171–173)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.74–76]]
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.76–78]]
+
 *Lead-in:* नन्वत्राणवं मलं दहेदित्येव कस्मादुक्तं यद्भेदप्रथात्मा मायीयोऽपि मलोऽत्र संभाव्य एव?--इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 17.75: see [[Tantraloka 17.075#Viveka|17.75]].

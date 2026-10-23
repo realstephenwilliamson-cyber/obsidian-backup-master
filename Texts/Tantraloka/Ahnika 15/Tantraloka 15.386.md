@@ -32,5 +32,8 @@ ataḥ kumbhe mantragaṇaṃ sarvaṃ saṃpūjayed guruḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 239–240)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.385–388]]
+
 Jayaratha comments on this verse together with 15.387: see [[Tantraloka 15.387#Viveka|15.387]].
 

@@ -34,6 +34,9 @@ darpaṇaṃ kucakumbhābhyāṃ spṛśantyapi na tṛpyati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 71–72)
+> ![[Tantraloka Dyczkowski v02 04 - Chapter Three, part 1#Viveka on 3.6]]
+
 *Lead-in:* न चैतदसम्बद्धम् -- इत्यवधारयितुमत्र दृष्टान्तमाह --
 
 > प्रच्छन्नरागिणी कान्तप्रतिबिम्बितसुन्दरम् ।

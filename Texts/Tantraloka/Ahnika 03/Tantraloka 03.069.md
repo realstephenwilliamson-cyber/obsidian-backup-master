@@ -35,6 +35,9 @@ tatsāraṃ tacca hṛdayaṃ sa visargaḥ paraḥ prabhuḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 164–166)
+> ![[Tantraloka Dyczkowski v02 06 - Chapter Three, part 3#Viveka on 3.69–71]]
+
 *Lead-in:* अत एव सर्वशास्त्रेषु परमोपेयत्वेनोद्धोष्यते -- इत्याह --
 
 Jayaratha comments on this verse together with 3.70: see [[Tantraloka 03.070#Viveka|3.70]].

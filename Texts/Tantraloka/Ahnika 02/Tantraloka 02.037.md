@@ -35,6 +35,9 @@ na samayyādikācārya paryantaḥ ko'pi vibhramaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 45–46)
+> ![[Tantraloka Dyczkowski v02 03 - Chapter Two, part 2#Viveka on 2.36–37]]
+
 > एतेषां सुखदुःखांशशंकातङ्कविकल्पनाः ।
 > निर्विकल्पपरावेशमात्रशेषत्वमागताः ॥
 > एषां न मन्त्रो न ध्यानं न पूजा नापि कल्पना ।

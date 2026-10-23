@@ -37,6 +37,11 @@ nivṛttādhaḥsthakarmā hi brahmā tatrādhare dhiyaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 369–371)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.149–150]]
+>
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.150–151]]
+
 *Lead-in:* इत्याद्युक्त्या तस्य परशिवे लय उक्तस्तत्कथमसावास्ते ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 6.149: see [[Tantraloka 06.149#Viveka|6.149]].

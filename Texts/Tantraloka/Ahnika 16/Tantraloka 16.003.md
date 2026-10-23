@@ -34,6 +34,9 @@ cakrapañcakamākhyātaṃ śāstre śrīpūrvasaṃjñite || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 2)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.2–4]]
+
 *Lead-in:* सामुदायिकमेव यागं निरूपयति--
 
 Jayaratha comments on this verse together with 16.4: see [[Tantraloka 16.004#Viveka|16.4]].

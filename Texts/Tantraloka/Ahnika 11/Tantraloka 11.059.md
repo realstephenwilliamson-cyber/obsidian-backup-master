@@ -34,6 +34,9 @@ ataḥ pramāṇatārūpaṃ padamasmadgururjagau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 55–56)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.58–59]]
+
 > सङ्घट्टनं च क्रमिकं सञ्जल्पात्मकमेव तत् ॥
 > विकल्पस्य स्वकं रूपं भोगावेशमयं स्फुटम् ।
 > अतः प्रमाणतारूपं पदमस्मद्गुरुर्जगौ ॥

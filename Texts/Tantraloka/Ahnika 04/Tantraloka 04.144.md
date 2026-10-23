@@ -34,6 +34,9 @@ jvalannivāsau brahmādyairdṛśyate parameśvaraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 192–193)
+> ![[Tantraloka Dyczkowski v03 07 - Chapter Four, part 6#Viveka on 4.144]]
+
 *Lead-in:* नन्विन्द्रियादीनामेवंरूपत्वेनाभिहितेन कोऽर्थः ? -- इत्याशङ्क्याह --
 
 > इत्यजानन्नैव योगी जानन्विश्वप्रभुर्भवेत् ।

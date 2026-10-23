@@ -33,6 +33,11 @@ vicitraphalakarmaughavaśāttattaccharīrabhāk |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 97–98)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.217–218]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.218–219]]
+
 *Lead-in:* किं नाम च अस्य शरीरभाक्त्वमुच्येत ?--इत्याशङ्क्य आह--
 
 > शरीरभाक्त्वं चैतावद्यत्तद्गर्भस्थदेहगः ॥

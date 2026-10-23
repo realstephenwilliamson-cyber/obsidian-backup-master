@@ -31,6 +31,9 @@ jñānākalasya malataḥ kevalādbhogamātrataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 480–482)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.289–291]]
+
 > तत्राक्षवृत्तिमाश्रित्य बाह्याकारग्रहो हि यः ।
 > तज्जाग्रत्स्फुटमासीनमनुबन्धि पुनः पुनः ॥
 > आत्मसङ्कल्पनिर्माणं स्वप्नो जाग्रद्विपर्ययः ।

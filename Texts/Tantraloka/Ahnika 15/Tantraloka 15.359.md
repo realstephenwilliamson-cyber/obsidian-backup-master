@@ -31,5 +31,10 @@ mantracakraṃ tatra viśvaṃ jvahvansaṃpādayeddhutim || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 221–222)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 15.360.*
+>
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.360]]
+
 Jayaratha comments on this verse together with 15.360: see [[Tantraloka 15.360#Viveka|15.360]].
 

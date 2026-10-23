@@ -36,6 +36,11 @@ tenāyamatra vākyārtho vijñeyaṃ pronmiṣatsvayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 347–351)
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.173–174]]
+>
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.174–176]]
+
 *Lead-in:* इह पदार्थावगमपुरःसरीकारेण वाक्यार्थावगमः इति पदार्थयोजनानन्तरं वाक्यार्थमपि योजयितुमाह --
 
 Jayaratha comments on this verse together with 1.173: see [[Tantraloka 01.173#Viveka|1.173]].

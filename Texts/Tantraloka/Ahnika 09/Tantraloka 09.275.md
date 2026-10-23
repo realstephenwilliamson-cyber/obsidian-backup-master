@@ -33,6 +33,11 @@ kheṭapālāstu manyante karmendriyagaṇaḥ sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 255–258)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.273–275]]
+>
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.275–276]]
+
 *Lead-in:* सैद्धान्तिकास्तु नैतदनुमन्यन्ते, -- इत्याह --
 
 > खेटपालास्तु मन्यन्ते कर्मेन्द्रियगणः स्फुटम् ॥

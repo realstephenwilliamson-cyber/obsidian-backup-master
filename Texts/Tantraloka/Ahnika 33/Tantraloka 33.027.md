@@ -33,6 +33,11 @@ svarārdhamapyasti yataḥ svaritasyārdhamātrakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 180–182)
+> ![[Tantraloka Dyczkowski v11 07 - Chapter Thirty-Three#Viveka on 33.25–27]]
+>
+> ![[Tantraloka Dyczkowski v11 07 - Chapter Thirty-Three#Viveka on 33.27–28]]
+
 *Lead-in:* इत्युक्त्या व्यञ्जनानामर्धमात्रासहत्वं वक्तुं युज्यते, स्वराणां पुनरेकमात्रानुरूपतया नैवमिति कथमेकाशीतिकलोदयः ?-- इत्याशङ्क्य आह--
 
 > .......ऽर्धमात्रासहत्वतः ।

@@ -36,6 +36,11 @@ pṛthakpṛthaktattritayaṃ sūkṣmamityabhiśabdyate |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 371)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.245–246]]
+>
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.246]]
+
 *Lead-in:* एतदेव क्रमेणोदाहरति --
 
 > षड्जं करोमि मधुरं वादयामि ब्रुवे वचः ॥

@@ -292,18 +292,18 @@ from that which he loves.
 [^2]: *Vayiqra Rabbah* 1:8
 [^3]: *ḥaiy*
 [^4]: 18
-[^5]: *BT* Berakhot 28b
+[^5]: *BT* [[Berakhot 28#28b|Berakhot 28b]]
 [^6]: *lulav*
 [^7]: *Vayiqra Rabbah* 30:14
 [^8]: *Mishnah* Sukkah 3:1
-[^9]: *BT* Berakhot 30b
+[^9]: *BT* [[Berakhot 30#30b|Berakhot 30b]]
 [^10]: *ḥaiy’almin*
 [^11]: Yesod
 [^12]: 91
 [^13]: *barukh*
-[^14]: *BT* Berakhot 33a
-[^15]: *BT* Yoma 85b
-[^16]: *BT* Berakhot 12a
+[^14]: *BT* [[Berakhot 33#33a|Berakhot 33a]]
+[^15]: *BT* [[Yoma 85#85b|Yoma 85b]]
+[^16]: *BT* [[Berakhot 12#12a|Berakhot 12a]]
 [^17]: כ
 [^18]: blessed
 [^19]: ר
@@ -325,7 +325,7 @@ from that which he loves.
 [^35]: Yesod
 [^36]: *tzedeq*
 [^37]: Malkhut
-[^38]: *BT* Shabbat 10b
+[^38]: *BT* [[Shabbat 10#10b|Shabbat 10b]]
 [^39]: charity
 [^40]: צ
 [^41]: 90

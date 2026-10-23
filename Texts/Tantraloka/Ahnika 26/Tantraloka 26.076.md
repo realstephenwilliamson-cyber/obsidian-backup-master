@@ -36,6 +36,9 @@ uktaḥ sthaṇḍilayāgo'yaṃ nityakarmaṇi śambhunā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 398)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.75–76]]
+
 *Lead-in:* आह्निकार्थमेवोपसंहरति--
 
 > उक्तः स्थण्डिलयागोऽयं नित्यकर्मणि शम्भुना ॥

@@ -33,6 +33,11 @@ bhakṣyo haṃso na bhakṣyo'sāviti vipratipattiṣu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 108–109)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.173–174]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.174–175]]
+
 *Lead-in:* ननु पाशवे शासने शुद्ध्यशुद्ध्योर्विभाग उक्तः, इह तु तदविभाग इति किमनयोः कल्पयोर्युज्येत?--इत्याशङ्क्य आह--
 
 > भक्ष्यो हंसो न भक्ष्योऽसाविति विप्रतिपत्तिषु ॥

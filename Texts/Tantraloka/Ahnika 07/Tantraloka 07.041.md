@@ -34,6 +34,9 @@ padeṣu kṛtvā mantrajño japādau phalabhāgbhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 29–30)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.41]]
+
 *Lead-in:* श्रीयोगिनीकौलग्रन्थं पठति --
 
 > पदमन्त्राक्षरे चक्रे विभागं शक्तितत्त्वगम् ।

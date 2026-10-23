@@ -36,6 +36,11 @@ pañcāśadvidhatā cāsya samāveśasya varṇitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 364–366)
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.185–186]]
+>
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.186–187]]
+
 *Lead-in:* न केवलमस्य आवेशस्य त्रैविध्यमेव अस्ति, यावदवान्तरप्रकारत्वमपि -- इत्याह --
 
 > पञ्चाशद्विधता चास्य समावेशस्य वर्णिता ॥

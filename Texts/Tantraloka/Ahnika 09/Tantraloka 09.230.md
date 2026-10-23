@@ -31,6 +31,9 @@ prakāśe vedyakaluṣe yadahaṃmananātmatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 216–217)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.230]]
+
 *Lead-in:* एवं बुद्धेः करणरूपतां निरूप्य कारणरूपतामप्याह --
 
 > बुद्धेरहंकृत् तादृक्षे प्रतिबिम्बितपुंस्कृतेः ।

@@ -31,6 +31,9 @@ mantrādi(dhi)nāthatacchaktimantreśādyāḥ kramoditāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 426–427)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.210–211]]
+
 > अतो भेदसमुल्लासकलां प्राथमिकीं बुधाः ।
 > चिन्वन्ति प्रतिभां देवीं सर्वज्ञत्वादिसिद्धये ॥
 > सैव शक्तिः शिवस्योक्ता तृतीयादितुटिष्वथ ।

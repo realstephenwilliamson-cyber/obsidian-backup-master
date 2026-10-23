@@ -33,6 +33,11 @@ brahmaghno gurutalpastho vīradravyaharastathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 192–195)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.417–419]]
+>
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.419–423]]
+
 *Lead-in:* इत्यादि उक्तम् ॥ न केवलमेतदेव श्रीब्रह्मयामले कथितं यावदिदमपि- -इत्याह--
 
 Jayaratha comments on this verse together with 28.418: see [[Tantraloka 28.418#Viveka|28.418]].

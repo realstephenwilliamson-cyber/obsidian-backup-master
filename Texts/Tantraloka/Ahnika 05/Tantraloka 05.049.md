@@ -34,6 +34,9 @@ tadā khalu cidānando yo jaḍānupavṛṃhitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 47)
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.49]]
+
 *Lead-in:* ननु तत्र का नामास्य शान्तिरुच्यते ? -- इत्याशङ्क्याह --
 
 > निरुपाधिर्महाव्याप्तिर्व्यानाख्योपाधिवर्जिता ।

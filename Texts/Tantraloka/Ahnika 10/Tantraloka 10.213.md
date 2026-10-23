@@ -31,6 +31,9 @@ saṃvittau tuṭibāhulyādakṣārthāsaṃnikarṣavat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 427–428)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.213]]
+
 *Lead-in:* ननु शिवशक्तिरेव सर्वत्र सर्वेण रूपेण प्रस्फुरतीति तस्याः सर्वत्राविशेषादत्रापि सर्वज्ञत्वादिरूपैव सिद्धिः कस्मान्नोदियात्? -- इत्याशङ्क्याह --
 
 > अत एव यथा भेदबहुत्वं दूरता तथा ।

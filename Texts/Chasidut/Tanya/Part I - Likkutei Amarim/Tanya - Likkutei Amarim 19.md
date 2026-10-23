@@ -49,15 +49,15 @@ The force of the Divine light of the *En Sof*, blessed is He, that is clothed in
 This is called “fear that is contained in love,” the natural love of the divine soul that is found in all Jews, the intrinsic desire and will of which is to be attached to its origin and source in the light of the *En Sof*, blessed is He. For by virtue of this love and this desire, it instinctively recoils in fear and dread from touching even the fringe of the impurity of idolatry, Heaven forbid, which denies the faith in one G–d, even where such contact involves only its outer garments, namely, speech and act, without any faith whatsoever in the heart.
 
 [^1]: [[Proverbs 20#^20-27|Proverbs 20:27]].
-[^2]: *Yevamot* 61a.
+[^2]: [[Yevamot 61#61a|*Yevamot* 61a]].
 [^3]: This passage does not mean extinction of the soul, only its cessation as a distinct entity.
 [^4]: [[Proverbs 30#^30-15|Proverbs 30:15]].
 [^5]: [[Torah 06 - Toldot#^25-30|Genesis 25:30]].
-[^6]: *Berachot* 18b.
+[^6]: [[Berakhot 18#18b|*Berachot* 18b]].
 [^7]: [[Ecclesiastes 07#^7-12|Ecclesiastes 7:12]].
 [^8]: [[Job 04#^4-21|Job 4:21]].
 [^9]: Ch. 17.
-[^10]: *Sotah* 3a.
+[^10]: [[Sotah 3#3a|*Sotah* 3a]].
 [^11]: [[Psalms 078#^78-65|Psalms 78:65]].
 [^12]: *Bereishit Rabbah* 34:11.
 [^13]: [[Isaiah 40#^40-17|Isaiah 40:17]].

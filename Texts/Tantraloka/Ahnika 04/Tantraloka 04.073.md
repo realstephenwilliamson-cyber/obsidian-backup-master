@@ -36,6 +36,11 @@ tasya yo'kalpito bhāgaḥ sa tu śreṣṭhatamaḥ smṛtaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 89–90)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.72–73]]
+>
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.73–74]]
+
 *Lead-in:* ननु कल्पितस्य गुरोः क्वचिदंशे यद्यकल्पितत्त्वं भवेत् तावता किम् ? इत्याशङ्क्याह --
 
 > तस्य योऽकल्पितो भागः स तु श्रेष्ठतमः स्मृतः ॥

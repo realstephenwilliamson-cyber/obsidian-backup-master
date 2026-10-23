@@ -35,5 +35,8 @@ visphuliṅgāgnivannīlapītaraktādicitritam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 203–204)
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.148–150]]
+
 Jayaratha comments on this verse together with 5.150: see [[Tantraloka 05.150#Viveka|5.150]].
 

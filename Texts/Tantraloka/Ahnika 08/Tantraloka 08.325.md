@@ -35,6 +35,9 @@ asaṃkhyātaṃ niśāśaktisaṃjñaṃ tvekasvarūpakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 319)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.325]]
+
 *Lead-in:* ननु कारणस्यैक्येऽपि कार्यमनन्तमित्यत्र किं प्रमाणम् ? -- इत्याशङ्क्याह --
 
 > उक्तं श्रीपूर्वशास्त्रे च धराव्यक्तात्मकं द्वयम् ।

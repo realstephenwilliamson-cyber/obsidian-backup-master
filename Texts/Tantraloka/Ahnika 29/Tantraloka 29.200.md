@@ -31,6 +31,9 @@ siddhipātramiti śrīmadānandeśvara ucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 359–360)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.198–200]]
+
 > चर्वेव वा गुरुर्दद्याद्वामामृतपरिप्लुतम् ॥
 > निःशङ्कं ग्रहणाच्छक्तिगोत्रो मायोज्झितो भवेत् ।
 > सकम्पस्त्वाददानः स्यात् समयी वाचनादिषु ॥

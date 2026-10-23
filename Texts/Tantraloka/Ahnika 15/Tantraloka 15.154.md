@@ -33,6 +33,11 @@ vināpi jñānayogābhyāṃ kriyā nyāsārcanādikā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 98–99)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.153–154]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.154–155]]
+
 *Lead-in:* ननु क्रियामात्रादेव कथमेवं स्यात्?--इत्याशङ्क्य आह--
 
 > विनापि ज्ञानयोगाभ्यां क्रिया न्यासार्चनादिका ॥

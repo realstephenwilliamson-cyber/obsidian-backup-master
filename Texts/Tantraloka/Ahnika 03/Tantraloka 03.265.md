@@ -35,6 +35,11 @@ evaṃ kṛtyakriyāveśānnāmopāsābahutvataḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 390)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.265]]
+>
+> ![[Tantraloka Dyczkowski v02 12 - Chapter Three, part 9#Viveka on 3.265 (continued)]]
+
 *Lead-in:* नन्वासां चिदात्मनि परस्मिन्रूपे विश्रान्तत्वात् तदतिरिक्तस्यान्यस्याभावात् द्वादशविधं रूपं कुतस्त्यम् ? -- इत्याशङ्क्याह --
 
 > एवं कृत्यक्रियावेशान्नामोपासाबहुत्वतः ।

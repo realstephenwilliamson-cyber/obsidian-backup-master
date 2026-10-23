@@ -36,5 +36,10 @@ yena kenāpyupāyena gurumārādhya bhaktitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 87–89)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.69–70]]
+>
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.70–72]]
+
 Jayaratha comments on this verse together with 4.69: see [[Tantraloka 04.069#Viveka|4.69]].
 

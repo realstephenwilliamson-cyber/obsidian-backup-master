@@ -33,6 +33,11 @@ layākale tu saṃskāramātrātsatyapyasau bhidā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 376)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.128–129]]
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.129–130]]
+
 *Lead-in:* ननु प्रबुद्धसंस्काराः प्रलयाकला एव तथा तथा सकलीभवन्तीति सर्वत्रैवोक्तं, तत्तेषामेव यो भेदो नास्ति स कथं सकलानामपि स्यात् ? -- इत्याशङ्क्याह --
 
 > लयाकले तु संस्कारमात्रात्सत्यप्यसौ भिदा ॥

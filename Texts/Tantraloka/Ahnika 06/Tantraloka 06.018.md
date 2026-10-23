@@ -34,6 +34,9 @@ buddhaṃ kutaścitsaṃsūte vicitrāṃ phalasampadam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 233–234)
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.18]]
+
 *Lead-in:* तद्वासनाक्षये त्वेषां किं भवेत् ? -- इत्याशङ्क्याह --
 
 > तद्वासनाक्षये त्वेषामक्षीणं वासनान्तरम् ।

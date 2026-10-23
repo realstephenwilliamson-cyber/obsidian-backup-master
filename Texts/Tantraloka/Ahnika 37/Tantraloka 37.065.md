@@ -36,6 +36,9 @@ yogacyutaṃ prati mahāmunikṛṣṇavākyam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 258–259)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.65]]
+
 *Lead-in:* तमेव कतिपयं जनं निर्दिशति--
 
 Jayaratha comments on this verse together with 37.66: see [[Tantraloka 37.066#Viveka|37.66]].

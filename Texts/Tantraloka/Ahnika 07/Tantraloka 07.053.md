@@ -34,6 +34,9 @@ vyutthāya yāvadviśrāmyettāvaccārodayo hyayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 37)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.53]]
+
 *Lead-in:* ननु प्राणचारोदयानुसारं चक्राणामुदय इति स एव कीदृक् येन सोऽपि स्यात् ? -- इत्याशङ्क्याह --
 
 > निरुद्ध्य मानसीर्वृत्तीश्चक्रे विश्रान्तिमागतः ।

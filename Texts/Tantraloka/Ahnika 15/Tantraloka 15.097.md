@@ -33,6 +33,11 @@ bāhye tu tādṛśāntaḥsthayogamārgaviśāradāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 65–68)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.93–97]]
+>
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.97–98]]
+
 *Lead-in:* ननु यदि एवं स्वदेहायतनगेनैव भाव्यं किं तद्बाह्यस्य पीठादेर्वचनेन?--इत्याशङ्क्य आह—
 
 > बाह्ये तु तादृशान्तःस्थयोगमार्गविशारदाः ॥

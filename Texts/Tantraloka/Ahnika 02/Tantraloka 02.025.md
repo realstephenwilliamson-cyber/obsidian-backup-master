@@ -35,5 +35,8 @@ na pūjyaḥ pūjakābhāvātpūjyābhāvānna pūjakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 33–34)
+> ![[Tantraloka Dyczkowski v02 03 - Chapter Two, part 2#Viveka on 2.24–26]]
+
 Jayaratha comments on this verse together with 2.26: see [[Tantraloka 02.026#Viveka|2.26]].
 

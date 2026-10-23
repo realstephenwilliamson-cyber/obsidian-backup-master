@@ -31,6 +31,9 @@ puṣṇansvaṃ rūpameva syānmalakarmādivarjitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 288–289)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.264–265]]
+
 > तेषां भोगोत्कता कस्मादिति चेद्दत्तमुत्तरम् ।
 > चित्राकारप्रकाशोऽयं स्वतन्त्रः परमेश्वरः ॥
 > स्वातन्त्र्यात्तु तिरोभावबन्धो भोगेऽस्य भोक्तृताम् ।

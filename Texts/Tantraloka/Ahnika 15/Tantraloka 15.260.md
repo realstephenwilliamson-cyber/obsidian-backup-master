@@ -31,6 +31,9 @@ evaṃ ṣoḍhāmahānyāse kṛte viśvamidaṃ haṭhāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 157)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.259–261]]
+
 > पञ्चावस्था जाग्रदाद्याः षष्ठ्यनुत्तरनामिका ॥
 > षट्कारणषडात्मत्वात्षटित्रशत्तत्त्वयोजनम् ।
 > एवं षोढामहान्यासे कृते विश्वमिदं हठात् ॥

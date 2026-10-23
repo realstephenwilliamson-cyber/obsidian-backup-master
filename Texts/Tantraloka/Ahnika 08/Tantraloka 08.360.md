@@ -35,5 +35,8 @@ mānāvṛteḥ suśuddhāvṛtpuratritayaśobhitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 348–349)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.359–361]]
+
 Jayaratha comments on this verse together with 8.367: see [[Tantraloka 08.367#Viveka|8.367]].
 

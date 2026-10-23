@@ -34,6 +34,9 @@ sarvāśaṅkāśaniṃ mārgaṃ numo māheśvaraṃ tviti || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 119)
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.25]]
+
 *Lead-in:* न केवलमेतत्स्वतः शास्त्रतश्च सिद्धं यावद्गुरुतोऽपि -- इत्याह --
 
 > उवाचोत्पलदेवश्च श्रीमानस्मद्गुरोर्गुरुः ।

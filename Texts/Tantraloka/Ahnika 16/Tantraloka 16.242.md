@@ -35,6 +35,9 @@ bhogyajñānaṃ nānyadeheṣvanusandhānamarhati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 106)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.242]]
+
 *Lead-in:* इन्द्रियाणां च नियतवृत्ति ज्ञानमिति कुतस्तदुल्लङ्घनेनापि देहान्तरादौ मनोऽनुसन्दध्यादत एवाह--
 
 > प्रदेशवृत्ति च ज्ञानमात्मनस्तत्र तत्र तत् ।

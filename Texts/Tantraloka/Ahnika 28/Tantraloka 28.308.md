@@ -31,6 +31,9 @@ sukhiduḥkhivimūḍhatve, mṛtāvapi tathā na sā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 132–133)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.308]]
+
 *Lead-in:* ननु किं न ज्ञानिनां मृतौ विचारः, यत्तेऽपि तदा पामरवत् देहादिमया एव किं न वा?--इत्याशङ्क्य दृष्टान्तगर्भमाह--
 
 > यथाहि जीवन्मुक्तानां स्थितौ नास्ति विचारणा ।

@@ -31,5 +31,8 @@ prayāgo varaṇā paścādaṭṭahāso jayantikā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 63)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.89–91]]
+
 Jayaratha comments on this verse together with 15.96: see [[Tantraloka 15.096#Viveka|15.96]].
 

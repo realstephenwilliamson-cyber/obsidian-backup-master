@@ -33,6 +33,11 @@ malaścāvaraṇaṃ tacca nāvāryasya viśeṣakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 73–77)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.70–71]]
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.71–73]]
+
 *Lead-in:* तदाह -
 
 Jayaratha comments on this verse together with 9.70: see [[Tantraloka 09.070#Viveka|9.70]].

@@ -30,6 +30,9 @@ atha śāmbhavaśāsanoditāṃ sarahasyāṃ śṛṇutāntyasaṃskriyām || ^
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 342)
+> ![[Tantraloka Dyczkowski v09 15 - Chapter Twenty-Four#Viveka on 24.1]]
+
 *Lead-in:* इदानीं द्वितीयार्धेन अन्त्येष्टिविधिमभिधातुमुपक्रमते--
 
 > अथ शाम्भवशासनोदितां सरहस्यां शृणुतान्त्यसंस्क्रियाम् ॥

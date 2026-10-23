@@ -34,6 +34,9 @@ sadāśivādayastūrdhvavyāptyabhāvādadhojuṣaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 386)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.208–209]]
+
 > तेन पूर्णस्वभावत्वं प्रकाशत्वं चिदात्मता ।
 > भैरवत्वं विश्वशक्तीराक्षिपेद्व्यापकत्वतः ॥
 > सदाशिवादयस्तूर्ध्वव्याप्त्यभावादधोजुषः ।

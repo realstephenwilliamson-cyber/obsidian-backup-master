@@ -34,6 +34,9 @@ purobhāvya svayaṃ tiṣṭheduktavaddīkṣitastu saḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 306–307)
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.203]]
+
 *Lead-in:* न केवलमेतत् परस्वरूपावेशकारित्वादात्मन्येवोपयोगि, यावत्परत्रापि, इत्याह --
 
 > यं कञ्चित्परमेशानशक्तिपातपवित्रितम् ।

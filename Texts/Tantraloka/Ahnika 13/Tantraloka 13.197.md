@@ -31,6 +31,9 @@ jñānaṃ mukhyaṃ svopalabdhi vikalpārṇavatāraṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 245–247)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.197–198]]
+
 *Lead-in:* एतच्च न केवलमत्रैवोक्तम्, यावदन्यत्रापि -- इत्याह --
 
 Jayaratha comments on this verse together with 13.198: see [[Tantraloka 13.198#Viveka|13.198]].

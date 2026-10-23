@@ -31,6 +31,9 @@ duṣṭā hi durācārāḥ paśutulyāḥ parva ye na viduḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 34)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.58–59]]
+
 > न च काम्यमेव केवलमेतत्परिवर्जने यतः कथितः ॥
 > समयविलोपः श्रीमद्भैरवकुल ऊर्मिशास्त्रे च ।
 > दुष्टा हि दुराचाराः पशुतुल्याः पर्व ये न विदुः ॥

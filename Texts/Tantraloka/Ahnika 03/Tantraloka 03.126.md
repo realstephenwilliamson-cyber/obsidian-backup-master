@@ -37,6 +37,11 @@ ajña eva yato jñātānubhavātmā na rūpataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 231–234)
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.125–126]]
+>
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.126–127]]
+
 *Lead-in:* ननु प्रमासंबन्धात् प्रमाता उच्यते, प्रमा च व्यतिरिक्तज्ञेयविषयात्प्रमाणाद्भवति इति व्यतिरिक्तं ज्ञेयादि परिहृत्य कथमस्य ज्ञातृत्वं स्यात् ? -- इत्याशङ्क्याह --
 
 > अज्ञ एव यतो ज्ञातानुभवात्मा न रूपतः ॥

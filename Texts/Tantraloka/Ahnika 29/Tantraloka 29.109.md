@@ -33,6 +33,11 @@ itthaṃ svocitavastvaṃśairanucakreṣu tarpaṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 303–304)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.108–109]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.109–110]]
+
 *Lead-in:* एवं मुख्यचक्रैकात्म्यमाप्तुमनुचक्रेषु तर्पणं कार्यम्--इत्याह--
 
 > इत्थं स्वोचितवस्त्वंशैरनुचक्रेषु तर्पणम् ॥

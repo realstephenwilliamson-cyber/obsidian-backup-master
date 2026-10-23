@@ -31,5 +31,10 @@ kuryāttato na vrajeyuranyasthānaṃ kadācana || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 84–86)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 28.185–186.*
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.185–186]]
+
 Jayaratha comments on this verse together with 28.185: see [[Tantraloka 28.185#Viveka|28.185]].
 

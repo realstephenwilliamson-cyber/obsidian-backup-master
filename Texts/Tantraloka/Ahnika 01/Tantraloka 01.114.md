@@ -35,6 +35,9 @@ catuṣṣaḍdvirdvigaṇanāyogāttraiśirase mate |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 278–279)
+> ![[Tantraloka Dyczkowski v01 08 - Chapter One, part 7#Viveka on 1.114]]
+
 *Lead-in:* तदेव दर्शयति—
 
 > चतुष्षड्द्विर्द्विगणनायोगात्त्रैशिरसे मते ।

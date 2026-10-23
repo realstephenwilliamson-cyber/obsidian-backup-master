@@ -37,6 +37,11 @@ ucchalatsaṃvidāmātraviśrāntyāsvādayoginaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 57–59)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.62–63]]
+>
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.63–65]]
+
 *Lead-in:* तदेवाह -
 
 Jayaratha comments on this verse together with 11.62: see [[Tantraloka 11.062#Viveka|11.62]].

@@ -36,6 +36,11 @@ tataḥ pūrṇasvabhāvatvaṃ tadrūpodrekayogataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 149)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.16–17]]
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.17–18]]
+
 *Lead-in:* एतदेवोपपादयति--
 
 > ततः पूर्णस्वभावत्वं तद्रूपोद्रेकयोगतः ॥

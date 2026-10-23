@@ -36,6 +36,11 @@ evaṃ ṣaḍvidhamadhvānaṃ śodhyaśiṣyatanau purā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 67–69)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.147–150]]
+>
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.150–151]]
+
 *Lead-in:* एवं शोध्यवैचित्र्यमुपसंहरन् शोधकवैचित्र्यमभिधातुमाह--
 
 > एवं षड्वधमध्वानं शोध्यशिष्यतनौ पुरा ॥

@@ -36,6 +36,11 @@ tatra viśrāntirādheyā hṛdayoccārayogataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 48–54)
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.50–52]]
+>
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.52]]
+
 *Lead-in:* नचैतदुपदेशमात्रादेव विरन्तव्यम् -- इत्याह --
 
 > तत्र विश्रान्तिराधेया हृदयोच्चारयोगतः ॥

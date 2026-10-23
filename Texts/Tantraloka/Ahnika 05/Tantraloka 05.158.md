@@ -38,6 +38,9 @@ mṛtadeha iveyaṃ syād bāhyāntaḥparikalpanā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 208–209)
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.158]]
+
 *Lead-in:* ननु यद्येवं तत् किमनेनैव क्रमेणोपेयप्राप्तिर्भवेदुतान्यथापि ? -- इत्याशङ्क्याह --
 
 > लङ्घनेन परो योगी मन्दबुद्धिः क्रमेण तु ।

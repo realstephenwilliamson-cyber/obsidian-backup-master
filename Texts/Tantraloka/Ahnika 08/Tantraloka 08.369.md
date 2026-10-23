@@ -35,5 +35,8 @@ sakalākalaśūnyaiḥ saha kalāḍhyakhamalaṅkṛte kṣapaṇamantyam || ^i
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 354)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.368–373]]
+
 Jayaratha comments on this verse together with 8.372: see [[Tantraloka 08.372#Viveka|8.372]].
 

@@ -32,6 +32,9 @@ recakastho madhyanāḍīsandhivid gururityadaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 267–268)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.432–436]]
+
 > स्वाभाविकं स्थिरं चैव द्रवं दीप्तं चलं नभः ।
 > माया बिन्दुस्तथैवात्मा नादः शक्तिः शिवस्तथा ॥
 > इत्थं व्याप्यव्यापकतो विभेद्याभ्यन्तरान्तरम् ।

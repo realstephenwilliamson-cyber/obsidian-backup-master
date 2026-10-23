@@ -31,6 +31,9 @@ svakīyājñāṃ ca vitaret svakriyākaraṇaṃ prati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 375–376)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.231–232]]
+
 > तात्पर्यमस्य पादस्य स सिद्धीः संप्रयच्छति ।
 > गुरुर्यः साधकः प्राक्स्यादन्यो मोक्षं ददात्यलम् ॥
 > अनयोः कथयेज्ज्ञानं त्रिविधं सर्वमप्यलम् ।

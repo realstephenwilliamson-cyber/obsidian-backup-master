@@ -34,6 +34,9 @@ upāyāntarasāpekṣastatroktaḥ pūrvako vidhiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 3–5)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.3–4]]
+
 > विकल्पः कस्यचित्स्वात्मस्वातन्त्र्यादेव सुस्थिरः ।
 > उपायान्तरसापेक्ष्यवियोगेनैव जायते ॥
 > कस्यचित्तु विकल्पोऽसौ स्वात्मसंस्करणं प्रति ।

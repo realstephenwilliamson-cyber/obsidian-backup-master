@@ -31,6 +31,9 @@ evaṃ mantrā mokṣadāḥ syurdīptā buddhāḥ sunirmalāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 314–315)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.35–36]]
+
 > यावच्छान्तशिखाकीर्णं विश्वाज्यप्रविलापकम् ॥
 > तदाज्यधारासंतृप्तमानाभिकुहरान्तरम् ।
 > एवं मन्त्रा मोक्षदाः स्युर्दीप्ता बुद्धाः सुनिर्मलाः ॥

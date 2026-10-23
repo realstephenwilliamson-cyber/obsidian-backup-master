@@ -33,5 +33,12 @@ brahmasūtradvayasyātha madhyaṃ brahmapadaṃ sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 71–73)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 31.14–15.*
+>
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.10–11]]
+>
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.14–15]]
+
 Jayaratha comments on this verse together with 31.10: see [[Tantraloka 31.010#Viveka|31.10]].
 

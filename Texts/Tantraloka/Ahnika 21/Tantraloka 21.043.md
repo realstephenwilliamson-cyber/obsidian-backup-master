@@ -34,5 +34,8 @@ tasyāṃ darbhākṛtiprāyakalpane jālayogataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 269)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.42–44]]
+
 Jayaratha comments on this verse together with 21.44: see [[Tantraloka 21.044#Viveka|21.44]].
 

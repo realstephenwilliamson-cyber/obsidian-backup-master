@@ -33,6 +33,11 @@ udbhūtāśuddhacidrāgakalādirasakañcukāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 359–360)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.98–99]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.98–100]]
+
 *Lead-in:* तदाह -
 
 Jayaratha comments on this verse together with 10.98: see [[Tantraloka 10.098#Viveka|10.98]].

@@ -34,6 +34,9 @@ tattvādhvaivāyamitthaṃ ca na ṣaḍadhvasthiteḥ kṣatiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 35–36)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.36]]
+
 *Lead-in:* ननु पृथिव्यादेस्तत्त्वपञ्चकस्याखिलतत्त्वव्यापकत्वेनाभिधानात् तत्त्वाध्वरूपत्वमेव -- इति नास्ति विमतिः, त्रित्त्वादेः पुनः कलादिवत्किमध्वान्तरत्वमुत तत्त्वाध्वत्वमेव? -- इत्याशङ्क्याह --
 
 > इमौ भेदावुभौ तत्त्वभेदमात्रकृताविति ।

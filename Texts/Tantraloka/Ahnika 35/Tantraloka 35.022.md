@@ -33,6 +33,11 @@ evaṃ bhāviśivatvo'mūṃ prasiddhiṃ manyate dhruvam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 202–203)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.21–22]]
+>
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.22]]
+
 *Lead-in:* ननु यदि एवं तत् कथं शैवमेव आगमं सन्तः समुपजीवन्तीत्युक्तम्?--इत्याशङ्क्य आह--
 
 > एवं भाविशिवत्वोऽमूं प्रसिद्धिं मन्यते ध्रुवम् ॥

@@ -34,6 +34,9 @@ kṛtyopādhivaśādbhinnaṃ ṣoḍhābhinnaṃ tu vastutaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 37–38)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.78–80]]
+
 > गुरुत्वेन त्वयैवाहमाज्ञातः परमेश्वर ।
 > साक्षात्स्वप्नोपदेशाद्यैर्जपैर्गुरुमुखेन वा ॥
 > अनुग्राह्यास्त्वया शिष्याः शिवशक्तिप्रचोदिताः ।

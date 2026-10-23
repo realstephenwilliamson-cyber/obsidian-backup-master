@@ -34,6 +34,9 @@ iti kecinmanyante yuktaṃ taccāpi yatsmṛtaṃ śāstre || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 87)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.201–203]]
+
 > संस्कारशेषवर्तनजीवितमध्येऽस्य समयलोपाद्यम् ॥
 > नायाति विघ्नजालं क्रियाबहुत्वं मुमुक्षोस्तत् ।
 > यस्मात् सबीजदीक्षा संस्कृतपुरुषस्य समयलोपाद्ये ॥

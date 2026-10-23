@@ -33,6 +33,11 @@ tādṛgeva śiśuḥ kiṃ hi dahatyagnyupacārataḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 325–326)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.48–49]]
+>
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.49–50]]
+
 > शिशौ वह्न्युपचारे यद् बीजं तैक्ष्ण्यादि तच्च सत् ॥
 > प्रकाशत्वोपचारे तु किं बीजं यत्र सत्यता ।
 

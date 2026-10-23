@@ -35,6 +35,9 @@ tatsvātantryabalādeva śāstreṣu paribhāṣitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 270)
+> ![[Tantraloka Dyczkowski v01 08 - Chapter One, part 7#Viveka on 1.109]]
+
 *Lead-in:* ननु कथमेतद्युक्तम्, यतोऽत्र संख्यायाः तत्र तत्र न्यूनत्वमाधिक्यं च सम्भवति? इत्याशङ्क्याह—
 
 > तासामपि च भेदांशन्यूनाधिक्यादियोजनम् ।

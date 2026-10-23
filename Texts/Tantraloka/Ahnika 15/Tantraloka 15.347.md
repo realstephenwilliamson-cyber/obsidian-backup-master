@@ -33,6 +33,11 @@ saṅkarṣiṇīti kathitā mātṛṣveteṣu sadbhāvaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 214–215)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.347]]
+>
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.347–348]]
+
 *Lead-in:* न केवलमियं भेदावच्छेदनात्मनः कालस्य ग्रसिष्णुतया एवमुक्ता यावत् बहिःसङ्कर्षणादपि--इत्याह--
 
 > सैव च भूयः स्वस्मात्सङ्कर्षति कालमिह बहिष्कुरुते ।

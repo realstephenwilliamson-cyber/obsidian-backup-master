@@ -31,6 +31,9 @@ acittvādajñatā bhedo bhogyādbhoktrantarādatha || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 125–126)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.145–146]]
+
 > चिद्रूपत्वाच्च स व्यापी निर्गुणो निष्क्रियस्ततः ॥
 > भोगोपायेप्सुको नित्यो मूर्तिवन्ध्यः प्रभाष्यते ।
 > अचित्त्वादज्ञता भेदो भोग्याद्भोक्त्रन्तरादथ ॥

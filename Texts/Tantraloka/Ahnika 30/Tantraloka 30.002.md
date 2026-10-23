@@ -33,6 +33,11 @@ svatantrasyaiva ciddhāmnaḥ svātantryāt kartṛtāmayāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 2)
+> ![[Tantraloka Dyczkowski v11 02 - Chapter Thirty, part 1#Viveka on 30.2]]
+>
+> ![[Tantraloka Dyczkowski v11 02 - Chapter Thirty, part 1#Viveka on 30.2 (2)]]
+
 *Lead-in:* ननु कथमनेन तत् स्यात् ?--इत्याशङ्क्य आह--
 
 > प्रतिबुद्धा हि ते मन्त्रा विमर्शैकस्वभावकाः ।

@@ -33,6 +33,11 @@ karmasāmyaṃ svarūpeṇa na ca tattāratamyabhāk || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 181–182)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.93–94]]
+>
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.94–95]]
+
 *Lead-in:* ननु कर्मसाम्यमपेक्ष्य परमेश्वरः शक्तिपातं कुर्यादित्युक्तम्, न च तदुभयमपि स्वयमविचित्रत्वात् तीव्रमध्यमन्दादिभेदभिन्ने शक्तिपातवैचित्र्ये निमित्तं भवितुमर्हति -- इत्याह --
 
 > कर्मसाम्यं स्वरूपेण न च तत्तारतम्यभाक् ॥

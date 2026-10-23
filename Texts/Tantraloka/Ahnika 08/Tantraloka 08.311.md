@@ -35,6 +35,9 @@ yonibilānyekasmiṃstadvanmāyāśiraḥsāle || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 312)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.310–313]]
+
 *Lead-in:* एतदेव दृष्टान्तोपदर्शनेन द्रढयति --
 
 Jayaratha comments on this verse together with 8.312: see [[Tantraloka 08.312#Viveka|8.312]].

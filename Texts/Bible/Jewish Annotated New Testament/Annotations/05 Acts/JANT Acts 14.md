@@ -40,7 +40,7 @@ Text: [[NRSVue Acts 14|NRSVue]] · [[Acts 14|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Acts 14#^14-15|15]]:** *Worthless things*, idols ([[Psalms 096#^96-5|Ps 96.5]]; [[Psalms 097#^97-7|97.7]]; [[Isaiah 57#^57-13|Isa 57.13]]; [[LXX Wisdom of Solomon 13#^13-10|Wis 13.10–19]]). *To the living God*, rejecting idols required turning to the true God. ^14-15
 
-**[[NRSVue Acts 14#^14-16|16]]:** *Follow their own ways*, Jews could accept the use of idols by Gentiles (Philo, *Spec*. *Laws* 1.53; *Life of Moses* 2.205; Josephus, *Ant.* 4.207; *Ag. Ap.* 2.237), and legitimize that use by describing it as ancestral customs (*b. Hul.* 13b). ^14-16
+**[[NRSVue Acts 14#^14-16|16]]:** *Follow their own ways*, Jews could accept the use of idols by Gentiles (Philo, *Spec*. *Laws* 1.53; *Life of Moses* 2.205; Josephus, *Ant.* 4.207; *Ag. Ap.* 2.237), and legitimize that use by describing it as ancestral customs ([[Chullin 13#13b|*b. Hul.* 13b]]). ^14-16
 
 **[[NRSVue Acts 14#^14-17|17]]:** *Rains . . . fruitful seasons*, God can be known through the natural world ([[Jeremiah 05#^5-24|Jer 5.24]]; [[Hosea 06#^6-3|Hos 6.3]]; [[Psalms 147#^147-8|Ps 147.8]]; Philo, *Leg. all.* 3.97–103; *Rewards* 41–42; *Spec. Laws* 3.189; *m. Ber.* 9.2; *Gen. Rab.* 39.1). ^14-17
 

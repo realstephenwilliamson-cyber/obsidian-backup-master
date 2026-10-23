@@ -35,6 +35,9 @@ aliases:
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 40–42)
+> ![[Tantraloka Dyczkowski v02 03 - Chapter Two, part 2#Viveka on 2.32]]
+
 > शतोऽवश्यं परमसत्सच्च तस्मात्परं विभो ।
 
 त्वं चासतः सतश्चान्यस्तेनासि सदसन्मयः ॥"

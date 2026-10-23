@@ -33,6 +33,11 @@ prāgvāsanopajīvī cedvimarśaḥ sā ca vāsanā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 194–196)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.8–9]]
+>
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.9–10]]
+
 *Lead-in:* ननु भवतु नाम विमर्शरूपप्राग्वासनापरिकल्पितश्चेतःप्रसादः, तावता तु प्रसिद्धेः कोऽवकाशः?--इत्याशङ्क्य आह--
 
 > प्राग्वासनोपजीवी चेद्विमर्शः सा च वासना ॥

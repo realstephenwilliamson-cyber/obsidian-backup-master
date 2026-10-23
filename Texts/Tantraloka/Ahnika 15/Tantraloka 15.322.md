@@ -31,6 +31,9 @@ paratvena parāmūrdhve gandhapuṣpādibhistviti || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 193–195)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.322–323]]
+
 *Lead-in:* तत्रत्यमेव ग्रन्थमर्थद्वारेण पठति--
 
 > सदाशिवं महापेर्तं मूर्तिं सार्धाक्षरां यजेत् ।

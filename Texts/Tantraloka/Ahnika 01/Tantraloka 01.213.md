@@ -34,6 +34,9 @@ evaṃ parecchāśaktyaṃśasadupāyamimaṃ viduḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 389–392)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.213]]
+
 *Lead-in:* एतदेव उपसंहरति --
 
 > एवं परेच्छाशक्त्यंशसदुपायमिमं विदुः ।

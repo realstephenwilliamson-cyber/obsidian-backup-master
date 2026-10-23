@@ -101,7 +101,7 @@ And each power and grade [of the life-force] can create beings according to its 
 [^27]: Brackets are the author’s.
 [^28]: I.e., the Unity of G–d and His knowledge.
 [^29]: See above, ch. 2, note 13.
-[^30]: *Shabbat* 97a. Faith is a legacy from the Patriarchs and comes naturally to their children.
+[^30]: [[Shabbat 97#97a|*Shabbat* 97a]]. Faith is a legacy from the Patriarchs and comes naturally to their children.
 [^31]: Hence it is contradictory to assert that He is absent from a place where His knowledge and providence function.
 [^32]: Fire, air, water, and dust, the basic elements of which all created things are composed.
 [^33]: *Zohar* III:225a.
@@ -111,7 +111,7 @@ And each power and grade [of the life-force] can create beings according to its 
 [^37]: [[Isaiah 55#^55-8|Isaiah 55:8]].
 [^38]: Cf. *Likkutei Amarim*, Part I, ch. 48.
 [^39]: See Maimonides, *Hilchot Yesodei HaTorah* 3:8; Introduction to his Commentary on *Mishnayot*. As to the seeming contradiction between this view and that of present-day astronomy that the sun is 5/4 million or more times greater than the earth, the Lubavitcher Rebbe, Rabbi Menachem M. Schneerson, has explained as follows: The view of astronomy applies to the *volume* of the sun and that of Maimonides to its *diameter*. The diameter of the sun, based on present-day astronomy, is about 110 times that of the earth (not 170), but this measurement takes into consideration only specific layers of the sun and not all of them. For the outermost layers of the sun contract and expand greatly from time to time, and not all the layers are visible to the eye (only their effects are visible). Hence, it is difficult to measure them. Likewise, the protuberance is not taken into account. It has been measured and found that the sun has expanded to the extent that its diameter was more than 170 times the diameter of the earth and later contracted (*Igrot Kodesh*, vol. 22, p. 261 ff; *Lessons in Tanya*, vol. 3, p. 931).
-[^40]: *Chagigah* 13a.
+[^40]: [[Chagigah 13#13a|*Chagigah* 13a]].
 [^41]: *Tikkunei Zohar*, Introduction.
 [^42]: [[Psalms 033#^33-9|Psalms 33:9]].
 [^43]: Ibid. 89:3.

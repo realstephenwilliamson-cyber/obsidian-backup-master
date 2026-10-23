@@ -37,6 +37,11 @@ prameyamānamātṝṇāṃ yadrūpamupari sthitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 57)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.60–62]]
+>
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.62–63]]
+
 *Lead-in:* एवं प्रमातृप्रमाणप्रमेयानन्तरं तत्संबन्धनिबन्धनं प्रमाणफलरूपम् वर्णाध्वानं वक्तुमुपक्रमते --
 
 > प्रमेयमानमातॄणां यद्रूपमुपरि स्थितम् ॥

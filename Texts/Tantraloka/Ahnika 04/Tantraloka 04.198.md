@@ -34,6 +34,9 @@ kācidevākṛtiḥ kāñcit sūte phalavikalpanām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 301–302)
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.197–198]]
+
 > यथा ह्यभेदात्पूर्णेऽपि भावे जलमुपाहरन् ।
 > अन्याकृत्यपहानेन घटमर्थयते रसात् ॥
 > तथैव परमेशाननियतिप्रविजृम्भणात् ।

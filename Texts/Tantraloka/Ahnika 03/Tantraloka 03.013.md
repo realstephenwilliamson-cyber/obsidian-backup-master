@@ -34,6 +34,9 @@ tenaiva tejasā jñatve ko'rthaḥ syāddarpaṇena tu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 78–80)
+> ![[Tantraloka Dyczkowski v02 04 - Chapter Three, part 1#Viveka on 3.13]]
+
 *Lead-in:* तदेवाह—
 
 > देहादन्यत्र यत्तेजस्तदधिष्ठातुरात्मनः ।

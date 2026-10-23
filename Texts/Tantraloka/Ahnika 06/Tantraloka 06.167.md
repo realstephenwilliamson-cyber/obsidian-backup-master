@@ -35,6 +35,9 @@ tuṭyādikaṃ parārdhāntaṃ sūte saivātra niṣṭhitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 381–383)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.167]]
+
 *Lead-in:* न केवलमत्र प्रलयावसरे विश्वस्यावस्थानमेव यावत्सृष्टिर(ष्टाव)पि -- इत्याह --
 
 > अतः सामनसात्कालान्निमेषोन्मेषमात्रतः ।

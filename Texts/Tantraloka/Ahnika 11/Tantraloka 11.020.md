@@ -34,6 +34,9 @@ pañcamantratanau tena sadyojātādi bhaṇyate |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 11–13)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.20]]
+
 *Lead-in:* अत एव सद्योजातादेरप्येषैव व्याप्तिः सर्वत्रोच्यते -- इत्याह --
 
 > पञ्चमन्त्रतनौ तेन सद्योजातादि भण्यते ।

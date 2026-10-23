@@ -36,6 +36,11 @@ kriyātibhūyasī puṣpādyuttamaṃ lakṣaṇānvitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 256–257)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.16–18]]
+>
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.18–22]]
+
 *Lead-in:* अत्रैव अस्पष्टं किंचिद्व्याचष्टे--
 
 Jayaratha comments on this verse together with 21.17: see [[Tantraloka 21.017#Viveka|21.17]].

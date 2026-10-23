@@ -33,6 +33,11 @@ kuryāditi śivenoktaṃ tatra tatra kṛpālunā |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 365)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.21–22]]
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.22–23]]
+
 *Lead-in:* ननु दीक्षैव भोगमोक्षसाधिकेत्युक्तं तत् कथं श्राद्धाद्यात्मनः चर्यामात्रादपि एतत्स्यात् ?--इत्याशङ्क्याह--
 
 > शक्तिपातोदये जन्तोर्येनोपायेन दैशिकः ॥

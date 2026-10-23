@@ -34,6 +34,9 @@ aliases:
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 71–73)
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.54]]
+
 *Lead-in:* ननु एवं ज्ञानावाप्तौ भावनादिनिमित्तानन्त्ये किं प्रमाणम् ? -- इत्याशङ्क्याह --
 
 > श्रीमद्वाजसनीये श्रीवीरे श्रीब्रह्मयामले ।

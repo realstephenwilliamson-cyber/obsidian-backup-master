@@ -31,6 +31,9 @@ anyathā na śivaṃ yāyācchrīmatsāre ca varṇitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 338)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.96]]
+
 *Lead-in:* एतच्च गुरोरवश्यं पालनीयम्--इत्याह--
 
 > इत्येष यो गुरोः प्रोक्तो विधिस्तं पालयेद् गुरुः ।

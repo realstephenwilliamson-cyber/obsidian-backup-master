@@ -39,6 +39,9 @@ kṛtyaṃ tasya sphuṭamidamiyallokakartavyamātram || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 49–50)
+> ![[Tantraloka Dyczkowski v02 03 - Chapter Two, part 2#Viveka on 2.39]]
+
 *Lead-in:* तदाह—
 
 > स्वं कर्तव्यं किमपि कलयंल्लोक एष प्रयत्नान्नो

@@ -33,6 +33,11 @@ madhye cordhvaṃ tataḥ kuryādadhastādaṃguladvayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 132–133)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.161]]
+>
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.161–163]]
+
 *Lead-in:* एवं त्रिशूलस्य वर्तनामभिधाय दण्डस्य अपि आह--
 
 > मुखाग्रे धारयेत्सूत्रं त्रिभिर्हस्तैस्तु पातयेत् ।

@@ -34,6 +34,9 @@ anavacchinnavijñānavaiśvarūpyasunirbharaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 332)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.234]]
+
 *Lead-in:* यत्र पुनरवच्छिन्नविज्ञानात्मा परमेश्वर एव शास्त्ररूपेणावस्थितः, तत्र का नाम मिथ्यार्थत्वं प्रति शङ्का भवेत् ? -- इत्याह --
 
 > अनवच्छिन्नविज्ञानवैश्वरूप्यसुनिर्भरः ।

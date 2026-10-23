@@ -33,6 +33,11 @@ diśyudīcyāṃ rudrakoṇādvāyavyantaṃ gaṇeśvaram || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 229–233)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.25–27]]
+>
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.27–29]]
+
 *Lead-in:* तमेव क्रममाह--
 
 Jayaratha comments on this verse together with 29.26: see [[Tantraloka 29.026#Viveka|29.26]].

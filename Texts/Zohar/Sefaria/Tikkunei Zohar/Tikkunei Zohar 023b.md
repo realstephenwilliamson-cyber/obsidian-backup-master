@@ -261,7 +261,7 @@ shall be sustained from this
 יתפרנסון מהאי ^23b-21
 
 [^1]: See *Bereishyt Rabbah* 1:4
-[^2]: *BT* Berakhot 7a
+[^2]: *BT* [[Berakhot 7#7a|Berakhot 7a]]
 [^3]: *Mishnah* Ḥullin 12:2
 [^4]: *nephesh*
 [^5]: *ruḥa*
@@ -269,5 +269,5 @@ shall be sustained from this
 [^7]: *shalei-aḥ te-shalaḥ*
 [^8]: *et ha-eim*
 [^9]: the mother
-[^10]: *BT* Sotah 8b
-[^11]: *BT* Megillah 15b
+[^10]: *BT* [[Sotah 8#8b|Sotah 8b]]
+[^11]: *BT* [[Megillah 15#15b|Megillah 15b]]

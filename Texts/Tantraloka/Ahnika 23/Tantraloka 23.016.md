@@ -33,6 +33,11 @@ ato deśakulācāradehalakṣaṇakalpanām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 302–303)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.15–16]]
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.16–17]]
+
 *Lead-in:* तस्मात् ज्ञानवत्त्वमेव मुख्यं लक्षणमाश्रयणीयम्--इत्याह--
 
 > अतो देशकुलाचारदेहलक्षणकल्पनाम् ॥

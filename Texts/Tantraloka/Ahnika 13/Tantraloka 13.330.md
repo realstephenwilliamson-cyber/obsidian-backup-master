@@ -31,6 +31,9 @@ vimocanāyāṃ nopāyaḥ sthitāpi dhanadāravat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 329)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.330]]
+
 *Lead-in:* ननु योगबलादेव योगिनस्तत्तत्त्वसिद्धिर्जायते इति तत एवासौ तेषु तेषु तत्त्वेषु शिष्यस्य योजनां विदध्यादिति किमस्यैवंविधेन ज्ञानेन प्रयोजनम्? -- इत्याशङ्क्याह --
 
 > अधरेषु च तत्त्वेषु या सिद्धिर्योगजास्य सा ।

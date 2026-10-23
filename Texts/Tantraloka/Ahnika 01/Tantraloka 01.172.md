@@ -34,6 +34,9 @@ jñeyābhimukhabodhena drākprarūḍhatvaśālinā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 344–346)
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.172]]
+
 *Lead-in:* ननु कथं विकल्पानुपयोगितयैव एतत् स्यात् ? इत्याशङ्कां दर्शयितुमाह --
 
 > सा कथं भवतीत्याह गुरुणातिगरीयसा ।

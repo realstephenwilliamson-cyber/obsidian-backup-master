@@ -31,5 +31,8 @@ udbubhūṣuprabodhānāṃ mantrāṇāmeva mātṛtā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 367)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.110–113]]
+
 Jayaratha comments on this verse together with 10.112: see [[Tantraloka 10.112#Viveka|10.112]].
 

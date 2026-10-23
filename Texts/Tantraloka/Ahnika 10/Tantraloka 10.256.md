@@ -33,6 +33,11 @@ mānabhūmiriyaṃ mukhyā svapno hyāmarśanātmakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 459–460)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.255–256]]
+>
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.256]]
+
 *Lead-in:* जागरायां च यथा प्रमेयस्य प्राधान्यं तथेहापि प्रमाणस्य -- इत्याह --
 
 > मानभूमिरियं मुख्या स्वप्नो ह्यामर्शनात्मकः ॥

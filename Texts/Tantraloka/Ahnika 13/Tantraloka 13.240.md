@@ -33,6 +33,11 @@ tīvramadhye tu dīkṣāyāṃ kṛtāyāṃ na tathā dṛḍhām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 275)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.240]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.240–241]]
+
 *Lead-in:* एवं प्रकृतमुपसंहरन्नन्यदवतारयति --
 
 > एकस्त्रिकोऽयं निर्णीतः शक्तिपातेऽप्यथापरः ।

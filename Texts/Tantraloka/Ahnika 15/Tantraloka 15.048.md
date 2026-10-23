@@ -31,6 +31,9 @@ gatvāgatya bhajetsnānaṃ pārthivaṃ dhṛtidāyakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 40–41)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.48]]
+
 *Lead-in:* एतदेव पृथ्व्यादिक्रमेण निरूपयति--
 
 Jayaratha comments on this verse together with 15.50: see [[Tantraloka 15.050#Viveka|15.50]].

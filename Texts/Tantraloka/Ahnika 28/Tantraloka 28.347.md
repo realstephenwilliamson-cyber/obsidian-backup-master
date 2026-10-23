@@ -35,6 +35,13 @@ evamasmi bhaviṣyāmītyeṣa tadbhāva ucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 153)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.345–349]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.346–347]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.347]]
+
 *Lead-in:* अनुभवं विनापि भावनाद्वारं स्मृतेर्विषयनियमं दर्शयितुमाह--
 
 > तद्भावभावितस्तेन तदेवैष स्मरत्यलम् ।

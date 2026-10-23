@@ -34,6 +34,9 @@ prakāśe tanmukhenaiva saṃvitparaśivātmatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 388–389)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.212]]
+
 *Lead-in:* एतदेव उदाहरति—
 
 > निर्मले हृदये प्राग्र्यस्फुरद्भूम्यंशभासिनि ।

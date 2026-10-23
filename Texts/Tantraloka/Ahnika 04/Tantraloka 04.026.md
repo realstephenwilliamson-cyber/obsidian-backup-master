@@ -34,6 +34,9 @@ ye kecidṛṣayo dhīrāḥ śāstrāntaraparāyaṇāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 33–34)
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.26–27]]
+
 *Lead-in:* तदेव पठति—
 
 Jayaratha comments on this verse together with 4.27: see [[Tantraloka 04.027#Viveka|4.27]].

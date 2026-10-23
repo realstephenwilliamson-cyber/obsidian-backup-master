@@ -34,6 +34,9 @@ phalārthināṃ kācideva dhyeyatvenākṛtiḥ sthitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 300–301)
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.196]]
+
 *Lead-in:* ननु यद्येवं तद्दशभुजादि नियताकारं ध्यानादि किमिति उक्तम् ? इत्याशङ्क्याह --
 
 > निराकारे हि चिद्धाम्नि विश्वाकृतिमये सति ।

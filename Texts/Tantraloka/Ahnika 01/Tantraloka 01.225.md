@@ -34,6 +34,9 @@ yena buddhimanobhūmāvapi bhāti paraṃ padam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 400–401)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.224–225]]
+
 > द्वैतशास्त्रे मतङ्गादौ चाप्येतत्सुनिरूपितम् ।
 > अधोव्याप्तुः शिवस्यैव स प्रकाशो व्यवस्थितः ॥
 > येन बुद्धिमनोभूमावपि भाति परं पदम् ॥

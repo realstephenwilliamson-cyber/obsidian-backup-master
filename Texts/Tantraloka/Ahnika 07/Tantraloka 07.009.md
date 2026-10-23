@@ -34,5 +34,8 @@ adhiṣaṣṭyekaviṃśatyā śatānāṃ daśavarṇake || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 7–8)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.5–19]]
+
 Jayaratha comments on this verse together with 7.18: see [[Tantraloka 07.018#Viveka|7.18]].
 

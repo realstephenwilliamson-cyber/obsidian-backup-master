@@ -31,5 +31,10 @@ indrādayastadastrāṇi hrasvairviṣṇuprajāpatī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 32)
+> ![[Tantraloka Dyczkowski v11 02 - Chapter Thirty, part 1#Viveka on 30.42–43]]
+>
+> ![[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#Viveka on 30.42–43 (continued)]]
+
 Jayaratha comments on this verse together with 30.63: see [[Tantraloka 30.063#Viveka|30.63]].
 

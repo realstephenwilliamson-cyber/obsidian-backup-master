@@ -33,6 +33,11 @@ tatrendriyāṇāṃ saṃmohaśvāsāyāsaparītatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 140–141)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.326–327]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.327–328]]
+
 *Lead-in:* ननु अन्तकाले सत्त्वादिमयत्वेऽपि श्वासायासहिक्कागद्गदादिवैवश्येन सर्वेषां मूढतयैव भाव्यम्, तथात्वे च एषां कथमूर्ध्वगत्यादिसमुचिता देहान्तरसङ्गतिः सङ्गच्छताम् ?-- इत्याशङ्क्य आह--
 
 > तत्रेन्द्रियाणां संमोहश्वासायासपरीतता ॥

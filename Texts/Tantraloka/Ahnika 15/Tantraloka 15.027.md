@@ -31,6 +31,9 @@ mumukṣornirapekṣasya prārabdhrekaṃ na śodhayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 23–27)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.27–29]]
+
 *Lead-in:* ननु एषां दीक्षया किं कार्यम् ? सा च कस्य कीदृशी ?-- इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 15.29: see [[Tantraloka 15.029#Viveka|15.29]].

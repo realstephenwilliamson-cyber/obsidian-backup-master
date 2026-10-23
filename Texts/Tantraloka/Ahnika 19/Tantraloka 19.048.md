@@ -37,6 +37,11 @@ yathā ca samayī kāṣṭhe loṣṭe vā mantrayojanām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 227)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.47–48]]
+>
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.48–49]]
+
 *Lead-in:* अत्र च सविचिकित्सं परं स्वकञ्चुकानुप्रवेशेनैव प्रबोधयितुमाह--
 
 > यथा च समयी काष्ठे लोष्टे वा मन्त्रयोजनाम् ॥

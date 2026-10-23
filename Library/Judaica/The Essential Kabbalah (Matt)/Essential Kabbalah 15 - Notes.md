@@ -276,7 +276,7 @@ Moses Cordovero (sixteenth century), *Or Ne’erav.* ed. Yehuda Z. Brandwein, 6:
 
 **The other time I was ill** The account of Rabbi Shim’on’s earlier illness is found in *Zohar Hadash, Bereshit* 18d–19a *(Midrash ha-Ne’elam*).
 
-**Rabbi Pinhas son of Ya’ir** A second-century figure renowned in rabbinic literature for his saintliness and ability to work miracles. According to rabbinic tradition (Babylonian Talmud, *Shabbat* 55b). Pinhas was the son-in-law of Rabbi Shim’on, but in the *Zohar* he is promoted to the rank of Rabbi Shim’on’s father-in-law; see Matt, *Zohar,* 290–91.
+**Rabbi Pinhas son of Ya’ir** A second-century figure renowned in rabbinic literature for his saintliness and ability to work miracles. According to rabbinic tradition (Babylonian Talmud, [[Shabbat 55#55b|*Shabbat* 55b]]). Pinhas was the son-in-law of Rabbi Shim’on, but in the *Zohar* he is promoted to the rank of Rabbi Shim’on’s father-in-law; see Matt, *Zohar,* 290–91.
 
 **selecting my place in paradise next to Ahiyah of Shiloh** Ahiyah was the prophet who revealed to King Jeroboam that Solomon’s kingdom [p. 178] would be divided; see [[I Kings 11#^11-29|1 Kings 11:29–39]]. According to rabbinic tradition, he was a master of the secrets of Torah and the teacher of Elijah. Later, Hasidic legend portrays him as the mentor of Israel *Ba’al Shem Tov.* the founder of Hasidism. See Matt, *Zohar.* 293.
 
@@ -332,7 +332,7 @@ Moses Cordovero (sixteenth century), *Or Ne’erav.* ed. Yehuda Z. Brandwein, 6:
 
 **Meron** The traditional site of Rabbi Shim’on’s grave in Galilee.
 
-**‘He shall enter in peace** … ‘ [[Isaiah 57#^57-2|Isaiah 57:2]]; cf. Babylonian Talmud, *Ketubbot* 104a.
+**‘He shall enter in peace** … ‘ [[Isaiah 57#^57-2|Isaiah 57:2]]; cf. Babylonian Talmud, [[Ketubot 104#104a|*Ketubbot* 104a]].
 
 **the cave** In Meron.
 
@@ -414,9 +414,9 @@ Issachar Baer of Zlotshov (eighteenth century), *Mevasser Tsedeq* (Berditchev, 1
 
 *Shi’ur Qomah* (approximately sixth century); Martin Samuel Cohen, ed., *The Shi’ur Qomah: Texts and Recensions* (Tübingen: J. C. B. Mohr, 1985), 192–94, cf. 134–48; Cohen, *The Shi’ur Qomah: Liturgy and Theurgy in Pre-Kabbalistic Jewish Mysticism* (Lanham, MD: University Press of America, 1983), 197–216.
 
-**Rabbi Ishmael** A prominent rabbi of the first to second centuries. Various mystical statements and writings are ascribed to him. Another one of his visions appears in Babylonian Talmud, *Berakhot* 7a. [p. 185] **I saw the King … on his right and on his left** See [[I Kings 22#^22-19|1 Kings 22:19]]; [[Isaiah 06#^6-1|Isaiah 6:1]].
+**Rabbi Ishmael** A prominent rabbi of the first to second centuries. Various mystical statements and writings are ascribed to him. Another one of his visions appears in Babylonian Talmud, [[Berakhot 7#7a|*Berakhot* 7a]]. [p. 185] **I saw the King … on his right and on his left** See [[I Kings 22#^22-19|1 Kings 22:19]]; [[Isaiah 06#^6-1|Isaiah 6:1]].
 
-**The Prince of the Countenance, Metatron** In Merkavah mysticism, Metatron is the highest angel, “whose name is like that of his Master” (Babylonian Talmud, *Sanhedrin* 38b). He alone is allowed to gaze directly at the face of God. See Scholem, *Kabbalah.* 377–81.
+**The Prince of the Countenance, Metatron** In Merkavah mysticism, Metatron is the highest angel, “whose name is like that of his Master” (Babylonian Talmud, [[Sanhedrin 38#38b|*Sanhedrin* 38b]]). He alone is allowed to gaze directly at the face of God. See Scholem, *Kabbalah.* 377–81.
 
 **the measure of the stature** Hebrew, *shi’ur qomah.* The phrase, which serves as the name of this text, can also be translated as “the measure of the body.” See Cohen, *The Shi’ur Qomah: Liturgy and Theurgy in Pre-Kabbalistic Jewish Mysticism,* 77–81, 197.
 
@@ -490,9 +490,9 @@ Issachar Baer of Zlotshov (eighteenth century), *Mevasser Tsedeq* (Berditchev, 1
 
 *Sefer ha-Bahir.* Sec. 102, 44 (twelfth century).
 
-**“The righteous one is the foundation of the world”** Hebrew, *ve-tsaddiq yesod olam* ([[Proverbs 10#^10-25|Proverbs 10:25]]), which in Proverbs means: “The righteous person is an everlasting foundation.” The Hebrew word [p. 189] olam means both “eternity” and “world,” all of time and all of space. The *Bahir* adopts the latter meaning; cf. Babylonian Talmud, *Hagigah* 12b: “The earth stands on one pillar named Righteous, as it is written: ‘The righteous one is the foundation of the world.’” In the *Bahir* and subsequently, the cosmic pillar is identified with the sefirah of Yesod (Foundation), also known as *Tsaddiq.*
+**“The righteous one is the foundation of the world”** Hebrew, *ve-tsaddiq yesod olam* ([[Proverbs 10#^10-25|Proverbs 10:25]]), which in Proverbs means: “The righteous person is an everlasting foundation.” The Hebrew word [p. 189] olam means both “eternity” and “world,” all of time and all of space. The *Bahir* adopts the latter meaning; cf. Babylonian Talmud, [[Chagigah 12#12b|*Hagigah* 12b]]: “The earth stands on one pillar named Righteous, as it is written: ‘The righteous one is the foundation of the world.’” In the *Bahir* and subsequently, the cosmic pillar is identified with the sefirah of Yesod (Foundation), also known as *Tsaddiq.*
 
-**that person sustains the world** Cf. Babylonian Talmud, *Yoma* 38b: “For the sake of even one righteous person, the world endures, as it is written: ‘The righteous one is the foundation of the world.’” See Arthur Green, “The *Zaddiq* as *Axis Mundi* in Later Judaism,” *Journal of the American Academy of Religion* 45 (1977): 327–47. Human righteous action affects not only life on earth but the entire structure of the cosmos.
+**that person sustains the world** Cf. Babylonian Talmud, [[Yoma 38#38b|*Yoma* 38b]]: “For the sake of even one righteous person, the world endures, as it is written: ‘The righteous one is the foundation of the world.’” See Arthur Green, “The *Zaddiq* as *Axis Mundi* in Later Judaism,” *Journal of the American Academy of Religion* 45 (1977): 327–47. Human righteous action affects not only life on earth but the entire structure of the cosmos.
 
 ## THE POWER OF THE RIGHTEOUS
 
@@ -510,9 +510,9 @@ Joseph Gikatilla (thirteenth century), *Sha’arei Orah.* 19a–b; see Gikatilla
 
 **United** in **the secret of one** … Shekhinah and her angels of escort join together in “the secret of one” in preparation for her encounter with Tif’eret, who has joined together with the sefirot surrounding him in a corresponding “secret of one.” Shekhinah and Tif’eret must each be whole before they can unite. [p. 190] **the Other Side** Aramaic, *sitra ahra,* the demonic realm, which threatens Shekhinah and humanity on the weekdays. Once Sabbath begins, Shekhinah is safe and provides blessing openly to the world.
 
-**she is crowned over and over to face the holy King** The Sabbath is referred to as Queen in Babylonian Talmud, *Shabbat* 119a: “Rabbi Hanina used to wrap himself in a garment, stand close to sunset as Sabbath entered, and say: ‘Come, let us go out to greet Sabbath, the Queen.’ Rabbi Yannai would put on special clothes as Sabbath entered and say: ‘Come, O Bride! Come, O Bride!’” Here in the *Zohar,* Shekhinah, the Sabbath Queen, prepares to meet King Tif’eret.
+**she is crowned over and over to face the holy King** The Sabbath is referred to as Queen in Babylonian Talmud, [[Shabbat 119#119a|*Shabbat* 119a]]: “Rabbi Hanina used to wrap himself in a garment, stand close to sunset as Sabbath entered, and say: ‘Come, let us go out to greet Sabbath, the Queen.’ Rabbi Yannai would put on special clothes as Sabbath entered and say: ‘Come, O Bride! Come, O Bride!’” Here in the *Zohar,* Shekhinah, the Sabbath Queen, prepares to meet King Tif’eret.
 
-**All powers of wrath** … Once Sabbath has entered, the power of strict judgment disappears. According to Babylonian Talmud, *Sanhedrin* 65b, even the wicked in hell are granted rest on the Sabbath.
+**All powers of wrath** … Once Sabbath has entered, the power of strict judgment disappears. According to Babylonian Talmud, [[Sanhedrin 65#65b|*Sanhedrin* 65b]], even the wicked in hell are granted rest on the Sabbath.
 
 **she is crowned below by holy people** By welcoming the Sabbath Bride and celebrating her arrival, human beings array her for the union with Tif’eret.
 
@@ -522,7 +522,7 @@ Joseph Gikatilla (thirteenth century), *Sha’arei Orah.* 19a–b; see Gikatilla
 
 Joseph Gikatilla (thirteenth century), *Sha’aiei Orah,* 2a–b; see Gikatilla, *Gates of Light: Sha’are Orah.* tr. Avi Weinstein, 7–8.
 
-**“Blessed be the presence …”** [[Ezekiel 03#^3-12|Ezekiel 3:12]], recited daily in the central prayer, the *qedushah.* Cf. Babylonian Talmud, *Hagigah* 13b: “It is written: ‘Blessed be the presence of YHVH in his place,’ because no one knows his place.” See Matt, *Zohar,* 65, 221.
+**“Blessed be the presence …”** [[Ezekiel 03#^3-12|Ezekiel 3:12]], recited daily in the central prayer, the *qedushah.* Cf. Babylonian Talmud, [[Chagigah 13#13b|*Hagigah* 13b]]: “It is written: ‘Blessed be the presence of YHVH in his place,’ because no one knows his place.” See Matt, *Zohar,* 65, 221.
 
 **inner—innermost—aspects of the divine reality …** The sefirot, aspects of the divine personality, such as wisdom, understanding, love, rigor, and beauty. Each of these is pictured as one organ or limb of an androgynous divine being. Together they conduct the flow of emanation to the world.
 
@@ -540,17 +540,17 @@ Moses Cordovero (sixteenth century), *Tomer Devorah* (Warsaw: Joel Levensohn, 18
 
 **the essence of the divine image is action** The sefirot manifest in the world as divine activity, ranging from love to judgment.
 
-**the acts of Keter, the thirteen qualities of compassion** Keter, the highest sefirah, is a realm of total compassion untainted by judgment. The kabbalists derive its various qualities of compassion from the closing verses of the book of Micah (7:18–20). In earlier, rabbinic-tradition, God’s thirteen attributes of compassion are derived from [[Torah 21 - Ki Tisa#^34-6|Exodus 34:6–7]]; see Babylonian Talmud, *Rosh ha-Shanah* 17b.
+**the acts of Keter, the thirteen qualities of compassion** Keter, the highest sefirah, is a realm of total compassion untainted by judgment. The kabbalists derive its various qualities of compassion from the closing verses of the book of Micah (7:18–20). In earlier, rabbinic-tradition, God’s thirteen attributes of compassion are derived from [[Torah 21 - Ki Tisa#^34-6|Exodus 34:6–7]]; see Babylonian Talmud, [[Rosh Hashanah 17#17b|*Rosh ha-Shanah* 17b]].
 
 **Let his honor be as precious to you** as **your own** A paraphrase of Mishnah, *Avot* 2:10.
 
 **“Love your neighbor as yourself”** [[Torah 30 - Kedoshim#^19-18|Leviticus 19:18]].
 
-**“Those who return to God …”** Babylonian Talmud, *Berakhot* 34b. [p. 192] **Keter transcends all the other qualities** Keter, the highest sefirah, transcends all the other sefirot.
+**“Those who return to God …”** Babylonian Talmud, [[Berakhot 34#34b|*Berakhot* 34b]]. [p. 192] **Keter transcends all the other qualities** Keter, the highest sefirah, transcends all the other sefirot.
 
 **Its emanator** Ein Sof.
 
-**from the horned buffalo to nits** According to Rav (Babylonian Talmud, *Avodah Zarah* 3b), God’s daylight schedule is as follows: “For the first three hours the Holy One, blessed be he, sits and studies Torah. For the next three he sits and judges the entire world. Once he determines that the world deserves to be destroyed, he rises from the seat of Judgment and moves to the seat of Compassion. For the next three hours he feeds the entire world, from the horned buffalo to nits. For the last three hours he plays with Leviathan.”
+**from the horned buffalo to nits** According to Rav (Babylonian Talmud, [[Avodah Zarah 3#3b|*Avodah Zarah* 3b]]), God’s daylight schedule is as follows: “For the first three hours the Holy One, blessed be he, sits and studies Torah. For the next three he sits and judges the entire world. Once he determines that the world deserves to be destroyed, he rises from the seat of Judgment and moves to the seat of Compassion. For the next three hours he feeds the entire world, from the horned buffalo to nits. For the last three hours he plays with Leviathan.”
 
 **the forehead of the Will** Keter, the “Crown” or head of the sefirot, is also the divine Will. Its forehead manifests compassion.
 
@@ -570,7 +570,7 @@ Moses Cordovero (sixteenth century), *Tomer Devorah* (Warsaw: Joel Levensohn, 18
 
 **powers of judgment** Hebrew, *dinim,* powers of the sefirah of Din, harsh judgment.
 
-**your intentional sins turn into merits** According to rabbinic teaching (Babylonian Talmud, *Yoma* 86b), turning back to God and repenting in love have the effect of transforming intentional sins into merits.
+**your intentional sins turn into merits** According to rabbinic teaching (Babylonian Talmud, [[Yoma 86#86b|*Yoma* 86b]]), turning back to God and repenting in love have the effect of transforming intentional sins into merits.
 
 **the Left Side** The demonic dimension, which branches out from the sefirah of Din, harsh judgment, located on the left side of the setirotic tree.
 
@@ -586,7 +586,7 @@ Moses Cordovero (sixteenth century), *Tomer Devorah* (Warsaw: Joel Levensohn, 18
 
 **‘Light is sown for the righteous’** [[Psalms 097#^97-11|Psalms 97:11]]. Cf. *Midrash Tanhuma. Shemini* 9: Rabbi Judah son of Simon said, “With the light created by God on the first day, Adam could gaze and see from one end of the universe to the other. Since God foresaw the corrupt deeds of the generation of Enosh and the generation of the Flood, he hid the light from them. Where did he hide it? In the Garden of Eden for the righteous, as it is written: ‘Light is sown for the righteous.’” Cf. *Bahir,* Sec. 160: “Before the world was created, an impulse arose in the divine mind to create a great shining light. A light so bright was created that no creature could control it. When God saw that no one could bear it, he took one-seventh and gave it to them in its place. The rest he hid away for the righteous in the time to come, saying, ‘If they prove worthy of this seventh and guard it, I will give them the rest in the final world.’”
 
-**absorbed in her** In Torah; see Matt, *Zohar.* 2, 213–14. Cf. Babylonian Talmud, *Hagigah* 12b: Reish Laqish said, “Whoever engages in Torah at night, the Blessed Holy One extends a thread-thin ray of love to him during the day.” The Ba’al Shem Tov, founder of Hasidism, is reported to have said: “With the light of the six days of Creation, one could see from one end of the universe to the other. Where did God hide it? In the Torah. Whoever attains the light hidden in the Torah can see from one end of the world to the other.” According to another version of this saying, the last sentence reads: “So when I open the *Zohar.* I see the whole world.”
+**absorbed in her** In Torah; see Matt, *Zohar.* 2, 213–14. Cf. Babylonian Talmud, [[Chagigah 12#12b|*Hagigah* 12b]]: Reish Laqish said, “Whoever engages in Torah at night, the Blessed Holy One extends a thread-thin ray of love to him during the day.” The Ba’al Shem Tov, founder of Hasidism, is reported to have said: “With the light of the six days of Creation, one could see from one end of the universe to the other. Where did God hide it? In the Torah. Whoever attains the light hidden in the Torah can see from one end of the world to the other.” According to another version of this saying, the last sentence reads: “So when I open the *Zohar.* I see the whole world.”
 
 **renewing each day the act of Creation** Cf. the morning prayer: “Lord of wonders, who renews in his goodness every day continually the act of Creation.”
 
@@ -600,9 +600,9 @@ First passage: Moses Cordovero (sixteenth century), *Pardes Rimmonim,* 5:4, 25d.
 
 First passage: Shabbetai Donnolo (tenth century), *Sefer Hakhmoni.* ed. David Castelli, on *Sefer Yetsirah* 1:10, in *Safer Yetsirah* (Jerusalem: Lewin-Epstein, 1965), 67b; paraphrased by Shim’on Lavi, *Ketem Paz,* 1:49d. See Boaz Huss, in *Mehqerei Yerushalayim be-Mahashevet Yixra’el* 10 (1992): 359–60. Second passage: cited by Shem Tov ibn Shem Tov (fourteenth-fifteenth centuries) from “the writings of the kabbalists.” See Scholem, *Origins of the Kabbalah.* 450, n. 202; Scholem, *Kabbalah,* 129; Moshe Idel, “On the Concept of *Tsimtsum”* (Hebrew), in *Mehqerei Yerushalayim be-Mahashevet Yisra’el* 10 (1991): 69.
 
-**“Enough**!” Hebrew, *dai.* In rabbinic literature (Babylonian Talmud, *Hagigah* 12a), the divine name Shaddai is interpreted as: the one who said “Dai” (enough), thus placing a limit on the initial expansion of the cosmos.
+**“Enough**!” Hebrew, *dai.* In rabbinic literature (Babylonian Talmud, [[Chagigah 12#12a|*Hagigah* 12a]]), the divine name Shaddai is interpreted as: the one who said “Dai” (enough), thus placing a limit on the initial expansion of the cosmos.
 
-**to a divine handbreadth** According to the Midrash, God contracted his presence, his Shekhinah, in the Tabernacle that accompanied the children of Israel in the wilderness of Sinai. The Shekhinah was concentrated especially at the ark of the covenant (*Tanhuma, Va-Yaqhel,* 7). On top of the ark was a gold cover flanked by two cherubs hammered out at either end. The divine voice spoke to Moses “from above the cover, from between the two cherubs” ([[Torah 19 - Terumah#^25-22|Exodus 25:22]]; cf. [[Torah 35 - Nasso#^7-89|Numbers 7:89]]). The cover itself was one handbreadth thick (Babylonian Talmud, *Sanhedrin* 7a); thus it can be said that in the Tabernacle God contracted his presence to a handbreadth. In our passage, God concentrates or contracts (Hebrew *tsimtsem*) the divine light to a divine handbreadth, withdrawing it from the rest of space, which turns dark. This act of withdrawal, or inhalation, is the first step in the process of emanation.
+**to a divine handbreadth** According to the Midrash, God contracted his presence, his Shekhinah, in the Tabernacle that accompanied the children of Israel in the wilderness of Sinai. The Shekhinah was concentrated especially at the ark of the covenant (*Tanhuma, Va-Yaqhel,* 7). On top of the ark was a gold cover flanked by two cherubs hammered out at either end. The divine voice spoke to Moses “from above the cover, from between the two cherubs” ([[Torah 19 - Terumah#^25-22|Exodus 25:22]]; cf. [[Torah 35 - Nasso#^7-89|Numbers 7:89]]). The cover itself was one handbreadth thick (Babylonian Talmud, [[Sanhedrin 7#7a|*Sanhedrin* 7a]]); thus it can be said that in the Tabernacle God contracted his presence to a handbreadth. In our passage, God concentrates or contracts (Hebrew *tsimtsem*) the divine light to a divine handbreadth, withdrawing it from the rest of space, which turns dark. This act of withdrawal, or inhalation, is the first step in the process of emanation.
 
 ## TSIMTSUM: CREATIVE WITHDRAWAL
 
@@ -716,7 +716,7 @@ Abraham Abulafia (thirteenth century), *Hayyei ha-Olam ha-Ba.* in Adolph Jelline
 
 ## ALONENESS AND ABUNDANCE
 
-Isaac of Akko (thirteenth-fourteenth centuries), *Otsar Hayyim.* Moscow-Guenzburg manuscript 775, 1a–2a. [p. 200] **more than the calf wants to suck, the cow wants to suckle.** One of the five things that the imprisoned Rahbi Akiva taught Rabbi Shim’on bar Yohai; see Babylonian Talmud, *Pesahim* 112a.
+Isaac of Akko (thirteenth-fourteenth centuries), *Otsar Hayyim.* Moscow-Guenzburg manuscript 775, 1a–2a. [p. 200] **more than the calf wants to suck, the cow wants to suckle.** One of the five things that the imprisoned Rahbi Akiva taught Rabbi Shim’on bar Yohai; see Babylonian Talmud, [[Pesachim 112#112a|*Pesahim* 112a]].
 
 **aloneness** Hebrew, *hitbodedut.* “aloneness,” contemplative concentration.
 
@@ -748,7 +748,7 @@ First passage: Azriel of Gerona (thirteenth century), *Perush ha-Aggadot,* 20. S
 
 ***Taste and see that God is good*** [[Psalms 034#^34-9|Psalms 34:9]].
 
-**more than the calf wants to suck, the cow wants to suckle** One of the five things that the imprisoned Rabbi Akiva taught Rabbi Shim’on bar Yohai; see Babylonian Talmud, *Pesahim* 112a; “Aloneness and Abundance,” p. 108.
+**more than the calf wants to suck, the cow wants to suckle** One of the five things that the imprisoned Rabbi Akiva taught Rabbi Shim’on bar Yohai; see Babylonian Talmud, [[Pesachim 112#112a|*Pesahim* 112a]]; “Aloneness and Abundance,” p. 108.
 
 ## THE MIRROR OF THOUGHT
 
@@ -908,7 +908,7 @@ Isaac of Akko (thirteenth-fourteenth centuries), *Otsar Hayyim,* Moscow-Guenzbur
 
 *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-176a|2:176a]]–b (thirteenth century); see Matt, *Zohar,* 58–39, 202–3.
 
-**Because of that view …** The man from the mountains claims to be a master of wheat, a master of Torah. In rabbinic literature (Babylonian Talmud, *Bava Batra* 145b) the phrase “master of wheat” means one who has mastered the oral traditions. Here in the *Zohar,* wheat and its products (kernels, bread, cake, and royal pastry) apparently symbolize the four levels of meaning in Torah (simple, midrashic, allegorical, and mystical). The mountain man’s mastery is superficial. He knows only *peshat,* the plain sense, and when he learns that everything emerges from peshat, he concludes that he needs to know nothing more. After all, doesn’t he have the essence? Usually in mysticism essence is the goal, but the *Zohar’s* parable indicates that essence is inadequate, unless it flowers into all that it can be. The master of wheat is wallowing in essence. Instead of venturing into the unknown, he reduces the unknown to the familiar. He misses the delights, reserved for those who savor the variety of flavors, the range of meanings.
+**Because of that view …** The man from the mountains claims to be a master of wheat, a master of Torah. In rabbinic literature (Babylonian Talmud, [[Bava Batra 145#145b|*Bava Batra* 145b]]) the phrase “master of wheat” means one who has mastered the oral traditions. Here in the *Zohar,* wheat and its products (kernels, bread, cake, and royal pastry) apparently symbolize the four levels of meaning in Torah (simple, midrashic, allegorical, and mystical). The mountain man’s mastery is superficial. He knows only *peshat,* the plain sense, and when he learns that everything emerges from peshat, he concludes that he needs to know nothing more. After all, doesn’t he have the essence? Usually in mysticism essence is the goal, but the *Zohar’s* parable indicates that essence is inadequate, unless it flowers into all that it can be. The master of wheat is wallowing in essence. Instead of venturing into the unknown, he reduces the unknown to the familiar. He misses the delights, reserved for those who savor the variety of flavors, the range of meanings.
 
 An earlier, midrashic parable (*Seder Eliyahu Zuta,* 2) also compares Torah to wheat and insists on its creative transformation:
 
@@ -954,7 +954,7 @@ An earlier, midrashic parable (*Seder Eliyahu Zuta,* 2) also compares Torah to w
 
 **the soul, Beauty of Israel** The masculine aspect of God is the sefirah of Tif’eret Yisra’el, “the Beauty of Israel” (cf. [[Lamentations 2#^2-1|Lamentations 2:1]]), the Holy One, blessed be he. Shekhinah receives him as the body receives the soul.
 
-**So she is the body of the soul** This is not redundant. Rabbinic literature (Babylonian Talmud, *Yevamot* 62a) describes a cosmic body containing all souls. In Kabbalah this body is identified with Shekhinah. By receiving the soul of Tif’eret, she carries all human souls, which are engendered by the union of these two sefirot.
+**So she is the body of the soul** This is not redundant. Rabbinic literature (Babylonian Talmud, [[Yevamot 62#62a|*Yevamot* 62a]]) describes a cosmic body containing all souls. In Kabbalah this body is identified with Shekhinah. By receiving the soul of Tif’eret, she carries all human souls, which are engendered by the union of these two sefirot.
 
 **The soul we have mentioned** … This refers not only to the immediately preceding lines but to the preceding paragraph: “The wise ones … look only at the soul.” The mystics gaze into the soul of Torah, none other than the sefirah of Tif’eret, the Holy One, blessed be he. One of the names of this sefirah is the written Torah, while Shekhinah is the oral Torah. The hidden essence of Torah is God. The ultimate purpose of study is direct experience of the divine, who is real Torah; the search for meaning culminates in revelation. [p. 210] **The soul of the soul is the Holy Ancient One** Aramaic, *attiqa qaddisha.* The Holy Ancient One is the primal manifestation of Ein Sof, the Infinite, through Keter, its Crown, the first sefirah—heyond both Shekhinah and Tif’eret.
 
@@ -1096,7 +1096,7 @@ Abraham Isaac Kook (twentieth century), *Orot ha-Qodesh.* 2:444–45.
 
 **contemplating the pure forms** Hebrew, *asuqin ba-muskalot.* “engaged in the intelligibles,” that is, contemplating the ideal forms of reality.
 
-**“When a man unites with his wife** …” Cf. Babylonian Talmud, *Sotah* 17a.
+**“When a man unites with his wife** …” Cf. Babylonian Talmud, [[Sotah 17#17a|*Sotah* 17a]].
 
 **She and he** Thought and her source.
 
@@ -1108,7 +1108,7 @@ Barukh ben Abraham of Kosov (eighteenth century), *Ammud ha-Avodah* (Czernowitz,
 
 **“Be fruitful and multiply”** God’s first words to the first human couple, according to [[Torah 01 - Bereshit#^1-28|Genesis 1:28]].
 
-**“One should hallow oneself during sexual union”** See Babylonian Talmud, *Shevu’ot* 18b; *Niddah* 70b–71a; *Zohar* [[Zohar 2.03 - Parashat Va-Yera#^z1-112a|1:112a]] (*Midrash ha-Ne’elam*)*; Iggeret ha-Qodesh,* end of chapter 1.
+**“One should hallow oneself during sexual union”** See Babylonian Talmud, *Shevu’ot* 18b; [[Niddah 70#70b|*Niddah* 70b]]–71a; *Zohar* [[Zohar 2.03 - Parashat Va-Yera#^z1-112a|1:112a]] (*Midrash ha-Ne’elam*)*; Iggeret ha-Qodesh,* end of chapter 1.
 
 ## THE GIFT OF HOLINESS
 
@@ -1118,7 +1118,7 @@ Moses Hayyim Luzzatto (eighteenth century), *Mesillat Yesharim: The Path of the 
 
 ## HOW TO APPROACH KABBALAH
 
-Moses Cordovero (sixteenth century), *Or Ne’erav,* ed. Yehuda Z. Brandwein, 1:6 (15a, 16b); 3:3 (24a–25a); see Robinson, *Moses Cordovero’s Introduction to Kabbalah,* 39, 42–43, 65–68. [p. 217] **dividing your time …** In rabbinic literature (Babylonian Talmud, *Qiddushin* 30a), the ideal study schedule is given: Divide your time between Bible, Mishnah, and Talmud. Maimonides (*Mishneh Torah,* “The Study of Torah,” 1:11–12) alters the list: written Torah, oral Torah, and extended periods of reasoning, reflection, and contemplation.
+Moses Cordovero (sixteenth century), *Or Ne’erav,* ed. Yehuda Z. Brandwein, 1:6 (15a, 16b); 3:3 (24a–25a); see Robinson, *Moses Cordovero’s Introduction to Kabbalah,* 39, 42–43, 65–68. [p. 217] **dividing your time …** In rabbinic literature (Babylonian Talmud, [[Kiddushin 30#30a|*Qiddushin* 30a]]), the ideal study schedule is given: Divide your time between Bible, Mishnah, and Talmud. Maimonides (*Mishneh Torah,* “The Study of Torah,” 1:11–12) alters the list: written Torah, oral Torah, and extended periods of reasoning, reflection, and contemplation.
 
 **to pray … Shekhinah** The study of Kabbalah includes directions on how to focus the words of prayer on particular sefirot, in order to unite these various aspects of God. The union of Tif’eret and Shekhinah, the masculine and feminine halves of divinity, represents the goal of prayer and mitsvot.
 
@@ -1146,4 +1146,4 @@ Menahem Mendel of Peremishlany (eighteenth century), quoted by his disciple, Mes
 
 **“This stumbling block is in your hand”** Isaiah 3.6.
 
-**unless you stumble over them** Cf. Babylonian Talmud, *Gittin* 43a: ‘“This stumbling block is in your hand.’ One does not understand words of Torah unless one has stumbled over them.”
+**unless you stumble over them** Cf. Babylonian Talmud, [[Gittin 43#43a|*Gittin* 43a]]: ‘“This stumbling block is in your hand.’ One does not understand words of Torah unless one has stumbled over them.”

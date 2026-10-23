@@ -350,7 +350,7 @@ and even
 [^16]: 50
 [^17]: *tzadiq*
 [^18]: *’aqev*
-[^19]: *BT* Berakhot 30b
+[^19]: *BT* [[Berakhot 30#30b|Berakhot 30b]]
 [^20]: ד
 [^21]: One
 [^22]: ‘another’

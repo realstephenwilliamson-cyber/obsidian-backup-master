@@ -31,6 +31,9 @@ tatraiva paścime yeṣāṃ prākprakāśāvalokanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 132–133)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.213–217]]
+
 > तथाहि विषुवद्योगे यतः पूर्वं प्रदृश्यते ।
 > तत्पूर्वं यत्र तच्छाया तत्पश्चिममुदाहृतम् ॥
 > तस्मिञ्जिगमिषोरस्य यत्सव्यं तत्तु दक्षिणम् ।

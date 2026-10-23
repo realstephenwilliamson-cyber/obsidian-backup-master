@@ -35,6 +35,9 @@ ekīkāraḥ svasvarūpe praveśaḥ śāstramelanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 460–461)
+> ![[Tantraloka Dyczkowski v01 13 - Chapter One, part 12#Viveka on 1.278–284]]
+
 > तत्रोच्यते पुरोद्देशः पूर्वजानुजभेदवान् ।
 > विज्ञानभिद्गतोपायः परोपायस्तृतीयकः ॥
 > शाक्तोपायो नरोपायः कालोपायोऽथ सप्तमः ।

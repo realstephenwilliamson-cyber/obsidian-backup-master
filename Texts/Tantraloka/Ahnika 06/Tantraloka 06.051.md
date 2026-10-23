@@ -34,6 +34,9 @@ vedyayatnāttu hṛdayātprāṇacāro vibhajyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 263)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.51]]
+
 *Lead-in:* इत्यादिना हृदयात्प्रभृति वितत्य पुनः प्राणचारः कस्मादुक्त ? -- इत्याशङ्क्याह --
 
 > तत्रापि तु प्रयत्नोऽसौ न संवेद्यतया स्थितः ।

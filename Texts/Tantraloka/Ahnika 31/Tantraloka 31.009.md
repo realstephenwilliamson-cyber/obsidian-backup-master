@@ -33,6 +33,11 @@ tatra śūlavidhānaṃ yaduktam bhedairanantakaiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 70)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 31.9–10.*
+>
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.9–10]]
+
 > एकस्मात्प्रभृति प्रोक्तं शतान्तं मण्डलं यतः ॥
 > सिद्धातन्त्रे मण्डलानां शतं तत्पीठ उच्यते ।
 > यत्तन्मध्यगतं मुख्यं मण्डलानां त्रयं स्मृतम् ॥

@@ -32,6 +32,9 @@ tatrāhurgamaśāstrajñā vāmāśaktimayāstadā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 262)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.422–423]]
+
 *Lead-in:* एतदेव प्रतिविधत्ते--
 
 > तत्राहुर्गमशास्त्रज्ञा वामाशक्तिमयास्तदा ॥

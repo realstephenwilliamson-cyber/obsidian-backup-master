@@ -1,0 +1,117 @@
+/* New Testament page (Templates/Views/nt-page): one section laid out like a page of a glossed Bible.
+   Dataview adds this file to the page with view.js. 22 Oct 2026. Colours and fonts are the theme's own. */
+.nt-wrap { container: nt / inline-size; margin: .5em 0 1em; --nt-text: var(--font-text-size, 16px); }
+
+/* The bar: any verse, the section before and after, the translation, the Greek */
+.nt-bar { display: flex; flex-wrap: wrap; align-items: center; gap: .4em .6em; margin-bottom: .6em; }
+.nt-input { flex: 0 1 14em; min-width: 8em; }
+.nt-navs { display: flex; gap: .4em; }
+.nt-bar button, .nt-bar select { padding: .25em .75em; font-size: var(--font-ui-small, .85em); cursor: pointer; }
+.nt-notice { font-size: .8em; color: var(--text-muted); font-style: italic; margin: .2em 0 .4em; }
+
+/* The list of books and chapters above the page (23 Oct 2026), small, like Sefaria's table of contents; the current one marked */
+.nt-nav { font-size: .8em; margin: .1em 0 .8em; padding-bottom: .4em; border-bottom: 1px solid var(--background-modifier-border); }
+.nt-nav > summary { cursor: pointer; color: var(--text-muted); letter-spacing: .05em; text-transform: uppercase; font-size: .9em; margin-bottom: .3em; }
+.nt-nav-row { display: flex; gap: .7em; align-items: baseline; margin: .2em 0; }
+.nt-nav-label { flex: 0 0 7.5em; color: var(--text-faint); font-size: .9em; letter-spacing: .04em; text-transform: uppercase; }
+.nt-nav-items { display: flex; flex-wrap: wrap; gap: .15em .9em; min-width: 0; }
+.nt-nav-item { cursor: pointer; color: var(--text-muted); white-space: nowrap; }
+.nt-nav-item:hover, .nt-nav-item:focus-visible { color: var(--text-accent); text-decoration: underline; }
+.nt-nav-item.is-on { color: var(--text-accent); font-weight: 700; }
+.nt-nav-grid .nt-nav-items { gap: .25em; }
+.nt-nav-grid .nt-nav-item { min-width: 2.3em; text-align: center; padding: 0 .2em; border: 1px solid var(--background-modifier-border); border-radius: 3px; font-variant-numeric: tabular-nums; }
+.nt-nav-grid .nt-nav-item:hover { text-decoration: none; border-color: var(--text-accent); }
+.nt-nav-grid .nt-nav-item.is-on { background: var(--interactive-accent); border-color: var(--interactive-accent); color: var(--text-on-accent); }
+
+/* Running head: chapter and verses large in the outer corner, the section's title in the middle */
+.nt-head { display: grid; grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); align-items: baseline; column-gap: 1.2em; border-bottom: 2px solid var(--background-modifier-border);
+  padding-bottom: .3em; margin-bottom: .8em; }
+.nt-head-left { grid-column: 1; justify-self: start; display: flex; align-items: baseline; gap: .5em; }
+.nt-num { font-size: 2.2em; font-weight: 700; line-height: 1; color: var(--text-normal); font-variant-numeric: oldstyle-nums; }
+.nt-book { font-size: 1em; color: var(--text-muted); }
+/* the title is centred on the page, whatever the width of the number beside it (23 Oct 2026) */
+.nt-head-centre { grid-column: 2; text-align: center; }
+.nt-sub { font-size: .75em; letter-spacing: .06em; text-transform: uppercase; color: var(--text-muted); }
+.nt-title p { margin: 0; font-size: 1.15em; font-weight: 600; }
+
+/* The page: margins at the edges (the left one narrower since 23 Oct 2026, so the verses have more room), the JANT notes and the Fathers beside the verses, the verses in the middle */
+.nt-grid { display: grid; column-gap: 1.2em; row-gap: 1em; align-items: start;
+  grid-template-columns: minmax(6.5em, 130px) minmax(12em, 320px) minmax(0, 1fr) minmax(11em, 300px) minmax(8em, 180px);
+  grid-template-areas: "left inner centre outer right"; }
+.nt-left { grid-area: left; } .nt-inner { grid-area: inner; } .nt-centre { grid-area: centre; }
+.nt-outer { grid-area: outer; } .nt-right { grid-area: right; }
+.nt-inner { border-left: 1px solid var(--background-modifier-border); padding-left: .8em; font-size: .84em; line-height: 1.45; }
+.nt-outer { border-right: 1px solid var(--background-modifier-border); padding-right: .8em; font-size: .84em; line-height: 1.45; }
+.nt-margin { font-size: .78em; line-height: 1.4; color: var(--text-muted); }
+
+/* The verses */
+.nt-centre { font-size: var(--nt-text); line-height: 1.65; }
+.nt-chapter { font-size: .72em; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: var(--text-accent);
+  margin: .9em 0 .3em; border-bottom: 1px solid var(--background-modifier-border); }
+.nt-chapter:first-child { margin-top: 0; }
+.nt-verse { margin: 0 0 .5em; }
+.nt-verse-text p { margin: 0; }
+.nt-vn { font-size: .7em; font-weight: 700; color: var(--text-accent); margin-right: .25em; vertical-align: .15em; }
+.nt-fn { font-size: .7em; color: var(--text-accent); }
+.nt-notes { margin-top: .8em; padding-top: .4em; border-top: 1px solid var(--background-modifier-border); font-size: .78em; line-height: 1.4; color: var(--text-muted); }
+.nt-note p { margin: 0 0 .2em; }
+.nt-compare { margin-top: .6em; font-size: .8em; color: var(--text-muted); }
+.nt-compare p { margin: 0; }
+
+/* Commentary columns and margin boxes */
+.nt-col-title, .nt-box-title { font-size: .72em; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--text-muted);
+  margin-bottom: .35em; }
+.nt-jant, .nt-quote { margin: 0 0 .6em; }
+.nt-jant-head { font-size: .85em; font-weight: 700; color: var(--text-muted); margin-right: .3em; }
+.nt-quote-text p { margin: 0; }
+.nt-src { font-size: .85em; color: var(--text-faint); margin: .2em 0 .9em; }
+.nt-src p { margin: 0; }
+.nt-box { margin-bottom: 1em; }
+.nt-item { margin: 0 0 .3em; }
+.nt-item p { margin: 0; }
+.nt-empty { font-size: .9em; color: var(--text-faint); font-style: italic; }
+.nt-dafquote { margin: 0 0 1em; padding-left: .6em; border-left: 2px solid var(--background-modifier-border); }
+.nt-dafquote .nt-quote-text, .nt-gquote { font-style: italic; color: var(--text-normal); }
+.nt-gquote p { margin: 0 0 .5em; }
+.nt-cited { margin-top: 1em; }
+.nt-gloss .nt-item { color: var(--text-normal); }
+
+.nt-foot { margin-top: 1em; padding-top: .4em; border-top: 1px solid var(--background-modifier-border); font-size: .78em; color: var(--text-muted); }
+.nt-foot p { margin: 0; }
+
+/* The New Testament's own parts: the translation switch, the Greek line, a section heading inside the passage */
+.nt-switch { display: inline-flex; }
+.nt-switch button { border-radius: 0; }
+.nt-switch button:first-child { border-radius: var(--button-radius, 4px) 0 0 var(--button-radius, 4px); }
+.nt-switch button:last-child { border-radius: 0 var(--button-radius, 4px) var(--button-radius, 4px) 0; }
+.nt-bar button.nt-on { background: var(--interactive-accent); color: var(--text-on-accent); }
+.nt-greek-toggle { font-size: var(--font-ui-small, .85em); display: inline-flex; align-items: center; gap: .3em; cursor: pointer; }
+.nt-greek p { margin: .1em 0 0; font-size: .9em; color: var(--text-muted); }
+.nt-greek a.internal-link { color: inherit; text-decoration: none; border-bottom: 1px dotted var(--text-faint); }
+.nt-greek a.internal-link:hover { color: var(--text-accent); }
+.nt-heading { font-size: .8em; font-weight: 700; color: var(--text-muted); margin: .8em 0 .3em; }
+.nt-small { padding: .1em .6em; font-size: .85em; margin: .1em 0 .6em; cursor: pointer; }
+
+/* The note that holds the page uses the whole width of its tab (23 Oct 2026, Stephen's request): no padding between the ribbon
+   and the page, and no side margins on the block that holds the view. Only a tab showing this page is affected. */
+.markdown-preview-view:has(.nt-wrap) { padding-left: 8px !important; padding-right: 8px !important; }
+.markdown-preview-view.markdown-rendered .markdown-preview-sizer > div.el-pre:has(.nt-wrap) { margin-left: 0 !important; margin-right: 0 !important; width: auto !important; max-width: none !important; }
+
+/* Medium (a narrower pane): the margins head the page, the commentaries below them, the verses down the middle */
+@container nt (max-width: 1100px) {
+  .nt-grid { grid-template-columns: minmax(10em, 1fr) minmax(0, 2.2fr) minmax(10em, 1fr);
+    grid-template-areas: "left centre right" "inner centre outer"; }
+  .nt-inner { border-left: none; padding-left: 0; }
+  .nt-outer { border-right: none; padding-right: 0; }
+}
+/* Narrow (phone, or a side pane): one column, the verses first, then the JANT notes, then the margins two by two */
+@container nt (max-width: 600px) {
+  .nt-nav-row { flex-direction: column; gap: .1em; }
+  .nt-nav-label { flex: none; }
+  .nt-grid { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    grid-template-areas: "centre centre" "inner inner" "left right" "outer outer"; }
+  .nt-inner { border-top: 2px solid var(--background-modifier-border); padding-top: .6em; }
+  .nt-num { font-size: 1.8em; }
+  .nt-head { grid-template-columns: auto minmax(0, 1fr); }
+  .nt-head-centre { text-align: left; }
+}

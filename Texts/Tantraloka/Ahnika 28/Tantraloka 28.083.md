@@ -31,5 +31,8 @@ paṅktikrameṇa vā sarve madhye teṣāṃ guruḥ sadā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 45–46)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.82–84]]
+
 Jayaratha comments on this verse together with 28.84: see [[Tantraloka 28.084#Viveka|28.84]].
 

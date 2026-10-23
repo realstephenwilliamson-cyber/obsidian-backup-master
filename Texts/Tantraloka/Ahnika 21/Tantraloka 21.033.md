@@ -34,6 +34,9 @@ dārbhādidehaṃ vyāpnoti svādhiṣṭhityāpyacetayan || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 266)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.33]]
+
 *Lead-in:* नन्वेवं तद्देहमत्यजतोऽस्य जीवस्येह अप्राप्तेः कस्य संस्कारः स्यादिति कृतं परोक्षदीक्षया ?--इत्याशङ्क्याह--
 
 > तद्देहसंस्थितोऽप्येष जीवो जालबलादिमम् ।

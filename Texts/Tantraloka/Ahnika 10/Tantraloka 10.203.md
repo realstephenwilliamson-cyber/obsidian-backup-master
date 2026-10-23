@@ -31,6 +31,9 @@ saṃvitsvarūpaprakaṭatvamitthaṃ tatrāvadhāne yatatāṃ subuddhiḥ || ^
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 420)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.203]]
+
 *Lead-in:* अतोऽत्रैवावधातव्यम् -- इत्याह --
 
 > विकल्पनिर्ह्रासवशेन याति विकल्पवन्ध्या परमार्थसत्या ।

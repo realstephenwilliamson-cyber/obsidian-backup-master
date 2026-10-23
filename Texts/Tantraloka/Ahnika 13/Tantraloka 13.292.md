@@ -33,6 +33,11 @@ aparārdhena tasyaiva śaktipātasya citratām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 303–304)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.290–292]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.292–293]]
+
 *Lead-in:* न केवलं कर्हिचित्प्राप्तशब्दाभ्यामेवैतदूचिवान्, यावदपरार्धेनापि - - इत्याह --
 
 > अपरार्धेन तस्यैव शक्तिपातस्य चित्रताम् ॥

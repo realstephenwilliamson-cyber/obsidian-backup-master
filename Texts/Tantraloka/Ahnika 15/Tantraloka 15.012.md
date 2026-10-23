@@ -31,6 +31,9 @@ ato'sya saṃskriyāmātropayogo dīkṣayā kṛtaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 9–10)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.12]]
+
 *Lead-in:* ननु इह समनन्तरोक्तयुक्त्या दीक्षामन्तरेण योगज्ञानादावधिकार एव न भवेत्--इति ज्ञानं दीक्षापूर्वकमिति वक्तव्यं प्रत्युत कथमेतदन्यथोक्तम् ?--इत्याशङ्क्य आह--
 
 > ज्ञानं च शास्त्रात्तच्चापि श्राव्यो नादीक्षितो यतः ।

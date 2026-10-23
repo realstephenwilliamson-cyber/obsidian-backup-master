@@ -31,6 +31,9 @@ jñānamanyattrikaguroranyattvadharavartinām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 330)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.76]]
+
 *Lead-in:* ननु अस्य अन्योऽपि गुरुरस्तु तेनैव गुरुणा कोऽर्थः?--इत्याशङ्कां दृष्टान्तान्तरेणापि निरवकाशयति--
 
 > त्रिजगज्ज्योतिषो ह्यन्यत्तेजोऽन्यच्च निशाकृतः ।

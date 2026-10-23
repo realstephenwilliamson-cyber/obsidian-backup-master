@@ -33,6 +33,11 @@ tyāgāyādānasaṃpattyai dvayāya dvitayaṃ vinā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 248–250)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.265–266]]
+>
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.266–268]]
+
 *Lead-in:* तत्रानुसन्धानभेदकृतं कर्मभेदं तावदाह --
 
 Jayaratha comments on this verse together with 9.265: see [[Tantraloka 09.265#Viveka|9.265]].

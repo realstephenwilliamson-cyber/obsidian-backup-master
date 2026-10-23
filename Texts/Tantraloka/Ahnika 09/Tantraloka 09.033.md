@@ -36,6 +36,11 @@ yadi tatra bhavenmerurbhaviṣyanvāpi kaścana || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 40–41)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.32–33]]
+>
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.33–35]]
+
 *Lead-in:* नन्वत्र दूरभाविनोरन्वयव्यतिरेकानुविधानमसिद्धम् ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 9.32: see [[Tantraloka 09.032#Viveka|9.32]].

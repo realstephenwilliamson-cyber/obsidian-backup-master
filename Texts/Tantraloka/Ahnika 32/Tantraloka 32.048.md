@@ -31,6 +31,9 @@ tenaiva syātkhagāmīti śrīmatkāmika ucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 158)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.47–48]]
+
 > चुम्बाकारेण वक्त्रेण यत्तत्त्वं श्रूयते परम् ॥
 > ग्रसमानमिदं विश्वं चन्द्रार्कपुटसंपुटे ।
 > तेनैव स्यात्खगामीति श्रीमत्कामिक उच्यते ॥

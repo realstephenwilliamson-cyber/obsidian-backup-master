@@ -33,6 +33,11 @@ nāḍayo brahmavaṃśasya lopyā netrādrasasthitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 122–123)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.137–138]]
+>
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.138–139]]
+
 *Lead-in:* एवं दिक्चतुष्टये वर्तनामभिधाय कोणेषु अपि आह--
 
 > द्वारप्राकारकोणेषु नेत्रानलशरानृतून् ।

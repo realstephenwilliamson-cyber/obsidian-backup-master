@@ -37,6 +37,11 @@ anāśrito'nāthamayamanantaṃ khavapuḥ sadā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 374–375)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.403]]
+>
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.403–405]]
+
 *Lead-in:* तदधिष्ठानेऽपि अस्य समनैव करणम् -- इत्याह --
 
 > तयाधितिष्ठति विभुः कारणानां तु पञ्चकम् ।

@@ -31,6 +31,9 @@ taistribhiḥ sarasairāpaḥ sagandhairbhūriti kramaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 265)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.287–288]]
+
 > शब्दस्पर्शौ तु रूपेण समं प्रक्षोभमागतौ ॥
 > तेजस्तत्त्वं त्रिभिर्धर्मैः प्राहुः पूर्ववदेव तत् ।
 > तैस्त्रिभिः सरसैरापः सगन्धैर्भूरिति क्रमः ॥

@@ -31,6 +31,9 @@ svātantryamojo vīryaṃ ca piṇḍaḥ saṃviccharīrakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 203–205)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.4]]
+
 *Lead-in:* तत्र कुलप्रक्रिययेत्यत्र उक्तं कुलशब्दं तावद् व्याचष्टे--
 
 > कुलं च परमेशस्य शक्तिः सामर्थ्यमूर्ध्वता ।

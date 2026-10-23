@@ -36,6 +36,11 @@ tadā saptatidhā jñeyā jananādivivarjitā |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 73–76)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.162–163]]
+>
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.163]]
+
 *Lead-in:* एवं शोध्यशोधकवैचित्र्यमभिधाय तन्महिमोपनतां दीक्षाभिदमभिधातुमाह--
 
 > शोध्यभेदोऽथ वक्तव्यः संक्षेपात्सोऽपि कथ्यते ॥

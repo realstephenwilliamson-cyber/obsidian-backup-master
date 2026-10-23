@@ -35,6 +35,9 @@ evaṃ kalāḥ pañcadaśa kṣīyante śaśinaḥ kramāt |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 323)
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.97]]
+
 > एतदेव प्रकृते योजयति
 > एवं कलाः पञ्चदश क्षीयन्ते शशिनः क्रमात् ।
 > आप्यायिन्यमृताबूर्पतादात्म्यात्षोडशी न तु ॥

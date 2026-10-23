@@ -33,6 +33,11 @@ pūrvaṃ hi yāgāṅgatayā proktaṃ tattuṣṭaye tvidam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 197–198)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.430–431]]
+>
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.431–432]]
+
 *Lead-in:* इत्यादिना प्राक् दक्षिणादिदानमुक्तं तत्किमिहि अस्य पुनर्वचनेन?-- इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 28.430: see [[Tantraloka 28.430#Viveka|28.430]].

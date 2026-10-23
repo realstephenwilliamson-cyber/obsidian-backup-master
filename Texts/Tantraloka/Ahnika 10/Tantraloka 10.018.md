@@ -31,6 +31,9 @@ nyagbhūtodriktaśaktitvāttadbhedo vedyabhedakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 302–303)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.18]]
+
 *Lead-in:* एवं प्रसङ्गात्सकलादिशक्तीनां स्वरूपमभिधाय प्रकृतमेवाह --
 
 > आ शिवात्सकलान्तं ये मातारः सप्त ते द्विधा ।

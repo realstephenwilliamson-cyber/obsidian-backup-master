@@ -35,6 +35,9 @@ nadansarveṣu bhūteṣu śivaśaktyā hyadhiṣṭhitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 364–366)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.390–393]]
+
 > इत्यर्धेन्दुनिरोध्यन्तबिन्द्वावृत्यूर्ध्वतो महान् ॥
 > नादः किञ्जल्कसदृशो महद्भिः पुरुषैर्वृतः ।
 > चत्वारि भुवनान्यत्र दिक्षु मध्ये च पञ्चमम् ॥

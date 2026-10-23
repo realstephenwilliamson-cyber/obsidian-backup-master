@@ -33,5 +33,12 @@ kulaparveti tad brūmo yathoktaṃ bhairave kule || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 9–13)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 28.15–18.*
+>
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.10–14]]
+>
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.15–18]]
+
 Jayaratha comments on this verse together with 28.17: see [[Tantraloka 28.017#Viveka|28.17]].
 

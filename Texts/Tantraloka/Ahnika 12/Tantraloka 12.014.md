@@ -34,6 +34,9 @@ dravyaughe na vidhiḥ ko'pi na kāpi pratiṣiddhatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 108–109)
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.14]]
+
 *Lead-in:* नन्वेवंविधे त्वर्चनादौ किं बाह्यं किञ्चिदपेक्षणीयं न वा ? -- इत्याशङ्क्याह --
 
 > अत्र पूजाजपाद्येषु बहिरन्तर्द्वयस्थितौ ।

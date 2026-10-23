@@ -33,6 +33,11 @@ vicitraṃ hi phalaṃ bhinnaṃ bhogyatvenābhimanyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 96–97)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.99–100]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.100–101]]
+
 *Lead-in:* तदाह --
 
 > विचित्रं हि फलं भिन्नं भोग्यत्वेनाभिमन्यते ॥

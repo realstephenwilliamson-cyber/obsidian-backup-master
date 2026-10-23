@@ -34,6 +34,9 @@ nāsmākaṃ mānasāvarjī loko bhinnaruciryataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 373–374)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.192–193]]
+
 > रुद्रशक्तिसमावेशः पञ्चधा ननु चर्च्यते ।
 > कोऽवकाशो भवेत्तत्र भौतावेशादिवर्णने ॥
 > प्रसङ्गादेतदितिचेत्समाधिः सम्भवन्नयम् ।

@@ -31,6 +31,9 @@ grāhyākāroparāgāttu grahītrākāratāvaśāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 401–403)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.178–181]]
+
 > अस्यैव सप्तकस्य स्वस्वव्यापारप्रकल्पने ।
 > प्रक्षोभो यस्तदेवोक्तं शक्तीनां सप्तकं स्फुटम् ॥
 > शिवो ह्यच्युतचिद्रूपस्तिस्रस्तच्छक्तयस्तु याः ।

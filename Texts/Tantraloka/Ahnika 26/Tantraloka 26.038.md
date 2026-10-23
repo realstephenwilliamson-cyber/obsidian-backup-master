@@ -34,5 +34,8 @@ suśuddhaḥ sanvidhiṃ sarvaṃ kṛtvāntarajapāntakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 384–385)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.37–42]]
+
 Jayaratha comments on this verse together with 26.42: see [[Tantraloka 26.042#Viveka|26.42]].
 

@@ -34,6 +34,9 @@ jaḍābhāseṣu tattveṣu saṃvitsthityai tato guruḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 149)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.16–17]]
+
 *Lead-in:* ननु यद्येवं तज्जडानां धरादीनां कथं पूजादि युज्येत्?-- इत्याशङ्क्याह--
 
 > जडाभासेषु तत्त्वेषु संवित्स्थित्यै ततो गुरुः ।

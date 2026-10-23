@@ -31,6 +31,9 @@ tata eva kramavyaktikṛto dhībheda ucyate |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 270)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.293]]
+
 *Lead-in:* ननु यदि धरादेर्गन्धादेश्च रूपे न कश्चिद्भेदः संभवति तत् कथम् "उपायभेदे तद्भाति यदि बुद्धिभिदा कुतः ।"इत्यादिनीत्या "गन्धवती धरा"इति विशेषणविशेष्यतया बुद्धिभेदो भवेत् ? -- इत्याशङ्क्याह - -
 
 > तत एव क्रमव्यक्तिकृतो धीभेद उच्यते ।

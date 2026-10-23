@@ -35,6 +35,9 @@ vāmā jyeṣṭhā raudrī śaktiḥ sakalā ca śānteyam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 395–397)
+> ![[Tantraloka Dyczkowski v05 11 - Chapter Eight, part 9#Viveka on 8.445–452]]
+
 > अन्येऽहङ्कारान्तस्तन्मात्राणीन्द्रियाणि चाप्याहुः ॥
 > धियि योन्यष्टकमुक्तं प्रकृतौ योगाष्टकं किलाकृतप्रभृति ।
 > इति सप्ताष्टकभुवना प्रतिष्ठितिः सलिलतो हि मूलान्ता ॥

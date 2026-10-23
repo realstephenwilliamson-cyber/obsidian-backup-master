@@ -36,6 +36,9 @@ dedīpyate vimalabodhahutāśarāśiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 375–376)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.46]]
+
 *Lead-in:* ननु जीवत एव यन्न सिद्धं तन्मृतस्य भविष्यति इत्यत्र किं प्रमाणम्? -- इत्याशङ्क्याह --
 
 > संसारजीर्णतरुमूलकलापकल्प

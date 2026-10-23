@@ -33,6 +33,11 @@ bhagrahatithivelāṃśānuyāyi sarvāṅgasundaraṃ tu dinam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 33–34)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.56–57]]
+>
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.57–58]]
+
 *Lead-in:* एवं षडंशयोगिनि दिने तु महता विशेषेण अर्चनं कुर्यात्--इत्याह- -
 
 > भग्रहतिथिवेलांशानुयायि सर्वाङ्गसुन्दरं तु दिनम् ॥

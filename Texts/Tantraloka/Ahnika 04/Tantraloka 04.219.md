@@ -34,5 +34,8 @@ tattve niścalacittastu bhuñjāno viṣayānapi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 316–318)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.217–221]]
+
 Jayaratha comments on this verse together with 4.220: see [[Tantraloka 04.220#Viveka|4.220]].
 

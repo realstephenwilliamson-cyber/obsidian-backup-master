@@ -34,6 +34,9 @@ tathāpi taccharīrānte tajjñānaṃ vyajyate sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 155–159)
+> ![[Tantraloka Dyczkowski v01 05 - Chapter One, part 4#Viveka on 1.43]]
+
 *Lead-in:* इत्याशङ्क्याह—
 
 > तत्र दीक्षादिना पौंस्नमज्ञानं ध्वंसि यद्यपि ।

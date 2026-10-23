@@ -31,6 +31,9 @@ karma syāt sahakāryeva sukhaduḥkhodbhavaṃ prati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 154–155)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.180]]
+
 *Lead-in:* ननु मा भूत् कलाया निर्विकारत्वादणुरुपादानकारणम्, मायैवेति तु कुतोऽयं नियमः; संयुक्तानां हि मलमायाकर्मणां संसारकारणत्वमित्युक्तम्? -- तदेतदाशशङ्क्याह --
 
 > मलश्चावारको माया भावोपादानकारणम् ।

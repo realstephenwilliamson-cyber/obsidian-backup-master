@@ -33,6 +33,11 @@ dehatyāge sabījāyāṃ karmābhāvādvipadyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 29–30)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.33]]
+>
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.33–34]]
+
 *Lead-in:* उभयरूपयापि अनया किं भवेत् ? --इत्याशङ्क्य आह--
 
 > दीक्षावसाने शुद्धस्य देहत्यागे परं पदम् ।

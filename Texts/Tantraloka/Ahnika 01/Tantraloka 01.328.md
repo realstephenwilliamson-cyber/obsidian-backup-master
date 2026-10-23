@@ -37,6 +37,11 @@ mukhyatvena ca vedyatvādadhikārāntarakramaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 475)
+> ![[Tantraloka Dyczkowski v01 13 - Chapter One, part 12#Viveka on 1.327–328]]
+>
+> ![[Tantraloka Dyczkowski v01 13 - Chapter One, part 12#Viveka on 1.328]]
+
 *Lead-in:* ननु यद्यतः प्रभृति भेदो नास्ति तत्किमिति आह्निकान्तरपरिगणनमेव कृतम्? इत्याशङ्क्याह --
 
 > मुख्यत्वेन च वेद्यत्वादधिकारान्तरक्रमः ॥

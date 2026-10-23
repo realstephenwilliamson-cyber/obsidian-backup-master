@@ -31,6 +31,11 @@ tadeva mukhyato'dhastādaprakāśaṃ yataḥ sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 128–129)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 15.208.*
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.208]]
+
 > खमरुद्वह्निजलभूखानि वक्त्राण्यमुष्य हि ॥
 > मुख्यत्वेन खमेवोर्ध्वं प्रकाशमयमुच्यते ।
 > तदेव मुख्यतोऽधस्तादप्रकाशं यतः स्फुटम् ॥

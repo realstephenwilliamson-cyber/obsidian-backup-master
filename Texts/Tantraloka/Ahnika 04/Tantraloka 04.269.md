@@ -36,6 +36,11 @@ etacca mataśāstreṣu niṣiddhaṃ khaṇḍanā yataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 376–377)
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.268–269]]
+>
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.269–270]]
+
 *Lead-in:* एतच्च अन्यत्र निषिद्धमित्याह --
 
 > एतच्च मतशास्त्रेषु निषिद्धं खण्डना यतः ॥

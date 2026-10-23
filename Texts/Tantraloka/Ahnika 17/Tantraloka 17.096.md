@@ -34,6 +34,9 @@ kṛtanirbījadīkṣastu devāgnigurubhaktibhāk || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 180)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.96–97]]
+
 > देहपाते पुनः प्रेप्सेद्यदि तत्त्वेषु कुत्रचित् ।
 > भोगान् समस्तव्यस्तत्वभेदैरन्ते परं पदम् ॥
 > तदा तत्तत्त्वभूमौ तु तत्संख्यायामनन्यधीः ।

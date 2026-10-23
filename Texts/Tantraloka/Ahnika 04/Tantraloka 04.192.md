@@ -34,6 +34,9 @@ ahamityāhureṣaiva prakāśasya prakāśatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 295–297)
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.192–193]]
+
 *Lead-in:* एतदेवान्यत्रापि अतिदिशति --
 
 Jayaratha comments on this verse together with 4.193: see [[Tantraloka 04.193#Viveka|4.193]].

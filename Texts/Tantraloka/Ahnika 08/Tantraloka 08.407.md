@@ -37,6 +37,13 @@ aṇḍasyāntaranantaḥ kālaḥ kūṣmāṇḍahāṭakau brahmaharī || ^ia
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 376)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 8.407–408.*
+>
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.407–408]]
+>
+> ![[Tantraloka Dyczkowski v05 11 - Chapter Eight, part 9#Viveka on 8.407–408 (continued)]]
+
 *Lead-in:* तदेवाह -
 
 Jayaratha comments on this verse together with 8.406: see [[Tantraloka 08.406#Viveka|8.406]].

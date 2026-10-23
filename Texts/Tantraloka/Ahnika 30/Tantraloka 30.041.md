@@ -33,5 +33,10 @@ tāraḥ ślīṃ paśu huṃ phaṭ ca tadastraṃ rasavarṇakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 31–32)
+> ![[Tantraloka Dyczkowski v11 02 - Chapter Thirty, part 1#Viveka on 30.40–41]]
+>
+> ![[Tantraloka Dyczkowski v11 02 - Chapter Thirty, part 1#Viveka on 30.41]]
+
 Jayaratha comments on this verse together with 30.63: see [[Tantraloka 30.063#Viveka|30.63]].
 

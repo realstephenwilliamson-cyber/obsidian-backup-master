@@ -36,6 +36,9 @@ yadbhūṣayatyavirataṃ taṭinī vitastā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 250)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.51]]
+
 > विध्वस्तपाप्ममुनिसिद्धमनुष्यवन्द्या ॥
 > भोगापवर्गपरिपूरणकल्पवल्ली
 > भोगैकदानरसिकां सुरसिद्धसिन्धुम् ।

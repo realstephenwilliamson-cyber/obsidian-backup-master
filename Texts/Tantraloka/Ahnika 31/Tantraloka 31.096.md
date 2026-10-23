@@ -31,6 +31,9 @@ asyordhve tu parāṃ dakṣe'nyāṃ vāme cāparāṃ budhaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 107)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.93–96]]
+
 > सव्यासव्ये तथैवेह कटिस्थाब्जे समालिखेत् ॥
 > कर्णिका पीतला रक्तपीतशुक्लं च केसरम् ।
 > दलानि पद्मबाह्यस्था शुक्ला च प्रतिवारणी ॥

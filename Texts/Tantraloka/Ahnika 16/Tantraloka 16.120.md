@@ -34,6 +34,9 @@ uttarādikramāddvyekabhedo vidyādike traye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 56)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.120]]
+
 *Lead-in:* विद्यादौ त्रये चागमोऽपि एतामेव व्याख्यां सहते इति दर्शयितुमाह--
 
 > श्रीपूर्वशास्त्रे तच्चोक्तं परमेशेन शंभुना ।

@@ -34,5 +34,8 @@ mokṣaḥ sa eva kathitaḥ prāṇāyāmo nirarthakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 106–110)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.89–91]]
+
 Jayaratha comments on this verse together with 4.91: see [[Tantraloka 04.091#Viveka|4.91]].
 

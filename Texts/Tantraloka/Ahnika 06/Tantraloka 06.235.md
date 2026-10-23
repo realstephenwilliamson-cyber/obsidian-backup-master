@@ -35,5 +35,8 @@ aṅgulārdhe'dribhāgena tvardhamātrā purā punaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 440–441)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.234–236]]
+
 Jayaratha comments on this verse together with 6.236: see [[Tantraloka 06.236#Viveka|6.236]].
 

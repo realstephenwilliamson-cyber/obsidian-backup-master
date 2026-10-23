@@ -36,6 +36,11 @@ laukikālaukikaṃ sarvaṃ tenātra viniyojayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 109–110)
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.16–17]]
+>
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.17–18]]
+
 *Lead-in:* एतच्च सर्वमेवात्र विहितम् -- इत्याह --
 
 > लौकिकालौकिकं सर्वं तेनात्र विनियोजयेत् ॥

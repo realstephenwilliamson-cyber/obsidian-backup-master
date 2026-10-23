@@ -35,6 +35,9 @@ tadyogāddaiśikasyāpi vikalpaḥ śivatāṃ vrajet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 109–110)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.250–251]]
+
 > विकल्पः किल सञ्जल्पमयो यत्स विमर्शकः ।
 > मन्त्रात्मासौ विमर्शश्च शुद्धोऽपाशवतात्मकः ॥
 > नित्यश्चानादिवरदशिवाभेदोपकल्पितः ।

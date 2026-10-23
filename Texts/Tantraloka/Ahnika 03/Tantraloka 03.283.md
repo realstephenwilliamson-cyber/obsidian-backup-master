@@ -35,6 +35,9 @@ sraṣṭā viśvātmaka iti prathayā bhairavātmatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 405)
+> ![[Tantraloka Dyczkowski v02 12 - Chapter Three, part 9#Viveka on 3.283–285]]
+
 *Lead-in:* अत एव स्वात्मनि सृष्ट्यादिकारित्वमेव परामृशन् परसंविदैकात्म्यमेति, -- इत्याह --
 
 Jayaratha comments on this verse together with 3.285: see [[Tantraloka 03.285#Viveka|3.285]].

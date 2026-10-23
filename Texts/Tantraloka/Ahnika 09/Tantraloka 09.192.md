@@ -33,6 +33,11 @@ buddhiṃ paśyati sā vidyā buddhidarpaṇacāriṇaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 165–167)
+> ![[Tantraloka Dyczkowski v06 07 - Chapter Nine, part 5#Viveka on 9.191–192]]
+>
+> ![[Tantraloka Dyczkowski v06 07 - Chapter Nine, part 5#Viveka on 9.192–193]]
+
 *Lead-in:* ननु आत्मनः सांख्यैः कर्तृत्वं नाभ्युपेयते -- इति तदुपपादकं कलातत्त्वं यदुक्तं तदास्ताम्; ज्ञत्वं पुनरस्य बुद्ध्यादिद्वारेण तैरुपपादितम् -- इति किमनेन? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 9.191: see [[Tantraloka 09.191#Viveka|9.191]].

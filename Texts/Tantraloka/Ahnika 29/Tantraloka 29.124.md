@@ -33,6 +33,11 @@ tanmukhyacakramuktaṃ maheśinā yoginīvaktram || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 315–316)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.123–124]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.124–125]]
+
 *Lead-in:* एवमेतत् प्रसङ्गादभिधाय प्रकृतमेव आह--
 
 > तन्मुख्यचक्रमुक्तं महेशिना योगिनीवक्त्रम् ॥

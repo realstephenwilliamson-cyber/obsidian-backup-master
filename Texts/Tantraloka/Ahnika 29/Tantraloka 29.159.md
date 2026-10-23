@@ -31,6 +31,9 @@ nirvānti tatra caivaṃ yo'ṣṭavidho nādabhairavaḥ paramaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 338–339)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.158–160]]
+
 > कुचमध्यहृदयदेशादोष्ठान्तं कण्ठगं यदव्यक्तम् ॥
 > तच्चक्रद्वयमध्यगमाकर्ण्य क्षोभविगमसमये यत् ।
 > निर्वान्ति तत्र चैवं योऽष्टविधो नादभैरवः परमः ॥

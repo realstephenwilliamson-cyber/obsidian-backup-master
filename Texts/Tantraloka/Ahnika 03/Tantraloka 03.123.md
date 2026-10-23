@@ -37,6 +37,13 @@ saṃvideva tu vijñeyatādātmyādanapekṣiṇī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 226–230)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.121–123]]
+>
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.121–123 (continued)]]
+>
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.123–124]]
+
 *Lead-in:* ननु वह्नेः परापेक्षप्रकाशत्वात् समनन्तरमेव जाड्यमुक्तं तत्कथमसौ चेतनैकवपुषः प्रमातुस्तत्त्वं स्यात् ? -- इत्याशङ्क्याह - -
 
 > संविदेव तु विज्ञेयतादात्म्यादनपेक्षिणी ॥

@@ -36,6 +36,11 @@ evaṃ prayatnasaṃruddhaprāṇacārasya yoginaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 9–12)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.19–21]]
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.21–22]]
+
 *Lead-in:* नन्वेवमभिलक्षणेन योगिनां किं स्यात् ? -- इत्याशङ्क्याह --
 
 > एवं प्रयत्नसंरुद्धप्राणचारस्य योगिनः ॥

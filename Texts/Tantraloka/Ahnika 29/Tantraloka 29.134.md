@@ -33,6 +33,11 @@ tacchāntapadādhyāsāccakrastho devatāgaṇaḥ sarvaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 322–323)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.133–134]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.134–135]]
+
 *Lead-in:* ननु एवं च अस्य किं स्यात् ?--इत्याशङ्क्य आह--
 
 > तच्छान्तपदाध्यासाच्चक्रस्थो देवतागणः सर्वः ॥

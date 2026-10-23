@@ -34,6 +34,11 @@ jñānameva vimokṣāya yuktaṃ caitadudāhatam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 328)
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.155]]
+>
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.155 (continued)]]
+
 *Lead-in:* तदेवोपसंहरति—
 
 > तस्मात्क्रियापि या नाम ज्ञानमेव हि सा ततः ।

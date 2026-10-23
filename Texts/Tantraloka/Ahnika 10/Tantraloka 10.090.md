@@ -31,6 +31,9 @@ adhiṣṭhānaṃ hi devena yadviśvasya pravedanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 352–353)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.89–91]]
+
 > शास्त्रेऽपि तत्तद्वेद्यत्वं विशिष्टार्थक्रियाकरम् ।
 > भूयसैव तथा च श्रीमालिनीविजयोत्तरे ॥
 > तथा षड्विधमध्वानमनेनाधिष्ठितं स्मरेत् ।

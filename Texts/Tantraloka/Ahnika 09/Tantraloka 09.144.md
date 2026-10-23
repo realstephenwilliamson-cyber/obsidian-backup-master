@@ -33,6 +33,11 @@ aṇavo nāma naivānyatprakāśātmā maheśvaraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 123–125)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.144]]
+>
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.144–145]]
+
 *Lead-in:* नन्वेतद्वस्तुसामर्थ्यादेव सिद्ध्येदित्यत्रेश्वरेच्छायाः किं प्रयोजनम् ? - - इत्याशङ्क्याह --
 
 > न जडश्चिदधिष्ठानं विना क्वापि क्षमो यतः ।

@@ -36,6 +36,11 @@ itthaṃ prāguditaṃ yattatpañcakaṃ tatparasparam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 195–197)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.92]]
+>
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.92–93]]
+
 *Lead-in:* तदाह --
 
 > आत्मन्येव च विश्रान्त्या तत्प्रोक्तममृतात्मकम् ।

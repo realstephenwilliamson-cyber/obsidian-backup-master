@@ -35,6 +35,9 @@ lokapāstravidhau mantrān muktvā sarvaṃ viśodhakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 82)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.90–91]]
+
 > शोधकत्वं च मालिन्या देवीनां त्रितयस्य च ।
 > देवत्रयस्य वक्त्राणामङ्गानामष्टकस्य च ॥
 > किं वातिबहुना द्वारवास्त्वाधारगुरुक्रमे ।

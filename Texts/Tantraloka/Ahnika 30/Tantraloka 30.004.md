@@ -31,6 +31,9 @@ kṣlāṃ kṣvīṃ vaṃ kṣamiti prāhuḥ kramādvarṇacatuṣṭayam || 
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 3–4)
+> ![[Tantraloka Dyczkowski v11 02 - Chapter Thirty, part 1#Viveka on 30.4–5]]
+
 *Lead-in:* इदानी मन्त्राणामेव स्वरूपं निरूपयति--
 
 Jayaratha comments on this verse together with 30.11: see [[Tantraloka 30.011#Viveka|30.11]].

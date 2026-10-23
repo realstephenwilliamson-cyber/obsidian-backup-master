@@ -31,6 +31,9 @@ pratyayo hi na tasyāḥ syādekasyā anupāhiteḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 120–121)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.194]]
+
 *Lead-in:* ननु अस्मिन् संविदद्वयवादे दिगेव नाम का यस्या अपि उत्तरादिविभागो भवेत् ?--इत्याशङ्क्य आह--
 
 > यद्यप्यस्ति न दिङ्नाम काचित्पूर्वापरादिका ।

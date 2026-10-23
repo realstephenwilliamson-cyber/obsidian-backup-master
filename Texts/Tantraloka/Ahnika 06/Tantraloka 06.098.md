@@ -35,6 +35,9 @@ tadūrdhvagaṃ yattuṭyardhaṃ pakṣasaṃdhiḥ sa kīrtitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 324)
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.98]]
+
 *Lead-in:* इदानीमेतदनन्तरभाविनं कृष्णस्य शुक्लस्य च पक्षस्य सन्धिं दर्शयति --
 
 > तत्र पञ्चदशी यासौ तुटिः प्रक्षीणचन्द्रमाः ।

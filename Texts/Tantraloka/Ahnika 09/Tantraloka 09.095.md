@@ -33,6 +33,11 @@ didhvaṃsiṣudhvaṃsamānadhvastākhyāsu tisṛṣvatha || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 93–95)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.93–95]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.95–96]]
+
 *Lead-in:* अनेनैव चाभिप्रायेण विज्ञानाकलादिक्रमकल्पना सर्वत्र कृता -- इत्याह --
 
 Jayaratha comments on this verse together with 9.94: see [[Tantraloka 09.094#Viveka|9.94]].

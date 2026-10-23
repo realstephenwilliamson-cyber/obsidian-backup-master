@@ -37,6 +37,11 @@ buddheśca guṇaparyantamubhe saptādhike śate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 272–275)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.260–262]]
+>
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.262–263]]
+
 *Lead-in:* इयदन्तं भुवनानि सङ्कलयति --
 
 > बुद्धेश्च गुणपर्यन्तमुभे सप्ताधिके शते ॥

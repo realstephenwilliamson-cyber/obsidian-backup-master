@@ -35,5 +35,10 @@ tadarthaṃ vākyamaparaṃ tā hi na cyutaśaktitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 198–200)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 8.174.*
+>
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.174]]
+
 Jayaratha comments on this verse together with 8.174: see [[Tantraloka 08.174#Viveka|8.174]].
 

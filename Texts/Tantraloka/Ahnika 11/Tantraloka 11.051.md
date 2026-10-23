@@ -37,6 +37,9 @@ tattvārṇamagninayanaṃ rasaśarapuramastramantrapadamanyā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 49)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.51]]
+
 *Lead-in:* एतदेव सङ्कलयितुं प्रतिजानीते --
 
 > सङ्कलययोच्यते सर्वमधुना सुखसंविदे ।

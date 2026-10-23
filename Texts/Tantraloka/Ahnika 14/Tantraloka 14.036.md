@@ -31,6 +31,9 @@ tasmānnotkramayejjīvaṃ paratattvasamīhayā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 369)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.35–36]]
+
 *Lead-in:* अतश्च न परतत्त्वावाप्तिकामैरेतदनुष्ठेयम् -- इत्याह --
 
 > तस्मान्नोत्क्रमयेज्जीवं परतत्त्वसमीहया ॥

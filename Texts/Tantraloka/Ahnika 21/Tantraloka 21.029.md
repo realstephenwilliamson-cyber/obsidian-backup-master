@@ -34,6 +34,9 @@ yogīva sādhyahṛdayāttadā tādātmyamujjhati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 264)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.29]]
+
 *Lead-in:* एतदेव दृष्टान्तोपदर्शनेन द्रढयति--
 
 > तज्ज्ञानमन्त्रयोगाप्तः पुरुषश्चैष कृत्रिमम् ।

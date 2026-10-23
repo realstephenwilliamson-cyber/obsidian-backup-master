@@ -279,7 +279,7 @@ and She is
 [^7]: final-Mem
 [^8]: 40
 [^9]: *Shavu’ot*
-[^10]: X *BT* Berakhot 61a and *Vayiqra Rabbah* 14:1
+[^10]: X *BT* [[Berakhot 61#61a|Berakhot 61a]] and *Vayiqra Rabbah* 14:1
 [^11]: womb
 [^12]: 248
 [^13]: Festival of Weeks

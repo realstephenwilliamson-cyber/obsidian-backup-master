@@ -33,6 +33,11 @@ anyathā tasya śuddhasya vimarśaprāṇavartinaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 161–162)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.270–271]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.271–272]]
+
 *Lead-in:* एतदेव व्यतिरेकद्वारेण दर्शयति--
 
 > अन्यथा तस्य शुद्धस्य विमर्शप्राणवर्तिनः ॥

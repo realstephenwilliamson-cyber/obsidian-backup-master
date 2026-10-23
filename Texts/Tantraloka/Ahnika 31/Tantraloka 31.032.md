@@ -31,6 +31,9 @@ tato dvārāṇi kāryāṇi citravartanayā kramāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 81)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.30–32]]
+
 > तत्र दण्डः स्मृतो भागः षडरामलसारकः ।
 > सुतीक्ष्णाग्रः सुरक्ताभः क्षणादावेशकारकः ॥
 > या सा कुण्डलिनी देवी तरङ्गाख्या महोर्मिणी ।

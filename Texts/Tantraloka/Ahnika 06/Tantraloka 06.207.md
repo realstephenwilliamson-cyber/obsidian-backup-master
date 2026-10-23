@@ -37,6 +37,11 @@ viṣuvatprabhṛti hrāsavṛddhī ye dinarātrige || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 417–420)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.206–207]]
+>
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.207–208]]
+
 *Lead-in:* ननु विषुवत्संक्रान्तौ यद्येवं नियमस्तत्तदितरासु का व्यवस्था ? -- इत्याशङ्क्याह --
 
 > विषुवत्प्रभृति ह्रासवृद्धी ये दिनरात्रिगे ॥

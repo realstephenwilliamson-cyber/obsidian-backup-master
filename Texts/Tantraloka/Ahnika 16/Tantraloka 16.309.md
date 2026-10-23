@@ -37,6 +37,11 @@ bhuñjānasyāsya satataṃ bhogānmāyālayāntataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 137)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.308–309]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.309–310]]
+
 *Lead-in:* अत एवास्य न कुत्रचिदपि दुःखोपभोगो भवेत्--इत्याह--
 
 > भुञ्जानस्यास्य सततं भोगान्मायालयान्ततः ॥

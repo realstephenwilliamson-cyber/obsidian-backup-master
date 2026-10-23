@@ -64,16 +64,16 @@ It is comparable, by way of example, to one who seizes the king’s head, drags 
 [^6]: See Addendum, Glossary on *Birur*.
 [^7]: Our material world being the “lowest” or grossest, evil is here at its strongest.
 [^8]: [[Torah 35 - Nasso#^5-12|Numbers 5:12]].
-[^9]: *Sotah* 3a.
+[^9]: [[Sotah 3#3a|*Sotah* 3a]].
 [^10]: Ch. 19.
-[^11]: *Sanhedrin* 38a; *Vayikra Rabbah* 14.
+[^11]: [[Sanhedrin 38#38a|*Sanhedrin* 38a]]; *Vayikra Rabbah* 14.
 [^12]: The symbol of extreme selfishness.
-[^13]: Cf. *Megillah* 3a.
+[^13]: Cf. [[Megillah 3#3a|*Megillah* 3a]].
 [^14]: [[Torah 02 - Noach#^9-2|Genesis 9:2]].
-[^15]: *Sanhedrin* 38b; i.e., debased by sin.
-[^16]: *Yoma* 82a.
-[^17]: *Sanhedrin* 74a.
-[^18]: *Shabbat* 151b; *Yoma* 85b.
+[^15]: [[Sanhedrin 38#38b|*Sanhedrin* 38b]]; i.e., debased by sin.
+[^16]: [[Yoma 82#82a|*Yoma* 82a]].
+[^17]: [[Sanhedrin 74#74a|*Sanhedrin* 74a]].
+[^18]: [[Shabbat 151#151b|*Shabbat* 151b]]; [[Yoma 85#85b|*Yoma* 85b]].
 [^19]: Jewish law disqualifies one who openly desecrates Shabbat, or commits idolatry, from slaughtering animals for “kosher” consumption, but not in the case of a person guilty of any other particular transgression, including incest.
 [^20]: Hence it is not a matter of lenity or gravity of the sins in question.
 [^21]: Above, ch. 2.

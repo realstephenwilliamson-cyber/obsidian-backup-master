@@ -35,6 +35,9 @@ taptatvāttatpibedindusahabhūḥ siṃhikāsutaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 328–329)
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.101]]
+
 *Lead-in:* नन्वेतावन्मात्रात्सूर्यग्रहणं भवेदित्यत्र क इवाशयः ? -- इत्याशङ्क्याह --
 
 > तत्रार्कमण्डले लीनः शशी स्रवति यन्मधु ।

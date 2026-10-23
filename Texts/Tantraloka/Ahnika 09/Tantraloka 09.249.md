@@ -33,6 +33,11 @@ vidyāṃ vinā hi nānyeṣāṃ karaṇānāṃ nijā sthitiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 236–237)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.249]]
+>
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.249–250]]
+
 *Lead-in:* अस्याः प्रयोजककर्त्तृत्वाभिधानात् न करणवर्गान्तःपातः -- इत्याह --
 
 > अतोऽसामान्यकरणवर्गात् तत्र पृथक् कृता ।

@@ -36,6 +36,11 @@ tataḥ prāguktasakalaprameyaṃ paricintayan || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 172–174)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.76–78]]
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.78–82]]
+
 *Lead-in:* एवं पाशदाहमभिधाय योजनिकामाह--
 
 Jayaratha comments on this verse together with 17.77: see [[Tantraloka 17.077#Viveka|17.77]].

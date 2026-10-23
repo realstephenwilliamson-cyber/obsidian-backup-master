@@ -31,6 +31,9 @@ kriyate karma tatsarvamajñānasacivaṃ tadā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 139–140)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.27–29]]
+
 > प्राक्पक्षे प्रलये वृत्ते प्राच्यसृष्टिप्रवर्तने ।
 > देहाद्यभावान्नो मिथ्याज्ञानस्य क्वापि संभवः ॥
 > उत्तरस्मिन्पुनः पक्षे यदा यद्येन यत्र वा ।

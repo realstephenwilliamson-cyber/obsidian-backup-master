@@ -52,7 +52,7 @@ In its biblical context, this verse differentiates Abraham’s relationship with
 
 [[Torah 05 - Chayei Sara#^25-6|Genesis 25:6]] also establishes a spatial distinction: Isaac remains in the land promised to Abraham, whereas the later children live “east” of it. “East” signifies the lesser importance and locale where the lesser relatives live. Where was the “land of the east”? Scripture locates the Midianites, descendants of Keturah’s son Midian, in the Sinai Peninsula during the time of Moses and near the land of Moab in later times, east of the Jordan River. In the rest of Scripture, “the children of the East,” *benei qedem*, which I am translating as “the Easterners,” were nations who lived in an area generally to the immediate east of the Israelite territories, and perhaps as far as Aram-Naharaim to the northeast.<sup>13</sup>
 
-In the Babylonian Talmud, “the children of Keturah” appear as cunning competitors for the ownership of the land of Israel (b. Sanh. 91a) and as a taunting name for ignorant Jews (b. Zevah. im 62a-b). When the question arises of what Abraham gave to Keturah’s sons, Rabbi Jeremiah bar Abba, on the basis of the faulty way in the which the word *matanot*, “gifts,” is spelled in the biblical text, and to belittle this inheritance, infers that the gifts were faulty. “This teaches,” he said, “that he passed to them a name of impurity” (*shem tum’ah*), which Rashi later explains as a name to be used for “sorcery and \[dealings with\] demons” (b. Sanh. 91a). This interpretation then becomes the major current of meanings surrounding [[Torah 05 - Chayei Sara#^25-6|Genesis 25:6]].
+In the Babylonian Talmud, “the children of Keturah” appear as cunning competitors for the ownership of the land of Israel (b. [[Sanhedrin 91#91a|Sanh. 91a]]) and as a taunting name for ignorant Jews (b. Zevah. im 62a-b). When the question arises of what Abraham gave to Keturah’s sons, Rabbi Jeremiah bar Abba, on the basis of the faulty way in the which the word *matanot*, “gifts,” is spelled in the biblical text, and to belittle this inheritance, infers that the gifts were faulty. “This teaches,” he said, “that he passed to them a name of impurity” (*shem tum’ah*), which Rashi later explains as a name to be used for “sorcery and \[dealings with\] demons” (b. [[Sanhedrin 91#91a|Sanh. 91a]]). This interpretation then becomes the major current of meanings surrounding [[Torah 05 - Chayei Sara#^25-6|Genesis 25:6]].
 
 Medieval commentators later addressed questions about the impurity of Abraham’s gifts. Hezekiah ben Manoah. , writing in the mid-13th century, asks in his comment on [[Torah 05 - Chayei Sara#^25-6|Genesis 25:6]] how such a saint as Abraham could transmit a holy name to “wicked ones” (as Keturah’s sons are now called). Reading the Talmudic phrase as “a name in impurity,” *shem betum’ah*, Hezekiah replies that Abraham gave them merely a name to conjure demons through lower unholy powers, even when the sons were in an impure bodily state. Hezekiah identifies the “east” of the verse as the land of Aram, related to Uz where Job lived among “the Easterners” ([[Job 01#^1-3|Job 1:3]]). The *Tosafot*, commentators living in the 13th and 14th centuries (in *Da\`at* 
 
@@ -371,7 +371,7 @@ which 24:10 identifies as Aram-naharaim. See also “children of the East” in 
 
 Jewish Publication Society, 1953), 119–121.
 
- 24 See Midr. Rab. Gen. 36.8, 63.10, 85.12 and b. Makkot 23b.
+ 24 See Midr. Rab. Gen. 36.8, 63.10, 85.12 and b. [[Makkot 23#23b|Makkot 23b]].
 
  25 [[Isaiah 06#^6-13|Isa. 6:13]], [[Isaiah 44#^44-13|44:13]].
 
@@ -453,7 +453,7 @@ Ispalkinus seeking the Garden of Eden *me\`ever le-hodu*, “across from India,�
 
  62 I refer to *Piedra gloriosa o de la estatua de Nebuchadnesar* (1655), which interprets the five monarchies appearing in the second chapter of Daniel, and to *Esperanca de Israel*, The Hope of Israel (1652), inspired particularly by explorations in South America and the good fortune that individual Jewish communities were beginning to experience in several parts of Europe, including Amsterdam. The Jews of India and China appear in the latter book as proof that Jews have spread to nearly all parts of the world, thereby fulfilling messianic prophecy. Menasseh quotes Claude Duret’s claim that “there are almost an infinite number of Jews in Asia, especially India”: p. 154 of *Menas* *seh ben Israel: the Hope of Israel*, ed. with introduction by Henry Mechoulan and Gerard Nahon (Oxford: Oxford University Press, 1987).
 
- 63 Menasseh presumably finds authority for this idea in the “seven laws of Noah” (b.Sanh. 56a), and in Tosefta, Sanh. 13, where Rabbi Joshua states, “There are righteous people among the nations who have a place in the World to Come.”
+ 63 Menasseh presumably finds authority for this idea in the “seven laws of Noah” (b.[[Sanhedrin 56#56a|Sanh. 56a]]), and in Tosefta, Sanh. 13, where Rabbi Joshua states, “There are righteous people among the nations who have a place in the World to Come.”
 
  64 Mechoulan and Nahon, *The Hope of Israel*, Introduction, 42–44; and Mechoulan, “Menasseh ben Israel and the World of the Non-Jew,” in *Menasseh ben Israel and his World*, 87–90.
 

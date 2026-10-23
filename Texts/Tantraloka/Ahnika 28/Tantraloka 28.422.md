@@ -31,6 +31,9 @@ dūtīparigrahe'nyatra gataścetkāmamohitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 195)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.419–423]]
+
 > ब्रह्मघ्नो गुरुतल्पस्थो वीरद्रव्यहरस्तथा ॥
 > देवद्रव्यहृदाकारप्रहर्ता लिङ्गभेदकः ।
 > नित्यादिलोपकृद् भ्रष्टस्वकमात्रापरिच्छदः ॥

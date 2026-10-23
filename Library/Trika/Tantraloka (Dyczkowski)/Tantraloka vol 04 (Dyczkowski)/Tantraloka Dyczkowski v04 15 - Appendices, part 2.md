@@ -14,7 +14,7 @@ converted: 2026-10-07
 
 *[p. 497]* ^pg512
 
-The Day, that is, exhalation, relates to the waning half (krsna pakṣa), and the night-inhalation relates to the waxing half (śuklapakṣa).” The full moon relates to the sunrise, having gained prānṇa from the night of inhalation. After the moment of fullness in the Heart at the top of the inhalation, the Moon begins to wane through the exhalation of the day, nourishing the sensory experience. The night-inhalation is the nourishing of the Moon (waxing), while day-exhalation is the Moon nourishing everything else (waning). The Day/waning moon is the increase of objectivity, and oneness with the object. The sunset of cognitive consciousness (vitti) is the new moon, which is the complete manifestation of the perceiver intent on its object, and now ready to relish in its own nature. The night/waxing moon is the repose of the perceiving subject (6.80-82). The full moon is complete subjectivity.” 
+The Day, that is, exhalation, relates to the waning half (kṛsna pakṣa), and the night-inhalation relates to the waxing half (śuklapakṣa).” The full moon relates to the sunrise, having gained prānṇa from the night of inhalation. After the moment of fullness in the Heart at the top of the inhalation, the Moon begins to wane through the exhalation of the day, nourishing the sensory experience. The night-inhalation is the nourishing of the Moon (waxing), while day-exhalation is the Moon nourishing everything else (waning). The Day/waning moon is the increase of objectivity, and oneness with the object. The sunset of cognitive consciousness (vitti) is the new moon, which is the complete manifestation of the perceiver intent on its object, and now ready to relish in its own nature. The night/waxing moon is the repose of the perceiving subject (6.80-82). The full moon is complete subjectivity.” 
 
 Sukla Pakṣa (Bright Half) 
 
@@ -28,11 +28,11 @@ Prathama फण Trtiyà Chaturthi Pañchami । |
 
 20 00O 
 
-Ekādaśi Dvadaśi Trayodasi Chaturdaśi Pūmimā Krsna Pakṣa (Dark Half) 
+Ekādaśi Dvadaśi Trayodasi Chaturdaśi Pūmimā Kṛsna Pakṣa (Dark Half) 
 
 2O99 
 
-Prathama Dvitiyā Trtiyā Chaturthi Pañchami 
+Prathama Dvitiyā Tṛtiyā Chaturthi Pañchami 
 
 2\) ) 9 ¢ @ 
 
@@ -51,7 +51,7 @@ The names of the phases of the Moon (tithi)
 
 Lunar Day 
 
-Modern nomenclature calls the second waxing tithi as S[^592] and the third as 83. The 12 degrees before the direct opposition ®gg5[^593] degrees) of the Sun and Moon, which is the fifteenth śuklatithi, is called Pūrṇimā or the Full Moon. Pūrṇa means full, complete, filled. The moment after opposition, the waning phase \[illegible\] pakṣa) begins. Modern nomenclature uses K1, K2, K3, etc. to denote the waning rithis.” 
+Modern nomenclature calls the second waxing tithi as S[^592] and the third as 83. The 12 degrees before the direct opposition gg5[^593] degrees) of the Sun and Moon, which is the fifteenth śuklatithi, is called Pūrṇimā or the Full Moon. Pūrṇa means full, complete, filled. The moment after opposition, the waning phase \[illegible\] pakṣa) begins. Modern nomenclature uses K1, K2, K3, etc. to denote the waning rithis.” 
 
 A tithi can change at any time of the day or night. For civil purposes, the day was named after the active tithi at Sunrise. A financial transaction or a day at work would be recorded based on the nomenclature of the rithi at sunrise. To ensure clarity, the day of the week was stated with the rithi, in case a tithi overlapped two different days of the week 
 
@@ -99,27 +99,27 @@ Sir Monier Monier-Williams was the head of Asian languages at Oxford University 
 
 the first day of the first quarter on which the moon is invisible. 
 
-[^594]: The Amarakośa is an ancient thesaurus. Here we can see where the confusion may have come from with the modern dictionaries (even though they did not reference this source). Amāvāsyā tvamāvasyā darśah sūryendusaṁgamah (1.4.267) The Amarakośa puts Amāvāsyā, daría, and Sun-Moon-union (sūryendusaṁgama) in a verse as synonyms without differentiating the terms. Amāvāsyā is the last tithi, darśa is the first sighting of the waxing crescent Moon - pratipad, and Sūrya-Indu-saṁgama is the syzygy that splits the months but is used in Atharvaveda to describe Amāvāsyā. sā drṣtenduh sinīvālī sā naṣṭtendukalā kuhūh (1.4.268) The first word is ‘drṣṭendu’, which means the visible or seen Moon (which refers to the initial crescent — pratipad), the goddess Sinīvālī and Kuhū, who are identified with Amāvāsyā in the Taittirīya Sarihitā are listed with the synonym, then ‘invisible Moon phase’ (naṣṭa-Indu-kalā) refers to Amāvāsyā. 1.4.267 refers to Amāvāsyā, Amāví Pratipad, Amāvāsyā. 1.4.268 refers to Pratipad, Amāvāsyā, Amāvāsyā, Amā S way, the terms for Amāvāsyā and New Moon (Pratipad) are being mixed, and someone without astrological skill would not differentiate them.
+[^594]: The Amarakośa is an ancient thesaurus. Here we can see where the confusion may have come from with the modern dictionaries (even though they did not reference this source). Amāvāsyā tvamāvasyā darśaḥ sūryendusaṁgamaḥ (1.4.267) The Amarakośa puts Amāvāsyā, daría, and Sun-Moon-union (sūryendusaṁgama) in a verse as synonyms without differentiating the terms. Amāvāsyā is the last tithi, darśa is the first sighting of the waxing crescent Moon - pratipad, and Sūrya-Indu-saṁgama is the syzygy that splits the months but is used in Atharvaveda to describe Amāvāsyā. sā dṛṣtenduḥ sinīvālī sā naṣṭtendukalā kuhūḥ (1.4.268) The first word is ‘dṛṣṭendu’, which means the visible or seen Moon (which refers to the initial crescent — pratipad), the goddess Sinīvālī and Kuhū, who are identified with Amāvāsyā in the Taittirīya Saṁhitā are listed with the synonym, then ‘invisible Moon phase’ (naṣṭa-Indu-kalā) refers to Amāvāsyā. 1.4.267 refers to Amāvāsyā, Amāví Pratipad, Amāvāsyā. 1.4.268 refers to Pratipad, Amāvāsyā, Amāvāsyā, Amā S way, the terms for Amāvāsyā and New Moon (Pratipad) are being mixed, and someone without astrological skill would not differentiate them.
 
 *[p. 500]* ^pg515
 
 The definition would work for a general system of only four phases of the Moon’ (as some utilize), but not for a system of thirty clearly defined phases. The larger problem with Monier-Williams’ definition is that it is correct that Amāvāsyā is ‘invisible’, but it does not distinguish between before and after conjunction, as is done when thirty tithis are utilized. It does not distinguish that the ‘new crescent moon’ does not begin till the very end of Amāvāsyā, which is the exact moment that Pratipad begins, which is the first day of the first quarter. The Oxford English Dictionary defines the common usage of new moon as “the first visible crescent of the Moon, after conjunction with the Sun”. That definition fits with the visible situation of Pratipad, not Amāvāsyā. Monier-Williams correctly defines Pratipad as the new moon, but this leaves no differentiation between the first and last lunar phase, which each have special names in Sanskrit. 
 
-The Atharvaveda has three sūktas next to each other that relate to the phases of the Moon. The first is the Amāvāsyāsūkta, which is to be read at that time. The Pūrṇimā Sūkta is to be read on the full moon. And the Sūrya-Chandra Sūkta was read on sighting of the first crescent. The Amāvāsyāsūkta says that Amāvāsyā is the portion ‘dwelling together’ (sarhvasati).'\* It even calls this dwelling 
+The Atharvaveda has three sūktas next to each other that relate to the phases of the Moon. The first is the Amāvāsyāsūkta, which is to be read at that time. The Pūrṇimā Sūkta is to be read on the full moon. And the Sūrya-Chandra Sūkta was read on sighting of the first crescent. The Amāvāsyāsūkta says that Amāvāsyā is the portion ‘dwelling together’ (saṁvasati).'\* It even calls this dwelling 
 
 together 
 
-as a conjunction or union (saṁgamanī).TM The Taittirīyasarihitā (3/5/1) says that Amāvāsyā is entering into union (niveśanī sargarhani). The English astronomical word for this union is syzygy, meaning ‘yoked together’ or ‘union’. It is the union of the Sun and Moon from the view of Earth. Amāvāsyā is clearly understood to be the phase before syzygy. It was not considered a very auspicious time, as we see a prayer in the 
+as a conjunction or union (saṁgamanī). The Taittirīyasarihitā (3/5/1) says that Amāvāsyā is entering into union (niveśanī sargarhani). The English astronomical word for this union is syzygy, meaning ‘yoked together’ or ‘union’. It is the union of the Sun and Moon from the view of Earth. Amāvāsyā is clearly understood to be the phase before syzygy. It was not considered a very auspicious time, as we see a prayer in the 
 
 595?\. Four phases of \[1\] New Moon, \[2\] half waxing Moon, \[3\] Full Moon, \[illegible\] half waning Moon or an 8-phase system using \[1\] New Moon, \[2\] waxing crescent, \[3\] first quarter, \[4\] waxing gibbous, \[5\] full moon, \[6\] waning gibbous, \[7\] last quarter, \[8\] waning crescent.
 
 596?\. \[illegible\] In Astronomy, the new moon is defined as the moment the Moon and Sun have the same ecliptical longitude (syzygy), which is the time marked on calendars as the new moon. See Syzygy. (nd.). Online Etymology Dictionary. Retrieved August 19, 2014, from Dictionary.com website: http://dictionaryreference.com/browse/syzygy
 
-597?\. yat te devā akrnvan bhāgadheyamamāvāsye sańvasanto mahitvā. Atharvaveda 7.84.1 (Amāvāsyā Sūkta)
+597?\. yat te devā akṛnvan bhāgadheyamamāvāsye sańvasanto mahitvā. Atharvaveda 7.84.1 (Amāvāsyā Sūkta)
 
 598?\. \[illegible\] rātrī saṁgamanī vasūnāmūrjaṁ puṣtan vasvāveshayanīī. Atharvaveda 7.84.3 (Amāvāsyā Sūkta)
 
-599?\. Syzygy refers to when the Sun, Moon and Earth are in a straight line, which happens at either conjunction or opposition. In this way, it can refer to the end of Amāvāsyā and the beginning of sukla pratipad or the end of Pūrṇima and the beginning of krsna pratipad.
+599?\. Syzygy refers to when the Sun, Moon and Earth are in a straight line, which happens at either conjunction or opposition. In this way, it can refer to the end of Amāvāsyā and the beginning of sukla pratipad or the end of Pūrṇima and the beginning of kṛsna pratipad.
 
 
 *[p. 501]* ^pg516
@@ -136,7 +136,7 @@ The Great Lunar Conjunction
 
 The waning Moon moves closer and closer to the Sun, changing tithi each angular movement of 12 degrees between them. In the waning phase, the Moon is seen as nourishing the gods by giving up a part of herself each \[illegible\] Each phase the Moon becomes darker, and hence the stars around her become brighter, as if they are eating her light. 
 
-The last żithi, the fifteenth, which is 12 degrees of angular distance before the Sun, moves towards the End of the Twelve. This fifteenth rithi is the goddess Amavāsyā who, exhausted and empty of moonlight, enters nondual union with the Sun. At this point the exhalation (prāṇa) stops and the inhalation (apāna) begins. The sandhyā between the cycles of waning and waxing is half a lunar day (tithi), which is about eleven to twelve hours.’ Two half rithis on either side make a junction (sandhyā) of one tithi.'TM! This is the transcendent (ūrdhvaga) sixteenth tithi. When all the tithis of the Moon have been consumed by the gods (the Sun and stars externally, and the senses internally), there is a remaining transcendental portion personified as a goddess. She is śeṣa: the remaining, the last, that which is spared or saved, the end, the result, the conclusion. And She is hidden at the end of the cycle of the waning Moon. All the other portions come and go, but the transcendental sixteenth portion is always there, hidden, offering nourishment to all things (viśva). She is called Amā, ‘together’, as she is in union. The fifteen tithi, Amāvāsyā, is where Amā (togetherness) resides (vāsya). The gods are said to drink the other fifteen rithi but the final portion known as Amā, is the secret remainder within the End of 
+The last żithi, the fifteenth, which is 12 degrees of angular distance before the Sun, moves towards the End of the Twelve. This fifteenth rithi is the goddess Amavāsyā who, exhausted and empty of moonlight, enters nondual union with the Sun. At this point the exhalation (prāṇa) stops and the inhalation (apāna) begins. The sandhyā between the cycles of waning and waxing is half a lunar day (tithi), which is about eleven to twelve hours.’ Two half rithis on either side make a junction (sandhyā) of one tithi.'! This is the transcendent (ūrdhvaga) sixteenth tithi. When all the tithis of the Moon have been consumed by the gods (the Sun and stars externally, and the senses internally), there is a remaining transcendental portion personified as a goddess. She is śeṣa: the remaining, the last, that which is spared or saved, the end, the result, the conclusion. And She is hidden at the end of the cycle of the waning Moon. All the other portions come and go, but the transcendental sixteenth portion is always there, hidden, offering nourishment to all things (viśva). She is called Amā, ‘together’, as she is in union. The fifteen tithi, Amāvāsyā, is where Amā (togetherness) resides (vāsya). The gods are said to drink the other fifteen rithi but the final portion known as Amā, is the secret remainder within the End of 
 
 600?\. Atharvaveda 4.86.3 Sūrya-Chandra Sūkta.
 
@@ -144,7 +144,7 @@ The last żithi, the fifteenth, which is 12 degrees of angular distance before t
 
 602?\. Atharvaveda 4.86.5 Sūrya-Chandra Sūkta.
 
-603?\. The half zithi relates to a calculation called a karana. The last karana before final conjunction of the Full Moon is called Bava, the first karana after Full Moon is called Balava, the last karana before New Moon is called Nāga, the first karana after New Moon is Kirhstughna.
+603?\. The half zithi relates to a calculation called a karana. The last karana before final conjunction of the Full Moon is called Bava, the first karana after Full Moon is called Balava, the last karana before New Moon is called Nāga, the first karana after New Moon is Kiṁstughna.
 
 604?\. This is the time period one is advised to fast for an eclipse.
 
@@ -153,12 +153,12 @@ The last żithi, the fifteenth, which is 12 degrees of angular distance before t
 
 the Twelve, who is offering libations to everything (viśvatarpinī). The Tantrāloka teaches: 
 
-‘The immortal) nectar (amrta) in the form of the Moon is of two kinds"? and, again, sixteen kinds. All the gods drink the other fifteen digits. Amā, hidden in the cave of the remaining (digit within the End of the Twelve), is the New Moon (amāvāsyā) that offers libation to all the universe. The fifteen digits of the Moon decrease in this way successively (one after the other). But this is not the case with the sixteenth (digit), which nourishes (the universe) because it is one with nectar which is the water (of the inner divine libation). There, the fifteenth ruṭi is when the Moon has waned away. That half tuṭi which, (transcendent), is above (ūrdhvaga) is said to be the conjunction of the lunar fortnights (pakṣasandhi).” 
+‘The immortal) nectar (amṛta) in the form of the Moon is of two kinds"? and, again, sixteen kinds. All the gods drink the other fifteen digits. Amā, hidden in the cave of the remaining (digit within the End of the Twelve), is the New Moon (amāvāsyā) that offers libation to all the universe. The fifteen digits of the Moon decrease in this way successively (one after the other). But this is not the case with the sixteenth (digit), which nourishes (the universe) because it is one with nectar which is the water (of the inner divine libation). There, the fifteenth ruṭi is when the Moon has waned away. That half tuṭi which, (transcendent), is above (ūrdhvaga) is said to be the conjunction of the lunar fortnights (pakṣasandhi).” 
 
-The last half of the waning phase, where the Moon is losing all of its light, is the fifteenth rithi. This is clarified to differentiate it from the transcendent upper (ñrdhvaga) portion of the sixteenth rithi, which is the junction (sandhi) zone between the waxing and waning phases of the Moon. One half of the sixteenth zithi resides above the last half of the fifteenth rithi. The other half is above the first part of the New Moon tithi (prātipad). TĀ 6/99
+The last half of the waning phase, where the Moon is losing all of its light, is the fifteenth rithi. This is clarified to differentiate it from the transcendent upper (ñṛdhvaga) portion of the sixteenth rithi, which is the junction (sandhi) zone between the waxing and waning phases of the Moon. One half of the sixteenth zithi resides above the last half of the fifteenth rithi. The other half is above the first part of the New Moon tithi (prātipad). TĀ 6/99
 states that the Night of inhalation of the waxing phase relates to the energy of repose (viśrama), where the Moon restores itself. The Day of exhalation of the waning Moon relates to the energy of light and manifestation (prakāśa), where the Moon nourishes consciousness. All the fifteen tithis are either the energy of the day or the night, illumination (prakāśa) or rest (viśrama), but the sixteenth tithi encompasses both aspects of the duality of consciousness. Half is composed of the energy of repose and half that of light. The last half of the waning phase, where the Moon is losing all of its light, is the fifteenth tithi. This is clarified to differentiate it from the transcendent upper (ārdhvaga) portion of the sixteenth tithi, which is the junction (sandhi) zone between the waxing and waning phases of the Moon. One half of the sixteenth rithi resides above the last half of the fifteenth rithi. The other half is above the first part of the New Moon tithi (prātipad). TĀ 6/99 states that the Night of inhalation of the waxing phase relates to the energy of repose (viśrama), where the Moon restores itself. The Day of exhalation of the waning Moon relates to the energy of light and manifestation (prakāśa), where the Moon nourishes consciousness. All the fifteen tithis are either the energy of the day or the night, illumination (prakāśa) or rest (viśrama), but the sixteenth rithi encompasses both aspects of the duality of consciousness. Half is composed of the energy of repose and half that of light. 
 
-605?\. Quoting these lines in the SvTu ad 7/66cd, Kṣemarāja comments: dvidheti kalāpañcadaśaka-bhittibhūtātisvaccharūpatayā drśyamānasitapakṣa-pañcadaśakalātmanā cety arthah II 66 ॥ ‘(The Moon is of) ‘two kinds’. (One kind is) in the form extremely clear (transluscent) (svaccha) (energy) that serves as the ground (bhirti) of the fifteen (lunar) energies and (the other comprises) the fifteen (lunar) energies that are perceived in the bright lunar fortnight. This is the meaning.’ Jayaratha’s explanation echoes Kṣemarāja’s.
+605?\. Quoting these lines in the SvTu ad 7/66cd, Kṣemarāja comments: dvidheti kalāpañcadaśaka-bhittibhūtātisvaccharūpatayā dṛśyamānasitapakṣa-pañcadaśakalātmanā cety arthaḥ II 66 ॥ ‘(The Moon is of) ‘two kinds’. (One kind is) in the form extremely clear (transluscent) (svaccha) (energy) that serves as the ground (bhirti) of the fifteen (lunar) energies and (the other comprises) the fifteen (lunar) energies that are perceived in the bright lunar fortnight. This is the meaning.’ Jayaratha’s explanation echoes Kṣemarāja’s.
 
 
 *[p. 503]* ^pg518
@@ -249,9 +249,9 @@ During an eclipse, TĀ 6/107 advises that a devout man should bathe (snāna),"�
 
 The time of complete eclipse is called nimīlana, which literally means ‘the closing of the eyes’, and denotes a state of introverted contemplation. The luminary’s emergence from the eclipse is called unmīlana, which literally means ‘the opening of the eyes’, and denotes a state of extroverted contemplation. The member of this pair can also be understood to be symbolic of ignorance obscuring (chhādaka) the mind, which doesn’t know its true nature. One first shuts one’s eyes \[illegible\] to meditate in order to destroy the world (or attachment to it). Then after realization, one opens the eyes (unmīlana) to perceive divinity everywhere. The end of the eclipse is called the mokṣa — ‘liberation’, when the luminary is free from the grasp (grahana) of Rāhu or Ketu. 
 
-The solar eclipse is called a ‘great eclipse’ (mahāgrahaṇa), while a lunar eclipse is a relatively small one (grahana). The lunar eclipse takes place when the Moon is in opposition to the Sun and is full. The eclipse will start at the end of the day of the full moon \[illegible\] tithi). The maximum extent of the eclipse will occur at the moment of opposition, after which the Moon is gradually released, as the first day of the dark fortnight (krsṣnaprātipad) begins. TA 6/113 declares that practice on the lunar eclipse bring great results (mahāphala) in the worldly realm. In this way, the solar eclipse is best for spiritual and otherworldly practices, and the lunar eclipse is better for materialistic rituals. 
+The solar eclipse is called a ‘great eclipse’ (mahāgrahaṇa), while a lunar eclipse is a relatively small one (grahana). The lunar eclipse takes place when the Moon is in opposition to the Sun and is full. The eclipse will start at the end of the day of the full moon \[illegible\] tithi). The maximum extent of the eclipse will occur at the moment of opposition, after which the Moon is gradually released, as the first day of the dark fortnight (kṛsṣnaprātipad) begins. TA 6/113 declares that practice on the lunar eclipse bring great results (mahāphala) in the worldly realm. In this way, the solar eclipse is best for spiritual and otherworldly practices, and the lunar eclipse is better for materialistic rituals. 
 
-The new moon is the conjunction of the Sun and Moon and therefore their union. Sivas night is the fourteenth of the dark lunar fortnight; it symbolically corresponds to the moment when objectivized consciousness is about to disappear into emptiness (śūnya). iva is meditating on the Void and 
+The new moon is the conjunction of the Sun and Moon and therefore their union. Sivas night is the fourteenth of the dark lunar fortnight; it symbolically corresponds to the moment when objectivized consciousness is about to disappear into emptiness (śūnya). Śiva is meditating on the Void and 
 
 609?\. The sparśasnāna — literally ‘bathing of touch’ is the ritual bath taken just as the shadow touches the luminary. It is also advised to take a ritual bath once the luminary is completely free (mokṣa) of the shadow of the eclipse.
 
@@ -323,7 +323,7 @@ In 2020, Perihelion is presently between, January 4th/sth and.
 
 tion. abou th. 
 
-The Apsidial line revokes in a 134,000 year cycle relalive to the fixed stars Aphelion is presently at 18 Gemini and was at o° Aries 29.033 years ago. 
+The Apsidial line revokes in a 134,000 year cycle relalive to the fixed stars Aphelion is presently at 18 Gemini and was at o Aries 29.033 years ago. 
 
 The elliptical orbit of the sun 
 
@@ -350,9 +350,9 @@ The elliptical orbit of the moon
 
 In a similar way, the Moon moves fastest when closest to the Earth (perigee) and slowest when it is farthest from the Earth (apogee). The orientation of the ellipse makes a full revolution (called lunar precession) in approximately 3233 days (8.85 years). The apsis moves ahead each time the Moon returns. It takes the Moon a mean time of 27.321661 days (27 days 7 hours 43 minutes and 11.5 seconds) to return to the same place in the zodiac (sidereal month), but the apsis has moved forward. It takes the Moon 27.554551 days (27 days 13 hours 18 minutes and 33.2 seconds) to return to the apsis. This space from the perigee apsis to perigee is called the anomalistic month. Anomaly is the calculation of an orbiting body from the periapsis and apoapsis. This was seen as the period of the Moon’s velocity by the ancients. 
 
-The ancients may not have understood that the ellipse was creating the anomaly, but they did notice the variation in speed of the planets and luminaries and took note of this. To calculate lunar anomaly, the Babylonians measured variations between sunrise, sunset and the lunar rising and setting," and found that 251 synodic months = 269 anomalistic months’® (or 251 Full Moon to Full Moon cycles are equal to 269 perigees to perigee cycles). From this they were able to accurately calculate the lunar movement from one perigee to another perigee and understand what we now call the anomalistic month. 
+The ancients may not have understood that the ellipse was creating the anomaly, but they did notice the variation in speed of the planets and luminaries and took note of this. To calculate lunar anomaly, the Babylonians measured variations between sunrise, sunset and the lunar rising and setting," and found that 251 synodic months = 269 anomalistic months’ (or 251 Full Moon to Full Moon cycles are equal to 269 perigees to perigee cycles). From this they were able to accurately calculate the lunar movement from one perigee to another perigee and understand what we now call the anomalistic month. 
 
-'TM 
+' 
 
 From the astrological perspective, planets are generally considered best when they are moving at a normal speed. Fast moving planets are able to handle speed (similar to their periapsis or perigee). Slow moving planets are better able to handle slow speeds (apoapsis or apogee). In this way, Saturn is not considered to handle periapsis well, but would have its qualities strengthened by apoapsis. The Moon is considered strong in perigee, since it is a fast-moving planet. When the Moon is in apogee, it is moving very slow and is not considered as strong. The Moon’s gravitational impact on the Earth increases during perigee and decreases during apogee. Biodynamic farming says that apogee and perigee are times that bring stress, and recommend avoiding sowing seeds 12 hours on either side of these times. Maria Thun has done a large amount of agricultural research with astrology in the biodynamic tradition.” In her observation of the Moon’s perigee and apogee, she says, 
 
@@ -425,17 +425,17 @@ The varying lengths of the fithis due to the moons elliptical orbit
 
 Kṣaya and Adhika Tithi 
 
-A normal tithi begins on one day and another \[illegible\] begins on the following day. When the Moon is moving fast and the rithi is completed in less than 24 hours, it can start after sunrise and finish before sunrise the next day. A tithi during which the Sun does not rise is expunged and is called a \[illegible\] tithi. The ancient lunar civil calendar, which named the days after the tithi at sunrise, would literally skip a day.[^624] When the Moon is moving slowly and the tithi is over 24 hours, it can start just before sunrise and finish after sunrise the next day. A tithi on which the Sun rises twice is said to increase (vrddhi), and is sometimes called an extra (adhika) tithi. When the Full Moon falls near the perigee, and the tithi of the Full Moon falls on the same day as the 14" tithi, it is said to be ‘conjoined to the Full Moon’ (yuktapūrnimā). According to Indian tradition, a day where no zithi ends (i.e. a vrddhatithi) or on which two tithis end (i.e. a kṣayatithi) is regarded as inauspicious. These tithis are most likely to occur during the perigee or apogee of the Moon, which is another indication that these points are not auspicious. 
+A normal tithi begins on one day and another \[illegible\] begins on the following day. When the Moon is moving fast and the rithi is completed in less than 24 hours, it can start after sunrise and finish before sunrise the next day. A tithi during which the Sun does not rise is expunged and is called a \[illegible\] tithi. The ancient lunar civil calendar, which named the days after the tithi at sunrise, would literally skip a day.[^624] When the Moon is moving slowly and the tithi is over 24 hours, it can start just before sunrise and finish after sunrise the next day. A tithi on which the Sun rises twice is said to increase (vṛddhi), and is sometimes called an extra (adhika) tithi. When the Full Moon falls near the perigee, and the tithi of the Full Moon falls on the same day as the 14" tithi, it is said to be ‘conjoined to the Full Moon’ (yuktapūrnimā). According to Indian tradition, a day where no zithi ends (i.e. a vṛddhatithi) or on which two tithis end (i.e. a kṣayatithi) is regarded as inauspicious. These tithis are most likely to occur during the perigee or apogee of the Moon, which is another indication that these points are not auspicious. 
 
-A tithi ends and another begins at the same moment on all parts of the earth’s surface, but sunrise time varies for each place. In this way, the tithi at sunrise will not be the same in all places and a vrddha or kṣaya tithi will not be on the same day everywhere on the planet. The term for kṣayatithi used by Abhinavagupta in TĀ 6/109 is a ‘vanished rith? 
+A tithi ends and another begins at the same moment on all parts of the earth’s surface, but sunrise time varies for each place. In this way, the tithi at sunrise will not be the same in all places and a vṛddha or kṣaya tithi will not be on the same day everywhere on the planet. The term for kṣayatithi used by Abhinavagupta in TĀ 6/109 is a ‘vanished rith? 
 
-(tithicheda). He calls a vanished rithi a debt (rna), and a vrddhatithi is called a gift (dhana). He compares the fast-moving Moon of a kṣayatithi to coughing \[illegible\] and the slow-moving Moon of a vrddhatithi to yawning (śvasana). Inhalation is symbolized by a night lasting 12 hours, whereas exhalation is a 12-hour day. Inhalation is waxing fortnight of 15 rithis and exhalation is the waning fortnight of 15 rithis. This is the smooth, regular rhythm of the Sun and Moon, Day and Night in the flow of the breath. Coughing and yawning break this rhythm up and so may not be considered auspicious, the former representing sickness and the latter fatigue. However, expelling the breath (recana) and breath retention (rodhana) may also be yaugika practices and so represent in this perspective also the unnatural states these \[illegible\] and vrddha tithis create. 
+(tithicheda). He calls a vanished rithi a debt (rna), and a vṛddhatithi is called a gift (dhana). He compares the fast-moving Moon of a kṣayatithi to coughing \[illegible\] and the slow-moving Moon of a vṛddhatithi to yawning (śvasana). Inhalation is symbolized by a night lasting 12 hours, whereas exhalation is a 12-hour day. Inhalation is waxing fortnight of 15 rithis and exhalation is the waning fortnight of 15 rithis. This is the smooth, regular rhythm of the Sun and Moon, Day and Night in the flow of the breath. Coughing and yawning break this rhythm up and so may not be considered auspicious, the former representing sickness and the latter fatigue. However, expelling the breath (recana) and breath retention (rodhana) may also be yaugika practices and so represent in this perspective also the unnatural states these \[illegible\] and vṛddha tithis create. 
 
 Super Moons 
 
 When the Moon is near its perigee it appears to be larger in the sky and at its apogee, smaller. When the full moon is near its perigee, nowadays it is called a ‘super moon’. There is a super moon every year, but some years it occurs more precisely on the perigee than others and so appears to be larger. Conversely, when the full moon occurs during its apogee, this gives rise to a mini moon. ‘Super’ and ‘mini’ are western terms they have no have traditional Vedic correspondences. 
 
-[^624]: There are 360 rithi in 12 lunar months, which last 354 days. This means that naturally six tithis will be expunged. Generally, there are thirteen kṣaya rithis and seven vrddhi tithis in 12 lunar months.
+[^624]: There are 360 rithi in 12 lunar months, which last 354 days. This means that naturally six tithis will be expunged. Generally, there are thirteen kṣaya rithis and seven vṛddhi tithis in 12 lunar months.
 
 *[p. 514]* ^pg529
 
@@ -443,7 +443,7 @@ The Year
 
 The year is measured into the cycle of the breath starting from the Winter Solstice in the Heart, exhaling to the Summer Solstice in the End of the Twelve and inhaling back to the Winter Solstice. The solstices divide the two halves of the year called ‘āyana’ i.e. ‘path’ ‘road’ or ‘course’. They two are called the ‘uttara’ ‘northern’ or ‘upward’ course and the other the dakṣina or ‘southern’ course. The two halves are called Kula and Akula in the Trika system. "? 
 
-In the image below, the Sun rises at 30° Southeast on the winter solstice." At the equinox it rises directly at 90° East. On the summer solstice it rises at 60° northeast. Each day of the northerly course (Uttarāyanṇa), it rises more and more towards the north. After the summer solstice, the Sun begins to rise more towards the south each day which creates the southernly course dakṣiṇāyana)."TM\* 
+In the image below, the Sun rises at 30° Southeast on the winter solstice." At the equinox it rises directly at 90° East. On the summer solstice it rises at 60° northeast. Each day of the northerly course (Uttarāyanṇa), it rises more and more towards the north. After the summer solstice, the Sun begins to rise more towards the south each day which creates the southernly course dakṣiṇāyana)."\* 
 
 (daksināyana) 
 
@@ -487,17 +487,17 @@ The movement of the sun through the year
 
 Uttarāyaṇa is the Sun’s movement from its lowest point in the sky (closest to Earth) at the winter solstice towards its highest point in the sky at the summer solstice. Dakṣināyana is the opposite motion, in which the Sun moves progressively lower in the sky. During Uttarāyaṇa, shadows get shorter as the Sun gets higher in the sky. During Dakṣināyana, shadows lengthen as the Sun gets lower. Thus, the length of the shadow observed on a sundial tells us the day of the month. As the shadow shortens, our outward nature grows. As the shadow lengthens, the internal, emotional world grows. This cycle relates to the breath of the year. Uttarāyanṇa is exhalation, whereas Dakṣin iyana is inhalation. The days grow longer during exhalation and the nights grow longer in the course of inhalation. Exhalation transports us outside and the inhalation brings us inside. The solstices are the points in between the inhaled and exhaled breath. 
 
-Every six finger-breadths of the movement of the breath corresponds to a tropical sign of the zodiac (or a seasonal month).'TM” The lunar months (Māgha, Āṣādha, etc.) are also superimposed on the year, although they start on the New Moon, which means that the exact correlation between them varies. They are imagined to be overlaid in the same way as the signs of the zodiac, and are presided over by the Rudras, beginning with Dakṣa and ending with Pitāmaha (TĀ 6/122). According to the tropical system used here, Capricorn starts at the Winter Solstice, and Aries starts at the Spring Equinox. This tropical system of signs was accurate in the fourth and fifth century CE. The source text for this section, the Svacchandatantra, was written about the sixth or seventh century, when the tropical and sidereal zodiacs were similar. Below is an image of the zodiac used by Tantrāloka, which was accurate for that time period. The signs of the zodiac line up accurately with the solstices and equinoxes. If you compare that with the modern image, there is a large difference. 
+Every six finger-breadths of the movement of the breath corresponds to a tropical sign of the zodiac (or a seasonal month).'” The lunar months (Māgha, Āṣādha, etc.) are also superimposed on the year, although they start on the New Moon, which means that the exact correlation between them varies. They are imagined to be overlaid in the same way as the signs of the zodiac, and are presided over by the Rudras, beginning with Dakṣa and ending with Pitāmaha (TĀ 6/122). According to the tropical system used here, Capricorn starts at the Winter Solstice, and Aries starts at the Spring Equinox. This tropical system of signs was accurate in the fourth and fifth century CE. The source text for this section, the Svacchandatantra, was written about the sixth or seventh century, when the tropical and sidereal zodiacs were similar. Below is an image of the zodiac used by Tantrāloka, which was accurate for that time period. The signs of the zodiac line up accurately with the solstices and equinoxes. If you compare that with the modern image, there is a large difference. 
 
 Each year the stellar zodiac moves twenty seconds of arc, which makes one degree every 72 years. The present zodiac has moved so much that it can no longer even approximate to the same layout. 
 
 When working with the solstices and equinoxes, such as this visualization utilizes, it is better to use the tropical months found in the Upaniṣads and Purāṇas. The tropical months are based on the solstices, equinoxes and seasons, which remain regular and continue to correlate to the breath in a manner that remains unchanged through the centuries. 
 
-In the Vedic Brāhmanas, Prajāpati, the Creator, is personified as the year consisting of twelve months." Taittirīyasaṁhitā praises the seasons each composed of two months.TM” The spring is composed of Madhu and Mādhava. Madhu means sweet or pleasant and is often used in Sanskrit literature as a synonym for the springtime. Mādhava means sweet and intoxicating and relates 
+In the Vedic Brāhmanas, Prajāpati, the Creator, is personified as the year consisting of twelve months." Taittirīyasaṁhitā praises the seasons each composed of two months.” The spring is composed of Madhu and Mādhava. Madhu means sweet or pleasant and is often used in Sanskrit literature as a synonym for the springtime. Mādhava means sweet and intoxicating and relates 
 
-628?\. Each añgula is composed of five days (rithi), which makes thirty days in a month (6 x 5 =30).
+628?\. Each aṅgula is composed of five days (rithi), which makes thirty days in a month (6 x 5 =30).
 
-629?\. Taittirīya Sarṁitā 7/2.10.3-4 In the sacrifice of twelve days, they are divided into four sets of three: three the sacrificer prepares for ceremony, three he embraces the sacrifice, three he cleanses the vessels, and the last three he cleanses his inner nature (ātmānam antaratah śundhate).
+629?\. Taittirīya Sarṁitā 7/2.10.3-4 In the sacrifice of twelve days, they are divided into four sets of three: three the sacrificer prepares for ceremony, three he embraces the sacrifice, three he cleanses the vessels, and the last three he cleanses his inner nature (ātmānam antarataḥ śundhate).
 
 630?\. Taittirīya Saṁhitā (4.4.10) first lists the nakṣatras and their lords. Then praises the seasons each composed of two months (4.4.11). These months are also mentioned in Taittiriya Samhitā 1.4.
 
@@ -548,7 +548,7 @@ The Jovian Year and the Sixty Year Cycle
 
 The symmetry of the conjunctions between Jupiter and Saturn 
 
-The Jovian year is the yearly movement of Jupiter through thirty degrees of the zodiac. It takes Jupiter twelve years to complete a revolution around the zodiac.'TM” Each finger-breadth of the breathing cycle is sixty days, or one season (rtu). In the course of inhalation and exhalation there are six years each. The same outer zodiac ring can be utilized, but the length of time that each contains increases. Instead of a sign being one month, it is one year. Instead of half the breath being half the year, it becomes six years. 
+The Jovian year is the yearly movement of Jupiter through thirty degrees of the zodiac. It takes Jupiter twelve years to complete a revolution around the zodiac.'” Each finger-breadth of the breathing cycle is sixty days, or one season (rtu). In the course of inhalation and exhalation there are six years each. The same outer zodiac ring can be utilized, but the length of time that each contains increases. Instead of a sign being one month, it is one year. Instead of half the breath being half the year, it becomes six years. 
 
 There is a cycle of five Jovian years that makes a sixty-year cycle. This cycle ties together the short and larger cycles, which continue to repeat infinitely in time in either direction.” If a vighaṭikā (24 seconds) is projected onto the microcosmic orbit of the breath, it is measured as 1 and 1/5" finger breadth. There are 30 vighaṭikās in one inhalation (1.2 x 30 =36), and 30 vighaṭikās in one exhalation. In a sixty-year cycle, there is one year in every 1 and 1/5" finger breadth, making 30 years in one the inhalation and 30 in one 
 
@@ -559,19 +559,19 @@ There is a cycle of five Jovian years that makes a sixty-year cycle. This cycle 
 
 *[p. 520]* ^pg535
 
-exhalation. The measurement of 60 vighatikās that create one ghaṭikā of 24 minutes, is the same as the Jovian year cycle created from the great cycles. This unit therefore interconnects the smaller unit of seconds to the larger unit of years, creating a larger integration with the entire cycle. The synchronicity of the units of time underlies a frequency to the pulsation of time.'TM\*' The number of breaths (prānṇa) in a day (21,600) is the same as the number of days (tithi) in the 60 years cycle (360 x 60= 21.600). The ghaṭikā, tithi and year are not arbitrary units of time All three are related to the 60-year cycle of the movement of Jupiter and Saturn. 
+exhalation. The measurement of 60 vighatikās that create one ghaṭikā of 24 minutes, is the same as the Jovian year cycle created from the great cycles. This unit therefore interconnects the smaller unit of seconds to the larger unit of years, creating a larger integration with the entire cycle. The synchronicity of the units of time underlies a frequency to the pulsation of time.'\*' The number of breaths (prānṇa) in a day (21,600) is the same as the number of days (tithi) in the 60 years cycle (360 x 60= 21.600). The ghaṭikā, tithi and year are not arbitrary units of time All three are related to the 60-year cycle of the movement of Jupiter and Saturn. 
 
-Brhaspati’s Sańvatsara Cakra 
+Bṛhaspati’s Sańvatsara Cakra 
 
 The sarivatsara (or bāṁaspatya sarivatsara) usually denotes a year, based upon Jupiter’s transit of a sign, which takes almost the same time as a solar year. The Jupiter years, also called Jovian years, each have a name within the sixty years cycle. The numerology of this cycle is composed of cycles of 12, 30, 60, 120, 800, 2,400, 43,200 and 28,8000 years. The average daily motion of Jupiter is 5 kalās, that is, minutes, and so takes 12 years to complete a revolution of the zodiac. The average daily motion of Saturn is 2 kalās, and so takes approximately 30 years (or to be more precise, 29.5 years) to cover the zodiac. These two numbers directly relate to the number of months in a year (Sun/Jupiter) and the number of days in a synodic month (Moon/Saturn). These two planets are linked by these numbers, as Jupiter moves 30 degrees a year (1 sign) and Saturn moves about 12 degrees a year. There is a conjunction between Saturn and Jupiter every twenty years, and every 60 years that conjunction will take place in the same sign. This is the basic sarrvatsara cycle, within which each of the sixty years has its own name. These years can be used both for prediction of an individual nature, as well as for yearly agricultural and 
 
 economic conditions." 
 
-In India there are three main ways, in different places in the subcontinent, that Jovian years have been calculated."® In northern India, they are named according to the Jovian year that ends at the beginning of the solar year. According to this calculation, it is possible to have a reduced (kṣaya) Jovian year. In Eastern India, they refer to the Jovian year that has been completed at the actual moment one is dealing with. In Southern India, it is merely a solar year with sixty names, with no relation to Jupiter. In this way, the word ‘samvatsara’ can also mean a year in a general sense, as it does in texts like the Śatapatabrahmana. It is often called a sarhvat in common usage. The Jovian year is also sometimes named for the sign of the zodiac which it is in, sometimes after the lunar month associated with that sign, and sometimes it is calculated according to the helical rising of Jupiter, that is, its reappearance after its conjunction with the Sun. There is the calculation that starts from when 
+In India there are three main ways, in different places in the subcontinent, that Jovian years have been calculated." In northern India, they are named according to the Jovian year that ends at the beginning of the solar year. According to this calculation, it is possible to have a reduced (kṣaya) Jovian year. In Eastern India, they refer to the Jovian year that has been completed at the actual moment one is dealing with. In Southern India, it is merely a solar year with sixty names, with no relation to Jupiter. In this way, the word ‘samvatsara’ can also mean a year in a general sense, as it does in texts like the Śatapatabrahmana. It is often called a saṁvat in common usage. The Jovian year is also sometimes named for the sign of the zodiac which it is in, sometimes after the lunar month associated with that sign, and sometimes it is calculated according to the helical rising of Jupiter, that is, its reappearance after its conjunction with the Sun. There is the calculation that starts from when 
 
 634?\. Tn this introduction, the primary focus is the frequency of the prāṇa vāyu. In the final verses of Chapter Six, these same synchronicity of units of time are applied in different ways for each of the five vāyus: prāna, apāna, udāna, samāna, and vyāna. See TĀ 6/209.
 
-635?\. The interpretations of sarhvatsaras are given in Brihat Sarrhita, Jātaka Pārijata, as well as Mānasāgari.
+635?\. The interpretations of saṁvatsaras are given in Brihat Sarrhita, Jātaka Pārijata, as well as Mānasāgari.
 
 636?\. This variation is discussed in detail by Sewell and Dikshit, p. 32-39.
 
@@ -580,7 +580,7 @@ In India there are three main ways, in different places in the subcontinent, tha
 
 Jupiter entering the constellation of Māgha, which at one time was the winter solstice. There are also other variations. 
 
-In the Vedic period, these 60 years were divided into 12 yugas of five years each. The years were sometimes considered to be 366 days long.“ They could also be 360 days long and corrected by adding an extra month twice a yuga. The five years of the Yuga were named Sarhvatsara, Parivartsara, Idvatsara, Anuvatsara, and Vatsara. The intercalations were called Arhasaspati and Sarhsarpa.TM\* The 5-year yuga contains 60 solar months. Thus the 60 years cycle was divided into periods of 60 months. This ancient calendar of 60 years divided into 12 groups of five shares common roots with the Chinese zodiacal calendar, where a 60-year cycle is composed of 12 animals with five elements each. 
+In the Vedic period, these 60 years were divided into 12 yugas of five years each. The years were sometimes considered to be 366 days long.“ They could also be 360 days long and corrected by adding an extra month twice a yuga. The five years of the Yuga were named Saṁvatsara, Parivartsara, Idvatsara, Anuvatsara, and Vatsara. The intercalations were called Arhasaspati and Saṁsarpa.\* The 5-year yuga contains 60 solar months. Thus the 60 years cycle was divided into periods of 60 months. This ancient calendar of 60 years divided into 12 groups of five shares common roots with the Chinese zodiacal calendar, where a 60-year cycle is composed of 12 animals with five elements each. 
 
 \[ 1 | Prabhava 
 
@@ -609,7 +609,7 @@ Prajāpati
 Plava 
 
 | 6 | Āngirasa |36
-ubhakrt 
+ubhakṛt 
 
 7 mukha | 37
 obhana 
@@ -636,7 +636,7 @@ Ivara
 
 41 
 
-Plavañga 
+Plavaṅga 
 
 12 | Bahudhānya | 42
 Kīlaka 
@@ -650,9 +650,9 @@ Sādhāraṇa
 
 15 
 
-Vrṣa 
+Vṛṣa 
 
-45 Virodhakrt 
+45 Virodhakṛt 
 
 | 16 | Citrabhānu |46| 
 
@@ -702,7 +702,7 @@ Virodhi
 
 24 
 
-Vikrta 
+Vikṛta 
 
 54 Raudra 
 
@@ -739,7 +739,7 @@ The conjunctions between Jupiter The conjunctions between Jupiter and Saturn in 
 
 Names of the Years of the Sixty-Year Cycle 
 
-The sixty-year cycle has three 20-year periods relating to the conjunctions of Jupiter and Saturn. In the diagrams to the left, each line relates to 20 years, each triangle to 60 years, so each zodiac contains a 180-year cycle. In the single triangle, which is a cycle of 60 years, the first 20 years relate to Brahmā, the middle 20 to Viṣṇu, and the last 20 years to iva, according to the quality (guna) of the sign within which the conjunction occurs. Thus, the first twenty years, from Prabhava to Vyaya, are those of Brahmā, Sarvajit to Parabhava are those of Viṣṇu, and the last twenty to Śiva. Every twenty years (or 19.859 years to be exact), Saturn and Jupiter have a conjunction at about 123 degrees apart (approximately a ninth from the previous conjunction). Every 60 years (that is, 59.577 years) that conjunction will return to the same sign. If a conjunction occurs in Aries, the next one will happen in Sagittarius, then Leo, and then back to Aries after 60 years. In this way, the conjunctions will move in triads of the same element, tracing a triangle in the zodiac. This triangle relates to Śakti and is utilized in various tantric techniques for showing where Śakti resides in a chart. In the Mahāvidyā tradition, Saturn represents Kālīī and Jupiter, Tārā. 
+The sixty-year cycle has three 20-year periods relating to the conjunctions of Jupiter and Saturn. In the diagrams to the left, each line relates to 20 years, each triangle to 60 years, so each zodiac contains a 180-year cycle. In the single triangle, which is a cycle of 60 years, the first 20 years relate to Brahmā, the middle 20 to Viṣṇu, and the last 20 years to Śiva, according to the quality (guna) of the sign within which the conjunction occurs. Thus, the first twenty years, from Prabhava to Vyaya, are those of Brahmā, Sarvajit to Parabhava are those of Viṣṇu, and the last twenty to Śiva. Every twenty years (or 19.859 years to be exact), Saturn and Jupiter have a conjunction at about 123 degrees apart (approximately a ninth from the previous conjunction). Every 60 years (that is, 59.577 years) that conjunction will return to the same sign. If a conjunction occurs in Aries, the next one will happen in Sagittarius, then Leo, and then back to Aries after 60 years. In this way, the conjunctions will move in triads of the same element, tracing a triangle in the zodiac. This triangle relates to Śakti and is utilized in various tantric techniques for showing where Śakti resides in a chart. In the Mahāvidyā tradition, Saturn represents Kālīī and Jupiter, Tārā. 
 
 639?\. rāśi and trikoṇa daśā.
 
@@ -750,7 +750,7 @@ The accurate notation of the conjunctions between
 
 Jupiter and Saturn for 800 years 
 
-The 60-year cycle advances 8.93 degrees every 60 years." In this way, the triangle moves forward in the zodiac. The movement of these triangles (\$aktiparivartana) was called the ‘Rotation of the Trigon of Great Conjunctions’ in the West. The cycle will stay in one elemental triad for about 200 years, until it enters the next element. When this cycle changes elements it was thought to be indicative of great changes, especially when it moved water to fire signs. The cycle moves through the elements every 794.37 years, that is, for 40 conjunctions, returning to within .93 degrees of the starting point, and completely through the zodiac in about 2,400 years (800 x 3).144 In that time, the entire triangle rotates completely, not just the corner. A single degree discrepancy creates a larger cycle in which the exact degree returns in 288,000 years (800 X 360). In Satya Yuga there are 6 of these cycles, in Tretā Yuga there are 4.5, in Dvāpara there are 3, and in Kali Yuga there are 1.5, which gives a total of 15 of the grand 288,000 cycles in a Mahāyuga. 
+The 60-year cycle advances 8.93 degrees every 60 years." In this way, the triangle moves forward in the zodiac. The movement of these triangles (Śaktiparivartana) was called the ‘Rotation of the Trigon of Great Conjunctions’ in the West. The cycle will stay in one elemental triad for about 200 years, until it enters the next element. When this cycle changes elements it was thought to be indicative of great changes, especially when it moved water to fire signs. The cycle moves through the elements every 794.37 years, that is, for 40 conjunctions, returning to within .93 degrees of the starting point, and completely through the zodiac in about 2,400 years (800 x 3).144 In that time, the entire triangle rotates completely, not just the corner. A single degree discrepancy creates a larger cycle in which the exact degree returns in 288,000 years (800 X 360). In Satya Yuga there are 6 of these cycles, in Tretā Yuga there are 4.5, in Dvāpara there are 3, and in Kali Yuga there are 1.5, which gives a total of 15 of the grand 288,000 cycles in a Mahāyuga. 
 
 The 20-year cycle is used for predicting short-term historical events. The first 10 years relate to Jupiter and the second 10 relate to Saturn. The 60-year cycle is used for the prediction of politics and economics. The 200-year cycle is used for predicting changes in governments or dynasties, and the larger 800 years cycle is used to see the rise and fall of civilizations or religious history. Astrologers make predictions according to the chart at the time of the exact conjunction. The rising sign of this conjunction will vary over the globe, which indicates different results for different parts of the world. There has been some historical research done on the rise and fall of dynasties in China that have been correlated to a cycle falling between 808 and 779 years, which directly supports the mean cycle of 800 years, as well as the 200 year cycles. Many Sasanian and Arab works that are still available are written on the history of the world and these conjunctions.’ The ancient world histories were composed based upon these conjunctions, starting the cycles from the beginning of Kali Yuga, or for Arabic astrologers from the Flood (which was astrologically the 
 
@@ -842,7 +842,7 @@ OITA36 | OCT 31,2219
 
 The Relativity of Time 
 
-Time is not the same for all living beings everywhere. The same time units can stretch or shrink. Einstein’s Theory of Relativity supports this view in its own way, as does modern quantum physics, that maintains that there are many other things that induce distortions in space-time. Myths from around the world talk about distortions of space-time in which an individual enters another realm and then return to the human world to discover that what had been just a day or two for him were a few hundred years. On different planes of existence (lokas), time is relative to the being who experiences it there. TĀ 6/131-133 discusses the relationship between time on different planes of existence. '®? 
+Time is not the same for all living beings everywhere. The same time units can stretch or shrink. Einstein’s Theory of Relativity supports this view in its own way, as does modern quantum physics, that maintains that there are many other things that induce distortions in space-time. Myths from around the world talk about distortions of space-time in which an individual enters another realm and then return to the human world to discover that what had been just a day or two for him were a few hundred years. On different planes of existence (lokas), time is relative to the being who experiences it there. TĀ 6/131-133 discusses the relationship between time on different planes of existence. '? 
 
 When we mentally enter the lower realms of emotional suffering, time seems to pass more slowly. When we enter the higher realms of joy, time appears to pass more quickly. An hour of fun is felt to be like just a few minutes, and the few minutes of pain seem to be hours. In this way, in the lower realms many things can happen in a small amount of time. Conversely, in the realms of the gods, one breath (one \[illegible\] that lasts for just four seconds is equal to twenty-four minutes (one ghaṭikā) on the human plane. 
 
@@ -873,7 +873,7 @@ lunations) = 36,000 human years
 
 1,080,000 human days or 3,000 human years 
 
-One human day is a month of an ancestors (pitrs). A Day and a Night (ahorātra) corresponds to the two lunar fortnights. The bright fortnight is the day, and the dark fortnight is the night of the ancestors. The offering to the ancestors (Śrāddha) may be made once a month, which amounts to feeding them once a day. This is most often done on the New Moon, which is the time the ancestors wake up in their world. 
+One human day is a month of an ancestors (pitṛs). A Day and a Night (ahorātra) corresponds to the two lunar fortnights. The bright fortnight is the day, and the dark fortnight is the night of the ancestors. The offering to the ancestors (Śrāddha) may be made once a month, which amounts to feeding them once a day. This is most often done on the New Moon, which is the time the ancestors wake up in their world. 
 
 Caturyuga 
 
@@ -925,11 +925,11 @@ Manvantara 71 mahayugas 306,720,000
 
 Brahmā Day (Kalpa) | 14 Manvantaras 4.32 billion 
 
-In the Bhagavadgītā, Krṣṇa says that those who know that Brahmā’s day is a thousand yugas and that his night ends in a thousand yugas are those who know Day and Night (ahorātra-vidas)."TM® This is another term for a horā-śāstri, one who has mastered the science of korā, or astrology/astronomy. The Gītā says it is they who know about the large cycles of creation and dissolution. 
+In the Bhagavadgītā, Kṛṣṇa says that those who know that Brahmā’s day is a thousand yugas and that his night ends in a thousand yugas are those who know Day and Night (ahorātra-vidas)." This is another term for a horā-śāstri, one who has mastered the science of korā, or astrology/astronomy. The Gītā says it is they who know about the large cycles of creation and dissolution. 
 
 TĀ 6/141 says that at the end of the day, the flames of Kālāgni burn up the lower worlds (bhū, bhuvas, and svarga). The subtle bodies of still existent souls sleep in the Janaloka until the next creation, and the ashes of the universe are swept away by Brahmā’s yawn before his sleep. 
 
-[^647]: In the Vaiṣṇava tradition, it is said that the present Kali Yuga began when Krṣna left the Earth plane (Bhādrapada 13); this is an approximation, not an astronomical calculation. Based on planet positions listed in the Purāṇas, Krṣṇa was born the Gregorian date of June 24, 3227 BCE.
+[^647]: In the Vaiṣṇava tradition, it is said that the present Kali Yuga began when Kṛṣna left the Earth plane (Bhādrapada 13); this is an approximation, not an astronomical calculation. Based on planet positions listed in the Purāṇas, Kṛṣṇa was born the Gregorian date of June 24, 3227 BCE.
 [^648]: The calculations of Śrī Yukteśvar do not take the yugas as divine years, which makes the entire yuga only 12,000 human years. He relates it to the precession which is 25,920 years (and high science in his time period) and he relates it to the solar systems revolution around the galactic centre, but this has been discovered to take approximately 230 million years (closer to the time of a Manvantara). Some chose to believe him because he was a yogi. But the standard calculations actually agree more with modern astronomy.
 [^649]: Bhagavad Gītā 8/16-21.
 
@@ -958,7 +958,7 @@ Tantrāloka refers to the aeons of time of the highest principles (tattva). On t
 
 650?\. Visnu Purāṇa 1.5.59-60 and TĀ 6/142-146.
 
-651?\. catvāri śrìgā trayo asya pādā dve \[illegible\] sapta hastāso asya | tridhā baddho vrṣabho roravīti maho devo martyām \[illegible\] viveśa ॥ Rgveda 4/58.3
+651?\. catvāri śrìgā trayo asya pādā dve \[illegible\] sapta hastāso asya | tridhā baddho vṛṣabho roravīti maho devo martyām \[illegible\] viveśa ॥ Rgveda 4/58.3
 
 652?\. Many nineteenth century commentators, with Newtonian ideas in their head, called these numbers fanciful. But these large numbers indicate a concept of time being much bigger than ourselves, and are quite relevant to the actual age of the universe. If these terms are taken as units (the yuga, mahāyuga, kalpa, and param), then they are basically a sexagesimal number system similar to our giga, mega, tetra decimal system. Just as 311,040,000,000,000 can be written as 311.04 trillion years, it can also be written as 1.00 mahākalpa. The galactic year may be estimated 230 million years or 0.8 Manvantara.
 
@@ -967,7 +967,7 @@ Tantrāloka refers to the aeons of time of the highest principles (tattva). On t
 
 withdrawn. Then comes transcendental unmanifest Anāśritaśiva. These are less important as external concepts and more important as an internal teaching. TĀ 6/159 teaches that the dissolution takes place into subtler and subtler levels when the vital breath (prānṇa) in the central channel of suṣumnā is stilled in the Cavity of Brahma (brahmarandra) on the crown of the head. The causal-psychic functions of the 1411145, relating to the stages of sound, are dissolved back into consciousness in huge units of time, indicating the profound states of consciousness required to achieve these internal states, which pierce the aperture of Brahmā and persist into the higher realms. 
 
-The final dissolution from Anāśritaśiva into the Sāmanasa (immanent universal consciousness) is called Sāmya — Equality. This unit of Time is immeasurable and eternal as the omnipresent Brahman. This Equality is the pervasive foundation under all units of time, from the smallest to the biggest (TĀ 6/167). The breath emerges repeatedly from that Equality and merges back into it. This is the pulsation (spanda) of consciousness (sarhvittva) (TÀ 8/181- 182). Thus time, breath and consciousness are the pulsation understood in various perspectives. From the perspective of the mind attached to the sensory reality, the emanation of the world occurs at the beginning of time and is slowly evolving forward in a linear progression. From the perspective of Śiva’s meditation, time is cyclic, recurring repeatedly through the phases of creation and destruction of the universe. From the highest level, emanation is happening just now, fully and completely at every moment. All things are contained within it, and it is inside within us. 
+The final dissolution from Anāśritaśiva into the Sāmanasa (immanent universal consciousness) is called Sāmya — Equality. This unit of Time is immeasurable and eternal as the omnipresent Brahman. This Equality is the pervasive foundation under all units of time, from the smallest to the biggest (TĀ 6/167). The breath emerges repeatedly from that Equality and merges back into it. This is the pulsation (spanda) of consciousness (saṁvittva) (TÀ 8/181- 182). Thus time, breath and consciousness are the pulsation understood in various perspectives. From the perspective of the mind attached to the sensory reality, the emanation of the world occurs at the beginning of time and is slowly evolving forward in a linear progression. From the perspective of Śiva’s meditation, time is cyclic, recurring repeatedly through the phases of creation and destruction of the universe. From the highest level, emanation is happening just now, fully and completely at every moment. All things are contained within it, and it is inside within us. 
 
 References 
 
@@ -1011,7 +1011,7 @@ DeVore, Nicholas. Encyclopedia of Astrology. Astrology Center of America, New Yo
 
 Falk, Harry. “Measuring time in Mesopotamia and ancient India.” Zeitschrift der Deutschen Morgenländischen Gesellschaft 150, no. 1, 7.107-132, 2000. 
 
-Goldstein, Bernard R. On The Babylonian Discovery of the Periods of Lunar Motion. University of Pittsburg. Journal for the History of Astronomy, xxxīi, 2002. http://www.pitt.edu/~brg/pdfs/brg\_i\_1.pdf 
+Goldstein, Bernard R. On The Babylonian Discovery of the Periods of Lunar Motion. University of Pittsburg. Journal for the History of Astronomy, xxxīi, 2002. http://www.pitt.edu/~bṛg/pdfs/bṛg\_i\_1.pdf 
 
 Gupta, Sanjukta. Lakṣmī Tantra, A Pāñcharātra Text. Motilal Banarsidass 
 
@@ -1027,7 +1027,7 @@ Hu, Wanchung. The Universal Frame Dragging Force (Spinity) and Maxwell-like Equa
 
 Hume, Robert Ernest. The Thirteen Principal Upanishads. Oxford University Press, 1921. 
 
-Iyengar, RN. Connection between Vedāṁùga Jyotiṣa and other Vedic Literature. 
+Iyengar, RN. Connection between Vedāṅga Jyotiṣa and other Vedic Literature. 
 
 Indian Journal of History of Science, 44.3, p.357-368, 2009. 
 
@@ -1047,7 +1047,7 @@ Kaufmann, Walter. The Ragas of North India. Asian Studies Research Institute, Bl
 
 Keith, A.B., Macdonell, A.A. Vedic Index of Names and Subjects, Volume I. 
 
-Motilal Banarsidass Publishers Private Limited, Delhi 2007. ISBN 978- 81-208-1332-8 Krishnamacharya, Pandit V. (edited). Ahirbudhnya-Sarnhitā of the 
+Motilal Banarsidass Publishers Private Limited, Delhi 2007. ISBN 978- 81-208-1332-8 Krishnamacharya, Pandit V. (edited). Ahirbudhnya-Saṁhitā of the 
 
 Pāñcarātrāgama (vol I and Ī). The Adyar Library and Research Centre, Madras, India, 1986. 
 

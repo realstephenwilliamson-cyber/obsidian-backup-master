@@ -33,6 +33,11 @@ bhāvinaḥ prāgabhāvaśca jñānasyeti sthite sati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 134–135)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.17–18]]
+>
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.18–19]]
+
 *Lead-in:* एवं ह्यसावनेलमूकतया घटादिप्राय एव भवेदित्यभिप्रायः । एवं सर्वसंविदभावपक्षं प्रतिक्षिप्यैकतरज्ञानाभावपक्षमपि प्रतिक्षिपति --
 
 Jayaratha comments on this verse together with 13.17: see [[Tantraloka 13.017#Viveka|13.17]].

@@ -31,6 +31,9 @@ evaṃ sadaiva vārtāyāṃ dehapāte tathaiva ca || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 180–181)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.89–92]]
+
 > क्वापि काले तयोरेतदौदासीन्यं यदा ततः ॥
 > कालान्तरे तयोस्तद्वद्विरोधस्यानिवृत्तितः ।
 > अतश्च न फलेतान्ते ताभ्यां कर्मान्तराणि च ॥

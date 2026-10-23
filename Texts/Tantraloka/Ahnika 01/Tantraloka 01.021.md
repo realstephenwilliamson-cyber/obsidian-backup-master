@@ -34,6 +34,9 @@ abhinavaguptahṛdambujametadvicinuta maheśapūjanahetoḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 110–116)
+> ![[Tantraloka Dyczkowski v01 04 - Chapter One, part 3#Viveka on 1.21]]
+
 *Lead-in:* एवं चेयं कृतिः सर्वेषामेव ग्राह्या भवेत्, इति प्रतिपादयितुमाह --
 
 > श्रीशम्भुनाथभास्करचरणनिपातप्रभापगतसङ्कोचम् ।

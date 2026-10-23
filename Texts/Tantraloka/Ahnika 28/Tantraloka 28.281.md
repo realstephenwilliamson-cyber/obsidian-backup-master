@@ -33,6 +33,13 @@ vyāpāravyāhṛtairjñeyā tānyapi dvividhāni ca || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 121–123)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.281]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.281 (continued)]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.281–282]]
+
 *Lead-in:* ननु एते साक्षात् यदि आचरन्तो दृश्यन्त इति कुतस्तद्विशेष एषां ज्ञायेत ?--इत्याशङ्क्य आह--
 
 > ज्ञानायतनदीक्षादावास्थाबन्धपरिच्युतिः ।

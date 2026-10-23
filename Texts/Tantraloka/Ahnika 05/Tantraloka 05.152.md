@@ -37,6 +37,11 @@ yadyatsaṅkalpasaṃbhūtaṃ varṇajālaṃ hi bhautikam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 204–205)
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.152]]
+>
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.152–153]]
+
 *Lead-in:* न चैवमस्यैव मन्त्रस्य वीर्यं यन्नीलपीताद्यनेकवर्णोदयद्वारेण स्वात्मसाक्षात्कारः अपि तु सर्वेषाम् -- इत्याह --
 
 > उपलक्षणमेतच्च सर्वमन्त्रेषु लक्षयेत् ।

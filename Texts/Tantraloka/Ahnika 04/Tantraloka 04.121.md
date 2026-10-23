@@ -36,6 +36,11 @@ pūjā nāma vibhinnasya bhāvaughasyāpi saṅgatiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 141–149)
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.120–121]]
+>
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.121–122]]
+
 *Lead-in:* ननु अश्रुतपूर्वमिदं पूजालक्षणम् ? -- इत्याशङ्क्याह --
 
 > पूजा नाम विभिन्नस्य भावौघस्यापि सङ्गतिः ॥

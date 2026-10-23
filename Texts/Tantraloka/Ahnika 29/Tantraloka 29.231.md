@@ -31,6 +31,9 @@ gururyaḥ sādhakaḥ prāksyādanyo mokṣaṃ dadātyalam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 375–376)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.231–232]]
+
 *Lead-in:* अत्रैव तुर्यपादस्य तात्पर्यतोऽर्थं व्याख्यातुमाह--
 
 Jayaratha comments on this verse together with 29.232: see [[Tantraloka 29.232#Viveka|29.232]].

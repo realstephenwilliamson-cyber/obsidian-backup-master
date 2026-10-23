@@ -34,6 +34,9 @@ anākṣiptaviśeṣaṃ sadāha sūtre purātane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 127–130)
+> ![[Tantraloka Dyczkowski v01 05 - Chapter One, part 4#Viveka on 1.28–30]]
+
 *Lead-in:* एतदेव व्याचष्टे—
 
 Jayaratha comments on this verse together with 1.30: see [[Tantraloka 01.030#Viveka|1.30]].

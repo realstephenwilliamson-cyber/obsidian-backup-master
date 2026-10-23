@@ -155,7 +155,7 @@ True enough: the Graces and Judgments were extended to the fullest, as has been 
 This is why \[that Spot\] is symbolically represented by the “Foundation Stone” and “Zion Spot,” female in quality, from which the world was founded.[^29] It refers to that Spot, which is truly a part of Ein Sof’s essence, and yet by comparison with the above-mentioned aspects is a female; and from it the world was founded. This was what Luria had in mind when he said that all the worlds were built within the *Malkhut* of Ein Sof, as 
 
 [^28]: *Ha-koah hu be-sod dukhra ve-ha-po’al be-sod nukba*, literally, “potentiality is in the mystery \[*sod*\] of the male and actuality in the mystery of the female.” This is the first occurrence of *sod*, “secret” or “mystery,” which will later appear in nearly every sentence of the text. I find it unhelpful to translate the word literally, but render it in accord with its context, usually as conveying some idea of “quality” (as here) or “symbol” (as in the first sentence of the next paragraph), or the “inner meaning” of a Biblical passage.
-[^29]: The “Foundation Stone,” *even shetiyyah*, appears in rabbinic tradition as the rock that took the place of the Ark in the Holy of Holies of the Temple, given its name because “from it the world was founded”: Mishnah Yoma 5:2, Tosefta Kippurim 2:12, Babylonian Talmud, Yoma 54b. (This is presumably the *sakhrah* around which the Muslims built the Dome of the Rock.) The phrase “Zion Spot,” *nekudat ziyyon*, though perhaps hinted at in the Talmudic reference to the Foundation Stone, is drawn from the [[Zohar 3.04 - Parashat Va-Yeshev#^z1-186a|Zohar, I, 186a]], 226a, cf. III, 296a (*Idra Zuta*). The author’s point is that the Foundation Stone/Zion Spot is a hint, embedded within the physical world as depicted by Jewish tradition, at the super-sensible realities after which that world is patterned. This passage is a turning point in the treatise, in that it is here that the abstract processes so far described first become concretized.
+[^29]: The “Foundation Stone,” *even shetiyyah*, appears in rabbinic tradition as the rock that took the place of the Ark in the Holy of Holies of the Temple, given its name because “from it the world was founded”: Mishnah Yoma 5:2, Tosefta Kippurim 2:12, Babylonian Talmud, [[Yoma 54#54b|Yoma 54b]]. (This is presumably the *sakhrah* around which the Muslims built the Dome of the Rock.) The phrase “Zion Spot,” *nekudat ziyyon*, though perhaps hinted at in the Talmudic reference to the Foundation Stone, is drawn from the [[Zohar 3.04 - Parashat Va-Yeshev#^z1-186a|Zohar, I, 186a]], 226a, cf. III, 296a (*Idra Zuta*). The author’s point is that the Foundation Stone/Zion Spot is a hint, embedded within the physical world as depicted by Jewish tradition, at the super-sensible realities after which that world is patterned. This passage is a turning point in the treatise, in that it is here that the abstract processes so far described first become concretized.
 
 *[p. 11]* ^pg11
 
@@ -189,7 +189,7 @@ Thus a natural philosopher has said that “there is no power like that of an in
 [^40]: [[Job 19#^19-26|Job 19:26]]; see above, n. 16.
 [^41]: I do not know the source of this.
 [^42]: [[Torah 07 - Vayetzei#^29-20|Genesis 29:20]].
-[^43]: Alluding to the Talmudic story in Kiddushin 81a: When Rav Amram the Pious caught a glimpse of a woman lodged in his upper chamber, he was so energized by lust that he “lifted a ladder that ten men could not carry, carried it by himself \[and set it in place\], and began to climb it. Halfway up he got hold of himself and cried out, ‘Fire in Amram’s house!’”—his aim being to bring out a crowd whose presence would restrain him from going any further.
+[^43]: Alluding to the Talmudic story in [[Kiddushin 81#81a|Kiddushin 81a]]: When Rav Amram the Pious caught a glimpse of a woman lodged in his upper chamber, he was so energized by lust that he “lifted a ladder that ten men could not carry, carried it by himself \[and set it in place\], and began to climb it. Halfway up he got hold of himself and cried out, ‘Fire in Amram’s house!’”—his aim being to bring out a crowd whose presence would restrain him from going any further.
 
 *[p. 13]* ^pg13
 
@@ -203,7 +203,7 @@ To sum up, the power of Ein Sof is contained in his overall Will, composed of th
 
 [^44]: [[Song of Songs 2#^2-5|Song of Songs 2:5]], [[Psalms 031#^31-11|Psalm 31:11]].
 [^45]: This is evidently a philosophical principle of some kind. But I do not know its source or what it means.
-[^46]: [[Ecclesiastes 08#^8-1|Ecclesiastes 8:1]]; Talmud, Shabbat 33a and Yevamot 60b, referring to the *hydrops* (“dropsy”) of the Greek physicians, presumably understood as facial edema. See Julius Preuss, *Biblisch-talmudische Medizin* (1911; reprinted New York: Ktav Publishing House, 1971), pp. 190-191.
+[^46]: [[Ecclesiastes 08#^8-1|Ecclesiastes 8:1]]; Talmud, [[Shabbat 33#33a|Shabbat 33a]] and [[Yevamot 60#60b|Yevamot 60b]], referring to the *hydrops* (“dropsy”) of the Greek physicians, presumably understood as facial edema. See Julius Preuss, *Biblisch-talmudische Medizin* (1911; reprinted New York: Ktav Publishing House, 1971), pp. 190-191.
 
 *[p. 14]* ^pg14
 
@@ -227,7 +227,7 @@ A key principle: whatever is done to build worlds, is done only through male and
 
 For intelligibility’s sake we may allow ourselves to go into the details, inappropriate as they may be to this lofty and fearful place. Rabbi Shimon ben Yohai has warned us that *cursed is the man who makes a graven or molten image*,[^54] and we are prohibited from entertaining thoughts of sex between man and wife because such thinking begets arousal. Yet the very things prohibited in these lower regions, where we 
 
-[^52]: Free quotations of [[Job 38#^38-11|Job 38:11]] and the Talmud, Hagigah 12a. Both passages illustrate the restrictive, defining function of Judgment.
+[^52]: Free quotations of [[Job 38#^38-11|Job 38:11]] and the Talmud, [[Chagigah 12#12a|Hagigah 12a]]. Both passages illustrate the restrictive, defining function of Judgment.
 [^53]: The Talmud, Bava Mezia 84a, offers “love compresses the flesh” as a retort to a “noble lady’s” gibe that two obese rabbis cannot be the fathers of the children attributed to them, since their genitals could not connect with their wives’.
 [^54]: [[Torah 50 - Ki Tavo#^27-15|Deut. 27:15]], quoted by Shimon ben Yohai at the beginning of the Zohar’s *Idra Rabbah* as a warning against taking the stunningly anthropomorphic images that follow as literal descriptors of the Deity.
 
@@ -247,7 +247,7 @@ In their pre-Contraction state, extended and mingled together, these aspects bor
 [^56]: In rabbinic usage, God is regularly called “the Place,” *ha-makom*. The midrash, *Genesis Rabbah* 68:9, explains this idiom as conveying that God “is the place of the world, not the world his place.”
 [^57]: The Talmudic theory of “domains,” important for the laws governing the carrying of objects on Sabbath, recognizes beside public and private domains a category called *karmelit*, “neutral ground, localities which show characteristics both of public and of private territory, for which reason intercourse between them and those territories is forbidden” (Hermann L. Strack, *Introduction to the Talmud and Midrash* \[Philadelphia: Jewish Publication Society, 1931\], p. 34).
 [^58]: The male *sefirah Tiferet* is “husband” to the female *Malkhut*, whose name literally means “kingship.”
-[^59]: Talmud, Bava Batra 4a, from which Rashi reasonably deduces that *rekha bar rekha* means “a king, son of a king.”
+[^59]: Talmud, [[Bava Batra 4#4a|Bava Batra 4a]], from which Rashi reasonably deduces that *rekha bar rekha* means “a king, son of a king.”
 
 *[p. 17]* ^pg17
 
@@ -283,7 +283,7 @@ And so, through the process of Contraction, that Spot was made into a complete S
 [^70]: It seems paradoxical that the hyper-masculine King David is understood, no less than his paramour Bathsheba ([[II Samuel 11#^11-1|2 Samuel 11]]-12), as a symbolic representation of the female Shechinah. Yet this equation has deep roots in the Kabbalah, is taken for granted by Sabbatian writers, and has important implications for the feminization of the Davidic Messiah Sabbatai Zevi. More on it below.
 [^71]: This use of “the God of Israel” as equivalent to the “Shape” emerging from the “Spot” is in accord with the Kabbalistic doctrine of Eibeschuetz’s *Shem Olam*, where the “God of Israel” (a.k.a. “Blessed Holy One”) is the first “effect” of the First Cause. (See above, n. 7.) Later in this text, however, the “God of Israel” is redefined as a more limited, less exalted entity with a more distinct personality, of whose specific existence *Shem Olam* gives no hint.
 [^72]: And therefore useless for world-building.
-[^73]: Drawing on the Talmud, Hagigah 12a, where the Biblical divine name *Shaddai*—usually but dubiously translated “the Almighty”—is explained through God’s having said to his chaotically expanding creation, “*Dai!* Enough!”
+[^73]: Drawing on the Talmud, [[Chagigah 12#12a|Hagigah 12a]], where the Biblical divine name *Shaddai*—usually but dubiously translated “the Almighty”—is explained through God’s having said to his chaotically expanding creation, “*Dai!* Enough!”
 
 *[p. 19]* ^pg19
 
@@ -347,7 +347,7 @@ Now the “place of colors,” inasmuch as that Spot was the goal and fruit of t
 [^89]: *Azmut*, the word translated “essence” in the previous sentence. I shift to “substrate” here and in what follows, better to bring out the contrast between the active “colors” and the passive “substrate,” developed in the next paragraph.
 [^90]: The subtext for what follows is a passage near the beginning of the Zohar (I, 1b-2b), where the words of [[Isaiah 40#^40-26|Isaiah 40:26]], *who created these*, are taken hyperliterally as “ ‘Who’ created ‘These’”: the *sefirah Binah*, the supernal Mother, for whom *Mi* (“Who”) is a standard code term, created “These” (*Elleh*, the lower *sefirot*). From the combining of *Mi* and *Elleh*, *Elohim* (“God”) was formed, both graphically ( אלה=אלהים + מי ) and in actuality. The author reworks his source with his usual bold creativity. *Mi* is no longer the Mother (*Imma*) but the male potency of “Father” (*Abba*), who impregnates the Spot within the passive womb of the strengthless *Elleh*; the action is shifted from the sefirotic to the super-sefirotic realm; and the Zohar’s assertion that *Mi* created *Elleh* is left problematic, since “colors” and “substrate” are coeval elements of Ein Sof.
 [^91]: Whose name, in Hebrew, is an anagram for *elleh*. The Zohar understands the Biblical Leah as a representation of the *sefirah Binah*. I know of no other source that connects her with Ein Sof or any of its elements.
-[^92]: Talmud, Berakhot 32a, which represents this as a taunt of the Gentiles against the Jewish God. The author quotes it with a significant alteration, from *he is grown weak* to *she is grown weak*.
+[^92]: Talmud, [[Berakhot 32#32a|Berakhot 32a]], which represents this as a taunt of the Gentiles against the Jewish God. The author quotes it with a significant alteration, from *he is grown weak* to *she is grown weak*.
 [^93]: Language drawn from [[Zohar 2.03 - Parashat Va-Yera#^z1-99b|Zohar, I, 99b]], but with a fresh significance which does not square very well with the author’s stress on the unity of the Ein Sof and his Will.
 [^94]: *Sofa de-khol dargin*, commonly used in the Zohar for the *sefirah Malkhut*, so called because she is the lowest of the *sefirot* (e.g., I, 106a, 163a, following Matt’s translation). But the “end of rungs” can be the highest of entities rather than the lowest, depending on one’s perspective, as the author observes at the beginning of section 1; and the Zohar’s exposition of [[Isaiah 40#^40-26|Isaiah 40:26]], which has plainly inspired that passage, seems so to understand it. (“Once a human being questions and searches, contemplating and knowing rung after rung to the very last rung …”; I, 1b, tr. Matt.) This is a new explanation of the name *Ein Sof*, deeper than the one proposed at the beginning of the treatise: it is formed from *Ein + Sof*, the names of its two components, just as it is called God, *Elohim*, from *Mi + Elleh* (below).
 
@@ -408,7 +408,7 @@ This implied by the verse, *What are these wounds between your hands? … which 
 [^114]: Since potentiality is male, actuality female.
 [^115]: The language is slightly misleading, since “Will” and “Root” are two names for the same entity. The distinction is one of perspective: what from the Ein Sof’s viewpoint is its “Will,” is for the lower realms emerging from it their “Root.” This will explain why, as our perspective shifts downward, the use of “Will” is eclipsed by that of “Root,” which takes on a strongly anthropomorphic quality.
 [^116]: Free quotation of [[Zechariah 13#^13-6|Zechariah 13:6]]: *When one says to him, What are these wounds between your hands?* *he will reply, Where I was struck in the house of my lovers.* The point is that sex can take place, not only at the genitalia, but at other parts of the body such as “between the hands.” We will presently hear more of these erotic “wounds.”
-[^117]: Combining Talmud, Shabbat 13b with Berakhot 24a and Shabbat 64b, where a woman’s little finger is put on par with her genital. The hyper-sexuality of divinity, mirrored in the human body, calls for hyper-vigilant avoidance.
+[^117]: Combining Talmud, [[Shabbat 13#13b|Shabbat 13b]] with [[Berakhot 24#24a|Berakhot 24a]] and [[Shabbat 64#64b|Shabbat 64b]], where a woman’s little finger is put on par with her genital. The hyper-sexuality of divinity, mirrored in the human body, calls for hyper-vigilant avoidance.
 [^118]: [[Torah 01 - Bereshit#^3-3|Genesis 3:3]]. Eve, speaking to the serpent, quotes God inaccurately as having prohibited, not only eating from the Tree of Knowledge, but also touching it; cf. *Midrash Genesis Rabbah* 19:3.
 [^119]: Not to eat of the Tree of Knowledge.
 
@@ -423,7 +423,7 @@ Now you must grasp an important distinction. Male lust is directed toward the fe
 [^120]: What has been said of the Spot is now applied to the Shape (“God of Israel”) that emerged from it.
 [^121]: E.g., [[I Kings 18#^18-39|1 Kings 18:39]], *the Lord he is God*. The four-letter name YHVH denotes the Shape (above, section 1), while *Elohim* (“God”) is understood, following the Kabbalistic tendency to apply the name specifically to the Shechinah (= *sefirah Malkhut*), as a marker of the female. See below, n. 124.
 [^122]: “Deep sleep” (*tardemah*) is the Biblical term for the mysterious condition that Adam entered when Eve was created out of him ([[Torah 01 - Bereshit#^2-21|Genesis 2:21]]); while *dormita*, apparently from Latin *dormitio*, is a Zoharic term that glosses *tardemah* (III, 142b, *Idra Rabbah*) and, in I, 207b, is linked to death. (Matt’s translation: “From there below are sixty other breaths, all from the side of death, the rung of death above them; they are called *dormita*, wakeless sleep, all tasting of death.” See his note *ad loc.*) My translation “entrancement” is based on the use of the term in *Va-avo ha-Yom*.
-[^123]: “Touching yet not touching” is the language of the Zohar, e.g., I, 16b. “Sleeping yet not sleeping” is from the Talmudic definition of a “doze,” e.g., Pesahim 120b. “Racing back and forth” is from [[Ezekiel 01#^1-14|Ezekiel 1:14]], describing the “living creatures” of the *merkavah*. I am not sure of the precise point the author is making in this sentence.
+[^123]: “Touching yet not touching” is the language of the Zohar, e.g., I, 16b. “Sleeping yet not sleeping” is from the Talmudic definition of a “doze,” e.g., [[Pesachim 120#120b|Pesahim 120b]]. “Racing back and forth” is from [[Ezekiel 01#^1-14|Ezekiel 1:14]], describing the “living creatures” of the *merkavah*. I am not sure of the precise point the author is making in this sentence.
 [^124]: That is, female; see above, n. 121. The copyist of ms. Jerusalem 2491 wrote *Elohim* in the text, along with the other manuscripts, but crossed it out and wrote *nukba*, “female.”
 [^125]: Above, chapter I, section 5.
 [^126]: [[Torah 53 - Ha'Azinu#^32-39|Deuteronomy 32:39]], usually translated *there is no other God with me*. *Ein*, “Nothingness,” was defined in chapter I, section 5 as the substrate of *Ein Sof*, the *Ein* as opposed to the *Sof*.
@@ -473,7 +473,7 @@ Up to this point—resuming our exposition—that Spot or Shape still had its Fe
 What did \[the Root\] do? He came to him and coupled with him in a state of “deep sleep, casting “deep sleep” upon the human[^150] at the start of his copulation. He had sex with him in a condition of “deep sleep” on account of the intense illumination that flowed into him, as we have said.[^151] This is the meaning of *the Lord God cast deep sleep upon the human* [^152] and performed a full sex act with him. The sex completed, \[the Shape\] gave birth, sprouting and producing and bringing forth fruit. The Female, once concealed 
 
 [^145]: [[Isaiah 43#^43-13|Isaiah 43:13]].
-[^146]: *Genesis Rabbah* 67:4; cf. the Talmud, Bava Kamma 50a.
+[^146]: *Genesis Rabbah* 67:4; cf. the Talmud, [[Bava Kamma 50#50a|Bava Kamma 50a]].
 [^147]: Of capricious alteration of the Will.
 [^148]: *Zera le-vattalah*, literally “wasted seed,” a rabbinic expression for semen ejaculated other than into its appropriate receptacle inside a woman. The author’s concern throughout this treatise, however, is not with the “waste” of the semen but with its chaotic and dangerous potency, which it is the female’s function to contain, restrain, keep within appropriate bounds.
 [^149]: [[Torah 01 - Bereshit#^2-18|Genesis 2:18]]. Adam (“human”) is understood as symbolizing the Shape, while the “God” of the Genesis story is the Will/Root. The author will develop this symbolism below, chapter \*, section \*.
@@ -497,7 +497,7 @@ This \[newly emerged\] Shape constitutes the Higher Shechinah, for she is superi
 [^156]: [[Torah 04 - Vayera#^20-12|Genesis 20:12]], spoken by Abraham of Sarah. The author takes it to mean that “Father” (the Root) has begotten the Female, not of any “mother” but of the very same Shape who is the Female’s consort. See below, \*.
 [^157]: [[Torah 04 - Vayera#^19-37|Genesis 19:37]] traces the Moabite people to incestuous sex between Lot and his daughter; King David was descended from Ruth the Moabitess ([[Ruth 4#^4-17|Ruth 4:17-22]]).
 [^158]: Some mss. have “his Father,” presumably referring to the Shape. The language is a bit confusing but the thought is clear: the Shechinah was born of a sex act between the “Father” and the Shape, which was itself the Father’s offspring. The act of incest, discreditable in [[Torah 04 - Vayera#^19-1|Genesis 19]], turns out to be a symbolic representation of divine necessity.
-[^159]: [[Torah 49 - Ki Teitzei#^23-4|Deuteronomy 23:4]], forbidding intermarriage with Moabites, is interpreted in rabbinic sources as referring only to Moabite males, Moabite women (like Ruth) being entirely acceptable upon conversion to Judaism. See Mishnah, Yevamot 8:3; Talmud, Yevamot 76b-77a.
+[^159]: [[Torah 49 - Ki Teitzei#^23-4|Deuteronomy 23:4]], forbidding intermarriage with Moabites, is interpreted in rabbinic sources as referring only to Moabite males, Moabite women (like Ruth) being entirely acceptable upon conversion to Judaism. See Mishnah, Yevamot 8:3; Talmud, [[Yevamot 76#76b|Yevamot 76b]]-77a.
 
 *[p. 33]* ^pg33
 
@@ -546,7 +546,7 @@ But the Shechinah remains in the position of *Malkhut*, the final *hei* \[of YHV
 
 [^175]: I am indebted to Daniel Matt for this translation of *hei ha-olamim*.
 [^176]: *Bara* (“Son”) and *bara kaddisha* (“Holy Son”) are Zoharic appellations for *Tiferet*. The author gives the word *bara* two entirely different etymologies, connecting it not with *Tiferet* but *Yesod.*
-[^177]: A Talmudic phrase (e.g., Shabbat 106a) which our author uses as lexical support for connecting *bara* with the “revealed,” exoteric character of the God of Israel, as opposed to the “concealed” Holy Ancient One.
+[^177]: A Talmudic phrase (e.g., [[Shabbat 106#106a|Shabbat 106a]]) which our author uses as lexical support for connecting *bara* with the “revealed,” exoteric character of the God of Israel, as opposed to the “concealed” Holy Ancient One.
 [^178]: E.g., III, 283a (*Raya Mehemna*).
 [^179]: If the Ancient One is the “head,” as above, the God of Israel is the “body.” If the Root is the “head,” as here, the God of Israel is the sexual organ. The author emphasizes the phallic shape of the letter *vav* (ו), with which the God of Israel is associated.
 [^180]: [[Psalms 011#^11-7|Psalm 11:7]].
@@ -585,7 +585,7 @@ So in that Root comprising ten aspects, where no solid structure[^196] or balanc
 [^191]: The “Balance” (*matkela*) appears in the Zohar’s cryptic (and appropriately titled) *Book of Concealment*: “… until there was a balance, they did not gaze face-to-face, and the primordial kings died. … This balance hangs in a place that is not; weighed upon it were those who did not exist. The balance stands on its own, ungrasped and unseen. Upon it rose and upon it rise those who were not, and who were, and who will be” ([[Zohar 5.06 - Sifra di-Tsni'uta#^z2-176b|Zohar, II, 176b]], tr. Matt; we shall presently hear much more about the death of the “primordial kings”). In the Zohar the “balancing” seems to be of male and female; our author understands it as Judgment and Grace. “Center-bar,” from [[Torah 19 - Terumah#^26-28|Exodus 26:28]], [[Torah 22 - Vayakhel#^36-33|36:33]], is used in the Zohar of the *sefirah Tiferet*, which mediates between and synthesizes the opposing attributes of Grace (the *sefirah Hesed*) and Judgment (the *sefirah Gevurah*); e.g., I, 148b (*Sitrei Torah*).
 [^192]: [[Job 34#^34-19|Job 34:19]].
 [^193]: [[Isaiah 32#^32-5|Isaiah 32:5]].
-[^194]: [[Song of Songs 7#^7-2|Song of Songs 7:2]], so interpreted in the Talmud, Sukkah 49b. In the Kabbalah, Abraham is the embodiment of the *sefirah Hesed*, the divine Grace. So “noble” = “generous” = Abraham = the divine attribute of Mercy.
+[^194]: [[Song of Songs 7#^7-2|Song of Songs 7:2]], so interpreted in the Talmud, [[Sukkah 49#49b|Sukkah 49b]]. In the Kabbalah, Abraham is the embodiment of the *sefirah Hesed*, the divine Grace. So “noble” = “generous” = Abraham = the divine attribute of Mercy.
 [^195]: The phrase *dallat ha-kesef* occurs nowhere in the Bible; perhaps the author is thinking of *dallat (am) haarez*, “the poor of (the people of) the land,” [[II Kings 24#^24-14|2 Kings 24:14]], [[II Kings 25#^25-12|25:12]]. He presumably intends the Kabbalistic symbolism of silver = Grace; “those poor in silver” are the Judgments, lacking in Grace.
 [^196]: *Tikkun*, a pivotal and multivalent term whose basic meaning is “mending” or “repair.” I translate each occurrence according to context.
 [^197]: [[Song of Songs 7#^7-6|Song of Songs 7:6]], the preceding words of which (*your head is like karmel*) were interpreted in chapter I, section 4, to speak of the mingling of Graces and Judgments. Now the author expands his understanding of the verse in accord with his new insight into the meaning of *dal(lat)*.

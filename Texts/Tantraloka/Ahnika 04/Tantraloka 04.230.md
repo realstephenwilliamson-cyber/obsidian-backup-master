@@ -36,6 +36,11 @@ samyakcenmanyase bādho viśiṣṭaviṣayatvataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 327–329)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.230]]
+>
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.230–231]]
+
 *Lead-in:* ननु यद्येवं तदितो बाह्यत्वाद्वैदिकीनां चोदनानामनयापि बाधः किं न भवेत् समानन्यायत्वात्, नहि एकतरत्र बलवत् किञ्चित्कारणमुत्पश्यामो, येन अन्यत्र नियमेन बाधः स्यात् ? तदाह --
 
 > वैदिक्या बाधितेयं चेद्विपरींतं न किं भवेत् ।

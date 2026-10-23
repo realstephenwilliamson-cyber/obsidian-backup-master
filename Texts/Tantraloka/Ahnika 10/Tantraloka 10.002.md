@@ -31,6 +31,9 @@ bhedāntaramapi proktaṃ śāstre'tra śrītrikābhidhe || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 287)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.2]]
+
 *Lead-in:* तदेवाह -
 
 > तेषाममीषां तत्त्वानां स्ववर्गेष्वनुगामिनाम् ।

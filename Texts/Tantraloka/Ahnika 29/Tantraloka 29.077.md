@@ -31,6 +31,9 @@ pīṭhastotraṃ paṭhedatra yāge bhāgyāvahāhvaye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 273–274)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.75–77]]
+
 > कलशं नेत्रबन्धादि मण्डलं स्रुक्स्रुवानलम् ॥
 > हित्वात्र सिद्धिः सन्मद्ये पात्रे मध्ये कृशां यजेत् ।
 > अहोरात्रमिमं याग कुर्वतश्चापरेऽहनि ॥

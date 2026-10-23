@@ -31,5 +31,8 @@ sarvasvamasmai saṃdadyādātmānamapi bhāvitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 197)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.425–429]]
+
 Jayaratha comments on this verse together with 28.429: see [[Tantraloka 28.429#Viveka|28.429]].
 

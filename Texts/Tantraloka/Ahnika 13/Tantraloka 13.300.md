@@ -33,6 +33,11 @@ kramikaḥ śaktipātaśca siddhānte vāmake tataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 308–311)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.295–300]]
+>
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.300–301]]
+
 *Lead-in:* न केवलमेवमेव शक्तिपातस्य क्रमाक्रमाभ्यां वैचित्र्यं यावत्प्रकारान्तरेणापि -- इत्याह --
 
 Jayaratha comments on this verse together with 13.299: see [[Tantraloka 13.299#Viveka|13.299]].

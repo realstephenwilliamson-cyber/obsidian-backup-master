@@ -34,6 +34,9 @@ yatsphuretprakaṭaṃ sākṣāttadicchākhyaṃ prakīrttitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 314–315)
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.146]]
+
 *Lead-in:* ननु एवमपि अत्र किं नाम उपायतया संमतम् ? इत्याशङ्क्याह—
 
 > तत्राद्ये स्वपरामर्शे निर्विकल्पैकधामनि ।

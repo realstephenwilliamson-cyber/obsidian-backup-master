@@ -34,6 +34,11 @@ tarpitāḥ śrāvitāścāṇornādhikāraṃ pratanvate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 40–41)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 16.86.*
+>
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.86]]
+
 *Lead-in:* ननु किं नामैषां पाशप्लोषसामर्थ्यम्?--इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 16.86: see [[Tantraloka 16.086#Viveka|16.86]].

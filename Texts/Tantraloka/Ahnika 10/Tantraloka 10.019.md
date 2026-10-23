@@ -33,6 +33,11 @@ caitreṇa vedyaṃ vedmīti kiṃ hyatra pratibhāsatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 303–304)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.19]]
+>
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.19 (2)]]
+
 *Lead-in:* ननु प्रमातृभेदाद्यदि वेद्यस्यापि भेदो भवेत् तदनेकेषु प्रमातृषु एकमेव नीलं विदितं न स्यादपितु भिन्नभिन्नम्, न चैवमस्ति, नहि तत्तद्देशकालावस्थाप्रमातृभेदेऽपि नीलस्य स्वात्मनि कश्चिद्विशेषः संलक्ष्यते ? -- इत्याशङ्कां गर्भीकृत्यैतदेवोपपादयति --
 
 > तथाहि वेद्यता नाम भावस्यैव निजं वपुः ।

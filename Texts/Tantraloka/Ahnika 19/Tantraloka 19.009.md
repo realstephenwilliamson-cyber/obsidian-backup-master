@@ -34,6 +34,9 @@ pūrvoktamarthajātaṃ śrīśambhunātra nirūpitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 203)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.9]]
+
 *Lead-in:* न च अयमासन्नमरणत्वाभिधानपर एवागमः--इत्याह--
 
 > विशेषणविशेष्यत्वे कामचारविधानतः ।

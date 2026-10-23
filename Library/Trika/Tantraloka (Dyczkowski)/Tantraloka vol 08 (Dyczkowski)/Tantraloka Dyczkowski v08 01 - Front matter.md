@@ -74,7 +74,7 @@ While Swami Laksmanṇajoo was a great master of inner, yogic practice, in Nepal
 
 Pt. Vrajavallabha Dvivedi, former head of the Yogatantra Department at Sarhùpūrṇānanda Sanskrit University, was an abiding source of inexhaustible knowledge. Indeed, his scholarly work, both in Sanskrit and Hindi, is formidable — ranging as it does through virtually every major Tantric tradition including not only Kashmiri Śaivism, but also Śaiva Siddhānta, Vīra Śaivism, Śrīvidyā, the Kaula Tantras, Vaiṣṇava Pañcarātra, the Buddhist Anuttarayoga Tantras and even Jain Tantrism. 
 
-In other areas of study, I cannot but recall with gratitude Pt. B. P. Tripathi, better known as Vāgīśa Śāstrī, former Director of the Research Department of Sarnpūrṇānanda Sanskrit University, who labored for years to teach me Sanskrit grammar both in the traditional manner through the Siddhāntakaumudī and through his own didactic method. 
+In other areas of study, I cannot but recall with gratitude Pt. B. P. Tripathi, better known as Vāgīśa Śāstrī, former Director of the Research Department of Saṁpūrṇānanda Sanskrit University, who labored for years to teach me Sanskrit grammar both in the traditional manner through the Siddhāntakaumudī and through his own didactic method. 
 
 Although I have not studied formally with Prof. K. D. Tripathi, retired dean of the Sanskrit college of Banaras Hindu University, I cannot but acknowledge that the many lectures I have heard him deliver and dialogues I have had with him over the years inspired and helped me very much to understand Pratyabhijñā, Bharṭṁari’s philosophy of grammar, Abhinavagupta’ s aesthetics and the Śaiva Āgamas. In a similar way, I had the good fortune to listen to many lectures and attend classes on the Nātṭyaśastra with Abhinavagupta’s commentary by the late Premalata Sharma, formerly Dean of the Music Faculty of BHU and President of the Sangit Nataka Academy. There are many other renowned scholars in \[illegible\] whom I must also thank for 
 
@@ -84,7 +84,7 @@ inspiration such as the late Prof. Ananda Krishna and Vatukanatha Khiste, who wa
 
 I owe a special thanks also to Bettina Bäumer whose dedication and scholarship in many fields has been an abiding source of inspiration and knowledge for me throughout the 50 years of our acquaintance. Of those who do not reside in Benares I gratefully acknowledge Prof. Navajivan Rastogi whose books and lectures have helped me a great deal. 
 
-I should not forget to mention my good friends and fellow travelers, especially Dr. Śitalāprasād Upādhyāya, formarly head of the Yogatantra Department at Sarpūrṇānanda Sanskrit University and then rector of the University. I am especially grateful to Prof. Rana Singh, retired head of the Geography department of Banaras Hindu University who guided me through the principles of sacred geography, particularly that of Kāŝī. 
+I should not forget to mention my good friends and fellow travelers, especially Dr. Śitalāprasād Upādhyāya, formarly head of the Yogatantra Department at Saṁpūrṇānanda Sanskrit University and then rector of the University. I am especially grateful to Prof. Rana Singh, retired head of the Geography department of Banaras Hindu University who guided me through the principles of sacred geography, particularly that of Kāśī. 
 
 During the decades that went into making this translation and study I continuously searched for the sources Abhinavagupta quotes in his Tantrāloka and other works. In this regard I am deeply indebted to the librarians who permitted me to have copies of manuscripts and early rare printed books. I am especially grateful to the German directors in Nepal of the German Nepalese Manuscript Preservation Project. Over the twenty odd years in which I travelled every year, sometimes more than once, to Nepal, seven came and went. There I collected copies of manuscripts of the majority of the most important texts belonging to the early period, that is, prior to Abhinavagupta, from which he drew. The Nepalese collection is very extensive and contains most of the earliest manuscripts preserved in the Indian subcontinent. Other libraries that have furnished manuscripts of important texts, are the Asiatic Society in Calcutta, the central library of Banaras Hindu University, and the libraries in Jodhpur and Poone. 
 
@@ -122,7 +122,7 @@ CONTENTS
 
 CHAPTER FIFTEEN 
 
-The Common Initiation into the Rule (sãāmayīdīkṣãā) 
+The Common Initiation into the Rule (sāmayīdīkṣā) 
 
 Types of Initiation and Competence for It 
 
@@ -150,7 +150,7 @@ Purification of Embodied Subjectivity, verses 45-46, pages 37-38 The Ablution wi
 
 The Selection of the Place Suitable for the Sacrifice (sthānakalpana) 
 
-Outer and Inner Sacred Place, verses 79-83ab, pages 58-59 The Eight Fields, Primary \[illegible\] and Secondary (upakṣetra), and the Eight upasarhdohas, verses 83cd-93ab, pages 59-63 
+Outer and Inner Sacred Place, verses 79-83ab, pages 58-59 The Eight Fields, Primary \[illegible\] and Secondary (upakṣetra), and the Eight upasaṁdohas, verses 83cd-93ab, pages 59-63 
 
 Sacred Sites in the Body, verses 93cd-97ab, pages 64-67 The Power of Outer Sacred Places 97cd-101ab, pages 67-69 
 
@@ -158,13 +158,13 @@ Sacred Sites in the Body, verses 93cd-97ab, pages 64-67 The Power of Outer Sacre
 
 Sacred Places, Whether Internal or External Bestow only Worldly Benefits, verses 101cd-102ab, 104cd-107ab, page 69 
 
-The Seven Sacred Places according to the Vīrāvalihrdaya, verses 102cd-104ab, pages 70-73 
+The Seven Sacred Places according to the Vīrāvalihṛdaya, verses 102cd-104ab, pages 70-73 
 
 Liberation and Accomplishments attained by the Blooming and Repose of the Heart, a Pure Mind and Freedom from Thought, verses 107cd-115ab, pages 73-78 
 
 The Kinds of Common Depositions (sāmānyanyāsabheda) , verses 115cd- 
 
-117ab, pages 78 The Deposition of Mātrkā, verses 117cd-120, pages 79-80 Mālinī and Her Deposition, verses 121-130ab, pages 80-86 Nature of Mātrkā and Mālinī, verses 130cd-134ab, pages 87-89 Application of the Deposition of Mālinī: Correction of Faults, verses 134cd- 135ab, pages 89-90 Attainment of a Body of Power, verses 136cd-137ab, pages 90-91 Empowerment and Completion of Mantras, verses 137cd-139ab, pages 91-92 Combination of the Deposition of Mātrkā and Mālinī for Benefits and Liberation, verses (139cd-145) , pages 92-95 The Rite of the Sacrificial Vessel (arghapātra) and its Purpose (prayojana) , verses 146-164ab, page 95 The Articulation of the Language of Ritual Action, verses 147-151, pages 95-97 
+117ab, pages 78 The Deposition of Mātṛkā, verses 117cd-120, pages 79-80 Mālinī and Her Deposition, verses 121-130ab, pages 80-86 Nature of Mātṛkā and Mālinī, verses 130cd-134ab, pages 87-89 Application of the Deposition of Mālinī: Correction of Faults, verses 134cd- 135ab, pages 89-90 Attainment of a Body of Power, verses 136cd-137ab, pages 90-91 Empowerment and Completion of Mantras, verses 137cd-139ab, pages 91-92 Combination of the Deposition of Mātṛkā and Mālinī for Benefits and Liberation, verses (139cd-145) , pages 92-95 The Rite of the Sacrificial Vessel (arghapātra) and its Purpose (prayojana) , verses 146-164ab, page 95 The Articulation of the Language of Ritual Action, verses 147-151, pages 95-97 
 
 The Inscrutable Festival of Śiva’s Worship, verses 152-155ab, pages 97-98 
 
@@ -230,7 +230,7 @@ The Inner Sacrifice
 
 The Formation of the Trident Throne, verses 297cd-318, pages 175-191 The Superiority of Our School Over Those of Other Scriptures 
 
-(anyaśāstraganṇotkarṣa), verses 319-320, pages 191-193 The Worship of the Three Goddesses on the Trident Throne, verses 321-323ab, pages 193-195 The Worship of the Wheel in All Respects (pājā cakrasya sarvatah) 
+(anyaśāstraganṇotkarṣa), verses 319-320, pages 191-193 The Worship of the Three Goddesses on the Trident Throne, verses 321-323ab, pages 193-195 The Worship of the Wheel in All Respects (pājā cakrasya sarvataḥ) 
 
 The Three Goddesses and their Bhairavas, verses 323cd-330ab, pages 195-201 
 
@@ -242,7 +242,7 @@ The External Sacrifice
 
 Taking Possession of the Field (kṣetragraha) and the Five Products of the Cow (pañcagavya), verses 366-374ab, pages 225-228 
 
-The Worship of the Earth and Ganeśa (pūjanaṁ bhūgaṇeśayoh), verses 374cd- 377, pages 228-231 
+The Worship of the Earth and Ganeśa (pūjanaṁ bhūgaṇeśayoḥ), verses 374cd- 377, pages 228-231 
 
 The Worship of the Weapon (astrārca) and the Small and Big Jar, verses (378- 390) (377 + 2, 3 and 4 - 388ab), pages 231-239 
 
@@ -260,11 +260,11 @@ Oblations, verses 413cd-418 (41 1-416ab), pages 254-257 Purification of the Larg
 
 The Full Oblation, verses 427-43 lab (424cd-428), pages 263-266 Inner Ascent Through the Tattvas by a Series of Inner Conjunctions, verses 434cd-438 (432-436ab), pages 266-268 
 
-The Preparation and Consumption of the Sacrificial Pap (carusarhsiddhi), verses 439-446 (436cd-444ab), pages 268-274 
+The Preparation and Consumption of the Sacrificial Pap (carusaṁsiddhi), verses 439-446 (436cd-444ab), pages 268-274 
 
 Offering of the Sacrificial Pap and More to the Implements and Disciples, 
 
-verses 447-449ab (444cd-446), pages 274-275 The Stick for the Teeth (dantakaṣtha), verses 449cd-450ab (447), page 276 The Final Purification (antasaṁskriyā), verses 450cd-455 (448-453ab), pages 276-278 The Vision of the Deities in the Mandala, verses 450cd-458 (448-456ab), pages 276-280 The Initiation by Means of Śiva’s Hand (śivahastavidhi), verses 459-471ab (456cd-468), 474cd-476 (472-474ab), pages 280-289 The Four Types of Initiates, from Regular to Teacher, verses 47 1cd-474ab (469- 471), pages 289-290 The Preparing of the Bed (śayyāklpti), verses 478cd, pages 291-292 Yoga of the Disciple with the Teacher When Sleeping, verses 478cd-483ab (474cd-479ab), pages 292-293 The Disciple’s Yogic Dreaming, verses 483cd-485ab (479cd-481ab) , pages 294-295 The Examination of Dreams (vicārana), verses 485cd-498ab (48 1cd-494ab), pages 295-299 The Purifying Rite to Make a Brahmin (sãāmayaṁ karma), verses 498cd-525ab (494cd-521ab), pages 299-300 Forty-eight and Seven Purifying Rites Whereby the Disciple Becomes a 
+verses 447-449ab (444cd-446), pages 274-275 The Stick for the Teeth (dantakaṣtha), verses 449cd-450ab (447), page 276 The Final Purification (antasaṁskriyā), verses 450cd-455 (448-453ab), pages 276-278 The Vision of the Deities in the Mandala, verses 450cd-458 (448-456ab), pages 276-280 The Initiation by Means of Śiva’s Hand (śivahastavidhi), verses 459-471ab (456cd-468), 474cd-476 (472-474ab), pages 280-289 The Four Types of Initiates, from Regular to Teacher, verses 47 1cd-474ab (469- 471), pages 289-290 The Preparing of the Bed (śayyāklpti), verses 478cd, pages 291-292 Yoga of the Disciple with the Teacher When Sleeping, verses 478cd-483ab (474cd-479ab), pages 292-293 The Disciple’s Yogic Dreaming, verses 483cd-485ab (479cd-481ab) , pages 294-295 The Examination of Dreams (vicārana), verses 485cd-498ab (48 1cd-494ab), pages 295-299 The Purifying Rite to Make a Brahmin (sāmayaṁ karma), verses 498cd-525ab (494cd-521ab), pages 299-300 Forty-eight and Seven Purifying Rites Whereby the Disciple Becomes a 
 
 Brahmin, verses 501-514ab (497-510ab), pages 300-311 Mantra Used for the Sacraments, verses 514cd-515ab (510cd-51 lab), page 311 What Makes a Brahmin a Brahmin, verses 515cd-525ab (511cd-521ab), pages 312-317 The Pledges (samaya), verses 525cd-617cd (521cd-614ab), pages 317-? 
 
@@ -294,9 +294,9 @@ Rules and Norms Taught in Various Trika and Bhairava Tantras, verses 597-609 (59
 
 Appendices to Chapter Fifteen 
 
-Appendix A: Mātrkānyāsa, pages 350-355 Appendix B: Mālinīnyāsa, pages 356-371 Appendix C: Śabdarāśinyāsa, pages 372-377 Appendix D: The formation of the Trident Throne 
+Appendix A: Mātṛkānyāsa, pages 350-355 Appendix B: Mālinīnyāsa, pages 356-371 Appendix C: Śabdarāśinyāsa, pages 372-377 Appendix D: The formation of the Trident Throne 
 
-The Deposition of the Throne (ãsananyāsa) According to the 
+The Deposition of the Throne (āsananyāsa) According to the 
 
 Svacchandatantra 2/55ab-84 with Kṣemarāja’s Commentary, pages 378-390 Appendix E: The Mantras of the Trident according to the Mālinīvijayottara, pages 391-401 Appendix F: Concerning Mantras — The Iniatory Mantra, pages 402-403 Appendix G: Chapter Eight of the Mālinīvijayottara, The Initiation into the Rule (samaya), pages 404-439 Appendix H: A comparative chart between the tattvas and the Trident Throne, page 440 Appendix I: A comparative chart between the tattvas and the Trividya, page 441 
 
@@ -306,7 +306,7 @@ Abbreviations
 
 APS 
 
-Ajadapramātrsiddhi ASB 
+Ajadapramātṛsiddhi ASB 
 
 Asiatic Society of Bengal AV 
 
@@ -344,7 +344,7 @@ Indo-Iranian Journal ÎĪPv
 
 Iśvarapratyabhijñāvimarśinī ĪPVv 
 
-Iśvarapratyabhijñāvivrtivimarśinī IFP 
+Iśvarapratyabhijñāvivṛtivimarśinī IFP 
 
 Institut Français d'Indologie de Pondichéry ISMEO 
 
@@ -398,11 +398,11 @@ Mahānayaprakāśa by Arṇasirmha
 
 *[p. xiii]* ^pg17
 
-Manuscript Maālinīvijayottaratantra Mālinīvijayavārtika Monier-Williams Mundaka Upaniṣad Mrgendratantra Mrgendratantravrtti Kriyãpāda Mrgendratantra Kriyāpāda Mrgendratantra Vidyāpāda Nepal German Manuscript Preservation Project Nityāṣodaśikārṇnava Nyāyabindu Nyāyabinduṭīkā Netratantra Netratantroddyota Number Page Paramokṣanirāsakārikā Parātrīśikā (= Parātriṁśika) 
+Manuscript Maālinīvijayottaratantra Mālinīvijayavārtika Monier-Williams Mundaka Upaniṣad Mṛgendratantra Mṛgendratantravṛtti Kriyāpāda Mṛgendratantra Kriyāpāda Mṛgendratantra Vidyāpāda Nepal German Manuscript Preservation Project Nityāṣodaśikārṇnava Nyāyabindu Nyāyabinduṭīkā Netratantra Netratantroddyota Number Page Paramokṣanirāsakārikā Parātrīśikā (= Parātriṁśika) 
 
 Parātriṁmśikavivaranṇa (Parātrīs ikāvivarana) Pāṇini’s Sūtras, the Aṣtādhyāyī. 
 
-Pūrvakāmikā Paramārthasāra Pramānṇavārtika Pramāṇaviniścaya Pratyabhijñāhrdaya Ricerche e Studi Orientali Rājataraṁginī RauSūS 
+Pūrvakāmikā Paramārthasāra Pramānṇavārtika Pramāṇaviniścaya Pratyabhijñāhṛdaya Ricerche e Studi Orientali Rājataraṁginī RauSūS 
 
 Rauravasūtrasaigraha RgV 
 
@@ -428,15 +428,15 @@ Spandakārikā SpNi
 
 Spandanirṇnaya SpPra 
 
-Spandapradīpikā Spandasarhdoha SpSarh ŚDr 
+Spandapradīpikā Spandasaṁdoha SpSaṁ ŚDr 
 
-'vadrṣtṭi ऽऽ 
+'vadṛṣtṭi ऽऽ 
 
 Śivasūtra ऽऽ 
 
-\$ivasūtravimarśinī 551 
+Śivasūtravimarśinī 551 
 
-\$ivastotrāvali ŚM 
+Śivastotrāvali ŚM 
 
 Śrīmatottara SŚvetāśvatara Upaniṣad Śvet 
 

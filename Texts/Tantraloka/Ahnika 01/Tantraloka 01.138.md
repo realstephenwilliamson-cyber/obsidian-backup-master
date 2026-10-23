@@ -34,6 +34,9 @@ tathāpyāvṛtinirhrāsatāratamyātsa lakṣyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 304–305)
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.138]]
+
 *Lead-in:* ननु संविदि भेदानुपपत्तेः कथं वैचित्र्यं सङ्गच्छताम् ? इत्याशङ्क्या --
 
 > संविद्रूपे न भेदोऽस्ति वास्तवो यद्यपि ध्रुवे ।

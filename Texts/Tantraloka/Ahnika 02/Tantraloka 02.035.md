@@ -35,6 +35,9 @@ puraḥsthameva saṃvittibhairavāgnivilāpitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 45)
+> ![[Tantraloka Dyczkowski v02 03 - Chapter Two, part 2#Viveka on 2.35]]
+
 *Lead-in:* ततश्च किम् ? इत्याह --
 
 > तेषामिदं समाभाति सर्वतो भावमण्डलम् ।

@@ -35,6 +35,9 @@ paratattvādi bodhe kiṃ pratibimbaṃ na bhaṇyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 129–131)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.57]]
+
 *Lead-in:* एतदेव प्रकृते योजयति --
 
 > बोधमिश्रमिदं बोधाद् भेदेनाशक्यभासनम् ।

@@ -33,6 +33,11 @@ aṅgavaktraparīvāraśaktidvādaśakādhikām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 150–151)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.248–251]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.251–252]]
+
 *Lead-in:* यदा पुनरेतदेव शास्त्रानुसारेण साधयितुमिष्टं तदा अयं विशेषः--इत्याह--
 
 > अङ्गवक्त्रपरीवारशक्तिद्वादशकाधिकाम् ॥

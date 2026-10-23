@@ -31,6 +31,9 @@ kiṃ vā'tibahunā sarvaṃ saṃvittau prāṇagaṃ tataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 65–67)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.93–97]]
+
 > तस्येच्छा पीठमाधारो यत्रस्थं सचराचरम् ।
 > अग्र्यं तत्कामरूपं स्याद्बिन्दुनादद्वयं ततः ॥
 > नादपीठं पूर्णगिरिर्दक्षिणे वामतः पुनः ।

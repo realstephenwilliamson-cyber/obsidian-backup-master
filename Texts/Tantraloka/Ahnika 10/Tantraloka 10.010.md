@@ -33,6 +33,11 @@ sakalādiśivāntaistu mātṛbhirvedyatāsya yā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 297–299)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.9–10]]
+>
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.10–12]]
+
 *Lead-in:* एवमस्यैकध्येऽपि अवान्तरचतुर्दशभिन्नत्वे शक्तिमन्तः शक्तयश्च निमित्तम् -- इत्याह --
 
 Jayaratha comments on this verse together with 10.9: see [[Tantraloka 10.009#Viveka|10.9]].

@@ -35,6 +35,9 @@ svayaṃ vā guruṇā vātha kāryatvena maheśinā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 229)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.54]]
+
 *Lead-in:* ननु इयं सद्यःसमुत्क्रान्तिलक्षणा दीक्षा गुरुकार्येति नास्ति विमतिः, स्वयङ्कार्यतायां तु किं प्रमाणम् ?--इत्याशङ्क्याह--
 
 > इतीयं सद्य उत्क्रान्तिः सूचिता मालिनीमते ।

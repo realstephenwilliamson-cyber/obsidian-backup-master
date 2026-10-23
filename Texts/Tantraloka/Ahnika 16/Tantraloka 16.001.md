@@ -37,6 +37,9 @@ gurutve sādhakatve vā kartumicchati daiśikaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 1)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.1–2]]
+
 *Lead-in:* इदानीं समयदीक्षानन्तरं भाविनीं पुत्रकदीक्षां निरूपयितुं द्वितीयार्धेन प्रतिजानीते--
 
 > अथ पुत्रकत्वसिद्ध्यै निरूप्यते शिवनिरूपितोऽत्र विधिः ।

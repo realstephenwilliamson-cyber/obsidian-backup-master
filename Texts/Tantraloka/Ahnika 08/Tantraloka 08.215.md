@@ -35,6 +35,9 @@ tanmātrādimano'ntānāṃ purāṇi śivaśāsane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 240)
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.215]]
+
 > सुरेश्वरीमहाधाम्नि ये मिर्यन्ते च तत्पुरे ॥
 > ब्रह्मणाद्याः सङ्करान्ताः पशवः स्थावरान्तगाः ।
 > रुद्रजातय एवैते इत्याह भगवाञ्छिवः ॥

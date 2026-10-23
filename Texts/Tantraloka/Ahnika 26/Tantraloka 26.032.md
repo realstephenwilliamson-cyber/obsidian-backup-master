@@ -34,5 +34,10 @@ japaṃ cātra yathāśakti devāyaitannivedanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 381)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 26.33–34.*
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.33–34]]
+
 Jayaratha comments on this verse together with 26.33: see [[Tantraloka 26.033#Viveka|26.33]].
 

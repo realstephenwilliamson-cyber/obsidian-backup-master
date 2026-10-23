@@ -31,6 +31,9 @@ ataddvāraṃ samutprekṣāpratibhādiṣu tādṛśī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 215–216)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.228–229]]
+
 *Lead-in:* ननु अव्यवहितत्वात् पुंस्प्रकाशोऽत्र प्रतिबिम्बमाधत्ताम्, तथात्वाभावात् बाह्यं वेद्यं पुनः कथम् ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 9.229: see [[Tantraloka 09.229#Viveka|9.229]].

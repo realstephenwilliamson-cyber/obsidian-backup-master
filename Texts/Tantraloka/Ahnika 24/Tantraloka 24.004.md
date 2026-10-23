@@ -31,6 +31,9 @@ antyeṣṭidīkṣā kāryeti śrīdīkṣottaraśāsane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 343–345)
+> ![[Tantraloka Dyczkowski v09 15 - Chapter Twenty-Four#Viveka on 24.4]]
+
 *Lead-in:* किमत्र प्रमाणम् ?--इत्याशङ्क्याह--
 
 > समयाचारदोषेषु प्रमादात्स्खलितस्य हि ।

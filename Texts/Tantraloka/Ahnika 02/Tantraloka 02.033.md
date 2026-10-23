@@ -35,6 +35,9 @@ akathyapadavīrūḍhaṃ śaktisthaṃ śaktivarjitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 42–43)
+> ![[Tantraloka Dyczkowski v02 03 - Chapter Two, part 2#Viveka on 2.33]]
+
 *Lead-in:* अत एव च नियतव्यवच्छेदासहिष्णुत्वादेतद्विकल्प्यतां नैति -- इत्याह --
 
 > न भावो नाप्यभावो न द्वयं वाचामगोचरात् ।

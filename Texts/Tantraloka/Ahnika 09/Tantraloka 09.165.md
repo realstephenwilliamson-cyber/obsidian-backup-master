@@ -31,6 +31,9 @@ tathāpi tu tathā citrapaurvāparyāvabhāsanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 143–144)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.164–166]]
+
 > सा माया क्षोभमापन्ना विश्वं सूते समन्ततः ॥
 > दण्डाहतेवामलकी फलानि किल यद्यपि ।
 > तथापि तु तथा चित्रपौर्वापर्यावभासनात् ॥

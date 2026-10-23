@@ -37,6 +37,11 @@ tatsvarūpaṃ japaḥ prokto bhāvābhāvapadacyutaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 237–241)
+> ![[Tantraloka Dyczkowski v01 07 - Chapter One, part 6#Viveka on 1.89–90]]
+>
+> ![[Tantraloka Dyczkowski v01 07 - Chapter One, part 6#Viveka on 1.90]]
+
 *Lead-in:* कोऽसौ जपो नाम ? इत्याशङ्क्याह --
 
 > तत्स्वरूपं जपः प्रोक्तो भावाभावपदच्युतः ॥

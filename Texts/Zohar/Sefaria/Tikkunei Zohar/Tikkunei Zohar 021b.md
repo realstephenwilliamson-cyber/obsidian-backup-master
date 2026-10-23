@@ -300,7 +300,7 @@ should be through Her. It is this that is written:
 [^8]: *re-hatim*
 [^9]: *ḥavush*
 [^10]: *ḥavosh*
-[^11]: *BT* Berakhot 5b
+[^11]: *BT* [[Berakhot 5#5b|Berakhot 5b]]
 [^12]: *zot*
 [^13]: *zot*
 [^14]: *zot*

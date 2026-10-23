@@ -33,6 +33,11 @@ tadevaṃ tanmayībhāvadāyinyarcākriyā yataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 99–100)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.156–157]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.157–158]]
+
 *Lead-in:* प्रकृतमेव उपसंहरति--
 
 > तदेवं तन्मयीभावदायिन्यर्चाक्रिया यतः ॥

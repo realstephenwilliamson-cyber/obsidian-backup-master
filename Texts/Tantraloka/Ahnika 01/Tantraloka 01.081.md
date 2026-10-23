@@ -35,6 +35,9 @@ akalau sakalaśceti śivasyaiva vibhūtayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 220–223)
+> ![[Tantraloka Dyczkowski v01 07 - Chapter One, part 6#Viveka on 1.78–81]]
+
 > बहुशक्तित्वमस्योक्तं शिवस्य यदतो महान् ।
 > कलातत्त्वपुरार्णाणुपदादिर्भेदविस्तरः ॥
 > सृष्टिस्थितितिरोधानसंहारानुग्रहादि च ।

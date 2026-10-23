@@ -33,6 +33,11 @@ tatastṛtīyadivase prāgvatsarvo vidhiḥ smṛtaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 285–286)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.23–27]]
+>
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.27–28]]
+
 *Lead-in:* एवं लिङ्गोद्धृतिमभिधाय दीक्षाकर्म अभिधत्ते--
 
 > ततस्तृतीयदिवसे प्राग्वत्सर्वो विधिः स्मृतः ॥

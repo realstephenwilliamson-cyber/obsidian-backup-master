@@ -31,5 +31,8 @@ dakṣiṇaṃ raudrakarmāḍhyaṃ vāmaṃ siddhisamākulam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 238)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.27–28]]
+
 Jayaratha comments on this verse together with 37.28: see [[Tantraloka 37.028#Viveka|37.28]].
 

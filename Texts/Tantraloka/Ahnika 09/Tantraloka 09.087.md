@@ -31,6 +31,9 @@ mañcavadasmin duḥkhasroto'ṇūn vahati yatplavastena || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 85)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.87]]
+
 *Lead-in:* नन्वसावनुगतोऽर्थः कः ? -- इत्याशङ्क्याह --
 
 > अस्मिन् सति भवति भवो दुष्टो भेदात्मनेति भवदोषः ।

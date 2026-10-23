@@ -35,6 +35,9 @@ puñjībhūte svaraśmyoghe nirbharībhūya tiṣṭhati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 108–110)
+> ![[Tantraloka Dyczkowski v04 05 - Chapter Five, part 3#Viveka on 5.84–85]]
+
 *Lead-in:* ननु कथमेवं भवेत् ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 5.85: see [[Tantraloka 05.085#Viveka|5.85]].

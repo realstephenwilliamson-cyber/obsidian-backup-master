@@ -34,6 +34,9 @@ vaicitryamasti bhedasya vaicitryaprāṇatā yataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 76–78)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.175]]
+
 > एकत्रिपञ्चषट्त्रिंशद्भेदात्तात्त्वश्चतुर्विधः ।
 > पञ्चैकभेदाच्चाध्वानस्तथैवाण्डचतुष्टयम् ॥
 > एवं दशविधं शोध्यं त्रिंशद्धा तद्विधित्रयात् ।

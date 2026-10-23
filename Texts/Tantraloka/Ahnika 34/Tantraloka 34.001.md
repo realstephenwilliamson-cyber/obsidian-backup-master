@@ -34,6 +34,9 @@ tatrāntarantarāviśya viśrāmyetsavidhe pade || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 186)
+> ![[Tantraloka Dyczkowski v11 08 - Chapter Thirty-Four#Viveka on 34.1–2]]
+
 *Lead-in:* ननु यदि एक एव अयं चिदात्मा परमेश्वरः, तत् किमाणवाद्युपायवैचित्र्येण?--इत्याशङ्कां गर्भीकृत्य अत्रैव द्वारद्वारिकया प्रवेशमभिधातुं द्वितीयार्धेन उपक्रमते--
 
 > उच्यतेऽथ स्वस्वरूपप्रवेशः क्रमसङ्गतः ।

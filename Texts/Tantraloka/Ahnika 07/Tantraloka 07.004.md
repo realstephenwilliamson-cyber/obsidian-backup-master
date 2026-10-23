@@ -34,6 +34,9 @@ ekānusaṃdhānabalājjāte mantrodaye'niśam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 4–5)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.3–5]]
+
 > यथारघट्टचक्राग्रघटीयन्त्रौघवाहनम् ॥
 > एकानुसंधियत्नेन चित्रं यन्त्रोदयं भजेत् ।
 > एकानुसंधानबलाज्जाते मन्त्रोदयेऽनिशम् ॥

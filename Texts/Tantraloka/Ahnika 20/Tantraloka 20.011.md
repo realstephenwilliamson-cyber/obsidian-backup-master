@@ -38,6 +38,13 @@ tulāśuddhiparīkṣāṃ vā kuryātpratyayayoginīm || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 236–239)
+> ![[Tantraloka Dyczkowski v09 11 - Chapter Twenty#Viveka on 20.10–11]]
+>
+> ![[Tantraloka Dyczkowski v09 11 - Chapter Twenty#Viveka on 20.11–12]]
+>
+> ![[Tantraloka Dyczkowski v09 11 - Chapter Twenty#Viveka on 20.11–13]]
+
 *Lead-in:* एवमधिकारिपरीक्षामभिधाय तुलाविधिमभिधत्ते--
 
 > तुलाशुद्धिपरीक्षां वा कुर्यात्प्रत्यययोगिनीम् ॥

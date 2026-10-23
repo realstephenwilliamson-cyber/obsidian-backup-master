@@ -33,6 +33,11 @@ dehasaṃbandhasaṃchannasārvajñyo dambhabhājanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 317–318)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.43–44]]
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.44–45]]
+
 *Lead-in:* ननु अयं परीक्षणपरोऽपि प्रमादात् कस्मिंश्चिदयोग्यतामजानान एव दीक्षां कुर्वाणः किं दुष्यति न वा ?--इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 23.43: see [[Tantraloka 23.043#Viveka|23.43]].

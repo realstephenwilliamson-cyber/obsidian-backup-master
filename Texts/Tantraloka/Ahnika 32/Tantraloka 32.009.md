@@ -33,6 +33,11 @@ mudrā caturvidhā kāyakaravākcittabhedataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 141–143)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.9]]
+>
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.9–10]]
+
 *Lead-in:* इह पुनर्मोक्षाख्यमुख्यार्थप्रतिपादनपरत्वादस्य ग्रन्थस्य काम्यमेव कर्म न उक्तमिति तदुपयोगिना अपि मुद्रावर्णनेन कोऽर्थः ?--इत्याह--
 
 > तच्च नास्माभिरुदितं तत्किं तदुपयोगिना ।

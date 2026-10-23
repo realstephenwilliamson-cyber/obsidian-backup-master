@@ -31,6 +31,9 @@ bhoktaryekātmabhāvena śiṣya itthaṃ śivībhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 357–358)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.4–6]]
+
 > ततो नैवेद्यमेव प्राग्गृहीत्वा हस्तगोचरे ॥
 > गुरुरन्नमयीं शक्तिं वृंहिकां वीर्यरूपिणीम् ।
 > ध्यात्वा तया समाविष्टं तं साध्यं चिन्तयेत्सुधीः ॥

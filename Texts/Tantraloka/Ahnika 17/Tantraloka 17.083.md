@@ -34,6 +34,9 @@ mūlādudayagatyā tu śivenduparisaṃplutam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 174–175)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.83–85]]
+
 *Lead-in:* न च एतदस्मदुपज्ञमेव--इत्याह--
 
 Jayaratha comments on this verse together with 17.84: see [[Tantraloka 17.084#Viveka|17.84]].

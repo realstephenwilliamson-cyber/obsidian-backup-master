@@ -31,6 +31,9 @@ iti nirvacanaguṇasthityupacāradṛśā vibodha evoktaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 70–72)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.102–104]]
+
 > श्रीवीरावलिहृदये सप्त स्थानानि शक्तिकमलयुगम् ॥
 > सुरपथचतुष्पथाख्यश्मशानमेकान्तशून्यवृक्षौ च ।
 > इति निर्वचनगुणस्थित्युपचारदृशा विबोध एवोक्तः ॥

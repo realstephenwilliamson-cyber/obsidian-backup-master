@@ -31,6 +31,11 @@ anyasmai taddvayādanyatarasmai tatsamarpyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 422–423)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 27.55–56.*
+>
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.55–56]]
+
 *Lead-in:* इत्याद्युक्त्या तत्तदभीष्टसिद्धिपर्यन्तं पुत्रकादीनां लिङ्गादिसमाश्रयणमुक्तम्, अनन्तरं पुनरेभिः किं कार्यम् ?-- इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 27.55: see [[Tantraloka 27.055#Viveka|27.55]].

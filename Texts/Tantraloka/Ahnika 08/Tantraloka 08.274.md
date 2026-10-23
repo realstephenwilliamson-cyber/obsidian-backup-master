@@ -37,6 +37,11 @@ yāvantaḥ kṣetrajñāḥ sahajāgantukamalopadigdhacitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 279–280)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.273–274]]
+>
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.274–275]]
+
 *Lead-in:* नन्वेवमभिधानानामत्र प्रवृत्तौ किं निमित्तम् ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 8.273: see [[Tantraloka 08.273#Viveka|8.273]].

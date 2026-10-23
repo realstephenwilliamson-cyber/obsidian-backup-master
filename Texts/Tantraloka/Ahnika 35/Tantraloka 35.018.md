@@ -31,6 +31,9 @@ tatprasiddhyaiva nādhyakṣānnānumānādasambhavāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 200–201)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.18]]
+
 *Lead-in:* ननु अविदितान्वयव्यतिरेकादेर्बालस्य अस्तु प्रसिद्धिमात्रनिबन्धनत्वम्, विवेकिनस्तु कथमेवं स्यात्?--इत्याशङ्क्य आह--
 
 > बाल्यापायेऽपि यद्भोक्तुमन्नमेष प्रवर्तते ।

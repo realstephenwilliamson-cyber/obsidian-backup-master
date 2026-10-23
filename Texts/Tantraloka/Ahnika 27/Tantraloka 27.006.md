@@ -31,6 +31,9 @@ uktaṃ jñānottarāyāṃ ca tadetatparameśinā |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 403–404)
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.6–8]]
+
 *Lead-in:* न च एतद्युक्तिमात्रशरणमेव--इत्याह--
 
 Jayaratha comments on this verse together with 27.8: see [[Tantraloka 27.008#Viveka|27.8]].

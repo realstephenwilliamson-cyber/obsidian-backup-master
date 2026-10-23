@@ -31,6 +31,9 @@ atītānāgatārabdhapāśatrayaviyojikā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 29)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.31–32]]
+
 > समयाचारपाशं तु निर्बीजायां विशोधयेत् ।
 > दीक्षामात्रेण मुक्तिः स्याद्भक्त्या देवे गुरौ सदा ॥
 > सद्योनिर्वाणदा सेयं निर्बीजा येति भण्यते ।

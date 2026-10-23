@@ -33,6 +33,11 @@ iti svakāryaprasave sahakāritvamāśrayan || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 96–97)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.100–101]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.101–102]]
+
 *Lead-in:* अतश्च नास्य स्वसंपत्तावुपादानं सहकारि वा कारणं मलः, किन्तु कार्यकरणे हस्तावलम्बनप्रायः -- इत्याह --
 
 > इति स्वकार्यप्रसवे सहकारित्वमाश्रयन् ॥

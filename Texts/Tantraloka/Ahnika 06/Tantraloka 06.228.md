@@ -37,6 +37,11 @@ tathā tathā parāmarśaśakticakreśvaraḥ prabhuḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 434–436)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.227–228]]
+>
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.228–229]]
+
 *Lead-in:* न चैतदागमेनैव सिद्धं यावद्युक्तितोऽपि -- इत्याह --
 
 > तथा तथा परामर्शशक्तिचक्रेश्वरः प्रभुः ॥

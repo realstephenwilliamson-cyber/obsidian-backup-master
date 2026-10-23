@@ -31,6 +31,9 @@ svabhyastajñāninaṃ yogasiddhaṃ sa gurumāśrayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 334)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.338]]
+
 *Lead-in:* एवं भोगमोक्षाद्यभिवाञ्छतावश्यमुत्कृष्ट एव गुरुराश्रयणीयो येनास्य तत्सिद्धिरयत्नमेव स्यात् -- इत्याह -
 
 > यस्तु भोगं च मोक्षं च वाञ्छेद्विज्ञानमेव च ।

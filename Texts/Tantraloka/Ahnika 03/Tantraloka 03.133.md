@@ -37,6 +37,11 @@ atra prakāśamātraṃ yatsthite dhāmatraye sati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 238–240)
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.131–133]]
+>
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.133–134]]
+
 *Lead-in:* एवमप्यत्र परस्य प्रकाशस्य न स्वस्वरूपात् प्रच्यावः, इति विन्दुरूपत्वमुक्तम् -- इत्याह --
 
 > अत्र प्रकाशमात्रं यत्स्थिते धामत्रये सति ॥

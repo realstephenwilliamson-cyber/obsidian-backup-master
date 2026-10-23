@@ -36,6 +36,11 @@ anye tu prāgudakpaścāddaśadikṣu catuṣṭayīm || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 381)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 26.33–34.*
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.33–34]]
+
 > तत्र प्रभाते संबुध्य स्वेष्टां प्राग्देवतां स्मरेत् ॥
 > कृतावश्यककर्तव्यः शुद्धो भूत्वा ततो गृहम् ।
 > आश्रित्योत्तरदिग्वक्त्रः स्थानदेहान्तरत्रये ॥

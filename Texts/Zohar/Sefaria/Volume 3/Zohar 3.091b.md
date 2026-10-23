@@ -68,6 +68,6 @@ Pritzker translation (Matt): [[Zohar 8.04 - Parashat Emor#^z3-91b|Parashat Emor,
 **Emor 36:175** Just as a woman then has to count seven days, so now God bade the Israelites count days for purity. They were to count “for themselves”, so as to be purified with supernal holy waters, and then to be attached to the King and to receive the Torah. The woman had to count seven days, the people seven weeks. Why seven weeks? That they might be worthy to be cleansed by the waters of that stream which is called “living waters,” and from which issue seven Sabbaths. ^emor-36-175
 
 [^1]: v. T. B. Abodah Zara, 2b.
-[^2]: v. T. B. Hagigah, 13a.
+[^2]: v. T. B. [[Chagigah 13#13a|Hagigah, 13a]].
 [^3]: The last line of the Hebrew text is not found in our translation.
 [^4]: Only the last 3 lines of the Hebrew text appear in our translation.

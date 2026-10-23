@@ -35,6 +35,9 @@ ahameva sthito bhūtabhāvatattvapurairiti || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 90)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.102]]
+
 *Lead-in:* ननु कोऽर्थस्तथाबोधेन? -- इत्याशङ्क्याह --
 
 > चित्तचित्रपुरोद्याने क्रीडेदेवं हि वेत्ति यः ।

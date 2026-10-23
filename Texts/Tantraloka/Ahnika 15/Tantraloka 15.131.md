@@ -31,5 +31,8 @@ mālinī mālitā rudrairdhārikā siddhimokṣayoḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 87–89)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.130–133]]
+
 Jayaratha comments on this verse together with 15.132: see [[Tantraloka 15.132#Viveka|15.132]].
 

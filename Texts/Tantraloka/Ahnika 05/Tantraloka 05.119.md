@@ -35,6 +35,9 @@ avyakte viśrāmyati nānuttaradhāmagā tviyaṃ carcā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 159–160)
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.119]]
+
 *Lead-in:* नन्वनेन किमुक्तम् ? -- इत्याशङ्क्याह --
 
 > तेनात्मलिङ्गमेतत् परमे शिवशक्त्यणुस्वभावमये ।

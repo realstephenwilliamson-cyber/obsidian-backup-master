@@ -32,6 +32,9 @@ dīpe jape tathā home sarvatraivātra caṇḍikā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 242)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.391–393]]
+
 *Lead-in:* तदेव पठति--
 
 Jayaratha comments on this verse together with 15.393: see [[Tantraloka 15.393#Viveka|15.393]].

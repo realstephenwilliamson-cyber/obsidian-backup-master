@@ -34,6 +34,11 @@ tato'khilādhvasaddevīcakragarbhāṃ parāparām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 252–253)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.405–406]]
+>
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.406–407]]
+
 *Lead-in:* ननु अन्येऽपि वक्त्राभिघारादयः संस्कारविशेषा अवशिष्यन्ते इति किमिह ते न उक्ताः?--इत्याशङ्क्य तत्पूर्णतासंपत्त्यर्थमाह--
 
 > ततोऽखिलाध्वसद्देवीचक्रगर्भां परापराम् ॥

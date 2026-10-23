@@ -31,5 +31,8 @@ tasmāddīkṣāṃ sa labhate sadya eva śivapradām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 264)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.224–226]]
+
 Jayaratha comments on this verse together with 13.226: see [[Tantraloka 13.226#Viveka|13.226]].
 

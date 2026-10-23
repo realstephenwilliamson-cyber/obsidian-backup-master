@@ -33,6 +33,11 @@ vaśamāyānti śākinyaḥ sthānametena ceddahet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 55–56)
+> ![[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#Viveka on 30.96–97]]
+>
+> ![[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#Viveka on 30.96–98]]
+
 *Lead-in:* वेदकलः--चतुष्कलः । मातृतारः--
 
 > फ्रेङ्कारः ।

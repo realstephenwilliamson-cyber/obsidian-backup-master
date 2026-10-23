@@ -34,6 +34,9 @@ aśuddhājjalataḥ śuddhyeddhareti vyarthatā bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 321–322)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.223–225]]
+
 > पृथिवी जलतः शुद्ध्येज्जलं धरणितस्तथा ॥
 > अन्योन्याश्रयता सेयमशुद्धत्वेऽप्ययं क्रमः ।
 > अशुद्धाज्जलतः शुद्ध्येद्धरेति व्यर्थता भवेत् ॥

@@ -33,6 +33,11 @@ mahāsarge punaḥ sṛṣṭisaṃhārānantyaśālini || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 346–347)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.2–3]]
+>
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.3–4]]
+
 *Lead-in:* अन्यत्र पुनरस्य नियतिस्पर्शो नास्ति -- इत्याह --
 
 > महासर्गे पुनः सृष्टिसंहारानन्त्यशालिनि ॥

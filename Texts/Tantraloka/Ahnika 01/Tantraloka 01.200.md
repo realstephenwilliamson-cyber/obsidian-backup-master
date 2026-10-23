@@ -36,6 +36,11 @@ dharmiṇaṃ pūrṇadharmaughamabhedenādhiśerate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 378–379)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.198–200]]
+>
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.200]]
+
 > अत एवाविकल्पत्वध्रैव्यप्राभववैभवैः ।
 > अन्यैर्वा शक्तिरूपत्वाद्धर्मैः स्वसमवायिभिः ॥
 > सर्वशोऽप्यथ वांशेन तं विभं परमेश्वरम् ।

@@ -36,6 +36,13 @@ nāgā lokeśamūrtīśā gaṇeśā jalatattvataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 288–291)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.69]]
+>
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.69–72]]
+>
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.69–72 (continued)]]
+
 *Lead-in:* न केवलमत्राभिजित एवोदयो यावदश्विन्यादीनामपि -- इत्याह --
 
 > नक्षत्राणां तदन्येषामुदयो मध्यतः क्रमात् ।

@@ -35,6 +35,9 @@ dvidhā padānītyuktvākhyannyāsamanyādṛśaṃ vibhuḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 101)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.232–233]]
+
 > निष्कले पदमेकार्णं यावत्त्रीणि तु पार्थिवे ।
 > इत्यादिना तत्त्वगतक्रमन्यास उदीरितः ॥
 > पुनश्च मालिनीतन्त्रे वर्गविद्याविभेदतः ।

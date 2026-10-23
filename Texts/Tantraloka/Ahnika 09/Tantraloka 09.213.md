@@ -31,6 +31,9 @@ viśeṣabhāge kartṛtvaṃ carcitaṃ bhoktṛpūrvakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 202–203)
+> ![[Tantraloka Dyczkowski v06 07 - Chapter Nine, part 5#Viveka on 9.213]]
+
 *Lead-in:* एतदेवोपसंहरति -
 
 > एवं कलाख्यतत्त्वस्य किंचित्कर्तृत्वलक्षणे ।

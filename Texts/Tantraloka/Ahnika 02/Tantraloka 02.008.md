@@ -36,6 +36,11 @@ sa hi tasmātsamudbhūtaḥ pratyuta pravibhāvyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 16)
+> ![[Tantraloka Dyczkowski v02 02 - Chapter Two, part 1#Viveka on 2.8]]
+>
+> ![[Tantraloka Dyczkowski v02 02 - Chapter Two, part 1#Viveka on 2.8 (2)]]
+
 *Lead-in:* तदेवाह—
 
 > तत्र तावत्क्रियायोगो नाभ्युपायत्वमर्हति ।

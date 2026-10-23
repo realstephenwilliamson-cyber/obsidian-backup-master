@@ -313,9 +313,9 @@ Beiyt[^47] – Higher Mother[^48],
 [^40]: 28
 [^41]: what
 [^42]: 45
-[^43]: *BT* Baba Batra 12a
+[^43]: *BT* [[Bava Batra 12#12a|Baba Batra 12a]]
 [^44]: *ḥakham*
-[^45]: *BT* Baba Batra 75a
+[^45]: *BT* [[Bava Batra 75#75a|Baba Batra 75a]]
 [^46]: house
 [^47]: ב
 [^48]: Binah

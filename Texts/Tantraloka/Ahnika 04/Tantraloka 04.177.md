@@ -34,6 +34,9 @@ etāvadantasaṃvittau pramātṛtvaṃ sphuṭībhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 274–275)
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.177–178]]
+
 *Lead-in:* न केवलमस्या एते एव व्यपदेशा यावदन्येऽपि, इत्याह --
 
 > मातृसद्भावसंज्ञास्यास्तेनोक्ता यत्प्रमातृषु ।

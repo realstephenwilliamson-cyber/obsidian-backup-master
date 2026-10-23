@@ -33,6 +33,11 @@ vimalībhūtahṛdayo yattatra pratibimbayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 75–76)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.110–111]]
+>
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.111–112]]
+
 *Lead-in:* ननु देशादौ निखिलेऽपि उपकरणजाते सति अस्यैव कस्मादुत्तमत्वम्?-- इत्याशङ्क्य आह--
 
 > विमलीभूतहृदयो यत्तत्र प्रतिबिम्बयेत् ॥

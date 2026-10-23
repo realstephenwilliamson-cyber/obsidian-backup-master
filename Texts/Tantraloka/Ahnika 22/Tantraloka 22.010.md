@@ -31,6 +31,9 @@ dīkṣā bodho heyahānirupādeyalayātmatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 280–281)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.10–12]]
+
 *Lead-in:* तत्र च इयानपेक्षणीयः क्रमः--इत्याह--
 
 Jayaratha comments on this verse together with 22.11: see [[Tantraloka 22.011#Viveka|22.11]].

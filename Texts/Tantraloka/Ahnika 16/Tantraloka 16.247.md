@@ -35,6 +35,9 @@ tacchoddhṛsaṃpuṭaṃ nāma kevalaṃ parikalpayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 107–108)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.247]]
+
 > यथामलं मनो दूरस्थितमप्याशु पश्यति ।
 > तथा प्रत्ययदीक्षायां तत्तद्भुवनदर्शनम् ॥
 > जननादिवियुक्तां तु यदा दीक्षां चिकीर्षति ।

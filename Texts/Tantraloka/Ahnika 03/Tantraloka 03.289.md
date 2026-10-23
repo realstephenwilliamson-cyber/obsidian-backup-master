@@ -35,6 +35,9 @@ adhvakḷptiryāgavidhirhomajapyasamādhayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 408)
+> ![[Tantraloka Dyczkowski v02 12 - Chapter Three, part 9#Viveka on 3.289–290]]
+
 *Lead-in:* तदाह—
 
 > स्नानं व्रतं देहशुद्धिर्धारणा मन्त्रयोजना ।

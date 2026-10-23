@@ -34,6 +34,11 @@ citre deśe vāhyamāno yātīcchāmātrakalpitām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 308)
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.205–206]]
+>
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.205–206 (continued)]]
+
 *Lead-in:* ननु जप्यादीनां बहूनां कस्मान्निरूपणं कृतम्, इति प्रश्निते तदेवोत्तरीकृतम्, इति किमेतत् ? -- इत्याशङ्क्याह -
 
 Jayaratha comments on this verse together with 4.206: see [[Tantraloka 04.206#Viveka|4.206]].

@@ -36,6 +36,11 @@ aśuddhiśuddhyamānatvaśuddhitastu mitho'pi tat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 367–369)
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.188–189]]
+>
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.189]]
+
 *Lead-in:* न केवलमेतत् तत्त्वान्तरेभ्यो भिद्यते, यावदन्योन्यमपि -- इत्याह --
 
 > अशुद्धिशुद्ध्यमानत्वशुद्धितस्तु मिथोऽपि तत् ॥

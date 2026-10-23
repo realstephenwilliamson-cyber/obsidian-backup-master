@@ -35,6 +35,9 @@ madhye'nantaḥ kṣemo dvijeśavidyeśaviśvaśivāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 314–316)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.318–319]]
+
 *Lead-in:* तान्येव पठति -
 
 Jayaratha comments on this verse together with 8.319: see [[Tantraloka 08.319#Viveka|8.319]].

@@ -36,6 +36,11 @@ bādhate yo vaiparītyātsa mūḍhaḥ pāpabhāgbhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 346–347)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.249–250]]
+>
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.250]]
+
 *Lead-in:* ननु विपर्ययेणापि बाधे को दोषः ? -- इत्याशङ्क्याह --
 
 > बाधते यो वैपरीत्यात्स मूढः पापभाग्भवेत् ॥

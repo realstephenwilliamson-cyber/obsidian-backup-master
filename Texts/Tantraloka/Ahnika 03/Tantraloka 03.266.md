@@ -35,6 +35,9 @@ ekadvitricatuṣpañcaṣaṭsaptāṣṭanavottaraiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 392–393)
+> ![[Tantraloka Dyczkowski v02 12 - Chapter Three, part 9#Viveka on 3.266–267]]
+
 > आसामेव च देवीनामावापोद्वापयोगतः ।
 > एकद्वित्रिचतुष्पञ्चषट्सप्ताष्टनवोत्तरैः ॥
 > रुद्रार्कान्यकलासेनाप्रभृतिर्भेदविस्तरः ।

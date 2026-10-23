@@ -35,6 +35,9 @@ anekasadṛśākārā na tvaneketi saugataiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 128)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.55]]
+
 *Lead-in:* एतदेवार्थद्वारेण संवादयति --
 
 > उक्तं च सति बाह्येऽपि धीरेकानेकवेदनात् ।

@@ -37,6 +37,11 @@ aliases:
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 141–144)
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.105–106]]
+>
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.106–107]]
+
 *Lead-in:* तल्लश्च किमक्रमेणैव भवेदुतान्यता ? -- इत्याशङ्क्याह --
 
 > आदावनात्मन्यात्मत्वे लीने लब्धे निजात्मनि ॥

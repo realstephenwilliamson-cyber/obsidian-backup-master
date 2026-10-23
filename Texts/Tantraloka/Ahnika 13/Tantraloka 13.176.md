@@ -31,6 +31,11 @@ yogayāgajapairuktairguruṇā prātibhaṃ sphuṭet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 231)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.175–176]]
+>
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.175–176 (continued)]]
+
 > भस्मच्छन्नाग्निवत्स्फौट्यं प्रातिभे गौरवागमात् ॥
 > बीजं कालोप्तसंसिक्तं यथा वर्धेत तत्तथा ।
 > योगयागजपैरुक्तैर्गुरुणा प्रातिभं स्फुटेत् ॥

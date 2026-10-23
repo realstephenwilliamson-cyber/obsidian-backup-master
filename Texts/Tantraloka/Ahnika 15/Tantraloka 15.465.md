@@ -32,6 +32,9 @@ nirvāṇakalaśenādau tata īśvarasaṃjñinā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 287)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.464–466]]
+
 > तस्यैव भाविविधिवत्तत्त्वपाशवियोजने ।
 > पुत्रकत्वं स च परे तत्त्वे योज्यस्तु दैशिकैः ॥
 > स एव मन्त्रजातिज्ञो जपहोमादितत्त्ववित् ।

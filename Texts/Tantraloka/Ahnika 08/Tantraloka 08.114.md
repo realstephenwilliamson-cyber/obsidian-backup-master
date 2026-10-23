@@ -35,6 +35,9 @@ lokālokasya parato yadgarbhe nikhilaiva bhūḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 158–159)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.113–114]]
+
 > पञ्चत्रिंशत्कोटिसंख्या लक्षाण्येकोनविंशतिः ।
 > चत्वारिंशत्सहस्राणि ध्वान्तं लोकाचलाद्बहिः ॥
 > सप्तसागरमानस्तु गर्भोदाख्यः समुद्रराट् ।

@@ -35,5 +35,8 @@ kālagrāsasamādhānarasikamanaḥsu teṣu ca prakaṭaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 248–250)
+> ![[Tantraloka Dyczkowski v01 08 - Chapter One, part 7#Viveka on 1.96–100]]
+
 Jayaratha comments on this verse together with 1.99: see [[Tantraloka 01.099#Viveka|1.99]].
 

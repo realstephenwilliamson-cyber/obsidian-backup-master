@@ -32,9 +32,9 @@ Precisely so is it in reference to reward and punishment, as our Sages[^8] say, 
 
 [^1]: Quoted end of last chapter.
 [^2]: See above, ch. 2, note 9.
-[^3]: “…of that of *Gehinom*.” *Berachot* 57b.
+[^3]: “…of that of *Gehinom*.” [[Berakhot 57#57b|*Berachot* 57b]].
 [^4]: [[Psalms 089#^89-3|Psalms 89:3]].
 [^5]: [[Torah 26 - Shmini#^11-44|Leviticus 11:44]].
-[^6]: *Yoma* 39a.
+[^6]: [[Yoma 39#39a|*Yoma* 39a]].
 [^7]: Ch. 10.
 [^8]: *Avot* 4:2.

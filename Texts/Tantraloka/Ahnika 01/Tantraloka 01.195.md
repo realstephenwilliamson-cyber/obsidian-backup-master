@@ -34,6 +34,9 @@ etāvatī mahādevī rudraśaktiranargalā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 374–375)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.195]]
+
 *Lead-in:* ततश्च किं स्यात् ? इत्याशङ्क्याह --
 
 > यावान्षट्त्रिंशकः सोऽयं यदन्यदपि किञ्चन ।

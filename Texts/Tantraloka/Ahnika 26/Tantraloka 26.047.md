@@ -34,6 +34,9 @@ pūjitaḥ stuta ityevaṃ hṛṣṭvā devaṃ visarjayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 387–388)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.47–51]]
+
 *Lead-in:* वासनात्मकत्वमेव अत्र दर्शयति--
 
 Jayaratha comments on this verse together with 26.50: see [[Tantraloka 26.050#Viveka|26.50]].

@@ -31,6 +31,9 @@ ye punardīkṣitāstena prāṇinaḥ śivacoditāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 262–263)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.219–222]]
+
 > यः पुनः सर्वतत्त्वानि वेत्त्येतानि यथार्थतः ॥
 > स गुरुर्मत्समः प्रोक्तो मन्त्रवीर्यप्रकाशकः ।
 > दृष्टाः संभावितास्तेन स्पृष्टाश्च प्रीतचेतसा ॥

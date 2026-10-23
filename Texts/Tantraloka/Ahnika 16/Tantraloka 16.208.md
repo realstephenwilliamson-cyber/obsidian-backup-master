@@ -35,6 +35,9 @@ kathitastaṃ tathā nyasyettattattattvaviśuddhaye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 89)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.208]]
+
 *Lead-in:* तदेवाह--
 
 > द्वयोर्मातृकयोस्तत्त्वस्थित्या वर्णक्रमः पुरा ।

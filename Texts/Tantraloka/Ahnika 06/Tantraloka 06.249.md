@@ -35,6 +35,9 @@ ekonāṃ ye tu tāmāhustanmataṃ saṃpracakṣmahe || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 448)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.249]]
+
 *Lead-in:* एतदुपसंहरन्नन्यदतारयति --
 
 > इति पञ्चाशिका सेयं वर्णानां परिचर्चिता ।

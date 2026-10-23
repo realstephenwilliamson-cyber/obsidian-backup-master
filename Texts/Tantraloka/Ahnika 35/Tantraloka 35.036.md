@@ -31,6 +31,9 @@ yataḥ śivodbhavāḥ sarva iti svacchandaśāsane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 213)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.36]]
+
 *Lead-in:* न केवलमत्र एकत्वं युक्तित एव सिद्धं यावदागमतोऽपि--इत्याह--
 
 > सांख्यं योगं पाञ्चरात्रं वेदांश्चैव न निन्दयेत् ।

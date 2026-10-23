@@ -31,6 +31,9 @@ cetastadevādāya drāk so'nvayavyatirekabhāk || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 193)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.5–6]]
+
 > ननु वस्तुशताकीर्णे स्थानेऽप्यस्य यदेव हि ॥
 > पश्यतो जिघ्रतो वापि स्पृशतः संप्रसीदति ।
 > चेतस्तदेवादाय द्राक् सोऽन्वयव्यतिरेकभाक् ॥

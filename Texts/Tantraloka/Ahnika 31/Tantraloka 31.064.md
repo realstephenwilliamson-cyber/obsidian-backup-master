@@ -31,6 +31,9 @@ bhāgārdhabhāgamānaṃ tu khaṇḍacandradvayaṃ dvayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 96)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.64]]
+
 *Lead-in:* प्रथमतः पार्श्ववर्तनामाह--
 
 > ब्रह्मणः पार्श्वयोर्जीवाच्चतुर्थात् पूर्वतस्तथा ।

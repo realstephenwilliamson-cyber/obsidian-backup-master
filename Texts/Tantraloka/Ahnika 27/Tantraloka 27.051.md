@@ -31,5 +31,8 @@ tadā dine dine kuryādvibhavaistarpaṇaṃ bahu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 421–422)
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.50–52]]
+
 Jayaratha comments on this verse together with 27.52: see [[Tantraloka 27.052#Viveka|27.52]].
 

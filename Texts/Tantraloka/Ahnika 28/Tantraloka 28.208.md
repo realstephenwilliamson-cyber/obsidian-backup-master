@@ -31,6 +31,9 @@ itthaṃ sthite trayaṃ mukhyaṃ kāraṇaṃ sahakāri ca || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 94–95)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.207–209]]
+
 > तेन विज्ञानसन्तानप्राधान्याद्यौनसन्ततेः ॥
 > अन्योन्यं गुरुसन्तानो यः शिवज्ञाननिष्ठितः ।
 > इत्थं स्थिते त्रयं मुख्यं कारणं सहकारि च ॥

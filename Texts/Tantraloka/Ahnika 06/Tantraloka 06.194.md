@@ -37,6 +37,11 @@ atrāpānodaye prāgvatṣaṣṭyabdodayayojanām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 401–402)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.193–194]]
+>
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.194–195]]
+
 *Lead-in:* नन्वत्रैवं विश्रान्तिः किं प्राणवत्तुट्यादिक्रमेणैव भवेदुतान्यथापि ? इत्याशङ्क्याह --
 
 > अत्रापानोदये प्राग्वत्षष्ट्यब्दोदययोजनाम् ॥

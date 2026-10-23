@@ -33,6 +33,11 @@ tadidamalekhyaṃ bhaṇitaṃ vaktrādvaktrasthamuktayuktyā ca || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 316–317)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.124–125]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.125–126]]
+
 *Lead-in:* ननु अतः कीदृक् ज्ञानमाप्यते इत्युच्यताम्?--इत्याशङ्क्य आह--
 
 > तदिदमलेख्यं भणितं वक्त्राद्वक्त्रस्थमुक्तयुक्त्या च ॥

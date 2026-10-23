@@ -36,6 +36,11 @@ tāro varṇo'tha saṃbuddhipadaṃ tvāmityataḥ param || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 144–145)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.10–11]]
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.11–13]]
+
 *Lead-in:* एतदेवेह द्वयं दर्शयति--
 
 Jayaratha comments on this verse together with 17.10: see [[Tantraloka 17.010#Viveka|17.10]].

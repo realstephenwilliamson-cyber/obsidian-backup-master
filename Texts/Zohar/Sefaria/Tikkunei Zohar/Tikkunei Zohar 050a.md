@@ -298,7 +298,7 @@ And it is stated of the right-hand side
 [^6]: *ḥaiy*
 [^7]: *gibor*
 [^8]: *Mishnah* Avot 4:1
-[^9]: *BT* Sotah 47a
+[^9]: *BT* [[Sotah 47#47a|Sotah 47a]]
 [^10]: *yad*
 [^11]: hand
 [^12]: *mei-re-ot*
@@ -319,4 +319,4 @@ And it is stated of the right-hand side
 [^27]: great upright
 [^28]: *Torah*
 [^29]: See *Vayiqra Rabbah* 29:9
-[^30]: see *BT* Sukkah 14a
+[^30]: see *BT* [[Sukkah 14#14a|Sukkah 14a]]

@@ -39,17 +39,17 @@ At the same time we must note the Baraita[^16] there, “Our Sages taught, ‘On
 [^3]: *Tikkunei Zohar*, [[Tikkunei Zohar 017a#^17a-16|Introduction]].
 [^4]: [[Torah 45 - Vaetchanan#^6-5|Deuteronomy 6:5]].
 [^5]: Ibid. vs. 6-7,
-[^6]: “…but Torah.” Cf. *Berachot* 5b.
-[^7]: *Kiddushin* 5b; formula declaring betrothal.
+[^6]: “…but Torah.” Cf. [[Berakhot 5#5b|*Berachot* 5b]].
+[^7]: [[Kiddushin 5#5b|*Kiddushin* 5b]]; formula declaring betrothal.
 [^8]: *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-11b|I:11b]].
 [^9]: I.e., the *Shemonah Esrei* (*Amidah*), the fulfillment of the *mitzvah* of prayer.
 [^10]: [[Psalms 025#^25-1|Psalms 25:1]].
 [^11]: The Verses of Praise drawn mainly from the Psalms, which expound on G–d’s greatness as Creator, the beauty and magnitude of His works. Then in the blessings before *Shema* we recount the exalted fervor of the angels, their reverence and love of G–d. These are introductions to *Shema* and the *Shemonah Esrei* (*Amidah*) following.
 [^12]: See *Likkutei Amarim*, Part I, ch. 49.
-[^13]: *Berachot* 30b.
+[^13]: [[Berakhot 30#30b|*Berachot* 30b]].
 [^14]: Ch. 7.
 [^15]: [[I Samuel 01#^1-10|I Samuel 1:10]].
-[^16]: *Berachot* 31a.
+[^16]: [[Berakhot 31#31a|*Berachot* 31a]].
 [^17]: *Bereishit Rabbah* 22.
 [^18]: [[Psalms 090#^90-3|Psalms 90:3]].
 [^19]: [[Isaiah 44#^44-22|Isaiah 44:22]].

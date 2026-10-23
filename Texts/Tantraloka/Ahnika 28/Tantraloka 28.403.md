@@ -31,6 +31,9 @@ balavatkuryāddūṣyaṃ yadyapyagre bhaviṣyatsyāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 184–187)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.403]]
+
 > सूत्रपदवाक्यपटलग्रन्थक्रमयोजनेन सम्बन्धात् ।
 > अव्याहतपूर्वापरमुपवृह्य नयेत वाक्यानि ॥
 > मण्डूकप्लवसिंहावलोकनाद्यैर्यथायथं न्यायैः ।

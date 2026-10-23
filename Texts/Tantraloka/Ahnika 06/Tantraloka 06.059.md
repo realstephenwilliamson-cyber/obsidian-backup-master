@@ -34,6 +34,9 @@ na muktāste tadajñānabandhanaikādhivāsitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 269)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.59]]
+
 *Lead-in:* अत एवाह --
 
 > उत्पत्तिस्थितिसंहारान् ये न जानन्ति योगिनः ।

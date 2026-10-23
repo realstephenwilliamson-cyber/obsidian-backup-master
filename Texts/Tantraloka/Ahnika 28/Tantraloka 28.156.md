@@ -33,5 +33,10 @@ vidyāpīṭhe cale liṅge sthaṇḍile ca gurorgaṇe || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 76–77)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.155–156]]
+>
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.156–158]]
+
 Jayaratha comments on this verse together with 28.155: see [[Tantraloka 28.155#Viveka|28.155]].
 

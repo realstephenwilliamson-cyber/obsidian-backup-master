@@ -36,6 +36,9 @@ citaḥ svātantryasāratvāt tasyānandaghanatvataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 392)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.60–61]]
+
 *Lead-in:* ननु कथं नाम अत्र स्वल्पा भूयसी वा क्रिया विशेषमाधातुं नोत्सहते?--इत्याशङ्क्याह--
 
 > नहि ब्रह्मणि शंसन्ति बाहुल्याल्पत्वदुर्दशाः ।

@@ -88,4 +88,4 @@ Elkanah knew[^6] his wife Hannah and the LORD remembered her. ^1-19
 [^9]: Septuagint and 4QSama read “a three-year-old [cf. Gen. 15.9] bull and bread”; cf. v. 25.
 [^10]: Meaning of Heb. uncertain.
 [^11]: From the same root as that of the verb rendered “asked for” in v. 20.
-[^12]: Heb. “he”; cf. 2.11. A reading in the Talmud (Berakhot 61a) implies that Elkanah was there.
+[^12]: Heb. “he”; cf. 2.11. A reading in the Talmud ([[Berakhot 61#61a|Berakhot 61a]]) implies that Elkanah was there.

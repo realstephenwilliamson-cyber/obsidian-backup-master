@@ -31,5 +31,8 @@ kaścitsaṃpūrṇakartavyaḥ kṛtyapañcakabhāgini || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 308)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.295–300]]
+
 Jayaratha comments on this verse together with 13.299: see [[Tantraloka 13.299#Viveka|13.299]].
 

@@ -36,6 +36,11 @@ tasya śaktimataḥ sphītaśakterbhairavatejasaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 25–27)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.22–23]]
+>
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.23–24]]
+
 *Lead-in:* नन्वेतावतैव कथमेवं स्यात् ? -- इत्याशङ्क्याह --
 
 > तस्य शक्तिमतः स्फीतशक्तेर्भैरवतेजसः ॥

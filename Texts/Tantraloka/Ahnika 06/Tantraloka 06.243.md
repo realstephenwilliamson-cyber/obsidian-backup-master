@@ -37,6 +37,11 @@ tadaikye tūdayaścāraśatānāṃ saptaviṃśatiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 445–446)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.242–243]]
+>
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.243]]
+
 *Lead-in:* अहोरात्रमेलनायां पुनः प्रतिसंक्रान्तित्रयमेकैकस्य वर्गस्योदयः -- इत्याह --
 
 > तदैक्ये तूदयश्चारशतानां सप्तविंशतिः ॥

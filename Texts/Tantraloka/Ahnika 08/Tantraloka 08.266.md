@@ -35,5 +35,8 @@ yacchanti guṇebhyo'mī puruṣebhyo yogadātāraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 276)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.263–267]]
+
 Jayaratha comments on this verse together with 8.267: see [[Tantraloka 08.267#Viveka|8.267]].
 

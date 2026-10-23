@@ -34,6 +34,11 @@ tatastilairmṛgīṃ madhyānāmāṃguṣṭhavaśād guruḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 258–260)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.417–418]]
+>
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.418–420]]
+
 *Lead-in:* इति । एवमग्निगमधिवसानमभिधाय तर्पणमाह--
 
 Jayaratha comments on this verse together with 15.417: see [[Tantraloka 15.417#Viveka|15.417]].

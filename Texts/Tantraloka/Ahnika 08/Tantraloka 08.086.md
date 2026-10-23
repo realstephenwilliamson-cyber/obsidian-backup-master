@@ -34,6 +34,9 @@ tatraiva ca trikūṭe laṅkā ṣaḍamī hyupadvīpāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 134–135)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.85–86]]
+
 > कन्याद्वीपे च नवमे दक्षिणेनाब्धिमध्यगाः ।
 > उपद्वीपाः षट् कुलाद्रिसप्तकेन विभूषिते ॥
 > अङ्गयवमलयशङ्कुः कुमुदवराहौ च मलयगोऽगस्त्यः ।

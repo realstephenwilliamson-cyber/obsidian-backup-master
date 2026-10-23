@@ -31,5 +31,8 @@ dhyātvā tayā samāviṣṭaṃ taṃ sādhyaṃ cintayetsudhīḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 357–358)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.4–6]]
+
 Jayaratha comments on this verse together with 25.6: see [[Tantraloka 25.006#Viveka|25.6]].
 

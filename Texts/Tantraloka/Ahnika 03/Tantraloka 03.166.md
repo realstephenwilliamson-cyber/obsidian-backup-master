@@ -37,6 +37,11 @@ kṣobhādyantavirāmeṣu tadeva ca parāmṛtam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 280–285)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.165–166]]
+>
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.166–167]]
+
 *Lead-in:* ननु चास्य किमेवंरूपत्वं क्वचिद्विभाव्यते, न वा ? इत्याशङ्क्याह --
 
 > क्षोभाद्यन्तविरामेषु तदेव च परामृतम् ॥

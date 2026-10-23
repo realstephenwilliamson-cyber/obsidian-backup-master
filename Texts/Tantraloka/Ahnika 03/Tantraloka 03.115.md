@@ -37,6 +37,11 @@ yanna sūryo na vā somo nāgnirbhāsayate'pi ca || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 221–223)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.114–115]]
+>
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.115–116]]
+
 *Lead-in:* एतदेवार्थद्वारेण दर्शयति --
 
 Jayaratha comments on this verse together with 3.114: see [[Tantraloka 03.114#Viveka|3.114]].

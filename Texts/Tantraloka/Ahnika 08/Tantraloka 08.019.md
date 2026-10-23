@@ -36,6 +36,11 @@ tataḥ pramātṛsaṅkalpaniyamāt pārthivaṃ viduḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 68–69)
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.17–19]]
+>
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.19–20]]
+
 *Lead-in:* तदाह -
 
 > ततः प्रमातृसङ्कल्पनियमात् पार्थिवं विदुः ॥

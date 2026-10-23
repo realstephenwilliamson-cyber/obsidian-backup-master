@@ -34,6 +34,9 @@ kevalaṃ dvaitamālinyaśaṅkānirmūlanāya saḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 125)
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.104]]
+
 *Lead-in:* एवमेतत्प्रसङ्गादभिधाय प्रकृतमेवानुसरति --
 
 > तदद्वयायां संवित्तावभ्यासोऽनुपयोगवान् ।

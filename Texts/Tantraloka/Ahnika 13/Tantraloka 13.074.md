@@ -31,6 +31,9 @@ tathā karoti vaktavyaṃ kālo'sau kīdṛśastviti || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 171–172)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.74]]
+
 *Lead-in:* इदानीं सर्वतः प्रच्यावितस्य परस्य कुशकाशावलम्बनेन पक्षान्तरमाशङ्कते --
 
 > अथापि कालमाहात्म्यमपेक्ष्य परमेश्वरः ।

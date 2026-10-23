@@ -35,6 +35,9 @@ prakāśatvasvatantratvaprabhṛtiṃ dharmavistaram || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 119–120)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.45–46]]
+
 > यथा च गन्धरूपस्पृग्रसाद्याः प्रतिबिम्बिताः ।
 > तदाधारोपरागेण भान्ति खड्गे मुखादिवत् ॥
 > तथा विश्वमिदं बोधे प्रतिबिम्बितमाश्रयेत् ।

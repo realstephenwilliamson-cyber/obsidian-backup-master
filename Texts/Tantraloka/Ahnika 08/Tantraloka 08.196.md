@@ -37,5 +37,12 @@ tataḥ koṭyā vīrabhadro yugāntāgnisamaprabhaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 218–221)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 8.198–199.*
+>
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.195–196]]
+>
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.198–199]]
+
 Jayaratha comments on this verse together with 8.195: see [[Tantraloka 08.195#Viveka|8.195]].
 

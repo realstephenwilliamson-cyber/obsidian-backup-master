@@ -33,6 +33,11 @@ tamārādhyeti tu grantho mandatīvraikagocaraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 282–283)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.251–253]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.253]]
+
 *Lead-in:* नन्वेवं यियासुरित्यादिग्रन्थश्चेन्मध्यतीव्रस्य शक्तिपातस्य विषयस्तन्मन्दतीव्रस्य कः स्यात्? -- इत्याशङ्क्याह -
 
 > तमाराध्येति तु ग्रन्थो मन्दतीव्रैकगोचरः ॥

@@ -75,14 +75,14 @@ And this is the meaning of “quietness and surety forever.” השקט (*quietn
 [^15]: Par. Liturgy, concluding benediction of the *Amidah*.
 [^16]: Par. [[Isaiah 57#^57-15|Isaiah 57:15]].
 [^17]: For its own sake, as a command of G–d, without any ulterior motives. See *Likkutei Amarim*, Part I, end of ch. 5.
-[^18]: *Sanhedrin* 99b.
+[^18]: [[Sanhedrin 99#99b|*Sanhedrin* 99b]].
 [^19]: Guardian angels.
 [^20]: Shrines; realms.
 [^21]: *Zohar* [[Zohar 12.05 - Heikhalot Pequdei#^z2-245a|II:245a]] ff. (see *Nitzutzei Orot*, ad loc.).
 [^22]: [[Ecclesiastes 08#^8-9|Ecclesiastes 8:9]]; see *Etz Chaim* 49:4 (quoted in *Hadrat Melech* on *Zohar* [[Zohar 5.03 - Parashat Mishpatim#^z2-95b|II:95b]]).
-[^23]: [[Torah 06 - Toldot#^25-23|Genesis 25:23]]; see *Rashi*, ad loc. (*Pesachim* 42b, *Rashi*, ad loc., and cf. *Zohar* [[Zohar 6.06 - Parashat Pequdei#^z2-236a|II:236a]] and [[Zohar 6.06 - Parashat Pequdei#^z2-240a|240a]]).
+[^23]: [[Torah 06 - Toldot#^25-23|Genesis 25:23]]; see *Rashi*, ad loc. ([[Pesachim 42#42b|*Pesachim* 42b]], *Rashi*, ad loc., and cf. *Zohar* [[Zohar 6.06 - Parashat Pequdei#^z2-236a|II:236a]] and [[Zohar 6.06 - Parashat Pequdei#^z2-240a|240a]]).
 [^24]: *Tanchuma*, *Pekudei* 3; see *Avot d’R. Nattan*, ch. 31.
-[^25]: Cf. *Tanchuma*, *Teitzei* 11 (*Rashi* on [[Torah 16 - Beshalach#^17-16|Exodus 17:16]] and *Tosafot*, *Berachot* 3a, s.v. *Veonin*) and *Zohar* [[Zohar 4.06 - Parashat Be-Shallah#^z2-67a|II:67a]] (end of *Beshalach*).
+[^25]: Cf. *Tanchuma*, *Teitzei* 11 (*Rashi* on [[Torah 16 - Beshalach#^17-16|Exodus 17:16]] and *Tosafot*, [[Berakhot 3#3a|*Berachot* 3a]], s.v. *Veonin*) and *Zohar* [[Zohar 4.06 - Parashat Be-Shallah#^z2-67a|II:67a]] (end of *Beshalach*).
 [^26]: The forces of evil.
 [^27]: Par. [[Psalms 092#^92-10|Psalms 92:10]].
 [^28]: Par. [[Zechariah 13#^13-2|Zechariah 13:2]].
@@ -91,12 +91,12 @@ And this is the meaning of “quietness and surety forever.” השקט (*quietn
 [^31]: [[Isaiah 40#^40-5|Isaiah 40:5]].
 [^32]: [[Psalms 032#^32-6|Psalms 32:6]].
 [^33]: See the beginning of this verse, and cf. *Zohar* [[Zohar 7.08 - Parashat Aharei Mot#^z3-79b|III:79b]].
-[^34]: *Bava Batra* 10a.
+[^34]: [[Bava Batra 10#10a|*Bava Batra* 10a]].
 [^35]: Psalms 17:45.
 [^36]: See above, Epistle 8.
 [^37]: [[Proverbs 27#^27-21|Proverbs 27:21]].
 [^38]: *Ibn Ezra* renders the word as “his praising of Him.” (R. Schneur Zalman uses this interpretation in several places. See *Torah Or*, *Beshalach* 65b and 111c; *Likkutei Torah*, *Nasso* 28c; *Siddur Im Dach* 30d.)
-[^39]: *Yevamot* 79a. Cf. Jerusalem Talmud, *Kiddushin* 4:1; *Bamidbar Rabbah* 8:4; Maimonides, *Hilchot Issurei Biah* 9:17 and *Hilchot Matnot Aniyim* 10:2.
+[^39]: [[Yevamot 79#79a|*Yevamot* 79a]]. Cf. Jerusalem Talmud, *Kiddushin* 4:1; *Bamidbar Rabbah* 8:4; Maimonides, *Hilchot Issurei Biah* 9:17 and *Hilchot Matnot Aniyim* 10:2.
 [^40]: Synonymous terms; see Addendum, *Mystical Concepts in Chassidism*.
 [^41]: [[Psalms 103#^103-11|Psalms 103:11]].
 [^42]: Denoting the attribute of *gevurah*.

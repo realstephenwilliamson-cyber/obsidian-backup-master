@@ -33,6 +33,11 @@ ucyate śrīmatādiṣṭaṃ śaṃbhunātra mamottaram || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 247–248)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.263–264]]
+>
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.264–265]]
+
 *Lead-in:* ननु यद्येवं तर्हि किमत्र प्रतिसमाधानं यद्भवादृशामावर्जकम् (स्यात् ?) -- इत्याह --
 
 > उच्यते श्रीमतादिष्टं शंभुनात्र ममोत्तरम् ॥

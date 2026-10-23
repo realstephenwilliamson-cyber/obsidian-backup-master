@@ -37,6 +37,11 @@ atra viśvamidaṃ līnamatrāntaḥsthaṃ ca gamyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 150–154)
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.112–113]]
+>
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.113–114]]
+
 *Lead-in:* नन्वेवं व्यपदेशस्य किं निमित्तम् ? -- इत्याशङ्क्याह --
 
 > अत्र विश्वमिदं लीनमत्रान्तःस्थं च गम्यते ॥

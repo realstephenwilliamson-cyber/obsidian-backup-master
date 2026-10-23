@@ -33,6 +33,13 @@ itthaṃ śrīśambhunāthena mamoktaṃ śāstramelanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 217–218)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.43–44]]
+>
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.44]]
+>
+> ![[Tantraloka Dyczkowski v11 10 - Chapter Thirty-Six#Viveka on 35.44 (continued)]]
+
 *Lead-in:* एतदेव गुरूपदेशप्रदर्शनपुरःसरमर्धेन उपसंहरति--
 
 > इत्थं श्रीशम्भुनाथेन ममोक्तं शास्त्रमेलनम् ॥

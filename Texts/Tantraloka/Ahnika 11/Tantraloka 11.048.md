@@ -34,6 +34,9 @@ varṇādhvā mātṛbhāge syāt pūrvaṃ yā kathitā pramā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 46–47)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.48–49]]
+
 *Lead-in:* एवं स्थूलसूक्ष्मभेदेन पदमन्त्राध्वस्वरूपम् निरूप्य परत्वेन वर्णाध्वानमपि निरूपयति -
 
 > औदासीन्यपरित्यागे प्रक्षोभानवरोहणे ।

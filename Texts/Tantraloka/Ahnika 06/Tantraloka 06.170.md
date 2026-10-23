@@ -35,6 +35,9 @@ bhūmūlanaiśaśaktisthāstadevāṇḍacatuṣṭayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 385–387)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.170]]
+
 *Lead-in:* एवमत्र सृष्टिप्रलयानामानन्त्येऽपि गौणमुख्यभावं दर्शयितुमाह - -
 
 > चत्वार एते प्रलया मुख्याः सर्गाश्च तत्कलाः ।

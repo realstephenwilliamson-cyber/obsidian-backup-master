@@ -33,6 +33,11 @@ tatrāsya prakaṭībhāve bhuktimuktyātmake bhṛśam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 91–92)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.199–200]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.200–201]]
+
 *Lead-in:* ननु अस्य पुनः स्वत एव चेद्भैरवीभावो भवेत् तत्कृतमनया प्रक्रान्तया दर्शनव्यवस्थया; मलपरिपाकादिश्च हेतुर्न न्यायय इत्युक्तम्, तत्कतरस्तावदत्र समुचित उपाय इति न जानीमः ?-- इत्याशङ्क्य आह--
 
 > तत्रास्य प्रकटीभावे भुक्तिमुक्त्यात्मके भृशम् ॥

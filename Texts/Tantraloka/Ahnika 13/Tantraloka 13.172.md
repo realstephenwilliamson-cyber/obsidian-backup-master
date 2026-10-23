@@ -31,6 +31,9 @@ kathaṃ vivekaḥ kiṃ vāsya devadeva vivicyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 229–230)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.170–172]]
+
 > केवलस्य ध्रुवं मुक्तिः परतत्त्वेन सा ननु ।
 > नृशक्तिशिवमुक्तं हि तत्त्वत्रयमिदं त्वया ॥
 > ना बध्यो बन्धने शक्तिः करणं कर्तृतां स्पृशत् ।

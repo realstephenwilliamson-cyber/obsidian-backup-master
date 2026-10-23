@@ -31,6 +31,9 @@ yadyatsamācaredvīraḥ kulayāgaḥ sa sa smṛtaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 205)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.6]]
+
 *Lead-in:* तथा पश्यतस्तस्य यागोऽपि तादृश एवेति किमर्थमुक्तम् ?-- इत्याशङ्क्य आह--
 
 > तादृग्रूपनिरूढ्यर्थं मनोवाक्कायवर्त्मना ।

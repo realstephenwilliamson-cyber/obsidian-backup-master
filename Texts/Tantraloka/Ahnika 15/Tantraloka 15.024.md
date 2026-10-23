@@ -31,5 +31,8 @@ dvidhā mumukṣurnirbījaḥ samayādivivarjitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 19–22)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.23–26]]
+
 Jayaratha comments on this verse together with 15.26: see [[Tantraloka 15.026#Viveka|15.26]].
 

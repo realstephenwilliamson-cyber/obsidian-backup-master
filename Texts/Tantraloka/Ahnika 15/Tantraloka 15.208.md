@@ -31,6 +31,9 @@ prakāśatvāddiśyamānamato'smindikcatuṣṭayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 128–129)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.208]]
+
 *Lead-in:* ननु विरोधिनोः प्रकाशाप्रकाशयोरेकनिषेधे तदितरविधेर्नान्तरीयकत्वात् कोऽवकाशो दिक्चतुष्टयस्य?-- इत्याशङ्क्य आह--
 
 > मध्ये तु यत्प्रकाशं तन्न प्रकाश्यं न चेतरत् ।

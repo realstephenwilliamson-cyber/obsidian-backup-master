@@ -34,6 +34,9 @@ na tvasya spṛśyabhinnasya vedyaikāntasvarūpiṇaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 81–86)
+> ![[Tantraloka Dyczkowski v02 04 - Chapter Three, part 1#Viveka on 3.15]]
+
 *Lead-in:* सशरीरेणाधिष्ठानेन च विबम्बवदेवास्य प्रतिपत्तिः स्यान्न त्वन्यथा -- इत्याह --
 
 > स्वमुखे स्पर्शवच्चेतद्रूपं भायान्ममेत्यलम् ।

@@ -35,6 +35,9 @@ tadeva svoṣmaṇā svātmasvātantryapreraṇātmanā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 278–280)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.162–165]]
+
 > इच्छा या कर्मणा हीना या चैष्टव्येन रूषिता ॥
 > शीघ्रस्थैर्यप्रभिन्नेन त्रिधा भावमुपागता ।
 > अनुन्मिषितमुन्मीलत्प्रोन्मीलितमिति स्थितम् ॥

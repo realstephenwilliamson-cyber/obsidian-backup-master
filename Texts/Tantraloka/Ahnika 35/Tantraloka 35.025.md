@@ -31,6 +31,9 @@ citropāyopadeśo'pi na virodhāvaho bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 204)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.25]]
+
 *Lead-in:* ननु एवमेककर्तृकत्वे अस्य विचित्रोऽयमुपदेशः किं न परस्परस्य विरुध्येत् ?--इत्याशङ्क्य आह--
 
 > तस्मिन्विषयवैविक्त्याद्विचित्रफलदायिनि ।

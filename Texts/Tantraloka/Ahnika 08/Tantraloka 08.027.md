@@ -34,6 +34,9 @@ lakṣamatra khavedāsyasaṃkhyānāmantarā sthitiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 81–85)
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.24–28]]
+
 > दश कोट्यो विभोर्ज्वाला तदर्धं शून्यमूर्ध्वतः ॥
 > तदूर्ध्वे नरकाधीशाः क्रमाद् दुःखैकवेदनाः ।
 > अधो मध्ये तदूर्ध्वे च स्थिता भेदान्तरैर्वृताः ॥

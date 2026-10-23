@@ -31,6 +31,9 @@ sadāśivībhūya tataḥ paraṃ śivamupāśritāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 184)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.311]]
+
 *Lead-in:* ननु सर्व एव शुद्धविद्यादशामधिशयानो न अधरं पदमासादयतीति सर्वत्र उक्तं, तत् कथमसावेव प्रेतः?-- इत्याशङ्क्य आह--
 
 > विद्याविद्येशिनः सर्वे ह्युत्तरोत्तरतां गताः ।

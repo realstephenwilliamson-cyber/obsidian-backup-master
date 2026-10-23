@@ -678,7 +678,7 @@ A World of Love ti AAT
 
 *[PDF 236]* ^pg236
 
-Cf. Sanhedrin 39b, Rashi ad loc. “Oder.” 
+Cf. [[Sanhedrin 39#39b|Sanhedrin 39b]], Rashi ad loc. “Oder.” 
 
 [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-10b|Zohar 1:10b]], 1:230b, 2:166b, Sefer HaBris 2:1:3. Also see Emunos VeDeyos, 1:4 end, 3:0, Or HaShem (Crescas) 2:6:2, Sefer HaYashar \*1, Pardes Rimonim 2:6, Etz Chaim, Shaar HaKelallim #1, Reshis Chochmah, Shaar HaTshuvah \*1, Shnei Luchos HaBris, Bais Yisroel (Jerusalem, 5720) 1:21b, Shomrei Emunim (HaKadmon) 2:3, Derech HaShem 1:2.1, Likutey Moharan \*64. 
 
@@ -692,7 +692,7 @@ Moreh Nevuchim 3:25.
 
 Berachos 60a. 
 
-Rabbi Moshe Chaim Luzzatto, KaLaCh Pischey Chochmah \*2. . Yoma 38a. 
+Rabbi Moshe Chaim Luzzatto, KaLaCh Pischey Chochmah \*2. . [[Yoma 38#38a|Yoma 38a]]. 
 
 . See Avos 6:11. 
 
@@ -730,7 +730,7 @@ Yerushalmi Berachos 6:1 (41b). Cf. Targum ad loc.
 
 28\. Reshis Chochmah, introduction. Cf. Rabenu Yonah on [[Proverbs 02#^2-5|Proverbs 2:5]]. 
 
-29\. Shabbos 31b. 
+29\. [[Shabbat 31#31b|Shabbos 31b]]. 
 
 30\. Berachos 6b. 
 
@@ -738,7 +738,7 @@ Yerushalmi Berachos 6:1 (41b). Cf. Targum ad loc.
 
 32\. Avos 4:16. 
 
-Kiddushin 39b, Chulin 142a. 
+[[Kiddushin 39#39b|Kiddushin 39b]], [[Chullin 142#142a|Chulin 142a]]. 
 
 Avos 4:17. 
 
@@ -755,7 +755,7 @@ Benrchos 17a, Yul, Pshuvah 8:3, Toras HaAdam, Shaar HaG'mul (Jerusalem, 5723) p.
 
 39\. Midrash, quoted in Shaar HaG'mul, p. 296. See also [[Zohar 5.05 - Parashat Terumah#^z2-166a|Zohar 2:166a]], Likutey Moharan 275, Sichos HaRan 134. 
 
-40\. Bereshis Rabbah 12:5, Chagigah 12a. 
+40\. Bereshis Rabbah 12:5, [[Chagigah 12#12a|Chagigah 12a]]. 
 
 41\. Ibid., Bereishis Rabbah 3:6; Rashi on [[Torah 01 - Bereshit#^1-4|Genesis 1:4]]. 
 
@@ -769,7 +769,7 @@ VaYikra Rabbah 20:7, [[Zohar 2.05 - Parashat Toledot#^z1-135a|Zohar 1:135a]].
 
 45\. Emunos VeDeyos 9:5, Ibn Ezra ad loc., VaYikra Rabbah 30:2. 
 
-46\. Berachos 34b, Sanhedrin 99a, Rashi, Metzudos ad loc., Yad, Tshtuvah 8:7. 
+46\. Berachos 34b, [[Sanhedrin 99#99a|Sanhedrin 99a]], Rashi, Metzudos ad loc., Yad, Tshtuvah 8:7. 
 
 47\. Sanhedrin 4:5 (37a). 
 
@@ -787,7 +787,7 @@ beginning of introduction; Nishmas Chaim 2:9, Nefesh HaChaim 1:15, Likutey Amara
 
 53\. For the question whether or not there is intelligent life on other worlds, see my article, “On Extraterrestrial Life,” in INTERCOM 14:1, December 1972. 
 
-54\. Kesubos 5a. 
+54\. [[Ketubot 5#5a|Kesubos 5a]]. 
 
 55\. See Rambam on Sanhedrin 10:1, Ikkarim 4:33. 
 
@@ -795,9 +795,9 @@ beginning of introduction; Nishmas Chaim 2:9, Nefesh HaChaim 1:15, Likutey Amara
 
 Ibn Ezra ad loc., Emunos VeDeyos 1:4 end, 3:0. 
 
-57\. Kiddushin 31a. 
+57\. [[Kiddushin 31#31a|Kiddushin 31a]]. 
 
-58\. Shabbos 10b. 
+58\. [[Shabbat 10#10b|Shabbos 10b]]. 
 
 59\. Bereshis Rabbah 1:1, Rashi on [[Torah 01 - Bereshit#^1-1|Genesis 1:1]]. 
 
@@ -807,11 +807,11 @@ Ibn Ezra ad loc., Emunos VeDeyos 1:4 end, 3:0.
 
 (Pieterkov, 5671) p. 16b. 
 
-62\. Avodah Zarah 3a. 
+62\. [[Avodah Zarah 3#3a|Avodah Zarah 3a]]. 
 
 63\. Berachos 8a. See Nishmas Adam loc. cit. 
 
-64\. Baba Metzia 59a, Shaarey Tshuvah (Rabenu Yonah) 4 1A 65. Ikkarim 4:33, Nishmas Chaim 1:13. See Shaw HaCrmul po 280, 
+64\. [[Bava Metzia 59#59a|Baba Metzia 59a]], Shaarey Tshuvah (Rabenu Yonah) 4 1A 65. Ikkarim 4:33, Nishmas Chaim 1:13. See Shaw HaCrmul po 280, 
 
 See my article, “Immortality and the Soul,” th INTERCOM 14:2, May 66. 
 
@@ -845,7 +845,7 @@ Avos DeRabbi Nathan 31:1.
 
 Yad, Tshuvah 5:1, Moreh Nevuchim 3:17, Emunos VeDeyos 4:4 (64b), cf. 12. 
 
-Pirkey DeRabbi Eliezer 15 (35a), Menachos 29b. 
+Pirkey DeRabbi Eliezer 15 (35a), [[Menachot 29#29b|Menachos 29b]]. 
 
 73\. 
 
@@ -853,13 +853,13 @@ Yad, Tshuvah 5:4.
 
 74, Zohar 1:23a, Emunos VeDeyos 3:0, Reshis Chochmah 3:1 (101b). 
 
-75\. Sotah 14a. 
+75\. [[Sotah 14#14a|Sotah 14a]]. 
 
 76\. See Amud HaAvodah, Hakdamah Gedolah \*31; Rabbi Yitzchok Ashlag, Hakdama LeSefer HaZohar (in Sulam) \*9, idem., Talmud Eser Sefiros, Histaklus Penimis, part 1, 1:4 (p. 15). 
 
 Tanchuma, Kedoshim 5, according to Reshis Chochmah 2:3 (59d). 77. 
 
-78\. Menachos 53b. 
+78\. [[Menachot 53#53b|Menachos 53b]]. 
 
 Yad, Tshuvah 5:1. 
 
@@ -869,7 +869,7 @@ Yad, Tshuvah 5:1.
 
 81\. Ikkarim 2:11, Akedas Yitzchak 4 (36b), Shiur Kumah 18. Cf. Berachos 32a, Bereshis Rabbah 13:14. 
 
-82\. Kiddushin 30a. 
+82\. [[Kiddushin 30#30a|Kiddushin 30a]]. 
 
 83\. Derech Mitzvosecha (Chabad) “Aroyos” p. 29b f. 
 
@@ -881,9 +881,9 @@ Yad, Tshuvah 5:1.
 
 VaYikra Rabbah 4:6. 
 
-87\. Sotah 14a, Yad, Deyos 1:8. See above, note 75. 
+87\. [[Sotah 14#14a|Sotah 14a]], Yad, Deyos 1:8. See above, note 75. 
 
-88\. Shabbos 153b. 
+88\. [[Shabbat 153#153b|Shabbos 153b]]. 
 
 89\. Ibid. 31a. 
 
@@ -893,7 +893,7 @@ VaYikra Rabbah 4:6.
 
 92\. Amud HaAvodah 136d. 
 
-93\. Nedarim 64b. Cf. Tikuney Zohar 22 (66b). 
+93\. [[Nedarim 64#64b|Nedarim 64b]]. Cf. Tikuney Zohar 22 (66b). 
 
 94\. Berachos 18b. 
 
@@ -905,7 +905,7 @@ VaYikra Rabbah 4:6.
 
 98\. 
 
-Chulin 60b. 
+[[Chullin 60#60b|Chulin 60b]]. 
 
 99\. [[Zohar 7.06 - Parashat Tazri'a#^z3-47b|Zohar 3:47b]]. 
 
@@ -919,7 +919,7 @@ Chulin 60b.
 
 104\. Tana DeBei Eliahu Zuta 12 (17a). 
 
-105\. lana DeBei Eliahu Rabbah 16 (78a). Cf. Menachos 29b. 
+105\. lana DeBei Eliahu Rabbah 16 (78a). Cf. [[Menachot 29#29b|Menachos 29b]]. 
 
 106\. Kusart 5:20 (48b), Ramban on [[Torah 04 - Vayera#^22-1|Genesis 22:1]], [[Torah 04 - Vayera#^22-12|22:12]], [[Torah 16 - Beshalach#^16-4|Exodus 16:4]], 
 
@@ -937,11 +937,11 @@ Sefer HaYashar \*1.
 
 108\. 
 
-109\. Eruvin 13b, according to Avodas HaKodesh 2:22, Ikkarim 4:29, Cf. 
+109\. [[Eruvin 13#13b|Eruvin 13b]], according to Avodas HaKodesh 2:22, Ikkarim 4:29, Cf. 
 
 Yaaros Devash 1:14, Bachya on [[Torah 01 - Bereshit#^6-6|Genesis 6:6]]. 
 
-110\. Sanhedrin 24b. 
+110\. [[Sanhedrin 24#24b|Sanhedrin 24b]]. 
 
 111\. Ibn Ezra ad loc. Cf. [[Zohar 4.07 - Parashat Yitro#^z2-89b|Zohar 2:89b]]. 
 
@@ -959,7 +959,7 @@ See Moreh Nevuchim, introduction to part 2, \*16; Amud HaAvodah, 115.
 
 Vikuach Shoel CU'Meshiv \*99. 
 
-Cf. Shabbos 89a, Bereshis Rabbah 48:11. 
+Cf. [[Shabbat 89#89a|Shabbos 89a]], Bereshis Rabbah 48:11. 
 
 116\. 
 

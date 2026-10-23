@@ -33,6 +33,13 @@ ityeṣa śāstrārthasyokta ekīkāro gurūditaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 183–184)
+> ![[Tantraloka Dyczkowski v11 07 - Chapter Thirty-Three#Viveka on 33.32]]
+>
+> ![[Tantraloka Dyczkowski v11 07 - Chapter Thirty-Three#Viveka on 33.32 (2)]]
+>
+> ![[Tantraloka Dyczkowski v11 08 - Chapter Thirty-Four#Viveka on 33.32 (continued)]]
+
 *Lead-in:* अत्र च विश्रान्त्या किं स्यात्?--इत्याशङ्क्य आह--
 
 > तथास्य विश्वमाभाति स्वात्मतन्मयतां गतम् ।

@@ -45,17 +45,17 @@ The internal aspect of Shabbat is the *kavanah* (intention) in the Shabbat praye
 The state of “Observe” in the inwardness (of Shabbat) is refraining from speech about material affairs, as G–d ceased from the Ten Utterances[^15] through which physical heaven and earth were created. For one is opposite the other….[^16]
 
 [^1]: [[Torah 30 - Kedoshim#^19-17|Leviticus 19:17]].
-[^2]: *Bava Metzia* 31a.
+[^2]: [[Bava Metzia 31#31a|*Bava Metzia* 31a]].
 [^3]: [[Torah 21 - Ki Tisa#^32-18|Exodus 32:18]].
-[^4]: *Taanit* 2a.
+[^4]: [[Taanit 2#2a|*Taanit* 2a]].
 [^5]: An exclamation of anguish. These two words appeared in the original manuscript written by Rabbi Schneur Zalman.
 [^6]: [[Torah 15 - Bo#^10-7|Exodus 10:7]].
 [^7]: Cf. [[Job 11#^11-6|Job 11:6]].
 [^8]: Liturgy, Shabbat *Amidah*.
 [^9]: [[Psalms 031#^31-25|Psalms 31:25]].
 [^10]: See *Iggeret Hateshuvah*, ch. 2 and 3.
-[^11]: *Shabbat* 118b.
-[^12]: *Shabbat* 12a. The term is used there in reference to the admonition to examine one’s clothing regularly on Shabbat to ensure against unwittingly carrying.
+[^11]: [[Shabbat 118#118b|*Shabbat* 118b]].
+[^12]: [[Shabbat 12#12a|*Shabbat* 12a]]. The term is used there in reference to the admonition to examine one’s clothing regularly on Shabbat to ensure against unwittingly carrying.
 [^13]: [[Torah 17 - Yitro#^20-10|Exodus 20:10]]; [[Torah 45 - Vaetchanan#^5-14|Deuteronomy 5:14]].
 [^14]: “Remember” appears in the Exodus text of the Ten Commandments, and “Observe” in the Deuteronomy text, in the Shabbat commandment.
 [^15]: *Avot* 5:1; see *Likkutei Amarim*, Part II, ch. 11 and *Iggeret Hateshuvah*, ch. 4 ff.

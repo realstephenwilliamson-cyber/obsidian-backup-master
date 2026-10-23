@@ -31,6 +31,9 @@ iyaṃ sā tatra tatroktā sarvakāmadughā yataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 420–421)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.204]]
+
 *Lead-in:* न चैतदस्मदुपज्ञमेव -- इत्याह --
 
 > ग्राह्यग्राहकसंवित्तौ संबन्धे सावधानता ।

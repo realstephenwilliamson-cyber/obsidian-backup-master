@@ -31,5 +31,8 @@ yogyatāvaśato yatra vāsanā yasya tatra saḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 3–4)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.2–4]]
+
 Jayaratha comments on this verse together with 15.4: see [[Tantraloka 15.004#Viveka|15.4]].
 

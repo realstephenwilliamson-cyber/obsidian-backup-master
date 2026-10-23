@@ -31,6 +31,9 @@ kajaṃ madhye tadardhena śūlaśṛṅgāṇi tāni tu |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 93–94)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.59]]
+
 *Lead-in:* एतदेव आह--
 
 > कजं मध्ये तदर्धेन शूलशृङ्गाणि तानि तु ।

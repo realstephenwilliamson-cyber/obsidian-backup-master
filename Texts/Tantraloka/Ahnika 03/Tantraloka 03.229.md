@@ -34,6 +34,9 @@ taddhi vīryaṃ paraṃ śuddhaṃ visisṛkṣātmakaṃ matam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 351–354)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.229]]
+
 *Lead-in:* "शब्दादयोऽस्यैव स्फारः"इत्यत्र किं प्रमाणम् ? इत्याशङ्क्याह --
 
 > शब्दोऽपि मधुरो यस्माद्वीर्योपचयकारकः ।

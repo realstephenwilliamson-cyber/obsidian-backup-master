@@ -34,6 +34,9 @@ prathamānaṃ vicitrābhirbhaṃgībhiriha bhidyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 308–309)
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.142]]
+
 *Lead-in:* तदेव बहुप्रकारत्वं दर्शयति --
 
 > तच्च साक्षादुपायेन तदुपायादिनापि च ।

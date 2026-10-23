@@ -31,6 +31,9 @@ aprāptaniścayāmarśaiḥ suptamattopamānakaiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 125)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.287–288]]
+
 *Lead-in:* न च एतदस्मदुपज्ञमेवेत्याह--
 
 > इतीत्यादि । तच्छिद्रेष्विति, सूत्रत इति ।

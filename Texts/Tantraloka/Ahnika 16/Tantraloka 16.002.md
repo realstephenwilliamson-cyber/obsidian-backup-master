@@ -36,6 +36,11 @@ sāmudāyikayāge'tha tathānyatra yathoditam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 1–2)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.1–2]]
+>
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.2–4]]
+
 > यदा तु समयस्थस्य पुत्रकत्वे नियोजनम् ।
 > गुरुकत्वे साधकत्वे वा कर्तुमिच्छति दैशिकः ॥
 > तदाधिवासं कृत्वाह्नि द्वितीये मण्डलं लिखेत् ।

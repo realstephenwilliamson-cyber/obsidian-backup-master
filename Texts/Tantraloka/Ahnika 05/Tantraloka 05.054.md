@@ -36,6 +36,13 @@ prāṇadaṇḍaprayogena pūrvāparasamīkṛteḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 55–62)
+> *No commentary follows this verse directly; shown here is the next, after Dyczkowski's verse 54cd-56ab.*
+>
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.53–54]]
+>
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on Dyczkowski's verse 54cd-56ab]]
+
 *Lead-in:* तदेवाह --
 
 Jayaratha comments on this verse together with 5.53: see [[Tantraloka 05.053#Viveka|5.53]].

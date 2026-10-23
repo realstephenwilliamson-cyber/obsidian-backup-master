@@ -31,6 +31,9 @@ kalā bhedābhisaṃdhānādaviyuktaṃ parasparam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 204)
+> ![[Tantraloka Dyczkowski v06 07 - Chapter Nine, part 5#Viveka on 9.215]]
+
 *Lead-in:* ननु भोक्तृभोग्ययोः परस्परसापेक्षत्वात् कथं नाम क्रमेणोत्पत्तिः सङ्गच्छताम्; नहि भोग्यं विना भोक्तृत्वमेव किञ्चिद् भवेत्, भोक्तृत्वं विनापि भोग्यमिति तत् कथं भोक्तृत्वं प्रसूय भोग्यं कला सूते इत्युक्तम् ? -- इत्याशङ्क्याह --
 
 > सममेव हि भोग्यं च भोक्तारं च प्रसूयते ।

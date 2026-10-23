@@ -34,6 +34,11 @@ pañcaikabhedāccādhvānastathaivāṇḍacatuṣṭayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 76–78)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 16.175.*
+>
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.175]]
+
 *Lead-in:* शोध्यभेदमेवाह--
 
 Jayaratha comments on this verse together with 16.175: see [[Tantraloka 16.175#Viveka|16.175]].

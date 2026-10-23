@@ -33,6 +33,11 @@ svotthā api diśaḥ sveśāḥ śakrādyā hyadhiśerate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 134–135)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.220–221]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.221–222]]
+
 *Lead-in:* न केवलमेतत्परमेश्वर एव अधितिष्ठति, यावत् तच्छक्त्यंशरूपः शक्रादिर्लोकपालवर्गोऽपि--इत्याह--
 
 > स्वोत्था अपि दिशः स्वेशाः शक्राद्या ह्यधिशेरते ॥

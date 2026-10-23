@@ -31,6 +31,9 @@ kulāṣṭakakṛtaṃ pūrvaṃ proktaṃ śrīyogasañcare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 9–10)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.10–14]]
+
 *Lead-in:* तदेवं सति प्राधान्यात् प्रथमं तावत् पर्वभेदानाह--
 
 Jayaratha comments on this verse together with 28.17: see [[Tantraloka 28.017#Viveka|28.17]].

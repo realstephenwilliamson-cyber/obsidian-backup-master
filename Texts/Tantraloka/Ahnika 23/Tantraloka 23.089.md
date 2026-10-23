@@ -33,6 +33,11 @@ yatastadapriyaṃ naiṣa śṛṇuyāditi bhāṣitam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 334–335)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 23.89.*
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.89]]
+
 *Lead-in:* न च एतदस्मच्छास्त्र एवोक्तम्--इत्याह--
 
 > श्रीमातङ्गे तदुक्तं च नाधीतं भूमभीतितः ॥

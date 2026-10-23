@@ -31,6 +31,9 @@ vyāpinī viśvahetutvāt sūkṣmā kāryaikakalpanāt |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 131–134)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.151–152]]
+
 > सा जडा भेदरूपत्वात् कार्यं चास्या जडं यतः ॥
 > व्यापिनी विश्वहेतुत्वात् सूक्ष्मा कार्यैककल्पनात् ।
 > शिवशक्त्यविनाभावान्नित्यैका मूलकारणम् ॥

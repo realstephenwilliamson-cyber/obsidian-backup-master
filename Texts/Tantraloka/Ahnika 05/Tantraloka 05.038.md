@@ -34,6 +34,9 @@ asaṃkhyārasahasraṃ vā cakraṃ dhyāyedananyadhīḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 36–37)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.37–38]]
+
 > एवं त्रिशूलात् प्रभृति चतुष्पञ्चारकक्रमात् ।
 > पञ्चाशदरपर्यन्तं चक्रं योगी विभावयेत् ॥
 > चतुष्षष्टिशतारं वा सहस्रारमथापि वा ।

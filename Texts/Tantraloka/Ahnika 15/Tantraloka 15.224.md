@@ -31,6 +31,9 @@ adṛṣṭavigraho'nanto brahmordhve vṛṃhako vibhuḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 135–136)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.222–225]]
+
 > प्रकाशस्य यदैश्वर्यं स इन्द्रो यत्तु तन्महः ॥
 > सोऽग्निर्यन्तृत्वभीमत्वे यमो रक्षस्तदूनिमा ।
 > प्रकाश्यं वरुणस्तच्च चाञ्चल्याद्वायुरुच्यते ॥

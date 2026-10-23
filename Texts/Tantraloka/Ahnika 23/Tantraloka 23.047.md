@@ -33,6 +33,11 @@ nanu tadvastvayogyasya tatrecchā jāyate kutaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 318–319)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.46–47]]
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.47–48]]
+
 *Lead-in:* ननु एवं जिज्ञासान्यथानुपपत्त्या नूनमस्य पारमेश्वरमधिष्ठानमस्ति, तदेव च योग्यत्वमुच्यते इति किमन्येन योग्यत्वायोग्यत्वपरीक्षणेन ?--इत्याशङ्कते--
 
 > ननु तद्वस्त्वयोग्यस्य तत्रेच्छा जायते कुतः ॥

@@ -37,6 +37,11 @@ brāhmī nāma parasyaiva śaktistāṃ yatra pātayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 390)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.176–177]]
+>
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.177–178]]
+
 *Lead-in:* नन्वेवमप्येषां ब्रह्मादिशब्दप्रवृत्तौ किं निमित्तम् ? -- इत्याशङ्क्याह --
 
 > ब्रह्मी नाम परस्येव शक्तिस्तां यत्र पातयेत् ॥

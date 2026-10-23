@@ -33,6 +33,11 @@ jāgradādyāstu sambhāvyāstisro'syāḥ prāgdaśā yataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 471–473)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.275–276]]
+>
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.276–277]]
+
 *Lead-in:* ननु यद्येवं तर्हि तुर्यजाग्रदाद्यपि किं संभवेन्न वा ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 10.275: see [[Tantraloka 10.275#Viveka|10.275]].

@@ -35,6 +35,13 @@ uktaṃ bhavadbhirevetthaṃ jaḍaḥ kartā nahi svayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 81–82)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.78–79]]
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.79]]
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.79–80]]
+
 *Lead-in:* मद्यवत्, इति चेत्, तदपि नेह समानम् -- इत्याह --
 
 > .......ण वाच्यं च मद्यावृतिनिदर्शनम् ।

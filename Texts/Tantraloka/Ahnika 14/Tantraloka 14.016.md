@@ -31,6 +31,9 @@ duḥkhasyāpi vibhedo'sti ciraśaighryakṛtastathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 353)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.16]]
+
 *Lead-in:* ननु पारमेश्वरमिच्छामात्रमेव चेदत्र निमित्तं तत्कुतस्त्यमिदमेषां दुःखवैचित्र्यम्? -- इत्याशङ्क्याह --
 
 > तत्रापि चेच्छावैचित्र्यादिहामुत्रोभयात्मकः ।

@@ -33,6 +33,11 @@ pratyutātisvatantrātmaviparītasvadharmatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 162–163)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.272–273]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.273–274]]
+
 *Lead-in:* ननु अस्य मा भूदेवं परामर्शः प्रत्युत विपरीतपरामर्शयोगोऽस्ति- -इत्याह--
 
 > प्रत्युतातिस्वतन्त्रात्मविपरीतस्वधर्मताम् ॥

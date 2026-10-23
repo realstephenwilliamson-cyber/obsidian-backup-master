@@ -34,6 +34,9 @@ svaḥpretatiryaṅnirayāṃstadaivaiṣa vimuñcati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 264)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.28]]
+
 *Lead-in:* ननु मृतः स्वर्निरयादौ स्वकर्मवशेन तां तां गतिमापद्यते इति कथमसावाकृष्यते ?--इत्याशङ्क्याह--
 
 > महाजालसमाकृष्टो जीवो विज्ञानशालिना ।

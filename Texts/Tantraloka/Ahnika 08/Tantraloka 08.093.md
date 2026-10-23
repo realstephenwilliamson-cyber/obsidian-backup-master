@@ -34,6 +34,9 @@ syāt saptadaśadhā khaṇḍairnavabhistu samāsataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 140)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.93]]
+
 *Lead-in:* एतदेव उपसंहरति --
 
 > एवं मेरोरधो जम्बूरभितो यः स विस्तरात् ।

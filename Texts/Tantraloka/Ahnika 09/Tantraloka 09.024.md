@@ -34,6 +34,9 @@ tattasya kāraṇaṃ brūmaḥ sati rūpānvaye'dhike || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 33–34)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.23–24]]
+
 > यथा हि घटसाहित्यं पटस्याप्यवभासते ।
 > तथा घटानन्तरता किं तु सा नियमोज्झिता ॥
 > अतो यन्नियमेनैव यस्मादाभात्यनन्तरम् ।

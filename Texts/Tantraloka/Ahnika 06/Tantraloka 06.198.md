@@ -37,6 +37,11 @@ sa eva nāḍītritaye vāmadakṣiṇamadhyage || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 405–410)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.197–198]]
+>
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.198–199]]
+
 *Lead-in:* एवमस्य सर्वत्र साम्येनावस्थानेऽपि मुख्यया वृत्त्या नाडीत्रय एव चारः -- इत्याह --
 
 > स एव नाडीत्रितये वामदक्षिणमध्यगे ॥

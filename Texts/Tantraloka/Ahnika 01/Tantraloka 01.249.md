@@ -37,6 +37,11 @@ kiṃ tvanunmudritākāraṃ vastvevābhidadhātyayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 423–424)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.249]]
+>
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.249 (2)]]
+
 *Lead-in:* तदाह—
 
 > किमित्येतस्य शब्दस्य नाधिकोऽर्थः प्रकाशते ।

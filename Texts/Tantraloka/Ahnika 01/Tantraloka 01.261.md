@@ -35,6 +35,9 @@ bhūyo bhūyaḥ samuddeśalakṣaṇātmaparīkṣaṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 438)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.261]]
+
 *Lead-in:* ननु तत्त्वावबोधसारत्वस्य अविशेषात्, परीक्षापि लक्षणेनैव निर्णयवत् कथं न संगृहीता ? इत्याशङ्क्याह --
 
 > निर्णीततावद्धर्मांशपृष्टपातितया पुनः ।

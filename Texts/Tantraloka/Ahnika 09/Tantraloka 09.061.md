@@ -31,6 +31,9 @@ saṃvibhaktumaghoreśaḥ sṛjatīha sitetaram || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 63–65)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.61]]
+
 *Lead-in:* ननु यद्येवं तदशुद्धेऽध्वनि कः कर्ता ? -- इत्याशङ्क्याह --
 
 > ईश्वरेच्छावशक्षुब्धभोगलोलिकचिद्गणान् ।

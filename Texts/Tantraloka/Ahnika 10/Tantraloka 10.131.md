@@ -33,6 +33,11 @@ ityāśayena saṃpaśyanviśeṣaṃ sakalādiha || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 377–378)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.130–131]]
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.131–132]]
+
 *Lead-in:* तदाह -
 
 > इत्याशयेन संपश्यन्विशेषं सकलादिह ॥

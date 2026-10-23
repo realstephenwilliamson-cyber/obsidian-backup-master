@@ -36,6 +36,11 @@ uktaṃ ca triśirastantre svādhārasthaṃ yathāsthitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 51–54)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.109–110]]
+>
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.110–112]]
+
 *Lead-in:* नन्वस्तु एवं त्रिविधं मानम्, ललाटाद्यन्तं त्रेधावस्थानमस्येति कुतस्त्यम् ?--इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 16.109: see [[Tantraloka 16.109#Viveka|16.109]].

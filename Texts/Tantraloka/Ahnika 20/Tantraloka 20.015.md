@@ -34,6 +34,9 @@ karmāṇi tatrāśeṣāṇi pūrvoktānyācared guruḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 239–242)
+> ![[Tantraloka Dyczkowski v09 11 - Chapter Twenty#Viveka on 20.14–15]]
+
 *Lead-in:* ननु यथोक्तप्रक्रियामात्रेणैव किमेवं सप्रत्यया दीक्षा सिद्ध्येन्न वा?--इत्याशङ्क्याह--
 
 > कर्माणि तत्राशेषाणि पूर्वोक्तान्याचरेद् गुरुः ॥

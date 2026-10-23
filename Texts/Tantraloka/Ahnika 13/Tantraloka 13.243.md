@@ -31,6 +31,9 @@ mandamadhye tu tatraiva tattve kvāpi niyojitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 276–277)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.242–244]]
+
 > मध्यमध्ये शक्तिपाते शिवलाभोत्सुकोऽपि सन् ॥
 > बुभुक्षुर्यत्र युक्तस्तद्भुक्त्वा देहक्षये शिवः ।
 > मन्दमध्ये तु तत्रैव तत्त्वे क्वापि नियोजितः ॥

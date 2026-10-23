@@ -33,6 +33,11 @@ na caitenātmanāṃ yogo hetumāṃstadasaṃbhavāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 152–154)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.48]]
+>
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.48 (2)]]
+
 *Lead-in:* नन्वेतज्ज्ञानाभावमात्ररूपत्वान्न किञ्चिदिति किमनेन तुच्छेन कृत्यम्? - - इत्याशङ्क्याह --
 
 > न वाऽवस्त्वर्थकारित्वान्न चित्तत्संवृतित्वतः ।

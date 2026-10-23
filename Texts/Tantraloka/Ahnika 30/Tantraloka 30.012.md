@@ -33,5 +33,10 @@ bindunādādikā vyāptiḥ śrīmattraiśirase mate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 9–11)
+> ![[Tantraloka Dyczkowski v11 02 - Chapter Thirty, part 1#Viveka on 30.11–12]]
+>
+> ![[Tantraloka Dyczkowski v11 02 - Chapter Thirty, part 1#Viveka on 30.12–14]]
+
 Jayaratha comments on this verse together with 30.11: see [[Tantraloka 30.011#Viveka|30.11]].
 

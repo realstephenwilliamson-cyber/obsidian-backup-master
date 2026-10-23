@@ -34,6 +34,9 @@ navāṅgulāmbudhituṭau praharāste'bdhayo dinam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 274–277)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.64–66]]
+
 > तुटिः सपादाङ्गुलयुक्प्राणस्ताः षोडशोच्छ्वसन् ।
 > निःश्वसंश्चात्र चषकः सपञ्चांशेऽङ्गुलेऽङ्गुले ॥
 > श्वासप्रश्वासयोर्नाली प्रोक्ताहोरात्र उच्यते ।

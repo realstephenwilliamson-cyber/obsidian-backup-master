@@ -35,6 +35,9 @@ mayā svasaṃvitsattarkapatiśāstratrikakramāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 263–266)
+> ![[Tantraloka Dyczkowski v01 08 - Chapter One, part 7#Viveka on 1.106]]
+
 > इति यज्ज्ञेयसतत्त्वं दर्श्यते तच्छिवाज्ञया ।
 > मया स्वसंवित्सत्तर्कपतिशास्त्रत्रिकक्रमात् ॥
 

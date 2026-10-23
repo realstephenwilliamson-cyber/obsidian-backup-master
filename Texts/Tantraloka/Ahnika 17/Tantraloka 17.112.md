@@ -34,6 +34,9 @@ nigṛhītāni bandhāya vimuktāni vimuktaye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 188)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.112]]
+
 *Lead-in:* तदेव शब्दार्थाभ्यां पठति--
 
 > बन्धमोक्षावुभावेताविन्द्रियाणि जगुर्बुधाः ।

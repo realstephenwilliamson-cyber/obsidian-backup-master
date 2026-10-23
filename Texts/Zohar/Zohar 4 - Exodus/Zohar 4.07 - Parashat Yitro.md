@@ -1093,13 +1093,13 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     The verse in Numbers describes the priestly blessing, traditionally recited with hands spread. It reads in full: *They shall set My name upon the Children of Israel, and I Myself will bless them*. According to the simple sense of the verse, the closing word, *them*, refers to the Israelites, but midrashically it is applied to the blessing priests, who are themselves blessed.
 
-    See *Sifrei*, Numbers 39, 43; BT *Sotah* 38b, *Ḥullin* 49a; *Bemidbar Rabbah* 11:8; *Zohar* [[Zohar 3.05 - Parashat Mi-Qets#^z1-199b|1:199b]]; Moses de León, *Sefer ha-Rimmon*, 255.
+    See *Sifrei*, Numbers 39, 43; BT [[Sotah 38#38b|*Sotah* 38b]], [[Chullin 49#49a|*Ḥullin* 49a]]; *Bemidbar Rabbah* 11:8; *Zohar* [[Zohar 3.05 - Parashat Mi-Qets#^z1-199b|1:199b]]; Moses de León, *Sefer ha-Rimmon*, 255.
 
 [^6]: **248 curses…** Inflicting all 248 limbs of his body. On the concept of “248 limbs” (more precisely, joints or bones covered with flesh and sinews), see M *Oholot* 1:8. The verse in Psalms concludes: *He took no delight in blessing, and it is far from him*.
 
 [^7]: **empty place…** If one’s hands are raised in vain and emptiness, demonic powers fill the void.
 
-    On the incompatibility of blessing and an empty place, see BT *Sanhedrin* 92a: “Rabbi El’azar said, ‘Whoever does not leave bread on his table \[when reciting the Grace after Meals\] will never see a sign of blessing.’” See Naḥmanides on [[Torah 19 - Terumah#^25-24|Exodus 25:24]]; *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-88a|1:88a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-240a|240a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-250a|250a]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-63b|2:63b]], [[Zohar 4.07 - Parashat Yitro#^z2-87b|87b–88a]], [[Zohar 5.05 - Parashat Terumah#^z2-153b|153b]], [[Zohar 5.05 - Parashat Terumah#^z2-155a|155a]], [[Zohar 5.05 - Parashat Terumah#^z2-157b|157b]]; [[Zohar 7.04 - Parashat Tsav#^z3-34a|3:34a]]; Moses de León, *Sefer ha-Rimmon*, 270.
+    On the incompatibility of blessing and an empty place, see BT [[Sanhedrin 92#92a|*Sanhedrin* 92a]]: “Rabbi El’azar said, ‘Whoever does not leave bread on his table \[when reciting the Grace after Meals\] will never see a sign of blessing.’” See Naḥmanides on [[Torah 19 - Terumah#^25-24|Exodus 25:24]]; *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-88a|1:88a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-240a|240a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-250a|250a]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-63b|2:63b]], [[Zohar 4.07 - Parashat Yitro#^z2-87b|87b–88a]], [[Zohar 5.05 - Parashat Terumah#^z2-153b|153b]], [[Zohar 5.05 - Parashat Terumah#^z2-155a|155a]], [[Zohar 5.05 - Parashat Terumah#^z2-157b|157b]]; [[Zohar 7.04 - Parashat Tsav#^z3-34a|3:34a]]; Moses de León, *Sefer ha-Rimmon*, 270.
 
     “We translate: ‘in prayer’” refers to *Targum Onqelos* on the verse in Genesis: “I raise my hand in prayer before *YHVH*.” See *Zohar* [[Zohar 1.08 - Parashat Noah#^z1-65a|1:65a]]; [[Zohar 4.03 - Parashat Shemot#^z2-9a|2:9a]], [[Zohar 4.07 - Parashat Yitro#^z2-70a|70a]] (*RR*), [[Zohar 12.05 - Heikhalot Pequdei#^z2-268b|268b]]; [[Zohar 9.10 - Commentary on Balaq, continued#^z3-195b|3:195b]], [[Zohar 9.11 - Parashat Pinehas#^z3-258b|258b]], [[Zohar 9.14 - Parashat Ha'azinu#^z3-287a|287a]].
 
@@ -1125,13 +1125,13 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^12]: **King below… Beneath Him is Priest…** *Shekhinah*, also known as *Malkhut* (Kingdom), is the King below, reigning over all the lower worlds. Beneath this king is the archangel Michael on the right, serving as High Priest and offering the souls of the righteous.
 
-    On Michael as High Priest, see *Zohar* 2:159a; Margaliot, *Mal’akhei Elyon*, 114–16. Cf. BT *Ḥagigah* 12b. On his offering the souls of the righteous, see *Araqim*, in *Otsar Midrashim*, ed. Eisenstein, 1:70a (cf. *Otsar Midrashim*, 1:104a; *Beit ha-Midrash*, 5:63); *Tosafot* on *Menaḥot* 110a, s.v. *u-Mikhael; Zohar* 1:80a (*ST*), 81a (*ST*); 2:247a (*Heikh*); *ZḤ* [[Zohar 10.04 - Parashat Noah#^zh-21a|21a]] (*MhN*), [[Zohar 10.05 - Parashat Lekh Lekha#^zh-24b|24b]] (*MhN*); Moses de León, *Seder Gan Eden*, 137. Cf. *Bemidbar Rabbah* 12:11.
+    On Michael as High Priest, see *Zohar* 2:159a; Margaliot, *Mal’akhei Elyon*, 114–16. Cf. BT [[Chagigah 12#12b|*Ḥagigah* 12b]]. On his offering the souls of the righteous, see *Araqim*, in *Otsar Midrashim*, ed. Eisenstein, 1:70a (cf. *Otsar Midrashim*, 1:104a; *Beit ha-Midrash*, 5:63); *Tosafot* on [[Menachot 110#110a|*Menaḥot* 110a]], s.v. *u-Mikhael; Zohar* 1:80a (*ST*), 81a (*ST*); 2:247a (*Heikh*); *ZḤ* [[Zohar 10.04 - Parashat Noah#^zh-21a|21a]] (*MhN*), [[Zohar 10.05 - Parashat Lekh Lekha#^zh-24b|24b]] (*MhN*); Moses de León, *Seder Gan Eden*, 137. Cf. *Bemidbar Rabbah* 12:11.
 
 [^13]: **Other Side…king…** In the demonic realm, Satan is the *old and foolish king*.
 
     The verse in Ecclesiastes reads: *Better a poor and wise child than an old and foolish king*. According to a midrashic interpretation, *an old and foolish king* refers to the aged evil impulse, who seeks to dominate human beings from the time they are born. The good impulse, in contrast, is a recent arrival—*a poor and wise child*—who enters the human being only at age thirteen. Here, Satan plays the role of king.
 
-    See *Avot de-Rabbi Natan* B, 16; *Qohelet Rabbah* on 4:13; *Midrash Tehillim* 9:5; *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-78a|1:78a]]–b (*ST*), [[Zohar 10.06 - Parashat Va-Yera#^z1-110b|110b]] (*MhN*), [[Zohar 3.04 - Parashat Va-Yeshev#^z1-179a|179a–b]]; [[Zohar 4.05 - Parashat Bo#^z2-33b|2:33b]]. On the link between foolishness and sin, see [[Torah 36 - Beha'alotcha#^12-11|Numbers 12:11]]; BT *Sotah* 3a. On the identification of Satan with the evil impulse, see BT *Bava Batra* 16a, in the name of Resh Lakish: “Satan, the evil impulse, and the Angel of Death are one and the same.”
+    See *Avot de-Rabbi Natan* B, 16; *Qohelet Rabbah* on 4:13; *Midrash Tehillim* 9:5; *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-78a|1:78a]]–b (*ST*), [[Zohar 10.06 - Parashat Va-Yera#^z1-110b|110b]] (*MhN*), [[Zohar 3.04 - Parashat Va-Yeshev#^z1-179a|179a–b]]; [[Zohar 4.05 - Parashat Bo#^z2-33b|2:33b]]. On the link between foolishness and sin, see [[Torah 36 - Beha'alotcha#^12-11|Numbers 12:11]]; BT [[Sotah 3#3a|*Sotah* 3a]]. On the identification of Satan with the evil impulse, see BT [[Bava Batra 16#16a|*Bava Batra* 16a]], in the name of Resh Lakish: “Satan, the evil impulse, and the Angel of Death are one and the same.”
 
 [^14]: ***priest of* און (*On*), *On*…** Beneath Satan serves another demonic power known as *priest of On*. In [[Torah 10 - Miketz#^41-45|Genesis 41:45]], this title designates Joseph’s Egyptian father-in-law. Here, the foreign priest represents a demonic figure.
 
@@ -1143,7 +1143,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     Rabbi El’azar links Jethro the priest with the demonic power known as *priest of On* (see above, note 14). Similarly, when Rachel saw that she was about to die in childbirth, she named her baby boy אוני‎ בן (*Ben oni*), *Ben-oni*, “son of my vigor \[or: sorrow\],” understood here as alluding to the demonic realm of death, associated with On. Jacob quickly countered by naming him ימין‎ בן (*Ben yamin*), *Benjamin*, “son of the right,” the side of life.
 
-    The full verse in Genesis reads: *As her soul was departing—for she was dying—she named him Ben-oni, but his father called him Benjamin*. See *Zohar* [[Zohar 3.03 - Parashat Va-Yishlah#^z1-175a|1:175a]]. On Jethro as an advisor to Pharaoh, see BT *Sotah* 11a; *Shemot Rabbah* 1:9; 27:3, 6. On his being an idolatrous priest, see [[Torah 13 - Shemot#^3-1|Exodus 3:1]]; *Shemot Rabbah* 1:32; *Tanḥuma, Shemot* 11; *Zohar* [[Zohar 4.03 - Parashat Shemot#^z2-13b|2:13b]], [[Zohar 4.07 - Parashat Yitro#^z2-68a|68a]], [[Zohar 4.07 - Parashat Yitro#^z2-69a|69a]]; [[Zohar 8.08 - Parashat Naso#^z3-122a|3:122a]], [[Zohar 9.10 - Commentary on Balaq, continued#^z3-196b|196b–197a]].
+    The full verse in Genesis reads: *As her soul was departing—for she was dying—she named him Ben-oni, but his father called him Benjamin*. See *Zohar* [[Zohar 3.03 - Parashat Va-Yishlah#^z1-175a|1:175a]]. On Jethro as an advisor to Pharaoh, see BT [[Sotah 11#11a|*Sotah* 11a]]; *Shemot Rabbah* 1:9; 27:3, 6. On his being an idolatrous priest, see [[Torah 13 - Shemot#^3-1|Exodus 3:1]]; *Shemot Rabbah* 1:32; *Tanḥuma, Shemot* 11; *Zohar* [[Zohar 4.03 - Parashat Shemot#^z2-13b|2:13b]], [[Zohar 4.07 - Parashat Yitro#^z2-68a|68a]], [[Zohar 4.07 - Parashat Yitro#^z2-69a|69a]]; [[Zohar 8.08 - Parashat Naso#^z3-122a|3:122a]], [[Zohar 9.10 - Commentary on Balaq, continued#^z3-196b|196b–197a]].
 
 [^17]: **until the blessed Holy One ascended… Torah was not given…** Until God was completely glorified by the submission and acknowledgment of Pharaoh and Jethro, He did not give the Torah at Mount Sinai (as recounted in [[Torah 17 - Yitro#^19-1|Exodus 19]]–20).
 
@@ -1153,7 +1153,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     None of these sources provides an opening name. *OY* and Mantua read simply: “He opened, saying…” Galante assumes that Rabbi El’azar is the speaker. I have adopted the emendation proposed by Elijah ben Solomon, the Vilna Gaon (*Yahel Or*): “Rabbi Shim’on opened.” See *MmD*; below, at note 23. Cf. above, note 1.
 
-[^19]: **King David rose…** Traditionally, David is the author of Psalms. See BT *Berakhot* 3b: “Rabbi Shim’on the Ḥasid said, ‘There was a harp suspended above \[King\] David’s bed. As soon as midnight arrived, a north wind came and blew upon it, and it played by itself. He immediately arose and engaged in Torah until the break of dawn.’”
+[^19]: **King David rose…** Traditionally, David is the author of Psalms. See BT [[Berakhot 3#3b|*Berakhot* 3b]]: “Rabbi Shim’on the Ḥasid said, ‘There was a harp suspended above \[King\] David’s bed. As soon as midnight arrived, a north wind came and blew upon it, and it played by itself. He immediately arose and engaged in Torah until the break of dawn.’”
 
     See [[Psalms 119#^119-62|Psalms 119:62]]; *Zohar* [[Zohar 7.03 - Parashat Va-Yiqra#^z3-11a|3:11a]]. On the kabbalistic ritual of rising at midnight to study Torah, see above, p. 99, n. 106.
 
@@ -1193,17 +1193,17 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     On Rabbi Shim’on’s influence enduring until the Messiah, see *Pesiqta de-Rav Kahana* 11:15: “Rabbi Shim’on son of Yoḥai used to say, ‘Let Abraham bring near \[to God, thereby saving from judgment\] those from his generation until mine, and I will bring near those from my generation until King Messiah comes.’”
 
-    See *Bereshit Rabbah* 35:2; JT *Berakhot* 9:2, 13d; BT *Sukkah* 45b; *Zohar* [[Zohar 9.03 - Parashat Shelah Lekha#^z3-159a|3:159a]], [[Zohar 9.10 - Commentary on Balaq, continued#^z3-206a|206a]], [[Zohar 9.11 - Parashat Pinehas#^z3-241b|241b]]; Liebes, *Studies in the Zohar*, 1–84. Cf. above, p. 35 and n. 156. On the verse in Isaiah, see *Zohar* [[Zohar 10.08 - Parashat Toledot#^z1-140a|1:140a]] (*MhN*); [[Zohar 7.03 - Parashat Va-Yiqra#^z3-23a|3:23a]].
+    See *Bereshit Rabbah* 35:2; JT *Berakhot* 9:2, 13d; BT [[Sukkah 45#45b|*Sukkah* 45b]]; *Zohar* [[Zohar 9.03 - Parashat Shelah Lekha#^z3-159a|3:159a]], [[Zohar 9.10 - Commentary on Balaq, continued#^z3-206a|206a]], [[Zohar 9.11 - Parashat Pinehas#^z3-241b|241b]]; Liebes, *Studies in the Zohar*, 1–84. Cf. above, p. 35 and n. 156. On the verse in Isaiah, see *Zohar* [[Zohar 10.08 - Parashat Toledot#^z1-140a|1:140a]] (*MhN*); [[Zohar 7.03 - Parashat Va-Yiqra#^z3-23a|3:23a]].
 
 [^28]: ***Jethro, priest of Midian, heard*** The full verse reads: *Jethro, priest of Midian, Moses’ father-in-law, heard all that Elohim had done for Moses and for Israel His people, that YHVH had brought Israel out of Egypt*.
 
 [^29]: **At first… *Elohim*… afterward… *YHVH*…** Rabbi Ḥiyya wonders why the verse switches from one divine name to another. He explains that *Elohim* refers to *Shekhinah*, who shared Israel’s exile in Egypt and protected them, whereas *YHVH* (the supreme Name) can signify *Binah*, through whose power they were liberated from slavery.
 
-    According to the Bible, every seventh year is a Sabbatical, during which the land must lie fallow and at the end of which all debts are remitted ([[Torah 32 - Behar#^25-1|Leviticus 25:1–24]]; [[Torah 47 - Re'eh#^15-1|Deuteronomy 15:1–3]]). After seven Sabbaticals, in the fiftieth year, comes the Jubilee, when slaves are released and land reverts to its original owner ([[Torah 32 - Behar#^25-8|Leviticus 25:8–55]]). In Kabbalah the Jubilee symbolizes *Binah*, who in general is characterized by the number fifty, based on BT *Rosh ha-Shanah* 21b, where Rav and Shemu’el teach: “Fifty gates of בינה (*binah*), understanding, were created in the world, all of which were given to Moses except for one, as is said: *You made him little less than God* ([[Psalms 008#^8-6|Psalms 8:6]]).” As Jubilee, *Binah* is the source of liberation, including the liberation from Egyptian bondage.
+    According to the Bible, every seventh year is a Sabbatical, during which the land must lie fallow and at the end of which all debts are remitted ([[Torah 32 - Behar#^25-1|Leviticus 25:1–24]]; [[Torah 47 - Re'eh#^15-1|Deuteronomy 15:1–3]]). After seven Sabbaticals, in the fiftieth year, comes the Jubilee, when slaves are released and land reverts to its original owner ([[Torah 32 - Behar#^25-8|Leviticus 25:8–55]]). In Kabbalah the Jubilee symbolizes *Binah*, who in general is characterized by the number fifty, based on BT [[Rosh Hashanah 21#21b|*Rosh ha-Shanah* 21b]], where Rav and Shemu’el teach: “Fifty gates of בינה (*binah*), understanding, were created in the world, all of which were given to Moses except for one, as is said: *You made him little less than God* ([[Psalms 008#^8-6|Psalms 8:6]]).” As Jubilee, *Binah* is the source of liberation, including the liberation from Egyptian bondage.
 
     On *Binah* and the Exodus, see above, p. 90 and n. 77, p. 192 and n. 186; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-21b|1:21b]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-46a|2:46a]], [[Zohar 4.07 - Parashat Yitro#^z2-83b|83b]], [[Zohar 4.07 - Parashat Yitro#^z2-85a|85a–b]]; [[Zohar 9.12 - Parashat Va-Ethannan#^z3-262a|3:262a]].
 
-    On the exile of *Shekhinah*, see BT *Megillah* 29a: “Rabbi Shim’on son of Yoḥai says, ‘Come and see how beloved are Israel in the sight of the blessed Holy One! Wherever they went in exile, *Shekhinah* accompanied them. When they were exiled to Egypt, *Shekhinah* was with them…. When they were exiled to Babylon, *Shekhinah* was with them…. And even when they are destined to be redeemed, *Shekhinah* will be with them.’” See above, p. 91, n. 79.
+    On the exile of *Shekhinah*, see BT [[Megillah 29#29a|*Megillah* 29a]]: “Rabbi Shim’on son of Yoḥai says, ‘Come and see how beloved are Israel in the sight of the blessed Holy One! Wherever they went in exile, *Shekhinah* accompanied them. When they were exiled to Egypt, *Shekhinah* was with them…. When they were exiled to Babylon, *Shekhinah* was with them…. And even when they are destined to be redeemed, *Shekhinah* will be with them.’” See above, p. 91, n. 79.
 
     The name יהוה (*YHVH*) is often associated with *Tif’eret*, but when it is vocalized with the vowels of אֱלֹהִים (*Elohim*), it signifies *Binah*. See *Zohar* [[Zohar 5.03 - Parashat Mishpatim#^z2-97b|2:97b]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-10b|3:10b]], [[Zohar 7.03 - Parashat Va-Yiqra#^z3-11b|11b]], [[Zohar 7.08 - Parashat Aharei Mot#^z3-65a|65a]]; Gikatilla, *Sha’arei Orah*, 83b–84b; *Nefesh David*. On the switch from *Elohim* to *YHVH*, see Ibn Ezra and Naḥmanides on the verse.
 
@@ -1227,15 +1227,15 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     On Jethro’s conversion, see *Mekhilta, Amaleq* (*Yitro*) 1–2; *Mekhilta de-Rashbi*, [[Torah 17 - Yitro#^18-27|Exodus 18:27]]; *Sifrei*, Numbers 78; *Vayiqra Rabbah* 9:6. The image of coming “under the wings of *Shekhinah”* derives from [[Ruth 2#^2-11|Ruth 2:11–12]], where Boaz says to Ruth: *I have been told of all that you did for your mother-in-law after the death of your husband, how you left your father and mother and the land of your birth and came to a people you had not known before. May YHVH reward your deed, and may you have a full recompense from YHVH, the God of Israel, under whose wings you have sought refuge*. Based on this verse, the metaphor of coming under the wings of *Shekhinah* is used in rabbinic literature to describe conversion. See *Vayiqra Rabbah* 2:9: “If a convert comes to convert, one should extend a hand to him to bring him under the wings of *Shekhinah*.”
 
-    See *Mekhilta de-Rashbi*, [[Torah 17 - Yitro#^18-6|Exodus 18:6]]; BT *Shabbat* 31a; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-13a|1:13a]]–b; [[Zohar 4.07 - Parashat Yitro#^z2-70a|2:70a]]; [[Zohar 9.04 - Rav Metivta#^z3-168a|3:168a]]; Moses de León, *Sefer ha-Rimmon*, 16, 212–13; Wijnhoven, “The *Zohar* and the Proselyte,” 123–25.
+    See *Mekhilta de-Rashbi*, [[Torah 17 - Yitro#^18-6|Exodus 18:6]]; BT [[Shabbat 31#31a|*Shabbat* 31a]]; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-13a|1:13a]]–b; [[Zohar 4.07 - Parashat Yitro#^z2-70a|2:70a]]; [[Zohar 9.04 - Rav Metivta#^z3-168a|3:168a]]; Moses de León, *Sefer ha-Rimmon*, 16, 212–13; Wijnhoven, “The *Zohar* and the Proselyte,” 123–25.
 
 [^33]: **You cannot find anything… that a person should reject…** Just as Moses did not reject or disdain the advice of Jethro. See [[Torah 17 - Yitro#^18-24|Exodus 18:24]]; below at note 46.
 
-    On the idea that all creatures fulfill a role or mission ordained by God, see JT *Berakhot* 9:2, 13c; *Bereshit Rabbah* 10:7; *Vayiqra Rabbah* 22:3; BT *Shabbat* 77b; *Qohelet Rabbah* on 5:8; *Pirqei de-Rabbi Eli’ezer* 49; *Tanḥuma, Ḥuqqat* 1; *Tanḥuma* (Buber), *Ḥuqqat* 1; *Bemidbar Rabbah* 18:22; *Shemot Rabbah* 10:1; *Zohar* [[Zohar 4.04 - Parashat Va-Era#^z2-28a|2:28a]]; [[Zohar 7.05 - Parashat Shemini#^z3-36b|3:36b]], [[Zohar 8.04 - Parashat Emor#^z3-107a|107a]]. On not despising or disparaging anyone, see M *Avot* 4:3; *Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-164a|1:164a]].
+    On the idea that all creatures fulfill a role or mission ordained by God, see JT *Berakhot* 9:2, 13c; *Bereshit Rabbah* 10:7; *Vayiqra Rabbah* 22:3; BT [[Shabbat 77#77b|*Shabbat* 77b]]; *Qohelet Rabbah* on 5:8; *Pirqei de-Rabbi Eli’ezer* 49; *Tanḥuma, Ḥuqqat* 1; *Tanḥuma* (Buber), *Ḥuqqat* 1; *Bemidbar Rabbah* 18:22; *Shemot Rabbah* 10:1; *Zohar* [[Zohar 4.04 - Parashat Va-Era#^z2-28a|2:28a]]; [[Zohar 7.05 - Parashat Shemini#^z3-36b|3:36b]], [[Zohar 8.04 - Parashat Emor#^z3-107a|107a]]. On not despising or disparaging anyone, see M *Avot* 4:3; *Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-164a|1:164a]].
 
 [^34]: **don’t kill it** Contrast this to the saying of Rabbi El’azar’s father, Rabbi Shim’on son of Yoḥai, in *Mekhilta, Beshallaḥ* 1: “The best of serpents—crush its head!’”
 
-    See *Mekhilta de-Rashbi*, [[Torah 16 - Beshalach#^14-7|Exodus 14:7]]; JT *Qiddushin* 4:14, 66b; BT *Shabbat* 121b; *OY*; Galante; Emden, *Zohorei Ya’bets*; *MmD*.
+    See *Mekhilta de-Rashbi*, [[Torah 16 - Beshalach#^14-7|Exodus 14:7]]; JT *Qiddushin* 4:14, 66b; BT [[Shabbat 121#121b|*Shabbat* 121b]]; *OY*; Galante; Emden, *Zohorei Ya’bets*; *MmD*.
 
 [^35]: ***Does the snake bite*…** The full verse reads: *If the snake bites because no* לחש (*laḥash*), *charm, was uttered, there is no advantage to the charmer. Laḥash* means “whisper, incantation, charm, spell.” Here Rabbi El’azar understands it as “whisper,” referring to a divine whisper commanding the snake to kill someone who deserves to die.
 
@@ -1243,7 +1243,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^36]: **saves a person from other things…** Sometimes the snake kills another threatening creature. See *Zohar* [[Zohar 8.04 - Parashat Emor#^z3-107a|3:107a]]. Cf. 1:201b; 3:111a.
 
-    On the idea that God creates nothing in vain, see JT *Berakhot* 9:2, 13c; BT *Shabbat* 77b; above, note 33.
+    On the idea that God creates nothing in vain, see JT *Berakhot* 9:2, 13c; BT [[Shabbat 77#77b|*Shabbat* 77b]]; above, note 33.
 
 [^37]: ***Elohim saw*—חיים‎ אלהים (*Elohim Ḥayyim*), Living God…** *Binah*, the Divine Mother, who watches over all, from the sefirotic realm above through the worlds below.
 
@@ -1269,7 +1269,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^42]: **engraving desired to cover itself…** The primordial point of *Ḥokhmah* expanded into the circle (or palace) of *Binah*, containing fifty gates.
 
-    See *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-15a|1:15a]]; [[Zohar 5.05 - Parashat Terumah#^z2-126b|2:126b]]. The image of *Binah*’s “fifty gates” derives from BT *Rosh ha-Shanah* 21b, where Rav and Shemu’el teach: “Fifty gates of בינה (*binah*), understanding, were created in the world, all of which were given to Moses except for one, as is said: *You made him little less than God* ([[Psalms 008#^8-6|Psalms 8:6]]).”
+    See *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-15a|1:15a]]; [[Zohar 5.05 - Parashat Terumah#^z2-126b|2:126b]]. The image of *Binah*’s “fifty gates” derives from BT [[Rosh Hashanah 21#21b|*Rosh ha-Shanah* 21b]], where Rav and Shemu’el teach: “Fifty gates of בינה (*binah*), understanding, were created in the world, all of which were given to Moses except for one, as is said: *You made him little less than God* ([[Psalms 008#^8-6|Psalms 8:6]]).”
 
 [^43]: **Within, within…** Within the palace of *Binah*, the primordial point was hidden, filling the palace with light. Paradoxically, concealment yields radiance.
 
@@ -1285,7 +1285,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^46]: **person should not act disdainfully…** Just as the great Moses did not disdain Jethro but rather heeded his advice.
 
-    See above, note 33. On the power of the word of a commoner, see BT *Berakhot* 7a, *Megillah* 15a. The verse in Exodus concludes: *and did all that he had said*.
+    See above, note 33. On the power of the word of a commoner, see BT [[Berakhot 7#7a|*Berakhot* 7a]], [[Megillah 15#15a|*Megillah* 15a]]. The verse in Exodus concludes: *and did all that he had said*.
 
 [^47]: ***Jethro heard*…** For the full verse, see above, note 28.
 
@@ -1297,7 +1297,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^50]: **Pharaoh had three wise men…** According to rabbinic tradition, these three biblical figures all served as advisors to Pharaoh.
 
-    See BT *Sotah* 11a; *Shemot Rabbah* 1:9. On Job’s role, see above, p. 141 and n. 17. On drawing down astral powers, see *Zohar* [[Zohar 2.03 - Parashat Va-Yera#^z1-99b|1:99b]]–100a; [[Zohar 5.03 - Parashat Mishpatim#^z2-112a|2:112a]]; Vital.
+    See BT [[Sotah 11#11a|*Sotah* 11a]]; *Shemot Rabbah* 1:9. On Job’s role, see above, p. 141 and n. 17. On drawing down astral powers, see *Zohar* [[Zohar 2.03 - Parashat Va-Yera#^z1-99b|1:99b]]–100a; [[Zohar 5.03 - Parashat Mishpatim#^z2-112a|2:112a]]; Vital.
 
 [^51]: **Job was imbued with awe…** Such awe is essential if one seeks to draw down supernatural power, whether from divine or demonic sources—except for certain weak demons, who can be contacted even without awe. In order to contact supernal, holy entities, awe is always required. Job’s awe of the demonic realm was soon transmuted, as Rabbi Abba goes on to explain.
 
@@ -1319,9 +1319,9 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     The original meaning of the phrase העין‎ שתום (*shetum ha-ayin*) may be either *whose eye is closed* or *whose eye is open*. Here Rabbi Abba links the root שתם (*shtm*) with סתם (*stm*), “to close.”
 
-    See Milgrom, *Numbers*, on the verse; BT *Sanhedrin* 105a; *Zohar* [[Zohar 1.08 - Parashat Noah#^z1-68b|1:68b]]; [[Zohar 6.06 - Parashat Pequdei#^z2-237a|2:237a]]; [[Zohar 8.10 - Commentary on Naso, continued#^z3-147b|3:147b]]. The verse reads: *Utterance of Balaam son of Be’or, utterance of the man* העין‎ שתום (*shetum ha-ayin*).
+    See Milgrom, *Numbers*, on the verse; BT [[Sanhedrin 105#105a|*Sanhedrin* 105a]]; *Zohar* [[Zohar 1.08 - Parashat Noah#^z1-68b|1:68b]]; [[Zohar 6.06 - Parashat Pequdei#^z2-237a|2:237a]]; [[Zohar 8.10 - Commentary on Naso, continued#^z3-147b|3:147b]]. The verse reads: *Utterance of Balaam son of Be’or, utterance of the man* העין‎ שתום (*shetum ha-ayin*).
 
-[^55]: **like most dreams…** This image of a grain of truth in a haystack represents an extreme reformulation of the saying attributed to Rabbi Shim’on son of Yoḥai in BT *Berakhot* 55a: “Just as there cannot be wheat without straw, so there cannot be a dream without nonsense.” See *Zohar* [[Zohar 3.04 - Parashat Va-Yeshev#^z1-183a|1:183a]].
+[^55]: **like most dreams…** This image of a grain of truth in a haystack represents an extreme reformulation of the saying attributed to Rabbi Shim’on son of Yoḥai in BT [[Berakhot 55#55a|*Berakhot* 55a]]: “Just as there cannot be wheat without straw, so there cannot be a dream without nonsense.” See *Zohar* [[Zohar 3.04 - Parashat Va-Yeshev#^z1-183a|1:183a]].
 
     The “tenuous, impudent forms” are those demonic forces lacking any connection to the realm of holiness. The final sentence apparently means that Balaam, through his vision, experienced both the demonic and the holy realms.
 
@@ -1357,11 +1357,11 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     On Mount Moriah as the site of the Temple, see [[II Chronicles 03#^3-1|2 Chronicles 3:1]]; Jubilees 18:13; *Targum Onqelos* and *Targum Yerushalmi* (frag.), [[Torah 04 - Vayera#^22-14|Genesis 22:14]]; JT *Berakhot* 4:5, 8c; *Bereshit Rabbah* 55:7; BT *Ta’anit* 16a; *Shir ha-Shirim Rabbah* on 4:4; *Pesiqta Rabbati* 39; *Midrash Tehillim* 81:2.
 
-    On Abraham and the verse in Isaiah, see BT *Pesaḥim* 88a; Rashi, BT *Ḥullin* 91b, s.v. *she-hitpallelu*. Cf. *Pesiqta Rabbati* 39; *Midrash Tehillim* 81:2. On Abraham as *mountain*, see *Bereshit Rabbah* 50:11; *Aggadat Bereshit* 25:2. Cf. above, p. 312, n. 397. The verse in Genesis begins: *Abraham called the name of that place* יראה‎ יהוה (*YHVH yir’eh*), *YHVH sees*. The precise meaning of the second half of the verse is uncertain.
+    On Abraham and the verse in Isaiah, see BT [[Pesachim 88#88a|*Pesaḥim* 88a]]; Rashi, BT [[Chullin 91#91b|*Ḥullin* 91b]], s.v. *she-hitpallelu*. Cf. *Pesiqta Rabbati* 39; *Midrash Tehillim* 81:2. On Abraham as *mountain*, see *Bereshit Rabbah* 50:11; *Aggadat Bereshit* 25:2. Cf. above, p. 312, n. 397. The verse in Genesis begins: *Abraham called the name of that place* יראה‎ יהוה (*YHVH yir’eh*), *YHVH sees*. The precise meaning of the second half of the verse is uncertain.
 
 [^65]: ***To the house*—Jacob…** Likewise, according to rabbinic tradition, the site of Jacob’s dream (in [[Torah 06 - Toldot#^28-1|Genesis 28]]) is identified as the future site of the Temple. Jacob referred to this dwelling place of *Shekhinah* not as *mountain* but as *house*.
 
-    The verse in Isaiah reads: *to the house of the God of Jacob*. On Jacob and this verse, see BT *Pesaḥim* 88a; *Pesiqta Rabbati* 39; *Midrash Tehillim* 81:2; Rashi, BT *Ḥullin* 91b, s.v. *she-hitpallelu*. On the identification of the site of Jacob’s dream as the Temple, see *Targum Yerushalmi*, [[Torah 07 - Vayetzei#^28-11|Genesis 28:11]]; *Bereshit Rabbah* 69:7; *Pesiqta Rabbati* 39; *Midrash Tehillim* 81:2.
+    The verse in Isaiah reads: *to the house of the God of Jacob*. On Jacob and this verse, see BT [[Pesachim 88#88a|*Pesaḥim* 88a]]; *Pesiqta Rabbati* 39; *Midrash Tehillim* 81:2; Rashi, BT [[Chullin 91#91b|*Ḥullin* 91b]], s.v. *she-hitpallelu*. On the identification of the site of Jacob’s dream as the Temple, see *Targum Yerushalmi*, [[Torah 07 - Vayetzei#^28-11|Genesis 28:11]]; *Bereshit Rabbah* 69:7; *Pesiqta Rabbati* 39; *Midrash Tehillim* 81:2.
 
 [^66]: ***Mountain* and *house*… single rung…** Although both images allude to *Shekhinah, mountain* alludes to the fact that She welcomes all converts under Her wings (as a mountain is accessible to all), whereas *house* alludes to Her greater intimacy with Israel.
 
@@ -1381,9 +1381,9 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^69]: **from our Master** From Rabbi Shim’on himself.
 
-[^70]: ***This is the book*…** See BT *Avodah Zarah* 5a: “Did not Resh Lakish say: ‘What is the meaning of the verse *This is the book of the generations of Adam*…? Did Adam possess a book? Rather, this teaches that the blessed Holy One showed Adam every generation with its expounders, every generation with its sages, every generation with its leaders.’”
+[^70]: ***This is the book*…** See BT [[Avodah Zarah 5#5a|*Avodah Zarah* 5a]]: “Did not Resh Lakish say: ‘What is the meaning of the verse *This is the book of the generations of Adam*…? Did Adam possess a book? Rather, this teaches that the blessed Holy One showed Adam every generation with its expounders, every generation with its sages, every generation with its leaders.’”
 
-    See *Seder Olam Rabbah* 30; *Bereshit Rabbah* 24:2 (and parallels discussed in Theodor’s note); BT *Bava Metsi’a* 85b–86a, *Sanhedrin* 38b; *Tanḥuma, Ki Tissa* 12; *Shemot Rabbah* 40:3; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-37a|1:37a]]–b, [[Zohar 1.07 - Parashat Be-Reshit#^z1-55a|55a–b]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-90b|90b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-227b|227b]]; [[Zohar 4.07 - Parashat Yitro#^z2-70a|2:70a]] (*RR*); *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-16d|16d]] (*MhN*), [[Zohar 12.07 - Raza de-Razin#^zh-37b|37b]]; Ginzberg, *Legends*, 5:117–18, n. 110. Cf. below, note 76. The verse in Genesis reads:… *in the image of God He made him*.
+    See *Seder Olam Rabbah* 30; *Bereshit Rabbah* 24:2 (and parallels discussed in Theodor’s note); BT *Bava Metsi’a* 85b–86a, [[Sanhedrin 38#38b|*Sanhedrin* 38b]]; *Tanḥuma, Ki Tissa* 12; *Shemot Rabbah* 40:3; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-37a|1:37a]]–b, [[Zohar 1.07 - Parashat Be-Reshit#^z1-55a|55a–b]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-90b|90b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-227b|227b]]; [[Zohar 4.07 - Parashat Yitro#^z2-70a|2:70a]] (*RR*); *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-16d|16d]] (*MhN*), [[Zohar 12.07 - Raza de-Razin#^zh-37b|37b]]; Ginzberg, *Legends*, 5:117–18, n. 110. Cf. below, note 76. The verse in Genesis reads:… *in the image of God He made him*.
 
 [^71]: **ספר‎ זה (*Zeh sefer*), *This is the book*…** The book above is *Binah*, who contains and reveals everything. The book below is *Shekhinah*, who contains and reveals everything that issues from Her male partner, *Yesod*. Thus She is זכרון‎ ספר (*sefer zikkaron*), Book of Remembrance—the book containing זכר (*zakhar*), the “male.”
 
@@ -1403,7 +1403,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^73]: **limbs, male and female, in the mystery of *behind and before*** Alluding to the original androgynous nature of the first human being, reflecting the androgynous nature of the *sefirot*.
 
-    See BT *Berakhot* 61a, in the name of Rabbi Yirmeyah son of El’azar: “The blessed Holy One created two faces in Adam, as is said: *Behind and before*, צרתני (*tsartani*), *You formed me* ([[Psalms 139#^139-5|Psalms 139:5]]).” In this verse צרתני (*tsartani*) probably means *You encompassed me*, but Rabbi Yirmeyah interprets the root צור (*tsur*) as a by-form of יצר (*ytsr*), “to form.”
+    See BT [[Berakhot 61#61a|*Berakhot* 61a]], in the name of Rabbi Yirmeyah son of El’azar: “The blessed Holy One created two faces in Adam, as is said: *Behind and before*, צרתני (*tsartani*), *You formed me* ([[Psalms 139#^139-5|Psalms 139:5]]).” In this verse צרתני (*tsartani*) probably means *You encompassed me*, but Rabbi Yirmeyah interprets the root צור (*tsur*) as a by-form of יצר (*ytsr*), “to form.”
 
     See *Bereshit Rabbah* 8:1: “Rabbi Yirmeyah son of El’azar said, ‘When the blessed Holy One created Adam, He created him androgynous, as is said: *Male and female He created them* ([[Torah 01 - Bereshit#^1-27|Genesis 1:27]]).’ Rabbi Shemu’el son of Naḥmani said, ‘When the blessed Holy One created Adam, He created him with two faces. Then He sawed him and gave him two backs, one on this side and one on that.”
 
@@ -1411,7 +1411,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     The first version of the Ten Commandments reads: זכור (*Zakhor*), *Remember, the Sabbath day to keep it holy* ([[Torah 17 - Yitro#^20-8|Exodus 20:8]]). The second version reads: שמור (*Shamor*), *Observe, the Sabbath day to keep it holy* ([[Torah 45 - Vaetchanan#^5-12|Deuteronomy 5:12]]). According to Kabbalah, *zakhor, remember*, suggests זכר (*zakhar*), “male,” signifying the male divine potency, whereas the alternative formulation, *shamor, observe*, signifies the female, *Shekhinah*. Further, *zakhor* implies the 248 positive commandments of Torah (since time-bound positive commandments are generally incumbent only on men), while *shamor* implies the 365 negative commandments (incumbent on women as well), together totaling 613 commandments.
 
-    See *Mekhilta, Baḥodesh* 7; BT *Berakhot* 20b; *Bahir* 124 (182); Ezra of Gerona, *Peirush le-Shir ha-Shirim*, 496–97; Naḥmanides on [[Torah 17 - Yitro#^20-8|Exodus 20:8]]; Jacob ben Sheshet, *Sefer ha-Emunah ve-ha-Bittaḥon*, 420; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-5b|1:5b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-47b|47b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-48b|48b]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-164b|164b]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-199b|199b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-248a|248a]]; [[Zohar 12.06 - Piqqudin#^z2-92a|2:92a–b]] (*Piq*), [[Zohar 5.05 - Parashat Terumah#^z2-138a|138a]]; [[Zohar 8.03 - Parashat Qedoshim#^z3-81b|3:81b]], [[Zohar 12.06 - Piqqudin#^z3-92b|92b]] (*Piq*), [[Zohar 8.06 - Parashat Be-Huqqotai#^z3-115b|115b]], [[Zohar 9.11 - Parashat Pinehas#^z3-224a|224a]]; Moses de León, *Sefer ha-Rimmon*, 118; idem, *Sefer ha-Mishqal*, 110; Wolfson, introduction to *Sefer ha-Rimmon*, 63–71.
+    See *Mekhilta, Baḥodesh* 7; BT [[Berakhot 20#20b|*Berakhot* 20b]]; *Bahir* 124 (182); Ezra of Gerona, *Peirush le-Shir ha-Shirim*, 496–97; Naḥmanides on [[Torah 17 - Yitro#^20-8|Exodus 20:8]]; Jacob ben Sheshet, *Sefer ha-Emunah ve-ha-Bittaḥon*, 420; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-5b|1:5b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-47b|47b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-48b|48b]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-164b|164b]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-199b|199b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-248a|248a]]; [[Zohar 12.06 - Piqqudin#^z2-92a|2:92a–b]] (*Piq*), [[Zohar 5.05 - Parashat Terumah#^z2-138a|138a]]; [[Zohar 8.03 - Parashat Qedoshim#^z3-81b|3:81b]], [[Zohar 12.06 - Piqqudin#^z3-92b|92b]] (*Piq*), [[Zohar 8.06 - Parashat Be-Huqqotai#^z3-115b|115b]], [[Zohar 9.11 - Parashat Pinehas#^z3-224a|224a]]; Moses de León, *Sefer ha-Rimmon*, 118; idem, *Sefer ha-Mishqal*, 110; Wolfson, introduction to *Sefer ha-Rimmon*, 63–71.
 
 [^75]: ***Behind* the act of Creation…** Understood as “*After* the act of Creation.” This sentence may mean that Adam was formed at the end of the act of Creation, but he was intended from the very beginning: *before* the divine Chariot (described by Ezekiel). For various interpretations, see *OY*; *MM*; *Yahel Or*; *Sullam*; *MmD*.
 
@@ -1439,7 +1439,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^79]: **These words…** Namely, that he is insolent.
 
-[^80]: **his words are heeded** See BT *Berakhot* 6b; Scholem, *Shedim Ruḥot u-Nshamot*, 280; cf. [[Ecclesiastes 09#^9-16|Ecclesiastes 9:16]].
+[^80]: **his words are heeded** See BT [[Berakhot 6#6b|*Berakhot* 6b]]; Scholem, *Shedim Ruḥot u-Nshamot*, 280; cf. [[Ecclesiastes 09#^9-16|Ecclesiastes 9:16]].
 
 [^81]: **ז (*zayin*), of those letters of measure of our Master** This letter is the first in the phrase being discussed: ספר‎ זה (*zeh sefer*), *This is the book*. See above, notes 70, 76.
 
@@ -1455,11 +1455,11 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^87]: **between his eyes above the brain…** At the middle of his hairline directly up from the middle of his eyes.
 
-    On the relation between the brain and the placement of the tefillin, see BT *Eruvin* 95b; Landau, *Agur*, 36; Ta-Shma, *Ha-Nigleh she-ba-Nistar*, 77–78.
+    On the relation between the brain and the placement of the tefillin, see BT [[Eruvin 95#95b|*Eruvin* 95b]]; Landau, *Agur*, 36; Ta-Shma, *Ha-Nigleh she-ba-Nistar*, 77–78.
 
 [^88]: **letter ז (*zayin*) when it includes the letter י (*yod*)** See above, note 82.
 
-[^89]: **masters of qualities…** מדין‎ ידעי (*Yade’ei middin*), “those who know *middin*,” apparently deriving from מדה (*middah*), “measure, quality, nature, character,” based on the root מדד (*mdd*), “to measure.” See [[Judges 05#^5-10|Judges 5:10]]: *you who sit on middin*, where the word is variously rendered as “\[extended, wide\] carpets, blankets” or—based on דין (*din*), “judgment”—“the judgment seat.” See BT *Eruvin* 54b: “It was taught in the school of R. Anan: What is the meaning of the verse… *you who sit on middin*?… you who render judgment in absolute truth.”
+[^89]: **masters of qualities…** מדין‎ ידעי (*Yade’ei middin*), “those who know *middin*,” apparently deriving from מדה (*middah*), “measure, quality, nature, character,” based on the root מדד (*mdd*), “to measure.” See [[Judges 05#^5-10|Judges 5:10]]: *you who sit on middin*, where the word is variously rendered as “\[extended, wide\] carpets, blankets” or—based on דין (*din*), “judgment”—“the judgment seat.” See BT [[Eruvin 54#54b|*Eruvin* 54b]]: “It was taught in the school of R. Anan: What is the meaning of the verse… *you who sit on middin*?… you who render judgment in absolute truth.”
 
     Here the expression refers to those who know how to determine human character and nature based on physiognomy, or who know the מדות (*middot*), the divine “qualities” (*sefirot*), or who know קומה‎ שעור (*shi’ur qomah*), “the measure of the \[divine\] stature.” See *Zohar* [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-133a|1:133a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-241b|241b]]; [[Zohar 5.05 - Parashat Terumah#^z2-130b|2:130b]], [[Zohar 5.05 - Parashat Terumah#^z2-161a|161a]]; *[[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-73b|ZḤ* 73b]], [[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-74b|74b]] (*ShS*), 106b (*Tiq*); above, p. 150, n. 44. Cf. above, note 76.
 
@@ -1479,7 +1479,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^93]: **for people** To impress them.
 
-[^94]: **From a small thing, he envisions the great… discerning…** See BT *Ḥagigah* 14a, where one who is נבון (*navon*), “discerning,” is defined as “מבין (*mevin*), understanding, one thing from another.”
+[^94]: **From a small thing, he envisions the great… discerning…** See BT [[Chagigah 14#14a|*Ḥagigah* 14a]], where one who is נבון (*navon*), “discerning,” is defined as “מבין (*mevin*), understanding, one thing from another.”
 
     “That he will be embarrassed because of them” probably refers to other people’s negative judgment of his lack of concern for mundane affairs.
 
@@ -1549,7 +1549,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     The theme of retaining enmity apparently refers to David’s attitude toward Shimei son of Gera, who cursed and insulted the king, accusing him of political assassination and usurping Saul’s throne. David refuses to punish Shimei, but eventually on his deathbed he instructs his son Solomon to punish him. See [[II Samuel 16#^16-5|2 Samuel 16:5–13]]; [[II Samuel 19#^19-17|19:17–24]]; [[I Kings 02#^2-8|1 Kings 2:8–9]]; *Zohar* [[Zohar 5.03 - Parashat Mishpatim#^z2-108a|2:108a]]; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-79a|ZḤ* 79a]] (*MhN, Rut*).
 
-    On the simile of a serpent, see BT *Shabbat* 63a, *Yoma* 22a–b; *Zohar* [[Zohar 5.03 - Parashat Mishpatim#^z2-108a|2:108a]]. On the image of shell and kernel, see above, note 57.
+    On the simile of a serpent, see BT [[Shabbat 63#63a|*Shabbat* 63a]], [[Yoma 22#22a|*Yoma* 22a]]–b; *Zohar* [[Zohar 5.03 - Parashat Mishpatim#^z2-108a|2:108a]]. On the image of shell and kernel, see above, note 57.
 
 [^116]: **Second figure…** If a person rejects evil and turns back to God, then a good spirit protrudes momentarily in the form of a lion’s face—the second image from the Chariot, *on the right* ([[Ezekiel 01#^1-10|Ezekiel 1:10]])—visible only to the eyes of the wise. Alternatively, when one of the wise sees this person, the power of his vision produces the image of a lion in the heart (or mind) of the wise gazer. Afterward, the person’s face appears momentarily frightening and unlovable, but immediately the wise one’s heart loves him once again.
 
@@ -1567,7 +1567,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     On the biblical sense of *karet*, see, e.g., [[Torah 03 - Lech Lecha#^17-14|Genesis 17:14]]; [[Torah 15 - Bo#^12-15|Exodus 12:15]], 19; 30:33, 38; 31:14; [[Torah 25 - Tzav#^7-20|Leviticus 7:20–21]]; [[Torah 29 - Achrei Mot#^17-4|17:4]], 9; [[Torah 37 - Sh'lach#^15-31|Numbers 15:31]]. This last citation reads: *That person* תכרת‎ הכרת (*hikkaret tikkaret*), *will surely be cut off*. The infinitive absolute form, *hikkaret*, is nearly identical with *hakkarat, the appearance of* \[*their faces*\]. The doublet, *hikkaret tikkaret*, may be associated here with the two images of *kaf, resh, tav* on this person’s face.
 
-    On the verse in Isaiah, see JT *Yevamot* 16:3, 15c; *Bereshit Rabbah* 65:20; *Vayiqra Rabbah* 33:5; BT *Yevamot* 120a; *Zohar* [[#^z2-74b|2:74b]] (*RR*); 3:123a (*RM*); *[[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-72a|ZḤ* 72a]]–b (*ShS*); *TZ*, intro, 13b; *Sod Hakkarat Panim*, 298, 300; Scholem, *Shedim Ruḥot u-Nshamot*, 250–51. Actually, the simple sense of the phrase *hakkarat peneihem* in Isaiah is probably *their partiality* \[in judgment\]; for the idiom, see [[Torah 44 - Devarim#^1-17|Deuteronomy 1:17]]; [[Torah 48 - Shoftim#^16-19|16:19]].
+    On the verse in Isaiah, see JT *Yevamot* 16:3, 15c; *Bereshit Rabbah* 65:20; *Vayiqra Rabbah* 33:5; BT [[Yevamot 120#120a|*Yevamot* 120a]]; *Zohar* [[#^z2-74b|2:74b]] (*RR*); 3:123a (*RM*); *[[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-72a|ZḤ* 72a]]–b (*ShS*); *TZ*, intro, 13b; *Sod Hakkarat Panim*, 298, 300; Scholem, *Shedim Ruḥot u-Nshamot*, 250–51. Actually, the simple sense of the phrase *hakkarat peneihem* in Isaiah is probably *their partiality* \[in judgment\]; for the idiom, see [[Torah 44 - Devarim#^1-17|Deuteronomy 1:17]]; [[Torah 48 - Shoftim#^16-19|16:19]].
 
 [^122]: **Seed of David is reversed…** Whereas others of this category appear to the wise right away in the form of an ox’s face, those descended from David appear first in the form of a lion’s face and then in the form of an ox’s face. As indicated above (note 119), the ox is associated with harsh Judgment. Furthermore, different veins appear on the faces of these Davidic descendants, suggesting the letters ר (*resh*) and ע (*ayin*), which spell רע (*ra*), “evil.”
 
@@ -1595,7 +1595,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^131]: **severely shriveled…** Aramaic, בעתיקו‎ עתיקין (*attiqin be-attiqu*), “old in oldness.” For the connotation of “worn out, shriveled,” see *Targum Yonatan*, [[Lamentations 3#^3-4|Lamentations 3:4]].
 
-[^132]: **If his beard is filled with hair…** On the physiognomy of the beard, see BT *Sanhedrin* 100b; Yassif, ed., *Sippurei Ben Sira*, 204–5; *TZ* 70, 132b. The *Idrot* of the *Zohar* (3:127b–145a \[*IR*\], 287b–296b \[*IZ*\]) feature detailed descriptions of the divine beard.
+[^132]: **If his beard is filled with hair…** On the physiognomy of the beard, see BT [[Sanhedrin 100#100b|*Sanhedrin* 100b]]; Yassif, ed., *Sippurei Ben Sira*, 204–5; *TZ* 70, 132b. The *Idrot* of the *Zohar* (3:127b–145a \[*IR*\], 287b–296b \[*IZ*\]) feature detailed descriptions of the divine beard.
 
 [^133]: ***winking his eyes*** Signaling maliciously to others.
 
@@ -1613,7 +1613,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^138]: ***Human hands were under their wings*…** The wings of the *ḥayyot*, angelic “living beings” carrying the divine throne. See above, note 110.
 
-    According to BT *Pesaḥim* 119a, the image of the hands alludes to “the hand of the blessed Holy One, which is spread out under the wings of the *ḥayyot* to accept penitents.” See *Zohar* [[Zohar 12.05 - Heikhalot Pequdei#^z2-260b|2:260b]] (*Heikh*); *ZḤ* [[Zohar 12.10 - Merkevet Yehezqel#^zh-39b|39b]].
+    According to BT [[Pesachim 119#119a|*Pesaḥim* 119a]], the image of the hands alludes to “the hand of the blessed Holy One, which is spread out under the wings of the *ḥayyot* to accept penitents.” See *Zohar* [[Zohar 12.05 - Heikhalot Pequdei#^z2-260b|2:260b]] (*Heikh*); *ZḤ* [[Zohar 12.10 - Merkevet Yehezqel#^zh-39b|39b]].
 
 [^139]: ***Hands*—forms and supernal mysteries…** The fingers and palms of the hand contain mysteries, as described below.
 
@@ -1635,13 +1635,13 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^142]: ***I too will strike* כף (*kaf*), *palm*…** The divine right and left hands symbolize respectively *Ḥesed* and *Gevurah*. When these conflict, blessings vanish from the world—as happened when the Temple was captured and destroyed, and Israel’s glory passed to other nations.
 
-    On “the glory of Israel” being given to other nations, see BT *Ḥagigah* 5b. The verse in Ezekiel reads: *I too will strike My palm against My palm, and I will satisfy My fury*.
+    On “the glory of Israel” being given to other nations, see BT [[Chagigah 5#5b|*Ḥagigah* 5b]]. The verse in Ezekiel reads: *I too will strike My palm against My palm, and I will satisfy My fury*.
 
 [^143]: **When they join as one…** When the two divine palms unite, they become one כף (*kaf*), “palm” (or “ladle”) with ten fingers (corresponding to *ten shekels* and symbolizing all ten *sefirot*). The flow of emanation eventually generates the human being.
 
     The first reference to *Elohim* (in the verse from Genesis) alludes to *Binah*. “Ascending in thought” may refer to the union of *Binah* and *Ḥokhmah*. The phrase האדם‎ את (*et ha-adam*), *the human*, alludes to the androgynous divine entity, including *Tif’eret* (and the *sefirot* surrounding Him) and *Shekhinah*. In this phrase the term *adam* by itself may refer to this entity (see above, note 71); or alternatively, את (*et*) refers to *Shekhinah* (see above, p. 366, n. 586), and *adam* refers to *Tif’eret* and the *sefirot* surrounding Him. Finally, *in the image of Elohim* alludes to *Shekhinah* (*Binah*’s daughter and reflection), who generates the human soul. She, apparently, is “another palm,” in addition to the right and left divine palms.
 
-    See *OY*; *MmD*; below, note 147. For another interpretation of “another palm,” see Galante. On the association of *ten shekels* with ten fingers, see *Midrash Tadshe* 10 (*Beit ha-Midrash*, 3:174). On the symbolism of the ten fingers, see above, note 4. For the full verse in Genesis, see above, end of note 141. On the phrase “ascending in thought,” see BT *Menaḥot* 29b.
+    See *OY*; *MmD*; below, note 147. For another interpretation of “another palm,” see Galante. On the association of *ten shekels* with ten fingers, see *Midrash Tadshe* 10 (*Beit ha-Midrash*, 3:174). On the symbolism of the ten fingers, see above, note 4. For the full verse in Genesis, see above, end of note 141. On the phrase “ascending in thought,” see BT [[Menachot 29#29b|*Menaḥot* 29b]].
 
 [^144]: ***You clothed me in skin and flesh*…** Implying that the essential human being is distinct from *skin and flesh*. This human essence—the soul—is temporarily clothed in bodily garments, which are stripped away at death.
 
@@ -1697,7 +1697,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     Rav Yeiva Sava (the Elder) is a minor figure in the Babylonian Talmud who assumes a prominent role in the *Zohar*, culminating in *Sava de-Mishpatim* (2:94b–114a), where he appears as a donkey-driver who turns out to be a master of wisdom. The *Zohar* frequently cites *The Book of Rav Yeiva Sava*.
 
-    On Rav Yeiva, see BT *Pesaḥim* 103b, *Bava Qamma* 49b, *Ḥullin* 86b; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-47b|1:47b]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-79b|79b]], [[Zohar 2.03 - Parashat Va-Yera#^z1-117b|117b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-225a|225a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-226a|226a]]; [[Zohar 4.03 - Parashat Shemot#^z2-6a|2:6a]], [[Zohar 4.06 - Parashat Be-Shallah#^z2-60b|60b]], [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-206b|206b]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-7b|3:7b]], [[Zohar 8.11 - Parashat Be-Ha'alotekha#^z3-155b|155b]], [[Zohar 9.15 - Idra Zuta#^z3-289a|289a]] (*IZ*), [[Zohar 9.15 - Idra Zuta#^z3-290a|290a]] (*IZ*), [[Zohar 9.15 - Idra Zuta#^z3-295a|295a]] (*IZ*).
+    On Rav Yeiva, see BT [[Pesachim 103#103b|*Pesaḥim* 103b]], [[Bava Kamma 49#49b|*Bava Qamma* 49b]], [[Chullin 86#86b|*Ḥullin* 86b]]; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-47b|1:47b]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-79b|79b]], [[Zohar 2.03 - Parashat Va-Yera#^z1-117b|117b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-225a|225a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-226a|226a]]; [[Zohar 4.03 - Parashat Shemot#^z2-6a|2:6a]], [[Zohar 4.06 - Parashat Be-Shallah#^z2-60b|60b]], [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-206b|206b]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-7b|3:7b]], [[Zohar 8.11 - Parashat Be-Ha'alotekha#^z3-155b|155b]], [[Zohar 9.15 - Idra Zuta#^z3-289a|289a]] (*IZ*), [[Zohar 9.15 - Idra Zuta#^z3-290a|290a]] (*IZ*), [[Zohar 9.15 - Idra Zuta#^z3-295a|295a]] (*IZ*).
 
 [^160]: **other lines, all called תולדות (*toledot*), *generations*…** Lines in the palm, revealing a person’s nature, character, and fate, analogous to the signs of heaven.
 
@@ -1721,9 +1721,9 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^169]: **if one disqualifies his seed…** Through sexual sin.
 
-    On the theme of “three generations,” see [[Torah 49 - Ki Teitzei#^23-9|Deuteronomy 23:9]], according to which the *third generation* (i.e., the grandchildren) of Edomites and Egyptians living among Israelites may be admitted *into the assembly of YHVH*. See M *Yevamot* 8:3; *Sifrei*, Deuteronomy 252; BT *Shabbat* 146a; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-82b|ZḤ* 82b]] (*MhN, Rut*).
+    On the theme of “three generations,” see [[Torah 49 - Ki Teitzei#^23-9|Deuteronomy 23:9]], according to which the *third generation* (i.e., the grandchildren) of Edomites and Egyptians living among Israelites may be admitted *into the assembly of YHVH*. See M *Yevamot* 8:3; *Sifrei*, Deuteronomy 252; BT [[Shabbat 146#146a|*Shabbat* 146a]]; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-82b|ZḤ* 82b]] (*MhN, Rut*).
 
-    See BT *Qiddushin* 70a: “Woe to him who disqualifies his seed, blemishes his family, and marries a woman who is not fitting for him! Elijah binds him, and the blessed Holy One lashes him.” See *Zohar* [[Zohar 8.04 - Parashat Emor#^z3-90a|3:90a]], [[Zohar 9.11 - Parashat Pinehas#^z3-237a|237a]]; Moses de León, *Orḥot Ḥayyim*, par. 58.
+    See BT [[Kiddushin 70#70a|*Qiddushin* 70a]]: “Woe to him who disqualifies his seed, blemishes his family, and marries a woman who is not fitting for him! Elijah binds him, and the blessed Holy One lashes him.” See *Zohar* [[Zohar 8.04 - Parashat Emor#^z3-90a|3:90a]], [[Zohar 9.11 - Parashat Pinehas#^z3-237a|237a]]; Moses de León, *Orḥot Ḥayyim*, par. 58.
 
 [^170]: **Third gate: ה (*he*), in the right…** The third letter of the mnemonic ה-ס-ף‎ ר-ז (*resh, zayin, he, samekh*, final *pe*). See above, note 161. “Right” means the right hand.
 
@@ -1753,7 +1753,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^178]: **four lengthwise and three widthwise…** See *OY*; and for a depiction, ibid., 273, fig. 16.
 
-    On the verse in Isaiah, see BT *Berakhot* 34b: “Rabbi Abbahu said, ‘In the place where masters of return \[i.e., penitents\] stand, the completely righteous do not stand, as is said: *Peace, peace to the far and the near—to the far* first, and then *to the near* \[i.e., God offers peace first to one who had sinned and was *far*, and only afterward to one who was completely righteous and always *near*\].’ But Rabbi Yoḥanan would say to you, ‘What is *the far*? One who from the beginning was far from transgression \[i.e., completely righteous\]. And what is *the near*? One who was *near* to transgression and has now moved far from it.’”
+    On the verse in Isaiah, see BT [[Berakhot 34#34b|*Berakhot* 34b]]: “Rabbi Abbahu said, ‘In the place where masters of return \[i.e., penitents\] stand, the completely righteous do not stand, as is said: *Peace, peace to the far and the near—to the far* first, and then *to the near* \[i.e., God offers peace first to one who had sinned and was *far*, and only afterward to one who was completely righteous and always *near*\].’ But Rabbi Yoḥanan would say to you, ‘What is *the far*? One who from the beginning was far from transgression \[i.e., completely righteous\]. And what is *the near*? One who was *near* to transgression and has now moved far from it.’”
 
 [^179]: **mysteries of *the generations of adam*…** Marks, lines, and impressions generated by a person’s conduct and character. See above, note 76; *Zohar* [[#^z2-70b|2:70b]] (*RR*).
 
@@ -1777,15 +1777,15 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^184]: **King Solomon, by the throne…** He determined who was telling the truth by relying not on witnesses but on the potent images on his miraculous throne. Consequently, all who approached his throne spoke truly.
 
-    According to a rabbinic tradition, Solomon sought to judge cases without witnesses, based solely on his mental powers, but he was instructed by the prophetic spirit to follow the procedure outlined in the Torah and base his legal decisions on testimony. See [[Torah 48 - Shoftim#^19-15|Deuteronomy 19:15]]; *Targum Yonatan*, [[Ecclesiastes 12#^12-10|Ecclesiastes 12:10]]; BT *Rosh ha-Shanah* 21b; Naḥmanides, *Kitvei Ramban*, 1:163.
+    According to a rabbinic tradition, Solomon sought to judge cases without witnesses, based solely on his mental powers, but he was instructed by the prophetic spirit to follow the procedure outlined in the Torah and base his legal decisions on testimony. See [[Torah 48 - Shoftim#^19-15|Deuteronomy 19:15]]; *Targum Yonatan*, [[Ecclesiastes 12#^12-10|Ecclesiastes 12:10]]; BT [[Rosh Hashanah 21#21b|*Rosh ha-Shanah* 21b]]; Naḥmanides, *Kitvei Ramban*, 1:163.
 
-    On the Holy Spirit appearing in Solomon’s court, see *Bereshit Rabbah* 85:12; BT *Makkot* 23b; *Qohelet Rabbah* on 10:16; *Midrash Tehillim* 72:2.
+    On the Holy Spirit appearing in Solomon’s court, see *Bereshit Rabbah* 85:12; BT [[Makkot 23#23b|*Makkot* 23b]]; *Qohelet Rabbah* on 10:16; *Midrash Tehillim* 72:2.
 
     On Solomon’s glorious throne, its resemblance to the divine throne, and its images (of animals and biblical heroes), see *Pesiqta de-Rav Kahana* 1:7; *Shir ha-Shirim Rabbah* 1:10 (on 1:1); *Ester Rabbah* 1:12; *Targum Sheni*, [[Esther 01#^1-2|Esther 1:2]]; *Bemidbar Rabbah* 12:17; *Beit ha-Midrash*, 2:83–85; 5:34–37; *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-243a|1:243a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-247b|247b]]; [[Zohar 10.10 - Parashat Shemot#^z2-14b|2:14b]] (*MhN*); Ginzberg, *Legends*, 4:157–60; 6:296–97, nn. 69–70. On the images of animals on the divine throne, see [[Ezekiel 01#^1-10|Ezekiel 1:10]]; *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-243a|1:243a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-247b|247b]]; Moses de León, *Sefer ha-Rimmon*, 308.
 
 [^185]: **King Messiah, by smell…** The Messiah will judge humanity by his sense of smell, heightened *by awe of YHVH*. He will not need to judge *by sight of his eyes* (i.e., by observing bodily signs and features), nor by listening to witnesses, as implied by the conclusion of the verse: *nor by hearing of his ears will he decide*.
 
-    See BT *Sanhedrin* 93b; *Zohar* [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-213b|2:213b]]. On determining by the sense of smell, see *Zohar* [[Zohar 9.08 - Parashat Balaq#^z3-186a|3:186a]], [[Zohar 9.09 - Yanuqa#^z3-188a|188a]]; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-90c|ZḤ* 90c]]–d (*MhN, Rut*).
+    See BT [[Sanhedrin 93#93b|*Sanhedrin* 93b]]; *Zohar* [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-213b|2:213b]]. On determining by the sense of smell, see *Zohar* [[Zohar 9.08 - Parashat Balaq#^z3-186a|3:186a]], [[Zohar 9.09 - Yanuqa#^z3-188a|188a]]; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-90c|ZḤ* 90c]]–d (*MhN, Rut*).
 
 [^186]: **These three judged…** Only Moses, Solomon, and the Messiah judge(d) the world without formal legal procedures.
 
@@ -1795,7 +1795,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^188]: ***third new moon*… ruled by Uriel…** The third of the four archangels (Michael, Gabriel, Uriel, and Raphael). Each myriad of angelic camps has one of the 365 keys of light, opening channels by which the supernal light flows down from above.
 
-    The unique term חשמל (*ḥashmal*) derives from Ezekiel’s vision of the chariot-throne: [[Ezekiel 01#^1-4|Ezekiel 1:4]]: *I looked, and here, a stormy wind coming from the north, a great cloud and flashing fire, and a radiance surrounding it; and from within it, like the color of ḥashmal, from within the fire*. The precise meaning of the term is unclear, but the context indicates a bright substance. It has been rendered *amber, gleaming amber, glowing metal*. In postbiblical literature it was regarded as endowed with holy and dangerous properties. See BT *Ḥagigah* 13a. Here, *ḥashmal* may symbolize *Tif’eret*, who is associated with the four letters of the name *YHVH*.
+    The unique term חשמל (*ḥashmal*) derives from Ezekiel’s vision of the chariot-throne: [[Ezekiel 01#^1-4|Ezekiel 1:4]]: *I looked, and here, a stormy wind coming from the north, a great cloud and flashing fire, and a radiance surrounding it; and from within it, like the color of ḥashmal, from within the fire*. The precise meaning of the term is unclear, but the context indicates a bright substance. It has been rendered *amber, gleaming amber, glowing metal*. In postbiblical literature it was regarded as endowed with holy and dangerous properties. See BT [[Chagigah 13#13a|*Ḥagigah* 13a]]. Here, *ḥashmal* may symbolize *Tif’eret*, who is associated with the four letters of the name *YHVH*.
 
     On Uriel, see Margaliot, *Mal’akhei Elyon*, 5–10. For various interpretations of *ḥashmal*, see *OY*; Galante; *Yahel Or*; Tishby, *Wisdom of the Zohar*, 2:648; *MmD*. Cf. above, note 53.
 
@@ -1805,13 +1805,13 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     Similarly, Moses is described as האלהים‎ איש (*ish ha-elohim*), *man of God* ([[Torah 54 - V'Zot HaBerachah#^33-1|Deuteronomy 33:1]]; [[Psalms 090#^90-1|Psalms 90:1]]). This title is understood midrashically as “husband of God” (able to command Him) and kabbalistically as “husband of *Shekhinah*” (united with Her).
 
-    *Shekhinah* is also symbolized by the knot of the tefillin that appears at the back of the head. According to rabbinic tradition, when Moses asked to see the divine glory and God replied, *You will see My back* ([[Torah 21 - Ki Tisa#^33-23|Exodus 33:23]]), He was referring to this knot of the divine tefillin, which He then showed to Moses. See BT *Berakhot* 7a, in the name of Rabbi Shim’on the Ḥasid.
+    *Shekhinah* is also symbolized by the knot of the tefillin that appears at the back of the head. According to rabbinic tradition, when Moses asked to see the divine glory and God replied, *You will see My back* ([[Torah 21 - Ki Tisa#^33-23|Exodus 33:23]]), He was referring to this knot of the divine tefillin, which He then showed to Moses. See BT [[Berakhot 7#7a|*Berakhot* 7a]], in the name of Rabbi Shim’on the Ḥasid.
 
     On Jacob as *ish tam*, see *Zohar* [[Zohar 2.05 - Parashat Toledot#^z1-146a|1:146a]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-167b|167b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-222a|222a]]; [[Zohar 5.05 - Parashat Terumah#^z2-175b|2:175b]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-12b|3:12b]], [[Zohar 9.04 - Rav Metivta#^z3-163b|163b]]. On “master of the house” (applied to both Jacob and Moses), see *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-21b|1:21b]], [[Zohar 2.05 - Parashat Toledot#^z1-138b|138b]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-152b|152b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-236b|236b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-239a|239a]]; [[Zohar 4.04 - Parashat Va-Era#^z2-22b|2:22b]], [[Zohar 6.06 - Parashat Pequdei#^z2-235b|235b]], [[Zohar 6.06 - Parashat Pequdei#^z2-238b|238b]], [[Zohar 6.06 - Parashat Pequdei#^z2-244b|244b]] (*Heikh*); [[Zohar 9.04 - Rav Metivta#^z3-163b|3:163b]]. Cf. 2:99b. See [[Torah 36 - Beha'alotcha#^12-7|Numbers 12:7]]: *Not so My servant Moses, in all My house he is trusted*.
 
     On Moses as *ish ha-elohim*, see *Pesiqta de-Rav Kahana, nispaḥim, Vezot Haberakhah*, 443–44, 448 (variants); *Tanḥuma, Vezot Haberakhah* 2 (*Ets Yosef*, ad loc.); *Devarim Rabbah* (Lieberman) on 33:1; *Midrash Tehillim* 90:5; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-6b|1:6b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-21b|21b–22a]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-148a|148a]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-152a|152a–b]], [[Zohar 3.04 - Parashat Va-Yeshev#^z1-192b|192b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-236b|236b]]; [[Zohar 3.07 - Parashat Va-Yhi#^z1-239a|239a]]; [[Zohar 4.04 - Parashat Va-Era#^z2-22b|2:22b]], [[Zohar 6.06 - Parashat Pequdei#^z2-235b|235b]], [[Zohar 6.06 - Parashat Pequdei#^z2-238b|238b]], [[Zohar 6.06 - Parashat Pequdei#^z2-244b|244b]] (*Heikh*); [[Zohar 9.12 - Parashat Va-Ethannan#^z3-261b|3:261b]]; Moses de León, *Sefer ha-Rimmon*, 25; idem, *Sheqel ha-Qodesh*, 101–2 (129).
 
-    According to rabbinic tradition, after encountering God on Mount Sinai, Moses abstained from sexual contact with his wife and maintained union with *Shekhinah*. See *Sifrei*, Numbers 99; BT *Shabbat* 87a; *Devarim Rabbah* 11:10; *Tanḥuma, Tsav* 13; Maimonides, *Mishneh Torah, Hilkhot Yesodei ha-Torah* 7:6; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-22a|1:22a]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-152b|152b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-234b|234b]]; [[Zohar 6.06 - Parashat Pequdei#^z2-222a|2:222a]]; [[Zohar 8.10 - Commentary on Naso, continued#^z3-148a|3:148a]], [[Zohar 9.07 - Parashat Huqqat#^z3-180a|180a]], [[Zohar 9.12 - Parashat Va-Ethannan#^z3-261b|261b]]; *ZḤ* [[Zohar 10.11 - Parashat Ki Tetse#^zh-59b|59b]], 72d (*ShS*).
+    According to rabbinic tradition, after encountering God on Mount Sinai, Moses abstained from sexual contact with his wife and maintained union with *Shekhinah*. See *Sifrei*, Numbers 99; BT [[Shabbat 87#87a|*Shabbat* 87a]]; *Devarim Rabbah* 11:10; *Tanḥuma, Tsav* 13; Maimonides, *Mishneh Torah, Hilkhot Yesodei ha-Torah* 7:6; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-22a|1:22a]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-152b|152b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-234b|234b]]; [[Zohar 6.06 - Parashat Pequdei#^z2-222a|2:222a]]; [[Zohar 8.10 - Commentary on Naso, continued#^z3-148a|3:148a]], [[Zohar 9.07 - Parashat Huqqat#^z3-180a|180a]], [[Zohar 9.12 - Parashat Va-Ethannan#^z3-261b|261b]]; *ZḤ* [[Zohar 10.11 - Parashat Ki Tetse#^zh-59b|59b]], 72d (*ShS*).
 
 [^190]: **In his image…** In *Tif’eret*, the divine image of Jacob, abides the mystery of *ḥashmal* (see above, note 188). The angelic camps of Uriel (who corresponds to *Tif’eret*) convey this light below.
 
@@ -1819,7 +1819,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     On the primordial light, see *Vayiqra Rabbah* 11:7: “Rabbi Yehudah son of Rabbi Simon said, ‘With the light created by the blessed Holy One on the first day, one could gaze and see from one end of the universe to the other. When the Holy One foresaw the corruption of the generation of Enosh and the generation of the Flood, He hid it away from them, as is written: *The light of the wicked is withheld* ([[Job 38#^38-15|Job 38:15]]). Where did He hide it? In the Garden of Eden. *Light is sown for the righteous, joy for the upright in heart* ([[Psalms 097#^97-11|Psalms 97:11]]).’”
 
-    See *Bereshit Rabbah* 3:6; 41:3; BT *Ḥagigah* 12a; *Shemot Rabbah 35:1; Tanḥuma, Shemini*, 9; *Bahir* 97–98 (147); *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-7a|1:7a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-31b|31b–32a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-45b|45b–46a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-47a|47a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-59a|59a]], [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-131a|131a]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-203b|203b]]; [[Zohar 4.05 - Parashat Bo#^z2-35a|2:35a]], [[Zohar 5.05 - Parashat Terumah#^z2-127a|127a]], [[Zohar 5.05 - Parashat Terumah#^z2-148b|148b–149a]], [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-220a|220a–b]]; [[Zohar 8.03 - Parashat Qedoshim#^z3-88a|3:88a]], [[Zohar 9.04 - Rav Metivta#^z3-173b|173b]]. On the generation of Enosh, see Vol. 3, p. 248, n. 408.
+    See *Bereshit Rabbah* 3:6; 41:3; BT [[Chagigah 12#12a|*Ḥagigah* 12a]]; *Shemot Rabbah 35:1; Tanḥuma, Shemini*, 9; *Bahir* 97–98 (147); *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-7a|1:7a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-31b|31b–32a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-45b|45b–46a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-47a|47a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-59a|59a]], [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-131a|131a]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-203b|203b]]; [[Zohar 4.05 - Parashat Bo#^z2-35a|2:35a]], [[Zohar 5.05 - Parashat Terumah#^z2-127a|127a]], [[Zohar 5.05 - Parashat Terumah#^z2-148b|148b–149a]], [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-220a|220a–b]]; [[Zohar 8.03 - Parashat Qedoshim#^z3-88a|3:88a]], [[Zohar 9.04 - Rav Metivta#^z3-173b|173b]]. On the generation of Enosh, see Vol. 3, p. 248, n. 408.
 
 [^192]: **that light… is called Twins…** This double light is appropriately called Twins, and the third month (corresponding to Uriel) is ruled by the constellation Gemini (which means Twins). The Torah was given in this month (Sivan); and Torah itself is a pair of twins, comprising Written Torah and Oral Torah.
 
@@ -1847,7 +1847,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^197]: **In the third month…** The Torah was given in the month of Sivan, to a nation composed of priests, Levites, and Israelites, who symbolize respectively the triple rungs of *Ḥesed, Gevurah*, and *Tif’eret*. The Torah itself is triple, comprising Pentateuch, Prophets, and Writings.
 
-    These triple formulations are based on rabbinic models. See *Pesiqta de-Rav Kahana* 12:13; BT *Shabbat* 88a; *Tanḥuma, Yitro* 10; *Tanḥuma* (Buber), *Yitro* 8; *Midrash Mishlei* 22.
+    These triple formulations are based on rabbinic models. See *Pesiqta de-Rav Kahana* 12:13; BT [[Shabbat 88#88a|*Shabbat* 88a]]; *Tanḥuma, Yitro* 10; *Tanḥuma* (Buber), *Yitro* 8; *Midrash Mishlei* 22.
 
 [^198]: **blessed Holy One gathered the seed…** God examined all the generations of Israel, from Abraham until those who stood at Mount Sinai.
 
@@ -1903,7 +1903,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^216]: **Then he asked him…** Rabbi Shim’on asked Rabbi Yose.
 
-[^217]: **Rav Hamnuna Sava** Historically, Rav Hamnuna Sava (the Elder) was a mid-third-century Babylonian teacher, but in the *Zohar* he is a contemporary of Rabbi Shim’on son of Yoḥai (who lived in the second century). In the Talmud, Rav Hamnuna occasionally transmits teachings of Rabbi Shim’on (e.g., BT *Ḥullin* 21a, *Temurah* 15a), and several prayers are attributed to him (BT *Berakhot* 11b, 17a, 58a). In the *Zohar* roles are reversed and Rabbi Shim’on cites Rav Hamnuna. Throughout the *Zohar*, Hamnuna is greatly revered, and several original ritual acts are attributed to him. The Book of Rav Hamnuna Sava is cited frequently. See Tishby, *Wisdom of the Zohar*, 1:60; Vol. 1, pp. 37–38, n. 257; above, p. 231 and n. 120.
+[^217]: **Rav Hamnuna Sava** Historically, Rav Hamnuna Sava (the Elder) was a mid-third-century Babylonian teacher, but in the *Zohar* he is a contemporary of Rabbi Shim’on son of Yoḥai (who lived in the second century). In the Talmud, Rav Hamnuna occasionally transmits teachings of Rabbi Shim’on (e.g., BT [[Chullin 21#21a|*Ḥullin* 21a]], [[Temurah 15#15a|*Temurah* 15a]]), and several prayers are attributed to him (BT [[Berakhot 11#11b|*Berakhot* 11b]], 17a, 58a). In the *Zohar* roles are reversed and Rabbi Shim’on cites Rav Hamnuna. Throughout the *Zohar*, Hamnuna is greatly revered, and several original ritual acts are attributed to him. The Book of Rav Hamnuna Sava is cited frequently. See Tishby, *Wisdom of the Zohar*, 1:60; Vol. 1, pp. 37–38, n. 257; above, p. 231 and n. 120.
 
 [^218]: **Concerning what Rabbi Yose said…** Again, Rabbi Yeisa points out the incompatibility of Rabbi Yose’s three interpretations of the verse in Proverbs. See above at note 215.
 
@@ -1917,7 +1917,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     Rabbi Yeisa’s concluding words (“But all is fine!”) apparently mean that he now understands how all of Rabbi Yose’s words cohere and pertain to the divine realm. See the preceding note.
 
-    On *be-hibbare’am*, see above, note 210. On the verse in Psalms, see *Mekhilta, Shirta* 9; *Sifra, Qedoshim* 10:11, 92d; *Avot de-Rabbi Natan* A, 4; JT *Yevamot* 11:1, 11d; BT *Sanhedrin* 58b; *Pirqei de-Rabbi Eli’ezer* 21; *Midrash Tehillim* 89:2; *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-230b|1:230b]]; [[Zohar 5.05 - Parashat Terumah#^z2-166b|2:166b]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-77a|3:77a]], [[Zohar 8.09 - Idra Rabba#^z3-133b|133b]] (*IR*), [[Zohar 8.10 - Commentary on Naso, continued#^z3-145b|145b]], [[Zohar 9.11 - Parashat Pinehas#^z3-259b|259b]]. Cf. *Bereshit Rabbah* 12:15; Vol. 3, pp. 392–93, n. 453.
+    On *be-hibbare’am*, see above, note 210. On the verse in Psalms, see *Mekhilta, Shirta* 9; *Sifra, Qedoshim* 10:11, 92d; *Avot de-Rabbi Natan* A, 4; JT *Yevamot* 11:1, 11d; BT [[Sanhedrin 58#58b|*Sanhedrin* 58b]]; *Pirqei de-Rabbi Eli’ezer* 21; *Midrash Tehillim* 89:2; *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-230b|1:230b]]; [[Zohar 5.05 - Parashat Terumah#^z2-166b|2:166b]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-77a|3:77a]], [[Zohar 8.09 - Idra Rabba#^z3-133b|133b]] (*IR*), [[Zohar 8.10 - Commentary on Naso, continued#^z3-145b|145b]], [[Zohar 9.11 - Parashat Pinehas#^z3-259b|259b]]. Cf. *Bereshit Rabbah* 12:15; Vol. 3, pp. 392–93, n. 453.
 
 [^221]: ***What is his name?*—granted…** Rabbi Yeisa realizes that *his name* refers to the divine name; but how is one to interpret *what is his son’s name?*
 
@@ -1935,11 +1935,11 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     See *Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-156a|1:156a]] (*ST*), [[Zohar 3.07 - Parashat Va-Yhi#^z1-216a|216a]]; [[Zohar 4.05 - Parashat Bo#^z2-37a|2:37a]], [[Zohar 4.07 - Parashat Yitro#^z2-85b|85b]], [[Zohar 6.06 - Parashat Pequdei#^z2-240b|240b]], [[Zohar 12.05 - Heikhalot Pequdei#^z2-258a|258a]] (*Heikh*); [[Zohar 8.04 - Parashat Emor#^z3-106a|3:106a]], [[Zohar 8.08 - Parashat Naso#^z3-127b|127b]] (*IR*), [[Zohar 8.09 - Idra Rabba#^z3-141b|141b]] (*IR*), [[Zohar 8.09 - Idra Rabba#^z3-143a|143a]] (*IR*), [[Zohar 8.09 - Idra Rabba#^z3-144a|144a]] (*IR*), [[Zohar 9.11 - Parashat Pinehas#^z3-214b|214b]], [[Zohar 9.16 - Commentary on Ha'azinu, continued#^z3-297a|297a]]; *ZḤ* 85d (*MhN, Rut*); *OY*; Liebes, *Studies in the Zohar*, 175–76, n. 99. On *Shekhinah* as field, see Vol. 2, p. 206, n. 22.
 
-[^226]: **If one comes to purify himself…** See BT *Shabbat* 104a, in the name of Resh Lakish: “If one comes to defile himself, he is provided an opening; if one comes to purify himself, he is assisted.”
+[^226]: **If one comes to purify himself…** See BT [[Shabbat 104#104a|*Shabbat* 104a]], in the name of Resh Lakish: “If one comes to defile himself, he is provided an opening; if one comes to purify himself, he is assisted.”
 
     *Elohim* is a name of *Shekhinah*, while *YHVH* designates *Tif’eret*. Thus, once Moses climbed to the rung of *Shekhinah*, he was invited to ascend even higher. See Naḥmanides on [[Torah 17 - Yitro#^19-3|Exodus 19:3]], 20.
 
-    On the passage in *Shabbat*, see BT *Yoma* 39a; Ezra of Gerona, *Peirush le-Shir ha-Shirim*, 528–29; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-53b|1:53b]]–54a, [[Zohar 1.07 - Parashat Be-Reshit#^z1-56b|56b]], [[Zohar 1.08 - Parashat Noah#^z1-62a|62a]], [[Zohar 1.08 - Parashat Noah#^z1-76b|76b]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-88b|88b]], [[Zohar 2.03 - Parashat Va-Yera#^z1-99b|99b]], [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-125b|125b]], [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-129b|129b]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-169b|169b]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-195b|195b]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-198b|198b]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-200a|200a]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-50a|2:50a]]; [[Zohar 7.06 - Parashat Tazri'a#^z3-47a|3:47a]]; Moses de León, *Sefer ha-Rimmon*, 28; idem, *Sheqel ha-Qodesh*, 14–15 (17–18). Cf. BT *Makkot* 10b: “Rabbah son of Bar Ḥana said in the name of Rabbi Huna (some say, Rabbi Huna said in the name of Rabbi El’azar), ‘From the Torah, the Prophets, and the Writings it can be demonstrated that one is led on the path one wishes to take.’”
+    On the passage in *Shabbat*, see BT [[Yoma 39#39a|*Yoma* 39a]]; Ezra of Gerona, *Peirush le-Shir ha-Shirim*, 528–29; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-53b|1:53b]]–54a, [[Zohar 1.07 - Parashat Be-Reshit#^z1-56b|56b]], [[Zohar 1.08 - Parashat Noah#^z1-62a|62a]], [[Zohar 1.08 - Parashat Noah#^z1-76b|76b]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-88b|88b]], [[Zohar 2.03 - Parashat Va-Yera#^z1-99b|99b]], [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-125b|125b]], [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-129b|129b]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-169b|169b]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-195b|195b]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-198b|198b]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-200a|200a]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-50a|2:50a]]; [[Zohar 7.06 - Parashat Tazri'a#^z3-47a|3:47a]]; Moses de León, *Sefer ha-Rimmon*, 28; idem, *Sheqel ha-Qodesh*, 14–15 (17–18). Cf. BT [[Makkot 10#10b|*Makkot* 10b]]: “Rabbah son of Bar Ḥana said in the name of Rabbi Huna (some say, Rabbi Huna said in the name of Rabbi El’azar), ‘From the Torah, the Prophets, and the Writings it can be demonstrated that one is led on the path one wishes to take.’”
 
 [^227]: ***YHVH called to him*…** The verse concludes: *“Thus shall you say to the house of Jacob and tell the Children of Israel.”*
 
@@ -1963,17 +1963,17 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     The association of תאמר (*tomar*), *(you) will say*, with Judgment, and תגיד (*taggeid*), *(you) will tell*, with Compassion, reverses the midrashic interpretation, according to which *tomar* indicates a gentler tone addressed to the women, while *taggeid* conveys a stricter or harsher tone addressed to the men. This reversal accords with the kabbalistic portrayal of *Shekhinah* as characterized by *Din* (Judgment), and *Tif’eret* by *Raḥamim* (Compassion)—His alternative name. Women derive from *Shekhinah*, men from *Tif’eret*, and at Sinai each group was addressed accordingly.
 
-    The linking of the verb הגיד (*higgid*), “to tell,” with *covenant* may be based on the rabbinic usage of גיד (*gid*), “sinew, tendon,” as a euphemism for phallus (e.g., M *Yevamot* 8:2; BT *Qiddushin* 25a). In [[Torah 50 - Ki Tavo#^26-3|Deuteronomy 26:3]], *told* appears with *YHVH*, the divine name associated with *Tif’eret*.
+    The linking of the verb הגיד (*higgid*), “to tell,” with *covenant* may be based on the rabbinic usage of גיד (*gid*), “sinew, tendon,” as a euphemism for phallus (e.g., M *Yevamot* 8:2; BT [[Kiddushin 25#25a|*Qiddushin* 25a]]). In [[Torah 50 - Ki Tavo#^26-3|Deuteronomy 26:3]], *told* appears with *YHVH*, the divine name associated with *Tif’eret*.
 
-    On the midrashic contrast of *tomar, you will say*, and *taggeid, you will tell*, see *Mekhilta, Baḥodesh* 2; *Leqaḥ Tov, Sekhel Tov*, and *Midrash Aggadah*, [[Torah 17 - Yitro#^19-3|Exodus 19:3]]; Rashi on [[Torah 17 - Yitro#^19-3|Exodus 19:3]]. Cf. BT *Shabbat* 87a, in the name of Rabbi Yehudah ha-Nasi: “משה‎ ויגד (*Vayagged Mosheh*), *And Moses told* ([[Torah 17 - Yitro#^19-9|Exodus 19:9]])—words that draw one’s heart like *aggadah*.” See Emden’s note of surprise in *Zohorei Ya’bets*. On אמר (*amar*), “to say,” and הגיד (*higgid*), “to tell,” in the *Zohar*, see 1:16b, 86b, 157a, 234b, 249a; 2:25b; 3:50b, 132b–133a (*IR*), 161a, 292b–293a (*IZ*), 298b; *[[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-70c|ZḤ* 70c]]–d (*ShS*). See below, note 238; *NZ*.
+    On the midrashic contrast of *tomar, you will say*, and *taggeid, you will tell*, see *Mekhilta, Baḥodesh* 2; *Leqaḥ Tov, Sekhel Tov*, and *Midrash Aggadah*, [[Torah 17 - Yitro#^19-3|Exodus 19:3]]; Rashi on [[Torah 17 - Yitro#^19-3|Exodus 19:3]]. Cf. BT [[Shabbat 87#87a|*Shabbat* 87a]], in the name of Rabbi Yehudah ha-Nasi: “משה‎ ויגד (*Vayagged Mosheh*), *And Moses told* ([[Torah 17 - Yitro#^19-9|Exodus 19:9]])—words that draw one’s heart like *aggadah*.” See Emden’s note of surprise in *Zohorei Ya’bets*. On אמר (*amar*), “to say,” and הגיד (*higgid*), “to tell,” in the *Zohar*, see 1:16b, 86b, 157a, 234b, 249a; 2:25b; 3:50b, 132b–133a (*IR*), 161a, 292b–293a (*IZ*), 298b; *[[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-70c|ZḤ* 70c]]–d (*ShS*). See below, note 238; *NZ*.
 
 [^233]: **Since we have reached this…** Namely, this verse, describing the ritual of bringing the first fruits. It reads in full: *You shall come to the priest who will be in those days, and you shall say to him, “I have told today to YHVH your God that I have come to the land which YHVH swore to our fathers to give to us.”*
 
 [^234]: **Is this the only one?…** Numerous verses read *YHVH your God* and not *YHVH our God*.
 
-[^235]: **Whoever lives in the land of Israel…** See BT *Ketubbot* 110b. According to Rabbi Shim’on, the seed of Israel, which issues from *Shekhinah*, attains fulfillment only in the Holy Land, the dwelling place of *Shekhinah*. Since Moses was condemned to die before entering the land, when addressing Israel in all these verses in Deuteronomy (“everywhere”), he said *your God* rather than *our God*—thereby excluding himself and emphasizing that only his audience was about to enter and greet *Shekhinah*.
+[^235]: **Whoever lives in the land of Israel…** See BT [[Ketubot 110#110b|*Ketubbot* 110b]]. According to Rabbi Shim’on, the seed of Israel, which issues from *Shekhinah*, attains fulfillment only in the Holy Land, the dwelling place of *Shekhinah*. Since Moses was condemned to die before entering the land, when addressing Israel in all these verses in Deuteronomy (“everywhere”), he said *your God* rather than *our God*—thereby excluding himself and emphasizing that only his audience was about to enter and greet *Shekhinah*.
 
-    On the statement in *Ketubbot*, see *Sifra, Behar* 5:4, 109c; *Tosefta Avodah Zarah* 4:5; *Avot de-Rabbi Natan* A, 26; BT *Avodah Zarah* 8a; *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-95b|1:95b]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-153a|153a]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-177a|177a]]; [[Zohar 4.03 - Parashat Shemot#^z2-9a|2:9a]]; [[Zohar 9.12 - Parashat Va-Ethannan#^z3-266b|3:266b]]. On instances where, in fact, Moses does say *YHVH our God*, see Emden, *Zohorei Ya’bets*; *NZ*; cf. *Zohar* [[Zohar 9.12 - Parashat Va-Ethannan#^z3-265a|3:265a]]. For a different interpretation of Moses’ saying *YHVH your God*, see *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-51a|1:51a]]. Cf. *OY*; *MM*.
+    On the statement in *Ketubbot*, see *Sifra, Behar* 5:4, 109c; *Tosefta Avodah Zarah* 4:5; *Avot de-Rabbi Natan* A, 26; BT [[Avodah Zarah 8#8a|*Avodah Zarah* 8a]]; *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-95b|1:95b]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-153a|153a]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-177a|177a]]; [[Zohar 4.03 - Parashat Shemot#^z2-9a|2:9a]]; [[Zohar 9.12 - Parashat Va-Ethannan#^z3-266b|3:266b]]. On instances where, in fact, Moses does say *YHVH our God*, see Emden, *Zohorei Ya’bets*; *NZ*; cf. *Zohar* [[Zohar 9.12 - Parashat Va-Ethannan#^z3-265a|3:265a]]. For a different interpretation of Moses’ saying *YHVH your God*, see *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-51a|1:51a]]. Cf. *OY*; *MM*.
 
 [^236]: **Here, however, is written…** In this verse describing the ritual of bringing the first fruits, the people are already dwelling in the Holy Land, so the individual presenting the first fruits should say *our God*, not *your God*. Rabbi Shim’on explains that in saying *your God* to the officiating priest, the Israelite is acknowledging the quality of *Ḥesed* (the symbol and source of priesthood) and offering thanks for the divine gift of the land and its fruits.
 
@@ -2007,13 +2007,13 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^247]: **Chameleon…** The two-headed creature bemoans his lowly fate.
 
-    “Chameleon” renders זקיטא (*zaqita*). See BT *Sanhedrin* 108b; *DE*. Cf. *Ma’arikh*, s.v. *zqt*.
+    “Chameleon” renders זקיטא (*zaqita*). See BT [[Sanhedrin 108#108b|*Sanhedrin* 108b]]; *DE*. Cf. *Ma’arikh*, s.v. *zqt*.
 
 [^248]: **concealed this wisdom… so that they will not stray…** By relying on the wisdom and forgetting its divine source.
 
     According to rabbinic tradition, King Hezekiah concealed a book of remedies. Rashi explains that he did this because otherwise the sick would recover so quickly that they would not humble their hearts and pray to God for healing.
 
-    See M *Pesaḥim* 4:9; *Avot de-Rabbi Natan* A, 2; JT *Pesaḥim 9:1*, 36c–d; BT *Berakhot* 10b (and Rashi, ad loc.), *Pesaḥim* 56a (and Rashi, ad loc.); Maimonides, *Commentary on the Mishnah, Pesaḥim* 4:10; Ginzberg, *Legends*, 6:369, n. 90; Scholem.
+    See M *Pesaḥim* 4:9; *Avot de-Rabbi Natan* A, 2; JT *Pesaḥim 9:1*, 36c–d; BT [[Berakhot 10#10b|*Berakhot* 10b]] (and Rashi, ad loc.), [[Pesachim 56#56a|*Pesaḥim* 56a]] (and Rashi, ad loc.); Maimonides, *Commentary on the Mishnah, Pesaḥim* 4:10; Ginzberg, *Legends*, 6:369, n. 90; Scholem.
 
 [^249]: **There is not a single grass…** See *Bereshit Rabbah* 10:6, in the name of Rabbi Simon: “You cannot find a single blade of grass \[below (per Oxford MS 147)\] that does not have a constellation in the sky, striking it and telling it: ‘Grow!’”
 
@@ -2043,11 +2043,11 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^257]: ***no breasts*… no merits or good deeds…** For this symbolism, see *Bereshit Rabbah* 39:3; *Shir ha-Shirim Rabbah* on 8:8.
 
-    On breasts as constituting a woman’s beauty, see *Vayiqra Rabbah* 24:6; BT *Berakhot* 10b; *Zohar* [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-45a|1:45a]] (*Heikh*).
+    On breasts as constituting a woman’s beauty, see *Vayiqra Rabbah* 24:6; BT [[Berakhot 10#10b|*Berakhot* 10b]]; *Zohar* [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-45a|1:45a]] (*Heikh*).
 
 [^258]: ***What will we do for our sister?*…** According to a rabbinic tradition, God’s revelation at Mount Sinai was so overwhelming that the people of Israel died momentarily and had to be revived.
 
-[^259]: **three days that they did not couple conjugally…** According to the instruction given in [[Torah 17 - Yitro#^19-15|Exodus 19:15]]: *Ready yourselves for three days; do not go near a woman*. The male Israelites’ preparations for the experience of Revelation entailed abstaining from sexual contact. See the view of Rabbi Yose in BT *Shabbat* 86b–87a; *MM*; *MmD*. Cf. Milgrom, *Leviticus*, 928–34, 1000–1004.
+[^259]: **three days that they did not couple conjugally…** According to the instruction given in [[Torah 17 - Yitro#^19-15|Exodus 19:15]]: *Ready yourselves for three days; do not go near a woman*. The male Israelites’ preparations for the experience of Revelation entailed abstaining from sexual contact. See the view of Rabbi Yose in BT [[Shabbat 86#86b|*Shabbat* 86b]]–87a; *MM*; *MmD*. Cf. Milgrom, *Leviticus*, 928–34, 1000–1004.
 
     The angels sanctify God’s name in heaven, and correspondingly the people of Israel sanctify His name on earth in prayer.
 
@@ -2081,7 +2081,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     At the turn of each season, as control passes from one ruling angel (or one lower *sefirah*) to another, the power of harsh Judgment momentarily prevails and one of the lower sefirotic voices (or specifically, the voice of *Tif’eret*) is interrupted. However, the rich voice of *Binah* resounds constantly.
 
-    On the dangerous transition from season to season, see *Maḥazor Vitri*, add., 15; *Sha’arei Teshuvah (Teshuvot ha-Ge’onim)*, 80; *Zohar* [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-195b|2:195b]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-15b|3:15b]]; *Sefer Abudarham, Sha’ar ha-Tequfot*; Aptowitzer, “Issur Shetiyyat Mayim bi-Sh’at ha-Tequfah,” 122–26; Ginzberg, “La-Ḥadashim Yevaqqer,” 184–86; Scholem. Cf. BT *Eruvin* 56a.
+    On the dangerous transition from season to season, see *Maḥazor Vitri*, add., 15; *Sha’arei Teshuvah (Teshuvot ha-Ge’onim)*, 80; *Zohar* [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-195b|2:195b]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-15b|3:15b]]; *Sefer Abudarham, Sha’ar ha-Tequfot*; Aptowitzer, “Issur Shetiyyat Mayim bi-Sh’at ha-Tequfah,” 122–26; Ginzberg, “La-Ḥadashim Yevaqqer,” 184–86; Scholem. Cf. BT [[Eruvin 56#56a|*Eruvin* 56a]].
 
 [^267]: **Voice issues only from…air and water…** According to Rabbi Yehudah, each of the lower sefirotic voices blends the qualities of *Tif’eret* (symbolized by air) and *Ḥesed* (symbolized by water). The abbreviated spelling, קלת (*qolot*), signifies this blending of two into one. See *OY*; *MmD*. For a somewhat different interpretation, see *MM*.
 
@@ -2107,7 +2107,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^275]: **Inmost of all…** From the depths of *Binah*, who is called *a mighty voice, unceasing*.
 
-    See above, note 266. On *Binah* as *a mighty voice*, see also *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-50b|1:50b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-237a|237a]]. The verse reads: *These words YHVH spoke to your whole assembly at the mountain from the midst of the fire, the cloud, and the dense fog—a mighty voice, adding no more*. The final expression, יסף‎ ולא (*ve-lo yasaf*), means literally *and He did not add*. Here, Rabbi Yose follows a midrashic interpretation of the clause: “it did not cease.” See *Targum Onqelos* on the verse: פסיק‎ ולא (*ve-la pasiq*), “and it did not cease.” See JT *Megillah* 1:4, 70d; BT *Sotah* 10b, *Sanhedrin* 17a; *Bemidbar Rabbah* 20:21; Rashi, *Leqaḥ Tov*, and Naḥmanides on the verse. Cf. *Shemot Rabbah* 28:6.
+    See above, note 266. On *Binah* as *a mighty voice*, see also *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-50b|1:50b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-237a|237a]]. The verse reads: *These words YHVH spoke to your whole assembly at the mountain from the midst of the fire, the cloud, and the dense fog—a mighty voice, adding no more*. The final expression, יסף‎ ולא (*ve-lo yasaf*), means literally *and He did not add*. Here, Rabbi Yose follows a midrashic interpretation of the clause: “it did not cease.” See *Targum Onqelos* on the verse: פסיק‎ ולא (*ve-la pasiq*), “and it did not cease.” See JT *Megillah* 1:4, 70d; BT [[Sotah 10#10b|*Sotah* 10b]], [[Sanhedrin 17#17a|*Sanhedrin* 17a]]; *Bemidbar Rabbah* 20:21; Rashi, *Leqaḥ Tov*, and Naḥmanides on the verse. Cf. *Shemot Rabbah* 28:6.
 
 [^276]: ***seeing* הקולת (*ha-qolot*), *the thunderings*…קלין (*qalin*), voices…** Again, the word קול (*qol*) means “voice, sound, thunder.”
 
@@ -2123,7 +2123,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^278]: **הקולת‎ את (*Et ha-qolot*), *The voices*… יהוה‎ את (*et YHVH*), *YHVH*…** Grammatically, the word את (*et*) is almost always an accusative particle with no clear independent sense. However, already in rabbinic times, Naḥum of Gimzo and his disciple Rabbi Akiva taught that the presence of *et* in a biblical verse amplifies the apparent meaning. Here, as often in the *Zohar*, את (*et*) alludes to *Shekhinah*, who comprises the totality of divine speech, the entire alphabet from א (*alef*) to ת (*tav*). At Sinai, Israel saw the divine voices through the medium of *Shekhinah*. Similarly, Isaiah saw the manifestation of *Shekhinah*.
 
-    On *et*, see BT *Pesaḥim* 22b, *Ḥagigah* 12a. On its significance in the verse from Isaiah, see *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-18a|1:18a]], [[Zohar 1.08 - Parashat Noah#^z1-60a|60a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-237a|237a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-247a|247a]]. The Masoretic text reads: *I saw* אדני‎ את (*et Adonai*), *my Lord*.
+    On *et*, see BT [[Pesachim 22#22b|*Pesaḥim* 22b]], [[Chagigah 12#12a|*Ḥagigah* 12a]]. On its significance in the verse from Isaiah, see *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-18a|1:18a]], [[Zohar 1.08 - Parashat Noah#^z1-60a|60a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-237a|237a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-247a|247a]]. The Masoretic text reads: *I saw* אדני‎ את (*et Adonai*), *my Lord*.
 
 [^279]: **הארץ‎ ואת‎ השמים‎ את (*et ha-shamayim ve-et ha-arets*)…** In this verse et amplifies the meaning to include *Ḥesed*, while *ve-et* includes *Gevurah*. Similarly in the verses in Exodus and Proverbs, the word *et* expands the sense of the verse.
 
@@ -2141,9 +2141,9 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     On all Ten Commandments being spoken simultaneously, see *Mekhilta, Shirta* 8; *Baḥodesh* 4; *Mekhilta de-Rashbi* on [[Torah 16 - Beshalach#^15-11|Exodus 15:11]]; [[Torah 17 - Yitro#^20-1|20:1]]; *Sifrei*, Numbers 42, 102, 111; *Tanḥuma, Yitro* 11; *Bemidbar Rabbah* 11:7.
 
-    On the two different versions of the Ten Commandments being spoken simultaneously, see *Mekhilta, Baḥodesh* 7; *Mekhilta de-Rashbi*, [[Torah 17 - Yitro#^20-8|Exodus 20:8]]; *Midrash Tanna’im*, [[Torah 45 - Vaetchanan#^5-12|Deuteronomy 5:12]]; JT *Nedarim* 3:2, 37d; BT *Rosh ha-Shanah* 27a.
+    On the two different versions of the Ten Commandments being spoken simultaneously, see *Mekhilta, Baḥodesh* 7; *Mekhilta de-Rashbi*, [[Torah 17 - Yitro#^20-8|Exodus 20:8]]; *Midrash Tanna’im*, [[Torah 45 - Vaetchanan#^5-12|Deuteronomy 5:12]]; JT *Nedarim* 3:2, 37d; BT [[Rosh Hashanah 27#27a|*Rosh ha-Shanah* 27a]].
 
-    On Israel hearing only the first two of the Ten Commandments directly from God, see BT *Makkot* 23b–24a, *Horayot* 8a; *Pirqei de-Rabbi Eli’ezer* 41; *Tanḥuma, Vayelekh* 2; *Shemot Rabbah* 33:7; *Leqaḥ Tov*, [[Torah 17 - Yitro#^20-14|Exodus 20:14]]; above, note 262. For the quotation of the verse in Psalms in this specific context, see *Pirqei de-Rabbi Eli’ezer* 41; *Tanḥuma, Vayelekh* 2; Rashi on [[Torah 37 - Sh'lach#^15-22|Numbers 15:22]] and on BT *Makkot* 24a, s.v. *mi-pi ha-gevurah*.
+    On Israel hearing only the first two of the Ten Commandments directly from God, see BT [[Makkot 23#23b|*Makkot* 23b]]–24a, [[Horayot 8#8a|*Horayot* 8a]]; *Pirqei de-Rabbi Eli’ezer* 41; *Tanḥuma, Vayelekh* 2; *Shemot Rabbah* 33:7; *Leqaḥ Tov*, [[Torah 17 - Yitro#^20-14|Exodus 20:14]]; above, note 262. For the quotation of the verse in Psalms in this specific context, see *Pirqei de-Rabbi Eli’ezer* 41; *Tanḥuma, Vayelekh* 2; Rashi on [[Torah 37 - Sh'lach#^15-22|Numbers 15:22]] and on BT [[Makkot 24#24a|*Makkot* 24a]], s.v. *mi-pi ha-gevurah*.
 
     For various interpretations, see *OY*; Galante; *MM*; *Sullam*; *MmD*.
 
@@ -2183,7 +2183,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^292]: **To shatter the four kingdoms** That subjugated Israel, namely, Babylonia, Persia, Greece, and Rome. According to Rabbi Yose, this vision appeared to the prophet Ezekiel so that he could reassure and comfort his people who had recently been exiled to Babylon.
 
-    Cf. BT *Ḥagigah* 13b: *“A stormy wind coming from the north*…. Where did it go? Rav Yehudah said in the name of Rav: ‘It went to conquer the whole world under the wicked Nebuchadnezzar \[king of Babylon\], And why all this? So that the nations of the world would not say: “The blessed Holy One delivered His children into the hand of a lowly nation.”’”
+    Cf. BT [[Chagigah 13#13b|*Ḥagigah* 13b]]: *“A stormy wind coming from the north*…. Where did it go? Rav Yehudah said in the name of Rav: ‘It went to conquer the whole world under the wicked Nebuchadnezzar \[king of Babylon\], And why all this? So that the nations of the world would not say: “The blessed Holy One delivered His children into the hand of a lowly nation.”’”
 
     See *Zohar* [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-203a|2:203a]]; *ZḤ* [[Zohar 12.10 - Merkevet Yehezqel#^zh-38a|38a–b]]. On the four kingdoms, see Ginzberg, *Legends*, 5:223, n. 82.
 
@@ -2207,7 +2207,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     Here חשמל (*ḥashmal*) is interpreted as an acronymic abbreviation of ממללות‎ אש‎ חיות (*ḥayyot esh memallelot*), “fiery beings speaking.” In Ezekiel’s vision, the four *ḥayyot*, (angelic) “living beings,” carry the divine chariot-throne. The context (1:4–5) reads: *I looked, and here, a stormy wind coming from the north, a great cloud and flashing fire, and a radiance surrounding it; and from within it, like the color of ḥashmal, amber, from within the fire. And from within it, an image of four ḥayyot, living beings, and this was their appearance: they had the image of a human*.
 
-    The interpretation of *ḥashmal* as an abbreviation appears in BT *Ḥagigah* 13a–b: “What is חשמל (*ḥashmal*)? Rav Yehudah said, ‘ממללות‎ אש‎ חיות (*ḥayyot esh memallelot*), Fiery beings speaking.’”
+    The interpretation of *ḥashmal* as an abbreviation appears in BT [[Chagigah 13#13a|*Ḥagigah* 13a]]–b: “What is חשמל (*ḥashmal*)? Rav Yehudah said, ‘ממללות‎ אש‎ חיות (*ḥayyot esh memallelot*), Fiery beings speaking.’”
 
 [^298]: ***Ḥashmal*—heart of fire…** The holy kernel, *ḥashmal*, lies within the four shells described by Ezekiel (“after four rungs”).
 
@@ -2223,7 +2223,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^301]: **Happy is his share…** Moses saw God more directly and fully than any other human.
 
-    See BT *Yevamot* 49b: “All the prophets gazed through an opaque glass, whereas Moses our teacher gazed through a translucent glass.” The phrase “an opaque glass” renders מאירה‎ שאינה‎ אספקלריא (*ispaqlarya she-einah me’irah*), “an *ispaqlarya* that does not shine.” The phrase “a translucent glass” renders המאירה‎ אספקלריא (*ispaqlarya ha-me’irah*), “an *ispaqlarya* that shines.” The word *ispaqlarya* derives from Greek *speklon*, “mirror, window-pane,” and Latin *speculum*, “mirror.”
+    See BT [[Yevamot 49#49b|*Yevamot* 49b]]: “All the prophets gazed through an opaque glass, whereas Moses our teacher gazed through a translucent glass.” The phrase “an opaque glass” renders מאירה‎ שאינה‎ אספקלריא (*ispaqlarya she-einah me’irah*), “an *ispaqlarya* that does not shine.” The phrase “a translucent glass” renders המאירה‎ אספקלריא (*ispaqlarya ha-me’irah*), “an *ispaqlarya* that shines.” The word *ispaqlarya* derives from Greek *speklon*, “mirror, window-pane,” and Latin *speculum*, “mirror.”
 
     In the *Zohar, Tif’eret* (Moses’ *sefirah*) is the *ispaqlarya* that shines, while *Shekhinah* is the *ispaqlarya* that does not shine on its own but rather reflects the other *sefirot*. Here, Rabbi Yehudah is apparently implying that Moses gazed upon God through his *sefirah*—*Tif’eret*, the *ispaqlarya* that shines—not through the medium of *Shekhinah*. The word “vision” (in the phrase “some other vision”) renders חיזו (*ḥeizu*), which can also mean “mirror.”
 
@@ -2239,7 +2239,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^303]: **Coming for sustenance…** Rabbi Yehudah indicates that Ezekiel’s profound vision was essential due to the national emergency: the stunned people of Israel, exiled in Babylon, had to be comforted and reassured of God’s continuing presence. See above, pp. 3–5.
 
-    On God accompanying the people of Israel in exile, see BT *Megillah* 29a: “Rabbi Shim’on son of Yoḥai says, ‘Come and see how beloved are Israel in the sight of the blessed Holy One! Wherever they went in exile, *Shekhinah* accompanied them. When they were exiled to Egypt, *Shekhinah* was with them…. When they were exiled to Babylon, *Shekhinah* was with them…. And even when they are destined to be redeemed, *Shekhinah* will be with them.’” See above, p. 91, n. 79.
+    On God accompanying the people of Israel in exile, see BT [[Megillah 29#29a|*Megillah* 29a]]: “Rabbi Shim’on son of Yoḥai says, ‘Come and see how beloved are Israel in the sight of the blessed Holy One! Wherever they went in exile, *Shekhinah* accompanied them. When they were exiled to Egypt, *Shekhinah* was with them…. When they were exiled to Babylon, *Shekhinah* was with them…. And even when they are destined to be redeemed, *Shekhinah* will be with them.’” See above, p. 91, n. 79.
 
 [^304]: **he saw and did not see…** Rabbi El’azar interprets the phrase היה‎ היה (*hayoh hayah*), *happening it happened*, as implying that Ezekiel’s vision *happened* incompletely. Israel, on the other hand, saw the divine voices directly, each of them according to his capacity and virtue.
 
@@ -2281,13 +2281,13 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^313]: **One spoke in general, the other in detail…** Rabbi Yose explains that Isaiah spoke in general terms, whereas Ezekiel offered a rich description.
 
-    See BT *Ḥagigah* 13b, in the name of Rava: “All that Ezekiel saw, Isaiah saw. What does Ezekiel resemble? A villager who saw the king. And what does Isaiah resemble? A city-dweller who saw the king.” To the rustic, the sight of the king is a novelty and he records his impressions at length, whereas the city-dweller is familiar with seeing royalty and feels no need to indulge in lengthy description. See Rashi and *Tosafot*, ad loc.
+    See BT [[Chagigah 13#13b|*Ḥagigah* 13b]], in the name of Rava: “All that Ezekiel saw, Isaiah saw. What does Ezekiel resemble? A villager who saw the king. And what does Isaiah resemble? A city-dweller who saw the king.” To the rustic, the sight of the king is a novelty and he records his impressions at length, whereas the city-dweller is familiar with seeing royalty and feels no need to indulge in lengthy description. See Rashi and *Tosafot*, ad loc.
 
     Rabbi Yose adds that Ezekiel’s detailed account was for the benefit of his desperate listeners, exiled in Babylon, reassuring them that God had not abandoned them. See above, note 303.
 
 [^314]: ***in the land of the Chaldeans*…** Why would *Shekhinah* reveal Herself in such a degraded land—inhabited by *the Chaldeans*, who do not deserve to exist? Because otherwise, Rabbi Ḥiyya explains, the exiled Israelites would not have realized that God was dwelling among them.
 
-    On the negative evaluation of the Chaldeans, see JT *Ta’anit* 3:4, 66c; BT *Sukkah* 52b. The full verse in Ezekiel reads: *It happened that the word of YHVH came to Ezekiel the priest, son of Buzi, in the land of the Chaldeans by the River Kevar, and there the hand of YHVH came upon him*.
+    On the negative evaluation of the Chaldeans, see JT *Ta’anit* 3:4, 66c; BT [[Sukkah 52#52b|*Sukkah* 52b]]. The full verse in Ezekiel reads: *It happened that the word of YHVH came to Ezekiel the priest, son of Buzi, in the land of the Chaldeans by the River Kevar, and there the hand of YHVH came upon him*.
 
 [^315]: ***By the River Kevar*…** Whose waters were undefiled by the impurity of the land. Rabbi Ḥiyya associates the river’s name, כבר (*kevar*), *Kevar*, with its homonym: כבר (*kevar*), “already,” which implies that this River of Already has existed since the beginning of Creation. According to a midrashic tradition, *the River Kevar* is identical with the Euphrates, one of four riverheads issuing from the primordial river of Eden. The Garden of Eden was the dwelling place of *Shekhinah*.
 
@@ -2301,7 +2301,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^317]: **As above, so below…** The sefirotic חיות (*ḥayyot*), *living beings*, are archetypes of the angelic *ḥayyot*, who inhabit various worlds.
 
-[^318]: **Moses saw through an *ispaqlarya*…** See BT *Yevamot* 49b: “All the prophets gazed through an opaque glass, whereas Moses our teacher gazed through a translucent glass.” The phrase “an opaque glass” renders מאירה‎ שאינה‎ אספקלריא (*ispaqlarya she-einah me’irah*), “an *ispaqlarya* that does not shine.” The phrase “a translucent glass” renders המאירה‎ אספקלריא (*ispaqlarya ha-me’irah*), “an *ispaqlarya* that shines.” The word *ispaqlarya* derives from Greek *speklon*, “mirror, window-pane,” and Latin *speculum*, “mirror.”
+[^318]: **Moses saw through an *ispaqlarya*…** See BT [[Yevamot 49#49b|*Yevamot* 49b]]: “All the prophets gazed through an opaque glass, whereas Moses our teacher gazed through a translucent glass.” The phrase “an opaque glass” renders מאירה‎ שאינה‎ אספקלריא (*ispaqlarya she-einah me’irah*), “an *ispaqlarya* that does not shine.” The phrase “a translucent glass” renders המאירה‎ אספקלריא (*ispaqlarya ha-me’irah*), “an *ispaqlarya* that shines.” The word *ispaqlarya* derives from Greek *speklon*, “mirror, window-pane,” and Latin *speculum*, “mirror.”
 
     In the *Zohar, Tif’eret* (Moses’ *sefirah*) is the *ispaqlarya* that shines, while *Shekhinah* is the *ispaqlarya* that does not shine on its own but rather reflects the other *sefirot*. Thus, Moses gazed upon God directly through *Tif’eret* (the *ispaqlarya* that shines), whereas other prophets saw only through the medium of *Shekhinah*. See above, note 301.
 
@@ -2325,7 +2325,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^323]: **613 types of advice…** Namely, the 613 commandments of Torah.
 
-    On the 613 commandments, see *Pesiqta de-Rav Kahana* 12:1; BT *Makkot* 23b. On Torah as advice, see *Sifrei*, Deuteronomy 322; *Midrash Tanna’im*, [[Torah 53 - Ha'Azinu#^32-28|Deuteronomy 32:28]]; BT *Avodah Zarah* 17b; *Pesiqta de-Rav Kahana* 12:12; *Shir ha-Shirim Rabbah* on 8:5; Maimonides, *Mishneh Torah, Hilkhot Temurah* 4:3.
+    On the 613 commandments, see *Pesiqta de-Rav Kahana* 12:1; BT [[Makkot 23#23b|*Makkot* 23b]]. On Torah as advice, see *Sifrei*, Deuteronomy 322; *Midrash Tanna’im*, [[Torah 53 - Ha'Azinu#^32-28|Deuteronomy 32:28]]; BT [[Avodah Zarah 17#17b|*Avodah Zarah* 17b]]; *Pesiqta de-Rav Kahana* 12:12; *Shir ha-Shirim Rabbah* on 8:5; Maimonides, *Mishneh Torah, Hilkhot Temurah* 4:3.
 
 [^324]: **Whatever reward…** A person’s essential reward is reserved for the world that is coming, a purely divine realm; anything granted to him in this world is paid out of that sum.
 
@@ -2337,7 +2337,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     The phrase “vestibule of a stairway” renders דסיקלא‎ פרוזדא (*perozda de-siqla*). The first word is a playful variant on פרוזדור (*perozdor*), “vestibule.” *Siqla* derives from Latin *scala*, “staircase, ladder, gangway.”
 
-    On *siqla*, see *Tosefta Shabbat* 13:14, *Bava Batra* 4:1; JT *Bava Batra* 5:1, 15a; BT *Bava Batra* 73a; *Arukh ha-Shalem*, s.v. *seqila; Zohar* 3:296b (*IZ*); Lieberman, *Tosefta ki-Fshutah*, 3:219; 10:369. The printed editions of the *Zohar* eliminate this rare word, while several manuscripts (including M5, R1) record the Zoharic neologism טיקלא (*tiqla*), one of whose meanings is “scale” (see above, p. 329, n. 462). The form *siqla* is preserved in O2 and O17.
+    On *siqla*, see *Tosefta Shabbat* 13:14, *Bava Batra* 4:1; JT *Bava Batra* 5:1, 15a; BT [[Bava Batra 73#73a|*Bava Batra* 73a]]; *Arukh ha-Shalem*, s.v. *seqila; Zohar* 3:296b (*IZ*); Lieberman, *Tosefta ki-Fshutah*, 3:219; 10:369. The printed editions of the *Zohar* eliminate this rare word, while several manuscripts (including M5, R1) record the Zoharic neologism טיקלא (*tiqla*), one of whose meanings is “scale” (see above, p. 329, n. 462). The form *siqla* is preserved in O2 and O17.
 
 [^326]: ***Levi has had no portion*…** Unlike the other tribes, Levi received no tribal territory but were dispersed throughout the areas of the other tribes. They were supported by the income of the sanctuaries so that they could devote themselves to serving God. See [[Torah 48 - Shoftim#^18-1|Deuteronomy 18:1–2]]; Tigay, *Deuteronomy*, 106, 169–70.
 
@@ -2355,7 +2355,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     The full verse in Daniel reads: *I was seeing in night visions, and behold, with the clouds of heaven came one like a human being; he reached the Ancient of Days and was brought before Him*.
 
-    On the divine splendor, see BT *Berakhot* 17a: “A pearl in the mouth of Rav: ‘In the world that is coming, there is no eating or drinking or procreation or business or jealousy or hatred or competition; rather, the righteous sit with their crowns on their heads, basking in the splendor of *Shekhinah*.’”
+    On the divine splendor, see BT [[Berakhot 17#17a|*Berakhot* 17a]]: “A pearl in the mouth of Rav: ‘In the world that is coming, there is no eating or drinking or procreation or business or jealousy or hatred or competition; rather, the righteous sit with their crowns on their heads, basking in the splendor of *Shekhinah*.’”
 
 [^329]: **על (*al*), *upon, the heights of the earth—al, above*…** The hyperliteral reading of על (*al*) as *above* implies that the righteous will ride above *Shekhinah*, who is known as *earth*—that is, they will occupy the rung of *Tif’eret*, known as heaven as well as *YHVH*.
 
@@ -2383,7 +2383,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     On the animating power of dew, see *Pirqei de-Rabbi Eli’ezer* 34: “Rabbi Yehudah said, ‘… In the time to come, the blessed Holy One will bring down a dew of revival, reviving the dead….*For Your dew is a dew of lights*… ([[Isaiah 26#^26-19|Isaiah 26:19]]).’ Rabbi Tanḥum said, ‘… From where does it descend? From the head of the blessed Holy One. In the time to come, He will shake the hair of His head and bring down a dew of revival, reviving the dead, as is said: *I was asleep, but my heart was awake…. For my head is drenched with dew* ([[Song of Songs 5#^5-2|Song of Songs 5:2]]).’”
 
-    See *Midrash ha-Gadol*, [[Torah 06 - Toldot#^27-27|Genesis 27:27]]; JT *Berakhot* 5:2, 9b; BT *Ḥagigah* 12b, *Shabbat* 88b; *Pirqei de-Rabbi Eli’ezer* 32–33; *Tanḥuma* (Buber), *Toledot* 19; *Zohar* [[Zohar 10.06 - Parashat Va-Yera#^z1-118a|1:118a]] (*MhN*), [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-130b|130b–131a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-225b|225b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-232a|232a]]; [[Zohar 4.04 - Parashat Va-Era#^z2-28b|2:28b]]; [[Zohar 8.09 - Idra Rabba#^z3-128b|3:128b]] (*IR*), [[Zohar 8.09 - Idra Rabba#^z3-135b|135b]] (*IR*), [[Zohar 9.15 - Idra Zuta#^z3-288a|288a]] (*IZ*), [[Zohar 9.15 - Idra Zuta#^z3-292b|292b]] (*IZ*); Moses de León, *Sefer ha-Mishqal*, 88–89. The full verse in [[Isaiah 26#^26-1|Isaiah 26]] reads: *Your dead will live, my corpses will arise. Awake and shout for joy, O dwellers in the dust! For Your dew is a dew of lights, and the earth will give birth to spirits of the dead*.
+    See *Midrash ha-Gadol*, [[Torah 06 - Toldot#^27-27|Genesis 27:27]]; JT *Berakhot* 5:2, 9b; BT [[Chagigah 12#12b|*Ḥagigah* 12b]], [[Shabbat 88#88b|*Shabbat* 88b]]; *Pirqei de-Rabbi Eli’ezer* 32–33; *Tanḥuma* (Buber), *Toledot* 19; *Zohar* [[Zohar 10.06 - Parashat Va-Yera#^z1-118a|1:118a]] (*MhN*), [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-130b|130b–131a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-225b|225b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-232a|232a]]; [[Zohar 4.04 - Parashat Va-Era#^z2-28b|2:28b]]; [[Zohar 8.09 - Idra Rabba#^z3-128b|3:128b]] (*IR*), [[Zohar 8.09 - Idra Rabba#^z3-135b|135b]] (*IR*), [[Zohar 9.15 - Idra Zuta#^z3-288a|288a]] (*IZ*), [[Zohar 9.15 - Idra Zuta#^z3-292b|292b]] (*IZ*); Moses de León, *Sefer ha-Mishqal*, 88–89. The full verse in [[Isaiah 26#^26-1|Isaiah 26]] reads: *Your dead will live, my corpses will arise. Awake and shout for joy, O dwellers in the dust! For Your dew is a dew of lights, and the earth will give birth to spirits of the dead*.
 
     The full verse in Genesis reads: *May God give you of the dew of heaven and the fat of the earth, abundance of grain and new wine*.
 
@@ -2391,11 +2391,11 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^336]: **Why ימלל (*yemallel*), *can utter*?…** Why this unusual verb, rather than the more common word ידבר (*yedabber*), “speak”? Rabbi Ḥiyya explains that the word ימלל (*yemallel*), *utter*, is linked with the expression *pluck* מלילות (*melilot*), *ears* (of corn). The verse in Psalms implies that no one can “pluck” or eliminate all of God’s גבורות (*gevurot*), *mighty acts*—divine decrees of judgment issuing from *Binah*, who is the source of *Gevurah*. The plural—*gevurot, mighty acts*—emphasizes how numerous these are.
 
-    The verse in Psalms concludes: *or declare all His praise*? See BT *Megillah* 18a; *Midrash Tehillim* 19:2; *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-241b|1:241b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-249a|249a]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-64a|2:64a–b]]; [[Zohar 8.09 - Idra Rabba#^z3-137b|3:137b]] (*IR*), [[Zohar 9.15 - Idra Zuta#^z3-294a|294a]] (*IZ*).
+    The verse in Psalms concludes: *or declare all His praise*? See BT [[Megillah 18#18a|*Megillah* 18a]]; *Midrash Tehillim* 19:2; *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-241b|1:241b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-249a|249a]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-64a|2:64a–b]]; [[Zohar 8.09 - Idra Rabba#^z3-137b|3:137b]] (*IR*), [[Zohar 9.15 - Idra Zuta#^z3-294a|294a]] (*IZ*).
 
 [^337]: **One supernal *Gevurah*…** *Binah*, source of the *sefirah* of *Gevurah* and of the divine decrees of judgment, which are known as גבורות (*gevurot*), *mighty acts* (see the preceding note). *Binah* is the Divine Mother of all the lower *sefirot*, which are known as crowns.
 
-    The image of fifty gates of *Binah* derives from BT *Rosh ha-Shanah* 21b, where Rav and Shemu’el teach: “Fifty gates of בינה (*binah*), understanding, were created in the world, all of which were given to Moses except for one, as is said: *You made him little less than God* ([[Psalms 008#^8-6|Psalms 8:6]]).”
+    The image of fifty gates of *Binah* derives from BT [[Rosh Hashanah 21#21b|*Rosh ha-Shanah* 21b]], where Rav and Shemu’el teach: “Fifty gates of בינה (*binah*), understanding, were created in the world, all of which were given to Moses except for one, as is said: *You made him little less than God* ([[Psalms 008#^8-6|Psalms 8:6]]).”
 
     “Tunic” renders קרדיטי (*qarditei*), which apparently derives from כרדוט (*kardut*), “a sleeved tunic” (based on Greek *cheiridotos*). See *Targum Yonatan*, [[I Samuel 02#^2-18|1 Samuel 2:18]]; [[II Samuel 06#^6-14|2 Samuel 6:14]]; [[II Samuel 13#^13-18|13:18]]; *Targum*, [[I Chronicles 15#^15-27|1 Chronicles 15:27]]; above, note 295; *DE*; *NO*; Scholem.
 
@@ -2409,7 +2409,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     The present tense of the verb in Genesis—יוצא (*yotse*), *issues*—indicates that the river of *Binah* flows continually. See *Zohar* [[Zohar 7.08 - Parashat Aharei Mot#^z3-65b|3:65b]], [[Zohar 9.12 - Parashat Va-Ethannan#^z3-267b|267b]].
 
-    On *Yuval* as the name of the primordial river, see *Vayiqra Rabbah* 22:10 (in the name of Rabbi Shim’on); BT *Bekhorot* 55b (in the name of Rabbi Me’ir); *Zohar* [[Zohar 5.03 - Parashat Mishpatim#^z2-98b|2:98b]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-58a|3:58a]], [[Zohar 8.04 - Parashat Emor#^z3-97a|97a]], [[Zohar 9.15 - Idra Zuta#^z3-290b|290b]] (*IZ*); Moses de León, *Shushan Edut*, 335; idem, *Sefer ha-Rimmon*, 106; idem, *Sheqel ha-Qodesh*, 56 (69). יוּבַל (*Yuval*) is a near homonym of יוֹבֵל (*yovel*), “Jubilee,” another of *Binah*’s names. See below, note 358.
+    On *Yuval* as the name of the primordial river, see *Vayiqra Rabbah* 22:10 (in the name of Rabbi Shim’on); BT [[Bekhorot 55#55b|*Bekhorot* 55b]] (in the name of Rabbi Me’ir); *Zohar* [[Zohar 5.03 - Parashat Mishpatim#^z2-98b|2:98b]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-58a|3:58a]], [[Zohar 8.04 - Parashat Emor#^z3-97a|97a]], [[Zohar 9.15 - Idra Zuta#^z3-290b|290b]] (*IZ*); Moses de León, *Shushan Edut*, 335; idem, *Sefer ha-Rimmon*, 106; idem, *Sheqel ha-Qodesh*, 56 (69). יוּבַל (*Yuval*) is a near homonym of יוֹבֵל (*yovel*), “Jubilee,” another of *Binah*’s names. See below, note 358.
 
     The full verse in Jeremiah reads: *He will be like a tree planted by water, spreading its roots by a stream; it does not fear* \[or: *see, sense*\] *when heat comes and its leaves are fresh; in a year of drought it is not anxious and does not cease yielding fruit*.
 
@@ -2417,9 +2417,9 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^341]: ***God spoke*…** The verse continues: *all these words, saying*, introducing the Ten Commandments.
 
-    The verb וידבר (*vaydabber*), *spoke*, is more intensive than its alternative, ויאמר (*va-yomer*), “said.” See *Sifra, Shemini* 2:7, 47c; *Sifrei*, Numbers 99; BT *Makkot* 10b–11a; *Leqaḥ Tov* and *Sekhel Tov* on [[Torah 14 - Vaera#^6-2|Exodus 6:2]]; *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-86b|1:86b]]; [[Zohar 8.09 - Idra Rabba#^z3-132b|3:132b–133a]] (*IR*); above, p. 74 and n. 15. Cf. p. 93, n. 84.
+    The verb וידבר (*vaydabber*), *spoke*, is more intensive than its alternative, ויאמר (*va-yomer*), “said.” See *Sifra, Shemini* 2:7, 47c; *Sifrei*, Numbers 99; BT [[Makkot 10#10b|*Makkot* 10b]]–11a; *Leqaḥ Tov* and *Sekhel Tov* on [[Torah 14 - Vaera#^6-2|Exodus 6:2]]; *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-86b|1:86b]]; [[Zohar 8.09 - Idra Rabba#^z3-132b|3:132b–133a]] (*IR*); above, p. 74 and n. 15. Cf. p. 93, n. 84.
 
-    According to a rabbinic tradition, God’s revelation at Mount Sinai was so overwhelming that the people of Israel died momentarily and had to be revived. See above, note 258. On the animating power of dew, see BT *Shabbat* 88b; above, note 334.
+    According to a rabbinic tradition, God’s revelation at Mount Sinai was so overwhelming that the people of Israel died momentarily and had to be revived. See above, note 258. On the animating power of dew, see BT [[Shabbat 88#88b|*Shabbat* 88b]]; above, note 334.
 
     According to another rabbinic tradition, thirteen rivers of balsam await the righteous in the world that is coming. Here, the rivers turn into mountains.
 
@@ -2433,7 +2433,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     “A treasure ship” renders אסקופא (*isquppa*), which may mean both “yard of a ship” and “threshold.” Cf. Greek *skaphe*, and אסקפא (*isqapha*), “skiff, light boat.” The image here may derive from *Midrash Mishlei* 31:14, where Joseph is compared to “a ship filled with all the finest of the world.”
 
-    In *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-3a|3a]] (*MhN*), *isquppa* refers to the “threshold” beneath which household valuables were buried. See BT *Berakhot* 18b; Rashi on BT *Mo’ed Qatan* 11a, s.v. *tsinnor;* idem on [[Joshua 24#^24-26|Joshua 24:26]].
+    In *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-3a|3a]] (*MhN*), *isquppa* refers to the “threshold” beneath which household valuables were buried. See BT [[Berakhot 18#18b|*Berakhot* 18b]]; Rashi on BT *Mo’ed Qatan* 11a, s.v. *tsinnor;* idem on [[Joshua 24#^24-26|Joshua 24:26]].
 
     See *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-46b|1:46b]], [[Zohar 1.08 - Parashat Noah#^z1-67a|67a]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-69a|3:69a]]; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-88c|ZḤ* 88c]] (*MhN, Rut*); *Bei’ur ha-Millim ha-Zarot*, 173; *DE*; *NO*; Scholem, *Major Trends*, 165, 388, n. 47; Lieberman, *Tosefta ki-Fshutah*, 10:369–70.
 
@@ -2441,7 +2441,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     On the seventy faces of Torah, see *Bemidbar Rabbah* 13:16, where Torah is compared to wine: “Just as יין (*yayin*), wine, is numerically equivalent to seventy, so Torah assumes seventy faces.” See *Otiyyot de-Rabbi Aqiva* (*Battei Midrashot*, 2:354); Vol. 1, p. 257, n. 1167. On the seventy branches, see *Zohar* [[#^z2-89a|2:89a]], [[Zohar 4.07 - Parashat Yitro#^z2-92b|92b]] (*RM*), [[Zohar 5.05 - Parashat Terumah#^z2-133b|133b]].
 
-    The number seventy appears in the context of revelation in BT *Shabbat* 88b, in the name of Rabbi Yoḥanan: “Every utterance emerging from the mouth of Power branched into seventy languages \[of humanity\].” See *Sefer Ḥanokh* (*Beit ha-Midrash*, 2:116); Ibn Ezra, introduction to Commentary on the Torah; *Zohar* [[Zohar 1.026a|1:26a]] (*TZ*), 47b, 54a; 3:160a.
+    The number seventy appears in the context of revelation in BT [[Shabbat 88#88b|*Shabbat* 88b]], in the name of Rabbi Yoḥanan: “Every utterance emerging from the mouth of Power branched into seventy languages \[of humanity\].” See *Sefer Ḥanokh* (*Beit ha-Midrash*, 2:116); Ibn Ezra, introduction to Commentary on the Torah; *Zohar* [[Zohar 1.026a|1:26a]] (*TZ*), 47b, 54a; 3:160a.
 
     On the forty-nine aspects, see *Midrash Tehillim* 12:4, in the name of Rabbi Yannai: “With every utterance that the blessed Holy One spoke to Moses, He offered forty-nine aspects of ‘pure’ and forty-nine aspects of ‘impure.’”
 
@@ -2449,13 +2449,13 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     On the image of *a hammer shattering rock*, see *Leqaḥ Tov*, [[Torah 17 - Yitro#^20-2|Exodus 20:2]]: “In the School of Rabbi Yishma’el it was taught: *‘Is not My word like fire,’ declares YHVH, ‘and like a hammer shattering rock?’* Just as a hammer is split into many sparks, so every single utterance issuing from the mouth of the blessed Holy One splits into many meanings.”
 
-    See *Sifrei*, Numbers 42; BT *Shabbat* 88b (and Rashi and *Tosafot*, ad loc., s.v. *mah pattish*), *Sanhedrin* 34a (and *Tosafot*, ad loc., s.v. *mah pattish*).
+    See *Sifrei*, Numbers 42; BT [[Shabbat 88#88b|*Shabbat* 88b]] (and Rashi and *Tosafot*, ad loc., s.v. *mah pattish*), [[Sanhedrin 34#34a|*Sanhedrin* 34a]] (and *Tosafot*, ad loc., s.v. *mah pattish*).
 
 [^344]: **Israel saw eye-to-eye…** They saw the divine word directly. See above at notes 276–79: *All of Israel were seeing the voices* ([[Torah 17 - Yitro#^20-14|Exodus 20:14]]).
 
     In its original context, the quotation from Deuteronomy pertains not to Sinai but rather to the establishment of the covenant between God and Israel on the plains of Moab. Moses declares to the Israelites: *Not with you alone do I seal this covenant and this oath, but with whoever is here standing with us today before YHVH our God and with whoever is not here with us today*. According to a midrashic interpretation, Moses is actually describing the revelation at Sinai and indicating that the souls of all future generations are also present, even though physically they are *not here with us today*.
 
-    See *Pirqei de-Rabbi Eli’ezer* 41; *Tanḥuma, Yitro* 11, *Pequdei* 3, *Nitsavim* 3; *Tanḥuma* (Buber), *Nitsavim* 3; *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-91a|1:91a]]. Cf. BT *Shabbat* 146a; *Shemot Rabbah* 28:6. On seeing “eye-to-eye,” see above, p. 319, n. 425. On each soul receiving her own fitting revelation, see *Shemot Rabbah* 28:6; cf. above, note 304.
+    See *Pirqei de-Rabbi Eli’ezer* 41; *Tanḥuma, Yitro* 11, *Pequdei* 3, *Nitsavim* 3; *Tanḥuma* (Buber), *Nitsavim* 3; *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-91a|1:91a]]. Cf. BT [[Shabbat 146#146a|*Shabbat* 146a]]; *Shemot Rabbah* 28:6. On seeing “eye-to-eye,” see above, p. 319, n. 425. On each soul receiving her own fitting revelation, see *Shemot Rabbah* 28:6; cf. above, note 304.
 
 [^345]: **אלהים (*Elohim*), *God—Gevurah*** The name *Elohim* is associated with *Gevurah*, the divine left hand, by which Torah was given.
 
@@ -2491,7 +2491,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     Here Rabbi Yitsḥak alters the interpretation of the word *saying* from “concerning fornication” (based on the verse *Saying: If a man divorces his wife*) to simply “(concerning) a wife,” namely, the divine wife.
 
-    See BT *Sanhedrin* 56a–b; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-35b|1:35b]]–36a, [[Zohar 1.08 - Parashat Noah#^z1-60a|60a]]; [[Zohar 6.06 - Parashat Pequdei#^z2-239b|2:239b]]; [[Zohar 3.027a|3:27a]].
+    See BT [[Sanhedrin 56#56a|*Sanhedrin* 56a]]–b; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-35b|1:35b]]–36a, [[Zohar 1.08 - Parashat Noah#^z1-60a|60a]]; [[Zohar 6.06 - Parashat Pequdei#^z2-239b|2:239b]]; [[Zohar 3.027a|3:27a]].
 
 [^357]: **whoever engages in Torah is saved from another fire…** By engaging in Torah, which was given in fire and darkness, Israel is saved from the fire of Hell and the darkness of subjugation in exile.
 
@@ -2509,7 +2509,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     According to the Bible, every seventh year is a Sabbatical, during which the land must lie fallow and at the end of which all debts are remitted ([[Torah 32 - Behar#^25-1|Leviticus 25:1–24]]; [[Torah 47 - Re'eh#^15-1|Deuteronomy 15:1–3]]). After seven Sabbaticals comes the Jubilee, proclaimed every fifty years, when slaves are released and land reverts to its original owner ([[Torah 32 - Behar#^25-8|Leviticus 25:8–55]]).
 
-    In Kabbalah the Jubilee symbolizes *Binah*, who in general is characterized by the number fifty, based on BT *Rosh ha-Shanah* 21b, where Rav and Shemu’el teach: “Fifty gates of בינה (*binah*), understanding, were created in the world, all of which were given to Moses except for one, as is said: *You made him little less than God* ([[Psalms 008#^8-6|Psalms 8:6]]).” As Jubilee, *Binah* is the source of liberation, including the liberation from Egyptian bondage.
+    In Kabbalah the Jubilee symbolizes *Binah*, who in general is characterized by the number fifty, based on BT [[Rosh Hashanah 21#21b|*Rosh ha-Shanah* 21b]], where Rav and Shemu’el teach: “Fifty gates of בינה (*binah*), understanding, were created in the world, all of which were given to Moses except for one, as is said: *You made him little less than God* ([[Psalms 008#^8-6|Psalms 8:6]]).” As Jubilee, *Binah* is the source of liberation, including the liberation from Egyptian bondage.
 
     On *Binah* and the Exodus, and the significance of the fifty days from the Exodus to Sinai, see above, p. 215 and n. 55. The full verse in Leviticus reads: *You shall hallow the fiftieth year and proclaim a release in the land to all of its inhabitants. A jubilee it shall be for you, and you shall go back each man to his holding and each man to his clan, you shall go back*.
 
@@ -2523,7 +2523,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     The continuation here may mean “and all of the Ten Commandments (symbolizing the ten *sefirot*) appeared in these voices, blending with them, adorned with *Binah*.” See *OY*; Galante; *MmD*. For another interpretation, see *MM*.
 
-    On the Torah being given in five voices (based on multiple references to *voice* and *voices* in [[Torah 17 - Yitro#^19-16|Exodus 19:16]], 19), see BT *Berakhot* 6b; above, note 299.
+    On the Torah being given in five voices (based on multiple references to *voice* and *voices* in [[Torah 17 - Yitro#^19-16|Exodus 19:16]], 19), see BT [[Berakhot 6#6b|*Berakhot* 6b]]; above, note 299.
 
 [^362]: **Jubilee crowned the blessed Holy One…** *Binah* (the Divine Mother) crowned *Tif’eret* (the blessed Holy One).
 
@@ -2537,7 +2537,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^363]: ***Your father and mother will rejoice*…** Alluding to *Ḥokhmah* and *Binah*, the divine parents of *Tif’eret*.
 
-    The interpretation of *father and mother* as divine parents probably derives from BT *Berakhot* 35b: “Rabbi Ḥanina son of Papa said, ‘Whoever enjoys this world without reciting a blessing—it is as if he robs the blessed Holy One and Assembly of Israel, as is said: *He who robs his father and mother and says, “It is no crime,” is partner to a destroyer* ([[Proverbs 28#^28-24|Proverbs 28:24]])—*father* is none other than the blessed Holy One… and *mother* is none other than Assembly of Israel.’”
+    The interpretation of *father and mother* as divine parents probably derives from BT [[Berakhot 35#35b|*Berakhot* 35b]]: “Rabbi Ḥanina son of Papa said, ‘Whoever enjoys this world without reciting a blessing—it is as if he robs the blessed Holy One and Assembly of Israel, as is said: *He who robs his father and mother and says, “It is no crime,” is partner to a destroyer* ([[Proverbs 28#^28-24|Proverbs 28:24]])—*father* is none other than the blessed Holy One… and *mother* is none other than Assembly of Israel.’”
 
     In this Talmudic passage, Assembly of Israel apparently refers to a supernal hypostasis (the mother of Israel), as it does regularly in Kabbalah, designating *Shekhinah*. See *Zohar* [[Zohar 7.06 - Parashat Tazri'a#^z3-44b|3:44b]]; Idel, *Kabbalah and Eros*, 27. Elsewhere in the *Zohar*, the couple mentioned in [[Proverbs 23#^23-1|Proverbs 23]]—*Your father and mother will rejoice*—alludes to *Tif’eret* and *Shekhinah*. See 3:55a, 61b, 119a, 156a; Moses de León, *Sefer ha-Rimmon*, 217, 349 (and Wolfson’s notes). Cf. *Zohar* [[#^z2-85a|2:85a]], [[Zohar 4.07 - Parashat Yitro#^z2-90a|90a]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-74a|3:74a]], [[Zohar 9.10 - Commentary on Balaq, continued#^z3-197b|197b]], [[Zohar 9.11 - Parashat Pinehas#^z3-213a|213a]], 277b (*RM*).
 
@@ -2567,7 +2567,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     The image of black fire on white fire is attributed to Rabbi Shim’on son of Lakish. See JT *Sheqalim* 6:2, 49d; *Shir ha-Shirim Rabbah* on 5:11; *Devarim Rabbah* 3:12; *Devarim Rabbah* (ed. Lieberman), p. 89; *Tanḥuma, Bereshit* 1; *Midrash Tehillim* 90:12; *Zohar* [[Zohar 6.06 - Parashat Pequdei#^z2-226b|2:226b]]; [[Zohar 8.09 - Idra Rabba#^z3-132a|3:132a]] (*IR*), [[Zohar 8.11 - Parashat Be-Ha'alotekha#^z3-154b|154b]]. On the verse in Deuteronomy, see above, p. 441 and n. 271; p. 466 and n. 360.
 
-[^370]: **wafting all fragrant aromas…** On the fragrance of the revelation at Sinai, see BT *Shabbat* 88b, in the name of Rabbi Yehoshu’a son of Levi: “With every single utterance issuing from the mouth of the blessed Holy One, the whole world was filled with spices.”
+[^370]: **wafting all fragrant aromas…** On the fragrance of the revelation at Sinai, see BT [[Shabbat 88#88b|*Shabbat* 88b]], in the name of Rabbi Yehoshu’a son of Levi: “With every single utterance issuing from the mouth of the blessed Holy One, the whole world was filled with spices.”
 
     The colors white, black, and red apparently symbolize *Ḥesed, Shekhinah*, and *Gevurah*, respectively. According to *Shir ha-Shirim Rabbah* on the verse, *myrrh* and *frankincense* symbolize respectively Abraham and Isaac, who are linked with *Ḥesed* and *Gevurah. All powders of the merchant* can allude to *Shekhinah*, who combines all the various divine qualities. The full verse reads: *Who is this rising from the wilderness like columns of smoke, perfumed with myrrh and frankincense, with all powders of the merchant?* See *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-10b|1:10b]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-176b|176b]]; [[Zohar 4.05 - Parashat Bo#^z2-37b|2:37b]], 117a (*RM*).
 
@@ -2581,7 +2581,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^373]: **When letters were engraved…** According to a rabbinic tradition, the engraving of the tablets of the Ten Commandments penetrated right through from one side to the other. Another tradition relates that these tablets were of sapphire.
 
-    On the engraving completely penetrating the tablets, see BT *Shabbat* 104a; Kasher, *Torah Shelemah*, [[Torah 21 - Ki Tisa#^32-15|Exodus 32:15]], n. 160. On the tablets of sapphire, see *Sifrei*, Numbers 101; *Vayiqra Rabbah* 32:2; *Shir ha-Shirim Rabbah* on 5:14; *Qohelet Rabbah* on 9:11; *Pirqei de-Rabbi Eli’ezer* 46; *Tanḥuma, Ki Tissa* 29. On the image of fire on the sapphire tablets, see *Leqaḥ Tov*, [[Torah 21 - Ki Tisa#^32-16|Exodus 32:16]]. On the image of black fire on white fire, see above, note 369.
+    On the engraving completely penetrating the tablets, see BT [[Shabbat 104#104a|*Shabbat* 104a]]; Kasher, *Torah Shelemah*, [[Torah 21 - Ki Tisa#^32-15|Exodus 32:15]], n. 160. On the tablets of sapphire, see *Sifrei*, Numbers 101; *Vayiqra Rabbah* 32:2; *Shir ha-Shirim Rabbah* on 5:14; *Qohelet Rabbah* on 9:11; *Pirqei de-Rabbi Eli’ezer* 46; *Tanḥuma, Ki Tissa* 29. On the image of fire on the sapphire tablets, see *Leqaḥ Tov*, [[Torah 21 - Ki Tisa#^32-16|Exodus 32:16]]. On the image of black fire on white fire, see above, note 369.
 
 [^374]: **tablets were in their natural form…** According to Rabbi Abba, apparently, the tablets were not penetrated or pierced; rather, letters of fire appeared upon them in white and black, symbolizing right and left. Although the verse in Deuteronomy seems to indicate that Torah was given solely from the right, actually it issued from the left and was included in the right.
 
@@ -2599,7 +2599,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^380]: **It is all!…** Rabbi Shim’on insists that the phrase *God’s work* applies to both the actual stones (as taught by Rabbi Yehudah) and their fashioning into tablets (as taught by Rabbi Yitsḥak). However, they originated long before the revelation at Sinai: the two tablets were among the things brought into being at the end of the week of Creation, “on Sabbath eve at twilight.”
 
-    See M *Avot* 5:6; *Avot de-Rabbi Natan* B, 37; *Mekhilta, Vayassa* 5; *Mekhilta de-Rashbi*, [[Torah 16 - Beshalach#^16-32|Exodus 16:32]]; *Sifrei*, Deuteronomy 355; *Midrash Tanna’im*, [[Torah 54 - V'Zot HaBerachah#^33-21|Deuteronomy 33:21]]; BT *Pesaḥim* 54a; *Pirqei de-Rabbi Eli’ezer* 19, 46. For various interpretations, see *OY*; Galante; *MM*; *Sullam*; *MmD*.
+    See M *Avot* 5:6; *Avot de-Rabbi Natan* B, 37; *Mekhilta, Vayassa* 5; *Mekhilta de-Rashbi*, [[Torah 16 - Beshalach#^16-32|Exodus 16:32]]; *Sifrei*, Deuteronomy 355; *Midrash Tanna’im*, [[Torah 54 - V'Zot HaBerachah#^33-21|Deuteronomy 33:21]]; BT [[Pesachim 54#54a|*Pesaḥim* 54a]]; *Pirqei de-Rabbi Eli’ezer* 19, 46. For various interpretations, see *OY*; Galante; *MM*; *Sullam*; *MmD*.
 
 [^381]: **from that supernal dew…** Emanating from *Keter* (the Holy Ancient One) through the *sefirot* to *Shekhinah*, the Holy Apple Orchard.
 
@@ -2619,7 +2619,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^384]: **From one side, the other side was visible…** Since the engraving penetrated right through the tablets, it was possible to read them from either the front or the back.
 
-    On the apparent problem of reading the words backward, see BT *Shabbat* 104a; Rashi and Baḥya ben Asher on [[Torah 21 - Ki Tisa#^32-15|Exodus 32:15]]; *Midrash ha-Gadol*, [[Torah 21 - Ki Tisa#^32-15|Exodus 32:15]]; Kasher, *Torah Shelemah*, [[Torah 21 - Ki Tisa#^32-15|Exodus 32:15]], nn. 160–160\*, 162.
+    On the apparent problem of reading the words backward, see BT [[Shabbat 104#104a|*Shabbat* 104a]]; Rashi and Baḥya ben Asher on [[Torah 21 - Ki Tisa#^32-15|Exodus 32:15]]; *Midrash ha-Gadol*, [[Torah 21 - Ki Tisa#^32-15|Exodus 32:15]]; Kasher, *Torah Shelemah*, [[Torah 21 - Ki Tisa#^32-15|Exodus 32:15]], nn. 160–160\*, 162.
 
 [^385]: **They were inscribed miraculously…** According to Rabbi El’azar, the divine word did not penetrate the tablets; rather, it was miraculous in a different, incomprehensible way. Five divine voices appeared as five commandments on the right tablet (beginning with *I am YHVH your God*), and similarly on the left (beginning with *You shall not murder*), but those on the left were included in those on the right. Astoundingly, by reading each commandment on the right tablet, one was able to see and read the corresponding commandment on the left, and vice versa.
 
@@ -2651,7 +2651,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^393]: ***I am YHVH your God*** The verse concludes: *who brought you out of the land of Egypt, out of a house of slaves*.
 
-[^394]: ***your father*—the blessed Holy One *…your mother*—Assembly of Israel** This interpretation of *your father* and *your mother* derives from BT *Berakhot* 35b: “Rabbi Ḥanina son of Papa said, ‘Whoever enjoys this world without reciting a blessing—it is as if he robs the blessed Holy One and Assembly of Israel, as is said: *He who robs his father and mother and says, “It is no crime,” is partner to a destroyer* ([[Proverbs 28#^28-24|Proverbs 28:24]])—*father* is none other than the blessed Holy One… and *mother* is none other than Assembly of Israel.’”
+[^394]: ***your father*—the blessed Holy One *…your mother*—Assembly of Israel** This interpretation of *your father* and *your mother* derives from BT [[Berakhot 35#35b|*Berakhot* 35b]]: “Rabbi Ḥanina son of Papa said, ‘Whoever enjoys this world without reciting a blessing—it is as if he robs the blessed Holy One and Assembly of Israel, as is said: *He who robs his father and mother and says, “It is no crime,” is partner to a destroyer* ([[Proverbs 28#^28-24|Proverbs 28:24]])—*father* is none other than the blessed Holy One… and *mother* is none other than Assembly of Israel.’”
 
     In this Talmudic passage, Assembly of Israel apparently refers to a supernal hypostasis (the mother of Israel), as it does regularly in Kabbalah. Here, Rabbi El’azar indicates that *your father* is *Tif’eret* (known as the blessed Holy One), while *your mother* is *Shekhinah* (known as Assembly of Israel). This divine couple engenders souls. See *Zohar* [[Zohar 7.06 - Parashat Tazri'a#^z3-44b|3:44b]], [[Zohar 7.08 - Parashat Aharei Mot#^z3-74a|74a]], [[Zohar 9.11 - Parashat Pinehas#^z3-213a|213a]]; above, note 363.
 
@@ -2669,7 +2669,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^398]: ***I—Shekhinah*…** This pronoun designates *Shekhinah*, who accompanies Israel in exile. See *Mekhilta, Shirta* 3: “When Israel went down to Egypt, *Shekhinah* went down with them, as is said: *I Myself will go down with you to Egypt.”*
 
-    See *Mekhilta de-Rashbi*, [[Torah 13 - Shemot#^3-8|Exodus 3:8]]; [[Torah 16 - Beshalach#^15-2|15:2]]; *Shemot Rabbah* 15:16; *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-222a|1:222a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-226a|226a]]; [[Zohar 10.10 - Parashat Shemot#^z2-4b|2:4b]] (*MhN*), all of which quote this verse. Cf. *Mekhilta, Pisḥa* 14; *Sifrei*, Numbers 84; JT *Ta’anit* 1:1, 64a; *Eikhah Rabbah* 1:54; BT *Megillah* 29a.
+    See *Mekhilta de-Rashbi*, [[Torah 13 - Shemot#^3-8|Exodus 3:8]]; [[Torah 16 - Beshalach#^15-2|15:2]]; *Shemot Rabbah* 15:16; *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-222a|1:222a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-226a|226a]]; [[Zohar 10.10 - Parashat Shemot#^z2-4b|2:4b]] (*MhN*), all of which quote this verse. Cf. *Mekhilta, Pisḥa* 14; *Sifrei*, Numbers 84; JT *Ta’anit* 1:1, 64a; *Eikhah Rabbah* 1:54; BT [[Megillah 29#29a|*Megillah* 29a]].
 
 [^399]: ***YHVH your God*—Assembly of Israel…** Usually in the *Zohar*, Assembly of Israel refers to *Shekhinah*, but here Rabbi Yose distinguishes between the two names, the former apparently designating *Binah*, the Divine Mother. The phrase *YHVH your God* refers to Her.
 
@@ -2693,11 +2693,11 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^406]: **All the commandments… are connected with the body of the King…** Each of the commandments of Torah is linked with a particular sefirotic limb. Traditionally, the 248 positive and 365 negative commandments of Torah correspond to the 248 limbs and 365 sinews of the human body. Here, the divine head corresponds to the highest three *sefirot* (*Keter, Ḥokhmah*, and *Binah*), the trunk of the body to *Tif’eret*, the hands to *Ḥesed* and *Gevurah*, the feet to *Netsaḥ* and *Hod*.
 
-    On the body of the King, see above, note 308. On the limbs of Torah, see Azriel of Gerona, *Peirush ha-Aggadot*, 37–39; *Zohar* [[Zohar 2.05 - Parashat Toledot#^z1-134b|1:134b]]; 2:118a (*RM*), [[Zohar 5.05 - Parashat Terumah#^z2-162b|162b]], [[Zohar 5.05 - Parashat Terumah#^z2-165b|165b]]; Scholem, *On the Kabbalah*, 44–50. On the 248 limbs of the human body (actually joints or bones covered with flesh and sinews), see M *Oholot* 1:8. On the significance of the 248 and 365 commandments, see BT *Makkot* 23b; *Pesiqta de-Rav Kahana* 12:1; El’azar ben Judah of Worms, *Peirushei Siddur ha-Tefillah la-Roqeaḥ*, 2:679.
+    On the body of the King, see above, note 308. On the limbs of Torah, see Azriel of Gerona, *Peirush ha-Aggadot*, 37–39; *Zohar* [[Zohar 2.05 - Parashat Toledot#^z1-134b|1:134b]]; 2:118a (*RM*), [[Zohar 5.05 - Parashat Terumah#^z2-162b|162b]], [[Zohar 5.05 - Parashat Terumah#^z2-165b|165b]]; Scholem, *On the Kabbalah*, 44–50. On the 248 limbs of the human body (actually joints or bones covered with flesh and sinews), see M *Oholot* 1:8. On the significance of the 248 and 365 commandments, see BT [[Makkot 23#23b|*Makkot* 23b]]; *Pesiqta de-Rav Kahana* 12:1; El’azar ben Judah of Worms, *Peirushei Siddur ha-Tefillah la-Roqeaḥ*, 2:679.
 
 [^407]: **like one who transgresses against the body of the King…** By fulfilling a commandment, a person strengthens the corresponding sefirotic limb; by transgressing a commandment, one impairs the corresponding limb and consequently his misdeed is exposed by that *sefirah*. For example, if a person violates a commandment linked with *Tif’eret* (known as the blessed Holy One and *heaven*), then that *sefirah* condemns him.
 
-    On causing a defect above, see BT *Sanhedrin* 74a (in the name of Rabbi Shim’on son of Yoḥai); *Zohar* [[Zohar 4.04 - Parashat Va-Era#^z2-26b|2:26b]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-16b|3:16b]], [[Zohar 7.08 - Parashat Aharei Mot#^z3-66a|66a]], [[Zohar 7.08 - Parashat Aharei Mot#^z3-79a|79a]], [[Zohar 9.16 - Commentary on Ha'azinu, continued#^z3-297a|297a–b]]. On the concept of weakening and strengthening God, see *Sifrei*, Deuteronomy 319; *Vayiqra Rabbah* 23:12; *Eikhah Rabbah* 1:33; *Pesiqta de-Rav Kahana* 25:1; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-57b|1:57b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-234b|234b]]; [[Zohar 4.05 - Parashat Bo#^z2-32b|2:32b]], [[Zohar 4.06 - Parashat Be-Shallah#^z2-64a|64a]], [[Zohar 4.06 - Parashat Be-Shallah#^z2-65b|65b]]. On the verse in Job, see *Zohar* [[Zohar 4.06 - Parashat Be-Shallah#^z2-56a|2:56a]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-23b|3:23b]], [[Zohar 8.04 - Parashat Emor#^z3-101a|101a]], [[Zohar 9.13 - Parashat Va-Yelekh#^z3-285a|285a]].
+    On causing a defect above, see BT [[Sanhedrin 74#74a|*Sanhedrin* 74a]] (in the name of Rabbi Shim’on son of Yoḥai); *Zohar* [[Zohar 4.04 - Parashat Va-Era#^z2-26b|2:26b]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-16b|3:16b]], [[Zohar 7.08 - Parashat Aharei Mot#^z3-66a|66a]], [[Zohar 7.08 - Parashat Aharei Mot#^z3-79a|79a]], [[Zohar 9.16 - Commentary on Ha'azinu, continued#^z3-297a|297a–b]]. On the concept of weakening and strengthening God, see *Sifrei*, Deuteronomy 319; *Vayiqra Rabbah* 23:12; *Eikhah Rabbah* 1:33; *Pesiqta de-Rav Kahana* 25:1; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-57b|1:57b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-234b|234b]]; [[Zohar 4.05 - Parashat Bo#^z2-32b|2:32b]], [[Zohar 4.06 - Parashat Be-Shallah#^z2-64a|64a]], [[Zohar 4.06 - Parashat Be-Shallah#^z2-65b|65b]]. On the verse in Job, see *Zohar* [[Zohar 4.06 - Parashat Be-Shallah#^z2-56a|2:56a]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-23b|3:23b]], [[Zohar 8.04 - Parashat Emor#^z3-101a|101a]], [[Zohar 9.13 - Parashat Va-Yelekh#^z3-285a|285a]].
 
 [^408]: ***earth* executes judgment…** Once *Tif’eret* (known as *heaven*) has exposed a person’s sin, *Shekhinah* (known as *earth*) punishes him.
 
@@ -2705,7 +2705,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^410]: ***I*…Abraham had a daughter…** According to a rabbinic tradition, Abraham was blessed with a daughter, who is alluded to in [[Torah 05 - Chayei Sara#^24-1|Genesis 24:1]]: *YHVH blessed Abraham* בכל (*ba-kol*), *with everything*—namely, with a daughter whose name was *ba-kol*. In Kabbalah, this daughter is identified with the divine daughter, *Shekhinah*. Abraham, who symbolizes *Ḥesed*, was intimately linked with Her.
 
-    See BT *Bava Batra* 16b; *Bahir* 52 (78); Naḥmanides on [[Torah 05 - Chayei Sara#^24-1|Genesis 24:1]]; *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-219a|1:219a]]; [[Zohar 4.05 - Parashat Bo#^z2-36a|2:36a]], [[Zohar 4.05 - Parashat Bo#^z2-37a|37a]]. On *I* as *Shekhinah*, see above, note 398.
+    See BT [[Bava Batra 16#16b|*Bava Batra* 16b]]; *Bahir* 52 (78); Naḥmanides on [[Torah 05 - Chayei Sara#^24-1|Genesis 24:1]]; *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-219a|1:219a]]; [[Zohar 4.05 - Parashat Bo#^z2-36a|2:36a]], [[Zohar 4.05 - Parashat Bo#^z2-37a|37a]]. On *I* as *Shekhinah*, see above, note 398.
 
 [^411]: ***YHVH your God… My son*…** *Binah*’s son is *Tif’eret Yisra’el* (Beauty of Israel), known by the divine name *YHVH* and identified with Torah, the *tree of life*. On Torah as *tree of life*, see above, p. 321, n. 431.
 
@@ -2717,7 +2717,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     Here Rabbi Yose interprets the command *Do not take the mother* על (*al*), *together with, the children* as: *Do not remove the mother al, above, the children*—that is, “Do not, through your sins, cause the Divine Mother to abandon Her sefirotic children,” thereby condemning the world to suffering.
 
-    See *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-219a|1:219a]] (Vol. 3, p. 323, n. 120). On the usual kabbalistic interpretation of the verse in Deuteronomy, see *Bahir* 74 (104–105); Naḥmanides and Recanati on [[Torah 49 - Ki Teitzei#^22-6|Deuteronomy 22:6]]; Todros Abulafia, *Otsar ha-Kavod, Berakhot* 33b, *Ḥullin* 142a; *Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-158a|1:158a]]; [[Zohar 4.03 - Parashat Shemot#^z2-8a|2:8a]], [[Zohar 4.07 - Parashat Yitro#^z2-93a|93a]]; [[Zohar 9.11 - Parashat Pinehas#^z3-254a|3:254a]]; Moses de León, *Sefer ha-Rimmon*, 338–39. On separating *Binah* from Her children, see also *Zohar* [[Zohar 5.03 - Parashat Mishpatim#^z2-105a|2:105a]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-12a|3:12a]]. Cf. above, note 364.
+    See *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-219a|1:219a]] (Vol. 3, p. 323, n. 120). On the usual kabbalistic interpretation of the verse in Deuteronomy, see *Bahir* 74 (104–105); Naḥmanides and Recanati on [[Torah 49 - Ki Teitzei#^22-6|Deuteronomy 22:6]]; Todros Abulafia, *Otsar ha-Kavod, Berakhot* 33b, [[Chullin 142#142a|*Ḥullin* 142a]]; *Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-158a|1:158a]]; [[Zohar 4.03 - Parashat Shemot#^z2-8a|2:8a]], [[Zohar 4.07 - Parashat Yitro#^z2-93a|93a]]; [[Zohar 9.11 - Parashat Pinehas#^z3-254a|3:254a]]; Moses de León, *Sefer ha-Rimmon*, 338–39. On separating *Binah* from Her children, see also *Zohar* [[Zohar 5.03 - Parashat Mishpatim#^z2-105a|2:105a]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-12a|3:12a]]. Cf. above, note 364.
 
 [^414]: **All is the blessed Holy One…** Reacting to the apparent division between *Binah* and the *sefirot* below Her, Rabbi Yitsḥak insists on the unity of all divine qualities.
 
@@ -2725,31 +2725,31 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^415]: ***created heaven and earth… made earth and heaven*…** Rabbi El’azar wonders how to reconcile the apparent contradiction: which was created first, heaven or earth? The solution is that God simultaneously formed *heaven* (symbolizing *Tif’eret*) through *Ḥesed* on the right, and formed *earth* (symbolizing *Shekhinah*) through *Gevurah* on the left. Therefore, first is written *heaven and earth*; then, *earth and heaven*.
 
-    See *Mekhilta, Pisḥa* 1; JT *Ḥagigah* 2:1, 77c–d; *Bereshit Rabbah* 1:15; *Vayiqra Rabbah* 36:1; BT *Ḥagigah* 12a; *Midrash Shemu’el* 5:1; *Pirqei de-Rabbi Eli’ezer* 18; *Tanḥuma* (Buber), *Bereshit* 19. The wording “stretched out His right…” derives from *Pirqei de-Rabbi Eli’ezer*. See above, p. 463 and n. 346.
+    See *Mekhilta, Pisḥa* 1; JT *Ḥagigah* 2:1, 77c–d; *Bereshit Rabbah* 1:15; *Vayiqra Rabbah* 36:1; BT [[Chagigah 12#12a|*Ḥagigah* 12a]]; *Midrash Shemu’el* 5:1; *Pirqei de-Rabbi Eli’ezer* 18; *Tanḥuma* (Buber), *Bereshit* 19. The wording “stretched out His right…” derives from *Pirqei de-Rabbi Eli’ezer*. See above, p. 463 and n. 346.
 
 [^416]: ***heaven*, really… *earth*, really…** The ultimately real *heaven* and *earth*, namely, *Tif’eret* and *Shekhinah*. The higher sefirotic realm will issue the flow of emanation to *Tif’eret*, who in turn will convey it to *Shekhinah*.
 
 [^417]: **When this heaven is arrayed…** When *Tif’eret* is endowed with the flow from above, He turns toward His partner, *Shekhinah*, and expresses His passion toward Her through *Yesod*, Righteous One.
 
-    *Yesod* is known as Righteous One, based on the verse quoted here: עולם‎ יסוד‎ וצדיק (*Ve-tsaddiq yesod olam*). This literally means *The righteous one is an everlasting foundation*, but it is understood as *The righteous one is the foundation of the world*. See BT *Ḥagigah* 12b; *Bahir* 71 (102); Azriel of Gerona, *Peirush ha-Aggadot*, 34.
+    *Yesod* is known as Righteous One, based on the verse quoted here: עולם‎ יסוד‎ וצדיק (*Ve-tsaddiq yesod olam*). This literally means *The righteous one is an everlasting foundation*, but it is understood as *The righteous one is the foundation of the world*. See BT [[Chagigah 12#12b|*Ḥagigah* 12b]]; *Bahir* 71 (102); Azriel of Gerona, *Peirush ha-Aggadot*, 34.
 
 [^418]: **From the head of the King…** From the highest sefirotic realm flows a river of emanation, pouring into *Shekhinah*, who absorbs all and then nourishes heavenly and earthly beings.
 
     See *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-247b|1:247b]]. According to the second-century Greek physician Galen, sperm originates in the brain; this theory was common in medieval literature. See *Bahir* 104 (155).
 
-    “Smooth members” renders שייפי (*shaifei*). Deriving from a root meaning “to smooth, rub, slip,” the word signifies “limbs” in the *Zohar*, perhaps based on the Talmudic expression (BT *Sotah* 7b) לשפא‎ איבריה‎ על (*al eivreih le-shafa*), “each limb entered its socket”—“slipping” into place—or “… entered the casket.” Here it can refer to limbs of the human male uniting with the female, or to the masculine sefirotic limbs uniting with *Shekhinah*.
+    “Smooth members” renders שייפי (*shaifei*). Deriving from a root meaning “to smooth, rub, slip,” the word signifies “limbs” in the *Zohar*, perhaps based on the Talmudic expression (BT [[Sotah 7#7b|*Sotah* 7b]]) לשפא‎ איבריה‎ על (*al eivreih le-shafa*), “each limb entered its socket”—“slipping” into place—or “… entered the casket.” Here it can refer to limbs of the human male uniting with the female, or to the masculine sefirotic limbs uniting with *Shekhinah*.
 
-    See *Arukh*, s.v. *shaf*; Rashi, ad loc., and on [[Job 33#^33-21|Job 33:21]], citing *Ḥullin* 42b; *Zohar* [[Zohar 9.04 - Rav Metivta#^z3-170a|3:170a]]; Scholem, *Kabbalah*, 227.
+    See *Arukh*, s.v. *shaf*; Rashi, ad loc., and on [[Job 33#^33-21|Job 33:21]], citing [[Chullin 42#42b|*Ḥullin* 42b]]; *Zohar* [[Zohar 9.04 - Rav Metivta#^z3-170a|3:170a]]; Scholem, *Kabbalah*, 227.
 
 [^419]: **Corresponding to this paradigm…** Just as *Shekhinah* completes the sefirotic decade and receives all, so one who completes the quorum of ten in the synagogue receives a total reward.
 
-    See BT *Berakhot* 47b: “Rabbi Yehoshu’a son of Levi said, ‘A person should always rise early to go to synagogue so that he will have the merit of being counted in the first ten; since even if a hundred come after him, he receives the reward of them all.’ Would you imagine ‘the reward of them all’? Say rather: He is given a reward equal to that of them all.”
+    See BT [[Berakhot 47#47b|*Berakhot* 47b]]: “Rabbi Yehoshu’a son of Levi said, ‘A person should always rise early to go to synagogue so that he will have the merit of being counted in the first ten; since even if a hundred come after him, he receives the reward of them all.’ Would you imagine ‘the reward of them all’? Say rather: He is given a reward equal to that of them all.”
 
     See *Zohar* [[Zohar 10.06 - Parashat Va-Yera#^z1-105a|1:105a]] (*MhN*); [[Zohar 12.05 - Heikhalot Pequdei#^z2-250a|2:250a]] (*Heikh*); [[Zohar 8.08 - Parashat Naso#^z3-126a|3:126a]]; Moses de León, *Sefer ha-Rimmon*, 37. Cf. 2:131a–b.
 
 [^420]: ***He bent the heavens and came down*… על (*al*), *upon, Mount Sinai*…** According to a midrashic interpretation, the verse in Psalms means that God bent the heavens so that they touched the top of the mountain and the Divine Glory appeared there. But Rabbi Yitsḥak insists on reading the verse from Exodus hyperliterally: *He came down al, above, Mount Sinai*. He wonders, then: to where exactly did God come down?
 
-    On both verses, see *Mekhilta, Baḥodesh* 4, 9; *Mekhilta de-Rashbi* on [[Torah 17 - Yitro#^19-20|Exodus 19:20]]; BT *Sukkah* 5a; above, note 392.
+    On both verses, see *Mekhilta, Baḥodesh* 4, 9; *Mekhilta de-Rashbi* on [[Torah 17 - Yitro#^19-20|Exodus 19:20]]; BT [[Sukkah 5#5a|*Sukkah* 5a]]; above, note 392.
 
 [^421]: **He descended His rungs…** Rabbi Yose explains that the masculine divinity descended the sefirotic rungs to reach *Shekhinah* (symbolized by both earth and moon). She was awaiting Him *above Mount Sinai*.
 
@@ -2759,7 +2759,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     See *Bereshit Rabbah* 51:2 (on the verse in [[Torah 04 - Vayera#^19-1|Genesis 19]]), in the name of Rabbi El’azar: “Wherever it is said *And YHVH*, this implies: He and His court.” In Kabbalah this court symbolizes *Shekhinah*, who derives from *Din* (Judgment) and pronounces the divine decree, so the phrase *And YHVH* encompasses “He \[the divine male, known as *YHVH*\] and His court \[*Shekhinah*\].” See above, p. 218, n. 65; p. 294, n. 339.
 
-    On the phrase *a consuming fire* as referring to *Shekhinah*, see BT *Ketubbot* 111b. [[Torah 17 - Yitro#^19-18|Exodus 19:18]] reads in full: *Mount Sinai was all in smoke because YHVH had descended upon it in fire, and its smoke rose like the smoke of a kiln, and the whole mountain trembled greatly*. [[Torah 04 - Vayera#^19-24|Genesis 19:24]] reads in full: *And YHVH rained upon Sodom and Gomorrah brimstone and fire from YHVH out of heaven*.
+    On the phrase *a consuming fire* as referring to *Shekhinah*, see BT [[Ketubot 111#111b|*Ketubbot* 111b]]. [[Torah 17 - Yitro#^19-18|Exodus 19:18]] reads in full: *Mount Sinai was all in smoke because YHVH had descended upon it in fire, and its smoke rose like the smoke of a kiln, and the whole mountain trembled greatly*. [[Torah 04 - Vayera#^19-24|Genesis 19:24]] reads in full: *And YHVH rained upon Sodom and Gomorrah brimstone and fire from YHVH out of heaven*.
 
 [^423]: **From here: *Elohim spoke all*…** Rabbi Ḥiyya demonstrates the divine union from this verse, which he apparently takes to mean: *Shekhinah* (known as *Elohim*) conveyed the Ten Commandments through the power of *Tif’eret*, together with *all* the *sefirot* surrounding Him, all of which united with Her.
 
@@ -2773,7 +2773,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^425]: **blessed Holy One called them אדם (*adam*), human…** The people of Israel cleave to the *sefirot*, which are known as אדם (*adam*), “human,” or Primordial Adam; so only they are truly human.
 
-    See BT *Yevamot* 60b–61a: “Rabbi Shim’on son of Yoḥai said, ‘The graves of Gentiles do not impart impurity by a tent \[i.e., one who stands on or bends over such a grave, thereby constituting a tent with his body, is not rendered impure\], as is said: *You, My flock, flock of My pasture, are human* \[*and I am Your God*\] ([[Ezekiel 34#^34-31|Ezekiel 34:31]]). You are called *human;* Gentiles are not called *human*.’”
+    See BT [[Yevamot 60#60b|*Yevamot* 60b]]–61a: “Rabbi Shim’on son of Yoḥai said, ‘The graves of Gentiles do not impart impurity by a tent \[i.e., one who stands on or bends over such a grave, thereby constituting a tent with his body, is not rendered impure\], as is said: *You, My flock, flock of My pasture, are human* \[*and I am Your God*\] ([[Ezekiel 34#^34-31|Ezekiel 34:31]]). You are called *human;* Gentiles are not called *human*.’”
 
     In this Talmudic passage, Rabbi Shim’on assumes a connection between *human* and “impurity by a tent,” based on the wording of [[Torah 39 - Chukat#^19-14|Numbers 19:14]]: *When a human dies in a tent, anyone entering the tent and anyone in the tent will be impure seven days*. See *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-20b|1:20b]], [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-131a|131a]]; [[Zohar 12.06 - Piqqudin#^z2-25b|2:25b]] (*Piq*); [[Zohar 9.11 - Parashat Pinehas#^z3-219a|3:219a]]; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-78d|ZḤ* 78d]] (*MhN, Rut*); Moses de León, *Mishkan ha-Edut*, 48a.
 
@@ -2787,7 +2787,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^427]: **Ishmael…אדם‎ פרא (*pere adam*), *a wild ass of a human*…** Abraham’s son Ishmael was circumcised, so he entered *Yesod*—known as *all*—thereby attaining the beginnings of *adam, a human*. However, since he did not fulfill the other commandments of Torah, he remained incomplete, never attaining a higher sefirotic level and never becoming a complete *adam*.
 
-[^428]: **All faces are permitted…** [[Torah 17 - Yitro#^20-4|Exodus 20:4–5]] forbids the making and worship of any image: *You shall not make for yourself a carved image or any form of what is in the heavens above or what is on the earth below or what is in the waters beneath the earth. You shall not bow down to them and you shall not worship them*. According to a rabbinic tradition, “\[Representations of\] all faces are permitted except \[that of\] a human face.” See BT *Avodah Zarah* 42b, 43b. Cf. *Tosefta Avodah Zarah* 5:2.
+[^428]: **All faces are permitted…** [[Torah 17 - Yitro#^20-4|Exodus 20:4–5]] forbids the making and worship of any image: *You shall not make for yourself a carved image or any form of what is in the heavens above or what is on the earth below or what is in the waters beneath the earth. You shall not bow down to them and you shall not worship them*. According to a rabbinic tradition, “\[Representations of\] all faces are permitted except \[that of\] a human face.” See BT [[Avodah Zarah 42#42b|*Avodah Zarah* 42b]], 43b. Cf. *Tosefta Avodah Zarah* 5:2.
 
 [^429]: **When formed…** The representation of a human face resembles the perfect divine archetype on which the human is modeled. Forming such a representation shows disrespect for God’s unique and infinite nature by attempting to depict or delimit it.
 
@@ -2803,11 +2803,11 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^433]: **I have not heard and I will not say…** Following the principle expressed by Rabbi Shim’on (in *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-5a|1:5a]]): “I beg of you not to utter a word of Torah that you do not know and have not heard fittingly from a lofty tree \[i.e., a recognized authority\].” Moses, referred to here by Rabbi Ḥizkiyah, stands for such an authority or for one’s teacher.
 
-    See *Kallah Rabbati*, 2; *Zohar* [[Zohar 4.05 - Parashat Bo#^z2-37a|2:37a]], [[Zohar 5.05 - Parashat Terumah#^z2-151b|151b]], [[Zohar 5.05 - Parashat Terumah#^z2-153a|153a]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-76a|3:76a–b]], [[Zohar 9.10 - Commentary on Balaq, continued#^z3-207b|207b]], [[Zohar 9.11 - Parashat Pinehas#^z3-240b|240b]]; below at note 456; and BT *Berakhot* 27b, in the name of Rabbi Eli’ezer: “One who says something that he has not heard from his teacher causes *Shekhinah* to depart from Israel.”
+    See *Kallah Rabbati*, 2; *Zohar* [[Zohar 4.05 - Parashat Bo#^z2-37a|2:37a]], [[Zohar 5.05 - Parashat Terumah#^z2-151b|151b]], [[Zohar 5.05 - Parashat Terumah#^z2-153a|153a]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-76a|3:76a–b]], [[Zohar 9.10 - Commentary on Balaq, continued#^z3-207b|207b]], [[Zohar 9.11 - Parashat Pinehas#^z3-240b|240b]]; below at note 456; and BT [[Berakhot 27#27b|*Berakhot* 27b]], in the name of Rabbi Eli’ezer: “One who says something that he has not heard from his teacher causes *Shekhinah* to depart from Israel.”
 
     This conservative attitude contrasts with the *Zohar*’s frequent emphasis on innovation. See *OY*; Matt, “New-Ancient Words,” 194–204. Cf. Isaac of Acre, *Me’irat Einayim*, 118; and the striking formulations of Jacob ben Sheshet (*Ha-Emunah ve-ha-Bittaḥon*, 364, 370): “It is a *mitsvah* for every wise person to innovate in Torah according to his capacity…. Do not think that this is farfetched. If I had not invented it in my mind, I would say that it was transmitted to Moses at Sinai.”
 
-[^434]: ***For she is* חייך (*ḥayyekha*), *your life*…** Rabbi Yehudah understands *she* as referring to Torah. The verse actually reads: *He* \[or: *that*\] *is your life*…, referring either to God or to loving, heeding, and cleaving to Him (mentioned immediately before). The substitution of היא (*hi*), *she*, for הוא (*hu*), *He* (or *that*), in this verse appears elsewhere, e.g., in *Avot de-Rabbi Natan* A, 2; B, 31; *Tanḥuma, Yitro* 15, *Ki Tissa* 15, *Shemini* 11; *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-92a|1:92a]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-168a|168a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-244b|244b]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-62a|2:62a]]. Cf. *Targum Yerushalmi* on the verse; BT *Qiddushin* 40a. See above, p. 334, n. 483.
+[^434]: ***For she is* חייך (*ḥayyekha*), *your life*…** Rabbi Yehudah understands *she* as referring to Torah. The verse actually reads: *He* \[or: *that*\] *is your life*…, referring either to God or to loving, heeding, and cleaving to Him (mentioned immediately before). The substitution of היא (*hi*), *she*, for הוא (*hu*), *He* (or *that*), in this verse appears elsewhere, e.g., in *Avot de-Rabbi Natan* A, 2; B, 31; *Tanḥuma, Yitro* 15, *Ki Tissa* 15, *Shemini* 11; *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-92a|1:92a]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-168a|168a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-244b|244b]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-62a|2:62a]]. Cf. *Targum Yerushalmi* on the verse; BT [[Kiddushin 40#40a|*Qiddushin* 40a]]. See above, p. 334, n. 483.
 
 [^435]: **if we could not enter this verse…** “If we could not comprehend the conclusion of the verse in [[Torah 03 - Lech Lecha#^16-1|Genesis 16]], whose beginning Rabbi Shim’on already explained.” See above at note 432.
 
@@ -2831,7 +2831,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^440]: **closer to the King than anyone…** See above, p. 329 and n. 460; above, note 437.
 
-    On God sometimes listening to prayer and sometimes not, see *Devarim Rabbah* (ed. Lieberman), p. 127; *Tanḥuma, Ha’azinu* 4; *Midrash Ḥaserot vi-Yterot*, 222 (*Battei Midrashot*, 2:310); *Zohar* [[Zohar 2.03 - Parashat Va-Yera#^z1-105b|1:105b]]. Cf. BT *Berakhot* 8a; *Pesiqta de-Rav Kahana* 24:2.
+    On God sometimes listening to prayer and sometimes not, see *Devarim Rabbah* (ed. Lieberman), p. 127; *Tanḥuma, Ha’azinu* 4; *Midrash Ḥaserot vi-Yterot*, 222 (*Battei Midrashot*, 2:310); *Zohar* [[Zohar 2.03 - Parashat Va-Yera#^z1-105b|1:105b]]. Cf. BT [[Berakhot 8#8a|*Berakhot* 8a]]; *Pesiqta de-Rav Kahana* 24:2.
 
     On the brokenhearted and poor as God’s precious “broken vessels,” see *Vayiqra Rabbah* 7:2; *Pesiqta de-Rav Kahana* 24:5; *Mishnat Rabbi Eli’ezer* 11:18; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-10b|1:10b]]; [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-218a|2:218a]]; [[Zohar 8.04 - Parashat Emor#^z3-90b|3:90b]]; *Midrash ha-Gadol*, [[Torah 09 - Vayeshev#^38-1|Genesis 38:1]]; Tishby, *Wisdom of the Zohar*, 3:1463, nn. 288, 308. Cf. *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-77c|ZḤ* 77c]] (*MhN, Rut*).
 
@@ -2847,7 +2847,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     In the *Zohar* the *tefillah*, “phylactery,” of the hand symbolizes *Shekhinah*, while the *tefillah* of the head symbolizes *Tif’eret*. Here, Rabbi Shim’on apparently identifies תפלה (*tefillah*), *a prayer, of a poor person*, with *Shekhinah*, who is poor (see the preceding note) and symbolized by *tefillah* of the hand; She ascends toward *Tif’eret*, symbolized by *tefillah* of the head.
 
-    See *Zohar* [[Zohar 3.03 - Parashat Va-Yishlah#^z1-168b|1:168b]]. For various interpretations, see *OY*; Galante; *MM*; *MmD*. On God’s tefillin, see BT *Berakhot* 6a; Isaac the Blind, *Peirush Sefer Yetsirah*, 4; Ezra of Gerona, *Peirush le-Shir ha-Shirim*, 525; Azriel of Gerona, *Peirush ha-Aggadot*, 4; Todros Abulafia, *Otsar ha-Kavod*, 3d–4b; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-13b|1:13b]]–14a (Vol. 1, p. 96, n. 720), 141a (Vol. 2, p. 282, n. 186), 147a; 2:62a–b; 3:81a, 140a (*IR*), 262a–263a, 264a, 269a–b, 291a (*IZ*); Moses de León, *Sefer ha-Rimmon*, 235–39; Tishby, *Wisdom of the Zohar*, 3:1161–65.
+    See *Zohar* [[Zohar 3.03 - Parashat Va-Yishlah#^z1-168b|1:168b]]. For various interpretations, see *OY*; Galante; *MM*; *MmD*. On God’s tefillin, see BT [[Berakhot 6#6a|*Berakhot* 6a]]; Isaac the Blind, *Peirush Sefer Yetsirah*, 4; Ezra of Gerona, *Peirush le-Shir ha-Shirim*, 525; Azriel of Gerona, *Peirush ha-Aggadot*, 4; Todros Abulafia, *Otsar ha-Kavod*, 3d–4b; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-13b|1:13b]]–14a (Vol. 1, p. 96, n. 720), 141a (Vol. 2, p. 282, n. 186), 147a; 2:62a–b; 3:81a, 140a (*IR*), 262a–263a, 264a, 269a–b, 291a (*IZ*); Moses de León, *Sefer ha-Rimmon*, 235–39; Tishby, *Wisdom of the Zohar*, 3:1161–65.
 
 [^443]: **Rabbi Shim’on turned his head…** Now he notices the two Companions. The “treasure” refers to a profound understanding of Torah.
 
@@ -2877,7 +2877,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^451]: **צדק‎ גר (*ger tsedeq*), convert of Righteousness, and nothing more…** Traditionally, this term refers to a convert who accepts all the laws of Judaism. In the *Zohar*, it implies that such a person is linked with the rung of *Shekhinah*, who is known as צדק (*Tsedeq*), Righteousness, but ascends no farther on the sefirotic ladder. Rabbi Ḥizkiyah wonders, then, how Ishmael could reach the higher level of *Yesod*, known as *all*.
 
-    See BT *Yevamot* 46a–b; Judah Halevi, *Kuzari* 1:27; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-13a|1:13a]]–b, [[Zohar 2.02 - Parashat Lekh Lekha#^z1-96a|96a]]; [[Zohar 4.04 - Parashat Va-Era#^z2-27a|2:27a]], [[Zohar 4.07 - Parashat Yitro#^z2-70a|70a]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-14a|3:14a–b]], [[Zohar 9.04 - Rav Metivta#^z3-168a|168a]]; above, note 449.
+    See BT [[Yevamot 46#46a|*Yevamot* 46a]]–b; Judah Halevi, *Kuzari* 1:27; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-13a|1:13a]]–b, [[Zohar 2.02 - Parashat Lekh Lekha#^z1-96a|96a]]; [[Zohar 4.04 - Parashat Va-Era#^z2-27a|2:27a]], [[Zohar 4.07 - Parashat Yitro#^z2-70a|70a]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-14a|3:14a–b]], [[Zohar 9.04 - Rav Metivta#^z3-168a|168a]]; above, note 449.
 
 [^452]: **All is linked in oneness…** Apparently implying that *Yesod* and *Shekhinah* are intimately connected, so Ishmael is still linked with “converts of Righteousness.” However, Rabbi Shim’on indicates that Ishmael was not a convert, but rather Abraham’s son. Like his father, Ishmael was *blessed* by God, and just as Abraham was blessed *with all* (signifying *Yesod*), so Ishmael attained this same rung.
 
@@ -2905,7 +2905,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^460]: **must not betray the Name of the blessed Holy One…** According to Rabbi Yitsḥak, the Name is signified by the covenant of circumcision, which is associated with the divine phallus, *Yesod*, joined with *Shekhinah*. One who inserts the covenantal sign of circumcision into the body of a non-Jewish woman betrays the covenantal Name.
 
-    See [[Psalms 044#^44-18|Psalms 44:18]]; BT *Eruvin* 19a; *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-93a|1:93a]], [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-131b|131b]]; [[Zohar 4.03 - Parashat Shemot#^z2-3b|2:3b]], [[Zohar 4.03 - Parashat Shemot#^z2-7a|7a]], [[Zohar 4.06 - Parashat Be-Shallah#^z2-57b|57b]], [[Zohar 4.06 - Parashat Be-Shallah#^z2-61a|61a]], [[Zohar 4.07 - Parashat Yitro#^z2-90a|90a]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-13b|3:13b–14a]], [[Zohar 7.08 - Parashat Aharei Mot#^z3-57b|57b]], [[Zohar 8.09 - Idra Rabba#^z3-142a|142a]] (*IR*), [[Zohar 9.12 - Parashat Va-Ethannan#^z3-266a|266a]].
+    See [[Psalms 044#^44-18|Psalms 44:18]]; BT [[Eruvin 19#19a|*Eruvin* 19a]]; *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-93a|1:93a]], [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-131b|131b]]; [[Zohar 4.03 - Parashat Shemot#^z2-3b|2:3b]], [[Zohar 4.03 - Parashat Shemot#^z2-7a|7a]], [[Zohar 4.06 - Parashat Be-Shallah#^z2-57b|57b]], [[Zohar 4.06 - Parashat Be-Shallah#^z2-61a|61a]], [[Zohar 4.07 - Parashat Yitro#^z2-90a|90a]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-13b|3:13b–14a]], [[Zohar 7.08 - Parashat Aharei Mot#^z3-57b|57b]], [[Zohar 8.09 - Idra Rabba#^z3-142a|142a]] (*IR*), [[Zohar 9.12 - Parashat Va-Ethannan#^z3-266a|266a]].
 
     In rabbinic literature, the mark of circumcision is identified with the י (*yod*) of the divine name שדי (*Shaddai*), which is also the initial letter of יהוה (*YHVH*). See *Tanḥuma, Tsav* 14, *Shemini* 8; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-13a|1:13a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-56a|56a]], [[Zohar 1.08 - Parashat Noah#^z1-60a|60a]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-89a|89a]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-93a|93a]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-95a|95a–b]]; [[Zohar 4.03 - Parashat Shemot#^z2-3b|2:3b]], [[Zohar 4.05 - Parashat Bo#^z2-36a|36a]], [[Zohar 4.07 - Parashat Yitro#^z2-90a|90a]], [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-216b|216b]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-13b|3:13b]], [[Zohar 8.09 - Idra Rabba#^z3-142a|142a]] (*IR*), [[Zohar 9.11 - Parashat Pinehas#^z3-215b|215b]], [[Zohar 9.11 - Parashat Pinehas#^z3-220a|220a]], 256a (*RM*), [[Zohar 9.12 - Parashat Va-Ethannan#^z3-266a|266a]]; Wolfson, “Circumcision and the Divine Name”; idem, *Circle in the Square*, 29–48.
 
@@ -2921,11 +2921,11 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^463]: **While they remain under their dominion** The prohibition against intermarrying foreign women applies only as long as they are under the control of non-Israelites; once they have been captured, they are permitted.
 
-    Another resolution of the apparent contradiction is that the prohibition against intermarriage applies specifically to the seven peoples of Canaan, whereas [[Torah 48 - Shoftim#^21-1|Deuteronomy 21]] is describing an optional war outside the borders of Canaan. See *Sifrei*, Deuteronomy 211; Rashi on [[Torah 49 - Ki Teitzei#^21-10|Deuteronomy 21:10]]; Rashi and *Tosafot* of Sens, BT *Sotah* 35b, s.v. *ve-shavita shivyo*. Here, Rabbi El’azar’s reply (“While they remain under their dominion”) apparently refers to Canaanite women still under Canaanite control.
+    Another resolution of the apparent contradiction is that the prohibition against intermarriage applies specifically to the seven peoples of Canaan, whereas [[Torah 48 - Shoftim#^21-1|Deuteronomy 21]] is describing an optional war outside the borders of Canaan. See *Sifrei*, Deuteronomy 211; Rashi on [[Torah 49 - Ki Teitzei#^21-10|Deuteronomy 21:10]]; Rashi and *Tosafot* of Sens, BT [[Sotah 35#35b|*Sotah* 35b]], s.v. *ve-shavita shivyo*. Here, Rabbi El’azar’s reply (“While they remain under their dominion”) apparently refers to Canaanite women still under Canaanite control.
 
 [^464]: **Why is this portion adjoined to a *wayward and rebellious son*?…** The passage about marrying a beautiful captive ([[Torah 49 - Ki Teitzei#^21-10|Deuteronomy 21:10–14]]) is followed almost immediately by a passage about *a wayward and rebellious son* (ibid., 18–21). According to midrashic tradition, one who marries such a woman is destined to engender such a son.
 
-    See *Sifrei*, Deuteronomy 218; *Midrash Tanna’im*, [[Torah 49 - Ki Teitzei#^21-22|Deuteronomy 21:22]]; BT *Sanhedrin* 107a; *Devarim Rabbah* 6:4; *Tanḥuma, Ki Tetse* 1; *Tanḥuma* (Buber), *Ki Tetse* 1; *Seder Eliyyahu Zuta* 3; *Leqaḥ Tov*, [[Torah 49 - Ki Teitzei#^21-18|Deuteronomy 21:18]]; Moses de León, *Sefer ha-Rimmon*, 212.
+    See *Sifrei*, Deuteronomy 218; *Midrash Tanna’im*, [[Torah 49 - Ki Teitzei#^21-22|Deuteronomy 21:22]]; BT [[Sanhedrin 107#107a|*Sanhedrin* 107a]]; *Devarim Rabbah* 6:4; *Tanḥuma, Ki Tetse* 1; *Tanḥuma* (Buber), *Ki Tetse* 1; *Seder Eliyyahu Zuta* 3; *Leqaḥ Tov*, [[Torah 49 - Ki Teitzei#^21-18|Deuteronomy 21:18]]; Moses de León, *Sefer ha-Rimmon*, 212.
 
 [^465]: **difficult to remove filth…** It is difficult to purify a non-Israelite woman, especially one who has already been married and tainted by a non-Israelite male, since he has injected her with his own aspect of harsh judgment, which merges with hers.
 
@@ -2935,11 +2935,11 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^467]: ***Elisha said to her*…** In this story, the prophet Elisha performs a miracle for an anonymous poor woman, providing her with an abundant supply of oil.
 
-    On the need for the table not to be empty when one recites the Grace after Meals, see BT *Sanhedrin* 92a, in the name of Rabbi El’azar: “Whoever does not leave bread on his table \[when reciting the Grace after Meals\] will never see a sign of blessing.”
+    On the need for the table not to be empty when one recites the Grace after Meals, see BT [[Sanhedrin 92#92a|*Sanhedrin* 92a]], in the name of Rabbi El’azar: “Whoever does not leave bread on his table \[when reciting the Grace after Meals\] will never see a sign of blessing.”
 
     See Naḥmanides on [[Torah 19 - Terumah#^25-24|Exodus 25:24]]; *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-88a|1:88a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-240a|240a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-250a|250a]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-63b|2:63b]], [[Zohar 4.07 - Parashat Yitro#^z2-67a|67a]], [[Zohar 4.07 - Parashat Yitro#^z2-88a|88a]], [[Zohar 5.05 - Parashat Terumah#^z2-153b|153b]], [[Zohar 5.05 - Parashat Terumah#^z2-155a|155a]], [[Zohar 5.05 - Parashat Terumah#^z2-157b|157b]]; [[Zohar 7.04 - Parashat Tsav#^z3-34a|3:34a]]; Moses de León, *Sefer ha-Rimmon*, 270; Galante; *MM*; *Shulḥan Arukh, Oraḥ Ḥayyim* 180:2; *Magen Avraham*, ad loc.; Emden, *Zohorei Ya’bets*, 48; Ta-Shma, *Ha-Nigleh she-ba-Nistar*, 28; idem, *Minhag Ashkenaz ha-Qadmon*, 267–70.
 
-    Cf. BT *Berakhot* 40a: “Come and see how the character of the blessed Holy One differs from that of flesh and blood. In the case of flesh and blood, an empty vessel holds \[more\], but not a full one. However, the blessed Holy One is not so: a full vessel holds \[more\], but not an empty one.”
+    Cf. BT [[Berakhot 40#40a|*Berakhot* 40a]]: “Come and see how the character of the blessed Holy One differs from that of flesh and blood. In the case of flesh and blood, an empty vessel holds \[more\], but not a full one. However, the blessed Holy One is not so: a full vessel holds \[more\], but not an empty one.”
 
     The concluding phrase—“blessing emptily”—alludes to [[Torah 17 - Yitro#^20-7|Exodus 20:7]]: *You shall not take the name of YHVH your God in vain*.
 
@@ -2957,7 +2957,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^472]: **mention the Holy Name only after another word…** Which can accompany or clothe the Name. Similarly, the Torah begins: אלהים‎ ברא‎ בראשית (*Be-reshit bara Elohim*), *In the beginning, God created*, rather than בראשית‎ ברא‎ אלהים (*Elohim bara be-reshit*), *God created in the beginning*.
 
-    See *Midrash Tanna’im*, [[Torah 53 - Ha'Azinu#^32-3|Deuteronomy 32:3]]; *Bereshit Rabbah* 1:12; *Tanḥuma, Va’era* 1, *Ki Tissa* 15; *Tanḥuma* (Buber), *Bereshit* 4; *Midrash Tehillim* 18:29; *Leqaḥ Tov*, [[Torah 01 - Bereshit#^1-1|Genesis 1:1]]. Cf. *Sifra, Vayiqra, dibbura dindavah* 2:4, 4c; *Sifrei*, Deuteronomy 306; *Bereshit Rabbah* 1:13; BT *Nedarim* 10a-b; *Tanḥuma* (Buber), *Bereshit* 6; *Tosefot Yeshanim, Yoma* 39a, s.v. *ve-omer*; *NZ*.
+    See *Midrash Tanna’im*, [[Torah 53 - Ha'Azinu#^32-3|Deuteronomy 32:3]]; *Bereshit Rabbah* 1:12; *Tanḥuma, Va’era* 1, *Ki Tissa* 15; *Tanḥuma* (Buber), *Bereshit* 4; *Midrash Tehillim* 18:29; *Leqaḥ Tov*, [[Torah 01 - Bereshit#^1-1|Genesis 1:1]]. Cf. *Sifra, Vayiqra, dibbura dindavah* 2:4, 4c; *Sifrei*, Deuteronomy 306; *Bereshit Rabbah* 1:13; BT [[Nedarim 10#10a|*Nedarim* 10a]]-b; *Tanḥuma* (Buber), *Bereshit* 6; *Tosefot Yeshanim, Yoma* 39a, s.v. *ve-omer*; *NZ*.
 
 [^473]: **only in connection with a complete world…** The name *YHVH* (and the full name *YHVH Elohim*) appears for the first time in the Torah only after the completion of Creation.
 
@@ -2985,7 +2985,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^479]: **One should delight… eating three meals…** Human delight stimulates delight above, which then prevails below.
 
-    On the three Sabbath meals, see *Mekhilta, Vayassa* 4; *Mekhilta de-Rashbi*, [[Torah 16 - Beshalach#^16-25|Exodus 16:25]]; BT *Shabbat* 117b–118b; *Zohar* [[Zohar 8.04 - Parashat Emor#^z3-94b|3:94b]]–95a; [[Zohar 9.15 - Idra Zuta#^z3-288b|288b]] (*IZ*); *ZḤ* [[Zohar 12.11 - Zohar al ha-Parashot#^zh-48c|48c]]; Tishby, *Wisdom of the Zohar*, 3:1234–36.
+    On the three Sabbath meals, see *Mekhilta, Vayassa* 4; *Mekhilta de-Rashbi*, [[Torah 16 - Beshalach#^16-25|Exodus 16:25]]; BT [[Shabbat 117#117b|*Shabbat* 117b]]–118b; *Zohar* [[Zohar 8.04 - Parashat Emor#^z3-94b|3:94b]]–95a; [[Zohar 9.15 - Idra Zuta#^z3-288b|288b]] (*IZ*); *ZḤ* [[Zohar 12.11 - Zohar al ha-Parashot#^zh-48c|48c]]; Tishby, *Wisdom of the Zohar*, 3:1234–36.
 
 [^480]: **To couple with those days above…** By celebrating the Sabbath through these three meals, one joins with the sefirotic days (*Ḥesed* through *Yesod*), which are blessed by the seventh day, *Binah*.
 
@@ -3019,23 +3019,23 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^488]: **Of the third Sabbath meal…** The third meal, eaten on Sabbath afternoon, is the meal of the Short-Tempered One, whose core is *Tif’eret*, symbolized by Jacob (see above, note 481). Now this configuration is fulfilled, and all its six sefirotic components (*Ḥesed* through *Yesod*) are blessed, ensuring blessing for the entire week.
 
-    The verse in Exodus, describing the Sabbath, reads in full: *Between Me and the Children of Israel it is a sign forever that in six days YHVH made heaven and earth and on the seventh day He ceased and was refreshed*. On the exclusive relationship between Israel and the Sabbath, see *Mekhilta, Shabbeta (Ki Tissa)* 1; *Bereshit Rabbah* 11:8; BT *Sanhedrin* 58b; *Shemot Rabbah* 25:11; above, p. 345 and n. 519.
+    The verse in Exodus, describing the Sabbath, reads in full: *Between Me and the Children of Israel it is a sign forever that in six days YHVH made heaven and earth and on the seventh day He ceased and was refreshed*. On the exclusive relationship between Israel and the Sabbath, see *Mekhilta, Shabbeta (Ki Tissa)* 1; *Bereshit Rabbah* 11:8; BT [[Sanhedrin 58#58b|*Sanhedrin* 58b]]; *Shemot Rabbah* 25:11; above, p. 345 and n. 519.
 
 [^489]: **children of the King…** Their souls are generated by the royal union of *Tif’eret* and *Shekhinah*.
 
-[^490]: **inflicted with the severity of three elements…** See BT *Shabbat* 118a, in the name of Bar Kappara: “Whoever fulfills three meals on the Sabbath is saved from three retributions: the birth pangs of the Messiah, the judgment of Hell, and the war of Gog and Magog.”
+[^490]: **inflicted with the severity of three elements…** See BT [[Shabbat 118#118a|*Shabbat* 118a]], in the name of Bar Kappara: “Whoever fulfills three meals on the Sabbath is saved from three retributions: the birth pangs of the Messiah, the judgment of Hell, and the war of Gog and Magog.”
 
     “The birth pangs of the Messiah” refers to times of great distress preceding his advent. Gog and Magog are demonic powers who will wage eschatological war against the righteous and be defeated by God. The concept derives from [[Ezekiel 38#^38-2|Ezekiel 38:2]].
 
 [^491]: ***the dung of your festivals*…** In Malachi this phrase means “*the dung of your festal offerings*,” but Rabbi Shim’on interprets it as “the excrement of your selfish feasting.”
 
-    This interpretation derives from Maimonides, *Mishneh Torah, Hilkhot Yom Tov* 6:18. See *Zohar* [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-199b|2:199b]]; [[Zohar 8.04 - Parashat Emor#^z3-104a|3:104a]]. Cf. JT *Mo’ed Qatan* 3:5, 82b; *Vayiqra Rabbah* 18:1; BT *Shabbat* 151b; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-10b|1:10b]].
+    This interpretation derives from Maimonides, *Mishneh Torah, Hilkhot Yom Tov* 6:18. See *Zohar* [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-199b|2:199b]]; [[Zohar 8.04 - Parashat Emor#^z3-104a|3:104a]]. Cf. JT *Mo’ed Qatan* 3:5, 82b; *Vayiqra Rabbah* 18:1; BT [[Shabbat 151#151b|*Shabbat* 151b]]; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-10b|1:10b]].
 
     The verse in Isaiah refers to hypocritical ritual observance. On the phrase *between Me and the Children of Israel*, see above, note 488; *OY*; *MmD*.
 
 [^492]: **all of faith inheres in Sabbath…** Sabbath and its meals comprise the entire sefirotic realm: the Holy Ancient One, the Short-Tempered One, and the Holy Apple Orchard. See above, pp. 498–99 and nn. 480–81.
 
-    The additional soul bestowed on the Sabbath enables one to taste the bliss of the world that is coming. On this soul, see above, note 486. On the relation between Sabbath and the world that is coming, see *Mekhilta, Shabbeta (Ki Tissa)* 1; *Bereshit Rabbah* 17:5; BT *Berakhot* 57b; *Otiyyot de-Rabbi Aqiva* (*Battei Midrashot*, 2:346). Cf. M *Tamid* 7:4; *Avot de-Rabbi Natan* A, 1; BT *Rosh ha-Shanah* 31a; *Seder Eliyyahu Rabbah* 2; *Shir ha-Shirim Rabbah* on 4:1; *Pirqei de-Rabbi Eli’ezer* 19.
+    The additional soul bestowed on the Sabbath enables one to taste the bliss of the world that is coming. On this soul, see above, note 486. On the relation between Sabbath and the world that is coming, see *Mekhilta, Shabbeta (Ki Tissa)* 1; *Bereshit Rabbah* 17:5; BT [[Berakhot 57#57b|*Berakhot* 57b]]; *Otiyyot de-Rabbi Aqiva* (*Battei Midrashot*, 2:346). Cf. M *Tamid* 7:4; *Avot de-Rabbi Natan* A, 1; BT [[Rosh Hashanah 31#31a|*Rosh ha-Shanah* 31a]]; *Seder Eliyyahu Rabbah* 2; *Shir ha-Shirim Rabbah* on 4:1; *Pirqei de-Rabbi Eli’ezer* 19.
 
     Since the Sabbath comprises all of the *sefirot*, it is identified with the divine name. See *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-128a|2:128a]], [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-204a|204a]]; Moses de León, *Sefer ha-Rimmon*, 332–35; idem, *Sefer ha-Mishqal*, 117; *TZ* 19, 40b; *OY*; Galante; *MmD*; Tishby, *Wisdom of the Zohar*, 3:1223–26.
 
@@ -3045,7 +3045,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^494]: **On this day the patriarchs are crowned…** On Sabbath the sefirotic triad of *Ḥesed, Gevurah*, and *Tif’eret* (symbolized by the three patriarchs) are adorned with emanation from above, which they convey to their “children,” namely, the lower triad of *Netsaḥ, Hod*, and *Yesod*. Whereas the Sabbath reflects the totality of the *sefirot*, each festival represents just one particular *sefirah*.
 
-    On the cessation of the torments of Hell on the Sabbath, see *Bereshit Rabbah* 11:5; BT *Sanhedrin* 65b; *Tanḥuma, Ki Tissa* 33; *Pesiqta Rabbati* 23; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-14b|1:14b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-17b|17b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-237b|237b]]; [[Zohar 4.04 - Parashat Va-Era#^z2-31b|2:31b]], [[Zohar 5.05 - Parashat Terumah#^z2-150b|150b–151a]], [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-203b|203b]], [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-207a|207a]]; [[Zohar 8.04 - Parashat Emor#^z3-94b|3:94b]], [[Zohar 9.15 - Idra Zuta#^z3-288b|288b]] (*IZ*); *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-17a|17a–b]] (*MhN*).
+    On the cessation of the torments of Hell on the Sabbath, see *Bereshit Rabbah* 11:5; BT [[Sanhedrin 65#65b|*Sanhedrin* 65b]]; *Tanḥuma, Ki Tissa* 33; *Pesiqta Rabbati* 23; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-14b|1:14b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-17b|17b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-237b|237b]]; [[Zohar 4.04 - Parashat Va-Era#^z2-31b|2:31b]], [[Zohar 5.05 - Parashat Terumah#^z2-150b|150b–151a]], [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-203b|203b]], [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-207a|207a]]; [[Zohar 8.04 - Parashat Emor#^z3-94b|3:94b]], [[Zohar 9.15 - Idra Zuta#^z3-288b|288b]] (*IZ*); *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-17a|17a–b]] (*MhN*).
 
     Torah symbolizes *Tif’eret*, who is adorned on the Sabbath. Correspondingly below, the Torah scroll is bedecked in the synagogue with ornaments and crowns.
 
@@ -3055,7 +3055,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^496]: **Through this will, Moses…departed…** Moses died on Sabbath afternoon during the time of divine favor, and his soul was treasured away in the Divine Will.
 
-    On Moses dying on the Sabbath, see BT *Sotah* 13b. On his dying on Sabbath afternoon, see *Tosafot, Menaḥot* 30a, s.v. *mi-kan;* Radak on [[Joshua 03#^3-2|Joshua 3:2]]; *Sefer Ḥasidim* (ed. Margaliot), par. 356 (and Margaliot’s n. 2); *Sefer Ḥasidim* (ed. Wistinetzki), par. 1018 (and Wistinetzki’s n. 5); Zedekiah ben Abraham Anav, *Shibbolei ha-Leqet*, par. 126; *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-156a|2:156a]]; *Sha’arei Teshuvah (Teshuvot ha-Ge’onim)*, 30, 220; Ginzberg, *Legends*, 6:167–68, n. 966; *NZ*; Ta-Shma, *Ha-Nigleh she-ba-Nistar*, 32. Cf. *Zohar* [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-44b|1:44b]] (*Heikh*); [[Zohar 12.05 - Heikhalot Pequdei#^z2-253b|2:253b]] (*Heikh*).
+    On Moses dying on the Sabbath, see BT [[Sotah 13#13b|*Sotah* 13b]]. On his dying on Sabbath afternoon, see *Tosafot, Menaḥot* 30a, s.v. *mi-kan;* Radak on [[Joshua 03#^3-2|Joshua 3:2]]; *Sefer Ḥasidim* (ed. Margaliot), par. 356 (and Margaliot’s n. 2); *Sefer Ḥasidim* (ed. Wistinetzki), par. 1018 (and Wistinetzki’s n. 5); Zedekiah ben Abraham Anav, *Shibbolei ha-Leqet*, par. 126; *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-156a|2:156a]]; *Sha’arei Teshuvah (Teshuvot ha-Ge’onim)*, 30, 220; Ginzberg, *Legends*, 6:167–68, n. 966; *NZ*; Ta-Shma, *Ha-Nigleh she-ba-Nistar*, 32. Cf. *Zohar* [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-44b|1:44b]] (*Heikh*); [[Zohar 12.05 - Heikhalot Pequdei#^z2-253b|2:253b]] (*Heikh*).
 
 [^497]: **Torah is crowned…** Torah symbolizes *Tif’eret*, the trunk of the cosmic tree. The seventy branches correspond to the seven lower *sefirot* (*Ḥesed* through *Shekhinah*), which continue branching out. The five main branches are *Ḥesed, Gevurah, Netsaḥ, Hod*, and *Yesod*, surrounding *Tif’eret* (and corresponding to the five books of Torah). “Those gates” are the fifty gates of *Binah*, through which pours divine light.
 
@@ -3083,31 +3083,31 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^503]: **Cappadocian! With your donkey?** Rabbi Shim’on scolds Rabbi Yudai for initiating a discussion of Torah before dismounting from his donkey.
 
-    See *DE*. On dismounting from a donkey before engaging in esoteric matters, see BT *Ḥagigah* 14b. Cf. *Tosefta Ḥagigah* 2:1; *Mekhilta de-Rashbi*, [[Torah 18 - Mishpatim#^21-1|Exodus 21:1]]; JT *Ḥagigah* 2:1, 77a.
+    See *DE*. On dismounting from a donkey before engaging in esoteric matters, see BT [[Chagigah 14#14b|*Ḥagigah* 14b]]. Cf. *Tosefta Ḥagigah* 2:1; *Mekhilta de-Rashbi*, [[Torah 18 - Mishpatim#^21-1|Exodus 21:1]]; JT *Ḥagigah* 2:1, 77a.
 
     The Jerusalem Talmud refers numerous times to Rabbi Yudan the Cappadocian, in one case disproving a statement of his. See JT *Berakhot* 4:1, 7c. According to *ZḤ* [[Zohar 10.04 - Parashat Noah#^zh-22a|22a]] (*MhN*), certain Cappadocians are “lacking in good deeds.” On Cappadocia in the *Zohar*, see Scholem, “She’elot be-Viqqoret ha-Zohar,” 40–46 (and the appended note by S. Klein, 56); above, p. 184, n. 160.
 
 [^504]: **Tie it up by its pommel…** “Pommel” renders טיפסא (*tifsa*), a Zoharic term with a wide range of meaning, here apparently derived from the rabbinic Hebrew תפוס (*tafus*) or תופס (*tofes*), understood to mean “pommel” (the protuberance at the front and top of a saddle).
 
-    See *Tosefta Kelim, Bava Batra* 2:7; BT *Eruvin* 27a (and Rashi, ad loc., s.v. *tafus*); *Arukh ha-Shalem*, s.v. *ukkaf;* Lieberman, *Tosefet Rishonim*, 3:76–77; Tishby, *Mishnat ha-Zohar*, 2:637. For other interpretations, see Galante; *DE*; *MM*; Luria, *Va-Ye’esof David*, s.v. *tifsa*. Cf. *Bei’ur ha-Millim ha-Zarot*, 178–79, s.v. *tufsa, tifsa*.
+    See *Tosefta Kelim, Bava Batra* 2:7; BT [[Eruvin 27#27a|*Eruvin* 27a]] (and Rashi, ad loc., s.v. *tafus*); *Arukh ha-Shalem*, s.v. *ukkaf;* Lieberman, *Tosefet Rishonim*, 3:76–77; Tishby, *Mishnat ha-Zohar*, 2:637. For other interpretations, see Galante; *DE*; *MM*; Luria, *Va-Ye’esof David*, s.v. *tifsa*. Cf. *Bei’ur ha-Millim ha-Zarot*, 178–79, s.v. *tufsa, tifsa*.
 
 [^505]: **a word of Torah requires thirsting clarity** Such mental clarity is difficult while riding a donkey.
 
     “Thirsting clarity” renders צחותא (*tsaḥuta*), which in Aramaic means “thirst,” but here alludes to the Hebrew צחות (*tsaḥut*), “clarity.” See the Talmudic Aramaic saying: “Legal discussion requires צילותא (*tsiluta*), clarity, like a day of the north wind.”
 
-    See BT *Eruvin* 65a; *Megillah* 28b; *Targum*, [[Song of Songs 6#^6-7|Song of Songs 6:7]]; *Zohar* [[Zohar 1.08 - Parashat Noah#^z1-72a|1:72a]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-23a|3:23a]], [[Zohar 7.06 - Parashat Tazri'a#^z3-46a|46a]], [[Zohar 9.10 - Commentary on Balaq, continued#^z3-207b|207b]], [[Zohar 9.11 - Parashat Pinehas#^z3-221b|221b]], [[Zohar 9.12 - Parashat Va-Ethannan#^z3-266b|266b]]; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-13d|13d]] (*MhN*); Scholem, *Major Trends*, 389, n. 49.
+    See BT [[Eruvin 65#65a|*Eruvin* 65a]]; [[Megillah 28#28b|*Megillah* 28b]]; *Targum*, [[Song of Songs 6#^6-7|Song of Songs 6:7]]; *Zohar* [[Zohar 1.08 - Parashat Noah#^z1-72a|1:72a]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-23a|3:23a]], [[Zohar 7.06 - Parashat Tazri'a#^z3-46a|46a]], [[Zohar 9.10 - Commentary on Balaq, continued#^z3-207b|207b]], [[Zohar 9.11 - Parashat Pinehas#^z3-221b|221b]], [[Zohar 9.12 - Parashat Va-Ethannan#^z3-266b|266b]]; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-13d|13d]] (*MhN*); Scholem, *Major Trends*, 389, n. 49.
 
 [^506]: **Because of my Master…** Rabbi Yudai insists that he set out on the road in order to meet Rabbi Shim’on, imbibe his words of Torah, and thereby attain a vision of *Shekhinah*.
 
     See JT *Eruvin* 5:1, 22b, in the name of Rabbi Zeira: “Whoever greets his teacher is considered as if he greeted *Shekhinah*.”
 
-[^507]: **This matter has already been established…** On the passage in Isaiah, see BT *Sanhedrin* 93b; *Pirqei de-Rabbi Eli’ezer* 52; *Zohar* [[Zohar 3.04 - Parashat Va-Yeshev#^z1-187b|1:187b]]; [[Zohar 8.03 - Parashat Qedoshim#^z3-82a|3:82a]]; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-89c|ZḤ* 89c]] (*MhN, Rut*); Moses de León, *Sefer ha-Rimmon*, 250–51; idem, *Sefer ha-Mishqal*, 141–42; Gikatilla, *Sha’arei Orah*, 21b; Baḥya ben Asher on [[Torah 30 - Kedoshim#^19-2|Leviticus 19:2]].
+[^507]: **This matter has already been established…** On the passage in Isaiah, see BT [[Sanhedrin 93#93b|*Sanhedrin* 93b]]; *Pirqei de-Rabbi Eli’ezer* 52; *Zohar* [[Zohar 3.04 - Parashat Va-Yeshev#^z1-187b|1:187b]]; [[Zohar 8.03 - Parashat Qedoshim#^z3-82a|3:82a]]; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-89c|ZḤ* 89c]] (*MhN, Rut*); Moses de León, *Sefer ha-Rimmon*, 250–51; idem, *Sefer ha-Mishqal*, 141–42; Gikatilla, *Sha’arei Orah*, 21b; Baḥya ben Asher on [[Torah 30 - Kedoshim#^19-2|Leviticus 19:2]].
 
 [^508]: **Who are *eunuchs*?…** Rabbi Shim’on explains that this refers to the Companions, who act as eunuchs all six days of the week, abstaining from sexual relations with their wives. Then, on Sabbath eve, they unite with their wives, imitating and stimulating the divine union of *Tif’eret* and *Shekhinah*.
 
     The Mishnah (*Ketubbot* 5:6) discusses how often husbands of various professions are required to fulfill the commandment of עונה (*onah*), “conjugal rights,” i.e., to satisfy their wives sexually. According to Rabbi Eli’ezer, “The *onah* mentioned in the Torah \[applies as follows\] : Those who are unoccupied, every day; laborers, twice a week; donkey-drivers, once a week; camel-drivers, once every thirty days; sailors, once every six months.”
 
-    The Talmud (BT *Ketubbot* 62b) adds: “When is the *onah* of the disciples of the wise? \[i.e., What is the proper interval between two successive times of fulfilling this *mitsvah*?\] Rav Yehudah said in the name of Shemu’el, ‘From one Sabbath eve to the next.’”
+    The Talmud (BT [[Ketubot 62#62b|*Ketubbot* 62b]]) adds: “When is the *onah* of the disciples of the wise? \[i.e., What is the proper interval between two successive times of fulfilling this *mitsvah*?\] Rav Yehudah said in the name of Shemu’el, ‘From one Sabbath eve to the next.’”
 
     See *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-14a|1:14a]]–b, [[Zohar 1.07 - Parashat Be-Reshit#^z1-50a|50a]], [[Zohar 10.06 - Parashat Va-Yera#^z1-112a|112a]] (*MhN*); [[Zohar 4.06 - Parashat Be-Shallah#^z2-63b|2:63b]], [[Zohar 5.05 - Parashat Terumah#^z2-136a|136a–b]], [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-204b|204b–205a]]; [[Zohar 7.06 - Parashat Tazri'a#^z3-49b|3:49b]], [[Zohar 7.08 - Parashat Aharei Mot#^z3-78a|78a]], [[Zohar 8.03 - Parashat Qedoshim#^z3-81a|81a]], [[Zohar 8.03 - Parashat Qedoshim#^z3-82a|82a]]; Tishby, *Wisdom of the Zohar*, 3:1232–33; Wolfson, “Eunuchs Who Keep the Sabbath.” Cf. [[Matthew 19#^19-12|Matthew 19:12]]. On *Shekhinah*’s title *Matronita*, see above, note 486.
 
@@ -3127,7 +3127,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^513]: ***seed of truth*, precisely…** The souls of these children issue on Sabbath eve from *Tif’eret*, who is known as *truth, Jacob*, and the blessed Holy One.
 
-    On truth as the holy signet ring, see BT *Shabbat* 55a, in the name of Rabbi Ḥanina: “The seal of the blessed Holy One is truth.”
+    On truth as the holy signet ring, see BT [[Shabbat 55#55a|*Shabbat* 55a]], in the name of Rabbi Ḥanina: “The seal of the blessed Holy One is truth.”
 
     See JT *Sanhedrin* 1:1, 18a; *Bereshit Rabbah* 81:2; *Shir ha-Shirim Rabbah* on 1:9; *Devarim Rabbah* 1:10; *Shemot Rabbah* 4:3.
 
@@ -3135,7 +3135,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^515]: **The world consists only of those Companions…** They are the essence of the world.
 
-    “The ignorant” renders דארעא‎ עמא (*amma de-ar’a*), equivalent to Hebrew הארץ‎ עם (*am ha-arets*), “people of the land, rural population”; hence, those who are coarse, unrefined, illiterate, ignorant of the Torah and unobservant of certain ritual practices. Various decrees against “the ignorant” appear in BT *Pesaḥim* 49b, including one in the name of Rabbi El’azar: “An *am ha-arets*, it is permitted to stab him even on Yom Kippur that falls on the Sabbath.”
+    “The ignorant” renders דארעא‎ עמא (*amma de-ar’a*), equivalent to Hebrew הארץ‎ עם (*am ha-arets*), “people of the land, rural population”; hence, those who are coarse, unrefined, illiterate, ignorant of the Torah and unobservant of certain ritual practices. Various decrees against “the ignorant” appear in BT [[Pesachim 49#49b|*Pesaḥim* 49b]], including one in the name of Rabbi El’azar: “An *am ha-arets*, it is permitted to stab him even on Yom Kippur that falls on the Sabbath.”
 
     *Whoredom* is apparently construed as referring to Lilith, the demonic whore. Since these children are conceived in an unholy manner on weekdays, when demonic forces prevail, they are contaminated by impurity. See Galante; Tishby, *Wisdom of the Zohar*, 3:1393; *MmD*.
 
@@ -3157,9 +3157,9 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^522]: ***You shall not kindle fire*…** One who kindles fire on Sabbath arouses the fiery power of Judgment. However, this applies only to fire kindled *in all your dwellings*, not to the fire burning constantly on the altar of the Temple, which “ascends to the Most High” and overwhelms the fire of Judgment. Thus on Sabbath, the realm of pure Compassion (the Holy Ancient One) appears and prevails.
 
-    See *Zohar* [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-203b|2:203b]]; Moses de León, *Sefer ha-Rimmon*, 358. On the contrast between kindling *fire in all your dwellings* and kindling fire in the Temple, see *Mekhilta, Shabbeta (Vayaqhel)* 1; BT *Shabbat* 20a.
+    See *Zohar* [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-203b|2:203b]]; Moses de León, *Sefer ha-Rimmon*, 358. On the contrast between kindling *fire in all your dwellings* and kindling fire in the Temple, see *Mekhilta, Shabbeta (Vayaqhel)* 1; BT [[Shabbat 20#20a|*Shabbat* 20a]].
 
-    On the expression “fire consuming fire,” see BT *Yoma* 21b (describing the fire of *Shekhinah*, which consumes the fiery angels); *Tanḥuma, Yitro* 16; *Tosafot, Ḥagigah* 23a, s.v. *she-ein bo; Zohar* 1:18b–19a, 50b, 69a; 2:226b; 3:25b, 27b, 138a (*IR*), 154b, 294a (*IZ*); Moses de León, *Sefer ha-Mishqal*, 63–65.
+    On the expression “fire consuming fire,” see BT [[Yoma 21#21b|*Yoma* 21b]] (describing the fire of *Shekhinah*, which consumes the fiery angels); *Tanḥuma, Yitro* 16; *Tosafot, Ḥagigah* 23a, s.v. *she-ein bo; Zohar* 1:18b–19a, 50b, 69a; 2:226b; 3:25b, 27b, 138a (*IR*), 154b, 294a (*IZ*); Moses de León, *Sefer ha-Mishqal*, 63–65.
 
 [^523]: ***six days YHVH made*… not *in six days*…** The simple sense of the verse is that God made the world in six days. However, the Hebrew wording does not include the preposition ב (*be*), “in,” and here that lack is exploited to suggest that *YHVH made six days*, that is, He emanated six cosmic days (the *sefirot* from *Ḥesed* through *Yesod*), thereby generating *Tif’eret* (*heaven*) and *Shekhinah* (*earth*).
 
@@ -3177,11 +3177,11 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^526]: ***Honor your father*—the blessed Holy One…** According to Rabbi El’azar, *father* refers to *Tif’eret*, known also as the blessed Holy One; *mother* refers to *Shekhinah*, known also as Assembly of Israel. This divine couple engenders souls.
 
-    The interpretation of *father* and *mother* as divine parents probably derives from BT *Berakhot* 35b: “Rabbi Ḥanina son of Papa said, ‘Whoever enjoys this world without reciting a blessing—it is as if he robs the blessed Holy One and Assembly of Israel, as is said: *He who robs his father and mother and says, “It is no crime,” is partner to a destroyer* ([[Proverbs 28#^28-24|Proverbs 28:24]])—*father* is none other than the blessed Holy One… and *mother* is none other than Assembly of Israel.’”
+    The interpretation of *father* and *mother* as divine parents probably derives from BT [[Berakhot 35#35b|*Berakhot* 35b]]: “Rabbi Ḥanina son of Papa said, ‘Whoever enjoys this world without reciting a blessing—it is as if he robs the blessed Holy One and Assembly of Israel, as is said: *He who robs his father and mother and says, “It is no crime,” is partner to a destroyer* ([[Proverbs 28#^28-24|Proverbs 28:24]])—*father* is none other than the blessed Holy One… and *mother* is none other than Assembly of Israel.’”
 
 [^527]: **אביך‎ את (*Et avikha*), *your father*…** Grammatically, the word את (*et*) is almost always an accusative particle with no clear independent sense. However, already in rabbinic times, Naḥum of Gimzo and his disciple Rabbi Akiva taught that the presence of *et* in a biblical verse amplifies the apparent meaning. Here, as often in the *Zohar*, את (*et*) alludes to *Shekhinah*, who comprises the totality of divine speech, the entire alphabet from א (*alef*) to ת (*tav*). Thus, although the phrase *your mother* alludes to *Shekhinah* (known as Assembly of Israel), the preceding phrase—אביך‎ את (*et avikha*), *your father*—already includes Her.
 
-    On *et*, see BT *Pesaḥim* 22b, *Ḥagigah* 12a; *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-247a|1:247a]]; [[Zohar 4.07 - Parashat Yitro#^z2-81b|2:81b]].
+    On *et*, see BT [[Pesachim 22#22b|*Pesaḥim* 22b]], [[Chagigah 12#12a|*Ḥagigah* 12a]]; *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-247a|1:247a]]; [[Zohar 4.07 - Parashat Yitro#^z2-81b|2:81b]].
 
 [^528]: ***Honor your father*—unspecified…** Rabbi Abba had interpreted *father* as referring to *Ḥokhmah*. Rabbi El’azar had interpreted *your father* as referring to *Tif’eret*, and *your mother* as referring to *Shekhinah*. Rabbi Yehudah indicates that the wording in the Ten Commandments does not specify which *father* and *mother* are intended, which suggests that both sets of divine parents should be honored. The particle את (*et*) amplifies the meaning to include the entire sefirotic realm and the worlds below.
 
@@ -3195,7 +3195,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^531]: **Including one’s teacher…** In the command to honor one’s parents, the particle את (*et*) amplifies the meaning to include honoring one’s teacher. Parents bring a child into this world; a teacher renders him worthy of the world that is coming.
 
-    Cf. BT *Pesaḥim* 22b, where R. Akiva offers an interpretation of [[Torah 46 - Eikev#^10-20|Deuteronomy 10:20]]: את (*Et*) *YHVH your God you shall revere*, explaining that here the word *et* appears in order “to include scholars.” See *Zohar* [[Zohar 2.03 - Parashat Va-Yera#^z1-112a|1:112a]]–b, [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-132b|132b]]. On *et*, see above, note 527.
+    Cf. BT [[Pesachim 22#22b|*Pesaḥim* 22b]], where R. Akiva offers an interpretation of [[Torah 46 - Eikev#^10-20|Deuteronomy 10:20]]: את (*Et*) *YHVH your God you shall revere*, explaining that here the word *et* appears in order “to include scholars.” See *Zohar* [[Zohar 2.03 - Parashat Va-Yera#^z1-112a|1:112a]]–b, [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-132b|132b]]. On *et*, see above, note 527.
 
 [^532]: **He is included with the blessed Holy One** According to Rabbi Yehudah, the obligation to honor one’s teacher derives not from the command to honor one’s parents but from the command to honor God.
 
@@ -3267,7 +3267,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     For Rabbi Yose, the verse in Exodus may now mean: Even though these two precious metals symbolize divine qualities, “you shall not divinize them,” or (following the midrashic interpretation) “*you shall not make* אותי (*oti*), *Me*, into a human-like image fashioned out of silver or gold.” Or, perhaps: “You shall not divide the unified divinity who is centered in *Tif’eret* into a duality of *Ḥesed* and *Gevurah*.”
 
-    For the midrashic reading of the verse in Exodus, see *Mekhilta, Baḥodesh* 10; BT *Rosh ha-Shanah* 24b; Kasher, *Torah Shelemah*, [[Torah 17 - Yitro#^20-20|Exodus 20:20]], n. 495. On the verse in Haggai, see *Bahir* 34–35 (52); *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-217a|1:217a]]; [[Zohar 5.05 - Parashat Terumah#^z2-138b|2:138b]], [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-197b|197b]]. For various interpretations of Rabbi Yose’s statement, see *OY*; Vital; Galante; *MM*; *NO*; *MmD*.
+    For the midrashic reading of the verse in Exodus, see *Mekhilta, Baḥodesh* 10; BT [[Rosh Hashanah 24#24b|*Rosh ha-Shanah* 24b]]; Kasher, *Torah Shelemah*, [[Torah 17 - Yitro#^20-20|Exodus 20:20]], n. 495. On the verse in Haggai, see *Bahir* 34–35 (52); *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-217a|1:217a]]; [[Zohar 5.05 - Parashat Terumah#^z2-138b|2:138b]], [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-197b|197b]]. For various interpretations of Rabbi Yose’s statement, see *OY*; Vital; Galante; *MM*; *NO*; *MmD*.
 
 [^547]: ***You are great and Your name is great in power*…** גדול (*Gadol*), *Great*, refers to *Ḥesed*, also known as *Gedullah* (Greatness) and symbolized by silver. *Ḥesed*’s polar opposite is גבורה (*Gevurah*), *Power*, symbolized by gold. These two divine aspects, or colors, appear fully in *Tif’eret*, whose full name is *Tif’eret Yisra’el* (Beauty of Israel).
 
@@ -3317,9 +3317,9 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     The first version of the Ten Commandments reads: זכור (*Zakhor*), *Remember, the Sabbath day to keep it holy* ([[Torah 17 - Yitro#^20-8|Exodus 20:8]]). The second version reads: שמור (*Shamor*), *Observe, the Sabbath day to keep it holy* ([[Torah 45 - Vaetchanan#^5-12|Deuteronomy 5:12]]). According to rabbinic tradition, these two versions were spoken by God simultaneously. According to Kabbalah, *zakhor, remember*, suggests זכר (*zakhar*), “male,” signifying the male divine potency, whereas the alternative formulation, *shamor, observe*, signifies the female, *Shekhinah*. Further, *zakhor* implies the 248 positive commandments of Torah (since time-bound positive commandments are generally incumbent only on men), while *shamor* implies the 365 negative commandments (incumbent on women as well), together totaling 613 commandments.
 
-    On *remember* and *observe* being spoken simultaneously, see *Mekhilta, Baḥodesh* 7; *Mekhilta de-Rashbi*, [[Torah 17 - Yitro#^20-8|Exodus 20:8]]; *Midrash Tanna’im*, [[Torah 45 - Vaetchanan#^5-12|Deuteronomy 5:12]]; JT *Nedarim* 3:2, 37d; BT *Rosh ha-Shanah* 27a.
+    On *remember* and *observe* being spoken simultaneously, see *Mekhilta, Baḥodesh* 7; *Mekhilta de-Rashbi*, [[Torah 17 - Yitro#^20-8|Exodus 20:8]]; *Midrash Tanna’im*, [[Torah 45 - Vaetchanan#^5-12|Deuteronomy 5:12]]; JT *Nedarim* 3:2, 37d; BT [[Rosh Hashanah 27#27a|*Rosh ha-Shanah* 27a]].
 
-    See BT *Berakhot* 20b; *Bahir* 124 (182); Ezra of Gerona, *Peirush le-Shir ha-Shirim*, 496–97; Naḥmanides on [[Torah 17 - Yitro#^20-8|Exodus 20:8]]; Jacob ben Sheshet, *Sefer ha-Emunah ve-ha-Bittaḥon*, 420; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-5b|1:5b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-47b|47b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-48b|48b]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-164b|164b]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-199b|199b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-248a|248a]]; [[Zohar 4.07 - Parashat Yitro#^z2-70b|2:70b]], [[Zohar 12.06 - Piqqudin#^z2-92a|92a–b]] (*Piq*), [[Zohar 5.05 - Parashat Terumah#^z2-138a|138a]]; [[Zohar 8.03 - Parashat Qedoshim#^z3-81b|3:81b]], [[Zohar 12.06 - Piqqudin#^z3-92b|92b]] (*Piq*), [[Zohar 8.06 - Parashat Be-Huqqotai#^z3-115b|115b]], [[Zohar 9.11 - Parashat Pinehas#^z3-224a|224a]]; Moses de León, *Sefer ha-Rimmon*, 118; idem, *Sefer ha-Mishqal*, 110; Wolfson, introduction to *Sefer ha-Rimmon*, 63–71.
+    See BT [[Berakhot 20#20b|*Berakhot* 20b]]; *Bahir* 124 (182); Ezra of Gerona, *Peirush le-Shir ha-Shirim*, 496–97; Naḥmanides on [[Torah 17 - Yitro#^20-8|Exodus 20:8]]; Jacob ben Sheshet, *Sefer ha-Emunah ve-ha-Bittaḥon*, 420; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-5b|1:5b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-47b|47b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-48b|48b]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-164b|164b]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-199b|199b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-248a|248a]]; [[Zohar 4.07 - Parashat Yitro#^z2-70b|2:70b]], [[Zohar 12.06 - Piqqudin#^z2-92a|92a–b]] (*Piq*), [[Zohar 5.05 - Parashat Terumah#^z2-138a|138a]]; [[Zohar 8.03 - Parashat Qedoshim#^z3-81b|3:81b]], [[Zohar 12.06 - Piqqudin#^z3-92b|92b]] (*Piq*), [[Zohar 8.06 - Parashat Be-Huqqotai#^z3-115b|115b]], [[Zohar 9.11 - Parashat Pinehas#^z3-224a|224a]]; Moses de León, *Sefer ha-Rimmon*, 118; idem, *Sefer ha-Mishqal*, 110; Wolfson, introduction to *Sefer ha-Rimmon*, 63–71.
 
     On the unique quality of the first two commandments, see above, note 281. On these two commandments as including all of the positive and negative commandments, see *TZ* 22, 63b–64a. Cf. *Bahir* 32 (49).
 
@@ -3329,7 +3329,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^561]: **the Sanctuary was purified…** *Shekhinah* (symbolized by the Sanctuary) was purified and no demonic powers could threaten Her.
 
-    On the elimination of the evil impulse at Sinai, see *Shir ha-Shirim Rabbah* 1:15 (on 1:2); *Pesiqta Rabbati* 41; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-52a|1:52a]]–b; [[Zohar 6.03 - Parashat Tetsavveh#^z2-183b|2:183b]]; [[Zohar 12.06 - Piqqudin#^z3-97b|3:97b]] (*Piq*); Moses de León, *Sefer ha-Rimmon*, 139 (and Wolfson’s note). Cf. BT *Yevamot* 103b, in the name of Rabbi Yoḥanan: “When the serpent copulated with Eve, he injected her with זוהמא (*zohama*), filth \[or: slime, lust\]. Israel, who stood at Mount Sinai—their filth ceased. Star-worshipers, who did not stand at Mount Sinai—their filth did not cease.” See below, note 609.
+    On the elimination of the evil impulse at Sinai, see *Shir ha-Shirim Rabbah* 1:15 (on 1:2); *Pesiqta Rabbati* 41; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-52a|1:52a]]–b; [[Zohar 6.03 - Parashat Tetsavveh#^z2-183b|2:183b]]; [[Zohar 12.06 - Piqqudin#^z3-97b|3:97b]] (*Piq*); Moses de León, *Sefer ha-Rimmon*, 139 (and Wolfson’s note). Cf. BT [[Yevamot 103#103b|*Yevamot* 103b]], in the name of Rabbi Yoḥanan: “When the serpent copulated with Eve, he injected her with זוהמא (*zohama*), filth \[or: slime, lust\]. Israel, who stood at Mount Sinai—their filth ceased. Star-worshipers, who did not stand at Mount Sinai—their filth did not cease.” See below, note 609.
 
     The concluding phrase, “complete mystery in the Holy Name,” may allude to the sefirotic symbolism of the letters of יהוה (*YHVH*). See above, note 544.
 
@@ -3365,17 +3365,17 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^569]: **tower flying, ascending in the air…** The towering ל (*lamed*) represents a warning not to repeat the sin of those who built the Tower of Babel, which is interpreted here as an idolatrous monument.
 
-    The image of a tower flying in the air originates in the Talmud (BT *Ḥagigah* 15b, *Sanhedrin* 106b), where the phrase *counter of the towers* ([[Isaiah 33#^33-18|Isaiah 33:18]]) is interpreted as: “one who counted three hundred fixed laws concerning a tower flying in the air.” The laws are apparently laws of defilement (see M *Oholot* 4:1). Rashi (on both Talmudic passages) offers several interpretations, including one from his teacher that the tower refers to the letter ל (*lamed*), tallest letter of the alphabet.
+    The image of a tower flying in the air originates in the Talmud (BT [[Chagigah 15#15b|*Ḥagigah* 15b]], [[Sanhedrin 106#106b|*Sanhedrin* 106b]]), where the phrase *counter of the towers* ([[Isaiah 33#^33-18|Isaiah 33:18]]) is interpreted as: “one who counted three hundred fixed laws concerning a tower flying in the air.” The laws are apparently laws of defilement (see M *Oholot* 4:1). Rashi (on both Talmudic passages) offers several interpretations, including one from his teacher that the tower refers to the letter ל (*lamed*), tallest letter of the alphabet.
 
     See *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-6a|1:6a]] (Vol. 1, p. 36, n. 251); 2:102a; *ZḤ* [[Zohar 12.09 - Qav ha-Middah#^zh-58a|58a]], 66a–b (*ShS*), 70a (*ShS*); Moses de León, *Sheqel ha-Qodesh*, 89–90 (112–14). On the Tower of Babel, see *Zohar* [[Zohar 1.08 - Parashat Noah#^z1-74b|1:74b]] (*ST*).
 
 [^570]: **ל (*Lamed*)…not to bow…** The upright image of the ל (*lamed*) indicates that one should not bow down to any false god.
 
-    On not turning to or looking at idols, see [[Torah 30 - Kedoshim#^19-4|Leviticus 19:4]]; BT *Shabbat* 149a; Maimonides, *Mishneh Torah, Hilkhot Avodat Kokhavim* 2:2; *Zohar* [[Zohar 8.03 - Parashat Qedoshim#^z3-84a|3:84a]].
+    On not turning to or looking at idols, see [[Torah 30 - Kedoshim#^19-4|Leviticus 19:4]]; BT [[Shabbat 149#149a|*Shabbat* 149a]]; Maimonides, *Mishneh Torah, Hilkhot Avodat Kokhavim* 2:2; *Zohar* [[Zohar 8.03 - Parashat Qedoshim#^z3-84a|3:84a]].
 
 [^571]: **א (*Alef*)—not to substitute the unity…** *Alef*—the concluding letter of the word לא (*lo*)—has a numerical value of one, indicating God’s oneness and unity, which must not be compromised or betrayed.
 
-[^572]: **א (*Alef*)—not to stray after a ghost or familiar spirit…** Not to engage in necromancy, as forbidden in [[Torah 30 - Kedoshim#^19-31|Leviticus 19:31]]. “Through the mystery of a human image…” refers to necromantic techniques such as consulting a human skull. (See BT *Sanhedrin* 65b.) Here, the א (*alef*) indicates אדם (*adam*), “human.”
+[^572]: **א (*Alef*)—not to stray after a ghost or familiar spirit…** Not to engage in necromancy, as forbidden in [[Torah 30 - Kedoshim#^19-31|Leviticus 19:31]]. “Through the mystery of a human image…” refers to necromantic techniques such as consulting a human skull. (See BT [[Sanhedrin 65#65b|*Sanhedrin* 65b]].) Here, the א (*alef*) indicates אדם (*adam*), “human.”
 
 [^573]: **א (*Alef*)—not to swear orally by the name of another god** Here א (*alef*) apparently alludes to אחרים‎ אלהים (*elohim aḥerim*), “other gods.”
 
@@ -3407,7 +3407,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^582]: **when the blessed Holy One planted the world…** At Creation, God sealed the watery depths with the Foundation Stone, engraved with the Divine Name, thereby ensuring that the waters would not rise and inundate the world.
 
-    Cf. the tradition reported in the name of Rabbi Yoḥanan (BT *Sukkah* 53a–b): “When David dug the hollows \[beneath the site of the Temple\], the abyss arose and threatened to drown the world.… \[David\] inscribed the \[divine\] Name on a potsherd and cast it into the abyss, and it subsided.…”
+    Cf. the tradition reported in the name of Rabbi Yoḥanan (BT [[Sukkah 53#53a|*Sukkah* 53a]]–b): “When David dug the hollows \[beneath the site of the Temple\], the abyss arose and threatened to drown the world.… \[David\] inscribed the \[divine\] Name on a potsherd and cast it into the abyss, and it subsided.…”
 
     See JT *Sanhedrin* 10:2, 29a; *Midrash Shemu’el* 26; Gaster, ed., *Sefer ha-Ma’asiyyot*, 113–14; *Zohar* [[Zohar 9.10 - Commentary on Balaq, continued#^z3-198b|3:198b]]; Ginzberg, *Legends*, 6:258, n. 70; Liebes, *Torat ha-Yetsirah*, 177–89.
 
@@ -3435,7 +3435,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     Below *Yesod* is *Shekhinah*, who is vulnerable to forgetting; so angelic officials are stationed near Her to record human actions. *Shekhinah* is known as the Holy Throne, and according to a rabbinic tradition, “There is no forgetting before Your Throne of Glory.” Here, Rabbi Shim’on interprets this to mean that in the *sefirah* preceding (“before”) *Shekhinah*, namely *Yesod* (known as *Zakhor*), there is no forgetting. All the more so, in the higher reaches of the World of the Male, engraved with the name יהו (*YHV*).
 
-    On remembering and forgetting, see *Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-159b|1:159b]]–160a, [[Zohar 3.05 - Parashat Mi-Qets#^z1-193b|193b]]. On the World of the Male, see above, note 147. For the statement “There is no forgetting…,” see BT *Berakhot* 32b; *Midrash Tehillim* 137:8. On the name יהו (*YHV*), see above, note 553.
+    On remembering and forgetting, see *Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-159b|1:159b]]–160a, [[Zohar 3.05 - Parashat Mi-Qets#^z1-193b|193b]]. On the World of the Male, see above, note 147. For the statement “There is no forgetting…,” see BT [[Berakhot 32#32b|*Berakhot* 32b]]; *Midrash Tehillim* 137:8. On the name יהו (*YHV*), see above, note 553.
 
 [^591]: **Below needs to be sanctified…** *Shekhinah*, situated below *Yesod*, is sanctified by His holy, blessed flow, which is stimulated when Israel adorns Her with their Sabbath prayers and the meal of Sabbath eve. She is known as Entrance of Sabbath.
 
@@ -3445,15 +3445,15 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     The simple sense of מהונך (*me-hinnekha*), *with your substance*, is “with your wealth,” but a midrashic reading suggests מחנך (*meḥinnekha*), “with your grace”: you should honor God with whatever gifts He has bestowed upon you, e.g., by praising Him with a sweet voice. For one’s parents, the sweetest melody a child can offer is acting virtuously.
 
-    On the relation between the command to honor one’s parents and the verse in Proverbs, see *Mekhilta, Baḥodesh* 8; *Mekhilta de-Rashbi*, [[Torah 17 - Yitro#^20-12|Exodus 20:12]]; *Sifra, Qedoshim* 1:5, 86d; JT *Pe’ah* 1:1, 15c–d; *Qiddushin* 1:7, 61b; BT *Qiddushin* 30b, 32a; *Seder Eliyyahu Rabbah* 24; *Pesiqta Rabbati* 23.
+    On the relation between the command to honor one’s parents and the verse in Proverbs, see *Mekhilta, Baḥodesh* 8; *Mekhilta de-Rashbi*, [[Torah 17 - Yitro#^20-12|Exodus 20:12]]; *Sifra, Qedoshim* 1:5, 86d; JT *Pe’ah* 1:1, 15c–d; *Qiddushin* 1:7, 61b; BT [[Kiddushin 30#30b|*Qiddushin* 30b]], 32a; *Seder Eliyyahu Rabbah* 24; *Pesiqta Rabbati* 23.
 
     On הונך (*honekha*) and חנך (*ḥinnekha*), see JT *Pe’ah* 1:1, 15d; *Pesiqta de-Rav Kahana* 10:3; *Pesiqta Rabbati* 25; *Tanḥuma, Re’eh* 12; *Tanḥuma* (Buber), *Re’eh* 9; Rashi on [[Proverbs 03#^3-9|Proverbs 3:9]].
 
     The phrase “melody of the whole world” recalls “the harmony of the spheres,” turning in desire of the divine. See Aristotle, *On the Heavens* 2:9, 290b–291a; *Zohar* [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-41b|1:41b]] (*Heikh*), [[Zohar 2.06 - Parashat Va-Yetse#^z1-161b|161b]] (*ST*), [[Zohar 3.07 - Parashat Va-Yhi#^z1-233b|233b]] (*Tos*); [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-196a|2:196a]], [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-211a|211a]]; [[Zohar 9.04 - Rav Metivta#^z3-165a|3:165a]], [[Zohar 9.10 - Commentary on Balaq, continued#^z3-209a|209a]]; Moses de León, *Seder Gan Eden*, 132. Cf. the closing lines of Dante, *Divine Comedy, Paradiso*.
 
-[^594]: **they share in a single partnership over him…** See BT *Qiddushin* 30b: “There are three partners in a human being: the blessed Holy One, his father, and his mother.”
+[^594]: **they share in a single partnership over him…** See BT [[Kiddushin 30#30b|*Qiddushin* 30b]]: “There are three partners in a human being: the blessed Holy One, his father, and his mother.”
 
-    See BT *Niddah* 31a; *Zohar* [[Zohar 12.06 - Piqqudin#^z3-83a|3:83a]] (*Piq*), 219b; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-16b|16b]] (*MhN*), [[Zohar 12.11 - Zohar al ha-Parashot#^zh-49a|49a]].
+    See BT [[Niddah 31#31a|*Niddah* 31a]]; *Zohar* [[Zohar 12.06 - Piqqudin#^z3-83a|3:83a]] (*Piq*), 219b; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-16b|16b]] (*MhN*), [[Zohar 12.11 - Zohar al ha-Parashot#^zh-49a|49a]].
 
 [^595]: ***So that your days may be prolonged*…** The length of a person’s life, or *days*, depends upon the seven cosmic *days*, namely, the *sefirot* from *Ḥesed* through *Shekhinah*. One who lives virtuously (for example, by honoring his parents) participates in and unifies these *sefirot*, thereby drawing down blessing and longevity. Moreover, a person’s fulfilled days ascend above, abiding in the presence of God.
 
@@ -3469,15 +3469,15 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     Rabbi Shim’on explains that both of these commandments link human *days* with sefirotic *days*. In the command to honor one’s parents, “father” and “mother” allude to *Tif’eret* (or *Yesod*) and *Shekhinah*, symbolized by *remember* and *observe*. See above, note 558. By honoring one’s parents, one stimulates the union of this divine couple and receives the gift of longevity.
 
-    On the connection between these two commandments, see *Sifrei*, Deuteronomy 336; JT *Pe’ah* 1:1, 15d; BT *Qiddushin* 39b; *Midrash Shemu’el* 7:2; *Devarim Rabbah* 6:2; *Tanḥuma, Eqev* 2; *Tanḥuma* (Buber), *Eqev* 3; *Pesiqta Rabbati* 23.
+    On the connection between these two commandments, see *Sifrei*, Deuteronomy 336; JT *Pe’ah* 1:1, 15d; BT [[Kiddushin 39#39b|*Qiddushin* 39b]]; *Midrash Shemu’el* 7:2; *Devarim Rabbah* 6:2; *Tanḥuma, Eqev* 2; *Tanḥuma* (Buber), *Eqev* 3; *Pesiqta Rabbati* 23.
 
 [^598]: **concerning sending off from the nest…** For the context in [[Torah 49 - Ki Teitzei#^22-1|Deuteronomy 22]], see the preceding note. The mother bird symbolizes the supernal world of *Binah* (the Divine Mother), who lies beyond comprehension and cannot be grasped. So, *send off the mother*—let Her go, put Her out of your mind, do not even try to capture this subtle dimension of divinity. Rather, focus on *the children*, the lower *sefirot* engendered by *Binah*.
 
-    The verse in [[Torah 45 - Vaetchanan#^4-1|Deuteronomy 4]] reads in full: *For ask now of primal days that were before you, from the day God created a human on the earth and from one end of heaven to the other end of heaven, has anything as great as this ever happened or has its like been heard?* The reference is to God’s redeeming Israel from Egypt and revealing Himself to them at Mount Sinai. In rabbinic literature this verse is interpreted as imposing a limit on cosmological speculation. See BT *Ḥagigah* 11b: “You may inquire concerning *from one end of heaven to the other*, but you may not inquire concerning what is above, what is below, what came before, what will come after.”
+    The verse in [[Torah 45 - Vaetchanan#^4-1|Deuteronomy 4]] reads in full: *For ask now of primal days that were before you, from the day God created a human on the earth and from one end of heaven to the other end of heaven, has anything as great as this ever happened or has its like been heard?* The reference is to God’s redeeming Israel from Egypt and revealing Himself to them at Mount Sinai. In rabbinic literature this verse is interpreted as imposing a limit on cosmological speculation. See BT [[Chagigah 11#11b|*Ḥagigah* 11b]]: “You may inquire concerning *from one end of heaven to the other*, but you may not inquire concerning what is above, what is below, what came before, what will come after.”
 
     In Kabbalah the *primal days* allude to the cosmic days of Creation, from *Ḥesed* to *Yesod*, whose core is *Tif’eret*, known as *heaven*. This entire realm, *from one end of heaven to the other*, is open to contemplative questioning; everything “above the *end of heaven*” (that is, *Binah* and what lies beyond Her) is incomprehensible.
 
-    On the kabbalistic interpretation of “sending off \[the mother\] from the nest,” see *Bahir* 74 (104–105); Naḥmanides and Recanati on [[Torah 49 - Ki Teitzei#^22-6|Deuteronomy 22:6]]; Todros Abulafia, *Otsar ha-Kavod, Berakhot* 33b, *Ḥullin* 142a; *Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-158a|1:158a]]; [[Zohar 4.03 - Parashat Shemot#^z2-7b|2:7b–8a]]; [[Zohar 9.11 - Parashat Pinehas#^z3-254a|3:254a]]; Moses de León, *Sefer ha-Rimmon*, 338–39. Cf. *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-219a|1:219a]]; [[Zohar 4.07 - Parashat Yitro#^z2-85b|2:85b]]. On the incomprehensibility of *Binah*, see *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-1b|1:1b]] (Vol. 1, p. 5, n. 27).
+    On the kabbalistic interpretation of “sending off \[the mother\] from the nest,” see *Bahir* 74 (104–105); Naḥmanides and Recanati on [[Torah 49 - Ki Teitzei#^22-6|Deuteronomy 22:6]]; Todros Abulafia, *Otsar ha-Kavod, Berakhot* 33b, [[Chullin 142#142a|*Ḥullin* 142a]]; *Zohar* [[Zohar 2.06 - Parashat Va-Yetse#^z1-158a|1:158a]]; [[Zohar 4.03 - Parashat Shemot#^z2-7b|2:7b–8a]]; [[Zohar 9.11 - Parashat Pinehas#^z3-254a|3:254a]]; Moses de León, *Sefer ha-Rimmon*, 338–39. Cf. *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-219a|1:219a]]; [[Zohar 4.07 - Parashat Yitro#^z2-85b|2:85b]]. On the incomprehensibility of *Binah*, see *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-1b|1:1b]] (Vol. 1, p. 5, n. 27).
 
     On the verse in [[Torah 45 - Vaetchanan#^4-1|Deuteronomy 4]], see also *Tosefta Ḥagigah* 2:1, 77c; *Midrash Tanna’im*, [[Torah 48 - Shoftim#^18-13|Deuteronomy 18:13]]; *Bereshit Rabbah* 1:10; *Pesiqta Rabbati* 10; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-1b|1:1b]] (Vol. 1, p. 5, n. 28), 30a, 85b–86a, 141b, 158a; 2:22a, 232a; Moses de León, *Sheqel ha-Qodesh*, 31 (36–37); idem, *Sefer ha-Rimmon*, 20, 375; idem, *Sod Eser Sefirot Belimah*, 371.
 
@@ -3489,7 +3489,7 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^601]: **by action of the body…** If one performs a *mitsvah* with genuine intention, his act is both physical and spiritual, delighting God. Yet even without the essential element of *kavvanah*, one can still rely on divine assistance to complete the arrayal and unification of the *sefirot*. King David prayed for precisely this: *The work of our hands, establish for us*—even if we cannot do this ourselves. The conclusion of the verse, *establish it*, refers to *Shekhinah*, who needs to be perfected through human action by being joined with the sefirotic triad of *Ḥesed, Gevurah*, and *Tif’eret*, symbolized by the three patriarchs.
 
-    The formulation “the blessed Holy One desires a person’s heart” appears in BT *Sanhedrin* 106b. The full verse in Psalms reads: *May the kindness of YHVH be upon us. The work of our hands, establish for us; the work of our hands, establish it*.
+    The formulation “the blessed Holy One desires a person’s heart” appears in BT [[Sanhedrin 106#106b|*Sanhedrin* 106b]]. The full verse in Psalms reads: *May the kindness of YHVH be upon us. The work of our hands, establish for us; the work of our hands, establish it*.
 
 [^602]: **תרצח‎ לא (*Lo tirtsaḥ*), *You shall not murder*…interrupted by an accent…** In the public reading of the Ten Commandments, a pausal accent sign (*tippeḥa*) appears beneath the word לא (*lo*), *not*, in each of these three commandments. According to Rabbi Shim’on, this sign transforms the meaning. For example, without the pausal accent under the *lo* of *lo tirtsaḥ, you shall not murder*, it would be forbidden to ever kill anyone, even a convicted murderer, which would lead to social chaos. The *tippeḥa*, however, yields a new reading: \[In general\] *lo*, \[you shall\] *not* \[murder\]; \[however, in certain situations\] *tirtsaḥ, you shall kill*.
 
@@ -3501,13 +3501,13 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^604]: **תגנב‎ לא (*Lo tignov*), *You shall not steal*…** The normal sense of this commandment, if taken to the extreme, would forbid even appropriating the wisdom of one’s teacher or feasting on his enlightened countenance. It would also prevent a judge from exposing a defendant’s (or disputant’s) lies by questioning him cunningly, since this would be considered דעת‎ גניבת (*geneivat da’at*), “stealing the mind, deception.” However, the pausal accent yields a new meaning: *Lo*, \[you shall\] *not* \[steal\]; \[however, in certain situations\] *tignov, you shall steal* \[the mind—that is, appropriate a teacher’s wisdom or deceive a deceiver\].
 
-    On the insight gained from seeing a teacher, see BT *Eruvin* 13b. On *geneivat da’at*, “stealing the mind, deception,” see [[II Samuel 15#^15-6|2 Samuel 15:6]]; *Mekhilta, Neziqin* 13; *Tosefta Bava Qamma* 7:8, 9, 13; Lieberman, *Tosefta ki-Fshutah*, 9:72–73. On stealing words of Torah, see *Leqaḥ Tov*, [[Torah 18 - Mishpatim#^22-3|Exodus 22:3]]; Lieberman, loc. cit. For another interpretation of “stealing the mind” of one’s teacher, see Galante; *MmD*.
+    On the insight gained from seeing a teacher, see BT [[Eruvin 13#13b|*Eruvin* 13b]]. On *geneivat da’at*, “stealing the mind, deception,” see [[II Samuel 15#^15-6|2 Samuel 15:6]]; *Mekhilta, Neziqin* 13; *Tosefta Bava Qamma* 7:8, 9, 13; Lieberman, *Tosefta ki-Fshutah*, 9:72–73. On stealing words of Torah, see *Leqaḥ Tov*, [[Torah 18 - Mishpatim#^22-3|Exodus 22:3]]; Lieberman, loc. cit. For another interpretation of “stealing the mind” of one’s teacher, see Galante; *MmD*.
 
 [^605]: **תענה‎ לא (*Lo ta’aneh*), *You shall not bear, false witness*…** Here the accent sign beneath the word לא (*lo*), *not*, is not pausal (or disjunctive), but rather conjunctive (*merkha*), since one should never *bear false witness*.
 
 [^606]: **In all words of Torah… supernal mysteries…** Just as a simple accent sign can transform the meaning of a verse, so innumerable mysteries pervade the words of Torah.
 
-    On this principle, see *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-54a|1:54a]], [[Zohar 2.05 - Parashat Toledot#^z1-135a|135a]], [[Zohar 2.05 - Parashat Toledot#^z1-145b|145b]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-163a|163a]], [[Zohar 3.04 - Parashat Va-Yeshev#^z1-187a|187a]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-201a|201a]]; [[Zohar 4.03 - Parashat Shemot#^z2-12a|2:12a]], [[Zohar 4.06 - Parashat Be-Shallah#^z2-59b|59b]], [[Zohar 4.06 - Parashat Be-Shallah#^z2-65b|65b]], [[Zohar 5.03 - Parashat Mishpatim#^z2-98b|98b–99b]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-79b|3:79b]], [[Zohar 8.11 - Parashat Be-Ha'alotekha#^z3-149a|149a]], [[Zohar 8.11 - Parashat Be-Ha'alotekha#^z3-152a|152a]], [[Zohar 9.05 - Commentary on Shelah Lekha, continued#^z3-174b|174b]], [[Zohar 9.10 - Commentary on Balaq, continued#^z3-202a|202a]], [[Zohar 9.12 - Parashat Va-Ethannan#^z3-265a|265a]]; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-6d|6d]] (*MhN*). Cf. *Sifrei*, Deuteronomy 336; *Midrash Tanna’im*, [[Torah 53 - Ha'Azinu#^32-47|Deuteronomy 32:47]]; BT *Menaḥot* 29b; Maimonides, *Guide of the Perplexed* 3:50.
+    On this principle, see *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-54a|1:54a]], [[Zohar 2.05 - Parashat Toledot#^z1-135a|135a]], [[Zohar 2.05 - Parashat Toledot#^z1-145b|145b]], [[Zohar 2.06 - Parashat Va-Yetse#^z1-163a|163a]], [[Zohar 3.04 - Parashat Va-Yeshev#^z1-187a|187a]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-201a|201a]]; [[Zohar 4.03 - Parashat Shemot#^z2-12a|2:12a]], [[Zohar 4.06 - Parashat Be-Shallah#^z2-59b|59b]], [[Zohar 4.06 - Parashat Be-Shallah#^z2-65b|65b]], [[Zohar 5.03 - Parashat Mishpatim#^z2-98b|98b–99b]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-79b|3:79b]], [[Zohar 8.11 - Parashat Be-Ha'alotekha#^z3-149a|149a]], [[Zohar 8.11 - Parashat Be-Ha'alotekha#^z3-152a|152a]], [[Zohar 9.05 - Commentary on Shelah Lekha, continued#^z3-174b|174b]], [[Zohar 9.10 - Commentary on Balaq, continued#^z3-202a|202a]], [[Zohar 9.12 - Parashat Va-Ethannan#^z3-265a|265a]]; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-6d|6d]] (*MhN*). Cf. *Sifrei*, Deuteronomy 336; *Midrash Tanna’im*, [[Torah 53 - Ha'Azinu#^32-47|Deuteronomy 32:47]]; BT [[Menachot 29#29b|*Menaḥot* 29b]]; Maimonides, *Guide of the Perplexed* 3:50.
 
 [^607]: **So too, תתמד‎ לא (*Lo taḥmod*), *You shall not covet*—not interrupted at all…** Here too, the accent sign beneath the word לא (*lo*), *not*, is not pausal (or disjunctive), but rather conjunctive (*merkha*). One might conclude, therefore, that it is absolutely forbidden to covet or desire—even to desire Torah. However, the formulation of this last of the Ten Commandments proves otherwise. All the other nine commandments are stated generally (for example, *You shall not steal*), whereas here the Torah begins generally (*You shall not covet*) but then lists specific items that might be coveted: *your neighbor’s house, his field, or his servant*. According to rabbinic hermeneutics, a general statement followed by a specific statement cannot include more than the specific statement. Thus, the command *You shall not covet* includes only material things (such as *house, field, servant*), not the eternal spiritual treasure of Torah, which should be desired.
 
@@ -3519,17 +3519,17 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
     Rabbi Shim’on adds that the Ten Commandments symbolize all of existence and correspond to the ten utterances of Creation. According to M *Avot* 5:1, “The world was created through ten utterances.” (Only nine explicit commands appear in the opening chapter of Genesis, but the decade is completed by counting the phrase *In the beginning*.) In Kabbalah, these ten utterances of Creation symbolize the ten *sefirot*.
 
-    See BT *Rosh ha-Shanah* 32a; *Bemidbar Rabbah* 14:12; Ezra of Gerona, *Peirush le-Shir ha-Shirim*, 506; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-15a|1:15a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-16b|16b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-30a|30a]]; [[Zohar 4.05 - Parashat Bo#^z2-34b|2:34b]], [[Zohar 4.07 - Parashat Yitro#^z2-67a|67a]], [[Zohar 4.07 - Parashat Yitro#^z2-75b|75b]], [[Zohar 5.05 - Parashat Terumah#^z2-156b|156b]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-11b|3:11b–12a]]; Moses de León, *Sefer ha-Rimmon*, 219–20 (and Wolfson’s n. 20), 340–41; idem, *Sheqel ha-Qodesh*, 4–5 (6–7), 19 (23); idem, *Sod Eser Sefirot Belimah*, 371; above, note 544.
+    See BT [[Rosh Hashanah 32#32a|*Rosh ha-Shanah* 32a]]; *Bemidbar Rabbah* 14:12; Ezra of Gerona, *Peirush le-Shir ha-Shirim*, 506; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-15a|1:15a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-16b|16b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-30a|30a]]; [[Zohar 4.05 - Parashat Bo#^z2-34b|2:34b]], [[Zohar 4.07 - Parashat Yitro#^z2-67a|67a]], [[Zohar 4.07 - Parashat Yitro#^z2-75b|75b]], [[Zohar 5.05 - Parashat Terumah#^z2-156b|156b]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-11b|3:11b–12a]]; Moses de León, *Sefer ha-Rimmon*, 219–20 (and Wolfson’s n. 20), 340–41; idem, *Sheqel ha-Qodesh*, 4–5 (6–7), 19 (23); idem, *Sod Eser Sefirot Belimah*, 371; above, note 544.
 
     On the relation between “the ten utterances of Creation” and the Ten Commandments, see *Pesiqta Rabbati* 21; *Leqaḥ Tov*, [[Torah 45 - Vaetchanan#^5-6|Deuteronomy 5:6]]; *Beit ha-Midrash*, 6:46; *Zohar* [[Zohar 7.03 - Parashat Va-Yiqra#^z3-11b|3:11b]]–12a. On seeing “eye-to-eye,” see above, p. 319, n. 425.
 
 [^609]: **maidservant at the Red Sea saw…** God’s manifestation at the Red Sea was so spectacular that even the most lowly Israelite saw more than was seen much later by Ezekiel, who saw the divine chariot-throne whirling through the heavens. Perhaps, then, the theophany at the Red Sea resembled what happened at Mount Sinai. The difference, however, is that at Sinai, the Israelites were purged of the demonic contamination that had tainted humanity ever since Adam and Eve’s sin. They became like angels, able to gaze directly into the Divine Glory. Each Israelite then received revelation according to his capacity.
 
-    On Israel’s perception of God at the Red Sea, see *Mekhilta, Shirta* 1, 3; *Mekhilta de-Rashbi*, [[Torah 16 - Beshalach#^15-1|Exodus 15:1]], 2; *Midrash Tanna’im*, [[Torah 54 - V'Zot HaBerachah#^33-2|Deuteronomy 33:2]]; *Tosefta Sotah* 6:4; *Targum Yerushalmi*, [[Torah 16 - Beshalach#^15-2|Exodus 15:2]]; JT *Sotah* 5:4, 20c; BT *Berakhot* 50a, *Sotah* 11b, 30b–31a; *Shir ha-Shirim Rabbah* on 3:9; *Pirqei de-Rabbi Eli’ezer* 42; *Devarim Rabbah* (ed. Lieberman), pp. 14–15; *Shemot Rabbah* 1:12; 23:8; *Midrash Tehillim* 8:5; 68:14; *Zohar* [[Zohar 4.06 - Parashat Be-Shallah#^z2-55b|2:55b]], [[Zohar 4.06 - Parashat Be-Shallah#^z2-60a|60a]], [[Zohar 4.06 - Parashat Be-Shallah#^z2-64b|64b]].
+    On Israel’s perception of God at the Red Sea, see *Mekhilta, Shirta* 1, 3; *Mekhilta de-Rashbi*, [[Torah 16 - Beshalach#^15-1|Exodus 15:1]], 2; *Midrash Tanna’im*, [[Torah 54 - V'Zot HaBerachah#^33-2|Deuteronomy 33:2]]; *Tosefta Sotah* 6:4; *Targum Yerushalmi*, [[Torah 16 - Beshalach#^15-2|Exodus 15:2]]; JT *Sotah* 5:4, 20c; BT [[Berakhot 50#50a|*Berakhot* 50a]], [[Sotah 11#11b|*Sotah* 11b]], 30b–31a; *Shir ha-Shirim Rabbah* on 3:9; *Pirqei de-Rabbi Eli’ezer* 42; *Devarim Rabbah* (ed. Lieberman), pp. 14–15; *Shemot Rabbah* 1:12; 23:8; *Midrash Tehillim* 8:5; 68:14; *Zohar* [[Zohar 4.06 - Parashat Be-Shallah#^z2-55b|2:55b]], [[Zohar 4.06 - Parashat Be-Shallah#^z2-60a|60a]], [[Zohar 4.06 - Parashat Be-Shallah#^z2-64b|64b]].
 
-    On the demonic filth, see BT *Yevamot* 103b, in the name of Rabbi Yoḥanan: “When the serpent copulated with Eve, he injected her with זוהמא (*zohama*), filth \[or: slime, lust\]. Israel, who stood at Mount Sinai—their filth ceased. Star-worshipers, who did not stand at Mount Sinai—their filth did not cease.”
+    On the demonic filth, see BT [[Yevamot 103#103b|*Yevamot* 103b]], in the name of Rabbi Yoḥanan: “When the serpent copulated with Eve, he injected her with זוהמא (*zohama*), filth \[or: slime, lust\]. Israel, who stood at Mount Sinai—their filth ceased. Star-worshipers, who did not stand at Mount Sinai—their filth did not cease.”
 
-    See BT *Shabbat* 145b–146a, *Avodah Zarah* 22b; *Targum Yerushalmi*, [[Torah 01 - Bereshit#^4-1|Genesis 4:1]] (variants); *Pirqei de-Rabbi Eli’ezer* 21; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-36b|1:36b]]–37a, [[Zohar 1.07 - Parashat Be-Reshit#^z1-52a|52a–b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-54a|54a]], [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-122b|122b]], [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-126a|126a–b]], [[Zohar 2.05 - Parashat Toledot#^z1-145b|145b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-228a|228a]]; [[Zohar 6.04 - Parashat Ki Tissa#^z2-193b|2:193b]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-14b|3:14b]], [[Zohar 8.04 - Parashat Emor#^z3-97b|97b]]; Moses de León, *Sefer ha-Rimmon*, 139; above, note 561.
+    See BT [[Shabbat 145#145b|*Shabbat* 145b]]–146a, [[Avodah Zarah 22#22b|*Avodah Zarah* 22b]]; *Targum Yerushalmi*, [[Torah 01 - Bereshit#^4-1|Genesis 4:1]] (variants); *Pirqei de-Rabbi Eli’ezer* 21; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-36b|1:36b]]–37a, [[Zohar 1.07 - Parashat Be-Reshit#^z1-52a|52a–b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-54a|54a]], [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-122b|122b]], [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-126a|126a–b]], [[Zohar 2.05 - Parashat Toledot#^z1-145b|145b]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-228a|228a]]; [[Zohar 6.04 - Parashat Ki Tissa#^z2-193b|2:193b]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-14b|3:14b]], [[Zohar 8.04 - Parashat Emor#^z3-97b|97b]]; Moses de León, *Sefer ha-Rimmon*, 139; above, note 561.
 
     On the garments of the angels, see Naḥmanides on [[Torah 04 - Vayera#^18-1|Genesis 18:1]]; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-34a|1:34a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-58a|58a]], [[Zohar 1.081a|81a]] (*ST*), [[Zohar 2.03 - Parashat Va-Yera#^z1-98b|98b]] (*ST*), [[Zohar 2.03 - Parashat Va-Yera#^z1-101a|101a]], [[Zohar 2.05 - Parashat Toledot#^z1-144a|144a]]; [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-197a|2:197a]], [[Zohar 6.06 - Parashat Pequdei#^z2-229b|229b]], [[Zohar 6.06 - Parashat Pequdei#^z2-231a|231a]]; [[Zohar 8.08 - Parashat Naso#^z3-126b|3:126b]], [[Zohar 8.11 - Parashat Be-Ha'alotekha#^z3-152a|152a]], [[Zohar 9.10 - Commentary on Balaq, continued#^z3-208a|208a]]; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-81a|ZḤ* 81a]] (*MhN, Rut*).
 
@@ -3539,12 +3539,12 @@ Rabbi Shim’on said, “Further, we have learned: אנכי (*Anokhi*), *I* ([[T
 
 [^610]: **the world did not exist enduringly…** The existence of the world depends on Torah. Thus, until Israel received the Torah at Mount Sinai, the world was not firmly established, enduring only contingently.
 
-    See BT *Pesaḥim* 68b, in the name of Rabbi El’azar: “Were it not for Torah \[which is studied day and night\], heaven and earth would not endure, as is said: *Were it not for My covenant day and night, I would not have established the laws of heaven and earth.”*
+    See BT [[Pesachim 68#68b|*Pesaḥim* 68b]], in the name of Rabbi El’azar: “Were it not for Torah \[which is studied day and night\], heaven and earth would not endure, as is said: *Were it not for My covenant day and night, I would not have established the laws of heaven and earth.”*
 
-    See BT *Shabbat* 33a, *Nedarim* 32a, *Sanhedrin* 99b, *Avodah Zarah* 3a; *Seder Eliyyahu Rabbah* 18; *Pirqei de-Rabbi Eli’ezer* 16; *Tanḥuma, Noaḥ* 3, *Ha’azinu* 3; *Pesiqta Rabbati* 21; *Shemot Rabbah* 47:4.
+    See BT [[Shabbat 33#33a|*Shabbat* 33a]], [[Nedarim 32#32a|*Nedarim* 32a]], [[Sanhedrin 99#99b|*Sanhedrin* 99b]], [[Avodah Zarah 3#3a|*Avodah Zarah* 3a]]; *Seder Eliyyahu Rabbah* 18; *Pirqei de-Rabbi Eli’ezer* 16; *Tanḥuma, Noaḥ* 3, *Ha’azinu* 3; *Pesiqta Rabbati* 21; *Shemot Rabbah* 47:4.
 
-    See BT *Shabbat* 88a, in the name of Resh Lakish: “The blessed Holy One stipulated a condition with the works of Creation, saying to them: ‘If Israel accepts the Torah, you will endure. If not, I will return you to *chaos and void* ([[Torah 01 - Bereshit#^1-2|Genesis 1:2]]).’” See *Tanḥuma, Bereshit* 1.
+    See BT [[Shabbat 88#88a|*Shabbat* 88a]], in the name of Resh Lakish: “The blessed Holy One stipulated a condition with the works of Creation, saying to them: ‘If Israel accepts the Torah, you will endure. If not, I will return you to *chaos and void* ([[Torah 01 - Bereshit#^1-2|Genesis 1:2]]).’” See *Tanḥuma, Bereshit* 1.
 
-    On Torah as strength (based on the verse in Psalms), see *Mekhilta, Shirta* 3; *Mekhilta de-Rashbi*, [[Torah 16 - Beshalach#^15-2|Exodus 15:2]]; [[Torah 17 - Yitro#^19-16|19:16]]; *Sifrei*, Deuteronomy 343; BT *Zevaḥim* 116a; *Shir ha-Shirim Rabbah* on 1:4; 2:3; *Midrash Tehillim* 8:4; 21:2; *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-240a|1:240a]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-58a|2:58a]]; [[Zohar 9.12 - Parashat Va-Ethannan#^z3-269a|3:269a]].
+    On Torah as strength (based on the verse in Psalms), see *Mekhilta, Shirta* 3; *Mekhilta de-Rashbi*, [[Torah 16 - Beshalach#^15-2|Exodus 15:2]]; [[Torah 17 - Yitro#^19-16|19:16]]; *Sifrei*, Deuteronomy 343; BT [[Zevachim 116#116a|*Zevaḥim* 116a]]; *Shir ha-Shirim Rabbah* on 1:4; 2:3; *Midrash Tehillim* 8:4; 21:2; *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-240a|1:240a]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-58a|2:58a]]; [[Zohar 9.12 - Parashat Va-Ethannan#^z3-269a|3:269a]].
 
     “Became fragrantly firm” renders אתבסם (*itbassam*), “became sweetened” or “was firmly established.” The root בסם (*bsm*) conveys both senses. See *Bereshit Rabbah* 66:2; *Midrash Shemu’el* 26:4; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-30b|1:30b]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-31a|31a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-34a|34a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-37a|37a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-56a|56a]], [[Zohar 2.05 - Parashat Toledot#^z1-137a|137a]]; [[Zohar 4.03 - Parashat Shemot#^z2-10a|2:10a]], [[Zohar 5.03 - Parashat Mishpatim#^z2-105a|105a]], [[Zohar 5.05 - Parashat Terumah#^z2-143a|143a]], [[Zohar 5.05 - Parashat Terumah#^z2-168a|168a]], [[Zohar 6.06 - Parashat Pequdei#^z2-227a|227a]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-18a|3:18a]]; Bronsnick, “Ha-Shoresh ‘Bsm’”; Scholem, *Major Trends*, 165, 388, n. 44; idem, *Kabbalah*, 228.

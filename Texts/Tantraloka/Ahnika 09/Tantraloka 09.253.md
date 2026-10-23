@@ -31,6 +31,9 @@ karmendriyāṇi vākpāṇipāyūpasthāṅghri jajñire || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 238–239)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.253]]
+
 *Lead-in:* एवमेतत् प्रसङ्गादभिधाय प्रकृतमेवाह --
 
 > तत एव त्वहङ्कारात् तन्मात्रस्पर्शिनोऽधिकम् ।

@@ -34,6 +34,9 @@ svavṛtticakreṇa samaṃ tato'pi kalayantyalam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 204–210)
+> ![[Tantraloka Dyczkowski v03 07 - Chapter Four, part 6#Viveka on 4.149–150]]
+
 *Lead-in:* एवं प्रमेयगतं सृष्टिस्वरूपमभिधाय, स्थितिस्वरूपमप्यभिधातुमाह -
 
 > तथा भासितवस्त्वंशरञ्जनां सा बहिर्मुखी ।

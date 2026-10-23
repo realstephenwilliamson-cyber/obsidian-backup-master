@@ -31,6 +31,9 @@ tatastvāvāhayecchaktiṃ mātṛsadbhāvarūpiṇīm || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 150–151)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.248–251]]
+
 > परापरां सवक्त्रां प्राक्ततः प्रागिति मालिनीम् ॥
 > पश्चात्परादित्रितयं शिखाहृत्पादगं क्रमात् ।
 > ततः कवक्त्रकण्ठेषु हृन्नाभीगुह्यऊरुतः ॥

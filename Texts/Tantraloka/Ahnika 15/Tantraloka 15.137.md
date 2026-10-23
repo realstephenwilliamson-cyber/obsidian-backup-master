@@ -33,6 +33,11 @@ sāñjanā api ye mantrā gāruḍādyā na te param || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 90–92)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.135–137]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.137–139]]
+
 *Lead-in:* तदेव आह--
 
 Jayaratha comments on this verse together with 15.136: see [[Tantraloka 15.136#Viveka|15.136]].

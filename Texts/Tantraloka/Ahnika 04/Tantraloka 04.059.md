@@ -34,6 +34,9 @@ sa eva hi gurustatra hetujālaṃ prakalpyatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 77)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.59]]
+
 *Lead-in:* ननु यद्येवं, तर्हि अकल्पितकल्पकस्य गुरोः भावनादिहेतुजालनिष्ठत्वं नाम मुख्यं लक्षणम् ? इत्याशङ्कां ग्रन्थकृदेव स्वयं निराकर्तुमाह --
 
 > तत्त्वज्ञानात्मकं साध्यं यत्र यत्रैव दृश्यते ।

@@ -31,6 +31,9 @@ svatantrīkurvate yānti karaṇānyapi kartṛtām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 2–3)
+> ![[Tantraloka Dyczkowski v11 02 - Chapter Thirty, part 1#Viveka on 30.3]]
+
 *Lead-in:* ननु यदि एवं तत् कथमाचार्यस्य दीक्षानुग्रहादौ कर्तृत्वं घटते?--इत्याशङ्क्य आह--
 
 > यमाविशन्ति चाचार्यं तं तादात्म्यनिरूढितः ।

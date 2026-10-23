@@ -34,6 +34,9 @@ khātmatvameva saṃprāptaṃ śaktitritayagocarāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 291–294)
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.189–191]]
+
 > तत्सदेव बहीरूपं प्राग्बोधाग्निविलापितम् ॥
 > अन्तर्नदत्परामर्शशेषीभूतं ततोऽप्यलम् ।
 > खात्मत्वमेव संप्राप्तं शक्तित्रितयगोचरात् ॥

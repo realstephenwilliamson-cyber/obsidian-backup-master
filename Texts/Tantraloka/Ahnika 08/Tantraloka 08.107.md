@@ -37,5 +37,10 @@ ucchrityā vistārādayutaṃ loketarācalaḥ kathitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 149–152)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.106–107]]
+>
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.107–108]]
+
 Jayaratha comments on this verse together with 8.108: see [[Tantraloka 08.108#Viveka|8.108]].
 

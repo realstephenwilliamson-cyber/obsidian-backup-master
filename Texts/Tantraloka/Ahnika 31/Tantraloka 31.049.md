@@ -31,6 +31,9 @@ yatprāpya heyopādeyaṃ svayameva vicārya saḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 88)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.45–50]]
+
 > अत्रोर्ध्वे तन्तुमात्रेण तिस्रः शूलरगाः स्थिताः ।
 > आसनत्वेन चेच्छाद्या भोगमोक्षप्रसाधिकाः ॥
 > तास्तु मोक्षैककामस्य शूलाराविद्धमध्यकाः ।

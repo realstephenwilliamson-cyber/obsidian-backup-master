@@ -31,6 +31,9 @@ asaṃbhāvyatayā cātra dṛḍhakopaprasādavat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 337)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.95]]
+
 *Lead-in:* ननु तिरोभूतोऽपि किं सांसिद्धिकज्ञानभाग्भवेत् ?--इत्याशङ्क्याह--
 
 > प्रकारस्त्वेष नात्रोक्तः शक्तिपातबलाद् गतः ।

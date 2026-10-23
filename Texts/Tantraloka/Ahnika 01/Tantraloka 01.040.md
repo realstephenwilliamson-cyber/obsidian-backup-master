@@ -34,6 +34,9 @@ bauddhaṃ tasya ca tatpausnaṃ poṣaṇīyaṃ ca poṣṭṛ ca || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 151–153)
+> ![[Tantraloka Dyczkowski v01 05 - Chapter One, part 4#Viveka on 1.39–40]]
+
 > अहमित्थमिदं वेद्मीत्येवमध्यवसायिनी ।
 > षट्कञ्चुकाबिलाणूत्थप्रतिबिम्बनतो यदा ॥
 > धीर्जायते तदा तादृग्ज्ञानमज्ञानशब्दितम् ।

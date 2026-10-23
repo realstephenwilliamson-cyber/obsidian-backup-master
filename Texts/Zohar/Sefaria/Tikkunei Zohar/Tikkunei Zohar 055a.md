@@ -298,8 +298,8 @@ which is comprised
 [^8]: *erekh-apayim*
 [^9]: *taraḥ*
 [^10]: *az*
-[^11]: See *BT* Sanhedrin 91b
-[^12]: *BT* Shabbat 33b
+[^11]: See *BT* [[Sanhedrin 91#91b|Sanhedrin 91b]]
+[^12]: *BT* [[Shabbat 33#33b|Shabbat 33b]]
 [^13]: end-of-verse
 [^14]: *giborim*
 [^15]: *’anaqim*

@@ -34,5 +34,8 @@ vṛddhaṃ voddiśya śaktaṃ vā śodhanāśodhanād dvidhā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 79)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.179–180]]
+
 Jayaratha comments on this verse together with 16.184: see [[Tantraloka 16.184#Viveka|16.184]].
 

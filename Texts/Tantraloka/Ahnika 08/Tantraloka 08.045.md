@@ -36,6 +36,11 @@ bhairavīyaṃ ca talliṅgaṃ dharaṇī cāsya pīṭhikā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 99–102)
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.45]]
+>
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.45–48]]
+
 *Lead-in:* नन्वेवंमानत्वेऽपि अस्य कीदृगाकारः ? -- इत्याशङ्क्याह --
 
 > मध्योर्ध्वाधःसमुद्वृत्तशरावचतुरश्रकः ।

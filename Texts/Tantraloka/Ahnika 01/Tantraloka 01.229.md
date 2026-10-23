@@ -35,6 +35,9 @@ anupāyāvikalpāptau ratnajña iti bhaṇyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 404–405)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.229]]
+
 *Lead-in:* एतदेव उदाहरति—
 
 > रत्नतत्त्वमविद्वान्प्राङ्निश्चयोपायचर्चनात् ।

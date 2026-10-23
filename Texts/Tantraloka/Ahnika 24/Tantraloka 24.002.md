@@ -31,6 +31,9 @@ sarveṣāmadharasthānāṃ gurvantānāmapi sphuṭam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 343)
+> ![[Tantraloka Dyczkowski v09 15 - Chapter Twenty-Four#Viveka on 24.2–3]]
+
 *Lead-in:* तत्र अधिकारिस्वरूपं तावन्निरूपयति--
 
 Jayaratha comments on this verse together with 24.3: see [[Tantraloka 24.003#Viveka|24.3]].

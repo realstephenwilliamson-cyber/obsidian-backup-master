@@ -31,6 +31,9 @@ cetyamānādacetyādvā tanvāte bahubhedatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 394)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.163]]
+
 *Lead-in:* शक्तेश्च तिरोभावोद्भवौ विभजति --
 
 > तिरोभावोद्भवौ शक्तेः स्वशक्त्यन्तरतोऽन्यतः ।

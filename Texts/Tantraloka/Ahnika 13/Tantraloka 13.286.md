@@ -31,6 +31,9 @@ prasādo nirmalībhāvastena saṃpūrṇarūpatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 301)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.286–287]]
+
 *Lead-in:* एतदेव व्याचष्टे -
 
 > एवकारेण कर्मादिसापेक्षत्वं निषिध्यते ।

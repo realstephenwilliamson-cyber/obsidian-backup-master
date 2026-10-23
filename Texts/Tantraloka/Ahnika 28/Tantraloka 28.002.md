@@ -31,6 +31,9 @@ mukhyatvaṃ tanmayībhūtiḥ sarvaṃ naimittikaṃ tataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 4)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.2]]
+
 *Lead-in:* तत्र नैमित्तिकमेव लक्षयितुं परेषां नित्यद्वारेण तल्लक्षणस्य अतिव्याप्त्यादिदोषदुष्टत्वमाविष्करोति--
 
 > नियतं भावि यन्नित्यं तदित्यस्मिन्विधौ स्थिते ।

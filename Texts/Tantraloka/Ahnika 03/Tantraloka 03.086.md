@@ -39,6 +39,11 @@ yato grāhyamidaṃ bhāsyadbhinnakalpaṃ cidātmanaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 189–192)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.85–86]]
+>
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.86–87]]
+
 *Lead-in:* एवं बीजशब्दार्थं व्याख्याय विसिसृक्षात्मकं ण्यन्ताण्यन्ततया द्विप्रकारं क्षोभमपि व्याचष्टे—
 
 Jayaratha comments on this verse together with 3.85: see [[Tantraloka 03.085#Viveka|3.85]].

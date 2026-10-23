@@ -31,5 +31,8 @@ utsave ca vivāhādau viprāṇāṃ yajñakarmaṇi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 43)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.76–78]]
+
 Jayaratha comments on this verse together with 28.78: see [[Tantraloka 28.078#Viveka|28.78]].
 

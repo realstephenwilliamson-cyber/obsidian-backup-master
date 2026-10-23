@@ -31,6 +31,9 @@ karaṇaṃ bāhyadevairyannaivāpyantarmukhaiḥ kṛtam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 223–225)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.236]]
+
 *Lead-in:* एवं चास्य बुद्ध्यादेस्त्रयस्यासाधारणक्रियामुखेनान्तःकरणत्वमेवाह --
 
 > बुद्ध्यहंकृन्मनः प्राहुर्बोधसंरभणैषणे ।

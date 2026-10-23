@@ -33,6 +33,11 @@ gamanotkṣepaṇādīni mukhyaṃ karmopalambhanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 242–244)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.257–258]]
+>
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.258–259]]
+
 *Lead-in:* तदाह -
 
 > गमनोत्क्षेपणादीनि मुख्यं कर्मोपलम्भनम् ॥

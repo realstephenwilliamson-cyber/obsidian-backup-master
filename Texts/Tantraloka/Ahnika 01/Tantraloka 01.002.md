@@ -34,6 +34,9 @@ mātṛmānaprameyāṃśaśūlāmbujakṛtāspadām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 34–37)
+> ![[Tantraloka Dyczkowski v01 02 - Chapter One, part 1#Viveka on 1.2]]
+
 *Lead-in:* तदेवं परं त्रिकं परामृश्य परापरमपि पराम्रष्टुमुपक्रममाणः प्रथमं तावत् परां देवी परामृशति --
 
 > नौमि चित्प्रतिभां देवीं परां भैरवयोगिनीम् ।

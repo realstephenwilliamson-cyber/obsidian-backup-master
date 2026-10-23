@@ -31,6 +31,9 @@ teṣāmapi ca bhedānāmanyo'nyaṃ bahubhedatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 390)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.156]]
+
 *Lead-in:* नन्वेवं वस्तुतः संभवेत् किन्तु न तथा संलक्ष्यते ? -- इत्याशङ्क्याह --
 
 > स त्वस्फुटोऽस्तु भेदांशं दातुं तावत्प्रभुर्भवेत् ।

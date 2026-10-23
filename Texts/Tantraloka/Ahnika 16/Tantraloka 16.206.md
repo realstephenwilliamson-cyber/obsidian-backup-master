@@ -35,6 +35,9 @@ apavargāya yathecchaṃ yaṃ kañcidupāyamanutiṣṭhet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 88)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.206]]
+
 *Lead-in:* स्वभ्यस्तज्ञानस्य गुरोः पुरनेवं न कश्चिन्नियमः--इत्याह--
 
 > यस्तु सदा भावनया स्वभ्यस्तज्ञानवान्गुरुः स शिशोः ।

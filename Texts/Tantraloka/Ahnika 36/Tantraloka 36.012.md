@@ -31,5 +31,8 @@ dvayādvaye ca nipuṇāḥ krameṇa śivaśāsane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 225–226)
+> ![[Tantraloka Dyczkowski v11 10 - Chapter Thirty-Six#Viveka on 36.11–14]]
+
 Jayaratha comments on this verse together with 36.14: see [[Tantraloka 36.014#Viveka|36.14]].
 

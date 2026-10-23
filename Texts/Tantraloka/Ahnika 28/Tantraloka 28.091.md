@@ -33,6 +33,13 @@ tatrādau devatāstarpyāstato vīrā iti kramaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 47–49)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 28.93–94.*
+>
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.88–91]]
+>
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.93–94]]
+
 *Lead-in:* तर्पणे च अत्र क्रममाह--
 
 Jayaratha comments on this verse together with 28.90: see [[Tantraloka 28.090#Viveka|28.90]].

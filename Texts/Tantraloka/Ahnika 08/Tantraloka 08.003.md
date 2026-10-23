@@ -34,6 +34,9 @@ yattatra nahi viśrāntaṃ tannabhaḥkusumāyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 52)
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.3]]
+
 *Lead-in:* ननु यद्येवं, षड्विधोऽपि अयमध्वा किं चिदेकरूपात् तस्मादतिरिक्तो न वा? इत्याशङ्क्याह --
 
 > अध्वा समस्त एवायं चिन्मात्रे संप्रतिष्ठितः ।

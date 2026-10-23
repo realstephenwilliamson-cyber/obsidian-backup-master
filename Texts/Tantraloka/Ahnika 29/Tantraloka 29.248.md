@@ -31,6 +31,9 @@ janmasthānātparaṃ yāti phaṇapañcakabhūṣitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 389)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.248]]
+
 *Lead-in:* अथ एतदनुषक्तं भुजङ्गवेधमभिधातुमाह--
 
 > सा चैव परमा शक्तिरानन्दप्रविकासिनी ।

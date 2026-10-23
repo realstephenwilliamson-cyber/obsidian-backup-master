@@ -36,6 +36,11 @@ yadyapi prāk śivākhye'pi tattve bhuvanapaddhatiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 7–8)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.12–13]]
+>
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.13–14]]
+
 *Lead-in:* नन्वत्र भुवनानां विभागेनावस्थानमस्ति तत्कारणमण्डरूपमावरणं च नास्ति, -- इत्यपूर्वमिदमभिधानम् -- इत्याह --
 
 > यद्यपि प्राक् शिवाख्येऽपि तत्त्वे भुवनपद्धतिः ॥

@@ -31,6 +31,9 @@ viparītapravṛttatvaṃ jñānaṃ tasmādupāharet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 319–320)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.312–313]]
+
 *Lead-in:* ननु भवत्वेवं, यस्मात्पुनरनेन च्छद्मापश्रवणादिना ज्ञानमाहृतं तेन गुरुणा किं कार्यम् ? -- इत्याशङ्क्याह -
 
 > यदा तु वैचित्र्यवशाज्जानीयात्तस्य तादृशम् ।

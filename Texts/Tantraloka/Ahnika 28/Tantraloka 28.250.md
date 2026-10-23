@@ -33,6 +33,13 @@ haṃsakāraṇḍavākīrṇe nānātarukulākule || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 109–111)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 28.251–254.*
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.249–250]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.251–254]]
+
 *Lead-in:* अत एवम् आगमोऽप्येवम्--इत्याह--
 
 Jayaratha comments on this verse together with 28.249: see [[Tantraloka 28.249#Viveka|28.249]].

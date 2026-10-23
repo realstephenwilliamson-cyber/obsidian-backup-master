@@ -31,6 +31,9 @@ catuṣkaṃ vā yathecchaṃ vā kā saṅkhyā kila raśmiṣu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 246–248)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.51]]
+
 *Lead-in:* तदेव आह--
 
 > अन्तर्द्वादशकं पूज्यं ततोऽष्टाष्टकमेव च ।

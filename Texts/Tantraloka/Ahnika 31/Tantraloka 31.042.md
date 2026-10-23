@@ -33,6 +33,11 @@ kiṃ vātibahunoktena tritriśūlārasaptakāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 85–86)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.41–42]]
+>
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.42–43]]
+
 *Lead-in:* एवं मण्डलानन्ततामुपपाद्य प्रसङ्गात् रजोदानादि निरूप्य अनन्तभेदत्वेऽपि त्रिशूलस्यैव इह प्राधान्यात् तदाश्रयेण मुख्यान् भेदान् संक्षेपतः परिगणयति--
 
 > किं वातिबहुनोक्तेन त्रित्रिशूलारसप्तकाः ॥

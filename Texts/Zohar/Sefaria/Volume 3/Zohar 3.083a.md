@@ -38,5 +38,5 @@ sections:
 *Not translated in the Soncino edition: Kedoshim 5:53–8:63.*
 
 [^1]: v. Midrash Rabbah on Genesis 13, 15.
-[^2]: v. T. B. Hagigah, 16a.
+[^2]: v. T. B. [[Chagigah 16#16a|Hagigah, 16a]].
 [^3]: v. *Ibid.*.

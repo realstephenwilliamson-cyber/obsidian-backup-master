@@ -36,6 +36,11 @@ nahyatra vargīkaraṇaṃ samayaḥ kalanāpi vā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 5–6)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.9]]
+>
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.9–10]]
+
 *Lead-in:* तदाह -
 
 > शान्तातीता शिवे तत्त्वे कलातीतः परः शिवः ।

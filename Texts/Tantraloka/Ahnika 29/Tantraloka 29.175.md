@@ -31,6 +31,9 @@ tathaiva svasvakāmarśayogādantaḥ pratarpayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 348)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.174–175]]
+
 > तत्स्पर्शरभसोद्बुद्धसंविच्चक्रं तदीश्वरः ।
 > लभते परमं धाम तर्पिताशेषदैवतः ॥
 > अनुयागोक्तविधिना द्रव्यैर्हृदयहारिभिः ।

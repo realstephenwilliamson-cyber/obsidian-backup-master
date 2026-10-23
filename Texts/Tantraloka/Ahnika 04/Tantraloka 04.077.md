@@ -36,6 +36,11 @@ yataḥ śāstrakramāttajjñaguruprajñānuśīlanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 92–93)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.76–77]]
+>
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.77–78]]
+
 *Lead-in:* ननु कथं संवादमात्रादेव एतत्स्यात् ? -- इत्याशङ्क्याह --
 
 > यतः शास्त्रक्रमात्तज्ज्ञगुरुप्रज्ञानुशीलनात् ॥

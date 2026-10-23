@@ -35,6 +35,9 @@ avacchedānavacchidbhyāṃ bhogamokṣārthibhirjanaiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 286)
+> ![[Tantraloka Dyczkowski v01 08 - Chapter One, part 7#Viveka on 1.123]]
+
 *Lead-in:* एतदेव प्रमेयान्तरमुपक्षिपन् उपसंहरति --
 
 > तस्माद्विश्वेश्वरो बोधभैरवः समुपास्यते ।

@@ -33,6 +33,11 @@ kiṃ vātibahunā yo'sau yaṣṭā tatsaṃmukhāditaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 133–134)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.218–219]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.219–220]]
+
 *Lead-in:* न केवलं विभोर्ज्ञानशक्तिरूपं रविमधिकृत्य दिशः प्रविभज्यन्ते, यावत् संकुचितात्मस्वभावं साधकमपि--इत्याह--
 
 > किं वातिबहुना योऽसौ यष्टा तत्संमुखादितः ॥

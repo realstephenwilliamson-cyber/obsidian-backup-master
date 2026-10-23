@@ -34,6 +34,9 @@ tadetattritayaṃ dvandvayogātsaṅghātatāṃ gatam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 327)
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.207–208]]
+
 *Lead-in:* तदेवोपसंहरति --
 
 > संवित्तौ भाति यद्विश्वं तत्रापि खलु संविदा ।

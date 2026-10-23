@@ -34,6 +34,9 @@ nairmalyaṃ cātiniviḍasajātīyaikasaṅgatiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 72–73)
+> ![[Tantraloka Dyczkowski v02 04 - Chapter Three, part 1#Viveka on 3.7]]
+
 *Lead-in:* ननु यद्यत्र रूपं प्रतिबिम्बितं तत्तदव्यभिचरितस्वभावः स्पर्शोऽपि किं न प्रतिबिम्बितः? इत्याशङ्क्याह—
 
 > न हि स्पर्शोऽस्य विमलो रूपमेव तथा यतः ।

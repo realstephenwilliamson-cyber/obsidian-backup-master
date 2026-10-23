@@ -31,6 +31,9 @@ vācyaṃ tadeva vaicitryaṃ kuto niyatirāgayoḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 174–175)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.80–81]]
+
 *Lead-in:* अथ भोगलोलिकाया अपि वैचित्र्ये कर्मवासनावैचित्र्यं निमित्तमित्युच्यते, तत्पुनरपि स एव दोषस्तद्वैचित्र्येऽपि किं निमित्तमिति -- इत्याह --
 
 > अनादि कर्मसंस्कारवैचित्र्यादिति चेत्पुनः ।

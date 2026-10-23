@@ -35,6 +35,9 @@ prakāśyavastusārāṃśavarṣi tatsoma ucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 225–226)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.120]]
+
 *Lead-in:* एवमप्येषां यथासंभवं स्वरूपं दर्शयति --
 
 > प्रकाशमात्रं सुव्यक्तं सूर्य इत्युच्यते स्फुटम् ।

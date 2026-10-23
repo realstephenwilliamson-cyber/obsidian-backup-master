@@ -37,6 +37,11 @@ brahmaniḥśvāsanirdhūte bhasmani svedavāriṇā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 364–365)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.141–142]]
+>
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.142–143]]
+
 *Lead-in:* न केवलमेवं विश्वमास्ते यावदेकार्णवीभावेऽपि -- इत्याह --
 
 > ब्रह्मनिःश्वासनिर्धूते भस्मनि स्वेदवारिणा ॥

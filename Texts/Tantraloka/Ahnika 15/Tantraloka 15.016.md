@@ -31,6 +31,9 @@ sa uttamādhikārī syājjñānavān hi gururmataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 12–13)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.15–16]]
+
 > सर्वशास्त्रार्थवेत्तृत्वमकस्माच्चास्य जायते ॥
 > इति श्रीमालिनीनीत्या यः सांसिद्धिकसंविदः ।
 > स उत्तमाधिकारी स्याज्ज्ञानवान् हि गुरुर्मतः ॥

@@ -31,6 +31,9 @@ na hi nāma pumānkaścidyasminparyanuyujyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 189)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.106]]
+
 *Lead-in:* ननु यद्येवं तत्कस्मात्कस्मिंश्चिदेव पुंस्यसावेवमात्मानमभिव्यनक्ति, किमन्यत्र अस्य प्रद्वेषः? -- इत्याशङ्कां निरवकाशयति --
 
 > न वाच्यं तु कथं नाम कस्मिंश्चित्पुंस्यसौ तथा ।

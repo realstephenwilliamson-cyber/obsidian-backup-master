@@ -57,9 +57,9 @@ On the contrary, his mind exercises its authority and power over the spirit in h
 [^9]: Cf. *Zohar* [[Zohar 9.11 - Parashat Pinehas#^z3-224a|III:224a]].
 [^10]: The doctrine of the inherent supremacy of intellect over emotion is one of the basic, though not original, tenets of Chabad. Comp. Maimonides, Guide 3:8.
 [^11]: [[Ecclesiastes 02#^2-13|Ecclesiastes 2:13]].
-[^12]: *Sotah* 3a.
+[^12]: [[Sotah 3#3a|*Sotah* 3a]].
 [^13]: Above, ch. 9.
 [^14]: See ch. 11, n. 4.
-[^15]: “…and slanderous gossip.” *Bava Batra* 164b.
+[^15]: “…and slanderous gossip.” [[Bava Batra 164#164b|*Bava Batra* 164b]].
 [^16]: Beg. ch. 9.
 [^17]: [[Zohar 3.05 - Parashat Mi-Qets#^z1-201a|I:201a]]. ff.

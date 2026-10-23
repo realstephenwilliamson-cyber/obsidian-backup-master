@@ -33,6 +33,11 @@ ajñatvavedādarśitvarāgadveṣādayo hyamī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 109–110)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.174–175]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.175–176]]
+
 *Lead-in:* तद्विजये निमित्तमाह--
 
 > अज्ञत्ववेदादर्शित्वरागद्वेषादयो ह्यमी ॥

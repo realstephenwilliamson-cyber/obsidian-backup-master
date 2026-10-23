@@ -32,6 +32,9 @@ aṅgavaktraṃ ṣaḍaṃśena śeṣāṃścāpi daśāṃśataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 260)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.418–420]]
+
 > ततस्तिलैर्मृगीं मध्यानामांगुष्ठवशाद् गुरुः ॥
 > कृत्वा मूलं तर्पयेत शतेनाज्यस्रुवैस्तथा ।
 > अङ्गवक्त्रं षडंशेन शेषांश्चापि दशांशतः ॥

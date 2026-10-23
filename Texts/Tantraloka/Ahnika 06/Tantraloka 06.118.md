@@ -35,6 +35,9 @@ makarādīni tenātra kriyā sūte sadṛkphalam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 345–347)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.117–118]]
+
 > गर्भता प्रोद्बुभूषिष्यद्भावश्चाथोद्बुभूषुता ।
 > उद्भविष्यत्त्वमुद्भूतिप्रारम्भोऽप्युद्भवस्थितिः ॥
 > जन्म सत्ता परिणतिर्वृद्धिर्ह्रासः क्षयः क्रमात् ।

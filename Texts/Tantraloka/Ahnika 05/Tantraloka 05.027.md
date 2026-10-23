@@ -38,6 +38,13 @@ etadānuttaraṃ cakraṃ hṛdayāccakṣurādibhiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 29–31)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.26–27]]
+>
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.27–28]]
+>
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.27–29]]
+
 *Lead-in:* सर्वस्य चैतदनुभवसिद्धं न तु अपूर्वं किञ्चित् -- इति दर्शयितुमाह - -
 
 > एतदानुत्तरं चक्रं हृदयाच्चक्षुरादिभिः ॥

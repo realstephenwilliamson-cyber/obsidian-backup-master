@@ -33,6 +33,11 @@ phaliṣyatīdaṃ karmeti yā dṛḍhā vṛttirātmani || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 98–99)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.103–104]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.104–105]]
+
 *Lead-in:* ननु संस्कारोच्छेदे पूर्वापरानुसंधानाभावो भवेदित्यस्य प्रमातृत्वमेव न स्यात् ? -- इत्याशङ्क्याह --
 
 > फलिष्यतीदं कर्मेति या दृढा वृत्तिरात्मनि ॥

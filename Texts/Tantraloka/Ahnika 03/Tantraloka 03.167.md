@@ -37,6 +37,11 @@ tadeva brahma paramamavibhaktaṃ pracakṣate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 283–287)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.166–167]]
+>
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.167]]
+
 *Lead-in:* एवं चास्य परब्रह्मरूपत्वमेवेत्युक्तं स्यादत आह --
 
 > तदेव ब्रह्म परममविभक्तं प्रचक्षते ॥

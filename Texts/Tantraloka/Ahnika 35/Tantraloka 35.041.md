@@ -33,6 +33,11 @@ avaśyopetya ityasminmāna āgamanāmani || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 216–217)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.40–41]]
+>
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.41–42]]
+
 > अन्यथाव्याकृतौ कॢप्तावसत्यत्वे प्ररोचने ॥
 > अतिप्रसङ्गः सर्वस्याप्यागमस्यापबाधकः ।
 > अवश्योपेत्य इत्यस्मिन्मान आगमनामनि ॥

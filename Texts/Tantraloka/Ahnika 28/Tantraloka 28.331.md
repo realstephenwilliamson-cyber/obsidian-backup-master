@@ -31,6 +31,9 @@ tadeva rūpamabhyeti sukhiduḥkhivimūḍhakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 142)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.328–331]]
+
 > यस्त्वसौ क्षण एवैकश्चरमः प्राणनात्मकः ॥
 > यदनन्तरमेवैष देहः स्यात्काष्ठकुड्यवत् ।
 > सा देहत्यागकालांशकला देहवियोगिनी ॥

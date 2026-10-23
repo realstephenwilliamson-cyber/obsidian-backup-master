@@ -31,6 +31,9 @@ piṇḍapātodakāsravādi laukikaṃ parivarjayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 353)
+> ![[Tantraloka Dyczkowski v09 15 - Chapter Twenty-Four#Viveka on 24.21–22]]
+
 > पुर्यष्टकस्याभावे च न स्वर्गनरकादयः ।
 > तथा कृत्वा न कर्तव्यं लौकिकं किञ्चनापि हि ॥
 > उक्तं श्रीमाधवकुले शासनस्थो मृतेष्वपि ।

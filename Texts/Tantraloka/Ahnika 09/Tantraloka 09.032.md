@@ -36,6 +36,11 @@ samagrāśca yathā daṇḍasūtracakrakarādayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 39–41)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.31–32]]
+>
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.32–33]]
+
 *Lead-in:* ननु समस्तानामप्येषां केनचिद्रूपेण यद्यैकात्म्यं न स्यात्, तद्देशकालविप्रकृष्टानामपि हेतुत्वं प्रसज्येत् -- इत्याह --
 
 > समग्राश्च यथा दण्डसूत्रचक्रकरादयः ॥

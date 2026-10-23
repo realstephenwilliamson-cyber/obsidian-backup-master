@@ -31,6 +31,9 @@ dveṣeddhāntardahatyenaṃ dāhaḥ śaṅkaiva sā yataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 351–352)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.13]]
+
 *Lead-in:* एवञ्च प्रबुद्धचेष्टैव तिरस्क्रियमाणत्वादेनं तिरोभावयेत् -- इत्याह --
 
 > ततः प्रबुद्धचेष्टासौ मन्त्रचर्यार्चनादिका ।

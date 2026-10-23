@@ -31,6 +31,9 @@ saṅkoca eva sānena so'pi dehaikatāmayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 118)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.135–137]]
+
 > देहस्थमिति देहेन सह तादात्म्यमाश्रिता ॥
 > स्वाच्छन्द्यात्संविदेवोक्ता तत्रस्थं कर्म दह्यते ।
 > देहैक्यवासनात्यागात् स च विश्वात्मतास्थितेः ॥

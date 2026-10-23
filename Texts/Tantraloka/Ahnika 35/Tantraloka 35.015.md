@@ -31,6 +31,9 @@ tataścāṃśāṃśikāyogātsā prasiddhiḥ paramparām |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 198–199)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.15]]
+
 *Lead-in:* द्विधा च इयं परमेश्वरात् प्रवृत्ता लोकव्यवहारनिबन्धनम्--इत्याह- -
 
 > ततश्चांशांशिकायोगात्सा प्रसिद्धिः परम्पराम् ।

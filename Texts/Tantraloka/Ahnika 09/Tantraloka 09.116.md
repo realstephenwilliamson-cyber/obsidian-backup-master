@@ -31,6 +31,9 @@ sāmānyo'pyabhisandhiḥ syāttadadharmasya nāgamaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 105)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.115–116]]
+
 > सुखहेतौ सुखे चास्य सामान्यादभिसन्धितः ।
 > निर्विशेषादपि न्यायया धर्मादिफलभोक्तृता ॥
 > दुःखं मे दुःखहेतुर्वा स्तादित्येष पुनर्न तु ।

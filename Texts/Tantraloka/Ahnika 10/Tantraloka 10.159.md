@@ -31,6 +31,9 @@ pāṭavātprakṣayādvāpi bhedāntaramudīyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 391–392)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.159]]
+
 *Lead-in:* एतदेव लयाकलादीनामप्यतिदिशति --
 
 > एवं लयाकलादीनां तत्संस्कारपदोदितात् ।

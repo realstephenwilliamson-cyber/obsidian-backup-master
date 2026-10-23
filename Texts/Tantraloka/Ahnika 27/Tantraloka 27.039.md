@@ -31,6 +31,9 @@ yadīkṣate juhotyetadbodhāgnau saṃpraveśanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 415–417)
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.37–39]]
+
 > वक्त्राणि पञ्च चित्स्पन्दज्ञानेच्छाकृतिसङ्गतेः ॥
 > पञ्चधाद्यन्तगं चैक्यमित्युपान्त्याक्षगो विधिः ।
 > शक्तितद्वत्प्रभेदेन तत्र द्वैरूप्यमुच्यते ॥

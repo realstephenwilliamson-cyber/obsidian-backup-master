@@ -31,6 +31,9 @@ sā guṇādhikyataḥ siddhā na hetutvānna lāghavāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 280)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.307]]
+
 *Lead-in:* नन्वग्निधूमवत् कारणं कार्याव्यभिचारितया तद्व्यापकम्, कार्यं च तदव्यभिचारितया व्याप्यम्; अथवा तिरस्करिणीतिरोहितनटवत् सूक्ष्मं व्याप्यम्, स्थूलं च व्यापकम् -- इति किमत्र गुणाधिक्यकथनेन ? -- इत्याशङ्क्याह -
 
 > व्याप्यव्यापकता यैषा तत्त्वानां दर्शिता किल ।

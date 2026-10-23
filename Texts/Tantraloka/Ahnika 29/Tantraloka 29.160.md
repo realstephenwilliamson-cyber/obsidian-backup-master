@@ -33,6 +33,11 @@ sakalākaleśaśūnyaṃ kalāḍhyakhamale tathā kṣapaṇakaṃ ca || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 338–340)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.158–160]]
+>
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.160–161]]
+
 *Lead-in:* अत्र च किं तत् भैरवाष्टकं का च मान्त्री व्याप्तिः?--इत्याशङ्क्य आह--
 
 > सकलाकलेशशून्यं कलाढ्यखमले तथा क्षपणकं च ॥

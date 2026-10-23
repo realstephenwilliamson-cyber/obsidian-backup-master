@@ -33,6 +33,11 @@ uktaṃ śrīpūrvatantre ca viśeṣavidhihīnite || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 90–91)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.134–135]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.135–137]]
+
 *Lead-in:* न च अस्मदुपज्ञमेव एतत्--इत्याह--
 
 Jayaratha comments on this verse together with 15.134: see [[Tantraloka 15.134#Viveka|15.134]].

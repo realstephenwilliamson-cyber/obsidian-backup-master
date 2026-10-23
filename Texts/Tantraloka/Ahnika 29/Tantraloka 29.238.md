@@ -33,6 +33,11 @@ yenāṇimādikā siddhiḥ śrīmālāyāṃ ca coditā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 378–379)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.237–238]]
+>
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.238–239]]
+
 *Lead-in:* एवंविधेन अस्य किं स्यात् ?--इत्याशङ्क्य आह--
 
 > येनाणिमादिका सिद्धिः ........

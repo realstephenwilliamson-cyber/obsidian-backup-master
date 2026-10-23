@@ -34,6 +34,9 @@ dharāsadāśivāntena tena tena śivībhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 388)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.211]]
+
 *Lead-in:* तदाह—
 
 > अविकल्पपथारूढो येन येन पथा विशेत् ।

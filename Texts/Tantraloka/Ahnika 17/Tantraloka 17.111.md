@@ -34,6 +34,9 @@ bhaveddhyetatsūcitaṃ śrīmālinīvijayottare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 187–188)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.108–111]]
+
 > पृथिवी स्थिररूपास्य शिवरूपेण भाविता ।
 > स्थिरीकरोति तामेव भावनामिति शुद्ध्यति ॥
 > जलमाप्यायत्येनां तेजो भास्वरतां नयेत् ।

@@ -31,6 +31,9 @@ svaśaktiparipūrṇānāmitthaṃ pūjā pravartate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 372)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.222–223]]
+
 > सर्वं जाग्रति कर्तव्यं स्वप्ने प्रत्येकमन्त्रगम् ।
 > निवार्य सुप्ते मूलाख्यः स्वशक्तिपरिबृंहितः ॥
 > तुर्ये त्वेकैव दूत्याख्या तदतीते कुलेशिता ।

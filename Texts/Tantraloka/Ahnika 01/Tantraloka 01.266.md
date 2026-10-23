@@ -35,6 +35,9 @@ agniṣṭomādinetyeṣā parīkṣā śeṣavartinī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 441–442)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.264–266]]
+
 > निर्विकल्पितमुद्देशो विकल्पो लक्षणं पुनः ।
 > परीक्षणं तथाध्यक्षे विकल्पानां परम्परा ॥
 > नगोऽयमिति चोद्देशो धूमित्वादग्निमानिति ।

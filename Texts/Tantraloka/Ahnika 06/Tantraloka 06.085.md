@@ -36,6 +36,11 @@ vedye viśrāntiradhikā dinadairghyāya tatra tu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 310–313)
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.84–85]]
+>
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.85–86]]
+
 *Lead-in:* एवं च वेद्यस्य वेदकस्य च विश्रान्तेराधिक्ये दिनस्य निशायाश्च दैघ्यर्ं भवेदन्यथा त्वपचयः, तदाह -
 
 Jayaratha comments on this verse together with 6.84: see [[Tantraloka 06.084#Viveka|6.84]].

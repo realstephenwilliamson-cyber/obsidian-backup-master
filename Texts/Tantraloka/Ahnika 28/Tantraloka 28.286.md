@@ -31,6 +31,9 @@ abhyastāḥ saṃsṛterbhāvāttenaite śaktipātataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 124)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.285–286]]
+
 > यतः सांसारिकाः पूर्वगाढाभ्यासोपसंस्कृताः ।
 > इत्यूचे भुजगाधीशस्तच्छिद्रेष्विति सूत्रतः ॥
 > ये तु कैवल्यभागीयाः प्रत्ययास्ते न जातुचित् ।

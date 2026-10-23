@@ -36,6 +36,11 @@ etadīśvararūpatvaṃ paramātmani yatkila || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 255–256)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.39–40]]
+>
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.40–41]]
+
 *Lead-in:* इत्यादिश्रुतिविरोध आपतेदिति किमेतत् ? -- इत्याशङ्क्याह --
 
 > एतदीश्वररूपत्वं परमात्मनि यत्किल ॥

@@ -34,6 +34,9 @@ bindunādādisaṃbhinnaḥ ṣaḍvidhaḥ śiva ucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 189–199)
+> ![[Tantraloka Dyczkowski v01 06 - Chapter One, part 5#Viveka on 1.61–62]]
+
 *Lead-in:* तदेवाह—
 
 > भुवनं विग्रहो ज्योतिः खं शब्दो मन्त्र एव च ।

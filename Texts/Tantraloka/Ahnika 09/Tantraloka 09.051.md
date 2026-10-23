@@ -33,6 +33,11 @@ ekaikatrāpi tattve'smin sarvaśaktisunirbhare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 57–59)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.50–51]]
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.51–52]]
+
 *Lead-in:* नन्विह सर्वस्य सर्वात्मकत्वादेकैकापि शक्तिः सर्वशक्तिस्वभावा, इति कथमेकैकशक्तिमुखेन तत्त्वपञ्चकनिरूपणम् ? -- इत्याह --
 
 > एकैकत्रापि तत्त्वेऽस्मिन् सर्वशक्तिसुनिर्भरे ॥

@@ -33,6 +33,11 @@ oṣṭhyāntyatritayāsevī brahmacārī sa ucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 286–289)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.97–98]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.98]]
+
 *Lead-in:* एवमेषां ब्रह्ममयत्वादेतदनुष्ठाता ब्रह्मचारीत्युच्यते--इत्याह--
 
 > ओष्ठ्यान्त्यत्रितयासेवी ब्रह्मचारी स उच्यते ॥

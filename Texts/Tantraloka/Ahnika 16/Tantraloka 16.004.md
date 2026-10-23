@@ -34,6 +34,9 @@ asaṃkhyacakrasaṃbandhaḥ śrīsiddhādau nirūpitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 2)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.2–4]]
+
 > षडष्टतद्द्विगुणितचतुर्विंशतिसंख्यया ।
 > चक्रपञ्चकमाख्यातं शास्त्रे श्रीपूर्वसंज्ञिते ॥
 > द्वात्रिंशत्तद्द्विगुणितं श्रीमत्त्रैशिरसे मते ।

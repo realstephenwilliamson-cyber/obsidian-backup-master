@@ -37,6 +37,11 @@ mahāmāyordhvataḥ śuddhā mahāvidyātha mātṛkā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 325–328)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.336–337]]
+>
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.337–338]]
+
 > महामायोर्ध्वतः शुद्धा महाविद्याथ मातृका ॥
 > वागीश्वरी च तत्रस्थं वामादिनवसत्पुरम् ।
 

@@ -31,6 +31,9 @@ ataścārdhacatasro'tra maṭhikāḥ saṃtatikramāt |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 225–226)
+> ![[Tantraloka Dyczkowski v11 10 - Chapter Thirty-Six#Viveka on 36.11–14]]
+
 > तेषां क्रमेण तन्मध्ये भ्रष्टं कालान्तराद्यदा ।
 > तदा श्रीकण्ठनाथाज्ञावशात् सिद्धा अवातरन् ॥
 > त्र्यम्बकामर्दकाभिख्यश्रीनाथा अद्वये द्वये ।

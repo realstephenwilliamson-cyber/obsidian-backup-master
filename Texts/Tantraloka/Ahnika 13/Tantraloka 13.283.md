@@ -33,6 +33,11 @@ itthaṃ śrīśaktipāto'yaṃ nirapekṣa ihoditaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 298–299)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.282–283]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.283]]
+
 *Lead-in:* एतदेवोपसंहरति --
 
 > इत्थं श्रीशक्तिपातोऽयं निरपेक्ष इहोदितः ॥

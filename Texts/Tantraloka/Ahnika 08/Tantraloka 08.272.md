@@ -35,6 +35,9 @@ krodheśacaṇḍasaṃvartā jyotiḥpiṅgalasūrakau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 278–279)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.272–273]]
+
 > गुणानां यत्परं साम्यं तदव्यक्तं गुणोर्ध्वतः ।
 > क्रोधेशचण्डसंवर्ता ज्योतिःपिङ्गलसूरकौ ॥
 > पञ्चान्तकैकवीरौ च शिखोदश्चाष्ट तत्र ते ।

@@ -32,6 +32,9 @@ tadābhiṣiñcetsāstreṇa śivakumbhena taṃ śiśum |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 348)
+> ![[Tantraloka Dyczkowski v08 10 - Chapter Fifteen, part 9#Viveka on 15.611–613]]
+
 > अवश्यपालनीयत्वात्परतत्त्वेन सङ्गमात् ॥
 > ज्ञानप्राप्त्यभ्युपायत्वात्समयास्ते प्रकीर्तिताः ।
 > एवं संश्राव्य समयान्देवं संपूज्य दैशिकः ॥

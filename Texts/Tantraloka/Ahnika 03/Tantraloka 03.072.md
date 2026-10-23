@@ -37,6 +37,11 @@ saiva prakṣubdharūpā cedīśitrī samprajāyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 166–170)
+> ![[Tantraloka Dyczkowski v02 06 - Chapter Three, part 3#Viveka on 3.71–72]]
+>
+> ![[Tantraloka Dyczkowski v02 06 - Chapter Three, part 3#Viveka on 3.72–73]]
+
 *Lead-in:* तत्र प्राच्यायाः स्वरूपं निरूपितं द्वितीयस्या निरूपयितुमाह --
 
 > सैव प्रक्षुब्धरूपा चेदीशित्री सम्प्रजायते ॥

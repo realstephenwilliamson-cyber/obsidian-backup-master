@@ -33,6 +33,11 @@ anyāstadaṅgabhūtāstu padmādyā mālinīmate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 139–140)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.4–6]]
+>
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.6–7]]
+
 *Lead-in:* ननु त्रिशूलिन्यादिवदन्या अपि एतदङ्गभूता मुद्राः सम्भवन्तीति कथमिह ता अपि न उक्ताः ?--इत्याशङ्क्य आह--
 
 > अन्यास्तदङ्गभूतास्तु पद्माद्या मालिनीमते ॥

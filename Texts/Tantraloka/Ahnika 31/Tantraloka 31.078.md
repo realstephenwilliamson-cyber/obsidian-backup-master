@@ -31,6 +31,9 @@ dviguṇāṣṭāṃgulaṃ kāryaṃ tadvacchṛṅgakajatrayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 101)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.75–78]]
+
 > क्षेत्रार्धे चापरे दण्डो द्विकरश्छन्नपञ्चकः ॥
 > षड्विस्तृतं चतुर्दीर्धं तदधोऽमलसारकम् ।
 > वेदांगुलं च तदधो मूलं तीक्ष्णाग्रमिष्यते ॥

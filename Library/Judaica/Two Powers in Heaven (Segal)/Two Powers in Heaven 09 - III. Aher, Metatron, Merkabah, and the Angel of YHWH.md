@@ -25,7 +25,7 @@ The heavenly enthronement texts (Ex. 24:10 f., Dan. 7:9 f., perhaps even Ez. 1:2
 
 PASSAGE 3 
 
-b. Hagigah 15a 
+b. [[Chagigah 15#15a|Hagigah 15a]] 
 
 Aher mutilated the shoots. Of him Scripture says: (Ecc. 5:5). Suffer not thy mouth to bring thy flesh into guilt. What does it refer to ?—He saw that permission was granted to Metatron to sit and write down the merits of Israel. Said he: "It is taught as a tradition that on high there is no sitting and no emulation, no back and no weariness." Perhaps God forfend!—there are two divinities (powers). Thereupon they led Metatron forth, and punished him with sixty fiery lashes, saying to him: "Why didst thou not rise before him when thou didst see him?" Permission was (then) given to him to strike out the merits of Aher. A Bath Kol went forth and said: "Return, ye backsliding children" (Jer. 3:22)—except Aher. 2 
 
@@ -56,7 +56,7 @@ creatures. Rashi senses the moral of the story for the Jewish community. It is a
 
 heavenly warning against heresy. 
 
-<sup>6</sup> See Ecc. R. VII, 8 and Ruth R. 6:4 f. as well as here, b. Hag. 12b f. 
+<sup>6</sup> See Ecc. R. VII, 8 and Ruth R. 6:4 f. as well as here, b. [[Chagigah 12#12b|Hag. 12b]] f. 
 
 <sup>7</sup> See p. 9. 
 
@@ -111,7 +111,7 @@ As quoted by Scholem, the key passage reads as follows:
 
 And what is there in *Zebul*? R. Levi said in the name of R. Hama bar Ukba, who said it in the name of R. Johanan: The Prince \[obviously Michael as in the Talmudic passage\] is not dwelling anywhere but in *Zebul* and he is the very fullness of *Zebul* \[i.e., fills all of it?\] and before him are thousands of thousands and myriads of myriads who minister to him. Of them it is said in Daniel: I beheld till thrones were placed, etc.; a fiery stream issued, etc. (7:9-10). And what is his name? Kimos \[or Kemos\] ... is his name. R. Isaac said: Ma'atah \[or me'atah\] is his name. R. Inyanei bar Sisson said: Bizbul \[meaning: in *zebul\]* is his name. R. Tanhum, the Old said: Atatiyah..., is his name. Eleazar Nadwadaya said: Metatron, like the name of the (divine) *Dynamis.* And those who make theurgic use of the (divine) Name say: *Salnas,* ... is his name, Kasbak, ... \[a different reading: *Baskabas*\] is His name, similar to the name of the Creator of the World. And what is the name of the Merkabah of *Zebul? Halwaya,* ... it its name. 23 
 
-The setting is the seven-tiered heaven, mentioned in b. Hag. 12b and ARN. The passage implies that Metatron, whatever the derivation of the name, is to be understood as a secret name for the archangel Michael. At least this is the interpretation that Eleazar Nadwadaya offers. At the same time, the passage states that the name Metatron is also like the name of God, here also called (GBWRH = *dynamis)* or "the power." The passage was composed by Jewish mystics, not 
+The setting is the seven-tiered heaven, mentioned in b. [[Chagigah 12#12b|Hag. 12b]] and ARN. The passage implies that Metatron, whatever the derivation of the name, is to be understood as a secret name for the archangel Michael. At least this is the interpretation that Eleazar Nadwadaya offers. At the same time, the passage states that the name Metatron is also like the name of God, here also called (GBWRH = *dynamis)* or "the power." The passage was composed by Jewish mystics, not 
 
 21\. ödeberg, *III Enoch,* pp. 188-192. See also Scholem, *Major Trends,* p. 68 f. and *Jewish Gnosticism,* p. 41. 2 2 Scholem's conclusions have been criticized by Lieberman (ŠQY C YN, 5699, p. 15) who questions the manuscript evidence he brings and by Urbach, *Sages,* (p. 119, n. 5). See Gruenwald, *Apocalyptic and Merkabah Mysticism,* and *Visions of Ezekiel.* 2 3 Scholem's *Jewish Gnosticism,*
 

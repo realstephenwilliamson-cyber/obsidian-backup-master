@@ -31,6 +31,9 @@ tasya mande'pi murajadhvanāvākarṇake sati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 276)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.300–302]]
+
 > यस्त्वाह श्रोत्रमाकाशं कर्णसंयोगभेदितम् ॥
 > शब्दजः शब्द आगत्य शब्दबुद्धिं प्रसूयते ।
 > तस्य मन्देऽपि मुरजध्वनावाकर्णके सति ॥

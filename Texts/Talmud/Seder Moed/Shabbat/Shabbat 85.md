@@ -1,0 +1,52 @@
+---
+type: "text"
+work: "Talmud Bavli"
+masekhet: "Shabbat"
+seder: "Moed"
+daf: 85
+translation: "William Davidson Edition - English"
+edition: "English from The William Davidson digital edition of the Koren Noé Talmud, with commentary by Rabbi Adin Even-Israel Steinsaltz"
+license: "CC-BY-NC"
+source: "https://www.sefaria.org/Shabbat.85a?ven=William_Davidson_Edition_-_English&lang=en"
+aliases:
+  - "Shabbat 85a"
+  - "Shabbat 85b"
+  - "BT Shabbat 85"
+---
+# Shabbat 85
+
+← [[Shabbat 84]] · [[Shabbat]] · [[Shabbat 86]] →
+
+*Seder Moed · Shabbat · Daf 85* · [[Shabbat]] · [[Talmud]]
+
+## 85a
+
+> [!xref]- Mesoret HaShas (85a)
+> - [[Berakhot 40#^40a-10|Berakhot 40a:10]] (line 3)
+> - [Jerusalem Talmud Kilayim 3:3:6](https://www.sefaria.org/Jerusalem_Talmud_Kilayim.3.3.6) (line 3)
+
+**And the Sages** have **an accepted** tradition **that five** seeds **in** a **six-**handbreadth space **do not draw sustenance from one another.** ^85a-1
+
+The Gemara asks: **And from where do we** derive **that** when **the Sages** have **an accepted** tradition it **is a** substantial **matter,** meaning that the tradition is reliable? **Rabbi Ḥiyya bar Abba said** that **Rabbi Yoḥanan said: What** is the meaning of that **which is written: “You shall not cross your neighbor’s border, which they of the old times have set** in your inheritance that you shall inherit” ([[Torah 48 - Shoftim#^19-14|Deuteronomy 19:14]])? It means that **you shall not cross the border that the early** generations **set,** establishing the parameters necessary for each plant. The Gemara asks: **What** is the meaning of the phrase: **The early** generations **set? Rabbi Shmuel bar Naḥmani said** that **Rabbi Yonatan said: What is** the meaning of that **which was written: “These are the sons of Seir the Horite who inhabit the land,** Lotan and Shoval and Zibeon and Ana” ([[Torah 08 - Vayishlach#^36-20|Genesis 36:20]])? **And is everyone** else **inhabitants of the heavens,** that it was necessary for the verse to emphasize that these inhabit the land? **Rather,** it means **that they were experts in the settlement of the land, as they would say: This** tract of land that is the **full** length **of a rod** is fit **for olive** trees; **this full** length **of a rod** is fit **for grapes, this full** length **of a rod** is fit **for figs. And** the members of this tribe were called **Horites [*ḥori*]** since **they smelled [*heriḥu*] the earth** to determine what is fit to be grown there. The allusion is based on a transposition of the letters *ḥet* and *reish*. **And** in explanation of why the early inhabitants of Seir were called **Hivites [*ḥivi*]** (see [[Torah 08 - Vayishlach#^36-2|Genesis 36:2]]), **Rav Pappa said:** Because **they would taste the earth like a snake [*ḥivya*]** and determine what should be grown there according to the taste. **Rav Aḥa bar Ya’akov said** that they were called **Horites [*ḥori*]** because **they became free [*benei ḥorin*] of their possessions** when the children of Esau drove them from their lands. Their primary name was actually Hivites. ^85a-2
+
+With regard to the *halakha* itself, **Rav Asi said:** The **garden bed** in the mishna whose area is six by six handbreadths is one whose **internal** area **is six** by six handbreadths **excluding** the area of **its boundaries,** which must be added to the total area. **That was also taught** in a *baraita*: **The internal** area **of a garden bed is six** by six handbreadths. The Gemara asks: **How much** is the size of **its boundaries?** The Gemara answers, **as we learned** in a mishna that **Rabbi Yehuda says:** The **width** of the border **is like the width of a foot.** And **Rabbi Zeira said, and some say** it was **Rabbi Ḥanina bar Pappa** who **said: What is the reason** for the statement of **Rabbi Yehuda? As it is written: “And you water it with your foot like a garden of herbs”** ([[Torah 46 - Eikev#^11-10|Deuteronomy 11:10]]), meaning that **just as** one’s **foot is a handbreadth** wide, **so too, the boundary** between garden beds where one walks to water plants **is also a handbreadth** wide. ^85a-3
+
+**Rav said:** When we learned in the mishna that one may plant five kinds of seeds within **a garden bed** without violating the prohibition of diverse kinds, **we learned this** with regard to a garden bed **in a desolate area** not surrounded by other plants. However, if the garden bed is among other garden beds, it is prohibited to plant that many species there because seeds from the different beds will intermingle. The Gemara asks: If the mishna is dealing with a solitary garden bed, **isn’t there space** in **the corners,** where more species of seeds could be planted without encountering the prohibition of diverse seeds? **The school** of **Rav taught in the name of Rav:** Rav’s statement is referring to a case **where one fills** the **corners** of the flowerbed with the five species of seeds, leaving no room in the corners for other varieties. The Gemara asks: **And let him plant on the outside and not fill up the inside,** to increase the different seed types instead of filling up the corners. ^85a-4
+
+## 85b
+
+> [!xref]- Mesoret HaShas (85b)
+> - [Tosefta Kilayim 2:11](https://www.sefaria.org/Tosefta_Kilayim.2.11) (line 3)
+> - [[Bava Metzia 105#^105b-16|Bava Metzia 105b:16]] (line 3)
+> - [Jerusalem Talmud Kilayim 3:1:2](https://www.sefaria.org/Jerusalem_Talmud_Kilayim.3.1.2)
+> - [Jerusalem Talmud Shabbat 9:2:3](https://www.sefaria.org/Jerusalem_Talmud_Shabbat.9.2.3)
+
+Rather, Rav’s reasoning must be: It is **a decree lest one will fill the corners** after having first planted the garden bed, and thereby violate the prohibition of diverse kinds. The Gemara asks: **And** why should that matter, the legal status of the garden bed **should merely be** like **a triangular [*rosh tor*]** plot of **vegetables. Didn’t we learn** in a mishna: If **a triangular** plot of **vegetables was protruding into another field, it is permitted;** there, it is not considered a prohibited mixture of diverse kinds, **because the end of the field is distinguishable.** Based on the shapes of the two fields where they intersect, the demarcation between them is clear. And the Gemara answers: **There is no** leniency with regard to a **triangular plot in a garden bed.** This allowance with regard to a triangular section of one field jutting into another field applies only to a large field where the triangular shape can clearly be attributed to a different field, but in a small garden bed where the seeds are adjacent to one another, it is impossible to distinguish between the seeds. ^85b-1
+
+**And Shmuel said:** When we learned in the mishna that one may plant five kinds of seeds within a garden bed without violating the prohibition of diverse kinds, **we learned this** even with regard to **a garden bed among garden beds,** not only in a solitary bed. The Gemara asks: **Don’t the seeds become intermingled with one another?** The Gemara answers: It is referring to a case **where one inclines** one **row to here,** in one direction, **and** one **row to here,** in a different direction (*Me’iri*). In that way they do not appear intermingled. ^85b-2
+
+**Ulla said: They raise a dilemma in the West,** Eretz Yisrael: **What** is the *halakha* if **one opened a single furrow across its entirety?** Is it considered demarcation between the garden beds if one dug a furrow between two garden beds (*ge’onim*, *Tosafot*)? **Rav Sheshet said:** The **intermingling** of these garden beds **comes and nullifies the row.** The furrow is not considered to be a demarcation between the beds. **Rav Asi said: Its intermingling does not disqualify the row. Ravina raised an objection to** the opinion of **Rav Ashi** from a mishna: **One who plants two rows of cucumbers** and **two rows of gourds** and **two rows of Egyptian beans, it is permitted** because each of the species is distinct. However, if he plants **one row of cucumbers and one row of gourds and one row of Egyptian beans, it is prohibited** because in single rows there is no clear demarcation between the species. This indicates that a furrow between different species of seeds does not prevent intermingling between them. Rav Ashi replied: The case in that mishna is an exception. **Here, it is different because there are branches** that grow out from these species which become entangled with each other, nullifying the furrow between them. Other vegetables, whose branches do not become entangled, may be planted with a single furrow between them. ^85b-3
+
+**Rav Kahana said** that **Rabbi Yoḥanan said: One who wishes to fill his entire garden with vegetables** and does not want to distance the rows of seeds from one another may **make a garden bed** that is **six by six** handbreadths **and make five circles inside it** (*ge’onim*, Rambam). He plants different species in the different circles **and fills its corners** with **whatever** additional species that **he wants.** ^85b-4
+
+The Gemara asks: **Aren’t there** seeds **between** the circles, which intermingle with the species that are in the circles? **The school of Rabbi Yannai say** in response to this: This is referring to a case **where one leaves** the space **in between** them **barren** and does not plant there. **Rav Ashi said:** He may fill the entire bed with seeds, and demarcate between the different types of seeds in the following manner. **If** the circles **were planted lengthwise, he plants** the seeds in between **widthwise;** and if the circles were planted **widthwise, he plants** the seeds in between **lengthwise. Ravina raised an objection to** the opinion of **Rav Ashi:** We learned that **the work** space **of a vegetable** of one species, when planted with **a vegetable** of a different species, is **six handbreadths. And one views them** ^85b-5

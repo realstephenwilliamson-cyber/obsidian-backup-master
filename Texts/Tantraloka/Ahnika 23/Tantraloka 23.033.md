@@ -31,6 +31,9 @@ lekhākārā nādarūpā praśāntā cakrapaṅktigā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 314)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.33–35]]
+
 *Lead-in:* एवं मन्त्रपद्धतिं जपतस्तन्मयतास्थितौ युक्तिमाह--
 
 Jayaratha comments on this verse together with 23.34: see [[Tantraloka 23.034#Viveka|23.34]].

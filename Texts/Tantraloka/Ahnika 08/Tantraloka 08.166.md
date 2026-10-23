@@ -37,6 +37,11 @@ evaṃ koṭiśataṃ bhūḥ syāt sauvarṇastaṇḍulastataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 193–194)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.165–166]]
+>
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.166–167]]
+
 *Lead-in:* एतदेव उपसंहरति --
 
 > एवं कोटिशतं भूः स्यात् सौवर्णस्तण्डुलस्ततः ॥

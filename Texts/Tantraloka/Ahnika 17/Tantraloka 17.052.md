@@ -34,6 +34,9 @@ tisrastisro hutīrdadyāt pṛthak sāmastyato'pi vā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 164)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.52–53]]
+
 *Lead-in:* एतदेवान्यत्राप्यतिदिशति--
 
 Jayaratha comments on this verse together with 17.53: see [[Tantraloka 17.053#Viveka|17.53]].

@@ -33,6 +33,11 @@ kṛtvā daṇḍaṃ triśūlaṃ tu tribhirbhāgaiḥ samantataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 110–111)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.102–105]]
+>
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.105–106]]
+
 *Lead-in:* एतदुपसंहरन् त्रिशूलवर्तनामुपक्रममाणस्तदुपयोगि क्षेत्रं तावदाह--
 
 > कृत्वा दण्डं त्रिशूलं तु त्रिभिर्भागैः समन्ततः ॥

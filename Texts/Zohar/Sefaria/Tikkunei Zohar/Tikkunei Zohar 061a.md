@@ -318,7 +318,7 @@ who are coming to consume the flock,
 
 [^1]: ה־ה
 [^2]: *zot*
-[^3]: *BT* Qiddushin 71a
+[^3]: *BT* [[Kiddushin 71#71a|Qiddushin 71a]]
 [^4]: *te’udah*
 [^5]: *te-murah*
 [^6]: *na’ul*
@@ -330,7 +330,7 @@ who are coming to consume the flock,
 [^12]: *ne-’ilah*
 [^13]: *ne’ilah*
 [^14]: *’onah*
-[^15]: *BT* Ketubot 62b
+[^15]: *BT* [[Ketubot 62#62b|Ketubot 62b]]
 [^16]: *kos*
 [^17]: *yarashah*
 [^18]: *yabashah*
@@ -343,7 +343,7 @@ who are coming to consume the flock,
 [^25]: י
 [^26]: 10
 [^27]: *kosiY*
-[^28]: *BT* Berakhot 51a
+[^28]: *BT* [[Berakhot 51#51a|Berakhot 51a]]
 [^29]: *zot*
 [^30]: ‘this’
 [^31]: Malkhut

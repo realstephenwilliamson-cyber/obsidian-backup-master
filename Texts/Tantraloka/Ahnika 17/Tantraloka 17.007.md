@@ -36,6 +36,11 @@ tato'gnau tarpitāśeṣamantre cidvyomamātrake || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 142–143)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.6–7]]
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.7–8]]
+
 *Lead-in:* एवं सूत्रकॢप्तिमभिधाय तत्त्वशुद्धिमाह--
 
 > ततोऽग्नौ तर्पिताशेषमन्त्रे चिद्व्योममात्रके ॥

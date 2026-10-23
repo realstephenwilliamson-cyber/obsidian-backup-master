@@ -37,6 +37,11 @@ ratnairalaṃ dalayati sma bhavāpadastāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 252)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 37.57.*
+>
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.57]]
+
 *Lead-in:* यो भक्तिरोहणमवाप्य महेशचिन्ता-
 
 Jayaratha comments on this verse together with 37.54: see [[Tantraloka 37.054#Viveka|37.54]].

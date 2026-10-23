@@ -34,6 +34,11 @@ sthalaṃ pañcaśatī tadvajjalaṃ ceti vibhajyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 130)
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.83]]
+>
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.83 (continued)]]
+
 *Lead-in:* भारतमपि वर्षं जम्बुद्वीपवन्नवखण्डमेव, -- इत्याह --
 
 > भारते नवखण्डं च सामुद्रेणाम्भसात्र च ।

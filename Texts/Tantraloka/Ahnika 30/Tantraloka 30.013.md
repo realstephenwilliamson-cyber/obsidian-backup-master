@@ -31,6 +31,9 @@ tatsaṃvittistadāpattiriti saṃjñābhiśabditā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 10–11)
+> ![[Tantraloka Dyczkowski v11 02 - Chapter Thirty, part 1#Viveka on 30.12–14]]
+
 > बिन्दुनादादिका व्याप्तिः श्रीमत्त्रैशिरसे मते ॥
 > क्षेपाक्रान्तिचिदुद्बोधदीपनस्थापनान्यथ ।
 > तत्संवित्तिस्तदापत्तिरिति संज्ञाभिशब्दिता ॥

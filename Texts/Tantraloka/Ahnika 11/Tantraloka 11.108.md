@@ -35,6 +35,9 @@ svādhāraśaktau viśrāntaṃ viśvamitthaṃ vimṛśyatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 93–94)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.108]]
+
 *Lead-in:* नचैतदपूर्वं किञ्चिदित्याह --
 
 > साङ्कल्पिकं निराधारमपि नैव पतत्यधः ।

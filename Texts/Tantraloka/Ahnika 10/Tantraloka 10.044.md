@@ -31,6 +31,9 @@ itthaṃ jaḍena saṃbandhe na mukhyā ṇyarthasaṅgatiḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 322)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.44]]
+
 *Lead-in:* एतदेवोपसंहरति -
 
 > इत्थं जडेन संबन्धे न मुख्या ण्यर्थसङ्गतिः ।

@@ -33,6 +33,11 @@ nityatvamavisaṃvāda iti no mānakāraṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 214–215)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.38–39]]
+>
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.39]]
+
 *Lead-in:* ननु नित्यत्वाविसंवादाभ्यामेव आगमप्रामाण्यसिद्धौ किं विषयभेदाभेदवचनेन?--इत्याशङ्क्य आह--
 
 > नित्यत्वमविसंवाद इति नो मानकारणम् ॥

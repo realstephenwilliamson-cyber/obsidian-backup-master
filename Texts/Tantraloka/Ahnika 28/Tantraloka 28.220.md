@@ -33,6 +33,13 @@ sa vāyvātmā dṛḍhe tasmindehayantre cidātmanā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 98–100)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 28.222–224.*
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.219–220]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.222–224]]
+
 *Lead-in:* गृहीतसङ्कोचः पुनरयं जाड्याच्चेतनाधिष्ठेय एव--इत्याह--
 
 Jayaratha comments on this verse together with 28.219: see [[Tantraloka 28.219#Viveka|28.219]].

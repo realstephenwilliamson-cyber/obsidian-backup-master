@@ -31,6 +31,9 @@ bhūtādi tadupādhyutthamatra bhedacatuṣṭayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 463–464)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.263–264]]
+
 *Lead-in:* अत्रापि पिण्डस्थादिवद्भेदचातूरूप्यमस्ति -- इत्याह --
 
 > उदासीनस्य तस्यापि वेद्यं येन चतुर्विधम् ।

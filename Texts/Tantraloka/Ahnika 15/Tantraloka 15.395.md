@@ -32,6 +32,9 @@ tajjaṃ ca kuṇḍavahnyādi śivātmeti sphuṭaṃ smaret || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 243)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.395–396]]
+
 *Lead-in:* एवं चैषां सिद्धिः स्यात्--इत्याह--
 
 Jayaratha comments on this verse together with 15.396: see [[Tantraloka 15.396#Viveka|15.396]].

@@ -31,6 +31,9 @@ bahirmukhaṃ bhramaṃ kuryāt khaṇḍacandradvayaṃ dvayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 96–97)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.65–67]]
+
 > तयोरन्तस्तृतीये तु दक्षिणोत्तरपार्श्वयोः ।
 > जीवे खण्डेन्दुयुगलं कुर्यादर्न्तभ्रमाद्बुधः ॥
 > तयोरपरमर्मस्थं खण्डेन्दुद्वयकोटिगम् ।

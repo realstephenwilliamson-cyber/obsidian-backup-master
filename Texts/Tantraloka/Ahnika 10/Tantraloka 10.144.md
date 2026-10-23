@@ -33,6 +33,11 @@ yathā yathā hi saṃvittiḥ sa hi bhogaḥ sphuṭo'sphuṭaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 383–385)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.142–144]]
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.144–145]]
+
 *Lead-in:* तदेव दर्शयति -
 
 > यथा यथा हि संवित्तिः स हि भोगः स्फुटोऽस्फुटः ॥

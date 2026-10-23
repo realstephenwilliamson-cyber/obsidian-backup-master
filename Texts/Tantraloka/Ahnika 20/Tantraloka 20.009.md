@@ -34,6 +34,9 @@ sācāraiḥ kriyate dīkṣā yā dṛṣṭapratyayānvitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 236)
+> ![[Tantraloka Dyczkowski v09 11 - Chapter Twenty#Viveka on 20.8–10]]
+
 > यो गुरुर्जपहोमार्चाध्यानसिद्धत्वमात्मनि ।
 > ज्ञात्वा दीक्षां चरेत्तस्य दीक्षा सप्रत्यया स्मृता ॥
 > अवधूते निराचारे तत्त्वज्ञे नत्वयं विधिः ।

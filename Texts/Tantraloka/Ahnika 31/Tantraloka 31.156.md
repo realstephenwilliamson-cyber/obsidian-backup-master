@@ -33,6 +33,11 @@ navabhiḥ koṣṭhakairyuktaṃ tato'yaṃ vidhirucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 129–130)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.155–156]]
+>
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.156–157]]
+
 *Lead-in:* मध्यमेव विभजति--
 
 Jayaratha comments on this verse together with 31.155: see [[Tantraloka 31.155#Viveka|31.155]].

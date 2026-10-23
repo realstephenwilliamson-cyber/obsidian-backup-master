@@ -31,5 +31,8 @@ asphuṭaṃ tu yadābhāti suptaṃ tattatpuro'pi yat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 485–488)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.294–297]]
+
 Jayaratha comments on this verse together with 10.297: see [[Tantraloka 10.297#Viveka|10.297]].
 

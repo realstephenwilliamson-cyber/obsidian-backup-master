@@ -33,6 +33,11 @@ sa paraṃ prakṛterbudhne sṛṣṭiṃ nāyāti jātucit || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 293–294)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.273–274]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.274–275]]
+
 *Lead-in:* इति । नन्वेवं प्रकृतिपुरुषविवेकिनोऽपि किमत्यन्तं कर्म निवर्तते न वा? -- इत्याशङ्क्याह -- प्राक्तनस्त्वित्यादि । आश्रयः कलादिः ॥ नन्वेवं तर्हि अस्मद्वद् बद्ध एवासाविति किं प्रकृतिपुरुषज्ञानेन? -- इत्याशङ्क्याह --
 
 > स परं प्रकृतेर्बुध्ने सृष्टिं नायाति जातुचित् ॥

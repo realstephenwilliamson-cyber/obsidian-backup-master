@@ -34,6 +34,9 @@ bādhakatve bādhikāsau sāmyaudāsīnyayostathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 271–272)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.49]]
+
 *Lead-in:* ननु परोक्षदीक्षायां यद्येवं भोगायापि योजनिका क्रियते तत्कथं सत्यामपि भोगानीप्सायामस्य मोक्ष स्यात् ?--इत्याशङ्कायां ससंवादमेव समाधानमभिधत्ते--
 
 > उक्तं हि स्वान्यसंवित्त्योः स्वसंविद्बलवत्तरा ।

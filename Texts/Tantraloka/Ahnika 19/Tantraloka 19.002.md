@@ -34,6 +34,9 @@ dehapāte samīpasthe śaktipātasphuṭatvataḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 200)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.2–3]]
+
 *Lead-in:* न च एतत्स्वोपज्ञमेवास्माभिरुक्तम्--इत्याह--
 
 > देहपाते समीपस्थे शक्तिपातस्फुटत्वतः ।

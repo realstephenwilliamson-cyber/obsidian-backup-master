@@ -31,6 +31,9 @@ karṇikā kanakaprakhyā pallavāntāśca lohitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 129)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.147–154]]
+
 *Lead-in:* अत्रैव रजःपातं निरूपयति--
 
 Jayaratha comments on this verse together with 31.154: see [[Tantraloka 31.154#Viveka|31.154]].

@@ -31,6 +31,9 @@ asvāsthye conmiṣantyete saṃskārāḥ śaktipātataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 123–124)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.283–284]]
+
 > धातुदोषाच्च संसारसंस्कारास्ते प्रबोधिताः ।
 > छिद्रगा अपि भूयिष्ठज्ञानदग्धा न रोहिणः ॥
 > ये तु कैवल्यभागीयाः स्वास्थ्येऽनुन्मिषिताः सदा ।

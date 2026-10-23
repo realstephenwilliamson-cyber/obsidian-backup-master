@@ -34,6 +34,9 @@ bhedāḥ saṅkīrṇāḥ punaranye bhūyastvakāriṇo bahudhā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 83)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.191–193]]
+
 > शोधनशोध्यविभेदादितिकर्तव्यत्वभेदतश्चैषा ।
 > दीक्षा बहुधा भिन्ना शोध्यविहीना तु सप्ततिधा ॥
 > मन्त्राणां सकलेतरसाङ्गनिरङ्गादिभेदसङ्कलनात् ।

@@ -35,6 +35,9 @@ vidyārājñyastriguṇyādyāḥ sapta saptārbudeśvarāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 331–332)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.338–340]]
+
 > वामा ज्येष्ठा रौद्री काली कलविकरणीबलविकारिकेतथा ॥
 > मथनी दमनी मनोन्मनी च त्रिदृशः पीताः समस्तास्ताः ।
 > सप्तकोट्यो मुख्यमन्त्रा विद्यातत्त्वेऽत्र संस्थिताः ॥

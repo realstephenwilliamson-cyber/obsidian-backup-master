@@ -31,6 +31,9 @@ akṣāṇāṃ madhyagaṃ sūkṣmaṃ syādetaddehavatpunaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 129–130)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.299]]
+
 *Lead-in:* एवं योगिनां देहापगमेऽपि अन्यवदिन्द्रियाणामन्तरा अस्तमयो नास्ति-- इत्याह--
 
 > अतोऽस्य परदेहादिसञ्चारे नास्ति मेलनम् ।

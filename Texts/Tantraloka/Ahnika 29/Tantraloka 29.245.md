@@ -31,5 +31,8 @@ tena saṃbodhayetsādhyaṃ bindvākhyo'yaṃ prakīrtitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 384–385)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.244–245]]
+
 Jayaratha comments on this verse together with 29.247: see [[Tantraloka 29.247#Viveka|29.247]].
 

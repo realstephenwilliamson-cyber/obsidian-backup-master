@@ -33,6 +33,11 @@ teṣāṃ sayuktvaṃ yātānāmapi saṃskārato nijāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 115)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.264–265]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.265–266]]
+
 *Lead-in:* नन्वेवमपि एषां सर्वेषां किमविशेषेणैव रुद्रत्वेन अवतारः, उत न ?--इत्याशङ्क्य आह--
 
 > तेषां सयुक्त्वं यातानामपि संस्कारतो निजात् ॥

@@ -36,6 +36,11 @@ siddhātantre tu pātālapṛṣṭhe yakṣīsamāvṛtam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 95–97)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 8.41–42.*
+>
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.41–42]]
+
 > ते तु तत्रापि देवेशं भक्त्या चेत्पर्युपासते ॥
 > तदीशतत्त्वे लीयन्ते क्रमाच्च परमे शिवे ।
 > अन्यथा ये तु वर्तन्ते तद्भोगनिरतात्मकाः ॥

@@ -34,6 +34,9 @@ asadgurau rūḍhacit sa māyāpāśena rañjitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 44)
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.33]]
+
 *Lead-in:* ननु यदि नाम दर्शनान्तरोक्तया मुक्त्या संसारस्य प्रक्षयो न जायते, तत् कस्मादयं वैष्णवादिर्जनस्तत्र अनुरज्यते ? -- इत्याशङ्क्याह --
 
 > तेनाज्ञजनताकॢप्तप्रवादैर्यो विडम्बितः ।

@@ -33,6 +33,11 @@ lokācārasthito yastu praviṣṭe tādṛśe tu saḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 174–175)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.383–384]]
+>
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.384–385]]
+
 *Lead-in:* एतच्च अतन्मयत्वेऽपि अधिकृतविषयं ज्ञेयम्, न अन्यथा--इत्याह--
 
 > लोकाचारस्थितो यस्तु प्रविष्टे तादृशे तु सः ॥

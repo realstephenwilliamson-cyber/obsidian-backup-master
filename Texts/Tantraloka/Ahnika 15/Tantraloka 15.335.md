@@ -31,5 +31,8 @@ syādeva pūjitaṃ tena sakṛnmadhye prapūjayet |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 208–210)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.335–338]]
+
 > श्रीदेव्यायामले चोक्तं यागे डामरसंज्ञिते ॥
 

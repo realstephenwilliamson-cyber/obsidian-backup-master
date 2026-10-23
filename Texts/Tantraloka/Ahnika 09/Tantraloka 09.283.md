@@ -33,6 +33,11 @@ kṣubhitaṃ śabdatanmātraṃ citrākārāḥ śrutīrdadhat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 262–264)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.283]]
+>
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.283–285]]
+
 *Lead-in:* ननु किमेभिः परोक्षैरविशेषैः, विशेषा एव प्रत्यक्षा अभ्युपगम्यन्तां यद्वशादियं सकलैव लोकयात्रा सिध्येत् ? -- इत्याशङ्क्याह --
 
 > विशेषाणां यतोऽवश्यं दशा प्रागविशेषिणी ।

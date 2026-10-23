@@ -31,6 +31,9 @@ iha tāvatsamasto'yaṃ vyavahāraḥ purātanaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 188–191)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.1–2]]
+
 *Lead-in:* इदानीं सर्वशास्त्रैकवाक्यतावचनद्वारा द्वितीयार्धेन सर्वागमप्रामाण्यं प्रतिपादयितुं प्रतिजानीते--
 
 > अथोच्यते समस्तानां शास्त्राणामिह मेलनम् ।

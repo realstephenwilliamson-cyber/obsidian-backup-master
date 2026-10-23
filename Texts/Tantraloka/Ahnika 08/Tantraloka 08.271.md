@@ -35,6 +35,9 @@ gandharvayakṣarākṣasapitṛmunibhiścitritāstathā yāgāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 277–278)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.269–271]]
+
 > उपसंजिहीर्षुरिह यश्चतुराननपङ्कजं समाविश्य ।
 > दग्ध्वा चतुरो लोकाञ्जनलोकान्निर्मिणोति पुनः ॥
 > यस्येच्छातः सत्त्वादिगुणशरीरा विसृजति रुद्राणी ।

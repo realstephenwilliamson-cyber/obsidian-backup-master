@@ -37,6 +37,11 @@ tatsthāḥ sarve śivaṃ yānti rudrāḥ śrīkaṇṭhadīkṣitāḥ || ^ia
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 187–188)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.157–158]]
+>
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.158–159]]
+
 *Lead-in:* ननु यद्येवं तत्किमेते तत्रैवासते किमुत ततोऽप्यूर्ध्वं यान्ति ? -- इत्याशङ्क्याह -
 
 > तत्स्थाः सर्वे शिवं यान्ति रुद्राः श्रीकण्ठदीक्षिताः ॥

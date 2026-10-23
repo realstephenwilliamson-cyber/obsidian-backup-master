@@ -33,6 +33,11 @@ pradīpaścaiṣa bhāvānāṃ prakāśatvaṃ dadā[dhā]tyalam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 329–330)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.53–54]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.54–55]]
+
 *Lead-in:* वैषम्यमेव प्रकारान्तरेणापि द्रढयति --
 
 > प्रदीपश्चैष भावानां प्रकाशत्वं ददा(धा)त्यलम् ॥

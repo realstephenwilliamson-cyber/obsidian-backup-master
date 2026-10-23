@@ -31,6 +31,9 @@ prāptapākaṃ saṃvarīturapāye bhāsate hi tat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 132)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.306–307]]
+
 *Lead-in:* ननु देहपाते विकल्पस्य प्रशमोऽस्तु, प्रस्फुटज्ञानोदये तु को हेतुः ?- -इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 28.307: see [[Tantraloka 28.307#Viveka|28.307]].

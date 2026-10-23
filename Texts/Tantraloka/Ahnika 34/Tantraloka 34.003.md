@@ -36,6 +36,9 @@ svātmānamāviśati garbhitaviśvarūpam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 187)
+> ![[Tantraloka Dyczkowski v11 08 - Chapter Thirty-Four#Viveka on 34.3]]
+
 *Lead-in:* ननु एवं सति अस्य किं स्यात्?--इत्याशङ्क्य आह-- इत्थं क्रमोदितिविबोधमहामरीचि-
 
 > संपूरितप्रसरभैरवभावभागी ।

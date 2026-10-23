@@ -33,6 +33,11 @@ evaṃ viśvaśarīraḥ sanviśvātmatvaṃ gataḥ sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 164–165)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.275–276]]
+>
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.276–278]]
+
 *Lead-in:* एवमेतत् प्रसङ्गादभिधाय प्रकृतमेव आह--
 
 Jayaratha comments on this verse together with 15.275: see [[Tantraloka 15.275#Viveka|15.275]].

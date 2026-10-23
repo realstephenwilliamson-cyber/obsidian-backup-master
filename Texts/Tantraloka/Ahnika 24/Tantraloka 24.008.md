@@ -31,6 +31,9 @@ piṇḍapātādayaṃ muktaḥ khecaro vā bhavetpriye |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 347)
+> ![[Tantraloka Dyczkowski v09 15 - Chapter Twenty-Four#Viveka on 24.6–9]]
+
 > अन्तिमं यद्भवेत्पूर्वं तत्कृत्वान्तिममादिमम् ॥
 > संहृत्यैकैकमिष्टिर्या सान्त्येष्टिर्द्वितयी मता ।
 > पूजाध्यानजपाप्लुष्टसमये न तु साधके ॥

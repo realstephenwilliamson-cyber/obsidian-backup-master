@@ -47,7 +47,7 @@ But even without this they still rise to the World of *Yetzirah*, by means of th
 [^3]: Cf. below, end of ch. 50.
 [^4]: Ch. 4.
 [^5]: Ibid., and ch. 5.
-[^6]: Cf. *Kiddushin* 40a.
+[^6]: Cf. [[Kiddushin 40#40a|*Kiddushin* 40a]].
 [^7]: As the Talmud continues, “Even if a man intended to fulfill a commandment, but was forcibly prevented, Scripture ascribes it to him as if he had performed it.” The question is, why the difference in expression? The answer is that each statement conveys a different meaning.
 [^8]: THE AFFECTIONS (FEAR AND LOVE) ARE “BORN” OF THE INTELLECT (*CHOCHMAH* AND *BINAH*). CF. ABOVE, CH. 3.
 [^9]: “SMALL IMAGE”—A KABBALISTIC TERM, CORRESPONDING TO THE SEVEN DIVINE *MIDDOT* (*CHESED*, *GEVURAH*, ETC.). THE “FEMININE” PRINCIPLE IS TO BE UNDERSTOOD (AS IN ALL KABBALISTIC TERMINOLOGY) IN THE SENSE OF RECIPIENT OF THE FLOW OF DIVINE INFLUENCE.

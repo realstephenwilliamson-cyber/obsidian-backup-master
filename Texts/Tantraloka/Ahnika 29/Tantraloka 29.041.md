@@ -31,6 +31,9 @@ bhaṭṭendravalkalāhīndragajendrāḥ samahīdharāḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 238)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.41]]
+
 *Lead-in:* एवं साधिकारं राजपुत्रषट्कमभिधाय निरधिकारमपि अभिधत्ते--
 
 > भट्टेन्द्रवल्कलाहीन्द्रगजेन्द्राः समहीधराः ।

@@ -33,6 +33,11 @@ anavacchinnaṃ paramārthato hi rūpaṃ cito devyāḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 310–312)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.117–118]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.118–119]]
+
 *Lead-in:* कथञ्च अत्र आवेशः सिद्ध्येत् ?--इत्याशङ्क्य आह--
 
 > ईदृक्तादृक्प्रायप्रशमोदयभावविलयपरिकथया ॥

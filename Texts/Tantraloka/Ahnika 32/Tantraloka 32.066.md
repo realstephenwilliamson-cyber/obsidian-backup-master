@@ -31,6 +31,9 @@ vighnapraśame pāśacchede mudrāvidheḥ samayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 167)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.66]]
+
 *Lead-in:* आसामेव च बन्धाय कालभेदं निरूपयितुमाह--
 
 > यागादौ तन्मध्ये तदवसितौ ज्ञानयोगपरिमर्शे ।

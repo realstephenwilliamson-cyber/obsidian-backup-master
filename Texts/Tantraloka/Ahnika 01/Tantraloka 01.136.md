@@ -40,6 +40,11 @@ jñeyabhāvo hi ciddharmastacchāyācchādayenna tām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 302–304)
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.136]]
+>
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.136 (2)]]
+
 *Lead-in:* एवं वैचित्र्यस्य किं निमित्तम् इत्याशङ्क्याह --
 
 > तस्य स्वतन्त्रभावो हि किं किं यन्न विचिन्तयेत् ।

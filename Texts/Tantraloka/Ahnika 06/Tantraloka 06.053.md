@@ -31,6 +31,9 @@ prabhuśaktiḥ kvacinmukhyā yathāṅgamarudīraṇe |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 265)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.53–54]]
+
 *Lead-in:* एवमेषां समानेऽपि यत्नविधायित्वे क्वचित्कस्यचिन्मुख्यत्वम् -- इत्याह --
 
 Jayaratha comments on this verse together with 6.54: see [[Tantraloka 06.054#Viveka|6.54]].

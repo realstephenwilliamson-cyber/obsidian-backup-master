@@ -31,6 +31,9 @@ anyatra samayatyāgātkravyādatvaṃ śataṃ samāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 339)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.98]]
+
 *Lead-in:* एतच्च न केवलमत्रैवोक्तं यावदागमान्तरेष्वपि--इत्याह--
 
 > अन्यत्राप्यधिकारं च नेयाद्विद्येशतां व्रजेत् ।

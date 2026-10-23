@@ -31,6 +31,9 @@ itthaṃ śuddha iti procya gururmānastutau vibhuḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 150)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.173]]
+
 *Lead-in:* एतदेवान्यत्रापि अतिदिशति --
 
 > रागविद्याकालयतिप्रकृत्यक्षार्थसञ्चयः ।

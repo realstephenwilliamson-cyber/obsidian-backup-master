@@ -34,6 +34,9 @@ na gacchatīti nāsatyo na cānyasamayodayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 3–4)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.7]]
+
 *Lead-in:* ननु समयो नामेच्छामात्रनिबन्धनः सङ्केतः स चापारमार्थिकत्वादसत्यः, अत एव समयान्तरमप्युत्सहते, इत्येवं नियमो न स्यात् ? -- इत्याशङ्क्याह --
 
 > कृतश्च देवदेवेन समयोऽपरमार्थताम् ।

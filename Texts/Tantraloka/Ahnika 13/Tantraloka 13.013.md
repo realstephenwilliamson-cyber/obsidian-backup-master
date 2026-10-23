@@ -33,6 +33,11 @@ nanvitthaṃ pradahejjñānaṃ karmajālāni karma hi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 130–132)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.12–13]]
+>
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.13–14]]
+
 *Lead-in:* न च कर्मफलत्वेऽपि ज्ञानस्येश्वरेच्छोपनतमेव कर्मान्तरदाहकत्वं किन्तु युक्तिबलोपनीतम् -- इत्याह --
 
 Jayaratha comments on this verse together with 13.12: see [[Tantraloka 13.012#Viveka|13.12]].

@@ -36,6 +36,9 @@ māheśvarī paramalaṃkurute sma bhaktiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 251)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.54]]
+
 *Lead-in:* तस्यात्मजश्चुखलकेति जने प्रसिद्ध-
 
 > श्चन्द्रावदातधिषणो नरसिंहगुप्तः ।

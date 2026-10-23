@@ -31,6 +31,9 @@ tadyuktamanyathā prāṇadārḍhye ko heturekataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 147–149)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.338–340]]
+
 > युक्त्यानयास्मत्सन्तानगुरुणा कल्लटेन यत् ॥
 > देहाविशेषे प्राणाख्यदार्ढ्यं हेतुरुदीरितम् ।
 > तद्युक्तमन्यथा प्राणदार्ढ्ये को हेतुरेकतः ॥

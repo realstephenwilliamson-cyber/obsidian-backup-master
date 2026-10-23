@@ -36,6 +36,11 @@ asthāsyadekarūpeṇa vapuṣā cenmaheśvaraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 205–207)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.99–100]]
+>
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.100–101]]
+
 *Lead-in:* नन्वयं संविन्नाथः किमिति नाम न नियतेन रूपेण परिस्फुरेत् ? इत्याशङ्क्याह --
 
 > अस्थास्यदेकरूपेण वपुषा चेन्महेश्वरः ॥

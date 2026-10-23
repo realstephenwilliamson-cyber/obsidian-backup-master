@@ -36,6 +36,13 @@ nānyaśāstrasamuddiṣṭaṃ srotasyuktaṃ nije caret || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 347–353)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.251]]
+>
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.251 (continued)]]
+>
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.251]]
+
 *Lead-in:* एवं सर्वोत्कृष्टत्वाच्छैव एव शास्त्रे मुख्यया वृत्त्या निष्ठा कार्या, नान्यत्रेत्याह --
 
 > तस्मान्मुख्यतया स्कन्द लोकधर्मान्न चाचरेत् ।

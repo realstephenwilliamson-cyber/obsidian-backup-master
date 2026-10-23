@@ -37,6 +37,11 @@ nanvevaṃ sāpi saṃkṣobhaṃ vinā tānviṣamānguṇān || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 266–268)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.255]]
+>
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.255–256]]
+
 *Lead-in:* अत एव वैषम्यमनापन्ना प्रकृति कथं बुद्धिजन्मनि कारणं स्यात् ? इत्याह --
 
 > गुणसाम्यात्मिका तेन प्रकृतिः कारणं भवेत् ।

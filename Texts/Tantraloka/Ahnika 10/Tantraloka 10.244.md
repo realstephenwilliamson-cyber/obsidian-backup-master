@@ -31,6 +31,9 @@ sarvatobhadramāpūrṇaṃ sarvato vedyasattayā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 451–452)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.244]]
+
 *Lead-in:* न केवलमिदमेव जाग्रतः पारिभाषिकं संज्ञान्तरं यावदन्यदपि -- इत्याह --
 
 > प्रसंख्यानैकरूढानां ज्ञानिनां तु तदुच्यते ।

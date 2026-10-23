@@ -31,6 +31,9 @@ tathāpi bhairave tantre punaḥ saṃskāramarhati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 314)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.304]]
+
 *Lead-in:* तदेव पठति --
 
 > वाममार्गाभिषिक्तस्तु दैशिकः परतत्त्ववित् ।

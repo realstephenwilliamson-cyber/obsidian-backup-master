@@ -36,6 +36,11 @@ anuttaravimarśe prāgvyāpārādivivarjite || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 68–71)
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.61–62]]
+>
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.62–63]]
+
 *Lead-in:* नन्वनुत्तरं शान्तं परं ब्रह्मैवास्ति -- इति तत्र को नामायम् अहंपरामर्शो यस्यापि विश्रान्तिधामता स्यात् ? -- इत्याशङ्कां शमयितं प्राणतत्त्वसमुच्चारानन्तर्येणानुजोद्देशोद्दिष्टं चिदात्मनोच्चारमवतारयति --
 
 > अनुत्तरविमर्शे प्राग्व्यापारादिविवर्जिते ॥

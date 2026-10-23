@@ -33,6 +33,11 @@ utprekṣāmātrahīno'pi kāñcitkulavadhūṃ puraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 385–386)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.145–146]]
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.146–147]]
+
 *Lead-in:* न केवलं मूढदशायामेव योग्यतामात्रेण भोक्तृभोग्यभावो भवेद्यावदमूढदशायामपि -- इत्याह --
 
 > उत्प्रेक्षामात्रहीनोऽपि काञ्चित्कुलवधूं पुरः ॥

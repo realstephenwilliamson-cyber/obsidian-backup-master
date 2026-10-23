@@ -36,6 +36,11 @@ tatra dhyānamayaṃ tāvadanuttaramihocyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 19–23)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.19]]
+>
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.19 (2)]]
+
 *Lead-in:* एवं बुद्धिप्राणयोरसाधारणं रूपमभिधाय शरीरस्याप्यभिधत्ते --
 
 > शरीरस्याक्षविषयैतत्पिण्डत्वेन संस्थितिः ।

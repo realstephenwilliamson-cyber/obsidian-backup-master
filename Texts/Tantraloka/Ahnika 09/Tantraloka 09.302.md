@@ -33,6 +33,11 @@ nahi śabdajaśabdasya dūrādūraravoditeḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 276–277)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.300–302]]
+>
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.302–303]]
+
 *Lead-in:* अत्रैव हेतुमाह -
 
 > नहि शब्दजशब्दस्य दूरादूररवोदितेः ॥

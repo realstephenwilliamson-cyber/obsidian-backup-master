@@ -35,6 +35,9 @@ tattvakramoditamapi nyāsaṃ punarāha tadviruddhamapi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 100)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.231]]
+
 *Lead-in:* वस्तुत इति--
 
 > शोध्यशोधकात्मनो न्यासस्य साम्यात् ।

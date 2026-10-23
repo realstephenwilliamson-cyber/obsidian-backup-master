@@ -35,6 +35,9 @@ anuttaraṃ paraṃ dhāma praviśedacirāt sudhīḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 201)
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.147]]
+
 *Lead-in:* नन्वेवमुक्तेन वर्णतत्त्वेन किं भवेत् ? -- इत्याशङ्क्याह --
 
 > इत्येनया बुधो युक्त्या वर्णजप्यपरायणः ।

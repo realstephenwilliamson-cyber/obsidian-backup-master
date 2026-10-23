@@ -34,6 +34,9 @@ kartuṃ vāsīṃ ca ṭaṅkaṃ ca krakacaṃ cāpi gṛhmate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 95–96)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.80–81]]
+
 *Lead-in:* ननु यदि नाम परतत्त्वज्ञाने गुर्वादीनां समस्तानामेव कारणत्वं, तत् कथं व्यस्तानामप्युक्तं, व्यस्तत्त्वेऽपि वा एकस्मादेव कार्यसिद्धेः किमन्येन ? इत्याशङ्क्याह --
 
 > करणस्य विचित्रत्वाद्विचित्रामेव तां छिदम् ।

@@ -33,6 +33,11 @@ kalādivasudhāntaṃ yanmāyāntaḥ saṃpracakṣate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 144–145)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.166–167]]
+>
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.167–168]]
+
 *Lead-in:* नन्वाचैतन्येऽपि मायाया एकत्वात् कार्यत्वं पराकृत्य कारणत्वमेवोक्तम् । एवं कलादीनामपि वाच्यम्, आचैतन्ये सति एकत्वाविशेषात् । तत्र आचैतन्यं "परमतमप्रतिषिद्धम् अनुमतमेव"-- इति भङ्ग्याभिधायैकत्वं प्रतिक्षेप्तुमनेकत्वमुपपादयति --
 
 > कलादिवसुधान्तं यन्मायान्तः संप्रचक्षते ॥

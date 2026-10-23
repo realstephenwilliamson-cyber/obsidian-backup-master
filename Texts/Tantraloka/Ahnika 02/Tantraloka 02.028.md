@@ -35,6 +35,9 @@ durvijñeyā hi sāvasthā kimapyetadanuttaram || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 35–37)
+> ![[Tantraloka Dyczkowski v02 03 - Chapter Two, part 2#Viveka on 2.28–29]]
+
 *Lead-in:* न चैतद्युक्तिमात्रशरणम् अपि त्वागमेनापि सिद्धम् इति श्रीभर्गशिखां संवादयति --
 
 Jayaratha comments on this verse together with 2.29: see [[Tantraloka 02.029#Viveka|2.29]].

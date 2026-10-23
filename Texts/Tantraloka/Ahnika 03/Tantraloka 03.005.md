@@ -34,6 +34,9 @@ tathā hi nirmale rūpe rūpamevāvabhāsate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 71)
+> ![[Tantraloka Dyczkowski v02 04 - Chapter Three, part 1#Viveka on 3.5]]
+
 *Lead-in:* तेषां प्रतिबिम्बेन व्यवस्थया विषयभागं दर्शयति --
 
 > सदृशं भाति नयनदर्पणाम्बरवारिषु ।

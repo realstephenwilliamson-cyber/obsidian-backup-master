@@ -31,6 +31,9 @@ bhoktṛtvāya svatantreśaḥ prakṛtiṃ kṣobhayed bhṛśam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 213–214)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.225]]
+
 *Lead-in:* ननु अस्या जाड्यात् कथङ्कारं कार्यजननायौन्मुख्यमेव जायते, येन क्षुब्धत्वमपि स्यात् ? -- इत्याशङ्क्याह --
 
 > ईश्वरेच्छावशक्षुब्धलोलिकं पुरुषं प्रति ।

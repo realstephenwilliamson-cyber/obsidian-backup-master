@@ -34,6 +34,9 @@ avacchedairna tatkutrāpyajñānaṃ satyamuktidam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 144)
+> ![[Tantraloka Dyczkowski v01 05 - Chapter One, part 4#Viveka on 1.35]]
+
 *Lead-in:* अत्र चैवंविधमेव पूर्णं ज्ञानं निमित्तम् -- इत्याह --
 
 > यत्तु ज्ञेयसतत्त्वस्य ज्ञानं स्वात्मनोज्झितम् ।

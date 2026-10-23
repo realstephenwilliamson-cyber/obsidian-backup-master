@@ -31,6 +31,9 @@ jaḍaṃ malaṃ tadajñānaṃ saṃsārāṅkurakāraṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 154–155)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.49]]
+
 *Lead-in:* एतदेव व्यस्ततयोक्तमाणवमलस्वरूपं सामस्त्येनोपसंहारदिशानुवदन् मलान्तरकारणत्वं तस्यैव विधातुमाह --
 
 > तेनैकं वस्तु सन्नित्यं नित्यसंबद्धमात्मभिः ।

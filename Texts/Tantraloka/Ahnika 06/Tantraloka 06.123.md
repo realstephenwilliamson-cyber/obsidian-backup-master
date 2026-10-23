@@ -37,6 +37,11 @@ prāṇe varṣodayaḥ prokto dvādaśābdodayo'dhunā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 349–351)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.122–123]]
+>
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.123–124]]
+
 *Lead-in:* एतदुपसंहरन्नन्यदवतारयति --
 
 Jayaratha comments on this verse together with 6.122: see [[Tantraloka 06.122#Viveka|6.122]].

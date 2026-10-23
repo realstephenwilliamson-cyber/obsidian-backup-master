@@ -31,6 +31,9 @@ nojjhatīti dṛḍhaṃ vāmādhiṣṭhitastatpaśūttamaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 321)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.314–316]]
+
 > स हि भेदैकवृत्तित्वं शिवज्ञाने श्रुतेऽप्यलम् ॥
 > नोज्झतीति दृढं वामाधिष्ठितस्तत्पशूत्तमः ।
 > शिवेनैव तिरोभाव्य स्थापितो नियतेर्बलात् ॥

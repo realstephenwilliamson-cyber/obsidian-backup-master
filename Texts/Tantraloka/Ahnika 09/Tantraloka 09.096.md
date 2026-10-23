@@ -31,6 +31,9 @@ vijñānākalamantreśatadīśāditvakalpanā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 94–95)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.95–96]]
+
 > दिध्वंसिषुध्वंसमानध्वस्ताख्यासु तिसृष्वथ ॥
 > दशास्वन्तः कृतावस्थान्तरासु स्वक्रमस्थितेः ।
 > विज्ञानाकलमन्त्रेशतदीशादित्वकल्पना ॥

@@ -35,6 +35,9 @@ lokānāmāvaraṇairviṣṭabhya paraspareṇa gandhādyaiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 192–193)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.163–164]]
+
 > ये ब्रह्मणादिसर्गे स्वशरीरान्निर्मिताः प्रभूताख्याः ।
 > स्थूलाः पञ्च विशेषाः सप्तामी तन्मया लोकाः ॥
 > परतो लिङ्गाधारैः सूक्ष्मैस्तन्मात्रजैर्महाभूतैः ।

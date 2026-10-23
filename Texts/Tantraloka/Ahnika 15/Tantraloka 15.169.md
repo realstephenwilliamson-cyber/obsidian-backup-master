@@ -33,6 +33,11 @@ ataḥ kulakramottīrṇatrikasāramatādiṣu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 105–106)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.168–169]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.169–170]]
+
 *Lead-in:* अत एव आनन्दातिश्मायकारिणो मद्यादेरेव सर्वशास्त्रेषु परं माहात्म्यमुक्तम्--इत्याह--
 
 > अतः कुलक्रमोत्तीर्णत्रिकसारमतादिषु ॥

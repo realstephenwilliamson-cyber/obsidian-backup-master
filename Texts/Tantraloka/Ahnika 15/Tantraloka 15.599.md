@@ -34,6 +34,13 @@ saṃvitsvabhāve no jātiprabhṛtiḥ kāpi kalpanā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 344–346)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 15.604–605.*
+>
+> ![[Tantraloka Dyczkowski v08 10 - Chapter Fifteen, part 9#Viveka on 15.598–599]]
+>
+> ![[Tantraloka Dyczkowski v08 10 - Chapter Fifteen, part 9#Viveka on 15.604–605]]
+
 *Lead-in:* एतदेव प्रपञ्चयति--
 
 Jayaratha comments on this verse together with 15.598: see [[Tantraloka 15.598#Viveka|15.598]].

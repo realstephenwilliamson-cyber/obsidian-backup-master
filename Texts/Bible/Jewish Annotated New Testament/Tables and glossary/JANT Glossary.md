@@ -730,7 +730,7 @@ Church during the Reformation, though he agreed that the church needed to be ref
 
 **Old Testament Apocrypha** see **Deuterocanon**.
 
-**Oral Torah** a synonym for the Mishnah and Talmud. According to rabbinic belief (*b. Shabb.* 31a), the Oral Torah was given to Moses on Sinai along with the Written Torah.
+**Oral Torah** a synonym for the Mishnah and Talmud. According to rabbinic belief ([[Shabbat 31#31a|*b. Shabb.* 31a]]), the Oral Torah was given to Moses on Sinai along with the Written Torah.
 
 **Origen** Origen Adamantius (ca. 184–254), Alexandrian Christian, early biblical interpreter, and theologian. Among his accomplishments were his Hexapla and commentaries on the Bible, many in the form of homilies. He was among the first Christian scholars to study Hebrew.
 

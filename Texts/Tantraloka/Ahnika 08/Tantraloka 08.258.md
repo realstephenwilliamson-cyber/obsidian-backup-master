@@ -37,6 +37,11 @@ nanu tattveśvarecchāto yaḥ kṣobhaḥ prakṛteḥ purā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 269–272)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.257–258]]
+>
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.258–260]]
+
 *Lead-in:* ननु यद्येवं तदीश्वरेच्छातः क्षुब्धं सदव्यक्तं बुद्धितत्त्वमेव जनयतु किमन्तरापरिकल्पितेन प्रतिपत्तिगौरवकारिणा गुणतत्त्वेन? -- इत्याह --
 
 > ननु तत्त्वेश्वरेच्छातो यः क्षोभः प्रकृतेः पुरा ॥

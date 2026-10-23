@@ -37,6 +37,11 @@ evaṃ visṛṣṭipralayāḥ prāṇa ekatra niṣṭhitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 391–392)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.178–179]]
+>
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.179–181]]
+
 *Lead-in:* ननु प्राणस्य परं तत्त्वं प्रत्युपायत्वमस्तीति प्रागुपक्रान्तं तत्तदनभिधाय तदाश्रयेण सृष्टिसंहारादीनामेव स्वरूपमुच्यते - - इति किमेतत् ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 6.178: see [[Tantraloka 06.178#Viveka|6.178]].

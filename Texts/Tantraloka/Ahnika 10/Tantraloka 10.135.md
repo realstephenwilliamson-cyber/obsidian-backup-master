@@ -33,6 +33,11 @@ bhāvanādibalādanyavaiṣṇavādinayoditāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 379–380)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.133–135]]
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.135–137]]
+
 *Lead-in:* ननु यद्येवं तत्कदा कस्य बोधः ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 10.134: see [[Tantraloka 10.134#Viveka|10.134]].

@@ -31,6 +31,9 @@ trayoviṃśatibhedena viśeṣārcānibandhanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 7–8)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.6–9]]
+
 > ज्ञानशास्त्रगुरुभ्रतृतद्वर्गप्राप्तयस्तथा ।
 > तज्जन्मसंस्क्रियाभेदाः स्वजन्मोत्सवसङ्गतिः ॥
 > श्राद्धं विपत्प्रतीकारः प्रमोदोऽद्भुतदर्शनम् ।

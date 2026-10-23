@@ -31,6 +31,9 @@ tathaiti śaktipāto'sau yenāyāti śivātmatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 356–357)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.23]]
+
 *Lead-in:* अत्रापि प्राग्वद्वैचित्र्यमस्ति -- इत्याह --
 
 > तत्रापि कालशीघ्रत्वचिरत्वादिविभेदताम् ।

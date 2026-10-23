@@ -41,4 +41,4 @@ Pritzker translation (Matt): [[Zohar 8.04 - Parashat Emor#^z3-91a|Parashat Emor,
 
 *Not translated in the Soncino edition: Emor 21:86–21:93.*
 
-[^1]: Cf. T. B. Sanhedrin, 91a.
+[^1]: Cf. T. B. [[Sanhedrin 91#91a|Sanhedrin, 91a]].

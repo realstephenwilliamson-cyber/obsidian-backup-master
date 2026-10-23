@@ -34,6 +34,9 @@ pravivikṣurvikalpasya kuryātsaṃskāramañjasā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 3–5)
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.2]]
+
 *Lead-in:* तत्र प्रथममनुजोद्देशोद्दिष्टां विकल्पसंस्क्रियां तावदभिधातुमुपक्रमते --
 
 > अनन्तराह्निकोक्तेऽस्मिन्स्वभावे पारमेश्वरे ।

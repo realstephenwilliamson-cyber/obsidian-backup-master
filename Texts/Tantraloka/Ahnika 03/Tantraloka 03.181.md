@@ -35,6 +35,9 @@ pañcaviṃśakasaṃjñeyaprāgvadbhūmisusaṃsthitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 303–304)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.181–183]]
+
 *Lead-in:* इत्याद्युक्त्या कादयो मावसानाः पञ्चविंशतिर्वर्णा ज्ञेयरूपतया भेदैकस्वभावा निर्दिष्टाः, तदनन्तरभावि पुनश्चतुष्कद्वयं कीदृग्रूपम् ? -- इत्याशङ्क्याह --
 
 > पञ्चविंशकसंज्ञेयप्राग्वद्भूमिसुसंस्थितम् ॥

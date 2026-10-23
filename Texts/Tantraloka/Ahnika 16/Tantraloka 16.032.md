@@ -34,6 +34,9 @@ prokṣitaḥ kevalaṃ hyarghapātravipruḍbhirukṣitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 16–17)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.32–36]]
+
 *Lead-in:* एतदेव यथोद्देशं पश्वष्टकं लक्षयति--
 
 Jayaratha comments on this verse together with 16.35: see [[Tantraloka 16.035#Viveka|16.35]].

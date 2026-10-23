@@ -31,6 +31,9 @@ ityeṣa sarvapakṣaghno niśitaścakrakabhramaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 136)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.22]]
+
 *Lead-in:* ननु मुक्ताणौ भाविज्ञानासंभवे किं निमित्तम्? -- इत्याह --
 
 > कस्मान्न भावि तज्ज्ञानं ननु देहाद्यजन्मतः ।

@@ -35,6 +35,13 @@ prāgvatsaṃpūjya hutvā ca śrāvayitvā cikīrṣitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 302–304)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.16–17]]
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.17–19]]
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.17–20]]
+
 *Lead-in:* अत्रैव इतिकर्तव्यतामाह--
 
 Jayaratha comments on this verse together with 23.16: see [[Tantraloka 23.016#Viveka|23.16]].

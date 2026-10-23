@@ -31,6 +31,9 @@ tāvatīmeva tāmeṣa prasiddhiṃ nābhiśaṅkate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 202)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.21–22]]
+
 *Lead-in:* ननु एवं परमेश्वररूपतायामस्तु, अन्यथा पुनरेतत् कथं सङ्गच्छताम्?--इत्याशङ्क्य आह--
 
 > यावत्तु शिवता नास्य तावत्स्वात्मानुसारिणीम् ।

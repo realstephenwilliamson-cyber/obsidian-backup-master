@@ -31,6 +31,9 @@ tatra tat pūjayetsamyak sphuṭaṃ kramacatuṣṭayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 90)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.53]]
+
 *Lead-in:* एतदतिदेशद्वारकमेव यागान्तरमाह--
 
 > चतुस्त्रिशूलं वा गुप्तदण्डं यागं समाचरेत् ।

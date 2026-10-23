@@ -35,6 +35,9 @@ kharūpe nirvṛtiṃ prāpya phullāṃ nādadaśāṃ śrayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 93–94)
+> ![[Tantraloka Dyczkowski v04 05 - Chapter Five, part 3#Viveka on 5.75]]
+
 *Lead-in:* तदाह -
 
 > अर्थक्रियार्थितादैन्यं त्यक्त्वा बाह्यान्तरात्मनि ।

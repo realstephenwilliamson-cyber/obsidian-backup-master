@@ -34,6 +34,9 @@ sarvātmakatvāttatrastho'pyabhyāso'nyavyapohanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 119–120)
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.98]]
+
 *Lead-in:* अथ वा देहादिद्वारेण संविद्यभिव्यक्तिलक्षणोऽतिशयो भवेत् इत्याह --
 
 > अथ वास्मद्द्वशिप्राणधीदेहादेरपि स्फुटम् ।

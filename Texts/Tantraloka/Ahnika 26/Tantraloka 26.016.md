@@ -34,6 +34,9 @@ dṛṣṭvā śiṣye tamevāsmai mūlamantraṃ samarpayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 375–376)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.15–16]]
+
 > क्रमात्तन्मयतोपायगुर्वर्चनरतौ तु तौ ॥
 > तत्रैषां शेषवृत्त्यर्थं नित्यनैमित्तिके ध्रुवे ।
 > काम्यवर्जं यतः कामाश्चित्राश्चित्राभ्युपायकाः ॥

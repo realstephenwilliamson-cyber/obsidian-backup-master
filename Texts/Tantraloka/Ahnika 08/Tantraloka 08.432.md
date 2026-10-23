@@ -37,5 +37,10 @@ patadrugādyāścāṅguṣṭhamātrādyā rāgatattvagāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 385–386)
+> ![[Tantraloka Dyczkowski v05 11 - Chapter Eight, part 9#Viveka on 8.428–432]]
+>
+> ![[Tantraloka Dyczkowski v05 11 - Chapter Eight, part 9#Viveka on 8.432–433]]
+
 Jayaratha comments on this verse together with 8.433: see [[Tantraloka 08.433#Viveka|8.433]].
 

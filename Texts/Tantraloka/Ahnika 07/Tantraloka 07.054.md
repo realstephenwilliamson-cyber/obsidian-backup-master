@@ -34,6 +34,9 @@ traya ityata evoktaḥ siddhau madhyodayo varaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 37–38)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.54]]
+
 *Lead-in:* अत्रैव त्रैरूप्यं निरूपयन् सिद्ध्यादिविभागमप्याह --
 
 > पूर्णे समुदये त्वत्र प्रवेशैकात्मनिर्गमाः ।

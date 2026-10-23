@@ -33,5 +33,10 @@ hrīṃ klīṃ vleṃ kleṃ ebhirvarṇairdvādaśasvarabhūṣitaiḥ || ^ias
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 55–56)
+> ![[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#Viveka on 30.96–97]]
+>
+> ![[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#Viveka on 30.96–98]]
+
 Jayaratha comments on this verse together with 30.98: see [[Tantraloka 30.098#Viveka|30.98]].
 

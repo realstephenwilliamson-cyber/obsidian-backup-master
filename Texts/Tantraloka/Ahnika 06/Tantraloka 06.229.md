@@ -37,6 +37,11 @@ tata eva parāmarśo yāvatyekaḥ samāpyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 436–437)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.228–229]]
+>
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.229–230]]
+
 *Lead-in:* तदाह -
 
 > तत एव परामर्शो यावत्येकः समाप्यते ॥

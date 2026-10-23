@@ -33,6 +33,11 @@ mukhyatvena śarīre'ntaḥ prāṇe saṃvidi paśyataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 69)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.99–100]]
+>
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.100–101]]
+
 *Lead-in:* ननु पीठादेर्बर्हिभ्रमणात् यदि एवं ज्ञानयोगादि सिद्ध्येत् तत्किमन्तरनुसन्धानेन?--इत्याशङ्क्य आह--
 
 > मुख्यत्वेन शरीरेऽन्तः प्राणे संविदि पश्यतः ॥

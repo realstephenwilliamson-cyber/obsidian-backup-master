@@ -31,6 +31,9 @@ tīvraśaktigṛhītānāṃ svayameva hṛdi sphuret || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 335)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.90]]
+
 *Lead-in:* ननु यावत्तेनैव नोद्धृत इति किं गुर्वन्तरव्यवच्छेदपरमवधारणम्, उत स्वतो विवेकनिषेधपरमपि ?--इत्याशङ्क्याह--
 
 > यच्चैतदुक्तमेतावत्कर्तव्यमिति तद्ध्रुवम् ।

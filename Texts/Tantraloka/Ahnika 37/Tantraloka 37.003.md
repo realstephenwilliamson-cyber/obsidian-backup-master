@@ -31,6 +31,9 @@ manākphale'bhyupādeyatamaṃ tadviparītakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 228)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.3]]
+
 *Lead-in:* ननु एवमनेकप्रकारः प्रसिद्ध्यात्मा आगम इति कस्य तावदवश्यग्राह्यत्वम्?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 37.5: see [[Tantraloka 37.005#Viveka|37.5]].

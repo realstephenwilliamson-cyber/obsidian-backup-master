@@ -31,6 +31,9 @@ avaśyaṃbhāvi kāryatvaṃ viśeṣāccārcanādike || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 88)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.191]]
+
 *Lead-in:* अत एव आह--
 
 > यथा यथा च नैकट्यमुपायेषु तथा तथा ।

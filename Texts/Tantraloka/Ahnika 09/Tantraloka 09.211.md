@@ -31,6 +31,9 @@ evamavidyāmalinaḥsamarthitastriguṇakañcukabalena || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 200–201)
+> ![[Tantraloka Dyczkowski v06 07 - Chapter Nine, part 5#Viveka on 9.208–212]]
+
 > तस्य द्वितीयचितिरिव स्वच्छस्य नियुज्यते कला श्लक्ष्णा ॥
 > अनया विद्वस्य पशोरुपभोगसमर्थता भवति ।
 > विद्या चास्य कलातः शरणान्तर्दीपकप्रभेवाभूत् ॥

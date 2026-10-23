@@ -31,6 +31,9 @@ prakarṣagamanāccaiṣa līno yannādharaṃ vrajet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 183–184)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.310]]
+
 *Lead-in:* तस्य च महत्त्वे प्रेतत्वे च किं निमित्तम्?--इत्याशङ्क्य आह--
 
 > समस्ततत्त्वव्याप्तृत्वान्महाप्रेतः प्रबोधतः ।

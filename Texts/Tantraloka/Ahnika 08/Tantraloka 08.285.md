@@ -37,6 +37,11 @@ tasmāttathāvidhe kārye yā śaktiḥ puruṣasya sā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 292–293)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.284–285]]
+>
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.285–286]]
+
 *Lead-in:* तदेवं विश्वोत्पत्तौ पुंस एव कर्तृत्वमेष्टव्यं येनास्य तत्तद्रूपोपग्रहेऽपि स्वस्वरूपाप्रच्युतेरचैतन्यं न स्यात्, तदाह --
 
 > तस्मात्तथाविधे कार्ये या शक्तिः पुरुषस्य सा ॥

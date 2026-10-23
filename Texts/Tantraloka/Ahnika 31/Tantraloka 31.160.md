@@ -31,6 +31,9 @@ adhaḥ śṛṅgatrayaṃ hastamadhye padmaṃ sakarṇikam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 131–132)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.160]]
+
 > नवभिः कोष्ठकैर्युक्तं ततोऽयं विधिरुच्यते ॥
 > मध्यभागत्रयं त्यक्त्वा मध्ये भागद्वयस्य तु ।
 > अधस्ताद् भ्रमयेत्सूत्रं शशाङ्कशकलाकृति ॥

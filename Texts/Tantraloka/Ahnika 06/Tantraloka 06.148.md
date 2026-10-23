@@ -35,6 +35,9 @@ avyaktastheṣu rudreṣu dinaṃ rātriśca tāvatī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 368–369)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.148]]
+
 *Lead-in:* एवं व्यवस्थयाव्यक्तस्थानां कियन्मानं दिनं भवेत् -- इत्याशङ्क्याह --
 
 > ब्रह्मणः प्रलयोल्लाससहस्रैस्तु रसाग्निभिः ।

@@ -31,6 +31,9 @@ pādādhāre tu vairiñcīṃ kālāgnyavadhidhārikām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 255–256)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.59–63]]
+
 > अट्टहासं शिखास्थाने चरित्रं च करन्ध्रके ।
 > श्रुत्योः कौलगिरिं नासारन्ध्र्योश्च जयन्तिकाम् ॥
 > भ्रुवोरुज्जयिनीं वक्त्रे प्रयागं हृदये पुनः ।

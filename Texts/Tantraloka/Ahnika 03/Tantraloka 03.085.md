@@ -37,6 +37,11 @@ saṃvidāmīṣaṇādīnāmanudbhinnaviśeṣakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 187–190)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.84–85]]
+>
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.85–86]]
+
 *Lead-in:* एतच्च बीजयोनिस्वरूपम् "अन्तःस्थ"इत्यादिना सूत्रितम् । रहस्यप्रक्रियागर्भीकारेण परमोपादेयत्वादनुग्राह्याणां हृदयङ्गमीकर्तं स्वयमेव व्याचष्टे --
 
 > संविदामीषणादीनामनुद्भिन्नविशेषकम् ॥

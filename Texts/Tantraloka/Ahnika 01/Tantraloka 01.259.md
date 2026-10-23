@@ -35,6 +35,9 @@ nirṇayo mātṛrucito nānyathā kalpakoṭibhiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 437)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.259]]
+
 *Lead-in:* एवं विशेषसृष्टिरपि निश्चयप्रतीतिरूपा -- इत्याह --
 
 > स्रक्ष्यमाणो विशेषांशो यदा तूपरमेत्तदा ।

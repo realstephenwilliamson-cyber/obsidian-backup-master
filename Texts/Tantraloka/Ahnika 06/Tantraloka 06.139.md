@@ -35,6 +35,9 @@ caturyugaikasaptatyā manvantaste caturdaśa || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 362–363)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.138–140]]
+
 > दिव्यार्काब्दसहस्राणि युगेषु चतुरादितः ॥
 > एकैकहान्या तावद्भिः शतैस्तेष्वष्ट संधयः ।
 > चतुर्युगैकसप्तत्या मन्वन्तस्ते चतुर्दश ॥

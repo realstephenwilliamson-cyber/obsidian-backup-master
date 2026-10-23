@@ -34,6 +34,9 @@ ityetat prathamopāyarūpaṃ dhyānaṃ nyarūpayat |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 38)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.41]]
+
 *Lead-in:* न चैतत् स्वोपज्ञमेवास्माभिरुक्तम् -- इत्याह --
 
 > इत्येतत् प्रथमोपायरूपं ध्यानं न्यरूपयत् ।

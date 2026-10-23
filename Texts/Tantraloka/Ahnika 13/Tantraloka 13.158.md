@@ -31,6 +31,9 @@ ukto'nanyopakāryatvātsa sākṣādvarado guruḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 220)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.158]]
+
 *Lead-in:* ननु यद्येवं तत्प्रातिभस्य गुरोरन्यतः स्वात्मनि संस्कारपरिकल्पनेन कोऽर्थः ? -- इत्याशङ्क्याह -
 
 > यस्तु प्रातिभबाह्यात्मसंस्कारद्वयसुन्दरः ।

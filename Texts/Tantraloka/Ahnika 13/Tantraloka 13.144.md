@@ -31,6 +31,9 @@ abhiṣikto bhavedevaṃ na bāhyakalaśāmbubhiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 212–213)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.143–144]]
+
 > यतो वाजसनेयाख्य उक्तं सिञ्चेत्स्वयं तनुम् ॥
 > इत्याद्युपक्रमं यावदन्ते तत्परिनिष्ठितम् ।
 > अभिषिक्तो भवेदेवं न बाह्यकलशाम्बुभिः ॥

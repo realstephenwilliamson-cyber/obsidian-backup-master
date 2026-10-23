@@ -34,6 +34,9 @@ ye cakṣurmaṇḍale śvete pratyakṣe parameśvari |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 165–167)
+> ![[Tantraloka Dyczkowski v03 06 - Chapter Four, part 5#Viveka on 4.127]]
+
 *Lead-in:* तदेवाह --
 
 > ये चक्षुर्मण्डले श्वेते प्रत्यक्षे परमेश्वरि ।

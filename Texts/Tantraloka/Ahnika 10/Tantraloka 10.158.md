@@ -31,6 +31,9 @@ nyagbhūtāśca pratanvanti bhedāntaramapi sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 391)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.158]]
+
 *Lead-in:* न केवलमेषां वैचित्र्यं यावत्प्रकारान्तरेणापि -- इत्याह --
 
 > सकलस्य समुद्भूताश्चक्षुरादिस्वशक्तयः ।

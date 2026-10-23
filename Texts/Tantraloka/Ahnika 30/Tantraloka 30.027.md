@@ -31,6 +31,9 @@ sānekabhedā triśiraḥśāstre proktā maheśinā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 22)
+> ![[Tantraloka Dyczkowski v11 02 - Chapter Thirty, part 1#Viveka on 30.27–28]]
+
 > परिणामस्तल्लयश्च नमस्कारः स उच्यते ॥
 > एष त्र्यर्णोज्झितोऽधस्ताद्दीर्घैः षड्भः स्वरैर्युतः ।
 > षडङ्गानि हृदादीनि वक्त्राण्यस्य च कल्पयेत् ॥

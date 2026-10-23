@@ -36,6 +36,11 @@ māyāśaktiṃ svamantreṇāvāhyābhyarcya pratarpayet |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 144–145)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.8–10]]
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.10–11]]
+
 *Lead-in:* ननु धरादेस्तत्त्ववर्गस्य प्राक् मातृकामालिन्युभयगतं वर्णजातं मन्त्रत्वेनोक्तं तत्कतरदत्र मन्त्रतयाभिमतम् ?--इत्याशङ्क्याह--
 
 > आवाहने मातृकार्णं मालिन्यर्णं च पूजने ॥

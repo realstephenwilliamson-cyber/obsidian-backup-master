@@ -342,10 +342,10 @@ And it is stated of them:
 **49b:23** And of the soul in the last exile  
 ונשמתא בגלותא בתראה ^49b-23
 
-[^1]: See *BT* Berakhot 61b
-[^2]: *BT* Berakhot 7b
-[^3]: *BT* Berakhot 61b
-[^4]: See *BT* Yevamot 62b
+[^1]: See *BT* [[Berakhot 61#61b|Berakhot 61b]]
+[^2]: *BT* [[Berakhot 7#7b|Berakhot 7b]]
+[^3]: *BT* [[Berakhot 61#61b|Berakhot 61b]]
+[^4]: See *BT* [[Yevamot 62#62b|Yevamot 62b]]
 [^5]: *ner mitzvah*
 [^6]: *tipheret*
 [^7]: candle
@@ -361,7 +361,7 @@ And it is stated of them:
 [^17]: spirit
 [^18]: *te-khelet*
 [^19]: blue
-[^20]: *BT* Sotah 17a
+[^20]: *BT* [[Sotah 17#17a|Sotah 17a]]
 [^21]: joy
 [^22]: the-candle
 [^23]: river

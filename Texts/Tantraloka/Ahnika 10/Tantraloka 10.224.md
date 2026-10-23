@@ -33,6 +33,11 @@ anyanmantrādi(dhi)nāthādi kāraṇaṃ tattu saṃnidheḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 434–436)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.224]]
+>
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.224–225]]
+
 *Lead-in:* अत एवाह -
 
 > न तु क्रमिकता काचिच्छिवात्मत्वे कदाचन ।

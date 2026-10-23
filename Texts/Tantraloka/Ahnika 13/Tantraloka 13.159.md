@@ -31,6 +31,9 @@ pratibhodeti khadyotaratnatārendusūryavat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 221)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.159]]
+
 *Lead-in:* एवं च प्रतिभापि शक्तिपातस्य बाह्यानामुपायानां वैचित्र्यात्तरतमभावेनोदियात्, येन मध्यतीव्रस्यापि शक्तिपातस्य तीव्रादिभेदभिन्नत्वं स्यात् -- इत्याह --
 
 > स्वमुक्तिमात्रे कस्यापि यावद्विश्वविमोचने ।

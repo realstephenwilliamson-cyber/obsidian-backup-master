@@ -31,6 +31,9 @@ nādiphāntaṃ samuccārya kauleśaṃ dehasaṃnibham |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 155–156)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.42–43]]
+
 *Lead-in:* ननु भवतु एवं, योगी पुनरस्याः कथं प्रबोधमादद्यात्?-- इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 32.46: see [[Tantraloka 32.046#Viveka|32.46]].

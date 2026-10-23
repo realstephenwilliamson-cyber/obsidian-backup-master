@@ -34,6 +34,9 @@ tato'pi paramaṃ jñānamupāyādivivarjitam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 414–415)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.242]]
+
 *Lead-in:* न केवलमाणवादेः विश्रान्तिधामतया शाम्भवमेव ज्ञानमुत्कृष्टम्, यावदस्मादनुपायाख्यम् अन्यत् -- इत्याह—
 
 > ततोऽपि परमं ज्ञानमुपायादिविवर्जितम् ।

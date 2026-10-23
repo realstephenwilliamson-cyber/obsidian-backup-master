@@ -36,6 +36,11 @@ ahameva paraṃ tattvaṃ na ca tadghaṭavat kvacit || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 42–43)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.89–90]]
+>
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.90–93]]
+
 *Lead-in:* अत्यन्तमिति । एवं हि अस्खलितमेव कर्म सिद्ध्येत्--इत्याशयः । अनुसन्दध्यादिति अर्थादात्मन्येव ॥ एतमेवागमग्रन्थं व्याचक्षाणः प्रपञ्चयति--
 
 Jayaratha comments on this verse together with 16.89: see [[Tantraloka 16.089#Viveka|16.89]].

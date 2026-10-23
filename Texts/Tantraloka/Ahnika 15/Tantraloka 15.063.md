@@ -31,6 +31,9 @@ svarūpaśivarūpābhyāṃ dhyānāttattatphalapradāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 49)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.63]]
+
 *Lead-in:* ननु क्षित्यादयो जडाः कथमेवं फलमादध्युः?--इत्याशङ्क्य आह--
 
 > एता ह्यनुग्रहात्मानो मूर्तयोऽष्टौ शिवात्मिकाः ।

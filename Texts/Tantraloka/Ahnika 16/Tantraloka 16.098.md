@@ -34,6 +34,11 @@ svayaṃ śuddhyati saṃśodhyaṃ śodhakasya prabhāvataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 46)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.97–98]]
+>
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.97–98 (continued)]]
+
 > शोध्याध्वनि च विन्यस्ते तत्रैव परिशोधकम् ।
 > न्यसेद्यथेप्सितं मन्त्रं शोध्यौचित्यानुसारतः ॥
 > क्वचिच्छोध्यं त्वविन्यस्य शोधकन्यासमात्रतः ।

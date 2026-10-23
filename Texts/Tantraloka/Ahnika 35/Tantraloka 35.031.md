@@ -33,6 +33,13 @@ sarvāvibhedānucchedāt tadeva kulamucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 210–212)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 35.33–34.*
+>
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.31]]
+>
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.33–34]]
+
 *Lead-in:* ननु एवंविधस्य अपि अस्य आगमस्य किमुपेयम्?--इत्याशङ्क्य आह--
 
 > तस्य यत्तत् परं प्राप्यं धाम तत् त्रिकशब्दितम् ।

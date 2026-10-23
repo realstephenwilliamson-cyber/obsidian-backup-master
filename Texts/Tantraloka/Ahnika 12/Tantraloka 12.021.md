@@ -36,6 +36,11 @@ mantrā varṇasvabhāvā ye dravyaṃ yatpāñcabhautikam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 113–115)
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.20–21]]
+>
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.21–22]]
+
 *Lead-in:* नन्वस्त्येव दुरुन्मूलं शङ्काया बीजं यदिदं कार्यमिदं नेति, तत्कथं तन्निर्ह्रासे यत्नवता भाव्यम्? -- इत्याशङ्क्याह --
 
 > मन्त्रा वर्णस्वभावा ये द्रव्यं यत्पाञ्चभौतिकम् ॥

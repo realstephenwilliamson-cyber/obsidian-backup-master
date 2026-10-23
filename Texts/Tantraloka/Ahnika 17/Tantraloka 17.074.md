@@ -34,6 +34,9 @@ māyā śaktimayī saiva vidyāśaktitvamaśnute || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 171–172)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.74–76]]
+
 *Lead-in:* शुद्धाध्वशुद्धौ हि विशेषं दर्शयितुमाह--
 
 Jayaratha comments on this verse together with 17.75: see [[Tantraloka 17.075#Viveka|17.75]].

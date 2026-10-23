@@ -34,6 +34,9 @@ kāryakāraṇabhāvo yaḥ śivecchāparikalpitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 11–12)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.7]]
+
 *Lead-in:* तदेवमवस्थिते कार्यकारणभावात्मा तत्त्वानां प्रविभागो वक्तव्यः - - इत्याह --
 
 > तत्रैषां दर्श्यते दृष्टः सिद्धयोगीश्वरीमते ।

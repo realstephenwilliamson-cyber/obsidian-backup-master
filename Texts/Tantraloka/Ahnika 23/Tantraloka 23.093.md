@@ -31,6 +31,9 @@ citspandaḥ sarvago bhinnādupādheḥ sa tathā tathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 336)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.93]]
+
 *Lead-in:* ननु सर्वोऽयमणुवर्गः चित एव परिस्फुरति, सा च सर्वत्रापि अविशिष्टा, तत्कथमिदमसमञ्जसं दृष्टान्तितं यत् कस्यचित् स्वत एव एवंरूपत्वमुल्लसेत्, कस्यचिच्च अन्यत् ?--इत्याशङ्क्याह--
 
 > नन्वेष कस्माद् दृष्टान्तः किमेतेनाशुभं कृतम् ।

@@ -939,21 +939,21 @@ Those who hold that the resurrected dead will not die again maintain that the wo
 
 . [[Torah 36 - Beha'alotcha#^11-1|Numbers 11:1]], [[Torah 36 - Beha'alotcha#^11-18|11:18]], | Samuel 8:21. 
 
-. Cf. Mechilta, Rashi, on [[Torah 17 - Yitro#^20-2|Exodus 20:2]]; Rosh HaShanah 17b. 
+. Cf. Mechilta, Rashi, on [[Torah 17 - Yitro#^20-2|Exodus 20:2]]; [[Rosh Hashanah 17#17b|Rosh HaShanah 17b]]. 
 
 . See Moreh Nevuchim 1:54, 64. 
 
 . [[Job 04#^4-19|Job 4:19]]. 
 
-O. Enosh was the son of Seth, and the grandson of Adam. It was in his generation that idolatry began. See [[Torah 01 - Bereshit#^4-26|Genesis 4:26]], Targum J., Rashi ad loc.; Shabbos 118b, Mechilta on [[Torah 17 - Yitro#^20-3|Exodus 20:3]] (67b), Sifri (43) on [[Torah 46 - Eikev#^11-16|Deuteronomy 11:16]]; [[Torah 49 - Ki Teitzei#^23-5|23:5]], Yerushalmi, Shekalim 6:2 (26a). The question as to whether or not Enosh himself was involved in this idolatry is discussed in detail in the Radal on Pirkey DeRabbi Eliezer 18:52 and 22:4, note 2. 
+O. Enosh was the son of Seth, and the grandson of Adam. It was in his generation that idolatry began. See [[Torah 01 - Bereshit#^4-26|Genesis 4:26]], Targum J., Rashi ad loc.; [[Shabbat 118#118b|Shabbos 118b]], Mechilta on [[Torah 17 - Yitro#^20-3|Exodus 20:3]] (67b), Sifri (43) on [[Torah 46 - Eikev#^11-16|Deuteronomy 11:16]]; [[Torah 49 - Ki Teitzei#^23-5|23:5]], Yerushalmi, Shekalim 6:2 (26a). The question as to whether or not Enosh himself was involved in this idolatry is discussed in detail in the Radal on Pirkey DeRabbi Eliezer 18:52 and 22:4, note 2. 
 
 11 . See Metzudos , Abarbanel ad loc. 
 
-12\. Shabbos 92a, Nedarim 38a, Avos 4:1, Shemonah Perakim 7, Moreh Nevuchim 2:36. 
+12\. [[Shabbat 92#92a|Shabbos 92a]], [[Nedarim 38#38a|Nedarim 38a]], Avos 4:1, Shemonah Perakim 7, Moreh Nevuchim 2:36. 
 
-13\. That is, Pardes or Paradise. See Yad Yesodey HaTorah 4:13, Chagigah 14b. 
+13\. That is, Pardes or Paradise. See Yad Yesodey HaTorah 4:13, [[Chagigah 14#14b|Chagigah 14b]]. 
 
-Cf. Avodah Zarah 20b, Yerushalmi Shabbos 1:3 (8b), Yerushalmi Shekalim 14. 
+Cf. [[Avodah Zarah 20#20b|Avodah Zarah 20b]], Yerushalmi Shabbos 1:3 (8b), Yerushalmi Shekalim 14. 
 
 3:3 (14b). 
 
@@ -971,7 +971,7 @@ Cf. Avodah Zarah 20b, Yerushalmi Shabbos 1:3 (8b), Yerushalmi Shekalim 14.
 
 21 . Others, however, disagree with the Rambam on this point, and hold that exact words were revealed to the prophet, especially where the prophecies were to be recorded in the Bible. See Rambam on [[Torah 40 - Balak#^23-5|Numbers 23:5]], Kuzari 5:20 (50b), Sforno on [[Torah 40 - Balak#^22-38|Numbers 22:38]] from II\] Samuel 23:2. 
 
-22\. Shabbos 30b, Pesachim 117a. 
+22\. [[Shabbat 30#30b|Shabbos 30b]], [[Pesachim 117#117a|Pesachim 117a]]. 
 
 23\. Ibid. Cf. Il Kings 3:15. 
 
@@ -1005,7 +1005,7 @@ Il Kings 20:6, [[Isaiah 38#^38-5|Isaiah 38:5]], [[II Chronicles 32#^32-26|II Chr
 
 32\. Berachos 7a. 
 
-33\. Shabbos 55a. Cf. Berachos 4a. 
+33\. [[Shabbat 55#55a|Shabbos 55a]]. Cf. Berachos 4a. 
 
 34\. See note 28. 
 
@@ -1029,7 +1029,7 @@ Cf. Sifri (68), Rashi ad loc. Also see Rashi on [[Torah 21 - Ki Tisa#^33-8|Exodu
 
 42\. See Moreh Nevuchim 2:34. 
 
-43\. Shabbos 87a. 
+43\. [[Shabbat 87#87a|Shabbos 87a]]. 
 
 [[Torah 16 - Beshalach#^14-15|Exodus 14:15 ff.]] 
 
@@ -1057,21 +1057,21 @@ See [[Torah 16 - Beshalach#^14-31|Exodus 14:31]].
 
 51\. 
 
-52\. Sanhedrin 90a. 
+52\. [[Sanhedrin 90#90a|Sanhedrin 90a]]. 
 
 53\. Sanhedrin 10:1 (90a). 
 
-54 Bereshis Rabbah 8:7. Cf. Baba Basra 15a, Menachos 30a. 
+54 Bereshis Rabbah 8:7. Cf. Baba Basra 15a, [[Menachot 30#30a|Menachos 30a]]. 
 
-55\. See Sanhedrin 99b. 
+55\. See [[Sanhedrin 99#99b|Sanhedrin 99b]]. 
 
 56\. [[Psalms 019#^19-8|Psalms 19:8]]. 
 
-57\. Sanhedrin 99a. Cf. Avos 3:11. 
+57\. [[Sanhedrin 99#99a|Sanhedrin 99a]]. Cf. Avos 3:11. 
 
 58\. See note 53. 
 
-Sanhedrin 99a, Yerushalmi Sanhedrin 10:1 (49b). 
+[[Sanhedrin 99#99a|Sanhedrin 99a]], Yerushalmi Sanhedrin 10:1 (49b). 
 
 59\. 
 
@@ -1081,15 +1081,15 @@ Sanhedrin 99a, Yerushalmi Sanhedrin 10:1 (49b).
 
 Devarim Rabbah 9:4, Midrash Tehillim 90:3, Pesikta 31 (197a), Yalkut 62. 
 
-1:550, Tosefos Menachos 30a ‘“MiKan,” Rosh, Pesachim 10:13. Cf. Eruvin 54b, Sifra (43c) on [[Torah 26 - Shmini#^9-1|Leviticus 9:1]], Sifri on [[Torah 47 - Re'eh#^15-1|Deuteronomy 15]]. Avos 1:1. 
+1:550, Tosefos [[Menachot 30#30a|Menachos 30a]] ‘“MiKan,” Rosh, Pesachim 10:13. Cf. [[Eruvin 54#54b|Eruvin 54b]], Sifra (43c) on [[Torah 26 - Shmini#^9-1|Leviticus 9:1]], Sifri on [[Torah 47 - Re'eh#^15-1|Deuteronomy 15]]. Avos 1:1. 
 
-(/. Shabbos 118b. 
+(/. [[Shabbat 118#118b|Shabbos 118b]]. 
 
 O. 
 
 Ihis took place in the year 204 C.E. Kitzur Kelaley HaTalmud (on Mavo Healalrmad) “K'sav.” 
 
-('{) Shabbos 6b, Rashi ad loc. “Megillas .” 
+('{) [[Shabbat 6#6b|Shabbos 6b]], Rashi ad loc. “Megillas .” 
 
 (/ 
 
@@ -1099,11 +1099,11 @@ Ihat is, the Thirteen Principles of Rabbi Ishmael, brought in the prayer hook at
 
 *[p. 105]* ^pg99
 
-however, disagrees, and maintains that it was not actually written down until several generations later. See Rashi, Shabbos 13b “Megillas,” Eruvin 62b “KeGon,” Baba Metzia 33a ‘VeAina,” ibid. 85b “U'Misnisa ,"” Succah 28b “Marki,” Takois 12b “DeKeTkoi.” Also see Tosefos Megillah 32a “VeHaShoneh,” Sefer Mitzvos Gadol, Introduction (3a), Negative Commandment 65 (16c), Tshuvos Tashbatz 1:73, 2:53, Maharatz Chayos, Takois 12b, Succah 50b, Baba Metzia 85b. For a detailed discussion, see Iggeres Rav Sherira Gaon and Maharatz Chayos, Mavo HaTalmud 33. The Babylonian Talmud was finally redacted in the year 505 C.E. See 70. 
+however, disagrees, and maintains that it was not actually written down until several generations later. See Rashi, [[Shabbat 13#13b|Shabbos 13b]] “Megillas,” [[Eruvin 62#62b|Eruvin 62b]] “KeGon,” [[Bava Metzia 33#33a|Baba Metzia 33a]] ‘VeAina,” ibid. 85b “U'Misnisa ,"” Succah 28b “Marki,” Takois 12b “DeKeTkoi.” Also see Tosefos [[Megillah 32#32a|Megillah 32a]] “VeHaShoneh,” Sefer Mitzvos Gadol, Introduction (3a), Negative Commandment 65 (16c), Tshuvos Tashbatz 1:73, 2:53, Maharatz Chayos, Takois 12b, Succah 50b, [[Bava Metzia 85#85b|Baba Metzia 85b]]. For a detailed discussion, see Iggeres Rav Sherira Gaon and Maharatz Chayos, Mavo HaTalmud 33. The Babylonian Talmud was finally redacted in the year 505 C.E. See 70. 
 
 note 66. 
 
-71\. Their followers were knows as the Sadducees (Tzadukim) and Bathu-sians. See Avos DeRabbi Nathan 5:2, Rambam on Avos 1:3, Chulin 1:2, Yadayim 4:6, Rashbam, Baba Basra 115b, Anich “Basusin.” CL Shabbos 108a, Menachos (65a). 
+71\. Their followers were knows as the Sadducees (Tzadukim) and Bathu-sians. See Avos DeRabbi Nathan 5:2, Rambam on Avos 1:3, Chulin 1:2, Yadayim 4:6, Rashbam, Baba Basra 115b, Anich “Basusin.” CL [[Shabbat 108#108a|Shabbos 108a]], Menachos (65a). 
 
 72\. A sect that did not believe in the Oral Torah. 
 
@@ -1115,7 +1115,7 @@ Cf. Shabbos 68 a,b.
 
 75\. [[Torah 24 - Vayikra#^3-17|Leviticus 3:17]], [[Torah 26 - Shmini#^10-9|10:9]], [[Torah 31 - Emor#^23-14|23:14]], [[Torah 31 - Emor#^23-31|23:31]], [[Torah 31 - Emor#^23-41|23:41]], [[Torah 31 - Emor#^24-3|24:3]], [[Torah 36 - Beha'alotcha#^10-8|Numbers 10:8]], [[Torah 37 - Sh'lach#^15-5|15:5]], [[Torah 38 - Korach#^18-23|18:23]]. 
 
-16\. Baba Metzia 59a, Temurah 16a; Shabbos 104a, Yoma 80a, Megillah 2b, Yerushalmi Megillah 1:5 (7a), Targum J., Sifra (115d) on [[Torah 33 - Bechukotai#^27-34|Leviticus 27:34]], Devarim Rabbah 8:6, Ruth Rabbah 4:7. 
+16\. [[Bava Metzia 59#59a|Baba Metzia 59a]], [[Temurah 16#16a|Temurah 16a]]; [[Shabbat 104#104a|Shabbos 104a]], [[Yoma 80#80a|Yoma 80a]], [[Megillah 2#2b|Megillah 2b]], Yerushalmi Megillah 1:5 (7a), Targum J., Sifra (115d) on [[Torah 33 - Bechukotai#^27-34|Leviticus 27:34]], Devarim Rabbah 8:6, Ruth Rabbah 4:7. 
 
 Cf. [[Ezekiel 08#^8-12|Ezekiel 8:12]]. 
 
@@ -1137,9 +1137,9 @@ V7.
 
 85\. [[Job 11#^11-9|Job 11:9]]. 
 
-See Shabbos 32b, 105b, Kesuvos 8b, Sotah 49a, Koheles Rabbah 4:1. 86. 
+See [[Shabbat 32#32b|Shabbos 32b]], 105b, Kesuvos 8b, [[Sotah 49#49a|Sotah 49a]], Koheles Rabbah 4:1. 86. 
 
-Also see Sifra (93a,b), Targum J., Rashi on [[Torah 30 - Kedoshim#^20-20|Leviticus 20:20]], [[Torah 30 - Kedoshim#^20-21|20:21]], Yevamos 55a, Tosefos, Yevamos 2a ‘“Eshes.”’ 
+Also see Sifra (93a,b), Targum J., Rashi on [[Torah 30 - Kedoshim#^20-20|Leviticus 20:20]], [[Torah 30 - Kedoshim#^20-21|20:21]], [[Yevamot 55#55a|Yevamos 55a]], Tosefos, [[Yevamot 2#2a|Yevamos 2a]] ‘“Eshes.”’ 
 
 87\. This refers to boys under the age of 13, and girls under 12. 
 
@@ -1147,11 +1147,11 @@ Also see Sifra (93a,b), Targum J., Rashi on [[Torah 30 - Kedoshim#^20-20|Levitic
 
 89\. Avos 4:11. 
 
-90\. Kiddushin 39b, Chulin 142b. 
+90\. [[Kiddushin 39#39b|Kiddushin 39b]], Chulin 142b. 
 
 91\. [[Habakkuk 2#^2-3|Habakkuk 2:3]]. 
 
-92\. Sanhedrin 97b. 
+92\. [[Sanhedrin 97#97b|Sanhedrin 97b]]. 
 
 93\. [[Torah 40 - Balak#^24-7|Numbers 24:7]]. 
 
@@ -1159,13 +1159,13 @@ Also see Sifra (93a,b), Targum J., Rashi on [[Torah 30 - Kedoshim#^20-20|Levitic
 
 *[p. 106]* ^pg100
 
-95\. Berachos 34b, Shabbos 63a, 151b, Pesachim 68a, Sanhedrin 91b, 99a. 
+95\. Berachos 34b, [[Shabbat 63#63a|Shabbos 63a]], 151b, [[Pesachim 68#68a|Pesachim 68a]], [[Sanhedrin 91#91b|Sanhedrin 91b]], 99a. 
 
-96\. Shabbos 30b. 
+96\. [[Shabbat 30#30b|Shabbos 30b]]. 
 
 97\. See Bachya on [[Torah 02 - Noach#^11-11|Genesis 11:11]], who holds that the Messiah will never die. 
 
-98\. Cf. Sanhedrin 99a. 
+98\. Cf. [[Sanhedrin 99#99a|Sanhedrin 99a]]. 
 
 99\. This is the “new covenant” mentioned in [[Jeremiah 31#^31-31|Jeremiah 31:31]]. Here we see that this merely refers to the renewed observance of the Torah. 
 
@@ -1179,19 +1179,19 @@ See note 95.
 
 See Sifri (185) ad loc., Yerushalmi Makkos 3:6 (7b), Yad, Rotzeach 8:4. 103. 
 
-Yerushalmi Takois 4:5 (24a), Eicha Rabbah 2:4. Cf. Sanhedrin 97b. 104. 
+Yerushalmi Takois 4:5 (24a), Eicha Rabbah 2:4. Cf. [[Sanhedrin 97#97b|Sanhedrin 97b]]. 104. 
 
 In the above sources, we find that Bar Kosiba was killed by an act of 105. 
 
-God. For a different opinion, see Sanhedrin 93b. Ravad, Radbaz, Kesef Mishneh, here. 
+God. For a different opinion, see [[Sanhedrin 93#93b|Sanhedrin 93b]]. Ravad, Radbaz, Kesef Mishneh, here. 
 
 See note 95. 
 
 106\. 
 
-Ezekiel 38, 39. Also see Berachos 7b, Shabbos 118a, Succah 52b, 107. 
+Ezekiel 38, 39. Also see Berachos 7b, [[Shabbat 118#118a|Shabbos 118a]], Succah 52b, 107. 
 
-Megillah 11a, Sanhedrin 17a, 97b, Eduyos 2:10, Targum J. on [[Torah 23 - Pekudei#^40-10|Exodus 40:10]], [[Torah 36 - Beha'alotcha#^11-26|Numbers 11:26]], [[Torah 40 - Balak#^24-17|24:17]], [[Torah 53 - Ha'Azinu#^32-29|Deuteronomy 32:29]], Radak on [[Zechariah 14#^14-1|Zechariah 14:1]]. 
+[[Megillah 11#11a|Megillah 11a]], [[Sanhedrin 17#17a|Sanhedrin 17a]], 97b, Eduyos 2:10, Targum J. on [[Torah 23 - Pekudei#^40-10|Exodus 40:10]], [[Torah 36 - Beha'alotcha#^11-26|Numbers 11:26]], [[Torah 40 - Balak#^24-17|24:17]], [[Torah 53 - Ha'Azinu#^32-29|Deuteronomy 32:29]], Radak on [[Zechariah 14#^14-1|Zechariah 14:1]]. 
 
 108\. See Tana Debei Eliahu Rabbah 18 (86b), Yeshuos Yaakov ad loc. 51. 
 
@@ -1211,6 +1211,6 @@ A somewhat similar saying occurs in Bereshis Rabbah 13:6 but it is not the sayin
 
 114\. Sanhedrin 10:1 (90a). 
 
-115\. See Sanhedrin 92a,b. 
+115\. See [[Sanhedrin 92#92a|Sanhedrin 92a]],b. 
 
 1060\) Matinonides! Principles

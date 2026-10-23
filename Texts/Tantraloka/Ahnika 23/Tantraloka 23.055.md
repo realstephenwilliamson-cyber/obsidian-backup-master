@@ -31,6 +31,9 @@ vijñānamantravidyādyāḥ prakurvantyapakāritām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 321–322)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.51–55]]
+
 > पुनःपुनर्यदा ज्ञातो विश्वासपरिवर्जितः ।
 > तदा समग्रतो ध्यायेत्स्फुरन्तं चन्द्रसूर्यवत् ॥
 > ततो निजहृदम्भोजबोधाम्बरतलोदिताम् ।

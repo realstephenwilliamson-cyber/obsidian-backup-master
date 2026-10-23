@@ -34,5 +34,10 @@ etairguṇaiḥ samāyukto dīkṣitaḥ śivaśāsane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 287–289)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.464–466]]
+>
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.466–468]]
+
 Jayaratha comments on this verse together with 15.465: see [[Tantraloka 15.465#Viveka|15.465]].
 

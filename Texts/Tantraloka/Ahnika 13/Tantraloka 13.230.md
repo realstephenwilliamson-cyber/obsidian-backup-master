@@ -31,6 +31,11 @@ yasminkāle tu guruṇā nirvikalpaṃ prakāśitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 267–269)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.230–231]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.230–231 (continued)]]
+
 *Lead-in:* किमत्र प्रमाणम्? -- इत्याशङ्क्याह --
 
 > उक्तं च शास्त्रयोः श्रीमद्रत्नमालागमाख्ययोः ।

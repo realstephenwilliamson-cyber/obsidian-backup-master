@@ -36,6 +36,11 @@ yathā deheṣvahorātranyūnādhikyādi no samam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 313–314)
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.87]]
+>
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.87–88]]
+
 *Lead-in:* अयमेव चात्र पक्षो युक्तः -- इत्याह --
 
 > इत्थमेव दिवारात्रिन्यूनाधिक्यक्रमं वदेत् ।

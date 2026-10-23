@@ -33,6 +33,13 @@ antyeṣṭyā suviśuddhānāmaśuddhānāṃ ca tadvidhiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 355–357)
+> ![[Tantraloka Dyczkowski v09 16 - Chapter Twenty-Five, opening page#Viveka on 25.1–2]]
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.1–2 (continued)]]
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.2–4]]
+
 *Lead-in:* ननु त्रिकदर्शने कुत्र नाम असौ श्राद्धविधिरुक्तः ?--इत्याशङ्क्याह- -
 
 > सिद्धातन्त्रे सूचितोऽसौ मूर्तियागनिरूपणे ।

@@ -34,6 +34,9 @@ rūḍhapāśasya yaḥ prāṇairviyogo māraṇaṃ hi tat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 28–29)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.59–62]]
+
 > श्रीमन्मृत्युञ्जये प्रोक्तं पाशच्छेदे कृते पशोः ॥
 > मलत्रयवियोगेन शरीरं न प्ररोहति ।
 > धर्माधर्मौघविच्छेदाच्छरीरं च्यवते किल ॥

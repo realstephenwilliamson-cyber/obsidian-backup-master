@@ -33,6 +33,11 @@ phālgunamāse śuklaṃ yatproktaṃ dvādaśīdinaṃ parva || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 24–25)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.42–43]]
+>
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.43–44]]
+
 *Lead-in:* एवमन्यत्रापि विशेषविशेषत्वं दर्शयति--
 
 > फाल्गुनमासे शुक्लं यत्प्रोक्तं द्वादशीदिनं पर्व ॥

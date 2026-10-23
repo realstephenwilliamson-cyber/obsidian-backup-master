@@ -31,6 +31,9 @@ vedyatvamekarūpaṃ syāccāturdaśyamataḥ kutaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 346)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.78–79]]
+
 > एवं सिद्धं हि वेद्यत्वं भावधर्मोऽस्तु का घृणा ॥
 > इदं तु चिन्त्यं सकलपर्यन्तोक्तप्रमातृभिः ।
 > वेद्यत्वमेकरूपं स्याच्चातुर्दश्यमतः कुतः ॥

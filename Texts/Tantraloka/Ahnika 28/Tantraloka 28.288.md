@@ -31,6 +31,9 @@ tirobhāvo na vijñeyo hṛdaye rūḍhyabhāvataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 125)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.287–288]]
+
 > व्यापारव्याहृतैस्तेन धातुदोषप्रकोपितैः ।
 > अप्राप्तनिश्चयामर्शैः सुप्तमत्तोपमानकैः ॥
 > विपरीतैरपि ज्ञानदीक्षागुर्वादिदूषकैः ।

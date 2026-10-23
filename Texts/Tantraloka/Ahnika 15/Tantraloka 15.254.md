@@ -31,6 +31,9 @@ pañcāṅgāni parā śaktirnyāsaḥ śākto'pi ṣaḍvadhaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 152–153)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.254–255]]
+
 > परैव देवीत्रितयमध्ये याऽभेदिनी स्थिता ॥
 > सानवच्छेदचिन्मात्रसद्भावेयं प्रकीर्तिता ।
 > सारशास्त्रे यामले च देव्यास्तेन प्रकीर्तितः ॥

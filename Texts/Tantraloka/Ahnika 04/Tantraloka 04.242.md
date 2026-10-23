@@ -34,6 +34,9 @@ yatkiṃcijjīvarahitamaśuddhaṃ tadvijānata || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 338)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.241–242]]
+
 *Lead-in:* तदेव शब्दद्वारेण पठति --
 
 > सर्वेषां वाहको जीवो नास्ति किञ्चिदजीवकम् ।

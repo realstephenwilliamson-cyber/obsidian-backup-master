@@ -34,5 +34,8 @@ tata eśapurāṇyaṣṭau catuṣke'rdhāṃṅgulakramāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 58)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.125–127]]
+
 Jayaratha comments on this verse together with 16.127: see [[Tantraloka 16.127#Viveka|16.127]].
 

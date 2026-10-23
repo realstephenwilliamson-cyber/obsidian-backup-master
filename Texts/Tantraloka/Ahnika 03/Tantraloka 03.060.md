@@ -35,6 +35,9 @@ na hānirhetumātre tu praśno'yaṃ paryavasyati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 132)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.60]]
+
 *Lead-in:* तदाह -
 
 > अतश्च लक्षणस्यास्य प्रोक्तस्य तदसंभवे ।

@@ -34,6 +34,9 @@ eko yathāhaṃ vahnyādiṣaḍrūpo'smi tathā sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 41–42)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.87–88]]
+
 *Lead-in:* ननु कथमस्य देहादियोगात् पारिमित्येऽप्येवं भवेत् ?--इत्याशङ्क्य दृष्टान्तयति--
 
 Jayaratha comments on this verse together with 16.88: see [[Tantraloka 16.088#Viveka|16.88]].

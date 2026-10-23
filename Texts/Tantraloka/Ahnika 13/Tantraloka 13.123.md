@@ -31,5 +31,10 @@ svayaṃ badhnāti deveśaḥ svayaṃ caiva vimuñcati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 199–200)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 13.125.*
+>
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.125]]
+
 Jayaratha comments on this verse together with 13.124: see [[Tantraloka 13.124#Viveka|13.124]].
 

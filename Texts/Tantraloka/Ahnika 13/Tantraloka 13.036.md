@@ -31,6 +31,9 @@ taṃ pumāṃsaṃ prati naiva sūte kiṃtvanyameva hi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 143–145)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.35–36]]
+
 > बुद्धिरेवास्मि विकृतिधर्मिकान्यस्तु कोऽप्यसौ ।
 > मद्विलक्षण एकात्मेत्येवं वैविक्त्यसंविदि ॥
 > पुमर्थस्य कृतत्वेन सहकारिवियोगतः ।

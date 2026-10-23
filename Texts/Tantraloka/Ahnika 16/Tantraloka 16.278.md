@@ -37,6 +37,11 @@ viṣāpahārimantrādītyuktaṃ śrīpūrvaśāsane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 124–125)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.278]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.278 (2)]]
+
 *Lead-in:* ननु मन्त्रसञ्जल्पेच्छाविरहेऽपि कथं तन्मयतयैवास्यावभासो भवेत्?--इत्याशङ्क्याह--
 
 > विकल्पयन्नप्येकार्थं यतोऽन्यदपि पश्यति ।

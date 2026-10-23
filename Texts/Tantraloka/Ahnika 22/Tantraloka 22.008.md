@@ -31,5 +31,8 @@ samastaśāstrakathitavastuvaiviktyadāyinaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 279–280)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.7–9]]
+
 Jayaratha comments on this verse together with 22.9: see [[Tantraloka 22.009#Viveka|22.9]].
 

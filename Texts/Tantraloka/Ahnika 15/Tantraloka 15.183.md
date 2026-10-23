@@ -33,6 +33,11 @@ evaṃ bahiḥ pūjayitvā dvāraṃ prokṣya prapūjayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 112–117)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.181–183]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.183–190]]
+
 *Lead-in:* बाह्ययागमुपसंहरंस्तदनन्तरोद्दिष्टं द्वारान्तरमभिधत्ते--
 
 Jayaratha comments on this verse together with 15.182: see [[Tantraloka 15.182#Viveka|15.182]].

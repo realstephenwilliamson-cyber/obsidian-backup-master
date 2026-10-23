@@ -33,6 +33,11 @@ etadevocyate dārḍhyaṃ vimarśahṛdayaṅgamam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 161)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.269–270]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.270–271]]
+
 *Lead-in:* ननु प्राग्विकल्पाभ्यासपाटवात् निर्विकल्पकता भवतीत्युक्तं, तत् कथमिह शिवत्वं भवेदित्युच्यते?--इत्याशङ्क्य आह--
 
 > एतदेवोच्यते दार्ढ्यं विमर्शहृदयङ्गमम् ॥

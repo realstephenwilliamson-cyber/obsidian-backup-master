@@ -37,6 +37,13 @@ ye bodhādvyatiriktaṃ hi kiñcidyājyatayā viduḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 286–290)
+> ![[Tantraloka Dyczkowski v01 08 - Chapter One, part 7#Viveka on 1.124]]
+>
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.124 (continued)]]
+>
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.124–125]]
+
 *Lead-in:* एतदेव शब्दार्थद्वारकं गीताग्रन्थेन संवादयति --
 
 > येऽप्यन्यदेवताभक्ता इत्यतो गुरुरादिशत् ।

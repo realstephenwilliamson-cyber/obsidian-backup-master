@@ -36,6 +36,11 @@ tatrordhvakuṇḍalībhūmau spandanodarasundaraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 62–65)
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.56–57]]
+>
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.57–58]]
+
 *Lead-in:* ननूर्ध्वकुण्डलिनीपदसमासादनेनापि किं स्यात् ? -- इत्याशङ्क्याह --
 
 > तत्रोर्ध्वकुण्डलीभूमौ स्पन्दनोदरसुन्दरः ॥

@@ -267,7 +267,7 @@ And it is: ([[Torah 13 - Shemot#^3-14|Ex. 3:14]]) *EHYeH*[^33] *that which*[^34]
 [^7]: *kalah*
 [^8]: bride
 [^9]: *kalah*
-[^10]: *BT* Berakhot 6b
+[^10]: *BT* [[Berakhot 6#6b|Berakhot 6b]]
 [^11]: *na’al*
 [^12]: *labat*
 [^13]: *bat*
@@ -285,7 +285,7 @@ And it is: ([[Torah 13 - Shemot#^3-14|Ex. 3:14]]) *EHYeH*[^33] *that which*[^34]
 [^25]: Binah
 [^26]: *brakhah*
 [^27]: (empty note in source)
-[^28]: *BT* Berakhot 3b
+[^28]: *BT* [[Berakhot 3#3b|Berakhot 3b]]
 [^29]: Fortunate
 [^30]: In-the-beginning
 [^31]: Fortunate

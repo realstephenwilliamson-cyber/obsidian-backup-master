@@ -34,6 +34,9 @@ nūṃna te sūryasaṃvittyai khadyotādhitsavo jaḍāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 24)
+> ![[Tantraloka Dyczkowski v02 02 - Chapter Two, part 1#Viveka on 2.14]]
+
 *Lead-in:* ये पुनरनेनापि उपायेनानुपायं परं तत्त्वमनुसरन्ति तान्प्रति किमुच्यते ? इत्याह --
 
 > येऽपि साक्षादुपायेन तद्रूपं प्रविविञ्चते ।

@@ -33,6 +33,11 @@ na caivamupacāraḥ syātsarvaṃ tatraiva vastutaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 489–490)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.299–300]]
+>
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.300–301]]
+
 *Lead-in:* नचैतत् "अग्निर्माणवकः"इत्यादिवदुपचरितम् -- इत्याह --
 
 > न चैवमुपचारः स्यात्सर्वं तत्रैव वस्तुतः ॥

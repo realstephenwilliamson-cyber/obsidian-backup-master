@@ -31,5 +31,8 @@ rūpādau vā kartṛkarmakaraṇeṣu ca sarvaśaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 147–148)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.20–24]]
+
 Jayaratha comments on this verse together with 32.23: see [[Tantraloka 32.023#Viveka|32.23]].
 

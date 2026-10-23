@@ -35,6 +35,9 @@ grahaḥ kevala evāhamiti bhāvanayā sphuret || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 297–298)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.173–174]]
+
 > अत्र रूढिं सदा कुर्यादिति नो गुरवो जगुः ॥
 > विषतत्त्वे सम्प्रविश्य न भूतं न विषं न च ।
 > ग्रहः केवल एवाहमिति भावनया स्फुरेत् ॥

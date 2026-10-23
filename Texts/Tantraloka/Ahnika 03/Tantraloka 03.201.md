@@ -36,6 +36,11 @@ visarga eva śākto'yaṃ śivabindutayā punaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 318–320)
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.200–201]]
+>
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.201–202]]
+
 *Lead-in:* नन्वेवमपि भेदेनैव वर्णपञ्चाशतो रूपमुक्तं स्यात् नाभेदेन ? इत्याशङ्क्याह --
 
 > विसर्ग एव शाक्तोऽयं शिवबिन्दुतया पुनः ॥

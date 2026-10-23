@@ -31,6 +31,9 @@ pradhānaṃ kāraṇaṃ proktamajñānātmāṇavo malaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 122–123)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.142]]
+
 *Lead-in:* इदानीं प्रकृतमेवोपसंहरति --
 
 > अस्य कार्ममलस्येयन्मायान्ताध्वविसारिणः ।

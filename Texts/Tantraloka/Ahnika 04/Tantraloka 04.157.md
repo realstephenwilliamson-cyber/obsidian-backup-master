@@ -34,6 +34,9 @@ prāyaścittādikarmabhyo brahmahatyādikarmavat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 227)
+> ![[Tantraloka Dyczkowski v03 07 - Chapter Four, part 6#Viveka on 4.157]]
+
 *Lead-in:* तदेवाह --
 
 > अन्यदाश्यानितमपि तदैव द्रावयेदियम् ।

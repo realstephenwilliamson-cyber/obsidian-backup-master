@@ -31,6 +31,9 @@ iti khyāpayituṃ proktaṃ mālinīvijayottare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 333–334)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.83–87]]
+
 *Lead-in:* ननु गुरोः शास्त्रीय एव दोषो ग्राह्यो न लौकिक इत्यत्र किं प्रमाणम्?- -इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 23.86: see [[Tantraloka 23.086#Viveka|23.86]].

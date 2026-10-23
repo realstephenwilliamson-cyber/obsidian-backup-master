@@ -31,6 +31,9 @@ abhimānaśamakrodhakṣamādiravāntaro bhedaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 179–180)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.391–393]]
+
 > उच्छुष्मशवरचण्डगुमतङ्गघोरान्तकोग्रहलहलकाः ।
 > क्रोधी हुलुहुलुरेते दश गुरवः शिवमयाः पूर्वे ॥
 > ते स्वांशचित्तवृत्तिक्रमेण पौरुषशरीरमास्थाय ।

@@ -33,6 +33,11 @@ anusandhāturekasya saṃbhavastu yatastataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 110–111)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.125–126]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.126–127]]
+
 *Lead-in:* नन्वेवं कृतनाशाकृताभ्यागमचोद्यमापतेत् ? -- इत्याशङ्क्याह --
 
 > अनुसन्धातुरेकस्य संभवस्तु यतस्ततः ॥

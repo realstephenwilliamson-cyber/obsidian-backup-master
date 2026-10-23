@@ -31,6 +31,9 @@ tasyāṃ satyāṃ hi vidyādyāḥ karaṇatvārhatājuṣaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 235)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.247]]
+
 > तस्यां सत्यां हि विद्याद्याः करणत्वार्हताजुषः ॥
 
 कर्तृप्रयुक्तानामेव हि करणादिभावो भवेत् -- इति भावः ॥ २४७ ॥

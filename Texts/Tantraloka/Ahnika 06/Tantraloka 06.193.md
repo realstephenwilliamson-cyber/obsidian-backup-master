@@ -37,6 +37,11 @@ adhovaktraṃ tvidaṃ dvaitakalaṅkaikāntaśātanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 400–402)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.192–193]]
+>
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.193–194]]
+
 *Lead-in:* ननु प्राणक्रमेण "द्वादशान्ते परः शिवः"इत्याद्युक्त्या तत्तत्कारणोल्लङ्घनेन तत्र शिवे विश्रान्तिः स्यादिह पुनः सा कुत्र यत्रैवं स्यात् ? -- इत्याशङ्क्याह --
 
 > अधोवक्त्रं त्विदं द्वैतकलङ्कैकान्तशातनम् ॥

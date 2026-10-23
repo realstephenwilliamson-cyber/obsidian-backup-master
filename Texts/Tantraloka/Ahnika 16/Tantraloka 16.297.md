@@ -37,6 +37,11 @@ tena vijñānayogādibalī prāk samayī bhavan || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 132–134)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.296–297]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.297–298]]
+
 *Lead-in:* अत एव च दीक्षायां कृतोऽपि समययादिनियमो न स्यात्--इत्याह--
 
 > तेन विज्ञानयोगादिबली प्राक् समयी भवन् ॥

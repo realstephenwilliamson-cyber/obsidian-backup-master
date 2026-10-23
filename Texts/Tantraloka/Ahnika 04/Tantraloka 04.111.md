@@ -36,6 +36,11 @@ tacca svacchasvatantrātmaratnanirbhāsini sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 130–133)
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.110–111]]
+>
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.111–113]]
+
 *Lead-in:* तच्च द्विधा, इत्याह --
 
 Jayaratha comments on this verse together with 4.110: see [[Tantraloka 04.110#Viveka|4.110]].

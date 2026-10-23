@@ -34,6 +34,9 @@ jñānameva tadajñānaṃ śivasūtreṣu bhāṣitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 125)
+> ![[Tantraloka Dyczkowski v01 05 - Chapter One, part 4#Viveka on 1.26]]
+
 *Lead-in:* तदाह—
 
 > अतो ज्ञेयस्य तत्त्वस्य सामस्त्येनाप्रथात्मकम् ।

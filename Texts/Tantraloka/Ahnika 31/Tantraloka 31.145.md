@@ -31,6 +31,11 @@ sāgare netrakaṃ lopyaṃ nāḍayaḥ pūrvadiggatāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 127)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 31.146.*
+>
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.146]]
+
 *Lead-in:* एवं पद्मस्य वर्तनामभिधाय पीठस्यापि आह--
 
 > ब्रह्मणो नेत्रविषयान्नेत्राद्वेदानलौ हरेत् ।

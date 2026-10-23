@@ -36,6 +36,11 @@ anāśrayo hi śūnyatvaṃ jñānameva hi buddhitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 258)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.43–44]]
+>
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.44–45]]
+
 *Lead-in:* नन्वेषां शून्यादिप्रमातृत्वे किं निमित्तम् ? -- इत्याशङ्क्याह --
 
 > अनाश्रयो हि शून्यत्वं ज्ञानमेव हि बुद्धिता ॥

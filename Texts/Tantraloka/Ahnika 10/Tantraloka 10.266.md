@@ -31,6 +31,9 @@ mānānmātuśca bhinnaiva tadarthaṃ tritayaṃ yataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 466–467)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.266]]
+
 *Lead-in:* नन्विदं पूर्णतागमनं प्रत्यौन्मुख्यं नाम किं पूर्णं रूपमुतापूर्णं, तत्रापूर्णं चेज्जाग्रदादय एव, पूर्णं चेत्तुर्यातीतमेवेत्यन्तरा किमिदं तुर्यं नाम ? -- इत्याशङ्क्याह --
 
 > सा संवित्स्वप्रकाशा तु कैश्चिदुक्ता प्रमेयतः ।

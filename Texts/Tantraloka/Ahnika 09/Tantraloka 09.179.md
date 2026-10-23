@@ -31,6 +31,9 @@ nāṇuṃ kuryādupādānaṃ kintu māyāṃ vikāriṇīm || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 154)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.179]]
+
 *Lead-in:* इत्याद्युक्त्या मायाणुसंयोगजायाः कलाया मायोपादानकारणं न त्वणुरिति कथं निश्चिनुमः ? -- इत्याशङ्क्याह -
 
 > कला मायाणुसंयोगजाप्येषा निर्विकारकम् ।

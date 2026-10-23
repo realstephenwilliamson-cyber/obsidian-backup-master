@@ -31,6 +31,9 @@ upāyabhedādbhātyeṣā kramākramavibhāgataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 269)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.292]]
+
 *Lead-in:* एवं योगिनां पटुकरणत्वम् अयोगिनां तदभावः - इत्युपायभेदादेव धरादौ गन्धादीनां क्रमेणोपलम्भः -- इति । नेदं चोद्यं यत् धरादीनामेकरूपत्वात् गन्धादीनां कथं क्रमेणोपलम्भः इति । तदाह -
 
 > गन्धादिशब्दपर्यन्तचित्ररूपा धरा ततः ।

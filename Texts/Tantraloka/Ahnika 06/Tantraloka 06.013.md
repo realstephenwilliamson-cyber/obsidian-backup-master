@@ -34,6 +34,9 @@ spandaḥ sphurattā viśrāntirjīvo hṛtpratibhā matā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 229–230)
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.13]]
+
 *Lead-in:* एवमयमेव परस्याः संविदः प्रथमः परिस्पन्दः - इति तदभेदवृत्त्यैव सर्वत्रास्य व्यवहारः -- इत्याह --
 
 > इयं सा प्राणनाशक्तिरान्तरोद्योगदोहदा ।

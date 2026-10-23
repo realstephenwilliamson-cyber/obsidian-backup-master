@@ -35,5 +35,8 @@ tatsthaṃ [tstho] vicārayet khaṃ khaṃ khasthaṃ khasthena saṃviśet || 
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 115–119)
+> ![[Tantraloka Dyczkowski v04 05 - Chapter Five, part 3#Viveka on 5.89–91]]
+
 Jayaratha comments on this verse together with 5.91: see [[Tantraloka 05.091#Viveka|5.91]].
 

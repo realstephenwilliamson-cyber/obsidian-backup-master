@@ -34,6 +34,9 @@ kiṃtvevameva karuṇānighnastaṃ gururuddharet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 246)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.5]]
+
 *Lead-in:* एतदर्थत्वमेव अस्य वाक्यस्य व्याचष्टे--
 
 > तत्क्षणादिति नास्यास्ति यियासादिक्षणान्तरम् ।

@@ -35,6 +35,9 @@ siddhāntavāmadakṣādau citrāṃ śuddhiṃ vitanvate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 79)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.87]]
+
 *Lead-in:* इत्याद्युक्तम्? -- इत्याशङ्क्याह --
 
 > अत एव च ते मन्त्राः शोधकाश्चित्ररूपिणः ।

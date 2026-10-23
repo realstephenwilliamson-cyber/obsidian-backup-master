@@ -33,5 +33,10 @@ savyāsavye tathaiveha kaṭisthābje samālikhet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 106–107)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.92–93]]
+>
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.93–96]]
+
 Jayaratha comments on this verse together with 31.92: see [[Tantraloka 31.092#Viveka|31.92]].
 

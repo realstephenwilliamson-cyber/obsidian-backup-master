@@ -31,6 +31,9 @@ ye māyayā hyanākrāntāste karmādyanapekṣiṇaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 285–286)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.257–259]]
+
 > तेन मायान्तराले ये रुद्रा ये च तदूर्ध्वतः ॥
 > स्वाधिकारक्षये तैस्तैर्भैरवीभूयते हठात् ।
 > ये मायया ह्यनाक्रान्तास्ते कर्माद्यनपेक्षिणः ॥

@@ -36,6 +36,11 @@ saṅkarābhāvataḥ keyaṃ śaṅkā tasyāmapi sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 114–116)
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.21–22]]
+>
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.22–23]]
+
 *Lead-in:* एवमस्या निमित्ताभावात् संभव एव नास्ति -- इत्याह --
 
 > सङ्कराभावतः केयं शङ्का तस्यामपि स्फुटम् ॥

@@ -36,6 +36,11 @@ khe rasaikākṣi nityotthe tadardhaṃ dvikapiṇḍake || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 4–8)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.3–5]]
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.5–19]]
+
 *Lead-in:* तदाह --
 
 Jayaratha comments on this verse together with 7.4: see [[Tantraloka 07.004#Viveka|7.4]].

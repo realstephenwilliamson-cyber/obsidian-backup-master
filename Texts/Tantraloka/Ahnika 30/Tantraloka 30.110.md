@@ -33,5 +33,10 @@ anuttarecche ghāntaśca satrayodaśasusvaraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 60–62)
+> ![[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#Viveka on 30.108–110]]
+>
+> ![[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#Viveka on 30.110–115]]
+
 Jayaratha comments on this verse together with 30.119: see [[Tantraloka 30.119#Viveka|30.119]].
 

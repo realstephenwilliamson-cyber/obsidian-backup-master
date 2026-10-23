@@ -33,6 +33,13 @@ ityevaṃ mantravidyādisvarūpamupavarṇitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 64)
+> ![[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#Viveka on 30.121–123]]
+>
+> ![[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#Viveka on 30.123]]
+>
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 30.123 (continued)]]
+
 *Lead-in:* एतदेव अर्धेन उपसंहरति--
 
 > इत्येवं मन्त्रविद्यादिस्वरूपमुपवर्णितम् ॥

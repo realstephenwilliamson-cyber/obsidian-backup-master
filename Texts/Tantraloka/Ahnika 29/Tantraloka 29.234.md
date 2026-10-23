@@ -31,5 +31,8 @@ cakṣurādau saṃkramayedyatra yatrendriye guruḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 376–377)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.233–235]]
+
 Jayaratha comments on this verse together with 29.235: see [[Tantraloka 29.235#Viveka|29.235]].
 

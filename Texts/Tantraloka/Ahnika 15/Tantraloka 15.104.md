@@ -33,6 +33,11 @@ muktaye tanna yāgasya sthānabhedaḥ prakalpyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 70–72)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.102–104]]
+>
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.104–105]]
+
 *Lead-in:* इत्युक्त्या तात्स्थ्यात् हृत्कमलं "मञ्चाः क्रोशान्ति"इतिवत् ।एवमन्यत्रापि ज्ञेयम् ।तदधिष्ठित इति तच्छब्देन विबोधपरामर्शः । अत एव बोधस्य सर्वत्र अविशेषात् तदैकात्म्यापत्तिरूपायां मुक्तौ न काचित् स्थानभेदकल्पना—इत्याह --
 
 > मुक्तये तन्न यागस्य स्थानभेदः प्रकल्प्यते ॥

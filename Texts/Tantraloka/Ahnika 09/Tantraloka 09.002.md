@@ -41,6 +41,11 @@ yadrūpaṃ bahudhānugāmi tadidaṃ tattvaṃ vibhoḥ śāsane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 3–5)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.2]]
+>
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.2 (2)]]
+
 *Lead-in:* ननु यद्येवं प्रकाशैकपरमार्थमेवेदं विश्वम्, तत् तत्त्वस्य पृथक्सत्तैव नास्ति, इति का नाम पृथिव्यादिपरिभाषापि स्यात् ? -- इत्याशङ्क्याह --
 
 > तत्स्वातन्त्र्यरसात्पुनः शिवपदाद्भेदे विभाते परं ।

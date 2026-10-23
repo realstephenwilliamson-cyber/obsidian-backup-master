@@ -33,6 +33,11 @@ cidrūpatvācca sa vyāpī nirguṇo niṣkriyastataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 124–126)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.144–145]]
+>
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.145–146]]
+
 *Lead-in:* नन्वेवं पशुभावग्रहणेऽस्य चिदचिद्रूपतावभासनेन किं स्यात् ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 9.144: see [[Tantraloka 09.144#Viveka|9.144]].

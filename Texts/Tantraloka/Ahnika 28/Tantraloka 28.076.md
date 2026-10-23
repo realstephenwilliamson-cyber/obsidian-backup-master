@@ -33,6 +33,11 @@ pavitrārohaṇe śrāddhe tathā parvadineṣvalam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 42–43)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.75–76]]
+>
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.76–78]]
+
 *Lead-in:* स च कदा कार्यो किंविधिश्च--इत्याह--
 
 Jayaratha comments on this verse together with 28.75: see [[Tantraloka 28.075#Viveka|28.75]].

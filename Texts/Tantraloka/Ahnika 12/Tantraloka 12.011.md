@@ -34,6 +34,9 @@ kurvaṃstadraśmisadbhāvaṃ dadyāddhomakriyāparaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 104)
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.9–11]]
+
 > तत्रार्पणं हि वस्तूनामभेदेनार्चनं मतम् ।
 > तथा सम्पूर्णरूपत्वानुसन्धिर्ध्यानमुच्यते ॥
 > संपूर्णत्वानुसन्धानमकम्पं दार्ढ्यमानयन् ।

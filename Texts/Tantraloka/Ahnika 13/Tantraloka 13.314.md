@@ -33,6 +33,11 @@ sa hi bhedaikavṛttitvaṃ śivajñāne śrute'pyalam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 320–321)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.313–314]]
+>
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.314–316]]
+
 *Lead-in:* इत्याद्युक्त्या कृतकृत्यत्वमिति किमेवं पुनरायातम्? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 13.313: see [[Tantraloka 13.313#Viveka|13.313]].

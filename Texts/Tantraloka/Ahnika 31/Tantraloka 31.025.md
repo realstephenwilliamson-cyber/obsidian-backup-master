@@ -31,6 +31,9 @@ dvayenāgragasūtrābhyāṃ madhyaśṛṅgadvayaṃ bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 77)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.24–25]]
+
 > ततो यदुन्मुखं खण्डचन्द्रयुग्मं पुरोदितम् ॥
 > ततो द्वयेन कर्तव्या गण्डिकान्तः सुसङ्गता ।
 > द्वयेनाग्रगसूत्राभ्यां मध्यशृङ्गद्वयं भवेत् ॥

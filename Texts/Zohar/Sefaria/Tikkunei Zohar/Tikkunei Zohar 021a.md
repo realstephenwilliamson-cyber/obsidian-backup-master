@@ -268,7 +268,7 @@ they are from Her wings
 [^5]: *ḥokhmah*
 [^6]: *shatah*
 [^7]: *shyt*
-[^8]: *BT* Berakhot 6b
+[^8]: *BT* [[Berakhot 6#6b|Berakhot 6b]]
 [^9]: *naqeh*
 [^10]: nest
 [^11]: *qano*

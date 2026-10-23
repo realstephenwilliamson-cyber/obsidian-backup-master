@@ -31,6 +31,9 @@ bhuktvordhvaṃ yāti yatraiṣa yukto'tha sakale'kale || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 27–28)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.30]]
+
 *Lead-in:* एवमतोऽस्य किं स्यात् ?--इत्याशङ्क्य आह--
 
 > प्रारब्धदेहभेदे तु भुङ्क्तेऽसावणिमादिकम् ।

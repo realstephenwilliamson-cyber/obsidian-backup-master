@@ -31,5 +31,10 @@ tato mahotsavaḥ kāryo gurupūjāpuraḥsaraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 71–72)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 28.142–143.*
+>
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.142–143]]
+
 Jayaratha comments on this verse together with 28.142: see [[Tantraloka 28.142#Viveka|28.142]].
 

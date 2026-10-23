@@ -33,6 +33,11 @@ mahimā cedayaṃ tau kiṃ nāsamañjasyabhāginau |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 174–176)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.80–81]]
+>
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.81]]
+
 *Lead-in:* अथ ईश्वरेच्छा कर्मवैचित्र्ये निमित्तमित्युच्यते, तदपि न -- इत्याह --
 
 > ईश्वरेच्छानपेक्षा तु भेदहेतुर्न कल्पते ॥

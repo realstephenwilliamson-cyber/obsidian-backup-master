@@ -33,6 +33,11 @@ kalaśaṃ netrabandhādi maṇḍalaṃ sruksruvānalam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 271–274)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.73–75]]
+>
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.75–77]]
+
 *Lead-in:* अतश्च तदुपकरणजातमपहाय इहत्यमेव तदाश्रयणीयं येन विनायासं सिद्धिः स्यात्--इत्याह--
 
 Jayaratha comments on this verse together with 29.74: see [[Tantraloka 29.074#Viveka|29.74]].

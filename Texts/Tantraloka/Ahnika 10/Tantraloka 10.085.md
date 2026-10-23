@@ -31,6 +31,9 @@ nṛttaṃ gītaṃ sudhāsārasāgaratvena manyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 349)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.85]]
+
 *Lead-in:* तदेव दिङ्मात्रेणोपपादयन् व्यनक्ति --
 
 > तथा ह्येकाग्रसकलसामाजिकजनः खलु ।

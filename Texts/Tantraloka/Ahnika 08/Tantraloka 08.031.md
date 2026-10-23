@@ -36,6 +36,13 @@ pratilokaṃ niyuktātmā śrīkaṇṭho haṭhato bahūḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 87–89)
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.30–31]]
+>
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.31–32]]
+>
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.31–32 (continued)]]
+
 *Lead-in:* अस्य चैवमभिधाने किं निमित्तम् ? -- इत्याशङ्क्याह --
 
 > प्रतिलोकं नियुक्तात्मा श्रीकण्ठो हठतो बहूः ॥

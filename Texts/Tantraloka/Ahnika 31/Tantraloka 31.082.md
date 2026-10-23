@@ -31,5 +31,10 @@ raktaṃ śūlaṃ prakurvīta yattatpūrvaṃ prakalpitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 103)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 31.83–85.*
+>
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.83–85]]
+
 Jayaratha comments on this verse together with 31.84: see [[Tantraloka 31.084#Viveka|31.84]].
 

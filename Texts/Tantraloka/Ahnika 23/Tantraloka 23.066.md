@@ -31,6 +31,9 @@ kimācāryeṇa tatrāsya kāryā syātsahakāritā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 326)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.66]]
+
 *Lead-in:* नहि अस्य स्वयमेव तिरोधित्सोरत्रान्यत्किञ्चित्कर्तव्यमवशिष्यते यदनेनापि कार्यम्--इत्याह--
 
 > ईशेच्छाचोदितः पाशं यदि कण्ठे निपीडयेत् ।

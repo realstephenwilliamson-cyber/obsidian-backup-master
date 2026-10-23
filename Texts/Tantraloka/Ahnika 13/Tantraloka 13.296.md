@@ -31,6 +31,9 @@ kaścidrudrāṃśatāmātrāpādanāttatprasādataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 308)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.295–300]]
+
 *Lead-in:* तदेवाह -
 
 Jayaratha comments on this verse together with 13.295: see [[Tantraloka 13.295#Viveka|13.295]].

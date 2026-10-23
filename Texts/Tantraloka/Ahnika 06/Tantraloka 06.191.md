@@ -37,6 +37,11 @@ tasyānte tu parā devī yatra yukto na jāyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 399–400)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.190–191]]
+>
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.191–192]]
+
 *Lead-in:* नन्वस्मद्दर्शने मुक्तेः किमनाश्रिताधिष्ठानं युक्तम् ? -- इत्याशङ्क्याह --
 
 > तस्यान्ते तु परा देवी यत्र युक्तो न जायते ॥

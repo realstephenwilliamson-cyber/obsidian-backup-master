@@ -308,12 +308,12 @@ which are:
 [^37]: ו
 [^38]: 6
 [^39]: *tephaḥ*
-[^40]: *BT* Menaḥot 97a
+[^40]: *BT* [[Menachot 97#97a|Menaḥot 97a]]
 [^41]: י
 [^42]: 10
 [^43]: ג
 [^44]: 3
-[^45]: *BT* Berakhot 51a
+[^45]: *BT* [[Berakhot 51#51a|Berakhot 51a]]
 [^46]: ו
 [^47]: ד
 [^48]: two

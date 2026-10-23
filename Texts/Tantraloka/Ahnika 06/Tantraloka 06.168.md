@@ -35,6 +35,9 @@ kharvanikharve śaṅkhābjajaladhimadhyāntamatha parārdhaṃ ca || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 383–384)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.168]]
+
 *Lead-in:* एवमुक्तवक्ष्यमाणपरिमाणोपयोगिन्याः संख्यायाः क्रमेण रूपं दर्शयति --
 
 > दशशतसहस्रमयुतं लक्षनियुतकोटि सार्बुदं वृन्दम् ।

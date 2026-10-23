@@ -37,6 +37,11 @@ svatāratamyāśrayaṇādadhvamadhye prasūtidam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 136–137)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.304–307]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.307–308]]
+
 *Lead-in:* शुभकर्मोपभोगे तु योजनिकास्थानमेवासादयेत्--इत्याह--
 
 > शुभपाकक्रमोपात्त फलभोगसमाप्तितः ॥

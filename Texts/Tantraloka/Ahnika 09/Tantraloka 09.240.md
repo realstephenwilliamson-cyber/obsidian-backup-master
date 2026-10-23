@@ -31,6 +31,9 @@ sā śrotre karaṇaṃ yāvad ghrāṇe gandhatvabheditā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 229–231)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.240]]
+
 *Lead-in:* ननु भवतु एवमन्तःकरणानाम्, बुद्धीन्द्रियाणां पुनर्मनोवदाहङ्कारिकत्वेऽपि नियतविषयत्वे किं निमित्तम् ? -- इत्याशङ्क्याह --
 
 > शब्दतन्मात्रहेतुत्वविशिष्टा या त्वहंकृतिः ।

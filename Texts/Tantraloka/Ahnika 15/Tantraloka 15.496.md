@@ -32,6 +32,9 @@ hṛdayādidviṣaṭkāntaṃ bodhasparśapavitritaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 300)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.494–496]]
+
 > ततो गुरुः शिशोर्मन्त्रपूर्वकं देवतार्चनम् ॥
 > देशयेत्स च तत्कुर्यात्संस्कुर्यात्तं ततो गुरुः ।
 > हृदादिचक्रषट्कस्थान्ब्रह्मादीन् षट् समाहितः ॥

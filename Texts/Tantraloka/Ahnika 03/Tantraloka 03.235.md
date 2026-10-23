@@ -34,6 +34,9 @@ sa svātmani svatantratvādvibhāgamavabhāsayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 361–362)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.235]]
+
 *Lead-in:* ननु यद्येवं तर्हि एतदेवास्तु, विश्वरूपतायाः पुनः कोऽवकाशः ? -- इत्याशङ्क्याह --
 
 > तस्य प्रत्यवमर्शो यः परिपूर्णोऽहमात्मकः ।

@@ -35,5 +35,10 @@ jaleṣu maruṣu cāgnau śiraśchedena vā mṛtāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 219–221)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 8.198–199.*
+>
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.198–199]]
+
 Jayaratha comments on this verse together with 8.198: see [[Tantraloka 08.198#Viveka|8.198]].
 

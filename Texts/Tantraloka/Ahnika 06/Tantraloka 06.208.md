@@ -37,6 +37,11 @@ itthaṃ samānamaruto varṣadvayavikalpanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 420–421)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.207–208]]
+>
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.208–209]]
+
 *Lead-in:* तदेवोपसंहरति -
 
 > इत्थं समानमरुतो वर्षद्वयविकल्पनम् ॥

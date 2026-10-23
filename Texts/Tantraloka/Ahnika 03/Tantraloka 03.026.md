@@ -34,6 +34,9 @@ citratvāccāsya śabdasya pratibimbaṃ mukhādivat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 100–101)
+> ![[Tantraloka Dyczkowski v02 04 - Chapter Three, part 1#Viveka on 3.24–26]]
+
 > इत्थं प्रदर्शितेऽमुत्र प्रतिबिम्बनवर्त्मनि ।
 > शब्दस्य प्रतिबिम्बं यत् प्रतिश्रुत्केति भण्यते ॥
 > न चासौ शब्दजः शब्द आगच्छत्त्वेन संश्रवात् ।

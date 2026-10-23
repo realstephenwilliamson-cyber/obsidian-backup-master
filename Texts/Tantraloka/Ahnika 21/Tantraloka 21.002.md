@@ -34,6 +34,9 @@ ityasminmālinīvākye pratiḥ sāṃmukhyavācakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 245)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.2–3]]
+
 *Lead-in:* इत्यादि एतद्विरुद्धमुक्तम्, तत्कथमिह एतत्प्रतिज्ञातम्?--इत्याशङ्क्याह- -
 
 > भुक्तिमुक्तिप्रसिद्ध्यर्थं नीयते सद्गुरुं प्रति ।

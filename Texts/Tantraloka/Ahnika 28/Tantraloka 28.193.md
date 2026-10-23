@@ -31,6 +31,9 @@ tadvidyo'pi gurubhrātā saṃvādājjñānadāyakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 88)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.192–193]]
+
 > ज्ञानस्य कस्यचित्प्राप्तिर्भोगमोक्षोपकारिणः ।
 > यदा तन्मुख्यमेवोक्तं नैमित्तिकदिनं बुधैः ॥
 > तदुपायः शास्त्रमत्र वक्ताप्यौपयिको गुरुः ।

@@ -31,6 +31,9 @@ tadeva mudrā mantavyā śeṣaḥ syāddehavikriyā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 166)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.65]]
+
 *Lead-in:* अतश्च तदावेश एव सर्वमुद्राणां तत्त्वम्--इत्याह--
 
 > तदेवं खेचरीचक्ररूढौ यद्रूपमुल्लसेत् ।

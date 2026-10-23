@@ -34,6 +34,11 @@ nyastamantrāṃśusubhagātkiñcidbhūtādimudritāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 279–280)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.454–455]]
+>
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.455–456]]
+
 *Lead-in:* एवं स्वसंवेदनमपि अपह्नुवानान्प्रति आह--
 
 > न्यस्तमन्त्रांशुसुभगात्किञ्चिद्भूतादिमुद्रिताः ॥

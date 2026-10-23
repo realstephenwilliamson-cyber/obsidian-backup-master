@@ -34,6 +34,9 @@ sarvānbhramayate māyā sāmokṣe mokṣalipsayā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 47–48)
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.38]]
+
 *Lead-in:* न च एतदप्रमाणकम्, इत्याह --
 
 > उक्तं स्वच्छन्दशास्त्रे तत् वैष्णवाद्यान्प्रवादिनः ।

@@ -36,6 +36,11 @@ na ca jñānasamūho'sti teṣāmayugapatsthiteḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 23–25)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.33–35]]
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.35]]
+
 *Lead-in:* नन्वेकमेव मालासूत्रवत्सर्वत्रानुयायि ज्ञानं किंचिन्नास्ति, इत्यस्माकं मतं नतु क्षणभङ्गुराण्यनेकानि ज्ञानानि न सन्तीति; तत्तान्येव समुदितानि बाह्यव्यवहारनैपुण्यभाञ्जि भविष्यन्ति, इति को दोषः ? -- इत्याशङ्क्याह --
 
 > न च ज्ञानसमूहोऽस्ति तेषामयुगपत्स्थितेः ॥

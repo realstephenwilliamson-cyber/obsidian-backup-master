@@ -38,13 +38,13 @@ On the other hand, in earlier generations when the Divine souls were of a higher
 
 [^1]: I.e., adherents of Chasidut.
 [^2]: The synagogue, so called as distinct from the Sanctuary, the *Beit Hamikdash*, in Jerusalem.
-[^3]: *Berachot* 54b.
-[^4]: An act performed (or neglected) under compulsion is excused. See [[Torah 49 - Ki Teitzei#^22-25|Deuteronomy 22:25-27]]; *Nedarim* 27a.
+[^3]: [[Berakhot 54#54b|*Berachot* 54b]].
+[^4]: An act performed (or neglected) under compulsion is excused. See [[Torah 49 - Ki Teitzei#^22-25|Deuteronomy 22:25-27]]; [[Nedarim 27#27a|*Nedarim* 27a]].
 [^5]: Rabbi Schneur Zalman, *Shulchan Aruch*, *Orach Chaim* 124:1.
 [^6]: Ibid., 591:2.
 [^7]: Ibid., 124:2.
-[^8]: *Rosh Hashanah* 35a.
-[^9]: *Berachot* 35b.
+[^8]: [[Rosh Hashanah 35#35a|*Rosh Hashanah* 35a]].
+[^9]: [[Berakhot 35#35b|*Berachot* 35b]].
 [^10]: Yet even with them, prayer was related to life and longevity.
 [^11]: Lit. “the heels of the Moshiach,” a play on [[Psalms 089#^89-52|Psalm 89:52]].
 [^12]: See *Iggeret Hateshuvah*, ch. 9, note 10.
@@ -55,6 +55,6 @@ On the other hand, in earlier generations when the Divine souls were of a higher
 [^17]: Ibid., ch. 9.
 [^18]: *Berachot* (54a) explains “with all your heart” (the Hebrew implies a plural) as referring to both the good and evil within man. The evil can be transformed to desire good. See *Likkutei Amarim*, Part I, ch. 10, which discusses the *tzaddik* who has wholly or partially achieved this transformation. Subjugation of evil, or the animal soul, leaves it potent and intact, but ineffective.
 [^19]: [[Torah 47 - Re'eh#^12-23|Deuteronomy 12:23]]. The synonymity of (animal or animating) soul and blood. See *Likkutei Amarim*, Part I, ch. 9. The love of G–d is to permeate the heart, the left void filled with blood, the equivalent of the animal soul.
-[^20]: Cf. *Shabbat* 112b. “If our predecessors were like angels we are men; if they were men we are donkeys.”
-[^21]: *Berachot* 13b—Rabbi Judah the Prince “accepted the yoke of Heaven” at the moment he passed his hands over his face (at *Shema*).
+[^20]: Cf. [[Shabbat 112#112b|*Shabbat* 112b]]. “If our predecessors were like angels we are men; if they were men we are donkeys.”
+[^21]: [[Berakhot 13#13b|*Berachot* 13b]]—Rabbi Judah the Prince “accepted the yoke of Heaven” at the moment he passed his hands over his face (at *Shema*).
 [^22]: *Shulchan Aruch*, *Orach Chaim* 52.

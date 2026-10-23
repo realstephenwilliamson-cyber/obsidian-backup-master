@@ -33,6 +33,11 @@ nanvevaṃ karmasadbhāvānmalasyāpi sthiteḥ katham || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 97–98)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.101–102]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.102–103]]
+
 *Lead-in:* नन्वेवं विज्ञानाकलानामपि स्वातन्त्र्यसङ्कोचप्रयुक्तमलद्वययोगात् तत्र "विज्ञानकेवलो मलैकयुक्तः"इत्यादि दुष्येत् प्रत्युत "तत्कर्मयुक्तः प्रलयकेवलः"इत्याद्युक्त्या प्रलयकेवलित्वं प्रसज्येत् ? -- इत्याशङ्कते --
 
 > नन्वेवं कर्मसद्भावान्मलस्यापि स्थितेः कथम् ॥

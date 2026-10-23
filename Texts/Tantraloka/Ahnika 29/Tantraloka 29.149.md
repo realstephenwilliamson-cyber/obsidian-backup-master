@@ -33,6 +33,11 @@ atraiva japaṃ kuryādanucakraikatvasaṃvidāgamane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 330–332)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.147–149]]
+>
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.149–150]]
+
 *Lead-in:* भूयो भूयश्च अत्रैव भावनापरेण भाव्यं येन मध्यचक्रे एव एकाग्र्यं सिद्ध्येत्--इत्याह--
 
 > अत्रैव जपं कुर्यादनुचक्रैकत्वसंविदागमने ॥

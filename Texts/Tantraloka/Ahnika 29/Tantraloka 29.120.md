@@ -33,6 +33,11 @@ ubhayamapi vastutaḥ kila yāmalamiti tathoditaṃ śāntam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 312–313)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.120]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.120 (2)]]
+
 *Lead-in:* इयान्पुनरत्र विशेषः--इत्याह--
 
 > रूपमुदितं परस्परधामगतं शान्तमात्मगतमेव ।

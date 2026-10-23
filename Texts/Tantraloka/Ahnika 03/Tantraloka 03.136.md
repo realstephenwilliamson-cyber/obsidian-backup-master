@@ -37,6 +37,11 @@ asyāntarvisisṛkṣāsau yā proktā kaulikī parā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 240–242)
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.135–136]]
+>
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.136–137]]
+
 *Lead-in:* ननु अनुत्तर एव कस्मादेवमारूषणया विसर्गाद्यात्मकतामियात् ? -- इत्याशङ्क्याह --
 
 > अस्यान्तर्विसिसृक्षासौ या प्रोक्ता कौलिकी परा ॥

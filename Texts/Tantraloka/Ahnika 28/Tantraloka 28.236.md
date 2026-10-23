@@ -33,6 +33,11 @@ tena dīkṣāśivajñānadagdhasaṅkocabandhanaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 104–105)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.234–236]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.236–237]]
+
 *Lead-in:* ननु एवंविधेन अनुग्रहेण अस्य किं स्यात् ?--इत्याशङ्क्य आह--
 
 > तेन दीक्षाशिवज्ञानदग्धसङ्कोचबन्धनः ॥

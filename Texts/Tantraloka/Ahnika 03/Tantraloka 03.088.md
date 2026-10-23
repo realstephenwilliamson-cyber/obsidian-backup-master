@@ -34,6 +34,9 @@ kṛtārthā jāyate kṣobhādhāro'traitatprakīrtitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 192–193)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.88]]
+
 *Lead-in:* एवं बीजसूत्रं व्याख्याय योनिसूत्रमपि व्याचष्टे --
 
 > जातापि विसिसृक्षासौ यद्विमर्शान्तरैक्यतः ।

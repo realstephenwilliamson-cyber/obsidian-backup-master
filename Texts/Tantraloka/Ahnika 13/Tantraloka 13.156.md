@@ -31,6 +31,9 @@ pratibhā paramevaiṣā sarvakāmadughā yataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 219)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.156]]
+
 *Lead-in:* ननु एवं तात्त्विकस्य ज्ञानस्य प्रतिभावद्गुरुशास्त्रादिलक्षणमपि प्रमाणमभिव्यक्तिनिमित्तमस्ति इति किं प्रतिभायामेवैवं भरः? -- इत्याशङ्क्याह --
 
 > गुरुशास्त्रप्रमाणादेरप्युपायत्वमञ्जसा ।

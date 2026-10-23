@@ -31,6 +31,9 @@ muktāṇuṣviti teṣvastu māyākāryavijṛmbhitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 137)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.23]]
+
 *Lead-in:* न चात्र प्रध्वंसाभावोऽपि न्याययः -- इत्याह --
 
 > अथ प्रध्वंस एवेदमज्ञानं तत्सदा स्थितम् ।

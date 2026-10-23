@@ -31,6 +31,9 @@ sadyonirvāṇadāṃ kuryātsadyaḥprāṇaviyojikām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 272–273)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.234–235]]
+
 > अभ्यासयुक्तिसंक्रान्तिवेधघट्टनरोधतः ॥
 > हुतेर्वा मन्त्रसामर्थ्यात्पाशच्छेदप्रयोगतः ।
 > सद्योनिर्वाणदां कुर्यात्सद्यःप्राणवियोजिकाम् ॥

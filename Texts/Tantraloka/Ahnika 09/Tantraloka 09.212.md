@@ -33,6 +33,11 @@ etena malaḥ kathitaḥ kambukavadaṇoḥ kalādikaṃ tuṣavat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 200–202)
+> ![[Tantraloka Dyczkowski v06 07 - Chapter Nine, part 5#Viveka on 9.208–212]]
+>
+> ![[Tantraloka Dyczkowski v06 07 - Chapter Nine, part 5#Viveka on 9.212]]
+
 *Lead-in:* ननु प्रकृतेऽपि एवं मलस्यावारकत्वात् कञ्चुकत्वमेव वक्तुं युक्तम्, -- इति कथं "षट् कञ्चुकानि"इत्युक्तम् ? -- इत्याशङ्क्याह --
 
 > एतेन मलः कथितः कम्बुकवदणोः कलादिकं तुषवत् ॥

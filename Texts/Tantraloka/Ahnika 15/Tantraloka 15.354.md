@@ -31,5 +31,10 @@ astraṃ nyasyeccaturdikkaṃ madhye locanasaṃjñakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 219–220)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 15.357–358.*
+>
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.357–358]]
+
 Jayaratha comments on this verse together with 15.357: see [[Tantraloka 15.357#Viveka|15.357]].
 

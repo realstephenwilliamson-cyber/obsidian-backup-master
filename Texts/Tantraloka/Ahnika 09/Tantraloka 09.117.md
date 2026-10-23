@@ -31,6 +31,9 @@ anahaṃyutayā sarvā vilīnāḥ karmasaṃskriyāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 106)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.117]]
+
 *Lead-in:* एवमेतत् प्रसङ्गादभिधाय, प्रकृतमेवानुसरति --
 
 > प्रकृतं ब्रूमहे ज्ञानाकलस्योक्तचरस्य यत् ।

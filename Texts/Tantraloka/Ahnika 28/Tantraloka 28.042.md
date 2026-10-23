@@ -33,6 +33,11 @@ bhagrahasamayaviśeṣo nāśvayuje ko'pi tena tadvarjam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 24–25)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.40–42]]
+>
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.42–43]]
+
 *Lead-in:* ननु कस्मादत्र आश्वयुजे मासि भग्रहादियोगो नोक्तः ?--इत्याशङ्क्य आह--
 
 > अग्रहसमयविशेषो नाश्वयुजे कोऽपि तेन तद्वर्जम् ॥

@@ -33,6 +33,11 @@ yathā ca śivanāthena svātantryādbhāsyate bhidā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 345–346)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.76–77]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.77–78]]
+
 *Lead-in:* ननु यदि प्रकाशविश्रान्तिसतत्त्वैव वेद्यता तत्कथमस्या भावधर्मत्वम् ? -- इत्याशङ्क्याह --
 
 > यथा च शिवनाथेन स्वातन्त्र्याद्भास्यते भिदा ॥

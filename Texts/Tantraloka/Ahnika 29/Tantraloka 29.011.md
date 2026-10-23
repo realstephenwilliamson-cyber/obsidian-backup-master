@@ -31,6 +31,9 @@ tāṃ vinā bhuktimuktī no piṣṭakṣaudraguḍaistu sā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 209–216)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.11–13]]
+
 *Lead-in:* ननु भवतु नाम अत्र शास्त्रादिबहिष्कृतं द्रव्यम्, मद्यसंस्पर्शनेन पुनरस्य कोऽर्थः ?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 29.13: see [[Tantraloka 29.013#Viveka|29.13]].

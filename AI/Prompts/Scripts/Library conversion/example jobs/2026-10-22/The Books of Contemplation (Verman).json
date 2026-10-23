@@ -1,0 +1,254 @@
+{
+ "pdf": "/mnt/user-data/uploads/Obsidian Vault/Library/Judaica/Verman - The Books of Contemplation (1992).pdf",
+ "pdf_vault": "Library/Judaica/Verman - The Books of Contemplation (1992).pdf",
+ "catalog": "Catalog/Judaica/Verman - The Books of Contemplation",
+ "route": "pymupdf",
+ "title": "The Books of Contemplation",
+ "authors": [
+  "Mark Verman"
+ ],
+ "byline": "Mark Verman. State University of New York Press, 1992.",
+ "folder": "Library/Judaica/The Books of Contemplation (Verman)",
+ "index_name": "The Books of Contemplation (Verman)",
+ "prefix": "The Books of Contemplation",
+ "out": "/home/claude/p4/out",
+ "date": "2026-10-22",
+ "ctype": "book",
+ "single": false,
+ "text_source": "the PDF's earlier OCR text layer (a scan), PyMuPDF; the 34 pages with Hebrew read by a fresh OCR (Tesseract 5: heb on the Hebrew pages, heb+eng on the mixed ones)",
+ "callout": "> [!note] Text from the PDF's OCR layer\n> This text is the scan's earlier OCR layer; the 34 pages with Hebrew were read again by OCR with the Hebrew model. The English is reliable but may have misread words. The Hebrew is mostly right but has misread letters (ם as ס, ח as ת), and its line and note numbers lose digits. For exact Hebrew, check the PDF (the *Open the PDF* button on the catalog note).",
+ "toc": [
+  [
+   1,
+   "Contents",
+   7
+  ],
+  [
+   1,
+   "Preface",
+   10
+  ],
+  [
+   1,
+   "Acknowledgments",
+   12
+  ],
+  [
+   1,
+   "1. Introduction to The Book of Contemplation, The Fountain of Wisdom, and Related Texts",
+   14
+  ],
+  [
+   1,
+   "2. The Books of Contemplation and The Fountain of Wisdom",
+   44
+  ],
+  [
+   1,
+   "3. Cosmological Theories of the Circle of Contemplation",
+   134
+  ],
+  [
+   1,
+   "4. Historical Dimensions",
+   178
+  ],
+  [
+   1,
+   "5. Historical Connections",
+   206
+  ],
+  [
+   1,
+   "Appendix I - Contemplation's Subtexts",
+   224
+  ],
+  [
+   1,
+   "Appendix II - Textual Relationships",
+   252
+  ],
+  [
+   1,
+   "Selected Bibliography",
+   262
+  ],
+  [
+   1,
+   "Index",
+   266
+  ]
+ ],
+ "ocr_ranges": [
+  [
+   47,
+   47,
+   "heb+eng"
+  ],
+  [
+   48,
+   48,
+   "heb"
+  ],
+  [
+   49,
+   49,
+   "heb+eng"
+  ],
+  [
+   78,
+   78,
+   "heb+eng"
+  ],
+  [
+   79,
+   79,
+   "heb+eng"
+  ],
+  [
+   80,
+   80,
+   "heb"
+  ],
+  [
+   81,
+   81,
+   "heb"
+  ],
+  [
+   94,
+   94,
+   "heb+eng"
+  ],
+  [
+   103,
+   103,
+   "heb+eng"
+  ],
+  [
+   104,
+   104,
+   "heb"
+  ],
+  [
+   105,
+   105,
+   "heb"
+  ],
+  [
+   106,
+   106,
+   "heb"
+  ],
+  [
+   107,
+   107,
+   "heb"
+  ],
+  [
+   108,
+   108,
+   "heb"
+  ],
+  [
+   109,
+   109,
+   "heb+eng"
+  ],
+  [
+   110,
+   110,
+   "heb"
+  ],
+  [
+   111,
+   111,
+   "heb"
+  ],
+  [
+   126,
+   126,
+   "heb"
+  ],
+  [
+   215,
+   215,
+   "heb+eng"
+  ],
+  [
+   220,
+   220,
+   "heb"
+  ],
+  [
+   226,
+   226,
+   "heb"
+  ],
+  [
+   227,
+   227,
+   "heb"
+  ],
+  [
+   228,
+   228,
+   "heb"
+  ],
+  [
+   230,
+   230,
+   "heb"
+  ],
+  [
+   232,
+   232,
+   "heb"
+  ],
+  [
+   234,
+   234,
+   "heb"
+  ],
+  [
+   235,
+   235,
+   "heb+eng"
+  ],
+  [
+   237,
+   237,
+   "heb"
+  ],
+  [
+   239,
+   239,
+   "heb"
+  ],
+  [
+   242,
+   242,
+   "heb"
+  ],
+  [
+   243,
+   243,
+   "heb+eng"
+  ],
+  [
+   244,
+   244,
+   "heb"
+  ],
+  [
+   246,
+   246,
+   "heb"
+  ],
+  [
+   248,
+   248,
+   "heb+eng"
+  ]
+ ]
+}

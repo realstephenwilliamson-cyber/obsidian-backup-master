@@ -35,6 +35,9 @@ vyaktāvyaktaṃ tasmād galite tasmiṃstadavyaktam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 158–159)
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.118]]
+
 *Lead-in:* नन्वाद्यमेव परस्य विश्रान्तिस्थानं न तु विपर्ययः -- इत्यत्र किं निबन्धनम् ? -- इत्याशङ्क्याह --
 
 > आत्माख्यं यद् व्यक्तं नरलिङ्गं तत्र विश्वमर्पयतः ।

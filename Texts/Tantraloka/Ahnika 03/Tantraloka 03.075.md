@@ -37,6 +37,11 @@ jñeyāṃśaḥ pronmiṣankṣobhaṃ yadaiti balavattvataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 171–173)
+> ![[Tantraloka Dyczkowski v02 06 - Chapter Three, part 3#Viveka on 3.74–75]]
+>
+> ![[Tantraloka Dyczkowski v02 06 - Chapter Three, part 3#Viveka on 3.75–76]]
+
 *Lead-in:* इहेच्छाशक्तिवत् ज्ञानशक्तेरपि ज्ञेयाधिक्यानाधिक्याभ्यां द्वैधम् । तत्र यज्ज्ञेयस्यानाधिक्ये स्वरूपं तत् निर्णीतम् । आधिक्ये पुनः स्वरूपं निरूपयति --
 
 > ज्ञेयांशः प्रोन्मिषन्क्षोभं यदैति बलवत्त्वतः ॥

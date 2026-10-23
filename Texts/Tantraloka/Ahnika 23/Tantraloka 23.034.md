@@ -31,6 +31,9 @@ tatra hṛccakramāpūrya japenmantraṃ jvalatprabham || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 314)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.33–35]]
+
 > हृच्चक्रादुत्थिता सूक्ष्मा शशिस्फटिकसंनिभा ।
 > लेखाकारा नादरूपा प्रशान्ता चक्रपङ्क्तगा ॥
 > द्वादशान्ते निरूढा सा सौषुम्ने त्रिपथान्तरे ।

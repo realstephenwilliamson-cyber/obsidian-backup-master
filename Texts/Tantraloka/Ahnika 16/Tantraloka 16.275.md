@@ -37,6 +37,11 @@ tanmantra eva śabdaḥ sa paraṃ tatra ghaṭādivat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 122–123)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.275]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.275 (2)]]
+
 *Lead-in:* ननु यद्येवं तद्विनापि मन्त्रं मन्त्रार्थभावनातारतम्यभाजः सञ्जल्पमात्रादेव तत्सिद्धिर्भवन्ती कथमपह्नूयते?--इत्याशङ्क्याह- -
 
 > मन्त्रार्पितमनाः किञ्चिद्वदन्यत्तु विषं हरेत् ।

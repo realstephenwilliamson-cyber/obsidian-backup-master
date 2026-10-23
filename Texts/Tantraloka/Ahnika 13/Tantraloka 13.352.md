@@ -31,6 +31,9 @@ tathottarottarajñānasiddhiprepsuḥ samāśrayan || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 340–341)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.351–353]]
+
 > यथा तन्मण्डलासीनो मण्डलान्तरभूपतिम् ॥
 > स्वमण्डलजिगीषुः सन्सेवमानो विनश्यति ।
 > तथोत्तरोत्तरज्ञानसिद्धिप्रेप्सुः समाश्रयन् ॥

@@ -33,6 +33,11 @@ nanvasti svaprakāśe'pi śive vedyatvamīdṛśaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 369–370)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.116–117]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.117–118]]
+
 *Lead-in:* ननु शकृद्विभातोऽयमात्मा"इत्याद्युपदेशान्यथानुपपत्या स्वप्रकाशेऽपि शिवे वेद्यत्वमस्ति, इति कथमुक्तम् ङ मेयः शिवः"इति? - - इत्याशङ्क्याह --
 
 > नन्वस्ति स्वप्रकाशेऽपि शिवे वेद्यत्वमीदृशः ॥

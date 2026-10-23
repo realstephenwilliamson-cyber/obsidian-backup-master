@@ -31,5 +31,8 @@ raṇareṇurvīrajalaṃ vīrabhasma mahāmarut |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 51–52)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.66–68]]
+
 Jayaratha comments on this verse together with 15.68: see [[Tantraloka 15.068#Viveka|15.68]].
 

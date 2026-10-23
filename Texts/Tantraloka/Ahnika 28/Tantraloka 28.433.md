@@ -31,6 +31,9 @@ tasmātprayatnataḥ kāryo guruyāgo yathābalam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 198)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.433]]
+
 *Lead-in:* एतदेव व्यतिरेकमुखेनापि द्रढयति--
 
 > अकृत्वा गुरुयागं तु कृतमप्यकृतं यतः ।

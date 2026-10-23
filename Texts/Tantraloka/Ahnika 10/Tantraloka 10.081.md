@@ -31,6 +31,9 @@ sahyate kiṃ kṛtaṃ tarhi proktakalpanayā'nayā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 347)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.80–81]]
+
 > उच्यते परिपूर्णं चेद्भावीयं रूपमुच्यते ।
 > तद्विभुर्भैरवो देवो भगवानेव भण्यते ॥
 > अथ तन्निजमाहात्म्यकल्पितोंऽशांशिकाक्रमः ।

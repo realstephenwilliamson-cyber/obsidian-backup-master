@@ -37,6 +37,11 @@ nirayebhyaḥ purā kālavahnervyaktiryatastataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 363–365)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.140–141]]
+>
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.141–142]]
+
 *Lead-in:* ननु सर्वेषां भुवनेश्वराणामधोऽध एव सर्वत्र सृष्टिसंहारकारित्वं श्रूयते; वक्ष्यते च पुरस्तात्तदिदं पुनः कस्मादन्यथोक्तम् -- इत्याशङ्क्याह --
 
 > निरयेभ्यः पुरा कालवह्नेर्व्यक्तिर्यतस्ततः ॥

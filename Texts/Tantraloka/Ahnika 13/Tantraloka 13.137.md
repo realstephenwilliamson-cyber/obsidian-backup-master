@@ -31,6 +31,9 @@ kasyāpi dārḍhyamanyasya yuktyādyaiḥ kevaletaraiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 208–209)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.137]]
+
 *Lead-in:* ननु आमुखे कम्पमानमपि ज्ञानं स्वयमेव क्कचिद्यथायथं दार्ढ्यं गच्छत् दृष्टं तत्किं युक्त्याद्यपेक्षणेन? -- इत्याशङ्क्याह --
 
 > कम्पमानं हि विज्ञानं स्वयमेव पुनर्व्रजेत् ।

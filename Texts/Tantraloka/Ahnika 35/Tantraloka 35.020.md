@@ -31,6 +31,9 @@ svakṛtatvavaśādeva sarvavitsa hi śaṅkaraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 201–202)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.19–20]]
+
 > प्रसिद्धिश्चाविगानोत्था प्रतीतिः शब्दनात्मिका ॥
 > मातुः स्वभावो यत्तस्यां शङ्कते नैष जातुचित् ।
 > स्वकृतत्ववशादेव सर्ववित्स हि शङ्करः ॥

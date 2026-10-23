@@ -37,6 +37,9 @@ ityuktyā mālinīśāstre sūcitāsau maheśinā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 199)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.1]]
+
 *Lead-in:* इदानीं श्लोकार्धेन सद्योनिर्वाणदीक्षां निरूपयितुं प्रतिजानीते--
 
 > अथ सद्यःसमुत्क्रान्तिप्रदा दीक्षा निरूप्यते ।

@@ -33,6 +33,13 @@ prokṣitasya śiśornyastaproktaśodhyādhvapaddhateḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 361–363)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 29.204–206.*
+>
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.201–202]]
+>
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.204–206]]
+
 *Lead-in:* इति । तेनेति--काकाक्षिवद्योज्यम्, तत् तेनेति--पातेन हेतुना । अत्रेति पुत्रकदीक्षायाम् । ईदृक्--वक्ष्यमाणः ॥ तमेव आह--
 
 Jayaratha comments on this verse together with 29.201: see [[Tantraloka 29.201#Viveka|29.201]].

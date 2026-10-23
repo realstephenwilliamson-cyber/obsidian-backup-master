@@ -35,6 +35,9 @@ nirāvaraṇamābhāti bhātyāvṛtanijātmakaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 243–244)
+> ![[Tantraloka Dyczkowski v01 07 - Chapter One, part 6#Viveka on 1.93–94]]
+
 *Lead-in:* अत एवाह—
 
 Jayaratha comments on this verse together with 1.94: see [[Tantraloka 01.094#Viveka|1.94]].

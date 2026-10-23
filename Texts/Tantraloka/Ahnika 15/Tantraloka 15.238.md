@@ -31,6 +31,9 @@ saṃvidaḥ sṛṣṭidharmitvādādyāmeti taraṅgitām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 144–145)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.238–239]]
+
 *Lead-in:* तत्र अस्य विश्रान्त्या किं स्यात्?--इत्याशङ्क्य आह--
 
 > तस्मिन्ध्रुवे निस्तरङ्गे समापत्तिमुपागतः ।

@@ -33,6 +33,11 @@ kṣaṇāntaraṃ sadṛk sūte iti cetsthirataiva sā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 159–160)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.57]]
+>
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.57 (2)]]
+
 *Lead-in:* अहेतुत्वे चास्य द्वितीयक्षणपरिसंख्यातो नाशः, इत्यनारब्धपरिसमाप्त एव संसारः स्यात् -- इत्याह -
 
 > अहेतुकोऽस्य नाशश्चेत्प्रागेवैष विनश्यतु ।

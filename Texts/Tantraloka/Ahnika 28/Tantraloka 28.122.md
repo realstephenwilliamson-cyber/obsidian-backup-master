@@ -31,6 +31,9 @@ tulopalakṣitasyāntyaṃ kārtikasya dinaṃ matam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 65)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.121–123]]
+
 > आषाढशुक्लान्मिथुनकर्कटस्थे रवौ विधिः ॥
 > कर्तव्यः सोऽनिरोधेन यावत्सा तुलपूर्णिमा ।
 > तुलोपलक्षितस्यान्त्यं कार्तिकस्य दिनं मतम् ॥

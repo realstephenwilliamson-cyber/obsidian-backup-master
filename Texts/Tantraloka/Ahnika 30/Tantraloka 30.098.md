@@ -31,6 +31,9 @@ pratyekamathavā dvābhyāṃ sarvairvā vidhiruttamaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 56)
+> ![[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#Viveka on 30.96–98]]
+
 > अग्निमण्डलमध्यस्थभैरवानलतापिताः ।
 > वशमायान्ति शाकिन्यः स्थानमेतेन चेद्दहेत् ॥
 > विसर्जयेत्ताः प्रथममन्यथा च्छिद्रयन्ति ताः ।

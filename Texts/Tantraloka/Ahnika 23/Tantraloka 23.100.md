@@ -33,6 +33,11 @@ eṣā karmapradhānānāṃ gurūṇāṃ gatirucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 339–340)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.99–100]]
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.100–101]]
+
 *Lead-in:* अत्रापि विषयविभागमाह--
 
 > एषा कर्मप्रधानानां गुरूणां गतिरुच्यते ॥

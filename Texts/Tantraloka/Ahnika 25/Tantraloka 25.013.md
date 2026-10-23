@@ -31,6 +31,9 @@ tadā mātuḥ pituḥ śaktervāmadakṣāntarālagāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 361)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.13–14]]
+
 *Lead-in:* अत्रैव विशेषमाह--
 
 > पुत्रकोऽपि यदा कस्मैचन स्यादुपकारकः ।

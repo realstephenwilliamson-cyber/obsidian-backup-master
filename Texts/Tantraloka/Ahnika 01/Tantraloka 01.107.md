@@ -35,6 +35,9 @@ sṛṣṭau sthitau laye turye tenaitā dvādaśoditāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 266–269)
+> ![[Tantraloka Dyczkowski v01 08 - Chapter One, part 7#Viveka on 1.107]]
+
 *Lead-in:* तदेवं प्रतिज्ञाय शास्त्रार्थगर्भीकारेण सम्प्रति अवतारयितुमाह --
 
 > तस्य शक्तय एवैतास्तिस्रो भान्ति परादिकाः ।

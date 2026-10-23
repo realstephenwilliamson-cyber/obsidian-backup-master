@@ -36,6 +36,11 @@ yastvakalpitarūpo'pi saṃvādadṛḍhatākṛte || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 91–92)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.74–76]]
+>
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.76–77]]
+
 *Lead-in:* ननु इह स्वतः प्रवृत्ततर्कस्यापि अकल्पितस्य यन्नाम शास्त्रादिसापेक्षत्वं प्रागुक्तं, तत् किमस्य, दूषणमुत भूषणम् ? इत्याशङ्क्याह --
 
 > यस्त्वकल्पितरूपोऽपि संवाददृढताकृते ॥

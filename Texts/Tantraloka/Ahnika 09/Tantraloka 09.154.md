@@ -33,6 +33,11 @@ yathā ca māyā devasya śaktirabhyeti bhedinam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 135–136)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.154]]
+>
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.154–155]]
+
 *Lead-in:* तदाह --
 
 > अत एवाध्वनि प्रोक्ता पूर्वं माया द्विधा स्थिता ।

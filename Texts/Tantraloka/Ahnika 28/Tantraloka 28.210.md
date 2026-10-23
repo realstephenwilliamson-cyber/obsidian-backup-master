@@ -33,6 +33,11 @@ antaḥsthodārasaṃvittiśakterbāhyāṃ vināpi tām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 95–96)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.209–210]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.210–212]]
+
 *Lead-in:* सहकारिणश्च कदाचिदसंभवेऽपि न काचित् क्षतिः--इत्याह--
 
 Jayaratha comments on this verse together with 28.209: see [[Tantraloka 28.209#Viveka|28.209]].

@@ -33,6 +33,11 @@ tadyugalamūrdhvadhāmapraveśasaṃsparśajātasaṅkṣobham || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 307–309)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.113–114]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.114–115]]
+
 *Lead-in:* ननु एवमपि अस्य किं स्यात् ?--इत्याशङ्क्य आह--
 
 > तद्युगलमूर्ध्वधामप्रवेशसंस्पर्शजातसङ्क्षोभम् ॥

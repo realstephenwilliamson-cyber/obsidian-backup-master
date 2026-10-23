@@ -31,6 +31,9 @@ granthāntaraṃ madhyatīvraśaktipātāṃśasūcakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 257–258)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.212]]
+
 *Lead-in:* एवमेतदुपसंहरन्नन्यदुपक्षिपति --
 
 > एवं प्राग्विषयो ग्रन्थ इयानन्यत्र तु स्फुटम् ।

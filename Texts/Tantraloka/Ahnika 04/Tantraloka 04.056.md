@@ -34,6 +34,9 @@ evamādyairanekaiśca prakāraiḥ parameśvaraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 73–74)
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.55–57]]
+
 > तस्य स्वेच्छाप्रवृत्तत्वात् कारणानन्ततेष्यते ।
 > कदाचिद्भक्तियोगेन कर्मणा विद्ययापि वा ॥
 > ज्ञानधर्मोपदेशेन मन्त्रैर्वा दीक्षयापि वा ।

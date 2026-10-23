@@ -31,5 +31,8 @@ sa eva śivanātho'tra pṛthivī brahma tanmatam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 396–397)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.167–169]]
+
 Jayaratha comments on this verse together with 10.169: see [[Tantraloka 10.169#Viveka|10.169]].
 

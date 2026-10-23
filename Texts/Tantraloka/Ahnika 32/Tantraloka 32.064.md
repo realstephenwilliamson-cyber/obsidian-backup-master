@@ -31,6 +31,9 @@ ekā mudrā khecarī ca mudraughaḥ prāṇito yayā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 166)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.64]]
+
 *Lead-in:* अत एव आह--
 
 > एकं सृष्टिमयं बीजं यद्वीर्यं सर्वमन्त्रगम् ।

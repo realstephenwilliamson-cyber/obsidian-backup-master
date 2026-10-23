@@ -34,5 +34,8 @@ yasmāt sabījadīkṣā saṃskṛtapuruṣasya samayalopādye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 87)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.201–203]]
+
 Jayaratha comments on this verse together with 16.203: see [[Tantraloka 16.203#Viveka|16.203]].
 

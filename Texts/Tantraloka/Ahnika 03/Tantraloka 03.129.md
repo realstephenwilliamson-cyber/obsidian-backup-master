@@ -37,6 +37,11 @@ pākādistu kriyā kālaparicchedātkramocitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 236–237)
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.128–129]]
+>
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.129–130]]
+
 *Lead-in:* ननु संविन्नाम क्रिया, तस्याश्च क्रियान्तरवत् कालावच्छेदोऽवश्यसंभाव्यः इति कथमस्याः कालक्रमविवर्जितत्वमुक्तम् ? -- इत्याशङ्क्य लौकिक्या एव पाकादेः क्रियायाः कालावच्छेदोऽस्ति, न तु अस्याः, इति दर्शयितुमाह --
 
 > पाकादिस्तु क्रिया कालपरिच्छेदात्क्रमोचिता ॥

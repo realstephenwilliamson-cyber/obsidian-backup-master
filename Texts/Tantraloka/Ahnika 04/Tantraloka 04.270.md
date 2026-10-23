@@ -36,6 +36,11 @@ evaṃ kṣetrapraveśādi saṃtānaniyamāntataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 376–377)
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.269–270]]
+>
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.270–271]]
+
 *Lead-in:* एवमर्थमुखेन ग्रन्थं व्याख्याय समन्वयसङ्गत्यापि योजयति --
 
 > एवं क्षेत्रप्रवेशादि संताननियमान्ततः ॥

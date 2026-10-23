@@ -31,5 +31,8 @@ ye tūjjhitatadutkarṣāste taduttarabhāginaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 118–119)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.269–272]]
+
 Jayaratha comments on this verse together with 28.272: see [[Tantraloka 28.272#Viveka|28.272]].
 

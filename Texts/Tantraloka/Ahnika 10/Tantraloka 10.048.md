@@ -33,6 +33,11 @@ aprakāśita evārthaḥ prakāśatvopacārataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 324–325)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.46–48]]
+>
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.48–49]]
+
 *Lead-in:* तदाह -
 
 > अप्रकाशित एवार्थः प्रकाशत्वोपचारतः ॥

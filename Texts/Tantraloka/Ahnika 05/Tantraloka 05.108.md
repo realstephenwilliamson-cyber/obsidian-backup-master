@@ -37,6 +37,11 @@ pradarśite'sminnānandaprabhṛtau pañcake yadā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 144–146)
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.107–108]]
+>
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.108–109]]
+
 *Lead-in:* ननु योगिनः समग्रलक्षणोदये महाव्याप्तिर्भवेत् -- इत्युक्तं, यदा पुनरेकैकमेव लक्षणमुदियात् तदास्य किं भवेत् ? -- इत्याशङ्क्याह --
 
 > प्रदर्शितेऽस्मिन्नानन्दप्रभृतौ पञ्चके यदा ॥

@@ -31,6 +31,9 @@ yadyapekṣāvirahitastatra prāgdattamuttaram || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 166)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.66]]
+
 *Lead-in:* यदि च नामास्य स्वशक्तिप्रतिबन्ध एव पाकस्तत्कोऽस्याः प्रतिबन्धकः, ईश्वरश्चेत् ? -- किमसौ निरपेक्षः प्रवर्तते किमुत कर्मसाम्यमपेक्ष्येति ? निरपेक्षश्चेत् सर्वान्प्रत्येव तथा स्यात् -- इत्याह --
 
 > रोद्ध्र्याश्च शक्तेः कस्तस्य प्रतिबन्धक ईश्वरः ।

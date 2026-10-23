@@ -34,6 +34,9 @@ tādātmyabhāvanāyogo na phalāya na bhaṇyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 122–123)
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.102]]
+
 *Lead-in:* यन्माहात्म्यादवधानशालिनां स्वप्नानुभूतमपि वस्तु अर्थक्रियापर्यन्तां साक्षात्काररूपतामेति, इत्याह --
 
 > अत एव स्वप्नकाले श्रुते तत्रापि वस्तुनि ।

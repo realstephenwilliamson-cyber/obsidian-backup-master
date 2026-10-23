@@ -33,6 +33,11 @@ lopayeccaiva marmāṇi antarnāḍivivarjitān || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 122)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.136–137]]
+>
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.137–138]]
+
 > रन्ध्रविप्रशराग्नींश्च लुप्येद्बाह्यान्तरं क्रमात् ।
 > मर्माणि च चतुर्दिक्षु मध्याद् द्वारेषु सुन्दरि ॥
 > वह्निभूतमुनिव्योमबाह्यगर्भे पुरीषु च ।

@@ -33,6 +33,11 @@ puṃsaḥ prati ca sā bhogyaṃ sūte'nādīn pṛthagvidhān || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 125–126)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.5–6]]
+>
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.6]]
+
 > पुंसः प्रति च सा भोग्यं सूतेऽनादीन् पृथग्विधान् ॥
 
 भोग्यमिति कलादिक्षित्यन्तम् । एवंप्रसवश्चास्या न स्वार्थं जाड्यात्, नापीश्वरार्थं तस्य शुद्धबोधैकरूपत्वात् तत् किं प्रति? -- इत्याशङ्क्योक्तम् -- अनादीन् पृथग्विधान् पुंसः प्रतीति ॥

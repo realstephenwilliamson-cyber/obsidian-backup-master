@@ -320,7 +320,7 @@ it shows that HVYH is upon each-and-every *sephirah*,
 [^21]: 91
 [^22]: 91
 [^23]: *koḥo*
-[^24]: *BT* Shabbat 119b
+[^24]: *BT* [[Shabbat 119#119b|Shabbat 119b]]
 [^25]: power
 [^26]: X See ibid.
 [^27]: *atah*

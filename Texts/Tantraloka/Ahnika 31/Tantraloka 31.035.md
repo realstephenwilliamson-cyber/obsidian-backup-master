@@ -31,6 +31,9 @@ candrasyetthaṃ dvādaśadhā vartanā bhramabhedinī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 82–83)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.33–36]]
+
 > स्पष्टशृङ्गमथो कुर्याद्यदि वा वैपरीत्यतः ॥
 > उन्मुखं चन्द्रयुग्मं वा भङ्क्त्वा कुर्याच्चतुष्टयम् ।
 > कुटिलो मध्यतः स्पष्टोऽधोमुखः पार्श्वगः स्थितः ॥

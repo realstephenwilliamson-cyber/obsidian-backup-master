@@ -34,6 +34,11 @@ taditthameṣa nirṇītaḥ kalādervistaro'dhvanaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 98)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.118]]
+>
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 11.118 (continued)]]
+
 *Lead-in:* इदानीमाह्निकार्थमेव श्लोकस्य प्रथमार्धेनोपसंहरति --
 
 > तदित्थमेष निर्णीतः कलादेर्विस्तरोऽध्वनः ॥

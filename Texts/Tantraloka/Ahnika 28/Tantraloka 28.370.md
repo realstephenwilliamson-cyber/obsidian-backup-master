@@ -31,6 +31,9 @@ dārḍhyadāyīti tallābhadine vaiśeṣikārcanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 166)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.368–370]]
+
 > उत्सवोऽपि हि यः कश्चिल्लौकिकः सोऽपि संमदम् ।
 > संविदब्धितरङ्गाभं सूते तदपि पर्ववत् ॥
 > एतेन च विपद्ध्वंसप्रमोदादिषु पर्वता ।

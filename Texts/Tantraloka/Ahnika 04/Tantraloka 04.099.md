@@ -34,6 +34,9 @@ utplāvyate tadvipakṣapātāśaṅkāvyapohanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 120)
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.99]]
+
 *Lead-in:* ननु यद्यत्र अभ्यस्यते तच्चेत् तत्र संस्कारदार्ढ्यात् पाटवातिशयं यायात्, इत्यस्तु को दोषः, तत् पुनरन्यव्यपोहनमाधातुं कथमुत्सहते -- येन कार्यान्तरमपि उत्पद्येत ? इत्याशङ्का शमयितुं दृष्टान्तयति --
 
 > देह उत्प्लुतिसंपात धर्मोज्जिगमिषारसात् ।

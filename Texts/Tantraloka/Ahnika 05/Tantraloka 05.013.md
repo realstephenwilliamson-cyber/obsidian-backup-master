@@ -36,6 +36,11 @@ viśvarūpāvibheditvaṃ śuddhatvādeva jāyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 12–14)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.12–13]]
+>
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.13–14]]
+
 *Lead-in:* नन्वेकमेव चैतन्यं कथमनन्तबुद्ध्यादिरूपाविभिन्नं भवेत् ? -- इत्याशङ्क्याह --
 
 > विश्वरूपाविभेदित्वं शुद्धत्वादेव जायते ॥

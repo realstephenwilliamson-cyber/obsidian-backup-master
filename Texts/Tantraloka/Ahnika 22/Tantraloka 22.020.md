@@ -31,6 +31,9 @@ bahurūpo'tha netrākhyaḥ sapta sādhāraṇā amī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 284–285)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.20–22]]
+
 *Lead-in:* ननु इह के नाम साधारणा मन्त्राः, यन्मध्यादपि एकतमेन ईशं पूजयेत् ?--इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 22.22: see [[Tantraloka 22.022#Viveka|22.22]].

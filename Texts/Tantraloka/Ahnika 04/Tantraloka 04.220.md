@@ -34,6 +34,9 @@ viṣāpahārimantrādisaṃnaddho bhakṣayannapi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 316–318)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.217–221]]
+
 > नात्र शुद्धिर्न चाशुद्धिर्न भक्ष्यादिविचारणम् ॥
 > न द्वैतं नापि चाद्वैतं लिङ्गपूजादिकं न च ।
 > न चापि तत्परित्यागो निष्परिग्रहतापि वा ॥

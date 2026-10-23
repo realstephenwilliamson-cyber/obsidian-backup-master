@@ -35,6 +35,9 @@ prasphuṭenaiva rūpeṇa bhāvī so'ntarbhaviṣyati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 407)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.231]]
+
 *Lead-in:* इत्याद्युक्तेः दीक्षादेः क्रियाया अपि मुक्त्युपायत्वमुक्तम् इति सा किमुपायान्तरमतिरिक्तम्, उत अत्रैव कुत्रचिदन्तर्भावमेति ? इत्याशङ्क्याह --
 
 > अन्ते ज्ञानेऽत्र सोपाये समस्तः कर्मविस्तरः ।

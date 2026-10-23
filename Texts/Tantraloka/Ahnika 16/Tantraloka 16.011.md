@@ -34,6 +34,9 @@ pūjyamādhāraśaktyādi śūlamūlātprabhṛtyalam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 4–5)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.11–12]]
+
 > तस्माद्यथातथा यागं यावच्चक्रेण संमितम् ।
 > पूजयेद्येन तेनात्र त्रिशूलत्रयमालिखेत् ॥
 > त्रिशूलत्रितये देवीत्रयं पर्यायवृत्तितः ।

@@ -37,6 +37,11 @@ svacchandāstāḥ parāścānyāḥ pare vyomni vyavasthitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 258–259)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.241–243]]
+>
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.243–244]]
+
 *Lead-in:* न चेयदन्तमेवासां व्याप्तिः -- इत्याह --
 
 > स्वच्छन्दास्ताः पराश्चान्याः परे व्योम्नि व्यवस्थिताः ॥

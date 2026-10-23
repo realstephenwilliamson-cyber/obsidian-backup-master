@@ -31,6 +31,9 @@ saṅkarṣiṇī tadantānte saṃhārāpyāyakāriṇī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 262–266)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.69–70]]
+
 > बीजं सा पीडयते रसशल्कविभागतोऽत्र कुण्डलिनी ।
 > अध्युष्टपीठनेत्री कन्दस्था विश्वतो भ्रमति ॥
 > इष्ट्वा चक्रोदयं त्वित्थं मध्ये पूज्या कुलेश्वरी ।

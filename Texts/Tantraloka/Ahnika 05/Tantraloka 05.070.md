@@ -35,6 +35,9 @@ enāṃ visarganiḥṣyandasaudhabhūmiṃ prapadyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 80–81)
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.70]]
+
 *Lead-in:* नन्वेवमर्चनादि सिद्ध्येत् यद्येषा विसर्गभूरासाद्येत, तदासादन एव हि महान् संरम्भो यो युगसहस्रैरपि पारं न यायात् -- इत्यपर्यवसितमेव शास्त्रार्थानुष्ठानं स्यात् ? -- इत्याशङ्क्याह --
 
 > आनन्दनाडीयुगलस्पन्दनावहितौ स्थितः ।

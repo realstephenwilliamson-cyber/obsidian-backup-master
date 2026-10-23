@@ -41,4 +41,4 @@ Pritzker translation (Matt): [[Zohar 5.05 - Parashat Terumah#^z2-155a|Parashat T
 
 **Terumah 47:534** And, as the Supernal Glory has no lack of “holy ointment”, from the mystery of the world to come, the man whose works are “white” will not lack this “holy ointment”. ^terumah-47-534
 
-[^1]: Cf T. B. Hagigah, 26b.
+[^1]: Cf T. B. [[Chagigah 26#26b|Hagigah, 26b]].

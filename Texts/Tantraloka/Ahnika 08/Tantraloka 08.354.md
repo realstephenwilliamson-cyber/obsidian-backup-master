@@ -37,6 +37,11 @@ patyurapasarpati yataḥ kāraṇatā kāryatā ca siddhebhyaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 344–345)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.353–354]]
+>
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.354–355]]
+
 *Lead-in:* तन्निवृत्तिमेव व्याचष्टे --
 
 > पत्युरपसर्पति यतः कारणता कार्यता च सिद्धेभ्यः ॥

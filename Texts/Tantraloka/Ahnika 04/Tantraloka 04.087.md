@@ -34,6 +34,9 @@ iti pañca yamāḥ sākṣātsaṃvittau nopayoginaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 104–105)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.87–88]]
+
 *Lead-in:* ननु समानेऽपि योगाङ्गत्वे तर्कस्यैवोत्तमं योगाङ्गत्वं, न पुनर्यमादीनामित्यत्र किं निमित्तम् ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 4.88: see [[Tantraloka 04.088#Viveka|4.88]].

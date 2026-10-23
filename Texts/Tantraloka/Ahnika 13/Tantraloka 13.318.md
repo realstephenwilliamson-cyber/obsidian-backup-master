@@ -33,6 +33,11 @@ svadṛṣṭau paradṛṣṭau ca samayollaṅghanādasau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 322–323)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.317–318]]
+>
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.318–319]]
+
 *Lead-in:* ननु एवमपि उभयभ्रष्टतायां को हेतुः? -- इत्याशङ्क्याह --
 
 > स्वदृष्टौ परदृष्टौ च समयोल्लङ्घनादसौ ॥

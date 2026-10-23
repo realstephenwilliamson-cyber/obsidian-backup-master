@@ -33,6 +33,11 @@ tasmātprakāśa evāyaṃ pūrvoktaḥ paramaḥ śivaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 329–331)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.54–55]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.55–56]]
+
 *Lead-in:* तदाह -
 
 > तस्मात्प्रकाश एवायं पूर्वोक्तः परमः शिवः ॥

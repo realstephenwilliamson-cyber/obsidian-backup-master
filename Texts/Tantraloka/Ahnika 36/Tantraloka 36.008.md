@@ -31,6 +31,9 @@ sāṃhitakalpaskandāvanuttaraṃ vyāpakaṃ tridhā tisraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 223–224)
+> ![[Tantraloka Dyczkowski v11 10 - Chapter Thirty-Six#Viveka on 36.8–9]]
+
 *Lead-in:* पादादीनेव निर्दिशति--
 
 Jayaratha comments on this verse together with 36.9: see [[Tantraloka 36.009#Viveka|36.9]].

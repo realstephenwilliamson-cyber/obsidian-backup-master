@@ -33,6 +33,11 @@ kurvannadhikriyāṃ śāstralaṅghī nigrahabhājanam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 326–327)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.325–326]]
+>
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.326]]
+
 *Lead-in:* नन्वेवमस्तु शैववैष्णवादीनामाधरोत्तर्यं शैवादीनामेव पुनः समानेऽपि पारमेश्वरे शक्तिपाते परस्परस्य किं निमित्तम्? -- इत्याशङ्क्याह --
 
 > शक्तिपातबलादेव ज्ञानयोग्यविचित्रता ॥

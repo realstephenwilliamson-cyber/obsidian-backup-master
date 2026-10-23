@@ -31,6 +31,9 @@ prabhṛtyāvaiṣṇavādbauddhācchaivātsarvaṃ hi niṣṭhitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 210)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.30]]
+
 *Lead-in:* तदेवमेक एव अयमीश्वरप्रणीत आगमः, यत्र इदं लौकिकशास्त्रात्प्रभृति सर्वं विश्रान्तम्--इत्याह--
 
 > एक एवागमस्तस्मात्तत्र लौकिकशास्त्रतः ।

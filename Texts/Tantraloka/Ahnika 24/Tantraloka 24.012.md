@@ -31,6 +31,9 @@ tathaiva bodhayedenaṃ kriyājñānasamādhibhiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 348)
+> ![[Tantraloka Dyczkowski v09 15 - Chapter Twenty-Four#Viveka on 24.11–12]]
+
 > मन्त्रयोगादिभिर्ये च मारिता नरके तु ते ॥
 > कार्या तेषामिहान्त्येष्टिर्गुरुणातिकृपालुना ।
 > न मण्डलादिकं त्वत्र भवेत् श्माशानिके विधौ ॥

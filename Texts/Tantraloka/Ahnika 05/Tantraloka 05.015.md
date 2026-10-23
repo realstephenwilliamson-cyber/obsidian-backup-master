@@ -34,6 +34,9 @@ tathāpi nirvikalpe'sminvikalpo nāsti taṃ vinā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 14–17)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.14–16]]
+
 > अन्तः संविदि सत्सर्वं यद्यप्यपरथा धियि ॥
 > प्राणे देहेऽथवा कस्मात्संक्रामेत्केन वा कथम् ।
 > तथापि निर्विकल्पेऽस्मिन्विकल्पो नास्ति तं विना ॥

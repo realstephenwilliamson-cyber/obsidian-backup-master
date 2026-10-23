@@ -34,6 +34,9 @@ tasya viśvākṛtirdevī sā cāvacchedavarjanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 303)
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.199]]
+
 *Lead-in:* यस्तु न नियतार्थक्रियार्थी तस्यानवच्छिन्नमेव रूपमवभासते, इत्याह --
 
 > यस्तु संपूर्णहृदयो न फलं नाम वाञ्छति ।

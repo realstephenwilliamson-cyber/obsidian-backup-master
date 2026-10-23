@@ -34,6 +34,9 @@ dvādaśāntasamīpe tu yāsau pañcadaśī tuṭiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 316–317)
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.92–94]]
+
 > व्याख्यातः कृष्णपक्षो यस्तत्र प्राणगतः शशी ॥
 > आप्यायनात्मनैकैकां कलां प्रतितिथित त्यजेत् ।
 > द्वादशान्तसमीपे तु यासौ पञ्चदशी तुटिः ॥

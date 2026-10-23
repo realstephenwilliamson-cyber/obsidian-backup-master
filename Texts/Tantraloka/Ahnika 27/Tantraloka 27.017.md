@@ -31,5 +31,10 @@ tathā ca tatra tatroktaṃ lakṣaṇe pārameśvare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 408–409)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 27.21–22.*
+>
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.21–22]]
+
 Jayaratha comments on this verse together with 27.21: see [[Tantraloka 27.021#Viveka|27.21]].
 

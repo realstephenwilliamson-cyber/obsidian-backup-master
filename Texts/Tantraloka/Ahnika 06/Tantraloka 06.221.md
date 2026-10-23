@@ -35,6 +35,9 @@ gale hṛdi ca bindvarṇavisargau paritaḥ sthitau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 426–427)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.219–221]]
+
 > ह्रस्वार्णत्रयमेकैकं रव्यंगुलमथेतरत् ।
 > प्रवेश इति षड्वर्णाः सूर्येन्दुपथगाः क्रमात् ॥
 > इकारोकारयोरादिसन्धौ संध्यक्षरद्वयम् ।

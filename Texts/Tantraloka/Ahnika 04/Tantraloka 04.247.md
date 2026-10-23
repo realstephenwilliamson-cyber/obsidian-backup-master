@@ -36,6 +36,11 @@ bhakṣyādividhayo'pyenaṃ nyāyamāśritya carcitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 344–345)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.246–247]]
+>
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.247]]
+
 *Lead-in:* एवं शुद्ध्यशुद्धिविषये कृतं विचारमन्यत्रापि अतिदिशति --
 
 > भक्ष्यादिविधयोऽप्येनं न्यायमाश्रित्य चर्चिताः ॥

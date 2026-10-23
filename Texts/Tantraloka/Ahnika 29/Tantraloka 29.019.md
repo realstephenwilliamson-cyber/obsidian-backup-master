@@ -31,6 +31,9 @@ krameṇa kuryādathavā mātṛsadbhāvamantrataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 222–223)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.18–19]]
+
 > यागौको गन्धधूपाढ्यं प्रविश्य प्रागुदङ्मुखः ।
 > परया वाऽथ मालिन्या विलोमाच्चानुलोमतः ॥
 > दाहाप्यायमयीं शुद्धिं दीप्तसौम्यविभेदतः ।

@@ -31,6 +31,9 @@ vyāpriyeta na cāhetustadvṛttistanmito malaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 177)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.83–84]]
+
 *Lead-in:* एतदेव उपपादयति -
 
 Jayaratha comments on this verse together with 13.84: see [[Tantraloka 13.084#Viveka|13.84]].

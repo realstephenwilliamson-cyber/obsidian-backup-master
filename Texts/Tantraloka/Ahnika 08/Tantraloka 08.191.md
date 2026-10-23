@@ -35,6 +35,11 @@ tathā cāha mahādevaḥ śrīmatsvacchandaśāsane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 210–212)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.190–193]]
+>
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.190–193 (continued)]]
+
 *Lead-in:* किमत्र प्रमाणम् ? -- इत्याशङ्क्याह --
 
 > तथा चाह महादेवः श्रीमत्स्वच्छन्दशासने ॥

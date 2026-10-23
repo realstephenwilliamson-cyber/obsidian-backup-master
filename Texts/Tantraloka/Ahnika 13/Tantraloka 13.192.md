@@ -33,6 +33,11 @@ buddhitattvaṃ tu triguṇamuttamādhamamadhyamam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 242–243)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.192]]
+>
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.192–193]]
+
 *Lead-in:* ननु यद्येवं, तद्विवेकस्याप्यत्र कस्मात्कारणत्वमुक्तम् -- इत्याशङ्क्याह --
 
 > विवेकः सर्वभावानां शुद्धभावान्महाशयः ।

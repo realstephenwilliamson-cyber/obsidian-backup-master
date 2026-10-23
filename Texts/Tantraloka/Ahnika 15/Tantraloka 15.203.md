@@ -33,6 +33,11 @@ kramātsadāśivādhīśaḥ pañcamantratanuryataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 125–127)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.202–203]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.203–204]]
+
 *Lead-in:* तत्र शास्त्रीयं दिग्विभागमाह--
 
 > क्रमात्सदाशिवाधीशः पञ्चमन्त्रतनुर्यतः ॥

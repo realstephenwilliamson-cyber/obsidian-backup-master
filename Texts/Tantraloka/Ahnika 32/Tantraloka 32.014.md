@@ -31,5 +31,8 @@ anāme kuñcayetprājño bhrūbhaṅgaṃ tarjanīdvayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 145)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.13–16]]
+
 Jayaratha comments on this verse together with 32.15: see [[Tantraloka 32.015#Viveka|32.15]].
 

@@ -31,6 +31,9 @@ cakrasthāne krodhāt pāṣāṇasphoṭanena ripunāśaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 32–33)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.53–56]]
+
 > यत्पुनरूर्मिप्रभृतिनि शास्त्रे वेलोदितापि तत्काम्यम् ।
 > मुख्यतयोद्दिश्य विधिं तथा च तत्र पौषपर्वदिने ॥
 > कृत्वार्चनमर्धनिशि ध्यात्वा जप्त्वा बहिर्गतस्य यथा ।

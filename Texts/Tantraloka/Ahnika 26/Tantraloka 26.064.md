@@ -34,6 +34,11 @@ kṛtvādhāradharāṃ camatkṛtirasaprokṣākṣaṇakṣālitā- māttairm�
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 394)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 26.65.*
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.65]]
+
 > आनन्दामृतनिर्भरस्वहृदयानर्घार्घपात्रक्रमात् त्वां देव्या सह देहदेवसदने देवार्चयेऽहर्निशम् ॥
 
 > नानास्वादरसामिमां त्रिजगतीं हृच्चक्रयन्त्रार्पिताम् ऊर्ध्वाध्यस्तविवेकगौरवभरान्निष्पीड्य निःष्यन्दितम् ।

@@ -33,6 +33,11 @@ dehasantatigau bhedābhedau vijñānasantateḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 93–94)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.204–205]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.205–206]]
+
 *Lead-in:* ननु देहभेदे सति अन्यस्य अन्यत्र कथं स्वविशेषार्पणं न्याययम्?-- इत्याशङ्क्य आह--
 
 > देहसन्ततिगौ भेदाभेदौ विज्ञानसन्ततेः ॥

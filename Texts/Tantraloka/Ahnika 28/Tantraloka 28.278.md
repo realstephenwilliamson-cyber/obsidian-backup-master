@@ -31,6 +31,9 @@ adharāyataneṣvāsthā śritāste'tra tirohitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 121)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.277–278]]
+
 > नदीनगह्रदप्रायं यच्च पुण्यं न तन्मृतौ ।
 > उत्कृष्टं तन्मृतानां तु स्वर्गभोगोपभोगिता ॥
 > ये पुनः प्राप्तविज्ञानविवेका मरणान्तिके ।

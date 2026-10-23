@@ -31,6 +31,9 @@ kathyate hāṭakeśānapātālādhipacoditā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 57)
+> ![[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#Viveka on 30.100–101]]
+
 > तुलामेलकयोगः श्रीतन्त्रसद्भावशासने ।
 > य उक्तः शम्भुनाथेन स मया दर्शितः क्रमात् ॥
 > अथ वित्तविहीनानां प्रपन्नानां च तत्त्वतः ।

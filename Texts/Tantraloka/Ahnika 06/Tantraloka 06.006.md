@@ -34,6 +34,9 @@ kramākramau hi citraikakalanā bhāvagocare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 219–220)
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.6]]
+
 *Lead-in:* तदेवोपपादयति -
 
 > अध्वनः कलनं यत्तत्क्रमाक्रमतया स्थितम् ।

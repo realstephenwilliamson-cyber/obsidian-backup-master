@@ -92,9 +92,9 @@ While Swami Laksmanṇajoo was a great master of inner, yogic practice, in Nepal
 
 Pt. Vrajavallabha Dvivedi, former head of the Yogatantra Department at Saṁpūrṇānanda Sanskrit University, was an abiding source of inexhaustible knowledge. Indeed, his scholarly work, both in Sanskrit and Hindi, is formidable — ranging as it does through virtually every major Tantric tradition including not only Kashmiri Śaivism, but also Śaiva Siddhānta, Vīra Śaivism, Śrīvidyā, the Kaula Tantras, Vaiṣṇava Pañcarātra, the Buddhist Anuttarayoga Tantras and even Jain Tantrism. 
 
-In other areas of study, I cannot but recall with gratitude Pt. B. P. Tripathi, better known as Vāgīśa Śāstrī, former Director of the Research Department of Sarnpūrṇānanda Sanskrit University, who labored for years to teach me Sanskrit grammar both in the traditional manner through the Siddhāntakaumudī and through his own didactic method. 
+In other areas of study, I cannot but recall with gratitude Pt. B. P. Tripathi, better known as Vāgīśa Śāstrī, former Director of the Research Department of Saṁpūrṇānanda Sanskrit University, who labored for years to teach me Sanskrit grammar both in the traditional manner through the Siddhāntakaumudī and through his own didactic method. 
 
-Although I have not studied formally with Prof. K. D. Tripathi, retired dean of the Sanskrit college of Banaras Hindu University, I cannot but acknowledge that the many lectures I have heard him deliver and dialogues I have had with him over the years inspired and helped me very much to understand Pratyabhijñā, Bhartrhari’s philosophy of grammar, Abhinavagupta’s aesthetics and the Śaiva Āgamas. In a similar way, I had the good fortune to listen to many lectures and attend classes on the Nāṭyaśastra with Abhinavagupta’s commentary by the late Premalata Sharma, formerly Dean of 
+Although I have not studied formally with Prof. K. D. Tripathi, retired dean of the Sanskrit college of Banaras Hindu University, I cannot but acknowledge that the many lectures I have heard him deliver and dialogues I have had with him over the years inspired and helped me very much to understand Pratyabhijñā, Bhartṛhari’s philosophy of grammar, Abhinavagupta’s aesthetics and the Śaiva Āgamas. In a similar way, I had the good fortune to listen to many lectures and attend classes on the Nāṭyaśastra with Abhinavagupta’s commentary by the late Premalata Sharma, formerly Dean of 
 
 *[PDF 7]* ^pg7
 
@@ -104,7 +104,7 @@ exponent of Śrīvidyā.
 
 I owe a special thanks also to Bettina Bäumer whose dedication and scholarship in many fields has been an abiding source of inspiration and knowledge for me throughout the 50 years of our acquaintance. Of those who do not reside in Benares I gratefully acknowledge Prof. Navajivan Rastogi whose books and lectures have helped me a great deal. 
 
-I should not forget to mention my good friends and fellow travelers, especially Dr. Śitalāprasād Upādhyāya, formarly head of the Yogatantra Department at Sarùpūrṇānanda Sanskrit University and then rector of the University. I am especially grateful to Prof. Rana Singh, retired head of the Geography department of Banaras Hindu University who guided me through the principles of sacred geography, particularly that of Kāŝī. 
+I should not forget to mention my good friends and fellow travelers, especially Dr. Śitalāprasād Upādhyāya, formarly head of the Yogatantra Department at Saṁpūrṇānanda Sanskrit University and then rector of the University. I am especially grateful to Prof. Rana Singh, retired head of the Geography department of Banaras Hindu University who guided me through the principles of sacred geography, particularly that of Kāśī. 
 
 During the decades that went into making this translation and study I continuously searched for the sources Abhinavagupta quotes in his Tantrāloka and other works. In this regard I am deeply indebted to the librarians who permitted me to have copies of manuscripts and early rare printed books. I am especially grateful to the German directors in Nepal of the German Nepalese Manuscript Preservation Project. Over the twenty odd years in which I travelled every year, sometimes more than once, to Nepal, seven came and went. There I collected copies of manuscripts of the majority of the most important texts belonging to the early period, that is, prior to Abhinavagupta, from which he drew. The Nepalese collection is very extensive and contains most of the earliest manuscripts preserved in the Indian subcontinent. Other libraries that have furnished manuscripts of important texts, are the Asiatic Society in Calcutta, the central library of Banaras Hindu University, and the libraries in Jodhpur and Poone. 
 
@@ -158,7 +158,7 @@ Entry Into the Supreme Plane of Mantras, verses 86cd-97 (86-97ab), pages 110- 11
 
 The Ten Voids, verses 90-93ab (89cd-92), pages 113-120 The Ten States and Their Locations, verses 93cd-94 (93-94ab), pages 120-123 The Ten Abodes, verses 95-96ab (94cd-95), pages 123-128 The Ten Levels of Unstruck Sound, verses 98-100 (97cd-100ab), pages 128-133 The Characteristic Signs on the Path, verses 101-112cd (100cd-112ab), pages 133-149 
 
-The Trika Liñga, verses 113-128 (112cd-127), pages 149-169 The Instruments of Yoga (karana), verses 129ab-132ab (128ab-131ab), pages 169-179 
+The Trika Liṅga, verses 113-128 (112cd-127), pages 149-169 The Instruments of Yoga (karana), verses 129ab-132ab (128ab-131ab), pages 169-179 
 
 The Nature of the Phonemes in the Flow of the Breath (varnatattva), verses 
 

@@ -31,6 +31,9 @@ tanniṣkamparasaiḥ pūrṇaṃ kṛtvāsminpūjayetkramam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 417–418)
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.40–41]]
+
 > अथवार्घमहापात्रं कुर्यात्तच्चोत्तरं परम् ।
 > नारिकेलमथो बैल्वं सौवर्णं राजतं च वा ॥
 > तस्याप्येष विधिः सर्वः प्रतिष्ठादौ प्रकीर्तितः ।

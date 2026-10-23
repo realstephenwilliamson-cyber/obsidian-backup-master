@@ -34,6 +34,9 @@ tatra prāṇamanomantrārpaṇayogāttathā bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 268)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.37–42]]
+
 > ततो जालक्रमानीतः स जीवः सुप्तवत्स्थितः ।
 > मनोविशिष्टदेहादिसामग्रीप्राप्त्यभावतः ॥
 > न स्पन्दते न जानाति न वक्ति न किलेच्छति ।

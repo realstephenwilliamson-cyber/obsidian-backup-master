@@ -31,6 +31,9 @@ athaveti vikalpo'yamāstāmetattu bhaṇyatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 145–146)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.37]]
+
 *Lead-in:* एतदेव संक्षेपेण प्रतिक्षेप्तुमुपक्षिपति --
 
 > अत्र पुंसोऽथ मूलस्य धर्मोऽदर्शनता द्वयोः ।

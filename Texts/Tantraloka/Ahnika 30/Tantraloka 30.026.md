@@ -33,5 +33,10 @@ māyā visargiṇī huṃ phaṭ ceti mantro'parātmakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 19–21)
+> ![[Tantraloka Dyczkowski v11 02 - Chapter Thirty, part 1#Viveka on 30.25–26]]
+>
+> ![[Tantraloka Dyczkowski v11 02 - Chapter Thirty, part 1#Viveka on 30.26]]
+
 Jayaratha comments on this verse together with 30.27: see [[Tantraloka 30.027#Viveka|30.27]].
 

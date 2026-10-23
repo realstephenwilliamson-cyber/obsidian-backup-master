@@ -33,6 +33,11 @@ nityapūjāsu pūrṇatvaṃ parvapūjāprapūraṇāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 72–73)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.143–144]]
+>
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.144–145]]
+
 *Lead-in:* इत्याद्युक्त्या नित्यलोपपूरणाय पर्वसु पूजनमुक्तं तत्किं पवित्रकेणापि ?--इत्याशङ्क्य आह--
 
 > नित्यपूजासु पूर्णत्वं पर्वपूजाप्रपूरणात् ॥

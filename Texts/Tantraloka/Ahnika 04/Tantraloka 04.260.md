@@ -36,6 +36,11 @@ kṣetrādigamanābhāvavidhistu svātmanastathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 365–367)
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.259–260]]
+>
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.260–261]]
+
 *Lead-in:* अन्यत्र चात्र निषेधः कृतः -- इत्याह --
 
 > क्षेत्रादिगमनाभावविधिस्तु स्वात्मनस्तथा ॥

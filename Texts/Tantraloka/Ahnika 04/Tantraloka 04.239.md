@@ -34,6 +34,9 @@ yā samagrārthamāṇikyatattvaniścayakāriṇī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 336)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.239]]
+
 *Lead-in:* न केवलमत्र स्वसंवित्तिरेव साधकं प्रमाणमस्ति, यावद्युक्तिरपि -- इत्याह --
 
 > युक्तश्चात्रास्ति वाक्येषु स्वसंविच्चाप्यबाधिता ।

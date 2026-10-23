@@ -34,6 +34,9 @@ mokṣastredhā dviguṇā saptatiritikāryatābhedāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 82)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.187–189]]
+
 > सप्ततिधा शोद्धृगणस्त्रिंशद्धा शोध्य एकतत्त्वादिः ।
 > साण्डः षडध्वरूपस्तथेतिकर्तव्यता चतुर्भेदा ॥
 > द्रव्यज्ञानमयी सा जननादिविवर्जिताथ तद्युक्ता ।

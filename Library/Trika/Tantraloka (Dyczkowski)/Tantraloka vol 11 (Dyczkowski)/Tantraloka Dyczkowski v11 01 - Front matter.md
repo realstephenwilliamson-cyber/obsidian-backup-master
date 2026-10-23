@@ -88,11 +88,11 @@ Pt. Vrajavallabha Dvivedi, former head of the Yogatantra Department at Sarhùpū
 
 In other areas of study, I cannot but recall with gratitude Pt. B. P. Tripathi, better known as Vāgīśa Śāstī, former Director of the Research Department of Saṁpūrṇānanda Sanskrit University, who labored for years to teach me Sanskrit grammar both in the traditional manner through the Siddhāntakaumudī and through his own didactic method. 
 
-Although I have not studied formally with Prof. K. D. Tripathi, retired dean of the Sanskrit college of Banaras Hindu University, I cannot but acknowledge that the many lectures I have heard him deliver and dialogues I have had with him over the years inspired and helped me very much to understand Pratyabhijñā, Bhartrhari’s philosophy of grammar, Abhinavagupta’s aesthetics and the Śaiva Āgamas. In a similar way, I had the good fortune to listen to many lectures and attend classes on the Nāṭyaśastra with Abhinavagupta’s commentary by the late Premalata Sharma, formerly Dean of the Music Faculty of BHU and President of the Sangit Nataka Academy. There 
+Although I have not studied formally with Prof. K. D. Tripathi, retired dean of the Sanskrit college of Banaras Hindu University, I cannot but acknowledge that the many lectures I have heard him deliver and dialogues I have had with him over the years inspired and helped me very much to understand Pratyabhijñā, Bhartṛhari’s philosophy of grammar, Abhinavagupta’s aesthetics and the Śaiva Āgamas. In a similar way, I had the good fortune to listen to many lectures and attend classes on the Nāṭyaśastra with Abhinavagupta’s commentary by the late Premalata Sharma, formerly Dean of the Music Faculty of BHU and President of the Sangit Nataka Academy. There 
 
 *[p. m]* ^pg7
 
-are many other renowned scholars in Kāśŝf whom I must also thank for inspiration such as the late Prof. Ananda Krishna and Vatukanatha Khiste, who was 8 scholar and initiate in line of Bhāskara Rāya, the great 18" century 
+are many other renowned scholars in Kāśf whom I must also thank for inspiration such as the late Prof. Ananda Krishna and Vatukanatha Khiste, who was 8 scholar and initiate in line of Bhāskara Rāya, the great 18" century 
 
 exponent of Śrīvidyā. 
 
@@ -140,7 +140,7 @@ The Current of Mantras, verses 1-3, pages 1-2 The Form of the Mantras (mantrasva
 
 The Trident Throne, The Shaft of the Trident, verse 4, page 3-4 The Knot of Māyā, verse 5, page 4 The Plinth, the Lotus and the Corpse, verses 6-9ab, pages 4-7 The Abbreviated Rite, verses 9cd-10ab, page 7 Ratiśekhara Bhairava Mantra, verses 10cd-1 lab, pages 7-9 Navātmā Bhairava Mantra, verses 11cd-14, pages 9-12 The Faces and Limbs of Navātman, verses 15-16ab, pages 12-13 Bhairavasadbhāva Mantra, verses 16cd-17, page 14 Ganṇeśa Mantra, verses 18-19, pages 14-15 Parāparā Vidyā, verses 20-26ab, pages 15-21 Aparā Vidyā, verse 26cd, page 21 Parā Vidyā, verses 27-37ab, pages 21-27 The Limbs of the Vidyā (Vidyāṁga), verses 37cd-41cd, pages 27-31 
 
-1\) The Heart, verses 37cd, page 27 2) The Head of Brahmā, verse 38, page 27 3) The Topknot, verse 39ab, page 27 4) The Armour, verses 39cd-40ab, pages 28-31 5) The Eye, verses 40cd-41ab, page 31 6) The Weapon (Pāśupatāstra), verses 4100, page 31 The Guardians of the Quarters and their Weapons, verses 42-43ab, pages 32-33 The Six Classes of Invocations, verses 43cd-45ab, pages 33-34 Mātrsadbhāva, verses 45cd-46, pages 34-35 Variants of Mātrsadbhāva, verses 47-51, pages 35-37 Yoginīcakreśvara Mantra, verses 52-53, pages 37-38 Nine-syllabled Kālakarṣiṇī Vidyā, verses 54-55ab, pages 38-40 The Razor, verses 55cd-58, pages 40-42 The Liberating Weapon, verses 60-62ab, pages 43-44 The Brahmavidyā, verses 62cd-92, page 44 
+1\) The Heart, verses 37cd, page 27 2) The Head of Brahmā, verse 38, page 27 3) The Topknot, verse 39ab, page 27 4) The Armour, verses 39cd-40ab, pages 28-31 5) The Eye, verses 40cd-41ab, page 31 6) The Weapon (Pāśupatāstra), verses 4100, page 31 The Guardians of the Quarters and their Weapons, verses 42-43ab, pages 32-33 The Six Classes of Invocations, verses 43cd-45ab, pages 33-34 Mātṛsadbhāva, verses 45cd-46, pages 34-35 Variants of Mātṛsadbhāva, verses 47-51, pages 35-37 Yoginīcakreśvara Mantra, verses 52-53, pages 37-38 Nine-syllabled Kālakarṣiṇī Vidyā, verses 54-55ab, pages 38-40 The Razor, verses 55cd-58, pages 40-42 The Liberating Weapon, verses 60-62ab, pages 43-44 The Brahmavidyā, verses 62cd-92, page 44 
 
 The Brahmavidyā Consisting of Parts (sakalā), verses 64cd-66ab, pages 44-45 
 
@@ -166,11 +166,11 @@ The Drawing of the Square Base of the Mandala According to the
 
 Mālinīvijayottara, verses 1cd-10ab, pages 65-70 The Various Types of Trika Mandala with Lotuses and Tridents 
 
-(sulābjabhedah) 
+(sulābjabhedaḥ) 
 
 A) The Construction of the Mandala According to the Trikasadbhāva, verses 10cd-52, pages 70-89 
 
-Another form of the Trika Mandala according to the Trikahrdaya, verses 53-59, pages 89-93 
+Another form of the Trika Mandala according to the Trikahṛdaya, verses 53-59, pages 89-93 
 
 B) The Construction of the Mandala According to the 
 
@@ -200,7 +200,7 @@ Mālinīvijayottara, verses 10cd-12ab, pages 143-144
 
 B) The Seal of the Skyfarer according to the Yogasamicāra, verses 12cd- 31, page 144 
 
-The Seal of the Trident, verses 13cd-25, pages 144-148 The Seal of the Skeleton — Karañkinī Mudrā, verses 26-31, page 149-150 
+The Seal of the Trident, verses 13cd-25, pages 144-148 The Seal of the Skeleton — Karaṅkinī Mudrā, verses 26-31, page 149-150 
 
 C) The Seal of the Skyfarer (khecarī) According to the Vīrāvalītantra, verses 32-47ab, pages 151-157 
 
@@ -220,7 +220,7 @@ The Various Occasions When the Seals are Applied (kālabheda) , verses 66- 68ab,
 
 CHAPTER THIRTY-THREE 
 
-The Gathering Together of the Deities (ekīākārah) According to the Mālinīvijayottara 
+The Gathering Together of the Deities (ekīākāraḥ) According to the Mālinīvijayottara 
 
 The Six-spoked Wheel of Six Yoginīs, verse 2, pages 169-170 
 
@@ -232,11 +232,11 @@ The Powerholders of the Sixteen-spoked Wheel, verses 9cd-12, pages 173-174 The P
 
 The Bhairavas of the Wheel with Thirty-four Spokes, verses 14cd-17ab, pages 175-176 
 
-The Mantras of the Six-spoked Wheel, verses 17cd-18, pages 176-177 The Mantras of the Thirty-two-spoked Wheel, verse 19, pages 177-178 The Formation of the Mālinī, Mātrkā and Śabdarāśi and Development of Ekaśīti and Other Mantras from them as the Activity of Consciousness, verses 20-26, pages 178-181 Fractions of Measures and Accents, the Many Applications of Consciousness, verses 27-29, pages 181-182 All is Contained in the Three Goddesses and Mātrsadbhāva, verses 30-32, pages 182-184 
+The Mantras of the Six-spoked Wheel, verses 17cd-18, pages 176-177 The Mantras of the Thirty-two-spoked Wheel, verse 19, pages 177-178 The Formation of the Mālinī, Mātṛkā and Śabdarāśi and Development of Ekaśīti and Other Mantras from them as the Activity of Consciousness, verses 20-26, pages 178-181 Fractions of Measures and Accents, the Many Applications of Consciousness, verses 27-29, pages 181-182 All is Contained in the Three Goddesses and Mātṛsadbhāva, verses 30-32, pages 182-184 
 
 CHAPTER THIRTY-FOUR 
 
-Entry into One’s Own Nature (svasvarūpe praveśah) 
+Entry into One’s Own Nature (svasvarūpe praveśaḥ) 
 
 The Ascent Through the Individual, Empowered and Śāmbhava States and 
 
@@ -244,7 +244,7 @@ Beyond to Realisation, verses 1-4ab, pages 185-187
 
 CHAPTER THIRTY-FIVE 
 
-The Encounter of the Scriptures (śãstramelana) 
+The Encounter of the Scriptures (śāstramelana) 
 
 The Basis of Daily Life is a priori Commonly Accepted Belief (prasiddhi) , verses l-2ab, pages 188-191 Reason and All the Means of Knowledge Depend on this a priori Belief, verses 2cd-4ab, pages 191-192 Guided by this a priori Belief, Babies Experience Attraction or Repulsion and 
 
@@ -266,7 +266,7 @@ Hierarchy for Them to Have Authority, verses 38-39ab, page 214 Only the Śaiva T
 
 CHAPTER THIRTY-SIX 
 
-An Account of the Transmission of the Scriptures (ãyãātikathana) 
+An Account of the Transmission of the Scriptures (āyātikathana) 
 
 The Transmission of the Siddhayogīśvarīmata, verses 1-6, pages 219-222 The Division of the Parts of the Scripture, verses 7-10, pages 222-224 The Transmission of the Śaiva Traditions (santatikrama) , verses 11-14, pages 224-225 
 
@@ -324,7 +324,7 @@ Biblography, pages 338-276 The Numbering of the Verses of the Printed Edition of
 
 Abbreviations 
 
-Ajadapramātrsiddhi 
+Ajadapramātṛsiddhi 
 
 APS 
 
@@ -386,7 +386,7 @@ Iśvarapratyabhijñāvimarśinī
 
 12५ 1५५
 
-Iśvarapratyabhijñāvivrtivimarśinī Institut Français d'Indologie de Pondichéry 
+Iśvarapratyabhijñāvivṛtivimarśinī Institut Français d'Indologie de Pondichéry 
 
 IFP 
 
@@ -486,17 +486,17 @@ Mundaka Upaniṣad
 
 MT 
 
-Mrgendratantra MrTvK 
+Mṛgendratantra MrTvK 
 
-Mrgendratantravrtti Kriyāpāda 
+Mṛgendratantravṛtti Kriyāpāda 
 
 MrKri 
 
-Mrgendratantra Kriyāpāda MrV 
+Mṛgendratantra Kriyāpāda MrV 
 
-Mrgendratantra Vidyāpāda NGMPP 
+Mṛgendratantra Vidyāpāda NGMPP 
 
-Nepal German Manuscript Preservation Project NṢ\$A 
+Nepal German Manuscript Preservation Project NṢA 
 
 Nityāṣodaśikārṇnava NB 
 
@@ -538,13 +538,13 @@ Pramāṇaviniścaya
 
 PrHr 
 
-Pratyabhijñāhrdaya 
+Pratyabhijñāhṛdaya 
 
 RSO 
 
 Ricerche e Studi Orientali RT 
 
-Rājataraùginī २०5८ऽ
+Rājataraṅginī २०5८ऽ
 
 Rauravasūtrasahgraha 
 
@@ -573,7 +573,7 @@ SOL
 
 Science of Light SP 
 
-Sarvitprakāśa ऽत
+Saṁvitprakāśa ऽत
 
 Sāmkhyakārikā 
 
@@ -583,13 +583,13 @@ Spandakārikā SpNi
 
 Spandanirnaya SpPra 
 
-Spandapradīpikā SpSarh 
+Spandapradīpikā SpSaṁ 
 
-Spandasarndoha 
+Spandasaṁdoha 
 
 ŚDr 
 
-Sivadrṣtṭi 
+Sivadṛṣtṭi 
 
 Śsū 
 

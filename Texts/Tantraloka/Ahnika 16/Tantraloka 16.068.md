@@ -36,6 +36,11 @@ iti saṃbhāvya citraṃ tatpaśūnāṃ praviceṣṭitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 32–33)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.65–68]]
+>
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.68–69]]
+
 *Lead-in:* तदेवं देवीचरुकार्थमेवास्योत्पत्तेस्तदन्यत्र विनियोगो न कार्यः-- इत्याह--
 
 > इति संभाव्य चित्रं तत्पशूनां प्रविचेष्टितम् ॥

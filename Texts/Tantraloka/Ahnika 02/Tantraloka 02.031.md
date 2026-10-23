@@ -34,6 +34,9 @@ sarvātmanā hi bhātyeṣa kena rūpeṇa mantryatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 39–40)
+> ![[Tantraloka Dyczkowski v02 03 - Chapter Two, part 2#Viveka on 2.31]]
+
 *Lead-in:* अत एव सदसदात्मापि न -- इत्याह --
 
 > आभ्यामेव तु हेतुभ्यां न द्व्यात्मा न द्वयोज्झितः ।

@@ -34,6 +34,9 @@ sthitvā yo'sadgurau śāstrāntare vā satpathaṃ śritaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 46)
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.36]]
+
 *Lead-in:* ननु शर्वस्य शिवेच्छयैव असद्गुरौ सद्गुरौ वा आभिमुख्यमभिजायते"इत्युक्तं, तत् सद्गुरावेव तदस्तु, किं क्रमेण ? -- इत्याशङ्क्याह --
 
 > शक्तिपातस्तु तत्रैष क्रमिकः संप्रवर्तते ।

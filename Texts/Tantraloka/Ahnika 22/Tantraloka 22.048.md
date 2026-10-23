@@ -33,6 +33,13 @@ iti dīkṣāvidhiḥ prokto liṅgoddharaṇapaścimaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 294)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.47–48]]
+>
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.48]]
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 22.48 (continued)]]
+
 *Lead-in:* अथ प्रथमार्धेन प्रकृतार्थगर्भीकारेण प्रकरणार्थमुपसंहरति--
 
 > इति दीक्षाविधिः प्रोक्तो लिङ्गोद्धरणपश्चिमः ॥

@@ -34,6 +34,9 @@ prāṇyādvā mṛśate vāpi sa sarvo'sya japo mataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 297–299)
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.194]]
+
 *Lead-in:* न केवलमनेन वीर्येण मन्त्र एव वीर्यवन्तो, यावत्तदितरदपीत्याह --
 
 > अकृत्रिमैतद्धृदयारूढो यत्किञ्चिदाचरेत् ।

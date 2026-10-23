@@ -37,6 +37,11 @@ brāhmyaiśī skandajā hārī vārāhyaindrī saviccikā [carcikā] || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 256–258)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.238–241]]
+>
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.241–243]]
+
 *Lead-in:* कास्ता मातरः? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 8.240: see [[Tantraloka 08.240#Viveka|8.240]].

@@ -34,6 +34,11 @@ kalādvādaśakātmaiva tatsaṃvitparamārthataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 152)
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.123–124]]
+>
+> ![[Tantraloka Dyczkowski v03 06 - Chapter Four, part 5#Viveka on 4.123–124 (continued)]]
+
 > स च द्वादशधा तत्र सर्वमन्तर्भवेद्यतः ॥
 > सूर्य एव हि सोमात्मा स च विश्वमयः स्थितः ।
 > कलाद्वादशकात्मैव तत्संवित्परमार्थतः ॥

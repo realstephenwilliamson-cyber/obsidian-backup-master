@@ -34,7 +34,7 @@ Text: [[NRSVue 1 Timothy 05|NRSVue]] · [[1 Timothy 05|BSB and SBLGNT]] · Intro
 
 **[[NRSVue 1 Timothy 05#^5-11|11]]:** *Younger widows*, Roman law (the *Lex Papia Poppaea* promulgated by Augustus) expected all widowed women under fifty to marry again. ^5-11
 
-**[[NRSVue 1 Timothy 05#^5-12|12]]:** *Violated their first pledge*, that they would not remarry. **13**: *Gadding about*, *b. Sot*. 22a offers differing views of the “gadabout widow” from the claim that she “brings destruction on the world” to R. Joḥanan’s insistence that she teaches confidence of the bestowal of reward: “A certain widow had a synagogue in her neighborhood; yet she used to come daily to the School of R. Joḥanan and pray there. He said to her, ‘My daughter, is there not a Synagogue in your neighborhood?’ She answered him, ‘Rabbi, but have I not the reward for the steps!’” *Gossips*, Heb “lashon hara,” lit., “evil tongue.” *B. Arak*. 15b states: “The school of R. Ishmael taught, ‘Anyone who gossips is considered as having committed the grave sins of idolatry, sexual immorality, and murder,’” and, “Evil gossip kills three: the one who says it, the one who listens, and the subject of the gossip.” ^5-12
+**[[NRSVue 1 Timothy 05#^5-12|12]]:** *Violated their first pledge*, that they would not remarry. **13**: *Gadding about*, [[Sotah 22#22a|*b. Sot*. 22a]] offers differing views of the “gadabout widow” from the claim that she “brings destruction on the world” to R. Joḥanan’s insistence that she teaches confidence of the bestowal of reward: “A certain widow had a synagogue in her neighborhood; yet she used to come daily to the School of R. Joḥanan and pray there. He said to her, ‘My daughter, is there not a Synagogue in your neighborhood?’ She answered him, ‘Rabbi, but have I not the reward for the steps!’” *Gossips*, Heb “lashon hara,” lit., “evil tongue.” *B. Arak*. 15b states: “The school of R. Ishmael taught, ‘Anyone who gossips is considered as having committed the grave sins of idolatry, sexual immorality, and murder,’” and, “Evil gossip kills three: the one who says it, the one who listens, and the subject of the gossip.” ^5-12
 
 **[[NRSVue 1 Timothy 05#^5-14|14]]:** *Adversary*, Satan (v 15; 1.20n.). ^5-14
 
@@ -44,16 +44,16 @@ Text: [[NRSVue 1 Timothy 05|NRSVue]] · [[1 Timothy 05|BSB and SBLGNT]] · Intro
 
 *[[NRSVue 1 Timothy 05#^5-17|Text]], p. 439* · . ^5-17
 
-**[[NRSVue 1 Timothy 05#^5-17|17]]:** *Elders* (Gk “presbyteroi”), perhaps comparable to Heb “zekenim,” respected people in the community. For the Talmud, the term “elder” also connotes a sage, or one learned in Torah (*b. Qidd*. 32b states, “The elder \[“zaken”\] is none other than a sage, and the word \[is an acronym that\] means “**z**eh she-**k**a**n**ah ḥokhmah” \[“one who has acquired wisdom”\]). ^5-17-2
+**[[NRSVue 1 Timothy 05#^5-17|17]]:** *Elders* (Gk “presbyteroi”), perhaps comparable to Heb “zekenim,” respected people in the community. For the Talmud, the term “elder” also connotes a sage, or one learned in Torah ([[Kiddushin 32#32b|*b. Qidd*. 32b]] states, “The elder \[“zaken”\] is none other than a sage, and the word \[is an acronym that\] means “**z**eh she-**k**a**n**ah ḥokhmah” \[“one who has acquired wisdom”\]). ^5-17-2
 
 **[[NRSVue 1 Timothy 05#^5-18|18]]:** *Muzzle an ox*, the epistle’s only Torah citation: [[Torah 49 - Ki Teitzei#^25-4|Deut 25.4]], which the author may have found the citation in [[1 Corinthians 09#^9-9|1 Cor 9.9]]. *Laborer deserves to be paid*, citation from [[Matthew 10#^10-10|Mt 10.10]]; [[Luke 10#^10-7|Lk 10.7]]; it is not clear if the author considers this Gospel comment also to be *scripture*. ^5-18
 
-**[[NRSVue 1 Timothy 05#^5-19|19]]:** *Two or three witnesses*, [[Torah 48 - Shoftim#^19-15|Deut 19.15]]. *Rebuke them in the presence of all*, see [[Matthew 18#^18-17|Mt 18.17]]; on rebuking for correction see [[Torah 30 - Kedoshim#^19-17|Lev 19.17]]; *b. Tamid* 28a. ^5-19
+**[[NRSVue 1 Timothy 05#^5-19|19]]:** *Two or three witnesses*, [[Torah 48 - Shoftim#^19-15|Deut 19.15]]. *Rebuke them in the presence of all*, see [[Matthew 18#^18-17|Mt 18.17]]; on rebuking for correction see [[Torah 30 - Kedoshim#^19-17|Lev 19.17]]; [[Tamid 28#28a|*b. Tamid* 28a]]. ^5-19
 
 **[[NRSVue 1 Timothy 05#^5-21|21]]:** *In the presence . . . elect angels*: the proceedings are conducted as if the heavenly court is present. *Partiality*, [[Torah 48 - Shoftim#^16-19|Deut 16.19]]; [[II Chronicles 19#^19-7|2 Chr 19.7]]; [[LXX Sirach 04#^4-22|Sir 4.22]]; etc. ^5-21
 
 **[[NRSVue 1 Timothy 05#^5-22|22]]:** *Ordain*, lit., “place the hands,” see 4.14n. ^5-22
 
-**[[NRSVue 1 Timothy 05#^5-23|23]]:** *Drink only water*, asceticism is not promoted. *Stomach*, *b. Ber.* 51a records, “Our Rabbis taught: Asparagus brew is good for the heart and good for the eyes, and, needless to say, for the bowels. If one uses it regularly it is good for the whole body, but if one gets drunk on it it is bad for the whole body. Since it is stated that it is good for the heart, we infer that we are dealing with a brew of wine.” ^5-23
+**[[NRSVue 1 Timothy 05#^5-23|23]]:** *Drink only water*, asceticism is not promoted. *Stomach*, [[Berakhot 51#51a|*b. Ber.* 51a]] records, “Our Rabbis taught: Asparagus brew is good for the heart and good for the eyes, and, needless to say, for the bowels. If one uses it regularly it is good for the whole body, but if one gets drunk on it it is bad for the whole body. Since it is stated that it is good for the heart, we infer that we are dealing with a brew of wine.” ^5-23
 
 [[JANT 1 Timothy 04|← 1 Timothy 4]] · [[Jewish Annotated New Testament|JANT index]] · [[JANT 1 Timothy 06|1 Timothy 6 →]]

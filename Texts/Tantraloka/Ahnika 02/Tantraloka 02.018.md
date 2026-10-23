@@ -35,6 +35,9 @@ prakāśavapurevāyaṃ bhāsate parameśvaraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 26)
+> ![[Tantraloka Dyczkowski v02 02 - Chapter Two, part 1#Viveka on 2.18]]
+
 *Lead-in:* ननु यद्येवं तर्हि सर्वत्र प्रसिद्धोऽयं द्वैतव्यवहारः कथमपह्नूयते? इत्याशङ्क्याह --
 
 > इदं द्वैतमऽयं भेद इदमद्वैतमित्यपि ।

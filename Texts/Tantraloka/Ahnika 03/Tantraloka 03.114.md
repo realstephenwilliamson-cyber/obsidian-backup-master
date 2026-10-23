@@ -37,6 +37,11 @@ hlādataikṣṇyādi vaicitryaṃ sitaraktādikaṃ ca yat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 219–222)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.113–114]]
+>
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.114–115]]
+
 *Lead-in:* ननु उदितायां क्रियाशक्तौ, ह्लादतैक्ष्ण्याद्यवच्छिन्नः सोमसूर्यादिः प्रतिनियतः प्रकाशः प्रकाशते, यः स्वमन्यच्च निखिलमेव प्रकाशयति, यः पुनरविभागः परः प्रकाश उक्तः स किं तदात्मकः उत तत्प्रकाश्योऽन्यो वा ? -- इत्याशङ्क्याह --
 
 > ह्लादतैक्ष्ण्यादि वैचित्र्यं सितरक्तादिकं च यत् ॥

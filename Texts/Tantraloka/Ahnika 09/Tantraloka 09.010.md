@@ -36,6 +36,11 @@ na kartṛtvādṛte cānyat kāraṇatvaṃ hi labhyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 17–18)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.10]]
+>
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.10 (2)]]
+
 *Lead-in:* तदाह -
 
 > जाड्यं प्रमातृतन्त्रत्वं स्वात्मसिद्धिमपि प्रति ।

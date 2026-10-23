@@ -34,6 +34,9 @@ dharāpadaṃ varjayitvā pañca yāni padāni tu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 62)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.135–138]]
+
 > चतुर्ष्वष्टासु चाष्टासु दशस्वथ दशस्वथ ॥
 > दशस्वथो पञ्चदशस्वथ वेदशरेन्दुषु ।
 > धरापदान्नवपदीं मातृकामालिनीगताम् ॥

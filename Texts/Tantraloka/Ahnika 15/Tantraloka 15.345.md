@@ -31,6 +31,9 @@ saṃbhāvyavedyakāluṣyayogato'nyonyalabdhasaṅkarataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 213)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.344–346]]
+
 > भेदगलनाद्यकोटेरारभ्य यतो निजं निजं रूपम् ॥
 > बिभ्रति तास्तु त्रित्वं तासां स्फुटमेव लक्ष्येत ।
 > संभाव्यवेद्यकालुष्ययोगतोऽन्योन्यलब्धसङ्करतः ॥

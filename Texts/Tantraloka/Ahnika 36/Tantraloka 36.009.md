@@ -31,6 +31,9 @@ navame pade tu gaṇanā na kāciduktā vyavacchidāhīne || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 223–224)
+> ![[Tantraloka Dyczkowski v11 10 - Chapter Thirty-Six#Viveka on 36.8–9]]
+
 > पादो मूलोद्धारावुत्तरवृहदुत्तरे तथा कल्पः ।
 > संहितकल्पस्कन्दावनुत्तरं व्यापकं त्रिधा तिस्रः ॥
 > देव्योऽत्र निरूप्यन्ते क्रमशो विस्तारिणैव रूपेण ।

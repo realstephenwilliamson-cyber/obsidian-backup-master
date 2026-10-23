@@ -35,6 +35,9 @@ tāvatya evāṇimādibhuvanāṣṭakameva ca || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 281–282)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.278]]
+
 > पंस्तत्त्वे तुष्टिनवकं सिद्धयोऽष्टौ च तत्पुरः ।
 > तावत्य एवाणिमादिभुवनाष्टकमेव च ॥
 

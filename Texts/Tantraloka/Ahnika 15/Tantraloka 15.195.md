@@ -33,6 +33,11 @@ upādhimātraṃ tu tathā vaicitryāya kathaṃ bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 121)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.195]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.195 (2)]]
+
 *Lead-in:* अथ उपाधिरेव तादृक् कश्चिदस्तु यः पूर्वादिव्यवहार्य इत्युच्यते, तदुपाधिसंज्ञितं वस्त्वन्तरमेव तथा स्यात् न दिङ् नाम पूर्वादिप्रत्ययपात्रतामनुभवेत्--इत्याह--
 
 > उपाधिः पूर्वतादिष्ट इति चेत्तत्कृतं दिशा ।

@@ -33,6 +33,11 @@ ahamanyaḥ parātmānyaḥ śivo'nya iti cenmatiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 110–111)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.251–254]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.254–256]]
+
 *Lead-in:* अतत्त्ववित्त्वमेव दर्शयति--
 
 Jayaratha comments on this verse together with 28.253: see [[Tantraloka 28.253#Viveka|28.253]].

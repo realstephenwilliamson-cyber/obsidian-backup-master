@@ -33,6 +33,11 @@ nityātantravidaḥ kṛṣṇaṃ kārtikāccaramaṃ dinam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 65–66)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.121–123]]
+>
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.123–124]]
+
 *Lead-in:* तमेव व्याख्याभेदं दर्शयति--
 
 > नित्यातन्त्रविदः कृष्णं कार्तिकाच्चरमं दिनम् ॥

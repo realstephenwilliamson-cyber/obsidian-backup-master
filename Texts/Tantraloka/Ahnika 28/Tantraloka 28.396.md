@@ -31,6 +31,9 @@ adhame'pi hi vyākuryātsambhāvya hi śaktipātavaicitryam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 181–182)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.395–396]]
+
 > इत्थं विज्ञाय सदा शिष्यः सम्पूर्णशास्त्रबोद्धारम् ।
 > व्याख्यायै गुरुमभ्यर्थयेत पूजापुरःसरं मतिमान् ॥
 > सोऽपि स्वशासनीये परशिष्येऽपि वापि तादृशं शास्त्रम् ।

@@ -36,6 +36,11 @@ niśīthe'pi maṇijñānī vidyutkālapradarśitān || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 362–364)
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.183–184]]
+>
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.184–185]]
+
 *Lead-in:* एवं संविदः सर्ववादिसिद्धं व्यवहारादौ विकल्पसापेक्षत्वं परिहृत्य विकल्पानपेक्षत्वमेव स्फुटीकर्तुमुदाहरति --
 
 > निशीथेऽपि मणिज्ञानी विद्युत्कालप्रदर्शितान् ॥

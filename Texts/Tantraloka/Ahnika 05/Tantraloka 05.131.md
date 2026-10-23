@@ -37,6 +37,11 @@ ukto ya eṣa uccārastatra yo'sau sphuran sthitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 178–181)
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.130–131]]
+>
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.131–132]]
+
 *Lead-in:* एवं करणस्वरूपमुट्टङ्क्य तदनन्तरोद्दिष्टं वर्णतत्त्वं वक्तुमुपक्रमते --
 
 > उक्तो य एष उच्चारस्तत्र योऽसौ स्फुरन् स्थितः ॥

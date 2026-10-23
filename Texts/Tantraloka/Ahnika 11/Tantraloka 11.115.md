@@ -35,6 +35,9 @@ sphuṭīkartuṃ svatantratvādīśaḥ so'smatprabhuḥ śivaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 97)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.115]]
+
 *Lead-in:* ननु यदि देशकालौ वास्तवौ न स्तस्तत्कोऽयं व्यवहारो नाम ? -- इत्याशङ्क्याह --
 
 > तद्य एष सतो भावाञ् शून्यीकर्तुं तथासतः ।

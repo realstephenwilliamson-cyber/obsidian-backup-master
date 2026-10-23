@@ -34,6 +34,11 @@ abhinavaguptenāryātrayamuktaṃ saṃgrahāya śiṣyebhyaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 49)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.53]]
+>
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.53 (continued)]]
+
 > पदमन्त्रवर्णमेकं पुरषोडशकं धरेति च निवृत्तिः ।
 > तत्त्वार्णमग्निनयनं रसशरपुरमस्त्रमन्त्रपदमन्या ॥
 > मुनितत्त्वार्णं द्विकपदमन्त्रं वस्वक्षिभुवनमपरकला ।

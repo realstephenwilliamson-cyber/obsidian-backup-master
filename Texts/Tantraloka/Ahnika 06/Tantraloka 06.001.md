@@ -33,6 +33,9 @@ sthānaprakalpākhyatayā sphuṭastu bāhyo'bhyupāyaḥ pravivicyate'tha || ^i
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 214–216)
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.1]]
+
 *Lead-in:* इदानीमाणवोपायस्यैवाङ्गभूतमुच्चारादिप्रमेयचतुष्टयानन्तरोद्दिष्. तं स्थानकल्पनाख्यं परमं प्रमेयं द्वितीयार्धेनावतारयितुमुपक्रमते --
 
 > स्थानप्रकल्पाख्यतया स्फुटस्तु बाह्योऽभ्युपायः प्रविविच्यतेऽथ ॥

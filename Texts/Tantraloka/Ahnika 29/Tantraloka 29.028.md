@@ -31,6 +31,9 @@ prācyāṃ diśi gaṇeśādha ārabhyābhyarcayettataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 230–233)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.27–29]]
+
 > दिश्युदीच्यां रुद्रकोणाद्वायव्यन्तं गणेश्वरम् ॥
 > वटुकं त्रीन् गुरुन्सिद्धान्योगिनीः पीठमर्चयेत् ।
 > प्राच्यां दिशि गणेशाध आरभ्याभ्यर्चयेत्ततः ॥

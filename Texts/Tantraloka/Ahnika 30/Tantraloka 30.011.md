@@ -33,6 +33,11 @@ agniprāṇāgnisaṃhārakālendrāmbusamīraṇāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 8–10)
+> ![[Tantraloka Dyczkowski v11 02 - Chapter Thirty, part 1#Viveka on 30.10–11]]
+>
+> ![[Tantraloka Dyczkowski v11 02 - Chapter Thirty, part 1#Viveka on 30.11–12]]
+
 > आधारशक्तौ ह्रीं पृथ्वीप्रभृतौ तु चतुष्टये ।
 > क्ष्लां क्ष्का वं क्षमिति प्राहुः क्रमाद्वर्णचतुष्टयम् ॥
 > हं नाले यं तथा रं लं वं धर्मादिचतुष्टये ।

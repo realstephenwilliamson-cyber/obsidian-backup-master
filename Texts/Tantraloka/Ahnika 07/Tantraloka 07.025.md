@@ -36,6 +36,11 @@ saukṣmyasya cāvadhirjñānaṃ yāvattiṣṭhati sa kṣaṇaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 15)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.25]]
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.25 (2)]]
+
 *Lead-in:* तदाह --
 
 > कालस्तु भेदकस्तस्य स तु सूक्ष्मः क्षणो मतः ।

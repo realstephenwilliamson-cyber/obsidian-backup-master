@@ -31,5 +31,8 @@ navabhiḥ kramaśo'dhītaṃ navakoṭipravistaram || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 220–222)
+> ![[Tantraloka Dyczkowski v11 10 - Chapter Thirty-Six#Viveka on 36.1–7]]
+
 Jayaratha comments on this verse together with 36.6: see [[Tantraloka 36.006#Viveka|36.6]].
 

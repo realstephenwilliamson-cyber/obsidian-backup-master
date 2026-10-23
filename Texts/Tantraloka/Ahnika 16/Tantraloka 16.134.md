@@ -34,6 +34,9 @@ svapradhānatvayoge tu dīkṣāyāṃ padapaddhatim || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 61)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.132–135]]
+
 > अपरादिविधित्रैतादथ न्यासः पदाध्वनः ।
 > पूर्वं दशपदी चोक्ता स्वतन्त्रा न्यस्यते यदा ॥
 > तयैव दीक्षा कार्या चेत्तदेयं न्यासकल्पना ।

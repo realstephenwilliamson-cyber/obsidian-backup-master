@@ -33,6 +33,11 @@ prāgliṅgināṃ mokṣadīkṣā sādhikāravivarjitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 286–287)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.27–28]]
+>
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.28–31]]
+
 *Lead-in:* ननु स्वेष्टा चेदस्य दीक्षा कार्या, तत्किमयमपि सर्वदीक्षाणामेव पात्रम्?--इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 22.27: see [[Tantraloka 22.027#Viveka|22.27]].

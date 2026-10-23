@@ -31,5 +31,8 @@ mantrapratikṛtirmudrā tadāpyāyanakārakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 235–236)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.19–22]]
+
 Jayaratha comments on this verse together with 37.21: see [[Tantraloka 37.021#Viveka|37.21]].
 

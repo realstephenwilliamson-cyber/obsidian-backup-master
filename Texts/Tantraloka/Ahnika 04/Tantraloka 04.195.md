@@ -34,6 +34,9 @@ nirmīyate tadevāsya dhyānaṃ syātpāramārthikam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 299–300)
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.195]]
+
 *Lead-in:* तत्र जपस्य वास्तवं स्वरूपं तावदुक्तम्, इदानीमादिशब्देन स्वीकृतं वास्तवध्यानाद्यभिधातुमाह -
 
 > यदेव स्वेच्छया सृष्टिस्वाभाव्याद् बहिन्तरा ।

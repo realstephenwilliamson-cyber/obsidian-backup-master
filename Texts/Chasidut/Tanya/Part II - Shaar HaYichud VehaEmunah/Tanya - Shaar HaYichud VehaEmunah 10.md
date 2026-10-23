@@ -32,18 +32,18 @@ In like manner, on the second day, the attribute of might, which is composed of 
 
 And it is this thought that Elijah expressed in *Tikkunim*, loc. cit., “To show how the world is conducted with righteousness and justice…righteousness is law, justice is mercy…all [the revelation of the attributes] is to show how the world is conducted, but not that You possess a knowable righteousness—which is law, nor a knowable justice—which is mercy, nor any of these other attributes at all.”
 
-[^1]: *Berachot* 31b.
+[^1]: [[Berakhot 31#31b|*Berachot* 31b]].
 [^2]: *Mechilta*, *Yitro* 19:18; *Tanchuma*, *Yitro* 13. I.e., to make it intelligible to man’s mind.
 [^3]: I.e., the scholars of Kabbalah.
 [^4]: [[Torah 01 - Bereshit#^1-16|Genesis 1:16]].
 [^5]: Ibid. 1:5.
 [^6]: Cf. [[Isaiah 55#^55-9|Isaiah 55:9]].
-[^7]: Talmud, *Chagigah* 12a. See note in *Likkutei Sichot*, vol. 4, p. 1236.
+[^7]: Talmud, [[Chagigah 12#12a|*Chagigah* 12a]]. See note in *Likkutei Sichot*, vol. 4, p. 1236.
 [^8]: [[Proverbs 03#^3-19|Proverbs 3:19-20]].
 [^9]: The *sefirot* are called “garments” for they clothe and hide G–d’s essence.
 [^10]: *Tikkunei Zohar*, [[Tikkunei Zohar 017a#^17a-11|Introduction]].
 [^11]: Each attribute includes all the others. The specific designation denotes the dominant quality of the attribute.
 [^12]: [[Torah 01 - Bereshit#^1-3|Genesis 1:3]].
-[^13]: *Chagigah* 13a; ibid. 12a.
+[^13]: [[Chagigah 13#13a|*Chagigah* 13a]]; ibid. 12a.
 [^14]: [[Torah 01 - Bereshit#^1-6|Genesis 1:6]].
 [^15]: [[Psalms 089#^89-3|Psalms 89:3]].

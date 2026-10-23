@@ -31,6 +31,9 @@ sūte puṃso vikāritvāditi tannātra bādhakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 214)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.226]]
+
 *Lead-in:* तदाह -
 
 > तेन यच्चोद्यते सांख्यं मुक्ताणुं प्रति किं न सा ।

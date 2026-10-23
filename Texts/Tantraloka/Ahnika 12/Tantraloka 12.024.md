@@ -36,6 +36,11 @@ aliases:
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 116–118)
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.23–24]]
+>
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.24]]
+
 *Lead-in:* तत्रत्यमेव ग्रन्थैकदेशमुदाहरति --
 
 > शङ्कया जायते ग्लानिः शङ्कया विघ्नभाजनम् ॥

@@ -31,6 +31,9 @@ aliases:
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 293–296)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.6–7]]
+
 *Lead-in:* ननु के ते "शक्तिमच्छक्तिभेदेन"इत्यासूत्रिताः शक्तयः शक्तिमन्तश्च येन भुवः पञ्चदशात्मकत्वं स्यात् ? -- इत्याशङ्क्याह --
 
 > शिवो मन्त्रमहेशेशमन्त्रा अकलयुक्कली ।

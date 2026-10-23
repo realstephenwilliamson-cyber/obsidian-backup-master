@@ -34,6 +34,9 @@ itthamaikyasphurattātmā vyāptisaṃvitprakāśate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 12–13)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.23–26]]
+
 > स्वदक्षिणेन निःसृत्य मण्डलस्थस्य वामतः ॥
 > प्रविश्यान्येन निःसृत्य कुम्भस्थे कर्करीगते ।
 > वह्निस्थे च क्रमेणेत्थं यावत्स्वस्मिन्स्ववामतः ॥

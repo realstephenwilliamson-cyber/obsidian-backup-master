@@ -31,6 +31,9 @@ svabhāvāditi cenmukte śive vā kiṃ tathā na hi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 140–141)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.30–31]]
+
 > अथ प्रलयकालेऽपि चित्स्वभावत्वयोगतः ॥
 > अणूनां संभवत्येव ज्ञानं मिथ्येति तत्कुतः ।
 > स्वभावादिति चेन्मुक्ते शिवे वा किं तथा न हि ॥

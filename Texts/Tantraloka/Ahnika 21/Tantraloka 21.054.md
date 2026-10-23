@@ -34,6 +34,9 @@ amukasyeti pāpāni dahāmyanu phaḍaṣṭakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 273–274)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.54–56]]
+
 *Lead-in:* तमेव विधिमाह--
 
 Jayaratha comments on this verse together with 21.55: see [[Tantraloka 21.055#Viveka|21.55]].

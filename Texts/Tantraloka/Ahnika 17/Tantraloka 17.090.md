@@ -34,6 +34,9 @@ tiṣṭhettāvadanudvigno yāvadājyakṣayo bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 178)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.88–90]]
+
 > उक्तं श्रीपूर्वशास्त्रे च स्रुचमापूर्य सर्पिषा ।
 > कृत्वा शिष्यं तथात्मस्थं मूलमन्त्रमनुस्मरन् ॥
 > शिवं शक्तिं तथात्मानं शिष्यं सर्पिस्तथानलम् ।

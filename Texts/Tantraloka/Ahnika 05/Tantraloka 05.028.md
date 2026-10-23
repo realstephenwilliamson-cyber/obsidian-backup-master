@@ -36,6 +36,11 @@ taccakrabhābhistatrārthe sṛṣṭisthitilayakramāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 30–31)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.27–28]]
+>
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.27–29]]
+
 *Lead-in:* न केवलमेतत् अत्रैव यावदर्थेऽपि -- इत्याह --
 
 > तच्चक्रभाभिस्तत्रार्थे सृष्टिस्थितिलयक्रमात् ॥

@@ -33,6 +33,11 @@ yugapallakṣavibhedaprapañcitaṃ nādavṛttyaiva |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 331–334)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.149–150]]
+>
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.150–153]]
+
 *Lead-in:* इदमेव च मुद्राणामपि परं वीर्यमिति अन्यत्र उक्तम्--इत्याह--
 
 Jayaratha comments on this verse together with 29.149: see [[Tantraloka 29.149#Viveka|29.149]].

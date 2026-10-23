@@ -33,6 +33,11 @@ taditthaṃprāyaṇasyaitattattvaṃ śrīśambhunāthataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 164)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.366]]
+>
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.366–367]]
+
 *Lead-in:* ननु एवंविधं व्याख्यानमनूद्य, कस्मान्न दूषितम् ?--इत्याशङ्क्य आह--
 
 > न च तद्दर्शितं मिथ्या स्वान्तसम्मोहदायकम् ।

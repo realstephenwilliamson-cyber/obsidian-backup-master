@@ -34,6 +34,9 @@ yasyāṃ rūḍhaḥ samabhyeti svaprakāśātmikāṃ parām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 29–32)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.29–31]]
+
 > धरायां गुणतत्त्वान्ते मायान्ते क्रमशः स्थिताः ।
 > गन्धो रसो रूपमन्तः सूक्ष्मभावक्रमेण तु ॥
 > इति स्थिते नये शक्तितत्त्वान्तेऽप्यस्ति सौक्ष्म्यभाक् ।

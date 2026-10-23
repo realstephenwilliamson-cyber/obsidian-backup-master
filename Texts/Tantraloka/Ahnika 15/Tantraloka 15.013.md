@@ -31,6 +31,9 @@ svavijñānocitaṃ yāti jñānītyuktaṃ purā kila || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 10)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.13]]
+
 *Lead-in:* ननु अस्य दीक्षया संस्कारमात्रोपयोग एव भवेत्--इति कस्मादुक्तं यदयमनया योजनिकाबलात् तत्तत्पदमवाप्यासादयेत् ?--इत्याशङ्क्य आह--
 
 > यत्र तत्रास्तु गुरुणा योजितोऽसौ फलं पुनः ।

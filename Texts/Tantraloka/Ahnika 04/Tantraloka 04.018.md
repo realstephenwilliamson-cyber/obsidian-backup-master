@@ -36,6 +36,11 @@ yathā sāmrajyasaṃbhogaṃ dṛṣṭvāṣdṛṣṭvathavādhame || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 23–26)
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.17–18]]
+>
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.18–19]]
+
 *Lead-in:* ननु स्वार्थतत्परो लोकः स्वयमेव अनपेक्षितशास्त्रो हेयमपहातुमुपादेयं च उपादातुं प्रवर्तते, नहि बुभुक्षितस्याशने मलिनस्य वा स्नाने शास्त्रमुपयुज्यते, तत्किम् अत्र तर्केण ? -- इत्याशङ्क्याह --
 
 > यथा साम्रज्यसंभोगं दृष्ट्वाष्दृष्ट्वथवाधमे ॥

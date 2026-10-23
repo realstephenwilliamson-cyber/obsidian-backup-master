@@ -31,6 +31,9 @@ cidabhāvo hi nāstyeva tenākālaṃ tu tarpaṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 276)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.80]]
+
 *Lead-in:* इत्यादिवत् प्रतिनियतः कालः कुलयागे नोक्तः ?--इत्याशङ्क्य आह--
 
 > क्रमो नाम न कश्चित्स्यात्प्रकाशमयसंविदि ।

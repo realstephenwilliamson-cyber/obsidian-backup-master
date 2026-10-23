@@ -33,6 +33,11 @@ nāḍīḥ pravāhayeddevāyārpayeta niveditam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 361–362)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.13–14]]
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.14]]
+
 *Lead-in:* न च एतत्स्वोपज्ञमेवोक्तम्--इत्याह--
 
 > श्रीमद्भरुणतन्त्रे च तच्छिवेन निरूपितम् ॥

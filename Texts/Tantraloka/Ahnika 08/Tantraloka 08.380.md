@@ -35,6 +35,9 @@ tasminbhogaḥ samuddiṣṭa ityatredaṃ ca varṇitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 358–359)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.380]]
+
 *Lead-in:* .................(?) तदत्रास्य यद्येवं तद्भोगादिरूपत्वं पुनः कुत्र ? -- इत्याशङ्क्याह --
 
 > चतुर्मूर्तिमयं शुभ्रं यत्तत्सकलनिष्कलम् ।

@@ -33,6 +33,11 @@ baddhvā padmāsanaṃ yogī nābhāvakṣeśvaraṃ kṣipet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 141–144)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.9–10]]
+>
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.10–12]]
+
 *Lead-in:* तत्रापि प्राधान्येन श्रीपूर्वशास्त्रोक्तमेव तावदस्या रूपमाह--
 
 Jayaratha comments on this verse together with 32.9: see [[Tantraloka 32.009#Viveka|32.9]].

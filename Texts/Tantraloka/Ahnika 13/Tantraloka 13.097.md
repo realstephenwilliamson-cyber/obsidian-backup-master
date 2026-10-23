@@ -31,6 +31,9 @@ dhvastāste'pi hi nityānyahetvahetvādidūṣaṇāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 183)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.97]]
+
 *Lead-in:* अनयैव भङ्ग्या च किमीश्वरेच्छा नित्यहेतुरेवं कुर्यात् उत अनित्यहेतुः -- इत्यादिकल्पनान्तराण्यपि परिकल्पितानि निरस्तानि -- इत्याह --
 
 > एतेनान्येऽपि येऽपेक्ष्या ईशेच्छायां प्रकल्पिताः ।

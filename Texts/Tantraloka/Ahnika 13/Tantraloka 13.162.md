@@ -33,6 +33,11 @@ kiraṇāyāṃ tathoktaṃ ca gurutaḥ śāstrataḥ svataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 223–224)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.162]]
+>
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.162–163]]
+
 *Lead-in:* न चैतत्स्वोपज्ञमेव अस्माभिरुक्तम् -- इत्याह --
 
 > स्फुटमेतच्च शास्त्रेषु तेषु तेषु निरूप्यते ।

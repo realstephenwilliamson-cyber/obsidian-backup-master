@@ -36,6 +36,11 @@ tataścakrātsamudbhūtaṃ brahmāṇḍaṃ tadudāhṛtam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 180)
+> ![[Tantraloka Dyczkowski v03 06 - Chapter Four, part 5#Viveka on 4.133]]
+>
+> ![[Tantraloka Dyczkowski v03 06 - Chapter Four, part 5#Viveka on 4.133 (2)]]
+
 *Lead-in:* ननु यद्येवं तत्, विश्वस्यावभास एव न स्यात् ? -- इत्याशङ्क्याह --
 
 > सहस्रारं भवेच्चकंर ताभ्यामुपरि संस्थितम् ।

@@ -41,5 +41,5 @@ Pritzker translation (Wolski and Hecker): [[Zohar 12.12 - Passages (Mis)Labeled 
 
 *Not translated in the Soncino edition: Metzora 16:62–16:63.*
 
-[^1]: T. B. Yoma, 38b.
+[^1]: T. B. [[Yoma 38#38b|Yoma, 38b]].
 [^2]: According to another reading, “regarding those who sat”, etc. Cf. T. B. Baba Bathra, 74a.

@@ -31,6 +31,9 @@ na kupyenna śapeddhīmān sa hyanugrāhakaḥ sadā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 325–326)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.65]]
+
 *Lead-in:* तदेव अस्मद्गुरूणामपि मतम्--इत्याह--
 
 > अस्मद्गुर्वागमस्त्वेष तिरोभूते स्वयं शिशौ ।

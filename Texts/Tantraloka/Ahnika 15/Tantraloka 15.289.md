@@ -31,6 +31,9 @@ yathaiva dehe dāhādipūjāntaṃ tadvadeva hi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 171–172)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.288–290]]
+
 > ततोऽर्घपात्रं कर्तव्यं शिवाभेदमयं परम् ॥
 > आनन्दरससंपूर्णं विश्वदैवततर्पणम् ।
 > यथैव देहे दाहादिपूजान्तं तद्वदेव हि ॥

@@ -31,5 +31,8 @@ tataḥ sāṅkalpikaṃ yuktaṃ vapurāsāṃ vicintayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 198–199)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.326–328]]
+
 Jayaratha comments on this verse together with 15.327: see [[Tantraloka 15.327#Viveka|15.327]].
 

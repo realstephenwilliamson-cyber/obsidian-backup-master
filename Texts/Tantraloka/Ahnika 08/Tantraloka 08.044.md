@@ -34,6 +34,9 @@ sahasrābdhivasūcchrāyo haimaḥ sarvāmarālayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 98–99)
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.43–44]]
+
 > ततस्तमस्तप्तभूमिस्ततः शून्यं ततोऽहयः ॥
 > एतानि यातनास्थानं गुरुमन्त्रादिदूषिणाम् ।
 > ततो भूम्यूर्ध्व(मध्य) तो मेरुः सहस्राणि स षोडश ॥

@@ -31,6 +31,9 @@ varṣe varṣe sarvakālaṃ kāryastatsvaiḥ sa pūrvavat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 356–357)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.2–4]]
+
 > अन्त्येष्ट्या सुविशुद्धानामशुद्धानां च तद्विधिः ॥
 > त्र्यहे तुर्येऽह्नि दशमे मासि मास्याद्यवत्सरे ।
 > वर्षे वर्षे सर्वकालं कार्यस्तत्स्वैः स पूर्ववत् ॥

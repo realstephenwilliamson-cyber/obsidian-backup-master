@@ -33,6 +33,11 @@ tadetādṛkpūrṇaśivaviśvāveśāya ye'rcanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 97–98)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.152–153]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.153–154]]
+
 *Lead-in:* अतश्च एवमनुशीलयतां शिवतावेशादन्यत् फलं नास्ति--इत्याह--
 
 > तदेतादृक्पूर्णशिवविश्वावेशाय येऽर्चनम् ॥

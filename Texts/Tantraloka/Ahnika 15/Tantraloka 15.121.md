@@ -31,6 +31,11 @@ netrāṇi cordhve'dho'nye ī ghrāṇaṃ mudre ṇu ṇū śrutī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 81–82)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.121–125]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.121–125 (continued)]]
+
 *Lead-in:* मालिनीन्यासमेव निरूपयति--
 
 Jayaratha comments on this verse together with 15.124: see [[Tantraloka 15.124#Viveka|15.124]].

@@ -33,6 +33,11 @@ teṣūdāsīnatāyāṃ tu mucyate mocayetparān || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 237)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.185]]
+>
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.185 (2)]]
+
 *Lead-in:* अत्र च न केवलमेतदेव लक्षणं यावदन्यदपि -- इत्याह --
 
 > शापानुग्रहकार्येषु तथाभ्यासेन शक्तता ।

@@ -24,7 +24,7 @@ Consciousness Vitalizes the Body Through the Breath, verses 14-22ab, pages 230-2
 
 Tying the Topknot, verses 22cd-28cd, pages 238-248 The Sixfold Path in the Breath, verses 28cd-36, pages 248-250 Three Kinds of Terms, verses 31cd-33, pages 250-253 Time and the Path of Time, verses 37-45, pages 253-259 
 
-The Measure of the Movement of the Vital Breath (cãramāna) 
+The Measure of the Movement of the Vital Breath (cāramāna) 
 
 The Eight Kinds of Movement of the Breath, verses 46cd-51ab, pages 259- 262 The Perceptible Flow of the Breath from the Heart to the End of the Twelve The Energies of the Lord, the Self and the Vital Breath, verses 51cd-54, pages 263-265 The Impelling Force of the Vital Breath, verses 55, pages 265-267 Vāmā, Jyeṣthā and Raudrī, verses 56-59, pages 267-269 The Movement of the Breath (uccāra), verses 60-62, pages 269-272 The Projection of Night and Day, the Transits (of the Sun) and the Planets, 
 
@@ -62,7 +62,7 @@ Appendix to Chapter Six: The Cycles of Time in the Cycle of the Breath by Freedo
 
 Abbreviations 
 
-Ajadapramātrsiddhi Asiatic Society of Bengal Atharvaveda Bodleian Library, Oxford Brahmayāmala Bhagavadgītā Bhogakārikā B,ṁadāranyakopaniṣad Chandogyopaniṣad Ciñcinīmatasārasamuccaya Dharmālaṁkārakārikā Devīdyvardhaśatikā Devīpañcaśataka Dhvanyālokālocana Government Oriental Manuscript Library, University of Chennai History of Dharmaśāstra Indo-Iranian Journal IĪśvarapratyabhijṁñāvimarśinī Iśvarapratyabhijñāvivrtivimarśinī Institut Français d'Indologie de Pondichéry Istituto Studi Medio ed Estremo Oriente Iśānaśivagurudevapaddhati Journal Asiatique Journal of the Asiatic Society of Bombay Journal of the Royal Asiatic Society Jayadrathayāmala Kashmiri Series Edition Kaulajñānanirnaya Kramanayapradīpikā Kumārikākhanda of the Manthānabhairavatantra Kulapañcaśikā Khacakrapañcakastotra Kubjikāmata Kashmiri Shaivism, the Secret Supreme KSTS 
+Ajadapramātṛsiddhi Asiatic Society of Bengal Atharvaveda Bodleian Library, Oxford Brahmayāmala Bhagavadgītā Bhogakārikā B,ṁadāranyakopaniṣad Chandogyopaniṣad Ciñcinīmatasārasamuccaya Dharmālaṁkārakārikā Devīdyvardhaśatikā Devīpañcaśataka Dhvanyālokālocana Government Oriental Manuscript Library, University of Chennai History of Dharmaśāstra Indo-Iranian Journal IĪśvarapratyabhijṁñāvimarśinī Iśvarapratyabhijñāvivṛtivimarśinī Institut Français d'Indologie de Pondichéry Istituto Studi Medio ed Estremo Oriente Iśānaśivagurudevapaddhati Journal Asiatique Journal of the Asiatic Society of Bombay Journal of the Royal Asiatic Society Jayadrathayāmala Kashmiri Series Edition Kaulajñānanirnaya Kramanayapradīpikā Kumārikākhanda of the Manthānabhairavatantra Kulapañcaśikā Khacakrapañcakastotra Kubjikāmata Kashmiri Shaivism, the Secret Supreme KSTS 
 
 Kashmiri Series of Texts and Studies KNP 
 
@@ -98,17 +98,17 @@ Monier-Williams Mund
 
 Mundaka Upaniṣad 
 
-MrT 
+MṛT 
 
-Mrgendratantra MrTvK 
+Mṛgendratantra MrTvK 
 
-Mrgendratantravrtti Kriyāpāda MrKri 
+Mṛgendratantravṛtti Kriyāpāda MrKri 
 
-Mrgendratantra Kriyāpāda MrV 
+Mṛgendratantra Kriyāpāda MrV 
 
-Mrgendratantra Vidyāpāda NGMPP 
+Mṛgendratantra Vidyāpāda NGMPP 
 
-Nepal German Manuscript Preservation Project NṢ\$A 
+Nepal German Manuscript Preservation Project NṢA 
 
 Nityāṣodaśikārnava 
 
@@ -152,7 +152,7 @@ Pramānṇavārtika PVi
 
 Pramānṇaviniścaya (+,
 
-Pratyabhijñāhrdaya RSO 
+Pratyabhijñāhṛdaya RSO 
 
 Ricerche e Studi Orientali RT 
 
@@ -192,13 +192,13 @@ Spandanirṇaya SpPra
 
 Spandapradīpikā 
 
-SpSarh 
+SpSaṁ 
 
 Pp andasaridoha 
 
 ŚDr 
 
-ivadrṣtṭi 
+ivadṛṣtṭi 
 
 Śsū 
 
@@ -206,7 +206,7 @@ ivadrṣtṭi
 
 Śsū 
 
-\$ivasūtravimarśinī 
+Śivasūtravimarśinī 
 
 ŚSt 
 
@@ -220,7 +220,7 @@ ivadrṣtṭi
 
 Śvetāśvatara Upaniṣad 
 
-\$atsahasrasaṁhitā 
+Śatsahasrasaṁhitā 
 
 *[p. xi]* ^pg15
 

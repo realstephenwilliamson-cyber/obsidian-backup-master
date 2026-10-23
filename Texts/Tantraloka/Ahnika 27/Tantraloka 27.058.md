@@ -31,6 +31,9 @@ athavā pratyahaṃ proktamānārdhārdhaniyogataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 424)
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.58–59]]
+
 *Lead-in:* न च एतद्युक्तिमात्रसिद्धमेव--इत्याह--
 
 > उक्तं तन्त्रेऽप्यघोरेशे स्वच्छन्दे विभुना तथा ।

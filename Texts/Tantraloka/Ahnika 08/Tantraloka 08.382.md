@@ -35,6 +35,9 @@ yathā pṛthaṅna bhāntyevamūrdhvādhorudradehagāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 359–360)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.382]]
+
 *Lead-in:* (नन्वत्र) स्थिता च धरादिरूपता न विभाव्यते -- इत्येतद्विप्रतिषिद्धम् ? -- इत्याशङ्क्याह --
 
 > उद्रिक्ततैजसत्वेन हेम्नो भूपरमाणवः ।

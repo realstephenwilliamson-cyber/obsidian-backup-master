@@ -33,6 +33,11 @@ tasminvighaṭite yantre sā saṃvitprāṇanātmatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 102–103)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.228–230]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.230–232]]
+
 *Lead-in:* न च एतावतैव अस्य संसारोच्छेदः--इत्याह--
 
 Jayaratha comments on this verse together with 28.229: see [[Tantraloka 28.229#Viveka|28.229]].

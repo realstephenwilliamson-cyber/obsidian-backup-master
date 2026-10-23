@@ -31,6 +31,9 @@ mukhyo doṣastadanye hi doṣāstatprabhavā yataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 331–332)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.79–80]]
+
 > दोषश्चेह न लोकस्थो दोषत्वेन निरूप्यते ।
 > अज्ञानख्यापनायुक्तख्यापनात्मा त्वसौ मतः ॥
 > शिष्यस्यापि तथाभूतज्ञानानाश्वस्तरूपता ।

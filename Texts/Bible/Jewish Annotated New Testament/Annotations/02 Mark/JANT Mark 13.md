@@ -46,6 +46,6 @@ Text: [[NRSVue Mark 13|NRSVue]] · [[Mark 13|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Mark 13#^13-31|31]]:** [[Isaiah 51#^51-6|Isa 51.6]]; [[Isaiah 54#^54-10|54.10]]. ^13-31
 
-**[[NRSVue Mark 13#^13-32|32–35]]:** *No one knows*, is not a rejection of apocalyptic reasoning but a further reason to *keep awake*; cf. 2 Esd 4.52; [[Matthew 25#^25-13|Mt 25.13]]. Contemporaneous and later Jewish texts state that the identity of the messiah, or the time of his coming, is hidden until the end (*4 Ezra* \[2 Esd\] 7.28; *1 En.* 62.7; *b. Pesah.* 54b; *b. Sanh.* 97a). ^13-32
+**[[NRSVue Mark 13#^13-32|32–35]]:** *No one knows*, is not a rejection of apocalyptic reasoning but a further reason to *keep awake*; cf. 2 Esd 4.52; [[Matthew 25#^25-13|Mt 25.13]]. Contemporaneous and later Jewish texts state that the identity of the messiah, or the time of his coming, is hidden until the end (*4 Ezra* \[2 Esd\] 7.28; *1 En.* 62.7; [[Pesachim 54#54b|*b. Pesah.* 54b]]; [[Sanhedrin 97#97a|*b. Sanh.* 97a]]). ^13-32
 
 [[JANT Mark 12|← Mark 12]] · [[Jewish Annotated New Testament|JANT index]] · [[JANT Mark 14|Mark 14 →]]

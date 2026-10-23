@@ -31,6 +31,9 @@ gurvīti ṣaḍare devyaḥ śrīsiddhāvīradarśitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 170)
+> ![[Tantraloka Dyczkowski v11 07 - Chapter Thirty-Three#Viveka on 33.2]]
+
 *Lead-in:* तत्र चक्रभेदमेव तावत् दर्शयति--
 
 Jayaratha comments on this verse together with 33.16: see [[Tantraloka 33.016#Viveka|33.16]].

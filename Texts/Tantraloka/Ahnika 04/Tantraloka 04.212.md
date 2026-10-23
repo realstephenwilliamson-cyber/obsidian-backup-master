@@ -34,6 +34,9 @@ lokairālokyamāno hi dehabandhavidhau sthitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 313–314)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.212]]
+
 *Lead-in:* नन्वेवंविधस्य यागविधेरधिगममात्रादेव किं नामानन्यसामान्यत्वमस्य भवेत् यदेवमुक्तम् ? -- इत्याशङ्क्याह --
 
 > अत्र यागे गतो रूढिं कैवल्यमधिगच्छति ।

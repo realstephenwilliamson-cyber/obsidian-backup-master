@@ -35,6 +35,9 @@ bhāvābhāvagatī ruddhā bhāvābhāvāvarodhadṛk || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 119–120)
+> ![[Tantraloka Dyczkowski v04 05 - Chapter Five, part 3#Viveka on 5.92]]
+
 *Lead-in:* एवमप्यत्राप्रमत्तेन भाव्यम् -- इत्याह --
 
 > भावयेद्भावमन्तःस्थं भावस्थो भावनिःस्पृहः ।

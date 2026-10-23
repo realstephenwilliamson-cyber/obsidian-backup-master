@@ -33,6 +33,11 @@ tattadgirinadīprāyāvacchinne kṣetrapīṭhake || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 325–326)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.323–324]]
+>
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.324–325]]
+
 *Lead-in:* ननु यथा पूर्वः पूर्वः परत्र परत्राधिकारी, तथा परः परः पूर्वत्रापि कस्मान्न? -- इत्याशङ्कां दृष्टान्तोपदर्शनेन प्रशमयति --
 
 > तत्तद्गिरिनदीप्रायावच्छिन्ने क्षेत्रपीठके ॥

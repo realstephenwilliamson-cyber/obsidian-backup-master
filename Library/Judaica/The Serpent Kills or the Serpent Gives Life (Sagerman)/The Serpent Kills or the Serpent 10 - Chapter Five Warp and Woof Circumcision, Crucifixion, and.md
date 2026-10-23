@@ -130,7 +130,7 @@ The recurring theme of the bipartite nature of the divine name, of the efflux fr
 [^33]: *Sar be-yesodot* has a numerical value of nine hundred and eighty-eight.
 [^34]: *Ha-basar moreh ha-sodot \[illegible\]* The phrase “of nakedness” (or “that are in nakedness”), *\[illegible\]* has a numerical value of nine hundred and eighty-eight, while “the flesh” and “the secret,” *ha-basar* and *ha-sodot*, together have a numerical value of nine hundred and eighty-eight. See Weinstock ad loc.
 [^35]: *Yesod ha-basar, panim \[illegible\]* has a numerical value of nine hundred and eighty-eight. See Weinstock’s note, ad loc., for the remaining *gematriyot.*
-[^36]: BT. *Ketubot* 9b.
+[^36]: BT. [[Ketubot 9#9b|*Ketubot* 9b]].
 [^37]: See above, pp. 38–39, 41–45, 47–48.
 
 *[p. 263]* ^pg278

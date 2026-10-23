@@ -36,6 +36,11 @@ buddhiprāṇādito bhinnaṃ caitanyaṃ niścitaṃ balāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 11–13)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.11–12]]
+>
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.12–13]]
+
 *Lead-in:* ननु यथा दर्पणादतिरेकेण प्रतिबिम्बस्य सत्ता नास्ति, एवं संविदतिरेकेणापि प्रमातृप्रमेयाद्यात्मनो विश्ववैचित्र्यस्यास्य -- इति प्राङ्नर्णींतं, तत् कथमिह अन्यथोच्यते ? इत्याशङ्क्याह --
 
 > बुद्धिप्राणादितो भिन्नं चैतन्यं निश्चितं बलात् ॥

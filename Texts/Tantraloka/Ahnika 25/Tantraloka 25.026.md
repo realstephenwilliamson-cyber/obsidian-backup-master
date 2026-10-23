@@ -31,6 +31,9 @@ sarvānugrāhakatvaṃ hi saṃsiddhaṃ dṛśyatāṃ kila || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 366–367)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.25–26]]
+
 > मुक्तिर्विवेकात्तत्त्वानां दीक्षातो योगतो यदि ।
 > चर्यामात्रात्कथं सा स्यादित्यतः सममुत्तरम् ॥
 > प्रहस्योचे विभुः कस्माद् भ्रन्तिस्ते परमेशितुः ।

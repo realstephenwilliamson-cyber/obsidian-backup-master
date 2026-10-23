@@ -1,0 +1,119 @@
+---
+type: "text"
+work: "Talmud Bavli"
+masekhet: "Menachot"
+seder: "Kodashim"
+daf: 15
+translation: "William Davidson Edition - English"
+edition: "English from The William Davidson digital edition of the Koren Noé Talmud, with commentary by Rabbi Adin Even-Israel Steinsaltz"
+license: "CC-BY-NC"
+source: "https://www.sefaria.org/Menachot.15a?ven=William_Davidson_Edition_-_English&lang=en"
+aliases:
+  - "Menachot 15a"
+  - "Menachot 15b"
+  - "BT Menachot 15"
+---
+# Menachot 15
+
+← [[Menachot 14]] · [[Menachot]] · [[Menachot 16]] →
+
+*Seder Kodashim · Menachot · Daf 15* · [[Menachot]] · [[Talmud]]
+
+## 15a
+
+> [!xref]- Mesoret HaShas (15a)
+> - [[Pesachim 80#^80b-4|Pesachim 80b:4]] (line 1)
+> - [[Pesachim 78#^78a-2|Pesachim 78a:2]] (line 1)
+> - [[Menachot 46#^46b-7|Menachot 46b:7]] (line 12)
+> - [[Pesachim 80#^80a-3|Pesachim 80a:3]] (line 4)
+> - [Tosefta Menachot 3:10](https://www.sefaria.org/Tosefta_Menachot.3.10) (line 7)
+> - [[Menachot 80#^80b-2|Menachot 80b:2]] (line 9)
+
+> [!xref]- Ein Mishpat (15a)
+> - [[Mishneh Torah - Sacrifices Rendered Unfit 17#^17-7|Mishneh Torah, Sacrifices Rendered Unfit 17:7]] (line 7)
+> - [[Mishneh Torah - Sacrifices Rendered Unfit 17#^17-8|Mishneh Torah, Sacrifices Rendered Unfit 17:8]] (line 8)
+
+**The Rabbis hold** that **the frontplate effects acceptance for** items that are normally **consumed** by the priests but have become ritually impure. Consequently, the sprinkling of the blood in this case is an entirely valid act that is capable of rendering the remaining pure loaf permitted for consumption. **And Rabbi Yehuda holds** that **the frontplate does not effect acceptance for** items that are **consumed** by the priests and have become impure. Accordingly, the sprinkling of the blood is ineffective in rendering the remaining pure loaf permitted for consumption. ^15a-1
+
+**Rav Huna, son of Rav Natan, said to Rav Pappa:** Can this be the dispute between Rabbi Yehuda and the Rabbis? **But** what about items that normally **ascend** upon the altar? Even Rabbi Yehuda concedes **that the frontplate effects acceptance for** impure items **that** normally **ascend** the altar, **and** Rabbi Yehuda and the Rabbis nevertheless **disagree** with regard to the remaining item in a case of this kind. ^15a-2
+
+The Gemara provides the source for this claim. **As it is taught** in a *baraita*: If **one of the bowls** of frankincense accompanying the shewbread, which are meant to be burned upon the altar, **became impure, Rabbi Yehuda says** that the rites of **both of them may be performed in impurity,** i.e., the priest may even render the second bowl impure and burn both of them together, **as no communal offering is divided,** and the mitzva to sacrifice communal offerings overrides the prohibition against rendering them impure. **And the Rabbis say: The impure one** remains **in its** state of **impurity and the pure one** remains **in its** state of **purity.** Evidently, their dispute does not depend on whether the frontplate effects acceptance. ^15a-3
+
+**And furthermore, Rav Ashi said: Come** and **hear** an additional proof that the dispute between Rabbi Yehuda and the Rabbis does not concern the frontplate, as we learn in a mishna (*Pesaḥim* 80a) with regard to the consumption of the Paschal offering in a state of impurity, that **Rabbi Yehuda says: Even** if **one tribe is ritually impure and all** the rest of **the tribes are pure,** all the tribes **may perform** the rite of the Paschal offering **in** a state of **impurity, as no communal offerings are divided.** Rav Ashi explains: **But here, what** relevance **is there** to the question of whether **the frontplate effects acceptance?** The frontplate effects acceptance for offerings that have become impure; but it does not render it permitted for one who is ritually impure to sacrifice an offering. ^15a-4
+
+**And furthermore, doesn’t Ravina say: Come** and **hear** a proof that the matter of the frontplate cannot be the subject of the dispute between Rabbi Yehuda and the Rabbis, as the mishna teaches: If **one of the** two **loaves** brought on *Shavuot* **or one of the** two **arrangements** of shewbread **became ritually impure, Rabbi Yehuda says: Both must be taken to the place of burning, as no communal offering is divided. And the Rabbis say: The impure one** remains **in its impurity and the pure one may be eaten.** ^15a-5
+
+The Gemara explains the difficulty: **And if it is so,** i.e., that the dispute between them concerns the frontplate, then Rabbi Yehuda **should have** said: They are both burned, **because the frontplate does not effect acceptance for** impure items that are **consumed** by the priests. **Rather, Rabbi Yoḥanan says: It is a settled tradition in the mouth of Rabbi Yehuda that no communal offering is divided,** and if one part of an offering becomes impure, the entire offering is disqualified. ^15a-6
+
+**MISHNA:** **The thanks offering renders the** accompanying **loaves *piggul* but the loaves do not render the thanks offering *piggul*. How so?** If **one slaughtered the thanks offering,** which may be consumed only during the day it is slaughtered and the night thereafter, with the intent **to partake of it the next day,** the offering **and the** accompanying **loaves are rendered *piggul*.** If he slaughtered it with the intent **to partake of the loaves the next day, the loaves are rendered *piggul* and the thanks offering is not *piggul*.** ^15a-7
+
+Likewise, **the lambs** sacrificed with the two loaves meal offering on *Shavuot* **render the** accompanying **loaves *piggul*, but the loaves do not render the lambs *piggul*. How so?** If **one slaughtered the lambs,** which may be consumed only during the day they are slaughtered and the night thereafter, with the intent **to partake of them the next day,** the lambs **and the** accompanying **loaves are rendered *piggul*.** If he did so with the intent **to partake of the loaves the next day, the loaves are rendered *piggul* and the lambs are not *piggul*.** ^15a-8
+
+**GEMARA:** The Gemara asks: **What is the reason** that a thanks offering renders its accompanying loaves *piggul*? **If we say** that it is **due to that** which **Rav Kahana** says, this is problematic. **As Rav Kahana says: From where** is it derived that **the loaves of a thanks offering are** themselves **called a thanks offering?** It is derived from **that** which **is stated** in the verse: **“Then he shall offer with the sacrifice of thanks offering loaves”** ([[Torah 25 - Tzav#^7-12|Leviticus 7:12]]). The juxtaposition of the words “thanks offering” and “loaves” indicates that the loaves are themselves called a thanks offering. ^15a-9
+
+The Gemara explains why the *halakha* of the mishna cannot be derived from Rav Kahana’s exposition. **If so,** then **the opposite** should be the *halakha* **as well,** that intent of *piggul* with regard to the loaves should likewise render the thanks offering *piggul*. The Gemara rejects this suggestion: **This** is **not difficult,** as the **loaves are called a thanks offering,** but **a thanks offering is not called loaves.** ^15a-10
+
+The Gemara asks: **But** with regard to **that which** the mishna **teaches: The lambs** sacrificed with the two loaves meal offering on *Shavuot* **render the** accompanying **loaves *piggul* but the loaves do not render the lambs *piggul*, where do we find that** the two **loaves are called lambs? Rather, is it not** correct that **this is the reason** why the thanks offering renders the loaves *piggul* but not vice versa: The **bread** is brought **on account of [*gelal*]** the **thanks offering, but** the **thanks offering is not** brought **on account of** the **bread,** i.e., the thanks offering is the primary element of the sacrifice. Similarly, the two loaves of **bread are** brought **on account of** the **lambs, and** the **lambs are not** brought **on account of** the **bread.** ^15a-11
+
+The Gemara notes: **And** both of these *halakhot* **are necessary, as, had** the mishna **taught us** the *halakha* only in the case of **a thanks offering,** then one might say: **It is** only **there,** with regard to a thanks offering, **that when one renders the loaves *piggul* the thanks offering is not rendered *piggul*, because they were not bound to one another by waving,** i.e., the mitzva of waving the thanks offering may be fulfilled without the bread. **But** with regard to the **lambs,** in **which** the two items **were bound to one another by waving,** as the two loaves are waved together with the lambs, one might **say** that **when he renders the bread *piggul*,** the **lambs should be rendered *piggul* as well.** Therefore, it was **necessary** for the mishna to teach this *halakha* also with regard to the case of the lambs. ^15a-12
+
+§ **Rabbi Elazar raised a dilemma before Rav:** If **one slaughters the thanks offering** with the intent **to consume an olive-bulk from it and from its loaves the next day, what is** the *halakha*? Rabbi Elazar elaborates: **I do not raise the dilemma with regard to rendering** the **thanks offering *piggul*,** for the following reason: **Now** that in a case where his intent was to consume **the entire** olive-bulk **from its loaves** alone, the thanks offering **is not rendered *piggul*,** in accordance with the mishna’s ruling that *piggul* intent with regard to the loaves does not render the thanks offering *piggul*, then in a case where his intent is to consume half an olive-bulk **from** the thanks offering **and** half an olive-bulk **from its loaves,** in which case the offering is rendered *piggul* only if the two intentions of less than a full measure are combined, is it **necessary** to teach that the thanks offering is not *piggul*? ^15a-13
+
+Rather, **when I raise the dilemma,** it is with regard **to rendering the loaves *piggul*,** which can be rendered *piggul* via intent concerning the loaves alone. In this case, **does** the intention of the priest with regard to the **thanks offering combine** with his intention concerning the loaves **to render the loaves *piggul*, or not?** ^15a-14
+
+Rav **said to** Rabbi Elazar: **Even in this** case, **the loaves are rendered *piggul* and the thanks offering is not rendered *piggul*.** The Gemara asks: **But why** should the loaves be rendered *piggul*? **Let us say** the following ***a fortiori*** inference: **And if** the **thanks offering, which** in this case serves to **render** the loaves ***piggul*, is** itself **not rendered *piggul*,** then the loaves, **which come to render** the thanks offering ***piggul*, but do not render** it ***piggul*,** as the intent to consume half an olive-bulk from the loaves does not combine with the intent to consume half an olive-bulk from the thanks offering to render the thanks offering *piggul*, **is it not logical that the** loaves themselves **should not be rendered *piggul*?** ^15a-15
+
+The Gemara asks: **And do we say an *a fortiori*** inference **in this way? But isn’t it taught** in a *baraita*: There was **an incident involving one** ^15a-16
+
+## 15b
+
+> [!xref]- Mesoret HaShas (15b)
+> - [[Menachot 13#^13b-7|Menachot 13b:7]] (line 10)
+> - [[Menachot 17#^17a-8|Menachot 17a:8]] (line 10)
+> - [Mishnah Menachot 2:5](https://www.sefaria.org/Mishnah_Menachot.2.5) (line 10)
+> - [Tosefta Zevachim 5:1](https://www.sefaria.org/Tosefta_Zevachim.5.1) (line 12)
+> - [[Zevachim 44#^44a-17|Zevachim 44a:17-18]] (line 12)
+> - [Mishnah Kilayim 2:5](https://www.sefaria.org/Mishnah_Kilayim.2.5) (line 2)
+> - [[Yevamot 89#^89a-2|Yevamot 89a:2]] (line 7)
+> - [[Bava Metzia 37#^37a-10|Bava Metzia 37a:10]] (line 2)
+> - [[Gittin 89#^89b-7|Gittin 89b:7]] (line 2)
+> - [[Ketubot 54#^54a-1|Ketubot 54a:1]] (line 2)
+
+> [!xref]- Ein Mishpat (15b)
+> - [[Mishneh Torah - Sacrifices Rendered Unfit 17#^17-17|Mishneh Torah, Sacrifices Rendered Unfit 17:17]] (line 10)
+> - [[Mishneh Torah - Sacrificial Procedure 02#^2-12|Mishneh Torah, Sacrificial Procedure 2:12]] (line 13)
+> - [[Mishneh Torah - Sacrifices Rendered Unfit 18#^18-8|Mishneh Torah, Sacrifices Rendered Unfit 18:8]] (line 15)
+> - [[Mishneh Torah - Offerings for Those with Incomplete Atonement 05#^5-4|Mishneh Torah, Offerings for Those with Incomplete Atonement 5:4]] (line 15)
+> - [[Mishneh Torah - Sacrifices Rendered Unfit 17#^17-8|Mishneh Torah, Sacrifices Rendered Unfit 17:8]] (line 5)
+
+**who planted** seeds in **the vineyard of an another** when the grapes on the vines were **budding, and** the **incident came before the Sages and they deemed the seeds prohibited** due to the prohibition against planting diverse kinds in a vineyard, **but they deemed the vines permitted.** The Gemara continues: **But why** did they deem the seeds prohibited? **Let** the Sages **say** through an analogous ***a fortiori*** inference that the seeds should be permitted: **And if that which renders** an item **prohibited,** i.e., the vine, which causes the seeds to be prohibited, **is** itself **not prohibited,** then with regard to the seeds, **which come to render** the vines **prohibited but did not render** the vines **prohibited, is it not logical that they should not be rendered prohibited?** ^15b-1
+
+The Gemara rejects the comparison: **How can** these cases **be compared? There,** in the *baraita*, only **hemp and arum** are **prohibited** by **Torah** law to be sown in a vineyard, **as we learned** in a mishna (*Kilayim* 2:5): If **one’s field was sown** with **hemp and arum, he should not sow above them, as they produce** a yield only once every **three years. Other seeds are prohibited by rabbinic** law. Therefore, with regard to **this** person **who committed a transgression** by planting the seeds in the vineyard of another, **the Sages penalized him** and deemed his seeds prohibited, but as for **that** person **who did not commit a transgression,** i.e., the owner of the vineyard, **the Sages did not penalize him. But here,** in the case of *piggul*, which is a biblical prohibition, **let us say** such **an *a fortiori*** inference. ^15b-2
+
+**And there are those who teach** the dilemma of Rabbi Elazar **with regard to the lambs** brought with the two loaves, and not with regard to a thanks offering. **Rabbi Elazar raised a dilemma before Rav:** In a case where **one slaughters the lambs** with the intent **to consume an olive-bulk from them and from their loaves** the next day, **what is** the *halakha*? ^15b-3
+
+Rabbi Elazar elaborated: **I do not raise the dilemma with regard to rendering** the **lambs *piggul*** for the following reason: **Now** that in a case where his intent was to consume **an entire** olive-bulk **from the loaves** alone, the lambs **are not rendered *piggul*,** as the mishna teaches that *piggul* intent with regard to the loaves does not render the lambs *piggul*, then in a case where his intent is to consume half an olive-bulk **from them and** half an olive-bulk **from their loaves, is** it **necessary** to teach that the lambs are not *piggul*? Rather, **when I raised the dilemma,** it was **with regard to rendering the loaves *piggul*. Does** his intention with regard to the **lambs combine** with his intention with regard to the loaves **to render the loaves *piggul* or not?** ^15b-4
+
+Rav **said to** Rabbi Elazar: **Even in this** case, **the loaves are rendered *piggul* and the lambs are not rendered *piggul*.** The Gemara asks: **But why** should the loaves be rendered *piggul*? **Let us say** the following ***a fortiori*** inference: **And if that which renders** an item ***piggul*,** i.e., the lambs, since it is maintained that intent to consume half an olive-bulk from the lambs assists to render the loaves *piggul*, **is** itself **not rendered *piggul*,** then with regard to the loaves, **which come to render** the lambs ***piggul*, but do not render** them ***piggul*,** as the intent to consume half an olive-bulk from the loaves does not combine with the intent to consume half an olive-bulk from the lambs to render them *piggul*, **is it not logical that** the loaves themselves **should not be rendered *piggul*?** ^15b-5
+
+The Gemara asks: **And do we say an *a fortiori*** inference **of this kind? But isn’t it taught** in a *baraita* that there was **an incident involving one who planted** seeds in **the vineyard of his friend** when the grapes on the vines were **budding,** and the incident came before the Sages and they deemed the seeds prohibited due to the prohibition against planting diverse kinds in a vineyard, but they deemed the vines permitted. The Gemara continues: **But why** did they deem the seeds prohibited? **Let** the Sages **say** through an analogous ***a fortiori*** inference that the seeds should be permitted: **And** if **that which renders** an item **prohibited,** i.e., the vine, which causes the seeds to be prohibited, **is** itself **not prohibited,** then with regard to the seeds, **which come to render** the vines **prohibited but did not render** the vines **prohibited, is it not logical that** they **should not be rendered prohibited?** ^15b-6
+
+The Gemara rejects the comparison: **How can** these cases **be compared? There,** in the *baraita*, only **hemp and arum** are **prohibited** by **Torah** law to be sown in a vineyard. **Other seeds are prohibited by rabbinic** law. Therefore, with regard to **this** person **who committed a transgression** by planting the seeds in the vineyard of another, **the Sages penalized him** and deemed his seeds prohibited, but as for **this** person **who did not commit a transgression,** i.e., the owner of the vineyard, **the Sages did not penalize him. But here,** in the case of *piggul*, which is a biblical prohibition, **let us say** such **an *a fortiori*** inference. ^15b-7
+
+The Gemara notes: **The one who teaches** that the dilemma of Rabbi Elazar was raised **with regard to the thanks offering** and the accompanying loaves, **all the more so** will hold that the dilemma may be raised **with regard to** the case of **the lambs** brought with the two loaves on *Shavuot*. **But the one who teaches** that Rabbi Elazar’s dilemma was raised **with regard to the lambs** and the two loaves, it is possible that he holds that the dilemma **was** raised only with regard to the **lambs** and the two loaves, **as they were bound to one another by waving,** since the priest waves the lambs and loaves together (see [[Torah 31 - Emor#^23-20|Leviticus 23:20]]). **But** with regard to **a thanks offering** and its loaves, **as they were not bound to one another by waving,** the dilemma was **not** raised, since it is obvious in this case that his intentions do not combine. ^15b-8
+
+**Rabbi Abba the small** taught that Rabbi Elazar **raises the dilemma** in **this** manner: **Rabbi Elazar raised a dilemma before Rav:** If **one slaughters** one of **the lambs** brought on *Shavuot* with the two loaves intending **to consume an olive-bulk from the other the next day, what is** the *halakha*? When this individual thinks of **the other,** does he **mean** the other **lamb, and** if so, the lamb **is not rendered *piggul*,** as one permitting factor does not render another permitting factor *piggul*? **Or perhaps** when this individual thinks of the other he **means** the other part of the offering, i.e., the two **loaves, and** if so his intention **renders it *piggul*,** as taught in the mishna. ^15b-9
+
+Rav **said to** Rabbi Elazar: **You learned** in a mishna (16a): If **one slaughtered one of the lambs** with the intent **to partake of it the next day, that** lamb is ***piggul* and the other** is **fit.** If he slaughtered one lamb with the intent **to partake of the other the next day, both** lambs **are fit,** as one permitting factor does not render another permitting factor *piggul*. Rav concludes: **Evidently,** in this context the term: **The other, means** the other **lamb.** The Gemara rejects this proof: **Perhaps** the mishna is discussing a case **where he clarifies and says: The other lamb,** but the mishna is not referring to a case where he merely thought: The other. ^15b-10
+
+**MISHNA:** **The** animal **offering renders the** accompanying **libations** and meal offerings ***piggul* from** the moment **that they were consecrated in the vessel,** but not before; this is **the statement of Rabbi Meir. The libations do not render the** animal **offering *piggul*. How so?** In the case of **one who slaughters the offering** with the intent **to partake of it the next day,** the offering **and its libations are rendered *piggul*.** But if one slaughters the offering with the intent **to sacrifice its libations the next day, the libations are rendered *piggul*,** while **the offering is not *piggul*.** ^15b-11
+
+**GEMARA:** **The Sages taught** in a *baraita*: With regard to the **libations of an animal** offering, **one is liable for** eating **them due to** violation of the prohibition of ***piggul*, as the blood of the offering permits them to be offered** on the altar, and any item that becomes permitted for consumption or for sacrifice through a permitting factor can be rendered *piggul*, and one who partakes of such an item after its permitting factors were sacrificed is liable to receive *karet*. This is **the statement of Rabbi Meir.** ^15b-12
+
+The Rabbis **said to Rabbi Meir: But a person may bring his offering today and** the accompanying **libations from now until** even **ten days** later. Evidently, then, the blood of the offering does render the libations permitted. Rabbi Meir **said to them: I, too, spoke only about** libations that **come** to be sacrificed together **with the offering** and were already sanctified in a service vessel for that purpose. The Rabbis **said to him:** But **it is possible to switch** the libations **for** use with **another offering.** Clearly, then, they are not considered an indispensable part of that offering. ^15b-13
+
+**Rava said: Rabbi Meir holds** that the libations **are fixed** to this particular offering **at** the time of its **slaughter,** and one may not use them with another offering. Accordingly, these libations are rendered *piggul* on account of intent during the slaughter of the offering, just **like the loaves of a thanks offering,** which are fixed to a particular thanks offering upon its slaughter and become *piggul* on account of intent during the slaughter of that particular thanks offering. ^15b-14
+
+In a similar vein, **the Sages taught:** With regard to the ***log* of oil of the leper** (see [[Torah 28 - Metzora#^14-10|Leviticus 14:10–20]]), **one is liable for** eating **it due to** violation of the prohibition of ***piggul*** if the guilt offering that this oil accompanied became *piggul*, **as** the **blood** of the offering **permits it to** be placed on **the** right **thumb and big toe** of the leper. This is **the statement of Rabbi Meir.** The Rabbis **said to Rabbi Meir: But a person may bring his guilt offering today and** the accompanying ***log*** of oil **from now until** even **ten days** later. Evidently, the *log* of oil is not considered part of the guilt offering, and therefore it should not be rendered *piggul* on account of it. ^15b-15
+
+Rabbi Meir **said to them: I, too, spoke only about** a *log* of oil that **comes with the guilt** offering. The Rabbis said to him: But even in this case, the oil should not be considered part of the offering, as **it is possible to switch** the oil **for** use with **another guilt offering. Rava said: Rabbi Meir holds** that the *log* of oil **is fixed** to this particular guilt offering **at** the time of its **slaughter** and is therefore rendered *piggul* on account of it, just **like the loaves of a thanks offering,** as the slaughter of the thanks offering fixes the accompanying loaves to that particular offering. ^15b-16

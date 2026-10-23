@@ -39,6 +39,13 @@ yogāṣṭakaṃ guṇaskandhe proktaṃ śivatanau punaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 274–276)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.262–263]]
+>
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.263]]
+>
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.263–267]]
+
 *Lead-in:* अन्यत्र पुनरियान्विशेषः -- इत्याह --
 
 > योगाष्टकं गुणस्कन्धे प्रोक्तं शिवतनौ पुनः ॥

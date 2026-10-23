@@ -34,6 +34,9 @@ devadevena nirdiṣṭaṃ svaśabdenātha liṅgataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 84)
+> ![[Tantraloka Dyczkowski v01 04 - Chapter One, part 3#Viveka on 1.17]]
+
 *Lead-in:* ननु सामान्येन त्रिकदर्शनप्रक्रियाकरणं प्रतिज्ञाय, सम्भवत्यपि तदर्थाभिधायिनि शास्त्रजाते किमिति श्रीमालिनीविजयोत्तरमेवाधिकृत्य तन्निर्वाहयिष्यते ? इत्याशङ्क्याह --
 
 > न तदस्तीह यन्न श्रीमालिनीविजयोत्तरे ।

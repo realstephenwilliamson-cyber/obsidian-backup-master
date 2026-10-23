@@ -33,6 +33,11 @@ taccakracāraniṣṇātā ye kecit pūrṇasaṃvidaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 12–15)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.15–18]]
+>
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.18–20]]
+
 *Lead-in:* एतदभिज्ञाश्च सिद्धयोगिन्यादयोऽत्र पूजापराः--इत्याह--
 
 Jayaratha comments on this verse together with 28.17: see [[Tantraloka 28.017#Viveka|28.17]].

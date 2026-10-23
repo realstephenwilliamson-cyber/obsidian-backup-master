@@ -66,7 +66,7 @@ Compare: [[NRSVue 2 Samuel 21|NRSVue]]
 
 [^1]: Meaning of Heb. uncertain.
 [^2]: Emendation yields “at Gibeon, on the mountain of the Lord” (cf. Septuagint and v. 9).
-[^3]: So two Heb. mss., many Septuagint mss., and Peshitta; and cf. Targum, Sanhedrin 19b, and 1 Sam. 18.19. Most mss. and the printed editions read “Michal.”
+[^3]: So two Heb. mss., many Septuagint mss., and Peshitta; and cf. Targum, [[Sanhedrin 19#19b|Sanhedrin 19b]], and 1 Sam. 18.19. Most mss. and the printed editions read “Michal.”
 [^4]: Heb. “them.”
 [^5]: Septuagint adds “and the bones of those impaled.”
 [^6]: Meaning of Heb. uncertain.

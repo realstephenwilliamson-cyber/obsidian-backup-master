@@ -33,6 +33,11 @@ tena yadyadihāsannaṃ saṃvidaścidanugrahāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 103)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.164]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.164–165]]
+
 *Lead-in:* ननु कथं पराभिप्रायेण परस्य एवंरूपत्वं स्यात्?--इत्याशङ्क्य आह--
 
 > स्वतादवस्थ्यात्पूर्वस्मादथवाऽप्युपकल्पितात् ।

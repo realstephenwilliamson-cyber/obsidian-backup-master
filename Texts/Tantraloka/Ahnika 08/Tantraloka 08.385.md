@@ -35,6 +35,9 @@ tadardhamardhacandrastadaṣṭāṃśena nirodhikā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 361)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.385]]
+
 *Lead-in:* अर्धचन्द्रादेश्च मन्त्रप्रमेयरूपत्वात् तदुचितमेव यथोत्तरं सूक्ष्मसूक्ष्मतरादिरूपत्वं दर्शयति -
 
 > अर्धमात्रः स्मृतो बिन्दुर्व्योमरूपी चतुष्कलः ।

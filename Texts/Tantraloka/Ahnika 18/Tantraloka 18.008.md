@@ -34,6 +34,11 @@ gurustathā tathā kuryāt saṃkṣiptaṃ karma nānyathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 197)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 18.9.*
+>
+> ![[Tantraloka Dyczkowski v09 09 - Chapter Eighteen#Viveka on 18.9]]
+
 *Lead-in:* न च एतद् गुरुमात्रकार्यम्--इत्याह--
 
 > यथा यथा च स्वभ्यस्तज्ञानस्तन्मयतात्मकः ।

@@ -34,6 +34,9 @@ hatvā tāṃ caikaviṃśatyā sahasraiḥ ṣaṭśatena ca || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 360)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.132–134]]
+
 > तच्च द्वादशभिर्हत्वा माससंख्यात्र लभ्यते ॥
 > तां पुनस्त्रिंशता हत्वाहोरात्रकल्पना वदेत् ।
 > हत्वा तां चैकविंशत्या सहस्रैः षट्शतेन च ॥

@@ -35,6 +35,9 @@ tattanmantreṇa juhuyājjanmayogaviyogayoḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 108)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.248]]
+
 *Lead-in:* एवं यथेप्सितशोद्धृसंपुटितं शिष्यनाम कल्पयित्वा किं कुर्यात्?-- इत्याशङ्क्याह--
 
 > द्रव्ययोगेन दीक्षायां तिलाज्याक्षततण्डुलम् ।

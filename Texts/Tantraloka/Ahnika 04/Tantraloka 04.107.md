@@ -34,6 +34,9 @@ prāṇāyāmādikairaṅgairyogāḥ syuḥ kṛtrimā yataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 127–128)
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.106–108]]
+
 > उक्तं श्रीपूर्वशास्त्रे च न द्वैतं नापि चाद्वयम् ।
 > लिंङ्गापूजादिकं सर्वमित्युपक्रम्य शम्भुना ॥
 > विहितं सर्वमेवात्र प्रतिषिद्धमथापि वा ।

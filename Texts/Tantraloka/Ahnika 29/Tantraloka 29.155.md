@@ -31,6 +31,9 @@ avyaktadhvanirāvasphoṭaśrutinādanādāntaiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 336)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.154–156]]
+
 > एतत्खेचरमुद्रावेशेऽन्योन्यस्य शक्तिशक्तिमतोः ॥
 > पानोपभोगलीलाहासादिषु यो भवेद्विमर्शमयः ।
 > अव्यक्तध्वनिरावस्फोटश्रुतिनादनादान्तैः ॥

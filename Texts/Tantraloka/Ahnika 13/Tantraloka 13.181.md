@@ -31,6 +31,9 @@ māhātmyametatsuśroṇi prātibhasya vidhīyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 235–236)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.180–182]]
+
 > सर्वभावविवेकात्तु सर्वभावपराङ्मुखः ॥
 > क्रीडासु सुविरक्तात्मा शिवभावैकभावितः ।
 > माहात्म्यमेतत्सुश्रोणि प्रातिभस्य विधीयते ॥

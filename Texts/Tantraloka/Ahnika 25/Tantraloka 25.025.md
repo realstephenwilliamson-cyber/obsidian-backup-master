@@ -31,6 +31,9 @@ caryāmātrātkathaṃ sā syādityataḥ samamuttaram || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 366–367)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.25–26]]
+
 *Lead-in:* तत्र मुनिप्रश्नमेव तावदाह--
 
 Jayaratha comments on this verse together with 25.26: see [[Tantraloka 25.026#Viveka|25.26]].

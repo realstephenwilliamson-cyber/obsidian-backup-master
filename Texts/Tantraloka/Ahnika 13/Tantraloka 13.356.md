@@ -31,6 +31,9 @@ jihāsecchaktipātena sa dhanyaḥ pronmukhīkṛtaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 342)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.356]]
+
 *Lead-in:* ननु यद्येवमूर्ध्वशासनस्थोऽप्यधराधरे गुर्वादौ रज्यन् प्रत्यवेयात्, तदूर्ध्वोर्ध्वं मार्गं प्राप्तुमिच्छुरधरं गुर्वादि परिहरन् कीदृक् स्यात्? -- इत्याशङ्क्याह --
 
 > यस्तूर्ध्वोर्ध्वपथप्रेप्सुरधरं गुरुमागमम् ।

@@ -34,5 +34,10 @@ kāryetyājñā maheśasya śrīmadgahvarabhāṣitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 80)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 16.184.*
+>
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.184]]
+
 Jayaratha comments on this verse together with 16.184: see [[Tantraloka 16.184#Viveka|16.184]].
 

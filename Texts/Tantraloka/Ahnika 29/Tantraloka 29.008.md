@@ -31,6 +31,9 @@ kiñcidatropayujyeta kṛtaṃ vā khaṇḍanāya no || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 206–207)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.8]]
+
 *Lead-in:* ननु एवमाधारभेदवदितिकर्तव्यतापि अत्र किं तन्त्रप्रक्रियातः किञ्चिद्विभिद्यते न वा ?--इत्याशङ्क्य आह--
 
 > स्नानमण्डलकुण्डादि षोढान्यासादि यन्न तत् ।

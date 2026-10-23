@@ -32,6 +32,9 @@ vedoktiṃ vaiṣṇavoktiṃ ca tairuktaṃ varjayetsadā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 333–334)
+> ![[Tantraloka Dyczkowski v08 10 - Chapter Fifteen, part 9#Viveka on 15.571]]
+
 > श्रीमत्त्रैशिरसेऽप्युक्तं कृच्छ्रचान्द्रायणादिभिः ॥
 > अरण्ये काष्ठवत्तिष्ठेदसिधाराव्रतोऽपि सन् ।
 > नियमस्थो यमस्थोऽपि तत्पदं नाश्नुते परम् ॥

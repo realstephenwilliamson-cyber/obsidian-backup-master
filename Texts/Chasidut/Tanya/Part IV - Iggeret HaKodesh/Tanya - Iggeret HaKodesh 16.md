@@ -44,23 +44,23 @@ But it will be well with those who give heed, and upon them shall come the bless
 [^2]: Lit.: and broaden (a space) for them in the straits (cf. [[Psalms 004#^4-2|Psalms 4:2]]; [[Psalms 118#^118-5|118:5]]).
 [^3]: Par. [[Torah 47 - Re'eh#^15-7|Deuteronomy 15:7]], 8, and [[Jeremiah 02#^2-34|Jeremiah 2:34]].
 [^4]: [[Torah 32 - Behar#^25-36|Leviticus 25:36]]. See the commentaries by Nachmanides and R. Ovadia Seforno, ad loc.
-[^5]: *Bava Metzia* 62a, in comment on [[Torah 32 - Behar#^25-36|Leviticus 25:36]] (“that your brother may live with you”—thus: your own life takes precedence).
+[^5]: [[Bava Metzia 62#62a|*Bava Metzia* 62a]], in comment on [[Torah 32 - Behar#^25-36|Leviticus 25:36]] (“that your brother may live with you”—thus: your own life takes precedence).
 [^6]: See ibid.
 [^7]: The luxuries of the wealthy.
 [^8]: Needs, therefore, take precedence to luxuries.
-[^9]: *Nedarim* 80b. See also *Tosefta*, *Bava Metzia* 11:14; Jerusalem Talmud, *Shevi’it* 8:5 and *Nedarim* 11:1.
-[^10]: *Bava Metzia* 33a; see the commentaries by Rashi and *Maharsha*, ad loc. See also *Tosefta*, *Bava Metzia* 11:14, and the comment. *Minchat Bikurim*, ad loc.
+[^9]: [[Nedarim 80#80b|*Nedarim* 80b]]. See also *Tosefta*, *Bava Metzia* 11:14; Jerusalem Talmud, *Shevi’it* 8:5 and *Nedarim* 11:1.
+[^10]: [[Bava Metzia 33#33a|*Bava Metzia* 33a]]; see the commentaries by Rashi and *Maharsha*, ad loc. See also *Tosefta*, *Bava Metzia* 11:14, and the comment. *Minchat Bikurim*, ad loc.
 [^11]: Cf. Mishnah, *Sotah* 1:7.
 [^12]: [[Ecclesiastes 07#^7-20|Ecclesiastes 7:20]].
-[^13]: See *Devarim Rabbah* 5:3 (cf. *Sukkah* 49b). See also *Sefer Chassidim*, sect. 61 and 170; *Netivot Olam*, s.v. גמ”ח, beg. of ch. 1 and ibid., s.v. *Tzedakah*, end of ch. 4. Cf. *Iggeret Hateshuvah*, ch. 3.
+[^13]: See *Devarim Rabbah* 5:3 (cf. [[Sukkah 49#49b|*Sukkah* 49b]]). See also *Sefer Chassidim*, sect. 61 and 170; *Netivot Olam*, s.v. גמ”ח, beg. of ch. 1 and ibid., s.v. *Tzedakah*, end of ch. 4. Cf. *Iggeret Hateshuvah*, ch. 3.
 [^14]: See *Vayikra Rabbah* 27:1.
 [^15]: Cf. *Midrash Tehillim* 41:4; *Tanchuma*, *Mishpatim* 15.
 [^16]: Soul, or life.—[[Job 02#^2-4|Job 2:4]]. Cf. above, Epistle 10 (note 49).
-[^17]: *Shabbat* 97a.
+[^17]: [[Shabbat 97#97a|*Shabbat* 97a]].
 [^18]: *Bava Batra*, end of 10a; see *Rashi* and *Chiddushei Aggadot* by *Maharal*, ad loc., and *Netivot Olam*, s.v. *Tzedakah*, ch. 4. See also *Tanchuma*, *Mishpatim* 15.
 [^19]: [[Proverbs 19#^19-17|Proverbs 19:17]].
 [^20]: See note following.
-[^21]: *Kiddushin* 39b-40a (see *Rashi*, s.v. Rabbi Idi).
-[^22]: *Chagigah* 9b.
+[^21]: [[Kiddushin 39#39b|*Kiddushin* 39b]]-40a (see *Rashi*, s.v. Rabbi Idi).
+[^22]: [[Chagigah 9#9b|*Chagigah* 9b]].
 [^23]: Par. [[Proverbs 24#^24-25|Proverbs 24:25]].
 [^24]: [[Psalms 125#^125-4|Psalms 125:4]].

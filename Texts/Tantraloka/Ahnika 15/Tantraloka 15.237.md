@@ -31,6 +31,9 @@ taṃ varmavāyunādhūya tiṣṭhecchuddhacidātmani || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 143–144)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.237]]
+
 *Lead-in:* एवमनात्मस्वभावे देहादौ तदनुवेधमपि अवधूय पराहंपरामर्शमये सत्यरूपे चिदात्मनि विश्राम्येत् ?--इत्याह--
 
 > तद्देहसंस्कारभरो भस्मत्वेनाथ यः स्थितः ।

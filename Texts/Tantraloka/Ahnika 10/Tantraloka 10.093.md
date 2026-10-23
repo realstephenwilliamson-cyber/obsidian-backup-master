@@ -33,6 +33,11 @@ jānāmi ghaṭamityatra vedyatānuparāgavān || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 354–355)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.92–93]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.93–94]]
+
 *Lead-in:* ननु धर्मान्तरं व्यवच्छेत्स्यता विकल्पेन प्रमात्रन्तरवेद्यता व्यवच्छिद्यतां नहि तामन्तरेण स्वरूपमेव न स्यात् तत्प्रमातृवेद्यता तु कथङ्कारं तिरोधीयेत ? -- इत्याशङ्क्याह --
 
 > जानामि घटमित्यत्र वेद्यतानुपरागवान् ॥

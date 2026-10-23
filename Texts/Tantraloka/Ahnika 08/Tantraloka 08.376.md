@@ -35,6 +35,11 @@ adhikārabandhavilaye śāntāḥ śivarūpiṇo punarbhavinaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 355–356)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 8.377–378.*
+>
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.377–378]]
+
 > मन्त्रमुनिकोटिपरिवृतमथ विभुवामादिरुद्रतच्छक्तियुतम् ॥
 > तारादिशक्तिजुष्टं सुशिवासनमतिसितकजमसंख्यदलम् ।
 > यः शक्तिरुद्रवर्गः परिवारे विष्टरे च सुशिवस्य ॥

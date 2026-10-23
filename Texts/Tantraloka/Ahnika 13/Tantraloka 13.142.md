@@ -33,6 +33,11 @@ dṛḍhatākampratābhedaiḥ so'pi svayamatha vratāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 211–212)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.142]]
+>
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.142–143]]
+
 *Lead-in:* ननु एवमपि वृत्तदीक्षोऽयमिति न भवितुमर्हति? -- इत्याशङ्क्याह --
 
 > देवीभिर्दीक्षितस्तेन सभक्तिः शिवशासने ।

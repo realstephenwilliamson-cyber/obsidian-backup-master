@@ -31,6 +31,9 @@ anyatantrābhiṣikte'pi rahasyaṃ na prakāśayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 288)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.31–32]]
+
 *Lead-in:* कामिकाग्रन्थमेव पठति--
 
 > अन्यतन्त्राभिषिक्तेऽपि रहस्यं न प्रकाशयेत् ॥

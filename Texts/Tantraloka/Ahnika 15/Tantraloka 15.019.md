@@ -31,6 +31,9 @@ uttarottaratābhūmyutkṛṣṭo gururudīritaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 16)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.19]]
+
 *Lead-in:* एवमिदमियता सिद्धम्--इत्याह--
 
 > तत्रोक्तलक्षणः कर्मयोगज्ञानविशारदः ।

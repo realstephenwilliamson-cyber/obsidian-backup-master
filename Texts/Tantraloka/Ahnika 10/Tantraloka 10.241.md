@@ -31,6 +31,9 @@ piṇḍasthamiti taṃ prāhuriti śrīmālinīmate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 448–449)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.241]]
+
 *Lead-in:* ननु मेयभूमिरेव मुख्या जाग्रदवस्थेत्यत्र किं प्रमाणम्? -- इत्याशङ्क्याह --
 
 > भूततत्त्वाभिधानानां योंऽशोऽधिष्ठेय उच्यते ।

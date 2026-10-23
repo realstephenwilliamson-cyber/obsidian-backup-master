@@ -37,6 +37,11 @@ māyordhve ye sitādhvasthāsteṣāṃ paraśive layaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 389)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.174–175]]
+>
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.175–176]]
+
 *Lead-in:* शुद्धाध्वव्यवस्थितानां पुनः किं परमं पदम् ? -- इत्याशङ्क्याह - -
 
 > मायोर्ध्वे ये सिताध्वस्थास्तेषां परशिवे लयः ॥

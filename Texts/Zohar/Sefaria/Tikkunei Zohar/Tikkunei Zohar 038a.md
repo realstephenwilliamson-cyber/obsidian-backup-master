@@ -261,12 +261,12 @@ Just as he
 [^15]: ה
 [^16]: י
 [^17]: *Bereishyt Rabbah* 15:6, *Shir HaShirim Rabbah* 6:21
-[^18]: See *BT* Pesaḥim 94b
+[^18]: See *BT* [[Pesachim 94#94b|Pesaḥim 94b]]
 [^19]: Netzaḥ-Hod
 [^20]: *yamah*
-[^21]: *BT* Ḥagigah 15a
-[^22]: *BT* Berakhot 48b, Yoma 38b, Mo’ed Qatan 28a
-[^23]: See *BT* Yevamot 121b and Baba Qamma 50a
+[^21]: *BT* [[Chagigah 15#15a|Ḥagigah 15a]]
+[^22]: *BT* [[Berakhot 48#48b|Berakhot 48b]], [[Yoma 38#38b|Yoma 38b]], Mo’ed Qatan 28a
+[^23]: See *BT* [[Yevamot 121#121b|Yevamot 121b]] and Baba Qamma 50a
 [^24]: garden
 [^25]: 53
 [^26]: *gan*

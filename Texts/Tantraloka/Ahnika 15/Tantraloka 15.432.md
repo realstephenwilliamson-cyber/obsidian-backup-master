@@ -32,6 +32,9 @@ māyā bindustathaivātmā nādaḥ śaktiḥ śivastathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 267–268)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.432–436]]
+
 *Lead-in:* एवमनुसन्धाने प्रकारान्तरमाह--
 
 Jayaratha comments on this verse together with 15.435: see [[Tantraloka 15.435#Viveka|15.435]].

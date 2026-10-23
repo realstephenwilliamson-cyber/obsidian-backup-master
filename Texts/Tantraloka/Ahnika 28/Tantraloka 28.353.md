@@ -33,6 +33,11 @@ tattādṛktādṛśairbandhuputramitrādibhiḥ saha || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 155–156)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.351–353]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.353–354]]
+
 *Lead-in:* ननु यदि नाम अस्य भावनामात्रोपनत एव देहान्तरोदयः, तत् किं नाम शोकादिवत् भावयित्रेकगोचर एव असौ स्यात्, उत सर्वजनसंवेद्योऽपि?--इत्याशङ्क्य आह--
 
 > तत्तादृक्तादृशैर्बन्धुपुत्रमित्रादिभिः सह ॥

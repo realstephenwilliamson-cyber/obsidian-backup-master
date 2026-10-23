@@ -33,6 +33,11 @@ asyāṃ bhedo hi kathanātsaṅgamādavalokanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 265–266)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.227]]
+>
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.227–229]]
+
 *Lead-in:* ननु देहसंबन्धेऽप्यस्य कथमेवंरूपत्वं स्यात् ? -- इत्याशङ्क्याह --
 
 > देहसंबन्धिताप्यस्य शिवतायै यतः स्फुटा ।

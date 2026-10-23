@@ -34,6 +34,9 @@ tadabhāve bhavedviśvaṃ jaḍatvādaprakāśakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 19–20)
+> ![[Tantraloka Dyczkowski v02 02 - Chapter Two, part 1#Viveka on 2.10]]
+
 *Lead-in:* तदाह—
 
 > संवित्तत्त्वं स्वप्रकाशमित्यस्मिन्किं नु युक्तिभिः ।

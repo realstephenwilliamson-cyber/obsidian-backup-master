@@ -33,6 +33,11 @@ yā vāhayitumiṣyeta nāḍī tāmeva bhāvayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 364–365)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.19]]
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.19–21]]
+
 *Lead-in:* भाविना विधिनेति यदुक्तं तदेव दर्शयति--
 
 > अथ वच्मः स्फुटं श्रीमत्सिद्धये नाडिचारणम् ।

@@ -31,6 +31,9 @@ viśeṣaṇamidaṃ hetau hetvarthaśca nirūpitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 90–91)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.135–137]]
+
 > उक्तं श्रीपूर्वतन्त्रे च विशेषविधिहीनिते ॥
 > न्यस्येच्छाक्तशरीरार्थं भिन्नयोनिं तु मालिनीम् ।
 > विशेषणमिदं हेतौ हेत्वर्थश्च निरूपितः ॥

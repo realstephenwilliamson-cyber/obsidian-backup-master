@@ -31,6 +31,9 @@ sādāśivo'pi yo bhogo bandhaḥ so'pyucitātmanām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 358)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.26]]
+
 *Lead-in:* एवं चैतदेव परमुपेयं येन जीवतोऽपि मुक्तिः स्यात्, अतश्च क्षणमात्रावभासिनि कृत्रिमप्राये भोगादावासक्तिर्न कार्या -- इत्याह --
 
 > एन्द्रजालिकवृत्तान्ते न रज्येत कदाचन ।

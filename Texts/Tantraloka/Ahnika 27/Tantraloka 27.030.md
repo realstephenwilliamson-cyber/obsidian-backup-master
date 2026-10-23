@@ -31,6 +31,9 @@ vīradhātujalodbhūtamuktāratnasuvarṇajam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 413–414)
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.30–32]]
+
 *Lead-in:* एवं लिङ्गस्वरूपं बहुधा व्याख्याय अक्षसूत्रं निरूपयति--
 
 Jayaratha comments on this verse together with 27.31: see [[Tantraloka 27.031#Viveka|27.31]].

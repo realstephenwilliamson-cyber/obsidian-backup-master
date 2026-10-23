@@ -36,6 +36,11 @@ anuttarānandaśaktī tatra rūḍhimupāgate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 197–202)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.94–95]]
+>
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.95–96]]
+
 *Lead-in:* न केवलमनुत्तरानन्दयोरिच्छायां योगे संध्यक्षरलक्षणपरामर्शान्तरोदयो यावदत्रापि -- इत्याह --
 
 > अनुत्तरानन्दशक्ती तत्र रूढिमुपागते ॥

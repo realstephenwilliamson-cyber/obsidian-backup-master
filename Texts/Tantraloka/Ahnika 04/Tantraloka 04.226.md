@@ -36,6 +36,11 @@ mantrāḥ svabhāvataḥ śuddhā yadi te'pi na kiṃ tathā |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 322–323)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.226]]
+>
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.226 (2)]]
+
 *Lead-in:* नन्वाकाशादिभूतपञ्चकगुणभूतशब्दात्मका मन्त्रा यदि स्वभावत एव शुद्धाः, तत् किमिति स्वयमेव पृथिव्यादयोऽपि स्वभावत एव शुद्धा न स्युः ? इत्याह --
 
 > मन्त्राः स्वभावतः शुद्धा यदि तेऽपि न किं तथा ।

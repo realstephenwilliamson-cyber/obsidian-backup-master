@@ -33,5 +33,10 @@ anayā tu diśā prāyaḥ sarvabhedeṣu vidyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 404)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.183]]
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.183–184]]
+
 Jayaratha comments on this verse together with 10.184: see [[Tantraloka 10.184#Viveka|10.184]].
 

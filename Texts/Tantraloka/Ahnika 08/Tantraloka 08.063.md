@@ -36,6 +36,11 @@ niṣadho hemakūṭaśca himavāndakṣiṇe trayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 111–117)
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.62–63]]
+>
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.63–67]]
+
 *Lead-in:* नवधा जातत्वमेव अस्य दर्शयति --
 
 Jayaratha comments on this verse together with 8.62: see [[Tantraloka 08.062#Viveka|8.62]].

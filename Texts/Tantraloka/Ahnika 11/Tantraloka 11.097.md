@@ -35,6 +35,9 @@ tathā māyādibhūmyantalekhācitrahṛdaścitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 86–87)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.97]]
+
 *Lead-in:* ननु चिदेव यद्येवं परिस्फुरति तदेकचित्तत्त्वसाराः सन्तः सर्वे भावाः कथमिवान्योन्यस्य वैचित्र्यमासादयेयुः? -- इत्याशङ्क्याह --
 
 > शालग्रामोपलाः केचिच्चित्राकृतिभृतो यथा ।

@@ -34,6 +34,11 @@ tattvavargātpṛthagbhūtasamākhyānyata eva hi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 369)
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.190]]
+>
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.190 (continued)]]
+
 *Lead-in:* ननु अस्तु एवम्, भूतानां पुनः पृथक् निर्देशे किं निमित्तम् ? इत्याशङ्क्याह—
 
 > भूतान्यध्यक्षसिद्धानि कार्यहेत्वनुमेयतः ।

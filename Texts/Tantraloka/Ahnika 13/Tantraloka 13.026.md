@@ -31,6 +31,9 @@ mithyājñānaṃ yadi tatastādṛśātkarmaṇaḥ phalam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 138)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.25–26]]
+
 > वक्तव्यं तर्हि किं कर्म यदा सूते स्वकं फलम् ।
 > तदैव मिथ्याज्ञानेन सता हेतुत्वमाप्यते ॥
 > अथ यस्मिन्क्षणे कर्म कृतं तत्र स्वरूपसत् ।

@@ -31,6 +31,9 @@ samyagvyavaharaṃstadvacchivabhāk tatprasiddhitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 228)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.2]]
+
 *Lead-in:* ननु लौकिकप्रमाणगोचरे वस्तुनि अस्तु प्रसिद्धिनिबन्धना सिद्धिः, सकलप्रमाणागोचरे योगिनामपि अगम्ये शिवे तु कथमेवं स्यात्?-- इत्याशङ्क्य आह--
 
 > यथा लौकिकदृष्ट्यान्यफलभाक् तत्प्रसिद्धितः ।

@@ -33,6 +33,11 @@ na ca hetutvamātreṇa tadādānatvavedanāt |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 275–276)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.299]]
+>
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.299–300]]
+
 *Lead-in:* ननु पटहे ध्वनिरिति पटहहेतुत्वादन्यथा सिद्धोऽयमवभासः? -- इत्याशङ्क्याह --
 
 > न च हेतुत्वमात्रेण तदादानत्ववेदनात् ।

@@ -35,6 +35,9 @@ mantramudrākriyopāsāstadanyā nātra kāścana || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 394–395)
+> ![[Tantraloka Dyczkowski v02 12 - Chapter Three, part 9#Viveka on 3.268–270]]
+
 > संविदात्मनि विश्वोऽयं भाववर्गः प्रपञ्चवान् ।
 > प्रतिबिम्बतया भाति यस्य विश्वेश्वरो हि सः ॥
 > एवमात्मनि यस्येदृगविकल्पः सदोदयः ।

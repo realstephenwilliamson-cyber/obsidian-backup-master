@@ -34,6 +34,11 @@ maṇḍalastho'hamevāyaṃ sākṣī cākhilakarmaṇām |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 39)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 16.82.*
+>
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.82]]
+
 *Lead-in:* अस्य षोढाभिन्नत्वमेव दर्शयितुं तत्प्रतिपादकमागमग्रन्थं तात्पर्यतो व्याचष्टे--
 
 Jayaratha comments on this verse together with 16.82: see [[Tantraloka 16.082#Viveka|16.82]].

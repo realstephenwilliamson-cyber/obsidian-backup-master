@@ -35,6 +35,9 @@ tāṃ parāṃ pratibhāṃ devīṃ saṃgirante hyanuttarām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 137–138)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.66]]
+
 *Lead-in:* स चायमामर्शो न साङ्केतिकः अपि तु "चित्स्वभावतामात्रनान्तरीयकः स्वरसोदितः परावाग्रूप इति सर्वैरुद्धोष्यते -- इत्याह"--
 
 > अनन्यापेक्षिता यास्य विश्वात्मत्वं प्रति प्रभोः ।

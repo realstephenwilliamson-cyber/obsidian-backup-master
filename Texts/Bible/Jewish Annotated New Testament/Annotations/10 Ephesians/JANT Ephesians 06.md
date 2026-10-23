@@ -12,7 +12,7 @@ source: "Oxford University Press 2017 (2nd ed.; ISBN 978-0-19-046185-0); Stephen
 
 Text: [[NRSVue Ephesians 06|NRSVue]] · [[Ephesians 06|BSB and SBLGNT]] · Introduction: [[JANT Ephesians - Introduction]]
 
-**[[NRSVue Ephesians 06#^6-1|6.1–3]]:** *Obey your parents*, followed by a near quotation of [[Torah 45 - Vaetchanan#^5-16|Deut 5.16]], suggesting that honoring parents means obeying them. According to *b. Qidd*. 31b, obeying is subsumed under the commandment to fear parents ([[Torah 30 - Kedoshim#^19-3|Lev 19.3]]), while honoring means substantively to support them when they are in *bones* b Other ancient authorities lack *in the Lord* need. ^6-1
+**[[NRSVue Ephesians 06#^6-1|6.1–3]]:** *Obey your parents*, followed by a near quotation of [[Torah 45 - Vaetchanan#^5-16|Deut 5.16]], suggesting that honoring parents means obeying them. According to [[Kiddushin 31#31b|*b. Qidd*. 31b]], obeying is subsumed under the commandment to fear parents ([[Torah 30 - Kedoshim#^19-3|Lev 19.3]]), while honoring means substantively to support them when they are in *bones* b Other ancient authorities lack *in the Lord* need. ^6-1
 
 **[[NRSVue Ephesians 06#^6-3|3]]:** *Be well with you . . . live long*, order reversed from [[Torah 45 - Vaetchanan#^5-16|Deut 5.16]], which refers to all Israel living long in the land of Israel, not personal longevity. ^6-3
 

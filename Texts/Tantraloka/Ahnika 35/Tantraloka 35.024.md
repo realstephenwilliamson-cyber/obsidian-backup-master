@@ -31,6 +31,9 @@ vicitreṣu phaleṣveka upāyaḥ śāmbhavāgamaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 203)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.24]]
+
 *Lead-in:* ननु यदि एक एव अयमागमो विभुना दर्शितः, तत् धर्मादेश्चतुर्वर्गस्य प्रतिशास्त्रं स्वरूपतः फलतश्च वैचित्र्ये किं निमित्तम्?-- इत्याशङ्क्य आह--
 
 > धर्मार्थकाममोक्षेषु पूर्णापूर्णादिभेदतः ।

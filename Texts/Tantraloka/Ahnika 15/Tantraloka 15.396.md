@@ -32,6 +32,9 @@ kriyamāṇe kṛte vāpi saṃskriyālpetarāpi vā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 243)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.395–396]]
+
 > अहं शिवो मन्त्रमयः सङ्कल्पा मे तदात्मकाः ।
 > तज्जं च कुण्डवह्न्यादि शिवात्मेति स्फुटं स्मरेत् ॥
 > अत एव हि तत्रापि दार्ढ्यादार्ढ्यावलोकनात् ।

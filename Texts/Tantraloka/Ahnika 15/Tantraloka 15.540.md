@@ -34,6 +34,11 @@ nopabhuñjīta tatpadbhyāṃ na spṛśet kintu vandayet |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 323–328)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.537–540]]
+>
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.540–545]]
+
 *Lead-in:* ननु कस्मादेवं गुर्वाराधने भरः?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 15.539: see [[Tantraloka 15.539#Viveka|15.539]].

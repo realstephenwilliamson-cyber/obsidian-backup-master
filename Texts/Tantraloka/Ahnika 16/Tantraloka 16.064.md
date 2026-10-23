@@ -34,6 +34,9 @@ kāṃ siddhiṃ naiva vitaretsvayaṃ kiṃ vā na mucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 31)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.64]]
+
 *Lead-in:* उत्तमत्वमेवास्य दृष्टान्तोपदर्शनेन द्रढयति--
 
 > यथा पाकक्रमाच्छुद्धं हेम तद्वत्स कीर्तितः ।

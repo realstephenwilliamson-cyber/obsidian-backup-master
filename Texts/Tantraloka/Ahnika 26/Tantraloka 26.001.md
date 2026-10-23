@@ -33,6 +33,9 @@ athocyate śeṣavṛttirjīvatāmupayoginī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 369)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.1]]
+
 *Lead-in:* इदानीं द्वितीयार्धेन दीक्षितविषयां शेषवृत्तिं वक्तुमाह--
 
 > अथोच्यते शेषवृत्तिर्जीवतामुपयोगिनी ॥

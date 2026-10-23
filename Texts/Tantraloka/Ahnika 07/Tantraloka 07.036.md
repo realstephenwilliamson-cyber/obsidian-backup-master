@@ -36,6 +36,11 @@ tasmātspandāntaraṃ yāvannodiyāttāvadekakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 25–26)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.36]]
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.36–37]]
+
 *Lead-in:* तस्माद्वैकल्पिकः सकल एवायं व्यवहारस्तन्मते न सिद्धयेत्, इत्याह --
 
 > तेनास्तङ्गत एवैष व्यवहारो विकल्पजः ।

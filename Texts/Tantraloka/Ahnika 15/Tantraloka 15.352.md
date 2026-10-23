@@ -33,6 +33,11 @@ bāhyayāge tu padmānāṃ tritaye'pi prapūjayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 217–218)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.351–352]]
+>
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.352–353]]
+
 *Lead-in:* ननु भवतु नाम एवं तत्रापि मनोयागे एव किमङ्गादि मध्ये पूज्यमुत सर्वत्रापि?--इत्याशङ्क्य आह--
 
 > बाह्ययागे तु पद्मानां त्रितयेऽपि प्रपूजयेत् ॥

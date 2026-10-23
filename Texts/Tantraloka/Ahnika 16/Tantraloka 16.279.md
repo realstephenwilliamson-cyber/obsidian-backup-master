@@ -35,6 +35,9 @@ dhātvāpyāyādikānantakāryabhedādbhaviṣyati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 125)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.279]]
+
 *Lead-in:* यत्तूक्तमेवमेव वदन्मन्त्रार्थनिष्ठो यद्विषं हरेत्, तन्मन्त्रस्यैव विजृम्भितम्, न तु तन्नान्तरीयकस्यापि शब्दस्येति । तत्रैव पक्षान्तरमाह--
 
 > यदि वा विषनाशेऽपि हेतुभेदाद्विचित्रता ।

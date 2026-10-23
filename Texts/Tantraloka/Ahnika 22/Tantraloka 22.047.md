@@ -33,6 +33,11 @@ sarvajñānanidhānaṃ tu guruṃ saṃprāpya susthitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 294)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.46–47]]
+>
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.47–48]]
+
 *Lead-in:* एतदाराधनपरेणैव च अनेन भाव्यम्--इत्याह--
 
 > सर्वज्ञाननिधानं तु गुरुं संप्राप्य सुस्थितः ॥

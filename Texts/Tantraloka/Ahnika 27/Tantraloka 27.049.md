@@ -31,6 +31,9 @@ suśuddhaṃ dīkṣitakṛtaṃ tatrāpyeṣa vidhiḥ smṛtaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 420–421)
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.48–49]]
+
 > अकामस्य तु ते तत्तत्स्थानोपाधिवशाद् ध्रुवम् ।
 > पाशकर्तनसंशुद्धतत्त्वाप्यायादिकारिणः ॥
 > अथवा पुस्तकं तादृग्रहःशास्त्रक्रमोम्भितम् ।

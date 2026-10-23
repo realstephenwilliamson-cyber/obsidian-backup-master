@@ -34,6 +34,9 @@ vikāsotkasvatantratve śivāntaṃ pañcakaṃ jaguḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 9–11)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.18]]
+
 > नन्वेवं धरणीं मुक्त्वा शक्तौ प्रकृतिमाययोः ॥
 > अपि चाप्रतिघत्वेऽपि कथमण्डस्य संभवः ।
 > अत्रास्मद्गुरवः प्राहुर्यत्पृथिव्यादिपञ्चकम् ॥

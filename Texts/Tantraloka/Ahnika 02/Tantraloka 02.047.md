@@ -34,6 +34,9 @@ nānirmalacitaḥ puṃso'nugrahastvanupāyakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 57–58)
+> ![[Tantraloka Dyczkowski v02 03 - Chapter Two, part 2#Viveka on 2.47]]
+
 *Lead-in:* नन्वेवमुपायमुखप्रेक्षित्वादस्य स्वातन्त्र्यहानिः स्यात् ?— इत्याशङ्क्याह --
 
 > नहि तस्य स्वतन्त्रस्य कापि कुत्रापि खण्डना ।

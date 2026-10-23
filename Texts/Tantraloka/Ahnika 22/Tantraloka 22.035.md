@@ -33,6 +33,11 @@ adhodarśanasaṃsthena guruṇā dīkṣitaḥ purā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 289)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.34–35]]
+>
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.35–37]]
+
 *Lead-in:* एवमेतद्दर्शनैक्येनाभिधाय, तद्भेदेनाप्याह--
 
 Jayaratha comments on this verse together with 22.34: see [[Tantraloka 22.034#Viveka|22.34]].

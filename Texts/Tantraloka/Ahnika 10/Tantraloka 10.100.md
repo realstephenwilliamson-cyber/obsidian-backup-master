@@ -31,6 +31,9 @@ jñānākalāstu dhvastaitatkañcukā iti nirṇayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 360)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.98–100]]
+
 > उद्भूताशुद्धचिद्रागकलादिरसकञ्चुकाः ॥
 > सकलालयसंज्ञास्तु न्यग्भूताखिलकञ्चुकाः ।
 > ज्ञानाकलास्तु ध्वस्तैतत्कञ्चुका इति निर्णयः ॥

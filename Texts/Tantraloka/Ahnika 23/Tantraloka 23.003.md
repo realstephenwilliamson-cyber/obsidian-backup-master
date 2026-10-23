@@ -31,6 +31,9 @@ yogyaṃ jñātvā svādhikāraṃ gurustasmai samarpayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 295–296)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.2–3]]
+
 > सैवाधिकारिणी भोग्यतत्त्वयुक्तिमती क्रमात् ॥
 > स्वभ्यस्तज्ञानिनं सन्तं बुभूषुमथ भाविनम् ।
 > योग्यं ज्ञात्वा स्वाधिकारं गुरुस्तस्मै समर्पयेत् ॥

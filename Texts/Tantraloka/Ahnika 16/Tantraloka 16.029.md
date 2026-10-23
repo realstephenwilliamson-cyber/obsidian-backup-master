@@ -34,6 +34,9 @@ nirvāpito vīrapaśuḥ so'ṣṭadhottaratottamaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 15)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.29–30]]
+
 *Lead-in:* जीवानिति बहुवचनाक्षिप्तं पशुबहुत्वमभिधत्ते--
 
 Jayaratha comments on this verse together with 16.30: see [[Tantraloka 16.030#Viveka|16.30]].

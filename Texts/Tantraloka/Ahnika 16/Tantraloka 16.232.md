@@ -35,6 +35,9 @@ ityādinā tattvagatakramanyāsa udīritaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 101)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.232–233]]
+
 *Lead-in:* तदेव पठति--
 
 Jayaratha comments on this verse together with 16.233: see [[Tantraloka 16.233#Viveka|16.233]].

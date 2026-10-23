@@ -31,5 +31,10 @@ tāṃ tyaktvā vedikā kāryā hastamātraṃ pramāṇataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 116)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 31.122–123.*
+>
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.122–123]]
+
 Jayaratha comments on this verse together with 31.123: see [[Tantraloka 31.123#Viveka|31.123]].
 

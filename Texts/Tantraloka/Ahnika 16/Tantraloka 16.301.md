@@ -35,6 +35,9 @@ so'pi yatraiva yuktaḥ syāttanmayatvaṃ prapadyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 135)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.300–301]]
+
 > यस्तु दीक्षाकृतामेवापेक्ष्य योजनिकां शिशुः ॥
 > स्फुटीभूत्यै तदुचितं ज्ञानं योगमथाश्रितः ।
 > सोऽपि यत्रैव युक्तः स्यात्तन्मयत्वं प्रपद्यते ॥

@@ -31,6 +31,9 @@ nirviśeṣādapi nyāyyā dharmādiphalabhoktṛtā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 105)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.115–116]]
+
 *Lead-in:* ननु "एतदीयं दुष्कृतं मे भूयात्"-- इत्यनुसन्धानं यथा परस्य नास्ति तथा शुकृतं मे भूयात्"-- इत्यपि मा भूदिति कथमुक्तम् "यन्मयाद्य तपस्तप्तम्"इत्यादि ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 9.116: see [[Tantraloka 09.116#Viveka|9.116]].

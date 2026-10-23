@@ -33,6 +33,9 @@ itthaṃ yāmalametadgalitabhidāsaṅkathaṃ yadeva syāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 308–309)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.114–115]]
+
 *Lead-in:* एवमत्र परस्या एव संविदः समुदयः स्यात्?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 29.114: see [[Tantraloka 29.114#Viveka|29.114]].

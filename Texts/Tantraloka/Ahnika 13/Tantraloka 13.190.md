@@ -31,6 +31,9 @@ viveke kāraṇe hyete prabhuśaktyupavṛṃhite || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 241)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.190]]
+
 *Lead-in:* सा चेह नास्ति -- इत्याह --
 
 > मनोबुद्धी न भिन्ने तु कस्मिंश्चित्कारणान्तरे ।

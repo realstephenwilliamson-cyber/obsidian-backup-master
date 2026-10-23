@@ -31,6 +31,9 @@ tenātivāryamāṇo'pi yadyasau na nivartate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 333–334)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.83–87]]
+
 > अज्ञानादय एवैते दोषा न लौकिका गुरोः ।
 > इति ख्यापयितुं प्रोक्तं मालिनीविजयोत्तरे ॥
 > न तस्यान्वेषयेद्वृत्तं शुभं वा यदि वाऽशुभम् ।

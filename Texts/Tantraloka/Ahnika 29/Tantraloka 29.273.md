@@ -33,6 +33,11 @@ guroragre viśecchiṣyo vaktraṃ vaktre tu vedhayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 403–404)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.272–273]]
+>
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.273–274]]
+
 *Lead-in:* कथञ्च एतत् गुरुः कुर्यात्--इत्याह--
 
 > गुरोरग्रे विशेच्छिष्यो वक्त्रं वक्त्रे तु वेधयेत् ॥

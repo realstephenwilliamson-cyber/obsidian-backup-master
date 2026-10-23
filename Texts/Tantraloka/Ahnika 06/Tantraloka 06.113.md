@@ -35,6 +35,9 @@ prāgvadanyadayaṃ māsaḥ prāṇacāre'bda ucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 340)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.112–113]]
+
 > अन्त्यायां पूर्णमस्तुट्यां पूर्ववत्पक्षसन्धिता ।
 > इन्दुग्रहश्च प्रतिपत्सन्धौ पूर्वप्रवेशतः ॥
 > एहिकं ग्रहणे चात्र साधकानां महाफलम् ।

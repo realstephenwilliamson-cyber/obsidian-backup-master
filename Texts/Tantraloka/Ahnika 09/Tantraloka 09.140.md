@@ -31,6 +31,9 @@ bhāvanāpariniṣpattimaprāpya pralayaṃ gatāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 120–122)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.140–141]]
+
 *Lead-in:* नन्वेषामविशेषेण अधः संसरणमेव किं स्यात् उत ऊर्ध्वमपि ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 9.141: see [[Tantraloka 09.141#Viveka|9.141]].

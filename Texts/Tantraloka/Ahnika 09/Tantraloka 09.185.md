@@ -31,6 +31,9 @@ vijñānākalatā māyādhastānno yātyadhaḥ pumān || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 158–159)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.184–185]]
+
 > अलक्ष्यान्तरयोरित्थं यदा पुंस्कलयोर्भवेत् ।
 > मायागर्भेशशक्त्यादेरन्तरज्ञानमान्तरम् ॥
 > तदा मायापुंविवेकः सर्वकर्मक्षयाद् भवेत् ।

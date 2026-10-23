@@ -33,6 +33,11 @@ dharmāddharmiṇi yo bhedaḥ samavāyena caikatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 78–79)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.73–74]]
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.74–75]]
+
 *Lead-in:* ननु असौ समवेतः, तस्य चेन्मलेनापहस्तनं कृतं तावता धर्मिणः किं वृत्तं यत्तस्य स्वरूपध्वंसो भवेत् ? -- इत्याशङ्क्याह --
 
 > धर्माद्धर्मिणि यो भेदः समवायेन चैकता ॥

@@ -37,6 +37,11 @@ svapnasvapne tathā svapne supte saṅkalpagocare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 392–393)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.182–183]]
+>
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.183–184]]
+
 *Lead-in:* ननु कथमतिपरिमितस्यापि कालांशस्य वैतत्येनावभासो भवेत् ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 6.182: see [[Tantraloka 06.182#Viveka|6.182]].

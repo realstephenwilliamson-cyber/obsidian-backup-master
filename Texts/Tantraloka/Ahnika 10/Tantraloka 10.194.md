@@ -31,6 +31,9 @@ uparāgapadaṃ prāpya parāparatayā sthitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 415)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.194–195]]
+
 *Lead-in:* एवदेवान्यत्र योजयति --
 
 Jayaratha comments on this verse together with 10.195: see [[Tantraloka 10.195#Viveka|10.195]].

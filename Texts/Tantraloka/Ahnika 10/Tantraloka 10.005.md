@@ -33,6 +33,11 @@ mantrāstadīśāḥ pāñcadhye mantreśapatayastridhā |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 287–293)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.3–5]]
+>
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.5]]
+
 > शक्तिमच्छक्तिभेदेन धराद्यं मूलपश्चिमम् ।
 > भिद्यते पञ्चदशधा स्वरूपेण सहानरात् ॥
 > कलान्तं भेदयुग्घीनं रुद्रवत्प्रलयाकलः ।

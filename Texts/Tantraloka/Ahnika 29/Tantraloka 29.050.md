@@ -31,6 +31,9 @@ yo raśmyoghastamevātra pūjayeddevatāgaṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 245–246)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.49–50]]
+
 > प्रसरेच्छक्तिरुच्छूना सोल्लासो भैरवः पुनः ।
 > सङ्घट्टानन्दविश्रान्त्या युग्ममित्थं प्रपूजयेत् ॥
 > महाप्रकाशरूपायाः संविदो विस्फुलिङ्गवत् ।

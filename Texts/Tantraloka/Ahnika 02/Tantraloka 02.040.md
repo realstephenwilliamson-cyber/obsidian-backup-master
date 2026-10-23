@@ -34,6 +34,9 @@ te'pi tadrūpiṇastāvatyevāsyānugrahātmatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 50–52)
+> ![[Tantraloka Dyczkowski v02 03 - Chapter Two, part 2#Viveka on 2.40]]
+
 *Lead-in:* द्विविधाश्च परानुग्रहाः -- निर्मलसंविदोऽनिर्मलसंविदश्च, तत्र निर्मलसंविदः प्रति तावन्निरुपकरणमेवास्यानुग्रहकारित्वम् -- इत्याह --
 
 > तं ये पश्यन्ति ताद्रूप्यक्रमेणामलसंविदः ।

@@ -31,6 +31,9 @@ bījasyāmbvagnimṛtkambutuṣayogāt prasūtikṛt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 153)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.178]]
+
 *Lead-in:* ननु कला स्वशक्त्यैव कार्यं जनयेदिति किमस्याः पुंश्लेषेण? -- इत्याशङ्कां निदर्शनदृशा उपशमयति -
 
 > उच्छूनतेव प्रथमा सूक्ष्माङ्कुरकलेव च ।

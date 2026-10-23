@@ -34,6 +34,9 @@ vṛkṣāḥ kadambajambvaśvatthanyagrodhakāḥ kramaśaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 110–111)
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.60–62]]
+
 > चैत्ररथनन्दनाख्ये वैभ्रजं पितृवनं वनान्याहुः ॥
 > रक्तोदमानससितं भद्रं चैतच्चतुष्टयं सरसाम् ।
 > वृक्षाः कदम्बजम्ब्वश्वत्थन्यग्रोधकाः क्रमशः ॥

@@ -31,6 +31,9 @@ tasminbhoktari deveśi dātuḥ kulaśatānyapi |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 38–41)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.65–71]]
+
 > तेन सर्वं हुतं चेष्टं त्रैलोक्यं सचराचरम् ।
 > ज्ञानिने योगिने वापि यो ददाति करोति वा ॥
 > दीक्षोत्तरेऽपि च प्रोक्तमन्नं ब्रह्मा रसो हरिः ।

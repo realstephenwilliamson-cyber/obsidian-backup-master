@@ -31,6 +31,9 @@ tejastathābhilāpākhyasvavikalparasombhitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 141–142)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.234]]
+
 *Lead-in:* ननु अत्र दाहो नाम किमुच्यते?--इत्याशङ्क्य आह--
 
 > दाहश्च ध्वंस एवोक्तो ध्वंसकं मन्त्रसंज्ञितम् ।

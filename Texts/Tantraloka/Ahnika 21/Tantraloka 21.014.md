@@ -34,5 +34,8 @@ nopayogyatra tacchiṣyasaṃskriyāsvapnadṛṣṭaye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 253–255)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.14–15]]
+
 Jayaratha comments on this verse together with 21.15: see [[Tantraloka 21.015#Viveka|21.15]].
 

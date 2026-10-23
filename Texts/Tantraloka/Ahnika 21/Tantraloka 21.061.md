@@ -36,6 +36,13 @@ eṣā parokṣadīkṣā dvidhoditā jīvaditarabhedena || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 275–276)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.59–61]]
+>
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.61]]
+>
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 21.61 (continued)]]
+
 *Lead-in:* आह्निकार्थमेवोपसंहरति--
 
 > एषा परोक्षदीक्षा द्विधोदिता जीवदितरभेदेन ॥

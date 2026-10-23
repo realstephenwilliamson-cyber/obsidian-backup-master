@@ -33,6 +33,11 @@ yāvacchāntaśikhākīrṇaṃ viśvājyapravilāpakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 314–315)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.33–35]]
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.35–36]]
+
 *Lead-in:* गमागमावेव मन्त्रस्य दर्शयति--
 
 Jayaratha comments on this verse together with 23.34: see [[Tantraloka 23.034#Viveka|23.34]].

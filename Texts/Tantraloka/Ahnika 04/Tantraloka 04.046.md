@@ -36,6 +36,11 @@ lokāprasiddho yo hetuḥ so'kasmāditi kathyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 59–60)
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.45–46]]
+>
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.46–47]]
+
 *Lead-in:* -- इत्याशङ्क्याह --
 
 > लोकाप्रसिद्धो यो हेतुः सोऽकस्मादिति कथ्यते ॥

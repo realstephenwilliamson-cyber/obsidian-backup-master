@@ -31,5 +31,8 @@ vidyā cāsya kalātaḥ śaraṇāntardīpakaprabhevābhūt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 200–201)
+> ![[Tantraloka Dyczkowski v06 07 - Chapter Nine, part 5#Viveka on 9.208–212]]
+
 Jayaratha comments on this verse together with 9.211: see [[Tantraloka 09.211#Viveka|9.211]].
 

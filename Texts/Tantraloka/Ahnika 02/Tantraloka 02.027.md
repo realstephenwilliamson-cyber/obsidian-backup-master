@@ -35,6 +35,9 @@ visarjanāntaṃ nāstyatra kartṛkarmakriyojjhite || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 34–35)
+> ![[Tantraloka Dyczkowski v02 03 - Chapter Two, part 2#Viveka on 2.27]]
+
 *Lead-in:* अत एव यत्किंचन भेदाधायकं तदत्र नास्ति, इत्याह --
 
 > स्थानासननिरोधार्घसंधानावाहनादिकम् ।

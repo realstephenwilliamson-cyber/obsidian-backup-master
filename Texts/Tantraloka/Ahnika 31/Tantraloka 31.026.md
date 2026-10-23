@@ -31,6 +31,9 @@ tataścakraṃ ṣoḍaśāraṃ dvādaśāraṃ dvidhātha tat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 78–80)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.26–29]]
+
 *Lead-in:* एवमत्र त्रिशूलत्रयं वर्तयित्वा तदधोवर्ति पद्माद्यपि वर्तयितुमाह- -
 
 Jayaratha comments on this verse together with 31.28: see [[Tantraloka 31.028#Viveka|31.28]].

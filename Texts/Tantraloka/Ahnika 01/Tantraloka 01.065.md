@@ -34,6 +34,9 @@ jaladarpaṇavattena sarvaṃ vyāptaṃ carācaram || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 202–203)
+> ![[Tantraloka Dyczkowski v01 06 - Chapter One, part 5#Viveka on 1.65]]
+
 *Lead-in:* ननु कथमेकदैव एकस्य विश्वमयत्वेऽपि विश्वोत्तीर्णत्वं सङ्गच्छते? - - इत्याशङ्काशान्तत्यर्थमागमं संवादयति --
 
 > उक्तं च कामिके देवः सर्वाकृतिर्निराकृतिः ।

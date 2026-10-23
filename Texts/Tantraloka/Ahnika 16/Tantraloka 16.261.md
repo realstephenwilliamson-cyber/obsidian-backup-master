@@ -37,6 +37,11 @@ ghaṭakumbha itītthaṃ vā yadi bhedo nirūpyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 114–115)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.260–261]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.261–263]]
+
 *Lead-in:* ननु यद्येवं, तद्यत्र शब्दात् शब्दान्तरे व्युत्पत्तौ परामर्शभेदोऽस्ति, तत्र किं प्रतिपत्तव्यम् ?--इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 16.260: see [[Tantraloka 16.260#Viveka|16.260]].

@@ -35,6 +35,9 @@ saṃvidvimarśasacivaḥ sadaiva sa hi jṛmbhate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 65–66)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.71]]
+
 *Lead-in:* अतश्च संवित्परामर्शसारः शुद्धविद्यात्मा सङ्केतानपेक्षो वर्णग्राम एव विश्रान्तिस्थानतयाभ्युपगन्तव्यो येनानवस्था शाम्येत् -- इत्याह --
 
 > तेनानन्तो ह्यमायीयो यो वर्णग्राम ईदृशः ।

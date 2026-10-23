@@ -31,5 +31,8 @@ deśakālādidoṣeṇa na tathādhyavasāyinām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 57)
+> ![[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#Viveka on 30.100–101]]
+
 Jayaratha comments on this verse together with 30.101: see [[Tantraloka 30.101#Viveka|30.101]].
 

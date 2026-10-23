@@ -33,5 +33,12 @@ caturaṃgulanimnaṃ tu madhyaṃ tu parikalpayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 112–116)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 31.122–123.*
+>
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.112–113]]
+>
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.122–123]]
+
 Jayaratha comments on this verse together with 31.112: see [[Tantraloka 31.112#Viveka|31.112]].
 

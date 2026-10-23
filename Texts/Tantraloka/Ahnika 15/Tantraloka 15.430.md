@@ -32,6 +32,9 @@ dvādaśāntavibodhāgnau ruddhvā pūrṇāhutiṃ kṣipet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 265–266)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.429–430]]
+
 > य ऊर्ध्वे किल संबोधः कुण्डे स प्रतिबिम्बितः ।
 > वह्निः प्राणः स्रुक्स्रुवौ च स्नेहः सङ्कल्पचिद्रसः ॥
 > इत्थं ज्ञात्वादितः कुण्डस्रुक्स्रुवाज्यमनून्भृशम् ।

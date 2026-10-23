@@ -34,6 +34,9 @@ taduttarottaraṃ jñānaṃ tattatsaṃsāraśāntidam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 131–132)
+> ![[Tantraloka Dyczkowski v01 05 - Chapter One, part 4#Viveka on 1.32]]
+
 *Lead-in:* एवमप्यस्य तद्वैलक्षण्यं कटाक्षीकर्तं दर्शनान्तरोक्तस्य मोक्षस्य स्वरूपमभिधातुमुत्क्रमते --
 
 > यत्तु ज्ञेयसतत्त्वस्य पूर्णपूर्णप्रथात्मकम् ।

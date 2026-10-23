@@ -34,6 +34,9 @@ apāramārthike'pyasmin paramārthaḥ prakāśate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 7–8)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.7]]
+
 *Lead-in:* ननु प्राणादयो जाड्यादपारमार्थिकाः, तत्कथं तद्गतमुच्चारादि पारमार्थिकस्वरूपलाभनिमित्तं स्यात् ? -- इत्याशङ्क्याह --
 
 > तत्र बुद्धौ तथा प्राणे देहे चापि प्रमातरि ।

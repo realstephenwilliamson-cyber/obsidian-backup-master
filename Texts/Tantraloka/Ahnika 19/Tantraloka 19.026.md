@@ -36,6 +36,11 @@ yogābhyāsamakṛtvāpi sadya utkrāntidāṃ guruḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 218–219)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.23–26]]
+>
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.26–27]]
+
 *Lead-in:* ननु समनन्तरमेवोक्तं यदयोगिना गुरुणा नेयं कार्या तत्कथमेतदिदानीमेवोच्यते ?--इत्याशङ्क्याह--
 
 > योगाभ्यासमकृत्वापि सद्य उत्क्रान्तिदां गुरुः ॥

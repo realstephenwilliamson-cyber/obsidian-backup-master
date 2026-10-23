@@ -36,6 +36,11 @@ iyamutkrāmaṇī dīkṣā kartavyā yogino guroḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 218–219)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 19.23–26.*
+>
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.23–26]]
+
 *Lead-in:* एतदेव शास्त्रान्तरेऽपि अतिदिशति--
 
 > एष एव विधिः श्रीमत्सिद्धयोगीश्वरीमते ।

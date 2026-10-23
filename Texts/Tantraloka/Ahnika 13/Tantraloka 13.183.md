@@ -31,6 +31,9 @@ ihaiva siddhāḥ kāyānte mucyeranniti bhāvanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 236)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.183]]
+
 *Lead-in:* इति च । ननु अकिञ्चित्कर्यश्चेत्सिद्धयस्तत्किमर्थमुक्ताः? -- इत्याशङ्क्याह --
 
 > सिद्धिजालं हि कथितं परप्रत्ययकारणम् ।

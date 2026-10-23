@@ -35,5 +35,8 @@ dharābdhitejo'nilakhapuragā dīkṣitāśca vā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 237–238)
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.209–212]]
+
 Jayaratha comments on this verse together with 8.211: see [[Tantraloka 08.211#Viveka|8.211]].
 

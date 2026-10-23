@@ -36,6 +36,11 @@ spandāntaraṃ na yāvattaduditaṃ tāvadeva saḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 21–22)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.30–31]]
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.31–32]]
+
 *Lead-in:* ननु तथा तथा विमर्शेऽप्यस्याः कथमेकत्वमेव ? -- इत्याशंक्याह --
 
 > स्पन्दान्तरं न यावत्तदुदितं तावदेव सः ॥

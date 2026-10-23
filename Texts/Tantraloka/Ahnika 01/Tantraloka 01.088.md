@@ -35,6 +35,9 @@ eṣa rāmo vyāpako'tra śivaḥ paramakāraṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 235–237)
+> ![[Tantraloka Dyczkowski v01 07 - Chapter One, part 6#Viveka on 1.87–88]]
+
 > गतिः स्थानं स्वप्नजाग्रदुन्मेषणनिमेषणे ।
 > धावनं प्लवनं चैव आयासः शक्तिवेदनम् ॥
 > बुद्धिभेदास्तथा भावाः संज्ञाः कर्माण्यनेकशः ।

@@ -31,6 +31,9 @@ aliases:
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 279–280)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.7–9]]
+
 > अतो हि ध्वन्यतेऽर्थोऽयं शिवतत्त्वाधरेष्वपि ॥
 > तत्त्वेषु योजितस्यास्ति पुनरुद्धरणीयता ।
 > समस्तशास्त्रकथितवस्तुवैविक्त्यदायिनः ॥

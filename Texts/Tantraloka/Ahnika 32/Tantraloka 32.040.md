@@ -33,5 +33,10 @@ eṣa kramastato'nyo'pi vyutkramaḥ khecarī parā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 154–155)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.37–40]]
+>
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.40–41]]
+
 Jayaratha comments on this verse together with 32.41: see [[Tantraloka 32.041#Viveka|32.41]].
 

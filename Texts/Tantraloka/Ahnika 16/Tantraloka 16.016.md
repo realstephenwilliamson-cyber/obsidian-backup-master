@@ -34,5 +34,8 @@ ekaśūle'pyato yāge cintayettadadhiṣṭhitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 11)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.15–17]]
+
 Jayaratha comments on this verse together with 16.22: see [[Tantraloka 16.022#Viveka|16.22]].
 

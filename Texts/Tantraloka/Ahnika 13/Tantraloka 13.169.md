@@ -31,6 +31,9 @@ prātibho'sya svabhāvastu kevalībhāvasiddhidaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 227–228)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.168–169]]
+
 *Lead-in:* इयान्पुनरनयोर्विशेषः -- इत्याह --
 
 > गुर्वायत्ता तु सा दीक्षा बध्यबन्धनमोक्षणे ।

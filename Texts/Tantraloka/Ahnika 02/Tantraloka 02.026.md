@@ -35,6 +35,9 @@ na dīkṣā dīkṣako vāpi na dīkṣāvānmaheśvaraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 33–34)
+> ![[Tantraloka Dyczkowski v02 03 - Chapter Two, part 2#Viveka on 2.24–26]]
+
 > नैष शक्तिर्महादेवी न परत्राश्रितो यतः ।
 > न चैष शक्तिमान्देवो न कस्याप्याश्रयो यतः ॥
 > नैष ध्येयो ध्यात्रभावान्न ध्याता ध्येयवर्जनात् ।

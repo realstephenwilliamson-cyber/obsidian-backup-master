@@ -33,6 +33,11 @@ nanvitthaṃ duṣkṛtaṃ kiṃcidātmīyamabhisandhitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 103)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.109–110]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.110–111]]
+
 *Lead-in:* ननु एवं कश्चित् द्वेषवशादपि आत्मीयं दुष्कृतमस्मै स्तात् इति शत्रुविषयमभिसन्दध्यात् येन कृत्वापि दुष्कृतं न तत्फलभाग्भवेदिति कर्मफलव्यवस्थाया विसंस्थुलत्वमेवापतेत् ? -- तदाह --
 
 > नन्वित्थं दुष्कृतं किंचिदात्मीयमभिसन्धितः ॥

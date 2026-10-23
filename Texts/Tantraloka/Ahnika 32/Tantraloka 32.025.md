@@ -31,6 +31,9 @@ tatrasthā devatāḥ sarvā dyotayantyo'khilaṃ jagat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 148–149)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.25]]
+
 *Lead-in:* ननु एवमयं कस्मात् न सिद्ध्येत्?--इत्याशङ्क्य आह--
 
 > शिवो रविः शिवो वह्निः पक्तृत्वात्स पुरोहितः ।

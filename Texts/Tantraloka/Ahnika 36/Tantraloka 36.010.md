@@ -31,6 +31,9 @@ guhyakāśca tatastebhyo yogino nṛvarāstataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 224)
+> ![[Tantraloka Dyczkowski v11 10 - Chapter Thirty-Six#Viveka on 36.10]]
+
 *Lead-in:* ननु एतद्रामेण विभीषणात् प्राप्तं तस्मात् पुनः किं कश्चिदाप न वा?--इत्याशङ्क्य आह--
 
 > रामाच्च लक्ष्मणस्तस्मात् सिद्धास्तेभ्योऽपि दानवाः ।

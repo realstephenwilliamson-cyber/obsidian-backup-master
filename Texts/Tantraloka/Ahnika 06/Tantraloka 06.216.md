@@ -35,6 +35,9 @@ yatnajo'yatnajaḥ sūkṣmaḥ paraḥ sthūlaḥ sa kathyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 424–425)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.216]]
+
 *Lead-in:* एवं प्राणे चारमानादि सर्वमभिधाय तदानन्तर्येणानुजोद्देशोद्दिष्टं वर्णोदयं वक्तुमुपक्रमते -
 
 > प्राणचारेऽत्र यो वर्णपदमन्त्रोदयः स्थितः ।

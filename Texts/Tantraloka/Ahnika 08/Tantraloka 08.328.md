@@ -35,6 +35,9 @@ pañcārthaguhyarudrāṅkuśahṛdayalakṣaṇaṃ ca savyūham || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 321)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.328–329]]
+
 *Lead-in:* ननु भवतु नामैतत्, प्रणवादि पुनः किमुच्यते ? -- इत्याशङ्क्याह --
 
 > साध्यो दाता दमनो ध्यानो भस्मेति बिन्दवः पञ्च ।

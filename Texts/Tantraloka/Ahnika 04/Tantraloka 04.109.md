@@ -36,6 +36,11 @@ evaṃ dvaitaparāmarśanāśāya parameśvaraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 128–129)
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.108–109]]
+>
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.109–110]]
+
 *Lead-in:* तदेवोपसंहरति --
 
 > एवं द्वैतपरामर्शनाशाय परमेश्वरः ॥

@@ -34,6 +34,9 @@ tatraiṣa cakrabhedānāmekīkāro diśānayā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 169)
+> ![[Tantraloka Dyczkowski v11 07 - Chapter Thirty-Three#Viveka on 33.1]]
+
 *Lead-in:* ननु इह एकैव विश्वामर्शनसारा संविदस्तीति उपास्योपासकभाव एव तावत् न न्याययः, तत्रापि उपास्यानां को भेदः, तत् किमिदमनेकचक्रात्मकत्वमुपदिष्टम्?--इत्याशङ्कां गर्भीकृत्य द्वितीयार्धेन तदेकीकारमेव प्रणिगदितुमाह--
 
 > अथावसरसंप्राप्त एकीकारो निगद्यते ।

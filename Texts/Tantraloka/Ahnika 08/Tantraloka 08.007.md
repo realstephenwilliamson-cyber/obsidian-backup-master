@@ -34,6 +34,9 @@ tān dehaprāṇadhīcakre pūrvavad gālayetkramāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 55–57)
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.7–8]]
+
 *Lead-in:* ननु अध्वप्रक्रियाज्ञानमात्रादेव किमेवं भवेत्? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 8.8: see [[Tantraloka 08.008#Viveka|8.8]].

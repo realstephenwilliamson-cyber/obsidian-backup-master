@@ -33,6 +33,11 @@ uktaṃ śrīratnamālāyāṃ nābhiṃ daṇḍena saṃpuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 355–357)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.192]]
+>
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.192–195]]
+
 *Lead-in:* देवीचक्रं च अत्र कथमर्चयेत् ?--इत्याशङ्क्य आह--
 
 > आकर्ष्याकर्षकत्वेन प्रेर्यप्रेरकभावतः ।

@@ -36,6 +36,11 @@ uktaṃ śrīmālinītantre gātre yatraiva kutracit || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 43–45)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.63–64]]
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.64–65]]
+
 *Lead-in:* न चैतदस्मदुपज्ञमेव, यावदागमेऽपि एवमित्याह --
 
 > उक्तं श्रीमालिनीतन्त्रे गात्रे यत्रैव कुत्रचित् ॥

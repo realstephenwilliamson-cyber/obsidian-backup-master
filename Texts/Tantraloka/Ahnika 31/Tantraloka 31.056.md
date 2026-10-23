@@ -31,5 +31,8 @@ koṇeṣvapi ca vā kāryaṃ mahāśūlaṃ drumānvitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 92)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.54–58]]
+
 Jayaratha comments on this verse together with 31.57: see [[Tantraloka 31.057#Viveka|31.57]].
 

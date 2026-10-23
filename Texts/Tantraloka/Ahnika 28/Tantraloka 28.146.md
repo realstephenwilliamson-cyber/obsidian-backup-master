@@ -35,6 +35,13 @@ atha triśirasi prokto likhyate tadvidhiḥ sphuṭaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 73–74)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.145–146]]
+>
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.146]]
+>
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.146–147]]
+
 *Lead-in:* एवं श्रीरत्नमालायामुक्तं पवित्रकविधिमभिधाय, श्रीत्रिशिरोभैरवीयमप्याह--
 
 > अथ त्रिशिरसि प्रोक्तो लिख्यते तद्विधिः स्फुटः ॥

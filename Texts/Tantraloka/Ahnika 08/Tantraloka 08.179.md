@@ -37,6 +37,11 @@ itthamuktaviriñcāṇḍabhṛto rudrāḥ śataṃ hi yat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 203–205)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.178–179]]
+>
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.179–180]]
+
 *Lead-in:* एवं प्रकरणादण्डस्वरूपं व्याख्याय प्रकृतमेवानुसरति --
 
 > इत्थमुक्तविरिञ्चाण्डभृतो रुद्राः शतं हि यत् ॥

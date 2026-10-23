@@ -34,6 +34,9 @@ kanyādvīpe yatastena karmabhūḥ seyamuttamā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 139)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.91]]
+
 *Lead-in:* नन्वेवं चेदविशेषेण भारतजन्मनां सिद्ध्येत् तत् "कन्याख्ये तु विशेषतः"इति कस्मादुक्तम्? -- इत्याशङ्क्याह --
 
 > नानावर्णाश्रमाचारसुखदुःखविचित्रता ।

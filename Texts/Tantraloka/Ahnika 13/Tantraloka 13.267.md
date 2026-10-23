@@ -33,6 +33,11 @@ avicchinnasvātmasaṃvitprathā siddhirihocyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 289–291)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.266–267]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.267–268]]
+
 *Lead-in:* ननु का नामात्र सिद्धिर्विवक्षिता? -- इत्याशङ्क्याह --
 
 > अविच्छिन्नस्वात्मसंवित्प्रथा सिद्धिरिहोच्यते ॥

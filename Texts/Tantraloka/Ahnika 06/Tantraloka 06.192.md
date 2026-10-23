@@ -37,6 +37,11 @@ samastakāraṇollāsapade suvidite yataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 399–401)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.191–192]]
+>
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.192–193]]
+
 *Lead-in:* नन्वपानस्य कालवैचित्र्याभिधाने प्रक्रान्ते किमनेनोपदिष्टेन ? -- इत्याशङ्क्याह --
 
 > समस्तकारणोल्लासपदे सुविदिते यतः ॥

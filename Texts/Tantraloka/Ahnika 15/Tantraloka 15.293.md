@@ -33,6 +33,11 @@ arghapātrārcanādattapuṣpasaṅkīrṇatābhayāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 172–173)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.290–293]]
+>
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.293–295]]
+
 *Lead-in:* ननु अन्यैः "कृत्वार्घपात्रम्"इत्यादि उपक्रम्य "तस्थैः कुसुमैः स्वमभ्यर्च्य चात्मानम्"इत्यादिदृशा अर्घपात्रसंभूतैरेव कुसुमैः स्वात्मादिपूजनं कार्यमिति उक्तं तत् कथमिह तद्विप्रुट्प्रोक्षितेन अवान्तरेण कुसुमादिना तदभिधीयते?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 15.292: see [[Tantraloka 15.292#Viveka|15.292]].

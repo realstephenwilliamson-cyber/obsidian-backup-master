@@ -31,6 +31,9 @@ aṃśāṃśikāparāmarśān paryante sahate yataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 180–181)
+> ![[Tantraloka Dyczkowski v11 07 - Chapter Thirty-Three#Viveka on 33.25–27]]
+
 *Lead-in:* ननु अखण्डैकघनाकारे अत्र कुतस्त्यमानन्त्यम्?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 33.26: see [[Tantraloka 33.026#Viveka|33.26]].

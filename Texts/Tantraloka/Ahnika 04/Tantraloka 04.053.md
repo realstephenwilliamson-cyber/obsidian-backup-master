@@ -34,6 +34,9 @@ prāpnotyakalpitodāramabhiṣekaṃ mahāmatiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 69–71)
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.53]]
+
 *Lead-in:* ननु अस्य स्वयं प्रवृत्तज्ञानपारिपूर्ण्याय किमात्मभावनैव निमितम्, उतान्यदपि किञ्चित् ? -- इत्याशङ्क्याह --
 
 > भावनातोऽथ वा ध्यानाज्जपात्स्वप्नाद् व्रताद्धुतेः ।

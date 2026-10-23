@@ -37,6 +37,11 @@ uktaṃ śrīpauṣkare'nye ca brahmaviṣṇvādayo'ṇḍagāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 110–112)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.253–254]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.254–257]]
+
 *Lead-in:* एतच्चागमोक्त्यैव विभजति--
 
 Jayaratha comments on this verse together with 16.253: see [[Tantraloka 16.253#Viveka|16.253]].

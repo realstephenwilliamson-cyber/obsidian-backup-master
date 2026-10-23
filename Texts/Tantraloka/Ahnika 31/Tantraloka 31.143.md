@@ -33,6 +33,11 @@ netrīkṛtānvasūn patraṃ netraṃ sakṛdvibhājitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 125–126)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.143]]
+>
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.143–144]]
+
 *Lead-in:* इदानीं पद्मं वर्तयति--
 
 > ऋषित्रयकृते मध्ये विषयैः कर्णिका भवेत् ।

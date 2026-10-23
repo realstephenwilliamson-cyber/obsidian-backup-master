@@ -33,6 +33,11 @@ evaṃ prakāśamātre'sminvarade parame śive || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 125–126)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.201–202]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.202–203]]
+
 *Lead-in:* अमुष्यैव दिग्विभागस्य शास्त्रलोकप्रसिद्धस्तद्विभागः प्रपञ्च इत्युपसंहारदिशा प्रदर्शयति--
 
 > एवं प्रकाशमात्रेऽस्मिन्वरदे परमे शिवे ॥

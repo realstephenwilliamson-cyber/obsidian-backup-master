@@ -35,6 +35,13 @@ tatra so'nubhavo heturna janmāntarasūtaye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 151–154)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.343–345]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.343–345 (2)]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.345–349]]
+
 *Lead-in:* एतदेव विविनक्ति--
 
 > तत्र सोऽनुभवो हेतुर्न जन्मान्तरसूतये ॥

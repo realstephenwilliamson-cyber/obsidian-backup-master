@@ -31,6 +31,9 @@ tasyāṃ ca na kramaḥ ko'pi syādvā so'pi viparyayāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 208)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.219]]
+
 *Lead-in:* ननु यद्येवं तत् कथं भोक्तृभोग्ययोर्युगपदुत्पादो भवतैवोक्तः? -- इत्याशङ्क्याह --
 
 > तथापि वस्तुसत्तेयमिहास्माभिर्निरूपिता ।

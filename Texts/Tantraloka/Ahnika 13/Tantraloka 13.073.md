@@ -31,6 +31,9 @@ na ca bhaktirasāveśamiti bhūmnā vilokitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 171)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.73]]
+
 *Lead-in:* न चैतदैकान्तिकं यत्सुखदुःखाद्यनुभवशून्ये कर्मसाम्यात्मनि कालक्षण एवेश्वरो मलशक्तिं रुणद्धि -- इति शतशोऽप्येवमनुभवे हि न कैश्चिदपि मलशक्तिनिरोधहेतुकपारमेश्वरशक्तिपातचिह्नं किञ्चन सञ्चेत्यते -- इति । तदाह --
 
 > शतशोऽपि ह्लादतापशून्यां संचिन्वते दशाम् ।

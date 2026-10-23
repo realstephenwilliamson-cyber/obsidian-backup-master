@@ -37,5 +37,10 @@ prāṇasya bhuvanaṃ vāyordaśadhā daśadhā tu tat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 235–237)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 8.208–209.*
+>
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.208–209]]
+
 Jayaratha comments on this verse together with 8.208: see [[Tantraloka 08.208#Viveka|8.208]].
 

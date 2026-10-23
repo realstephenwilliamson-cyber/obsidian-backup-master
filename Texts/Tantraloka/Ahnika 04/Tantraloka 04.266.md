@@ -34,6 +34,9 @@ itthamardhacatasro'tra maṭhikāḥ śāṅkare krame || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 373)
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.265–267]]
+
 *Lead-in:* तत्र का मठिका ? -- इत्याह --
 
 > श्रीसंततिस्त्र्यम्बकाख्या तदर्धामर्दसंज्ञिता ।

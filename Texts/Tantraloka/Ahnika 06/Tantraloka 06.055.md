@@ -34,6 +34,9 @@ viparyayo'pi prāṇātmaśaktīnāṃ mukhyatāṃ prati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 266–267)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.55]]
+
 *Lead-in:* न केवलमेषां गौणमुख्यभावो भवेद्यावदन्यथापि -- इत्याह --
 
 > अवधानाददृष्टांशाद् बलवत्त्वादथेरणात् ।

@@ -31,6 +31,9 @@ tatra paścādanāśvastastatrāpi vidhimācaret || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 288)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.33]]
+
 *Lead-in:* न केवलमेवमधरदर्शनस्थस्यैव कार्यं यावत् स्वदर्शनस्थस्यापि-- इत्याह--
 
 > स्वतन्त्रस्थोऽपि गुर्वन्तो गुरुमज्ञमुपाश्रितः ।

@@ -31,6 +31,9 @@ caruḥ prāśyaḥ kulācāryairmahāpātakanāśanaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 408)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.282–283]]
+
 *Lead-in:* एवं बहुविधां वेधदीक्षामभिधाय तदितिकर्तव्यताशेषमपि आह--
 
 Jayaratha comments on this verse together with 29.283: see [[Tantraloka 29.283#Viveka|29.283]].

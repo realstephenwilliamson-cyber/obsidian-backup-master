@@ -33,6 +33,11 @@ utprekṣāsvapnasaṃkalpasmṛtyunmādādidṛṣṭiṣu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 454–455)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.248–249]]
+>
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.249–250]]
+
 *Lead-in:* एवं वैकल्पिकार्थत्वेऽप्यत्र स्पष्टास्पष्टतया द्वैविध्यं विभजति - -
 
 > उत्पेर्क्षास्वप्नसङ्कल्पस्मृत्युन्मादादिदृष्टिषु ॥

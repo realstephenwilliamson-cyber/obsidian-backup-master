@@ -35,6 +35,9 @@ kalpanāyāśca mukhyatvamatraiva kila sūcitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 402–403)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.227]]
+
 *Lead-in:* न चैतदस्मदुपज्ञमेव -- इत्याह --
 
 > संवित्तिफलभिच्चात्र न प्रकल्प्येत्यतोऽब्रवीत् ।

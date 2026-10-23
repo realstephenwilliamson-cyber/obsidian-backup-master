@@ -34,6 +34,11 @@ nanvatra tāmaso nāma kathaṃ yogyo vidhau bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 298)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.490–491]]
+>
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.491–492]]
+
 *Lead-in:* ननु इह तामसस्य दीक्षाकर्मणि अधिकार एव कुतस्त्यः?-- इत्याशङ्कां प्रदर्श्य निराकरोति--
 
 > नन्वत्र तामसो नाम कथं योग्यो विधौ भवेत् ॥

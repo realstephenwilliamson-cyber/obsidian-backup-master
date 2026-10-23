@@ -34,6 +34,9 @@ vidyādharādhamāścātra vajrāṅke saṃpratiṣṭhitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 165–167)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.123–128]]
+
 > पञ्चाशद्योजनोर्ध्वे स्यादृतर्द्धिर्नाम मारुतः ॥
 > आप्यायकः स जन्तूनां ततः प्राचेतसो भवेत् ।
 > पञ्चाशद्योजनादूर्ध्वं तस्मादूर्ध्वंशतेन तु ॥

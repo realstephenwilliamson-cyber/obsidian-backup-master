@@ -15,12 +15,16 @@ filters:
     - file.folder.startsWith("Catalog/")
     - subject.contains("Hinduism")
     - status != "delete"
+formulas:
+  Read: files.filter(value.asFile().ext == "md").map(link(value, "Read"))
 views:
   - type: table
     name: Hinduism
     order:
+      - formula.Read
       - file.name
       - author
+      - type
     sort:
       - property: file.name
         direction: ASC
@@ -32,8 +36,10 @@ views:
       and:
         - status == "review"
     order:
+      - formula.Read
       - file.name
       - author
+      - type
       - year
     sort:
       - property: file.name

@@ -37,6 +37,11 @@ pratidikkaṃ daśa daśetyevaṃ rudraśataṃ bahiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 193–197)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.166–167]]
+>
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.167–168]]
+
 *Lead-in:* ननु शतरुद्राः कुत्रावस्थिता -- यदवधिकत्वमपि अस्योच्यते -- इत्याशङ्क्याह --
 
 > प्रतिदिक्कं दश दशेत्येवं रुद्रशतं बहिः ॥

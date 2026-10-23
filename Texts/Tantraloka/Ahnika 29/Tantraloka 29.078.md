@@ -31,6 +31,9 @@ avadhūtā nirācārāḥ pūjayetkramaśo budhaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 275)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.78]]
+
 *Lead-in:* यद्वा मण्डलादिपरिहारेण चक्रमेव पूजयेत्--इत्याह--
 
 > मूर्तीरेवाथवा युग्मरूपा वीरस्वरूपिणीः ।

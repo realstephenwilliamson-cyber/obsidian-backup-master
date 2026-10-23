@@ -35,6 +35,9 @@ saṃhārabījaviśrānto yogī paramayo bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 97)
+> ![[Tantraloka Dyczkowski v04 05 - Chapter Five, part 3#Viveka on 5.78]]
+
 *Lead-in:* अतश्च मुख्यया वृत्त्या तत्रैव विश्रमणीयं येन साक्षात् परतत्त्वान्तरनुप्रर्वेशः सिद्ध्येत् ? -- इत्याह -
 
 > तत्र संवेदनोदारबिन्दुसत्तासुनिर्वृतः ।

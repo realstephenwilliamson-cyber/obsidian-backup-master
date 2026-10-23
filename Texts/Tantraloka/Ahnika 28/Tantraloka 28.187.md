@@ -31,5 +31,10 @@ cakrayāgaśca kartavyaḥ pūrvoktavidhinā budhaiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 86–87)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 28.188–189.*
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.188–189]]
+
 Jayaratha comments on this verse together with 28.189: see [[Tantraloka 28.189#Viveka|28.189]].
 

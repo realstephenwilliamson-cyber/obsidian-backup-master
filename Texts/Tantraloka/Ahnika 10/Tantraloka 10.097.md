@@ -33,6 +33,11 @@ evaṃ pañcadaśātmeyaṃ dharā tadvajjalādayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 357–358)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.96–97]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.97–98]]
+
 *Lead-in:* एवं च पाञ्चदश्यादिक्रमकल्पना वास्तव्येव -- इत्याह --
 
 > एवं पञ्चदशात्मेयं धरा तद्वज्जलादयः ॥

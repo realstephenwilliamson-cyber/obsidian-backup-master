@@ -31,6 +31,9 @@ saṅkoce vinivṛtte tu svasvabhāvaḥ prakāśate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 258)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.213]]
+
 *Lead-in:* तदेव व्याचष्टे -
 
 > अज्ञानरूपता पुंसि बोधः सङ्कोचिते हृदि ।

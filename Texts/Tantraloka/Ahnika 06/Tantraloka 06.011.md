@@ -34,6 +34,9 @@ patansamucchalattvena prāṇaspandormisaṃjñitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 227–228)
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.11]]
+
 *Lead-in:* स एव च शून्यप्रमाता बहिर्मुखीभवन्प्राणप्रमातृतामासादयति -- इत्याह --
 
 > स एव खात्मा मेयेऽस्मिन्भेदिते स्वीक्रियोन्मुखः ।

@@ -31,6 +31,9 @@ prerito jīvanāya syādanyathā maraṇaṃ punaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 218–219)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.231]]
+
 *Lead-in:* एवमपि नायमात्मनि अहमभिमानः, किन्तु अनात्मरूपायां बुद्धावेव, आत्मप्रतिबिम्बस्य बुद्ध्याधारतया तदेकपरिणामत्वात्, अस्याश्चासाधारणं कार्यमाह --
 
 > तया पञ्चविधश्चैष वायुः संरम्भरूपया ।

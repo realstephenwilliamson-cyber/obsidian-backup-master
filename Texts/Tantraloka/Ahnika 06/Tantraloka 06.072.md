@@ -36,6 +36,13 @@ dine krūrāṇi saumyāni rātrau karmāṇyasaṃśayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 290–296)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.69–72]]
+>
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.69–72 (continued)]]
+>
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.72]]
+
 *Lead-in:* ननु यत्र प्रहराष्टके फलभेद उक्तस्तत्र दिननिशयोः कथं न ? -- इत्याशङ्क्याह --
 
 > दिने क्रूराणि सौम्यानि रात्रौ कर्माण्यसंशयम् ॥

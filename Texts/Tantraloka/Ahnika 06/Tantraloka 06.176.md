@@ -37,6 +37,11 @@ evaṃ tāttveśvare varge līne sṛṣṭau punaḥ pare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 389–390)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.175–176]]
+>
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.176–177]]
+
 *Lead-in:* नन्वेवमपवृक्तेषु पुनः सृष्टौ तत्र केषामधिकारः ? -- इत्याशङ्क्याह --
 
 > एवं तात्त्वेश्वरे वर्गे लीने सृष्टौ पुनः परे ॥

@@ -34,6 +34,9 @@ khamivātiṣṭhate yāvatpraśāntaṃ tāvaducyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 176–177)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.85–87]]
+
 > शून्यधामाब्जमध्यस्थप्रभाकिरणभास्वरः ॥
 > आधेयाधारनिःस्पन्दबोधशास्त्रपरिग्रहः ।
 > जन्माधेयप्रपञ्चैकस्फोटसङ्घट्टघट्टनः ॥

@@ -37,6 +37,11 @@ udayāstamayāvitthaṃ sūryasya paribhāvayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 155–156)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.110]]
+>
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.110 (2)]]
+
 *Lead-in:* न केवलमस्यैवं गतावेव वैचित्र्यमस्ति यावदुदयास्तमययोरपि -- इत्याह --
 
 > उदयास्तमयावित्थं सूर्यस्य परिभावयेत् ॥

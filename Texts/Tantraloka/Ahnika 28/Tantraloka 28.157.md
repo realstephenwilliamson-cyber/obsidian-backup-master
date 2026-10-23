@@ -31,6 +31,9 @@ svadehe vahnipīṭhe ca yathāśobhaṃ tadiṣyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 77)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.156–158]]
+
 > विद्यापीठे चले लिङ्गे स्थण्डिले च गुरोर्गणे ॥
 > घण्टायां स्रुक्स्रुवे शिष्यलिङ्गिषु द्वारतोरणे ।
 > स्वदेहे वह्निपीठे च यथाशोभं तदिष्यते ॥

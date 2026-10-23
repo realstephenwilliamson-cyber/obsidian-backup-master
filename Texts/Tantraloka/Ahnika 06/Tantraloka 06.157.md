@@ -35,6 +35,9 @@ aiśvaro divaso nādaḥ prāṇātmātra sṛjejjagat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 375)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.157–158]]
+
 > प्रधाने यदहोरात्रं तज्जं वर्षशतं विभोः ।
 > श्रीकण्ठस्यायुरेतच्च दिनं कञ्चुकवासिनाम् ॥
 > तत्क्रमान्नियतिः कालो रागो विद्या कलेत्यमी ।

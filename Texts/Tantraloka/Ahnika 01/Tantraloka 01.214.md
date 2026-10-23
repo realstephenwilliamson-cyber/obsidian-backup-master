@@ -34,6 +34,9 @@ savikalpatayā māyāmayamicchādi vastutaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 392–393)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.214]]
+
 *Lead-in:* इदानीं शाम्भवमुपायं प्रतिपाद्य, शाक्तमप्याह --
 
 > शाक्तोऽथ भण्यते चेतोधीमनोहंकृतिः स्फुटम् ।

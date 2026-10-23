@@ -31,6 +31,9 @@ antarmahāyāgarūḍhyai tayaivāsau kṛtārthakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 226)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.367–368]]
+
 > बहिर्यागस्य मुख्यत्वे सिद्ध्यादिपरिकल्पिते ।
 > अन्तर्यागः संस्क्रियायै ह्यन्यथार्चयिता पशुः ॥
 > यस्तु सिद्ध्यादिविमुखः स बहिर्यजति प्रभुम् ।

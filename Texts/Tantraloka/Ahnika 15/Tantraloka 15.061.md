@@ -31,6 +31,9 @@ sarvatra paścāttaṃ mantramekībhūtamupāharet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 48)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.61]]
+
 *Lead-in:* एतदेव अधिकावापेन उपसंहरति--
 
 > इति स्नानाष्टकं शुद्धावुत्तरोत्तरमुत्तमम् ।

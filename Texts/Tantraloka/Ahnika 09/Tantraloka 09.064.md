@@ -31,6 +31,9 @@ rāgaḥ puṃsi dhiyo dharmaḥ karmabhedavicitratā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 66–67)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.64]]
+
 *Lead-in:* ननु सांख्येन वैराग्यलक्षणो बुद्धिधर्मो रागः तत्तद्विषयाभिलाषस्वभावोऽभ्युपगतः, इति किमनेनान्येनैवंविधेन रागतत्त्वेन मलेन च प्रयोजनम् ? -- इत्याशङ्क्याह --
 
 > निरवच्छेदकर्मांशमात्रावच्छेदतस्तु सा ।

@@ -34,6 +34,9 @@ vikalpaniścayātmaiva paryante nirvikalpakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 399)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.221]]
+
 *Lead-in:* तदाह --
 
 > अणुर्नाम स्फुटो भेदस्तदुपाय इहाणवः ।

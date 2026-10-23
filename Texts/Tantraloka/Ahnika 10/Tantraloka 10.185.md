@@ -31,6 +31,9 @@ savyāpārādhipatvenetyādinā jāgradāditām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 405–406)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.185–186]]
+
 *Lead-in:* नन्वधराधररूपं पूर्वस्मिन्पूर्वस्मिन्नूपे निलीनं सत्स्वरूपमेव जह्यादिति, तत्रास्य निरवकाशैव पाञ्चदश्यादिशङ्का? -- इत्याशङ्क्याह --
 
 > एतच्च सूत्रितं धात्रा श्रीपूर्वे यद् ब्रवीति हि ।

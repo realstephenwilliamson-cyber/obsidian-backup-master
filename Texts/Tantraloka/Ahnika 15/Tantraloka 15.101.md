@@ -33,6 +33,11 @@ ityevamantarbāhye ca tattaccakraphalārthinām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 69–70)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.100–101]]
+>
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.101–102]]
+
 *Lead-in:* शरीरादेश्च यथायथमान्तरत्वं विवक्षितम् । स च अयं पीठादेर्बुभुक्ष्वेकविषयो भेद--इत्याह--
 
 > इत्येवमन्तर्बाह्ये च तत्तच्चक्रफलार्थिनाम् ॥

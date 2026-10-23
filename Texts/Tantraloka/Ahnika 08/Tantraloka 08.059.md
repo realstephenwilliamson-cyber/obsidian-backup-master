@@ -34,6 +34,9 @@ sitapītanīlaraktāste kramātpādaparvatāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 109–110)
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.58–60]]
+
 > मेरोः प्रदक्षिणाप्योदग्दिक्षु विष्कम्भपर्वताः ॥
 > मन्दरो गन्धमादश्च विपुलोऽथ सुपार्श्वकः ।
 > सितपीतनीलरक्तास्ते क्रमात्पादपर्वताः ॥

@@ -16,9 +16,9 @@ Text: [[NRSVue Matthew 12|NRSVue]] · [[Matthew 12|BSB and SBLGNT]] · Introduct
 
 *[[NRSVue Matthew 12#^12-1|Text]], p. 33* · ([[Mark 02#^2-23|Mk 2.23–3.6]]; [[Luke 06#^6-1|Lk 6.1–11]]). ^12-1
 
-**[[NRSVue Matthew 12#^12-1|1]]:** *Hungry*, probably added to the Marcan source by Matthew. *Pluck heads of grain*, the thirty-nine types of work forbidden on the Sabbath according to rabbinic law include reaping, which may subsume plucking (see [[Torah 21 - Ki Tisa#^34-21|Ex 34.21]]; *m. Pesah.* 4.8; *m. Shabb*. 7.2; *b. Shabb*. 73b). ^12-1-2
+**[[NRSVue Matthew 12#^12-1|1]]:** *Hungry*, probably added to the Marcan source by Matthew. *Pluck heads of grain*, the thirty-nine types of work forbidden on the Sabbath according to rabbinic law include reaping, which may subsume plucking (see [[Torah 21 - Ki Tisa#^34-21|Ex 34.21]]; *m. Pesah.* 4.8; *m. Shabb*. 7.2; [[Shabbat 73#73b|*b. Shabb*. 73b]]). ^12-1-2
 
-**[[NRSVue Matthew 12#^12-2|2]]:** *Not lawful*, the disciples do not violate Torah (which prohibits “work” \[[[Torah 17 - Yitro#^20-10|Ex 20.10]]; [[Torah 45 - Vaetchanan#^5-14|Deut 5.14]]\]) since the Sabbath should be a time of joy ([[Isaiah 58#^58-13|Isa 58.13]]) commemorating divine rest ([[Torah 01 - Bereshit#^2-2|Gen 2.2–3]]; [[Torah 17 - Yitro#^20-11|Ex 20.11]]) and freedom from slavery ([[Torah 45 - Vaetchanan#^5-15|Deut 5.15]]). Health supersedes Sabbath prohibitions (*m. Yoma* 8.6; *b. Men.* 96a; *t. Shabb*. 15.16). ^12-2
+**[[NRSVue Matthew 12#^12-2|2]]:** *Not lawful*, the disciples do not violate Torah (which prohibits “work” \[[[Torah 17 - Yitro#^20-10|Ex 20.10]]; [[Torah 45 - Vaetchanan#^5-14|Deut 5.14]]\]) since the Sabbath should be a time of joy ([[Isaiah 58#^58-13|Isa 58.13]]) commemorating divine rest ([[Torah 01 - Bereshit#^2-2|Gen 2.2–3]]; [[Torah 17 - Yitro#^20-11|Ex 20.11]]) and freedom from slavery ([[Torah 45 - Vaetchanan#^5-15|Deut 5.15]]). Health supersedes Sabbath prohibitions (*m. Yoma* 8.6; [[Menachot 96#96a|*b. Men.* 96a]]; *t. Shabb*. 15.16). ^12-2
 
 **[[NRSVue Matthew 12#^12-3|3–4]]:** *What David did*, [[I Samuel 21#^21-2|1 Sam 21.1–6]]; Jesus argues from biblical precedent, citing hunger as a common reason for eating the bread. Yet the situations are different: David’s men are in a dangerous situation, while Jesus’ disciples are not; they are violating the Sabbath. Matthew omits Mark’s erroneous biblical citations. See also [[Torah 31 - Emor#^24-5|Lev 24.5–9]]. ^12-3
 
@@ -30,7 +30,7 @@ Text: [[NRSVue Matthew 12|NRSVue]] · [[Matthew 12|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 12#^12-8|8]]:** *Son of Man*, see 8.20n. According to the Torah, the Sabbath was God’s gift to the people ([[Torah 16 - Beshalach#^16-29|Ex 16.29]]). In Matthew, Jesus is the authoritative interpreter of Sabbath laws. ^12-8
 
-**[[NRSVue Matthew 12#^12-10|10–12]]:** See 9.26n. Rabbinic law permitted alleviating an animal’s distress on the Sabbath (*t. Shabb*. 15.1; *b. Shabb*. 128b), although some Jews disagreed (CD 11.13). ^12-10
+**[[NRSVue Matthew 12#^12-10|10–12]]:** See 9.26n. Rabbinic law permitted alleviating an animal’s distress on the Sabbath (*t. Shabb*. 15.1; [[Shabbat 128#128b|*b. Shabb*. 128b]]), although some Jews disagreed (CD 11.13). ^12-10
 
 **[[NRSVue Matthew 12#^12-13|13]]:** *It was restored*, the passive construction both suggests divine healing and indicates that Jesus did no “work.” ^12-13
 
@@ -60,7 +60,7 @@ Text: [[NRSVue Matthew 12|NRSVue]] · [[Matthew 12|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 12#^12-31|31]]:** 9.3n. *Blasphemy against the Spirit*, certain sins against God are not forgiven (see [[Torah 17 - Yitro#^20-7|Ex 20.7]]; [[Torah 37 - Sh'lach#^15-30|Num 15.30–31]]; *Jub*. 15.34; 1QS 7.15–17,22–23; CD 10.3); *Sifre Deut*. 328 states that God ex-acts “immediate punishment” for those who desecrate the divine name and thus blaspheme. ^12-31
 
-**[[NRSVue Matthew 12#^12-32|32]]:** See 8.20n.; 10.23n. *Age to come*, Heb “Olam ha-ba’,” the messianic age (see *m. Sanh*. 10.1; *b. Sanh*. 90a; *b. Shabb*. 127a; *b. Men*. 44a; *b. Pesah*. 50a; *b. Qidd*. 39b, etc.). ^12-32
+**[[NRSVue Matthew 12#^12-32|32]]:** See 8.20n.; 10.23n. *Age to come*, Heb “Olam ha-ba’,” the messianic age (see *m. Sanh*. 10.1; [[Sanhedrin 90#90a|*b. Sanh*. 90a]]; [[Shabbat 127#127a|*b. Shabb*. 127a]]; [[Menachot 44#44a|*b. Men*. 44a]]; [[Pesachim 50#50a|*b. Pesah*. 50a]]; [[Kiddushin 39#39b|*b. Qidd*. 39b]], etc.). ^12-32
 
 **[[NRSVue Matthew 12#^12-34|34]]:** *Brood of vipers,* see 3.7n., 23.33. ^12-34
 

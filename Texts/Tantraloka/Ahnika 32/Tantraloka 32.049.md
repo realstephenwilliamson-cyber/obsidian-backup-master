@@ -31,6 +31,9 @@ mukhyāsāṃ khecarī sā ca tridhoccāreṇa vācikī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 159)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.49–50]]
+
 *Lead-in:* इदानीं श्रीकुलगह्वरोक्तं सविशेषमस्या रूपं वक्तुमाह--
 
 > भवान्मुक्त्वा द्रावयन्ति पाशान्मुद्रा हि शक्तयः ।

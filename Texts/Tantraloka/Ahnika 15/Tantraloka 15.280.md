@@ -31,6 +31,9 @@ vāmācāraparo mantrī yāgaṃ kuryāditi sphuṭam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 166–167)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.280]]
+
 *Lead-in:* न केवलमत्रैव वामशब्दस्य रहस्यार्थाभिधायित्वं यावदन्यत्रापि- -इत्याह--
 
 > वामाचारपरो मन्त्री यागं कुर्यादिति स्फुटम् ।

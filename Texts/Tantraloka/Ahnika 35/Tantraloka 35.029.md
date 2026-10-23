@@ -31,6 +31,9 @@ phalameti tathā pāñcarātrādau na śivātmatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 209)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.29]]
+
 *Lead-in:* ननु एवमपि शिवादेव यदि अखिलमिदं शास्त्रमुदितं तत् शैवपाञ्चरात्रादिभ्योऽपि कस्मात् न शिवात्मकत्वमेव उदियात्?-- इत्याशङ्कां दृष्टान्तीकृत्य दृष्टान्तपुरःसरीकारेण आह--
 
 > यथा च तत्र पूर्वस्मिन्नाश्रमे नोत्तराश्रमात् ।

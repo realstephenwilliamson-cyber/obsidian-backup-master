@@ -34,6 +34,9 @@ athavānyonyasaṃjñābhyāṃ tattvayorvyapadeśyatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 57)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.121–123]]
+
 *Lead-in:* ननु कथमत्रैषां व्यत्ययेनोपदेशः ?--इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 16.122: see [[Tantraloka 16.122#Viveka|16.122]].

@@ -31,5 +31,8 @@ sā madhye śrīparā devī mātṛsadbhāvarūpiṇī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 244–245)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.46–48]]
+
 Jayaratha comments on this verse together with 29.48: see [[Tantraloka 29.048#Viveka|29.48]].
 

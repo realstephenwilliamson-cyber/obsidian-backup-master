@@ -33,6 +33,11 @@ nanu vastuśatākīrṇe sthāne'pyasya yadeva hi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 192–193)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.4–5]]
+>
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.5–6]]
+
 *Lead-in:* न अत्र अन्यथासिद्धेः प्रसिद्धिरुपयुज्यते--इत्याह--
 
 Jayaratha comments on this verse together with 35.4: see [[Tantraloka 35.004#Viveka|35.4]].

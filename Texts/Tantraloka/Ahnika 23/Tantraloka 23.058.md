@@ -31,6 +31,9 @@ svabhāvādeva tenāsya vidyādyamapakārakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 323)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.58]]
+
 *Lead-in:* नन्वस्योपदेशस्तावत् वृत्त इति किमिति न ज्ञानं रूढिमागतम्?-- इत्याशङ्क्याह--
 
 > किंत्वेष वामया शक्त्या मूढो गाढं विभोः कृतः ।

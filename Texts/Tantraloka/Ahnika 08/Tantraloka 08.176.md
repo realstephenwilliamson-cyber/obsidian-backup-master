@@ -35,6 +35,9 @@ ucyate vastuśabdena tanvakṣabhuvanātmakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 200–202)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.175–177]]
+
 > विनापि वस्तुपिण्डाख्यपदेनैकैकशो भवेत् ।
 > तत्त्वेष्वण्डस्वभावत्वं नन्वेवमपि किं न तत् ॥
 > गुणतन्मात्रभूतौघमये तत्त्वे प्रसृज्यते ।

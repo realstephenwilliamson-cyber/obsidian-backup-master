@@ -37,6 +37,11 @@ sārdhanālīdvayaṃ prāṇaśatāni nava yatsthitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 406–411)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.198–199]]
+>
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.199–200]]
+
 *Lead-in:* इति । नन्वत्र कथमसावहर्निशं चरन्नास्ते ? -- इत्याशङ्क्याह --
 
 > सार्धनालीद्वयं प्राणशतानि नव यत्स्थितम् ॥

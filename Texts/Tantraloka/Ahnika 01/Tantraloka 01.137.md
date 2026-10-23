@@ -34,6 +34,9 @@ anāvaraṇabhāgāṃśe vaicitryaṃ bahudhā sthitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 304)
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.137]]
+
 *Lead-in:* अत एवाह—
 
 > तेनाजडस्य भागस्य पुद्गलाण्वादिसंज्ञिनः ।

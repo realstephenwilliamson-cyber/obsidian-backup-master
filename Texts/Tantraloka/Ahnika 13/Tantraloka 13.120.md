@@ -33,6 +33,11 @@ anābhāsitarūpo'pi tadābhāsitayeva yat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 196–198)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.119–120]]
+>
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.120–121]]
+
 *Lead-in:* इति ॥ ननु एवमीश्वरस्तिरोभावेऽपि किं सृष्ट्यादिवन्मलाद्यपेक्षते किमुत अनुग्रहवन्न? -- इत्याशंक्य, गर्भीकृतमलादिनैरपेक्ष्यं तत्स्वरूपमेव तावदभिधत्ते --
 
 > अनाभासितरूपोऽपि तदाभासितयेव यत् ॥

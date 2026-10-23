@@ -34,6 +34,9 @@ pramāṇarūpatāveśamaparityajya meyatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 57)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.60–62]]
+
 *Lead-in:* इत्यादिनीत्या प्रमेयमन्तरेण प्रमाणतैव न भवेत् -- इत्येतदानन्तर्येण प्रमेयभागस्थं कलाद्यध्वत्रयमभिधत्ते । तत्रापि मेयस्य मानरूपतावेशे कलाध्वत्वम्, अन्यथा तु सूक्ष्मत्वे स्थूलत्वे च तत्त्वाध्वत्वं भुवनाध्वत्वं च -- इत्याह --
 
 Jayaratha comments on this verse together with 11.59: see [[Tantraloka 11.059#Viveka|11.59]].

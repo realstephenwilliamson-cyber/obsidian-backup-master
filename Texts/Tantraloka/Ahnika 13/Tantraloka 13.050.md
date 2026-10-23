@@ -31,6 +31,9 @@ tadāṇuḥ spṛśyate spṛṣṭaḥ svake jñānakriye sphuṭe || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 155–156)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.50–51]]
+
 *Lead-in:* नन्वेवंविधं मलं चेन्नित्यमणुभिर्वा नित्यमेव संबद्धम्, तन्न कदाचिदपि संसारः शाम्येदित्यनिर्मोक्ष एव प्रसजेत् ? -- इत्याशङ्क्याह --
 
 > तस्य रोद्ध्री यदा शक्तिरुदास्ते शिवरश्मिभिः ।

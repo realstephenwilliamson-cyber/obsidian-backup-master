@@ -522,7 +522,7 @@ Nothing associated with the physical can apply to Him in any way.
 
 We thus cannot say that God moves, rests, or exists in a given place. Things such as this can neither happen to Him, nor be part of His intrinsic nature. 
 
-When our sages speak of God, they therefore teach that such concepts as combination and separation do not apply to Him. \[hey say in the Talmud (Chagigah 15a), “On high, there is neither sitting nor standing, neither combination nor separa- 
+When our sages speak of God, they therefore teach that such concepts as combination and separation do not apply to Him. \[hey say in the Talmud ([[Chagigah 15#15a|Chagigah 15a]]), “On high, there is neither sitting nor standing, neither combination nor separa- 
 
 thon! 
 

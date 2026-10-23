@@ -36,6 +36,9 @@ vibhāti bhūrvyāptṛtayā sthitairalam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 282–283)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.311]]
+
 *Lead-in:* एवमियता पर्यवसितमित्याह --
 
 > अतः शिवत्वात्प्रभृति प्रकाशता

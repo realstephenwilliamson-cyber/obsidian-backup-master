@@ -33,6 +33,13 @@ yadeva prāgadhiṣṭhānaṃ citā tādātmyavṛttitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 144)
+> *No commentary follows this verse directly; shown here is the next, after Dyczkowski's verse 334.*
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on Dyczkowski's verse 334]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.333–334]]
+
 *Lead-in:* ननु नित्याविलुप्तस्वरूपायाः संविदस्तावन्नास्ति प्रलीनत्वं तदधिष्ठेयत्वमेव देहत्वं तच्च नीलपीतादिभिरपि अविशिष्टं तत् कथमेवं देहस्यैव प्रलीनत्वमुच्यमानं सङ्गच्छतां येन स्मृत्यादिचिन्तापि स्यात् ?--इत्याशङ्क्य आह--
 
 > प्राक् प्रस्फुरेद्यदधिकं देहोऽसौ चिदधिष्ठितेः ।

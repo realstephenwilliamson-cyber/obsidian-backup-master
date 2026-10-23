@@ -31,6 +31,9 @@ tadupāyo'pi saṃpūjyo mūrtikālakriyādikaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 86–87)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.188–189]]
+
 > अथ नैमित्तिकविधिर्यः पुरासूत्रितो मया ॥
 > स भण्यते तत्र कार्या देवस्यार्चा विशेषतः ।
 > चक्रयागश्च कर्तव्यः पूर्वोक्तविधिना बुधैः ॥

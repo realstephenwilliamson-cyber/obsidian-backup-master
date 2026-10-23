@@ -34,5 +34,8 @@ kare ca dahyamānaṃ saccintayettajjapaikayuk || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 234)
+> ![[Tantraloka Dyczkowski v09 11 - Chapter Twenty#Viveka on 20.2–4]]
+
 Jayaratha comments on this verse together with 20.4: see [[Tantraloka 20.004#Viveka|20.4]].
 

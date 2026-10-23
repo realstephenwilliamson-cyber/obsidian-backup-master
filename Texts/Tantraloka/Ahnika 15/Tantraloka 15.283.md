@@ -33,6 +33,11 @@ evamānandasaṃpūrṇaṃ sarvaunmukhyavivarjitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 169–170)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.282–283]]
+>
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.283–284]]
+
 *Lead-in:* ननु एवं देहस्य यजनेन किं स्यात् ?--इत्याशङ्क्य आह--
 
 > एवमानन्दसंपूर्णं सर्वौन्मुख्यविवर्जितम् ॥

@@ -34,6 +34,9 @@ anuttaraṣaḍardhārthakrame tvekāpi nekṣyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 75–78)
+> ![[Tantraloka Dyczkowski v01 03 - Chapter One, part 2#Viveka on 1.14]]
+
 *Lead-in:* इदानीं स्वप्रवृत्तिप्रयोजनादि आचक्षाणो ग्रन्थकारो ग्रन्थकरणं प्रतिजानीते --
 
 > सन्ति पद्धतयश्चित्राः स्त्रोतोभेदेषु भूयसा ।

@@ -35,6 +35,9 @@ tithistattriṃśatā māsaste dvādaśa tu vatsaraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 359)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.130–132]]
+
 *Lead-in:* तदेवाह -
 
 Jayaratha comments on this verse together with 6.131: see [[Tantraloka 06.131#Viveka|6.131]].

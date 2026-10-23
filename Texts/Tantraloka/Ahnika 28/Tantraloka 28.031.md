@@ -33,6 +33,11 @@ māsasyādyaṃ pañcamaṃ ca śrīdinaṃ paribhāṣyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 19–20)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 28.34–35.*
+>
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.34–35]]
+
 *Lead-in:* तदेव दर्शयति--
 
 Jayaratha comments on this verse together with 28.30: see [[Tantraloka 28.030#Viveka|28.30]].

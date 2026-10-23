@@ -36,6 +36,11 @@ vīryamojo balaṃ spandaḥ prāṇacāraḥ samaṃ tataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 271–272)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.62]]
+>
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.62 (2)]]
+
 *Lead-in:* ननु यद्येवं तदतिक्षुद्रे मशकादिसंबन्धिन्यतिमहति वा हस्त्यादिसत्के देहे कथमेतत्सङ्गच्छते? -- इत्याशङ्क्याह --
 
 > क्षोदिष्ठे वा महिष्ठे वा देहे तादृश एव हि ।

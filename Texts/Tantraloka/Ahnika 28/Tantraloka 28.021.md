@@ -31,5 +31,8 @@ yogābhyāsakramopāttāṃ tathā pūrṇāṃ svasaṃvidam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 15–16)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.20–23]]
+
 Jayaratha comments on this verse together with 28.22: see [[Tantraloka 28.022#Viveka|28.22]].
 

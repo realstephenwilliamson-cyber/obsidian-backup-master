@@ -31,6 +31,9 @@ dehapāto bhavedasya yadvā kāṣṭhāditulyatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 256–257)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.210]]
+
 *Lead-in:* नन्वेवमस्य स्वरूपलाभः किं सत्येव देहे भवेत्, उतासति? -- इत्याशङ्क्याह --
 
 > तत्रापि तारतम्यादिवशाच्छीघ्रचिरादितः ।

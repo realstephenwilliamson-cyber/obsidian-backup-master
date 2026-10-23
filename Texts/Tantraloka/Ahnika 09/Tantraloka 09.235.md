@@ -31,6 +31,9 @@ sarvatanmātrakartṛtvaṃ viśeṣaṇamahaṃkṛteḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 222–223)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.235]]
+
 *Lead-in:* तदाह --
 
 > मनो यत्सर्वविषयं तेनात्र प्रविवक्षितम् ।

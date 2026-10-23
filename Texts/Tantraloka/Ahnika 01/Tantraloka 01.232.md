@@ -35,6 +35,9 @@ upāyavaśataḥ prāptaṃ tatkriyeti puroditam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 407–409)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.232]]
+
 *Lead-in:* ननु सजातीये सजातीयस्य अन्तर्भावो न्याययो न तु इतरथा, इति कथं दीक्षादेः क्रियाया आणवज्ञानान्तर्भावः स्यात् ? इत्याशङ्क्याह --
 
 > क्रिया हि नाम विज्ञानान्नान्यद्वस्तु क्रमात्मताम् ।

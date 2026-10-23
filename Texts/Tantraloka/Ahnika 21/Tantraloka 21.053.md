@@ -34,6 +34,9 @@ tadā tasya na kartavyā dīkṣāsminnakṛte vidhau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 273)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.50–53]]
+
 > परोक्षदीक्षणे सम्यक् पूर्णाहुतिविधौ यदि ॥
 > अग्निश्चिटिचिटाशब्दं सधूमं प्रतिमुञ्चति ।
 > धत्ते नीलाम्बुदच्छायां मुहुर्ज्वलति शाम्यति ॥

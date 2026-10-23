@@ -34,6 +34,9 @@ itthaṃ samāsavyāsābhyāṃ jñānaṃ muñcati tāvataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 132–141)
+> ![[Tantraloka Dyczkowski v01 05 - Chapter One, part 4#Viveka on 1.33]]
+
 *Lead-in:* एतदेव दर्शयति—
 
 > रागाद्यकलुषोऽस्म्यन्तःशून्योऽहं कर्तृतोज्झितः ।

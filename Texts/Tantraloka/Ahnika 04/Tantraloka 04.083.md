@@ -34,6 +34,9 @@ pramite'pi pramāṇānāmavakāśo'styataḥ sphuṭaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 97–98)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.81–83]]
+
 > इत्थमेव मितौ वाच्यं करणस्य स्वकं वपुः ॥
 > न स्वतन्त्रं स्वतो मानं कुर्यादधिगमं हठात् ।
 > प्रमात्राश्वासपर्यन्तो यतोऽधिगम उच्यते ॥

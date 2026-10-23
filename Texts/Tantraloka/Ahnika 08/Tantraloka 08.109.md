@@ -35,6 +35,9 @@ bhānoruttaradakṣiṇamayanadvayametadeva kathayanti || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 152–155)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.109]]
+
 *Lead-in:* एवं लोकालोकमेर्वन्तरालवर्तित्वेऽस्य भानोर्गतिवैचित्र्यं दर्शयति --
 
 > पितृदेवपथावस्योदग्दक्षिणगौ स्वजात्परे वीथ्यौ ।

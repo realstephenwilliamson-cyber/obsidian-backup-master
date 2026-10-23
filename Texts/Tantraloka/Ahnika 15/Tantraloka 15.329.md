@@ -31,6 +31,9 @@ sarvaṃ tato'ṅgavaktrādi lokapālāstrapaścimam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 200–202)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.328–330]]
+
 > वस्तुतो विश्वरूपास्ता देव्यो बोधात्मिका यतः ॥
 > अनवच्छिन्नचिन्मात्रसाराः स्युरपवृक्तये ।
 > सर्वं ततोऽङ्गवक्त्रादि लोकपालास्त्रपश्चिमम् ॥

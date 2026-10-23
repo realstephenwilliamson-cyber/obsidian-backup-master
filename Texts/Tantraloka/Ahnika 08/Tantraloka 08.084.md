@@ -34,6 +34,9 @@ saumyagāndharvavārāhāḥ kanyākhyaṃ cāsamudrataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 133)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.84]]
+
 *Lead-in:* एषां च नवानामपि खण्डानां नामविभागमाह --
 
 > इन्द्रः कशेरुस्ताम्रभो नागीयः प्राग्गभस्तिमान् ।

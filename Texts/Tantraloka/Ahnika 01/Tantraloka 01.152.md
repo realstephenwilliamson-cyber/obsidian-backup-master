@@ -34,6 +34,9 @@ tāsāṃ śāntinimittaṃ yā matiḥ saṃvitsvabhāvikā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 324–327)
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.152–153]]
+
 *Lead-in:* एतच्च स्वयमेव व्याचष्टे --
 
 Jayaratha comments on this verse together with 1.153: see [[Tantraloka 01.153#Viveka|1.153]].

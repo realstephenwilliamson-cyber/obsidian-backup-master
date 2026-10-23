@@ -31,6 +31,9 @@ tadā śrīkaṇṭhanāthājñāvaśāt siddhā avātaran || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 225–226)
+> ![[Tantraloka Dyczkowski v11 10 - Chapter Thirty-Six#Viveka on 36.11–14]]
+
 *Lead-in:* एवं श्रीसिद्धातन्त्रनिर्दिष्टमायातिक्रममभिधाय गुरुनिरूपितमपि अभिधातुमाह--
 
 Jayaratha comments on this verse together with 36.14: see [[Tantraloka 36.014#Viveka|36.14]].

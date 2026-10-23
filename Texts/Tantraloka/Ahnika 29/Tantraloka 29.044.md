@@ -31,5 +31,8 @@ tathārūpatayā tatra gurutvaṃ paribhāṣitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 241–243)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.43–45]]
+
 Jayaratha comments on this verse together with 29.45: see [[Tantraloka 29.045#Viveka|29.45]].
 

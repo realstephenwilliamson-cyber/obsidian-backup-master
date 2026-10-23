@@ -33,6 +33,11 @@ ata eva gītagītaprabhṛtau bahuparṣadi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 169–170)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.374–375]]
+>
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.375–376]]
+
 *Lead-in:* सर्वाकारत्वमेव च अस्याः परानन्दनिर्भरं पूर्णं रूपम्--इत्याह--
 
 > अत एव गीतगीतप्रभृतौ बहुपर्षदि ॥

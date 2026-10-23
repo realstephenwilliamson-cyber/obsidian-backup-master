@@ -31,5 +31,10 @@ tasya pādarajo mūrdhni dhāryaṃ śivasamīhinā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 89)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 31.52.*
+>
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.52]]
+
 Jayaratha comments on this verse together with 31.52: see [[Tantraloka 31.052#Viveka|31.52]].
 

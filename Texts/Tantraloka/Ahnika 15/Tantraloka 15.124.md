@@ -31,6 +31,11 @@ maśāntā kaṭiguhyoruyugmagā jānunī tathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 81–82)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.121–125]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.121–125 (continued)]]
+
 > न शिखा ऋ ऋ ऌ ॡ च शिरोमालाऽथ मस्तकम् ।
 > नेत्राणि चोर्ध्वेऽधोऽन्ये ई घ्रणं मुद्रे णु णू श्रुती ॥
 > बकवर्गैआ वक्रदन्तजिह्वागिरि क्रमात् ।

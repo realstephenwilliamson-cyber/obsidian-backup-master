@@ -34,5 +34,8 @@ ketumālaṃ kulādrīṇāṃ saptakena vibhūṣitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 119)
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.69]]
+
 Jayaratha comments on this verse together with 8.78: see [[Tantraloka 08.078#Viveka|8.78]].
 

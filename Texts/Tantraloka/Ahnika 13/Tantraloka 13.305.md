@@ -31,6 +31,9 @@ sarve te paśavo jñeyā bhairave mātṛmaṇḍale || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 314–315)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.305]]
+
 *Lead-in:* ननु यदि नाम शैवादावयमभिषिक्तस्तावतैव च परं तत्त्वं वेत्ति, तदस्य भैरवतन्त्रादौ पुनः संस्कारेण कोऽर्थः? -- इत्याशङ्क्याह --
 
 > शैववैमलसिद्धान्ता आर्हताः कारुकाश्च ये ।

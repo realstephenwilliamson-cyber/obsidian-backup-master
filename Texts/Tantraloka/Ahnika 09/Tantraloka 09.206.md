@@ -31,6 +31,9 @@ uktaṃ śivatanuśāstre tadidaṃ bhaṅgyantareṇa punaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 194–195)
+> ![[Tantraloka Dyczkowski v06 07 - Chapter Nine, part 5#Viveka on 9.206]]
+
 *Lead-in:* नन्वनयैव परिपाट्या कञ्चुकषट्कस्य किं सर्वत्र वृत्तान्तः संभवेन्न वा ? -- इत्याशङ्क्याह --
 
 > उक्तं शिवतनुशास्त्रे तदिदं भङ्ग्यन्तरेण पुनः ।

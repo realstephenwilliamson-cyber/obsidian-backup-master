@@ -37,6 +37,11 @@ kapālavratinaḥ svāṅgahotāraḥ kaṣṭatāpasāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 305–307)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.300–301]]
+>
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.301–302]]
+
 *Lead-in:* अत्र चैषामुपदेशेन कोऽर्थः ? -- इत्याशङ्क्याह --
 
 > कपालव्रतिनः स्वाङ्गहोतारः कष्टतापसाः ॥

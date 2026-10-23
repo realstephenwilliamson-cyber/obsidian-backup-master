@@ -37,6 +37,11 @@ tena ye guravaḥ śrīmatsvacchandoktidvayāditaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 361–362)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.136–137]]
+>
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.137–138]]
+
 *Lead-in:* एवं पित्र्यं वर्षं देवानां दिनमिति यदन्यैरुक्तं तदयुक्तमेव -- इत्याह --
 
 > तेन ये गुरवः श्रीमत्स्वच्छन्दोक्तिद्वयादितः ॥

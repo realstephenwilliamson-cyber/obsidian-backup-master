@@ -34,6 +34,9 @@ tatra tatrocitaṃ rūpaṃ svaṃ svātantryeṇa bhāsayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 100–102)
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.4]]
+
 *Lead-in:* नन्वेवमवस्थानेनास्य किं प्रयोजनम्? -- इत्याशङ्क्याह --
 
 > आसंवित्तत्त्वमाबाह्यं योऽयमध्वा व्यवस्थितः ।

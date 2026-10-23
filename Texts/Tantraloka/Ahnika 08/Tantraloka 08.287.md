@@ -35,6 +35,11 @@ sādhanamiti vigrahatāyugaṣṭakaṃ bhavati puṃstattve || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 294)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.287]]
+>
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.287 (continued)]]
+
 *Lead-in:* तदाह --
 
 > कार्यं हेतुर्दुःखं सुखं च विज्ञानसाध्यकरणानि ।

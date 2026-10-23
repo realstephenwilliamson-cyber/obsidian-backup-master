@@ -12,6 +12,8 @@ converted: 2026-10-07
 
 [[Tantraloka Dyczkowski v11 01 - Front matter|← previous]] · [[Tantraloka vol 11 (Dyczkowski)|contents]] · [[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2|next →]]
 
+#### Viveka on Dyczkowski's verse 292ab (continued)
+
 *[p. 1]* ^pg19
 
 The Current of Mantras 
@@ -19,6 +21,8 @@ The Current of Mantras
 I bow to Him whose body has been washed (clean) with the wine of the great vitality (of Mantras) which is (His own) innate (sahaja) awareness, He who is present in Mantra and in the mind of the adept who accomplishes (his) desires. 
 
 Now with the second half (of the verse begun at the end of the previous chapter,) in order to describe the Mantras, he says: 
+
+### TĀ 30.1
 
 अथ यथोचितमन्रकदम्बकं त्रिककुलक्रमयोगि निरूप्यते ।
 atha yathocitamantrakadambakami 
@@ -29,23 +33,31 @@ I will now describe the required collection of Mantras linked with
 
 the liturgies (krama) of the Trikakula.' (lab) 
 
+#### Viveka on 30.1
+
 Surely (one may ask), what is the use of the (Mantras) described (here)? With this doubt in mind, he says: 
+
+### TĀ 30.1 (2)
 
 तावद्विमशीनारूढधियां तत्सिद्धये क्रमात् ॥ १ ॥
 tāvadvimarśānārūdha- 
 
-dhiyārù tatsiddhaye kramāt \\\\ 1 ॥ 
+dhiyāṁ tatsiddhaye kramāt \\\\ 1 ॥ 
 
 (We do this so that) those whose intellect is not firmly rooted in such \[illegible\] (perfectly full) awareness (may) gradually achieve that. (1cd) 
+
+#### Viveka on 30.1 (2)
 
 ‘Such’? (means perfectly) full (reflective awareness). (We do this so that they) ‘may achieve that’. The meaning is that the purpose is to achieve ascent into the reflective awareness of full (unconditioned) subjectivity (pūrṇāhamṁivimarśa). 
 
 Surely (one may ask), how is that possible by (means of these Mantras)? 
 
-प्रतिबुद्धा हि ते मन्रा विमर्णकस्वभावकाः ।
-pratibuddhā hi te mantrā vimarśaikasvabhāvakāh | 
+### TĀ 30.2
 
-1\. We notice in this chapter dedicated to Mantras that Abhinava hardly deals with Krama Mantras. The only one to which he refers is the Mātrsadbhāva, which is botha Trika Mantra, as it is found in the MV, and, as Abhinava understands it, directed by his teacher Śambhunātha, it is the seed syllable of the goddess Kālasaṁkarṣinī, and so also a Krama Mantra. He also gives a nine-syllable version of Kālasaṁkarṣiṇī’s Vidyā (30/4-55ab). However, he does not give the full seventeen-syllable Vidyā anywhere. We are indebted to Jayaratha for quoting a passage in the Devyāyāmala, where it given in code (TĀv ad 29/69ab-70). Abhinava’s relentless promotion of Kālasaṁkai as the supreme deity, beyond even Parā (parātītā) of the Trika, tells us that her Vidyā was his main mantra, and so he kept it secret.
+प्रतिबुद्धा हि ते मन्रा विमर्णकस्वभावकाः ।
+pratibuddhā hi te mantrā vimarśaikasvabhāvakāḥ | 
+
+1\. We notice in this chapter dedicated to Mantras that Abhinava hardly deals with Krama Mantras. The only one to which he refers is the Mātṛsadbhāva, which is botha Trika Mantra, as it is found in the MV, and, as Abhinava understands it, directed by his teacher Śambhunātha, it is the seed syllable of the goddess Kālasaṁkarṣinī, and so also a Krama Mantra. He also gives a nine-syllable version of Kālasaṁkarṣiṇī’s Vidyā (30/4-55ab). However, he does not give the full seventeen-syllable Vidyā anywhere. We are indebted to Jayaratha for quoting a passage in the Devyāyāmala, where it given in code (TĀv ad 29/69ab-70). Abhinava’s relentless promotion of Kālasaṁkai as the supreme deity, beyond even Parā (parātītā) of the Trika, tells us that her Vidyā was his main mantra, and so he kept it secret.
 
 2\. Read \[illegible\] for tāvān.
 
@@ -54,39 +66,51 @@ pratibuddhā hi te mantrā vimarśaikasvabhāvakāh |
 
 \`The sole nature of these Mantras, once awakened, is reflective awareness. (2ab) 
 
+#### Viveka on 30.2
+
 Surely, it has been said before many times that reflective awareness can be the nature only of the agent and Mantras are instruments (not agents in themselves). \* So how can it be logically possible for them to be such? With this doubt in mind, he says: 
+
+### TĀ 30.2 (2)
 
 स्वतन््रस्यैव चिद्धाम्नः स्वातच्यात् कर्तुतामयाः ॥ २॥
 
-svatantrasyaiva ciddhāmnah svātantryāt kartrtīmayāh ॥ 2 ॥ 
+svatantrasyaiva ciddhāmnaḥ svātantryāt kartṛtīmayāḥ ॥ 2 ॥ 
 
 It is because of the freedom of the abode of consciousness, that is 
 
 free (to do anything), that (Mantras) are agents." (2cd) 
 
+#### Viveka on 30.2 (2)
+
 Surely (one may ask), if this is so, how is it possible for the teacher to be the agent of the grace of initiation and the like? With this doubt in mind, he says: 
+
+### TĀ 30.3
 
 यमाविशन्ति चाचार्यं तं तादात्म्यनिरूढित : ।
 स्वतन्त्रीकुर्वते यान्ति करणान्यपि कर्तृताम् ॥ ३ ॥
-yam āvifanti cācāryaṁ tarh tādātmyanirūḍhitah |
-svatantrīkurvate yānti karanāny api kartrtām || 3 ॥ 
+yam āvifanti cācāryaṁ taṁ tādātmyanirūḍhitaḥ |
+svatantrīkurvate yānti karanāny api kartṛtām || 3 ॥ 
 
 (The Mantras) penetrate into the teacher, and because he is firmly rooted in a state of identity (with them), they make him a free (agent). (Thus,) although they are instruments (of ritual action), they become the agents (of that action). (3) 
+
+#### Viveka on 30.3
 
 Surely, if that is so, without an instrument, how could they be agents? With this doubt in mind, he says that ‘although they are instruments (of ritual action), they become the agents (of that action)’. Although (Mantras, which are) the instruments (of ritual action) become agents, they (continue to be) instruments without their abandoning their state as agents. This is the meaning. 
 
 He now describes the form of (these) mantras. 
 
-3\. Verses 2-3 are drawn from MVV 2/229cd-231ab. There, instead of vimarśaikasvabhāvakāh ~ 2/229d reads reflective awareness’, MVV nature (of these Mantras) is ‘the sole vimarśapathavartinah — \*(these Mantras) are on the path of reflective awareness.’
+3\. Verses 2-3 are drawn from MVV 2/229cd-231ab. There, instead of vimarśaikasvabhāvakāḥ ~ 2/229d reads reflective awareness’, MVV nature (of these Mantras) is ‘the sole vimarśapathavartinaḥ — \*(these Mantras) are on the path of reflective awareness.’
 
 4\. Concerning the nature of the agency of an agent, see above, 9/8-10.
 
-5\. karttāmayāh literally: ‘made of agency’. ° If Mantras are agents in themselves, then the successful execution of rituals would be by virtue of the Mantras alone. The officiant would have no part to play in it. 1 MVV 2/230c reads tādātmyaniyogatah — ‘because (he is) appointed by (his) state of identity (with them)’ instead of tādātmyanirūdhitah — ‘because he is firmly rooted in a state of identity (with them)’.
+5\. karttāmayāḥ literally: ‘made of agency’. ° If Mantras are agents in themselves, then the successful execution of rituals would be by virtue of the Mantras alone. The officiant would have no part to play in it. 1 MVV 2/230c reads tādātmyaniyogataḥ — ‘because (he is) appointed by (his) state of identity (with them)’ instead of tādātmyanirūdhitaḥ — ‘because he is firmly rooted in a state of identity (with them)’.
 
 
 *[p. 3]* ^pg21
 
 The Form of the Mantras (mantrasvarūpa) 
+
+### TĀ 30.4–5
 
 The Trident Throne 
 
@@ -95,8 +119,8 @@ The Shaft of the Trident
 आधारशक्तो हीं पृथ्वीप्रभृतौ तु चतुष्टये षां श्वं वं क्षमिति प्राहः करमाद्र्णचतुष्टयम् ॥ ॐ ॥
 ह नाठे
 
-ādhāraśaktau 1777 prthvīprabhrtau tu catuṣtṭaye |
-kṣlāṁ kṣvīṁṛ varn kṣam iti prāhuh kramād varṇacatuṣṭayam ॥ 4 ॥
+ādhāraśaktau 1777 pṛthvīprabhṛtau tu catuṣtṭaye |
+kṣlāṁ kṣvīṁṛ varn kṣam iti prāhuḥ kramād varṇacatuṣṭayam ॥ 4 ॥
 har nāle 
 
 (The Mantra) HRĪM is within the power of the foundation (of the Trika Trident). They say that the group of four syllables, KṢLĀM. 
@@ -104,6 +128,8 @@ har nāle
 KṢVĪM, VAM, and KṢAM," 
 
 is within the four, (the principles) beginning with Earth, respectively. HAM is in the channel (of the Trident)." (4-5a) 
+
+#### Viveka on 30.4–5
 
 6\. Emend kṣkā to kṣvīṁ, as found in MV 23/13c.
 
@@ -126,17 +152,23 @@ is within the four, (the principles) beginning with Earth, respectively. HAM is 
 
 breath (H) is here, along with vitality (M) (HAM). 
 
+### TĀ 30.5
+
 The Knot of Māyā 
 
 यं तथा रं टं वं ध्मीदिचतुष्टये ।
 ऋं ऋ लं लं चतुष्के च विपरीतक्रमाद्धवेत् ॥ ५ ॥
 
-yarh tathā rari larh van dharmādicatuṣtaye |
-rih \[illegible\] (011 Lrn catușke ca viparītakramād bhavet || 5 ॥ 
+yaṁ tathā rari laṁ van dharmādicatuṣtaye |
+rih \[illegible\] (011 Lṛn catuṣke ca viparītakramād bhavet || 5 ॥ 
 
 YAM, RAM, LAM, and VAM are in the four, Dharma and the rest (that are in the knot at the base of the three prongs of of the Trident). rM, RM, IM, and ḶM and in the four (which are their opposites, arranged) in the reverse order.” (5bcd) 
 
+#### Viveka on 30.5
+
 (Dharma and the rest) ‘in the reverse order’, that is, Adharma and the rest. Here (in this case), according to this, (these four in the forward order correspond to) the group of four semivowels conjoined to vitality (M) (i.e. YAM, LAM, RAM and LAM), and (in the reverse order to the four) neuter vowels (i.e. rM, RM, IM and ḶM). 
+
+### TĀ 30.6
 
 The Plinth, the Lotus and the Corpse 
 
@@ -150,16 +182,20 @@ The Plinth, the Lotus and the Corpse
 
 *[p. 5]* ^pg23
 
-orh aur has trayam ity etad vidyāmāyākalātraye |
-anusvāravisargau ca vidyeśeśvaratattvayoh || 6 ॥ 
+oṁ aur has trayam ity etad vidyāmāyākalātraye |
+anusvāravisargau ca vidyeśeśvaratattvayoḥ || 6 ॥ 
 
 The three, OM, AUM and HAH are in the three (principles of) Knowledge, (absence of) Māyā, and (absence of) the Force (of limited agency) (kalā), (respectively). + 
 
 AM and AẸ are within the principles of Vidyeśa and Īśvara." (6) 
 
+#### Viveka on 30.6
+
 (The three (principles of pure)) ‘Knowledge’, which is the crossroad, (catuṣkikā) Māyā, which is made of darkness (asūraka), is the lower cover, and the power (of limited agency) (kalā) is the upper cover. (Pure) Knowledge is the plane (which is the ground) of the Iśvara principle, that is just next to it, above it. 
 
 Along with that (rena) here are the pair of shanks (AUM) and the vital breath (H), along with emission (AH) (HAH). ‘Vidyeśa’ (here means) the place which is presided over by the Vidyeśvaras, that is, the Īśvara principle, the form of which is a lotus. (Here) ‘Ivara’ is Sadāśiva. The sense is that this is the state of pervasion in the form of the pure enclosure etc. (Śuddhāvarana) etc. within the calix (of the lotus). 
+
+### TĀ 30.7
 
 कादिभान्ताः केसरेषु प्राणोऽष्टस्वरसंयुतः ।
 सविन्दुको दलेष्वष्टस्वथ स्वं नाम दीपितम् ॥ ७ ॥
@@ -167,9 +203,9 @@ Along with that (rena) here are the pair of shanks (AUM) and the vital breath (H
 सबिन्दुकाः क्ष्मं प्रत ज् शूलमृङ्गेषु कल्पयेत् ॥ ८ ॥
 पृथगासनपूजायां क्रमान्मन्रा इमे स्मृताः ।
 
-kādibhāntāh kesareṣu prāṇo ‘ṣtasvarasariyutah | 
+kādibhāntāḥ kesareṣu prāṇo ‘ṣtasvarasariyutaḥ | 
 
-14\. The Crossroad (catuṣkikā) is located the aperture in the back of the palate and cranium. Thére is a plinth there that has two coverings. There is a problem here with the identity of these three levels. Just below them is the group of eight, consisting of Dharma etc., that are located at the upper extremity of the shaft of the Trident. This is where Ananta resides, and so corresponds to the level of the principle of Māyā. If that is correct, the plinth should mark the beginni \[illegible\] of the pure principles, that is, Pure Knowledge (Suddhavidyā). Jayaratha appears to confirm this, saying that \[illegible\] Knowledge is the plane (which is the ground) of the svara principle that is just next to it above it.’ This then should be the plinth, which is also called the crossroad. However, according to Jayaratha, we should break up the compound vidyāmāyākalātraye into the three ~ Vidyā, Māyā and Kalā. This is confusing. We would expect Māyā and Kalā to be below the plinth, not on it. Better then is to read the three components as being ‘Amāyāã’ and ‘Akalā’, that is, the absence of Māyā and limited agency. Then we may consider the ‘coverings’ on the plinth to be aspects of Pure Knowledge. OM HAH ÜRDHVACHADANĀYA NAMAH (Upper covering (power of limited agency)) OM AUM ADHAŚCHADANĀYA NAMAH (Lower covering. Māyā) OM OM VIDYATATTVĀYA NAMAH (Plinth. Vidyā (power of of limited knowledge)
+14\. The Crossroad (catuṣkikā) is located the aperture in the back of the palate and cranium. Thére is a plinth there that has two coverings. There is a problem here with the identity of these three levels. Just below them is the group of eight, consisting of Dharma etc., that are located at the upper extremity of the shaft of the Trident. This is where Ananta resides, and so corresponds to the level of the principle of Māyā. If that is correct, the plinth should mark the beginni \[illegible\] of the pure principles, that is, Pure Knowledge (Suddhavidyā). Jayaratha appears to confirm this, saying that \[illegible\] Knowledge is the plane (which is the ground) of the svara principle that is just next to it above it.’ This then should be the plinth, which is also called the crossroad. However, according to Jayaratha, we should break up the compound vidyāmāyākalātraye into the three ~ Vidyā, Māyā and Kalā. This is confusing. We would expect Māyā and Kalā to be below the plinth, not on it. Better then is to read the three components as being ‘Amāyā’ and ‘Akalā’, that is, the absence of Māyā and limited agency. Then we may consider the ‘coverings’ on the plinth to be aspects of Pure Knowledge. OM HAH ÜRDHVACHADANĀYA NAMAH (Upper covering (power of limited agency)) OM AUM ADHAŚCHADANĀYA NAMAH (Lower covering. Māyā) OM OM VIDYATATTVĀYA NAMAH (Plinth. Vidyā (power of of limited knowledge)
 
 15\. On the coverings of the plinth is a lotus, which is Iśvaratattva, within which reside the Vidyeśvaras. Their mantras are: OM AM VIDYEŚVAREBHYO NAMAH OM AH ĪŚVARATATTVĀYA NAMAH
 
@@ -178,24 +214,30 @@ kādibhāntāh kesareṣu prāṇo ‘ṣtasvarasariyutah |
 
 sabinduko daleṣv aṣtasv atha svarn nāma dīpitam ॥ 7 ॥
 saktīnāri navakasya syāc chaṣasā mandalatraye |
-sabindukāh kṣmaṁ prete jūr śūlaśṛṅgeṣu kalpayet ॥ 8 ॥
-prthagāsanapūjāyāmi kramān mantrā ime smrtāh | 
+sabindukāḥ kṣmaṁ prete jūr śūlaśṛṅgeṣu kalpayet ॥ 8 ॥
+pṛthagāsanapūjāyāmi kramān mantrā ime smṛtāḥ | 
 
 (The twenty-four phonemes) from K to BH are (each in one of the 
 
 twenty-four) stamens (of the lotus). (7ab) 
 
+### TĀ 30.7–8
+
 The vital breath (H) conjoined (successively) with the eight vowels along with bindu is in the eight petals. The names of the nine powers are energized (dīpita) (by the mantra OM).” Ś, 5, S, together with the Point 
 
 (bindu), is in the three circles.” (7cd-8ab) 
 
+### TĀ 30.8–9
+
 KṢMAM is in the Ghost (i.e., Sadāśiva)." One should imagine that JRAM is on the prongs of the Trident.” These are said to be, one by one in due order, the Mantras (required) for the worship of the Throne. (8cd-9ab) 
+
+#### Viveka on 30.8–9
 
 (The phonemes) ‘from K to BH’ are twenty-four. There is one phoneme for each filament. The vital breath is the letter H. A Ā I Ī U Ū E AI are 
 
 16\. Each of the eight petals of the lotus has three filaments. Thus, there are three for each of the eight directions, primary and secondary. The letters on the filaments starting from the eastern petal are: KAM, KHAM, GAM (E) GHAM, ÑAM, CAM (SE) CHAM, JAM, JHAM (S) ÑAM, TAM, THAM (SW) DAM, DHAM, NAM (W) TAM, THAM, DAM (NW) DHAM, NAM, PAM (N) PHAM, BAM, BHAM (NE)
 
-17\. The names of the yoginīs are listed above in 8/338 (338cd-339ab) and in 15/305-397. HOM is the mantra of the power in the centre of the lotus (MV 23/15, where in the third \[illegible\] there should read hür herh haim horn for hurh herh \[illegible\] Thus, the mantras of the yoginīs on the petals of the lotus, clockwise beginning with the eastern petal, are: OM HAM VĀMĀYAI NAMAH (E) OM HĀM JYEṢṬHĀYAI NAMAH (SE) OM HIM RAUDRYAI NAMAH (S) OM HĪM KĀLYAI NAMAH (SW) OM HUM KALAVIKARANṆYAI NAMAH (W) OM HŪM BALAVIKARAṆYAI NAMAH (NW) OM HEM BALAPRAMATHANYAI NAMAH (N) OM HAIM DAMANYAI NAMAH (NE) OM HOM MANONMANYAI NAMAH (centre)
+17\. The names of the yoginīs are listed above in 8/338 (338cd-339ab) and in 15/305-397. HOM is the mantra of the power in the centre of the lotus (MV 23/15, where in the third \[illegible\] there should read hür heṁ haim horn for huṁ heṁ \[illegible\] Thus, the mantras of the yoginīs on the petals of the lotus, clockwise beginning with the eastern petal, are: OM HAM VĀMĀYAI NAMAH (E) OM HĀM JYEṢṬHĀYAI NAMAH (SE) OM HIM RAUDRYAI NAMAH (S) OM HĪM KĀLYAI NAMAH (SW) OM HUM KALAVIKARANṆYAI NAMAH (W) OM HŪM BALAVIKARAṆYAI NAMAH (NW) OM HEM BALAPRAMATHANYAI NAMAH (N) OM HAIM DAMANYAI NAMAH (NE) OM HOM MANONMANYAI NAMAH (centre)
 
 18\. See above, 15/307. Cf. MV 23/16ab: mandalatritaye śeṣaṁ (>Śaṣam) sūkṣmaii (i.e. sa) pretasya kalpayet \\ The mantras of the parts of the lotus: Petals- Sun: OM ŚAM SŪRYAMANDALĀYA NAMAH OM ŚAM SŪRYAMANDALĀDHIPATAYE BRAHMAṆE NAMAH Stamens - Moon: OM ṢAM SOMAMANDALĀYA NAMAH OM ṢAM SOMAMANDALĀDHIPATAYE VIṢṆNAVE NAMAH Calyx- Fire: OM SAM AGNIMANDALĀYA NAMAH OM SAM AGNIMANDALĀDHIPATAYE RUDRĀYA NAMAH
 
@@ -212,39 +254,45 @@ the eight vowels. Saying that there are nine (powers) entails this, namely, that
 
 ’?' 
 
-‘The three circles’, that is to say, along with their presiding deities, are the Circle of Fire, within which is the genitals (5); that of the Sun, in which is the belly (\$); and that of the Moon, within which is the living being (S). ‘On the Ghost (i.e. Sadāśiva)’ are the navel (K\$) and the hip (M), conjoined with vitality (M) (KṢMAM). The trident (J) along with the Point and the staff (RAM) 
+‘The three circles’, that is to say, along with their presiding deities, are the Circle of Fire, within which is the genitals (5); that of the Sun, in which is the belly (\$); and that of the Moon, within which is the living being (S). ‘On the Ghost (i.e. Sadāśiva)’ are the navel (KṢ) and the hip (M), conjoined with vitality (M) (KṢMAM). The trident (J) along with the Point and the staff (RAM) 
 
 (JRAM) ‘is on the prongs of the Trident’. 
+
+### TĀ 30.9–10
 
 The Abbreviated Rite 
 
 संक्ेपपूजने तु प्रागाद्यमन्त्यं च बीजकम् ॥ ९ ॥
 आदायाधारशक्त्यादिशूलगृद्ान्तमर्चयेत् ।
 
-sarilkṣepapūjane tu prāg ādyam antyarh ca bījakam || 9 ॥
+sarilkṣepapūjane tu prāg ādyam antyaṁ ca bījakam || 9 ॥
 ādāyādhāraśaktyādi śūlaśṛṅgāntam arcayet | 
 
 In the abbreviated rite of worship, (the parts of the Trident) beginning with the power of the foundation and ending with the prongs of the Trident can be worshipped (all together,) assuming the first and the last 
 
 seed syllable Mantra.” (9cd-10ab) 
 
-“The first’ is the seed-syllable of Māyā (HRĪM), that denotes the power of the foundation, and ‘the last’ is the syllable JRAM.” Thus the abbreviated Mantra (üha) (for the Trident as a whole is) HRĪM JRAM” ĀSANAPAK\$ĀYA NAMAH. 
+#### Viveka on 30.9–10
+
+“The first’ is the seed-syllable of Māyā (HRĪM), that denotes the power of the foundation, and ‘the last’ is the syllable JRAM.” Thus the abbreviated Mantra (üha) (for the Trident as a whole is) HRĪM JRAM” ĀSANAPAKṢĀYA NAMAH. 
+
+### TĀ 30.10–11
 
 Ratiśekhara Bhairava Mantra 
 
 अग्निमारुतपृथ्व्यम्बुसषष्टस्वरबिन्दुकम् ॥ १० ॥
 रतिशेखरमन्रोऽस्य वकत्रङ्गं हस्वदीर्घके : ।
 
-agnimārutaprthvyambusaṣaṣthasvarabindukam |l 10 I|
-ratiśekharamantro ‘sya \[illegible\] \[illegible\] hrasvadīrghakaih | 
+agnimārutapṛthvyambusaṣaṣthasvarabindukam |l 10 I|
+ratiśekharamantro ‘sya \[illegible\] \[illegible\] hrasvadīrghakaiḥ | 
 
 21\. \[illegible\] MV 23/15.
 
 22\. According to Jayaratha, the mantra of the entire Trident Throne is: OM HRĪM JRAM ĀSANAPAKṢĀYA NAMAH.
 
-23\. Read jraṁkāraṁ for jūrnkārari.
+23\. Read jraṁkāraṁ for jūṁkārari.
 
-24\. Read jrarn for jūṁ. \[illegible\] Ratiśekhara is the Bhairava of Parāparā. His mantric form is: RYLVŪM. This Mantra, as is generally the case, is presented in the Mālinī code in the MV. There we read: raktatvaṁùmāṁsamāūtrais tu vāmakarnṇavibhūṣitam | binduyuktarn prameyotarh ratiSekharam ādiset ॥ ‘Fashion (the mantra of) Ratiśekhara with the blood (R) (of the goddess Mālinī), the skin (Y), flesh (L), and tendons (V); adorned with the left ear (Ü), it is threaded through with the objectivity (prameyota) conjoined with the point \[illegible\] MV 9/35 Abhinava helps his reader by encoding the Mantra in the commonly familiar Mātrkā code, as he does in numerous other such instances. See, for example, the extraction of the Mantra of Bhairavasadbhāva below in 30/16cd-17ab. 2 The faces of polycephalic deities represent aspects of their personality and nature, often derived from other deities they have assimilated, or varieties of forms they have assumed. Their limbs are their powers. Mantras, their sonic bodies, analogously, are said to possess limbs and faces. The faces are usually five or six, as are the limbs. The faces are arranged in the directions and named accordingly, the eastern face etc. The limbs are the Heart (Ardaya), Head (siras), the Topknot (Sikhā), the Armour (kavaca), the Eye (netra), and the Weapon (astra). The Eye is the third eye or the pair of eyes. This limb is sometimes omitted. See above, 22/20-21 and note; also below, 30/40cd-41ab. The six limbs represent the qualities of the deity. For example, they are Śiva’s omniscience (sarvajñatā), contentment (trpti), beginningless knowledge (anādibodha), freedom (svatantratā), unobstructed power (aviluptaśakti), ani ite power (ananta \[illegible\] (see SvTu ad 1/64-65ab). According to SŚP, the attribution of limbs to the deities, a procedure called sakalīkaraṇa — ‘completing by the addition of parts’ — generally follows after the four rites of invocation, installation, presence and detention of the deity (see above, 27/11, note). It is done so that the deity is worshipped in its complete form. The SŚP explains: ‘just as the sun is invincibly powerful by virtue of its fierce rays, so too the Supreme Lord (parameśvara) is visualized with his limbs. The Heart is his power of consciousness (cicchakti). The Head is his eightfold sovereignty (as the eight yogic powers, see above, 8/264-271 and note). The Topknot, above all others, is his independence and lordliness. The Armour mentioned previously is (his) brilliance, the weapons of his enemies cannot penetrate. His Weapon is his ardour, which is impossible to bear, that eliminates (every) obstacle.” (SŚP, 3/71b-74a). The faces and limbs, especially the limbs, can be considerably elaborated by representing them as fully formed deities with their own mantras and modalities. Kubjikā’s six limbs is a good example. Generally, however, the mantras of the faces and limbs of a mantra are formed in a simple, uniform way. The mantra is first stripped of its final vowel, along with its anusvāra or visarga. Then the six limbs are formed by adding the six long vowels - Ā, Ī, \[illegible\] AI, AU and AH, and the faces by adding the short vowels — A, 1, U, E, and O. Anusvāra (M) is added to all of them except the Weapon, which ends in visarga (H) (see Brunner 1986: 102). They are often prefixed with the pranava OM or other seed syllables that are prominent in a particular tradition. Krama mantras are prefixed with the syllable KHPHREM or just PHREM. Kubjikā mantras begin with the Five pranavas ~ AIM HRĪM ŚRĪM KHPHREM HSAUH. Concerning the formation of faces and limbs of aiva mantras, see Brunner-Lachaux (1986a: 89-132) and Rastelli (2001: 319-395) for the equivalent in Vaiṣṇava Pāñcarātra, which is practically the same.
+24\. Read jrarn for jūṁ. \[illegible\] Ratiśekhara is the Bhairava of Parāparā. His mantric form is: RYLVŪM. This Mantra, as is generally the case, is presented in the Mālinī code in the MV. There we read: raktatvaṁmāṁsamāūtrais tu vāmakarnṇavibhūṣitam | binduyuktarn prameyotaṁ ratiSekharam ādiset ॥ ‘Fashion (the mantra of) Ratiśekhara with the blood (R) (of the goddess Mālinī), the skin (Y), flesh (L), and tendons (V); adorned with the left ear (Ü), it is threaded through with the objectivity (prameyota) conjoined with the point \[illegible\] MV 9/35 Abhinava helps his reader by encoding the Mantra in the commonly familiar Mātṛkā code, as he does in numerous other such instances. See, for example, the extraction of the Mantra of Bhairavasadbhāva below in 30/16cd-17ab. 2 The faces of polycephalic deities represent aspects of their personality and nature, often derived from other deities they have assimilated, or varieties of forms they have assumed. Their limbs are their powers. Mantras, their sonic bodies, analogously, are said to possess limbs and faces. The faces are usually five or six, as are the limbs. The faces are arranged in the directions and named accordingly, the eastern face etc. The limbs are the Heart (Ardaya), Head (siras), the Topknot (Sikhā), the Armour (kavaca), the Eye (netra), and the Weapon (astra). The Eye is the third eye or the pair of eyes. This limb is sometimes omitted. See above, 22/20-21 and note; also below, 30/40cd-41ab. The six limbs represent the qualities of the deity. For example, they are Śiva’s omniscience (sarvajñatā), contentment (tṛpti), beginningless knowledge (anādibodha), freedom (svatantratā), unobstructed power (aviluptaśakti), ani ite power (ananta \[illegible\] (see SvTu ad 1/64-65ab). According to SŚP, the attribution of limbs to the deities, a procedure called sakalīkaraṇa — ‘completing by the addition of parts’ — generally follows after the four rites of invocation, installation, presence and detention of the deity (see above, 27/11, note). It is done so that the deity is worshipped in its complete form. The SŚP explains: ‘just as the sun is invincibly powerful by virtue of its fierce rays, so too the Supreme Lord (parameśvara) is visualized with his limbs. The Heart is his power of consciousness (cicchakti). The Head is his eightfold sovereignty (as the eight yogic powers, see above, 8/264-271 and note). The Topknot, above all others, is his independence and lordliness. The Armour mentioned previously is (his) brilliance, the weapons of his enemies cannot penetrate. His Weapon is his ardour, which is impossible to bear, that eliminates (every) obstacle.” (SŚP, 3/71b-74a). The faces and limbs, especially the limbs, can be considerably elaborated by representing them as fully formed deities with their own mantras and modalities. Kubjikā’s six limbs is a good example. Generally, however, the mantras of the faces and limbs of a mantra are formed in a simple, uniform way. The mantra is first stripped of its final vowel, along with its anusvāra or visarga. Then the six limbs are formed by adding the six long vowels - Ā, Ī, \[illegible\] AI, AU and AH, and the faces by adding the short vowels — A, 1, U, E, and O. Anusvāra (M) is added to all of them except the Weapon, which ends in visarga (H) (see Brunner 1986: 102). They are often prefixed with the pranava OM or other seed syllables that are prominent in a particular tradition. Krama mantras are prefixed with the syllable KHPHREM or just PHREM. Kubjikā mantras begin with the Five pranavas ~ AIM HRĪM ŚRĪM KHPHREM HSAUH. Concerning the formation of faces and limbs of Śaiva mantras, see Brunner-Lachaux (1986a: 89-132) and Rastelli (2001: 319-395) for the equivalent in Vaiṣṇava Pāñcarātra, which is practically the same.
 
 
 *[p. 8]* ^pg26
@@ -253,21 +301,27 @@ The Mantra of Ratiśekhara (consists of) Fire (R), Air (Y), Earth (L) and Water 
 
 Ī Ū AI AU),” respectively. (10cd-11ab) 
 
-25\. Ratiśekhara\*s mantra is RYLVŪM. The ‘stem’ of the syllable is RYLV; the limbs are formed in the standard way, by inflecting the six long vowels ending with anusvāra for the first five, and visarga for the last one. Each one is preceded by the default syllable OM and followed by the name of the limb in the dative, and one of the six classes of invocations (jāti) NAMAH etc. (see below, 30/43cd-45ab). The mantras of the five faces are formed by conjoining the five short vowels to the base preceded by the syllable OM, followed by the names of the five faces in the dative and the salutation NAMAH. We arrive at the following. The Limbs of Ratiśckhara OM RYLVĀM HRDAYĀYA NAMAH OM RYLVĪM ŚIRASE SVĀHĀ OM RYLVŪM ŚIKHAYAI VAUṢAṬ OM RYLVAIM KAVACÃĀYA HUM OM RYLVAUM NETRĀYA VAṢAT OM RYLVAH ASTRĀYA PHAṬ The Faces of Ratiśekhara OM RYLVAM ÜRDHVAVAKTRĀYA NAMAH (Upper) OM RYLVIM PŪRVAVAKTRĀYA NAMAH (E) OM RYLVUM DAKṢ\$IṆAVAKTRĀYA NAMAH (S)
+#### Viveka on 30.10–11
+
+25\. Ratiśekhara\*s mantra is RYLVŪM. The ‘stem’ of the syllable is RYLV; the limbs are formed in the standard way, by inflecting the six long vowels ending with anusvāra for the first five, and visarga for the last one. Each one is preceded by the default syllable OM and followed by the name of the limb in the dative, and one of the six classes of invocations (jāti) NAMAH etc. (see below, 30/43cd-45ab). The mantras of the five faces are formed by conjoining the five short vowels to the base preceded by the syllable OM, followed by the names of the five faces in the dative and the salutation NAMAH. We arrive at the following. The Limbs of Ratiśckhara OM RYLVĀM HRDAYĀYA NAMAH OM RYLVĪM ŚIRASE SVĀHĀ OM RYLVŪM ŚIKHAYAI VAUṢAṬ OM RYLVAIM KAVACĀYA HUM OM RYLVAUM NETRĀYA VAṢAT OM RYLVAH ASTRĀYA PHAṬ The Faces of Ratiśekhara OM RYLVAM ÜRDHVAVAKTRĀYA NAMAH (Upper) OM RYLVIM PŪRVAVAKTRĀYA NAMAH (E) OM RYLVUM DAKṢIṆAVAKTRĀYA NAMAH (S)
 
 
 *[p. 9]* ^pg27
 
 Fire is R, Air is Y, Earth is L, Water is V, and the sixth vowel is Ū (thus the mantra of Ratiśekhara is RYLVŪM). The five short (vowels) are A I U E and O. The six long ones are Ā Ī Ū AI AU and AH. He is indicating in this way by saying this, that (the letters) are those of the (corresponding) faces and limbs (of the deity) coming down (serially) in this way. 
 
+### TĀ 30.11–12
+
 Navātmā Bhairava Mantra 
 
 अनिप्राणाग्निसंहारकालन्राम्बुसमीरणाः ॥ ११ ॥
 सषष्टस्वरबिनद्र्धचन्द्राद्याः स्यरनवात्मन : ।
 
-agniprāṇāgnisahhārakālendrāmbusamīranāh ॥ 11 Il saṣaṣthasvarabindvardhacandrādyāh syurnavātmanah | 
+agniprāṇāgnisahhārakālendrāmbusamīranāḥ ॥ 11 Il saṣaṣthasvarabindvardhacandrādyāḥ syurnavātmanaḥ | 
 
-(The Mantra) of Navātmā consists of Fire (R), the Vital Breath (H), Fire (R), Withdrawal (K\$), Time (M), Indra (L), Water (V), Air (Y), the sixth vowel (Ü), the Point and the Half-Moon etc.” (11cd-12ab) 
+(The Mantra) of Navātmā consists of Fire (R), the Vital Breath (H), Fire (R), Withdrawal (KṢ), Time (M), Indra (L), Water (V), Air (Y), the sixth vowel (Ü), the Point and the Half-Moon etc.” (11cd-12ab) 
+
+#### Viveka on 30.11–12
 
 (The phonemes that constitute Navātmā are as follows). Fire which is R, the Vital Breath which is H, Fire which is R, Withdrawal which 18 \[illegible\] Time which is M, Indra which is L, Water which is V, Air which is Y, and the sixth vowel, which is \[illegible\] 
 
@@ -284,20 +338,24 @@ agniprāṇāgnisahhārakālendrāmbusamīranāh ॥ 11 Il saṣaṣthasvarabind
 
 The Point and the rest are taught elsewhere in another way. Thus he says: 
 
+### TĀ 30.12–14
+
 विन्दुनादादिका व्याप्तिः श्रीमत्रेशिरसे मते ॥ १२ ॥
 
 पाक्रान्तिचिदुद्बोधदीपनस्थापनान्यथ ।
 तत्सवित्तिस्तदापत्तिरिति संज्ञाभिशब्दिता ॥ १३ ॥
 एतावती महाव्यापििर्मर्तित्वेनात्र कीर्तिता ।
 
-bindunādādikā vyāptih śrīmattraiśirase mate || 12 ॥
+bindunādādikā vyāptiḥ śrīmattraiśirase mate || 12 ॥
 kṣepākrānticidudbodhadīpanasthāpanānyatha |
-tatsarhvittis tadāpattir iti samjñābhiśabditā ॥ 13 ॥
+tatsaṁvittis tadāpattir iti samjñābhiśabditā ॥ 13 ॥
 etāvatī mahāvyāptir mūrtitvenātra kīrtitā | 
 
 In the venerable Traisirasa Mata, the sphere of pervasion of the Point, Sound and the rest is termed as follows. 1) Casting Forth \[illegible\] 2) Entering 
 
-Within \[illegible\] 3) the Awakening of Consciousness (cidudbhoda), 4) Energization (dīpana), 5) Establishment (sthāpanam), 6) its Consciousness (sarhvitti), and 7) the achievement of that (tadāpatti).” (This) Great Pervasion, which is so extensive, is here praised as the Body (mūrti) (of the deity). (12cd-14ab) 
+Within \[illegible\] 3) the Awakening of Consciousness (cidudbhoda), 4) Energization (dīpana), 5) Establishment (sthāpanam), 6) its Consciousness (saṁvitti), and 7) the achievement of that (tadāpatti).” (This) Great Pervasion, which is so extensive, is here praised as the Body (mūrti) (of the deity). (12cd-14ab) 
+
+#### Viveka on 30.12–14
 
 1\) Here the pervasion of the Point comprises the Half-Moon up to the Obstructress. After that, what refers to Sound. In this way, it is said (in the 
 
@@ -319,9 +377,9 @@ that Sadāśiva is within
 
 Sound’? (And in the 
 
-Iśvarapratyabhijñā,) ‘Sadāśiva is the closing inwards (nimeṣa)TM\* (of the withdrawal of objectivity into the subjectivity of consciousness experienced as 
+Iśvarapratyabhijñā,) ‘Sadāśiva is the closing inwards (nimeṣa)\* (of the withdrawal of objectivity into the subjectivity of consciousness experienced as 
 
-30\. These planes correspond respectively to 1) the Point (bindu), 2) Sound (nāda), 3) the End of Sound (nādānta), 4) Power (sakti), 5) the Pervasive One (vyāpinī), 6) the Equal One (With Mind) (samanā) and 7) the Transmental \[illegible\] The Half-moon and the Obstructress after the Point, that we normally find in this series, are missing. See above, 6/161, note. It appears that these verses and the following one are a misplaced digression. but this is not so. Abhinava is referring to the sonic energies of Navātman here, and in the following verse, to the sense of completing its limbs and those of other mantras with ‘namah’.
+30\. These planes correspond respectively to 1) the Point (bindu), 2) Sound (nāda), 3) the End of Sound (nādānta), 4) Power (sakti), 5) the Pervasive One (vyāpinī), 6) the Equal One (With Mind) (samanā) and 7) the Transmental \[illegible\] The Half-moon and the Obstructress after the Point, that we normally find in this series, are missing. See above, 6/161, note. It appears that these verses and the following one are a misplaced digression. but this is not so. Abhinava is referring to the sonic energies of Navātman here, and in the following verse, to the sense of completing its limbs and those of other mantras with ‘namaḥ’.
 
 31\. SvT 4/264d.
 
@@ -344,16 +402,20 @@ Iśvarapratyabhijñā,) ‘Sadāśiva is the closing inwards (nimeṣa)TM\* (of 
 
 7\) that is called oneness on the plane of the Transmental. (The Great Pervasion is) ‘so extensive’, that is (it extends) up to the attainment of oneness with the Transmental. As is said there (in the Trisirobhairavatantra) beginning with: 
 
-‘1) Casting Forth (kṣepa), 2) Entering Within (ākramanṇa), 3) Awakening of Consciousness (cidudbhoda), 4) Energization (dīpana), 5) Establishment (sthāpana), 6) Consciousness (sarhvitti) and 7) the attainment of that — O beautiful damsel of the gods, it is said in this scripture that the Body (of the deity) (mūurti) is of seven kinds, by virtue of the succession of the causes and the relationship (between them) as the sustainer and the sustained.’ 
+‘1) Casting Forth (kṣepa), 2) Entering Within (ākramanṇa), 3) Awakening of Consciousness (cidudbhoda), 4) Energization (dīpana), 5) Establishment (sthāpana), 6) Consciousness (saṁvitti) and 7) the attainment of that — O beautiful damsel of the gods, it is said in this scripture that the Body (of the deity) (mūurti) is of seven kinds, by virtue of the succession of the causes and the relationship (between them) as the sustainer and the sustained.’ 
 
-‘It is said that 1) Casting Forth is the Point, and 2) Entering Within (ākrānti) is said to be Sound. 3) The Awakening of Consciousness (cidudbhoda) is the supreme state, and 4) Energization (dīpana) is said to be Power. 5) Establishment (sthāpana) is said to be the Pervasive One, 6) Consciousness (sarhvitti) is said to be the Equal One, and 7) the Transmental is the attainment of that. This is said to be the Body (of the deity). 
+‘It is said that 1) Casting Forth is the Point, and 2) Entering Within (ākrānti) is said to be Sound. 3) The Awakening of Consciousness (cidudbhoda) is the supreme state, and 4) Energization (dīpana) is said to be Power. 5) Establishment (sthāpana) is said to be the Pervasive One, 6) Consciousness (saṁvitti) is said to be the Equal One, and 7) the Transmental is the attainment of that. This is said to be the Body (of the deity). 
 
 Such extensive pervasion is not only that of the Body (of the deit; also that of the desired salutation as the energizer of Mantra. Thus, he says: 
 
+### TĀ 30.14
+
 परिणामस्तल्लयश्च नमस्कारः स उच्यते ॥ १४ ॥
-pariṇāmas tallayaś ca namaskārah sa ucyate ॥ 14 ॥ 
+pariṇāmas tallayaś ca namaskāraḥ sa ucyate ॥ 14 ॥ 
 
 ‘Salutation’ is the transformation (of consciousness that takes place by bowing to a venerated being) and merger (into it by becoming one with it). (14cd) 
+
+#### Viveka on 30.14
 
 This pervasive presence (in many Mantras) as a (member of a) class (of Vedic) invocations \[illegible\] = well known everywhere (in the Tantras) is said to be 
 
@@ -364,21 +426,25 @@ This pervasive presence (in many Mantras) as a (member of a) class (of Vedic) in
 
 ‘salutation’. It is a ‘transformation’ (that takes place) because of the oneness he who (bows) in salutation (attains) by abandoning (his) embodied subjectivity and thereby assuming the subjectivity of consciousness, which is like a transformation. Even though this is so, it is not impossible for him to fall from (that) reality level (fattva), and so (in order to stress that that state has been consolidated,) he says (that it is a state of) ‘merger’. 
 
+### TĀ 30.15–16
+
 The Faces and Limbs of Navātman 
 
 एष त्रर्णोज्डितोऽधस्तादीर्धेः षिभः स्वरर्युतः ।
 षडद्गानि हदादीनि वक्तराण्यस्य च कल्पयेत् ॥ १५ ॥
 क्षयरवलबीजैस्त दीपर्बिन्दुविभूषितैः ।
 
-eṣa tryarṇnojjhito ‘dhastād dīrghaih ṣadbhih svarair yutah | 
+eṣa tryarṇnojjhito ‘dhastād dīrghaiḥ ṣadbhiḥ svarair yutaḥ | 
 
-ṣad aṁgāni hrdādīni vaktrāṇy asya ca[^35] kalpayet ॥ 15 ॥ 
+ṣad aṁgāni hṛdādīni vaktrāṇy asya ca[^35] kalpayet ॥ 15 ॥ 
 
-kṣayaravalabījais tu dīptair binduvibhūṣitaih | 
+kṣayaravalabījais tu dīptair binduvibhūṣitaiḥ | 
 
 Omitting the last three (letters of Navātmā), one should fashion (his) six limbs, that is, the Heart and the rest, with the six (letters that follow), conjoined with the six long vowels. (His) faces should be fashioned with the energized seeds \[illegible\] Y, R, V, and L and decorated with the Point.” (15-16ab) 
 
-[^35]: reads jātibhedena for vaktrāny asya ca. \[illegible\] The six limbs of Navātmabhairava are HĀM RĪM HŪM KṢAIM MAUM and LAH. The five faces are KṢAM YIM RUM VEM and LOM. The Limbs of Navātman OM RĀM HRDAYĀYA NAMAH OM HĪM ŚIRASE SVĀHĀ OM RŪM ŚIKHAYAI VAṢATṬ OM KṢAIM KAVACĀYA HUM OM MAUM NETRĀYA VAUṢATṬ OM LAH ASTRĀYA PHAṬ The Faces of Navātman: OM KṢAM ÜRDHVAVAKTRĀYA NAMAH (Upper) OM YIM PŪRVAVAKTRĀYA NAMAH (E) OM RUM DAKṢINAVAKTRĀYA NAMAH (S) OM VEM UTTARAVAKTRĀYA NAMAH (N) OM LOM PAŚCIMAVAKTRĀYA NAMAH (W)
+#### Viveka on 30.15–16
+
+[^35]: reads jātibhedena for vaktrāny asya ca. \[illegible\] The six limbs of Navātmabhairava are HĀM RĪṀ HŪM KṢAIM MAUM and LAH. The five faces are KṢAM YIM RUM VEM and LOM. The Limbs of Navātman OM RĀM HRDAYĀYA NAMAH OM HĪM ŚIRASE SVĀHĀ OM RŪM ŚIKHAYAI VAṢATṬ OM KṢAIM KAVACĀYA HUM OM MAUM NETRĀYA VAUṢATṬ OM LAH ASTRĀYA PHAṬ The Faces of Navātman: OM KṢAM ÜRDHVAVAKTRĀYA NAMAH (Upper) OM YIM PŪRVAVAKTRĀYA NAMAH (E) OM RUM DAKṢINAVAKTRĀYA NAMAH (S) OM VEM UTTARAVAKTRĀYA NAMAH (N) OM LOM PAŚCIMAVAKTRĀYA NAMAH (W)
 
 *[p. 13]* ^pg31
 
@@ -394,10 +460,12 @@ Omitting the last three (letters of Navātmā), one should fashion (his) six lim
 
 38\. These are the syllables of the five faces of Navātman, set in the five cardinal directions. Indra’s direction is normally the east, but in this case, it is very clearly stated that the eastern face is that of Maheśa. Normally, north follows south. However, the text tells us that the fifth face is Uttara, meaning either ‘north’ or ‘above’. The former meaning is the common one, but makes no sense here. The Upper face is normally listed at the end (cf. Dyczkowski 1986: 31). Thus, following the normal sequential order, as there is no reason not to, I arrive at the following table: The Five Faces of Navātmabhairava Direction of the Face | Deity\_| Seed syllable | Element” | East | Maheśa | KṢRAM Space South Bhairava | YRAM Air North Indra LRAM Earth West Varuṇa VRAM Water Upper ? RAM Fire
 
-39\. Note that the sequence of the letters in Navātman corresponding to the five elements Jayaratha notes, the normal one: Space (K\$), Air (Y), Fire (R), Water (V) and Earth (L). According to the text Lakṣmaṇagupta followed, all of the seed-syllables, each corresponding to one of the five gross elements, incorporates the letter ‘R’, which represents fire. This, he maintains, is the reason for their power and brilliance. + Bhairavasadbhāva is the partner of Parā. His mantric form is extracted in the MV, as usual, in the Mālinī code (in MV 8/33-34ab). Here again, in 16cd-17cd, Abhinava presents the same in the better known Śabdarāśi code (cf. above, note to 30/10cd-1 lab). The Mantra is: JHKṢHŪM. His limbs, according to the MV, are formed in the same way as the faces of the mantra, described previously. The Limbs of Bhairavasadbhāva: OM JHKṢHĀM HRDAYĀYA NAMAH OM JHKṢHĪM ŚIRASE SVĀHĀ OM JHKṢHŪM ŚIKHAYAI \[illegible\] OM JHKṢHAIM KAVACĀYA HUM OM JHKṢHAUM NETRĀYA VAUṢAṬ OM JHKṢHAH ASTRĀYA PHAṬ The Faces of Bhairavasadbhāva: OM JHKṢHAM ŪÜRDHVAVAKTRĀYA NAMAH (Upper) OM JHKṢHIM PÜRVAVAKTRĀYA NAMAH (E) OM JHKṢHUM DAKṢINAVAKTRĀYA NAMAH (S) OM JHKṢHEM UTTARAVAKTRĀYA NAMAH (N) OM JHKṢHOM PAŚCIMAVAKTRĀYA NAMAH (W) \* See above, 15/115cd-145.
+39\. Note that the sequence of the letters in Navātman corresponding to the five elements Jayaratha notes, the normal one: Space (KṢ), Air (Y), Fire (R), Water (V) and Earth (L). According to the text Lakṣmaṇagupta followed, all of the seed-syllables, each corresponding to one of the five gross elements, incorporates the letter ‘R’, which represents fire. This, he maintains, is the reason for their power and brilliance. + Bhairavasadbhāva is the partner of Parā. His mantric form is extracted in the MV, as usual, in the Mālinī code (in MV 8/33-34ab). Here again, in 16cd-17cd, Abhinava presents the same in the better known Śabdarāśi code (cf. above, note to 30/10cd-1 lab). The Mantra is: JHKṢHŪM. His limbs, according to the MV, are formed in the same way as the faces of the mantra, described previously. The Limbs of Bhairavasadbhāva: OM JHKṢHĀM HRDAYĀYA NAMAH OM JHKṢHĪM ŚIRASE SVĀHĀ OM JHKṢHŪM ŚIKHAYAI \[illegible\] OM JHKṢHAIM KAVACĀYA HUM OM JHKṢHAUM NETRĀYA VAUṢAṬ OM JHKṢHAH ASTRĀYA PHAṬ The Faces of Bhairavasadbhāva: OM JHKṢHAM ŪÜRDHVAVAKTRĀYA NAMAH (Upper) OM JHKṢHIM PÜRVAVAKTRĀYA NAMAH (E) OM JHKṢHUM DAKṢINAVAKTRĀYA NAMAH (S) OM JHKṢHEM UTTARAVAKTRĀYA NAMAH (N) OM JHKṢHOM PAŚCIMAVAKTRĀYA NAMAH (W) \* See above, 15/115cd-145.
 
 
 *[p. 14]* ^pg32
+
+### TĀ 30.16–17
 
 Bhairavasadbhāva Mantra 
 
@@ -405,12 +473,16 @@ Bhairavasadbhāva Mantra
 एष भैरवसद्धावध्राधीदिविभूषितः ।
 मातृकामालिनीमन्रौ प्रागेव समुदाहतौ ॥ १७ ॥
 
-jhakārasarṁrtiprāṇāh saṣaṣthasvarabindukāh |l 16 Il eṣa bhairavasadbhāvaś candrārdhādivibhūṣitah |
-mātrkāmālinīmantrau prāg eva samudāhrtau ॥ 17 || 
+jhakārasarṁṛtiprāṇāḥ saṣaṣthasvarabindukāḥ |l 16 Il eṣa bhairavasadbhāvaś candrārdhādivibhūṣitaḥ |
+mātṛkāmālinīmantrau prāg eva samudāhṛtau ॥ 17 || 
 
-The letter JH, Withdrawal \[illegible\] and the Vital Breath (H), along with the sixth vowel \[illegible\] and the Point - (JHKṢHŪM); this is (the mantra) Bhairavasadbhāva, adorned with the Half-Moon and the rest.“ The Mantras of Mātrkā and Mālinī were taught previously. (16cd-17) 
+The letter JH, Withdrawal \[illegible\] and the Vital Breath (H), along with the sixth vowel \[illegible\] and the Point - (JHKṢHŪM); this is (the mantra) Bhairavasadbhāva, adorned with the Half-Moon and the rest.“ The Mantras of Mātṛkā and Mālinī were taught previously. (16cd-17) 
 
-The letter JH is considered the right finger (of the goddess Mālinī). Withdrawal is KṢ, the Vital Breath is H, and the sixth vowel, U. (The Mantras of Mātrkā and Mālinī) ‘were taught’ (previously,) in Chapter Fifteen. 
+#### Viveka on 30.16–17
+
+The letter JH is considered the right finger (of the goddess Mālinī). Withdrawal is KṢ, the Vital Breath is H, and the sixth vowel, U. (The Mantras of Mātṛkā and Mālinī) ‘were taught’ (previously,) in Chapter Fifteen. 
+
+### TĀ 30.18–19
 
 Gaṇeśa Mantra 
 
@@ -421,14 +493,18 @@ Gaṇeśa Mantra
 
 *[p. 15]* ^pg33
 
-oñkāro ‘tha caturthyantā samjñā natir iti kramāt |
-gaṇeśādiṣu mantrah syād bījaṁ yeṣu na coditam || 18 ॥
+oṅkāro ‘tha caturthyantā samjñā natir iti kramāt |
+gaṇeśādiṣu mantraḥ syād bījaṁ yeṣu na coditam || 18 ॥
 nāmādyakṣaram ākārabinducandrādidīpitam |
 sarveṣām eva bījānāṁ tac caturdaśaṣaṣthayuk || 19 Il 
 
-The mantra of Gaṇeśa and others consists of the syllable OM, the name (of the deity) in the dative, and the word ‘salutation’ (i.e. NAMAH), in that order. The seed-syllable amongst them, which is not mentioned (in the Mālinīvijayottara), consists of the initial letter of (their) name, energized by the letter A, the Point and the Half-Moon etc. All the seed-syllables (may be) conjoined with the fourteenth (AU) and sixth (vowel) (Ū).® (18-19) 
+The mantra of Gaṇeśa and others consists of the syllable OM, the name (of the deity) in the dative, and the word ‘salutation’ (i.e. NAMAH), in that order. The seed-syllable amongst them, which is not mentioned (in the Mālinīvijayottara), consists of the initial letter of (their) name, energized by the letter A, the Point and the Half-Moon etc. All the seed-syllables (may be) conjoined with the fourteenth (AU) and sixth (vowel) (Ū). (18-19) 
+
+#### Viveka on 30.18–19
 
 (Their seed-syllable) ‘is not mentioned’ in the Malinvij jayottara. Thus, the execution (prayoga) (of the Mantra) is OM GĀM“ GAṆEŚĀYA NAMAH or, for example, OM VĀM VĀGĪŚVARYAI NAMAHṆ. ‘That initial letter of (his) name is (conjoined with) the fourteenth (vowel) AU and the sixth (vowel) Ù. Thus (we arrive at the form) GŪAUM\* (for the seed syllable of Ganeśa). 
+
+### TĀ 30.20–24
 
 Parāparā Vidyā 
 
@@ -442,48 +518,52 @@ Parāparā Vidyā
 तारेण सह वस्वग्नवर्णीधी्णद्रयाधिका ॥ २३ ॥
 एषा परापरादेव्या विद्या श्रीत्रिकशासने ।
 
-āmantritānyaghoryāditritayasya”\* kramoditaih |
+āmantritānyaghoryāditritayasya”\* kramoditaiḥ |
 bījair visarginī māyā huh hakāro visargavān || 20 ॥
 punar devītrayasyāpi kramād āmantranṇatrayam |
-dvitīyasmin pade ‘kāra ekārasyeha ca smrtah ॥ 21 ॥ 
+dvitīyasmin pade ‘kāra ekārasyeha ca smṛtaḥ ॥ 21 ॥ 
 
 40\. The worship of Ganesa is, of course, essential. For that reason, it is universally common to all traditions, as is the basic form of his Mantra. Its omission in the MV can simply be that, because of this, it does not need to be specifically taught. Abhinava is thus free to draw from any source to make up for its omission in the MV, and he has indeed presented the basic common form of it, which is OM GĀM (or GŪAUM) GAṆEŚĀYA NAMAH.
 
-41\. Read with MSs Th \[illegible\] for garh.
+41\. Read with MSs Th \[illegible\] for gaṁ.
 
-42\. Read with MS Th gū-aurh for git,
+42\. Read with MS Th gū-auṁ for git,
 
 43\. 1 take the compound āmantritānyaghoryāditritayasya to mean literally, the ‘three beginning with Anyaghorī who have been invoked’. The name ‘anyaghort — literally ‘she who is other than Ghor’, i.e. Aghorī, is rather clumsy, or at the least, unusual.
 
 
 *[p. 16]* ^pg34
 
-tatah śaktidvayāmantro luptarn tatrāntyam akṣaram |
-he ‘gnivarnāv ubhau pañcasvarayuktau parau prthak || 22 ||
-akārayuktāv astram hurh ha visargo punah śarah |
+tataḥ śaktidvayāmantro luptarn tatrāntyam akṣaram |
+he ‘gnivarnāv ubhau pañcasvarayuktau parau pṛthak || 22 ||
+akārayuktāv astram huṁ ha visargo punaḥ śaraḥ |
 tāreṇa saha vasvagnivarnārdhārnadvayādhikā ॥ 23 ॥
 € parāparādevyā vidyā śrītrikaśāsane | 
 
 This is the Vidyā of the Goddess Parāparā, according to the venerable Trikaśāsana.” It is made of 1) the three (goddesses) Aghorī etc., in the vocative (AGHORE PARAMAGHORE GHORARŪPE), with (their) seed-syllables uttered successively (between them). (The first is the syllable of) Māyā with a (final) visarga (i.e. HRIH), (then) HUM, and (then) the letter H with a (final) visarga (i.e. HAH). 2) (Then) again the three vocatives of the three goddesses (GHORAMUKHI BHĪMA BHĪṢAṆE) in due order, (bearing mind that) in the second one, (the final letter) ‘E’ is here replaced by ‘A’.“ 3) Then, the invocation of the (last) two powers, of which the last 
 
-44\. is found in the venerable Trikaśāsana. Is this a reference to a specific text? There is one instance at least in which it is clear that Abhinava is referring generically to the Trika teaching as Trikaśāsana (see 31/50cd-51ab). Conversely, there is one place at least where it is the name of a text. This reference is found in 4/274ab, but this too is not fully secure, as we find there are variants in the manuscripts that cast doubt on the reading. Thus, MS C reads śrīkramapañcake in place of śrītrikaśāsane. Similarly, when Jayaratha refers to it in his commentary, MSs Ch, Jh, and Ñ read śrīkramapaṁci However, there can be no doubt that Jayaratha considered it to be a text that Abhinava is quoting directly, as indeed he is. Thus, introducing it, he says: nany evam apūrvārthakathane kirn pramāṇam? ity āíaṁkyoktam iti proktari śrītrikaśāsane | tatratyam eva grantharh paṭhati (Now) surely (the question arises) as to what the authority (pramāna’ for this novel teaching (apūrvārthakathana)? With this doubt in mind, he declares that ʻit is said in the venerable Trikaśāsana’. (He now) quotes from that text (introductory remark to 4/274cd-275ab). But is this an independent text or a homonym? In one place at least, Abhinava refers generically to the Mālinīvijottara as ‘Tril isana’ (see 10/277cd, which is MV 2/45cd). Similarly, Abhinava introduces TĀ 11/47cd as being from the Trikaśāsana. Jayaratha mentions the MV as referring to the same notion, although admittedly, he does not quote from it directly. There is no such reference in the printed edition of the MV. However, as we know of several instances of missing passages, Jayaratha may well not have been wrong. Thus, here too it is possible that Abhinava is referring in a generic way to the MV as \*rrikaśāsana’. But this 15 not so, because the form of the Parāparā Vidyā taught there is not the same as it is here. Parāparā Vidyā is extracted in MV 3/41cd-50ab. Abhinava\`s extraction of this Vidyā is not just a reworking of that passage. Although it is possible that he has written his own condensed presentation drawing from a number of sources, he does not normally do this, and it would not be in keeping with his method. It seems to me to be more likely that he is drawing from a single source. This may be the Trisirobhairavatantra. The lines Jayaratha quotes from there in his commentary on this passage quite possibly conclude it in the original source. He introduces them saying: “That is said in the Trisirobhairava’. He may be referring to the whole passage Abhinava is drawing from. If that is so, the diction ‘Trikaśāsana’ (literally ‘the Trika teaching’) has a general sense rather being the name of a specific text, which in this case may well be the Trisirobhairava. Further evidence for this is the concluding passage Jayaratha quotes, that states, as Abhinava does, that the Vidyā consists of thirty-eight syllables plus two half-letters.
+44\. is found in the venerable Trikaśāsana. Is this a reference to a specific text? There is one instance at least in which it is clear that Abhinava is referring generically to the Trika teaching as Trikaśāsana (see 31/50cd-51ab). Conversely, there is one place at least where it is the name of a text. This reference is found in 4/274ab, but this too is not fully secure, as we find there are variants in the manuscripts that cast doubt on the reading. Thus, MS C reads śrīkramapañcake in place of śrītrikaśāsane. Similarly, when Jayaratha refers to it in his commentary, MSs Ch, Jh, and Ñ read śrīkramapaṁci However, there can be no doubt that Jayaratha considered it to be a text that Abhinava is quoting directly, as indeed he is. Thus, introducing it, he says: nany evam apūrvārthakathane kirn pramāṇam? ity āíaṁkyoktam iti proktari śrītrikaśāsane | tatratyam eva granthaṁ paṭhati (Now) surely (the question arises) as to what the authority (pramāna’ for this novel teaching (apūrvārthakathana)? With this doubt in mind, he declares that ʻit is said in the venerable Trikaśāsana’. (He now) quotes from that text (introductory remark to 4/274cd-275ab). But is this an independent text or a homonym? In one place at least, Abhinava refers generically to the Mālinīvijottara as ‘Tril isana’ (see 10/277cd, which is MV 2/45cd). Similarly, Abhinava introduces TĀ 11/47cd as being from the Trikaśāsana. Jayaratha mentions the MV as referring to the same notion, although admittedly, he does not quote from it directly. There is no such reference in the printed edition of the MV. However, as we know of several instances of missing passages, Jayaratha may well not have been wrong. Thus, here too it is possible that Abhinava is referring in a generic way to the MV as \*rrikaśāsana’. But this 15 not so, because the form of the Parāparā Vidyā taught there is not the same as it is here. Parāparā Vidyā is extracted in MV 3/41cd-50ab. Abhinava\`s extraction of this Vidyā is not just a reworking of that passage. Although it is possible that he has written his own condensed presentation drawing from a number of sources, he does not normally do this, and it would not be in keeping with his method. It seems to me to be more likely that he is drawing from a single source. This may be the Trisirobhairavatantra. The lines Jayaratha quotes from there in his commentary on this passage quite possibly conclude it in the original source. He introduces them saying: “That is said in the Trisirobhairava’. He may be referring to the whole passage Abhinava is drawing from. If that is so, the diction ‘Trikaśāsana’ (literally ‘the Trika teaching’) has a general sense rather being the name of a specific text, which in this case may well be the Trisirobhairava. Further evidence for this is the concluding passage Jayaratha quotes, that states, as Abhinava does, that the Vidyā consists of thirty-eight syllables plus two half-letters.
 
-45\. The form ‘bhīma’ is a vocative of the masculine bhīmah, which is clearly not intended. The vocative of the feminine bhīmā is bhīme. If we read bhīmabhīsane as one word, the Sanskrit would be correct. However, in that case, the ancillary goddess Bhīmā would not be accounted for. It appears that a mistake occurred whereby bhīme was read as bhīma. This is quite an understandable error. The vocative bhīmabhīṣane — ‘O terrible frightening one! May well sound better than bhīme bhīṣaṇe, and makes more sense to someone who may not know that eight parts of the Vidyā correspond to ancillary goddesses.
+45\. The form ‘bhīma’ is a vocative of the masculine bhīmaḥ, which is clearly not intended. The vocative of the feminine bhīmā is bhīme. If we read bhīmabhīsane as one word, the Sanskrit would be correct. However, in that case, the ancillary goddess Bhīmā would not be accounted for. It appears that a mistake occurred whereby bhīme was read as bhīma. This is quite an understandable error. The vocative bhīmabhīṣane — ‘O terrible frightening one! May well sound better than bhīme bhīṣaṇe, and makes more sense to someone who may not know that eight parts of the Vidyā correspond to ancillary goddesses.
 
 
 *[p. 17]* ^pg35
 
 syllable is dropped (VAMA PIVA).” 4) (After that come) HE and 5) then the following two are the letter of Fire (R) both conjoined with the fifth vowel (U) (i.e. RURU), and the next two (Rs) are separate and are conjoined with the letter A (i.e. RARA). (Then come) the Weapon (PHAT). HUM, H with visarga (i.e. HAH), and then again the Arrow (PHAT) (i.e HE, RURU, RARA, PHAṬṬ, HUM, HAH, PHAT). Along with the Saviour (OM) (in the beginning), it consists of thirty-eight syllables plus two half-letters (i.e. without vowels). (20-24ab) 
 
+#### Viveka on 30.20–24
+
 ‘The three (goddesses) Aghorī etc. are in the vocative’ (means) AGHORE PARAMAGHORE and GHORARŪPE, ‘with (their) seed-syllables uttered successively (between them)’, that is to say, are seen at the end (just after each one of them). (Māyā) ‘with a (final) visarga’ means that here (in this case, the seed syllable of Māyā - HRĪM) has no Point (and so the syllable is HRIH, not HRĪMH). Thus (we arrive at) AGHORE HRĪH PARAMAGHORE. (followed by) the seed syllable of the Armour, (HUM) GHORARŪPE HAH. ‘(Then) again, the three vocatives’, that is GHORAMUKHI BHĪME BHĪṢANE. However here ‘in the second word’, which is in the vocative, one should make the ‘A’ in the place of (the final letter) ‘E’, so that its form would be BHĪMA. ‘The invocation (of the last) two powers’ is VAMANI and PIBANI. ‘The last (syllable)’ is the syllable ‘NI’ (which should be dropped). Thus (we arrive at) VAMA and PIBA. After that also (comes) the Vital Breath (H) conjoined with the right knee (of the goddess) (E) (= HE). (Then the following) ‘two are the letter of Fire’, that is two Rs. The fifth vowel is U (thus we arrive at RURU). ‘\[T\]he next two’ are just letters of Fire (with no added vowels) (i.e. RARA). ‘The Weapon’ is PHAT. Then comes the seed-syllable of the Armour (HUM), the Vital Breath with emission (HAH), and again the Arrow, that is, the second Weapon (PHAT). ‘The Saviour’ is OM, which is placed at the beginning (of the Vidyā). (Thus, it consists) of thirty-eight syllables plus two ‘half-letters’, that is the letter Ṭ without vowels. That is said in the Trisirobhairava: 
 
 ‘In this way, the goddess Parāparā is adorned with eight parts (pada). She is the Supreme Goddess (parameśvarī), who has been extracted (as a Vidyā) consisting of thirty-eight letters. And those who know reality \[illegible\] should know that she (also) possesses two half-letters.’ 
+
+### TĀ 30.24–25
 
 पञ्चषटपञ्चवेदाक्षिवहिनेत्ाक्षरं पदम् ॥ २४ ॥
 अघोयीदौ सप्तके स्यात् पिबन्याः परिशिष्टकम् ।
 
 pañcaṣatpañcavedākṣivahninetrākṣarai padam || 24 ||
-aghoryādau saptake syāt pibanyāh pariśiṣtakam | 
+aghoryādau saptake syāt pibanyāḥ pariśiṣtakam | 
 
 The parts (pada) (of the Vidyā) pertaining to the seven, Aghorī and the rest, consists, respectively, of five, six, five, (four as are) the Vedas, (two 
 
@@ -494,22 +574,28 @@ The parts (pada) (of the Vidyā) pertaining to the seven, Aghorī and the rest, 
 
 as are) the eyes, (three as are the three) fires, and (two as are) the eyes. The remaining one (of eleven syllables) is that of Pibanī.” (24cd-25ab) 
 
-47\. Abhinava reverts to his primary source, the MV, for the Vidyās of the triadic goddess. See MV 3/41cd-50ab for the extraction of the Parāparā Vidyā, and ibid 3/59-60 (quoted here in the commentary) for its division into syllables and above, 16/213-216ab, where it is presented in the reverse order. The Parāparā Vidyā here is as follows: OM AGHORE \[illegible\] PARAMAGHORE HUM, GHORARŪŬPE HAH, GHORAMUKHI, BHĪMA, BHIṢAṆE, VAMA, VAMA PIBA PIBA HE, RU RU, RA RA, PHAṬ, HUM, HAH, PHAT. This makes thirty-nine syllables, counting the final 7s of the two phaṭs as half a syllable each. Parāparā Vidyā consists of 19 (to be more precise 18 and a half) padas, as follows: 1) OM 2) AGHORE 3) HRĪH 4) PARAMAGHORE 5) HUM 6) GHORARÜPE 7) HAH 8) GHORAMUKHI 9) BHĪMA 10) BHĪṢANE 11) VAMA 12) PIBA 13) HE 14) RURU 15) RARA 16) PHAṬ 17) HUM 18) HAH 19) PHAT. The last eight padas, i.e. 12) PIBA; 13) HE; 14) RU RU; 15) RA RA; 16) PHAṬ; 17) HUM; 18) HAH; 19) PHAṬ, pertain to iva, and are governed by Pibanī. The previous eleven pertain to Śakti, and are governed by Aghorī to Vamanī. From the body of Parāparā are born, in their turn, eight Yoginīs (also called goddesses) corresponding to the eight Bhairavas Aghora, Paramaghora, Ghorarūpa, Ghoramukha, Bhīma, Bhiṣaṇa, Vamana, and Pibana (see MV 1/19cd-21ab), that are the partners in union with the eight Mothers (TĀ 29/52-53). The eight Yoginīs are listed in a verse quoted from the Trisirobhairava in TĀv ad 33/3-5. Concerning the Eight Bhairavas, see note 1,802; 8,1029; 15,386, 391; and 29,127. These eight Bhairavas, who take their names from Rudras, are regularly worshipped in the course of Trika ritual. They are closely associated with Parāparā, who is built up from the Vidyās of their eight partners, who bear their names in the feminine. Their mantras are the eight parts of Parāparā Vidyā, from which they are thus derived. These eight parts (pada) are as follows (see MV 3/59-60ab quoted in the TĀv ad 30/15-28ab). Aghorī: OM AGHORE HRĪH - 5 letters Paramaghorī: PARAMGHORE HUM - 6 letters Ghorarūpā: GHORARÜPE HAH - 5 letters Ghoramukhī: GHORAMUKHI — 4 letters Bhīmā: BHĪMA - 2 letters Bhīṣaṇā: BHĪṢAṆE - 3 letters Vamanī: VAMA ~ 2 letters Pibanī: PIBA HE RURU RARA PHAṬ HUM HAH PHAṬ - 11 letters The MV 4/19 explains that the Śiva principle (i.e., niskala Siva) is the syllable OM of the Parāparā Vidyā. The principles Śakti, ĪśŚvara and Vidyā, which constitute sakala Śiva, correspond to the units (pada) AGHORE (three syllables), HRIH (one syllable), PARAMAGHORE (five syllables), and HŪM (one syllable), respectively. (PTv p. 123-124) The Vidyā here compared to the one in the Siddhayogeśvarīmata (presented in TĀv ad 30/25cd-26ab) is longer as the final HUM HAH PHAṬ found here are missing. The version extracted in the Mālinīvijayottara (MV 3/41cd-50ab) ends with HUM PHAT. Thus, in the MV it is: B OM AGHORE HRĪH PARAMAGHORE GHORARŪPE HAH GHORAMUKHI BHĪMA BHĪṢAṆE VAMA PIBA RURU RARA PHAṬ HUM PHAT. syllables: AIM AGHORE HRĪM HSAH PARAMAGHORE HŪM GHORARŪÜPE HSAUM GHORAMUKHI BHĪMA BHĪṢAṆE VAMA VAMA PIBA HAH HE RU RU RA RA HRĪM
+#### Viveka on 30.24–25
+
+47\. Abhinava reverts to his primary source, the MV, for the Vidyās of the triadic goddess. See MV 3/41cd-50ab for the extraction of the Parāparā Vidyā, and ibid 3/59-60 (quoted here in the commentary) for its division into syllables and above, 16/213-216ab, where it is presented in the reverse order. The Parāparā Vidyā here is as follows: OM AGHORE \[illegible\] PARAMAGHORE HUM, GHORARŪŬPE HAH, GHORAMUKHI, BHĪMA, BHIṢAṆE, VAMA, VAMA PIBA PIBA HE, RU RU, RA RA, PHAṬ, HUM, HAH, PHAT. This makes thirty-nine syllables, counting the final 7s of the two phaṭs as half a syllable each. Parāparā Vidyā consists of 19 (to be more precise 18 and a half) padas, as follows: 1) OM 2) AGHORE 3) HRĪH 4) PARAMAGHORE 5) HUM 6) GHORARÜPE 7) HAH 8) GHORAMUKHI 9) BHĪMA 10) BHĪṢANE 11) VAMA 12) PIBA 13) HE 14) RURU 15) RARA 16) PHAṬ 17) HUM 18) HAH 19) PHAT. The last eight padas, i.e. 12) PIBA; 13) HE; 14) RU RU; 15) RA RA; 16) PHAṬ; 17) HUM; 18) HAH; 19) PHAṬ, pertain to Śiva, and are governed by Pibanī. The previous eleven pertain to Śakti, and are governed by Aghorī to Vamanī. From the body of Parāparā are born, in their turn, eight Yoginīs (also called goddesses) corresponding to the eight Bhairavas Aghora, Paramaghora, Ghorarūpa, Ghoramukha, Bhīma, Bhiṣaṇa, Vamana, and Pibana (see MV 1/19cd-21ab), that are the partners in union with the eight Mothers (TĀ 29/52-53). The eight Yoginīs are listed in a verse quoted from the Trisirobhairava in TĀv ad 33/3-5. Concerning the Eight Bhairavas, see note 1,802; 8,1029; 15,386, 391; and 29,127. These eight Bhairavas, who take their names from Rudras, are regularly worshipped in the course of Trika ritual. They are closely associated with Parāparā, who is built up from the Vidyās of their eight partners, who bear their names in the feminine. Their mantras are the eight parts of Parāparā Vidyā, from which they are thus derived. These eight parts (pada) are as follows (see MV 3/59-60ab quoted in the TĀv ad 30/15-28ab). Aghorī: OM AGHORE HRĪH - 5 letters Paramaghorī: PARAMGHORE HUM - 6 letters Ghorarūpā: GHORARÜPE HAH - 5 letters Ghoramukhī: GHORAMUKHI — 4 letters Bhīmā: BHĪMA - 2 letters Bhīṣaṇā: BHĪṢAṆE - 3 letters Vamanī: VAMA ~ 2 letters Pibanī: PIBA HE RURU RARA PHAṬ HUM HAH PHAṬ - 11 letters The MV 4/19 explains that the Śiva principle (i.e., niskala Siva) is the syllable OM of the Parāparā Vidyā. The principles Śakti, ĪśŚvara and Vidyā, which constitute sakala Śiva, correspond to the units (pada) AGHORE (three syllables), HRIH (one syllable), PARAMAGHORE (five syllables), and HŪM (one syllable), respectively. (PTv p. 123-124) The Vidyā here compared to the one in the Siddhayogeśvarīmata (presented in TĀv ad 30/25cd-26ab) is longer as the final HUM HAH PHAṬ found here are missing. The version extracted in the Mālinīvijayottara (MV 3/41cd-50ab) ends with HUM PHAT. Thus, in the MV it is: B OM AGHORE HRĪH PARAMAGHORE GHORARŪPE HAH GHORAMUKHI BHĪMA BHĪṢAṆE VAMA PIBA RURU RARA PHAṬ HUM PHAT. syllables: AIM AGHORE HRĪM HSAH PARAMAGHORE HŪM GHORARŪÜPE HSAUM GHORAMUKHI BHĪMA BHĪṢAṆE VAMA VAMA PIBA HAH HE RU RU RA RA HRĪM
 
 
 *[p. 19]* ^pg37
 
 (The first part consists of) ‘five’ (syllables) of Aghorī, that is, OM AGHORE HRĪH. ‘The Vedas’, that is, the number four. “The eyes’ is the number two. ‘The fires’ is the number three. ‘The eyes’ (again) is the number two. ‘The remaining one’ is the part consists of eleven letters including the two half ones. As is said (in the Mālinīvijayottara): 
 
-‘Eight very powerful Yoginīs are born from the limbs of Parāparā, seven of which should be known to consist of five, six, five, four, two, three and two letters in due order," and one of eleven letters, amongst which are two half-letters (i.e. consonants without vowels).’®° 2 
+‘Eight very powerful Yoginīs are born from the limbs of Parāparā, seven of which should be known to consist of five, six, five, four, two, three and two letters in due order," and one of eleven letters, amongst which are two half-letters (i.e. consonants without vowels).’ 2 
+
+### TĀ 30.25–26
 
 ्रत्येकवर्णगोऽप्युक्तः सिद्धयोगीश्वरीमते ॥ २५ ॥
 देवताचक्रविन्यासः स बहुत्वान्न छिप्यते ।
 
-pratyekavarṇago ‘py uktah siddhayogīśvarīmate ॥ 25 ॥
-devatācakravinyāsah sa bahutvān na lipyate | 
+pratyekavarṇago ‘py uktaḥ siddhayogīśvarīmate ॥ 25 ॥
+devatācakravinyāsaḥ sa bahutvān na lipyate | 
 
 The deposition of the assembly of deities corresponding to each letter (of the Parāparā Vidyā) is also described in the venerable Siddhayogīśvarīmata. It is very long, and so is not written (here). (25cd- 26ab) 
+
+#### Viveka on 30.25–26
 
 ‘The circle of deities’ means that of forty. As is said there (in the Siddhayogīśvarīmata):\* 
 
@@ -532,25 +618,31 @@ The deposition of the assembly of deities corresponding to each letter (of the P
 
 53\. According to Monier-Williams Sanskrit dictionary, Arundhati is the name of a ‘little and scarcely visible star Alcor, belonging to the Great Bear and personified as the wife of one of its seven chief stars, Vasiṣtha, or of all the seven, the so-called seven At formal marriage ceremonies Arundhati is invoked as a pattern of conjugal excellence by the bridegroom.
 
-54\. According to Monier-Williams Dictionary, Rukminṇī is ‘the name of a daughter of Bhīṣmaka and sister of Rukmin. \[She was\] betrothed by her father to Śiśupala but \[was\] a secret lover of Krṣṇa, who, assisted by Balarāma, carried her off after defeating her brother in battle. She is the mother of Pradyumna and in later mythology is identified with Lakṣmī.\* श Table of the Deities of Parāparā Vidyā According to the Siddhayogeśvarīmata \[ o \] Bhairava A Utphullanayanā (Blooming Eyes) GHO Pīnapayodharā (Fat Breasts) \[RE | Tvaṣtrrūpā (the Creatrix) \[HRH | Vyāghrarüpikā (the Tigress) PA Siṁharūpā (the Lioness) RA Pānaniratā (Devoted to Drink) MA Rākṣasī (the Demoness) GHO Māṁsabhakṣī (the Flesh Eater) | रट | Ranṇāśinī (Thunderbolt in the Battle Field, HUM Retovahā (the Transporter of Vital Seed GHO Nirbhayā (the Fearless One) RA Ghoradaśanā (Horrifying Teeth) RÜ Arundhati PE Priyavādinī (Sweet Talker) HAH Ugrarūpā (Fierce Form) GHO Nagnarūpini (Naked Beauty) RA Raktanetri (Red Eyes) MU Canqdarüpini (Fierce Beauty)
+54\. According to Monier-Williams Dictionary, Rukminṇī is ‘the name of a daughter of Bhīṣmaka and sister of Rukmin. \[She was\] betrothed by her father to Śiśupala but \[was\] a secret lover of Kṛṣṇa, who, assisted by Balarāma, carried her off after defeating her brother in battle. She is the mother of Pradyumna and in later mythology is identified with Lakṣmī.\* श Table of the Deities of Parāparā Vidyā According to the Siddhayogeśvarīmata \[ o \] Bhairava A Utphullanayanā (Blooming Eyes) GHO Pīnapayodharā (Fat Breasts) \[RE | Tvaṣtrrūpā (the Creatrix) \[HRH | Vyāghrarüpikā (the Tigress) PA Siṁharūpā (the Lioness) RA Pānaniratā (Devoted to Drink) MA Rākṣasī (the Demoness) GHO Māṁsabhakṣī (the Flesh Eater) | रट | Ranṇāśinī (Thunderbolt in the Battle Field, HUM Retovahā (the Transporter of Vital Seed GHO Nirbhayā (the Fearless One) RA Ghoradaśanā (Horrifying Teeth) RÜ Arundhati PE Priyavādinī (Sweet Talker) HAH Ugrarūpā (Fierce Form) GHO Nagnarūpini (Naked Beauty) RA Raktanetri (Red Eyes) MU Canqdarüpini (Fierce Beauty)
 
 55\. Pakṣirūpā (Bird Shaped)
 
-56\. Bharanojjvalā (Flaming with Ornaments) MA Māraṇī (the Slayer) \[ आं ivā A \[illegible\] (the Witch) NE Yantralehā (Licker of Yantras)\* VA Vaśakārikā (the Controller! MA Kāladamanā (Chastiser of Death) ग | CawnyOn) Pinigai ë — ë) VA Vardhanī (the Sacrificial Jar) HE Himasītalā (Cold as Winter)\* RU | Ri | RU Halāyudhā (Plough Weapon) RA Vahnirūpā (Fire. RA Tejorüpā (Radiant Energy) PHA Yonirüpā (the Womb) 7 | Pararūpinī (the supreme One) HUM Hutavahā (Transporter of Oblations) HAH Varadāyikā (Bestower of Gifts. PHA Mahāraudrā T Pāśadāyikā (Burner of Fetters)
+56\. Bharanojjvalā (Flaming with Ornaments) MA Māraṇī (the Slayer) \[ आं Śivā A \[illegible\] (the Witch) NE Yantralehā (Licker of Yantras)\* VA Vaśakārikā (the Controller! MA Kāladamanā (Chastiser of Death) ग | CawnyOn) Pinigai ë — ë) VA Vardhanī (the Sacrificial Jar) HE Himasītalā (Cold as Winter)\* RU | Ri | RU Halāyudhā (Plough Weapon) RA Vahnirūpā (Fire. RA Tejorüpā (Radiant Energy) PHA Yonirüpā (the Womb) 7 | Pararūpinī (the supreme One) HUM Hutavahā (Transporter of Oblations) HAH Varadāyikā (Bestower of Gifts. PHA Mahāraudrā T Pāśadāyikā (Burner of Fetters)
 
 
 *[p. 21]* ^pg39
 
 ‘It is very long, and so’, for fear of making the book too lengthy, this worship is not taught in the Mālinīvijayottara cited here. This is the intended (sense). 
 
-Aparā Vidyā माया विसर्गिणी हरंफट् चेति मन््रोऽपरात्मकः ॥ २६ ॥
-māyā visargiṇī \[illegible\] phaṭ ceti mantro ‘parātmakah ॥ 26 ॥ 
+### TĀ 30.26
 
-The Mantra which is the nature of Aparā consists of (the seed syllable of) Māyā, that has visarga (HRĪṆ) (along with) HŪM®“ and PHAT. (26cd) 
+Aparā Vidyā माया विसर्गिणी हरंफट् चेति मन््रोऽपरात्मकः ॥ २६ ॥
+māyā visargiṇī \[illegible\] phaṭ ceti mantro ‘parātmakaḥ ॥ 26 ॥ 
+
+The Mantra which is the nature of Aparā consists of (the seed syllable of) Māyā, that has visarga (HRĪṆ) (along with) HŪM“ and PHAT. (26cd) 
+
+#### Viveka on 30.26
 
 (The Mantra which is) ‘the nature of Aparā’ is the one associated with it, This is the meaning. As is said (in the Mālinīvijayottara): 
 
 ‘One must first deposit (the syllable) that comes at the end of AGHORE (i.e. HRĪH), the vital breath (H) along with the left earring (Ū), the Point M), and the Foot (PH) along with the skull \[illegible\] as before." 
+
+### TĀ 30.27–28
 
 Parā Vidyā परायास्तृक्तसट्व्यापिर्जीवः सह चतुर्दशः ।
 सानेकभेदा त्रिशिरःशाखे प्रोक्ता महेशिना ॥ २७ ॥
@@ -566,26 +658,32 @@ Parā Vidyā परायास्तृक्तसट्व्यापिर�
 
 स्वरूपतोऽविभिन्नापि रचनानेकसंकुला ।
 
-parāyās tūktasadvyāptir jīvah saha caturdaśah |
+parāyās tūktasadvyāptir jīvaḥ saha caturdaśaḥ |
 sānekabhedā triśirahśāstre proktā maheśinā ॥ 27 ॥
 svarūpato ‘vibhinnāpi racanānekasaṁikulā | 
 
-Parā’s pervasion of the Being (sat) of Parā taught (previously) is the living being (5), along with the fourteenth (vowel) (AU) (and emission H).“' The Great Lord has taught it in the Trisirahśāstra with many varieties. Although essentially one (and the same),® it is arranged in many ways.® (27-28ab) 
+Parā’s pervasion of the Being (sat) of Parā taught (previously) is the living being (5), along with the fourteenth (vowel) (AU) (and emission H).“' The Great Lord has taught it in the Trisirahśāstra with many varieties. Although essentially one (and the same), it is arranged in many ways. (27-28ab) 
+
+#### Viveka on 30.27–28
 
 Parā ‘taught (previously)’,“ that is, before. The living being is S. The fourteenth (vowel) is AU. ‘Although essentially one’, it is taught in many ways, and so is ‘arranged in many ways’. This is the reason (given) by means of an adjectival ascription. 
 
 He (now) paraphrases (the passage in the Trisirobhairavatantra). 
 
+### TĀ 30.28
+
 जीवः प्राणस्थ एवात्र प्राणो वा जीवसंस्थितः ॥ २८ ॥
-jīvah prāṇastha evātra prāṇo vā jīvasaṁsthitah ॥ 28 ॥ 
+jīvaḥ prāṇastha evātra prāṇo vā jīvasaṁsthitaḥ ॥ 28 ॥ 
 
 ‘Here the Living Being (S) is present within the Vital Breath (H), or 
 
 the Vital Breath (H) is within the Living Being (S).“ (28cd) 
 
+#### Viveka on 30.28
+
 60\. According to the MV, jiva — ‘the living being’ is S. In the Mālinī alphabet taught in a passage of the Trisirobhairava, quoted by Jayaratha above ad 15/121-125ab, there is no entry for ‘jiva’. There, paramātmā is the letter S.
 
-61\. Vidyā is given in MV 4/25, which Abhinava does not quote here. See above 3/167-172 (166cd-172ab); 4/181cd-19; 5/143-146 (142-145). There are two Mantras for Parā in the central Jotus of the Trident. She is installed first with SAUH and then worshipped with HSHPHREM, that is, Mātrsadbhāva (15/33 1cd-332). This form of the seed-syllable of Parā is given in code below in 30/47-48ab and in MV 8/39-40ab, where it is said to be the ‘supreme essence (sadbhāva) of the Mothers.” In the Kubjikā system of the KM, Parā is HSRŪĀM (KM 18/30-31).
+61\. Vidyā is given in MV 4/25, which Abhinava does not quote here. See above 3/167-172 (166cd-172ab); 4/181cd-19; 5/143-146 (142-145). There are two Mantras for Parā in the central Jotus of the Trident. She is installed first with SAUH and then worshipped with HSHPHREM, that is, Mātṛsadbhāva (15/33 1cd-332). This form of the seed-syllable of Parā is given in code below in 30/47-48ab and in MV 8/39-40ab, where it is said to be the ‘supreme essence (sadbhāva) of the Mothers.” In the Kubjikā system of the KM, Parā is HSRŪĀM (KM 18/30-31).
 
 62\. Read svarūpato ‘vibhinnāpi for svarūpato vibhinnāpi.
 
@@ -606,19 +704,23 @@ Thus (this form of the Parā Vidyā) is SHAUH or HSAUH.“
 
 Clarifying that the intended sense is the reversal of the relationship between the two as the support and the sustained, he explains their distinctive (character). 
 
+### TĀ 30.29–30
+
 आधाराधेयभावेन अविनाभावयोगतः ।
 हंसं चामृतमध्यस्थं कालरुदरविभेदितम् ॥ २९ ॥
 भुवनेशशिरोयुक्तमनङ्गद्रययोजितम् ।
 दीप्तादीप्ततरं ज्ञेयं षट्चक्रक्रमयोजितम् ॥ ३० ॥
 
-ādhārādheyabhāvena avinābhāvayogatah |
-harsan cāmrtamadhyasthaṁ kālarudravibheditam ॥ 29 ॥
+ādhārādheyabhāvena avinābhāvayogataḥ |
+harsan cāmṛtamadhyasthaṁ kālarudravibheditam ॥ 29 ॥
 bhuvaneśaśiroyuktam anaṁgadvayayojitam |
 dīptād dīptataraṁ jñeyaṁ ṣatcakrakramayojitam ॥ 30 ॥ 
 
-“This is because of the invariable concomitance (of one with the other,) by virtue of (their) relationship as the support and the sustained. The Swan (H), situated in the middle of (two) Nectars (S), conjoined with Kālarudra \[illegible\] the head of Lord of the Worlds (AU) and the two Anañgas \[illegible\] (i.e SHSŪAUH),“ applied successively to the six wheels (as it is made of six parts), should be known to be (a seed-syllable Mantra) which is more energized than (any other) energized (one). (29-30) 
+“This is because of the invariable concomitance (of one with the other,) by virtue of (their) relationship as the support and the sustained. The Swan (H), situated in the middle of (two) Nectars (S), conjoined with Kālarudra \[illegible\] the head of Lord of the Worlds (AU) and the two Anaṅgas \[illegible\] (i.e SHSŪAUH),“ applied successively to the six wheels (as it is made of six parts), should be known to be (a seed-syllable Mantra) which is more energized than (any other) energized (one). (29-30) 
 
-®(There is an) ‘invariable concomitance (of one with the other)’, because of the oneness of Power and the pure Self. As is said there (in the Triśirobhairavatantra): 
+#### Viveka on 30.29–30
+
+(There is an) ‘invariable concomitance (of one with the other)’, because of the oneness of Power and the pure Self. As is said there (in the Triśirobhairavatantra): 
 
 66\. Variants of this seed syllable are also found in the mantras of the Kubjikā Tantras. Five seed syllables, called pranavas, are regularly prefixed to mantras, and suffixed (in reverse order) to energize them. They are a major characterizing feature of Kubjikā mantras. The first three rarely change. They are AIM (which is Kubjikā’s seed syllable), ŚRĪM (this is Lakṣmībīja), and HRĪM (this is Māyābīja). The following two are drawn from Krama and Trika. The first is PAREM, nt KHPHREM, and HSKHPHREM (see Dyczkowski 2009: vol. 1 p. 654). The other one is HSAUM, which has the largest number of variants. Some of them are HSŪAUM, HSVĪAUM, HSMRAM, HSMVUAIM, HSMVAM, HSAUM and HSRŪAUM. We also find these and other variants ending in visarga (H). See Dyczkowski 2009: vol. 1, 637-653.
 
@@ -639,7 +741,9 @@ The greatness of the end of this seed-syllable is proclaimed in the venerable De
 
 On the authority of (our) teacher, (we know) that the venerable Ojarāja was of a different view, because the readings are reversed.” 
 
-The Swan is H. Nectar is S. Kālarudra is Ū. The Lord of the Worlds is AU and the two Anañgas is H. (Thus, the Mantra is) SHSŪAUH. There are ‘six wheels’ because there are six parts (of the syllable) (avayava).”? 
+The Swan is H. Nectar is S. Kālarudra is Ū. The Lord of the Worlds is AU and the two Anaṅgas is H. (Thus, the Mantra is) SHSŪAUH. There are ‘six wheels’ because there are six parts (of the syllable) (avayava).”? 
+
+### TĀ 30.31
 
 प्राणं दण्डासनस्थं तु गृह्यशक्तौच्छया युतम् ।
 परेयं वाचिकोदिष्टा महाज्ञानस्वरूपतः ॥ ३१ ॥
@@ -648,12 +752,12 @@ The Swan is H. Nectar is S. Kālarudra is Ū. The Lord of the Worlds is AU and t
 शृन्यद्रयसमोपेतं पराया हदयं परम् |
 
 prāṇaṁ daṇndāsanasthari tu guhyaśaktīcchayā yutam |
-pareyari vācikoddiṣṭtā mahājñānasvarūpatah ॥ 31 ॥
-sphuṭam bhairavahrjjñānam idar tv ekākṣaraṁi param |
-amrtam kevalarn khastharh yad vā sāvitrikāyutam || 32 ||
-sūnyadvayasamopetaṁ parāyā hrdayan param | 
+pareyari vācikoddiṣṭtā mahājñānasvarūpataḥ ॥ 31 ॥
+sphuṭam bhairavahṛjjñānam idar tv ekākṣaraṁi param |
+amṛtam kevalarn khasthaṁ yad vā sāvitrikāyutam || 32 ||
+sūnyadvayasamopetaṁ parāyā hṛdayan param | 
 
-70\. These lines correspond to 3/29-30 of my working edition of the DP. The last three lines are the same. However, the first one reads: amrtārnaṁ \[k, kh: amrtānṇaṁvaṁ\] tu brahmāṁdaṁ tripindarhn brahma sat pararh | “The letter of Nectar (S), the Egg of Brahmā (AU), which is the Triple Body, followed by Brahmā, who is supreme Being (H). The version cited by Jayaratha reads: hrdayārnari nitambārṇaṁ dakṣajānugataii priye |
+70\. These lines correspond to 3/29-30 of my working edition of the DP. The last three lines are the same. However, the first one reads: amṛtārnaṁ \[k, kh: amṛtānṇaṁvaṁ\] tu brahmāṁdaṁ tripindaṁ brahma sat paraṁ | “The letter of Nectar (S), the Egg of Brahmā (AU), which is the Triple Body, followed by Brahmā, who is supreme Being (H). The version cited by Jayaratha reads: hṛdayārnari nitambārṇaṁ dakṣajānugataii priye |
 
 71\. Cf. 30/28cd. Did Ojarāja write a commentary on the Devipañcaśataka? See Sanderson 2006: 26 n.68.
 
@@ -664,9 +768,15 @@ sūnyadvayasamopetaṁ parāyā hrdayan param |
 
 The Vital Breath (H) situated on the Staff (R) as its seat, conjoined with the Secret Power (Ï) and the Will \[illegible\] (HRĪH) - this is said to denote Parā, for its nature is great knowledge. (31) 
 
+### TĀ 30.32–33
+
 This, the one that comes after, consisting of (just) one syllable, is the clear knowledge of Bhairava’s heart.” (It consists of) nectar (S) alone, and is situated in the Sky (H) (SH) (SHAM), or else it is united with Sāvitrikā (AU) and possesses the two voids (H). (This is) the supreme heart of Parā (SAUṆ). (32-33ab) 
 
+#### Viveka on 30.32–33
+
 The Vital Breath is H. The Staff is R. The Secret Power is Ī and the will, H. Thus (the Mantra is) HRĪH. Nectar is S. The Sky is the seed-syllable of space, which is H, thus (making) SH. One should add the Point here, because it is invariably concomitant (thus making SHAM). ‘Or else’ according to another view, (S is united with) Sāvitrikā, which is AU, and with that the Two Voids, H, thus (making) SAUH. 
+
+### TĀ 30.28–36
 
 युग्मयोगे प्रसिद्धं तु कर्तव्यं तत्त्ववेदिभिः ॥ ३३ ॥
 अन्येऽपयेका्षरा ये तु एकवीरविधानतः ।
@@ -675,16 +785,16 @@ The Vital Breath is H. The Staff is R. The Secret Power is Ī and the will, H. T
 कुलक्रमविधानेन सृक्षमविन्ञानयोगतः ॥ ३५ ॥
 अनुष्ठेयाः सदा देवि खिया वा पुरुषेण वा ।
 
-yugmayā2ge prasiddharh tu kartavyari tattvavedibhih | 33 ॥
-anye ‘py ekākṣarā ye tu ekavīravidhānatah |
-guptā guptatarās te tu aùgābhijanavarjitāh ॥ 34 ॥
-yaṣtavyāh sādhakendrais tu kulasthāh siddhidāyakāh |
-kulakramavidhānena sūkṣmavijñānayogatah ॥ 35 ॥
-anuṣtheyāh sadā devi striyā vā puruṣenṇa vā | 
+yugmayā2ge prasiddhaṁ tu kartavyari tattvavedibhiḥ | 33 ॥
+anye ‘py ekākṣarā ye tu ekavīravidhānataḥ |
+guptā guptatarās te tu aṅgābhijanavarjitāḥ ॥ 34 ॥
+yaṣtavyāḥ sādhakendrais tu kulasthāḥ siddhidāyakāḥ |
+kulakramavidhānena sūkṣmavijñānayogataḥ ॥ 35 ॥
+anuṣtheyāḥ sadā devi striyā vā puruṣenṇa vā | 
 
 Those who know reality should make use of it in the Sacrifice of the Couple (yugmayāga), in which (its application is) well known. So too other monosyllabic (mantras) that are secret, extremely secret, devoid of limbs and faces (abhijana), should be worshipped by the most excellent adepts, in accord with the procedure (laid down for a) Solitary Hero (i.e. a deity that is not in the company of a consort). Established in Kula, they bestow accomplishments by means of the procedure of the Kula liturgy (of one’s own Kula) (kulakrama), in association with the subtle knowledge (of its inner principles). O goddess, they should be practiced (anuṣṭtheya) 
 
-73\. Another, different Heart, ‘which is called Bhairava’, is extracted in 30/94cd-95. Also, see note to 16/158cd-163ab and commentary, that states that Bhairava’s Heart is Mātrsadbhāva (HSHPHREM).
+73\. Another, different Heart, ‘which is called Bhairava’, is extracted in 30/94cd-95. Also, see note to 16/158cd-163ab and commentary, that states that Bhairava’s Heart is Mātṛsadbhāva (HSHPHREM).
 
 74\. See above, 30/28cd.
 
@@ -695,18 +805,24 @@ Those who know reality should make use of it in the Sacrifice of the Couple (yug
 
 constantly (assiduously) by (every member of the Kula,) be it a woman or a man.’ (28cd-36ab) 
 
-‘The sacrifice of the Couple’ is a couple (of deities, male and female,) in union (yãmala). 
+#### Viveka on 30.28–36
+
+‘The sacrifice of the Couple’ is a couple (of deities, male and female,) in union (yāmala). 
+
+### TĀ 30.36–37
 
 सकारो दीर्घषट्केन युक्तोऽद्धान्याननानि तु ॥ ३६ ॥
 स्यात् स एव परं हस्वपञ्चस्वरखसंयुतः ।
 
-sakāro dīrghaṣatkena yukto ‘ṁgāny ānanāni tu ॥ 36 II syāt sa eva parar hrasvapañcasvarakhasaṁiyutah | 
+sakāro dīrghaṣatkena yukto ‘ṁgāny ānanāni tu ॥ 36 II syāt sa eva parar hrasvapañcasvarakhasaṁiyutaḥ | 
 
 The limbs (of Parā) are the letter S conjoined with the six long vowels, whereas the faces are also S, but conjoined with the five short 
 
 vowels and the Void (M).”\* (36cd-37ab) 
 
-Even though this (seed syllable) was extracted previously with (the words) ‘the Living Being (S), along with the fourteenth (vowel) (\^+), it is repeated again (here,) because (what was stated previously was) in accord with the venerable Triśirobhairava as the basic text (whereas here he is following the Maālinīvijayottara). Thus, there is no defect (in doing so again),TM (or if) other (things are) said about it, such as ‘the Living Being (S) is present within the Vital Breath (H). 
+#### Viveka on 30.36–37
+
+Even though this (seed syllable) was extracted previously with (the words) ‘the Living Being (S), along with the fourteenth (vowel) (\^+), it is repeated again (here,) because (what was stated previously was) in accord with the venerable Triśirobhairava as the basic text (whereas here he is following the Maālinīvijayottara). Thus, there is no defect (in doing so again), (or if) other (things are) said about it, such as ‘the Living Being (S) is present within the Vital Breath (H). 
 
 ‘The faces’ are faces. ‘Also S’ means the letter S. The ‘Void’ is the 
 
@@ -725,14 +841,18 @@ Point (M). That is said (in the Mālinīvijayottara):
 
 *[p. 27]* ^pg45
 
-invocations) (jāti); the faces (are formed from the same Living Being (S)) with the five short vowels.”® 
+invocations) (jāti); the faces (are formed from the same Living Being (S)) with the five short vowels.” 
 
 The Limbs of the Vidyā (Vidyāṁga) 
 
+### TĀ 30.37
+
 1\) The Heart ओङ्कारः पञ्चभिर्मनत्रो विद्याद्हदयं भवेत् ॥ ३७ ॥
-oùkāraih pañcabhir mantro 114) \[illegible\] \[illegible\] \[illegible\] \[illegible\] bhavet ॥ 37 ॥ 
+oṅkāraiḥ pañcabhir mantro 114) \[illegible\] \[illegible\] \[illegible\] \[illegible\] bhavet ॥ 37 ॥ 
 
 The mantra which is the Heart, amongst the limbs of the Vidyā is made of five OMs.” (37cd) 
+
+### TĀ 30.38
 
 2\) The Head of Brahmā प्रणवश्चामृते | तेजोमालिनि स्वाहया सह एकादशाक्षरं ब्रह्मशिरस्तन्मालिनीमते ॥ ३८ ॥
 praṇavaś cāmṭte tejomālini svāhayā saha |
@@ -742,23 +862,29 @@ The Brahmaśiras (the Head of Brahmā), according to the Mālinīmata, consists 
 
 TEJOMĀLINI,” along with SVĀHĀ. (38) 
 
+### TĀ 30.39
+
 3\) The Topknot वेदवेदनि हूं फट् च प्रणवादियुता शिखा ।
 vedavedani \[illegible\] phat ca praṇavādiyutā śikhā | 
 
-The Topknot (śikhā) is VEDAVEDINI HŪM PHAT, preceded by the syllable OM.® 
+The Topknot (śikhā) is VEDAVEDINI HŪM PHAT, preceded by the syllable OM. 
 
 (39ab) 
+
+#### Viveka on 30.39
 
 80\. MV 3/60cd-6 lab.
 
 81\. a literal quotation of MV 3/61cd.
 
-82\. Read -mālini, as found in MV, for -mālinī. This verse is drawn from MV 3/62 that reads: om amrte tejomālini svāhāpadāni (davi) bhūṣii ekādaśākṣarari proktam etad brahmaśirah priye lig
+82\. Read -mālini, as found in MV, for -mālinī. This verse is drawn from MV 3/62 that reads: om amṛte tejomālini svāhāpadāni (davi) bhūṣii ekādaśākṣarari proktam etad brahmaśiraḥ priye lig
 
-83\. 30/37cd-40ab (except 38ab) is a lightly modified quote of MV 3/61cd-64; TĀ 30/37cd = MV 3/61cd, TĀ 30/38 is a paraphrase of MV 3/62cd-63ab; TĀ 30/39ab = MV 3/63ab vedavedini hūrù phat ca pranavādisamanvita \[illegible\] yutā śikheti\] | 3/63ab (read with MS G: yutā śikhā); TĀ 30/39cd- 40ab (reads svāhety oṁkārapūrvakam for svāhāntaṁ pranavādikam) = MV 3/64. The whole passage says: The mantra Vidyāñgahrdaya (the Heart of the Limbs of the Vidyā, is made) with five OMs. O beloved, the Brahmaśiras (the Head of Brahmā). consisting of the eleven syllables (mantra), is said to be OM AMRTE TEJOMĀLINI, adorned with the syllables SVĀHĀ. The Śikhā (the Topknot, amongst) the group of (the limbs of the) Vidyā should be known to be Rudrānī, consisting of eight syllables. It is VEDAVEDINI HŪM PHAT, and has the syllable OM at the beginning. VAJRINE VAJRADHARĀYA SVĀHĀ, preceded by the syllable OM, is the Armour (varman) called Puruṣșṭuta (Praised by Many), consisting of eleven syllables.’ MV 3/61cd-64
+83\. 30/37cd-40ab (except 38ab) is a lightly modified quote of MV 3/61cd-64; TĀ 30/37cd = MV 3/61cd, TĀ 30/38 is a paraphrase of MV 3/62cd-63ab; TĀ 30/39ab = MV 3/63ab vedavedini hūṁ phat ca pranavādisamanvita \[illegible\] yutā śikheti\] | 3/63ab (read with MS G: yutā śikhā); TĀ 30/39cd- 40ab (reads svāhety oṁkārapūrvakam for svāhāntaṁ pranavādikam) = MV 3/64. The whole passage says: The mantra Vidyāṅgahṛdaya (the Heart of the Limbs of the Vidyā, is made) with five OMs. O beloved, the Brahmaśiras (the Head of Brahmā). consisting of the eleven syllables (mantra), is said to be OM AMRTE TEJOMĀLINI, adorned with the syllables SVĀHĀ. The Śikhā (the Topknot, amongst) the group of (the limbs of the) Vidyā should be known to be Rudrānī, consisting of eight syllables. It is VEDAVEDINI HŪM PHAT, and has the syllable OM at the beginning. VAJRINE VAJRADHARĀYA SVĀHĀ, preceded by the syllable OM, is the Armour (varman) called Puruṣṭuta (Praised by Many), consisting of eleven syllables.’ MV 3/61cd-64
 
 
 *[p. 28]* ^pg46
+
+### TĀ 30.39–40
 
 4\) The Armour 
 
@@ -766,7 +892,7 @@ The Topknot (śikhā) is VEDAVEDINI HŪM PHAT, preceded by the syllable OM.®
 एकादशाक्षर वर्म पुरुष्टतमिति स्मृतम् |
 
 vajrine vajradharāya svāhetyoṁkārapūrvakam || 39 ||
-ekādaśākṣaraṁ varma puruṣṭutam iti smrtam | 
+ekādaśākṣaraṁ varma puruṣṭutam iti smṛtam | 
 
 , 
 
@@ -774,9 +900,11 @@ VAJRIṆE VAJRADHARĀYA SVĀHĀ, preceded by the syllable OM, is the Armour (var
 
 consisting of eleven syllables.” (39cd-40ab) 
 
-Here (with regard to this), according to the followers of the venerable Triśirobhairava, the seed syllable of the Armour is in the Topknot.TM Those who live by the venerable Devyāyāmala (say it is) Catuṣkala ‘possessing four energies.’TM Our teachers accept the latter view. Rejecting the view of the venerable Trisirobhairava, because the nomenclature (abhidhāna) here is in accord with procedure (taught in) the venerable Devyāyāmala, the matter (artha) concerning the Mantra of the Eye, which is not mentioned in the Mālinīvijayottara, is meant to be explained (in accord with the Devyāyāmala).® And the same according to the Trisirobhairava (is as follows): 
+#### Viveka on 30.39–40
 
-‘1) Having fashioned Gāyatrī (O) five times, along with Śukrā (Female Sperm) (M), and (having uttered ʻhail) to the Heart (hrdayāya)’ ~ this 
+Here (with regard to this), according to the followers of the venerable Triśirobhairava, the seed syllable of the Armour is in the Topknot. Those who live by the venerable Devyāyāmala (say it is) Catuṣkala ‘possessing four energies.’ Our teachers accept the latter view. Rejecting the view of the venerable Trisirobhairava, because the nomenclature (abhidhāna) here is in accord with procedure (taught in) the venerable Devyāyāmala, the matter (artha) concerning the Mantra of the Eye, which is not mentioned in the Mālinīvijayottara, is meant to be explained (in accord with the Devyāyāmala). And the same according to the Trisirobhairava (is as follows): 
+
+‘1) Having fashioned Gāyatrī (O) five times, along with Śukrā (Female Sperm) (M), and (having uttered ʻhail) to the Heart (hṛdayāya)’ ~ this 
 
 84\. 39cd-40ab = MV 3/64. ‘Puruṣtuta’ means greatly valued, praised by many, etc.
 
@@ -784,22 +912,22 @@ Here (with regard to this), according to the followers of the venerable Triśiro
 
 86\. Bindu is said to have four energies (catuṣkala) in several places. See, for example, the Tantrasadbhāva, quoted in TĀv ad 3/66cd-67ab (67); TĀ 8/385cd (385ab) (= SvT 10/1222ab) and Nisisacāra in TĀv ad 15/86cd-88. The seed-syllable of Māyā (HŪM) is also said to have four energies (catuṣkala) (TĀv ad 16/221-222 (221cd-223ab) and TĀ 30/90c). The two interpretations are equated in TĀv ad 30/107, where Jayaratha says that ‘Bindu has four energies, and so is HŪM (binduś catuṣkalatayā (him).
 
-87\. The Trisirobhairava does indeed describe a different version of the Eye, namely, CSHAUM. Abhinava presents what he calls a Mantra common to all Śaiva schools, This is the mantra of Mrtyuñjaya (Amrteśvara), namely, OM JUM SAH. It is described in the Netratantra. Its alias —Amrteśvaratantra — clearly indicates the identity of this mantra form of Śiva with that of the Third Eye. As this limb (aga) is not described in the MV, according to Jayaratha, Abhinava is following the Devyāyāmala here.
+87\. The Trisirobhairava does indeed describe a different version of the Eye, namely, CSHAUM. Abhinava presents what he calls a Mantra common to all Śaiva schools, This is the mantra of Mṛtyuñjaya (Amṛteśvara), namely, OM JUM SAH. It is described in the Netratantra. Its alias —Amṛteśvaratantra — clearly indicates the identity of this mantra form of Śiva with that of the Third Eye. As this limb (aga) is not described in the MV, according to Jayaratha, Abhinava is following the Devyāyāmala here.
 
 88\. \[illegible\] These correspondences are drawn from the Mālinī alphabet taught in the Trisirobhairava, as reported by Jayaratha above ad 15/121-125ab. The sequence of letters in the MV version and that of the Trisirobhairava are not exactly the same. See Appendix B to Chapter Fifteen, Volume Eight, for tables of the Mālinī alphabet in the MV and TBh.
 
 
 *[p. 29]* ^pg47
 
-omniscient Mantra, the supreme Heart (is complete).® (OM OM OM OM OM 
+omniscient Mantra, the supreme Heart (is complete). (OM OM OM OM OM 
 
 HRDAYĀYA NAMAH) 
 
-2\) Taking Vāgīśī (A) alone, write (the letter of the goddess’s) Buttock (M). Having placed it in Contentment (nivrtti) (r), Tārā (the Saviouress) (T) comes next. Conjoining her twice with Jñānaśakti (the Power of Knowledge) (E), extract the Trident (J) without the Staff, along with Gāyatrī (O), Mahākālī (M) conjoined with the Milk (Ā), and Pūtanā (L), with the power of Māyā (I), Nādinī (the Resounding One) (N) conjoined with the Tongue (I), and Paramā (the Supreme One) (S) is conjoined with the throat (V), and having endowed her with Milk (Ā), Ambikā (the Little Mother) (H) is conjoined with Milk (Ā) - (thus) the Head of Triśiranātha (the Three Headed Lord) endowed with fulfilment has been taught. (AMrTE TEJOMĀLINI SVĀHĀ - Head) 
+2\) Taking Vāgīśī (A) alone, write (the letter of the goddess’s) Buttock (M). Having placed it in Contentment (nivṛtti) (r), Tārā (the Saviouress) (T) comes next. Conjoining her twice with Jñānaśakti (the Power of Knowledge) (E), extract the Trident (J) without the Staff, along with Gāyatrī (O), Mahākālī (M) conjoined with the Milk (Ā), and Pūtanā (L), with the power of Māyā (I), Nādinī (the Resounding One) (N) conjoined with the Tongue (I), and Paramā (the Supreme One) (S) is conjoined with the throat (V), and having endowed her with Milk (Ā), Ambikā (the Little Mother) (H) is conjoined with Milk (Ā) - (thus) the Head of Triśiranātha (the Three Headed Lord) endowed with fulfilment has been taught. (AMrTE TEJOMĀLINI SVĀHĀ - Head) 
 
 3\) Jñānaśakti (the Power of Knowledge) (E) is on the Throat (V). Deposit Dahanī (the Burning One) (D) alone (VEDA), and apply it twice, having written Nādinī (the Resounding One) (N) after that (VEDAVEDANA). Then, after that, it is conjoined with Māyā (I). (Then comes) Mohinī (the Enchantress) \[illegible\] united with Ambikā (the Little Mother) (H) and the goddess Śukrā (Female Sperm) (M) (HŪM). After that comes Pheṭkārī (PH).” The Skull (T) is at the end of it, devoid of the half vowel (PHAT). O governess of the gods, the Topknot, which is called Beginningless Consciousness (anādibodha) has (thus) been taught. (VEDAVEDANI HŪM PHAT - Topknot.) 
 
-4\) One should place Śikhinī (the Peahen) (V) alone, and Jayantī (the Victorious) (J) conjoined with the Staff (R), should be applied conjoined with the Tongue (1), and Janārdanī (She who Agitates People) (= Nārāyaṇī) (Ṇ) conjoined with Knowledge (= Jñānaśakti = E). One should extract Śikhinī (the Peahen) (V) alone. The Trident (J) conjoined with the Staff (R), Priyadarśanī (DH), and then the Staff (R) along with Milk (Ā), Vāyuvegā (the Force of Wind) (Y), Paramā (the Supreme) (= Parmātmā) (S), Śikhinī (the Peahen) (V) conjoined with Milk (Ã), Ambikā (the Little Mother) (H) conjoined with Milk (Ā) ~ (the wise) know that this is the impenetrable Armour. (VAJRINE 
+4\) One should place Śikhinī (the Peahen) (V) alone, and Jayantī (the Victorious) (J) conjoined with the Staff (R), should be applied conjoined with the Tongue (1), and Janārdanī (She who Agitates People) (= Nārāyaṇī) (Ṇ) conjoined with Knowledge (= Jñānaśakti = E). One should extract Śikhinī (the Peahen) (V) alone. The Trident (J) conjoined with the Staff (R), Priyadarśanī (DH), and then the Staff (R) along with Milk (Ā), Vāyuvegā (the Force of Wind) (Y), Paramā (the Supreme) (= Parmātmā) (S), Śikhinī (the Peahen) (V) conjoined with Milk (Ā), Ambikā (the Little Mother) (H) conjoined with Milk (Ā) ~ (the wise) know that this is the impenetrable Armour. (VAJRINE 
 
 VAJRADHARĀYA SVĀHĀ - Armour.) 
 
@@ -811,7 +939,7 @@ you the Three Eyes of the god. (CSHAUM - Three Eyes.)
 
 89\. The Six Limbs of the Vidyā OM OM OM OM OM HRDAYĀYA NAMAH - the Heart AMrTE TEJOMĀLINI SVĀHĀ - Head VEDAVEDANI HŪM PHAT - Topknot VAJRIṆE VAJRADHARĀYA SVĀHĀ - Armour. CSHAUM - the Third Eye. ŚLĪM PAŚU HŪM PHAT - the Weapon.
 
-90\. Read pheṭkārī for pheñkārī.
+90\. Read pheṭkārī for pheṅkārī.
 
 
 *[p. 30]* ^pg48
@@ -830,7 +958,7 @@ limbs)”
 
 syllable) OM. (OM AMrTE TEJO MĀLINI SVĀHĀ - head) 
 
-(3) The syllable OM and the letter of the Throat (V), added to the Right Knee (E), having doubled it and then after that, the Right Foot (D), and then having extracted the Right Foot (D) for the middle (of VEDANI), and having added the remaining last two, namely, the Topknot (N) united with the letter of the Tongue (1), having added the other last two, extract the TopknotTM of the one who bears the thunderbolt. (OM VEDAVEDANI (HŪM PHAT)) 
+(3) The syllable OM and the letter of the Throat (V), added to the Right Knee (E), having doubled it and then after that, the Right Foot (D), and then having extracted the Right Foot (D) for the middle (of VEDANI), and having added the remaining last two, namely, the Topknot (N) united with the letter of the Tongue (1), having added the other last two, extract the Topknot of the one who bears the thunderbolt. (OM VEDAVEDANI (HŪM PHAT)) 
 
 (4) Extract the letter of the Throat (V) and the Trident (the whole Trident is J + R) followed by the two eyes (DH). The Staff of the Trident (R) is in the letter of the Milk (&) — the one that ends with SVĀHĀ is the Armour 
 
@@ -839,9 +967,9 @@ which is in front. (VAJRADHARĀ(YA) SVĀHĀ - Armour).
 (5) the Eye) The syllable OM, the letter of the Trident (J), adorned with the Right Earring (U), (to which) one should add the Self ॥
 along with the Buttocks (M), possessing emission (H). That is the Eye of the goddess. That is the supreme instrument of Mriyuñjay a. (OM JUM SAH). 
 
-(6) the Weapon) ŚLĪM PAŚU beginning with syllable OM, after which comes the vital breath (H), which should be conjoined in all respects into the ornament of the left ear \[illegible\] and add the letter within the vital seed” (M) - (this is) the Weapon which is supremely terrible. (OM ŚLĪM PAŚU HŪM® - the Weapon.). 
+(6) the Weapon) ŚLĪM PAŚU beginning with syllable OM, after which comes the vital breath (H), which should be conjoined in all respects into the ornament of the left ear \[illegible\] and add the letter within the vital seed” (M) - (this is) the Weapon which is supremely terrible. (OM ŚLĪM PAŚU HŪM - the Weapon.). 
 
-91\. Read phetkārī for pheùkārī.
+91\. Read phetkārī for pheṅkārī.
 
 92\. The Mālinī code is used above ad 29/69-70ab to extract the Vidyā of Kālasaṁkarṣiṇī. So we can assume the same code is being used here.
 
@@ -858,14 +986,18 @@ along with the Buttocks (M), possessing emission (H). That is the Eye of the god
 
 *[p. 31]* ^pg49
 
+### TĀ 30.40–41
+
 5\) The Eye तारो द्विजिह्वः खशरस्वरयुग्जीव एव च ॥ ४० ॥
 ेत्रमेतत््रकाशात्म सर्वसाधारणं स्मृतम् ।
-tāro dvijihvah khaśarasvarayug jīva eva ca ॥ 40 ॥
-netram etat prakāśātma sarvasādhāraṇari smrtam | 
+tāro dvijihvaḥ khaśarasvarayug jīva eva ca ॥ 40 ॥
+netram etat prakāśātma sarvasādhāraṇari smṛtam | 
 
 ”The Saviour (OM), Two Tongues (J), Space (M), conjoined with the vowel Arrow (U), and the Living Being (S), (along with emission H,) are the Eye (netra), which is light, and said to be (a Mantra) common to all 
 
 (Śaiva schools). (40cd-41ab) 
+
+#### Viveka on 30.40–41
 
 ‘The Saviour’ is the syllable OM. The Two Tongues is J. Space is the Point (M). The vowel Arrow is U. The Living Being is S, along with emission 
 
@@ -873,40 +1005,48 @@ netram etat prakāśātma sarvasādhāraṇari smrtam |
 
 6\) The Weapon (Pāśupatāstra) 
 
+### TĀ 30.41
+
 तारः श्टीं पशु हू फट् च तदसं रसवर्णकम् ॥ ४१ ॥
-tārah 
+tāraḥ 
 
 ślīṁ paśu hū phaṭ ca tad \[illegible\] rasavarṇakam ॥ 41 ॥
 6) The Saviour (OM) ŚLĪM PAŚU HŪMTM \[illegible\] - this is the 
 
 Weapon (astra), consisting of six syllables.” (41cd) 
 
+#### Viveka on 30.41
+
 (The Weapon consists of) ‘six syllables’. The letter Ṭ is not counted here (amongst them), because it has no vowel. 
 
-98\. 30/40cd-41ab has no equivalent in the MV, as all the other limbs appear there in serial order (3/37cd-40). It is possible that these two lines have somehow been lost in the manuscripts of the MV. But this is probably not so. It is not uncommon to find versions consisting of five limbs rather than six. Moreover, as here, the limb that is usually omitted is the Eye. Indeed, Jayaratha observes that the Netramantra (also called Mrtyuñjayamantra) - OM JUM SAH — is not mentioned in the MV (cfr. SvT 1, p.51). The reason implicitly given here for this is that it is common to all Śaiva schools and so needs no special mention. See above, 22/20-21.
+98\. 30/40cd-41ab has no equivalent in the MV, as all the other limbs appear there in serial order (3/37cd-40). It is possible that these two lines have somehow been lost in the manuscripts of the MV. But this is probably not so. It is not uncommon to find versions consisting of five limbs rather than six. Moreover, as here, the limb that is usually omitted is the Eye. Indeed, Jayaratha observes that the Netramantra (also called Mṛtyuñjayamantra) - OM JUM SAH — is not mentioned in the MV (cfr. SvT 1, p.51). The reason implicitly given here for this is that it is common to all Śaiva schools and so needs no special mention. See above, 22/20-21.
 
-99\. Read with MV 3/65b, \[illegible\] for hurh.
+99\. Read with MV 3/65b, \[illegible\] for huṁ.
 
-100\. \[illegible\] 30/41cd is an abridged version of MV 3/65, which says: ślīpadar \[g: ślaśabdam iti\] (> ślīhpadaṁi) paśuśabdaṁ ca hūṁ phadantarh bhavādikam | etat pāśupataṁ proktam ardhasaptākṣarari param | ‘The syllable ŚLĪM, the word PAŚU and HŪM PHAT at the end and BHAVA at the beginning — this is said to be the Pāśupata (Weapon). Supreme, it consists of seven and a half syllables. The form of the mantra of the Weapon taught in the MV is BHAVA ŚLĪM, PAŚU HŪM PHAT, which consists, as the MV says, of seven and a half syllables (PHAT is one and a half). See below 30/41cd, where it is given in full. Abhinava has, for some reason, substituted BHAVA with OM and reckoned PHAT to be just one syllable. This mantra recurs elsewhere, see, for example, the Rauravāgama Kriyāpāda, \\/10.
+100\. \[illegible\] 30/41cd is an abridged version of MV 3/65, which says: ślīpadar \[g: ślaśabdam iti\] (> ślīhpadaṁi) paśuśabdaṁ ca hūṁ phadantaṁ bhavādikam | etat pāśupataṁ proktam ardhasaptākṣarari param | ‘The syllable ŚLĪM, the word PAŚU and HŪM PHAT at the end and BHAVA at the beginning — this is said to be the Pāśupata (Weapon). Supreme, it consists of seven and a half syllables. The form of the mantra of the Weapon taught in the MV is BHAVA ŚLĪM, PAŚU HŪM PHAT, which consists, as the MV says, of seven and a half syllables (PHAT is one and a half). See below 30/41cd, where it is given in full. Abhinava has, for some reason, substituted BHAVA with OM and reckoned PHAT to be just one syllable. This mantra recurs elsewhere, see, for example, the Rauravāgama Kriyāpāda, \\/10.
 
 
 *[p. 32]* ^pg50
+
+### TĀ 30.42–43
 
 The Guardians of the Quarters and their Weapons 
 
 लरटक्षवयैरदर्धिः समयुक्तैः सबिन्दुकैः इनद्रादयस्तदखराणि हस्वैरविष्णुप्रजापती ॥ ४२॥
 समृतौ तुरयद्रितीयाभ्यां हस्वाभ्यां पदाचक्रके
 
-laraṭakṣavayair dīrghaih samayuktaih sabindukaih |
+laraṭakṣavayair dīrghaiḥ samayuktaiḥ sabindukaiḥ |
 indrādayas tadastrāṇi hrasvair viṣnuprajāpatfī || 42 ॥
-smrtau turyadvitīyābhyāri hrasvābhyāṁ padmacakrake | 
+smṛtau turyadvitīyābhyāri hrasvābhyāṁ padmacakrake | 
 
 (The mantras of the Guards of the Quarters), beginning with Indra (are formed, respectively) with (the consonants) L R T \[illegible\] V Y along with S M (conjoined) with (the six) long (vowels Ā Ī Ū AI AU AH), (as well as Ū and Ā for the last two, and all of which have a final) Point (M). 
 
 Their weapons are (formed with the corresponding) short (vowels). (The mantras of) Viṣṇu and Prajāpati are said to be (formed) with the fourth and second (vowels, i.e. Ī and Ā) (and their two weapons), the lotus and discus, by the two (corresponding) short (vowels, i.e. I and A). (42- 43ab) 
 
+#### Viveka on 30.42–43
+
 (The six) long (vowels) are the group of six long (vowels) mentioned earlier. The letters S and M of Kubera and Iśāna (who are the guardians of the 
 
-101\. 30/42-43ab is paraphrase of MV 3/66-67 (3/67 is quoted below ad 30/60-64ab): ‘The skilful (adept) should fashion (the mantras of) Indra and the other (guardians of the quarters) with (the phonemes) L R T 155 V Y, along with S and M (conjoined) with (the six) long (vowels Ā Ī Ū AI AU AH) and (a final) Point (M), and their weapons with short (vowels). Viṣṇu and Prajāpati should be conceived in the same way, with the Nose () and the Milk (Ã). The first and third vowel (A, I) denote (their weapons,) the lotus and the discus.” The guardians of the quarters are a standard set common to all schools. They have already been mentioned above (6/68cd-72ab and note; 15/222cd-225ab). They are Indra (E), Agni (SE), Yama (S), Nirrti (SW), Varuna (W), Vāyu (NW), Kubera (N), Isāna (NE), Brahmā (Zenith), Viṣnu (Nadir). Their weapons (ayudha) are respectively, a thunder bolt, (vajra), lance (Sakti), staff (danda), sword (khadga), noose (pāśa), banner (dhvaja), club (gadā), trident (trisūla), lotus (padma), and discus (cakra). The mantras of the weapons are formed in the same way, substituting for the long phonemes the corresponding short phonemes A, I, U, E, O, AM, U, A, À, and I. Thus, their mantras are as follows: OM LĀM INDRĀYA NAMAH OM LAM VAJRĀYA NAMAH (E) OM RĪM AGNAYE NAMAH OM RIM ŚAKTAYE NAMAH (SE) OM TŪM YAMĀYA NAMAH OM TUM DAṆNDĀYA NAMAH (S) OM K\$AIM NIRRTAYE NAMAH OM K\$EM KHADGĀYA NAMAH (SW) OM VAUM VARUNĀYA NAMAH OM VOM PĀŚĀYA NAMAH (W) OM YAH VĀYAVE NAMAH OM YAM DHVAJĀYA NAMAH (NW) OM SŪM KUBERAYA NAMAH OM SUM GADĀYAI NAMAH (N) OM MĀM ĪŚĀNĀYA NAMAH OM MAM TRIŚŪLĀYA NAMAH (NE) OM ĀM PRAJĀPATAYE NAMAH OM AM PADMĀYA NAMAH (zenith)
+101\. 30/42-43ab is paraphrase of MV 3/66-67 (3/67 is quoted below ad 30/60-64ab): ‘The skilful (adept) should fashion (the mantras of) Indra and the other (guardians of the quarters) with (the phonemes) L R T 155 V Y, along with S and M (conjoined) with (the six) long (vowels Ā Ī Ū AI AU AH) and (a final) Point (M), and their weapons with short (vowels). Viṣṇu and Prajāpati should be conceived in the same way, with the Nose () and the Milk (Ā). The first and third vowel (A, I) denote (their weapons,) the lotus and the discus.” The guardians of the quarters are a standard set common to all schools. They have already been mentioned above (6/68cd-72ab and note; 15/222cd-225ab). They are Indra (E), Agni (SE), Yama (S), Nirrti (SW), Varuna (W), Vāyu (NW), Kubera (N), Isāna (NE), Brahmā (Zenith), Viṣnu (Nadir). Their weapons (ayudha) are respectively, a thunder bolt, (vajra), lance (Sakti), staff (danda), sword (khadga), noose (pāśa), banner (dhvaja), club (gadā), trident (trisūla), lotus (padma), and discus (cakra). The mantras of the weapons are formed in the same way, substituting for the long phonemes the corresponding short phonemes A, I, U, E, O, AM, U, A, À, and I. Thus, their mantras are as follows: OM LĀM INDRĀYA NAMAH OM LAM VAJRĀYA NAMAH (E) OM RĪṀ AGNAYE NAMAH OM RIM ŚAKTAYE NAMAH (SE) OM TŪM YAMĀYA NAMAH OM TUM DAṆNDĀYA NAMAH (S) OM KṢAIM NIRRTAYE NAMAH OM KṢEM KHADGĀYA NAMAH (SW) OM VAUM VARUNĀYA NAMAH OM VOM PĀŚĀYA NAMAH (W) OM YAH VĀYAVE NAMAH OM YAM DHVAJĀYA NAMAH (NW) OM SŪM KUBERAYA NAMAH OM SUM GADĀYAI NAMAH (N) OM MĀM ĪŚĀNĀYA NAMAH OM MAM TRIŚŪLĀYA NAMAH (NE) OM ĀM PRAJĀPATAYE NAMAH OM AM PADMĀYA NAMAH (zenith)
 
 102\. IM CAKRĀYA NAMAH (nadir) Concerning the nature and characteristics of the Guardians of the Quarters, see Mallmann 1963: 118-137, and for the weapons, ibid. pp. 244-255.

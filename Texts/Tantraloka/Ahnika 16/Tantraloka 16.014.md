@@ -34,6 +34,9 @@ vāme triśūle madhyastho navātmāparayā saha || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 5–10)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.12–15]]
+
 > मध्यशूले मध्यगः स्यात्सद्भावः परया सह ॥
 > वामे चापरया साकं नवात्मा दक्षगं परम् ।
 > त्रिशूले दक्षिणे मध्यशृङ्गस्थो रतिशेखरः ॥

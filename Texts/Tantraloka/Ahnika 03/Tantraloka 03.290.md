@@ -37,6 +37,11 @@ parānugrahakāritvamatrasthasya sphuṭaṃ sthitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 408–409)
+> ![[Tantraloka Dyczkowski v02 12 - Chapter Three, part 9#Viveka on 3.289–290]]
+>
+> ![[Tantraloka Dyczkowski v02 12 - Chapter Three, part 9#Viveka on 3.290–291]]
+
 *Lead-in:* ननु यद्यत्र भिन्नमुपायजातं नोपयुक्तं तदेतदुपायाविष्टः कथं नामाचार्यः परानुग्रहं कुर्यात् ? -- इत्याशङ्क्याह --
 
 > परानुग्रहकारित्वमत्रस्थस्य स्फुटं स्थितम् ॥

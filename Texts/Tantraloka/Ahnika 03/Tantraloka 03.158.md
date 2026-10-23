@@ -35,6 +35,9 @@ icchādyantargatvena svasamāptau ca saṃsthiteḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 275–276)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.158]]
+
 *Lead-in:* अत्र चान्तःस्थशब्दस्य प्रवृत्तौ निमित्तं दर्शयति --
 
 > इदं चतुष्कमन्तःस्थमत एव निगद्यते ।

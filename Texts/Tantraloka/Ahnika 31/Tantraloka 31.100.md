@@ -33,6 +33,11 @@ atha traiśirase śūlābjavidhirdṛṣṭo'bhilikhyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 109)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.100]]
+>
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.100 (2)]]
+
 *Lead-in:* एवमेतत्प्रसङ्गादभिधाय प्रकृतमेव उपसंहरति--
 
 > एष यागः समाख्यातो डामराख्यस्त्रिशक्तिकः ।

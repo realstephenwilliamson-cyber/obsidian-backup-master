@@ -31,5 +31,8 @@ ajñānena sahaikatvaṃ kasyacidvinivartate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 248–249)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.199–203]]
+
 Jayaratha comments on this verse together with 13.203: see [[Tantraloka 13.203#Viveka|13.203]].
 

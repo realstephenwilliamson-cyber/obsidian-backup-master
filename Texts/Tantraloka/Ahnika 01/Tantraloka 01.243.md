@@ -34,6 +34,9 @@ api durlabhasadbhāvaṃ śrīsiddhātantra ucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 416–417)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.243–245]]
+
 *Lead-in:* एतच्च न स्वोपज्ञम् अपि तु सर्वत्रैव आगमेषु उक्तम् -- इत्याह --
 
 Jayaratha comments on this verse together with 1.244: see [[Tantraloka 01.244#Viveka|1.244]].

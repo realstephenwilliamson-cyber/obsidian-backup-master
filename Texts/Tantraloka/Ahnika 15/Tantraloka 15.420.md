@@ -34,6 +34,11 @@ sati vitte'pi lobhādigrasto bāhyapradhānatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 260–261)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.418–420]]
+>
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.420–421]]
+
 *Lead-in:* ननु यदि शतिकेनैव होमेन तर्पणं सिध्येत्, तत् किं वित्तक्षयकारिणा सहस्रादिकेन?--इत्याशङ्क्य आह--
 
 > सति वित्तेऽपि लोभादिग्रस्तो बाह्यप्रधानताम् ॥

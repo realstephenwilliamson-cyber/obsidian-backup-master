@@ -35,6 +35,9 @@ dvādaśakaṃ dvādaśakaṃ tattvopari pūrvavattvanyat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 99–100)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.230]]
+
 > देहशुद्धर्थमप्येतत्तुल्यमेतेन वस्तुतः ॥
 > अन्यप्रकरणोक्तं यद्युक्तं प्रकरणान्तरे ।
 > ज्ञापकत्वेन साक्षाद्वा तत्किं नान्यत्र गृह्यते ॥

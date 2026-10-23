@@ -36,6 +36,11 @@ ata eva tathābhānaparamārthatayā sthiteḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 43–44)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.38–39]]
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.39–40]]
+
 *Lead-in:* ततश्चास्य लोकशास्त्रादावनेकप्रकारं वैचित्र्यम्, -- इत्याह --
 
 > अत एव तथाभानपरमार्थतया स्थितेः ॥

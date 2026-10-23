@@ -33,6 +33,11 @@ cidaṇūnāmāvaraṇaṃ kiñcidvācyaṃ vipaścitā |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 149–151)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.43–44]]
+>
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.44–45]]
+
 *Lead-in:* तच्च कीदृक् -- इत्याह --
 
 > आवारणात्मना सिद्धं तत्स्वरूपादभेदवत् ॥

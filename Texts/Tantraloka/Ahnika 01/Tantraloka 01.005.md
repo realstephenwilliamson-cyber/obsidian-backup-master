@@ -39,6 +39,9 @@ anuttaraṃ me prathayatsvarūpam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 45–49)
+> ![[Tantraloka Dyczkowski v01 03 - Chapter One, part 2#Viveka on 1.5]]
+
 *Lead-in:* इदानीमपरमपि त्रिकं पराम्रष्टुमाह --
 
 > स्वातन्त्र्यशक्तिः क्रमसंसिसृक्षा

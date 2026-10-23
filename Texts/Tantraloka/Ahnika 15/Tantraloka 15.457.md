@@ -32,6 +32,9 @@ taṃ śiṣyasya karaṃ mūrdhni dehanyastādhvasaṃtateḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 281)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.456–458]]
+
 > ततः स दक्षिणे हस्ते दीप्तं सर्वाध्वपूरितम् ॥
 > मन्त्रचक्रं यजेद्वामपाणिना पाशदाहकम् ।
 > तं शिष्यस्य करं मूर्घ्नि देहन्यस्ताध्वसंततेः ॥

@@ -31,5 +31,8 @@ uktaṃ ca śrīmadānande karma saṃśritya bhāvataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 341)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.353–355]]
+
 Jayaratha comments on this verse together with 13.353: see [[Tantraloka 13.353#Viveka|13.353]].
 

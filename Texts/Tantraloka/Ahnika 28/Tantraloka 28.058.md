@@ -33,6 +33,11 @@ na ca kāmyameva kevalametatparivarjane yataḥ kathitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 33–34)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.57–58]]
+>
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.58–59]]
+
 *Lead-in:* ननु काम्यमेव केवलमधिकृत्य यदि यागोऽभिप्रेतः, तदिह नैमित्तिकप्रकरणेऽपि अवश्यन्तया तद्योगः कस्मादुक्तः ?-- इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 28.57: see [[Tantraloka 28.057#Viveka|28.57]].

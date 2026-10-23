@@ -34,6 +34,9 @@ mṛtasya guruṇā yantratantrādinihatasya vā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 247–250)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.6–9]]
+
 > गुरुसेवाक्षीणतनोर्दीक्षामप्राप्य पञ्चताम् ।
 > गतस्याथ स्वयं मृत्युक्षणोदिततथारुचेः ॥
 > अथवाधरतन्त्रादिदीक्षासंस्कारभागिनः ।

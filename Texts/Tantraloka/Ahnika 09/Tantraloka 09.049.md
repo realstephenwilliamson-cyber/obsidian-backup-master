@@ -33,6 +33,11 @@ aliases:
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 56–57)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.48–49]]
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.49–50]]
+
 *Lead-in:* तदेवाह -
 
 > शिवः स्वतन्त्रदृग्रूपः पञ्चशक्तिसुनिर्भरः ॥

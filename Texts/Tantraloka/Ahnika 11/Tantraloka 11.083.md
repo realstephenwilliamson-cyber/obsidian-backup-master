@@ -37,6 +37,11 @@ ekena vapuṣā śuddhau tatraivānyaprakāratām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 74)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.82–83]]
+>
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.83–84]]
+
 *Lead-in:* ननु यद्येवं तत्प्रतिदीक्ष्यं साक्षात्षड्वधोऽप्यध्वा किं शोध्य उत न? -- इत्याशङ्क्याह --
 
 > एकेन वपुषा शुद्धौ तत्रैवान्यप्रकारताम् ॥

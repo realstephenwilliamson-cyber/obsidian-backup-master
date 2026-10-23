@@ -33,6 +33,11 @@ mananatrāṇadaṃ yattu mantrākhyaṃ tatra vidyayā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 234–236)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.18–19]]
+>
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.19–22]]
+
 *Lead-in:* एतदेव क्रमेण व्याचष्टे--
 
 Jayaratha comments on this verse together with 37.18: see [[Tantraloka 37.018#Viveka|37.18]].

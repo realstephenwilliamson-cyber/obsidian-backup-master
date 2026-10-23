@@ -31,6 +31,9 @@ saṃskārāntaramatrāpi tathā liṅgoddhṛtādikam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 209)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.28]]
+
 *Lead-in:* ननु यदि एवं शैवबौद्धादिरेव आगमः, तत् बौद्धादिशास्त्रवर्तिनां शिवशास्त्रौन्मुख्ये कस्मात् लिङ्गोद्धारादि संस्कारान्तरमपि उक्तम्?--इत्याशङ्कां दृष्टान्तोपदर्शनेन उपशमयति--
 
 > यथैकत्रापि वेदादौ तत्तदाश्रमगामिनः ।

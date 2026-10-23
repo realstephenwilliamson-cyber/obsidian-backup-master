@@ -34,6 +34,9 @@ sāṇḍaḥ ṣaḍadhvarūpastathetikartavyatā caturbhedā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 82)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.187–189]]
+
 *Lead-in:* एवमुक्तान्मुख्यभेदान् सङ्कलयन् भेदान्तराण्यप्यत्र सन्ति--इत्याह--
 
 Jayaratha comments on this verse together with 16.189: see [[Tantraloka 16.189#Viveka|16.189]].

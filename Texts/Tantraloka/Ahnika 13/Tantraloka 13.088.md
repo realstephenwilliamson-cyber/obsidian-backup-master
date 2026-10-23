@@ -31,6 +31,9 @@ udāsāte yadi tataḥ karmaitatpratibudhyatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 179)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.88–89]]
+
 *Lead-in:* ननु आस्तामेतत्, अभ्युपगम्यापि मलं कर्मसाम्यं न सङ्गच्छते -- इत्याह --
 
 > विरोधे स्वफले चैते कर्मणी समये क्वचित् ।

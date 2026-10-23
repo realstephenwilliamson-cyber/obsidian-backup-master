@@ -37,6 +37,11 @@ yadaikyāpattimāsādya tadicchā kṛtinī bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 186–188)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.83–84]]
+>
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.84–85]]
+
 *Lead-in:* एवं बीजस्वरूपमभिधाय योनिस्वरूपमाह --
 
 > यदैक्यापत्तिमासाद्य तदिच्छा कृतिनी भवेत् ॥

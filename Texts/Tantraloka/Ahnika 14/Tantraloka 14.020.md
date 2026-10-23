@@ -31,6 +31,9 @@ paradvāreṇa vā'bhyeti bhūyo'nugrahamapyalam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 355)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.20]]
+
 *Lead-in:* एवं तिरोभावस्य स्वरूपमभिधाय, तद्व्यपगममप्यासूत्रयति --
 
 > स्वातन्त्र्याच्च महेशस्य तिरोभूतोऽप्यसौ स्वयम् ।

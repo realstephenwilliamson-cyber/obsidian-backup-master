@@ -36,6 +36,13 @@ sthūlo varṇodayaḥ so'yaṃ purā sūkṣmo nigadyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 448–455)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.251]]
+>
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.251 (2)]]
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 6.251 (continued)]]
+
 *Lead-in:* एतदेवोपसंहरति --
 
 > स्थूलो वर्णोदयः सोऽयं पुरा सूक्ष्मो निगद्यते ।

@@ -31,6 +31,9 @@ sūte kalā hi yugapattato'vyaktamiti sthitiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 206–207)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.217]]
+
 > श्रीमद्रौरवादौ रागविद्यात्मकं द्वयम् ।
 > सूते कला हि युगपत्ततोऽव्यक्तमिति स्थितिः ॥
 

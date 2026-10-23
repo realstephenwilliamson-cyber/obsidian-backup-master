@@ -36,6 +36,11 @@ yattu sarvāvibhāgātma svatantraṃ bodhasundaram || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 13–15)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.21]]
+>
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.21–22]]
+
 *Lead-in:* नन्वेवं विश्वोत्तीर्णमेव षट्त्रिंशं तत्त्वमित्युक्तं भवेत्, ततश्च स्वतन्त्रबोधैकरूपम् विश्वमयं परं तत्त्वमिति रिक्ता वाचोयुक्तिः स्यात् ? -- इत्याशङ्क्याह --
 
 > यत्तु सर्वाविभागात्म स्वतन्त्रं बोधसुन्दरम् ॥

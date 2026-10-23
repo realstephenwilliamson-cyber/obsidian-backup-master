@@ -34,6 +34,9 @@ tatra svatantratāmātramadhikaṃ pravivicyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 65–66)
+> ![[Tantraloka Dyczkowski v02 04 - Chapter Three, part 1#Viveka on 3.1]]
+
 *Lead-in:* ननु यदि नाम परोपायस्यापि अनुत्तरमेव रूपं तत्पूर्वेणैव गतार्थत्वात् किमर्थमिदमाह्निकान्तरमारभ्यते ? इत्याह—
 
 > प्रकाशमात्रं यत्प्रोक्तं भैरवीयं परं महः ।

@@ -31,5 +31,8 @@ puṣpairhanyādyojayecca pare mantrābhidho vidhiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 394–395)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.255–256]]
+
 Jayaratha comments on this verse together with 29.271: see [[Tantraloka 29.271#Viveka|29.271]].
 

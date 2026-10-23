@@ -37,6 +37,11 @@ iyaṃ parāparā devī ghorāṃ yā mātṛmaṇḍalīm || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 170–172)
+> ![[Tantraloka Dyczkowski v02 06 - Chapter Three, part 3#Viveka on 3.73–74]]
+>
+> ![[Tantraloka Dyczkowski v02 06 - Chapter Three, part 3#Viveka on 3.74–75]]
+
 *Lead-in:* एतदेव स्वदर्शनभङ्ग्या योजयति --
 
 > इयं परापरा देवी घोरां या मातृमण्डलीम् ॥

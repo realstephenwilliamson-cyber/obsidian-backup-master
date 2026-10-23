@@ -31,6 +31,9 @@ ullaṅghanavaśādvāpi jhaṭityakramameva vā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 309–311)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.300–301]]
+
 > क्रमिकः शक्तिपातश्च सिद्धान्ते वामके ततः ॥
 > दक्षे मते कुले कौले षडर्धे हृदये ततः ।
 > उल्लङ्घनवशाद्वापि झटित्यक्रममेव वा ॥

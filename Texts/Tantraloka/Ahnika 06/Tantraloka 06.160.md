@@ -35,5 +35,8 @@ sādāśivaṃ dinaṃ rātrirmahāpralaya eva ca || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 376–377)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.160–161]]
+
 Jayaratha comments on this verse together with 6.165: see [[Tantraloka 06.165#Viveka|6.165]].
 

@@ -33,6 +33,11 @@ mantramudrādhvadravyāṇāṃ home sādhāraṇā sthitiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 17–18)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.21–22]]
+>
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.22–23]]
+
 *Lead-in:* ननु मन्त्रादिभेदादपि तद्भेदोऽस्तु?--इत्याशङ्क्य आह--
 
 > मन्त्रमुद्राध्वद्रव्याणां होमे साधारणा स्थितिः ॥

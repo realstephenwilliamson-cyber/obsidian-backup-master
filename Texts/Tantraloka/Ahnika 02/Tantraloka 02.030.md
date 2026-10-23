@@ -37,6 +37,11 @@ viśvasya jīvitaṃ satyaṃ prakāśaikātmakaśca saḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 37–38)
+> ![[Tantraloka Dyczkowski v02 03 - Chapter Two, part 2#Viveka on 2.30]]
+>
+> ![[Tantraloka Dyczkowski v02 03 - Chapter Two, part 2#Viveka on 2.30 (2)]]
+
 *Lead-in:* एवं तर्ह्यसच्छब्दव्यवहार्यो भवेत् ? -- इत्याशङ्क्याह --
 
 > असत्त्वं चाप्रकाशत्वं न कुत्राप्युपयोगिता ।

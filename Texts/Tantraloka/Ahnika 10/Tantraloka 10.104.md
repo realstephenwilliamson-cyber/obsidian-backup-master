@@ -31,6 +31,9 @@ pramātṛtājuṣaḥ proktā dhāraṇā vijayottare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 362–364)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.103–104]]
+
 > स्थूलावृतादिसङ्कोचतदन्यव्याप्तृताजुषः ।
 > पीताद्याः स्थिरकम्प्रत्वाच्चतुर्दश धरादिषु ॥
 > स्वरूपीभूतजडताः प्राणदेहपथे ततः ।

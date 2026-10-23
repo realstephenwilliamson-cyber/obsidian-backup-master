@@ -33,6 +33,11 @@ bhuvanaṃ pṛthagevātra darśitaṃ guṇabhedataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 211–213)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.223–224]]
+>
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.224]]
+
 *Lead-in:* अत्र च ग्रन्थिवत् भुवनविभागोऽपि पूर्वमेव दर्शितः -- इत्याह --
 
 > भुवनं पृथगेवात्र दर्शितं गुणभेदतः ॥

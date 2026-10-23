@@ -34,6 +34,9 @@ karaṇapavanairnāḍīcakraistathaiva samāgatairnijanijarasādekībhāvyaṃ 
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 263)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.27]]
+
 > करणपवनैर्नाडीचक्रैस्तथैव समागतैर्निजनिजरसादेकीभाव्यं स्वजालवशीकृतैः ॥
 
 यथाहि चिरं विश्लिष्टेऽपि कटकद्वये पुनः सङ्घटिते हयादयो हयादिभिरेव निजनिजानुगुण्येन सङ्घटन्ते, तथैव जालप्रयोगमहिम्ना गौरवाः प्राणाद्याः पाशवैः प्रणाद्यैरेव-- इति पिण्डार्थः ॥ २७ ॥

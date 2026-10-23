@@ -37,6 +37,11 @@ eṣāṃ yatprathamaṃ rūpaṃ hrasvaṃ tatsūrya ucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 237–239)
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.130–131]]
+>
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.131–133]]
+
 *Lead-in:* ननु वाच्यात्मविश्वावभासदशायामेवमास्तां वाचकात्मविश्वावभासे पुनः सोमसूर्याग्नीनां रूपमेव किं नामोक्तं यदवभासनेनास्य प्रकाशतत्त्वस्य न स्वस्वरूपापोहः -- इति चिन्तापि स्यात् ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 3.130: see [[Tantraloka 03.130#Viveka|3.130]].

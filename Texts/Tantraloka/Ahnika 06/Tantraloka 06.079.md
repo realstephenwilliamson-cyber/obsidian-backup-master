@@ -36,6 +36,11 @@ yāvatyeva hi saṃvittiruditoditasusphuṭā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 305–307)
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.78–79]]
+>
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.79–80]]
+
 *Lead-in:* अत एवाह --
 
 > यावत्येव हि संवित्तिरुदितोदितसुस्फुटा ॥

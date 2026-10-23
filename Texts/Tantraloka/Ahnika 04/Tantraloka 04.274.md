@@ -36,6 +36,11 @@ samatā sarvadevānāmovallīmantravarṇayoḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 379–380)
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.273–274]]
+>
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.274–275]]
+
 *Lead-in:* तत्रत्यमेव ग्रन्थं पठति --
 
 > समता सर्वदेवानामोवल्लीमन्त्रवर्णयोः ॥

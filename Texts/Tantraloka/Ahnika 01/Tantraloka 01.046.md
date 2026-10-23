@@ -34,6 +34,11 @@ mataṅgādau kṛtaṃ śrīmatkheṭapālādidaiśikaiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 163–164)
+> ![[Tantraloka Dyczkowski v01 05 - Chapter One, part 4#Viveka on 1.46]]
+>
+> ![[Tantraloka Dyczkowski v01 06 - Chapter One, part 5#Viveka on 1.46 (continued)]]
+
 *Lead-in:* न चैतदस्मदुपज्ञमेव -- इत्याह --
 
 > ज्ञानाज्ञानागतं चैतद् द्वित्वं स्वायम्भुवे रुरौ ।

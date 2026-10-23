@@ -33,6 +33,11 @@ ye siddhimāptukāmāste'bhyuditaṃ rūpamāhareyuratho || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 317–318)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.126–127]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.127–128]]
+
 *Lead-in:* एवमेतत् मुमुक्षुविषयमभिधाय, बुभुक्षुविषयमपि आह--
 
 > ये सिद्धिमाप्तुकामास्तेऽभ्युदितं रूपमाहरेयुरथो ॥

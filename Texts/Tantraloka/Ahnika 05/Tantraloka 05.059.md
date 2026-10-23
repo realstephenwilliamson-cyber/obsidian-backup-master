@@ -34,6 +34,9 @@ tadvanmuhurlīnasṛṣṭabhāvavrātasunirbharām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 65–67)
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.58–60]]
+
 > रासभी वडवा यद्वत्स्वधामानन्दमन्दिरम् ॥
 > विकाससङ्कोचमयं प्रविश्य हृदि हृष्यति ।
 > तद्वन्मुहुर्लीनसृष्टभावव्रातसुनिर्भराम् ॥

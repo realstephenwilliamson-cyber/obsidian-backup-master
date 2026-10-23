@@ -37,5 +37,12 @@ jalatejaḥsamīranabho'haṃkṛddhīmūlasaptake pratyekam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 376–378)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.407–408]]
+>
+> ![[Tantraloka Dyczkowski v05 11 - Chapter Eight, part 9#Viveka on 8.407–408 (continued)]]
+>
+> ![[Tantraloka Dyczkowski v05 11 - Chapter Eight, part 9#Viveka on 8.408–411]]
+
 Jayaratha comments on this verse together with 8.416: see [[Tantraloka 08.416#Viveka|8.416]].
 

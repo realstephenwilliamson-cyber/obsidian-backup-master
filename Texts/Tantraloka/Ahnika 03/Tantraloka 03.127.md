@@ -37,6 +37,11 @@ tasyāṃ daśāyāṃ jñātṛtvamucyate yogyatāvaśāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 234–235)
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.126–127]]
+>
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.127–128]]
+
 *Lead-in:* ननु यद्येवं तर्हि कथमस्य सर्वत्रैव ज्ञातृत्वमुच्यमानमपह्नूयताम् ? -- इत्याशङ्क्याह --
 
 > तस्यां दशायां ज्ञातृत्वमुच्यते योग्यतावशात् ॥

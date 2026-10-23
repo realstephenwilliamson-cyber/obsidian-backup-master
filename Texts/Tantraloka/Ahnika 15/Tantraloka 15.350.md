@@ -33,6 +33,11 @@ bahavo dharmāstasmād yo dharmastāvato dharmān || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 216–217)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.350]]
+>
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.350–351]]
+
 *Lead-in:* ननु प्रकाशमात्रस्यैव पूज्यत्वमस्तु, किं विमर्शरूपतया?-- इत्याशङ्क्य आह--
 
 > अविकल्पमिह न याति हि पूज्यत्वं.......

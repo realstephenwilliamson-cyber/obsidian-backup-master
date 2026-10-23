@@ -35,6 +35,11 @@ yathārke meṣage rāhāvaśvinīsthe'śvinīdine || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 332)
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.105]]
+>
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.105 (continued)]]
+
 *Lead-in:* नन्वयं सूर्यादीनां सङ्घट्टः किं प्रतिपदमावस्यासंभेद एव भवेदुतान्यथापि? -- इत्याशङ्क्याह --
 
 > अमावस्यां विनाप्येष सङ्घट्टश्चेन्महाग्रहः ।

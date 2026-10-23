@@ -79,11 +79,11 @@ This influence and illumination which man, by means of his occupation with the T
 This is the meaning of the text, “The L–rd is close to all that call upon Him; to all who call upon Him in truth,”[^29] and “‘Truth’ applies only to the Torah.”[^30] The meaning is thus rendered in the sense of calling to the Holy One, blessed is He, specifically through the Torah. It is different, however, when one does not call Him through occupation in the Torah, but merely cries: “Father! Father!” as the prophet laments over him, “And no one calls in Your name…,”[^31] as is explained elsewhere. The intelligent person should ponder on this in order to inculcate into himself a great reverence at the time of his occupation with the Torah, as has been previously explained [ch. 23].
 
 [^1]: See *Avot* 4:2.
-[^2]: *Shabbat* 28b; 108a.
-[^3]: *Berachot* 20b. *Shulchan Aruch*, *Orach Chaim* 62:3.
-[^4]: *Bava Metzia* 90b; *Sanhedrin* 65a.
+[^2]: [[Shabbat 28#28b|*Shabbat* 28b]]; 108a.
+[^3]: [[Berakhot 20#20b|*Berachot* 20b]]. *Shulchan Aruch*, *Orach Chaim* 62:3.
+[^4]: [[Bava Metzia 90#90b|*Bava Metzia* 90b]]; [[Sanhedrin 65#65a|*Sanhedrin* 65a]].
 [^5]: [[Psalms 035#^35-10|Psalms 35:10]].
-[^6]: *Eruvin* 54a.
+[^6]: [[Eruvin 54#54a|*Eruvin* 54a]].
 [^7]: *Zohar* [[Zohar 3.05 - Parashat Mi-Qets#^z1-193b|I:193b]]; *Pardes*, s.v. *Shikchah*; Rabbi Chaim Vital, *Shaar Hamitzvot*, beg. of *Va’etchanan*.
 [^8]: [[Zechariah 13#^13-2|Zechariah 13:2]].
 [^9]: See above, ch. 18, note 3.
@@ -93,7 +93,7 @@ This is the meaning of the text, “The L–rd is close to all that call upon Hi
 [^13]: Cf. [[Isaiah 52#^52-8|Isaiah 52:8]].
 [^14]: [[Torah 45 - Vaetchanan#^4-35|Deuteronomy 4:35]].
 [^15]: Cf. *Rashi*, [[Torah 01 - Bereshit#^1-1|Genesis 1:1]].
-[^16]: *Bava Batra* 9a.
+[^16]: [[Bava Batra 9#9a|*Bava Batra* 9a]].
 [^17]: Ibid.
 [^18]: Ibid., 10a.
 [^19]: Mishnah, *Peah* 1:1.
@@ -101,10 +101,10 @@ This is the meaning of the text, “The L–rd is close to all that call upon Hi
 [^21]: Ch. 4.
 [^22]: *Avot* 1:17.
 [^23]: [[Torah 45 - Vaetchanan#^7-11|Deuteronomy 7:11]].
-[^24]: *Moed Kattan* 9b.
+[^24]: [[Moed Katan 9#9b|*Moed Kattan* 9b]].
 [^25]: [[Ecclesiastes 12#^12-13|Ecclesiastes 12:13]].
-[^26]: *Moed Kattan* 9b.
-[^27]: *Pesachim* 68b.
+[^26]: [[Moed Katan 9#9b|*Moed Kattan* 9b]].
+[^27]: [[Pesachim 68#68b|*Pesachim* 68b]].
 [^28]: Chs. 41, 52.
 [^29]: [[Psalms 145#^145-18|Psalms 145:18]]. The word באמת is here translated not as an adverb (i.e., “truthfully”), but as a noun—instrument—“by means of (that which is) Truth,” namely, the Torah.
 [^30]: *Tanna Dvei Eliyahu Zuta*, ch. 21.

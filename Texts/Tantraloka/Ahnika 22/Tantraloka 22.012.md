@@ -33,6 +33,11 @@ atha vaiṣṇavabauddhāditantrāntādharavartinām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 280–282)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.10–12]]
+>
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.12–14]]
+
 *Lead-in:* एवमस्य आयातशक्तिपातस्य किं कार्यम्?--इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 22.11: see [[Tantraloka 22.011#Viveka|22.11]].

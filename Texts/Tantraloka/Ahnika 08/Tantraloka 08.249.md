@@ -35,5 +35,8 @@ vāmādyekaśivāntāste kuṅkumābhāḥ sutejasaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 262–263)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.249–251]]
+
 Jayaratha comments on this verse together with 8.250: see [[Tantraloka 08.250#Viveka|8.250]].
 

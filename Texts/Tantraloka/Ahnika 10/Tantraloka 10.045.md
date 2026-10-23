@@ -33,6 +33,11 @@ astu cedbhāsate tarhi sa eva patadadrivat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 322–324)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.45]]
+>
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.45 (2)]]
+
 *Lead-in:* एतदेव प्रकृते योजयति --
 
 > अर्थे प्रकाशना सेयमुपचारस्ततो भवेत् ।

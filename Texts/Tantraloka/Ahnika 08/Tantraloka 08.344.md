@@ -35,6 +35,9 @@ tannāyakā ime tena vidyeśāścakravartinaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 336)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.344]]
+
 *Lead-in:* एषां च विद्येश्वरत्वाभिधाने किं निमित्तम् ? -- इत्याशङ्क्याह --
 
 > मुख्यमन्त्रेश्वराणां यत् सार्धं कोटित्रयं स्थितम् ।

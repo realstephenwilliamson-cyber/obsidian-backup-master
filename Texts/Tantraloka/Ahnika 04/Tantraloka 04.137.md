@@ -36,6 +36,11 @@ pañcāre savikāro'tha bhūtvā somasrutāmṛtāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 183–186)
+> ![[Tantraloka Dyczkowski v03 06 - Chapter Four, part 5#Viveka on 4.136–137]]
+>
+> ![[Tantraloka Dyczkowski v03 06 - Chapter Four, part 5#Viveka on 4.137–138]]
+
 *Lead-in:* एवमस्य प्रसङ्गापतितं संहारकारित्वमभिधाय प्रकृतमेवानुबध्नाति --
 
 > पञ्चारे सविकारोऽथ भूत्वा सोमस्रुतामृतात् ॥

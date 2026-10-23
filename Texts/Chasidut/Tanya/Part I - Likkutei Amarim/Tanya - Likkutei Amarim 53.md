@@ -38,9 +38,9 @@ CONCLUSION OF THE FIRST PART WITH THE HELP OF G-D, MAY HE BE BLESSED AND EXALTED
 
 [^1]: *Zohar* [[Zohar 4.07 - Parashat Yitro#^z2-85a|II:85a]]; [[Zohar 5.04 - Sava de-Mishpatim#^z2-121a|121a]].
 [^2]: [[Torah 21 - Ki Tisa#^32-16|Exodus 32:16]].
-[^3]: *Yoma* 21b.
+[^3]: [[Yoma 21#21b|*Yoma* 21b]].
 [^4]: Ibid. 96.
-[^5]: *Berachot* 6a.
+[^5]: [[Berakhot 6#6a|*Berachot* 6a]].
 [^6]: Ibid.
 [^7]: [[Proverbs 03#^3-19|Proverbs 3:19]].
 [^8]: *Zohar* [[Zohar 9.11 - Parashat Pinehas#^z3-248a|III:248a]]; 256b.

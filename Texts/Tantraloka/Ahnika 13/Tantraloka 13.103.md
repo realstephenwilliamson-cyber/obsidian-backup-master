@@ -31,6 +31,9 @@ rūpapracchādanakrīḍāyogādaṇuranekakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 187)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.103]]
+
 *Lead-in:* तदेव प्रकटयति -
 
 > देवः स्वतन्त्रश्चिद्रूपः प्रकाशात्मा स्वभावतः ।

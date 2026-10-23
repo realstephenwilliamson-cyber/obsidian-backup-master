@@ -32,6 +32,9 @@ nāma niṣkrāmaṇaṃ cānnaprāśaścūḍā tathāṣṭamī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 307–308)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.498–505]]
+
 *Lead-in:* तानेव आह--
 
 Jayaratha comments on this verse together with 15.505: see [[Tantraloka 15.505#Viveka|15.505]].

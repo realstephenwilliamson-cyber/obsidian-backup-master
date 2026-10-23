@@ -31,6 +31,9 @@ itthaṃ bhrāntiviṣāveśamūrcchānirmokadāyinīm |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 186–187)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.102]]
+
 *Lead-in:* एवं शक्तिपातविधौ परकीयमतमनुवादपुरःसरं निराकृत्य, स्वमतं दर्शयितुमाह --
 
 > इत्थं भ्रन्तिविषावेशमूर्च्छानिर्मोकदायिनीम् ।

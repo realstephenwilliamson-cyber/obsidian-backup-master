@@ -31,6 +31,9 @@ upaviśya nijasthāne dehaśuddhiṃ samācaret || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 139–141)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.232]]
+
 *Lead-in:* ननु एवमुपविश्य किं कुर्यात्?--इत्याशङ्क्य आह--
 
 > उपविश्य निजस्थाने देहशुद्धिं समाचरेत् ॥

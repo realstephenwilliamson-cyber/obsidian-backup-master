@@ -33,6 +33,11 @@ tenātidurghaṭaghaṭāsvatantrecchāvaśādayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 162–163)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.271–272]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.272–273]]
+
 *Lead-in:* यदि हि एवं न भवेत्, तत् देहादिप्रमातारोऽपि कथं न शिवात्मना प्रस्फुरेयुः--इत्याह--
 
 > तेनातिदुर्घटघटास्वतन्त्रेच्छावशादयम् ॥

@@ -34,6 +34,9 @@ saṃśleṣetarayogābhyāmayamarthaḥ pradarśitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 125–126)
+> ![[Tantraloka Dyczkowski v01 05 - Chapter One, part 4#Viveka on 1.27]]
+
 *Lead-in:* तत्र चैतत्कुत्र दर्शितम् ? इत्याशङ्क्याह --
 
 > चैतन्यमात्मा ज्ञानं च बन्ध इत्यत्र सूत्रयोः ।

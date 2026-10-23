@@ -34,6 +34,9 @@ prāṇaḥ kandātprabhṛtyeva tathāpyatra na susphuṭaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 261)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.49]]
+
 *Lead-in:* तत्र स्वारसिकः प्राणीयो यत्नः कन्दात्प्रभृत्येव संवेद्यते किंत्वस्फुटत्वेन -- इत्याह --
 
 > संवेद्यजीवनाभिख्यप्रयत्नस्पन्दसुन्दरः ।

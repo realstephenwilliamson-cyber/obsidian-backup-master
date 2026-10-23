@@ -33,6 +33,11 @@ sthānāntare'pi kathitaṃ śrīsiddhātantraśāsane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 92–93)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.54–58]]
+>
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.58]]
+
 *Lead-in:* न केवलमेतदत्रैव उक्तं यावदन्यत्रापि--इत्याह--
 
 > स्थानान्तरेऽपि कथितं श्रीसिद्धातन्त्रशासने ॥

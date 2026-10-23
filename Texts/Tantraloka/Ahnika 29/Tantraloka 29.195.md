@@ -31,6 +31,9 @@ anenaiva prayogeṇa carukaṃ grāhayedguruḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 356–357)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.192–195]]
+
 > उक्तं श्रीरत्नमालायां नाभिं दण्डेन संपुटम् ॥
 > वामभूषणजङ्घाभ्यां नितम्बेनाप्यलङ्कृतम् ।
 > शिष्यहस्ते पुष्पभृते चोदनास्त्रं तु योजयेत् ॥

@@ -34,6 +34,9 @@ anyatra neti buddhyantāmaśuddhaṃ saṃvidaścyutam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 337)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.240]]
+
 > मृतदेहेऽथ देहोत्थे या चाशुद्धिः प्रकीर्तिता ।
 > अन्यत्र नेति बुद्ध्यन्तामशुद्धं संविदश्च्युतम् ॥
 > संवित्तदात्म्यमापन्नं सवर्ंं शुद्धमतः स्थितम् ।

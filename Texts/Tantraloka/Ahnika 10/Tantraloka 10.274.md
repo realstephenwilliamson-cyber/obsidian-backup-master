@@ -31,6 +31,9 @@ pūrṇataunmukhyayogitvādviśvaṃ paśyati tanmayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 471)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.273–275]]
+
 > रूपकत्वादुदासीनाच्च्युतेयं पूर्णतोन्मुखी ॥
 > दशा तस्यां समापत्ती रूपातीतं तु योगिनः ।
 > पूर्णतौन्मुख्ययोगित्वाद्विश्वं पश्यति तन्मयः ॥

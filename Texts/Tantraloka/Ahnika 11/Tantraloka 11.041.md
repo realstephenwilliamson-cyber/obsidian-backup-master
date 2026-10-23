@@ -36,6 +36,11 @@ bhedaṃ visphārya visphārya śaktyā svacchandarūpayā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 39–42)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.40–41]]
+>
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.41–42]]
+
 *Lead-in:* ननु दीक्षया शिवतत्त्वं नामासाद्यम् -- इति सर्वत्रोक्तम्, तच्चादित एव सिद्धमिति किमनया व्यस्तया समस्तया वा? -- इत्याशङ्क्याह --
 
 > भेदं विस्फार्य विस्फार्य शक्त्या स्वच्छन्दरूपया ॥

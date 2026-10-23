@@ -34,6 +34,9 @@ upāsāśca dvayādvaitavyāmiśrākārayogataḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 379)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.254–257]]
+
 > ताभ्य एव चतुःषष्टिपर्यन्तं शक्तिचक्रकम् ॥
 > एकारतः समारभ्य सहस्रारं प्रवर्तते ।
 > तासां च कृत्यभेदेन नामानि बहुधागमे ॥

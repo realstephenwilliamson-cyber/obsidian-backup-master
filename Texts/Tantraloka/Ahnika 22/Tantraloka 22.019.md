@@ -31,6 +31,9 @@ tatastaṃ baddhanetraṃ ca praveśya praṇipātayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 283)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.14–19]]
+
 > तत्रोपवास्य तं चान्यदिने साधारमन्त्रतः ॥
 > स्थण्डिले पूजयित्वेशं श्रावयेत्तस्य वर्तनीम् ।
 > एष प्रागभवल्लिङ्गी चोदितस्त्वधुना त्वया ॥

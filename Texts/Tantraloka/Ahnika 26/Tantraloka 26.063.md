@@ -34,6 +34,11 @@ yā paramāmṛtadṛk tvāṃ tayārcayante rahasyavidaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 394)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 26.65.*
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.65]]
+
 *Lead-in:* एतदेवोच्चित्य दर्शयति--
 
 > अधिशयय पारमार्थिकभावप्रसरप्रकाशमुल्लसति ।

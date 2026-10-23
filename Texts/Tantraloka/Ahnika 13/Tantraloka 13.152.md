@@ -31,5 +31,8 @@ adṛṣṭamaṇḍalo'pyevaṃ yaḥ kaścidvetti tattvataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 218)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.151–154]]
+
 Jayaratha comments on this verse together with 13.154: see [[Tantraloka 13.154#Viveka|13.154]].
 

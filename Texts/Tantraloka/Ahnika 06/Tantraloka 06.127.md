@@ -35,6 +35,9 @@ vibhāgaḥ prāṇagaḥ ṣaṣṭivarṣāhorātra ucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 352–355)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.127]]
+
 *Lead-in:* अत्रैवाहोरात्राणां सङ्कलनां दर्शयति --
 
 > शतानि षट् सहस्राणि चैकविंशतिरित्ययम् ।

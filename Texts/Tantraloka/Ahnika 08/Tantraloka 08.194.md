@@ -35,6 +35,9 @@ tadbhaktāstatra gacchanti tanmaṇḍalasudīkṣitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 218)
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.193–194]]
+
 > शतरुद्रोर्ध्वतो भद्रकाल्या नीलप्रभं जयम् ॥
 > न यज्ञदानतपसा प्राप्यं काल्याः पुरं जयम् ।
 > तद्भक्तास्तत्र गच्छन्ति तन्मण्डलसुदीक्षिताः ॥

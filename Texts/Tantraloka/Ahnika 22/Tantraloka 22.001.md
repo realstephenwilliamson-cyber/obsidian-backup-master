@@ -30,6 +30,9 @@ liṅgoddhārākhyāmatha vacmaḥ śivaśāsanaikanirdiṣṭām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 277)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.1]]
+
 *Lead-in:* इदानीं द्वितीयार्धेन लिङ्गोद्धारदीक्षां वक्तुमाह--
 
 > लिङ्गोद्धाराख्यामथ वच्मः शिवशासनैकनिर्दिष्टाम् ॥

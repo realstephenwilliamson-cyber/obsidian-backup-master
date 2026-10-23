@@ -36,6 +36,11 @@ taṃ dehe nyasya tatrāntarbhāvyamanyaditi sthitiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 44–45)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.94–96]]
+>
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.96]]
+
 *Lead-in:* पुरःस्थितमिति--साक्षाद्वीक्षणे । परोक्षेति--देशान्तरस्थतया । मृत इति--मरणे सति--इत्यर्थः ॥ मुख्यतामेव दर्शयति--
 
 > तं देहे न्यस्य तत्रान्तर्भाव्यमन्यदिति स्थितिः ॥

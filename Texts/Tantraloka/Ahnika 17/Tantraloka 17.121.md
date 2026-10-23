@@ -34,6 +34,9 @@ tāsāṃ sarvādhvasaṃśuddhau saṃkhyānyatvaṃ na kiñcana || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 191)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.121]]
+
 *Lead-in:* न च सर्वत्राविशेषेणैवायमातिदेशः--इत्याह--
 
 > विलोमकर्मणा साकं याः पूर्णाहुतयः स्मृताः ।

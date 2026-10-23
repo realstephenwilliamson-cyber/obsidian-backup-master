@@ -51,7 +51,7 @@ In fact, as far as gladness is concerned, the remembrance will be especially eff
 [^3]: [[Nehemiah 09#^9-17|Nehemiah 9:17]].
 [^4]: Cf. [[Isaiah 55#^55-7|Isaiah 55:7]].
 [^5]: [[Psalms 051#^51-3|Psalms 51:3]], 4, 11.
-[^6]: *Berachot* 33a.
+[^6]: [[Berakhot 33#33a|*Berachot* 33a]].
 [^7]: Cf. *Sanhedrin* 976.
 [^8]: 92a.
 [^9]: II Samuel 21.
@@ -61,12 +61,12 @@ In fact, as far as gladness is concerned, the remembrance will be especially eff
 [^13]: Cf. [[Daniel 04#^4-32|Daniel 4:32]].
 [^14]: Liturgy, High Holiday Musaf, *V’chol maaminim*.
 [^15]: Liturgy, Yom Kippur *Amidah*.
-[^16]: *Berachot* 26a.
+[^16]: [[Berakhot 26#26a|*Berachot* 26a]].
 [^17]: See ch. 2 above.
-[^18]: *Yoma* 85a.
-[^19]: *Yoma* 87a; *Shulchan Aruch*, *Orach Chaim* 606:1.
+[^18]: [[Yoma 85#85a|*Yoma* 85a]].
+[^19]: [[Yoma 87#87a|*Yoma* 87a]]; *Shulchan Aruch*, *Orach Chaim* 606:1.
 [^20]: Liturgy, Confession Prayers.
-[^21]: *Shabbat* 104a.
+[^21]: [[Shabbat 104#104a|*Shabbat* 104a]].
 [^22]: [[Psalms 051#^51-5|Psalms 51:5]].
 [^23]: [[Psalms 051#^51-10|Psalms 51:10]], 14.
 [^24]: [[II Samuel 18#^18-13|II Samuel 18:13]].
@@ -74,5 +74,5 @@ In fact, as far as gladness is concerned, the remembrance will be especially eff
 [^26]: Cf. [[Torah 48 - Shoftim#^17-20|Deuteronomy 17:20]].
 [^27]: Cf. *Avot* 4:10 and 4.
 [^28]: Cf. [[Torah 15 - Bo#^13-9|Exodus 13:9]].
-[^29]: *Shabbat* 88b. “…they are meant in the verse: ‘Those who love Him (shall be) like the sun rising in full strength’ ([[Judges 05#^5-31|Judges 5:31]]).”
-[^30]: *Rosh Hashanah* 17a.
+[^29]: [[Shabbat 88#88b|*Shabbat* 88b]]. “…they are meant in the verse: ‘Those who love Him (shall be) like the sun rising in full strength’ ([[Judges 05#^5-31|Judges 5:31]]).”
+[^30]: [[Rosh Hashanah 17#17a|*Rosh Hashanah* 17a]].

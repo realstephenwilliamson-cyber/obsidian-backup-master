@@ -34,6 +34,9 @@ vinyastāni taditthaṃ śeṣe tu vyāpakaṃ śivaṃ tattvam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 59)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.129–130]]
+
 *Lead-in:* एवं चेदं सिद्धम्--इत्याह--
 
 Jayaratha comments on this verse together with 16.130: see [[Tantraloka 16.130#Viveka|16.130]].

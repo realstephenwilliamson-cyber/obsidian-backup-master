@@ -36,6 +36,11 @@ veditā vedyaviśrānto vettā tvantarmukhasthitiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 307–308)
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.81–82]]
+>
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.82]]
+
 *Lead-in:* ननु योऽयं संविदः प्रकाशविमर्शयोरेकतरप्राधान्याद्विशेष उक्तः स किं प्रमातॄणामपि संभवेन्न वा ? -- इत्याशङ्क्याह -
 
 > वेदिता वेद्यविश्रान्तो वेत्ता त्वन्तर्मुखस्थितिः ॥

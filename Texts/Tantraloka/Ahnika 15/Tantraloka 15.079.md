@@ -31,6 +31,9 @@ snānānantarakartavyamathedamupadiśyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 58)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.79]]
+
 *Lead-in:* एतदुपसंहृत्य अन्यदवतारयति--
 
 > इति स्नानविधिः प्रोक्तो भैरवेणामलीकृतौ ।

@@ -34,6 +34,9 @@ paripūrṇāpi saṃvittirakule dhāmni līyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 242–245)
+> ![[Tantraloka Dyczkowski v03 08 - Chapter Four, part 7#Viveka on 4.169–170]]
+
 > एतस्यां स्वात्मसंवित्ताविदं सर्वमहं विभुः ।
 > इति प्रविकसद्रूपा संवित्तिरवभासते ॥
 > ततोऽन्तः स्थितसर्वात्मभावभोगोपरागिणी ।

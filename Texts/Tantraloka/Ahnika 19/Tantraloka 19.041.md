@@ -35,6 +35,9 @@ prāgdehaṃ kila tityakṣurnottaraṃ cādhitaṣṭhivān || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 225)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.40–42]]
+
 > स तु वस्तुस्वभावेन गलिताक्षोऽपि बुध्यते ॥
 > अक्षानपेक्षयैवान्तश्चिच्छक्त्या स्वप्रकाशया ।
 > प्राग्देहं किल तित्यक्षुर्नोत्तरं चाधितष्ठिवान् ॥

@@ -36,6 +36,11 @@ kṣapā śaśī tathāpāno nāda ekatra tiṣṭhati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 240–248)
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.23–24]]
+>
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.24–27]]
+
 *Lead-in:* इत्याद्यन्यत्रोक्तं, तदाह --
 
 Jayaratha comments on this verse together with 6.23: see [[Tantraloka 06.023#Viveka|6.23]].

@@ -43,4 +43,4 @@ Pritzker translation (Matt): [[Zohar 5.03 - Parashat Mishpatim#^z2-113b|Parashat
 
 [^1]: i.e. *in posse*..
 [^2]: i.e. *in esse*..
-[^3]: v. T. B. Nedarim, 55a; Erubin, 54a.
+[^3]: v. T. B. [[Nedarim 55#55a|Nedarim, 55a]]; Erubin, 54a.

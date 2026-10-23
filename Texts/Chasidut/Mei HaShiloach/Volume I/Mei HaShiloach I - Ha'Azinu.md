@@ -71,5 +71,5 @@ God’s intention with the creation of the world and all the generations until A
 **Torah:** [[Torah 53 - Ha'Azinu#^32-8|Deuteronomy 32:8]]
 
 [^1]: The prophet said, in [[Isaiah 08#^8-9|Yesahya 8:9]], “give ear, all the expanses of the earth.”
-[^2]: Of which Nebuchadnezzar said, “all the inhabitants of the earth are as nothing” [Daniel, [[Daniel 04#^4-32|4:32]]]; see Gemara *Yoma*, 20b.
+[^2]: Of which Nebuchadnezzar said, “all the inhabitants of the earth are as nothing” [Daniel, [[Daniel 04#^4-32|4:32]]]; see Gemara [[Yoma 20#20b|*Yoma*, 20b]].
 [^3]: The word *petaltol* in Hebrew is not really “crooked,” but as Rashi points out, an intensive form of *petil*, or wick, like a string wrapped many times around a wick to make it thick, “twisted.”

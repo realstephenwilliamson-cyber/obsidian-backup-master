@@ -35,6 +35,9 @@ tenāsya bījaṃ puṣṇīyāmityenāṃ pūrayetkriyām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 284–286)
+> ![[Tantraloka Dyczkowski v01 08 - Chapter One, part 7#Viveka on 1.117–122]]
+
 > अस्य स्यात्पुष्टिरित्येषा संविद्देवी तथोदितात् ।
 > ध्यानात्सञ्जल्पसंमिश्राद् व्यापाराच्चापि बाह्यतः ॥
 > स्फुटीभूता सती भाति तस्य तादृक्फलप्रदा ।

@@ -35,6 +35,9 @@ otaḥ proto vyāptaḥ kalitaḥ pūrṇaḥ parikṣiptaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 313–314)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.315–316]]
+
 > तस्मान्निरयाद्येकं यत्प्रोक्तं द्वारपालपर्यन्तम् ।
 > स्रोतस्तेनान्यान्यपि तुल्यविधानानि वेद्यानि ॥
 > अव्यक्तकले गुहया प्रकृतिकलाभ्यां विकार आत्मीयः ।

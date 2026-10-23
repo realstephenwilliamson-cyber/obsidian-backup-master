@@ -33,6 +33,11 @@ tattadvijñātṛvedyatvaṃ sarvānpratyeva bhāsatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 338–339)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.67–68]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.68–69]]
+
 *Lead-in:* तदेतदस्माभिः पुनः पुनरुच्यमानं श्रुत्वाप्यनवधारयन्नवहास्यतामेव यास्यति -- इत्याह --
 
 Jayaratha comments on this verse together with 10.67: see [[Tantraloka 10.067#Viveka|10.67]].

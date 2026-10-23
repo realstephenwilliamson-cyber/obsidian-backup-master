@@ -31,5 +31,8 @@ kṛtadīkṣāvidhiḥ pūrvaṃ brahmaghno'pi viśuddhyati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 53)
+> ![[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#Viveka on 30.91–92]]
+
 Jayaratha comments on this verse together with 30.95: see [[Tantraloka 30.095#Viveka|30.95]].
 

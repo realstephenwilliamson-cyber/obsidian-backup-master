@@ -34,5 +34,8 @@ ekīkurvañchanairgacched dvādaśāntamananyadhīḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 178)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.88–90]]
+
 Jayaratha comments on this verse together with 17.90: see [[Tantraloka 17.090#Viveka|17.90]].
 

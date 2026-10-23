@@ -31,6 +31,9 @@ pratisañcarayogena punarantaḥ praveśayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 47–48)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.88–91]]
+
 > प्रेतरूपं भवेत्पात्रं शाक्तामृतमथासवः ॥
 > भोक्त्री तत्र तु या शक्तिः स शम्भुः परमेश्वरः ।
 > अणुशक्तिशिवात्मेत्थं ध्यात्वा संमिलितं त्रयम् ॥

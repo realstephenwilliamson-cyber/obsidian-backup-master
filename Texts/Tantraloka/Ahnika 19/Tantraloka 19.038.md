@@ -35,6 +35,9 @@ paryudāsena yaḥ śrotumavadhārayituṃ kṣamaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 224)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.38–39]]
+
 *Lead-in:* एवं तर्हि नास्य कदाचिदपि पाठः प्राप्तः, अतः कुड्यादयोऽप्यदीक्षिताः किं न संनिहिता भवेयुः--इत्याह--
 
 > पर्युदासेन यः श्रोतुमवधारयितुं क्षमः ॥

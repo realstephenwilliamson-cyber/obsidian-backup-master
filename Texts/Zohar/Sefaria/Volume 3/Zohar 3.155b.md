@@ -45,7 +45,7 @@ Pritzker translation (Matt): [[Zohar 8.11 - Parashat Be-Ha'alotekha#^z3-155b|Par
 
 [^1]: i.e. outside the border of the Holy Land proper, in Transjordania.
 [^2]: i.e. out of its ethereal state.
-[^3]: Al. “it was absorbed by the body”, i.e. without leaving any waste, as with material food. v. T. B. Yoma, 75b.
+[^3]: Al. “it was absorbed by the body”, i.e. without leaving any waste, as with material food. v. T. B. [[Yoma 75#75b|Yoma, 75b]].
 [^4]: Allusion to “blot me, I pray thee out of thy book…” (Ex. 32, 32), in connection with the Golden Calf.
-[^5]: v. T. B. Sanhedrin, 17a.
+[^5]: v. T. B. [[Sanhedrin 17#17a|Sanhedrin, 17a]].
 [^6]: Viz., in connection with the Golden Calf.

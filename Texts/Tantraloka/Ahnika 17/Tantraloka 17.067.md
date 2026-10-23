@@ -34,6 +34,9 @@ vyaktarūpastato vahnau pāśaploṣavidhāyakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 169)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.67]]
+
 *Lead-in:* ननु सर्वगं मान्त्रं तेज इति किं वह्निमात्राश्रयणेन?-- इत्याशङ्क्याह--
 
 > मन्त्रो हि विश्वरूपः सन्नुपाश्रयवशात्तथा ।

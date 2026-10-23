@@ -33,6 +33,11 @@ nādhyātmena vinā bāhyaṃ nādhyātmaṃ bāhyavarjitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 36–37)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.42–43]]
+>
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.43–44]]
+
 *Lead-in:* न च एतत् न्यायत एव सिद्धं यावदागमतोऽपि--इत्याह--
 
 Jayaratha comments on this verse together with 15.42: see [[Tantraloka 15.042#Viveka|15.42]].

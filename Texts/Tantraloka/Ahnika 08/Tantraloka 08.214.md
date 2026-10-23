@@ -35,5 +35,10 @@ rudrajātaya evaite ityāha bhagavāñchivaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 240)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 8.215.*
+>
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.215]]
+
 Jayaratha comments on this verse together with 8.215: see [[Tantraloka 08.215#Viveka|8.215]].
 

@@ -34,6 +34,9 @@ kṛtāyāṃ bhogavaicitryaṃ hetuvaicitryayogataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 270)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.47]]
+
 *Lead-in:* तुल्यायां दीक्षायां पुनः क्रियमाणायां कि स्यादित्याशङ्क्याह--
 
 > भुक्तियोजनिकायां तु भूयोभिर्गुरुभिस्तथा ।

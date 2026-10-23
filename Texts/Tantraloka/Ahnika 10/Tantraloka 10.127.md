@@ -33,6 +33,11 @@ ucyate satyamastyeṣā kalanā kintu susphuṭaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 374–375)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.124–127]]
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.127–128]]
+
 *Lead-in:* एतच्चाभ्युपगम्य प्रतिविधत्ते --
 
 > उच्यते सत्यमस्त्येषा कलना किन्तु सुस्फुटः ॥

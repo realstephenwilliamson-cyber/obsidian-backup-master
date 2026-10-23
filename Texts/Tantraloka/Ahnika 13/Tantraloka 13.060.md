@@ -31,6 +31,9 @@ muktā api na muktāḥ syuḥ śaktiṃ cāsya na manmahe || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 161–162)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.59–60]]
+
 > अथास्य पाको नामैष स्वशक्तिप्रतिबद्धता ।
 > सर्वान्प्रति तथैष स्याद् रुद्धशक्तिर्विषाग्निवत् ॥
 > पुनरुद्भूतशक्तौ च स्वकार्यं स्याद्विषाग्निवत् ।

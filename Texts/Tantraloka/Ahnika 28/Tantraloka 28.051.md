@@ -31,6 +31,9 @@ velāyogaṃ kañcana tithibhagrahayogato hyanyam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 29–30)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.50–51]]
+
 > तस्मान्मुख्यात्र तिथिः सा च विशेष्या ग्रहर्क्षयोगेन ।
 > वेलात्र न प्रधानं युक्तं चैतत्तथाहि परमेशः ॥
 > श्रीत्रिकभैरवकुलशास्त्रेषूचे न पर्वदिवसेषु ।

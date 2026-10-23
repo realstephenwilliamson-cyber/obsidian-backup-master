@@ -31,6 +31,9 @@ nyasyatvena vidhiṃ dehe pīṭhākhye pārameśvaram || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 254)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.58]]
+
 *Lead-in:* तत्र देहे पीठानां पदमभिधत्ते--
 
 > आत्मनो वाऽथवा शक्तेश्चक्रस्याथ स्मरेदिमम् ।

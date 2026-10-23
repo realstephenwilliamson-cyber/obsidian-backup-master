@@ -31,6 +31,9 @@ malamajñānamicchanti saṃsārāṅkurakāraṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 107)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.120–121]]
+
 *Lead-in:* एवमेतन्मलस्य संसाराङ्कुरकारणत्वं तत्प्रसङ्गेन च संसाराङ्कुरस्य स्वरूपं गर्भीकृतप्रागुक्तसकलप्रमेयया श्रीमालिनीविजयोक्त्या संवादयति --
 
 > उक्तं श्रीपूर्वशास्त्रे च तदेतत्परमेशिना ।

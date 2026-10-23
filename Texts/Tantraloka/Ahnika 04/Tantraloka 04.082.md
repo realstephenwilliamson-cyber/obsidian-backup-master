@@ -34,5 +34,8 @@ pramātrāśvāsaparyanto yato'dhigama ucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 97–98)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.81–83]]
+
 Jayaratha comments on this verse together with 4.83: see [[Tantraloka 04.083#Viveka|4.83]].
 

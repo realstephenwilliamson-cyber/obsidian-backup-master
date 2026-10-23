@@ -34,6 +34,9 @@ sandhyācatuṣṭayīkṛtyamekasyāmathavā śiśuḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 382)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.34–36]]
+
 > यासौ कालाधिकारे प्राक् सन्ध्या प्रोक्ता चतुष्टयी ॥
 > तामेवान्तः समाधाय सान्ध्यं विधिमुपाचरेत् ।
 > सन्ध्याचतुष्टयीकृत्यमेकस्यामथवा शिशुः ॥

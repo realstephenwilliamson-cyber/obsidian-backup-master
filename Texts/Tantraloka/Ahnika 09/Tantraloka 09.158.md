@@ -31,6 +31,9 @@ upādānaṃ smṛtā māyā kvacittatkāryameva ca || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 137–138)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.157–158]]
+
 > तथापि यत्पृथग्भानं कलादेरीश्वरेच्छया ॥
 > ततो जडत्वे कार्यत्वे पृथक्तत्त्वस्थितौ ध्रुवम् ।
 > उपादानं स्मृता माया क्वचित्तत्कार्यमेव च ॥

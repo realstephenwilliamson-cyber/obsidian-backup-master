@@ -37,6 +37,11 @@ evaṃ samāne'pi vidhiḥ sa hi hārdīṣu nāḍiṣu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 402–403)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.194–195]]
+>
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.195–196]]
+
 *Lead-in:* न केवलमेतदपाने यावत्समानेऽपि इत्याह --
 
 > एवं समानेऽपि विधिः स हि हार्दीषु नाडिषु ॥

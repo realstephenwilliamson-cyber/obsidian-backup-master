@@ -36,6 +36,11 @@ asvatantrasya kartṛtvaṃ nahi jātūpapadyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 12–16)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.8]]
+>
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.8 (2)]]
+
 *Lead-in:* नन्विह मृद्धटादावस्तीच्छाया अनुप्रवेशः, किन्तु सा कौम्भकारी, बीजाङ्कुरादौ तु चेतनस्यैवानुप्रवेशो नास्ति, इति का वार्ता तद्धर्मभूताया इच्छायाः, इति किमेतदुक्तं "कार्यकारणभावः शिवेच्छापरिकल्पितः"इति? -- इत्याशङ्क्याह --
 
 > वस्तुतः सर्वभावनां कर्तेशानः परः शिवः ।

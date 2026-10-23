@@ -32,5 +32,5 @@ But in the following, the illustration is apparently not completely identical wi
 
 [^1]: Allusion to [[Psalms 033#^33-6|Psalms 33:6]], quoted above. This does not negate the reality of the universe or imply that the physical world is illusory. What is meant here is that the world does not possess *independent* existence; its true reality is the Divine force which continuously brings it into being.
 [^2]: I.e., self-subsisting.
-[^3]: In the Time to Come, however, even man’s corporeal eyes will see G–dliness and the Divine force in every created thing. See [[Isaiah 40#^40-5|Isaiah 40:5]], 52:8; *Rosh Hashanah* 31a. *Likkutei Torah*, *Bechukotai* 47c; *Likkutei Amarim*, Part I, ch. 37.
+[^3]: In the Time to Come, however, even man’s corporeal eyes will see G–dliness and the Divine force in every created thing. See [[Isaiah 40#^40-5|Isaiah 40:5]], 52:8; [[Rosh Hashanah 31#31a|*Rosh Hashanah* 31a]]. *Likkutei Torah*, *Bechukotai* 47c; *Likkutei Amarim*, Part I, ch. 37.
 [^4]: [[Torah 46 - Eikev#^8-3|Deuteronomy 8:3]]; cf. *Zohar* [[Zohar 7.06 - Parashat Tazri'a#^z3-47b|III:47b]].

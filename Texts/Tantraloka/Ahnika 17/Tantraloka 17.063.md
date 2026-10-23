@@ -34,6 +34,9 @@ karmakṣaye'pi no muktirbhavedvidyeśvarādivat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 167–168)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.63]]
+
 *Lead-in:* अत एवाह--
 
 > पृथक्त्वं च मलो मायाभिधानस्तस्य संभवे ।

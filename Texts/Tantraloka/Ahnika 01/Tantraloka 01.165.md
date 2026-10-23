@@ -34,6 +34,9 @@ upāyabhedānmokṣe'pi bhedaḥ syāditi sūrayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 337–339)
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.165]]
+
 *Lead-in:* इत्यादिना उपक्रान्तं क्रियाया ज्ञानात्मकत्वं युक्त्यागमाभ्यां निर्वाहितम् इत्येक एव ज्ञानात्मा मोक्षावाप्तावुपाय इति न उपायनानात्वम्, अत एव तत्फलभूते मोक्षेऽपि न कश्चिद्भेदः -- इत्याह --
 
 > अनेन चैतत्प्रध्वस्तं यत्केचन शशङ्किरे ।

@@ -31,6 +31,9 @@ mantreṇa tanmaheśena śivenodriktaśaktinā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 348–349)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.83–84]]
+
 *Lead-in:* ननु यदि तत्तत्सकलादिप्रमातृवेद्यता प्रमातृभेदादेव कथञ्चन भेदमुपनीता तथाप्येकरूपैवासावर्थक्रियाया भेदेनाकरणात् तद्वेद्यमप्येकरूपमेवेति पुनरपि पाञ्चदश्यादिक्रमकल्पना कल्पनैव ? - - इत्याशङ्क्य वेद्यताभेदसमर्थनार्थमर्थक्रियाभेदं प्रतिजानीते --
 
 Jayaratha comments on this verse together with 10.84: see [[Tantraloka 10.084#Viveka|10.84]].

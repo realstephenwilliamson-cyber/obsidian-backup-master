@@ -32,6 +32,9 @@ etānprāṇakrameṇaiva saṃskārānyojayed guruḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 311)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.509–510]]
+
 > मेखला दण्डमजिनत्र्यायुषे वह्न्युपासनम् ।
 > संध्या भिक्षेति संस्काराः सप्त सप्त व्रतानि च ॥
 > भौतेशपाशुपत्ये द्वे गाणेशं गाणपत्यकम् ।

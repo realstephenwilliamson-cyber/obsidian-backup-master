@@ -31,6 +31,9 @@ sadāśivāntaṃ samanāparyantaṃ matayāmale || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 192–193)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.319–320]]
+
 *Lead-in:* ननु यदि एवमपरं तत्त्वजालमासनत्वेन उक्तं तत् कथमिति एतत्परमासनमिति आसनस्य परत्वमिह अभिहितम् ?--इत्याशङ्कां गर्भीकृत्य अन्यस्मात् शास्त्रगणादस्य उत्कर्षं प्रतिपादयति--
 
 Jayaratha comments on this verse together with 15.320: see [[Tantraloka 15.320#Viveka|15.320]].

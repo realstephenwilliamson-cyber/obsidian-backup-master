@@ -33,6 +33,11 @@ atha pralayakāle'pi citsvabhāvatvayogataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 140–141)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.29–30]]
+>
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.30–31]]
+
 *Lead-in:* ननु किमनेन नः पक्षेण प्राच्य एव पक्षोऽस्तु यत् प्रलयस्य वृत्तत्वाद्देहाद्यभावेऽपि चित्स्वभावत्वादणूनां ज्ञानं संभवत्येव ? -- इत्याह --
 
 Jayaratha comments on this verse together with 13.29: see [[Tantraloka 13.029#Viveka|13.29]].

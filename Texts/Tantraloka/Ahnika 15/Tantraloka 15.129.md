@@ -31,6 +31,9 @@ ataḥ śāstreṣu bahudhā kulaputtalikādibhiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 86–87)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.128–130]]
+
 > फकारादिसमुच्चारान्नकारान्तेऽध्वमण्डलम् ॥
 > संहृत्य संविद्या पूर्णा सा शब्दैर्वर्ण्यते कथम् ।
 > अतः शास्त्रेषु बहुधा कुलपुत्तलिकादिभिः ॥

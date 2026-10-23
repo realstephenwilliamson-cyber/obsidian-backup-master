@@ -33,5 +33,10 @@ dvāvāptau tatra ca śrīmacchrīkaṇṭhalakuleśvarau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 233)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 37.16–17.*
+>
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.16–17]]
+
 Jayaratha comments on this verse together with 37.17: see [[Tantraloka 37.017#Viveka|37.17]].
 

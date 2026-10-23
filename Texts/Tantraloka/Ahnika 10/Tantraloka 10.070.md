@@ -33,6 +33,11 @@ anena nītimārgeṇa nirmūlamapasāritā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 339–340)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.70]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.70–71]]
+
 *Lead-in:* "अतश्च वेद्यता नाम भावस्यैव निजं वपुः"इत्युक्ते किमिति निष्कारणमियत्कुप्यते -- इत्याह --
 
 > भावस्य रूपमित्युक्ते केयमस्थानवैधुरी ।

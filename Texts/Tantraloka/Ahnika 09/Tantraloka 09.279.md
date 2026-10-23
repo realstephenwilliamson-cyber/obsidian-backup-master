@@ -33,6 +33,11 @@ tānmātrastu gaṇo dhvāntapradhānāyā ahaṃkṛteḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 259–260)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.278–279]]
+>
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.279]]
+
 *Lead-in:* तन्मात्राणि पुनरत्र भूतादेस्तामसादेवाहङ्कारात् -- इत्याह --
 
 > तन्मात्रस्तु गणो ध्वान्तप्रधानाया अहंकृतेः ॥

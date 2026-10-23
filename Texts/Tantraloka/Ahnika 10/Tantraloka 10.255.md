@@ -33,6 +33,11 @@ vedyasattāṃ bahirbhūtāmanapekṣyaiva sarvataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 458–460)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.253–255]]
+>
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.255–256]]
+
 *Lead-in:* एवं ज्ञानिविषयत्वेनापि संज्ञान्तरं योजयति --
 
 > वेद्यसत्तां बहिर्भूतामनपेक्ष्यैव सर्वतः ॥

@@ -31,6 +31,9 @@ bhūyasaiva tathā ca śrīmālinīvijayottare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 352–353)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.89–91]]
+
 *Lead-in:* न केवलं लोके सकलप्रमात्रपेक्षया वेद्यत्वमेवं विचित्रार्थक्रियाकारि, यावच्छास्त्रेऽपि प्रमात्रन्तरापेक्षया -- इत्याह --
 
 Jayaratha comments on this verse together with 10.90: see [[Tantraloka 10.090#Viveka|10.90]].

@@ -34,6 +34,9 @@ sphuṭayedvastu yāpetaṃ manorathapadādapi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 17–18)
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.14]]
+
 *Lead-in:* अत आह—
 
 > तामेनां भावनामाहुः सर्वकामदुघां बुधाः ।

@@ -37,6 +37,11 @@ anāśritaṃ tu vyāpāre nimittaṃ heturucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 373–374)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.402]]
+>
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.402 (2)]]
+
 *Lead-in:* नन्वयमेतदारूढः सन् कस्मात् सृष्ट्यादि विदध्यात् ? -- इत्याशङ्क्याह --
 
 > समना करणं तस्य हेतुकर्तुर्महेशितुः ।

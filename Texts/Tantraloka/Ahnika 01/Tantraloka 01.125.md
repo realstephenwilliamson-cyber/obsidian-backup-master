@@ -37,5 +37,10 @@ tenāvicchinnatāmarśarūpāhantāprathātmanaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 289–292)
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.124–125]]
+>
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.125–127]]
+
 Jayaratha comments on this verse together with 1.124: see [[Tantraloka 01.124#Viveka|1.124]].
 

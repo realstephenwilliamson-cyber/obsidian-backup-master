@@ -34,6 +34,9 @@ jñānakriyāsvatantratvāddīkṣākarmaṇi peśalaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 40–41)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.86]]
+
 > सामान्यतेजोरूपान्तराहूता भुवनेश्वराः ।
 > तर्पिताः श्राविताश्चाणोर्नाधिकारं प्रतन्वते ॥
 > आ यागान्तमहं कुम्भे संस्थितो विघ्नशान्तये ।

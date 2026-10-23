@@ -35,6 +35,9 @@ sūkṣmairiti guruścaiva rurau samyaṅnyarūpayat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 190–191)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.162]]
+
 *Lead-in:* अत्र च लोकानां परापरत्वमप्यस्तीत्याह --
 
 > स्थूलैर्विशेषैरारब्धाः सप्त लोकाः परे पुनः ।

@@ -34,6 +34,9 @@ adhaḥsthagāruḍādyanyamantrasevāparāyaṇāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 91–93)
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.32–35]]
+
 > व्रतिनो ये विकर्मस्था निषिद्धाचारकारिणः ॥
 > दीक्षिता अपि ये लुप्तसमया न च कुर्वते ।
 > प्रायश्चित्तांस्तथा तत्स्था वामाचारस्य दूषकाः ॥

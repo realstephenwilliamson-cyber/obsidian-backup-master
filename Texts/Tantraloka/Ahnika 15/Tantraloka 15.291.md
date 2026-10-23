@@ -31,5 +31,8 @@ muktikāmasya no kiñcinniṣiddhaṃ vihitaṃ ca no || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 172–173)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.290–293]]
+
 Jayaratha comments on this verse together with 15.292: see [[Tantraloka 15.292#Viveka|15.292]].
 

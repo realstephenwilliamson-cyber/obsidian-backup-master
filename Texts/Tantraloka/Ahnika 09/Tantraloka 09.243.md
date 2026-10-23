@@ -33,6 +33,11 @@ karaṇāntaravāṃchāyāṃ bhavettatrānavasthitiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 233–234)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.242–243]]
+>
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.243]]
+
 *Lead-in:* न च अकरणिका क्रिया भवेदिति तत्र करणान्तरमन्वेष्यम्; तच्च कर्तुर्विभिन्नत्वात् प्रेर्यमेवेति, तत्रान्यत् करणमित्यनवस्था स्यात् -- इत्याह --
 
 > करणान्तरवांछायां भवेत्तत्रानवस्थितिः ॥

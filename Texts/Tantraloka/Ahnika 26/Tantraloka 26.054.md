@@ -36,6 +36,11 @@ yadyadevāsya manasi vikāsitvaṃ prayacchati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 389)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.53–54]]
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.54–55]]
+
 *Lead-in:* ननु इह तर्पणार्थं द्रव्यादि उद्दिष्टम्, पूजादि पुनः कतरेण कार्यम्?--इत्याशङ्क्याह--
 
 > यद्यदेवास्य मनसि विकासित्वं प्रयच्छति ॥

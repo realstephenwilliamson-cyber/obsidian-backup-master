@@ -36,6 +36,11 @@ yato'horātramadhye'syāścaturviṃśatidhā gatiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 240–243)
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.22–23]]
+>
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.23–24]]
+
 *Lead-in:* ननु को नामास्या बन्धो येन यागादौ निष्कलत्वाच्छिवात्मिकेयं स्यात् ? -- इत्याशङ्क्याह --
 
 > यतोऽहोरात्रमध्येऽस्याश्चतुर्विंशतिधा गतिः ॥

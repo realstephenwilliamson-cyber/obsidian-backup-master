@@ -31,6 +31,9 @@ malaṃ runddhe bhogadātuḥ karmaṇaḥ kiṃ bibheti saḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 170)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.71–72]]
+
 > रोधे तयोश्च जात्यायुरपि न स्यादतः पतेत् ।
 > देहो भोगदयोरेव निरोध इति चेन्ननु ॥
 > जात्यायुष्प्रदकर्मांशसंनिधौ यदि शङ्करः ।

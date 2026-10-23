@@ -34,6 +34,9 @@ bhārataṃ navasāhasraṃ cāpavatkarmabhogabhūḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 126–127)
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.78]]
+
 > समन्ताच्चक्रवाटाधोऽनर्केन्दु चतुरश्रकम् ।
 > सहस्रनवविस्तीर्णमिलाख्यं त्रिमुखायुषम् ॥
 > मेरोः पश्चिमतो गन्धमादो यस्तस्य पश्चिमे ।

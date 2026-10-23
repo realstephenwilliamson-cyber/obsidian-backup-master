@@ -35,6 +35,9 @@ kimapyasti nijaṃ kiṃ tu saṃviditthaṃ prakāśate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 223)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.115–116]]
+
 > यन्न सूर्यो न वा सोमो नाग्निर्भासयतेऽपि च ॥
 > न चार्कसोमवह्नीनां तत्प्रकाशाद्विना महः ।
 > किमप्यस्ति निजं किं तु संविदित्थं प्रकाशते ॥

@@ -36,6 +36,13 @@ pādāṅguṣṭhātsamārabhya yāvad brahmāṇḍadarśanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 191–192)
+> ![[Tantraloka Dyczkowski v03 06 - Chapter Four, part 5#Viveka on 4.143]]
+>
+> ![[Tantraloka Dyczkowski v03 07 - Chapter Four, part 6#Viveka on 4.143 (continued)]]
+>
+> ![[Tantraloka Dyczkowski v03 07 - Chapter Four, part 6#Viveka on 4.143]]
+
 *Lead-in:* एतदिन्द्रियान्तरेष्वपि अतिदिशति --
 
 > एवं श्रोत्रेऽपि विज्ञेयं यावत्पादान्तगोचरम् ।

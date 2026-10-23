@@ -33,6 +33,11 @@ sādhakasyāpi tatsiddhipradamantraikatāṃ gatam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 98–99)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.154–155]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.155–156]]
+
 *Lead-in:* न केवलमियं मुमुक्षोरेव अभीष्टं फलं प्रददाति, यावत् बुभुक्षोरपि--इत्याह--
 
 > साधकस्यापि तत्सिद्धिप्रदमन्त्रैकतां गतम् ॥

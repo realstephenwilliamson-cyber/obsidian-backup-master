@@ -33,6 +33,11 @@ viśvātmadehaviśrāntitṛptastalliṅganiṣṭhitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 170–171)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.285–286]]
+>
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.286–287]]
+
 *Lead-in:* ननु यदि एवं देहदर्शनादिनैव साधकस्य शिवैकात्म्यमुदियात्, तत् किमस्य बाह्येन लिङ्गादिना स्यात् ? बाढम्--इत्याह--
 
 > विश्वात्मदेहविश्रान्तितृप्तस्तल्लिङ्गनिष्ठितः ॥

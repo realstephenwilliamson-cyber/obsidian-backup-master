@@ -36,6 +36,11 @@ ryugapadakhilaṃ bhogāsāraṃ rasāt paricarcitum || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 244)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 37.40.*
+>
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.40]]
+
 *Lead-in:* अधिवसति यद्गौरीकान्तः करैर्विजयादिभि-
 
 Jayaratha comments on this verse together with 37.38: see [[Tantraloka 37.038#Viveka|37.38]].

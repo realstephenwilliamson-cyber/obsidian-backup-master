@@ -33,6 +33,11 @@ atha ṣoḍaśalakṣādiprāṇacāre puroktavat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 282–284)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.90–91]]
+>
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.91–92]]
+
 > अन्यः सोऽन्योऽहमित्येवं विकल्पं नाचरेद्यतः ॥
 > यो विकल्पयते तस्य सिद्धिमुक्ती सुदूरतः ।
 > अथ षोडशलक्षादिप्राणचारे पुरोक्तवत् ॥

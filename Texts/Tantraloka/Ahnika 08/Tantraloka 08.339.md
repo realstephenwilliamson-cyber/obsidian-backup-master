@@ -35,5 +35,8 @@ saptakoṭyo mukhyamantrā vidyātattve'tra saṃsthitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 331–332)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.338–340]]
+
 Jayaratha comments on this verse together with 8.340: see [[Tantraloka 08.340#Viveka|8.340]].
 

@@ -35,6 +35,13 @@ nanvanyānyapi karmāṇi santi bhūyāṃsi tatkṛte || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 245–246)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.260–261]]
+>
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.260–261]]
+>
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.261–262]]
+
 > नन्वन्यान्यपि कर्माणि सन्ति भूयांसि तत्कृते ॥
 > करणान्यपि वाच्यानि तथा चाक्षेष्वनिष्ठितिः ।
 

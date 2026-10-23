@@ -36,6 +36,11 @@ bandhubhāryāsuhṛtputragāḍhābhyarthanayogataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 247–252)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.6–9]]
+>
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.9–11]]
+
 *Lead-in:* ननु एवंविधाः सर्व एव मिर्यन्ते, तत्किमेषामविशेषेणैव मृतोद्धारीं दीक्षां गुरुः कुर्यान्न वा?--इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 21.8: see [[Tantraloka 21.008#Viveka|21.8]].

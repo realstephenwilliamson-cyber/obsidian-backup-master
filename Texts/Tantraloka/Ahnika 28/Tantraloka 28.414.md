@@ -31,6 +31,9 @@ yathā teṣāṃ na śāstrārthe dolārūḍhā matirbhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 190–191)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.413–414]]
+
 > तस्माद्विकल्परहितः संवृत्युपरतो यदि ।
 > शास्त्रचर्यासदायत्तैः सङ्करं तद्विवर्जयेत् ॥
 > सङ्करं वा समन्विच्छेत्प्रायश्चित्तं समाचरेत् ।

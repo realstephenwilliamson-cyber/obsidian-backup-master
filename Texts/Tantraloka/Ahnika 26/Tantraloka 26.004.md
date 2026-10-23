@@ -34,6 +34,9 @@ vaktavyaṃ putrakādīnāṃ tanmayatvaprasiddhaye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 370–371)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.3–4]]
+
 > तत्र संस्कारसिद्ध्यै या दीक्षा साक्षान्न मोचनी ।
 > अनुसंधिवशाद्या च साक्षान्मोक्त्री सबीजिका ॥
 > तयोभयया दीक्षिता ये तेषामाजीववर्तनम् ।

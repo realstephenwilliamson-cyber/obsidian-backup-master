@@ -36,6 +36,11 @@ mṛtoddhāroditaireva yathāsaṃbhūti hetubhiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 268–269)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.37–42]]
+>
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.42–44]]
+
 *Lead-in:* एतदेव जीवत्परोक्षदीक्ष्यदीक्षायामपि अतिदिशति--
 
 Jayaratha comments on this verse together with 21.41: see [[Tantraloka 21.041#Viveka|21.41]].

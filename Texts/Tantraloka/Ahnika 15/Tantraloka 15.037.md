@@ -33,6 +33,11 @@ bhikṣopāttaṃ nijaṃ vā'tha dhanaṃ prāggurave śiśuḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 32–33)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.36–37]]
+>
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.37–38]]
+
 *Lead-in:* ननु परोपघातं विना धनार्जनं न सिध्येदित्येवंदोषवतो धनस्य कथं नाम यागादौ योग्यत्वं स्यात्?--इत्याशङ्क्य आह--
 
 > भिक्षोपात्तं निजं वाऽथ धनं प्राग्गुरवे शिशुः ॥

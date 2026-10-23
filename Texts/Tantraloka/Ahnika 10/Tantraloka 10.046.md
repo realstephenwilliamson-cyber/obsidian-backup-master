@@ -31,6 +31,9 @@ vāyuḥ pātayatītyatra nimittaṃ tatkṛtā kriyā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 324–325)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.46–48]]
+
 *Lead-in:* एतच्चाभ्युपगम्य सोपचारमुक्तम्, वस्तुतस्तु सोऽपीह न संभवति निमित्ताभावात्, नहि निर्निमित्तमुपचरणं न्याययम् -- इत्याह --
 
 > उपचारे निमित्तेन केनापि किल भूयते ।

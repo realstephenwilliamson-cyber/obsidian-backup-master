@@ -33,6 +33,11 @@ ata eva prayatno'yaṃ tatpraveśe na vidyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 428–429)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.214–215]]
+>
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.215–216]]
+
 *Lead-in:* तदाह -
 
 > अत एव प्रयत्नोऽयं तत्प्रवेशे न विद्यते ॥

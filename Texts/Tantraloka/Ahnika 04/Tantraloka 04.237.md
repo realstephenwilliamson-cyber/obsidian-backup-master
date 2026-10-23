@@ -34,6 +34,9 @@ na nirarthaka evāyaṃ saṃnidhergajaḍādivat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 335)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.237]]
+
 *Lead-in:* न केवलमस्य स्वातन्त्र्य एव सत्यार्थत्वं यावत्पारतन्त्र्येऽपि -- इत्याह --
 
 > विधिवाक्यान्तरे गच्छन्नङ्गभावमथापि वा ।

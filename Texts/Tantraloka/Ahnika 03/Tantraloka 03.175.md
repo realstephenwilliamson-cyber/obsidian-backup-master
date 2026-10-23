@@ -35,6 +35,9 @@ kathaṃ syāditi ced brūmo nātra ṣaṇṭhasya sotṛtā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 299–300)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.175–177]]
+
 *Lead-in:* इत्यादिवाक्यैः षण्ठवर्णेभ्यः क्षोभान्तरस्यापि सद्भाव उक्तः, इत्येषां पूर्वप्रतिज्ञातं षण्ठत्वं कथं निर्वहेत् ? -- इत्याशङ्क्य प्रतिविधत्ते --
 
 Jayaratha comments on this verse together with 3.177: see [[Tantraloka 03.177#Viveka|3.177]].

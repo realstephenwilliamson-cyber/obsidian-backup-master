@@ -34,6 +34,9 @@ yato dīkṣā sudīptatvātsthāvarāṇyapi mocayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 235)
+> ![[Tantraloka Dyczkowski v09 11 - Chapter Twenty#Viveka on 20.5–7]]
+
 > तप्तं नैतत्प्ररोहाय तेनैव प्रत्ययेन तु ।
 > मलमायाख्यकर्माणि मन्त्रध्यानक्रियाबलात् ॥
 > दग्धानि न स्वकार्याय निर्बीजप्रत्ययं त्विमम् ।

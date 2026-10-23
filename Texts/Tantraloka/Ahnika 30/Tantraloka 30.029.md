@@ -33,6 +33,11 @@ haṃsaṃ cāmṛtamadhyasthaṃ kālarudravibheditam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 26–24)
+> ![[Tantraloka Dyczkowski v11 02 - Chapter Thirty, part 1#Viveka on 30.28–36]]
+>
+> ![[Tantraloka Dyczkowski v11 02 - Chapter Thirty, part 1#Viveka on 30.29–30]]
+
 *Lead-in:* अनयोश्च आधाराधेयभावविपर्ययस्य अभिप्रायं प्रकटयन् विशेषणमेव प्रकाशयति--
 
 Jayaratha comments on this verse together with 30.63: see [[Tantraloka 30.063#Viveka|30.63]].

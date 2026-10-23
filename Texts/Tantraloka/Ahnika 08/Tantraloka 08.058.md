@@ -36,6 +36,11 @@ meroḥ pradakṣiṇāpyodagdikṣu viṣkambhaparvatāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 108–110)
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.57–58]]
+>
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.58–60]]
+
 *Lead-in:* इदानीं मेर्वधो वर्षादि विभक्तुमुपक्रमते --
 
 Jayaratha comments on this verse together with 8.57: see [[Tantraloka 08.057#Viveka|8.57]].

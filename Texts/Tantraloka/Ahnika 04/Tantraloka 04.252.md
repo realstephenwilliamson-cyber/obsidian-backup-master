@@ -34,6 +34,9 @@ tathāpi kila saṅkocabhāvābhāvavikalpataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 353)
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.252]]
+
 *Lead-in:* ननु निखिलमिदं शास्त्रजातं भगवतैव सकलजगदुद्दिधीर्षयोपदिष्टं, तत्तदुक्तार्थानुष्ठानमवश्यकार्यं येन संसारमोहः शाम्येत्, -- इति तद्यथास्तु, किमनेन विचारेण ? -- इत्याशङ्क्याह --
 
 > यतो यद्यपि देवेन वेदाद्यपि निरूपितम् ।

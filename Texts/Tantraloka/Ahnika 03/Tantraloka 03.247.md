@@ -36,6 +36,11 @@ etasyāpi trayasyādyaṃ yadrūpamanupādhimat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 371–372)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.247]]
+>
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.247–248]]
+
 *Lead-in:* किं चात्र प्रमाणम् ? -- इत्याशङ्क्याह --
 
 > पृथगेवानुसन्धानत्रयं संवेद्यते किल ।

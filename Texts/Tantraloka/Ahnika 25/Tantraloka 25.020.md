@@ -31,6 +31,9 @@ yadvā vāhayituṃ yeṣṭā tadaṅgaṃ tena pāṇinā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 364–365)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.19–21]]
+
 > या वाहयितुमिष्येत नाडी तामेव भावयेत् ॥
 > भावनातन्मयीभावे सा नाडी वहति स्फुटम् ।
 > यद्वा वाहयितुं येष्टा तदङ्गं तेन पाणिना ॥

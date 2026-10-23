@@ -38,7 +38,7 @@ D.C.M.
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_
 
-On the beard’s significance, see below, pp. 346–47, n. 82; pp. 349–50, n. 99. The Talmudic statement on the glorious beard appears in BT *Shabbat* 152a, in the name of Rabbi Yehoshu’a son of Korḥah. [p. xiv]  [p. xv] T H E     Z O H A R [p. xvi]
+On the beard’s significance, see below, pp. 346–47, n. 82; pp. 349–50, n. 99. The Talmudic statement on the glorious beard appears in BT [[Shabbat 152#152a|*Shabbat* 152a]], in the name of Rabbi Yehoshu’a son of Korḥah. [p. xiv]  [p. xv] T H E     Z O H A R [p. xvi]
 
 ---
 

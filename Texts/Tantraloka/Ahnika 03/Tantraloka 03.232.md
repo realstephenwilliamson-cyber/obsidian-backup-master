@@ -34,6 +34,9 @@ kṣobhyakṣobhakatāveśānmālinīṃ tāṃ pracakṣate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 358–359)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.232]]
+
 *Lead-in:* तदेवं विसर्गशक्तिरेव तत्तदामर्शातमना स्वात्मनि विश्वरूपतामाभासयन्ती आगमेषु तत्तच्छब्दव्यपदेश्या भवति -- इत्याह --
 
 > शब्दराशिः स एवोक्तो मातृका सा च कीर्तिता ।

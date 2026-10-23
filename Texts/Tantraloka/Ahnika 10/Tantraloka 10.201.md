@@ -31,6 +31,9 @@ vismaratyeva tadduḥkhaṃ sukhaviśrāntivartmanā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 419–420)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.201–202]]
+
 *Lead-in:* नन्वेवमत्र पाञ्चदश्यक्रमवदेव षोडश तुटयो व्यवस्थिता इति कथमासां सकलादिरूपतयास्थाशैथिल्यं भवेद्येनाविकल्पस्य स्फुटत्वं विकल्पस्य च ह्रासः? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 10.202: see [[Tantraloka 10.202#Viveka|10.202]].

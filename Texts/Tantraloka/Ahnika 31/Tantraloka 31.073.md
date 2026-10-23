@@ -31,5 +31,10 @@ hastāyāmaṃ tadardhaṃ vā vistārādapi tatsamam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 99)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.71–74]]
+>
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.71–74 (continued)]]
+
 Jayaratha comments on this verse together with 31.78: see [[Tantraloka 31.078#Viveka|31.78]].
 

@@ -31,6 +31,9 @@ tadvimarśasvabhāvo'sau bhairavaḥ parameśvaraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 198)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.14]]
+
 *Lead-in:* अतश्च एक एव पूर्णाहंपरामर्शमयः सर्वज्ञः परमेश्वरः समस्तप्रसिद्धिनिबन्धनभूतः इत्याह--
 
 > भोगापवर्गतद्धेतुप्रसिद्धिशतशोभितः ।

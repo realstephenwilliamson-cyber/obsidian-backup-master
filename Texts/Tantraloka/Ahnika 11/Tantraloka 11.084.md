@@ -37,6 +37,11 @@ anantarbhāvaśaktau tu sūkṣmaṃ sūkṣmaṃ tu śodhayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 74–75)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.83–84]]
+>
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.84–85]]
+
 *Lead-in:* एवमप्यशक्तौ क्रमान्तरमस्ति -- इत्याह --
 
 > अनन्तर्भावशक्तौ तु सूक्ष्मं सूक्ष्मं तु शोधयेत् ॥

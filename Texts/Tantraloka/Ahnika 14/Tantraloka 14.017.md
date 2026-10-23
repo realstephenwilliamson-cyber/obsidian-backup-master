@@ -31,6 +31,9 @@ tathānyeṣāṃ tirobhāvastāvadduḥkho hyamutra ca || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 353–354)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.17]]
+
 *Lead-in:* एतदेव दर्शयति -
 
 > कालकामान्धकादीनां पौलस्त्यपुरवासिनाम् ।

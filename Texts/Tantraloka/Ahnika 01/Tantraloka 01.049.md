@@ -34,6 +34,9 @@ dehānte'pi na mokṣaḥ syātpauruṣājñānahānitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 170–171)
+> ![[Tantraloka Dyczkowski v01 06 - Chapter One, part 5#Viveka on 1.49]]
+
 *Lead-in:* ननु धीगतमज्ञानं यदि न निवृत्तं तदात्मनः किमायातम्— इत्याशङ्क्याह --
 
 > देहसद्भावपर्यन्तमात्मभावो यतो धियि ।

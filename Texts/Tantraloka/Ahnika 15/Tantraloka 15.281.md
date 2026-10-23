@@ -31,6 +31,9 @@ tatphalaṃ koṭiguṇitamanāmātarpaṇātpriye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 167–168)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.281]]
+
 *Lead-in:* तदेव पठति--
 
 > सर्वतीर्थेषु यत्पुण्यं सर्वयज्ञेषु यत्फलम् ।

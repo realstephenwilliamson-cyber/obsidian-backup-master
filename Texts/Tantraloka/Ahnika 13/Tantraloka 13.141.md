@@ -31,6 +31,9 @@ saṃskārāstadadhiṣṭhānasiddhyai tattasya tu svataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 210)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.140–141]]
+
 > न चास्य समयित्वादिक्रमो नाप्यभिषेचनम् ।
 > न सन्तानादि नो विद्याव्रतं प्रातिभवर्त्मनः ॥
 > आदिविद्वान्महादेवस्तेनैषोऽधिष्ठितो यतः ।

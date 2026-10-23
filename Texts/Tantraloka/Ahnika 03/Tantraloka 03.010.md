@@ -34,6 +34,9 @@ teṣāmevāsti sadvidyāmayaṃ tvapratighātakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 76–77)
+> ![[Tantraloka Dyczkowski v02 04 - Chapter Three, part 1#Viveka on 3.10]]
+
 *Lead-in:* अत आह --
 
 > भावानां यत्प्रतीघातिवपुर्मायात्मकं हि तत् ।

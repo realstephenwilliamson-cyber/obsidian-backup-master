@@ -33,6 +33,11 @@ samaste'rthe'tra nirgrāhye tuṭayaḥ ṣoḍaśa kṣaṇāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 408–410)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 10.187–188.*
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.187–188]]
+
 *Lead-in:* श्रीशंभुरादिशदित्यनेन गुरुपरम्परागतत्वादविगीतप्रसिद्धिनिबन्धनत्वमस्य ध्वनितम् ॥ १८६ ॥ तदेवाह --
 
 > समस्तेऽर्थेऽत्र निर्ग्राह्ये तुटयः षोडश क्षणाः ॥

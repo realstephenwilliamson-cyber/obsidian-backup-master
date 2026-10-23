@@ -33,6 +33,11 @@ nahi kālāgnirudrīyakāyāvagatanīlimā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 335–337)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.63–64]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.64–66]]
+
 *Lead-in:* एतदेव सयुक्तिकं दर्शयति --
 
 Jayaratha comments on this verse together with 10.63: see [[Tantraloka 10.063#Viveka|10.63]].

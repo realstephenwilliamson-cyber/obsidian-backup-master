@@ -31,6 +31,9 @@ labhate paramaṃ dhāma tarpitāśeṣadaivataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 348)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.174–175]]
+
 *Lead-in:* एवञ्च अस्य किं स्यात्?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 29.175: see [[Tantraloka 29.175#Viveka|29.175]].

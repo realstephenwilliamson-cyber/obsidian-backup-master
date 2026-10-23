@@ -36,6 +36,11 @@ na śaṅketa tathā śaṅkā vilīyetāvahelayā |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 115–116)
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.22–23]]
+>
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.23–24]]
+
 *Lead-in:* न चात्र युक्तिरेवास्ति यावदागमोऽपि -- इत्याह --
 
 > श्रीसर्वाचारवीरालीनिशाचरक्रमादिषु ॥

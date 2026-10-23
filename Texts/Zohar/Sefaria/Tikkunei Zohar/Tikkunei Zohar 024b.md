@@ -235,7 +235,7 @@ She is called His coupling and intimate partner.
 [^15]: *az*
 [^16]: *shar*
 [^17]: *yashir*
-[^18]: *BT* Sanhedrin 91b
+[^18]: *BT* [[Sanhedrin 91#91b|Sanhedrin 91b]]
 [^19]: then
 [^20]: *shir*
 [^21]: *az*

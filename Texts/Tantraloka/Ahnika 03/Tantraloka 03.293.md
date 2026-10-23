@@ -35,6 +35,9 @@ etanmayatvaṃ paramaṃ prāpyaṃ nirvarṇyate śivam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 411)
+> ![[Tantraloka Dyczkowski v02 12 - Chapter Three, part 9#Viveka on 3.293]]
+
 > भाविन्योऽपि ह्युपासास्ता अत्रैवायान्ति निष्ठितिम् ।
 > एतन्मयत्वं परमं प्राप्यं निर्वर्ण्यते शिवम् ॥
 

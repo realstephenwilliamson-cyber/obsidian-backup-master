@@ -33,6 +33,11 @@ atra hyartho'yametāvatpūrvoktajñānavṛṃhitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 328–329)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.73]]
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.73–74]]
+
 *Lead-in:* अत एव अस्मच्छास्त्रमप्येवम्--इत्याह--
 
 > श्रीपूर्वशास्त्रे तेनोक्तं यावत्तेनैव नोद्धृतः ।

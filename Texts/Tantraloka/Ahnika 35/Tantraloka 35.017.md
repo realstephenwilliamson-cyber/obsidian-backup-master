@@ -33,6 +33,11 @@ upajīvanti yāvattu tāvattatphalabhāginaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 199–200)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.16–17]]
+>
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.17]]
+
 *Lead-in:* ननु यदि एवं तत् कृतं सर्वागमप्रामाण्यप्रतिपादनेन?-- इत्याशङ्क्य आह--
 
 > उपजीवन्ति यावत्तु तावत्तत्फलभागिनः ॥

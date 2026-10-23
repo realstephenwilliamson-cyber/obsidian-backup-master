@@ -31,6 +31,9 @@ tataḥ saṃśodhyavastūni śaktyaivāmṛtatāṃ nayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 223–224)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.20]]
+
 *Lead-in:* नैमित्तिके पुनर्नित्याद्विशेषोऽस्ति--इत्याह--
 
 > दीक्षां चेत्प्रचिकीर्षुस्तच्छोध्याध्वन्यासकल्पनम् ।

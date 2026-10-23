@@ -31,6 +31,9 @@ kā kathānyatra tu bhavedbhoge vāpi svarūpake || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 388)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.152]]
+
 *Lead-in:* वैचित्र्यमेवात्र दर्शयति --
 
 > पार्थिवत्वेऽपि नो साम्यं रुद्रवैष्णवलोकयोः ।

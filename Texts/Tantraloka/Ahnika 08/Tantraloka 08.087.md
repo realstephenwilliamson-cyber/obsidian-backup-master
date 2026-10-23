@@ -34,6 +34,9 @@ muktā kāñcanaratnāḍhyā iti śrīruruśāsane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 135–136)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.87]]
+
 *Lead-in:* अत्र च कीदृग्लोकः? -- इत्याशङ्क्याह --
 
 > द्वीपोपद्वीपगाः प्रायो म्लेच्छा नानाविधा जनाः ।

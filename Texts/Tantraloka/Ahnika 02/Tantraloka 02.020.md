@@ -34,6 +34,9 @@ prakāśamāne tasminvā taddvaitāstasya lopitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 28–31)
+> ![[Tantraloka Dyczkowski v02 02 - Chapter Two, part 1#Viveka on 2.20–21]]
+
 *Lead-in:* इत्याशङ्क्याह—
 
 Jayaratha comments on this verse together with 2.21: see [[Tantraloka 02.021#Viveka|2.21]].

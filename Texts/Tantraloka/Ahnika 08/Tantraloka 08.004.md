@@ -34,6 +34,9 @@ nāḍīcakrānucakreṣu bahirdehe'dhvasaṃsthitiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 53)
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.4]]
+
 *Lead-in:* ननु यदि नाम संविदनतिरिक्त एवायमध्वा, तत् कथं सर्वत्र बर्हिर्भेदेन भायात् ? -- इत्याशङ्क्याह -
 
 > संविद्द्वारेण तत्सृष्टे शून्ये धियि मरुत्सु च ।

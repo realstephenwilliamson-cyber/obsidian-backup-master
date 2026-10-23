@@ -34,5 +34,8 @@ upadvīpāḥ ṣaṭ kulādrisaptakena vibhūṣite || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 134–135)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.85–86]]
+
 Jayaratha comments on this verse together with 8.86: see [[Tantraloka 08.086#Viveka|8.86]].
 

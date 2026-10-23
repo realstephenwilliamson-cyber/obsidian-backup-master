@@ -31,5 +31,10 @@ ya uktaḥ śambhunāthena sa mayā darśitaḥ kramāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 57)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 30.100–101.*
+>
+> ![[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#Viveka on 30.100–101]]
+
 Jayaratha comments on this verse together with 30.101: see [[Tantraloka 30.101#Viveka|30.101]].
 

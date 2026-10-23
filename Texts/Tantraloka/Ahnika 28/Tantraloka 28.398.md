@@ -31,5 +31,8 @@ adhare kaje ca kalpeśvaraṃ prapūjyārghapuṣpatarpaṇakaiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 182–183)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.397–399]]
+
 Jayaratha comments on this verse together with 28.399: see [[Tantraloka 28.399#Viveka|28.399]].
 

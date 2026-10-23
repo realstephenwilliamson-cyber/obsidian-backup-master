@@ -48,7 +48,7 @@ Text: [[NRSVue Luke 16|NRSVue]] · [[Luke 16|BSB and SBLGNT]] · Introduction: [
 
 ### 16.18: Forbidding remarriage after divorce
 
-*[[NRSVue Luke 16#^16-18|Text]], p. 149* · ([[Matthew 19#^19-9|Mt 19.9]]; [[Mark 10#^10-11|Mk 10.11–12]]). *Marries another*, the injunction may be against divorce designed to facilitate remarriage; see 3.19–20n. Jews generally agreed that divorce was permissible (given [[Torah 49 - Ki Teitzei#^24-1|Deut 24.1–4]]) but debated the grounds; Bet Hillel (the School of Hillel) permitted divorce for flimsy reasons; Bet Shammai (the School of Shammai) permitted it only in cases of unchastity (*m. Git*. 9.10). See “Jewish Family Life,” p. 604. Because Jewish women had marriage contracts (“ketubot”), divorce was financially prohibitive; it was also not desirable ([[Malachi 2#^2-16|Mal 2.16]]; *b. Sanh*. 22a: “Even \[God\] shares tears when anyone divorces his wife”). ^16-18
+*[[NRSVue Luke 16#^16-18|Text]], p. 149* · ([[Matthew 19#^19-9|Mt 19.9]]; [[Mark 10#^10-11|Mk 10.11–12]]). *Marries another*, the injunction may be against divorce designed to facilitate remarriage; see 3.19–20n. Jews generally agreed that divorce was permissible (given [[Torah 49 - Ki Teitzei#^24-1|Deut 24.1–4]]) but debated the grounds; Bet Hillel (the School of Hillel) permitted divorce for flimsy reasons; Bet Shammai (the School of Shammai) permitted it only in cases of unchastity (*m. Git*. 9.10). See “Jewish Family Life,” p. 604. Because Jewish women had marriage contracts (“ketubot”), divorce was financially prohibitive; it was also not desirable ([[Malachi 2#^2-16|Mal 2.16]]; [[Sanhedrin 22#22a|*b. Sanh*. 22a]]: “Even \[God\] shares tears when anyone divorces his wife”). ^16-18
 
 ### 16.19–31: Parable of the rich man and Lazarus
 
@@ -60,7 +60,7 @@ Text: [[NRSVue Luke 16|NRSVue]] · [[Luke 16|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 16#^16-21|21]]:** *Longed to satisfy his hunger*, see 14.13. ^16-21
 
-**[[NRSVue Luke 16#^16-22|22]]:** *To be with Abraham*, paradise (13.28–29; *b. Qidd*. 72a/b); Lazarus’s salvation is not contingent upon Jesus’ sacrificial death. Lazarus’s own moral character is ignored. ^16-22
+**[[NRSVue Luke 16#^16-22|22]]:** *To be with Abraham*, paradise (13.28–29; [[Kiddushin 72#72a|*b. Qidd*. 72a]]/b); Lazarus’s salvation is not contingent upon Jesus’ sacrificial death. Lazarus’s own moral character is ignored. ^16-22
 
 **[[NRSVue Luke 16#^16-23|23]]:** *Hades*, see 10.15n. ^16-23
 

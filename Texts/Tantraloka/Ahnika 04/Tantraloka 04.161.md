@@ -34,6 +34,9 @@ avicchinnaparāmarśī līyate tena tatra saḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 232)
+> ![[Tantraloka Dyczkowski v03 08 - Chapter Four, part 7#Viveka on 4.161]]
+
 *Lead-in:* नन्वहङ्कारस्यापि अन्तःकरणान्तःपातः समस्ति, इति कथं "द्वादशैव करणानि"इत्युक्तम् ? -- इत्याशङ्क्याह --
 
 > अहङ्कारस्तु करणमभिमानैकसाधनम् ।

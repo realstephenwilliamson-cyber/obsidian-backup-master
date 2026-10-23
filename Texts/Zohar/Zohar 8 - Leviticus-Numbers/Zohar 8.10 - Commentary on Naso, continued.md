@@ -185,7 +185,7 @@ Whatever they offered corresponded to the pattern above, so that all would be bl
 
     On the relationship of the various qualities mentioned here, cf. the famous teaching attributed to Rabbi Pinḥas son of Ya’ir in M *Sotah* 9:15: “Zeal leads to cleanliness, cleanliness to purity, purity to holiness \[per Kaufmann MS\], holiness to humility, humility to fear of sin, fear of sin to *ḥasidut* (devotion, love, piety), *ḥasidut* to the Holy Spirit, the Holy Spirit to the revival of the dead, and the revival of the dead comes through Elijah, remembered for good.”
 
-    See *Midrash Tanna’im*, [[Torah 49 - Ki Teitzei#^23-15|Deuteronomy 23:15]]; JT *Shabbat* 1:3, 3c; *Sheqalim* 3:4, 47c; BT *Avodah Zarah* 20b; *Shir ha-Shirim Rabbah* 1:9 (on 1:1); *Mishnat Rabbi Eli’ezer* 10, p. 191; *Midrash Mishlei* 15:33.
+    See *Midrash Tanna’im*, [[Torah 49 - Ki Teitzei#^23-15|Deuteronomy 23:15]]; JT *Shabbat* 1:3, 3c; *Sheqalim* 3:4, 47c; BT [[Avodah Zarah 20#20b|*Avodah Zarah* 20b]]; *Shir ha-Shirim Rabbah* 1:9 (on 1:1); *Mishnat Rabbi Eli’ezer* 10, p. 191; *Midrash Mishlei* 15:33.
 
 [^3]: **Whoever emerges from awe…** Proceeding from this fundamental quality to humility.
 
@@ -199,7 +199,7 @@ Whatever they offered corresponded to the pattern above, so that all would be bl
 
 [^5]: **Just as *an angel*…** The archangel Michael serves as the heavenly priest, issuing from *Ḥesed*, and human priests on earth resemble him and symbolize *Ḥesed*.
 
-    On Michael as “the great prince,” see [[Daniel 12#^12-1|Daniel 12:1]]. On his association with *Ḥesed*, see *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-235a|1:235a]]. On his serving as the heavenly priest, see BT *Ḥagigah* 12b, *Zevaḥim* 62a, *Menaḥot* 110a; *Midrash Tehillim* 134:1; Vol. 7, pp. 174–75, n. 20.
+    On Michael as “the great prince,” see [[Daniel 12#^12-1|Daniel 12:1]]. On his association with *Ḥesed*, see *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-235a|1:235a]]. On his serving as the heavenly priest, see BT [[Chagigah 12#12b|*Ḥagigah* 12b]], [[Zevachim 62#62a|*Zevaḥim* 62a]], [[Menachot 110#110a|*Menaḥot* 110a]]; *Midrash Tehillim* 134:1; Vol. 7, pp. 174–75, n. 20.
 
 [^6]: **in the Holy *Idra*…** Apparently referring to *Idra Rabba*, although this teaching does not appear in the extant *Idra Rabba.* See *Or Yaqar*. On the term *Idra* (technically, *Iddera*), see above, pp. 319–20, n. 4.
 
@@ -223,7 +223,7 @@ Whatever they offered corresponded to the pattern above, so that all would be bl
 
 [^11]: **Totality of male and female** This is what makes a person truly *Adam*.
 
-    See BT *Yevamot* 62b–63a, in the name of Rabbi El’azar: “Any אדם (*adam*), man, who has no wife is not an *adam*, as is said: *Male and female He created them… and He named them adam* ([[Torah 01 - Bereshit#^5-2|Genesis 5:2]]).” See above, pp. 12–13, n. 36.
+    See BT [[Yevamot 62#62b|*Yevamot* 62b]]–63a, in the name of Rabbi El’azar: “Any אדם (*adam*), man, who has no wife is not an *adam*, as is said: *Male and female He created them… and He named them adam* ([[Torah 01 - Bereshit#^5-2|Genesis 5:2]]).” See above, pp. 12–13, n. 36.
 
 [^12]: **Certainly so…** Rabbi El’azar agrees with Rabbi Yehudah, but he indicates that by being male and female, a person attains *yir’ah* (awe or fear), humility, and *ḥesed* (love) or *ḥasidut* (devotion). Here, “sin-fearing” implies that one who is married will not be tempted by sexual sin.
 
@@ -249,7 +249,7 @@ Whatever they offered corresponded to the pattern above, so that all would be bl
 
     Adam’s exclamation in Genesis, following the creation of Eve, reads in full: *This one at last, bone of my bones and flesh of my flesh! This one shall be called Woman, for from man was this one taken*. See *Zohar* [[Zohar 7.06 - Parashat Tazri'a#^z3-48b|3:48b]].
 
-[^16]: **Because *Shekhinah* does not dwell…** Through marriage, one becomes a complete *Adam*, attracting *Shekhinah*. See above, note 11; *Zohar* [[Zohar 7.05 - Parashat Shemini#^z3-37b|3:37b]]; Moses de León, *Sefer ha-Rimmon*, 223; and BT *Sotah* 17a, in the name of Rabbi Akiva: “Man and woman: if they are worthy, *Shekhinah* abides between them; if not, fire consumes them.”
+[^16]: **Because *Shekhinah* does not dwell…** Through marriage, one becomes a complete *Adam*, attracting *Shekhinah*. See above, note 11; *Zohar* [[Zohar 7.05 - Parashat Shemini#^z3-37b|3:37b]]; Moses de León, *Sefer ha-Rimmon*, 223; and BT [[Sotah 17#17a|*Sotah* 17a]], in the name of Rabbi Akiva: “Man and woman: if they are worthy, *Shekhinah* abides between them; if not, fire consumes them.”
 
     Once *Shekhinah* dwells within the priests, She conveys *Ḥesed* to them, so they are called *ḥasidim*, “devoted ones.” The simple sense of the verse in [[Psalms 145#^145-1|Psalm 145]] is that the *devoted ones* יברכוכה (*yevarakhukha*), *will bless You*, but Rabbi Yitsḥak construes this as כה‎ יברכו (*yevarakhu koh*), *will bless Shekhinah*, who is known as *Koh*, “thus, here” (matching Her name *Zot*, “this”). Through Her, the blessing reaches the people of Israel. Similarly, the verse in Numbers—כה (*Koh*), *Thus, shall you bless*—now implies that the priests should bless *Shekhinah* (known as *Koh*), who then conveys blessing to *the Children of Israel* (as the verse concludes). Cf. [[Torah 35 - Nasso#^6-27|Numbers 6:27]]: *They shall set My name upon the Children of Israel, and I Myself will bless them*.
 
@@ -257,7 +257,7 @@ Whatever they offered corresponded to the pattern above, so that all would be bl
 
     The context in Deuteronomy (33:8–11) records Moses’ blessing to the tribe of Levi, from whom the priests were descended. On the Urim and Thummim, see Vol. 6, p. 322, n. 174.
 
-[^17]: ***Thus shall you bless*—in the holy tongue…** See *Sifrei*, Numbers 39; M *Sotah* 7:2; BT *Sotah* 33b, 38a; *Bemidbar Rabbah* 11:4.
+[^17]: ***Thus shall you bless*—in the holy tongue…** See *Sifrei*, Numbers 39; M *Sotah* 7:2; BT [[Sotah 33#33b|*Sotah* 33b]], 38a; *Bemidbar Rabbah* 11:4.
 
 [^18]: **This *Tsedeq* (Righteousness) is called *Koh* (Thus)…** *Shekhinah*, who is known as *Tsedeq* (Righteousness), is also called *Koh* (Thus), as explained above, note 16.
 
@@ -273,7 +273,7 @@ Whatever they offered corresponded to the pattern above, so that all would be bl
 
 [^20]: **אמור (*Amor*), *Saying, to them*…** The verse reads: *Thus shall you bless the Children of Israel*, אמור (*amor*), *saying, to them*. (For the full context, see above, note 1.) The word *amor* is an infinitive absolute, which is often understood in this verse as an imperative: *Say* (*to them*). Rabbi Abba emphasizes that the verse does not employ the normal imperative—אמרו (*imeru*), “say”—because at a certain point in the history of the Second Temple, “when the unruly increased,” the priests did not utter the Divine Name aloud (according to its authentic pronunciation) when blessing the people. The “undefined” formulation *amor, saying*, implies this toned-down delivery of the Name.
 
-    See BT *Qiddushin* 71a: “Our Rabbis taught: At first the Name of Twelve Letters was transmitted to everyone. Once the unruly \[who misused the Name\] increased, it was transmitted to the humble of the priesthood, and these ‘swallowed’ it during the sweet chanting of their fellow priests.”
+    See BT [[Kiddushin 71#71a|*Qiddushin* 71a]]: “Our Rabbis taught: At first the Name of Twelve Letters was transmitted to everyone. Once the unruly \[who misused the Name\] increased, it was transmitted to the humble of the priesthood, and these ‘swallowed’ it during the sweet chanting of their fellow priests.”
 
     The exact nature of “the \[Divine\] Name of Twelve Letters” is unknown. In medieval literature, it is sometimes associated with the three occurrences of *YHVH* in the priestly blessing ([[Torah 35 - Nasso#^6-24|Numbers 6:24–26]]). See *Bahir* 80 (111): “… numbering three, numbering twelve.” According to *Or Yaqar* (on *Zohar* [[Zohar 7.08 - Parashat Aharei Mot#^z3-78b|3:78b]]), the twelve-letter name is אדני‎ יהוה‎ אהיה (*Ehyeh YHVH Adonai*). See *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-16a|1:16a]], [[Zohar 1.07 - Parashat Be-Reshit#^z1-19b|19b]]; [[Zohar 4.06 - Parashat Be-Shallah#^z2-58a|2:58a]], [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-201b|201b]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-78b|3:78b]], [[Zohar 8.10 - Commentary on Naso, continued#^z3-146b|146b]] (*RM*), [[Zohar 8.10 - Commentary on Naso, continued#^z3-147a|147a]], [[Zohar 9.04 - Rav Metivta#^z3-172b|172b]]; Trachtenberg, *Jewish Magic and Superstition*, 92, 290, n. 32.
 
@@ -281,11 +281,11 @@ Whatever they offered corresponded to the pattern above, so that all would be bl
 
 [^21]: **Alternatively, *Amor, Saying*…** Rabbi Yehudah explains that if the people are worthy, the priests express the Name *to them*; otherwise, they merely *say* it quietly. On the connotation of quietness associated with the verb אמר (*'mr*), see the end of the preceding note.
 
-[^22]: ***I, Daniel, alone saw the vision…*** According to a rabbinic tradition, *the men who were with me* were three prophets. See BT *Megillah* 3a: “Who were these *men*? Rabbi Yirmeyah said (or some say, Rabbi Ḥiyya son of Abba said), ‘These were Haggai, Zechariah, and Malachi. They were superior to him, and he was superior to them. They were superior to him, for they were prophets and he was not a prophet. He was superior to them, for he saw \[this vision\] and they did not see. But if they did not see, why were they frightened? Although they themselves did not see, their guardian angel saw.’”
+[^22]: ***I, Daniel, alone saw the vision…*** According to a rabbinic tradition, *the men who were with me* were three prophets. See BT [[Megillah 3#3a|*Megillah* 3a]]: “Who were these *men*? Rabbi Yirmeyah said (or some say, Rabbi Ḥiyya son of Abba said), ‘These were Haggai, Zechariah, and Malachi. They were superior to him, and he was superior to them. They were superior to him, for they were prophets and he was not a prophet. He was superior to them, for he saw \[this vision\] and they did not see. But if they did not see, why were they frightened? Although they themselves did not see, their guardian angel saw.’”
 
     Here Rabbi Yitsḥak remarks that “the holy has become common,” that is, the holy prophets accompanying Daniel did not see the vision. Conversely, “the common is holy,” that is, Daniel (who was not a prophet) saw the vision without being frightened.
 
-    Daniel was not a prophet in the sense of being sent to deliver a divine message to the people. See Rashi, *Megillah* 3a, s.v. *de-inhu nevi’ei*. On the passage in *Megillah*, see BT *Sanhedrin* 93b–94a. On the expressions “the holy has become common (or profane)” and “the common is holy,” cf. Vol. 7, p. 487, n. 421; p. 540, n. 568.
+    Daniel was not a prophet in the sense of being sent to deliver a divine message to the people. See Rashi, [[Megillah 3#3a|*Megillah* 3a]], s.v. *de-inhu nevi’ei*. On the passage in *Megillah*, see BT [[Sanhedrin 93#93b|*Sanhedrin* 93b]]–94a. On the expressions “the holy has become common (or profane)” and “the common is holy,” cf. Vol. 7, p. 487, n. 421; p. 540, n. 568.
 
 [^23]: **בזאת (*be-zot*), *in this, do I trust*…** *Zot* (*This*) is a name of *Shekhinah*, the Divine Presence who is always right here. In this psalm King David, who is linked with *Shekhinah*, declares that even in danger he trusts in Her.
 
@@ -295,7 +295,7 @@ Whatever they offered corresponded to the pattern above, so that all would be bl
 
 [^25]: **David inherited the kingdom…** The Davidic kingdom symbolizes *Shekhinah*, who is known as *Malkhut* (Kingdom) and who protects David’s descendants.
 
-[^26]: **because he was a descendant of David…** From the tribe of Judah. Consequently, Daniel was also linked with *Shekhinah* (“the allotted share of his ancestor,” David), and he saw and endured the vision that derived from Her. Although Daniel’s companions were prophets, they were not as closely linked to *Shekhinah*, so they did not see this vision. On Daniel’s descent from King David, see BT *Sanhedrin* 93a–b; Ginzberg, *Legends of the Jews*, 6:414, n. 76.
+[^26]: **because he was a descendant of David…** From the tribe of Judah. Consequently, Daniel was also linked with *Shekhinah* (“the allotted share of his ancestor,” David), and he saw and endured the vision that derived from Her. Although Daniel’s companions were prophets, they were not as closely linked to *Shekhinah*, so they did not see this vision. On Daniel’s descent from King David, see BT [[Sanhedrin 93#93a|*Sanhedrin* 93a]]–b; Ginzberg, *Legends of the Jews*, 6:414, n. 76.
 
 [^27]: **When *Koh, Thus*, is aroused…** When *Shekhinah*—who is known as *Koh, Thus*—is aroused. By spreading their hands and conveying the divine blessing, the priests (who derive from *Ḥesed*) stimulate *Ḥesed*, thereby assuaging the quality of Judgment within *Shekhinah*.
 
@@ -305,7 +305,7 @@ Whatever they offered corresponded to the pattern above, so that all would be bl
 
     The context in Deuteronomy (33:8–11) records Moses’ blessing to the tribe of Levi, from whom the priests were descended. The simple sense of the verse in [[Psalms 145#^145-1|Psalm 145]] is that the *devoted ones* יברכוכה (*yevarakhukha*), *will bless You*, but Rabbi Shim’on construes this as כה‎ יברכו (*yevarakhu koh*), *will bless Shekhinah*, who is known as *Koh*. Through Her, the blessing reaches the people of Israel. See above, note 16.
 
-    According to a rabbinic tradition, the wording *Thus shall you bless* implies that the priests must invoke *YHVH* (known as “the Explicit Name”) and that the blessing must be recited in Hebrew. On *thus* implying the name *YHVH*, see *Sifrei*, Numbers 39; BT *Sotah* 38a; *Bemidbar Rabbah* 11:4. On *thus* implying Hebrew, see the same sources plus M *Sotah* 7:2; BT *Sotah* 33b; above, note 17.
+    According to a rabbinic tradition, the wording *Thus shall you bless* implies that the priests must invoke *YHVH* (known as “the Explicit Name”) and that the blessing must be recited in Hebrew. On *thus* implying the name *YHVH*, see *Sifrei*, Numbers 39; BT [[Sotah 38#38a|*Sotah* 38a]]; *Bemidbar Rabbah* 11:4. On *thus* implying Hebrew, see the same sources plus M *Sotah* 7:2; BT [[Sotah 33#33b|*Sotah* 33b]]; above, note 17.
 
 [^29]: **When the priest below rises…** To bless the people. At that moment, all the *sefirot* (from *Ḥesed* to *Shekhinah*) are stimulated to be blessed from *Binah*, who is pictured as “the depth of the well.”
 
@@ -325,7 +325,7 @@ Whatever they offered corresponded to the pattern above, so that all would be bl
 
     The verse in Numbers is addressed to Aaron. The sentence here *“Your father’s tribe*—the entirety” means that this biblical phrase includes not only the priests but also the Levites.
 
-    On the requirement for the priest to wash his hands before reciting the priestly blessing, see BT *Sotah* 39a; *Bemidbar Rabbah* 11:4. On the Ashkenazic origin of the custom that a Levite should wash the priest’s hands, see Katz, *Halakhah ve-Qabbalah*, 38–39; Ta-Shma, *Ha-Nigleh she-ba-Nistar*, 25; Hallamish, *Ha-Qabbalah*, 167. On this practice, see also *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-87a|ZḤ* 87a]] (*MhN, Rut*).
+    On the requirement for the priest to wash his hands before reciting the priestly blessing, see BT [[Sotah 39#39a|*Sotah* 39a]]; *Bemidbar Rabbah* 11:4. On the Ashkenazic origin of the custom that a Levite should wash the priest’s hands, see Katz, *Halakhah ve-Qabbalah*, 38–39; Ta-Shma, *Ha-Nigleh she-ba-Nistar*, 25; Hallamish, *Ha-Qabbalah*, 167. On this practice, see also *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-87a|ZḤ* 87a]] (*MhN, Rut*).
 
 [^34]: **the Concealment of the Book…** Supposedly referring to *Sifra di-Tsni’uta* (The Book of Concealment), though the passage quoted here does not appear in the extant *Sifra di-Tsni’uta*. According to this tradition, a Levite must first wash his own hands before washing the priest’s.
 
@@ -345,7 +345,7 @@ Whatever they offered corresponded to the pattern above, so that all would be bl
 
 [^38]: **desired that those above would be blessed…** That the *sefirot* would receive a flow of blessing, which they then convey to all those below. By his act of blessing, the priest (“holiest of the holy below”) stimulates the blessing of the *sefirot*. See above, note 29.
 
-    On God desiring the priestly blessing, see BT *Sotah* 38b. According to an essential principle of Kabbalah, “By an action below is aroused an action above.” See above, pp. 41–42, n. 122.
+    On God desiring the priestly blessing, see BT [[Sotah 38#38b|*Sotah* 38b]]. According to an essential principle of Kabbalah, “By an action below is aroused an action above.” See above, pp. 41–42, n. 122.
 
     As mentioned above, the simple sense of the verse in Psalm 145 is that the *devoted ones* יברכוכה (*yevarakhukha*), *will bless You*, but Rabbi Shim’on construes this as כה‎ יברכו (*yevarakhu koh*), *will bless Shekhinah*, who is known as *Koh*. Through Her, the blessing reaches the people of Israel. See above, note 16.
 
@@ -373,7 +373,7 @@ Whatever they offered corresponded to the pattern above, so that all would be bl
 
 [^42]: **When there was modest concealment…** Originally, when the priests recited the blessing daily in the Temple, they pronounced the Divine Name aloud because “there was modest concealment,” that is, people guarded the sanctity of the Name. But when the impudent increased and misused the Name, it was “sealed in its letters,” that is, its true pronunciation was hidden and all that was heard was the name אדני (*Adonai*), “My Lord.”
 
-    See BT *Qiddushin* 71a: “Our Rabbis taught: At first the Name of Twelve Letters was transmitted to everyone. Once the unruly \[who misused the Name\] increased, it was transmitted to the humble of the priesthood, and these ‘swallowed’ it during the sweet chanting of their fellow priests.” See above, note 20.
+    See BT [[Kiddushin 71#71a|*Qiddushin* 71a]]: “Our Rabbis taught: At first the Name of Twelve Letters was transmitted to everyone. Once the unruly \[who misused the Name\] increased, it was transmitted to the humble of the priesthood, and these ‘swallowed’ it during the sweet chanting of their fellow priests.” See above, note 20.
 
 [^43]: **all these twenty-two aspects…** Moses conveyed the total of twenty-two attributes (or aspects) of Compassion (thirteen and nine) on two separate occasions, not all together.
 
@@ -403,7 +403,7 @@ Whatever they offered corresponded to the pattern above, so that all would be bl
 
 [^50]: **The blessed Holy One called Israel אדם (*adam*), *human*…** Corresponding to the sefirotic *Adam*, Primordial Adam.
 
-    See BT *Yevamot* 60b–61a, in the name of Rabbi Shim’on son of Yoḥai: “*You, My flock—flock of My pasture—are human* \[*and I am Your God*\] ([[Ezekiel 34#^34-31|Ezekiel 34:31]]). You are called *human*; Gentiles are not called *human*.” See Vol. 4, p. 484, n. 425. For various interpretations of this paragraph and the following one, see *Or Yaqar*; *Miqdash Melekh*; *Sullam*; *Matoq mi-Devash*.
+    See BT [[Yevamot 60#60b|*Yevamot* 60b]]–61a, in the name of Rabbi Shim’on son of Yoḥai: “*You, My flock—flock of My pasture—are human* \[*and I am Your God*\] ([[Ezekiel 34#^34-31|Ezekiel 34:31]]). You are called *human*; Gentiles are not called *human*.” See Vol. 4, p. 484, n. 425. For various interpretations of this paragraph and the following one, see *Or Yaqar*; *Miqdash Melekh*; *Sullam*; *Matoq mi-Devash*.
 
 [^51]: **If they are worthy, *adam, human…*** If Israel lives virtuously, they are truly *human*, embodying the divine qualities of Primordial Adam. If not, they fall into the category of *beast*. Still, both receive blessing.
 
@@ -431,7 +431,7 @@ Whatever they offered corresponded to the pattern above, so that all would be bl
 
 [^58]: **When the priest spreads his hands…** As he prepares to pronounce the priestly blessing, *Shekhinah* settles upon his hands.
 
-    On the prohibition against looking at the priests when they are blessing, see JT *Megillah* 4:7, 75c; BT *Ḥagigah* 16a; above, p. 25, n. 71.
+    On the prohibition against looking at the priests when they are blessing, see JT *Megillah* 4:7, 75c; BT [[Chagigah 16#16a|*Ḥagigah* 16a]]; above, p. 25, n. 71.
 
 [^59]: **since they don’t see Her, why does it matter?…** According to a midrashic interpretation of the verse in Exodus, a person sees the Divine Presence only at the moment of death. If so, why does it matter whether anyone looks at the priests while they are blessing, since they cannot see *Shekhinah*?
 
@@ -447,7 +447,7 @@ Whatever they offered corresponded to the pattern above, so that all would be bl
 
     The reference to three *yods* probably alludes to the practice of indicating the name *YHVH* with simply three *yods*. See *Leqaḥ Tov*, [[Torah 13 - Shemot#^3-15|Exodus 3:15]]; [[Torah 35 - Nasso#^6-26|Numbers 6:26]], p. 93a; *Nitsotsei Zohar*; above, p. 111, n. 172. Cf. below, p. 512, n. 63.
 
-[^63]: **Whoever is distressed by a dream…** See BT *Berakhot* 55b: “Amemar, Mar Zutra, and Rav Ashi were once sitting together. They said, ‘Let each one of us say something that the others have not heard.’ One of them opened, ‘If one has seen a dream and does not know what he saw, let him stand before the priests at the time when they spread their hands \[to bless the congregation\] and say as follows: “Master of the universe! I am Yours and my dreams are Yours. I have dreamt a dream and I do not know what it is. Whether I have dreamt about myself or others have dreamt about me, or I have dreamt about others, if they are good dreams, confirm them and reinforce them like the dreams of Joseph. And if they require a remedy, heal them, as the waters of Marah were healed by Moses our teacher, and as Miriam was healed of her leprosy and Hezekiah of his sickness, and the waters of Jericho by Elisha. As You turned the curse of Balaam the wicked into a blessing, so turn all my dreams into something good for me.” He should conclude \[his prayer\] along with the priests, so that the congregation may answer, “Amen!” If he cannot do so, he should say, “O Majestic One on high, abiding in might, You are peace and Your name is peace. May it be Your will to bestow peace on us.”’” See JT *Berakhot* 5:1, 9a.
+[^63]: **Whoever is distressed by a dream…** See BT [[Berakhot 55#55b|*Berakhot* 55b]]: “Amemar, Mar Zutra, and Rav Ashi were once sitting together. They said, ‘Let each one of us say something that the others have not heard.’ One of them opened, ‘If one has seen a dream and does not know what he saw, let him stand before the priests at the time when they spread their hands \[to bless the congregation\] and say as follows: “Master of the universe! I am Yours and my dreams are Yours. I have dreamt a dream and I do not know what it is. Whether I have dreamt about myself or others have dreamt about me, or I have dreamt about others, if they are good dreams, confirm them and reinforce them like the dreams of Joseph. And if they require a remedy, heal them, as the waters of Marah were healed by Moses our teacher, and as Miriam was healed of her leprosy and Hezekiah of his sickness, and the waters of Jericho by Elisha. As You turned the curse of Balaam the wicked into a blessing, so turn all my dreams into something good for me.” He should conclude \[his prayer\] along with the priests, so that the congregation may answer, “Amen!” If he cannot do so, he should say, “O Majestic One on high, abiding in might, You are peace and Your name is peace. May it be Your will to bestow peace on us.”’” See JT *Berakhot* 5:1, 9a.
 
 [^64]: ***They shall set My name*…** The full verse reads: *They shall set My name upon the Children of Israel, and I Myself will bless them*. For the context, see above, note 1.
 
@@ -457,23 +457,23 @@ Whatever they offered corresponded to the pattern above, so that all would be bl
 
 [^66]: **then *I Myself will bless them*…** The simple sense of the verse is that God will bless Israel, but according to a midrashic reading *them* refers to the priests. They stimulate blessing in the sefirotic realm, and in return God blesses them. As explained in the preceding note, *they shall set* implies that the priests will “arrange” the *sefirot* fittingly.
 
-    On the midrashic interpretation of *I Myself will bless them*, see *Sifrei*, Numbers 39, 43; BT *Ḥullin* 49a; *Tanḥuma, Lekh Lekha* 4; *Tanḥuma* (Buber), *Lekh Lekha* 5; *Bemidbar Rabbah* 11:8; *Zohar* [[Zohar 3.05 - Parashat Mi-Qets#^z1-199b|1:199b]]; [[Zohar 4.07 - Parashat Yitro#^z2-67a|2:67a]]; Moses de León, *Sefer ha-Rimmon*, 255. Cf. BT *Sotah* 38b.
+    On the midrashic interpretation of *I Myself will bless them*, see *Sifrei*, Numbers 39, 43; BT [[Chullin 49#49a|*Ḥullin* 49a]]; *Tanḥuma, Lekh Lekha* 4; *Tanḥuma* (Buber), *Lekh Lekha* 5; *Bemidbar Rabbah* 11:8; *Zohar* [[Zohar 3.05 - Parashat Mi-Qets#^z1-199b|1:199b]]; [[Zohar 4.07 - Parashat Yitro#^z2-67a|2:67a]]; Moses de León, *Sefer ha-Rimmon*, 255. Cf. BT [[Sotah 38#38b|*Sotah* 38b]].
 
     The verse in [[Torah 06 - Toldot#^27-1|Genesis 27]] records Isaac’s blessing to Jacob (who he thinks is Esau). The verse in [[Torah 03 - Lech Lecha#^12-1|Genesis 12]] records God’s blessing to Abram.
 
-[^67]: **Any priest not beloved…** According to BT *Sotah* 39a (in the name of Rav Ḥisda), before the priests recite the actual blessing they should utter a prior blessing: “Blessed are You, *YHVH* our God, ruler of the universe, who has sanctified us with the holiness of Aaron and commanded us to bless His people Israel in love.” Here the *Zohar* draws the logical (though extreme) conclusion that since the blessing should be offered “in love,” any priest who is not loved by the people, or who does not love them, should not spread his hands in blessing. See Scholem; Hallamish, *Ha-Qabbalah*, 298–99; Ta-Shma, *Ha-Nigleh she-ba-Nistar*, 28–29.
+[^67]: **Any priest not beloved…** According to BT [[Sotah 39#39a|*Sotah* 39a]] (in the name of Rav Ḥisda), before the priests recite the actual blessing they should utter a prior blessing: “Blessed are You, *YHVH* our God, ruler of the universe, who has sanctified us with the holiness of Aaron and commanded us to bless His people Israel in love.” Here the *Zohar* draws the logical (though extreme) conclusion that since the blessing should be offered “in love,” any priest who is not loved by the people, or who does not love them, should not spread his hands in blessing. See Scholem; Hallamish, *Ha-Qabbalah*, 298–99; Ta-Shma, *Ha-Nigleh she-ba-Nistar*, 28–29.
 
-    The full verse in Proverbs reads: *He that has a good* \[or: *generous*\] *eye* יְבׂרָךְ (*yevorakh*), *will be blessed, for he gives of his bread to the poor*. By a change in vocalization, the verse is construed differently: *He that has a good eye* יְבָרֵךְ (*yevarekh*), *will bless*. See BT *Sotah* 38b, in the name of Rabbi Yehoshu’a son of Levi: “We give the cup of blessing for the recital of Grace after Meals only to one who has a generous eye, as is said: *He that has a generous eye* יְבוֹרָךְ (*yevorakh*), *will be blessed, for he gives of his bread to the poor*. Do not read *yevorakh, will be blessed*, but rather יְבָרֵךְ (*yevarekh*), *will bless*.” See *Zohar* [[Zohar 7.08 - Parashat Aharei Mot#^z3-63b|3:63b]], [[Zohar 12.06 - Piqqudin#^z3-145a|145a]] (*Piq*), [[Zohar 9.10 - Commentary on Balaq, continued#^z3-211b|211b]]; above, pp. 339–40, n. 57.
+    The full verse in Proverbs reads: *He that has a good* \[or: *generous*\] *eye* יְבׂרָךְ (*yevorakh*), *will be blessed, for he gives of his bread to the poor*. By a change in vocalization, the verse is construed differently: *He that has a good eye* יְבָרֵךְ (*yevarekh*), *will bless*. See BT [[Sotah 38#38b|*Sotah* 38b]], in the name of Rabbi Yehoshu’a son of Levi: “We give the cup of blessing for the recital of Grace after Meals only to one who has a generous eye, as is said: *He that has a generous eye* יְבוֹרָךְ (*yevorakh*), *will be blessed, for he gives of his bread to the poor*. Do not read *yevorakh, will be blessed*, but rather יְבָרֵךְ (*yevarekh*), *will bless*.” See *Zohar* [[Zohar 7.08 - Parashat Aharei Mot#^z3-63b|3:63b]], [[Zohar 12.06 - Piqqudin#^z3-145a|145a]] (*Piq*), [[Zohar 9.10 - Commentary on Balaq, continued#^z3-211b|211b]]; above, pp. 339–40, n. 57.
 
 [^68]: **what is written about Balaam…** He is identified as *son of Beor*, and according to one rabbinic tradition Beor was none other than Laban, who acted cruelly toward the patriarch Jacob and was himself a master of sorcery.
 
     The verse in Numbers reads: *Utterance of Balaam son of Beor, utterance of the man* העין‎ שתום (*shetum ha-ayin*). The original meaning of *shetum ha-ayin* may be either *whose eye is closed* or *whose eye is open*. Here Rabbi Yitsḥak equates *shetum* with סתום (*setum*), “closed.” Balaam “סתים (*seteim*), closed, his good eye,” so that his words of blessing toward Israel would not be fulfilled.
 
-    On Laban as Balaam’s father, Beor, see BT *Sanhedrin* 105b; *Zohar* [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-126a|1:126a]]; [[Zohar 6.04 - Parashat Ki Tissa#^z2-192a|2:192a]]; Ginzberg, *Legends*, 5:303, n. 229; 6:123, n. 722. Cf. Vol. 3, p. 7, n. 50. On Laban’s powers of witchcraft, see Vol. 5, p. 173, n. 95.
+    On Laban as Balaam’s father, Beor, see BT [[Sanhedrin 105#105b|*Sanhedrin* 105b]]; *Zohar* [[Zohar 2.04 - Parashat Hayyei Sarah#^z1-126a|1:126a]]; [[Zohar 6.04 - Parashat Ki Tissa#^z2-192a|2:192a]]; Ginzberg, *Legends*, 5:303, n. 229; 6:123, n. 722. Cf. Vol. 3, p. 7, n. 50. On Laban’s powers of witchcraft, see Vol. 5, p. 173, n. 95.
 
     On Laban’s cruelty toward Jacob, see [[Torah 07 - Vayetzei#^29-1|Genesis 29]]–31. According to [[Torah 50 - Ki Tavo#^26-5|Deuteronomy 26:5]], when an Israelite brings the offering of firstfruits to the priest, he recites a brief account of the people’s history, beginning: אבי‎ אבד‎ ארמי (*Arami oved avi*), *An Aramean astray* \[or: *wandering, fugitive, perishing*\] *was my father*, probably referring to Jacob or Abraham. Later, this clause was interpreted to mean: *An Aramean was destroying my father*, referring to Laban the Aramean’s attempt to destroy Jacob. See the Passover Haggadah; *Sifrei*, Deuteronomy 301; *Midrash Tanna’im* and *Targum Onqelos*, [[Torah 50 - Ki Tavo#^26-5|Deuteronomy 26:5]]. Cf. *Targum Yerushalmi*, ad loc.; and Hoffman’s note 5 on the passage in *Midrash Tanna’im*.
 
-    On the phrase *shetum ha-ayin*, see BT *Sanhedrin* 105a, and Rashi, ad loc., s.v. *shetum ha-ayin*; *Zohar* [[Zohar 1.08 - Parashat Noah#^z1-68b|1:68b]]; [[Zohar 4.07 - Parashat Yitro#^z2-69a|2:69a]], [[Zohar 6.06 - Parashat Pequdei#^z2-237a|237a]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-63b|3:63b]]; Milgrom, *Numbers*, on the verse.
+    On the phrase *shetum ha-ayin*, see BT [[Sanhedrin 105#105a|*Sanhedrin* 105a]], and Rashi, ad loc., s.v. *shetum ha-ayin*; *Zohar* [[Zohar 1.08 - Parashat Noah#^z1-68b|1:68b]]; [[Zohar 4.07 - Parashat Yitro#^z2-69a|2:69a]], [[Zohar 6.06 - Parashat Pequdei#^z2-237a|237a]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-63b|3:63b]]; Milgrom, *Numbers*, on the verse.
 
 [^69]: **Certainly so…** That blessing can be conveyed only with an open benevolent eye.
 
@@ -505,7 +505,7 @@ Whatever they offered corresponded to the pattern above, so that all would be bl
 
     See *Bereshit Rabbah* 63:6; *Shir ha-Shirim Rabbah* on 2:5; *Tanḥuma, Ki Tissa* 27; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-9a|1:9a]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-94b|94b]]; [[Zohar 10.10 - Parashat Shemot#^z2-5a|2:5a]] (*MhN*), [[Zohar 4.05 - Parashat Bo#^z2-38a|38a]], [[Zohar 4.06 - Parashat Be-Shallah#^z2-50a|50a]], [[Zohar 5.03 - Parashat Mishpatim#^z2-94b|94b]], [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-198a|198a]], [[Zohar 6.06 - Parashat Pequdei#^z2-225a|225a]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-6b|3:6b]], [[Zohar 7.08 - Parashat Aharei Mot#^z3-59b|59b]], [[Zohar 9.10 - Commentary on Balaq, continued#^z3-201b|201b]], [[Zohar 9.12 - Parashat Va-Ethannan#^z3-265b|265b]], [[Zohar 9.16 - Commentary on Ha'azinu, continued#^z3-298a|298a]]; *ZḤ* [[Zohar 10.03 - Parashat Be-Reshit#^zh-11c|11c]] (*MhN*); Wolfson, *Through a Speculum That Shines*, 370. Cf. [[Torah 08 - Vayishlach#^33-10|Genesis 33:10]].
 
-    The expression “to learn some of those sublime words” derives from the Talmud and appears often in the *Zohar*. See BT *Berakhot* 8a, *Shabbat* 138b, *Eruvin* 102a, *Ta’anit* 20b, *Ḥagigah* 14a; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-49b|1:49b]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-87a|87a]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-96b|96b]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-197b|197b]]; [[Zohar 4.04 - Parashat Va-Era#^z2-31a|2:31a]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-62a|3:62a]], [[Zohar 9.10 - Commentary on Balaq, continued#^z3-209b|209b]], [[Zohar 9.11 - Parashat Pinehas#^z3-231a|231a]]; *ZḤ* [[Zohar 10.04 - Parashat Noah#^zh-22a|22a]] (*MhN*).
+    The expression “to learn some of those sublime words” derives from the Talmud and appears often in the *Zohar*. See BT [[Berakhot 8#8a|*Berakhot* 8a]], [[Shabbat 138#138b|*Shabbat* 138b]], [[Eruvin 102#102a|*Eruvin* 102a]], *Ta’anit* 20b, [[Chagigah 14#14a|*Ḥagigah* 14a]]; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-49b|1:49b]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-87a|87a]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-96b|96b]], [[Zohar 3.05 - Parashat Mi-Qets#^z1-197b|197b]]; [[Zohar 4.04 - Parashat Va-Era#^z2-31a|2:31a]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-62a|3:62a]], [[Zohar 9.10 - Commentary on Balaq, continued#^z3-209b|209b]], [[Zohar 9.11 - Parashat Pinehas#^z3-231a|231a]]; *ZḤ* [[Zohar 10.04 - Parashat Noah#^zh-22a|22a]] (*MhN*).
 
     The phrase “the holy threshing chamber” renders קדישא‎ אדרא (*iddera qaddisha*) and refers here to study sessions with Rabbi Shim’on. See above, pp. 319–20, n. 4.
 
@@ -515,13 +515,13 @@ Whatever they offered corresponded to the pattern above, so that all would be bl
 
 [^76]: **So we have established, yet it is not so…** Rabbi Abba affirms that the established interpretation of *and He reckoned it as righteousness for him* is that God deemed Abraham’s act of trust as *righteousness.* However, this does not convey the deeper meaning.
 
-    He focuses first on the word ויחשבה (*va-yaḥsheveha*), which he construes hyperliterally as *and he reckoned her*. Before explaining this, he quotes a Talmudic interpretation of the preceding verse. See BT *Shabbat* 156a, in the name of Rav: “ויוצא (*Va-yotse*), *He took* (*him*) *outside* ([[Torah 03 - Lech Lecha#^15-5|Genesis 15:5]])….He \[Abraham\] said before Him \[God\], ‘I have gazed at my horoscope, and I am not fated to engender a son.’ He replied, ‘צא (*Tse*), Leave, your astrological speculations! Israel is immune from planetary influence.’”
+    He focuses first on the word ויחשבה (*va-yaḥsheveha*), which he construes hyperliterally as *and he reckoned her*. Before explaining this, he quotes a Talmudic interpretation of the preceding verse. See BT [[Shabbat 156#156a|*Shabbat* 156a]], in the name of Rav: “ויוצא (*Va-yotse*), *He took* (*him*) *outside* ([[Torah 03 - Lech Lecha#^15-5|Genesis 15:5]])….He \[Abraham\] said before Him \[God\], ‘I have gazed at my horoscope, and I am not fated to engender a son.’ He replied, ‘צא (*Tse*), Leave, your astrological speculations! Israel is immune from planetary influence.’”
 
     See *Bereshit Rabbah* 44:10, in the name of Rabbi Shemu’el son of Yitshak: “\[Abraham said,\] ‘My constellation oppresses me, declaring: “Abram does not engender.”’ The blessed Holy One replied, ‘Just as you say: Abram and Sarai do not engender; Abraham and Sarah do engender!’” By changing the names of Abram and Sarai ([[Torah 03 - Lech Lecha#^17-5|Genesis 17:5]], 15), God freed them from their astrological fate and enabled them to engender Isaac.
 
     Here, according to Rabbi Abba, when God tells Abraham, כה (*Koh*), *So, shall your seed be* ([[Torah 03 - Lech Lecha#^15-5|Genesis 15:5]]), He is alluding to *Shekhinah*, who is known as *Koh*. She, rather than astrological speculation, is the way to know the Divine Name, and through Her fertile power Abraham will be blessed with offspring.
 
-    See *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-90a|1:90a]]–b, [[Zohar 2.02 - Parashat Lekh Lekha#^z1-96a|96a–b]]; Gikatilla, *Sha’arei Orah*, 12a. On *Shekhinah* as *Koh*, see above, notes 16, 18–19. On the passage in BT *Shabbat*, see BT *Nedarim* 32a; *Tanḥuma, Shofetim* 11; *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-78a|1:78a]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-90a|90a]]–b; [[Zohar 4.04 - Parashat Va-Era#^z2-32a|2:32a]]; *[[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-72b|ZḤ* 72b]] (*ShS*).
+    See *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-90a|1:90a]]–b, [[Zohar 2.02 - Parashat Lekh Lekha#^z1-96a|96a–b]]; Gikatilla, *Sha’arei Orah*, 12a. On *Shekhinah* as *Koh*, see above, notes 16, 18–19. On the passage in BT *Shabbat*, see BT [[Nedarim 32#32a|*Nedarim* 32a]]; *Tanḥuma, Shofetim* 11; *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-78a|1:78a]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-90a|90a]]–b; [[Zohar 4.04 - Parashat Va-Era#^z2-32a|2:32a]]; *[[Zohar 11.06 - Zohar al Shir ha-Shirim#^zh-72b|ZḤ* 72b]] (*ShS*).
 
 [^77]: ***Koh, So, shall your seed be—your* actual *seed*…** Referring to Isaac. Abraham engendered Isaac when he was linked with *Shekhinah* (known as *Koh*). Furthermore, Isaac symbolizes *Gevurah*, the source of *Shekhinah*. See *Zohar* [[Zohar 2.02 - Parashat Lekh Lekha#^z1-90b|1:90b]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-96a|96a]].
 
@@ -547,7 +547,7 @@ Whatever they offered corresponded to the pattern above, so that all would be bl
 
 [^83]: **There is no ‘earlier’ and ‘later’ in the Torah** That is, the written sequence of the Torah is not necessarily chronological. In this case, the verse near the end of Exodus pertains to the situation immediately following the verse in Numbers.
 
-    The principle “There is no ‘earlier’ and ‘later’ in the Torah” appears frequently in rabbinic literature. See *Mekhilta, Shirta* 7; *Mekhilta de-Rashbi*, [[Torah 16 - Beshalach#^15-9|Exodus 15:9]]; *Sifrei*, Numbers 64; JT *Sheqalim* 6:1, 49d; *Rosh ha-Shanah* 1:1, 56b; *Megillah* 1:4, 70d; *Sotah* 8:1, 22d; BT *Pesaḥim* 6b, *Sanhedrin* 89b; *Shir ha-Shirim Rabbah* on 1:2; *Rut Rabbah* 4:5; *Qohelet Rabbah* on 1:12; *Tanḥuma, Terumah* 8; *Pesiqta Rabbati* 22, 111a; *Bemidbar Rabbah* 9:18, 36.
+    The principle “There is no ‘earlier’ and ‘later’ in the Torah” appears frequently in rabbinic literature. See *Mekhilta, Shirta* 7; *Mekhilta de-Rashbi*, [[Torah 16 - Beshalach#^15-9|Exodus 15:9]]; *Sifrei*, Numbers 64; JT *Sheqalim* 6:1, 49d; *Rosh ha-Shanah* 1:1, 56b; *Megillah* 1:4, 70d; *Sotah* 8:1, 22d; BT [[Pesachim 6#6b|*Pesaḥim* 6b]], [[Sanhedrin 89#89b|*Sanhedrin* 89b]]; *Shir ha-Shirim Rabbah* on 1:2; *Rut Rabbah* 4:5; *Qohelet Rabbah* on 1:12; *Tanḥuma, Terumah* 8; *Pesiqta Rabbati* 22, 111a; *Bemidbar Rabbah* 9:18, 36.
 
     On the textual and chronological distance between the descriptions in [[Torah 23 - Pekudei#^40-1|Exodus 40]] and Numbers 7, see *Sifrei*, Numbers 44; Vital; Levine, *Numbers*, 1:253.
 
@@ -567,7 +567,7 @@ Whatever they offered corresponded to the pattern above, so that all would be bl
 
 [^85]: **Moses has already fulfilled the command…** God explains to Michael that since Moses has already fathered two children (Gershom and Eliezer) with his wife Zipporah, he can now marry (or “capture”) *Shekhinah*.
 
-    See M *Yevamot* 6:6; *Tosefta Yevamot* 8:4; JT *Yevamot* 6:6, 7c; BT *Yevamot* 61b–62a; *Nitsotsei Orot*, n. 2. The verse in Genesis reads in full: *God blessed them, and God said to them, “Be fruitful and multiply and fill the earth and subdue it, and rule over fish of the sea and birds of the heavens and every living creature that crawls upon the earth.”*
+    See M *Yevamot* 6:6; *Tosefta Yevamot* 8:4; JT *Yevamot* 6:6, 7c; BT [[Yevamot 61#61b|*Yevamot* 61b]]–62a; *Nitsotsei Orot*, n. 2. The verse in Genesis reads in full: *God blessed them, and God said to them, “Be fruitful and multiply and fill the earth and subdue it, and rule over fish of the sea and birds of the heavens and every living creature that crawls upon the earth.”*
 
 [^86]: ***You took gifts* בָּאָדָם (*ba-adam*), *from the human*…** If the verse read *You took gifts* בְּאָדָם (*be-adam*), *from* \[or: *for*\] *a human*, this would imply that Moses took *gifts for* Israel (or humanity). But the precise wording בָּאָדָם (*ba-adam*), *from the human*—with the definite article—alludes to the Divine *Adam, Ze’eir Anpin*, who was united with *Shekhinah*. Moses, as it were, took *Shekhinah from the* Divine *Adam*, and She descended to dwell with him as *the bride of Moses*.
 

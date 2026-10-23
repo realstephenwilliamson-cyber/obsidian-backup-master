@@ -33,6 +33,11 @@ vibhorjñānakriyāmātrasārasyāṇugaṇasya ca || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 75–78)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.71–73]]
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.73–74]]
+
 *Lead-in:* ननु यद्येवं तर्हि मलेन ज्ञत्वकर्तृत्वात्मकस्वरूपावरणाच्छिवस्याणूनां च स्वरूपनाश एव कृतो भवेत् ? -- इत्याह -
 
 > विभोर्ज्ञानक्रियामात्रसारस्याणुगणस्य च ॥

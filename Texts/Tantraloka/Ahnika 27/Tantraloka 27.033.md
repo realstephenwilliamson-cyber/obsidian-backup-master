@@ -31,5 +31,8 @@ pañcadhādyantagaṃ caikyamityupāntyākṣago vidhiḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 415)
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.32–33]]
+
 Jayaratha comments on this verse together with 27.39: see [[Tantraloka 27.039#Viveka|27.39]].
 

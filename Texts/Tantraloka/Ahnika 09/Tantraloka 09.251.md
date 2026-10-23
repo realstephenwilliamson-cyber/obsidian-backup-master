@@ -31,6 +31,9 @@ andhe paṅgau rūpagatiprakāśo na na bhāsate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 237–238)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.251]]
+
 *Lead-in:* ननु चक्षुरादेरिव रूपादौ क्वानयोर्विवेकेन करणत्वं दृष्टम्? -- इत्याशङ्क्य प्रागुक्तं हेतुतया निर्दिशन्नाह -
 
 > अत एव विहीनेऽपि बुद्धिकर्मेन्द्रियैः क्वचित् ।

@@ -34,6 +34,9 @@ paśyantī madhyamā sthūlā vaikharītyabhiśabditam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 362–365)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.236]]
+
 *Lead-in:* तथात्वे चास्य पश्यन्त्यादिशब्दाभिधेयं त्रैविध्यं भवेत् -- इत्याह - -
 
 > विभागाभासने चास्य त्रिधा वपुरुदाहृतम् ।

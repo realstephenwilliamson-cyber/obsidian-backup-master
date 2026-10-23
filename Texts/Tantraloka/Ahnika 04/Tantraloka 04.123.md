@@ -36,6 +36,13 @@ sa ca dvādaśadhā tatra sarvamantarbhavedyataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 149–152)
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.122–123]]
+>
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.123–124]]
+>
+> ![[Tantraloka Dyczkowski v03 06 - Chapter Four, part 5#Viveka on 4.123–124 (continued)]]
+
 *Lead-in:* इयदेव हि नामास्याः परामर्शरूपत्वं -- यद्विश्वरूपतया प्रस्फुरति, इत्यत आह --
 
 Jayaratha comments on this verse together with 4.122: see [[Tantraloka 04.122#Viveka|4.122]].

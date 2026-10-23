@@ -36,6 +36,13 @@ yathānyaśiṣyānuṣṭhānaṃ nānyaśiṣyeṇa budhyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 379–380)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 26.28–29.*
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.24–25]]
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.28–29]]
+
 *Lead-in:* गुप्तिपरेण च अत्र गुरुणा भाव्यम्--इत्याह--
 
 Jayaratha comments on this verse together with 26.24: see [[Tantraloka 26.024#Viveka|26.24]].

@@ -31,6 +31,9 @@ ityuktavānsvapaddhatyāmīśānaśivadaiśikaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 287)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.28–31]]
+
 > प्राग्लिङ्गिनां मोक्षदीक्षा साधिकारविवर्जिता ॥
 > साधकाचार्यतामार्गे न योग्यास्ते पुनर्भुवः ।
 > पुनर्भुवोऽपि ज्ञानेद्धा भवन्ति गुरुतास्पदम् ॥

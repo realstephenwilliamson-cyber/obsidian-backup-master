@@ -31,5 +31,10 @@ tatastiryagvrajet sūtraṃ caturthaṃ tadanantare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 72–73)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 31.14–15.*
+>
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.14–15]]
+
 Jayaratha comments on this verse together with 31.23: see [[Tantraloka 31.023#Viveka|31.23]].
 

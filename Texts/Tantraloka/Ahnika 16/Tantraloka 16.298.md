@@ -37,6 +37,11 @@ yastu vijñānayogādivandhyaḥ so'ndho yathā pathi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 133–134)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.297–298]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.298–299]]
+
 *Lead-in:* ननु ज्ञानयोगादौ दुर्बलस्य का वार्त्ता?--इत्याशङ्क्याह--
 
 > यस्तु विज्ञानयोगादिवन्ध्यः सोऽन्धो यथा पथि ॥

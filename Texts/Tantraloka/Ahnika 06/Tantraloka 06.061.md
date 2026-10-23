@@ -34,6 +34,9 @@ hṛdayātprāṇacāraśca nāsikyadvādaśāntataḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 270–271)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.61]]
+
 *Lead-in:* तदाह -
 
 > हृदयात्प्राणचारश्च नासिक्यद्वादशान्तः ।

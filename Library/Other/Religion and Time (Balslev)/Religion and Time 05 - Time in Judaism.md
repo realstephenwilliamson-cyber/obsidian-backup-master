@@ -464,7 +464,7 @@ The messianic hope was derived from this. However, in the form in which this tra
 Even though many wondrous features appear in these lists, it is nevertheless clear that the subject is this-worldly. History goes on, but in a manner of speaking, it does so within a new framework, one characterized by peace, harmony, and righteousness. We do not have to do with a new creation of the world. Even when the prophets explicitly speak of a new creation, as in [[Isaiah 42#^42-8|Isaiah 42:8f.]] and 43:15-21, this means merely, as in the New Year festival, that the Lord has become king and has established his kingdom. The same is the case when Trito-lsaiah ([[Isaiah 65#^65-17|Isa 65:17]]; [[Isaiah 66#^66-22|66:22]]) speaks of a new heaven and a new earth. A handful of passages give the immediate impression that man is to be re-created: God will inscribe his law in men's hearts ([[Jeremiah 31#^31-33|Jer 31:33]]), or he will give them a new heart and a new spirit ([[Ezekiel 11#^11-19|Ezek 11: 19]]). But the most probable interpretation of these passages is that, at that time, me will be inwardly motivated to fulfill the Law. [^53]There is no new creation in the sense that this will bring about an end to history; the prophets were merely convinced that, at that time, history would confine itself to its new framework of harmony and righteousness. 
 
 [^52]: For more detailed references, see Mowinckel, *He that Comes,* pp. 145-149.
-[^53]: The idea is thus different from the one we find in Rabbinic traditions from as early as Tannaitic times; according to these, in the messianic time God will excise the evil inclination from men's hearts, so that they *cannot* sin any more. On this, see Sukka 52a, which quotes Rabbi Judah for this view. The prophets' idea is simply that they cannot imagine that man will continue to sin.
+[^53]: The idea is thus different from the one we find in Rabbinic traditions from as early as Tannaitic times; according to these, in the messianic time God will excise the evil inclination from men's hearts, so that they *cannot* sin any more. On this, see [[Sukkah 52#52a|Sukka 52a]], which quotes Rabbi Judah for this view. The prophets' idea is simply that they cannot imagine that man will continue to sin.
 
 *[p. 86]* ^pg94
 
@@ -660,7 +660,7 @@ Both disputants are but perpetuating viewpoints which we observed earlier in the
 
 <sup>84</sup>From the U vekhen prayer; see J.H. Hertz, *The Daily Prayer Book,* p. 849. Cf. the Aleinu prayer, ibid., pp. 863-873. Both prayers had been composed by the 3rd century CE at the latest. 
 
-<sup>85</sup>Sanhedrin, 97b. 
+<sup>85</sup>[[Sanhedrin 97#97b|Sanhedrin, 97b]]. 
 
 *[p. 98]* ^pg106
 
@@ -738,7 +738,7 @@ In connection with the concept of "time" in Judaism, it makes little sense to se
 
 100\. Urbach, op. cit., p. 514.
 
-[^101]: Urbach, ibid., pp. 443ff. Some rabbis were adherents ofan "absolute theodicy": even when the righteous is struck down by suffering, God is to be praised as the one who is faithful and without iniquity; cf. ibid., p. 515. In general we must take note of the fact that although the idea of sin and retribution is pervasive in the Talmud, for the rabbis it remained an extreme point of view when *Rabbi Ammi* held that, "There is no death without sin, and no suffering without iniquity." This view was summarily rejected. The discussion in the Talmud (Shabbat 56b) which contains his words, ends on the statement that, "This proves that there is death without sin and suffering without iniquity, and Rav Ammi stands refuted." (cf. Urbach op. cit., p. 435).
+[^101]: Urbach, ibid., pp. 443ff. Some rabbis were adherents ofan "absolute theodicy": even when the righteous is struck down by suffering, God is to be praised as the one who is faithful and without iniquity; cf. ibid., p. 515. In general we must take note of the fact that although the idea of sin and retribution is pervasive in the Talmud, for the rabbis it remained an extreme point of view when *Rabbi Ammi* held that, "There is no death without sin, and no suffering without iniquity." This view was summarily rejected. The discussion in the Talmud ([[Shabbat 56#56b|Shabbat 56b]]) which contains his words, ends on the statement that, "This proves that there is death without sin and suffering without iniquity, and Rav Ammi stands refuted." (cf. Urbach op. cit., p. 435).
 
 *[p. 104]* ^pg112
 

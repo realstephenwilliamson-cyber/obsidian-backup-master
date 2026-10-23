@@ -36,6 +36,11 @@ tasmādvīryātprajāstāśca vīryaṃ karmasu kathyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 354–357)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.230]]
+>
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.230–231]]
+
 *Lead-in:* एवमप्यस्य किं विश्वोत्तीर्णं रूपमुत विश्वमयम् ? -- इत्याशङ्क्याह --
 
 > तद्बलं च तदोजश्च ते प्राणाः सा च कान्तता ।

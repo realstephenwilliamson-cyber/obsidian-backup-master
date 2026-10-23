@@ -31,6 +31,9 @@ syurguhāgahanāntaḥsthāḥ suptā iva sarīsṛpāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 119–120)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.138–139]]
+
 *Lead-in:* एतदुपसंहरन् अन्यदवतारयति --
 
 Jayaratha comments on this verse together with 9.139: see [[Tantraloka 09.139#Viveka|9.139]].

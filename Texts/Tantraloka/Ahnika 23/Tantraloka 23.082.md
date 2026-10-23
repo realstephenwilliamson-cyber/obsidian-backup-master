@@ -31,6 +31,9 @@ no cennūnamaviśvasto viśvasta iva tiṣṭhati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 332)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.81–82]]
+
 > न ध्वस्तव्याधिकः को हि भिषजं बहु मन्यते ।
 > असूयुर्नूनमध्वस्तव्याधिः स्वस्थायते बलात् ॥
 > एवं ज्ञानसमाश्वस्तः किं किं न गुरवे चरेत् ।

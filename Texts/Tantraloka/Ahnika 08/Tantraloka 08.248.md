@@ -34,6 +34,9 @@ tato bhogaphalāvāptibhedādbhedo'yamucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 261–262)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.248]]
+
 > गुणानामाधरौत्तर्याच्छुद्धाशुद्धत्वसंस्थितेः ॥
 > तारतम्याच्च योगस्य भेदात्फलविचित्रता ।
 > ततो भोगफलावाप्तिभेदाद्भेदोऽयमुच्यते ॥

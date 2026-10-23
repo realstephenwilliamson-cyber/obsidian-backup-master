@@ -35,6 +35,9 @@ kevalamityapi kecillokālokāntare ravirna bahiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 150–152)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.107–108]]
+
 > सप्तमजलधेर्बाह्ये हैमी भूः कोटिदशकमथ लक्षम् ।
 > उच्छिर्त्या विस्तारादयुतं लोकेतराचलः कथितः ॥
 > लोकालोकदिगष्टकसंस्थं रुद्राष्टकं सलोकेशम् ।

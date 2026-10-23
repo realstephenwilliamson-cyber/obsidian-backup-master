@@ -36,5 +36,10 @@ amarāvatikendrasya pūrvasyāṃ dakṣiṇena tām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 101–102)
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.45–48]]
+>
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.48–52]]
+
 Jayaratha comments on this verse together with 8.55: see [[Tantraloka 08.055#Viveka|8.55]].
 

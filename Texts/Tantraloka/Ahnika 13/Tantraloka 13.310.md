@@ -31,6 +31,9 @@ dhruvaṃ pacyeta narake prāyaścittyupasevanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 317–319)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.310]]
+
 *Lead-in:* नन्वयमन्यशास्त्ररतो गुरुश्छद्मादिना वा शैवं शास्त्रं गृह्णातु, प्रायश्चित्ती वा भवतु, किमनया नश्चिन्तया, शिष्यं तावदनुगृह्णात्येव? -- इत्याशङ्क्याह --
 
 > फलाकाङ्क्षायुतः शिष्यस्तदेकायत्तसिद्धिकः ।

@@ -33,6 +33,11 @@ naitasyāmaparā turyadaśā sambhāvyate kila || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 471–472)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.273–275]]
+>
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.275–276]]
+
 *Lead-in:* नन्वस्यामपि परस्परसाङ्कर्याज्जाग्रदादिवच्चातूरूप्यं किं संभवेन्न वा ? -- इत्याशङ्क्याह --
 
 > नैतस्यामपरा तुर्यदशा सम्भाव्यते किल ॥

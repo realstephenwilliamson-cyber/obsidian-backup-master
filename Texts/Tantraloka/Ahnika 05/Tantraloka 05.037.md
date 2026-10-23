@@ -34,6 +34,9 @@ pañcāśadaraparyantaṃ cakraṃ yogī vibhāvayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 36–37)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.37–38]]
+
 *Lead-in:* न केवलमेतदेव चक्रं योगिना ध्येयं यावच्चक्रान्तराण्यपि -- इत्याह - -
 
 Jayaratha comments on this verse together with 5.38: see [[Tantraloka 05.038#Viveka|5.38]].

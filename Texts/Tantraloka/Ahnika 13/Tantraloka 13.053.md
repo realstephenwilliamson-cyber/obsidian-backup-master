@@ -31,6 +31,9 @@ iti pūrvāhṇike proktaṃ punaruktau tu kiṃ phalam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 157)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.53]]
+
 *Lead-in:* एवं परकीयं शक्तिपातविधिं प्रदर्श्य निराकरोति --
 
 > अत्रोच्यते मलस्तावदित्थमेष न युज्यते ।

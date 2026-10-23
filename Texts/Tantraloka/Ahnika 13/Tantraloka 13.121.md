@@ -31,6 +31,9 @@ sthitvā mantrādi saṃgṛhya tyajetso'sya tirobhavaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 197–198)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.120–121]]
+
 *Lead-in:* इदानीम् "आगममहौषधीं वच्मि"इत्युपक्रान्तं निर्वाहयितुमाह --
 
 > श्रीसारशास्त्रे भगवान्वस्त्वेतत्समभाषत ॥

@@ -31,5 +31,8 @@ pūjādhyānajapāpluṣṭasamaye na tu sādhake || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 347)
+> ![[Tantraloka Dyczkowski v09 15 - Chapter Twenty-Four#Viveka on 24.6–9]]
+
 Jayaratha comments on this verse together with 24.8: see [[Tantraloka 24.008#Viveka|24.8]].
 

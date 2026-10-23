@@ -33,6 +33,11 @@ evamanyānbahūṃścakrabhedānasmātprakalpayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 177–178)
+> ![[Tantraloka Dyczkowski v11 07 - Chapter Thirty-Three#Viveka on 33.19]]
+>
+> ![[Tantraloka Dyczkowski v11 07 - Chapter Thirty-Three#Viveka on 33.19 (2)]]
+
 *Lead-in:* अत्रैव विशेषमभिधत्ते--
 
 > द्वात्रिंशदरके सान्तं बिन्दुः सर्वेषु मूर्धनि ।

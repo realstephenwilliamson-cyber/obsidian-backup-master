@@ -33,6 +33,11 @@ yadi sarvagato devo vadotkramya kva yāsyati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 365–368)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.32–33]]
+>
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.33–35]]
+
 *Lead-in:* तदेव उपपादयितुं तत्रत्यमेव ग्रन्थं पठति --
 
 Jayaratha comments on this verse together with 14.32: see [[Tantraloka 14.032#Viveka|14.32]].

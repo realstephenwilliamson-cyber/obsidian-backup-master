@@ -33,6 +33,11 @@ prabudhyate tathā coktaṃ śāstre śrīpūrvanāmani || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 126–127)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.147]]
+>
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.147–149]]
+
 *Lead-in:* न चैतत् युक्तिमात्रसिद्धमेव -- इत्याह --
 
 > ...........टथा चोक्तं शास्त्रे श्रीपूर्वनामनि ॥

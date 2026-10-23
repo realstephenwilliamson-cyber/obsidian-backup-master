@@ -31,6 +31,9 @@ yogino'rcājapadhyānayogāḥ saṃsyuḥ sadoditāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 357)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.25]]
+
 *Lead-in:* ननु भवतु संविदः सृष्ट्यादौ कृत्यपञ्चके कर्तृत्वं नाम शिवत्वं मादृशां पुनरेतदुपदेशेन कोऽर्थः? -- इत्याशङ्क्याह --
 
 > पञ्चकृत्यस्वतन्त्रत्वसंपूर्णस्वात्ममानिनः ।

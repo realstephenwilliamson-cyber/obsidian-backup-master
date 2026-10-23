@@ -34,6 +34,9 @@ niraṃśabhāvasaṃbodhastathaivātrāpi budhyatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 376–377)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.197]]
+
 *Lead-in:* ननु यद्येवं तर्हि रुद्रशक्तावेवं-समावेशोऽभिधीयतां किं भूताद्यावेशेन इति स एव दोषः ? इत्याशङ्कां गर्भीकृत्य, एतदेव उपसंहारभङ्ग्या दृष्टान्तं दर्शयन् उपपादयति --
 
 > तस्माद्यथा पुरस्थेऽर्थे गुणाद्यंशांशिकामुरवात् ।

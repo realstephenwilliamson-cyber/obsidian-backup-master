@@ -31,6 +31,9 @@ anīpsurapi yastasmai bhūyase svaphalāya sā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 94–95)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.143–145]]
+
 *Lead-in:* ननु किमेवं क्रियाडम्बरेण?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 15.145: see [[Tantraloka 15.145#Viveka|15.145]].

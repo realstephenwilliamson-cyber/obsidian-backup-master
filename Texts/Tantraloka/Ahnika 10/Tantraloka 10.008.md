@@ -33,6 +33,11 @@ parāṃśo mātṛrūpo'tra pramāṇāṃśaḥ parāparaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 296–297)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.7–8]]
+>
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.8–9]]
+
 *Lead-in:* त्रैरूप्यमेव वर्णयति --
 
 > परांशो मातृरूपोऽत्र प्रमाणांशः परापरः ॥

@@ -31,6 +31,9 @@ seyaṃ paśyati māṃ netratribhāgeneti sādaram || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 332–333)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.58–60]]
+
 > तथाहि निभृतश्चौरश्चैत्रवेद्यमिति स्फुटम् ॥
 > बुद्ध्वा नादत्त एवाशु परीप्साविवशोऽपि सन् ।
 > सेयं पश्यति मां नेत्रत्रिभागेनेति सादरम् ॥

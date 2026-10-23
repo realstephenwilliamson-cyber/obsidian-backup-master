@@ -33,6 +33,11 @@ anye tvāhurmano jātaṃ rājasāhaṃkṛteryataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 254–256)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.272–273]]
+>
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.273–275]]
+
 *Lead-in:* इत्युक्तम् -- एवमाशङ्कां गर्भीकृत्य तत्रैव व्याख्याभेदं तावत् दर्शयति --
 
 Jayaratha comments on this verse together with 9.272: see [[Tantraloka 09.272#Viveka|9.272]].

@@ -36,6 +36,11 @@ dehātīte'pi viśrāntyā saṃvitteḥ kalpanāvaśāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 53–54)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.110–112]]
+>
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.112–113]]
+
 *Lead-in:* ननु देहस्यैवं माने वक्तुमुपक्रान्ते कथं तदतीतेऽपि तदुच्येत्?-- इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 16.111: see [[Tantraloka 16.111#Viveka|16.111]].

@@ -37,6 +37,11 @@ asyā cākṛtrimānantavarṇasaṃvidi rūḍhatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 59–62)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.66–67]]
+>
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.67–68]]
+
 *Lead-in:* न केवलमियमसङ्केतभाजां बालादीनामेव विचित्रायां प्रमातृतायां निबन्धनं यावत्सङ्केतभाजां व्युत्पन्नानामपि -- इत्याह --
 
 > अस्या चाकृत्रिमानन्तवर्णसंविदि रूढताम् ॥

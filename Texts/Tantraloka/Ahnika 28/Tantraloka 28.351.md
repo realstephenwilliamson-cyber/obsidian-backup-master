@@ -33,6 +33,11 @@ deśādivyavadhāne'pi vāsanānāmudīritāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 154–156)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.349–351]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.351–353]]
+
 *Lead-in:* नन्वत्र कथङ्कारं शरीरान्तरावस्थितत्वात् दूरव्यवहिता वासना प्रबोधमियात् येन तदुत्थायाः स्मृतेरपि तद्देहवैचित्र्यफलदायित्वं स्यात् ?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 28.350: see [[Tantraloka 28.350#Viveka|28.350]].

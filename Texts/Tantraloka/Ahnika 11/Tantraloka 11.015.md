@@ -36,5 +36,10 @@ atrāsmadguravaḥ prāhuryatpṛthivyādipañcakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 9–11)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 11.18.*
+>
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.18]]
+
 Jayaratha comments on this verse together with 11.18: see [[Tantraloka 11.018#Viveka|11.18]].
 

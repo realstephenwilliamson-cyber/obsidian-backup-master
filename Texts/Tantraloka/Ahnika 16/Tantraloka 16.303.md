@@ -35,6 +35,9 @@ yaḥ punarlaukikaṃ bhogaṃ rājyasvargādikaṃ śiśuḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 135)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.302–304]]
+
 > दुष्टानामेव सर्वेषां भूतभव्यभविष्यताम् ॥
 > कर्मणां शोधनं कार्यं बुभुक्षोर्न शुभात्मनाम् ।
 > यः पुनर्लौकिकं भोगं राज्यस्वर्गादिकं शिशुः ॥

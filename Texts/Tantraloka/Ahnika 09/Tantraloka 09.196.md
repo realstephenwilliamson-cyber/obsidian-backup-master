@@ -31,5 +31,8 @@ puṃsprakāśādbhāti bhāvaḥ maivaṃ tatpratibimbanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 170–171)
+> ![[Tantraloka Dyczkowski v06 07 - Chapter Nine, part 5#Viveka on 9.196–197]]
+
 > पुंस्प्रकाशाद्भाति भावः मैवं तत्प्रतिबिम्बनम् ॥
 

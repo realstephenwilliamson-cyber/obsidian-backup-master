@@ -36,6 +36,11 @@ saṃbodhanavibhaktyaiva vinā karmādiśaktitām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 151–152)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.21–22]]
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.22–24]]
+
 *Lead-in:* ननु यद्येवं, तद्देवमावाहयामीत्याह्वानादौ स्थिते किं प्रतिपत्तव्यम् ?--इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 17.21: see [[Tantraloka 17.021#Viveka|17.21]].

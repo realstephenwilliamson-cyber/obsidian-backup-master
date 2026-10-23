@@ -31,5 +31,8 @@ vikalpayuktacittastu piṇḍapātācchivaṃ vrajet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 374)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.42–45]]
+
 Jayaratha comments on this verse together with 14.45: see [[Tantraloka 14.045#Viveka|14.45]].
 

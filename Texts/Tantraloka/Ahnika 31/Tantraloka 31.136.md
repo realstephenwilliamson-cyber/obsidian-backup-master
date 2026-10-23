@@ -31,6 +31,9 @@ marmāṇi ca caturdikṣu madhyād dvāreṣu sundari || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 122)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.136–137]]
+
 *Lead-in:* तत्र द्वारं तावत् वर्तयति--
 
 Jayaratha comments on this verse together with 31.137: see [[Tantraloka 31.137#Viveka|31.137]].

@@ -39,6 +39,9 @@ samyaksamucchalayatānmama saṃvidabdhim || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 50–55)
+> ![[Tantraloka Dyczkowski v01 03 - Chapter One, part 2#Viveka on 1.6]]
+
 *Lead-in:* एवं स्वदर्शनोचितदेवतापरामर्शानन्तरं तत्स्वरूपानुप्रवेशेनैव युगपद् गणेशवटुकावपि अभिमुखयति --
 
 > तद्देवताविभवभाविमहामरीचि

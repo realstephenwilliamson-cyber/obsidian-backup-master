@@ -35,6 +35,9 @@ pitṝṇāṃ yatsvamānena varṣaṃ taddivyamucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 359)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.130–132]]
+
 > षट् प्राणाश्चषकस्तेषां षष्टिर्नाली च तास्तथा ।
 > तिथिस्तत्त्रिंशता मासस्ते द्वादश तु वत्सरः ॥
 > अब्दं पित्र्यस्त्वहोरात्र उदग्दक्षिणतोऽयनात् ।

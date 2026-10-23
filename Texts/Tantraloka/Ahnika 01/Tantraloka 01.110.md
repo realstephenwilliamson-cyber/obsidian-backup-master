@@ -35,6 +35,9 @@ pañcamūrtiḥ ṣaḍātmāyaṃ saptako'ṣṭakabhūṣitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 271–276)
+> ![[Tantraloka Dyczkowski v01 08 - Chapter One, part 7#Viveka on 1.110–111]]
+
 *Lead-in:* तदेवाह—
 
 Jayaratha comments on this verse together with 1.111: see [[Tantraloka 01.111#Viveka|1.111]].

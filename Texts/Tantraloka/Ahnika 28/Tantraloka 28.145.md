@@ -33,6 +33,11 @@ pavitrakavilope tu prāyaścittaṃ japetsudhīḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 73)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.144–145]]
+>
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.145–146]]
+
 *Lead-in:* नन्वेवं पवित्रकस्यापि लोपे किं स्यात् ?--इत्याशङ्क्य आह--
 
 > पवित्रकविलोपे तु प्रायश्चित्तं जपेत्सुधीः ॥

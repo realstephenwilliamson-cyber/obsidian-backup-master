@@ -33,6 +33,11 @@ maṇḍale svastikaṃ kṛtvā tatra haimādikāsanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 195–197)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.423–425]]
+>
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.425–429]]
+
 *Lead-in:* कथं च अत्र गुरुपूजनं कार्यम्--इत्याह--
 
 Jayaratha comments on this verse together with 28.424: see [[Tantraloka 28.424#Viveka|28.424]].

@@ -36,5 +36,10 @@ tato bhūmyūrdhva [madhya] to meruḥ sahasrāṇi sa ṣoḍaśa || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 98–99)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 8.43–44.*
+>
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.43–44]]
+
 Jayaratha comments on this verse together with 8.44: see [[Tantraloka 08.044#Viveka|8.44]].
 

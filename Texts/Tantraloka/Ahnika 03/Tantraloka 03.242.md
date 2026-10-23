@@ -36,6 +36,11 @@ madhyāyāścāvibhāgāṃśasadbhāva iti raktatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 368–369)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.241–242]]
+>
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.242–243]]
+
 *Lead-in:* तदेवमत्राविभागांशस्य सद्भावान्माधुर्यमपि संभवेदिति लोकस्याप्यत्रासक्तिः -- इत्याह --
 
 > मध्यायाश्चाविभागांशसद्भाव इति रक्तता ॥

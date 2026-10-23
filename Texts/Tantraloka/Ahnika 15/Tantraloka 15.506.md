@@ -32,6 +32,11 @@ saṃdhyā bhikṣeti saṃskārāḥ sapta sapta vratāni ca || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 311)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 15.509–510.*
+>
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.509–510]]
+
 *Lead-in:* अत्रैव संस्कारान्तराणामपि अन्तर्भावं दर्शयति--
 
 Jayaratha comments on this verse together with 15.509: see [[Tantraloka 15.509#Viveka|15.509]].

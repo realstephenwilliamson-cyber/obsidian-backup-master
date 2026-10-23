@@ -34,6 +34,11 @@ tata ūrdhvādharanyāsādanyonyaunmukhyasundaram || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 262–265)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.423–424]]
+>
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.424–428]]
+
 *Lead-in:* इति । एवं होमान्ते तत्पूर्णतासंपत्तये पूर्णाहुतिर्दातव्या इति तत्प्रयोगमाह--
 
 Jayaratha comments on this verse together with 15.423: see [[Tantraloka 15.423#Viveka|15.423]].

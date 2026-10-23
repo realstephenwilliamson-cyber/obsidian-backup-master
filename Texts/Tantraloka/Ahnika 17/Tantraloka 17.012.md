@@ -34,6 +34,9 @@ tubhyaṃ nāma caturthyantaṃ tato'pyucitadīpakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 145)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.11–13]]
+
 > तारो वर्णोऽथ संबुद्धिपदं त्वामित्यतः परम् ॥
 > उत्तमैकयुतं कर्मपदं दीपकमप्यतः ।
 > तुभ्यं नाम चतुर्थ्यन्तं ततोऽप्युचितदीपकम् ॥

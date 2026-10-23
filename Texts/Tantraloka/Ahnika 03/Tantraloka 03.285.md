@@ -35,6 +35,9 @@ viśvaṃ dravati mayyetaditi paśyanpraśāmyati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 405)
+> ![[Tantraloka Dyczkowski v02 12 - Chapter Three, part 9#Viveka on 3.283–285]]
+
 > स्वात्मन्येव चिदाकाशे विश्वमस्म्यवभासयन् ।
 > स्रष्टा विश्वात्मक इति प्रथया भैरवात्मता ॥
 > षडध्वजातं निखिलं मययेव प्रतिबिम्बितम् ।

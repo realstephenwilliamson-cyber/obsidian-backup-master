@@ -34,6 +34,9 @@ sa hi loṣṭādike'pyasti na ca tasyāsti saṃsṛtiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 124)
+> ![[Tantraloka Dyczkowski v01 05 - Chapter One, part 4#Viveka on 1.25]]
+
 *Lead-in:* इत्याशङ्क्याह—
 
 > अज्ञानमिति न ज्ञानाभावश्चातिप्रसङ्गतः ।

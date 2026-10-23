@@ -52,7 +52,7 @@ And it[^72] has stood by us to redeem the life of our soul from the counsel of t
 
 [^1]: [[Isaiah 01#^1-27|Isaiah 1:27]].
 [^2]: See below, note 55.
-[^3]: *Shabbat* 139a; *Sanhedrin* 98a.
+[^3]: [[Shabbat 139#139a|*Shabbat* 139a]]; [[Sanhedrin 98#98a|*Sanhedrin* 98a]].
 [^4]: [[Psalms 085#^85-14|Psalms 85:14]].
 [^5]: *Tzedek* (righteousness; here in the sense of charity) shall go before Him.
 [^6]: This would be the proper grammatical form for the conventional translation and sense, rather than the causative “*yehalech*.”
@@ -76,20 +76,20 @@ And it[^72] has stood by us to redeem the life of our soul from the counsel of t
 [^24]: [[Proverbs 03#^3-19|Proverbs 3:19]].
 [^25]: “The L–rd *by chochmah* founded the earth,” or “the L–rd *in chochmah*,” etc. *Chochmah*, the “hyle” of the creation (cf. Addendum, *Mystical Concepts in Chassidism*, s.v. *Chochmah*), “embodies,” as it were, Divinity. Hence the soul contains a spark of Divinity in its faculty of *chochmah—*which ultimately originates in the Supreme *chochmah*. See *Likkutei Amarim*, Part I, ch. 18; cf. *Etz Chaim* 42:3.
 [^26]: *Pnimiyut* is the innermost point; the essence. (See Addendum, ibid., s.v. *Pnimiyut*) Intellect and emotion are external to soul; they are its expression and manifestation. *Chochmah*, a state of nascence rather than an external entity, is as close to essence of soul as is attainable. Its revelation is the expression of the soul’s essence and is naturally uncommon. As the text explains, it is in a “state of exile,” the spark of Divinity within it prevented from manifesting itself, remaining more potential than effective in ordering actual life.
-[^27]: *Megillah* 29a.
+[^27]: [[Megillah 29#29a|*Megillah* 29a]].
 [^28]: I.e., in the corresponding opposite of the love and worship of G–d.
 [^29]: Cf. *Likkutei Amarim*, Part I, ch. 17, with respect to *Edom*.
 [^30]: [[Torah 46 - Eikev#^10-16|Deuteronomy 10:16]]. (“Excise” in Hebrew is the same term used for “circumcise.”)
 [^31]: Excision.
 [^32]: Uncovering (as in [[Torah 35 - Nasso#^5-18|Numbers 5:18]]; see *Ibn Ezra*, ad loc.).
-[^33]: *Shabbat* 137b.
+[^33]: [[Shabbat 137#137b|*Shabbat* 137b]].
 [^34]: See *Pardes Rimonim* 23:17, s.v. *Periah*.
 [^35]: [[Torah 51 - Nitzavim#^30-6|Deuteronomy 30:6]]. See the commentary of Nachmanides, ad loc.
 [^36]: This unique interpretation may be better understood by quoting a passage from *Kuntres Hahitpaalut*, by the author’s son, R. Dov Ber of Lubavitch, where this oft-quoted principle is elucidated: “It is written ([[Torah 51 - Nitzavim#^30-20|Deuteronomy 30:20]]): ‘to love the L–rd your G–d, for He is your life.’ (The verse uses the masculine term for ‘He’—הוא, translit.: *Hu*.) It is impossible to explain that ‘for *Hu* is your life’ refers to ‘to love the L–rd’—i.e., that this love is your life. For if so, it would have to say ‘for היא (translit.: *He*, the feminine gender, since the Hebrew for love—*ahavah*—is a feminine word)…. Why then does it say ‘for *Hu…*’? No doubt that the meaning of this passage is intelligible to all, that is, that ‘for *Hu* is your life’ is a reason given: *why* should you love (*the L–rd*)? Because ‘*He* is your life.’” (Beginning of *Kuntres Hahitpaalut*; see also *Iggeret Hateshuvah*, ch. 9.)
 [^37]: The love spoken of in the verse quoted, which follows after the Divine excision of the heart’s thin membrane.
 [^38]: *Hessech Hadaat*, lit., removal (or lack) of *daat*. The interpretation here is that the lack of *daat* comes through a transcendence of *daat* rather than the conventional inference of forgetfulness.
-[^39]: *Sanhedrin* 97a.
-[^40]: Prayer is termed “momentary life” because it deals with requests for momentary needs (of the momentary life on earth) in opposition to the study of Torah (eternal life), the benefit of which is not for the moment only but for eternity. (*Shabbat* 10a, see comment by Rashi and *Maharsha*, ad loc., though see *Kuntres Acharon*, Essay 4.)
+[^39]: [[Sanhedrin 97#97a|*Sanhedrin* 97a]].
+[^40]: Prayer is termed “momentary life” because it deals with requests for momentary needs (of the momentary life on earth) in opposition to the study of Torah (eternal life), the benefit of which is not for the moment only but for eternity. ([[Shabbat 10#10a|*Shabbat* 10a]], see comment by Rashi and *Maharsha*, ad loc., though see *Kuntres Acharon*, Essay 4.)
 [^41]: Absentmindedness; see above, note 38.
 [^42]: The revelation of this innermost spark, the *Shechinah* residing within man in concealment.
 [^43]: [[Torah 35 - Nasso#^6-25|Numbers 6:25]]; see above, note 9.
@@ -103,7 +103,7 @@ And it[^72] has stood by us to redeem the life of our soul from the counsel of t
 [^51]: [[Proverbs 04#^4-23|Proverbs 4:23]].
 [^52]: See *Rashi* on [[Torah 10 - Miketz#^42-17|Genesis 42:17]].
 [^53]: The forces of evil; see above, Epistle 3, note 28.
-[^54]: Cf. Mishnah, *Bava Batra* 10:7, *Shevuot* 7:7; *Bava Batra* 174a; etc.
+[^54]: Cf. Mishnah, *Bava Batra* 10:7, *Shevuot* 7:7; [[Bava Batra 174#174a|*Bava Batra* 174a]]; etc.
 [^55]: The word שביה may be traced to the root שוב, *to return* (thus reading: her repatriates), or to the root שבה *to capture* (thus reading: her captives).
 [^56]: The active form of the causative stem of the verb הלך.
 [^57]: *Tzedek—*righteousness; charity. [[Psalms 085#^85-14|Psalms 85:14]] is now interpreted to read: charity leads the *pnimiyut* of the heart to G–d.
@@ -114,14 +114,14 @@ And it[^72] has stood by us to redeem the life of our soul from the counsel of t
 [^62]: Cf. *Zohar* [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-210b|II:210b]].
 [^63]: *Heorat Panim*, in Hebrew.
 [^64]: *Hester Panim*, in Hebrew.
-[^65]: *Tosefta*, *Peah*, end of ch. 4; *Bava Batra* 10a.
+[^65]: *Tosefta*, *Peah*, end of ch. 4; [[Bava Batra 10#10a|*Bava Batra* 10a]].
 [^66]: [[Psalms 055#^55-19|Psalms 55:19]]. Or: “through peace.”
 [^67]: I.e., the *pnimiyut*, the innermost point.
-[^68]: *Tosefta*, *Peah*, end of ch. 4; *Bava Batra* 10a.
+[^68]: *Tosefta*, *Peah*, end of ch. 4; [[Bava Batra 10#10a|*Bava Batra* 10a]].
 [^69]: See below, Epistle 17.
 [^70]: [[Torah 46 - Eikev#^11-12|Deuteronomy 11:12]].
 [^71]: [[I Kings 09#^9-3|I Kings 9:3]].
 [^72]: This charity.
-[^73]: Lit., the Life of life; cf. *Yoma* 71a; *Tikkunei Zohar* 19 ([[Tikkunei Zohar 041b|41b]]) and 69 (115a); and see below, end of Epistle 22a.
+[^73]: Lit., the Life of life; cf. [[Yoma 71#71a|*Yoma* 71a]]; *Tikkunei Zohar* 19 ([[Tikkunei Zohar 041b|41b]]) and 69 (115a); and see below, end of Epistle 22a.
 [^74]: Par. [[Job 33#^33-30|Job 33:30]]; cf. [[Psalms 056#^56-14|Psalms 56:14]].
 [^75]: [[Psalms 067#^67-2|Psalms 67:2]]; cf. above, end of Epistle 3.

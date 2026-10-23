@@ -34,6 +34,9 @@ vilāpite'pi bhāvaughe kañcidbhāvaṃ tadaiva sā |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 224–226)
+> ![[Tantraloka Dyczkowski v03 07 - Chapter Four, part 6#Viveka on 4.155–156]]
+
 *Lead-in:* एवं प्रमाणगतं स्थितिस्वरूपमभिधाय संहारस्वरूपमप्याह --
 
 > विलापितेऽपि भावौघे कञ्चिद्भावं तदैव सा ।

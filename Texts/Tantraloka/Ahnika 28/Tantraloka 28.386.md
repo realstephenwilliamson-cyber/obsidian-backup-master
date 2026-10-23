@@ -33,6 +33,11 @@ kalpavittatsamūhajñaḥ śāstravitsaṃhitārthavit || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 175–176)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.385–386]]
+>
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.386–387]]
+
 *Lead-in:* तदेवाह--
 
 > कल्पवित्तत्समूहज्ञः शास्त्रवित्संहितार्थवित् ॥

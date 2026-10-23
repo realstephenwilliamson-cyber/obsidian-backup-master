@@ -37,6 +37,11 @@ nistaraṅgāvatīrṇā sā vṛttirekā śivātmikā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 111–119)
+> ![[Tantraloka Dyczkowski v04 05 - Chapter Five, part 3#Viveka on 5.88–89]]
+>
+> ![[Tantraloka Dyczkowski v04 05 - Chapter Five, part 3#Viveka on 5.89–91]]
+
 *Lead-in:* सा च किंविधा ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 5.88: see [[Tantraloka 05.088#Viveka|5.88]].

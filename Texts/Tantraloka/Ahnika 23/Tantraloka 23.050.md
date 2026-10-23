@@ -31,6 +31,9 @@ yaḥ samyagjñānamādāya guruviśvāsavarjitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 320)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.50–51]]
+
 *Lead-in:* अत एव नायं प्रबुद्धायामपि तत्रेच्छायां तदप्ररोहात् ज्ञानादौ पात्रम्--इत्याह--
 
 > अप्ररूढतथेच्छाकस्तत एव न भाजनम् ।

@@ -31,6 +31,9 @@ tadāyaṃ parameśokto rahasyo bhaṇyate vidhiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 284–285)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.96]]
+
 *Lead-in:* एवं जपहोमपर्यन्तमर्चाविधिमभिधाय दौतं विधिमभिधातुमुपक्रमते--
 
 > साकं बाह्यस्थया शक्त्या यदा त्वेष समर्चयेत् ।

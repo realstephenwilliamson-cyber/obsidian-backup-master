@@ -31,6 +31,9 @@ halastaddviguṇe'ṣṭāre yādyaṃ hāntaṃ tu tattrike || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 177)
+> ![[Tantraloka Dyczkowski v11 07 - Chapter Thirty-Three#Viveka on 33.17–18]]
+
 > जुङ्कारोऽथाग्निपत्नीति षडरे षण्ठवर्जिताः ॥
 > द्वादशारे तत्सहिताः षोडशारे स्वराः क्रमात् ।
 > हलस्तद्द्विगुणेऽष्टारे याद्यं हान्तं तु तन्त्रिके ॥

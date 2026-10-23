@@ -34,5 +34,8 @@ vakṣyamāṇāṃ brahmavidyāṃ sakalāṃ niṣkalombhitām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 218–219)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.23–26]]
+
 Jayaratha comments on this verse together with 19.25: see [[Tantraloka 19.025#Viveka|19.25]].
 

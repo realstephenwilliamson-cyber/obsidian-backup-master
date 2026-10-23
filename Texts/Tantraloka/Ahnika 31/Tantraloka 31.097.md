@@ -31,6 +31,9 @@ grasate śūlacakraṃ sā tvicchāmātreṇa sarvadā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 107–108)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.97]]
+
 *Lead-in:* ननु इह पराया अपि परा मातृसद्भावादिशब्दव्यपदेश्या कालसङ्कर्षिणी भगवती उक्ता, सा कुत्र पूज्या?--इत्याशङ्क्य आह--
 
 > या सा कालान्तका देवी परातीता व्यवस्थिता ।

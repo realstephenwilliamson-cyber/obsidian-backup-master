@@ -34,6 +34,11 @@ tato guruḥ śiśormantrapūrvakaṃ devatārcanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 299–300)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.493–494]]
+>
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.494–496]]
+
 *Lead-in:* इदानीं सामयं कर्म अभिधातुमाह--
 
 Jayaratha comments on this verse together with 15.493: see [[Tantraloka 15.493#Viveka|15.493]].

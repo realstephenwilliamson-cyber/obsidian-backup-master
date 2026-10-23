@@ -35,6 +35,9 @@ tayoryadyāmalaṃ rūpaṃ sa saṅghaṭṭa iti smṛtaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 162–163)
+> ![[Tantraloka Dyczkowski v02 06 - Chapter Three, part 3#Viveka on 3.68]]
+
 *Lead-in:* इत्यादि महागुरूदितनीत्या अनयोः परस्परौन्मुख्यात्मकं यामलं रूपं स्यात्, तदा विश्वसर्गः -- इत्याह—
 
 > तयोर्यद्यामलं रूपं स सङ्घट्ट इति स्मृतः ।

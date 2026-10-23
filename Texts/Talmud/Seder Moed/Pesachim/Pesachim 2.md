@@ -1,0 +1,104 @@
+---
+type: "text"
+work: "Talmud Bavli"
+masekhet: "Pesachim"
+seder: "Moed"
+daf: 2
+translation: "William Davidson Edition - English"
+edition: "English from The William Davidson digital edition of the Koren Noé Talmud, with commentary by Rabbi Adin Even-Israel Steinsaltz"
+license: "CC-BY-NC"
+source: "https://www.sefaria.org/Pesachim.2a?ven=William_Davidson_Edition_-_English&lang=en"
+aliases:
+  - "Pesachim 2a"
+  - "Pesachim 2b"
+  - "BT Pesachim 2"
+---
+# Pesachim 2
+
+[[Pesachim]] · [[Pesachim 3]] →
+
+*Seder Moed · Pesachim · Daf 2* · [[Pesachim]] · [[Talmud]]
+
+## 2a
+
+> [!torah]- Torah Or (2a)
+> - [[Psalms 143#^143-2|Psalms 143:2]] (line 7)
+> - [[Psalms 148#^148-2|Psalms 148:2]] (line 7)
+> - [[Psalms 148#^148-3|Psalms 148:3]] (line 7)
+
+> [!xref]- Mesoret HaShas (2a)
+> - [[Megillah 20#^20b-2|Megillah 20b:2-3]] (line 5)
+> - [[Pesachim 8#^8b-13|Pesachim 8b:13-14]] (line 1)
+
+> [!xref]- Ein Mishpat (2a)
+> - [Sefer Mitzvot Gadol, Positive Commandments 39](https://www.sefaria.org/Sefer_Mitzvot_Gadol,_Positive_Commandments.39) (line 1)
+> - [Tur, Orach Chayim 431](https://www.sefaria.org/Tur,_Orach_Chayim.431) (line 1)
+> - [Shulchan Arukh, Orach Chayim 431:1](https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.431.1) (line 1)
+
+**MISHNA:** **On the evening [*or*] of the fourteenth** of the month of Nisan, **one searches for leavened bread** in his home **by candlelight. Any place into which one does not** typically **take leavened bread does not require a search,** as it is unlikely that there is any leavened bread there. **And with regard to what** the Sages of previous generations meant when they **said** that one must search **two rows** of wine barrels **in a cellar,** i.e., **a place into which one** typically **takes** some **leavened bread,** the early *tanna’im* are in dispute. **Beit Shammai say** that this is referring to searching the first **two rows across the entire cellar, and Beit Hillel say:** There is no need to search that extensively, as it is sufficient to search **the two external rows, which are the upper ones.** This dispute will be explained and illustrated in the Gemara. ^2a-1
+
+**GEMARA:** The Gemara asks: **What is** the meaning of the term ***or*,** translated as: The evening of? The Gemara provides two answers. **Rav Huna said:** It means **light, and Rav Yehuda said:** In this context, it means **evening.** At first glance, **it** could **enter your mind** to suggest that **the one who said light** means that one searches for leaven by the **actual light** of day, on the morning of the fourteenth of Nisan, **and the one who said evening** is referring to the **actual evening** of the fourteenth. ^2a-2
+
+To clarify the meaning of the word *or*, the Gemara analyzes biblical verses and rabbinic statements. The Gemara **raises an objection** from a verse: **“As soon as the morning was *or*, the men were sent away,** they and their donkeys” ([[Torah 10 - Miketz#^44-3|Genesis 44:3]]). **Apparently, *or* is day.** The Gemara rejects this contention. **Is it written: The light was morning? “The morning was light” is written.** In this context, *or* is a verb not a noun, **as the one who said:** The **morning lightened. And** this is **in accordance with** that which **Rav Yehuda said** that **Rav said, as Rav Yehuda said** that **Rav said: A person** should **always enter** an unfamiliar city **with “it is good”** ([[Torah 01 - Bereshit#^1-4|Genesis 1:4]]), i.e., before sunset, while it is light, as the Torah uses the expression “it is good” with regard to light upon its creation. This goodness is manifest in the sense of security one feels when it is light. **And** likewise, when one leaves a city **he** should **leave with “it is good,”** meaning after sunrise the next morning. ^2a-3
+
+The Gemara **raises an objection** from another verse: **“And as the light [*or*] of the morning, when the sun rises,** a morning without clouds; when through clear shining after rain the tender grass springs out of the earth” ([[II Samuel 23#^23-4|II Samuel 23:4]]). **Apparently, *or* is day.** The Gemara rejects this proof as well: **Is it written** that **the light was morning? “As the light of the morning” is written, and this is** what the verse **is saying: And as** brightly as **the morning light of this world** shines at its peak, **so will be the rising of the sun for the righteous in the World-to-Come,** as in those days the light of the sun will be seven times stronger than at present (see [[Isaiah 30#^30-26|Isaiah 30:26]]). ^2a-4
+
+The Gemara **raises an objection: “And God called the *or* Day,** and the darkness He called Night” ([[Torah 01 - Bereshit#^1-5|Genesis 1:5]]). **Apparently, *or* is day.** The Gemara rejects this proof as well. **This is** what the verse **is saying:** God **called the advancing light Day.** As stated previously, the word *or* can also be a verb; in this context, God called the beginning of that which eventually brightens, Day. The Gemara challenges this explanation: **However, if** that **is so,** the continuation of the verse, **“and the darkness He called Night,”** should be understood to mean: **He called the advancing darkness Night,** even before it is actually dark. However, this cannot be the correct interpretation of the verse, **as we maintain it is day until the emergence of the stars.** Since the stars emerge only after the sky begins to darken, the advancing evening cannot be defined as part of the night. ^2a-5
+
+The Gemara rejects the previous explanation. **Rather, this is what** the verse **is saying: God called the light** to come **and commanded it** to perform **the mitzva of the day, and God called the darkness and commanded it** to perform **the mitzva of the night.** Called, in this context, does not connote the giving of a name. It means that He instructed the day and night to carry out their characteristic functions. ^2a-6
+
+The Gemara **raises an objection:** “Praise Him, sun and moon; **praise Him, all the stars of *or*”** ([[Psalms 148#^148-3|Psalms 148:3]]). **Apparently, *or* is** the **evening,** as the stars of light appear at night. The Gemara rejects this contention. **This is** what the verse **is saying: Praise Him, all the stars that radiate,** as in this context *or* is not a noun but rather a verb that describes the activity of the stars. The Gemara challenges this explanation: **However, if** that **is so,** does the verse mean that **it is** the **stars that radiate that are required to praise** God, whereas those **that do not radiate** light **are not required to praise** Him? **But isn’t it written** in the previous verse: **“Praise Him, all His legions,”** indicating that all stars should praise God? ^2a-7
+
+**Rather, this** phrase, the stars of light, comes to **teach us that the light of stars is also** considered **light.** The Gemara asks: **What** is the **practical difference** that emerges from the fact that the light of the stars is classified as light? The Gemara answers: It is significant with regard **to one who vows** that he will derive no benefit **from light.** It is necessary to define precisely what is included in the term light. **As we learned** in a mishna: For **one who vows** that he will derive no benefit **from light, it is prohibited to** benefit even from **the light of** the **stars.** ^2a-8
+
+The Gemara **raises an objection: “A murderer rises with the *or* to kill the poor and needy; and in the night he is as a thief”** ([[Job 24#^24-14|Job 24:14]]). ^2a-9
+
+## 2b
+
+> [!torah]- Torah Or (2b)
+> - [[Psalms 139#^139-11|Psalms 139:11]] (line 3)
+
+> [!xref]- Mesoret HaShas (2b)
+> - [[Menachot 67#^67b-7|Menachot 67b:7]] (line 4)
+> - [[Pesachim 10#^10b-13|Pesachim 10b:13]] (line 4)
+> - [[Rosh Hashanah 22#^22b-15|Rosh Hashanah 22b:15]] (line 13)
+> - [Tosefta Menachot 1:7](https://www.sefaria.org/Tosefta_Menachot.1.7) (line 14)
+> - [Tosefta Yoma 1:15](https://www.sefaria.org/Tosefta_Yoma.1.15) (line 14)
+> - [[Taanit 12#^12a-10|Taanit 12a:10]] (line 9)
+> - [Jerusalem Talmud Rosh Hashanah 2:1:8](https://www.sefaria.org/Jerusalem_Talmud_Rosh_Hashanah.2.1.8) (line 13)
+
+> [!xref]- Ein Mishpat (2b)
+> - [Sefer Mitzvot Gadol, Negative Commandments 75](https://www.sefaria.org/Sefer_Mitzvot_Gadol,_Negative_Commandments.75) (line 5)
+> - [Sefer Mitzvot Gadol, Rabbinic Commandments, Laws of Tisha B'Av 1](https://www.sefaria.org/Sefer_Mitzvot_Gadol,_Rabbinic_Commandments,_Laws_of_Tisha_B'Av.1) (line 9)
+> - [Tur, Orach Chayim 564](https://www.sefaria.org/Tur,_Orach_Chayim.564) (line 9)
+> - [Shulchan Arukh, Orach Chayim 564:1](https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.564.1) (line 9)
+
+**From** the fact **that** the end of the verse **states: “And in the night he is as a thief,” apparently** the word ***or*** at the beginning of the verse **is** a reference to **day,** as the verse contrasts between night and *or*. The Gemara rejects this contention. **There, this is** what the verse **is saying: If** the **matter is as clear to you as light, that** the thief has **come** into the house prepared to take **a life,** he **is a murderer; and** the owner of the house **may save himself by** taking the **life** of the intruder. In that case, one may protect himself from a thief who breaks into his house, even by killing the intruder if necessary. **And if the matter is as unclear to you as the night, he should be** nothing more **than a thief in your eyes** and not a murderer; and therefore **one may not save himself by** taking the **life** of the thief. This verse is not referring to actual day and night; rather, it uses these terms as metaphors for certainty and uncertainty. ^2b-1
+
+The Gemara **raises an objection** to the opinion that *or* means evening: **“Let the stars of the twilight be dark; let it look for *or* but have none; neither let it see the eyelids of the morning”** ([[Job 03#^3-9|Job 3:9]]). **From** the fact **that** the verse **states: “Let it look for *or* but have none,” apparently *or* is day.** The Gemara rejects this contention. Actually, it is possible that *or*, in this context, means light in general, not specifically day. **There, Job is cursing his fortune. He said: Let it be** His **will that this man,** referring to himself, **will seek light and not find it.** ^2b-2
+
+The Gemara **raises an objection: “And I say, yet the darkness shall envelop me, and the *or* about me shall be night”** ([[Psalms 139#^139-11|Psalms 139:11]]). **Apparently, *or* is day.** The Gemara rejects this proof. **This is** what **David is saying there: I said** after I sinned that **darkness shall envelop me in the World-to-Come, which is like day. Now** that I know that I have been forgiven, even **this world, which is like darkness,** is **light for me.** That being the case, it cannot be derived from here that the word *or* describes the day. ^2b-3
+
+The Gemara **raises an objection** from a mishna. **Rabbi Yehuda says: One searches** on ***or* of the fourteenth** of Nisan, **on the fourteenth** in the **morning, and at the time of** the **removal** of leavened bread. The Gemara infers from Rabbi Yehuda’s teaching: **From** the fact **that Rabbi Yehuda says** that **one searches** on ***or* of the fourteenth and on the fourteenth** in the **morning, apparently *or* is** the **evening.** In the order of Rabbi Yehuda’s list, *or* of the fourteenth precedes the morning of the fourteenth. Therefore, *or* must be referring to the evening. The Gemara concludes: Indeed, **learn from it** that this is the case. ^2b-4
+
+The Gemara **raises an objection** from a different source: **From when** on **the fourteenth** of Nisan **is** it **prohibited to perform labor,** for those who are accustomed not to work on Passover eve? **Rabbi Eliezer ben Ya’akov says: From the time of *or*. Rabbi Yehuda says: From sunrise.** ^2b-5
+
+**Rabbi Eliezer ben Ya’akov said to Rabbi Yehuda: And where have we found** precedent for **a day,** in **part of which the performance of labor** is **prohibited, and** in another **part of which the performance of labor** is **permitted?** If, as you claim, the prohibition against performing labor takes effect only from sunrise, whereas the fourteenth of Nisan begins with the emergence of stars the previous evening, it is permitted to perform labor during the first part of the fourteenth, while during the second part of the same day labor is prohibited. **He said to him:** The fourteenth day **itself** can **prove** to be a precedent, **as** in **part of it,** from the beginning until the sixth hour of the day, **the eating of leavened bread** is **permitted, and** during another **part of it the eating of leavened bread** is **prohibited.** ^2b-6
+
+With regard to the matter under discussion, the Gemara infers: **From** the fact **that Rabbi Yehuda says** that it is prohibited to perform labor **from sunrise, apparently** the word ***or* that Rabbi Eliezer ben Ya’akov is saying, is** referring to the **evening.** This is an additional proof that *or* means night. The Gemara rejects this contention: **No,** this is not a proof. **What is** meant by ***or*?** It means **dawn.** The dispute of the *tanna’im* is not whether the prohibition of labor begins at night or in the morning. Rather, they disagree as to whether labor is prohibited from dawn or only from sunrise. ^2b-7
+
+The Gemara challenges this assumption: **If so,** consider that **which** Rabbi Eliezer ben Ya’akov **said to** Rabbi Yehuda: **Where have we found** precedent for **a day,** in **part of which the performance of labor** is **prohibited, and** in another **part of which the performance of labor** is **permitted? Let him say to himself: Isn’t there** the **night,** during **which** even **Rabbi Eliezer ben Ya’akov** himself **permits** performance of labor at night? He certainly would not raise a difficulty against the opinion of Rabbi Yehuda, which is equally difficult according to his own opinion. ^2b-8
+
+The Gemara rejects this contention. **This is** what Rabbi Eliezer ben Ya’akov **is saying: Granted,** according **to my** opinion, **I find** situations in **which the Sages distinguished between** the **day and** the preceding **night, as we learned** in a mishna **with regard to** a lenient **communal fast: Until when** may **one eat and drink** before the fast? It is permitted to eat and drink **until dawn;** this is **the statement of Rabbi Eliezer ben Ya’akov. Rabbi Shimon says:** One may eat **until the call of the rooster,** which precedes dawn. In that case, the Sages distinguished between day and night. **However, according to your** opinion, **where do we find** a *halakha* with regard to which **the Sages divided the day itself?** ^2b-9
+
+Rabbi Yehuda **said to** Rabbi Eliezer ben Ya’akov: The day of the fourteenth **itself can prove** my opinion, **as** during **part of it, the eating of leavened bread** is **permitted, and** during **part of it the eating of leavened bread** is **prohibited.** The Gemara comments: **Rabbi Yehuda has spoken well to Rabbi Eliezer;** how can Rabbi Eliezer ben Ya’akov counter this contention? The Gemara answers that **this is** what **Rabbi Eliezer is saying to him** in response: **I said to you** the prohibition of **labor,** which is **by rabbinic law, and you said to me** the prohibition of **leavened bread, which is by Torah law.** With regard to a Torah prohibition, it is possible **that until this** point, **God prohibited** doing so, **and until that** point, **God permitted** doing so, as the *halakha* is determined by a Torah decree. On the other hand, rabbinic prohibitions are enacted within clearly defined categories; in this case, an entire day. ^2b-10
+
+The Gemara asks: **And** what is the response of **the other** Sage, Rabbi Yehuda, to this contention? The Gemara answers: Rabbi Yehuda notes that the **hours** when the prohibition of leaven is in effect on the morning of the fourteenth are determined **by rabbinic law.** Despite the fact it is prohibited by Torah law to eat leaven from midday, the distinction within the morning hours between the time when one may consume leaven and the time when one may derive benefit from leaven but not consume it is determined by the Sages. Apparently, the Sages institute ordinances that apply to part of a day. ^2b-11
+
+The Gemara asks: **And** how can **the other** Sage, Rabbi Eliezer ben Ya’akov, respond to this claim? The Gemara answers: Rabbi Eliezer ben Ya’akov would say that in this case **the Sages established a preventive measure for a Torah law,** and decrees of this type are at times in effect for only part of the day. By contrast, when the Sages instituted independent ordinances, they invariably did so for the entire day. In any case, this source does not conclusively prove that *or* means evening. ^2b-12
+
+The Gemara **raises an objection:** The court messengers **kindle torches** on the mountaintops as a signal that the court has sanctified and established a new month **only for a month that appeared at its** proper **time,** on the thirtieth day of the previous month, **to sanctify it** on that day. **And when do** the messengers **kindle** these **torches?** They light them on ***or* of its additional** day, at the end of the thirtieth day from the beginning of the previous month, leading into the evening of the thirty-first day. The thirtieth day is called the additional day because it is sometimes appended to the previous month, which would otherwise consist of twenty-nine days. **Apparently, *or* is** the **evening,** as the court messengers would certainly not light the bonfires by day. The Gemara concludes: Indeed, **learn from it** that this is the case. ^2b-13
+
+The Gemara **raises an objection:** If a priest **was standing all night and sacrificing** the limbs of offerings **on the altar, in the *ora*** he is **required** to **sanctify his hands and feet** again, by washing them in water from the basin; this is **the statement of Rabbi** Yehuda HaNasi. Since a new day has begun, the priest must wash his hands and feet from the basin, a prerequisite for each day’s service. With regard to the issue under discussion, apparently *or* means day. The Gemara rejects this contention: This is not a conclusive proof, as ***ora* is different,** and indeed it is referring to the day. However, the word *or* may yet refer to the evening. ^2b-14
+
+**Mar Zutra raises an objection** ^2b-15

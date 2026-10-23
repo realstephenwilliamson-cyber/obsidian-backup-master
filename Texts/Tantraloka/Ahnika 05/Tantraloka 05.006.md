@@ -34,6 +34,9 @@ aṇuśabdena te coktā dūrāntikavibhedataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 6–7)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.6]]
+
 > निश्चयो बहुधा चैष तत्रोपायाश्च भेदिनः ।
 > अणुशब्देन ते चोक्ता दूरान्तिकविभेदतः ॥
 

@@ -34,6 +34,9 @@ rūpaṃ dṛśyeta vadane nije na makurāntare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 80)
+> ![[Tantraloka Dyczkowski v02 04 - Chapter Three, part 1#Viveka on 3.14]]
+
 *Lead-in:* एवं च प्रतिफलनबलात्प्रत्यावृत्ता यदि नायना रश्मयः स्वकमेव वक्त्रं गृह्णन्ति तन्निज एव देशे तन्न्याययं नान्यत्र दर्पणादेरन्तः -- इत्याह --
 
 > विपर्यस्तैस्तु तेजोभिर्ग्राहकात्मत्वमागतैः ।

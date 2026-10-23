@@ -35,6 +35,9 @@ viviktavastukathitaśuddhavijñānanirmalaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 226–233)
+> ![[Tantraloka Dyczkowski v01 07 - Chapter One, part 6#Viveka on 1.84–86]]
+
 > प्रकाशावस्थितं ज्ञानं भावाभावादिमध्यतः ॥
 > स्वस्थाने वर्तनं ज्ञेयं द्रष्टृत्वं विगतावृति ।
 > विविक्तवस्तुकथितशुद्धविज्ञाननिर्मलः ॥

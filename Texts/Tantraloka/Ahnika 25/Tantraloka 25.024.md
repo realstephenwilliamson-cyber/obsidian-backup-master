@@ -31,6 +31,9 @@ uktaṃ śrīmanmataṅgākhye munipraśnādanantaram || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 365–366)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.23–24]]
+
 *Lead-in:* न च इयमस्मदुपज्ञैव युक्तिः अपितु आगमोऽप्येवम्--इत्याह--
 
 > उक्तं श्रीमन्मतङ्गाख्ये मुनिप्रश्नादनन्तरम् ॥

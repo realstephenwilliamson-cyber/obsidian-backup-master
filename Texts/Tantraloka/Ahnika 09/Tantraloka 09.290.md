@@ -31,6 +31,9 @@ citraṃ rūpaṃ paṭe bhāti kramāddharmāstathā bhuvi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 267–268)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.290]]
+
 *Lead-in:* ननु गन्धादय एव चेद्धरा तद्धराया एकरूपत्वात् नैषां क्रमेणोपलम्भो भवेद् ? -- इत्याशङ्क्याह -
 
 > यथा गुणगुणिद्वैतवादिनामेकमप्यदः ।

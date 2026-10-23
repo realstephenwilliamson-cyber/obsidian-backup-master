@@ -34,6 +34,11 @@ jayanti saṃvidāmodasandarbhā dikprasarpiṇaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 71)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 1.11.*
+>
+> ![[Tantraloka Dyczkowski v01 03 - Chapter One, part 2#Viveka on 1.11]]
+
 *Lead-in:* इत्याद्युक्त्या परमोपादेयस्वप्रकाशस्वात्मेश्वरप्रत्यभिज्ञापनपरस्य तर्कस्य कर्तारो व्याख्यातारश्च परं नमस्कर्तव्याः इति विशेषप्रयोजकीकारेण गुरुपरमगुरुपरमेष्ठिनः पुनरपि पराम्रष्टुमाह --
 
 Jayaratha comments on this verse together with 1.11: see [[Tantraloka 01.011#Viveka|1.11]].

@@ -33,6 +33,11 @@ anya eva sa cet kāmaṃ kutaścitsvaviśeṣataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 46–48)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.42–43]]
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.43]]
+
 *Lead-in:* तदाह -
 
 > अन्य एव स चेत् ................. ।

@@ -35,6 +35,9 @@ maṇḍalaṃ garuḍastatra siddhapakṣasamāvṛtaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 160–161)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.115–117]]
+
 *Lead-in:* अत्र च तमःस्थाने श्रीसिद्धयोगीश्वरमतोक्तं विशदयति --
 
 Jayaratha comments on this verse together with 8.117: see [[Tantraloka 08.117#Viveka|8.117]].

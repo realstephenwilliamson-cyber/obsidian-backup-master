@@ -31,6 +31,9 @@ mitamapyāśu yenāsmāt saṃsārādeṣa mucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 149)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.172]]
+
 *Lead-in:* ननु कलादीनां भोगसाधनत्वाविशेषात् शुद्ध्यशुद्ध्योः को भेदः ? - - इत्याशङ्क्याह --
 
 > कला हि शुद्धा तत्तादृक् कर्मत्वं संप्रसूयते ।

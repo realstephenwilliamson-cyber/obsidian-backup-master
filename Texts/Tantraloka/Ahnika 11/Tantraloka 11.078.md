@@ -37,6 +37,11 @@ saṃkete pūrvapūrvāṃśamajjane pratibhābhidaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 70–71)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.77–78]]
+>
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.78–79]]
+
 *Lead-in:* अत एव सर्वतोमुखं कवित्वं वक्तृत्वादावप्रतिहतः प्रसरोऽपि कदाचिद्भवेत् -- इत्याह --
 
 > आद्योद्रेकमहत्त्वेऽपि प्रतिभात्मनि निष्ठिताः ॥

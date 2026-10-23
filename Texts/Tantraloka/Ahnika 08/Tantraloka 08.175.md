@@ -35,6 +35,9 @@ tattveṣvaṇḍasvabhāvatvaṃ nanvevamapi kiṃ na tat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 200–202)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.175–177]]
+
 *Lead-in:* ननु यद्येवं तत्प्रतितत्त्वमण्डत्वं स्यात् - इत्येतद्व्यावर्तनाय वस्तुपिण्डपदस्याप्युपादानम्, -- इत्याह --
 
 Jayaratha comments on this verse together with 8.176: see [[Tantraloka 08.176#Viveka|8.176]].

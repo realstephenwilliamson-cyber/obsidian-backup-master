@@ -36,6 +36,11 @@ karṇau nartayāmītyevaṃ yatnāttathā bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 26–27)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.37–38]]
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.38–39]]
+
 > कर्णौ नर्तयामीत्येवं यत्नात्तथा भवेत् ॥
 > चक्रचारगताद्यत्नात्तद्वत्तच्चक्रगैव धीः ।
 

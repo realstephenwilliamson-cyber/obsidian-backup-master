@@ -34,6 +34,9 @@ yo bhavetsa samāveśaḥ samyagāṇava ucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 342–343)
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.168–170]]
+
 > अकिञ्चिच्चिन्तकस्यैव गुरुणा प्रतिबोधतः ।
 > उत्पद्यते य आवेशः शाम्भवोऽसावुदीरितः ॥
 > उच्चाररहितं वस्तु चेतसैव विचिन्तयन् ।

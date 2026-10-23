@@ -33,6 +33,11 @@ vicitrākārasaṃsthānaṃ vallīsūkṣmagṛhānvitam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 103–105)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.83–85]]
+>
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.85–89]]
+
 *Lead-in:* यद्यपि उद्दिष्टानां सर्वेषां शास्त्राणां शूलाब्जविन्यास उक्तस्तथापि य एव कश्चन विशेषोऽस्ति, स एव इह प्रदर्श्यत इति क्रमव्यतिक्रमेणापि श्रीदेव्यायामलोक्तं तद्विन्यासमुपन्यस्यति--
 
 Jayaratha comments on this verse together with 31.84: see [[Tantraloka 31.084#Viveka|31.84]].

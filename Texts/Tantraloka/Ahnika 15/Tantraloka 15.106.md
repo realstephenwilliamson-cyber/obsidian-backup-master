@@ -31,6 +31,9 @@ muktirna sthānajanitā yadā śrotrapathaṃ gatam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 72–73)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.105–107]]
+
 > उक्तं च श्रीनिशाचारे सिद्धिसाधनकाङ्क्षणाम् ॥
 > स्थानं मुमुक्षुणा त्याज्यं सर्पकञ्चुकवत्त्विदम् ।
 > मुक्तिर्न स्थानजनिता यदा श्रोत्रपथं गतम् ॥

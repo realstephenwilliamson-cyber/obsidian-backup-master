@@ -31,6 +31,9 @@ vyācakṣate tacca sarvaṃ nopayogyuktayojane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 163–164)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.364–365]]
+
 > अज्ञात्वैतत्तु सर्वेऽपि कुशकाशावलम्बिनः ।
 > यत्तदोर्व्यत्ययं केचित्केचिदन्यादृशं क्रमम् ॥
 > भिन्नक्रमौ निपातौ च त्यजतीति च सप्तमीम् ।

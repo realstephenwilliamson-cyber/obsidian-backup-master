@@ -35,6 +35,9 @@ vāmā jyeṣṭhā ca raudrīti bhuvanatrayaśobhitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 345–346)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.355–357]]
+
 > धर्मज्ञानविरागैश्यचतुष्टयपुरं तु यत् ॥
 > रूपावरणसंज्ञं तत्तत्त्वेऽस्मिन्नैश्वरे विदुः ।
 > वामा ज्येष्ठा च रौद्रीति भुवनत्रयशोभितम् ॥

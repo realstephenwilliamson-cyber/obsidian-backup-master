@@ -31,6 +31,9 @@ praviśenmūlamadhyāntaṃ prāntānte śaktiveśmani || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 118)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.126–127]]
+
 > उत्क्षिप्योत्क्षिप्य कलया देहमध्यस्वरूपतः ॥
 > शूलदण्डान्तमध्यस्थशूलमध्यान्तगोचरम् ।
 > प्रविशेन्मूलमध्यान्तं प्रान्तान्ते शक्तिवेश्मनि ॥

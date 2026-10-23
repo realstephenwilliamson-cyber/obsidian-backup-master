@@ -34,6 +34,11 @@ tataḥ sa dakṣiṇe haste dīptaṃ sarvādhvapūritam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 279–281)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.455–456]]
+>
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.456–458]]
+
 *Lead-in:* इदानीं शिवहस्तविधिमभिधत्ते--
 
 Jayaratha comments on this verse together with 15.455: see [[Tantraloka 15.455#Viveka|15.455]].

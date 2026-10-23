@@ -37,6 +37,11 @@ dvātriṃśatattvādīśākhyātprabhṛti prasphuṭo yataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 472–475)
+> ![[Tantraloka Dyczkowski v01 13 - Chapter One, part 12#Viveka on 1.325–327]]
+>
+> ![[Tantraloka Dyczkowski v01 13 - Chapter One, part 12#Viveka on 1.327–328]]
+
 *Lead-in:* ननु एकीकाराह्निकादौ किमिति न अनुजोद्देशः कृतः ? इत्याशङ्क्याह --
 
 > द्वात्रिंशतत्त्वादीशाख्यात्प्रभृति प्रस्फुटो यतः ॥

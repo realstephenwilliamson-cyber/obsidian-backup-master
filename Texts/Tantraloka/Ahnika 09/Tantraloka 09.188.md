@@ -33,6 +33,11 @@ sarvatra caiśvaraḥ śaktipāto'tra sahakāraṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 160–161)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.188]]
+>
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.188 (2)]]
+
 *Lead-in:* ननु यद्येव तन्मायोर्ध्वं पुनः कदा गच्छेत् -- इत्याशङ्क्याह --
 
 > मलाद्विविक्तमात्मानं पश्यंस्तु शिवतां व्रजेत् ।

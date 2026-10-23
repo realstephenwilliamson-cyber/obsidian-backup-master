@@ -37,6 +37,13 @@ viṣuvadvāsare prātaḥ sāṃśāṃ nālīṃ sa madhyagaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 410–414)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.199–200]]
+>
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.200–204]]
+>
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.200–204 (continued)]]
+
 *Lead-in:* एतदेव विभजते -
 
 Jayaratha comments on this verse together with 6.199: see [[Tantraloka 06.199#Viveka|6.199]].

@@ -35,6 +35,9 @@ tacchaktyutsaṅgabhṛtsūryaśatakoṭisamaprabhaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 370–372)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.397–399]]
+
 > शक्तितत्त्वमिदं यस्य प्रपञ्चोऽयं धरान्तकः ॥
 > शिवतत्त्वं ततस्तत्र चतुर्दिक्कं व्यवस्थिताः ।
 > व्यापी व्योमात्मकोऽनन्तोऽनाथस्तच्छक्तिभागिनः ॥

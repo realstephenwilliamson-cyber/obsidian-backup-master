@@ -22,7 +22,7 @@ Text: [[NRSVue 2 Timothy 02|NRSVue]] · [[2 Timothy 02|BSB and SBLGNT]] · Intro
 
 **[[NRSVue 2 Timothy 02#^2-3|3]]:** *Soldier*, the soldier, athlete, and the farmer exemplify commitment, discipline, and preparedness (see [[1 Corinthians 09#^9-7|1 Cor 9.7]],[[1 Corinthians 09#^9-24|24]]; [[Ephesians 06#^6-11|Eph 6.11–17]]). ^2-3
 
-**[[NRSVue 2 Timothy 02#^2-4|4]]:** *Everyday affairs*, here could also mean “do business, trade.” See Philo, *Spec. Laws* 2.65 and *Sifre Deut.* 357; *b. Rosh Ha-Shanah* 31b; *b. Sanh.* 41a, “For 40 years he (Johanan b. Zakkai) was in business, 40 years he studied, and 40 years he taught.” ^2-4
+**[[NRSVue 2 Timothy 02#^2-4|4]]:** *Everyday affairs*, here could also mean “do business, trade.” See Philo, *Spec. Laws* 2.65 and *Sifre Deut.* 357; [[Rosh Hashanah 31#31b|*b. Rosh Ha-Shanah* 31b]]; [[Sanhedrin 41#41a|*b. Sanh.* 41a]], “For 40 years he (Johanan b. Zakkai) was in business, 40 years he studied, and 40 years he taught.” ^2-4
 
 **[[NRSVue 2 Timothy 02#^2-5|5]]:** *Athlete*, Eleazar the martyr in [[LXX 4 Maccabees 06#^6-10|4 Macc 6.10]] is also portrayed as an athlete. ^2-5
 

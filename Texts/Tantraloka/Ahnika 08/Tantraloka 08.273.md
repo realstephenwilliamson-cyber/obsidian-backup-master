@@ -37,6 +37,11 @@ gahanaṃ puruṣanidhānaṃ prakṛtirmūlaṃ pradhānamavyaktam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 278–279)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.272–273]]
+>
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.273–274]]
+
 *Lead-in:* अत्रापि शिवतनावुक्तं विशेषं दर्शयति --
 
 > गहनं पुरुषनिधानं प्रकृतिर्मूलं प्रधानमव्यक्तम् ॥

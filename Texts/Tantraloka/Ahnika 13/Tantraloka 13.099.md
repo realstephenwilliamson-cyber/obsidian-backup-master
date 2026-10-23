@@ -31,6 +31,9 @@ aliases:
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 184–185)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.98–100]]
+
 > वैराग्यं भोगवैरस्यं धर्मः कोऽपि विवेकिता ।
 > सत्सङ्गः परमेशानपूजाद्यभ्यासनित्यता ॥
 > आपत्प्राप्तिस्तन्निरीक्षा देहे किञ्चिच्च लक्षणम् ।

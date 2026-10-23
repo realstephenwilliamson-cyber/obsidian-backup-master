@@ -31,6 +31,9 @@ tattvāni tattvadevyaśca viśvamasminpratiṣṭhitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 87)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.43–44]]
+
 > या सा देवी परा शक्तिः प्राणवाहा व्यवस्थिता ॥
 > विश्वान्तः कुण्डलाकारा सा साक्षादत्र वर्तिता ।
 > तत्त्वानि तत्त्वदेव्यश्च विश्वमस्मिन्प्रतिष्ठितम् ॥

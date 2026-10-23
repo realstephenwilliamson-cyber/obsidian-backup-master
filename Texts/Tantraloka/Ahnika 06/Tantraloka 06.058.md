@@ -36,6 +36,11 @@ uktaṃ ca śrīyogacāre mokṣaḥ sarvaprakāśanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 268–269)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.58]]
+>
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.58 (2)]]
+
 *Lead-in:* नन्वेतत्स्वरसत एव सिद्ध्येदिति किमनेनैवमुपदिष्टेन ? -- इत्याशङ्क्याह --
 
 > सृष्ट्यादितत्त्वमज्ञात्वा न मुक्तो नापि मोचयेत् ।

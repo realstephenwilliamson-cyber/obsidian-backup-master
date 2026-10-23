@@ -31,6 +31,9 @@ pāśakartanasaṃśuddhatattvāpyāyādikāriṇaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 420–421)
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.48–49]]
+
 *Lead-in:* ननु एवमकामस्य पुनः किमेभिर्बहुभिः ?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 27.49: see [[Tantraloka 27.049#Viveka|27.49]].

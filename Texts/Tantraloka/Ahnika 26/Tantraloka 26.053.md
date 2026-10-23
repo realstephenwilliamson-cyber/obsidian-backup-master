@@ -36,6 +36,11 @@ raktaiḥ prāk tarpaṇaṃ paścāt puṣpadhūpādivistaraiḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 388–389)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.51–53]]
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.53–54]]
+
 *Lead-in:* ननु आवाहनानन्तर्येण तर्पणमेव कार्यमित्यत्र कि प्रमाणम्?-- इत्याशङ्क्याह--
 
 > आगतस्य तु मन्त्रस्य न कुर्यात्तर्पणं यदि ॥

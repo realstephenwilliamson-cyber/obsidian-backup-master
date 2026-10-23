@@ -34,6 +34,9 @@ uktaṃ ca yoginīkaule tadetatparameśinā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 28–29)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.40]]
+
 *Lead-in:* किमत्र प्रमाणम् ? -- इत्याशङ्क्याह --
 
 > सिद्धामते कुण्डलिनीशक्तिः प्राणसमोन्मना ।

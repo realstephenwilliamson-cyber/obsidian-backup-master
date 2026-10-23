@@ -34,6 +34,11 @@ tattvasaṃdarśanānnānyatsaṃskārasyāsti jīvitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 257–259)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.416–417]]
+>
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.417–418]]
+
 *Lead-in:* ननु अनयोरन्यत्र बहुप्रकारं संस्कारजातमुक्तम्, श्रीपूर्वशास्त्रे पुनस्तन्नामापि न स्पृष्टं येन निरीक्षणाभ्यर्चनमात्रमेव तत्संस्कारनिमित्तमिह उक्तमिति किमेतत्?--इत्याशङ्क्य आह--
 
 > तत्त्वसंदर्शनान्नान्यत्संस्कारस्यास्ति जीवितम् ॥

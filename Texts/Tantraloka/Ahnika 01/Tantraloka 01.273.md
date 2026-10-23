@@ -35,6 +35,11 @@ parasaṃbandharūpatvamabhisaṃbandhapañcake || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 451)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.273]]
+>
+> ![[Tantraloka Dyczkowski v01 13 - Chapter One, part 12#Viveka on 1.273 (continued)]]
+
 *Lead-in:* इत्यादिना उक्तस्य संबन्धस्यापि -- इत्याह --
 
 > एतत्प्रश्नोत्तरात्मत्वे पारमेश्वरशासने ।

@@ -33,6 +33,11 @@ tādṛksvabhyastavijñānabhājordhvapadaśālinā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 329–330)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.73–74]]
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.74–75]]
+
 *Lead-in:* एवकारार्थमप्याह--
 
 Jayaratha comments on this verse together with 23.73: see [[Tantraloka 23.073#Viveka|23.73]].

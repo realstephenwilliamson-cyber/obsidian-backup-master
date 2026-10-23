@@ -31,6 +31,9 @@ yuktaiva tāvānsa hyukto bhedāddūrāntikatvataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 89–90)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.196–197]]
+
 *Lead-in:* अतश्च स्मृतिरपि युक्ता--इत्याह--
 
 Jayaratha comments on this verse together with 28.197: see [[Tantraloka 28.197#Viveka|28.197]].

@@ -36,6 +36,11 @@ yastvanyatrāpi nihataḥ sāmastyenāṃśato'pi vā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 23–24)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.52–53]]
+>
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.53–54]]
+
 *Lead-in:* ननु रणापणादौ व्यापादितोऽपि पशुर्यागादौ निवेदनीयस्तत्कथमस्याष्टधात्वमेवोक्तम् ?--इत्याशङ्क्याह—
 
 > यस्त्वन्यत्रापि निहतः सामस्त्येनांशतोऽपि वा ॥

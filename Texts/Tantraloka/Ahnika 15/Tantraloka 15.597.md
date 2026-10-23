@@ -32,6 +32,11 @@ anuṣṭheyamayaṃ jātigrahaḥ paranirodhakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 343)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 15.598.*
+>
+> ![[Tantraloka Dyczkowski v08 10 - Chapter Fifteen, part 9#Viveka on 15.598]]
+
 > अकुलीनेषु संपर्कात्तत्कुलात्पतनाद्भयम् ।
 > एकपात्रे कुलाम्नाये तस्मात्तान्परिवर्जयेत् ॥
 > प्रमादाच्च कृते सख्ये गोष्ठ्यां चक्रं तु पूजयेत् ।

@@ -31,6 +31,9 @@ taṃ pradarśya nirākṛtya svamataṃ darśayiṣyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 121)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.2]]
+
 *Lead-in:* नन्वन्यैरुक्तः शक्तिपातविवेक इति किमिहापि तेन स्यात्, बाढं किन्तु तदेवानूद्य दूषयित्वा स्वसिद्धान्तः करिष्यते -- इत्याह --
 
 > तत्र केचिदिह प्राहुः शक्तिपात इमं विधिम् ।

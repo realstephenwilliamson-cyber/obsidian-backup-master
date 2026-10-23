@@ -33,6 +33,11 @@ yo yatrābhilaṣedbhogān sa tatraiva niyojitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 2–4)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.1–2]]
+>
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.2–4]]
+
 *Lead-in:* एतदेव ससंवादं दर्शयति--
 
 Jayaratha comments on this verse together with 15.1: see [[Tantraloka 15.001#Viveka|15.1]].

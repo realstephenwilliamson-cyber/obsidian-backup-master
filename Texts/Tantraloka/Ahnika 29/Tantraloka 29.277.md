@@ -33,6 +33,11 @@ sa eṣa mokṣaḥ kathito niḥspandaḥ sarvajantuṣu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 405)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.276–277]]
+>
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.277–278]]
+
 *Lead-in:* अत एव आह--
 
 > स एष मोक्षः कथितो निःस्पन्दः सर्वजन्तुषु ॥

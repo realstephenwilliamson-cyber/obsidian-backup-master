@@ -35,6 +35,9 @@ dūrādāvāritāḥ satyaṃ vibhinnajñānavādinaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 31)
+> ![[Tantraloka Dyczkowski v02 02 - Chapter Two, part 1#Viveka on 2.22]]
+
 *Lead-in:* तदाह --
 
 > अत एकप्रकाशोऽयमिति वादेऽत्र सुस्थिते ।

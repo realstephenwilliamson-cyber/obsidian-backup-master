@@ -33,6 +33,11 @@ yathā purāṇe kathitaṃ mṛgapotakatṛṣṇayā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 151–152)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.343–345]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.343–345 (2)]]
+
 > कस्यापि तु शरीरान्ते वासना या प्रभोत्स्यते ॥
 > देहसत्त्वे तदौचित्याज्जायेतानुभवः स्फुटः ।
 > यथा पुराणे कथितं मृगपोतकतृष्णया ॥

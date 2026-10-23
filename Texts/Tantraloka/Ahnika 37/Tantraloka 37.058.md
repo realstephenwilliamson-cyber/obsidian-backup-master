@@ -36,6 +36,11 @@ bhaktyā svayaṃgrahaṇadurmadayā gṛhītaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 253)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 37.59.*
+>
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.59]]
+
 *Lead-in:* साहित्यसान्द्ररसभोगपरो महेश-
 
 > भक्त्या स्वयंग्रहणदुर्मदया गृहीतः ॥

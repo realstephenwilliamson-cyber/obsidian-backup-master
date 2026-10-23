@@ -35,6 +35,9 @@ bījayonisamāpattyā sūte kāmapi saṃvidam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 161–162)
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.121]]
+
 *Lead-in:* नन्वत्र विश्रान्त्या किं स्यात् ? -- इत्याशङ्क्याह --
 
 > योगिनीहृदयं लिङ्गमिदमानन्दसुन्दरम् ।

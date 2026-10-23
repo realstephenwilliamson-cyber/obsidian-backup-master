@@ -274,9 +274,9 @@ And the mystery of the word:
 [^4]: Almighty
 [^5]: 314
 [^6]: *az*
-[^7]: *BT* Menaḥot 39a
+[^7]: *BT* [[Menachot 39#39a|Menaḥot 39a]]
 [^8]: phylacteries
-[^9]: See *BT* Berakhot 6a
+[^9]: See *BT* [[Berakhot 6#6a|Berakhot 6a]]
 [^10]: *tephilin*
 [^11]: *’amidah*
 [^12]: angelic-beasts
@@ -299,4 +299,4 @@ And the mystery of the word:
 [^29]: Vav-Vav
 [^30]: 6
 [^31]: 6
-[^32]: *BT* Yoma 53b
+[^32]: *BT* [[Yoma 53#53b|Yoma 53b]]

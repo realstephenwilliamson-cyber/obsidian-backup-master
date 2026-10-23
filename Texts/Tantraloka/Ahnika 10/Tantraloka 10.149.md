@@ -33,6 +33,11 @@ itthaṃ vistaratastattvabhedo'yaṃ samudāhṛtaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 386–387)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.148–149]]
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.149]]
+
 *Lead-in:* उपसंहरति -
 
 > इत्थं विस्तरतस्तत्त्वभेदोऽयं समुदाहृतः ॥

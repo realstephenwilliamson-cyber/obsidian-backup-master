@@ -31,6 +31,9 @@ evamanyonyasaṃbhedavṛtti pīṭhacatuṣṭayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 235–236)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.19–22]]
+
 > मननत्राणदं यत्तु मन्त्राख्यं तत्र विद्यया ॥
 > उपोद्बलनमाप्यायः सा हि वेद्यार्थभासिनी ।
 > मन्त्रप्रतिकृतिर्मुद्रा तदाप्यायनकारकम् ॥

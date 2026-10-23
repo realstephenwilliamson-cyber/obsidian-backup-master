@@ -44,4 +44,4 @@ Pritzker translation (Matt): [[Zohar 6.06 - Parashat Pequdei#^z2-235a|Parashat P
 **Pekudei 29:285** Indeed, it is written: AND MOSES WAS NOT ABLE TO ENTER INTO THE TENT OF MEETING, BECAUSE THE CLOUD ABODE THEREON, for the reason that *She* was then arraying herself in *Her* finery as a woman tires and bedecks herself to receive her husband; and at such a moment it is unseemly for the husband to enter unto her. Thus “Moses was not able to enter into the tent of meeting…”, and they had to bring “the Tabernacle unto Moses”. ^pekudei-29-285
 
 [^1]: v. Yalkut Hadash, 5b; Zohar, Gen. 55a.
-[^2]: v. T. B. Pesahim, 72b *et passim*. There is at this point a lacuna in the text.
+[^2]: v. T. B. [[Pesachim 72#72b|Pesahim, 72b]] *et passim*. There is at this point a lacuna in the text.

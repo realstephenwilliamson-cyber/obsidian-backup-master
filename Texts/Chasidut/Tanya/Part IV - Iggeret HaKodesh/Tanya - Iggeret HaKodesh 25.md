@@ -103,10 +103,10 @@ You have now seen an explanation of a single passage from the well known books a
 [^1]: Par. [[Proverbs 01#^1-2|Proverbs 1:2]].
 [^2]: The Testament of R. Israel Baal Shem Tov (In English: Kehot, 1998).
 [^3]: Emended according to the glosses of the *Tzemach Tzedek* (*Kitzurim V’Hearot*, p. 40), and L. H.
-[^4]: Par. *Taanit* 6b.
+[^4]: Par. [[Taanit 6#6b|*Taanit* 6b]].
 [^5]: For the passage in question see below, note 81.
-[^6]: *Zohar* [[Zohar 1.027b|I:27b]]; III:179a, and [[Zohar 9.11 - Parashat Pinehas#^z3-234b|234b]]; *Zohar Chadash* [[Zohar 10.04 - Parashat Noah#^zh-21a|21a]]; Maimonides, *Hilchot Deot* 2:3. Cf. *Shabbat* 105b; *Nedarim* 22b.
-[^7]: *Zohar* [[Zohar 7.05 - Parashat Shemini#^z3-36b|III:36b]]; Rashi on [[Torah 16 - Beshalach#^16-32|Exodus 16:32]].—See *Taanit* 18b; *Mechilta* and Rashi on [[Torah 18 - Mishpatim#^21-13|Exodus 21:13]]; *Emunot Vedeot*, by R. Saadiah Gaon, 4:5. See also *Bamidbar Rabbah* 18:22; etc. *Maamarei Admur Hazaken Haketzarim*, p. 379 ff.
+[^6]: *Zohar* [[Zohar 1.027b|I:27b]]; III:179a, and [[Zohar 9.11 - Parashat Pinehas#^z3-234b|234b]]; *Zohar Chadash* [[Zohar 10.04 - Parashat Noah#^zh-21a|21a]]; Maimonides, *Hilchot Deot* 2:3. Cf. [[Shabbat 105#105b|*Shabbat* 105b]]; [[Nedarim 22#22b|*Nedarim* 22b]].
+[^7]: *Zohar* [[Zohar 7.05 - Parashat Shemini#^z3-36b|III:36b]]; Rashi on [[Torah 16 - Beshalach#^16-32|Exodus 16:32]].—See [[Taanit 18#18b|*Taanit* 18b]]; *Mechilta* and Rashi on [[Torah 18 - Mishpatim#^21-13|Exodus 21:13]]; *Emunot Vedeot*, by R. Saadiah Gaon, 4:5. See also *Bamidbar Rabbah* 18:22; etc. *Maamarei Admur Hazaken Haketzarim*, p. 379 ff.
 [^8]: [[Psalms 033#^33-6|Psalms 33:6]].
 [^9]: [[II Samuel 16#^16-10|II Samuel 16:10]].
 [^10]: See *Sefer Hachinuch*, sect. 241 (cf. *Minchat Chinuch*, ad loc., and *Tanchuma*, *Vayikra* 7): *Reishit Chochmah*, *Shaar HaAnavah*, ch. 3. Cf. references cited above, note 7.
@@ -140,14 +140,14 @@ You have now seen an explanation of a single passage from the well known books a
 [^38]: See note following.
 [^39]: G–d has made one thing opposite the other ([[Ecclesiastes 07#^7-14|Ecclesiastes 7:14]]; see above, Epistle 2, note 16). Everything in one realm has a corresponding opposite in another realm. The realm of holiness, sanctity, and parity, thus, is opposed by a realm of impurity. The realm of impurity itself is subdivided into two principal classes: the three altogether impure *kelipot*, containing no good whatsoever in themselves, and *kelipat nogah*, an intermediate category between the three *kelipot* mentioned and the order of holiness. Dependent on the motives and actions of man, *kelipat nogah* is absorbed in one or the other of these two realms. It is a sort of potential *kelipah*, which can be sublimated and developed, or may fall among the wholly impure kelipot. See Addendum, *Mystical Concepts in Chassidism*, s.v. *Kelipot*.
 [^40]: See above, Epistle 22, note 37.
-[^41]: *Menachot* 110a; see comment. by *Maharsha*, ad loc.
+[^41]: [[Menachot 110#110a|*Menachot* 110a]]; see comment. by *Maharsha*, ad loc.
 [^42]: The other side; the realm of evil.
 [^43]: Cf. [[Isaiah 23#^23-8|Isaiah 23:8]]. See *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-54a|I:54a]]; also ibid., [[Zohar 1.07 - Parashat Be-Reshit#^z1-29a|29a]] and [[Zohar 1.07 - Parashat Be-Reshit#^z1-34a|34a]]; *et passim*.
 [^44]: [[Zephaniah 3#^3-9|Zephaniah 3:9]].
 [^45]: Brackets appear in the text.
 [^46]: Cf. *Bereishit Rabbah* 19:7 (and its parallel instances).
 [^47]: *Pnimiyut*; see above, Epistle 4, note 9.
-[^48]: *Mechilta* on [[Torah 15 - Bo#^12-41|Exodus 12:41]]; *Sifrei* on [[Torah 36 - Beha'alotcha#^10-35|Numbers 10:35]] and 35:34; *Megillah* 29a (acc. to v.s. of *Eyn Yaakov*, ad loc.). Cf. Jerusalem Talmud, *Taanit* 1: end of 1.
+[^48]: *Mechilta* on [[Torah 15 - Bo#^12-41|Exodus 12:41]]; *Sifrei* on [[Torah 36 - Beha'alotcha#^10-35|Numbers 10:35]] and 35:34; [[Megillah 29#29a|*Megillah* 29a]] (acc. to v.s. of *Eyn Yaakov*, ad loc.). Cf. Jerusalem Talmud, *Taanit* 1: end of 1.
 [^49]: [[Zechariah 14#^14-9|Zechariah 14:9]].
 [^50]: Cf. *Tikkunei Zohar* 22 (66b).
 [^51]: Brackets appear in the text.
@@ -172,14 +172,14 @@ You have now seen an explanation of a single passage from the well known books a
 [^70]: *Panim* (as opposed to *achorayim*).
 [^71]: [[Torah 35 - Nasso#^6-23|Numbers 6:23]].
 [^72]: Par. [[II Chronicles 32#^32-1|II Chronicles 32:1]].
-[^73]: *Berachot* 33b.
-[^74]: *Shabbat* 40b.
+[^73]: [[Berakhot 33#33b|*Berachot* 33b]].
+[^74]: [[Shabbat 40#40b|*Shabbat* 40b]].
 [^75]: [[Torah 42 - Matot#^31-14|Numbers 31:14]].
 [^76]: See *Zohar* [[Zohar 3.04 - Parashat Va-Yeshev#^z1-184a|I:184a]]; [[Zohar 6.03 - Parashat Tetsavveh#^z2-182a|II:182a]]-b; *Zohar Chadash* [[Zohar 10.04 - Parashat Noah#^zh-21a|21a]]; Maimonides, *Hilchot Deot* 1:4; comment. of R. Yonah on *Avot* 5:11.
-[^77]: [[Torah 30 - Kedoshim#^19-17|Leviticus 19:17]]; see *Shabbat* 54b; Maimonides, *Sefer Hamitzvot* 1:205 and *Hilchot Deot* 6:7.
+[^77]: [[Torah 30 - Kedoshim#^19-17|Leviticus 19:17]]; see [[Shabbat 54#54b|*Shabbat* 54b]]; Maimonides, *Sefer Hamitzvot* 1:205 and *Hilchot Deot* 6:7.
 [^78]: Cf. Mishnah, *Makkot* 3:16.
 [^79]: Wrongdoing.
-[^80]: Cf. *Yevamot* 65b, *Rashi* (s.v. *Lomar*), and comm. by *Maharsha*, ad loc.
+[^80]: Cf. [[Yevamot 65#65b|*Yevamot* 65b]], *Rashi* (s.v. *Lomar*), and comm. by *Maharsha*, ad loc.
 [^81]: The author now passes over to the original subject of the letter, i.e., the passage in *Tzavaat Harivash* §120: “Also, when you hear someone speaking while you pray, say: ‘Why did G–d bring him here to speak while I pray? All this must be by *hashgachah peratit* (Divine Providence relating to all particulars). Speech is identified with the *Shechinah*. The *Shechinah* thus is vested in the mouth of that person in order that I strengthen myself for the service [of G–d]. How much, then, must I strengthen myself in the “service, i.e., prayer,” especially if that man speaking is a gentile or a minor.’ It follows, then, that the *Shechinah* is, as it were, in that person; thus it is but appropriate for you to act with alacrity.” Cf. also *Likkutei Amarim*, Part I, ch. 28.
 [^82]: Par. [[Lamentations 1#^1-9|Lamentations 1:9]].
 [^83]: Of *Tzavaat Harivash*.
@@ -191,11 +191,11 @@ You have now seen an explanation of a single passage from the well known books a
 [^89]: Par. [[Torah 51 - Nitzavim#^29-28|Deuteronomy 29:28]].
 [^90]: Ibid.
 [^91]: [[Jeremiah 23#^23-24|Jeremiah 23:24]].
-[^92]: *Shabbat* 63a.
+[^92]: [[Shabbat 63#63a|*Shabbat* 63a]].
 [^93]: Par. [[Torah 53 - Ha'Azinu#^32-17|Deuteronomy 32:17]].
 [^94]: See [[Proverbs 15#^15-31|Proverbs 15:31]] and 23:12.
 [^95]: [[Joel 3#^3-5|Joel 3:5]].
 [^96]: [[Proverbs 28#^28-5|Proverbs 28:5]].
 [^97]: The negative (*Sifrei*, Deuteronomy, sect. 46).
-[^98]: (Cf. *Sanhedrin* 13b).
+[^98]: (Cf. [[Sanhedrin 13#13b|*Sanhedrin* 13b]]).
 [^99]: [[Psalms 019#^19-15|Psalms 19:15]].

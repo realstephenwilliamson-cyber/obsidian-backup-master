@@ -33,6 +33,11 @@ uktaṃ ca śrīpare'hānādānaḥ sarvadṛgulvaṇaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 116–117)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.133–134]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.134–135]]
+
 *Lead-in:* किमत्र प्रमाणम् ? -- इत्याशङ्क्याह --
 
 > उक्तं च श्रीपरेऽहानादानः सर्वदृगुल्वणः ॥

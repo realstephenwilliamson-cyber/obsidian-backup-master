@@ -33,6 +33,13 @@ tathābhūtaśca vedyo'sau nānavacchinnasaṃvidaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 370–371)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.118–119]]
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.118–119 (continued)]]
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.119–120]]
+
 *Lead-in:* नन्वेवं शिवस्वरूपमेव प्रत्यवमृष्टं न स्यादिति तत्र क्रियमाणमपि भावनादि व्यर्थमेव? -- इत्याशङ्क्याह --
 
 > तथाभूतश्च वेद्योऽसौ नानवच्छिन्नसंविदः ॥

@@ -31,6 +31,9 @@ tāvadekaśarīro hi bodho bhātyeva yāvatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 395–396)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.165–166]]
+
 > अत्रापि वेद्यता नाम तादात्म्यं वेदकैः सह ।
 > ततः सकलवेद्योऽसौ घटः सकल एव हि ॥
 > यावच्छिवैकवेद्योऽसौ शिव एवावभासते ।

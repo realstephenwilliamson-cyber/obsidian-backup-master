@@ -34,6 +34,9 @@ visṛjaṃśca tato bhūyaḥ śaśvadbhairavatāṃ vrajet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 35–36)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.36]]
+
 *Lead-in:* नन्वेवं विश्वस्य प्रलयोदयचिन्तनेन ध्यायतः कोऽर्थ ? -- इत्याशङ्क्याह --
 
 > एवं प्रतिक्षणं विश्वं स्वसंविदि विलापयन् ।

@@ -33,6 +33,11 @@ yaṣṭrādhārasya tādātmyaṃ sthānaśuddhividhikramāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 100–101)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.157–158]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.158–159]]
+
 *Lead-in:* तदैकात्म्यमेव विभजति--
 
 Jayaratha comments on this verse together with 15.157: see [[Tantraloka 15.157#Viveka|15.157]].

@@ -33,6 +33,11 @@ prayatnavānivābhāti tathā kiṃ sukhavedane |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 429–431)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.217–218]]
+>
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.218–219]]
+
 *Lead-in:* नन्वेवं सुखादिवदान्तरत्वमात्रमस्य सिद्ध्येद्येन सुखोपायत्वं स्यान्न तु परप्रमात्रेकरूपताप्रयुक्तं भावनाद्यविषयत्वम्? -- इत्याशङ्क्याह --
 
 > आन्तरत्वमिदं प्राहुः संविन्नैकट्यशालिताम् ॥

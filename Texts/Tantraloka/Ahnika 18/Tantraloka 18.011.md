@@ -34,6 +34,11 @@ dīkṣottare kairaṇe ca tatra tatrāpi śāsane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 198)
+> ![[Tantraloka Dyczkowski v09 09 - Chapter Eighteen#Viveka on 18.11]]
+>
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 18.11 (continued)]]
+
 *Lead-in:* आह्निकार्थमेवोपसंहरति--
 
 > संक्षिप्तो विधिरुक्तोऽयं कृपया यः शिवोदितः ।

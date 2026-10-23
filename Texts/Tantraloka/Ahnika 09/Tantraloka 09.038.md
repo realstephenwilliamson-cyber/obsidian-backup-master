@@ -36,6 +36,11 @@ tasmādekaikanirmāṇe śivo viśvaikavigrahaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 43–44)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.37–38]]
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.38–39]]
+
 *Lead-in:* तदाह -
 
 > तस्मादेकैकनिर्माणे शिवो विश्वैकविग्रहः ॥

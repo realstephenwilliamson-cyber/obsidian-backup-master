@@ -37,6 +37,11 @@ aṣṭāsu digdaleṣveṣa krāmaṃstaddikpateḥ kramāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 403–406)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.196–197]]
+>
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.197–198]]
+
 *Lead-in:* ननु यदि नामायं दश नाडीराक्रम्य वर्तते तावतास्य किमायातं येन दशधात्वमुच्यते ? -- इत्याशङ्क्याह -
 
 > अष्टासु दिग्दलेष्वेष क्रामंस्तद्दिक्पतेः क्रमात् ॥

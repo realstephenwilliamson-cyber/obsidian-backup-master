@@ -36,6 +36,9 @@ tvāṃ devyā saha dehadevasadane devārcaye'harniśam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 348)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.176]]
+
 *Lead-in:* एतच्च आदरातिशयमवद्योतयितुं प्राक्संवादितेनापि निजस्तोत्रैकदेशेन संवादयति--
 
 > कृत्वाधारधरां चमत्कृतिरसप्रोक्षाक्षणक्षालिता-

@@ -30,6 +30,11 @@ ityukto'ntyeṣṭiyāgo'yaṃ parameśvarabhāṣitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 354)
+> ![[Tantraloka Dyczkowski v09 15 - Chapter Twenty-Four#Viveka on 24.24]]
+>
+> ![[Tantraloka Dyczkowski v09 16 - Chapter Twenty-Five, opening page#Viveka on 24.24 (continued)]]
+
 *Lead-in:* एतदेव प्रथमार्धेनोपसंहरति--
 
 > इत्युक्तोऽन्त्येष्टियागोऽयं परमेश्वरभाषितः ॥

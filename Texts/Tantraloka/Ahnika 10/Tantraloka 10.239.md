@@ -33,6 +33,11 @@ uktaṃ ca piṇḍagaṃ jāgradabuddhaṃ buddhameva ca || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 447–448)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.238–239]]
+>
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.239–240]]
+
 *Lead-in:* एतदेव संवादयति --
 
 > उक्तं च पिण्डगं जाग्रदबुद्धं बुद्धमेव च ॥

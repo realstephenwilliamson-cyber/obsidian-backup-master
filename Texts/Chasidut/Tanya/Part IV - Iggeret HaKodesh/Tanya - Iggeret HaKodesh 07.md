@@ -52,7 +52,7 @@ Now, the advantage of this individual light to the individual souls is not in th
 
 [^1]: Liturgy, Morning Prayers.
 [^2]: [[Psalms 016#^16-5|Psalms 16:5]] f. Cf. *Sifrei*, Deuteronomy 53 (on [[Torah 47 - Re'eh#^11-26|Deuteronomy 11:26]]).
-[^3]: E.g., *Berachot* 63b; *Zohar* [[Zohar 4.03 - Parashat Shemot#^z2-3b|II:3b]]; etc.
+[^3]: E.g., [[Berakhot 63#63b|*Berachot* 63b]]; *Zohar* [[Zohar 4.03 - Parashat Shemot#^z2-3b|II:3b]]; etc.
 [^4]: [[Torah 08 - Vayishlach#^33-20|Genesis 33:20]]; commentaries, ad loc.
 [^5]: For He and His Name are entirely one (see below, note 9). G–d’s appellates are His attributes. The Divine attributes are of the Divine essence, and G–d is absolutely one with His essence. Cf. *Likkutei Amarim*, Part II, ch. 8 ff. See also *Kuzari* 2:2 and *Moreh Nevuchim* 1:51 ff.
 [^6]: [[Jeremiah 23#^23-24|Jeremiah 23:24]].
@@ -62,7 +62,7 @@ Now, the advantage of this individual light to the individual souls is not in th
 [^10]: [[Psalms 148#^148-13|Psalms 148:13]].
 [^11]: *Zohar* [[Zohar 8.08 - Parashat Naso#^z3-127b|III:127b]]-145a, see there.
 [^12]: See *Zohar* [[Zohar 8.09 - Idra Rabba#^z3-129a|III:129a]].
-[^13]: The 248 operational precepts correspond to the 248 organs, and the 365 prohibitory precepts correspond to the 365 sinews. Cf. *Zohar* [[Zohar 3.03 - Parashat Va-Yishlah#^z1-170b|I:170b]]; *Makkot* 23b; see also *Zohar* [[Zohar 12.06 - Piqqudin#^z2-25a|II:25a]].
+[^13]: The 248 operational precepts correspond to the 248 organs, and the 365 prohibitory precepts correspond to the 365 sinews. Cf. *Zohar* [[Zohar 3.03 - Parashat Va-Yishlah#^z1-170b|I:170b]]; [[Makkot 23#23b|*Makkot* 23b]]; see also *Zohar* [[Zohar 12.06 - Piqqudin#^z2-25a|II:25a]].
 [^14]: Man—created last, was first in intent (G–d’s thought)—*Tikkunei Zohar*, Introduction 6a; that is, the whole creation is for the purpose of man who, in turn, is to serve G–d in, and with, the creation.—See also *Bereishit Rabbah* 1:4 and comment., ad loc.; *Zohar* [[Zohar 5.03 - Parashat Mishpatim#^z2-108b|II:108b]], 275b, and III:306b. R. Saadiah Gaon, *Emunot Vedeot* 4, Intro. and ch. 1.
 [^15]: [[Song of Songs 6#^6-8|Song of Songs 6:8]].
 [^16]: *Zohar* [[Zohar 3.216a|III:216a]]; *Tikkunei Zohar*, Introduction 14b; *Zohar Chadash*, *Tikkunim* 98a; *et passim*. Cf. *Bamidbar Rabbah* 18:21 and *Shir Hashirim Rabbah* 6:14.
@@ -71,20 +71,20 @@ Now, the advantage of this individual light to the individual souls is not in th
 [^19]: Cf. *Shaar Hagilgulim* 6 and 11.
 [^20]: [[Hosea 02#^2-1|Hosea 2:1]].
 [^21]: See [[Torah 03 - Lech Lecha#^16-10|Genesis 16:10]].
-[^22]: *Bava Metzia* 84a; see also *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-35b|I:35b]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-168a|168a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-222a|222a]], etc., and ref. in following note.
+[^22]: [[Bava Metzia 84#84a|*Bava Metzia* 84a]]; see also *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-35b|I:35b]], [[Zohar 3.03 - Parashat Va-Yishlah#^z1-168a|168a]], [[Zohar 3.07 - Parashat Va-Yhi#^z1-222a|222a]], etc., and ref. in following note.
 [^23]: See *Zohar* [[Zohar 12.06 - Piqqudin#^z3-111b|III:111b]]; also, *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-141b|II:141b]] and *Nitzutzei Orot*, ad loc.; cf. further *Zohar* [[Zohar 2.05 - Parashat Toledot#^z1-142b|I:142b]] and *Derech Emet*, ad loc.; and *Zohar* II:275b-276a. R. Natan Nata Schapiro, in his *Megaleh Amukot*, section *Toldot* (on [[Torah 06 - Toldot#^27-33|Genesis 27:33]]; ed. Lublin 1912, 41a), explains how the rectification of Adam’s sin is implied in this saying by relating the word *shofrei* (beauty) to the root *shapper* (to correct, to cleanse)—as in [[Job 26#^26-13|Job 26:13]] (see Ibn Ezra, ad loc.), and in accordance with the Rabbinic interpretation of [[Torah 13 - Shemot#^1-5|Exodus 1:5]] (quoted by Rashi, ad loc.).
 [^24]: [[Ezekiel 01#^1-26|Ezekiel 1:26]].
 [^25]: See *Zohar* [[Zohar 1.08 - Parashat Noah#^z1-71b|I:71b]]-72a; and cf. ibid., 97a.
 [^26]: [[Ruth 4#^4-7|Ruth 4:7]].
 [^27]: The conventional translation of לפנים is aforetimes, but the author emphasizes here its etymological meaning of within (cf. *Zohar* [[Zohar 9.07 - Parashat Huqqat#^z3-180a|III:180a]] and the commentary of R. Moses Zacuto, ad loc.; see also *Pardes Rimonim* 16:4). Thus the verse now reads: “And *zot* (this, i.e., the Torah) was within, in Israel (i.e., Jacob),” i.e., engraved and marked in Israel.
-[^28]: *Zohar* [[Zohar 8.03 - Parashat Qedoshim#^z3-81b|III:81b]]; *Zohar Chadash*, *Rut* 88d; see *Menachot* 53b.
+[^28]: *Zohar* [[Zohar 8.03 - Parashat Qedoshim#^z3-81b|III:81b]]; *Zohar Chadash*, *Rut* 88d; see [[Menachot 53#53b|*Menachot* 53b]].
 [^29]: *Zohar Chadash*, *Rut*, 88c ff.; cf. *Or Hatorah*, *Nach* vol. 2, p. 1026 ff.—A literal translation should read: Israel the Old (*Yisrael Sabba*); a Midrashic term (cf. *Bereishit Rabbah* 68:11, 74:11; etc.), apparently to distinguish between the general term Israel and Israel the Patriarch (where the Scriptural reference can be interpreted either way). In Kabbalistic writings, though, a distinction is made between *Yisrael Sabba* and what the *Zohar* calls *Yisrael Zutta* (Israel the Young, or Small); see, e.g., *Zohar* [[Zohar 12.06 - Piqqudin#^z2-43a|II:43a]], [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-216a|216a]]; etc. See *Torah Or*, *Shemot* 50d.
 [^30]: This Divine Name is related to *chesed*, denoting G–d’s grace and benevolence (*Zohar* [[Zohar 7.04 - Parashat Tsav#^z3-30b|III:30b]]-31a, [[Zohar 7.08 - Parashat Aharei Mot#^z3-65a|65a]]; *Tikkunei Zohar* 67a; cf. also *Mechilta*, *Beshalach*, on [[Torah 16 - Beshalach#^15-2|Exodus 15:2]], and see *Pardes Rimonim* 1:10), *chesed* being the determinative motive “to diffuse without limit, even where compassion is not applicable at all” (see *below*, Epistle 15, and note 33, ad loc.).
 [^31]: [[Psalms 118#^118-27|Psalms 118:27]].
 [^32]: Cf. *Zohar* passages cited above (note 30): “*E-l* always denotes an abundant radiation from the Supreme *chochmah*” (which derives from *keter*, the supernal will, and is the source of *chesed*).
 [^33]: Par. [[Torah 12 - Vayechi#^49-3|Genesis 49:3]].
 [^34]: Par. [[Torah 37 - Sh'lach#^15-16|Numbers 15:16]].
-[^35]: *Shabbat* 118b.
+[^35]: [[Shabbat 118#118b|*Shabbat* 118b]].
 [^36]: That is, every soul is more intimately related to one particular precept than to all the others. Since the 613 commandments are the 613 general conduits for eliciting the radiation of the Divine light (see above, and cf. below Epistle 29), there will, thus, be a difference between the various individuals corresponding to the differences in the more intimate relationships to particular precepts.
 [^37]: *Tikkunei Zohar* 70 (132a) (in the light of ibid., p. 131), and R. Chaim Vital, *Shaar Hamitzvot*, Foreword; see also *Shaar Hagilgulim* 11; *et passim*.*—*See further on this subject: *Sefer Habahir* 38 (193); *Zohar* [[Zohar 5.03 - Parashat Mishpatim#^z2-100a|II:100a]] ff; *Zohar Chadash* 59a. Cf. also R. Menasseh ben Israel, *Nishmat Chaim* 4:6 ff.
 [^38]: The following interpretation of this Talmudic passage by the author (which he received from his master, R. Dov Ber, the *Maggid* of Mezeritch, who in turn heard it from the Baal Shem Tov) will clarify this passage: “Every soul has a particular precept and a particular attribute which it needs to perform and develop. That is the meaning of what R. Yosef asked R. Yosef the son of Rabbah: ‘With what was your father more heedful (*zahir*)?’ After all, one is not to sit and evaluate the commandments of the Torah! But R. Yosef asked ‘in what was your father more *zahir*: in what precept did he have an illumination’ (taking *zahir* as an idiom of *zohar*—to shine; to brighten); not that he observed this precept only, but that the fulfillment of the precept of *Tzitzit—*with great care—gave him power and vitality in the observance of the other precepts.” See *Sefer Hasichot—5700*, p. 22; *Sefer Hamaamarim 5708*, p. 240, and the marginal notes by the Lubavitcher Rebbe, R. Menachem M. Schneerson, ad loc. Cf. Maimonides, Commentary on the Mishnah, *Makkot* 3:16. *Etz Chaim* 49:5.

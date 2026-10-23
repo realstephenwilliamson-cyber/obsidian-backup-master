@@ -31,6 +31,9 @@ kiṃ kiṃ na jāyate kiṃ vā na vetti na karoti vā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 224)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.364]]
+
 *Lead-in:* एवमपि अस्य किं स्यात्?--इत्याशङ्क्य आह--
 
 > तत्त्रिशूलत्रयोर्ध्वोर्ध्वदेवीचक्रार्पितात्मकः ।

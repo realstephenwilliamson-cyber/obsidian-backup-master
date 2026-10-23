@@ -31,6 +31,9 @@ na mano nāpi mantavyaṃ na mantā na manikriyā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 393)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.253]]
+
 *Lead-in:* अत एव अस्य सर्वतो भेदविगलनम्--इत्याह--
 
 > नेन्द्रियाणि न वै प्राणा नान्तःकरणगोचरः ।

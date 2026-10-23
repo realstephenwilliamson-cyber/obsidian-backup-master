@@ -38,10 +38,10 @@ In general, the mystery of the fast is remarkably effective for the revelation o
 [^2]: Ibid., 1:4.
 [^3]: 7b.
 [^4]: [[Torah 31 - Emor#^22-21|Leviticus 22:21]].
-[^5]: *Berachot* 17a.
+[^5]: [[Berakhot 17#17a|*Berachot* 17a]].
 [^6]: Jerusalem Talmud, *Beitzah* 2:8.
-[^7]: *Chagigah* 22b.
-[^8]: *Moed Kattan* 25a; R. Huna fasted forty days for slighting a colleague (*Bava Metzia* 33a).
+[^7]: [[Chagigah 22#22b|*Chagigah* 22b]].
+[^8]: [[Moed Katan 25#25a|*Moed Kattan* 25a]]; R. Huna fasted forty days for slighting a colleague ([[Bava Metzia 33#33a|*Bava Metzia* 33a]]).
 [^9]: Rabbi Yitzchak Luria Ashkenazi, of blessed memory (1534-1572), a Kabbalist with a profound influence on Rabbi Schneur Zalman.
 [^10]: Wine used in idolatrous libations are Biblically prohibited. The Rabbinic prohibition is extended to any “ordinary” non-Jewish wine. See *Kitzur Shulchan Aruch*, sect. 47.
 [^11]: [[Torah 24 - Vayikra#^1-13|Leviticus 1:13]].

@@ -31,6 +31,9 @@ taddarśyate śambhunāthaprasādādviditaṃ mayā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 440–441)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.229–230]]
+
 > तत्र यैषा धरातत्त्वाच्छिवान्ता तत्त्वपद्धतिः ॥
 > तस्यामेकः प्रमाता चेदवश्यं जाग्रदादिकम् ।
 > तद्दर्श्यते शम्भुनाथप्रसादाद्विदितं मया ॥

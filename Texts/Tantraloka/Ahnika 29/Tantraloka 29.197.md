@@ -33,6 +33,13 @@ ityeṣa samayī proktaḥ śrīpūrve karakampataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 357–358)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 29.198.*
+>
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.196–197]]
+>
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.198]]
+
 *Lead-in:* एवमियता अस्मद्दर्शने समयिदीक्षोक्ता--इत्याह--
 
 > इत्येष समयी प्रोक्तः श्रीपूर्वे करकम्पतः ॥

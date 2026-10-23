@@ -36,6 +36,11 @@ prāṇaśca pañcadhā dehe dvidhā bāhyāntaratvataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 216–218)
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.2]]
+>
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.2–4]]
+
 *Lead-in:* तदेवाह -
 
 > स्थानभेदस्त्रिधा प्रोक्तः प्राणे देहे बहिस्तथा ।

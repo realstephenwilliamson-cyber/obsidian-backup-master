@@ -31,6 +31,9 @@ rudratvametyasau janturbhogāndivyānsamaśnute || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 363–364)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.16–18]]
+
 > श्रीमौकुटे तथा चोक्तं शिवशास्त्रे स्थितोऽपि यः ।
 > प्रत्येति वैदिके भग्नघण्टावन्न स किञ्चन ॥
 > तथोक्तदेवपूजादिचक्रयागान्तकर्मणा ।

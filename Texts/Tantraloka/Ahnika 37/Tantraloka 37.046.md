@@ -36,6 +36,9 @@ grastārkendurgaganavimalo yoginīnāṃ ca vargaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 247)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.46]]
+
 *Lead-in:* यत्राङ्गारोज्ज्वलविकसितानन्तसौषुम्णमार्ग-
 
 Jayaratha comments on this verse together with 37.45: see [[Tantraloka 37.045#Viveka|37.45]].

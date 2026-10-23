@@ -42,5 +42,5 @@ Pritzker translation (Matt): [[Zohar 8.08 - Parashat Naso#^z3-126a|Parashat Naso
 **Nasso 9:111** Observe this. A man walks about in the world thinking that it is his perpetual possession and that he will abide therein from generation to generation. But even while he walks he is being put in chains; while he sits he is being tried in the conclave among the other prisoners. If there be an advocate on his side he is delivered from punishment. So Scripture says: “If there be for him an angel, an intercessor, one among a thousand, to vouch for man’s uprightness; then he is gracious unto him, and saith ‘, etc. (Job 33, 23). Who is his advocate? It is man’s good works that stand by him at the moment of need. ^nasso-9-111
 
 [^1]: v. T. B. Berachoth, 6b.
-[^2]: v. T. B. Yoma, 38b.
+[^2]: v. T. B. [[Yoma 38#38b|Yoma, 38b]].
 [^3]: There is here a lacuna in the text.

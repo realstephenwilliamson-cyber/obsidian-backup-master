@@ -35,6 +35,9 @@ nirodhikāmimāṃ bhitvā sādākhyaṃ bhuvanaṃ param || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 362)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.386–387]]
+
 *Lead-in:* निरोधिकामेव निर्वक्ति --
 
 > हेतून्ब्रह्मादिकान् रुन्द्धे-रोधिकां तां त्यजेत्ततः ।

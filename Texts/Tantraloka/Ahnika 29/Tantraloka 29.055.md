@@ -31,6 +31,9 @@ varṇāśca mukhyapūjyāyā vidyāyā gaṇayetsudhīḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 251–252)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.55]]
+
 *Lead-in:* अत्र प्रकारान्तरमाह--
 
 > श्रीरत्नमालाशास्त्रे तु वर्णसंख्याः प्रदीपकाः ।

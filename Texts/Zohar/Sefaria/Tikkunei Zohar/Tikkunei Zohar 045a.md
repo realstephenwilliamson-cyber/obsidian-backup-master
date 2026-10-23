@@ -307,19 +307,19 @@ it hovers over its chicks...*
 [^1]: *im*
 [^2]: if
 [^3]: mother
-[^4]: See *BT* Berakhot 32b
+[^4]: See *BT* [[Berakhot 32#32b|Berakhot 32b]]
 [^5]: *yish-hei*
 [^6]: *mishta-eh*
 [^7]: *iysh*
-[^8]: See *BT* Berakhot 34b
-[^9]: See *BT* Nidah 31b
-[^10]: *BT* Nidah 31a
+[^8]: See *BT* [[Berakhot 34#34b|Berakhot 34b]]
+[^9]: See *BT* [[Niddah 31#31b|Nidah 31b]]
+[^10]: *BT* [[Niddah 31#31a|Nidah 31a]]
 [^11]: Liturgical: Morning service – blessings before *Shm’a*
 [^12]: *AZ*
 [^13]: *se-phatayim*
 [^14]: *qorbana*
 [^15]: *qorbana*
-[^16]: *BT* Berakhot 26a
+[^16]: *BT* [[Berakhot 26#26a|Berakhot 26a]]
 [^17]: *’olah*
 [^18]: ascending
 [^19]: *zot*

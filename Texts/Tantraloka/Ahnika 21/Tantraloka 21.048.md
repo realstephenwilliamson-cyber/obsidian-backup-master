@@ -34,6 +34,9 @@ bhogānīpsā durlabhā hi satī vā bhogahānaye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 271)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.48]]
+
 *Lead-in:* नन्वेवमत्रास्तु, मुक्तियोजनिकायां तु मुक्तौ वैचित्र्यायोगात् व्यर्थं हेतुवैचित्र्यं स्यादित्याशङ्क्याह--
 
 > परोक्षदीक्षणे मायोत्तीर्णे भोगाय योजयेत् ।

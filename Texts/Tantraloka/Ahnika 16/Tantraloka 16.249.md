@@ -35,6 +35,9 @@ tanmantrasañjalpabalāt paśyedā cāvikalpakāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 108–109)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.249]]
+
 *Lead-in:* विज्ञानदीक्षायां पुनरेवं कर्तव्यं किञ्चिन्नास्ति--इत्याह--
 
 > यदा विज्ञानदीक्षां तु कुर्याच्छिष्यं तदा भृशम् ।

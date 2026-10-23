@@ -35,6 +35,9 @@ kriyākṣaṇe vā'pyekasmin bahvyaḥ saṃsyurdrutāḥ kriyāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 96–97)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.113–114]]
+
 *Lead-in:* एवं च येऽप्यत्यन्तसंकुचितक्षणात्मककालनियमाद्भावानां क्षणिकत्वमाचक्षते तेऽप्यनया दिशा परास्ताः -- इत्याह -
 
 Jayaratha comments on this verse together with 11.114: see [[Tantraloka 11.114#Viveka|11.114]].

@@ -36,6 +36,11 @@ bahurūpādikā mantrāḥ pāvanātteṣu śuddhatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 321–322)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.223–225]]
+>
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.225]]
+
 *Lead-in:* एवं तर्हि अन्यस्माच्छुद्धादेव शुद्धिः स्यात्, इत्याह --
 
 > बहुरूपादिका मन्त्राः पावनात्तेषु शुद्धता ॥

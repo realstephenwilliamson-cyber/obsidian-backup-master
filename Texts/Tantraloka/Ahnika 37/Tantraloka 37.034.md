@@ -36,6 +36,9 @@ rātrindivaprasarabhogavibhāga bhūṣā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 241)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.34–35]]
+
 *Lead-in:* क्वान्यत्र चित्रगतिसूर्यशशाङ्कशोभि-
 
 > रात्रिन्दिवप्रसरभोगविभाग भूषा ॥

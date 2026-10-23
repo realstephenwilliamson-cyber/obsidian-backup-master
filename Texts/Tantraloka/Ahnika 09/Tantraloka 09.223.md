@@ -31,6 +31,9 @@ akṣubdhasya vijātīyaṃ na syāt kāryamadaḥ purā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 211–212)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.223–224]]
+
 *Lead-in:* ननु प्रधानस्य यद्यक्षुब्धमेव रूपं तत्कथं कार्यजन्मनि प्रभवेत्? -- इत्याशङ्क्याह --
 
 > त एते क्षोभमापन्ना गुणाः कार्यं प्रतन्वते ।

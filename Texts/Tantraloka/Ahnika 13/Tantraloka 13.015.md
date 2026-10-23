@@ -31,6 +31,9 @@ niṣphalīkurute duṣṭaṃ karmetyaṅgīkṛtaṃ kila || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 132–133)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.15]]
+
 *Lead-in:* ननु यदि नाम फलदानसहकारिभूताज्ञाननिवर्तनद्वारेण निरुद्धफलजननसामर्थ्यं कर्म संपाद्यते तद्यत्राज्ञानं च न निवार्यते कर्म च निष्फलीक्रियते तत्र किं प्रतिपत्तव्यम् ? -- इत्याशङ्क्याह -
 
 > उपवासादिकं चान्यद्दुष्टकर्मफलं भवेत् ।

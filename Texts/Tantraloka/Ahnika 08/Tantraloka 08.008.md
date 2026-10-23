@@ -34,6 +34,9 @@ upāsyamānā saṃsārasāgarapralayānalaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 55–57)
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.7–8]]
+
 > ज्ञात्वा समस्तमध्वानं तदीशेषु विलापयेत् ।
 > तान् देहप्राणधीचक्रे पूर्ववद् गालयेत्क्रमात् ॥
 > तत्समस्तं स्वसंवित्तौ सा संविद्भरितात्मिका ।

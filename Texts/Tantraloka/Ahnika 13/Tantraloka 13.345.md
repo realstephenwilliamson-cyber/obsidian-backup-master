@@ -33,6 +33,11 @@ ahamapyata evādhaḥśāstradṛṣṭikutūhalāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 337)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.344–345]]
+>
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.345–346]]
+
 *Lead-in:* अनेनैवाशयेन मयाऽपि नानागुरूपसेवनं कृतम् -- इत्याह --
 
 > अहमप्यत एवाधःशास्त्रदृष्टिकुतूहलात् ॥

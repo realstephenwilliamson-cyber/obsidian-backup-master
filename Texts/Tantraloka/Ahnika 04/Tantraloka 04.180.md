@@ -36,6 +36,11 @@ tadasyāḥ saṃvido devyā yatra kvāpi pravartanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 275–280)
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.178–180]]
+>
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.180–181]]
+
 *Lead-in:* ननु यद्येवं तदस्याः परस्याः संविदः कथं नामावाहनविसर्जनाद्यात्मकत्वात् क्रमानुप्राणिता पूजा भवेत् ? -- इत्याशङ्क्याह --
 
 > तदस्याः संविदो देव्या यत्र क्वापि प्रवर्तनम् ॥

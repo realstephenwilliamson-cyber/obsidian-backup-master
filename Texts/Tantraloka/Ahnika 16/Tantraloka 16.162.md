@@ -34,6 +34,9 @@ evaṃ śodhakabhedena saptatiḥ kīrtitā bhidaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 73–74)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.162–163]]
+
 > अनामसंहृतिस्थैर्यसृष्टिचक्रं चतुर्विधम् ।
 > देवताभिर्निजाभिस्तन्मातृसद्भाववृंहितम् ॥
 > इत्थं शोधकवर्गोऽयं मन्त्राणां सप्ततिः स्मृता ।

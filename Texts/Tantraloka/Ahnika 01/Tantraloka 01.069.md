@@ -34,6 +34,9 @@ ko bhedo vastuto vahnerdagdhṛpaktṛtvayoriva || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 207–208)
+> ![[Tantraloka Dyczkowski v01 07 - Chapter One, part 6#Viveka on 1.69]]
+
 *Lead-in:* नन्वेवमस्तु, यन्न शक्तिशक्तिमतोर्भेद इति, शक्तीनां पुनः परस्परं भेद एव भवति इति पुनः स दोषस्तदवस्थ एव ? इत्याशङ्क्याह --
 
 > मातृकॢप्ते हि देवस्य तत्र तत्र वपुष्यलम् ।

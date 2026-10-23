@@ -33,6 +33,11 @@ tatra yaiṣā dharātattvācchivāntā tattvapaddhatiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 439–441)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.228–229]]
+>
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.229–230]]
+
 *Lead-in:* ननु यद्येवं, तत्तुर्यातीतरूपस्याप्येकस्य शिवस्य जाग्रदाद्यवस्थाः प्रसज्येरन्? -- इत्याशंक्य तदेवाभ्युपगच्छति --
 
 Jayaratha comments on this verse together with 10.228: see [[Tantraloka 10.228#Viveka|10.228]].

@@ -33,6 +33,13 @@ kṛtavidyāvrataḥ paścāddīkṣāvyākhyādi sarvataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 316–317)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 23.42–43.*
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.39–41]]
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.42–43]]
+
 *Lead-in:* एवं च कृतविद्याव्रतस्यैव अस्य सप्तसत्र्यामधिकारः--इत्याह--
 
 > कृतविद्याव्रतः पश्चाद्दीक्षाव्याख्यादि सर्वतः ॥

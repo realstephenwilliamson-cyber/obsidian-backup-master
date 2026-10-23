@@ -31,5 +31,8 @@ koṭyāṃ tatra kṛtaṃ sūtraṃ nayedrekhāṃ tu pūrvikām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 131)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.158]]
+
 Jayaratha comments on this verse together with 31.160: see [[Tantraloka 31.160#Viveka|31.160]].
 

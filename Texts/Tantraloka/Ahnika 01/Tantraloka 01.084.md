@@ -37,6 +37,11 @@ prakāśāvasthitaṃ jñānaṃ bhāvābhāvādimadhyataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 225–233)
+> ![[Tantraloka Dyczkowski v01 07 - Chapter One, part 6#Viveka on 1.84]]
+>
+> ![[Tantraloka Dyczkowski v01 07 - Chapter One, part 6#Viveka on 1.84–86]]
+
 *Lead-in:* तत्त्वग्रामस्य चास्य न संकुचित आत्मा धर्मः, अपि तु परः -- इत्याह - -
 
 > आत्मैव धर्म इत्युक्तः शिवामृतपरिप्लुतः ।

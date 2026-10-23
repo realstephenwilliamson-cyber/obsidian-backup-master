@@ -34,5 +34,12 @@ tathā ca śrīmadūrmyākhye guroruktaṃ viśeṣaṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 339–341)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 15.590–592.*
+>
+> ![[Tantraloka Dyczkowski v08 10 - Chapter Fifteen, part 9#Viveka on 15.586–588]]
+>
+> ![[Tantraloka Dyczkowski v08 10 - Chapter Fifteen, part 9#Viveka on 15.590–592]]
+
 Jayaratha comments on this verse together with 15.597: see [[Tantraloka 15.597#Viveka|15.597]].
 

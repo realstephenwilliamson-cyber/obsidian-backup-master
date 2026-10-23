@@ -34,6 +34,9 @@ sṛṣṭiṃ kalayate devī tannāmnāgama ucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 200–204)
+> ![[Tantraloka Dyczkowski v03 07 - Chapter Four, part 6#Viveka on 4.148]]
+
 *Lead-in:* तदेव चेदानीं विभज्य दर्शयन्, क्रमनयसोदरतामस्य दर्शनस्यावेदयति --
 
 > ततश्च प्रागियं शुद्धा तथाभासनसोत्सुका ।

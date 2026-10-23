@@ -31,6 +31,9 @@ triśūlena prayogeṇa brahmarandhramupasthitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 145)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.13–16]]
+
 > जत्रवधस्तात्करौ कृत्वा वामपादं च दक्षिणे ॥
 > विदार्यास्यं कनिष्ठाभ्यां मध्यमाभ्यां तु नासिकाम् ।
 > अनामे कुञ्चयेत्प्राज्ञो भ्रूभङ्गं तर्जनीद्वयम् ॥

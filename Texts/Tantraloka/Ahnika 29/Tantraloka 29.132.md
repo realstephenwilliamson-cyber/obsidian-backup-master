@@ -31,6 +31,9 @@ aṣṭakamaṣṭāṣṭakamatha vividhaṃ saṃpūjayetkrameṇa muniḥ || 
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 321–322)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.130–132]]
+
 > ते तत्र शक्तिचक्रे तेनैवानन्दरसमयेन बहिः ॥
 > दिक्षु चतसृषु प्रोक्तक्रमेण गणनाथतः प्रभृति सर्वम् ।
 > संपूज्य मध्यमपदे कुलेशयुग्मं त्वरात्रये देवीः ॥

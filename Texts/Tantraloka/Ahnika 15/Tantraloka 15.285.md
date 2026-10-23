@@ -33,6 +33,11 @@ dehe kimavaśiṣyeta śivānandarasādṛte |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 170)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.284–285]]
+>
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.285–286]]
+
 *Lead-in:* अतश्च एवमभ्याससहितः साधकः शिव एव भवेत्--इत्याह--
 
 > शिवानन्दरसापूर्णं षटित्रशत्तत्त्वनिर्भरम् ॥

@@ -36,6 +36,11 @@ kadācidvastuviśrāntisāmyenātmani carvaṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 309–312)
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.83–84]]
+>
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.84–85]]
+
 *Lead-in:* ननु रात्रिदिनयोर्बहिः कदाचित्साम्यं भवेत् कदाचिच्च वैषम्यमित्यत्र किं निमित्तम् ? -- इत्याशङ्क्याह -
 
 > कदाचिद्वस्तुविश्रान्तिसाम्येनात्मनि चर्वणम् ॥

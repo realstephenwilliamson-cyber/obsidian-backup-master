@@ -34,6 +34,9 @@ sarvā śivībhavettattvāvalī śuddhānyathā pṛthak || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 167)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.62]]
+
 *Lead-in:* तदेव सामान्येनातिदिशन् शुद्ध्यशुद्धी विभजति--
 
 > तथा तत्तत्पुरातत्त्वमिश्रणादुत्तरोत्तरम् ।

@@ -33,6 +33,13 @@ agnīśarakṣovāyvantadikṣu vidyāṅgapañcakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 218–220)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 15.357–358.*
+>
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.352–353]]
+>
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.357–358]]
+
 *Lead-in:* कथञ्च एतत्?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 15.352: see [[Tantraloka 15.352#Viveka|15.352]].

@@ -33,6 +33,11 @@ māyākarmāṇudevecchāsadbhāve'pi sthite tataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 148–149)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.41–42]]
+>
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.42–43]]
+
 *Lead-in:* ननु माभूदज्ञानं युक्तमयुक्तं वा किमनया नश्चिन्तया यदणूनां मायासद्भावादेव बन्धमोक्षविभागः सिद्ध्येत्? -- इत्याशङ्क्याह --
 
 > मायाकर्माणुदेवेच्छासद्भावेऽपि स्थिते ततः ॥

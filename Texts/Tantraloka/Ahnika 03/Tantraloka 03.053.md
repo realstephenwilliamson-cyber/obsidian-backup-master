@@ -35,6 +35,9 @@ anyāmiśraṃ svatantraṃ sadbhāsamānaṃ mukhaṃ yathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 126)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.53]]
+
 *Lead-in:* एतदेव निराकरोति—
 
 > नैवं तल्लक्षणाभावाद्बिम्बं किल किमुच्यते ।

@@ -33,6 +33,11 @@ dhyātvā tenāsya hṛccakravedhanānmantravedhanam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 380–383)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.240–241]]
+>
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.241–243]]
+
 *Lead-in:* एतदेव क्रमान्तरेणापि आह--
 
 Jayaratha comments on this verse together with 29.240: see [[Tantraloka 29.240#Viveka|29.240]].

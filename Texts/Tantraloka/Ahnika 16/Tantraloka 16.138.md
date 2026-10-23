@@ -36,6 +36,11 @@ mantrādhvano'pyeṣa eva vidhirvinyāsayojane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 62–63)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.135–138]]
+>
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.138–139]]
+
 *Lead-in:* एतदेवान्यत्राप्यतिदिशति--
 
 > मन्त्राध्वनोऽप्येष एव विधिर्विन्यासयोजने ॥

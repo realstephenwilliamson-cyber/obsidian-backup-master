@@ -31,6 +31,9 @@ pūrvādidigvibhāgākhyavaicitryollekhadurmadaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 121)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.196]]
+
 *Lead-in:* ननु तर्हि भावस्वभावाधिकदिक्कालापह्नववादिभिः सौगतैरेव जितम्- -इत्याह--
 
 > तस्मात्संवित्प्रकाशोऽयं मूर्त्याभासनभागतः ।

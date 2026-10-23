@@ -36,6 +36,13 @@ kṣepo jñānaṃ ca saṃkhyānaṃ gatirnāda iti kramāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 249–273)
+> ![[Tantraloka Dyczkowski v03 08 - Chapter Four, part 7#Viveka on 4.173]]
+>
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.173 (continued)]]
+>
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.173–175]]
+
 *Lead-in:* ननु किं नामास्याः परत्वम् ? -- इत्याशङ्क्याह --
 
 > इमाः प्रागुक्तकलनास्तद्विजृम्भोच्यते यतः ।

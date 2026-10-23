@@ -47,7 +47,7 @@ That is why the Psalmist uses the plural *osav* [“its makers”], referring to
 [^1]: Ch. 36.
 [^2]: [[Jeremiah 30#^30-21|Jeremiah 30:21]].
 [^3]: Liturgy, Morning Prayer; introduction to first *Shema*.
-[^4]: *Makkot* 24a.
+[^4]: [[Makkot 24#24a|*Makkot* 24a]].
 [^5]: [[Habakkuk 2#^2-4|Habakkuk 2:4]].
 [^6]: [[Job 28#^28-3|Job 28:3]].
 [^7]: [[Zechariah 13#^13-2|Zechariah 13:2]].

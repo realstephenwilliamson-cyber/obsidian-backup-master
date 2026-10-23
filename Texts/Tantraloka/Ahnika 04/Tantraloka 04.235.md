@@ -34,6 +34,9 @@ tatsvarūpābhidhānena tiṣṭhāsuḥ sa tathā sthitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 333)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.235]]
+
 *Lead-in:* नन्वीश्वरः सर्वशास्त्राणां प्रणेता -- इत्यधिगतमस्माभिः, न तु स एव तदात्मनावस्थितः, -- इत्यपूर्वमिदं किमुच्यते ? -- इत्याशङ्क्याह --
 
 > इच्छावान्भावरूपेण यथा तिष्ठासुरीश्वरः ।

@@ -31,6 +31,9 @@ bhasmaniṣṭhāprapannānāmityādau naiva yogyatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 316)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.306]]
+
 *Lead-in:* आदिशब्दाक्षिप्ते कुलकौलादावप्येतदुक्तम् -- इत्याह --
 
 > कुलकालीविधौ चोक्तं वैष्णवानां विशेषतः ।

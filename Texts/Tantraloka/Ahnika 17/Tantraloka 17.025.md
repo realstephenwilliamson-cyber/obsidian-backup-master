@@ -36,6 +36,11 @@ tatra bāhye'pi tādātmyaprasiddhaṃ karma codyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 152–153)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.24–25]]
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.25–26]]
+
 *Lead-in:* नन्वेवमविशेषेणैव सर्वत्र किमूहः कार्यो न वा?--इत्याशङ्क्याह--
 
 > तत्र बाह्येऽपि तादात्म्यप्रसिद्धं कर्म चोद्यते ॥

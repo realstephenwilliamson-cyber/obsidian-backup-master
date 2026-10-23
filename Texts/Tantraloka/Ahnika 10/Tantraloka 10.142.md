@@ -33,6 +33,11 @@ evaṃ śivo'pi manute etasyaitatpravedyatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 383–384)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.141–142]]
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.142–144]]
+
 *Lead-in:* एतदेव प्रकृते योजयति --
 
 Jayaratha comments on this verse together with 10.141: see [[Tantraloka 10.141#Viveka|10.141]].

@@ -34,6 +34,9 @@ devī kālī tathā kālakarṣiṇī ceti kathyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 274)
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.176]]
+
 *Lead-in:* एतदेव प्रकृते विश्रमयति --
 
 > इति पञ्चविधामेनां कलनां कुर्वती परा ।

@@ -33,6 +33,11 @@ phādināntāṃ smareddevīṃ pṛthivyādiśivāntagām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 227–229)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.369–374]]
+>
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.374]]
+
 *Lead-in:* अत एव आह--
 
 > फादिनान्तां स्मरेद्देका पृथिव्यादिशिवान्तगाम् ॥

@@ -33,6 +33,11 @@ mahāprakāśarūpā hi yeyaṃ saṃvidvijṛmbhate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 159)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.264–265]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.265–266]]
+
 *Lead-in:* ननु यदि एवंविधो न शिवस्तत्कतरः?--इत्याशङ्क्य आह--
 
 > महाप्रकाशरूपा हि येयं संविद्विजृम्भते ॥

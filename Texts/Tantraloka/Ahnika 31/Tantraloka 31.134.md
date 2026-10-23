@@ -33,6 +33,11 @@ vaṃśairviṣayasaṃkhyaiśca padmaṃ yugmendumaṇḍalam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 120–121)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.134]]
+>
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.134–135]]
+
 *Lead-in:* एतदेव हृदयङ्गमीकरणाय सङ्कलयति--
 
 > अष्टौ मर्मशतान्येकचत्वारिंशच्च जायते ।

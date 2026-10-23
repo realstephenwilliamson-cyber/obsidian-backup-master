@@ -34,6 +34,9 @@ sthāṇurvā puruṣo veti na mukhyo'styeṣa saṃśayaḥ | bhūyaḥsthadhar
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 424)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.250]]
+
 *Lead-in:* संशयस्य च मुख्यत्वं क्वचिदमुख्यत्वे सति युज्यत इत्यस्यामुख्यत्वमपि दर्शयितुमाह --
 
 > स्थाणुर्वा पुरुषो वेति न मुख्योऽस्त्येष संशयः । भूयःस्थधर्मजातेषु निश्चयोत्पाद एव हि ॥

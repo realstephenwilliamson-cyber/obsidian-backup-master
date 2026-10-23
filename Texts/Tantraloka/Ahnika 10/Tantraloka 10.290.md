@@ -31,5 +31,8 @@ layākalasya bhogo'sau malakarmavaśānna tu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 480–482)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.289–291]]
+
 Jayaratha comments on this verse together with 10.291: see [[Tantraloka 10.291#Viveka|10.291]].
 

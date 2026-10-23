@@ -37,6 +37,11 @@ madhu madhukṛtaḥ kadambaṃ kesarajālāni yadvadāvṛṇate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 205–207)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.180–181]]
+>
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.181–183]]
+
 *Lead-in:* कथं चैषामत्रावस्थानम्? -- इत्याह -
 
 Jayaratha comments on this verse together with 8.180: see [[Tantraloka 08.180#Viveka|8.180]].

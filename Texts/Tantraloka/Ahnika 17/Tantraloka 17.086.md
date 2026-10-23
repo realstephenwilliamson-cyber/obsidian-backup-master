@@ -34,5 +34,8 @@ janmādheyaprapañcaikasphoṭasaṅghaṭṭaghaṭṭanaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 176–177)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.85–87]]
+
 Jayaratha comments on this verse together with 17.87: see [[Tantraloka 17.087#Viveka|17.87]].
 

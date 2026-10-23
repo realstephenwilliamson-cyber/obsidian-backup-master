@@ -35,6 +35,9 @@ anāviśanto'pi nimagnacittā jānanti vṛttikṣayasaukhyamantaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 166–168)
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.126]]
+
 *Lead-in:* नन्वेवं त्रयाणामप्याणवादीनामुपायानां साङ्कर्येणैवोपदेशः कार्यः -- इति किं पृथक् पृथगाह्निकपरिकल्पनेन ? -- इत्याशङ्क्याह - -
 
 > अर्थेषु तद्भोगविधौ तदुत्थे दुःखे सुखे वा गलिताभिशङ्कम् ।

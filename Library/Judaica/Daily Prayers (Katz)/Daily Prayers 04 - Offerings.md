@@ -44,7 +44,7 @@ After the flood, Noah rebuilt the altar that Adam had originally built but was d
 
 *[p. 57]* ^pg57
 
-was not fit to offer sacrifices, so the “Priesthood” then passed on to Shem who, while not the oldest of Noah's sons, was the foremost in wisdom and piety. So, it is Shem who actually performed the sacrificial offerings. (See Va Yikra Rabba 20:1, Tanchuma, Noah 9., Sanhedrin 69b, Bereshit Rabbah 26:3, Rashi on [[Torah 01 - Bereshit#^5-2|Genesis 5:2]]) 
+was not fit to offer sacrifices, so the “Priesthood” then passed on to Shem who, while not the oldest of Noah's sons, was the foremost in wisdom and piety. So, it is Shem who actually performed the sacrificial offerings. (See Va Yikra Rabba 20:1, Tanchuma, Noah 9., [[Sanhedrin 69#69b|Sanhedrin 69b]], Bereshit Rabbah 26:3, Rashi on [[Torah 01 - Bereshit#^5-2|Genesis 5:2]]) 
 
 This same spot, where Noah built his altar, where Shem would come to offer sacrifices, and later Abraham, Isaac, and Jacob would also offer sacrifices is located on the temple mount, the same spot where the Temple of GOD stood and will one day stand again. (According to the tradition: Rambam: Hil. Beis HaBechirah) 
 

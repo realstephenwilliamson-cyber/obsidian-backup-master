@@ -37,6 +37,11 @@ tataḥ satyapade rūḍho viśvātmatvena saṃvidam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 135–141)
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.100–104]]
+>
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.104–105]]
+
 *Lead-in:* तदाह --
 
 > ततः सत्यपदे रूढो विश्वात्मत्वेन संविदम् ॥

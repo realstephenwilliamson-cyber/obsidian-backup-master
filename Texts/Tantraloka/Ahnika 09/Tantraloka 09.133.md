@@ -33,6 +33,11 @@ ato mohaparādhīno yadyapyakṛta kiñcana || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 116–117)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.132–133]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.133–134]]
+
 *Lead-in:* तदाह -
 
 > अतो मोहपराधीनो यद्यप्यकृत किञ्चन ॥

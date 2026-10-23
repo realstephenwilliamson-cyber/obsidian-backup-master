@@ -31,6 +31,9 @@ japtavānsa guruścātra nādhikāryuktadūṣaṇāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 289)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.34–35]]
+
 *Lead-in:* नन्वस्य अज्ञगुर्वाश्रयणात् गुणः कश्चिन्मा भूत्, दोषः कुतस्त्यो येन लिङ्गोद्धृतिरपि स्यात्?--इत्याशङ्क्याह--
 
 > अज्ञाचार्यमुखायातं निर्वीर्यं मन्त्रमेष यत् ।

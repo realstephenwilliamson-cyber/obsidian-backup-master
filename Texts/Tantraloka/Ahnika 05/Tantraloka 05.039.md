@@ -34,6 +34,9 @@ naivāsti kācitkalanā viśvaśaktermaheśituḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 37)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.39]]
+
 *Lead-in:* नन्वसंख्यारत्वे किं निमित्तम् ? -- इत्याशङ्क्याह --
 
 > संविन्नाथस्य महतो देवस्योल्लासिसंविदः ।

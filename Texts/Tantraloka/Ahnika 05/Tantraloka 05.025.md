@@ -36,6 +36,11 @@ sṛṣṭisaṃsthitisaṃhāraistāsāṃ pratyekatastridhā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 28)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.25]]
+>
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.25 (2)]]
+
 *Lead-in:* न केवलमेतत् वह्न्यादिशक्तिरूपमेव यावत् परादिरूपमपि -- इत्याह --
 
 > परा परापरा चेयमपरा च सदोदिता ।

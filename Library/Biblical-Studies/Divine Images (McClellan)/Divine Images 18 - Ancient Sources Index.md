@@ -666,7 +666,7 @@ Rabbinic Sources
 
 Megillah 
 
-32a 191 Mekhilta de-Rabbi Ishmael Mishnah Yadayim 4:5 190–91 Sanhedrin 38b 192 65b 192 Sepher Ha-Razim 4:22 165 Sefer haZohar 1.185a 191–92 Shabbat 115a 191 Shevuot 35a 189 Shulkhan Arukh, Yoreh Deah 274 191 Targum Neophiti Genesis 32:31 162 Targum Onqelos Exodus 4:24 162 Targum Pseudo-Jonathan Genesis 4:1 162 32:31 162 Tosefta Yadayim 2:14 190 
+32a 191 Mekhilta de-Rabbi Ishmael Mishnah Yadayim 4:5 190–91 [[Sanhedrin 38#38b|Sanhedrin 38b]] 192 65b 192 Sepher Ha-Razim 4:22 165 Sefer haZohar 1.185a 191–92 [[Shabbat 115#115a|Shabbat 115a]] 191 [[Shevuot 35#35a|Shevuot 35a]] 189 Shulkhan Arukh, Yoreh Deah 274 191 Targum Neophiti Genesis 32:31 162 Targum Onqelos Exodus 4:24 162 Targum Pseudo-Jonathan Genesis 4:1 162 32:31 162 Tosefta Yadayim 2:14 190 
 
 Samaritan Sources 
 

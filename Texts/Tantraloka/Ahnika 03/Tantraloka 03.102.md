@@ -36,6 +36,11 @@ tena bodhamahāsindhorullāsinyaḥ svaśaktayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 207–208)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.101–102]]
+>
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.102–103]]
+
 *Lead-in:* यतश्चैवम्, अतस्तत एव इयान् विश्वप्रसरः -- इत्याह --
 
 > तेन बोधमहासिन्धोरुल्लासिन्यः स्वशक्तयः ॥

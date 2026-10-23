@@ -33,6 +33,11 @@ vikāsāttṛptitaḥ pāśotkartanātkṛtiśaktitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 301–302)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.105–106]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.106–107]]
+
 *Lead-in:* चक्रशब्दस्य च प्रवृत्तौ किं निमित्तम् ?--इत्याशङ्क्य आह--
 
 > विकासात्तृप्तितः पाशोत्कर्तनात्कृतिशक्तितः ॥

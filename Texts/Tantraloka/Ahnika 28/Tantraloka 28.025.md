@@ -33,6 +33,13 @@ uktaṃ ca tatra teneha kule sāmānyatetyalam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 16–20)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 28.34–35.*
+>
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.23–25]]
+>
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.34–35]]
+
 *Lead-in:* न च एतद्युक्तित एव सिद्धम्--इत्याह--
 
 Jayaratha comments on this verse together with 28.24: see [[Tantraloka 28.024#Viveka|28.24]].

@@ -34,6 +34,9 @@ vīrye tacca prajāsvevaṃ visarge viśvarūpatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 357)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.230–231]]
+
 > तस्माद्वीर्यात्प्रजास्ताश्च वीर्यं कर्मसु कथ्यते ॥
 > यगादिकेषु तद्वृष्टौ सौषधीष्वथ ताः पुनः ।
 > वीर्ये तच्च प्रजास्वेवं विसर्गे विश्वरूपता ॥

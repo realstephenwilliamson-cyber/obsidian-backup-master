@@ -33,6 +33,11 @@ itthaṃ yāgaṃ vidhāyādau tādṛśaucityabhāginam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 352–353)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.186]]
+>
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.186–187]]
+
 *Lead-in:* न च एतदस्मदुपज्ञमेव--इत्याह--
 
 > श्रीमद्वीरावलीशास्त्रे इत्थं प्रोवाच भैरवी ।

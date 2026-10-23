@@ -35,6 +35,9 @@ yaśchedastatra yaḥ sandhiḥ sa puṇyo dhyānapūjane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 356–358)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.128]]
+
 *Lead-in:* नन्वेवं तिथिविभाजनेऽस्य किं प्रयोजनम् ? -- इत्याशङ्क्याह --
 
 > प्रहराहर्निशामासऋत्वब्दरविषष्टिगः ।

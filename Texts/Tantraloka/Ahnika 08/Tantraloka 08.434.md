@@ -37,6 +37,11 @@ yatra yadā parabhogān bubhukṣate tatra yojanaṃ kāryam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 386–388)
+> ![[Tantraloka Dyczkowski v05 11 - Chapter Eight, part 9#Viveka on 8.434]]
+>
+> ![[Tantraloka Dyczkowski v05 11 - Chapter Eight, part 9#Viveka on 8.434–435]]
+
 *Lead-in:* भुवनेश्वराश्चात्र विचित्राः -- इत्याह --
 
 > शैवाः केचिदिहानन्ताः श्रैकण्ठा इति संग्रहः ।

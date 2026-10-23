@@ -37,6 +37,11 @@ uktaṃ ca gurubhiḥ śrīmadrauravādisvavṛttiṣu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 360–361)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.132–134]]
+>
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.134–135]]
+
 *Lead-in:* नन्वन्ये पित्र्यमेव वर्षं देवानां दिनमित्युक्तवन्तस्तत्कथमिह तयोः साम्यमुक्तं, किमत्र किंचित्साधकं प्रमाणमस्ति ? -- इत्याशङ्क्याह --
 
 > उक्तं च गुरुभिः श्रीमद्रौरवादिस्ववृत्तिषु ॥

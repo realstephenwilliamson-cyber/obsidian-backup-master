@@ -34,6 +34,11 @@ ukteyaṃ sadya utkrāntiryā gopyā prāṇavad budhaiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 230)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.56]]
+>
+> ![[Tantraloka Dyczkowski v09 11 - Chapter Twenty#Viveka on 19.56 (continued)]]
+
 *Lead-in:* आह्निकार्थमेव प्रथमार्धेनोपसंहरति--
 
 > उक्तेयं सद्य उत्क्रान्तिर्या गोप्या प्राणवद् बुधैः ॥

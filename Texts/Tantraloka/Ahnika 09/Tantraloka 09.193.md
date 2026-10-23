@@ -31,6 +31,9 @@ karmajālaṃ ca tatrasthaṃ vivinakti nijātmanā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 165–167)
+> ![[Tantraloka Dyczkowski v06 07 - Chapter Nine, part 5#Viveka on 9.192–193]]
+
 > बुद्धिं पश्यति सा विद्या बुद्धिदर्पणचारिणः ॥
 > सुखादीन् प्रत्ययान् मोहप्रभृतीन् कार्यकारणे ।
 > कर्मजालं च तत्रस्थं विविनक्ति निजात्मना ॥

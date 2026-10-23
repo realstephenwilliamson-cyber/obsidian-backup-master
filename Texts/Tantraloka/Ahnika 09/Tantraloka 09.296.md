@@ -31,6 +31,9 @@ apākajaścāśītoṣṇo dhvaniścitraśca mārute || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 271–274)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.294–297]]
+
 > तत्रानेकप्रकाराः स्युर्गन्धरूपरसाः क्षितौ ॥
 > संस्पर्शः पाकजोऽनुष्णाशीतः शब्दो विचित्रकः ।
 > शौक्ल्यं माधुर्यशीतत्वे चित्राः शब्दाश्च वारिणि ॥

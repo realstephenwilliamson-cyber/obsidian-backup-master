@@ -37,6 +37,11 @@ hṛtkandānandasaṅkocavikāsadvādaśāntagāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 397–398)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.187–188]]
+>
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.188–189]]
+
 *Lead-in:* ननु यद्यत्र ब्रह्मादीनां कारणानां सृष्ट्यादि संभवेत् तत्कुत्र कस्यावस्थानम् ? -- इत्याशङ्क्याह --
 
 > हृत्कन्दानन्दसङ्कोचविकासद्वादशान्तगाः ॥

@@ -36,6 +36,11 @@ kālī nāma parā śaktiḥ saiva devasya gīyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 220–222)
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.7]]
+>
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.7 (2)]]
+
 *Lead-in:* ननु सर्वमिदं जगत्संविल्लग्नमेवावभासतेऽन्यथा ह्यस्य भानमेव न भवेत्, संविदि च नित्यत्वात्कालयोगो नास्ति, इति कथमसौ तदनुषक्तस्य भावजातस्यापि स्यात् ? -- इत्याशङ्क्याह --
 
 > क्रमाक्रमात्मा कालश्च परः संविदि वर्तते ।

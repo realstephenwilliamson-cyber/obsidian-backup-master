@@ -34,6 +34,9 @@ itthaṃbhūtamahāvyāptisaṃvedanapavitritaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 43)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.90–93]]
+
 > अहमेव परं तत्त्वं न च तद्धटवत् क्वचित् ॥
 > महाप्रकाशस्तत्तेन मयि सर्वमिदं जगत् ।
 > न च तत्केनचिद्बाह्यप्रतिबिम्बवदर्पितम् ॥

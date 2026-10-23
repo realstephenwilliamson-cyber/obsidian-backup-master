@@ -31,6 +31,9 @@ nivārya supte mūlākhyaḥ svaśaktiparibṛṃhitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 372)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.222–223]]
+
 *Lead-in:* तदेव आह--
 
 Jayaratha comments on this verse together with 29.223: see [[Tantraloka 29.223#Viveka|29.223]].

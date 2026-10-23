@@ -35,6 +35,9 @@ ke'staṃ saumye ca madhyāhna itthaṃ sūryagatāgate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 156–158)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.111–112]]
+
 > अर्धरात्रोऽमरावत्यां याम्यायामस्तमेव च ।
 > मध्यन्दिनं तद्वारुण्यां सौम्ये सूर्योदयः स्मृतः ॥
 > उदयो योऽमरावत्यां सोऽर्धरात्रो यमालये ।

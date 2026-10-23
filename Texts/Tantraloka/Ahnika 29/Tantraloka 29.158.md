@@ -33,6 +33,11 @@ kucamadhyahṛdayadeśādoṣṭhāntaṃ kaṇṭhagaṃ yadavyaktam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 337–339)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.157–158]]
+>
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.158–160]]
+
 *Lead-in:* ननु अत्र किं नाम भैरवाष्टकस्य पदं यदपि अर्धचन्द्रादिभिरष्टाभिः कलाभिर्भिन्नं स्यात्?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 29.157: see [[Tantraloka 29.157#Viveka|29.157]].

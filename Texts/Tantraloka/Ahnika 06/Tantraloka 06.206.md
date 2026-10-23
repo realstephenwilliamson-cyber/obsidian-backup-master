@@ -37,6 +37,11 @@ vyāptau viṣeryato vṛttiḥ sāmyaṃ ca vyāptirucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 416–420)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.205–206]]
+>
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.206–207]]
+
 *Lead-in:* नान्वासां चतसृणां संक्रान्तीनामेवं व्यपदेशे किं निमित्तम् ? -- इत्याशङ्क्याह --
 
 > व्याप्तौ विषेर्यतो वृत्तिः साम्यं च व्याप्तिरुच्यते ॥

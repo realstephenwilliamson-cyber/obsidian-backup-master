@@ -31,6 +31,9 @@ naśyedavaśyaṃ taccāpi budhyate jñānamuttamam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 131)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.304–305]]
+
 > यतो विज्ञानमेतेषामुत्पन्नं न च सुस्फुटम् ।
 > विकल्पान्तरयोगेन न चाप्युन्मूलितात्मकम् ॥
 > अतो देहे प्रमादोत्थो विकल्पो देहपाततः ।

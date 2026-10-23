@@ -31,6 +31,9 @@ dīkṣayā pāśamokṣe tu śuddhabhāvādvivekajam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 244–245)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.194–195]]
+
 > ऊचेऽज्ञाना हि दीक्षायां बालवालिशयोषितः ।
 > पाशच्छेदाद्विमुच्यन्ते प्रबुद्ध्यन्ते शिवाध्वरे ॥
 > तस्माद्दीक्षा भवत्येषु कारणत्वेन सुन्दरि ।

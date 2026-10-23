@@ -33,6 +33,11 @@ arcāsu śobhanaṃ mūrdhni tritattvaparikalpanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 76–77)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 28.155–156.*
+>
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.155–156]]
+
 > पाट्टसूत्रं तु कौशेयं कार्पासं क्षौममेव च ।
 > चातुराश्रमिकाणां तु सुभ्रुवा कर्तितोक्षितम् ॥
 > त्रिधा तु त्रिगुणीकृत्य मानसंख्यां तु कारयेत् ।

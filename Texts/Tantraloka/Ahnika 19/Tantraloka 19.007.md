@@ -34,6 +34,9 @@ kuryādutkramaṇaṃ śrīmadgahvare ca nirūpitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 202–203)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.7–8]]
+
 *Lead-in:* न च असमय एवैषामेतत्कार्यम्--इत्याह--
 
 Jayaratha comments on this verse together with 19.8: see [[Tantraloka 19.008#Viveka|19.8]].

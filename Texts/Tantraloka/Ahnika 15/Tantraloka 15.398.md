@@ -32,6 +32,9 @@ staraparidhiviṣṭarasthitisaṃskārā daśāstrataḥ kuṇḍagatāḥ || ^
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 244)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.398]]
+
 *Lead-in:* तत्र कुण्डस्य तावत्संस्कारानाह--
 
 > उल्लेखसेककुट्टनलेपचतुर्मार्गमक्षवृतिपरिकलनम् ।

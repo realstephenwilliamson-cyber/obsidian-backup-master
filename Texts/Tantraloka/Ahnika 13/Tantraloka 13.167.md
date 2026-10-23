@@ -33,6 +33,11 @@ nanu prāgdīkṣayā mokṣo'dhunā tu prātibhātkatham || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 225–226)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.166–167]]
+>
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.167]]
+
 *Lead-in:* इत्यादिना दीक्षया मोक्षः -- इत्युक्तम् । इदानीं तु प्रातिभानमुच्यते इति किमेतदुक्तम्? -- इत्याह --
 
 > ननु प्राग्दीक्षया मोक्षोऽधुना तु प्रातिभात्कथम् ॥

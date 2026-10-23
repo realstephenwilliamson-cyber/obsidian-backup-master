@@ -33,6 +33,11 @@ pariṇāmastallayaśca namaskāraḥ sa ucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 10–12)
+> ![[Tantraloka Dyczkowski v11 02 - Chapter Thirty, part 1#Viveka on 30.12–14]]
+>
+> ![[Tantraloka Dyczkowski v11 02 - Chapter Thirty, part 1#Viveka on 30.14]]
+
 *Lead-in:* न केवलमियं मूर्तेरेव एतावती व्याप्तिः, यावत् मन्त्रदीपकतया अभिमतस्य नमस्कारस्य अपि--इत्याह--
 
 Jayaratha comments on this verse together with 30.13: see [[Tantraloka 30.013#Viveka|30.13]].

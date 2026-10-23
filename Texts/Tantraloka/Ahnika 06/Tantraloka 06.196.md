@@ -37,6 +37,11 @@ daśa mukhyā mahānāḍīḥ pūrayanneṣa tadgatāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 402–405)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.195–196]]
+>
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.196–197]]
+
 *Lead-in:* नन्वेवं व्यपदेशस्य किं निमित्तम् ? -- इत्याशङ्क्याह --
 
 > दश मुख्या महानाडीः पूरयन्नेष तद्गताः ॥

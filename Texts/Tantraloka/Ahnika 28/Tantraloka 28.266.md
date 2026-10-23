@@ -33,6 +33,11 @@ siddhāntādau purāṇeṣu tathā ca śrūyate bahu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 115–116)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.265–266]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.266–267]]
+
 *Lead-in:* तथा च आगमोऽपि--इत्याह--
 
 > सिद्धान्तादौ पुराणेषु तथा च श्रूयते बहु ॥

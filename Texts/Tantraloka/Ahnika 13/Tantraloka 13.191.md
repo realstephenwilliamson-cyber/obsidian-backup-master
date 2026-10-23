@@ -31,6 +31,9 @@ parabhāvāttu tatsūkṣmaṃ śaktitattvaṃ nigadyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 241)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.191]]
+
 *Lead-in:* ननु यद्येवं तन्मनोबुद्धी विना ज्ञानस्योत्पत्तिरेव न स्यादिति कृतं निरिन्द्रियत्वादिविचारेण? -- इत्याशङ्क्याह -
 
 > न मनोबुद्धिहीनस्तु ज्ञानस्याधिगमः प्रिये ।

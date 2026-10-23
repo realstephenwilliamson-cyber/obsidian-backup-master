@@ -36,6 +36,11 @@ gṛhītamiti suspaṣṭā niścayasya yataḥ prathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 356–360)
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.180–181]]
+>
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.181–182]]
+
 *Lead-in:* ननु प्रवर्ततां नाम गृहीतेऽर्थे विकल्पः, तत्र पुनरध्यवसायात्मकत्वादस्य ग्राहकत्वं न युज्यते इति "गृहीतं गृह्णामि"इति प्रतिपत्तिरस्य कथं स्यात् ? इत्याशङ्क्याह --
 
 > गृहीतमिति सुस्पष्टा निश्चयस्य यतः प्रथा ॥

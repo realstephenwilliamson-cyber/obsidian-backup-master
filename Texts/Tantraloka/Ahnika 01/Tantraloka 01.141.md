@@ -34,6 +34,9 @@ aṇūnāṃ tatparaṃ jñānaṃ tadanyadaparaṃ bahu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 307–308)
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.141]]
+
 *Lead-in:* ननु किं नाम पारमेश्वरस्य रूपस्य पूर्णत्वमपूर्णत्वं च ? इत्याशङ्क्याह --
 
 > विश्वभावैकभावात्मस्वरूपप्रथनं हि यत् ।

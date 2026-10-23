@@ -35,6 +35,11 @@ pañcake pañcake'tīte saṃkrānterviṣuvadbahiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 412–414)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.200–204]]
+>
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.200–204 (continued)]]
+
 > विषुवद्वासरे प्रातः सांशां नालीं स मध्यगः ॥
 > वामेतरोदक्सव्यान्यैर्यावत्संक्रान्तिपञ्चकम् ।
 > एवं क्षीणासु पादोनचतुर्दशसु नालिषु ॥

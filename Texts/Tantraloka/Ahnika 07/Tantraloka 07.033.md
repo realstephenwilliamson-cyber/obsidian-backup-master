@@ -36,6 +36,11 @@ sa hyeko na bhavetkaścit trijagatyapi jātucit |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 22–24)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.32–33]]
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.33–35]]
+
 *Lead-in:* एतदेव दर्शयति --
 
 Jayaratha comments on this verse together with 7.32: see [[Tantraloka 07.032#Viveka|7.32]].

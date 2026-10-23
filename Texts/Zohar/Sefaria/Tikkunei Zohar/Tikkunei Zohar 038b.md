@@ -292,10 +292,10 @@ and seven
 [^17]: *tam*
 [^18]: י
 [^19]: ב
-[^20]: X *BT* Ketubot 62b
+[^20]: X *BT* [[Ketubot 62#62b|Ketubot 62b]]
 [^21]: *tal*
 [^22]: 39
-[^23]: See Ketubot 111b
+[^23]: See [[Ketubot 111#111b|Ketubot 111b]]
 [^24]: dew
 [^25]: 39
 [^26]: *tal*

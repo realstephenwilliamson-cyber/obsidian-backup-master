@@ -33,6 +33,11 @@ asaṃsārocitodāratathāvijñānasantateḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 92–93)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.202–203]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.203–204]]
+
 *Lead-in:* यद्यपि च विज्ञानसन्तानस्य कारणत्वमुक्तं तथापि सहकारित्वात् न तन्मुख्यमित्यत्र मुख्येन कारणान्तरेण भाव्यम्--इत्याह--
 
 > असंसारोचितोदारतथाविज्ञानसन्ततेः ॥

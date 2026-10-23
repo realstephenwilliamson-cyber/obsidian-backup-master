@@ -34,6 +34,9 @@ dhyānayogaikatadbhaktijñānatanmayabhāvataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 256)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.16–18]]
+
 *Lead-in:* नचात्र मन्त्रसंनिधानाय एतदेव निमित्तम्--इत्याह--
 
 Jayaratha comments on this verse together with 21.17: see [[Tantraloka 21.017#Viveka|21.17]].

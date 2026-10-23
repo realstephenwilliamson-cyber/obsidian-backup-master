@@ -34,6 +34,9 @@ idamuktaṃ tathā śrīmatsomānandādidaiśikaiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 59–60)
+> ![[Tantraloka Dyczkowski v02 03 - Chapter Two, part 2#Viveka on 2.48]]
+
 *Lead-in:* न चैतत्स्वोपज्ञमेवास्माभिरुक्तम्, अपि तु भगवता, पूर्वाचार्यैश्च सर्वत्रैवोक्तम्, इति -- निखिलस्य आह्निकार्थस्याविगीततां दर्शयितुमाह --
 
 > श्रीमदूर्मिमहाशास्त्रे सिद्धसंतानरूपके ।

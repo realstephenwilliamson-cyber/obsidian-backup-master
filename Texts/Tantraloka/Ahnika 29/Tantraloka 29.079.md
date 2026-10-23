@@ -31,6 +31,9 @@ eka evātha kauleśaḥ svayaṃ bhūtvāpi tāvatīḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 275)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.79]]
+
 *Lead-in:* ननु केवलशक्तिपक्षे पूजा कथङ्कारं परिपूर्तिमियात्?--इत्याशङ्क्य आह--
 
 > एक एवाथ कौलेशः स्वयं भूत्वापि तावतीः ।

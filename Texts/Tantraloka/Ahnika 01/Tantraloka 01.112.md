@@ -35,6 +35,9 @@ viśvacakre maheśāno viśvaśaktirvijṛmbhate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 276–277)
+> ![[Tantraloka Dyczkowski v01 08 - Chapter One, part 7#Viveka on 1.112]]
+
 *Lead-in:* तच्च अधिकसंख्याकत्वं निरवधि -- इत्याह --
 
 > एवं यावत्सहस्रारे निःसंख्यारेऽपि वा प्रभुः ।

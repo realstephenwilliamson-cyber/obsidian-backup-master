@@ -34,6 +34,9 @@ svarūpaṃ cātmanaḥ saṃvinnānyattatra tu yāḥ punaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 331)
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.156–157]]
+
 *Lead-in:* ननु श्वतन्त्रात्मातिरिक्तस्तु"इत्यादिना प्राक् आत्मज्ञानातिरिक्तो मोक्षो नाम न कश्चिदस्ति इत्युक्तम्, इति ज्ञानमेव विमोक्षाय इत्यनेन हेतुफलभावोऽनयोरुच्यमानः कथं सङ्गच्छते ? इत्याशङ्क्याह—
 
 Jayaratha comments on this verse together with 1.157: see [[Tantraloka 01.157#Viveka|1.157]].

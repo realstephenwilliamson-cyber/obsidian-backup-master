@@ -34,6 +34,9 @@ vinānena jaḍāste syurjīvā iva vinā hṛdā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 295–297)
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.192–193]]
+
 > एतद्रूपपरामर्शमकृत्रिममनाविलम् ।
 > अहमित्याहुरेषैव प्रकाशस्य प्रकाशता ॥
 > एतद्वीर्यं हि सर्वेषां मन्त्राणां हृदयात्मकम् ।

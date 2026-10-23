@@ -31,6 +31,9 @@ yāgopakaraṇaṃ paścādbāhyayāgaṃ samācaret || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 112)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.179–180]]
+
 > प्रकृतं ब्रूमहे कृत्वा न्यासं देहार्घपात्रयोः ॥
 > सामान्यमर्घपात्राम्भोविप्रुड्भः प्रोक्ष्य चाखिलम् ।
 > यागोपकरणं पश्चाद्बाह्ययागं समाचरेत् ॥

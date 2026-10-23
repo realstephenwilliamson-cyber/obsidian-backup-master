@@ -31,6 +31,9 @@ tathāpi tanmayībhāvasiddhyai sarvaṃ vidhiṃ caret || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 358–359)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.8]]
+
 *Lead-in:* ननु दीक्षितः पिण्डपातादूर्ध्वं स्वरसत एव शिवीभवेदिति अस्य किमन्त्येष्ट्यादिभिः, तत्रापि समयलोपनिवृत्त्यर्थमेक एवास्तु विधिः, किमेभिर्बहुभिः ?--इत्याशङ्क्याह--
 
 > एकेनैव विधानेन यद्यपि स्यात्कृतार्थता ।

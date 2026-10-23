@@ -31,6 +31,9 @@ yadbhāti kila saṅkalpe tadasti ghaṭavadvahiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 138–140)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.159]]
+
 *Lead-in:* ननु पृथग्भानं नाम भागासिद्धो हेतुः, नहि पक्षीकृतस्य पृथिव्यादेरिव कलादेरपि अर्वाग्दर्शिनः प्रति तदस्ति -- इत्याशङ्क्याह --
 
 > तथावभासचित्रं च रूपमन्योन्यवर्जितम् ।

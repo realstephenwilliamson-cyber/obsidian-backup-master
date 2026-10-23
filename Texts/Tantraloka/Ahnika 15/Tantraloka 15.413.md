@@ -34,6 +34,11 @@ cidagninaikyamānīya kṣipeddakṣeṇa saṃskṛtām |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 255–256)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.412–413]]
+>
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.413–414]]
+
 *Lead-in:* ननु एवमभिधाने कोऽभिप्रायः?--इत्याशङ्क्य आह--
 
 > शिव इत्यभिमानेन दृढेन हि विलोकनम् ॥

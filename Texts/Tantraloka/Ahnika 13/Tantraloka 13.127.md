@@ -37,6 +37,15 @@ vyomnīva nīlaṃ hi malaṃ malaśaṅkāṃ tatastyajet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 200–201)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.126–127]]
+>
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.126–127 (2)]]
+>
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.127]]
+>
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.127 (2)]]
+
 > श्रीमन्निशाकुलेऽप्युक्तं मिथ्याभावितचेतसः ।
 > मलमायाविचारेण क्लिश्यन्ते स्वल्पबुद्धयः ॥
 > स्फटिकोपलगो रेणुः किं तस्य कुरुतां प्रिये ।

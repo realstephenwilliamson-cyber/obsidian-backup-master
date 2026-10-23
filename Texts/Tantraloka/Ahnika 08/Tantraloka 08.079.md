@@ -34,6 +34,9 @@ harikinnaravarṣe ca bhogabhūrna tu karmabhūḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 127–128)
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.79]]
+
 *Lead-in:* वर्षान्तराणां हि भोगभूमित्वमेवास्ति, न तु कर्मभूमित्वमपि -- इत्याह --
 
 > इलावृतं केतुभद्रं कुरुहैरण्यरम्यकम् ।

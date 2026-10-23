@@ -31,6 +31,9 @@ utkṛṣṭaṃ tanmṛtānāṃ tu svargabhogopabhogitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 121)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.277–278]]
+
 *Lead-in:* ननु स्वयम्भ्वादीनामेव स्थाने मृतानामेवं भवेदिति कस्मादुक्तं यदन्यत्र अन्तर्वेद्यादावपि मरणस्थानत्वमभिहितम् ?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 28.278: see [[Tantraloka 28.278#Viveka|28.278]].

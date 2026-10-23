@@ -35,6 +35,9 @@ dhyāyate paramaṃ dhyeyaṃ gamāgamapade sthitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 237–239)
+> ![[Tantraloka Dyczkowski v01 07 - Chapter One, part 6#Viveka on 1.89–90]]
+
 *Lead-in:* कथं चात्र तदैकात्म्यापत्तिलक्षणा स्थितिर्भवति -- इत्याह --
 
 > कल्मषक्षीणमनसा स्मृतिमात्रनिरोधनात् ।

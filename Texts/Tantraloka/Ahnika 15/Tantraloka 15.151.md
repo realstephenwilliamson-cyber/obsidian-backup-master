@@ -31,6 +31,9 @@ saṃpūrṇaśivatākṣobhanarīnartadiva sphuret || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 97)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.149–151]]
+
 > तथार्चनक्रियाभ्यासशिवीभावितकारकः ।
 > गच्छंस्तिष्ठन्नपि द्वैतं कारकाणां व्यपोज्झति ॥
 > तथैक्याभ्यासनिष्ठस्याक्रमाद्विश्वमिदं हठात् ।

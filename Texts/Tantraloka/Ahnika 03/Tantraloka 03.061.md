@@ -35,6 +35,9 @@ nimittakāraṇānāṃ ca kadācitkvāpi saṃbhavaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 132–133)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.61]]
+
 *Lead-in:* ततश्च निमित्तकारणविषय एवायं प्रश्नो नान्यत्र, इत्याह --
 
 > तत्रापि च निमित्ताख्ये नोपादाने कथञ्चन ।

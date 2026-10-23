@@ -33,6 +33,11 @@ rūpakatvādudāsīnāccyuteyaṃ pūrṇatonmukhī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 470–471)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.272–273]]
+>
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.273–275]]
+
 *Lead-in:* अत्रापि प्राग्वदेव संज्ञाभेदोऽस्ति -- इत्याह --
 
 Jayaratha comments on this verse together with 10.272: see [[Tantraloka 10.272#Viveka|10.272]].

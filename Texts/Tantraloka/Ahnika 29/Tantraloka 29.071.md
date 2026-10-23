@@ -33,6 +33,11 @@ hṛtkuṇḍalī bhruvormadhyametadeva kramāt trayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 266–270)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.70–71]]
+>
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.71–72]]
+
 *Lead-in:* तदेव आह--
 
 > हृत्कुण्डली भ्रुवोर्मध्यमेतदेव क्रमात् त्रयम् ॥

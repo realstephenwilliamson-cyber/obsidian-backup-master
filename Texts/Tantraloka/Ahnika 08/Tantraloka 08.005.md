@@ -34,6 +34,9 @@ anusandadhadeva drāg yogī bhairavatāṃ vrajet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 54)
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.5]]
+
 *Lead-in:* ननु यद्येवं तदस्तु, को दोषस्तन्निरूपणेन पुनः कोऽर्थः? इत्याशङ्क्याह --
 
 > तत्राध्वैवं निरूप्योऽयं यतस्तत्प्रक्रियाक्रमम् ।

@@ -34,6 +34,9 @@ anavacchinnatārūḍhāvavacchedalaye'sya ca || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 201)
+> ![[Tantraloka Dyczkowski v01 06 - Chapter One, part 5#Viveka on 1.64]]
+
 *Lead-in:* ननु यद्ययं विश्वाकृतिस्तत्कथमस्य षड्विधत्वमेवोक्तम्— इत्याशङ्क्याह --
 
 > विश्वाकृतित्त्वे देवस्य तदेतच्चोपलक्षणम् ।

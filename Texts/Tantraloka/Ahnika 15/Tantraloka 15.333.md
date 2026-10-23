@@ -33,6 +33,13 @@ madhye nyasyetsūryaruciṃ sarvākṣaramayīṃ parām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 204–205)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.333]]
+>
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.333–334]]
+>
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.333–334 (continued)]]
+
 *Lead-in:* न केवलमेकार्णैव मध्यगा परा देवी, यावन्मातृकेति मालिनीति चोच्यते--इत्याह--
 
 > परा तु मातृका देवी मालिनी मध्यगोदिता ।

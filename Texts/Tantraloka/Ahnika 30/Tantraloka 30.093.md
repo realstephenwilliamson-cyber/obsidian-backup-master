@@ -31,5 +31,8 @@ tāraḥ śamarayaiḥ piṇḍo natiśca caturarṇakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 54)
+> ![[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#Viveka on 30.93–94]]
+
 Jayaratha comments on this verse together with 30.95: see [[Tantraloka 30.095#Viveka|30.95]].
 

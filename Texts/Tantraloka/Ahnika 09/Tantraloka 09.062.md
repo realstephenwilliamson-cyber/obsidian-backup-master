@@ -31,6 +31,9 @@ apūrṇaṃmanyatājñānaṃ malaṃ sāvacchidojjhitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 65–66)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.62]]
+
 *Lead-in:* इत्याद्युक्तयुक्त्या सर्वत्र मलस्य त्रैविध्येऽपि मुख्यतया कार्मस्यैव संसारकारणत्वम्, इह पुनः सृष्टिहेतुत्वाभिधानेन लोलिकाया इति, किमेतत् ? -- इत्याशङ्क्याह --
 
 > अणूनां लोलिका नाम निष्कर्मा याभिलाषिता ।

@@ -34,6 +34,9 @@ triśiraḥśāsane bodho mūlamadhyāgrakalpitaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 63–66)
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.12–15]]
+
 *Lead-in:* नन्वेवमध्वनोऽनुसंधाने कथं बोधस्य साक्षात्कारो भवेत्? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 8.14: see [[Tantraloka 08.014#Viveka|8.14]].

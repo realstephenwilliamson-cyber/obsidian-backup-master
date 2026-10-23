@@ -34,5 +34,8 @@ jñātvā'smai yogyatāṃ sāraṃ saṃkṣiptaṃ vidhimācaret || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 377)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.19]]
+
 Jayaratha comments on this verse together with 26.20: see [[Tantraloka 26.020#Viveka|26.20]].
 

@@ -33,6 +33,11 @@ na tirobhāvaśaṅkātra kartavyā buddhiśālinā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 290–291)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.37–39]]
+>
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.39–40]]
+
 > न तिरोभावशङ्कात्र कर्तव्या बुद्धिशालिना ॥
 > अधःस्पृक्त्वं तिरोभूतिर्नोर्ध्वोपायविवेचनम् ।
 

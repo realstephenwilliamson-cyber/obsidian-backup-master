@@ -31,6 +31,9 @@ dhvastaśaṅkāsamūhasya yāgastādṛśa eva saḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 205)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.5]]
+
 *Lead-in:* एवं कुलशब्दं व्याख्याय विध्युपासादिशब्दोन्नीतं यागशब्दमपि व्याख्यातुमाह--
 
 > तथात्वेन समस्तानि भावजातानि पश्यतः ।

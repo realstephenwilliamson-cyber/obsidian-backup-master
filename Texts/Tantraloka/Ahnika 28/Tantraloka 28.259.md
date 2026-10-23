@@ -33,6 +33,11 @@ anena ca dharādyeṣu tattveṣvabhyāsayogataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 112–113)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.256–259]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.259–260]]
+
 *Lead-in:* इदमेव च अत्र नाभिधेयं यावदन्यदपि--इत्याह--
 
 > अनेन च धराद्येषु तत्त्वेष्वभ्यासयोगतः ॥

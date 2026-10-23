@@ -41,5 +41,5 @@ Pritzker translation (Matt): [[Zohar 7.08 - Parashat Aharei Mot#^z3-57a|Parashat
 
 **Achrei Mot 3:21** wherefore it refers to Phineas as “these” (Ex. 6, 25). R. Eleazar said: ‘For this reason whenever Phineas is mentioned he is always called “the son of Eleazar the son of Aaron the Priest” (v. Num. 25, 7; Judges 20, 28)….[^2] ^achrei-mot-3-21
 
-[^1]: T. B. Nedarim, 64b.
+[^1]: T. B. [[Nedarim 64#64b|Nedarim, 64b]].
 [^2]: The text here expounds the significance of the *Yod* with which the name Pinchas is written in Numbers 25, 7, finding in it an indication that by his zeal in the matter of Zimri he rectified the misdeed of Nadab and Abihu, and reunited the letters of the Divine Name.

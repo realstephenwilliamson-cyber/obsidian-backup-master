@@ -34,6 +34,9 @@ tasmāttu naiṣa bhedena yadbhāti tata ucyate |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 88–89)
+> ![[Tantraloka Dyczkowski v02 04 - Chapter Three, part 1#Viveka on 3.19]]
+
 *Lead-in:* ननु यथा दर्पणस्तद्दृष्टावुपायस्तथान्येऽप्यालोकादयः, इत्युपायत्वाविशेषेऽप्येष एव कस्मादस्याधार उच्यते ? इत्याशङ्क्याह - -
 
 > तस्मात्तु नैष भेदेन यद्भाति तत उच्यते ।

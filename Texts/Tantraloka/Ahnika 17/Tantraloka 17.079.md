@@ -34,5 +34,8 @@ kṛtvātmadehaprāṇāderviśvamantaranusmaret || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 174)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.78–82]]
+
 Jayaratha comments on this verse together with 17.82: see [[Tantraloka 17.082#Viveka|17.82]].
 

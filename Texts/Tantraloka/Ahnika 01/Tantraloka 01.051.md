@@ -34,6 +34,9 @@ itarastu tadaiveti śāstrasyātra pradhānataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 172–174)
+> ![[Tantraloka Dyczkowski v01 06 - Chapter One, part 5#Viveka on 1.50–51]]
+
 > विकल्पयुक्तचित्तस्तु पिण्डपाताच्छिवं व्रजेत् ।
 > इतरस्तु तदैवेति शास्त्रस्यात्र प्रधानतः ॥
 

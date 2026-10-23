@@ -34,6 +34,9 @@ svaśaktyudrekajanakaṃ tādātmyādvastuno hi yat |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 209–210)
+> ![[Tantraloka Dyczkowski v01 07 - Chapter One, part 6#Viveka on 1.71]]
+
 *Lead-in:* ननु परमेश्वरस्य स्वातन्त्र्याख्या शक्तिरेकैवास्ति इत्युक्तम्, इच्छादयस्तु किं तद्विस्फूर्जितमात्रम्, उत स्वतन्त्राणि शक्त्यन्तराणि ? इत्याशङ्क्याह --
 
 > स्वशक्त्युद्रेकजनकं तादात्म्याद्वस्तुनो हि यत् ।

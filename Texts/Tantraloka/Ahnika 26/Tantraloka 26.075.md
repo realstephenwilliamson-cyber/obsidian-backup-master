@@ -36,6 +36,11 @@ mārjayitvā tataḥ snānaṃ puṣpeṇātha prapūjayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 398)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 26.75–76.*
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.75–76]]
+
 > शङ्कसङ्कोचनिष्कासनपरायणः ॥
 > भवेत्तथा यथान्येषां शङ्का नो मनसि स्फुरेत् ।
 > मार्जयित्वा ततः स्नानं पुष्पेणाथ प्रपूजयेत् ॥

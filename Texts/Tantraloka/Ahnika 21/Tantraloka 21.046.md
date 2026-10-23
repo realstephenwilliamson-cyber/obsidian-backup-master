@@ -34,6 +34,9 @@ tatrottaraṃ syādbalavatsaṃskārāya tvadhastanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 270)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.46]]
+
 *Lead-in:* एवं जालोपदेशमादिश्य, संस्क्रियागणस्य बलाबलविचारमभिधातुमाह--
 
 > परोक्ष एवातुल्याभिर्दीक्षाभिर्यदि दीक्षितः ।

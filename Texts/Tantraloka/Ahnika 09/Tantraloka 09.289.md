@@ -33,6 +33,11 @@ nahi gandhādidharmaughavyatiriktā vibhāti bhūḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 266–267)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.289]]
+>
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.289 (2)]]
+
 *Lead-in:* ननु गन्धादिगुणग्राम एव प्रत्यक्षत उपलभ्यते न तु तदतिरिक्तवृत्ति किञ्चिद्धरादि, तथात्वे वा गुणगुणिनोः किंचिज्ज्ञातेयमभ्युपगन्तव्यम् ? -- इत्याशङ्क्याह --
 
 > तत्र प्रत्यक्षतः सिद्धो धरादिगुणसञ्चयः ।

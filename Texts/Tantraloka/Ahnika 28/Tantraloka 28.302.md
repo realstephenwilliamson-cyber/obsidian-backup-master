@@ -31,6 +31,9 @@ bhidyamānā yogināṃ syādvicitraphaladāyinī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 130)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.300–302]]
+
 > एवं परशरीरादिचारिणामिव योगिनाम् ।
 > तत्तत्तत्त्वशरीरान्तश्चारिणां नास्ति मूढता ॥
 > ते चापि द्विविधा ज्ञेया लौकिका दीक्षितास्तथा ।

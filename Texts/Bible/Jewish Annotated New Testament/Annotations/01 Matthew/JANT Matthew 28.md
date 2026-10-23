@@ -16,7 +16,7 @@ Text: [[NRSVue Matthew 28|NRSVue]] · [[Matthew 28|BSB and SBLGNT]] · Introduct
 
 *[[NRSVue Matthew 28#^28-1|Text]], p. 66* · ([[Mark 16#^16-1|Mk 16.1–8]]; [[Luke 24#^24-1|Lk 24.1–11]]; [[John 20#^20-1|Jn 20.1–18]]). ^28-1
 
-**[[NRSVue Matthew 28#^28-1|1]]:** *First day of the week*, Sunday, the third day after Jesus’ death. Some Jews believed the soul departed the body after three days (*m*. *Yebam*. 16.3; *y. Moʾed Qat*. 8.5; *b. Sanh.* 90b–91a; *b*. *Shabb*. 151b; *Gen. Rab*. 100; *Sem*. 8.1). *Went to see the tomb*, women as well as men visited and/or attended tombs. ^28-1-2
+**[[NRSVue Matthew 28#^28-1|1]]:** *First day of the week*, Sunday, the third day after Jesus’ death. Some Jews believed the soul departed the body after three days (*m*. *Yebam*. 16.3; *y. Moʾed Qat*. 8.5; [[Sanhedrin 90#90b|*b. Sanh.* 90b]]–91a; *b*. *Shabb*. 151b; *Gen. Rab*. 100; *Sem*. 8.1). *Went to see the tomb*, women as well as men visited and/or attended tombs. ^28-1-2
 
 **[[NRSVue Matthew 28#^28-2|2]]:** See *Acts Pil*. 13. *Great earthquake*, see 8.24n.; 27.51–53n. ^28-2
 

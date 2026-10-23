@@ -31,6 +31,9 @@ tathāpi sphuṭatābhāvātsannapyeṣa na carcitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 404)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.183–184]]
+
 > अनया तु दिशा प्रायः सर्वभेदेषु विद्यते ॥
 > भेदो मन्त्रमहेशान्तेष्वेष पञ्चदशात्मकः ।
 > तथापि स्फुटताभावात्सन्नप्येष न चर्चितः ॥

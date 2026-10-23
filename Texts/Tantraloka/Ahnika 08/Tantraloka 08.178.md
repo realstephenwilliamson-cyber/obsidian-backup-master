@@ -37,6 +37,11 @@ tāvanmātrāsvavasthāsu māyādhīne'dhvamaṇḍale || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 203–204)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.177–178]]
+>
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.178–179]]
+
 *Lead-in:* अन्ये पुनरेतदन्यथा व्याचख्युः -- इत्याह --
 
 > तावन्मात्रास्ववस्थासु मायाधीनेऽध्वमण्डले ॥

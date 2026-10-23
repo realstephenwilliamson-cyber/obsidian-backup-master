@@ -36,6 +36,11 @@ etāvaddevadevasya mukhyaṃ tacchakticakrakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 374–375)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.250–251]]
+>
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.251–252]]
+
 *Lead-in:* तदाह—
 
 > एतावद्देवदेवस्य मुख्यं तच्छक्तिचक्रकम् ॥

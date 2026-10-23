@@ -33,6 +33,11 @@ pañcāvasthā jāgradādyāḥ ṣaṣṭhyanuttaranāmikā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 156–157)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.259]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.259–261]]
+
 *Lead-in:* इत्यादि उक्तं तत् किमावाहनादाविह तद्दर्शनं कार्यं न वा?--इत्याशङ्क्य आह—
 
 > मुद्राप्रदर्शनं पश्चात्कायेन मनसा गिरा ।

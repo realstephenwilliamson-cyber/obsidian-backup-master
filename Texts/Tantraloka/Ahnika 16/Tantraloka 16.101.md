@@ -36,6 +36,13 @@ tatra tattveṣu vinyāso gulphānte caturaṃgule || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 48–50)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 16.107.*
+>
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.100–101]]
+>
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.107]]
+
 *Lead-in:* तमेव तत्त्वोपक्रममाह--
 
 Jayaratha comments on this verse together with 16.100: see [[Tantraloka 16.100#Viveka|16.100]].

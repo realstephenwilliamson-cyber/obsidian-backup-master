@@ -34,6 +34,9 @@ prakṛt pumānyatiḥ kālo māyā vidyeśasauśivau |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 36)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.37–38]]
+
 *Lead-in:* एतदेवान्यत्राप्यतिदिशति --
 
 > प्रकृत् पुमान्यतिः कालो माया विद्येशसौशिवौ ।

@@ -31,6 +31,9 @@ dīkṣāyatanavijñānadūṣiṇo ye tu cetasā |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 121)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.279–280]]
+
 > तज्ज्ञानदूषणोक्तं यत्तेषां स्यात्किल पातकम् ।
 > तत्तत्पुरेशदीक्षादिक्रमान्नश्येदिति स्थितिः ॥
 > दीक्षायतनविज्ञानदूषिणो ये तु चेतसा ।

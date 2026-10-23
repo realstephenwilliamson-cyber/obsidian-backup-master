@@ -35,6 +35,9 @@ asaṃkhyarudratacchaktipurakoṭibhirāvṛtaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 355–356)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.377–378]]
+
 > ऊर्ध्वे बिन्द्वावृतिर्दीप्ता तत्र तत्र पद्मं शशिप्रभम् ।
 > शान्त्यतीतः शिवस्तत्र तच्छक्त्युत्सङ्गभूषितः ॥
 > निवृत्त्यादिकलावर्गपरिवारसमावृतः ।

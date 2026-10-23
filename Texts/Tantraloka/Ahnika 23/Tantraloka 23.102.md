@@ -31,6 +31,9 @@ sādhyamantrārpaṇaṃ tvatra svopayogikriyākrame || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 341)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.102–103]]
+
 *Lead-in:* तत्रापि विशेषमाह--
 
 > अधिकारार्पणं नात्र न च विद्याव्रतं किल ।

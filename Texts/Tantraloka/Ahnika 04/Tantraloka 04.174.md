@@ -34,5 +34,8 @@ jñānaṃ vikalpaḥ saṃkhyānamanyato vyatibhedanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 271–273)
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.173–175]]
+
 Jayaratha comments on this verse together with 4.175: see [[Tantraloka 04.175#Viveka|4.175]].
 

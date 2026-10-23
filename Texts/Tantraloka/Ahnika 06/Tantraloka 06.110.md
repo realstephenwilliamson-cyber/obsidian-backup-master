@@ -35,6 +35,9 @@ ekaikadhyena bodhāṃśukalayā paripūrayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 338–339)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.110–111]]
+
 *Lead-in:* एतदेवापानवाहेऽप्यतिदेष्टुमाह --
 
 Jayaratha comments on this verse together with 6.111: see [[Tantraloka 06.111#Viveka|6.111]].

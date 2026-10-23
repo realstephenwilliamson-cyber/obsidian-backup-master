@@ -34,6 +34,9 @@ anapahnavanīyatvāt kiṃ tasminmānakalpanaiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 178–180)
+> ![[Tantraloka Dyczkowski v01 06 - Chapter One, part 5#Viveka on 1.54]]
+
 *Lead-in:* ननु सिद्धे प्रकाशे भावाभावरूपस्य ज्ञेयस्य तदेकपरमार्थत्वं सिद्ध्येत्, स एव पुनः केन प्रमाणेन सिद्धः ? इत्याशङ्क्याह --
 
 > प्रकाशो नाम यश्चायं सर्वत्रैव प्रकाशते ।

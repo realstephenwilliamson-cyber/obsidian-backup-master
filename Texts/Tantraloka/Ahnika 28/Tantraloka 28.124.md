@@ -33,6 +33,11 @@ māghaśuklāntyadivasaḥ kulaparveti tanmatam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 66)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.123–124]]
+>
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.124–125]]
+
 *Lead-in:* एवमेकीयं मतं प्रदर्श्य, अन्यदप्याह--
 
 > माघशुक्लान्त्यदिवसः कुलपर्वेति तन्मतम् ॥

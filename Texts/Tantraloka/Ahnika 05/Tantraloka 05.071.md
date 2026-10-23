@@ -35,6 +35,11 @@ vyāptau sarvātmasaṅkoce hṛdayaṃ praviśetsudhīḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 81–84)
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.71]]
+>
+> ![[Tantraloka Dyczkowski v04 05 - Chapter Five, part 3#Viveka on 5.71 (continued)]]
+
 *Lead-in:* नन्वस्तु नाम अस्योपायस्य सुखसाधनत्वं, किन्तु यत्रोपायजालमपि भग्नशक्ति संवृत्तं, तत्र किमनेनैककेनैव कार्यम् ? -- इत्याशङ्क्याह --
 
 > शाक्ते क्षोभे कुलावेशे सर्वनाड्यग्रगोचरे ।

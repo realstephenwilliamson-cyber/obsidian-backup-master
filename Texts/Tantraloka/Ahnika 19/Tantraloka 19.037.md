@@ -34,6 +34,9 @@ nanu cādīkṣitāgre sa noccarecchāstrapaddhatim || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 223)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.37]]
+
 *Lead-in:* इति हि अस्ति समयः, तत्कथमिमां विद्यामेतदग्रे पठन्न प्रत्यवैति?-- इत्याह--
 
 > ननु चादीक्षिताग्रे स नोच्चरेच्छास्त्रपद्धतिम् ॥

@@ -33,6 +33,11 @@ tadeva śivarūpaṃ hi paraśaktyātmakaṃ viduḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 412–413)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.190–191]]
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.191]]
+
 *Lead-in:* ननु कथमत्रोद्गच्छतां विकल्पानामाच्छादनं स्यात्? -- इत्याशङ्क्याह --
 
 > तदेव शिवरूपं हि परशक्त्यात्मकं विदुः ॥

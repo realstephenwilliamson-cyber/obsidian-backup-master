@@ -31,6 +31,9 @@ prerayanti śivecchāto ye te mantramaheśvarāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 396–397)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.167–169]]
+
 > अधुनात्र समस्तस्य धरातत्त्वस्य दर्श्यते ।
 > सामस्त्य एवाभिहितं पाञ्चदश्यं पुरोदितम् ॥
 > धरातत्त्वाविभेदेन यः प्रकाशः प्रकाशते ।

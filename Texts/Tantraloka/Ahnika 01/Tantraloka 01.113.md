@@ -35,6 +35,9 @@ ekyena cakrago bhedastatra tatra nirūpitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 277–278)
+> ![[Tantraloka Dyczkowski v01 08 - Chapter One, part 7#Viveka on 1.113]]
+
 *Lead-in:* ननु विश्वेषामपि चक्राणां यदि प्रभुरेव परमार्थः तदेकेनैव कार्तार्थ्यात् प्रतिशास्त्रं बहूनि किमुक्तानि ? इत्याशङ्क्याह --
 
 > तेषामपि च चक्राणां स्ववर्गानुगमात्मना ।

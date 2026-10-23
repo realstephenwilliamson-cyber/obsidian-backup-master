@@ -30,7 +30,7 @@ The meaning is that, as known, an arousal from below [the issuance of life, grac
 
 This is the meaning of the “great amount,” because the quantitative act of charity brings about peace.[^26] The meaning of “peace” is to join and conciliate two opposite extremes. (In our context) these are the extremity of the superior heaven, the aspect of “And to His greatness there is no searching”[^27] and the extremity of the inferior heaven[^28]—which vests itself in *Beriah*, *Yetzirah*, and *Asiyah*, (that is, in) a category of limitation and number, and suffice this for the initiated.
 
-[^1]: *Berachot* 6b.
+[^1]: [[Berakhot 6#6b|*Berachot* 6b]].
 [^2]: [[Isaiah 50#^50-10|Isaiah 50:10]].
 [^3]: Jerusalem Talmud, *Peah* 1:1.
 [^4]: See *Shulchan Aruch*, *Yoreh Deah* 203; cf. *Likkutei Torah*, *Matot* 82b.
@@ -39,12 +39,12 @@ This is the meaning of the “great amount,” because the quantitative act of c
 [^7]: [[Amos 9#^9-11|Amos 9:11]], referring to the *Shechinah* (see above, Epistle 9, note 29). The poor are the aspect of the Fallen Hut—the *Shechinah*, the *sefirah* of *malchut* which “has nothing of its own.” See above, Epistle 21, note 24.
 [^8]: *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-135a|II:135a]]. By giving charity one raises and reinstates the Fallen “Hut,” thereby effecting the ultimate goal of the unity of the Holy One, blessed is He, and His *Shechinah*. See also *Zohar* [[Zohar 8.06 - Parashat Be-Huqqotai#^z3-113b|III:113b]]. Cf. *Likkutei Amarim*, Part I, end of ch. 50; *Maamarei Admur Hazaken—Ketuvim*, vol. 2, p. 161.
 [^9]: *Avot* 3:15. See above, Epistle 21.
-[^10]: *Bava Batra* 9b.
+[^10]: [[Bava Batra 9#9b|*Bava Batra* 9b]].
 [^11]: *Zohar* [[Zohar 6.06 - Parashat Pequdei#^z2-235a|II:235a]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-5a|III:5a]]; *Zohar Chadash* 44a.
 [^12]: [[Psalms 048#^48-2|Psalms 48:2]].—“In the city” may also be read “[when He is] with the city.” The “city of G–d” signifies *malchut*. The ultimate goal, the “greatness of the L–rd,” will thus be achieved when this unity is effected; see *Zohar* [[Zohar 7.03 - Parashat Va-Yiqra#^z3-5a|III:5a]] and *Zohar Chadash* 51d.
 [^13]: The “city of our G–d” is the aspect and place of *Cheshbon*. *Cheshbon*, too, signifies *malchut*; see *Zohar* [[Zohar 9.11 - Parashat Pinehas#^z3-220b|III:220b]] and *Likkutei Torah*, *Chukat* 66d ff.
 [^14]: [[Song of Songs 7#^7-5|Song of Songs 7:5]].
-[^15]: See Jerusalem Talmud, *Peah* 8:9; *Vayikra Rabbah* 34:1; *Avot d’R. Nattan*, ch. 13; cf *Bava Batra* 9b. See also below, Epistle 32.
+[^15]: See Jerusalem Talmud, *Peah* 8:9; *Vayikra Rabbah* 34:1; *Avot d’R. Nattan*, ch. 13; cf [[Bava Batra 9#9b|*Bava Batra* 9b]]. See also below, Epistle 32.
 [^16]: Above, Epistle 4, note 45.
 [^17]: [[Torah 35 - Nasso#^6-25|Numbers 6:25]].
 [^18]: Signified by Countenance (*panim*); see above, Epistle 22, note 31.

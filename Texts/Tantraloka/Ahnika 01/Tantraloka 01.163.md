@@ -34,6 +34,9 @@ yato vahati tenāsyāṃ citratā dṛśyatāṃ kila || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 336)
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.163]]
+
 *Lead-in:* एतदुपसंहरन्नन्यदवतारयति --
 
 > एवं ज्ञानस्वभावैव क्रिया स्थूलत्वमात्मनि ।

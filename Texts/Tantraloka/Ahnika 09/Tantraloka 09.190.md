@@ -33,6 +33,11 @@ iti mataṅgaśāstrādau yā proktā sā kalā svayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 162–164)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.189–190]]
+>
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.190–191]]
+
 *Lead-in:* इति । इह च तदधिकारेणैव तत्त्वक्रमनिरूपणं प्रक्रान्तम् इति कथमिव अस्यास्तद्विरुद्धं किंचित्कर्तृताधायकत्वमुक्तम् -- इत्याशङ्क्याह --
 
 > इति मतङ्गशास्त्रादौ या प्रोक्ता सा कला स्वयम् ॥

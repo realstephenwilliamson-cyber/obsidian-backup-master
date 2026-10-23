@@ -35,6 +35,9 @@ māyīyaḥ śodhakastvanyaḥ śivātmā paravāṅmayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 89–90)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.209]]
+
 *Lead-in:* इत्याद्युक्त्या वर्णाध्वापि अविशेषाद्बन्धक एव तत् कथमिहास्य शोध्यत्वेऽपि शोधकत्वमुच्यते ?--इत्याशङ्क्याह--
 
 > वर्णाध्वा यद्यपि प्रोक्तः शोध्यः पाशात्मकस्तु सः ।

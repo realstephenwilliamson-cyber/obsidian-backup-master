@@ -33,6 +33,11 @@ vedyādibhedagalanāduktā seyamanāmayā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 469–470)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.270–271]]
+>
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.271–272]]
+
 *Lead-in:* प्रमाणफलविलक्षणसंविद्वाद एव चागमप्रसिद्धिरनुगता -- इत्याह - -
 
 > वेद्यादिभेदगलनादुक्ता सेयमनामया ॥

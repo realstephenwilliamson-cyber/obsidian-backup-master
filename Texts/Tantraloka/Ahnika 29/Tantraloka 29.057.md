@@ -31,6 +31,9 @@ pīṭhaśmaśānasahitaṃ pūjayedbhogamokṣayoḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 253–254)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.57]]
+
 > सृष्टिसंस्थितिसंहारानामक्रमचतुष्टयम् ।
 > पीठश्मशानसहितं पूजयेद्भोगमोक्षयोः ॥
 

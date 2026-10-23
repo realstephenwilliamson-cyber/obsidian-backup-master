@@ -34,6 +34,9 @@ ghūrṇitasya sthitirdehe mudrā yā kācideva sā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 304)
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.200]]
+
 *Lead-in:* एवं ध्यानस्य वास्तवं स्वरूपमभिधाय, मुद्राया अप्यभिधत्ते --
 
 > कुले योगिन उद्रिक्तभैरवीयपरासवात् ।

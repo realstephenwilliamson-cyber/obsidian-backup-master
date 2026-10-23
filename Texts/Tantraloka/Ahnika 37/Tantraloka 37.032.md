@@ -31,6 +31,9 @@ yathepsitamahābhogadātṛtvena vyavasthitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 240)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.32–33]]
+
 *Lead-in:* एवमेतदर्थाभिधायकत्वादिदमस्मत्कृतमपि शास्त्रमुपादेयमेव-- इत्याह--
 
 > इत्थं दददनायासाज्जीवन्मुक्तिमहाफलम् ।

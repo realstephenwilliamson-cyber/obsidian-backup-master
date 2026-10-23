@@ -31,6 +31,9 @@ bahistādṛśamātmānaṃ didṛkṣurbahirarcayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 227–228)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.24]]
+
 *Lead-in:* ननु एवमियतैव सिद्धः कुलयागः, किमन्यदवशिष्यते?--इत्याशङ्क्य आह--
 
 > तथा पूर्णस्वरश्म्योघः प्रोच्छलद्वृत्तितावशात् ।

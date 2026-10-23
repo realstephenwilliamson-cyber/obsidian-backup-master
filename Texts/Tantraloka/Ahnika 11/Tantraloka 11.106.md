@@ -35,6 +35,9 @@ ante saṃvinmayī śaktiḥ śivarūpaiva dhāriṇī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 92)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.106]]
+
 *Lead-in:* ननु पृथिव्यपां धारिका आपश्च तेजसस्तच्च वायोरित्यादिराधाराधेयभावक्रमः सर्वत्रैवोक्तः -- इति किमेतदुक्तं किं केन धार्यमिति? -- इत्याशङ्क्याह --
 
 > भूततन्मात्रवर्गादेराधाराधेयताक्रमे ।

@@ -37,6 +37,11 @@ tasminniśāvadhau sarve pudgalāḥ sūkṣmadehagāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 365–366)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.142–143]]
+>
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.143–144]]
+
 *Lead-in:* ननु यद्येवं तत्तदा तेषां भुवनानामीश्वरास्तद्वासिनो वा जीवाः कुत्रासते? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 6.142: see [[Tantraloka 06.142#Viveka|6.142]].

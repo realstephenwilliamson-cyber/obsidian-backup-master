@@ -37,6 +37,11 @@ sa tu vastusvabhāvena galitākṣo'pi budhyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 224–225)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.39–40]]
+>
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.40–42]]
+
 *Lead-in:* नन्वेवं पाषाणप्रायस्यास्य किमेतत्पाठेन, मैवम्--इत्याह--
 
 Jayaratha comments on this verse together with 19.39: see [[Tantraloka 19.039#Viveka|19.39]].

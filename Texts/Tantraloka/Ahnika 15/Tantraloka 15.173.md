@@ -33,6 +33,11 @@ pāśaveṣvapi śāstreṣu tadadarśi maheśinā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 108–109)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.171–173]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.173–174]]
+
 *Lead-in:* ननु मायापदनिरूढेषु पाशवेषु शास्त्रेषु अद्वयनयोचितं कथमेवं स्यात्?--इत्याशङ्क्य आह—
 
 > पाशवेष्वपि शास्त्रेषु तददर्शि महेशिना ॥

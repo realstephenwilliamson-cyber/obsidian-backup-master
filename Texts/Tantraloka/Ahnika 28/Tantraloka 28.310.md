@@ -31,6 +31,9 @@ sacintako vā gatacintako vā jñānī vimokṣaṃ labhate'pi cānte || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 133)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.310]]
+
 *Lead-in:* तदेव क्रमेण पठति--
 
 > रथ्यान्तरे मूत्रपुरीषमध्ये चण्डालगेहे निरये श्मशाने ।

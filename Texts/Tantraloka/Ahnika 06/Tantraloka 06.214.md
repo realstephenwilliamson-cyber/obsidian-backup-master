@@ -35,6 +35,9 @@ sūkṣmasūkṣmocchaladrūpamātraḥ kālo vyavasthitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 423)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.214]]
+
 *Lead-in:* नन्वेवं कालीयो विभागः किं व्याने संभवेन्न वा ? -- इत्याशङ्क्याह --
 
 > व्याने तु विश्वात्ममये व्यापके क्रमवर्जिते ।

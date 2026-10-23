@@ -37,6 +37,11 @@ amṛtaṃ candrarūpeṇa dvidhā ṣoḍaśadhā punaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 317–323)
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.94–95]]
+>
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.95–96]]
+
 *Lead-in:* ननु चान्द्रीणां कलानामपचये किं निमित्तम् ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 6.94: see [[Tantraloka 06.094#Viveka|6.94]].

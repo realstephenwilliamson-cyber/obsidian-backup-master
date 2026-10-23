@@ -78,10 +78,10 @@ KṢa
 
 Saṁhārī 
 
-Navel \[e\] Icchāśa | Navel Sarnhārī Saṁhārī kti | Ma | Mahākālī | Buttock \[Me | Mahākā | \[illegible\] | Mahākālī | Mahākālī s 17 s S\] Kusumā | Genitals | > | Kusum | Genitals | \[illegible\] | Kusumāy -yudhā ā-yudhā udhā M Guhyaśakti a |" 
+Navel \[e\] Icchāśa | Navel Saṁhārī Saṁhārī kti | Ma | Mahākālī | Buttock \[Me | Mahākā | \[illegible\] | Mahākālī | Mahākālī s 17 s S\] Kusumā | Genitals | > | Kusum | Genitals | \[illegible\] | Kusumāy -yudhā ā-yudhā udhā M Guhyaśakti a |" 
 
 |
-Thighs ukrā ukrāśakti ṢȘSS: Krūrā 
+Thighs Śukrā ukrāśakti ṢṢSS: Krūrā 
 
 fluid Devī 
 
@@ -111,7 +111,7 @@ and T:
 
 Left knee \[illegible\] | Gāyatrī 
 
-Right \[illegible\] | Gāyatrī \[Srk Gāyatrī Gāyatrī shank 
+Right \[illegible\] | Gāyatrī \[Sṛk Gāyatrī Gāyatrī shank 
 
 AU | Sāvitī 
 
@@ -122,7 +122,7 @@ SS
 
 939?\. The letter CH is also commonly associated with Chikkarī or Chivarā.
 
-940?\. The letter SA is the jīva conjoined with visarga. After that it is said (comes) the vital breath. sa jīvo visargayuk tatparah kathitah prāṇah | MVT 3/39d-40a
+940?\. The letter SA is the jīva conjoined with visarga. After that it is said (comes) the vital breath. sa jīvo visargayuk tatparaḥ kathitaḥ prāṇaḥ | MVT 3/39d-40a
 
 
 *[p. 371]* ^pg389
@@ -152,7 +152,7 @@ AM 11211128 |
 M 
 
 |
-Sūkṣmãya M |
+Sūkṣmāya M |
 Trimūrtyai 
 
 UM Amarīśāya 
@@ -167,7 +167,7 @@ Tithīśāya M |\] Sthāṇave |
 भ |
 Harāya | 
 
-\[illegible\] č č | | Jhaṇhīŝāya 
+\[illegible\] č č | | Jhaṇhīśāya 
 
 AIM Bhauktikāya \[OM |
 Sadyojātāya 
@@ -226,7 +226,7 @@ NAM
 PAM Lohitāya 
 
 PHAM ikhivāhine Location Topknot Mouth | Rigṁtee eye |
-Left eye Right ear Left ear Right nostril (piùgalā Left nostril (idā Right cheek Left cheek |
+Left eye Right ear Left ear Right nostril (piṅgalā Left nostril (idā Right cheek Left cheek |
 Lower teeth Upper teeth Lower lip | \_\_ एण —|
 Uvula Tongue | Rightshoulder ě |
 shoulder |\[\_\_\_ Righam |
@@ -255,7 +255,7 @@ MAM Mahākālāya | ë Hean ë ëěëO
 
 YAM Vālīśāya Chest (Skin; 
 
-RAM Bhujañgamāya Right shoulder (Blood 
+RAM Bhujaṅgamāya Right shoulder (Blood 
 
 LAM 
 
@@ -268,7 +268,7 @@ AM Bakīśāya From the chest to the right hand (Bones,
 
 ṢAM vetāya From the chest to the left hand Marrow. 
 
-SAM Bhrgave From the chest to the left foot (Semen 
+SAM Bhṛgave From the chest to the left foot (Semen 
 
 HAM Lakulīśāya From the chest to the right foot Breath; 
 
@@ -294,43 +294,43 @@ OM HASAKṢAMALAVARAYŪM ŚRĪKANṬHĀYA NAMAH
 
 Śabdarāśinyāsa 
 
-1\. ońù ṁrkṣamlvyürh arn śrīkanthāya namah 1. Forehead 
+1\. ońù ṁrkṣamlvyürh arn śrīkanthāya namaḥ 1. Forehead 
 
-2\. or ṁrkṣamlvyūüm ām anantāya namah 2. Mouth 
+2\. or ṁrkṣamlvyūüm ām anantāya namaḥ 2. Mouth 
 
 3\. orn ṁrkṣamlvyürh i 
 
-sūkṣmāya namah 3. Right eye 4. oń ṁrkṣamlvyūth \[illegible\] trimūrtyai namah 4. Left eye 5. orn ṁrkṣamlvyūümn urh amarīśāya namah 5. Right ear 6. où ṁrkṣamlvyūmh ün arghīśāya namah 6. Left ear 7. orn ṁrkṣamlvyüth rh bhārabhūtyai namah 7. Right nostril (piùgalā) 
+sūkṣmāya namaḥ 3. Right eye 4. oń ṁṛkṣamlvyūth \[illegible\] trimūrtyai namaḥ 4. Left eye 5. orn ṁrkṣamlvyūümn uṁ amarīśāya namaḥ 5. Right ear 6. où ṁṛkṣamlvyūmh ün arghīśāya namaḥ 6. Left ear 7. orn ṁrkṣamlvyüth rh bhārabhūtyai namaḥ 7. Right nostril (piṅgalā) 
 
-8\. orn ṁrkṣamlvyūüm Rrh tithīśāya namah 8. Left nostril (ida) 
+8\. orn ṁrkṣamlvyūüm Rrh tithīśāya namaḥ 8. Left nostril (ida) 
 
-9\. orn ṁrkṣamlvyūrmh (7 sthānave namah. 
+9\. orn ṁṛkṣamlvyūrmh (7 sthānave namaḥ. 
 
-9\. Right cheek 10. orn ṁrkṣamlvyūth Liù harāya namah 10. Left cheek 11. orh ṁrkṣamlvyūth ern jhanthīśāya namah 11. Lower teeth 12. orn ṁrkṣamlvyüm ain bhauktikāya namah 12. Upper teeth 13. oń ṁrkṣamlvyūüt omh sadyojātāya namah 13. Lower lip 14. or ṁrkṣamlvyümn auth anugrahāya namah 14. Upper lip 15. orn ṁrkṣamlvyūüń ań krūrāya namah 15. Topknot 
+9\. Right cheek 10. orn ṁṛkṣamlvyūth Liù harāya namaḥ 10. Left cheek 11. oṁ ṁṛkṣamlvyūth ern jhanthīśāya namaḥ 11. Lower teeth 12. orn ṁrkṣamlvyüm ain bhauktikāya namaḥ 12. Upper teeth 13. oń ṁrkṣamlvyūüt omh sadyojātāya namaḥ 13. Lower lip 14. or ṁrkṣamlvyümn auth anugrahāya namaḥ 14. Upper lip 15. orn ṁrkṣamlvyūüń ań krūrāya namaḥ 15. Topknot 
 
 *[p. 374]* ^pg392
 
-16\. orh ṁrkṣamlvyūin ah māhāsenāya namah 16. Tongue 17. orh ṁrkṣamlvyūüńn karn krodhāya namah 17. Right shoulder 18. orh ṁrkṣamlvyūütn khan candīśãya namah 18. Right arm 19. orh ṁrkṣamlvyūth gan pracaṁdāya namah 19. Right elbow 20. orn ṁrkṣamlvyūmth gharh śivāya namah 20. Right wrist 21. orh ṁrkṣamlvyūṁ “namh ekarudrāya namah 21. Fingers of the right hand 22. orn ṁrkṣamlvyūṁ can kūrmāya namah 22. Left shoulder 23. orn ṁrkṣamlvyūmh charh ekanetrāya namah 23. Left arm 24. orn ṁrkṣamlvyūṁ jarn caturānanāya namah 24. Left elbow 25. orn ṁrkṣamlvyūrth jharh ajitāya namah 25. Left wrist 26. orn ṁrkṣamlvyūṁ ñar śyenāya namah 26. Fingers of the left hand 27. orh ṁrkṣamlvyūṁ farh someśvarāya namah 27. Right buttock 28. orh ṁrkṣamlvyūürh thar lāṁùguliṁñe namah 28. Right thigh 29. orn ṁrkṣamlvyütn dan dārukāya namah 29. Right knee 30. orn ṁrkṣamlvyütn dhain ardhanārīśvarāya namah 30. Right shank 31. orn ṁrkṣamlvyüṁ nah umākāntāya namah 31. Toes of right foot 32. orn ṁrkṣamlvyürh tarn niṣādhine namah 32. Left buttock 33. orn ṁrkṣamlvyürh thain dindiṇāya namah 33. Left thigh 34. orn ṁrkṣamlvyūth dan dhātriùe namah 34. Left foot 35. or ṁrkṣamlvyütn dhan mīnāya namah 35. Left toes 36. où ṁrkṣamlvyütn narn meṣãya namah 36. Left toenails 37. orù ṁrkṣamlvyūtn parh lohitāya namah 37. Right diaphragm 38. \[illegible\] ṁrkṣamlvyūṁ pharh śikhivāhine namah 38. Left diaphragm 39. orn ṁrkṣamlvyūmn bahn chagalandāya namah 39. Spine 40. orù ṁrkṣamlvyūŭthr bhan dvirandāya namah 40. Stomach 41. où ṁrkṣamlvyūṁn man mahākvlāya namah 41. Heart 42. orn ṁrkṣamlvyūrth yarn vālīśãya namah 42. Skin (Chest) 43. orn ṁrkṣamlvyütn ra bhujañùgamāya namah 43. Blood (right shoulder) 
+16\. oṁ ṁṛkṣamlvyūin ah māhāsenāya namaḥ 16. Tongue 17. oṁ ṁrkṣamlvyūüńn karn krodhāya namaḥ 17. Right shoulder 18. oṁ ṁrkṣamlvyūütn khan candīśāya namaḥ 18. Right arm 19. oṁ ṁṛkṣamlvyūth gan pracaṁdāya namaḥ 19. Right elbow 20. orn ṁṛkṣamlvyūmth ghaṁ śivāya namaḥ 20. Right wrist 21. oṁ ṁṛkṣamlvyūṁ “namh ekarudrāya namaḥ 21. Fingers of the right hand 22. orn ṁṛkṣamlvyūṁ can kūrmāya namaḥ 22. Left shoulder 23. orn ṁṛkṣamlvyūmh chaṁ ekanetrāya namaḥ 23. Left arm 24. orn ṁṛkṣamlvyūṁ jarn caturānanāya namaḥ 24. Left elbow 25. orn ṁṛkṣamlvyūrth jhaṁ ajitāya namaḥ 25. Left wrist 26. orn ṁṛkṣamlvyūṁ ñaṁ śyenāya namaḥ 26. Fingers of the left hand 27. oṁ ṁṛkṣamlvyūṁ faṁ someśvarāya namaḥ 27. Right buttock 28. oṁ ṁrkṣamlvyūürh thar lāṅguliṁñe namaḥ 28. Right thigh 29. orn ṁrkṣamlvyütn dan dārukāya namaḥ 29. Right knee 30. orn ṁrkṣamlvyütn dhain ardhanārīśvarāya namaḥ 30. Right shank 31. orn ṁrkṣamlvyüṁ nah umākāntāya namaḥ 31. Toes of right foot 32. orn ṁrkṣamlvyürh tarn niṣādhine namaḥ 32. Left buttock 33. orn ṁrkṣamlvyürh thain dindiṇāya namaḥ 33. Left thigh 34. orn ṁṛkṣamlvyūth dan dhātriùe namaḥ 34. Left foot 35. or ṁrkṣamlvyütn dhan mīnāya namaḥ 35. Left toes 36. où ṁrkṣamlvyütn narn meṣāya namaḥ 36. Left toenails 37. oṁ ṁṛkṣamlvyūtn paṁ lohitāya namaḥ 37. Right diaphragm 38. \[illegible\] ṁṛkṣamlvyūṁ phaṁ śikhivāhine namaḥ 38. Left diaphragm 39. orn ṁṛkṣamlvyūmn bahn chagalandāya namaḥ 39. Spine 40. oṁ ṁrkṣamlvyūŭthr bhan dvirandāya namaḥ 40. Stomach 41. où ṁṛkṣamlvyūṁn man mahākvlāya namaḥ 41. Heart 42. orn ṁṛkṣamlvyūrth yarn vālīśāya namaḥ 42. Skin (Chest) 43. orn ṁrkṣamlvyütn ra bhujaṅgamāya namaḥ 43. Blood (right shoulder) 
 
-44\. orn ṁrkṣamlvyūürh larn pinākine namah 44. Flesh (neck) 
+44\. orn ṁrkṣamlvyūürh larn pinākine namaḥ 44. Flesh (neck) 
 
-45\. orh rhrkṣamlvyūth varn khadgine namah 45. Sinews (left Shoulder) 
+45\. oṁ rhṛkṣamlvyūth varn khadgine namaḥ 45. Sinews (left Shoulder) 
 
-46\. orù ṁrkṣamlvyūṁ \[illegible\] bakīśãya namah 46. Bones (From the chest to the right hand) 
+46\. oṁ ṁṛkṣamlvyūṁ \[illegible\] bakīśāya namaḥ 46. Bones (From the chest to the right hand) 
 
-47\. orn ṁrkṣamlvyürth ṣaṁ śvetāya namah 47. Fat (From the chest to the left hand) 
+47\. orn ṁrkṣamlvyürth ṣaṁ śvetāya namaḥ 47. Fat (From the chest to the left hand) 
 
-48\. orn ṁrkṣamlvyürh san bhrgave namah 48. Semen (From the chest to the left foot) 
+48\. orn ṁrkṣamlvyürh san bhṛgave namaḥ 48. Semen (From the chest to the left foot) 
 
-49\. orn ṁrkṣamlvyūth harn lakulīśãya namah 49. Breath (From the chest to the right foot) 
+49\. orn ṁṛkṣamlvyūth harn lakulīśāya namaḥ 49. Breath (From the chest to the right foot) 
 
-50\. orh ṁrkṣamlvyūth kṣaṁ saṁvartakāya namah 50. Cavity of Brahmā 
+50\. oṁ ṁṛkṣamlvyūth kṣaṁ saṁvartakāya namaḥ 50. Cavity of Brahmā 
 
 *[p. 375]* ^pg393
 
 A Comparative Chart of the Contents of the Assembly of Sounds 
 
-The series of letters, Bhairavas and corresponding parts of the body of the Assembly of Sounds are listed in several places in the Kubjikā sources. These include the KM (24/4-20 (in the reverse order), ȘSS (7/466), KRU (5/50
+The series of letters, Bhairavas and corresponding parts of the body of the Assembly of Sounds are listed in several places in the Kubjikā sources. These include the KM (24/4-20 (in the reverse order), ṢSS (7/466), KRU (5/50
 ff.) and the \[illegible\] (MS K fl. 140a-140b). The ŚM is the only source I have been able to trace that presents a description of the visualized forms of the Bhairavas. Based on them drawings have been published in Dyczkowski 2007: >>>. The series is well known generally in the Tantras of other schools of the early period and the later ones. We also find it, for example, in the Svacchandatantra (2/29- 35), Aggnipurāṇa (145/28-30; 293/41-47), and the Śāradātilaka (2/29-35). 
 
 The fifty letters and their location in the body are noted in chapter 19 of the KuKh, however the Bhairavas are not named there. Presuming that their names are those listed in chapter six (KuKh 6/14-20), they have been entered first in column two. The variants of these names in the KM (24/20) and SSS (38/4-20) are noted next to those of the KuKh. The first variant is from the KM and the second from the 555. Significantly variant names found in the ŚĀāradātilaka (2/29-35) are noted in the third column along with those of the Tīkā. The locations of the letters and Bhairavas in the body noted in the fourth column are taken from chapter nineteen of the KuKh. Variants in the KM and 555 are noted in brackets in italics. Those of the KnT have been noted in the last column on the right. A compartment is left empty if the entry agrees with the corresponding one to the left of it. 
@@ -369,7 +369,7 @@ Letter
 
 Bhairava 
 
-KuKh / KM, ṢȘSS 
+KuKh / KM, ṢṢSS 
 
 l 
 
@@ -387,7 +387,7 @@ Topknot (forehead)
 Left eye 
 
 Varīśa | Rightear |
-Arghīśa Left ear Right nostril (piñgalā Left nostril ŚT: Tithīśa (dā Bhairava Location in Location in Tīkā the Body the Body and KuKh (KnT) ŚT (KM, SSS Right cheek Left cheek A Table of the Letters, Bhairavas and Locations of the Assembly of Sounds 
+Arghīśa Left ear Right nostril (piṅgalā Left nostril ŚT: Tithīśa (dā Bhairava Location in Location in Tīkā the Body the Body and KuKh (KnT) ŚT (KM, SSS Right cheek Left cheek A Table of the Letters, Bhairavas and Locations of the Assembly of Sounds 
 
 | > | Atithīśvara/ Tithīśa/ | Adhvarīśa / 
 
@@ -405,7 +405,7 @@ Lower lip
 Sadyadeva 
 
 AU | Anugraha ěć ě |
-Upper lip \[~\] Aṁñkurīśa / Krūra/
+Upper lip \[~\] Aṅkurīśa / Krūra/
 Krūrasena /
 Uvula ŚT: Akrūra | ~ । 
 
@@ -435,7 +435,7 @@ KuKh)
 
 Gha | Krūra/iveśa Śiva | T and ŚT: 
 
-Right wrist Fingers ivottama (upper part of hand) 
+Right wrist Fingers Śivottama (upper part of hand) 
 
 | ५ |
 right hand 
@@ -455,7 +455,7 @@ Ajeśa/ Ajita Arghīśa Left wrist (left Fingers arm)
 | "| 
 
 yena /
-Kūrma (?)/ | Fingers of the Nails Śarman arva left hand (hand) 
+Kūrma (?)/ | Fingers of the Nails Śarman Śarva left hand (hand) 
 
 Ta 
 
@@ -481,7 +481,7 @@ Letter
 
 Bhairava 
 
-KuKh / KM, ṢȘSS 
+KuKh / KM, ṢṢSS 
 
 | e || 
 
@@ -522,7 +522,7 @@ Mahākāla
 
 Ya 
 
-Vālīśa | = | Bhujañgama / 
+Vālīśa | = | Bhujaṅgama / 
 
 Bhujańga 
 
@@ -543,15 +543,15 @@ Vakīśa
 
 Śvetaka/Śveta \[Sa 
 
-| Lakulin/ Bhrgu 
+| Lakulin/ Bhṛgu 
 
 Ha 
 
-Bhrgu / Lakulīśa (559 Kh: Lakulin) 
+Bhṛgu / Lakulīśa (559 Kh: Lakulin) 
 
 | ६5४ | 
 
-Sarhvartaka Location in Location in (षष the Body the Body and KuKh (KnT) ŚT KM, SSS) 
+Saṁvartaka Location in Location in (षष the Body the Body and KuKh (KnT) ŚT KM, SSS) 
 
 Toes of right Nails foot (right foot Left buttock Left thigh (buttock; Dindin /
 Left thigh Left shank thigh Left knee Left foot (middle of the knee; Left shank Left toes shank; Toes of the left Nails foot (left foot, 
@@ -576,7 +576,7 @@ Breath Anger Bhairava
 
 / \[illegible\] | Khadgīsa | Sinews 
 
-Sarhvarta 
+Saṁvarta 
 
 *[p. d]* ^pg396
 
@@ -596,13 +596,13 @@ Thus as we ascend along it, we journey through the history of the development of
 
 described in following passage drawn from the Svacchandabhairavatantra. This is done by having the three prongs of the Trident emerge from the navel of the Greast Ghost. We turn now to the text. First. The Tantra, then Kṣemarāja’s commentary. 
 
-ātmānari bhairavar dhyātvā tato hrdyāgama ācaret | 
+ātmānari bhairavar dhyātvā tato hṛdyāgama ācaret | 
 
-puryaṣṭakaśarīram api bhairavīkartum ayari prakrama ārabdhah ॥ 
+puryaṣṭakaśarīram api bhairavīkartum ayari prakrama ārabdhaḥ ॥ 
 
 943?\. See TĀ 15/297-318.
 
-944?\. VBh p. 7: iha śrīmān cidbhairavah pūrnāharivimarśātma-.
+944?\. VBh p. 7: iha śrīmān cidbhairavaḥ pūrnāharivimarśātma-.
 
 
 *[p. 379]* ^pg397
@@ -614,21 +614,21 @@ Having meditated on oneself as Bhairava, one should take (that identification) t
 This procedure now commences in order to also make the subtle body (puryaṣṭakaśarīra) one with Bhairava. There (in that regard, the Tantra goes on) to describe extensively the deposition of the seat of the object of worship, which is oneself in the form of Bhairava. 
 
 nābhau kandan samāropya nālaṁ tu dvādaśāṁgulam |I| 55 ॥
-hrdantarn kalpayed yāvat tatra padmami vicintayet |
+hṛdantarn kalpayed yāvat tatra padmami vicintayet |
 aṣṭapatraṁ mahādīptaṁ kesarālaṁ sakarnikam ॥ 56 ॥ 
 
-kandar padmotpattimūlam, samāropya parikalpya, mattagandhapīdanayuktyā ca kanda nābhau nābhiviṣaye samāropya ullāsya, nālah prāṇaśaktirūpam, nābhihrdayāntarālasya dvādaśāṁgulatvāt dvādaśāṁgulam ity uktam || 
+kandar padmotpattimūlam, samāropya parikalpya, mattagandhapīdanayuktyā ca kanda nābhau nābhiviṣaye samāropya ullāsya, nālaḥ prāṇaśaktirūpam, nābhihṛdayāntarālasya dvādaśāṁgulatvāt dvādaśāṁgulam ity uktam || 
 
 Having projected the bulb (kanda) (at the base of the Throne) into the navel, imagine that the stalk, which extends for twelve finger-breadths, ends into the heart. Imagine a lotus there. It has eight petals and is very brilliant. It has stamens and a calyx. (55cd-56) 
 
 The bulb is the root from which the lotus emerges. ‘Having projected’ means ‘having imagined’. The bulb is projected, that is, pushed up, ‘into the navel’, that is, within the area of the navel, by the practice of clenching the anus (mattagandha). ‘The stalk’ is the energy of the vital breath (prāṇaśakti). As the distance between the navel and the heart is twelve fingerbreadths, it is said to ‘extend for twelve finger-breadths’. 
 
-atra vyāptim āha ---- kandarh śŝaktimayarh tatra nāle vai kanṭakās tu ye |
+atra vyāptim āha ---- kandaṁ śaktimayaṁ tatra nāle vai kanṭakās tu ye |
 bhuvanāni ca tāny eva rudrānārm varavarnini || 57 ॥
-māyātmako bhaved granthir aśuddhādhvavyavasthitah |
-vidyāãpadmańi mahādīptaṁ karnikābījarājitam ॥ 58 ॥
-puṣkarāni ca deveśi tatra vidyeśvarāh smrtāh |
-evar dhyātvā mahāpadmaṁ sarvadevamayarh śubham ॥ 59 ॥ 
+māyātmako bhaved granthir aśuddhādhvavyavasthitaḥ |
+vidyāpadmańi mahādīptaṁ karnikābījarājitam ॥ 58 ॥
+puṣkarāni ca deveśi tatra vidyeśvarāḥ smṛtāḥ |
+evar dhyātvā mahāpadmaṁ sarvadevamayaṁ śubham ॥ 59 ॥ 
 
 He states the extent (of each one) here (as follows). 
 
@@ -636,19 +636,19 @@ He states the extent (of each one) here (as follows).
 
 *[p. 380]* ^pg398
 
-kalpayed ity anuvartate | śaktir icchātmā pārameśvarī ādhārabhūtā yasyām vivam idam ādhirayate sā "vyoi rām” iti vakṣyamāṇatvāt garbhīkrta- 
+kalpayed ity anuvartate | śaktir icchātmā pārameśvarī ādhārabhūtā yasyām vivam idam ādhirayate sā "vyoi rām” iti vakṣyamāṇatvāt garbhīkṛta- 
 
 dharāditattvacatuṣṭayā | yathoktarn śŚrīpūrvaśāstre ---- 
 
 ādāv ādhāraśaktiṁ tu nābhyadhaś caturaṁgulām |
-dharām surodarh pota ca kandaś ceti catuṣṭayam ॥ (8-55) 
+dharām surodaṁ pota ca kandaś ceti catuṣṭayam ॥ (8-55) 
 
 iti | 
 
-tatra aptattvavyāptyā surārṇavam, tejovyāptyā khyātah (potam), prāṇaprasūtihetuṁ vyūhātmakaṁ vāyuvyāptyā kandam ity evarivyaktikā śaktih prakrtahṁ rūpaṁ yasya tat sāram ity arthah |
+tatra aptattvavyāptyā surārṇavam, tejovyāptyā khyātaḥ (potam), prāṇaprasūtihetuṁ vyūhātmakaṁ vāyuvyāptyā kandam ity evarivyaktikā śaktiḥ prakṛtahṁ rūpaṁ yasya tat sāram ity arthaḥ |
 ata eva aṁkuranāla-rūpāśeṣādhvavyakteh 
 
-tatra gandhatanmātrādikalātattvāntanālavyāptih = |
+tatra gandhatanmātrādikalātattvāntanālavyāptiḥ = |
 rudrāṇām 
 
 iti 
@@ -656,7 +656,7 @@ iti
 tattattattvādhiṣthātRṇām |
 mahādīptam iti śuddhādhva-vartyaśeṣamantratejomayatvāt |
 puṣkarāṇi bījāni |
-vidyeśvarāh ananta-bhaṭṭārakādyāh śikhandyantāh | \[illegible\] kandanālagranthidalakarṇikābījarūpath saduttham āsanar prasiddham ॥ 59 I| 
+vidyeśvarāḥ ananta-bhaṭṭārakādyāh śikhandyantāḥ | \[illegible\] kandanālagranthidalakarṇikābījarūpath saduttham āsanar prasiddham ॥ 59 I| 
 
 (The diction) ‘one should imagine’ follows (each item listed). ‘Energy’ is the will of the Supreme Goddess who is the foundation (ādhāra) within which this universe is sustained and, as will be explained, her ‘form is the Sky’ and so encompasses within herself the four principles (that is. the Great Elements), Earth and the rest. As is said in the Mālinīvijayottara: 
 
@@ -683,13 +683,13 @@ Energy is deposited first, then after that, the bulb. The deposition of the spro
 
 viśvollekhabhittibhūtām icchāśaktim āviśya tadavaṣtiambharūpan kandam ākramya 
 
-tadunmeṣatatprasararīpāṁkuranālātmakam aśeṣaṁ māyāntam adhvānam āsūtrya tadupari ananta vidyeśaṁn tejomayańn smaraṇamātreṇa kalpayed ity arthah ॥ 60 ॥ 
+tadunmeṣatatprasararīpāṁkuranālātmakam aśeṣaṁ māyāntam adhvānam āsūtrya tadupari ananta vidyeśaṁn tejomayańn smaraṇamātreṇa kalpayed ity arthaḥ ॥ 60 ॥ 
 
-nālah vinyasya yad ukta anantah parikalpayet iti, tanmadhye granthisthāne siṁmhāsanari tadupari ca padmarh krameṇa kalpayitum āha ---- Having penetrated into ‘the energy’ of the will, which is the surface (bhitti) onto which the universe is inscribed, and crossed over into ‘the bulb’, which is the pillar (that rises from) it, and then, having outlined the entire Path up to the end of Māyā, which is ‘the stalk and the sprout’ in the form of the extending flow of its unfolding, ‘one should imagine’, just by means of the memory alone, the Vidyeśa Ananta, who is ‘made of radiant energy’. 
+nālaḥ vinyasya yad ukta anantaḥ parikalpayet iti, tanmadhye granthisthāne siṁmhāsanari tadupari ca padmaṁ krameṇa kalpayitum āha ---- Having penetrated into ‘the energy’ of the will, which is the surface (bhitti) onto which the universe is inscribed, and crossed over into ‘the bulb’, which is the pillar (that rises from) it, and then, having outlined the entire Path up to the end of Māyā, which is ‘the stalk and the sprout’ in the form of the extending flow of its unfolding, ‘one should imagine’, just by means of the memory alone, the Vidyeśa Ananta, who is ‘made of radiant energy’. 
 
 After having taught ‘the placement of the stalk’ and imagined Ananta, the (following) is said so as to imagine, in due order, in the middle of that, where the Knot is located, the throne (siṁhāsana) and, above it, the lotus. dharmam jṁñānar ca vairāgyam aiśvaryaṁ ca kramān nyaset ॥ 61 ||
-ete ca ---- sitaraktapītakrṣṇā āgneyyādīśadiggatāh |
-pādakāh siṁharūpās te trinetrā bhīmavikramāh |I 62 ॥ 
+ete ca ---- sitaraktapītakrṣṇā āgneyyādīśadiggatāḥ |
+pādakāḥ siṁharūpās te trinetrā bhīmavikramāḥ |I 62 ॥ 
 
 One should deposit Dharma, Knowledge, Dispassion and Lordship in due order. (61cd) 
 
@@ -697,45 +697,45 @@ And these:
 
 White, red, yellow and dark blue (respectively), they are (located) in the (intermediate) directions, beginning with the southeast and ending with the northwest. These souls (pādaka), in the form of lions, have three eyes and their valour is ferocious. (62) 
 
-pādakā iti etadvāsanānuviddhā hi sarłsaranti saṁisāre ity aśeṣasaṁsāriṇah ajñātāh pādāh pādakāh, ete siṁmharūīpā iti parākramamahimnā, aśeṣa- 
+pādakā iti etadvāsanānuviddhā hi sarłsaranti saṁisāre ity aśeṣasaṁsāriṇaḥ ajñātāḥ pādāḥ pādakāḥ, ete siṁmharūīpā iti parākramamahimnā, aśeṣa- 
 
-viśvākramanāt | īśvaraśaktyadhiṣthāne evaitad \[illegible\] ghatate na tu \[illegible\] yanaye jadabuddhidharmarūpatāyām ifīśvaraśaktyadhiṣthānād ete trinetrāh, ghora-sarisāraghātahetutvāc ca bhīmavikramāh ॥ 62 ॥ 
+viśvākramanāt | īśvaraśaktyadhiṣthāne evaitad \[illegible\] ghatate na tu \[illegible\] yanaye jadabuddhidharmarūpatāyām ifīśvaraśaktyadhiṣthānād ete trinetrāḥ, ghora-sarisāraghātahetutvāc ca bhīmavikramāḥ ॥ 62 ॥ 
 
 The ‘souls’, pierced through by these latent traces, wander around in the world of transmigration. (Thus,) they are all the transmigrating beings who are 
 
 *[p. 382]* ^pg400
 
-ignorant of (their) state (pāda). They have ‘the form of lions’ because of the greatness of their valour, and because they extend over the entire universe. This happens for them under the presidency of Iśvara’s power, not, as Sārnkhya teaches, due to the existence of the nature (dharma) of the insentient intellect. Thus, because (they are) sustained by the power of Īśvara, they ‘have three eyes”. ‘Their valour is ferocious’ because they are the cause of the fierce blows of transmigratory existence. 
+ignorant of (their) state (pāda). They have ‘the form of lions’ because of the greatness of their valour, and because they extend over the entire universe. This happens for them under the presidency of Iśvara’s power, not, as Sāṁkhya teaches, due to the existence of the nature (dharma) of the insentient intellect. Thus, because (they are) sustained by the power of Īśvara, they ‘have three eyes”. ‘Their valour is ferocious’ because they are the cause of the fierce blows of transmigratory existence. 
 
 ete ca mumukṣunā ---- sivaśaktimayā mantrā nyastavyā vīravandite | 
 
-vastutah 
+vastutaḥ 
 
 parameśvaraśaktimayā eva, tathā tv aparijñātā adhara-padasañcārinah | 
 
-yadā tu yathā pratyabhijñāyante, tadā mananatrāṇa-dharmakāh pratyabhijñātuh śivasya icchayā mantrarūpatām prakaṭayantah śuddhaprasaraṇisaṁsāriṇno bhavanti bhaktibhāja iti paramārthah, na tv anyathaiṣāṁ mantrarūpatā kācit, aśuddhādhvavyavasthiteh | 
+yadā tu yathā pratyabhijñāyante, tadā mananatrāṇa-dharmakāh pratyabhijñātuḥ śivasya icchayā mantrarūpatām prakaṭayantaḥ śuddhaprasaraṇisaṁsāriṇno bhavanti bhaktibhāja iti paramārthaḥ, na tv anyathaiṣāṁ mantrarūpatā kācit, aśuddhādhvavyavasthiteḥ | 
 
 One who desires liberation should 
 
 ‘deposit these Mantras made of Śiva’s power.” (63ab) 
 
-In reality, (Mantras are living beings) made of the Supreme Lord’s power. Not known to be such, they wander on lower planes. If they are recognized to be such, then they are transmigrating beings who are on the Pure Path and their nature as Mantra is revealed by the will of iva, who is the one who recognises (them to be such, namely,) as possessing the attributes of contemplation (manana) and salvation (trāna). (Thus,) in reality they possess (great) devotion. Their nature as Mantra is not any other (than this) because they are on the Impure Path (it is always as it is when they are on the Pure Path). 
+In reality, (Mantras are living beings) made of the Supreme Lord’s power. Not known to be such, they wander on lower planes. If they are recognized to be such, then they are transmigrating beings who are on the Pure Path and their nature as Mantra is revealed by the will of Śiva, who is the one who recognises (them to be such, namely,) as possessing the attributes of contemplation (manana) and salvation (trāna). (Thus,) in reality they possess (great) devotion. Their nature as Mantra is not any other (than this) because they are on the Impure Path (it is always as it is when they are on the Pure Path). 
 
 siṁāsane ‘vayavāntarāny āha ---- 
 
-adharmājñānāvairāgyam anaiśvaryari ca prāgdiśah ॥ 63 ॥
+adharmājñānāvairāgyam anaiśvaryari ca prāgdiśaḥ ॥ 63 ॥
 uttarāntaṁ nivefyat tu............. 
 
 ete hi ---- 
 
 4 
 
-gātrakāh sitavarṇakāh | 
+gātrakāḥ sitavarṇakāḥ | 
 
-simhāsanapaṭtikārūpāh |
+simhāsanapaṭtikārūpāḥ |
 prāyaśca sarve ‘khyātimayamāyācchāditatvād 
 
-adharmādimayāh, ata eva dharmādīn prati spṁayālava ity adharmādaya eṣāṁ māyāpade ajñātāni gātrakāni |l 63 ॥
+adharmādimayāḥ, ata eva dharmādīn prati spṁayālava ity adharmādaya eṣāṁ māyāpade ajñātāni gātrakāni |l 63 ॥
 atraiva ---- 
 
 He names the other parts of the throne. 
@@ -746,14 +746,14 @@ He names the other parts of the throne.
 
 (They are) the pieces of cloth (that cover) the throne. Generally, all things consist of Adharma etc. because they are covered over by Māyā, which is ignorance. They long for Dharma and the rest (that are their positive counterparts). Thus, on the plane of Māyā, the bodies of Adharma and the rest are unknown. Here itself (in the same place it is said): 
 
-saridhānakīlakāś caiva atasīpuṣpasaṁnibhāh ॥ 64 ॥
-vedā yugāś ca te caiva jṁñātavyāh kramaśah priye | 
+saridhānakīlakāś caiva atasīpuṣpasaṁnibhāḥ ॥ 64 ॥
+vedā yugāś ca te caiva jṁñātavyāḥ kramaśaḥ priye | 
 
 āgneyyādikrameṇa 
 
 pratikoṇnamṁ pādakena saha gātrakadvayasya bandhanārtha kīlakadvayam iti |
-rgādayo vedāh, krtādayaŚś ca yugās tattadbhogavāsanāh puṣṇantah sarnisārabandhanahetavo vicitraśaṁkāśaṁku-rūpāh saṁdhānakīlakā ity uktāh | bandhakatvād eva ca krṣṇavarṇā jñātavyāh |
-pūrvoktapārameśvaraśaktirūpatayā yathā ajñātā bandhakā bhavanti | nanu ete buddhidharmāh katham \[illegible\] \[illegible\] prāptāh? ucyate ---- sarveṣām buddhyādidharmāṇām māyotpattibhūh, buddhyādayas tu vibhavasthānam, ucchedyās tu mūlabhūmita ucchinmnā na punah prarohantīty utpattipadād ucchettum etānīdrkkramo darśitah || 64 ॥ 
+rgādayo vedāḥ, krtādayaŚś ca yugās tattadbhogavāsanāḥ puṣṇantaḥ sarnisārabandhanahetavo vicitraśaṁkāśaṁku-rūpāh saṁdhānakīlakā ity uktāḥ | bandhakatvād eva ca kṛṣṇavarṇā jñātavyāḥ |
+pūrvoktapārameśvaraśaktirūpatayā yathā ajñātā bandhakā bhavanti | nanu ete buddhidharmāḥ katham \[illegible\] \[illegible\] prāptāḥ? ucyate ---- sarveṣām buddhyādidharmāṇām māyotpattibhūḥ, buddhyādayas tu vibhavasthānam, ucchedyās tu mūlabhūmita ucchinmnā na punaḥ prarohantīty utpattipadād ucchettum etānīdṛkkramo darśitaḥ || 64 ॥ 
 
 ‘(They are) the nails that hold (the throne together). They are (dark blue) like atasī flowers. O beloved, one should know them in due order to be the Vedas and (four cosmic) Ages.’ (64cd-65ab) 
 
@@ -762,7 +762,7 @@ In each corner, in due order beginning with the southeast, there are two nails t
 ata eva sattvarajastamāmsi mūlata evocchetturn simhāsanopari gunamayam eva māyām asūrakarni nyasitum \[illegible\] ---- 
 
 adhaśchādanam ūrdhvaṁ ca raktar śuklami vicintayet | 65 ॥
-madhye tamo vijānīyād gunṇās tv ete vyavasthitāh | 
+madhye tamo vijānīyād gunṇās tv ete vyavasthitāḥ | 
 
 *[p. 384]* ^pg402
 
@@ -770,18 +770,18 @@ Thus, in order to sever sattva, rajas and tamas from (their very) root, (the fol
 
 ‘One should think that the lower and upper covers are red and white (respectively). One should know that darkness (tamas) is in the middle. These are the qualities arranged (in this way).’ (65cd-66ab) 
 
-ūrdhvari śuddhavidyānikaṭavartitvāt sita sattvarīpam | adhas tu saṁisaraṇā-nugunṇatvād rakta rajomayam | madhye tu khyātyācchādanaprakarṣāt tamomayan krṣnam | prādhānikah prapañco māyāyām asann ityādi tv asat, aśeṣamāyākāryasya māyāyāṁ sūkṣmarūpatayā bhuvanādhvavarṇayiṣyamāṇa-sthityāvasthityāvasthitatvāt | śaktipātapavitrais tu sarvam etac chivaśaktirūpaṁ mantratayaiva bhavanīyam | yad vakṣyati ~ yatra yatra ity upakramya, sarvar śivamayaṁ yatah || iti || 
+ūrdhvari śuddhavidyānikaṭavartitvāt sita sattvarīpam | adhas tu saṁisaraṇā-nugunṇatvād rakta rajomayam | madhye tu khyātyācchādanaprakarṣāt tamomayan kṛṣnam | prādhānikaḥ prapañco māyāyām asann ityādi tv asat, aśeṣamāyākāryasya māyāyāṁ sūkṣmarūpatayā bhuvanādhvavarṇayiṣyamāṇa-sthityāvasthityāvasthitatvāt | śaktipātapavitrais tu sarvam etac chivaśaktirūpaṁ mantratayaiva bhavanīyam | yad vakṣyati ~ yatra yatra ity upakramya, sarvar śivamayaṁ yataḥ || iti || 
 
-(The cover) above is close to Pure Knowledge and so is white and its nature is sattva. The quality (of the one) below is consonant with that of transmigratory existence and so is red and made of rajas. In the middle, (the space between them), is black and made of tamas, because of its great capacity (prakarṣa) to veil knowledge. ‘The creation (that proceeds) from fundamental nature (pradhāna) does not exist within Māyā’. According to this view, it does not exist because the entire product of Māyā is located within Māyā in a subtle form arranged as the Path of the Worlds (in the manner that) will be explained. Those who have been sanctified by a descent of the power (of grace) should contemplate all that, the nature of which is Śiva’s power, as Mantra. As will be said (further ahead in the passage beginning with) ‘wherever’ and (ending with) ‘as everything is made of iva. 
+(The cover) above is close to Pure Knowledge and so is white and its nature is sattva. The quality (of the one) below is consonant with that of transmigratory existence and so is red and made of rajas. In the middle, (the space between them), is black and made of tamas, because of its great capacity (prakarṣa) to veil knowledge. ‘The creation (that proceeds) from fundamental nature (pradhāna) does not exist within Māyā’. According to this view, it does not exist because the entire product of Māyā is located within Māyā in a subtle form arranged as the Path of the Worlds (in the manner that) will be explained. Those who have been sanctified by a descent of the power (of grace) should contemplate all that, the nature of which is Śiva’s power, as Mantra. As will be said (further ahead in the passage beginning with) ‘wherever’ and (ending with) ‘as everything is made of Śiva. 
 
-”® 
+” 
 
 atha simhāsanam asūrakopari vidyāpadmari nyasitum āha ---- sitar padma 
 
 Tyāt kesarāṇi vicintayet ॥ 66 ॥
-sitaraktaprapītāni mūlamadhyāgradeśatah |
+sitaraktaprapītāni mūlamadhyāgradeśataḥ |
 karnṇikā hemasaṁkāśā bījāni haritāni tu ॥ 67 ॥
-īdrgvarnṇam eva sitapadmari bhavati | sitatvańi cāsya śuddhavidyāmayatvāt ||
+īdṛgvarnṇam eva sitapadmari bhavati | sitatvańi cāsya śuddhavidyāmayatvāt ||
 asya daleṣu devatānyāsam āha ---- 
 
 Now, in order to place the Lotus of Knowledge on the throne, on top of the pillow (asūraka) (he says): 
@@ -790,7 +790,7 @@ Now, in order to place the Lotus of Knowledge on the throne, on top of the pillo
 
 947?\. SvT 4/313d.
 
-948?\. \[illegible\] yatra yatra mano yāti jñeyaṁ tatraiva cintayet | calitvā yāsyate kutra sarvarh śivamayaṁ yatah || 4-313 ॥ “(For such a great yogi,) wherever (his) mind goes, he should think that (the supreme reality) which is to be known is there. As everything is Siva \[illegible\] having moved (from one place), where will it go (that is not iva)?” SvT 4/313
+948?\. \[illegible\] yatra yatra mano yāti jñeyaṁ tatraiva cintayet | calitvā yāsyate kutra sarvaṁ śivamayaṁ yataḥ || 4-313 ॥ “(For such a great yogi,) wherever (his) mind goes, he should think that (the supreme reality) which is to be known is there. As everything is Siva \[illegible\] having moved (from one place), where will it go (that is not Śiva)?” SvT 4/313
 
 
 *[p. 385]* ^pg403
@@ -812,8 +812,8 @@ madhye manonmanīṁ \[illegible\] karnikāyāṁ niveśayet |
 spaṣtam etat ॥ 70 ॥ etac ca sakracāpanibhari devi dhyātavyaṁ śaktimandalam ॥ 71 ॥
 tato ‘pi ---- madhye sūryasahasrābhāri cintayet tu manonmanīm | 
 
-etā devyo bhuvanādhvanītyā pareṇa rūpena śaktitattve sthitāh, madhye tu pade parāpareṇa, iha tu vidyāyām apareṇa rūpeneti vibhāgah | tatraiva cāsām nāmānusāri svarūpaṁ darśayiṣyāmah, sarvan prāguktaśaktitrayamayam iti ||
-vidyātattve mānameyamātrrūpa jñānakriyecchāvyāptisatattvah mandalatrayarh nyasitum āha ---- 
+etā devyo bhuvanādhvanītyā pareṇa rūpena śaktitattve sthitāḥ, madhye tu pade parāpareṇa, iha tu vidyāyām apareṇa rūpeneti vibhāgaḥ | tatraiva cāsām nāmānusāri svarūpaṁ darśayiṣyāmaḥ, sarvan prāguktaśaktitrayamayam iti ||
+vidyātattve mānameyamātrrūpa jñānakriyecchāvyāptisatattvaḥ mandalatrayaṁ nyasitum āha ---- 
 
 This is clear. Moreover, 
 
@@ -831,27 +831,27 @@ explain their nature in accord with their names (and how) everything is made of 
 
 (Now the following) is said, in order to deposit within the principle of Knowledge the three circles (mandala) that are the means (of knowledge), object and subject, and the pervasion of knowledge, action and the will (respectively). 
 
-sūryādhvamandalari patre somah sarhyojya kesare ॥ 72 ॥
-vahnimandalakarh devi karnikāyāṁ niveśayet | 
+sūryādhvamandalari patre somaḥ saṁyojya kesare ॥ 72 ॥
+vahnimandalakaṁ devi karnikāyāṁ niveśayet | 
 
-atra hi meyarūpasya somasya vahnisūryātmakamātrmānamadhyavartitvam, na hi mātrprakāśabhittiṁṇ vinā mānaprakāśācchuraṇah vinā vā meyaprakāśah kaścit | pramātraiva hi cidrasāśyānībhāvātma meyam ābhāsyate, ābhāsya-māna ca pramāṇaprakāśācchuritam eva bhavatīty alam adhikena; (vistrtam ca) bhaviṣyaty etat srṣtisaṁārapaṭale ॥ 72 ॥ 
+atra hi meyarūpasya somasya vahnisūryātmakamātṛmānamadhyavartitvam, na hi mātṛprakāśabhittiṁṇ vinā mānaprakāśācchuraṇaḥ vinā vā meyaprakāśaḥ kaścit | pramātraiva hi cidrasāśyānībhāvātma meyam ābhāsyate, ābhāsya-māna ca pramāṇaprakāśācchuritam eva bhavatīty alam adhikena; (vistṛtam ca) bhaviṣyaty etat sṛṣtisaṁārapaṭale ॥ 72 ॥ 
 
 etad 
 
-dhāmatrayādhiṣthātrdevatātrayahi nirūpayati tadadhiṣthātr-viśvāntar-bhāvam atra prakaṭayitum ---- 
+dhāmatrayādhiṣthātṛdevatātrayahi nirūpayati tadadhiṣthātr-viśvāntar-bhāvam atra prakaṭayitum ---- 
 
 ‘Place the Circle of the Path of the Sun on the leaves and conjoin the Moon to the stamens. O goddess, place the Circle of Fire in the calyx. (72cd- 73ab) 
 
 Here the Moon, which is the object of knowledge, is in between the subject and means of knowledge that are Fire and the Sun (respectively). There is no light of objectivity of any kind without the screen of the light of the subject (onto which it is projected) and the pervasive presence of the light of the means of knowledge. It is the perceiver alone, who is the condensed state of the aesthetic savour of consciousness, that illumines the object of knowledge. That which is made manifest (‘illumined’) is pervaded by the light of the means of knowledge. Now enough of excessive (talk). (This) will be (taught) extensively (later) in the chapter devoted to emanation and withdrawal. The three presiding deities of these three abodes is (now going to be) described. (The following) is said in order to elucidate the universal inner state of the presiding (deities) of that (triple abode): 
 
-brahmā viṣnur haraś caiva mandaleṣv adhipāh smrtāh ॥ 73 ॥ 
+brahmā viṣnur haraś caiva mandaleṣv adhipāḥ smṛtāḥ ॥ 73 ॥ 
 
 parāparayā vyāptyā eṣāṁ dhyānam āha ---- 
 
-brahmā caturmukho raktaś caturbāhuvibhūṣitah |
-krṣnājinottarīyaś ca rājīvāsanasaṁsthitah ॥ 74 ॥
+brahmā caturmukho raktaś caturbāhuvibhūṣitaḥ |
+kṛṣnājinottarīyaś ca rājīvāsanasaṁsthitaḥ ॥ 74 ॥
 kamandaludharo devi dandahastas tathaiva ca |
-akṣamālādharo devah padmahastah sulocanah ॥ 75 ॥
+akṣamālādharo devaḥ padmahastaḥ sulocanaḥ ॥ 75 ॥
 dhyātvā patreṣu tarn nyasyet sarvakilviṣanāśanam | 
 
 ‘Brahmā, Viṣṇu and Hara are considered to be the lords within the circle.” (73cd) 
@@ -864,23 +864,23 @@ dhyātvā patreṣu tarn nyasyet sarvakilviṣanāśanam |
 
 atasīpuṣpasaṁkāśari śaṁkhacakragadādharam ॥ 76 ॥
 pītāmbaradharari devan vanamālāvibhūṣitam |
-sphuranmukuṭamānikyari kiùkinījālamanditam ॥ 77 ॥
+sphuranmukuṭamānikyari kiṅkinījālamanditam ॥ 77 ॥
 divyakundaladhartāran garudāsanasaṁsthitam |
 dhyātvā viṣnurnṁ mahātmānaṁ keśareṣu niveśayet || 78 ॥ 
 
 ‘(Dark blue) like an atasī flower, holding a conch, wheel and mace, the god wears yellow clothes and is adorned with a garland of (flowers). The jewels of his crown shine and he is adorned with a net of small bells. He wears forest (flowers as his) divine earrings and sits on Garuda as his seat. Having visualized Viṣnu (in this way) place (that) great soul amongst the stamens (of the lotus).’ (76cd-78) 
 
-śsaṁkhena padmamupalakṣyate | mānameyayor lolībhāvān meyātmani somamandale srṣtipradhāne ‘pi sthitikārī viṣṇnuh, sthityātmani ca pramānarūpe sūryamandale srṣtikartā brahmādhiṣthātā, iti yujyate evaitat || 78 || 
+śsaṁkhena padmamupalakṣyate | mānameyayor lolībhāvān meyātmani somamandale sṛṣtipradhāne ‘pi sthitikārī viṣṇnuḥ, sthityātmani ca pramānarūpe sūryamandale sṛṣtikartā brahmādhiṣthātā, iti yujyate evaitat || 78 || 
 
 The lotus (Viṣṇu holds, but is not mentioned here,) is indicated implicitly by (the mention of) the conch. Viṣṇu, the agent of stability, is present in the Circle of the Moon, which is the object of knowledge, although it is predominately (the sphere of) emanation, because the means and object of knowledge are intimately connected (lolībhāvāt). Again, (similarly) Brahmā, the agent of emanation, is the presiding authority (adhiṣthātr) within the Circle of the Sun, which is (the sphere of) stability and its nature the means of knowledge. This makes sense. 
 
 saṁkhakundendudhavalaṁ śūlahastari trilocanam |
 daśabāhur viśālākṣan nāgayajñopavītinam ॥ 79 ॥
-sihhacarmaparīdhānari śaśāṁkakrtabhūṣaṇam |
-nīlakanthaṁ vrṣārūdhami rudra dhyātvā varānane ॥ 80 ॥
+sihhacarmaparīdhānari śaśāṁkakṛtabhūṣaṇam |
+nīlakanthaṁ vṛṣārūdhami rudra dhyātvā varānane ॥ 80 ॥
 niveśayet karnikāyāń mahāpātakanāśanam |
-tadupari ---- mahāpretaṁ nyaset paścāt prahasantarh sacetanam || 81 ||
-raktavarnari sutejaskarh netratrayavibhūṣitam | 
+tadupari ---- mahāpretaṁ nyaset paścāt prahasantaṁ sacetanam || 81 ||
+raktavarnari sutejaskaṁ netratrayavibhūṣitam | 
 
 ‘White like a conch, Kunda flower and the moon, he holds a trident and has three eyes; His eyes are large, and he has ten arms and wears a serpent as a sacred thread. He wears a lion-skin cloak and has made the moon his ornament. His throat is blue, and he sits on a bull. Having visualized Rudra (in this way), 
 
@@ -894,18 +894,18 @@ Above it:
 
 prakarṣeṇa 
 
-itah 
+itaḥ 
 
-sphuṭed antānimajjanena ahantāpradhānāṁ sthitim anupraviṣtah; prakarṣeṇa ca itaṁ gatah sahbaddhah viśvah yasya iti vyutpattyā preta iha sadāśivah, sa ca mahad iti padena anāśritaśivarūpah |
-paramaśiva eva ca bhagavān ekaś cidrūpas tadadhararūpavartī, ity anāśritādis tadekajīvitah, svayań tu preta iva pretah, adharādhvano ‘tra stimitatvenā-vasthānāc ca pretah, 
+sphuṭed antānimajjanena ahantāpradhānāṁ sthitim anupraviṣtaḥ; prakarṣeṇa ca itaṁ gataḥ sahbaddhaḥ viśvaḥ yasya iti vyutpattyā preta iha sadāśivaḥ, sa ca mahad iti padena anāśritaśivarūpaḥ |
+paramaśiva eva ca bhagavān ekaś cidrūpas tadadhararūpavartī, ity anāśritādis tadekajīvitaḥ, svayań tu preta iva pretaḥ, adharādhvano ‘tra stimitatvenā-vasthānāc ca pretaḥ, 
 
-(Kṣemarāja now presents a didactic etymology of the name ‘mahāpreta’ — the Great Ghost). The one who has gone forth (itah) becomes manifest (sphuṭet) as more excellent (prakarṣenṇa) (than others) (= pretah). (In other words,) he has entered into the abiding state (sthiti) that is predominantly subjectivity (ahantā) by merging inwardly (into consciousness). Now, according to the following didactic etymology, the Ghost (preta) is Sadāśiva. (He is also called preta because) his universe has become (ita) excellently (prakarṣena) well-bound (within consciousness). According to this etymology, the Ghost —preta — here is Sadāśiva. Moreover, he is ‘great’. (This) word (implies that he is transcendent and so) never enters (creation) (anāśrita). He is the Supreme Śiva Himself, the one God (bhagavat) who is consciousness, who is present in the foundation of that (universe). Thus, His own life is as transcendent Śiva (anāśrita) etc. and having by Himself (spontaneously) seemingly gone forth —preta ~ He is preta, the ‘Ghost’. He is (also) the Ghost whose lower path (back into the world) has been blocked, and (that is His) abiding state. 
+(Kṣemarāja now presents a didactic etymology of the name ‘mahāpreta’ — the Great Ghost). The one who has gone forth (itaḥ) becomes manifest (sphuṭet) as more excellent (prakarṣenṇa) (than others) (= pretaḥ). (In other words,) he has entered into the abiding state (sthiti) that is predominantly subjectivity (ahantā) by merging inwardly (into consciousness). Now, according to the following didactic etymology, the Ghost (preta) is Sadāśiva. (He is also called preta because) his universe has become (ita) excellently (prakarṣena) well-bound (within consciousness). According to this etymology, the Ghost —preta — here is Sadāśiva. Moreover, he is ‘great’. (This) word (implies that he is transcendent and so) never enters (creation) (anāśrita). He is the Supreme Śiva Himself, the one God (bhagavat) who is consciousness, who is present in the foundation of that (universe). Thus, His own life is as transcendent Śiva (anāśrita) etc. and having by Himself (spontaneously) seemingly gone forth —preta ~ He is preta, the ‘Ghost’. He is (also) the Ghost whose lower path (back into the world) has been blocked, and (that is His) abiding state. 
 
-sa ca aparayā vyāptyā sthūlah sadāśivah, madhyamayā sa eva nādarūpah, parayā tu anāśritah, iti tadanusāreṇa simhāsana padmarh ca yojyam | sa ca pretah 
+sa ca aparayā vyāptyā sthūlaḥ sadāśivaḥ, madhyamayā sa eva nādarūpaḥ, parayā tu anāśritaḥ, iti tadanusāreṇa simhāsana padmaṁ ca yojyam | sa ca pretaḥ 
 
 paramaśivo 
 
-ʻhantānupraveśād eva prahasan nādāmarśarūpo mahāvikāsamayaś ca, tenaiva paramaśivena nādātmanā sacetanah | evam api tāvanmātredantonmeṣātmako-pādhirūpatvāt viśvānurañjakatvāc ca rakta-varṇah, bodhaprādhānyāt sutejaskah | vakṣyati ca ---- sūryakoṭisamaprabham |
+ʻhantānupraveśād eva prahasan nādāmarśarūpo mahāvikāsamayaś ca, tenaiva paramaśivena nādātmanā sacetanaḥ | evam api tāvanmātredantonmeṣātmako-pādhirūpatvāt viśvānurañjakatvāc ca rakta-varṇah, bodhaprādhānyāt sutejaskaḥ | vakṣyati ca ---- sūryakoṭisamaprabham |
 iti bhauvane paṭale | 
 
 And He is, by a lower form of pervasion, the gross Sadāśiva. By the middling one he is Sound, and by the supreme one Anāśrita. One should add the lotus throne accordingly. Again, that ghost is, by entering into subjectivity (ahantā), Supreme Śiva, who is ‘laughing’. (His laughter) is (his) contemplation of Sound and is also the Great Expansion (mahāvikāsa). By virtue of that same Paramaśiva, Who is Sound, (this ghost is) sentient (sacetana). 
@@ -919,7 +919,7 @@ As awakened consciousness predominates (in him he is said to be) ‘beautifully 
 icchājñānakriyāśaktyātmanā ca eṣanīyajṁeyakāryātma \[illegible\] nayatā 
 
 netratritayena ürdhvadrśā viśeṣena bhūṣitar rājamānam | yathoktam ---- tisro devyo yadā caina nityam evābhyupāsate |
-tryambakas tu tadā jñṁeyah.. 
+tryambakas tu tadā jñṁeyaḥ.. 
 
 . ॥ iei ॥ 81 ॥
 evam iyat paryantam 
@@ -930,29 +930,29 @@ He impels the universe, which is the object of will, knowledge and action, with 
 
 pranavena nyaset sarvam āsanaṁ bhairavasya tu || 82 |I 
 
-oń āsanāya namah iti mantreṇa | etat sarvam āsanaṁ cidbhairavābhedena vyāptah 
+oń āsanāya namaḥ iti mantreṇa | etat sarvam āsanaṁ cidbhairavābhedena vyāptaḥ 
 
 sarvaṁ 
 
 sivamayam iti vakṣyamānṇatvāt śaktirūpam, na tu vyatiriktāpararūpaṁi pranavāntargarbhīkārenṇa nyaset | atra ca ---- 
 
-āsanari vibhajenmantrī kramaśah padmamudrayā | 
+āsanari vibhajenmantrī kramaśaḥ padmamudrayā | 
 
-iti śrīraurava uktatvāt karadvayan mukulīkrtya padmamudrāsphālanīyā sthāpanīyā || 82 || 
+iti śrīraurava uktatvāt karadvayan mukulīkṛtya padmamudrāsphālanīyā sthāpanīyā || 82 || 
 
 ‘Pranava should be deposited on all of Bhairava’s throne.’ (82cd) 
 
-(This is done with) the mantra ‘orh āsanāya namah’. All this throne is pervaded with its oneness with the Bhairava of Consciousness (cidbhairava). As will be said, ‘everything is made of Śiva’; thus, (its) nature is (also) akti. One should not deposit something else of another separate nature (by depositing) the Praṇava that contains (everything within itself). Here (with regards to this), it is said in the venerable Rauravāgama: ‘the reciter of mantra should divide up the throne gradually with the lotus seal (padmamudrā).’ Thus, having gathered together the fingers of the two hands, the lotus seal should be spread open and installed. 
+(This is done with) the mantra ‘oṁ āsanāya namaḥ’. All this throne is pervaded with its oneness with the Bhairava of Consciousness (cidbhairava). As will be said, ‘everything is made of Śiva’; thus, (its) nature is (also) Śakti. One should not deposit something else of another separate nature (by depositing) the Praṇava that contains (everything within itself). Here (with regards to this), it is said in the venerable Rauravāgama: ‘the reciter of mantra should divide up the throne gradually with the lotus seal (padmamudrā).’ Thus, having gathered together the fingers of the two hands, the lotus seal should be spread open and installed. 
 
-gandhaih puṣpaih samabhyarcya............. praṇavenaiva |
+gandhaiḥ puṣpaiḥ samabhyarcya............. praṇavenaiva |
 \[illegible\] tato mūrti prakalpayet |
 kadambakusumākārārm tuṣārakiraṇatviṣam || 83 ॥ 
 
-prakāśāhlādamayīmityarthah || 83 ॥
+prakāśāhlādamayīmityarthaḥ || 83 ॥
 atha ---- 
 
 mūrtyürdhve bhairavarn devan sakalan parikalpayet |
-dvātriňśadvarṇakhacitaṁ sphurattadidivojjvalam || 84 ॥ 
+dvātriṁśadvarṇakhacitaṁ sphurattadidivojjvalam || 84 ॥ 
 
 *[p. 390]* ^pg408
 
@@ -976,7 +976,7 @@ The Mantras of the Shaft of the Trident
 
 OM KṢVĪM SURODĀYA NAMAH (Water — the Ocean of Wine) OM VAM POTĀYA NAMAH (Fire - the Boat) 
 
-OM K\$ṢAM KANDĀYA NAMAH (Air - the Bulb) 
+OM KṢAM KANDĀYA NAMAH (Air - the Bulb) 
 
 3\) OM HAM ANANTĀYA NAMAH. 
 
@@ -1130,7 +1130,7 @@ OM HĪM ŚIRASE SVĀHĀ
 
 OM RŪM ŚIKHĀYAI VAUṢAT 
 
-OM KṢAIM KAVACÃĀYA HUM 
+OM KṢAIM KAVACĀYA HUM 
 
 OM MAUM NETRĀYA \[illegible\] 
 
@@ -1195,7 +1195,7 @@ The Vidyāṁgas
 
 The Vidyāṁgas are Mantra deities that are a part of Śiva's entourage. They are the Heart, called Vidyādhipa, the Head, called Brahmaśiras, the Topknot called Rudrāṇī,‘ the Armour called Puruṣtṭuta and the Weapon called Pāśupatāstra. The Vidyā of which these are the limbs is Para. 
 
-Vidyāṁgahrdaya (Vidyādhipa) (the Heart): OM OM OM OM OM Brahmaśiras (the Head): OM AMRTE TEJOMĀLINI SVĀHĀ Śikhā (Rudrāṇī) (the Topknot): OM VEDA VEDINI HŪM PHAT Varman (Puruṣtṭuta) (the Armour): OM VAJRINE VAJRADHARĀYA SVĀHĀ Astra (Pāśupatāstra) (the Weapon): OM ŚLIM PĀŚU HUM PHAṬ 
+Vidyāṁgahṛdaya (Vidyādhipa) (the Heart): OM OM OM OM OM Brahmaśiras (the Head): OM AMRTE TEJOMĀLINI SVĀHĀ Śikhā (Rudrāṇī) (the Topknot): OM VEDA VEDINI HŪM PHAT Varman (Puruṣtṭuta) (the Armour): OM VAJRINE VAJRADHARĀYA SVĀHĀ Astra (Pāśupatāstra) (the Weapon): OM ŚLIM PĀŚU HUM PHAṬ 
 
 Parāparā Vidyāí 
 
@@ -1207,7 +1207,7 @@ Aghora, Paramaghora, Ghorarūpa, Ghoramukha, Bhīma, Bhīṣaṇa, Vamana and Pi
 
 Aghorī: OM AGHORE HRĪH Paramghorī: PARAMGHORE HUM Ghorarūpā: GHORARÜŪPE HAH Ghoramukhī: GHORAMUKHI Bhīmā: BHĪMA\* 
 
-951?\. The limbs may be six or five. When they are five normally the Eye (Netra) is omitted. Śiva’s Eye is the well-known Mantra of Mrtyuñjaya, namely OM JUM SAH as its mantra is a common Śaiva one
+951?\. The limbs may be six or five. When they are five normally the Eye (Netra) is omitted. Śiva’s Eye is the well-known Mantra of Mṛtyuñjaya, namely OM JUM SAH as its mantra is a common Śaiva one
 
 952?\. argue that that is the case above in note 15, 112.
 
@@ -1232,7 +1232,7 @@ The Guardians of the Quarters
 
 OM LĀM INDRĀYA NAMAH (East) 
 
-OM RĪM AGNAYE NAMAH (South-East) 
+OM RĪṀ AGNAYE NAMAH (South-East) 
 
 OM TŪM YAMĀYA NAMAH (South) 
 
@@ -1272,11 +1272,11 @@ OM AM PADMĀYA NAMAH
 
 OM IM CAKRĀYA NAMAH 
 
-Krama Vidyās Mātrsadbhāva 
+Krama Vidyās Mātṛsadbhāva 
 
 HSHRPHEM” 
 
-The six limbs of Mātrsadbhāva: 
+The six limbs of Mātṛsadbhāva: 
 
 OM HĀM HRDAYĀYA NAMAH 
 
@@ -1297,7 +1297,7 @@ OM PHAUM NETRAYĀYA VAUṢAṬ
 
 OM RAH ASTRĀYA PHAT 
 
-The five faces of Mātrsadbhāva 
+The five faces of Mātṛsadbhāva 
 
 OM HOM ÜRDHVAVAKTRĀYA NAMAH 
 
@@ -1374,9 +1374,9 @@ KHPHREM PHAṬṬ | HÜM KROM KṢĀM SARVAVIDYEŚVARI PHAṬ SVAHA
 
 The Vidyās of Kālasaṁkarśiṇī 
 
-Abhinava rigorously avoids reference to the iconic forms of deities with hardly one or two exceptions and that only in the case of the three Trika Goddesses.'! At a basic level he must have understood that if he presents the iconic form of one deity, he would be obliged to present many others. Avoiding, as he normally does, reference to the iconic form of Kālasaṁkarṣiṇī who, de facto is the supreme deity of Abhinava’s Anuttara Trika, he presents her, as does the Devyãyāmala, as the Supreme Goddess - Parā who consumes the vital breath, and with it time, absorbing it into the Eternity of her essential nature as absolute consciousness. He writes: 
+Abhinava rigorously avoids reference to the iconic forms of deities with hardly one or two exceptions and that only in the case of the three Trika Goddesses.'! At a basic level he must have understood that if he presents the iconic form of one deity, he would be obliged to present many others. Avoiding, as he normally does, reference to the iconic form of Kālasaṁkarṣiṇī who, de facto is the supreme deity of Abhinava’s Anuttara Trika, he presents her, as does the Devyāyāmala, as the Supreme Goddess - Parā who consumes the vital breath, and with it time, absorbing it into the Eternity of her essential nature as absolute consciousness. He writes: 
 
-And so, it is said in the venerable Devyāyāmala in (the part of it) called the Dāmarayāga (the Sacrifice of the Warlocks):” ‘Kālasarnkarṣiṇī (Attractress of Time), who resides in the mouth and constantly generates (kalanī) inhalation and exhalation draws (karṣati) the triple time at the tip of the nose into the Heart by means of inhalations. By the retentions of the breath, she sustains (and checks) it (dhatte) and by exhalation she consumes it. Ascending by exhalation (within suṣumnā) she devours time completely in an instant. The power of the will (icchāśakti) that goes by the name of Parā awakens the three energies (of will, knowledge and action). Worthy of worship, she draws all the vital breath, which is the foundation of time, (into herself). 
+And so, it is said in the venerable Devyāyāmala in (the part of it) called the Dāmarayāga (the Sacrifice of the Warlocks):” ‘Kālasaṁkarṣiṇī (Attractress of Time), who resides in the mouth and constantly generates (kalanī) inhalation and exhalation draws (karṣati) the triple time at the tip of the nose into the Heart by means of inhalations. By the retentions of the breath, she sustains (and checks) it (dhatte) and by exhalation she consumes it. Ascending by exhalation (within suṣumnā) she devours time completely in an instant. The power of the will (icchāśakti) that goes by the name of Parā awakens the three energies (of will, knowledge and action). Worthy of worship, she draws all the vital breath, which is the foundation of time, (into herself). 
 
 TM 
 
@@ -1399,7 +1399,7 @@ As is said there (in the Devyāyāmala):
 
 The power of the will that goes by the name of Parā awakens the three energies. Worthy of worship she draws (into herself) all the wind (of the vital breath) which is the foundation of time." 
 
-Abhinava does not avoid the presentation of mantras, as he does iconic forms. He even goes so far as to argue that it is in certain circumstances permissible to acquire them from books, which is contrary to the basic norm that mantras should be learnt from a teacher, or at least, the most basic ones. Abhinava is happy to do that up to a point. He presents Trika mantras, conscious that they are not in the pblic domain. But he draws the line with Krama mantras, apart from the fundamental seed-syllable of the Goddess, that is, KHPHREM. The rest he keeps secret. Jayaratha helps us by quoting the Devyāyāmala’s presentation of Kālasarnkarṣiṇī’s seventeen syllable Vidyā in the Mālinī code." The ones given here below are drawn from a a liturgical work called the Kālikākulapañcakramakramārcana compilled by a certain Vimalaprabodha’“ probably around the 11\* century.” It is the only liturgical manual that has been recovered that teaches the ritual worship of the Pañcavāha which is the core of the teachings of the most developed form of the Krama system. It is recorded in the three texts called Mahānayaprakāśa as processes of the configurations of energies of cognitive consciousness. There we find the following Vidyās of Kālasaṁkarṣiṇī. 
+Abhinava does not avoid the presentation of mantras, as he does iconic forms. He even goes so far as to argue that it is in certain circumstances permissible to acquire them from books, which is contrary to the basic norm that mantras should be learnt from a teacher, or at least, the most basic ones. Abhinava is happy to do that up to a point. He presents Trika mantras, conscious that they are not in the pblic domain. But he draws the line with Krama mantras, apart from the fundamental seed-syllable of the Goddess, that is, KHPHREM. The rest he keeps secret. Jayaratha helps us by quoting the Devyāyāmala’s presentation of Kālasaṁkarṣiṇī’s seventeen syllable Vidyā in the Mālinī code." The ones given here below are drawn from a a liturgical work called the Kālikākulapañcakramakramārcana compilled by a certain Vimalaprabodha’“ probably around the 11\* century.” It is the only liturgical manual that has been recovered that teaches the ritual worship of the Pañcavāha which is the core of the teachings of the most developed form of the Krama system. It is recorded in the three texts called Mahānayaprakāśa as processes of the configurations of energies of cognitive consciousness. There we find the following Vidyās of Kālasaṁkarṣiṇī. 
 
 Piṇdanātha Saṁhārabīja 
 
@@ -1415,7 +1415,7 @@ HRĪM / KHPHREM” MAHĀCAṆDAYOGEŚVARI ṬTHR DHR TṬHR PHAṬ
 
 PHAT PHAT PHAT PHAṬ 
 
-961?\. ayar pathadvaye kālah sthūlaś carati yoginām | savyāpasavye madhye ca śaktitrayavibhūṣitah \\\\ sā graset trividharh kālaṁ kālasaṁkarṣiṇī tathā” \\ iti kālasaṁkarṣiṇīnāmnā kālarṁṁ mukhabile sthitam \\ śvāsanihśvāsakalanī tasya saṁkarṣaṇnari hrdi || pūrakeṇa samantāt tu kumbhakena ca dhārayet | recakenotthitā devī kāla sańgrasate \[illegible\] \\\\ iti icchāśaktih parānāmnā śaktitritayabodhinī | yājyā karṣayate sarvan kālādhāraprabhañjanam ||
+961?\. ayar pathadvaye kālaḥ sthūlaś carati yoginām | savyāpasavye madhye ca śaktitrayavibhūṣitaḥ \\\\ sā graset trividhaṁ kālaṁ kālasaṁkarṣiṇī tathā” \\ iti kālasaṁkarṣiṇīnāmnā kālarṁṁ mukhabile sthitam \\ śvāsanihśvāsakalanī tasya saṁkarṣaṇnari hṛdi || pūrakeṇa samantāt tu kumbhakena ca dhārayet | recakenotthitā devī kāla sańgrasate \[illegible\] \\\\ iti icchāśaktiḥ parānāmnā śaktitritayabodhinī | yājyā karṣayate sarvan kālādhāraprabhañjanam ||
 
 962?\. See TĀv 29/69-70ab.
 
@@ -1425,7 +1425,7 @@ PHAT PHAT PHAT PHAṬ
 
 965?\. According to the Dāmaramahāyāga.
 
-966?\. This Vidyā is drawn from a passage in the Devyāyāmala quoted in TĀv 29. According to Sanderson: ‘the norms for the formation of Ancillaries require us to understand. (1) that the anusvārah should be added not only after the Ā of the Heart but after all except the Weapon, which ending in H. does not receive this closure, and (2) that the prescription of the opening consonant cluster KHPHR should be applied throughout. Thus, we have the following: KHPHRĀM HRDAYĀYA NAMAH KHPHRĪM ŚIRASE SVĀHĀ KHPHRŪM ŚIKHAYAI VAUṢAṬ KHPHRAIM KAVACĀYA HUM KHPHRAUM NETRAYĀYA VAṢAṬ KHPHRAH ASTRĀYA PHAT This creates an implausible anomaly, since it is normal practice to form the ancillaries from the seed-syllable of the main mantra by substituting the six sounds ĀM, ĪM, ŪM, AIM, AUM, and AH for the vowel of that syllable. Since the main mantra has been given as OM HRĪM MAHĀCAṆDAYOGEŚVARI \[illegible\] that is to say, with HRĪM as its seed syllable, those of the ancillaries should have been HRĀM, HRĪM. HRÜM, HRAIM, HRAUM, and HRAH. From the fact that the section on the ancillaries has them begin with KHPHR rather than HR we may infer that it is highly probable that the author who composed this section had as his main Mantra not OM HRĪM MAHĀCANDAYOGEŚVARI \[illegible\] butt OM KHPHREM MAHĀCAṆDA-YOGEŚVARI PHAṬ which conforms to the practice of the Kālīkula, and therefore that the substitution of HRĪM may be the result either of a conscious modification that was not carried through to the form of the ancillaries, or, perhaps, of a scribal error.’
+966?\. This Vidyā is drawn from a passage in the Devyāyāmala quoted in TĀv 29. According to Sanderson: ‘the norms for the formation of Ancillaries require us to understand. (1) that the anusvāraḥ should be added not only after the Ā of the Heart but after all except the Weapon, which ending in H. does not receive this closure, and (2) that the prescription of the opening consonant cluster KHPHR should be applied throughout. Thus, we have the following: KHPHRĀM HRDAYĀYA NAMAH KHPHRĪM ŚIRASE SVĀHĀ KHPHRŪM ŚIKHAYAI VAUṢAṬ KHPHRAIM KAVACĀYA HUM KHPHRAUM NETRAYĀYA VAṢAṬ KHPHRAH ASTRĀYA PHAT This creates an implausible anomaly, since it is normal practice to form the ancillaries from the seed-syllable of the main mantra by substituting the six sounds ĀM, ĪM, ŪM, AIM, AUM, and AH for the vowel of that syllable. Since the main mantra has been given as OM HRĪM MAHĀCAṆDAYOGEŚVARI \[illegible\] that is to say, with HRĪM as its seed syllable, those of the ancillaries should have been HRĀM, HRĪM. HRÜM, HRAIM, HRAUM, and HRAH. From the fact that the section on the ancillaries has them begin with KHPHR rather than HR we may infer that it is highly probable that the author who composed this section had as his main Mantra not OM HRĪM MAHĀCANDAYOGEŚVARI \[illegible\] butt OM KHPHREM MAHĀCAṆDA-YOGEŚVARI PHAṬ which conforms to the practice of the Kālīkula, and therefore that the substitution of HRĪM may be the result either of a conscious modification that was not carried through to the form of the ancillaries, or, perhaps, of a scribal error.’
 
 
 *[p. 401]* ^pg419
@@ -1468,7 +1468,7 @@ The nine syllables of the Vidyā are presided over by the nine deities who are t
 
 967?\. TĀ 4/65-66; cf. TĀ 16/21-24ab.
 
-968?\. pūrvapatre \[k: sūrva-\] nyased raktāṁ praṇavāsanapūrvakām | \[. . .\] anenaiva vibhāgena dakṣināre karālinī \[k: -de karālini\] | paścime \[k: \[illegible\] caiva candākṣī mahocchuṣmā \[kh: -chuṣmā; k: -chuṣmāṁ\] tathottare || āgneye tu karālyākhyā \[k: -lākhyā\] nairrte \[k, kh: nairite\] danturā \[k: dantunāṁ\] tathā | vāyavye \[k: -vya\] bhīmavaktrā \[k, kh: -vaktrān\] tu īśāne \[k: i-\] tu mahābalā \\\\ pūrvakramenṇa vai devi yoginyo \[k: -nyā\] vinyased budhah | BY 30/21ab, 23-25ab These yoginīs appears throughtout the BY, but re.fer especially to chapters 29 and 30, where their mandala is described.
+968?\. pūrvapatre \[k: sūrva-\] nyased raktāṁ praṇavāsanapūrvakām | \[. . .\] anenaiva vibhāgena dakṣināre karālinī \[k: -de karālini\] | paścime \[k: \[illegible\] caiva candākṣī mahocchuṣmā \[kh: -chuṣmā; k: -chuṣmāṁ\] tathottare || āgneye tu karālyākhyā \[k: -lākhyā\] nairrte \[k, kh: nairite\] danturā \[k: dantunāṁ\] tathā | vāyavye \[k: -vya\] bhīmavaktrā \[k, kh: -vaktrān\] tu īśāne \[k: i-\] tu mahābalā \\\\ pūrvakramenṇa vai devi yoginyo \[k: -nyā\] vinyased budhaḥ | BY 30/21ab, 23-25ab These yoginīs appears throughtout the BY, but re.fer especially to chapters 29 and 30, where their mandala is described.
 
 
 *[p. 403]* ^pg421
@@ -1479,9 +1479,9 @@ The Seven Common Mantras
 
 Abhinava lists the basic mantras common to all schools of Śaivism as follows in TĀ 22/20. The reader is referred to the notes there for an analysis. 
 
-1\) OM, 2) Mātrkā, 3) Māyā, 4) Vyomavyāpin (the Pervader of the Sky), 5) the six-syllabled Mantra, 6) Bahurūpa (the Pluriform), and 7) the one called Netra (the Eye) ~ these are the seven (universal) common Mantras.’ 
+1\) OM, 2) Mātṛkā, 3) Māyā, 4) Vyomavyāpin (the Pervader of the Sky), 5) the six-syllabled Mantra, 6) Bahurūpa (the Pluriform), and 7) the one called Netra (the Eye) ~ these are the seven (universal) common Mantras.’ 
 
-969?\. bahurūpo ‘tha netrākhyah sapta sādhāraṇā amī ॥ TĀ 22/20
+969?\. bahurūpo ‘tha netrākhyaḥ sapta sādhāraṇā amī ॥ TĀ 22/20
 
 
 *[p. 404]* ^pg422
@@ -1497,7 +1497,7 @@ The Sacrifice
 अथातः संप्रवक्ष्यामि यजनं सर्वकामदम् |
 यस्य दर्शनमात्रेण योगिनीसंमतो भवेत् ॥ १ ॥
 
-athātah sarṁṁpravakṣyāmi yajanarn sarvakāmadam |
+athātaḥ sarṁṁpravakṣyāmi yajanarn sarvakāmadam |
 yasya darśanamātrena yoginīsahmato bhavet ॥ 1 ॥ 
 
 I will now talk about the sacrifice that bestows all that is desired, just by seeing which one is honoured by the Yoginīs. (1) 
@@ -1525,7 +1525,7 @@ The Six Purifying Baths
 ततः स्नात्वा जितद्रनद्रो भावस्नानेन मन्रवित् ।
 तच्च षडिवधमुदिष्टं भस्मस्नानानुक्रमात् ॥ ४ ॥
 
-tatah snātvā jitadvandvo bhāvasnānena mantravit |
+tataḥ snātvā jitadvandvo bhāvasnānena mantravit |
 tacca ṣadvidhamuddiṣtaṁ bhasmasnānādyanukramāt || 4 || 
 
 \[illegible\] the knower of mantra who has conquered the opposites, should bathe with the bath of mental states (bhāvasnāna), and that is taught as being of six kinds, beginning with the bath in ashes, in due order. (4) 
@@ -1540,7 +1540,7 @@ In the bathing with ashes? the ash is consecrated (abhimantrita) with the great 
 अभिषेकं तु कुर्वीत मूलेनैव षडद्धिना ॥ ६ ॥
 
 malasnānāya saṁmhārakramenṇoddhūlayettanum | 5 ||
-vidyāṁùgaih pañcabhih paścācchirah prabhrti gunthayet |
+vidyāṅgaiḥ pañcabhiḥ paścācchiraḥ prabhṛti gunthayet |
 abhiṣekaṁ tu kurvīta mūlenaiva\* ṣadaṁginā ॥ 6 ॥ 
 
 51\) In order to wash away dirt (malasnāna), he should cover the body with (the ash) in the sequence of withdrawal (i.e., from the feet to the head) with the five limbs of the Vidyā. Then he should envelop (the body with them) from the head onwards (down to the feet) and sprinkle (himself with water) with the root (mantra) and (its) six limbs. (5cd-6) 
@@ -1563,9 +1563,9 @@ abhiṣekaṁ tu kurvīta mūlenaiva\* ṣadaṁginā ॥ 6 ॥
 न्यासं कृत्वा तु सामान्यमधमर्ष द्वितीयया ।
 उपस्थानं च मालिन्या जपेच्चैकाक्षरां पराम् ॥ ८ ॥
 
-tato ‘vāsāh suvāsā vā hastau pādau ca dhāvayet |
+tato ‘vāsāḥ suvāsā vā hastau pādau ca dhāvayet |
 ācamya mārjanari kuryādvidyayā bhūrivarṇayā || 7 ||
-11) 54/81 krtvā tu sāmānyamaghamarṣaṁ dvitfīyayā |
+11) 54/81 kṛtvā tu sāmānyamaghamarṣaṁ dvitfīyayā |
 upasthānaṁi ca mālinyā japeccaikākṣarāṁ parām |l 8 ॥ 
 
 Without clothes or (dressed) in fine clothes, (the officiant) should then wash his hands and feet and, after having sipped water (ācamya), he should wipe (the body clean) (mārjana) with a Vidyā of many letters. Having performed the common deposition, prayed for purification (aghamarṣana) with the second (Vidyā) and attended reverently (upasthāna) with Mālinī, he should repeat (japet) the monosyllabic (Vidyā of) Parā (1-8) 
@@ -1574,7 +1574,7 @@ Without clothes or (dressed) in fine clothes, (the officiant) should then wash h
 पूर्वव्तनुमालभ्य मलस्नानं समाचरेत् ॥ ९ ॥
 विधिस्नानादिकं चात्र पर्ववत् कितु वारिणा ।
 
-jalasnāne ‘pi cāstreṇna mrda saptābhimantritām |
+jalasnāne ‘pi cāstreṇna mṛda saptābhimantritām |
 pūrvavattanumālabhya malasnānaṁi samācaret || 9 ||
 vidhisnānādikaṁ cātra pūrvavat (1011114 vāriṇā | 
 
@@ -1600,21 +1600,21 @@ toya vinikṣipenmürdhni mantrasnānāya mantravit |
 तदेव पुनरागच्छेदनुस्मृत्य परापरम् || १२ ॥
 rajasā godhutenaiva? vāyavyaṁ snānamācaret | 11 ॥
 mahāstramuccaran gaccheddhyānayuk padasaptakam |
-tadeva punarāgacchedanusmrtya parāparām || 12 ॥ 
+tadeva punarāgacchedanusmṛtya parāparām || 12 ॥ 
 
 4\) He should perform the ablution with Air by means of the dust shaken off (from the body of a) cow. Immersed in meditation and uttering the Great Weapon, he should walk seven paces and then again return back for that same (amount), recollecting (The Vidyā of) Parāparā."” (1 \\cd-12) 
 
 वषीतपसमायोगाहिव्योऽप्येवंविधो मतः ।
 कितु तत्र परां म्री खवन्तीममृतं स्मरेत् ॥ १३ ॥
-varṣātapasamāyogāddivyo ‘pyevaividho matah |
-kirtu tatra parām mantrī sravantīmamrtari smaret || 13 |l 
+varṣātapasamāyogāddivyo ‘pyevaividho mataḥ |
+kiṁtu tatra parām mantrī sravantīmamṛtari smaret || 13 |l 
 
 5\) The divine ablution, which is performed in conjunction with the rain and the sun, is considered to be like this, only that there (in that case), the reciter of mantra should (mentally) recollect (the Vidyā of) Parā as flowing forth nectar. (13) 
 
 असखरेणाङ्ष्टमूलात्तु वह्विमुत्थाप्य निर्दहेत् ।
 स्वतनुं प्ठावयेत्यश्चात्परयैवामृतेन तु | १४ ||
 astreṇnāṁguṣthamūlāttu vahnimutthāpya nirdahet |
-svatanurh plāvayetpaścātparayaivāmrtena tu || 14 ॥ 
+svatanuṁ plāvayetpaścātparayaivāmṛtena tu || 14 ॥ 
 
 6\) Having aroused the fire from the root of the big toe with the Weapon, he should thoroughly burn his own body (with it), and after that flood it with nectar with that same Parā (Vidyā). (Such is the ablution with fire). (14) 
 
@@ -1634,9 +1634,9 @@ Having taken up the mantra (previously projected onto) the Sun etc. he should go
 तत्र द्रारपतीन् पूज्य महासखरेणाभिमन्नितम् |
 पुष्पं विनिक्षिपेद््यात्वा ज्वटद्रिष्नप्रशान्तये ॥ १६ |
 
-yāgaveśmāstrasaiśuddhaṁ viśecchuciranākulah ॥ 15 ॥
+yāgaveśmāstrasaiśuddhaṁ viśecchuciranākulaḥ ॥ 15 ॥
 tatra dvārapatīn pūjya mahāstreṇābhimantritam |
-puṣpar vinikṣipeddhyātvā jvaladvighnapraśāntaye ॥ 16 ॥ 
+puṣpaṁ vinikṣipeddhyātvā jvaladvighnapraśāntaye ॥ 16 ॥ 
 
 (After bathing) Unperturbed and pure, he should enter into the abode of the sacrifice that has been purified with (the mantra of) the Weapon. Having worshipped the Lords of the Door there, he should throw a burning flower consecrated with (the mantra of) the Great Weapon, having meditated (on it) in order to pacify the obstacles.” (15cd-16) 
 
@@ -1646,9 +1646,9 @@ puṣpar vinikṣipeddhyātvā jvaladvighnapraśāntaye ॥ 16 ॥
 तत्रादावसखरमन्रेण कालानलसमत्विषा || १८ ||
 अद्धुष्ठाग्रात्तनुं दग्धां सबाह्याभ्यन्तरां स्मरेत् ।
 
-daśasvapi tato ‘streṇa dikṣu sarhkalpya rakṣaṇam |
-praviśedyāgasadanaṁ vahnivadvahnisarnyutam ॥ 17 ॥
-pūrvāsyah saumyavaktro vā viśeṣanyāsamārabhet |
+daśasvapi tato ‘streṇa dikṣu saṁkalpya rakṣaṇam |
+praviśedyāgasadanaṁ vahnivadvahnisaṁyutam ॥ 17 ॥
+pūrvāsyaḥ saumyavaktro vā viśeṣanyāsamārabhet |
 tatrādāvastramantreṇa kālānalasamatviṣā” || 18 ॥
 aṁguṣthāgrāttanunṁ dagdhāṁ sabāhyābhyantarāri smaret | 
 
@@ -1673,7 +1673,7 @@ Then, after having mentally created a protective barrier (rakṣana) in the ten 
 
 vikīryamāṇar tadbhasma dhyātvā kavacavāyunā ॥ 19 ||
 sivabindusamākāramātmānamanucintayet |
-tato ‘sya yojayecchaktih so ‘hamityaparājitah Il 20 ॥ 
+tato ‘sya yojayecchaktiḥ so ‘hamityaparājitaḥ Il 20 ॥ 
 
 Once having visualized that the ash of that (body) is scattered by the wind of the Armour, he should then think that the form of the Self is that of Śiva’s Point (sivabindu), and should then conjoin (Śiva’s) unconquered” power, which is SO ‘HAM, to it.” (19cd-20) 
 
@@ -1688,18 +1688,18 @@ Navātman, Limbs and Faces
 सर्वसिद्धिकरश्रायं सरहस्यमुदाहतः |
 
 vidyāmūrtiṁ tato dadhyānmantrenānena śāṁkari |
-dandākrāntah mahāprāṇnari dandārūdharni sanābhikam I| 21 ॥
-nitambarh tadadhastācca vāmastanamadhah punah |
+dandākrāntaḥ mahāprāṇnari dandārūdharni sanābhikam I| 21 ॥
+nitambaṁ tadadhastācca vāmastanamadhaḥ punaḥ |
 \[illegible\] ca vāmaśikharaṁn vāmamudrāvibhūṣitam ॥ 22 I|
 bindvardhacandrakharn nādaśaktibinduvibhūṣitam |
-\[illegible\] pindavaro devi navātmaka iti śrutah ॥ 23 ॥
-sarvasiddhikaraścāyamṁi sarahasyamudāhrtah | 
+\[illegible\] pindavaro devi navātmaka iti śrutaḥ ॥ 23 ॥
+sarvasiddhikaraścāyamṁi sarahasyamudāhṛtaḥ | 
 
-He should then add the Vidyāmūrti® by means of the (following) Mantra. The great vital breath (H) preceded and followed (ākrānta) by the staff (R), the navel (K\$), the hip (M), the left breast (L), the neck (V), the left part of the back (Y) adorned with ornament of the left (ear) (Ū) and (then) the Void of the Point and the Half Moon adorned with Sound (nāda) and Śakti’s Point 
+He should then add the Vidyāmūrti by means of the (following) Mantra. The great vital breath (H) preceded and followed (ākrānta) by the staff (R), the navel (KṢ), the hip (M), the left breast (L), the neck (V), the left part of the back (Y) adorned with ornament of the left (ear) (Ū) and (then) the Void of the Point and the Half Moon adorned with Sound (nāda) and Śakti’s Point 
 
-984?\. See 15/232cd-239ab. Read aparājitām for aparājitah. Gnoli (1999: 669 n 2) suggests the reading orh ham ity aparājitām for so ‘ham ity aparājitah that is OM HAM for SO ‘HAM.
+984?\. See 15/232cd-239ab. Read aparājitām for aparājitaḥ. Gnoli (1999: 669 n 2) suggests the reading oṁ ham ity aparājitām for so ‘ham ity aparājitaḥ that is OM HAM for SO ‘HAM.
 
-985?\. See TĀ 15/232cd-239ab. Read aparājitām for aparājitah. Gnoli suggests possibly emending Saktim so ‘ham to ŝaktim orh ham.
+985?\. See TĀ 15/232cd-239ab. Read aparājitām for aparājitaḥ. Gnoli suggests possibly emending Saktim so ‘ham to śaktim oṁ ham.
 
 986?\. Literally ‘the icon of the Vidya’. This is formed from Navātman ~ RHRKṢMLVYŪM. Concerning this seed syllable Mantra, see TĀ 30/1 Icd-16ab.
 
@@ -1713,14 +1713,14 @@ He should then add the Vidyāmūrti® by means of the (following) Mantra. The gr
 क्षयरवलबीजे् दीपतरविनदुविभूषितैः ॥ २५ |
 वक्त्राणि कल्पयेत्ूर्वमृध्ववकत्रादित : क्रमात् ।
 
-eṣa tryarnojjhito ‘dhastāddīrghaih ṣadbhih svarairyutah ॥ 24 ॥
-ṣadaṁgāni hrdādīni jātibhedena kalpayet |
-kṣayaravalabījaiśca dīptairbinduvibhūṣitaih ॥ 25 ॥
-vaktrāṇi kalpayetpūrvamūrdhvavaktrāditah kramāt | 
+eṣa tryarnojjhito ‘dhastāddīrghaiḥ ṣadbhiḥ svarairyutaḥ ॥ 24 ॥
+ṣadaṁgāni hṛdādīni jātibhedena kalpayet |
+kṣayaravalabījaiśca dīptairbinduvibhūṣitaiḥ ॥ 25 ॥
+vaktrāṇi kalpayetpūrvamūrdhvavaktrāditaḥ kramāt | 
 
-Omitting the last three (letters of Navātmā), one should fashion (its) six limbs, that is, the Heart and the rest, with the six (letters) that follow, conjoined with the six long vowels, along with the syllabic invocation \[illegible\] (corresponding to each limb). ® The faces should be fashioned (kalpayet) beginning with the upper face (i.e., \[illegible\] in due order with the energized seeds \[illegible\] Y, R, V, and L, decorated with the Point.” (24cd-26ab)? 
+Omitting the last three (letters of Navātmā), one should fashion (its) six limbs, that is, the Heart and the rest, with the six (letters) that follow, conjoined with the six long vowels, along with the syllabic invocation \[illegible\] (corresponding to each limb).  The faces should be fashioned (kalpayet) beginning with the upper face (i.e., \[illegible\] in due order with the energized seeds \[illegible\] Y, R, V, and L, decorated with the Point.” (24cd-26ab)? 
 
-Mātrkānyāsa 
+Mātṛkānyāsa 
 
 परत्य्गविधिसिद्रथ ललादिष्वथो न्यसेत् | | २६ ||
 pratyaṁgavidhisiddhyarthari lalātādiṣvatho nyaset ॥ 26 ॥ 

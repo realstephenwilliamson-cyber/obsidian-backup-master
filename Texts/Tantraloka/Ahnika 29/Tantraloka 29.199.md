@@ -31,5 +31,8 @@ sakampastvādadānaḥ syāt samayī vācanādiṣu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 359–360)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.198–200]]
+
 Jayaratha comments on this verse together with 29.200: see [[Tantraloka 29.200#Viveka|29.200]].
 

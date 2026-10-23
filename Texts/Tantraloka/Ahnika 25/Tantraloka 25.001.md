@@ -32,6 +32,13 @@ atha śrāddhavidhiḥ śrīmatṣaḍardhokto nigadyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 355)
+> ![[Tantraloka Dyczkowski v09 16 - Chapter Twenty-Five, opening page#Viveka on 25.1]]
+>
+> ![[Tantraloka Dyczkowski v09 16 - Chapter Twenty-Five, opening page#Viveka on 25.1–2]]
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.1–2 (continued)]]
+
 *Lead-in:* इदानीं द्वितीयार्धेन श्राद्धविधिमभिधातुमाह--
 
 > अथ श्राद्धविधिः श्रीमत्षडर्धोक्तो निगद्यते ॥

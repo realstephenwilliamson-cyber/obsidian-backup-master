@@ -34,6 +34,9 @@ svalpā kriyā bhūyasī vā hṛdayāhlādadāyibhiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 391)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.58–59]]
+
 *Lead-in:* मोक्षे पुनः कश्चिद्विशेषो नास्ति--इत्याह--
 
 Jayaratha comments on this verse together with 26.59: see [[Tantraloka 26.059#Viveka|26.59]].

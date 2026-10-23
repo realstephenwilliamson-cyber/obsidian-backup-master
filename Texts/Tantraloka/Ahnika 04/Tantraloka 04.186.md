@@ -36,6 +36,11 @@ tathā hi sadidaṃ brahmamūlaṃ māyāṇḍasaṃjñitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 285–289)
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.185–186]]
+>
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.186–188]]
+
 *Lead-in:* एतदेव प्रमेयान्तरगर्भीकारेणापि उपपादयति --
 
 Jayaratha comments on this verse together with 4.185: see [[Tantraloka 04.185#Viveka|4.185]].

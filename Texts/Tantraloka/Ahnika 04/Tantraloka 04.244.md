@@ -36,6 +36,11 @@ bahiḥ satsvapi bhāveṣu śuddhyaśuddhī na nīlavat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 341–342)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.244]]
+>
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.244–245]]
+
 *Lead-in:* ननु यद्येवं तन्मुनिभिर्गेमांसादि कथमभक्ष्यतयोपदिष्टम् ? -- इत्याशङ्क्याह --
 
 > लोकसंरक्षणार्थं तु तत्तत्त्वं तैः प्रगोपितम् ।

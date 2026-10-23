@@ -31,6 +31,9 @@ pradhānaṃ ca tathā tasmāt kāryaṃ nātmā tu cetanaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 134–135)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.153]]
+
 *Lead-in:* नन्वन्यैः प्रकृतेर्मूलकारणत्वमुक्तं तत्कथमिह मायाया एवमभिधानम् ? -- इत्याशङ्क्याह --
 
 > अचेतनमनेकात्म सर्वं कार्यं यथा घटः ।

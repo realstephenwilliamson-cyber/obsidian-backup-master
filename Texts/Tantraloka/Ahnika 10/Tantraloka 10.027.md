@@ -33,6 +33,11 @@ arthagrahaṇarūpaṃ hi yatra vijñānamātmani || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 311–312)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.27]]
+>
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.27–28]]
+
 *Lead-in:* ननु यद्येवं तर्हि भावः कथं विदिक्रियाकर्मतामियात् ? -- इत्याशङ्क्याह --
 
 > भावस्य वेद्यता सैव संविदो यः समुद्भवः ।

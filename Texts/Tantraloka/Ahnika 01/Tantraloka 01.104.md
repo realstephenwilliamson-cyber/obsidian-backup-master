@@ -38,6 +38,9 @@ tena patiḥ śreyomaya eva śivo nāśivaṃ kimapi tatra || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 260–262)
+> ![[Tantraloka Dyczkowski v01 08 - Chapter One, part 7#Viveka on 1.104]]
+
 *Lead-in:* शासनेत्यादिना पतिशिवशब्दयोर्निर्वचनमाह --
 
 > शासनरोधनपालनपाचनयोगात्स सर्वमुपकुरुते ।

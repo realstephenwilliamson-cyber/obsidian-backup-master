@@ -34,6 +34,9 @@ potārūḍho jalasyāntarmadyapānavighūrṇitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 69–79)
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.20–22]]
+
 > पोतारूढो जलस्यान्तर्मद्यपानविघूर्णितः ॥
 
 > स देवं भैरवं ध्यायन् नागैश्च परिवारितः ॥

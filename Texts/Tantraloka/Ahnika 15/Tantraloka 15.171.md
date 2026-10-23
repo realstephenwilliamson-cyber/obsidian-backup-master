@@ -33,6 +33,11 @@ pañcagavye pavitratvaṃ somacarṇanapātrayoḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 107–108)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.170–171]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.171–173]]
+
 *Lead-in:* न केवलं मद्यादेर्लोकस्थितावशुद्धस्यापि शुद्धिरुक्ता, यावदन्यदप्येवंप्रकारं बहुतरम्--इत्याह--
 
 Jayaratha comments on this verse together with 15.170: see [[Tantraloka 15.170#Viveka|15.170]].

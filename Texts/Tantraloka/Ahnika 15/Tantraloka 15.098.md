@@ -33,6 +33,11 @@ yathā svabhāvato mlecchā adharmapathavartinaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 68)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.97–98]]
+>
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.98–99]]
+
 *Lead-in:* ननु देव्यश्चेदेवं, तावता बहिः पीठत्वं कुतस्त्यम् ?-- इत्याशङ्कां दृष्टान्तप्रदर्शनेन उपशमयति—
 
 > यथा स्वभावतो म्लेच्छा अधर्मपथवर्तिनः ॥

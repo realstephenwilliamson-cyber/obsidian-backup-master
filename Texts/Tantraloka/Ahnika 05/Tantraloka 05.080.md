@@ -37,6 +37,11 @@ antarlakṣyo bahirdṛṣṭiḥ paramaṃ padamaśnute || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 99–101)
+> ![[Tantraloka Dyczkowski v04 05 - Chapter Five, part 3#Viveka on 5.80]]
+>
+> ![[Tantraloka Dyczkowski v04 05 - Chapter Five, part 3#Viveka on 5.80 (2)]]
+
 *Lead-in:* ननु यद्येवं तर्ह्यस्य सङ्कोचविकासवत्त्वेन नानात्वात् जाड्यमापतेत् -- इति समाप्तं विश्रान्तिस्थानत्वम् ? -- इत्याशङ्क्याह --
 
 > असङ्कोचविकासोऽपि तदाभासनतस्तथा ।

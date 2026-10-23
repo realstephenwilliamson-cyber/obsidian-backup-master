@@ -34,6 +34,9 @@ ityevaṃ vadatā śaktitāratamyābhidhāyinā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 239)
+> ![[Tantraloka Dyczkowski v09 11 - Chapter Twenty#Viveka on 20.11–13]]
+
 > श्रीपूर्वशास्त्रेऽप्येषा च सूचिता परमेशिना ॥
 > आनन्द उद्भवः कम्पो निद्रा घूर्णिश्च पञ्चमी ।
 > इत्येवं वदता शक्तितारतम्याभिधायिना ॥

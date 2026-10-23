@@ -34,6 +34,9 @@ viśeṣastvayametasyāṃ yāvajjīvaṃ śiśorguruḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 184–185)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.99–100]]
+
 > सबीजायां तु दीक्षायां समयान्न विशोधयेत् ॥
 > विशेषस्त्वयमेतस्यां यावज्जीवं शिशोर्गुरुः ।
 > शेषवृत्त्यै शुद्धतत्त्वसृष्टिं कुर्वीत पूर्णया ॥

@@ -37,6 +37,11 @@ aṃśenāpyatha vaiṣamye na tato'rthakriyā hi sā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 120–121)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.270–271]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.271]]
+
 *Lead-in:* ननु असिद्धं सर्वसाम्यं, मन्त्रेतरस्य हि अभिजल्पस्य भिन्नैवानुपूर्वी ?--इत्याशङ्क्याह--
 
 > अंशेनाप्यथ वैषम्ये न ततोऽर्थक्रिया हि सा ॥

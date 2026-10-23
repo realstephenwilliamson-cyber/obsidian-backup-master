@@ -34,5 +34,8 @@ tato manuṣyatāmetya punarevaṃ karotyapi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 32–33)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.65–68]]
+
 Jayaratha comments on this verse together with 16.67: see [[Tantraloka 16.067#Viveka|16.67]].
 

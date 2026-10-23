@@ -31,6 +31,9 @@ mumukṣuratha tasmai vā yathābhīṣṭaṃ samācaret |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 94–95)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.143–145]]
+
 > क्रियया सिद्धिकामो यः स क्रियां भूयसीं चरेत् ।
 > अनीप्सुरपि यस्तस्मै भूयसे स्वफलाय सा ॥
 > यस्तु ध्यानजपाभ्यासैः सिद्धीप्सुः स क्रियां परम् ।

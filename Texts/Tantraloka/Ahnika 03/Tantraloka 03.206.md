@@ -36,6 +36,11 @@ tena śrītrīśikāśāstre śakteḥ sampuṭitākṛtiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 325–326)
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.205–206]]
+>
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.206]]
+
 *Lead-in:* अत एव चागमोऽप्येवम् -- इत्याह --
 
 > तेन श्रीत्रीशिकाशास्त्रे शक्तेः सम्पुटिताकृति ॥

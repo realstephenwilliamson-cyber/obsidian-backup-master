@@ -31,6 +31,9 @@ yathāpsu śāntaye mantrāstadvadastrādiṣu dhruvam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 420)
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.47]]
+
 *Lead-in:* ननु किमनेकैः स्थण्डिलादिभिः पूजाधारैः ?--इत्याशङ्कां गर्भीकृत्य विषयविभागं दर्शयति--
 
 > यथाप्सु शान्तये मन्त्रास्तद्वदस्त्रादिषु ध्रुवम् ।

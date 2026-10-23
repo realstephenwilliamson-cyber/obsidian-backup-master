@@ -33,5 +33,10 @@ haṃ nāle yaṃ tathā raṃ laṃ vaṃ dharmādicatuṣṭaye |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 3–4)
+> ![[Tantraloka Dyczkowski v11 02 - Chapter Thirty, part 1#Viveka on 30.4–5]]
+>
+> ![[Tantraloka Dyczkowski v11 02 - Chapter Thirty, part 1#Viveka on 30.5]]
+
 Jayaratha comments on this verse together with 30.11: see [[Tantraloka 30.011#Viveka|30.11]].
 

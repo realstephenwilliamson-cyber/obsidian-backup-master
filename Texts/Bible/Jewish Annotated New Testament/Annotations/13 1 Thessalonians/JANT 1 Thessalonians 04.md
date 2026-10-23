@@ -24,7 +24,7 @@ Text: [[NRSVue 1 Thessalonians 04|NRSVue]] · [[1 Thessalonians 04|BSB and SBLGN
 
 **[[NRSVue 1 Thessalonians 04#^4-3|3]]:** *Will of God*, [[LXX Tobit 12#^12-18|Tob 12.18]]; [[LXX 2 Maccabees 01#^1-3|2 Macc 1.3–4]]; [[LXX 2 Maccabees 12#^12-16|12.16]]. *Sanctification*, or “holiness” (same word in vv 4,7); believers are called to be “set apart” (Heb “qadosh”) by their conduct (see, e.g., [[Torah 30 - Kedoshim#^19-2|Lev 19.2]]), which leads to eternal life (see [[Romans 06#^6-22|Rom 6.22]]). *Fornication*, sexual relations outside marriage, seen by some Jews as a particularly pagan sin (e.g., *Jub*. 25.1). ^4-3
 
-**[[NRSVue 1 Thessalonians 04#^4-4|4]]:** *Control your own body*, lit., “control your own vessel,” which could mean either one’s sexual organs or one’s wife; see translators note *a*, [[I Samuel 21#^21-6|1 Sam 21.5]], and *b. Meg.* 12b, where “vessel” (Heb “kli”) has a sexual connotation. ^4-4
+**[[NRSVue 1 Thessalonians 04#^4-4|4]]:** *Control your own body*, lit., “control your own vessel,” which could mean either one’s sexual organs or one’s wife; see translators note *a*, [[I Samuel 21#^21-6|1 Sam 21.5]], and [[Megillah 12#12b|*b. Meg.* 12b]], where “vessel” (Heb “kli”) has a sexual connotation. ^4-4
 
 **[[NRSVue 1 Thessalonians 04#^4-5|5]]:** *Lustful passion . . . Gentiles*, Paul identified Gentiles’ idolatry with immorality, especially sexual licentiousness (see [[Romans 01#^1-24|Rom 1.24–27]]; [[Galatians 05#^5-19|Gal 5.19–21]]; [[1 Timothy 01#^1-9|1 Tim 1.9–10]]; see also *m. Avod. Zar.* 2.1). The vice list reminds the Thessalonians what they have left behind (see [[1 Corinthians 06#^6-9|1 Cor 6.9–11]]) in turning to the God of Israel. *Who do not know God*, [[Jeremiah 10#^10-25|Jer 10.25]]. ^4-5
 

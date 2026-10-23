@@ -34,6 +34,11 @@ praṇavo hṛdayaṃ nāma śodhayāmyagnivallabhā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 311–312)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.509–510]]
+>
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.510–511]]
+
 *Lead-in:* मन्त्रपूर्वकैरित्युक्तिं स्फुटयति--
 
 > प्रणवो हृदयं नाम शोधयाम्यग्निवल्लभा ॥

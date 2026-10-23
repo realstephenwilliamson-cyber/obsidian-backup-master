@@ -36,6 +36,11 @@ jīvaṃ samarasīkuryāddevīcakreṇa bhāvanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 20–21)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.45–47]]
+>
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.47–48]]
+
 *Lead-in:* नन्वेवमाहृतैरेभिः किं कुर्यात्?--इत्याशङ्क्याह--
 
 > जीवं समरसीकुर्याद्देवीचक्रेण भावनात् ॥

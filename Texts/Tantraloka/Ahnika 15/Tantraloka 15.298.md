@@ -31,5 +31,10 @@ potarūpaṃ marutkandasvabhāvaṃ viśvasūtraṇāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 178–180)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 15.302–303.*
+>
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.302–303]]
+
 Jayaratha comments on this verse together with 15.302: see [[Tantraloka 15.302#Viveka|15.302]].
 

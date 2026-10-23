@@ -31,6 +31,9 @@ mamecchāmanuvartantāmityatrāhaṃvidi sphuret |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 359–360)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.29–30]]
+
 *Lead-in:* तदग्रहणमेवोपपादयति --
 
 Jayaratha comments on this verse together with 14.30: see [[Tantraloka 14.030#Viveka|14.30]].

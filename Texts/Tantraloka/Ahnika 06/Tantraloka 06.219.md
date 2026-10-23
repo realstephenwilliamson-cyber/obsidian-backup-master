@@ -35,6 +35,9 @@ praveśa iti ṣaḍvarṇāḥ sūryendupathagāḥ kramāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 426–427)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.219–221]]
+
 *Lead-in:* द्वितीयं परतमपि एषामुदयमभिधातुमाह --
 
 Jayaratha comments on this verse together with 6.221: see [[Tantraloka 06.221#Viveka|6.221]].

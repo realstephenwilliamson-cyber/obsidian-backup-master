@@ -35,6 +35,9 @@ rātrau ca hrāsavṛddhyatra kecidāhurna ke'pi tu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 444)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.241]]
+
 *Lead-in:* तत्र वर्गक्रमेण तावद्वर्णानां स्थूलमुदयमाह --
 
 > एकैकमर्धप्रहरं दिने वर्गाष्टकोदयः ।

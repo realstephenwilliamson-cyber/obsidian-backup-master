@@ -36,6 +36,11 @@ taccāpi kḷptavedyatvaṃ yatra bhāti sa cinmayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 18–19)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.25–26]]
+>
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.26–27]]
+
 *Lead-in:* एवमुपदेश्यत्वादेव वेद्यभावः पुनरवस्थितः -- इत्यस्य केनचिद्वेदकेन भाव्यम्, स एव पुनः कतरः ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 11.25: see [[Tantraloka 11.025#Viveka|11.25]].

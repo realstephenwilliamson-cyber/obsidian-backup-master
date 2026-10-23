@@ -36,6 +36,11 @@ kālāgnerbhuvanaṃ cordhve koṭiyojanamucchritam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 69–80)
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.20–22]]
+>
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.22–23]]
+
 *Lead-in:* इदानीं ब्रह्माण्डस्यान्तर्भुवनानि वक्तुमुपक्रमते --
 
 > कालाग्नेर्भुवनं चोर्ध्वे कोटियोजनमुच्छिर्तम् ॥

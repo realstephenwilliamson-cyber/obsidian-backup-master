@@ -33,6 +33,11 @@ tathaiva sā prasiddhirhi svayūthyaparayūthyagā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 212–213)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.35]]
+>
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.35 (2)]]
+
 *Lead-in:* प्रकृतमेव उपसंहरति--
 
 > तदेक एवागमोऽयं चित्रश्चित्रेऽधिकारिणि ।

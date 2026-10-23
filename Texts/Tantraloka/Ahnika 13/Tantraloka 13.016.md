@@ -31,6 +31,9 @@ prāgabhāvo'thavā dhvaṃsa ādye kiṃ sarvasaṃvidām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 133)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.16–17]]
+
 *Lead-in:* तन्नैतद्युक्तमज्ञानविनिवर्तनद्वारेण कर्म निष्फलीक्रियते न वा -- इति दूरदूरा चिन्ता स्यात् ? -- इत्याशङ्क्याह -
 
 > अज्ञानमिति यत्प्रोक्तं ज्ञानाभावः स चेत्स किम् ।

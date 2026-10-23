@@ -31,6 +31,9 @@ sarvāṃ tantroditāṃ dhyāyejjapeccātanmayatvataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 311–313)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.31–32]]
+
 *Lead-in:* इदानीमस्य आचार्यस्य विद्याव्रतमभिधत्ते--
 
 Jayaratha comments on this verse together with 23.32: see [[Tantraloka 23.032#Viveka|23.32]].

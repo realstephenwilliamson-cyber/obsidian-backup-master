@@ -31,6 +31,9 @@ sa eva pratibhāyuktaḥ śaktitattvaṃ nigadyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 237–238)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.186–187]]
+
 *Lead-in:* नन्वात्मा स्वत एव शुद्धबोधस्वभाव इति किं नामास्यावशिष्यते यत्प्रतिभा कुर्यादिति किं तयास्य? -- इत्याशङ्क्याह --
 
 > भूतेन्द्रियादियोगेन बद्धोऽणुः संसरेद् ध्रुवम् ।

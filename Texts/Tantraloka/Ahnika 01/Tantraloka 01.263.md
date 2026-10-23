@@ -35,6 +35,9 @@ parīkṣaṇaṃ tathādhyakṣe vikalpānāṃ paramparā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 439–440)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.263]]
+
 *Lead-in:* एतदेव क्रमेण दर्शयति --
 
 Jayaratha comments on this verse together with 1.266: see [[Tantraloka 01.266#Viveka|1.266]].

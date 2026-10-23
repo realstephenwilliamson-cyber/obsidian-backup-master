@@ -34,6 +34,9 @@ bhavedeva tataḥ prāṇaspandābhāve na sā bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 19)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.28]]
+
 *Lead-in:* ननु संयोगविभागितापि किं सकारणिका भवेत् न वा ? -- इत्याशङ्क्याह --
 
 > सा चेदुदयते स्पन्दमयी तत्प्राणगा ध्रुवम् ।

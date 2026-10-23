@@ -35,5 +35,10 @@ kṣīṇāyāṃ niśi tāvatyāṃ gahaneśaḥ sṛjetpunaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 373)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.155–156]]
+>
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.155–156 (continued)]]
+
 Jayaratha comments on this verse together with 6.157: see [[Tantraloka 06.157#Viveka|6.157]].
 

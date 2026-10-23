@@ -31,6 +31,9 @@ eṣā sāṃnyāsikī dīkṣā puryaṣṭakaviśodhanī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 352–353)
+> ![[Tantraloka Dyczkowski v09 15 - Chapter Twenty-Four#Viveka on 24.20]]
+
 > तद्विधिः श्रुतिपत्रेऽब्जे मध्ये देवं सदाशिवम् ।
 > ईशरुद्रहरिब्रह्मचतुष्कं प्राग्दिगादितः ॥
 > पूजयित्वा श्रुतिस्पर्शौ रसं गन्धं वपुर्द्वयम् ।

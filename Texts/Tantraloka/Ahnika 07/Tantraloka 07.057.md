@@ -34,6 +34,9 @@ tattvodayayutaṃ nityaṃ pṛthagbhūtaṃ japetsadā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 39–40)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.57–59]]
+
 *Lead-in:* ननु जितप्राणस्यारूढस्य योगिनः किं नामासाध्यं यन्न प्राणगं कुर्यात्, प्राणं जयतः पुनरारुरुक्षोः कथमेतत्सिध्येत् ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 7.58: see [[Tantraloka 07.058#Viveka|7.58]].

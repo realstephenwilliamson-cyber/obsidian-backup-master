@@ -35,6 +35,9 @@ sā svātantryācchivābhede yuktetyuktaṃ ca śāsane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 82–83)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.92]]
+
 *Lead-in:* नन्वध्वषट्कस्य शोध्यत्वं परापरादीनां मन्त्राणां शोधकत्वं चेति यदुक्तं तदिदं संबन्धमन्तरेणायःशलाकाकल्पत्वे कथं घटताम्? -- इत्याशङ्क्याह --
 
 > यच्चैतदध्वनः प्रोक्तं शोध्यत्वं शोद्धृता च या ।

@@ -34,6 +34,9 @@ amiśrāstadvadekasmiṃścinnāthe viśvavṛttayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 68–71)
+> ![[Tantraloka Dyczkowski v02 04 - Chapter Three, part 1#Viveka on 3.4]]
+
 *Lead-in:* तदाह—
 
 > निर्मले मकुरे यद्वद्भान्ति भूमिजलादयः ।

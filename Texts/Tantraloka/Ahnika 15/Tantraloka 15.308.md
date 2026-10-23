@@ -31,6 +31,9 @@ māyottīrṇaṃ hi yadrūpaṃ brahmādīnāṃ puroditam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 182–183)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.308]]
+
 *Lead-in:* ननु मायान्तर्वर्तिनो ब्रह्मादय इति कथमेषां तद्दशाधिशायित्वं स्यात्?--इत्याशङ्क्य आह--
 
 > मायोत्तीर्णं हि यद्रूपं ब्रह्मादीनां पुरोदितम् ।

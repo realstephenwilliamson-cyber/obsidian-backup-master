@@ -33,6 +33,11 @@ nāḍīcakreṣu saṅkocavikāsau viparītataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 102–103)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.227–228]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.228–230]]
+
 *Lead-in:* तद्विघटनमेव दर्शयति--
 
 Jayaratha comments on this verse together with 28.227: see [[Tantraloka 28.227#Viveka|28.227]].

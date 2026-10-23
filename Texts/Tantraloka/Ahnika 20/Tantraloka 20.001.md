@@ -33,6 +33,9 @@ atha dīkṣāṃ bruve mūḍhajanāśvāsapradāyinīm || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 231–234)
+> ![[Tantraloka Dyczkowski v09 11 - Chapter Twenty#Viveka on 20.1]]
+
 *Lead-in:* इदानीं द्वितीयार्धेन सप्रत्ययां दीक्षां वक्तुमाह--
 
 > अथ दीक्षां ब्रुवे मूढजनाश्वासप्रदायिनीम् ॥

@@ -33,6 +33,11 @@ na cāsau karmabhedena tasyaivānupapattitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 145–146)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.168–169]]
+>
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.169]]
+
 *Lead-in:* नन्वसौ कर्मभेदाद्भविष्यति, सुखादीनां कर्म निमित्तम्, तच्च प्रत्यात्मभिन्नम् ? -- इत्याशङ्क्याह -
 
 > न चासौ कर्मभेदेन तस्यैवानुपपत्तितः ॥

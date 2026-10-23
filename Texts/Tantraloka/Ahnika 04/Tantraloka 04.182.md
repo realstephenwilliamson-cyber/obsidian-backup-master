@@ -36,6 +36,11 @@ hṛdaye svavimarśo'sau drāvitāśeṣaviśvakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 280–283)
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.181–182]]
+>
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.182–183]]
+
 *Lead-in:* न केवलमयहंपरामर्शः शास्त्रे हृदयतयेव उक्तो, यावत् स्पन्दादिरूपतयापि, इत्याह --
 
 Jayaratha comments on this verse together with 4.181: see [[Tantraloka 04.181#Viveka|4.181]].

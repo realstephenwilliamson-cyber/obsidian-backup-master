@@ -34,6 +34,9 @@ ukto yastena taddoṣābhāve'sau na niṣiddhatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 83–84)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.66]]
+
 *Lead-in:* ननु यद्येवं श्वयं गृहीतमन्त्राश्च क्लिश्यन्ते चाल्पबुद्धयः ।"इत्यादिना पुस्तकाधीतविद्यानं क्लेशभागित्वाद्यात्मा दोषः कस्मादन्यत्रोक्तः? इत्याशङ्क्याह --
 
 > मते च पुस्तकाद्विद्याध्ययने दोष ईदृशः ।

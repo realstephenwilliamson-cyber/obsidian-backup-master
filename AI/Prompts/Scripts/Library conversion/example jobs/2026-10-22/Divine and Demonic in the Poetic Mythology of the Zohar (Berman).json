@@ -1,0 +1,72 @@
+{
+ "pdf": "/mnt/user-data/uploads/Obsidian Vault/Library/Judaica/Divine and Demonic in the Poetic Mythology of the Zohar-BRILL (2018).pdf",
+ "pdf_vault": "Library/Judaica/Divine and Demonic in the Poetic Mythology of the Zohar-BRILL (2018).pdf",
+ "catalog": "Catalog/Judaica/Berman - Divine and Demonic in the Poetic Mythology of the Zohar",
+ "route": "pymupdf",
+ "title": "Divine and Demonic in the Poetic Mythology of the Zohar",
+ "authors": [
+  "Nathaniel Berman"
+ ],
+ "byline": "Nathaniel Berman. Brill, 2018.",
+ "folder": "Library/Judaica/Divine and Demonic in the Poetic Mythology of the Zohar (Berman)",
+ "index_name": "Divine and Demonic in the Poetic Mythology of the Zohar (Berman)",
+ "prefix": "Divine and Demonic",
+ "out": "/home/claude/p4/out",
+ "date": "2026-10-22",
+ "ctype": "book",
+ "single": false,
+ "text_source": "PDF text layer (born-digital), PyMuPDF",
+ "toc": [
+  [
+   1,
+   "Contents",
+   8
+  ],
+  [
+   1,
+   "Prefatory Note - Bibliography, Footnotes, Principal Texts, Translations, and Transliterations",
+   10
+  ],
+  [
+   1,
+   "Acknowledgements",
+   13
+  ],
+  [
+   1,
+   "Introduction - Poetic Mythology for a Broken World",
+   16
+  ],
+  [
+   1,
+   "Chapter 1 - Demonic Writing - The Rhetoric and Ontology of Ambivalence",
+   31
+  ],
+  [
+   1,
+   "Chapter 2 - A Divided Cosmos",
+   73
+  ],
+  [
+   1,
+   "Chapter 3 - The Formation of Self and Other through Abjection and Crystallization",
+   151
+  ],
+  [
+   1,
+   "Chapter 4 - Impersonating the Self, Collapsing into the Abyss",
+   240
+  ],
+  [
+   1,
+   "Bibliography",
+   302
+  ],
+  [
+   1,
+   "Index",
+   315
+  ]
+ ],
+ "bidi_runs": true
+}

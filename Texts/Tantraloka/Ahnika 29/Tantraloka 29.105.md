@@ -33,6 +33,11 @@ yadevānandasandohi saṃvido hyantaraṅgakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 301–302)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.104–105]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.105–106]]
+
 *Lead-in:* ननु कोऽसावान्तरः क्रमः, किञ्च तत् मुख्यं चक्रम्?--इत्याशङ्क्य आह--
 
 > यदेवानन्दसन्दोहि संविदो ह्यन्तरङ्गकम् ॥

@@ -34,6 +34,9 @@ eṣa eva sa kālādhvā prāṇe spaṣṭaṃ pratiṣṭhitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 254)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.37]]
+
 *Lead-in:* तत्र प्रस्तुतं कालाध्वानं तावदवतारयति --
 
 > षड्वधादध्वनः प्राच्यं यदेतत् त्रितयं पुनः ।

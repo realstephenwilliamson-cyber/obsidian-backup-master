@@ -35,6 +35,9 @@ ye ca māyīyavarṇeṣu vīryatvena nirūpitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 66–67)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.72–73]]
+
 *Lead-in:* ननु प्रमासु प्रतिषिद्धा एव मायीया वर्णाः संभेदकतयाऽवभासन्ते -- इति किं नाम मायीयैरलौकिकैवर्णैः प्रयोजनम्? -- इत्याशङ्क्याह --
 
 > यत एव च मायीया वर्णाः सूतिं वितेनिरे ।

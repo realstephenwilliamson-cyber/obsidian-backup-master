@@ -31,6 +31,9 @@ aṇusvarūpatāhānau tadgataṃ hetutāṃ katham || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 194)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.115–116]]
+
 *Lead-in:* ननु इदमर्धजरतीयं यदीश्वरः किञ्चित्कृत्यं सापेक्षं कुर्यात् किञ्चिच्च निरपेक्षम्? -- इत्याशङ्क्याह --
 
 > तत्रास्य नाणुगे तावदपेक्ष्ये मलकर्मणी ।

@@ -35,6 +35,9 @@ tattaddvāraniraṃśaikaghaṭasaṃvittisusthitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 399–401)
+> ![[Tantraloka Dyczkowski v02 12 - Chapter Three, part 9#Viveka on 3.278–279]]
+
 *Lead-in:* ननु परतत्त्वद्वारेण पूर्णस्वरूपावेशो यद्युच्यते तदास्तां धराद्येशांशिकामुखेन पुनः कथमसौ स्यात् ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 3.279: see [[Tantraloka 03.279#Viveka|3.279]].

@@ -36,6 +36,11 @@ apavādena kartavyaḥ sāmānyavihite vidhau |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 328–330)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.230–231]]
+>
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.231–232]]
+
 *Lead-in:* ननु एवमपि प्रकृते किम् ? -- इत्याशङ्क्याह --
 
 > शुद्ध्यशुद्धी च सामान्यविहिते तत्त्वबोधिनि ॥

@@ -35,6 +35,9 @@ mito'pi kila kālāṃśo vitatatvena bhāsate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 393)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.183–184]]
+
 > स्वप्नस्वप्ने तथा स्वप्ने सुप्ते सङ्कल्पगोचरे ॥
 > समाधौ विश्वसंहारसृष्टिक्रमविवेचने ।
 > मितोऽपि किल कालांशो विततत्वेन भासते ॥

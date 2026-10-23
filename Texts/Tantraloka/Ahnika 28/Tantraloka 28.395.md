@@ -31,5 +31,8 @@ so'pi svaśāsanīye paraśiṣye'pi vāpi tādṛśaṃ śāstram |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 181–182)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.395–396]]
+
 Jayaratha comments on this verse together with 28.396: see [[Tantraloka 28.396#Viveka|28.396]].
 

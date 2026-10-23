@@ -37,6 +37,11 @@ itthaṃ sadyaḥsamutkrāntiryoktā tāmājñayā guroḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 228–229)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.50–51]]
+>
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.51–53]]
+
 *Lead-in:* इत्याद्युक्तम् ॥ एवमेतत्प्रसङ्गादभिधाय प्रकृतमेवाह--
 
 Jayaratha comments on this verse together with 19.50: see [[Tantraloka 19.050#Viveka|19.50]].

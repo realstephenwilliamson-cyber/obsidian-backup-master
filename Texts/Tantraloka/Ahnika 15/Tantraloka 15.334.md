@@ -31,6 +31,11 @@ tato viśvaṃ viniṣkrāntaṃ pūjitaṃ dakṣiṇottare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 205)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.333–334]]
+>
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.333–334 (continued)]]
+
 *Lead-in:* ननु एतत् मध्ये एव पूज्यमिति किमागमत एव सिद्धमुत अत्र युक्तिरपि काचित् स्यात् ?--इत्याशङ्क्य आह--
 
 > ततो विश्वं विनिष्क्रान्तं पूजितं दक्षिणोत्तरे ॥

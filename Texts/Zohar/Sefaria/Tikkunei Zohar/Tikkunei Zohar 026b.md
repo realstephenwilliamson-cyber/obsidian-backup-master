@@ -265,14 +265,14 @@ and this is Be-REiShYT...
 [^1]: In-the-beginning
 [^2]: He-created
 [^3]: six
-[^4]: See *BT* Berakhot 32b
+[^4]: See *BT* [[Berakhot 32#32b|Berakhot 32b]]
 [^5]: crying
 [^6]: 32
 [^7]: heart
 [^8]: 32
 [^9]: 10
 [^10]: Yod
-[^11]: See *BT* Shabbat 92a (and *Mishnah* Avot 4:1)
+[^11]: See *BT* [[Shabbat 92#92a|Shabbat 92a]] (and *Mishnah* Avot 4:1)
 [^12]: *tephilin*
 [^13]: *tephilah*
 [^14]: Yesod

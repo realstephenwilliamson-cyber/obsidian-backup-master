@@ -31,6 +31,9 @@ itthaṃ janmāntaropāttakarmāpyadyānusandhinā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 111–112)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.127–129]]
+
 > क्षीवोऽपि राजा सूदं चेदादिशेत्प्रातरीदृशम् ॥
 > भोजयेत्यनुसन्धानाद्विना प्राप्नोति तत्फलम् ।
 > इत्थं जन्मान्तरोपात्तकर्माप्यद्यानुसन्धिना ॥

@@ -340,7 +340,7 @@ and through which is revealed
 [^3]: *nigun*
 [^4]: *gan*
 [^5]: 53
-[^6]: See *BT* Berakhot 3b
+[^6]: See *BT* [[Berakhot 3#3b|Berakhot 3b]]
 [^7]: *re-’amin*
 [^8]: *ra-’am*
 [^9]: *gevurot*
@@ -365,7 +365,7 @@ and through which is revealed
 [^28]: 6
 [^29]: ו
 [^30]: *vo-shesh*
-[^31]: *BT* Shabbat 89a
+[^31]: *BT* [[Shabbat 89#89a|Shabbat 89a]]
 [^32]: *ba-shesh*
 [^33]: ו
 [^34]: 6

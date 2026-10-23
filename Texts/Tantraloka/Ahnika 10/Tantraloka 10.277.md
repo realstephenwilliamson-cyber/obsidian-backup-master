@@ -31,6 +31,9 @@ manonmanamanantaṃ ca sarvārthamiti bhedataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 472–473)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.276–277]]
+
 > जाग्रदाद्यास्तु सम्भाव्यास्तिस्त्रोऽस्याः प्राग्दशा यतः ॥
 > त्रितयानुग्रहात्सेयं तेनोक्ता त्रिकशासने ।
 > मनोन्मनमनन्तं च सर्वार्थमिति भेदतः ॥

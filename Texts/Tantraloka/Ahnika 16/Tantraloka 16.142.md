@@ -34,6 +34,9 @@ tāṃ trayoviṃśatau varṇeṣvapyanyatsyādvidhidvayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 64)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.139–142]]
+
 > वर्णाध्वनोऽथ विन्यासः कथ्यतेऽत्र विधित्रये ॥
 > एकं चतुर्षु प्रत्येकं द्वयोरंगुलयोः क्रमात् ।
 > त्रयोविंशतिवर्णी स्यात् षड्वर्ण्येकैकशस्त्रिषु ॥

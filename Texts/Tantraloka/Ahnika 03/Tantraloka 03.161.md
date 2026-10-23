@@ -35,6 +35,9 @@ atrāpyanuttaraṃ dhāma dvitīyamapi sūtaye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 277–278)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.160–162]]
+
 > अनुत्तरस्य साजात्ये भवेत्तु द्वितयी गतिः ।
 > अनुत्तरं यत्तत्रैकं तच्चेदानन्दसूतये ॥
 > प्रभविष्यति तद्योगे योगः क्षोभात्मकः स्फुटः ।

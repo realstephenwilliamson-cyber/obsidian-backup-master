@@ -33,5 +33,10 @@ na bhogādanyakarmāṃśaprasaṅgo hi duratyayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 126–129)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.7–8]]
+>
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.8–10]]
+
 Jayaratha comments on this verse together with 13.7: see [[Tantraloka 13.007#Viveka|13.7]].
 

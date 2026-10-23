@@ -12,11 +12,13 @@ converted: 2026-10-07
 
 [[Tantraloka Dyczkowski v11 07 - Chapter Thirty-Three|← previous]] · [[Tantraloka vol 11 (Dyczkowski)|contents]] · [[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five|next →]]
 
+#### Viveka on 33.32 (continued)
+
 *[p. 185]* ^pg203
 
 CHAPTER THIRTY-FOUR 
 
-Entry into One’s Own Nature (svasvarūpe praveśah) 
+Entry into One’s Own Nature (svasvarūpe praveśaḥ) 
 
 May the good Śiva, who is the Great Sound, be auspicious for the wise again and again; He who, although He has poured forth externally, has not come out of His own essential nature. 
 
@@ -25,11 +27,13 @@ The Ascent Through the Individual, Empowered
 and Śāmbhava States and Beyond to Realisation 
 
 Surely (one may ask), if this consciousness, which is the essential nature (ātman) (of all things) and the Supreme Lord, is one alone, then what purpose is served by the Individual (āṇava) and the rest of the variety of means (to liberation)? Taking this doubt into consideration, he begins here, with the second half of the verse (begun at the end of the previous chapter), to explain the (manner of) entry (into this, one’s own true nature,) that takes place (progressively by each means,) leading (successively) one to the other. उच्यतेऽथ स्वस्वरूपप्रवेशः क्रमसद्गतः ।
-ucyate ‘tha svasvarūpapraveśah kramasaṁgatah | 
+ucyate ‘tha svasvarūpapraveśaḥ kramasaṁgataḥ | 
 
-Now we will talk about entry into one’s own essential nature (svasvarūpapraveśah), (that takes place) in consonance with a series (of ascending levels). 
+Now we will talk about entry into one’s own essential nature (svasvarūpapraveśaḥ), (that takes place) in consonance with a series (of ascending levels). 
 
 He talks about that. 
+
+### TĀ 34.1–2
 
 यदेतट्बहुधा प्रोक्तमाणवं शिवताप्तये ।
 तत्रान्तरन्तराविश्य विश्राम्येत्सविधे पदे ॥ १॥
@@ -48,9 +52,13 @@ CHAPTER THIRTY-FOUR
 
 (this) sequence of progressively higher (levels, his own nature becomes perfectly) clear (and evident). (1cd-2) 
 
+#### Viveka on 34.1–2
+
 (The Individual (means to realization)) is ‘of many kinds’, as it consists of (the practice of) visualization (dhyāna) and the utterance (of Mantra and attention to the breath) etc.' (The adept penetrates into this means) ‘more and more deeply’, just as in relation to (the formation of) supports (for meditation in the cycle of the breath he enters into the meditation on) the phonemes (in the flow of the breath), and in relation to those in (the practice of) the instruments (of Yoga) (karana), and so on.? (That plane) is ‘of a similar nature’ as one’s own essential nature. ‘Then’, after resting (in the practice of) visualization etc., which is similar in nature to one’s own essential nature. ‘By abandoning the Individual (level)’ when objectivity ceases, a (state of absorption) is to be effected within perception (022). This is the intended (sense). “Then, after that also’, that is, after taking the support of the Empowered plane, (the next) reality level is the repose of thought within thought-free (consciousness). “The Śāmbhava one’ means (that) plane. ‘In this same way’, that is, by resting in whatever is next (above that). (What is) ‘(perfectly) clear (and evident)’ is one’s own ‘own nature’. This is what remains (to be said to complete the sentence). 
 
 Surely (one may ask), once this is so, what happens to him? With this doubt in mind, he says: 
+
+### TĀ 34.3
 
 इत्थं क्रमोदितविबोधमहामरीचि- संपरितप्रसरभैरवभावभागी |
 अन्तेऽभ्युपायनिरपेश्चतयैव नित्यं स्वात्मानमाविशति गर्भितविश्वरूपम् ॥ ३ ॥
@@ -62,16 +70,18 @@ ante ‘bhyupāyanirapekṣatayaiva \[illegible\]
 
 svātmānam āviśati garbhitaviśvarūpam || 3 ॥ 
 
-474?\. is, states, to be categories of practice. The terminology supports this interpretation, but while quite possible, Abhinava does not explicitly confirm it. He tells us that the source of this teaching is his teacher’s teacher, that is, Sumati. If Abhinava were to be talking about the categories of practice — upāya - we would have to accept that he learnt this classification of practice. But this is unlikely, for we have no other references that could possibly support that view. Here ānava etc. clearly refer to states. In the MV, the same terms are applied to levels and forms of \[illegible\] / samāveśa. So, it appears that Sumati interpreted them as states — avasthā or planes — bhūmi. This perspective has been retained to furnish the distinction in the modern exegesis between means — upãāya and the state — avasthā in
+474?\. is, states, to be categories of practice. The terminology supports this interpretation, but while quite possible, Abhinava does not explicitly confirm it. He tells us that the source of this teaching is his teacher’s teacher, that is, Sumati. If Abhinava were to be talking about the categories of practice — upāya - we would have to accept that he learnt this classification of practice. But this is unlikely, for we have no other references that could possibly support that view. Here ānava etc. clearly refer to states. In the MV, the same terms are applied to levels and forms of \[illegible\] / samāveśa. So, it appears that Sumati interpreted them as states — avasthā or planes — bhūmi. This perspective has been retained to furnish the distinction in the modern exegesis between means — upāya and the state — avasthā in
 
 475?\. which the adept practices. The former is a development that, apparently, Abhinava brought about or led to completion.
 
-476?\. This is the sequence of types of practices in this category of means, corresponding to that taught above in Chapter Five, that is dedicated to an exposition of the Individual Means (ãnavopāya). It is inspired by MV 3/21, which is quoted above in TĀ 1/170.
+476?\. This is the sequence of types of practices in this category of means, corresponding to that taught above in Chapter Five, that is dedicated to an exposition of the Individual Means (ānavopāya). It is inspired by MV 3/21, which is quoted above in TĀ 1/170.
 
 
 *[p. 187]* ^pg205
 
 He who participates in the flow of Bhairava’s state, that is thoroughly filled with the great rays of consciousness gradually arisen? in this way, enters in the end independently of (any) means into his own eternal Self, that has encompassed the nature of all things. (3) 
+
+#### Viveka on 34.3
 
 (This yogi realizes this) ‘independently of (any) means’, that is, by the process of No Means, which is that of imparting instruction just once and the like.“ Thus it is rightly said that: 
 
@@ -81,10 +91,14 @@ He who participates in the flow of Bhairava’s state, that is thoroughly filled
 
 He concludes this (topic) with a half (verse). 
 
+### Dyczkowski's verse 4ab
+
 कथितोऽयं स्वस्वरूपप्रवेशः परमेष्ठिना ।
-kathito ‘yarn svasvarūpapraveśah parameṣthinā | 
+kathito ‘yarn svasvarūpapraveśaḥ parameṣthinā | 
 
 My teacher’s teacher‘ has (thus) taught this, the entry into one’s own nature. (4ab) 
+
+#### Viveka on Dyczkowski's verse 4ab
 
 This is the auspicious end (of this chapter). 
 
@@ -102,6 +116,6 @@ Chapter Thirty-four of the (commentary called) Discernment, of the venerable Tan
 
 479?\. MV 2/25ab. Also quoted above in TĀv ad 1/226cd-227ab (227), 5/155cd-156ab (154cd-155ab), and in the introductory remarks to 13/1.
 
-480?\. \[illegible\] Sumati was the teacher of Śambhunātha, Abhinava’s Trika teacher. Abhinava, it seems, is telling us in this way that the system of categorizing practice in three or four āveśas — the prototype of the upãyas — is an oral Trika tradition originating with Sumati. See above, note 34,1.
+480?\. \[illegible\] Sumati was the teacher of Śambhunātha, Abhinava’s Trika teacher. Abhinava, it seems, is telling us in this way that the system of categorizing practice in three or four āveśas — the prototype of the upāyas — is an oral Trika tradition originating with Sumati. See above, note 34,1.
 
 481?\. Read jayarathanāmā for jayadrathanāmā.

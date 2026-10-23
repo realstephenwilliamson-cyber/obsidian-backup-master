@@ -31,6 +31,9 @@ siddhāntavaiṣṇavādyuktā mantrā malayutāstataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 271–273)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.73–75]]
+
 > यत्किञ्चिदथवा मध्ये स्वानुष्ठानं प्रपूजयेत् ॥
 > अद्वैतमेव न द्वैतमित्याज्ञा परमेशितुः ।
 > सिद्धान्तवैष्णवाद्युक्ता मन्त्रा मलयुतास्ततः ॥

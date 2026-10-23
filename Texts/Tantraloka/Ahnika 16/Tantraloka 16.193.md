@@ -36,6 +36,11 @@ bhoge sādhye yadyad bahu kartavyaṃ tadāśrayenmatimān || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 83–84)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.191–193]]
+>
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.193–195]]
+
 *Lead-in:* नन्वेवं भेदकथनेन किं स्यात् ?--इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 16.192: see [[Tantraloka 16.192#Viveka|16.192]].

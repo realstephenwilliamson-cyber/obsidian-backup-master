@@ -76,11 +76,11 @@ It is important also to acknowledge that Swamiji exemplified a method — a way 
 
 While Swami Laksmaṇajoo was a great master of inner, yogic practice, in Nepal I was introduced into the vast and complex world of Newar Kaula ritual by Kedararāja Rajopādhyāya, whose ancestors were the purohitas and Tantric gurus of the Malla kings of Bhaktapur. Kedararāja generously gave me his time and courageously braved the possible consequences of transmitting such matters outside the circle of his initiates. 
 
-Pt. Vrajavallabha Dvivedi, former head of the Yogatantra Department at Saṁpūrṇānanda Sanskrit University, was an abiding source of inexhaustible knowledge. Indeed, his scholarly work, both in Sanskrit and Hindi, is formidable — ranging as it does through virtually every major Tantric tradition including not only Kashmiri Śaivism, but also aiva Siddhānta, Vīra Śaivism, Śrīvidyā, the Kaula Tantras, Vaiṣṇava Pañcarātra, the Buddhist Anuttarayoga Tantras and even Jain Tantrism. 
+Pt. Vrajavallabha Dvivedi, former head of the Yogatantra Department at Saṁpūrṇānanda Sanskrit University, was an abiding source of inexhaustible knowledge. Indeed, his scholarly work, both in Sanskrit and Hindi, is formidable — ranging as it does through virtually every major Tantric tradition including not only Kashmiri Śaivism, but also Śaiva Siddhānta, Vīra Śaivism, Śrīvidyā, the Kaula Tantras, Vaiṣṇava Pañcarātra, the Buddhist Anuttarayoga Tantras and even Jain Tantrism. 
 
 In other areas of study, I cannot but recall with gratitude Pt. B. P. Tripathi, better known as Vāgīśa Śāstrī, former Director of the Research Department of Saṁnpūrṇānanda Sanskrit University, who labored for years to teach me Sanskrit grammar both in the traditional manner through the Siddhāntakaumudī and through his own didactic method. 
 
-Although I have not studied formally with Prof. K. D. Tripathi, retired dean of the Sanskrit college of Banaras Hindu University, I cannot but acknowledge that the many lectures I have heard him deliver and dialogues I have had with him over the years inspired and helped me very much to understand Pratyabhijñā, Bhartrhari’s philosophy of grammar, Abhinavagupta’s aesthetics and the aiva Āgamas. In a similar way, I had the good fortune to listen to many lectures and attend classes on the Nātyaśastra with Abhinavagupta’s commentary by the late Premalata Sharma, formerly Dean of 
+Although I have not studied formally with Prof. K. D. Tripathi, retired dean of the Sanskrit college of Banaras Hindu University, I cannot but acknowledge that the many lectures I have heard him deliver and dialogues I have had with him over the years inspired and helped me very much to understand Pratyabhijñā, Bhartṛhari’s philosophy of grammar, Abhinavagupta’s aesthetics and the Śaiva Āgamas. In a similar way, I had the good fortune to listen to many lectures and attend classes on the Nātyaśastra with Abhinavagupta’s commentary by the late Premalata Sharma, formerly Dean of 
 
 *[PDF 7]* ^pg7
 
@@ -130,7 +130,7 @@ The Types of Liberating Knowledge (vijñānabhid)
 
 The Introductory - verses 2-21, pages 2-108 The Initial Invocation: verse 1, pages 2-30 In Praise of the Deities: verses 2-6, pages 30-47 In Praise of the Teachers: verses 7-13, pages 47-68 The Purpose of the Book and its Inspiration: verses 14-21, pages 68-105 
 
-Introduction: verses 22-105ab (105), pages 105-238 Concerning Freedom and Bondage, Knowledge and Ignorance: verses 22-35, pages 105-131 Concerning the Knower, Knowledge and Ignorance: verses 36-38, pages 131- 136 Definitions of the Forms of Knowledge and Ignorance: verses 39-51, pages 136- 158 The a priori Nature of iva Consciousness: verses 52-59ab, pages 158-170 Śiva Ubiquitous, Eternal and Omniform: verses 59cd-66ab (67ab), pages 170- 185 The Powers of Śiva’s Freedom: verses 66cd-80 (67cd-81), pages 185-203 The Innate Nature of the Group (grāmadharma): verses 81-85ab (82-86ab), pages 203-211 Established in Rāma (rāmastha): verses 85cd-89cd (86cd-90cd), pages 211-219 Degrees of Freedom and Obscuration: verses 90-93 (91-94), pages 219-221 The Etymology of the Names of Bhairava, Deva and Pati: verses 94-105ab (95- 105), pages 222-238 
+Introduction: verses 22-105ab (105), pages 105-238 Concerning Freedom and Bondage, Knowledge and Ignorance: verses 22-35, pages 105-131 Concerning the Knower, Knowledge and Ignorance: verses 36-38, pages 131- 136 Definitions of the Forms of Knowledge and Ignorance: verses 39-51, pages 136- 158 The a priori Nature of Śiva Consciousness: verses 52-59ab, pages 158-170 Śiva Ubiquitous, Eternal and Omniform: verses 59cd-66ab (67ab), pages 170- 185 The Powers of Śiva’s Freedom: verses 66cd-80 (67cd-81), pages 185-203 The Innate Nature of the Group (grāmadharma): verses 81-85ab (82-86ab), pages 203-211 Established in Rāma (rāmastha): verses 85cd-89cd (86cd-90cd), pages 211-219 Degrees of Freedom and Obscuration: verses 90-93 (91-94), pages 219-221 The Etymology of the Names of Bhairava, Deva and Pati: verses 94-105ab (95- 105), pages 222-238 
 
 The Exposition of the Tantrāloka: verses 105cd (106) onwards, pages 238-278 The Deployment of Bhairava’s Energies and the Excellence of the Assembly of Twelve Goddesses: verses 106cd-1 15ab (107-115), pages 242-254 The Nourishing Power of the Creative Imagination (pratibhā): verses 115cd- 122ab (116-122), pages 255-259 Limited and Unlimited Deities are Forms of the Lord of Consciousness: verses 122cd-124 (123-125ab), pages 259-263 Injunctions do not Apply to the Supreme Deity Who is the Ultimate Goal: verses 125-133 (125cd-134ab), pages 263-273 Obscured and Unobscured Consciousness: verses 134-139 (134cd-139), pages 273-278 
 
@@ -152,7 +152,7 @@ Abbreviations
 
 APS 
 
-Ajadapramātrsiddhi ASB 
+Ajadapramātṛsiddhi ASB 
 
 Asiatic Society of Bengal AV 
 
@@ -188,7 +188,7 @@ Indo-Iranian Journal ĪPv
 
 Iśvarapratyabhijñāvimarśinī ĪPVv 
 
-Iśvarapratyabhijñāvivrtivimarśinī IFP 
+Iśvarapratyabhijñāvivṛtivimarśinī IFP 
 
 Institut Français d'Indologie de Pondichéry ISMEO 
 
@@ -238,7 +238,7 @@ Mahānayaprakāśa by unknown author published in Trivendrum.
 
 MP (3 AS) 
 
-Mahānayaprakāśa by Arṇasirnha MS 
+Mahānayaprakāśa by Arṇasiṁha MS 
 
 Manuscript 
 
@@ -246,11 +246,11 @@ Manuscript
 
 jayottaratantra jayavārtika 
 
-Monier-Williams Mundaka Upaniṣad Mrgendratantra Mrgendratantravrtti Kriyāpāda Mrgendratantra Kriyāpāda Mrgendratantra Vidyāpāda Nepal German Manuscript Preservation Project Nityāṣodaśikārnava Nyāyabindu Nyāyabinduṭīkā Netratantra Netratantroddyota Number Page Paramokṣanirāsakārikā Parātrīśikā (= Parātrimśika) 
+Monier-Williams Mundaka Upaniṣad Mṛgendratantra Mṛgendratantravṛtti Kriyāpāda Mṛgendratantra Kriyāpāda Mṛgendratantra Vidyāpāda Nepal German Manuscript Preservation Project Nityāṣodaśikārnava Nyāyabindu Nyāyabinduṭīkā Netratantra Netratantroddyota Number Page Paramokṣanirāsakārikā Parātrīśikā (= Parātrimśika) 
 
 Parātriṁmśikavivaraṇa (Parātrīśikāvivaraṇa) Pānṇini’s Sūtras, the Aṣtādhyāyī. 
 
-Pūrvakāmikā Paramārthasāra Pramānṇavārtika Pramānṇaviniścaya Pratyabhijñāhrdaya Ricerche e Studi Orientali Rājataraṁginī Rauravasūtrasagraha Rgveda Śatapathabrāhmaṇa Śāvarabhāṣya Sarvajñānottara SBUM 
+Pūrvakāmikā Paramārthasāra Pramānṇavārtika Pramānṇaviniścaya Pratyabhijñāhṛdaya Ricerche e Studi Orientali Rājataraṁginī Rauravasūtrasagraha Rgveda Śatapathabrāhmaṇa Śāvarabhāṣya Sarvajñānottara SBUM 
 
 Sva/Subodhodayamañjarī SLJ 
 
@@ -258,7 +258,7 @@ Swami Laksmanjoo SOL
 
 Science of Light SP 
 
-Sarvitprakāśa SāhnKā 
+Saṁvitprakāśa SāhnKā 
 
 Sārmkhyakārikā 9014
 
@@ -266,9 +266,9 @@ Spandakārikā SpNi
 
 Spandanirnaya SpPra 
 
-Spandapradīpikā Spandasarhdoha 9 75 1111 ŚDr 
+Spandapradīpikā Spandasaṁdoha 9 75 1111 ŚDr 
 
-'vadrṣti ऽऽ 
+'vadṛṣti ऽऽ 
 
 Śivasūtra Śsū 
 

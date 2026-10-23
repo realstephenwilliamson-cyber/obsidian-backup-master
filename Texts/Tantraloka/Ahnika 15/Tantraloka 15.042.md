@@ -33,6 +33,11 @@ aliases:
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 35–36)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.40–42]]
+>
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.42–43]]
+
 *Lead-in:* ततोऽस्य शिवतावेश एव दृढोऽभिमानः समीहितसिद्धिप्रदः-- इत्याह--
 
 > शिवोऽयं शिव एवास्मीत्येवमाचार्यशिष्ययोः ॥

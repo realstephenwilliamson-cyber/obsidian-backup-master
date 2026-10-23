@@ -31,6 +31,9 @@ yāvatprāptaḥ paraṃ tattvaṃ tadā tveṣa na paśyati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 369)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.217–218]]
+
 *Lead-in:* एवञ्च अस्य कीदृगनुभवः--इत्याह--
 
 > आत्मानं प्रेक्षते देवि तत्त्वे तत्त्वे नियोजितः ।

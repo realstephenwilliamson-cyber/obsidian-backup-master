@@ -31,6 +31,9 @@ tadvatsarvagatāḥ sarvā aindyādyāḥ śaktayaḥ sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 137)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.226–228]]
+
 > सर्वगोऽप्यनिलो यद्वद्व्यजनेनोपवीजितः ॥
 > प्रबुद्धः स्वां क्रियां कुर्याद् घर्मनिर्णोदनादिकाम् ।
 > तद्वत्सर्वगताः सर्वा एन्द्यरद्याः शक्त्यः स्फुटम् ॥

@@ -449,7 +449,7 @@ The folly of unholiness really does not require much explanation. We are all fam
 into the folly of holiness *(shtus dikedushah)*.
 
 [^54]: Sec. 5 (*Sefer HaMaamarim 5710,* pp. 117-118).
-[^55]: *Sotah* 3a.
+[^55]: [[Sotah 3#3a|*Sotah* 3a]].
 
 *[p. 66]* ^pg52
 
@@ -487,7 +487,7 @@ whatever my revered father-in-law, the Rebbe
 
 Rayatz – and all the Rebbeim – demanded of us*,* they demanded of themselves. And their service makes it easier for us to emulate them. This motif follows
 
-[^56]: *Kesubos* 17a.
+[^56]: [[Ketubot 17#17a|*Kesubos* 17a]].
 [^57]: According to one of the three versions cited by the Talmud.
 [^58]: *Tehillim* 73:22. See *Tanya,* ch. 18.
 [^59]: The introduction to the *Tikkunei Zohar,* p. 17b.
@@ -1082,9 +1082,9 @@ All the above will lead to the prodigious G‑dly
 
 revelation implied by the term *istalek.* Concerning the meaning of the term *histalkus,*
 
-[^79]: *Moed Katan* 28a; *Talmud Yerushalmi, Yoma* 1:5.
+[^79]: [[Moed Katan 28#28a|*Moed Katan* 28a]]; *Talmud Yerushalmi, Yoma* 1:5.
 [^80]: The *Mussaf* liturgy for festivals.
-[^81]: *Rosh HaShanah* 18b.
+[^81]: [[Rosh Hashanah 18#18b|*Rosh HaShanah* 18b]].
 [^82]: *Eichah Rabbah* 1:9.
 
 *[p. 79]* ^pg65
@@ -1697,7 +1697,7 @@ destruction of the *Beis HaMikdash.*
 [^97]: *Ibid.*:18.
 [^98]: See *Likkutei Torah, Shir HaShirim,* the *maamar* entitled *Hinach Yafah,* beginning of ch. 2, p. 13d. There, the Alter Rebbe explains that the *Targum* often reveals the inner intent of the Scriptural verse.
 [^99]: *Zechariah* 14:9.
-[^100]: *Pesachim* 50a.
+[^100]: [[Pesachim 50#50a|*Pesachim* 50a]].
 
 *[p. 90]* ^pg76
 

@@ -31,6 +31,9 @@ svasvamantraparāmarśapūrvaṃ tajjanmabhī rasaiḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 347)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.170–173]]
+
 > यद्भजन्ते सदा सर्वे यद्वान् देवश्च देवता ।
 > तच्चक्रं परमं देवीयागादौ संनिधापकम् ॥
 > देह एव परं लिङ्गं सर्वतत्त्वात्मकं शिवम् ।

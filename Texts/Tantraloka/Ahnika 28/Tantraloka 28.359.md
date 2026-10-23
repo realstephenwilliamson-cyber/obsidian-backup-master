@@ -33,6 +33,11 @@ ghaṭāderastitā saṃvinniṣṭhitā na tu tadgatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 159–161)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.358–359]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.359–360]]
+
 *Lead-in:* न केवलमानुमानिक्येव प्रतीतिरेवम्, यावत् प्रात्यक्षी अपि--इत्याह--
 
 > घटादेरस्तिता संविन्निष्ठिता न तु तद्गता ॥

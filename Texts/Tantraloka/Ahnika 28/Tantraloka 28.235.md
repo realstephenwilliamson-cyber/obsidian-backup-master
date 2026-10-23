@@ -31,6 +31,9 @@ anugrahaśca kramikastīvraśceti vibhidyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 104–105)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.234–236]]
+
 > कर्मकालनियत्यादि यतः सङ्कोचजीवितम् ॥
 > सङ्कोचहानिरूपेऽस्मिन्कथं हेतुरनुग्रहे ।
 > अनुग्रहश्च क्रमिकस्तीव्रश्चेति विभिद्यते ॥

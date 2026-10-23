@@ -34,6 +34,9 @@ kriyopāyaṃ tadāmnātaṃ bhedo nātrāpavargagaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 317–318)
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.149]]
+
 > यत्तु तत्कल्पनाकॢप्तबहिर्भूतार्थसाधनम् ।
 > क्रियोपायं तदाम्नातं भेदो नात्रापवर्गगः ॥
 

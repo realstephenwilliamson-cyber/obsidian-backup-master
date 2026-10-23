@@ -33,6 +33,11 @@ jvālākulaṃ svaśāstroktaṃ cakramaṣṭārakādikam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 379–381)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.239–240]]
+>
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.240–241]]
+
 *Lead-in:* तत्रत्यमेव ग्रन्थमर्थतः शब्दतश्च पठति--
 
 > ज्वालाकुलं स्वशास्त्रोक्तं चक्रमष्टारकादिकम् ॥

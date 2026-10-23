@@ -31,5 +31,8 @@ itthaṃ kṛte pañcake'sminyattanmukhyatayā bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 147)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.239–244]]
+
 Jayaratha comments on this verse together with 15.243: see [[Tantraloka 15.243#Viveka|15.243]].
 

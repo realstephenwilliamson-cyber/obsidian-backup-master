@@ -34,6 +34,9 @@ tyajecceti na citraṃ sa evaṃ yaḥ karmaṇāpi vā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 264–265)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.30]]
+
 *Lead-in:* न च एतदपूर्वं किञ्चित्--इत्याह--
 
 > स्थावरादिदशाश्चित्रास्तत्सलोकसमीपताः ।

@@ -33,6 +33,11 @@ kāni dravyāṇi yāgāya ko nvargha iti noditam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 171–173)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.288–290]]
+>
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.290–293]]
+
 *Lead-in:* ननु स्वात्मनोऽर्घपात्रस्य वा पूजायामुपयुक्तं द्रव्यजातं कस्मादिह न उक्तम्?--इत्याशङ्कां प्रदर्श्य दूषयति--
 
 Jayaratha comments on this verse together with 15.289: see [[Tantraloka 15.289#Viveka|15.289]].

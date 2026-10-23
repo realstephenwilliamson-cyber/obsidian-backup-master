@@ -31,6 +31,9 @@ iti te dūrato dhvastāḥ paramārthaṃ hi śāṃbhavam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 158)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.262–264]]
+
 > तेन येऽचोदयन्मूढाः पाशदाहविधूनने ॥
 > कृते शान्ते शिवे रूढः पुनः किमवरोहति ।
 > इति ते दूरतो ध्वस्ताः परमार्थं हि शांभवम् ॥

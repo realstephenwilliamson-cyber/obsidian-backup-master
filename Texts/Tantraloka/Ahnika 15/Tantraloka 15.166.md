@@ -33,6 +33,11 @@ vīrāṇāmata eveha mithaḥ svapratimāmṛtam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 104–105)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.165–166]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.166–167]]
+
 *Lead-in:* इत्याद्युक्त्या संविदासन्नत्वात् सारादिशब्दव्यपदेश्यममृतं यागयोग्यतया गुरूणामभिमतम्--इत्याह--
 
 > वीराणामत एवेह मिथः स्वप्रतिमामृतम् ॥

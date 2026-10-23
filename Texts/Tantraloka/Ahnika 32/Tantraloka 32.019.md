@@ -31,6 +31,9 @@ baddhvā tu khecarīṃ mudrāṃ dhyātvātmānaṃ ca bhairavam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 146–147)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.18–20]]
+
 > आकाशभावं सन्त्यज्य सत्तामात्रमुपस्थितः ।
 > शूलं समरसं कृत्वा रसे रस इव स्थितः ॥
 > एकदण्डं स विज्ञाय त्रिशूलं खचरं प्रिये ।

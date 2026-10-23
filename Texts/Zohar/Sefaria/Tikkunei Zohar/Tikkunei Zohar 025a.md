@@ -344,18 +344,18 @@ which is the letter Yod[^52][^53].
 [^36]: *ḥaiy’almin*
 [^37]: life
 [^38]: 18
-[^39]: *BT* Pesaḥim 56a
+[^39]: *BT* [[Pesachim 56#56a|Pesaḥim 56a]]
 [^40]: life
 [^41]: *ḥaiy*
 [^42]: *ḥayot*
-[^43]: *BT* Nedarim 20b
+[^43]: *BT* [[Nedarim 20#20b|Nedarim 20b]]
 [^44]: demon
 [^45]: Almighty
 [^46]: *doorposts*
 [^47]: ‘death moves away’
-[^48]: *BT* Berakhot 24b
+[^48]: *BT* [[Berakhot 24#24b|Berakhot 24b]]
 [^49]: *qedushah*
 [^50]: *qiddushin*
-[^51]: *BT* Megillah 23b
+[^51]: *BT* [[Megillah 23#23b|Megillah 23b]]
 [^52]: י
 [^53]: 10

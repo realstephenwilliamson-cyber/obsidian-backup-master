@@ -31,6 +31,9 @@ vidato vedyatānyaiva bhedo'trārthakriyocitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 392–393)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.160–161]]
+
 > न्यक्कृतां शक्तिमास्थायाप्युदासीनतया स्थितिम् ।
 > अनाविश्येव यद्वेत्ति तत्रान्या वेद्यता खलु ॥
 > आविश्येव निमज्येव विकास्येव विघूर्ण्य च ।

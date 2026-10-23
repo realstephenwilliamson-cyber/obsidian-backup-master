@@ -36,6 +36,11 @@ pibanyādyaṣṭakaṃ śastrādikaṃ ṣaṭkaṃ parā tathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 160)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.38–39]]
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.39–40]]
+
 *Lead-in:* मन्त्रपञ्चदशकमेव विभजति--
 
 > पिबन्याद्यष्टकं शस्त्रादिकं षट्कं परा तथा ॥

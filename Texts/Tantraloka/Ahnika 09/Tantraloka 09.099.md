@@ -33,6 +33,11 @@ yā tvasya karmaṇaścitraphaladatvena karmatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 95–96)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.98–99]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.99–100]]
+
 *Lead-in:* इत्याद्युक्तम् ? -- इत्याशङ्क्याह --
 
 > या त्वस्य कर्मणश्चित्रफलदत्वेन कर्मता ॥

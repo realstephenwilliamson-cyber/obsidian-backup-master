@@ -31,6 +31,9 @@ tadā tathā tattadrūpamityeṣopaniṣatparā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 347–348)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.82]]
+
 *Lead-in:* तदेवमेकमेव नीलं तत्तदंशांशिकाक्रमेणावभासमानं तथा तथा भिद्यत एव -- इत्याह --
 
 > अत एव यदा येन वपुषा भाति यद्यथा ।

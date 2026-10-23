@@ -31,6 +31,9 @@ yato randhrordhvagāḥ sārdhamaṃgulaṃ vyāpya saṃsthitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 57)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.77–78]]
+
 *Lead-in:* तत्र एतत् बाह्यतया निरूपितमिति आन्तरतयापि अभिधत्ते--
 
 > आन्तरं तद्यथोर्ध्वेन्दुधारामृतपरिप्लवः ।

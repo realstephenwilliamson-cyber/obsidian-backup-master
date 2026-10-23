@@ -34,6 +34,11 @@ tattvamārgavidhānena jñātavyaḥ paramārthataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 65)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 16.145.*
+>
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.145]]
+
 *Lead-in:* तत्रत्यमेवातिदेशवाक्यं पठति--
 
 Jayaratha comments on this verse together with 16.145: see [[Tantraloka 16.145#Viveka|16.145]].

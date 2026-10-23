@@ -31,6 +31,9 @@ atha sapratyayāṃ dīkṣāṃ vakṣye tuṣṭena dhīmatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 365–366)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.211–212]]
+
 *Lead-in:* एवं परित्यक्तो हि शिष्यः संसारे एव मज्जनोन्मज्जनानि कुरुते इति तदनुजिघृक्षापरतया गुरुतः शास्त्रतश्च सिद्धमप्रतिहतं दीक्षान्तरं वक्तुमाह--
 
 > अथ सप्रत्ययां दीक्षां वक्ष्ये तुष्टेन धीमता ॥

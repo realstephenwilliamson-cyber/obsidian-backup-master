@@ -34,6 +34,9 @@ abhiṣekaṃ samāsādya yo bhavetsa tu kalpitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 88–89)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.70–72]]
+
 > तदाह येन केनाप्युपायेन गुरुमाराध्य भक्तितः ॥
 > तद्दीक्षाक्रमयोगेन शास्त्रार्थ वेत्त्यसौ ततः ।
 > अभिषेकं समासाद्य यो भवेत्स तु कल्पितः ॥

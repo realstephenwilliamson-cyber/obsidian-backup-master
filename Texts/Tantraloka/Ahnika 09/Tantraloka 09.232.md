@@ -31,6 +31,9 @@ akṛtrimādidaṃ tvanyadityuktaṃ kṛtiśabdataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 219–220)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.232]]
+
 *Lead-in:* एवं चास्या अहंकृतः शुद्धचित्स्वातन्त्र्यमयात् स्वात्ममात्रविश्रान्तिसतत्त्वात् स्वरसोदितात् अहंभावादियान् विशेषो यदियं जडायामनात्मरूपायां बुद्धावभिनिविष्टेति । तदाह --
 
 > अत एव विशुद्धात्मस्वातन्त्र्याहंस्वभावतः ।

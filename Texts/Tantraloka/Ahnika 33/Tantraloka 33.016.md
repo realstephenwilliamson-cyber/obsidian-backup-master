@@ -31,6 +31,9 @@ ceto'nugakauśikakālaviśvasuśivāstathāparaḥ kopaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 176)
+> ![[Tantraloka Dyczkowski v11 07 - Chapter Thirty-Three#Viveka on 33.14–17]]
+
 > विश्वा तदीशा हारौद्री वीरनेत्र्यम्बिका तथा ।
 > गुर्वीति षडरे देव्यः श्रीसिद्धावीरदर्शिताः ॥
 > माहेशी ब्रह्मणी स्कान्दी वैष्णव्यैन्द्री यमात्मिका ।

@@ -37,6 +37,11 @@ somāṃśadāhyavastūtthavaicitryābhāsabṛṃhitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 228–231)
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.123–124]]
+>
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.124–125]]
+
 *Lead-in:* अत एवाग्निरपि तथा -- इत्याह --
 
 > सोमांशदाह्यवस्तूत्थवैचित्र्याभासबृंहितः ॥

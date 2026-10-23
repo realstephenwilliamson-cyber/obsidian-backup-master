@@ -31,6 +31,9 @@ yo hi yasmād guṇotkṛṣṭaḥ sa tasmādūrdhva ucyate |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 282)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.310]]
+
 *Lead-in:* ननु श्रीपूर्वशास्त्रे गुणाधिक्यादूर्ध्वाधरभावमात्रमेवोक्तं न व्याप्यव्यापकत्वम् -- इति किमेतदुच्यते ? -- इत्याशङ्क्याह -
 
 > यो हि यस्माद् गुणोत्कृष्टः स तस्मादूर्ध्व उच्यते ।

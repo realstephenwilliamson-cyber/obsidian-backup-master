@@ -36,6 +36,11 @@ viśvametatsvasaṃvittirasanirbharitaṃ rasāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 134–136)
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.114–115]]
+>
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.115–116]]
+
 *Lead-in:* ननु अयं शुद्धविद्यात्मा परामर्शः कथं नाम भेदनिष्ठं मायीयमेव विकल्पं प्रतिहन्यात्, यत्प्रयोजकीकाराय अस्यापि प्रकारान्तरासूत्रणम् ? -- इत्याशङ्क्याह --
 
 > विश्वमेतत्स्वसंवित्तिरसनिर्भरितं रसात् ॥

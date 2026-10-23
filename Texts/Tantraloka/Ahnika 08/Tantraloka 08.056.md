@@ -36,6 +36,11 @@ bhairave cakravāṭe'sminnevaṃ mukhyāḥ puro'ṣṭadhā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 102–108)
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.53–56]]
+>
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.56–57]]
+
 *Lead-in:* तदेवोपसंहरति --
 
 > भैरवे चक्रवाटेऽस्मिन्नेवं मुख्याः पुरोऽष्टधा ॥

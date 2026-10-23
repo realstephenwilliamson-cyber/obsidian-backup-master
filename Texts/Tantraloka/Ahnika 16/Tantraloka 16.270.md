@@ -39,6 +39,13 @@ tatsamānābhisañjalpo yadā mantrārthabhāvanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 120–121)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.268–270]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.269–270]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.270–271]]
+
 *Lead-in:* अत एवाह--
 
 > ...........टदभ्यासात्तत्सङ्कल्पमयो ह्यसौ ।

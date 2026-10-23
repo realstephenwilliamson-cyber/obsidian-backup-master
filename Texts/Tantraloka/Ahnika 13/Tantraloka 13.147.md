@@ -31,6 +31,9 @@ sāmagrījanyatā kāmye tenāsminsaṃskṛto guruḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 216)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.147–148]]
+
 *Lead-in:* केचिच्चात्र विवदन्ते यन्नायं सर्वसंपत्तिहेतुरिति -- इत्याह --
 
 Jayaratha comments on this verse together with 13.148: see [[Tantraloka 13.148#Viveka|13.148]].

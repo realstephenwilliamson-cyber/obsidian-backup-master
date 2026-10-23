@@ -35,6 +35,11 @@ guruḥ sa tāvadekātmā siddho muktaśca bhaṇyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 410)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.234]]
+>
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.234 (continued)]]
+
 *Lead-in:* अत एवाह—
 
 > तुल्ये काल्पनिकत्वे च यदैक्यस्फुरणात्मकः ।

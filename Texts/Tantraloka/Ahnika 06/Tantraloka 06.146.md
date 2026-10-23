@@ -35,6 +35,9 @@ kramātsvasvaśatānteṣu naśyantyatrāṇḍalopataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 367)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.145–146]]
+
 > स्वकवर्षशतान्तेऽस्य क्षयस्तद्वैष्णवं दिनम् ॥
 > रात्रिश्च तावतीत्येवं विष्णुरुद्रशताभिधाः ।
 > क्रमात्स्वस्वशतान्तेषु नश्यन्त्यत्राण्डलोपतः ॥

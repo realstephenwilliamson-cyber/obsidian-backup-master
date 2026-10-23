@@ -31,6 +31,9 @@ loke syurāgamāstaiśca jano bhrāmyati mohitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 213–214)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.37]]
+
 *Lead-in:* ननु यदि सांख्यादयः सर्व एव शिवोद्भवास्तदेषां शैवतयैव कस्मात् न प्रसिद्धिः?--इत्याशङ्क्य आह--
 
 > एकस्मादागमाच्चैते खण्डखण्डा व्यपोद्धृताः ।

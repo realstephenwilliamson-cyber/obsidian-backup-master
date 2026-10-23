@@ -31,5 +31,8 @@ phaledyatkarma tatkasmātsvaṃ rūpam santyajet kvacit || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 127–129)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.8–10]]
+
 Jayaratha comments on this verse together with 13.10: see [[Tantraloka 13.010#Viveka|13.10]].
 

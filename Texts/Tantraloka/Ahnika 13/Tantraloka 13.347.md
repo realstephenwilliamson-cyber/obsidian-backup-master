@@ -33,6 +33,11 @@ saṃbodhotkarṣabāhulyātkramotkṛṣṭānvibhāvayet |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 338–339)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.346–347]]
+>
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.347–348]]
+
 *Lead-in:* एवं वैष्णवादिक्रमेण यथायथं संबोधोत्कर्षभाजामेव मुनीनामस्मद्दर्शनं प्रत्यपि जिज्ञासा जाता -- इत्याह --
 
 Jayaratha comments on this verse together with 13.346: see [[Tantraloka 13.346#Viveka|13.346]].

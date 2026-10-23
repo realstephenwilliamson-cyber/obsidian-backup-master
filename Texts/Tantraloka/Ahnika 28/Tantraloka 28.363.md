@@ -31,6 +31,9 @@ līnaśabdācca sarvaṃ taduktamarthasatattvakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 162–163)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.362–363]]
+
 > निपाताभ्यामन्तशब्दात्स्मरणाच्छतुरन्त्यतः ॥
 > पादाच्च निखिलादर्धश्लोकाच्च समनन्तरात् ।
 > लीन(य)शब्दाच्च सर्वं तदुक्तमर्थसतत्त्वकम् ॥

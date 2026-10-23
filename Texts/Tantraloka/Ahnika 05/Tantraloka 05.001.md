@@ -33,6 +33,9 @@ check: "line count"
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 1–2)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.1]]
+
 > आणवेन विधिना परधाम पेर्प्सतामथ निरूप्यत एतत् ॥
 
 "विधिना"इत्युच्चारादिरूपेण । "एतत्"इति वक्ष्यमाणमाणवोपायलक्षणम् ॥१ ॥

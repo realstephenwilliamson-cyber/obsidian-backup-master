@@ -76,9 +76,9 @@ While Swami Laksmaṇajoo was a great master of inner, yogic practice, in Nepal 
 
 Pt. Vrajavallabha Dvivedi, former head of the Yogatantra Department at Saṁnpūrṇānanda Sanskrit University, was an abiding source of inexhaustible knowledge. Indeed, his scholarly work, both in Sanskrit and Hindi, is formidable — ranging as it does through virtually every major Tantric tradition including not only Kashmiri Śaivism, but also Śaiva Siddhānta, Vīra Śaivism, Śrīvidyā, the Kaula Tantras, Vaiṣṇava Pañcarātra, the Buddhist Anuttarayoga Tantras and even Jain Tantrism. 
 
-In other areas of study, I cannot but recall with gratitude Pt. B. P. Tripathi, better known as Vāgīśa Śāstrī, former Director of the Research Department of Sarnpūrṇānanda Sanskrit University, who labored for years to teach me Sanskrit grammar both in the traditional manner through the Siddhāntakaumudī and through his own didactic method. 
+In other areas of study, I cannot but recall with gratitude Pt. B. P. Tripathi, better known as Vāgīśa Śāstrī, former Director of the Research Department of Saṁpūrṇānanda Sanskrit University, who labored for years to teach me Sanskrit grammar both in the traditional manner through the Siddhāntakaumudī and through his own didactic method. 
 
-Although I have not studied formally with Prof. K. D. Tripathi, retired dean of the Sanskrit college of Banaras Hindu University, I cannot but acknowledge that the many lectures I have heard him deliver and dialogues I have had with him over the years inspired and helped me very much to understand Pratyabhijñā, Bhartrhari’s philosophy of grammar, Abhinavagupta’s aesthetics and the Śaiva Āgamas. In a similar way, I had the good fortune to listen to many lectures and attend classes on the Nātṭyaśastra with Abhinavagupta’s commentary by the late Premalata Sharma, formerly Dean of the Music Faculty of BHU and President of the Sangit Nataka Academy. There 
+Although I have not studied formally with Prof. K. D. Tripathi, retired dean of the Sanskrit college of Banaras Hindu University, I cannot but acknowledge that the many lectures I have heard him deliver and dialogues I have had with him over the years inspired and helped me very much to understand Pratyabhijñā, Bhartṛhari’s philosophy of grammar, Abhinavagupta’s aesthetics and the Śaiva Āgamas. In a similar way, I had the good fortune to listen to many lectures and attend classes on the Nātṭyaśastra with Abhinavagupta’s commentary by the late Premalata Sharma, formerly Dean of the Music Faculty of BHU and President of the Sangit Nataka Academy. There 
 
 *[p. m]* ^pg7
 
@@ -86,7 +86,7 @@ are many other renowned scholars in \[illegible\] whom I must also thank for ins
 
 I owe a special thanks also to Bettina Bäumer whose dedication and scholarship in many fields has been an abiding source of inspiration and knowledge for me throughout the 50 years of our acquaintance. Of those who do not reside in Benares I gratefully acknowledge Prof. Navajivan Rastogi whose books and lectures have helped me a great deal. 
 
-I should not forget to mention my good friends and fellow travelers, especially Dr. Śitalāprasād Upādhyāya, formarly head of the Yogatantra Department at Sarnpūrṇānanda Sanskrit University and then rector of the University. I am especially grateful to Prof. Rana Singh, retired head of the Geography department of Banaras Hindu University who guided me through the principles of sacred geography, particularly that of \[illegible\] 
+I should not forget to mention my good friends and fellow travelers, especially Dr. Śitalāprasād Upādhyāya, formarly head of the Yogatantra Department at Saṁpūrṇānanda Sanskrit University and then rector of the University. I am especially grateful to Prof. Rana Singh, retired head of the Geography department of Banaras Hindu University who guided me through the principles of sacred geography, particularly that of \[illegible\] 
 
 During the decades that went into making this translation and study I continuously searched for the sources Abhinavagupta quotes in his Tantrāloka and other works. In this regard I am deeply indebted to the librarians who permitted me to have copies of manuscripts and early rare printed books. I am especially grateful to the German directors in Nepal of the German Nepalese Manuscript Preservation Project. Over the twenty odd years in which I travelled every year, sometimes more than once, to Nepal, seven came and went. There I collected copies of manuscripts of the majority of the most important texts belonging to the early period, that is, prior to Abhinavagupta, from which he drew. The Nepalese collection is very extensive and contains most of the earliest manuscripts preserved in the Indian subcontinent. Other libraries that have furnished manuscripts of important texts, are the Asiatic Society in Calcutta, the central library of Banaras Hindu University, and the libraries in Jodhpur and Poone. 
 
@@ -124,7 +124,7 @@ CONTENTS
 
 CHAPTER SIXTEEN 
 
-The Initiation of the Apprentice (pautrikah) 
+The Initiation of the Apprentice (pautrikaḥ) 
 
 The Unifying Contemplation of the Constituents of the Mandala (mandalātmānusaridhāna) 
 
@@ -134,7 +134,7 @@ The Worship of the Two Jars. Entering Nonduality by Mantras and
 
 Connecting Together Through the Vital Channels, verses 21cd- 26ab, pages 11-13 
 
-Purifying Libation from the Argha Vessel, verses 26cd-27, page 13 Concerning the Animals Fit to be Offered (nivedyapaśuvistarah) 
+Purifying Libation from the Argha Vessel, verses 26cd-27, page 13 Concerning the Animals Fit to be Offered (nivedyapaśuvistaraḥ) 
 
 Animal Offering May be Cooked or Uncooked, verse 28, pages 13-14 Eight Types of Sacrificial Animal, verses 29-36ab, 52cd-54ab, pages 14-17 
 
@@ -150,11 +150,11 @@ The Heroic Sacrificial Animal, verses 52cd-54ab, pages 23-24 The Benefits of Ani
 
 The Best Sacrificial Animal Has Been Reborn as Such Six Times, verses 63-70, pages 30-34 
 
-Parts of the Animal to be Offered, verses 71-72, pages 34-35 The Propitiation of the Fire (agnitrpti) , verses 73-76, pages 35-36 The Inflaming (of the Teacher’s) Own Essential Nature (svasvabhāvadīpanam), verses 77-94ab, pages 36-44 The Depositions 
+Parts of the Animal to be Offered, verses 71-72, pages 34-35 The Propitiation of the Fire (agnitṛpti) , verses 73-76, pages 35-36 The Inflaming (of the Teacher’s) Own Essential Nature (svasvabhāvadīpanam), verses 77-94ab, pages 36-44 The Depositions 
 
 The Procedure for the Deposition of a Path on the Disciple’s Body 
 
-(siṣyadehaga adhvanyāsavidhih), verses 94cd-96, pages 44-45 The Variety of Paths to be Purified and their Purifiers 
+(siṣyadehaga adhvanyāsavidhiḥ), verses 94cd-96, pages 44-45 The Variety of Paths to be Purified and their Purifiers 
 
 (Sodhyaśodhakādivaicitryam), verses 97-99, pages 45-47 
 
@@ -178,7 +178,7 @@ The Deposition of the (Current of Seventy) Purifying Mantras
 
 \[illegible\] verses 150cd-163ab, pages 67-74 The Initiations and Liberation 
 
-The Various Types of Initiation (dīkṣãābheda), verses 163cd-195ab, 
+The Various Types of Initiation (dīkṣābheda), verses 163cd-195ab, 
 
 pages 74-84 
 
@@ -192,7 +192,7 @@ Teacher should Liberate the Disciple by Any Means, verses 204cd-
 
 206ab (205-206), page 88 More Depositions 
 
-The Supreme Deposition (paro nyāsah), verses 206cd-210 (207-21 lab), pages 89-90 
+The Supreme Deposition (paro nyāsaḥ), verses 206cd-210 (207-21 lab), pages 89-90 
 
 The Distribution of the Reality Levels Within the Parts of Parāparā 
 
@@ -246,11 +246,11 @@ The Power of the Semantics of Mantra, verses 22cd-26ab, pages 151- 153
 
 The Function of Mantra, verses 26cd-28ab, pages 153-154 Declaration of Intent Should Herald Ritual Action, verses 28cd-30ab, pages 154-155 Illumining the Body of the Disciple with the Movement of the Breath and 
 
-Mantra, verses 30cd-33, pages 155-158 Giving Birth to the Disciple on Increasingly Higher Levels and Worlds with Trika Mantras and Oblations, verses 34-64, pages 158-168 The Burning of the Fetters (pãśadāhah), verses 65-78ab, pages 168-172 The Conjunction with the Supreme Principle, verses 78cd-91, pages 172-178 The Yoga of the Offering of the Full Oblations 
+Mantra, verses 30cd-33, pages 155-158 Giving Birth to the Disciple on Increasingly Higher Levels and Worlds with Trika Mantras and Oblations, verses 34-64, pages 158-168 The Burning of the Fetters (pāśadāhaḥ), verses 65-78ab, pages 168-172 The Conjunction with the Supreme Principle, verses 78cd-91, pages 172-178 The Yoga of the Offering of the Full Oblations 
 
 The First Full Oblation, verses 78cd-82, pages 173-174 The Second Full Oblation, verses 83-85ab, pages 174-175 The Third Full Oblation, verses 85cd-91, pages 175-178 
 
-Initiation for Worldly Benefits (bhogadīkṣã) by means of a Full 
+Initiation for Worldly Benefits (bhogadīkṣā) by means of a Full 
 
 Oblation, verses 92-97ab, pages 178-180 
 

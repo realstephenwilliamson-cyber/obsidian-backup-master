@@ -33,6 +33,11 @@ tato'pīśastathā rudro viṣṇurbrahmā tathā sthitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 129)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.209]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.209 (2)]]
+
 *Lead-in:* प्रकृतमेव उपसंहरति--
 
 > पञ्चमन्त्रतनुर्नाथ इत्थं विश्वदिगीश्वरः ।

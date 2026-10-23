@@ -35,5 +35,8 @@ rudrocitāstā mukhyatvādrudrebhyo'nyāstathā sthitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 233–234)
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.203–204]]
+
 Jayaratha comments on this verse together with 8.204: see [[Tantraloka 08.204#Viveka|8.204]].
 

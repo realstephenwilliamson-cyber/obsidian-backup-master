@@ -37,6 +37,6 @@ All the power of the nations is in their women, and in particular in their princ
 ## Teaching 4 (I Kings 12:18)
 
 *“Then King Rechavoam sent Adoram, who was over the forced labor; and all Israel stoned him with stones, and he died. Therefore King Rechavoam exerted to mount his chariot, to flee to Jerusalem.”* ([[I Kings 12#^12-18|Melachim 1, 12:18]])  
-The matter is discussed in the Gemara (*Sanhedrin*, 48b), ‘Rechavoam had an issue.”[^1] This shows his sin, for “issue” means rushing and preceding the proper time, even though afterwards the kingdom would be his. And thus, in the future the kingdom of the house of David will spread over all of Israel, yet here, with Rechavoam, he preceded his time, in exerting to mount his chariot.”
+The matter is discussed in the Gemara ([[Sanhedrin 48#48b|*Sanhedrin*, 48b]]), ‘Rechavoam had an issue.”[^1] This shows his sin, for “issue” means rushing and preceding the proper time, even though afterwards the kingdom would be his. And thus, in the future the kingdom of the house of David will spread over all of Israel, yet here, with Rechavoam, he preceded his time, in exerting to mount his chariot.”
 
 [^1]: An issue refers to an untimely seminal flow, or gonorrhea, signaled in that he had to exert himself to mount his chariot.

@@ -34,6 +34,9 @@ sādhakasya na cetsiddhiḥ kiṃ kāryamiti codite |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 78–80)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.60–62]]
+
 > तत्रैव चोक्तं सेवायां कृतायामविकल्पतः ॥
 > साधकस्य न चेत्सिद्धिः किं कार्यमिति चोदिते ।
 > आत्मीयमस्य संज्ञानक्रमेण स्वात्मदीक्षणम् ॥

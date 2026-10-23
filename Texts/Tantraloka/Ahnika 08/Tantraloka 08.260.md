@@ -37,6 +37,11 @@ kramāttamorajaḥsattve gurūṇāṃ paṅktayaḥ sthitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 270–274)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.258–260]]
+>
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.260–262]]
+
 *Lead-in:* एवं गुणतत्त्वं साधयित्वा तदन्तर्वर्ति भुवनजातमपि दर्शयति --
 
 Jayaratha comments on this verse together with 8.259: see [[Tantraloka 08.259#Viveka|8.259]].

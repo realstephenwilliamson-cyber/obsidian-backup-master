@@ -31,6 +31,9 @@ kāmye tu saṃvidhau saptakṛtvaḥ kāryastathāvidhaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 50–51)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.99–101]]
+
 > दक्षहस्तेन भद्रं स्याद्वेल्लिता शुक्तिरुच्यते ॥
 > दक्षहस्तस्य कुर्वीत वामोपरि कनीयसीम् ।
 > तर्जन्यंगुष्ठयोगेन दक्षाधो वामकांगुलीः ॥

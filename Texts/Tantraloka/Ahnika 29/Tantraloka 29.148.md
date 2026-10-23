@@ -31,6 +31,9 @@ tatraivoditatādṛśaphalalābhasamutsukaḥ svakaṃ mantram || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 330–331)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.147–149]]
+
 > एवं त्रिविधविमर्शावेशसमापत्तिधाम्नि य उदेति ॥
 > संवित्परिमर्शात्मा ध्वनिस्तदेवेह मन्त्रवीर्यं स्यात् ।
 > तत्रैवोदिततादृशफललाभसमुत्सुकः स्वकं मन्त्रम् ॥

@@ -33,6 +33,11 @@ vāmaśabdena guhyaṃ śrīmataṅgādāvapīritam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 165–166)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.278–279]]
+>
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.279]]
+
 *Lead-in:* अत एव आगमोऽप्येवम्--इत्याह--
 
 > वामशब्देन गुह्यं श्रीमतङ्गादावपीरितम् ॥

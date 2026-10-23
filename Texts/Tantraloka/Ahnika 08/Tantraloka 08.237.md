@@ -35,5 +35,8 @@ svacchandaśāsane tattu mūle śrīpūrvaśāsane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 254–256)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.236–237]]
+
 Jayaratha comments on this verse together with 8.240: see [[Tantraloka 08.240#Viveka|8.240]].
 

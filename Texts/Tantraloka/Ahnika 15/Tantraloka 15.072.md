@@ -31,6 +31,9 @@ sarvatīrthatapoyajñadānādiphalamaśnute || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 53–55)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.69–73]]
+
 > श्रीमत्त्रिशिरसि प्रोक्तं मद्यशीधुसुरादिना ।
 > सुस्वादुना प्रसन्नेन तनुना सुसुगन्धिना ॥
 > कन्दलादिगतेनान्तर्बहिः संस्कारपञ्चकम् ।

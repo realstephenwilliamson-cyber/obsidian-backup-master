@@ -31,6 +31,9 @@ dairghyāttūcchrāyāccordhve ca caturaṅgulamānataḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 110)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.102–105]]
+
 > वामामृतादिभिर्मुख्यैः पवित्रैः सुमनोरमैः ।
 > भूमिं रजांसि करणीं खटिकां मूलतोऽर्चयेत् ॥
 > चतुरश्रे चतुर्हस्ते मध्ये शूलं करत्रयम् ।

@@ -31,6 +31,9 @@ prakāśanāddhiyo'rthena saha bhogaḥ sa bhaṇyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 141–143)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.34]]
+
 > यच्चादर्शनमाख्यातं निमित्तं परिणामिनि ।
 > प्रधाने तद्धि सङ्कीर्णवैविक्त्योभययोगतः ॥
 > दर्शनाय पुमर्थैकयोग्यतासचिवं धियः ।

@@ -31,6 +31,9 @@ akṣāṇi sahavṛttyā tu buddhyante saṅkaraṃ jaḍāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 251)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.270]]
+
 *Lead-in:* नन्वेवं पञ्च कर्मेन्द्रियाणि, पञ्चैवैषां नियता हानाद्या वृत्तयः इत्युक्तम्, तदेषां पाणिना विहरणमपि पादेन चादानमपि इत्यन्योन्यस्य वृत्तिसाङ्कर्यं कुतस्त्यम् ? -- इत्याशङ्क्याह --
 
 > एतत्कर्तव्यचक्रं तदसाङ्कर्येण कुर्वते ।

@@ -35,6 +35,9 @@ iṣyamāṇasamāpattiḥ sthairyeṇātha dharātmanā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 178–181)
+> ![[Tantraloka Dyczkowski v02 06 - Chapter Three, part 3#Viveka on 3.79]]
+
 *Lead-in:* तदाह—
 
 > अचिरद्युतिभासिन्या शक्त्या ज्वलनरूपया ।

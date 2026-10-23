@@ -34,6 +34,9 @@ mūlaṃ taduttaraṃ madhyamuttarottaramādimam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 414)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.241]]
+
 *Lead-in:* एतदेव अधिकावापेन उपसंहरति --
 
 > एवं शक्तित्रयोपायं यज्ज्ञानं तत्र पश्चिमम् ।

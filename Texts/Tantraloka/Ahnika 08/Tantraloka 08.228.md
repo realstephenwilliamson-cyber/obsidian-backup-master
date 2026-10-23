@@ -35,6 +35,9 @@ niyāmitā niyatyā ca brahmaṇo'vyaktajanmanaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 249)
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.228–229]]
+
 *Lead-in:* अत्रैव निमित्तमाह -
 
 > परमेशनियोगाच्च चोद्यमानाश्च मायया ।

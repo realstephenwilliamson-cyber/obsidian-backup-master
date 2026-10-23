@@ -34,6 +34,9 @@ samaiva vedyīkaraṇaṃ kevalaṃ tvadhikaṃ yataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 19–28)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.28]]
+
 *Lead-in:* ननु कथमष्टात्रिंश एव सप्तत्रिंशो भवेत्? -- इत्याशङ्क्याह --
 
 > अविभागस्वतन्त्रत्वचिन्मयत्वादिधर्मता ।

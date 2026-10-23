@@ -34,6 +34,11 @@ kiṃ tataḥ so'dhamaḥ kiṃvāpyutkṛṣṭastadviparyayaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 299)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.492–493]]
+>
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.493–494]]
+
 *Lead-in:* एतदेव प्रकृते योजयति--
 
 > आयातशक्तिपातोऽपि दीक्षितोऽपि गुणस्थितेः ॥

@@ -35,6 +35,9 @@ gacchankalanayā yogādadhvā proktaḥ kalātmakaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 57)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.60–62]]
+
 > प्रमाणरूपतावेशमपरित्यज्य मेयताम् ॥
 > गच्छन्कलनया योगादध्वा प्रोक्तः कलात्मकः ।
 > शुद्धे प्रमेयतायोगे सूक्ष्मस्थूलत्वभागिनि ॥

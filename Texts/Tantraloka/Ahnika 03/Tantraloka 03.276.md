@@ -35,6 +35,9 @@ vyāpi svatantraṃ sarvajñaṃ yacchivaṃ parikalpitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 397)
+> ![[Tantraloka Dyczkowski v02 12 - Chapter Three, part 9#Viveka on 3.274–276]]
+
 > निर्विकल्पे परामर्शे शाम्भवोपायनामनि ।
 > पञ्चाशद्भेदतां पूर्वसूत्रितां योजयेद्बुधः ॥
 > धरामेवाविकल्पेन स्वात्मनि प्रतिबिम्बताम् ।

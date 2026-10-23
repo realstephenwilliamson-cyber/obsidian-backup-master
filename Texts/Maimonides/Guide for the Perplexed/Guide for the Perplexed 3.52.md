@@ -1,0 +1,24 @@
+---
+type: "text"
+work: "Guide for the Perplexed"
+author:
+  - "Moses Maimonides"
+translation: "Guide for the Perplexed, English Translation, Friedlander (1903)"
+translator:
+  - "Michael Friedländer"
+license: "Public Domain"
+source: "https://www.sefaria.org/Guide_for_the_Perplexed,_Part_3_52?ven=Guide_for_the_Perplexed%2C_English_Translation%2C_Friedlander_%281903%29&lang=en"
+aliases:
+  - "Guide for the Perplexed, Part 3 52"
+---
+# Guide for the Perplexed 3.52
+
+← [[Guide for the Perplexed 3.51]] · [[Guide for the Perplexed]] · [[Guide for the Perplexed 3.53]] →
+
+*Part 3, Chapter 52* · [[Guide for the Perplexed]]
+
+WE do not sit, move, and occupy ourselves when we are alone and at home, in the same manner as we do in the presence of a great king; we speak and open our mouth as we please when we are with the people of our own household and with our relatives, but not so when we are in a royal assembly. If we therefore desire to attain human perfection, and to be truly men of God, we must awake from our sleep, and bear in mind that the great king that is over us, and is always joined to us, is greater than any earthly king, greater than David and Solomon. The king that cleaves to us and embraces us is the Intellect that influences us, and forms the link between us and God. We perceive God by means of that light that He sends down unto us, wherefore the Psalmist says, “In Thy light shall we see light” ([[Psalms 036#^36-10|Ps. 36:10]]): so God looks down upon us through that same light, and is always with us beholding and watching us on account of this light. “Can any hide himself in secret places that I shall not see him?” ([[Jeremiah 23#^23-24|Jer. 23:24]]). Note this particularly.
+
+When the perfect bear this in mind, they will be filled with fear of God, humility, and piety, with true, not apparent, reverence and respect of God, in such a manner that their conduct, even when alone with their wives or in the bath, will be as modest as they are in public intercourse with other people. Thus it is related of our renowned Sages that even in their sexual intercourse with their wives they behaved with great modesty. They also said, “Who is modest? He whose conduct in the dark night is the same as in the day.” You know also how much they warned us not to walk proudly, since “the fulness of the whole earth is His glory” ([[Isaiah 06#^6-3|Isa. 6:3]]). They thought that by these rules the above-mentioned idea will be firmly established in the hearts of men, viz., that we are always before God, and it is in the presence of His glory that we go to and fro. The great men among our Sages would not uncover their heads because they believed that God’s glory was round them and over them; for the same reason they spoke little. In our Commentary on the Sayings of the Fathers (chap. 1:17) we have fully explained how we have to restrict our speech. Comp. “For God is in heaven and thou upon earth, therefore let thy words be few” (Eccles. v. i).
+
+What I have here pointed out to you is the object of all our religious acts. For by [carrying out] all the details of the prescribed practices, and repeating them continually, some few pious men may attain human perfection. They will be filled with respect and reverence towards God; and bearing in mind who is with them, they will perform their duty. God declares in plain words that it is the object of all religious acts to produce in man fear of God and obedience to His word-the state of mind which we have demonstrated in this chapter for those who desire to know the truth, as being our duty to seek. Comp. “If thou wilt not observe to do all the words of this law that are written in this book, that thou mayest fear this glorious and fearful name, the Lord thy God” ([[Torah 50 - Ki Tavo#^28-58|Deut. 28:58]]). Consider how clearly it is stated here that the only object and aim of “all the words of this law” is to [make man] fear “the glorious and fearful name.” That this end is attained by certain acts we learn likewise from the phrase employed in this verse: “If thou wilt not observe to do . . . that thou mayest fear.” For this phrase clearly shows that fear of God is inculcated [into our hearts] when we act in accordance with the positive and the negative precepts. But the truths which the Law teaches us—the knowledge of God’s Existence and Unity—create in us love of God, as we have shown repeatedly. You know how frequently the Law exhorts us to love God. Comp. “And thou shalt love the Lord thy God with all thine heart, and with all thy soul, and with all thy might” ([[Torah 45 - Vaetchanan#^6-5|Deut. 6:5]]). The two objects, love and fear of God, are acquired by two different means. The love is the result of the truths taught in the Law, including the true knowledge of the Existence of God; whilst fear of God is produced by the practices prescribed in the Law. Note this explanation.

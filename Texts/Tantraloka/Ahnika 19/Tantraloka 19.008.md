@@ -34,6 +34,9 @@ utkramayya tatastvenaṃ paratattve niyojayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 202–203)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.7–8]]
+
 > नत्वपक्वमले नापि शेषकार्मिकविग्रहे ।
 > कुर्यादुत्क्रमणं श्रीमद्गह्वरे च निरूपितम् ॥
 > दृष्ट्वा शिष्यं जराग्रस्तं व्याधिना परिपीडितम् ।

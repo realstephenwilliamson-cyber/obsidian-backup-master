@@ -34,5 +34,8 @@ tadyogyatāṃ samālokya vitatāvitatātmanām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 375–376)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.15–16]]
+
 Jayaratha comments on this verse together with 26.16: see [[Tantraloka 26.016#Viveka|26.16]].
 

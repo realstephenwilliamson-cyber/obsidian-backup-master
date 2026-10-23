@@ -37,6 +37,11 @@ pramā yasya jaḍo'sau no tatrārthe'bhyeti mātṛtām |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 67–68)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.73–74]]
+>
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.74–75]]
+
 *Lead-in:* नन्वस्य परवाक्यादौ तत्पाठान्यथानुपपत्त्यास्त्येवा(व)गमः - इति किं नाम सुप्रमाणम्? -- इत्याशङ्क्याह --
 
 > शुकवत्स पठत्येव परं तत्क्रमितैकभाक् ॥

@@ -34,6 +34,9 @@ taddvayāpāsanenāyaṃ parāmarśo'bhidhīyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 14–15)
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.12]]
+
 *Lead-in:* तदाह --
 
 > तथाभासनमेवास्य द्वैतमुक्तं महेशितुः ।

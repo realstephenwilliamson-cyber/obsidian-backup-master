@@ -31,6 +31,9 @@ antimaṃ yadbhavetpūrvaṃ tatkṛtvāntimamādimam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 347)
+> ![[Tantraloka Dyczkowski v09 15 - Chapter Twenty-Four#Viveka on 24.6–9]]
+
 *Lead-in:* अत्र च आगमान्तरीयो विशेषः--इत्याह--
 
 > श्रीसिद्धातन्त्रकथितो विधिरेष निरूप्यते ।

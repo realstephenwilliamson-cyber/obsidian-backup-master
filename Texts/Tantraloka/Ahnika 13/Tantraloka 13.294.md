@@ -31,6 +31,11 @@ sthāvarānte'pi devasya svarūponmīlanātmikā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 305–307)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.293–295]]
+>
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.293–295 (continued)]]
+
 > श्रीमताप्यनिरुद्धेन शक्तिमुन्मीलिनीं विभोः ॥
 > व्याचक्षाणेन मातङ्गे वर्णिता निरपेक्षता ।
 > स्थावरान्तेऽपि देवस्य स्वरूपोन्मीलनात्मिका ॥

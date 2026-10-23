@@ -33,6 +33,11 @@ anyakarmaphalaṃ prācyaṃ karmarāśiṃ ca kiṃ dahet |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 130–131)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.12]]
+>
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.12–13]]
+
 *Lead-in:* न च कर्मान्तरफलने कर्मान्तरस्य प्रक्षयो न्याययः -- इत्याह --
 
 > अन्यकर्मफलं प्राच्यं कर्मराशिं च किं दहेत् ।

@@ -37,6 +37,11 @@ dīkṣājñānavihīnā ye liṅgārādhanatatparāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 183–187)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.155–157]]
+>
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.157–158]]
+
 *Lead-in:* केषां चात्र निवासः ? -- इत्याह --
 
 > दीक्षाज्ञानविहीना ये लिङ्गाराधनतत्पराः ॥

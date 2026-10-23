@@ -36,6 +36,11 @@ icchā jñānaṃ kriyā ceti yatpṛthakpṛthagañjyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 210–212)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.105–106]]
+>
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.106–107]]
+
 *Lead-in:* ननु इच्छादिशक्तिरिष्यमाणादिना स्वविषयेणाप्युपाधीयते एव इति कथमुक्तं ङ शक्तिः केनचिदञ्ज्यते"? -- इत्याशङ्क्याह --
 
 > इच्छा ज्ञानं क्रिया चेति यत्पृथक्पृथगञ्ज्यते ॥

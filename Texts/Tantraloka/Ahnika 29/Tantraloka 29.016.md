@@ -31,6 +31,9 @@ iti jñātvā traye'muṣminyatnavānkauliko bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 217–218)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.14–16]]
+
 > श्रीमत्क्रमरहस्ये च न्यरूपि परमेशिना ।
 > अर्घपात्रं यागधाम दीप इत्युच्यते त्रयम् ॥
 > रहस्यं कौलिके यागे तत्रार्घः शक्तिसङ्गमात् ।

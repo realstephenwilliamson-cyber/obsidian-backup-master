@@ -33,6 +33,11 @@ yattu kasmiṃścana śivaḥ svena rūpeṇa bhāsate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 193–194)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.113–114]]
+>
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.114]]
+
 *Lead-in:* ननु परमेश्वरः सृष्ट्यादौ कृत्यत्रये मलाद्येवमपेक्षते इत्युक्तम्, अवशिष्टे पुनरनुग्रहादौ कृत्यद्वये किं तदपेक्षते न वा? -- इत्याशङ्क्याह --
 
 > यत्तु कस्मिंश्चन शिवः स्वेन रूपेण भासते ॥

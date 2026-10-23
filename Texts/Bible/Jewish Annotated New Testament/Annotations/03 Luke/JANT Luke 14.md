@@ -36,7 +36,7 @@ Text: [[NRSVue Luke 14|NRSVue]] · [[Luke 14|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 14#^14-13|13]]:** *The poor*, those unable to reciprocate monetarily. Christian commentators sometimes suggest that *the crippled, the lame, and the blind* are excluded from the priesthood and regard Jesus here as eliminating Jewish exclusionary practices. The setting has nothing to do with Temple service; the issue here is the impossibility of reciprocity, not purity or priesthood. ^14-13
 
-**[[NRSVue Luke 14#^14-14|14]]:** *Be repaid*, heavenly reward based on earthly action. *Resurrection of the righteous*, see [[Daniel 12#^12-2|Dan 12.2–3]]; *m. Sanh*. 10.1; *b. Rosh Ha-Shanah* 16b–17a. ^14-14
+**[[NRSVue Luke 14#^14-14|14]]:** *Be repaid*, heavenly reward based on earthly action. *Resurrection of the righteous*, see [[Daniel 12#^12-2|Dan 12.2–3]]; *m. Sanh*. 10.1; [[Rosh Hashanah 16#16b|*b. Rosh Ha-Shanah* 16b]]–17a. ^14-14
 
 ### 14.15–24: Parable of the great dinner
 

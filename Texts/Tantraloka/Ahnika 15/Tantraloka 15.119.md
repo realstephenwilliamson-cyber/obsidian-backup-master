@@ -31,5 +31,8 @@ pavargaṃ pārśvayoḥ pṛṣṭhe jaṭhare hṛdyatho nava || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 79–80)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.117–120]]
+
 Jayaratha comments on this verse together with 15.120: see [[Tantraloka 15.120#Viveka|15.120]].
 

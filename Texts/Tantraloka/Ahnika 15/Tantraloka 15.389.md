@@ -34,6 +34,11 @@ aliases:
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 240–241)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.388–389]]
+>
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.389–390]]
+
 *Lead-in:* ननु सर्वत्रैव कुण्डस्य उल्लेखसेककुट्टनाद्यात्मना संस्कारजातेन बहिः प्रकल्पनमुक्तम्, इह पुनरेवं कस्मादभिधीयते ?--इत्याशङ्क्य आह--
 
 > शिवस्य या क्रियाशक्तिस्तत्कुण्डमिति भावनात् ॥

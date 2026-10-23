@@ -33,6 +33,11 @@ kālastuṭyādibhiścaitat kartṛtvaṃ kalayatyataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 173–175)
+> ![[Tantraloka Dyczkowski v06 07 - Chapter Nine, part 5#Viveka on 9.200–201]]
+>
+> ![[Tantraloka Dyczkowski v06 07 - Chapter Nine, part 5#Viveka on 9.201–202]]
+
 *Lead-in:* नन्वणोः कलया किंचिद्रूपतां, विद्यया विविक्तविषयतां, रागेण नियतवस्तुपर्यवसायितां च नीतं कर्तृत्वं "अकरवं करोमि करिष्यामि"इति प्रतीत्यन्यथानुपपत्त्या कालेनापि कलितम् - इति तदुपपादकं कालतत्त्वमप्याह --
 
 > कालस्तुट्यादिभिश्चैतत् कर्तृत्वं कलयत्यतः ॥

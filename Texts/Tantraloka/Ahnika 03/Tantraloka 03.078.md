@@ -34,6 +34,9 @@ iṣyamāṇaṃ hi sā vastudvairūpyeṇātmani śrayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 175–177)
+> ![[Tantraloka Dyczkowski v02 06 - Chapter Three, part 3#Viveka on 3.78]]
+
 *Lead-in:* इच्छाशक्तेरेव इष्यमाणारूषणया चातूरूप्यं दर्शयितुमुपक्रमते - -
 
 > इच्छाशक्तिर्द्विरूपोक्ता क्षुभिताऽक्षुभिता च या ।

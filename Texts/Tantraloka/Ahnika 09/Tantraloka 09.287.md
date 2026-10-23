@@ -33,5 +33,10 @@ tata eva marudvyomnoraviyogo mithaḥ smṛtaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 264–265)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.285–287]]
+>
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.287–288]]
+
 Jayaratha comments on this verse together with 9.286: see [[Tantraloka 09.286#Viveka|9.286]].
 

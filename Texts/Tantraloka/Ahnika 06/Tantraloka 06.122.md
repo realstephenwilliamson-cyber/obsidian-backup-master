@@ -37,6 +37,11 @@ prāṇīye varṣa etasminkārtikādiṣu dakṣataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 348–350)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.121–122]]
+>
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.122–123]]
+
 *Lead-in:* ननु प्रहराष्टकन्यायेन मासद्वादशकस्यापि किमधिष्ठातारः केचित्संभवन्ति न वा ? -- इत्याशङ्क्याह -
 
 > प्राणीये वर्ष एतस्मिन्कार्तिकादिषु दक्षतः ॥

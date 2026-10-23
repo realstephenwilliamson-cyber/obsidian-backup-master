@@ -36,5 +36,10 @@ niyamo rañjanaṃ kartṛbhāvaḥ kalanayā saha || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 187–188)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.107–108]]
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.108–111]]
+
 Jayaratha comments on this verse together with 17.111: see [[Tantraloka 17.111#Viveka|17.111]].
 

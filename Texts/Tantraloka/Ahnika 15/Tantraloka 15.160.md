@@ -31,6 +31,9 @@ yacca tatsthaṃ jalādyetatkaraṇaṃ śodhane'rcane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 101)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.160]]
+
 > अर्घपात्रमपादानं तस्मादादीयते यतः ।
 > यच्च तत्स्थं जलाद्येतत्करणं शोधनेऽर्चने ॥
 

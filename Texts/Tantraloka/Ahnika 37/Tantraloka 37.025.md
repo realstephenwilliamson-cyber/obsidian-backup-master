@@ -33,6 +33,13 @@ uktaṃ śrīratnamālāyāmetacca parameśinā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 237–238)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 37.27–28.*
+>
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.24–25]]
+>
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.27–28]]
+
 *Lead-in:* किञ्च अत्र प्रमाणम्?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 37.24: see [[Tantraloka 37.024#Viveka|37.24]].

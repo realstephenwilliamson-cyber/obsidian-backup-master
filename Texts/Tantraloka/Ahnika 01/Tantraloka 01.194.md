@@ -34,6 +34,9 @@ bhūtādīnāṃ yathā sātra na tathā dvayavarjite || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 374)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.194]]
+
 *Lead-in:* यद्येवं तर्हि किं प्रतिपत्तव्यम् ? -- इत्याह --
 
 > उच्यते द्वैतशास्त्रेषु परमेशाद्विभेदिता ।

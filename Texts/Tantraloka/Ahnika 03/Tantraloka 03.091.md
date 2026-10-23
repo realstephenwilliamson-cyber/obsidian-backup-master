@@ -34,6 +34,9 @@ nāpi yoniryato naitatkṣobhādhāratvamṛcchati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 194–195)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.91]]
+
 *Lead-in:* एवमेतत्प्रसङ्गादभिधाय प्रकृतमेवावतारयति --
 
 > प्रकृतं ब्रूमहे नेदं बीजं वर्णचतुष्टयम् ।

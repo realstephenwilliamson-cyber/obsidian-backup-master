@@ -33,6 +33,11 @@ tatra prāṇāśraye nyāse buddhyā viracite sati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 174–175)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.295–296]]
+>
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.296–297]]
+
 *Lead-in:* कथं च एषां प्राणादीनां त्रयाणामपि विग्रहाणां पूजा कार्या?--इत्याशङ्क्य आह--
 
 > तत्र प्राणाश्रये न्यासे बुद्ध्या विरचिते सति ॥

@@ -36,6 +36,11 @@ rāsabhī vaḍavā yadvatsvadhāmānandamandiram || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 64–67)
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.57–58]]
+>
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.58–60]]
+
 *Lead-in:* ननु तत्रापि विश्रान्त्या किं स्यात् ? इत्याशङ्कां दृष्टान्तप्रदर्शनेन उपशमयति --
 
 Jayaratha comments on this verse together with 5.57: see [[Tantraloka 05.057#Viveka|5.57]].

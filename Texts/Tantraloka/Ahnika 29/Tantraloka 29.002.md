@@ -31,6 +31,11 @@ uktaṃ ca parameśena sāratvaṃ kramapūjane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 201)
+> ![[Tantraloka Dyczkowski v10 08 - Chapter Twenty-Nine, opening page#Viveka on 29.1–2]]
+>
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.1–2 (continued)]]
+
 *Lead-in:* ननु कुलप्रक्रियायाः प्रक्रियान्तरेभ्यः किं नाम वैलक्षण्यं यदेवमधिकारिभेदोऽपि विवक्षितः ?--इत्याशङ्क्य आह--
 
 > उक्तं च परमेशेन सारत्वं क्रमपूजने ॥

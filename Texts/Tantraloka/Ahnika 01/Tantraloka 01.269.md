@@ -35,6 +35,9 @@ anūdyamāne dharme sā saṃvillakṣaṇamucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 445)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.269]]
+
 *Lead-in:* ननु उद्घाटितात्मप्रथारूपत्वे सति लक्षणस्य सामान्यविशेषयोर्द्वयोरपि प्रथनात् किं लक्ष्यम्, किं वा लक्षणम् ? इत्यत्र विवेकाभावादनियमः स्यात् -- इत्याशङ्क्याह --
 
 > स्रक्ष्यमाणस्य या सृष्टिः प्राक्सृष्टांशस्य संहृतिः ।

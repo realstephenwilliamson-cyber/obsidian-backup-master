@@ -36,6 +36,11 @@ mokṣe'pyasti viśeṣaḥ kriyālpabhūyastvajaḥ salokādiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 86)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.199–200]]
+>
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.200–201]]
+
 *Lead-in:* अत्र चान्येषामभिप्रायान्तरमाह--
 
 > मोक्षेऽप्यस्ति विशेषः क्रियाल्पभूयस्त्वजः सलोकादिः ॥

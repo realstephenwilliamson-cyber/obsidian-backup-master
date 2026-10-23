@@ -31,6 +31,9 @@ amṛtāmbhobhavārīṇāṃ śūlāgre tu trikaṃ trikam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 92)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.54–58]]
+
 > इत्येतत्कथितं गुप्ते षडर्धहृदये परे ।
 > षट्के प्रोक्तं सूचितं श्रीसिद्धयोगीश्वरीमते ॥
 > अग्रतः सूत्रयित्वा तु मण्डलं सर्वकामदम् ।

@@ -31,6 +31,9 @@ tathāvidho'pi bhogāṃśāvacchedenopalakṣitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 284)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.254–256]]
+
 > इदं सारमिह ज्ञेयं परिपूर्णचिदात्मनः ॥
 > प्रकाशः परमः शक्तिपातोऽवच्छेदवर्जितः ।
 > तथाविधोऽपि भोगांशावच्छेदेनोपलक्षितः ॥

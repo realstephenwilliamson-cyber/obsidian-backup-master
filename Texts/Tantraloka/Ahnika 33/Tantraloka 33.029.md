@@ -31,6 +31,9 @@ svāmyāvaraṇabhedena bahudhā tatprayojayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 182)
+> ![[Tantraloka Dyczkowski v11 07 - Chapter Thirty-Three#Viveka on 33.28–29]]
+
 > इत्थं संविदियं याज्यस्वरूपामर्शरूपिणी ॥
 > अभिन्नं संविदश्चैतच्चक्राणां चक्रवालकम् ।
 > स्वाम्यावरणभेदेन बहुधा तत्प्रयोजयेत् ॥

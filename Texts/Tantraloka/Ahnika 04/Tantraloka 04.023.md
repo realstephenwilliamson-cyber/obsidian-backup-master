@@ -36,6 +36,11 @@ evaṃ cidbhairavāveśanindātatparamānasāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 30–31)
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.22–23]]
+>
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.23–24]]
+
 *Lead-in:* तदाह—
 
 > एवं चिद्भैरवावेशनिन्दातत्परमानसाः ॥

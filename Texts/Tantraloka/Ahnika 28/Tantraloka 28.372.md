@@ -33,6 +33,11 @@ yoginīmelakāccaiṣo'vaśyaṃ jñānaṃ prapadyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 167–168)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.371–372]]
+>
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.372–373]]
+
 *Lead-in:* प्राच्ये इति--हठमेलापे । उत्तरे इति--प्रियमेलापे । कामचारित्वं छिद्ररक्षणं वा न वेति, एतच्च हठप्रियशब्दाभ्यामेव गतार्थम् । द्वय इति--द्व्यवयवे--इत्यर्थः । मन्त्रोद्धृत्प्रसङ्गे इति--त्रिंशाह्निके ॥ ननु भवत्वेवम्, नैमित्तिकत्वं तु अस्य कुतस्त्यम् ?--इत्याशङ्क्य आह--
 
 > योगिनीमेलकाच्चैषोऽवश्यं ज्ञानं प्रपद्यते ॥

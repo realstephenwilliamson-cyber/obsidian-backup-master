@@ -36,6 +36,11 @@ anena svātmavijñānaṃ sasphuratvaprasādhakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 78–80)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.60–62]]
+>
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.62–63]]
+
 *Lead-in:* अत्रैव तात्पर्यार्थं व्याचष्टे --
 
 > अनेन स्वात्मविज्ञानं सस्फुरत्वप्रसाधकम् ॥

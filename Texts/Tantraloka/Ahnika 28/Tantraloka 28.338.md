@@ -33,6 +33,11 @@ yuktyānayāsmatsantānaguruṇā kallaṭena yat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 146–149)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.337–338]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.338–340]]
+
 *Lead-in:* अत एव अस्मद्गुरुभिरपि युक्तमेवोक्तम्--इत्याह--
 
 Jayaratha comments on this verse together with 28.337: see [[Tantraloka 28.337#Viveka|28.337]].

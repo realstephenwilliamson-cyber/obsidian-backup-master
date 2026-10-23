@@ -37,6 +37,11 @@ yonirūpeṇa tasyāpi yoge kṣobhāntaraṃ vrajet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 301–303)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.180]]
+>
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.180 (2)]]
+
 *Lead-in:* न केवलं कादि-हान्तस्य वर्णजातस्य स्पर्शादितया पृथक् पृथगभिधानं यावदपृथक्त्वेनापि -- इत्याह --
 
 > कादि-हान्तमिदं प्राहुः क्षोभाधारतया बुधाः ।

@@ -32,6 +32,9 @@ sparśamātrānna viśrāntyā jhaṭityevāvarohataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 316)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.519–520]]
+
 *Lead-in:* एवमेतत् प्रसङ्गादभिधाय प्रकृतमेव आह--
 
 > आपादितद्विजत्वस्य द्वादशान्ते निजैक्यतः ।

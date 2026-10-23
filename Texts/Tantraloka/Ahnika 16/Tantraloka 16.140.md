@@ -34,5 +34,8 @@ trayoviṃśativarṇī syāt ṣaḍvarṇyekaikaśastriṣu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 64)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.139–142]]
+
 Jayaratha comments on this verse together with 16.142: see [[Tantraloka 16.142#Viveka|16.142]].
 

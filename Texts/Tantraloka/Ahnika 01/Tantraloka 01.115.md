@@ -35,6 +35,9 @@ saumyaraudrākṛtidhyānayogīnyanvarthakalpanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 279–281)
+> ![[Tantraloka Dyczkowski v01 08 - Chapter One, part 7#Viveka on 1.115]]
+
 *Lead-in:* बहुप्रकारत्वं चक्राणां भेदनिमित्तमपि त्रिशिरोभैरव एवोक्तम्, -- इत्याह --
 
 > नामानि चक्रदेवीनां तत्र कृत्यविभेदतः ।

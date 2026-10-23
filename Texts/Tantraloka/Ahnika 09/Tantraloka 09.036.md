@@ -36,6 +36,11 @@ kumbhakārasya yā saṃvit cakradaṇḍādiyojane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 42)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.35–36]]
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.36–37]]
+
 *Lead-in:* ननु कथं सर्वत्र शिवस्यैव कर्तृत्वमिष्यते, घटादौ हि कुम्भकारो व्याप्रियमाणो दृश्यते ? -- इत्याशङ्क्याह -
 
 > कुम्भकारस्य या संवित् चक्रदण्डादियोजने ॥

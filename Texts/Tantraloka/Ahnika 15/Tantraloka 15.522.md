@@ -32,5 +32,8 @@ avādo'karaṇaṃ gūḍhiḥ pūjā tarpaṇabhāvane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 319)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.521–523]]
+
 Jayaratha comments on this verse together with 15.539: see [[Tantraloka 15.539#Viveka|15.539]].
 

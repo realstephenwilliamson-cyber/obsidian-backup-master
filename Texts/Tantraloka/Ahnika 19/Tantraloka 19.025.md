@@ -34,6 +34,9 @@ svayaṃ ca karma kurvīta tattvaśuddhyādikaṃ guruḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 218–219)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.23–26]]
+
 > इयमुत्क्रामणी दीक्षा कर्तव्या योगिनो गुरोः ॥
 > अनभ्यस्तप्राणचारः कथमेनां करिष्यति ।
 > वक्ष्यमाणां ब्रह्मविद्यां सकलां निष्कलोम्भिताम् ॥

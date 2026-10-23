@@ -33,6 +33,11 @@ hetuḥ karmeśvarecchā vā karma tāvanna tādṛśam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 158–159)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.54–56]]
+>
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.56]]
+
 *Lead-in:* तदाह -
 
 > ईश्वरेच्छा स्वतन्त्रा च क्वचिदेव तथैव किम् ॥

@@ -36,5 +36,5 @@ Pritzker translation (Matt): [[Zohar 8.04 - Parashat Emor#^z3-92a|Parashat Emor,
 *Not translated in the Soncino edition: Emor 36:176–37:182.*
 
 [^1]: The first 30 lines of the Hebrew text are not found in our translation.
-[^2]: v. T. B. Hullin, 78b, where two views are given.
+[^2]: v. T. B. [[Chullin 78#78b|Hullin, 78b]], where two views are given.
 [^3]: T. B. Taanith, 12b.

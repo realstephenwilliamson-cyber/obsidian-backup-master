@@ -34,6 +34,9 @@ yadi vā piṇḍamantreṇa sarvamantreṣvayaṃ vidhiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 196)
+> ![[Tantraloka Dyczkowski v09 09 - Chapter Eighteen#Viveka on 18.7]]
+
 *Lead-in:* अत्रापि मन्त्रभेदमाह--
 
 > प्रत्येकं मातृकायुग्मवर्णैस्तत्त्वानि शोधयेत् ।

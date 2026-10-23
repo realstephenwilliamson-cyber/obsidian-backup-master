@@ -33,6 +33,13 @@ tathāhyantyakṣaṇe brahmavidyākarṇanasaṃskṛtaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 161)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.360–361]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.361–362]]
+>
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.361–362 (continued)]]
+
 *Lead-in:* भावनापेक्षामेव उपोद्बलयति--
 
 > तथाह्यन्त्यक्षणे ब्रह्मविद्याकर्णनसंस्कृतः ॥

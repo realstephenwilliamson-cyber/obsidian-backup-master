@@ -33,6 +33,11 @@ yadyapi jñānavānbhūtvā vidhatte karma kiñcana || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 139–140)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.27–29]]
+>
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.29–30]]
+
 *Lead-in:* ज्ञानिनापि हि क्रियमाणं कर्म कर्मतयैवाज्ञानसहचरितं स्यात्, तत्तत्रापि तन्निरुद्धफलभाजनसामर्थ्यमित्यज्ञानिषु का वार्ता । भवतु वा, मिथ्याज्ञानसाहचर्याभावाज्ज्ञानिना क्रियमाणं कर्म निष्फलं ज्ञानादर्वाक् कृतं तु कथमेवं स्यात् -- इत्याह --
 
 > यद्यपि ज्ञानवान्भूत्वा विधत्ते कर्म किञ्चन ॥

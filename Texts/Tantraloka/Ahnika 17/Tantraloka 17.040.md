@@ -36,5 +36,8 @@ aparāmantramuktvā prāgamukātmana ityatha || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 160)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.39–40]]
+
 Jayaratha comments on this verse together with 17.39: see [[Tantraloka 17.039#Viveka|17.39]].
 

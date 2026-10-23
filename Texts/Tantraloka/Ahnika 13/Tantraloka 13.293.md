@@ -33,6 +33,13 @@ vyavadhānacirakṣiprabhedādyairupavarṇitaiḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 304–307)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.292–293]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.293–295]]
+>
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.293–295 (continued)]]
+
 *Lead-in:* न केवलमेतत्संविदद्वैतनिष्ठैरेव गुरुभिरुक्तं यावच्छैवशास्त्रव्याख्यातृभिरपि -- इत्याह --
 
 Jayaratha comments on this verse together with 13.292: see [[Tantraloka 13.292#Viveka|13.292]].

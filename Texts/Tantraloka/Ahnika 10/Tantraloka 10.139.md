@@ -33,6 +33,11 @@ uktaṃ ca bodhayāmāsa sa sisṛkṣurjagatprabhuḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 381–382)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.139]]
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.139–140]]
+
 *Lead-in:* इत्यादिप्रागुक्तयुक्त्या मन्त्रमन्त्रेश्वरमन्त्रमहेश्वरत्वायाभिधीयतां प्रबोधः, कथं पुनः संसृतयेऽपि जातु बुद्ध्यते इत्युक्तम् ? -- इत्याशङ्क्याह --
 
 > अवतारो हि विज्ञानियोगिभावेऽस्य भिद्यते ।

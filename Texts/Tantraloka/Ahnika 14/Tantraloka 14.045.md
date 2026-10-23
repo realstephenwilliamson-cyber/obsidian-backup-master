@@ -31,6 +31,9 @@ avikalpastathādyaiva jīvanmukto na saṃśayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 374)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.42–45]]
+
 > उक्तं श्रीनिश्चारे च भैरवीयेण तेजसा ॥
 > व्याप्तं विश्वं प्रपश्यन्ति विकल्पोज्झितचेतसः ।
 > विकल्पयुक्तचित्तस्तु पिण्डपाताच्छिवं व्रजेत् ॥

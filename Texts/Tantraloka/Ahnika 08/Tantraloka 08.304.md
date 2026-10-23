@@ -35,6 +35,9 @@ māyābilātpradatte puṃsāṃ niṣkṛṣya niṣkṛṣya || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 308–309)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.304–306]]
+
 *Lead-in:* स्थित्यादिकारित्वमेवास्य दर्शयति --
 
 Jayaratha comments on this verse together with 8.306: see [[Tantraloka 08.306#Viveka|8.306]].

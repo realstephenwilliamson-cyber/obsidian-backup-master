@@ -33,6 +33,11 @@ pratyakṣamapi netrātmadīpārthādiviśeṣajam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 191–192)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.2–3]]
+>
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.3–4]]
+
 *Lead-in:* न केवलमनुमाने एव प्रसिद्धिर्निबन्धनं यावत् प्रत्यक्षेऽपि--इत्याह--
 
 > प्रत्यक्षमपि नेत्रात्मदीपार्थादिविशेषजम् ॥

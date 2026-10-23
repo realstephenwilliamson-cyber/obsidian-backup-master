@@ -31,6 +31,9 @@ tatra ye kampravijñānāste dehānte śivāḥ sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 131)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.303]]
+
 *Lead-in:* एवं योगिनो मृतवृत्तान्तमभिधाय, ज्ञानिनोऽपि आह--
 
 > ये तु विज्ञानिनस्तेऽत्र द्वेधा कम्प्रेतरत्वतः ।

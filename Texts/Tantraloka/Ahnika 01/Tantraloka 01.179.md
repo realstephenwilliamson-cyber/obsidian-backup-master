@@ -36,6 +36,11 @@ tatprasādātpunaḥ paścādbhāvino'tra viniścayāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 353–355)
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.178–179]]
+>
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.179–180]]
+
 *Lead-in:* ननु अत्र उत्पत्तौ विकल्पापेक्षित्वं मा भूत् तथात्वे हि शाक्तोपायादस्य भेदो न स्यात्, औत्तरकालिकाः पुनर्विकल्पाः किमत्र अपेक्ष्यन्ते न वा ? इत्याशङ्क्याह --
 
 > तत्प्रसादात्पुनः पश्चाद्भाविनोऽत्र विनिश्चयाः ॥

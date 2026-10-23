@@ -35,6 +35,9 @@ tatrāpi triguṇacchāyāyogāt tritvamudāhatam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 288–290)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.282–283]]
+
 > अणिमाद्यूर्ध्वतस्तिस्रः पङ्क्तयो गुरुशिष्यगाः ।
 > तत्रापि त्रिगुणच्छायायोगात् त्रित्वमुदाहतम् ॥
 > नाडीविद्याष्टकं चोर्ध्वं पङ्क्तीनां स्यादिडादिकम् ।

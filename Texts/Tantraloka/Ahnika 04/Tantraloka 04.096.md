@@ -34,6 +34,9 @@ svapūrvapūrvopāyatvādantyatarkopayogataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 116–117)
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.96]]
+
 *Lead-in:* ननु यद्येवं तद्यमादीनामष्टानामपि योगाङ्गानां किमर्थमभिधानम्? इत्याशङ्क्याह --
 
 > योगाङ्गता यमादेस्तु समाध्यन्तस्य वर्ण्यते ।

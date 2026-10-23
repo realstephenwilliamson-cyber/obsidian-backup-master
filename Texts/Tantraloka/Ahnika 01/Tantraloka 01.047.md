@@ -34,6 +34,9 @@ tathāvidhāvasāyātmabauddhavijñānasampade |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 168–169)
+> ![[Tantraloka Dyczkowski v01 06 - Chapter One, part 5#Viveka on 1.47]]
+
 *Lead-in:* एवं बौद्धमपि ज्ञानं पारमेश्वरं शास्त्रमन्तरेण कुतः समुदियात् इति तदेव मूलकारणत्वादिह प्रधानम् -- इत्याह --
 
 > तथाविधावसायात्मबौद्धविज्ञानसम्पदे ।

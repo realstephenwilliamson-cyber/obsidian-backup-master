@@ -285,9 +285,9 @@ with a whore, who is ‘the alien domain’.
 **57a:20** There is no positive or negative precept that is not  
 לית פקוד׳ דעשה ולא תעשה דלא ^57a-20
 
-[^1]: *BT* Shabbat 113a
+[^1]: *BT* [[Shabbat 113#113a|Shabbat 113a]]
 [^2]: *’oneg*
-[^3]: *BT* Shabbat 117b
+[^3]: *BT* [[Shabbat 117#117b|Shabbat 117b]]
 [^4]: *tosephet*
 [^5]: *ma’aseh*
 [^6]: *matronita*
@@ -296,15 +296,15 @@ with a whore, who is ‘the alien domain’.
 [^9]: *ḥol*
 [^10]: *ḥalalah*
 [^11]: *ḥilul*
-[^12]: See *BT* Shabbat 118b
-[^13]: See *BT* Shabbat 117b
-[^14]: *BT* Ketubot 62b
-[^15]: See *BT* Shabbat 119a
+[^12]: See *BT* [[Shabbat 118#118b|Shabbat 118b]]
+[^13]: See *BT* [[Shabbat 117#117b|Shabbat 117b]]
+[^14]: *BT* [[Ketubot 62#62b|Ketubot 62b]]
+[^15]: See *BT* [[Shabbat 119#119a|Shabbat 119a]]
 [^16]: *zar*
 [^17]: *me-ḥalaleha*
 [^18]: *musaph*
 [^19]: *Shemot Rabbah* 25:12
-[^20]: *BT* Baba Batra 25b
+[^20]: *BT* [[Bava Batra 25#25b|Baba Batra 25b]]
 [^21]: ibid
-[^22]: *BT* Berakhot 5b
+[^22]: *BT* [[Berakhot 5#5b|Berakhot 5b]]
 [^23]: *tephilin*

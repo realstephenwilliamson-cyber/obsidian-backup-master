@@ -36,6 +36,11 @@ sāmagrī ca samagrāṇāṃ yadyekaṃ neṣyate vapuḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 38–39)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.30]]
+>
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.30–31]]
+
 *Lead-in:* एवं च नैकं किञ्चन जनकं, सामग्री वै जनिकेत्याद्यपि सङ्गच्छते - - इत्याह --
 
 > अत एव घटोद्भूतौ सामग्री हेतुरुच्यते ।

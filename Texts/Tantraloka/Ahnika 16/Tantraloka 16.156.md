@@ -35,6 +35,9 @@ ekavīratayā so'yaṃ caturdaśatayā sthitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 70)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.151–156]]
+
 > अध्वन्यासनमन्त्रौघः शोधको ह्येक आदितः ॥
 > शब्दराशिर्मालिनी च समस्तव्यस्ततो द्विधा ।
 > एकवीरतया यद्वा षट्कं यामलयोगतः ॥

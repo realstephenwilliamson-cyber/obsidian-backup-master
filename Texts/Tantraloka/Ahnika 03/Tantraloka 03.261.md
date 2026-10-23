@@ -38,6 +38,9 @@ upadeśāya yujyeta bhedendhanavidāhakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 388)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.261]]
+
 *Lead-in:* तदाह—
 
 > हठपाकप्रशमनं यत्तृतीयं तदेव च ।

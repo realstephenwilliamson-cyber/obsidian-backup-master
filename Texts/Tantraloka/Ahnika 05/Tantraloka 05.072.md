@@ -35,6 +35,9 @@ agnīṣomātmake dhāmni visargānanda unmiṣet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 90–91)
+> ![[Tantraloka Dyczkowski v04 05 - Chapter Five, part 3#Viveka on 5.72]]
+
 *Lead-in:* ननु यद्येवमत्रानेके उपायाः संभवन्ति तत् कथं शाक्तस्यैव क्षोभस्य प्राधान्येन निर्देशः कृतः ? -- इत्याशङ्क्याह --
 
 > सोमसूर्यकलाजालपरस्परनिघर्षतः ।

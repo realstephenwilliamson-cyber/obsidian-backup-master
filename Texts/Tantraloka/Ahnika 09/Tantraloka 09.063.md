@@ -31,6 +31,9 @@ malastenāsya na pṛthak tattvabhāvo'sti rāgavat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 66)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.63]]
+
 *Lead-in:* इत्याद्युक्त्या द्विप्रकारमाणवाख्यं सर्वत्रैवोच्यते -- इत्यर्थः । एवं कार्मस्यैव मलस्य मुख्यतया संसारकारणमिति । यदुक्तम् --
 
 > ङिमित्तमभिलाषाख्यम्..................... ।

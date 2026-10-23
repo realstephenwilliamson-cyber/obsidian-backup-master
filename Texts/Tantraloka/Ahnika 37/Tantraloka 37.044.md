@@ -36,6 +36,9 @@ stanmārdvīkaṃ sapadi tanute yatra bhogāpavargau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 246–247)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.44]]
+
 *Lead-in:* यस्मिन् विश्वाः कलितरुचयो देवताश्चक्रचर्य-
 
 > स्तन्मार्द्वीकं सपदि तनुते यत्र भोगापवर्गौ ॥

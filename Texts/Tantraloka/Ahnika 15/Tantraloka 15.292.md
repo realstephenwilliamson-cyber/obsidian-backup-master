@@ -31,6 +31,9 @@ kṛtvārghapātraṃ tadvipruṭprokṣitaṃ kusumādikam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 172–173)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.290–293]]
+
 > कानि द्रव्याणि यागाय को न्वर्घ इति नोदितम् ॥
 > सिद्धिकामस्य तत्सिद्धौ साधनैव हि कारणम् ।
 > मुक्तिकामस्य नो किञ्चिन्निषिद्धं विहितं च नो ॥

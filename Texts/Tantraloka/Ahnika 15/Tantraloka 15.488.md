@@ -32,5 +32,8 @@ aśubhaṃ nāśubhamiti śiṣyebhyo kathayed guruḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 297–298)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.485–490]]
+
 Jayaratha comments on this verse together with 15.489: see [[Tantraloka 15.489#Viveka|15.489]].
 

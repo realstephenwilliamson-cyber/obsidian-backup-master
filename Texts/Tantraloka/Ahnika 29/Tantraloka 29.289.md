@@ -31,6 +31,9 @@ parabrahmaṇyavettāro'gamāgamavivarjitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 410)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.288–290]]
+
 *Lead-in:* एतच्च तत्त्वज्ञैरेव सामयिकैः सह कार्यं, न अन्यैः--इत्याह--
 
 Jayaratha comments on this verse together with 29.288: see [[Tantraloka 29.288#Viveka|29.288]].

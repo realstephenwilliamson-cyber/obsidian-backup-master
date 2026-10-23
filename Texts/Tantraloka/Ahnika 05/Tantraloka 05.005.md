@@ -34,6 +34,9 @@ tathāpi niścayātmāsāvaṇoḥ svātantryayojakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 5–6)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.5]]
+
 *Lead-in:* ननु विकल्पोऽपि अर्थावभासरूपत्वात् निर्विकल्पवच्चिदात्मैवेति को नाम तत्र संस्कारः । संस्कारो हि अतिशयः, स च न संविदि युज्यते - इति कस्य नामोपायान्तरं प्रति सापेक्षत्वमनपेक्षत्वं च स्यात् ? -- इत्याशङ्क्याह --
 
 > विकल्पो नाम चिन्मात्रस्वभावो यद्यपि स्थितः ।

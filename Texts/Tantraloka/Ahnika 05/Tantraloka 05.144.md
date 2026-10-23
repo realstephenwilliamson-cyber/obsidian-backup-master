@@ -35,6 +35,9 @@ hṛdayena sahaikadhyaṃ nayate japatatparaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 194–197)
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.142–144]]
+
 > सुखसीत्कारसत्सम्यक्साम्यप्रथमसंविदः ।
 > संवेदनं हि प्रथमं स्पर्शोऽनुत्तरसंविदः ॥
 > हृत्कण्ठ्योष्ठ्यत्रिधामान्तर्नितरां प्रविकासिनि ।

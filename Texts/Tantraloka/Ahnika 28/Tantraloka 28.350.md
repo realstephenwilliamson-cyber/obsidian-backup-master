@@ -31,6 +31,9 @@ sā tanmūḍhaśarīrānte saṃskārapratibodhanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 154)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.349–351]]
+
 > तदहर्जातबालस्य पशोः कीटस्य वा तरोः ॥
 > मूढत्वेऽपि तदानीं प्राग्भावना ह्यभवत्स्फुटा ।
 > सा तन्मूढशरीरान्ते संस्कारप्रतिबोधनात् ॥

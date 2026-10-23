@@ -1,0 +1,30 @@
+---
+type: "text"
+work: "Guide for the Perplexed"
+author:
+  - "Moses Maimonides"
+translation: "Guide for the Perplexed, English Translation, Friedlander (1903)"
+translator:
+  - "Michael Friedländer"
+license: "Public Domain"
+source: "https://www.sefaria.org/Guide_for_the_Perplexed,_Part_3,_Introduction?ven=Guide_for_the_Perplexed%2C_English_Translation%2C_Friedlander_%281903%29&lang=en"
+aliases:
+  - "Guide for the Perplexed, Part 3, Introduction"
+---
+# Guide for the Perplexed 3.00 - Introduction
+
+← [[Guide for the Perplexed 2.48]] · [[Guide for the Perplexed]] · [[Guide for the Perplexed 3.01]] →
+
+*Part 3, Introduction* · [[Guide for the Perplexed]]
+
+WE have stated several times that it is our primary object in this treatise to expound, as far as possible, the Biblical account of the Creation (Ma‘aseh bereshit) and the description of the Divine Chariot (Ma‘aseh Mercabah) in a manner adapted to the training of those for whom this work is written.
+
+We have also stated that these subjects belong to the mysteries of the Law. You are well aware how our Sages blame those who reveal these mysteries, and praise the merits of those who keep them secret, although they are perfectly clear to the philosopher. In this sense they explain the passage, “Her merchandise shall be for them that dwell before the Lord, to eat sufficiently” ([[Isaiah 23#^23-18|Isa. 23:18]]), which concludes in the original with the words ve-li-me-kasseh ‘atik, i.e., that these blessings are promised to him who hides things which the Eternal has revealed [to him], viz., the mysteries of the Law (Babyl. Talmud, Pesaḥim 119a). If you have understanding you will comprehend that which our Sages pointed out. They have clearly stated that the Divine Chariot includes matters too deep and too profound for the ordinary intellect. It has been shown that a person favoured by Providence with reason to understand these mysteries is forbidden by the Law to teach them except viva voce, and on condition that the pupil possess certain qualifications, and even then only the heads of the sections may be communicated. This has been the cause why the knowledge of this mystery has entirely disappeared from our nation, and nothing has remained of it. This was unavoidable, for the explanation of these mysteries was always communicated vivâ voce, it was never committed to writing.
+
+Such being the case, how can I venture to call your attention to such portions of it as may be known, intelligible, and perfectly clear to me? But if, on the other hand, I were to abstain from writing on this subject, according to my knowledge of it, when I die, as I shall inevitably do, that knowledge would die with me, and I would thus inflict great injury on you and all those who are perplexed [by these theological problems]. I would then be guilty of withholding the truth from those to whom it ought to be communicated, and of jealously depriving the heir of his inheritance. I should in either case be guilty of gross misconduct.
+
+To give a full explanation of the mystic passages of the Bible is contrary to the Law and to reason; besides, my knowledge of them is based on reasoning, not on divine inspiration [and is therefore not infallible]. I have not received my belief in this respect from any teacher, but it has been formed by what I learnt from Scripture and the utterances of our Sages, and by the philosophical principles which I have adopted. It is therefore possible that my view is wrong, and that I misunderstood the passages referred to.
+
+Correct thought and divine help have suggested to me the proper method, viz., to explain the words of the prophet Ezekiel in such a manner that those who will read my interpretation will believe that I have not added anything to the contents of the text, but only, as it were, translated from one language into another, or given a short exposition of plain things. Those, however, for whom this treatise has been composed, will, on reflecting on it and thoroughly examining each chapter, obtain a perfect and clear insight into all that has been clear and intelligible to me. This is the utmost that can be done in treating this subject so as to be useful to all without fully explaining it.
+
+After this introductory remark I ask you to study attentively the chapters which follow on this sublime, important, and grand subject, which is the pin upon which everything hangs, and the pillar upon which everything rests.

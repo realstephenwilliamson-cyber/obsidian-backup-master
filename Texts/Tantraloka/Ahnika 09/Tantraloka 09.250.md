@@ -31,6 +31,9 @@ kalāvidye tataḥ puṃso mukhyaṃ tatkaraṇaṃ viduḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 237)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.249–250]]
+
 > विद्यां विना हि नान्येषां करणानां निजा स्थितिः ॥
 > कलां विना न तस्याश्च कर्तृत्वे ज्ञातृता यतः ।
 > कलाविद्ये ततः पुंसो मुख्यं तत्करणं विदुः ॥

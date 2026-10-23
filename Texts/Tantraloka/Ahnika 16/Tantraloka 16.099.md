@@ -34,6 +34,9 @@ tadyojanānusāreṇa śritvā nyāsaḥ ṣaḍadhvanaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 47)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.99]]
+
 *Lead-in:* तत्र शोध्यस्यैव तावद्वैचित्र्यमभिधातुमाह--
 
 > अपरं परापरं च परं च विधिमिच्छया ।

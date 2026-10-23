@@ -1,0 +1,19 @@
+{
+ "pdf": "/mnt/user-data/uploads/Obsidian Vault/Library/Hinduism/MantranspersonalpsychologyandtheDeviMahatmya.pdf",
+ "pdf_vault": "Library/Hinduism/MantranspersonalpsychologyandtheDeviMahatmya.pdf",
+ "catalog": "Catalog/Hinduism/Satpathy - Man, Transpersonal Psychology and the Devi Mahatmya",
+ "route": "pymupdf",
+ "title": "Man, Transpersonal Psychology and the Devi Mahatmya",
+ "authors": [
+  "Biswajit Satpathy"
+ ],
+ "byline": "Biswajit Satpathy, 2020.",
+ "folder": "Library/Hinduism/Man, Transpersonal Psychology and the Devi Mahatmya (Satpathy)",
+ "index_name": "Man, Transpersonal Psychology and the Devi Mahatmya (Satpathy)",
+ "prefix": "Man, Transpersonal Psychology",
+ "out": "/home/claude/p4/out",
+ "date": "2026-10-22",
+ "ctype": "article",
+ "single": true,
+ "text_source": "PDF text layer (born-digital), PyMuPDF"
+}

@@ -34,6 +34,9 @@ upāyaṃ vetti sa grāhyastadā tyājyo'tha vā kvacit || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 379)
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.273–274]]
+
 *Lead-in:* ननु यद्येवं तत् परतत्त्वविविक्षायाम् "इदमुपादेयमिदं हेयम्"इत्यवश्याश्रयणीयो विभागः कथं सिद्ध्येत् ? -- इत्याशङ्क्याह --
 
 > परतत्त्वप्रवेशे तु यमेव निकटं यदा ।

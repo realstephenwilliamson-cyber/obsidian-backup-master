@@ -39,6 +39,13 @@ asmākaṃ tu svatantreśatathecchākṣobhasaṅgatam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 268–270)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.256–257]]
+>
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.257]]
+>
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.257–258]]
+
 *Lead-in:* तन्न सांख्यानां कश्चिद्दोष उक्तः किन्तु गुणतत्त्ववादिनामेव ? -- इत्याशङ्क्याह --
 
 > अस्माकं तु स्वतन्त्रेशतथेच्छाक्षोभसङ्गतम् ॥

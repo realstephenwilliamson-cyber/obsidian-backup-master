@@ -31,6 +31,11 @@ vyākhyāyai gurumabhyarthayeta pūjāpuraḥsaraṃ matimān || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 181–182)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 28.395–396.*
+>
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.395–396]]
+
 *Lead-in:* एवमेवंविधो गुरुर्व्याख्यार्थमभ्यर्थनीयः--इत्याह--
 
 Jayaratha comments on this verse together with 28.396: see [[Tantraloka 28.396#Viveka|28.396]].

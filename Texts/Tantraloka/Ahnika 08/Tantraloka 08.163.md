@@ -35,6 +35,9 @@ sthūlāḥ pañca viśeṣāḥ saptāmī tanmayā lokāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 192–193)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.163–164]]
+
 *Lead-in:* तदाह -
 
 Jayaratha comments on this verse together with 8.164: see [[Tantraloka 08.164#Viveka|8.164]].

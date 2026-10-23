@@ -34,6 +34,9 @@ devaḥ sarvagato deva nirmaryādaḥ kathaṃ śivaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 386)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.45–46]]
+
 *Lead-in:* तदेव अर्थद्वारेण आह--
 
 Jayaratha comments on this verse together with 26.46: see [[Tantraloka 26.046#Viveka|26.46]].

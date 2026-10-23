@@ -33,6 +33,11 @@ patyuḥ parasmādyastveṣa śaktipātaḥ sa vai malāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 294–295)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.275–276]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.276–277]]
+
 *Lead-in:* ननु भवत्वेवं पारमेश्वराच्छक्तिपातात्पुनः किं स्यात्? -- इत्याशङ्क्याह --
 
 > पत्युः परस्माद्यस्त्वेष शक्तिपातः स वै मलात् ॥

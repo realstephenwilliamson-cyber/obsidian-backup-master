@@ -31,6 +31,9 @@ tadvibhurbhairavo devo bhagavāneva bhaṇyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 347)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.80–81]]
+
 *Lead-in:* एतदेव प्रतिविधत्ते --
 
 Jayaratha comments on this verse together with 10.81: see [[Tantraloka 10.081#Viveka|10.81]].

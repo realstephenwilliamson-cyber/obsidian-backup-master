@@ -35,6 +35,9 @@ svasaṃvidaḥ svasiddhāyāstathā sarvatra budhyatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 89)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.101]]
+
 *Lead-in:* ननु बीजाङ्कृरादावनुप्रवेश एव चितो नास्ति मृद्घटादौ पुनरस्ति तदनुप्रवेशः, किं त्वसौ कौम्भकारी न पूर्णा, -- इति कथमुक्तं पूर्णरूपायाश्चित एव सर्वत्र कर्तृत्वम्? -- इत्याशङ्क्याह --
 
 > सर्वप्रमाणैर्नो सिद्धं स्वप्ने कर्त्रन्तरं यथा ।

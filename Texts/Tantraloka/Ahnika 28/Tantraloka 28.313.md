@@ -31,6 +31,9 @@ sukṛtaṃ duṣkṛtaṃ cāsya śaṅkyaṃ taccāsya no bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 135)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.313]]
+
 > तीर्थे श्वपचगृहे वा नष्टस्मृतिरपि परित्यजेद्देहम् ।
 > ज्ञानसमकालमुक्तः कैवल्यं याति हतशोकः ॥
 > अनन्तकारिका चैषा प्राहेदं बन्धकं किल ।

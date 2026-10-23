@@ -31,6 +31,9 @@ hetutā yogyataivāsau phalānantaryabhāvitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 108)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.122]]
+
 *Lead-in:* इति न्यायात् नियमेन कथङ्कारं कार्यं हेतुर्व्यवस्थापयेत् ? -- इत्याशङ्क्याह --
 
 > नहि हेतुः कदाप्यास्ते विना कार्यं निजं क्वचित् ।

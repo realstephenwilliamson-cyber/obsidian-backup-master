@@ -33,6 +33,11 @@ tirodhiḥ pūrṇarūpasyāpūrṇatvaṃ tacca pūraṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 191–192)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.110–111]]
+>
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.111–112]]
+
 > तिरोधिः पूर्णरूपस्यापूर्णत्वं तच्च पूरणम् ॥
 > प्रति भिन्नेन भावेन स्पृहातो लोलिका मलः ।
 

@@ -32,5 +32,8 @@ vinājñayā prakurvīta kiñcittatsevanādṛte || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 323)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.537–540]]
+
 Jayaratha comments on this verse together with 15.539: see [[Tantraloka 15.539#Viveka|15.539]].
 

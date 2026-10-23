@@ -34,6 +34,9 @@ mantravidyācakragaṇāḥ siddhibhājo bhavanti hi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 38–39)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.55–56]]
+
 *Lead-in:* नन्वेवंवचने किं प्रमाणम् ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 7.56: see [[Tantraloka 07.056#Viveka|7.56]].

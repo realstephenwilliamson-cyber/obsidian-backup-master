@@ -34,6 +34,9 @@ taddehabhaṅge suptāḥ syurātādṛgvāsanākṣayāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 233)
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.17]]
+
 *Lead-in:* नन्वेवं तत्त्वमनुशीलयतामेषां किं स्यात् ? -- इत्याशङ्क्याह --
 
 > तेषां तथा भावना चेद्दार्ढ्यमेति निरन्तरम् ।

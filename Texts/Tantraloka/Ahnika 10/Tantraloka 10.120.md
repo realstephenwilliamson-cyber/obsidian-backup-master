@@ -33,6 +33,11 @@ tathā vedyasvabhāve'pi vastuto na śivātmatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 371–372)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.119–120]]
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.120–121]]
+
 *Lead-in:* ननु यद्येवं वेद्यरूपोऽपि शिव एव तत्कथं तथाभावाविशेषात्तृणपर्णादावपि शिवभावना न फलेत् ? -- इत्याशङ्क्याह --
 
 > तथा वेद्यस्वभावेऽपि वस्तुतो न शिवात्मताम् ॥

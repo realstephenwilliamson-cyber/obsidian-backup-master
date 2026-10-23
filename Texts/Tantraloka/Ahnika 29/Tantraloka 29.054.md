@@ -31,6 +31,9 @@ vidhireṣa eva vihitastatsaṃkhyā dīpamālā syāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 250–251)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.54]]
+
 > माहेशी वैरिञ्ची कौमारी वैष्णवी चतुर्दिक्कम् ।
 > एन्द्री याम्या मुण्डा योगेशीरीशतस्तु कोणेषु ॥
 > पवनान्तमघोरादिकमष्टकमस्मिन्नथाष्टके क्रमशः ।

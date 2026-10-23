@@ -33,6 +33,11 @@ dvaye'pi niraye yānti raurave bhīṣaṇe tviti |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 289–297)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.99–100]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.100–101]]
+
 *Lead-in:* इति । न च अत्र विषभक्षणवाक्यवददूतिकत्वे तात्पर्यम् । तददूतिको यागो न कार्यः, दूतिश्च एवंविधा न प्राप्येत्यशक्त्यानुष्ठानमेतत् ?--इत्याशङ्क्य आह--
 
 > शक्तेर्लक्षणमेतावत्तद्वतो ह्यविभेदिता ॥

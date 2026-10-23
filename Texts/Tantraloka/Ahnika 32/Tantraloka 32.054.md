@@ -33,6 +33,11 @@ parāṅmukhairjhaṭityudyadraśmibhiḥ pṛṣṭhasaṃsthitaiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 162–165)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.54–55]]
+>
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.54–62]]
+
 *Lead-in:* अस्या एव सर्वत्र अविगीततां दर्शयितुं शास्त्रान्तरतोऽपि सप्रभेदं रूपमाह--
 
 Jayaratha comments on this verse together with 32.62: see [[Tantraloka 32.062#Viveka|32.62]].

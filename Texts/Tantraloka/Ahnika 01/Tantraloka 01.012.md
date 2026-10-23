@@ -34,6 +34,9 @@ sa śrīcukhulako diśyādiṣṭaṃ me gururuttamaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 71–73)
+> ![[Tantraloka Dyczkowski v01 03 - Chapter One, part 2#Viveka on 1.12]]
+
 *Lead-in:* इत्याद्युक्त्या तस्याचार्यादपि गौरवातिरेकस्मृतेर्निजमपि पितरमाशीर्वादमुखेन परामृशति --
 
 > यः पूर्णानन्दविश्रान्तसर्वशास्त्रार्थपारगः ।

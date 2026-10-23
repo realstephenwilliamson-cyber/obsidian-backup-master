@@ -36,6 +36,11 @@ dharmādharmavyāptivināśāntarakāle
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 201–203)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.128]]
+>
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.128 (2)]]
+
 *Lead-in:* पूर्वाचार्यैरपि एतदेवोक्तम् -- इत्याह --
 
 > श्रीमान्विद्यागुरुश्चाह प्रमाणस्तुतिदर्शने ।

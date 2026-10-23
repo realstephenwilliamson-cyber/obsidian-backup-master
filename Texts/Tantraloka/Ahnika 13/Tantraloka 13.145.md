@@ -31,6 +31,11 @@ nirūpitaṃ maheśena kiyadvā likhyatāmidam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 214–215)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 13.146.*
+>
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.146]]
+
 *Lead-in:* एतच्च न केवलमत्रैवोक्तं यावदन्यत्रापि -- इत्याह --
 
 Jayaratha comments on this verse together with 13.146: see [[Tantraloka 13.146#Viveka|13.146]].

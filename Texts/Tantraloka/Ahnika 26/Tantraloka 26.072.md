@@ -34,6 +34,9 @@ tacchaṅkātaṅkadānena vyādhaye narakāya ca || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 396–397)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.72]]
+
 *Lead-in:* अन्यभक्षणेन दोषः--इत्याह--
 
 > मार्जारमूषिकाद्यैर्यददीक्षैश्चापि भक्षितम् ।

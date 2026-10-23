@@ -34,6 +34,9 @@ tuṭyādiṣaṣṭivarṣāntaṃ viśvaṃ kālaṃ vicārayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 422–423)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.212–213]]
+
 > प्राणव्याप्तौ यदुक्तं तदुदानेऽप्यत्र केवलम् ।
 > नासाशक्त्यन्तयोः स्थाने ब्रह्मरन्ध्रेर्ध्वधामनी ॥
 > तेनोदानेऽत्र हृदयान्मूर्धन्यद्वादशान्तगम् ।

@@ -1,0 +1,57 @@
+---
+type: "text"
+work: "Mishneh Torah"
+author:
+  - "Moses Maimonides"
+translation: "Mishneh Torah, trans. by Eliyahu Touger. Jerusalem, Moznaim Pub. c1986-c2007"
+translator:
+  - "Eliyahu Touger"
+license: "CC-BY-NC"
+source: "https://www.sefaria.org/Mishneh_Torah,_Defilement_by_a_Corpse.16?ven=Mishneh_Torah%2C_trans._by_Eliyahu_Touger._Jerusalem%2C_Moznaim_Pub._c1986-c2007&lang=en"
+aliases:
+  - "Mishneh Torah, Defilement by a Corpse 16"
+  - "MT Defilement by a Corpse 16"
+book: "Sefer Taharah"
+section: "Defilement by a Corpse"
+chapter: 16
+---
+# Mishneh Torah - Defilement by a Corpse 16
+
+← [[Mishneh Torah - Defilement by a Corpse 15]] · [[Mishneh Torah - Defilement by a Corpse]] · [[Mishneh Torah - Defilement by a Corpse 17]] →
+
+*Sefer Taharah · Defilement by a Corpse · Chapter 16* · [[Mishneh Torah - Defilement by a Corpse]] · [[Mishneh Torah]]
+
+> [!xref]- In the Talmud
+> - [[Sukkah 18#^18a-9|Sukkah 18a:9]] (halakhah 1)
+> - [[Sukkah 22#^22a-5|Sukkah 22a:5]] (halakhah 6)
+> - [[Sukkah 22#^22a-7|Sukkah 22a:7]] (halakhah 6)
+
+**1.** The following rule applies when there is an aperture - whether it is the size of a handbreadth by a handbreadth or it is less than a handbreadth by a handbreadth - in the midst of the roof of a house and there is a source of impurity under the roof of the house: The space directly below the aperture is pure, because it is open to free space and the remainder of the house is impure. If the impurity was solely under the aperture, the entire house is pure.  
+The following rules apply when the source of impurity was partially under the roof and partially under the aperture. If the aperture comprised a handbreadth by a handbreadth of open space, the house is impure entirely and the space below the entire aperture is impure. If it does not comprise a handbreadth by a handbreadth of open space, different rules apply. If the impurity is large enough so that if it was divided, a minimum measure would be found below the roof and also a minimum measure would be below the aperture, everything is impure. If not, the house is impure, but the space under the aperture is pure.  
+If the aperture comprised a handbreadth by a handbreadth of open space and a person put his foot on top of the aperture, everything becomes considered as one *ohel*. Therefore whether there was impurity only under the roof or only under the aperture, everything is impure, the house and the space below the aperture. Moreover, the person who conveyed the impurity to this place is impure, because he became part of an *ohel* over impurity. If the aperture did not comprise a handbreadth by a handbreadth of open space and the impurity is under the roof, the person who placed his foot over the aperture is not impure, because impurity does not depart through less than a handbreadth of open space.  
+The following laws apply if the impurity was under the aperture and a person closed it with his foot. If the impurity was there before his foot, he is impure, because he stood over the impurity. If his foot was there before the impurity, he is pure, because his foot is part of the *ohel* and the impurity does not depart to him. ^16-1
+
+**2.** If there was an olive-sized portion of a corpse in the mouth of a raven that held it over an aperture in the roof of a house and thus the olive-sized portion was found in the space of the aperture, the house is impure even though the aperture does not comprise a handbreadth by a handbreadth of open space. ^16-2
+
+**3.** The following rules apply when there is a house with an aperture in its roof, a loft built above it with an aperture in its roof, and the two apertures are positioned one on top of the other. Whether the apertures comprise a handbreadth by a handbreadth of open space or not, if there is impurity in the house, the space under the apertures is pure and everything else is impure. If the impurity is under the apertures, the entire house is pure.  
+If the apertures comprised a handbreadth by a handbreadth of open space, whether the impurity was under the roof of the house or under the apertures, were an entity that is susceptible to impurity to have been placed either above the aperture of the house or above the aperture of the loft, everything is impure. The rationale is that an impure entity does not intervene in the face of ritual impurity.  
+If one placed an entity that is not susceptible to ritual impurity over the aperture of the house, the house is impure and the loft is pure. If such an article was placed on the aperture of the loft, the house and the loft are impure and the space directly above the aperture until the heavens is pure.  
+If the apertures did not comprise a handbreadth by a handbreadth of open space, impurity was found under the roof of the house, and one placed an object - whether an object that is susceptible to ritual impurity or one which is not susceptible to ritual impurity - on either the aperture of the house or the aperture of the loft, only the house becomes ritually impure. The rationale is that impurity does not depart to the loft unless there is an open space of a handbreadth by a handbreadth.  
+If the impurity was beneath the apertures and one placed an entity that was susceptible to ritual impurity over either the lower or the upper aperture, both the house and the loft are impure, because one has extended the impurity. If he placed an entity that is not susceptible to ritual impurity over either the lower or the upper aperture, only the house is impure.  
+All of these laws apply only when one purposely makes an aperture. If, however, a roof is opened as a matter of course, the measure which conveys ritual impurity is the full size of a rafter, as we explained. ^16-3
+
+**4.** The following laws apply when one opens a ceiling to make an aperture in the roof of a house so that the leg of a bed can be inserted into it and the leg of the bed closes the aperture. If the aperture comprises a handbreadth by a handbreadth of open space and there is impurity in the house, the loft is also impure, because a *k'li* that can contract ritual impurity does not intervene. If it does not comprise a handbreadth by a handbreadth, the loft is pure, and the foot of the bed that extends below is impure, like a *k'li* that hangs over impurity. If, however, a roof is opened as a matter of course, the measure which conveys ritual impurity is the full size of a rafter, as we explained. ^16-4
+
+**5.** The following laws apply when there is an aperture in the roof of a house and there is an earthenware pot placed on the earth directly aligned with the aperture so that if it was lifted up, it would be able to be lifted through the aperture without leaving any space at all. If there was impurity beneath the pot, flush between it and the earth, or there was impurity inside the pot, or on its outer surface, the impurity pierces through and ascends and pierces through and descends and only objects that are directly above it or below it are impure. The remainder of the house is pure in its entirety.  
+If the pot was a handbreadth above the ground and there was impurity under it or under the roof of the house, the house is impure in its entirety and whatever is under the pot is impure, because it serves as a shelter. The inner space of the pot are pure, because an earthenware container cannot become impure from its outer surface and the open space of the pot is under the open space of the world at large. If there is a *k’li* in it or on its outer surface, the *k’li* is pure. If the impurity is in [the pot] or on its outer surface, the entire house is pure, for the impurity is only directly under the aperture.  
+If the pot was under the aperture and the aperture was greater than the pot to the extent that if the pot was lifted up there would be an open space of more than a handbreadth by a handbreadth between it and the edge of the aperture, even if the pot is a handbreadth above the ground and there is impurity in it, on its outer surface, or below it, the house is pure.  
+The following laws apply when the pot was placed next to the doorstep of a house in a way that if lifted up, a handbreadth of the space of its opening will be within the outer border of the lintel. If the impurity was flush under the pot, if the pot was a handbreadth above the ground and the impurity was under it or in the house, the area under it and the house are impure, because it is all considered as one structure and its inner space and outer surface are pure. If there was impurity in it and there was impurity below it, only the area below the pot is impure, the house, by contrast, is pure. ^16-5
+
+**6.** The following laws apply when there are beams of a house and loft without a ceiling over them stretching from one side of a structure to another. If the beams of the house and the loft are aligned one beam directly over the other, the empty space between them is aligned one over the other, the width of a beam is a handbreadth, the width of the empty space is a handbreadth and there is impurity beneath one of the beams, only the area beneath it is impure. If the impurity was between the lower beam and the upper beam, only the space between them is impure. If the impurity was on top of an upper beam, the space above it until the heavens is impure.  
+If the upper beams were aligned above the empty space between the lower beams and there was impurity below one of them, the area beneath all of them is impure. If the impurity was on top of an upper beam, the space above it until the heavens is impure.  
+If the beams were not a handbreadth wide, whether they were aligned one above the other or whether the upper ones were aligned above the space between the lower ones, were impurity to be beneath them, between them, or on top of them, the impurity pierces through and ascends and pierces through and descends, and it imparts impurity only to entities under it or over it. The rationale is that any impurity that is not under a covering that is a handbreadth wide and a handbreadth high is considered as "flush."  
+When the roof and the walls of a building are split into halves and there was impurity in the outer portion where the entrance was, the *keilim* in the inner portion are all pure. Different laws apply when there was impurity in the inner portion. If the split was as wide as a plumb line, the *keilim* in the outer portion are pure. If the the split was less than this, they are impure. ^16-6
+
+**7.** When an *exedra* was split and there was impurity in one side, the *keilim* on the other side are pure. For it is like two tents next to each other with space in between them, for the split runs across the entire exedra.  
+If he placed his foot or a reed above, over the crack, he joins the impurity to the other side of the *exedra*. If one placed a reed, or even a large *k'li*, on the earth, directly under the crack, it does not join the impurity unless the *k'li* is under the crack and is a handbreadth high.  
+If a person was lying on the ground below the crack, he joins the impurity to the other side. The rationale is that a person is hollow and his upper portion can be considered as a tent that is a handbreadth high. Similarly, if there were folded garments placed on the ground, one on top of the other and the upper one was a handbreadth above the ground, it joins the impurity to the other side. All of the garments below it are considered as garments that are under a tent. ^16-7

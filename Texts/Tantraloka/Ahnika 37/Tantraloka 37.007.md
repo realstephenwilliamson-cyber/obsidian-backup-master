@@ -31,6 +31,9 @@ uttaraṃ kathitaṃ saṃvitsiddhaṃ taddhi tathā bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 229)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.7]]
+
 *Lead-in:* ननु को नाम अयमशेष उपदेशो येन तदेवंविधं स्यात्?--इत्याशङ्क्य आह--
 
 > यथाधराधरप्रोक्तवस्तुतत्त्वानुवादतः ।

@@ -34,6 +34,9 @@ māyīye tacca taṃ tasmiñchāstre niyamayediti || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 34–35)
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.28]]
+
 *Lead-in:* पूर्वं च यदस्माभिः श्रीपूर्वशास्त्रीये संवादग्रन्थे विषयेच्छाशब्देन वेदादिशास्त्रान्तरोदिते मोक्षोपाये अभिष्वङ्गप्रदं नियतितत्त्वोपेतं रागतत्त्वं व्याख्यातं, तत् न निर्मूलम्, इत्यभिद्योतयितुम् अत्रत्यमपि रागशब्दं व्याचष्टे --
 
 > रागशब्देन च प्रोक्तं रागतत्त्वं नियामकम् ।

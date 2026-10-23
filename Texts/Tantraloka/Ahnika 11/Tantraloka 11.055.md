@@ -36,6 +36,11 @@ tathāhi cidvimarśena grastā vācyadaśā yadā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 53–55)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.55]]
+>
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.55–57]]
+
 *Lead-in:* ननु कलाद्यध्वा मेयभागगतत्वाद् बहिः स्वातन्त्र्येणावभासतां नाम, मन्त्राद्यध्वा पुनः प्रमातृभागगतः इति कथमस्य तथाभावः स्यात्? -- इत्याशङ्क्याह --
 
 > तथाहि मातृरूपस्थो मन्त्राध्वेति निरूपितः ।

@@ -36,6 +36,11 @@ anena codanānāṃ ca svavākyairapi bādhanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 342–344)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.245–246]]
+>
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.246–247]]
+
 *Lead-in:* ननु उक्तवच्छैव्या चोदनया यदि वैदिकीचोदना बाधिता तद्यावदास्तां, वैदिक्या पुनश्चोदनया स्वेनैव सर्वं बाध्यते -- इत्येतन्न यौक्तिकमिव नः प्रतिभासते ? इत्याशङ्क्याह --
 
 > अनेन चोदनानां च स्ववाक्यैरपि बाधनम् ॥

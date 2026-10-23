@@ -36,6 +36,11 @@ kṣudhādyanubhavo naiva vikalpo nahi mānasaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 213–218)
+> ![[Tantraloka Dyczkowski v01 07 - Chapter One, part 6#Viveka on 1.74–75]]
+>
+> ![[Tantraloka Dyczkowski v01 07 - Chapter One, part 6#Viveka on 1.75]]
+
 *Lead-in:* तदेवाह—
 
 > क्षुधाद्यनुभवो नैव विकल्पो नहि मानसः ॥

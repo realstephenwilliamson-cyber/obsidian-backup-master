@@ -33,6 +33,11 @@ na cāvairāgyamātraṃ tattatrāpyāsaktivṛttitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 172–174)
+> ![[Tantraloka Dyczkowski v06 07 - Chapter Nine, part 5#Viveka on 9.199–200]]
+>
+> ![[Tantraloka Dyczkowski v06 07 - Chapter Nine, part 5#Viveka on 9.200–201]]
+
 *Lead-in:* नन्ववैराग्यलक्षणो बुद्धिधर्मोऽत्र सांख्यैर्निमित्तमुक्तम् -- इति किमनेनान्येन रागतत्त्वेन? -- इत्याशङ्क्याह --
 
 > न चावैराग्यमात्रं तत्तत्राप्यासक्तिवृत्तितः ॥

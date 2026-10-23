@@ -35,6 +35,9 @@ sarveṣāṃ kāraṇānāṃ sā kartṛbhūtā vyavasthitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 372–373)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.400–401]]
+
 > शिवतत्त्वोर्ध्वतः शक्तिः परा सा समनाह्वया ।
 > सर्वेषां कारणानां सा कर्तृभूता व्यवस्थिता ॥
 > बिभर्त्यण्डान्यनेकानि शिवेन समधिष्ठिता ।

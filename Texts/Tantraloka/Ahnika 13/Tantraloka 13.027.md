@@ -31,6 +31,9 @@ dehādyabhāvānno mithyājñānasya kvāpi saṃbhavaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 139–140)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.27–29]]
+
 *Lead-in:* एतदेव क्रमेण प्रतिक्षिपति --
 
 Jayaratha comments on this verse together with 13.28: see [[Tantraloka 13.028#Viveka|13.28]].

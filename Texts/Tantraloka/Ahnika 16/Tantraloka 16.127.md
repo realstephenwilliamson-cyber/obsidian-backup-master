@@ -34,6 +34,9 @@ sādāśivaṃ pañcakaṃ syāditthaṃ vasvekakaṃ ravau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 58)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.125–127]]
+
 > एवं पुमादिषट्तत्त्वी विन्यस्ताष्टादशांगुले ॥
 > ततोऽप्यंगुष्ठमात्रान्तं मायातत्त्वस्थमष्टकम् ।
 > प्रत्येकमर्धांङ्गुलतः स्यादंगुलचतुष्टये ॥

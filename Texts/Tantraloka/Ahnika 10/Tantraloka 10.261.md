@@ -31,6 +31,9 @@ rūpasthaṃ tatsamāpattyaudāsīnyaṃ rūpiṇāṃ viduḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 462–463)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.261–262]]
+
 *Lead-in:* अस्यापि प्राग्वदेव योगिज्ञानिविषयतया संज्ञाद्वयमस्ति -- इत्याह -
 
 Jayaratha comments on this verse together with 10.262: see [[Tantraloka 10.262#Viveka|10.262]].

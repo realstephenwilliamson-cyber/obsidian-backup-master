@@ -33,6 +33,11 @@ tathā saṃskāradārḍhyaṃ hi phalāya dṛḍhaṭā punaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 114–116)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.131–132]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.132–133]]
+
 *Lead-in:* ननु को नामास्य ध्वंसः ? -- इत्याशङ्क्याह --
 
 > तथा संस्कारदार्ढ्यं हि फलाय दृढटा पुनः ॥

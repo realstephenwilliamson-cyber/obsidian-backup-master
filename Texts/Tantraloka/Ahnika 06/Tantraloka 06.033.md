@@ -34,6 +34,9 @@ kvacitsvabuddhyā sāpyūhyā kiyallekhyaṃ hi pustake || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 251)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.31–33]]
+
 > उक्तं श्रीमन्निशाचारे संज्ञात्र त्रिविधा मता ॥
 > नैमित्तिकी प्रसिद्धा च तथान्या पारिभाषिकी ।
 > पूर्वत्वे वा प्रधानं स्यात्तत्रान्तर्भावयेत्ततः ॥

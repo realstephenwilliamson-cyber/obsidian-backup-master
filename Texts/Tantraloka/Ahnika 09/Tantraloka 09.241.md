@@ -33,6 +33,11 @@ ahaṃ śṛṇomi paśyāmi jighramītyādisaṃvidi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 231–233)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.241]]
+>
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.241–242]]
+
 *Lead-in:* इति । तेन पार्थिवत्वात् घ्रणं गन्धस्यैव ग्राहकं न रसादेर्यावदाकाशरूपत्वात् श्रोत्रं शब्दस्यैव ग्राहकं न स्पर्शादेरिति, अयुक्तं चैतत्? -- इत्याह --
 
 > भौतिकत्वमतोऽप्यस्तु नियमाद्विषयेष्वलम् ।

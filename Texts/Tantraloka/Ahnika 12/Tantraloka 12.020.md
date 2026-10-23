@@ -36,6 +36,11 @@ tathāhi śaṅkā mālinyaṃ glāniḥ saṅkoca ityadaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 112–114)
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.20]]
+>
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.20–21]]
+
 *Lead-in:* नन्वेवं निषिद्धाचरणे किं प्रमाणम् ? -- इत्याशङ्क्याह --
 
 > वीरव्रतं चाभिनन्देदिति भर्गशिखावचः ।

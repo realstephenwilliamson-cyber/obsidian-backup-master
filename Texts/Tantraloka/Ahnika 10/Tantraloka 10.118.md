@@ -33,6 +33,13 @@ satyaṃ sa tu tathā sṛṣṭaḥ parameśena vedyatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 370)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.117–118]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.118–119]]
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.118–119 (continued)]]
+
 *Lead-in:* एतदेवाभ्युपगम्य विशेषयति --
 
 > सत्यं स तु तथा सृष्टः परमेशेन वेद्यताम् ॥

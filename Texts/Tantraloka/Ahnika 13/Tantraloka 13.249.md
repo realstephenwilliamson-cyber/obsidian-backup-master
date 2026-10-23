@@ -31,6 +31,9 @@ rudraśaktisamāviṣṭo nīyate sadguruṃ prati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 280–281)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.248–249]]
+
 *Lead-in:* तदाह -
 
 > रुद्रशक्तिसमाविष्टो नीयते सद्गुरुं प्रति ॥

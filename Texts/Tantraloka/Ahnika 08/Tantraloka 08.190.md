@@ -37,6 +37,13 @@ jalādeḥ śivatattvāntaṃ na dṛṣṭaṃ kenacicchivāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 209–212)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.186–190]]
+>
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.190–193]]
+>
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.190–193 (continued)]]
+
 *Lead-in:* एतच्चान्यत्र न क्वचिदपि दृष्टम् -- इत्यतः परं मोक्षस्य न कारणम् - - इत्याह -
 
 > जलादेः शिवतत्त्वान्तं न दृष्टं केनचिच्छिवात् ॥

@@ -37,6 +37,11 @@ brahmādyanāśritāntānāṃ cinute sṛṣṭisaṃhṛtī |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 396–397)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.186–187]]
+>
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.187–188]]
+
 *Lead-in:* ननु यद्येवं तत्सर्वत्र प्राणोदय एव प्राधान्येनैतत्कस्मान्निर्दिष्टम् ? -- इत्याशङ्क्याह --
 
 > शश्वद्यद्यप्यपानोऽयमित्थं वहति किंत्वसौ ॥

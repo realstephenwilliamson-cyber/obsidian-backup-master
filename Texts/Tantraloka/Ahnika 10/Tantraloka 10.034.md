@@ -31,6 +31,9 @@ arthaprakāśo jñānasya yadrūpaṃ tannirūpyatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 316)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.34–35]]
+
 *Lead-in:* इह चैत्रो जीवति इति यथा चैत्रस्यैव जीवनाख्योऽतिशयो न परस्य तथा "अर्थः प्रकाशते"इत्यर्थस्यैव कश्चिदतिशयो न ज्ञानस्येत्याशयेनैतदेवोपहासपुरःसरं सदसदनेकपक्षोट्टङ्कनक्रमेण समाधत्ते --
 
 Jayaratha comments on this verse together with 10.35: see [[Tantraloka 10.035#Viveka|10.35]].

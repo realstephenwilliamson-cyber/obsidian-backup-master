@@ -35,6 +35,9 @@ cinmātrameva devī ca sā parā parameśvarī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 391–392)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.179–181]]
+
 > एवं विसृष्टिप्रलयाः प्राण एकत्र निष्ठिताः ॥
 > सोऽपि संविदि संविच्च चिन्मात्रे ज्ञेयवर्जिते ।
 > चिन्मात्रमेव देवी च सा परा परमेश्वरी ॥

@@ -37,6 +37,11 @@ atra liṅge sadā tiṣṭhet pūjāviśrāntitatparaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 160–161)
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.120]]
+>
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.120 (2)]]
+
 *Lead-in:* अत एवाह -
 
 > एकस्य स्पन्दनस्यैषा त्रैधं भेदव्यवस्थितिः ।

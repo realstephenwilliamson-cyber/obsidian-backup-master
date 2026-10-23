@@ -33,6 +33,11 @@ tato madhyagatāttasmād bodharāśeḥ sadaivatāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 200–202)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.328–330]]
+>
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.330–331]]
+
 *Lead-in:* देव्यभिन्नत्वमेव एषां दर्शयति--
 
 > ततो मध्यगतात्तस्माद् बोधराशेः सदैवतात् ॥

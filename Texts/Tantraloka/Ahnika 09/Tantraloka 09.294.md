@@ -33,6 +33,11 @@ tatrānekaprakārāḥ syurgandharūparasāḥ kṣitau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 270–274)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.294]]
+>
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.294–297]]
+
 *Lead-in:* तदेवं गन्धादिधर्मौघाव्यतिरिक्ता धरादयः -- इत्युक्तम्, ते च के कुत्र कियन्तः कीदृशाः पुनः ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 9.296: see [[Tantraloka 09.296#Viveka|9.296]].

@@ -35,6 +35,9 @@ ekaśabdasya na tvarthaḥ saṃkhyā cidvyaktibhedabhāk || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 32–33)
+> ![[Tantraloka Dyczkowski v02 03 - Chapter Two, part 2#Viveka on 2.23]]
+
 *Lead-in:* ननु यदि ज्ञानानि विभिन्नानि न सम्भवन्ति, तत् एकशब्द किमपोहनायात्र प्रयुक्तः ? इत्याशङ्क्याह—
 
 > प्रकाशमात्रमुदितमप्रकाशनिषेधनात् ।

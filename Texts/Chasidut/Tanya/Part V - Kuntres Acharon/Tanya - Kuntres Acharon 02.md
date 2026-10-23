@@ -37,7 +37,7 @@ Thus we can understand why mere thought accomplishes nothing,[^10] for without e
 [^3]: See Addendum, Glossary to *Likkutei Amarim*, Part I. *Nukva* (pl. *nukvin*), “feminine,” describes the recipient, who must in this context take the initiative to arouse the “donor,” the “masculine,” or G–d. *Mayin nukvin* (feminine waters) in transliterated abbreviation is *man*. *Iggeret Hakodesh*, Epistle 8, notes that “arousal from below” is identical with *haaloat man*, “elevation of the feminine waters,” the term employed by the Arizal. (On the Arizal, see Introduction to *Likkutei Amarim*, Part I.)
 [^4]: See below, Essay 3, note 8.
 [^5]: See above, Essay 1, note 3. Only in the lower worlds, apparently from their Creator, is the labor of purification necessary.
-[^6]: Cf. *Sanhedrin* 45a.
+[^6]: Cf. [[Sanhedrin 45#45a|*Sanhedrin* 45a]].
 [^7]: Cf. Addendum, Glossary, *Nefesh ha-bahamit*.
 [^8]: Ibid., *Kelipat nogah*.
 [^9]: See *Likkutei Amarim*, Part II, ch. 7, note 48.

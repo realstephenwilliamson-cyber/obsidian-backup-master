@@ -31,6 +31,9 @@ samahālacchī cāparamekhalayā śaktayaḥ ṣaḍimāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 234–235)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.33–34]]
+
 *Lead-in:* तदेव द्वादशकमाह--
 
 > सिल्लारि एरुणया तथा कुमारी च बोधारि ।

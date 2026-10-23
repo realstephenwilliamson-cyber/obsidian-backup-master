@@ -31,6 +31,9 @@ sthitivacca tato duḥkhasukhābhyāṃ maraṇaṃ dvidhā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 126)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.290–291]]
+
 *Lead-in:* तर्हि अस्य किं नाम मुक्तत्वम्?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 28.291: see [[Tantraloka 28.291#Viveka|28.291]].

@@ -31,6 +31,9 @@ mukhyāṃ śaktimupāsīno'nugṛhṇīyātsa sarvathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 326)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.67]]
+
 *Lead-in:* ननु यद्येवं तच्छिवाभेदिनोऽस्य पञ्चविधकृत्यकारित्वं किं न खण्ड्येत?--इत्याशङ्क्याह--
 
 > शिवाभिन्नोऽपि हि गुरुरनुग्रहमयीं विभोः ।

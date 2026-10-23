@@ -31,6 +31,9 @@ ajñānaṃ jñānato naśyedanyakarmaphalādapi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 131–132)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.13–14]]
+
 > नन्वित्थं प्रदहेज्ज्ञानं कर्मजालानि कर्म हि ॥
 > अज्ञानसहकारीदं सूते स्वर्गादिकं फलम् ।
 > अज्ञानं ज्ञानतो नश्येदन्यकर्मफलादपि ॥

@@ -31,6 +31,9 @@ rajyamāno veda sarvaṃ vidaṃścāpyatra rajyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 207)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.218]]
+
 *Lead-in:* एतदेव प्रतिविधत्ते --
 
 > उक्तमत्र विभात्येष क्रमः सत्यं तथा ह्यलम् ।

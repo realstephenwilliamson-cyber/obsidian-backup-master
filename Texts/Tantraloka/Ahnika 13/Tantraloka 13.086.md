@@ -31,6 +31,9 @@ aliases:
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 178)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.86]]
+
 *Lead-in:* तदाह -
 
 > आदौ मध्ये च चित्रत्वात्कर्मणां न यथा समः ।

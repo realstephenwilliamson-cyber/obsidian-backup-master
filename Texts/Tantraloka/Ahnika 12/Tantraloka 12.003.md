@@ -34,6 +34,9 @@ tathā sthitaḥ samastaśca vyastaścaiṣa kramākramāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 100)
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.2–3]]
+
 > इत्थमध्वा समस्तोऽयं यथा संविदि संस्थितः ।
 > तद्द्वारा शून्यधीप्राणनाडीचक्रतनुष्वथो ॥
 > बहिश्च लिङ्गमूर्त्यग्निस्थण्डिलादिषु सर्वतः ।

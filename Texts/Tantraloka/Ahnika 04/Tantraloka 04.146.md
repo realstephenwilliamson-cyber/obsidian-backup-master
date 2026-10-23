@@ -34,6 +34,9 @@ meye'pi devī tiṣṭhantī māsarāśyādirūpiṇī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 197–198)
+> ![[Tantraloka Dyczkowski v03 07 - Chapter Four, part 6#Viveka on 4.146]]
+
 *Lead-in:* ननु तात्पर्यार्थव्याख्यानमेव कस्मात्कृतम् ? -- इत्याशङ्क्याह --
 
 > न व्याख्यातं तु निर्भज्य यतोऽतिसरहस्यकम् ।

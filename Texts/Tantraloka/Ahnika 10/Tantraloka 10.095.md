@@ -35,6 +35,13 @@ avedyameva kālāgnivapurmeroḥ parā diśaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 355–357)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.94–95]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.95]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.95–96]]
+
 *Lead-in:* न च घटं जानामीत्यत्र स्ववेद्यतां सर्वज्ञादिवेद्यतां च जानामीत्यनुसन्धिरस्ति, जानामीति चास्मदर्थविश्रान्तो ज्ञानपरामर्श एवायम् -- इत्याह --
 
 > ...........णन्वस्तु न तु सन्प्रतिभासते ।

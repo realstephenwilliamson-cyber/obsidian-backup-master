@@ -36,6 +36,11 @@ parāmantrastato'syeti tattvaṃ saṃśodhayāmyatha || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 194–196)
+> ![[Tantraloka Dyczkowski v09 09 - Chapter Eighteen#Viveka on 18.1–3]]
+>
+> ![[Tantraloka Dyczkowski v09 09 - Chapter Eighteen#Viveka on 18.3–6]]
+
 *Lead-in:* एवं जननादिविहीनत्वमभिधाय मन्त्रभेदमाह--
 
 Jayaratha comments on this verse together with 18.2: see [[Tantraloka 18.002#Viveka|18.2]].

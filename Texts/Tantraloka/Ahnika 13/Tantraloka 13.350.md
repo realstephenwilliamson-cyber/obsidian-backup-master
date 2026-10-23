@@ -33,6 +33,11 @@ yo yatra śāstre'dhikṛtaḥ sa tatra gururucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 340)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 13.350–351.*
+>
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.350–351]]
+
 *Lead-in:* तदेवाह -
 
 > यो यत्र शास्त्रेऽधिकृतः स तत्र गुरुरुच्यते ॥

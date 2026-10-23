@@ -33,6 +33,11 @@ visṛṣṭisthitisaṃhārā ete karmabalādyataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 103–104)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.230–232]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.232–233]]
+
 *Lead-in:* एते च अस्य सृष्ट्यादयः कर्मबलोपनता इति नियत्याद्यपेक्षित्वात् तत्तद्वैचित्र्यभाजो भवन्ति--इत्याह--
 
 > विसृष्टिस्थितिसंहारा एते कर्मबलाद्यतः ॥

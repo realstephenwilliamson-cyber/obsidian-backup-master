@@ -31,6 +31,9 @@ avyāhatapūrvāparamupavṛhya nayeta vākyāni || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 183–184)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.400]]
+
 *Lead-in:* सम्बन्धपूर्वकत्वमेव दर्शयन् व्याख्यानशैलीं शिक्षयति--
 
 Jayaratha comments on this verse together with 28.403: see [[Tantraloka 28.403#Viveka|28.403]].

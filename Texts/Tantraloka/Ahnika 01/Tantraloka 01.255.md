@@ -35,6 +35,9 @@ anunmīlitarūpā sā praṣṭrī tāvati bhaṇyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 428–429)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.254–255]]
+
 > तथान्तरपरामर्शनिश्चयात्मतिरोहितेः ।
 > प्रसरानन्तरोद्भूतसंहारोदयभागपि ॥
 > यावत्येव भवेद्बाह्यप्रसरे प्रस्फुटात्मनि ।

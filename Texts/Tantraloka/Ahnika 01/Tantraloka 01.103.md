@@ -37,6 +37,11 @@ bodhātmakaḥ samastakriyāmayo dṛkkriyāguṇaśca gatiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 257–260)
+> ![[Tantraloka Dyczkowski v01 08 - Chapter One, part 7#Viveka on 1.101–103]]
+>
+> ![[Tantraloka Dyczkowski v01 08 - Chapter One, part 7#Viveka on 1.103]]
+
 > हेयोपादेयकथाविरहे स्वानन्दघनतयोच्छलनम् ।
 > क्रीडा सर्वोत्कर्षेण वर्तनेच्छा तथा स्वतन्त्रत्वम् ॥
 > व्यवहरणमभिन्नेऽपि स्वात्मनि भेदेन सञ्जल्पः ।

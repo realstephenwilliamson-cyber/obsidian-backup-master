@@ -37,6 +37,11 @@ bhogyaṃ bhoktari līnaṃ ced bhoktā tadvastutaḥ sphuṭaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 309–311)
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.190–191]]
+>
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.191–192]]
+
 *Lead-in:* नन्वेवं पुनरपि भोक्ता भोग्यं चेति द्वयमेवापतितम् ? इत्याशङ्क्याह --
 
 > भोग्यं भोक्तरि लीनं चेद् भोक्ता तद्वस्तुतः स्फुटः ॥

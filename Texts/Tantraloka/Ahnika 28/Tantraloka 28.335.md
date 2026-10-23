@@ -33,6 +33,11 @@ ato'dhiṣṭheyamātrasya śarīratve'pi kuḍyataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 145)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.334–335]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.335–336]]
+
 *Lead-in:* अत एव संविदधिष्ठेयत्वाविशेषेऽपि नीलादिभ्योऽस्ति देहस्य विशेषः--इत्याह--
 
 > अतोऽधिष्ठेयमात्रस्य शरीरत्वेऽपि कुड्यतः ॥

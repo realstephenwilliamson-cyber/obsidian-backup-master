@@ -33,6 +33,11 @@ uktaṃ ca śrīniśācāre siddhisādhanakāṅkṣaṇām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 72–73)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.104–105]]
+>
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.105–107]]
+
 *Lead-in:* न च एतत् न्यायैकशरणम्--इत्याह--
 
 Jayaratha comments on this verse together with 15.104: see [[Tantraloka 15.104#Viveka|15.104]].

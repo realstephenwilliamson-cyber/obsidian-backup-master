@@ -34,6 +34,9 @@ bhuktaistairnavadhā tasmāllakṣayojanamātrakāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 141–142)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.94–96]]
+
 > मनोः स्वायंभुवस्यासन् सुता दश ततस्त्रयः ।
 > प्राव्रजन्नथ जम्ब्वाख्ये राजा योऽग्नीध्रनामकः ॥
 > तस्याभवन्नव सुतास्ततोऽयं नवखण्डकः ।

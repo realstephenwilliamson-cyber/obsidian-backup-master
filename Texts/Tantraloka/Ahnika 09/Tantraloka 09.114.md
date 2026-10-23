@@ -31,6 +31,9 @@ dvayorapi phalaṃ na syānnāśahetuvyavasthiteḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 104–105)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.114]]
+
 *Lead-in:* कर्तुरपि अनुसन्धानाभावे पुनः किं तत्कृतं कर्म स्वस्मै परस्मै वा फलेत् उताफलमेव इत्यन्तःकृत्य संक्षेपेणाभिप्रेतमेव पक्षमुपक्षिपति --
 
 > पराभिसन्धिविच्छेदे स्वात्मनानभिसंहितौ ।

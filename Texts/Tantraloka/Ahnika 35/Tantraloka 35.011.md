@@ -33,6 +33,11 @@ pūrvapūrvopajīvitvamārgaṇe sā kvacitsvayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 196–197)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.10–11]]
+>
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.11–12]]
+
 *Lead-in:* ननु पूर्वपूर्ववृद्धोपजीवनजीवित एव सर्वो व्यवहार इति स्थितम् । न च इयमनवस्था मूलक्षतिकारिणीति किं प्रसिद्धिनिबन्धनेन?-- इत्याशङ्क्य आह--
 
 > पूर्वपूर्वोपजीवित्वमार्गणे सा क्वचित्स्वयम् ॥

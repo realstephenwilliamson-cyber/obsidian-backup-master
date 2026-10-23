@@ -43,5 +43,5 @@ Pritzker translation (Matt): [[Zohar 3.05 - Parashat Mi-Qets#^z1-202b|Parashat M
 
 **Miketz 13:217** In connection with this, R. Hizkiah quoted the verse: *The burden concerning the valley of vision. What aileth thee now that thou art wholly gone up to the house tops?* (Is. 22, 1). ‘This verse’, he said, ‘has been expounded as alluding to the day on which the Temple was destroyed with fire by the enemies, when all the ministering priests went up on the walls[^2] of the Temple holding all its keys in their hands and exclaimed: “Until now we have been thy treasurers, now take back thine own.” ^miketz-13-217
 
-[^1]: Cf. T. B. Tractate Yoma, 12a: “A strip of land went forth from Judah’s lot and entered into Benjamin’s territory, and on this the Temple was built.”.
+[^1]: Cf. T. B. Tractate [[Yoma 12#12a|Yoma, 12a]]: “A strip of land went forth from Judah’s lot and entered into Benjamin’s territory, and on this the Temple was built.”.
 [^2]: Al. the roofs.

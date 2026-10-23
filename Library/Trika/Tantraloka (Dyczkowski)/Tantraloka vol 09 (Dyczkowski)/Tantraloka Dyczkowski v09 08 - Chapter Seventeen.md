@@ -12,6 +12,8 @@ converted: 2026-10-07
 
 [[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3|← previous]] · [[Tantraloka vol 09 (Dyczkowski)|contents]] · [[Tantraloka Dyczkowski v09 09 - Chapter Eighteen|next →]]
 
+#### Viveka on 16.311 (continued)
+
 *[p. 139]* ^pg159
 
 What Needs be Done in the Procedure Concerning 
@@ -25,11 +27,13 @@ Now here itself, with the second half (of the verse of which the first half conc
 अथ भैरवतादात्म्यदायिनीं प्रक्रियां ब्रुवे ।
 atha bhairavatādātmyadāyinīm prakriyāṁ bruve | 
 
-We will now teach (another)' procedure (prakriyã) that bestows a state of oneness with Bhairava. 
+We will now teach (another)' procedure (prakriyā) that bestows a state of oneness with Bhairava. 
 
 He expounds that: 
 
 Fashioning the Three Knots of the Sacred Thread (sūtraklpti) 
+
+### TĀ 17.1–3
 
 एवं मण्डलकुम्भाग्निशिष्यस्वात्मसु पञ्चसु ।॥ १ ॥
 गृहीत्वा व्याप्तिमैक्येन नयस्याध्वान च शिष्यगम् ।
@@ -39,7 +43,7 @@ Fashioning the Three Knots of the Sacred Thread (sūtraklpti)
 \[illegible\] maṇndalakumbhāgniśiṣyasvātmasu paṛñcasu || 1 ॥
 gṁītvā vyāptim aikyena nyasyādhvānari ca śiṣyagam |
 karmamāyāṇumalinatrayaṁ bāhau gale tathā ॥ 2 ॥
-sikhāyām ca kṣipet sūtragranthiyogena daiśikah | 
+sikhāyām ca kṣipet sūtragranthiyogena daiśikaḥ | 
 
 After having grasped in this way the (mutual) pervasion as a unity within the five, namely, the mandala, the jar (kumbha), the fire, the disciple, and his own Self, and deposited the Path onto the disciple, the teacher 
 
@@ -52,18 +56,24 @@ After having grasped in this way the (mutual) pervasion as a unity within the fi
 
 should cast the three impurities (mala) of Karma, Māyā and the Individual one onto the (disciple’s) arms, throat and topknot (respectively), by linking (yogena) (them to) knots (tied) in a (sacred) thread.? \[illegible\] 
 
+#### Viveka on 17.1–3
+
 Here the ancillary jar (karkarī) is included along with ‘the jar (kumbha), so it is mentioned (implicitly) amongst the five. (The three impurities are cast onto the disciple’s body) ‘by linking (yogena) (them to) knots (tied) in a (sacred) thread’. The meaning is that they are of that form. As is said (in the Mālinīvijayottara): 
 
 ‘(After that, the teacher should) first of all tie the mass of fetters, that is, the adventitious (āgantu) (impurity of Karma), the innate (sahaja) (impurity of the individual soul,) and the empowered one (of Māyā), onto the arms, throat and tip of the topknot (respectively), by means of a thread made of three times three (strands). 
 
 What is the intention behind casting these (Impurities) in the form of knots (onto the body)? With this doubt in mind, he says: 
 
+### TĀ 17.3–4
+
 तस्यातदरूपताभानं मलो ग्रन्थिः स कौत्यते ।॥ ३ ॥
 इतिप्रतीतिदार्दचार्थ बहिर््न्युपकल्पनम् ।
-tasyātadrūpatābhānaṁ malo granthih sa kīrtyate ॥ 3 ॥
+tasyātadrūpatābhānaṁ malo granthiḥ sa kīrtyate ॥ 3 ॥
 iti pratītidārdhyārthaṁ bahirgranthyupakalpanam | 
 
-The Impurity (mala) (of Māyā), which is the manifestation of that (reality) in a form that is other than it is, is called the Knot.® In order to strengthen the perception (of it) in this way, outer knots are fashioned accordingly. (3cd-4ab) 
+The Impurity (mala) (of Māyā), which is the manifestation of that (reality) in a form that is other than it is, is called the Knot. In order to strengthen the perception (of it) in this way, outer knots are fashioned accordingly. (3cd-4ab) 
+
+#### Viveka on 17.3–4
 
 341?\. Above in 16/74-93ab, Abhinava cites and explains MV 9/37-53ab. He continues on from there here in 17/1cd ff. Thus, these verses (1cd-3ab) are an explanatory paraphrase of MV 9/54-57: ‘Reflect (bhāvayet) that the path to be purified of the disciple, mandala and fire is present there as a single unity, having deposited (it), as explained previously, on the body of the disciples. (54) Take up (āśrayet) the visualization of the pervasion of each one by means of its own (corresponding) mantra. Having tied initially the mass of fetters, that is, the incoming (adventitious) (āgantu) (impurity of Karma), the innate (sahaja) (impurity of the individual soul) and the empowered one (of Māyā), onto the arms, throat and tip of the topknot (respectively), by means of a thread made of three times three (strands). (Do this) with its own (corresponding) mantra. Then, having invoked (the corresponding) reality level (tattva), worshipped (it) and offered libation (to it), the skilled (officiant) should then bring the pervasive matrix (yoni), that is, the Vidyā of its matrices that are to be purified, (first) on the path that ends with Māyā, and (then) that same \[illegible\] on the pure (path beyond). (56-57)
 
@@ -78,41 +88,53 @@ The Impurity (mala) (of Māyā), which is the manifestation of that (reality) in
 
 Even if this is so, why is it said that it is (to be placed) on the arms etc.? With this doubt in mind, he says: 
 
+### TĀ 17.4–5
+
 बाहू कमीस्पदं विष्णुमीयात्मा गलसंश्रितः ।। ४ ॥
 अधोवहा शिखाणुत्वं तेनेत्थं कल्पना कृता ।
 
 bāhū karmāspadaṁ viṣnur māyātmā \[illegible\] ॥ 4 ॥
-adhovahā śikhānutvaṁ tenettharn kalpanā krtā | 
+adhovahā śikhānutvaṁ tenettharn kalpanā kṛtā | 
 
 The arms are the locus of action. Viṣṇu, whose nature is Māyā, is located in the throat. The topknot that flows downwards (represents the Impurity that engenders the state of limitation) of the individual soul. It is for this reason that (the knots are) imagined in this way.‘ (4cd-5ab) 
+
+#### Viveka on 17.4–5
 
 (Viṣṇu’s) ‘nature is Māyā’, because his authority (holds sway) within it. (The topknot) ‘flows downwards’, because the energy of the vital breath (that the topknot symbolizes) extends from there (down) to the heart. 
 
 Surely (one may ask), even if this is so, why are the three (strands) of the thread tripled? With this doubt in mind, he says: 
 
+### TĀ 17.5–6
+
 नरशक्तिशिवाख्यस्य त्रयस्य बहुभेदताम् || ५ ॥
 वक्तुं त्रिगुणं सूत्रं ्रन्थये परिकल्पयेत् ।
 
 naraśaktiśivākhyasya trayasya bahubhedatām ॥ 5 ॥
-vakturh tris \[illegible\] sūtran granthaye parikalpayet | 
+vaktuṁ tris \[illegible\] sūtran granthaye parikalpayet | 
 
 The thread for the knot should be fashioned with three triple (tristrigunam) strands, in order to signify that the triad called Man, Śakti, and Śiva is of many kinds.” (5cd-6ab) 
 
+#### Viveka on 17.5–6
+
 344?\. \[illegible\] Unfortunately, I could not locate the source of this verse.
 
-345?\. It is common practice to make the thread of three triple strands, and to identify the three strands with the channels 142, Piñgalā and Suṣumnā. Here they are related to the Trika triad of Man, Śakti and Śiva, giving it a Trika identity. Numerous other identifications are also possible. Commenting on SvT 3/163-164, Kṣemarāja explains: sasssa kanyākartitasūtrakam | trigunarh trigunīkrtyi SvT 3/163bc kanyā ikāraparaśaktyānukrtarūpeti | tato mūlabhūmeh pravrttāūnām āṇavamāyīyakārmarūpānāh sattvādiganatrayātmakaprapañcavyāptibhājām pāśānāṁm bhāvi-bandhacchedādikaṁ samūlam unmūlanārtham, iti kanyākartitatve trigunatrigunatve cāíayah || . . Śrīpūrvādau tu śaktitrayam eva tritattvena sthitam, ity āayena trīnṇi sūtrāṇīti prakriyāãmātrabhedah “Having tripled the thread fashioned by a virgin girl with three threads, , . , SvT 3/163bc A virgin symbolizes the supreme power in which no deformations have arisen. A tripled triple thread is fashioned by a virgin, with the intention that it should serve to uproot, root (and all), the future bonds and cracks etc. which are the fetters that pervade the three qualities of sattva and the rest. They have been set into operation from the root ground in the form of (the three Impurities) Āṇava, Māyïya and Kārma. According to the Mālinīvijaya and others, the three energies (of will, knowledge and action) are present (here) as the three principles (tattva) (of Man, Śakti and Śiva). It is with intention that there are three threads (not one with three strands). The difference (in details) is just one of procedure (praktiyā).
+345?\. It is common practice to make the thread of three triple strands, and to identify the three strands with the channels 142, Piṅgalā and Suṣumnā. Here they are related to the Trika triad of Man, Śakti and Śiva, giving it a Trika identity. Numerous other identifications are also possible. Commenting on SvT 3/163-164, Kṣemarāja explains: sasssa kanyākartitasūtrakam | trigunaṁ trigunīkṛtyi SvT 3/163bc kanyā ikāraparaśaktyānukṛtarūpeti | tato mūlabhūmeḥ pravṛttāūnām āṇavamāyīyakārmarūpānāḥ sattvādiganatrayātmakaprapañcavyāptibhājām pāśānāṁm bhāvi-bandhacchedādikaṁ samūlam unmūlanārtham, iti kanyākartitatve trigunatrigunatve cāíayah || . . Śrīpūrvādau tu śaktitrayam eva tritattvena sthitam, ity āayena trīnṇi sūtrāṇīti prakriyāmātrabhedaḥ “Having tripled the thread fashioned by a virgin girl with three threads, , . , SvT 3/163bc A virgin symbolizes the supreme power in which no deformations have arisen. A tripled triple thread is fashioned by a virgin, with the intention that it should serve to uproot, root (and all), the future bonds and cracks etc. which are the fetters that pervade the three qualities of sattva and the rest. They have been set into operation from the root ground in the form of (the three Impurities) Āṇava, Māyïya and Kārma. According to the Mālinīvijaya and others, the three energies (of will, knowledge and action) are present (here) as the three principles (tattva) (of Man, Śakti and Śiva). It is with intention that there are three threads (not one with three strands). The difference (in details) is just one of procedure (praktiyā).
 
 
 *[p. 142]* ^pg162
 
 The sense (of this verse) is that all this is of the nature of Man, Sakti, and Śiva. 
 
+### TĀ 17.6–7
+
 In order to show here itself (in this context) the pervasion (of these three principles) in terms of the procedure (prakriyā) of other scriptures, he says: तेजोजलान्न्रितयं त्रेधा ्त्येकमप्यदः | ६ ॥
 श्रुत्यन्ते केऽप्यतः शुक्लकृष्णरक्तं प्रपेदिरे ।
-tejojalānnatritayaṁ tredhā pratyekam apy adah ॥ 6 ॥
-śrutyante ke ‘py atah śuklakrṣnaraktari prapedire | 
+tejojalānnatritayaṁ tredhā pratyekam apy adaḥ ॥ 6 ॥
+śrutyante ke ‘py ataḥ śuklakṛṣnaraktari prapedire | 
 
 Thus, some have taught in the Vedas that each of the three, namely, fire, water and food, is threefold, that is, white, black and red. (6cd-7ab) 
+
+#### Viveka on 17.6–7
 
 (This is taught) ʻin the Vedas’, as is said in the teaching (imparted to) Śvetaketu in the Chāndogyopaniṣad: 
 
@@ -120,7 +142,7 @@ Thus, some have taught in the Vedas that each of the three, namely, fire, water 
 
 ‘Thus’, because such is the nature of the triad of fire, water and food. Here (in this rite) when the fetters etc. are in the course of being severed within 
 
-[^346]: instruction Śvetaketu Āruṇeya received from his father Uddālaka Aruni. There we read: yad agne rohitarn rūpar tejasas tadrūpaṁ yac chuklarn tad apāīn yat krṣnaṁ tad annasyāpāgād anger agnitvari vācārambhanari vikāro nāmadheyaṁ trīni rūpānṇīty eva satyam | Chāndogyopaniṣad 6/4/1 “Whatever red form fire has, is the form of heat; whatever white, the form of water; whatever dark, the form of food. The fire-ness has gone from fire; the modification is merely a verbal distinction, a name. The reality is just ‘these three forms’.’ As Abhinava reports, each of these three is said in the Upanisad to be of three kinds. However, this is not the passage Jayaratha quotes. Perhaps it is a commentary on it or the version of the Upaniṣad prevalent in Kashmir at that time contained this passage.
+[^346]: instruction Śvetaketu Āruṇeya received from his father Uddālaka Aruni. There we read: yad agne rohitarn rūpaṁ tejasas tadrūpaṁ yac chuklarn tad apāīn yat kṛṣnaṁ tad annasyāpāgād anger agnitvari vācārambhanari vikāro nāmadheyaṁ trīni rūpānṇīty eva satyam | Chāndogyopaniṣad 6/4/1 “Whatever red form fire has, is the form of heat; whatever white, the form of water; whatever dark, the form of food. The fire-ness has gone from fire; the modification is merely a verbal distinction, a name. The reality is just ‘these three forms’.’ As Abhinava reports, each of these three is said in the Upanisad to be of three kinds. However, this is not the passage Jayaratha quotes. Perhaps it is a commentary on it or the version of the Upaniṣad prevalent in Kashmir at that time contained this passage.
 
 *[p. 143]* ^pg163
 
@@ -132,6 +154,8 @@ The Purification of the Principles (tattvaśuddhi)
 
 Having explained in this way the preparation of the thread, he (now) talks about the purification of the principles. 
 
+### TĀ 17.7–8
+
 ततोऽग्नौ तर्पिताशेषमन््रे चिदटुव्योममात्रके । ७ ॥
 सामान्यरूपे तत्त्वानां क्रमाच्छुद्धिं समाचरेत् ।
 
@@ -140,16 +164,20 @@ sāmānyarūpe tattvānāmṁ kramāc chuddhin samācaret |
 
 Then one should purify the principles one after the other (kramāt) in the fire, within which libation has been offered to (all) the mantras, and (consisting of) the Void of Consciousness alone, is (their) universal (generic) nature. (7cd-8ab) 
 
+#### Viveka on 17.7–8
+
 The intended sense is that, according to our view, purification is (the process) of making (the principles) one with that within (their) ‘universal (generic) nature’, which is ‘the Void of Consciousness alone’. 
 
 He says just that. 
+
+### TĀ 17.8–10
 
 तत्र स्वमन्रयोगेन धरामावाहयेत्पुरा ॥ ८ ॥
 इष्ट्वा पुष्पादिभिः सर्पिस्तिलाद्चैरथ तर्पयेत् ।
 तत्तत्वव्यापिकां पश्चान्मायातत्वाधिदेवताम् ॥ ९ ॥
 मायाशक्ति स्वमन्रेणावाह्याभ्यध्य प्रतर्पयेत्
 
-tatra svamantrayogena dharām āvāhayet purā ॥ 8 II iṣtvā puṣpādibhih sarpistilādyair atha tarpayet |
+tatra svamantrayogena dharām āvāhayet purā ॥ 8 II iṣtvā puṣpādibhiḥ sarpistilādyair atha tarpayet |
 tattattvavyāpikām paścān māyātattvādhidevatām |l 9 ॥
 māyāśaktiṁ svamantreṇāvāhyābhyarcya pratarpayet | 
 
@@ -157,20 +185,26 @@ māyāśaktiṁ svamantreṇāvāhyābhyarcya pratarpayet |
 
 There he should first of all invoke the Earth (principle) by applying its Mantra, and having made offerings with flowers and the like, he should offer libations with clarified butter and sesame seeds etc. After that, having invoked and worshipped with her own mantra the power of Māyā, that pervades that principle (of Earth), and the one who is the deity that presides over the principle Māyā (adhidevatā), he should offer libations to her.’ (8cd-10ab) 
 
+#### Viveka on 17.8–10
+
 ‘That principle’ is the principle called ‘Earth’. “The power of Māyā’ is (here) in the form of the goddess Vāgīśvarī.” ‘Her own mantra’ is OM HRĪM. 
 
-Surely (one may ask), it was said before that the aggregate of phonemes, understood to be the Mātrkā and Mālinī (orders of the alphabet), (function as) the Mantra of the aggregate of principles beginning with Earth. (So) which one (of these) is considered here to be (their) Mantra? 
+Surely (one may ask), it was said before that the aggregate of phonemes, understood to be the Mātṛkā and Mālinī (orders of the alphabet), (function as) the Mantra of the aggregate of principles beginning with Earth. (So) which one (of these) is considered here to be (their) Mantra? 
+
+### TĀ 17.10–11
 
 आवाहने मातृकार्णं मालिन्यर्णं च पूजने ॥ १० ॥
 क्यीदिति गुरः प्राह स्वरूपाप्यायनद्रयात् ।
-āvāhane mātrkārṇaṁ mālinyarnaṁ ca pūjane ॥ 10 ॥
-kuryād iti guruh prāha svarūpāpyāyanadvayāt | 
+āvāhane mātṛkārṇaṁ mālinyarnaṁ ca pūjane ॥ 10 ॥
+kuryād iti guruḥ prāha svarūpāpyāyanadvayāt | 
 
-The teacher" has said that, in the course of invocation (of each principle), one should (utter) a phoneme from the Mātrkā (order of the alphabet), and in the course of (its) worship \[illegible\] from the Mālinī (order), because the two, respectively, (differentiate) the nature (of each one) and nourish \[illegible\] (10cd-11ab) 
+The teacher" has said that, in the course of invocation (of each principle), one should (utter) a phoneme from the Mātṛkā (order of the alphabet), and in the course of (its) worship \[illegible\] from the Mālinī (order), because the two, respectively, (differentiate) the nature (of each one) and nourish \[illegible\] (10cd-11ab) 
+
+#### Viveka on 17.10–11
 
 \` 
 
-‘In the course of worship’ means when offering libation etc. Mātrkā is the mother of the universe, and so it is befitting that (her letters) differentiate”? the specific nature (svarūpa) (of the principles from one another). Mālinī sustains (and contains) the universe within her own nature, and so it is said that she nourishes (it), ‘because the two, respectively, (differentiate) the nature (of each one) and nourish (them) 
+‘In the course of worship’ means when offering libation etc. Mātṛkā is the mother of the universe, and so it is befitting that (her letters) differentiate”? the specific nature (svarūpa) (of the principles from one another). Mālinī sustains (and contains) the universe within her own nature, and so it is said that she nourishes (it), ‘because the two, respectively, (differentiate) the nature (of each one) and nourish (them) 
 
 \` 
 
@@ -189,6 +223,8 @@ He now illustrates the two here (in this particular case).
 
 *[p. 145]* ^pg165
 
+### TĀ 17.11–13
+
 The Formation of the Mantras that Invoke the Principles 
 
 तारो वर्णोऽथ संबुद्धिपदं त्वामित्यतः परम् ॥ ११९ ॥
@@ -196,40 +232,50 @@ The Formation of the Mantras that Invoke the Principles
 तुभ्यं नाम चतुध्यन्तं ततोऽप्युचितदीपकम् ॥ १२ ॥
 इत्यूहमन्रयोगेन तत्तत्कर्म प्रवर्तयेत् ।
 
-tāro varṇo ‘tha sahbuddhipadarh tvām ity atah param ॥ 11 ॥
-uttamaikayutarn karmapadarh dīpakam apy atah |
-tubhyarn nāma caturthyantarh tato ‘py ucitadīpakam ॥ 12 ॥
+tāro varṇo ‘tha sahbuddhipadaṁ tvām ity ataḥ param ॥ 11 ॥
+uttamaikayutarn karmapadaṁ dīpakam apy ataḥ |
+tubhyarn nāma caturthyantaṁ tato ‘py ucitadīpakam ॥ 12 ॥
 ity ūhamantrayogena tattatkarma pravartayet | 
 
-(First comes) the Saviour (NAMAH), now the (appropriate) phoneme (54 PHA), the name (of the principle) in the vocative (DHARE), and after that (the second person pronoun) ‘you’ (TVĀM), the verb (to invoke) in the first person singular (ĀVĀHAYĀMD, then the Energizer (dīpaka) (NAMA), (the pronoun) ‘to you’ (TUBHYAM), the name (of the principle) in the dative (e.g. DHARĀYAI) and then after that (finally), the appropriate Energizer (NAMAH or SVĀHĀ). The various rites should be performed in association with the Mantra, modified (according to the principle being purified) (ãhamantra)." (11cd-13ab) 
+(First comes) the Saviour (NAMAH), now the (appropriate) phoneme (54 PHA), the name (of the principle) in the vocative (DHARE), and after that (the second person pronoun) ‘you’ (TVĀM), the verb (to invoke) in the first person singular (ĀVĀHAYĀMD, then the Energizer (dīpaka) (NAMA), (the pronoun) ‘to you’ (TUBHYAM), the name (of the principle) in the dative (e.g. DHARĀYAI) and then after that (finally), the appropriate Energizer (NAMAH or SVĀHĀ). The various rites should be performed in association with the Mantra, modified (according to the principle being purified) (āhamantra)." (11cd-13ab) 
 
-‘The Saviour’ is praṇava, i.e. OM. ‘The (appropriate) phoneme’ of the Mātrkā (order of the alphabet), as for example, in the case of Earth, (the letter) KṢ. “The name (of the principle) in the vocative’ is for example (in this case) ‘dhare’ (‘O Earth!”). “The verb (to invoke) in the first person singular’ is ‘āvāhayāmi’ (‘I invoke’). “The Energizer’ is NAMAH. ‘The name’ ((of the principle) in the dative) is (in this example) is ‘dharāyai’. “The appropriate Energizer’ is ‘NAMAR’ in the case of worship \[illegible\] and the like, and ‘SVĀHĀ”’ in the case of a fire sacrifice.” 
+#### Viveka on 17.11–13
+
+‘The Saviour’ is praṇava, i.e. OM. ‘The (appropriate) phoneme’ of the Mātṛkā (order of the alphabet), as for example, in the case of Earth, (the letter) KṢ. “The name (of the principle) in the vocative’ is for example (in this case) ‘dhare’ (‘O Earth!”). “The verb (to invoke) in the first person singular’ is ‘āvāhayāmi’ (‘I invoke’). “The Energizer’ is NAMAH. ‘The name’ ((of the principle) in the dative) is (in this example) is ‘dharāyai’. “The appropriate Energizer’ is ‘NAMAR’ in the case of worship \[illegible\] and the like, and ‘SVĀHĀ”’ in the case of a fire sacrifice.” 
 
 Surely, the invocation (is the topic) commenced here. How is it that he refers to worship (pūjā) etc.? 
+
+### TĀ 17.13
 
 आवाहनानन्तरं हि कर्म सर्वं निगद्यते ।॥ १३ ॥
 āvāhanānantarar hi karma sarvan nigadyate ॥ 13 ॥ 
 
 352?\. Concerning the term ñha — the ‘modification of a Mantra in accord with its changing context’, see above, 16/268 (268cd-269ab) and note.
 
-353?\. NAMAH K\$ṢAM / PHAM DHARE TVĀM ĀVĀHAYĀMI NAMAH TUBHYAM DHARĀYAI NAMAH / SVĀHĀ. In the case of worship (pājā), the Mantra letter of the Earth principle would be according to the Mālinī order of the alphabet, which is PHA. The final ‘namah’ used for worship (pūjā) is substituted with \[illegible\] if a fire sacrifice (homa) is being offered. The mantras of the remaining 35 principles have the same structure; all that needs to be done is substitute its name first in the vocative (like dhare) and then in the dative (like dharāyai). Note that the letters are in the reverse with respect to the normal alphabetical order. A question arises here. As the letters of the two alphabets are 50 and the principles are 36, what happens to the remaining 14 letters?
+353?\. NAMAH KṢAM / PHAM DHARE TVĀM ĀVĀHAYĀMI NAMAH TUBHYAM DHARĀYAI NAMAH / SVĀHĀ. In the case of worship (pājā), the Mantra letter of the Earth principle would be according to the Mālinī order of the alphabet, which is PHA. The final ‘namaḥ’ used for worship (pūjā) is substituted with \[illegible\] if a fire sacrifice (homa) is being offered. The mantras of the remaining 35 principles have the same structure; all that needs to be done is substitute its name first in the vocative (like dhare) and then in the dative (like dharāyai). Note that the letters are in the reverse with respect to the normal alphabetical order. A question arises here. As the letters of the two alphabets are 50 and the principles are 36, what happens to the remaining 14 letters?
 
 
 *[p. 146]* ^pg166
 
 It is said that all the rites follow after the invocation. (13cd) 
 
+#### Viveka on 17.13
+
 Surely (one may ask), what is an invocation, that worship and the rest should follow after it. With this doubt in mind, he says: 
+
+### TĀ 17.14
 
 आवाहनं च संबोधः स्वस्वभावव्यवस्थिते : ।
 भावस्याहमयस्वात्मतादात्म्यावेश्यमानता ।। १४ ॥।
 
-āvāhanari ca sambodhah svasvabhāvavyavasthiteh |
+āvāhanari ca sambodhaḥ svasvabhāvavyavasthiteḥ |
 bhāvasyāhammayasvātmatādātmyāveśyamānatā ॥ 14 ॥ 
 
-Moreover, the invocation is the vocative (saṁbodha)TM (of the deity invoked in the Mantra). It is (an awakening ~ sarhbodha — of the deity, which is) the process of penetration into a state of oneness within one’s own (true) nature, consisting of (the self-reflective awareness of the unconditioned subjectivity of) ‘P (am) (ahahmaya), of the state of being (bhāva) situated within one’s own (true) nature (svasvabhāvasthiti).” (14) 
+Moreover, the invocation is the vocative (saṁbodha) (of the deity invoked in the Mantra). It is (an awakening ~ saṁbodha — of the deity, which is) the process of penetration into a state of oneness within one’s own (true) nature, consisting of (the self-reflective awareness of the unconditioned subjectivity of) ‘P (am) (ahahmaya), of the state of being (bhāva) situated within one’s own (true) nature (svasvabhāvasthiti).” (14) 
 
-‘Invocation’ is the ‘vocative’ (sarhbodha) (which in the highest sense is the awakening of the true condition) ‘of the state of being situated within one’s own (true) nature’ that is invoked.” (It is said that,) ‘(The wise) know that 
+#### Viveka on 17.14
+
+‘Invocation’ is the ‘vocative’ (saṁbodha) (which in the highest sense is the awakening of the true condition) ‘of the state of being situated within one’s own (true) nature’ that is invoked.” (It is said that,) ‘(The wise) know that 
 
 the 
 
@@ -237,11 +283,11 @@ vocative is just (the bare)
 
 state of alert attention (abhimukhībhāvamātra)” towards the one who is invoked (siddha). īIn accord 
 
-354?\. <sup>16</sup>The literal meaning of the word is ‘to call’. The word sarhbodha (also, more commonly, samhbodhana) is used as a grammatical term, which designates the vocative, usually translated by ‘to call’, ‘to address oneself to’ or ‘to alert’. See VP, ÎI, Sādhanasamuddeśa, 163 and the comment by Helā ‘the vocative has a form which is more than the meaning of (just the bare) stem’. It can also mean, as Abhinavagupta understands it here, ‘paying attention’ or ‘being awake’, which is a process of penetration of one’s own limited identity into its unconfined, universal ground of subjectivity, in which he who is addressed is at one with the one who addresses him. In the PTv (p. 57) Abhinava writes: ‘(Invocation, that is) paying attention (to someone), consists of a state of identity between the one who is called and the one who calls. It has a different sense than (just) the stem. Thus it is said that ‘the nominal stem differs from the vocative.” The word sarbodha also means ‘awakening’. See also, PTv p. 73 ff. in note 17,19 below.
+354?\. <sup>16</sup>The literal meaning of the word is ‘to call’. The word saṁbodha (also, more commonly, samhbodhana) is used as a grammatical term, which designates the vocative, usually translated by ‘to call’, ‘to address oneself to’ or ‘to alert’. See VP, ÎI, Sādhanasamuddeśa, 163 and the comment by Helā ‘the vocative has a form which is more than the meaning of (just the bare) stem’. It can also mean, as Abhinavagupta understands it here, ‘paying attention’ or ‘being awake’, which is a process of penetration of one’s own limited identity into its unconfined, universal ground of subjectivity, in which he who is addressed is at one with the one who addresses him. In the PTv (p. 57) Abhinava writes: ‘(Invocation, that is) paying attention (to someone), consists of a state of identity between the one who is called and the one who calls. It has a different sense than (just) the stem. Thus it is said that ‘the nominal stem differs from the vocative.” The word saṁbodha also means ‘awakening’. See also, PTv p. 73 ff. in note 17,19 below.
 
 355?\. The word svasvabhāva literally means ‘one’s own own nature’. As the nature of one’s own nature, it denotes one’s own true nature.
 
-356?\. Read —vyavasthiteh for -vyavasthityā.
+356?\. Read —vyavasthiteḥ for -vyavasthityā.
 
 357?\. The term ‘abhimukhībhāva’ literally means ʻa state of facing towards’. In this context, it denotes the state of alert attention of the person who, being called, faces towards the one who calis him. It also an act of self-awareness to grasp oneself as the one who is being called, as it is on the part of one who is calling. Abhinava understands this to be a self-cognitive process of penetration into the self-awareness of the common ground of subjectivity that the one who is called shares with the one who calls him. The invocation invokes the presence of the deity. It is invoked by calling it in the vocative. The deity is the true essential nature of the one who invokes it. Its presence is its state of oneness with the worshipper. The invocation thus calls upon the one who invokes, to penetrate into his own nature. He is calling out to the deity, who is other than himself ~ one he addresses as ‘you’. For the deity to be made present, which is the function and purpose of the invocation, that ‘you’ must become T. The invocation is the process by which this takes place, that is, the penetration into a state of oneness with it in the pure self-awareness of ‘T’. For this to take place, the condition of the one who is invoking the deity must rise out of his state of sl s, it is a transition from individual to universal, duality to oneness. The invi attention, which is understood in this context as the propensity that initiates this process of identification.
 
@@ -259,10 +305,14 @@ This is said to be the plane of Power \[illegible\] within which is the primary 
 
 Surely (one may ask), how is it that the (venerable and sacred) state of the object of worship is primarily on the plane of Power? With this doubt in mind, he says: 
 
+### TĀ 17.15
+
 अभातत्वादभेदाच्च नह्यसौ नृशिवात्मनोः ।। १५ ॥
-abhātatvād abhedāc ca na hy asau nrśivātmanoh ॥ 15 Il 
+abhātatvād abhedāc ca na hy asau nṛśivātmanoḥ ॥ 15 Il 
 
 This (condition is not that) of Man or Śiva, because (the former) is not illumined (by the light of consciousness) (abhāta), and (the latter) is (one and) undivided (abheda).” (15cd) 
+
+#### Viveka on 17.15
 
 358?\. Abhinava explains that ‘the invocation (āmantrana) of the Supreme Goddess (parameśvarī) clearly expresses her nature as that of Śakti. All this is the triad — rrika — consisting of Man, Power and Śiva. There, (in this perspective,) whatever is solely confined within itself is insentient, and so is, in the primary sense, Man, as when one says, for example, ‘the jar stands (there)’. (The grammarians refer to it) as the remaining (person after referring to the first two), and is the domain of the third person. Again, that manifests in the form of ‘this’, as the object of invocation, in such a way that its ‘thisness’ is veiled by the T that invokes, and its objectivity is separate from it in the form of Power that can be expressed by the word ‘you’, (as when one says) ‘you are standing’. There, (in that case,) this is the meaning of the word “yow’ (the second person), and the nature of the invocation (‘hey you’). When one invokes (someone thinking), ‘just as I stand (here) so does he also (there)’, (and so is in the same state as I am, namely, that) he also possesses, (as I do,) the independence which is the wonder of subjectivity associated with (the sense of one’s own existence (asmadrūpa), (corresponding to the first person,) considering it to be the continuous (unconditioned) wonder of ‘T (he possesses), indicated by the second person in the sense of \*you’.\* This (stage corresponds to) the goddess Parāparā. When one has the reflective awareness of ‘T’, which consists of the (perfect) freedom of independence in the uninterrupted wonder (of consciousness), the goddess Parā arises, as when one says, ‘I exist’, which corresponds to the first person.’ PTV p. 73-75.
 
@@ -271,11 +321,13 @@ This (condition is not that) of Man or Śiva, because (the former) is not illumi
 
 *[p. 148]* ^pg168
 
-(The principle called Man, which includes all objectivity,) ʻis not illumined (by the light of consciousness)’, because of (its) insentience. This is the meaning. (The principle called iva) ʻis (one and) undivided’, because the distinction between the worshipper and the object of worship has fallen away. As is said with the same intended sense: 
+(The principle called Man, which includes all objectivity,) ʻis not illumined (by the light of consciousness)’, because of (its) insentience. This is the meaning. (The principle called Śiva) ʻis (one and) undivided’, because the distinction between the worshipper and the object of worship has fallen away. As is said with the same intended sense: 
 
 ‘One should apply Mantras to Śakti, not to the individual soul or the supreme reality . . "2 
 
 Surely (one may ask), if this is so, why is it proper to worship etc. the Earth and other insentient (principles)? With this doubt in mind, he says: 
+
+### TĀ 17.16–17
 
 Establishing Consciousness in the Principles and their Worship 
 
@@ -283,50 +335,62 @@ Establishing Consciousness in the Principles and their Worship
 आवाहनविभक्ति प्राक् कृत्वा र्यविभक्तितः | १६ ॥
 नमस्कारन्ततायोगात्पूणीं सत्तां प्रकल्पयेत् ।
 
-jadābhāseṣu tattveṣu sarhvitsthityai tato guruh |
-āvāhanavibhaktiṁ prāk krtvā turyavibhaktitah ॥ 16 ॥
+jadābhāseṣu tattveṣu saṁvitsthityai tato guruḥ |
+āvāhanavibhaktiṁ prāk kṛtvā turyavibhaktitaḥ ॥ 16 ॥
 namaskārāntatāyogāt pūrṇāṁ sattā prakalpayet | 
 
-Then, in order to establish consciousness within the insentient principles (like Earth) (jadãbhāsa), the teacher (should form and utter their Mantras). (In order to do this, he) should first apply the case ending of an invocation, (that is, the vocative, to the name of the principle,) and then the case ending of the dative, and then, by adding the salutation (namaskāra) at 
+Then, in order to establish consciousness within the insentient principles (like Earth) (jadābhāsa), the teacher (should form and utter their Mantras). (In order to do this, he) should first apply the case ending of an invocation, (that is, the vocative, to the name of the principle,) and then the case ending of the dative, and then, by adding the salutation (namaskāra) at 
 
-360?\. \[illegible\] The verse from which Jayaratha is quoting the first line is found complete in PTv p. 151. There it reads: na purhsi na pare tattve \$aktau mantram niveśayet | jadatvān niṣkriyatvāc ca na te bhogāpavargadāh ॥ ‘One should place Mantra in (the sphere of conscious) energy (Sakti), not in the individual soul or the supreme reality, because (they would then) be insentient (in the first case), and inactive (in the second), and so would give neither worldly benefits nor liberation.” Note that instead of mantrān niyojayet, the version in the PTV p. 151 reads: mantrarh niveśayet. A verse from the lost Tattvarakṣāvidhāna quoted in SpPra ad 26 (p. 35) is very similar: aśaktatvān niṣkriyatvān na purhsi na pare pade | Saktau niyojayen mantrat japas tu saphalo bhavet || “Apply mantra in (the sphere of conscious) energy, not to the individual soul or to the supreme state, for the former is powerless and the later inactive. (In this way its) repeated recitation can bear fruit.”
+360?\. \[illegible\] The verse from which Jayaratha is quoting the first line is found complete in PTv p. 151. There it reads: na puṁsi na pare tattve Śaktau mantram niveśayet | jadatvān niṣkriyatvāc ca na te bhogāpavargadāḥ ॥ ‘One should place Mantra in (the sphere of conscious) energy (Sakti), not in the individual soul or the supreme reality, because (they would then) be insentient (in the first case), and inactive (in the second), and so would give neither worldly benefits nor liberation.” Note that instead of mantrān niyojayet, the version in the PTV p. 151 reads: mantraṁ niveśayet. A verse from the lost Tattvarakṣāvidhāna quoted in SpPra ad 26 (p. 35) is very similar: aśaktatvān niṣkriyatvān na puṁsi na pare pade | Saktau niyojayen mantrat japas tu saphalo bhavet || “Apply mantra in (the sphere of conscious) energy, not to the individual soul or to the supreme state, for the former is powerless and the later inactive. (In this way its) repeated recitation can bear fruit.”
 
 
 *[p. 149]* ^pg169
 
 the end, he should imagine the full (unconditioned) being (sattā) (of consciousness within it).” (16-17ab) 
 
+#### Viveka on 17.16–17
+
 He establishes this with reasoned argument. 
+
+### TĀ 17.17–18
 
 ततः पूर्णस्वभावत्वं तदरपोद्रकयोगतः ।॥। १७ ॥
 ध्येयोद्रको भवेद् ध्यातृप्रहीभाववशाद्यतः ।
 
-tatah pūrnasvabhāvatvari tadrūpodrekayogatah ॥ 17 ॥
-dhyeyodreko bhaved dhyātrprahvībhāvavaśād yatah | 
+tataḥ pūrnasvabhāvatvari tadrūpodrekayogataḥ ॥ 17 ॥
+dhyeyodreko bhaved dhyātṛprahvībhāvavaśād yataḥ | 
 
 Thus, (the realization of their) full (and perfect) nature is the result of (their) association with the abounding excellence (udreka) of that nature (which is their full, unconditioned being). This is because the exultation (udreka) of (the deity who is) the object of meditation is due to (the humble reverence) of the meditator who bows before it (prahvībhāva).” (17cd-18ab) 
+
+#### Viveka on 17.17–18
 
 The sense (of what he is saying is that) in the act of saluting (the deity with reverence, the deity who is) the object of (that) salutation becomes primary by virtue of the (corresponding) subordination of the one who offers salutation. 
 
 Moreover, according to our teachers, there is another scripture which should also be explained in just the same way. 
+
+### TĀ 17.18–19
 
 आवाह्यष्ट्वा प्रतप्येति श्रीस्वच्छन्दे निरूपितम् ॥ १८ ॥
 अनेनैव पथा नेयमित्यस्मटुरवो जगुः ।
 
 āvāhyeṣtvā pratarpyeti śŚrīsvacchande nirūpitam || 18 ॥ 
 
-361?\. The mantra of the Earth principle is thus dhare dharāyai namah.
+361?\. The mantra of the Earth principle is thus dhare dharāyai namaḥ.
 
-362?\. Concerning obeisance, Abhinava writes: namaskaroti namasyatīti namahśabdam uccārayatīti arthaparyavasāne parameśvaram iti bāhyakarmasarłbandhānupapattih | vācika eva ca tadā namaskāro mānaso ‘pi vā syād iti kāyiko namaskārah katham iti traividhyaprasiddhyayogah | asmatpakṣe tu manasā vācā kayena svātmānaṁi prahvīkurvan nyagbhāvayan bhagavantam utkarṣayatīti namasyater arthah iti sarvam upapannam | yad vakṣyati jayanamaskārādy-abhidhānenāpīśvarasyotkarṣah khyāpanīyah svātmanaś ca tatpravanatā iti | “(Some say that) ‘he salutes” the Supreme Lord means that he bows before him, which ultimately comes to mean that he utters the word ‘namah’, because it is not logically possible for there to be a relationship with outer action (and inner disposition). Then (they say) that salutation is verbal, or may also be mental, how can it be bodily? Thus, the well-known triple kind (of salutation) does not apply (ayoga). However, our view is that prostrating oneself with mind, speech and body, that is, humbling (oneself), exalts the Lord. This is the meaning (and purpose of the word he) ‘bows’. Thus, everything is sound and proper. As he will say: ‘by saying ‘victory (to You)’, so too ‘salutation (to You)’ should declare the Lord’s excellence, and one’s own bowing (to Him in humble devotion).’ ĪPVv 1 p. 8 By bowing in reverence to acknowledge the Lord’s excellence over all things, limited, confined consciousness, contracted by ego, merges into universal consciousness. As Kṣemarāja says: sarīrādiprahvībhāvonmagnaparasvarūpānu-praveśarūpaṁ pranṇāīmam ‘Bowing (with reverence) (pranāma) is entry into the supreme nature that has emerged by prostrating the body etc.” SvTu ad 2/16.
+362?\. Concerning obeisance, Abhinava writes: namaskaroti namasyatīti namahśabdam uccārayatīti arthaparyavasāne parameśvaram iti bāhyakarmasarłbandhānupapattih | vācika eva ca tadā namaskāro mānaso ‘pi vā syād iti kāyiko namaskāraḥ katham iti traividhyaprasiddhyayogaḥ | asmatpakṣe tu manasā vācā kayena svātmānaṁi prahvīkurvan nyagbhāvayan bhagavantam utkarṣayatīti namasyater arthaḥ iti sarvam upapannam | yad vakṣyati jayanamaskārādy-abhidhānenāpīśvarasyotkarṣah khyāpanīyaḥ svātmanaś ca tatpravanatā iti | “(Some say that) ‘he salutes” the Supreme Lord means that he bows before him, which ultimately comes to mean that he utters the word ‘namaḥ’, because it is not logically possible for there to be a relationship with outer action (and inner disposition). Then (they say) that salutation is verbal, or may also be mental, how can it be bodily? Thus, the well-known triple kind (of salutation) does not apply (ayoga). However, our view is that prostrating oneself with mind, speech and body, that is, humbling (oneself), exalts the Lord. This is the meaning (and purpose of the word he) ‘bows’. Thus, everything is sound and proper. As he will say: ‘by saying ‘victory (to You)’, so too ‘salutation (to You)’ should declare the Lord’s excellence, and one’s own bowing (to Him in humble devotion).’ ĪPVv 1 p. 8 By bowing in reverence to acknowledge the Lord’s excellence over all things, limited, confined consciousness, contracted by ego, merges into universal consciousness. As Kṣemarāja says: sarīrādiprahvībhāvonmagnaparasvarūpānu-praveśarūpaṁ pranṇāīmam ‘Bowing (with reverence) (pranāma) is entry into the supreme nature that has emerged by prostrating the body etc.” SvTu ad 2/16.
 
 
 *[p. 150]* ^pg170
 
-anenaiva pathā neyam ity asmadguravo jaguh | 
+anenaiva pathā neyam ity asmadguravo jaguḥ | 
 
-My teacher has said that the statement in the venerable SvacchandatantraTM that, ‘after having invoked (the deity), sacrificed and offered libation (to it) . . .? should be interpreted in the very same way. (18cd-19ab) 
+My teacher has said that the statement in the venerable Svacchandatantra that, ‘after having invoked (the deity), sacrificed and offered libation (to it) . . .? should be interpreted in the very same way. (18cd-19ab) 
 
-Surely (one may ask), the plane of akti is the middling one (parāparā), as it consists of (the experience of) unity-in-diversity (bhedābheda). Again, (the plane) of Śiva is the supreme one (parā), because it consists of (the experience of) nonduality (abheda). So how is it that there is no object of worship here? With this doubt in mind, he says: 
+#### Viveka on 17.18–19
+
+Surely (one may ask), the plane of Śakti is the middling one (parāparā), as it consists of (the experience of) unity-in-diversity (bhedābheda). Again, (the plane) of Śiva is the supreme one (parā), because it consists of (the experience of) nonduality (abheda). So how is it that there is no object of worship here? With this doubt in mind, he says: 
+
+### TĀ 17.19–20
 
 परत्वेन तु यत्पूज्यं तत्स्वतन्त्रचिदात्मकम् ।॥ १९ ॥
 अनवच्छित्प्रकाशत्वान्न प्रकाश्यं तु कुत्रचित् ।
@@ -340,16 +404,22 @@ That which is to be worshiped as supreme is (one’s own) free consciousness.
 
 is the unlimited light (of consciousness) which, as such, can (never) in any circumstance be illumined (by another light). (19cd-20ab) 
 
+#### Viveka on 17.19–20
+
 Surely, if that is so, (one may ask,) how is it that it is said (in the Upaniṣads) for example, that ‘the Self should be known, it should be pondered and profoundly contemplated’ 
 
 ?\* With this doubt in mind, he says: 
 
+### TĀ 17.20–21
+
 तस्य होतत्प्पूज्यत्वध्येयत्वादि यदुल्लसेत् ॥ २० ॥
 तस्यैव तत्स्वतन्रत्वं यातिदुर्घरकारिता ।
 
-tasya hy etat prapūjyatvadhyeyatvādi yad ullaset | 20 II tasyaiva tat svatantratvarh yātidurghatakāritā | 
+tasya hy etat prapūjyatvadhyeyatvādi yad ullaset | 20 II tasyaiva tat svatantratvaṁ yātidurghatakāritā | 
 
 (The forms) in which that (Light) manifests, as the object of worship and meditation etc., are (expressions of its) freedom, that can do the impossible. = (20cd-21ab) 
+
+#### Viveka on 17.20–21
 
 363?\. Abhinava is in actual fact quoting MV 9/56cd: svamantrena tatas tattvam āvāhyeṣtvā pratarpya ca ||
 
@@ -362,6 +432,8 @@ tasya hy etat prapūjyatvadhyeyatvādi yad ullaset | 20 II tasyaiva tat svatantr
 
 Thus, as its state as the object of worship is secondary, invocation and the like are of no use here (in this case). Thus, he says: 
 
+### TĀ 17.21–22
+
 संबोधरूपे तत्तस्मिन् कथं संबोधना भवेत् ॥ २१९ ॥
 प्रकाशनायां वै न स्यात्रकाशस्य प्रकाशता |
 
@@ -370,9 +442,13 @@ prakāśanāyāṁ vai na syāt prakāśasya prakāśatā |
 
 Thus, how can here be an invocation within that which is invocation (itself)? (How can an awakening be brought about within that (reality) which is awakened consciousness by nature?)” It is not the luminosity of the light that is present in the act of illumination (it is the object of illumination that is illumined, not the light).” (21cd-22ab) 
 
+#### Viveka on 17.21–22
+
 ‘Thus’, because (the condition of the Light) as an object of worship and the like is just the unfolding of its freedom ‘within’ Siva, who is the agency of the act of invocation (/awakening) (saṁbodhana) how could invocation (/awakening) be possible? It is not reasonable (to maintain) that He needs to be awakened. When something is illumined by something else, it is not the luminosity of the light that is present within it, rather (what is present there is its) ongoing condition as an object of illumination.” This is the meaning. 
 
 Surely, if this is so, what should be done (and understood to be happening) in the case of an invocation or the like, which is of the sort “I am invoking that deity” (that is, without invoking it with a vocative)? With this doubt in mind, he says: 
+
+### TĀ 17.22–24
 
 The Power of the Semantics of Mantra 
 
@@ -384,7 +460,7 @@ The Power of the Semantics of Mantra
 saribodhanavibhaktyaiva vinā karmādiśaktitām ॥ 22 ॥
 svātantryāt tan darśayituṁ tatro(trā)ham” imam ācaret |
 devam āvāhayāmīti tato devāya dīpakam || 23 ॥
-prāgyuktyā pūrnṇatādāyi namah svāhādikaṁ bhavet | 
+prāgyuktyā pūrnṇatādāyi namaḥ svāhādikaṁ bhavet | 
 
 366?\. \[illegible\] The Sanskrit can be translated in two ways. One translation is in the body of the translation, the other is in brackets. One cannot but admire Abhinava’s skilful use of double meanings.
 
@@ -399,21 +475,27 @@ prāgyuktyā pūrnṇatādāyi namah svāhādikaṁ bhavet |
 
 In order to show that, by virtue of (its inherent) freedom, (Mantra) has the (semantic) power of the object (of a verb) and the rest (of the grammatical cases that function together to execute the action expressed by the verb), (the Mantra the teacher intones even) without (the name of the deity) in the vocative case (operates equally well by simply declaring) “I invoke the God”. Then, (after saying) ‘to the God’ (devāya) in the dative, (comes) the Energizer (dīpaka) which, in accord with the previous practice (yukti), 15 NAMAṆ, SVĀHĀ or the like, that bestows the plenitude (of consciousness and completes the Mantra).” (22cd-24ab) 
 
+#### Viveka on 17.22–24
+
 Thus here (in this case) also, the Energizer should be conjoined (to the Mantra) as is appropriate, in order to produce the (required) modification \[illegible\] Thus, he says ‘then’, ((after saying) ‘to the God’ (devāya) in the dative (comes) the Energizer (dīpaka)) etc. 
 
-Surely (one may ask), do all the Energizers such as ‘namah’ bestow the plenitude (of consciousness and complete the Mantra), or not? With this doubt in mind, he says: 
+Surely (one may ask), do all the Energizers such as ‘namaḥ’ bestow the plenitude (of consciousness and complete the Mantra), or not? With this doubt in mind, he says: 
+
+### TĀ 17.24–25
 
 नुतिः पूर्णत्वमगनीनदुसंघट्ाप्यायता परम् ॥ २४ ॥
 आप्यायकं च प्रोच्छालं वौषडादि प्रदीपयेत् ।
 
-nutih pūrṇatvam agnīndusaṁghaṭṭāpyāyatā param || 24 I|
+nutiḥ pūrṇatvam agnīndusaṁghaṭṭāpyāyatā param || 24 I|
 āpyāyakaṁ ca procchālari vauṣadādi pradīpayet | 
 
 The act of reverent salutation (i.e. NAMAH) is plenitude. The union of Fire and Moon, which is the next one (i.e. SVĀHĀ), is nourishment. The nourishing VAUṢAT and the like” 
 
 energizes (a further) outpouring (of nourishment). (24cd-25ab) 
 
-‘The union of fire and moon’ is, as was said before: ‘(offer the rest of the butter into the fire) with the syllable of nectar, that is, SVĀ, (and onto the sacrificial pap) with (the syllable of) fire, that is, HĀ (repeatedly).’TM® The next one’ is SVĀHĀ. (VAUṢATṬ energizes) ‘the outpouring’ (of nourishment) 
+#### Viveka on 17.24–25
+
+‘The union of fire and moon’ is, as was said before: ‘(offer the rest of the butter into the fire) with the syllable of nectar, that is, SVĀ, (and onto the sacrificial pap) with (the syllable of) fire, that is, HĀ (repeatedly).’ The next one’ is SVĀHĀ. (VAUṢATṬ energizes) ‘the outpouring’ (of nourishment) 
 
 370?\. above, 17/17-18ab.
 
@@ -428,17 +510,23 @@ means that it brings about a further greater increase of nourishment than does (
 
 Surely (one may ask), should one apply (this kind of) modification (ūha) in all cases (to all such Mantras and their parts) without exception in this way? With this doubt in mind, he says: 
 
+### TĀ 17.25–26
+
 तत्र बाद्येऽपि तादात्मयप्रसिद्ध कर्मं चोद्यते ।। २५ ॥
 यदि कर्मपदं तन्नो गुरुरभ्यूहयेत् क्वचित् ।
 
 tatra bāhye ‘pi tādātmyaprasiddhaṁ karma codyate ॥ 25 ||
-yadi karmapadarh tan no gurur abhyūhayet kvacit | 
+yadi karmapadaṁ tan no gurur abhyūhayet kvacit | 
 
 There (in that case), if a rite is prescribed that is well-known to have (a particular) nature in (the everyday) outer (world) also, the teacher should not in any circumstance modify the part (of the Mantra that denotes the deity who) is the object (of the rite) (karmapada).[^373] (25cd-26ab) 
+
+#### Viveka on 17.25–26
 
 (A rite that is well known) ‘to have (a particular) nature’ is one that is commonly) well-known in the world (of daily life). This is the meaning. ‘Prescribed’ means ‘enjoined’. 
 
 He establishes this with reasoned argument. 
+
+### TĀ 17.26–28
 
 The Function of Mantra 
 
@@ -448,9 +536,9 @@ The Function of Mantra
 तत्कमीभ्यूहनं कुर्यत््रत्युत व्यवधातृताम् |
 
 anābhāsitatadvastubhāsanāya niyujyate ॥ 26 ॥
-mantrah kir tena tatra \[illegible\] sphutarn yatrāvabhāsi tat |
+mantraḥ kir tena tatra \[illegible\] sphutarn yatrāvabhāsi tat |
 tena prokṣaṇasaṁsekajapādividhiṣu dhruvam || 27 ॥
-tatkarmābhyūhanaṁ kuryāt pratyuta vyavadhātrtām | 
+tatkarmābhyūhanaṁ kuryāt pratyuta vyavadhātṛtām | 
 
 A mantra is applied in order to make an entity manifest that is not manifest (already). Of what use could that be there (in the case of) that which is clearly manifest? Thus, modification of (the mantra in consonance with the ritual action it accompanies) (karmābhyūhana) in procedures such 
 
@@ -458,11 +546,15 @@ A mantra is applied in order to make an entity manifest that is not manifest (al
 
 *[p. 154]* ^pg174
 
-as sprinkling (prokṣana), aspersion (sarhseka),” the repetition of Mantra and the like, would certainly (not be beneficial, rather), on the contrary, it would create a state of (continuous) obstruction (vyavadhātrtā).\* (26cd- 28ab) 
+as sprinkling (prokṣana), aspersion (saṁseka),” the repetition of Mantra and the like, would certainly (not be beneficial, rather), on the contrary, it would create a state of (continuous) obstruction (vyavadhātṛtā).\* (26cd- 28ab) 
+
+#### Viveka on 17.26–28
 
 ʻA mantra’, of which the stated object (i.e. the deity) has been modified. ‘That’ (which is clearly manifest) is the object (of the Mantra) which needs to be modified. ‘Thus’, because the rite is (evidently) manifest externally by itself. The sense is that ‘sprinkling (prokṣaṇna) and (these) other (procedures) are clearly manifest as such externally, and so one needs not make modifications (to the Mantra) by saying such things as “I am sprinkling”. 
 
 On the contrary, when (the nature a rite) does not appear externally as it is, that should be done. Thus, he says: 
+
+### TĀ 17.28–29
 
 Declaration of Intent Should Herald Ritual Action 
 
@@ -470,9 +562,11 @@ Declaration of Intent Should Herald Ritual Action
 तृप्तावाहुतिहूतभुक्पाशप्टोषच्छिदादिषु ।
 
 bahistathātmatābhāve \[illegible\] karmapadohanam || 28 ||
-trptāv āhutihutabhukpāśaploṣacchidādiṣu | 
+tṛptāv āhutihutabhukpāśaploṣacchidādiṣu | 
 
 The objective (karmapada) (of the rite) must be mentioned (uhana) when (some element of a rite) does not appear externally, according to its essential nature (fathātmatā), as is the case, for example, with the satisfaction (that results from offering libations,) or the burning away and severance of (inner binding) fetters by the fire that receives oblations. (28cd-29ab) 
+
+#### Viveka on 17.28–29
 
 Thus, one must mention (the nature of the rite in such cases by saying) for example, “I am offering a libation” or “I am worshipping”. The sense (of this verse is that) the satisfaction (the deity experiences by offering it libation) does not appear externally at all in that form, as happens, for example, with (the act of) sprinkling (the sacrificial surface). ‘The burning away of (inner binding) fetters by the fire’ means the burning away etc. of the fetters within the fire. 
 
@@ -483,17 +577,23 @@ Thus, one must mention (the nature of the rite in such cases by saying) for exam
 
 *[p. 155]* ^pg175
 
+### TĀ 17.29–30
+
 यपत्रोदिषट विधौ पश्चात्तदनन्तैः क्रियात्मकः ॥ २९ ॥
 अंशैः साध्यं न तत्रोहो दीक्षणादिविधिष्विव ।
 
-yatroddiṣte vidhau paścāt tadanantaih kriyātmakaih ॥ 29 ॥
-amśaih sādhyaṁ na tatroho dīkṣanādividhiṣv iva | 
+yatroddiṣte vidhau paścāt tadanantaiḥ kriyātmakaiḥ ॥ 29 ॥
+amśaiḥ sādhyaṁ na tatroho dīkṣanādividhiṣv iva | 
 
 When a ritual procedure has been announced and that (rite) is then to be accomplished by means of many associated secondary rites, as happens, for example, in the case of the procedures (relating to) initiation, there is no declaration (of what is being done or modification of the Mantras) (üha) there (in such cases). (29cd-30ab) 
+
+#### Viveka on 17.29–30
 
 ‘That’ is the procedure that has been announced. The ‘many associated secondary rites’ are, for example, impregnation and the other (preparatory purifications — saṁsakāras) (performed to purify and empower the sacrificial fire).” It is ‘as happens, for example, in the case of the procedures (relating to) initiation’. (In such cases,) there is no need to make even one such declaration (ha) as, “I am performing an initiation” or “I am installing (the deity)”. This is the meaning. 
 
 Having explained this by the way, (he now goes on) to speak about the main point. 
+
+### TĀ 17.30–33
 
 Illumining the Body of the Disciple with the 
 
@@ -507,20 +607,22 @@ Movement of the Breath and Mantra
 कुयीदात्मीयहदयस्थितमप्यवभासकम् |
 शिष्यदेहस्य तेजोभी रर्मिमात्रावियोगतः । ३३ ॥।
 
-tatah śiṣyasya tattattvasthāne ‘strena pratādanam |I 30 ॥
-krtvātha śivahastena hrdayarni parimarśayet |
-tatah svanādīmārgena hrdayarhn prāpya vai śiśoh ॥ 31 ॥
-siṣyātmanā sahaikatvarn gatvādāya ca tari hrdā |
-putitah harnsarūpākhyaṁ tatra samhāramudrayā || 32 ॥
-kuryād ātmīyahrdayasthitam apy avabhāsakam |
-siṣyadehasya tejobhī raśmimātrāviyogatah || 33 ॥ 
+tataḥ śiṣyasya tattattvasthāne ‘strena pratādanam |I 30 ॥
+kṛtvātha śivahastena hṛdayarni parimarśayet |
+tataḥ svanādīmārgena hṛdayaṁ prāpya vai śiśoḥ ॥ 31 ॥
+siṣyātmanā sahaikatvarn gatvādāya ca taṁ hṛdā |
+putitaḥ haṁsarūpākhyaṁ tatra samhāramudrayā || 32 ॥
+kuryād ātmīyahṛdayasthitam apy avabhāsakam |
+siṣyadehasya tejobhī raśmimātrāviyogataḥ || 33 ॥ 
 
 376?\. See above, 15/502 (498) ff.
 
 
 *[p. 156]* ^pg176
 
-"After this,” the teacher strikes the disciple with (the Mantra of) the Weapon, in the place where a (particular) principle \[illegible\] (is projected into the body). Having done that, he should touch (the disciple’s) heart with Śiva’s Hand.” Then having reached the disciple’s heart by the path of his own channel (of the vital breath), and having becoming one with the disciple’s Self and seized it by means of the (mantra of) the Heart (SAUH) and encapsulated by it, he should place it, that is, the one called ‘Harhsa’, there in his own heart“ by means of the gesture (mudrā) of withdrawal. Although (Harhsa is located there,) it lights up the body of the disciple with its radiant flames in such a way that it is not separated from the light (raśmimātrā).® (30cd-33) 
+"After this,” the teacher strikes the disciple with (the Mantra of) the Weapon, in the place where a (particular) principle \[illegible\] (is projected into the body). Having done that, he should touch (the disciple’s) heart with Śiva’s Hand.” Then having reached the disciple’s heart by the path of his own channel (of the vital breath), and having becoming one with the disciple’s Self and seized it by means of the (mantra of) the Heart (SAUH) and encapsulated by it, he should place it, that is, the one called ‘Haṁsa’, there in his own heart“ by means of the gesture (mudrā) of withdrawal. Although (Haṁsa is located there,) it lights up the body of the disciple with its radiant flames in such a way that it is not separated from the light (raśmimātrā). (30cd-33) 
+
+#### Viveka on 17.30–33
 
 377?\. In 17/30cd-33 Abhinava is expanding and explaining MV 9/58-59: ‘Having offered libation to (the Vidyā), (the teacher) should strike the disciple with (the Mantra of) the Weapon, and having attained (the Heart), the learned man should again (touch the disciple) in the heart with Śiva’s Hand. (58) (Then,) having gone there by the path of the channel (of his own vital breath), and having encapsulated it with Mantra of the Heart and HAM, he should lay hold of (the disciple’s Self) (in such a way) that it is not separated from the light (raśmimātrā).” (59)
 
@@ -528,25 +630,27 @@ siṣyadehasya tejobhī raśmimātrāviyogatah || 33 ॥
 
 379?\. s usually the letter H.
 
-380?\. The expression raśmimātrāviyogatah is taken from the MV 9/59ab, and cited by Kṣemarāja in his commentary on SvT, 4/11 lab. The expression ‘raśmimātrā’ literally means “(that which is) only rays’. I take it to mean ‘light’, as Jayaratha does, and translate accordingly. Cf. these passages from the SvT: “With (his) exhalation in conjunction with the utterance of ‘HUM’, (the teacher) should enter the heart (of the disciple) through the cavity of the channel (of the vital breath). Having gone (there), he should contemplate the consciousness of the disciple present in the heart, its form that of a Kadamba bud and shining radiantly like a star, having severed it with the sword of the Weapon, at the end of which is the jāti HUM PHAT.’ (SvT 3/169cd-171ab) Kṣemarāja: The sword is the Weapon of the undifferentiated (form of Siva) (niṣkala), ‘having severed’ the subtle body that it is not separated from the light (raśmimātrāviyogi) of the disciple (from its location in the heart). ‘It should be dragged along by the force (of the teacher’s breath) in the form of a hook in due order (until it reaches) the extremity of Sakti.’ (3/171cd) (The) ‘hook’ is what has been said. Its nature is the crooked energy (kuṭilākalā) (of Kungalinī) at the end (of the mantric syllable). “The extremity of Sakti’ is the End of the Twelve and that is the nasal here (at the end of the syllable Mantra. Next): ‘Having laid hold of (the disciple’s consciousness) in the End of the Twelve and encapsulated it within the Heart, it should be conjoined by the gesture of withdrawal (sarnhāramudrā) to the thread which is imagined to be the channel of the vital breath. Having imagined it to be pervasive, envelop it with the Armour. (3/172-173ab) The imagination of the pervasion (of the soul) that has been conjoined to the thread which is the body is done by applying (the mantra) “I am conjoining Devadatta’s consciousness to the thread of the fetters — salutation!” preceded by the utterance of pranava (OM) and Niskala. The common rite of initiation as described chapter four of the Svacchandatantra: astrena prokṣayec chiṣyaṁ puṣpayuktena tādayet | recakena tato gatvā śiṣyadehe viśed dhrdi ॥ “The disciple should be sprinkled with the Weapon, and strike him with (that) conjoined to a flower. Then having gone forth by exhalation, enter into the disciple’s heart.” (4/69) “The flower’ is one that has been consecrated by the repetition of the Weapon. ‘By exhalation’ means ‘by (breath that is on) the upward path. Now there: ‘Having repeated the Śiva (mantra) beginning with OM, and having made the Mantra of the Weapon that has PHAṬ at the end the instrument for the separation (viśleṣa) of (individual) consciousness, according to (the proper) procedure, and dragged it along with the hook, place it in the End of the Twelve. The individual soul located there should be properly laid hold of and encapsulated with Dhruva Mantra, by means of gesture of withdrawal.’ SvT 4/70-72ab Śiva is niskala. ‘Consciousness’ is in the form of the City of Eight. ‘According to (the proper) procedure’, that is, by imaginative contemplating that it is not separated from the light (raśmimātrā), as mentioned before. “The hook’ means the display of the gesture of the hook rā), in accord with the sequence of the crooked power (of Kundalini) of the root s should be done) ‘properly’, that is by the firmness of (his) experience of it not being different from himself (svābhedapratīti). As is said in the Spanda (treatise): ‘this itself is laying hold of oneself.” (2/7) (Now with the upper) ‘inhaled breath, enter the heart (that is, one’s own)’ 72cd “Having sprinkled the disciple with the Weapon, strike him whilst uttering the Weapon. (4/110ab) Sprinkling (is done) with Siva water on the thread of the fetters, in accord with the location of the Heart. Striking (is done) with ash, or else with these same (mantras). Then again: “Having gone forth with exhalation, he should sever his (disciple’s subtle body) from the Heart with the sword (of mantra). (4/1 10cd) According to the teaching imparted in the venerable Lakṣmīkulārnava, ‘Established in the sun (of exhalation), he should enter into the heart of the disciples by the path of the Moon.” Having gone out by (the path on his) own right and entered by (the path on) the left of his disciple, he should sever the soul of the disciple which, imagined (bhāãvanayā) to be located on the thread, is in the form of the City of Eight, by the Weapon mantra. And (once it is) severed): ‘Having dragged that Self along with force (dhāmnā), place it in the End of the Twelve.” (4/11 lab) The manner in which it is dragged along was explained before, and that is “it should be done without being separated from the light (raśmimātrā).
+380?\. The expression raśmimātrāviyogataḥ is taken from the MV 9/59ab, and cited by Kṣemarāja in his commentary on SvT, 4/11 lab. The expression ‘raśmimātrā’ literally means “(that which is) only rays’. I take it to mean ‘light’, as Jayaratha does, and translate accordingly. Cf. these passages from the SvT: “With (his) exhalation in conjunction with the utterance of ‘HUM’, (the teacher) should enter the heart (of the disciple) through the cavity of the channel (of the vital breath). Having gone (there), he should contemplate the consciousness of the disciple present in the heart, its form that of a Kadamba bud and shining radiantly like a star, having severed it with the sword of the Weapon, at the end of which is the jāti HUM PHAT.’ (SvT 3/169cd-171ab) Kṣemarāja: The sword is the Weapon of the undifferentiated (form of Siva) (niṣkala), ‘having severed’ the subtle body that it is not separated from the light (raśmimātrāviyogi) of the disciple (from its location in the heart). ‘It should be dragged along by the force (of the teacher’s breath) in the form of a hook in due order (until it reaches) the extremity of Sakti.’ (3/171cd) (The) ‘hook’ is what has been said. Its nature is the crooked energy (kuṭilākalā) (of Kungalinī) at the end (of the mantric syllable). “The extremity of Sakti’ is the End of the Twelve and that is the nasal here (at the end of the syllable Mantra. Next): ‘Having laid hold of (the disciple’s consciousness) in the End of the Twelve and encapsulated it within the Heart, it should be conjoined by the gesture of withdrawal (saṁhāramudrā) to the thread which is imagined to be the channel of the vital breath. Having imagined it to be pervasive, envelop it with the Armour. (3/172-173ab) The imagination of the pervasion (of the soul) that has been conjoined to the thread which is the body is done by applying (the mantra) “I am conjoining Devadatta’s consciousness to the thread of the fetters — salutation!” preceded by the utterance of pranava (OM) and Niskala. The common rite of initiation as described chapter four of the Svacchandatantra: astrena prokṣayec chiṣyaṁ puṣpayuktena tādayet | recakena tato gatvā śiṣyadehe viśed dhṛdi ॥ “The disciple should be sprinkled with the Weapon, and strike him with (that) conjoined to a flower. Then having gone forth by exhalation, enter into the disciple’s heart.” (4/69) “The flower’ is one that has been consecrated by the repetition of the Weapon. ‘By exhalation’ means ‘by (breath that is on) the upward path. Now there: ‘Having repeated the Śiva (mantra) beginning with OM, and having made the Mantra of the Weapon that has PHAṬ at the end the instrument for the separation (viśleṣa) of (individual) consciousness, according to (the proper) procedure, and dragged it along with the hook, place it in the End of the Twelve. The individual soul located there should be properly laid hold of and encapsulated with Dhruva Mantra, by means of gesture of withdrawal.’ SvT 4/70-72ab Śiva is niskala. ‘Consciousness’ is in the form of the City of Eight. ‘According to (the proper) procedure’, that is, by imaginative contemplating that it is not separated from the light (raśmimātrā), as mentioned before. “The hook’ means the display of the gesture of the hook rā), in accord with the sequence of the crooked power (of Kundalini) of the root s should be done) ‘properly’, that is by the firmness of (his) experience of it not being different from himself (svābhedapratīti). As is said in the Spanda (treatise): ‘this itself is laying hold of oneself.” (2/7) (Now with the upper) ‘inhaled breath, enter the heart (that is, one’s own)’ 72cd “Having sprinkled the disciple with the Weapon, strike him whilst uttering the Weapon. (4/110ab) Sprinkling (is done) with Siva water on the thread of the fetters, in accord with the location of the Heart. Striking (is done) with ash, or else with these same (mantras). Then again: “Having gone forth with exhalation, he should sever his (disciple’s subtle body) from the Heart with the sword (of mantra). (4/1 10cd) According to the teaching imparted in the venerable Lakṣmīkulārnava, ‘Established in the sun (of exhalation), he should enter into the heart of the disciples by the path of the Moon.” Having gone out by (the path on his) own right and entered by (the path on) the left of his disciple, he should sever the soul of the disciple which, imagined (bhāvanayā) to be located on the thread, is in the form of the City of Eight, by the Weapon mantra. And (once it is) severed): ‘Having dragged that Self along with force (dhāmnā), place it in the End of the Twelve.” (4/11 lab) The manner in which it is dragged along was explained before, and that is “it should be done without being separated from the light (raśmimātrā).
 
 
 *[p. 157]* ^pg177
 
-‘After this’ means after offering libation to Vāgīśī (the Goddess of Speech).® (The teacher) ‘strikes’ (the disciple) ‘with (the Mantra of) the Weapon, in the place where a (particular) principle \[illegible\] (is located in the body)’; that is, for example, the Earth (principle), to which a fire offering has been made, and is (located) in the ankle. The teacher’s ‘own’ (channel) is the right one, and that of the disciple, the left.“ ‘Having become (one)’, that is to say, within the heart itself. (The teacher seizes the disciple’s Self) ‘by means of the heart’, that is, by the Mantra of the heart (SAUH). Concerning ‘the gesture (mudrāã) of withdrawal’, it is said: 
+‘After this’ means after offering libation to Vāgīśī (the Goddess of Speech). (The teacher) ‘strikes’ (the disciple) ‘with (the Mantra of) the Weapon, in the place where a (particular) principle \[illegible\] (is located in the body)’; that is, for example, the Earth (principle), to which a fire offering has been made, and is (located) in the ankle. The teacher’s ‘own’ (channel) is the right one, and that of the disciple, the left.“ ‘Having become (one)’, that is to say, within the heart itself. (The teacher seizes the disciple’s Self) ‘by means of the heart’, that is, by the Mantra of the heart (SAUH). Concerning ‘the gesture (mudrā) of withdrawal’, it is said: 
 
 381?\. See above, 17/10ab.
 
-382?\. “Cf. MrT. Kriyyāpāda, 8/106.
+382?\. “Cf. MṛT. Kriyyāpāda, 8/106.
 
 
 *[p. 158]* ^pg178
 
 ‘Having extended the right hand and slowly drawn (towards the palm) the little finger (and then) the rest (of the fingers) in due order, one should clench the fist and press on it with the thumb. This is said to be the mudrā of withdrawal (sanhāramudrā).”\* 
 
-(The one called ‘Harhsa’) ‘is placed there in his own heart’. This (statement) should be applied in accord with maxim of the eye of a crow (kākākṣinyāya)\* (to both the teacher and the disciple, one after another. In other words, Harhsa is in the heart of both). Thus, although it is placed in (the teacher’s) own heart, one should think that it ‘lights up the body of the disciple with its radiant flames, in such a way that it is not separated from the light (raśmimātrā)\`; that is, in such a way that the light of consciousness would not be separated from (the body)“ 
+(The one called ‘Haṁsa’) ‘is placed there in his own heart’. This (statement) should be applied in accord with maxim of the eye of a crow (kākākṣinyāya)\* (to both the teacher and the disciple, one after another. In other words, Haṁsa is in the heart of both). Thus, although it is placed in (the teacher’s) own heart, one should think that it ‘lights up the body of the disciple with its radiant flames, in such a way that it is not separated from the light (raśmimātrā)\`; that is, in such a way that the light of consciousness would not be separated from (the body)“ 
 
 Surely (one may ask), what is the purpose of (the teacher’s) bringing the disciple’s Self in this way into his own heart? With this doubt in mind, he says: 
+
+### TĀ 17.34–35
 
 Giving Birth to the Disciple on Increasingly Higher Levels 
 
@@ -557,14 +661,14 @@ and Worlds with Trika Mantras and Oblations
 तेनात्महदयानीतं प्राक्कृत्वा पद्रलं ततः ।
 मायायां तद्धरातत््वशरीराण्यस्य संसृजेत् ॥ ३५ ॥
 
-svabandhasthānacalanāt svatantrasthānalābhatah |
+svabandhasthānacalanāt svatantrasthānalābhataḥ |
 svakarmāparatantratvāt sarvatrotpattim arhati | 34 ॥
-tenātmahrdayānītarni prāk krtvā pudgalarn tatah |
-māyāyār taddharātattvaśarīrāṇy asya sarhsrjet ॥ 35 ॥ 
+tenātmahṛdayānītarni prāk kṛtvā pudgalarn tataḥ |
+māyāyāṁ taddharātattvaśarīrāṇy asya saṁsṛjet ॥ 35 ॥ 
 
 (Now the disciple has reached the stage in which) he is fit to be born everywhere (in all the wombs). (This is so for three reasons. One is) because he has moved away from the place where his fetters (are located); (secondly,) because he has attained an independent place (where he is free) 
 
-383?\. How this gesture is made is not mentioned in MV 9/58-59 that Abhinava is explaining here. Indeed, although the gesture of withdrawal (saṁhāramudrā) is very common, it is not described anywhere in the MV. Thus, Jayaratha has had to draw from another source. This mudrā performs multiple functions. One is to grasp and withdraw the individual soul from its abode in the heart, so that once extracted, it can be variously manipulated. Cf. SvT 4/72abc: tatrasthah pudgalo grāhyah sampuṭyaiva dhruveṇa tu | samhāramudrayā samyak . , . ‘The individual soul located there (in the heart) should be properly grasped and encapsulated with Dhruva Mantra by means of sahhāramudrā.” Note that although commonly used in the rites of SvT, this gesture is also not described in the SvT. Indeed, this is probably because it is so common. A description of a saṁhāramudrā it is found in the MPĀ (drawing fig 5 in appendix of MPĀ Kriyā- Caryā and Yogapāda), but is not the same as the one described here.
+383?\. How this gesture is made is not mentioned in MV 9/58-59 that Abhinava is explaining here. Indeed, although the gesture of withdrawal (saṁhāramudrā) is very common, it is not described anywhere in the MV. Thus, Jayaratha has had to draw from another source. This mudrā performs multiple functions. One is to grasp and withdraw the individual soul from its abode in the heart, so that once extracted, it can be variously manipulated. Cf. SvT 4/72abc: tatrasthaḥ pudgalo grāhyaḥ sampuṭyaiva dhruveṇa tu | samhāramudrayā samyak . , . ‘The individual soul located there (in the heart) should be properly grasped and encapsulated with Dhruva Mantra by means of sahhāramudrā.” Note that although commonly used in the rites of SvT, this gesture is also not described in the SvT. Indeed, this is probably because it is so common. A description of a saṁhāramudrā it is found in the MPĀ (drawing fig 5 in appendix of MPĀ Kriyā- Caryā and Yogapāda), but is not the same as the one described here.
 
 384?\. See above, note 1,88. “In other words, the disciple continues to be conscious, without losing himself in Śiva’s light. See SŚP vol. I, pp. 112 and 261.
 
@@ -573,9 +677,13 @@ māyāyār taddharātattvaśarīrāṇy asya sarhsrjet ॥ 35 ॥
 
 (svatantrasthāna),” and (thirdly,) because he is not subject (anymore) to his own karma. Thus, (because these conditions obtain,) having initially brought the (disciple’s) Self into his own heart, (the teacher) should (now) generate within Māyā” the bodies (of the disciple) that pertain to the Earth principle. (34-35) 
 
+#### Viveka on 17.34–35
+
 ‘Māyā’ is Vāgīśī (the Goddess of Speech). 
 
 And how” does that (body’s) creation (take place)? (In response to this question,) he says: 
+
+### TĀ 17.36–38
 
 तत्रास्य गभीधानं च युक्तं पंसवनादिभिः ।
 गर्भनिष्करामपर्यन्तरेकां कुर्वीत संस्क्रियाम् ॥ ३६ ॥
@@ -585,21 +693,23 @@ And how” does that (body’s) creation (take place)? (In response to this ques
 संस्काराणां चतुष्केऽस्मिन्नपरां च परापराम् ।। ३८ ॥।
 मच्राणां पञ्चदशकं परां वा योजयेत्क्रमात् ।
 
-tatrāsya garbhādhānari ca yuktarn purṁsavanādibhih |
+tatrāsya garbhādhānari ca yuktarn purṁsavanādibhiḥ |
 garbhaniṣkrāmaparyantair ekām kurvīta samskriyām ॥ 36 ॥
-jananarh bhogabhoktrtvarn militvaikātha saṁskriyā |
+jananaṁ bhogabhoktṛtvarn militvaikātha saṁskriyā |
 tato ‘sya teṣu bhogeṣu kuryāt tanmayatālayam || 37 ॥
-tatas tattattvapāśānār vicchedarhń samupācaret |
+tatas tattattvapāśānār vicchedaṁń samupācaret |
 saṁskārāṇāṁ catuṣke ‘sminn aparām ca parāparām || 38 ॥
 mantrāṇāṁ pañcadaśakaṁ parāṁ vā yojayet kramāt | 
 
-1\) (The teacher) should perform just one rite of passage (sarnskriyā),' namely that of impregnation (garbhādhāna), which is connected to the others (concerning birth), beginning with the one for male offspring (purhsavana), and ending with the coming forth from the womb (garbhaniṣkrāma).” 2) Now one (more purifying) rite of passage takes place by combining the birth (of the body of the disciple into the appropriate world) with the subjectivity that has worldly experiences (bhogabhoktrtva). 3) Then (the teacher) should merge it into a state of oneness® in the course of those worldly experiences. 4) Then he should sever the bonds of that principle. (36-38ab) 
+1\) (The teacher) should perform just one rite of passage (saṁskriyā),' namely that of impregnation (garbhādhāna), which is connected to the others (concerning birth), beginning with the one for male offspring (puṁsavana), and ending with the coming forth from the womb (garbhaniṣkrāma).” 2) Now one (more purifying) rite of passage takes place by combining the birth (of the body of the disciple into the appropriate world) with the subjectivity that has worldly experiences (bhogabhoktṛtva). 3) Then (the teacher) should merge it into a state of oneness in the course of those worldly experiences. 4) Then he should sever the bonds of that principle. (36-38ab) 
+
+#### Viveka on 17.36–38
 
 385?\. One could also translate ‘svatantrasthāna’ as \*a place that depends on him’. Either way, the sense is that he is in a place in which he ‘depends on himself’, that is, is free and independent.
 
 386?\. Māyā, as we have seen, is presided over by Vāgīśvarī.
 
-387?\. \[illegible\] Read katharh ca for katharhca.
+387?\. \[illegible\] Read kathaṁ ca for kathaṁca.
 
 388?\. See above 15/(502-509) (498-505) concerning the rites of passage (saṁskāra).
 
@@ -610,21 +720,31 @@ mantrāṇāṁ pañcadaśakaṁ parāṁ vā yojayet kramāt |
 
 *[p. 160]* ^pg180
 
+### TĀ 17.38–39
+
 (The teacher) should apply to these four (purifying) rites of passage, (the mantras) of Aparā, Parāparā, the group of fifteen mantras, or that of Parā, (respectively,) in due order. (38cd-39ab) 
+
+#### Viveka on 17.38–39
 
 ‘The others (concerning birth)’ are (the rites of) the parting of the hair (of the pregnant woman) and the rest (sīmantonnayana). Thus (in this case), impregnation is the main rite of passage, as it includes the secondary (subsidiary) rites (associated with it). “These four’ (purifying rites of passage) are impregnation, the subjectivity that has worldly experiences, its merger, and the severing of the bonds. (The word) ‘or’ is in the sense of aggregation. 
 
 He (now) analyses the group of fifteen Mantras. 
 
+### TĀ 17.39–40
+
 पिबन्याद्यष्टकं शखरादिकं षट्कं परा तथा । ३९ ॥
 इति पञ्चदशते स्युः क्रमाल्लीनत्वसंस्कृतौ ।
 
 pibanyādyaṣtakaṁ śastrādikaṁ ṣaṭkaṁ parā tathā ॥ 39 ॥
-iti pañcadaśaite syuh kramāllīnatvasaṁskrtau | 
+iti pañcadaśaite syuḥ kramāllīnatvasaṁskṛtau | 
 
 The fifteen mantras (that are used) for the purification (that takes place) by merger are, in due order, the group of eight beginning with Pibanī, the group of six (limbs) beginning with the Weapon, and \[illegible\] (39cd-40ab) 
 
+#### Viveka on 17.39–40
+
 He presents the Mantras used for making the offerings to the fire (homa) here: 
+
+### TĀ 17.40–45
 
 अपसमनच््रमुक्त्वा प्रागमुकात्मन इत्यथ ।। ४० ॥
 गभीधानं करोमीति पुनर्मन्रं तमेव च ।
@@ -635,7 +755,7 @@ He presents the Mantras used for making the offerings to the fire (homa) here:
 उच्चार्य पिबनीमन्रममुकात्मन इत्यथ ॥ ४३ ॥
 भोगे लयं करोमीति पुनर्मन्रं तमेव च ।
 
-[^391]: \[illegible\] The partners of eight Bhairavas, Aghora etc., have the same names in the feminine. The last of the eight in the forward order is Pibana Bhairava (the Drinking Bhairava), whose partner is Pibanī. For the names of eight parts of Parāparā Vidya, see below, note to 30/24cd-25ab. The six auxiliaries (añga) are presumably the usual ones of Parā (SAUH). The Weapon is normally listed last, so it appears that these too are also listed in reverse. Parā comes last, so 8 + 6 + 1. The ‘fifteen mantras’ are the eight parts of Parāparā, the six ancillaries of Parā, and Parā Herself. These are effectively Parāparā and Parā. Next follows Parā. Through these permutations of the Trika Vidyā, the disciple is bomn into the condition of a putraka — a ‘spiritual son’. As such, he also symbolically undergoes the four rites of passage relating to birth.
+[^391]: \[illegible\] The partners of eight Bhairavas, Aghora etc., have the same names in the feminine. The last of the eight in the forward order is Pibana Bhairava (the Drinking Bhairava), whose partner is Pibanī. For the names of eight parts of Parāparā Vidya, see below, note to 30/24cd-25ab. The six auxiliaries (aṅga) are presumably the usual ones of Parā (SAUH). The Weapon is normally listed last, so it appears that these too are also listed in reverse. Parā comes last, so 8 + 6 + 1. The ‘fifteen mantras’ are the eight parts of Parāparā, the six ancillaries of Parā, and Parā Herself. These are effectively Parāparā and Parā. Next follows Parā. Through these permutations of the Trika Vidyā, the disciple is bomn into the condition of a putraka — a ‘spiritual son’. As such, he also symbolically undergoes the four rites of passage relating to birth.
 
 *[p. 161]* ^pg181
 
@@ -656,40 +776,50 @@ He presents the Mantras used for making the offerings to the fire (homa) here:
 दद्यात्पुरं शोधयामीत्यूहयुक्त प्रसन्नधीः ॥ ५९१
 
 aparāmantram uktvā prāgamukātmana ity atha ॥ 40 ॥
-garbhādhānari karomīti punar mantrarh tam eva ca |
-svāhāntam uccaran dadyād āhutitritayaṁ guruh ॥ 41 ॥
+garbhādhānari karomīti punar mantraṁ tam eva ca |
+svāhāntam uccaran dadyād āhutitritayaṁ guruḥ ॥ 41 ॥
 parar parāparāmantram amukātmana ity atha |
-jātasya bhogabhoktrtvarn karomy atha parāparām || 42 ॥
-ante svāheti proccārya vitaret tisra āhutīh |
+jātasya bhogabhoktṛtvarn karomy atha parāparām || 42 ॥
+ante svāheti proccārya vitaret tisra āhutīḥ |
 uccārya pibanīmantram amukātmana ity atha ॥ 43 ॥
 bhoge layan karomīti punar mantran tam eva ca |
-svāhāntam āhutīs tisro dadyād ājyatilādibhih ॥ 44 ॥
-eṣa eva vamanyādau vidhih pañcadaśāntake |
+svāhāntam āhutīs tisro dadyād ājyatilādibhiḥ ॥ 44 ॥
+eṣa eva vamanyādau vidhiḥ pañcadaśāntake |
 pūrvaṁ parātmakaṁ mantram amukātmana ity atha || 45 |
-pāśacchedari karomīti parāmantrah punas tatah |
-hur svāhā phaṭ samuccārya dadyāt tisro ‘py athāhutīh ॥ 46 ॥
-samiskārānāṁ catuṣke ‘smin ye mantrāh kathitā mayā |
+pāśacchedari karomīti parāmantraḥ punas tataḥ |
+huṁ svāhā phaṭ samuccārya dadyāt tisro ‘py athāhutīḥ ॥ 46 ॥
+samiskārānāṁ catuṣke ‘smin ye mantrāḥ kathitā mayā |
 teṣu karmapadāt pūrvaṁ dharātattvapadaṁ vadet || 47 ॥
 tato dharātattvapatim āmantryeṣtvā pratarpya ca |
 sivābhimānasaṁrabdho gurur evarn samādiśet ॥ 48 ॥
 tattveśvara tvayā nāsya putrakasya śivājñayā |
-pratibandhah prakartavyo yātuh padam anāmayam || 49 ॥
+pratibandhaḥ prakartavyo yātuḥ padam anāmayam || 49 ॥
 tato yadi samīheta dharātattvāntarālagam |
-prthak śodhayituṁn mantrī bhuvanādyadhvapañcakam I| 50 ॥
-aparāmantratah prāgvat tisras tisras tadāhutīh |
-dadyāt pura śodhayāmīty ūhayuktai prasannadhīh ॥ 51 ॥ 
+pṛthak śodhayituṁn mantrī bhuvanādyadhvapañcakam I| 50 ॥
+aparāmantrataḥ prāgvat tisras tisras tadāhutīḥ |
+dadyāt pura śodhayāmīty ūhayuktai prasannadhīḥ ॥ 51 ॥ 
 
 *[p. 162]* ^pg182
 
-“Having uttered the mantra of Aparā (HRĪḤ HŪṀ HŪM PHAT), the teacher should first of all say that: “I perform for the soul of so-and-so (who is within the Earth principle,“ the rite of) impregnation”. Then, while he utters that same mantra (of Aparā) and ending with SVĀHĀ, he should offer three oblations. After that, having uttered the mantra of Parāparā, (the teacher should say): “I perform for the soul of so-and-so, who has (just been) born, (the rite by which he is given the capacity) to be the one who experiences what is to be experienced (as the consequence of past Karma) (bhogabhoktrtva).” (Then,) having uttered (the mantra) of Parāparā and SVĀHĀ at the end, he should offer three oblations.” (After that) once uttered the mantra of Pibanī (PIBA HE RURU RARA PHAT HUM HAH PHAT), (he should say): “I perform for the soul of so-and-so (the rite of) merger into (his) worldly experience (bhoga)”, and (whilst uttering) again the mantra (of Pibanī), ending with SVĀHĀ, he should offer three oblations, with clarified butter and sesame seeds etc. The procedure is the same for Vamanī and the rest, up to the end of the fifteen mantras mentioned (above).TM (40cd-45ab) 
+“Having uttered the mantra of Aparā (HRĪḤ HŪṀ HŪM PHAT), the teacher should first of all say that: “I perform for the soul of so-and-so (who is within the Earth principle,“ the rite of) impregnation”. Then, while he utters that same mantra (of Aparā) and ending with SVĀHĀ, he should offer three oblations. After that, having uttered the mantra of Parāparā, (the teacher should say): “I perform for the soul of so-and-so, who has (just been) born, (the rite by which he is given the capacity) to be the one who experiences what is to be experienced (as the consequence of past Karma) (bhogabhoktṛtva).” (Then,) having uttered (the mantra) of Parāparā and SVĀHĀ at the end, he should offer three oblations.” (After that) once uttered the mantra of Pibanī (PIBA HE RURU RARA PHAT HUM HAH PHAT), (he should say): “I perform for the soul of so-and-so (the rite of) merger into (his) worldly experience (bhoga)”, and (whilst uttering) again the mantra (of Pibanī), ending with SVĀHĀ, he should offer three oblations, with clarified butter and sesame seeds etc. The procedure is the same for Vamanī and the rest, up to the end of the fifteen mantras mentioned (above). (40cd-45ab) 
+
+### TĀ 17.45–46
 
 (Then having uttered) first of all the mantra of Parā, (the teacher should say): “I perform for the soul of so-and-so (the rite of) severing the fetters.” (He should then repeat) the mantra of Parā again and then, having uttered HUM SVĀHĀ and PHAT, he should also offer three oblations.” (45cd-46) 
 
+### TĀ 17.47
+
 In the mantras I have said (are used) in these four (purifying) rites of passage, (the teacher) should say the words “Earth principle” (dharātattva) before the word that denotes the object (of the rite) (karmapada). (47) 
+
+### TĀ 17.48
 
 Then having invoked,“ worshipped and offered libation to the Lord of the Earth principle,“' the teacher who has elicited a sense of identity (abhimāna) with Śiva, should order him thus: (48) 
 
-“O Lord of (this) principle (fattveśvara)! By Śiva’s command you should not create (any) obstacle for this spiritual son (putraka), who is on his way to the plane free of (all) disease.”® (49) 
+### TĀ 17.49
+
+“O Lord of (this) principle (fattveśvara)! By Śiva’s command you should not create (any) obstacle for this spiritual son (putraka), who is on his way to the plane free of (all) disease.” (49) 
+
+#### Viveka on 17.49
 
 392?\. 17/40cd-45ab is an expansion of MV 9/61-62.
 
@@ -710,9 +840,13 @@ Then having invoked,“ worshipped and offered libation to the Lord of the Earth
 
 *[p. 163]* ^pg183
 
-If after this, (the teacher) who possesses the Mantras (mantrin) wishes to purify separately the five Paths beginning with that of the worlds present in the intermediate spaces within the Earth principle, he should, serene (and well disposed), offer as before, sets of three oblations with the mantra of Aparā, appropriately modifying it (žhayukta) (and uttering): “I purify (this) world”. (51) 
+### TĀ 17.50–51
 
-‘That same (mantra)’, namely, Aparā.® “The word that denotes the object (of the rite) (karmapada)’ is ‘garbhādhāna’ (that is ‘impregnation’). Thus, the modified form of the Mantra (ha) is the Aparā Mantra (HRĪH HŪM PHAT)“ “I perform (the rite of) impregnation for the soul of so-and-so in the Earth principle”, (then) Apara Mantra SVĀHĀ.“ ‘Then’, after the four (purifying) rites of passage, ‘having invoked’ with Apara Mantra, because there is no mention of some other Mantra. As he will say: 
+If after this, (the teacher) who possesses the Mantras (mantrin) wishes to purify separately the five Paths beginning with that of the worlds present in the intermediate spaces within the Earth principle, he should, serene (and well disposed), offer as before, sets of three oblations with the mantra of Aparā, appropriately modifying it (ūhayukta) (and uttering): “I purify (this) world”. (51) 
+
+#### Viveka on 17.50–51
+
+‘That same (mantra)’, namely, Aparā. “The word that denotes the object (of the rite) (karmapada)’ is ‘garbhādhāna’ (that is ‘impregnation’). Thus, the modified form of the Mantra (ha) is the Aparā Mantra (HRĪH HŪM PHAT)“ “I perform (the rite of) impregnation for the soul of so-and-so in the Earth principle”, (then) Apara Mantra SVĀHĀ.“ ‘Then’, after the four (purifying) rites of passage, ‘having invoked’ with Apara Mantra, because there is no mention of some other Mantra. As he will say: 
 
 ‘All the rites (kriyā) (that serve) to purify (the principles) up to the end of Māyā should always be (done) with (the mantra of) Aparā.”\* 
 
@@ -720,14 +854,16 @@ The cause in this kind of command is that (the teacher has) ‘elicited a sense 
 
 (Now) he transposes (atidisati) this (procedure) elsewhere (to analogous cases) also. 
 
+### TĀ 17.52–53
+
 एवं कलामन््रपदवर्णेष्वपि विचक्षणः ।
 तिस्रस्तिस्रो हुतीर्दयात् पृथक् सामस्त्यतोऽपि वा ॥ ५२ ॥
 ततः पू्ीहुतिं दत्वा परया वौषडन्तया ।
 अपरामन्रतः शिष्यमुदधत्यात्महदं नयेत् ॥ ५३ ॥
 
-evam kalāmantrapadavarneṣv api vicakṣaṇah |
-tisras tisro hutīr dadyāt prthak sāmastyato ‘pi vā || 52 Il tatah pūrṇāhutiṁ dattvā parayā vauṣadantayā |
-aparāmantratah śiṣyam uddhrtyātmahrdarh nayet || 53 | 
+evam kalāmantrapadavarneṣv api vicakṣaṇaḥ |
+tisras tisro hutīr dadyāt pṛthak sāmastyato ‘pi vā || 52 Il tataḥ pūrṇāhutiṁ dattvā parayā vauṣadantayā |
+aparāmantrataḥ śiṣyam uddhṛtyātmahṛdaṁ nayet || 53 | 
 
 In the same way, the expert (teacher) should offer three oblations each to the Forces (kalā), Mantras, parts of Mantra (pada) and phonemes, either (to each one) separately, or else (all of them) together as a whole. Then, after having offered a full oblation with Parā and VAUṢAT at the 
 
@@ -746,19 +882,25 @@ In the same way, the expert (teacher) should offer three oblations each to the F
 
 end, and having extracted the disciple with (the same) Aparā Mantra (by which the principle has been purified), he should lead him into his own heart.” (52-53) 
 
+#### Viveka on 17.52–53
+
 (He can offer the oblations to) ‘(each one) separately’, that is, one at a time, (or else to) ‘(all of them) together as a whole’, (saying) “I am purifying the other (remaining) five Paths.” (The disciple is) ‘extracted’, that is to say, from the purified principle. ‘His own heart’ means that of the teacher. 
 
 He (now) presents another view (mata) here itself (about this). 
+
+### TĀ 17.54–55
 
 यदा त्वेकेन शुद्धेन तदन्तभीवचिन्तनात् ।
 न पृथक् शोधये्तत्वनाथसंश्रवणात्यरम् । ॥ ५४ ॥
 तदा पूणीं वितीयीणुमुत्क्षिप्यात्मनि योजयेत् ।
 
 yadā tv ekena śuddhena tadantarbhāvacintanāt |
-na prthak śodhayet tattvanāthasaṁśravanāt param ॥ 54 I|
+na pṛthak śodhayet tattvanāthasaṁśravanāt param ॥ 54 I|
 tadā pūrnāṁ vitīryāṇum utkṣipyātmani yojayet | 
 
 If when one (Path) has been purified and (the teacher) thinks that the others are contained within it, he should not for that reason purify (them) separately (one by one). After hearing (the name of) the Lord of (that) principle (tattvanātha), (he should offer) a full (oblation), and having extracted the soul (of the disciple from the reality level that has been purified) and cast it upwards, (the teacher) should conjoin it within (his own) Self. (54-55ab) 
+
+### TĀ 17.55–56
 
 तात्स्थयात्मसंस्थ्ययोगाय तयैवापरयाहुतीः || ५५ ॥
 सकर्मपदया दद्यादिति केचित्तु मन्वते ।
@@ -768,7 +910,7 @@ If when one (Path) has been purified and (the teacher) thinks that the others ar
 ततः शिष्यहदं नेयः स आत्मा तावतोऽध्वनः ।। ५८ ॥
 शुद्धस्तदार्ढयसिद्धयै च प्रणी स्यात्परया पुनः ।
 
-405?\. \[illegible\] Verse 53 is a paraphrase of MV 9/67. tatah pūrnāhutiṁ dadyāt parayā vauṣadantayā | sium utkṣipya cātmasthaṁ taddehastharh ca kārayet ॥ 67 ॥ “Then he should offer a full oblation with Parā and VAUṢAF at the end, and having cast the disciple upwards (TĀ reads uddhytya ‘extracted’ for utkṣipya ‘cast upwards’), he should place him within himself and within the body (of the disciple).
+405?\. \[illegible\] Verse 53 is a paraphrase of MV 9/67. tataḥ pūrnāhutiṁ dadyāt parayā vauṣadantayā | sium utkṣipya cātmasthaṁ taddehasthaṁ ca kārayet ॥ 67 ॥ “Then he should offer a full oblation with Parā and VAUṢAF at the end, and having cast the disciple upwards (TĀ reads uddhytya ‘extracted’ for utkṣipya ‘cast upwards’), he should place him within himself and within the body (of the disciple).
 
 
 *[p. 165]* ^pg185
@@ -779,38 +921,46 @@ If when one (Path) has been purified and (the teacher) thinks that the others ar
 धरातत्तं विशुद्धं सज्जलेन शुद्धरूपिणा ।
 भावयेमिश्रितं वारि शुद्धियोग्यं ततो भवेत् ।। ६९ ॥
 
-tātsthyātmasaṁsthyayogāya tayaivāparayāhutīh ॥ 55 ॥
+tātsthyātmasaṁsthyayogāya tayaivāparayāhutīḥ ॥ 55 ॥
 sakarmapadayā dadyād iti kecit tu manvate |
-anye tu guravah prāhur bhāvanāmayam īdrśam ॥ 56 ॥
-nātra bāhyāhutir deyā daiśikasya prthak punah |
-dadyād vā yadi no doṣah syād upāyah sa bhāvane ॥ 57 ॥
-evarh prāktanatātsthyātmasaṁsthatve yojayed guruh |
-tatah śiṣyahrdaṁ neyah sa ātmā tāvato ‘dhvanah |I 58 I|
-śuddhas taddārdhyasiddhyai ca pūrṇā syāt parayā punah |
+anye tu guravaḥ prāhur bhāvanāmayam īdṛśam ॥ 56 ॥
+nātra bāhyāhutir deyā daiśikasya pṛthak punaḥ |
+dadyād vā yadi no doṣaḥ syād upāyaḥ sa bhāvane ॥ 57 ॥
+evaṁ prāktanatātsthyātmasaṁsthatve yojayed guruḥ |
+tataḥ śiṣyahṛdaṁ neyaḥ sa ātmā tāvato ‘dhvanaḥ |I 58 I|
+śuddhas taddārdhyasiddhyai ca pūrṇā syāt parayā punaḥ |
 mahāpāśupatam pūrvaṁ vilomasya viśuddhaye ॥ 59 ॥
 juhomi punar astreṇa vauṣadanta iti kṣipet |
-punah pūrṇām tato māyām abhyarcyātha visarjayet ॥ 60 ॥
-dharātattvaṁ viŝuddharh saj jalena śuddharūpiṇā |
+punaḥ pūrṇām tato māyām abhyarcyātha visarjayet ॥ 60 ॥
+dharātattvaṁ viśuddhaṁ saj jalena śuddharūpiṇā |
 bhāvayen miśritan vāri śuddhiyogyaṁ tato bhavet ॥ 61 ॥ 
 
-According to some (teachers), in order to unite (yogãya) (the Self of the disciple) that is located within that (principle) (fātsthya) (with that of the teacher, who is) established within himself (ãtmasarhsthya),® (the teacher should offer three) oblations with that same Aparā (mantra), along with the words that express the purpose (of the rite) (sakarmapadā). (55cd-56ab) 
+According to some (teachers), in order to unite (yogāya) (the Self of the disciple) that is located within that (principle) (fātsthya) (with that of the teacher, who is) established within himself (ātmasaṁsthya), (the teacher should offer three) oblations with that same Aparā (mantra), along with the words that express the purpose (of the rite) (sakarmapadā). (55cd-56ab) 
 
-(There are yet) other teachers who say that this kind (of ritual action) is (just inwardly) imagined (bhāvanāmaya). The teacher need not offer an outer oblation here (in this case). Or else, if he were to offer it separately, that does not (entail) a defect; (indeed,) it is a means (upãya) to aid meditation (bhãvana). (56cd-57) 
+### TĀ 17.56–57
+
+(There are yet) other teachers who say that this kind (of ritual action) is (just inwardly) imagined (bhāvanāmaya). The teacher need not offer an outer oblation here (in this case). Or else, if he were to offer it separately, that does not (entail) a defect; (indeed,) it is a means (upāya) to aid meditation (bhāvana). (56cd-57) 
+
+### TĀ 17.58–60
 
 The teacher should unite in this way (the disciple) with (his) location within (his own) Self, (just as he was) previously placed within that (reality level). Then, (the disciple’s) Self, purified from that much (of the Path), should be led (back) into the disciple’s heart. In order make that (awareness of purity) firm (and stable, he should offer) with (the Vidyā of) Parā a full (oblation) again, preceded by the great Pāśupata (weapon),” in 
 
-406?\. A more literal translation of the expression ‘rātsthyātmasaṁsthyayogāya’” could be: “in order to unite (yogāya) (the Self of disciple,) whose condition is that of being located within that (principle) (tātsthya), (with that of the teacher, whose condition is one of being) established within himself (ātmasarhsthya).”
+406?\. A more literal translation of the expression ‘rātsthyātmasaṁsthyayogāya’” could be: “in order to unite (yogāya) (the Self of disciple,) whose condition is that of being located within that (principle) (tātsthya), (with that of the teacher, whose condition is one of being) established within himself (ātmasaṁsthya).”
 
-407?\. \[illegible\] 17/59 is a reworking of MV 9/68, that reads: āhutīnām trayan dadyād dattvā pūrnāhutiṁn budhah | mahāpāśupatāstrenṇa vilomādiviíśuddhaye \\\\ \[illegible\] having (first) offered a full oblation with the great Pāśupata Weapon, the wise man should offer three oblations in order to purify (the Path) in reverse etc. Concerning the Pāśupata Weapon, see below 30/41cd.
+407?\. \[illegible\] 17/59 is a reworking of MV 9/68, that reads: āhutīnām trayan dadyād dattvā pūrnāhutiṁn budhaḥ | mahāpāśupatāstrenṇa vilomādiviíśuddhaye \\\\ \[illegible\] having (first) offered a full oblation with the great Pāśupata Weapon, the wise man should offer three oblations in order to purify (the Path) in reverse etc. Concerning the Pāśupata Weapon, see below 30/41cd.
 
 
 *[p. 166]* ^pg186
 
 order to purify (whatever) is adverse (viloma).” Then saying again “I offer etc.” with the Weapon (Mantra) and, (with the other exclamations) ending with the mantra VAUṢAT, he should cast another full (oblation into the fire). Then, having worshiped Māyā, he should dismiss her.” (58-60) 
 
+### TĀ 17.61
+
 He should (now) meditate on how the purified Earth principle is mixed with (and dissolves away into) the pure Water (principle). Thus, Water becomes fit to be purified. (61) 
 
-‘One’ out of the Paths of the principles and the rest. ‘He should not purify (them)’, that is to say, the other five paths. ‘With that same Aparā’, as applied before (prakrāntā). The ‘oblations’ are three. (He should utter Aparā Mantra) ‘along with the words that express the purpose (of the rite)’, that is, “I place the Self of so-and-so within (my own) Self.” (The teacher need not offer an outer oblation) ‘here (in this case)’, in order to effect (the merger of the Self of the disciple) that is located within that (principle) (tātsthya) (with that of the teacher which is) established within himself (āãtmasarhsthya). “The teacher’ is the agent (who performs the rites). ‘It’, that is, that modality (prakāra) characterized as the external offering to the fire, (may function as a means (upāya) to aid the meditation). ‘(As he was) previously placed’, in the way described (above, in the following lines): 
+#### Viveka on 17.61
+
+‘One’ out of the Paths of the principles and the rest. ‘He should not purify (them)’, that is to say, the other five paths. ‘With that same Aparā’, as applied before (prakrāntā). The ‘oblations’ are three. (He should utter Aparā Mantra) ‘along with the words that express the purpose (of the rite)’, that is, “I place the Self of so-and-so within (my own) Self.” (The teacher need not offer an outer oblation) ‘here (in this case)’, in order to effect (the merger of the Self of the disciple) that is located within that (principle) (tātsthya) (with that of the teacher which is) established within himself (ātmasaṁsthya). “The teacher’ is the agent (who performs the rites). ‘It’, that is, that modality (prakāra) characterized as the external offering to the fire, (may function as a means (upāya) to aid the meditation). ‘(As he was) previously placed’, in the way described (above, in the following lines): 
 
 ‘Then having reached the disciple’s heart by the path of his own channel (of the vital breath).””? 
 
@@ -835,19 +985,25 @@ having (first) offered a full oblation with the great Pāśupata Weapon, the wis
 
 Transposing that same (method) in general (to all the series of principles), he separates pure and impure. 
 
+### TĀ 17.62
+
 तथा तत्तत्पुराततत्वमिश्रणादुत्तरोत्तरम् ।
 सवी शिवीभवेततत्वावली शुद्धान्यथा पृथक् ।। ६२ ॥
 
 tathā tattatpurātattvamiśraṇād uttarottaram |
-sarvā śivībhavet tattvāvalī śuddhānyathā prthak ॥ 62 ॥ 
+sarvā śivībhavet tattvāvalī śuddhānyathā pṛthak ॥ 62 ॥ 
 
 By mixing (and fusing together) in this way the principle of each world (progressively) with the one which is just above it, the entire series of principles becomes Śiva and pure. Otherwise (whatever is not pure) is separate (from Him). (62) 
+
+#### Viveka on 17.62
 
 ‘In this way’, that is in the manner described. ‘Otherwise’, what is not pure is ‘separate’. The sense is that that which is other than Śiva is that which is binding (pāśa). That was said before: 
 
 ‘A fetter is said to be whatever is other than Supreme Śiva, Whose nature we have just described’”\* 
 
 Thus, he says: 
+
+### TĀ 17.63
 
 पृथक्त्वं च मलो मायाभिधानस्तस्य संभवे ।
 कर्मक्षयेऽपि नो मुक्तिभविद्रिय्रादिवत् ॥ ६३ ॥
@@ -856,6 +1012,8 @@ prthaktvań ca malo māyābhidhānas tasya saibhave |
 karmakṣaye ‘pi no muktir bhaved vidyeśvarādivat ॥ 63 ॥ 
 
 (This) state of separation is the Impurity (mala) called Māyā. As long as it continues to arise, even if karma is exhausted, there is no liberation, as happens, for example, with the Vidyeśvaras.” (63) 
+
+#### Viveka on 17.63
 
 As is said concerning ‘Māyā’: ‘The perception of objects as divided off (from one another and the perceiver) is the (Impurity) here called ‘Māyā’.’” 
 
@@ -872,6 +1030,8 @@ All that was said before he (now) transposes to the other principles.
 
 *[p. 168]* ^pg188
 
+### TĀ 17.64
+
 ततोऽपि जलत्वस्य वह्यौ व्योमनि चिदात्मके ।
 आह्वानाद्यखिलं यावत्तेजस्यस्य विमिश्रणम् । ६४ ॥
 tato ‘pi jalatattvasya vahnau vyomni cidātmake |
@@ -879,18 +1039,24 @@ tato ‘pi jalatattvasya vahnau vyomni cidātmake |
 
 Thus, all (the preceding rites) beginning with the invocation of the principle of Water into the Fire within the Void of consciousness, (should be repeated) until it merges with” the principle of Fire. (64) 
 
-The Burning of the Fetters (pãśadāhah) 
+#### Viveka on 17.64
+
+The Burning of the Fetters (pāśadāhaḥ) 
+
+### TĀ 17.65–66
 
 एवं क्रमात्कलाततत्वे शुद्धे पाशं भुजाश्रितम् ।
 छिन््यात्कला हिसा किञित्कर्तृत्वोन्मीलनात्मिका || ६५ ॥।
 क्मीख्यमलजृम्भात्मा तंच ग्रसं सुगग्रगम् ।
 पूणीहुत्या समं वहविमत्रतेजसि निहित || ६६ ॥
-evarh kramāt kalātattve \[illegible\] pāśaṁ bhujāśritam |
-chindyāt kalā hi sā kiñcit kartrtvonmīlanātmikā ॥ 65 ॥
-karmākhyamalajrmbhātmā tarn ca granthińn srugagragam |
-pūrnāhutyā samarh vahnimantratejasi nirdahet || 66 ॥ 
+evaṁ kramāt kalātattve \[illegible\] pāśaṁ bhujāśritam |
+chindyāt kalā hi sā kiñcit kartṛtvonmīlanātmikā ॥ 65 ॥
+karmākhyamalajṛmbhātmā tarn ca granthińn srugagragam |
+pūrnāhutyā samaṁ vahnimantratejasi nirdahet || 66 ॥ 
 
-(Continuing) in this way, (purifying one principle after the other) successively until the principle of Force (kalā) has been purified, (the teacher) should then sever the fetter (represented by the first knot in the thread) that hangs on (the disciple’s) arm. Indeed, Force is the opening up (of the soul’s) limited agency,” and is the unfolding (jrmbha) of the Impurity called Karma. (Having placed) that knot on the tip of the sacrificial ladle, (the teacher) should burn it at the same time as (he offers) a full oblation into the radiant energy of the Mantra of Fire.” (65-66) 
+(Continuing) in this way, (purifying one principle after the other) successively until the principle of Force (kalā) has been purified, (the teacher) should then sever the fetter (represented by the first knot in the thread) that hangs on (the disciple’s) arm. Indeed, Force is the opening up (of the soul’s) limited agency,” and is the unfolding (jṛmbha) of the Impurity called Karma. (Having placed) that knot on the tip of the sacrificial ladle, (the teacher) should burn it at the same time as (he offers) a full oblation into the radiant energy of the Mantra of Fire.” (65-66) 
+
+#### Viveka on 17.65–66
 
 ‘(Continuing) in this way’, that is, in the aforestated manner (krama). What is the intended purpose of cutting (the thread representing) the fetter 
 
@@ -898,7 +1064,7 @@ pūrnāhutyā samarh vahnimantratejasi nirdahet || 66 ॥
 
 417?\. See above, 9/155b ff. Kalā — here translated as ‘Force’ is the first kañcuka. It imparts a capacity for limited agency to the individual soul and so is essentially, as Abhinava says, the unfolding of the Impurity of Karma (karmamala) and so, as such, it is the principle attendant cause (nimitta) of Karma.
 
-418?\. 17/65-66 is an explanatory expansion of MV 9/70: kālāntavyāptisarłśuddhau (> kalānta-) krtāyām evam ādarāt | bāhupāśaṁ \[g: bahupāśamiti\] tu tarn chittvā homayed ājyasaṁiyutam | “When the pervasion up to the end of the (principle of) Kalā (read kalānta- for kālānta-) has been purified with reverence in this way, once severed the fetter of the arm, he should offer oblation with clarified butter.
+418?\. 17/65-66 is an explanatory expansion of MV 9/70: kālāntavyāptisarłśuddhau (> kalānta-) kṛtāyām evam ādarāt | bāhupāśaṁ \[g: bahupāśamiti\] tu tarn chittvā homayed ājyasaṁiyutam | “When the pervasion up to the end of the (principle of) Kalā (read kalānta- for kālānta-) has been purified with reverence in this way, once severed the fetter of the arm, he should offer oblation with clarified butter.
 
 
 *[p. 169]* ^pg189
@@ -907,17 +1073,23 @@ pūrnāhutyā samarh vahnimantratejasi nirdahet || 66 ॥
 
 Surely (one may ask), the radiant energy (tejas) of Mantra is omnipresent, so how is it that it is located only in Fire? 
 
+### TĀ 17.67
+
 मत्रो हि विश्वरूपः सननुपाश्रयवशात्तथा ।
 व्यक्तरूपस्ततो वह्ौ पाशप्ोषविधायकः ॥ ६७ ॥।
 
-mantro hi viśvarūpah sann upāśrayavaśāt tathā |
-vyaktarūpas tato vahnau pāśaploṣavidhāyakah ॥ 67 ॥ 
+mantro hi viśvarūpaḥ sann upāśrayavaśāt tathā |
+vyaktarūpas tato vahnau pāśaploṣavidhāyakaḥ ॥ 67 ॥ 
 
 Mantra is (in reality) omniform, and being so, its manifest form is such (as it is) due to its underlying ground (upāśraya) (in which it operates), and so (present) within the fire (in that way), it burns away the fetters. (67) 
+
+#### Viveka on 17.67
 
 ‘Such (as it is)’, that is, as fire, which, in accord with its character, ‘burns away the fetters’. This is the intended meaning. 
 
 Surely (one may ask), how can that which is without form (amūrta) be burnt? With this doubt in mind, he says: 
+
+### TĀ 17.68
 
 प्लुष्टो लीनस्वभावोऽसौ पाशस्तं प्रति शम्भुवत् ।
 परमेशमहातेजःशेषमात्रत्वूनुते ॥ ६८ ॥
@@ -931,13 +1103,13 @@ Surely (one may ask), how can that which is without form (amūrta) be burnt? Wit
 पृणीं समयपाशाख्यबीजदाहपदान्विताम् ॥ ७२ ॥
 
 \[2114510 līnasvabhāvo ‘sau pāśas tarn prati śambhuvat |
-parameśamahātejah śeṣamātratvam aśnute || 68 ॥
+parameśamahātejaḥ śeṣamātratvam aśnute || 68 ॥
 karmapāsśe ‘tra hotavye pūrṇayāsya śubhāśubham |
 aśubhari vā bhavadbhūtaṁ bhāvi vātha samastakam || 69 I|
 dahāmi phattrayarn vauṣad iti pūrnārm vinikṣipet |
 evar māyāntasaṁśuddhau kanthapāśaṁ ca homayet Il 70 |
 pūrnṇayā tasya māyākhyaṁ \[illegible\] bhedaprathātmakam |
-dahāmi phaṭtrayaṁ vauṣad iti pūrnām kṣiped guruh ॥ 71 ॥
+dahāmi phaṭtrayaṁ vauṣad iti pūrnām kṣiped guruḥ ॥ 71 ॥
 nirbījā yadi kāryā tu tadātraivāparāṁ kṣipet |
 \[illegible\] samayapāśākhyabījadāhapadānvitām ॥ 72 || 
 
@@ -945,25 +1117,35 @@ nirbījā yadi kāryā tu tadātraivāparāṁ kṣipet |
 
 (The fetter) present before that (fire) is, as if (present before) Śiva, burnt and dissolved away, (such that) all that remains of it is just the Supreme Lord’s great radiant energy (tejas). (68) 
 
+### TĀ 17.69–70
+
 When the fetter of Karma is to be offered to the fire here by means of a full (oblation, the teacher should say): “of this (person) I burn away the good and bad (Karma)”, or (as the case may be), “(only) the bad Karma”, or “the present, past, and the future (Karma)” or “all (of it) together.” (He should then utter) PHAT three times (followed by) VAUṢAT, and cast a full (oblation into the fire). (69-70ab) 
 
-When (all the principles) up to Māyā have been purified in this way, the teacher should offer the fetter (which is represented by the knot on the thread, at the level) of the throat, into the fire with a full” (oblation, saying as he does so,) “of this person I burn the fetter called Māyā, which is the perception of duality." (Then, after uttering) PHAT three times and VAUṢAT, he should cast a full (oblation into the fire). If (an initiation) without seed is to be performed,” he should then cast another full (oblation into the fire) here itself (in the same place), saying: “I burn the seed called the fetter of the Rule (samayapāãśa).” (10cd-72) 
+### TĀ 17.70–72
+
+When (all the principles) up to Māyā have been purified in this way, the teacher should offer the fetter (which is represented by the knot on the thread, at the level) of the throat, into the fire with a full” (oblation, saying as he does so,) “of this person I burn the fetter called Māyā, which is the perception of duality." (Then, after uttering) PHAT three times and VAUṢAT, he should cast a full (oblation into the fire). If (an initiation) without seed is to be performed,” he should then cast another full (oblation into the fire) here itself (in the same place), saying: “I burn the seed called the fetter of the Rule (samayapāśa).” (10cd-72) 
+
+#### Viveka on 17.70–72
 
 The teacher burns away ‘the bad Karma’, as the field (of application of the initiation is with respect to) the lokadharmin. ‘Here itself’, in the course of offering to the fire the fetter of the throat. ‘Another’ full (oblation), that is, a second one. (Another oblation can be offered in the form of) ‘the Rule’ (with the words,) “I burn the seed called the fetter of the Rule (samayapāśa).” 
 
 Surely (one may ask), how is it that it is said here that in the case of an initiation without seed that the fetter of the Rule is burnt away (entirely) without exception, (even though) devotion to the teacher and the deity etc. is taught there as a rule (to be observed)? With this doubt in mind, he says: 
 
+### TĀ 17.73
+
 गुरौ देवे तथा शास्रे भक्तिः कायीस्य नह्यसौ ।
 समयः शक्तिपातस्य स्वभावो ह्येष नो पृथक् ॥ ७३ ॥
 
-gurau deve tathā śāstre bhaktih kāryāsya na hy asau |
-samayah śaktipātasya svabhāvo hy eṣa no prthak ॥ 73 ॥ 
+gurau deve tathā śāstre bhaktiḥ kāryāsya na hy asau |
+samayaḥ śaktipātasya svabhāvo hy eṣa no pṛthak ॥ 73 ॥ 
 
-This (initiate) should cultivate devotion for the teacher, God and the scriptures. That is not a rule; it is the (very) nature of a descent of the power (of grace), it is not separate (from it).® (73) 
+This (initiate) should cultivate devotion for the teacher, God and the scriptures. That is not a rule; it is the (very) nature of a descent of the power (of grace), it is not separate (from it). (73) 
+
+#### Viveka on 17.73
 
 419?\. Read pārnayā for pūrnasya. Cf. 70cd with MV 9/71cd: ‘Once the principle of Māyā has be purified, the wise man (should do the same) to the fetter on the neck. (71ab)
 
-420?\. Read pāśar bheda- for pāśabheda-.
+420?\. Read pāśaṁ bheda- for pāśabheda-.
 
 421?\. \[illegible\] See above, 15/23cd-26.
 
@@ -976,6 +1158,8 @@ Devotion for the teacher etc. exists for ‘this’ initiated (disciple), who ha
 
 In order to explain the special feature of the purification of the Pure Path, he says: 
 
+### TĀ 17.74–76
+
 मायान्ते शुद्धिमायाते वागीशी या पुराभवत् ।
 माया शक्तिमयी सैव विद्चाशक्तित्वमूनुते | ७४ ॥
 तच्छुद्धविद्यामाहूय विद्याशक्ति नियोजयेत् ।
@@ -985,18 +1169,20 @@ In order to explain the special feature of the purification of the Pure Path, he
 māyānte &44/177 āyāte vāgīśī yā purābhavat |
 māyā śaktimayī saiva vidyāśaktitvam aśnute ॥ 74 ||
 tacchuddhavidyām āhūya vidyāśaktiṁ niyojayet |
-evarh krameṇa sanśuddhe sadāśivapade ‘py alam ॥ 75 ॥
-sikhāṁù granthiyutāṁ chittvā malam āṇavakaṁ dahet | 
+evaṁ krameṇa sanśuddhe sadāśivapade ‘py alam ॥ 75 ॥
+sikhāṁ granthiyutāṁ chittvā malam āṇavakaṁ dahet | 
 
-When (everything) up to the end of Māyā has been purified, (the Goddess) Vāgīśīi, who was previously the power of Māyā,\* is (now) the power of Pure Knowledge (śuddhavidyā). Having invoked this Pure Knowledge, (the teacher) should offer it a libation.\* Once the plane of Sadāśiva has been purified sufficiently in this way by (the same) process, having severed the topknot along with the knot (on the thread), he should burn the fundamental Impurity of the individual soul (ã&navamala). (74- 76ab) 
+When (everything) up to the end of Māyā has been purified, (the Goddess) Vāgīśīi, who was previously the power of Māyā,\* is (now) the power of Pure Knowledge (śuddhavidyā). Having invoked this Pure Knowledge, (the teacher) should offer it a libation.\* Once the plane of Sadāśiva has been purified sufficiently in this way by (the same) process, having severed the topknot along with the knot (on the thread), he should burn the fundamental Impurity of the individual soul (ā&navamala). (74- 76ab) 
+
+#### Viveka on 17.74–76
 
 That is said (in the Mālinīvijayottara, where we read): 
 
-‘The skilled (officiant) should then invoke (ānayet) the matrix (yoni) that pervades all the matrices that need to be purified, (first) on the path that ends with Māyā, and (then) that same (Vidyā) on the pure (path beyond).”® 
+‘The skilled (officiant) should then invoke (ānayet) the matrix (yoni) that pervades all the matrices that need to be purified, (first) on the path that ends with Māyā, and (then) that same (Vidyā) on the pure (path beyond).” 
 
 (The teacher should sever the topknot) ‘along with the knot (on the thread)’, not as before, just the knot. 
 
-Surely here the Impurity of the individual soul (ãnavamala) should be burnt away; so how is it that he has said that the Impurity of Māyā, which is the 
+Surely here the Impurity of the individual soul (ānavamala) should be burnt away; so how is it that he has said that the Impurity of Māyā, which is the 
 
 423?\. \[illegible\] See above, note 16,27.
 
@@ -1009,18 +1195,22 @@ Surely here the Impurity of the individual soul (ãnavamala) should be burnt awa
 
 perception of duality, should also be understood to be here? With this doubt in mind, he says: 
 
+### TĀ 17.76–78
+
 यतोऽधिकारभोगाख्यौ द्रौ पाशौ तु सदाशिवे ॥ ७६ ॥
 इत्युक्त्याणवपाशोऽत्र मायीयस्तु निशावधिः ।
 शिष्यो यथोचितं स्नायादाचामेदैशिकः स्वयम् ।। ७७ ॥।
 आणवाख्ये विनिर्दग्धे ह्यधोवाहिशिखामटठे ।
 
-yato ‘dhikārabhogākhyau dvau pāśau tu sadāśive ॥ 76 Il ity uktyānavapāśo ‘tra māyīyas tu niśāvadhih |
-siṣyo yathocitarn snāyād ācāmed daiśikah svayam ॥ 77 ॥
+yato ‘dhikārabhogākhyau dvau pāśau tu sadāśive ॥ 76 Il ity uktyānavapāśo ‘tra māyīyas tu niśāvadhiḥ |
+siṣyo yathocitarn snāyād ācāmed daiśikaḥ svayam ॥ 77 ॥
 ānṇavākhye vinirdagdhe hy adhovāhiśikhāmale | 
 
 The fetter which is the Impurity of the individual soul is present (in a subtle form) within Sadāśiva, for it is said that there are two fetters within it, namely, (the residual trace of) worldly experience (bhoga) and the aptitude (adhikāra) (for it). However, (the Impurity of) Māyā extends here (up to) the Night (of Māyā) (niśā). When the Impurity called that of the individual soul, which is in the topknot (śikhā) that flows downwards, has been burnt (away), the disciple, as is proper, should bathe, and the teacher should rinse his mouth himself. (76cd-78ab) 
 
-‘It is said’ in the Matañṁgatantra and elsewhere. ‘As is proper’, ‘householders (should bath) with water alone and renouncers (naiṣthika) with ash.’ ‘The topknot that flows downwards’ has that (Impurity) as its basis. Thus, it was said before that ‘the topknot that flows downwards (represents the Impurity that engenders the state (of limitation) of the individual soul. ’® 
+#### Viveka on 17.76–78
+
+‘It is said’ in the Mataṅgatantra and elsewhere. ‘As is proper’, ‘householders (should bath) with water alone and renouncers (naiṣthika) with ash.’ ‘The topknot that flows downwards’ has that (Impurity) as its basis. Thus, it was said before that ‘the topknot that flows downwards (represents the Impurity that engenders the state (of limitation) of the individual soul. ’ 
 
 The Conjunction with the Supreme Principle (yojanam) 
 
@@ -1032,6 +1222,8 @@ Having explained (the manner of the) burning away of the fetters, he (goes on to
 
 
 *[p. 173]* ^pg193
+
+### TĀ 17.78–82
 
 The Yoga of the Offering of the Full Oblations 
 
@@ -1046,17 +1238,17 @@ The First Full Oblation
 ध्यायन् प्रावत््रयोगेण शिवं | सकलनिष्कलम् |
 ट्व्यात्मकं वा धषपेत्पूणीं प्रशान्तकरणेन तु ॥ ८२ ॥
 
-tatah prāguktasakalaprameyaṁ paricintayan ॥ 78 ॥
+tataḥ prāguktasakalaprameyaṁ paricintayan ॥ 78 ॥
 siṣyadehādim ātmīyadehaprāṇādiyojitam |
-krtvātmadehaprāṇāder viśvam antaranusmaret || 79 ॥
-uktaprakriyayā caivarn drdhabuddhir ananyadhīh |
+kṛtvātmadehaprāṇāder viśvam antaranusmaret || 79 ॥
+uktaprakriyayā caivarn dṛdhabuddhir ananyadhīḥ |
 prāṇasthaṁ deśakālādhvayugamn prānaṁ ca śaktigam |I| 80 ॥
-\[illegible\] ca saṁvidgatāri śuddhāṁ sarhvidarn śivarūpiṇīm |
+\[illegible\] ca saṁvidgatāri śuddhāṁ saṁvidarn śivarūpiṇīm |
 siṣyasarnividabhinnāṁ ca mantravahnyādyabhedinīm || 81 ॥
 dhyāyan prāgvat prayogenṇa śivaṁ sakalaniṣkalam |
 dvyātmakaṁ vā kṣipet pūrnāṁ praśāntakaranena tu || 82 || 
 
-Then, (the teacher), thinking of all that needs to be known (prameya) taught previously, having conjoined the disciple’s body etc. with his own body and vital breath etc., should recollect that everything (viśva) is present within his own body and vital breath etc. (Then, his) intellect firm and mind undistracted, meditating by means of the method (prakriyā) taught (previously) on the two paths of time and space (as) present within the vital breath, the breath (as) present within (Śiva’s) power, and that that (power rests) within consciousness, (he should then meditate on how) that pure consciousness, which is iva, is not separate from the disciple’s consciousness, and is undivided from the fire of Mantra and the rest. Meditating (thus,) with (the same) application (prayoga) (of mantra etc.) as before 
+Then, (the teacher), thinking of all that needs to be known (prameya) taught previously, having conjoined the disciple’s body etc. with his own body and vital breath etc., should recollect that everything (viśva) is present within his own body and vital breath etc. (Then, his) intellect firm and mind undistracted, meditating by means of the method (prakriyā) taught (previously) on the two paths of time and space (as) present within the vital breath, the breath (as) present within (Śiva’s) power, and that that (power rests) within consciousness, (he should then meditate on how) that pure consciousness, which is Śiva, is not separate from the disciple’s consciousness, and is undivided from the fire of Mantra and the rest. Meditating (thus,) with (the same) application (prayoga) (of mantra etc.) as before 
 
 on 
 
@@ -1064,16 +1256,20 @@ on
 
 with differentiated energies and without them 
 
-428?\. This kind of initiation (i.e. yojanikādīksā) is imparted to a disciple who desires to enjoy the experiences of a particular reality level (fattva). In the Tantrasāra (p. 159), Abhinava writes: “Thus if the (disciple) happens to desire worldly enjoyment, (the teacher) should therefore conjoin (him) there itself into the principle wherever (he has) desire for enjoyment’. tato yadi bhogechuh syt tato yatraiva tattve bhogecchā asya bhavati tatraiva samastavyastatayā yojayeti.
+428?\. This kind of initiation (i.e. yojanikādīksā) is imparted to a disciple who desires to enjoy the experiences of a particular reality level (fattva). In the Tantrasāra (p. 159), Abhinava writes: “Thus if the (disciple) happens to desire worldly enjoyment, (the teacher) should therefore conjoin (him) there itself into the principle wherever (he has) desire for enjoyment’. tato yadi bhogechuḥ syt tato yatraiva tattve bhogecchā asya bhavati tatraiva samastavyastatayā yojayeti.
 
 
 *[p. 174]* ^pg194
 
 (sakalaniṣkala) or as both together, he should cast a full (oblation into the fire) with a completely tranquil mind (praśāntakaranṇa). (78cd-82) 
 
-‘(The breath) is present within (Śiva’s) power’ means that it is present in the power of Time (kālaśakti). ‘Both together’ means (iva, whose) nature is both with differentiated energies and without them (sakalaniṣkala). (The statements,) ‘that has been taught before’, ‘the method (prakriyā) taught (previously)’, and ‘as before’ indicate that (the subject has been treated) extensively in Chapter Sixteen and Fifteen. Thus, for fear of making the book (too) long, we have not laid it out here (in detail). 
+#### Viveka on 17.78–82
+
+‘(The breath) is present within (Śiva’s) power’ means that it is present in the power of Time (kālaśakti). ‘Both together’ means (Śiva, whose) nature is both with differentiated energies and without them (sakalaniṣkala). (The statements,) ‘that has been taught before’, ‘the method (prakriyā) taught (previously)’, and ‘as before’ indicate that (the subject has been treated) extensively in Chapter Sixteen and Fifteen. Thus, for fear of making the book (too) long, we have not laid it out here (in detail). 
 
 Nor is this just our own idea (upajña). Thus, he says: 
+
+### TĀ 17.83–85
 
 The Second Full Oblation 
 
@@ -1086,20 +1282,24 @@ The Second Full Oblation
 \[illegible\] traisirase tantre sarvasahpūranātmakam |
 mūlād udayagatyā tu śivenduparisariplutam ॥ 83 ||
 janmāntamadhyakuharamūlasrotahsamutthitam |
-śivārkaraśmibhis fīvraih kṣubdhari jñānāmrtaṁ tu yat ॥ 84 Il tena sarhtarpayet samyak praśāntakaranena tu | 
+śivārkaraśmibhis fīvraiḥ kṣubdhari jñānāmṛtaṁ tu yat ॥ 84 Il tena saṁtarpayet samyak praśāntakaranena tu | 
 
-It is said in the Triśirasatantra that ‘the nectar of consciousness has emerged from the root stream (mūlasrotah) (of the vital breath) (that flows) through the cavities of (the place of) birth (janma), the End (of the Twelve, and the Heart,) in the centre (madhya) (between them). By its upward movement from the Root, it is (first) aroused (kṣubdha) by the intense rays of the Sun of Śiva, and is (then) flooded (paripluta) (by the energy of) the Moon of Śiva, and as such, (fills and) is filled with all things. With this, (the teacher) should offer libation properly with a completely tranquil mind (praśāntakarana) (83-85ab) 
+It is said in the Triśirasatantra that ‘the nectar of consciousness has emerged from the root stream (mūlasrotaḥ) (of the vital breath) (that flows) through the cavities of (the place of) birth (janma), the End (of the Twelve, and the Heart,) in the centre (madhya) (between them). By its upward movement from the Root, it is (first) aroused (kṣubdha) by the intense rays of the Sun of Śiva, and is (then) flooded (paripluta) (by the energy of) the Moon of Śiva, and as such, (fills and) is filled with all things. With this, (the teacher) should offer libation properly with a completely tranquil mind (praśāntakarana) (83-85ab) 
 
-The foundation of birth, the End of the Twelve and the Heart are the locations of the primary foundations (adhiṣthāna), and so, like (enclosed) apertures (avavaraka),”" they are ‘cavities’. (The nectar of knowledge) ‘has risen up from the root stream (mūlasrotah)’, which is the pulse of the primary energy (ādyaśakti) (of consciousness and the vital breath). Thus, by its travelling upwards from the Root Foundation (mālādhāra), it is ʻarouseď’ by the intense rays of the Sun of the vital breath which is iva, and so, extroverted 
+#### Viveka on 17.83–85
+
+The foundation of birth, the End of the Twelve and the Heart are the locations of the primary foundations (adhiṣthāna), and so, like (enclosed) apertures (avavaraka),”" they are ‘cavities’. (The nectar of knowledge) ‘has risen up from the root stream (mūlasrotaḥ)’, which is the pulse of the primary energy (ādyaśakti) (of consciousness and the vital breath). Thus, by its travelling upwards from the Root Foundation (mālādhāra), it is ʻarouseď’ by the intense rays of the Sun of the vital breath which is Śiva, and so, extroverted 
 
 429?\. This word is used above in 8/31 łc (3119) with this sense.
 
 
 *[p. 175]* ^pg195
 
-(bahirmukhībhāūta), it is flooded all around with the Moon of iva, which is located in the End of the Twelve, that is, has become one’s own Self. Thus, it ‘(fills and) is filled with all things’. In accord with the teaching that ‘the initial transformation of consciousness is into the vital breath’,” it is ‘the nectar of consciousness’, which is the first unfolding of supreme consciousness. It is with this that (the teacher) ‘should offer libation properly’ to the aggregate of Mantras (mantracakra), with a completely tranquil mind. The meaning is that by casting a full oblation (into the fire), he should establish it well in his own nature. 
+(bahirmukhībhāūta), it is flooded all around with the Moon of Śiva, which is located in the End of the Twelve, that is, has become one’s own Self. Thus, it ‘(fills and) is filled with all things’. In accord with the teaching that ‘the initial transformation of consciousness is into the vital breath’,” it is ‘the nectar of consciousness’, which is the first unfolding of supreme consciousness. It is with this that (the teacher) ‘should offer libation properly’ to the aggregate of Mantras (mantracakra), with a completely tranquil mind. The meaning is that by casting a full oblation (into the fire), he should establish it well in his own nature. 
 
 Surely (one may ask), what is said to be the tranquillity of the mind (to which he refers)? With this doubt in mind, it says: 
+
+### TĀ 17.85–87
 
 The Third Full Oblation 
 
@@ -1110,31 +1310,35 @@ The Third Full Oblation
 मूलस्थानात्समारभ्य कृत्वा सोमेशमन्तगम् ।
 खमिवातिष्ठते यावत्प्रशान्तं तावदुच्यते ॥ ८७ ॥
 
-sūnyadhāmābjamadhyasthaprabhākiraṇabhāsvarah ॥ 85 II ādheyādhāranihspandabodhaśāstraparigrahah |
-janmādheyaprapañcaikasphoṭtasaṁghattaghattanah ॥ 86 Il mūlasthānāt samārabhya krtvā someśam antagam |
+sūnyadhāmābjamadhyasthaprabhākiraṇabhāsvaraḥ ॥ 85 II ādheyādhāranihspandabodhaśāstraparigrahaḥ |
+janmādheyaprapañcaikasphoṭtasaṁghattaghattanaḥ ॥ 86 Il mūlasthānāt samārabhya kṛtvā someśam antagam |
 kham ivātiṣthate yāvat praśāntaṁ tāvad ucyate ॥ 87 ॥ 
 
 (The teacher,) shining radiantly with the rays of the light (that shines) in the middle of the lotus of the Abode of the Void, (assumes,) in accord with the scriptures, the form of consciousness without movement, within the support and what it sustains.” He devours the single union of the 
 
-430?\. Abhinava himself quotes this aphorism above in 6/12ab, and Jayaratha tells us that it is from a work by Kallaṭabhatta; possibly the lost \$aktisūtra or the Tattvārthacintāmani. It is also quoted in TĀv ad 5/6, ad 5/44-48ab, ad 15/297cd-302ab, ad 28/218cd-219ab, and ad 28/338cd-340ab, along with two others. See above, note at TĀv ad 3/138-141 (137cd-141ab), where it is quoted for the first time. Cf. above 6/12: ‘when consciousness first enters the psychophysical organism, it is in the form of the vital breath (prāṇa), which vitalizes the inner mental organ.”
+430?\. Abhinava himself quotes this aphorism above in 6/12ab, and Jayaratha tells us that it is from a work by Kallaṭabhatta; possibly the lost Śaktisūtra or the Tattvārthacintāmani. It is also quoted in TĀv ad 5/6, ad 5/44-48ab, ad 15/297cd-302ab, ad 28/218cd-219ab, and ad 28/338cd-340ab, along with two others. See above, note at TĀv ad 3/138-141 (137cd-141ab), where it is quoted for the first time. Cf. above 6/12: ‘when consciousness first enters the psychophysical organism, it is in the form of the vital breath (prāṇa), which vitalizes the inner mental organ.”
 
-431?\. These lines, it seems, are Abhinava’s explanation. The text reads ādheyādhāranihspandabodha-sāstraparigrahah, which I translate to mean ‘(the teacher assumes) in accord with the scriptures the form of consciousness without movement within the support and what it sustains.’ This translation is somewhat forced, but it follows, as it must, Jayaratha’s explanation. The sense is much improved by two simple emendations, namely -nihspanda- > -nihsyanda- and —bodhaśāstra- > -bodhaśakti-. The meaning would then be: ‘(the teacher assumes) the form of the power of consciousness that flows from the support and what it sustains’. As Jayaratha does not make such emendations, he is compelled to strain his explanation of the following line. Thus he explains ‘ghaṭtana’ as ‘devouring’, whereas its literal meaning and usage in these texts is ‘striking together’ (TĀv ad 3/67cd-68ab), ‘pulsation’ as in the expression hrdghaṭtana- ‘the throbbing of the heart’ (ibid. ad 3/67). He cannot accept that this is the meaning, because he has just explained that the teacher is ‘without movement’, in accord with the unemended reading. T have had to translate it in accord with his explanation as ‘He devours (ghaṭfana) the single union of the radiant resonance (sphofa) which is the unfolding development (prapañca) of the (abode of) birth and of that which it sustains.” A more accurate translation would be “(the form of the teacher) is the pulse of the (dynamic) union of the single (common) resonant brilliance . . .’. The resultant translation is: “(The teacher,) shining radiantly with the rays of the light (that shines) in the middle of the lotus of the Abode of the Void, (assumes) in accord with the scriptures the form of the power of consciousness that flows from the support and what it sustains. ‘(The form of the teacher) is the pulse of the (dynamic) union of the single (common) resonant brilliance, which is the unfolding development (prapañca) of the (abode of) birth and of that which it sustains. Having (thus conducted) the Moon (of exhalation) from the location of the Root and placed it in the End (of the Twelve), to the degree in which (the teacher) abides all around like the sky, he is said to be “completely tranquil’.
+431?\. These lines, it seems, are Abhinava’s explanation. The text reads ādheyādhāranihspandabodha-sāstraparigrahah, which I translate to mean ‘(the teacher assumes) in accord with the scriptures the form of consciousness without movement within the support and what it sustains.’ This translation is somewhat forced, but it follows, as it must, Jayaratha’s explanation. The sense is much improved by two simple emendations, namely -nihspanda- > -nihsyanda- and —bodhaśāstra- > -bodhaśakti-. The meaning would then be: ‘(the teacher assumes) the form of the power of consciousness that flows from the support and what it sustains’. As Jayaratha does not make such emendations, he is compelled to strain his explanation of the following line. Thus he explains ‘ghaṭtana’ as ‘devouring’, whereas its literal meaning and usage in these texts is ‘striking together’ (TĀv ad 3/67cd-68ab), ‘pulsation’ as in the expression hṛdghaṭtana- ‘the throbbing of the heart’ (ibid. ad 3/67). He cannot accept that this is the meaning, because he has just explained that the teacher is ‘without movement’, in accord with the unemended reading. T have had to translate it in accord with his explanation as ‘He devours (ghaṭfana) the single union of the radiant resonance (sphofa) which is the unfolding development (prapañca) of the (abode of) birth and of that which it sustains.” A more accurate translation would be “(the form of the teacher) is the pulse of the (dynamic) union of the single (common) resonant brilliance . . .’. The resultant translation is: “(The teacher,) shining radiantly with the rays of the light (that shines) in the middle of the lotus of the Abode of the Void, (assumes) in accord with the scriptures the form of the power of consciousness that flows from the support and what it sustains. ‘(The form of the teacher) is the pulse of the (dynamic) union of the single (common) resonant brilliance, which is the unfolding development (prapañca) of the (abode of) birth and of that which it sustains. Having (thus conducted) the Moon (of exhalation) from the location of the Root and placed it in the End (of the Twelve), to the degree in which (the teacher) abides all around like the sky, he is said to be “completely tranquil’.
 
 
 *[p. 176]* ^pg196
 
 radiant resonance (sphofa) which is the unfolding development (prapañca) of the (abode of) birth and of that which it sustains. Having (thus conducted) the Moon from the location of the Root and placed it in the End (of the Twelve), to the degree in which (the teacher) abides like” the sky, he is said to be ‘completely tranquil’ (praśānta).” (85cd-87) 
 
-432?\. iva tiṣthate for ivātiṣthate.
+#### Viveka on 17.85–87
 
-433?\. The verses in note 93 allude in a subtle way to the phases of the movement and resting of the breath. In that context, the expression describing the teacher as ‘completely tranquil’ \[illegible\] conveys an extra technical sense. This emerges by examining sources that teach the practice of breath control (prānāyāma). For example, cf. NTS nayasūtra 4/111-113: ‘By expelling (recanāt), by filling (pūraṇnāt) and by holding in (rodhanāt), the three-fold breath-stretching (prānāyamah) is held (to be accomplished). Generally, these are external; but there are also internal ones. Internally he should expel; internally he should fill. He should perform a motionless kumbhaka (internally); these are the three internal ones. There is a fourth breath exercise which is called Supraśānta, (achieved) by moving (the vital energy) from the heart into the navel and (by moving) the mind away from the sense objects.” (translation by Goodall) Goodall (2015: 491-2) ‘although it is quite commonly asserted in a very wide range of works, including many early Śaiva ones, that prānāyama has three parts (e.g. Vṇāśikhatantra 69- 70; Sārdhatriśatikālottara 11/11-14), a fourth prāṇāyama is in fact spoken of already in Yogasūtra 2/51 (bāhyābhyantaraviṣayākṣepī caturthah). It seems there as though it may refer to a profound subjacent super-kumbhaka that is not measured out but that is felt to come to exist, after long practice, as a state that underlies all three other prāṇāyamas. This verse in the Niśvāsa may, however, be the earliest passage in which it is assigned the name Supraśānta / Śānta. The fourth phase, referred to as Praśānta, is also mentioned in the Siddhayogeśvarīmata 7/21 (see Törzsök 1999: 132) where it is associated with the seed syllable of Parā.’ Goodall refers to Mallinson, who observes that a fourth prānāyama may be called kevalakumbhaka in a number of early haṭha texts, including Dattātreyayogaśāstra, Gorakṣaśataka, Vasiṣthasaihitā and the Hathapradīpikā. “The description of kevalakumbhaka, which is apparently something that can be performed only after years of practice, is to be described in verses 2/71-4 of the last-named work. Hemacandra’s Yogaśāstra teaches four breath-control practices in addition to pūraka, recaka and kumbhaka, namely, pratyāhāra, śānta, uttara and adhara (5/5). Among these, śānta is explained (5/8) to consist of preventing the breath from flowing through the mouth, nose and palate. The relevant part of the presentation of prānāyama is as follows (Yogaśāstra 5/76-9) translated by Gopani (1989: 132-13). (Goodall 2015: 493) ‘That very wind, when it is suspended and stopped at the navel, it is called kumbhaka. Pratyāhāra is that type of prānāyāma in which the breath is moved from one part of the body to another. When the breath is prevented from escaping through the palate, nostrils or mouth, it is called ‘śānta’. That prānāyāma in which the wind is drawn from outside and stored in the region of the Heart is called ‘Uttara’. When it is shifted to the lower parts of the body, such as the navel etc., it is named ‘Adhara’. The difference between kumbhaka and śānta seems to lie only in the place within the body where the breath is retained.’
+432?\. Śiva tiṣthate for ivātiṣthate.
+
+433?\. The verses in note 93 allude in a subtle way to the phases of the movement and resting of the breath. In that context, the expression describing the teacher as ‘completely tranquil’ \[illegible\] conveys an extra technical sense. This emerges by examining sources that teach the practice of breath control (prānāyāma). For example, cf. NTS nayasūtra 4/111-113: ‘By expelling (recanāt), by filling (pūraṇnāt) and by holding in (rodhanāt), the three-fold breath-stretching (prānāyamaḥ) is held (to be accomplished). Generally, these are external; but there are also internal ones. Internally he should expel; internally he should fill. He should perform a motionless kumbhaka (internally); these are the three internal ones. There is a fourth breath exercise which is called Supraśānta, (achieved) by moving (the vital energy) from the heart into the navel and (by moving) the mind away from the sense objects.” (translation by Goodall) Goodall (2015: 491-2) ‘although it is quite commonly asserted in a very wide range of works, including many early Śaiva ones, that prānāyama has three parts (e.g. Vṇāśikhatantra 69- 70; Sārdhatriśatikālottara 11/11-14), a fourth prāṇāyama is in fact spoken of already in Yogasūtra 2/51 (bāhyābhyantaraviṣayākṣepī caturthaḥ). It seems there as though it may refer to a profound subjacent super-kumbhaka that is not measured out but that is felt to come to exist, after long practice, as a state that underlies all three other prāṇāyamas. This verse in the Niśvāsa may, however, be the earliest passage in which it is assigned the name Supraśānta / Śānta. The fourth phase, referred to as Praśānta, is also mentioned in the Siddhayogeśvarīmata 7/21 (see Törzsök 1999: 132) where it is associated with the seed syllable of Parā.’ Goodall refers to Mallinson, who observes that a fourth prānāyama may be called kevalakumbhaka in a number of early haṭha texts, including Dattātreyayogaśāstra, Gorakṣaśataka, Vasiṣthasaihitā and the Hathapradīpikā. “The description of kevalakumbhaka, which is apparently something that can be performed only after years of practice, is to be described in verses 2/71-4 of the last-named work. Hemacandra’s Yogaśāstra teaches four breath-control practices in addition to pūraka, recaka and kumbhaka, namely, pratyāhāra, śānta, uttara and adhara (5/5). Among these, śānta is explained (5/8) to consist of preventing the breath from flowing through the mouth, nose and palate. The relevant part of the presentation of prānāyama is as follows (Yogaśāstra 5/76-9) translated by Gopani (1989: 132-13). (Goodall 2015: 493) ‘That very wind, when it is suspended and stopped at the navel, it is called kumbhaka. Pratyāhāra is that type of prānāyāma in which the breath is moved from one part of the body to another. When the breath is prevented from escaping through the palate, nostrils or mouth, it is called ‘śānta’. That prānāyāma in which the wind is drawn from outside and stored in the region of the Heart is called ‘Uttara’. When it is shifted to the lower parts of the body, such as the navel etc., it is named ‘Adhara’. The difference between kumbhaka and śānta seems to lie only in the place within the body where the breath is retained.’
 
 
 *[p. 177]* ^pg197
 
-The teacher shines radiantly, energized by the contact with the rays of the energy of the light present in the middle of the lotus which is in the Abode of the Void, that is, in the Root Foundation (mālādhāra), which is such according to the teaching that will be imparted further ahead, (where we read that it is) ‘within the lotus that covers the mandala that is always propense (to expansion,) and is present within the triangle (of the genitals).’”TM Thus, it has assumed, according to the scriptures, that is, according to the manner taught by them, the form of consciousness (bodha) that has arisen by the awakening of power \[illegible\] and that abides ‘without movement’, in a single form within the support, which is the abode of birth, and that which it sustains, that is, the vital breath. Thus, he devours the unfolding development (prapañca) of the support and what it sustains, that is, the foundation of birth and the vital breath, the nature of both of which has just been explained. (He does this) by means of the single union, which is the oneness of the radiant resonance, which is Unstruck Sound. This is the meaning. Thus, the Moon of inhalation (apāna), devoured by the Sun of exhalation (prāṇa), having risen up slowly and ‘placed in the End of the Twelve, to the degree in which he abides like” the sky’, ‘he is said to be ‘completely tranquil’. The meaning is that he possesses the state of the Transmental by the falling away of the division between subject and object. 
+The teacher shines radiantly, energized by the contact with the rays of the energy of the light present in the middle of the lotus which is in the Abode of the Void, that is, in the Root Foundation (mālādhāra), which is such according to the teaching that will be imparted further ahead, (where we read that it is) ‘within the lotus that covers the mandala that is always propense (to expansion,) and is present within the triangle (of the genitals).’” Thus, it has assumed, according to the scriptures, that is, according to the manner taught by them, the form of consciousness (bodha) that has arisen by the awakening of power \[illegible\] and that abides ‘without movement’, in a single form within the support, which is the abode of birth, and that which it sustains, that is, the vital breath. Thus, he devours the unfolding development (prapañca) of the support and what it sustains, that is, the foundation of birth and the vital breath, the nature of both of which has just been explained. (He does this) by means of the single union, which is the oneness of the radiant resonance, which is Unstruck Sound. This is the meaning. Thus, the Moon of inhalation (apāna), devoured by the Sun of exhalation (prāṇa), having risen up slowly and ‘placed in the End of the Twelve, to the degree in which he abides like” the sky’, ‘he is said to be ‘completely tranquil’. The meaning is that he possesses the state of the Transmental by the falling away of the division between subject and object. 
 
 That is also said in our scripture.” Thus he says: 
+
+### TĀ 17.88–90
 
 उक्त श्रीपूर्वशाखरे च सुचमापूर्यं सर्पिषा ।
 कृत्वा शिष्यं तथात्मस्थं मूलमन्रमनुस्मरन् | ८८ ॥
@@ -1144,9 +1348,9 @@ That is also said in our scripture.” Thus he says:
 तिष्ठत्तावदनद्रिग्नो यावदाज्यक्षयो भवेत् ॥ ९० ॥
 
 \[illegible\] Śrīpūrvaśāstre ca srucam āpūrya sarpiṣā |
-krtvā śiṣyaṁ tathātmasthah mūlamantram anusmaran |I 88 I|
-sivarh ŝaktirn tathātmānari \[illegible\] sarpis tathānalam |
-ekīkurvañ chanair gacched dvādaśāntam ananyadhīh \\\\ 89 ॥
+kṛtvā śiṣyaṁ tathātmasthaḥ mūlamantram anusmaran |I 88 I|
+sivaṁ śaktiṁn tathātmānari \[illegible\] sarpis tathānalam |
+ekīkurvañ chanair gacched dvādaśāntam ananyadhīḥ \\\\ 89 ॥
 tatra kumbhakam āsthāya dhyāyan sakalaniṣkalam |
 tiṣthet tāvad anudvigno yāvad ājyakṣayo bhavet ॥ 90 I| 
 
@@ -1154,7 +1358,7 @@ Moreover, it is said in Mālinīvijayottara: ‘Once (the teacher) has filled th
 
 434?\. Below, 29/15 lab.
 
-435?\. Read iva tiṣthate for ivātiṣthate.
+435?\. Read Śiva tiṣthate for ivātiṣthate.
 
 436?\. This statement tells us two things. One is that Abhinava’s citation from the Triśirobhairavatantra extends up to here. Another is that, even though that is a Trika Tantra, it is not as much ‘our’ Tantra as is the Mālinīvijayottara, which for Abhinava’s tradition was the most intimate and special Tantra, even amongst the highest Trika Tantras.
 
@@ -1163,21 +1367,29 @@ Moreover, it is said in Mālinīvijayottara: ‘Once (the teacher) has filled th
 
 that way within (his own) Self, he should recollect the root Mantra. Unifying Śiva, (his) Power, (his own) Self, the disciple, the clarified butter, and the fire, undistracted, he should slowly go to the End of the Twelve (and enter it). There, having suspended the breath, meditating on (Śiva), with and without (His) energies (sakalaniṣkala), he should abide there unperturbed, until (all) the clarified butter is consumed’.” (88-90) 
 
-‘The root Mantra’ is the one (the teacher) wishes to impart. ‘Having suspended the breath’ within the Self, which is the Great Sky (of consciousness), he there makes that which is Nara, namely, all else (apart from Śiva and Śakti), one with Śiva and Śakti. This is the meaning. (The teacher meditates on iva) ‘with and without (His) energies’, because that is fitting for (the process of) conjunction (yojanikā). (The teacher should abide there) ‘unperturbed’. The meaning is that (he should be) at rest within his own Self alone, the nature of which is consciousness. 
+#### Viveka on 17.88–90
+
+‘The root Mantra’ is the one (the teacher) wishes to impart. ‘Having suspended the breath’ within the Self, which is the Great Sky (of consciousness), he there makes that which is Nara, namely, all else (apart from Śiva and Śakti), one with Śiva and Śakti. This is the meaning. (The teacher meditates on Śiva) ‘with and without (His) energies’, because that is fitting for (the process of) conjunction (yojanikā). (The teacher should abide there) ‘unperturbed’. The meaning is that (he should be) at rest within his own Self alone, the nature of which is consciousness. 
 
 This being so, what happens? (In response to this question,) he says: 
+
+### TĀ 17.91
 
 एवं युक्तः परे तत्तव गुरुणा शिवमूर्तिना ।
 न भूयः पशुतामेति दग्धमायानिबन्धनः । ९१ ॥
 
-evar yuktah pare tattve guruṇā 5714771771101 |
-na bhūyah paśutām eti dagdhamāyānibandhanah || 91 ॥ 
+evar yuktaḥ pare tattve guruṇā 5714771771101 |
+na bhūyaḥ paśutām eti dagdhamāyānibandhanaḥ || 91 ॥ 
 
 ‘(The disciple,) united in this way with the supreme reality by the teacher who is Śiva incarnate (śivamūrti), the fetters of Māyā burnt away, he does not return again to (his former) fettered state’. (91) 
+
+#### Viveka on 17.91
 
 This then is the difference in the case of initiation that bestows worldly benefits (bhogadīkṣā). Accordingly, he says: 
 
 Initiation for Worldly Benefits (bhogadīkṣā) 
+
+### TĀ 17.92–93
 
 by Means of a Full Oblation 
 
@@ -1199,20 +1411,24 @@ by Means of a Full Oblation
 कृतिर्बीजदीक्स्तु देवागिगुरुभक्तिभाक् ॥ ९६ ॥
 इयतैव शिवं यायात् सद्यो भोगान् विभुज्य वा ।
 
-dehapāte punah prepsed yadi tattveṣu kutracit |
+dehapāte punaḥ prepsed yadi tattveṣu kutracit |
 bhogān samastavyastatvabhedair ante paran padam ॥ 92 ||
-tadā tattattvabhūmau tu tatsamkhyāyām ananyadhīh |
+tadā tattattvabhūmau tu tatsamkhyāyām ananyadhīḥ |
 punar yojanikār kuryāt pūrnāhutyantarena tu ॥ 93 ॥
 muktipradā bhogamokṣapradā vā yā prakīrtitā |
 \[illegible\] sā syāt sabījatvanirbījātmatayā dvidhā I| 94 ॥
-bāle nirjñātamarane tv aśakte vā jarādibhih \\ kāryā nirbījikā dīkṣā śaktipātabalodaye ॥ 95 ॥
+bāle nirjñātamarane tv aśakte vā jarādibhiḥ \\ kāryā nirbījikā dīkṣā śaktipātabalodaye ॥ 95 ॥
 nirbījāyār sāmayāṁs tu pāśān api viíodhayet |
-krtanirbījadīkṣas tu devāgnigurubhaktibhāk Il 96 I|
+kṛtanirbījadīkṣas tu devāgnigurubhaktibhāk Il 96 I|
 iyataiva ivan yāyāt sadyo bhogān vibhujya vā | 
 
 If, on the contrary, (the disciple) were to desire to obtain worldly benefits after death somewhere within the reality levels (tattva), whether in general or in particular,” and (then) finally the supreme place, (the teacher), deliberating \[illegible\] on the plane of that reality level, with his mind intent on nothing else, should perform the rite that conjoins (the disciple) with it by means of another full oblation. (92-93) 
 
-Initiation, whether it is said to be one that bestows liberation or (both) worldly benefits and liberation, is of two kinds, according to whether it is with the seed or without it.TM® In the case of a child, a person who is known to be dying, or powerless due to old age and the like, the initiation that should be imparted is one without seed. (This is done) when the strength that comes from a descent of the power (of grace) (śaktipāta) has developed (in the postulant). (94-95) 
+### TĀ 17.94–95
+
+Initiation, whether it is said to be one that bestows liberation or (both) worldly benefits and liberation, is of two kinds, according to whether it is with the seed or without it. In the case of a child, a person who is known to be dying, or powerless due to old age and the like, the initiation that should be imparted is one without seed. (This is done) when the strength that comes from a descent of the power (of grace) (śaktipāta) has developed (in the postulant). (94-95) 
+
+### TĀ 17.96–97
 
 In the course of an initiation without seed, (the teacher) should also purify the fetters, which (in that case) are the rules (initiates with seed must observe). He who has received an initiation without seed and has devotion to the God, to the fire, and to the teacher, may by virtue of this alone go to 
 
@@ -1229,36 +1445,42 @@ In the course of an initiation without seed, (the teacher) should also purify th
 
 Śiva, either immediately or after fully enjoying the worldly benefits (he desires). (94-97ab), 
 
-The worldly benefits (the disciple may enjoy) ʻin general’, (he experiences) in a state of conjunction (with Siva) (sāãyujya), and ‘in particular’, in a state in which he shares the same world (as Siva) (sālokya) and the like. ‘Deliberating \[illegible\] on that (reality level), in which he has rightly (samyak) experienced and desired. ‘Immediately’ (means just) after the initiation (or) ‘after enjoying the worldly benefits (he desires)’, after the body falls away. 
+#### Viveka on 17.96–97
+
+The worldly benefits (the disciple may enjoy) ʻin general’, (he experiences) in a state of conjunction (with Siva) (sāyujya), and ‘in particular’, in a state in which he shares the same world (as Siva) (sālokya) and the like. ‘Deliberating \[illegible\] on that (reality level), in which he has rightly (samyak) experienced and desired. ‘Immediately’ (means just) after the initiation (or) ‘after enjoying the worldly benefits (he desires)’, after the body falls away. 
 
 Surely, (one may ask that, by saying that) ‘he goes to Śiva’, is the process of conjoining (the soul to progressively higher reality levels) (Qojanikākrama) taught here the instrumental means (to just that), or something else also? With this doubt in mind, he says: 
+
+### TĀ 17.97–99
 
 Initiation into the Disembodied form of Śiva Beyond the Principles श्रीमीक्षोत्तरे चोक्तं चारे षरिविंशदगुले || ९७ ॥
 तत्तवान्यापादमूधीन्तं भुवनानि त्यजेत्रमात् तुदिमात्रं निष्कलं तददेहं तदहंपरम् ॥ ९८ ॥
 शक्त्या तत्र क्षिपाम्येनमिति ध्याय॑स्त दीक्षयेत् ।
-srīmaddīkṣottare \[illegible\] cāre ṣaṭtriňśadaṁigule 97॥
+srīmaddīkṣottare \[illegible\] cāre ṣaṭtriṁśadaṁigule 97॥
 =, tattvāny āūpādamūrdhāntarni bhuvanāni tyajet kramāt |
-tuṭimātrari niṣkalaṁ tad adeharh tad ahar param II 98 ॥
+tuṭimātrari niṣkalaṁ tad adehaṁ tad ahar param II 98 ॥
 saktyā tatra kṣipāmy enam iti dhyāyaṁs tu dīkṣayet | 
 
-And it is said in the venerable Dikṣottara that ‘travelling (through the body of the disciple) for (spans of) of thirty-six fingers, (the teacher) should gradually (kramāt) abandon the reality levels \[illegible\] and the worlds from the feet up to the end of the head, (one after another). (Then,) thinking (dhyāyan) for just a moment (tuṭi) that — “the undifferentiated (niṣkala) disembodied (form of Śiva)TMTM\* am I, (who am) supreme. I cast him (my disciple) there by means of (Śiva’s) power” — he should initiate him.” (97cd-99ab) 
+And it is said in the venerable Dikṣottara that ‘travelling (through the body of the disciple) for (spans of) of thirty-six fingers, (the teacher) should gradually (kramāt) abandon the reality levels \[illegible\] and the worlds from the feet up to the end of the head, (one after another). (Then,) thinking (dhyāyan) for just a moment (tuṭi) that — “the undifferentiated (niṣkala) disembodied (form of Śiva)\* am I, (who am) supreme. I cast him (my disciple) there by means of (Śiva’s) power” — he should initiate him.” (97cd-99ab) 
+
+#### Viveka on 17.97–99
 
 442?\. The distance from the soles of the feet to the top of the head of a person standing is 96 finger-breadths. This number is not evenly divisible by 36. Thus, the expression ‘end of the head’ must denote the upper End of the Twelve, which is located at the end of the subtle body, twelve finger-breadths beyond the top of the head. This measures 108 finger-breadths that, divided by 36, can be split into three units. The first unit spans the feet to the base of the spine. The second one from there to the heart, and the third from the heart to the upper End of the Twelve.
 
-443?\. Emend tad adeharh to yad \[illegible\]
+443?\. Emend tad adehaṁ to yad \[illegible\]
 
-444?\. 17/97cd-99ab is a concise paraphrase of Dīkṣottara 1/10cd-15, which reads, according to IFP transcript T 17A (p. 797-798), as follows: saṭtṁśāngulaṁ parityajya kramavac ca sumadhyame || 10 Il tuṭimātram sa vijñeyo dehamuktas tu niṣkalah | svāmibhāvaṁ tu yat tasmin dvādaśāntam (> -nte) avasthitah (> vyavasthitam) \\ 11 ॥ samyukta (> -yuktarn) śaktinā buddham tutimātras tu niṣkalah | saktyādehasthito hy ātmā niṣkalah parameśvarah || 12 ॥ tattvastho vyāpayed devi dehān muktas tu niṣkalah | susamiddhe yathā vahnau śikhā lihati cārbare ॥ 13 ॥ dehasya tad varārohe līlāyati tatpade dīkṣākāle '‘bhimānan tu tadvat kuryāt tu deśikah ॥ 14 ॥ aham eva parar tatvarh tatvalīnas tathaiva ca | Saktyā \*ranibhūtā yā (> tāranibhūtayā) punas tatra kṣipāmy aham ॥ 15 Il (note tatva- has everywhere been silently corrected to tattva-) ‘O lady with a beautiful waist, (travelling through the body of the disciple), having abandoned (spans of) thirty-six fingers one after another in due order (kramavat), in just a moment he should be known to be undifferentiated (niskala) (Śiva), free of the body. (10641190) Lordship is established within that End of the Twelve and, conjoined with (Śiva’s) power, is awakened (by it) for just a moment, (and he becomes) undifferentiated (Śiva). The Self, disembodied by the power (of the Lord), is the undifferentiated Supreme Lord. O goddess, established in (the highest) reality, he pervades (everywhere and), freed from the body, (he is) undifferentiated (Siva). (1 1cd-13ab) Just as when a fire is well-fuelled, (its) flame licks (up) into the sky, (in the same way) 0 fair lady, (that power) causes (the life force) of the body to play on that plane (of disembodied Śiva). In the same way, at the time of initiation, the teacher should cultivate a notion of himself (abhimāna) that “I myself am the supreme reality, and in the same way I am merged within it. I am placing (my disciple) there by means of (Śiva’s) saving power.” (1364-15). The remaining part of the chapter fills out the details. evar yo vetti tatvena vahnivad dehamadhyatah | atītaś śiva (> śivas) tadvahneh sa tu yojayate pare ॥ 16 ॥ saktyā tāvat sa yujyeta yāvat tatvan na vindati | udite tu pare tattve tatrastho 'pi na vāryate ॥ 17 ॥ bandhamuktah pare śānte pare līyanti (> līyati) śāãśvate | līnas sarvagato devi dharmādharmavivarjitah ॥ 18 ॥ hrtpadmād yāvat tatpadmari prthak saṁihāralakṣitam | pP. 799) yāvad vaktram anuprāptaṁ dvibhāgaṁ tyajate tu sah \\ 19 ॥ trtīyaṁ tyajate svalpo tryahśair muktas tu niṣkalah | atītaṁ dvādaśānte tu śŝaktipadmari prakīrtitam ॥ 20 ॥ tatrastharh tuṭimātran tu kālaṁ tasya prakīrtii niṣkalaś śaktipadme tu prabuddhas tatra tiṣthati ॥ 21 ॥ atītas suprabuddhas tu unmanatvarh yadā priye | He who knows that as it truly is in this way, is like fire in the middle of the body. He who has gone beyond that fire and is tranquil (siva) is conjoined into the Supreme. (16) He should be conjoined thus \[illegible\] with (Śiva’s) power until he does not attain reality (tattva). When the supreme reality has arisen, even though he is present there (in the body), he is not obstructed. (17) He, free of bondage in the supreme and tranquil one, merges into the supreme and eternal (reality). O goddess, the one who has merged (thus) is omnipresent and is devoid of (both) Dharma and Adharma. (18) From the lotus of the heart up to \[illegible\] that lotus which, separate (from it), is characterized by withdrawal. When the face is attained after that, he abandons the twofold division (of body and soul?). One who is subtle (svalpa) abandons the third (level) and, free of the three aspects, is Undifferentiated (Siva) (niskala). (19-20ab) The transcendent in the End of the Twelve is said to be the Lotus of Power. The moment (tuṭimātra) present there is said to be the time of that (transcendent iva). Undifferentiated (Śiva) abides awakened (prabuddha) there in the Lotus of Power. The transcendent one is well awakened (suprabuddha) when, O beloved, the Transmental state (arises). (20cd-22ab)
+444?\. 17/97cd-99ab is a concise paraphrase of Dīkṣottara 1/10cd-15, which reads, according to IFP transcript T 17A (p. 797-798), as follows: saṭtṁśāngulaṁ parityajya kramavac ca sumadhyame || 10 Il tuṭimātram sa vijñeyo dehamuktas tu niṣkalaḥ | svāmibhāvaṁ tu yat tasmin dvādaśāntam (> -nte) avasthitaḥ (> vyavasthitam) \\ 11 ॥ samyukta (> -yuktarn) śaktinā buddham tutimātras tu niṣkalaḥ | saktyādehasthito hy ātmā niṣkalaḥ parameśvaraḥ || 12 ॥ tattvastho vyāpayed devi dehān muktas tu niṣkalaḥ | susamiddhe yathā vahnau śikhā lihati cārbare ॥ 13 ॥ dehasya tad varārohe līlāyati tatpade dīkṣākāle '‘bhimānan tu tadvat kuryāt tu deśikaḥ ॥ 14 ॥ aham eva parar tatvaṁ tatvalīnas tathaiva ca | Saktyā \*ranibhūtā yā (> tāranibhūtayā) punas tatra kṣipāmy aham ॥ 15 Il (note tatva- has everywhere been silently corrected to tattva-) ‘O lady with a beautiful waist, (travelling through the body of the disciple), having abandoned (spans of) thirty-six fingers one after another in due order (kramavat), in just a moment he should be known to be undifferentiated (niskala) (Śiva), free of the body. (10641190) Lordship is established within that End of the Twelve and, conjoined with (Śiva’s) power, is awakened (by it) for just a moment, (and he becomes) undifferentiated (Śiva). The Self, disembodied by the power (of the Lord), is the undifferentiated Supreme Lord. O goddess, established in (the highest) reality, he pervades (everywhere and), freed from the body, (he is) undifferentiated (Siva). (1 1cd-13ab) Just as when a fire is well-fuelled, (its) flame licks (up) into the sky, (in the same way) 0 fair lady, (that power) causes (the life force) of the body to play on that plane (of disembodied Śiva). In the same way, at the time of initiation, the teacher should cultivate a notion of himself (abhimāna) that “I myself am the supreme reality, and in the same way I am merged within it. I am placing (my disciple) there by means of (Śiva’s) saving power.” (1364-15). The remaining part of the chapter fills out the details. evar yo vetti tatvena vahnivad dehamadhyataḥ | atītaś śiva (> śivas) tadvahneḥ sa tu yojayate pare ॥ 16 ॥ saktyā tāvat sa yujyeta yāvat tatvan na vindati | udite tu pare tattve tatrastho 'pi na vāryate ॥ 17 ॥ bandhamuktaḥ pare śānte pare līyanti (> līyati) śāśvate | līnas sarvagato devi dharmādharmavivarjitaḥ ॥ 18 ॥ hṛtpadmād yāvat tatpadmari pṛthak saṁihāralakṣitam | pP. 799) yāvad vaktram anuprāptaṁ dvibhāgaṁ tyajate tu sah \\ 19 ॥ tṛtīyaṁ tyajate svalpo tryahśair muktas tu niṣkalaḥ | atītaṁ dvādaśānte tu śaktipadmari prakīrtitam ॥ 20 ॥ tatrasthaṁ tuṭimātran tu kālaṁ tasya prakīrtii niṣkalaś śaktipadme tu prabuddhas tatra tiṣthati ॥ 21 ॥ atītas suprabuddhas tu unmanatvaṁ yadā priye | He who knows that as it truly is in this way, is like fire in the middle of the body. He who has gone beyond that fire and is tranquil (śiva) is conjoined into the Supreme. (16) He should be conjoined thus \[illegible\] with (Śiva’s) power until he does not attain reality (tattva). When the supreme reality has arisen, even though he is present there (in the body), he is not obstructed. (17) He, free of bondage in the supreme and tranquil one, merges into the supreme and eternal (reality). O goddess, the one who has merged (thus) is omnipresent and is devoid of (both) Dharma and Adharma. (18) From the lotus of the heart up to \[illegible\] that lotus which, separate (from it), is characterized by withdrawal. When the face is attained after that, he abandons the twofold division (of body and soul?). One who is subtle (svalpa) abandons the third (level) and, free of the three aspects, is Undifferentiated (Siva) (niskala). (19-20ab) The transcendent in the End of the Twelve is said to be the Lotus of Power. The moment (tuṭimātra) present there is said to be the time of that (transcendent Śiva). Undifferentiated (Śiva) abides awakened (prabuddha) there in the Lotus of Power. The transcendent one is well awakened (suprabuddha) when, O beloved, the Transmental state (arises). (20cd-22ab)
 
 
 *[p. 181]* ^pg201
 
 *[p. 182]* ^pg202
 
-na \[illegible\] na kalācāraṁ na tatvā (> \[illegible\] na ca devatā || 22 I| sunirvāṇami parar Śuddhaṁ guruvaktre pratiṣthitam | tarn prāpya na nivartante bhayasaṁsārabandhane || 23 ॥ na tasya cãmarā (> cāparar) khyātaṁ niṣkalāvasthitasya tu | p. 800) etat te niṣkalaṁ tattvam uktam eva samāsatah ॥ 24 ॥ caturvidhah mayā devi kathitarh tatvam uttamam | trividharh tu parityajya śaktyantaṁ (> -nte) yas tuṭi smrtah ॥ 25 ॥ tuṭau paṭau (> tuṭau) tu sthitvā vai ṣodaśāmnśe vyavasthitah | sa bhoktā sarvatatvānām śaktyante yas tutṭi smrtah ॥ 26 ॥ sa bhoktā sarvatatvānāṁ íaktinā saha sarhyutah | saktyatīto varārohe tatvena saha yujyate ॥ 27 Il catuhpadmar bhavet padmarh vyāpinī (> vyāpinī) karnikāsthitā | tatra śakticatuṣkan tu sūkṣmākhyaṁ \[illegible\] itam ॥ 28 ॥ \[illegible\] budhvā vimucyante năātra kāryā vicāranā | Beautiful Nirvāṇa, supreme and pure, (where) there is no time or the activity of the forces (kalācāra), no (separate) reality and no deity, is established in the teacher’s mouth. (22cd- 23ab) Having attained that, they do not return into the bondage of the world of transmigratory existence and fear. Nor is there said to be anything else (to be attained) for one who is established in undifferentiated (Śiva). In this way I have told you concisely about the reality which is undifferentiated (Siva). (23cd-24ab) O goddess, I have told (you) the most excellent reality of four kinds. Having abandoned the one of three kinds, and having stood firm each moment, the moment (tuṭi) that is said to be present within Power is established in the sixteenth part. (25cd-26ab) That is the enjoyer of all the reality principles, and is conjoined with (Śiva’s) Power. O fair lady, the one who is beyond (Śiva’s) power is united with reality. (26cd-27) The fourth lotus is a lotus in the calyx of which is located the Pervasive One. There are four energies there, and it is said to be the one called the Subtle. Having heard (of it) and known it, they are liberated — there is no need to reflect here (about this, it is certainly true). (28-29ab) p. 801) sarvatantreṣu sāmānyaṁ tatrastharh viṣuvaṁ smrtam |l 29 ॥ prānṇasya tal layarh devi tatrastho 'pi (> na) nivartate | sakalarh niṣkalañ caiva mayanañ (> pranavarh) ca trtīyakam ॥ 30 ॥ praśāntam prāpya deveśi niṣkalaṁ viṣuvaṁ smrtam | tribhāgabhājite cāre niṣkalah pranavah smrtah ॥ 31 I| praśāntas tu smrto binduh niṣkalah praṇavasya tu | sacetasya (> sacetasah) smrto jīvo yadā ŝaktyā tu yujyate ॥ 32 ॥ anyathā niṣkalo hy ātmā suṣuptāv iva lakṣyate | cinmātran tu smrto (> smrtan) hutvā cetā śaktih prakīrtitā ॥ 33 ॥ srutvā budhvā vimucyante nātra kāryā vicāranṇā \\ p. 802) sarvatantreṣu sāīmānyaṁ tantrasthe (> tatrasthar) viṣuvaṁ vadet (> bhavet) ॥ 34 ॥ prānṇasya tallayarn devi tatrasthe (> -stho) na nivartate | Located there is said to be the Equinox common (to the teachings) of all the Tantras. O goddess, that is the dissolving away of the vital breath. He who is established there does not return. Differentiated, undifferentiated and Pranava, the third, having attained the Completely Tranquil, O mistress of the gods, the Undifferentiated is said to be the Equinox. (29cd-31ab) When the movement (of the breath) is divided into three parts, the Undifferentiated is considered to be Pranava. The Completely Tranquil is considered to be the Point (bindu), and is the Undifferentiated (form) of Pranava. (31cd-32ab) The individual soul is said to be sentient if conjoined with (Śiva’s) power. Otherwise, the Self is undifferentiated, and appears to be as if in deep sleep. That is said to be pure consciousness alone, and having made an offering to the fire (hutvā), consciousness is said to be (Śiva’s) power. Having heard (of it) and known it, they are liberated — there is no need to reflect here (about this, it is certainly true). Located there is said to be the Equinox common (to the teachings) of all the Tantras. O goddess, that is the dissolving away of the vital breath. He who is established there does not return. (33cd-35ab)
+na \[illegible\] na kalācāraṁ na tatvā (> \[illegible\] na ca devatā || 22 I| sunirvāṇami parar Śuddhaṁ guruvaktre pratiṣthitam | tarn prāpya na nivartante bhayasaṁsārabandhane || 23 ॥ na tasya cāmarā (> cāparar) khyātaṁ niṣkalāvasthitasya tu | p. 800) etat te niṣkalaṁ tattvam uktam eva samāsataḥ ॥ 24 ॥ caturvidhaḥ mayā devi kathitaṁ tatvam uttamam | trividhaṁ tu parityajya śaktyantaṁ (> -nte) yas tuṭi smṛtaḥ ॥ 25 ॥ tuṭau paṭau (> tuṭau) tu sthitvā vai ṣodaśāmnśe vyavasthitaḥ | sa bhoktā sarvatatvānām śaktyante yas tutṭi smṛtaḥ ॥ 26 ॥ sa bhoktā sarvatatvānāṁ íaktinā saha saṁyutaḥ | saktyatīto varārohe tatvena saha yujyate ॥ 27 Il catuhpadmar bhavet padmaṁ vyāpinī (> vyāpinī) karnikāsthitā | tatra śakticatuṣkan tu sūkṣmākhyaṁ \[illegible\] itam ॥ 28 ॥ \[illegible\] budhvā vimucyante nātra kāryā vicāranā | Beautiful Nirvāṇa, supreme and pure, (where) there is no time or the activity of the forces (kalācāra), no (separate) reality and no deity, is established in the teacher’s mouth. (22cd- 23ab) Having attained that, they do not return into the bondage of the world of transmigratory existence and fear. Nor is there said to be anything else (to be attained) for one who is established in undifferentiated (Śiva). In this way I have told you concisely about the reality which is undifferentiated (Siva). (23cd-24ab) O goddess, I have told (you) the most excellent reality of four kinds. Having abandoned the one of three kinds, and having stood firm each moment, the moment (tuṭi) that is said to be present within Power is established in the sixteenth part. (25cd-26ab) That is the enjoyer of all the reality principles, and is conjoined with (Śiva’s) Power. O fair lady, the one who is beyond (Śiva’s) power is united with reality. (26cd-27) The fourth lotus is a lotus in the calyx of which is located the Pervasive One. There are four energies there, and it is said to be the one called the Subtle. Having heard (of it) and known it, they are liberated — there is no need to reflect here (about this, it is certainly true). (28-29ab) p. 801) sarvatantreṣu sāmānyaṁ tatrasthaṁ viṣuvaṁ smṛtam |l 29 ॥ prānṇasya tal layaṁ devi tatrastho 'pi (> na) nivartate | sakalaṁ niṣkalañ caiva mayanañ (> pranavaṁ) ca tṛtīyakam ॥ 30 ॥ praśāntam prāpya deveśi niṣkalaṁ viṣuvaṁ smṛtam | tribhāgabhājite cāre niṣkalaḥ pranavaḥ smṛtaḥ ॥ 31 I| praśāntas tu smṛto binduḥ niṣkalaḥ praṇavasya tu | sacetasya (> sacetasaḥ) smṛto jīvo yadā śaktyā tu yujyate ॥ 32 ॥ anyathā niṣkalo hy ātmā suṣuptāv iva lakṣyate | cinmātran tu smṛto (> smṛtan) hutvā cetā śaktiḥ prakīrtitā ॥ 33 ॥ srutvā budhvā vimucyante nātra kāryā vicāranṇā \\ p. 802) sarvatantreṣu sāīmānyaṁ tantrasthe (> tatrasthaṁ) viṣuvaṁ vadet (> bhavet) ॥ 34 ॥ prānṇasya tallayarn devi tatrasthe (> -stho) na nivartate | Located there is said to be the Equinox common (to the teachings) of all the Tantras. O goddess, that is the dissolving away of the vital breath. He who is established there does not return. Differentiated, undifferentiated and Pranava, the third, having attained the Completely Tranquil, O mistress of the gods, the Undifferentiated is said to be the Equinox. (29cd-31ab) When the movement (of the breath) is divided into three parts, the Undifferentiated is considered to be Pranava. The Completely Tranquil is considered to be the Point (bindu), and is the Undifferentiated (form) of Pranava. (31cd-32ab) The individual soul is said to be sentient if conjoined with (Śiva’s) power. Otherwise, the Self is undifferentiated, and appears to be as if in deep sleep. That is said to be pure consciousness alone, and having made an offering to the fire (hutvā), consciousness is said to be (Śiva’s) power. Having heard (of it) and known it, they are liberated — there is no need to reflect here (about this, it is certainly true). Located there is said to be the Equinox common (to the teachings) of all the Tantras. O goddess, that is the dissolving away of the vital breath. He who is established there does not return. (33cd-35ab)
 
 *[p. 183]* ^pg203
 
-tathā yuktam idarn sarvan nānāceṣtāni kārayet ॥ 35 ॥ tatsthāne līyate jñānī jñe + +? paran layam | kalpanārahita jṁāṁ (> jṁānaṁ) sarvatatvavivarjitam ॥ 36 ॥ vyāpakaṁ sarvatatvānāri pāraṁparyena sarhsthitam | etat te niṣkalañ cārar kathitan tu mayākhilam ॥ 37 I| na deyañ ca tvayā devi anyāyapathavartine | kapaṭenopapannāya śravasyapi na dāpayet ॥ 38 ॥ vyāpinī vyomarūpā ca anantānāyakā (> nāyikā) smrtā | p. 803) mūrti (> mūrtir) devasya vikhyātā śaktyā devabhuvasya tu || 39 ॥ pañcavyoma smrtā hy ete śūnyāvasthā tu devatā | In this way, all this is sound (and proper). He should bring about many (kinds of) behaviour. The man of knowledge dissolves away in that place + = \* the supreme dissolution. It is knowledge free of thought constructs, and is devoid of all the reality principles. It pervades all the reality principles and is established by the lineage (of teachers). I have told you all about this, namely, undifferentiated motion. (35cd-37) O goddess, you should not give it to someone who is on an evil path, nor even allow one who has approached (a teacher) deceitfully to hear (it). The form of the Pervasive is the Void. It is endless and (supreme, and) is said to have no master. She is said to be form of the god, as the Power of the fire of the god. She is said to be the Five Voids. They are the state of Voidness and deity. (38-40ab) The Five Brahmās (see above, note 15,337) brahmādīnām varārohe śūnyadehah parah smrtah ॥ 40 ॥ etat te devatāyogaṁ prathamarh parikīrtitam | śaktyavasthāntarībhūtās sūkṣmādyāh parikīrtitāh ॥ 41 Il tatsthacetātmakā devāś śabdarūpāh prakīrtitāh | trtīyā tu varārohe jñātavyā deśikena tu I| 42 ॥ ‘O fair lady, the Void Body (śûnyadeha) of (the five causal forces) beginning with Brahmā is considered to be supreme. That is your Deity Yoga, which is said to be the first. The Subtle One and the rest are said to be included in the state of (Sivas) power. Word is said to be the nature of the deities present there that are consciousness. O fair lady, one should know by means of the teacher that (Power) is the third one. (40cd-42) dvividhasthāntare devi jyotīrūpaṁ vicintayet | ta (> tad) evam anurūpan tu pañcamām (> -marh) kathitarh tava ॥ 43 ॥ T\$avaktre tathāghore vāmas sadyas tathaiva ca | p. 804) trividhah mantradehan tu veditavyarn prayatnatah ॥ 44 ॥ O goddess, one should think (that that which is its) form as light is within that which abides as two kinds. I have told you the fifth one, which is its facsimile (anurūpa) in this way. Within \[8/5 face and that of Aghora, is Vāma and so too Sadya ~ one should exert oneself to know (iva’s) mantra-body which is of three kinds. (43-44) brahmā viṣnus tathā rudro īśvaras tu sadāśivah | prthivyāpas tathā tejo vāyur ākāíam eva ca ॥ 45 ॥ sūnyasparśas tathā śabdo jyotīrūpar tathaiva ca | mantrarūpar tathaiveha kathitarh tatvato mayā ॥ 46 ॥ sthūlāt sthūlatarair bhāvaih sūkṣmāt sūkṣmataraih punah | pañca brahmāni deveśi veditavyāni yatnatah ॥ 47 ॥ Brahmā, Viṣṇu, Rudra, Īśvara and Sadāśiva (are) Earth, Water, Fire, Air and Space, (as well as) the Void, touch, sound, light and the form of mantra. I have told (you this) here as it truly is. O mistress of the gods, one should exert oneself to know the five Brahmas by means of states (bhāva) that are grosser than gross and more subtle than subtle. (45-47)
+tathā yuktam idarn sarvan nānāceṣtāni kārayet ॥ 35 ॥ tatsthāne līyate jñānī jñe + +? paran layam | kalpanārahita jṁāṁ (> jṁānaṁ) sarvatatvavivarjitam ॥ 36 ॥ vyāpakaṁ sarvatatvānāri pāraṁparyena saṁsthitam | etat te niṣkalañ cārar kathitan tu mayākhilam ॥ 37 I| na deyañ ca tvayā devi anyāyapathavartine | kapaṭenopapannāya śravasyapi na dāpayet ॥ 38 ॥ vyāpinī vyomarūpā ca anantānāyakā (> nāyikā) smṛtā | p. 803) mūrti (> mūrtir) devasya vikhyātā śaktyā devabhuvasya tu || 39 ॥ pañcavyoma smṛtā hy ete śūnyāvasthā tu devatā | In this way, all this is sound (and proper). He should bring about many (kinds of) behaviour. The man of knowledge dissolves away in that place + = \* the supreme dissolution. It is knowledge free of thought constructs, and is devoid of all the reality principles. It pervades all the reality principles and is established by the lineage (of teachers). I have told you all about this, namely, undifferentiated motion. (35cd-37) O goddess, you should not give it to someone who is on an evil path, nor even allow one who has approached (a teacher) deceitfully to hear (it). The form of the Pervasive is the Void. It is endless and (supreme, and) is said to have no master. She is said to be form of the god, as the Power of the fire of the god. She is said to be the Five Voids. They are the state of Voidness and deity. (38-40ab) The Five Brahmās (see above, note 15,337) brahmādīnām varārohe śūnyadehaḥ paraḥ smṛtaḥ ॥ 40 ॥ etat te devatāyogaṁ prathamaṁ parikīrtitam | śaktyavasthāntarībhūtās sūkṣmādyāḥ parikīrtitāḥ ॥ 41 Il tatsthacetātmakā devāś śabdarūpāḥ prakīrtitāḥ | tṛtīyā tu varārohe jñātavyā deśikena tu I| 42 ॥ ‘O fair lady, the Void Body (śûnyadeha) of (the five causal forces) beginning with Brahmā is considered to be supreme. That is your Deity Yoga, which is said to be the first. The Subtle One and the rest are said to be included in the state of (Sivas) power. Word is said to be the nature of the deities present there that are consciousness. O fair lady, one should know by means of the teacher that (Power) is the third one. (40cd-42) dvividhasthāntare devi jyotīrūpaṁ vicintayet | ta (> tad) evam anurūpan tu pañcamām (> -maṁ) kathitaṁ tava ॥ 43 ॥ Īśavaktre tathāghore vāmas sadyas tathaiva ca | p. 804) trividhaḥ mantradehan tu veditavyarn prayatnataḥ ॥ 44 ॥ O goddess, one should think (that that which is its) form as light is within that which abides as two kinds. I have told you the fifth one, which is its facsimile (anurūpa) in this way. Within \[8/5 face and that of Aghora, is Vāma and so too Sadya ~ one should exert oneself to know (Śiva’s) mantra-body which is of three kinds. (43-44) brahmā viṣnus tathā rudro īśvaras tu sadāśivaḥ | pṛthivyāpas tathā tejo vāyur ākāíam eva ca ॥ 45 ॥ sūnyasparśas tathā śabdo jyotīrūpar tathaiva ca | mantrarūpar tathaiveha kathitaṁ tatvato mayā ॥ 46 ॥ sthūlāt sthūlatarair bhāvaiḥ sūkṣmāt sūkṣmataraiḥ punaḥ | pañca brahmāni deveśi veditavyāni yatnataḥ ॥ 47 ॥ Brahmā, Viṣṇu, Rudra, Īśvara and Sadāśiva (are) Earth, Water, Fire, Air and Space, (as well as) the Void, touch, sound, light and the form of mantra. I have told (you this) here as it truly is. O mistress of the gods, one should exert oneself to know the five Brahmas by means of states (bhāva) that are grosser than gross and more subtle than subtle. (45-47)
 
 *[p. 184]* ^pg204
 
@@ -1270,6 +1492,8 @@ is) the reflective awareness of (the supreme) ‘T (ahaṁnparamārśa). This is
 
 Having said that by the way, he (now) states the main point. 
 
+### TĀ 17.99–100
+
 Emission of the Pure Principles by Means of a Full Oblation 
 
 सबीजायां तु दीक्षायां समयान्न विशोधयेत् ॥ ९९ ॥
@@ -1279,36 +1503,48 @@ Emission of the Pure Principles by Means of a Full Oblation
 पूणीं क्षिप॑स्तत्त्तजाल ध्यायद्धारूपकं सृतम् || १०१ ॥
 
 sabījāyār tu dīkṣāyām samayān na viśodhayet ॥ 99 ||
-viseṣas tv ayam etasyāṁ yāvaj jīvaṁ 5501 guruh |
-seṣavrttyai śuddhatattvasrṣṭin kurvīta pūrnayā ॥ 100 ॥
+viseṣas tv ayam etasyāṁ yāvaj jīvaṁ 5501 guruḥ |
+seṣavṛttyai śuddhatattvasṛṣṭin kurvīta pūrnayā ॥ 100 ॥
 abhinnāc chivasabodhajaladher yugapatsphurat |
-pūrnṇām kṣipaṁs tattvajālai dhyāyed bhārūpakaṁ srtam | 101 ॥ 
+pūrnṇām kṣipaṁs tattvajālai dhyāyed bhārūpakaṁ sṛtam | 101 ॥ 
 
-In the course of the initiation with seed, (the fetter of the observance of) the rules need not be purified (and so removed). The special feature of this (initiation) is that, in order that the disciple may fulfil (his) remaining obligations (Śeṣavrtti) for as long as he lives, the teacher should emit the pure principles with a full (oblation). (99cd-100) 
+In the course of the initiation with seed, (the fetter of the observance of) the rules need not be purified (and so removed). The special feature of this (initiation) is that, in order that the disciple may fulfil (his) remaining obligations (Śeṣavṛtti) for as long as he lives, the teacher should emit the pure principles with a full (oblation). (99cd-100) 
+
+#### Viveka on 17.99–100
 
 How should he emit the pure principles here (in this case)? With this doubt in mind, he says: 
 
-sūnyasparśas tathā śabdo jyorūpaii (> jyotīrūpami) tathaiva ca | tattvarūpaṁ tathaiveha pañca brahmāh prakīrtitāh ॥ 48 II evar jñātvā ca budhvā ca mucyate pāśabandhanāt | p. 805) vrajate ŝivasāyujyaṁ śivena saha modate || 49 Il ṣatpadārtham idan devi mantrāṇām kathitarh tava | veditavyarh prayatnena siddhimokṣãrthakānkṣibhih Il 50 ॥ evar sarveṣu mantreṣu kathitarh tava Sobhane | The Void, touch, sound, light and the form of reality (tattvarūpa) are said to be the Five Brahmas. Having known (them) this way and awakened, one is freed from the bonds of the fetters. He goes (on to attain) union (sãyujya) with Śiva and he delights along with Śiva. (48-49) O goddess, I have told you this group of six categories pertaining to mantras. Those who crave for accomplishment and liberation should exert (themselves) to know it. I have told you O fair one, (what is) present in this way in all mantras.” (50-5 lab)
+sūnyasparśas tathā śabdo jyorūpaii (> jyotīrūpami) tathaiva ca | tattvarūpaṁ tathaiveha pañca brahmāḥ prakīrtitāḥ ॥ 48 II evar jñātvā ca budhvā ca mucyate pāśabandhanāt | p. 805) vrajate śivasāyujyaṁ śivena saha modate || 49 Il ṣatpadārtham idan devi mantrāṇām kathitaṁ tava | veditavyaṁ prayatnena siddhimokṣārthakānkṣibhiḥ Il 50 ॥ evar sarveṣu mantreṣu kathitaṁ tava Sobhane | The Void, touch, sound, light and the form of reality (tattvarūpa) are said to be the Five Brahmas. Having known (them) this way and awakened, one is freed from the bonds of the fetters. He goes (on to attain) union (sāyujya) with Śiva and he delights along with Śiva. (48-49) O goddess, I have told you this group of six categories pertaining to mantras. Those who crave for accomplishment and liberation should exert (themselves) to know it. I have told you O fair one, (what is) present in this way in all mantras.” (50-5 lab)
 
 *[p. 185]* ^pg205
 
+### TĀ 17.101
+
 As he casts the full oblation (into the fire), he should meditate on how the net of principles, pulsing radiantly in the form of light, is simultaneously emitted from the undivided ocean of Śiva consciousness. (99cd-101) 
+
+#### Viveka on 17.101
 
 The prose order is: he should meditate on the net of principles emitted from the ocean of Siva consciousness. 
 
 He presents other views here (in this regard): 
 
+### TĀ 17.102
+
 विशुद्धतत्त्वसुष्टिं वा कुर्यत्कुम्भाभिषेचनात् ।
 तथा ध्यानबलादेव यद्रा ूर्णीभिषेचनैः । १०२ ॥
 
-viśuddhatattvasrṣtiṁn vā kuryāt kumbhābhiṣecanāt |
-tathā dhyānabalād eva yad vā pūrnābhiṣecanaih ॥ 102 ॥ 
+viśuddhatattvasṛṣtiṁn vā kuryāt kumbhābhiṣecanāt |
+tathā dhyānabalād eva yad vā pūrnābhiṣecanaiḥ ॥ 102 ॥ 
 
 The pure reality principles (Śuddhatattva) may be emitted by sprinkling (consecrated water) from the sacrificial jar or by the power of creative visualization \[illegible\] or else by (all three means, namely) a full (oblation, visualization) and sprinklings. (102) 
 
-The power of creative visualization (dhyānabala) is included, because (it is implied by the plural of) ‘sprinklings’. Thus, this is the perspective (paksa) (that views the reality levels) as a whole (rather than individually). 
+#### Viveka on 17.102
+
+The power of creative visualization (dhyānabala) is included, because (it is implied by the plural of) ‘sprinklings’. Thus, this is the perspective (pakṣa) (that views the reality levels) as a whole (rather than individually). 
 
 He (now) explains what their pure state is. 
+
+### TĀ 17.103–104
 
 The Pure States of the Principles 
 
@@ -1333,27 +1569,31 @@ The Pure States of the Principles
 इत्येवं शुद्धतत्त्वानां सृष्ट्या शिष्योऽपि तन्मयः ।
 भवेद्धेतत्सूचितं श्रीमालिनीविजयोत्तरे ।। १११ ॥
 
-prthivī sthirarūpāsya śivarūpenṇa bhāvitā |
+pṛthivī sthirarūpāsya śivarūpenṇa bhāvitā |
 sthirīkaroti tām eva bhāvanām iti śuddhyati ॥ 103 ॥
 jalam āpyāyatyenār tejo bhāsvaratāmi nayet |
-marudānandasaṁsparśaṁ vyoma vaitatyamāvahet ॥ 104 Il evarh tanmātravargo ‘pi śivatāmaya iṣyate |
-parānandamahāvyāptir aśeṣamalavicyutih || 105 ॥
-sive gantrtvam ādānam upādeyaśivastutih |
+marudānandasaṁsparśaṁ vyoma vaitatyamāvahet ॥ 104 Il evaṁ tanmātravargo ‘pi śivatāmaya iṣyate |
+parānandamahāvyāptir aśeṣamalavicyutiḥ || 105 ॥
+sive gantṛtvam ādānam upādeyaśivastutiḥ |
 sivāmodabharāsvādadarśanasparśanāny alam || 106 ॥
 tadākarṇanam ity evam indriyānāṁ viśuddhatā |
-saṁkalpādhyavasāmānāh prakāśo raktisaṁsthitī | 107 ॥
+saṁkalpādhyavasāmānāḥ prakāśo raktisaṁsthitī | 107 ॥
 sivātmatvena yat seyan Śuddhatā mānasādike |
-niyamo rañjanaṁ kartrbhāvah kalanayā saha || 108 ॥
+niyamo rañjanaṁ kartṛbhāvaḥ kalanayā saha || 108 ॥
 vedanari heyavastvaṁniśaviṣaye suptakalpatā |
 ittharn śivaikyarūdhasya ṣaṭkañcukagano ‘py ayam | 109 ॥
 śuddha eva pumān prāptaśivabhāvo viśuddhyati |
 vidyeśādiṣu tattveṣu naiva kācid aśuddhatā ॥ 110 ॥
-ity evarh ŝuddhatattvānāṁ srṣtyā śiṣyo ‘pi tanmayah |
+ity evaṁ śuddhatattvānāṁ sṛṣtyā śiṣyo ‘pi tanmayaḥ |
 bhaved dhy etat sūcitaṁ śrīmālinīvijayottare ॥ 111 ॥ 
 
 The Earth, whose form is firm, contemplated (by the teacher) as being Śiva, renders that same meditation (bhāvanā) firm within him, and is thus purified. Water nourishes this (meditation), Fire makes it shine, the Wind (induces its inner) blissful touch, and Space makes it extensive. (103- 104) 
 
-In the same way, the subtle elements are also felt to be \[illegible\] Śiva’s state of being \[illegible\] (The pure states of the five organs of action are as follows). The Great Pervasion of supreme bliss (is the ejaculation of the genitals), the falling away of all Impurity (mala) (is excretion), the movement within Śiva (is the locomotion of the legs), the laying hold of him (is the grasping of the hands), and the hymn to Śiva who is to be taken up (is the activity of the voice). (The smelling of) the fragrance of iva, tasting, seeing, touching and hearing Him — such is the pure state of the senses." (105-107ab) 
+### TĀ 17.105–107
+
+In the same way, the subtle elements are also felt to be \[illegible\] Śiva’s state of being \[illegible\] (The pure states of the five organs of action are as follows). The Great Pervasion of supreme bliss (is the ejaculation of the genitals), the falling away of all Impurity (mala) (is excretion), the movement within Śiva (is the locomotion of the legs), the laying hold of him (is the grasping of the hands), and the hymn to Śiva who is to be taken up (is the activity of the voice). (The smelling of) the fragrance of Śiva, tasting, seeing, touching and hearing Him — such is the pure state of the senses." (105-107ab) 
+
+### TĀ 17.107–108
 
 The pure state within the mind (manas) and the rest (up to Nature is realized by contemplating) the intention (of the mind), the ascertainment (of the intellect), and the self-arrogation (of the ego), as well as the light 
 
@@ -1366,11 +1606,17 @@ The pure state within the mind (manas) and the rest (up to Nature is realized by
 
 (of sattva), the attachment (of rajas), and the abiding state (of tamas), as being Śiva. (107cd-108ab) 
 
-The six coverings (kañcuka) (that envelop the individual soul) are 1) the restriction (imposed by Karma and causality) (niyama), 2) attachment (rañjana), 3) the sense of being an agent (kartrbhāva), along with 4) the passage of time (kalanā), 5) the awareness (of finite sensations) (vedana), and 6) sleeping, as it were, in the presence of that aspect of (finite) reality that should be abandoned. In this way, these too are pure for the one who established in a state of oneness with Śiva. The individual soul who has attained Śiva’s state (śivabhāva) is purified. 
+#### Viveka on 17.107–108
 
-(Finally,) there is no impurity of any kind in the (pure) principles of the Lords of Knowledge (vidyeśa) and the rest. Thus, by the emanation of the pure principles in this way, the disciple is also of that nature (fanmaya). This (teaching) is alluded to in the venerable Mālinīvijayottara.TM (108cd- 111) 
+The six coverings (kañcuka) (that envelop the individual soul) are 1) the restriction (imposed by Karma and causality) (niyama), 2) attachment (rañjana), 3) the sense of being an agent (kartṛbhāva), along with 4) the passage of time (kalanā), 5) the awareness (of finite sensations) (vedana), and 6) sleeping, as it were, in the presence of that aspect of (finite) reality that should be abandoned. In this way, these too are pure for the one who established in a state of oneness with Śiva. The individual soul who has attained Śiva’s state (śivabhāva) is purified. 
 
-(The Earth) ‘is purified’ means that it is (intrinsically) pure (meditation does not make it so). (Water nourishes) “ti meditation as Śiva’s nature. (Space makes) ‘it’ (extensive), that is to say, the meditation. ‘In the same way’, that is, by rendering the meditation (that everything is) Śiva (śivabhāvanā) firm etc. Although ‘tasting’ is the function of the sense of taste, because the word ‘fragrance’ is near to it, one should also understand that to (allude to) the function of the sense of smell (also). Thus, one should explain the word ‘tasting’ as being both an appellation (abhidhā) and a characterizing sign (of something else) (lakṣaṇa). “The senses’ are the genitals (ãnandendriya) and the rest." ‘Self-arrogation’ is the function of the ego. ‘Light’ (and the other two) are the form of the (three qualities of Nature, namely,) sattva, rajas and tamas, respectively. (Their balanced) state of equality (sāmaya) is Nature (prakrti). 
+### TĀ 17.108–111
+
+(Finally,) there is no impurity of any kind in the (pure) principles of the Lords of Knowledge (vidyeśa) and the rest. Thus, by the emanation of the pure principles in this way, the disciple is also of that nature (fanmaya). This (teaching) is alluded to in the venerable Mālinīvijayottara. (108cd- 111) 
+
+#### Viveka on 17.108–111
+
+(The Earth) ‘is purified’ means that it is (intrinsically) pure (meditation does not make it so). (Water nourishes) “ti meditation as Śiva’s nature. (Space makes) ‘it’ (extensive), that is to say, the meditation. ‘In the same way’, that is, by rendering the meditation (that everything is) Śiva (śivabhāvanā) firm etc. Although ‘tasting’ is the function of the sense of taste, because the word ‘fragrance’ is near to it, one should also understand that to (allude to) the function of the sense of smell (also). Thus, one should explain the word ‘tasting’ as being both an appellation (abhidhā) and a characterizing sign (of something else) (lakṣaṇa). “The senses’ are the genitals (ānandendriya) and the rest." ‘Self-arrogation’ is the function of the ego. ‘Light’ (and the other two) are the form of the (three qualities of Nature, namely,) sattva, rajas and tamas, respectively. (Their balanced) state of equality (sāmaya) is Nature (prakṛti). 
 
 Such is the explanation of (the six coverings, namely) ‘the restriction (imposed by Karma and causality) (niyama)’ here (in this context), as established in a state of oneness with Śiva. ‘Sleeping, as it were’ means the inability to think. The overall intended sense here is that their single state of rest within Śiva is their state of purity. Thus, by (stating this, he) affirms that, even though (these) principles are impure, here is also (another) different Path of (their) emanation as pure (principles). Nor is what we say not in accord with scripture. Thus, he says that ‘this’ ((teaching) is alluded to in the Mālinīvijayottara). It is (said to be just) ‘alluded to’, because (what is said there) concerns only the senses. 
 
@@ -1383,19 +1629,25 @@ He quotes that both (literally) word for word and its sense (in brief).
 
 *[p. 188]* ^pg208
 
+### TĀ 17.112
+
 The Senses Bound and Liberated 
 
 बन्धमोक्षावुभावेताविन्दियाणां जगुर्बुधाः ।
 निगृहीतानि बन्धाय विमुक्तानि विमुक्तये ।। १९१२ ॥
 
-bandhamokṣāv ubhāv etāv indriyānām jagur budhāh |
+bandhamokṣāv ubhāv etāv indriyānām jagur budhāḥ |
 nigṁītāni bandhāya vimuktāni vimuktaye || 112 || 
 
 The wise have said that both bondage and liberation are (conditions) of the senses. Restrained, they serve to bind (the soul), liberated (from restraint, they serve as a means to) liberation. 
 
-"TM (112) 
+" (112) 
+
+#### Viveka on 17.112
 
 The Lord Himself explains (what is meant by) the restrained and liberated state (of the senses). 
+
+### TĀ 17.113–114
 
 एतानि व्यापकं भावे यदा स्पुर्मनसा सह ।
 मुक्तानि क्वापि विषये रोधाद् बन्धाय तानि तु ॥ ११३ ॥
@@ -1404,10 +1656,12 @@ The Lord Himself explains (what is meant by) the restrained and liberated state 
 
 etāni vyāpake bhāve yadā syur manasā saha |
 muktāni kvāpi viṣaye rodhād bandhāya tāni tu ॥ 113 ॥
-ity evarh dvividho bhāvah śuddhāśuddhaprabhedatah |
-indriyānām samākhyātah siddhayogīśvarīmate ॥ 114 ॥ 
+ity evaṁ dvividho bhāvaḥ śuddhāśuddhaprabhedataḥ |
+indriyānām samākhyātaḥ siddhayogīśvarīmate ॥ 114 ॥ 
 
-‘These (senses) are liberated if they are, along with the mind, in (the one) all-pervading state. (But) by being restricted somewhere to (a particular) object, they bind (the soul)’ Similarly, it is said in the SiddhayogīśvarīmataTMTM that the state of the senses is of two kinds, according to whether they are pure or impure.’TM" (113-114) 
+‘These (senses) are liberated if they are, along with the mind, in (the one) all-pervading state. (But) by being restricted somewhere to (a particular) object, they bind (the soul)’ Similarly, it is said in the Siddhayogīśvarīmata that the state of the senses is of two kinds, according to whether they are pure or impure.’" (113-114) 
+
+#### Viveka on 17.113–114
 
 As is said there (in the Mālinīvijayottara): 
 
@@ -1415,23 +1669,29 @@ As is said there (in the Mālinīvijayottara):
 
 449?\. Read with MV 15/44b indriyānār for indriyāni. 11 17/112 is a literal quote of MV 15/44. MV 15/44c reads vighītāni for 17/1 12c nighītāni.
 
-450?\. Read with MV 15/47d, siddhayogīśvarīmate for siddhayogīśvare mate. The separated form is Aiŝa, and is not likely to have been employed by Abhinava. Indeed, he does not use it anywhere else. Törzsök (1999: 226) has not found any reference to this presentation of the dual form of the senses in the SYM, and Jayaratha does not cite any passage, which may indicate that he could not find any reference either.
+450?\. Read with MV 15/47d, siddhayogīśvarīmate for siddhayogīśvare mate. The separated form is Aiśa, and is not likely to have been employed by Abhinava. Indeed, he does not use it anywhere else. Törzsök (1999: 226) has not found any reference to this presentation of the dual form of the senses in the SYM, and Jayaratha does not cite any passage, which may indicate that he could not find any reference either.
 
-451?\. TĀ 17/113ab = MV 15/45ab; 17/113cd is a condensation of MV 15/45cd-46, 17/114 = MV 15/47 17/1 14a reads ity evarh for ity \[illegible\] of MV 15/47a.
+451?\. TĀ 17/113ab = MV 15/45ab; 17/113cd is a condensation of MV 15/45cd-46, 17/114 = MV 15/47 17/1 14a reads ity evaṁ for ity \[illegible\] of MV 15/47a.
 
 
 *[p. 189]* ^pg209
 
-are present somewhere in an object that is located in (some particular) place, then they are said to be bound.” TM® 
+are present somewhere in an object that is located in (some particular) place, then they are said to be bound.” TM 
 
 (Our venerable) teacher has said the very same thing. Thus, he says: 
+
+### TĀ 17.115
 
 श्रीमान् विद्यागरुस्त्वाह प्रमाणस्तुतिदर्शने ।
 śrīmān vidyāgurus tv āha pramānṇastutidarśane | 
 
 The venerable teacher Vidyādhipati has said (the same in accord with his) philosophy, (as taught) in the Pramāṇastuti." (115ab) 
 
+#### Viveka on 17.115
+
 In order to define the restriction to the application of Mantras here (in this case), he says: 
+
+### TĀ 17.115–117
 
 Purification of the Principles with Trika Mantras 
 
@@ -1442,12 +1702,14 @@ Purification of the Principles with Trika Mantras
 इत्येवंविधिमालोच्य कर्म कुर्याद् गुरूत्तम ; ॥ ११७ ॥
 
 samastamantrair dīkṣāyāṁ niyamas tv eṣa kathyate ॥ 115 ॥
-māyāntaśuddhau sarvāh syuh kriyā hy aparayā sadā |
+māyāntaśuddhau sarvāḥ syuḥ kriyā hy aparayā sadā |
 dvyātmayā sakalānte tu niṣkale parayaiva tu | 116 ॥
 \[illegible\] ca pibanyādi sakalānte ‘ṁgapañcakam |
-ity evarhvidhim ālocya karma kuryād gurūttamah ॥ 117 ॥ 
+ity evaṁvidhim ālocya karma kuryād gurūttamaḥ ॥ 117 ॥ 
 
-The rule (niyama) regarding all the Mantras in general (applied) in the course of (this) initiation will (now be) stated. AIl the rites \[illegible\] (that serve) to purify (the principles) up to the end of Māyā should always be (done) with (the mantra of) Aparā. (Those from Pure Knowledge) up to the end of immanent Śiva (sakala) with Parāparā (dvyātmā), and those up to transcendental Śiva (niṣkala) with Parā (Mantra). (The Mantras of) Pibanī and the rest (of the group of eight goddesses are applied) up to the end of 159, and the Five Limbs (aṁñgapañcaka) at the end of immanent Śiva (sakala). The best teacher, should perform the rite with an eye on the prescription (vidhi) (executed) in this way." (115cd-117) 
+The rule (niyama) regarding all the Mantras in general (applied) in the course of (this) initiation will (now be) stated. AIl the rites \[illegible\] (that serve) to purify (the principles) up to the end of Māyā should always be (done) with (the mantra of) Aparā. (Those from Pure Knowledge) up to the end of immanent Śiva (sakala) with Parāparā (dvyātmā), and those up to transcendental Śiva (niṣkala) with Parā (Mantra). (The Mantras of) Pibanī and the rest (of the group of eight goddesses are applied) up to the end of 159, and the Five Limbs (aṅgapañcaka) at the end of immanent Śiva (sakala). The best teacher, should perform the rite with an eye on the prescription (vidhi) (executed) in this way." (115cd-117) 
+
+#### Viveka on 17.115–117
 
 452?\. MV 15/45-46.
 
@@ -1460,11 +1722,13 @@ The rule (niyama) regarding all the Mantras in general (applied) in the course o
 
 ‘All the ritual actions’ are those in which (particular) Mantras have not been specified. As is said (in the Mālinīvijayottara): 
 
-‘In all the rites in which the Mantras have not been (explicitly) stated and in all kinds of initiatory rites, (the Mantra) the wise man should apply in all respects for the purification of all the principles up to and including Māyā, is that of Aparā. Similarly, with regard to the principles that range from Pure Knowledge to iva ‘with parts’ (sakala i.e. Sadāśiva), (he should apply) Parāparā. Moreover, a skilful, (learned adept) should not apply the group of eight (Mantras) beginning with Pibanī etc. beyond Īśvara, and also not the six limbs beyond Śiva ‘with parts’. Whatever procedure is enjoined concerning Śiva ‘without parts’ (niskala) (i.e. Śivatattva) should be performed with the Mantra of Parā.’TM'? 
+‘In all the rites in which the Mantras have not been (explicitly) stated and in all kinds of initiatory rites, (the Mantra) the wise man should apply in all respects for the purification of all the principles up to and including Māyā, is that of Aparā. Similarly, with regard to the principles that range from Pure Knowledge to Śiva ‘with parts’ (sakala i.e. Sadāśiva), (he should apply) Parāparā. Moreover, a skilful, (learned adept) should not apply the group of eight (Mantras) beginning with Pibanī etc. beyond Īśvara, and also not the six limbs beyond Śiva ‘with parts’. Whatever procedure is enjoined concerning Śiva ‘without parts’ (niskala) (i.e. Śivatattva) should be performed with the Mantra of Parā.’'? 
 
 The number of oblations has been stated with respect to the Path of the Worlds as the main one. He (now) transposes (the corresponding regulations) to the other Paths, with further increments (adhikāvāpa). 
 
 The Various Paths (adhvabheda) 
+
+### TĀ 17.118–120
 
 The Oblations Required for the Paths 
 
@@ -1475,10 +1739,10 @@ The Oblations Required for the Paths
 प्रतिकर्म भवेत्ष्टिराहुतीनां त्रित््वके ।
 एकतत्त्वे शतं प्राहराहतीनां तु साष्टकम् । १२० ॥
 
-purādhvani hutīnāṁ yā \[illegible\] tattvavarnayoh |
+purādhvani hutīnāṁ yā \[illegible\] tattvavarnayoḥ |
 tāmeva dvigunīkuryātpadādhvani caturguṇām || 118 ॥
 kramānmantrakalāmārge dviguṇā dviguṇā kramāt |
-yāvattritattvasahśuddhau syādviṁśatigunā tatah ॥ 119 ॥
+yāvattritattvasahśuddhau syādviṁśatigunā tataḥ ॥ 119 ॥
 pratikarma bhavetṣaṣṭirāhutīnām tritattvake |
 ekatattve śataṁ prāhurāhutīnāṁ tu sāṣtakam || 120 ॥ 
 
@@ -1490,24 +1754,34 @@ The number of oblations required for the Path of the Worlds should be doubled fo
 
 of Mantras and the Forces, respectively. For the purification of the three principles, they should be multiplied by twenty. Thus for (all) three principles, there are sixty oblations for each rite.” They say that for the one principle, the oblations should be one hundred and eight. (118-120) 
 
+#### Viveka on 17.118–120
+
 ‘The number’ stated previously, that is, three etc. ‘It should be doubled’ for the Path of the Principles, because the worlds etc. are included within them until, with respect to the Path of the Forces, the number is sixteen times (more). This is the overall meaning. There are ‘sixty’ oblations because they are multiplied by twenty for (each of) the three. “They say’, that is, for each rite. 
 
 Nor is this transposition (applicable) everywhere (in all cases). Thus he says: 
 
+### TĀ 17.121
+
 विलोमकर्मणा साकं याः पूणीहुतयः स्मृताः ।
 तासां सवीध्वसंशुद्धौ संख्यान्यत्वं किन ।॥ १२१ ॥
 
-vilomakarmanṇā \[illegible\] yāh pūrnāhutayah smrtāh |
+vilomakarmanṇā \[illegible\] yāh pūrnāhutayaḥ smṛtāḥ |
 tāsāṁ sarvādhvasaṁṁśuddhau sarikhyānyatvaṁi na kiñcana | 121 ॥ 
 
 The number of full oblations, along with the one for the rite that removes obstacles, remains exactly the same, for the purification of all the Paths (whichever one it may be). (121) 
 
+#### Viveka on 17.121
+
 He (now) concludes this (topic) with the first half of a verse. 
+
+### TĀ 17.122
 
 इत्येषा कथिता दीक्षा जननादिसमच्िता ।। १२२ ॥
 ity \[illegible\] kathitā dīkṣā jananādisamanvitā | 122 |I 
 
 This initiation, in which (the disciple’s) birth is induced (in the hierarchy of worlds) etc., has thus been taught. (122) 
+
+#### Viveka on 17.122
 
 (The initiation in which the disciple’s) ‘birth is induced (in the hierarchy of worlds) etc.’ (has thus been explained) at length. May this be auspicious. 
 
@@ -1517,7 +1791,7 @@ This is the seventeenth chapter of the venerable Tantrāloka, called the Exposit
 
 456?\. Every time the rite of initiation is performed.
 
-457?\. Read viśista- for vikṣipta-. To call the initiation taught in this chapter vikṣipta (‘scattered, distracted’) makes no sense. Unless we understand that the initiation taught here is ‘scattered’, because the teacher can conjoin the disciple to this or that reality level unsystematically. But that is not the case. One wonders whether to emend vikṣipta- to sarikṣipta-, meaning ‘brief’. This possibility is precluded because this is the name given to the following chapter. The rite taught there is indeed brief. Moreover, the title is confirmed by the concluding statement there which declares that saṁkṣipto vidhir ukto ‘yarh ‘this, the brief procedure has been taught’ (18/11). One could perhaps emend, as Gnoli’s translation suggests, to visiṣṭa- ‘special’ or ‘particular’. The sense would be that this is a special initiation based on ‘particulars’, i.e. the reality levels etc., through which the postulant is made to pass.
+457?\. Read viśista- for vikṣipta-. To call the initiation taught in this chapter vikṣipta (‘scattered, distracted’) makes no sense. Unless we understand that the initiation taught here is ‘scattered’, because the teacher can conjoin the disciple to this or that reality level unsystematically. But that is not the case. One wonders whether to emend vikṣipta- to sarikṣipta-, meaning ‘brief’. This possibility is precluded because this is the name given to the following chapter. The rite taught there is indeed brief. Moreover, the title is confirmed by the concluding statement there which declares that saṁkṣipto vidhir ukto ‘yaṁ ‘this, the brief procedure has been taught’ (18/11). One could perhaps emend, as Gnoli’s translation suggests, to visiṣṭa- ‘special’ or ‘particular’. The sense would be that this is a special initiation based on ‘particulars’, i.e. the reality levels etc., through which the postulant is made to pass.
 
 
 *[p. 192]* ^pg212

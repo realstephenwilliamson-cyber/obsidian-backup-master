@@ -44,6 +44,6 @@ Pritzker translation (Matt): [[Zohar 8.10 - Commentary on Naso, continued#^z3-14
 [^1]: i.e. the full assembly of R. Simeon and the Companions.
 [^2]: v. T. B. Shabbath, 156a.
 [^3]: *Khalloth* (= ending) suggests *Khallah* (= bride = Shekinah).
-[^4]: v. T. B. Pesahim, 6b, *et passim*.
+[^4]: v. T. B. [[Pesachim 6#6b|Pesahim, 6b]], *et passim*.
 [^5]: Cf T. B. Baba Bathra, 75a.
 [^6]: The twelve permutations of the Tetragrammaton.

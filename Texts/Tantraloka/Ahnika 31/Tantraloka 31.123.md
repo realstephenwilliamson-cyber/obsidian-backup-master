@@ -31,6 +31,9 @@ asyā vyāptau purā coktaṃ tatraivānusarecca tat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 116)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.122–123]]
+
 > चतुरंगुलनिम्नं तु मध्यं तु परिकल्पयेत् ॥
 > पूर्वापरं तदेवेह मध्ये शूलं तु तद्बहिः ।
 > कारयेत त्रिभिः सूत्रैरेकैकं वर्तयेत च ॥

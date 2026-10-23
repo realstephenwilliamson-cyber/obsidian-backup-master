@@ -33,6 +33,11 @@ tasya pradhānādhiṣṭhānaṃ paraṃ pañcāṅguliḥ karaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 240–241)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.255]]
+>
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.255 (2)]]
+
 *Lead-in:* अत आह -
 
 > तेन च्छिन्नकरस्यास्ति हस्तः कर्मेन्द्रियात्मकः ।

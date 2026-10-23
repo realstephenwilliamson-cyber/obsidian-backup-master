@@ -36,6 +36,11 @@ tatpunaḥ pibati prītyā haṃso haṃsa iti sphuran || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 182–185)
+> ![[Tantraloka Dyczkowski v03 06 - Chapter Four, part 5#Viveka on 4.135–136]]
+>
+> ![[Tantraloka Dyczkowski v03 06 - Chapter Four, part 5#Viveka on 4.136–137]]
+
 *Lead-in:* न केवलमयं जगत् सृजत्येव यावत्संहरत्यपि, इत्याह --
 
 > तत्पुनः पिबति प्रीत्या हंसो हंस इति स्फुरन् ॥

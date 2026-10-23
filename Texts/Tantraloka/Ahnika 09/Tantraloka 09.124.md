@@ -33,6 +33,11 @@ svāṅge prasādaraukṣyādi jāyamānaṃ svakarmaṇā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 109–110)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.123–124]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.124–125]]
+
 *Lead-in:* एतदेव उपपादयति --
 
 > स्वाङ्गे प्रसादरौक्ष्यादि जायमानं स्वकर्मणा ॥

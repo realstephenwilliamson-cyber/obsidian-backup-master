@@ -36,6 +36,11 @@ madhyaśūle madhyagaḥ syātsadbhāvaḥ parayā saha || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 4–10)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.11–12]]
+>
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.12–15]]
+
 *Lead-in:* अत्रैव गुणप्रधानभावेन सभैरवस्य देवीत्रयस्यावस्थितिं दर्शयितुमाह--
 
 Jayaratha comments on this verse together with 16.11: see [[Tantraloka 16.011#Viveka|16.11]].

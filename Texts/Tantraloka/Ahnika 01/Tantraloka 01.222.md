@@ -34,5 +34,8 @@ nādhovartitayā tena kathitaṃ kathamīdṛśam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 400)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.222–223]]
+
 > नाधोवर्तितया तेन कथितं कथमीदृशम् ॥
 

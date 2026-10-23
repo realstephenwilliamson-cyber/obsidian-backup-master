@@ -293,7 +293,7 @@ to receive
 [^1]: *Shekhinti*
 [^2]: *zot*
 [^3]: Malkhut
-[^4]: *BT* Berakhot 34b
+[^4]: *BT* [[Berakhot 34#34b|Berakhot 34b]]
 [^5]: *pe-’amav*
 [^6]: *regel*
 [^7]: *phe-’amayikh*

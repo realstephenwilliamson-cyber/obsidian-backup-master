@@ -33,6 +33,11 @@ bāhyaṃ prāṇaṃ bāhyagataṃ timirākārayogataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 405–407)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.277–278]]
+>
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.278–281]]
+
 *Lead-in:* एवञ्च अस्य कथं स्यात् ?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 29.277: see [[Tantraloka 29.277#Viveka|29.277]].

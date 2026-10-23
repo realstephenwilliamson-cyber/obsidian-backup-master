@@ -35,6 +35,9 @@ tadapi pratibimbatvameti bodhe'nyathā tvasat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 124)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.50]]
+
 *Lead-in:* ननु यद्यप्येतदेवं तथापि निर्निमित्तमेव कथं प्रतिबिम्बमुदियात् इति, तत्र बिम्बभूतं किञ्चित्कारणं वक्तव्यम् ? इत्याशङ्क्याह --
 
 > यद्वापि कारणं किञ्चिद्बिम्बत्वेनाभिषिच्यते ।

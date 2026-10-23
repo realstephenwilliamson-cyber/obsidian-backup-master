@@ -30,7 +30,7 @@ Text: [[NRSVue Luke 06|NRSVue]] · [[Luke 06|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 06#^6-7|7]]:** *Cure on the sabbath*, see 4.31–37n. ^6-7
 
-**[[NRSVue Luke 06#^6-9|9]]:** *Save life*, “Pikuach nefesh” (“saving a life”) always overrides Sabbath law, see 6.5n.; [[LXX 1 Maccabees 02#^2-40|1 Macc 2.40–41]]; *b. Yoma* 84b. ^6-9
+**[[NRSVue Luke 06#^6-9|9]]:** *Save life*, “Pikuach nefesh” (“saving a life”) always overrides Sabbath law, see 6.5n.; [[LXX 1 Maccabees 02#^2-40|1 Macc 2.40–41]]; [[Yoma 84#84b|*b. Yoma* 84b]]. ^6-9
 
 **[[NRSVue Luke 06#^6-10|10]]:** *Hand was restored*, Jesus does not touch the man, and therefore prevents suspicion of “working.” ^6-10
 
@@ -42,7 +42,7 @@ Text: [[NRSVue Luke 06|NRSVue]] · [[Luke 06|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 06#^6-12|12]]:** *Pray*, see 3.21n. ^6-12-2
 
-**[[NRSVue Luke 06#^6-13|13]]:** *Twelve* (8.1; [[Acts 06#^6-2|Acts 6.2]]; etc.), symbolizes reconstitution of the twelve tribes of Israel. *Apostles* (Gk “apostolos,” “those sent”), an agent or emissary; Heb “shaliaḥ shel ʾadam kemoto” (“a person’s agent is as the person himself”), one who fully represents the sender (*m. Ber*. 5.5; *b. Qidd*. 42b–43a). ^6-13
+**[[NRSVue Luke 06#^6-13|13]]:** *Twelve* (8.1; [[Acts 06#^6-2|Acts 6.2]]; etc.), symbolizes reconstitution of the twelve tribes of Israel. *Apostles* (Gk “apostolos,” “those sent”), an agent or emissary; Heb “shaliaḥ shel ʾadam kemoto” (“a person’s agent is as the person himself”), one who fully represents the sender (*m. Ber*. 5.5; [[Kiddushin 42#42b|*b. Qidd*. 42b]]–43a). ^6-13
 
 **[[NRSVue Luke 06#^6-14|14]]:** *Peter*, nickname meaning “rock.” The names of the Twelve vary among Gospels, but Peter is always named first and Judas Iscariot last. *James*, Gk “Iacobos,” Heb “Yaʿaqov” (Jacob). *John*, Gk “Ioannēs,” Heb “Yoḥanan.” *Bartholomew*, Heb/Aram “Bar Tolmai,” “Son of Tolmai.” ^6-14
 
@@ -76,31 +76,31 @@ Text: [[NRSVue Luke 06|NRSVue]] · [[Luke 06|BSB and SBLGNT]] · Introduction: [
 
 *[[NRSVue Luke 06#^6-27|Text]], p. 126* · ([[Matthew 05#^5-38|Mt 5.38–48]]; [[Matthew 07#^7-12|7.12]]). ^6-27
 
-**[[NRSVue Luke 06#^6-27|27]]:** *Love your enemies*, Jewish teaching commands helping enemies (see e.g., [[Torah 18 - Mishpatim#^23-4|Ex 23.4–5]]; [[Proverbs 24#^24-17|Prov 24.17]]; [[Proverbs 25#^25-21|25.21]]); rabbinic commentary speaks of aiding (not “loving”) enemies in order to “subdue the evil inclination” (*b. B. Metz*. 32b). Jesus’ command may be hyperbole, similar to the use of “hate” in 14.26, or, more likely, an extension of the concern to treat enemies with fairness. ^6-27-2
+**[[NRSVue Luke 06#^6-27|27]]:** *Love your enemies*, Jewish teaching commands helping enemies (see e.g., [[Torah 18 - Mishpatim#^23-4|Ex 23.4–5]]; [[Proverbs 24#^24-17|Prov 24.17]]; [[Proverbs 25#^25-21|25.21]]); rabbinic commentary speaks of aiding (not “loving”) enemies in order to “subdue the evil inclination” ([[Bava Metzia 32#32b|*b. B. Metz*. 32b]]). Jesus’ command may be hyperbole, similar to the use of “hate” in 14.26, or, more likely, an extension of the concern to treat enemies with fairness. ^6-27-2
 
 **[[NRSVue Luke 06#^6-28|28]]:** *Pray for those who abuse*, see 23.34. ^6-28
 
 **[[NRSVue Luke 06#^6-29|29]]:** *Takes away your coat*, [[Matthew 05#^5-40|Mt 5.40]] suggest a lawsuit; Luke suggests robbery. ^6-29
 
-**[[NRSVue Luke 06#^6-30|30]]:** *Give to everyone*, Luke sanctions voluntary poverty (see 6.24n.; 12.33; 18.22); rabbinic sources do not, as personal impoverishment would create greater hardships for the family and community. Jewish sources mandate almsgiving (“tzedakah”); see e.g., [[Torah 47 - Re'eh#^15-11|Deut 15.11]]. Rav Assi (third century) called almsgiving “equal in value to all other commandments” (*b. B. Bat*. 9a). ^6-30
+**[[NRSVue Luke 06#^6-30|30]]:** *Give to everyone*, Luke sanctions voluntary poverty (see 6.24n.; 12.33; 18.22); rabbinic sources do not, as personal impoverishment would create greater hardships for the family and community. Jewish sources mandate almsgiving (“tzedakah”); see e.g., [[Torah 47 - Re'eh#^15-11|Deut 15.11]]. Rav Assi (third century) called almsgiving “equal in value to all other commandments” ([[Bava Batra 9#9a|*b. B. Bat*. 9a]]). ^6-30
 
-**[[NRSVue Luke 06#^6-31|31]]:** *Do to others*, compare Hillel’s “What is hateful to you, do not do to anyone else” (Tob 4.15; *b. Shabb*. 31a). ^6-31
+**[[NRSVue Luke 06#^6-31|31]]:** *Do to others*, compare Hillel’s “What is hateful to you, do not do to anyone else” (Tob 4.15; [[Shabbat 31#31a|*b. Shabb*. 31a]]). ^6-31
 
 **[[NRSVue Luke 06#^6-32|32–34]]:** *What credit*, Luke reflects the reciprocal system of benefaction. ^6-32
 
 **[[NRSVue Luke 06#^6-35|35]]:** *Expecting nothing in return*, more generous than the Tanakh’s forbidding of interest on a loan ([[Torah 18 - Mishpatim#^22-24|Ex 22.25]]; [[Torah 32 - Behar#^25-36|Lev 25.36–37]]). *Children of the Most High*, see 1.32,35; 8.28. ^6-35
 
-**[[NRSVue Luke 06#^6-36|36]]:** *Be merciful*, compare [[Matthew 05#^5-48|Mt 5.48]], where the injunction is perfection; for imitating divine compassion ([[Torah 21 - Ki Tisa#^34-6|Ex 34.6]]), see *b. Shabb*. 133b; *Mek*. 15.2; *Sifre Deut*. 11.22; 49 (“As God is called compassionate and gracious, so you too must be compassionate and gracious, giving gifts freely”). ^6-36
+**[[NRSVue Luke 06#^6-36|36]]:** *Be merciful*, compare [[Matthew 05#^5-48|Mt 5.48]], where the injunction is perfection; for imitating divine compassion ([[Torah 21 - Ki Tisa#^34-6|Ex 34.6]]), see [[Shabbat 133#133b|*b. Shabb*. 133b]]; *Mek*. 15.2; *Sifre Deut*. 11.22; 49 (“As God is called compassionate and gracious, so you too must be compassionate and gracious, giving gifts freely”). ^6-36
 
 ### 6.37–42: Judging
 
 *[[NRSVue Luke 06#^6-37|Text]], p. 126* · ([[Matthew 07#^7-1|Mt 7.1–5]]; [[Matthew 12#^12-36|12.36–37]]; [[Matthew 15#^15-14|15.14]]; [[Mark 04#^4-24|Mk 4.24–25]]). ^6-37
 
-**[[NRSVue Luke 06#^6-37|37]]:** *Do not judge*, see *b. Rosh Ha-Shanah* 16b; *b. Meg*. 28a. ^6-37-2
+**[[NRSVue Luke 06#^6-37|37]]:** *Do not judge*, see [[Rosh Hashanah 16#16b|*b. Rosh Ha-Shanah* 16b]]; [[Megillah 28#28a|*b. Meg*. 28a]]. ^6-37-2
 
 **[[NRSVue Luke 06#^6-38|38]]:** *Measure you give*, a biblical (e.g., [[Torah 18 - Mishpatim#^22-21|Ex 22.22–24]]; Ob 1.15) and rabbinic (Heb “midah ke-neged midah” \[“measure corresponding to measure”\]) idea; see e.g., *m. Sot.* 1.7 (“By that same measure by which a man metes out \[to others\], they mete out to him”); *m. Avot* 2.6, attributed to Hillel (“He saw a skull floating on the water and said to it, ‘because you drowned others, they drowned you, and in the end those who drowned you will be drowned’ ”). ^6-38
 
-**[[NRSVue Luke 06#^6-41|41–42]]:** *Log in your own eye*, *b. B. Bat.* 15b expresses the same idea: “If the judge said to a man, ‘Take the splinter from between your teeth,’ he would respond, ‘Take the beam from between your eyes.’” See also *b. Arak*. 16b. 3b. *Hypocrite*, see [[Psalms 026#^26-4|Ps 26.4]]; [[LXX Sirach 01#^1-29|Sir 1.29]]; [[LXX Sirach 32#^32-15|32.15]]. ^6-41
+**[[NRSVue Luke 06#^6-41|41–42]]:** *Log in your own eye*, [[Bava Batra 15#15b|*b. B. Bat.* 15b]] expresses the same idea: “If the judge said to a man, ‘Take the splinter from between your teeth,’ he would respond, ‘Take the beam from between your eyes.’” See also [[Arakhin 16#16b|*b. Arak*. 16b]]. 3b. *Hypocrite*, see [[Psalms 026#^26-4|Ps 26.4]]; [[LXX Sirach 01#^1-29|Sir 1.29]]; [[LXX Sirach 32#^32-15|32.15]]. ^6-41
 
 ### 6.43–45: Bearing good fruit
 

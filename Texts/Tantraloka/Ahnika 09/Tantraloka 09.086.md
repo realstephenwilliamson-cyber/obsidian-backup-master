@@ -31,6 +31,9 @@ ityādyanvarthasaṃjñābhistatra tatraiṣa bhaṇyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 85)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.84–86]]
+
 > मलोऽभिलाषश्चाज्ञानमविद्या लोलिकाप्रथा ॥
 > भवदोषोऽनुप्लवश्च ग्लानिः शोषो विमूढटा ।
 > अहंममात्मतातङ्को मायाशक्तिरथावृतिः ॥

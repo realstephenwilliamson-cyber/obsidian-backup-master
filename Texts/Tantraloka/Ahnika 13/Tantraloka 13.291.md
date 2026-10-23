@@ -31,6 +31,9 @@ karhicitprāptaśabdābhyāmanapekṣitvamūcivān || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 303–304)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.290–292]]
+
 > श्रीमानुत्पलदेवश्चाप्यस्माकं परमो गुरुः ।
 > शक्तिपातसमये विचारणं प्राप्तमीश न करोषि कर्हिचित् ॥
 > अद्य मां प्रति किमागतं यतः स्वप्रकाशनविधौ विलम्बसे ।

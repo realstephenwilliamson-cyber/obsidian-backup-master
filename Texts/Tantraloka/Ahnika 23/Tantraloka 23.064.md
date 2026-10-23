@@ -31,6 +31,9 @@ na dahyate'sau guruṇā tathāpyeṣa tirohitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 325)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.63–64]]
+
 > संसारी स तु देवो हि गुरुर्न च मृषाविदः ॥
 > तत एव च शास्त्रादिदूषको यद्यपि क्रुधा ।
 > न दह्यतेऽसौ गुरुणा तथाप्येष तिरोहितः ॥

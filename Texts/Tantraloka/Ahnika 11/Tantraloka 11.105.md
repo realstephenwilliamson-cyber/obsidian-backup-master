@@ -35,6 +35,9 @@ tadavekṣyata tanmadhyāt kenaiko'pi dharādharaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 91–92)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.105]]
+
 *Lead-in:* ननु संविदो देशकालौ मा भूताम्, संवित्क्रियाकर्मणस्तु संवेद्यस्य धारकतयाधारभूतौ देशकालौ विना भूतभावाद्यात्मना स्वसाक्षिकमपि नैयत्यं न स्यात्? -- इत्याशङ्क्याह --
 
 > अभविष्यदयं सर्गो मूर्तश्चेन्न तु चिन्मयः ।

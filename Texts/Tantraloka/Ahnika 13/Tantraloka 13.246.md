@@ -33,6 +33,11 @@ anye yiyāsurityādigranthaṃ prāggranthasaṅgatam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 278–280)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.245–246]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.246–247]]
+
 *Lead-in:* श्रीपूर्वशास्त्रीयमेव ग्रन्थं मतान्तरेण व्याचष्टे --
 
 > अन्ये यियासुरित्यादिग्रन्थं प्राग्ग्रन्थसङ्गतम् ॥

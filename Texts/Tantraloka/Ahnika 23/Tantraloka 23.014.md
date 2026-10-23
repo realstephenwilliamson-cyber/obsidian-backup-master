@@ -33,6 +33,11 @@ devyā yāmalaśāstre ca kāñcyādiparivarjanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 301–302)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 23.14–15.*
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.14–15]]
+
 > यस्तु कर्मितयाचार्यस्तत्र काणादिवर्जनम् ॥
 > यतः कारकसामग्र्यात्कर्मणो नाधिकः क्वचित् ।
 > देव्या यामलशास्त्रे च काञ्च्यादिपरिवर्जनम् ॥

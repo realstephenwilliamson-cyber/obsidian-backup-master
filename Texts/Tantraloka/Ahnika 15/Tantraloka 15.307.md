@@ -31,6 +31,9 @@ nijādhipairbrahmaviṣṇuharaiścādhiṣṭhitaṃ smaret || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 181–182)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.307]]
+
 > प्रकाशयोगो ह्यत्रैवं दृक्श्रोत्ररसनादिकः ॥
 > दक्षान्यावर्ततो न्यस्येच्छक्तीनां नवकद्वयम् ।
 > विद्यापद्मेऽत्र तच्चोक्तमपि प्राग्दर्श्यते पुनः ॥

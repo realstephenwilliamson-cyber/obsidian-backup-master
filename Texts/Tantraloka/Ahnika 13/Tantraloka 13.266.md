@@ -31,6 +31,9 @@ bandhayitrīti tatkarma kathyate rūpalopakṛt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 289–290)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.266–267]]
+
 > उक्तं सेयं क्रियाशक्तिः शिवस्य पशुवर्तिनी ।
 > बन्धयित्रीति तत्कर्म कथ्यते रूपलोपकृत् ॥
 > ज्ञाता सा च क्रियाशक्तिः सद्यःसिद्ध्युपपादिका ।

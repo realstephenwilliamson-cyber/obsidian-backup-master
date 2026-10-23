@@ -38,4 +38,4 @@ CONCLUDED PART TWO WITH THE HELP OF G-D, MAY HE BE BLESSED AND EXALTED.
 
 [^1]: Chs. 1, 7, 10.
 [^2]: [[Torah 01 - Bereshit#^1-6|Genesis 1:6]].
-[^3]: *Chagigah* 12b.
+[^3]: [[Chagigah 12#12b|*Chagigah* 12b]].

@@ -24,7 +24,7 @@ M. R. Śāstrī, KSTS (10), Śrīnagar, 1918.
 
 Spandapradīpikā, by Utpalavaiṣṇava, Commentary on the Spandakārikā by Bhagavadutpalācārya, M. S. G. Dyczkowski, Ratna Printing Works, Vārāṇasī, 1990. Reprint Indica Books, 2000 Spandanirṇaya by Kṣemarāja. Edited with English translation by Madhusūdana Kaula Śāstrī. Srinagar: KSTS vol. 43, 1925. 
 
-Spandasarhdoha, by Kṣemarāja M. R. Śāstrīī, KSTS (16), Bombay, 1917. Svacchandatantra, with the commentary of Kṣemarāja, M. S. Kaul, KSTS (31, 38, 44, 48, 51, 53, 56), Bombay, 1921-1935. 
+Spandasaṁdoha, by Kṣemarāja M. R. Śāstrīī, KSTS (16), Bombay, 1917. Svacchandatantra, with the commentary of Kṣemarāja, M. S. Kaul, KSTS (31, 38, 44, 48, 51, 53, 56), Bombay, 1921-1935. 
 
 Svacchandatantra. Reprint supervised by Vrajavallabha Dvivedi. Delhi: Parimal Publications, 1985. 
 
@@ -32,7 +32,7 @@ Svāyaribhuvāgamaṭīkā by Sadyojyotis, see Filliozat, 1991.
 
 Svabodhodayamañjarī, by Torella, Raffaele,; or how to suppress the mind with no effort.” Harānandalaharī Volume in Honour of Professor Minoru Hara on his seventieth Birthday edited by Ryutaro Tsuchida and Albrecht Wezler pp- 387-410 Tokyo 2000. 
 
-Spandakārikā with the vivrti di Rāmakantha, J.C. Chatterji, KSTS (6), Śrīnagar, 1969 (first edition, 1913). 
+Spandakārikā with the vivṛti di Rāmakantha, J.C. Chatterji, KSTS (6), Śrīnagar, 1969 (first edition, 1913). 
 
 Haracaritacintāmani by Rājānakaśrījayadratha, Kāvyamālā (61), Bombay, 1897. 
 
@@ -44,9 +44,9 @@ Books (Studies and Translations)
 
 Abhyankar, Kashinath Vasudev Abhyankar, 1977: ‘A Dictionary of Sanskrit Grammar’. Oriental Institute, Baroda. 
 
-Agrawal, Vasudeva S. 1963: Matsya Purāṇa. A Study. Vārāṇasī: Prthivi Prakashan. 
+Agrawal, Vasudeva S. 1963: Matsya Purāṇa. A Study. Vārāṇasī: Pṛthivi Prakashan. 
 
-Agrawal, Vasudeva S. 1964: Vāmana Purāṇa — A Study. Vārāṇasī: Prthivi Prakashan. 
+Agrawal, Vasudeva S. 1964: Vāmana Purāṇa — A Study. Vārāṇasī: Pṛthivi Prakashan. 
 
 Agrawal, Vasudeva S. 1970: Ancient Indian Folk Cults. Vārāṇasī: Prithivi Prakashan. 
 
@@ -64,7 +64,7 @@ Arraj, W. J. 1988: The Svacchandatantram: History and Structure of a Śaiva Scri
 
 Aurobindo, 2001: Essays on the Gita. The Bhagavadgita as Translated by Aurobindo. Publisher Sri Aravindo. 
 
-Bakkar, Hans T. 2000: Somaśarman, Somavaṁśa and Somasiddhānta. A Pāśupata Tradition in Seventh-Century Dakṣina Kośala. Studies in the Saikndapurãna 3’, in HarãnandalaharīT Volume in Honour of Professor Minoru Hara on his Sventieth Birthday, ed. R. Tsuchida and A. Wezler. Reinbek: Dr. Inge Wezler, pp. 1-19. 
+Bakkar, Hans T. 2000: Somaśarman, Somavaṁśa and Somasiddhānta. A Pāśupata Tradition in Seventh-Century Dakṣina Kośala. Studies in the Saikndapurāna 3’, in HarānandalaharīT Volume in Honour of Professor Minoru Hara on his Sventieth Birthday, ed. R. Tsuchida and A. Wezler. Reinbek: Dr. Inge Wezler, pp. 1-19. 
 
 Bakker, Hans, and Alan Entwistle, eds. 1983: Devī: The Worship of the Goddess and its Contribution to Indian Pilgrimage. Institute of Indian Studies, State University of Groningen, Groningen. 
 
@@ -108,19 +108,19 @@ Bhandarkar, R. G. 1965: Vaiṣnavism, Śaivism and Minor Religious Systems. Vār
 
 Bharati, A. 1969: The Tantric Tradition, second edition, Rider & Company, London (first edition, 1965). 
 
-Bhate, S. and Bronkhorst, J. 1994: Bhartrhari. Philosopher and Grammarian. Proceedings of the First International Conference on Bhartrhari (University of Poona, January 8-8, 1992), Motilal Banarsidass, Delhi (first edition, Bern, 1993). 
+Bhate, S. and Bronkhorst, J. 1994: Bhartṛhari. Philosopher and Grammarian. Proceedings of the First International Conference on Bhartṛhari (University of Poona, January 8-8, 1992), Motilal Banarsidass, Delhi (first edition, Bern, 1993). 
 
-Bhat, M. R. (part 1) 1981 and (part 2) 1982: Bṁatsaṁhitā by Varāhamihira Bhatṭta with English translation, notes and comments. Motilal Banarsidass, Delhi. Bhat M. S. 1987: Vedic tantrism, a study of rgvidhãna of ŝaunaka with text and translation. Delhi, Motilal Banarsidass, Bhattacharyya, Narendra Nath 1971: Indian Mother Goddess. Calcutta: Indian Studies Past and Present. 
+Bhat, M. R. (part 1) 1981 and (part 2) 1982: Bṁatsaṁhitā by Varāhamihira Bhatṭta with English translation, notes and comments. Motilal Banarsidass, Delhi. Bhat M. S. 1987: Vedic tantrism, a study of rgvidhāna of śaunaka with text and translation. Delhi, Motilal Banarsidass, Bhattacharyya, Narendra Nath 1971: Indian Mother Goddess. Calcutta: Indian Studies Past and Present. 
 
 Bhattacharyya, Narendra Nath 1974 A History of the Sākta Religion. Munshiram Manoharlal, Delhi. 
 
 Biardeau, M. 1964a: Theorie de the Connaissance et Philosophie de the Parole dans le Brahmanisme Classique, Paris, La Haye. 
 
-Biardeau, M. 1964b: Bhartrhari, Vākyapadīya Brahmakanda, de Boccard, Paris. Biardeau, Madeleine 1989: Hinduism. The Anthropology of a Civilization. 
+Biardeau, M. 1964b: Bhartṛhari, Vākyapadīya Brahmakanda, de Boccard, Paris. Biardeau, Madeleine 1989: Hinduism. The Anthropology of a Civilization. 
 
 Translated from the French by Richard Nice. French Studies in South Asian Culture and Society 3. Delhi: Oxford University Press Bryant, Edwin 2001: The Quest for the Origins of Vedic Culture. The Indo-Aryan Migration Debate. New York: Oxford University Press. 
 
-Boner, A. 1966: Ramachandra Kaulacara, \$ilpaprakāśa, Mediaeval Orissan Sanskrit Text on Temple Architecture, translation and notes by A. Boner and Sadasiva Rat Sarma, Brill, Leiden. 
+Boner, A. 1966: Ramachandra Kaulacara, Śilpaprakāśa, Mediaeval Orissan Sanskrit Text on Temple Architecture, translation and notes by A. Boner and Sadasiva Rat Sarma, Brill, Leiden. 
 
 Boner, Alice, Śarmā, Sadāśivaratha and Bettina Baümer 1982: Vāstusūtra Upaniṣad: The Essence of Form in Sacred Art. Sanskrit text, English translation, and notes. Delhi: Motilal Banarsidass. 
 
@@ -128,7 +128,7 @@ Bose (Basu), Manindra Mohan 1986: The Post Caitanya Sahajiyā Cult of Bengal. De
 
 Briggs, G. W. 1973 (reprint): Gorakhnātha and the Kānphata Yogīs. Delhi: Motilal Banarsidass. 
 
-Brighenti, F. 2001: akti Cult in Orissa. New Delhi: D. K. Print World. Broido, MM. 1993: Killing, Lying, Stealing, and Adultery: A Problem of Interpretation in the Tantras, in D. S. Lopez, Jr. Buddhist Hermeneutics, second edition, Delhi (first edition, University of Hawat Press, Honolulu, 1988). 
+Brighenti, F. 2001: Śakti Cult in Orissa. New Delhi: D. K. Print World. Broido, MM. 1993: Killing, Lying, Stealing, and Adultery: A Problem of Interpretation in the Tantras, in D. S. Lopez, Jr. Buddhist Hermeneutics, second edition, Delhi (first edition, University of Hawat Press, Honolulu, 1988). 
 
 *[p. 356]* ^pg371
 
@@ -152,11 +152,11 @@ Brunner-Lachaux, H. 1965: Analise du Kiranāgama, in JA (271), pp. 309-28. Brunn
 
 Brunner-Lachaux, H. 1975: Le sādhaka, Personnage oublie du Śivaisme du Sud, in JA (279), pp. 411-43. 
 
-Brunner-Lachaux, H. 1985: Mrgendrāgama avec the vrtti de Bhaṭta Nārāyaṇakanṭha, edition and translation, IFP 69, 1985. 
+Brunner-Lachaux, H. 1985: Mṛgendrāgama avec the vṛtti de Bhaṭta Nārāyaṇakanṭha, edition and translation, IFP 69, 1985. 
 
 Brunner, H. 1986a: Les membres de Śiva, in Asiatischen Studien / Études Asiatiques, XL, 2, pp. 89-132. 
 
-Brunner-Lachaux, H. 1986b: Mandala et yantra dans le \$ivaisme Āgamique, in Mantras et Diagrammes rituels dans l'Hinduisme, Editions du CNRS, Paris, pp. 11-35. 
+Brunner-Lachaux, H. 1986b: Mandala et yantra dans le Śivaisme Āgamique, in Mantras et Diagrammes rituels dans l'Hinduisme, Editions du CNRS, Paris, pp. 11-35. 
 
 Brunner-Lachaux, H. 1992: Jñāna and Kriyā: Relation between Theory and 
 
@@ -178,7 +178,7 @@ Bunce, Fredrick W. 1994: An Encyclopaedia of Buddhist Deities, Demigods, Godling
 
 Burnett, LD. 1910: The Paramārthasāra of Abhinavagupta, in JRAS, pp. 707- 47. 
 
-Caitanyānanda 1996: Śrī Vidyā. Śrī Cakra Pūjā Vidhih. \[illegible\] Dattātreya Caitanyānandanātha Sampradāya Sampūrṇa Krama. Madras: Sri Maruti Graphics. 
+Caitanyānanda 1996: Śrī Vidyā. Śrī Cakra Pūjā Vidhiḥ. \[illegible\] Dattātreya Caitanyānandanātha Sampradāya Sampūrṇa Krama. Madras: Sri Maruti Graphics. 
 
 Carelli, M. 1941: Sekoddeśaṭīkā of Nadapāda (Nāropā), edition and introduction, Gaekwad's Oriental Series (90), Baroda. 
 
@@ -198,7 +198,7 @@ Chattopadhyaya, Brajadulal 1990: Aspects of Rural Settlement and Rural Society i
 
 Chatterji, J. C. 1914: Kashmir Shaivaism, KSTS (2), Śrīnagar. 
 
-Clothey, Fred W. and Long, J. Bruce, 1983: Experiencing iva. Encounters with a Hindu Deity. Delhi: South Asia Books. 
+Clothey, Fred W. and Long, J. Bruce, 1983: Experiencing Śiva. Encounters with a Hindu Deity. Delhi: South Asia Books. 
 
 Coburn, Thomas B. 1984: Devī-Māhātmya. The Crystallization of the Goddess Tradition. Delhi: Motilal Banarsidass. 
 
@@ -284,7 +284,7 @@ Dupuche, 2018: The Wisdom of Excess: Guru, Initiation and Practice in an Extreme
 
 Dvivedi, V. 1994: Uttaraṣatkam, Vārāṇasī. 
 
-Dvivedi V.V. 1983: Luptāgamasarigraha (dvitiyo bhāgah)Yogatantragranthamālā vol. 10. Sampūrṇānanda Sanskrit University. Dwivedi, R. C. and Navjivan Rastogi, Motilal Banarsidass, 1987, The Tantraloka of Abhinavagupta: With the Commentary of Jayratha Dyczkowski, M. S.G. 1987a: The Doctrine of Vibration, SUNY, Albany (reprint, Motilal Banarsidass, Delhi, 1989). 
+Dvivedi V.V. 1983: Luptāgamasarigraha (dvitiyo bhāgaḥ)Yogatantragranthamālā vol. 10. Sampūrṇānanda Sanskrit University. Dwivedi, R. C. and Navjivan Rastogi, Motilal Banarsidass, 1987, The Tantraloka of Abhinavagupta: With the Commentary of Jayratha Dyczkowski, M. S.G. 1987a: The Doctrine of Vibration, SUNY, Albany (reprint, Motilal Banarsidass, Delhi, 1989). 
 
 Dyczkowski, M. S.G. 1987b: La Via dello Yogin: La Spiritualita’ dello Śaivismo del Kashmir. In La Realizazione Spirituale \[illegible\] Uomo. Istituto Propaganda Libraria, Milano (pp. 33-59) 
 
@@ -294,7 +294,7 @@ Dyczkowski, M. S.G. 1992a: The Stanzas on Vibration, SUNY, Albany.
 
 *[p. 360]* ^pg375
 
-Dyczkowski, M. S.G. 1992b: The Aphorisms of iva. The iva Sūtra with Bhāskara’s commentary, the ārttika. State University of New York Press, Albany. 
+Dyczkowski, M. S.G. 1992b: The Aphorisms of Śiva. The Śiva Sūtra with Bhāskara’s commentary, the ārttika. State University of New York Press, Albany. 
 
 Dyczkowski, M. S. G. 1990: Self-awareness, Own Being and Egoity. Ratna Printing Works, Vārāṇasī. Reprinted in ‘Journey in the World of the Tantras’ Indica Books, Vārāṇasī 2004 pp. 29-49 Dyczkowski M. S. G. 2004: A Journey in the World of the Tantras. Indica, Varnasi Eck, Diana 1982: Banaras. City of Light. New York: Albert K. Knopf. Egnor, Margaret Trawick, 1978: The Sacred Spell and Other Conceptions of Life in Tamil Culture. PhD dissertation. University of Chicago Eliade, Mircea 1974: Patterns in Comparative Religion. Clinton Mass.: New American Library. 
 
@@ -316,7 +316,7 @@ Flood, Gavin 1993: The Body and Cosmology in Kashmir Śaivism. San Francisco: Me
 
 Flood, Gavin 2003: The Blackwell Companion to Hinduism. Edited by Gavin Flood. Oxford: Blackwell. 
 
-Filliozat, P-S. 1991: Le Tantra de Svayanbhū vidyāpāda avec le commentaire de Sadyojyotih, edition and translation vol. 1: École Pratique des Hautes Études, 
+Filliozat, P-S. 1991: Le Tantra de Svayanbhū vidyāpāda avec le commentaire de Sadyojyotiḥ, edition and translation vol. 1: École Pratique des Hautes Études, 
 
 Paris; vol. 2: Hautes Études Orientales (27), Geneve. 
 
@@ -330,13 +330,13 @@ Clarendon Press. Ethnography of Caste in the Kathmandu Valley, Nepal. Oxford: Cl
 
 Ghose, Rajeshwari 1996: The Lord of Ārūr. The Tyāgarāja Cult in Tamilnāḍu. Motilal Banarsidass: New Delhi Ghurye, G. S. 1995 (reprint): Indian Sadhus. Bombay: Popular Prakashan Gimbutas, Marija 1991: The Language of the Goddess. San Francisco: Harper Collins Gnoli, R. 1956: Alcune tecniche yoga nelle scuole Saiva, in RSO (31). Gnoli, R. 1957: \[illegible\] by Somānanda. English translation of chapter one, East and West (8) pp. 16-22. 
 
-Gnoli, R. 1959a: Vāc. il secondo capitolo della Śivadrṣṭi di Somānanda, in RSO (34). pp. 55-75. 
+Gnoli, R. 1959a: Vāc. il secondo capitolo della Śivadṛṣṭi di Somānanda, in RSO (34). pp. 55-75. 
 
 Gnoli, R. 1959b: Vāc. Passi scelti and tradotti of Parātrimśikāvivarana, in RSO (34-35), pp. 163-82. 
 
 Gnoli, R. 1960: The Pramāṇavārttikam of Dharmakīrti. The first Chapter with the Autocommentary, Serie Orientale Rome (23), Rome. (only Sanskrit text) 
 
-Gnoli, R. 1962: Testi dello \$ivaismo, Boringhieri, Turin. 
+Gnoli, R. 1962: Testi dello Śivaismo, Boringhieri, Turin. 
 
 Gnoli, R. 1965: Vāc. Passi scelti and tradotti of Parātriśikāvivaranṇa, in RSO (40), pp. 215-45. 
 
@@ -346,7 +346,7 @@ Gnoli, R. 1973: Gli Āgama Scivaiti nell'India settentrionale, in Indologica Tau
 
 Gnoli, R. 1976: Bhagavadgītā, il Canto del Beato, with the commentary by Abhinavagupta, Italian introduction and translation, UTET, Torino. 
 
-Gnoli, R. 1978: La Trentina della Suprema (Parātrimśikālaghuvrtti), second edition, Boringhieri, Torino (first edition, 1965). 
+Gnoli, R. 1978: La Trentina della Suprema (Parātrimśikālaghuvṛtti), second edition, Boringhieri, Torino (first edition, 1965). 
 
 Gnoli, R. 1985: ॥ commentario di Abhinavagupta alla Parātrimśikā (Parātrimśikātattvavivaraṇam), translation in Italian and text, Serie Orientale Rome (58), ISMEO, Rome. 
 
@@ -378,11 +378,11 @@ Gonda, J. 1965: Les religions de l'Inde, vol. 2, Paris.
 
 Gonda, J. 1967: The Meaning of the Sanskrit Term Dhāman, Amsterdam Akademy, Amsterdam. 
 
-Gonda, J. 1970: Viṣnuism and \$aivism, a comparison, London. 
+Gonda, J. 1970: Viṣnuism and Śaivism, a comparison, London. 
 
 Gonda, J. 1977: Medieval Religious Literature in Sanskrit, vol. Ī, fasc. 1, di A History of Indian Literature, J. Gonda, Otto Harrassowitz, Wiesbaden. Goodall, D. 1998: Bhatta Rāmakantha's Commentary on the Kiraṇatantra, vol. I, capp. 1-6, Publications du departement d'indologie (86, 1). 
 
-Goodall, Dominic 1998: Bhaṭtarāmakanṭharacitā kiraṇavrttih. Bhaṭṭa Rāmakantha’s Commentary on the Kiraṇatantra. Volume 1: chapters 1-6 critical edition and annotated translation. Pondicherry: Publications du Département d'Indologie - 86.1. Institut Français de Pondichéry, École Français d’Extrême-Orient. 
+Goodall, Dominic 1998: Bhaṭtarāmakanṭharacitā kiraṇavṛttiḥ. Bhaṭṭa Rāmakantha’s Commentary on the Kiraṇatantra. Volume 1: chapters 1-6 critical edition and annotated translation. Pondicherry: Publications du Département d'Indologie - 86.1. Institut Français de Pondichéry, École Français d’Extrême-Orient. 
 
 Gopal, Lallanji 1989 (2nd revised edition): The Economic Life of Northern India, c. AD. 700-1200. Delhi: Motilal Banarasidass. 
 
@@ -402,13 +402,13 @@ Gupta, S. and Goudriaan, T. 1979, Hindu Tantrism, Leiden.
 
 Halbfass, Wilhelm 1988: \[illegible\] and Europe. An Essay in Understanding. Albany: State University of New York Press. 
 
-Handiqui, K. K. 1949: Yaśastilaka and Indian Culture. Sholapur: Jain Sarhskrti Saṁrakṣaka Sangh. 
+Handiqui, K. K. 1949: Yaśastilaka and Indian Culture. Sholapur: Jain Saṁskṛti Saṁrakṣaka Sangh. 
 
 Hawley, John S. and Wulff, Donna Marie (editors) 1986: The Divine Consort: Rādhā and the Goddesses of India. Berkeley: Berkeley Religious Studies Series. Hanneder, Jürgen 1998: Abhinavagupta’s Philosophy of Revelation. An Edition and Annotated Translation of Mālinīvijayaślokavārtika I, 1-399. Egbert Forsten, Groningen. 
 
 Hanneder, Jürgen 2005: The Mokṣopāya, Yogavāṣiṣtha and Related Texts edited by Jurgen Hanneder. Indologica Halensis. Shaker Verlag, Āchen. 
 
-Hatley, Shaman and Csaba Kiss, The Brahmayamala Tantra or Picumata (set of two volumes), Institut Français de Pondichéry, École Français d’Extrême-Orient, 2018 Hazra, R. C. 1975: Studies in the Purānic Records on Hindu Rites and Customs. Delhi: Motilal Banarsidass, 1958: Studies in the Upapurānas Vol. 1: aiva and Vaisṣnava Upapurāṇas. Calcutta: Calcutta Sanskrit College Research Series, no. 2. 1963: Studies in the Upapurāṇas Vol. 2: \$ākta and Non-sectarian Upapurāṇas. Calcutta: Calcutta Sanskrit College Research Series, no. 22. Hedayetullah, Muhammad 1977: Kabir: The Apostle of Hindu-Muslim Unity. Delhi: Motilal Banarsidass. 
+Hatley, Shaman and Csaba Kiss, The Brahmayamala Tantra or Picumata (set of two volumes), Institut Français de Pondichéry, École Français d’Extrême-Orient, 2018 Hazra, R. C. 1975: Studies in the Purānic Records on Hindu Rites and Customs. Delhi: Motilal Banarsidass, 1958: Studies in the Upapurānas Vol. 1: Śaiva and Vaisṣnava Upapurāṇas. Calcutta: Calcutta Sanskrit College Research Series, no. 2. 1963: Studies in the Upapurāṇas Vol. 2: Śākta and Non-sectarian Upapurāṇas. Calcutta: Calcutta Sanskrit College Research Series, no. 22. Hedayetullah, Muhammad 1977: Kabir: The Apostle of Hindu-Muslim Unity. Delhi: Motilal Banarsidass. 
 
 Heilijgers-Seelen, D. M 1994: The System of Five Cakras in Kubjikāmatatantra 14-16. Groningen: Egbert Forsten. 
 
@@ -416,7 +416,7 @@ Hillebrandt, Alfred 1980: Vedic Mythology. Translated from the original German b
 
 Hopkins, E. W. 1978: The Great Epic of India. Calcutta: Reprint by Punthi Pustak. 
 
-Houben, Jan E. M. 1992, Bhartrhari's samaya and Helārāja's saketa, in JI, XX, pp. 219-42. 
+Houben, Jan E. M. 1992, Bhartṛhari's samaya and Helārāja's saketa, in JI, XX, pp. 219-42. 
 
 Houben, Jan E. M. ed. 1996. Ideology and Status of Sanskrit: Contributions to the History of the Sanskrit Language. Brill’s Indological Library, vol. 13. Leiden: E. J. Brill. 
 
@@ -430,7 +430,7 @@ Ingalls, D. 1962: Words for Beauty. Indological Studies in Honour of W. Norman B
 
 *[p. 364]* ^pg379
 
-Iyer, K. A. Subramania, 1977: The Vākyapadīya of Bhartrhari. English translation with exegetical notes. Khanda 2, 1977; Motilal Banarsidass, Delhi chapter 3, pt. 2,1974. 
+Iyer, K. A. Subramania, 1977: The Vākyapadīya of Bhartṛhari. English translation with exegetical notes. Khanda 2, 1977; Motilal Banarsidass, Delhi chapter 3, pt. 2,1974. 
 
 James, William 1919: The Varieties of Religion Experience, Jhā, Gaṁgānātha 1942; Pūrva-Mimārsā and its Sources, Banaras Hindu University second edition 1964. . 
 
@@ -446,7 +446,7 @@ Johari, Harish 1987: Chakras. Energy Centres of Transformation. Vermont: Inner T
 
 Kane, P.V 1974 (second edition): History of Dharmaśāstra. Bhandarkar Oriental Institute, Poona, Karambelkar, V. W. 1959: The Atharvavedic Civilization. Its place in Indo- Āryan Culture. Poona: University of Nagpur. 
 
-Karpatri, Swami 2009: The Liñga and the Great Goddess (translated from Hindi), Indica Books, Vārāṇasī. 
+Karpatri, Swami 2009: The Liṅga and the Great Goddess (translated from Hindi), Indica Books, Vārāṇasī. 
 
 Kaul, Jayalal 1973: Lal Ded. New Delhi: Sahitya Akademi. 
 
@@ -456,7 +456,7 @@ Kavirāj, Gopinātha 1972: Tāntrika Sāhitya. Hindi Samiti Granthamālā 200. L
 
 Keith, Arthur Berridale 1971 (Indian reprint): Rigveda Brahmanas: The Aitareya and Kauṣītaki Brāhmanas of the Rigveda. Translated from the original Sanskrit. Delhi: Motilal Banarsidass. 
 
-Khiste, Batukanātha Śāstrī 1993: Bhāskararāya Bhāratī Dīkṣitā Vyaktitva evam Krtitva. Yogatantragranthamālā no. 21. Vārāṇasī: Saṁṁpūrṇānanda Sanskrit University. 
+Khiste, Batukanātha Śāstrī 1993: Bhāskararāya Bhāratī Dīkṣitā Vyaktitva evam Kṛtitva. Yogatantragranthamālā no. 21. Vārāṇasī: Saṁṁpūrṇānanda Sanskrit University. 
 
 Kinsley, David 1989: The Goddess’s Mirror. Visions of the Divine from East and West. Albany: State University of New York Press. 
 
@@ -544,11 +544,11 @@ Meister, Michael W. 1984: Discourses on Siva: Proceedings of a Symposium on the 
 
 Meyer, Johann, Jakob 1971 (reprint): Sexual Life in Ancient India. Delhi: Motilal Banarsidass. 
 
-Michael, R. Blake 1992: The Origins of Vīraśaiva Sects. A Typological Analysis of Ritual and Associational Patterns in the Śūnyasarnpādane. Delhi: Motilal Banarsidass. 
+Michael, R. Blake 1992: The Origins of Vīraśaiva Sects. A Typological Analysis of Ritual and Associational Patterns in the Śūnyasaṁpādane. Delhi: Motilal Banarsidass. 
 
 Michell, George 1993: Temple Towns of Tamil Nadu. Mumbai: Mārga Publications. 
 
-Mishra, Paramharhsa 1992: Tantrālokah śrīmadācāryajayarathakrtayā ‘viveka’ vyākhyayā dā Paramahaṁsamiśrakrtena ‘nīrakṣīraviveka’ —-hindībhāṣyeṇa yogatantragrantha mala (17) Sarnpūrṇānandaviśvavidyālaya Vārāṇasī. Mishra, Ram Nath 1981: Yaksha Cult and Iconography. Delhi: Munshiram Manoharlal. 
+Mishra, Paramhaṁsa 1992: Tantrālokaḥ śrīmadācāryajayarathakṛtayā ‘viveka’ vyākhyayā dā Paramahaṁsamiśrakṛtena ‘nīrakṣīraviveka’ —-hindībhāṣyeṇa yogatantragrantha mala (17) Saṁpūrṇānandaviśvavidyālaya Vārāṇasī. Mishra, Ram Nath 1981: Yaksha Cult and Iconography. Delhi: Munshiram Manoharlal. 
 
 *[p. 367]* ^pg382
 
@@ -558,7 +558,7 @@ Monier-Williams 1996 (reprint): Sanskrit-English Dictionary. Vārāṇasī: Indi
 
 Moraes, G. M. 1932: The Kādamba Kula. A History of Ancient and Medieval Karnataka. Bombay. 
 
-Montelle, Clemency 2011: Chasing Shadows. Mathematics, Astronomy, and the early History of Eclipse Reckoning. The John Hopkins University Press. Baltimore. 2011 Muller-Ortega, P. 1989: The Triadic Heart of iva. New York. State University of New York Press. 
+Montelle, Clemency 2011: Chasing Shadows. Mathematics, Astronomy, and the early History of Eclipse Reckoning. The John Hopkins University Press. Baltimore. 2011 Muller-Ortega, P. 1989: The Triadic Heart of Śiva. New York. State University of New York Press. 
 
 Murthy, C. Suryanarayana 1975: Śrīlalitāsahasranāmam with introduction and commentary. Bombay: Bharatiya Vidya Bhavan. 
 
@@ -568,7 +568,7 @@ N. 1969: The Gospel of Ramakrishna. Translated by Swami Nikhilananda. New York: 
 
 Nadou, L. 1968 : Les Buddhistes Kashmiriens au Moyen Âge. Paris: Presses Universitaires de France. 
 
-Nagaswamy, R. 1982: Tantric Cults of South India. Delhi: Agam Kal Prakashan Nandi, Ramendra Nath 1973: Religious Institutions and Cults in the Deccan (c. AD. 600- AD. 1000). Motilal Banarsidass. Delhi Nārāyaṇa Mahārāja, Swami 2005: iva Tattva. New Delhi: Gauqdīya Vedānta Publications. 
+Nagaswamy, R. 1982: Tantric Cults of South India. Delhi: Agam Kal Prakashan Nandi, Ramendra Nath 1973: Religious Institutions and Cults in the Deccan (c. AD. 600- AD. 1000). Motilal Banarsidass. Delhi Nārāyaṇa Mahārāja, Swami 2005: Śiva Tattva. New Delhi: Gauqdīya Vedānta Publications. 
 
 Nemec, John William (undated): The Cult of Siddhalakṣmī in the Tridaśadāmaratantra. Thesis for an M. Phil. in Classical Indian Religions. Oxford: Hertford College. 
 
@@ -610,7 +610,7 @@ Padoux, A. 1987b: Un rituel hindou du rosaire (Jayākhyasamihitā, Chapitre 14),
 
 Padoux, André 1990: Vāc: The Concept of the Word in Selected Hindu Tantras. English translation by Jacques Gontier. SUNY Series in the Shaiva Traditions of Kashmir. Albany: State University of New York Press. 
 
-Padoux, A. 1991: Mantras - What Are They? in Alper, 1991, pp. 295-318. Padoux, André 1994: Le Cæur de la Yogini. Yoginīhrdaya avec le commantaire Dīpikā d'’Amrtānanda. Texte sanskrit traduit et annoté. Paris: Collège de France. Publications de l'institut de Civilisation Indienne. 
+Padoux, A. 1991: Mantras - What Are They? in Alper, 1991, pp. 295-318. Padoux, André 1994: Le Cæur de la Yogini. Yoginīhṛdaya avec le commantaire Dīpikā d'’Amṛtānanda. Texte sanskrit traduit et annoté. Paris: Collège de France. Publications de l'institut de Civilisation Indienne. 
 
 Pandey, K.C. 1954: Bhāskarī, vol. 3: 
 
@@ -622,7 +622,7 @@ Pandey, K.C. 1963b: Comparative Aesthetics, 2 vol. Vārāṇasī (first edition,
 
 Pandey, K.C 1986: An Outline of the the History of Saiva Philosophy. Delhi: Motilal Banarsidass. 
 
-Pandey, Rajbali 1969: Hindu Samskāras. Socio-religious Study of the Hindu Sacraments. Motilal Banarsidass, Delhi Panikkar, Shivaji K. 1997: Saptamātrkā Worship and Sculptures. Delhi: D. K. Printworld (P) Ltd. 
+Pandey, Rajbali 1969: Hindu Samskāras. Socio-religious Study of the Hindu Sacraments. Motilal Banarsidass, Delhi Panikkar, Shivaji K. 1997: Saptamātṛkā Worship and Sculptures. Delhi: D. K. Printworld (P) Ltd. 
 
 Parry, Jonathan P. 1994: Death in Banaras. Cambridge: Cambridge University Press. 
 
@@ -652,7 +652,7 @@ Rai, R. K. 1975: Encyclopedia of Yoga Chaukambha Orientalia, Vārāṇasī Raja,
 
 Rajagopalan, S. 1987: Old Goa. Delhi: The Director General, Archeological Survey of India. 
 
-Rājānaka Lakṣmaṇa (Swami Laksmanjoo) 1958: Śrīkramanayapradīpikā (in Hindi). Kashmir: Guptagarngā. 
+Rājānaka Lakṣmaṇa (Swami Laksmanjoo) 1958: Śrīkramanayapradīpikā (in Hindi). Kashmir: Guptagaṁgā. 
 
 Rangarajan, L. N. 1987: The Arthashastra. Edited, Rearranged, Translated and Introduced. London: Penguin Books. 
 
@@ -676,7 +676,7 @@ Ros, Frank 1995: The Lost Secrets of Ayurvedic Acupuncture. Delhi: Motilal Banar
 
 Ruegg, D. S. 1984: Problems in the transmission of Vajrayāna Buddhism in the western Himalaya about the year 1000, in Acta Indologica, VI. 
 
-Śarmā, Buddhisāgara 1969: Nepālarājakīyavīrapustakālayasthapustakānāīn bṁatsūcīpatram. yasyāyāṁ tantraviṣayakah caturtho bhāgah. 
+Śarmā, Buddhisāgara 1969: Nepālarājakīyavīrapustakālayasthapustakānāīn bṁatsūcīpatram. yasyāyāṁ tantraviṣayakaḥ caturtho bhāgaḥ. 
 
 Śāstrī, H. K 1974: South Indian Images of Gods and Goddesses. Delhi. Śāstrī, Hara Prasāda and Bendall, C 1905 (vol. 1) and 1916 (vol. 2): Notices of Sanskrit Manuscripts (extra number): A Catalogue of Palmleaf and Selected Paper Manuscripts belonging to the Darbar Library, Nepal. Calcutta Śāstrī, S. Subrahmanya 1976 1934): Varivasyārahasya and its commentary prakāśa by Bhāskararāya Makhin. Edited with English translation. Adyar: The Adyar Library and Research Centre. 
 
@@ -716,15 +716,15 @@ of
 
 a Standardized Saiddhāntika System. Heidelbergh handout p. 2-3 Round Table on South Asian Rituals 27\*-29\* November 2003 Internationales Wissenschaftsforum Heidelburg. 
 
-Sanderson 2006a: The Lākulas: New evidence of a system intermediate between Pāñcārthika Pāśupatism and Āgamic Śaivism. Ramalinga Reddy Memorial Lectures Sanderson, A. 2006b: The Date of Sadyojyotis and Brhaspati. Cracow Indological Studies vol. VIII, pp. 
+Sanderson 2006a: The Lākulas: New evidence of a system intermediate between Pāñcārthika Pāśupatism and Āgamic Śaivism. Ramalinga Reddy Memorial Lectures Sanderson, A. 2006b: The Date of Sadyojyotis and Bṛhaspati. Cracow Indological Studies vol. VIII, pp. 
 
-Sanderson A. 2007b: Atharvavedins in Tantric territory. The Āngirasakalpa texts of the Oriya Paippalādins and their connection with the Trika and Kālīkula. With critical editions of the Parājapavidhi, the Parāmantravidhi, and the Bhadrakālīmantravidhiprakarana Sanderson A. 2007c: Swami Lakshman Joo and His place in the Kashmirian Śaiva tradition. In Samvidullāsah, edited by Bettina Bäumer and Sarla Kumar, New Delhi: D.K. Printworld, pp. 93-126 Sanderson, A. 2009 Hinduism of Kashmir Schrader, F.O. 1916: Introduction to the Pāñcarātra and the Ahirbudhnyasarihitā, the Adyar Library and Research Centre, Madras. Schoterman, J. A. 1982. The Satsāhasra Saṁhitā, chapters 1-5, ed., transl. and annotated, Leiden. also published as Orientalia Rheno-Traiectina 2 Schoterman, J. A. 1980: The Yonitantra. Delhi. Manohar Publications. Schwartzberg, Joseph E. 1978: A Historical Atlas of South Asia. Chicago: University of Chicago Press. 
+Sanderson A. 2007b: Atharvavedins in Tantric territory. The Āngirasakalpa texts of the Oriya Paippalādins and their connection with the Trika and Kālīkula. With critical editions of the Parājapavidhi, the Parāmantravidhi, and the Bhadrakālīmantravidhiprakarana Sanderson A. 2007c: Swami Lakshman Joo and His place in the Kashmirian Śaiva tradition. In Samvidullāsaḥ, edited by Bettina Bäumer and Sarla Kumar, New Delhi: D.K. Printworld, pp. 93-126 Sanderson, A. 2009 Hinduism of Kashmir Schrader, F.O. 1916: Introduction to the Pāñcarātra and the Ahirbudhnyasarihitā, the Adyar Library and Research Centre, Madras. Schoterman, J. A. 1982. The Satsāhasra Saṁhitā, chapters 1-5, ed., transl. and annotated, Leiden. also published as Orientalia Rheno-Traiectina 2 Schoterman, J. A. 1980: The Yonitantra. Delhi. Manohar Publications. Schwartzberg, Joseph E. 1978: A Historical Atlas of South Asia. Chicago: University of Chicago Press. 
 
 Sengupta, J.C. 1965: West Dinajpur, Calcutta: State Editor West Bengal District Gazetters. 
 
 SenSharma, Debabrata 2007: Paramārthasāra of Abhinavagupta with the commentary of Yogarāja Essence of the Supreme Truthy translation by Deba Brata SenSharma, Muktabodha Indological Research Institute New Delhi, India and Emeryville USA First Edition New Delhi 2007 Settar S. and Sontheimer, Gunther D. 1982: Memorial Stones. A Study of their Origin, Significance and Variety. Manipal: Institute of Indian Art History, Karnatak University, Dharwad and South Asia Institute, University of Heidelberg, Germany. 
 
-Shaha, Rishikesh 1997: Ancient and Medieval Nepal. Delhi: Manohar. Sharma, B. N. K. 1986: The Brahmasūtras and their Principal Commentaries: a critical exposition, 3 vol. New Delhi, (first edition, Bombay, 1971-1978). Sharma, D. B. S. 1985: Prakrtilīna in the Sāmkhya-Yoga Systems and Pralayākala in the Trika System of Kaśmīra, in JGJKSV (38-39), pp. 278-90. Shringy, R. K. and Sharma, Premlatā, 1978: The Sañgītaratnākara of ŚĀāraṁgadeva. Volume 1. Delhi: Motilal Banarsidass. 
+Shaha, Rishikesh 1997: Ancient and Medieval Nepal. Delhi: Manohar. Sharma, B. N. K. 1986: The Brahmasūtras and their Principal Commentaries: a critical exposition, 3 vol. New Delhi, (first edition, Bombay, 1971-1978). Sharma, D. B. S. 1985: Prakṛtilīna in the Sāmkhya-Yoga Systems and Pralayākala in the Trika System of Kaśmīra, in JGJKSV (38-39), pp. 278-90. Shringy, R. K. and Sharma, Premlatā, 1978: The Saṅgītaratnākara of ŚĀāraṁgadeva. Volume 1. Delhi: Motilal Banarsidass. 
 
 Shulman, David Dean 1980: Tamil Temple Myths. New Jersey: Princeton University Press. 
 
@@ -742,13 +742,13 @@ Silburn, L. 1975: Hymnes aux Kālī, Le Roue des Énergies Divines, Paris. Silbu
 
 Silburn, L. 1988: Kundalinī. Energy of the Depths. Albany: State University of New York. 
 
-Singh, J. 1977: Pratyabhijñāhrdayam, second revised edition Motilal Banarsidass, Delhi (fourth edition, 1982; first edition, 1963). 
+Singh, J. 1977: Pratyabhijñāhṛdayam, second revised edition Motilal Banarsidass, Delhi (fourth edition, 1982; first edition, 1963). 
 
 Singh, J. 1979: Vijñānabhairava or Divine Consciousness, Motilal Banarsidass, Delhi. 
 
 Singh, J. 1980: Spanda-kārikās. The Divine Creative Pulsation, Motilal Banarsidass, Delhi. 
 
-Singh, J. 1982: The Heart of Recognition. The Pratyabhijñahrdayam by Kṣemarāja. Sanskrit text with English translation and notes. Delhi: Motilal Banarsidass Singh, J. 1988: Abhinavagupta Parātrīśikāvivaraṇa. The Secret of Tantric Mysticism. English translation with notes and running exposition by Jaideva Singh. Sanskrit text corrected, notes on technical points and charts dictated by Swami Lakshmanjoo. Edited by Bettina Bäumer. Delhi: Motilal Banarsidass. Singh, Rana P. B. (editor) 1993: Banāras (Vārāṇasī) Cosmic Order, Sacred City, Hindu Traditions. Festschrift to Prof. R. L. Singh. Vārāṇasī: Tara Book Agency on behalf of Vārāṇasī Studies Foundation. 
+Singh, J. 1982: The Heart of Recognition. The Pratyabhijñahṛdayam by Kṣemarāja. Sanskrit text with English translation and notes. Delhi: Motilal Banarsidass Singh, J. 1988: Abhinavagupta Parātrīśikāvivaraṇa. The Secret of Tantric Mysticism. English translation with notes and running exposition by Jaideva Singh. Sanskrit text corrected, notes on technical points and charts dictated by Swami Lakshmanjoo. Edited by Bettina Bäumer. Delhi: Motilal Banarsidass. Singh, Rana P. B. (editor) 1993: Banāras (Vārāṇasī) Cosmic Order, Sacred City, Hindu Traditions. Festschrift to Prof. R. L. Singh. Vārāṇasī: Tara Book Agency on behalf of Vārāṇasī Studies Foundation. 
 
 Singh, Rana P. B. and Singh, Pravin S. 2002: Banaras Region. A Spiritual and Cultural Guide. New Delhi: Indica Singh, Ravi Shankar 1999: Goddess in India: A study in the Geography of. Sacred Places. Doctoral dissertation submitted to the P. G. Department of Geography, Faculty of Social Sciences. Chapra: Jai Prakash University. 
 
@@ -780,11 +780,11 @@ Snodgrass, Adrian 1988: The Matrix and Diamond World Mandalas in Shingon Buddhis
 
 Śrītattvanidhi. Vārānṇasī: Chaukhambha Orientalia. 
 
-Staal, Frits and Cherumukku Vaidikan Somayajipad, M. Itti Ravi Nambudiri 1984: Agni, the Vedic Ritual of the Fire Altar, Delhi: Motilal Banarsidass Stein, M. A. (1892 and 1900) 1979 (reprint): Kalhana’s Rājataraùginī or Chronical of the Kings of Kaśmīr. Translated, with an introduction, commentary, and appendices. Two volumes. Delhi: Motilal Banarsidass (reprint). 
+Staal, Frits and Cherumukku Vaidikan Somayajipad, M. Itti Ravi Nambudiri 1984: Agni, the Vedic Ritual of the Fire Altar, Delhi: Motilal Banarsidass Stein, M. A. (1892 and 1900) 1979 (reprint): Kalhana’s Rājataraṅginī or Chronical of the Kings of Kaśmīr. Translated, with an introduction, commentary, and appendices. Two volumes. Delhi: Motilal Banarsidass (reprint). 
 
-Stein, M. A. (1899) 1977 (reprint): Memoir on Maps Illustrating the Ancient Geography of Kaśmīr. Delhi: Indological Book Corporation (reprint). Subramania Iyer, K.A. 1965: Vākyapadīya of Bhartrhari with the vrtti cap. I, translation ingl. Poona. 
+Stein, M. A. (1899) 1977 (reprint): Memoir on Maps Illustrating the Ancient Geography of Kaśmīr. Delhi: Indological Book Corporation (reprint). Subramania Iyer, K.A. 1965: Vākyapadīya of Bhartṛhari with the vṛtti cap. I, translation ingl. Poona. 
 
-Subramania Iyer, K.A. 1969: Bhartrhari, A Study of the Vākyapadīya in the light of the Ancient Commentaries, Deccan College, Poona. 
+Subramania Iyer, K.A. 1969: Bhartṛhari, A Study of the Vākyapadīya in the light of the Ancient Commentaries, Deccan College, Poona. 
 
 Sukul, Kuber Natha 1977: Vārāṇasī Vaibhava. Patna: Bihār Rāṣtrabhāṣā Pariṣada. 
 
@@ -816,15 +816,15 @@ Torella, R. 1979b: Vasugupta, Śivasūtra with the commentary di Kṣemarāja, U
 
 Torella, R. 1987: Examples of the Influence of Sanskrit Grammar on Indian Philosophy, in East and West (37), pp. 151-64. 
 
-Torella, R. 1988: A Fragment of Utpaladeva's Īśvarapratyabhijñāvivrti, East and West (38), pp. 137-74. 
+Torella, R. 1988: A Fragment of Utpaladeva's Īśvarapratyabhijñāvivṛti, East and West (38), pp. 137-74. 
 
 Torella, R. 1991: Importanza di Utpaladeva, in Atti of quarto and quinto convegno nazionale di studi sanscriti, O. Botto, \^.155. Torino, pp. 101-106. Torella, R. 1992: The Pratyabhijñā and the Logical-Epistemological School of Buddhism, in Goudriaan, 1992, pp. 327-45. 
 
 Torella, R. 1994a: On Vāmanadatta, in N. Ramachandra Bhatt Felicitation Volume, P.-S. Filliozat, C.P. Bhatta, S.P. Narang, Motilal Banarsidass, Delhi, pp. 481-98. 
 
-Torella, R. 1994: The Īśvarapratyabhijñākārikā of Utpaladeva with the author's Vrtti, Serie Orientale Rome (71), ISMEO, Rome. 
+Torella, R. 1994: The Īśvarapratyabhijñākārikā of Utpaladeva with the author's Vṛtti, Serie Orientale Rome (71), ISMEO, Rome. 
 
-Torella, R. 1998: The kañcukas in the aiva and Vaiṣṇava Tantric Tradition: Some Considerations between Theology and Grammar, in G. Oberhammer, Studies in Hinduism Ī, Miscellanea to the Phenomenon of Tantras, Osterreichische Akademie der Wissenschaften, Wien, pp. 55-86. 
+Torella, R. 1998: The kañcukas in the Śaiva and Vaiṣṇava Tantric Tradition: Some Considerations between Theology and Grammar, in G. Oberhammer, Studies in Hinduism Ī, Miscellanea to the Phenomenon of Tantras, Osterreichische Akademie der Wissenschaften, Wien, pp. 55-86. 
 
 Torella, R. 1999: The Word in Abhinavagupta's Bṁadvimarśinī, in Actes du Congres Les Sources et le Temps', Pondichery, pp. 325-44. 
 
@@ -832,7 +832,7 @@ Törzsök, Judit 1999: The Doctrine of Magic Female Spirits: A critical edition 
 
 Tsuda, Sinichi 1978: The Sarivarodaya Tantra, Selected Chapters. Tokyo: The Hokuseido Press. 
 
-Tucci, G. 1930: Animadversiones Indicae, JASB, NȘ. (26) 125-60, reprinted in Tucci, 1971, vol. I, pp. 
+Tucci, G. 1930: Animadversiones Indicae, JASB, NṢ. (26) 125-60, reprinted in Tucci, 1971, vol. I, pp. 
 
 195-238. 
 
@@ -1060,19 +1060,19 @@ Aindrī, deity, 29/52-53, 33/3-5 aiṣtka, Vedic observance, 15/498-505 Aitarey�
 
 *[p. 381]* ^pg396
 
-Ajadapramātrsiddhi, 5/61cd-62ab Ajaramekhalā, \[illegible\] 29/29cd-33ab Ajeśa, one of twelve Suśivas, 8/249-251ab Ajita, Siddha, 29/29cd-33ab Ajitāgama, 5/1 12cd-113ab Akrta, one of the eight Yogas, 8/235cd-237, 264-271, 446 Akṣara, one of the places of almsgiving, 29/37-39 akula, 3/67; 4/170
+Ajadapramātṛsiddhi, 5/61cd-62ab Ajaramekhalā, \[illegible\] 29/29cd-33ab Ajeśa, one of twelve Suśivas, 8/249-251ab Ajita, Siddha, 29/29cd-33ab Ajitāgama, 5/1 12cd-113ab Akṛta, one of the eight Yogas, 8/235cd-237, 264-271, 446 Akṣara, one of the places of almsgiving, 29/37-39 akula, 3/67; 4/170
 Alinātha, Siddha, 29/33cd-34 Alipura (alias Hālā), 15/92-93ab; 29/59-63 end Amā, 6/92cd-96 Amaranātha, Siddha, 29/33cd-34, 37-39 Amarāvati, 8/43cd-56ab Amareśa, deity of the water principle, 8/203-204, 440cd-441ab Amaryādaśāstra see Nirmaryādaśāstrab amāvāsyā, 6/92cd-96 Ambā, sister of Abhinavagupta, 37/65, 37/79
 Ambarāpada, deity of the ether principle, 8/443cd-444ab Ambikā, deity of principle of pure knowledge, 8/450cd-451 Ambikā, śakti, 33/2
-Ambilla, one of the hermitage places, 29/37-39 Amitā, a deity, 8/395cd-397ab Amogha, a wind, 8/122cd-139ab Amrātikeśa, deity of the fire principle, 8/441cd-442ab Amrtā, deity, 8/395cd-397ab, 33/9cd-12 Amrtābha, one of the fifty Rudras, 33/9cd-12 Amyrtadrava, one of the fifty Rudras, 33/9cd-12 Amrtamūrti, one of the fifty Rudras, 33/9cd-12 Amrtāṁga, one of the fifty Rudras, 33/9cd-12 Arirtapūrṇa, one of the fifty Rudras, 33/9cd-12 Amrtasecana, one of the fifty Rudras, 33/9cd-12 Amrtāsya, one of the fifty Rudras, 33/9cd-12 Amrtasyandana, one of the fifty Rudras, 33/9cd-12 Amrtatanu, one of the fifty Rudras, 33/9cd-12 Amritaugha, one of the fifty Rudras, 33/9cd-12 Amrtavapus, one of the fifty Rudras, 33/9cd-12 Amrteśa, one of the fifty Rudras, 33/9cd-12 
+Ambilla, one of the hermitage places, 29/37-39 Amitā, a deity, 8/395cd-397ab Amogha, a wind, 8/122cd-139ab Amrātikeśa, deity of the fire principle, 8/441cd-442ab Amṛtā, deity, 8/395cd-397ab, 33/9cd-12 Amṛtābha, one of the fifty Rudras, 33/9cd-12 Amyṛtadrava, one of the fifty Rudras, 33/9cd-12 Amṛtamūrti, one of the fifty Rudras, 33/9cd-12 Amṛtāṁga, one of the fifty Rudras, 33/9cd-12 Arirtapūrṇa, one of the fifty Rudras, 33/9cd-12 Amṛtasecana, one of the fifty Rudras, 33/9cd-12 Amṛtāsya, one of the fifty Rudras, 33/9cd-12 Amṛtasyandana, one of the fifty Rudras, 33/9cd-12 Amṛtatanu, one of the fifty Rudras, 33/9cd-12 Amritaugha, one of the fifty Rudras, 33/9cd-12 Amṛtavapus, one of the fifty Rudras, 33/9cd-12 Amṛteśa, one of the fifty Rudras, 33/9cd-12 
 
-Amrteśaśikhā, Śaiva work, 28/237cd-248ab 
+Amṛteśaśikhā, Śaiva work, 28/237cd-248ab 
 
-amrtīkarana, (transformation into nectar), 15/292cd-295ab Amrtodgāra, one of the fifty Rudras, 33/9cd-12 Amrtormi, one of the fifty Rudras, 33/9cd-12 anāhata, sound not produced by vocal cords, 6/217-218 Ananta, 6/68cd-72ab, 8/9-10, 20cd-22ab, 178cd-18lab, 249-2519, 262cd- 263ab, 300cd-316, 318-319, 322-324, 326-327, 330cd-332ab, 341-355ab, 397cd-405ab, 407cd-408ab, 424cd-426, 428-434ab, 438cd-440ab, 447-448; 9/60-61, 147-149ab, 180-181, 186-189ab; 13/275cd-276ab; 15/297cd-303, 376cd-377, 33/9cd-12; 36/2-7ab Anantakārikā, 28/313-315; see also Śeṣakārikāb 
+amṛtīkarana, (transformation into nectar), 15/292cd-295ab Amṛtodgāra, one of the fifty Rudras, 33/9cd-12 Amṛtormi, one of the fifty Rudras, 33/9cd-12 anāhata, sound not produced by vocal cords, 6/217-218 Ananta, 6/68cd-72ab, 8/9-10, 20cd-22ab, 178cd-18lab, 249-2519, 262cd- 263ab, 300cd-316, 318-319, 322-324, 326-327, 330cd-332ab, 341-355ab, 397cd-405ab, 407cd-408ab, 424cd-426, 428-434ab, 438cd-440ab, 447-448; 9/60-61, 147-149ab, 180-181, 186-189ab; 13/275cd-276ab; 15/297cd-303, 376cd-377, 33/9cd-12; 36/2-7ab Anantakārikā, 28/313-315; see also Śeṣakārikāb 
 
 *[p. 382]* ^pg397
 
-Anantamekhalā, dūtī, 29/29cd-33ab Ananteśvara, deity, 4/31-32; 13/274cd-275ab; 15/183cd-190ab Anāśrita, 8/9-10, 397cd-405ab, 424cd-426; 9/55cd-59 Anātha, 8/397cd-405ab, 424cd-426 Anñga, island, 8/86
-Añguṣthamātra, 8/249-25lab, 298cd-300ab, 428-434b, 449-450ab; 16/117- 125ab, Aniruddha, Śaiva master, 1/46; 9/260cd-261ab; 13/293cd-295ab Anubhavastotra, see also Pramānstotrab Anugraheśvara, one of the fifty Rudras, 33/9cd-12 Anuttara (without superior), 1/5, 242-244; 2/34; 3/65-66, 93cd-103ab, 110- 113ab, 149cd-150ab, 157, 160-162ab, 188cd-190ab, 201cd-208ab, 220-225, 247cd-250ab; 4/209-210, 278; 5/42-43, 117, 119, 125, 144, 147; 12/26; 29/1 15cd-117ab; 36/8-9; 37/30-31 anuttaraprakriyã, 9/313
+Anantamekhalā, dūtī, 29/29cd-33ab Ananteśvara, deity, 4/31-32; 13/274cd-275ab; 15/183cd-190ab Anāśrita, 8/9-10, 397cd-405ab, 424cd-426; 9/55cd-59 Anātha, 8/397cd-405ab, 424cd-426 Anṅga, island, 8/86
+Aṅguṣthamātra, 8/249-25lab, 298cd-300ab, 428-434b, 449-450ab; 16/117- 125ab, Aniruddha, Śaiva master, 1/46; 9/260cd-261ab; 13/293cd-295ab Anubhavastotra, see also Pramānstotrab Anugraheśvara, one of the fifty Rudras, 33/9cd-12 Anuttara (without superior), 1/5, 242-244; 2/34; 3/65-66, 93cd-103ab, 110- 113ab, 149cd-150ab, 157, 160-162ab, 188cd-190ab, 201cd-208ab, 220-225, 247cd-250ab; 4/209-210, 278; 5/42-43, 117, 119, 125, 144, 147; 12/26; 29/1 15cd-117ab; 36/8-9; 37/30-31 anuttaraprakriyā, 9/313
 apāna, descending breath 3/113-116; 5/53cd-54ab, 86-90ab, 141; 6/21cd-28ab, 64-67ab, 113cd-114, 121-127, 219-221, 224-225ab; 7/59cd-60ab; 15/412cd- 41420, 474cd-478ab; 17/83-85ab, 19/17-20; 29/142cd-146ab, 146cd-147ab, 29/179; 29/278cd-281, 289cd-290; 32/16cd-17, 32-36, 37-40ab; 37/46
 Aparā, 1/2-3, 107-108, 139, 271-272; 3/247cd-250ab; 5/22-25ab; 10/7cd-9ab, 192, 194-195, 271cd-273ab; 15/318, 321, 323cd-325, 460-463ab; 16/12cd-15ab, 99, 101cd-105, 129-130, 212, 218cd-219ab, 232-233, 17/38cd-39ab, 40cd-45ab, 48, 50-57, 115cd-117; 29/46cd-48; 30/1 1cd-12ab; 31/39-41ab, 94-96, 97-99 Aparājita, one of the fifty Rudras, 33/14cd-17ab Aparamekhalā, dūtī, 29/33cd-34 Apsaras, 8/41cd-43ab aptoryāma, Vedic sacrifice, 15/498-505 Ardhanārīśvara, Ardhanārīśa, deity, 33/13-14ab Arghiśa, of the fifty Rudras, 33/9cd-12 Arnava see Yonyarnavab astra the weapon mantra, 15/49-55, 56, 69-73, 191cd-193, 232cd-233, 353cd- 358, 369-374ab, 447, 474cd-4 one 78ab, 61160-613; worship of, 15/377 ff, of Paśupati (pāśupata), 15/398-401ab; 17/30cd-33, 58-60; 9/621 of the command (codanāstra);, 29/192cd-195; mantric form, 30/42-43ab Arthanātha, deity, 30/102-104 arthavāda, 4/232cd-233 
 
@@ -1099,11 +1099,11 @@ Aanandādhikatantra, Aanandagahvaratantra, Ānandeśvaratantra) 13/353cd-355, 15
 
 Ārya, a deity, 30/102-104 
 
-āṣādha, the month (June-July) 28/36-39ab, 121cd-127ab ṣādhin, deity of the water principle, 8/440cd-441ab; 33/13-14ab āśrayaparāvrtti (turning around in the foundation of consciousness), 28/198- 203ab āśvayuja, month (September-October), 28/31-35, 36-39ab āśvayujī, vedic sacrifice, 15/498-505 Āvaha, a wind, 8/122cd-139ab 
+āṣādha, the month (June-July) 28/36-39ab, 121cd-127ab ṣādhin, deity of the water principle, 8/440cd-441ab; 33/13-14ab āśrayaparāvṛtti (turning around in the foundation of consciousness), 28/198- 203ab āśvayuja, month (September-October), 28/31-35, 36-39ab āśvayujī, vedic sacrifice, 15/498-505 Āvaha, a wind, 8/122cd-139ab 
 
 Āyurveda, 28/228cd-230a 
 
-Icchā, a goddess, 8/373cd-376; 15/305-306 idā, left channel, 6/198cd-199ab, 390-393, 418cd-420; 16/36cd-45ab; 17/30cd- 33; 29/257-258 Ikṣaṇeśāna, one of the eight Mahādevas, 8/249-25 lab, 449-450ab Ilāvrta, a continent, 8/68, 71, 79, 94-96 Illāiambā, dūtī, 29/29cd-33ab Indhikā, 8/283-289, 424cd-427 Indra, Vedic god and one of the guardians of the regions, 1/105, 123; 3/226-231; 6/68cd-72ab, 138cd-140ab; 8/43cd-56ab, 105, 119-120, 221-222, 226, 264-271; 15/222cd-225ab, 498-505; 30/1 1cd-12ab, 42-43ab 
+Icchā, a goddess, 8/373cd-376; 15/305-306 idā, left channel, 6/198cd-199ab, 390-393, 418cd-420; 16/36cd-45ab; 17/30cd- 33; 29/257-258 Ikṣaṇeśāna, one of the eight Mahādevas, 8/249-25 lab, 449-450ab Ilāvṛta, a continent, 8/68, 71, 79, 94-96 Illāiambā, dūtī, 29/29cd-33ab Indhikā, 8/283-289, 424cd-427 Indra, Vedic god and one of the guardians of the regions, 1/105, 123; 3/226-231; 6/68cd-72ab, 138cd-140ab; 8/43cd-56ab, 105, 119-120, 221-222, 226, 264-271; 15/222cd-225ab, 498-505; 30/1 1cd-12ab, 42-43ab 
 
 *[p. 384]* ^pg399
 
@@ -1117,7 +1117,7 @@ Tsa, 8/216-220, 249-25 lab
 
 Īśvara, one of the thirty-six princes, 1/327cd-328; the deity 6/38-45ab, 157-158, 160; 8/9-10; 9/50cd-53ab; 11/34cd-35, 36cd-39ab, 55cd-59; 15/432-436ab, 456cd-459, 463cd-466ab; 16/125cd-127, 213-216ab; 17/1 1cd-17; 30/2-3, one of the causal forces, 15/209cd-21 1, 226cd-229ab, 309-312; 24/17cd-20ab 
 
-uccãra (“utterance”), 1/170, 219; 5/17cd-19ab, 43-62ab, 62cd-73, 112cd-113ab, 131cd-133ab, 155cd-156ab; 6/60; 30/121cd-123ab 
+uccāra (“utterance”), 1/170, 219; 5/17cd-19ab, 43-62ab, 62cd-73, 112cd-113ab, 131cd-133ab, 155cd-156ab; 6/60; 30/121cd-123ab 
 
 Ucchuṣma, mythical Śaiva master, 28/391-393 
 
@@ -1132,7 +1132,7 @@ Utpaladeva, Śaiva master, 1/10; 3/1-4 note, 5-8 note, 84cd-85ab note; 5/138-139
 
 *[p. 385]* ^pg400
 
-Edābhī, a sacred place, 29/59-63 echo (pratiśruktā), 3/24-34 Ekāmra, a sacred place, 15/86cd-88 Ekanetra, one of the Vidyeśvaras, 6/68cd-72ab; 8/341-344 Ekaliñga, one of the eight Mahādevas, 8/249-25 la, 449-450ab Ekaliñgekṣanṇa, one of the Lords of the mandala, Ekarudra, one of the Vidyeśvaras, 6/68cd-72ab; 8/341-344 Ekaśiva, one of the twelve Suśivas, 8/249-25 lab, 428-434ab, 447-448 Ekavīra, 8/235cd-237, 249-25 lab, 300cd-301ab, 447-448; 16/117-125ab Elāpura, Elāpurī, a sacred place, 15/89-91; 29/59-63 Eraka (alias Erakavara, Naverakanāthe, Navera), Krama teacher,, 34, 37/60-61 hero (vīra), 22, 32, 34, 68; 12/17cd-20ab; 15/66-68, 166cd-167ab, 563; 16/57cd- 58ab; animal, 16/52cd-54ab; 28/91cd-92ab, 104cd-106ab, 29/6, 287cd-289ab Erudikā, a sacred place, 15, 89-93ab end note Erunṇā, dūtī of the Siddha Varadevanātha, 29/33cd-34 
+Edābhī, a sacred place, 29/59-63 echo (pratiśruktā), 3/24-34 Ekāmra, a sacred place, 15/86cd-88 Ekanetra, one of the Vidyeśvaras, 6/68cd-72ab; 8/341-344 Ekaliṅga, one of the eight Mahādevas, 8/249-25 la, 449-450ab Ekaliṅgekṣanṇa, one of the Lords of the mandala, Ekarudra, one of the Vidyeśvaras, 6/68cd-72ab; 8/341-344 Ekaśiva, one of the twelve Suśivas, 8/249-25 lab, 428-434ab, 447-448 Ekavīra, 8/235cd-237, 249-25 lab, 300cd-301ab, 447-448; 16/117-125ab Elāpura, Elāpurī, a sacred place, 15/89-91; 29/59-63 Eraka (alias Erakavara, Naverakanāthe, Navera), Krama teacher,, 34, 37/60-61 hero (vīra), 22, 32, 34, 68; 12/17cd-20ab; 15/66-68, 166cd-167ab, 563; 16/57cd- 58ab; animal, 16/52cd-54ab; 28/91cd-92ab, 104cd-106ab, 29/6, 287cd-289ab Erudikā, a sacred place, 15, 89-93ab end note Erunṇā, dūtī of the Siddha Varadevanātha, 29/33cd-34 
 
 OM, 6/161 note; 15/181-190ab; 17/1 1cd-13; 22/20-21 Oṁkāreśa, one of the ten Sivas, 8/368cd-373ab ovallī (current of knowledge), 4/274-275ab; 29/35-36 and note 
 
@@ -1145,7 +1145,7 @@ Kalpeśvara, 28/397-399
 
 Kalyāṇa, Śaiva master, 13/149-15 lab 
 
-Kāmamaṁgalā, dūtī of Meṣanātha, 29/29cd-33ab Kāmanātha, Siddha, 30/102-104 Kāmarūpa, a sacred place, 15/83cd-86ab; 29/37-39 Kāmikāgama (-tantra, saṁṁhitā), 1/58-6lab; 4/25cd-27; 6/lcd-90ab; 8/212cd- 214; 14/210-211; 32/9cd-10ab, 47cd-48 Kanāda, 1/158; 9/7 1cd-75ab, 297cd-299ab Kanakhala, deity of the wind principle, 8/442cd-443ab Kāñcī, 23/14cd-16ab Kañka, mountains, 8/97-98 Kantṭhyoṣṭthya, Kanṭhyauṣthya, one of eight Bhairava, 6/68cd-72ab; 8/368cd- 373ab; 29/160cd-161ab Kānti, 8/383-389; 33/6-7ab Kanyā, 
+Kāmamaṁgalā, dūtī of Meṣanātha, 29/29cd-33ab Kāmanātha, Siddha, 30/102-104 Kāmarūpa, a sacred place, 15/83cd-86ab; 29/37-39 Kāmikāgama (-tantra, saṁṁhitā), 1/58-6lab; 4/25cd-27; 6/lcd-90ab; 8/212cd- 214; 14/210-211; 32/9cd-10ab, 47cd-48 Kanāda, 1/158; 9/7 1cd-75ab, 297cd-299ab Kanakhala, deity of the wind principle, 8/442cd-443ab Kāñcī, 23/14cd-16ab Kaṅka, mountains, 8/97-98 Kantṭhyoṣṭthya, Kanṭhyauṣthya, one of eight Bhairava, 6/68cd-72ab; 8/368cd- 373ab; 29/160cd-161ab Kānti, 8/383-389; 33/6-7ab Kanyā, 
 
 a continent, 37/35, 37 Kapālīśa, 8/179cd-181ab, 438cd-440ab Kapila, 8/151cd-152ab, 280 Karabilla, a pilgrimage site, 29/37-39 Karālī, 33/3-5 Kāraṇeśa, one of the ten Śivas, 8/368cd-373ab Karaṁkiṇī, a mudrā, 32/4-6ab, 26 Kārkoṭa, one of eight Nāgas, 6/68cd-72ab Karmadeva, 8/43cd-54ab karman, 8/28cd-30ab, 78-72, 90-92; 9/78cd-8lab, 127cd-134ab, 135cd-137, 140-141, 167cd-169, 180-181, 186-189ab; 13/6cd-120ab, 231cd-234ab, 236- 238, 256cd-268ab, 271cd-274ab, 286-289; 14/lcd-5ab; 14-15; 15/27-30; 16/170cd-182, 302cd-309ab; 17/34-35, 63, 65-66, 69-70ab; 19/7-8; 28/217- 218ab, 222-224ab, 230cd-236ab, 264cd-269ab, 313-315; 29/209; 37/12cd-13ab, 36 karmasāmya (“balance of karman”, 13/37-96, 128-129ab, 259-262ab Karna, relative of Abhinavagupta, 37/65,76 kārttika, the month (October-November), 6/122cd-127ab, 148-150 
 
@@ -1155,13 +1155,13 @@ Kaśeru, region, 8/83-84 Kashmir, 8/212cd-214ab; 15/92-93ab; 37/39-40, 42, 44, 4
 
 *[p. 387]* ^pg402
 
-Kaulikī, 6/67, 136cd-137ab, 143 Kaumāra, one of the eight Yogas, 8/235cd-237 Kaumārī, 8/241cd-244ab; 28/10-14ab; 29/52-53; 33/3-5 Kauśika, one of the fifty Rudras, 33/14cd-17ab Kedāra, deity of the fire principle, 8/441cd-442ab Ketu, 6/65-67ab, 100-101 Ketumāla, a continent, 8/69-79, 108-109 Khadgin, 33/13-14ab Khagendranātha, Siddha, 29/29cd-33ab Khamalaṁñkrta, Khamala, one of the eight Bhairavas, 8/368cd-373ab; 29, 160cd- 16lab Khaṭvāṁga, weapon, 15/326-328ab khekarī (-mudra), 15/361-362; 29/150cd-156ab; 32/1-67 Khecarī, heart of (mantras), 16/159-161 Khecarīmatatantra, 29/164-166ab Khetṭaka, a sacred place, 15/92-93ab Kiṁpuruṣa, continent, 8/79
+Kaulikī, 6/67, 136cd-137ab, 143 Kaumāra, one of the eight Yogas, 8/235cd-237 Kaumārī, 8/241cd-244ab; 28/10-14ab; 29/52-53; 33/3-5 Kauśika, one of the fifty Rudras, 33/14cd-17ab Kedāra, deity of the fire principle, 8/441cd-442ab Ketu, 6/65-67ab, 100-101 Ketumāla, a continent, 8/69-79, 108-109 Khadgin, 33/13-14ab Khagendranātha, Siddha, 29/29cd-33ab Khamalaṅkṛta, Khamala, one of the eight Bhairavas, 8/368cd-373ab; 29, 160cd- 16lab Khaṭvāṁga, weapon, 15/326-328ab khekarī (-mudra), 15/361-362; 29/150cd-156ab; 32/1-67 Khecarī, heart of (mantras), 16/159-161 Khecarīmatatantra, 29/164-166ab Khetṭaka, a sacred place, 15/92-93ab Kiṁpuruṣa, continent, 8/79
 Kinnara, 8/43cd-56ab Kiraṇa, 8/368cd-373ab Kiranṇāgama (-tantra), 19; 1/75-77, 201; 4/40cd-42ab, 76cd-79; 5/112cd-113ab; 9/45cd-48ab, 144cd-146ab; 13/162-163ab, 283284; 15/18-19; 18/3cd-6, 11 Kīrti, 33/6-7ab Kopa, one of the fifty Rudras, 33/14cd-17ab Kramapūjanatantra, 29/2cd-3 Kramarahasayatantra, 29/14-16 Kramasadbhāva, 12/22cd-25 Kramastotra, 60, 75; 4/164-167 Krau~ca, an island, 8/103cd-104 krechra, a penance, 15/540cd-545 Kriyā, a goddess, 8/373cd-373; 15/305-306 Krodha, deity of Pure Knowledge, 8/450cd-451 Krodhanā, a variety of Khecarīmudrā, 32/4-6ab Krodheśa, a deity from the beginning Pure Knowledge, 8/447-448; 16/117- 125ab Krodheśvara, deity of the Nature principle, 8/272-273ab Krodheśvaras, group of eight deities, 8/235cd-237, 251cd-253ab note, 417- 418ab, 428-34ab 
 
 Krodhin, ancient Śaiva master, 28/391-393 
 
-Kroṣṭukī, 33/3-5 Krṣna, 3/113cd-116; 37/65
-Krṣnāṁgārā, a city, 8/43cd-45ab Krta, one of the eight Yogas, 8/235cd-237, 264-271 Krtānta, one of the ‚Lords of Wrath, 8/235cd-237 Krūra, one of the fifty Rudras, 33/9cd-12 Kṣapaṇa, one of the eight Bhairavas, 8/368cd-373ab; 29/160cd-161ab Kṣayānta, Kṣayāntastha, one of the eight Bhairavas, 8/368cd-373ab; 29/160cd- 
+Kroṣṭukī, 33/3-5 Kṛṣna, 3/113cd-116; 37/65
+Kṛṣnāṁgārā, a city, 8/43cd-45ab Kṛta, one of the eight Yogas, 8/235cd-237, 264-271 Kṛtānta, one of the ‚Lords of Wrath, 8/235cd-237 Krūra, one of the fifty Rudras, 33/9cd-12 Kṣapaṇa, one of the eight Bhairavas, 8/368cd-373ab; 29/160cd-161ab Kṣayānta, Kṣayāntastha, one of the eight Bhairavas, 8/368cd-373ab; 29/160cd- 
 
 Kṣema (is this Kṣemarāja?), 37/67 
 
@@ -1196,7 +1196,7 @@ ghara (house), 4/263cd-270ab; 29/37-39
 
 Ghora, legendary Śaivite master, 28/391-393 
 
-Ghorā, fierce powers, 3/73cd-75ab, 257cd-259ab; 4/205-206 Ghoramukha, a deity, 30/20-26ab Ghoramukhī, 30/20-26ab Ghorānana, 30/20-26ab Ghoratarā, most fierce powers, 3/257cd-259ab; 4/22cd-24ab, 205-206 Ghoṣanī, 33/3-5 ghrteśa, a vow, 15/506-508 
+Ghorā, fierce powers, 3/73cd-75ab, 257cd-259ab; 4/205-206 Ghoramukha, a deity, 30/20-26ab Ghoramukhī, 30/20-26ab Ghorānana, 30/20-26ab Ghoratarā, most fierce powers, 3/257cd-259ab; 4/22cd-24ab, 205-206 Ghoṣanī, 33/3-5 ghṛteśa, a vow, 15/506-508 
 
 caitra, month (March-April), 6/1 19-120, 123cd-125; 28/36-39ab Caitrarathra, forest, 8/60cd-63ab caitrī, vedic sacrifice, 15/498-505 cakra, assembly of deities, energies, letters etc etymology of, 29/104-106ab; centres in the subtle body, 58; 15/494cd-496; 24/10cd-12; 38/14cd-18ab note; 32/32-36 Cakraka, cousin of Abhinavagupta, 37/67
 camatkāra (“wonder, amazement”), 5/74; 11/76cd-78ab; 26; 29/176
@@ -1251,10 +1251,10 @@ Tirumūlar, Saiva master of South India, 37/12cd-13ab Tiṣya, asterism, 28/36-3
 
 *[p. 393]* ^pg408
 
-Trika, Śaiva school, 1/14-18, 106; 7/53-56; 10/1-2; 11/85cd-89 note; 13/300cd- 302, 319cd-302, 319cd-321ab, 347cd-348; 15/319-320, 409cd-410 note, 517; 16/158; 22/40cd-42; 23/73cd-76, 99-100ab; 25/1-2ab; 26/20; 28/423b425ab; 29/93-95; 30/1, 20-26ab; 31/45-50ab; 33/1; 35/31-32; 37/25cd-29, 32-68 Trikahrdaya, Śaiva scripture, 31/54-59; see also Trikasārab Trikakula, Saiva scripture, 28/14cd-18ab; 31/60-61 Trikaratnakula, Śaiva work, 31/60-61 Trikasadbhāva, 31/10cd-1 lab, 60-61; see also Tantrasadbhavab Trikasāra (alias Trikatantrasāra, Tantrasāra, Mālinīsāra, Sāra, Trikahrdaya), 3/253cd-254ab; 8/320-321ab; 13/121cd-125ab; 15/168cd-170ab, 252cd-253ab; 16/252-253ab; 23/97-98; 28/48cd-52; 31/60-61 TrikaŚāstra, Trikaśāsana, Śaiva work, 4/274-275ab Trikasūtra si veda Parātriśikāb Trikūṭa, Mountain, 8/86
+Trika, Śaiva school, 1/14-18, 106; 7/53-56; 10/1-2; 11/85cd-89 note; 13/300cd- 302, 319cd-302, 319cd-321ab, 347cd-348; 15/319-320, 409cd-410 note, 517; 16/158; 22/40cd-42; 23/73cd-76, 99-100ab; 25/1-2ab; 26/20; 28/423b425ab; 29/93-95; 30/1, 20-26ab; 31/45-50ab; 33/1; 35/31-32; 37/25cd-29, 32-68 Trikahṛdaya, Śaiva scripture, 31/54-59; see also Trikasārab Trikakula, Saiva scripture, 28/14cd-18ab; 31/60-61 Trikaratnakula, Śaiva work, 31/60-61 Trikasadbhāva, 31/10cd-1 lab, 60-61; see also Tantrasadbhavab Trikasāra (alias Trikatantrasāra, Tantrasāra, Mālinīsāra, Sāra, Trikahṛdaya), 3/253cd-254ab; 8/320-321ab; 13/121cd-125ab; 15/168cd-170ab, 252cd-253ab; 16/252-253ab; 23/97-98; 28/48cd-52; 31/60-61 TrikaŚāstra, Trikaśāsana, Śaiva work, 4/274-275ab Trikasūtra si veda Parātriśikāb Trikūṭa, Mountain, 8/86
 Trimūrti, one of the Vidyeśvara, 6/68cd-72ab; 8/341-344; 33/9cd-12 Tripurāntaka, one of the eight Ardors, 8/235cd-237 Tripurottara, holy place, 29/37-39 Triśirobhairavatantra (alias Triśirastantra, Triśiromata, Triśirahśastra, 
 
-Traiśirasa, etc.), 1/89-90, 113-114, 116, 136; 2/32; 3/137cd-140, 254cd-257ab; 5/9-10ab, 20-21, 86-90ab, 108cd-112ab, 136cd-137; 6/21cd-28ab; 8/12-16ab; 15/69-73ab, 183cd-190ab, 432-436ab, 540cd-545; 16/3-4, 110cd-113; 17/83- 85ab; 28/60cd-63, 145cd-146ab, 320b324ab; 29/9, 109cd-11lab, 140-141ab; 30/12cd-14, 27-28ab, 28cd-36ab; 31/60-61, 100 Triśrṁga, chain of mountains, 8/63cd-67 Triśulinī, variety of mudrā Eterovagra, 32/4-6ab Throne (āsana), 15/308-323ab, 339-343ab, 376cd-377; 16/78-80; 27/53-58ab; 29/81; 30/4-9ab; Tryambaka, Tryambakāditya, Teramba, mythical founder of a Śaiva movement, 1/8; 4/263cd-270ab; 6/88cd-91ab; 36/11-12; 37/60-61 Tryambaka Half of, Trika, 4/263cd-70ab; 36/11-12. 
+Traiśirasa, etc.), 1/89-90, 113-114, 116, 136; 2/32; 3/137cd-140, 254cd-257ab; 5/9-10ab, 20-21, 86-90ab, 108cd-112ab, 136cd-137; 6/21cd-28ab; 8/12-16ab; 15/69-73ab, 183cd-190ab, 432-436ab, 540cd-545; 16/3-4, 110cd-113; 17/83- 85ab; 28/60cd-63, 145cd-146ab, 320b324ab; 29/9, 109cd-11lab, 140-141ab; 30/12cd-14, 27-28ab, 28cd-36ab; 31/60-61, 100 Triśṛṁga, chain of mountains, 8/63cd-67 Triśulinī, variety of mudrā Eterovagra, 32/4-6ab Throne (āsana), 15/308-323ab, 339-343ab, 376cd-377; 16/78-80; 27/53-58ab; 29/81; 30/4-9ab; Tryambaka, Tryambakāditya, Teramba, mythical founder of a Śaiva movement, 1/8; 4/263cd-270ab; 6/88cd-91ab; 36/11-12; 37/60-61 Tryambaka Half of, Trika, 4/263cd-70ab; 36/11-12. 
 
 Tucci, G., 1/43-44 Tumburu, 8/43cd-56ab; 15/92-93ab 
 

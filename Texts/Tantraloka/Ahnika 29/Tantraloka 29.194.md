@@ -31,5 +31,8 @@ yāvatsa stobhamāyātaḥ svayaṃ patati mūrdhani |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 356–357)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.192–195]]
+
 Jayaratha comments on this verse together with 29.195: see [[Tantraloka 29.195#Viveka|29.195]].
 

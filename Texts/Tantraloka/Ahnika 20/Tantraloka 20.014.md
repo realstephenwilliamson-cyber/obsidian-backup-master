@@ -36,6 +36,11 @@ deho hi pārthivo mukhyastadā mukhyatvamujjhati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 239–242)
+> ![[Tantraloka Dyczkowski v09 11 - Chapter Twenty#Viveka on 20.14]]
+>
+> ![[Tantraloka Dyczkowski v09 11 - Chapter Twenty#Viveka on 20.14–15]]
+
 *Lead-in:* ननु अत्र तुलादीक्षायाः कटाक्षीकरणे किमवस्थितम्?-- इत्याशङ्क्याह--
 
 > उद्भवो लघुभावेन देहग्रहतिरोहितेः ।

@@ -34,6 +34,9 @@ tattarkasādhanāyāstu yamāderapyupāyatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 126)
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.105]]
+
 *Lead-in:* ननु यद्येवं तत्कथं स्वपरामर्शात्मनस्तर्कस्य द्वैतशङ्कानिर्मूलत्वं प्रागुक्तम् ? इत्याशङ्क्याह --
 
 > द्वैतशङ्काश्च तर्केण तर्क्यन्त इति वर्णितम् ।

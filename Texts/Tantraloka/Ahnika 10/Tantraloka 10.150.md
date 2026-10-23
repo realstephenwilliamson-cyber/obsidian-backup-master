@@ -31,6 +31,9 @@ bhedeṣvanyonyato bhedāttathā tattvāntaraiḥ saha || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 387–388)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.150–151]]
+
 *Lead-in:* नन्वेकैव धरा सकलादिभिरैकैकध्येन द्विकत्रिकादिक्रमात्साहित्येन वा वेद्यत इति कथं पाञ्चदश्यादेरप्याधिक्यं न स्यात्? -- इत्याशङ्क्याह --
 
 > शक्तिशक्तिमतां भेदादन्योन्यं तत्कृतेष्वपि ।

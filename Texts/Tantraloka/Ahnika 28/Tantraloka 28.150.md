@@ -31,6 +31,9 @@ na tu duḥkhaprade kṛṣṇe kartṛrāṣṭranṛpādiṣu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 75)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.148–150]]
+
 > ये नराः समयभ्रष्टा गुरुशास्त्रादिदूषकाः ।
 > नित्यनैमित्तिकाद्यन्यपर्वसन्धिविवर्जिताः ॥
 > अकामात् कामतो वापि सूक्ष्मपापप्रवर्तिनः ।

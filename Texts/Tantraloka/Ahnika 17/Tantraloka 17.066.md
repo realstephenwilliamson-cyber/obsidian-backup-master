@@ -34,6 +34,9 @@ pūrṇāhutyā samaṃ vahnimantratejasi nirdahet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 168–169)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.65–66]]
+
 > ततोऽपि जलतत्त्वस्य वह्नौ व्योम्नि चिदात्मके ।
 > आह्वानाद्यखिलं यावत्तेजस्यस्य विमिश्रणम् ॥
 > एवं क्रमात्कलातत्त्वे शुद्धे पाशं भुजाश्रितम् ।

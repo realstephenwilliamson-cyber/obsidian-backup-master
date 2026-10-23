@@ -31,6 +31,9 @@ evaṃ bhramaravedhena śāktavedha udāhṛtaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 385–388)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.246–247]]
+
 > आकारं नवधा देहे न्यस्य संक्रमयेत्ततः ॥
 > न्यासयोगेन शिष्याय दीप्यमानं महार्चिषम् ।
 > पाशस्तोभात्ततस्तस्य परतत्त्वे तु योजनम् ॥

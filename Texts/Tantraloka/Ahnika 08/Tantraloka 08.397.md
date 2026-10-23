@@ -37,6 +37,11 @@ madhyato vyāpinī tasyāṃ vyāpīśo vyāpinīdharaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 368–372)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.395–397]]
+>
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.397–399]]
+
 *Lead-in:* ननु व्यापिनी शक्तेः पृथगिति तावदविवादः, तत्किं तस्याः शक्तितत्त्वे एवावस्थानम् उत न ? -- इत्याशङ्क्याह -
 
 Jayaratha comments on this verse together with 8.396: see [[Tantraloka 08.396#Viveka|8.396]].

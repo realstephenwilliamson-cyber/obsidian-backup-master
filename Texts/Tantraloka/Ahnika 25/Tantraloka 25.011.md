@@ -31,6 +31,9 @@ tatsantānajuṣāmaikyadinaṃ parvadinaṃ bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 360)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.11]]
+
 *Lead-in:* ननु अयमाचारो दृश्यते यज्ज्ञानिनामपि मृतिदिनादौ महाजनाश्चक्रार्चादि प्रकुर्वन्ति, तत्किमेतदुक्तम् ?--इत्याशङ्क्याह--
 
 > तेषां तु गुरु तद्वर्गवर्ग्यसब्रह्मचारिणाम् ।

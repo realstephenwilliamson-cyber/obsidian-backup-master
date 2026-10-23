@@ -33,6 +33,11 @@ adhaḥsthadṛkstho'pyetādṛggurusevī bhavetsa yaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 325)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.322–323]]
+>
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.323–324]]
+
 *Lead-in:* नन्वेवंविधोऽप्यूर्ध्वस्थो गुरुरधःस्थे वैष्णवादौ किं कुर्यात्, नह्यसावेतदनुग्रहस्य पात्रम्? -- इत्याशङ्क्याह --
 
 > अधःस्थदृक्स्थोऽप्येतादृग्गुरुसेवी भवेत्स यः ॥

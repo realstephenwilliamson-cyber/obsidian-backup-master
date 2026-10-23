@@ -36,6 +36,11 @@ dhyeyodreko bhaved dhyātṛprahvībhāvavaśādyataḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 149–150)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.17–18]]
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.18–19]]
+
 *Lead-in:* एवमागमान्तरमप्येवमेव व्याख्येयमित्यस्मद्गुरवः--इत्याह--
 
 > आवाह्येष्ट्वा प्रतर्प्येति श्रीस्वच्छन्दे निरूपितम् ॥

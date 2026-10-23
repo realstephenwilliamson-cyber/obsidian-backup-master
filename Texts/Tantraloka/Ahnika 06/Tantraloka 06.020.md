@@ -34,6 +34,9 @@ nāstikyavāsanāmāhuḥ pāpātpāpīyasīmimām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 235–237)
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.19–20]]
+
 > अदार्ढ्यशङ्कनात्प्राच्यवासनातादवस्थ्यतः ।
 > अन्यकर्तव्यशैथिल्यात्संभाव्यानुशयत्वतः ॥
 > अतद्रूढान्यजनताकर्तव्यपरिलोपनात् ।

@@ -34,6 +34,9 @@ tannirṇetaṃ prakaraṇamidamārabhe'haṃ dvitīyam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 2)
+> ![[Tantraloka Dyczkowski v02 02 - Chapter Two, part 1#Viveka on 2.1]]
+
 *Lead-in:* इतिस्थित्या आणवादीनां यथायथमुत्कर्षादिह पूर्वपूर्वमेवाभिधानमिष्यते इत्युपेयैकरूपत्वेन शांभवादप्यनुपायस्योत्कृष्टत्वम्, इति प्रथमं तत्स्वरूपमेवाभिधातुमाह्निकान्तरारम्भं द्वितीयार्धेन प्रतिजानीते—
 
 > यत्तत्राद्यं पदमविरतानुत्तरज्ञप्तिरूपं ।

@@ -33,6 +33,11 @@ visṛjati yato vicitraḥ sargo vigataśca yatra sarga iti || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 326)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.140]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.140 (2)]]
+
 *Lead-in:* प्रकृतमेव उपसंहरति--
 
 > त्रिविधो विसर्ग इत्थं सङ्घट्टः प्रोदितस्तथा शान्तः ।

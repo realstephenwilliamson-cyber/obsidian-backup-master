@@ -33,6 +33,11 @@ sā māyā kṣobhamāpannā viśvaṃ sūte samantataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 142–144)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.163–164]]
+>
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.164–166]]
+
 *Lead-in:* एवमेतत्प्रसङ्गादभिधाय प्रकृतमेवानुसरति --
 
 Jayaratha comments on this verse together with 9.163: see [[Tantraloka 09.163#Viveka|9.163]].

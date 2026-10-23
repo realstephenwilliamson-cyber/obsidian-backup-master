@@ -32,6 +32,11 @@ etattantre samayyādikramādāptottarakriyaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 291–292)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 15.472–474.*
+>
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.472–474]]
+
 *Lead-in:* ननु समयिनोऽपि पूर्वभाविनी लिङ्गोद्धारदीक्षा संभवति, तत् समयी राजपुत्रवदित्येव कस्मादिह उक्तम् ?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 15.473: see [[Tantraloka 15.473#Viveka|15.473]].

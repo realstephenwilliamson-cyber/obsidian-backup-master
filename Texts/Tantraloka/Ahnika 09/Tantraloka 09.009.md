@@ -36,6 +36,11 @@ svatantraṃ ca jaḍaṃ ceti tadanyonyaṃ virudhyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 16–17)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.9]]
+>
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.9 (2)]]
+
 *Lead-in:* अत आह --
 
 > स्वतन्त्रता च चिन्मात्रवपुषः परमेशितुः ।

@@ -31,6 +31,9 @@ kathaṃ śrūyeta mandaḥ sannahi dharmāntarāśrayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 277)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.303–304]]
+
 > न चासौ प्रथमः शब्दस्तावद्व्यापीति युज्यते ॥
 > तत्रस्थैः सह तीव्रात्मा श्रूयमाणस्त्वनेन तु ।
 > कथं श्रूयेत मन्दः सन्नहि धर्मान्तराश्रयः ॥

@@ -31,6 +31,9 @@ amuṣmācchāmbhavācchūlāddhrāsayeccaturaṃgulam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 223–224)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.363]]
+
 *Lead-in:* अत्रैव देवीत्रयप्राधान्येन अपि व्याप्तिं दर्शयति--
 
 > अमुष्माच्छाम्भवाच्छूलाद्ध्रसयेच्चतुरंगुलम् ।

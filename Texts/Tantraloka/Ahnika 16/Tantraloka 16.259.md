@@ -37,6 +37,11 @@ pūrvapūrvakramāditthaṃ ya evādiguroḥ purā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 112–113)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.257–259]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.259–260]]
+
 *Lead-in:* एवं हि मूलक्षतिकारिणी इयमनवस्था परापतेत् ?--इत्याशङ्क्याह--
 
 > पूर्वपूर्वक्रमादित्थं य एवादिगुरोः पुरा ॥

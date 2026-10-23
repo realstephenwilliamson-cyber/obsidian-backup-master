@@ -31,6 +31,9 @@ kapolakaṇṭhaśobhopaśobhādibahucitritam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 103)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.83–85]]
+
 > कर्णिका पीतवर्णेन मूलमध्याग्रभेदतः ।
 > सितं रक्तं तथा पीतं कार्यं केसरजालकम् ॥
 > दलानि शुक्लवर्णानि प्रतिवारणया सह ।

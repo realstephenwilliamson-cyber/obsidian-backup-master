@@ -36,6 +36,11 @@ yāḥ ṣoḍaśoktāstithayastāsu ye pūrvapaścime || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 301–303)
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.76]]
+>
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.76–77]]
+
 *Lead-in:* तमेवाह -
 
 > दिनं कृष्णो निशा शुक्लः पक्षौ कर्मसु पूर्ववत् ।

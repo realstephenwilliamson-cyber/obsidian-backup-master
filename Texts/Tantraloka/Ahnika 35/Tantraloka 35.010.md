@@ -33,6 +33,11 @@ na ca cetaḥ prasattyaiva sarvo vyavahṛtikramaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 194–196)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.9–10]]
+>
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.10–11]]
+
 *Lead-in:* ननु किं प्रसिद्ध्या, चेतःप्रसादमात्रनिबन्धन एव अस्तु व्यवहारः?-- इत्याशङ्क्य आह--
 
 > न च चेतः प्रसत्त्यैव सर्वो व्यवहृतिक्रमः ॥

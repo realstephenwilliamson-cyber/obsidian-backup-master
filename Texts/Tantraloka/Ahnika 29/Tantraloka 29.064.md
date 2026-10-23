@@ -31,6 +31,9 @@ ityevaṃ vāsanāṃ kuryātsarvadā smṛtimātrataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 257–258)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.64]]
+
 *Lead-in:* न च अत्र तात्स्थ्येन अवस्थातव्यं किन्तु अहमेव पीठस्तदधिष्ठात्र्यः शक्त्यश्चेति अनुसन्धातव्यं येन सिद्धिः स्यात्--इत्याह--
 
 > नाहमस्मि नचान्योऽस्ति केवलाः शक्तयस्त्वहम् ।

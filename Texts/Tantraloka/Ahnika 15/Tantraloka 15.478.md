@@ -34,6 +34,11 @@ punarviśecca hṛccakramitthaṃ nidrāvidhikramaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 293–294)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.474–478]]
+>
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.478–479]]
+
 *Lead-in:* ननु एवं सति किं स्यात् ?--इत्याशङ्क्य आह--
 
 > आयातनिद्रः शिष्योऽसौ निर्मलौ शशिभास्करौ ॥

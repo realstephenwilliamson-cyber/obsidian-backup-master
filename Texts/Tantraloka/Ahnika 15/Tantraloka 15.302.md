@@ -31,6 +31,9 @@ māyāgrantherūrdhvabhūmau triśūlādhaścatuṣkikām |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 178–180)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.302–303]]
+
 > न्यस्येदाधारशक्तिं तु नाभ्यधश्चतुरंगुलाम् ॥
 > धरां सुरोदं तेजश्च मेयपारप्रतिष्ठितेः ।
 > पोतरूपं मरुत्कन्दस्वभावं विश्वसूत्रणात् ॥

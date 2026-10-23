@@ -35,6 +35,9 @@ aliases:
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 122–123)
+> ![[Tantraloka Dyczkowski v04 05 - Chapter Five, part 3#Viveka on 5.93–94]]
+
 *Lead-in:* ननु खशब्दस्य स्वरूपाविशेषेऽपि कुतस्त्योऽयं दशधा भिन्नोऽर्थः ? -- इत्याशङ्क्याह --
 
 > आत्माणुकुलमूलानि शक्तिभूतिश्चिती रतिः ।

@@ -31,6 +31,9 @@ guruparvakramātproktā bhede pañcadaśātmake || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 417–418)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.199]]
+
 *Lead-in:* एतदेवोपसंहरति --
 
 > एवं धरादिमूलान्तं प्रक्रिया प्राणगामिनी ।

@@ -36,6 +36,11 @@ evaṃ pañcāśadāmarśapūrṇaśaktirmaheśvaraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 313–314)
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.195–196]]
+>
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.196–197]]
+
 *Lead-in:* नन्वेवं विश्वरूपतायामस्यानैक्यं स्यात्, इत्यद्वयहानिः ? -- इत्याशङ्क्याह --
 
 > एवं पञ्चाशदामर्शपूर्णशक्तिर्महेश्वरः ॥

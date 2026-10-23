@@ -35,6 +35,9 @@ naitatkāraṇatārūpaparāmarśāvarodhi yat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 270–272)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.258–260]]
+
 *Lead-in:* एतदेव प्रतिविधत्ते --
 
 > नैतत्कारणतारूपपरामर्शावरोधि यत् ॥

@@ -31,6 +31,9 @@ sātra śāstreṣu no kāryā kāryā sādhāraṇī punaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 403–404)
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.6–8]]
+
 > उक्तं ज्ञानोत्तरायां च तदेतत्परमेशिना ।
 > शिवो यागप्रियो यस्माद्विशेषान्मातृमध्यगः ॥
 > तस्माद्रहस्यशास्त्रेषु ये मन्त्रास्तान्बुधो बहिः ।

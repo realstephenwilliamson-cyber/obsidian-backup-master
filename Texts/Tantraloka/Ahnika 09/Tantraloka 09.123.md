@@ -33,6 +33,11 @@ lakṣyate sukhaduḥkhādyaiḥ samāne dṛṣṭakāraṇe || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 108–109)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.123]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.123–124]]
+
 *Lead-in:* ननु यद्येवं तत् कार्यात् पूर्वं सामग्र्यन्तरनुप्रविष्टस्यापि वह्न्यादेः किं कारणत्वं स्यान्न वा ? -- इत्याशङ्क्याह --
 
 > पूर्वकस्य तु हेतुत्वं पारम्पर्येण...........

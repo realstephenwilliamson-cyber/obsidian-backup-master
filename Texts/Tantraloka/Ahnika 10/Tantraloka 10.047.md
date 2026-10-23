@@ -31,6 +31,9 @@ iha tu jñānamarthasya na kiñcitkarameva tat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 324–325)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.46–48]]
+
 > वायुः पातयतीत्यत्र निमित्तं तत्कृता क्रिया ॥
 > गिरौ येनैष संयोगनाशाद् भ्रंशं प्रपद्यते ।
 > इह तु ज्ञानमर्थस्य न किञ्चित्करमेव तत् ॥

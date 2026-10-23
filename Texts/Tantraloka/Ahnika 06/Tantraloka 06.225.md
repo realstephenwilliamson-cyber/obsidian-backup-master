@@ -37,6 +37,11 @@ kālo'rdhamātraḥ kādīnāṃ trayastriṃśata ucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 429–430)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.224–225]]
+>
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.225–226]]
+
 *Lead-in:* एवं सूक्ष्मसूक्ष्मं वर्णोदयमभिधाय सूक्ष्मस्थूलमप्याह --
 
 > कालोऽर्धमात्रः कादीनां त्रयस्त्रिंशत उच्यते ॥

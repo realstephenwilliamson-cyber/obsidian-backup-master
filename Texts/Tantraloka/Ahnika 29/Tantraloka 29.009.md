@@ -31,6 +31,9 @@ jñānajñeyamayaṃ kaulaṃ proktaṃ traiśirase mate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 207–208)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.9]]
+
 *Lead-in:* ननु अत्र बाह्यस्नानादावनवकॢप्तौ किं निमित्तम्?--इत्याशङ्क्य आह--
 
 > षण्मण्डलविनिर्मुक्तं सर्वावरणवर्जितम् ।

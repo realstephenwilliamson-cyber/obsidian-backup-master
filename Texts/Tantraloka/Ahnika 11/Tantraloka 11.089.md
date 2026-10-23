@@ -35,6 +35,9 @@ parāparādimantrāṇāmadhvanyuktā vyavasthitiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 80–81)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.89]]
+
 *Lead-in:* अत एवात्र सर्वेषामेव मन्त्राणामध्वनि शोधकतया व्यवस्थितिरुक्ता -- इत्याह --
 
 > अतः शोधकभावेन शास्त्रे श्रीपूर्वसंज्ञिते ।

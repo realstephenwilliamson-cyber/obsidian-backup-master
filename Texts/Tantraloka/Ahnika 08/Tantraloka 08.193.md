@@ -37,6 +37,13 @@ prāktanī pārameśī sā pauruṣeyī ca sā punaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 210–218)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.190–193]]
+>
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.190–193 (continued)]]
+>
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.193–194]]
+
 *Lead-in:* इदानीमप्तत्त्वे भुवनानि वक्तुमुपक्रमते --
 
 Jayaratha comments on this verse together with 8.192: see [[Tantraloka 08.192#Viveka|8.192]].

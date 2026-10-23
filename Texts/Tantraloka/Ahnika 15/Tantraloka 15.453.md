@@ -34,6 +34,11 @@ cakṣurādīndriyāṇāṃ hi sahakāriṇi tādṛśe || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 278–279)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.452–453]]
+>
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.453–454]]
+
 > चक्षुरादीन्द्रियाणां हि सहकारिणि तादृशे ॥
 > सत्यत्यन्तमदृष्टे प्रागपि जायेत योग्यता ।
 

@@ -35,6 +35,9 @@ vijahati bhedavibhāgaṃ nijaśaktyā taṃ samindhānāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 388–389)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.262]]
+
 *Lead-in:* अत आह --
 
 > निजबोधजठरहुतभुजि भावाः सर्वे समर्पिता हठतः ।

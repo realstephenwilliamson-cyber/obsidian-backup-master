@@ -31,6 +31,9 @@ vadanbhogādyupāyatvaṃ dīkṣāyāḥ prāha no guruḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 3–4)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.2–4]]
+
 > यो यत्राभिलषेद्भोगान् स तत्रैव नियोजितः ॥
 > सिद्धिभाङ्मन्त्रशक्त्येति श्रीमत्स्वायंभुवे विभुः ।
 > योग्यतावशतो यत्र वासना यस्य तत्र सः ॥

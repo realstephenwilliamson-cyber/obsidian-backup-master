@@ -31,6 +31,9 @@ avalokya paraṃ brahma tatpibedājñayā guroḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 409)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.285–287]]
+
 > चक्रचर्यान्तरालेऽस्या विधिः सञ्चार उच्यते ॥
 > अलिपात्रं सुसंपूर्णं वीरेन्द्रकरसंस्थितम् ।
 > अवलोक्य परं ब्रह्म तत्पिबेदाज्ञया गुरोः ॥

@@ -37,6 +37,11 @@ sthūlo vargodayaḥ so'yamathārṇodaya ucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 446–447)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.244–245]]
+>
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.245–246]]
+
 *Lead-in:* एवं वर्णानां वर्गक्रमेण स्थूलमुदयमभिधाय क्रमान्तरेणाप्याह --
 
 > स्थूलो वर्गोदयः सोऽयमथार्णोदय उच्यते ॥

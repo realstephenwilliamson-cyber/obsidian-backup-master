@@ -31,5 +31,10 @@ pāśāndahantīṃ saṃdīptāṃ cintayettanmayo guruḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 362–363)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 29.204–206.*
+>
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.204–206]]
+
 Jayaratha comments on this verse together with 29.206: see [[Tantraloka 29.206#Viveka|29.206]].
 

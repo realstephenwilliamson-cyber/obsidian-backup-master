@@ -32,5 +32,8 @@ tasyābhiṣvaṅgabhūmistu gurvārādhanasiddhaye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 322–323)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.534–537]]
+
 Jayaratha comments on this verse together with 15.539: see [[Tantraloka 15.539#Viveka|15.539]].
 

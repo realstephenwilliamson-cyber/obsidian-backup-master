@@ -33,6 +33,11 @@ anyathāvyākṛtau kḷptāvasatyatve prarocane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 215–216)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.40]]
+>
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.40–41]]
+
 *Lead-in:* अभ्युपगम्य अपि आह--
 
 > अस्मिन्नंशेऽप्यमुष्यैव प्रामाण्यं स्यात्तथोदितेः ।

@@ -34,6 +34,9 @@ abhātatvādabhedācca nahyasau nṛśivātmanoḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 147–148)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.15]]
+
 *Lead-in:* अत एवाह--
 
 > शाक्ती भूमिश्च सैवोक्ता यस्यां मुख्यास्ति पूज्यता ।

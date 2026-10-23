@@ -31,5 +31,8 @@ aṇuśaktiśivātmetthaṃ dhyātvā saṃmilitaṃ trayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 47–48)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.88–91]]
+
 Jayaratha comments on this verse together with 28.90: see [[Tantraloka 28.090#Viveka|28.90]].
 

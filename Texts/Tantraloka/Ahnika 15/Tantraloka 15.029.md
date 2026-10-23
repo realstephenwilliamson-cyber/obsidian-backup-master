@@ -31,6 +31,9 @@ lokadharmiṇyasau dīkṣā mantrārādhanavarjitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 23–27)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.27–29]]
+
 > अभावं भावयेत्सम्यक्कर्मणां प्राच्यभाविनाम् ।
 > मुमुक्षोर्निरपेक्षस्य प्रारब्ध्रेकं न शोधयेत् ॥
 > साधकस्य तु भूत्यर्थमित्थमेव विशोधयेत् ।

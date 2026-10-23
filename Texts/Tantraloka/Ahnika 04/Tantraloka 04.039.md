@@ -34,6 +34,9 @@ sa śuddhavidyāmāhātmyācchaktipātapavitritaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 49)
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.39–40]]
+
 *Lead-in:* ननु यदि वैष्णवादिरयं जनो मायया भ्रमितः तत् तस्य तत्रैव संस्कारप्ररोहात् असन्मार्गादवरोहो न स्यात्, इत्यस्य कदाचिदपि सन्मार्गारोहो न भवेत् ? -- इत्याशङ्क्याह --
 
 > यस्तु रूढोऽपि तत्रोद्यत्परामर्शविशारदः ।

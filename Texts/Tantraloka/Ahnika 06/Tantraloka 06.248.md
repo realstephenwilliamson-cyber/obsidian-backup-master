@@ -35,6 +35,9 @@ sapañcamāṃśā nāḍī ca bahirvarṇodayaḥ smṛtaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 447–448)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.248]]
+
 *Lead-in:* एतदेव चाहोरात्रसंमेलनायां द्विगुणी भवेत् -- इत्याह --
 
 > दिनरात्र्यविभागे तु दृग्वह्न्यब्ध्यसुचारणाः ।

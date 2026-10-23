@@ -35,6 +35,9 @@ sa sthānakalpane bāhyamiti kramamupāśrayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 208)
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.157]]
+
 > अकिञ्चिच्चिन्तनं वीर्यं भावनायां च सा पुनः ॥
 > ध्याने तदपि चोच्चारे करणे सोऽपि तद् ध्वनौ ।
 > स स्थानकल्पने बाह्यमिति क्रममुपाश्रयेत् ॥

@@ -35,6 +35,9 @@ varṇe'dhikaṃ taddviguṇamavibhāge divāniśoḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 448)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.250]]
+
 *Lead-in:* तदाह -
 
 > वेदाश्चाराः पञ्चमांशन्यूनं चारार्धमेकशः ।

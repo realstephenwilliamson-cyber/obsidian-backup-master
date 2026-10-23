@@ -31,5 +31,8 @@ teṣāṃ praśamanārthāya pavitraṃ kriyate śive || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 75)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.148–150]]
+
 Jayaratha comments on this verse together with 28.150: see [[Tantraloka 28.150#Viveka|28.150]].
 

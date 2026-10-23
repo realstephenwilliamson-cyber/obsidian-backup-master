@@ -31,6 +31,9 @@ bodhopakārasantānadvayātte bandhutājuṣaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 89–90)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.196–197]]
+
 > तथा च स्मृतिशास्त्रेषु सन्ततेर्दायहारिता ।
 > युक्तैव तावान्स ह्युक्तो भेदाद्दूरान्तिकत्वतः ॥
 > ये तु त्यक्तशरीरास्था बोधाहम्भावभागिनः ।

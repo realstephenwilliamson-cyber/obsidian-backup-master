@@ -36,6 +36,11 @@ iti śaktisthitā mantrā vidyā vā cakranāyakāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 30–31)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.42]]
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.42–44]]
+
 *Lead-in:* ननु कोऽसौ विभागः किं वा फलम् ? -- इत्याशङ्क्याह --
 
 > द्वित्रिसप्ताष्टसंख्यातं लोपयेच्छतिकोदयम् ।

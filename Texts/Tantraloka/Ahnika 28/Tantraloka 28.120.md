@@ -31,6 +31,9 @@ vinā pavitrādyenaitaddharennāgaḥ śivājñayā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 63–64)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.114–121]]
+
 > क्षीराब्धिमथनोद्भूतविषनिद्राविमूर्च्छितः ।
 > नागराजः स्वभुवने मेघकाले स्म नावसत् ॥
 > केवलं तु पवित्रोऽयं वायुभक्षः समाः शतम् ।

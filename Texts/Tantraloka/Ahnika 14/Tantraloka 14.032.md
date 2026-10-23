@@ -33,6 +33,11 @@ sarvatra bahumānena yāpyutkrāntirvimuktaye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 360–368)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.31–32]]
+>
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.32–33]]
+
 *Lead-in:* ननु यद्येवं तत्कथं प्राणविक्षेपाद्यात्मिकाया उत्क्रान्तेः परपदोपायत्वं सर्वत्रोक्तम्? -- इत्याशङ्क्याह --
 
 > सर्वत्र बहुमानेन याप्युत्क्रान्तिर्विमुक्तये ॥

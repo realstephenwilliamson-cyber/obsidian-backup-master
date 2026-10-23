@@ -36,6 +36,11 @@ dbhinnāñjanāyitaravipramukhaprakāśe || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 244)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 37.40.*
+>
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.40]]
+
 *Lead-in:* जात्यन्धसद्मनि न जन्म न कोऽभिनिन्दे-
 
 > द्भिन्नाञ्जनायितरविप्रमुखप्रकाशे ॥

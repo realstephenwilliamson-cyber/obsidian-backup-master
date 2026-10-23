@@ -31,6 +31,9 @@ svātantryamātrasadbhāvā yā tvicchā śaktiraiśvarī |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 300–301)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.12–17]]
+
 > सकलस्य प्रमाणांशो योऽसौ विद्याकलात्मकः ॥
 > सामान्यात्मा स शक्तित्वे गणितो न तु तद्भिदः ।
 > लयाकलस्य मानांशः स एव परमस्फुटः ॥

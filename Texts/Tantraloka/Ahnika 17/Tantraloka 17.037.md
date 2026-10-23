@@ -34,5 +34,10 @@ tato'sya teṣu bhogeṣu kuryāttanmayatāṃ layam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 160)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 17.38–39.*
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.38–39]]
+
 Jayaratha comments on this verse together with 17.38: see [[Tantraloka 17.038#Viveka|17.38]].
 

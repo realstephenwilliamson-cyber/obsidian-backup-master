@@ -33,5 +33,10 @@ puṃrāgavittrayādūrdhvaṃ kalāniyatisaṃpuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 52–55)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 9.47–48.*
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.47–48]]
+
 Jayaratha comments on this verse together with 9.47: see [[Tantraloka 09.047#Viveka|9.47]].
 

@@ -34,6 +34,11 @@ aṣṭāvaṣṭau ye ya itthaṃ vyāpyavyāpakatājuṣaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 290–291)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.69–72]]
+>
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.69–72 (continued)]]
+
 > नागा लोकेशमूर्तीशा गणेशा जलतत्त्वतः ॥
 > प्रधानान्तं नायकाश्च विद्यातत्त्वाधिनायकाः ।
 > सकलाद्याश्च कण्ठ्योष्ठ्यपर्यन्ता भैरवास्तथा ॥

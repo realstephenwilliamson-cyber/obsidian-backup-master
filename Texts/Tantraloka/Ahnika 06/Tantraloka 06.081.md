@@ -36,6 +36,11 @@ vedye ca bahirantarvā dvaye vātha dvayojjhite || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 307–308)
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.80–81]]
+>
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.81–82]]
+
 *Lead-in:* ननु स्वात्मविश्रान्तिपरत्वेऽप्यन्तारूपाणां सुखादीनां वेद्यानां सद्भावात् तद्ग्रहणपरत्वं न हीयेत् -- इति कथमनयोस्तुल्यकक्ष्यत्वं स्यात् ? -- इत्याशङ्क्याह --
 
 > वेद्ये च बहिरन्तर्वा द्वये वाथ द्वयोज्झिते ॥

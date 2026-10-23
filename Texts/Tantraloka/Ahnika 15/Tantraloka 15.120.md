@@ -31,6 +31,9 @@ ityeṣa mātṛkānyāso mālinyāstu nirūpyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 79–80)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.117–120]]
+
 > ललाटवक्रे दृक्कर्णनासागण्डरदौष्ठगे ॥
 > द्वये द्वये शिखाजिह्वे विसर्गान्तास्तु षोडश ।
 > दक्षान्ययोः स्कन्धबाहुकरांगुलिनखे कचौ ॥

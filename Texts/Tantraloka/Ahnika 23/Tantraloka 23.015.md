@@ -33,6 +33,11 @@ guravastu svayaṃbhvādi varjyaṃ yadyāmalādiṣu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 301–302)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.14–15]]
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.15–16]]
+
 *Lead-in:* न च एतदस्माभिः स्वोपज्ञमेवोक्तम्--इत्याह--
 
 > गुरवस्तु स्वयंभ्वादि वर्ज्यं यद्यामलादिषु ॥

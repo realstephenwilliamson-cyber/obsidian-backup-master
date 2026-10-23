@@ -31,6 +31,9 @@ tathaiva yogināṃ dharmasāmastyenāvabhāti bhūḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 268–269)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.291]]
+
 *Lead-in:* ननु विषममेतत्, विस्तृतपटादौ विचित्रस्यापि रूपस्य युगपदुपलम्भात्? -- इत्याशङ्क्याह --
 
 > यथा च विस्तृते वस्त्रे युगपद्भाति चित्रता ।

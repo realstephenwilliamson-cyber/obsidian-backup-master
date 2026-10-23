@@ -32,5 +32,8 @@ tataḥ praveśapracitakalāṣoḍaśakojjvalaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 293)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.474–478]]
+
 Jayaratha comments on this verse together with 15.477: see [[Tantraloka 15.477#Viveka|15.477]].
 

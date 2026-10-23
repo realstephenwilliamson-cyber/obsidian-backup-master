@@ -33,6 +33,11 @@ yastvāha śrotramākāśaṃ karṇasaṃyogabheditam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 275–276)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.299–300]]
+>
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.300–302]]
+
 *Lead-in:* एतदेव प्रतिक्षेप्तुमनुवदति --
 
 Jayaratha comments on this verse together with 9.299: see [[Tantraloka 09.299#Viveka|9.299]].

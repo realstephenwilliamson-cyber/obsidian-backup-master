@@ -35,6 +35,9 @@ ata eva visargasya haṃse yadvatsphuṭā sthitiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 266–267)
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.148–149]]
+
 *Lead-in:* इदानीं यथोक्तविसर्गस्वरूपमेव दृष्टान्तीकृत्य कादीनामुदयं वक्तुमुपक्रमते --
 
 > अत एव विसर्गस्य हंसे यद्वत्स्फुटा स्थितिः ॥

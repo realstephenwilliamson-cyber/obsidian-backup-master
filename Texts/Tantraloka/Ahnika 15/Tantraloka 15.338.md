@@ -31,6 +31,9 @@ yājyā karṣati yatsarvaṃ kālādhāraprabhañjanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 208–210)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.335–338]]
+
 > नासाग्रे त्रिविधं कालं कालसङ्कर्षिणी सदा ।
 > मुखस्था श्वासनिःश्वासकलनी हृदि कर्षति ॥
 > पूरकैः कुम्भकैर्धत्ते ग्रसते रेचकेन तु ।

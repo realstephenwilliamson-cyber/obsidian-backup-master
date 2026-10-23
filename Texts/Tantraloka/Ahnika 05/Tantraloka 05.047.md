@@ -36,6 +36,13 @@ tato'pi mānameyaughakalanāgrāsatatparaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 42)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 5.47–48.*
+>
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.47–48]]
+>
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.47–48 (continued)]]
+
 > निजानन्दे प्रमात्रंशमात्रे हृदि पुरा स्थितः ।
 > शून्यतामात्रविश्रान्तेर्निरानन्दं विभावयेत् ॥
 > प्राणोदये प्रमेये तु परानन्दं विभावयेत् ।

@@ -35,6 +35,9 @@ idaṃ tadbījasaṃdarbhabījaṃ cinvanti yoginaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 173–175)
+> ![[Tantraloka Dyczkowski v02 06 - Chapter Three, part 3#Viveka on 3.76–77]]
+
 > रूढं तज्ज्ञेयवर्गस्य स्थ् ।तिप्रारम्भ उच्यते ॥
 > रूढिरेषा विबोधाब्धेश्त्रिकारपरिग्रहः ।
 > इदं तद्वीजसंदर्भबीजं चिन्वन्ति योगिनः ॥

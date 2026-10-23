@@ -31,6 +31,9 @@ ata eveha śāstreṣu śaiveṣveva nirūpyate |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 342)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.357]]
+
 *Lead-in:* एवमेवंविधानामेवानुग्राह्यतयास्मद्दर्शनसंस्कारविशेषोऽप्युक्तः -- इत्याह --
 
 > अत एवेह शास्त्रेषु शैवेष्वेव निरूप्यते ।

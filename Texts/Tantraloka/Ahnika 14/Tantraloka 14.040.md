@@ -31,6 +31,9 @@ hātuṃ na hyanyathā śakyā vinoktakramayogataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 371)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.40]]
+
 *Lead-in:* ननु जीवितान्तस्य भोगवैमुख्यं नाम स्वारसिकं निमित्तं न हि त्यक्तरसास्वादो जन्तुः कथञ्चिदपि जीवेत् तत्किं तदुपायोपदेशेन, न हि बुभुक्षितोऽश्नीयादित्यादौ शास्त्रमपेक्षणीयम्? -- इत्याशङ्क्याह --
 
 > योगमन्त्रामृतद्रव्यवराद्यैः सिद्धिभाक्तनुः ।

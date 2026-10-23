@@ -33,5 +33,10 @@ tanmānādūrdhvamābhrāmya caturthena niyojayet |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 104–105)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.85–89]]
+>
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.89–90]]
+
 Jayaratha comments on this verse together with 31.88: see [[Tantraloka 31.088#Viveka|31.88]].
 

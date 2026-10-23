@@ -33,6 +33,11 @@ anarthaḥ sumahāṃścaiṣa dṛśyatāṃ vastu yatsvayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 313–315)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.29–31]]
+>
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.31–33]]
+
 *Lead-in:* एवं न केवलं भवन्मतेऽर्थ एव न प्रकाशते यावन्न किञ्चिदपीति महद्दूषणान्तरमप्यापतेत् -- इत्याह --
 
 Jayaratha comments on this verse together with 10.30: see [[Tantraloka 10.030#Viveka|10.30]].

@@ -34,5 +34,10 @@ sarveṣāṃ vyāpakatvena sabāhyābhyantaraṃ smaret || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 50)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 16.107.*
+>
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.107]]
+
 Jayaratha comments on this verse together with 16.107: see [[Tantraloka 16.107#Viveka|16.107]].
 

@@ -35,6 +35,9 @@ dhāvanaṃ plavanaṃ caiva āyāsaḥ śaktivedanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 235–237)
+> ![[Tantraloka Dyczkowski v01 07 - Chapter One, part 6#Viveka on 1.87–88]]
+
 *Lead-in:* इह च तदेव ग्रन्थकारः शब्दार्थद्वारेण पठति --
 
 Jayaratha comments on this verse together with 1.88: see [[Tantraloka 01.088#Viveka|1.88]].

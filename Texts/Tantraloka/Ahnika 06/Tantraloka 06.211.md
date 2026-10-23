@@ -35,6 +35,9 @@ uktaḥ samānagaḥ kāla udāne tu nirūpyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 421)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.210–211]]
+
 *Lead-in:* एतदुपसंहरन्नन्यदवतारयति --
 
 > उक्तः समानगः काल उदाने तु निरूप्यते ॥

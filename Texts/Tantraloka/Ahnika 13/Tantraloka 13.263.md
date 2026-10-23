@@ -31,6 +31,9 @@ tirodhatte bhoktṛrūpaṃ saṃjñāyāṃ tu na no bharaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 287–288)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.262–263]]
+
 > जपादिका क्रियाशक्तिरेवेत्थं न तु कर्म तत् ॥
 > कर्म तल्लोकरूढं हि यद्भोगमवरं ददत् ।
 > तिरोधत्ते भोक्तृरूपं संज्ञायां तु न नो भरः ॥

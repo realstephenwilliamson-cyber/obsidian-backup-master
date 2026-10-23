@@ -33,6 +33,11 @@ tannijaviṣayārpaṇataḥ pūrṇasamucchalitasaṃvidāsāraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 324–326)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.137–138]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.138–139]]
+
 *Lead-in:* ननु एवं तद्विश्रान्त्या अस्य किं स्यात्?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 29.137: see [[Tantraloka 29.137#Viveka|29.137]].

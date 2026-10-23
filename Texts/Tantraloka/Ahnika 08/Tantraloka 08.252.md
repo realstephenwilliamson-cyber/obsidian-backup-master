@@ -35,6 +35,9 @@ tatra śraikaṇṭhamuktaṃ yat tasyaivomāpatistathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 263–264)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.251–253]]
+
 > बुद्धितत्त्वमिदं प्रोक्तं देवयोन्यष्टकादितः ॥
 > महादेवाष्टकान्ते तद् योगाष्टकमिहोदितम् ।
 > तत्र श्रैकण्ठमुक्तं यत् तस्यैवोमापतिस्तथा ॥

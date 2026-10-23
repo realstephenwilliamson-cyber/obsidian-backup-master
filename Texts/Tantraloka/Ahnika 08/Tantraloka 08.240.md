@@ -35,6 +35,9 @@ umāpateḥ puraṃ paścānmātṛbhiḥ parivāritam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 256–257)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.238–241]]
+
 > क्रोधेशाष्टकमानीलं संवर्ताद्यं ततो विदुः ।
 > तेजोष्टकं बलाध्यक्षप्रभृतिक्रोधनाष्टकात् ॥
 > अकृतादि ततो बुद्धौ योगाष्टकमुदाहृतम् ।

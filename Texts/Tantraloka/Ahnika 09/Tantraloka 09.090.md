@@ -33,6 +33,11 @@ niṣkarmā hi sthite mūlamale'pyajñānanāmani || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 89–92)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.89–90]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.90–92]]
+
 *Lead-in:* ननु यद्येवं तर्हि मुक्त एवासौ ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 9.89: see [[Tantraloka 09.089#Viveka|9.89]].

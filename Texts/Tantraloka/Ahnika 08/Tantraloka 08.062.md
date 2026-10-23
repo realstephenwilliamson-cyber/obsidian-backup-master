@@ -36,6 +36,11 @@ mervadho lavaṇābdhyantaṃ jambudvīpaḥ samantataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 110–112)
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.60–62]]
+>
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.62–63]]
+
 > मेर्वधो लवणाब्ध्यन्तं जम्बुद्वीपः समन्ततः ॥
 > लक्षमात्रः स नवधा जातो मर्यादपर्वतैः ।
 

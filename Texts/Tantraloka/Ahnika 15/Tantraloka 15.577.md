@@ -32,5 +32,8 @@ nāsaṃskṛtāṃ vrajettajjaṃ viphalatvaṃ nacānayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 337)
+> ![[Tantraloka Dyczkowski v08 10 - Chapter Fifteen, part 9#Viveka on 15.577–578]]
+
 Jayaratha comments on this verse together with 15.597: see [[Tantraloka 15.597#Viveka|15.597]].
 

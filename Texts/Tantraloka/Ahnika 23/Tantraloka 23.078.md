@@ -31,6 +31,9 @@ syādanyatarago doṣo yo'dhikārāpaghātakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 331)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.78]]
+
 *Lead-in:* तस्मिंस्तु जीवति तत्त्यागो न कार्यः--इत्याह--
 
 > सति तस्मिंस्तून्मुखः सन्कस्माज्जह्याद्यदि स्फुटम् ।

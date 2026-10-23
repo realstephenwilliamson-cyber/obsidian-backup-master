@@ -33,6 +33,11 @@ kasmādeti tadevaiṣa yataḥ smarati saṃvidi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 142–143)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.332]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.332 (2)]]
+
 *Lead-in:* एवमेतदज्ञविषयमभिधाय स्वभ्यस्तास्वभ्यस्तज्ञानिविषयतयापि अभिधत्ते--
 
 > यद्वा निःसुखदुःखादि यदि वानन्दरूपकम् ।

@@ -35,6 +35,9 @@ saṃvidakṣamaruccakraṃ jñeyābhinnaṃ tato bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 95–96)
+> ![[Tantraloka Dyczkowski v04 05 - Chapter Five, part 3#Viveka on 5.76]]
+
 *Lead-in:* नन्वेवमासादितयापि अनया कोऽर्थः स्यात् ? -- इत्याशङ्क्याह --
 
 > वक्रमन्तस्तया सम्यक् संविदः प्रविकासयेत् ।

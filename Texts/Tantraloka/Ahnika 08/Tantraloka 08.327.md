@@ -35,6 +35,9 @@ anantasya samīpe tu tatsarvaṃ pariniṣṭhitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 320–321)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.327]]
+
 *Lead-in:* किं बहुना यत्किञ्चित्कलादावधराध्वन्युक्तं तत्सर्वमत्रैव स्थितम् -- इत्याह --
 
 > दीक्षाकालेऽधराध्वस्थशुद्धौ यच्चाधराध्वगम् ।

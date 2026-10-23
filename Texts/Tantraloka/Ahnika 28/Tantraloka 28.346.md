@@ -35,6 +35,13 @@ nanu kasmāttadevaiṣa smarati ityāha-yatsadā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 153)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.345–349]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.346]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.346–347]]
+
 *Lead-in:* ननु यदि मृगीभावस्मरणमेव तद्देहासङ्गे निमित्तं तदवश्यं तत्पूर्वकत्वात् स्मरणस्य अनुभवोऽपि जन्मान्तरसूतये हेतुर्वाच्यः, अनुभवाहितविषयनियन्त्रणाविरहे हि यत्किञ्चन स्मर्येत नियमस्तु कुतस्त्यः ?--इत्याशङ्कते--
 
 > ननु कस्मात्तदेवैष स्मरति इत्याह-यत्सदा ॥

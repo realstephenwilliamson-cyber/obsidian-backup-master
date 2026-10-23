@@ -35,6 +35,9 @@ mokṣe'bhyupāyaḥ sañjalpo bandhamokṣau tataḥ kila || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 127–128)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.284]]
+
 *Lead-in:* शिवाभेदभाजो गुरोस्तु विशेषेण यथार्थसङ्कल्पता--इत्याह--
 
 > विशेषतस्त्वमायीयशिवताभेदशालिनः ।

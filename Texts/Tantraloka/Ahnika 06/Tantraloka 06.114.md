@@ -35,6 +35,9 @@ tiṣṭhanmāghādikaṃ ṣaṭkaṃ kuryāttaccottarāyaṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 341–342)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.114]]
+
 *Lead-in:* तमेवाह -
 
 > षट्सु षट्स्वङ्गुलेष्वर्को हृदयान्मकरादिषु ।

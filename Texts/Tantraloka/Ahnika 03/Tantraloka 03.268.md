@@ -35,6 +35,9 @@ pratibimbatayā bhāti yasya viśveśvaro hi saḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 394–395)
+> ![[Tantraloka Dyczkowski v02 12 - Chapter Three, part 9#Viveka on 3.268–270]]
+
 *Lead-in:* अत आह --
 
 Jayaratha comments on this verse together with 3.270: see [[Tantraloka 03.270#Viveka|3.270]].

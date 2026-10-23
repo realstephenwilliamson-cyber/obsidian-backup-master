@@ -31,6 +31,9 @@ upadeśastvayaṃ mandamadhyaśakternijāṃ kramāt |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 335)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.91]]
+
 *Lead-in:* यद्येवं, तत्कृतं गुरुणा?--इत्याशङ्क्याह--
 
 > उपदेशस्त्वयं मन्दमध्यशक्तेर्निजां क्रमात् ।

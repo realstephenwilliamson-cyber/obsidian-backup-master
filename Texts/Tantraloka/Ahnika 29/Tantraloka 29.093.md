@@ -31,5 +31,8 @@ tadāmṛṣṭasya cidvahnau layo homaḥ prakīrtitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 284)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.93–95]]
+
 Jayaratha comments on this verse together with 29.95: see [[Tantraloka 29.095#Viveka|29.95]].
 

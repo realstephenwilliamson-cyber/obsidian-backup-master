@@ -35,6 +35,9 @@ tenāsya galitākṣasya prabodho jāyate svayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 225)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.42–44]]
+
 > मन्त्राः शब्दमयाः शुद्धविमर्शात्मतया स्वयम् ॥
 > अर्थात्मना चावभान्तस्तदर्थप्रतिबोधकाः ।
 > तेनास्य गलिताक्षस्य प्रबोधो जायते स्वयम् ॥

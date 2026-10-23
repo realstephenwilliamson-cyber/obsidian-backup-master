@@ -31,6 +31,9 @@ yo yatrābhilaṣedbhogānsa tatraiva niyojitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 114–115)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.261–264]]
+
 > ते तदीशसमीपत्वं यान्ति स्वौचित्ययोगतः ॥
 > योग्यतावशसञ्जाता यस्य यत्रैव वासना ।
 > स तत्रैव नियोक्तव्यः पुरेशाच्चोर्ध्वशुद्धिभाक् ॥

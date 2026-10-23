@@ -35,6 +35,9 @@ tato merustato nāgā meghā hemāṇḍakaṃ tataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 160–161)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.115–117]]
+
 > सिद्धातन्त्रेऽत्र गर्भाब्धेस्तीरे कौशेयसंज्ञितम् ।
 > मण्डलं गरुडस्तत्र सिद्धपक्षसमावृतः ॥
 > क्रीडन्ति पर्वताग्रे ते नव चात्र कुलाद्रयः ।

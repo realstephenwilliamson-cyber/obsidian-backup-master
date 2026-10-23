@@ -31,6 +31,9 @@ pradhānavadasaṃvedyabuddhivādastadujjhitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 228–229)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.239]]
+
 *Lead-in:* नन्वसंविदितं तावत्करणं न स्यात्, बुद्धिश्च मनोऽहङ्कारवन्न संवेद्या इति कथमस्याः करणत्वं युज्यते? -- इत्याशङ्क्याह --
 
 > न च बुद्धिरसंवेद्या करणत्वान्मनो यथा ।

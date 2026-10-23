@@ -37,6 +37,11 @@ athāsau tādṛśo na syādbhavabhaktyā ca bhāvitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 408–410)
+> ![[Tantraloka Dyczkowski v02 12 - Chapter Three, part 9#Viveka on 3.290–291]]
+>
+> ![[Tantraloka Dyczkowski v02 12 - Chapter Three, part 9#Viveka on 3.291–292]]
+
 *Lead-in:* नन्वनेवंविधश्चेत् कश्चित्तदाराधनाय प्रवृत्तः स्यात्तत्तत्रानेन किं प्रतिपत्तव्यम् ? इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 3.290: see [[Tantraloka 03.290#Viveka|3.290]].

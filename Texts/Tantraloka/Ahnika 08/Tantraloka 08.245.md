@@ -35,5 +35,8 @@ tābhya īśānamūrtiryā sā merau saṃpratiṣṭhitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 260–261)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.244–247]]
+
 Jayaratha comments on this verse together with 8.246: see [[Tantraloka 08.246#Viveka|8.246]].
 

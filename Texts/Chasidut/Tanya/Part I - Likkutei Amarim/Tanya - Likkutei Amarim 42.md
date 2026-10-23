@@ -61,20 +61,20 @@ The essential thing, however, is the [mental] training to habituate one’s mind
 There should also be a constant remembrance of the dictum of the Rabbis, of blessed memory, “Acceptance of the yoke of the Kingdom of Heaven,” which parallels the injunction “You shall surely set a king over yourself,”[^21] as has been explained elsewhere, and so on. For the Holy One, blessed is He, forgoes the higher and lower worlds and uniquely bestows His Kingdom upon us, and so on, and we accept it, and so forth. And this is the significance of the obeisances in the prayer of the Eighteen Benedictions, following the verbal acceptance of the yoke of the Kingdom of Heaven in the recital of the *Shema*, whereby one accepts it once again in actual deed, with a [positive] act, and so forth, as is explained elsewhere.
 
 [^1]: [[Torah 46 - Eikev#^10-12|Deuteronomy 10:12]].
-[^2]: *Berachot* 33b.
-[^3]: *Sukkah* 52b; another version in *Tikkunim*, end; *Zohar Chadash* (104a).
+[^2]: [[Berakhot 33#33b|*Berachot* 33b]].
+[^3]: [[Sukkah 52#52b|*Sukkah* 52b]]; another version in *Tikkunim*, end; *Zohar Chadash* (104a).
 [^4]: Ref. to Maimonides’ statement already quoted in chs. 2, 4, 23.
-[^5]: See *Taanit* 24a and *Rashi*, loc. cit.; [[Torah 38 - Korach#^16-24|Numbers 16:24]].
+[^5]: See [[Taanit 24#24a|*Taanit* 24a]] and *Rashi*, loc. cit.; [[Torah 38 - Korach#^16-24|Numbers 16:24]].
 [^6]: [[I Chronicles 28#^28-9|I Chronicles 28:9]].
 [^7]: [[Jeremiah 31#^31-33|Jeremiah 31:33]].
 [^8]: [[Torah 01 - Bereshit#^4-1|Genesis 4:1]].
 [^9]: Ch. 29.
-[^10]: *Megillah* 6b.
+[^10]: [[Megillah 6#6b|*Megillah* 6b]].
 [^11]: [[Proverbs 02#^2-4|Proverbs 2:4-5]].
 [^12]: *Avot* 2:1.
 [^13]: [[I Chronicles 29#^29-14|I Chronicles 29:14]].
 [^14]: Liturgy, *Musaf* for Rosh Hashanah.
-[^15]: *Shabbat* 92a.
+[^15]: [[Shabbat 92#92a|*Shabbat* 92a]].
 [^16]: Liturgy. Cf. *Yalkut*, *Va’etchanan* 836, quoting a source in the Jerusalem Talmud.
 [^17]: Ch. 41.
 [^18]: [[Torah 46 - Eikev#^10-12|Deuteronomy 10:12]].

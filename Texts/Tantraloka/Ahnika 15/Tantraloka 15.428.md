@@ -32,6 +32,9 @@ tāvadvahnau mantramukhe vauṣaḍantāṃ hutiṃ kṣipet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 264–265)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.424–428]]
+
 > तत ऊर्ध्वाधरन्यासादन्योन्यौन्मुख्यसुन्दरम् ॥
 > स्रुक्स्रुवं शिवशक्त्यात्मादायाज्यामृतपूरितम् ।
 > समचित्तप्राणतनुरैकात्म्यविधियोगतः ॥

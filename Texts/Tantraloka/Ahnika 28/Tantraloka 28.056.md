@@ -33,6 +33,11 @@ bhagrahayogābhāve velāṃ tu titheravaśyamīkṣeta || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 32–33)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.53–56]]
+>
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.56–57]]
+
 *Lead-in:* ननु अत्र तिथौ भग्रहाद्यभावेऽपि भवन् वेलायोगः किमपेक्षणीयो न वा ?--इत्याशङ्क्य आह--
 
 > भग्रहयोगाभावे वेलां तु तिथेरवश्यमीक्षेत ॥

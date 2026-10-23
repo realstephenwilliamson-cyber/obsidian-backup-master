@@ -31,6 +31,9 @@ vinā vivekādāsthāṃ te śritā lokaprasiddhitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 118–119)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.269–272]]
+
 > ये चाधरप्राप्तदीक्षास्तदास्थानुज्झिताः परे ॥
 > तत्त्वे मृताः काष्ठवत्तेऽधरेऽप्युत्कर्षभागिनः ।
 > ये तूज्झिततदुत्कर्षास्ते तदुत्तरभागिनः ॥

@@ -1,0 +1,109 @@
+/* Torah page (Templates/Views/torah-page): a passage laid out like a page of a Mikraot Gedolot.
+   Dataview adds this file to the page with view.js. 22 Oct 2026. Colours and fonts are the theme's own. */
+.tr-wrap { container: tr / inline-size; margin: .5em 0 1em; --tr-text: var(--font-text-size, 16px); }
+
+/* The bar: any verse or parashah, the passage before and after, this week's portion, how many verses */
+.tr-bar { display: flex; flex-wrap: wrap; align-items: center; gap: .4em .6em; margin-bottom: .6em; }
+.tr-input { flex: 0 1 14em; min-width: 8em; }
+.tr-navs { display: flex; gap: .4em; }
+.tr-bar button, .tr-bar select { padding: .25em .75em; font-size: var(--font-ui-small, .85em); cursor: pointer; }
+.tr-notice { font-size: .8em; color: var(--text-muted); font-style: italic; margin: .2em 0 .4em; }
+
+/* The list of books and chapters above the page (23 Oct 2026), small, like Sefaria's table of contents; the current one marked */
+.tr-nav { font-size: .8em; margin: .1em 0 .8em; padding-bottom: .4em; border-bottom: 1px solid var(--background-modifier-border); }
+.tr-nav > summary { cursor: pointer; color: var(--text-muted); letter-spacing: .05em; text-transform: uppercase; font-size: .9em; margin-bottom: .3em; }
+.tr-nav-row { display: flex; gap: .7em; align-items: baseline; margin: .2em 0; }
+.tr-nav-label { flex: 0 0 7.5em; color: var(--text-faint); font-size: .9em; letter-spacing: .04em; text-transform: uppercase; }
+.tr-nav-items { display: flex; flex-wrap: wrap; gap: .15em .9em; min-width: 0; }
+.tr-nav-item { cursor: pointer; color: var(--text-muted); white-space: nowrap; }
+.tr-nav-item:hover, .tr-nav-item:focus-visible { color: var(--text-accent); text-decoration: underline; }
+.tr-nav-item.is-on { color: var(--text-accent); font-weight: 700; }
+.tr-nav-grid .tr-nav-items { gap: .25em; }
+.tr-nav-grid .tr-nav-item { min-width: 2.3em; text-align: center; padding: 0 .2em; border: 1px solid var(--background-modifier-border); border-radius: 3px; font-variant-numeric: tabular-nums; }
+.tr-nav-grid .tr-nav-item:hover { text-decoration: none; border-color: var(--text-accent); }
+.tr-nav-grid .tr-nav-item.is-on { background: var(--interactive-accent); border-color: var(--interactive-accent); color: var(--text-on-accent); }
+
+/* Running head: chapter and verses large in the outer corner, the parashah in the middle */
+.tr-head { display: grid; grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); align-items: baseline; column-gap: 1.2em; border-bottom: 2px solid var(--background-modifier-border);
+  padding-bottom: .3em; margin-bottom: .8em; }
+.tr-head-left { grid-column: 1; justify-self: start; display: flex; align-items: baseline; gap: .5em; }
+.tr-num { font-size: 2.2em; font-weight: 700; line-height: 1; color: var(--text-normal); font-variant-numeric: oldstyle-nums; }
+.tr-book { font-size: 1em; color: var(--text-muted); }
+/* the title is centred on the page, whatever the width of the number beside it (23 Oct 2026) */
+.tr-head-centre { grid-column: 2; text-align: center; }
+.tr-sub { font-size: .75em; letter-spacing: .06em; text-transform: uppercase; color: var(--text-muted); }
+.tr-title p { margin: 0; font-size: 1.15em; font-weight: 600; }
+
+/* The page: margins at the edges (the left one narrower since 23 Oct 2026, so the verses have more room), Rashi and the later texts beside the verses, the verses in the middle */
+.tr-grid { display: grid; column-gap: 1.2em; row-gap: 1em; align-items: start;
+  grid-template-columns: minmax(6.5em, 130px) minmax(12em, 320px) minmax(0, 1fr) minmax(11em, 300px) minmax(8em, 180px);
+  grid-template-areas: "left inner centre outer right"; }
+.tr-left { grid-area: left; } .tr-inner { grid-area: inner; } .tr-centre { grid-area: centre; }
+.tr-outer { grid-area: outer; } .tr-right { grid-area: right; }
+.tr-inner { border-left: 1px solid var(--background-modifier-border); padding-left: .8em; font-size: .84em; line-height: 1.45; }
+.tr-outer { border-right: 1px solid var(--background-modifier-border); padding-right: .8em; font-size: .84em; line-height: 1.45; }
+.tr-margin { font-size: .78em; line-height: 1.4; color: var(--text-muted); }
+
+/* The verses */
+.tr-centre { font-size: var(--tr-text); line-height: 1.65; }
+.tr-chapter { font-size: .72em; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: var(--text-accent);
+  margin: .9em 0 .3em; border-bottom: 1px solid var(--background-modifier-border); }
+.tr-chapter:first-child { margin-top: 0; }
+.tr-verse { margin: 0 0 .5em; }
+.tr-verse-text p { margin: 0; }
+.tr-vn { font-size: .7em; font-weight: 700; color: var(--text-accent); margin-right: .25em; vertical-align: .15em; }
+.tr-fn { font-size: .7em; color: var(--text-accent); }
+.tr-notes { margin-top: .8em; padding-top: .4em; border-top: 1px solid var(--background-modifier-border); font-size: .78em; line-height: 1.4; color: var(--text-muted); }
+.tr-note p { margin: 0 0 .2em; }
+.tr-compare { margin-top: .6em; font-size: .8em; color: var(--text-muted); }
+.tr-compare p { margin: 0; }
+
+/* Commentary columns and margin boxes */
+.tr-col-title, .tr-box-title { font-size: .72em; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: var(--text-muted);
+  margin-bottom: .35em; }
+.tr-rashi, .tr-quote { margin: 0 0 .6em; }
+.tr-quote-text p { margin: 0; }
+.tr-src { font-size: .85em; color: var(--text-faint); margin: .2em 0 .9em; }
+.tr-src p { margin: 0; }
+.tr-box { margin-bottom: 1em; }
+.tr-item { margin: 0 0 .3em; }
+.tr-item p { margin: 0; }
+.tr-empty { font-size: .9em; color: var(--text-faint); font-style: italic; }
+.tr-dafquote { margin: 0 0 1em; padding-left: .6em; border-left: 2px solid var(--background-modifier-border); }
+.tr-dafquote .tr-quote-text, .tr-gquote { font-style: italic; color: var(--text-normal); }
+.tr-gquote p { margin: 0 0 .5em; }
+.tr-cited { margin-top: 1em; }
+.tr-gloss .tr-item { color: var(--text-normal); }
+
+.tr-foot { margin-top: 1em; padding-top: .4em; border-top: 1px solid var(--background-modifier-border); font-size: .78em; color: var(--text-muted); }
+.tr-foot p { margin: 0; }
+
+/* The note that holds the page uses the whole width of its tab (23 Oct 2026, Stephen's request): no padding between the ribbon
+   and the page, and no side margins on the block that holds the view. Only a tab showing this page is affected. */
+.markdown-preview-view:has(.tr-wrap) { padding-left: 8px !important; padding-right: 8px !important; }
+.markdown-preview-view.markdown-rendered .markdown-preview-sizer > div.el-pre:has(.tr-wrap) { margin-left: 0 !important; margin-right: 0 !important; width: auto !important; max-width: none !important; }
+
+/* When the page has no Rashi (the Prophets and Writings, or verses he does not comment on), his column narrows to the note that
+   says so, and the verses take the room (23 Oct 2026); only in the full layout, as the narrower ones stack the columns */
+@container tr (min-width: 1101px) {
+  .tr-grid.tr-norashi { grid-template-columns: minmax(6.5em, 130px) minmax(6em, 120px) minmax(0, 1fr) minmax(11em, 300px) minmax(8em, 180px); }
+}
+
+/* Medium (a narrower pane): the margins head the page, the commentaries below them, the verses down the middle */
+@container tr (max-width: 1100px) {
+  .tr-grid { grid-template-columns: minmax(10em, 1fr) minmax(0, 2.2fr) minmax(10em, 1fr);
+    grid-template-areas: "left centre right" "inner centre outer"; }
+  .tr-inner { border-left: none; padding-left: 0; }
+  .tr-outer { border-right: none; padding-right: 0; }
+}
+/* Narrow (phone, or a side pane): one column, the verses first, then Rashi, then the margins two by two */
+@container tr (max-width: 600px) {
+  .tr-nav-row { flex-direction: column; gap: .1em; }
+  .tr-nav-label { flex: none; }
+  .tr-grid { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+    grid-template-areas: "centre centre" "inner inner" "left right" "outer outer"; }
+  .tr-inner { border-top: 2px solid var(--background-modifier-border); padding-top: .6em; }
+  .tr-num { font-size: 1.8em; }
+  .tr-head { grid-template-columns: auto minmax(0, 1fr); }
+  .tr-head-centre { text-align: left; }
+}

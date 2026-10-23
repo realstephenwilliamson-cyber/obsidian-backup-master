@@ -31,6 +31,9 @@ vyavastheyamalaṃ tarhi malenāstu vṛthāmunā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 176)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.82]]
+
 *Lead-in:* ननु न कदाचिदनीदृशं जगदित्यादिवेदनादेव कर्मवैचित्र्यमेवमवस्थितम् -- इति किमनया निमित्तपर्येषणया इत्याह --
 
 > अथानादित्वमात्रेण युक्तिहीनेन साध्यते ।

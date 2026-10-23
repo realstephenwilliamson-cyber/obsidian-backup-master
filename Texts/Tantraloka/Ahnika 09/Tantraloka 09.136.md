@@ -31,5 +31,8 @@ dehaikyavāsanātyāgāt sa ca viśvātmatāsthiteḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 118)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.135–137]]
+
 Jayaratha comments on this verse together with 9.137: see [[Tantraloka 09.137#Viveka|9.137]].
 

@@ -34,6 +34,9 @@ adhastaṃ pātayedagniramṛtaṃ sravati kṣaṇāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 190–191)
+> ![[Tantraloka Dyczkowski v03 06 - Chapter Four, part 5#Viveka on 4.141–142]]
+
 *Lead-in:* यदा पुनः सोमात्मनः प्रमेयस्योद्रेकस्तदा विश्वोल्लास इत्याह --
 
 > तत्रस्थस्तापितः सोमो द्वेधा जङ्घे व्यवस्थितः ।

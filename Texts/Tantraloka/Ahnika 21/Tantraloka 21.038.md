@@ -34,5 +34,8 @@ tādṛśasyaiva saṃskārān sarvān prāgvatprakalpayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 268)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.37–42]]
+
 Jayaratha comments on this verse together with 21.41: see [[Tantraloka 21.041#Viveka|21.41]].
 

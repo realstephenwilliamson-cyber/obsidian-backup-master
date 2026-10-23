@@ -34,6 +34,9 @@ vidhinā bhāvinā śrīmanmīnanāthāvatāriṇā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 395–396)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.71]]
+
 *Lead-in:* अस्य अगाधाम्भःप्रक्षेपणकारणमाह--
 
 > प्राणिनो जलजाः पूर्वदीक्षिताः शम्भुना स्वयम् ।

@@ -35,6 +35,9 @@ devāndevayajo yāntītyādi tena nyarūpyata || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 297)
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.130]]
+
 *Lead-in:* तदेव व्याचष्टे—
 
 > चलनं तु व्यवच्छिन्नरूपतापत्तिरेव या ।

@@ -36,6 +36,11 @@ paratvena tu yatpūjyaṃ tatsvatantracidātmakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 150)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.18–19]]
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.19–20]]
+
 *Lead-in:* ननु भेदाभेदमयत्वात् परापरा शाक्ती दशा, शैवी पुनरभेदमयत्वात् परा, तत्कथमत्र पूज्यता नास्तीत्युक्तम् ?-- इत्याशङ्क्याह--
 
 > परत्वेन तु यत्पूज्यं तत्स्वतन्त्रचिदात्मकम् ॥

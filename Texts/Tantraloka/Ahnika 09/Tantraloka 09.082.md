@@ -33,6 +33,13 @@ tulye nirmalabhāve ca prerayeyurna te katham || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 82–83)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.81–82]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.81–82 (continued)]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.82–83]]
+
 > तदाह तुल्ये निर्मलभावे च प्रेरयेयुर्न ते कथम् ॥
 > तमीशं प्रति युक्तं यद् भूयसां स्यात्सधर्मता ।
 

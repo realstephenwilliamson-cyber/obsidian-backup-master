@@ -35,6 +35,9 @@ yatra sthitaṃ yataśceti tadāha spandaśāsane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 402–403)
+> ![[Tantraloka Dyczkowski v02 12 - Chapter Three, part 9#Viveka on 3.281]]
+
 *Lead-in:* एवमहंपरामर्शस्य च सृष्ट्यादयो निबन्धनमिति तदासूत्रणमपि अनेन कृतम् -- इत्याह --
 
 > सृष्टेः स्थितेः संहृतेश्च तदेतत्सूत्रणं कृतम् ।

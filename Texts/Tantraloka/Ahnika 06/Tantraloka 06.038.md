@@ -34,6 +34,9 @@ eṣa kālo hi devasya viśvābhāsanakāriṇī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 254)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.38–39]]
+
 *Lead-in:* नन्वेवं क्रमाक्रमात्मा काल उक्तः स एव किं तत्त्वानामन्तः परिगणितो न वा ? -- इत्याशङ्क्याह --
 
 > तत्त्वमध्यस्थितात्कालादन्योऽयं काल उच्यते ।

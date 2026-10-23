@@ -333,7 +333,7 @@ all of them, the ‘children of kings’.
 [^23]: ה
 [^24]: ה
 [^25]: *mitzvah*
-[^26]: *BT*’Avodah Zarah 3a
-[^27]: See *BT* Menaḥot 99b
-[^28]: *BT* Berakhot 32b
+[^26]: *BT*’[[Avodah Zarah 3#3a|Avodah Zarah 3a]]
+[^27]: See *BT* [[Menachot 99#99b|Menaḥot 99b]]
+[^28]: *BT* [[Berakhot 32#32b|Berakhot 32b]]
 [^29]: *malkhut*

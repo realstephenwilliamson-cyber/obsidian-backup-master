@@ -31,6 +31,9 @@ uktaṃ śrīyogasañcāre sa ca citrasvarūpakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 277)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.82]]
+
 *Lead-in:* एवमर्चाविधिमभिधाय, तत्सङ्गतमेव जपस्वरूपं निर्णयति--
 
 > ततो जपः प्रकर्तव्यस्त्रिलक्षादिविभेदतः ।

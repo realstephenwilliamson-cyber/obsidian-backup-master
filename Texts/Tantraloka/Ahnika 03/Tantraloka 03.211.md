@@ -34,6 +34,9 @@ cittaviśrāntisaṃjño'yamāṇavastadanantaram || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 332–335)
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.211–214]]
+
 *Lead-in:* तदेवं विसर्गशक्तेरेवायं महिमा यदियान्भेदभेदाभेदाभेदात्मा विश्वस्फारः, यदुपाधिवशादेव विसर्गशक्तेरपि त्रैविध्यम् । तदाह --
 
 Jayaratha comments on this verse together with 3.214: see [[Tantraloka 03.214#Viveka|3.214]].

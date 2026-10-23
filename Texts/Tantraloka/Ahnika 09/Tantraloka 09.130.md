@@ -33,6 +33,11 @@ jñānena vā nirudhyeta phalapākeṣvanunmukham |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 112–114)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.129–130]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.130–131]]
+
 *Lead-in:* अत एव फलदानोन्मुखं कर्मानिरोध्यमेव -- इत्याह --
 
 > आरब्धकार्यं देहेऽस्मिन् यत्पुनः कर्म तत्कथम् ॥

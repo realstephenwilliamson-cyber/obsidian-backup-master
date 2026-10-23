@@ -34,6 +34,9 @@ dhyeyaḥ pūjyaśca tarpyaśca tadāviṣṭo vimucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 103)
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.7]]
+
 *Lead-in:* ततश्च किम्? -- इत्याशङ्क्याह --
 
 > तथा विलोक्यमानोऽसौ विश्वान्तर्देवतामयः ।

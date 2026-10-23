@@ -35,6 +35,9 @@ kūṣmāṇḍahāṭakādyāstu krīḍanti mahadālaye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 365–366)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.143–144]]
+
 > तस्मिन्निशावधौ सर्वे पुद्गलाः सूक्ष्मदेहगाः ॥
 > अग्निवेगेरिता लोके जने स्युर्लयकेवलाः ।
 > कूष्माण्डहाटकाद्यास्तु क्रीडन्ति महदालये ॥

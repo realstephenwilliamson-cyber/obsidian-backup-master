@@ -37,6 +37,11 @@ tena mantrajñānayogabalādyadyatprasādhayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 131–132)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.293–295]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.295–296]]
+
 *Lead-in:* अतश्चास्य मन्त्रादिमाहात्म्यात्सर्वं भुक्तिमुक्त्याद्यपि सिद्ध्येत्--इत्याह- -
 
 > तेन मन्त्रज्ञानयोगबलाद्यद्यत्प्रसाधयेत् ॥

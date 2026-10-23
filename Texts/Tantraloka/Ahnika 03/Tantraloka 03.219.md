@@ -34,6 +34,9 @@ ekībhāvātmakaḥ sūkṣmo vijñānātmātmanirvṛtaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 336–338)
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.215–219]]
+
 > हृत्पद्मकोशमध्यस्थस्तयोः सङ्घट्ट इष्यते ॥
 > विसर्गोऽन्तः स च प्रोक्तश्चित्तविश्रान्तिलक्षणः ।
 > द्वितीयः स विसर्गस्तु चित्तसंबोधलक्षणः ॥

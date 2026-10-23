@@ -31,6 +31,9 @@ prāyaścittamatastādṛgadhikāryatra kiṃ bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 317)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.309]]
+
 *Lead-in:* ननु किं नामायमत्र दाम्भिकतया कृत्रिमभक्त्यादिप्रदर्शनादासादितैवंरूपो गुरुः स्यात्? -- इत्याशङ्क्याह -
 
 > छद्मापश्रवणाद्यैस्तु तज्ज्ञानं गृह्णतो भवेत् ।

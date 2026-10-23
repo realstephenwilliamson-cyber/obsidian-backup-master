@@ -35,6 +35,9 @@ eka ūrdhve ca pañceti dvādaśaite nirūpitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 314)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.317]]
+
 *Lead-in:* एवमस्याः शास्त्रान्तरेभ्यो विशेषं दर्शयित्वा प्रकृतमेवाह --
 
 > मध्ये पुटत्रयं तस्या रुद्राः षडधरेऽन्तरे ।

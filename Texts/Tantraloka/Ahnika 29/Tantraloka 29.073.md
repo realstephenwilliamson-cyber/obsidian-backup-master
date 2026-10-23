@@ -33,6 +33,11 @@ yatkiñcidathavā madhye svānuṣṭhānaṃ prapūjayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 270–273)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.72–73]]
+>
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.73–75]]
+
 *Lead-in:* अत्रैव पक्षान्तरमाह--
 
 Jayaratha comments on this verse together with 29.72: see [[Tantraloka 29.072#Viveka|29.72]].

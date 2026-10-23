@@ -35,6 +35,9 @@ tāratamyaprakāśo yastīvramadhyamamandatāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 203–204)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.129–130]]
+
 *Lead-in:* एवमियता मतादीनां तत्त्वं विवेचितम्, इदानीं पुनः शक्तिपातविचित्रतामभिधातुमाह --
 
 > तारतम्यप्रकाशो यस्तीव्रमध्यममन्दताः ॥

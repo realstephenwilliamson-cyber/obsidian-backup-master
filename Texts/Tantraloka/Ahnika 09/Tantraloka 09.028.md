@@ -34,6 +34,9 @@ bhāti tāvati tādrūpyād dṛḍhahetuphalātmatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 37)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.28]]
+
 *Lead-in:* एवं निर्बाधो नियम एव कार्यकारणताया निबन्धनम् -- इत्याह --
 
 > ततो यावति याद्रूप्यान्नियमो बाधवर्जितः ।

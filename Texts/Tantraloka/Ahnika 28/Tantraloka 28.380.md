@@ -33,6 +33,11 @@ yāvantyeva śarīrāṇi svāṅgavatsyuḥ sunirbharām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 172–173)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.379–380]]
+>
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.380–381]]
+
 *Lead-in:* एवं मेलकादावतन्मयस्य प्रवेशनिषेधात् तत्प्रवेशाभ्यनुज्ञानेऽपि विशेषावद्योतनाय तन्मया एव अत्र प्रवेशनीयाः--इत्याह--
 
 > यावन्त्येव शरीराणि स्वाङ्गवत्स्युः सुनिर्भराम् ॥

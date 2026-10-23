@@ -34,6 +34,9 @@ bhogyatvenānnarūpaṃ ca śabdasparśarasātmakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 350–351)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.228]]
+
 > भूतभावोद्भवकरो विसर्गः कर्मसंज्ञितः ॥ (गी. ८अ. ३ श्लो.)
 
 इति । एतदेव स्वरूपं प्राग्वितत्योक्तं न पुनरिहायस्तम् । चर्याक्रमे च यल्लोहितं पक्वान्नरसरूपमार्तवं तदग्निस्तत्परिपाकोऽन्नम् । यद्वा सर्वस्य आर्तवस्य यच्च वीर्यम् आनन्दफलं षष्ठग्रहपर्यायम्,

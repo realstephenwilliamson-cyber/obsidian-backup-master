@@ -33,6 +33,11 @@ yanmayādya tapastaptaṃ tadasmai syāditi sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 99–100)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.105–106]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.106–107]]
+
 *Lead-in:* नन्वेवं सत्तया फलदाने कर्म न प्रयोजकं किन्तु अभिसंधानादित्यायातम् ? सत्यमेतत्, -- इत्याह --
 
 > यन्मयाद्य तपस्तप्तं तदस्मै स्यादिति स्फुटम् ॥

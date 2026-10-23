@@ -37,6 +37,11 @@ icchā kāmo viṣaṃ jñānaṃ kriyā devī nirañjanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 295–297)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.171–172]]
+>
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.172–173]]
+
 *Lead-in:* ननु कामादेस्तत्त्वत्रयस्य इच्छादिशक्तित्रयरूपत्वमस्ति, तत्कथमेकस्यैव अमृतबीजस्य एतद्रूपत्वमुक्तम् ? -- इत्याशङ्क्य विभागावेदनपूर्वमेषामविभागमेव द्रढयति --
 
 > इच्छा कामो विषं ज्ञानं क्रिया देवी निरञ्जनम् ॥

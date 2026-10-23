@@ -31,5 +31,8 @@ tathā dehī tanuṃ kṛtvā kriyādiguṇavarjitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 101)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.224–227]]
+
 Jayaratha comments on this verse together with 28.226: see [[Tantraloka 28.226#Viveka|28.226]].
 

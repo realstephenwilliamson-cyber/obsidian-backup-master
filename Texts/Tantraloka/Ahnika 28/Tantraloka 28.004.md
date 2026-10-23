@@ -31,6 +31,9 @@ pramātraniyataṃ prāhurnaimittikamidaṃ budhāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 5–6)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.4]]
+
 *Lead-in:* एवं परकृतं नैमित्तिकलक्षणं नित्यद्वारेण अपाकृत्य, स्वमतेन आह--
 
 > अशङ्कितव्यावश्यन्तासत्ताकं जातुचिद्भवम् ।

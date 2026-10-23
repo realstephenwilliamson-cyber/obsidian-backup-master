@@ -36,6 +36,11 @@ astu cet na jaḍe'nyonyaviruddhākārasaṃbhavaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 29–30)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.16]]
+>
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.16 (2)]]
+
 *Lead-in:* तदाह --
 
 > ततश्च चित्राकारोऽसौ तावान्कश्चित्प्रसज्यते ।

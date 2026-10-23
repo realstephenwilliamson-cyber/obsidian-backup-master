@@ -36,6 +36,11 @@ tāvatyeva na viśrāntau tadanyātyantasaṃbhavāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 28–29)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.15]]
+>
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.15 (2)]]
+
 *Lead-in:* अत आह -
 
 > स तत्स्वभाव इति चेत् ................. ।

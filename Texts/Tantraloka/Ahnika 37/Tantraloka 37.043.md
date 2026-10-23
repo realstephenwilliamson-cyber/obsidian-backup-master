@@ -36,6 +36,9 @@ vidadhadaniśaṃ kāmātaṅkairvaśīkurute jagat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 246)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.43]]
+
 > र्युगपदखिलं भोगासारं रसात् परिचर्चितुम् ॥
 > स्थाने स्थाने मुनिभिरखिलैश्चक्रिरे यन्निवासा
 > यच्चाध्यास्ते प्रतिपदमिदं स स्वयं चन्द्रचूडः ।

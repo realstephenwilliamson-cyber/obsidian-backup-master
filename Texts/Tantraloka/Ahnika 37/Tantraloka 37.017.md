@@ -31,6 +31,9 @@ utkṛṣṭaṃ bhairavābhikhyaṃ catuḥṣaṣṭivibheditam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 233)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.16–17]]
+
 > अज्ञत्वानुपदेष्टृत्वसंदष्टेऽधरशासने ॥
 > एतद्विपर्ययाद् ग्राह्यमवश्यं शिवशासनम् ।
 > द्वावाप्तौ तत्र च श्रीमच्छ्रीकण्ठलकुलेश्वरौ ॥

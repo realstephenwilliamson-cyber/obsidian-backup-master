@@ -37,6 +37,11 @@ pralayānte hyanantena saṃhṛtāste tvaharmukhe || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 322–324)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.329–330]]
+>
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.330–332]]
+
 *Lead-in:* मायामयशरीरत्वमेव व्याचष्टे --
 
 Jayaratha comments on this verse together with 8.329: see [[Tantraloka 08.329#Viveka|8.329]].

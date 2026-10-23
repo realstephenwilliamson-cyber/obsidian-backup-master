@@ -37,6 +37,11 @@ rātryantadinapūrvāṃśau madhyāhno divasakṣayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 415–417)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.204–205]]
+>
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.205–206]]
+
 *Lead-in:* अत्र च विषुवत्संक्रान्तीनां विभागं स्फुटयति --
 
 > रात्र्यन्तदिनपूर्वांशौ मध्याह्नो दिवसक्षयः ॥

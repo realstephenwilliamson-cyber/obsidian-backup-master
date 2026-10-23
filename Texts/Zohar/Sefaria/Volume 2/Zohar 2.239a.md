@@ -46,4 +46,4 @@ Pritzker translation (Matt): [[Zohar 6.06 - Parashat Pequdei#^z2-239a|Parashat P
 [^1]: According to T. B. Hulin, 22a-22b, there is a special age qualification for each, that of the turtle-dove comnmencing when that of the young pigeon had already terminated.
 [^2]: Whose offerings consist only of birds.
 [^3]: The text seems here to revert abruptly to the subject of the offering of the bird introduced above.
-[^4]: v. T. B. Sanhedrin, 56b.
+[^4]: v. T. B. [[Sanhedrin 56#56b|Sanhedrin, 56b]].

@@ -31,6 +31,9 @@ turyātītaṃ tu tatprāhuritthaṃ sarvatra yojayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 485–488)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.294–297]]
+
 > यस्य यद्यत् स्फुंटं रूपं तज्जाग्रदिति मन्यताम् ॥
 > यदेवास्थिरमाभाति स पूर्वं स्वप्न ईदृशः ।
 > अस्फुटं तु यदाभाति सुप्तं तत्तत्पुरोऽपि यत् ॥

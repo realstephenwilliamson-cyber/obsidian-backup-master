@@ -31,6 +31,9 @@ kintvāvāhyastu yo mantraḥ sa tatrāṅgasamanvitaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 155–156)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.257–258]]
+
 > यावन्तः कीर्तिता भेदाः शंभुशक्त्यणुवाचकाः ।
 > तावत्स्वप्येषु मन्त्रेषु न्यासः षोढैव कीर्तितः ॥
 > किन्त्वावाह्यस्तु यो मन्त्रः स तत्राङ्गसमन्वितः ।

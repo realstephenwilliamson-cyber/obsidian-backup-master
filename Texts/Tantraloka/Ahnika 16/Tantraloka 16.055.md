@@ -34,6 +34,9 @@ tatsāyujyaṃ paśoḥ sāmyādbāhyādervīradharmaṇaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 24)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.54–56]]
+
 > राज्यं लाभोऽथ तत्स्थैर्यं शिवे भक्तिस्तदात्मता ॥
 > शिवज्ञानं मन्त्रलोकप्राप्तिस्तत्परिवारता ।
 > तत्सायुज्यं पशोः साम्याद्बाह्यादेर्वीरधर्मणः ॥

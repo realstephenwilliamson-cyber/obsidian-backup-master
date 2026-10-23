@@ -35,6 +35,9 @@ yoginīhṛdayaṃ tatra viśrāntaḥ syātkṛtī budhaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 91–92)
+> ![[Tantraloka Dyczkowski v04 05 - Chapter Five, part 3#Viveka on 5.73]]
+
 *Lead-in:* एतदेवोपसंहरति -
 
 > अलं रहस्यकथया गुप्तमेतत्स्वभावतः ।

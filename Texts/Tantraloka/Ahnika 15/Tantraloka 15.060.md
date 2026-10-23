@@ -31,6 +31,9 @@ viśvaṃ nimajjya tatraiva tiṣṭhecchuddhaśca śodhakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 47–48)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.60]]
+
 > देवान्पितॄन्मुनीन्यक्षान् रक्षांस्यन्यच्च भौतिकम् ॥
 > सर्वं संतर्पयेत्प्राणो वीर्यात्मा स च भास्करः ।
 > ततो जपेत्परामेकां प्रागुक्तोच्चारयोगतः ॥

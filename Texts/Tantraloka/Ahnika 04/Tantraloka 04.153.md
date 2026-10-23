@@ -34,6 +34,9 @@ vilāpanātmikāṃ tāṃ ca bhāvasaṃhṛtimātmani |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 221)
+> ![[Tantraloka Dyczkowski v03 07 - Chapter Four, part 6#Viveka on 4.153]]
+
 *Lead-in:* कीदृक् चात्रोपसंह्रियमाणानां भावानां कलनम् ? -- इत्याशङ्क्याह --
 
 > विलापनात्मिकां तां च भावसंहृतिमात्मनि ।

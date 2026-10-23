@@ -34,6 +34,9 @@ itthaṃ śrīśiva evaikaḥ karteti paribhāṣyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 32)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.20–21]]
+
 > स्वरूपानधिकस्यापि क्रमस्य स्वस्वभावतः ॥
 > स्वातन्त्र्याद्भासनं स्याच्चेत् किमन्यद् ब्रूमहे वयम् ।
 > इत्थं श्रीशिव एवैकः कर्तेति परिभाष्यते ॥

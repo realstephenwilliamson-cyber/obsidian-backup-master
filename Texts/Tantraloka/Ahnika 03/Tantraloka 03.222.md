@@ -34,6 +34,9 @@ bahiścāntaśca hṛdaye nāde'tha parame pade || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 340–344)
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.221–223]]
+
 > आ इत्यवर्णादित्यादियावद्वैसर्गिकी कला ॥
 > ककारादिसकारान्ता विसर्गात्पञ्चधा स च ।
 > बहिश्चान्तश्च हृदये नादेऽथ परमे पदे ॥

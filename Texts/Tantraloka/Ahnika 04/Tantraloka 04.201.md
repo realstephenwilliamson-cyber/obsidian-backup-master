@@ -34,6 +34,9 @@ jājvalītyakhilākṣaughaprasṛtograśikhaḥ śikhī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 304–306)
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.201–202]]
+
 *Lead-in:* इदानीं होममपि वास्तवेन रूपेणाभिधातुमाह --
 
 Jayaratha comments on this verse together with 4.202: see [[Tantraloka 04.202#Viveka|4.202]].

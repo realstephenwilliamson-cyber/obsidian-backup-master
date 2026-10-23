@@ -33,6 +33,11 @@ duṣṭādhivāsavigame puṣpaiḥ kumbho'dhivāsyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 298)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.281–282]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.282–283]]
+
 *Lead-in:* ननु पारमेश्वर्या शक्त्या चेदयमधिष्ठितस्तदन्यवदेक एवास्य दीक्षादिः संस्कारोऽस्तु, द्विगुणेनानेन कोऽर्थः? -- इत्याशङ्कां दृष्टान्तप्रदर्शनेन प्रशमयति --
 
 > दुष्टाधिवासविगमे पुष्पैः कुम्भोऽधिवास्यते ॥

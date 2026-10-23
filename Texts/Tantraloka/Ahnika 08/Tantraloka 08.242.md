@@ -35,6 +35,9 @@ agnīśasaumyayāmyāpyapūrvanairṛtagāstu tāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 258)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.241–243]]
+
 > ब्रह्म्यैशी स्कन्दजा हारी वाराह्यैन्द्री सविच्चिका (चर्चिका) ॥
 > पीता शुक्ला पीतनीले नीला शुक्लारुणा क्रमात् ।
 > अग्नीशसौम्ययाम्याप्यपूर्वनैरृतगास्तु ताः ॥

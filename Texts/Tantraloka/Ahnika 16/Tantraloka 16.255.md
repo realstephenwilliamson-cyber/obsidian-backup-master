@@ -35,5 +35,8 @@ tairaśuddhaparāmarśāttanmayībhāvito guruḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 112)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.254–257]]
+
 Jayaratha comments on this verse together with 16.256: see [[Tantraloka 16.256#Viveka|16.256]].
 

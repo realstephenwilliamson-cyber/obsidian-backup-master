@@ -35,6 +35,13 @@ kriyā karaṇapūrveti vyāptyā karaṇapūrvakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 243–244)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.258–259]]
+>
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.259–260]]
+>
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.259–260 (2)]]
+
 *Lead-in:* तदेवाह --
 
 > क्रिया करणपूर्वेति व्याप्त्या करणपूर्वकम् ॥

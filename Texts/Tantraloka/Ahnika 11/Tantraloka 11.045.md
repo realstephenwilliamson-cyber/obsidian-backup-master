@@ -34,6 +34,9 @@ guptabhāṣī yato mātā tūṣṇīṃbhūto vyavasthitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 43–44)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.44–45]]
+
 > यत्प्रमाणात्मकं रूपमध्वनो मातृभागगम् ।
 > पदं ह्यवगमात्मत्वसमावेशात्तदुच्यते ॥
 > तदेव च पदं मन्त्रः प्रक्षोभात्प्रच्युतं यदा ।

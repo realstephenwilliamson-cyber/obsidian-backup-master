@@ -33,6 +33,11 @@ saṃvitsarvātmikā dehabhedādyā saṅkucettu sā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 167–169)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.372–373]]
+>
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.373–374]]
+
 *Lead-in:* ननु योगिनीमेलकादवश्यमेष ज्ञानमाप्नोतीति अवश्यतायां किं प्रमाणम्?--इत्याशङ्क्य आह--
 
 > संवित्सर्वात्मिका देहभेदाद्या सङ्कुचेत्तु सा ॥

@@ -35,6 +35,9 @@ pradhāne yadahorātraṃ tajjaṃ varṣaśataṃ vibhoḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 372)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.153–154]]
+
 *Lead-in:* इदानीं पूर्वोक्तयैव नीत्या यथोत्तरं वृद्धिक्रमेण दिनादिव्यवस्थामतिदेशद्वारेण दर्शयति "प्रधाने"इत्यादिना शामनसे पदे"इत्यन्तम् --
 
 Jayaratha comments on this verse together with 6.157: see [[Tantraloka 06.157#Viveka|6.157]].

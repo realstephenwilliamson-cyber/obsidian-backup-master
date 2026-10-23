@@ -33,6 +33,11 @@ evaṃ karmaṇi karmaṇi yatra kvāpi smaran vyāptim || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 340–341)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.160–161]]
+>
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.161–162]]
+
 *Lead-in:* एवंव्याप्तिभावनादस्य सर्वत्रैव परभैरवीभावो भवेत्--इत्याह--
 
 > एवं कर्मणि कर्मणि यत्र क्वापि स्मरन् व्याप्तिम् ॥

@@ -35,6 +35,9 @@ svajñānayogabalataḥ krīḍanto daiśikottamāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 272–274)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.260–262]]
+
 > क्रमात्तमोरजःसत्त्वे गुरूणां पङ्क्तयः स्थिताः ॥
 > तिस्रो द्वात्रिंशदेकातस्त्रिंशदप्येकविंशतिः ।
 > स्वज्ञानयोगबलतः क्रीडन्तो दैशिकोत्तमाः ॥

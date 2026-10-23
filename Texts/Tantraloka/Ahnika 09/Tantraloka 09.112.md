@@ -31,5 +31,8 @@ parābhisandhisaṃvittau svābhisandhirdṛḍhībhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 104)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.111–113]]
+
 Jayaratha comments on this verse together with 9.113: see [[Tantraloka 09.113#Viveka|9.113]].
 

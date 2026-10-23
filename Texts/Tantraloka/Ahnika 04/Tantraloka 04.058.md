@@ -34,6 +34,9 @@ saṃprāpyaṃ kulasāmānyaṃ jñānaṃ kaulikasiddhidam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 75–76)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.57–58]]
+
 > मातृमण्डलसंबोधात् संस्कारात्तपसः प्रिये ॥
 > ध्यानाद्योगाज्जपाज्ज्ञानान्मन्त्राराधनतो व्रतात् ।
 > संप्राप्यं कुलसामान्यं ज्ञानं कौलिकसिद्धिदम् ॥

@@ -31,6 +31,9 @@ ityūce parameśaḥ śrīkulagahvaraśāsane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 349–350)
+> ![[Tantraloka Dyczkowski v09 15 - Chapter Twenty-Four#Viveka on 24.13–16]]
+
 > बिन्दुना रोधयेत्तत्त्वं शक्तिबीजेन वेधयेत् ।
 > घट्टयेन्नाददेशे तु त्रिशूलेन तु ताडयेत् ॥
 > सुषुम्नान्तर्गतेनैव विसर्गेण पुनः पुनः ।

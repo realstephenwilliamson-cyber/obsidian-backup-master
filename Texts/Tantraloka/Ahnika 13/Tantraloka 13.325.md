@@ -33,6 +33,11 @@ uttarottaramācāryaṃ vidannapyadharo'dharaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 326)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.324–325]]
+>
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.325–326]]
+
 *Lead-in:* न केवलमेतत्परमेवोद्दिश्योक्तं यावत्स्वमपि -- इत्याह --
 
 > उत्तरोत्तरमाचार्यं विदन्नप्यधरोऽधरः ॥

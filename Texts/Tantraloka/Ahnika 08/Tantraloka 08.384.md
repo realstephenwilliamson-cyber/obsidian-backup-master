@@ -35,6 +35,9 @@ etāḥ pañca kalāḥ prāhurnirodhinyāṃ gurūttamāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 360–361)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.383–384]]
+
 > बिन्दूर्ध्वेऽर्धेन्दुरेतस्य कला ज्योत्स्ना च तद्वती ।
 > कान्तिः प्रभा च विमला पञ्चैता रोधिकास्ततः ॥
 > रुन्धनी रोधनी रोद्ध्री ज्ञानबोधा तमोपहा ।

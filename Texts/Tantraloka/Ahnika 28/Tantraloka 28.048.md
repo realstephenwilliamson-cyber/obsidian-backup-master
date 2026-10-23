@@ -33,6 +33,11 @@ neti tvasmadguravo viśeṣarūpā hi tithiriha na velā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 27–28)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.47–48]]
+>
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.48]]
+
 *Lead-in:* अत्रैव मतान्तरमाह--
 
 > नेति त्वस्मद्गुरवो विशेषरूपा हि तिथिरिह न वेला ॥

@@ -37,6 +37,11 @@ sa yadvakti tadeva syānmantro bhogāpavargadaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 121–122)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.272–273]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.273]]
+
 *Lead-in:* सत्यसञ्जल्पत्वमेव दर्शयति--
 
 > स यद्वक्ति तदेव स्यान्मन्त्रो भोगापवर्गदः ॥

@@ -34,6 +34,9 @@ na mokṣo nāma tannāsya pṛthaṅnāmāpi gṛhyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 130–131)
+> ![[Tantraloka Dyczkowski v01 05 - Chapter One, part 4#Viveka on 1.31]]
+
 *Lead-in:* नन्वेवं मोक्षस्य लक्षणमभिधीयताम् ? इत्याशङ्क्याह --
 
 > स्वतन्त्रात्मातिरिक्तस्तु तुच्छोऽतुच्छोऽपि कश्चन ।

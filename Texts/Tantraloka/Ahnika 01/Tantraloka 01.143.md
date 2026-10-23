@@ -34,6 +34,9 @@ vyavadhānāvyavadhinā bhūyānbhedaḥ pravartate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 309–310)
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.143]]
+
 *Lead-in:* न केवलमेवं यावदन्यदपि एतद्वैचित्र्ये निमित्तमस्ति -- इत्याह --
 
 > तत्रापि स्वपरद्वारद्वारित्वात्सर्वशोंऽशशः ।

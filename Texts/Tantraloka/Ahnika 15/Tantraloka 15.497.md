@@ -32,6 +32,9 @@ vasuvedākhyasaṃskārapūrṇa itthaṃ dvijaḥ sthitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 301–302)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.497]]
+
 *Lead-in:* एतावतैव च अस्य संस्कारान्तरसिद्धिः--इत्याह--
 
 > आहारबीजभावादिदोषध्वंसाद्भवेद् द्विजः ।

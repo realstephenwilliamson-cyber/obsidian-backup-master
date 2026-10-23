@@ -33,6 +33,11 @@ uktaṃ śrīratnamālāyāṃ jñātvā kālamupasthitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 111–112)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.254–256]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.256–259]]
+
 *Lead-in:*
 
 > तदेवायतनत्वेन संश्रयेद्भुक्तिमुक्तये ।

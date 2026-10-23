@@ -33,6 +33,13 @@ kṣetrārdhe cāpare daṇḍo dvikaraśchannapañcakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 98–99)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.69–71]]
+>
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.71–74]]
+>
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.71–74 (continued)]]
+
 *Lead-in:* एवं पूर्वस्मिन् क्षेत्रार्धे त्रिशूलं वर्तयित्वा, अपरस्मिन्नपि दण्डादि वर्तयितुमाह--
 
 Jayaratha comments on this verse together with 31.70: see [[Tantraloka 31.070#Viveka|31.70]].

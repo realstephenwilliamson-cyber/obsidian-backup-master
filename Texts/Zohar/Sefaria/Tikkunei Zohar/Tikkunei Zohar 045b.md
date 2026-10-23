@@ -308,12 +308,12 @@ and She is *braiyta*[^28],
 [^10]: BaT
 [^11]: *ḥag*
 [^12]: *ḥug*
-[^13]: See *BT* Beitzah 16a
+[^13]: See *BT* [[Beitzah 16#16a|Beitzah 16a]]
 [^14]: ו
 [^15]: *ḥaiy*
 [^16]: Yesod
 [^17]: *kol*
-[^18]: *BT*’Eiruvin 18b
+[^18]: *BT*’[[Eruvin 18#18b|Eiruvin 18b]]
 [^19]: *ryv*
 [^20]: 18
 [^21]: life

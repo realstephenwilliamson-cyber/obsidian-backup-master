@@ -31,6 +31,9 @@ siddhavīrāvalīsāre bhairavīye kule'pi ca || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 291–292)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.40–42]]
+
 > सिद्धान्ते दीक्षितास्तन्त्रे दशाष्टादशभेदिनि ॥
 > भैरवीये चतुःषष्टौ तान्पशून्दीक्षयेत् त्रिके ।
 > सिद्धवीरावलीसारे भैरवीये कुलेऽपि च ॥

@@ -33,6 +33,11 @@ ataḥ smaraṇamantyaṃ yattadasarvajñamātṛṣu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 149–150)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.340–341]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.341–342]]
+
 *Lead-in:* ननु यदि यदेव स्मर्यते तदेव प्राप्यते, तर्हि तत्क्षणभावि नीलादिस्मरणमपि तथात्वनिबन्धनं स्यात् ?--इत्याशङ्क्य आह--
 
 > प्राक् स्मर्यते यतो देहः प्राक्चिताधिष्ठितः स्फुरन् ।

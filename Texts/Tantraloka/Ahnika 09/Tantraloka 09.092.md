@@ -33,6 +33,11 @@ sa punaḥ śāṃbhavecchātaḥ śivābhedaṃ parāmṛśan || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 90–93)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.90–92]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.92–93]]
+
 *Lead-in:* ननु अस्य किं सर्वदैव शिवाभेदासंस्पर्शः, उत न ? -- इत्याशङ्क्याह --
 
 > स पुनः शांभवेच्छातः शिवाभेदं परामृशन् ॥

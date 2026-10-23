@@ -33,6 +33,11 @@ sthānabhedo vicitraśca sa śāstre saṃkhyayojjhitaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 69–72)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.101–102]]
+>
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.102–104]]
+
 *Lead-in:* तदेव दर्शयति—
 
 Jayaratha comments on this verse together with 15.101: see [[Tantraloka 15.101#Viveka|15.101]].

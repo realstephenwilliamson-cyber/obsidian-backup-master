@@ -36,6 +36,11 @@ tena saṃtarpayetsamyak praśāntakaraṇena tu |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 174–177)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.83–85]]
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.85–87]]
+
 *Lead-in:* ननु करणस्य प्रशान्तत्वं नाम किमुच्यते?--इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 17.84: see [[Tantraloka 17.084#Viveka|17.84]].

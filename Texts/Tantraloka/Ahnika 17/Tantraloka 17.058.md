@@ -34,5 +34,10 @@ tataḥ śiṣyahṛdaṃ neyaḥ sa ātmā tāvato'dhvanaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 166–167)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 17.61.*
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.61]]
+
 Jayaratha comments on this verse together with 17.61: see [[Tantraloka 17.061#Viveka|17.61]].
 

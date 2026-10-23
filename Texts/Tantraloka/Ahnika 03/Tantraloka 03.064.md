@@ -37,6 +37,11 @@ yatrāsya vicchidā bhānaṃ saṅkalpasvapnadarśane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 135–136)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.64]]
+>
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.64 (2)]]
+
 > अत एवान्तरं किञ्चिद्धीसंज्ञं भवतु स्फुटम् ।
 > यत्रास्य विच्छिदा भानं सङ्कल्पस्वप्नदर्शने ॥
 

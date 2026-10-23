@@ -36,6 +36,11 @@ kathametāvatīmenāṃ vaicitrīṃ svātmani śritau |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 205–206)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.98–99]]
+>
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.99–100]]
+
 *Lead-in:* तदेव प्रतिविधत्ते --
 
 > शृणु तावदयं संविन्नाथोऽपरिमितात्मकः ॥

@@ -31,6 +31,9 @@ mumukṣuṇā tu pādādi tatkāryaṃ saṃhṛtikramāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 154)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.256]]
+
 *Lead-in:* अत्रैव व्याख्यानान्तरमपि अस्ति--इत्याह--
 
 > गुरवस्त्वाहुरित्थं यन्न्यासद्वयमुदाहृतम् ।

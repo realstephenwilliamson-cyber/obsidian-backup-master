@@ -37,6 +37,11 @@ visargāmṛtametāvad bodhākhye hutabhojini || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 73–76)
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.64–66]]
+>
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.66]]
+
 *Lead-in:* नन्वेवं संविद्देवीतर्पणेन कोऽर्थः -- इत्याशङ्क्याह --
 
 > विसर्गामृतमेतावद् बोधाख्ये हुतभोजिनि ॥

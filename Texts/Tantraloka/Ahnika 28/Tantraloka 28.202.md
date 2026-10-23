@@ -33,6 +33,11 @@ evaṃ cānādisaṃsārocitavijñānasantateḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 92)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.201–202]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.202–203]]
+
 *Lead-in:* ननु एवं प्राप्यलाभेऽस्य किं स्यात्?--इत्याशङ्क्य आह--
 
 > एवं चानादिसंसारोचितविज्ञानसन्ततेः ॥

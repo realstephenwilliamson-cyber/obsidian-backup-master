@@ -35,6 +35,9 @@ svādvarṇavāntaṃ mervardhādyojananāmiyaṃ pramā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 149–150)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.106–107]]
+
 *Lead-in:* इयदन्तं सङ्कलयति --
 
 > त्रिपञ्चाशच्च लक्षाणि द्विकोट्ययुतपञ्चकम् ।

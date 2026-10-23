@@ -34,6 +34,9 @@ stājjñānaśūlaṃ satpakṣavipakṣotkartanakṣamam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 43–45)
+> ![[Tantraloka Dyczkowski v01 03 - Chapter One, part 2#Viveka on 1.4]]
+
 *Lead-in:* अथ परापरोभयस्वरूपमयीं परापरां देवीं परमृशति --
 
 > दीप्तज्योतिश्छटाप्लुष्टभेदबन्धत्रयं स्फुरत् ।

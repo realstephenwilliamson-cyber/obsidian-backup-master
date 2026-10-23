@@ -31,6 +31,9 @@ māyāgarbheśaśaktyāderantarajñānamāntaram || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 158–159)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.184–185]]
+
 *Lead-in:* इत्याद्युक्त्या एककर्तृकारकीभूतत्वेनालक्ष्यान्तरत्वेऽपि भगवदनुग्रहात् कस्यचित् यदानयोर्विवेकज्ञानं जायते तदासौ मायापुंविवेकः सर्वकर्मक्षयात् विज्ञानाकलता च भवेद्येनायं पुमान् मायाधो न संसरेत् -- इति तदाह --
 
 Jayaratha comments on this verse together with 9.185: see [[Tantraloka 09.185#Viveka|9.185]].

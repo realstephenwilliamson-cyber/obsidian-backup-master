@@ -33,6 +33,11 @@ anyaḥ so'nyo'hamityevaṃ vikalpaṃ nācaredyataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 281–283)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.90]]
+>
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.90–91]]
+
 *Lead-in:* एवमपमार्गनिरोधात् मध्यधामनि एव प्ररोहं प्राप्तः प्राणः संविद्रूपोद्रेकात् विश्वात्मकतामेव यायात् । तदाह--
 
 > स आत्मा मातृका देवी शिवो देहव्यवस्थितः ।

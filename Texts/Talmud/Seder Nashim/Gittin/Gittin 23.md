@@ -1,0 +1,167 @@
+---
+type: "text"
+work: "Talmud Bavli"
+masekhet: "Gittin"
+seder: "Nashim"
+daf: 23
+translation: "William Davidson Edition - English"
+edition: "English from The William Davidson digital edition of the Koren Noé Talmud, with commentary by Rabbi Adin Even-Israel Steinsaltz"
+license: "CC-BY-NC"
+source: "https://www.sefaria.org/Gittin.23a?ven=William_Davidson_Edition_-_English&lang=en"
+aliases:
+  - "Gittin 23a"
+  - "Gittin 23b"
+  - "BT Gittin 23"
+---
+# Gittin 23
+
+← [[Gittin 22]] · [[Gittin]] · [[Gittin 24]] →
+
+*Seder Nashim · Gittin · Daf 23* · [[Gittin]] · [[Talmud]]
+
+## 23a
+
+> [!xref]- Mesoret HaShas (23a)
+> - [[Arakhin 18#^18a-1|Arakhin 18a:1]] (line 15)
+> - [[Bava Batra 128#^128a-10|Bava Batra 128a:10-11]] (line 15)
+> - [[Chullin 96#^96a-2|Chullin 96a:2]] (line 17)
+> - [[Megillah 19#^19b-6|Megillah 19b:6]] (line 13)
+> - [[Gittin 9#^9a-10|Gittin 9a:10]] (line 13)
+> - [[Gittin 5#^5a-1|Gittin 5a:1]] (line 13)
+> - [Tosefta Sanhedrin 5:3](https://www.sefaria.org/Tosefta_Sanhedrin.5.3) (line 15)
+> - [[Menachot 93#^93a-14|Menachot 93a:14]] (line 16)
+> - [[Gittin 3#^3b-5|Gittin 3b:5-4a:1]] (line 5)
+> - [[Ketubot 85#^85a-17|Ketubot 85a:17]] (line 5)
+> - [[Gittin 26#^26b-13|Gittin 26b:13]] (line 5)
+> - [[Zevachim 2#^2b-7|Zevachim 2b:7]] (line 7)
+
+> [!xref]- Ein Mishpat (23a)
+> - [[Mishneh Torah - Divorce 03#^3-17|Mishneh Torah, Divorce 3:17]] (lines 1, 4, 10)
+> - [[Mishneh Torah - Divorce 03#^3-18|Mishneh Torah, Divorce 3:18]] (lines 1, 4, 10)
+> - [Sefer Mitzvot Gadol, Positive Commandments 50](https://www.sefaria.org/Sefer_Mitzvot_Gadol,_Positive_Commandments.50) (lines 1, 4, 10, 13, 18, 20)
+> - [Tur, Even HaEzer 123](https://www.sefaria.org/Tur,_Even_HaEzer.123) (lines 1, 4, 10)
+> - [Shulchan Arukh, Even HaEzer 123:3](https://www.sefaria.org/Shulchan_Arukh,_Even_HaEzer.123.3) (lines 1, 4, 10)
+> - [[Mishneh Torah - Divorce 03#^3-16|Mishneh Torah, Divorce 3:16]] (lines 1, 4, 10)
+> - [Shulchan Arukh, Even HaEzer 123:4](https://www.sefaria.org/Shulchan_Arukh,_Even_HaEzer.123.4) (lines 1, 4, 10)
+> - [[Mishneh Torah - Divorce 06#^6-6|Mishneh Torah, Divorce 6:6]] (line 13)
+> - [Tur, Even HaEzer 141](https://www.sefaria.org/Tur,_Even_HaEzer.141) (lines 13, 14)
+> - [Shulchan Arukh, Even HaEzer 141:31](https://www.sefaria.org/Shulchan_Arukh,_Even_HaEzer.141.31) (line 13)
+> - [[Mishneh Torah - Divorce 06#^6-8|Mishneh Torah, Divorce 6:8]] (line 14)
+> - [Shulchan Arukh, Even HaEzer 141:32](https://www.sefaria.org/Shulchan_Arukh,_Even_HaEzer.141.32) (line 14)
+> - [[Mishneh Torah - Divorce 07#^7-19|Mishneh Torah, Divorce 7:19]] (lines 18, 20)
+> - [Tur, Even HaEzer 142](https://www.sefaria.org/Tur,_Even_HaEzer.142) (lines 18, 20)
+> - [Shulchan Arukh, Even HaEzer 142:11](https://www.sefaria.org/Shulchan_Arukh,_Even_HaEzer.142.11) (lines 18, 20)
+
+**And that** is the case only when **there was an adult standing over him.** When the adult supervises the writing, and instructs him to write it for her sake, it will be valid. ^23a-1
+
+**Rav Naḥman said to him: If that is so,** that anyone who is disqualified from writing a bill of divorce may do so with an adult supervising him, then if the one writing is **a gentile, and a Jew stands over him** and instructs him to write it for her sake, would you **also** say **that** it is **valid? And if you would say that** it is **also** valid, **but isn’t it taught** in a *baraita*: **A gentile is disqualified** from writing a bill of divorce in any event? Rav Huna answered: **A gentile acts** based on **his own will.** Since he is halakhically competent, he will have his own intentions while writing and may not be relied upon to carry out the intentions of the supervisor. In the case of the mishna, since those doing the writing are not halakhically competent, they will write according to the instructions of the supervisor. ^23a-2
+
+**Rav Naḥman then said: What I said** when I raised a challenge from a case involving a gentile **is not correct,** as **from the fact** that the mishna later **disqualifies a gentile with regard to** acting as an agent in **the bringing** of the bill of divorce, one can learn **by inference** that he is **qualified with regard to writing,** where he is not listed among those who are disqualified. ^23a-3
+
+The Gemara asks: **But isn’t it taught** in a *baraita* that **a gentile is disqualified** from writing a bill of divorce? The Gemara answers: **That** *baraita* **is** in accordance with the opinion of **Rabbi Elazar, who says: Witnesses of the transmission** of the bill of divorce **effect** the divorce, and when the verse states: “And he writes her” ([[Torah 49 - Ki Teitzei#^24-1|Deuteronomy 24:1]]), which is the source for the *halakha* that the writing needs to be done for her sake, it is referring to the writing of the bill of divorce and not to its signing. Therefore, **we need** the **writing** to be **for her sake, and certainly a gentile acts** based on **his own will** and may not be relied upon to write the bill of divorce according to the instructions of a supervisor. ^23a-4
+
+With regard to the requirement that a bill of divorce be written for her sake, **Rav Naḥman says** that **Rabbi Meir would have said: Even if** the husband **found** the bill of divorce **in the garbage** dump, and the names written on it happened to be the same as his and his wife’s names, if **he had it signed** by witnesses **and he gave it to her,** then it is **valid,** because the essential requirement is that it be signed for her sake. ^23a-5
+
+**Rava raised an objection to** the statement of **Rav Naḥman:** The verse states: **“And he writes her,”** which is interpreted to mean that it must be written **for her sake. What, is it not** referring to the actual **writing of the bill of divorce,** that it must be written with the intent that it be used to sever this particular marriage? The Gemara rejects this: **No,** it is referring to the **signing of the witnesses.** ^23a-6
+
+**Rava raised** another **objection to him** based on what was taught in a mishna (24a): **Any bill of divorce that was not written for the sake of** a specific **woman** is **invalid.** He responded: **Say** that according Rabbi Meir the mishna teaches: Any bill of divorce **that was not signed for the sake of** a specific **woman** is **invalid.** ^23a-7
+
+Rava **raised** another **objection to him** based on another *baraita*: **When he writes it,** it is **as though he writes it for her sake,** meaning that writing one part for her sake makes it as if the entire document were written for her sake. **What, it is not** stating that **when he writes the essential** part of the document, which includes the names of the spouses; the date on which it was written; and the expression: Behold you are permitted to any man, **for her sake,** then **is it as though he writes the standard** part of the bill of divorce, containing the rest of the information, **for her sake?** This *baraita* indicates that there is a requirement that the bill of divorce, not just the signatures, be written for her sake. ^23a-8
+
+Rav Naḥman rejects this: **No,** Rabbi Meir would explain that this *baraita* is referring to a case **where he** has witnesses **sign it for her sake; it is as though he wrote it for her sake. And if you wish, say: Who is** the *tanna* of **these *baraitot*** from which you raised challenges? **They are** in accordance with the opinion of **Rabbi Elazar, who said: Witnesses of the transmission** of the bill of divorce **effect** the divorce. According to him, the verse is referring to the writing and not the signing of the bill of divorce, and the writing must be for her sake. ^23a-9
+
+**And Rav Yehuda says** that **Shmuel** says: **And** the statement of the mishna that one who is not halakhically competent is qualified to write a bill of divorce is the *halakha* only **when he left** unwritten **the essential** part of the document, which will be written later by a halakhically competent person, as only the essential part must be written for her sake. **And so Rabbi Ḥagga says in the name of Ulla: And** this is the *halakha* only **when he left the essential** part of the document unwritten, **and** the mishna is in accordance with the opinion of **Rabbi Elazar,** that the writing of the essential part must be done for her sake. ^23a-10
+
+**And Rabbi Zerika says** that **Rabbi Yoḥanan** says: **It is not Torah.** The Gemara clarifies: **What** is meant by the expression: **It is not Torah? Rabbi Abba says: Here** Rabbi Yoḥanan **informs you that there is no force** to a requirement that a bill of divorce be written **for her sake,** as only the signing needs to be done for her sake. **And it is** in accordance with the opinion of **Rabbi Meir,** who **says: Signatory witnesses** on the bill of divorce **effect** the divorce. ^23a-11
+
+The Gemara asks: **But didn’t Rabba bar bar Ḥana say** earlier that **Rabbi Yoḥanan said** that the mishna **is** in accordance with the opinion of **Rabbi Elazar?** How, then, can Rabbi Abba say that according to Rabbi Yoḥanan, the mishna is in accordance with the opinion of Rabbi Meir? The Gemara answers: **They are *amora’im* and** disagree **with regard to** the opinion of **Rabbi Yoḥanan,** whether he explains the mishna in accordance with the opinion of Rabbi Meir or that of Rabbi Elazar. ^23a-12
+
+**MISHNA:** **Anyone is fit** to serve as an agent **to bring a bill of divorce** to a woman **except for a deaf-mute, an imbecile, or a minor, or a blind person, or a gentile.** ^23a-13
+
+If **a minor received** the bill of divorce **and** then **reached** the age of **majority,** or one received it when he was **a deaf-mute and** then **became able to hear,** or one received it when he was **blind and** then **became able to see,** or one received it when he was **an imbecile and** then **became** halakhically **competent,** or one received it when he was **a gentile and** then **converted,** in all of these cases he is **unfit** to bring the bill of divorce. ^23a-14
+
+**However,** if one received it when he was **able to hear, and** then **became a deaf-mute, and** then **again became able to hear;** or if one received it when **he was able to see, and** then **became blind, and** then **again became able to see;** or one received it when he was halakhically **competent, and** then **became an imbecile, and** then **again became** halakhically **competent,** in all of these cases he is **fit** to bring the bill of divorce. **This is the principle: Anyone who is** halakhically **competent in the beginning and in the end** is **fit,** even if there was time in the interim when he was unfit. ^23a-15
+
+**GEMARA:** The Gemara asks with regard to those the mishna lists as not being qualified to bring a bill of divorce: **Granted, a deaf-mute, an imbecile, and a minor** are not qualified because **they are not** halakhically **competent,** and only one who is competent can be appointed as an agent. Additionally, **a gentile also** is not qualified, **as he is not subject to** the *halakhot* that **permit** a woman to remarry via a bill of divorce. A person cannot serve as an agent for a matter that does not apply to him. **But why isn’t a blind person** qualified to bring a bill of divorce? **Rav Sheshet says: Because he does not know from whom he takes it and to whom he gives it,** and since he is unaware of this he will not be able to testify about it. ^23a-16
+
+**Rav Yosef objects to this:** If there is a concern that a blind person cannot distinguish between different people, then **how is a blind man permitted to** have sexual relations with **his wife?** How does he know that she is in fact his wife? Similarly, **how are** all **people permitted to** have sexual relations with **their wives at night?** If it is dark, they cannot see them. **Rather,** you must say that they are permitted **through voice recognition [*teviut eina dekala*].** They can recognize each other based on their voices. **Here too,** with regard to a blind person, he can recognize the giver and receiver of the bill of divorce **through voice recognition.** ^23a-17
+
+**Rather, Rav Yosef says: Here we are dealing with** a husband who sends a bill of divorce to his wife **outside of Eretz** Yisrael, **where** the agent **needs to say: It was written in my presence and it was signed in my presence, and** a blind man **cannot say** this because he is unable to see it being written or signed. ^23a-18
+
+**Abaye said to him: However, if that is so,** then a person who **is able to see** when he receives the bill of divorce **and** then **becomes blind, who can say:** It was written and signed in my presence, as he was able to see when it was written and signed, would you say that he is **also fit** to bring the bill of divorce? **But it is taught** in the mishna: If one received it when **he was able to see, and** then **became blind, and** then **again became able to see,** then he is **fit** to bring the bill of divorce. It can be inferred from here that only when **he again became able to see, yes,** he may bring it. But if **he did not again become able to see,** then **no,** he may not bring it. ^23a-19
+
+The Gemara answers this question: In fact, with regard to a blind person, **the same is true, that although he did not again become able to see** he can serve as an agent to bring the bill of divorce and testify that it was written and signed in his presence. **And** why does it teach that the blind man became able to see again? **Since** the mishna **teaches** that one who received the bill of divorce when he was halakhically **competent, and** then **became an imbecile, and** then **again became** halakhically **competent** is qualified to bring the bill of divorce. And in that case, **the reason** why he is qualified is specifically **that he again became** halakhically **competent, but if he did not again become** halakhically **competent,** then he is **not** qualified. Therefore, the mishna **also teaches** with regard to **one who was able to see** that he then **became blind and** then **again became able to see.** ^23a-20
+
+**Rav Ashi said:** The language of the mishna **is also precise, as it teaches** that **this is the principle: Anyone who is** halakhically **competent in the beginning and in the end** is **fit, and it does not teach: Anyone who is fit in the beginning and the end** is **fit. Learn from** the mishna that it is not necessary for him to be fit in the beginning and the end, as there are times that being fit in the beginning is sufficient, as in the case of one who became blind after witnessing the writing and signing of the bill of divorce. However, it is clear that he must be halakhically competent both in the beginning and the end, which a blind person is. ^23a-21
+
+§ **They raised a dilemma before Rabbi Ami:** With regard to **a slave, what is** the *halakha*? **Can he be made an agent to receive a woman’s bill of divorce from the hand of her husband?** Is he qualified to act as an agent or not? **He said to them: From** the fact that the mishna **disqualified a gentile,** ^23a-22
+
+## 23b
+
+> [!torah]- Torah Or (23b)
+> - [[Torah 38 - Korach#^18-3|Numbers 18:3]] (line 4)
+> - [[Torah 38 - Korach#^18-28|Numbers 18:28]] (line 4)
+
+> [!xref]- Mesoret HaShas (23b)
+> - [[Bava Metzia 76#^76a-14|Bava Metzia 76a:14]] (line 13)
+> - [[Kiddushin 41#^41b-11|Kiddushin 41b:11]] (line 1)
+> - [[Gittin 62#^62b-14|Gittin 62b:14]] (line 10)
+> - [Tosefta Gittin 2:8](https://www.sefaria.org/Tosefta_Gittin.2.8) (line 10)
+> - [[Yevamot 117#^117a-8|Yevamot 117a:8-9]] (line 10)
+> - [[Gittin 5#^5a-5|Gittin 5a:5]] (line 11)
+> - [[Yevamot 122#^122a-14|Yevamot 122a:14]] (line 15)
+> - [[Shabbat 153#^153b-2|Shabbat 153b:2-3]] (line 3)
+> - [[Temurah 25#^25a-19|Temurah 25a:19]] (line 6)
+> - [[Kiddushin 23#^23b-5|Kiddushin 23b:5]] (line 7)
+> - [Jerusalem Talmud Kiddushin 1:3:11](https://www.sefaria.org/Jerusalem_Talmud_Kiddushin.1.3.11) (line 8)
+
+> [!xref]- Ein Mishpat (23b)
+> - [[Mishneh Torah - Divorce 06#^6-6|Mishneh Torah, Divorce 6:6]] (line 1)
+> - [Sefer Mitzvot Gadol, Positive Commandments 50](https://www.sefaria.org/Sefer_Mitzvot_Gadol,_Positive_Commandments.50) (lines 1, 10, 14)
+> - [Tur, Even HaEzer 141](https://www.sefaria.org/Tur,_Even_HaEzer.141) (line 1)
+> - [Shulchan Arukh, Even HaEzer 141:31](https://www.sefaria.org/Shulchan_Arukh,_Even_HaEzer.141.31) (line 1)
+> - [[Mishneh Torah - Divorce 07#^7-6|Mishneh Torah, Divorce 7:6]] (lines 10, 14)
+> - [Tur, Even HaEzer 142](https://www.sefaria.org/Tur,_Even_HaEzer.142) (lines 10, 11, 14)
+> - [Shulchan Arukh, Even HaEzer 142:1](https://www.sefaria.org/Shulchan_Arukh,_Even_HaEzer.142.1) (lines 10, 14)
+> - [[Mishneh Torah - Divorce 07#^7-23|Mishneh Torah, Divorce 7:23]] (line 11)
+> - [Shulchan Arukh, Even HaEzer 142:13](https://www.sefaria.org/Shulchan_Arukh,_Even_HaEzer.142.13) (line 11)
+> - [[Mishneh Torah - Divorce 07#^7-2|Mishneh Torah, Divorce 7:2]] (line 12)
+> - [[Mishneh Torah - Heave Offerings 04#^4-15|Mishneh Torah, Heave Offerings 4:15]] (line 3)
+> - [[Mishneh Torah - Heave Offerings 04#^4-2|Mishneh Torah, Heave Offerings 4:2]] (lines 3, 5)
+> - [[Mishneh Torah - Agents and Partners 02#^2-1|Mishneh Torah, Agents and Partners 2:1]] (line 5)
+> - [Sefer Mitzvot Gadol, Positive Commandments 82](https://www.sefaria.org/Sefer_Mitzvot_Gadol,_Positive_Commandments.82) (line 5)
+> - [Tur, Choshen Mishpat 188](https://www.sefaria.org/Tur,_Choshen_Mishpat.188) (line 5)
+> - [Shulchan Arukh, Choshen Mishpat 188:1](https://www.sefaria.org/Shulchan_Arukh,_Choshen_Mishpat.188.1) (line 5)
+> - [[Mishneh Torah - Slaves 06#^6-8|Mishneh Torah, Slaves 6:8]] (line 7)
+> - [Tur, Yoreh De'ah 267](https://www.sefaria.org/Tur,_Yoreh_De'ah.267) (line 7)
+> - [Shulchan Arukh, Yoreh De'ah 267:55](https://www.sefaria.org/Shulchan_Arukh,_Yoreh_De'ah.267.55) (line 7)
+
+one can learn **by inference** that **a slave is fit. Rav Asi says** that **Rabbi Yoḥanan says: A slave cannot become an agent to receive a bill of divorce for a woman from the hand of her husband, because he is not** included **in the *halakhot* of divorce and betrothal,** and one can act as an agent only in a matter that applies to him. ^23b-1
+
+**Rabbi Elazar objects to this** explanation as to why a slave cannot act as an agent: **The reason** that a slave is unfit is that this agency **pertains to a matter whose** *halakhot* **he is not** included in, **but for a matter whose** *halakhot* **he is** included in, i.e., a mitzva that applies to a slave, is he **fit** to serve as an agent? ^23b-2
+
+**But** what of **a gentile and a Samaritan, who are** included **in the *halakhot* of *teruma* with regard to their own** produce, i.e., they must designate a portion of it for the priest, **as we learned** in a mishna (*Terumot* 3:9): With regard to **a gentile and a Samaritan that separated** *teruma* **from their own** produce, **their *teruma* is considered *teruma*. And** yet **we learned** in a different mishna (*Terumot* 1:1): In the case of **a gentile who separated *teruma* from a Jew’s** produce, i.e., acted as his agent, **even** if he did so **with permission** from the Jew, **his *teruma* is not *teruma*.** ^23b-3
+
+**What is the reason** for this? **Is it not because it is written “you”** in the verse that is the source for the *halakhot* of agency: **“So you also** shall set apart a gift unto the Lord of all your tithes” ([[Torah 38 - Korach#^18-28|Numbers 18:28]]), and the Sages expound the expression “so you also” to mean the following: **Just as you,** the ones appointing the agents, **are Jews, so too, your agents** must be **Jews.** Since slaves are not full-fledged Jews, they should be disqualified from ever acting as agents, even in a matter in which they are included in its *halakhot*. ^23b-4
+
+The Sages **from the school of Rabbi Yannai say: No,** the verse should be expounded in the following manner: **Just as you,** the ones appointing the agents, **are members of the covenant, so too, your agents** must be **members of the covenant.** Gentiles cannot serve as agents because they are not members of the covenant. Slaves, whose masters are commanded to circumcise them and who are obligated in some of the mitzvot, are members of the covenant, and they can serve as agents in a matter in which they are included in its *halakhot*. ^23b-5
+
+The Gemara quotes a related statement: **Rabbi Ḥiyya bar Abba says** that **Rabbi Yoḥanan says: A slave cannot become an agent to receive a bill of divorce for a woman from the hand of her husband, because he is not** included **in the *halakhot* of divorce and betrothal. And although we learned:** If a person said to his female slave: **Behold you are** still **a maidservant and your** unborn **child is a freeman, if she was pregnant** at that time, then **she acquired** freedom **for** the unborn child. ^23b-6
+
+The Gemara first clarifies: **What** is the connection between the initial statement of Rabbi Yoḥanan and the clause: **If she was pregnant** at that time, **she acquired** freedom **for** the unborn child? **When Rav Shmuel bar Yehuda came, he said: Rabbi Yoḥanan said two** distinct statements: The first statement was that a slave cannot be appointed as an agent to receive a bill of divorce for a woman from her husband, and the other was: **It appears that a slave can receive a bill of manumission for his fellow** slave **from the hand of his fellow’s master, but not from the hand of his own master** if both of them are enslaved by the same person. ^23b-7
+
+**And if a person will whisper** a question **to you, saying: This** ruling, that a slave cannot receive a bill of manumission for his fellow slave from their common master, is difficult, as **a *halakha* was taught** that states the opposite: **If** a maidservant **was pregnant** at that time, then **she acquired** freedom **for** the unborn child, and the child and mother both belong to the same master, then **say to him** that **two greats of the generation** already **explained the matter,** and they are **Rabbi Zeira and Rabbi Shmuel bar Rav Yitzḥak.** ^23b-8
+
+**One** of them **said:** In accordance with **whose** opinion **is this? It is** in accordance with the opinion of **Rabbi** Yehuda HaNasi, **who says:** With regard to **one who emancipates half of his slave,** the slave **acquires** freedom for half of himself, **and one** of them added an explanation and **said: What is the reasoning of Rabbi** Yehuda HaNasi **for this** ruling? **He holds: A fetus is** considered as **its mother’s thigh,** i.e., a part of its mother’s body, **and it is as though** the master **transferred** ownership of **one of her limbs to her.** Since the maidservant is pregnant, the child is considered to be a part of her, and it is as though he emancipated a portion of her body. Therefore, the mother is not acting as an agent for the child, and this *halakha* does not present a difficulty for Rabbi Yoḥanan’s opinion. ^23b-9
+
+**MISHNA:** There are instances in which a woman’s testimony that another woman’s husband has died is not deemed credible (*Yevamot* 117a). If there is a presumption that due to their familial relationship the two women hate each other, there is concern that the woman is testifying falsely in order to harm the other woman. By doing so, she can cause the other woman to remarry. If her original husband then proves to be living, she will be required to leave her second husband. This mishna teaches: **Even the women who are not deemed credible to** testify on behalf of a woman and **say: Her husband died,** and she is permitted to remarry, **are deemed credible to bring her bill of divorce.** The relatives of the woman who are not deemed credible to testify that her husband has died are: **Her mother-in-law; and her mother-in-law’s daughter; and her rival wife,** i.e., another wife of her husband’s; **and her *yevama*,** i.e., her husband’s brother’s wife; **and her husband’s daughter.** ^23b-10
+
+The mishna explains: **What is** the difference **between a bill of divorce and death,** that certain women are deemed credible to testify about one but not the other? With regard to a bill of divorce, it is so **that the writing proves** that the husband is divorcing his wife, and the testimony is needed only to supplement the bill of divorce. Similarly, **the woman herself may bring her** own **bill of divorce, provided that she is required** by the court **to state** in its presence: **It was written in my presence and it was signed in my presence,** as the Gemara will explain. ^23b-11
+
+**GEMARA:** The Gemara asks: **But isn’t it taught** in a *baraita*: **Just as** these women **are not deemed credible to say: Her husband died, so too, they are not deemed credible to bring her bill of divorce. Rav Yosef said:** It is **not difficult. Here,** this mishna is referring to a case that took place **in Eretz** Yisrael. **There,** the *baraita* is referring **to** a case that took place **outside of Eretz** Yisrael. ^23b-12
+
+The Gemara explains the difference: In a case that takes place **in Eretz** Yisrael, **where,** to validate the bill of divorce **we do not rely on her statement** of: It was written in my presence and it was signed in my presence, she serves only as an agent. Consequently, she is **deemed credible** to bring the bill of divorce. However, **in** a case that takes place **outside of Eretz** Yisrael, **where we rely on her statement** of: It was written in my presence and it was signed in my presence, and no one can contest the validity of the bill of divorce after her statement has been accepted, **she is not deemed credible,** as there is a concern that this woman may be intentionally lying in order to cause harm. ^23b-13
+
+**Abaye said to him: On the contrary, the opposite is** more **reasonable,** and the distinction should be: **In Eretz** Yisrael, **where if** the **husband** were to **come and contest** the validity of the bill of divorce, **we** would **pay attention to him** and rule that they are not divorced, **where it could be said** that the woman who hates her **intends to** do her **harm** by having her remarry based on a bill of divorce that was later contested, **she is not deemed credible.** However, **outside of Eretz** Yisrael, **where if** the **husband** were to **come and contest** the validity of the bill of divorce, **we** would **not pay attention to him,** she is **deemed credible,** as she does not have the power to make trouble for the other woman and cause her to have to leave her second husband. ^23b-14
+
+The Gemara notes that it **is taught** in a *baraita* **in accordance with** the opinion **of Abaye** (*Tosefta* 2:6): **Rabbi Shimon ben Elazar says in the name of Rabbi Akiva: A woman is deemed credible to bring her** own **bill of divorce through an *a fortiori*** inference: **Just as women** about **whom the Sages said:** They **are not deemed credible to say: Her husband died, are** nevertheless **deemed credible to bring her bill of divorce,** with regard to the woman herself, **who is deemed credible to say** that **her husband died, is it not right that she is deemed credible to bring her** own **bill of divorce?** ^23b-15

@@ -31,5 +31,10 @@ agādhe'mbhasi tatkṣepyaṃ kṣamayitvā visṛjya ca || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 422–423)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 27.55–56.*
+>
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.55–56]]
+
 Jayaratha comments on this verse together with 27.55: see [[Tantraloka 27.055#Viveka|27.55]].
 

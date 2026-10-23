@@ -36,6 +36,11 @@ evaṃ śabdādiviṣaye śrotrādivyomavartmanā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 31–32)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.27–29]]
+>
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.29–30]]
+
 *Lead-in:* अतश्च यत्र क्वापि एतच्चक्षुरादिमरीचिचक्रं निपतेत्, तत्रैतद्रूपतामेव विमृशेत् येन स्वात्मध्यानं सिद्ध्येत्, तदाह --
 
 > एवं शब्दादिविषये श्रोत्रादिव्योमवर्त्मना ॥

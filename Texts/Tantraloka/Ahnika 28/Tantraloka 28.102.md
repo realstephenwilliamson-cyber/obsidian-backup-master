@@ -31,6 +31,9 @@ balābalaṃ tataḥ paścādvismayante'tra mātaraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 52–56)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.102–104]]
+
 *Lead-in:* सप्तकृत्वः करणे प्रयोजनमाह--
 
 Jayaratha comments on this verse together with 28.111: see [[Tantraloka 28.111#Viveka|28.111]].

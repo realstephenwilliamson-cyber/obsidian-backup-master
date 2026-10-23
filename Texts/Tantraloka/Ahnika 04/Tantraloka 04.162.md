@@ -34,6 +34,9 @@ abhedini svahastādau layastadvadayaṃ vidhiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 233)
+> ![[Tantraloka Dyczkowski v03 08 - Chapter Four, part 7#Viveka on 4.162]]
+
 *Lead-in:* ननु करणत्वाविशेषेऽपि बुद्ध्यादिरेव करणवर्गः कथङ्कारमहङ्कारे लीयते ? इत्याशङ्कां दृष्टान्तोपदर्शनेनोपशमयति --
 
 > यथाहि खङ्गपाशादेः करणस्य विभेदिनः ।

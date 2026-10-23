@@ -35,6 +35,9 @@ viśvātmakatvaṃ cetyanyallakṣaṇaṃ kiṃ nu kathyatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 404)
+> ![[Tantraloka Dyczkowski v02 12 - Chapter Three, part 9#Viveka on 3.282]]
+
 *Lead-in:* इत्यादिलक्षणान्तरं किञ्चिद्ब्रह्मवादिवदभिधानीयं येनास्या वाद्यन्तरसिद्धमसाधारणं रूपमभिहितं स्यात् ? -- इत्याशङ्क्याह - -
 
 > एतावतैव ह्यैश्वर्यं संविदः ख्यापितं परम् ।

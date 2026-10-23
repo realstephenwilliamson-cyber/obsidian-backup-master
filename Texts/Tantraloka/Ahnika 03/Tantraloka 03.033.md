@@ -35,6 +35,9 @@ abhivyaktiśrutī tasya samakālaṃ dvitīyake || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 106–107)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.33–34]]
+
 > शब्दो न चानभिव्यक्तः प्रतिबिम्बति तद् ध्रुवम् ।
 > अभिव्यक्तिश्रुतिस्तस्य समकालं द्वितीयके ॥
 

@@ -33,6 +33,11 @@ evaṃ bhairavasadbhāvanāthe mukhyatayā yadi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 147–148)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.239–244]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.244–245]]
+
 *Lead-in:* एवमियमेव अन्यत्रापि वार्त्ता--इत्याह--
 
 > एवं भैरवसद्भावनाथे मुख्यतया यदि ॥

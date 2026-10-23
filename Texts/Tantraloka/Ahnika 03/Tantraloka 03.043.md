@@ -40,6 +40,9 @@ sa cāpi kasyāmapi nāḍisaṃtatau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 117–118)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.43]]
+
 *Lead-in:* नन्वेवं सत एवार्थस्य प्रतिबिम्बार्पणक्षमत्वात् बहिरसंभवन् स्पर्शादिः प्रतिसंक्रान्तिमेव नैतीति स्मृत्यादौ को नामार्थक्रियामेव कुर्यात् यस्या असत्यत्वमपि परिकल्प्येत ? -- इत्याशङ्क्याह --
 
 > असंभवे बाह्यगतस्य तादृशः

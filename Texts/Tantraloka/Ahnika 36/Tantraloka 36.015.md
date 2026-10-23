@@ -31,6 +31,9 @@ vidhāya tantrāloko'yaṃ syandate sakalānrasān || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 226)
+> ![[Tantraloka Dyczkowski v11 10 - Chapter Thirty-Six#Viveka on 36.15]]
+
 *Lead-in:* ननु इह त्रैयम्बिकैव मठिका वक्तुं न्यायया यद्द्वारा अस्य शास्त्रस्य आयातिः, किं मठिकान्तरव्यावर्णनेन?--इत्याशङ्क्य आह--
 
 > अध्युष्टसंततिस्रोतःसारभूतरसाहृतिम् ।

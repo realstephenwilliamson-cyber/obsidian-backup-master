@@ -37,6 +37,11 @@ saṃhāranragnimaruto rudrabinduyutānsmaret || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 202–204)
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.148]]
+>
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.148–150]]
+
 *Lead-in:* तदेवं वर्णतत्त्वमभिधाय भङ्ग्यन्तरेणाप्याह --
 
 > वर्णशब्देन नीलादि यद्वा दीक्षोत्तरे यथा ।

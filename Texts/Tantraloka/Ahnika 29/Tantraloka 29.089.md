@@ -31,6 +31,9 @@ haṃsastatra dvirabhyasyo vikāsākuñcanātmakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 280–281)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.89]]
+
 *Lead-in:* एतत् स्वयमेव व्याचष्टे--
 
 > यत्र यत्र गतं चक्षुर्यत्र यत्र गतं मनः ।

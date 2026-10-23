@@ -34,6 +34,9 @@ upāyopeyabhāvaḥ syātprakāśaḥ kevalaṃ hi saḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 25)
+> ![[Tantraloka Dyczkowski v02 02 - Chapter Two, part 1#Viveka on 2.16–17]]
+
 > नीलं पीतं सुख्मिति प्रकाशः केवलः शिवः ।
 > अमुष्मिन्परमाद्वैते प्रकाशात्मनि कोऽपरः ॥
 > उपायोपेयभावः स्यात्प्रकाशः केवलं हि सः ॥

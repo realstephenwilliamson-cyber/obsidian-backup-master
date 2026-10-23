@@ -37,6 +37,11 @@ gandhādermahadantādekādhikyena jātamaiśvaryam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 252–253)
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.234]]
+>
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.234–235]]
+
 *Lead-in:* न केवलमासामेव तरतमभावो यावदक्षाणामपि -- इत्याह --
 
 > लोकानामक्षाणि च विषयपरिच्छित्तिकरणानि ।

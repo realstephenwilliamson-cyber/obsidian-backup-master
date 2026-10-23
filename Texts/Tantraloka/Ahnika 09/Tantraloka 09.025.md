@@ -34,6 +34,9 @@ bījādaṅkura ityevaṃ bhāsanaṃ nahi sarvadā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 35)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.25]]
+
 *Lead-in:* नन्वेवं रूपान्वयोपकृतः पौर्वापर्यनियमात्मा कार्यकारणभावो यदि वास्तवः, तत्कथं व्यभिचरेत् ? -- इत्याशङ्क्याह -
 
 > नियमश्च तथारूपभासनामात्रसारकः ।

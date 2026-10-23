@@ -33,6 +33,11 @@ tasmātsiddhyai vimuktyai vā pūjājapasamādhiṣu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 77–78)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.113–114]]
+>
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.114–115]]
+
 *Lead-in:* एतदेव उपसंहरति--
 
 > तस्मात्सिद्ध्यै विमुक्त्यै वा पूजाजपसमाधिषु ॥

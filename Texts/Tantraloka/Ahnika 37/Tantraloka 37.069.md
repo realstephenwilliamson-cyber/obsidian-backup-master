@@ -36,6 +36,9 @@ tenāpyanugrahapadaṃ kṛta eṣa vargaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 260)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.69]]
+
 *Lead-in:* अन्योऽपि कश्चन जनः शिवशक्तिपात-
 
 Jayaratha comments on this verse together with 37.70: see [[Tantraloka 37.070#Viveka|37.70]].

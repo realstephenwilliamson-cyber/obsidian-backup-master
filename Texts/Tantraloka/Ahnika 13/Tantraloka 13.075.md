@@ -31,6 +31,9 @@ tataśca bhogaparyāyakālaḥ sarvasya niḥsamaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 172)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.75]]
+
 *Lead-in:* तत्र हि सामान्येन तदपेक्षायां युगपदेव सर्वे मुच्येरन् विशेषश्चात्रान्वेष्यमाणो न लभ्यते -- इत्याह -
 
 > किं चानादिरयं भोगः कर्मानादि सपुद्गलम् ।

@@ -33,6 +33,11 @@ madhye gururbhavetteṣāṃ guruvargastadāvṛtiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 44–46)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.79–82]]
+>
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.82–84]]
+
 *Lead-in:* इत्यादिना एकान्नत्रिंशाह्निके । चक्रयुक्त इति--चक्रयुक् । सर्वैरिति-- एवमुक्तैः पुंस्त्रीरूपैः ॥ अत्रैव उपवेशने क्रमं दर्शयति--
 
 Jayaratha comments on this verse together with 28.81: see [[Tantraloka 28.081#Viveka|28.81]].

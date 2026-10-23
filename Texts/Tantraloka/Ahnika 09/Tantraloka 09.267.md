@@ -31,6 +31,9 @@ pāyupāṇyaṅghrijananaṃ karaṇaṃ taccaturvidham || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 249–250)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.266–268]]
+
 > त्यागायादानसंपत्त्यै द्वयाय द्वितयं विना ॥
 > स्वरूपविश्रान्तिकृते चतुर्धा कर्म यद्बहिः ।
 > पायुपाण्यङ्घिर्जननं करणं तच्चतुर्विधम् ॥

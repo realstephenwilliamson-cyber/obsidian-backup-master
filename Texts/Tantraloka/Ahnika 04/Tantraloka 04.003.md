@@ -34,6 +34,9 @@ svatulyaṃ so'pi so'pyanyaṃ so'pyanyaṃ sadṛśātmakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 5–7)
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.3]]
+
 *Lead-in:* ननु ज्ञानस्य क्षणिकत्वे सर्वेषामविवादः, तद्विकल्पस्यापि ज्ञानरूपत्वेन क्षणिकत्वात्, उत्पादसमनन्तरमेव अन्तर्हितस्वरूपस्य कथं नाम संस्कारः प्ररोहमियात्, स हि स्थिरे स्यात्, यथा -- तिलादौ सुमनोभिः, तत् कथमेतदुक्तम् ? इत्याशङ्क्यःअ --
 
 > विकल्पः संस्कृतः सूते विकल्पं स्वात्मसंस्कृतम् ।

@@ -31,6 +31,9 @@ snānārcādāvityupāsyaṃ vīrāṇāṃ vigrahāṣṭakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 51–52)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.66–68]]
+
 > श्रीनिर्मर्यादशास्त्रेऽपि तदित्थं सुनिरूपितम् ।
 > धरादेश्च विशेषोऽस्ति वीरसाधकसंमतः ॥
 > रणरेणुर्वीरजलं वीरभस्म महामरुत् ।

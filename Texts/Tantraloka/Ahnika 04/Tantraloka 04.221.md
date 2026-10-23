@@ -36,6 +36,11 @@ aśuddhaṃ hi kathaṃ nāma dehādyaṃ pāñcabhautikam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 316–321)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.217–221]]
+>
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.221–222]]
+
 *Lead-in:* एतच्च बहुक्षोदक्षमत्वेन वैषम्यात् स्वयमेव व्याचष्टे --
 
 > अशुद्धं हि कथं नाम देहाद्यं पाञ्चभौतिकम् ॥

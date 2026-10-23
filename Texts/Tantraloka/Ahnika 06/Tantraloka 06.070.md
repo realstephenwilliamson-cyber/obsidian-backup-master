@@ -34,5 +34,10 @@ sakalādyāśca kaṇṭhyoṣṭhyaparyantā bhairavāstathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 290–291)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.69–72]]
+>
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.69–72 (continued)]]
+
 Jayaratha comments on this verse together with 6.71: see [[Tantraloka 06.071#Viveka|6.71]].
 

@@ -31,6 +31,9 @@ ata evāmbujanmārkadṛṣṭānto'tra nirūpitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 329–330)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.74–75]]
+
 > तादृक्स्वभ्यस्तविज्ञानभाजोर्ध्वपदशालिना ॥
 > अनुद्धृतस्य न श्रेय एतदन्यगुरूद्धृतेः ।
 > अत एवाम्बुजन्मार्कदृष्टान्तोऽत्र निरूपितः ॥

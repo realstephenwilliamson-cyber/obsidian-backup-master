@@ -33,6 +33,11 @@ uddhartā devadevo hi sa cācintyaprabhāvakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 365–366)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.22–23]]
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.23–24]]
+
 *Lead-in:* एतदेव उपपादयति--
 
 > उद्धर्ता देवदेवो हि स चाचिन्त्यप्रभावकः ॥

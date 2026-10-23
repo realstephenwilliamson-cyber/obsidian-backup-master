@@ -35,6 +35,9 @@ anicchurapi tadrūpastathā kāryakaro dhruvam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 123–124)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.276–277]]
+
 > कान्तासंभोगसञ्जल्पसुन्दरः कामुकः सदा ।
 > तत्संस्कृतोऽप्यन्यदेष कुर्वन्स्वात्मनि तृप्यति ॥
 > तथा तन्मन्त्रसञ्जल्पभावितोऽन्यदपि ब्रुवन् ।

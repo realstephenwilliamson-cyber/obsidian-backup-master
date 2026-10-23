@@ -32,5 +32,8 @@ itthaṃ vihitakartavyo vijñāpyeśaṃ tadīritaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 275–276)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.444–446]]
+
 Jayaratha comments on this verse together with 15.450: see [[Tantraloka 15.450#Viveka|15.450]].
 

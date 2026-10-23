@@ -31,6 +31,9 @@ tadā tamagrato dhyāyetsphurantaṃ candrasūryavat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 321–322)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.51–55]]
+
 *Lead-in:* एतदेव मतेर्हरणमाह--
 
 Jayaratha comments on this verse together with 23.55: see [[Tantraloka 23.055#Viveka|23.55]].

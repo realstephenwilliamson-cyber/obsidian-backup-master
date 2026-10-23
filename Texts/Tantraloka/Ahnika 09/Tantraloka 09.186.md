@@ -31,6 +31,9 @@ api na kṣīṇakarmā syāt kalāyāṃ taddhi saṃbhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 159–160)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.186]]
+
 *Lead-in:* ननु प्रकृतिपुरुषविवेकज्ञानादेव सर्वकर्मक्षयः सिद्धः -- इति किं मायापुंविवेकेन? -- इत्याशङ्क्याह --
 
 > धीपुंविवेके विज्ञाते प्रधानपुरुषान्तरे ।

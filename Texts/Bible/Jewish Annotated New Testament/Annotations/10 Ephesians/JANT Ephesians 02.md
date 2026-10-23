@@ -20,13 +20,13 @@ Text: [[NRSVue Ephesians 02|NRSVue]] · [[Ephesians 02|BSB and SBLGNT]] · Intro
 
 **[[NRSVue Ephesians 02#^2-2|2]]:** *Ruler of the power of the air*, see 6.11**–**12 and [[Colossians 01#^1-13|Col 1.13]]. See also the fallen angels in *1 En*. 6.2**–**6 and the angel of darkness in 1QS 3.20**–**21, both of whom lead their human followers astray. Such malevolent supernatural powers are not a significant part of the rabbinic tradition. ^2-2
 
-**[[NRSVue Ephesians 02#^2-3|3]]:** *Passions of our flesh*, the carnal, as opposed to the spiritual, which *by nature* lead us astray; see the rabbinic “yetzer ha-raʿ ” (impulse toward evil), which is often associated with carnal lust (e.g., *b. Sukk.* 52a**-**b), though it is also defended as necessary for the settlement of the world by leading a man to take a wife, build a home, and have children (*Gen. Rab.* 9.7). ^2-3
+**[[NRSVue Ephesians 02#^2-3|3]]:** *Passions of our flesh*, the carnal, as opposed to the spiritual, which *by nature* lead us astray; see the rabbinic “yetzer ha-raʿ ” (impulse toward evil), which is often associated with carnal lust (e.g., [[Sukkah 52#52a|*b. Sukk.* 52a]]**-**b), though it is also defended as necessary for the settlement of the world by leading a man to take a wife, build a home, and have children (*Gen. Rab.* 9.7). ^2-3
 
 **[[NRSVue Ephesians 02#^2-4|4–5]]:** *Rich in mercy . . . great love . . . by grace*, God’s salvation, the author claims, is an expression of love, *not the result of works* (v 9); God’s quality of mercy is also notable in key settings in the Tanakh; see, e.g., [[Torah 21 - Ki Tisa#^34-6|Ex 34.6]]**–**7 and [[Torah 37 - Sh'lach#^14-18|Num 14.18]]. ^2-4
 
 **[[NRSVue Ephesians 02#^2-5|5–6]]:** *Made us alive together with Christ . . .* , see 1.20; believers are joined to the experience of Christ, as the body to the head (1.22**–**23). ^2-5
 
-**[[NRSVue Ephesians 02#^2-6|6]]:** *Heavenly places*, the heavenly throne is amply referenced in the Tanakh ([[Isaiah 06#^6-1|Isa 6.1]]; [[Ezekiel 01#^1-26|Ezek 1.26]], and elsewhere) and, following such visions, in [[Revelation 04#^4-2|Rev 4.2]]**–**11. Rabbinic teachings also suggest that the righteous will, in the world to come, sit by God’s side and enjoy the splendor of the divine presence; see *b. Ber*. 17a. ^2-6
+**[[NRSVue Ephesians 02#^2-6|6]]:** *Heavenly places*, the heavenly throne is amply referenced in the Tanakh ([[Isaiah 06#^6-1|Isa 6.1]]; [[Ezekiel 01#^1-26|Ezek 1.26]], and elsewhere) and, following such visions, in [[Revelation 04#^4-2|Rev 4.2]]**–**11. Rabbinic teachings also suggest that the righteous will, in the world to come, sit by God’s side and enjoy the splendor of the divine presence; see [[Berakhot 17#17a|*b. Ber*. 17a]]. ^2-6
 
 **[[NRSVue Ephesians 02#^2-7|7]]:** *Grace in kindness*, 2.4–5n. ^2-7
 

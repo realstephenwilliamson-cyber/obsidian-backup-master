@@ -31,6 +31,9 @@ na tadvarṣasahasraiḥ syānmantraughairvividhairiti || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 202–203)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.3]]
+
 *Lead-in:* तदेव आह--
 
 > सिद्धक्रमनियुक्तस्य मासेनैकेन यद्भवेत् ।

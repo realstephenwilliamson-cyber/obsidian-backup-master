@@ -31,6 +31,9 @@ antyastu grāhyatādātmyātsvarūpībhāvamāgataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 411–412)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.188–190]]
+
 > तत्राद्यः परमाद्वैतो निर्विभागरसात्मकः ॥
 > द्वितीयो ग्राहकोल्लासरूपः प्रतिविभाव्यते ।
 > अन्त्यस्तु ग्राह्यतादात्म्यात्स्वरूपीभावमागतः ॥

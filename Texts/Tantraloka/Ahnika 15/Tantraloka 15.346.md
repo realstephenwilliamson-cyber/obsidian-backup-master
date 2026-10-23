@@ -36,6 +36,11 @@ svātantryamātrasārā saṃvitsā kālakarṣiṇī kathitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 213–214)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.344–346]]
+>
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.346]]
+
 *Lead-in:* एवमासामत्यन्तमेव भेदग्लपनेनापि त्रित्वं न स्यात्--इत्याह--
 
 > अन्योन्यात्मकभेदावच्छेदनकलनसंग्रसिष्णुतया ।

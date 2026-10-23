@@ -37,6 +37,13 @@ ityardhendunirodhyantabindvāvṛtyūrdhvato mahān || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 362–366)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 8.390–393.*
+>
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.386–387]]
+>
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.390–393]]
+
 *Lead-in:* अस्यैव स्थानं रूपं च निरूपयति --
 
 Jayaratha comments on this verse together with 8.386: see [[Tantraloka 08.386#Viveka|8.386]].

@@ -34,6 +34,9 @@ tanmadhyagāḥ pramātāraḥ śṛṇvanti pratiśabdakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 101–102)
+> ![[Tantraloka Dyczkowski v02 04 - Chapter Three, part 1#Viveka on 3.28]]
+
 *Lead-in:* ननु केनचिद्वक्त्रा यद्युच्चारितः शब्दो दूरे गुहाद्याकाशे प्रतिसंक्रान्तिमेति तत्तद्देशवर्तिनामेव तच्छ्रवणं भवेत् न त्वन्येषाम् ? -- इत्याह --
 
 > नियमाद्बिम्बसांमुख्यं प्रतिबिम्बस्य यत्ततः ।

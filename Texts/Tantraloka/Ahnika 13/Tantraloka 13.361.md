@@ -31,6 +31,11 @@ dṛṣṭvaiṣāṃ brahmaviṣṇvādyairbuddhairapi tathoditam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 344)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.361]]
+>
+> ![[Tantraloka Dyczkowski v07 11 - Chapter Fourteen, opening page#Viveka on 13.361 (continued)]]
+
 *Lead-in:* तेषां च तत्रैवाभिनिवेशाद् ब्रह्माद्यैरपि तदेव दार्ढ्येनोपदिष्टम् - - इत्याह --
 
 > तथाविधामेव मतिं सत्यसंस्पर्शनाक्षमाम् ।

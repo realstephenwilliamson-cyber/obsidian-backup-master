@@ -34,6 +34,9 @@ prerya tena nayettāvadyāvatpadamanāmayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 20–23)
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.15–16]]
+
 > श्रीपूर्वशास्त्रे तत्प्रोक्तं तर्को योगाङ्गंउत्तमम् ।
 > हेयाद्यालोचनात्तस्मात्तत्र यत्नः प्रशस्यते ॥
 > मार्गे चेतः स्थिरीभूतं हेयेऽपि विषयेच्छया ।

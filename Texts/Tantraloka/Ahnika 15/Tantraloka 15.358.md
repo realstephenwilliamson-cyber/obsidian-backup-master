@@ -33,6 +33,11 @@ ekaikasya tryātmakatvādabhedāccāpi sarvaśaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 219–221)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.357–358]]
+>
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.358]]
+
 *Lead-in:* एतदेव व्याप्तिमुखेन अपि घटयति--
 
 > एकैकस्य त्र्यात्मकत्वादभेदाच्चापि सर्वशः ॥

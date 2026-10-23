@@ -34,6 +34,9 @@ dhārārūḍhena sattarkakuṭhāreṇeti niścayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 16–17)
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.13]]
+
 *Lead-in:* ननु इह ङहि भातमभातं भवति"इति सर्वेषामविवादः, देहनीलादि चेदं भेदेनावभासते, तत् कथमुक्तं "तदपासनेन संविद एव अवभासो भवेत्"? इत्याशङ्कंअपाकर्तुं विकल्पसंस्क्रियानन्तर्येण अनुजोद्देशोद्दिष्टं तर्कतत्त्वमवतारयति --
 
 > दुर्भेदपादपस्यास्य मूलं कृन्तन्ति कोविदाः ।

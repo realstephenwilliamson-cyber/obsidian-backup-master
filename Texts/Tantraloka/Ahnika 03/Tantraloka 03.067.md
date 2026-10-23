@@ -35,6 +35,11 @@ kaulikī sā parā śaktiraviyukto yayā prabhuḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 141–144)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.67]]
+>
+> ![[Tantraloka Dyczkowski v02 06 - Chapter Three, part 3#Viveka on 3.67 (continued)]]
+
 *Lead-in:* इह हि विश्वस्य वाच्यवाचकात्मना द्विधा अवभासः, तत्र "प्रकाश एव प्राधान्येन वाच्यात्मविश्वरूपत्वेन परिस्फुरति"इति विश्वचित्प्रतिबिम्बत्वोट्टङ्कनेनोक्तम् । "विमर्शोऽपि तत्तदनुत्तराननन्दाद्यामर्शात्मनोदेति"इति परामर्शोदयक्रममप्याह --
 
 > अकुलस्यास्य देवस्य कुलप्रथनशालिनी ।

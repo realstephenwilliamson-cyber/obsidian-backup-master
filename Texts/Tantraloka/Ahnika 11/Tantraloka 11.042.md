@@ -36,6 +36,11 @@ itthaṃ tryātmādhvano bhedaḥ sthūlasūkṣmaparatvataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 42–43)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.41–42]]
+>
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.42–43]]
+
 *Lead-in:* इदानीं प्रकृतमेवोपसंहरन्नन्यदवतारयति --
 
 Jayaratha comments on this verse together with 11.41: see [[Tantraloka 11.041#Viveka|11.41]].

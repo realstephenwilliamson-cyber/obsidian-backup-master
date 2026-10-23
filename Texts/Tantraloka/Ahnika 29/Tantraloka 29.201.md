@@ -33,6 +33,11 @@ uktaṃ śrīratnamālāyāṃ nādiphāntāṃ jvalatprabhām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 360–361)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.201]]
+>
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.201–202]]
+
 *Lead-in:* एवं समयिदीक्षामभिधाय, पुत्रकदीक्षां वक्तुमुपक्रमते--
 
 > यदा तु पुत्रकं कुर्यात्तदा दीक्षां समाचरेत् ।

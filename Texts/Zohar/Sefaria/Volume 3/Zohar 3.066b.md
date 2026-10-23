@@ -35,4 +35,4 @@ Pritzker translation (Matt): [[Zohar 7.08 - Parashat Aharei Mot#^z3-66b|Parashat
 
 **Achrei Mot 31:193** When all was linked together, all faces were illumined. Then all fell on their faces and trembled and said, “Blessed be the name of his glorious kingdom for ever and ever”. ^achrei-mot-31-193
 
-[^1]: v. T. B. Sanhedrin, 98a.
+[^1]: v. T. B. [[Sanhedrin 98#98a|Sanhedrin, 98a]].

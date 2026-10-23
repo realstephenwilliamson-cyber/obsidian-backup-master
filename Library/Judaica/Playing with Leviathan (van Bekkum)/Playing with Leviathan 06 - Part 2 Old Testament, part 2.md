@@ -249,7 +249,7 @@ As for parallels in the Old Testament, Job 40–41 is a very interesting text, s
 
 *[p. 85]* ^pg113
 
-In the Septuagint and the rabbinic tradition, verse 26b is interpreted as an affirmation about Yhwh’s playing with Leviathan.[^34-p85] The Babylonian Talmud quotes Rab Judah, who said in the name of Rab that every day God takes three hours to do so (*b. ʿAbod. Zar. 3b*).
+In the Septuagint and the rabbinic tradition, verse 26b is interpreted as an affirmation about Yhwh’s playing with Leviathan.[^34-p85] The Babylonian Talmud quotes Rab Judah, who said in the name of Rab that every day God takes three hours to do so (*b. [[Avodah Zarah 3#3b|ʿAbod. Zar. 3b]]*).
 
 On balance, the more probable option seems to be that Yhwh is the subject of \[illegible\] and that the suffix in \[illegible\] refers to Leviathan. In other words, [[Psalms 104#^104-26|Ps 104:26b]] claims that Yhwh formed Leviathan to play with it.
 

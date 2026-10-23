@@ -319,17 +319,17 @@ whether in comfort or in trouble.
 דכד אנון בדינא ^35a-29
 
 [^1]: *Qedushah*
-[^2]: *BT* Berakhot 12a
+[^2]: *BT* [[Berakhot 12#12a|Berakhot 12a]]
 [^3]: *zoqeph*
 [^4]: Tipheret
-[^5]: *BT* Baba Batra 25b
+[^5]: *BT* [[Bava Batra 25#25b|Baba Batra 25b]]
 [^6]: Binah
 [^7]: י
 [^8]: *ḥokhmah*
 [^9]: ה
 [^10]: ו
 [^11]: *tephilin*
-[^12]: *BT* Berakhot 6a
+[^12]: *BT* [[Berakhot 6#6a|Berakhot 6a]]
 [^13]: ה
 [^14]: ו
 [^15]: ה

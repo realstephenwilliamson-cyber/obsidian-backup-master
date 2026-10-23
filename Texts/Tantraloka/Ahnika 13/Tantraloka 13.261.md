@@ -33,6 +33,11 @@ karmatatsāmyavairāgyamalapākādi dūṣitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 286–287)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.260–261]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.261–262]]
+
 *Lead-in:* ननूक्तमेवात्र कर्मतत्साम्यादि निमित्तम्? -- इत्याशङ्क्याह --
 
 > कर्मतत्साम्यवैराग्यमलपाकादि दूषितम् ॥

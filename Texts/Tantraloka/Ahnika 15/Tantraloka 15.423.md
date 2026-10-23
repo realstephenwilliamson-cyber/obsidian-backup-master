@@ -34,6 +34,11 @@ yā tvanugrāhikā śaktisteṣāṃ sā gurudīpitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 262–263)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.422–423]]
+>
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.423–424]]
+
 *Lead-in:* ननु यदि एषां वामा शक्तिरेवं फलदायिनी, तदुदितापि ज्येष्ठा शक्तिः किं व्यर्थैव स्यात्?--इत्याशङ्क्य आह--
 
 > या त्वनुग्राहिका शक्तिस्तेषां सा गुरुदीपिता ॥

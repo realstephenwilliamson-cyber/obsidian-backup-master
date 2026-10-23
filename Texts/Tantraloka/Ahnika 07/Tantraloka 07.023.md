@@ -36,6 +36,11 @@ tathā hi prāṇacārasya navasyānudaye sati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 12–13)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.22–23]]
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.23–24]]
+
 *Lead-in:* ज्ञानभेदापोहनमेवोपपादयति --
 
 > तथा हि प्राणचारस्य नवस्यानुदये सति ॥

@@ -35,6 +35,9 @@ kandahṛtkaṇṭhatālvagrakauṇḍilīprakriyāntataḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 200)
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.145]]
+
 *Lead-in:* एतदेव सङ्कलयति --
 
 > कन्दहृत्कण्ठताल्वग्रकौण्डिलीप्रक्रियान्ततः ।

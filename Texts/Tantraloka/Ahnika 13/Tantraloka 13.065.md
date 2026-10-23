@@ -31,6 +31,9 @@ na jñāyate tathā ca syādāvṛtirnāmamātrataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 165–166)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.65]]
+
 *Lead-in:* प्रत्युतास्यावरणायायातो मलो ज्ञेयः स्यादिति ज्ञातृत्वमेवोत्तेजितं भवेत् -- इत्याह --
 
 > ज्ञानेनावरणीयेन तदेवावरणं कथम् ।

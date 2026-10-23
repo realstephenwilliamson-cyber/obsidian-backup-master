@@ -35,6 +35,9 @@ lakulādyamareśāntā aṣṭāvapsu surādhipāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 233–234)
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.203–204]]
+
 > ततो भुवः सहाद्रेः पूर्गन्धतन्मात्रधारणात् ॥
 > मृता गच्छन्ति तां भूमिं धरित्र्याः परमां बुधाः ।
 > अब्धेः पुरं ततस्त्वाप्यं रसतन्मात्रधारणात् ॥

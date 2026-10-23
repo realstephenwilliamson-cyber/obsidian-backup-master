@@ -34,6 +34,11 @@ bhogān samastavyastatvabhedairante paraṃ padam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 180)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 17.96–97.*
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.96–97]]
+
 *Lead-in:* भोगदीक्षायां पुनरियान् विशेषः--इत्याह--
 
 Jayaratha comments on this verse together with 17.96: see [[Tantraloka 17.096#Viveka|17.96]].

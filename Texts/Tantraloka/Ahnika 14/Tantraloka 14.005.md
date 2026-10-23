@@ -33,6 +33,11 @@ niyatyaiva yadā caiṣa svarūpācchādanakramāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 347–348)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.4–5]]
+>
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.5–7]]
+
 *Lead-in:* नियतित्यागात्यागयोः को विशेषः? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 14.4: see [[Tantraloka 14.004#Viveka|14.4]].

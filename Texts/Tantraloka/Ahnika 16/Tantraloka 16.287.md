@@ -35,6 +35,9 @@ siddhiṃ rājopagāṃ śīghramevaṃ mantrādayaḥ parām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 129)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.287]]
+
 *Lead-in:* एवं परसंवित्समासन्नत्वादेव मन्त्रादयस्तदायत्ताः सिद्धिं साधयितुं शक्नुवन्तीति दृष्टान्तप्रदर्शनपुरःसरीकारेणाभिधातुमाह--
 
 > निकटस्था यथा राज्ञामन्येषां साधयन्त्यलम् ।

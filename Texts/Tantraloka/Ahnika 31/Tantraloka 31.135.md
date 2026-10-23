@@ -31,6 +31,9 @@ vasusaṃkhyairdvāravīthāvevaṃ bhāgaparikramaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 121)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.134–135]]
+
 > वंशैर्विषयसंख्यैश्च पद्मं युग्मेन्दुमण्डलम् ॥
 > रससंख्यैर्भवेत्पीठं स्वस्तिकं सर्वकामदम् ।
 > वसुसंख्यैर्द्वारवीथावेवं भागपरिक्रमः ॥

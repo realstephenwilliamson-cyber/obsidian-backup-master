@@ -34,6 +34,9 @@ iṣṭe tathāvidhākāre niyamo bhāsate yataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 36–37)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.26–27]]
+
 *Lead-in:* तदाह -
 
 Jayaratha comments on this verse together with 9.27: see [[Tantraloka 09.027#Viveka|9.27]].

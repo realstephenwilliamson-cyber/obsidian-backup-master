@@ -36,6 +36,11 @@ tathāvabhāsanaṃ cāsti kāryakāraṇabhāvagam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 32–33)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.22]]
+>
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.22 (2)]]
+
 *Lead-in:* किं नाम चास्य कर्तृत्वम् ? -- इत्याशङ्क्याह --
 
 > कर्तृत्वं चैतदेतस्य तथामात्रावभासनम् ।

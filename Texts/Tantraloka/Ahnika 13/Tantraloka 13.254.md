@@ -33,6 +33,11 @@ idaṃ sāramiha jñeyaṃ paripūrṇacidātmanaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 283–284)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.254]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.254–256]]
+
 *Lead-in:* तदेवोपसंहरति -
 
 > नवधा शक्तिपातोऽयं शम्भुनाथेन वर्णितः ।

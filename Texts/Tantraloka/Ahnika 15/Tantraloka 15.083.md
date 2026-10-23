@@ -33,6 +33,11 @@ yataḥ śrīnaiśasañcāre parameśo nyarūpayat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 59)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.81–83]]
+>
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.83]]
+
 *Lead-in:* किमत्र प्रमाणम् ?--इत्याशङ्क्य आह--
 
 > यतः श्रीनैशसञ्चारे परमेशो न्यरूपयत् ॥

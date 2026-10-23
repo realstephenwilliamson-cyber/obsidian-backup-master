@@ -31,6 +31,9 @@ arkendujīvacandrā budhayugmendvarkakaviguruvidhu syāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 21–22)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.36–39]]
+
 *Lead-in:* एतदेवात्र दर्शयति--
 
 Jayaratha comments on this verse together with 28.39: see [[Tantraloka 28.039#Viveka|28.39]].

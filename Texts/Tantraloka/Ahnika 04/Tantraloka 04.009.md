@@ -34,6 +34,9 @@ nāsyāmapāsyaṃ nādheyaṃ kiñcidityuditaṃ purā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 11–12)
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.9]]
+
 *Lead-in:* एतदेव समाधत्ते—
 
 > उच्यते स्वात्मसंवित्तिः स्वभावादेव निर्भरा ।

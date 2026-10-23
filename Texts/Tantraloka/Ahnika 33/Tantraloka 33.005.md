@@ -31,5 +31,8 @@ gambhīrā ghoṣaṇī ceti caturviṃśatyare vidhiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 171–172)
+> ![[Tantraloka Dyczkowski v11 07 - Chapter Thirty-Three#Viveka on 33.3–5]]
+
 Jayaratha comments on this verse together with 33.16: see [[Tantraloka 33.016#Viveka|33.16]].
 

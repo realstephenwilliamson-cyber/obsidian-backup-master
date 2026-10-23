@@ -34,6 +34,9 @@ kevalaṃ tvathavāgnīnduravisaṅghaṭṭamadhyagam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 20)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.45–47]]
+
 > अनेन विधिना सर्वान्रसरक्तादिकांस्तथा ॥
 > धातून्समाहरेत्सङ्घक्रमादेकैकशोऽथवा ।
 > केवलं त्वथवाग्नीन्दुरविसङ्घट्टमध्यगम् ॥

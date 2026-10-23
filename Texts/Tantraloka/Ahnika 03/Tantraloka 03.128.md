@@ -37,6 +37,11 @@ ucchalantyapi saṃvittiḥ kālakramavivarjanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 235–236)
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.127–128]]
+>
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.128–129]]
+
 *Lead-in:* ननु परा संविदेव यदि मानादिरूपेणापि प्रस्फुरेत् तत्तस्या अस्तमय एव किं न स्यात् ? -- इत्याशङ्क्याह—
 
 > उच्छलन्त्यपि संवित्तिः कालक्रमविवर्जनात् ॥

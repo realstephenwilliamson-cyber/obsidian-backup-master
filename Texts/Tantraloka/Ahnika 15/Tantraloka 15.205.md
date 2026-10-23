@@ -31,6 +31,9 @@ parāṅmukhatayā sadyaḥ paścimā paribhāṣyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 127–128)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.204–206]]
+
 > ईश ऊर्ध्वं प्रकाशत्वात्पूर्वं वक्त्रं प्रसारि यत् ॥
 > पुरुषो दक्षिणाचण्डो वामा वामस्तु सौम्यकः ।
 > पराङ्मुखतया सद्यः पश्चिमा परिभाष्यते ॥

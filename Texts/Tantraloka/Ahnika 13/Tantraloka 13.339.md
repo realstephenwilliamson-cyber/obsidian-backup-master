@@ -33,6 +33,11 @@ bhuktyaṃśe yoginaṃ yastatphalaṃ dātuṃ bhavetkṣamaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 334–335)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.339]]
+>
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.339 (2)]]
+
 *Lead-in:* एवंविधश्चेद्गुरुर्न प्राप्यते, तदा किं कर्तव्यम्? -- इत्याशङ्क्याह --
 
 > तदभावे तु विज्ञानमोक्षयोर्ज्ञानिनं श्रयेत् ।

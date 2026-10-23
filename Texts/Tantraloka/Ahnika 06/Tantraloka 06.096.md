@@ -35,6 +35,9 @@ amā śeṣaguhāntaḥsthāmāvāsyā viśvatarpiṇī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 319–323)
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.95–96]]
+
 > अमृतं चन्द्ररूपेण द्विधा षोडशधा पुनः ॥
 > पिबन्ति च सुराः सर्वे दशपञ्च पराः कलाः ।
 > अमा शेषगुहान्तःस्थामावास्या विश्वतर्पिणी ॥

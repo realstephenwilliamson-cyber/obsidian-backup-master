@@ -31,6 +31,9 @@ vahnau tarpitatanmantre vrataśuddhiṃ samācaret || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 284–285)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.20–22]]
+
 > प्रणवो मातृका माया व्योमव्यापी षडक्षरः ।
 > बहुरूपोऽथ नेत्राख्यः सप्त साधारणा अमी ॥
 > तेषां मध्यादेकतमं मन्त्रमस्मै समर्पयेत् ।

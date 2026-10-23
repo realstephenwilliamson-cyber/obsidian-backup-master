@@ -31,6 +31,9 @@ parayā vā'tha mālinyā vilomāccānulomataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 222–223)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.18–19]]
+
 *Lead-in:* एवं कुलयागे पीठिकाबन्धं विधाय तत्क्रममेव निरूपयितुमुपक्रमते--
 
 Jayaratha comments on this verse together with 29.19: see [[Tantraloka 29.019#Viveka|29.19]].

@@ -32,6 +32,9 @@ jale bimbaṃ bruḍatyasya tathetyatrāpyayaṃ vidhiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 266)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.431]]
+
 *Lead-in:* ननु बिम्बस्य ऊर्ध्वोर्ध्वमवस्थाने प्रतिबिम्बस्य अधोऽधः स्थितिर्भवेदिति कोऽयं नयः ?--इत्याशङ्का गर्भीकृत्य दृष्टान्तयति--
 
 > यथा यथा हि गगनमुत्पतेत्कलहंसकः ।

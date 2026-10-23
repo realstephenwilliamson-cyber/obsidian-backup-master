@@ -36,6 +36,11 @@ sā nāḍīrūpatāmetya dehaṃ saṃtānayedimam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 45–47)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.66–67]]
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.67–68]]
+
 *Lead-in:* अतश्चागमोऽप्येवमित्याह --
 
 > श्रीस्वच्छन्देऽत एवोक्तं यथा पर्णं स्वतन्तुभिः ॥

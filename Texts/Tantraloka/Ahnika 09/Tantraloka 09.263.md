@@ -33,6 +33,11 @@ etannāsmatkṛtapraśnatṛṣṇāsantāpaśāntaye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 246–247)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.262–263]]
+>
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.263–264]]
+
 *Lead-in:* न ह्येतदस्माकमावर्जकं साक्षात्समाधानम् -- इत्याह --
 
 > एतन्नास्मत्कृतप्रश्नतृष्णासन्तापशान्तये ॥

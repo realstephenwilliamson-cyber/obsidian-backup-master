@@ -31,6 +31,9 @@ kaḥ saṃbhūya guṇasteṣāṃ pramātraikyaṃ bhavecca kim || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 350–351)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.87]]
+
 *Lead-in:* नन्वेकैकस्य पृथक् पृथक् नृत्तादिसंवित्तिरेवमवस्थितेति किमनेकप्रमातृवेद्यत्वेन -- इत्याह -
 
 > तावन्मात्रार्थसंवित्तितुष्टाः प्रत्येकशो यदि ।

@@ -33,6 +33,11 @@ vilīnāyāṃ ca tasyāṃ syānmāyā'syāpi na kiñcana || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 204–205)
+> ![[Tantraloka Dyczkowski v06 07 - Chapter Nine, part 5#Viveka on 9.216]]
+>
+> ![[Tantraloka Dyczkowski v06 07 - Chapter Nine, part 5#Viveka on 9.216 (2)]]
+
 *Lead-in:* ननु अनयोरेवमवियोगेन कोऽर्थः ? -- इत्याशङ्क्याह --
 
 > भोक्तृभोग्यात्मता न स्याद्वियोगाच्च परस्परम् ।

@@ -33,6 +33,11 @@ upādhiyogitāśaṅkāmapahastayato'sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 353–355)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.91–92]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.92–93]]
+
 *Lead-in:* ननु नीलमित्यपि स्वरूपेण विमृश्यमानमन्तःकृतनिखिलधर्मात्मकमेव विमृष्टं स्यादिति प्रमात्रन्तरवेद्यतोपरागो दुरपह्नव एव? -- इत्याशङ्क्याह --
 
 > उपाधियोगिताशङ्कामपहस्तयतोऽस्फुटम् ॥

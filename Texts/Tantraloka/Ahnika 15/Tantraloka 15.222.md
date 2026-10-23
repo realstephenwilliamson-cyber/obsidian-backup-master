@@ -33,6 +33,11 @@ prakāśasya yadaiśvaryaṃ sa indro yattu tanmahaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 135–136)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.221–222]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.222–225]]
+
 *Lead-in:* प्रकाशशक्त्यंशत्वमेव एषां दर्शयति--
 
 Jayaratha comments on this verse together with 15.221: see [[Tantraloka 15.221#Viveka|15.221]].

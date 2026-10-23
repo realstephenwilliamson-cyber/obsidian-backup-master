@@ -33,6 +33,11 @@ jālakairjarjarai randhrairdantairūnādhikai rujā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 408–409)
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.21–22]]
+>
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.22–23]]
+
 *Lead-in:* दोषानेव अभिधत्ते--
 
 Jayaratha comments on this verse together with 27.21: see [[Tantraloka 27.021#Viveka|27.21]].

@@ -31,6 +31,9 @@ iti jñātvā grahītavyā naiva jātvapi khaṇḍanā |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 359)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.28]]
+
 *Lead-in:* ननु तर्हि मादृशामपि कुलालादिवदेव न मुख्यकर्तृत्वमिति कृतमात्मनि शिवत्वाभिमानेन, तथात्वे ह्यस्माकमपीच्छामात्रानुवर्ति जगद्भवेत्, न चैवम्? -- इत्याशङ्क्याह --
 
 > इति ज्ञात्वा ग्रहीतव्या नैव जात्वपि खण्डना ।

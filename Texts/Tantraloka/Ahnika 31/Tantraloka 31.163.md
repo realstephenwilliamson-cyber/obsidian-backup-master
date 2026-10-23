@@ -33,6 +33,11 @@ madhyaṃ padmaṃ pratiṣṭhāpyaṃ śūlādhastādyaśasvini || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 132–133)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.161–163]]
+>
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.163]]
+
 *Lead-in:* न च एवं मध्यपद्मस्य दण्डेन आच्छादनं कार्यम्--इत्याह--
 
 > मध्यं पद्मं प्रतिष्ठाप्यं शूलाधस्ताद्यशस्विनि ॥

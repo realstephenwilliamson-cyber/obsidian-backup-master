@@ -36,6 +36,11 @@ yaḥ svabhāvaparāmarśa indriyārthādyupāyataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 129–132)
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.109–110]]
+>
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.110–111]]
+
 *Lead-in:* ननु शुद्धसंविन्मात्रात्मैव पारमेश्वरःस्वभावो यस्य "अहमेव सर्वम्"इत्येवंरूपः परामर्शः, न च अस्य क्वचित् कदाचित् कश्चिद्विशेषः संभवेत् इति कथमुक्तं -- क्वचिदमलं स्वभावमामृशन् स्थितः ? इति, इत्याशङ्क्याह --
 
 > यः स्वभावपरामर्श इन्द्रियार्थाद्युपायतः ॥

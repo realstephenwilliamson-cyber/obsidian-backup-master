@@ -31,6 +31,9 @@ tadaiva smṛtireṣeti nārthajajñānajā smṛtiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 399–400)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.175]]
+
 *Lead-in:* न चेदं वाच्यं यत्तूलशयनसुखादिस्पर्शानुभवसमुत्थेयं स्मृतिरिति -- इत्याह --
 
 > यदैव स क्षणं सूक्ष्मं निद्रायैव प्रबुध्यते ।

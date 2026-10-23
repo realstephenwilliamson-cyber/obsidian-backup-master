@@ -31,6 +31,9 @@ aprakāśo manodīpacakṣurādi tathaiva tat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 314–315)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.31–33]]
+
 > अनर्थः सुमहांश्चैष दृश्यतां वस्तु यत्स्वयम् ॥
 > प्रकाशात्म न तत्संविच्चाप्रकाशा तदाश्रयः ।
 > अप्रकाशो मनोदीपचक्षुरादि तथैव तत् ॥

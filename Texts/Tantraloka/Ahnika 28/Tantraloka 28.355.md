@@ -35,6 +35,13 @@ vyāpāravyāhṛtivrātavedye mātrantaravraje || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 156–157)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.354–355]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.355]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.355–356]]
+
 *Lead-in:* वेद्यते........ तदिति--स्वाप्नं वस्तु । तथेति--स्वप्नद्रष्ट्टवत्-- इत्यर्थः । न किं वेद्यते इति--नैव ज्ञायते इति यावत् ॥ अत्र आह--
 
 > ......क इदं प्राह स तावद्वेद वेद्यताम् ।

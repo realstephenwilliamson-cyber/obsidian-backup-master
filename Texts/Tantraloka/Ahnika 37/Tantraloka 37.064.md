@@ -36,6 +36,9 @@ tāvajjanaḥ katipayastamupāsasāda || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 257–258)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.64]]
+
 > प्रौढादेशप्रकटसुभगं स्वाधिकारं किलास्मै ।
 > यत् संप्रादुर्यदपि च जनान्नैक्षताक्षेत्रभूतान्
 > स्वात्मारामस्तदयमनिशं तत्त्वसेवारसोऽभूत् ॥

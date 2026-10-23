@@ -34,6 +34,9 @@ tadaparamūrtirbhagavān maheśvaro bhūtirājaśca || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 65–70)
+> ![[Tantraloka Dyczkowski v01 03 - Chapter One, part 2#Viveka on 1.9]]
+
 *Lead-in:* इत्याद्युक्त्या कलिकालुष्याद्विच्छिन्नस्य निखिलशास्त्रोपनिषद्भूतस्य षडर्धक्रमविज्ञानस्य त्रैयम्बकसन्तानद्वारेण अवतारकत्वादाद्यं कैलासस्थं श्रीश्रीकण्ठनाथाख्यं गुरुं प्रसङ्गात् मठिकान्तरगुरुंश्चोत्कर्षयति --
 
 > जयति गुरुरेक एव श्रीश्रीकण्ठो भुवि पथितः ।

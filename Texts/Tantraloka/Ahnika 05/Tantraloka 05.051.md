@@ -34,6 +34,9 @@ yatrāsti bhāvanādīnāṃ na mukhyā kāpi saṅgatiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 48–54)
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.50–52]]
+
 > यत्र कोऽपि व्यवच्छेदो नास्ति यद्विश्वतः स्फुरत् ॥
 > यदनाहतसंवित्ति परमामृतबंहितम् ।
 > यत्रास्ति भावनादीनां न मुख्या कापि सङ्गतिः ॥

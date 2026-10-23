@@ -35,6 +35,9 @@ pañcavarṇayutaṃ gandhatanmātramaṇḍalaṃ mahat |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 241–243)
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.216–220]]
+
 *Lead-in:* तान्येवाह -
 
 Jayaratha comments on this verse together with 8.224: see [[Tantraloka 08.224#Viveka|8.224]].

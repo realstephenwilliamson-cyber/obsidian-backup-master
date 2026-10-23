@@ -35,6 +35,9 @@ bhāgānna prasavastajjaṃ kāluṣyaṃ tadvapuśca tat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 299–300)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.175–177]]
+
 > नन्वत्र षण्ठवर्णेभ्यो जन्मोक्तं तेन षण्ठता ।
 > कथं स्यादिति चेद् ब्रूमो नात्र षण्ठस्य सोतृता ॥
 > तथाहि तत्रगा यासाविच्छाशक्तिरुदीरिता ।

@@ -35,5 +35,8 @@ vyāpī vyomātmako'nanto'nāthastacchaktibhāginaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 370–372)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.397–399]]
+
 Jayaratha comments on this verse together with 8.399: see [[Tantraloka 08.399#Viveka|8.399]].
 

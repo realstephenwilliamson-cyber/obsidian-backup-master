@@ -36,6 +36,11 @@ yathāraghaṭṭacakrāgraghaṭīyantraughavāhanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 3–5)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.2–3]]
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.3–5]]
+
 *Lead-in:* नन्विह मन्त्राणां प्राणान्तरेवमुदयः, -- इत्यभिधातु प्रक्रान्तं, स च यत्नजः, इति तत्र यत्ने क्रियमाणे तदेव सिद्धयेत् नान्यदिति कथमत्रैव परसंविदुपायत्वमप्येषां स्यात् ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 7.2: see [[Tantraloka 07.002#Viveka|7.2]].

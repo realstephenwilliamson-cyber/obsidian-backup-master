@@ -31,5 +31,8 @@ ayukto'pyūrdhvasaṃśuddhiṃ saṃprāpya bhuvaneśataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 279)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.2–7]]
+
 Jayaratha comments on this verse together with 22.6: see [[Tantraloka 22.006#Viveka|22.6]].
 

@@ -31,6 +31,9 @@ uktanītyaiva tatpaścāt pūjayennyastavācakaiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 95)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.146]]
+
 *Lead-in:* एतदुपसंहृत्य अर्घपात्रविधिमभिधत्ते--
 
 > एवं न्यासं विधायार्घपात्रे विधिमुपाचरेत् ।

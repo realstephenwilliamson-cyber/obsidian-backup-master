@@ -34,6 +34,9 @@ yadi nāma tataḥ saptatriṃśa eva punarbhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 18–19)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.26–27]]
+
 > तच्चापि कॢप्तवेद्यत्वं यत्र भाति स चिन्मयः ॥
 > अष्टात्रिंशत्तमः सोऽपि भावनायोपदिश्यते ।
 > यदि नाम ततः सप्तत्रिंश एव पुनर्भवेत् ॥

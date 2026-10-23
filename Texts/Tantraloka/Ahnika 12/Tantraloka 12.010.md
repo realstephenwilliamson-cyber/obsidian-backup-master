@@ -34,5 +34,8 @@ tathāntarjalpayogena vimṛśañjapabhājanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 104)
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.9–11]]
+
 Jayaratha comments on this verse together with 12.11: see [[Tantraloka 12.011#Viveka|12.11]].
 

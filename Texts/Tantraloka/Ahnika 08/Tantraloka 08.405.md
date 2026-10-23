@@ -37,6 +37,11 @@ yatsadāśivaparyantaṃ pārthivādyaṃ ca śāsane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 375–376)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.403–405]]
+>
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.405–406]]
+
 *Lead-in:* इयच्च विश्वं हेयमेव -- इत्याह --
 
 > यत्सदाशिवपर्यन्तं पार्थिवाद्यं च शासने ॥

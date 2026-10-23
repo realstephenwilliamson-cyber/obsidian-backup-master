@@ -36,6 +36,11 @@ tataḥ saṃskāramātreṇa viśvasyāpi parikṣaye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 33–34)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.31–32]]
+>
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.32–33]]
+
 *Lead-in:* नन्वेवमपि किम् ? -- इत्याशङ्क्याह --
 
 > ततः संस्कारमात्रेण विश्वस्यापि परिक्षये ॥

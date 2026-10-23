@@ -31,6 +31,9 @@ anye tu sāttvikāt svāntaṃ buddhikarmendriyāṇi tu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 255–256)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.273–275]]
+
 > अन्ये त्वाहुर्मनो जातं राजसाहंकृतेर्यतः ॥
 > समस्तेन्द्रियसञ्चारचतुरं लघु वेगवत् ।
 > अन्ये तु सात्त्विकात् स्वान्तं बुद्धिकर्मेन्द्रियाणि तु ॥

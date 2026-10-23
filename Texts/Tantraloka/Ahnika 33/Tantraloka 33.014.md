@@ -33,5 +33,12 @@ jayavijayajayantājitasujayajayarudrakīrtanāvahakāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 175–176)
+> *No commentary follows this verse directly; shown here is the next, after Dyczkowski's verse 13-14ab.*
+>
+> ![[Tantraloka Dyczkowski v11 07 - Chapter Thirty-Three#Viveka on Dyczkowski's verse 13-14ab]]
+>
+> ![[Tantraloka Dyczkowski v11 07 - Chapter Thirty-Three#Viveka on 33.14–17]]
+
 Jayaratha comments on this verse together with 33.16: see [[Tantraloka 33.016#Viveka|33.16]].
 

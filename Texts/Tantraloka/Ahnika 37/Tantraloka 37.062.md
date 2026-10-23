@@ -36,6 +36,11 @@ bhūteśabhāskaramukhapramukhā mahāntaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 257–258)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 37.64.*
+>
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.64]]
+
 *Lead-in:* अन्येऽपि धर्मशिववामनकोद्भटश्री-
 
 > भूतेशभास्करमुखप्रमुखा महान्तः ॥

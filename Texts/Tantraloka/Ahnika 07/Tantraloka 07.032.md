@@ -36,6 +36,11 @@ ye tvitthaṃ na vidusteṣāṃ vikalpo nopapadyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 22–23)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.31–32]]
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.32–33]]
+
 > ये त्वित्थं च विदुस्तेषां विकल्पो नोपपद्यते ॥
 > स ह्येको न भवेत्कश्चित् त्रिजगत्यपि जातुचित् ।
 

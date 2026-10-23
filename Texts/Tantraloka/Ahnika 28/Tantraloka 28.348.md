@@ -33,6 +33,11 @@ kramātsphuṭatvakaraṇaṃ bhāvanaṃ parikīrtyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 153)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.345–349]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.348]]
+
 *Lead-in:* ननु भविष्यद्विषयैव वासना भवेदिति कुतस्त्योऽयं नियमः?-- इत्याशङ्क्य आह--
 
 > भविष्यतो हि भवनं भाव्यते न सतः क्वचित् ।

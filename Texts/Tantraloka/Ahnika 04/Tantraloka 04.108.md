@@ -36,6 +36,11 @@ kiṃ tvetadatra deveśi niyamena vidhīyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 127–129)
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.106–108]]
+>
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.108–109]]
+
 *Lead-in:* ननु यद्येवं तत् अकृतकत्वेन निमित्तानपेक्षणादस्य नित्यं सत्त्वमसत्त्वं वा स्यात् ? -- इत्याशङ्क्याह --
 
 > किं त्वेतदत्र देवेशि नियमेन विधीयते ॥

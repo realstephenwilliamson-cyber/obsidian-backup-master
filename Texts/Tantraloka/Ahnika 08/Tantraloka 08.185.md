@@ -35,6 +35,9 @@ kṣīyante kramaśaste ca tadante tattvamammayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 207–208)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.184–185]]
+
 > सिद्धातन्त्रे तु हेमाण्डाच्छतकोटेर्बहिः शतम् ।
 > अण्डानां क्रमशो द्विद्विगुणं रूप्यादियोजितम् ॥
 > तेषु क्रमेण ब्रह्माणः संस्युर्द्विगुणजीविताः ।

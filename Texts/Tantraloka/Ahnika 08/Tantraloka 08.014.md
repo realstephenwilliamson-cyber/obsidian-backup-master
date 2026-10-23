@@ -34,6 +34,9 @@ tattvabhedavibhāgena svabhāvasthitilakṣaṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 63–66)
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.12–15]]
+
 > त्रिशिरःशासने बोधो मूलमध्याग्रकल्पितः ।
 > षट्त्रिंशत्तत्त्वसंरम्भः स्मृतिर्भेदविकल्पना ॥
 > अव्याहतविभागोऽस्मिभावो मूलं तु बोधगम् ।

@@ -34,6 +34,9 @@ vyāvṛttaṃ paravargācca kaleti śivaśāsane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 1–2)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.2–3]]
+
 > यथा पूर्वोक्तभुवनमध्ये निजनिजं गणम् ।
 > अनुयत्परतो भिन्नं तत्त्वं नामेति भण्यते ॥
 > तथा तेष्वपि तत्त्वेषु स्ववर्गेऽनुगमात्मकम् ।

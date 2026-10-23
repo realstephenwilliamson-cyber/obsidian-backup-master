@@ -3571,7 +3571,7 @@ Passage 1 (MRI Shirta 4 etc.), 33
 
 Passage 2 (MRI Bahodesh 5) 57 
 
-Passage 3 (b. Hag. 15a), 60 
+Passage 3 (b. [[Chagigah 15#15a|Hag. 15a]]), 60 
 
 Passage 4 (Gen. R. 1:14), 74 
 

@@ -34,6 +34,9 @@ bhedopabhedavaividhyānniḥsaṃkhyatvamavāntarāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 336–337)
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.164]]
+
 *Lead-in:* अत एवाह—
 
 > क्रियोपायेऽभ्युपायानां ग्राह्यबाह्यविभेदिनाम् ।

@@ -31,5 +31,8 @@ sā dehatyāgakālāṃśakalā dehaviyoginī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 142)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.328–331]]
+
 Jayaratha comments on this verse together with 28.331: see [[Tantraloka 28.331#Viveka|28.331]].
 

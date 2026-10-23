@@ -36,6 +36,13 @@ tatra viśrāntimabhyetya śāmyatyasminmahārciṣi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 42–46)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.47–48]]
+>
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.47–48 (continued)]]
+>
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.48]]
+
 *Lead-in:* नन्वेवं परामर्शेनास्य किं स्यात् इत्याशङ्क्याह --
 
 > तत्र विश्रान्तिमभ्येत्य शाम्यत्यस्मिन्महार्चिषि ॥

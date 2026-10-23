@@ -35,6 +35,9 @@ santānaśivau parakiraṇapārameśā iti smṛtā rudrāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 354)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.368–373]]
+
 > सद्यो वामाघोरौ पुरुषेशौ ब्रह्मपञ्चकं हृदयम् ॥
 > मूर्धशिखावर्मदृगस्त्रमङ्गानि षट् प्राहुः ।
 > सकलाकलशून्यैः सह कलाढ्यखमलङ्कृते क्षपणमन्त्यम् ॥

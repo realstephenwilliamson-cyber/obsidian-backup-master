@@ -31,6 +31,9 @@ svasminsvasmin gaṇe bhāti yadyadrūpaṃ samanvayi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 60–62)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.53–55]]
+
 > शांभवाः शक्तिजा मन्त्रमहेशा मन्त्रनायकाः ॥
 > मन्त्रा इति विशुद्धाः स्युरमी पञ्च गणाः क्रमात् ।
 > स्वस्मिन्स्वस्मिन् गणे भाति यद्यद्रूपं समन्वयि ॥

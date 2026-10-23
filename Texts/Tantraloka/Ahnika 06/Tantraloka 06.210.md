@@ -37,6 +37,11 @@ saṃdhyāpūrvāhṇamadhyāhnamadhyarātrādi yatkila || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 421)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.209–210]]
+>
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.210–211]]
+
 *Lead-in:* नन्वत्राप्येवं विभागेन कोऽर्थ ? -- इत्याशङ्क्याह --
 
 > संध्यापूर्वाह्णमध्याह्नमध्यरात्रादि यत्किल ॥

@@ -131,7 +131,7 @@ In this version it is a *min* (and some texts have Sadducee) who uses the argume
 
 This suggests that the original setting for the tradition was possibly the second century, but probably the third century in Galilee, where a heretic and an unknown rabbi (probably not Judah the Prince, certainly not Gamaliel and Caesar) debated the question. The incident may never have happened at all but, if not, the creator's imagination was fired by a real issue in the third century community. The tradition was eventually ascribed both to R. Judah and to R. Gamaliel, since it seemed like an argument of sufficient ingenuity for these great teachers. 
 
-<sup>18</sup> Hullin 87a; tr. Epstein. 
+<sup>18</sup> [[Chullin 87#87a|Hullin 87a]]; tr. Epstein. 
 
 " י See p. 26 f., p. 121 f. 
 

@@ -31,6 +31,9 @@ tatrasthaḥ svayamevaiṣa juhoti ca japatyapi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 283–284)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.91–92]]
+
 *Lead-in:* मुख्यया वृत्त्या हि विकल्पविगम एव एकान्त उच्यते । तदाह--
 
 Jayaratha comments on this verse together with 29.95: see [[Tantraloka 29.095#Viveka|29.95]].

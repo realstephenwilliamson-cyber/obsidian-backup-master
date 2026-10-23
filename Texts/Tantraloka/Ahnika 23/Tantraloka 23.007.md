@@ -31,6 +31,9 @@ samastaśivaśāstrārthaboddhā kāruṇiko guruḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 297)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.6–7]]
+
 > यो नैवं वेद नैवासावभिषिक्तोऽपि दैशिकः ।
 > समययादिक्रमेणेति श्रीमत्कामिक उच्यते ॥
 > यो न वेदाध्वसन्धानं षोढा बाह्यान्तरस्थितम् ।

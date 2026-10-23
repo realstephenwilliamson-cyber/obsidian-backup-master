@@ -1,0 +1,140 @@
+---
+type: "text"
+work: "Talmud Bavli"
+masekhet: "Ketubot"
+seder: "Nashim"
+daf: 69
+translation: "William Davidson Edition - English"
+edition: "English from The William Davidson digital edition of the Koren Noé Talmud, with commentary by Rabbi Adin Even-Israel Steinsaltz"
+license: "CC-BY-NC"
+source: "https://www.sefaria.org/Ketubot.69a?ven=William_Davidson_Edition_-_English&lang=en"
+aliases:
+  - "Ketubot 69a"
+  - "Ketubot 69b"
+  - "BT Ketubot 69"
+---
+# Ketubot 69
+
+← [[Ketubot 68]] · [[Ketubot]] · [[Ketubot 70]] →
+
+*Seder Nashim · Ketubot · Daf 69* · [[Ketubot]] · [[Talmud]]
+
+## 69a
+
+> [!xref]- Mesoret HaShas (69a)
+> - [[Bava Batra 66#^66b-6|Bava Batra 66b:6-67a:1]] (line 14)
+> - [[Gittin 51#^51a-2|Gittin 51a:2-3]] (line 6)
+> - [[Ketubot 79#^79a-1|Ketubot 79a:1-2]] (line 17)
+
+> [!xref]- Ein Mishpat (69a)
+> - [[Mishneh Torah - Marriage 20#^20-7|Mishneh Torah, Marriage 20:7]] (line 1)
+> - [Sefer Mitzvot Gadol, Negative Commandments 81](https://www.sefaria.org/Sefer_Mitzvot_Gadol,_Negative_Commandments.81) (lines 1, 7)
+> - [Tur, Even HaEzer 113](https://www.sefaria.org/Tur,_Even_HaEzer.113) (lines 1, 7, 11, 13, 14)
+> - [Shulchan Arukh, Even HaEzer 113:5](https://www.sefaria.org/Shulchan_Arukh,_Even_HaEzer.113.5) (line 1)
+> - [Tur, Even HaEzer 112](https://www.sefaria.org/Tur,_Even_HaEzer.112) (line 1)
+> - [Shulchan Arukh, Even HaEzer 112:7](https://www.sefaria.org/Shulchan_Arukh,_Even_HaEzer.112.7) (line 1)
+> - [[Mishneh Torah - Marriage 20#^20-6|Mishneh Torah, Marriage 20:6]] (lines 11, 13)
+> - [Shulchan Arukh, Even HaEzer 113:2](https://www.sefaria.org/Shulchan_Arukh,_Even_HaEzer.113.2) (lines 11, 14)
+> - [Shulchan Arukh, Even HaEzer 113:3](https://www.sefaria.org/Shulchan_Arukh,_Even_HaEzer.113.3) (line 13)
+> - [[Mishneh Torah - Marriage 20#^20-5|Mishneh Torah, Marriage 20:5]] (line 14)
+> - [[Mishneh Torah - Marriage 20#^20-9|Mishneh Torah, Marriage 20:9]] (line 7)
+> - [Shulchan Arukh, Even HaEzer 113:8](https://www.sefaria.org/Shulchan_Arukh,_Even_HaEzer.113.8) (line 7)
+
+§ **Rav attached** the following question **for Rabbi** Yehuda HaNasi **between** the **lines** of a letter he sent him: With respect to **brothers who mortgaged** a certain property, **what is** the *halakha*? Is this property subject to seizure, if need be, for the benefit of the daughters’ dowries? **Rabbi Ḥiyya was sitting before** Rabbi Yehuda HaNasi when the letter arrived. **He said to him:** What is meant in the question? Did **they sell** the property **or** did **they pledge** it as a guarantee, so that it has not yet been transferred? Rabbi Yehuda HaNasi, **said to him: What difference does it make? Whether they sold** it **or pledged** it, the court **may appropriate** the property **for support** for the daughters’ dowries, **but** the court **may not appropriate** it for their **sustenance.** ^69a-1
+
+The Gemara asks: **And** as for **Rav** himself, **if he is raising a dilemma** about a case in which **they sold** the property, **let him write** explicitly that he is asking about an instance in which **they sold** the property. And **if he is raising a dilemma** about a case in which **they pledged** the property, **let him write** explicitly that he is asking about an instance in which **they pledged** the property. Why does Rav instead employ an ambiguous term? ^69a-2
+
+The Gemara answers: **Rav was raising a dilemma about both** cases **and thought: If I write to him** that **they sold** the property, then **it** works **out well if** he **sends** back **to me** the ruling **that** the court may **appropriate** the sold property for the daughters’ dowries. In that case, I would also understand that **all the more so,** if the brothers merely **pledged** the property, the court would appropriate it for the dowry. But **if he sends to me** the reply that the court **does not appropriate** sold property, **still** the case in which they **pledged** the property will **be a dilemma for me.** ^69a-3
+
+Alternatively, **if I write to him** that the brothers **pledged** it, then **if he sends to me** the response **that** the court **does not appropriate** it, I can infer that **all the more so** if the brothers **sold** it we do not collect from the buyer. And **if he sends me** the response that the court **does appropriate** the land for the daughters’ dowries, **still** the case in which they **sold** the property will **be a dilemma for me.** Therefore, **I will write to him** that they **mortgaged** it, **which implies this** meaning **and** it **implies that** one, and in this way I will receive a complete answer to my question. ^69a-4
+
+**And Rabbi Yoḥanan said: Whether** it is **this or whether** it is **that,** the court **does not appropriate** assigned or sold properties for either the support or sustenance of the daughters. **A dilemma was raised before them:** Is it **that Rabbi Yoḥanan did not hear this** ruling **of Rabbi** Yehuda HaNasi, **but had he heard it, he would have accepted it? Or, perhaps,** is it that even if **he had heard it, he would not have accepted it?** ^69a-5
+
+The Gemara proposes an answer, indicated by a dispute of *amora’im*: **Come** and **hear** a proof, **as it was stated** that *amora’im* disputed a certain case. The Sages debated the *halakha* with regard to **one who died and left** behind **two daughters and a son, and the first** daughter **advanced and took one-tenth of** the **estate** for her dowry, **but the second** daughter **did not have enough time to collect** her one-tenth **before the son died.** When the daughters divide the remaining assets, are they divided equally, or does the second daughter receive a slightly larger sum, commensurate with an additional portion earmarked for the dowry that she has not yet collected? ^69a-6
+
+**Rabbi Yoḥanan said: The second** daughter **forfeited** her right to an equal one-tenth of the estate for a dowry. No specific funds are separated from the estate as a dowry before the inheritance is divided equally among the daughters. **Rabbi Ḥanina said:** The Sages **said** something even **greater than this** with respect to her support: The court **appropriates** liened property **for support, but** it **does not appropriate** it **for sustenance. And** yet would you, Rabbi Yoḥanan, **say** that **the second** daughter **forfeited** her right to collect even when the property is not liened? It cannot be that her support is diminished merely because of her brother’s death. ^69a-7
+
+The Gemara understands that there is evidence within the exchange that Rabbi Yoḥanan knew Rabbi Yehuda HaNasi’s opinion and nevertheless ruled against it. **And if it is so,** that Rabbi Yoḥanan never heard the ruling of Rabbi Yehuda HaNasi, then **let** Rabbi Yoḥanan **say to** Rabbi Ḥanina: **Who stated that,** that property is appropriated for the dowry? Rather, Rabbi Yoḥanan must have known and rejected Rabbi Yehuda HaNasi’s ruling. The Gemara rejects the proof: **And perhaps he actually did not hear it; but** had **he heard it, he** would have **accepted it. And** Rabbi Yoḥanan ruled as he did because **it is different there,** in the case in which the son died, **since there is abundance** in **the house.** Since the second daughter receives half of all the inheritance, she is not concerned about the one-tenth of the estate. ^69a-8
+
+**Rav Yeimar said to Rav Ashi: If** that is **so,** according to that logic, then if **she** had **found a generic lost object, as there is abundance** in **the house** due to the value of the newly found article, **so too would we not give her one-tenth of the estate?** Since finding a lost object, or similarly, being independently wealthy, does not actually change her right to collect her full dowry, it stands to reason that she should collect the full dowry even when she inherits half of the remaining estate. **He said to him: I would say** this is true of **abundance** in **the house** that comes **from these properties** of the estate. Because the matter depends upon her share of the inheritance, when she commands a sizeable portion of the inheritance, she does not quibble over the one-tenth of the inheritance earmarked for her dowry. However, if she has other resources unrelated to the inheritance, her independent wealth cannot diminish her share of the inheritance with respect to the dowry. ^69a-9
+
+§ With regard to the fundamental right of daughters to receive the support of the dowry from the estate, **Ameimar said: A daughter is** considered **an inheritor. Rav Ashi said to Ameimar:** According to your opinion, **if** another inheritor **wants to remove her** from among the inheritors **by** giving her **money** instead of inherited property, is he **indeed unable to remove her?** May she insist on receiving actual property from the estate for the purpose of her dowry? **He said to him: Yes,** she may insist on inherited property. Rav Ashi continued to ask Ameimar: **If** he **wants to remove her by** giving her **one** specific piece of **land,** is he **also unable to remove her,** since, as an inheritor, she has the right to collect portions of all the property? **He said to him: Yes,** he is limited in this way. She may insist on her right to inherit from the entire property. ^69a-10
+
+In contrast to Ameimar, **Rav Ashi said: A daughter is** legally considered **a creditor** with regard to the inheritance, and the inheritors may insist that they will provide her support by any means, without giving her a share of the actual inheritance. The Gemara notes: **And even Ameimar retracted** his opinion that she is an inheritor, **as Rav Minyumi, son of Rav Niḥumi, said: I was standing in front of Ameimar, and this woman came before him, as she was asking** for **one-tenth** of her father’s **estate. And I saw that his opinion** was **that if** the inheritor **wants to remove her by** giving her **money,** he **may remove her, as I heard from** the woman’s **brothers that they were saying to her: If we had** sufficient **money, we would** pay your claims and **remove you with** our own **money. And Ameimar was silent and did not say anything to them.** Since Ameimar did not object to their suggestion in principle, evidently he agreed that her status was that of a creditor, who may be repaid in cash. ^69a-11
+
+The Gemara comments: **And now that you** have reached a conclusion and **said** that the daughter **is** functionally **a creditor,** is she a creditor **of** the **father or of** the **brothers?** The Gemara asks: **With regard to what** *halakha* is there **a practical difference?** Either way, as the father has died, she receives her support from the estate. The Gemara answers: There is a difference with respect **to collecting intermediate-quality land without an oath and inferior-quality land with an oath.** If she is the father’s creditor, she may collect from the estate only the inferior-quality land with an oath. If, however, she is the brothers’ direct creditor, she may collect her claim in the same manner as standard creditors, collecting intermediate-quality land without an oath. ^69a-12
+
+**What is** the *halakha*? Whose creditor is she? The Gemara responds: **Come** and **hear** a proof, **as Ravina provided** one-tenth of the estate **for the daughter of Rav Ashi** from two sources. **From Mar, son of Rav Ashi,** Ravina gave her **intermediate-quality land without an oath.** He collected another portion of the property **from the** orphan **son of Rav Sama, son of Rav Ashi,** who was an inheritor of the same estate from his grandfather. This portion was provided of **inferior-quality land, with an oath.** Since, with regard to the property that Rav Ashi’s daughter was collecting from an orphan, Ravina required an oath and allowed her to collect only low-grade land, it appears that Ravina treated the daughter as the creditor of the sons and not of the father. ^69a-13
+
+The Gemara records a number of related incidents. **Rav Neḥemya, son of Rav Yosef, sent** a message **to Rabba bar Rav Huna the Small, of Neharde’a: When this woman** bearing this letter **comes before you, provide her one-tenth of** her father’s **estate,** providing a percentage **even of** the land upon which sits **the millstone** [***itzterubela***], as this is also real estate. **Rav Ashi said: When we were** students **in Rav Kahana’s house, we would collect** the one-tenth of the estate for the dowry **even from the** income from **the rental fees** for **houses** in the estate. Since this money is earned from the real estate itself, it too is considered in calculating the appropriate dowry. ^69a-14
+
+The Gemara recounts an interaction between Rav Anan and Rav Huna. **Rav Anan sent** the following letter to **Rav Huna: Huna, our friend,** we wish you **peace. When this woman** bearing this **letter comes before you, provide her one-tenth of** her father’s **estate. Rav Sheshet was sitting before him,** and Rav Huna **said to him: Go** and **say to** Rav Anan my reply. Knowing that Rav Sheshet may be hesitant to relay the sharp language of the reply, Rav Huna cautioned him: **And whoever does not say to him** my exact words **is** in a state of **excommunication: Anan, Anan,** should the one-tenth be provided **from real estate or from movable property? And,** incidentally, tell me **who sits at the head** in **the house of a *marzeiḥa*?** ^69a-15
+
+**Rav Sheshet went before Rav Anan** and reverentially **said to him,** addressing him in the third person: My **Master** is **a teacher, but Rav Huna** is the **teacher of** the **teacher. Moreover, he** readily **excommunicates whoever does not say to him,** i.e., to you, my teacher, his precise message, **and if** it **were not that** he would **excommunicate** me, **I would not say** his words: **Anan, Anan,** should the one-tenth be provided **from real estate or from movable property? And,** incidentally, tell me **who sits at the head** in **the house of a *marzeiḥa*?** ^69a-16
+
+**Rav Anan went before Mar Ukva** to consult with him about Rav Huna’s reply. He **said to him:** Let the **Master see how Rav Huna sent me** an offensive message, addressing me as **Anan, Anan. Moreover,** with regard to this word ***marzeiḥa*** in the letter **that he sent me, I do not know what it is.** Mar Ukva **said to him: Say** to **me, my friend [*izi*],** ^69a-17
+
+## 69b
+
+> [!xref]- Mesoret HaShas (69b)
+> - [[Bava Batra 129#^129a-13|Bava Batra 129a:13-129b:1]] (line 12)
+> - [Jerusalem Talmud Ketubot 6:7:3](https://www.sefaria.org/Jerusalem_Talmud_Ketubot.6.7.3)
+> - [[Ketubot 51#^51a-7|Ketubot 51a:7]] (line 4)
+> - [[Taanit 21#^21a-5|Taanit 21a:5-8]] (line 11)
+> - [Tosefta Ketubot 6:11](https://www.sefaria.org/Tosefta_Ketubot.6.11) (line 12)
+> - [[Moed Katan 28#^28b-24|Moed Katan 28b:24-26]] (line 2)
+> - [[Ketubot 96#^96a-10|Ketubot 96a:10]] (line 4)
+> - [[Yevamot 59#^59a-9|Yevamot 59a:9]] (line 6)
+> - [Sifra, Kedoshim, Chapter 12 4](https://www.sefaria.org/Sifra,_Kedoshim,_Chapter_12.4) (line 6)
+> - [Tosefta Ketubot 6:10](https://www.sefaria.org/Tosefta_Ketubot.6.10) (line 6)
+
+> [!xref]- Ein Mishpat (69b)
+> - [[Mishneh Torah - Marriage 20#^20-14|Mishneh Torah, Marriage 20:14]] (lines 9, 10)
+> - [Sefer Mitzvot Gadol, Positive Commandments 48](https://www.sefaria.org/Sefer_Mitzvot_Gadol,_Positive_Commandments.48) (lines 4, 9, 10)
+> - [Tur, Even HaEzer 54](https://www.sefaria.org/Tur,_Even_HaEzer.54) (lines 9, 10)
+> - [Shulchan Arukh, Even HaEzer 54:1](https://www.sefaria.org/Shulchan_Arukh,_Even_HaEzer.54.1) (lines 9, 10)
+> - [Tur, Choshen Mishpat 252](https://www.sefaria.org/Tur,_Choshen_Mishpat.252) (lines 9, 10)
+> - [Shulchan Arukh, Choshen Mishpat 252:2](https://www.sefaria.org/Shulchan_Arukh,_Choshen_Mishpat.252.2) (lines 9, 10)
+> - [[Mishneh Torah - Ownerless Property and Gifts 12#^12-6|Mishneh Torah, Ownerless Property and Gifts 12:6]] (line 12)
+> - [Tur, Choshen Mishpat 253](https://www.sefaria.org/Tur,_Choshen_Mishpat.253) (line 12)
+> - [Shulchan Arukh, Choshen Mishpat 253:17](https://www.sefaria.org/Shulchan_Arukh,_Choshen_Mishpat.253.17) (line 12)
+> - [Tur, Choshen Mishpat 248](https://www.sefaria.org/Tur,_Choshen_Mishpat.248) (line 12)
+> - [Shulchan Arukh, Choshen Mishpat 248:2](https://www.sefaria.org/Shulchan_Arukh,_Choshen_Mishpat.248.2) (line 12)
+> - [[Mishneh Torah - Mourning 13#^13-3|Mishneh Torah, Mourning 13:3]] (line 2)
+> - [Sefer Mitzvot Gadol, Rabbinic Commandments, Laws of Mourning 1](https://www.sefaria.org/Sefer_Mitzvot_Gadol,_Rabbinic_Commandments,_Laws_of_Mourning.1) (line 2)
+> - [Tur, Yoreh De'ah 376](https://www.sefaria.org/Tur,_Yoreh_De'ah.376) (line 2)
+> - [Shulchan Arukh, Yoreh De'ah 376:1](https://www.sefaria.org/Shulchan_Arukh,_Yoreh_De'ah.376.1) (line 2)
+> - [[Mishneh Torah - Marriage 16#^16-7|Mishneh Torah, Marriage 16:7]] (line 4)
+> - [Tur, Even HaEzer 112](https://www.sefaria.org/Tur,_Even_HaEzer.112) (line 4)
+> - [Shulchan Arukh, Even HaEzer 112:7](https://www.sefaria.org/Shulchan_Arukh,_Even_HaEzer.112.7) (line 4)
+> - [Tur, Even HaEzer 100](https://www.sefaria.org/Tur,_Even_HaEzer.100) (line 4)
+> - [Shulchan Arukh, Even HaEzer 100:1](https://www.sefaria.org/Shulchan_Arukh,_Even_HaEzer.100.1) (line 4)
+> - [[Mishneh Torah - Marriage 20#^20-5|Mishneh Torah, Marriage 20:5]] (line 4)
+> - [Tur, Even HaEzer 113](https://www.sefaria.org/Tur,_Even_HaEzer.113) (line 4)
+> - [Shulchan Arukh, Even HaEzer 113:2](https://www.sefaria.org/Shulchan_Arukh,_Even_HaEzer.113.2) (line 4)
+
+**how the incident itself happened.** What are the particulars of your exchange that brought about this end result? **He said to him: Such and such was** the **incident,** and Rav Anan related the details to Mar Ukva. **He said to him: A man who does not know what a *marzeiḥa* is sends** a letter **to Rav Huna** addressing him as **Huna, our friend?** It is not your place to take such liberties in your correspondence with him, and Rav Huna was justifiably offended. The Gemara explains: **What is a *marzeiḥa*? A mourner, as it is written: “For so says the Lord: Enter not into the house of mourning [*marze’aḥ***], neither go to lament, neither bemoan them” ([[Jeremiah 16#^16-5|Jeremiah 16:5]]). ^69b-1
+
+**Rabbi Abbahu said** concerning the same topic: **From where** is it derived **that a mourner sits at the head? As it is stated: “I chose out their way, and sat as chief, and dwelt as a king in the army, as one that would comfort [*yenaḥem*] the mourners”** ([[Job 29#^29-25|Job 29:25]]). The Gemara challenges the proof: The word ***yenaḥem* implies** one comforting **others** and not the mourner being comforted. **Rav Naḥman bar Yitzḥak said:** Since it is written without vowels, the word can be read **as** if **it were written “would be comforted [*yinnaḥem*],”** which describes the mourner who is being comforted. ^69b-2
+
+**Mar Zutra said:** That the mourner sits at the head may be derived **from here: “And the revelry [*mirzaḥ*] of those who stretched themselves shall pass away [*sar*]”** ([[Amos 6#^6-7|Amos 6:7]]). The word *mirzaḥ* may alternatively be read as two distinct words: Bitter [*mar*] and flustered [*zaḥ*], and the word *sar* has a homonym that means ruler. Read this way, the verse indicates: One who is **bitter and flustered,** i.e., the mourner, **is made** the **ruler of those who sit,** i.e., the visitors who come to comfort him and sit with him. Therefore, he sits at the head. ^69b-3
+
+The Gemara reports the conclusion of the earlier discussion: Rava said: **The *halakha*** is that one may collect from the inheritors **from real estate and not from movable property, whether for sustenance, whether for** the **marriage contract,** or **whether for support,** referring to the dowry. ^69b-4
+
+**MISHNA:** With regard to **one who transfers money** by means of a third party **for his daughter** to purchase a field after she marries, is the daughter allowed to assert control over the money? **If she says** after she marries: **My husband is trustworthy for me,** so give him the money to buy the property for me, her wishes are not honored. **The third party should execute** the agency **that was entrusted in his power;** this is **the statement of Rabbi Meir. Rabbi Yosei says:** The daughter has authority: **And were it only a field and she wanted to sell it, it** could be **sold immediately.** Just as she would have authority to control the field, she may control the money assigned for her. The mishna qualifies: **In what** case **is this statement said? With** respect to **an adult woman. But with** respect to **a minor girl,** any **action of a minor girl is nothing** from a legal standpoint; a minor would have no authority in this matter. ^69b-5
+
+**GEMARA:** **The Sages taught** in the *Tosefta* (6:9): In the case of **one who transfers money** by means of a third party **for his son-in-law, in order to purchase with it a field for his daughter, and she says: Let** the money **be given** directly **to my husband** to invest as he sees fit, whether or not the court heeds her depends upon the circumstances. If she makes her appeal **from** the beginning of **the marriage** and onward, **she has** the **authority** to dictate the terms. If she makes her appeal **from** the time of **the betrothal** until the marriage, **the third party should execute** the agency **that was entrusted in his power;** this is **the statement of Rabbi Meir. Rabbi Yosei says:** With respect to **the adult woman, whether** the statement is **from the marriage or from the betrothal, she has authority.** In the case of **a minor girl, whether from** the time of **the marriage or from the betrothal, the third party should execute** the agency **that was entrusted in his power.** ^69b-6
+
+The Gemara clarifies: In the dispute between Rabbi Meir and Rabbi Yosei, **what is** the practical difference **between them? If we say: The practical difference between them** pertains to the authority of **a minor girl from** the time of the **marriage** and onward, **as Rabbi Meir holds she has authority, and Rabbi Yosei comes to say that also, even from** the time of **the marriage, yes, an adult woman** may dictate terms, but **a minor girl** may **not,** this answer is untenable. ^69b-7
+
+The Gemara explains: **Say the latter clause** of the mishna: **But with** respect to **a minor girl,** any **action of a minor girl is nothing. But who teaches this? If we say it is Rabbi Yosei, but you** already **learn** this principle **from the first clause, as Rabbi Yosei said: And were it only a field and she wanted to sell it, it** could be **sold immediately.** This is true of adults: In the case of **an adult woman, who is capable of selling, yes,** her sale is valid. However, in the case **a minor girl, who is not capable of selling, no,** her sale is invalid. ^69b-8
+
+**Rather,** the latter clause **is** the opinion of **Rabbi Meir. And** the mishna **is incomplete and this** is what **it is teaching: The third party should execute** the agency **that was entrusted in his power. In what** case **is this statement said? From the betrothal. However, from the marriage she has the authority** to dictate terms. **In what** case **is this statement said? For an adult woman. However, for a minor girl,** any **action of a minor girl is nothing.** Rabbi Meir agrees that a minor does not have the authority to transfer the money to her husband. What, then, is the practical difference between them? **Rather,** the **practical difference between them is** with regard to **an adult woman from** the time of **betrothal** until the marriage. Rabbi Meir holds that before marriage, she does not have the authority, and Rabbi Yosei holds that she does. ^69b-9
+
+**It was stated** that the matter was debated by *amora’im*: **Rav Yehuda** said that **Shmuel said: The *halakha*** is **in accordance with** the opinion of **Rabbi Yosei. Rava** said that **Rav Naḥman said: The *halakha* is in accordance with** the opinion of **Rabbi Meir.** ^69b-10
+
+§ Once, it was decided to appoint Rabbi Yoḥanan to be head of the yeshiva over another candidate, the Sage Ilfa, because the latter was not in the vicinity. Suspecting that some would interpret this appointment as a sign that he was less qualified than Rabbi Yoḥanan, **Ilfa suspended himself from the mast [*iskarya*] of a ship [*makhuta*]. He said:** If **there is** someone **who comes, who tells me a matter** taught in a *baraita* **of the school of Rabbi Ḥiyya and Rabbi Oshaya, and I do not resolve it** and demonstrate that the same teaching can be derived **from a mishna, I will fall from the mast and drown.** ^69b-11
+
+**A certain older man came** and **taught** before **him** (*Tosefta* 6:10): With regard to **one who says** upon his deathbed: **Give a shekel to my sons for** each **week,** the court assesses the sons’ needs. **And** if it is **appropriate** that the court **gives them a *sela*,** which is worth two shekels, the court **gives them a *sela*.** Had the father known they would need the additional money, he would not have begrudged them. **But if he said: Give them only a shekel,** the court **gives them only a shekel.** Because their father spoke explicitly, there is no room to question his intentions. If they need more, they should take charitable aid. **And if he said: If they die** without inheritors, **others should inherit in their stead,** then **whether he said: Give** a shekel **or whether he said: Don’t give** more than a shekel, the court **gives them only a shekel,** since it is clear that he wants the inheritance to be doled out in such a way that it will remain intact for whoever will receive it. The older man asked Ilfa where this *halakha* is indicated in the Mishna. ^69b-12
+
+Ilfa **said to him:** In accordance with **whose** opinion **is this** *baraita*? ^69b-13

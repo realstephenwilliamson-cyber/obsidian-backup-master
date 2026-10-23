@@ -31,6 +31,11 @@ vyācakṣate picuproktaṃ na nitye karmaṇītyadaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 411–412)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 27.25–28.*
+>
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.25–28]]
+
 *Lead-in:* स्वमतमाह--
 
 Jayaratha comments on this verse together with 27.27: see [[Tantraloka 27.027#Viveka|27.27]].

@@ -34,6 +34,9 @@ bhāvayenmiśritaṃ vāri śuddhiyogyaṃ tato bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 166–167)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.61]]
+
 > यदा त्वेकेन शुद्धेन तदन्तर्भावचिन्तनात् ।
 > न पृथक् शोधयेत्तत्त्वनाथसंश्रवणात्परम् ॥
 > तदा पूर्णां वितीर्याणुमुत्क्षिप्यात्मनि योजयेत् ।

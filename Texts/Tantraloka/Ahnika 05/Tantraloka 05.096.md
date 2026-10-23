@@ -35,6 +35,9 @@ iti praveśopāyo'yamāṇavaḥ parikīrtitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 128)
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.96]]
+
 *Lead-in:* नन्वन्येऽपि परतत्त्वान्तःप्रवेशे बहव उपायाः संभवन्ति तत्कथमस्यैव रहस्यत्वं येन गोपनीयत्वेन निगूढार्थतयैवमुपदेशः ? -- इत्याशङ्क्याह --
 
 > भेदोपभेदभेदेन भेदः कार्यस्तु मध्यतः ।

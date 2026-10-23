@@ -33,6 +33,11 @@ niyatiprāṇatāyogātsāmagrītastu yadyapi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 74–76)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.109–110]]
+>
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.110–111]]
+
 *Lead-in:* ननु तत्तद्देशकालादिसामग्रीवशेन सा सा सिद्धिः समुन्मिषतीति सर्वत्र उक्तम्, तत्कथं तत्र भाववैमल्यमेव निमित्ततां यायात् ?-- इत्याशङ्क्य आह--
 
 > नियतिप्राणतायोगात्सामग्रीतस्तु यद्यपि ॥

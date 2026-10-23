@@ -33,6 +33,11 @@ satatoditamityetatsarvavyāpitvasūcakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 475)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.281–282]]
+>
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.282]]
+
 *Lead-in:* इत्यादिना महाप्रचयेऽपि सततोदिताख्यो भेद उक्तः - इति कथमेतदवोचस्तुर्यातीतदशायां नोक्तो भेद इति ? -- इत्याशङ्क्याह --
 
 > सततोदितमित्येतत्सर्वव्यापित्वसूचकम् ॥

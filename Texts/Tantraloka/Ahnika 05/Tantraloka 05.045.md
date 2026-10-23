@@ -34,5 +34,12 @@ tatrānantaprameyāṃśapūraṇāpānanirvṛtaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 42)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 5.47–48.*
+>
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.47–48]]
+>
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.47–48 (continued)]]
+
 Jayaratha comments on this verse together with 5.47: see [[Tantraloka 05.047#Viveka|5.47]].
 

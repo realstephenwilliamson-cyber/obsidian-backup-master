@@ -33,6 +33,11 @@ atha sṛṣṭe dvitaye'smin śāntoditadhāmni ye'nusandadhate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 316–318)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.125–126]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.126–127]]
+
 *Lead-in:* कथमेतदुक्तम् ?--इत्याशङ्क्य आह--
 
 > अथ सृष्टे द्वितयेऽस्मिन् शान्तोदितधाम्नि येऽनुसन्दधते ॥

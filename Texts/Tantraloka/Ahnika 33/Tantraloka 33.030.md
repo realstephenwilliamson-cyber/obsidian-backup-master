@@ -31,6 +31,9 @@ mātṛsadbhāvarūpā tu turyā viśrāntirucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 182–183)
+> ![[Tantraloka Dyczkowski v11 07 - Chapter Thirty-Three#Viveka on 33.30]]
+
 *Lead-in:* ननु स्वामिनोऽपि को भेदः ?--इत्याशङ्क्य आह--
 
 > परापरा परा चान्या सृष्टिस्थितितिरोधयः ।

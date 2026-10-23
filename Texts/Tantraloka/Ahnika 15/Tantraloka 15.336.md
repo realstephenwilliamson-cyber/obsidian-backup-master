@@ -31,6 +31,9 @@ mukhasthā śvāsaniḥśvāsakalanī hṛdi karṣati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 208–210)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.335–338]]
+
 *Lead-in:* तदेव पठति--
 
 Jayaratha comments on this verse together with 15.338: see [[Tantraloka 15.338#Viveka|15.338]].

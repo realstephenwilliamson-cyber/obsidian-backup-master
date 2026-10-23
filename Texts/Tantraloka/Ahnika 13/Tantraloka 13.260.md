@@ -33,6 +33,11 @@ maivaṃ tathāvidhottīrṇaśivadhyānajapādiṣu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 286)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.259–260]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.260–261]]
+
 *Lead-in:* एतदेव परिहरति -
 
 > मैवं तथाविधोत्तीर्णशिवध्यानजपादिषु ॥

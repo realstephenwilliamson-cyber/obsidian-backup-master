@@ -32,6 +32,9 @@ utkṛṣṭacittā ṛṣayaḥ kiṃ brāhmaṇyena bhājanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 315)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.516]]
+
 *Lead-in:* ननु कुतोऽत्र भूम्ना एतदुक्तम्?--इत्याशङ्क्य आह--
 
 > अन्त्यजातीयधीवादिजननीजन्मलाभतः ।

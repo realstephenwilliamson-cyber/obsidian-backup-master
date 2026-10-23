@@ -34,6 +34,9 @@ tadetattrividhatvaṃ hi śāstre śrīpūrvanāmani |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 340)
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.167]]
+
 *Lead-in:* न केवलं युक्तित एव एतत्सिद्धं यावदागमतोऽपि -- इत्याह --
 
 > तदेतत्त्रिविधत्वं हि शास्त्रे श्रीपूर्वनामनि ।

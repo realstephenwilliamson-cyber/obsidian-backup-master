@@ -31,6 +31,9 @@ aliases:
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 42)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.72–75]]
+
 *Lead-in:* ज्ञानिनश्च सर्वत्रैव अविगीतमुत्कृष्टत्वम्--इत्याह--
 
 Jayaratha comments on this verse together with 28.74: see [[Tantraloka 28.074#Viveka|28.74]].

@@ -37,6 +37,11 @@ nāṅyaṣṭakordhve kathitaṃ vigrahāṣṭakamucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 293)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.285–286]]
+>
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.286]]
+
 *Lead-in:* इदानीं प्रकृतमेवानुसरति --
 
 > नाङ्यष्टकोर्ध्वे कथितं विग्रहाष्टकमुच्यते ॥

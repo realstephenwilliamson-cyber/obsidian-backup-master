@@ -36,6 +36,11 @@ avikalpātmasaṃvittau yā sphurattaiva vastunaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 358–362)
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.181–182]]
+>
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.182–183]]
+
 *Lead-in:* ननु ज्ञानं खलु ज्ञापकं न तु कारकम् इति, तेन वस्तुनो ज्ञप्तिः स्यात् न तु सिद्धिः इति कथमुक्तम् -- शिद्धं विकल्पेनानुगम्यते"? इत्याशङ्क्याह --
 
 > अविकल्पात्मसंवित्तौ या स्फुरत्तैव वस्तुनः ॥

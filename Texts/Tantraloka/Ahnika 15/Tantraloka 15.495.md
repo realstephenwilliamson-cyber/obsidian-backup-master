@@ -32,5 +32,8 @@ hṛdādicakraṣaṭkasthānbrahmādīn ṣaṭ samāhitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 300)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.494–496]]
+
 Jayaratha comments on this verse together with 15.496: see [[Tantraloka 15.496#Viveka|15.496]].
 

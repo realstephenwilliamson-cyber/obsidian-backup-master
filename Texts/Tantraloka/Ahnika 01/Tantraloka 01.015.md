@@ -34,6 +34,13 @@ arthito racaye spaṣṭāṃ pūrṇārthāṃ prakriyāmimām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 79–82)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 1.16.*
+>
+> ![[Tantraloka Dyczkowski v01 03 - Chapter One, part 2#Viveka on 1.16]]
+>
+> ![[Tantraloka Dyczkowski v01 04 - Chapter One, part 3#Viveka on 1.16 (continued)]]
+
 *Lead-in:* न चात्र अन्यथा सम्भाव्यम् -- इत्यात्मन्याप्तत्वं प्रख्यापयन्नेवं प्रतिज्ञाकरणे सामर्थ्यं दर्शयति—
 
 Jayaratha comments on this verse together with 1.16: see [[Tantraloka 01.016#Viveka|1.16]].

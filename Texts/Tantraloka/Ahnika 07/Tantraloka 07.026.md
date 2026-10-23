@@ -36,6 +36,11 @@ jñānaṃ kiyadbhavettāvattadabhāvo na bhāsate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 15–17)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.26]]
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.26 (2)]]
+
 *Lead-in:* नन्वस्य परोपाधिकः कस्मादेवं निर्देशः ? -- इत्याशङ्क्याह --
 
 > अन्यथा न स निर्वक्तुं निपुणैरपि पार्यते ।

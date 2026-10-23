@@ -33,6 +33,13 @@ puṃrāgavitkalākālamāyā jñānottare kramāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 50–55)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 9.47–48.*
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.44–45]]
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.47–48]]
+
 *Lead-in:* क्रमस्य पुनः कार्यकारणभावप्रस्तावात् प्राधान्येन शास्त्रेष्वन्यादृशीं स्थितिं दर्शयति --
 
 Jayaratha comments on this verse together with 9.44: see [[Tantraloka 09.044#Viveka|9.44]].

@@ -31,6 +31,9 @@ uttare na kadācitsyādbhāvikālasya yogataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 146–147)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.38–39]]
+
 > भोगो विवेकपर्यन्त इति यत्तत्र कोऽवधिः ।
 > विवेकलाभे निखिलसूतिदृग्यदि सापि किम् ॥
 > सामान्येन विशेषैर्वा प्राच्ये स्यादेकजन्मतः ।

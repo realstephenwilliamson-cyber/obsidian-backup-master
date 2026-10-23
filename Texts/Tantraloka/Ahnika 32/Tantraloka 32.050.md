@@ -33,6 +33,11 @@ nāsāṃ netradvayaṃ cāpi hṛtstanadvayameva ca || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 159–160)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.49–50]]
+>
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.50–52]]
+
 *Lead-in:* एवमेव हि परा संवित् कायत्वेन उल्लसिता--इत्याह--
 
 Jayaratha comments on this verse together with 32.49: see [[Tantraloka 32.049#Viveka|32.49]].

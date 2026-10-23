@@ -33,6 +33,11 @@ abhyasyedbhāvasaṃvittiṃ sarvabhāvanivartanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 328–330)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.142–146]]
+>
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.146–147]]
+
 *Lead-in:* अत्रैव च दार्ढ्यं कार्यम्--इत्याह--
 
 > अभ्यस्येद्भावसंवित्तिं सर्वभावनिवर्तनात् ॥

@@ -35,6 +35,9 @@ yuktyāgamābhyāṃ saṃsiddhaṃ tāvāneko yato muniḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 411–412)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.235–236]]
+
 > यावानस्य हि संतानो गुरुस्तावत्स कीर्तितः ।
 > सम्यग्ज्ञानमयश्चेति स्वात्मना मुच्यते ततः ॥
 > तत एव स्वसंतानं ज्ञानी तारयतीत्यदः ।

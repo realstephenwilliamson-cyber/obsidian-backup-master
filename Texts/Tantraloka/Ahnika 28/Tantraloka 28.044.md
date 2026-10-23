@@ -36,6 +36,13 @@ tribhāgaśaḥ prathamamadhyamāparavibhāgaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 25–27)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 28.46–47.*
+>
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.43–44]]
+>
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.46–47]]
+
 *Lead-in:* न केवलमत्रैव विशेषविशेषता, यावत् सर्वत्रापि--इत्याह--
 
 Jayaratha comments on this verse together with 28.43: see [[Tantraloka 28.043#Viveka|28.43]].

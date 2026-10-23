@@ -35,6 +35,9 @@ granthyākhyamidaṃ tattvaṃ māyākāryaṃ tato māyā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 317–318)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.321]]
+
 *Lead-in:* अन्यत्र पुनर्विशेषान्तरमप्यस्ति -- इत्याह --
 
 > श्रीसारशासने पुनरेषा षट्पुटतया विनिर्दिष्टा ।

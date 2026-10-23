@@ -34,6 +34,9 @@ eṣā vastuta ekaiva parā kālasya karṣiṇī |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 360–361)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.234]]
+
 *Lead-in:* ननु एकैवानुत्तरा परा संविदस्ति तदतिरिक्तस्य अन्यस्य कस्यचित्संवेद्यमानतऽयोगात्, तत् तदतिरेकेण शिवशक्तिरूपत्वमपि न युज्यते, का पुनर्वार्ता विश्वरूपतायाः ? -- इत्याशङ्क्याह --
 
 > एषा वस्तुत एकैव परा कालस्य कर्षिणी ।

@@ -57,7 +57,7 @@ Text: [[NRSVue Luke 04|NRSVue]] · [[Luke 04|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 04#^4-17|17]]:** *Scroll of the prophet Isaiah*, whether Nazareth had a separate synagogue building or was prosperous enough to own an Isaiah scroll remains debated. (The fully preserved Isaiah scroll from Qumran (1QIsaa) is 734 cm high and has fifty four columns.) Jesus would be reading the “haftarah,” a passage from the Prophets (“Neviʾim”) complementing the weekly Torah portion. The earliest rabbinic reference to this practice is *t. Meg*. 4 (3).1; however, Lk 4; [[Acts 13#^13-15|Acts 13.15]] suggest it, and some scholars have argued that Philo knows a haftarah cycle from 17 Tammuz to the Day of Atonement. The text Jesus reads does not appear among any Jewish haftarah listing used today. ^4-17
 
-**[[NRSVue Luke 04#^4-18|18–19]]:** *Spirit . . . is upon me*, see 3.22. *Good news to the poor*. . . *year of the Lord’s favor*, see [[Isaiah 61#^61-1|Isa 61.1–2]]; see also [[Isaiah 58#^58-6|Isa 58.6]] and the Jubilee tradition of Lev 25 (see *b. Sanh*. 102a). For messianic interpretations of Isa 61, see 1QH 18.14; 11QMelch 1.18. *Release to the captives*, ironic, given John’s imprisonment (3.19–20). Luke lacks Isaiah’s reference to “the day of vengeance” (61.2). ^4-18
+**[[NRSVue Luke 04#^4-18|18–19]]:** *Spirit . . . is upon me*, see 3.22. *Good news to the poor*. . . *year of the Lord’s favor*, see [[Isaiah 61#^61-1|Isa 61.1–2]]; see also [[Isaiah 58#^58-6|Isa 58.6]] and the Jubilee tradition of Lev 25 (see [[Sanhedrin 102#102a|*b. Sanh*. 102a]]). For messianic interpretations of Isa 61, see 1QH 18.14; 11QMelch 1.18. *Release to the captives*, ironic, given John’s imprisonment (3.19–20). Luke lacks Isaiah’s reference to “the day of vengeance” (61.2). ^4-18
 
 **[[NRSVue Luke 04#^4-22|22]]:** *Joseph’s son*, see 2.33,48; 3.23. ^4-22
 
@@ -105,7 +105,7 @@ Text: [[NRSVue Luke 04|NRSVue]] · [[Luke 04|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue Luke 04#^4-42|42]]:** *Crowds*, Jesus retains popular Jewish support. ^4-42-2
 
-**[[NRSVue Luke 04#^4-43|43]]:** *Kingdom of God*, major content of Jesus’ preaching; see [[Zechariah 14#^14-9|Zech 14.9]]; Ps 93–99; the “Kaddish” prayer asks, “May He give reign to His kingship during your lifetime and during your days . . .” (“vayamlikh malkhutei beḥayeik-hon uveyomeikhon . . .”), *b. Ber*. 14b. ^4-43
+**[[NRSVue Luke 04#^4-43|43]]:** *Kingdom of God*, major content of Jesus’ preaching; see [[Zechariah 14#^14-9|Zech 14.9]]; Ps 93–99; the “Kaddish” prayer asks, “May He give reign to His kingship during your lifetime and during your days . . .” (“vayamlikh malkhutei beḥayeik-hon uveyomeikhon . . .”), [[Berakhot 14#14b|*b. Ber*. 14b]]. ^4-43
 
 **[[NRSVue Luke 04#^4-44|44]]:** *Synagogues*, see 4.15n. *Judea*, Jesus’ teaching expands beyond Galilee. diseases b Or *the Christ* c Other ancient authorities read *Galilee* G A L I L E E 36° 35° The geography of the Gospel of Luke. I T U R A E A Sidon A B I L E N E Caesarea Philippi T R A C O N I T I S 33° Chorazin Gennesaret *River Jordan* Gerasa 32° 0 Miles 10 20 31° 0 10 20 Kilometers ^4-44
 

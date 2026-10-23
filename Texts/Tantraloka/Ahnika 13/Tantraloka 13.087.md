@@ -31,6 +31,9 @@ ajñānād bandhanaṃ mokṣo jñānāditi parīkṣitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 178–179)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.87]]
+
 *Lead-in:* एवमुच्छिन्न एव भवदभिमतो बन्धमोक्षविभागः, कृतं च शास्त्राडम्बरेण -- इत्याह --
 
 > इत्थमुच्छिन्न एवायं बन्धमोक्षादिकः क्रमः ।

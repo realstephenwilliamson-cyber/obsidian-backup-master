@@ -31,6 +31,9 @@ na vaktraṃ tau bhedamayau sṛṣṭisthitiprabhū yataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 130)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.210]]
+
 *Lead-in:* ननु तथेति किं सर्वातिदेश एव? न--इत्याह--
 
 > ऊर्ध्वाभिव्यक्त्ययोग्यत्वाद्विष्णोर्धातुश्च पञ्चमम् ।

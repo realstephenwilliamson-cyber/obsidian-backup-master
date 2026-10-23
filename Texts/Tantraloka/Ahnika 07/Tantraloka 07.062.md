@@ -36,6 +36,11 @@ ityeṣa kālavibhavaḥ prāṇa eva pratiṣṭhitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 42–43)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.60–62]]
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.62–63]]
+
 *Lead-in:* इति प्रतिज्ञातं तत्कथमिह कालाध्वनः प्राण एवैवं प्रतिष्ठितत्वमुच्यते ? -- इत्याशङ्क्याह --
 
 > इत्येष कालविभवः प्राण एव प्रतिष्ठितः ॥

@@ -35,6 +35,9 @@ vilīnaṃ tat trikoṇe'smiñśaktivahnau vilīyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 96–97)
+> ![[Tantraloka Dyczkowski v04 05 - Chapter Five, part 3#Viveka on 5.77]]
+
 *Lead-in:* नन्वेवमपि भावसंस्कारस्य विद्यमानत्वात् एकान्ततो भेदविगलनं न वृत्तम् -- इति कथं संविन्मात्रात्मन्यनुप्रवेशः सिद्ध्येत् ? -- इत्याशङ्क्याह --
 
 > तज्ज्ञेयं संविदाख्येन वह्निना प्रविलीयते ।

@@ -31,6 +31,9 @@ niṣkalatvena vikhyātā sākalyena triśūlinī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 139)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.4–6]]
+
 *Lead-in:* आसामेव गुणप्रधानभावं तावत् दर्शयति--
 
 Jayaratha comments on this verse together with 32.5: see [[Tantraloka 32.005#Viveka|32.5]].

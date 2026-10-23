@@ -35,6 +35,9 @@ atha sthūlodayo'rṇānāṃ bhaṇyate guruṇoditaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 443–444)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.240]]
+
 *Lead-in:* एतदुपसंहरन्नन्यदवतारयति --
 
 > उक्तः सूक्ष्मोदयस्त्रैधं द्विधोक्तस्तु परोदयः ।

@@ -12,11 +12,13 @@ converted: 2026-10-07
 
 [[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8|← previous]] · [[Tantraloka vol 02 (Dyczkowski)|contents]]
 
+#### Viveka on 3.265 (continued)
+
 *[p. 391]* ^pg407
 
 worship’ is the merger (vilāpana) etc. (into consciousness) of their own activity \[illegible\] which is that of perceiving form and the rest (of the objects of sense). णा 
 
-797\. Consciousness flows through the senses that it itself generates, as its instruments of perception. Consequently, the same phases operate through each of the senses in each act of perception. Jayaratha is using Krama terminology here. The sequence of consciousness (sarhvitkrama) can be variously analysed. There are two main formats found in Krama sources. One is a sequence of four phases and another of five. Both end with ‘merger’ (vilāpana) (more literally this term means ‘dissolving away’. One could also translate this term as ‘destruction’ or ‘cessation’). Clearly, Jayaratha must be referring here to the four-fold sequence (kramacatuṣtaya). This is: 1) the initial exertion (udyoga) within the body of the absolute to transform itself into the universe of finite experience. 2) Its manifestation (avabhāsana) within the absolute. 3) The relishing (carvanṇa) or reflective awareness of its appearing within consciousness. 4) Its merger (vilāpana) or withdrawal back into the absolute when it resumes its pristine form as the radiant, Inexplicable power (anākhyaśakti) of pure consciousness. This final phase is also sometimes termed the Devouring of Time (kālagrāsa) (e.g. in a quote in TĀv ad 4/125). Sanderson (1987, p. 14ff.) concisely describes the five-fold process as: ‘the projection of content, immersion in content, retraction of content into the state of latent impression within the subject, and finally the dissolution of these subjective impressions in the implosion of consciousness into its pristine, non-discursive potentiality. In some traditions, pure luminosity (bhāsā) is worshipped as a fifth phase englobing these four as its creative vibrancy.’ Thus, the five-fold sequence consists of 1) manifestation (ābhāsana), 2) attachment (rakti), 3) reflection (vimarśana), 4) deposition of the seed of future manifestation (bījāvasthāpana) and 5) merger (vilāpana). 1) Manifestation (ābhāsana) takes place by the same process by which the powers of the senses unfold progressively in the act of perception, manifesting in this way each individual particular in the field of awareness. 2) Attachment (rakti) is the phase in which the emitted manifestation persists for some time without folding back into consciousness, which is now outwardly directed to the field of cognition and carries with it the powers of the senses that, thus projected outwards, are ‘coloured’ (rakta) by their object. In this phase the extroverted subject manife as the means of knowledge and so is affected by objectivity. In this way objectivity becomes clearly manifest through the manifestation of the means of knowledge, that is, the senses. 3) Reflection (vimarśana) is the next phase, which is that of withdrawal. Once having apprehended his object, the subject turns back in on himself to rest within himself and thus experience the wonder (camatkāra) of the aesthetic delight of the reflective awareness of his own nature. 4) The Sowing of the Seed (bījāvasthāpana) comes next. In the case of the perfected yogi, this process ends in the previous phase and is contained in the consciousness of Śiva’s self-revelation in the state of grace. The yogi, full of the power of devotion, contemplates the multiplicity of particulars and then withdraws completely into the unity of consciousness. In most cases, however, a residue remains even when the subject has withdrawn from the object into himself. This residue functions as the seed for future states of conditioned consciousness. So, on the one hand, the subject is absorbed in the delight of his own undivided nature, while on the other, the residue instigates further emission and withdrawal. This residue is in the form of doubt or uncertainty about the nature and consequence of further activity. This inner doubt assumes spontaneously the form of the thought constructs that veil consciousness and leave the individual soul perplexed and deluded, thus obstructing his absorption in his own authentic nature (svasvarūpānu-praveśa). 5) Finally, ‘merger’ (vilāpana) corresponds to Śiva’s operation (krtya) of grace, which marks the cessation of the limiting adjuncts (upādhi) that the cycle of creation and destruction impose upon the fettered soul. This comes about, as described above, by the process of digestion (pāka) or immediate assimilation of the residue of the outwardly directed activity of consciousness engaged in the cycle of manifestation, thus restoring it to its original and authentic form as the universal vibration of consciousness. By an intense descent of the power of grace (tīvraśaktipāta), consciousness consumes duality as does a blazing fire, fuel. In this way, the powers of consciousness return to their original source, the possessor of power. By their unfolding (udvāpa) and retraction (avāpa), they align themselves with one another in diverse ways, to build up the variegated picture of cosmic manifestation as they increase in number and complexity, to then again collapse back into their source. See Dyczkowski 1992a: 61 and 180-181.
+797\. Consciousness flows through the senses that it itself generates, as its instruments of perception. Consequently, the same phases operate through each of the senses in each act of perception. Jayaratha is using Krama terminology here. The sequence of consciousness (saṁvitkrama) can be variously analysed. There are two main formats found in Krama sources. One is a sequence of four phases and another of five. Both end with ‘merger’ (vilāpana) (more literally this term means ‘dissolving away’. One could also translate this term as ‘destruction’ or ‘cessation’). Clearly, Jayaratha must be referring here to the four-fold sequence (kramacatuṣtaya). This is: 1) the initial exertion (udyoga) within the body of the absolute to transform itself into the universe of finite experience. 2) Its manifestation (avabhāsana) within the absolute. 3) The relishing (carvanṇa) or reflective awareness of its appearing within consciousness. 4) Its merger (vilāpana) or withdrawal back into the absolute when it resumes its pristine form as the radiant, Inexplicable power (anākhyaśakti) of pure consciousness. This final phase is also sometimes termed the Devouring of Time (kālagrāsa) (e.g. in a quote in TĀv ad 4/125). Sanderson (1987, p. 14ff.) concisely describes the five-fold process as: ‘the projection of content, immersion in content, retraction of content into the state of latent impression within the subject, and finally the dissolution of these subjective impressions in the implosion of consciousness into its pristine, non-discursive potentiality. In some traditions, pure luminosity (bhāsā) is worshipped as a fifth phase englobing these four as its creative vibrancy.’ Thus, the five-fold sequence consists of 1) manifestation (ābhāsana), 2) attachment (rakti), 3) reflection (vimarśana), 4) deposition of the seed of future manifestation (bījāvasthāpana) and 5) merger (vilāpana). 1) Manifestation (ābhāsana) takes place by the same process by which the powers of the senses unfold progressively in the act of perception, manifesting in this way each individual particular in the field of awareness. 2) Attachment (rakti) is the phase in which the emitted manifestation persists for some time without folding back into consciousness, which is now outwardly directed to the field of cognition and carries with it the powers of the senses that, thus projected outwards, are ‘coloured’ (rakta) by their object. In this phase the extroverted subject manife as the means of knowledge and so is affected by objectivity. In this way objectivity becomes clearly manifest through the manifestation of the means of knowledge, that is, the senses. 3) Reflection (vimarśana) is the next phase, which is that of withdrawal. Once having apprehended his object, the subject turns back in on himself to rest within himself and thus experience the wonder (camatkāra) of the aesthetic delight of the reflective awareness of his own nature. 4) The Sowing of the Seed (bījāvasthāpana) comes next. In the case of the perfected yogi, this process ends in the previous phase and is contained in the consciousness of Śiva’s self-revelation in the state of grace. The yogi, full of the power of devotion, contemplates the multiplicity of particulars and then withdraws completely into the unity of consciousness. In most cases, however, a residue remains even when the subject has withdrawn from the object into himself. This residue functions as the seed for future states of conditioned consciousness. So, on the one hand, the subject is absorbed in the delight of his own undivided nature, while on the other, the residue instigates further emission and withdrawal. This residue is in the form of doubt or uncertainty about the nature and consequence of further activity. This inner doubt assumes spontaneously the form of the thought constructs that veil consciousness and leave the individual soul perplexed and deluded, thus obstructing his absorption in his own authentic nature (svasvarūpānu-praveśa). 5) Finally, ‘merger’ (vilāpana) corresponds to Śiva’s operation (kṛtya) of grace, which marks the cessation of the limiting adjuncts (upādhi) that the cycle of creation and destruction impose upon the fettered soul. This comes about, as described above, by the process of digestion (pāka) or immediate assimilation of the residue of the outwardly directed activity of consciousness engaged in the cycle of manifestation, thus restoring it to its original and authentic form as the universal vibration of consciousness. By an intense descent of the power of grace (tīvraśaktipāta), consciousness consumes duality as does a blazing fire, fuel. In this way, the powers of consciousness return to their original source, the possessor of power. By their unfolding (udvāpa) and retraction (avāpa), they align themselves with one another in diverse ways, to build up the variegated picture of cosmic manifestation as they increase in number and complexity, to then again collapse back into their source. See Dyczkowski 1992a: 61 and 180-181.
 
 
 *[p. 392]* ^pg408
@@ -27,14 +29,18 @@ The point of saying that ‘although their nature manifests in unity (abheda), i
 
 Surely (one may ask,) if they are of many kinds because of the diversity (bheda) of functions etc. (of consciousness), and the perception of form and the rest (of the objects of the senses) is a twelve-fold function because there 15 no other function (of consciousness) apart from that, then there should not be a form (of consciousness) which is either more or less than that twelve-fold form. So how is it that it was said (before that) ‘from (just) these (twelve energies) alone emerges (every) wheel of energies, right up (to the full complement of) sixty- \[illegible\] With this doubt in mind, he says: 
 
+### TĀ 3.266–267
+
 आसामेव च देवीनामावापोद्रापयोगतः || २६६ ॥
 एकद्रित्रिचतुष्पञ्षट्सप्ताष्टनवोत्तः ।
 रद्राकीन्यकलासेनाप्रभृतिर्भेदविस्तरः ॥ २६७ ॥
 
-āsām eva ca devīnām āvāpodvāpayogatah ॥ 266 ॥
-ekadvitricatuṣpañcaṣaṭsaptāṣtanavottaraih \\ rudrārkānyakalāsenāprabhrtirbhedavistarah ॥ 267 ॥ 
+āsām eva ca devīnām āvāpodvāpayogataḥ ॥ 266 ॥
+ekadvitricatuṣpañcaṣaṭsaptāṣtanavottaraiḥ \\ rudrārkānyakalāsenāprabhṛtirbhedavistaraḥ ॥ 267 ॥ 
 
-Again, according to the way in which (these) goddesses merge together (ã&vāpa) and unfold (udvāpa), they become extensively diverse (by combining in groups of) one, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, sixteen, eighteen and so on (infinitely). (266cd-267) (266-267ab) 
+Again, according to the way in which (these) goddesses merge together (ā&vāpa) and unfold (udvāpa), they become extensively diverse (by combining in groups of) one, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve, thirteen, sixteen, eighteen and so on (infinitely). (266cd-267) (266-267ab) 
+
+#### Viveka on 3.266–267
 
 (The goddesses) ‘merge together’ \[illegible\] that is, (they) gather together and ‘unfold’ (udvāpa), that is, expand (vikāsa). The point is that by virtue of their own freedom, they constantly contract and expand (freely) like a lotus (that opens and closes as the sun rises and sets). 
 
@@ -51,14 +57,20 @@ Thus, one related matter leading to another in this way, (we have) come (to the 
 
 The Seal of the Supreme Means is the Awareness that Everything is Reflected in the Mirror of Consciousness 
 
+### TĀ 3.267
+
 अलमन्येन बहुना प्रकृतेऽथ नियुज्यते ।
-alam anyena bahunā prakrte ‘tha niyujyate | 
+alam anyena bahunā prakṛte ‘tha niyujyate | 
 
 Enough of all these many other (secondary details), now we shall apply (ourselves) to the main point. (268ab) (267cd) 
 
-(Enough of all these) ‘other’, that is, secondary (details) relating to the exposition of the Divine Means. The main form (of practice of this means to realisation) has been described as being three-fold, that is, that all things are reflections within consciousness and the rest,” so that those who are close (to that reality) may attain in just a moment (jhatiti) that (supreme) nature (of consciousness), which is free of thought constructs.TM? As there are many matters to understand in relation to this, he says in brief for these (yogis) that ‘we shall apply (ourselves) to the main point’, so that they may not forget those things that are being taught, namely, that the universe is a reflection within consciousness and the rest. 
+#### Viveka on 3.267
+
+(Enough of all these) ‘other’, that is, secondary (details) relating to the exposition of the Divine Means. The main form (of practice of this means to realisation) has been described as being three-fold, that is, that all things are reflections within consciousness and the rest,” so that those who are close (to that reality) may attain in just a moment (jhatiti) that (supreme) nature (of consciousness), which is free of thought constructs.? As there are many matters to understand in relation to this, he says in brief for these (yogis) that ‘we shall apply (ourselves) to the main point’, so that they may not forget those things that are being taught, namely, that the universe is a reflection within consciousness and the rest. 
 
 Now, after this and from this (place) onwards, he eulogises the main point (of this exposition of the practice of the Divine Means), namely, that all things are reflections within consciousness and the rest (that this implies). This is the meaning. Thus, he says: 
+
+### TĀ 3.268–270
 
 संविदात्मनि विश्ोऽयं भाववर्गः प्रपञ्चवान् । २६८ ॥
 प्रतिबिम्बतया भाति यस्य विश्श्वरो हिसः।
@@ -73,14 +85,16 @@ Now, after this and from this (place) onwards, he eulogises the main point (of t
 पू्णीहन्तापरामर्शो योऽस्यायं प्रविवेचितः ॥ २७० ॥
 मरमदराक्रियोपासास्तदन्या नात्र काश्चन ।
 
-sarvidātmani viśvo ‘yari bhāvavargah prapañcavān ॥ 268 I|
-pratibimbatayā bhāti yasya viśveśvaro hi sah |
-evam ātmani yasyedrg avikalpah sadodayah ॥ 269 ॥
-parãmarśah sa evāsau śīāmbhavopāyam udritah |
-pūrnāhantāparāmarśo yo ‘syāyaṁ pravivecitah ॥ 270 ॥
+sarvidātmani viśvo ‘yari bhāvavargaḥ prapañcavān ॥ 268 I|
+pratibimbatayā bhāti yasya viśveśvaro hi saḥ |
+evam ātmani yasyedṛg avikalpaḥ sadodayaḥ ॥ 269 ॥
+parāmarśaḥ sa evāsau śīāmbhavopāyam udritaḥ |
+pūrnāhantāparāmarśo yo ‘syāyaṁ pravivecitaḥ ॥ 270 ॥
 mantramudrākriyopāsās tadanyā nātra kāścana | 
 
-He within whose conscious nature the universe and this (whole) category of phenomena (bhãvavarga), freely extending (prapañcavat), appears as a reflection, is in truth the Lord of the universe! In the same way, he within whose nature this kind of reflective awareness, free of thought constructs, arises constantly, is indeed stamped with (the seal of) the supreme means (śãmbhavopāya). (Thus,) for one who possesses the discernment (pravivecita) which is the reflective awareness of ‘I-ness’ in all its fullness (pūrnāhantā), there is nothing else (which differs) from that here of any kind, be it Mantra, Mudrā, ritual or worship. (268cd-271ab) (268-270) 
+He within whose conscious nature the universe and this (whole) category of phenomena (bhāvavarga), freely extending (prapañcavat), appears as a reflection, is in truth the Lord of the universe! In the same way, he within whose nature this kind of reflective awareness, free of thought constructs, arises constantly, is indeed stamped with (the seal of) the supreme means (śāmbhavopāya). (Thus,) for one who possesses the discernment (pravivecita) which is the reflective awareness of ‘I-ness’ in all its fullness (pūrnāhantā), there is nothing else (which differs) from that here of any kind, be it Mantra, Mudrā, ritual or worship. (268cd-271ab) (268-270) 
+
+#### Viveka on 3.268–270
 
 The adept (sādhaka) and the rest (of the various kinds of practitioners) who possess the most intense dèscent of the power (of grace), within whose consciousness the ‘universe’ of subjects and objects ‘freely extending’ in their various divisions and subdivisions etc. and ‘this (whole) category of phenomena (bhāvavarga)’ shines as a reflection as does a city in a mirror, that is, even though it is being separated (as it were from his conscious nature), it manifest as not separate from it, that is, as his own nature alone, is indeed ‘the Lord of the universe’, that is, shines at one with the Lord Who is the Supreme Light. This is the meaning. 
 
@@ -94,7 +108,7 @@ practice of) the reflective awareness of full (and all-encompassing) ‘I-ness�
 
 *[p. 395]* ^pg411
 
-‘For one who, dedicated to the practice of freedom (svacchandaceștā), has obtained even a little of this (alchemical) potion (rasa), the conduct (caryā) consisting of contemplative trance (samādhi), Yoga, vows, Mantras, Mudrās, the repetition of Mantra and other such observances (caryā) appears to be like poison.’ 
+‘For one who, dedicated to the practice of freedom (svacchandaceṣtā), has obtained even a little of this (alchemical) potion (rasa), the conduct (caryā) consisting of contemplative trance (samādhi), Yoga, vows, Mantras, Mudrās, the repetition of Mantra and other such observances (caryā) appears to be like poison.’ 
 
 And (Abhinavagupta himself) will say: 
 
@@ -102,17 +116,23 @@ And (Abhinavagupta himself) will say:
 
 Liberation in This Life (jīvanmukti) 
 
-(He now goes on) to say that the great soul who is close to (the practice of) the Divine Means (ś\$āãmbhavopāya), although three-fold in this way, attains liberation (even when he is still) alive. 
+(He now goes on) to say that the great soul who is close to (the practice of) the Divine Means (śāmbhavopāya), although three-fold in this way, attains liberation (even when he is still) alive. 
+
+### TĀ 3.271
 
 भूयो भूयः समावेशं निर्विकल्पमिमं श्रितः ।। realisation).[^803] ॥
 अभ्येति भैरवीभावं जीवन्मुक्त्यपराभिधम् ।
 
-bhūyo bhüyah samāveśari nirvikalpam imari śritah ॥ 271 ॥
+bhūyo bhüyah samāveśari nirvikalpam imari śritaḥ ॥ 271 ॥
 abhyeti bhairavībhāvam jīvanmuktyaparābhidham | 
 
 He who enters repeatedly into this state of penetration (samāveśa) (into pure Bhairava consciousness) free of thought constructs, attains Bhairava’s state (bhairavībhāva), otherwise called liberation in this life. (271cd-272ab) (271) 
 
+#### Viveka on 3.271
+
 Surely, (one may ask, he said) previously that ‘(no practice) associated with action (kriyāyoga) can serve there as a means (to realisation). What is being said (in such statements) is that there is no means at all within Bhairava consciousness that imparts knowledge or (induces to right) action, because it is a priori (ādisiddha) (and so always known) and ever active (nityodita) (and so does not require activation). So how is it that he has said this now, namely, that this state of penetration (samāveśa) (into pure Bhairava consciousness) free of thought constructs is the means here? With this doubt in mind, he says: 
+
+### TĀ 3.272–273
 
 इत एव प्रभृत्येषा जीवनमक्तिर्विचार्यते ॥ २७२ ॥
 यत्र सूत्रणयापीयमुपायोपेयकल्पना प्राक्तने त्वाह्धिके काचिद्धेदस्य कलनापि नो ॥ २७२३ ॥
@@ -124,16 +144,20 @@ Surely, (one may ask, he said) previously that ‘(no practice) associated with 
 
 तेनानुपाये तस्मिन्को मुच्यते वा कथं कुतः ।
 
-ita eva prabhrty \[illegible\] jīvanmuktir vicāryate ॥ 272 ||
+ita eva prabhṛty \[illegible\] jīvanmuktir vicāryate ॥ 272 ||
 yatra sūütraṇayāpīyam upāyopeyakalpanā |
 prāktane tv āhnike kācidbhedasya kalanāpi no ॥ 273 ॥
-tenānupāye tasmin ko mucyate vā kathai kutah | 
+tenānupāye tasmin ko mucyate vā kathai kutaḥ | 
 
-From this point onwards we will discuss (the nature of) this (state of) liberation in life \[illegible\] (which is such) even though this notion that there is a means and a goal (persists) there in a subtle form (sūtraṇayāã). In the previous chapter there was (no question of) any formation of division (bheda), for (at the level) free of means, who is liberated, how and where? (272cd-274ab) (272-273) 
+From this point onwards we will discuss (the nature of) this (state of) liberation in life \[illegible\] (which is such) even though this notion that there is a means and a goal (persists) there in a subtle form (sūtraṇayā). In the previous chapter there was (no question of) any formation of division (bheda), for (at the level) free of means, who is liberated, how and where? (272cd-274ab) (272-273) 
+
+#### Viveka on 3.272–273
 
 The point is that ‘even though (the notion that there is a means and a goal persists) in a subtle form’, it will become clearly evident (sphuṭā) in (the means to realisation taught in) subsequent chapters. (At the level free of means there is no question of) ‘division’ into the agent, instrument, material cause and the like. Thus, he says: ‘who is liberated, how and where?’ 
 
 And (so) here (now) he explains the nature of (the relationship) between the means and the goal. 
+
+### TĀ 3.274–276
 
 The Reflection of the Principles (tattva) in the Fifty Forms of Reflective Awareness 
 
@@ -145,13 +169,13 @@ The Reflection of the Principles (tattva) in the Fifty Forms of Reflective Aware
 व्यापि स्वतन्त्रं सर्वज्ञं यच्छिवं परिकल्पितम् ।
 
 nirvikalpe parāmarśe śāmbhavopāyanāmani ॥ 274 ॥
-pañcāśadbhedatām pūrvasūtritāṁ yojayed budhah |
+pañcāśadbhedatām pūrvasūtritāṁ yojayed budhaḥ |
 dharām evāvikalpena svātmani pratibimbitām || 275 ॥
-paśyan bhairavatām yāti jalādiṣv apy ayari vidhih |
-yãvad ante pararh tattvarh samastãvaraṇordhvagam ॥ 276 ॥
-vyāpi svatantrarh sarvajñaṁ yac chiva parikalpitam | 
+paśyan bhairavatām yāti jalādiṣv apy ayari vidhiḥ |
+yāvad ante paraṁ tattvaṁ samastāvaraṇordhvagam ॥ 276 ॥
+vyāpi svatantraṁ sarvajñaṁ yac chiva parikalpitam | 
 
-The Awakened One should apply the fifty aforementioned kinds of reflective awareness free of thought constructs, (here) called the Divine Means (śãmbhavopāya). Beholding the Earth (principle) reflected within one’s own nature by means of this (reflective awareness) free of thought constructs, it assumes Bhairava’s nature. This (same) procedure is applied 
+The Awakened One should apply the fifty aforementioned kinds of reflective awareness free of thought constructs, (here) called the Divine Means (śāmbhavopāya). Beholding the Earth (principle) reflected within one’s own nature by means of this (reflective awareness) free of thought constructs, it assumes Bhairava’s nature. This (same) procedure is applied 
 
 *[p. 397]* ^pg413
 
@@ -159,21 +183,25 @@ The Awakened One should apply the fifty aforementioned kinds of reflective aware
 
 be Śiva.[^804] (274cd- 277ab) (274-276) 
 
+#### Viveka on 3.274–276
+
 ‘Aforementioned’ in the first chapter, as was said (there): 
 
 ‘Fifty 
 
 varieties of this penetration are described (in the Mālinīvijayottaratantra) in accord with (how) these (three) clearly apparent categories (bheda), located amongst the thirty-six metaphysical principles (tattva), 
 
-are discerned (and conjoined together) (abhisandhitah). 
+are discerned (and conjoined together) (abhisandhitaḥ). 
 
-(abhisandhitah).[^805] 
+(abhisandhitaḥ).[^805] 
 
-‘One should apply’. The meaning is that one should conceive each one, one at a time, as a means (to realisation). He says that (with the words) ‘the Earth (principle) and so on. ‘Beholding’ just ‘the Earth (principle)’ alone, ‘reflected within one’s own nature by means of this’ knowledge ‘free of thought constructs’, not indeed by means of thought constructs alone, that is, experiencing it directly as the pure consciousness (saṁvinmātra) of one’s own innate nature. Thus, because everything is of the nature of all things, ‘it assumes Bhairava’s nature’, that is, it manifests as the supreme Light (of consciousness). This is the meaning. He teaches that the same is the case with the other principles also, (saying) ‘also from that of Water onwards’ etc. ‘Beholding’ the network of principles beginning with Water up to iva ‘reflected within one’s own nature’ by means of the modality (vrti) (of consciousness) free of thought constructs with ‘this ({same) procedure’, ‘it assumes Bhairava’s nature’. 
+‘One should apply’. The meaning is that one should conceive each one, one at a time, as a means (to realisation). He says that (with the words) ‘the Earth (principle) and so on. ‘Beholding’ just ‘the Earth (principle)’ alone, ‘reflected within one’s own nature by means of this’ knowledge ‘free of thought constructs’, not indeed by means of thought constructs alone, that is, experiencing it directly as the pure consciousness (saṁvinmātra) of one’s own innate nature. Thus, because everything is of the nature of all things, ‘it assumes Bhairava’s nature’, that is, it manifests as the supreme Light (of consciousness). This is the meaning. He teaches that the same is the case with the other principles also, (saying) ‘also from that of Water onwards’ etc. ‘Beholding’ the network of principles beginning with Water up to Śiva ‘reflected within one’s own nature’ by means of the modality (vṛti) (of consciousness) free of thought constructs with ‘this ({same) procedure’, ‘it assumes Bhairava’s nature’. 
 
 Surely (one may ask,) if the supreme principle ‘pervades (all things), then how is it that having set aside the thirty-five principles,[^806] it is said to be just the thirty-sixth? With this doubt in mind, he says that it is: ‘conceived to be beyond all obscuring coverings’. In actual fact, its sole nature is the supreme subject who is[^807] the knower and agent of that (aggregate of thirty-five principle). Thus he says that it is: ‘free and omniscient’. 
 
 Surely (one may ask,) if the supreme principle is Bhairava whose sole nature is the supreme perceiver, then how, being Bhairava, can it become a means (to realisation) in the course of the act of perception? With this doubt in mind, he says: 
+
+### TĀ 3.277
 
 तदप्यकल्पितोदारसंविदर्पणविम्बितम् ॥ २७७ ॥
 पश्यन्विकल्पविकलो भैरवीभवति स्वयम् ।
@@ -190,15 +218,19 @@ paśyan vikalpavikalo bhairavībhavati svayam |
 
 The (yogi) free of thought constructs, beholding that (Śiva) also reflected in the noble and uncreated (akalpita) mirror of consciousness, becomes by himself (spontaneously) Bhairava. (277cd-278ab) (277) 
 
+#### Viveka on 3.277
+
 (He does not attain realisation) only by (perceiving) the other principles (as reflections in the mirror of consciousness), but also (just) the supreme principle, that is, Bhairava, whose sole nature is the one supreme perceiver of (all) that. As (Utpaladeva has) is said: 
 
 ‘(The Lord, by virtue of His freedom, which is the absence of duality, having fashioned (his own)) Self \[illegible\] that (abides) unforsaken (by that) freedom, (with notions that He is the Lord (52) and the like, behaves (as such in 
 
 daily life). 
 
-In accord with this line of reasoning, (Bhairava, the supreme principle of consciousness), has conceived the state in which there is a goal to attain and the means to attain it (upãāyopeyabhāva) within His own nature by (the power of) His freedom, (and so made realisation possible by this practice). This ‘consciousness’ is ‘noble’ because it is not a created (thought construct), and is uncontracted by this or that limiting adjunct. It is a ‘mirror’ because of its most excellent capacity to reflect (svacchatā). The adept (sādhaka) etc. who is ‘free of thought constructs’ and has penetrated into the Supreme Means (śāmbhavopāya), beholding (that supreme principle) reflected there (within it), that is, (experiencing it) directly as being of that (same pure conscious) nature alone, ‘becomes by himself’, independent of anything else, ‘(spontaneously) Bhairava’. The meaning is that he shines effulgent as (that same) uncreated (and unconceived) (avikalpita) noble consciousness. This is the meaning. 
+In accord with this line of reasoning, (Bhairava, the supreme principle of consciousness), has conceived the state in which there is a goal to attain and the means to attain it (upāyopeyabhāva) within His own nature by (the power of) His freedom, (and so made realisation possible by this practice). This ‘consciousness’ is ‘noble’ because it is not a created (thought construct), and is uncontracted by this or that limiting adjunct. It is a ‘mirror’ because of its most excellent capacity to reflect (svacchatā). The adept (sādhaka) etc. who is ‘free of thought constructs’ and has penetrated into the Supreme Means (śāmbhavopāya), beholding (that supreme principle) reflected there (within it), that is, (experiencing it) directly as being of that (same pure conscious) nature alone, ‘becomes by himself’, independent of anything else, ‘(spontaneously) Bhairava’. The meaning is that he shines effulgent as (that same) uncreated (and unconceived) (avikalpita) noble consciousness. This is the meaning. 
 
 Surely (a question arises). If it is said that by means of the supreme principle (the yogi at this level of practice) penetrates into the complete (and perfect) nature (of the liberated state of consciousness), let it be (we agree), but how is that possible by means of (partial) aspects, namely, the Earth (principle) and the rest? With this doubt in mind, he says: 
+
+### TĀ 3.278–279
 
 यथा रक्तं पुरः पश्यन्निर्विकल्पकसंविदा ।। life).[^808] ॥
 तततदरारनिरंशैकघटसंवि्िसुस्थित : ।
@@ -210,17 +242,19 @@ Surely (a question arises). If it is said that by means of the supreme principle
 
 परामृशन्स्वमात्मानं पूर्णं एवावभासते ।
 
-yathā raktari purah paśyan nirvikalpakasaṁvidā ॥ 278 Il tattaddvāraniramśaikaghaṭasamvittisusthitah |
-tadvad dharādikaikaikasaṁghātasamudāyatah ॥ 279 ॥
-parāmrśan svamātmānam pūrṇa evāvabhāsate | 
+yathā raktari puraḥ paśyan nirvikalpakasaṁvidā ॥ 278 Il tattaddvāraniramśaikaghaṭasamvittisusthitaḥ |
+tadvad dharādikaikaikasaṁghātasamudāyataḥ ॥ 279 ॥
+parāmṛśan svamātmānam pūrṇa evāvabhāsate | 
 
-One sees (something) initially, such as (for example) the red (colour of a jar), by means of (the aspect of) consciousness that is free of thought constructs and which (subsequently), by various means (dvāra),TM (develops into) a single stable and undivided perception of a jar. In the same way, for him who reflects upon his own nature through the unified emergence of each one of these (principles), starting with Earth, one after the other, it manifests (in all its) plenitude. (278cd-280ab) (278-279) 
+One sees (something) initially, such as (for example) the red (colour of a jar), by means of (the aspect of) consciousness that is free of thought constructs and which (subsequently), by various means (dvāra), (develops into) a single stable and undivided perception of a jar. In the same way, for him who reflects upon his own nature through the unified emergence of each one of these (principles), starting with Earth, one after the other, it manifests (in all its) plenitude. (278cd-280ab) (278-279) 
 
-Indeed, everything here (according to us) is the perceiver. ‘Initially’, first of all, by means of cognitive consciousness \[illegible\] free of thought constructs, one perceives directly ‘the red (colour), which is a quality that secondarily characterizes (a jar), as well as the deployment (of its parts), such as (its) broad base and bulbous shape. Each of (its) parts, including (its) red colour and the rest, made manifest by (the perceiver’s) own will etc., serve as a means (to perceive a jar, in such a way that) one rightly (says), ‘I have perceived \[illegible\] literally ‘known’) this jar’. Thus the understanding or ‘consciousness’ by which it takes place is that of the one main (object) in relation to (its) parts that is correctly (perceived), without being less (than it is), as separate (from consciousness and distinct from other things), and as undivided and without parts, in accord with its own specific characteristic nature (svalakṣaṇa), which consists of the coming together of many manifestations of universals (sāmānyãbhāsa)."" Satisfied in this 
+#### Viveka on 3.278–279
+
+Indeed, everything here (according to us) is the perceiver. ‘Initially’, first of all, by means of cognitive consciousness \[illegible\] free of thought constructs, one perceives directly ‘the red (colour), which is a quality that secondarily characterizes (a jar), as well as the deployment (of its parts), such as (its) broad base and bulbous shape. Each of (its) parts, including (its) red colour and the rest, made manifest by (the perceiver’s) own will etc., serve as a means (to perceive a jar, in such a way that) one rightly (says), ‘I have perceived \[illegible\] literally ‘known’) this jar’. Thus the understanding or ‘consciousness’ by which it takes place is that of the one main (object) in relation to (its) parts that is correctly (perceived), without being less (than it is), as separate (from consciousness and distinct from other things), and as undivided and without parts, in accord with its own specific characteristic nature (svalakṣaṇa), which consists of the coming together of many manifestations of universals (sāmānyābhāsa)."" Satisfied in this 
 
 809\. The ‘means’ are the aspects (aṁśa) of the object, such as the round shape of the jar that, progressively perceived, combine to make up a clear image of the manifest form of the object.
 
-810\. A specific characteristic nature (svalakṣana) is unique to each particular entity in space and time. This term and the concept it denotes have been adopted with important modifications by the Pratyabhijñā, the philosophy of Anuttara Trika. Torella summarizes the main points as follows: ‘The svalakṣana Dharmottara understands as . . . ‘unique character, unique reality’ (NBṬṬ p. 70) is for the Buddhist logicians, the object of direct perception. Dharmakirti . . . describes it as follows: ‘capable of causal efficacy, dissimilar from everything else, not being the object of a word and not being known in the presence of signs that are different from it’ (PV 3/1-2); and ‘that which, owing to its being far or near, determines a difference in the form that appears in cognition’ (NB 1/13). The svalakṣaṇa, says Mokṣākaragupta (TBh p. 11), ‘is something real, unique, determined by a space, time and form, which are peculiar to 11." He gives the example of a particular jar, capable of containing water, with a definite place, time and form, different from what belongs to the same or a different class. The svalakṣana strictu sensu is an absolutely undivided reality; it is an instant (NBṬ p. 71). The term svalakṣana is borrowed by the Śaiva authors to denote tan entity having a character which is only its own, consisting in a determined place, time and form which ‘contract’ its own nature’ (ÎPv I p. 86) The basic difference with the Buddhists lies precisely in conceiving of place-time-form not as the intrinsic nature of things, but as the contingent contraction of an entity whose real nature is, on the contrary, expanded (vikāsitabhāva eva, vitatātmā cf. ŚDr 5/6c), ‘open’ (cf. ĪPVv Ī p. 27). Though appearing as a unitary entity, the svalakṣana, in Utpaladeva’s view, is in fact formed by a number of ābhāsas, i.e. universals, which have become a particular owing to their mutual delineation and their connection with space and time.’ (Torella 2002: p. 890) The specific individual identity of an entity — its svalakṣaṇa — is constituted by a particular configuration of manifestations (ãbhāsa) that occur at a particular time (or period of time) and place, which are themselves manifestations. Utpaladeva explains: ‘The essential identity \[illegible\] — which is by nature absolutely undivided (abhinnam eva) ~ becomes one and manifold because of the division into internal \[absolute ‘T’ consciousness\] and external \[objective\] manifestation. (It becomes manifold) because of the multiplicity of the manifestations of the individual realities (svalakṣana), constituted as they are by the different combination of external manifestations such as place, time and shape.’ (vrtti on ĪP 2/2/2 Torella’s translation, square brackets are mine.) According to the Pratyabhijñā (certainly not the Buddhists), the manifestations which constitute ‘individual realities’ (svalakṣana) are not in themselves specific to any entity, They are universals (sāmānya) that are common to any number of corresponding particulars. The most universal of manifestations is that of existence (sattãbhāsa), and the most specific is the unitary manifestation of the specific identity (svabhāva) of an entity. Consciousness shines as all manifestations and is itself just manifestation alone (ābhāsamātra). The activity of the Light of consciousness is ‘shining’ (bhāsana) and shines as a ‘manifestation’ (ãbhāsa), which is how it shines. The pure direct experience, free of thought constructs, of things just as they are, is as manifestations of consciousness. The specific nature of an object is established by the unifying power of the mind (anusandhāna) of the individual perceiver, who distinguishes various manifestations as distinct from others according to his inclination, practical needs and specific experience (ĪP 2/3/3). Each manifestation, although universal, has its own particular functional or causal efficacy (arthakriyā), that is, capacity to give rise to a particular effect or meet the purpose for which it is required (see above, note 1,1106). Manifestations out of the pleroma that manifests in the initial cognitive consciousness in the first moment of perception are selected according to the needs of the perceiver, and groups of manifestations are formed, arranged in consonance with a predominant one (sāmānadhikaraṇnya). One who sees a gold jar, for example, and needs money, will focus on the manifestation ‘gold’. Another person who simply needs a vessel to carry water, the other manifestations of the jar, such as its hollowness, shape and size, are the focus of attention. These configurations are, as Utpaladeva says, the objects of words, and hence thought constructs that are made of words (see ĪP 2/3/4-5 and commentaries). Thus, the desire which stimulates the impulse of the perceiver to perceive an object which serves his purpose is fulfilled when it has been discursively determined, that is, framed in a notion of the sort ‘this is a jar’, which serves the purpose of carrying water. Then consciousness again rests in its own nature alone, which is free of the dichotomy of subject and object.
+810\. A specific characteristic nature (svalakṣana) is unique to each particular entity in space and time. This term and the concept it denotes have been adopted with important modifications by the Pratyabhijñā, the philosophy of Anuttara Trika. Torella summarizes the main points as follows: ‘The svalakṣana Dharmottara understands as . . . ‘unique character, unique reality’ (NBṬṬ p. 70) is for the Buddhist logicians, the object of direct perception. Dharmakirti . . . describes it as follows: ‘capable of causal efficacy, dissimilar from everything else, not being the object of a word and not being known in the presence of signs that are different from it’ (PV 3/1-2); and ‘that which, owing to its being far or near, determines a difference in the form that appears in cognition’ (NB 1/13). The svalakṣaṇa, says Mokṣākaragupta (TBh p. 11), ‘is something real, unique, determined by a space, time and form, which are peculiar to 11." He gives the example of a particular jar, capable of containing water, with a definite place, time and form, different from what belongs to the same or a different class. The svalakṣana strictu sensu is an absolutely undivided reality; it is an instant (NBṬ p. 71). The term svalakṣana is borrowed by the Śaiva authors to denote tan entity having a character which is only its own, consisting in a determined place, time and form which ‘contract’ its own nature’ (ÎPv I p. 86) The basic difference with the Buddhists lies precisely in conceiving of place-time-form not as the intrinsic nature of things, but as the contingent contraction of an entity whose real nature is, on the contrary, expanded (vikāsitabhāva eva, vitatātmā cf. ŚDr 5/6c), ‘open’ (cf. ĪPVv Ī p. 27). Though appearing as a unitary entity, the svalakṣana, in Utpaladeva’s view, is in fact formed by a number of ābhāsas, i.e. universals, which have become a particular owing to their mutual delineation and their connection with space and time.’ (Torella 2002: p. 890) The specific individual identity of an entity — its svalakṣaṇa — is constituted by a particular configuration of manifestations (ābhāsa) that occur at a particular time (or period of time) and place, which are themselves manifestations. Utpaladeva explains: ‘The essential identity \[illegible\] — which is by nature absolutely undivided (abhinnam eva) ~ becomes one and manifold because of the division into internal \[absolute ‘T’ consciousness\] and external \[objective\] manifestation. (It becomes manifold) because of the multiplicity of the manifestations of the individual realities (svalakṣana), constituted as they are by the different combination of external manifestations such as place, time and shape.’ (vṛtti on ĪP 2/2/2 Torella’s translation, square brackets are mine.) According to the Pratyabhijñā (certainly not the Buddhists), the manifestations which constitute ‘individual realities’ (svalakṣana) are not in themselves specific to any entity, They are universals (sāmānya) that are common to any number of corresponding particulars. The most universal of manifestations is that of existence (sattābhāsa), and the most specific is the unitary manifestation of the specific identity (svabhāva) of an entity. Consciousness shines as all manifestations and is itself just manifestation alone (ābhāsamātra). The activity of the Light of consciousness is ‘shining’ (bhāsana) and shines as a ‘manifestation’ (ābhāsa), which is how it shines. The pure direct experience, free of thought constructs, of things just as they are, is as manifestations of consciousness. The specific nature of an object is established by the unifying power of the mind (anusandhāna) of the individual perceiver, who distinguishes various manifestations as distinct from others according to his inclination, practical needs and specific experience (ĪP 2/3/3). Each manifestation, although universal, has its own particular functional or causal efficacy (arthakriyā), that is, capacity to give rise to a particular effect or meet the purpose for which it is required (see above, note 1,1106). Manifestations out of the pleroma that manifests in the initial cognitive consciousness in the first moment of perception are selected according to the needs of the perceiver, and groups of manifestations are formed, arranged in consonance with a predominant one (sāmānadhikaraṇnya). One who sees a gold jar, for example, and needs money, will focus on the manifestation ‘gold’. Another person who simply needs a vessel to carry water, the other manifestations of the jar, such as its hollowness, shape and size, are the focus of attention. These configurations are, as Utpaladeva says, the objects of words, and hence thought constructs that are made of words (see ĪP 2/3/4-5 and commentaries). Thus, the desire which stimulates the impulse of the perceiver to perceive an object which serves his purpose is fulfilled when it has been discursively determined, that is, framed in a notion of the sort ‘this is a jar’, which serves the purpose of carrying water. Then consciousness again rests in its own nature alone, which is free of the dichotomy of subject and object.
 
 
 *[p. 400]* ^pg416
@@ -239,19 +273,23 @@ I Am the Author of the Cycle of Creation and Destruction
 
 that Arises in the Mirror of My Consciousn: 
 
+### TĀ 3.280
+
 मत्त एवोदितमिदं मय्येव प्रतिबिम्बितम् ॥ २८० ॥
 मदभिन्नमिटं चेति त्रिधोपायः स शाम्भवः ।
 
-matta evoditam idarhn mayyeva pratibimbitam ॥ 280 ॥
-madabhinnam idar ceti tridhopāyah sa śāmbhavah | 
+matta evoditam idaṁ mayyeva pratibimbitam ॥ 280 ॥
+madabhinnam idar ceti tridhopāyaḥ sa śāmbhavaḥ | 
 
-SIXA) this is born from me”, “it is reflected in me” and “is not separate from me” — three-fold is this Divine (Śãmbhava) Means.” (280cd- 281ab) (280) 
+SIXA) this is born from me”, “it is reflected in me” and “is not separate from me” — three-fold is this Divine (Śāmbhava) Means.” (280cd- 281ab) (280) 
+
+#### Viveka on 3.280
 
 In accord with what was said (before), namely, ‘everywhere here (in all these verses), the personal pronoun ‘I denotes only pure, (awakened) consciousness (bodha), (these verses refer to that). (Accordingly, the reflective awareness that everything has emerged) ‘from me’ (means that) this universe of subjects and objects has arisen from supreme (awakened) consciousness (bodha), not from ignorance (or anything else).\*'\* (Moreover,) even though (everything) is 
 
 811\. See above, 1/186cd-187ab and note.
 
-812\. TĀ 3/280cd-281ab (280) is quoted in MM p. 148. Instead of idarh ceti ‘(all) this , , . ang’, the quotation reads jagac ceti ‘the universe . . . and’.
+812\. TĀ 3/280cd-281ab (280) is quoted in MM p. 148. Instead of idaṁ ceti ‘(all) this , , . ang’, the quotation reads jagac ceti ‘the universe . . . and’.
 
 813\. After quoting this verse in the Mahārthamañjari (MM p. 148) Maheśvarānanda goes on to quote Abhinava’s Tantravaṭadhānikā as saying: yathādarśe ghaṭādīnār sthitir miśretarātmikā | madātmani tathāmīṣāṁ bhāvānām citrarūpinī || ‘Just the condition (of the reflections of) jars and the like within a mirror is a combination (of one with the other) and (also) otherwise (that is, every one single and independent of other), in the same way, the state of these phenomena (reflected) within me\* is wonderfully various.’ TVDh 2/3
 
@@ -259,7 +297,7 @@ In accord with what was said (before), namely, ‘everywhere here (in all these 
 
 815\. Above, 1/13 Icd (132ab).
 
-816\. Advaita Vedānta maintains that the universe is not a real creation. It is not produced from some second reality like the Prakrti of the Sārkhya or from an aggregate of causes. Rather, it is only apparently generated, due to the mistaken belief that it has an independent existence of its own, whereas, in actual fact, it is nothing but the Brahman. In this sense it is a product of ignorance. See following notes.
+816\. Advaita Vedānta maintains that the universe is not a real creation. It is not produced from some second reality like the Prakṛti of the Sāṁkhya or from an aggregate of causes. Rather, it is only apparently generated, due to the mistaken belief that it has an independent existence of its own, whereas, in actual fact, it is nothing but the Brahman. In this sense it is a product of ignorance. See following notes.
 
 
 *[p. 402]* ^pg418
@@ -276,13 +314,17 @@ the
 
 (intimate) association of creation (persistence and withdrawal)[^819] and of the reflective awareness of ‘T’ consciousness. He also indicates this in this way. Accordingly, he says: 
 
+### TĀ 3.281
+
 सृष्टेः स्थितेः संहतेश्च तदेतत्सूत्रणं कृतम् ॥ nature.[^820] ॥
 यत्र स्थितं यतश्चेति तदाह स्पन्दशासने ।
 
-srsteh sthiteh saṁhrteś ca tad etat sūtraṇnam krtam ॥ 281 ॥
+sṛsteḥ sthiteḥ saṁhṛteś ca tad etat sūtraṇnam kṛtam ॥ 281 ॥
 yatra sthitarn yataś ceti tadāha spandaśāsane | 
 
 That (reflective awareness thus) forges this link (which contains implicitly within itself and connects together) creation, persistence and withdrawal. As is said in the Spanda teachings: “that in which all this creation is established and from whence it arises . . .” (281cd-282ab) (281) 
+
+#### Viveka on 3.281
 
 That is not said just by us, but by our teachers also, and so he says ‘that in which’ etc. That is said there (in the Stanzas on Vibration): 
 
@@ -292,8 +334,8 @@ parts.[^818]
 
 [^817]: Śaiva nondualism maintains that the world is not an illusion born from ignorance. It exists just as it appears to do so, including illusory or mistaken perceptions. But that does not mean that it is a separate reality created by consciousness and then severed from it. Rather, it continues to rest at one with consciousness, like a reflection within a mirror; otherwise it could not exist.
 [^818]: This is the materialist view of the Vaiśeṣika. As Torella (2011: 68) explains: “The four elements \[earth, water, fire and air\] are constituted by atoms (paramanu: ‘extremely small’), which cannot be divided further and are capable of combining together in increasingly more numerous aggregates — bi-atomic (dvyanuka), tri-atomic (tryaṇuka) and so on, thus becoming accessible to perception as molecules etc.”
-[^819]: Read srstyāder for srstyādayo.
-[^820]: \[illegible\] \[illegible\] 1/2. See Dyczkowski 1992a: 78-80,147 and 186-190. Abhinava states here that the Spanda teachings operate on the level of Śāmbhavopāya, which is the insight grounded in pure nondiscursive consciousness (nirvikalpa) that all objectivity arises out of it, is sustained by it and returns to it. Jayaratha quotes this verse from the Srtanzas on Vibration to say that although consciousness manifests and is all things, this does not mean that it is obscured by them. Advaita Vedānta, on the contrary, maintains that the manifest universe does obscure the consciousness of the absolute Brahman, as does the illusory snake, the rope seen in the dark that is mistaken for a snake. The illusory snake covers over the real rope as long as the rope is not known to be the true nature of what appears to be a snake. Implicitly countering this way of understanding the nature of things, Abhinava quotes this verse as a conclusion to the following passage, which is thus effectively his commentary onit. ‘Now, how is it that everything is said to rest in this way in Śiva’s nature? In reply to this question, we have this to say. The existence or non-existence of things here (in this world) cannot be established in any other way except (by admitting) that they rest in consciousness. Those things that rest in consciousness are manifest, while their manifest state (prakāśamānatā) is one with consciousness, for consciousness is the light (of manifestation) itself. If one were to say that they are other than the Light (of consciousness) and (yet) manifest, it would amount to saying that (whatever manifests as, for example, the colour) blue, is separate from its essential nature (svarūpa) and yet (is still) blue. Thus, it necessarily follows that all these things (of the world) rest in consciousness in this way, and their properties \[illegible\] are none other than those of consciousness. Nor is it reasonable to maintain that consciousness is subject to duality. If (one were to affirm that) the duality of daily life (bhedavyavahāra), brought about by the relative distinction between things, were due to some other consciousness abiding within consciousness, whose sole nature is light, it would amount to saying that one part of it is unmanifest, and so devoid of consciousness. Again, if these, the objects of knowledge, at one with (consciousness), the essential nature (of all things), were capable of dividing themselves (off from one another), they would also divide consciousness by their own power. (Thus, as) they are incapable of assuming relative distinctions by themselves, the (perceived) distinction between them is brought about by the pure indeterminate awareness (sarhvedana) (which is consciousness). \[illegible\] 1, p. 4-5)
+[^819]: Read sṛstyāder for sṛstyādayo.
+[^820]: \[illegible\] \[illegible\] 1/2. See Dyczkowski 1992a: 78-80,147 and 186-190. Abhinava states here that the Spanda teachings operate on the level of Śāmbhavopāya, which is the insight grounded in pure nondiscursive consciousness (nirvikalpa) that all objectivity arises out of it, is sustained by it and returns to it. Jayaratha quotes this verse from the Sṛtanzas on Vibration to say that although consciousness manifests and is all things, this does not mean that it is obscured by them. Advaita Vedānta, on the contrary, maintains that the manifest universe does obscure the consciousness of the absolute Brahman, as does the illusory snake, the rope seen in the dark that is mistaken for a snake. The illusory snake covers over the real rope as long as the rope is not known to be the true nature of what appears to be a snake. Implicitly countering this way of understanding the nature of things, Abhinava quotes this verse as a conclusion to the following passage, which is thus effectively his commentary onit. ‘Now, how is it that everything is said to rest in this way in Śiva’s nature? In reply to this question, we have this to say. The existence or non-existence of things here (in this world) cannot be established in any other way except (by admitting) that they rest in consciousness. Those things that rest in consciousness are manifest, while their manifest state (prakāśamānatā) is one with consciousness, for consciousness is the light (of manifestation) itself. If one were to say that they are other than the Light (of consciousness) and (yet) manifest, it would amount to saying that (whatever manifests as, for example, the colour) blue, is separate from its essential nature (svarūpa) and yet (is still) blue. Thus, it necessarily follows that all these things (of the world) rest in consciousness in this way, and their properties \[illegible\] are none other than those of consciousness. Nor is it reasonable to maintain that consciousness is subject to duality. If (one were to affirm that) the duality of daily life (bhedavyavahāra), brought about by the relative distinction between things, were due to some other consciousness abiding within consciousness, whose sole nature is light, it would amount to saying that one part of it is unmanifest, and so devoid of consciousness. Again, if these, the objects of knowledge, at one with (consciousness), the essential nature (of all things), were capable of dividing themselves (off from one another), they would also divide consciousness by their own power. (Thus, as) they are incapable of assuming relative distinctions by themselves, the (perceived) distinction between them is brought about by the pure indeterminate awareness (saṁvedana) (which is consciousness). \[illegible\] 1, p. 4-5)
 
 *[p. 403]* ^pg419
 
@@ -301,11 +343,13 @@ parts.[^818]
 
 Surely (one may ask,) how can one say that (cognitive) consciousness (samvit) is the agent of creation etc.? One should say that it has a different characterizing feature, as some Vedāntins (brahmavādin) (say who declare that) ‘that experience (of the Absolute) (anubhāti) is unborn, immeasurable (ameya), endless, and its form is the bliss of the Self’. (Thus, in accord with) this (teaching), should not the unique (asādhāraṇa) nature of that (absolute consciousness) be said to be (transcendental and inactive), as established by those (Vedāntins who maintain this) other view? With this doubt in mind, he says: 
 
+### TĀ 3.282
+
 एतावतैव होश्वर्य संविदः ख्यापितं परम् । २८२ ॥
 विशवात्मकत्वं चेत्यन्यल्लक्षणं किं नु कथ्यताम् ।
 
-etāvataiva hy \[illegible\] sarhvidah \[illegible\] param ॥ 282 I|
-viŝvātmakatvaṁ cety anyallakṣaṇaṁ kin nu kathyatām | 
+etāvataiva hy \[illegible\] saṁvidaḥ \[illegible\] param ॥ 282 I|
+viśvātmakatvaṁ cety anyallakṣaṇaṁ kin nu kathyatām | 
 
 *[p. 404]* ^pg420
 
@@ -317,9 +361,13 @@ lordship of
 
 consciousness, and is its cosmic nature. Pray tell what else could be its characterising feature? (282cd-283ab) (282) 
 
+#### Viveka on 3.282
+
 ‘This (creativity)’, that is, (the capacity) consciousness possesses to bring about (kāritva) creation etc., is its ‘lordship’ and ‘cosmic nature’. And it ‘declares’ and expresses its ‘supreme’, most excellent (nature) as different in character from (the absolute of) those who maintain other views. This is the meaning. This is indeed the primary and unique characteristic of that (consciousness), namely, that by its (own innate) freedom it shines radiantly as the nature of all things. Thus, ‘pray tell what else could be its characterising feature?’ The point is that by saying that, nothing is said. If that were so, (and someone were to say that) on the contrary (that is not so,) he could not prove that the cause of the wonderful diversity of all things is (something else apart from the Lord’s freedom), such as ignorance or the like, because (all other views) suffer from (the defective) notion (vikalpa) that (the world) is either separate or not (from that supposed cause). Therefore, the primary characteristic of that (consciousness) is that it brings about (kāritva) creation etc. So what has been said is reasonable. 
 
-Thus he says that, reflecting in this way on (the capacity to) bring about creation etc. within his own Self, (the Yogi) attains oneness with supreme consciousness (sarhvid). 
+Thus he says that, reflecting in this way on (the capacity to) bring about creation etc. within his own Self, (the Yogi) attains oneness with supreme consciousness (saṁvid). 
+
+### TĀ 3.283–285
 
 स्वात्मन्येव चिदाकाशे विश्वमस्म्यवभासयन् || lordship[^821] ॥
 सरष्टा विश्वात्मक इति प्रथया भैरवात्मता ।
@@ -329,7 +377,7 @@ Thus he says that, reflecting in this way on (the capacity to) bring about creat
 विश्वं द्रवति मय्येतदिति पश्यन्प्रशाम्यति ।
 
 svātmany eva cidākāśe viívam asmy avabhāsayan ॥ 283 ॥
-sraṣṭă viśvātmaka iti prathayā bhairavātmatā |
+sraṣṭā viśvātmaka iti prathayā bhairavātmatā |
 ṣadadhvajātari nikhilarn mayy eva pratibimbitam ॥ 284 ॥
 sthitikartāham asmīti sphuṭeyaṁ viśvarūpatā |
 sadoditamahābodhajvālājaṭilatātmani || 285 ॥
@@ -343,22 +391,28 @@ vivar dravati mayy etad iti paśyan praśāmyati |
 
 me, whose nature is the scorching fire of the great, perpetually active (satatodita) consciousness” — seeing thus, one becomes peaceful. (283cd- 286ab) (283-285) 
 
+#### Viveka on 3.283–285
+
 Surely (one may ask,) in this way also, the universe persists as a latent trace in the form of that which is to be emitted etc., and so how can its perfectly tranquil condition arise? With this doubt in mind, he says: 
+
+### TĀ 3.286
 
 अनन्तचित्रसद्र्भसंसारस्वप्नसद्यनः || Self[^823] ॥।
 प्ठोषकः शिव एवाहमित्युल्लासी हताशनः ।
 
-anantacitrasadgarbhasaṁsārasvapnasadmanah ॥ 286 ॥
-ploṣakah śiva evāham ity ullāsī hutāśanah | 
+anantacitrasadgarbhasaṁsārasvapnasadmanaḥ ॥ 286 ॥
+ploṣakaḥ śiva evāham ity ullāsī hutāśanaḥ | 
 
 The Fire (of consciousness) that pours forth (enflamed with the awareness that): “I am indeed Śiva, who burns the mansion of the dreams of transmigratory existence with its endless and wonderfully diverse (worlds, which are its) wombs of existence.” (286cd-287ab) (286) 
+
+#### Viveka on 3.286
 
 ‘Transmigratory existence’, consisting of each of the metaphysical principles, is the unfolding (manifestation) of all things (viśvasphara), which (is transitory, and so) because it is without essence, is a ‘mansion of dreams’. (If it were) a mansion of waking experiences, when it is burnt away there would be the possibility that something remains. It has ‘wombs’, which are thè worlds. They are beautiful because (they are ‘countless and wonderfully diverse’). They are ‘endless’, because, in the manner that will be explained (in Chapter Eight), the Path of Space (consists of) innumerable (worlds), and ‘wonderfully diverse’, because they consist of many configurations. (The Fire that) ‘burns’ it draws its strength from the reflective awareness, “I am the creator” etc. Thus, by practicing constantly, the ‘Fire’ that pours forth is the reflective awareness that “I am indeed Śiva[^822] who is unbroken (unconditioned) consciousness, and it makes even the latent traces of all things one with one’s own consciousness. This is the meaning. Just as nothing remains in a house when a fire arises within it, even if it is furnished with many protecting enclosures (anekāvarakaprāya), similarly, (nothing remains) of the universe when Śiva’s nature has poured forth (and become manifest). 
 
 Surely (one may ask,) as (consciousness) brings about creation etc., the direct experience of consciousness within one’s own Self is conditioned (avacchinna) by creation etc., then how could oneness with unconditioned consciousness be possible in that way? With this doubt in mind, he says: 
 
-[^822]: reads: aseṣacitracidgarbha- instead of anantacitrasadgarbha-. The verse there means: ‘The Fire (of consciousness) that pours forth (enflamed with the awareness that): “I am indeed iva, who burns the mansion of the dreams of transmigratory existence with all the wonderfully diverse wombs of consciousness.”
-[^823]: Read with Ch and Jh: saṁvitsāksãtkārah for sarvitsātkārah.
+[^822]: reads: aseṣacitracidgarbha- instead of anantacitrasadgarbha-. The verse there means: ‘The Fire (of consciousness) that pours forth (enflamed with the awareness that): “I am indeed Śiva, who burns the mansion of the dreams of transmigratory existence with all the wonderfully diverse wombs of consciousness.”
+[^823]: Read with Ch and Jh: saṁvitsāksātkāraḥ for sarvitsātkāraḥ.
 
 *[p. 406]* ^pg422
 
@@ -373,22 +427,22 @@ Surely (one may ask,) as (consciousness) brings about creation etc., the direct 
 
 स्फुरति हि तुरीयं पदभितः ।
 
-jagat sarvan mattah 
+jagat sarvan mattaḥ 
 
 prabhavati vibhedena bahudhā tathāpy etad rūdhami 
 
-mayi vigalite tv atra na parah || 287 ॥
-tad ittharn yah srsti- 
+mayi vigalite tv atra na paraḥ || 287 ॥
+tad ittharn yah sṛsti- 
 
-sthitivilayam ekīkrtivaśād 
+sthitivilayam ekīkṛtivaśād 
 
 anarsa paśyet sa 
 
-sphurati hi turīyaṁ padabhitah | 
+sphurati hi turīyaṁ padabhitaḥ | 
 
 \#M“The entire universe with (all its) diverse (aspects) emerges out of me (in many ways, and is also established here in the same way within me (in my pure consciousness), from which (all duality) has fallen away and nothing else (remains).” He who sees (the cycle of creation and destruction) in this way without parts because creation, persistence and withdrawal has been unified (and so) has penetrated the Fourth state (of pure, divine consciousness), shines radiantly (as supreme consciousness). (287cd-288ab) 287) 
 
-All this ‘universe’ of many kinds arises out of supreme (awakened) consciousness as separate (from it) (vicchinnatayā).\*TM\* Although it has arisen in this way, it rests there within consciousness. Also, in the same way, when the universe has been withdrawn back into it, ‘nothing else’ at all remains, just (awakened) consciousness itself. ‘He who sees’ creation and the rest, experiencing (them) directly as the one undivided consciousness by the falling away of the division (of the cycle) of creation and the rest as ‘without parts’, because ‘in this way’, that is, in the manner explained, consciousness threads 
+All this ‘universe’ of many kinds arises out of supreme (awakened) consciousness as separate (from it) (vicchinnatayā).\*\* Although it has arisen in this way, it rests there within consciousness. Also, in the same way, when the universe has been withdrawn back into it, ‘nothing else’ at all remains, just (awakened) consciousness itself. ‘He who sees’ creation and the rest, experiencing (them) directly as the one undivided consciousness by the falling away of the division (of the cycle) of creation and the rest as ‘without parts’, because ‘in this way’, that is, in the manner explained, consciousness threads 
 
 824?\. This passage continues to 3/293cd-294ab (293).
 
@@ -401,15 +455,19 @@ through all the stages (of the cycle of creation and destruction), and because i
 
 Thus, he says: 
 
+### TĀ 3.288
+
 The Supreme Means is Beyond Ritual 
 
 तदस्मिन्परमोपाये शाम्भवाद्रैतशालिनि ।। २८८ ॥
 केऽप्येव यान्ति विश्वासं परमेशेन भाविताः ।
 
 tad asmin paramopāye śāmbhavādvaitaśālini ॥ 288 ॥
-ke ‘py eva yānti viśvāsaṁ parameśena bhāvitāh | 
+ke ‘py eva yānti viśvāsaṁ parameśena bhāvitāḥ | 
 
 Indeed, only a few, sanctified (bhāvita) by the (most intense grace of the) Supreme Lord, attain faith (and perfect satisfaction) in this, the supreme means, which is the repository of Śiva’s oneness. (288cd-289ab) (288) 
+
+#### Viveka on 3.288
 
 ‘Sanctified’ means purified (adhivāsita) by the most intense descent of the power (of grace) by the Lord (on those whom he) has made fit here (in the practice of the supreme means to receive it). Thus, it is said that (they are) ‘only a few’. Not everybody is a fit recipient of this kind of grace (saktipāta). This is the point. As they say: 
 
@@ -417,12 +475,14 @@ Indeed, only a few, sanctified (bhāvita) by the (most intense grace of the) Sup
 
 The reason why this (means) is supreme is that it is ‘the repository of Śiva’s oneness’, (whereas) the other (means) Individual (āṇava) and the rest are dualistic (bhedarūpa), and so are not supreme. This is the sense. Thus, here the diverse means (to spiritual development), such as (ritual) ablution, are not applicable here (in the domain of the Supreme Means) at all. He says that: 
 
+### TĀ 3.289–290
+
 स्नानं व्रतं देहशुद्धि्धीरणा मन्रयोजना ॥ २८९ ॥
 अध्वक्लृप्ियीगविधिरमजप्यसमाधय ; ।
 इत्यादिकल्पना कापि नात्र भेदेन युज्यते ॥ २९० ॥
 
 snānati vratarn dehaśuddhir dhāranā mantrayojanā || 289 ॥
-adhvaklrptir yãgavidhir homajapyasamādhayah | 
+adhvaklṛptir yāgavidhir homajapyasamādhayaḥ | 
 
 [^826]: Concerning the Inexplicable (anākhya), see above, note 2,75; 3,160, 3,797 and below 4,406. Here it is identified with the Fourth state of realised consciousness, concerning which see below, 10/227cd ff.
 
@@ -432,17 +492,23 @@ ityādikalpanā kāpi nātra bhedena yujyate ॥ 290 ॥
 
 Ritual ablution, (the observance of a) vow, the purification of the body, concentration \[illegible\] the application of Mantras, the formation of the cosmic order (adhvakipti) (by intense meditation), sacrificial rites, oblation, repetition of Mantras and contemplative trance (samādhi), (all these, or any other means) one could conceive based on duality (bheda), are not applicable here (at all).[^827] (289cd-290) (289-290ab) 
 
+#### Viveka on 3.289–290
+
 Surely (one may ask,) if the diverse means (to spiritual development) are not applicable here, then how can a teacher (ācārya) who has penetrated this (Supreme Means) grace someone else (who has not)? With this doubt in mind, he says: 
 
-The Śāãmbhava Master 
+### TĀ 3.290–291
+
+The Śāmbhava Master 
 
 परानुग्रहकारित्वमव्रस्थस्य स्फुटं स्थितम् ।
 यदि तादृगनुग्राह्मो दैशिकस्योपसर्पति ॥ herein[^828] ॥
 
-parānugrahakāritvam atrasthasya sphuṭari sthitam |
-yadi tādrganugrāhyo daiśikasyopasarpati \\\\ 291 ॥ 
+parānugrahakāritvam atrasthasya sphuṭaṁ sthitam |
+yadi tādṛganugrāhyo daiśikasyopasarpati \\\\ 291 ॥ 
 
 The teacher who is established \[illegible\] evidently graces anyone who approaches him, if he is fit to be graced in this way. (291) (290cd-291ab) 
+
+#### Viveka on 3.290–291
 
 (One who is fit to be graced) ʻin this way’ possesses (the capacity to practice) the Supreme Means. (All the teacher needs to do) is just look at him or talk with him and he thereby achieves the goal within himself.[^829] (As is said) in this respect, \^. . . (he is illumined) like the flame (of a lamp) that has arisen from (another) flame.[^830] 
 
@@ -451,22 +517,26 @@ So what is the use of the diverse means (to spiritual development in that case)?
 Surely (one may ask,) if (a disciple) who is not like this is engaged in worshipping that (teacher who is such), then what can he attain there (in that case) by it? With doubt in mind, he says: 
 
 [^827]: At this point the transition is made from the Śāmbhava Means to No Means (anupāya). Cf. below, 2/35cd-37ab (36-37). These lines are quoted above ad 3/268cd-271ab (268- 270).
-[^828]: One who is established ‘herein’, i.e. in No Means, the culmination of the Śāmbhava Means, becomes not just one who is himself liberated, he is also a teacher who can liberate others if, by \$iva's grace, they are capable of practicing the Supreme, i.e. Śāmbhava Means. Cf. above 2/33ab (2/33cd) ff.
+[^828]: One who is established ‘herein’, i.e. in No Means, the culmination of the Śāmbhava Means, becomes not just one who is himself liberated, he is also a teacher who can liberate others if, by Śiva's grace, they are capable of practicing the Supreme, i.e. Śāmbhava Means. Cf. above 2/33ab (2/33cd) ff.
 [^829]: Cf, above note to 2/2.
-[^830]: \[illegible\] Clearly Jayaratha understands that here Abhinava is talking about the highest level of the Divine Means (śāãmbhavopāya), which is No Means. Cf. above TĀv ad 2/40, where this phrase is quoted, as it is below ad 4/203.
+[^830]: \[illegible\] Clearly Jayaratha understands that here Abhinava is talking about the highest level of the Divine Means (śāmbhavopāya), which is No Means. Cf. above TĀv ad 2/40, where this phrase is quoted, as it is below ad 4/203.
 
 *[p. 409]* ^pg425
+
+### TĀ 3.291–292
 
 अथासौ तादृशो न स्याद्धवभक्त्या च भावितः ।
 तं चाराधयते भावितादृशानुग्रहरितः ॥ २९२ ॥
 तदा विचित्रं दीक्षादिविधिं शिक्षेत कोविदः ।
-athāsau tādrśo na syād bhavabhaktyā ca bhāvitah |
-tarn cārādhayate bhāvitādrśānugraheritah ॥ 292 ॥
-tadā vicitra dīkṣādividhiṁ śikṣeta kovidah | 
+athāsau tādṛśo na syād bhavabhaktyā ca bhāvitaḥ |
+tarn cārādhayate bhāvitādṛśānugraheritaḥ ॥ 292 ॥
+tadā vicitra dīkṣādividhiṁ śikṣeta kovidaḥ | 
 
 Now if (the disciple) is not such, (but even then,) purified by devotion to Rudra (Bhava) and impelled by (the thought that) there will be such grace in the future, worships that (teacher), then the skilful (learned teacher) should impart initiation and (whatever other) wonderfully diverse (practice the disciple is fit to receive). (292-293ab) (291cd-292) 
 
-(If (the disciple)) ‘is not such’, that is, does not possess (the capacity to practice) the Supreme Means, because the most intense descent of the power (of grace) has not taken place. Now, in accord with the teaching (of the MālinīVijaya, which declares that) ‘there, that is the first sign, namely, sound unwavering devotion to Rudra," (the disciple) is governed (and sustained) by the first sign, namely devotion to Rudra, which indicates a descent of the power (of grace). The reference to (one form of the) descent of the power (of grace), (here) called devotion to Rudra, and the absence of reference to the other signs suggests (those of the other forms of grace), beginning with the weakest (mandamanda).®? 
+#### Viveka on 3.291–292
+
+(If (the disciple)) ‘is not such’, that is, does not possess (the capacity to practice) the Supreme Means, because the most intense descent of the power (of grace) has not taken place. Now, in accord with the teaching (of the MālinīVijaya, which declares that) ‘there, that is the first sign, namely, sound unwavering devotion to Rudra," (the disciple) is governed (and sustained) by the first sign, namely devotion to Rudra, which indicates a descent of the power (of grace). The reference to (one form of the) descent of the power (of grace), (here) called devotion to Rudra, and the absence of reference to the other signs suggests (those of the other forms of grace), beginning with the weakest (mandamanda).? 
 
 In this way, even if (the disciple) possesses only the weakest and other (lower forms of) grace, and is not engaged in worshipping a proper teacher who knows only the Individual and other (lower means) pertinent (to those lower levels of grace), but rather ‘worships that’ (teacher) who is said to be absorbed (in the practice of) the Divine Means, (reaches the goal). This is because (a disciple) who is ‘impelled by (the thought that) there will be such grace in the future’ does not even obtain (that possible) future grace which pertains to the Supreme Means from a teacher who knows only the Individual Means. This is the point. Thus if, for the aforementioned reason, there is no other way for the disciple, (the teacher,) desiring to elevate (him), the diverse means are certainly useful, in accord with the saying that: 
 
@@ -474,20 +544,20 @@ In this way, even if (the disciple) possesses only the weakest and other (lower 
 
 (through which the disciple is initiated). 
 
-”®® 
+” 
 
 831?\. MV 2/14ab. Also quoted in TĀv ad 13/73, 13/117cd-119ab. The full passage (i.e. MV 2/13-16) is paraphrased and explained in TĀ 13/214-216, where the other four signs of the penetration of Rudra’s power (rudraśakti) are described.
 
 832?\. Abhinava discusses the types of grace (Saktipāta) and their characteristic features at length below in Chapter Thirteen (see 13/129 (129cd-130ab) ff.).
 
-833?\. The full verse is quoted ad 15/35cd-36ab. It reads: na cãāvajñā kriyākāle sahsāroddharaṇnam prati | mantradīkṣãvratădeśe śiṣyadhruṁ nārakī bhavet || ‘(The teacher should) not disregard (his duty) to rescue (his disciple) from the world of transmigratory existence when the time comes (to perform) the rite (through which the disciple is initiated). (The teacher) who harms (his) disciple (by doing otherwise) when (Siva has given) the order (ādeśa) (that he may observe) a (sacred) vow and (be given) Mantra initiation, goes to hell.” Abhinava quotes the first line literally as TĀ 23/29cd. He paraphrases the second line in 23/30 and tells us that he is referring to the Siddhātantra, 1.6. the Siddhayogeśvarīmata, which we can thus safely assume is its source. The expression ‘saṁsāroddharaṇa’ "10 rescue (his disciple) from the world of transmigratory existence’ refers specifically to the initiation imparted to a dying or recently dead disciple to liberate him from future rebirth.
+833?\. The full verse is quoted ad 15/35cd-36ab. It reads: na cāvajñā kriyākāle sahsāroddharaṇnam prati | mantradīkṣāvratādeśe śiṣyadhruṁ nārakī bhavet || ‘(The teacher should) not disregard (his duty) to rescue (his disciple) from the world of transmigratory existence when the time comes (to perform) the rite (through which the disciple is initiated). (The teacher) who harms (his) disciple (by doing otherwise) when (Siva has given) the order (ādeśa) (that he may observe) a (sacred) vow and (be given) Mantra initiation, goes to hell.” Abhinava quotes the first line literally as TĀ 23/29cd. He paraphrases the second line in 23/30 and tells us that he is referring to the Siddhātantra, 1.6. the Siddhayogeśvarīmata, which we can thus safely assume is its source. The expression ‘saṁsāroddharaṇa’ "10 rescue (his disciple) from the world of transmigratory existence’ refers specifically to the initiation imparted to a dying or recently dead disciple to liberate him from future rebirth.
 
 
 *[p. 410]* ^pg426
 
 Thus, he says: ‘then (the skilful (teacher), should impart initiation and (whatever other)) wonderfully diverse (practice the disciple is fit to receive))’. Thus it was said previously: 
 
-‘However, if by the power of his freedom he wishes to grace those whose consciousness is not pure also, even he should take recourse to the procedure we \*®\* 
+‘However, if by the power of his freedom he wishes to grace those whose consciousness is not pure also, even he should take recourse to the procedure we \*\* 
 
 are about to explain.” 
 
@@ -497,17 +567,19 @@ are about to explain.”
 
 it) (anugrāhya). 
 
-®\* 
+\* 
 
 Surely (one may ask,) the relationship between cause and effect is fixed in accord with the dictum that ‘repeatedly weaving threads of hemp, one obtains the wonderful variety (of cloth produced by) the weaving shuttle and thread’. Thus, if the grace (a disciple) who is this kind of recipient of grace (receives) directly from a teacher who is endowed with the penetration of the Divine Means has occurred by (the practice of) the procedure (prakriyā) pertaining to the Individual Means, then how could he possess the grace which pertains to (practice of) the Divine Means, even if it is (to take place) in the future? With this doubt in mind, he says: 
 
-The Supreme Goal is iva 
+### TĀ 3.293
+
+The Supreme Goal is Śiva 
 
 भाविन्योऽपि ह्युपासास्ता अत्रैवायान्ति निष्ठितिम् ॥ २९३ ॥
 एतन्मयत्वं परमं प्राप्यं निर्व्ण्यते शिवम् ।
 
 bhāvinyo ‘pi hy upāsās tā atraivāyānti 71510771 ॥ 293 ॥
-etanmayatvari parama prāpyari nirvarnyate Sivam | 
+etanmayatvari parama prāpyari nirvaṁyate Sivam | 
 
 834?\. Above, 2/44. Also quoted below TĀv ad 4/47cd-48. 2/44d quoted in TĀv ad 2/47.
 
@@ -518,6 +590,8 @@ etanmayatvari parama prāpyari nirvarnyate Sivam |
 
 (AIl forms of) worship, even those in the future, (ultimately develop and) become well established (and fulfilled) (ziṣthitata) here (in the profound) realization that: “the supreme goal, which is such, is Śiva.[^836] (293cd-294ab) (293) 
 
+#### Viveka on 3.293
+
 ‘The future’ (forms of worship) are those of the Individual and other Means, which will be explained (further ahead). They give access to one another, and so as there is nothing apart from that to search for, (the transition from lower to higher means is essentially) the development within the Divine Means itself. He says this (by declaring that all forms of worship) ‘become well established (and fulfilled) (niṣṭhitata) here’. Thus it is proclaimed everywhere that their ‘supreme goal’, which is the most excellent (goal of life) (śreyas), is ‘of this nature’. Nothing is possible without that state of rest. This is the point. Thus, even though there are many means, the goals are not many. It is with this intention that he said previously: 
 
 ‘Both these two penetrations (Individual and Empowered) are directed towards the ocean of (consciousness) free of thought constructs. Indeed, nothing could exist that is not established in it. This is why (the Lord) has said that “one should not imagine that there is (any) difference here in the fruit which is consciousness 
@@ -526,12 +600,16 @@ etanmayatvari parama prāpyari nirvarnyate Sivam |
 
 He concludes with the first half of a verse: 
 
+### Dyczkowski's verse 294
+
 इति कथितमिदं सुविस्तरं परमं शाम्भवमात्मवेदनम् ।। २९४ ॥
 iti kathitam \[illegible\] suvistaran \[illegible\] śāmbhavam ātmavedanam || 294 ॥ 
 
-So, we have explained at length this, the supreme insight into one’s own nature pertaining to the Divine (śãmbhava) Means. (294) 
+So, we have explained at length this, the supreme insight into one’s own nature pertaining to the Divine (śāmbhava) Means. (294) 
 
-A certain Jayaratha who, pouring out (with the enthusiasm of) the penetration of Śiva (consciousness), is (the veritable) oneness (sãmarasya) of the savour of the unique juice (rasa) (of aesthetic rapture), has explained this, the third chapter (of the Tantrāloka). 
+#### Viveka on Dyczkowski's verse 294
+
+A certain Jayaratha who, pouring out (with the enthusiasm of) the penetration of Śiva (consciousness), is (the veritable) oneness (sāmarasya) of the savour of the unique juice (rasa) (of aesthetic rapture), has explained this, the third chapter (of the Tantrāloka). 
 
 The third chapter called ‘the Revelation of the Divine Means’ is complete. (lt is part of) this, the Tantrāloka, composed by the great Śaiva Master, the most excellent and venerable Abhinavagupta, along with the commentary called ‘Viveka’ (Discernment), composed by the venerable Jayaratha. 
 
@@ -544,7 +622,7 @@ Appendix A to Chapter Three
 
 The Moon and the Play of Emission 
 
-According to common Indian belief, the moon is the visible form of the divine source of life-giving nectar (soma, amrta) which, as it gradually wanes, empties out to outwardly feed the universe and, internally, the breath, body, senses and mind. During the bright fortnight, as the moon waxes, it gradually reabsorbs into itself from its hidden source what it had lost in the dark fortnight. In this way, the moon increases and decreases. This cyclic process of nourishment and self-regeneration is believed to be grounded in an unchanging, underlying reality that persists as the permanent element that guarantees the continuity and regularity of this process. The Kubjikā Tantras conceive the permanent underlying element to be the Energy of the New Moon (amākalā). This is the seventeenth energy of the Moon. The sixteenth is the energy of the Full Moon. This conception, and the complex, intimate interaction between these two energies which we will now examine, is derived from an ancient model. It is a natural model derived from the common observation that the moon waxes and wanes during a period of approximately thirty days. 
+According to common Indian belief, the moon is the visible form of the divine source of life-giving nectar (soma, amṛta) which, as it gradually wanes, empties out to outwardly feed the universe and, internally, the breath, body, senses and mind. During the bright fortnight, as the moon waxes, it gradually reabsorbs into itself from its hidden source what it had lost in the dark fortnight. In this way, the moon increases and decreases. This cyclic process of nourishment and self-regeneration is believed to be grounded in an unchanging, underlying reality that persists as the permanent element that guarantees the continuity and regularity of this process. The Kubjikā Tantras conceive the permanent underlying element to be the Energy of the New Moon (amākalā). This is the seventeenth energy of the Moon. The sixteenth is the energy of the Full Moon. This conception, and the complex, intimate interaction between these two energies which we will now examine, is derived from an ancient model. It is a natural model derived from the common observation that the moon waxes and wanes during a period of approximately thirty days. 
 
 The Moon is not only the natural symbol of the cycle of time; it is also the sacred vessel of the nectar of immortality. The association of the Moon with nourishing nectar that falls from heaven is a very ancient one. In Vedic times, it was associated with the Soma, which became in later times one of the names of the moon. Soma was offered to the gods as the supreme spiritual drink, drunk by both the gods and those who worshipped them for nourishment, both physical and spiritual. Talking about early Vedic religion, Hillebrandt points out that: “The moon is a drop of the golden Soma in heaven, or a bowl containing the drink of the gods. This concept is original to this name Soma, while several other forms of manifestation and activity of the moon inspired the imagination in other directions and created new personifications.”' He also notes that: ‘Indian ritual has preserved an ancient tradition; the rare phenomenon that a concept of the early Aryan period continues almost without change up to the classical writings of India can be observed here; the only difference is that in the Vedic period one believed that one drank ‘the nectar of the moon’ itself when one had pressed Soma.’? 
 
@@ -567,19 +645,19 @@ Verily, the person here who knows this is himself that Prajāpati with the sixte
 
 Although in what follows we shall concentrate on the lunar symbolism of the goddess, we should note that some sources, for example, the Kubjikā Tantras, do not forget the older, coexistent male counterpart. The following passage presents a form of Bhairava who governs the energies of the Moon, as did his Vedic predecessor, Prajāpati. In this case however, he is not alone. Seated in the ‘primordial mandala’, that is, within the Point (bindu) in the centre of the mandala, he is enveloped by the feminine Yoni. Just as the deity is male, so are the surrounding attendants, the Siddhas who embody his sixteen lunar aspects: 
 
-‘Asitāṁga, who is the Lord of Kula, abides in Bhairava’s power of bliss. He is in the primordial mandala, surrounded by the sixteen Siddhas. The maṇdala whose nature is the Skyfarer is (the Point) located in the abode of the primordial Yoni. One obtains the fruit of the accomplishment of the Command by worshipping it. This is the primordial (ādi) mandala, the most excellent of all. All the diverse mandalas originated here.’® 
+‘Asitāṁga, who is the Lord of Kula, abides in Bhairava’s power of bliss. He is in the primordial mandala, surrounded by the sixteen Siddhas. The maṇdala whose nature is the Skyfarer is (the Point) located in the abode of the primordial Yoni. One obtains the fruit of the accomplishment of the Command by worshipping it. This is the primordial (ādi) mandala, the most excellent of all. All the diverse mandalas originated here.’ 
 
 840?\. Vāj. Sam. 8,36.
 
 841?\. ŚBr 7/2/2/17.
 
-842?\. ŚBr 9/2/2/2 — ṣodaśakalāh prajāpatih.
+842?\. ŚBr 9/2/2/2 — ṣodaśakalāḥ prajāpatiḥ.
 
 843?\. \[illegible\] ŚBr 2/2/2/3.
 
 844?\. Bp Up 1/5/14-15 Hume’s translation.
 
-845?\. bhairavānandaśaktisthaṁ \[kh: -stha\] asitāṁgaṁ \[kh, g: asitāṁga\] kuleśvaram | ādimandalamadhyastham \[kh: -stha\] siddhaih ṣodaśabhir vrtam || ādiyonipurasthai tu mandala khecarātmakam | tasya pūjāvidhānena ājṁñāsiddhiphalaṁ labhet ॥ ādimandalakari hy etat pravara \[g: pravam\] uttamottamam | atrotpannāni sarvānṇi \[kh: -nī\] mandalāni \[kh: -ṇī\] anekadhā ॥ ŚM 19/278-281.
+845?\. bhairavānandaśaktisthaṁ \[kh: -stha\] asitāṁgaṁ \[kh, g: asitāṁga\] kuleśvaram | ādimandalamadhyastham \[kh: -stha\] siddhaiḥ ṣodaśabhir vṛtam || ādiyonipurasthai tu mandala khecarātmakam | tasya pūjāvidhānena ājṁñāsiddhiphalaṁ labhet ॥ ādimandalakari hy etat pravara \[g: pravam\] uttamottamam | atrotpannāni sarvānṇi \[kh: -nī\] mandalāni \[kh: -ṇī\] anekadhā ॥ ŚM 19/278-281.
 
 
 *[p. 414]* ^pg430
@@ -590,7 +668,7 @@ Out of the thirty lunar nights, three were considered in Vedic times, as they st
 
 ‘The name touches two concepts — (1) Darsa iṣti (sacrifice); and (2) Pūrṇamāsa iṣṭi. The first is to be performed to coincide with the New-moon day (amāvāsyā), while the other with the Full-moon day (paurnimā). The word darśa is generally taken to indicate the day on which the moon is ‘seen’ only by the sun; hence it is not seen at all by the creatures on the earth. This concept corresponds to the name amāvāsyā, which word indicates ‘stay’ (vāsa; hence, vāsyā is the day for such stay) and ‘near’ \[illegible\] the belief being that on this day the moon stays in close proximity with the sun. This concept is well explained by the ŚBr." It says that in the dark half of the month, the moon draws gradually near to the sun; and on this day of amāvāsyā she (he, here) is totally near the sun who swallows him and places him in himself. The next day, he is cast out by the sun, and seen as the first digit in the western sky. This is symbolic of temporary death and rebirth. Hence, for whomsoever one desires that he should be immortal (by renewal of birth), him should the other take in himself, and cast forth a fresh one.” '\* 
 
-Unknown as a deity in the Rgveda, an entire hymn is dedicated to the goddess Amāvāsyā, the New Moon, in the Atharvaveda.TM There she declares that the people of good deeds like Indra dwell in her. Among them are mentioned, perhaps for the first time, the Siddhas, the mythical precursors of Tantric adepts. She has generated the universe and gives men nourishing food (puṣṭa) and wealth (vasu). The ŚB supplies a fanciful etymology of the name. On one occasion, Indra hurled his thunderbolt at the demon \[illegible\] but fearing that he had not killed him, fled in fear. Agni, who dwelt ~ vas — together — amā ~ with him on that, the darkest of nights, found him.” On the night of Amāvāsyā, the moon, which is 
+Unknown as a deity in the Rgveda, an entire hymn is dedicated to the goddess Amāvāsyā, the New Moon, in the Atharvaveda. There she declares that the people of good deeds like Indra dwell in her. Among them are mentioned, perhaps for the first time, the Siddhas, the mythical precursors of Tantric adepts. She has generated the universe and gives men nourishing food (puṣṭa) and wealth (vasu). The ŚB supplies a fanciful etymology of the name. On one occasion, Indra hurled his thunderbolt at the demon \[illegible\] but fearing that he had not killed him, fled in fear. Agni, who dwelt ~ vas — together — amā ~ with him on that, the darkest of nights, found him.” On the night of Amāvāsyā, the moon, which is 
 
 846?\. ŚBr 11/1/7/4.
 
@@ -615,9 +693,9 @@ Unknown as a deity in the Rgveda, an entire hymn is dedicated to the goddess Am�
 
 identified with Soma, the food of the celestial gods,’\* comes down to this world and enters the waters and plants. Thus, in this sense also, she ‘lives together’ — in this case not with the gods, but with men. The cows that eat and drink on this day produce milk imbued with wonderful, nourishing and curative lunar energy. In this way the performer of the sacrifice reproduces the moon that becomes visible in the western sky,” the quarter later associated with the goddess Kubjikā. The Full Moon, also not mentioned in the Rgveda as a deity, is praised in the hymn following the one to the New Moon in the AV.” There she is praised as the foremost amongst those who are to be worshipped (prathamā yajñīyā), and makes heaven accessible to those who do so and bestows inexhaustible wealth.” We may note finally that Amāvāsyā was already considered in the AV, as it is in the later literature, including the Tantras, to be the night in which devouring demons are abroad. It is a night especially well-suited for black magical rites.” This is because Amāvāsyā can fulfil all desires,” including those that are ‘black’ like her. 
 
-This lunar symbolism provides the images that represent both the abstract metaphysical and soteriology doctrines of the Kubjikā Tantras and play an important role in other Tantric (especially) Kaula traditions, as they do in the Trika, to which we now turn. In these Tantras, the sixteenth part (kalā) of Prajāpati is now the sixteenth energy (kalāã) or digit (kalā) of the Moon, called Amā (derived from the word amāvāsyā). As if hidden in a dark cave, it is never visible. Secretly it feeds the waxing moon in the bright lunar fortnight, feeding it with the nectar that it releases at it wanes in the dark fortnight. This nectar, Abhinava tells us, is ‘drunk by all the gods’, the celestial ‘shining ones’. One is reminded of the old Siberian shamanic belief that, as the moon decreases, the stars that progressively become more visible are born from fragments of the moon’s celestial light. Inwardly, the gods are the energies of the senses and mind.” 
+This lunar symbolism provides the images that represent both the abstract metaphysical and soteriology doctrines of the Kubjikā Tantras and play an important role in other Tantric (especially) Kaula traditions, as they do in the Trika, to which we now turn. In these Tantras, the sixteenth part (kalā) of Prajāpati is now the sixteenth energy (kalā) or digit (kalā) of the Moon, called Amā (derived from the word amāvāsyā). As if hidden in a dark cave, it is never visible. Secretly it feeds the waxing moon in the bright lunar fortnight, feeding it with the nectar that it releases at it wanes in the dark fortnight. This nectar, Abhinava tells us, is ‘drunk by all the gods’, the celestial ‘shining ones’. One is reminded of the old Siberian shamanic belief that, as the moon decreases, the stars that progressively become more visible are born from fragments of the moon’s celestial light. Inwardly, the gods are the energies of the senses and mind.” 
 
-‘Nectar (amrta) in the form of the moon is divided into sixteen, then again into two. All the gods drink the other fifteen digits. The energy of the New Moon (amā) hidden in the cave (of the Heart” in the End of the Twelve) is the remnant 
+‘Nectar (amṛta) in the form of the moon is divided into sixteen, then again into two. All the gods drink the other fifteen digits. The energy of the New Moon (amā) hidden in the cave (of the Heart” in the End of the Twelve) is the remnant 
 
 855?\. ŚB 11/2/5/3.
 
@@ -633,7 +711,7 @@ This lunar symbolism provides the images that represent both the abstract metaph
 
 861?\. See below 6/95cd-97 and commentary.
 
-862?\. The Heart in this case is not the centre in the chest. It is the Supreme Principle which is the ultimate source and end of all the others. Acċording to Abhinava, this is the Goddess. Transcendental Śiva is the thirty-sixth principle. Immanent Bhairava is the thirty-seventh. He is the ‘supreme’, beyond which is the Goddess who, totally free of all objectivity, is the Inexplicable ~ Anākhyā. She is the Heart of consciousness whose pulsation generates the waxing and waning of the breath in consonance with the unfolding and withdrawal of aspects of her nectarine energy. As Abhinava says: ‘Creation and absorption rest in this way together in the vital breath (prāṇa). This (rests) in cognitive consciousness (sarhvid) and that in pure consciousness (cinmātra) free of objectivity. And pure consciousness is the goddess who is Parā and the Supreme Goddess (Parameśvarī). She is the thirty-eighth principle, the Heart that is beyond the supreme. Therefore, the essence of cognitive consciousness is, by its very nature, this (perpetual) pulsation (spandamāna).” TA 6/179cd-182ab.
+862?\. The Heart in this case is not the centre in the chest. It is the Supreme Principle which is the ultimate source and end of all the others. Acċording to Abhinava, this is the Goddess. Transcendental Śiva is the thirty-sixth principle. Immanent Bhairava is the thirty-seventh. He is the ‘supreme’, beyond which is the Goddess who, totally free of all objectivity, is the Inexplicable ~ Anākhyā. She is the Heart of consciousness whose pulsation generates the waxing and waning of the breath in consonance with the unfolding and withdrawal of aspects of her nectarine energy. As Abhinava says: ‘Creation and absorption rest in this way together in the vital breath (prāṇa). This (rests) in cognitive consciousness (saṁvid) and that in pure consciousness (cinmātra) free of objectivity. And pure consciousness is the goddess who is Parā and the Supreme Goddess (Parameśvarī). She is the thirty-eighth principle, the Heart that is beyond the supreme. Therefore, the essence of cognitive consciousness is, by its very nature, this (perpetual) pulsation (spandamāna).” TA 6/179cd-182ab.
 
 
 *[p. 416]* ^pg432
@@ -648,7 +726,7 @@ Jayaratha explains that:
 
 Abhinava identifies the sixteenth energy of the Moon with visarga. Visarga literally means ‘emission’, and has clear sexual connotations, as the word also means ‘orgasm’. It is also the name of the sixteenth and last of the series of vowels. This is so because it denotes the aspirate vowel, which requires an ‘emission’ of breath to articulate it. In various places throughout his exegetical works, Abhinavagupta develops the key notion of the power of emission (visargaśakti). According to most schools, including the Kubjikā Tantras, which are typical in this respect, the sixteen vowels are female. This is because they represent the sixteen energies of the female Moon. In Abhinava’s set-up they represent stages in the expansion of energy within transcendental Śiva consciousness, which is also lunar, but the Moon in this case retains, as it were, the more ancient masculine gender. The consonants, ranging from K to KÌ, are the series of principles (fattva) below Śiva. The consonants are ‘empowered wombs’ (śāktayoni) formed by the ‘condensation’ of the vowels. The energy of emission extends down through them, spreading out in this way through the entire series of principles below Śiva. Śiva’s divine consciousness courses through the first fifteen vowels, that contain all that is to be emitted through the energy of emission, which is the sixteenth vowel. The energies within Śiva develop progressively, as it were, compounding one with the other until they reach the fullness of their development in the energy of emission, through which the inner contents of Śiva pour out into outer manifestation through and as the remaining principles. And so, this energy is said to vitalize the universe. As Abhinavagupta explains: 
 
-‘The Lord (ever united with his power of emission) emanates the universe. The power of emission (visargaśakti) extends from the Earth to Śakti and from (the consonant) K to \[illegible\] This is said to be (amā kalā) the sixteenth energy (ṣodaśakalā) in the following verse: ‘With the Person made of consciousness, that is, Siva who consists of the sixteen energies (kalā), the sixteenth energy is known as the ‘energy of nectar’ (amrtakalā).’ This is not the view of either the \[illegible\] or the Vedānta, but only of the Śaiva scriptures 
+‘The Lord (ever united with his power of emission) emanates the universe. The power of emission (visargaśakti) extends from the Earth to Śakti and from (the consonant) K to \[illegible\] This is said to be (amā kalā) the sixteenth energy (ṣodaśakalā) in the following verse: ‘With the Person made of consciousness, that is, Siva who consists of the sixteen energies (kalā), the sixteenth energy is known as the ‘energy of nectar’ (amṛtakalā).’ This is not the view of either the \[illegible\] or the Vedānta, but only of the Śaiva scriptures 
 
 863?\. TĀ 6/95cd-97.
 
@@ -657,9 +735,9 @@ Abhinava identifies the sixteenth energy of the Moon with visarga. Visarga liter
 
 \[illegible\] The supreme Lord’s power of emission (visargaśakti) is the seed of the highest beatitude.”” 
 
-Abhinava devotes a great deal of space in his works to an exposition of the metaphysical status and activity of the power of emission (visarga). This insight into the dynamism of the one ultimate reality receives relatively scanty attention in the scriptural sources, and so should be largely, but not entirely, credited to Abhinava’s genius. It is not possible, nor necessary in this context, to present a full exposition of Abhinava’s complex and profound conception; we will limit ourselves to a brief analysis of the following passage in his Mālinīvijayavārtika, where he outlines a number of its essential features and relates them to the lunar symbolism of the energies of the vowels which concern us here. He is discussing, as he often has occasion to do, the phases of the cycle of perception. He has talked about the twelve phases of the cognitive consciousness engaged in the operation of the means of knowledge and the unfolding of subjectivity symbolized by the Sun and Fire, respectively. Next he proceeds to an exposition of the sixteen phases of the cycle of cognitive consciousness in relation to the sphere of the object (meya), symbolized by the Moon. This begins with a list of these phases. We have noted already that the ‘object’, which in Sanskrit is called meya, which literally means ‘that which is to be known’, is ultimately iva, the pure conscious nature. Abhinava teaches that it is ‘I’ consciousness, and is ‘that which is to be known’. Accordingly, the sixteen phases leading to the perception of any object, if correctly and fully experienced, culminate in the liberated condition of the sixteenth phase, which is equated with the sixteenth energy of the Moon, as it is in the Kubjikā Tantras and those of other schools, although from a quite different perspective. The passage is long; even so, the exposition is so masterly and insightful that it amply warrants full quotation: 
+Abhinava devotes a great deal of space in his works to an exposition of the metaphysical status and activity of the power of emission (visarga). This insight into the dynamism of the one ultimate reality receives relatively scanty attention in the scriptural sources, and so should be largely, but not entirely, credited to Abhinava’s genius. It is not possible, nor necessary in this context, to present a full exposition of Abhinava’s complex and profound conception; we will limit ourselves to a brief analysis of the following passage in his Mālinīvijayavārtika, where he outlines a number of its essential features and relates them to the lunar symbolism of the energies of the vowels which concern us here. He is discussing, as he often has occasion to do, the phases of the cycle of perception. He has talked about the twelve phases of the cognitive consciousness engaged in the operation of the means of knowledge and the unfolding of subjectivity symbolized by the Sun and Fire, respectively. Next he proceeds to an exposition of the sixteen phases of the cycle of cognitive consciousness in relation to the sphere of the object (meya), symbolized by the Moon. This begins with a list of these phases. We have noted already that the ‘object’, which in Sanskrit is called meya, which literally means ‘that which is to be known’, is ultimately Śiva, the pure conscious nature. Abhinava teaches that it is ‘I’ consciousness, and is ‘that which is to be known’. Accordingly, the sixteen phases leading to the perception of any object, if correctly and fully experienced, culminate in the liberated condition of the sixteenth phase, which is equated with the sixteenth energy of the Moon, as it is in the Kubjikā Tantras and those of other schools, although from a quite different perspective. The passage is long; even so, the exposition is so masterly and insightful that it amply warrants full quotation: 
 
-‘First (come) 1) manifestation (prakāśa) and 2) viewing (ālocana), and then 3) intention (samkalpa) and 4) consent (abhimati), followed after by 5) certainty (niscaya) and 6) confirmation (anudrśa). Then come the two, 7) discernment (viveka) and 8) detachment \[illegible\] (then) 9) the state of agency (kartrtāsthā), 10) (the experience of) non-distinction (avyavaccheda) (between objects), 11) the manifestation of the common (ground of all objectivity), 12) (a state in which there is) no disturbance from the many acts of reflective awareness (nānāvimarśāprakṣobha), 13) complete experience of (the sphere of) the object (pūrnameyapravedana), 14) complete subjectivity (pūrnapramātrtva), 15) (pure cognitive) consciousness (sarhvitti), (and finally) 16) (the liberated) condition of Bhairavī (the power of consciousness) (bhairavībhāva). To the degree in which objectivity (meyamaya) is made manifest in this way, sixteenfold, that is said to be the Moon of consciousness \[illegible\] considered to be the basic state (sthiti) of the 
+‘First (come) 1) manifestation (prakāśa) and 2) viewing (ālocana), and then 3) intention (saṁkalpa) and 4) consent (abhimati), followed after by 5) certainty (niscaya) and 6) confirmation (anudṛśa). Then come the two, 7) discernment (viveka) and 8) detachment \[illegible\] (then) 9) the state of agency (kartṛtāsthā), 10) (the experience of) non-distinction (avyavaccheda) (between objects), 11) the manifestation of the common (ground of all objectivity), 12) (a state in which there is) no disturbance from the many acts of reflective awareness (nānāvimarśāprakṣobha), 13) complete experience of (the sphere of) the object (pūrnameyapravedana), 14) complete subjectivity (pūrnapramātṛtva), 15) (pure cognitive) consciousness (saṁvitti), (and finally) 16) (the liberated) condition of Bhairavī (the power of consciousness) (bhairavībhāva). To the degree in which objectivity (meyamaya) is made manifest in this way, sixteenfold, that is said to be the Moon of consciousness \[illegible\] considered to be the basic state (sthiti) of the 
 
 sixteen energies.” 
 
@@ -674,13 +752,13 @@ Abhinava then goes on to list the first fourteen energies, symbolized by the vow
 
 APPENDIX A TO CHAPTER THREE 
 
-the inner flow of energy within iva has traversed through the first fourteen transformations, Abhinava explains: 
+the inner flow of energy within Śiva has traversed through the first fourteen transformations, Abhinava explains: 
 
 ‘Then, by attaining (the pure) consciousness of (Śiva’s and one’s own) essential nature, the basic state of the Point (bindu) (the fifteenth vowel, is established). Then within (that consciousness of the Point), whose form is filled with the entire aggregate (of energies), the empowered emission (visarga) (takes place) that is called ‘ejection’ (vikṣepa) (of the energies within Śiva into the outer domain). The release (viśleṣa) of (that) emission itself (which impels the outpouring of these energies) is the seventeenth energy. The eighteenth (energy mentioned) in some places (in the scriptures) is that same (seventeenth energy, that develops) due to (its) association with the (cosmogenic) arousal (prakṣobha) 
 
 (of its energy).” 
 
-This, the excellent and supreme Kaulikī energy of Akula, whose form is the absolute (anuttara) and nature supreme Bhairava, is this emission (visarga). From that, this universe is born. \[. . .\] And that (emission) itself is God (bhagavat), whose nature shines perpetually within and is endowed with the energy of the centre, which is full of the current of all the things within (him). Beautiful with Cosmic Bliss (jagadānanda) generated from (his own) essential nature (that he has) aroused by (his) own will, he shines perpetually, beautiful with the juice (rasa) (of the aesthetic savour) of complete emission. That is the (pulsing) union (saṁghaṭṭa) of Śiva and Śakti, said to be (their) love (sneha).””® 
+This, the excellent and supreme Kaulikī energy of Akula, whose form is the absolute (anuttara) and nature supreme Bhairava, is this emission (visarga). From that, this universe is born. \[. . .\] And that (emission) itself is God (bhagavat), whose nature shines perpetually within and is endowed with the energy of the centre, which is full of the current of all the things within (him). Beautiful with Cosmic Bliss (jagadānanda) generated from (his own) essential nature (that he has) aroused by (his) own will, he shines perpetually, beautiful with the juice (rasa) (of the aesthetic savour) of complete emission. That is the (pulsing) union (saṁghaṭṭa) of Śiva and Śakti, said to be (their) love (sneha).”” 
 
 Now that Abhinava has outlined the cognitive, metaphysical and theological dimensions of the power of emission, he proceeds in his usual allusive manner to indicate how it functions in its microcosmic counterpart at the individual embodied level of consciousness. 
 
@@ -703,7 +781,7 @@ Abhinava next goes on to describe succinctly how the energy of emission travels 
 
 This then is how the energy of emission operates on two levels simultaneously: inwardly, it flows through our own ultimate identity. Outwardly, it flows as cognitive consciousness and, at times, as seminal fluid. This is the sixteenth energy of the Moon, that flows through the seventeenth, which releases it, and the eighteenth, which is the aroused state of the seventeenth. This way, the sexual union Abhinava describes here culminates in emission. The seed is not retained. This possibility finds support in the Tantras of several schools. The product of this union, ideally between Siddhas and Yoginīs, is collected and offered as a sacred substance (dravya) to the deity by ingestion. 
 
-Let us now return to the ‘inner nature’ of this, the sixteenth energy, taught in Abhinavagupta’s Trika. We have seen that it is the emission, that is, the dynamic, creative energy of Śiva, through which he manifests as all things. United with his emissive energy that generates and absorbs the universe, and animated by it, Siva rests in himself even as he contains in a potential form all manifestation, just as the splendid, multi-coloured peacock is present in the juices of its egg (mayürāndarasavat), or the banyan tree in its seed.” The highest principle is iva in union with his energy, identified in the following passage with Speech (vāc). The fifteenth energy is the Point. This represents the perceiver, the individual living being resting in himself. The sixteenth energy represents the dynamic aspect of the Point when it moves, ascending and descending, resonant with the inner ‘unstruck sound’ that permeates and sustains the dynamism of the vital breath. This Unstruck Sound as, Jayaratha says, is the Sound said to be ‘the energy of the New Moon (amākalā), that is the ‘half of half of H’ (hakārārdhārdha), everywhere taught to be basically devoid of vowels (1 
+Let us now return to the ‘inner nature’ of this, the sixteenth energy, taught in Abhinavagupta’s Trika. We have seen that it is the emission, that is, the dynamic, creative energy of Śiva, through which he manifests as all things. United with his emissive energy that generates and absorbs the universe, and animated by it, Siva rests in himself even as he contains in a potential form all manifestation, just as the splendid, multi-coloured peacock is present in the juices of its egg (mayürāndarasavat), or the banyan tree in its seed.” The highest principle is Śiva in union with his energy, identified in the following passage with Speech (vāc). The fifteenth energy is the Point. This represents the perceiver, the individual living being resting in himself. The sixteenth energy represents the dynamic aspect of the Point when it moves, ascending and descending, resonant with the inner ‘unstruck sound’ that permeates and sustains the dynamism of the vital breath. This Unstruck Sound as, Jayaratha says, is the Sound said to be ‘the energy of the New Moon (amākalā), that is the ‘half of half of H’ (hakārārdhārdha), everywhere taught to be basically devoid of vowels (1 
 
 869?\. MVV 1/896-899ab.
 
@@ -724,11 +802,11 @@ APPENDIX A TO CHAPTER THREE
 
 This lunar energy is roundly identified in the Kubjikā Tantras with the seventeenth one beyond the sixteenth, which is emission, as it is in the Kashmiri Śaiva texts. Abhinava repeatedly describes in various perspectives in his Tantrāloka how the phases of cognitive consciousness — subjective, perceptive and objective — arise within consciousness and through it. These three are symbolically identified with three natural ‘lights’, namely, Fire, Sun and Moon, respectively. Referring to the Moon in one place, Abhinava teaches that the perception of objects is a sacred activity like the offering of oblations in a fire. This is because they are imbued with the sacrality of the divine, inner Moon whose spiritual power is its seventeenth energy loaded with lunar nectar. 
 
-‘Now the Moon (of objectivity), consisting of sixteen energies, shining radiantly, desiring to devour (its) emission (visarga), (its seventeenth aspect, known as) the Vivifier (sarjīvanī), emits the nectar of immortality (amrta) into the fire of (individual) consciousness (bodha). That indeed is the divine nectar (that drips from) the tip of the sacrificial ladle made of the powers of will, knowledge and action (that flow through) the subtle channels (of the senses) as a libation to the goddesses of consciousness, (the sacred powers of the senses). 
+‘Now the Moon (of objectivity), consisting of sixteen energies, shining radiantly, desiring to devour (its) emission (visarga), (its seventeenth aspect, known as) the Vivifier (saṁjīvanī), emits the nectar of immortality (amṛta) into the fire of (individual) consciousness (bodha). That indeed is the divine nectar (that drips from) the tip of the sacrificial ladle made of the powers of will, knowledge and action (that flow through) the subtle channels (of the senses) as a libation to the goddesses of consciousness, (the sacred powers of the senses). 
 
-If the nectar of emission (visargāmrta) is thus emitted into the fire called (individual) consciousness (bodha), the entire cosmic order is offered as oblation. For the emission of the Lord of the Absolute (anuttaranātha) is the Mistress of Kula (kulanāyikā), and its arousal (kṣobha) is the (letters of the Sanskrit alphabet) ranging from Ka to Ha, whose expansion (prasara) is the sequence (paddhati) of metaphysical principles (ranging from Earth to Śakti). 
+If the nectar of emission (visargāmṛta) is thus emitted into the fire called (individual) consciousness (bodha), the entire cosmic order is offered as oblation. For the emission of the Lord of the Absolute (anuttaranātha) is the Mistress of Kula (kulanāyikā), and its arousal (kṣobha) is the (letters of the Sanskrit alphabet) ranging from Ka to Ha, whose expansion (prasara) is the sequence (paddhati) of metaphysical principles (ranging from Earth to Śakti). 
 
-The letters AM and AH are the Lord and Mistress of Kula, while the universe is said to be the supreme release (viśleșa) of (their) emission. In this way 
+The letters AM and AH are the Lord and Mistress of Kula, while the universe is said to be the supreme release (viśleṣa) of (their) emission. In this way 
 
 873?\. KuKh 35/35cd-38.
 
@@ -737,11 +815,11 @@ The letters AM and AH are the Lord and Mistress of Kula, while the universe is s
 
 this, the vitalizing energy (saṁjīvanī kalā) (of the Moon), consists of the intellect, vital breath, the qualities (guna), body and the internal and external sacrificial substances. It should be worshipped, offered as oblation and contemplated.” 
 
-Jayaratha explains that: ‘the sixteen energies are the (vowels) beginning with the letter A as well as the senses (buddhīndriya) and the rest’. A little further ahead, he quotes the following line from the Trisirobhairavatantra,® reminiscent of the Bṁadāranyakopaniṣad quoted above.” 
+Jayaratha explains that: ‘the sixteen energies are the (vowels) beginning with the letter A as well as the senses (buddhīndriya) and the rest’. A little further ahead, he quotes the following line from the Trisirobhairavatantra, reminiscent of the Bṁadāranyakopaniṣad quoted above.” 
 
 ‘(The wise) say that there is a part \[illegible\] that is nectar within the Person (puruṣa) consisting of sixteen parts. Accordingly, he explains that the Vivifier (sarjīvinī) is: the seventeenth (lunar) energy (kalā) called Amā (the New Moon), that is the cause of the life (saṁjīvana) of the universe. It emits ‘the nectar of immortality’, which is a special vital constituent (dhātu) that nourishes the one who possesses sixteen parts.’ 
 
-Notice that there is some confusion here concerning the identity of this ‘vivifying energy’. According to the first reference we examined from the Tantrāloka,” the energy of the New Moon is the sixteenth digit. This agrees with the usual astronomical reckoning of the phases of the moon. But in this passage, according to Jayarartha, the New Moon is the seventeenth digit that ‘vivifies’ the other sixteen. Abhinava himself, as we have seen, considers the seventeenth energy to be the ‘release’ (visleṣa) of emission, which is the sixteenth.“ In the passage we are examining, what is ‘released’ is the emitted universe. Kashmiri aiva sources generally understand the sixteenth energy to be the New Moon (amākalā). This is followed by the transcendent seventeenth energy, which is merged in the Heart, the pure ‘T’ consciousness that is the core of reality and the core ground or ‘abode’ \[illegible\] of all manifestation. It is within transcendental Śiva, dominating all the aspects of His creative and self-delimiting power. It is the energy of consciousness (citkalā) of the absolute (anuttara) and is also called the ‘energy of nectar’ (amrtakalā). Transcendent, it contains in a potential form the other energies. Swami Lakshmanjoo explains: 
+Notice that there is some confusion here concerning the identity of this ‘vivifying energy’. According to the first reference we examined from the Tantrāloka,” the energy of the New Moon is the sixteenth digit. This agrees with the usual astronomical reckoning of the phases of the moon. But in this passage, according to Jayarartha, the New Moon is the seventeenth digit that ‘vivifies’ the other sixteen. Abhinava himself, as we have seen, considers the seventeenth energy to be the ‘release’ (visleṣa) of emission, which is the sixteenth.“ In the passage we are examining, what is ‘released’ is the emitted universe. Kashmiri Śaiva sources generally understand the sixteenth energy to be the New Moon (amākalā). This is followed by the transcendent seventeenth energy, which is merged in the Heart, the pure ‘T’ consciousness that is the core of reality and the core ground or ‘abode’ \[illegible\] of all manifestation. It is within transcendental Śiva, dominating all the aspects of His creative and self-delimiting power. It is the energy of consciousness (citkalā) of the absolute (anuttara) and is also called the ‘energy of nectar’ (amṛtakalā). Transcendent, it contains in a potential form the other energies. Swami Lakshmanjoo explains: 
 
 “In Śaiva philosophy the world of experience is likened to the moon which has fifteen phases. There is also a sixteenth phase and this sixteenth phase is known as the sixteenth kalā. It is called amākalā that is ever-present even during the dark phase of the moon. The seventeenth \[illegible\] is even above that. The seventeenth kalā refers to the flowing out of the universal nectar of God Consciousness. It is called the seventeenth because it has nothing to do with the 
 
@@ -770,24 +848,24 @@ The Trisirobhairavatantra, an important Trika scripture that has unfortunately b
 
 Jayaratha explains: 
 
-‘Consciousness initially assumes the form of the vital breath (prāṇa)’. According to this dictum, (consciousness) initially manifests in the form of vitality (prāṇarūpatā). Then, through progressive reversal (pratyāvrttikrameṇa), it assumes the form of supreme pure consciousness, which rests in itself as Supreme Kuṇqalinī in the innate nature, which is the final, ultimate extremity of the propensity to internalization. In this way, this, the seventeenth (lunar) energy (kalā) which is pure consciousness (saṁvinmātrā) is called ‘the Sky of Śiva’ and so on.’ 
+‘Consciousness initially assumes the form of the vital breath (prāṇa)’. According to this dictum, (consciousness) initially manifests in the form of vitality (prāṇarūpatā). Then, through progressive reversal (pratyāvṛttikrameṇa), it assumes the form of supreme pure consciousness, which rests in itself as Supreme Kuṇqalinī in the innate nature, which is the final, ultimate extremity of the propensity to internalization. In this way, this, the seventeenth (lunar) energy (kalā) which is pure consciousness (saṁvinmātrā) is called ‘the Sky of Śiva’ and so on.’ 
 
-So from one point of view, the seventeenth energy is the transcendental energy of the supreme form of Kundalinī, that is, in the raised state in which she is the energy of transcendental iva fused within him. A passage quoted by 
+So from one point of view, the seventeenth energy is the transcendental energy of the supreme form of Kundalinī, that is, in the raised state in which she is the energy of transcendental Śiva fused within him. A passage quoted by 
 
 879?\. Hughes 1997: 97, n. 5.
 
-880?\. Abhinava introduces his reference from the Trisirobhairavatantra (TĀ 3/137cd) saying that he is drawing from the end of a section discussing the pervasion of power (kalā) (kalāvyāptyantacarcana). Jayaratha explains that in the section to which Abhinava refers, the Trisirobhairava discusses the ‘doctrine concerning the unfolding of the essential nature of the energy called Amã’ (amākhyakalāsvarūpasphārasiddhānta).
+880?\. Abhinava introduces his reference from the Trisirobhairavatantra (TĀ 3/137cd) saying that he is drawing from the end of a section discussing the pervasion of power (kalā) (kalāvyāptyantacarcana). Jayaratha explains that in the section to which Abhinava refers, the Trisirobhairava discusses the ‘doctrine concerning the unfolding of the essential nature of the energy called Amā’ (amākhyakalāsvarūpasphārasiddhānta).
 
 881?\. Jayaratha understands ‘parāpara’ here to refer to the intermediate form of emission which is active between the supreme (para) and inferior (apara) form. But there is no reason, it seems to me, to introduce this distinction here, which Abhinava deals with elsewhere. A less forced interpretation is that the two points of visarga represent immanence and transcendence. This accords with an explanation Swami Lakshmajoo once gave of the two points of visarga. These, he said, represent the paradox that while, on the one hand everything is emitted from Siva (which is the immanent aspect of visarga), nothing is ever outside Śiva (which is the transcendent aspect of visarga).
 
-882?\. Read prakāśah for prakāśyaṁ.
+882?\. Read prakāśaḥ for prakāśyaṁ.
 
 883?\. TĀ 3/137cd-14lab.
 
 
 *[p. 423]* ^pg439
 
-Jayaratha in his commentary from the Trisirobhairavatantra explains that this aspect of Kuṇdalinī is the ‘Void of Consciousness (cidvyoman), the final and supreme plane beyond the gross, elemental vacuum. It is the Void of iva that is the supreme state, Nonbeing,” which is the pulse of the experience of Being". But we have seen that the energy of the New Moon (amākalā) is also the sixteenth one, laden with nectar. So here too, there is some confusion as to exactly which is the New Moon. Is it the sixteenth or the seventeenth digit, and how do they relate to each other? 
+Jayaratha in his commentary from the Trisirobhairavatantra explains that this aspect of Kuṇdalinī is the ‘Void of Consciousness (cidvyoman), the final and supreme plane beyond the gross, elemental vacuum. It is the Void of Śiva that is the supreme state, Nonbeing,” which is the pulse of the experience of Being". But we have seen that the energy of the New Moon (amākalā) is also the sixteenth one, laden with nectar. So here too, there is some confusion as to exactly which is the New Moon. Is it the sixteenth or the seventeenth digit, and how do they relate to each other? 
 
 This confusion is resolved in the later Kubjikā tradition by assigning the Full Moon to the sixteenth digit and the New Moon to the seventeenth. This appears to be a novel concept. The symbolic coupling of the two is not common, even though the symbolism of the energy of the New Moon (amākalā) is well known to most, if not virtually all Tantric traditions. Abhinavagupta in his extensive survey of the Tantras refers only to the energy of the New Moon as the source of the other lunar energies. He never refers to the Full Moon, even though both these phases of the Moon are considered to be particularly important times in the liturgical calendar. 
 
@@ -824,7 +902,7 @@ Viṣa and Kāmatattva are aspects of the pure vitality of consciousness (prā�
 
 Niranjanatattva - the Stainless Principle. 
 
-The fullness of Kāmatattva which, as we have seen, is the power of the universal will (icchāśakti) in which all things are contained in the state of withdrawal (nimesa), develops spontaneously into the power of knowledge (jñāna), which is the state of expansion (unmeșa). These two aspects of the pulse 
+The fullness of Kāmatattva which, as we have seen, is the power of the universal will (icchāśakti) in which all things are contained in the state of withdrawal (nimesa), develops spontaneously into the power of knowledge (jñāna), which is the state of expansion (unmeṣa). These two aspects of the pulse 
 
 *[p. 426]* ^pg442
 

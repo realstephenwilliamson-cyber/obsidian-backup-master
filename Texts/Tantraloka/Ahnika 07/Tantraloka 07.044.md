@@ -34,6 +34,9 @@ te na siddhyanti yatnena japtāḥ koṭiśatairapi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 31)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.42–44]]
+
 > इति शक्तिस्थिता मन्त्रा विद्या वा चक्रनायकाः ॥
 > पदपिण्डस्वरूपेण ज्ञात्वा योज्याः सदा प्रिये ।
 > नित्योदये महातत्त्वे उदयस्थे सदाशिवे ॥

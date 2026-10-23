@@ -33,6 +33,11 @@ kulajātivapuṣkarmavayo'nuṣṭhānasaṃpadaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 195–196)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.117]]
+>
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.117–119]]
+
 *Lead-in:* ननु यद्येवमनन्यापेक्ष एव अनुग्रहं परमेश्वरः कुर्यात्, तत्तस्य तरतमभावः कुतस्त्यः? -- इत्याशङ्क्याह --
 
 > स च स्वाच्छन्द्यमात्रेण तारतम्यप्रकाशकः ।

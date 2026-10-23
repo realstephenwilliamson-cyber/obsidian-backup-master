@@ -31,6 +31,9 @@ abhiṣiktaścīrṇavidyāvratastena phalapradaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 216)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.147–148]]
+
 > अन्ये त्वाहुरकामस्य प्रातिभो गुरुरीदृशः ।
 > सामग्रीजन्यता काम्ये तेनास्मिन्संस्कृतो गुरुः ॥
 > नियतेर्महिमा नैव फले साध्ये निवर्तते ।

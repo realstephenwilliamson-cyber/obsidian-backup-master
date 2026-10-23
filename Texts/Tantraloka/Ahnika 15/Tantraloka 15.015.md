@@ -31,6 +31,9 @@ sarvaśāstrārthavettṛtvamakasmāccāsya jāyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 12–13)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.15–16]]
+
 *Lead-in:* ननु एवंविधौ गुरुशिष्यौ प्रति दीक्षाया यद्युपयोगो नास्ति, तत् ज्ञानादावनयोरधिकार एव कथङ्कारं स्यात्?--इत्याशङ्क्य आह--
 
 > ज्ञानमेव तदा दीक्षा श्रीत्रैशिकनिरूपणात् ।

@@ -35,6 +35,9 @@ evaṃ śiṣyatanau śodhyaṃ nyasyādhvānaṃ yathepsitam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 89)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.207]]
+
 *Lead-in:* एवमेतत्प्रसङ्गादभिधाय प्रकृतमेवाह--
 
 > एवं शिष्यतनौ शोध्यं न्यस्याध्वानं यथेप्सितम् ।

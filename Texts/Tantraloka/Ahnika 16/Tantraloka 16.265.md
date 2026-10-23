@@ -37,6 +37,11 @@ tena tanmantraśabdārthaviśeṣotthaṃ vikalpanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 116–119)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.264–265]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.265–267]]
+
 *Lead-in:* अत एव च एतद्वैलक्षण्यं मन्त्राणां येन तत्र परमेश्वरस्यादरः--इत्याह--
 
 Jayaratha comments on this verse together with 16.264: see [[Tantraloka 16.264#Viveka|16.264]].

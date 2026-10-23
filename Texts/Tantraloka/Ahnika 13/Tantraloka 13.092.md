@@ -33,6 +33,11 @@ athodāsīnatatkarmadvayayogakṣaṇāntare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 180–181)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.89–92]]
+>
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.92–93]]
+
 *Lead-in:* अथोच्यते रुद्धे सती कर्मणी सदैव कर्मान्तरमपि रुन्धाते, किन्तु उत्तरकालं कदाचिदपि तत्फलेत् इति । तत्प्रथम एव क्षणे तत्फलतु नियतनिमित्तावचनात् किं कर्मान्तरप्रतीक्षणेन -- इत्याह --
 
 > अथोदासीनतत्कर्मद्वययोगक्षणान्तरे ॥

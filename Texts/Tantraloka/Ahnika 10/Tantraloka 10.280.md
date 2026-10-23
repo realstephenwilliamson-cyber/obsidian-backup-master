@@ -33,6 +33,11 @@ prasaṃkhyānabalāttvetadrūpaṃ pūrṇatvayogataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 473–474)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.279–280]]
+>
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.280–281]]
+
 *Lead-in:* अतश्चात्र संविदेकरूपत्वात्प्रसंख्यानमेव प्रपततीति तदभिप्रायेणैव नामास्ति -- इत्याह --
 
 > प्रसंख्यानबलात्त्वेतदूर्पं पूर्णत्वयोगतः ॥

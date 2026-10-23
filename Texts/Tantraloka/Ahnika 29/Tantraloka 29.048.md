@@ -31,6 +31,9 @@ ekavīrā ca sā pūjyā yadi vā sakuleśvarā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 244–245)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.46–48]]
+
 > मन्त्रसिद्धप्राणसंवित्करणात्मनि या कुले ॥
 > चक्रात्मके चितिः प्रभ्वी प्रोक्ता सेह कुलेश्वरी ।
 > सा मध्ये श्रीपरा देवी मातृसद्भावरूपिणी ॥

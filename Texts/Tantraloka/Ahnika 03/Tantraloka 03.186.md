@@ -37,6 +37,11 @@ candraśca nāma naivānyo bhogyaṃ bhoktuśca nāparam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 305–308)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.185–186]]
+>
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.186–188]]
+
 *Lead-in:* -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 3.185: see [[Tantraloka 03.185#Viveka|3.185]].

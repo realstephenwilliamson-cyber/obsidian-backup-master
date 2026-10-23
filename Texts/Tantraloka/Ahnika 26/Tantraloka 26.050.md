@@ -34,6 +34,9 @@ kuto vānīyate devaḥ kutra vā nīyate'pi saḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 387–388)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.47–51]]
+
 > आवाहितो मया देवः स्थण्डिले च प्रतिष्ठितः ।
 > पूजितः स्तुत इत्येवं हृष्ट्वा देवं विसर्जयेत् ॥
 > प्राणिनामप्रबुद्धानां सन्तोषजननाय वै ।

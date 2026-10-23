@@ -31,6 +31,9 @@ tatparasya tu sāyujyamityuktaṃ parameśinā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 119)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.273]]
+
 *Lead-in:* एवमियता किं पर्यवसितम्?--इत्याशङ्क्य आह--
 
 > पशुमात्रस्य सालोक्यं सामीप्यं दीक्षितस्य तु ।

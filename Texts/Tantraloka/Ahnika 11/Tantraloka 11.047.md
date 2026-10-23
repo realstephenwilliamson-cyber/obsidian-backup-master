@@ -34,6 +34,9 @@ abhinnameva svaṃ rūpaṃ niḥspandakṣobhite param || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 44–46)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.46–47]]
+
 > तथापि न विमर्शात्मरूपं त्यजति तेन सः ।
 > प्रमाणात्मविमर्शात्मा मानवत्क्षोभभाङ् न तु ॥
 > मन्त्राणां च पदानां च तेनोक्तं त्रिकशासने ।

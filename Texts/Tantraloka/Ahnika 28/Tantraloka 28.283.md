@@ -31,6 +31,9 @@ chidragā api bhūyiṣṭhajñānadagdhā na rohiṇaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 123–124)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.283–284]]
+
 *Lead-in:* ननु कथं भोगमात्रकमेव एतदित्युक्तं यज्ज्ञानिनोऽपि अन्तश्च आत्तानां संसारवासनानामन्तरान्तरा दर्शनादज्ञानित्वं स्यात्, अज्ञानिनोऽपि ज्ञान्युचितानां संस्काराणामुदयात् ज्ञानित्वमिति?-- इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 28.284: see [[Tantraloka 28.284#Viveka|28.284]].

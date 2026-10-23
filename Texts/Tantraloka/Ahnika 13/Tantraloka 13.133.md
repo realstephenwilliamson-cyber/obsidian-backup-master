@@ -32,6 +32,9 @@ tamastāpau hanti dṛśaṃ visphāryānandanirbharām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 206)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.133]]
+
 *Lead-in:* ननु आत्मानं प्रत्येव किं बन्धमोक्षतयात्मतामसौ वेत्ति उत परं प्रत्यपि? -- इत्याशङ्क्याह --
 
 > प्रतिभाचन्द्रिकाशान्तध्वान्तश्चाचार्यचन्द्रमाः ।

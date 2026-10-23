@@ -47,4 +47,6 @@ The text: <name, source file or website, edition>.
 Report the folder, the number of notes, the checks, and what was linked. At the end, clean up your scratch in .work as the house rules describe (never .work/plan or the backups).
 ````
 
+**For a text from Sefaria** (22 Oct 2026): start from [[Sefaria import scripts]], which built the Hasidic works, the Talmud, Maimonides and the Kitzur from Sefaria's export, with their checks.
+
 **Afterwards:** open the work note and step through a few units with the navigation links.

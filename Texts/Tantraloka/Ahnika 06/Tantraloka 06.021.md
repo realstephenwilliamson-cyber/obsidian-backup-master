@@ -34,6 +34,9 @@ yāvānsamasta evāyamadhvā prāṇe pratiṣṭhitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 237–239)
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.21–22]]
+
 *Lead-in:* तदेवमत्र प्रसक्तानुप्रसक्तिकया परदर्शनकथा मा प्रसाङ्क्षीत् इति प्रकृतमेवानुसरति --
 
 > अलमप्रस्तुतेनाथ प्रकृतं प्रविविच्यते ।

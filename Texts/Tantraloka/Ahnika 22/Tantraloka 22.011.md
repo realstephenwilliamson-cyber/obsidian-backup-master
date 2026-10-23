@@ -31,6 +31,9 @@ svātmasthitiścetyevaṃ hi darśanāntarasaṃsthiteḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 280–281)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.10–12]]
+
 > क्रमश्च शक्तिसंपातो मलहानिर्यियासुता ।
 > दीक्षा बोधो हेयहानिरुपादेयलयात्मता ॥
 > भोग्यत्वपाशवत्यागः पतिकर्तृत्वसंक्षयः ।

@@ -34,6 +34,9 @@ anugāmi na sāmānyamiṣṭaṃ naiyāyikādivat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 3)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.5]]
+
 *Lead-in:* न चात्र वस्तुतः पक्षद्वयेऽपि कश्चिद्विशेषोऽस्ति -- इत्याह --
 
 > अत्र पक्षद्वये वस्तु न भिन्नं भासते यतः ।

@@ -33,6 +33,11 @@ te vidyāpūrvakā yasmāttasmājjñānyuttamottamaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 9)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 15.11.*
+>
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.11]]
+
 *Lead-in:* ननु यद्येवं विद्यैव साक्षान्मोचिका, तत्किं क्रियादिपादत्रयोपात्तेन दीक्षादिना ? --इत्याशङ्क्याह—
 
 > तत्राशक्तास्तु ये तेषां दीक्षाचर्यासमाधयः ।

@@ -36,6 +36,11 @@ yathā śrītantrasadbhāve kathitā parameśinā |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 238–239)
+> ![[Tantraloka Dyczkowski v09 11 - Chapter Twenty#Viveka on 20.11–12]]
+>
+> ![[Tantraloka Dyczkowski v09 11 - Chapter Twenty#Viveka on 20.11–13]]
+
 *Lead-in:* ननु इयमस्मच्छास्त्रे नाभिहितेति किं शास्त्रान्तरप्रक्रियागौरवेण?-- इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 20.11: see [[Tantraloka 20.011#Viveka|20.11]].

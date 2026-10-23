@@ -34,6 +34,9 @@ vijñānākalaparyantamātmā vidyeśvarāntakam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 35)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.34–35]]
+
 > पञ्चतत्त्वविधिः प्रोक्तस्त्रितत्त्वमधुनोच्यते ॥
 > विज्ञानाकलपर्यन्तमात्मा विद्येश्वरान्तकम् ।
 > शेषे शिवस्त्रितत्त्वे स्यादेकतत्त्वे शिवः परम् ॥

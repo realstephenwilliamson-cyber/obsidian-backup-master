@@ -34,6 +34,9 @@ gaṅgādipañcaśatikā janma tenātra durlabham || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 138–139)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.89]]
+
 *Lead-in:* नन्वेतत् कन्याद्वीपे विशेषेण भवेत्, -- इत्यत्र किं निमित्तम्? -- इत्याशङ्क्याह --
 
 > महाकालादिका रुद्रकोटिरत्रैव भारते ।

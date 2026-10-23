@@ -35,6 +35,9 @@ so'nimīlita evaitat kuryātsvātmamayaṃ jagat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 104–105)
+> ![[Tantraloka Dyczkowski v04 05 - Chapter Five, part 3#Viveka on 5.83]]
+
 *Lead-in:* न केवलमेतदेवं यावदिन्द्रियाण्यपि -- इत्याह --
 
 > दिव्यो यश्चाक्षसङ्घोऽयं बोधस्वातन्त्र्यसंज्ञकः ।

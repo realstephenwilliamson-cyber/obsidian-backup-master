@@ -31,6 +31,9 @@ vedyamātraṃ sphuṭaṃ bhinnaṃ pradhānaṃ sūyate kalā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 203)
+> ![[Tantraloka Dyczkowski v06 07 - Chapter Nine, part 5#Viveka on 9.214]]
+
 *Lead-in:* नन्वत्र विशेषभागावस्थितं किंचित्त्वम् ? -- इत्याशङ्क्याह --
 
 > विशेषणतया योऽत्र किञ्चिद्भागस्तदोत्थितम् ।

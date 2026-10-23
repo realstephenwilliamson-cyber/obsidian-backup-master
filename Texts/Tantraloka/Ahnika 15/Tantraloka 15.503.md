@@ -32,5 +32,8 @@ hiraṇyapādādimakhaḥ sahasreṇa samāvṛtaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 307–308)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.498–505]]
+
 Jayaratha comments on this verse together with 15.505: see [[Tantraloka 15.505#Viveka|15.505]].
 

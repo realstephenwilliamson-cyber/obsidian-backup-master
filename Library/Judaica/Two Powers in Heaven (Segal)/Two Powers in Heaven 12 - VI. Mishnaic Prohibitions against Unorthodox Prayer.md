@@ -43,7 +43,7 @@ Jerusalem Talmud Megillah 4:10 75c
 
 He who says: "May the good bless you—this is two powers." 
 
-Babylonian Talmud Megillah 25a and Berakhot 33b 
+Babylonian Talmud [[Megillah 25#25a|Megillah 25a]] and [[Berakhot 33#33b|Berakhot 33b]] 
 
 Gemara: We understand why he is silenced if he says "We give thanks, we give thanks." because he is manifesting (a belief) like two powers; also if he says, "Be your name mentioned for the good," because this implies, for the good only and not for the bad, and we have learnt, a man must bless God for the evil as he blesses Him for the good. But what is the reason for silencing him if he says 'Your mercies extend to the bird's nest?' Two Amoraim of the West, R. Yosi b. Abin and R. Yosi b. Zebida, give different answers; one says it is because it creates jealousy among God's creatures, the other, because he presents the measures taken by the Holy One, Blessed be He, as springing from compassion, whereas they are but decrees... 
 
@@ -69,7 +69,7 @@ I Thank Thee, my God, for Thou has dealt wondrously to dust and mightily towards
 
 I thank Thee, I thank Thee. ·<sup>r</sup>> 
 
-2\. Birnbaum, p. 91. :t Sotah 40a and j. Ber. 1:5 (3d) Elbogen, p. 58. + This reference was brought to my attention by Jonas Greenfield, who also remains skeptical of the identification. It comes from Jacob Licht, *The Thanksgiving Scroll : A Scroll from the Wilderness of fudaea: Text, Introduction,* *Commentary and Glossary* fin Hebr.\] (Jerusalem: 1957), p. 161.
+2\. Birnbaum, p. 91. :t [[Sotah 40#40a|Sotah 40a]] and j. Ber. 1:5 (3d) Elbogen, p. 58. + This reference was brought to my attention by Jonas Greenfield, who also remains skeptical of the identification. It comes from Jacob Licht, *The Thanksgiving Scroll : A Scroll from the Wilderness of fudaea: Text, Introduction,* *Commentary and Glossary* fin Hebr.\] (Jerusalem: 1957), p. 161.
 
 5\. I Q H XI, 3.
 
@@ -95,7 +95,7 @@ R. Huna says: Whosoever prays at the rear of a Synagogue is called wicked. For i
 
 The setting is the synagogue. Probably the Amidah is being discussed in this passage because S-L-Y was used to denote this prayer. What is important to note is, first, the severity of the charge of "two powers" in the folk tale. The man is not necessarily guilty of the charge. He only appears to be guilty of it. But it is enough to cause his death. One suspects that this story has no actual connection with the original heresy. There is no awareness of the earlier tannaitic traditions. Rather, for the amoraim, the issue was the orientation of the congregation towards Jerusalem, not merely that a man was praying in the rear or repeating the prayer. The man must have been praying toward the back of the synagogue, implying that he was worshipping a divine power other than the God of Israel. 
 
-9\. b. Ber. 6b, tr. Epstein. The expression for "two powers" here is K D W BR. Something appears to have been left out of the text. Probably the expression was K D W BRY 3LHYN or possibly K D W BRY : ) YN (two creators!). This raises the possibility that the term "two powers" might have been used as a euphemism for a stronger term. At any rate, it shows that the older terms for the heresy could have been used even after the term "two powers" became virtually standard in referring to phenomena of this sort. I have altered Epstein's translation to suit the context.
+9\. b. [[Berakhot 6#6b|Ber. 6b]], tr. Epstein. The expression for "two powers" here is K D W BR. Something appears to have been left out of the text. Probably the expression was K D W BRY 3LHYN or possibly K D W BRY : ) YN (two creators!). This raises the possibility that the term "two powers" might have been used as a euphemism for a stronger term. At any rate, it shows that the older terms for the heresy could have been used even after the term "two powers" became virtually standard in referring to phenomena of this sort. I have altered Epstein's translation to suit the context.
 
 
 *[p. 103]* ^pg130

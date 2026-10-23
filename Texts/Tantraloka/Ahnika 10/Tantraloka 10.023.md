@@ -31,6 +31,9 @@ vedyaścedasti tatrāpi vedyatetyanavasthitiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 309–310)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.23–24]]
+
 > वेद्यताख्यस्तु यो धर्मः सोऽवेद्यश्चेत्खपुष्पवत् ।
 > वेद्यश्चेदस्ति तत्रापि वेद्यतेत्यनवस्थितिः ॥
 > ततो न किञ्चिद्वेद्यं स्यान्मूर्छितं तु जगद्भवेत् ।

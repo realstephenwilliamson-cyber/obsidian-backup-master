@@ -33,6 +33,11 @@ tasmānna vedyatā nāma bhāvadharmo'sti kaścana || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 311)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.25–26]]
+>
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.26]]
+
 *Lead-in:* अतो न वेद्यत्वं नाम भावस्य किञ्चित् -- इत्याह --
 
 > तस्मान्न वेद्यता नाम भावधर्मोऽस्ति कश्चन ॥

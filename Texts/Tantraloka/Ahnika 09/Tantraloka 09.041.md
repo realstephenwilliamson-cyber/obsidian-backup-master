@@ -33,6 +33,11 @@ tata eva niśākhyānātkalībhūtādaliṅgakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 44–46)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.40–41]]
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.41–42]]
+
 *Lead-in:* अत एव च एवं विसंवादाशङ्कया अत्र यदन्यैरन्यथा व्याख्यातं तदप्रयोजकमेव -- इत्याह --
 
 > तत एव निशाख्यानात्कलीभूतादलिङ्गकम् ॥

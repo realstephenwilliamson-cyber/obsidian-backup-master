@@ -33,6 +33,11 @@ sarvasya kāraṇaṃ proktaṃ sarvatraivoditaṃ yataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 432–433)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.220–222]]
+>
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.222]]
+
 *Lead-in:* ननु च कारणदशायां कार्यस्य प्रागभावादनागतत्वम्, इह च संविदः कादाचित्कत्वेन कार्यत्वात्तथाभावोपपत्तेरागतः कालविप्रकर्षः, इति कथमुक्तं क्रमिकेयं संविन्न भवेदिति ? -- इत्याशङ्क्याह -
 
 > सर्वस्य कारणं प्रोक्तं सर्वत्रैवोदितं यतः ॥

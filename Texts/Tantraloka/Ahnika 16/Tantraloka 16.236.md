@@ -37,6 +37,11 @@ evaṃ parāparādevyāḥ svatantro nyāsa ucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 102–103)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.234–236]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.236]]
+
 *Lead-in:* एतदेवोपसंहरति--
 
 > एवं परापरादेव्याः स्वतन्त्रो न्यास उच्यते ॥

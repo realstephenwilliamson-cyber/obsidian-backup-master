@@ -31,5 +31,8 @@ saivādhikāriṇī bhogyatattvayuktimatī kramāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 295–296)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.2–3]]
+
 Jayaratha comments on this verse together with 23.3: see [[Tantraloka 23.003#Viveka|23.3]].
 

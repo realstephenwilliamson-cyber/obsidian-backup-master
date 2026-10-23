@@ -36,6 +36,11 @@ tena śrīkiraṇoktaṃ yadgurutaḥ śāstrataḥ svataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 92–95)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.77–78]]
+>
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.78–79]]
+
 *Lead-in:* अत एवागमोऽप्येवम्, इत्याह --
 
 Jayaratha comments on this verse together with 4.77: see [[Tantraloka 04.077#Viveka|4.77]].

@@ -31,6 +31,9 @@ sūtrābhyāṃ digdvayotthābhyāṃ matsyaḥ syātpratikoṇagaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 68–69)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.6–7]]
+
 > साधयित्वा दिशं पूर्वां सूत्रमास्फालयेत्समम् ॥
 > तदर्धयित्वा मध्यप्राक्प्रतीचीष्वङ्कयेत्पुनः ।
 > ततोऽप्यर्धतदर्धार्धमानतः पूर्वपश्चिमौ ॥

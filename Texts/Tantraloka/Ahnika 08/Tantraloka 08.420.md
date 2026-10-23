@@ -35,5 +35,8 @@ iti pāśeṣu puratrayamitthaṃ puruṣe'tra bhuvanaṣoḍaśakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 381)
+> ![[Tantraloka Dyczkowski v05 11 - Chapter Eight, part 9#Viveka on 8.418–420]]
+
 Jayaratha comments on this verse together with 8.427: see [[Tantraloka 08.427#Viveka|8.427]].
 

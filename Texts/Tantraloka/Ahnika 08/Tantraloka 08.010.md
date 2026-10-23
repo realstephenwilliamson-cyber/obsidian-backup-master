@@ -34,6 +34,9 @@ anāśritaḥ śivastasmādvyāptā tadvyāpakaḥ paraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 58–61)
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.9–10]]
+
 > ब्रह्मानन्तात्प्रधानान्तं विष्णुः पंसः कलान्तगम् ॥
 > रुद्रो ग्रन्थौ च मायायामीशः सादाख्यगोचरे ।
 > अनाश्रितः शिवस्तस्माद्व्याप्ता तद्व्यापकः परः ॥

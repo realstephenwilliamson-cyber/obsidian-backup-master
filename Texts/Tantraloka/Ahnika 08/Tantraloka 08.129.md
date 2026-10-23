@@ -35,6 +35,9 @@ mṛtāstatsiddhisiddhāste vajrāṅke maruti sthitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 167–168)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.129]]
+
 *Lead-in:* एतत्पदप्राप्तौ चैषां निमित्तमाह --
 
 > ये विद्यापौरुषे ये च श्मशानादिप्रसाधने ।

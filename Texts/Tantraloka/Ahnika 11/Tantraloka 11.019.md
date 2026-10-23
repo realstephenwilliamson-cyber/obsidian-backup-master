@@ -34,6 +34,9 @@ pañcaitāni tu tattvāni yairvyāptamakhilaṃ jagat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 11)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.19]]
+
 *Lead-in:* न च स्वोपज्ञमेवैतदुक्तम् -- इत्याह --
 
 > श्रीमत्कालोत्तरादौ च कथितं भूयसा तथा ।

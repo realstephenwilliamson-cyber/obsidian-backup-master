@@ -35,6 +35,9 @@ saṃśayaḥ sa kimityaṃśe vikalpastvanyathā sphuṭaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 425–426)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.251]]
+
 *Lead-in:* ननु यद्येवं तर्हि अत्र वा अर्थसंभेदसम्भवात् नियतस्य च अनिश्चयात् उदितानुदितहोमन्यायेन विकल्प एव भवेत् ? इत्याशङ्क्याह --
 
 > आमर्शनीयद्वैरूप्यानुद्घाटनवशात्पुनः ।

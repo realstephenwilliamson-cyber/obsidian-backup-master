@@ -36,6 +36,11 @@ sitāsitau dīrghahrasvau dharmādharmau dinakṣape || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 297–301)
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.73–74]]
+>
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.74–75]]
+
 *Lead-in:* तदेव पठति -
 
 Jayaratha comments on this verse together with 6.73: see [[Tantraloka 06.073#Viveka|6.73]].

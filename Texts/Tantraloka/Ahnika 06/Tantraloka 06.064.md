@@ -34,6 +34,9 @@ niḥśvasaṃścātra caṣakaḥ sapañcāṃśe'ṅgule'ṅgule || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 274–277)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.64–66]]
+
 *Lead-in:* एतदेव क्रमेण विभजते --
 
 Jayaratha comments on this verse together with 6.65: see [[Tantraloka 06.065#Viveka|6.65]].

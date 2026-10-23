@@ -43,4 +43,4 @@ Pritzker translation (Matt): [[Zohar 8.07 - Parashat Be-Midbar#^z3-117b|Parashat
 
 **Bamidbar 1:17** Observe that at no other enumeration were the Israelites blessed as at this one, which was intended in especial to be attended by a blessing and to put the finishing touch to all worlds.’ R. Judah used to be much in the company of R. Simeon. Once he asked him: ‘Which region is it whence blessings go forth to Israel?’ R. Simeon replied: ‘Woe to the world in that its people do not ponder or reflect on the glory of the Most High King. Observe this. When Israel are found worthy before the Holy One, blessed be He, and are with Him in a certain sacred celestial tree which contains the food of the whole world, then He is blessed from the repository of all the blessings, and Israel below are blessed from the place from which all blessings come, as it says: “Then Lord bless thee out of Zion” (Ps. 134, 3), also, “Like the dew of Hermon that cometh down upon the mountains of Zion; for there the Lord commanded the blessing, even life for ever” (*Ibid.* 133, 3). ^bamidbar-1-17
 
-[^1]: v. T. B. Sanhedrin, 107a.
+[^1]: v. T. B. [[Sanhedrin 107#107a|Sanhedrin, 107a]].

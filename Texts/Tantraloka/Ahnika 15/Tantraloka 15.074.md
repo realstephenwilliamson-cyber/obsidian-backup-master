@@ -31,6 +31,9 @@ tāsāmānandajanakaṃ madyaṃ śivamayaṃ tataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 55–56)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.73–75]]
+
 > यतः शिवमयं मद्यं सर्वे मन्त्राः शिवोद्भवाः ॥
 > शिवशक्त्योर्न भेदोऽस्ति शक्त्ययुस्थास्तु मरीचयः ।
 > तासामानन्दजनकं मद्यं शिवमयं ततः ॥

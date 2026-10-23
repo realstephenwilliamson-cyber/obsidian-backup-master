@@ -37,6 +37,11 @@ bhramayatyeva tānmāyā hyamokṣe mokṣalipsayā |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 325–326)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.332–336]]
+>
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.336–337]]
+
 *Lead-in:* नन्वेवंविधाया अस्याः कथं समुच्छेदः स्यात् ? -- इत्याशङ्क्याह --
 
 > शिवदीक्षासिना च्छिन्ना शिवज्ञानासिना तथा ॥

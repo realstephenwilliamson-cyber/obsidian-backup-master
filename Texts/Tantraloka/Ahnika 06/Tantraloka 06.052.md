@@ -34,6 +34,9 @@ satadanyatamāvātmaprāṇau yatnavidhāyinau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 263–264)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.52]]
+
 *Lead-in:* ननु व्यापकत्वात्सर्वत्राविशेषेऽपि प्राणनस्य क्वचित्स्फुटं तदीयो यत्नः संवेद्यते, क्वचिच्चान्यथेत्यत्र किं निमित्तम् ? -- इत्याशङ्क्याह - -
 
 > प्रभोः शिवस्य या शक्तिर्वामा ज्येष्ठा च रौद्रिका ।

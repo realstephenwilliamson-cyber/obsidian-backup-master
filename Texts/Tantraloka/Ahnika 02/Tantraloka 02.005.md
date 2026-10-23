@@ -34,6 +34,9 @@ ke'pyaṃśāṃśikayā tena viśantyanye niraṃśataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 14–15)
+> ![[Tantraloka Dyczkowski v02 02 - Chapter Two, part 1#Viveka on 2.5]]
+
 *Lead-in:* अत एवाह --
 
 > एतावद्भिरसंख्यातैः स्वभावैर्यत्प्रकाशते ।

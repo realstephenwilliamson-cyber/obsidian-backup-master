@@ -34,6 +34,11 @@ yataściddharma evāsau śāntyādyātmā dvijanmatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 311–312)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.510–511]]
+>
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.511–512]]
+
 *Lead-in:* ननु अयं द्विजत्वापत्त्या रुद्रांशापादनाय योग्यो भवेदिति कस्मादुक्तम्?--इत्याशङ्क्य आह--
 
 > यतश्चिद्धर्म एवासौ शान्त्याद्यात्मा द्विजन्मता ॥

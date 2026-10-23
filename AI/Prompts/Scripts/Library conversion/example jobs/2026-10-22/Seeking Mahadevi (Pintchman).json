@@ -1,0 +1,127 @@
+{
+ "pdf": "/mnt/user-data/uploads/Obsidian Vault/Library/Hinduism/Pintchman (ed.) - Seeking Mahadevi (2001).pdf",
+ "pdf_vault": "Library/Hinduism/Pintchman (ed.) - Seeking Mahadevi (2001).pdf",
+ "catalog": "Catalog/Hinduism/Pintchman (ed.) - Seeking Mahadevi",
+ "route": "pymupdf",
+ "title": "Seeking Mahādevī: Constructing the Identities of the Hindu Great Goddess",
+ "authors": [],
+ "byline": ". State University of New York Press, Albany, 2001.",
+ "folder": "Library/Hinduism/Seeking Mahadevi (Pintchman)",
+ "index_name": "Seeking Mahadevi (Pintchman)",
+ "prefix": "Seeking Mahadevi",
+ "out": "/home/claude/p4/out",
+ "date": "2026-10-22",
+ "ctype": "collection",
+ "single": false,
+ "text_source": "PDF text layer (born-digital), PyMuPDF; the font's own letter codes for the diacritics (Å for ā, ç for ī, æ for ṇ and so on) mapped to the right letters",
+ "toc": [
+  [
+   1,
+   "Acknowledgments",
+   12
+  ],
+  [
+   1,
+   "A Note on Transliteration and Pronunciation",
+   14
+  ],
+  [
+   1,
+   "Introduction - Identity Construction and the Hindu Great Goddess (Tracy Pintchman)",
+   16
+  ],
+  [
+   1,
+   "1. The Tantric and Vedantic Identity of the Great Goddess in the Devi Gita (C. Mackenzie Brown)",
+   34
+  ],
+  [
+   1,
+   "2. Mahadevi as Mother - The Oriya Hindu Vision of Reality (Usha Menon)",
+   52
+  ],
+  [
+   1,
+   "3. Ambiguous and Definitive - The Greatness of Goddess Vaisno Devi (Mark Edwin Rohe)",
+   70
+  ],
+  [
+   1,
+   "4. The Goddess as Fount of the Universe (Tracy Pintchman)",
+   92
+  ],
+  [
+   1,
+   "5. Waves of Beauty, Rivers of Blood - Constructing the Goddess in Kerala (Sarah Caldwell)",
+   108
+  ],
+  [
+   1,
+   "6. From Village to City - Transforming Goddesses in Urban Andhra Pradesh (Sree Padma)",
+   130
+  ],
+  [
+   1,
+   "7. Reconstructing the Split Goddess as Sakti in a Tamil Village (Elaine Craddock)",
+   160
+  ],
+  [
+   1,
+   "8. Perfecting the Mother's Silence (Jeffrey J. Kripal)",
+   186
+  ],
+  [
+   1,
+   "9. Goddesses and the Goddess in Hinduism (Kathleen M. Erndl)",
+   214
+  ],
+  [
+   1,
+   "10. What Is a Goddess and What Does It Mean to Construct One (Thomas B. Coburn)",
+   228
+  ],
+  [
+   1,
+   "Glossary",
+   238
+  ],
+  [
+   1,
+   "References",
+   242
+  ],
+  [
+   1,
+   "Contributors",
+   258
+  ],
+  [
+   1,
+   "Index",
+   262
+  ]
+ ],
+ "charmap": {
+  "Å": "ā",
+  "ç": "ī",
+  "æ": "ṇ",
+  "„": "ṣ",
+  "÷": "Ś",
+  "±": "ś",
+  "Ë": "ṉ",
+  "Ÿ": "ṛ",
+  "Ø": "ḍ",
+  "¬": "ḷ",
+  "â": "ū",
+  "‡": "ṭ",
+  "Ù": "ṅ",
+  "Æ": "ē",
+  "Ä": "Ā",
+  "œ": "ṃ",
+  "Ü": "Ī",
+  "ÿ": "Ṛ",
+  "•": "ḥ",
+  "¤": "ṟ",
+  "ﬁ": "ṃ"
+ }
+}

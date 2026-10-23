@@ -35,6 +35,9 @@ svaryānti tatkṣaye lokaṃ mānuṣyaṃ puṇyaśeṣataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 181–182)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.148]]
+
 *Lead-in:* केषां चात्र निवासः ? -- इत्याह --
 
 > इतश्च क्रतुहोत्रादि कृत्वा ज्ञानविवर्जिताः ।

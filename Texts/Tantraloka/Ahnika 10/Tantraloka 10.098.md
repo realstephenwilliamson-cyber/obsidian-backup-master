@@ -35,6 +35,13 @@ yattūcyate kalādyena dharāntena samanvitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 358–360)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.97–98]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.98–99]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.98–100]]
+
 *Lead-in:* इत्युक्त्या कलान्तं सकलस्यावस्थानं तत्कथमव्यक्तान्तमस्य प्रमातृत्वमुक्तम् ? -- इत्याशङ्क्याह --
 
 > यत्तूच्यते कलाद्येन धरान्तेन समन्विताः ॥

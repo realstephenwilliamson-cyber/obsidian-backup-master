@@ -36,6 +36,11 @@ saṃvedyabhedānna jñānaṃ bhinnaṃ śikharivṛttavat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 12–15)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.23–24]]
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.24]]
+
 *Lead-in:* ननु प्राणग्रासक्रमेण कालस्यापि ग्रासो वृत्तः, -- इति तदाहितश्चेत्संविदि भेदो नास्ति तज्ज्ञेयाहितो भविष्यति येनेदं नीलज्ञानमिदं पीतज्ञानमिति विभागः, इत्येतावतैव कथमेकत्वमस्याः सिद्ध्येत् ? -- इत्याशङ्क्याह --
 
 > संवेद्यभेदान्न ज्ञानं भिन्नं शिखरिवृत्तवत् ॥

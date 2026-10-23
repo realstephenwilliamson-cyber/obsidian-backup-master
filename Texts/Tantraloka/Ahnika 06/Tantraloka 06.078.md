@@ -36,6 +36,11 @@ saṃvitpratikṣaṇaṃ yasmātprakāśānandayoginī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 303–306)
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.77–78]]
+>
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.78–79]]
+
 > संवित्प्रतिक्षणं यस्मात्प्रकाशानन्दयोगिनी ॥
 > तौ कॢप्तौ यावति तया तावत्येव दिनक्षपे ।
 

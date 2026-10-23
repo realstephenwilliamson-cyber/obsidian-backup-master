@@ -34,6 +34,11 @@ avaśyapālanīyatvātparatattvena saṅgamāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 347)
+> ![[Tantraloka Dyczkowski v08 10 - Chapter Fifteen, part 9#Viveka on 15.608–609]]
+>
+> ![[Tantraloka Dyczkowski v08 10 - Chapter Fifteen, part 9#Viveka on 15.609–610]]
+
 *Lead-in:* ननु अत्र समयशब्दस्य प्रवृत्तौ किं निमित्तम्?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 15.608: see [[Tantraloka 15.608#Viveka|15.608]].

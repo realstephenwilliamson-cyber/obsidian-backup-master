@@ -31,6 +31,9 @@ samastadevatādhāre praviṣṭaḥ ko na siddhyati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 352)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.183–185]]
+
 > शून्यरूपे श्मशानेऽस्मिन् योगिनीसिद्धसेविते ।
 > क्रीडास्थाने महारौद्रे सर्वास्तमितविग्रहे ॥
 > स्वरश्मिमण्डलाकीर्णे ध्वंसितध्वान्तसन्ततौ ।

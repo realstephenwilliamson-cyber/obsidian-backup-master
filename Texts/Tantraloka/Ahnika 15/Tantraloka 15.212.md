@@ -31,6 +31,9 @@ diśāṃ vibhāgaṃ kurute prakāśaghanavṛttimān || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 131)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.212]]
+
 *Lead-in:* एवं शास्त्रीयं दिग्विभागमभिधाय, लौकिकमपि अभिधत्ते--
 
 > ततो ब्रह्माण्डमध्येऽपि ज्ञानशक्तिर्विभो रविः ।

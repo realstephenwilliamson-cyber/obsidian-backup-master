@@ -36,6 +36,11 @@ yatra ko'pi vyavacchedo nāsti yadviśvataḥ sphurat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 47–54)
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.50]]
+>
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.50–52]]
+
 *Lead-in:* अत्रैव हेतूपन्यासः --
 
 > नह्यत्र संस्थितिः कापि विभक्ता जडरूपिणः ।

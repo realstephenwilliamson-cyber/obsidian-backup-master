@@ -36,6 +36,11 @@ iyataiva śivaṃ yāyāt sadyo bhogān vibhujya vā |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 180–184)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.96–97]]
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.97–99]]
+
 *Lead-in:* ननु शिवं यायादित्यत्र उक्त एव योजनिकाक्रमः किं निमित्तमुतान्यदपि किंचित्?--इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 17.96: see [[Tantraloka 17.096#Viveka|17.96]].

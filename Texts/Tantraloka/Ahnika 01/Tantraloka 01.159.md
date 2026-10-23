@@ -34,6 +34,9 @@ ekaḥ śiva itīyaṃ vāgvastuśūnyaiva jāyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 333–334)
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.159]]
+
 *Lead-in:* ननु यदि काणादादिदर्शनवत् इहापि धर्मधर्मिभावस्य निरूपणं क्रियते, तदा को दोषः स्यात्? इत्याशङ्क्याह -
 
 > ततश्च दृक्किर्येच्छाद्या भिन्नाश्चेच्छक्तयस्तथा ।

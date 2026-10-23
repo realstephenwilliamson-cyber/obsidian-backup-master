@@ -35,6 +35,9 @@ ghaṭasya na hi bhogyatvaṃ svaṃ vapurmātṛgaṃ hi tat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 306–308)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.186–188]]
+
 > चन्द्रश्च नाम नैवान्यो भोग्यं भोक्तुश्च नापरम् ॥
 > भोक्तैव भोग्यभावेन द्वैविध्यात्संव्यवस्थितः ।
 > घटस्य न हि भोग्यत्वं स्वं वपुर्मातृगं हि तत् ॥

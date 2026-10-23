@@ -31,6 +31,9 @@ mṛtirnaṣṭasmṛtereva mṛteḥ prāk sā'stu kiṃ tayā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 135–136)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.314–315]]
+
 *Lead-in:* तदेव पदशो व्याचष्टे--
 
 Jayaratha comments on this verse together with 28.315: see [[Tantraloka 28.315#Viveka|28.315]].

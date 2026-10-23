@@ -33,6 +33,11 @@ yattu pramātmakaṃ rūpaṃ pramāturupari sthitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 463–466)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.263–264]]
+>
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.264–265]]
+
 *Lead-in:* इदानीं क्रमप्राप्तं तुर्यं लक्षयति --
 
 Jayaratha comments on this verse together with 10.263: see [[Tantraloka 10.263#Viveka|10.263]].

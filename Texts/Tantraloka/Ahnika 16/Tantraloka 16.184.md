@@ -34,6 +34,9 @@ hatvā vadetprasaṃkhyānaṃ svabhyastajñānasiddhaye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 80)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.184]]
+
 > तथाहि वक्त्रैर्यस्याध्वा शुद्धस्तैरेव योजितः ।
 > भोक्तुमिष्टे क्वचित्तत्त्वे स भोक्ता तद्बलान्वितः ॥
 > शुभानां कर्मणां चात्र सद्भावे भोगचित्रता ।

@@ -34,6 +34,9 @@ yasyāṃ sphuṭe paraṃ tvasyāṃ saṅkocaḥ pūrvanītitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 395–396)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.217–218]]
+
 *Lead-in:* तदेव प्रकृते योजयति --
 
 Jayaratha comments on this verse together with 1.218: see [[Tantraloka 01.218#Viveka|1.218]].

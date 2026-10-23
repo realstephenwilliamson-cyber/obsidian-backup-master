@@ -42,7 +42,7 @@ Text: [[NRSVue Romans 06|NRSVue]] · [[Romans 06|BSB and SBLGNT]] · Introductio
 
 **[[NRSVue Romans 06#^6-17|17]]:** *Form of teaching*, Paul may be alluding to a specific code applicable to Gentile Christ-followers, such as the Apostolic Decree ([[Acts 15#^15-19|Acts 15.19–21]],[[Acts 15#^15-27|27–32]]; [[Acts 16#^16-4|16.4–5]]) in lieu of the instruction not to undertake proselyte conversion. *From the heart*, with deep intention. ^6-17
 
-**[[NRSVue Romans 06#^6-19|19]]:** *In human terms*, using an analogy to the human institution of slavery; rabbinic literature often notes that the Bible speaks in human language (Heb “dibrah torah kilshon bnai adam”— e.g., *b. Ned.* 3a). *Your natural limitations*, lit., the weakness of your flesh, i.e., habits of behaving sinfully, see 1.18–32; *iniquity*, lit., “lawlessness,” as described in 1.18–32. ^6-19
+**[[NRSVue Romans 06#^6-19|19]]:** *In human terms*, using an analogy to the human institution of slavery; rabbinic literature often notes that the Bible speaks in human language (Heb “dibrah torah kilshon bnai adam”— e.g., [[Nedarim 3#3a|*b. Ned.* 3a]]). *Your natural limitations*, lit., the weakness of your flesh, i.e., habits of behaving sinfully, see 1.18–32; *iniquity*, lit., “lawlessness,” as described in 1.18–32. ^6-19
 
 **[[NRSVue Romans 06#^6-20|20]]:** *Slaves*, see 6.16n. *Free in regard to righteousness*, not obligated to do the right things as defined by Israel’s God. ^6-20
 

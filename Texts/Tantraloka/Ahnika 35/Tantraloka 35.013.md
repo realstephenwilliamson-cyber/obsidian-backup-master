@@ -33,6 +33,11 @@ bahusarvajñapūrvatve na mānaṃ cāsti kiñcana || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 197–198)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.12–13]]
+>
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.13]]
+
 *Lead-in:* ननु एवमपि असर्वज्ञवत् सर्वज्ञान्तरपूर्वत्वेनैव सर्वज्ञस्यापि प्रसिद्धिरस्तु, किं तत्र अस्या निष्टङ्केन भानेन?--इत्याशङ्क्य आह--
 
 > बहुसर्वज्ञपूर्वत्वे न मानं चास्ति किञ्चन ॥

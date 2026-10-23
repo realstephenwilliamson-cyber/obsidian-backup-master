@@ -33,6 +33,11 @@ na khalveṣa śivaḥ śānto nāma kaścidvibhedavān || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 158–159)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.262–264]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.264–265]]
+
 *Lead-in:* शांभवपरमार्थावेदनमेव उपपादयति--
 
 > न खल्वेष शिवः शान्तो नाम कश्चिद्विभेदवान् ॥

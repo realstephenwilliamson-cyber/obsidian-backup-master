@@ -36,6 +36,11 @@ pūrvaṃ hi bhogātpaścādvā śaṅkeyaṃ vyavatiṣṭhate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 224–226)
+> ![[Tantraloka Dyczkowski v03 07 - Chapter Four, part 6#Viveka on 4.155–156]]
+>
+> ![[Tantraloka Dyczkowski v03 07 - Chapter Four, part 6#Viveka on 4.156]]
+
 *Lead-in:* नन्वेवं शङ्कमानः प्रमाता कार्याकार्ययोर्निश्चयानुत्पादात् न किञ्चिदप्यनुतिष्ठेत्, इति किमस्य शुभाशुभतया फलेत् ? -- इत्याशङ्क्याह --
 
 > पूर्वं हि भोगात्पश्वाद्वा शङ्केयं व्यवतिष्ठते ॥

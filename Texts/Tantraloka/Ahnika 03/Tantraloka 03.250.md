@@ -36,6 +36,11 @@ kṣobharūpātpunastāsāmuktāḥ ṣaṭ saṃvido'malāḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 373–375)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.250]]
+>
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.250–251]]
+
 *Lead-in:* इदानीं विभागाभासनमेव प्रपञ्चयति --
 
 > क्षोभरूपात्पुनस्तासामुक्ताः षट् संविदोऽमलाः ।

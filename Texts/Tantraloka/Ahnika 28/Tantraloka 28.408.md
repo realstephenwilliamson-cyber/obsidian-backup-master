@@ -31,6 +31,9 @@ avikalpamaterna syuḥ prāyaścittāni yadyapi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 189)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.408–409]]
+
 *Lead-in:* ननु इदं कार्यमिदं न कार्यमिति शास्त्रीया नियन्त्रणा हि समयः । स च निर्विकल्पानां नास्तीति कथमेतदविशेषेण उक्तम् ?--इत्याशङ्क्य आह--
 
 > अविकल्पमतेर्न स्युः प्रायश्चित्तानि यद्यपि ॥

@@ -35,6 +35,9 @@ dīpavajjvalito bindurbhāsate vighanārkavat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 203–204)
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.148–150]]
+
 > संहारन्रग्निमरुतो रुद्रबिन्दुयुतान्स्मरेत् ॥
 > हृदये तन्मयो लक्ष्यं पश्येत्सप्तदिनादथ ।
 > विस्फुलिङ्गाग्निवन्नीलपीतरक्तादिचित्रितम् ॥

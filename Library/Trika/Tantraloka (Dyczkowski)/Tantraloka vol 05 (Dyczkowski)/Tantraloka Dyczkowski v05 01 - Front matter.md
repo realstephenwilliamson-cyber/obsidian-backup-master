@@ -84,11 +84,11 @@ It is important also to acknowledge that Swamiji exemplified a method — a way 
 
 While Swami Laksmaṇajoo was a great master of inner, yogic practice, in Nepal I was introduced into the vast and complex world of Newar Kaula ritual by Kedararāja Rajopādhyāya, whose ancestors were the purohitas and Tantric gurus of the Malla kings of Bhaktapur. Kedararāja generously gave me his time and courageously braved the possible consequences of transmitting such matters outside the circle of his initiates. 
 
-Pt. Vrajavallabha Dvivedi, former head of the Yogatantra Department at Sarnpūrṇānanda Sanskrit University, was an abiding source of inexhaustible knowledge. Indeed, his scholarly work, both in Sanskrit and Hindi, is formidable ~ ranging as it does through virtually every major Tantric tradition including not only Kashmiri Śaivism, but also Śaiva Siddhānta, Vīra Śaivism, Śrīvidyā, the Kaula Tantras, Vaiṣṇava Pañcarātra, the Buddhist Anuttarayoga Tantras and even Jain Tantrism. 
+Pt. Vrajavallabha Dvivedi, former head of the Yogatantra Department at Saṁpūrṇānanda Sanskrit University, was an abiding source of inexhaustible knowledge. Indeed, his scholarly work, both in Sanskrit and Hindi, is formidable ~ ranging as it does through virtually every major Tantric tradition including not only Kashmiri Śaivism, but also Śaiva Siddhānta, Vīra Śaivism, Śrīvidyā, the Kaula Tantras, Vaiṣṇava Pañcarātra, the Buddhist Anuttarayoga Tantras and even Jain Tantrism. 
 
-In other areas of study, I cannot but recall with gratitude Pt. B. P. Tripathi, better known as Vāgīśa Sastri, , former Director of the Research Department of Sarùpūrṇānanda Sanskrit University, who labored for years to teach me Sanskrit grammar both in the traditional manner through the Siddhāntakaumudī and through his own didactic method. 
+In other areas of study, I cannot but recall with gratitude Pt. B. P. Tripathi, better known as Vāgīśa Sastri, , former Director of the Research Department of Saṁpūrṇānanda Sanskrit University, who labored for years to teach me Sanskrit grammar both in the traditional manner through the Siddhāntakaumudī and through his own didactic method. 
 
-Although I have not studied formally with Prof. K. D. Tripathi, retired dean of the Sanskrit college of Banaras Hindu University, I cannot but acknowledge that the many lectures I have heard him deliver and dialogues I have had with him over the years inspired and helped me very much to understand Pratyabhijñā, Bhartrhari’s philosophy of grammar, Abhinavagupta’s aesthetics and the Śaiva Āgamas. In a similar way, I had the good fortune to listen to many lectures and attend classes on the Nāṭyaśastra with Abhinavagupta’s commentary by the late Premalata Sharma, formerly Dean of 
+Although I have not studied formally with Prof. K. D. Tripathi, retired dean of the Sanskrit college of Banaras Hindu University, I cannot but acknowledge that the many lectures I have heard him deliver and dialogues I have had with him over the years inspired and helped me very much to understand Pratyabhijñā, Bhartṛhari’s philosophy of grammar, Abhinavagupta’s aesthetics and the Śaiva Āgamas. In a similar way, I had the good fortune to listen to many lectures and attend classes on the Nāṭyaśastra with Abhinavagupta’s commentary by the late Premalata Sharma, formerly Dean of 
 
 *[p. m]* ^pg7
 
@@ -164,7 +164,7 @@ The Thirty-five Hells of Avīci, Kumbhīpāka and Mahāraurava, verses 24cd-30ab
 
 The Cities Surrounding Meru, verses 45cd-58ab, pages 100-109 The Four Mountains Surrounding Mount Meru, verses 58cd-62ab, pages 109-111 The Forests, Lakes and Trees on the Mountains, verses 60cd-62ab, pages 110-111 Jambudvīpa and its Nine Principal Regions, verses 62cd-63ab, page 111 The Nine Mountain Chains around Meru, verses 63cd-67, pages 111-117 The Regions around Meru, verses 68-79, pages 117-127 
 
-Ilāvrta, verse 68, pages 117-118 West of Meru: Ketumāla and its Seven Mountains - West of Gandhamādana, verse 69, pages 119 East of Meru: Bhadrāśva with five mountains — east of Mālyavat, verses 70-71, pages 119-121 North of Meru: The Land of Kuru, verses 72-73, pages 121-123 North of Meru: Hiraṇnyamaya, verse 74, page 124 North of Meru: Ramyaka, verse 75, page 124 South of Meru: Hari, verse 76, page 125 South of Meru: The Land of the Kinnaras and Bhārata, verses 77- 79, pages 125-127 The Land of Bhārata, verses 80-83, pages 128-132 The Nine Regions of Bhārata, verse 84, page 132 The Seven Mountains, Six Islands and Inhabitants of Kumārikā, verses 85-92, pages 132-140 Rulers of the Lands of Jambūdvīpa, verses 93-96, pages 140-141 The Ocean of Salt and the Twelve Mountains around Jambūdvīpa, verses 97-98, pages 142-143 Mount Vidyutvat, verses 99-101, pages 143-144 Six Islands and Seas beyond Jambūdvīpa and the Ocean of Salt, verses 
+Ilāvṛta, verse 68, pages 117-118 West of Meru: Ketumāla and its Seven Mountains - West of Gandhamādana, verse 69, pages 119 East of Meru: Bhadrāśva with five mountains — east of Mālyavat, verses 70-71, pages 119-121 North of Meru: The Land of Kuru, verses 72-73, pages 121-123 North of Meru: Hiraṇnyamaya, verse 74, page 124 North of Meru: Ramyaka, verse 75, page 124 South of Meru: Hari, verse 76, page 125 South of Meru: The Land of the Kinnaras and Bhārata, verses 77- 79, pages 125-127 The Land of Bhārata, verses 80-83, pages 128-132 The Nine Regions of Bhārata, verse 84, page 132 The Seven Mountains, Six Islands and Inhabitants of Kumārikā, verses 85-92, pages 132-140 Rulers of the Lands of Jambūdvīpa, verses 93-96, pages 140-141 The Ocean of Salt and the Twelve Mountains around Jambūdvīpa, verses 97-98, pages 142-143 Mount Vidyutvat, verses 99-101, pages 143-144 Six Islands and Seas beyond Jambūdvīpa and the Ocean of Salt, verses 
 
 102-107ab (102-106), pages 144-150 
 
@@ -198,7 +198,7 @@ The Hundred Eggs According to the Siddhātantra, verses 184cd-186ab
 
 (184-185), pages 207-208 
 
-The Sizes of the Principles from Water to iva as stages to liberation, verses 186cd-193 (186-193ab), pages 208-216 The Worlds of Water and the Other Elements 
+The Sizes of the Principles from Water to Śiva as stages to liberation, verses 186cd-193 (186-193ab), pages 208-216 The Worlds of Water and the Other Elements 
 
 The World of Bhadrakālī, verses 194-196 (193cd-196ab), pages 217-219 The World of Vīrabhadra, verses 197-199 (196cd-199ab), pages 219-221 The Thirteen Worlds between Bhadrakālī and Vīrabhadra, verses 
 
@@ -230,7 +230,7 @@ The Worlds of the Rudras of the Ego and the Eight Beings of the Intellect, verse
 
 The Worlds of Umā and Śrīkantha, verses 238cd-241 (238-241ab), pages 256-257 
 
-Umāã’s Seven Forms as the Seven Mothers, verses 242-244 
+Umā’s Seven Forms as the Seven Mothers, verses 242-244 
 
 (241cd-244ab), pages 257-259 
 
@@ -290,7 +290,7 @@ The Worlds of the Five Kañcukas, verses 295cd-298 (294-298ab), pages 300-303 M�
 
 The Knot of Māyā (māyāgranthi): The Three Cavities of Māyā and the Twelve Rudras, verses 317cd-320ab (317-319), pages 314-316 
 
-Two Groups of Six Rudras According to the Matañṁgatantra, verses 320cd-321cd (320-321ab), pages 316-317 
+Two Groups of Six Rudras According to the Mataṅgatantra, verses 320cd-321cd (320-321ab), pages 316-317 
 
 The Principle of Māyā (māyātattva), verses 322ab-337 (321cd-337ab), pages 317- 325 
 
@@ -308,7 +308,7 @@ The Succession of the Eight Vidyeśvaras according to the
 
 Liberation as the Elimination of all Terms of Office to Attain 
 
-Transcendental iva 353-355 (352cd-355ab), pages 342- 
+Transcendental Śiva 353-355 (352cd-355ab), pages 342- 
 
 344 
 
@@ -328,7 +328,7 @@ The Supreme Form of Sadāśiva, verses 386cd-390ab (386-389), pages
 
 The Worlds up to Anāśrita 
 
-The World of Suṣumnā, verses 390cd-394ab (390-393), pages 362-365 The Cavity of Brahmā, verses 394cd-396a (394-395abc), pages 365-367 The World of the Principle of Power and Raised Kunṇqdalinī, verses 396b- 397 (395d-397ab), pages 367-369 The World of Anāśrita the Unemerged, verses 398-400ab (397cd-399), pages 369-372 The Equal One (Samanā), verses 400cd-402 (400-402ab), pages 372-373 Anāśrita Presides Over the Five Causes, verses 403ab-406 (402cd-406ab), pages 373-375 A Summary of the Worlds (purasahgraha) Taught in the Svacchandatantra Distributed in the Five Kalās, verses 407-428ab (406cd-427), pages 375- 384 The Worlds according to the Matañgatantra, verses 428cd-436 (428-436ab), pages 384-388 The Worlds according to the Mālinīvijayottara, verses 437-452 (436cd-452b), pages 388-397 
+The World of Suṣumnā, verses 390cd-394ab (390-393), pages 362-365 The Cavity of Brahmā, verses 394cd-396a (394-395abc), pages 365-367 The World of the Principle of Power and Raised Kunṇqdalinī, verses 396b- 397 (395d-397ab), pages 367-369 The World of Anāśrita the Unemerged, verses 398-400ab (397cd-399), pages 369-372 The Equal One (Samanā), verses 400cd-402 (400-402ab), pages 372-373 Anāśrita Presides Over the Five Causes, verses 403ab-406 (402cd-406ab), pages 373-375 A Summary of the Worlds (purasahgraha) Taught in the Svacchandatantra Distributed in the Five Kalās, verses 407-428ab (406cd-427), pages 375- 384 The Worlds according to the Mataṅgatantra, verses 428cd-436 (428-436ab), pages 384-388 The Worlds according to the Mālinīvijayottara, verses 437-452 (436cd-452b), pages 388-397 
 
 Appendices to Volume Five 
 
@@ -342,7 +342,7 @@ Appendix to Chapter Eight: The Path of the Worlds, pages 400-41 1
 
 Abbreviations 
 
-Ajadapramātrsiddhi Asiatic Society of Bengal Atharvaveda Bodleian Library, Oxford Brahmayāmala Bhagavadgītā Bhogakārikā B,ṁadāranyakopaṇiṣad Chandogyopaniṣad Ciñcinīmatasārasamuccaya Dharmālaṁkārakārikā Devīdyvardhaśatikā Devīpañcaśataka Dhvanyālokālocana Government Oriental Manuscript Library, University of Chennai History of Dharmaśāstra Indo-Iranian Journal Iśvarapratyabhijñāvimarśinī Iśvarapratyabhijñāvivrtivimarśinī Institut Français d'Indologie de Pondichéry Istituto Studi Medio ed Estremo Oriente Isānaśivagurudevapaddhati Journal Asiatique Journal of the Asiatic Society of Bombay Journal of the Royal Asiatic Society Jayadrathayāmala Kashmiri Series Edition Kaulajñānanirnaya Kramanayapradīpikā Kumārikākhanda of the Manthānabhairavatantra Kulapañcaśikā KhCPS 
+Ajadapramātṛsiddhi Asiatic Society of Bengal Atharvaveda Bodleian Library, Oxford Brahmayāmala Bhagavadgītā Bhogakārikā B,ṁadāranyakopaṇiṣad Chandogyopaniṣad Ciñcinīmatasārasamuccaya Dharmālaṁkārakārikā Devīdyvardhaśatikā Devīpañcaśataka Dhvanyālokālocana Government Oriental Manuscript Library, University of Chennai History of Dharmaśāstra Indo-Iranian Journal Iśvarapratyabhijñāvimarśinī Iśvarapratyabhijñāvivṛtivimarśinī Institut Français d'Indologie de Pondichéry Istituto Studi Medio ed Estremo Oriente Isānaśivagurudevapaddhati Journal Asiatique Journal of the Asiatic Society of Bombay Journal of the Royal Asiatic Society Jayadrathayāmala Kashmiri Series Edition Kaulajñānanirnaya Kramanayapradīpikā Kumārikākhanda of the Manthānabhairavatantra Kulapañcaśikā KhCPS 
 
 Khacakrapañcakastotra KM 
 
@@ -372,7 +372,7 @@ Mahānayaprakāśa by unknown author published in Trivendrum.
 
 MP (3 AS) 
 
-Mahānayaprakāśa by Arṇasirnha MS 
+Mahānayaprakāśa by Arṇasiṁha MS 
 
 Manuscript 
 
@@ -384,15 +384,15 @@ Monier-Williams Mund
 
 Mundaka Upaniṣad MT 
 
-Mrgendratantra MrTvK 
+Mṛgendratantra MrTvK 
 
-Mrgendratantravrtti Kriyāpāda 
+Mṛgendratantravṛtti Kriyāpāda 
 
 MrKri 
 
-Mrgendratantra Kriyāpāda MrV 
+Mṛgendratantra Kriyāpāda MrV 
 
-Mrgendratantra Vidyāpāda NGMPP 
+Mṛgendratantra Vidyāpāda NGMPP 
 
 Nepal German Manuscript Preservation Project NṢA 
 
@@ -434,7 +434,7 @@ Pramānavārtika PVi
 
 Pramānṇaviniścaya रपा
 
-Pratyabhijñāhrdaya 
+Pratyabhijñāhṛdaya 
 
 RSO 
 
@@ -476,13 +476,13 @@ Spandanirnaya SpPra
 
 Spandapradīpikā 
 
-SpSarh 
+SpSaṁ 
 
-6 andasarhndoha 
+6 andasaṁndoha 
 
 ŚDr 
 
-ivadrṣṭi 
+Śivadṛṣṭi 
 
 Śsū 
 
@@ -524,6 +524,6 @@ Tattvatrayaparīkṣā TĀ
 
 Tantrāloka Tattvārthacintāmani 
 
-Trika āstra Rahasya Prakriyā 
+Trika Śāstra Rahasya Prakriyā 
 
 Tantrasāra Tantrasadbhāva Tantroccaya Taittirīyopaniṣad Tantravatadhānikā Trisirobhairava ÜŪrmikaulāraṇvatantra Vijñānabhairava Vāmakeśvarīmata Vātulanāthasūtra Yogavāsiṣta Yonigahvaratantra Upaniṣad laghu guru commentary comm.

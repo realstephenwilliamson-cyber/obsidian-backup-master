@@ -37,6 +37,11 @@ tatra na bhuvanavibhāgo yukto granthāvasau tasmāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 318)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.322]]
+>
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.322 (2)]]
+
 *Lead-in:* अत आह --
 
 > मायातत्त्वं विभु किल गहनमरूपं समस्तविलयपदम् ।

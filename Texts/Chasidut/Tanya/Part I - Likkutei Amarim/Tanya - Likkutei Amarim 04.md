@@ -63,13 +63,13 @@ Likewise, when the king, for his part, embraces one with his arm, even though it
 [^13]: [[Isaiah 40#^40-28|Isaiah 40:28]].
 [^14]: [[Job 11#^11-7|Job 11:7]].
 [^15]: [[Isaiah 55#^55-8|Isaiah 55:8]].
-[^16]: Megillah 31a. This is interpreted to mean that G–d combines the powers of expansion (“greatness”) and contraction (“humility”), which come into play in the process of *tzimtzum*. Cf. *Zohar* [[Zohar 2.05 - Parashat Toledot#^z1-140a|I:140a]]; [[Zohar 5.03 - Parashat Mishpatim#^z2-99a|II:99a]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-58a|III:58a]], [[Zohar 9.03 - Parashat Shelah Lekha#^z3-159a|159a]].
-[^17]: Bava Kama 17a.
+[^16]: [[Megillah 31#31a|Megillah 31a]]. This is interpreted to mean that G–d combines the powers of expansion (“greatness”) and contraction (“humility”), which come into play in the process of *tzimtzum*. Cf. *Zohar* [[Zohar 2.05 - Parashat Toledot#^z1-140a|I:140a]]; [[Zohar 5.03 - Parashat Mishpatim#^z2-99a|II:99a]]; [[Zohar 7.08 - Parashat Aharei Mot#^z3-58a|III:58a]], [[Zohar 9.03 - Parashat Shelah Lekha#^z3-159a|159a]].
+[^17]: [[Bava Kamma 17#17a|Bava Kama 17a]].
 [^18]: [[I Samuel 25#^25-29|I Samuel 25:29]].
 [^19]: [[Psalms 018#^18-3|Psalms 18:3]].
 [^20]: [[Psalms 005#^5-13|Psalms 5:13]].
 [^21]: *Avot* 4:17.
-[^22]: *Berachot* 16b.
+[^22]: [[Berakhot 16#16b|*Berachot* 16b]].
 [^23]: I.e., the “glow” of the *Shechinah*, not the *Shechinah* itself. Note the author’s interpretation of זיו in this context as a remote gleam, a mere reflection.
 [^24]: [[Song of Songs 8#^8-3|Song of Songs 8:3]].
 [^25]: Deuteronomy 35:2.

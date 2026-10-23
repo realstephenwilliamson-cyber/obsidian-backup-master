@@ -36,6 +36,11 @@ nairmalyaṃ saṃvidaścedaṃ pūrvābhyāsavaśādatho || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 363–364)
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.184–185]]
+>
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.185–186]]
+
 *Lead-in:* -- इत्याह --
 
 > नैर्मल्यं संविदश्चेदं पूर्वाभ्यासवशादथो ॥

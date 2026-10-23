@@ -37,6 +37,11 @@ bāhyārthasamayāpekṣā ghaṭādyā dhvanayo'pi ye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 182–184)
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.133–134]]
+>
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.134–135]]
+
 *Lead-in:* न केवलं वाच्यार्थाव्यतिरेकिणो लोकोत्तरा मान्त्रा वर्णा एवं यावल्लौकिका अपि -- इत्याह --
 
 > बाह्यार्थसमयापेक्षा घटाद्या ध्वनयोऽपि ये ॥

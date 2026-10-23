@@ -50,7 +50,7 @@ Text: [[NRSVue John 12|NRSVue]] · [[John 12|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 12#^12-24|24]]:** Jesus apparently refuses to meet with the Greeks. *Grain*, see [[1 Corinthians 15#^15-36|1 Cor 15.36]]. ^12-24
 
-**[[NRSVue John 12#^12-28|28]]:** *Voice . . . from heaven*, a rare form of direct revelation, called a “bat qol,” wages for a laborer c Gk lacks *She bought it* d Other ancient authorities read *with him began to testify that he had called . . . from the dead* “daughter of the voice,” or “echo” in rabbinic Judaism (cf. 11.41–43). See, e.g., *b. Eruv.* 13b. ^12-28
+**[[NRSVue John 12#^12-28|28]]:** *Voice . . . from heaven*, a rare form of direct revelation, called a “bat qol,” wages for a laborer c Gk lacks *She bought it* d Other ancient authorities read *with him began to testify that he had called . . . from the dead* “daughter of the voice,” or “echo” in rabbinic Judaism (cf. 11.41–43). See, e.g., [[Eruvin 13#13b|*b. Eruv.* 13b]]. ^12-28
 
 **[[NRSVue John 12#^12-29|29]]:** *Thunder*, see the Israelites’ response at Mt. Sinai ([[Torah 17 - Yitro#^19-18|Ex 19.18–19]]). Heb “qol,” at Sinai (esp. [[Torah 17 - Yitro#^19-19|Ex 19.19]]), may be voice or thunder. ^12-29
 

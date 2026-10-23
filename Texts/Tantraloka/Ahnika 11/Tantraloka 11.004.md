@@ -34,6 +34,9 @@ tattvānāṃ sā kaletyuktā dharaṇyāṃ dhārikā yathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 2)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.4]]
+
 *Lead-in:* अत्रैव पक्षान्तरं प्रदर्शयति --
 
 > केचिदाहुः पुनर्याऽसौ शक्तिरन्तः सुसूक्ष्मिका ।

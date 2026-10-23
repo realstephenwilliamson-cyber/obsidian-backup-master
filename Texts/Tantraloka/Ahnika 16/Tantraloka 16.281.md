@@ -35,6 +35,9 @@ gṛhṇāti bhāsanopāyaṃ bhāte tatra tu tena kim || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 126)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.281]]
+
 *Lead-in:* नन्वस्य मान्त्रं सञ्जल्पमभ्यस्यतो भाव्यवस्तुसाक्षात्कारः कथं स्यात्?--इत्याशङ्क्याह--
 
 > वस्त्वेव भावयत्येष न सञ्जल्पमिमं पुनः ।

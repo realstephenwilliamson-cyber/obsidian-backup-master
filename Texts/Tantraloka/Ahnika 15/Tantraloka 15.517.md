@@ -32,6 +32,9 @@ rahasyaśāstre jātyādisamācāro hi śāmbhave || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 315)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.517]]
+
 *Lead-in:* अनेनैव आशयेन अस्मद्दर्शने न जात्यादिपरिग्रहः--इत्याह--
 
 > अत एवार्थसत्तत्त्वदेशिन्यस्मिन्न दिश्यते ।

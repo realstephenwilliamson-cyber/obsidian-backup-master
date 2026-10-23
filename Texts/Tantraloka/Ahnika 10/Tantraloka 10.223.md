@@ -31,6 +31,9 @@ viśrāmyeccāśu tatraiva śivabīje layaṃ vrajet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 433–434)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.223]]
+
 *Lead-in:* ननु प्रमातृरूपा संवित्सर्वस्य कारणमस्तु प्रतिनियतघटादिप्रमेयप्रमितिरूपा तु सा कथं तथात्वमश्नुवीत ? - - इत्याशङ्क्याह --
 
 > तत एव घटेऽप्येषा प्राणवृत्तिर्यदि स्फुरेत् ।

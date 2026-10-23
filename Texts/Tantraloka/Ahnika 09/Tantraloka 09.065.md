@@ -33,6 +33,11 @@ svatantrasya śivasyecchā ghaṭarūpo yathā ghaṭaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 67–68)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.65]]
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.65–66]]
+
 *Lead-in:* आणवे पुनः सामान्येनैषणीयविषयोल्लेखतोन्मुखतामात्रं, यतोऽयमेवंविधः समुल्लासः । तदाह -
 
 > अपूर्णंमन्यता चेयं तथारूपावभासनम् ।

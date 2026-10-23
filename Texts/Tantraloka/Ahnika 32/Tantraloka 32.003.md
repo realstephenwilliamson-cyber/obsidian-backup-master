@@ -31,6 +31,9 @@ rātyarpayati yattena mudrā śāstreṣu varṇitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 136–138)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.3]]
+
 *Lead-in:* एवं मुद्राशब्दस्य रूढिमुपदर्श्य योगमपि दर्शयति--
 
 > मुदं स्वरूपलाभाख्यं देहद्वारेण चात्मनाम् ।

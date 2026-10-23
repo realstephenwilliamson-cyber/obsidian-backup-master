@@ -31,6 +31,9 @@ yattu grahītṛtārūpasaṃvitsaṃsparśavarjitam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 403)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.182]]
+
 *Lead-in:* नन्वेवं चातुर्दश्यमेवाभिहितं स्याच्छिवशत्यात्मकं द्विकं वा? -- इत्याशङ्क्याह --
 
 > यत्तु ग्रहीतृतारूपसंवित्संस्पर्शवर्जितम् ।

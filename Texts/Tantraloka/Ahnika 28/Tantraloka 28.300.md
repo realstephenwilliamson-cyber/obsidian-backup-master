@@ -31,6 +31,9 @@ tattattattvaśarīrāntaścāriṇāṃ nāsti mūḍhatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 130)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.300–302]]
+
 *Lead-in:* एतदेव दृष्टान्तगर्भमुपसंहरति--
 
 Jayaratha comments on this verse together with 28.302: see [[Tantraloka 28.302#Viveka|28.302]].

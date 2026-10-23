@@ -33,6 +33,11 @@ yaccoktaṃ vedyatādharmā bhāvaḥ sarvānapi prati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 333–334)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.60–61]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.61–62]]
+
 *Lead-in:* नन्वत्रोक्त एव दोषो यद्वेद्यताधर्मा भावः सर्वान्प्रति स्यादिति । नैवमेतत् -- इत्याह --
 
 > यच्चोक्तं वेद्यताधर्मा भावः सर्वानपि प्रति ॥

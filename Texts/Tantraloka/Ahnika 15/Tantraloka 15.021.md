@@ -31,6 +31,9 @@ phalaṃ prārthayase yādṛktādṛksādhanamārabhe || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 17–18)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.21–22]]
+
 *Lead-in:* इति दृशा श्रीस्वच्छन्दशास्त्र एव प्राधान्येन दीक्षाया लक्षणमुक्तम्, तद्वयमपि सर्वतस्तदर्थोपस्कृतत्वेनैव अत्र तामभिदध्म इति कटाक्षयितुं प्रमुख एव तत् संवादयति—
 
 > उक्तं स्वच्छन्दशास्त्रे च शिष्यं पृच्छेद्गुरुः स्वयम् ।

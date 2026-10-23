@@ -33,6 +33,11 @@ vahnīṣuṛṣimadhyācca lopyaṃ pīṭhendukāvadhi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 126)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.143–144]]
+>
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.144]]
+
 *Lead-in:* कथम्--इत्याह--
 
 > वह्नीषुऋषिमध्याच्च लोप्यं पीठेन्दुकावधि ॥

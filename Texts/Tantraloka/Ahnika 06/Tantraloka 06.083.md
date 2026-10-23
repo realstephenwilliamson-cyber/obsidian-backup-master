@@ -36,6 +36,11 @@ jāgradveditṛtā svapno vettṛbhāvaḥ purātanaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 309–310)
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.83]]
+>
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.83–84]]
+
 *Lead-in:* वेत्तापि द्विधा -- इत्याह --
 
 > पुरा विचारयन्पश्चात्सत्तामात्रस्वरूपकः ।

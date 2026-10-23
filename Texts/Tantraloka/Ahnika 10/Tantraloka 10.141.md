@@ -33,6 +33,11 @@ tathāhi gāḍhanidre'pi priye'nāśaṅkitāgatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 382–383)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.140–141]]
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.141–142]]
+
 *Lead-in:* एतदेव निदर्शयति -
 
 > तथाहि गाढनिद्रेऽपि प्रियेऽनाशङ्कितागताम् ॥

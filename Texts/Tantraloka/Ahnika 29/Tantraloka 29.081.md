@@ -31,6 +31,9 @@ pṛthaṅ na yuktā parameśvaro hi svaśaktidhāmnīva viśaṃśramīti || ^i
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 277)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.81]]
+
 *Lead-in:* अत एव देशक्रमोऽपि अत्र नास्ति--इत्याह--
 
 > अत्र क्रमे भेदतरोः समूलमुन्मूलनादासनपक्षचर्चा ।

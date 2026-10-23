@@ -31,6 +31,9 @@ vivecayitumucyate vividhaśaktipātakramaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 120–121)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.1]]
+
 *Lead-in:* इत्याद्युक्त्या यद्याणवादीनामनुत्तरपदावाप्तिरेव फलं तदेक एवोपाय उपदिश्यतां किमेभिस्त्रिभिः? -- इत्याशङ्कां निराचिकीर्षुरधिकारभेदमुपदिष्टं द्वितीयार्धेन शक्तिपातक्रमविवेकमभिधातुं प्रतिजानीते -
 
 > अथाधिकृतिभाजनं क इह वा कथं वेत्यलम् ।

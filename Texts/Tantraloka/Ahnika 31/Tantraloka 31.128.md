@@ -31,6 +31,9 @@ mūlamānandamāpīḍya śaktitrayapadaṃ viśet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 118–119)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.128–131]]
+
 *Lead-in:* एतदपि कथम्?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 31.131: see [[Tantraloka 31.131#Viveka|31.131]].

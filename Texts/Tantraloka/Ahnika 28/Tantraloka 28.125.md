@@ -33,6 +33,11 @@ dakṣiṇottaragaḥ kālaḥ kulākulatayoditaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 66–67)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.124–125]]
+>
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.125–126]]
+
 *Lead-in:* ननु कुलपर्वत्वं चन्द्रस्य पूर्णत्वं तिथ्यन्तरेष्वप्यस्ति, तत् कथं माघपूर्णिमैव कुलपूर्णिमाशब्देनोच्यते?--इत्याशङ्क्य आह--
 
 > दक्षिणोत्तरगः कालः कुलाकुलतयोदितः ॥

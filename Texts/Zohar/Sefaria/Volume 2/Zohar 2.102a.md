@@ -39,4 +39,4 @@ Pritzker translation (Matt): [[Zohar 5.03 - Parashat Mishpatim#^z2-102a|Parashat
 
 **Mishpatim 3:153** and it always visits that grave at the time when the spirits of the dead visit the graves of their bodies. Then the two spirits join one another, the one (the essential) using the other as its garment, and they ascend again. When the essential spirit reaches its place, it puts off its “garment”, namely the second spirit, which latter is given a place either. within or without the palaces of Paradise, according to merit, there remaining hidden. ^mishpatim-3-153
 
-[^1]: v. T. B. Sanhedrin, 106b.
+[^1]: v. T. B. [[Sanhedrin 106#106b|Sanhedrin, 106b]].

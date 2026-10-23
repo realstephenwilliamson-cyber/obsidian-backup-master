@@ -34,6 +34,9 @@ svacittavāsanāśāntau sā kriyetyabhidhīyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 321–322)
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.151]]
+
 *Lead-in:* तत्रत्यमेव ग्रन्थं पठति --
 
 > योगो नान्यः क्रिया नान्या तत्त्वारूढा हि या मतिः ।

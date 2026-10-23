@@ -33,6 +33,11 @@ dehasthamiti dehena saha tādātmyamāśritā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 117–118)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.134–135]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.135–137]]
+
 *Lead-in:* ननु यस्य सर्वमेव संविन्निष्ठं तस्य कथं कर्मापि देहस्थं संभवेत् ? -- इत्याशङ्कां गर्भीकृत्य स्वयमेव देहस्थपदं व्याचष्टे --
 
 Jayaratha comments on this verse together with 9.134: see [[Tantraloka 09.134#Viveka|9.134]].

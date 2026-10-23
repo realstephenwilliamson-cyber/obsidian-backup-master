@@ -36,6 +36,9 @@ karoti dāsyaṃ guruveśmasu svayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 253)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.59]]
+
 *Lead-in:* स तन्मयीभूय न लोकवर्तनी-
 
 > मजीगणत् कामपि केवलं पुनः ।

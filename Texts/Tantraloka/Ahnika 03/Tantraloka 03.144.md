@@ -35,6 +35,9 @@ spaṣṭībhūtakriyāśaktiparyantā procchalatsthitiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 254–255)
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.144]]
+
 *Lead-in:* ननु विसर्गशब्दः शक्तौ केन निमित्तेन प्रवृत्तः ? -- इत्याशङ्क्याह --
 
 > विसर्गता च सैवास्या यदानन्दोदयक्रमात् ।

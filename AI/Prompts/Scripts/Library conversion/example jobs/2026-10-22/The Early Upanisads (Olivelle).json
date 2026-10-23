@@ -1,0 +1,140 @@
+{
+ "pdf": "/mnt/user-data/uploads/Obsidian Vault/Library/Hinduism/Olivelle (ed.) - The Early Upanisads (1998).pdf",
+ "pdf_vault": "Library/Hinduism/Olivelle (ed.) - The Early Upanisads (1998).pdf",
+ "catalog": "Catalog/Hinduism/Olivelle (ed.) - The Early Upanisads",
+ "route": "ocr",
+ "title": "The Early Upaniṣads: Annotated Text and Translation",
+ "authors": [],
+ "byline": "Translated by Patrick Olivelle. Oxford University Press, New York, 1998.",
+ "folder": "Library/Hinduism/The Early Upanisads (Olivelle)",
+ "index_name": "The Early Upanisads (Olivelle)",
+ "prefix": "The Early Upanisads",
+ "out": "/home/claude/p4/out",
+ "date": "2026-10-22",
+ "ctype": "book",
+ "single": false,
+ "langs": "Latin",
+ "fixmap": true,
+ "anusvara": true,
+ "text_source": "fresh OCR with Tesseract 5 of the page images: Latin, and Latin+san on the pages of Devanagari text (the earlier OCR layer had lost the diacritics and the Devanagari)",
+ "callout": "> [!note] Fresh OCR of the page images\n> This text was read from the page images by OCR (Tesseract: the Latin model, and the Sanskrit model on the pages of Devanagari text). The English translation is reliable; transliterated words in the introduction and notes keep most diacritics, though some are misread. The Devanagari of the edition is not reliable: roughly one word in three has a misread letter or conjunct, and verse numbers are often garbled. In the notes, the lemma numbers are sometimes displaced. For the Sanskrit text, read the PDF (the *Open the PDF* button on the catalog note).",
+ "toc": [
+  [
+   1,
+   "Abbreviations",
+   12
+  ],
+  [
+   1,
+   "Note on the Edition",
+   16
+  ],
+  [
+   1,
+   "Note on the Translation",
+   21
+  ],
+  [
+   1,
+   "Introduction",
+   26
+  ],
+  [
+   1,
+   "1. Brhadaranyaka Upanisad",
+   52
+  ],
+  [
+   1,
+   "2. Chandogya Upanisad",
+   189
+  ],
+  [
+   1,
+   "3. Taittiriya Upanisad",
+   311
+  ],
+  [
+   1,
+   "4. Aitareya Upanisad",
+   338
+  ],
+  [
+   1,
+   "5. Kausitaki Upanisad",
+   347
+  ],
+  [
+   1,
+   "6. Kena Upanisad",
+   386
+  ],
+  [
+   1,
+   "7. Katha Upanisad",
+   395
+  ],
+  [
+   1,
+   "8. Isa Upanisad",
+   428
+  ],
+  [
+   1,
+   "9. Svetasvatara Upanisad",
+   436
+  ],
+  [
+   1,
+   "10. Mundaka Upanisad",
+   457
+  ],
+  [
+   1,
+   "11. Prasna Upanisad",
+   480
+  ],
+  [
+   1,
+   "12. Mandukya Upanisad",
+   496
+  ],
+  [
+   1,
+   "Appendix - Names of Gods, People, and Places",
+   501
+  ],
+  [
+   1,
+   "Notes - Brhadaranyaka Upanisad",
+   510
+  ],
+  [
+   1,
+   "Notes - Chandogya Upanisad",
+   555
+  ],
+  [
+   1,
+   "Notes - Taittiriya to Kausitaki Upanisads",
+   594
+  ],
+  [
+   1,
+   "Notes - Kena to Mandukya Upanisads",
+   619
+  ],
+  [
+   1,
+   "Bibliography",
+   666
+  ],
+  [
+   1,
+   "Index",
+   676
+  ]
+ ],
+ "san_pages": true,
+ "san_sort": true
+}

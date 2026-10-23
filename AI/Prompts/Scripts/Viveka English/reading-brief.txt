@@ -1,0 +1,38 @@
+# Reading brief: transcribe boxed words from page scans
+
+The scans are pages of Mark Dyczkowski's English translation of Abhinavagupta's *Tantrāloka* with Jayaratha's commentary (11 volumes). The OCR misread some words. You are checking what the print actually shows. Nobody is asking you to correct the Sanskrit; report the print, even where the print itself looks wrong.
+
+## Files
+
+- `/home/claude/pf/sheets/<sheet>.png`: each sheet stacks up to 15 strips. Each strip is one printed line with its ID on the left (A001, C123…) and a red box around one word.
+- `/home/claude/pf/items/<sheet>.txt`: one line per ID giving the text just **before** and just **after** the boxed word, as the OCR read it (it may contain OCR errors). Use it to be sure which word is meant. The boxed word itself is deliberately not given.
+
+## What to do for each ID
+
+1. Find the boxed word. The box is drawn **wider on the left on purpose**, because a capital Ś or small ś at the start of a word is sometimes outside the OCR's word box. The box may therefore also include the last letter or two of the previous word; the "before" text tells you where the previous word ends.
+2. Transcribe the word **exactly as printed**, letter by letter, with every diacritic as printed: ā ī ū ṛ ṝ ḷ ṅ ñ ṭ ḍ ṇ ś ṣ ḥ, capital Ś Ā Ī Ū Ṛ, and the anusvāra as **ṁ** (this book prints it as m with a dot above). Look closely at the very first letter: is there an Ś/ś (or other letter) right before what the OCR read?
+3. If the word is in parentheses, transcribe what is inside the parentheses (if several words, all of them), without the parentheses.
+4. If the word is broken across a line end with a hyphen, transcribe the part shown and add `hyphen` in the note.
+5. If you cannot read a letter with confidence, write `?` for that letter and set `conf` to `low`. Never fill in what the word "should" be; read the print. A dot or macron you cannot actually see is not there for this purpose: mark it `?` and `low`.
+
+You may enlarge a strip to look closer, for example:
+
+```
+python3 -c "from PIL import Image; im=Image.open('/home/claude/pf/sheets/A-01.png'); im.crop((0,0,im.width,160)).resize((im.width*2,320)).save('/home/claude/pf/zoom/a01-top.png')"
+```
+
+then Read the zoomed file (make the folder `/home/claude/pf/zoom/` first). Use this only where a letter is in doubt.
+
+## Output
+
+After finishing each sheet, and before starting the next, append one JSON object per ID to `/home/claude/pf/read/<sheet>.jsonl` (for example `read/A-01.jsonl`):
+
+```
+{"id": "A001", "printed": "iva", "conf": "high", "note": ""}
+```
+
+`note` is optional and short ("hyphen", "box on wrong word", "Ś faint", "print has a typo"…). If the box is on the wrong word entirely, set `printed` to `""` and say so in the note.
+
+## Limits
+
+Read only the brief, the sheets, the item lists and your own zoomed crops. Do not use any tool that reaches the user's computer, the web, or other files. Keep your final reply short: items done, how many low-confidence, and anything systematic (for example, boxes placed wrongly on a whole sheet).

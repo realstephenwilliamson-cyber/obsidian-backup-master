@@ -313,12 +313,12 @@ It is this that is written:
 [^3]: *ḥaiy*
 [^4]: 18
 [^5]: *varda*
-[^6]: See *BT* Ḥullin 27b
+[^6]: See *BT* [[Chullin 27#27b|Ḥullin 27b]]
 [^7]: See ibid.
 [^8]: *naphesh*
 [^9]: *simanim*
 [^10]: *zeh*
-[^11]: See *BT* Ḥullin 17b
+[^11]: See *BT* [[Chullin 17#17b|Ḥullin 17b]]
 [^12]: *ḥayot ha-qodesh*
 [^13]: *zeh*
 [^14]: *dan*

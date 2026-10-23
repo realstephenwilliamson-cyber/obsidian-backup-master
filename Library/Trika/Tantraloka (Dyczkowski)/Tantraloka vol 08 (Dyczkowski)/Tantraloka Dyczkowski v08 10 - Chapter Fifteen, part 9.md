@@ -14,6 +14,8 @@ converted: 2026-10-07
 
 *[p. 329]* ^pg347
 
+### TĀ 15.553–557
+
 The Pledges according to the Gamatantra" 
 
 तथा च ्रीगमे प्रोक्त पूजनीयाः प्रयतत: ।
@@ -25,14 +27,16 @@ The Pledges according to the Gamatantra"
 वृद्धायाः संस्थिताया वा न जुगुप्सेत मुद्रिकाम् ।
 वैकृत्यं तत्र सौरूप्यं मेककं न प्रकाशयेत् ॥ ५५९ ॥
 
-॥.. 41111 11111111 1 nirācārāh sarvabhakṣyā dharmādharmavivarjitāh | 556 Il svacchandagāh palāśinyo \[illegible\] devatā iva |
-veśyāh pūjyās tadgrharhi ca prayāgo ‘tra yajet kramam || 557 ॥
+॥.. 41111 11111111 1 nirācārāḥ sarvabhakṣyā dharmādharmavivarjitāḥ | 556 Il svacchandagāḥ palāśinyo \[illegible\] devatā iva |
+veśyāḥ pūjyās tadgṛharhi ca prayāgo ‘tra yajet kramam || 557 ॥
 strīṣu tan nācaret kiñcid yena tābhyo jugupsate |
-ato na nagnās tāh paśyen na cāpi prakaṭastanīh ॥ 558 ॥
-vrddhāyāh saristhitāyā vā na jugupseta mudrikām |
-vaikrtyarh tatra saurūpyaṁ melakarh na prakāśayet ॥ 559 ॥ 
+ato na nagnās tāh paśyen na cāpi prakaṭastanīḥ ॥ 558 ॥
+vṛddhāyāḥ saristhitāyā vā na jugupseta mudrikām |
+vaikṛtyaṁ tatra saurūpyaṁ melakaṁ na prakāśayet ॥ 559 ॥ 
 
 The same (is said) in the venerable Gamatantra: ‘(Women) should be venerated (pūjanīya) with (great) effort. Women who have abandoned conventional behaviour (for a higher one) (nirācārā), eat everything, who are devoid of (both) Dharma and Adharma, who live freely, who eat meat and are dissolute (larpafā), are like deities. Prostitutes should be venerated, and their home is (like) Prayāga. Here (the initiate) should offer sacrifice to (the deities of) the tradition (krama). He should abstain from any action that can lead him to feel disgust for women. Thus, he should not look at them (when they are) naked or with their breasts exposed. He should not feel disgust by the deformed appearance (mudrikā) of one who has the form (saṁsthitā) of an old (woman). There (in that case, physical) deformity is beautiful. One should not reveal the (location of) the meeting (place where initiates worship together) (melaka)? (556-559) (553cd- 557ab) 
+
+#### Viveka on 15.553–557
 
 देवमूति शन्यतनुं पूजयेत्तिपथादिषु ।
 सर्वपर्वसु सामान्यविशेषेषु विशेषतः || ५६० ॥।
@@ -45,10 +49,14 @@ The same (is said) in the venerable Gamatantra: ‘(Women) should be venerated (
 
 *[p. 330]* ^pg348
 
+### TĀ 15.557–558
+
 sarvaparvasu sāmānyaviśeṣeṣu viíeṣatah ॥ 560 ॥
 pūjā guror anadhyāyo melake lokavarjanam | 
 
-One should worship the idol of a deity that is unadorned \[illegible\] (and abandoned, one happens to find) at a crossing of three roads, or some (similar place). The worship of the teacher is a break from study, (and should be performed) especially on all propitious times (parvan)® both common and special. (When attending) (Kaula) gatherings (melaka) the world (of daily life) (loka) is (to be) abandoned.\*TM (560-561ab) (557cd-558) 
+One should worship the idol of a deity that is unadorned \[illegible\] (and abandoned, one happens to find) at a crossing of three roads, or some (similar place). The worship of the teacher is a break from study, (and should be performed) especially on all propitious times (parvan) both common and special. (When attending) (Kaula) gatherings (melaka) the world (of daily life) (loka) is (to be) abandoned.\* (560-561ab) (557cd-558) 
+
+### TĀ 15.559–560
 
 न जुगुप्सेत मद्यादि वीरद्रवय कदाचन ॥ ५६१ ॥
 न निन्देदथ वन्देत नित्यं तज्जोषिणस्तथा |
@@ -56,11 +64,13 @@ One should worship the idol of a deity that is unadorned \[illegible\] (and aban
 विजातीयविकल्पांशत्यागाय प्रयतेत च ।
 
 na jugupseta madyādivīradravyaṁ kadācana ॥ 561 ॥
-na ninded atha vandeta nityarh tajjoṣinas tathā |
-upadeśāya na doṣā hrdaye cen na vidviṣet ॥ 562 ॥
+na ninded atha vandeta nityaṁ tajjoṣinas tathā |
+upadeśāya na doṣā hṛdaye cen na vidviṣet ॥ 562 ॥
 vijātīyavikalpāriśatyāgāya prayateta ca | 
 
 One should never be revolted by the hero’s sacrificial substances, such as wine. Nor should one criticise those who delight in them; (rather,) one should always praise \[illegible\] There are no defects in teaching (others about them) if one is not (secretly) averse to them in (his) heart.’ One should exert oneself to abandon (all) contrary notions (vijāfīyavikalpa) (about them).\*” (561cd-563ab) (559-560) 
+
+### TĀ 15.561–562
 
 गुः शाखस्य देवीनां नाम मन्रो यतस्ततः ॥ ५६३ ॥
 अचीतोऽन्यत् नोच्चार्यमाहूतं तर्पयेत्ततः |
@@ -77,41 +87,45 @@ One should never be revolted by the hero’s sacrificial substances, such as win
 
 857\. Sivopādhyāya quotes a line in his commentary on the VB (p. 61) that is quite probably the original Abhinava had before him in the Gamatantra. The first half is the same. lt reads: na ninded atha vandeta vīradravyaparān narān | ‘One should not criticize, (rather) one should always praise, the men who are intent (on making use) of the hero’s sacrificial substances.’
 
-858\. Read Ardaye for hrdayarh.
+858\. Read Ardaye for hṛdayaṁ.
 
 859\. Read with MS Ṭh: -vikalpāmśatyāgāya prayateta for -vikalpāṁśotpurṁsanāya yateta, which makes no sense.
 
 
 *[p. 331]* ^pg349
 
-guroh śāstrasya devīnāri nāma mantro yatas tatah || 563 ॥
-arcāãto ‘nyatra noccãryam āhūtaṁ tarpayet tatah |
+guroḥ śāstrasya devīnāṁ nāma mantro yatas tataḥ || 563 ॥
+arcāto ‘nyatra noccāryam āhūtaṁ tarpayet tataḥ |
 āgatasya ca mantrasya na kuryāt tarpaṇaṁ yadi ॥ 564 ॥
-haraty ardhaśarīraṁ tad ity ūce bhagavān yatah | 
+haraty ardhaśarīraṁ tad ity ūce bhagavān yataḥ | 
 
-The name of the teacher, the scripture, and the goddesses is a Mantra,” and so should not be uttered (at any time) elsewhere apart from when worshipping, and once invoked, libation should be offered to it. For the Lord has saidTM' that if libation were not to be offered to a Mantra that has come (before the worshipper in the place of worship), it steals away half of (his) body.” (563cd-565ab) (561-562) 
+The name of the teacher, the scripture, and the goddesses is a Mantra,” and so should not be uttered (at any time) elsewhere apart from when worshipping, and once invoked, libation should be offered to it. For the Lord has said' that if libation were not to be offered to a Mantra that has come (before the worshipper in the place of worship), it steals away half of (his) body.” (563cd-565ab) (561-562) 
 
-The Pledges According to the Ūrmikaulārṇnava”® 
+### TĀ 15.563
+
+The Pledges According to the Ūrmikaulārṇnava” 
 
 श्रीमटर्मौ च देवीनां वीराणां चेष्टितं न वै ॥ ५६५ ॥
 प्रथयेन्न जुगुप्सेत वदेत्रद्रव्यपाणिकः ।
 
 śrīmadūrmau ca devīnār vīrānāṁ ceṣṭitaṁ na vai || 565 ||
-prathayen na jugupseta vaden nādravyapānikah | 
+prathayen na jugupseta vaden nādravyapānikaḥ | 
 
 Moreover, (it is said) in the venerable Ūrmi\* that (an initiate) should not divulge the behaviour of the goddesses and heroes (engaged in Kaula ritual), nor feel aversion to it, nor address them without the sacrificial substances in (his) hands. (565cd-566ab) (563) 
+
+### TĀ 15.564–565
 
 पूर्वं नाम वक्तव्यं गुरो््रव्यकरेण च ॥ ५६६ ॥
 गुवीदीनां न र्या च छाया न द्वैतिभिः सह ।
 जल्पं कुर्वनस्वशासखार्थं वदेत्नापि च सूचयेत् ॥ ५६७ ॥
 
-Śrīpūrvaṁ nāma vaktavyarh guror dravyakarena ca || 566 ॥
-gurvādīnāṁ na laṁghyā ca chāyā na dvaitibhih saha |
+Śrīpūrvaṁ nāma vaktavyaṁ guror dravyakarena ca || 566 ॥
+gurvādīnāṁ na laṁghyā ca chāyā na dvaitibhiḥ saha |
 jalpar kurvan svaśāstrārthaṁ vaden nāpi ca sūcayet ॥ 567 ॥ 
 
 860\. Read mantro for mantre.
 
-861\. \[illegible\] TĀ 15/566 (562) is quoted in a note to TSā (on p. 180) immediately following a citation of TĀ 26/51cd-53ab. There is only one variant, but it is very interesting one. Instead of ity ūce bhagavān yatah — ‘for the Lord has said . . . \` in the note we read iry uktarh kila ŝambhună — Śambhu has said . , . .'. Should we understand Śambhu here to be Śambhunātha? If so by reading 26/51cd- 53ab along with 566 (562), it is clear that he advocated that the libation be made with Kaula substances.
+861\. \[illegible\] TĀ 15/566 (562) is quoted in a note to TSā (on p. 180) immediately following a citation of TĀ 26/51cd-53ab. There is only one variant, but it is very interesting one. Instead of ity ūce bhagavān yataḥ — ‘for the Lord has said . . . \` in the note we read iry uktaṁ kila śambhunā — Śambhu has said . , . .'. Should we understand Śambhu here to be Śambhunātha? If so by reading 26/51cd- 53ab along with 566 (562), it is clear that he advocated that the libation be made with Kaula substances.
 
 862\. TĀ 15/566 (662) is quoted again below in 26/53cd-54ab and in TĀv ad 29/22cd. No reference is made in those places to the source. Here it appears to be the end of a citation from the Gamatantra.
 
@@ -124,6 +138,8 @@ jalpar kurvan svaśāstrārthaṁ vaden nāpi ca sūcayet ॥ 567 ॥
 
 The teacher’s name should (always) be uttered with a preceding (honorific) ‘śr, whilst holding (the sacred Kaula) substances (as an offering to him). (The disciple) should not cross over the shadow of (his) teachers and others (like them). While conversing with dualists,[^865] he should not talk about the teachings (artha) of his own scriptures or even refer to them. (566cd-567) (564-565ab) 
 
+### TĀ 15.565–566
+
 नित्यं शिषपूजां च कूर्ीत्रमित्तिके विधौ ।
 तथापि मध्ये वर्षस्य तथापि हि पवित्रके ।। vacillate[^868] ॥
 
@@ -132,30 +148,38 @@ tathāpi madhye varṣasya tathāpi hi pavitrake ॥ 568 ॥
 
 He should perform the regular[^866] (daily rite) and the special rite of adoration \[illegible\] for (each) prescribed (special) occasion, so too also in the middle of the year, and indeed also[^867] (in the course of the rite of the offering of) the sacred thread. (568) (565cd-566ab) 
 
+#### Viveka on 15.565–566
+
 अन्यस्तमन्रो नासीत सेव्यं शाखरान्तरं च नो ।
 अप्ररूढं हि विज्ञानं कम्पेदेतरभावनात् । them.[^870] ॥
 
-anyastamantro nāsīta sevyarh Śāstrāntaraṁ ca no |
+anyastamantro nāsīta sevyaṁ Śāstrāntaraṁ ca no |
 aprarūdhaṁ hi vijṁānan kamped etarabhāvanāt || 569 || 
 
 He on whom Mantra has not been deposited should not sit (to take part in the rites). Nor should he resort to other scriptures. Knowledge which is not fully developed may vacillate" by reflecting (bhāvana) on (scriptures) other (than one’s own).[^869] (569) (566cd 567ab) 
 
+### TĀ 15.567–568
+
 गृहोपस्करणाखाणि देवतायागयोगतः ।
 अच्यानीति न पद्भ्यां वै स्पृशन्नापि विलंघयेत् । ५७० ॥
 
-gṁopaskaraṇāstrāṇi devatāyāgayogatah |
-arcyānīti na padbhyāṁ vai sprśen nāpi vilaṁghayet ॥ 570 ॥ 
+gṁopaskaraṇāstrāṇi devatāyāgayogataḥ |
+arcyānīti na padbhyāṁ vai spṛśen nāpi vilaṁghayet ॥ 570 ॥ 
 
 Household utensils and weapons are used for the sacrifice to the deities and so should be worshipped. They should not be touched with the feet, nor should one step over \[illegible\] (570) (567cd-568ab) 
 
-[^865]: Read with MSs Ṭh and Ṭ dvaitibhih for tairthikaih — ‘with pilgrims’. The original reading may also be tarkikaih ~ ‘with logicians’.
+#### Viveka on 15.567–568
+
+[^865]: Read with MSs Ṭh and Ṭ dvaitibhiḥ for tairthikaiḥ — ‘with pilgrims’. The original reading may also be tarkikaiḥ ~ ‘with logicians’.
 [^866]: Emend nityād to nityāṁ.
 [^867]: Emend tato ‘pi madhye to tathāpi madhye and tato \`pi hi to tathāpi hi.
 [^868]: Correct kampet etara- to kamped etara-.
 [^869]: \[illegible\] TĀ 15/570cd-57 lab (566cd-567ab) is quoted above in TĀv ad 4/261cd-263ab.
-[^870]: Cf. KM 25/113-114ab. vardhai -m-upālambhī dehalyā muṣalaṁ tathā | khatvā śūrpagharaṭṭaṁ ca vardhamānyāditah kramāt Il pādenaitān na sahsprśya yad icchec chriyam ātmanah | ‘One should not touch the following things with one’s feet if one wishes good fortune for oneself: a platter, upālambhī (?), the threshold, a pestle, a bedpost, a winnowing fan, and a grindstone.” Cf. JY ṣaṭka 1 chapter 48, where such household objects are projected into the body, marking stations of ascent. KM 25/124 ff. supplies inner equivalents of weapons.
+[^870]: Cf. KM 25/113-114ab. vardhai -m-upālambhī dehalyā muṣalaṁ tathā | khatvā śūrpagharaṭṭaṁ ca vardhamānyāditaḥ kramāt Il pādenaitān na sahspṛśya yad icchec chriyam ātmanaḥ | ‘One should not touch the following things with one’s feet if one wishes good fortune for oneself: a platter, upālambhī (?), the threshold, a pestle, a bedpost, a winnowing fan, and a grindstone.” Cf. JY ṣaṭka 1 chapter 48, where such household objects are projected into the body, marking stations of ascent. KM 25/124 ff. supplies inner equivalents of weapons.
 
 *[p. 333]* ^pg351
+
+### TĀ 15.568–570
 
 गुरुवर्गे गृहायाते विशेषं कञिदाचरेत् ।
 दीक्षितानां न निन्दादि कु्यीद् विद्रेषपूर्वकम् ।। Vaisnavas,[^871] ॥
@@ -165,11 +189,13 @@ Household utensils and weapons are used for the sacrifice to the deities and so 
 
 guruvarge gṁāyāte viśeṣan kañcid ācaret |
 dīkṣitānāṁ na nindādi kuryād vidveṣapūrvakam ॥ 571 ॥
-upadeśāya no doṣah sa hy avidveṣapūrvakah |
-na vaiṣṇavādikādhahsthadrṣtibhih sarhvased alam ॥ 572 ॥
+upadeśāya no doṣaḥ sa hy avidveṣapūrvakaḥ |
+na vaiṣṇavādikādhahsthadṛṣtibhiḥ saṁvased alam ॥ 572 ॥
 sahabhojanaśayyādyair \[illegible\] prakaṭayet sthitim | 
 
-He should perform some special (ceremony) when the members of the teacher’s family visit one’s home. One should not criticise or the like initiates with (feelings of) aversion. There is no defect in teaching (others). That is not attended by (feelings of) aversion. One should not live together with followers of inferior doctrines, such as Vaiṣṇavas,TM? nor should one tell others that one eats or sleeps with them.[^872] (571-573ab) (568cd-570) 
+He should perform some special (ceremony) when the members of the teacher’s family visit one’s home. One should not criticise or the like initiates with (feelings of) aversion. There is no defect in teaching (others). That is not attended by (feelings of) aversion. One should not live together with followers of inferior doctrines, such as Vaiṣṇavas,? nor should one tell others that one eats or sleeps with them.[^872] (571-573ab) (568cd-570) 
+
+### TĀ 15.571
 
 The Pledges according to the Mādhavakula 
 
@@ -181,16 +207,20 @@ The Pledges according to the Mādhavakula
 
 “It is said in the venerable Mādhavakula[^873] that those who are established in other doctrines, what is taught in the Veda and by Vaiṣṇavas and what they say, should always be avoided.[^874] (573cd-574ab) (571) 
 
-[^871]: \[illegible\] Above in 15/564a (560a), instead of the reading upadeśāya na doṣah we find upadeśāya na doṣā(h) — “there are no defects in teaching (others).\*
-[^872]: Read vaiṣṇavādikādhah- for vaṣnavādikādhah-.
+#### Viveka on 15.571
+
+[^871]: \[illegible\] Above in 15/564a (560a), instead of the reading upadeśāya na doṣaḥ we find upadeśāya na doṣā(h) — “there are no defects in teaching (others).\*
+[^872]: Read vaiṣṇavādikādhaḥ- for vaṣnavādikādhaḥ-.
 [^873]: \[illegible\] Evidence that Abhinava is quoting literally is the terse, bordering on, defective Sanskrit of these passages.
 [^874]: 15/575cd-577ab (57 1cd-573ab) is drawn from the Mādhavakula.
 
 *[p. 334]* ^pg352
 
-(When one practices (the observance) of the prohibitions (and injunctions) etc. without wavering,) ‘one assumes a single (one-pointed) state (of mind)’, because one is careful (and attentive to that,) and so is unwavering. This is the meaning. As (the teacher's) knowledge expands by nature, it is ‘the principle of consciousness in all respects present (throughout the sphere of) objectivity’. Such is the case not only by (the teacher’s) teaching, but also ‘(just) by conversing (with him)’, and so he says that ‘his talk (kathā)' (elevates his disciples immediately). “There’, in the case of the (physical) appearance (mudrikā) (of an old woman, deformity is beautiful). “Those who delight in them’, that is, those who are devoted to the sacrificial substances of a (Kaula) hero. (There is no harm) ‘in teaching (others)’, for example, ‘what is wine and what is devotion to iva.’ Here (in this case), the fruit (of instruction) is just to satisfy the mental disposition of the one who is being taught. The sense of (saying), ‘in the middle of the year’, is whenever there may happen to be requisites for the rite (samāgrī). (One should not resort) ‘to other scriptures’ that are in conflict with one’s own scriptures. ‘Household utensils’, such as the stove. (One should not follow what) ‘they’ (say), that is, those who adhere to the Vedas etc. 
+(When one practices (the observance) of the prohibitions (and injunctions) etc. without wavering,) ‘one assumes a single (one-pointed) state (of mind)’, because one is careful (and attentive to that,) and so is unwavering. This is the meaning. As (the teacher's) knowledge expands by nature, it is ‘the principle of consciousness in all respects present (throughout the sphere of) objectivity’. Such is the case not only by (the teacher’s) teaching, but also ‘(just) by conversing (with him)’, and so he says that ‘his talk (kathā)' (elevates his disciples immediately). “There’, in the case of the (physical) appearance (mudrikā) (of an old woman, deformity is beautiful). “Those who delight in them’, that is, those who are devoted to the sacrificial substances of a (Kaula) hero. (There is no harm) ‘in teaching (others)’, for example, ‘what is wine and what is devotion to Śiva.’ Here (in this case), the fruit (of instruction) is just to satisfy the mental disposition of the one who is being taught. The sense of (saying), ‘in the middle of the year’, is whenever there may happen to be requisites for the rite (samāgrī). (One should not resort) ‘to other scriptures’ that are in conflict with one’s own scriptures. ‘Household utensils’, such as the stove. (One should not follow what) ‘they’ (say), that is, those who adhere to the Vedas etc. 
 
 The reason here (for this is explained next). 
+
+### TĀ 15.572–573
 
 अकुलीनेषु संपकीततत्कुलात्पतनाद्धयम् || ५७४ ॥।
 एकपात्रे कलाम्नाये तस्मात्तान्परिव्जयेत् ।
@@ -198,20 +228,22 @@ The reason here (for this is explained next).
 
 akulīneṣu saṁparkāt tatkulāt patanād bhayam ॥ 574 ||
 ekapātre kulāmnāye tasmāt tān parivarjayet |
-pramādāc ca krte sakhye goṣthyāṁ cakram tu pūjayet ॥ 575 ॥ 
+pramādāc ca kṛte sakhye goṣthyāṁ cakram tu pūjayet ॥ 575 ॥ 
 
 "By contact with those who do not belong to (the same) Kula, there is fear of a fall from that (which is one’s) Kula. A Kula tradition is exclusive 
 
 875\. See below, 29/56.
 
-876\. 15/575cd is derived from JY 4/20/98cd (MS K 14la Kh 1219. MS G 173a), which reads: vedoktań vaiṣnavoktaṁ vā udakarh varjayet sadā I|
+876\. 15/575cd is derived from JY 4/20/98cd (MS K 14la Kh 1219. MS G 173a), which reads: vedoktań vaiṣnavoktaṁ vā udakaṁ varjayet sadā I|
 
-877\. \[illegible\] TĀ 15/576abc (572abc) is JY 4/20/140abc (MS K: fl 142b, Kh: 123a G: 175b). The text continues: akulīnaiś ca saṁparkāt tatkulāt patanarn bhavet ॥ 140 ॥ ekapātre kulāmnāye \[illegible\] nānyat kadācana | yadicched ātmanah śreyo \[k,kh: śreyeh\] siddhir vā vīṛravandite ॥ 141 ॥ Jīvitaṁ sucira vātha yoginyo melakaś ca vā | atītānāgatah yogar bhāvanā bhāvanāśanī | 142 ॥ taih sārddhaṁ bhojanarh varjyari pānagoṣthī ca yatnatah | teṣu sabhāṣanaṁ varjyari sarhsparsarh kirn punah priye I| 143 ॥ adīkṣitajanasparśāt snānam āgneyam ācaret | ‘By contact with those who do not belong to (the same) Kula, there is a fall from that Kula. In a Kula tradition that is exclusive (ekapātra), one should never do otherwise, if one wishes the best for oneself or accomplishment, O lady praised by (Kaula) heroes, (if one wishes) a long life or meetings with Yoginīs, Yoga that has passed or not yet come, and the contemplation (bhāvanā) that destroys phenomenal existence. One must strenuously avoid drinking together with them. Conversation with them must be avoided, what to say, O beloved, of touching! The touch of one who is not initiated requires that one must bath in fire.”
+877\. \[illegible\] TĀ 15/576abc (572abc) is JY 4/20/140abc (MS K: fl 142b, Kh: 123a G: 175b). The text continues: akulīnaiś ca saṁparkāt tatkulāt patanarn bhavet ॥ 140 ॥ ekapātre kulāmnāye \[illegible\] nānyat kadācana | yadicched ātmanaḥ śreyo \[k,kh: śreyeḥ\] siddhir vā vīṛravandite ॥ 141 ॥ Jīvitaṁ sucira vātha yoginyo melakaś ca vā | atītānāgataḥ yogar bhāvanā bhāvanāśanī | 142 ॥ taiḥ sārddhaṁ bhojanaṁ varjyari pānagoṣthī ca yatnataḥ | teṣu sabhāṣanaṁ varjyari saṁsparsaṁ kirn punaḥ priye I| 143 ॥ adīkṣitajanasparśāt snānam āgneyam ācaret | ‘By contact with those who do not belong to (the same) Kula, there is a fall from that Kula. In a Kula tradition that is exclusive (ekapātra), one should never do otherwise, if one wishes the best for oneself or accomplishment, O lady praised by (Kaula) heroes, (if one wishes) a long life or meetings with Yoginīs, Yoga that has passed or not yet come, and the contemplation (bhāvanā) that destroys phenomenal existence. One must strenuously avoid drinking together with them. Conversation with them must be avoided, what to say, O beloved, of touching! The touch of one who is not initiated requires that one must bath in fire.”
 
 
 *[p. 335]* ^pg353
 
-(ekapātra),TM\* and so one must avoid those (who belong to other ones). However, if by mistake one has made friendsTM” (with a member of another tradition, and takes) part in (his) gathering \[illegible\] one should worship the assembly (cakra) (of deities and initiates there along with them). (574cd- 575) (572-573ab) 
+(ekapātra),\* and so one must avoid those (who belong to other ones). However, if by mistake one has made friends” (with a member of another tradition, and takes) part in (his) gathering \[illegible\] one should worship the assembly (cakra) (of deities and initiates there along with them). (574cd- 575) (572-573ab) 
+
+### TĀ 15.573–574
 
 श्रीमदूमौ च कथितमागमान्तरसेवके ।
 गुर्वन्तररते मूढे देवद्रव्योपजीवके । ५७६ ॥
@@ -221,9 +253,11 @@ srīmadūrmau ca kathitam āgamāntarasevake |
 gurvantararate mūdhe devadravyopajīvake ॥ 576 ॥
 saktihihsākare duṣṭte saparkarhi naiva kārayet | 
 
-It is also said in the venerable \[illegible\] that (an initiate) should not associate with one who follows other scriptures, one who is devoted to a different teacher (of another tradition), a fool, one who earns a living with the substances (that are offered to the) deity, one who is violent to a Tantric consort (śaktihihsā), and one who is wicked.\*TM® (576-577ab) (573cd-574) 
+It is also said in the venerable \[illegible\] that (an initiate) should not associate with one who follows other scriptures, one who is devoted to a different teacher (of another tradition), a fool, one who earns a living with the substances (that are offered to the) deity, one who is violent to a Tantric consort (śaktihihsā), and one who is wicked.\* (576-577ab) (573cd-574) 
 
-878\. The term ekapătra- literally means ‘the same plate’. In common usage the term denotes the condition of the members of a group who dine only amongst themselves in order to avoid being polluted by dining with others. Either way the general sense is ‘exclusive’. Kulas are exclusive. Only members of the same Kula can, for example, study scripture or perform rituals together. Indeed, they cannot even eat together. Cf. Kulārnavatantra: ekapātrar na kurvīta yadi sākṣāt kuleśvarah | mantrāh parāṁmukhā yānti vighnaścaiva pade pade ॥ ‘One should not eat together (indiscriminately with others) (ekapātra), if one is Kuleśvara (Himself) directly visible. Mantras become averse and an obstacle (arises) at cach step.” Kulārnava 8/15. The same verse is found in KuKh 37/67. See Dyczkowski 2009: vol. 11 p. 348-351 note 157 concerning commensality.
+#### Viveka on 15.573–574
+
+878\. The term ekapātra- literally means ‘the same plate’. In common usage the term denotes the condition of the members of a group who dine only amongst themselves in order to avoid being polluted by dining with others. Either way the general sense is ‘exclusive’. Kulas are exclusive. Only members of the same Kula can, for example, study scripture or perform rituals together. Indeed, they cannot even eat together. Cf. Kulārnavatantra: ekapātrar na kurvīta yadi sākṣāt kuleśvaraḥ | mantrāḥ parāṁmukhā yānti vighnaścaiva pade pade ॥ ‘One should not eat together (indiscriminately with others) (ekapātra), if one is Kuleśvara (Himself) directly visible. Mantras become averse and an obstacle (arises) at cach step.” Kulārnava 8/15. The same verse is found in KuKh 37/67. See Dyczkowski 2009: vol. 11 p. 348-351 note 157 concerning commensality.
 
 879\. \[illegible\] 15/576 (572) is a quotation from JY 4/20/140cd-141ab (MS K 142b Kh fl. 123a G 175b), which reads as follows: akulīnaiś ca saṁparkāt \[k kh: saṁparkā\] tatkulāt patana bhavet II 140 I| ekapātre kulāmnāye kāryaṁ nānyat kadācana | Read with the JY akulīnaiś ca for akulīneṣu and bhavet for bhayam.
 
@@ -238,6 +272,8 @@ It is also said in the venerable \[illegible\] that (an initiate) should not ass
 
 *[p. 336]* ^pg354
 
+### TĀ 15.575–576
+
 न विकल्येन दीक्षादौ वरजेदायतनादिकम् || ५७७ ॥
 उक्तास्थाशिथिठत्वे य्निमित्तं नैव तच्चेत् ।
 शासनस्थान्पुराजात्या न पश्येत्रा्युदीरयेत् || ५७८ ॥
@@ -248,13 +284,17 @@ uktāsthāśithilatve yan nimittari naiva tac caret |
 sāsanasthān purājātyā na paśyen nāpy udīrayet || 578 ॥
 na ca vyavaharet sarvāñ chivābhedena kevalam | 
 
-One should not (take) initiation and the like and go to sacred sites (āyatana) with (fickle) thoughts (vikalpa); nor should one seek to find a reason for (one’s own) laxity in practicing the stated (teaching). One should not see, refer to,TM or treat those who are established followers of the teachings according to their prior caste status. (Rather, one should treat them) all only as one with Śiva. (577cd-579ab) (575-576) 
+One should not (take) initiation and the like and go to sacred sites (āyatana) with (fickle) thoughts (vikalpa); nor should one seek to find a reason for (one’s own) laxity in practicing the stated (teaching). One should not see, refer to, or treat those who are established followers of the teachings according to their prior caste status. (Rather, one should treat them) all only as one with Śiva. (577cd-579ab) (575-576) 
 
-(One must avoid) ‘those’ who belong (to other traditions,) such as the Veda. (One should not take initiation) with ‘“(vacillating) thoughts (vikalpa)’, that is, doubts. One should ‘go’ (to sacred sites) with a mind free of doubts, in the manner that will be explained. This is the intended sense. (One should not refer to an initiate’s) ‘prior caste status’ as a Brahmin etc. (Rather) one should see him ‘as one with iva As is said (in the Svacchandatantra): 
+#### Viveka on 15.575–576
 
-‘O goddess, a person who mentions (an initiate’s) prior caste (status is a sinner who is) subject to penance. He burns for three days in Rudra’s hell, five in Keśava’s, and a lunar fortnight in that of Brahmā.’\*® 
+(One must avoid) ‘those’ who belong (to other traditions,) such as the Veda. (One should not take initiation) with ‘“(vacillating) thoughts (vikalpa)’, that is, doubts. One should ‘go’ (to sacred sites) with a mind free of doubts, in the manner that will be explained. This is the intended sense. (One should not refer to an initiate’s) ‘prior caste status’ as a Brahmin etc. (Rather) one should see him ‘as one with Śiva As is said (in the Svacchandatantra): 
 
-ʻO (goddess) praised by heroes, Brahmins, warriors (kṣatriya), merchants (vaiśya) and servants \[illegible\] who have been appointed as teachers are all considered to be Śivas.”® 
+‘O goddess, a person who mentions (an initiate’s) prior caste (status is a sinner who is) subject to penance. He burns for three days in Rudra’s hell, five in Keśava’s, and a lunar fortnight in that of Brahmā.’\* 
+
+ʻO (goddess) praised by heroes, Brahmins, warriors (kṣatriya), merchants (vaiśya) and servants \[illegible\] who have been appointed as teachers are all considered to be Śivas.” 
+
+### TĀ 15.577–578
 
 सद्द साकमासीत ्ञानदीप्त्यै यतेत च ॥ ५७९ ॥
 नासंस्कृतां त्रजेत्तज्जं विफलत्वं नचानयेत् ।
@@ -272,32 +312,38 @@ One should not (take) initiation and the like and go to sacred sites (āyatana) 
 
 *[p. 337]* ^pg355
 
-sadvidyaih sākam āsīta jṁñānadīptyai yateta ca ॥ 579 ॥
-nāsaṁskrtār vrajet \[illegible\] viphalatvarh na cānayet |
+sadvidyaiḥ sākam āsīta jṁñānadīptyai yateta ca ॥ 579 ॥
+nāsaṁskṛtār vrajet \[illegible\] viphalatvaṁ na cānayet |
 melakārdhaniśācaryā janavarjari ca tatra hi \\\\ 580 ॥
 māṁsādidāhagandharii ca jighred devīpriyo hy asau | 
 
-One should keep the company (āsīta)TM of those who have true knowledge, and exert oneself with those who are enthused by knowledge. One should not approach (a woman) who has not been purified (asaṁiskrtā). Moreover, (if one does,) one should not render fruitless” what is born from that 
+One should keep the company (āsīta) of those who have true knowledge, and exert oneself with those who are enthused by knowledge. One should not approach (a woman) who has not been purified (asaṁiskṛtā). Moreover, (if one does,) one should not render fruitless” what is born from that 
 
-(encounter).TM 
+(encounter). 
 
-\[illegible\] where the practice at midnight (ardhaniśācaryā) of the assembly (of male and female initiates) (melaka)®? takes place, should be (a secluded place where) there are no people (janavarja). One should smell the aroma of burning meat etc. (One who does so) is pleasing to the goddess. (579cd-581ab) (577-578) 
+\[illegible\] where the practice at midnight (ardhaniśācaryā) of the assembly (of male and female initiates) (melaka)? takes place, should be (a secluded place where) there are no people (janavarja). One should smell the aroma of burning meat etc. (One who does so) is pleasing to the goddess. (579cd-581ab) (577-578) 
+
+#### Viveka on 15.577–578
 
 ‘One should not approach’ and keep the company (of a woman) ‘who has not been purified’, that is, who has not received initiation. ‘What is born from that (encounter)’ is the mixture of sexual fluids (kundagola) and the like (that serve as Kaula sacrificial substances). 
+
+### TĀ 15.579–580
 
 गुवीज्ञां पालयन्सर्वं त्यजेन्मन्रमयो भवेत् ॥ ५८१ ॥
 शास्रपूजाजपध्यानविवेकतदुपक्रियाः ।
 अकर्वनिष्फयं नैव चेष्टेत त्रिविधां क्रियाम् ॥ ५८२ ॥
 मन्रतनैर्न वादं च कुयीन्नो भक्षयेद्रिषम् |
 
-sāstrapūjājapadhyānavivekatadupakriyāh |
+sāstrapūjājapadhyānavivekatadupakriyāḥ |
 akurvan niṣphalār naiva ceṣtṭeta trividhām kriyām || 582 Il mantratantrair na vādaṁ ca kuryān no bhakṣayed viṣam | 
 
-Observing the teacher’s command, he should abandon everything, and be one with Mantra (mantramaya) (by being fully concentrated on it). He should not dedicate himself fruitlessly to the three types of rites (obligatory, occasional and optional) without (worshipping) the scriptures, worshipping (the deities), repeating Mantra, meditation, discrimination, and (whatever) aids them. One should not kill (others)®? with Mantras and magical rites (mantratantra), and not feed (others) poison. (581cd-583ab) (579-580) 
+Observing the teacher’s command, he should abandon everything, and be one with Mantra (mantramaya) (by being fully concentrated on it). He should not dedicate himself fruitlessly to the three types of rites (obligatory, occasional and optional) without (worshipping) the scriptures, worshipping (the deities), repeating Mantra, meditation, discrimination, and (whatever) aids them. One should not kill (others)? with Mantras and magical rites (mantratantra), and not feed (others) poison. (581cd-583ab) (579-580) 
+
+#### Viveka on 15.579–580
 
 888\. \[illegible\] The literal meaning of āsira ‘one should sit (with)’, i.e., "keep the company of.
 
-889\. In place of cānayet MS Threads: cãcaret.
+889\. In place of cānayet MS Threads: cācaret.
 
 890\. See commentary and below, 29/14-16, 22-24ab.
 
@@ -316,6 +362,8 @@ the teacher’s command,)
 
 ‘one should abandon everything’; in this way, for example, his command is obeyed. This is the sense. 
 
+### TĀ 15.581–584
+
 समयानां विलोपे च गुरु पृच्छेदसन्निधौ ।। ५८३ ॥
 तद्र्म निजसन्तानमन्यं तस्याप्यसंनिधौ ।
 तेनोक्तमनुतिष्ठेच्च निर्विकल्पं प्रयत्नतः ॥ ५८४ ॥
@@ -324,17 +372,21 @@ the teacher’s command,)
 शिवस्य स्वात्मसंस्कृत्यै प्रहीभावो गुरोः पुन ; ।
 हादायेत्युभया्थाय तत्तुष्टः फलदा शिशोः ॥ ५८६ ॥
 
-samayānār vilope ca \[illegible\] prceched asannidhau || 583 ||
-tadvargarh nijasantānam anyarh tasyāpy asarhnidhau |
-tenoktam anutiṣthec ca nirvikalpa prayatnatah ॥ 584 ॥
-yatah śāstrādisabodhatanmayīkrtamānasah |
+samayānār vilope ca \[illegible\] pṛceched asannidhau || 583 ||
+tadvargaṁ nijasantānam anyaṁ tasyāpy asaṁnidhau |
+tenoktam anutiṣthec ca nirvikalpa prayatnataḥ ॥ 584 ॥
+yataḥ śāstrādisabodhatanmayīkṛtamānasaḥ |
 siva eva gurur nāsya vāgasatyā vinihsaret || 585 ॥
-sivasya svātmasariskrtyai prahvībhāvo guroh punah |
-hlādāyety ubhayārthāya tattuṣtih phaladā śiśoh ॥ 586 ॥ 
+sivasya svātmasariskṛtyai prahvībhāvo guroḥ punaḥ |
+hlādāyety ubhayārthāya tattuṣtiḥ phaladā śiśoḥ ॥ 586 ॥ 
 
 If (someone) transgresses the rules, he should ask the teacher (what should be done). Or, if (the teacher) is absent, (he should ask) one of his (same) kind (varga) who is a member of his own spiritual family, or if he too is not present, another (teacher). He should take care to follow what he says without thinking (about it) (nirvikalpa). This is because by virtue of (his) insight (sarzbodha) (into the meaning of) scripture etc., the mind of the teacher has been made one with it and he is Śiva himself, nor can a false word come from him. The purpose of bowing (prahvībhāva) before Śiva is to purify oneself. In the case of the teacher, it is to please (him), and so it serves both purposes. (It is the teacher’s) satisfaction that gives (good) fruits to the disciple. (583cd-586) (581-584ab) 
 
-(If someone transgresses the rules,) ‘he should ask’ (the teacher what) the penance (should be). (If his own teacher is absent, he should ask) ‘another’ teacher (or a member of) ‘his’ (that is, the teacher’s) ‘own spiritual family’. (He should follow what) ‘he’, that is, the other one, (says). If one offers salutation to iva, it makes no difference at all to Śiva. Rather, (it makes a difference) to the one who offers it. The same is the case with the teacher with regards to one’s own purification. (But apart from that,) he is also pleased then, and so it is said that ‘it serves both purposes’. 
+#### Viveka on 15.581–584
+
+(If someone transgresses the rules,) ‘he should ask’ (the teacher what) the penance (should be). (If his own teacher is absent, he should ask) ‘another’ teacher (or a member of) ‘his’ (that is, the teacher’s) ‘own spiritual family’. (He should follow what) ‘he’, that is, the other one, (says). If one offers salutation to Śiva, it makes no difference at all to Śiva. Rather, (it makes a difference) to the one who offers it. The same is the case with the teacher with regards to one’s own purification. (But apart from that,) he is also pleased then, and so it is said that ‘it serves both purposes’. 
+
+### TĀ 15.584–586
 
 गुवीयत्तेकसिद्धिर्हिं समलयपि विबोधभाक् ।
 तद्बोधवहुमानेन विद्याद् गुरुतमं गुरुम् । । ५८७ ॥
@@ -345,11 +397,13 @@ If (someone) transgresses the rules, he should ask the teacher (what should be d
 नासौ विज्ञानविश्वस्तो नासक्तं भ्रष्ट एव सः ।॥ ५८८ ॥
 
 gurvāyattaikasiddhir hi samayy api vibodhabhāk |
-tadbodhabahumānena vidyād gurutamarh gurum || 587 ||
-atah saṁprāpya vijñānaṁ yo gurau bahumānavān |
-nāsau vijñānaviśvasto nāsaktaṁi bhraṣṭa eva sah ॥ 588 ॥ 
+tadbodhabahumānena vidyād gurutamaṁ gurum || 587 ||
+ataḥ saṁprāpya vijñānaṁ yo gurau bahumānavān |
+nāsau vijñānaviśvasto nāsaktaṁi bhraṣṭa eva saḥ ॥ 588 ॥ 
 
-When the ‘regular’ initiate, whose success depends solely on the teacher, also possesses a fully awakened consciousness (vibodha),TM he should consider (his) teacher to be (even) more than a teacher (gurutama), by virtue of the respect (he has) for that awakened consciousness. Thus, one who, after he has attained knowledge (vijñāna), (yet) does not have great veneration for his teacher, has no faith in the knowledge (he has received). He is not zealous.” (Indeed) he is just a fallen soul. (587-588) (584cd-586ab) 
+When the ‘regular’ initiate, whose success depends solely on the teacher, also possesses a fully awakened consciousness (vibodha), he should consider (his) teacher to be (even) more than a teacher (gurutama), by virtue of the respect (he has) for that awakened consciousness. Thus, one who, after he has attained knowledge (vijñāna), (yet) does not have great veneration for his teacher, has no faith in the knowledge (he has received). He is not zealous.” (Indeed) he is just a fallen soul. (587-588) (584cd-586ab) 
+
+### TĀ 15.586–588
 
 ज्ञानानाश्वस्तचित्तं तं वचोमात्रेण शासखज्ञम् ।
 उक्तं च नार्चयेज्जातुं हदा विज्ञानदूषकम् || ५८९ ॥
@@ -358,10 +412,12 @@ When the ‘regular’ initiate, whose success depends solely on the teacher, al
 
 jñānānāśvastacitta ta vacomātreṇa śāstrajñam | 
 
-tādrk ca na guruh kāryas tarn krtvāpi parityajet |
+tādṛk ca na guruḥ kāryas tarn kṛtvāpi parityajet |
 mukhyabuddhyā na saipaśyed vaiṣnavādigatān gurūn ॥ 590 ॥ 
 
-(A teacher who) does not have faith in the knowledge (of the scriptures), and is saidTM” to know the scriptures® only by (their) words (without knowing the reality they teach), and with (his) heart criticises (this) knowledge,” should certainly not be venerated. One should not make such a teacher (one’s own, or) if one has done so, abandon him. One should not consider Vaiṣṇava and other such teachers to be the main ones (as one does true Śaiva teachers). (559-590) (586cd-588ab) 
+(A teacher who) does not have faith in the knowledge (of the scriptures), and is said” to know the scriptures only by (their) words (without knowing the reality they teach), and with (his) heart criticises (this) knowledge,” should certainly not be venerated. One should not make such a teacher (one’s own, or) if one has done so, abandon him. One should not consider Vaiṣṇava and other such teachers to be the main ones (as one does true Śaiva teachers). (559-590) (586cd-588ab) 
+
+#### Viveka on 15.586–588
 
 (One should not take a Vaiṣṇava as a teacher;) ‘if one has done so’ by mistake, (abandon him). 
 
@@ -371,14 +427,16 @@ mukhyabuddhyā na saipaśyed vaiṣnavādigatān gurūn ॥ 590 ॥
 
 896\. Read nāsaktari for nāsatyaṁ.
 
-897\. Read with MSs C and \[illegible\] uktarh for bhaktar.
+897\. Read with MSs C and \[illegible\] uktaṁ for bhaktar.
 
 898\. Read śāstrajñam for śāstritam, which makes no sense.
 
-899\. Instead of hrdā vijñāna- C \[illegible\] read: hrdādijñāna- ‘(criticizes) the knowledge of the Heart and other (Mantras)’.
+899\. Instead of hṛdā vijñāna- C \[illegible\] read: hṛdādijñāna- ‘(criticizes) the knowledge of the Heart and other (Mantras)’.
 
 
 *[p. 340]* ^pg358
+
+### TĀ 15.588–590
 
 तथा च श्रीमदूप्याख्ये गुरोरुक्तं विशेषणम् ।
 गुर्वीज्ञा प्राणसंदेहे नोपेक्ष्या नो विकल्प्यते ॥ ५९१ ॥!
@@ -389,11 +447,13 @@ mukhyabuddhyā na saipaśyed vaiṣnavādigatān gurūn ॥ 590 ॥
 tathā ca śrīmadūrmyākhye guror uktarn viśeṣanam |
 gurvājñā prāṇasaridehe nopekṣyā no vikalpyate ॥ 591 ॥
 kauladīkṣā kaulaśāstrari tattvajñānamṁi prakāśitam |
-yenāsau gurur ity ukto hy anye vai nāmadhārinah || 592 ॥ 
+yenāsau gurur ity ukto hy anye vai nāmadhārinaḥ || 592 ॥ 
 
-Moreover, the (distinguishing) characteristic of a teacher is stated in the venerable (Tantra) called ŪrmiTM” in the same way. (There it is said that) out of fear for (one’s) life (if one does so), the teacher’s command should not be disregarded (nor) doubted.” He is said to be a (a real and true) teacher who reveals Kaula initiation, the Kaula scriptures and knowledge of reality. Others (just) bear that name. (591-592) (588cd-590ab) 
+Moreover, the (distinguishing) characteristic of a teacher is stated in the venerable (Tantra) called Ūrmi” in the same way. (There it is said that) out of fear for (one’s) life (if one does so), the teacher’s command should not be disregarded (nor) doubted.” He is said to be a (a real and true) teacher who reveals Kaula initiation, the Kaula scriptures and knowledge of reality. Others (just) bear that name. (591-592) (588cd-590ab) 
 
-The Pledges According to the Ãnandaśāstra 
+### TĀ 15.590–592
+
+The Pledges According to the Ānandaśāstra 
 
 श्रीमदानन्दशाखे च तथैवोक्तं विशेषणम् ।
 यस्मादीक्षा मन्रशाखं तत्त्वज्ञानं स वे गुरः || ५९३ ॥।
@@ -401,70 +461,82 @@ The Pledges According to the Ãnandaśāstra
 केवलं लिद्धिनः पाल्या न बीभत्स्या विरूपकाः ।
 
 śrīmadānandaśāstre ca tathaivoktarn viśeṣaṇam |
-yasmād dīkṣā mantraśāstraṁ tattvajñānari sa vai guruh || 593 ॥
+yasmād dīkṣā mantraśāstraṁ tattvajñānari sa vai guruḥ || 593 ॥
 tiṣthed avyaktaliṁgaś ca na \[illegible\] dhārayet kvacit |
-na liñùgibhih samarn kaiścit kuryād ācāramelanam || 594 ||
-kevalari liñginah pālyā na bībhatsyā virūpakāh | 
+na liṅgibhiḥ samarn kaiścit kuryād ācāramelanam || 594 ||
+kevalari liṅginaḥ pālyā na bībhatsyā virūpakāḥ | 
 
-The distinguishing characteristic (of a teacher) is also explained in the same way in the venerable Ãnandaśāstra, (where we read that) a (true) teacher is one from whom (one obtains true) initiation, the Mantra scriptures, and knowledge of reality.” 
+The distinguishing characteristic (of a teacher) is also explained in the same way in the venerable Ānandaśāstra, (where we read that) a (true) teacher is one from whom (one obtains true) initiation, the Mantra scriptures, and knowledge of reality.” 
 
 900\. This is the Ọrmikaulārṇavatantra. See above, note to 2/48.
 
-901\. For no vikalpyate MS C: no vilaùghyate; \[illegible\] no viñghyate — ‘is not to be transgressed’.
+901\. For no vikalpyate MS C: no vilaṅghyate; \[illegible\] no viṅghyate — ‘is not to be transgressed’.
 
 902\. Abhinava has just quoted the Ürmikaulārnava as saying that the teacher of that Tantra gives Kaula initiation, Kaula scriptures and knowledge of reality. One wonders if the replacement of the first two with simply ‘initiation; and ‘scriptures’ is significant. We know from the fragments that have been recovered of the Ürmikaulārnava that it was a Krama Tantra brought into the world by Matsyendranātha. He is a well-known founder figure of Kaulism in general, and so there is no question of the Ūrmikaulārnava not being Kaula. Perhaps we may infer that although the Ānandatantra was a Tantra of the left (vāmatantra), it was not Kaula.
 
 
 *[p. 341]* ^pg359
 
-\[illegible\] should (always) be \[illegible\] without (outer) manifest sectarian signs. Nowhere (in any circumstance) should one bear (outer) signs (of one’s spiritual affiliation).TM Nor should one congregate together to practice (ācāramelana)TM with those who do (bear such outer) signs. One should only defend (and respect) those who bear (these) signs (nothing more). One should not fear (bībhatsyã) people who are deformed (and ugly). (593-596) (590cd-592) 
+\[illegible\] should (always) be \[illegible\] without (outer) manifest sectarian signs. Nowhere (in any circumstance) should one bear (outer) signs (of one’s spiritual affiliation). Nor should one congregate together to practice (ācāramelana) with those who do (bear such outer) signs. One should only defend (and respect) those who bear (these) signs (nothing more). One should not fear (bībhatsyā) people who are deformed (and ugly). (593-596) (590cd-592) 
+
+#### Viveka on 15.590–592
 
 (The teacher’s word) ‘should not be doubted’, (as when one thinks) should (what he says) be done or not?” 
 
+### TĀ 15.593
+
 Rules and Norms Taught in Various Trika and Bhairava Tantras श्ीमदरत्रिकुले चोक्तं मोक्षः शङ्धापहानितः ॥ ५९५ ॥
 अशुद्धवासस्नयैषा मोक्षवातीपि दुर्लभा ।
-śrīmadrātrikule cokta mokṣah śaṁkāpahānitah ॥ 595 ॥
+śrīmadrātrikule cokta mokṣaḥ śaṁkāpahānitaḥ ॥ 595 ॥
 aśuddhavāsanasyaiṣā mokṣavārtāpi durlabhā | 
 
 It is said in the venerable Rātrikula: ‘(The chance of achieving) liberation is destroyed” by doubts; for one whose latent tendencies are impure, even (just) this talk of liberation is hard to obtain (durlabhā). (595cd-596ab) (593) 
 
+#### Viveka on 15.593
+
 903\. The following three lines seem to be out of place. Reading the text in continuity, the series of injunctions would apply to the teacher. But that is not likely. The last two are certainly not meant just for the teacher, the others also do not appear to be. In short, the subject has changed abruptly to Abhinava citing general rules initiates must observe. So either these lines are spurious, or some part of the text has been lost. Given this hiatus, it is unsure whether Abhinava continues to draw from the same source.
 
-904\. The word for ‘sign’ here is ‘Jinga’. It is possible that the reference here is to Śaivites who wear small Jiñgas on their bodies. But it here it is probably not so. Cf.: avyaktaliñginaṁ \[k: -tarh\] drstvā sabhāsanti marīcayah | liñginaṁ nopasarpanti atiguptāya tat \[k: ta\] priye \[k: priyet\] W ‘(The yoginīs who are) the rays (of the energies of the deity), seeing (an ascetic) without (outer) manifest insignia, converse (with him). 0 beloved, they do not approach one who bears insignia, for they are very secret.” Kulapañcaśika 3/19 Quoted by Kṣemarāja in commentary on the Sivasūtra 3/26 (also quoted in footnote here). Cf. below 27/17a, also MV 18/1-56ab with regards to the adept who is \*avyaktaliñgin’.
+904\. The word for ‘sign’ here is ‘Jinga’. It is possible that the reference here is to Śaivites who wear small Jiṅgas on their bodies. But it here it is probably not so. Cf.: avyaktaliṅginaṁ \[k: -taṁ\] dṛṣtvā sabhāsanti marīcayaḥ | liṅginaṁ nopasarpanti atiguptāya tat \[k: ta\] priye \[k: priyet\] W ‘(The yoginīs who are) the rays (of the energies of the deity), seeing (an ascetic) without (outer) manifest insignia, converse (with him). 0 beloved, they do not approach one who bears insignia, for they are very secret.” Kulapañcaśika 3/19 Quoted by Kṣemarāja in commentary on the Sivasūtra 3/26 (also quoted in footnote here). Cf. below 27/17a, also MV 18/1-56ab with regards to the adept who is \*avyaktaliṅgin’.
 
 905\. Abhinava is probably referring here to cakramelana, in which assemblies of Siddhas and Yoginīs meet to engage in Kaula practice (see below, 28/371 ff).
 
-906\. \[illegible\] Instead of sañkāpahānitah MS C reads: śaṁñkāprahāritah; Ṭ: saṁkāprahānitah.
+906\. \[illegible\] Instead of saṅkāpahānitaḥ MS C reads: śaṅkāprahāritaḥ; Ṭ: saṁkāprahānitaḥ.
 
 
 *[p. 342]* ^pg360
 
+### TĀ 15.594
+
 Kularatnamālā न लिखेन्मन्रह्दयं श्रीमन्मालोदितं किल ।। ५९६ ॥
 तदङ्गादुद्धरेनमन््रं न तु ठेखे विठेखयेत् ।
-na likhen mantrahrdayari śrīmanmāloditari kila ॥ 596 Il tadañgād uddharen mantram na tu lekhe vilekhayet | 
+na likhen mantrahṛdayari śrīmanmāloditari kila ॥ 596 Il tadaṅgād uddharen mantram na tu lekhe vilekhayet | 
 
 One should not write the (seed syllable) taught in the venerable Mālā (i.e., Kularatnamālā), which is the Heart of (all) Mantras.” (It is said there that) ‘the Mantra should be extracted from its body.” It should not be written in a manuscript (lekha).’ (596cd-597ab) (594) 
 
+### TĀ 15.595–596
+
 Kulagahvaratantra अतत््ेऽभिनिवेशं चन कुयीत्पक्षपाततः || ५९७ ॥
 जातिविद्याकुलाचारदेहदेशगुणार्थजान् ग्रहान्रहानिवाष्टौ ्राक््यजेट् गहरदर्शितान् || ५९८ ॥
-atattve ‘bhiniveśaṁ ca na kuryāt pakṣapātatah ॥ 597 ॥
+atattve ‘bhiniveśaṁ ca na kuryāt pakṣapātataḥ ॥ 597 ॥
 jātividyākulācāradehadeśaguṇārthajān |
 grahān grahān ivāṣṭau drāk tyajed gahvaradarśitān ॥ 598 ॥ 
 
-One should not be attached to what is not true (atattva) (moved) by (some foolish) prejudice (pakṣapāta). The eight tenacious errors (graha)TM” 
+One should not be attached to what is not true (atattva) (moved) by (some foolish) prejudice (pakṣapāta). The eight tenacious errors (graha)” 
 
-907\. The Kularatnamālā is a Trika Tantra. Thus, most probably the Mantrahrdaya is SAUH. Abhinava refers to it that way in PTv p. 252.
+907\. The Kularatnamālā is a Trika Tantra. Thus, most probably the Mantrahṛdaya is SAUH. Abhinava refers to it that way in PTv p. 252.
 
-908\. The body (aga) of Mantras is a diagram or grid called a prastāra, within which the letters of the alphabet (mārrkā) are deposited. When it been properly consecrated, it becomes an ‘assembly of letters” (mātrkācakra). Thus empowered, the letters are extracted from it to form Mantras. It can also serve as a code. Instead of mentioning a letter directly, the text may identify it by referring to its position in relation to other letters in the grid. See Schoterman 1982: 181-209 for an extensive discussion and presentation, including drawings of several prastāras (also called gahvaras), and Dyczkowski 2009: vol. 7 pp. 9-11, 13-16 notes 1, 4 and 5.
+908\. The body (aga) of Mantras is a diagram or grid called a prastāra, within which the letters of the alphabet (mārrkā) are deposited. When it been properly consecrated, it becomes an ‘assembly of letters” (mātṛkācakra). Thus empowered, the letters are extracted from it to form Mantras. It can also serve as a code. Instead of mentioning a letter directly, the text may identify it by referring to its position in relation to other letters in the grid. See Schoterman 1982: 181-209 for an extensive discussion and presentation, including drawings of several prastāras (also called gahvaras), and Dyczkowski 2009: vol. 7 pp. 9-11, 13-16 notes 1, 4 and 5.
 
-909\. \[illegible\] The word graha is a noun derived from the root grh, which has the sense of “lay hold of, catch’. Here the same word is used in two senses. One 1 translate as ‘tenacious error’, These are the things we ‘hold on \[illegible\] and ‘lay hold of' as seemingly important due to ignorance and attachment. The word is repeated in a second sense, which is defined in Monier-Williams\* dictionary as ‘particular evil demons or spirits who seize or exercise a bad influence on the body and mind of a man (causing insanity etc., it falls within the domain of medical science to expel these demons, those who especially seize children and cause convulsions etc. are divided into nine classes according to the number of planets)’. Indeed, the word ‘graha’ may also means ‘planet because planets ‘lay hold’ of people, thus influencing their destiny. Again, a ‘graha’ is also, according to Monier Williams, ‘any state which proceeds from magical influences and takes possession of the whole man’. An interesting example mentioned in the medical books is rudragraha. A person afflicted by this graha is possessed by the notion that he is as mighty and important as Rudra. He is gripped by a fury that makes him very strong and unmindful of the normal social restraints. Thus, he may run through the streets naked yelling at the top of his voice “I am Rudra”. This is a state of possession — graha — which is quite different from the grace —anugraha of the Deity that also manifests as a ‘descent of power’ that penetrates and ‘possesses’ the person who is its object. The difference, of course, is that it enlightens and liberates, whereas the former obscures and binds. Finally, more simply and directly, one could translate ‘graha’ as \*attachment’, as in the expression ‘jārigraha’ — ‘attachment to caste”.
+909\. \[illegible\] The word graha is a noun derived from the root gṛh, which has the sense of “lay hold of, catch’. Here the same word is used in two senses. One 1 translate as ‘tenacious error’, These are the things we ‘hold on \[illegible\] and ‘lay hold of' as seemingly important due to ignorance and attachment. The word is repeated in a second sense, which is defined in Monier-Williams\* dictionary as ‘particular evil demons or spirits who seize or exercise a bad influence on the body and mind of a man (causing insanity etc., it falls within the domain of medical science to expel these demons, those who especially seize children and cause convulsions etc. are divided into nine classes according to the number of planets)’. Indeed, the word ‘graha’ may also means ‘planet because planets ‘lay hold’ of people, thus influencing their destiny. Again, a ‘graha’ is also, according to Monier Williams, ‘any state which proceeds from magical influences and takes possession of the whole man’. An interesting example mentioned in the medical books is rudragraha. A person afflicted by this graha is possessed by the notion that he is as mighty and important as Rudra. He is gripped by a fury that makes him very strong and unmindful of the normal social restraints. Thus, he may run through the streets naked yelling at the top of his voice “I am Rudra”. This is a state of possession — graha — which is quite different from the grace —anugraha of the Deity that also manifests as a ‘descent of power’ that penetrates and ‘possesses’ the person who is its object. The difference, of course, is that it enlightens and liberates, whereas the former obscures and binds. Finally, more simply and directly, one could translate ‘graha’ as \*attachment’, as in the expression ‘jārigraha’ — ‘attachment to caste”.
 
 
 *[p. 343]* ^pg361
 
-explained in the GahvaraTM” 
+explained in the Gahvara” 
 
-should be quickly abandoned as if they were demons (graha) (that take possession of people). (These are the attachments) induced by (pride of ones) caste, education (vidyã), (one’s) family, (one’s) behaviour, the body, country (of origin), (one’s) qualities and wealth.” (597cd-598) (595-596ab) 
+should be quickly abandoned as if they were demons (graha) (that take possession of people). (These are the attachments) induced by (pride of ones) caste, education (vidyā), (one’s) family, (one’s) behaviour, the body, country (of origin), (one’s) qualities and wealth.” (597cd-598) (595-596ab) 
+
+### TĀ 15.596–597
 
 Niśisathncāratantra 
 
@@ -474,20 +546,26 @@ Niśisathncāratantra
 एवमन्येऽप्युदाहा्यीः कुलगह्मरवमना ॥ ६०० ॥
 
 brāhmano ‘ha mayā vedaśāstroktād aparar katham ॥ 599 ॥
-anuṣṭheyam ayah jātigrahah paranirodhakah |
-evam anye ‘py udāhāryāh kulagahvaravartmanā ॥ 600 ॥ 
+anuṣṭheyam ayah jātigrahaḥ paranirodhakaḥ |
+evam anye ‘py udāhāryāḥ kulagahvaravartmanā ॥ 600 ॥ 
 
 Similarly, in the venerable Niśsicāra and elsewhere, they are presented as what should be rejected. The supreme obstacle (to liberation) is this (demonic) attachment to caste (jātigraha) (which expresses itself in the notion that): “I am a Brahmin, so how can I dedicate myself to something other than that taught in the Vedic scriptures?” (599-600ab) (596cd-597) 
 
+### TĀ 15.598
+
 In the same way, other (errors) can be exemplified in relation to the path (taught in the) Kulagahvara. (600cd) (598ab) 
 
+#### Viveka on 15.598
+
 Surely (one may ask), how is it that caste (status) is described as being an error? 
+
+### TĀ 15.598–599
 
 अतत्स्वभावे तादरप्यं दर्शयन्नवशेऽपि यः ।
 स्वरूपाच्छादकः सोऽत्र ग्रहो ग्रह इवोदितः ।॥। ६० १ ॥
 
 atatsvabhāve tādrūpyaṁ darśayann avaśe ‘pi yah |
-svarūpācchādakah so ‘tra graho graha ivoditah ॥ 601 ॥ 
+svarūpācchādakaḥ so ‘tra graho graha ivoditaḥ ॥ 601 ॥ 
 
 910\. This is the Kulagahvaratantra. The printed edition reads gahvararśitān, which is obviously wrong. MS C reads: gahvaracarcitān and \[illegible\] Th gahvaradarśitān, which is the accepted reading.
 
@@ -498,17 +576,23 @@ svarūpācchādakah so ‘tra graho graha ivoditah ॥ 601 ॥
 
 A tenacious error (graha) is that which, causing one to perceive, even if involuntarily, something that is of a certain nature as not being of that nature, obscures its own (true) nature. (Thus) it is said to be like a demon (graha) (that takes possession of people). (601) (598cd-599ab) 
 
+#### Viveka on 15.598–599
+
 He (goes on to) amplifies this (statement). 
+
+### TĀ 15.599–601
 
 संवित्स्वभावे नो जातिप्रभृतिः कापि कल्पना ।
 रूपं सा त्वस्वरूपेण तद्रूपं छादयत्यलम् ।। ६०२ ॥
 या काचित्कल्पना । संवित्तत्वस्याखण्डितात्मनः सङ्कोचकारिणी सर्वः स ग्रस्तां परित्यजेत् ॥ ६०३ ॥
 
-saṁvitsvabhāve no jātiprabhrtih kāpi kalpanā |
-rūpaṁ sā tv asvarūpeṇa tad \[illegible\] chādayaty alam ॥ 602 |I yā kācit kalpanā saṁvittattvasyākhanditātmanah |
-saṁkocakāriṇī sarvah sa grahas tām parityajet ॥ 603 ॥ 
+saṁvitsvabhāve no jātiprabhṛtiḥ kāpi kalpanā |
+rūpaṁ sā tv asvarūpeṇa tad \[illegible\] chādayaty alam ॥ 602 |I yā kācit kalpanā saṁvittattvasyākhanditātmanaḥ |
+saṁkocakāriṇī sarvaḥ sa grahas tām parityajet ॥ 603 ॥ 
 
 No notion (kalpanā) of caste and the like apply to the essential nature of consciousness. As it is not the true nature of (its) nature,” it is capable of obscuring that nature. Any (discursive, dualistic) notion of the (true) nature of consciousness, which (is one and) undivided, contracts it. All that is erroneous (graha), (and so any such notion) should be abandoned. (602-603) (599cd-601ab) 
+
+### TĀ 15.601–604
 
 Ānandaśāstra 
 
@@ -520,18 +604,20 @@ No notion (kalpanā) of caste and the like apply to the essential nature of cons
 सर्वदेवमयः कायः सर्वप्राणिष्विति स्फुटम् ॥ ६०६ ॥
 
 śrīmadānandaśāstre ca kathitan parameṣtṭhinā |
-nirapekṣah prabhur vāmo na śuddhyā tatra kāraṇam ॥ 604 ॥
-devītrptir makhe raktamāṁsair no śaucayojanāt |
-dvijāntyajaih samar kāryā carvante ‘pi marīcayah ॥ 605 ॥
-avikārakrtas tena vikalpān nirayo bhavet |
-sarvadevamayah kāyah sarvaprāṇiṣv iti sphuṭam ॥ 606 ॥ 
+nirapekṣaḥ prabhur vāmo na śuddhyā tatra kāraṇam ॥ 604 ॥
+devītṛptir makhe raktamāṁsair no śaucayojanāt |
+dvijāntyajaiḥ samar kāryā carvante ‘pi marīcayaḥ ॥ 605 ॥
+avikārakṛtas tena vikalpān nirayo bhavet |
+sarvadevamayaḥ kāyaḥ sarvaprāṇiṣv iti sphuṭam ॥ 606 ॥ 
 
-912\. \[illegible\] Emend rüparh sā to rūpasya.
+912\. \[illegible\] Emend rüpaṁ sā to rūpasya.
 
 
 *[p. 345]* ^pg363
 
-The Lord has also said in the venerable Ānandaśāstra: “The Lord is without bias (nirapekṣa) and acts in a manner contrary (to the common worldly norms)TM (vāma). The cause there (of his bestowal of grace) is not the purity (of the recipient). (Similarly,) the goddesses are satisfied in (this) sacrifice by bloody meat,” not by applying (the rules concerning) purity. Brahmins and those belonging to the lowest castes should be made equal.” (Thus) the rays (marīci) (of consciousness radiating through the senses), although savouring (their objects), are freed of agitation (avikārakrta). Hell is the result of (dualistic) thought. It is clear that the body of all living beings (irrespective of caste or other conceived differences) is made of all the gods.’ (604-606) (601cd-604ab) 
+The Lord has also said in the venerable Ānandaśāstra: “The Lord is without bias (nirapekṣa) and acts in a manner contrary (to the common worldly norms) (vāma). The cause there (of his bestowal of grace) is not the purity (of the recipient). (Similarly,) the goddesses are satisfied in (this) sacrifice by bloody meat,” not by applying (the rules concerning) purity. Brahmins and those belonging to the lowest castes should be made equal.” (Thus) the rays (marīci) (of consciousness radiating through the senses), although savouring (their objects), are freed of agitation (avikārakṛta). Hell is the result of (dualistic) thought. It is clear that the body of all living beings (irrespective of caste or other conceived differences) is made of all the gods.’ (604-606) (601cd-604ab) 
+
+### TĀ 15.604–605
 
 Nakuleśa 
 
@@ -540,29 +626,33 @@ Nakuleśa
 तीर्थमेकं स्मरेन्मत््रमन्यती्थीनि वर्जयेत् ।
 
 śrīmadbhir nakuleśādyair apy etat sunirūpitam |
-\$arīram evāyatanaṁ nānyad āyatanaṁ vrajet ॥ 607 ॥
+Śarīram evāyatanaṁ nānyad āyatanaṁ vrajet ॥ 607 ॥
 tīrtham \[illegible\] smaren mantram anyatīrthāni varjayet | 
 
 This has also been well described by the venerable Nakuleśa” and others, (who say that) the body alone is the sanctuary (yatana); one should 
 
-913\. Gnoli translates vāmah ‘agisce come uno meno se l'aspetta’ — ‘(one who) acts in a way one least expects”. The sense of Siva being without bias is that he is free to grace anybody at any time irrespective of their caste status. The Law Books are considered to derive their authority from the Vedas. The transgression of the Law - Dharma — is viewed as an essentially spiritual offence rather than a criminal one. Thus, transgression requires reparation, not punishment. The reparation is meant to reinstate the original condition of the soul prior to the offence. This condition is understood in terms of degrees of purity. The higher the caste, the higher the level of basic purity, and the lower, the less. By virtue of their Brahminical status, Brahmins are the purest, and so are authorized to deal with the sacred. According to this view, sweepers and the like are, due to the Karma of previous lives, born inherently very impure. Thus, they are distanced from the sacred in accord with their caste status and level of impurity. The Ānandatantra declares here that \$iva’s interaction with individual souls is independent of such, and indeed, any other consideration. Whom Śiva favours by his grace, which is channelled primarily through initiation, is not determined by considerations of purity. Thus, he acts in a manner contrary to the customs and regulations of daily life. He may grace an outcaste or a Brahmin equally, their purity, in the aforestated sense, is never the cause as to why he may favour one and not the other. Indeed, the goddesses worshipped in accord with the dictates of the Ānanda and other such Tantras requires the offering of what are normally considered impure substances, such as meat and wine.
+913\. Gnoli translates vāmaḥ ‘agisce come uno meno se l'aspetta’ — ‘(one who) acts in a way one least expects”. The sense of Siva being without bias is that he is free to grace anybody at any time irrespective of their caste status. The Law Books are considered to derive their authority from the Vedas. The transgression of the Law - Dharma — is viewed as an essentially spiritual offence rather than a criminal one. Thus, transgression requires reparation, not punishment. The reparation is meant to reinstate the original condition of the soul prior to the offence. This condition is understood in terms of degrees of purity. The higher the caste, the higher the level of basic purity, and the lower, the less. By virtue of their Brahminical status, Brahmins are the purest, and so are authorized to deal with the sacred. According to this view, sweepers and the like are, due to the Karma of previous lives, born inherently very impure. Thus, they are distanced from the sacred in accord with their caste status and level of impurity. The Ānandatantra declares here that Śiva’s interaction with individual souls is independent of such, and indeed, any other consideration. Whom Śiva favours by his grace, which is channelled primarily through initiation, is not determined by considerations of purity. Thus, he acts in a manner contrary to the customs and regulations of daily life. He may grace an outcaste or a Brahmin equally, their purity, in the aforestated sense, is never the cause as to why he may favour one and not the other. Indeed, the goddesses worshipped in accord with the dictates of the Ānanda and other such Tantras requires the offering of what are normally considered impure substances, such as meat and wine.
 
 914?\. \[illegible\] Emend śuddhyā to śuddhis.
 
 915?\. Cf. another reference from the Ānandatantra below 16/65-68ab.
 
-916?\. This translation assumes that dvijāntyajaih should be emended to dvijāntyajāh and kāryā to kāryāh. Another possible translation, which sticks closer to the printed text, is ‘(worship) should be performed equally by Brahmins and members of the lowest caste’, which presumes that the unstated substantive of kāryā is \[illegible\]
+916?\. This translation assumes that dvijāntyajaiḥ should be emended to dvijāntyajāḥ and kāryā to kāryāḥ. Another possible translation, which sticks closer to the printed text, is ‘(worship) should be performed equally by Brahmins and members of the lowest caste’, which presumes that the unstated substantive of kāryā is \[illegible\]
 
 917?\. MS Threads: carvantyepi for carcānte ‘pi, which suggests the emendation carvante ‘pi.
 
-918?\. 1 take 15/608cd-612ab (604cd-608ab) to be Nakuleśa’s teachings. Perhaps Nakuleśa is Lakuleśa / Lākulīśa, who is traditionally renowned as the founder of an important branch of Pāśupata Śaivism (see below, 37/13cd-15), the immediate precursor of the Āgamic Śaivism. If he is Nakuleśa, the passage Abhinava is presenting here from an unknown source is \[illegible\] rising. Nakuleśa believed in the interiorization of sacred geographies. The Pāñcārthika Pāśpata Śaivism taught in the Pāãśupatasūtra (c. 5\* century CE) presents a picture of these Śaivites as wondering ascetics. There is no mention there of interiorizing their itineraries. That would only be necessary for householders or sedentary renouncers who resided in monasteries. On the other hand, the terms here for sacred sites — ‘āyantana \*and \*rīrtha’, predate the Śaivāgama. Had it been some other term like ‘pīṭha’, it would have cast further doubt on this identification. If we accept the citation at face value as drawn from teachings attributed to Lakuleśa / Nakuleśa, it appears that he introduced an interiorized practice of the Pāśupata’s traditional itinerant lifestyle.
+918?\. 1 take 15/608cd-612ab (604cd-608ab) to be Nakuleśa’s teachings. Perhaps Nakuleśa is Lakuleśa / Lākulīśa, who is traditionally renowned as the founder of an important branch of Pāśupata Śaivism (see below, 37/13cd-15), the immediate precursor of the Āgamic Śaivism. If he is Nakuleśa, the passage Abhinava is presenting here from an unknown source is \[illegible\] rising. Nakuleśa believed in the interiorization of sacred geographies. The Pāñcārthika Pāśpata Śaivism taught in the Pāśupatasūtra (c. 5\* century CE) presents a picture of these Śaivites as wondering ascetics. There is no mention there of interiorizing their itineraries. That would only be necessary for householders or sedentary renouncers who resided in monasteries. On the other hand, the terms here for sacred sites — ‘āyantana \*and \*rīrtha’, predate the Śaivāgama. Had it been some other term like ‘pīṭha’, it would have cast further doubt on this identification. If we accept the citation at face value as drawn from teachings attributed to Lakuleśa / Nakuleśa, it appears that he introduced an interiorized practice of the Pāśupata’s traditional itinerant lifestyle.
 
 
 *[p. 346]* ^pg364
 
-not go to another. Recollect Mantra, the sole sacred bathing place (frtha). Avoid other ones. (607-608ab) (604cd-605) 
+not go to another. Recollect Mantra, the sole sacred bathing place (fṛtha). Avoid other ones. (607-608ab) (604cd-605) 
+
+#### Viveka on 15.604–605
 
 Conclusion’? 
+
+### TĀ 15.606–608
 
 विधिमेनं सुखं ज्ञात्वा विधिजालं परित्यजेत् ।। ६०८ ॥
 समाधिर्निश्चयं मुक्त्वा न चान्येनोपलभ्यते |
@@ -572,17 +662,19 @@ Conclusion’?
 
 vidhim enar sukhar jñātvā vidhijālari parityajet ॥ 608 ॥
 samādhir niścayaṁṁ muktvā na cānyenopalabhyate |
-iti matvā vidhānajñah sahńmoharh parivarjayet ॥ 609 ॥
-mantrasya hrdayarn muktvā na cānyat paramai kvacit |
+iti matvā vidhānajñaḥ sahńmohaṁ parivarjayet ॥ 609 ॥
+mantrasya hṛdayarn muktvā na cānyat paramai kvacit |
 iti matvā vidhānajño mantrajālari parityajet ॥ 610 ॥ 
 
 Having understood this injunction with ease \[illegible\] one should abandon the net of injunctions (that merely bind and confuse). (Perfect) contemplative absorption (samādhi) cannot be attained in (any) other (way) except (by the complete) certainty (niścaya) (of realization). Once understood this, one who (truly) knows (the nature of) what is prescribed (vidhāna) (in this higher sense) should avoid (all) confusion (samoha). Apart from the heart of Mantra (SAUH), there is nothing else superior (to this) anywhere. Once understood this, one who (truly) knows (the nature of) what is prescribed should abandon the net of Mantra. (608cd-610) (606- 608ab) 
 
+### TĀ 15.608–609
+
 नैवेद्यं प्ाशयेत्नद्यास्तच्छेषं च जले क्षिपेत् ।
 भक्ते न भवेदोषो जलजैः पूर्वदीक्ितैः । ६११ ॥
 
-naivedyarh prāśayen nadyās taccheṣaṁ ca jale kṣipet |
-tair bhukte na bhaved doșo jalajaih pūrvadīkṣitaih ॥ 611 ॥ 
+naivedyaṁ prāśayen nadyās taccheṣaṁ ca jale kṣipet |
+tair bhukte na bhaved doṣo jalajaiḥ pūrvadīkṣitaiḥ ॥ 611 ॥ 
 
 919?\. \[illegible\] Now that Abhinava has quoted a string of mostly Trika sources, he concludes by summing up what is to be learnt from them most essentially.
 
@@ -593,17 +685,25 @@ tair bhukte na bhaved doșo jalajaih pūrvadīkṣitaih ॥ 611 ॥
 
 The food offering (naivedya) should be eaten, and the remnants (Seṣa) thrown into the water of a river.” There is no defect if it is eaten by the fish, (for they must have been) previously initiated (in another life).”? (611) (608cd-609ab) 
 
+#### Viveka on 15.608–609
+
 Surely, (one may ask, if this is so,) what is the reason for the (common) usage of the word ‘rule’ (samaya)?”? 
+
+### TĀ 15.609–610
 
 अवयश्पालनीयत्वात्परतत््वेन सङ्गमात् ।
 ज्ञान प्रप्त्यभ्युपायत्वात्समयास्ते प्रकीर्तिताः || ६१२ ॥।
 
 avaśyapālanīyatvāt paratattvena saṁgamāt |
-jñānaprāptyabhyupāyatvāt samayās te prakīrtitāh ॥ 612 ॥ 
+jñānaprāptyabhyupāyatvāt samayās te prakīrtitāḥ ॥ 612 ॥ 
 
-They are called pledges (samaya) because they must be observed,” because (by means of them one) is connected (sarhgama) with the supreme reality, and because they are the means to attain knowledge. (612) (609cd- 610ab) 
+They are called pledges (samaya) because they must be observed,” because (by means of them one) is connected (saṁgama) with the supreme reality, and because they are the means to attain knowledge. (612) (609cd- 610ab) 
 
-(The Rule) must be observed because of its (general well-established) prevalence (rūdhi). The term ‘samaya’ (to denote the Rule the initiate must observe) is in (common) usage, because (those who observe it) reach (samayanti), that is, understand (sarngacchante) the supreme reality by means of it. (Another) didactic etymology (supports its usage namely, the Rule — samaya — is so called because) it is the right way (samyag ayanam) by which (one attains) knowledge. 
+#### Viveka on 15.609–610
+
+(The Rule) must be observed because of its (general well-established) prevalence (rūdhi). The term ‘samaya’ (to denote the Rule the initiate must observe) is in (common) usage, because (those who observe it) reach (samayanti), that is, understand (saṁgacchante) the supreme reality by means of it. (Another) didactic etymology (supports its usage namely, the Rule — samaya — is so called because) it is the right way (samyag ayanam) by which (one attains) knowledge. 
+
+### TĀ 15.610–611
 
 एवं संश्राव्य समयान्देवं संपूज्य देशिकः ।
 विसर्जयेत्स्वचिट्व्योमि शान्ते मूर्तिविलापनात् ।। ६१३ ॥
@@ -619,30 +719,38 @@ They are called pledges (samaya) because they must be observed,” because (by m
 
 *[p. 348]* ^pg366
 
-evam saṁŚrāvya samayān devar saṁṁpūjya daiśikah |
-visarjayet svacidvyomni \$ānte mūrtivilāpanāt || 613 ॥ 
+evam saṁŚrāvya samayān devar saṁṁpūjya daiśikaḥ |
+visarjayet svacidvyomni Śānte mūrtivilāpanāt || 613 ॥ 
 
 Once the teacher has told (the neophant) the rules in this way and has worshipped the Lord, he should dismiss Him into the tranquil space of His own consciousness, by dissolving away (therein the mantra of His) ‘sacred body’ (mūrti). (613) (610cd-611ab) 
+
+### TĀ 15.611–613
 
 यदि पूत्रकदीक्षास्य न कायी समनन्तरम् ।
 तदाभिषिञचत्सासरेण शिवकुम्भेन तं शिशुम् || ६९४ ॥
 आत्मानं च ततो यस्माज्जलमूर्तिरमहेवरः मन्रयुडजिखिलाप्यायी कार्यं तदभिषेचनम् || ६१५ ॥।
 
 yadi putrakadīkṣāsya na kāryā samanantaram |
-tadābhiṣiñcet sāstreṇa śivakumbhena tarh śiśum ॥ 614 I|
-ātmānari ca tato yasmāj jalamūrtir maheśvarah |
+tadābhiṣiñcet sāstreṇa śivakumbhena taṁ śiśum ॥ 614 I|
+ātmānari ca tato yasmāj jalamūrtir maheśvaraḥ |
 mantrayuṁn akhilāpyāyī kāryaṁ tad abhiṣecanam Il 615 ॥ 
 
 After that, if the disciple is not to be subsequently initiated (further into the status) of a Spiritual Son (putraka), (the teacher) should then sprinkle (him with water) taken from Śiva’s jar (consecrated) with the Weapon, and then (sprinkle) himself (with it). The reason why this aspersion (abhiṣecana) should be done is that the Lord in His sacred body of water (jalamūrti) and united with the Mantra, nourishes all things. (614- 615) (611cd-613) 
+
+#### Viveka on 15.611–613
 
 (He says that if the disciple is) ‘not to be’ (initiated further, he should be sprinkled with water). The sense is that if he is to be (initiated into the status of a Spiritual Son), the sprinkling does not take place. 
 
 He concludes the teaching (artha) of (this) chapter with the first half (of a verse). 
 
+### Dyczkowski's verse 614ab
+
 इति समयदीक्षणमिटं प्रकाशितं विस्तराच्च संक्षेपात् ।
 iti samayadīkṣaṇnam \[illegible\] prakāśitari vistarāc ca samikṣepāt | 
 
 Such is the Initiation of the Rule (samayadīkṣā), that has been explained both at length and in brief. (616ab) (614ab) 
+
+#### Viveka on Dyczkowski's verse 614ab
 
 (It has been expounded) ‘at length’ (from the point of view of) the subject, and ‘in brief’ from (the point of view of its) written form (that is, the number of verses). 
 
@@ -658,39 +766,39 @@ Here ends the fifteenth chapter, called ‘an exposition of the common initiatio
 
 Appendix A 
 
-The Deposition of the Mātrkās - Mātrkānyāsa - according to the Mālinīvijayottara”” 
+The Deposition of the Mātṛkās - Mātrkānyāsa - according to the Mālinīvijayottara”” 
 
 The Basic Common Procedure 
 
-Abhinava stresses repeatedly throughout his exposition of Trika ritual that the basic Trika rites are heralded by the purifying deposition onto the body of the officiants and participants of three basic depositions (nyāsa). These are three forms of the Sanskrit alphabet formed by the deities and the spiritual energies of the letters. The first two are feminine. One is Mātrkā that is set in the normal common alphabetical order. The other is Mālinī in which the seeds (bīja), that is, the vowels, are mixed with the matrixes (yoni), that is, the consonants. The third, called the Assembly of Sounds — śabdarāśi — is male. It is made up of fifty Bhairavas who are the deities of the letters. Concerning these depositions see TĀ 15/115cd-145. We begin with Mātrkānyāsa with which the depositions onto the body of the alphabets or parts of Mantra normally begin. This is recorded in TĀ 15/117-120 which is drawn from MV 8/27-32. It is normal basic procedure to begin by purifying the hands that will be used to deposit the letters and parts of Mantra on the body. Abhinava does not record the procedure, no doubt, taking it, for granted that it is well known. This is followed by a deposition onto the six (sometimes five) of the body. I include them here for the sake of completeness. 
+Abhinava stresses repeatedly throughout his exposition of Trika ritual that the basic Trika rites are heralded by the purifying deposition onto the body of the officiants and participants of three basic depositions (nyāsa). These are three forms of the Sanskrit alphabet formed by the deities and the spiritual energies of the letters. The first two are feminine. One is Mātṛkā that is set in the normal common alphabetical order. The other is Mālinī in which the seeds (bīja), that is, the vowels, are mixed with the matrixes (yoni), that is, the consonants. The third, called the Assembly of Sounds — śabdarāśi — is male. It is made up of fifty Bhairavas who are the deities of the letters. Concerning these depositions see TĀ 15/115cd-145. We begin with Mātṛkānyāsa with which the depositions onto the body of the alphabets or parts of Mantra normally begin. This is recorded in TĀ 15/117-120 which is drawn from MV 8/27-32. It is normal basic procedure to begin by purifying the hands that will be used to deposit the letters and parts of Mantra on the body. Abhinava does not record the procedure, no doubt, taking it, for granted that it is well known. This is followed by a deposition onto the six (sometimes five) of the body. I include them here for the sake of completeness. 
 
 The Deposition onto the Hands - karanyāsa 
 
 Touch the thumb with the index finger, saying: 
 
-arh karn kharh garh gharn ñan \[illegible\] aùguṣthābhyām namah 
+aṁ karn khaṁ gaṁ gharn ñan \[illegible\] aṅguṣthābhyām namaḥ 
 
 Touch the index finger with the thumb, saying: 
 
 i 
 
-carn charh jarn jharh ñaṁ Trh tarjanībhyār svāhā 
+carn chaṁ jarn jhaṁ ñaṁ Tṛh tarjanībhyār svāhā 
 
 Touch the middle finger with thumb, saying: 
 
-urh tarn than darn dhan narn \[illegible\] madhyamābhyāṁ vaṣaṭt 
+uṁ tarn than darn dhan narn \[illegible\] madhyamābhyāṁ vaṣaṭt 
 
 Touch the ring finger with the thumb, saying: 
 
-emr tarh than darn dharh narh aih anāmikābhyām hūmn 
+emr taṁ than darn dhaṁ naṁ aih anāmikābhyām hūmn 
 
 Touch the little finger with the thumb, saying: 
 
-or parh pharh barn bhan marh \[illegible\] kaniṣthābhyāṁ vauṣaṭt 
+or paṁ phaṁ barn bhan maṁ \[illegible\] kaniṣthābhyāṁ vauṣaṭt 
 
 Rub the backs of the hands along the palms: 
 
-arh yari rarh larh varh \$an \[illegible\] sarn larn \[illegible\] ah karatalaprṣthābhyām astrāya phat 
+aṁ yari raṁ laṁ vaṁ Śan \[illegible\] sarn larn \[illegible\] ah karatalapṛṣthābhyām astrāya phat 
 
 925?\. See TĀ 15/117cd-120
 
@@ -699,7 +807,7 @@ arh yari rarh larh varh \$an \[illegible\] sarn larn \[illegible\] ah karatalapr
 
 Touch successively the palm and the back of the left hand with the right forefinger and the middle finger joined together; then claps the palm with these two fingers. 
 
-By performing the deposition of the hands (karanyāsa), that is, identifying the fingers, palms and the back of the hand with the different sounds of the alphabet, they are consecrated. Thus, the hands become full of the energy of mātrkā. 
+By performing the deposition of the hands (karanyāsa), that is, identifying the fingers, palms and the back of the hand with the different sounds of the alphabet, they are consecrated. Thus, the hands become full of the energy of mātṛkā. 
 
 LA a 
 
@@ -709,37 +817,37 @@ am yam ran lam vam sam ṣam sam lam kyam ah karatalaprythābhyām astrāya phat
 
 APPENDIX A 
 
-The Deposition on the Limbs - aùganyāsa 
+The Deposition on the Limbs - aṅganyāsa 
 
 Touch the chest with the index finger, the middle finger and the ring finger of the right hand joined together, saying: 
 
-arh karn khan gharhn ñaṁ ām hrdayāya namah. 
+aṁ karn khan ghaṁ ñaṁ ām hṛdayāya namaḥ. 
 
 Touch the head with the index finger and the middle finger of the right hand joined together, saying: 
 
-न Touch the tuft of hair on the head with thumb of the right hand, saying: urh tarh than darn dhamh narh ūrn śikhāyai vaṣaṭ. 
+न Touch the tuft of hair on the head with thumb of the right hand, saying: uṁ taṁ than darn dhamh naṁ ūrn śikhāyai vaṣaṭ. 
 
-Touch the shoulder joints with all the fingers joined together, saying: erh tarh than dath dhah narn aim kavacāya hūm. 
+Touch the shoulder joints with all the fingers joined together, saying: eṁ taṁ than dath dhaḥ narn aim kavacāya hūm. 
 
 Touch the three eyes with the forefinger, the middle finger and the ring finger joined together, saying: 
 
-orh parh pharh barn bhan marh aurh netratrayãya vauṣaṭ. 
+oṁ paṁ phaṁ barn bhan maṁ auṁ netratrayāya vauṣaṭ. 
 
 Touch successively the palm and the back of the left hand with the right forefinger and the middle finger joined together; then clap the palm with these two fingers. 
 
-ar yar rarh larh varh ŝan ṣan harn larn 54081 ah karatalaprṣthābhyām astrāya phat 
+ar yar raṁ laṁ vaṁ śan ṣan harn larn 54081 ah karatalapṛṣthābhyām astrāya phat 
 
-1111 1 (+ om tace tham dam dham new im hrásy bya namah रव 11111111 = | सदि न वाः \[दा न" ~¬ a 
+1111 1 (+ om tace tham dam dham new im hrásy bya namaḥ रव 11111111 = | सदि न वाः \[दा न" ~¬ a 
 
 *[p. 353]* ^pg371
 
-Here, by placing the consecrated hands on the different parts of the body with the appropriate sounds, the whole body is consecrated and transformed into mātrkā. 
+Here, by placing the consecrated hands on the different parts of the body with the appropriate sounds, the whole body is consecrated and transformed into mātṛkā. 
 
 Touch the parts of the body with Tattvamudrā saying: 
 
 OM AM ŚRĪKAṆTṬHĀYAI NAMAHĦ Continue mutatis mutandis. 
 
-Letter Mātrkā Location 
+Letter Mātṛkā Location 
 
 AM Śrīkaṇthāyai Topknot 
 
@@ -754,7 +862,7 @@ Trimūrtyai Left eye
 UM Amarīśāyai |
 Righter |
 ÜM Arghīśāyai Left ear | \[illegible\] |
-Bhārabhūtyai Right nostril (piñgalā) | RM |
+Bhārabhūtyai Right nostril (piṅgalā) | RM |
 Tithīśāyai Left nostril (idā 
 
 IM Sthāṇavyai Right cheek 
@@ -772,7 +880,7 @@ AUM Anugrahāyai Upper lip
 
 AM 
 
-(सि[illegible] ëăěëO\] Uvula 
+(सि[illegible] ëāěëO\] Uvula 
 
 AH Mahāsenāyai Tongue 
 
@@ -833,7 +941,7 @@ MAM Mahākālāyai |
 Hen ë |
 YAM Vālīśāyai Chest (Skin) 
 
-RAM Bhujañgamāyai Right shoulder (Blood) 
+RAM Bhujaṅgamāyai Right shoulder (Blood) 
 
 LAM Pinākinyai Neck (Flesh) 
 
@@ -846,47 +954,47 @@ AM Bakīśāyai From the chest to the right hand (Bones)
 
 ṢAM vetāyai From the chest to the left hand (Marrow 
 
-SAM Bhrgavyai From the chest to the left foot (Semen) 
+SAM Bhṛgavyai From the chest to the left foot (Semen) 
 
 HAM Lakulīśāyai From the chest to the right foot (Breath) 
 
 KṢAM Saṁvartakāyai Cavity of Brahmā 
 
-Mātrkānyāsa 
+Mātṛkānyāsa 
 
-1\. orh arh Śrīkanṭthāyai namah 1. Topknot 
+1\. oṁ aṁ Śrīkanṭthāyai namaḥ 1. Topknot 
 
-2\. orh \[illegible\] anantāyai namah 2. Mouth 
+2\. oṁ \[illegible\] anantāyai namaḥ 2. Mouth 
 
-3\. orn iù sūkṣmāyai namah 3. Right eye 
+3\. orn iù sūkṣmāyai namaḥ 3. Right eye 
 
-4\. orn îr trimūrtyai namah 4. Left eye 
+4\. orn îr trimūrtyai namaḥ 4. Left eye 
 
-5\. orh uh amarīśāyai namah 5. Right ear 
+5\. oṁ uh amarīśāyai namaḥ 5. Right ear 
 
-6\. où \[illegible\] arghīśāyai namah 6. Left ear 
+6\. où \[illegible\] arghīśāyai namaḥ 6. Left ear 
 
-7\. or r bhārabhūtyai namah 7. Right nostril (piùglā) 
+7\. or r bhārabhūtyai namaḥ 7. Right nostril (piṅglā) 
 
-8\. oń Rrh tithīśāyai namah 8. Left nostril (idā) 
+8\. oń Rrh tithīśāyai namaḥ 8. Left nostril (idā) 
 
-9\. orh liù sthānavyai namah. 
+9\. oṁ liù sthānavyai namaḥ. 
 
-9\. Right cheek 10. orh Lih harāyai namah 10. Left cheek 11. orh erù jhanthīśāyai namah 11. Lower teeth 12. orh aih bhauktikāyai namah 12. Upper teeth 13. orh orh sadyojātāãyai namah 13. Lower lip 14. orh auh anugrahāyai namah 14. Upper lip 15. orn arh krūrāyai namah 15. Topknot 16. \[illegible\] ah māhāsenāyai namah 16. Tongue 17. orn karn krodhāyai namah 17. Right shoulder 18. orh kharh candīśāyai namah 18. Right arm 19. \[illegible\] garh pracaùdāyai namah 19. Right elbow 20. orn gharh śivāyai namah 20. Right wrist 21. Fingers of the right hand 21. orn ṁar ekarudrāyai namah 22. orh cah kūrmāyai namah 22. Left shoulder 23. orn charh ekanetrāyai namah 23. Left arm 24. orh jaù caturānanāyai namah 24. Left elbow 25. orn jharh ajitāyai namah 25. Left wrist 26. orh ñam \[illegible\] namah 26. Fingers of the left hand 27. orh tarn someśvarāyai namah 27. Right buttock 
+9\. Right cheek 10. oṁ Lih harāyai namaḥ 10. Left cheek 11. oṁ eṁ jhanthīśāyai namaḥ 11. Lower teeth 12. oṁ aih bhauktikāyai namaḥ 12. Upper teeth 13. oṁ oṁ sadyojātāyai namaḥ 13. Lower lip 14. oṁ auh anugrahāyai namaḥ 14. Upper lip 15. orn aṁ krūrāyai namaḥ 15. Topknot 16. \[illegible\] ah māhāsenāyai namaḥ 16. Tongue 17. orn karn krodhāyai namaḥ 17. Right shoulder 18. oṁ khaṁ candīśāyai namaḥ 18. Right arm 19. \[illegible\] gaṁ pracaùdāyai namaḥ 19. Right elbow 20. orn ghaṁ śivāyai namaḥ 20. Right wrist 21. Fingers of the right hand 21. orn ṁar ekarudrāyai namaḥ 22. oṁ cah kūrmāyai namaḥ 22. Left shoulder 23. orn chaṁ ekanetrāyai namaḥ 23. Left arm 24. oṁ jaù caturānanāyai namaḥ 24. Left elbow 25. orn jhaṁ ajitāyai namaḥ 25. Left wrist 26. oṁ ñam \[illegible\] namaḥ 26. Fingers of the left hand 27. oṁ tarn someśvarāyai namaḥ 27. Right buttock 
 
 *[p. 355]* ^pg373
 
-28\. or thain lāùguliùyai namah 29. ońn darn dārukāyai namah 
+28\. or thain lāṅguliùyai namaḥ 29. ońn darn dārukāyai namaḥ 
 
-31\. \[illegible\] nah umākāntāyai namah 32. orh tarn niṣādhinyi namah 33. orn thain dindināyai namah 34. où dan dhātriùyai namah 35. on dhan mīnāyai namah 36. 07 narh meṣãyai namah 37. où parh lohitāyai namah 38. orn phan Sikhivāhinyai namah 39. où barn chagalandāyai namah 40. orh bhath dvirandāyai namah 41. où marh mahākālāyai namah 42. orh yarn \[illegible\] namah 43. orńù rah bhujaùgamāyai namah 44. orh larn pinākinyai namah 45. orh varh khadginyai namah 46. orh Śaṁ bakīśāyai namah 
+31\. \[illegible\] nah umākāntāyai namaḥ 32. oṁ tarn niṣādhinyi namaḥ 33. orn thain dindināyai namaḥ 34. où dan dhātriùyai namaḥ 35. on dhan mīnāyai namaḥ 36. 07 naṁ meṣāyai namaḥ 37. où paṁ lohitāyai namaḥ 38. orn phan Sikhivāhinyai namaḥ 39. où barn chagalandāyai namaḥ 40. oṁ bhath dvirandāyai namaḥ 41. où maṁ mahākālāyai namaḥ 42. oṁ yarn \[illegible\] namaḥ 43. orńù rah bhujaṅgamāyai namaḥ 44. oṁ larn pinākinyai namaḥ 45. oṁ vaṁ khadginyai namaḥ 46. oṁ Śaṁ bakīśāyai namaḥ 
 
-47\. où ṣaṁ Śvetāyai namah 
+47\. où ṣaṁ Śvetāyai namaḥ 
 
-48\. orn sarn bhrgavyai namah 
+48\. orn sarn bhṛgavyai namaḥ 
 
-49\. orn harn lakulīśāyai namah 
+49\. orn harn lakulīśāyai namaḥ 
 
-50\. oń \[illegible\] saṁvartakāyai namah 28. Right thigh 29. Right knee 30. Right shank 31. Toes of right foot 32. Left buttock 33. Left thigh 34. Left foot 35. Left toes 36. Left toenails 37. Right diaphragm 38. Left diaphragm 39. Spine 40. Stomach 41. Heart 42. Skin (Chest) 43. Blood (right shoulder) 44. Flesh (neck) 45. Sinews (left Shoulder) 46. Bones (From the chest to the right hand) 47. Fat (From the chest to the left hand) 48. Semen (From the chest to the left foot) 49. Breath (From the chest to the right foot) 50. Cavity of Brahmā 30. 0 dhamh ardhanārīśvarāyai namah 
+50\. oń \[illegible\] saṁvartakāyai namaḥ 28. Right thigh 29. Right knee 30. Right shank 31. Toes of right foot 32. Left buttock 33. Left thigh 34. Left foot 35. Left toes 36. Left toenails 37. Right diaphragm 38. Left diaphragm 39. Spine 40. Stomach 41. Heart 42. Skin (Chest) 43. Blood (right shoulder) 44. Flesh (neck) 45. Sinews (left Shoulder) 46. Bones (From the chest to the right hand) 47. Fat (From the chest to the left hand) 48. Semen (From the chest to the left foot) 49. Breath (From the chest to the right foot) 50. Cavity of Brahmā 30. 0 dhamh ardhanārīśvarāyai namaḥ 
 
 *[p. 356]* ^pg374
 
@@ -898,13 +1006,13 @@ ideation
 
 (vikalpa) which is characterized by the mutual superimposition of the object of denotation (vācya) and its denotator (vācaka) \[illegible\] 2, p. 188, 192). It extends throughout the inner mental organ (antahkarana), that is, the mind, ego and intellect. K. Kunjunni Raja has defined Middle Speech his book, Indian Theories of Meaning (Madras 1963: 148) as follows: 
 
-‘The next stage in the manifestation of the speech principle is called madhyamā or the intermediate, since it lies between paśyantī and vaikharī. This is the utterance in its phonological structure, the sound pattern of the norm. It is psychological in its nature and can be comprehended by the intellect. All the elements linguistically relevant to the sentence are presented in a latent form at this stage. The same meaning will be conveyed and the same sphoṭa \[unit of meaning\] by different forms of madhyamā, depending on the language adopted. This corresponds to prākrtadhvani \[the vernacular\]. At this stage all the individual peculiarities of the speaker are present in the utterance, along with the linguistically relevant parts.” 
+‘The next stage in the manifestation of the speech principle is called madhyamā or the intermediate, since it lies between paśyantī and vaikharī. This is the utterance in its phonological structure, the sound pattern of the norm. It is psychological in its nature and can be comprehended by the intellect. All the elements linguistically relevant to the sentence are presented in a latent form at this stage. The same meaning will be conveyed and the same sphoṭa \[unit of meaning\] by different forms of madhyamā, depending on the language adopted. This corresponds to prākṛtadhvani \[the vernacular\]. At this stage all the individual peculiarities of the speaker are present in the utterance, along with the linguistically relevant parts.” 
 
 1 
 
 In other words, Middle Speech is the plane of common language, characterized by its various words. This is the language of discursive ideation, not external speech. It consists of the many words, made up of the phonemes, vowels and consonants (symbolized as seed and matrix, respectively) mixed together. According to Abhinava, Mālinī is the alphabet, in which the order of the letters, seeds and matrices, are mixed up, that primarily symbolizes it. He writes in his commentary on the Parātrīśikā (pp. 148-156): 
 
-‘(PTv p. 148) In the same way, we will (now) examine how (the principles and letters) abide (and are arranged) on the plane of the Middle Speech, which is present within supreme consciousness, as the expansion (vijrmbha) of the venerable (goddess) Parāparā. Middle Speech is located on the plane of the Īśvara (principle), which consists of the power of action. This is the plane over which (Īśvara) has authority. It is a state of awareness (vedana) that covers the object (present there) in a clearly evident form. (Just as) a denotation (vācaka) is projected (adhyaśate) onto the object of denotation (vācya), (so too,) the object of denotation (is projected) there also (onto that which denotes it). This projection, which consists of the mutual mixing and covering over of one 
+‘(PTv p. 148) In the same way, we will (now) examine how (the principles and letters) abide (and are arranged) on the plane of the Middle Speech, which is present within supreme consciousness, as the expansion (vijṛmbha) of the venerable (goddess) Parāparā. Middle Speech is located on the plane of the Īśvara (principle), which consists of the power of action. This is the plane over which (Īśvara) has authority. It is a state of awareness (vedana) that covers the object (present there) in a clearly evident form. (Just as) a denotation (vācaka) is projected (adhyaśate) onto the object of denotation (vācya), (so too,) the object of denotation (is projected) there also (onto that which denotes it). This projection, which consists of the mutual mixing and covering over of one 
 
 926?\. This Appendix is with reference to TĀ 15/121-133ab.
 
@@ -921,7 +1029,7 @@ And again:
 
 (PTv p. 149) Śiva Himself Who, (never) forsaking His (inherent) subjectivity, is (rightly) (considered to be) the (universal) denotator (vācaka); (whereas) Śakti Herself, Who is immersed in the objective aspect, is the object of denotation (vācyā). (Thus,) even on (the plane of) relative distinctions (bheda), the denotator is (always) perceived (prathate) (and manifests) as not being separate from 
 
-the essential nature of the (perceiving) subject (pramātrsvarūpa), in its two aspects as the denotator (pratipādaka) and the object of denotation (pratipādya). The state of the matrices, that is, of the consonants, which are Śakti, is a condensate of the seeds, that is, the vowels, which are Siva. This is because, as we shall explain further ahead, a matrix extends out (and so is derived) from a seed. (Thus, the objection that could be raised has no ground, namely that) if the matrices are already mixed with the seeds, that is, the vowels, and so all their fruits, both liberation and worldly benefits, would arise (spontaneously) without effort (niryatna) and without having to first cultivate them. Moreover, the seed phonemes would be matrices within themselves, and analogously, matrices (would be seeds), so there would be nothing to distinguish them from one another. None of these (objections) can disturb us, we who proclaim that Speech, which is essentially consciousness, contains within itself the infinite variety of things. In daily life, although it is subject to Māyā, Speech is the Light (of consciousness,) which is reflectively aware (pratyavamarśākāriṇī) (even though) it consists of the clearly evident (manifestation of common) empirical (laukika) phonemes and words, that are successive and in a clearly apparent state. While (all) this is explained by others with great difficulty, here, for those who base themselves on the foundation of (this) teaching in this way, it is (obvious and) established effortlessly. For this reason, we have not been too concerned to visit the homes of the masters of grammar in vain, to get (nothing) from that except the foul-smelling body (of 
+the essential nature of the (perceiving) subject (pramātṛsvarūpa), in its two aspects as the denotator (pratipādaka) and the object of denotation (pratipādya). The state of the matrices, that is, of the consonants, which are Śakti, is a condensate of the seeds, that is, the vowels, which are Siva. This is because, as we shall explain further ahead, a matrix extends out (and so is derived) from a seed. (Thus, the objection that could be raised has no ground, namely that) if the matrices are already mixed with the seeds, that is, the vowels, and so all their fruits, both liberation and worldly benefits, would arise (spontaneously) without effort (niryatna) and without having to first cultivate them. Moreover, the seed phonemes would be matrices within themselves, and analogously, matrices (would be seeds), so there would be nothing to distinguish them from one another. None of these (objections) can disturb us, we who proclaim that Speech, which is essentially consciousness, contains within itself the infinite variety of things. In daily life, although it is subject to Māyā, Speech is the Light (of consciousness,) which is reflectively aware (pratyavamarśākāriṇī) (even though) it consists of the clearly evident (manifestation of common) empirical (laukika) phonemes and words, that are successive and in a clearly apparent state. While (all) this is explained by others with great difficulty, here, for those who base themselves on the foundation of (this) teaching in this way, it is (obvious and) established effortlessly. For this reason, we have not been too concerned to visit the homes of the masters of grammar in vain, to get (nothing) from that except the foul-smelling body (of 
 
 927?\. MV 3/12ab.
 
@@ -950,7 +1058,7 @@ As this is so and all things are in every (single) thing, (we will now examine) 
 
 (10) is reflected in the energy of the organ of speech (N). 
 
-(11-16) Then again, as the seeds of Expansion (unmeṣșa) (U) and ascent (ūrdhvāśraya) \[illegible\] of the energy of (that) organ of action (karana), taking as its support the matrix of power, which is the intellect (B), penetrates completely into the matrices of Earth (K), water (KH) and Fire (G). 
+(11-16) Then again, as the seeds of Expansion (unmeṣa) (U) and ascent (ūrdhvāśraya) \[illegible\] of the energy of (that) organ of action (karana), taking as its support the matrix of power, which is the intellect (B), penetrates completely into the matrices of Earth (K), water (KH) and Fire (G). 
 
 The Speech of Vision is (primarily) within the (essential) nature of the organ of speech (N) which, in accord with that (nature) extends there itself into 
 
@@ -961,7 +1069,7 @@ The Speech of Vision is (primarily) within the (essential) nature of the organ o
 
 the seeds (r R \] Ḷ), and having done so, it abides on the plane of vision (TH > D), impure knowledge (C > V), which is the generic (principle of perception that underlies the organs of perception), and in the last of all of them, namely, the sense of smell (DH > T). 
 
-Then, having progressed by means of the seed of Īśvara (Ï) and taken the support of the power of hearing (N), by union with the two seeds of Expansion (U) and Ascent \[illegible\] it is present in the matrix of (the genitals, which is) the sense organ of pleasure (ānandendriya) (B > 9), and (becomes) Sadāśiva (K), Īśvara (KH) and Pure Knowledge (G). Thus, as it is present in the beginning, middle and end of all things, the iva principle, which is unlimited and possesses an infinite number of powers, is declared to be here. 
+Then, having progressed by means of the seed of Īśvara (Ï) and taken the support of the power of hearing (N), by union with the two seeds of Expansion (U) and Ascent \[illegible\] it is present in the matrix of (the genitals, which is) the sense organ of pleasure (ānandendriya) (B > 9), and (becomes) Sadāśiva (K), Īśvara (KH) and Pure Knowledge (G). Thus, as it is present in the beginning, middle and end of all things, the Śiva principle, which is unlimited and possesses an infinite number of powers, is declared to be here. 
 
 (17) GH, which in relation to supreme consciousness (taught) here (in this work) and the Speech of Vision, is Wind and Māyā, respectively (p. 153), is (here) within Mālinī, Sadāśiva. (The following letters correspond to three principles in the same way). 
 
@@ -973,7 +1081,7 @@ Then, having progressed by means of the seed of Īśvara (Ï) and taken the supp
 
 (21) V, which is impure knowledge and smell, is the Force (of limited agency) (kalā). 
 
-(22) BH, which is Nature (prakrti) and the organ of locomotion (pāda), is Impure Knowledge. 
+(22) BH, which is Nature (prakṛti) and the organ of locomotion (pāda), is Impure Knowledge. 
 
 (23) Y, which is time and touch, is Attachment (rāga). 
 
@@ -981,7 +1089,7 @@ Then, having progressed by means of the seed of Īśvara (Ï) and taken the supp
 
 (26) TH, which is (the genitals) the organ of pleasure (ānandendriya) and the intellect (buddhi), is the Individual Soul (puruṣa). 
 
-(27) JH, which is touch and time, is Nature (prakrti). 
+(27) JH, which is touch and time, is Nature (prakṛti). 
 
 (28) Ñ, which is sound and the individual soul, is the intellect \[illegible\] (29) J, which is form and Necessity, is the ego. 
 
@@ -989,7 +1097,7 @@ Then, having progressed by means of the seed of Īśvara (Ï) and taken the supp
 
 (31) T, which the organ of locomotion and Nature, is hearing. (32) P, which is the mind and hand, is skin (the sense of touch). (33) CH, which is flavour (rasa) and attachment, is the two eyes (of the sense of sight). 
 
-(34) L, which is attachment and flavour, is the sense of taste. (35) ÃĀ, which is the power of bliss and iva’s power \[illegible\] is the sense of smell. 
+(34) L, which is attachment and flavour, is the sense of taste. (35) Ā, which is the power of bliss and Śiva’s power \[illegible\] is the sense of smell. 
 
 (36) S, which is (Pure) Knowledge and fire, is (the organ of) speech. (37) H, which is power of emission, is the organ of grasping. (38) H, which is Īśvara and water, is the organ of excretion. (39) \$, which is Māyā, and wind, is the organ of pleasure. 
 
@@ -1001,7 +1109,7 @@ Then, having progressed by means of the seed of Īśvara (Ï) and taken the supp
 
 (42) Ś, which is the Force (of limited agency) (kalā) and ether (nabhas), is touch. 
 
-(43) M, which is the power of iva Who is called the Point (baindavi), is form. 
+(43) M, which is the power of Śiva Who is called the Point (baindavī), is form. 
 
 (44) T, which is the sense of smell and touch, is flavour. 
 
@@ -1019,7 +1127,7 @@ The deployment (niveśa) (in this way) in the body‘ (takes place) here as stat
 
 The yogi who is engaged in (his) practice based on this process externally in relation to the world orders and principles and (internally the corresponding internal) wheels, (comes to) possess particular accomplishments (siddhi) (according to) where he is within the body or the vital breath (PTv p. 155). Just as (particular) medicinal herbs taken together give rise to a specific result, in the same way, (practiced) together, a specific meditation or deposition (of letters and Mantras onto the body), oblation and the like bestow a (corresponding) specific accomplishment, because here (in this case) also, the activity (of the power of) constraint (niyati) is not transcended. 
 
-Each (set of) scriptures (\$āstra) describe a grid (prastāra) formed on the basis of a particular deployment of the phonemes (vārṇnaniveśapurahsara) (within it). It consists of the aggregate \[illegible\] of phonemes, grouped together in a (fixed) determined series (niyataparipāṭīpinda), as determined by the particular primary phoneme which accords with the predominance of this or that divine phoneme in proportion to the knowledge (vijñāana) of their followers. (Once the manner in which the grid is to be drawn has been described, a Tantra) describes the manner in which Mantras are extracted (mantroddhāra) from it. (This is done) to reveal the nature of that phoneme which imparts radiant energy (sphurattā) to the Mantras that are augmented (upabrrihita) by imparting this kind of vitality (vīrya) (to them). This is just (as is the case) with the venerable Nityā Tantras, (where this method) is the reason for the predominance 
+Each (set of) scriptures (Śāstra) describe a grid (prastāra) formed on the basis of a particular deployment of the phonemes (vārṇnaniveśapurahsara) (within it). It consists of the aggregate \[illegible\] of phonemes, grouped together in a (fixed) determined series (niyataparipāṭīpinda), as determined by the particular primary phoneme which accords with the predominance of this or that divine phoneme in proportion to the knowledge (vijñāana) of their followers. (Once the manner in which the grid is to be drawn has been described, a Tantra) describes the manner in which Mantras are extracted (mantroddhāra) from it. (This is done) to reveal the nature of that phoneme which imparts radiant energy (sphurattā) to the Mantras that are augmented (upabrrihita) by imparting this kind of vitality (vīrya) (to them). This is just (as is the case) with the venerable Nityā Tantras, (where this method) is the reason for the predominance 
 
 931?\. \[illegible\] Abhinava is referring here the deposition of letters and Mantras onto the body. See TĀ 15/121 ff.
 
@@ -1036,15 +1144,15 @@ according to the Mālinīvijayottara
 
 The order of the letters of the Mālinī alphabet is given in MV 3/37-41ab reproduced (with a few variants) in TĀ 15/121-125ab. 
 
-Concerning Mātrkā and Mālinī see TĀ 15/1 15cd-145. 
+Concerning Mātṛkā and Mālinī see TĀ 15/1 15cd-145. 
 
 Note that the names of the Yoginīs are not listed there. I have drawn them from the Trisirobhairava that Jayaratha quotes there in his commentary. Again, the corresponding Tattvas are not noted in the Tantrāloka. They are given in MV 4/1 14cd-118ab also in the PTv Singh p. 104 ff. where Abhinava comments on MV 4/125.\* 
 
 932?\. 
 
-933?\. Concerning Mātrkā and Mālinī see TĀ 15/1 15cd-145.
+933?\. Concerning Mātṛkā and Mālinī see TĀ 15/1 15cd-145.
 
-934?\. \[illegible\] The passage in the Mālinīvijayottara says: “O goddess, I will tell you how all this is present in the body of Mālinī I have (just) described in which the vowels and consonants are mixed together. It is taught that the Earth principle is (located) within the phoneme PH. One should observe the twenty-three principles beginning with water and ending with Nature to be within the corresponding phonemes beginning with D and ending with JH, respectively. Within the group of seven phonemes beginning with ṬH (up to A) are, as before, the seven (principles) beginning with the individual soul. (114cd-116ab) The three (principles) from Pure Knowledge ending with immanent \$iva (sakala) are in the (phonemes) I, Ñ and GH. One should discern (how) the remaining sixteen phonemes from G to N are within the iva principle. The forces, the parts (of mantra) (pada), the mantras and the world-orders, O fair lady, should be known to be as before distributed in that (same) numerical order as they are (in relation to) the phonemes (of Mātrkā).’ MV 4/1 16cd-118ab
+934?\. \[illegible\] The passage in the Mālinīvijayottara says: “O goddess, I will tell you how all this is present in the body of Mālinī I have (just) described in which the vowels and consonants are mixed together. It is taught that the Earth principle is (located) within the phoneme PH. One should observe the twenty-three principles beginning with water and ending with Nature to be within the corresponding phonemes beginning with D and ending with JH, respectively. Within the group of seven phonemes beginning with ṬH (up to A) are, as before, the seven (principles) beginning with the individual soul. (114cd-116ab) The three (principles) from Pure Knowledge ending with immanent Śiva (sakala) are in the (phonemes) I, Ñ and GH. One should discern (how) the remaining sixteen phonemes from G to N are within the Śiva principle. The forces, the parts (of mantra) (pada), the mantras and the world-orders, O fair lady, should be known to be as before distributed in that (same) numerical order as they are (in relation to) the phonemes (of Mātṛkā).’ MV 4/1 16cd-118ab
 
 
 *[p. 362]* ^pg380
@@ -1065,9 +1173,11 @@ N | |
 तण |
 Topknot (OR 
 
+### Dyczkowski's verse 5
+
 Žž | 
 
-Nivrtti Head-band (OR 
+Nivṛtti Head-band (OR 
 
 | \_ एण \_ |
 |
@@ -1076,6 +1186,8 @@ Head-band \[D
 E\] 
 
 Vidyā Head-band (5) 
+
+#### Viveka on Dyczkowski's verse 5
 
 | ५
 |
@@ -1105,9 +1217,11 @@ Kaṁkaṭā Right Earring (12
 | —Kaika |
 = Left Earring 
 
-13\) B ivā Mouth (14) K 
+### Dyczkowski's verse 19
 
-Ghoraghoṣșā Lower right row of teeth (15) Kh ivirā Lower left row of teeth (16) G 
+13\) B Śivā Mouth (14) K 
+
+Ghoraghoṣā Lower right row of teeth (15) Kh ivirā Lower left row of teeth (16) G 
 
 Māyādevī Upper right row of teeth (17) Gh 
 
@@ -1115,6 +1229,8 @@ Vāgīśvarī Sadāśiva Upper left row of teeth \[a8)N\_
 
 | | Nāāyī ěűě |
 Iśvara Front teeth (19) 
+
+#### Viveka on Dyczkowski's verse 19
 
 | Mohaīî | ŚuddhaVidyā Tongue 
 
@@ -1139,7 +1255,7 @@ Right Arm \[5h
 
 \_ | 
 
-Jhañkārī | Kāa |
+Jhaṅkārī | Kāa |
 Left Arm 
 
 26\) Th 
@@ -1147,7 +1263,7 @@ Left Arm
 Kundanā | Pumuṣa |
 Two hands (27) Jh 
 
-Kāpālinī Prakrti (Pradhāna) | Nails of the right hand (28) N 
+Kāpālinī Prakṛti (Pradhāna) | Nails of the right hand (28) N 
 
 | 
 
@@ -1205,15 +1321,15 @@ Dahanī (50) Ph
 
 Phetkārikā 
 
-1\. oń sauh narh nādinyai namah 2. orh sauh prh nivrttyai namah 3. ońù sauh Rih pratiṣthāyai namah 4. orh sauh {7 vidyāyai namah 5. orh sauh Lih Śāntāyai namah 6. orù sauh tharh satyai namah 
+1\. oń sauḥ naṁ nādinyai namaḥ 2. oṁ sauḥ pṛh nivṛttyai namaḥ 3. ońù sauḥ Rih pratiṣthāyai namaḥ 4. oṁ sauḥ {7 vidyāyai namaḥ 5. oṁ sauḥ Lih Śāntāyai namaḥ 6. oṁ sauḥ thaṁ satyai namaḥ 
 
-9\. où sauh \[illegible\] cāmundāyai namah 10. où sauh nar vajrinyai namah 11. oń sauh uù ka”nkatāyai namah 12. où sauh üm kālikāyai namah 13. orh sauh barh \[illegible\] namah O=) Bottom of the shaft of the Trident Mind (manas) 
+9\. où sauḥ \[illegible\] cāmundāyai namaḥ 10. où sauḥ naṁ vajrinyai namaḥ 11. oń sauḥ uù ka”nkatāyai namaḥ 12. où sauḥ üm kālikāyai namaḥ 13. oṁ sauḥ baṁ \[illegible\] namaḥ O=) Bottom of the shaft of the Trident Mind (manas) 
 
 Upper part of the Trident | \_\_ č Eas á | | Skl |
 |
 \[illegible\] | | Hen |
 | Eyes | RightBreast Tongue Left Breast Nose | Mik č |
-| | Speeh č |
+| | Speeḥ č |
 Jiva ë | Hands |
 Jiva" |
 Fe |
@@ -1230,21 +1346,21 @@ Space Left Knee Air Right Shank Fire Left Shank Water Right Foot Earth Left Foot
 
 1\. Topknot 2. Head-band 3. Head-band 4. Head-band 5. Head-band 6. Top of the Head 7. Third Eye 8. Eyes 9. Nose 10. Ears 11. Right Earring 12. Left Earring 13. Mouth 14. Teeth: lower right षणा |
 
-| Mahākāīi ăűěé| |
+| Mahākāīi āűěé| |
 | \_Kusumāyudhā | 
 
 Mālinīnyāsa 
 
-7\. où sauh camh priyadarśanyai namah 8. oń sauh dhar guhyaśaktyai namah 
+7\. où sauḥ camh priyadarśanyai namaḥ 8. oń sauḥ dhar guhyaśaktyai namaḥ 
 
-14\. orh sauh karn ghoraghoṣãyai namah 
+14\. oṁ sauḥ karn ghoraghoṣāyai namaḥ 
 
-936?\. The letter SA is the jīva conjoined with visarga. After that it is said (comes) the vital sa jīvo visargayuk tatparah kathitah prāṇah | MVT 3/39d-40a
+936?\. The letter SA is the jīva conjoined with visarga. After that it is said (comes) the vital sa jīvo visargayuk tatparaḥ kathitaḥ prāṇaḥ | MVT 3/39d-40a
 
 
 *[p. 364]* ^pg382
 
-15\. orn sauh khar Śivirāyai namah 16. où sauh garh māyādevyai namah 17. orh sauh ghan vāgīśvaryai namah 18. orh sauh “narh nārāyanyai namah 19. orh sauh ih mohanyai namah 20. orh sauh arh prajñāyai namah 21. orh sauh varh śikhivāhinyai namah 22. or sauh bhar lāmāyai namah 23. où sauh yarh vināyakyai namah 24. on sauh darn pūrnimāyai namah 25. oh sauh dhamh jhaùkvryai namah 26. où sauh than kundanāyai namah 27. on sauh jha kāpālinyai namah 28. orh sauh ñaṁ dīpanyai namah 29. orh sauh jarn jayantyai namah 30. orh sauh rah bhīṣṣanyai namah 31. orn sauh fan vāyuvegāyai namah 32. oń sauh parh pāvanyai namah 33. orn sauh charh lambikāyai namah 34. orh sauh lahn sahhārikāyai namah 35. orn sauh ām chagalyai namah 36. \[illegible\] sauh sah pūtanāyai namah 37. orh sauh ah moṭaryai namah 38. orh sauh harn paramātmāyai namah 39. orh sauh ṣan ambikāyai namah 40. orh sauh kga icchaśaktyai namah 41. orh sauh marh mahākālyai namah 42. orh sauh \[illegible\] kusumāyudhāyai namah 43. orn sauh ań śukrāyai namah 44. orh sauh tarh tārāyai namah 45. orn sauh erh jñānāyai namah 46. orh sauh aih kriyāyai namah 47. 0 sauh om gāyatryai namah 48. orh sauh aurh sāvitryai namah 49. orh sauh dah dahanyai namah 50. orh sauh phar phetkārikāyai namah 15. Teeth: Lower left 16. Teeth: Upper right 17. Teeth: Upper left 18. Front teeth 19. Tongue 20. Speech 21. Throat 22. Right shoulder 23. Left shoulder 24. Right Arm 25. Left Arm 26. Two hands 27. Nails right hand 28. Nails left hand 29. Trident: Bottom 30. Trident: Upper 31. Skull 32. Heart 33. Right breast 34. Left breast 35. Milk 36. Jīva 37. Jīva 38. Breath 39. Belly 40. Navel 41. Buttocks 42. Genitals 43. Sexual fluid 44. Thighs 45. Right knee 46. Left knee 47. Right shank 48. Left shank 49. Right foot 50. Left foot 
+15\. orn sauḥ khar Śivirāyai namaḥ 16. où sauḥ gaṁ māyādevyai namaḥ 17. oṁ sauḥ ghan vāgīśvaryai namaḥ 18. oṁ sauḥ “naṁ nārāyanyai namaḥ 19. oṁ sauḥ ih mohanyai namaḥ 20. oṁ sauḥ aṁ prajñāyai namaḥ 21. oṁ sauḥ vaṁ śikhivāhinyai namaḥ 22. or sauḥ bhar lāmāyai namaḥ 23. où sauḥ yaṁ vināyakyai namaḥ 24. on sauḥ darn pūrnimāyai namaḥ 25. oh sauḥ dhamh jhaṅkvryai namaḥ 26. où sauḥ than kundanāyai namaḥ 27. on sauḥ jha kāpālinyai namaḥ 28. oṁ sauḥ ñaṁ dīpanyai namaḥ 29. oṁ sauḥ jarn jayantyai namaḥ 30. oṁ sauḥ rah bhīṣṣanyai namaḥ 31. orn sauḥ fan vāyuvegāyai namaḥ 32. oń sauḥ paṁ pāvanyai namaḥ 33. orn sauḥ chaṁ lambikāyai namaḥ 34. oṁ sauḥ lahn sahhārikāyai namaḥ 35. orn sauḥ ām chagalyai namaḥ 36. \[illegible\] sauḥ saḥ pūtanāyai namaḥ 37. oṁ sauḥ ah moṭaryai namaḥ 38. oṁ sauḥ harn paramātmāyai namaḥ 39. oṁ sauḥ ṣan ambikāyai namaḥ 40. oṁ sauḥ kga icchaśaktyai namaḥ 41. oṁ sauḥ maṁ mahākālyai namaḥ 42. oṁ sauḥ \[illegible\] kusumāyudhāyai namaḥ 43. orn sauḥ ań śukrāyai namaḥ 44. oṁ sauḥ taṁ tārāyai namaḥ 45. orn sauḥ eṁ jñānāyai namaḥ 46. oṁ sauḥ aih kriyāyai namaḥ 47. 0 sauḥ om gāyatryai namaḥ 48. oṁ sauḥ auṁ sāvitryai namaḥ 49. oṁ sauḥ dah dahanyai namaḥ 50. oṁ sauḥ phaṁ phetkārikāyai namaḥ 15. Teeth: Lower left 16. Teeth: Upper right 17. Teeth: Upper left 18. Front teeth 19. Tongue 20. Speech 21. Throat 22. Right shoulder 23. Left shoulder 24. Right Arm 25. Left Arm 26. Two hands 27. Nails right hand 28. Nails left hand 29. Trident: Bottom 30. Trident: Upper 31. Skull 32. Heart 33. Right breast 34. Left breast 35. Milk 36. Jīva 37. Jīva 38. Breath 39. Belly 40. Navel 41. Buttocks 42. Genitals 43. Sexual fluid 44. Thighs 45. Right knee 46. Left knee 47. Right shank 48. Left shank 49. Right foot 50. Left foot 
 
 *[p. 365]* ^pg383
 
@@ -1263,7 +1379,7 @@ N Nādinī Topknot
 2 
 
 | R |
-Nivrtti Head-band 3 
+Nivṛtti Head-band 3 
 
 | R |
 Pratiṣthā Head-band 4 
@@ -1304,7 +1420,7 @@ Kh
 
 | m | (Upper right row of) Teeth 13 
 
-G ivā (Lower left row of) Teeth |\] Gh 01042110 (Upper left row of) 
+G Śivā (Lower left row of) Teeth |\] Gh 01042110 (Upper left row of) 
 
 Teeth 
 
@@ -1342,7 +1458,7 @@ Th
 | Pūmṇimā | Hans č |
 25 
 
-Jh Jhañkārī Right) finger 26 
+Jh Jhaṅkārī Right) finger 26 
 
 N Kandanā Left) finger 27 
 
@@ -1377,7 +1493,7 @@ Pāvanī | Het č |
 
 34 
 
-KṢ Sarnhārikā Naval 
+KṢ Saṁhārikā Naval 
 
 35 
 
@@ -1475,7 +1591,7 @@ Tha
 
 Grāsinī 
 
-Head 3\] Nivrtti Head-Grāsinī Nivrtti band \[>\] Nivrtti 
+Head 3\] Nivṛtti Head-Grāsinī Nivṛtti band \[>\] Nivṛtti 
 
 Head- | \[illegible\] | Pratiṣthā | Head-Nivrtti | Pratiṣthā band band |è Pratiṣthikā 
 
@@ -1522,7 +1638,7 @@ Mohanyā | Earring H Vajriṇī Ears Nārāyaṇī | Mohanīś \$SS | 595 and �
 
 ṢSS: 
 
-akti and 
+Śakti and 
 
 Nārāyaṇī 
 
@@ -1547,21 +1663,21 @@ T:U
 
 Right earring 
 
-I° | Gandhaśakt | Nose Ü Kālikā | Earring | Prajñā | Guhyaśa 595 
+I | Gandhaśakt | Nose Ü Kālikā | Earring | Prajñā | Guhyaśa 595 
 
 i 
 
-595 kti and | ṢȘSS and Ṭ: 
+595 kti and | ṢṢSS and Ṭ: 
 
 and Ṭ: 
 
 पृः | थुति
 
-Left earring | 8 | Vajrinyā | Mouth |a ivā | \[illegible\] | Vajriṇi | \[illegible\] kti Ka 
+Left earring | 8 | Vajrinyā | Mouth |a Śivā | \[illegible\] | Vajriṇi | \[illegible\] kti Ka 
 
-Kañkaṭā 
+Kaṅkaṭā 
 
-Teeth Ka | Ghoragho | Teeth Kañkatā | Karālīśak \$SS and ¶: 
+Teeth Ka | Ghoragho | Teeth Kaṅkatā | Karālīśak \$SS and ¶: 
 
 ṢSS: 
 
@@ -1593,7 +1709,7 @@ left teeth
 
 Ga 
 
-ivā 
+Śivā 
 
 Teeth | Ga | Māyādevīi | Teeth W ? 
 
@@ -1631,7 +1747,7 @@ A
 
 Vāgeśvarī | Speech | A Prajñā \[illegible\] Sarasvati | Ghoragh ०६ Va 
 
-ikhivāhī | Throat | Va | Śikhivāhi | mea | ikhivāh | Vīraśakti ni i E Bhīṣaṇā 
+ikhivāhī | Throat | Va | Śikhivāhi | mea | ikhivāḥ | Vīraśakti ni i E Bhīṣaṇā 
 
 Shoulde | Lāmā Right Bhīmā Bhīṣaṇīś ṢSS: Bhīmā r shoulde akti 
 
@@ -1676,7 +1792,7 @@ Pūrmāśak T: Two hands ti
 
 hands | प्त 1५
 
-| Icchāśakti | Backof | Jha | Kāpālinī | Nails | Jhañkārīi | Jhañkārī 
+| Icchāśakti | Backof | Jha | Kāpālinī | Nails | Jhaṅkārīi | Jhaṅkārī 
 
 *[p. 369]* ^pg387
 
@@ -1684,7 +1800,7 @@ hands | प्त 1५
 
 the 
 
-555 | Jhañkārī 
+555 | Jhaṅkārī 
 
 hands 
 

@@ -31,6 +31,9 @@ viśettathā hyaghorāgniḥ pāśānpluṣyati bandhakān || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 118–119)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.191–193]]
+
 > एवं बहिः पूजयित्वा द्वारं प्रोक्ष्य प्रपूजयेत् ॥
 > त्रिशिरःशासनादौ च स दृष्टो विधिरुच्यते ।
 > गणेशलक्ष्म्यौ द्वारोर्ध्वे दक्षे वामे तयोः पुनः ॥

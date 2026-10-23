@@ -33,6 +33,11 @@ yathā prekṣaṇake tattaddraṣṭṛsaṃvidabheditām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 14–16)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.18–20]]
+>
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.20–23]]
+
 *Lead-in:* एतदेव दृष्टान्तयति--
 
 Jayaratha comments on this verse together with 28.19: see [[Tantraloka 28.019#Viveka|28.19]].

@@ -39,6 +39,9 @@ stānme sa macchandavibhuḥ prasannaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 56–61)
+> ![[Tantraloka Dyczkowski v01 03 - Chapter One, part 2#Viveka on 1.7]]
+
 *Lead-in:* इत्यादिनिरूपितस्थित्या तदवतारकं तुर्यनाथमेव तावत् प्रथमं कीर्तयति --
 
 > रागारुणं ग्रन्थिबिलावकीर्णं

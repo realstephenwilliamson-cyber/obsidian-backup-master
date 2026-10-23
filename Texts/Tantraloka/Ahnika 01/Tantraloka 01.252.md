@@ -35,6 +35,9 @@ prathamaṃ sa ihoddeśaḥ praśnaḥ saṃśaya eva ca || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 427)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.252]]
+
 > तेनानुद्घाटितात्मत्वभावप्रथनमेव यत् ।
 > प्रथमं स इहोद्देशः प्रश्नः संशय एव च ॥
 

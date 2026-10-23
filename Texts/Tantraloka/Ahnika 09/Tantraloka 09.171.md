@@ -31,6 +31,9 @@ eṣāṃ kalāditattvānāṃ sarveṣāmapi bhāvinām |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 149)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.171]]
+
 *Lead-in:* अत एव शिवाद्वयमयत्वादेषां शुद्धत्वमपि संभवेत् -- इत्याह --
 
 > एषां कलादितत्त्वानां सर्वेषामपि भाविनाम् ।

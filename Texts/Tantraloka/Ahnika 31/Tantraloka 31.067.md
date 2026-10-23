@@ -33,6 +33,11 @@ tato dvitīyabhāgānte brahmaṇaḥ pārśvayordvayoḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 96–98)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.65–67]]
+>
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.67–69]]
+
 *Lead-in:* एवं पार्श्ववर्तनानन्तरं शृङ्गवर्तनामाह--
 
 Jayaratha comments on this verse together with 31.66: see [[Tantraloka 31.066#Viveka|31.66]].

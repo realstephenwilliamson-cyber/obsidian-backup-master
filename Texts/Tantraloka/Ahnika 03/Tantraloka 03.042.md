@@ -40,6 +40,9 @@ samāgataḥ sanviditastathākriyaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 115–116)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.42]]
+
 *Lead-in:* बाह्यबिम्बाभावे पुनः स्मर्यमाणं स्पर्शादि स्वक्षेत्रे प्रतिसंक्रान्तमपि न सत्यार्थक्रियाकारि -- इत्याह—
 
 > न तु स्मृतान्मानसगोचरादृता

@@ -33,6 +33,11 @@ avacchinno'navacchedaṃ no vettyānantyasaṃsthitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 323–324)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.320–321]]
+>
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.321–322]]
+
 *Lead-in:* ननु समानेऽप्यन्यशास्त्राभियुक्तत्वे पूर्वः पूर्वः परत्र चेदधिकारी, तत्परः परः पूर्वत्र कस्मान्न? -- इत्याशङ्क्याह --
 
 > अवच्छिन्नोऽनवच्छेदं नो वेत्त्यानन्त्यसंस्थितः ॥

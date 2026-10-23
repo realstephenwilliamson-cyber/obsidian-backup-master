@@ -31,6 +31,9 @@ punaḥ sṛṣṭiḥ saṃhṛtiśca khecaryā kriyate budhaiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 157)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.44–47]]
+
 > नादिफान्तं समुच्चार्य कौलेशं देहसंनिभम् ।
 > आक्रम्य प्रथमं चकं खे यन्त्रे पादपीडितम् ॥
 > नादं वै शक्तिसद्गर्भं सद्गर्भात्कौलिनीपदम् ।

@@ -33,6 +33,11 @@ yattu tatrāpyavispaṣṭaṃ spaṣṭādhiṣṭhātṛ bhāsate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 455–456)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.249–250]]
+>
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.250–251]]
+
 *Lead-in:* एवं स्वप्नजागरां निरूप्य स्वप्नस्वप्नमपि निरूपयति --
 
 > यत्तु तत्राप्यविस्पष्टं स्पष्टाधिष्ठातृ भासते ॥

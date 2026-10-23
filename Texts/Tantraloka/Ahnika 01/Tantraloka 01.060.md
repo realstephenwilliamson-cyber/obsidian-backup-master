@@ -36,6 +36,11 @@ vibhutvātsarvago nityabhāvādādyantavarjitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 188–189)
+> ![[Tantraloka Dyczkowski v01 06 - Chapter One, part 5#Viveka on 1.59–60]]
+>
+> ![[Tantraloka Dyczkowski v01 06 - Chapter One, part 5#Viveka on 1.60–61]]
+
 *Lead-in:* एतदेव प्रपञ्चयति --
 
 > विभुत्वात्सर्वगो नित्यभावादाद्यन्तवर्जितः ॥

@@ -33,6 +33,13 @@ ajñatvānupadeṣṭṛtvasaṃdaṣṭe'dharaśāsane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 232–233)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 37.16–17.*
+>
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.12–13]]
+>
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.16–17]]
+
 *Lead-in:* ननु भवतु एवं भैरवत्वापत्त्या, तावता तु तदागमस्य अवश्यग्राह्यत्वं कुतस्त्यम्?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 37.12: see [[Tantraloka 37.012#Viveka|37.12]].

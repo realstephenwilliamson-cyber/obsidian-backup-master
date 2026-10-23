@@ -33,6 +33,9 @@ ucyate vastuto'smākaṃ śiva eva tathāvidhaḥ | svarūpagopanaṃ kṛtvā s
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 400)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.222–223]]
+
 *Lead-in:* एतदेव समाधत्ते --
 
 > उच्यते वस्तुतोऽस्माकं शिव एव तथाविधः । स्वरूपगोपनं कृत्वा स्वप्रकाशः पुनस्तथा ॥

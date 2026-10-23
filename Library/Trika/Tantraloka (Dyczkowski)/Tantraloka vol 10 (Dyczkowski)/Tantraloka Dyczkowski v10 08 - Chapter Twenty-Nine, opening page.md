@@ -12,6 +12,8 @@ converted: 2026-10-07
 
 [[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5|← previous]] · [[Tantraloka vol 10 (Dyczkowski)|contents]] · [[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1|next →]]
 
+#### Viveka on Dyczkowski's verse 435ab (continued)
+
 *[p. 200]* ^pg217
 
 The Secret Observance (rahasyacaryā)' 
@@ -20,14 +22,20 @@ May (the Rudra) Bhadrakāla (Auspicious Time) bestow auspicious things upon you 
 
 Now, with the second half of the verse (begun at the end of the previous chapter), (he starts with an initial) declaration (of his topic) He does this in order to (proceed to) teach the procedure of the secret practice.? 
 
+### TĀ 29.1
+
 अथ समुचिताधिकारिण उदिश्य रहस्य उच्यतेऽत्र विधिः ।
-atha samucitādhikārina uddiśya rahasya ucyate ‘tra vidhih | 
+atha samucitādhikārina uddiśya rahasya ucyate ‘tra vidhiḥ | 
 
 Now (atha) the secret (ritual) procedure (vidhi) will be taught here, meant for those who are (sufficiently elevated to be) suitably qualified (to practice it). (lab) 
 
+#### Viveka on 29.1
+
 (He will teach the procedure) ‘with reference to the secret (practice)’,? that is, with reference to the Kula modality of practice (kulaprakriyā). The ‘(ritual) procedure’ is the (Kula) sacrifice (yāga).\* 
 
-Those Fit to Participate in the Kaula Rites (adhikāryātmano bhedah) 
+Those Fit to Participate in the Kaula Rites (adhikāryātmano bhedaḥ) 
+
+### TĀ 29.1–2
 
 अथ सवीप्युपासेयं कुलग्रक्रिययोच्यते ॥ १ ॥
 तथा धाराधिरूढेषु गुरुशिष्येषु योचिता ।
@@ -46,7 +54,9 @@ Those Fit to Participate in the Kaula Rites (adhikāryātmano bhedah)
 atha sarvāpy upāseyaṁ kulaprakriyayocyate ॥ 1 ॥
 tathā dhārādhirūḍheṣu guruśiṣyeṣu yocitā | 
 
-Now (atha), all of this worship (upāsāã) is described' according to the Kula manner (kulaprakriyā), as befits those teachers and disciples who have ascended to the (highest) level in this way. (1cd-2ab) 
+Now (atha), all of this worship (upāsā) is described' according to the Kula manner (kulaprakriyā), as befits those teachers and disciples who have ascended to the (highest) level in this way. (1cd-2ab) 
+
+#### Viveka on 29.1–2
 
 ‘Worship (upāsā) according to the Kula manner (kulaprakriyā) is the Kula sacrifice. This is the meaning. By (the expression, those) ‘who have ascended to the (highest) level in this way’, whilst referring to (their condition) as having ascended, insofar as they abide on the level free of thought constructs attained at the supreme summit (of reality), also implicitly refers to the distinction between those who are qualified (for this practice and others who are not). The use of the word ‘now (atha)’ ) here serves to indicate the intention (prāyatā) of the gloss of the (initial) brief index of topics (pratijñāsūtravārttika) written (above) by (Abhinavagupta) himself (to treat this as a separate topic of this chapter).” 
 
@@ -55,7 +65,7 @@ Surely (one may ask), what is the difference between the Kula manner (of practic
 The Kula Liturgy Dedicated to the Siddhas and Their Consorts (siddhapatnīkulakrama) 
 
 उक्तं च परमेशेन सारत्वं क्रमपूजने ॥ २ ॥
-uktarh ca parameśena sāratvaṁ kramapūjane ॥ 2 ॥ 
+uktaṁ ca parameśena sāratvaṁ kramapūjane ॥ 2 ॥ 
 
 The Supreme Lord has taught the essence (of Kaula worship) in the Kramapūjana (20) 
 

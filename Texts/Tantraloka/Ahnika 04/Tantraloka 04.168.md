@@ -34,6 +34,9 @@ vikāsini mahākāle līyate'hamidaṃmaye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 239–242)
+> ![[Tantraloka Dyczkowski v03 08 - Chapter Four, part 7#Viveka on 4.168]]
+
 *Lead-in:* एवं प्रमातृगतं सृष्टिस्वरूपमभिधाय स्थितिस्वरूपमप्याह --
 
 > सोऽपि कल्पितवृत्तित्वाद्विश्वाभेदैकशालिनि ।

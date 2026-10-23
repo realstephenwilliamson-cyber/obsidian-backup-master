@@ -35,6 +35,9 @@ uvāca bhagavāneva tacchrīmatkulaguhvare |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 287–289)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.168–169]]
+
 *Lead-in:* यत एव चास्य व्यापकममृतं च रूपम्, अत एव अन्यत्र "विषतत्त्वमिति"व्यपदेशान्तरमप्यस्ति -- इत्याह --
 
 Jayaratha comments on this verse together with 3.169: see [[Tantraloka 03.169#Viveka|3.169]].

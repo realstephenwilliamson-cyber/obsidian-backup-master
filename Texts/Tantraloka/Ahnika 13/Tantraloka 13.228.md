@@ -31,6 +31,9 @@ mantramudrādimāhātmyātsamastavyastabhedataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 265–266)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.227–229]]
+
 > अस्यां भेदो हि कथनात्सङ्गमादवलोकनात् ॥
 > शास्त्रात्संक्रमणात्साम्यचर्यासंदर्शनाच्चरोः ।
 > मन्त्रमुद्रादिमाहात्म्यात्समस्तव्यस्तभेदतः ॥

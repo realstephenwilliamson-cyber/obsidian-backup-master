@@ -35,6 +35,9 @@ vastuno yā tathātvena sṛṣṭiḥ soddeśasaṃjñitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 443–444)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.267–268]]
+
 > विकल्पस्रक्ष्यमाणान्यरुचितांशसहिष्णुनः ।
 > वस्तुनो या तथात्वेन सृष्टिः सोद्देशसंज्ञिता ॥
 > तदैव संविच्चिनुते यावतः स्रक्ष्यमाणता ।

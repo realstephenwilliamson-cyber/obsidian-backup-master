@@ -37,6 +37,11 @@ dharmajñānavirāgaiśyacatuṣṭayapuraṃ tu yat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 344–346)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.354–355]]
+>
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.355–357]]
+
 *Lead-in:* इदानीं प्रकृतमेवाह --
 
 Jayaratha comments on this verse together with 8.354: see [[Tantraloka 08.354#Viveka|8.354]].

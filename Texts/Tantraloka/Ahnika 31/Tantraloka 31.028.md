@@ -31,6 +31,9 @@ padmānāmatha cakrāṇāṃ vyomnāṃ vā saptakaṃ bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 78–80)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.26–29]]
+
 > अधो भागविवृद्ध्यास्य पद्मं वृत्तचतुष्टयम् ।
 > ततश्चक्रं षोडशारं द्वादशारं द्विधाथ तत् ॥
 > मध्ये कुलेश्वरीस्थानं व्योम वा तिलकं च वा ।

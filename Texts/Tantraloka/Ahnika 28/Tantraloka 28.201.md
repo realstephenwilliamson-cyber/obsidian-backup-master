@@ -33,6 +33,11 @@ kramasphuṭībhavattādṛksadṛśajñānadhārayā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 91–92)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.200–201]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.201–202]]
+
 *Lead-in:* समुचितोपायत्वमेव अस्य दर्शयति--
 
 > क्रमस्फुटीभवत्तादृक्सदृशज्ञानधारया ॥

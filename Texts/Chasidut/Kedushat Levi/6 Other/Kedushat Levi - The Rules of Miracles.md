@@ -1,0 +1,30 @@
+---
+type: "text"
+work: "Kedushat Levi"
+author:
+  - "Levi Yitzchak of Berditchev"
+translation: "Sefaria Community Translation"
+license: "CC0"
+source: "https://www.sefaria.org/Kedushat_Levi,_The_Rules_of_Miracles?ven=Sefaria_Community_Translation&lang=en"
+aliases:
+  - "Kedushat Levi, The Rules of Miracles"
+section: "The Rules of Miracles"
+---
+# Kedushat Levi - The Rules of Miracles
+
+← [[Kedushat Levi - Kedushot for Chanukah - Kedusha Chamishit]] · [[Kedushat Levi]]
+
+*The Rules of Miracles* · [[Kedushat Levi]]
+
+> [!note] Sefaria Community Translation
+> Munk's translation does not cover this section; the English here is the Sefaria Community Translation (CC0), and only the passages it translates are here.
+
+## Teaching 21
+
+And this is the explanation of the verse in Parashat Pinchas ([[Torah 41 - Pinchas#^26-9|Numbers 26:9–11]]): "And the sons of Eliav: Nemuel, and Datan, and Aviram. This is the Datan and Aviram... who strove against Moses... in the company of Korach... and the earth opened its mouth and swallowed them up together with Korach, when that company died, when the fire consumed [the two hundred and fifty men], and they became a sign (va-yhi le-nes); but the sons of Korach did not die." Now, seemingly there is a difficulty: why did Scripture write "but the sons of Korach did not die" here, among the sons of Reuben? — and Ibn Ezra indeed noticed this. And further: why did the sons of Korach not die, while the sons of Datan and Aviram did die? — and Ibn Ezra noticed this too. Ibn Ezra wrote that the wickedness of Datan and Aviram was greater than the wickedness of Korach — but I do not know why. And it appears that, seemingly, one must understand: regarding what Scripture wrote, "and they became a sign" — why was it necessary to write this? Do we not already know that it was a sign? And in Deuteronomy it wrote, "for your eyes have seen what He did to Datan and to Aviram" ([[Torah 46 - Eikev#^11-6|Deuteronomy 11:6–7]]), and it did not write "and they became a sign" at all. And it appears that this is the explanation of the verse: For why did Korach merit that his descendants would attain the dukhan [the Levites' platform of song in the Temple]? Because a miracle came about through them, His great Name was sanctified, and therefore he merited that his sons would rise to greatness. And this is what the words of Scripture mean — "and they became a sign": His great Name was sanctified, and therefore he merited that the sons of Korach did not die, and they rose to greatness. And as for why the sons of Datan and Aviram died: behold, Ibn Ezra wrote that the wickedness of Datan and Aviram was greater than the wickedness of Korach, and it appears that they were the ones who incited Korach. Now seemingly there is a difficulty: why do Scripture and the Gemara call them "the company of Korach," since Datan and Aviram were the principal [agitators]? But it appears to me that, on the contrary, this was to Korach's benefit — so that he would have an elevation and his sons would rise to greatness — since the dispute is called by his name, and the miracle and the swallowing-up are called by his name. It emerges that the wonders through which Israel came to the sanctification of His blessed Name were [attached] to Korach's name, and therefore he merited that his sons would rise to greatness, and he himself has an elevation, as is explained in the writings of the Arizal, of blessed memory. It emerges that this was to Korach's benefit, even though the core of the dispute lay in the incitement of Datan and Aviram and in their counsel — [yet] the miracle and the swallowing-up are called by Korach's name, and the wonders of the sanctification of His blessed Name were called by Korach's name. And this is the explanation of the verse "This is the Datan and Aviram... who strove" — that they incited [the dispute] within the company of Korach, yet it was called by Korach's name, for Scripture attests, "in the company of Korach... and the earth opened... and they became a sign." And since the miracle was called by Korach's name, therefore "but the sons of Korach did not die." But the sons of Datan and Aviram — whose name was not made habitual in the mouths of all Israel in connection with the swallowing-up — [did die], for Korach was the one who "entered into the thickness of the beam" [the Talmudic idiom for taking the matter fully upon himself], while they merely incited him to this thing. And so it is in the Or HaChaim: that they incited him to this thing, and they were the cause. And it also appears that for this reason Esther invited Haman [to her banquet].
+
+**Torah:** [[Torah 41 - Pinchas#^26-9|Numbers 26:9]], [[Torah 41 - Pinchas#^26-9|Numbers 26:9–11]], [[Torah 46 - Eikev#^11-6|Deuteronomy 11:6–7]]
+
+## Teaching 22
+
+And behold, our Sages of blessed memory said ([[Sukkah 52#52a|Sukkah 52a]]) [regarding] "If your enemy is hungry [feed him bread]," etc. ([[Proverbs 25#^25-21|Proverbs 25:21–22]]), "for you heap coals," etc., "and He will make him be at peace with you." There is much to expound here. For Haman was not worthy that His great Name should be so greatly sanctified [through him]; [therefore] Esther invited Haman, and through this eating — that he ate at her [table] — a measure of holiness entered into him, since he ate food of holiness, as we have likewise explained elsewhere at length. This is why it is written, "And Haman went out [that day]... and glad of heart" ([[Esther 05#^5-9|Esther 5:9]]) — for this points to holiness, as we explained at length. And this is why it is written, "and Haman restrained himself" ([[Esther 05#^5-9|Esther 5:9]] [5:10]) — for how did forbearance come to Haman? Since, through the aforementioned eating, holiness had entered into him, therefore the Name of Heaven was sanctified through him in his downfall and in his hanging, and from among his descendants [some] taught Torah in public, as has been explained. So may His great and holy Name be magnified and sanctified, blessed be His Name.

@@ -31,6 +31,9 @@ nāsmād vrataṃ paraṃ kiñcit kā vāsya stutirucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 84–86)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.185–186]]
+
 > विद्यापीठे तु खशराः, प्रतिमालिङ्गपीठगम् ॥
 > वसुवेदं, च घण्टायां शराक्ष्यष्टादश स्रुवे ।
 > वेदाक्षि स्रुचि, षट्त्रिंशत् प्रासादे, मण्डपे रविः ॥

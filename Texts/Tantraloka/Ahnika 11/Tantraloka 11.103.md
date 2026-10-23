@@ -35,6 +35,9 @@ ajanmanyamṛtau bhānti cittabhittau svanirmitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 90–91)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.103]]
+
 *Lead-in:* ननु सर्व एव जन्मादिविनाशान्तं विकारजातमनिच्छन्तोऽपि बलादासादयन्ति इत्यत्र कर्मादिनिमित्तमन्यदनुसरणीयं तत्कथमुक्तं चित एव सर्वत्र कर्तृत्वमिति ? -- इत्याशङ्क्याह --
 
 > एवं जातो मृतोऽस्मीति जन्ममृत्युविचित्रताः ।

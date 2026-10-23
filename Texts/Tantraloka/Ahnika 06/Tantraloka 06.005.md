@@ -34,6 +34,9 @@ yo vakṣyate sa ekatra prāṇe tāvatpratiṣṭhitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 218–219)
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.4–5]]
+
 *Lead-in:* तदेवाह -
 
 > अध्वा समस्त एवायं षड्वधोऽप्यतिविस्तृतः ।

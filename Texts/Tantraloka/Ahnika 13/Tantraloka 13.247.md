@@ -33,6 +33,11 @@ yadā pratibhayāviṣṭo'pyeṣa saṃvādayojanām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 279–280)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.246–247]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.247–248]]
+
 *Lead-in:* तदेवाह -
 
 > यदा प्रतिभयाविष्टोऽप्येष संवादयोजनाम् ॥

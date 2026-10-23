@@ -41,4 +41,4 @@ Pritzker translation (Matt): [[Zohar 7.08 - Parashat Aharei Mot#^z3-59b|Parashat
 
 **Achrei Mot 9:67** They then went on their way till they reached R. Pinchas ben Jair. R. Pinchas came out and kissed him, saying: ‘I am privileged to kiss the Shekinah.’ He prepared for them couches with awnings. Said R. Simeon: ‘The Torah does not require this.’ So he removed them and they sat down. Said R. Pinchas: ‘Before we eat let us hear something from the great Master, for R. Simeon always speaks his mind; he is a man who says what he has to say without fear of heaven or earth. He has no fear of heaven since God concurs with him, and he is no more afraid of men than a lion of sheep.’ R. Simeon then turned to R. Eleazar his son, saying: ‘Stand up and say something new in the presence of R. Pinchas and the rest of the Companions.’ ^achrei-mot-9-67
 
-[^1]: v. T. B. Kiddushin, 30b.
+[^1]: v. T. B. [[Kiddushin 30#30b|Kiddushin, 30b]].

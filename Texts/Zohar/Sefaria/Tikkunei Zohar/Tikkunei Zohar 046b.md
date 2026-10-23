@@ -375,4 +375,4 @@ it is stated of the Shekhinah:... *and she filled her pitcher and went up*.
 [^59]: ·
 [^60]: ְ
 [^61]: ֻ
-[^62]: *BT* Berakhot 12a
+[^62]: *BT* [[Berakhot 12#12a|Berakhot 12a]]

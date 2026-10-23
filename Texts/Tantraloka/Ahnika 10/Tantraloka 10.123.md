@@ -33,6 +33,11 @@ maheśvareśamantrāṇāṃ tathā kevalinordvayoḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 373)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.122–123]]
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.123–124]]
+
 *Lead-in:* क्वान्यत्र विवादिता ? इत्याशङ्क्याह --
 
 > महेश्वरेशमन्त्राणां तथा केवलिनोर्द्वयोः ॥

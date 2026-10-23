@@ -33,6 +33,11 @@ anvayavyatirekau hi prasiddherupajīvakau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 188–192)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.1–2]]
+>
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.2–3]]
+
 *Lead-in:* इत्यादिनयेन अन्वयव्यतिरेकाभ्यां साध्यसाधनभावमवगम्य सर्वे एव व्यवहर्तारस्तथा तथा व्यवहरन्तीति प्रसिद्धिमनुसन्धाय सर्वोऽपि अयं व्यवहार इति किमुक्तम्?--इत्याशङ्क्य आह--
 
 > अन्वयव्यतिरेकौ हि प्रसिद्धेरुपजीवकौ ॥

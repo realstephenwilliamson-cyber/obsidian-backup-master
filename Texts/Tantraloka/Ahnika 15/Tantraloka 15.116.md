@@ -33,6 +33,11 @@ mātṛkāṃ mālinīṃ vā'tha dvitayaṃ vā kramākramāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 78–79)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.115–116]]
+>
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.116–117]]
+
 *Lead-in:* तदेव आह—
 
 > मातृकां मालिनीं वाऽथ द्वितयं वा क्रमाक्रमात् ॥

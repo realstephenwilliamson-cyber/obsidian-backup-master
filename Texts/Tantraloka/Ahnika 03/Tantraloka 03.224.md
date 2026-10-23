@@ -34,6 +34,9 @@ pūjyaḥ so'hamiva jñānī bhairavo devatātmakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 345–346)
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.224]]
+
 *Lead-in:* अत एव च एतत्परिज्ञानमेव गुरोर्मुख्यं लक्षणम् -- इत्याह --
 
 > गुरोर्लक्षणमेतावदादिमान्त्यं च वेदयेत् ।

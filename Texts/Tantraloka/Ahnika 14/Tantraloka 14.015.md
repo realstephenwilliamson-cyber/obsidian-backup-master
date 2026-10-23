@@ -31,6 +31,9 @@ anantakālasaṃvedyaduḥkhapātratvamīhate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 353)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.15]]
+
 *Lead-in:* अत एवाह --
 
 > तस्मात्सा परमेशेच्छा ययायं मोहितस्तथा ।

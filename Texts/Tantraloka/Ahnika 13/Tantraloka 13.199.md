@@ -31,6 +31,9 @@ evamasyātmanaḥ kāle kasmiṃścidyogyatāvaśāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 248–249)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.199–203]]
+
 *Lead-in:* ननु श्रीपूर्वशास्त्रमधिकृत्येदमुच्यते इत्युपक्रान्तं तत्किमिह श्रीमन्नन्दिशिखाद्यवान्तरग्रन्थार्थकथनेन? -- इत्याशङ्क्याह --
 
 > एनमेवार्थमन्तःस्थं गृहीत्वा मालिनीमते ।

@@ -31,6 +31,9 @@ dināddinaṃ hrasaṃstvevaṃ pacyate rauravādiṣu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 341)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.353–355]]
+
 > श्रीमदानन्दे कर्म संश्रित्य भावतः ॥
 > जुगुप्सते तत्तस्मिंश्च विफलेऽन्यत्समाश्रयेत् ।
 > दिनाद्दिनं ह्रसंस्त्वेवं पच्यते रौरवादिषु ॥

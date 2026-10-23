@@ -31,6 +31,9 @@ nahi tatkiñcanāpyasti yatpurā na nirūpitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 64)
+> ![[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#Viveka on 30.121–123]]
+
 > अत्र वीर्यं पुरैवोक्तं सर्वत्रानुसरेद्गुरुः ॥
 > अर्थबीजप्रवेशान्तरुच्चाराद्यनुसारतः ।
 > नहि तत्किञ्चनाप्यस्ति यत्पुरा न निरूपितम् ॥

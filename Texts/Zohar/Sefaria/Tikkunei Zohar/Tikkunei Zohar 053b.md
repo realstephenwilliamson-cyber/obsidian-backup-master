@@ -293,7 +293,7 @@ through the worry[^46] [Var. through the oppression] of poverty.
 
 [^1]: Liturgical: Sabbath and Festival Evening Service
 [^2]: *Mishnah* Avot 3:1
-[^3]: *BT* Megilah 29a
+[^3]: *BT* [[Megillah 29#29a|Megilah 29a]]
 [^4]: א
 [^5]: ת
 [^6]: *dag*

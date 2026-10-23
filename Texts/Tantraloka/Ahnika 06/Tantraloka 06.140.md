@@ -37,6 +37,11 @@ brahmāho'nte kālavahnerjvālā yojanalakṣiṇī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 362–364)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.138–140]]
+>
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.140–141]]
+
 *Lead-in:* तदाह -
 
 > ब्रह्माहोऽन्ते कालवह्नेर्ज्वाला योजनलक्षिणी ॥

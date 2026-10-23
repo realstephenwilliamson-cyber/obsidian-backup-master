@@ -35,5 +35,8 @@ prakāśyaṃ sarvavastūnāṃ visargarahitā tu sā |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 244–251)
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.137–141]]
+
 Jayaratha comments on this verse together with 3.140: see [[Tantraloka 03.140#Viveka|3.140]].
 

@@ -31,6 +31,9 @@ heyādeyatvakathane vidyāpāda iti sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 7–8)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.10]]
+
 *Lead-in:* नच एतदस्माभिः स्वोपज्ञमेव व्याख्यातम्--इत्याह--
 
 > उक्तं तत्रैव तत्त्वानां कार्यकारणभावतः ।

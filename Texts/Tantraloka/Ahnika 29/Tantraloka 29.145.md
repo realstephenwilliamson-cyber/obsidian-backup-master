@@ -31,6 +31,9 @@ ubhayostannirākārabhāvasaṃprāptilakṣaṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 328–329)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.142–146]]
+
 > स्रोतोद्वयस्य निष्ठान्तमूर्ध्वाधश्चक्रबोधनम् ॥
 > विश्रामं च समावेशं सुषीणां मरुतां तथा ।
 > गतभेदं च यन्त्राणां सन्धीनां मर्मणामपि ॥

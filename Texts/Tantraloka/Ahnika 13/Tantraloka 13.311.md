@@ -31,6 +31,9 @@ gurau śivena tadbhaktiḥ śaktipāto'sya nocyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 319)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.311]]
+
 *Lead-in:* नन्वस्य गुरौ देवे च शक्तिपातलिङ्गं भक्तिर्दृश्यते इति शिवेनैवासौ तथा नियुक्तः, तदस्य को दोषो येनैवं स्यात्? -- इत्याशङ्क्याह --
 
 > तिरोभावप्रकारोऽयं यत्तादृशि नियोजितः ।

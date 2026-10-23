@@ -32,6 +32,9 @@ akārpaṇyāspṛhe cātmaguṇāṣṭakamidaṃ smṛtam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 307–308)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.498–505]]
+
 > गर्भाधानं पुंसवनं सीमन्तो जातकर्म च ।
 > नाम निष्क्रामणं चान्नप्राशश्चूडा तथाष्टमी ॥
 > व्रतबन्धैष्टिके मौज्जीभौतिके सौमिकं क्रमात् ।

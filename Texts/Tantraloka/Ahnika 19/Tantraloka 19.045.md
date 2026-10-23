@@ -37,6 +37,11 @@ prabuddhaḥ sa ca sañjāto na cādīkṣita ucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 226)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.44–45]]
+>
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.45–46]]
+
 *Lead-in:* एवं तर्ह्यस्य अदीक्षिताग्रे मन्त्रपाठात् स्फुटमेवापतितः समयलोपः?--इत्याशङ्क्याह--
 
 > प्रबुद्धः स च सञ्जातो न चादीक्षित उच्यते ॥

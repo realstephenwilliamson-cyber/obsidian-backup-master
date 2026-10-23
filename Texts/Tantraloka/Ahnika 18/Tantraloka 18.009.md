@@ -34,6 +34,9 @@ vyāptiṃ sarvādhvasāmānyāṃ kintu yāge na vistaraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 197)
+> ![[Tantraloka Dyczkowski v09 09 - Chapter Eighteen#Viveka on 18.9]]
+
 *Lead-in:* ननु विस्तृतायां दीक्षायां स्वभ्यस्तज्ञानत्वं गुरोरुपादेयम्, संक्षिप्तायां किं तेन?--इत्याशङ्कां गर्भीकृत्यागममेव संवादयति--
 
 > श्रीब्रह्मयामले चोक्तं संक्षिप्तेऽपि हि भावयेत् ।

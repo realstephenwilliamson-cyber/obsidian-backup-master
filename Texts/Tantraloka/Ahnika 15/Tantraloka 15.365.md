@@ -31,6 +31,9 @@ yāmalaikyāṅgavaktrādisadasattāvikalpataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 225)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.365]]
+
 *Lead-in:* अत्रैव पृथग्यागे विशेषान्तरमाह--
 
 > एकैकामथवा देका मन्त्रं वा पद्मगं यजेत् ।

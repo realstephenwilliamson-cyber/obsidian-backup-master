@@ -36,6 +36,11 @@ pūrvodaye tu viśramya dvitīyenollasedyadā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 41–42)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.59–60]]
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.60–62]]
+
 *Lead-in:* एवमेतत्प्रसङ्गादभिधाय प्रकृतमेवानुसरति --
 
 Jayaratha comments on this verse together with 7.59: see [[Tantraloka 07.059#Viveka|7.59]].

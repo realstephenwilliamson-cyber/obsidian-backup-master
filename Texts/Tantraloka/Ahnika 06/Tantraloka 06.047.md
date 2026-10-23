@@ -36,6 +36,11 @@ yatno jīvanamātrātmā tatparaśca dvidhā mataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 259–261)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.46–47]]
+>
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.47–48]]
+
 *Lead-in:* अत एवाह -
 
 Jayaratha comments on this verse together with 6.46: see [[Tantraloka 06.046#Viveka|6.46]].

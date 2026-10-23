@@ -31,6 +31,9 @@ yo vivekadhanairdhīraiḥ sphuṭīkṛtyāpi darśyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 416)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.196]]
+
 *Lead-in:* इत्याद्युक्तं विहन्येत? -- इत्याशङ्क्याह --
 
 > अस्ति चातिशयः कश्चित्तासामप्युत्तरोत्तरम् ।

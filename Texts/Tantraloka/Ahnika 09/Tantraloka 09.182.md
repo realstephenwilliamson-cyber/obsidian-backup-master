@@ -31,6 +31,9 @@ tadupodbalitaṃ taddhi na kiṃcitkartṛtāṃ vrajet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 156)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.182]]
+
 *Lead-in:* ननु यद्येवं तदीशशक्तिरेव एतत् समुद्बलयतु, किं कलया ? -- इत्याशङ्क्याह --
 
 > न चेशशक्तिरेवास्य चैतन्यं बलयिष्यति ।

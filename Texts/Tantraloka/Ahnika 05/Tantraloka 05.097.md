@@ -35,6 +35,9 @@ aliases:
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 129–130)
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.97–98]]
+
 *Lead-in:* न केवलमेतदिहैवोक्तं यावदन्यत्रापि -- इत्याह --
 
 Jayaratha comments on this verse together with 5.96: see [[Tantraloka 05.096#Viveka|5.96]].

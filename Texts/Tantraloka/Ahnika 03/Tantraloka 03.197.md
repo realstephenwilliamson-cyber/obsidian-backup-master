@@ -36,6 +36,11 @@ ekāśītipadā devī hyatrāntarbhāvayiṣyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 313–314)
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.196–197]]
+>
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.197]]
+
 *Lead-in:* अत एव चार्धमात्रागणनाक्रमेण एकाशीतिपदापि देवी वर्णपञ्चाशत्येवान्तर्भावयिष्यते -- इत्याह --
 
 > एकाशीतिपदा देवी ह्यत्रान्तर्भावयिष्यते ॥

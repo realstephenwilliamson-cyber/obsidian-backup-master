@@ -31,6 +31,9 @@ nādāntātma smarecchaktivyāpinīsamanojjvalam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 186–189)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.313–314]]
+
 *Lead-in:* एवमियता वामदक्षिणोभयात्मकतन्त्रान्तरसंसिद्धमासनमुक्तम्, इदानीं तु तदुत्तीर्णव्याप्तिकत्रिकार्थसंसूचकमासनक्रममभिधातुमाह--
 
 Jayaratha comments on this verse together with 15.314: see [[Tantraloka 15.314#Viveka|15.314]].

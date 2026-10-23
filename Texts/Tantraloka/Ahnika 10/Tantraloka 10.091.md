@@ -33,6 +33,11 @@ evaṃ siddhaṃ vedyatākhyo dharmo bhāvasya bhāsate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 352–354)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.89–91]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.91–92]]
+
 *Lead-in:* एतदुपसंहरन्नन्यदवतारयति --
 
 > एवं सिद्धं वेद्यताख्यो धर्मो भावस्य भासते ॥

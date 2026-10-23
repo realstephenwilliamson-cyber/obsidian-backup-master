@@ -31,5 +31,8 @@ kavitvaṃ sarvaśāstrārthaboddhṛtvamiti tatkramāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 259–261)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.214–216]]
+
 Jayaratha comments on this verse together with 13.216: see [[Tantraloka 13.216#Viveka|13.216]].
 

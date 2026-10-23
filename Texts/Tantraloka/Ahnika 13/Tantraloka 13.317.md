@@ -33,6 +33,11 @@ vaiṣṇavādiḥ śaivaśāstraṃ melayannijaśāsane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 321–322)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.316–317]]
+>
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.317–318]]
+
 *Lead-in:* ननु भ्रमयतु नाम माया वैष्णवादीन्, यस्तु वैष्णवादिः सन्नपि शैवस्तस्य किमायातम्? -- इत्याशङ्क्याह --
 
 > वैष्णवादिः शैवशास्त्रं मेलयन्निजशासने ॥

@@ -150,7 +150,7 @@ Above all, don’t reduce everything you encounter in these pages to something y
 
 [^11]: At the website of Stanford University Press: [www.sup.org/zohar](http://www.sup.org/zohar).
 
-[^12]: BT *Qiddushin* 49a.
+[^12]: BT [[Kiddushin 49#49a|*Qiddushin* 49a]].
 
 [^13]: On the *Zohar*’s Aramaic, see Scholem, *Kabbalah*, 226–29; Tishby, *Wisdom of the Zohar*, 1:64–68.
 

@@ -34,6 +34,9 @@ tathā sampūrṇarūpatvānusandhirdhyānamucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 104)
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.9–11]]
+
 *Lead-in:* ननु संविन्मयतापत्तावर्चनादि सर्वत्र निमित्तमुक्तमिह पुनः किमेतदुच्यते? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 12.11: see [[Tantraloka 12.011#Viveka|12.11]].

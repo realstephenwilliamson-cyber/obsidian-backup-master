@@ -34,6 +34,9 @@ gurorlakṣmaṇaguptasya nādasaṃmohinīṃ numaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 71)
+> ![[Tantraloka Dyczkowski v01 03 - Chapter One, part 2#Viveka on 1.11]]
+
 > श्रीसोमानन्दबोधश्रीमदुत्पलविनिःसृताः ।
 > जयन्ति संविदामोदसन्दर्भा दिक्प्रसर्पिणः ॥
 > तदास्वादभरावेशबंहितां मतिषट्पदीम् ।

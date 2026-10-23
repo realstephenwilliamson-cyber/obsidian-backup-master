@@ -36,6 +36,11 @@ samastamantrairdīkṣāyāṃ niyamastveṣa kathyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 189–190)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.115]]
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.115–117]]
+
 *Lead-in:* गुरुभिरपि एवमेवोक्तम्--इत्याह--
 
 > श्रीमान् विद्यागुरुस्त्वाह प्रमाणस्तुतिदर्शने ।

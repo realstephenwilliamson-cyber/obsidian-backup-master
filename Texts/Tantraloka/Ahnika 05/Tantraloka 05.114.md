@@ -37,6 +37,11 @@ dehagādhvasamunmeṣe samāveśastu yaḥ sphuṭaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 153–156)
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.113–114]]
+>
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.114–116]]
+
 *Lead-in:* नन्विह त्रिविधं लिङ्गमुक्तं व्यक्तं व्यक्ताव्यक्तमव्यक्तं च -- इति, तत्राव्यक्तं परैव संवित् -- इत्युक्तम् । अन्यद् द्वयं पुनः किं तस्या एव स्फारो न वा ? इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 5.113: see [[Tantraloka 05.113#Viveka|5.113]].

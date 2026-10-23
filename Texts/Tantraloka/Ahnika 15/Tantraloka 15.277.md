@@ -31,6 +31,9 @@ pṛthaṅmantrairvistareṇa saṃkṣepānmūlamantrataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 165)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.276–278]]
+
 > एवं विश्वशरीरः सन्विश्वात्मत्वं गतः स्फुटम् ॥
 > न्यासमात्रात् तथाभूतं देहं पुष्पादिनार्चयेत् ।
 > पृथङ्मन्त्रैर्विस्तरेण संक्षेपान्मूलमन्त्रतः ॥

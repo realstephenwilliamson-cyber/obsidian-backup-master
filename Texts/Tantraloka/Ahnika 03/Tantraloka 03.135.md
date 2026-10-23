@@ -37,6 +37,11 @@ ikāra eva rephāṃśacchāyayānyo yathā svaraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 240–242)
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.134–135]]
+>
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.135–136]]
+
 *Lead-in:* ननु इष्यमाणरूपाभ्यां रेफलकाराभ्यामिच्छाशक्तेरारूषितत्वम् इति तत्र तच्छायामात्रधारित्वात् युक्तं परामर्शान्तरत्वं मकारहकाराभ्यां पुनरारूषणैव कस्याधीयते यस्यापि परामर्शान्तरत्वं स्यात् ? -- इत्याशङ्क्याह --
 
 > इकार एव रेफांशच्छाययान्यो यथा स्वरः ॥

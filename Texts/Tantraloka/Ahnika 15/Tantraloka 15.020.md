@@ -31,6 +31,9 @@ parīkṣya pṛṣṭvā vā śiṣyaṃ dīkṣākarma samācaret || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 16–17)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.20]]
+
 *Lead-in:* स एव च परं दीक्षाकर्मण्यधिकृतः--इत्याह--
 
 > स च प्रागुक्तशक्त्यन्यतमपातपवित्रितम् ।

@@ -31,6 +31,9 @@ yasminsarvāvacchedadiśo'pi syuḥ samākṣiptāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 215–216)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.349]]
+
 *Lead-in:* ननु एतदपि आसनवदिच्छाद्यात्मकमेवेति कथं नाम पूज्यं स्यात्?-- इत्याशङ्क्य आह--
 
 > एषणविदिक्रियात्मकमेतत्पूज्यं यतोऽनवच्छिन्नम् ।

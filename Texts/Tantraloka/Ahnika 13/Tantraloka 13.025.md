@@ -31,6 +31,9 @@ tadaiva mithyājñānena satā hetutvamāpyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 138)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.25–26]]
+
 *Lead-in:* ननु यदि नाम कर्मणां स्वकर्तव्यतायां मिथ्याज्ञानं सहकारिकारणं तत्किमेषां फलोत्पत्तिकाल एव सहकारितया"कस्मिकमापतेदुत स्वोत्पत्तिकालात्प्रभृति फलावध्यनुवर्तते इति वाच्यम् -- इत्याह --
 
 Jayaratha comments on this verse together with 13.26: see [[Tantraloka 13.026#Viveka|13.26]].

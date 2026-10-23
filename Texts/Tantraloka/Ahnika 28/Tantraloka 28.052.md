@@ -33,6 +33,11 @@ bhagrahayogābhāve tithistu pūjyā pradhānarūpatvāt |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 30–31)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.52]]
+>
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.52 (2)]]
+
 *Lead-in:* अतश्च तिथेरेव मुख्यतया पूज्यत्वम्--इत्याह--
 
 > भग्रहयोगाभावे तिथिस्तु पूज्या प्रधानरूपत्वात् ।

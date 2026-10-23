@@ -33,6 +33,11 @@ carveva vā gururdadyādvāmāmṛtapariplutam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 358–360)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.198]]
+>
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.198–200]]
+
 *Lead-in:* न च एतदिह अपूर्वतया उक्तम्--इत्याह--
 
 > समयी तु करस्तोभादिति श्रीभोगहस्तके ।

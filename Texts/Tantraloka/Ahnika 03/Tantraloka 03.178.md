@@ -35,6 +35,9 @@ jñeyārūṣaṇayā yuktaṃ samudāyātmakaṃ viduḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 300)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.178]]
+
 *Lead-in:* नन्वेवमपि षण्ठानां सर्वसर्विकया न बीजत्वमपास्तं भवेत् ? इत्याशङ्क्याह --
 
 > ज्ञेयारूषणया युक्तं समुदायात्मकं विदुः ।

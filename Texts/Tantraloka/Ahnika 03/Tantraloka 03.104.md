@@ -36,6 +36,11 @@ asmiṃścaturdaśe dhāmni sphuṭībhūtatriśaktike || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 208–210)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.103–104]]
+>
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.104–105]]
+
 *Lead-in:* शक्तित्रयसङ्घट्टात्मकत्वादेव चास्य भगवतः त्रिशूलत्वमुक्तम् -- इत्याह --
 
 > अस्मिंश्चतुर्दशे धाम्नि स्फुटीभूतत्रिशक्तिके ॥

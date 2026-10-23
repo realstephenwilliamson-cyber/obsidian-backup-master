@@ -31,6 +31,9 @@ vikalpaviśrāntibalāttāṃ sattāṃ nābhimanvate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 419–420)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.201–202]]
+
 > यथा हि चिरदुःखार्तः पश्चादात्तसुखस्थितिः ।
 > विस्मरत्येव तद्दुःखं सुखविश्रान्तिवर्त्मना ॥
 > तथा गतविकल्पेऽपि रूढाः संवेदने जनाः ।

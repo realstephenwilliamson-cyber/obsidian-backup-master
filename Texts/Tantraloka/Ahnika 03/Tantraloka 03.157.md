@@ -35,6 +35,9 @@ vāyurityucyate vahnirbhāsanātsthairyato dharā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 274–275)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.157]]
+
 > इच्छैवानुत्तरानन्दयाता शीघ्रत्वयोगतः ।
 > वायुरित्युच्यते वह्निर्भासनात्स्थैर्यतो धरा ॥
 

@@ -32,6 +32,9 @@ tata eśyāṃ diśi sthāpyaḥ sa kuṃbho vikiropari || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 234–239)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.378–385]]
+
 > पुष्पाञ्जलिं क्षिपेन्मध्ये धूपगन्धासवादि च ।
 > तथैव दद्याद्यागौकोमध्ये तेनाशु विग्रहम् ॥
 > समस्तं देवताचक्रमधिष्ठातृ प्रकल्प्यते ।

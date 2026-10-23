@@ -90,12 +90,12 @@ This *kavanah* is genuinely and truly sincere in every Jewish soul at every seas
 [^12]: [[Torah 18 - Mishpatim#^23-25|Exodus 23:25]].
 [^13]: [[Torah 47 - Re'eh#^13-5|Deuteronomy 13:5]].
 [^14]: *Zohar* [[Zohar 8.05 - Parashat Be-Har#^z3-108a|III:108a]], with slight changes.
-[^15]: *Berachot* 28b.
+[^15]: [[Berakhot 28#28b|*Berachot* 28b]].
 [^16]: *Avot* 3:9.
 [^17]: See above, ch. 3.
 [^18]: *Tikkunei Zohar*, Introduction 5b.
 [^19]: Chs. 23, 35, 37. See also ch. 14.
-[^20]: *Berachot* 49b; here in a figurative sense.
+[^20]: [[Berakhot 49#49b|*Berachot* 49b]]; here in a figurative sense.
 [^21]: See above, ch. 37.
 [^22]: Ch. 46.
 [^23]: Text of this declaration, introducing the Morning Prayer, is to be found in the *Siddurim* following the Lurianic custom.

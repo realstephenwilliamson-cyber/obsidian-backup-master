@@ -34,6 +34,9 @@ guruśāstragate sattve'sattve cātra vibhedakam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 47)
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.37]]
+
 *Lead-in:* ननु अयं लोकश्चेत् सद्रूपमसद्रूपं वा गुरुं शास्त्रं च शक्तिपातवशादाश्रयेत् तदस्तु, को नाम दोषः, तयोरेव पुनरसत्त्वे सत्त्वे वा किं निमित्तम् ? -- इत्याशङ्क्याह --
 
 > गुरुशास्त्रगते सत्त्वेऽसत्त्वे चात्र विभेदकम् ।

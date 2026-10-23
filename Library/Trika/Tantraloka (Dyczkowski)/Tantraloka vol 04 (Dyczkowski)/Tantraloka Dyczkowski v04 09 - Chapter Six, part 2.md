@@ -14,7 +14,11 @@ converted: 2026-10-07
 
 *[p. 251]* ^pg266
 
+### Dyczkowski's verse 31cd-33
+
 included in it. It is for this reason (namely, that there is a reason for the form of a name,) that we have explained the etymology of the word ‘Path’. If (one were to ask why) the etymology (of a word) is not taught in some cases (kvēpi), (we reply that) that can also be inferred by applying one’s own intelligence. How much can be written in a book? (31cd-33) 
+
+#### Viveka on Dyczkowski's verse 31cd-33
 
 (Some terms are) ‘well known’, because although (their form may be) motivated (by some purpose) in some cases, (their meaning may be) fixed (and established by convention) (rāūḍha). As is said there (in the Niśisahcāra): 
 
@@ -22,9 +26,15 @@ included in it. It is for this reason (namely, that there is a reason for the fo
 
 namely) technical (pāribhāṣikī)ů, occasioned (by some purpose) (naimittikī)\\ą, and (already) known (siddhā). A term occasioned (by some purpose) is arrived at (samāgatā) here (and used) due to some occasional cause (for its formation). 
 
+### TĀ 6.31–33
+
 It is said here that one must be able in this way to state the motivation behind (the form of) all the terms here, and so he says that ‘it is for this reason’ (that we have explained the etymology of the word \[illegible\] Well then, if that is so, why has that not been stated everywhere (in the case of every word)? With this question in mind, he says: ‘we don’t explain’ etc. and ‘how much can be written in a book?’, and so (he has) not undertaken an analysis of the derivation of (every) word. This is the point. 
 
+#### Viveka on 6.31–33
+
 Surely, it has been said that the Path of supreme consciousness manifestation as form and action. Now, which Path is that of the manife: of action and which Path that of the manifestation of form? With this question in mind, he says: 
+
+### TĀ 6.34–35
 
 तत्र क्रियाभासनं यत्सोऽध्वा कालाह उच्यते ।
 वर्णमन्रपदाभिख्यमत्रास्तेऽध्वत्रयं स्फुटम् ॥ ३४ ॥
@@ -33,7 +43,7 @@ Surely, it has been said that the Path of supreme consciousness manifestation as
 
 tatra kriyābhāsanari yat so ‘dhvā kālādhva ucyate |
 varṇamantrapadābhikhyam atrāste ‘dhvatrayari sphuṭam || 34 ॥
-yas tu mūrtyavabhāsāṁiśah sa deśādhvā nigadyate |
+yas tu mūrtyavabhāsāṁiśaḥ sa deśādhvā nigadyate |
 kalātattvapurābhikhyam antarbhūtam iha trayam | 35 || 
 
 There, (of these two aspects,) the manifestation of action is said to be the Path of Time. Herein appear in a clearly evident manner the three Paths, called those of the phonemes (varna), parts of Mantra (pada), and Mantras. Again, the aspect in which form is manifest is called the Path of 
@@ -42,7 +52,11 @@ There, (of these two aspects,) the manifestation of action is said to be the Pat
 
 Space, and includes the triad called that of the cosmic forces (kalā), metaphysical principles (fattva), and world-orders (bhuvana).[^81] (34-35) 
 
+#### Viveka on 6.34–35
+
 Well then, agreed that the Path is said to be of two kinds, in accord with the distinction between space and time, due to the varied manifestations of form and action (respectively). But what is the reason that there also, each one is of three kinds? With this question in mind, he says: 
+
+### TĀ 6.36
 
 त्रकद्रयेऽत्र प्रत्येक स्थूलं सृक्षमं परं वपुः ।
 यतोऽस्ति तेन सर्वोऽयमध्वा षड्विध उच्यते ॥ ३६ ॥
@@ -51,10 +65,12 @@ Well then, agreed that the Path is said to be of two kinds, in accord with the d
 
 *[p. 253]* ^pg268
 
-trikadvaye ‘tra pratyeka sthūlai sūkṣmaṁi parami vapuh |
+trikadvaye ‘tra pratyeka sthūlai sūkṣmaṁi parami vapuḥ |
 yato ‘sti tena sarvo ‘yam adhvā ṣadvidha ucyate || 36 ॥ 
 
 Each of (these) two triads (frika) here has a gross, subtle and supreme form. It is for this reason that all this cosmic Path is said to be sixfold. (36) 
+
+#### Viveka on 6.36
 
 Each one is of three kinds ‘for this reason’, because it is gross, subtle and supreme, as Mantras, syllables and letters, as well as the world-orders, metaphysical principles and cosmic forces (respectively). This is the meaning. As is said: 
 
@@ -64,39 +80,49 @@ Again:
 
 ‘the pervasive state of the world-orders extends within the (pure) principles from (those governed by) Ananta up to Śiva.[^82] Again: 
 
-‘The Forces (kalā) are those beginning with Cessation (Nivrtti) included in (the five) Forces.[^83] 
+‘The Forces (kalā) are those beginning with Cessation (Nivṛtti) included in (the five) Forces.[^83] 
 
 Now he introduces (his exposition of) the Path of Time which is the subject being discussed: 
+
+### TĀ 6.37
 
 Time and the Path of Time 
 
 षडिवधादध्वनः प्राच्यं यदेतत् त्रितयं पुनः ।
 एष एव स कालाध्वा प्राणे स्पष्टं प्रतिष्ठितः ॥ ३७ ॥
 
-ṣadvidhād adhvanah prācyaṁ yad etat \[illegible\] punah |
-eṣa eva sa kālādhvā prāṇe \[illegible\] pratiṣthitah ॥ 37 ॥ 
+ṣadvidhād adhvanaḥ prācyaṁ yad etat \[illegible\] punaḥ |
+eṣa eva sa kālādhvā prāṇe \[illegible\] pratiṣthitaḥ ॥ 37 ॥ 
 
 [^82]: \[illegible\] SvT 4/95cd. A form of Siva called Ananta creates etc. the lower impure principles from Māyā onwards, which he governs. The pure principles are created by Śiva directly and He governs them. In other words, according to the dualists’ account of creation, Śiva is not in contact with the impure part of the universe. Ananta, a partially liberated soul is entrusted with the office (adhikāra) of creating the lower universe and other minions, administers it. The Jocus classicus for this view is Kiraṇatantra 3/226-27. See below 8/305-306 and 8/330cd-332ab and commentaries. For a discussion see Sanderson 1992: 282-287.
-[^83]: SvT 4/97ab. The five Cosmic Forces (kalā) are binding energies that operate within consciousness to hold the outer manifest form together into one coherent whole. They are visualized as five concentric circles containing the various categories of existence, as follows: 1) The Force of Cessation (Nivrttikalā) — only the Earth Principle belongs to the sphere of this energy. 2) The Force of the Foundation (Pratiṣthākalā) includes the categories from Water to Nature (prakrti). 3) The Force of Knowledge (Vidyākalā) operates through the five obscuring coverings (kañcuka) and Māyā. 4) The Force of Tranquillity (Śāntakalā) includes the categories from Pure Knowledge (Sśuddhavidyā) to Sadāśiva. 5) The Force Beyond Tranquillity (Śāntātītakalā) is the sphere of Siva and Śakti. See below, 11/7-10ab and the rest of that chapter for a detailed exposition.
+[^83]: SvT 4/97ab. The five Cosmic Forces (kalā) are binding energies that operate within consciousness to hold the outer manifest form together into one coherent whole. They are visualized as five concentric circles containing the various categories of existence, as follows: 1) The Force of Cessation (Nivṛttikalā) — only the Earth Principle belongs to the sphere of this energy. 2) The Force of the Foundation (Pratiṣthākalā) includes the categories from Water to Nature (prakṛti). 3) The Force of Knowledge (Vidyākalā) operates through the five obscuring coverings (kañcuka) and Māyā. 4) The Force of Tranquillity (Śāntakalā) includes the categories from Pure Knowledge (Sśuddhavidyā) to Sadāśiva. 5) The Force Beyond Tranquillity (Śāntātītakalā) is the sphere of Siva and Śakti. See below, 11/7-10ab and the rest of that chapter for a detailed exposition.
 
 *[p. 254]* ^pg269
 
 The first triad of this sixfold Path is the Path of Time, which is clearly established in the vital breath. (37) 
 
+#### Viveka on 6.37
+
 ‘The first’ (triad) is the first one mentioned, called (the Path of) Mantras, parts of Mantra and phonemes. (The term) ‘vital breath’ (prāna) characterizes a category (i.e. the breath or vital force in general), and so in this way (it does not refer to just the exhaled breath \[illegible\] but) also to the inhaled one and the other (forms of the vital breath). 
 
 Surely, it was said that time is both successive and non-successive, is that (time the one) which is reckoned amongst the metaphysical principles, or not? With this question in mind, he says: 
+
+### TĀ 6.38–39
 
 ततत्वमध्यस्थितात्कालादन्योऽयं काठ उच्यते ।
 एष कालो हि देवस्य विश्वाभासनकारिणी ॥ ३८ ॥
 क्रियाशक्तिः समस्तानां तत्त्वानां च परं वपुः ।
 tattvamadhyasthitāt kālād anyo ‘yari kāla ucyate |
 eṣa kālo hi devasya viśvābhāsanakārinī ॥ 38 ॥
-kriyāśaktih samastānāṁ tattvānāṁ ca parar vapuh | 
+kriyāśaktiḥ samastānāṁ tattvānāṁ ca parar vapuḥ | 
 
 This time is said to differ from the time that is amongst the metaphysical principles (tattva). This is God’s time. It is the energy of action, that makes manifest the universe and is the supreme body of all the principles. (38-39ab) 
 
+#### Viveka on 6.38–39
+
 (This time) ‘differs’ (from the one reckoned amongst the metaphysical principles) because its characteristics differ.” He says that (in the following two sentences). (Time in this sense is) ‘the supreme body’ (of all the principles,) as it the place from which they arise (utpattisthāna), and so he says that it is (God’s power of action,) ‘that makes manifest the universe’. 
+
+### TĀ 6.39–40
 
 Surely, the act of supreme consciousness that makes the universe manifest is said to be (its) external expansion (bahirunmeṣa). (As such,) it is said to be its nature as the Lord (Īśvara) (of the universe). Thus, he says: एतदीश्वरतत्त्व तच्छिवस्य वपुरुच्यते ॥ ३९ ॥
 उद्विक्ताभोगकायीत्मविश्चैकात्म्यमिदं यतः ।
@@ -107,9 +133,11 @@ etad īśvaratattvari tac chivasya vapur ucyate ॥ 39 Il
 
 *[p. 255]* ^pg270
 
-udriktābhogakāryātmaviśvaikātmyam idarn yatah | 
+udriktābhogakāryātmaviśvaikātmyam idarn yataḥ | 
 
 This is the Īśvara principle. That is said to be Śiva’s body, because (Īśvara, the Lord of the Universe,) is one with the universe of phenomena (kārya) in a state of abounding plenitude (which he experiences as ‘all this am I’). (39cd-40ab) 
+
+#### Viveka on 6.39–40
 
 \[illegible\] is said to be ‘this Iśvara principle’, because He manifests the universe, which is the external expansion (of His consciousness). The power of action is time, and its extroverted (bahirmukha) form generates (kalana) the universe. This is the meaning.” Surely (one may ask,) one would expect Māyā and (its associated principles within the phenomenal, temporal domain) to have a form like this, so how is it that he has said that with regard to just this (principle)? With this question in mind, he says that that is ‘Śiva’s body’. Although outwardly directed, \[illegible\] rests within His own nature, and so, because He is established on the foundation of the extroverted state (of supreme consciousness), this (universe that manifests within Him is) ‘abounding plenitude’ (udriktābhoga). Thus (Īśvara’s) perception of this phenomenal (kārya) universe" is ‘this am I’, and so He is one with it. The meaning is that He makes (all things) one with Himself. Thus, all (unanimously) proclaim that this is the plane of unity-in-diversity (bhedābhedadaśā).\* 
 
@@ -126,6 +154,8 @@ Surely (someone may point out that) it is unjustified to reckon time to be a sep
 
 *[p. 256]* ^pg271
 
+### TĀ 6.40–41
+
 एतदीश्वररूपत्वं परमात्मनि यत्किल ॥ ४० ॥
 तत्प्रमातरि मायीये काठलतत््वं निगद्यते ।
 etad TŚvararūpatvaṁn paramātmani yat kila | 40 ||
@@ -133,21 +163,27 @@ tat pramātari māyīye kālatattvaṁ nigadyate |
 
 This same principle which in the supreme subject is Īśvara, is in the Māyic subject (the obscuring covering) called the principle of time (kālatattva). (40cd-41ab) 
 
+#### Viveka on 6.40–41
+
 Well then, (one could ask whether) only the principle of Time is present in this way in the Māyā perceiver,” or are there other principles also? With this question in mind, he says: 
+
+### TĀ 6.41–42
 
 शिवादिशुद्धविद्यान्तं यच्छिवस्य स्वक वपुः ॥ ४१ ॥
 तदेव पुंसो मायादिरागान्ं कञ्चुकीभवेत् ॥
-sivādiśuddhavidyāntaṁ yac chivasya \[illegible\] vapuh | 41 I| 
+sivādiśuddhavidyāntaṁ yac chivasya \[illegible\] vapuḥ | 41 I| 
 
 The (five pure) principles beginning with Śiva and ending with Pure Knowledge (Śuddha Vidyā), that are Śiva’s own body, are (at the lower, impure level, the) obscuring coverings (kañcuka) ranging from Māyā to Attachment \[illegible\] of the individual soul. (41cd-42ab) 
 
-The word Śiva in the phrase ‘beginning with iva . . .' refers to Unmanifest (anāśrita) (transcendental) iva.” It is His ‘own body’ (not that of any other deity or living being), because it consists of the powers beginning with bliss and the \[illegible\] “The individual soul’ is Śiva Himself, Who has 
+#### Viveka on 6.41–42
+
+The word Śiva in the phrase ‘beginning with Śiva . . .' refers to Unmanifest (anāśrita) (transcendental) Śiva.” It is His ‘own body’ (not that of any other deity or living being), because it consists of the powers beginning with bliss and the \[illegible\] “The individual soul’ is Śiva Himself, Who has 
 
 89\. The Māyā perceiver is the perceiving subject in the domain of Māyā who, identified with the psychophysical organism, views the sphere of objectivity as a multiplicity of entities separate from himself. Time operates in this domain as one of the obscuring coverings (kañcuka) of the perceiver, and the principle which orders the succession of manifestation in time in relation to the perceiver.
 
-90\. Śiva in this case is transcendental Śiva, who has never emerged out (anāśrita) of His pure transcendental nature. He is accordingly called Anāśritaśiva — ‘iva Who has not emerged’, i.e. unmanifest iva. He is the transcendental aspect of Śiva that is never involved in creation, abiding as the ground of the other, immanent aspect that manifests as all things.
+90\. Śiva in this case is transcendental Śiva, who has never emerged out (anāśrita) of His pure transcendental nature. He is accordingly called Anāśritaśiva — ‘Śiva Who has not emerged’, i.e. unmanifest Śiva. He is the transcendental aspect of Śiva that is never involved in creation, abiding as the ground of the other, immanent aspect that manifests as all things.
 
-91\. Śiva’s energy, the power of freedom, has five principal aspects, namely, the powers of consciousness, bliss, will, knowledge and action. These constitute the plenitude of Śiva’s body (bharitatanu) (cf. above 1/1 and commentary). Jayaratha refers to the power of bliss first, perhaps because he does not consider the power of consciousness to be part of Śiva’s ‘body’, preferring instead to think of it as the one intrinsic power of iva, Who is pure, transcendental consciousness.
+91\. Śiva’s energy, the power of freedom, has five principal aspects, namely, the powers of consciousness, bliss, will, knowledge and action. These constitute the plenitude of Śiva’s body (bharitatanu) (cf. above 1/1 and commentary). Jayaratha refers to the power of bliss first, perhaps because he does not consider the power of consciousness to be part of Śiva’s ‘body’, preferring instead to think of it as the one intrinsic power of Śiva, Who is pure, transcendental consciousness.
 
 
 *[p. 257]* ^pg272
@@ -156,13 +192,17 @@ assumed the state of the fettered soul, by virtue of His freedom (to do so). Thi
 
 He now distinguishes (them one at a time): 
 
+### TĀ 6.42–43
+
 अनाश्रितं यतो माया कलाविद्ये सदाशिवः ॥ ४२ ॥
 ईश्वरः काटनियती सद्विद्या राग उच्यते ।
 
-anāśritah yato māyā kalāvidye sadāśivah ॥ 42 ॥
-Tśvarah kālaniyatī sadvidyā rāga ucyate | 
+anāśritaḥ yato māyā kalāvidye sadāśivaḥ ॥ 42 ॥
+Tśvaraḥ kālaniyatī sadvidyā rāga ucyate | 
 
-Transcendental iva (Anāśritaśiva) is Māyā (the covering of duality), Sadāśiva is Kalā (the covering of limited agency) and Vidyā (the covering of limited cognitive subjectivity), Īśvara is Time and Constraint (niyati) (of the natural and karmic law of cause and effect), and Śuddha Vidyā is Rāga (the covering of attachment).” (42cd-43ab) 
+Transcendental Śiva (Anāśritaśiva) is Māyā (the covering of duality), Sadāśiva is Kalā (the covering of limited agency) and Vidyā (the covering of limited cognitive subjectivity), Īśvara is Time and Constraint (niyati) (of the natural and karmic law of cause and effect), and Śuddha Vidyā is Rāga (the covering of attachment).” (42cd-43ab) 
+
+#### Viveka on 6.42–43
 
 As is said: 
 
@@ -170,13 +210,15 @@ As is said:
 
 Their nature is not only such, they also (correspond to various forms of) subjectivity. Thus, he says: 
 
+### TĀ 6.43–44
+
 अनाश्रितः शून्यमाता बुद्धिमाता सदाशिवः ॥ ४३ ॥
 ईश्वरः प्राणमाता च विद्या देहप्रमातृता ।
 
-anāśritah śūnyamātā buddhimātā sadāśivah ॥ 43 ॥
-Tśvarah prāṇamātā ca vidyā dehapramātrtā | 
+anāśritaḥ śūnyamātā buddhimātā sadāśivaḥ ॥ 43 ॥
+Tśvaraḥ prāṇamātā ca vidyā dehapramātṛtā | 
 
-92\. Jayaratha has in mind PS 5d, which he quotes above in TĀv ad 1/222-223, 1/331 (330) and below ad 9/144cd-145ab. ‘iva Himself has assumed the state of the fettered soul’ siva eva gṁītapaśubhāvah.
+92\. Jayaratha has in mind PS 5d, which he quotes above in TĀv ad 1/222-223, 1/331 (330) and below ad 9/144cd-145ab. ‘Śiva Himself has assumed the state of the fettered soul’ siva eva gṁītapaśubhāvaḥ.
 
 93\. These are the ‘obscuring coverings’ (kañcuka) that envelop the individual soul, concerning which see below, 9/49cd ff. As we shall see below their sequential order varies in the texts. The most common one, which is accepted by Abhinava, is found in the MV. It is Māyā (which is the source of the other five) > Kalā > Vidyā > Rāga > Kāla > Niyati.
 
@@ -189,7 +231,11 @@ Transcendental Śiva (Anāśrita) is the void perceiver,” Sadāśiva is the su
 
 (Śuddha) Vidyā is the subjectivity of the body. (43cd-44ab) 
 
+#### Viveka on 6.43–44
+
 Well then, (one may ask,) what is the reason (nimitta) why they are (also) the void perceiver and the rest? With this question in mind, he says: 
+
+### TĀ 6.44–45
 
 अनाश्रयो हि शुन्यत्वं ज्ञानमेव हि बुद्धिता ॥ ४४ ॥
 विश्वात्मता च प्राणत्वं देहे वेदयैकतानता ।
@@ -198,16 +244,22 @@ anāśrayo hi śūnyatvari jñānam eva hi buddhitā ॥ 44 II viśvātmatā ca 
 
 The absence of (objective) support is indeed voidness. Knowledge is the intellect. The possession of a universal nature (viśvātmatā) is the vital breath, (whereas) the state of union with objectivity (vedyaikatānatā) takes place within the body. (44cd-45ab) 
 
+#### Viveka on 6.44–45
+
 (Transcendental Śiva) is ‘void’ because everything (viśva) is cut off from it. (The intellect is) ‘knowledge’ because it is predominantly Sadāśiva’s power of knowledge. (The vital breath) possesses a ‘universal nature’ because it is the outer expansion (of consciousness, which is Īśvara). “The state of union with objectivity’ (takes place within the body,) because it is there that that (consciousness) is intensely attached (to objectivity as its own body). 
 
 In this way, the universal nature is present in the vital breath, and so now he explains that here. Thus, he says: 
 
+### TĀ 6.45–46
+
 तेन प्राणपथे विश्चकलनेयं विराजते ॥ ४५ ॥
 येन रूपेण तद्रच्मः सद्धिस्तदवधीयताम् ।
 
-tena prānṇapathe viśvakalaneyar virājate ॥ 45 |l yena rūpenṇa tad vacmah sadbhis tad avadhīyatām | 
+tena prānṇapathe viśvakalaneyar virājate ॥ 45 |l yena rūpenṇa tad vacmaḥ sadbhis tad avadhīyatām | 
 
 That form (of consciousness called Time) is that by virtue of which this (progressive) differentiation” of all things manifests on the path of the vital breath. We will explain that. May the wise pay close attention! (45cd- 46ab) 
+
+#### Viveka on 6.45–46
 
 95\. The void perceiver is in deep sleep, in which nothing is perceived and hence is called ‘void’. This state is commonly experienced by everybody. The same state also arises in the case of the two types of deconditioned perceivers (akalapramātr) who are in deep Deconditioned by Consciousness. Concerning them, see above, 1/77-80 (78-81) and below 10/3 ff.
 
@@ -220,17 +272,21 @@ That form (of consciousness called Time) is that by virtue of which this (progre
 
 Surely (one may ask,) the vital breath must pervade the entire body, otherwise some parts of it would be paralysed (and immobile) like pillars. So how is it that in the Svacchandatantra and other (scriptures,) the movement (of the vital breath) is said to begin from the Heart? With this question in mind, he says: 
 
-The Measure of the Movement of the Vital Breath (cãramāna)” 
+The Measure of the Movement of the Vital Breath (cāramāna)” 
+
+### TĀ 6.46–47
 
 The Eight Kinds of Movement of the Breath 
 
 द्रादशान्तावधावस्मिन्देह यद्यपि सर्वतः ॥ ४६ ॥
 ओतप्रोतात्मकः प्राणस्तथापीत्थं न सुस्फ़टः ।
 
-dvādaśāntāvadhāv asmin dehe yady api sarvatah ॥ 46 ॥
-otaprotātmakah prāṇas tathāpītthaṁ na susphuṭah | 
+dvādaśāntāvadhāv asmin dehe yady api sarvataḥ ॥ 46 ॥
+otaprotātmakaḥ prāṇas tathāpītthaṁ na susphuṭaḥ | 
 
 Even though the vital breath is present in every way, woven warp and woof within this body up to the End of the Twelve, it is not very clearly evident that (it is such) in this way.” (46cd-47ab) 
+
+#### Viveka on 6.46–47
 
 97\. Chapter seven of the Svacchandatantra is the main source of the following presentation. Lines 46cd to 51 are drawn from there. The passage that follows is probably from the Yogasaṁcāra.
 
@@ -243,12 +299,14 @@ Even though the vital breath is present in every way, woven warp and woof within
 
 Thus, he says: 
 
+### TĀ 6.47–48
+
 यत्नो जीवनमात्रात्मा तत्परशच द्विधा मतः ॥ ४७ ॥
 संवेद्यश्ाप्यसंवेद्यो दविधेत्थं भिद्यते पुनः ।
 स्फएरास्फुटत्वाद् द्वैविध्य प्रत्येकं परिभावयेत् ॥ ४८ ॥
-yatno jīvanamātrātmā tatparaś ca dvidhā matah || 47 ॥
-saṁvedyaś \[illegible\] asaṁṁvedyo dvidhetthahi bhidyate punah |
-sphuṭāsphuṭatvād dvaividhyarh pratyekarn paribhāvayet ॥ 48 ॥ 
+yatno jīvanamātrātmā tatparaś ca dvidhā mataḥ || 47 ॥
+saṁvedyaś \[illegible\] asaṁṁvedyo dvidhetthahi bhidyate punaḥ |
+sphuṭāsphuṭatvād dvaividhyaṁ pratyekarn paribhāvayet ॥ 48 ॥ 
 
 Exertion (yatna) (that is, the movement of the vital breath) is considered to be of two kinds. A1) (The first is) just vitality itself (jīvanamātra). A2) (The second kind) is intent on (impelling) that (fatpara). Again, it is divided into two (other) kinds, according to B1) whether (the vital 
 
@@ -256,11 +314,13 @@ breath
 
 and its movement) 
 
-is perceptible (sarivedya) or B2) imperceptible (asarivedya). (Moreover,) each one (of these four) is discerned to be of two kinds, according to whether it is clearly evident 
+is perceptible (saṁvedya) or B2) imperceptible (asaṁvedya). (Moreover,) each one (of these four) is discerned to be of two kinds, according to whether it is clearly evident 
 
 (sphuṭa) or not (sphuta).” (47cd-48) 
 
-99\. The exertion (yatna) of the pulse of the vital breath is of eight kinds: Al and A2) the pure vitality or life of the body (jīvanamātra), that is perceptible (sarhvedya) or not (asarhvedya). It arises spontaneously from the Root centre in the genital region and flows upwards through the body. It is not evident at its point of emergence in the Root, but becomes so as it unfolds throughout the body. These are described in verses 50-51ab. B1 and B2) the flow of the breath impelled by the will, that is perceptible (sarhvedya) or not (asarhvedya). The flow of the breath that is consciously impelled is the normal rhythm of the breath. This is clearly evident from the heart upwards. Below the heart down to the Root it is not. These are described in 51cd ff. These four kinds can again be distinguished into two types, according to their degree of clarity as more (sphuṭa) or less (asphuta), thus making eight. The practices taught in this chapter do not involve breath control. In the following chapter, Abhinava teaches how Mantras are recited in consonance with the movement of the breath, which is progressively lengthened according to the length of the Mantra and so does involve breath control and hence conscious exertion. Thus, Abhinava begins the next chapter saying: ‘the (spontaneous) effortless (ayatnaja) (emergence of time within the flow of the breath) has been discussed, we will now talk about the (voluntary) one that is the result of effort. (7/2ab)
+#### Viveka on 6.47–48
+
+99\. The exertion (yatna) of the pulse of the vital breath is of eight kinds: Al and A2) the pure vitality or life of the body (jīvanamātra), that is perceptible (saṁvedya) or not (asaṁvedya). It arises spontaneously from the Root centre in the genital region and flows upwards through the body. It is not evident at its point of emergence in the Root, but becomes so as it unfolds throughout the body. These are described in verses 50-51ab. B1 and B2) the flow of the breath impelled by the will, that is perceptible (saṁvedya) or not (asaṁvedya). The flow of the breath that is consciously impelled is the normal rhythm of the breath. This is clearly evident from the heart upwards. Below the heart down to the Root it is not. These are described in 51cd ff. These four kinds can again be distinguished into two types, according to their degree of clarity as more (sphuṭa) or less (asphuta), thus making eight. The practices taught in this chapter do not involve breath control. In the following chapter, Abhinava teaches how Mantras are recited in consonance with the movement of the breath, which is progressively lengthened according to the length of the Mantra and so does involve breath control and hence conscious exertion. Thus, Abhinava begins the next chapter saying: ‘the (spontaneous) effortless (ayatnaja) (emergence of time within the flow of the breath) has been discussed, we will now talk about the (voluntary) one that is the result of effort. (7/2ab)
 
 
 *[p. 261]* ^pg276
@@ -271,23 +331,31 @@ A2) (The other kind of movement of the vital breath is) ‘intent on (impelling)
 
 There (with respect to our object of enquiry), the spontaneous exertion of the vital breath is perceived from the Root (genital centre) onwards (upwards), but not clearly (asphuṭatvena). Thus, he says: 
 
+### TĀ 6.49
+
 संवद्यजीवनाभिख्यप्रयत्नस्पन्दसुन्दर : ।
 प्राणः कन्दात््मभृत्येव तथाप्यत्र न सुस्फुटः ॥ ४९ ॥
 
-sarvedyajīvanābhikhyaprayatnaspandasundarah |
-prāṇah kandāt prabhrty eva tathāpy atra na susphuṭah ॥ 49 Il 
+sarvedyajīvanābhikhyaprayatnaspandasundaraḥ |
+prāṇaḥ kandāt prabhṛty eva tathāpy atra na susphuṭaḥ ॥ 49 Il 
 
-The vital breath, beautiful with the pulse (spanda) of the exertion called perceptible vitality (sarnvedyajīvana), (originates) from the Bulb (in the genitals) (kanda); even so is not clearly evident here. (49) 
+The vital breath, beautiful with the pulse (spanda) of the exertion called perceptible vitality (saṁvedyajīvana), (originates) from the Bulb (in the genitals) (kanda); even so is not clearly evident here. (49) 
+
+#### Viveka on 6.49
 
 With this intention it is said in the venerable Svacchandaśāstra that the deployment of the exhaled etc. breath \[illegible\] starts from there. Thus, he says: 
+
+### TĀ 6.50
 
 कन्दाधारात्प्रभृत्येव व्यवस्था तेन कथ्यते ।
 स्वच्छन्दशास्रे नाडीनां वाय्वाधारतया स्फुटम् ॥ ५० ॥
 
-kandādhārāt prabhrty eva vyavasthā tena kathyate |
+kandādhārāt prabhṛty eva vyavasthā tena kathyate |
 svacchandaśāstre nādīnāṁm vāyvādhāratayā sphutam ॥ 50 I| 
 
-Thus it is said in the Svacchandaśāstra that the distribution (vyavasthāã) of the vital channels (nādī), starting from the foundation of the Bulb, is clearly evident (sphuṭa) as the foundation of the vital breath \[illegible\] (50) 
+Thus it is said in the Svacchandaśāstra that the distribution (vyavasthā) of the vital channels (nādī), starting from the foundation of the Bulb, is clearly evident (sphuṭa) as the foundation of the vital breath \[illegible\] (50) 
+
+#### Viveka on 6.50
 
 ‘Thus’ as the vital breath is perceptible. This is the meaning. As is said there: 
 
@@ -302,12 +370,12 @@ beloved, the channels (of the breath), (whether) slanted, (directed) upward or d
 
 Well, if that is the case, how is it that, on the contrary, it is explained there at length that the movement of the breath begins from the Heart in (the section) beginning with: 
 
-‘(These three channels), that benefit the adepts, are said to be in the Wheel of the Heart. The vital breath moves within them divided into Day and Night. I will analyse them for you clearly (one by one). "° 
+‘(These three channels), that benefit the adepts, are said to be in the Wheel of the Heart. The vital breath moves within them divided into Day and Night. I will analyse them for you clearly (one by one). " 
 
 With this question in mind, he says: 
 
 तत्रापि तु प्रयत्नोऽसौ न संवेद्यतया स्थितः ।
-tatrāpi tu prayatno ‘sau na saṁvedyatayā sthitah | 
+tatrāpi tu prayatno ‘sau na saṁvedyatayā sthitaḥ | 
 
 However, this exertion (of the movement of the vital breath) is not perceptible there also. (Slab) 
 
@@ -322,28 +390,36 @@ We also say the same. Thus, he says:
 
 *[p. 263]* ^pg278
 
+### TĀ 6.51
+
 The Perceptible Flow of the Breath from the Heart to the End of the Twelve 
 
 The Energies of the Lord, the Self and the Vital Breath 
 
 वेद्ययत्नात्त हृदयात्प्राणचारो विभज्यते ॥ ५९१ ॥
-vedyayatnāt tu hrdayāt prāṇacāro vibhajyate ॥ 51 ॥ 
+vedyayatnāt tu hṛdayāt prāṇacāro vibhajyate ॥ 51 ॥ 
 
 The movement of the breath brought about by perceptible exertion starts from the Heart, and is analysed (here in what follows). (51cd) 
+
+#### Viveka on 6.51
 
 (The movement of the breath) ‘brought about by a perceptible effort’, that is to say, that of the one that is heralded by the will, ‘is analysed’ (here) in terms of its divisions into the smallest fractions of time (tuṭi) and the rest. This is the meaning. 
 
 Surely, (one may object that) the vitality (of the vital breath) (prāṇana) pervades (the body) everywhere (in the body equally) without distinction, so why is its exertion perceived clearly (only) in some places and not in others? With this question in mind, he says: 
 
+### TĀ 6.52
+
 प्रभोः शिवस्य या शक्तिवीमा ज्येष्ठा च रौद्रिका ।
 सतदन्यतमावात्मप्राणौ यत्नविधायिनौ ॥ ५२ ॥
 
-prabhoh śivasya yā śaktir vāmā jyeṣthā ca raudrikā |
+prabhoḥ śivasya yā śaktir vāmā jyeṣthā ca raudrikā |
 satad anyatamāv ātmaprāṇau yatnavidhāyinau || 52 || 
 
 The (individual) Self and the vital breath (prāṇa) give rise to (this) exertion \[illegible\] 
 
 the movement of the breath). One or other of them are always associated with a power of the Lord (prabhu) Who is Śiva, (whether it be) Vāmā, Jyeṣthā or Raudrī (according to the circumstances).[^103] (52) 
+
+#### Viveka on 6.52
 
 Here (according to this teaching), one of the powers from amongst these (three), Vāmā and the rest, associated with the Supreme Lord, along with ‘the (individual) Self and the vital breath (prāṇa) that give rise to (this) exertion’, are the three, that is, the Lord’s power (prabhuśakti), the (individual) Self and the vital breath, that together bring about the pulse of the vital breath (prāṇaspanda). This is the meaning. As is said: 
 
@@ -355,27 +431,31 @@ Here (according to this teaching), one of the powers from amongst these (three),
 
 Although these (three factors) are equal in this way, according to the circumstance (in which they operate), one or other is the primary (factor) that brings about the exertion (of the vital breath). Thus, he says: 
 
+### TĀ 6.53–54
+
 प्रभुशक्तिः क्वचिन्मुख्या यथाद्घमरुदीरणे ।
 आत्मशक्तिः क्वचित्कन्दसंकोचस्यन्दे यथा ॥ ५३ ॥
 प्राणशक्तिः क्वचितप्राणचारे हार्दे यथा स्पुटम् ।
 त्रयं द्रयं वा मुख्यं स्याद्योगिनामवधानिनाम् ॥ ५४ ॥
 
-prabhuśaktih kvacin mukhyā yathāṁgamarudīrane |
-ātmaśaktih kvacit kandasarńkocaspandane yathā ॥ 53 ॥ 
+prabhuśaktiḥ kvacin mukhyā yathāṁgamarudīrane |
+ātmaśaktiḥ kvacit kandasarńkocaspandane yathā ॥ 53 ॥ 
 
-104\. SvT 7/7ab. The previous three lines frame the context from which we know that ‘there’ means ‘in the body’. They are as follows: ṣātkośikas tu yo deho bhūtatanmātrasariyutah || sa manobuddhyahaùkārabuddhikarmendriyair guṇaih | sarvatattvais tathā devaih samadhiṣṭhitavigrahah || tatrātmā prabhuśaktiś ca vāyur vai nādibhiś caran | “The form of the body that consists of the six sheaths, conjoined to the (five gross) and subtle elements, is sustained (and governed) by the senses of knowledge and action, mind, intellect and ego, the qualities, all the principles and the deities. The (individual) Self (resides) there, as does the energy of the Lord (prabhuśakti) and the vital breath, that moves by means of the channels (of the breath nādī).’ SvT 7/5cd-7ab ṣatkośāni tvakmāṁsaraktamajjāsthiśukrāṇi | yo dehah, sa kāryakaraṇatrayoviṁśatyā sattvādibhir guṇaih sarvatattvaiś ca taduparisthitair niyatyādibhih śivatattvāntaih, tathā devair brahmādibhih kāraṇaih, samyagvyāpyavyāpakabhāvena, adhiṣthitah krtāvasthitih, vigrahah svarūpaṁ yasya | āmā sarikucitasavidrūpas tattatkarmānuṣthātā tatphalabhoktā ca, prabhoh svacchandabhairavasya, śaktih svātantryātmā manahprasādāvasareṣu bhānfī, vāyuś ca nāsikāpathavāhī prāṇo nādibhir vakṣyamānṇābhiś caran sthitah | Kṣemarāja explains: \*‘the six sheaths’ are the skin, meat, blood, fat, bones, (male and female) semen. The ‘form’ (of the body) is its essential nature. The body ‘is sustained’, that is, its condition is formed by the requisite relationship between the (lower constituents that are) pervaded and (the upper ones) that pervade (them), that is, by the twenty-three (principles from Earth to the inner mental organ), along with the (three) ‘qualities’ of Sattva etc., as well as ‘all the principles’ above them, beginning with Necessity (niyati) and ending with Śiva, as well as ‘the deities’, who are the causal (deities, namely) Brahmā and the rest. ‘The (individual) Self’ is contracted consciousness, that is governed by each of (its own) Karmas and is the one who experiences their consequences. ‘The Lord’ is Svacchandabhairava. His ‘energy’, which is (His) freedom, shines on the occasions when the mind experiences grace (manahprasāda). ‘The vital breath’ flows along the path of the nose, and ‘moves by means of the channels (of the breath \[illegible\] that will be taught later.”
+104\. SvT 7/7ab. The previous three lines frame the context from which we know that ‘there’ means ‘in the body’. They are as follows: ṣātkośikas tu yo deho bhūtatanmātrasariyutaḥ || sa manobuddhyahaṅkārabuddhikarmendriyair guṇaiḥ | sarvatattvais tathā devaiḥ samadhiṣṭhitavigrahaḥ || tatrātmā prabhuśaktiś ca vāyur vai nādibhiś caran | “The form of the body that consists of the six sheaths, conjoined to the (five gross) and subtle elements, is sustained (and governed) by the senses of knowledge and action, mind, intellect and ego, the qualities, all the principles and the deities. The (individual) Self (resides) there, as does the energy of the Lord (prabhuśakti) and the vital breath, that moves by means of the channels (of the breath nādī).’ SvT 7/5cd-7ab ṣatkośāni tvakmāṁsaraktamajjāsthiśukrāṇi | yo dehaḥ, sa kāryakaraṇatrayoviṁśatyā sattvādibhir guṇaiḥ sarvatattvaiś ca taduparisthitair niyatyādibhiḥ śivatattvāntaiḥ, tathā devair brahmādibhiḥ kāraṇaiḥ, samyagvyāpyavyāpakabhāvena, adhiṣthitaḥ kṛtāvasthitiḥ, vigrahaḥ svarūpaṁ yasya | āmā sarikucitasavidrūpas tattatkarmānuṣthātā tatphalabhoktā ca, prabhoḥ svacchandabhairavasya, śaktiḥ svātantryātmā manahprasādāvasareṣu bhānfī, vāyuś ca nāsikāpathavāhī prāṇo nādibhir vakṣyamānṇābhiś caran sthitaḥ | Kṣemarāja explains: \*‘the six sheaths’ are the skin, meat, blood, fat, bones, (male and female) semen. The ‘form’ (of the body) is its essential nature. The body ‘is sustained’, that is, its condition is formed by the requisite relationship between the (lower constituents that are) pervaded and (the upper ones) that pervade (them), that is, by the twenty-three (principles from Earth to the inner mental organ), along with the (three) ‘qualities’ of Sattva etc., as well as ‘all the principles’ above them, beginning with Necessity (niyati) and ending with Śiva, as well as ‘the deities’, who are the causal (deities, namely) Brahmā and the rest. ‘The (individual) Self’ is contracted consciousness, that is governed by each of (its own) Karmas and is the one who experiences their consequences. ‘The Lord’ is Svacchandabhairava. His ‘energy’, which is (His) freedom, shines on the occasions when the mind experiences grace (manahprasāda). ‘The vital breath’ flows along the path of the nose, and ‘moves by means of the channels (of the breath \[illegible\] that will be taught later.”
 
 
 *[p. 265]* ^pg280
 
-prānṇaśaktih kvacit prāṇacāre hārde yathā sphutam |
-trayarh dvayarh vā mukhyarh syād yoginām avadhāninām || 54 |l 
+prānṇaśaktiḥ kvacit prāṇacāre hārde yathā sphutam |
+trayaṁ dvayaṁ vā mukhyaṁ syād yoginām avadhāninām || 54 |l 
 
 1\) In certain circumstances, the Lord’s power (prabhuśakti) is primary, as when the impulse of the vital breath is imparted to the limbs (of the body). 
 
-2\) In some cases, the power of the Self (ãtmaśakti) (is primary), as when the Bulb (of the genital centre) contracts and pulsates. 
+2\) In some cases, the power of the Self (ātmaśakti) (is primary), as when the Bulb (of the genital centre) contracts and pulsates. 
 
 3\) The power of the vital breath (prāṇaśakti) is evident in some places within the movement of the breath, as (for example that which takes place) within that of the Heart. For attentive yogis (all) three, or (at least) two (of them) are primary. (53-54) 
+
+#### Viveka on 6.53–54
 
 1\) ‘The impulse of the vital breath imparted to the limbs (of the body)’ is (apparent), for example, in the twitching of the eyes. In this case, it is the Lord’s power that operates primarily in the pulse of the vital breath (prāṇaspanda), in order to manifest auspicious and inauspicious omens for the future and the like.” 
 
@@ -386,6 +466,8 @@ trayarh dvayarh vā mukhyarh syād yoginām avadhāninām || 54 |l
 The other two are secondary everywhere else, according to whether they are or are not other (than that). Having explained in this way their primary and secondary state in terms of the spontaneous (movement of the vital breath), he also defines them in terms of the (movement of the vital breath that requires) exertion (with the words) ‘three’ etc. Yogis who desire this or that particular fruit, wherever they apply the (power of the) vital breath by virtue of the excellence of their attention, (they also apply the power of the individual) Self and the Lord’s power, or one or other of them, in the same place. 
 
 The relationship between them is not only that of primary and secondary, it is so also in another way. Thus, he says: 
+
+### TĀ 6.55
 
 The Impelling Force of the Vital Breath 
 
@@ -399,20 +481,22 @@ The Impelling Force of the Vital Breath
 
 *[p. 266]* ^pg281
 
-avadhānād adrṣṭtāṁnśād balavattvād atheraṇāt |
-viparyayo ‘pi prāṇātmaśaktīnāh mukhyatām prati ॥ 55 ॥ 
+avadhānād adṛṣṭtāṁnśād balavattvād atheraṇāt |
+viparyayo ‘pi prāṇātmaśaktīnāḥ mukhyatām prati ॥ 55 ॥ 
 
-(According to whether the vital force) impels \[illegible\] 1) to paying attention, (as when one opens the eyes to observe something carefully) (avadhāna), 2) (or just vitalizes an) impulse (adrṣtāūṁmśa)” (like an unconscious shaking of a limb), or 3) (is applied to generate) greater strength, (one or other of the three aspects of the conscious exertion of the vital force, namely) 1) the Self, 2) breath, or 3) (the Lord’s) power (respectively) becomes primary (either in that order, or) in reverse (or, if there is no impulse, none of them). (55) 
+(According to whether the vital force) impels \[illegible\] 1) to paying attention, (as when one opens the eyes to observe something carefully) (avadhāna), 2) (or just vitalizes an) impulse (adṛṣtāūṁmśa)” (like an unconscious shaking of a limb), or 3) (is applied to generate) greater strength, (one or other of the three aspects of the conscious exertion of the vital force, namely) 1) the Self, 2) breath, or 3) (the Lord’s) power (respectively) becomes primary (either in that order, or) in reverse (or, if there is no impulse, none of them). (55) 
+
+#### Viveka on 6.55
 
 1\) (The power of the individual) Self predominates when (the vital force impels) ‘to paying attention’, as when (for example, anybody), including a yogi, opens his eyes (wide by the force of) his own attention. 
 
 2\) (The power of the vital breath) predominates when (the vital force impels or vitalizes) ʻan impulse’, as for example, when some limb (of the body), even that of a cow (that does not have much reflective awareness), throbs spontaneously by the power of the vital breath, (not because of its intention but) due to (some unknown reason, like) the influence of a latent trace from some other life. 
 
-3\) (The conscious exertion of the vital force may also be applied to generate) ‘greater strength’, as happens when wrestlers, for example, manage to jump to great (heights and perform other athletic feats), which they do by the power of the vital breath, acquired by the practice of physical exercise \[illegible\] and the like. (The vital force) ‘impels’ those who have been overcome by (adverse) humours (of the body) \[illegible\] this one or that of (their) limbs moves (not by power of their own vital breath), even if the vital breath is very strong, but by the power of the Lord, and so that predominates (in that case).'TM It is established (siddha) in this way that wherever their deployment is such that they abound, the exertion of the life force is clearly perceptible there. Otherwise, on the contrary, (if they are not present,) it is not so. 
+3\) (The conscious exertion of the vital force may also be applied to generate) ‘greater strength’, as happens when wrestlers, for example, manage to jump to great (heights and perform other athletic feats), which they do by the power of the vital breath, acquired by the practice of physical exercise \[illegible\] and the like. (The vital force) ‘impels’ those who have been overcome by (adverse) humours (of the body) \[illegible\] this one or that of (their) limbs moves (not by power of their own vital breath), even if the vital breath is very strong, but by the power of the Lord, and so that predominates (in that case).' It is established (siddha) in this way that wherever their deployment is such that they abound, the exertion of the life force is clearly perceptible there. Otherwise, on the contrary, (if they are not present,) it is not so. 
 
 Well then, agreed that the power of the Lord, along with (that of the individual) Self and the vital breath, generates the exertion of the vital breath, 
 
-107\. adrsṭāmśa- literally means ʻan unperceived aspect’. The spontaneous, unconscious activity of the body, ranging from an unconscious twitch to the physiology of the body which is ‘an unperceived aspect’ of its activity, is impelled predominantly by the energy of the vital breath (prāṇaśakti). Attention, that is, the exertion to concentrate, is impelled for the most part by the power of the Self (āãtmaśakti), and forceful exertion, application of muscle and will power, by the power of the Lord (prabhuśakti).
+107\. adṛsṭāmśa- literally means ʻan unperceived aspect’. The spontaneous, unconscious activity of the body, ranging from an unconscious twitch to the physiology of the body which is ‘an unperceived aspect’ of its activity, is impelled predominantly by the energy of the vital breath (prāṇaśakti). Attention, that is, the exertion to concentrate, is impelled for the most part by the power of the Self (ātmaśakti), and forceful exertion, application of muscle and will power, by the power of the Lord (prabhuśakti).
 
 108\. Here, I believe, Jayaratha is mistaken. The wrestler’s strength, which increases by his conscious exertion through exercise, is due to the power of the Lord. It is not the result, like a twitch, of an unconscious impulse, which is brought about by the power of the vital breath. Jayaratha takes ‘the vital force that impels’ (Trana) to be a separate, fourth possibility, which he says is due to the Lord’s power. But in order to do so, he must accommodate the acquisition of strength as one of the effects of the power of the vital breath. It seems to make more sense to understand that the vital force impels all three in general, and distinguish it from the power of the vital breath, which is one of the three.
 
@@ -420,6 +504,8 @@ Well then, agreed that the power of the Lord, along with (that of the individual
 *[p. 267]* ^pg282
 
 but for what purpose is that (power of the Lord) said to be of three kinds? With this question in mind, he says: 
+
+### TĀ 6.56
 
 Vāmā, Jyeṣthā and Raudrī 
 
@@ -430,17 +516,23 @@ jyeṣthā tu suprabuddhānāṁ bubhutsūnār ca raudrikā || 56 ॥
 
 Vāmā is the (aspect of the) Lord’s power (prabhuśakti) who is the (sovereign) Goddess \[illegible\] of (fettered souls) subject to transmigration. Jyeṣthā is the ruler (vidhāyinī) of the well-awakened, and Raudrikā (is the goddess) of those who aspire to worldly benefits. (56) 
 
+#### Viveka on 6.56
+
 In other words, (Jyeṣthā is) ‘the ruler (vidhāyinī) who ordains (and bestows) (vidadhāti) the exertion of the vital force (to fettered souls). 
 
 Now, what is the reason here (for their name and acting in this way)? With this question in mind, he says: 
 
+### TĀ 6.57
+
 वामा संसारवमनाद् ज्येष्ठा शिवमयी यतः ।
 द्रावयित्री सुजां रोद्री रो्धी चाखिलकर्मणाम् ॥ ५७ ॥
 
-vāmā saṁsāravamanād jyeṣthā śivamayī yatah |
+vāmā saṁsāravamanād jyeṣthā śivamayī yataḥ |
 drāvayitrī rujār raudrī roddhrī cākhilakarmaṇnām || 57 | 
 
-Vāmā (is so called as) she emits out (vamana)[^109] transmigratory existence. Jyeṣthā (is so called) because she is of Śiva’s nature. Raudrī is she who dissolves away (drāvayitrī) (all) sickness (rujã), and blocks (roddhrī) (all good and bad) action (karman).[^110] (57) 
+Vāmā (is so called as) she emits out (vamana)[^109] transmigratory existence. Jyeṣthā (is so called) because she is of Śiva’s nature. Raudrī is she who dissolves away (drāvayitrī) (all) sickness (rujā), and blocks (roddhrī) (all good and bad) action (karman).[^110] (57) 
+
+#### Viveka on 6.57
 
 Vāmā and the rest are the Lord’s powers of emanation, persistence and withdrawal. Thus (the Lord’s power) applies their prāṇic exertion in such a way that 1)(because of Vāmās influence,) (the fettered souls) subject to transmigration fall to ever lower levels, 2) (because of Jyeṣtha’s influence,) the well-awakened attain Śiva’s state and 3) (due to Raudrī’s influence,) those who aspire to worldly benefits reside in the world of transmigratory existence, intent (on attaining) Śiva’s state. That is said (in the scriptures as follows): 
 
@@ -449,29 +541,37 @@ Vāmā and the rest are the Lord’s powers of emanation, persistence and withdr
 
 *[p. 268]* ^pg283
 
-‘Vāmā casts down the individual soul who observes (only) his own (limited, conditioned) nature.TMTM! Raudrī sometimes bestows worldly pleasure, whereas Jyeșṭhā distributes a speck of freedom to the knowledge and action (of fettered souls). 
+‘Vāmā casts down the individual soul who observes (only) his own (limited, conditioned) nature.! Raudrī sometimes bestows worldly pleasure, whereas Jyeṣṭhā distributes a speck of freedom to the knowledge and action (of fettered souls). 
 
 "? 
 
 Surely (all) this is accomplished spontaneously, so what is the point of this being taught (in this way)? With this question in mind, he says: 
 
+### TĀ 6.58
+
 सृष्स्यादितत्त्वमज्ञात्वा न मुक्तो नापि मोचयेत् ।
-srsṣtyāditattvam ajñātvā na mukto nāpi mocayet | 
+sṛsṣtyāditattvam ajñātvā na mukto nāpi mocayet | 
 
 Without knowing the true nature of emanation and the rest, one is not liberated, nor can one liberate others. (58ab) 
 
+#### Viveka on 6.58
+
 What is the authority here (for this teaching)? With this question in mind, he says: 
 
-उक्तं च श्रीयोगचारे मोक्षः सर्वप्रकाशनात् ॥ ५८ ॥
-uktarh ca śrīyogacāre mokṣah sarvaprakāśanāt ॥ 58 II 
+### TĀ 6.58 (2)
 
-And it is said in the venerable the Yogacãra: ‘liberation is (attained) by the revelation of all (these) things.”TMTM (58cd) 
+उक्तं च श्रीयोगचारे मोक्षः सर्वप्रकाशनात् ॥ ५८ ॥
+uktaṁ ca śrīyogacāre mokṣaḥ sarvaprakāśanāt ॥ 58 II 
+
+And it is said in the venerable the Yogacāra: ‘liberation is (attained) by the revelation of all (these) things.” (58cd) 
+
+#### Viveka on 6.58 (2)
 
 111\. The meaning seems a bit forced, maybe the text requires emendation. The sense is that Vāmā 15 the power that causes the individual soul, who does not know its true Śiva nature, to be caught up in the painful round of birth and death.
 
 112\. Summing up verses 52-57: Prabhuśakti Ātmaśakti Prāṇaśakti Pervasive Genitals Heart Great Strength Paying attention Unconscious Impulse Vāmā Jyeṣthā Raudrī Īsā of fettered souls Ruler of the Awakened Goddess of those who aspire to worldly benefits Emits Śiva’s nature Dissolves away and blocks Emanation Persistence Withdrawal Castes down the soul Bestows limited Freedom Bestows Worldly pleasure
 
-113\. Knowledge of ‘emanation and the rest’ is the goal of the Krama teachings. It seems that the point Abhinava is implicitly making here is that ultimately liberation is attained by knowledge of the Krama’s goal and the means to attaining it. It also suggests that the Yogasaṁcāra, which we know was a Trika Tantra, was influenced by Krama teachings. The previous passage is concerned with the group of energies headed by Vāmā. This is a group commonly found (but not at all exclusively) in Trika sources. It is clear that the following is from the Yogacāra (i.e. Yogasaṁcāra). Is the passage (52-58ab) that precedes this reference concerning Vāmā etc. and their association with the phases of the breath also drawn from there? One could understand uktarh ca to mean ‘and it is also said in the venerable Yogacāra’. Indeed, this may well be a final remark coming at the end of the teaching concerning Vāmā etc., that liberation is attained by the revelation or manifestation of the entire process outlined previously. See above, note to 4/145.
+113\. Knowledge of ‘emanation and the rest’ is the goal of the Krama teachings. It seems that the point Abhinava is implicitly making here is that ultimately liberation is attained by knowledge of the Krama’s goal and the means to attaining it. It also suggests that the Yogasaṁcāra, which we know was a Trika Tantra, was influenced by Krama teachings. The previous passage is concerned with the group of energies headed by Vāmā. This is a group commonly found (but not at all exclusively) in Trika sources. It is clear that the following is from the Yogacāra (i.e. Yogasaṁcāra). Is the passage (52-58ab) that precedes this reference concerning Vāmā etc. and their association with the phases of the breath also drawn from there? One could understand uktaṁ ca to mean ‘and it is also said in the venerable Yogacāra’. Indeed, this may well be a final remark coming at the end of the teaching concerning Vāmā etc., that liberation is attained by the revelation or manifestation of the entire process outlined previously. See above, note to 4/145.
 
 
 *[p. 269]* ^pg284
@@ -480,29 +580,37 @@ And it is said in the venerable the Yogacãra: ‘liberation is (attained) by th
 
 Thus, he says: 
 
+### TĀ 6.59
+
 उत्पत्तिस्थितिसंहारान् ये न जानन्ति योगिनः ।
 न मुक्तास्ते तदज्ञानबन्धनैकाधिवासिताः ॥ ५९ ॥
 
-utpattisthitisamhārān ye na jānanti yoginah |
-na muktās te tadajñānabandhanaikādhivāsitāh ॥ 59 ॥ 
+utpattisthitisamhārān ye na jānanti yoginaḥ |
+na muktās te tadajñānabandhanaikādhivāsitāḥ ॥ 59 ॥ 
 
 ‘The Yogis who do not know (the nature of) birth, persistence and reabsorption are not liberated. (Indeed,) they are pervaded (adhivāsita) solely by the bondage of (their) ignorance of that.” (59) 
 
-‘Ignorance of that’ is the lack of awareness (sarhvitti) of the true nature of emanation and the rest. 
+#### Viveka on 6.59
+
+‘Ignorance of that’ is the lack of awareness (saṁvitti) of the true nature of emanation and the rest. 
 
 And so, what does that have to do with the point? With this question in mind, he says: 
 
-The Movement of the Breath (uccãra) 
+The Movement of the Breath (uccāra) 
+
+### TĀ 6.60
 
 सुष्स्यादयश्च ते सर्वे कालाधीना न संशयः ।
 स च प्राणात्मकस्तस्मादुच्चारः कथ्यते स्फुटः ॥ ६० ॥
 
-srṣtyādayaś ca te sarve kālādhīnā na 5407154) 
+sṛṣtyādayaś ca te sarve kālādhīnā na 5407154) 
 
 4/1 |
-sa ca prāṇātmakas tasmād uccārah kathyate 57114141 ॥ 60 ॥ 
+sa ca prāṇātmakas tasmād uccāraḥ kathyate 57114141 ॥ 60 ॥ 
 
-All (the various phases of) creation and the rest depend, no doubt, on Time, and its nature is the vital breath (prāṇa). Therefore, the movement of the breath (uccãra) is now going to be clearly explained. (60) 
+All (the various phases of) creation and the rest depend, no doubt, on Time, and its nature is the vital breath (prāṇa). Therefore, the movement of the breath (uccāra) is now going to be clearly explained. (60) 
+
+#### Viveka on 6.60
 
 Emanation, persistence and withdrawal depend on time, because they are successive. By explaining the movement of the breath, one (comes to) know the true nature of emanation and the rest. This is the point. 
 
@@ -513,12 +621,16 @@ Emanation, persistence and withdrawal depend on time, because they are successiv
 
 He says that: 
 
+### TĀ 6.61
+
 हदयात््राणचारश्च नासिक्यद्रादशान्ततः ।
 षठि्रंशददुलो जन्तोः सर्वस्य स्वाद्ुलक्रमात् ॥ ६१९ ॥
-hrdayāt prāṇacāraś ca nāsikyadvādaśāntatah |
-ṣattrihśadaṁgulo jantoh sarvasya svāṁgulakramāt ॥ 61 ॥ 
+hṛdayāt prāṇacāraś ca nāsikyadvādaśāntataḥ |
+ṣattrihśadaṁgulo jantoḥ sarvasya svāṁgulakramāt ॥ 61 ॥ 
 
 The (ascending) movement of the breath starting from the Heart and ending in the nasal End of the Twelve (finger space) measures thirty-six fingers breadth" in every living being in proportion to its size.” (61) 
+
+#### Viveka on 6.61
 
 The nasal End of the Twelve is that of Sakti. (Kunṇqdalinī is) the ‘nasal energy’ (nāsikāśakti), so called because, its movement is crooked (nasate). That is said: 
 
@@ -528,32 +640,40 @@ fingers from the Heart up Śakti (in the End of the Twelve).
 
 "Twelve 
 
-115\. Freedom Cole has suggested that the Sanskrit word for finger ~ añgula — is etymologically related to the word ‘angle’. Whether this is correct or not, the measurement of the breathing cycle as 36 finger breadths is consonant with the astronomical 360 añgulas, which correspond to ten external angular degrees for each inner finger breadth. See SOL2 p.43.
+115\. Freedom Cole has suggested that the Sanskrit word for finger ~ aṅgula — is etymologically related to the word ‘angle’. Whether this is correct or not, the measurement of the breathing cycle as 36 finger breadths is consonant with the astronomical 360 aṅgulas, which correspond to ten external angular degrees for each inner finger breadth. See SOL2 p.43.
 
 116\. Literally ‘in accord with the size of one’s own fingers’ (svāṁgulikramāt). The unit of measure for the size of temples, idols, altars, ritual implements, and other such religious artifacts are normally the fingers and other parts of the body of the patron who pays to have them made. This is because they replicate his body in some way as the body and limbs within which the deity or deities are invoked to reside. Again, this reflects the presence of the deity in the body of the officiant, of which the limbs are in proportion to one another. Thus, for example, in this case, the distance the breath moves in relation to the body is considered to be the same for every breathing creature, however large or small. Cf. Vasudeva 2004: 287 ff.
 
 117\. Kunqalinī is ‘crooked’ (kuṭilā). As such, she is the Kunṇqalinī of the Vital Breath (prāṇakundalinī), which is the ‘crooked 4/141cd-142. Kṣemarāja, commenting on BSa 3/45, explains that the word ‘nāsikā’, power’ of action. See above, comm. on normally means ‘nose’ denotes the power of the vital breath (prāṇaśakti) because it ‘moves on a crooked or curved path’ (nāsate) cf. below, 15/336-338. Bhāskara commenting on the same sūtra says: “The nose means the inner Twelve-finger Space (where the breath come to rest). Those who fix their attention there merge (into universal consciousness) and so, conquering (the breath), their own fundamental and abiding state of being (svātmasthiti) becomes clearly apparent.’ (Dyczkowski 1992b: 174). Here, it seems, the outer Twelve-finger is meant, which is at the end of the nose.
 
-118\. SvT 4/234cd. Kṣemarāja reads the second half of this line as: Artpadmād yāva śaktitah ॥ According to him yāva is yāvat, from which the final t has been dropped (yāvacchabde talopah). He does not say so, but we can understand for ourselves that this is done in order to accommodate the metre. He says that ‘what is meant by \[illegible\] here is, according to the teaching that is to come, the (Transmental) at the end of the Equal One (samanā) śaktir iha bhāvinīty āsamanāntābhipretā. The Transmental in the ladder of the development of Sound is the last and highest. This is why it is called the Empowered End of the Twelve (śāktadvādaśānta). One can easily measure this distance for oneself by placing the lower half of the hand flat against the centre of the chest with the thumb upraised to move it out of the way. Place the four fingers of the other hand above it and so on progressively. Keeping the chin bent, the first three hand spans of four fingers extend to the top of the nose. The following three handspans reach the crown of the head and the next twelve finger breadths, to the end of the End of the Twelve. This is how the breath travels for Yogis. They draw the vital breath directly from transcendental consciousness above when they exhale. This is how those who practice attention to the breath should imagine at first, and subsequently experience directly, its movement. The common, non-yogic breathing travels out from the nose to a distance of twelve fingers. This can be easily measured for oneself by placing the hand at that distance from the mouth, minus four fingers for the distance covered by the nose. This is called the nasal or external End of the Twelve.
+118\. SvT 4/234cd. Kṣemarāja reads the second half of this line as: Artpadmād yāva śaktitaḥ ॥ According to him yāva is yāvat, from which the final t has been dropped (yāvacchabde talopaḥ). He does not say so, but we can understand for ourselves that this is done in order to accommodate the metre. He says that ‘what is meant by \[illegible\] here is, according to the teaching that is to come, the (Transmental) at the end of the Equal One (samanā) śaktir iha bhāvinīty āsamanāntābhipretā. The Transmental in the ladder of the development of Sound is the last and highest. This is why it is called the Empowered End of the Twelve (śāktadvādaśānta). One can easily measure this distance for oneself by placing the lower half of the hand flat against the centre of the chest with the thumb upraised to move it out of the way. Place the four fingers of the other hand above it and so on progressively. Keeping the chin bent, the first three hand spans of four fingers extend to the top of the nose. The following three handspans reach the crown of the head and the next twelve finger breadths, to the end of the End of the Twelve. This is how the breath travels for Yogis. They draw the vital breath directly from transcendental consciousness above when they exhale. This is how those who practice attention to the breath should imagine at first, and subsequently experience directly, its movement. The common, non-yogic breathing travels out from the nose to a distance of twelve fingers. This can be easily measured for oneself by placing the hand at that distance from the mouth, minus four fingers for the distance covered by the nose. This is called the nasal or external End of the Twelve.
 
 
 *[p. 271]* ^pg286
 
 Surely, if this is so, how is it that this is (equally) possible in the case of a very small body, such as that of a gnat, or a very large one, such as that of an elephant? With this question in mind, he says: 
 
+### TĀ 6.62
+
 दिष्ठे वा मदहिष्ठे वा देहे तादृश एव हि ।
-kṣodiṣṭthe vā mahiṣthe vā dehe tādrśa eva hi | 
+kṣodiṣṭthe vā mahiṣthe vā dehe tādṛśa eva hi | 
 
 Whether (its) body be the tiniest or the largest, it is the same. (62ab) 
+
+#### Viveka on 6.62
 
 ‘The same’ means just thirty-six fingers’ breadth. However, it is so in relation to the size of its own fingers. 
 
 Not only is the movement of the breath of all creatures the same, their vitality and the rest (related to it is so) also. Thus, he says: 
 
+### TĀ 6.62 (2)
+
 वीर्यमोजो बलं स्पन्दः प्राणचारः समं यतः ॥ ६२ ॥
-vīryam ojo bala spandah prāṇacārah samam yatah ॥ 62 || 
+vīryam ojo bala spandaḥ prāṇacāraḥ samam yataḥ ॥ 62 || 
 
 The vitality (vīrya), vigour (ojas), strength (bala), pulsation (of consciousness and the vital force) (spanda) and the movement of the breath” are thus (proportionately) equal” (in every living being). (62cd) 
+
+#### Viveka on 6.62 (2)
 
 This is the intended sense here. This expansion (sphāra) (of consciousness, vitality and the vital breath) that unfolds as living beings, from the tiniest to the largest, is in every case the same. As is said: 
 
@@ -565,7 +685,7 @@ cocoon in a hole in the ground.”
 
 119\. Cf, above 3/229cd and note. Also below, 29/4.
 
-120\. Read samarh yatah for samarh tatah. MS G reads yatah samā.
+120\. Read samaṁ yataḥ for samaṁ tataḥ. MS G reads yataḥ samā.
 
 121\. 12l Yogavāsiṣta 1/61/18. This verse is also quoted by Śivopādhyāya in his commentary on VBHh v 100, where he says that it is drawn from the Brahmadarśana. There and in the printed edition of the Yogavāsiṣṭa the second line is the same as here. There the second half of the quarter reads, as it does in the Yogavāsiṣṭa: vyomni bhāskare for bhāti bhāsvati. In the first line the Yogavāsiṣta reads bhuvanābhoge bhūṣaṇe for gaganābhogabhūṣaṇe. Thus, the meaning there is ‘(the consciousness that is) in the expanse of the world and within the sun that adorns the sky (is the very same consciousness present in the belly of a worm within a cocoon in a hole in the ground.)
 
@@ -578,17 +698,23 @@ The Projection of Night and Day, the Transits (of the Sun) and the Planets (ahor
 
 Having described and concluded in this way the movement of the vital breath, after that, as enunciated in the initial enunciation, he begins to analyse (the phases of its movement as) Night and Day etc. 
 
+### TĀ 6.63
+
 षट्त्रंशदद्धुले चारे यद्रमागमयुग्मकम् ।
 नालिकातिथिमासाब्दतत्सद्बोऽ् स्फुटं स्थितः ॥ ६३ ॥
 
 ṣattrihSadaṁgule cāre yad gamāgamayugmakam |
-nālikātithimāsābdatatsaṁgho ‘tra sphuṭami sthitah ॥ 63 ॥ 
+nālikātithimāsābdatatsaṁgho ‘tra sphuṭami sthitaḥ ॥ 63 ॥ 
 
-(All) these (periods of time, beginning with) twenty-four minutes (nālikā), (including) the lunar days (tithi),TM? months, years and many years, are clearly present here as the polarity (yugmaka) of the outgoing and ingoing (phases) (gamāgama) within the movement (of the breath in one of these phases,) that measures thirty-six fingers’ breadth. (63) 
+(All) these (periods of time, beginning with) twenty-four minutes (nālikā), (including) the lunar days (tithi),? months, years and many years, are clearly present here as the polarity (yugmaka) of the outgoing and ingoing (phases) (gamāgama) within the movement (of the breath in one of these phases,) that measures thirty-six fingers’ breadth. (63) 
+
+#### Viveka on 6.63
 
 ‘The outgoing and ingoing (phases)’ are the exhaled and inhaled, ascending and descending (phases of the breath). The word ‘these’ refers to all (these periods of time,) beginning with a (period of) twenty-four minutes (nālikā). 
 
 (Now) he analyses these (projections of periods of time in the movement of the breath, one after another,) in due order: 
+
+### TĀ 6.64–66
 
 तुटिः सपादाद्लयुक्प्राणस्ताः षोडशोच्छ्वसन् ।
 निशवसंशात्र चषकः सपञ्चांशेऽद्लेऽद्ले ॥ ६४ ॥
@@ -603,12 +729,12 @@ nālikātithimāsābdatatsaṁgho ‘tra sphuṭami sthitah ॥ 63 ॥
 
 *[p. 273]* ^pg288
 
-nihśvasaṁś \[illegible\] caṣakah sapañcāṁiśe ‘ṁgule ‘ṁgule ॥ 64 ॥
+nihśvasaṁś \[illegible\] caṣakaḥ sapañcāṁiśe ‘ṁgule ‘ṁgule ॥ 64 ॥
 śvāsapraśvāsayor nālī proktāhorātra ucyate |
 navāṁgulāmbudhituṭau praharās te ‘bdhayo dinam |I| 65 ||
-nirgame ‘ntarniŝenendū tayoh sarnńdhye tuter dale | 
+nirgame ‘ntarniśenendū tayoḥ sarnńdhye tuter dale | 
 
-One tuṭi (that is, one eighth of a second, is the time) the breath that covers a distance of) two and a quarter fingers’ breadth (moves).'TM (Thus, there are) sixteen (of them in each) exhalation and inhalation. Here, (in the case of the projectionTM of twenty-four minutes into the breathing cycle,) a caṣaka (of twenty-four seconds) is equivalent to one and a fifth finger-breadths.” One inhalation and an exhalation is said to (correspond to) a nālī (that is, twenty-four minutes). 
+One tuṭi (that is, one eighth of a second, is the time) the breath that covers a distance of) two and a quarter fingers’ breadth (moves).' (Thus, there are) sixteen (of them in each) exhalation and inhalation. Here, (in the case of the projection of twenty-four minutes into the breathing cycle,) a caṣaka (of twenty-four seconds) is equivalent to one and a fifth finger-breadths.” One inhalation and an exhalation is said to (correspond to) a nālī (that is, twenty-four minutes). 
 
 123\. One breathing cycle (one exhalation and inhalation) takes four seconds, that is, thirty-two tuṭis. As the distance covered by an exhalation or an inhalation is 36 finger-breadths, the breath moves a distance of 72 (2 x 36) finger-breadths in that time. Thus, it takes one tuṭi (i.e. 1/8 the of a second) to cover two and a quarter fingers’ breadth (2 1⁄4 x 32 = 72).
 
@@ -623,20 +749,22 @@ One tuṭi (that is, one eighth of a second, is the time) the breath that covers
 
 Here, (we shall now discuss the arising of) a Day and a Night. \[illegible\] One prahara (that is, three hours,” projected into the breathing cycle is) equivalent to (a distance of) nine fingers’ (breadth, which is equivalent to) four tutis (that is, half a second) of (actual) time. Four of these (praharas) constitute, in the course of exhalation, the Day, and inwardly (that is, in the course of inhalation), the Night. The conjunction (sandhyā) of the Sun and Moon takes two tutis (that is, a quarter of a second).’” (64-66ab) 
 
+#### Viveka on 6.64–66
+
 It is said that a tuṭi, (one eighth of a second, is the time it takes for the breath to move) two and a quarter fingers’ breadth. Thus, multiplied by sixteen, they (correspond to a distance of) thirty-six fingers, and so he says that ‘(there are) sixteen (of them in each) exhalation’. In the same way, there are (sixteen) in the flow of the inhaled breath (apāna), and so he says ‘and inhalation’. 
 
 127\. The movement of the breath homologized to a Day and a Night is described in SvT 7/26cd ff.
 
 128\. Tt was the custom for a bell to be struck every three hours to let people know the time. Accordingly, that period of time is called a ‘prahara’, which means ʻa blow’. There are eight praharas in twenty-four hours — four during an equinoctial day and night. The first prahara of the day is from 6 AM to 9 AM, the second from 9 AM to 12 AM, the third from 12 AM to 3 PM, and the fourth from 3PM to 6 PM. The first prahara of the night is from 6 PM to 9 PM, the second is from 9 PM to 12 AM, the third is from 12 AM to 3 AM and the fourth is from 3 AM to 6 AM with 6am representing sunrise and 6 pm representing sunset.
 
-129\. To be clear: a single exhalation or inhalation covers both the time the breath is moving and when it is still. Each phase moves for fifteen tuṭis and is still for one. This one tuṭi consists of half a ruṭi that marks the end of the movement and a half at the beginning of the next movement of the breath. Thus, taken together, the ascending and descending breaths are still for one \[illegible\] at the beginning and end. If the movements correspond to a Day for exhalation and a Night for inhalation, at the end of the day half a tuṭi is for the sunset and half a \[illegible\] heralds the rise of the Moon that is the beginning of the Night. In other words, the sunset sandhyā is half taken up by the Sun’s time and half by that of the Moon. The same goes for the setting of the Moon and rising of the Sun at dawn. The former takes place at the end of the Twelve and the latter in the Heart. In this way, the junctions of the day (sardhyã) at dawn and sunset are included in the calculation. Evening twilight occurs when the Sun of Prānṇa sets, at the end of exhalation in the End of the Twelve. The morning twilight corresponds to when the Moon of apāna sets, at the end of inhalation in the Heart. Sunset and dawn occur when the Sun of the exhaled breath has set and the Moon of the inhaled breath has not yet risen on the horizon, and vice versa. At the conjunction (sandhyã), half a tuṭi of Night with half a tuṭi of Day. Thus, there are two tutis for the conjunctions and thirty for Day and Night. These are clearly ideal figures. The length of the actual outer days and nights vary in length throughout the year. Moreover, the sun does not always set just as the moon rises or vice versa. We will see further ahead how this variation in the length of a day and night through the year is accounted for not by the breath itself but by the duration of perception homologized to it. See below, 6/85cd-86ab.
+129\. To be clear: a single exhalation or inhalation covers both the time the breath is moving and when it is still. Each phase moves for fifteen tuṭis and is still for one. This one tuṭi consists of half a ruṭi that marks the end of the movement and a half at the beginning of the next movement of the breath. Thus, taken together, the ascending and descending breaths are still for one \[illegible\] at the beginning and end. If the movements correspond to a Day for exhalation and a Night for inhalation, at the end of the day half a tuṭi is for the sunset and half a \[illegible\] heralds the rise of the Moon that is the beginning of the Night. In other words, the sunset sandhyā is half taken up by the Sun’s time and half by that of the Moon. The same goes for the setting of the Moon and rising of the Sun at dawn. The former takes place at the end of the Twelve and the latter in the Heart. In this way, the junctions of the day (sardhyā) at dawn and sunset are included in the calculation. Evening twilight occurs when the Sun of Prānṇa sets, at the end of exhalation in the End of the Twelve. The morning twilight corresponds to when the Moon of apāna sets, at the end of inhalation in the Heart. Sunset and dawn occur when the Sun of the exhaled breath has set and the Moon of the inhaled breath has not yet risen on the horizon, and vice versa. At the conjunction (sandhyā), half a tuṭi of Night with half a tuṭi of Day. Thus, there are two tutis for the conjunctions and thirty for Day and Night. These are clearly ideal figures. The length of the actual outer days and nights vary in length throughout the year. Moreover, the sun does not always set just as the moon rises or vice versa. We will see further ahead how this variation in the length of a day and night through the year is accounted for not by the breath itself but by the duration of perception homologized to it. See below, 6/85cd-86ab.
 
 
 *[p. 275]* ^pg290
 
 Thus, together they make thirty-two tutis. As is said: ‘the flow of the exhaled 
 
-and inhaled breath takes thirty-two tuṭis’.'® 
+and inhaled breath takes thirty-two tuṭis’.' 
 
 Again, here in the movement of the breath (that extends for a space) of thirty-six finger breadths, each caṣaka (of twenty-four) seconds corresponds to one and a fifth finger space. In this way, when the flow of the exhaled breath (prāṇa) is divided into thirty, there are thirty caṣakas, and so too in the flow of the inhaled breath. Thus, taking both exhaled and inhaled breath together, a ghaṭikā (of twenty-four minutes) consisting of sixty caṣakas arises. So he says that ‘one inhalation and exhalation is said to (correspond to) a \[illegible\] (that is, is twenty-four minutes)’. 
 
@@ -644,7 +772,7 @@ Again, here in the movement of the breath (that extends for a space) of thirty-s
 
 TM? ‘Four of 
 
-them’, that is, four praharas, (each) measuring nine fingers, (make a Day). (Then) ‘inwardly’, that is to say, in the course of the arising of inhalation (apāna). In the same way, the Night also consists of four praharas. That is said (as follows): ‘Night and Day (together are made of) eight . . "° Moreover, these two, the exhaled and inhaled breaths, correspond to the ‘Sun and Moon’. This is the meaning. As is said (in the Svacchandatantra): 
+them’, that is, four praharas, (each) measuring nine fingers, (make a Day). (Then) ‘inwardly’, that is to say, in the course of the arising of inhalation (apāna). In the same way, the Night also consists of four praharas. That is said (as follows): ‘Night and Day (together are made of) eight . . " Moreover, these two, the exhaled and inhaled breaths, correspond to the ‘Sun and Moon’. This is the meaning. As is said (in the Svacchandatantra): 
 
 ‘The Sun moves during the day and the Moon moves at night. This is 
 
@@ -669,7 +797,7 @@ The conjunction of the two, the exhaled and inhaled breath, Day and Night, occur
 
 Thus: 
 
-‘O mistress of the gods, the Sun of the exhaled breath always sets at the end of the fourth (prahara). Thus, O beloved, the conjunction that takes place here at sunset lasts half a tuṭi.”TM® 
+‘O mistress of the gods, the Sun of the exhaled breath always sets at the end of the fourth (prahara). Thus, O beloved, the conjunction that takes place here at sunset lasts half a tuṭi.” 
 
 Again: 
 
@@ -677,7 +805,7 @@ Again:
 
 This is said with respect to the flow of the exhaled breath \[illegible\] alone, and so one should understand (for oneself that that applies to) the flow of the inhaled breath also. Similarly, (if a lunar month is projected into the breathing cycle, the same applies to the bright and dark lunar fortnights): 
 
-135\. SvT 7/27 declares: + tuṭayah ṣodaśa prānṇe pūrvaṁ hi kathitā mayā | bāhyenaiva tu kālena te lavāh parikirtītāh ॥ ‘I have stated previously that one exhalation (of the breath) takes sixteen (18. In terms of outer time, they are called ‘lavas’. (SvT 7/27) Kṣemarāja says in his commentary: yāh pūrvaṁ caturthapaṭale sapādadvyaṁgulodayaparimāṇāh ṣodaśa \[illegible\] \[illegible\] uktā tāh ---- mānuṣākṣinimeṣasya aṣtṣamāṁiśah kṣaṇah smrtah | kṣaṇadvayaṁ tuṭirjñeyā taddvayarh tu lavah smrtah ॥ (11-201) ty ekādaśapaṭalavakṣyamāṇena bāhyena kālena te lavā lavaśabdākhyāh kālāvayavāh | evarh ca prāṇīyā tuṭir bāhyatuṭiś cānyaiva, na tu śabdasāmyād atra bhramitavyam | prānīyā tuṭir bāhyo lavah, bāh) rdhań paryavasyati | itthah ca bāhyah kṣaṇah prāṇīyatuṭes turyoń.aśah, mantavyam | anenaiva ca krameṇa āntaraprāṇāpānodayarūpo yah sandhyākālaṁ vinā triṁśattuṭiko.ahorātrah, ‘It was taught previously in chapter four that sixteen tuṭis (each) measure the rising (of the breath for) two and a quarter finger-breadths. These (units of time) are said (to be as follows): ‘A kṣana is an eighth (of the time it takes) for a person to close his eyes. A tuṭi should be known to be two \[illegible\] and a lava\* is considered to be two of those.’ (SvT 11/201) In terms of outer time, which will be discussed in chapter eleven, these lavas are fractions of time called ‘lava’. A tuṭi that is (a measure of time of the movement) of the breath, differs from an outer tuṭi. One should not be misled because the word is the same. A tuṭi that is (a measure of time) of the breath is an external Java. This entails that the outer fuṭi is half a tuṭi of the breath. In the same way, one should think that an external \[illegible\] is a quarter of a tuṭi of the breath. In this same way (anenaiva kramena), not counting the time (taken for the) conjunctions (sandhyāã) (which lasts two tuṭis), Day and Night, which are the inner arising of the exhaled and inhaled breath, (last) thirty tutis’? \* According to Monier-Williams, a /ava is ‘minute division of time, the 60th of a twinkling \[of the eye\], half a second, a moment (according to others 1/4000 or 1/5400 or 1/20250 of a muhūrta).'
+135\. SvT 7/27 declares: + tuṭayaḥ ṣodaśa prānṇe pūrvaṁ hi kathitā mayā | bāhyenaiva tu kālena te lavāḥ parikirtītāḥ ॥ ‘I have stated previously that one exhalation (of the breath) takes sixteen (18. In terms of outer time, they are called ‘lavas’. (SvT 7/27) Kṣemarāja says in his commentary: yāh pūrvaṁ caturthapaṭale sapādadvyaṁgulodayaparimāṇāḥ ṣodaśa \[illegible\] \[illegible\] uktā tāh ---- mānuṣākṣinimeṣasya aṣtṣamāṁiśaḥ kṣaṇaḥ smṛtaḥ | kṣaṇadvayaṁ tuṭirjñeyā taddvayaṁ tu lavaḥ smṛtaḥ ॥ (11-201) ty ekādaśapaṭalavakṣyamāṇena bāhyena kālena te lavā lavaśabdākhyāḥ kālāvayavāḥ | evaṁ ca prāṇīyā tuṭir bāhyatuṭiś cānyaiva, na tu śabdasāmyād atra bhramitavyam | prānīyā tuṭir bāhyo lavaḥ, bāh) rdhań paryavasyati | itthaḥ ca bāhyaḥ kṣaṇaḥ prāṇīyatuṭes turyoń.aśaḥ, mantavyam | anenaiva ca krameṇa āntaraprāṇāpānodayarūpo yah sandhyākālaṁ vinā triṁśattuṭiko.ahorātraḥ, ‘It was taught previously in chapter four that sixteen tuṭis (each) measure the rising (of the breath for) two and a quarter finger-breadths. These (units of time) are said (to be as follows): ‘A kṣana is an eighth (of the time it takes) for a person to close his eyes. A tuṭi should be known to be two \[illegible\] and a lava\* is considered to be two of those.’ (SvT 11/201) In terms of outer time, which will be discussed in chapter eleven, these lavas are fractions of time called ‘lava’. A tuṭi that is (a measure of time of the movement) of the breath, differs from an outer tuṭi. One should not be misled because the word is the same. A tuṭi that is (a measure of time) of the breath is an external Java. This entails that the outer fuṭi is half a tuṭi of the breath. In the same way, one should think that an external \[illegible\] is a quarter of a tuṭi of the breath. In this same way (anenaiva kramena), not counting the time (taken for the) conjunctions (sandhyā) (which lasts two tuṭis), Day and Night, which are the inner arising of the exhaled and inhaled breath, (last) thirty tutis’? \* According to Monier-Williams, a /ava is ‘minute division of time, the 60th of a twinkling \[of the eye\], half a second, a moment (according to others 1/4000 or 1/5400 or 1/20250 of a muhūrta).'
 
 136\. SVT 7/36.
 
@@ -686,21 +814,23 @@ This is said with respect to the flow of the exhaled breath \[illegible\] alone,
 
 *[p. 277]* ^pg292
 
-‘It is said that there is half a \[illegible\] in the middle and upper part of the energy (of the vital breath). One should know that that is the conjunction of the fortnights (paksa). 
+‘It is said that there is half a \[illegible\] in the middle and upper part of the energy (of the vital breath). One should know that that is the conjunction of the fortnights (pakṣa). 
 
 In accord with this (teaching), one should apply this same way of thinking to the knot (that binds) the conjunction of the fortnights. Otherwise, (if one does not do so,) one of the tuṭis would remain uncollocated."? 
 
 Not only do the Sun and Moon arise here (in the breath), the planets do so (also). Thus, he says: 
+
+### TĀ 6.66–67
 
 The Projection of the Planets,” Constellations and Serpent Gods 
 
 केतुः सूर्ये विधौ राहर्भौमादेवीरभागिनः ॥ ६६ ॥
 प्रहरद्रयमन्येषा ्रहाणामुदयोऽन्तरः
 
-ketuh sūrye vidhau rāhur bhaumāder vārabhāginah ॥ 66 ॥
-praharadvayam anyeṣāmṁ grahāṇām udayo ‘ntarah | 
+ketuḥ sūrye vidhau rāhur bhaumāder vārabhāginaḥ ॥ 66 ॥
+praharadvayam anyeṣāmṁ grahāṇām udayo ‘ntaraḥ | 
 
-(The location of the nine grahas within the breath, corresponding to a Day and Night, is as follows). Ketu is within the Sun (of \[illegible\] and Rāhu is within the Moon (of apāna).TM' (These grahas) (arise for) two praharas 
+(The location of the nine grahas within the breath, corresponding to a Day and Night, is as follows). Ketu is within the Sun (of \[illegible\] and Rāhu is within the Moon (of apāna).' (These grahas) (arise for) two praharas 
 
 138\. SvT 7/79abc, see below 6/76ab. Kṣemarāja comments on this verse as follows: “The middle of the energy that has arisen from the Cavity of Brahmā (at the crown of the head) is the location of the skin (on the head). The location of the hair is the remaining (part of) the skin, which is the upper (part of that energy). It lasts for just half a tuṭi. That is the conjunction of the dark and bright (lunar) fortnights. The half tuṭi which is at the end of the exhaled breath \[illegible\] is the same as the beginning of the inhaled breath (apāna). Thus, the two half tuṭis are, from (the point of view of their) location, just one. The time it takes for this pair of (half) ruis to flow is the plane of conjunction.”
 
@@ -717,27 +847,29 @@ praharadvayam anyeṣāmṁ grahāṇām udayo ‘ntarah |
 
 *[p. 279]* ^pg294
 
-(vāra).®? The arising of the other grahas is different (as they arise for just one prahara, half at night and half during the day).[^142] (66cd-67ab) 
+(vāra).? The arising of the other grahas is different (as they arise for just one prahara, half at night and half during the day).[^142] (66cd-67ab) 
 
-[^142]: The planets and their corresponding days are: 1) Sun — Sunday, 2) Moon — Monday, 3) Mars — Tuesday, 4) Mercury - Wednesday, 5) Jupiter — Thursday, 6) Venus — Friday and 7) Saturn — Saturday. Rāhu and Ketu are included in the Sun and Moon respectively, and so their days are Sunday and Monday. Freedom Cole informs me that nowadays, ‘Rahu is generally asšociated with Saturday and Ketu with Tuesday so Sunday and Monday is not the way it is being used presently. In traditions that still exist in Thailand and Bali, Rāhu is associated with Wednesday and Ketu with Thursday’ (personal communication). Perhaps the associations were different in the past when the system was laid out in the Svacchandatantra. More likely the system here is meant simply to align the cycle of the breath with the planets, without caring to make it conform exactly to standard Indian astrology. Cole explains that the day-night can be divided into either 8 praharas, or the day into 8 ardha-praharas and the night into 8 ardha-praharas. In both divisions, the first portion is ruled by the lord of the day, and they are ordered variously according to different systems (see Appendix). This is Cole’s interpretation of the system possibly being referenced in Tantrāloka, based on the translations of the extensive commentary (which does not all indicate the same). Here the day lord is given 2 praharas, one put in the beginning of the day, and the other at the end of the day, and the night starts with the fifth planet in weekday order (vāracakra). \[Prahara | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | 69AM | Sun | Moon | Mas | Meruy | Jupiter | Vems | Sawm | 912 | Moon | Mars | Meruy | Jupiter \[ Vems | Saum | Suw J 12-3PM\_| Mars | Mercury | Jupiter | ९१०५५ - Satun | Sun | Moon | 3-6PM\_\_| Mercury | Jupiter \_| Venus | Saum | Sun | Moon | Mas | | (णभ | Jupiter Venus | Saum | \_ 30७ | Moom | Mas | Meruy | 9-12 AM Venus | Saum | Sun | Moon | Mas | Meru Jupiter 12-3AM\_| Saum | Sun | Moon | Mas | Meruy | Jupiter | Venus 36AM\_| Sun | Moon | Mas | Meruy | Jupiter | Vems | Saum | 13 SvT 7/42-43 may have been Abhinava’s source for TĀ 6/66cd-67ab, or his source was closely related to it. Thus, in order to understand what is meant here, we may take the help of the Svacchandatantra, with Kṣṣemarāja’s commentary. These are as follows: hrtpadmari tu yadā prāptah prabhātasamayas tadā | tatrāpi--- tuṭyardhaṁ tu varārohe pūrvasaridhyā bhavet tatah || etat pūrvavad vyākhyeyam | pūrvatvam atra saridhyāyās tadanantara prāṇasūryodayātmakadinaprārambhāt || yad āha tasmāt samudayaś caiva sūryasya sa bhavet punah | pūrvavat kramayogena ca cared dhi sadā śubhe ॥ vāsare tu caret sūryo dhārāyāṁ sañcarec chaśī | prāṇa eva sūryah apānas tu candrah | atha ca sūrya indriyavargo vāsare prāṇodaye carati samullasya bāhyaṁ prakāśayati \\ dhārāyāmň niśāyām apānodaye \[illegible\] meyagrāmarūpah caret pramāṇaprakāśam āviśya pramātraikātmyam eti || tad ittham ahorātramadhye ---- candrasūryodayo hy eṣa mayā te parikirtītah || sādhakānā saumyetarasiddhyartham atraiva madhye sūryodayoktavad grahapañcakodayakramari darśayati -- “‘When (the breath) reaches the lotus of the heart, that is (dawn), the time of the (first) light (of day) \[illegible\] \` There also ‘ʻO fair lady, thus for half a tuṭi, the preceding part of the conjunction (pūrvasandhyā) takes place.” (7/39) This should be explained as before. Here (it is said that) it is the preceding part of the conjunction, because after that the Day, which is the rising of the Sun of exhalation (prāṇa), begins. As he says: ‘From that, the rising of the Sun occurs again. O auspicious lady, as before, it always moves in due order. The Sun moves during the Day and the Moon moves during the Night.” (7/40-41ab) Exhalation is the Sun and inhalation is the Moon. Now, the Sun, which is the senses, moves during the Day, that is, when exhalation is rising. Having come forth, it illumines the outer (world). During the Night, that is, when inhalation arises, the Moon, which is the aggregate of objects, moves, that is, having penetrated the light of the means of knowledge, it becomes one with the subject. Thus, in this way, in between Day and Night: ‘T have told you about this arising of the Moon and the Sun.” (7/41cd) In order that adepts may attain the accomplishment of the Moon and the other (i.e. the Sun) here itself in the middle (of the flow of the breath), he explains the sequence of the arising of the five planets as he has taught that of the Sun (and Moon). bhaumādyāś ca grahā hy evam caranti pravibhāgaśah | yathā sadā bahir antaś ca dinaniśayoh sūryasomau caratah, tathā sadaiva pañcadhā pañcadhā vibhaktayos tayoh bhaumādyāh saurāntāh pañca vibhāgakrameṇa caranti, tena ca krūrasaumyasiddhyaigaṁ bhavanti || atha bāhyavelāvārānusāram = \[illegible\] niśāyāṁ cāntar api grahasaptakodayam gārudādiśāstradrṣtanyāyena darśayati ---- prāṇe cāpy udayanty ete prahare prahare priye || velā vāro bhaved yasya sa caret praharadvayam | ‘‘The planets beginning with Mars move in the same way, in accord with their distribution (pravibhāgaśah).’ (42ab) Just as the Sun and Moon of Day and Night move constantly externally and internally, in the same way, these two divided in groups of five, that is, the (planets) beginning with Mars and ending with Saturn (saura), move in accord with the sequence of five divisions. Thus, also, they are associated with nefast (krūra) or auspicious (saumya) consequences. Now (the Lord) explains, according to the view of the Gāruda and other scriptures, (how) the seven planets arise within a Day and a Night in terms of the outer time and days of the week (vāra). ‘And these (planets), O beloved, arise in the breath also every prahara (three hours). The one whose time (velã) is the day (of the week of that planet) (vāra) moves for two praharas (i.e. six hours).’ (42cd-43ab) yasya grahasya bahir vārah, sa prathame prahare bahir iva antar apy udeti | tato dine ṣatparivartanakramenṇa ardhe ‘rdhe prahare tadanye, yāvad antye taddinārdhaprahare sa eva | taduttareṣv asareṣu (> apareṣu) krameṇa pañcaparivrttikramenānye, yāvad antye tan niśārdhaprahare sa eva | evam ekaikasya grahasya dine ‘rdhapraharańn rātrāv ardhapraharari codayah | vārabhāginas tu dvigunam iti sthite ‘horātramelanayā vārabhāginah praharadvayam, tad anyeṣāṁ tu praharam udayo bhavati | tad ukta śrītotule
+#### Viveka on 6.66–67
+
+[^142]: The planets and their corresponding days are: 1) Sun — Sunday, 2) Moon — Monday, 3) Mars — Tuesday, 4) Mercury - Wednesday, 5) Jupiter — Thursday, 6) Venus — Friday and 7) Saturn — Saturday. Rāhu and Ketu are included in the Sun and Moon respectively, and so their days are Sunday and Monday. Freedom Cole informs me that nowadays, ‘Rahu is generally asšociated with Saturday and Ketu with Tuesday so Sunday and Monday is not the way it is being used presently. In traditions that still exist in Thailand and Bali, Rāhu is associated with Wednesday and Ketu with Thursday’ (personal communication). Perhaps the associations were different in the past when the system was laid out in the Svacchandatantra. More likely the system here is meant simply to align the cycle of the breath with the planets, without caring to make it conform exactly to standard Indian astrology. Cole explains that the day-night can be divided into either 8 praharas, or the day into 8 ardha-praharas and the night into 8 ardha-praharas. In both divisions, the first portion is ruled by the lord of the day, and they are ordered variously according to different systems (see Appendix). This is Cole’s interpretation of the system possibly being referenced in Tantrāloka, based on the translations of the extensive commentary (which does not all indicate the same). Here the day lord is given 2 praharas, one put in the beginning of the day, and the other at the end of the day, and the night starts with the fifth planet in weekday order (vāracakra). \[Prahara | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday | 69AM | Sun | Moon | Mas | Meruy | Jupiter | Vems | Sawm | 912 | Moon | Mars | Meruy | Jupiter \[ Vems | Saum | Suw J 12-3PM\_| Mars | Mercury | Jupiter | ९१०५५ - Satun | Sun | Moon | 3-6PM\_\_| Mercury | Jupiter \_| Venus | Saum | Sun | Moon | Mas | | (णभ | Jupiter Venus | Saum | \_ 30७ | Moom | Mas | Meruy | 9-12 AM Venus | Saum | Sun | Moon | Mas | Meru Jupiter 12-3AM\_| Saum | Sun | Moon | Mas | Meruy | Jupiter | Venus 36AM\_| Sun | Moon | Mas | Meruy | Jupiter | Vems | Saum | 13 SvT 7/42-43 may have been Abhinava’s source for TĀ 6/66cd-67ab, or his source was closely related to it. Thus, in order to understand what is meant here, we may take the help of the Svacchandatantra, with Kṣṣemarāja’s commentary. These are as follows: hṛtpadmari tu yadā prāptaḥ prabhātasamayas tadā | tatrāpi--- tuṭyardhaṁ tu varārohe pūrvasaridhyā bhavet tataḥ || etat pūrvavad vyākhyeyam | pūrvatvam atra saridhyāyās tadanantara prāṇasūryodayātmakadinaprārambhāt || yad āha tasmāt samudayaś caiva sūryasya sa bhavet punaḥ | pūrvavat kramayogena ca cared dhi sadā śubhe ॥ vāsare tu caret sūryo dhārāyāṁ sañcarec chaśī | prāṇa eva sūryaḥ apānas tu candraḥ | atha ca sūrya indriyavargo vāsare prāṇodaye carati samullasya bāhyaṁ prakāśayati \\ dhārāyāṁ niśāyām apānodaye \[illegible\] meyagrāmarūpaḥ caret pramāṇaprakāśam āviśya pramātraikātmyam eti || tad ittham ahorātramadhye ---- candrasūryodayo hy eṣa mayā te parikirtītaḥ || sādhakānā saumyetarasiddhyartham atraiva madhye sūryodayoktavad grahapañcakodayakramari darśayati -- “‘When (the breath) reaches the lotus of the heart, that is (dawn), the time of the (first) light (of day) \[illegible\] \` There also ‘ʻO fair lady, thus for half a tuṭi, the preceding part of the conjunction (pūrvasandhyā) takes place.” (7/39) This should be explained as before. Here (it is said that) it is the preceding part of the conjunction, because after that the Day, which is the rising of the Sun of exhalation (prāṇa), begins. As he says: ‘From that, the rising of the Sun occurs again. O auspicious lady, as before, it always moves in due order. The Sun moves during the Day and the Moon moves during the Night.” (7/40-41ab) Exhalation is the Sun and inhalation is the Moon. Now, the Sun, which is the senses, moves during the Day, that is, when exhalation is rising. Having come forth, it illumines the outer (world). During the Night, that is, when inhalation arises, the Moon, which is the aggregate of objects, moves, that is, having penetrated the light of the means of knowledge, it becomes one with the subject. Thus, in this way, in between Day and Night: ‘T have told you about this arising of the Moon and the Sun.” (7/41cd) In order that adepts may attain the accomplishment of the Moon and the other (i.e. the Sun) here itself in the middle (of the flow of the breath), he explains the sequence of the arising of the five planets as he has taught that of the Sun (and Moon). bhaumādyāś ca grahā hy evam caranti pravibhāgaśaḥ | yathā sadā bahir antaś ca dinaniśayoḥ sūryasomau carataḥ, tathā sadaiva pañcadhā pañcadhā vibhaktayos tayoḥ bhaumādyāḥ saurāntāḥ pañca vibhāgakrameṇa caranti, tena ca krūrasaumyasiddhyaigaṁ bhavanti || atha bāhyavelāvārānusāram = \[illegible\] niśāyāṁ cāntar api grahasaptakodayam gārudādiśāstradṛṣtanyāyena darśayati ---- prāṇe cāpy udayanty ete prahare prahare priye || velā vāro bhaved yasya sa caret praharadvayam | ‘‘The planets beginning with Mars move in the same way, in accord with their distribution (pravibhāgaśaḥ).’ (42ab) Just as the Sun and Moon of Day and Night move constantly externally and internally, in the same way, these two divided in groups of five, that is, the (planets) beginning with Mars and ending with Saturn (saura), move in accord with the sequence of five divisions. Thus, also, they are associated with nefast (krūra) or auspicious (saumya) consequences. Now (the Lord) explains, according to the view of the Gāruda and other scriptures, (how) the seven planets arise within a Day and a Night in terms of the outer time and days of the week (vāra). ‘And these (planets), O beloved, arise in the breath also every prahara (three hours). The one whose time (velā) is the day (of the week of that planet) (vāra) moves for two praharas (i.e. six hours).’ (42cd-43ab) yasya grahasya bahir vāraḥ, sa prathame prahare bahir Śiva antar apy udeti | tato dine ṣatparivartanakramenṇa ardhe ‘rdhe prahare tadanye, yāvad antye taddinārdhaprahare sa eva | taduttareṣv asareṣu (> apareṣu) krameṇa pañcaparivṛttikramenānye, yāvad antye tan niśārdhaprahare sa eva | evam ekaikasya grahasya dine ‘rdhapraharańn rātrāv ardhapraharari codayaḥ | vārabhāginas tu dvigunam iti sthite ‘horātramelanayā vārabhāginaḥ praharadvayam, tad anyeṣāṁ tu praharam udayo bhavati | tad ukta śrītotule
 
 *[p. 280]* ^pg295
 
 *[p. 281]* ^pg296
 
-praharārdhabhujah sarve ‘horātrar ca caranti te | iti | atraiva madhye ---- rāhuś carati somena ketuś carati bhāsvatā || 43 || ahety arthah | tena taccāra eva tayoś cārah | na tu grahāntaravad vyatiriktah | 43 || kim ca ---- The planet that has (a corresponding) external weekday arises in the first prahara internally as it does externally. Thus, during the day, in accord with the sequence in which the six (other planets) change, those other than (the initial main one) each (rises) for half a prahara until, in the final half prahara of that day, it is that same (planet with which the series begins for each day of the week). In the other ones that follow after that sequentially, that is, in accord with the sequence of the five (planets) recurrences, until the same (planet arises at the beginning of the night) in the final half prahara of that Night. In this way, each planet arises for half a prahara during the day and half a prahara at night. (The planets) that are those of a (particular) day (vāra) (rise for) double (the time). This being so, by combining Day and Night, (they do so for) two praharas, (whereas) the arising of those other than that is for (just one) prahara. That is said in the venerable Totula: “Those who move (during the) Day and Night all last for half a prahara. Here amongst (the planets): ‘Rāhu moves with the Moon and Ketu moves with the Sun.’ (43cd) Thus, that movement (of the Sun and Moon) is their movement. (Their motion) is not separate like that of other \[illegible\] SvT 7/42-43 is incorporated into the Ṣaṭsahasahasrasaṁhitā (10/64cd-65ab) with no significant variants. They appear in the context of explaining a form of Padmamudrā according to what is termed there as the jyotiṣakrama — the procedure in terms of the celestial luminaries. The anonymous commentary (vyākhya) on the ṢSS, which is reproduced with some minor clarifications in the vidhāna (also called Tīkā) of Rudraśiva, offers a clear and explanation. The verses state: bhaumādyaś ca grahā hy evar caranti pravibhāgaśah ॥ 10/64cd prāṇaike udayanty ete prahare prahare priye | velāvāro bhaved yasya \[k kh gh: yastu\] sa bhavet \[k: sabhavet\] praharadvayam \\\\ ṢSS 10/65 rāhuś carati some tu ketuś carati bhāskare | ‘The planets beginning with Mars move in the same way, in accord with their distribution (pravibhāgaśah). These (planets), O beloved, arise each prahara (three hours) in a single breath. The one whose time (velā) is the day (of the week of that planet) (vāra) moves for two praharas (i.e. six hours). Rāhu moves within the Moon and Ketu moves within the Sun.” (10/64cd-65) 555 10/64cd = SvT 7/42ab with no variants. The 595 reads prāṇaike — ‘in the one breath’ for prāṇe cāpy — ‘and in the breath also’. This is not a meaningful variant. Where the SvT reads velāvāro — ‘The one whose time (velā) is the day (of the week of that planet) \[illegible\] An interesting, perhaps significant variant in the 555 reads velācāro for velāvāro, concerning which see below.
+praharārdhabhujaḥ sarve ‘horātrar ca caranti te | iti | atraiva madhye ---- rāhuś carati somena ketuś carati bhāsvatā || 43 || ahety arthaḥ | tena taccāra eva tayoś cāraḥ | na tu grahāntaravad vyatiriktaḥ | 43 || kim ca ---- The planet that has (a corresponding) external weekday arises in the first prahara internally as it does externally. Thus, during the day, in accord with the sequence in which the six (other planets) change, those other than (the initial main one) each (rises) for half a prahara until, in the final half prahara of that day, it is that same (planet with which the series begins for each day of the week). In the other ones that follow after that sequentially, that is, in accord with the sequence of the five (planets) recurrences, until the same (planet arises at the beginning of the night) in the final half prahara of that Night. In this way, each planet arises for half a prahara during the day and half a prahara at night. (The planets) that are those of a (particular) day (vāra) (rise for) double (the time). This being so, by combining Day and Night, (they do so for) two praharas, (whereas) the arising of those other than that is for (just one) prahara. That is said in the venerable Totula: “Those who move (during the) Day and Night all last for half a prahara. Here amongst (the planets): ‘Rāhu moves with the Moon and Ketu moves with the Sun.’ (43cd) Thus, that movement (of the Sun and Moon) is their movement. (Their motion) is not separate like that of other \[illegible\] SvT 7/42-43 is incorporated into the Ṣaṭsahasahasrasaṁhitā (10/64cd-65ab) with no significant variants. They appear in the context of explaining a form of Padmamudrā according to what is termed there as the jyotiṣakrama — the procedure in terms of the celestial luminaries. The anonymous commentary (vyākhya) on the ṢSS, which is reproduced with some minor clarifications in the vidhāna (also called Tīkā) of Rudraśiva, offers a clear and explanation. The verses state: bhaumādyaś ca grahā hy evar caranti pravibhāgaśaḥ ॥ 10/64cd prāṇaike udayanty ete prahare prahare priye | velāvāro bhaved yasya \[k kh gh: yastu\] sa bhavet \[k: sabhavet\] praharadvayam \\\\ ṢSS 10/65 rāhuś carati some tu ketuś carati bhāskare | ‘The planets beginning with Mars move in the same way, in accord with their distribution (pravibhāgaśaḥ). These (planets), O beloved, arise each prahara (three hours) in a single breath. The one whose time (velā) is the day (of the week of that planet) (vāra) moves for two praharas (i.e. six hours). Rāhu moves within the Moon and Ketu moves within the Sun.” (10/64cd-65) 555 10/64cd = SvT 7/42ab with no variants. The 595 reads prāṇaike — ‘in the one breath’ for prāṇe cāpy — ‘and in the breath also’. This is not a meaningful variant. Where the SvT reads velāvāro — ‘The one whose time (velā) is the day (of the week of that planet) \[illegible\] An interesting, perhaps significant variant in the 555 reads velācāro for velāvāro, concerning which see below.
 
 *[p. 282]* ^pg297
 
-vyākhyā: bhaumādyāh bhaumah \[kh gh: -ma\] budhah \[kh gh: vudha\] brhaspatih \[kh gh: -ti\] śukrah \[k, kh: śukra; gh: śuklah\] śaniścarah \[kh: śanih + \*\] pūrvoktasūryasomagatirūpatvena \[k, kh: pūrvoktau sūryasomau -; kh: gatirūīpeṇa\] caraṇaṁ yathā prahare prahare prāṇaikamadhye cintanīyam || yathā —The commentary explains: ‘‘The planets beginning with Mars’ are Mars, Mercury, Jupiter, Venus, and Saturn. (Their) movement, which is in same manner as that of the Sun and Moon taught previously (as exhalation and inhalation), should be thought (cintanīya) (to be) for each prahara in the middle of a single breath. How so? yathā — yadi ādityasya velā vārah tadā prathamaprahararn ādityasya hrdayāt kanthādhastryaṁgulari yāvat 1 \\\\ dvitīyapraharaṁ candrasya tāluke 2 \\\\ trtīyapraharaṁi bhaumasya lalāṭamadhye 3 || 29b gh) caturthapraharam budhasya śaktyante || 4 || rātrau punah prathamapraharar brhaspateh śaktyante 5 || dvitīyaprahare \[kh gh: -ra\] śukrasya \[k gh: śuklasya\] lalātamadhye 6 \[k: ī\] \\\\ trtīyapraharam saniścarasya \[kh: śaniścarasyānte\] tāluke \[gh: tālumadhye\] 7 | hrtpadme \[k kh g gh: ~ dmarh\] punah sūryasya 8 \[gh: nāsti\] | tasmāt \[kh: + punah\] sūryasya \[k g: sūrya \*\] praharadvayarh \[k: prahararh\] bhavati | anyeṣāṁ praharaikam \[kh: prahara; gh: praharamekar\] \\\\ If the one whose time (velā) is the day (of the week of that planet) (vāra) is the Sun, then 1) the first prahara is that of the Sun, (the motion of which) begins from the Heart and extends up to three fingers above the throat. 2) The second prahara is that of the Moon, which is in the palate. 3) The third prahara is that of Mars, in the middle of the forehead. 4) The fourth prahara is that of Mercury, in the End of Śakti. 5) Again, at Night, in the first prahara, which is that of Jupiter, it is in the end of Śakti. 6) In the second prahara, which is that of Venus, it is in the middle of the forehead. 7) The third prahara is that of Saturn. 8) Again, that of the Sun is in the lotus of the heart. Thus, the Sun has two praharas. The others have one prahara. atha \[kh: arddha\] candrasya yadi velā vārah \[k: -cārah; gh: -ra\] tadā \[gh: tathā\] prathamapraharari \[k: \* + \* praharańi\] candrasya | dvitīyapraharaṁ \[kh g: dvitīyaṁ \* \* \* ; gh: dvitīya \* \* \*\] bhaumasya || \[illegible\] \[gh: -ya\] budhasya || caturthah \[gh: -rtha\] brhaspateh \[gh: -pati\] || rātrau punah \[k: nāsti\] prathamapraharar \[k g: nāsti; kh: \[illegible\] \* \* \*; gh: prathama \* \* \*; k: + punah\] śukrasya \[gh: śuklasya\] \\\\ dvitīyah \[gh: -ya\] śanaiścarasya \[kh: śaniścarasya; gh: Śaniścara\] | \[illegible\] \[gh: -ya\] ādityasya M caturtharh \[gh: -rtha\] candrasya tasmāc candrasya praharadvayarh bhavati \[kh: \* iti\] N 20b g) sthānam \[illegible\] Ž \[kh: sthānah \* \*\] pūrvavat śeṣam anyeṣām \[kh: nāsti; g: seṣūmanyeṣār; gh: śeṣamanyeṣā\] grahāṇāri \[k: grahaṇnam; kh: nāsti; g: grahaṇah; gh:\] evam eva \[kh: nāsti\] vistareṇa \[kh: iti prastāre prahare sarvveṣām eva; gh: -na\] cintanīyam || (kh 28a) yatra somas tatra \[kh: somah tatra; g: somartatra\] rāhuh ॥ yatra sūryas tatra \[kh: sūryyah tatra; gh: sūryatatra\] ketuh \[gh: ketu\] || iti grahāh \[g gh: grahā\] \\\\ Now, if the one whose time (velā) is the day (of the week of that planet) (vāra) is the Moon, then the first prahara is that of the Moon. The second prahara is that of Mars, the third of Mercury, and the fourth of Jupiter. Again, at Night, the first prahara belongs to Venus, the second to Saturn, the third to the Sun, and the fourth to the Moon. Thus, the Moon has two praharas. Their locations are as before. The rest of the grahas should be thought of extensively in the same way. Where the Moon is, there is Rāhu and where the Sun is, there is Ketu. Such are the planets.”
+vyākhyā: bhaumādyāḥ bhaumaḥ \[kh gh: -ma\] budhaḥ \[kh gh: vudha\] bṛhaspatiḥ \[kh gh: -ti\] śukraḥ \[k, kh: śukra; gh: śuklaḥ\] śaniścaraḥ \[kh: śaniḥ + \*\] pūrvoktasūryasomagatirūpatvena \[k, kh: pūrvoktau sūryasomau -; kh: gatirūīpeṇa\] caraṇaṁ yathā prahare prahare prāṇaikamadhye cintanīyam || yathā —The commentary explains: ‘‘The planets beginning with Mars’ are Mars, Mercury, Jupiter, Venus, and Saturn. (Their) movement, which is in same manner as that of the Sun and Moon taught previously (as exhalation and inhalation), should be thought (cintanīya) (to be) for each prahara in the middle of a single breath. How so? yathā — yadi ādityasya velā vāraḥ tadā prathamaprahararn ādityasya hṛdayāt kanthādhastryaṁgulari yāvat 1 \\\\ dvitīyapraharaṁ candrasya tāluke 2 \\\\ tṛtīyapraharaṁi bhaumasya lalāṭamadhye 3 || 29b gh) caturthapraharam budhasya śaktyante || 4 || rātrau punaḥ prathamapraharar bṛhaspateḥ śaktyante 5 || dvitīyaprahare \[kh gh: -ra\] śukrasya \[k gh: śuklasya\] lalātamadhye 6 \[k: ī\] \\\\ tṛtīyapraharam saniścarasya \[kh: śaniścarasyānte\] tāluke \[gh: tālumadhye\] 7 | hṛtpadme \[k kh g gh: ~ dmaṁ\] punaḥ sūryasya 8 \[gh: nāsti\] | tasmāt \[kh: + punaḥ\] sūryasya \[k g: sūrya \*\] praharadvayaṁ \[k: praharaṁ\] bhavati | anyeṣāṁ praharaikam \[kh: prahara; gh: praharamekar\] \\\\ If the one whose time (velā) is the day (of the week of that planet) (vāra) is the Sun, then 1) the first prahara is that of the Sun, (the motion of which) begins from the Heart and extends up to three fingers above the throat. 2) The second prahara is that of the Moon, which is in the palate. 3) The third prahara is that of Mars, in the middle of the forehead. 4) The fourth prahara is that of Mercury, in the End of Śakti. 5) Again, at Night, in the first prahara, which is that of Jupiter, it is in the end of Śakti. 6) In the second prahara, which is that of Venus, it is in the middle of the forehead. 7) The third prahara is that of Saturn. 8) Again, that of the Sun is in the lotus of the heart. Thus, the Sun has two praharas. The others have one prahara. atha \[kh: arddha\] candrasya yadi velā vāraḥ \[k: -cārah; gh: -ra\] tadā \[gh: tathā\] prathamapraharari \[k: \* + \* praharańi\] candrasya | dvitīyapraharaṁ \[kh g: dvitīyaṁ \* \* \* ; gh: dvitīya \* \* \*\] bhaumasya || \[illegible\] \[gh: -ya\] budhasya || caturthaḥ \[gh: -rtha\] bṛhaspateḥ \[gh: -pati\] || rātrau punaḥ \[k: nāsti\] prathamapraharar \[k g: nāsti; kh: \[illegible\] \* \* \*; gh: prathama \* \* \*; k: + punaḥ\] śukrasya \[gh: śuklasya\] \\\\ dvitīyaḥ \[gh: -ya\] śanaiścarasya \[kh: śaniścarasya; gh: Śaniścara\] | \[illegible\] \[gh: -ya\] ādityasya M caturthaṁ \[gh: -rtha\] candrasya tasmāc candrasya praharadvayaṁ bhavati \[kh: \* iti\] N 20b g) sthānam \[illegible\] Ž \[kh: sthānaḥ \* \*\] pūrvavat śeṣam anyeṣām \[kh: nāsti; g: seṣūmanyeṣār; gh: śeṣamanyeṣā\] grahāṇāri \[k: grahaṇnam; kh: nāsti; g: grahaṇaḥ; gh:\] evam eva \[kh: nāsti\] vistareṇa \[kh: iti prastāre prahare sarvveṣām eva; gh: -na\] cintanīyam || (kh 28a) yatra somas tatra \[kh: somaḥ tatra; g: somartatra\] rāhuḥ ॥ yatra sūryas tatra \[kh: sūryyaḥ tatra; gh: sūryatatra\] ketuḥ \[gh: ketu\] || iti grahāḥ \[g gh: grahā\] \\\\ Now, if the one whose time (velā) is the day (of the week of that planet) (vāra) is the Moon, then the first prahara is that of the Moon. The second prahara is that of Mars, the third of Mercury, and the fourth of Jupiter. Again, at Night, the first prahara belongs to Venus, the second to Saturn, the third to the Sun, and the fourth to the Moon. Thus, the Moon has two praharas. Their locations are as before. The rest of the grahas should be thought of extensively in the same way. Where the Moon is, there is Rāhu and where the Sun is, there is Ketu. Such are the planets.”
 
 *[p. 283]* ^pg298
 
-By associating Rāhu within the Moon and Ketu within the Sun, the nine grahas are reduced to seven, that are distributed into eight watches — praharas. This is done as follows. Each Day of exhalation (prāṇa) consists of a Day and Night, as does each Night of inhalation. There are four half watches for each one of them. These correspond to locations of the planets in the centres within the subtle body that are traversed by the flow of the breath. If we adopt the variant velācāro for velāvāro, the meaning would be: ‘The one (of which these are) the motion in time (velācāra)’, instead of ‘the one whose time (velā) is the day (of the week of that planet) (vāra). If that is so, then the movement (cāra or gati) of the breath intended is that of the Sun of the exhalation of prāṇa and the Moon of the inhalation of apāna. Looking at these tables, it is clear that the planets of which the others form a part of their motion in time (velācāra), that is, the Sun during the Day of exhalation \[illegible\] and the Moon during the Night of inhalation, take up two half watches each, and the others one each, half during the day and half during the night. Thus, the Lord of the Day, here the Sun or the Moon as the case may be, occupies the first place in the corresponding series, that is, the Sun in the heart that rises upwards, and the Moon at sunset that moves downwards. The remaining six planets have six ‘mutations’, distributed in the other three places that they occupy in pairs, one for their Day and the other the Night. Thus, they cover half a watch each. The Lords of the Day each appear twice, at the beginning and end of their Day and Night, in their respective places. Note that the place called ś\$aktyanta in the ṢȘSS is said there to be ‘the End of the Twelve above the head’. (Saktyantah dvādaśāntam iti and aśaktyantah mastakopari commentary on 10/64ab) The Day and Night of Exhalation (prāna) End of the Twelve Palate A) In consonance with the movement of the Day of the Sun (of prānṇa). During the Day: 1. In the first watch (prahara) the Sun moves up from the heart to the throat. 2. In the second, the Moon is in the palate. 3. In the third, Mars (bhauma) is on the forehead. 4. In the fourth, Mercury (budha) is in Śakti (in the End of the Twelve).
+By associating Rāhu within the Moon and Ketu within the Sun, the nine grahas are reduced to seven, that are distributed into eight watches — praharas. This is done as follows. Each Day of exhalation (prāṇa) consists of a Day and Night, as does each Night of inhalation. There are four half watches for each one of them. These correspond to locations of the planets in the centres within the subtle body that are traversed by the flow of the breath. If we adopt the variant velācāro for velāvāro, the meaning would be: ‘The one (of which these are) the motion in time (velācāra)’, instead of ‘the one whose time (velā) is the day (of the week of that planet) (vāra). If that is so, then the movement (cāra or gati) of the breath intended is that of the Sun of the exhalation of prāṇa and the Moon of the inhalation of apāna. Looking at these tables, it is clear that the planets of which the others form a part of their motion in time (velācāra), that is, the Sun during the Day of exhalation \[illegible\] and the Moon during the Night of inhalation, take up two half watches each, and the others one each, half during the day and half during the night. Thus, the Lord of the Day, here the Sun or the Moon as the case may be, occupies the first place in the corresponding series, that is, the Sun in the heart that rises upwards, and the Moon at sunset that moves downwards. The remaining six planets have six ‘mutations’, distributed in the other three places that they occupy in pairs, one for their Day and the other the Night. Thus, they cover half a watch each. The Lords of the Day each appear twice, at the beginning and end of their Day and Night, in their respective places. Note that the place called śaktyanta in the ṢṢSS is said there to be ‘the End of the Twelve above the head’. (Saktyantah dvādaśāntam iti and aśaktyantaḥ mastakopari commentary on 10/64ab) The Day and Night of Exhalation (prāna) End of the Twelve Palate A) In consonance with the movement of the Day of the Sun (of prānṇa). During the Day: 1. In the first watch (prahara) the Sun moves up from the heart to the throat. 2. In the second, the Moon is in the palate. 3. In the third, Mars (bhauma) is on the forehead. 4. In the fourth, Mercury (budha) is in Śakti (in the End of the Twelve).
 
 *[p. 284]* ^pg299
 
-At night: 1. In the first watch Jupiter (brhaspati) is in Śakti (in the End of the Twelve). 2. In the second, Venus (śukra) is on the forehead. 3. In the third, Saturn (śanaiścara) is in the palate. 4. In the fourth, the Sun is in the heart. The Day and Night of Exhalation (apāna) B) In consonance with the movement of the Night of the Moon (of apāna). At Night of exhalation: At Night: o 1. The first watch is that of the Moon in Sakti. 2. The second Mars on the forehead. 3. The third Mercury in the palate. 4. The fourth Jupiter in the heart. During the Day: 1. The first watch is that of Venus in the heart. 2. The second Saturn is in the palate. 3. The third the Sun is on the forehead.
+At night: 1. In the first watch Jupiter (bṛhaspati) is in Śakti (in the End of the Twelve). 2. In the second, Venus (śukra) is on the forehead. 3. In the third, Saturn (śanaiścara) is in the palate. 4. In the fourth, the Sun is in the heart. The Day and Night of Exhalation (apāna) B) In consonance with the movement of the Night of the Moon (of apāna). At Night of exhalation: At Night: o 1. The first watch is that of the Moon in Sakti. 2. The second Mars on the forehead. 3. The third Mercury in the palate. 4. The fourth Jupiter in the heart. During the Day: 1. The first watch is that of Venus in the heart. 2. The second Saturn is in the palate. 3. The third the Sun is on the forehead.
 
 143\. The fourth the Moon is in Śakti. By combining these locations, the grahas are distributed as follows. The Sun of Exhalation (prāṇa) Heart — Sun twice Palate — Moon and Saturn Forehead ~ Mars and Venus Śakti (End of the Twelve above the head) - Mercury and Jupiter The Moon of Inhalation Śakti (End of the Twelve) - Moon twice Forehead ~ Mars and the Sun Palate ~ Mercury and Saturn Heart — Venus and Jupiter Otherwise, we may consider, and this is probably better, that each cycle begins with each planet in succession, that assumes the role of the Lord of the Day. Indeed, it appears that the commentary is directing us to do that. If so, for example, the next Lord of the Day would be Mars, Tuesday’s planet. In that case, the sequence would be as follows. Day: Heart - Mars Palate — Mercury Forehead — Jupiter Śakti (End of the Twelve) - Venus Night: Śakti (End of the Twelve) — Saturn Forehead ~ Sun Palate - Moon Heart - Mars Combined: Heart ~ Mars twice Palate - Mercury and Moon Forehead ~ Jupiter and Sun Śakti (End of the Twelve) - Venus and Saturn The same procedure is applied to all the planets mutatis mutandis. In this way it would take seven cycles to get back to the starting point. If this is so, then this manner of cultivating attention on the breathing cycle differs from all the others taught in this chapter, as they all focus on a single breathing cycle.
 
@@ -748,7 +880,7 @@ Ketu is included within the Sun (of the exhaled breath), and in the same way Rā
 
 1\#Rāhu moves within the Moon and Ketu moves within the Sun." + 
 
-144\. The version in the Svacchandatantra reads: bhaumādyāś ca grahā hy evar caranti pravibhāgaśah | prānṇe cāpy udayanty ete prahare prahare priye || velāvāro bhaved yasya sa caret praharadvayam | rāhuś carati somena ketuś carati bhāsvatā || ‘The planets beginning with Mars move in the same way, in accord with their distribution (pravibhāgaśah). And these (planets), O beloved, arise in the breath also every prahara (three hours). The one whose time (velā) is the day (of the week of that planet) (vāra) moves for two praharas (i.e. six hours). Rāhu moves with the Moon and Ketu moves with the Sun.’ SvT 7/42cd-43 The version in the Ṣatsahasahasrasaṁhitā reads: bhaumādyaś ca grahā hy evar caranti pravibhāgaśah ॥ prāṇaike udayanty ete prahare prahare priye | velācāro bhaved yasya \[k kh gh: yastu\] sa bhavet \[k: sambhavet\] praharadvayam \\\\ rāhuś carati some tu ketuś carati bhāskare | ‘The planets beginning with Mars move in the same way, in accord with their distribution (pravibhāgaśah). These (planets), O beloved, arise in the one breath every prahara (three hours). The one of which these are the motion in time (velācāra) has two watches (of three hours each). Rāhu moves within the Moon and Ketu moves within the Sun.’ ṢSS 10/64cd-66ab
+144\. The version in the Svacchandatantra reads: bhaumādyāś ca grahā hy evar caranti pravibhāgaśaḥ | prānṇe cāpy udayanty ete prahare prahare priye || velāvāro bhaved yasya sa caret praharadvayam | rāhuś carati somena ketuś carati bhāsvatā || ‘The planets beginning with Mars move in the same way, in accord with their distribution (pravibhāgaśaḥ). And these (planets), O beloved, arise in the breath also every prahara (three hours). The one whose time (velā) is the day (of the week of that planet) (vāra) moves for two praharas (i.e. six hours). Rāhu moves with the Moon and Ketu moves with the Sun.’ SvT 7/42cd-43 The version in the Ṣatsahasahasrasaṁhitā reads: bhaumādyaś ca grahā hy evar caranti pravibhāgaśaḥ ॥ prāṇaike udayanty ete prahare prahare priye | velācāro bhaved yasya \[k kh gh: yastu\] sa bhavet \[k: sambhavet\] praharadvayam \\\\ rāhuś carati some tu ketuś carati bhāskare | ‘The planets beginning with Mars move in the same way, in accord with their distribution (pravibhāgaśaḥ). These (planets), O beloved, arise in the one breath every prahara (three hours). The one of which these are the motion in time (velācāra) has two watches (of three hours each). Rāhu moves within the Moon and Ketu moves within the Sun.’ ṢSS 10/64cd-66ab
 
 145\. SvT 7/43cd. This is why a solar eclipse occurs during a New Moon (amāvasyā) and the lunar on a Full Moon. Accordingly, Rāhu and Ketu are not counted separately from the Moon and Sun; thus reducing the grahas to seven.
 
@@ -770,13 +902,17 @@ Again ‘(the graha) such as Mars (corresponding to Tuesday), that has the statu
 
 He states the fruits (of each one) in due order, beginning with the first half prahara: 
 
+### TĀ 6.67–68
+
 सिद्धिर्दवीयसी मोक्षोऽभिचारः पारलौकिकी ॥ ६७ ॥
 एहिकी टूरवैकस्यातिशया प्रहराष्टके ।
 
-siddhir davīyasī mokṣo ‘bhicārah pāralaukikī ॥ 67 ॥
+siddhir davīyasī mokṣo ‘bhicāraḥ pāralaukikī ॥ 67 ॥
 ehikī dūranaikaṭyātiśayā praharāṣṭake \\ 
 
 The results (of practice in) the eight praharas are 1) minor accomplishment (siddhi), 2) liberation, 3) magic, 4) (perfection) in the next world, and 5) in this world, 6) extremely distant and 7) proximate excellence. (67cd-68ab) 
+
+#### Viveka on 6.67–68
 
 (The 
 
@@ -786,17 +922,21 @@ seven kinds, beginning with minor
 
 accomplishments.” 
 
-Surely (one may ask), if a conjunction arises four times, why is it said to do so twice?TM\* With this question in mind, he says: 
+Surely (one may ask), if a conjunction arises four times, why is it said to do so twice?\* With this question in mind, he says: 
 
 148\. The fruits of only the first seven are noted here, presumably because the first and the last half prahara are undivided from the rest and so do not give any specific fruit.
 
 
 *[p. 288]* ^pg303
 
+### TĀ 6.68
+
 मध्याहमध्यनिशयोरभिजिन्मोक्षभोगदा ॥ ६८ ॥
 madhyāhnamadhyaniśayor abhijin mokṣabhogadā ॥ 68 ॥ 
 
-AbhijitTM bestows liberation and worldly benefits at middayTMTM and midnight. (68cd) 
+Abhijit bestows liberation and worldly benefits at midday and midnight. (68cd) 
+
+#### Viveka on 6.68
 
 Abhijit is a particular constellation that overcomes (abhijayati) all obstacles.” As is said (in the Svacchandatantra): 
 
@@ -812,10 +952,14 @@ One should understand that that takes place in the palate. As is said (there):
 
 The other constellations beginning with Aśvinī also arise here (in the breathing cycle), not just Abhijit. Thus, he says: 
 
-नक्षत्राणां तटन्येषामुदयो मध्यतः क्रमात् ।
-nakṣatrāṇār tadanyeṣām udayo madhyatah kramāt | 
+### TĀ 6.69
 
-The constellationsTMTM and those (celestial bodies) other than them arise progressively in the intermediate (hours). (69ab) 
+नक्षत्राणां तटन्येषामुदयो मध्यतः क्रमात् ।
+nakṣatrāṇār tadanyeṣām udayo madhyataḥ kramāt | 
+
+The constellations and those (celestial bodies) other than them arise progressively in the intermediate (hours). (69ab) 
+
+#### Viveka on 6.69
 
 149\. Jayaratha omits the conjunction at midday, referring to only the conjunction (sandhi) between day and night. Normally these are considered to be two each. Each takes up half a unit of the day and half of the night, making four for both. In this case, there are only two units — Rāhu and Ketu — who take up half a unit each.
 
@@ -838,11 +982,13 @@ The constellationsTMTM and those (celestial bodies) other than them arise progre
 
 ‘O lady of good vows, the constellations, signs of the zodiac, stars and their aspects arise in the breath by Day and Night.” 
 
-'\*® 
+'\* 
 
 Here (in this case), the place where the constellations arise (extends for) one and a third finger’s breadth (for each constellation). One should conceive the place where the others arise in accord with their serial order. 
 
 Other things also arise during the eight praharas (i.e. twenty-four hours), not only the constellations. Thus, he says: 
+
+### TĀ 6.69–72
 
 नागा लोकेशमूर्तीशा गणेशा जठतत्त्वतः ॥ ६९ ॥
 प्रधानान्तं नायकाश्च विद्याततत्वाधिनायकाः |
@@ -851,12 +997,12 @@ Other things also arise during the eight praharas (i.e. twenty-four hours), not 
 अष्टावष्टौ ये य हत्थं व्याप्यव्यापकताजुषः ॥ ७१ ॥
 स्थूलसृक्षमाः क्रमात्तेषामुदयः प्रहराष्टके |
 
-nāgā lokeśamūrtīśā gaṇeśā jalatattvatah ॥ 69 ॥
-pradhānāntarni nāyakāś ca vidyātattvādhināyakāh |
+nāgā lokeśamūrtīśā gaṇeśā jalatattvataḥ ॥ 69 ॥
+pradhānāntarni nāyakāś ca vidyātattvādhināyakāḥ |
 sakalādyāś ca kanthyoṣthyaparyantā bhairavās tathā ॥ 70 ॥
-śaktayah pārameśvaryo vāmeśā vīranāyakāh |
-aṣtṭāv aṣṭau ye ya ittharn vyāpyavyāpakatājuṣah ॥ 71 ॥
-sthūlasūkṣmāh kramāt teṣām udayah praharāṣṭake | 
+śaktayaḥ pārameśvaryo vāmeśā vīranāyakāḥ |
+aṣtṭāv aṣṭau ye ya ittharn vyāpyavyāpakatājuṣaḥ ॥ 71 ॥
+sthūlasūkṣmāḥ kramāt teṣām udayaḥ praharāṣṭake | 
 
 In (the course of) the eight praharas, (the following) arise progressively in groups of eight, from gross to subtle, pervading one 
 
@@ -867,21 +1013,23 @@ In (the course of) the eight praharas, (the following) arise progressively in gr
 
 *[p. 290]* ^pg305
 
-another. (They are) 1) the Nāgas,'” 2) the Lords of the Directions,® 3) the Lords of the Bodies \[illegible\] 4) Gaṇeśas, 5) the Lords of the Principles from Water to Matter \[illegible\] 6)the Lords of the Principle of Knowledge (vidyātattva),® 7) (then the eight) Bhairavas from Sakala to Kanṭhyoṣthya,“\* (followed by) 8) the Supreme Lord’s energies, the Vāmeśās, who are the leaders of the heroes (vīranāyikā).TM“ (69cd-72ab) 
+another. (They are) 1) the Nāgas,'” 2) the Lords of the Directions, 3) the Lords of the Bodies \[illegible\] 4) Gaṇeśas, 5) the Lords of the Principles from Water to Matter \[illegible\] 6)the Lords of the Principle of Knowledge (vidyātattva), 7) (then the eight) Bhairavas from Sakala to Kanṭhyoṣthya,“\* (followed by) 8) the Supreme Lord’s energies, the Vāmeśās, who are the leaders of the heroes (vīranāyikā).“ (69cd-72ab) 
+
+#### Viveka on 6.69–72
 
 158\. Verses 6/69cd-70 are an abbreviated paraphrase of SvT 7/44-46. According to SvT 10/114 quoted below ad 8/30cd-31ab, the Nāgas reside in the netherworlds.
 
 159\. The Lords of the Directions are Indra (E), Agni (SE), Yama (S), Nirrti (SW), Varuna (W), Vāyu (NW), Kubera (N), \[illegible\] (NE), Brahmā (zenith) and Viṣṇu (or Ananta) (nadir). See also, below, 15/222cd-225ab and 30/42-43ab.
 
-160\. The eight ‘bodies’ (mūrti) of iva are Earth, Water, Wind, Fire, Space, the Moon, the Sun and the Self (as the Sacrificer). They are sustained by eight Rudras, who are the Lords of the Bodies. These are, respectively: Bhava, Śarva, Īśāna, Paśupati, Ugra, Rudra, Bhīma and Mahādeva. See Gonda 1965, p. 246. This group of eight was known to Kālidāsa, who mentions them in akuntalā 1/1 and Mālavikāgnimitra 1/1. Kālidāsa lived before Tantras began to be redacted, thus this set is not originally Tantric. Indeed, all these appear as names of Rudra in the Vedic hymn popularly called Satarudrīya (see bibliography). The names (listed below in 8/161) of a group of seven ivas who govern as many worlds, from the earth onwards (apart from Paśupati who represents the Sacrificer), are the same.
+160\. The eight ‘bodies’ (mūrti) of Śiva are Earth, Water, Wind, Fire, Space, the Moon, the Sun and the Self (as the Sacrificer). They are sustained by eight Rudras, who are the Lords of the Bodies. These are, respectively: Bhava, Śarva, Īśāna, Paśupati, Ugra, Rudra, Bhīma and Mahādeva. See Gonda 1965, p. 246. This group of eight was known to Kālidāsa, who mentions them in akuntalā 1/1 and Mālavikāgnimitra 1/1. Kālidāsa lived before Tantras began to be redacted, thus this set is not originally Tantric. Indeed, all these appear as names of Rudra in the Vedic hymn popularly called Satarudrīya (see bibliography). The names (listed below in 8/161) of a group of seven Śivas who govern as many worlds, from the earth onwards (apart from Paśupati who represents the Sacrificer), are the same.
 
 161\. See below, Chapter Eight.
 
 162\. \[illegible\] These are the Vidyeśvaras, who reside in the principle of Pure Knowledge (śuddhavidyā). The most important amongst them are Ananta, Sūkṣma, Śiva, Ekanetra, Ekarudra, Trimūrti, Śrīkaṇtha and Śikhandin. See below, 8/341-343, where they are listed.
 
-163\. The eight Bhairavas are Sakala, Niṣkala, Śūnya, Kālādhya Khamalaṁkrta, Kṣapaṇa, Kṣayāntastha and Kanṭhyauṣthya (SvT 10/1194). Concerning the eight Bhairavas, see below, 29/160cd-161ab.
+163\. The eight Bhairavas are Sakala, Niṣkala, Śūnya, Kālādhya Khamalaṁkṛta, Kṣapaṇa, Kṣayāntastha and Kanṭhyauṣthya (SvT 10/1194). Concerning the eight Bhairavas, see below, 29/160cd-161ab.
 
-164\. The eight groups of eight that Kṣemarāja finds in the corresponding passage of the SvT noted below do not fully coincide with those listed by Abhinava. The first three are the same. According to Kṣemarāja (SvTu ad 7/74-76), the Gaṇeśas are ‘those mentioned before beginning with Caṇdanandi.’ (te ca candanani libhih prāguktair gaṇeśaih). The only set mentioned before like this is at the beginning of the Tantra where they appear amongst the beings attending on Bhairava. However, they are not expressly said to be eight. The passage reads: kailāsaśikharāsīnaṁi bhairavari vigatāmayam | candanandi-mahākāla-gaṇeśa-vrṣa-bhrṁgibhih Il kumārendra-yamāditya-brahmaviṣṇupurahsaraih | stūyamānari maheśānan gaṇnamātrniṣevitam |l ‘Bhairava, who is free of disease (and imperfections), is seated on the peak of (mount) Kailāsa. He is the Great Lord attended by the hosts (gana) and the Mothers, and is lauded by Caṇdanandi and the rest, Mahākāla, Gaṇeśa, (his mount) the bull, Bhṛṅgī (the Bee), as well as Kumāra, Indra, Yama, and Aditya (the Sun), led by Brahmā and \[illegible\] SvT 1/1-2 The following group of eight is a set beginning with Guhya. They correspond to the principles from Water to Fundamental Nature. This also coincides with Abhinava’s presentation. In the SvT they are followed by the Yoga Rudras. They are located in the intellect, and, according to Kṣemarāja, include the eight Rudras in Nature (Prakrti) and Māyā. These do not appear to be represented in Abhinava’s presentation. The following two, the Vidyeśvaras and the eight Bhairavas, are the same in both the SvT and Abhinava’s presentation. The entries in the SvT end with the eight Bhairavas. The Lords of the Heroes are not mentioned there. Perhaps this is an epithet of all of them, but then we would be one group short. Indeed, if we accept the reading in the printed edition, we would have two or even three groups not mentioned in the SvT śaktayah pārameśvaryo vāmeśā vĪīranāyakāh | One possible translation is ‘the Supreme Lord’s energies, and the Vāmeśas, who are Lords of the Heroes’, or else even three: the energies, the Vāmeśas and Vīranāyakas. It would be better to take the energies of the Supreme Lord to be a separate group. The readings of MS C are not infrequently better than those of the other MSs and, indeed, sometimes of the edition. Here MS C reads vṛranāyikāh for vīranāyakāh. This reading would make vīranāyikāh, epithets of the energies of the Supreme Lord, who could be Vāmeśās. But this assumes an emendation to the correct form — vāmeśyah. Thus, the sentence would read śaktayah pārameśvaryo vāmeśyo vīranāyikāh. This means, it seems, that Abhinava has eliminated the Yogāṣtṭaka and inserted a final concluding group of eight encompassing energies. As each cycle of eight pervades the preceding, these eight energies pervade them all. As we can see from the Kṣemarāja’s explanation of these verses, he saw the groups of eight as covering the reality principles up to Sadāśiva and beyond, into the deities of ultimate reality (pāramārthikadeva). All of these he views from the higher nondual perspective as the unfolding expansion (sphāra) of Supreme Bhairava. Abhinava, it seems, prefers to present the cycles as pervaded by the Supreme Lord’s energies, even if it means making some adjustments to his source. Let us now examine that, namely, SvT 7/74-76, which reads: ye grahās te ca vai \*nāgā \*lokapālāṣṭakaṁ ca te | \*mĀūrtayaś caiva te cāṣṭāv aṣṭau te ca \*gaṇeśvarāh ॥ \*te ca pañcāṣṭakā rudrās tathā \*yogāṣṭakāh pare | \*anantādiśikhaṇdyantās te ca vidyeśvarāṣṭakāh Il \*sakalādyāni tattvāni sthitāni paratas tv iha | pūrvoktā bhairavāś cāṣṭau sarve te ca vyavasthitāh ॥ ‘The grahas (correspond) to 1) the Nāgas, 2) the group of eight guardians of the quarters, 3) the eight mārtis, and 4) the eight Ganṇeśvaras, those that are 5) the Rudras of the fifth groups of eight, so too, next, 6) the Group of Eight Yogas and (those) after (associated with them), 7) the group of eight Vidyeśvaras beginning with Ananta and ending with Śikhandin, as well as 8) the principles beginning with Sakala, are located here. After that come the eight Bhairavas mentioned previously. All these are present.’ (SvT 7/44-46) grahā ādityādayah saurāntā yathākramam anantavāsukitakṣakakārkota-padmamahāpadmaśamikhapālanāgāh, rāhus tu kulikah | tad uktam ---- (Kṣemarāja quotes the passage quoted by Jayaratha) \[. . .\] yaś ca śrītotule ---- raveh ṣodaśa madhyāt tu caturo ‘ntāc ca bhārgavāt | caṣakau dvau budhasyādau somasyāṣtau tu madhyatah || saurasyāntāc catuh ṣaṣṭiṁn (> ṣaṣṭi) madhyataś caṣaka guroh | dvyātriṁśatan kujasyāntād bhuṁkte ṣaṭparivartatah Il
+164\. The eight groups of eight that Kṣemarāja finds in the corresponding passage of the SvT noted below do not fully coincide with those listed by Abhinava. The first three are the same. According to Kṣemarāja (SvTu ad 7/74-76), the Gaṇeśas are ‘those mentioned before beginning with Caṇdanandi.’ (te ca candanani libhiḥ prāguktair gaṇeśaiḥ). The only set mentioned before like this is at the beginning of the Tantra where they appear amongst the beings attending on Bhairava. However, they are not expressly said to be eight. The passage reads: kailāsaśikharāsīnaṁi bhairavaṁ vigatāmayam | candanandi-mahākāla-gaṇeśa-vrṣa-bhrṁgibhih Il kumārendra-yamāditya-brahmaviṣṇupurahsaraih | stūyamānari maheśānan gaṇnamātṛniṣevitam |l ‘Bhairava, who is free of disease (and imperfections), is seated on the peak of (mount) Kailāsa. He is the Great Lord attended by the hosts (gana) and the Mothers, and is lauded by Caṇdanandi and the rest, Mahākāla, Gaṇeśa, (his mount) the bull, Bhṛṅgī (the Bee), as well as Kumāra, Indra, Yama, and Aditya (the Sun), led by Brahmā and \[illegible\] SvT 1/1-2 The following group of eight is a set beginning with Guhya. They correspond to the principles from Water to Fundamental Nature. This also coincides with Abhinava’s presentation. In the SvT they are followed by the Yoga Rudras. They are located in the intellect, and, according to Kṣemarāja, include the eight Rudras in Nature (Prakṛti) and Māyā. These do not appear to be represented in Abhinava’s presentation. The following two, the Vidyeśvaras and the eight Bhairavas, are the same in both the SvT and Abhinava’s presentation. The entries in the SvT end with the eight Bhairavas. The Lords of the Heroes are not mentioned there. Perhaps this is an epithet of all of them, but then we would be one group short. Indeed, if we accept the reading in the printed edition, we would have two or even three groups not mentioned in the SvT śaktayaḥ pārameśvaryo vāmeśā vĪīranāyakāh | One possible translation is ‘the Supreme Lord’s energies, and the Vāmeśas, who are Lords of the Heroes’, or else even three: the energies, the Vāmeśas and Vīranāyakas. It would be better to take the energies of the Supreme Lord to be a separate group. The readings of MS C are not infrequently better than those of the other MSs and, indeed, sometimes of the edition. Here MS C reads vṛranāyikāḥ for vīranāyakāḥ. This reading would make vīranāyikāḥ, epithets of the energies of the Supreme Lord, who could be Vāmeśās. But this assumes an emendation to the correct form — vāmeśyaḥ. Thus, the sentence would read śaktayaḥ pārameśvaryo vāmeśyo vīranāyikāḥ. This means, it seems, that Abhinava has eliminated the Yogāṣtṭaka and inserted a final concluding group of eight encompassing energies. As each cycle of eight pervades the preceding, these eight energies pervade them all. As we can see from the Kṣemarāja’s explanation of these verses, he saw the groups of eight as covering the reality principles up to Sadāśiva and beyond, into the deities of ultimate reality (pāramārthikadeva). All of these he views from the higher nondual perspective as the unfolding expansion (sphāra) of Supreme Bhairava. Abhinava, it seems, prefers to present the cycles as pervaded by the Supreme Lord’s energies, even if it means making some adjustments to his source. Let us now examine that, namely, SvT 7/74-76, which reads: ye grahās te ca vai \*nāgā \*lokapālāṣṭakaṁ ca te | \*mĀūrtayaś caiva te cāṣṭāv aṣṭau te ca \*gaṇeśvarāḥ ॥ \*te ca pañcāṣṭakā rudrās tathā \*yogāṣṭakāḥ pare | \*anantādiśikhaṇdyantās te ca vidyeśvarāṣṭakāḥ Il \*sakalādyāni tattvāni sthitāni paratas tv iha | pūrvoktā bhairavāś cāṣṭau sarve te ca vyavasthitāḥ ॥ ‘The grahas (correspond) to 1) the Nāgas, 2) the group of eight guardians of the quarters, 3) the eight mārtis, and 4) the eight Ganṇeśvaras, those that are 5) the Rudras of the fifth groups of eight, so too, next, 6) the Group of Eight Yogas and (those) after (associated with them), 7) the group of eight Vidyeśvaras beginning with Ananta and ending with Śikhandin, as well as 8) the principles beginning with Sakala, are located here. After that come the eight Bhairavas mentioned previously. All these are present.’ (SvT 7/44-46) grahā ādityādayaḥ saurāntā yathākramam anantavāsukitakṣakakārkota-padmamahāpadmaśamikhapālanāgāh, rāhus tu kulikaḥ | tad uktam ---- (Kṣemarāja quotes the passage quoted by Jayaratha) \[. . .\] yaś ca śrītotule ---- raveh ṣodaśa madhyāt tu caturo ‘ntāc ca bhārgavāt | caṣakau dvau budhasyādau somasyāṣtau tu madhyataḥ || saurasyāntāc catuḥ ṣaṣṭiṁn (> ṣaṣṭi) madhyataś caṣaka guroḥ | dvyātriṁśatan kujasyāntād bhuṁkte ṣaṭparivartataḥ Il
 
 
 *[p. 291]* ^pg306

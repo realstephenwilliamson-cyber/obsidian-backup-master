@@ -33,6 +33,11 @@ tasmādajñānaśabdena jñatvakartṛtvadharmaṇām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 149–150)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.42–43]]
+>
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.43–44]]
+
 *Lead-in:* एवमणूनां ज्ञत्वकर्तृत्वप्रतिबन्धकमज्ञानशब्दवाच्यं किञ्चिदावरणं वक्तव्यं येनायं बद्धोऽयं मुक्त इति विभागो भवेत् - - इत्याह --
 
 > तस्मादज्ञानशब्देन ज्ञत्वकर्तृत्वधर्मणाम् ॥

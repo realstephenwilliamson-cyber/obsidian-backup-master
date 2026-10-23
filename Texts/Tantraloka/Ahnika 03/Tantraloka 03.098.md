@@ -36,6 +36,11 @@ nanvanuttaratānandau svātmanā bhedavarjitau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 204–205)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.97–98]]
+>
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.98–99]]
+
 *Lead-in:* ननु "अनुत्तरः प्रकाश एवैकः प्रकाशते"इति ततोऽन्यन्न किञ्चिदपि संभवेत् तस्यातिरेकानतिरेकविकल्पोपहतत्वात्, तत्कथमिदमुक्तं -- यदियता क्रियाशक्तिपर्यन्तेन वैचित्र्येण स एव परिस्फुरेत् इति ? तदाह - -
 
 > नन्वनुत्तरतानन्दौ स्वात्मना भेदवर्जितौ ॥

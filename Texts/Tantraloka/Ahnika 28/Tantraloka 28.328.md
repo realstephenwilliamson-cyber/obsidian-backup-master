@@ -33,6 +33,11 @@ yastvasau kṣaṇa evaikaścaramaḥ prāṇanātmakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 141–142)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.327–328]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.328–331]]
+
 *Lead-in:* ननु यद्येवं तद्देहस्य साक्षात्त्यागः पुनः कदा स्यात्?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 28.327: see [[Tantraloka 28.327#Viveka|28.327]].

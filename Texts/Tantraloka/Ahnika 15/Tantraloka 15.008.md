@@ -31,6 +31,9 @@ sukhopāyamidaṃ teṣāṃ vidhānamuditaṃ guroḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 5–6)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.8–9]]
+
 *Lead-in:* न केवलमेतदत्रैवोक्तं यावच्छास्त्रान्तरेष्वपि--इत्याह--
 
 > येषामध्यवसायोऽस्ति न विद्यां प्रत्यशक्तितः ।

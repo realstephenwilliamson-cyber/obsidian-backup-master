@@ -31,6 +31,9 @@ sa pāṇireva, karaṇaṃ vinā kiṃ saṃbhavet kriyā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 241–242)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.256]]
+
 *Lead-in:* ननु तिर्यगादीनां मुखेनापि आदानं संभवेत् किन्तु न तत् पाणीन्द्रियकरणकम्; आत्मनो हि भोगायतनं शरीरं तैस्तैः स्वावयवैरेव तत्तत्कर्मफलोपभोगं संपादयति? -- इत्याशङ्क्याह --
 
 > मुखेनापि यदादानं तत्र यत् करणं स्थितम् ।

@@ -31,6 +31,9 @@ caturthāṃśāttadūrdhvaṃ tu ūrdhvādho yojayetpunaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 104–105)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.85–89]]
+
 > श्रीदेव्यायामले तूक्तं क्षेत्रे वेदाश्रिते सति ॥
 > अर्धं द्वादशधा कृत्वा तिर्यगूर्ध्वं च तिर्यजम् ।
 > भागमेकं स्वपार्श्वोर्ध्वं गुरुः समवतारयेत् ॥

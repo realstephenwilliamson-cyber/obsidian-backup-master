@@ -36,6 +36,11 @@ sabījāyāṃ tu dīkṣāyāṃ samayānna viśodhayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 180–185)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.97–99]]
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.99–100]]
+
 *Lead-in:* एवमेतत्प्रसङ्गादभिधाय प्रकृतमेवाह--
 
 Jayaratha comments on this verse together with 17.98: see [[Tantraloka 17.098#Viveka|17.98]].

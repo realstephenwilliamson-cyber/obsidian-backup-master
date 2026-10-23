@@ -31,5 +31,8 @@ bhūvastrakāyapīṭhākhyaṃ dhāma cotkarṣabhāk kramāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 217–218)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.14–16]]
+
 Jayaratha comments on this verse together with 29.16: see [[Tantraloka 29.016#Viveka|29.16]].
 

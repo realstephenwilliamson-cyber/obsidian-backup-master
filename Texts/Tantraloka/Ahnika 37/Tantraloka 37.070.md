@@ -36,6 +36,11 @@ saṃpatprabandhaikarasaiva saṃpat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 261)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 37.71.*
+>
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.71]]
+
 > संप्रेरणापरवशस्वकशक्तिसार्थः ।
 > अभ्यर्थनाविमुखभावमशिक्षितेन
 > तेनाप्यनुग्रहपदं कृत एष वर्गः ॥

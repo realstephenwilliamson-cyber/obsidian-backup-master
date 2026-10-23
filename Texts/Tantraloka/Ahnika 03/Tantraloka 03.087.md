@@ -34,6 +34,9 @@ haṭhādyadaudāsīnyāṃśacyāvanaṃ saṃvido balāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 190–192)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.86–87]]
+
 > तस्य बीजस्य सैवोक्ता विसिसृक्षा य उद्भवः ।
 > यतो ग्राह्यमिदं भास्यद्भिन्नकल्पं चिदात्मनः ॥
 > एष क्षोभः क्षोभणा तु तूष्णींभूतान्यमातृगम् ।

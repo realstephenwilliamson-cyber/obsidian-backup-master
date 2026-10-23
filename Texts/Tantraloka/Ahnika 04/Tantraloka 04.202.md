@@ -34,6 +34,9 @@ udrecayanto gacchanti homakarmanimittatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 304–306)
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.201–202]]
+
 > अन्तरिन्धनसंभारमनपेक्ष्यैव नित्यशः ।
 > जाज्वलीत्यखिलाक्षौघप्रसृतोग्रशिखः शिखी ॥
 > बोधाग्नौ तादृशे भावा विशन्तस्तस्य सन्महः ।

@@ -31,6 +31,9 @@ varaṃ jñānī yo'bhyupāyaṃ diśedapi ca mocayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 335)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.340]]
+
 *Lead-in:* यः पुनः संप्राप्तो घटमानो वा योगी भुक्तिमात्रमपि दातुं न समर्थः परं तदुपायोपदेशकुशलः, तमनादृत्यापि ज्ञानी गुरुः कार्यो यस्तदुपायमुपदिशन् क्रमेण मोचयेदपि -- इत्याह --
 
 > फलदानाक्षमे योगिन्युपायैकोपदेशिनि ।

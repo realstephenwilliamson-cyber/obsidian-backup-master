@@ -31,6 +31,9 @@ dhāraṇābhistyajantyāśu paradehapraveśavat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 128)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.294]]
+
 *Lead-in:* ननु मरणं चेद्योगिनामस्ति अवश्यम्, सुखदुःखाद्यात्मा तद्भोगोऽपि स्यात्; तत्किमेतदुक्तम् ?--इत्याशङ्क्य आह--
 
 > एतेषां मरणाभिख्यो भोगो नास्ति तु ये तनुम् ।

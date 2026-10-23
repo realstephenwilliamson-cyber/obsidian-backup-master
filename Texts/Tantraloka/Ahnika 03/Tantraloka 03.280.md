@@ -35,6 +35,9 @@ madabhinnamidaṃ ceti tridhopāyaḥ sa śāmbhavaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 401–402)
+> ![[Tantraloka Dyczkowski v02 12 - Chapter Three, part 9#Viveka on 3.280]]
+
 *Lead-in:* ननु धरादितत्त्वसमुदायात्मकं विश्वं नामेदं भिन्नमेवावभासते तत्कथमेवं परामर्शेनैव स्वात्मसंविन्मात्ररूपता ? -- इत्याशङ्क्याह --
 
 > मत्त एवोदितमिदं मययेव प्रतिबिम्बितम् ।

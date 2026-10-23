@@ -31,6 +31,9 @@ dakṣiṇapīṭhaṃ caitatṣaṭkaṃ gharapallipīṭhagaṃ kramaśaḥ ||
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 236–237)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.35–39]]
+
 > आनन्दावलिबोधिप्रभुपादान्ताथ योगिशब्दान्ता ।
 > एता ओवल्ल्यः स्युर्मुद्राषट्कं क्रमात्त्वेतत् ॥
 > दक्षांगुष्ठादिकनिष्ठिकान्तमथ सा कनीयसी वामात् ।

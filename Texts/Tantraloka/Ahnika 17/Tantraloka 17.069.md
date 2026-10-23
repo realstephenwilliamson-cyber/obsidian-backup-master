@@ -34,6 +34,11 @@ aśubhaṃ vā bhavadbhūtaṃ bhāvi vātha samastakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 170)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 17.70–72.*
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.70–72]]
+
 *Lead-in:* अत्रैव ऊहं दर्शयति--
 
 Jayaratha comments on this verse together with 17.72: see [[Tantraloka 17.072#Viveka|17.72]].

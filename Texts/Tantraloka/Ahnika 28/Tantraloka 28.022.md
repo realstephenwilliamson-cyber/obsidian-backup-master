@@ -31,6 +31,9 @@ tatkālaṃ cāpi saṃvitteḥ pūrṇatvāt kāmadogdhṛtā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 15–16)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.20–23]]
+
 > यथा पेर्क्षणके तत्तद्द्रष्ट्टसंविदभेदिताम् ॥
 > क्रमोदितां सद्य एव लभते तत्प्रवेशनात् ।
 > योगाभ्यासक्रमोपात्तां तथा पूर्णां स्वसंविदम् ॥

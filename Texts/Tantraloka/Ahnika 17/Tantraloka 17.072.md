@@ -34,6 +34,9 @@ pūrṇāṃ samayapāśākhyabījadāhapadānvitām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 170)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.70–72]]
+
 > कर्मपाशेऽत्र होतव्ये पूर्णयास्य शुभाशुभम् ।
 > अशुभं वा भवद्भूतं भावि वाथ समस्तकम् ॥
 > दहामि फट्त्रयं वौषडिति पूर्णां विनिक्षिपेत् ।

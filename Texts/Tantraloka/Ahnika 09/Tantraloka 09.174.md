@@ -31,6 +31,9 @@ māyātattvāt kalā jātā kiñcitkartṛtvalakṣaṇā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 150–151)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.174]]
+
 *Lead-in:* एवमेतत्प्रसङ्गादभिधाय प्रकृतमेवाह --
 
 > एवमेषा कलादीनामुत्पत्तिः प्रविविच्यते ।

@@ -34,6 +34,9 @@ te tena śuddhā iti cettajjñaptistarhi śuddhatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 323)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.227]]
+
 *Lead-in:* अथ समानेऽपि शिवात्मत्वे मन्त्राणां मननत्राणधर्मकतया तथात्वेन परिज्ञानमस्ति, न धरादीनाम्, इति तद्वैलक्षण्येन मन्त्राणामेव शुद्धत्वमिति मतम्, इत्याह --
 
 > शिवात्मत्वापरिज्ञानं न मन्त्रेषु धरादिवत् ।

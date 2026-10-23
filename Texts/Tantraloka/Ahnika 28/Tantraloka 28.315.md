@@ -31,6 +31,9 @@ sa ca kāladhvaniḥ prāha mṛtermuktāvahetutām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 135–136)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.314–315]]
+
 > अपिशब्दादलुप्तस्मृत्या वा संभाव्यते किल ।
 > मृतिर्नष्टस्मृतेरेव मृतेः प्राक् साऽस्तु किं तया ॥
 > लिङ् च संभावनायां स्यादियत्संभाव्यते किल ।

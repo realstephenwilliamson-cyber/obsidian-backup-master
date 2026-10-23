@@ -31,5 +31,8 @@ smaranmantraṃ yadāsīta kā'nyā nirmalatā tataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 47)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.57–58]]
+
 Jayaratha comments on this verse together with 15.60: see [[Tantraloka 15.060#Viveka|15.60]].
 

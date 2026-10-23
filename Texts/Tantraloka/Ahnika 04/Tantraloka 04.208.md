@@ -34,6 +34,9 @@ tathā vikalpamukure dhyānapūjārcanātmani |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 309–310)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.207–208]]
+
 > यथा पुरःस्थे मुकुरे निजं वक्रतं विभावयन् ।
 > भूयो भूयस्तदेकात्म वक्त्रं वेत्ति निजात्मनः ॥
 > तथा विकल्पमुकुरे ध्यानपूजार्चनात्मनि ।

@@ -12,7 +12,7 @@ aliases:
 ---
 # Torah (JPS)
 
-The Five Books of Moses in the JPS 1985 translation, one note per weekly parasha (Sefaria's 54 divisions). Each verse carries a block ID: `[[Torah 01 - Bereshit#^1-1]]` opens Genesis 1:1. Rashi's commentary: [[Rashi (Metsudah)]].
+The Five Books of Moses in the JPS 1985 translation, one note per weekly parasha (Sefaria's 54 divisions). Each verse carries a block ID: `[[Torah 01 - Bereshit#^1-1]]` opens Genesis 1:1. Rashi's commentary: [[Rashi (Metsudah)]]. The [[Torah page]] lays out a passage like a page of a Mikraot Gedolot, with Rashi and the texts that cite it.
 
 ## License and attribution
 

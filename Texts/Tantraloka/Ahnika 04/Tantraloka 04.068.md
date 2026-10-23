@@ -34,6 +34,9 @@ na ca tattvaṃ vidustena doṣabhāja iti sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 85–86)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.67–68]]
+
 > मन्त्रद्रव्यादिगुप्तत्वे फलं किमिति चोदिते ।
 > पुस्तकाधीतविद्या ये दीक्षासमयवर्जिताः ॥
 > तामसाः परहिंसादि वश्यादि च चरन्त्यलम् ।

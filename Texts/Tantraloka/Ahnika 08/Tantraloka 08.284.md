@@ -37,6 +37,11 @@ akartaryapi vā puṃsi sahakāritayā sthite || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 291–293)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.284]]
+>
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.284–285]]
+
 *Lead-in:* ननु भवेदेवं यदि पुंसः कर्तृत्वं सिद्ध्येत्, तदेव पुनरतिदुर्लभं यत् तथात्वेऽस्य क्षीरादिवदचैतन्यं स्यात् ? -- इत्याशङ्क्याह --
 
 > न ह्यकर्ता पुमान्कर्तुः कारणत्वं च संस्थितम् ।

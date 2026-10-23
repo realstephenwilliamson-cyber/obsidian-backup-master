@@ -33,6 +33,11 @@ kulālavattu kartṛtvaṃ na mukhyaṃ tadadhiṣṭhiteḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 358)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.27]]
+>
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.27 (2)]]
+
 *Lead-in:* ननु ज्ञानक्रियात्मा शिव इत्यस्मन्मतं तत्कथमुक्तं कर्तृत्वमेव शिवत्वमिति? -- इत्याशङ्क्याह --
 
 > ज्ञातृत्वमेव शिवता स्वातन्त्र्यं तदिहोच्यते ।

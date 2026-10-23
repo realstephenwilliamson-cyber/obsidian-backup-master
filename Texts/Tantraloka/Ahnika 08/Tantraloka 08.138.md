@@ -35,6 +35,9 @@ mahāparivahe meghāḥ kapālotthā maheśituḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 174)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.138]]
+
 > वैद्युताद्रैवतस्तावांस्तत्र पुष्टिवहाम्बुदाः ।
 > ऊर्ध्वं च रोगाम्बुमुचः संवर्तास्तदनन्तरे ॥
 > रोचनाञ्जनभस्मादिसिद्धास्तत्रैव रैवते ।

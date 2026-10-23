@@ -31,6 +31,9 @@ kalādidharaṇīprāntaṃ jāḍyātsā sūtaye'kṣamā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 125)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.5–6]]
+
 *Lead-in:* नन्वेवमस्माकमिव प्रकृतिर्मायैव भवतां विश्वकारणमस्तु किं तदधिष्ठात्रेश्वरेणापि? -- इत्याशङ्क्याह --
 
 > सा जडा कार्यताद्रूप्यात्कार्यं चास्यां सदेव हि ।

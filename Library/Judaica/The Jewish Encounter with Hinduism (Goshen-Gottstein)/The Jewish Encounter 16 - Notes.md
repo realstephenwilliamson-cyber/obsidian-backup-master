@@ -389,7 +389,7 @@ lacked spiritual realism, leading him to a false expectation of achieving someth
 
  19 . *Tikunei Zohar,* Tikun 57 (91b) and Tikun 70 (122b). This statement is often juxtaposed with the previous paraphrase of Isaiah in hassidic literature. See *Noam Elimelech* on Terumah, *Degel Machane Ephraim* on Beshalach and Re’eh. 
 
- 20 . Bavli *Yoma* 69b. 
+ 20 . Bavli [[Yoma 69#69b|*Yoma* 69b]]. 
 
  21 . Yoel Glick, *Living the Life of Jewish Meditation: A Comprehensive Guide to Practice and Experience* Jewish Lights Publishing, Woodstock Vermont, 2014. 
 
@@ -461,7 +461,7 @@ problematic and, not surprisingly, lacks convincing Jewish sources. The same hol
 
  1 . This touches upon the choice of category by means of which we speak of such individuals. I am presently engaged in a project of developing the category of “Religious Genius” as a means of describing exemplary individuals in different religious traditions, with the support of the John Templeton Foundation. Unlike “saints” and other categories, this category is not charged through its use by any particular religious tradition. 
 
- 2 . See Bavli *Hullin* 92a. The text has a very limited echo in later Jewish literature. 3 . The matter deserves more detailed investigation. It seems to me that on the whole even in those contexts where non-Jews are seen in a positive light, they are singled our for moral excellence, sometimes even for faithfulness to ritual and the religious life. They are certainly recognized for wisdom. But reference to them as saints, as people of outstanding holiness, enjoying special and close relationships with God, is something one rarely, if ever, comes across. My impression is that this is the case both in relation to Christianity and in relation to Islam, though further study could 
+ 2 . See Bavli [[Chullin 92#92a|*Hullin* 92a]]. The text has a very limited echo in later Jewish literature. 3 . The matter deserves more detailed investigation. It seems to me that on the whole even in those contexts where non-Jews are seen in a positive light, they are singled our for moral excellence, sometimes even for faithfulness to ritual and the religious life. They are certainly recognized for wisdom. But reference to them as saints, as people of outstanding holiness, enjoying special and close relationships with God, is something one rarely, if ever, comes across. My impression is that this is the case both in relation to Christianity and in relation to Islam, though further study could 
 
 *[p. 235]* ^pg237
 

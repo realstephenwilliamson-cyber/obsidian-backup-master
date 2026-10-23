@@ -31,6 +31,9 @@ arthakriyādivaicitryamabhyetyaparisaṃkhyayā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 348–349)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.83–84]]
+
 > चैत्रेण वेद्यं जानामि द्वाभ्यां बहुभिरप्यथ ।
 > मन्त्रेण तन्महेशेन शिवेनोद्रिक्तशक्तिना ॥
 > अन्यादृशेन वेत्येवं भावो भाति यथा तथा ।

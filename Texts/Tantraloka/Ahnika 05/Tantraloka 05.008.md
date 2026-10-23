@@ -36,6 +36,9 @@ tasyaiva tu svatantratvāddviguṇaṃ jaḍacidvapuḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 8–9)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.8]]
+
 *Lead-in:* ननु यदेव प्रश्नितं तदेवोत्तरीकृतम् -- इति किमेतत् ? -- इत्याशङ्क्याह --
 
 > यतः प्रकाशाच्चिन्मात्रात् प्राणाद्यव्यतिरेकवत् ।

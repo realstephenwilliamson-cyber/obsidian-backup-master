@@ -31,6 +31,9 @@ siddhāntatantraśāktādi sarvaṃ brahmodbhavaṃ yataḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 204–208)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.26–27]]
+
 > लौकिकं वैदिकं साङ्ख्यं योगादि पाञ्चरात्रकम् ।
 > बौद्धार्हतन्यायशास्त्रं पदार्थक्रमतन्त्रणम् ॥
 > सिद्धान्ततन्त्रशाक्तादि सर्वं ब्रह्मोद्भवं यतः ।

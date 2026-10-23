@@ -31,6 +31,9 @@ pramātāstyeva sakalaḥ pāñcadaśyamataḥ sthitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 360)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.101]]
+
 *Lead-in:* ननु देहादिवेद्यांशप्राधान्यान्मुख्यतया सकलः प्रमातैव न भवतीति कुतस्त्यं पाञ्चदश्यम्? -- इत्याशङ्क्याह --
 
 > तेन प्रधाने वेद्येऽपि पुमानुद्भूतकञ्चुकः ।

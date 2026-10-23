@@ -35,6 +35,13 @@ jīvaḥ prāṇastha evātra prāṇo vā jīvasaṃsthitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 22–26)
+> ![[Tantraloka Dyczkowski v11 02 - Chapter Thirty, part 1#Viveka on 30.27–28]]
+>
+> ![[Tantraloka Dyczkowski v11 02 - Chapter Thirty, part 1#Viveka on 30.28]]
+>
+> ![[Tantraloka Dyczkowski v11 02 - Chapter Thirty, part 1#Viveka on 30.28–36]]
+
 *Lead-in:* एतदेव शब्दान्तरद्वारेण पठति--
 
 > जीवः प्राणस्थ एवात्र प्राणो वा जीवसंस्थितः ॥

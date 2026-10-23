@@ -36,6 +36,11 @@ etau jape cādhyayane yasmādadhikṛtāvubhau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 221)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.31–32]]
+>
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.32–33]]
+
 *Lead-in:* एवमस्य किं स्यात्?--इत्याशङ्क्याह--
 
 > तत्पाठात्तु समययुक्तां रुद्रांशापत्तिमश्नुते ।

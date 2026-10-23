@@ -33,6 +33,11 @@ parapratiṣṭhite liṅge bāṇīye'tha svayaṃbhuvi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 422–423)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 27.55–56.*
+>
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.55–56]]
+
 > सिद्धे तु तन्मयीभावे फले पुत्रकसाधकैः ।
 > अन्यस्मै तद्द्वयादन्यतरस्मै तत्समर्प्यते ॥
 > तस्याप्येष विधिः सर्वस्तदलाभे तु सर्वथा ।

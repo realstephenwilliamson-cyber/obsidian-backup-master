@@ -33,6 +33,11 @@ juṅkāro'thāgnipatnīti ṣaḍare ṣaṇṭhavarjitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 176–177)
+> ![[Tantraloka Dyczkowski v11 07 - Chapter Thirty-Three#Viveka on 33.14–17]]
+>
+> ![[Tantraloka Dyczkowski v11 07 - Chapter Thirty-Three#Viveka on 33.17–18]]
+
 *Lead-in:* इति ॥ अत्रैव मन्त्रविभागमाह--
 
 Jayaratha comments on this verse together with 33.16: see [[Tantraloka 33.016#Viveka|33.16]].

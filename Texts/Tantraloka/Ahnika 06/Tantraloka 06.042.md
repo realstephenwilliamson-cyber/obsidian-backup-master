@@ -36,6 +36,11 @@ anāśritaṃ yato māyā kalāvidye sadāśivaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 256–257)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.41–42]]
+>
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.42–43]]
+
 *Lead-in:* एतदेव विभजते -
 
 > अनाश्रितं यतो माया कलाविद्ये सदाशिवः ॥

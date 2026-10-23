@@ -37,6 +37,11 @@ icchā yā karmaṇā hīnā yā caiṣṭavyena rūṣitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 277–280)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.160–162]]
+>
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.162–165]]
+
 *Lead-in:* एवमेतत् प्रसङ्गादभिधाय प्रकृतमेव ऊष्मणामुदयमभिधत्ते --
 
 Jayaratha comments on this verse together with 3.161: see [[Tantraloka 03.161#Viveka|3.161]].

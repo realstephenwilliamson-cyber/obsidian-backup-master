@@ -31,6 +31,9 @@ mandatīvrācchaktibalād yiyāsāsyopajāyate |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 261–262)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.218–219]]
+
 *Lead-in:* एतदेव व्याचष्टे -
 
 > मन्दतीव्राच्छक्तिबलाद् यियासास्योपजायते ।

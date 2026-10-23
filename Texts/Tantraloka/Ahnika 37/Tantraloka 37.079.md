@@ -36,6 +36,11 @@ sato'vajānāti na bandhubuddhyā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 265)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 37.80.*
+>
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.80]]
+
 > मन्वग्रहीत् त्रिनयनः स्वयमेव भक्त्या ।
 > भाविप्रभावरभसेषुजनेष्वनर्थः
 > सत्यं समाकृषति सोऽर्थपरम्पराणाम् ॥

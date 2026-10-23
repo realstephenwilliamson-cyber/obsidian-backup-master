@@ -34,6 +34,9 @@ nyāsaṃ prakalpayettāvattattvāntarbhāvacintanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 51–52)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.109–110]]
+
 *Lead-in:* एवं सामस्त्येन तत्त्वानां न्यासमभिधाय, व्यस्तत्वेनाप्याह--
 
 > नवपञ्चचतुस्त्र्येकतत्त्वन्यासे स्वयं धिया ।

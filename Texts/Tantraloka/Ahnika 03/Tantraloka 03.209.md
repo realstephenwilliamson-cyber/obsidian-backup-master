@@ -36,6 +36,11 @@ tathāhi madhure gīte sparśe vā candanādike || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 328–331)
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.208–209]]
+>
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.209–210]]
+
 *Lead-in:* ननु बाह्यस्य सुखदुःखादिरूपत्वादानन्दमयत्वमेव कथमुक्तम् ? -- इत्याशङ्कां गर्भीकृत्य तदेवोपपादयति—
 
 Jayaratha comments on this verse together with 3.208: see [[Tantraloka 03.208#Viveka|3.208]].

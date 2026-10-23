@@ -35,6 +35,9 @@ vāmādyāstriśatī seyaṃ triparvaṇyabdhirasyayuk || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 386)
+> ![[Tantraloka Dyczkowski v05 11 - Chapter Eight, part 9#Viveka on 8.432–433]]
+
 > कालाग्निर्नरकाः खाब्धियुतं मुख्यतया शतम् ॥
 > कूष्माण्डः सप्तपाताली सप्तलोकी महेश्वरः ।
 > इत्यण्डमध्यं तद्बाह्ये शतं रुद्रा इति स्थिताः ॥

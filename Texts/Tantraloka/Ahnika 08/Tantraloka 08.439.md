@@ -34,5 +34,8 @@ ekādaśabhirbāhye brahmāṇḍaṃ pañcabhistathāntarikaiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 392)
+> ![[Tantraloka Dyczkowski v05 11 - Chapter Eight, part 9#Viveka on 8.438–440]]
+
 Jayaratha comments on this verse together with 8.444: see [[Tantraloka 08.444#Viveka|8.444]].
 

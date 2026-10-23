@@ -34,6 +34,13 @@ saṅkalpadevyā yatsṛṣṭidhāma tryaśraṃ kriyātmakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 245–246)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.401–402]]
+>
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.402–403]]
+>
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.402–403 (continued)]]
+
 *Lead-in:* अत एव आह--
 
 > सङ्कल्पदेव्या यत्सृष्टिधाम त्र्यश्रं क्रियात्मकम् ॥

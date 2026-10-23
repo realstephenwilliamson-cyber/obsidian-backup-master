@@ -37,6 +37,11 @@ ananto'tha kapālyagniryamanairṛtakau balaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 204–205)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.179–180]]
+>
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.180–181]]
+
 *Lead-in:* तदाह --
 
 > अनन्तोऽथ कपाल्यग्निर्यमनैरृतकौ बलः ॥

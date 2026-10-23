@@ -34,6 +34,9 @@ jñānamātmārthamityetanneti māṃ prati bhāsate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 183–184)
+> ![[Tantraloka Dyczkowski v01 06 - Chapter One, part 5#Viveka on 1.56]]
+
 *Lead-in:* एवमादिसिद्धत्वादस्य न केवलं साधकं प्रमाणमकिञ्चित्करं यावद्बाधकमपि -- इत्याह --
 
 > सर्वापह्नवहेवाकधर्माप्येवं हि वर्तते ।

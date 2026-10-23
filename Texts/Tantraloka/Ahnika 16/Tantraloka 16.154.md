@@ -37,5 +37,10 @@ dvādaśatvena guṇitā caturviṃśatibhedikā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 69–70)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.151–154]]
+>
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.151–156]]
+
 Jayaratha comments on this verse together with 16.156: see [[Tantraloka 16.156#Viveka|16.156]].
 

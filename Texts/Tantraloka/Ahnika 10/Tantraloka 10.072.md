@@ -33,6 +33,11 @@ brūṣe yathā hi kurute sattā satyasataḥ sataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 340–344)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.71–72]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.72–75]]
+
 *Lead-in:* एतदेव व्यनक्ति --
 
 Jayaratha comments on this verse together with 10.71: see [[Tantraloka 10.071#Viveka|10.71]].

@@ -33,6 +33,11 @@ khaṇḍaṃ khaṇḍaṃ cāṣṭakhaṇḍaṃ proktapādādibhedataḥ || 
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 220–223)
+> ![[Tantraloka Dyczkowski v11 10 - Chapter Thirty-Six#Viveka on 36.1–7]]
+>
+> ![[Tantraloka Dyczkowski v11 10 - Chapter Thirty-Six#Viveka on 36.7]]
+
 *Lead-in:* प्रतिखण्डं च अत्र अष्टखण्डत्वमस्ति--इत्याह--
 
 > खण्डं खण्डं चाष्टखण्डं प्रोक्तपादादिभेदतः ॥

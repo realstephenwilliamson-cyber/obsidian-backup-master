@@ -35,6 +35,9 @@ arūḍhāyāḥ svatantro'yaṃ sthitaścidvyomabhairavaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 88)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.99]]
+
 *Lead-in:* ननु लोके कार्यकारणादिरूपश्चिरप्ररूढोऽयं व्यवहारो -- यदग्निः कारणं धूमश्च कार्यमिति तन्नान्तरीयक१ एव च सदसत्त्वे इति किमेतदुक्तम्? -- इत्याशङ्क्याह --
 
 > नियतेश्चिररुढायाः समुच्छेदात्प्रवर्तनात् ।

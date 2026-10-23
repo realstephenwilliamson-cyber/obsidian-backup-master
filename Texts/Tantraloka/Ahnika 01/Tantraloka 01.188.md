@@ -36,6 +36,11 @@ puṃvidyāśaktisaṃjñaṃ yattatsarvavyāpakaṃ yataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 366–368)
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.187–188]]
+>
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.188–189]]
+
 *Lead-in:* ननु किमिति इदमेव तत्त्वत्रयं भेदेन निर्दिष्टम् ? इत्याशङ्क्याह --
 
 > पुंविद्याशक्तिसंज्ञं यत्तत्सर्वव्यापकं यतः ॥

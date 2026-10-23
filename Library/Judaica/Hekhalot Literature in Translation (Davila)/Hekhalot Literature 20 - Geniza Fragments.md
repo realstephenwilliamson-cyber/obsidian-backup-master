@@ -784,7 +784,7 @@ i The word translated “One Who Forms” also means “potter.” j Emending �
 
 l Emending “to him” to “not” with Gruenwald.
 
-m Vidas (“Tradition,” 232–233) connects this house with *beit rabbenu she-be-bavel*, “the house of our master that n Reading “saying” with Schäfer rather than is in Babylonia,” mentioned in *b. Meg. 29b*.
+m Vidas (“Tradition,” 232–233) connects this house with *beit rabbenu she-be-bavel*, “the house of our master that n Reading “saying” with Schäfer rather than is in Babylonia,” mentioned in *b. [[Megillah 29#29b|Meg. 29b]]*.
 
 “you shall say” with Gruenwald. The reading is clear.
 

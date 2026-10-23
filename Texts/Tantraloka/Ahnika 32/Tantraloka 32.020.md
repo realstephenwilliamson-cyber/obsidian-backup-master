@@ -33,6 +33,11 @@ tyaktāṃśako nirācāro niḥśaṅko lokavarjitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 146–148)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.18–20]]
+>
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.20–24]]
+
 *Lead-in:* ननु एवमस्य किं स्यात् ?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 32.19: see [[Tantraloka 32.019#Viveka|32.19]].

@@ -34,6 +34,9 @@ svātmautsukye prabuddhe hi vedyaviśrāntiralpikā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 312–313)
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.85–86]]
+
 > वेद्ये विश्रान्तिरधिका दिनदैर्घ्याय तत्र तु ॥
 > न्यूना स्यात्स्वात्मविश्रान्तिर्विपरीते विपर्ययः ।
 > स्वात्मौत्सुक्ये प्रबुद्धे हि वेद्यविश्रान्तिरल्पिका ॥

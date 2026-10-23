@@ -31,6 +31,9 @@ naṣṭamūle drume devi kutaḥ puṣpaphalādikam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 333)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.336]]
+
 *Lead-in:* ननु विज्ञानार्थी शिष्यः, तच्चानेन कथञ्चिदाद्यादेव प्राप्तमिति किमस्य गुर्वन्तरगमनेन? -- इत्याशङ्क्याह -
 
 > शक्तिहीनं गुरुं प्राप्य मोक्षज्ञाने कथं श्रयेत् ।

@@ -34,6 +34,11 @@ parameśamahātejaḥśeṣamātratvamaśnute || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 170)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 17.70–72.*
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.70–72]]
+
 *Lead-in:* ननु अमूर्तस्यास्य को नाम प्लोषः?--इत्याशङ्क्याह--
 
 > प्लुष्टो लीनस्वभावोऽसौ पाशस्तं प्रति शम्भुवत् ।

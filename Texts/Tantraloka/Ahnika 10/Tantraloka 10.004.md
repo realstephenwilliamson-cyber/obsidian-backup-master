@@ -31,5 +31,8 @@ tadvanmāyā ca navadhā jñākalāḥ saptadhā punaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 287–292)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.3–5]]
+
 Jayaratha comments on this verse together with 10.5: see [[Tantraloka 10.005#Viveka|10.5]].
 

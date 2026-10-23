@@ -33,6 +33,11 @@ anugrahastu yaḥ so'yaṃ svasvarūpe vikasvare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 103–104)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.232–233]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.233–234]]
+
 *Lead-in:* अनुग्रहः पुनरस्य कर्मादि अनपेक्ष्यैव स्यात्--इत्याह--
 
 > अनुग्रहस्तु यः सोऽयं स्वस्वरूपे विकस्वरे ॥

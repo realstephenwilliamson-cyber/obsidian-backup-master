@@ -31,5 +31,8 @@ bhasmāṃkuro vratisuto duḥśīlātanayastathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 298)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.8–10]]
+
 Jayaratha comments on this verse together with 23.10: see [[Tantraloka 23.010#Viveka|23.10]].
 

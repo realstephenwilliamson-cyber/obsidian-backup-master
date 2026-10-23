@@ -48,21 +48,21 @@ For truth is the attribute of Jacob, who is called[^16] the “middle bolt which
 
 The attribute of truth is an unbounded inheritance which has no limit upward to the highest degrees, while all lower gradations and degrees are as nothing compared with those that are superior to them. [As is known to the students of Kabbalah, that the quality which is, as it were, the “head” and “intellect” of lower grades is inferior to the so-called “soles” and “feet” of the grades above them. Compare the statement of our Sages, “The feet of the *Chayot* measure up to them all.”][^18]
 
-[^1]: *Berachot* 61b.
+[^1]: [[Berakhot 61#61b|*Berachot* 61b]].
 [^2]: “Judges”—in the plural, allegorically interpreted to refer to the two impulses which motivate man’s actions.
 [^3]: The “seat” of the passions. Cf. above, ch. 9.
 [^4]: The intellect is the forte of the divine soul. Ibid.
-[^5]: *Kiddushin* 30b.
+[^5]: [[Kiddushin 30#30b|*Kiddushin* 30b]].
 [^6]: Ch. 12.
-[^7]: *Niddah* 30b.
+[^7]: [[Niddah 30#30b|*Niddah* 30b]].
 [^8]: Here is the answer to the question raised in the beginning of ch. 1. The clue is in the word כרשע (not רשע).
 [^9]: [[Torah 06 - Toldot#^25-23|Genesis 25:23]].
 [^10]: *Chochmah* corresponds to *chesed*; *binah*—to *gevurah*.
 [^11]: [[Psalms 109#^109-22|Psalms 109:22]].
 [^12]: Ch. 10, with reference to the two types of *tzaddik*.
 [^13]: See ch. 1.
-[^14]: *Berachot* 21a.
+[^14]: [[Berakhot 21#21a|*Berachot* 21a]].
 [^15]: [[Proverbs 12#^12-19|Proverbs 12:19]].
 [^16]: *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-1b|I:1b]]; [[Zohar 3.07 - Parashat Va-Yhi#^z1-224a|224a]].
 [^17]: Comp. [[Torah 19 - Terumah#^26-28|Exodus 26:28]].
-[^18]: *Chagigah* 13a.
+[^18]: [[Chagigah 13#13a|*Chagigah* 13a]].

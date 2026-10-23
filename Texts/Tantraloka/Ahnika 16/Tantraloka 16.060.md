@@ -34,5 +34,8 @@ dharmādharmaughavicchedāccharīraṃ cyavate kila || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 28–29)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.59–62]]
+
 Jayaratha comments on this verse together with 16.61: see [[Tantraloka 16.061#Viveka|16.61]].
 

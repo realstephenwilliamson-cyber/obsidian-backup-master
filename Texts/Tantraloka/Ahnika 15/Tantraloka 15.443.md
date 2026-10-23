@@ -34,6 +34,11 @@ samamekānusandhānātpātato bhoktṛbhogyayoḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 273–274)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.442–443]]
+>
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.443–444]]
+
 *Lead-in:* संपातशब्दस्य अन्वर्थतां दर्शयति--
 
 > सममेकानुसन्धानात्पाततो भोक्तृभोग्ययोः ॥

@@ -35,6 +35,9 @@ te'pyakṛtrimasaṃskārasārāmenāṃ svasaṃvidam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 59–60)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.66–67]]
+
 *Lead-in:* ननु शब्दार्थव्युत्पत्तिबालिशानां बालादीनामपि संभवत्येव प्रमेति कथमेतदुक्तं "वर्णा एव बिभ्रति? -- इत्याशङ्क्याह --
 
 > बालास्तिर्यक्प्रमातारो येऽप्यसङ्केतभागिनः ।

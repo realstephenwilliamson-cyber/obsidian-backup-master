@@ -34,6 +34,9 @@ apavarge na tu bhedastenāsminvāsanādṛḍhatvajuṣā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 84)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.193–195]]
+
 > भोगे साध्ये यद्यद् बहु कर्तव्यं तदाश्रयेन्मतिमान् ॥
 > कारणभूयस्त्वं किल फलभूयस्त्वाय किं चित्रम् ।
 > अपवर्गे न तु भेदस्तेनास्मिन्वासनादृढत्वजुषा ॥

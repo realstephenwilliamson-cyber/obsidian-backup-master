@@ -38,6 +38,11 @@ māroḍhumapyadhikṛtiḥ kṛtināmanarghā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 241–242)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.34–35]]
+>
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.35]]
+
 *Lead-in:* तत्रापि च त्रिदिवभोगमहार्घवर्ष-
 
 > द्वीपान्तरादधिकमेव कुमारिकाह्वम् ।

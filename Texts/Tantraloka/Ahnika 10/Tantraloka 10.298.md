@@ -31,6 +31,9 @@ svapnādīti kramaṃ sarvaṃ sarvatrānusared budhaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 488)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.298]]
+
 *Lead-in:* तदेवाह -
 
 > लयाकले तु स्वं रूपं जाग्रत्तत्पूर्ववृत्ति तु ।

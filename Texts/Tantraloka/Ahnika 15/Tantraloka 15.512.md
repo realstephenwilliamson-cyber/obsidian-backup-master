@@ -34,6 +34,11 @@ yathā hemādidhātūnāṃ pāke kramavaśādbhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 312–313)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.511–512]]
+>
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.512–513]]
+
 *Lead-in:* एतदेव दृष्टान्तमुखेन हृदयङ्गमयति--
 
 > यथा हेमादिधातूनां पाके क्रमवशाद्भवेत् ॥

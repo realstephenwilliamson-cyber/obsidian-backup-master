@@ -34,6 +34,11 @@ naivedyaṃ prāśayennadyāstaccheṣaṃ ca jale kṣipet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 347)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 15.608–609.*
+>
+> ![[Tantraloka Dyczkowski v08 10 - Chapter Fifteen, part 9#Viveka on 15.608–609]]
+
 > संवित्स्वभावे नो जातिप्रभृतिः कापि कल्पना ॥
 > रूपं सा त्वस्वरूपेण तद्रूपं छादयत्यलम् ।
 > या काचित्कल्पना संवित्तत्त्वस्याखण्डितात्मनः ॥

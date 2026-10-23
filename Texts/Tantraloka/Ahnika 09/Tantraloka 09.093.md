@@ -33,6 +33,11 @@ nanu kāraṇametasya karmaṇaścenmalaḥ katham || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 92–93)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.92–93]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.93–95]]
+
 *Lead-in:* नन्वस्ति तावद्विज्ञानाकलस्याणवो मलः, स च कर्मणः कारणं तत्कथमसौ स्वकार्यं न जनयेत् -- येनास्य पुनः पुनः संसारित्वमेव स्यात् प्रत्युत मन्त्रादिक्रमेण शिवात्मतां याति, इति कस्मादुक्तम् ? -- इति गर्भीकृताशङ्काशङ्कान्तरमाशङ्कते --
 
 > ननु कारणमेतस्य कर्मणश्चेन्मलः कथम् ॥

@@ -31,6 +31,9 @@ arcayitvāsanaṃ pūjyā gurupaṅktistu bhāvivat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 192–193)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.319–320]]
+
 > विद्याकलान्तं सिद्धान्ते वामदक्षिणशास्त्रयोः ।
 > सदाशिवान्तं समनापर्यन्तं मतयामले ॥
 > उन्मनान्तमिहाख्यातमित्येतत्परमासनम् ।

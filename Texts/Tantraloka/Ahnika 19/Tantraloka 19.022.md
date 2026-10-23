@@ -34,6 +34,9 @@ utkramyordhvanimeṣeṇa śiṣya itthaṃ paraṃ vrajet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 217)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.21–22]]
+
 > श्रीमद्दीक्षोत्तरे त्वेष विधिर्वह्निपुटीकृतः ।
 > हंसः पुमानधस्तस्य रुद्रबिन्दुसमन्वितः ॥
 > शिष्यदेहे नियोज्यैतदनुद्विग्नः शतं जपेत् ।

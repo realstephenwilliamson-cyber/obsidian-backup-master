@@ -34,6 +34,9 @@ ekādaśaite kathitāḥ saṃnidhānāya hetavaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 256)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.16–18]]
+
 > क्रियोपकरणस्थानमण्डलाकृतिमन्त्रतः ।
 > ध्यानयोगैकतद्भक्तिज्ञानतन्मयभावतः ॥
 > तत्प्रविष्टस्य कस्यापि शिष्याणां च गुरोस्तथा ।

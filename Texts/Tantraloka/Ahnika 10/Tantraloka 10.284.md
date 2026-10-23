@@ -33,6 +33,11 @@ mūḍhavādastena siddhamavibheditvamasya tu |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 476–478)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.283–284]]
+>
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.284–286]]
+
 *Lead-in:* अत एवागमोऽप्येवम् -- इत्याह --
 
 > श्रीपूर्वशास्त्रे तेनोक्तं............

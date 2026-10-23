@@ -31,5 +31,8 @@ tāḥ svātantryavaśopāttagrahītrākāratāvaśāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 401–403)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.178–181]]
+
 Jayaratha comments on this verse together with 10.180: see [[Tantraloka 10.180#Viveka|10.180]].
 

@@ -35,6 +35,9 @@ kalātattvapurārṇāṇupadādirbhedavistaraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 220–223)
+> ![[Tantraloka Dyczkowski v01 07 - Chapter One, part 6#Viveka on 1.78–81]]
+
 *Lead-in:* एवं यत्किञ्चन जडाजडात्मकविश्वैचित्र्यं यच्च तद्विषयं सृष्ट्यादि जाग्रदाद्यवस्थादि वा तत्सर्वं परमेश्वरस्य शक्तिस्फार एव -- इत्याह --
 
 Jayaratha comments on this verse together with 1.81: see [[Tantraloka 01.081#Viveka|1.81]].

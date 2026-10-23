@@ -31,6 +31,9 @@ kañcukāni ṣaḍuktāni saṃvidastatsthitau paśuḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 180–183)
+> ![[Tantraloka Dyczkowski v06 07 - Chapter Nine, part 5#Viveka on 9.204]]
+
 *Lead-in:* तदाह --
 
 > माया कला रागविद्ये कालो नियतिरेव च ।

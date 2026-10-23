@@ -31,6 +31,9 @@ draṣṭṛbhiḥ prerakapreryavapuṣā parikalpitau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 320–322)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.39–43]]
+
 > तथाहि गन्तुं शक्तोऽपि चैत्रोऽन्यायत्ततां गतेः ।
 > मन्वान एवं वक्त्यस्मि गमितः स्वामिनेति हि ॥
 > स्वाम्यप्यस्य गतौ शक्तिं बुद्ध्वा स्वाधीनतां स्फुटम् ।

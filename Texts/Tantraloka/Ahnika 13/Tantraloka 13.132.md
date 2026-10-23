@@ -32,6 +32,9 @@ tatprātibhaṃ mahājñānaṃ śāstrācāryānapekṣi yat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 205)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.130–132]]
+
 > तीव्रतीव्रः शक्तिपातो देहपातवशात्स्वयम् ॥
 > मोक्षप्रदस्तदैवान्यकाले वा तारतम्यतः ।
 > मध्यतीव्रात्पुनः सर्वमज्ञानं विनिवर्तते ॥

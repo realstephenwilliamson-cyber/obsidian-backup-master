@@ -33,6 +33,11 @@ kṛtvā bhuvi guruṃ natvādāya saṃtarpya khecarīḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 409–410)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.285–287]]
+>
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.287–288]]
+
 *Lead-in:* एतदेव अत्र शिक्षयति--
 
 Jayaratha comments on this verse together with 29.286: see [[Tantraloka 29.286#Viveka|29.286]].

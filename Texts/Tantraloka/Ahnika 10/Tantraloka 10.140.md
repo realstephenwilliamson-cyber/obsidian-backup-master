@@ -33,6 +33,11 @@ ataḥ prabhotsyamānatve yānayorbodhayogyatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 381–383)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.139–140]]
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.140–141]]
+
 *Lead-in:* नन्वप्रबुद्धयोस्तावल्लयाकलयोर्वेदितृत्वं नास्तीत्यविवादः, प्रबुद्धौ च तौ सकलमन्त्रादिरूपतां प्राप्नुतः, -- इति तदपेक्षयैव तदा वेद्यता भावधर्मः स्यान्न लयाकलापेक्षयेत्येवमपि पाञ्चदश्यादिक्रमो विघटेत ? -- इत्याशङ्क्याह --
 
 > अतः प्रभोत्स्यमानत्वे यानयोर्बोधयोग्यता ॥

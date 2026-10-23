@@ -36,6 +36,11 @@ sa ca vyāptāpi viśvasya yasmātpluṣyannimāṃ bhuvam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 79–80)
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.22–23]]
+>
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.23–24]]
+
 *Lead-in:* इत्याद्युक्त्या नरकोर्ध्वमस्यावस्थानं युक्तम्, तत् कथं तदध उक्तम्? -- इत्याशङ्क्याह --
 
 > स च व्याप्तापि विश्वस्य यस्मात्प्लुष्यन्निमां भुवम् ॥

@@ -35,6 +35,9 @@ arcayejjuhuyāddhyāyeditthaṃ sañjīvanīṃ kalām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 79–80)
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.69]]
+
 *Lead-in:* अतश्च तदधिकारेणैव सर्वमिदं बाह्यमर्चनादि विधेयम् ? -- इत्याह --
 
 > वित्प्राणगुणदेहान्तर्बहिर्द्रव्यमयीमिमाम् ।

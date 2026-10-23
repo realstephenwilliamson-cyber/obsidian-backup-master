@@ -33,6 +33,11 @@ manobuddhyakṣakarmākṣavargastanmātravargakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 252–255)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.271–272]]
+>
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.272–273]]
+
 *Lead-in:* इति । तदाह --
 
 > मनोबुद्ध्यक्षकर्माक्षवर्गस्तन्मात्रवर्गकः ॥

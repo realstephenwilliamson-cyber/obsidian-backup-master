@@ -37,6 +37,11 @@ vidyeśāvaraṇe dīkṣāṃ yāvatīṃ kurute nṛṇām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 218–219)
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.195]]
+>
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.195–196]]
+
 *Lead-in:* ननु किं तत्प्राप्त्या? -- इत्याशङ्क्याह --
 
 > निर्बीजदीक्षया मोक्षं ददाति परमेश्वरी ।

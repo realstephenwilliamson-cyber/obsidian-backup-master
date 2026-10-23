@@ -34,6 +34,9 @@ malamāyākarmaṇāṃ ca darśayiṣyāmahe sthitim || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 413)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.239–240]]
+
 > मलो नाम किल द्रव्यं चक्षुःस्थपटलादिवत् ।
 > तद्विहन्त्री क्रिया दीक्षा त्वञ्जनादिककर्मवत् ॥
 > तत्पुरस्तान्निषेत्स्यामो युक्त्यागमविगर्हितम् ।

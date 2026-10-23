@@ -33,6 +33,11 @@ ucitāṃ saṃvidhitsustāṃ vāsanāṃ tādṛśīṃ śrayet |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 30–31)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.34–35]]
+>
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.35–36]]
+
 *Lead-in:* ननु परं प्रति एवं प्रयत्नेन अस्य किं स्यात् ?--इत्याशङ्क्य आह--
 
 > आयातशक्तिपातस्य दीक्षां प्रति न दैशिकः ॥

@@ -36,6 +36,11 @@ tata ekaikavarṇatvaṃ tattve tattve kṣamāditaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 46–47)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.48–49]]
+>
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.49–50]]
+
 *Lead-in:* अत एवात्र पदमन्त्रक्रोडीकारसहिष्णुतयैव वर्णाध्वनो निर्देशः -- इत्याह --
 
 > तत एकैकवर्णत्वं तत्त्वे तत्त्वे क्षमादितः ॥

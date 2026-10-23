@@ -33,6 +33,9 @@ atha tattvapravibhāgo vistarataḥ kathyate kramaprāptaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 1–3)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.1]]
+
 *Lead-in:* इदानीं द्वितीयार्धेन तत्त्वप्रविभागं कथयितुं प्रतिजानीते --
 
 > अथ तत्त्वप्रविभागो विस्तरतः कथ्यते क्रमप्राप्तः ॥

@@ -31,6 +31,9 @@ stanau hastau ca pādau ca guhyacakre dvirabhyaset || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 279–280)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.88]]
+
 > उदये सङ्गमे शान्तौ त्रिलक्षो जप उच्यते ।
 > आस्ये गमागमे सूत्रे हंसाख्ये शैवयुग्मके ॥
 > पञ्चलक्षा इमे प्रोक्ता दशांशं होममाचरेत् ।

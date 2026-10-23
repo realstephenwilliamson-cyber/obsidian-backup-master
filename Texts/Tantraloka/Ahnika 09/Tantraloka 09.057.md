@@ -31,5 +31,8 @@ brahmaviṣṇuhareśānasuśivānāśritātmani || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 63)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.55–59]]
+
 Jayaratha comments on this verse together with 9.59: see [[Tantraloka 09.059#Viveka|9.59]].
 

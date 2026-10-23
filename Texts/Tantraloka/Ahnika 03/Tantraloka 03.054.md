@@ -35,6 +35,9 @@ pratibimbātmatāmāhuḥ khaḍgādarśatalādivat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 127)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.54]]
+
 *Lead-in:* इति प्रज्ञालङ्कारकारिकार्थगर्भीकारेण लक्षणमाह --
 
 > स्वरूपानपहानेन पररूपसदृक्षताम् ।

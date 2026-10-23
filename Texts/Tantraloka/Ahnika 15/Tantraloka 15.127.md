@@ -33,6 +33,11 @@ yonibījārṇasāṅkaryaṃ bahudhā yadyapi sthitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 85–86)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.126–127]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.127–128]]
+
 *Lead-in:* ननु बीजयोनीनामनेकप्रकारः शास्त्रेषु क्षोभ उक्तः, तत् कथमस्या एव एवं सामर्थ्यमित्युच्यते ?--इत्याशङ्क्य आह--
 
 > योनिबीजार्णसाङ्कर्यं बहुधा यद्यपि स्थितम् ॥

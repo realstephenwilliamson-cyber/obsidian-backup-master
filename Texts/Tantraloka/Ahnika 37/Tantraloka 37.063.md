@@ -36,6 +36,11 @@ svātmārāmastadayamaniśaṃ tattvasevāraso'bhūt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 257–258)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 37.64.*
+>
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.64]]
+
 *Lead-in:* एते सेवारसविरचितानुग्रहाः शास्त्रसार-
 
 Jayaratha comments on this verse together with 37.64: see [[Tantraloka 37.064#Viveka|37.64]].

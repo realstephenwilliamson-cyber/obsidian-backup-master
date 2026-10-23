@@ -31,6 +31,9 @@ dvau dvau bhāgau parityajya punardakṣiṇasaumyagau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 95)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.62–63]]
+
 > वेदाश्रिते त्रिहस्ते प्राक् पूर्वमर्धं विभाजयेत् ।
 > हस्तार्धं सर्वतस्त्यक्त्वा पूर्वोदग्याम्यदिग्गतम् ॥
 > त्र्यंगुलैः कोष्ठकैरूर्ध्वैस्तिर्यक् चाष्टद्विधात्मकैः ।

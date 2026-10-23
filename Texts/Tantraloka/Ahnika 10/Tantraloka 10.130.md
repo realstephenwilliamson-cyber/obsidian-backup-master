@@ -33,6 +33,11 @@ vijñānakevalādīnāṃ tāvatyapi na vai bhidā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 376–377)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.129–130]]
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.130–131]]
+
 *Lead-in:* विज्ञानाकलादीनां पुनः संस्कारमात्ररूपोऽपि भेदो नास्ति - इत्याह --
 
 > विज्ञानकेवलादीनां तावत्यपि न वै भिदा ॥

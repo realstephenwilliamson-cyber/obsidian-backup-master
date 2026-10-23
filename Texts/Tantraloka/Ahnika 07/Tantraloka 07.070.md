@@ -36,6 +36,11 @@ atra madhyamasañcāriprāṇodayalayāntare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 47–48)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.68–70]]
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.70]]
+
 *Lead-in:* नन्वेवं देहस्य मानवैचित्र्ये प्राणादेरपि कश्चिदतिशयो न वा ? -- इत्याशङ्क्याह --
 
 > अत्र मध्यमसञ्चारिप्राणोदयलयान्तरे ॥

@@ -13,29 +13,38 @@ filters:
     - file.folder.startsWith("Catalog/")
     - subject.contains("Other")
     - status != "delete"
+formulas:
+  Read: files.filter(value.asFile().ext == "md").map(link(value, "Read"))
 views:
   - type: table
     name: Other
     order:
-      - file.name
+      - formula.Read
+      - title
       - author
-      - year
       - type
-      - text
+      - year
       - status
+      - physical_copy
+      - file.tags
     sort:
       - property: file.name
         direction: ASC
+    columnSize:
+      note.title: 517
   - type: table
     name: Needs review
     filters:
       and:
         - status == "review"
     order:
+      - formula.Read
       - file.name
       - author
+      - type
       - year
     sort:
       - property: file.name
         direction: ASC
+
 ```

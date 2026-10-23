@@ -34,6 +34,9 @@ kṣobhyakṣobhakabhāvasya satattvaṃ darśitaṃ mayā |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 194)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.90]]
+
 *Lead-in:* न चैतत्स्वोपज्ञमेवोक्तम्, -- इत्याह --
 
 > क्षोभ्यक्षोभकभावस्य सतत्त्वं दर्शितं मया ।

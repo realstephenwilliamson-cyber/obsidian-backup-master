@@ -33,6 +33,11 @@ tadaharjātabālasya paśoḥ kīṭasya vā taroḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 153–154)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.345–349]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.349–351]]
+
 *Lead-in:* ननु गाढमूढतया क्षणमपि भावनावकाशो येषां नास्ति तेषामन्त्यस्मरणाभावात् कथङ्कारं देहान्तरासङ्गः स्यात् ?-- इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 28.348: see [[Tantraloka 28.348#Viveka|28.348]].

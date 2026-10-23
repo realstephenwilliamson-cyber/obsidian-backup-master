@@ -36,6 +36,11 @@ jñeyaṃ dvidhā ca cinmātraṃ jaḍaṃ cādyaṃ ca kalpitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 350–353)
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.174–176]]
+>
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.176–178]]
+
 *Lead-in:* ननु ज्ञेयं तावत् जडाजडात्म द्विधा सम्भवति, तत्र संविदि जडेन नीलादिनापि आवेशोऽस्ति इति कथं "बोधात्मैव समावेशः"इत्युक्तम् ? इत्याह --
 
 Jayaratha comments on this verse together with 1.175: see [[Tantraloka 01.175#Viveka|1.175]].

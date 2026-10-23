@@ -36,6 +36,11 @@ pratyakṣe'pi sthitasyāṇoḥ pāpino bhagavanmayī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 273–274)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.54–56]]
+>
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.56–57]]
+
 *Lead-in:* तत इति--एवंविध्यनन्तरम् । अमुमेव विधिं संनिहितस्य जीवतोऽप्यतिदिशति--
 
 > प्रत्यक्षेऽपि स्थितस्याणोः पापिनो भगवन्मयी ॥

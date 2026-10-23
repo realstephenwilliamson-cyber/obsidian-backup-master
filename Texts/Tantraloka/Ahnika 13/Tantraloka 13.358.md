@@ -31,6 +31,9 @@ ihānugrāhya ūrdhvordhvaṃ netastu patitaḥ kvacit || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 342–343)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.358]]
+
 *Lead-in:* नचैतदेवास्य दर्शनस्योत्तमत्वे निमित्तं यावदन्यदपि -- इत्याह --
 
 > अतश्चाप्युत्तमं शैवं योऽन्यत्र पतितः स हि ।

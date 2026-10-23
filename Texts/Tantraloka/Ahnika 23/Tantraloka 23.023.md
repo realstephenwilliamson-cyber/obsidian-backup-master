@@ -33,5 +33,10 @@ abhiṣekavidhau cāsmai karaṇīkhaṭikādikam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 307)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 23.23–24.*
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.23–24]]
+
 Jayaratha comments on this verse together with 23.24: see [[Tantraloka 23.024#Viveka|23.24]].
 

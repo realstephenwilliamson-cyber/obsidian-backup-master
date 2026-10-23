@@ -35,5 +35,8 @@ caturdaśaḥ praveśo ya ekīkṛtatadātmakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 194–197)
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.142–144]]
+
 Jayaratha comments on this verse together with 5.144: see [[Tantraloka 05.144#Viveka|5.144]].
 

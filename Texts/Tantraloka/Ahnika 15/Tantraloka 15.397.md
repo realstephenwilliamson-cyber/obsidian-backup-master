@@ -32,6 +32,9 @@ vākyaṃ gṛhṇāti ko'pyādau tathātrāpyavabudhyatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 243)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.397]]
+
 *Lead-in:* एतदेव दृष्टान्तमुखेन हृदयङ्गमयति--
 
 > यथा हि कश्चित्प्रतिभादरिद्रोऽभ्यासपाटवात् ।

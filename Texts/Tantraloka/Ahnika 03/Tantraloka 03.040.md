@@ -35,6 +35,9 @@ bahiḥspṛśonyākṣadhiyaḥ sa gocaraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 114)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.40]]
+
 *Lead-in:* तदाह—
 
 > न चान्तरे स्पर्शनधामनि स्थितं ।

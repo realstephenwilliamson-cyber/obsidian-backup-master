@@ -34,6 +34,9 @@ viduścatuṣṭaye cātra sāvakāśe tadāsthitim || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 371–373)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.191]]
+
 *Lead-in:* ननु भूतानां प्रत्यक्षसिद्धत्वम् अनुमेयात् तत्त्ववर्गात् पृथक्त्वेऽस्तु निमित्तं कथं पुनर्भूतत्वेऽपि तदेव ? इत्याशङ्क्याह --
 
 > सर्वप्रतीतिसद्भावगोचरं भूतमेव हि ।

@@ -34,6 +34,9 @@ na tadā mucyate dehāddehānte tu śivaṃ vrajet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 265)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.31]]
+
 *Lead-in:* मनुष्यजन्मनि पुनरयं विशेषः--इत्याह--
 
 > अधिकारिशरीरत्वान्मानुष्ये तु शरीरगः ।

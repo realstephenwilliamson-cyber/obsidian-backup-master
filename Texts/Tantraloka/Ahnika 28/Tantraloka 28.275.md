@@ -31,6 +31,9 @@ dīkṣā jñānaṃ tathā tīrthaṃ tasyetyādi savistaram || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 119–120)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.274–275]]
+
 > यस्तूर्ध्वशास्त्रगस्तत्र त्यक्तास्थः संशयेन सः ।
 > व्रजन्नायतनं नैव फलं किञ्चित्समश्नुते ॥
 > उक्तं तद्विषयं चैतद्देवदेवेन यद्वृथा ।

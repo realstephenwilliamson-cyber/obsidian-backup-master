@@ -33,6 +33,11 @@ tathāhi bāhyavṛttīnāmakṣāṇāṃ vṛttibhāsane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 258–259)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.276–277]]
+>
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.277–278]]
+
 *Lead-in:* युक्तत्वमेवात्रोपदर्शयति --
 
 > तथाहि बाह्यवृत्तीनामक्षाणां वृत्तिभासने ॥

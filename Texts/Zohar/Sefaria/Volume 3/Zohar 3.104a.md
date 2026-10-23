@@ -39,5 +39,5 @@ Pritzker translation (Wolski and Hecker): [[Zohar 12.06 - Piqqudin#^z3-104a|Piqq
 
 **Emor 44:285** In the Book of King Solomon it is written that at the hour of wedded union on earth, God sends a certain form with the figure of a human being which hovers over the union, and if a man’s eye were capable of such a thing it would see such a form over his head. ^emor-44-285
 
-[^1]: v. T. B. Sotah, 10b.
+[^1]: v. T. B. [[Sotah 10#10b|Sotah, 10b]].
 [^2]: There is here a lacuna in the text.

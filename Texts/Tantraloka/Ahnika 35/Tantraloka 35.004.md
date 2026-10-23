@@ -33,6 +33,11 @@ abhitaḥsaṃvṛte jāta ekākī kṣudhitaḥ śiśuḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 192–193)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.3–4]]
+>
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.4–5]]
+
 *Lead-in:* एतदेव व्यतिरेकद्वारेण व्यनक्ति--
 
 > अभितःसंवृते जात एकाकी क्षुधितः शिशुः ॥

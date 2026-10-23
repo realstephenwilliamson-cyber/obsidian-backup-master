@@ -31,6 +31,9 @@ viditau bhavatastatra gururmokṣaprado bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 375)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.230]]
+
 *Lead-in:* एवमभिषेकेण अनयोः किं स्यात् ?--इत्याशङ्कां निराचिकीर्षुरागममेव पठति--
 
 > अभिषिक्ताविमावेवं सर्वयोगिगणेन तु ।

@@ -35,6 +35,9 @@ saṃśayo'stitvanāstyādidharmānudghāṭitātmakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 422–423)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.248]]
+
 *Lead-in:* एतदेव विभज्य दर्शयति --
 
 > एतत्किमिति मुख्येऽस्मिन्नेतदंशः सुनिश्चितः ।

@@ -34,6 +34,9 @@ abhīṣṭe vastuni prāptirniścitā bhogamokṣayoḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 2–3)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.2]]
+
 *Lead-in:* ननु शाक्तोपायेनैव सर्वं सिद्ध्येदिति किमर्थम् एतन्निरूप्यते? -- इत्याशङ्कां गर्भीकृत्याह --
 
 > विकल्पस्यैव संस्कारे जाते निष्प्रतियोगिनि ।

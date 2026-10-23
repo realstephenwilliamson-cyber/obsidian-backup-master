@@ -36,6 +36,11 @@ yadā yathā yena yatra svā saṃvittiḥ prasīdati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 109–110)
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.15–16]]
+>
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.16–17]]
+
 *Lead-in:* इत्यादिना बाह्योपयोगः कथञ्चिदाम्नातः, इति किमेतदुक्तम्? -- इत्याशङ्क्याह --
 
 > यदा यथा येन यत्र स्वा संवित्तिः प्रसीदति ॥

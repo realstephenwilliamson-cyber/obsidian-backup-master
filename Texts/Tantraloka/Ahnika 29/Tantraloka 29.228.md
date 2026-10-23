@@ -31,5 +31,8 @@ kuryātpiṣṭādibhiścāsya catuṣṣaṣṭiṃ pradīpakān || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 374–375)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.228–229]]
+
 Jayaratha comments on this verse together with 29.229: see [[Tantraloka 29.229#Viveka|29.229]].
 

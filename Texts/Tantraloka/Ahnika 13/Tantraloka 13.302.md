@@ -31,6 +31,9 @@ gururullaṅghitādhaḥsthasrotā vai trikaśāstragaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 311–313)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.302]]
+
 *Lead-in:* नचैतन्निर्मूलमेवोक्तम् -- इत्याह --
 
 > उक्तं श्रीभैरवकुले पञ्चदीक्षासुसंस्कृतः ।

@@ -35,6 +35,9 @@ bhāvyavastusphuṭībhāvaḥ sañjalpahrāsayogataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 125–126)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.280]]
+
 *Lead-in:* एवं मन्त्राणां सत्तामभिधाय प्रयोजनमप्याह--
 
 > तदेवं मन्त्रसञ्जल्पविकल्पाभ्यासयोगतः ।

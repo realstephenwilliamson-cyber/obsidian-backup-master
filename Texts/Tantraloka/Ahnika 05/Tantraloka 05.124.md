@@ -35,6 +35,9 @@ siktaṃ tadeva sadviśvaṃ śaśvannavanavāyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 163–164)
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.124]]
+
 *Lead-in:* तदाह --
 
 > एतल्लिङ्गसमापत्तिविसर्गानन्दधारया ।

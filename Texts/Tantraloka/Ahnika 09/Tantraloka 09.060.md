@@ -31,6 +31,9 @@ tatra sākṣācchivecchaiva kartryābhāsitabhedikā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 63)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.60]]
+
 *Lead-in:* एतदेवाधिकावापेनोपसंहरति --
 
 > तदेवं पञ्चकमिदं शुद्धोऽध्वा परिभाष्यते ।

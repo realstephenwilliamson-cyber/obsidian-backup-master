@@ -33,6 +33,9 @@ athādhvano'sya prakṛta upayogaḥ prakāśyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 99)
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.1]]
+
 *Lead-in:* अथ द्वितीयार्धेनाध्वोपयोगं प्रकाशयितुमाह --
 
 > अथाध्वनोऽस्य प्रकृत उपयोगः प्रकाश्यते ॥

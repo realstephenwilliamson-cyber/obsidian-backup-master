@@ -37,6 +37,11 @@ tathā hyanacke sācke vā kādau sānte punaḥpunaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 182–183)
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.133]]
+>
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.133–134]]
+
 *Lead-in:* नन्वेवमस्य परिज्ञानेन किं स्यात् ? -- इत्याशङ्क्याह --
 
 > तदभ्यासवशाद्याति क्रमाद्योगी चिदात्मताम् ।

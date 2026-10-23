@@ -34,6 +34,9 @@ catuṣpādvā paśurdevīcarukārthaṃ prajāyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 32–33)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.65–68]]
+
 > उक्तं त्वानन्दशास्त्रे यो मन्त्रसंस्कारवांस्त्यजेत् ।
 > समयान्कुत्सयेद्देवीर्दद्यान्मन्त्रान् विना नयात् ॥
 > दीक्षामन्त्रादिकं प्राप्य त्यजेत्पुत्रादिमोहितः ।

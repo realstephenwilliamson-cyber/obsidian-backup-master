@@ -31,6 +31,9 @@ siddhātantre ca saikārṇā parā devīti kīrtitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 203–204)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.331–332]]
+
 > मध्यगा किल या देवी सैव सद्भावरूपिणी ॥
 > कालसङ्कर्षिणी घोरा शान्ता मिश्रा च सर्वतः ।
 > सिद्धातन्त्रे च सैकार्णा परा देवीति कीर्तिता ॥

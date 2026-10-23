@@ -33,6 +33,11 @@ yattacchāntaṃ rūpaṃ tenābhyastena hṛdayasaṃvittyā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 322–323)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.133]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.133–134]]
+
 *Lead-in:* न केवलमेतत् शक्तिचक्रे एव पूज्यं यावत्स्वस्मिन्नपि--इत्याह--
 
 > निजदेहगते धामनि तथैव पूज्यं समभ्यस्येत् ।

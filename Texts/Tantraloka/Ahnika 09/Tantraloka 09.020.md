@@ -36,6 +36,11 @@ svarūpānadhikasyāpi kramasya svasvabhāvataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 32)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.20]]
+>
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.20–21]]
+
 *Lead-in:* स्वभावपक्षाश्रयेऽपि अस्य नोपलब्धृस्वरूपादाधिक्यं पर्यवस्येत् -- इत्याह --
 
 > स्वभाव इति चेन्नासौ स्वरूपादधिको भवेत् ।

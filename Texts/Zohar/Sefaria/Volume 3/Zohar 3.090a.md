@@ -34,5 +34,5 @@ Pritzker translation (Matt): [[Zohar 8.04 - Parashat Emor#^z3-90a|Parashat Emor,
 *Not translated in the Soncino edition: Emor 12:39–12:40.*
 
 [^1]: The first 23 lines of the Hebrew text are not found in our translation.
-[^2]: v. T. B. Niddah, 13a.
+[^2]: v. T. B. [[Niddah 13#13a|Niddah, 13a]].
 [^3]: i.e. should have water poured over his hands, v. Shulcan Aruch.

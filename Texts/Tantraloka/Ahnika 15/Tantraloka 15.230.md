@@ -33,6 +33,11 @@ sa hi sarvamadhiṣṭhātā mādhyasthyeneti tasya yaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 138–139)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.229–230]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.230–231]]
+
 *Lead-in:* अत एव आह--
 
 > स हि सर्वमधिष्ठाता माध्यस्थ्येनेति तस्य यः ॥

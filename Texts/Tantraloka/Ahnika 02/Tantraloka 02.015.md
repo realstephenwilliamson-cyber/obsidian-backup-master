@@ -34,6 +34,9 @@ tatprakāśātmatāmātraṃ śivasyaiva nijaṃ vapuḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 24–25)
+> ![[Tantraloka Dyczkowski v02 02 - Chapter Two, part 1#Viveka on 2.15]]
+
 *Lead-in:* अत्रैव निमित्तान्तरमप्याह --
 
 > किं च यावदिदं बाह्यमान्तरोपायसंमतम् ।

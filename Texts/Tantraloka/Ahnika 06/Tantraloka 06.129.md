@@ -35,6 +35,9 @@ viśvātmāntaḥsthitastasya bāhye rūpaṃ nirūpyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 358)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.129]]
+
 *Lead-in:* एवमन्तःकालस्य स्वरूपं निरूप्य बहिरपि निरूपयति --
 
 > इति प्राणोदये योऽयं कालः शक्त्येकविग्रहः ।

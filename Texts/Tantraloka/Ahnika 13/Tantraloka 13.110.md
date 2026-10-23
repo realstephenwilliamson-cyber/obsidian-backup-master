@@ -33,6 +33,11 @@ tatrāṇoḥ sata evāsti svātantryaṃ karmato hi tat |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 190–191)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.109–110]]
+>
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.110–111]]
+
 *Lead-in:* ननु एवं स्वरूपगोपनात्मनि अणुत्वे सति कार्मः, ततस्तन्निमित्तकः संसार इति तयोः सर्ववादिप्रतिपन्नमनादित्वं व्याहन्येत? -- इत्याशङ्क्याह --
 
 > ईश्वरस्य च या स्वात्मतिरोधित्सा निमित्तताम् ॥

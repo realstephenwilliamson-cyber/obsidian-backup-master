@@ -36,6 +36,11 @@ aliases:
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 32–33)
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.24–25]]
+>
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.25]]
+
 *Lead-in:* न च एतदस्माभिः स्वोपज्ञमेवोक्तमित्याह --
 
 > श्रीकामिकायां प्रोक्तं च पाशप्रकरणे स्फुटम् ॥

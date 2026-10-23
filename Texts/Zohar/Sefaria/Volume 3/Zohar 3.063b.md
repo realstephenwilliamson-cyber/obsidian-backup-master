@@ -40,5 +40,5 @@ Pritzker translation (Wolski and Hecker): [[Zohar 12.06 - Piqqudin#^z3-63b|Piqqu
 *Not translated in the Soncino edition: Achrei Mot 22:138–22:139.*
 
 [^1]: =Gischala, in Galilee.
-[^2]: v. T. B. Yoma, 67a.
+[^2]: v. T. B. [[Yoma 67#67a|Yoma, 67a]].
 [^3]: v. Mishnah, Shekalim, iv, 2.

@@ -31,6 +31,9 @@ iti ṣoḍhā kulejyā syātpratibhedaṃ vibhedinī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 206)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.7]]
+
 *Lead-in:* एवमुक्तसतत्त्वश्च अयं यागः किमाधारः ?--इत्याशङ्क्य आह--
 
 > बहिः शक्तौ यामले च देहे प्राणपथे मतौ ।

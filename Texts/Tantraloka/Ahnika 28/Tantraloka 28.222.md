@@ -31,5 +31,8 @@ tatrāpi karmaniyatibalātsā prāṇanākṣatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 99–100)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.222–224]]
+
 Jayaratha comments on this verse together with 28.223: see [[Tantraloka 28.223#Viveka|28.223]].
 

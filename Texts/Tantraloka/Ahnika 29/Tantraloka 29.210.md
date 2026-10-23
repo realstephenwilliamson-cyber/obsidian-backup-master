@@ -31,6 +31,9 @@ bahirantaścoktaśaktyā pateditthaṃ sa bhūtale || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 365)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.210]]
+
 *Lead-in:* एवमपि यदि एतच्चिह्नानुदयात् मन्दशक्तिपातवतः कस्यचित् न अयमेवमावेशो जायते, तदा एवमस्य संस्कारान्तरं कुर्यात्--इत्याह--
 
 > अथवा कस्यचिन्नैवमावेशस्तद्दहेदिमम् ।

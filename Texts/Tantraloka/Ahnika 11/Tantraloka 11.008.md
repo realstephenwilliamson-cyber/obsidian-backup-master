@@ -34,6 +34,9 @@ vidyā niśānte śāntā ca śaktyante'ṇḍamidaṃ catuḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 4–5)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.8]]
+
 *Lead-in:* नन्वासां च किमनुगन्तव्यं किं वा सुखेन संग्रहणीयम् ? -- इत्याशङ्क्याह --
 
 > निवृत्तिः पृथिवीतत्त्वे प्रतिष्ठाव्यक्तगोचरे ।

@@ -34,6 +34,9 @@ parokṣadīkṣaṇe yadvā darbhādyaiḥ kalpite mṛte |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 44)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.94–96]]
+
 > तापनिर्घर्षसेकादिपारम्पर्येण वह्निताम् ॥
 > यथायोगोलको याति गुरुरेवं शिवात्मताम् ।
 > ततः पुरःस्थितं यद्वा पुरोभावितविग्रहम् ॥

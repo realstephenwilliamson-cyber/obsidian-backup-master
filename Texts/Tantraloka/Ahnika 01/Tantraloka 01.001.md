@@ -39,6 +39,9 @@ hṛdayamanuttarāmṛtakulaṃ mama saṃsphuratāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 5–34)
+> ![[Tantraloka Dyczkowski v01 02 - Chapter One, part 1#Viveka on 1.1]]
+
 > विमलकलाश्रयाभिनवसृष्टिमहा जननी
 > भरिततनुश्च पञ्चमुखगुप्तरुचिर्जनकः ।
 > तदुभययामलस्फुरितभावविसर्गमयं

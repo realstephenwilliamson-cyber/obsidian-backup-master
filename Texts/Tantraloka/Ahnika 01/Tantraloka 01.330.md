@@ -32,6 +32,9 @@ aliases:
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 476–478)
+> ![[Tantraloka Dyczkowski v01 13 - Chapter One, part 12#Viveka on 1.330]]
+
 *Lead-in:* ययोः -- बन्धमोक्षयोः संग्रहेण --
 
 > संक्षेपेण एषोऽर्थः प्रकटितः इत्यनेनैव सम्बन्धः ॥

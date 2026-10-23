@@ -35,6 +35,9 @@ dīkṣādikā kriyā ceyaṃ sā kathaṃ muktaye bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 412–413)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.237–238]]
+
 *Lead-in:* एवं च सति अयत्नेन परोक्तदूषणोद्धारः सिद्धः -- इत्याह --
 
 Jayaratha comments on this verse together with 1.238: see [[Tantraloka 01.238#Viveka|1.238]].

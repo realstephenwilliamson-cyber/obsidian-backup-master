@@ -47,8 +47,8 @@ Later, however, the sin [of the Golden Calf] caused both them and the world to b
 [^3]: An interpretation of the word וחי.
 [^4]: *Sif-rei*, end of *Parashat Behaalotcha*; *Bamidbar Rabbah*, end of *Parashat Nasso*.
 [^5]: [[Isaiah 47#^47-8|Isaiah 47:8]], 10; [[Zephaniah 2#^2-15|Zephaniah 2:15]].
-[^6]: *Shir Hashirim Rabbah* 2:10; *Zohar* [[Zohar 4.06 - Parashat Be-Shallah#^z2-58a|II:58a]]; [[Zohar 9.12 - Parashat Va-Ethannan#^z3-269a|III:269a]]; cf. *Zevachim* 116a.
-[^7]: *Sanhedrin* 100b.
+[^6]: *Shir Hashirim Rabbah* 2:10; *Zohar* [[Zohar 4.06 - Parashat Be-Shallah#^z2-58a|II:58a]]; [[Zohar 9.12 - Parashat Va-Ethannan#^z3-269a|III:269a]]; cf. [[Zevachim 116#116a|*Zevachim* 116a]].
+[^7]: [[Sanhedrin 100#100b|*Sanhedrin* 100b]].
 [^8]: [[Isaiah 30#^30-20|Isaiah 30:20]].
 [^9]: [[Isaiah 52#^52-8|Isaiah 52:8]].
 [^10]: [[Isaiah 60#^60-19|Isaiah 60:19-20]].
@@ -58,7 +58,7 @@ Later, however, the sin [of the Golden Calf] caused both them and the world to b
 [^14]: *Mechilta*, on the verse.
 [^15]: Rashi, [[Torah 18 - Mishpatim#^24-12|Exodus 24:12]]; *Zohar* [[Zohar 4.07 - Parashat Yitro#^z2-90b|II:90b]].
 [^16]: Liturgy, *Amidah* Prayer.
-[^17]: *Shabbat* 88b.
+[^17]: [[Shabbat 88#88b|*Shabbat* 88b]].
 [^18]: *Ketuvot* 111b.
 [^19]: [[Isaiah 60#^60-3|Isaiah 60:3]].
 [^20]: [[Isaiah 02#^2-5|Isaiah 2:5]].

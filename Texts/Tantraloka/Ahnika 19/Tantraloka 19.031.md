@@ -38,6 +38,13 @@ samayī putrako vāpi paṭhedvidyāmimāṃ tathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 220–221)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.29–31]]
+>
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.31]]
+>
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.31–32]]
+
 *Lead-in:* न केवलं क्रियादेरेव परिहारेण अत्र अस्याः साधनत्वं यावद् गुरोरपि--इत्याह--
 
 > समयी पुत्रको वापि पठेद्विद्यामिमां तथा ॥

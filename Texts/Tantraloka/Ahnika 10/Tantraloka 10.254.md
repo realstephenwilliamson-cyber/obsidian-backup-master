@@ -31,6 +31,9 @@ sarvādhvanaḥ padaṃ prāṇaḥ saṅkalpo'vagamātmakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 458–459)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.253–255]]
+
 > अत्रापि पूर्ववन्नाम लौकिकं स्वप्न इत्यदः ॥
 > बाह्याभिमतभावानां स्वापो ह्यग्रहणं मतम् ।
 > सर्वाध्वनः पदं प्राणः सङ्कल्पोऽवगमात्मकः ॥

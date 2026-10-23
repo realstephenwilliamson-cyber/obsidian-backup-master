@@ -34,6 +34,9 @@ sa cārthasaṅgamābhāvātso'pyādarśe'navasthiteḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 87)
+> ![[Tantraloka Dyczkowski v02 04 - Chapter Three, part 1#Viveka on 3.17]]
+
 *Lead-in:* किं नाम चेदं स्पर्शादीनां न्यग्भूतत्वम्? -- इत्याह --
 
 > न्यग्भावो ग्राह्यताभावात्तदभावोऽप्रमाणतः ।

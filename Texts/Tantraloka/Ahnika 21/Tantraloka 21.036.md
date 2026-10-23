@@ -36,6 +36,13 @@ antarbahirdvayaucityāttadatrotkṛṣṭamucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 267–268)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 21.37–42.*
+>
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.36]]
+>
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.37–42]]
+
 *Lead-in:* नन्वत्र कुशैर्गोमयेन वा देहस्य कल्पना कार्येत्यनन्तरमेवोक्तम्, तत्कथमिह अस्य फलमयत्वमप्युच्यते?--इत्याशङ्क्याह--
 
 > जातीफलादि यत्किञ्चित्तेन वा देहकल्पना ।

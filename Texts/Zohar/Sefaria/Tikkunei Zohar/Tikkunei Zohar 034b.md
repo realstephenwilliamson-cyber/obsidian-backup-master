@@ -297,11 +297,11 @@ It is this that is written:
 [^13]: angels
 [^14]: fire
 [^15]: speaking
-[^16]: *BT* Berakhot 12a
+[^16]: *BT* [[Berakhot 12#12a|Berakhot 12a]]
 [^17]: ibid.
 [^18]: 91
 [^19]: 91
-[^20]: *BT* Berakhot 53b
+[^20]: *BT* [[Berakhot 53#53b|Berakhot 53b]]
 [^21]: *tephilin*
 [^22]: *tephilin*
 [^23]: *’egel*

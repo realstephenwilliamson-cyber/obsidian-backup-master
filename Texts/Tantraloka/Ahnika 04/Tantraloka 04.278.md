@@ -35,6 +35,9 @@ yogyo'bhinavagupto'sminko'pi yāgavidhau budhaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 382–383)
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.278]]
+
 *Lead-in:* अत्र च सामान्येनोपक्रान्तमधिकारिणमुपसंहारभङ्ग्या विशेषेण निर्देष्टुमाह --
 
 > अलं वातिप्रसङ्गेन भूयसातिप्रपञ्चिते ।

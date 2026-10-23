@@ -31,6 +31,11 @@ sa rāmagupto guruśaṃbhuśāstrasevāvidhivyagrasamagramārgaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 260)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 37.69.*
+>
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.69]]
+
 > संपूरितं स्वहृदयं हृदि भावयन्तः ॥
 > षडर्धशास्त्रेषु समस्तमेव येनाधिजग्मे विधिमण्डलादि ।
 > स रामगुप्तो गुरुशंभुजास्त्रसेवाविधिव्यग्रसमग्रमार्गः ॥

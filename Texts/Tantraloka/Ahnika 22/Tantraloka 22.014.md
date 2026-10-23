@@ -33,6 +33,11 @@ tatropavāsya taṃ cānyadine sādhāramantrataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 281–283)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.12–14]]
+>
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.14–19]]
+
 *Lead-in:* तत्र लिङ्गोद्धृतौ तावदितिकर्तव्यतामाह--
 
 Jayaratha comments on this verse together with 22.13: see [[Tantraloka 22.013#Viveka|22.13]].

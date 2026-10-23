@@ -31,6 +31,9 @@ tasmātphalepsurapyanya mantraṃ nyasyātra mālinīm || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 92)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.137–139]]
+
 > साञ्जना अपि ये मन्त्रा गारुडाद्या न ते परम् ॥
 > मालिन्या पूरिताः सिद्ध्यै बलादेव तु मुक्तये ।
 > तस्मात्फलेप्सुरप्यन्यं मन्त्रं न्यस्यात्र मालिनीम् ॥

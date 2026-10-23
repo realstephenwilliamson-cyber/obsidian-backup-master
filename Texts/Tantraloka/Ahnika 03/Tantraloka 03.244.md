@@ -36,6 +36,11 @@ yā tu sphuṭānāṃ varṇānāmutpattau kāraṇaṃ bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 370)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.243–244]]
+>
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.244–245]]
+
 *Lead-in:* एवं मध्यमायाः स्थूलं रूपमुक्त्वा वैखर्या अप्यभिधत्ते --
 
 > या तु स्फुटानां वर्णानामुत्पत्तौ कारणं भवेत् ॥

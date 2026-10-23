@@ -35,6 +35,9 @@ puṣkarasaṃjño dvidalo hariyamavaruṇendavo'tra pūrvādau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 147–149)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.105]]
+
 *Lead-in:* द्वीपषट्कमेव च विभजति --
 
 > गिरिसप्तकपरिकल्पिततावत्खण्डास्तु पञ्च शाकाद्याः ।

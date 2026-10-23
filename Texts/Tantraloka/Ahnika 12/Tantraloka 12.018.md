@@ -36,6 +36,11 @@ yathā yenābhyupāyena kramādakramato'pi vā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 110–112)
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.17–18]]
+>
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.18–19]]
+
 *Lead-in:* तदाह -
 
 > यथा येनाभ्युपायेन क्रमादक्रमतोऽपि वा ॥

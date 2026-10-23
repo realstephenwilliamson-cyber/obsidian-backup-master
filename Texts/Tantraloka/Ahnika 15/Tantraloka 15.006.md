@@ -31,5 +31,8 @@ ityasminmālinīvākye sākṣānmokṣābhyupāyatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 4–5)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.5–7]]
+
 Jayaratha comments on this verse together with 15.7: see [[Tantraloka 15.007#Viveka|15.7]].
 

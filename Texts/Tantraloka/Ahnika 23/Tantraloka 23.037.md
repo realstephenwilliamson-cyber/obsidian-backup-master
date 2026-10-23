@@ -31,6 +31,9 @@ ardhendurodhikānādatadantavyāpiśaktigam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 315)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.37–39]]
+
 *Lead-in:* एवं मन्त्रस्य प्राणशक्तेश्च एक्ये सिद्धे कुत्र नाम चक्राधारादौ जप्यमानोऽस्य मन्त्रः स्ववीर्याक्रमणात्मकं महत्त्वं यायात् ?-- इत्याह--
 
 Jayaratha comments on this verse together with 23.38: see [[Tantraloka 23.038#Viveka|23.38]].

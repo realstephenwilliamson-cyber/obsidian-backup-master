@@ -36,6 +36,11 @@ ityetaddhṛdayādyekasvabhāve'pi svadhāmani || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 54–56)
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.53]]
+>
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.53–54]]
+
 *Lead-in:* नन्वत्र विश्रान्त्या किं स्यात् ? -- इत्याशङ्क्याह --
 
 > या तत्र सम्यग्विश्रान्तिः सानुत्तरमयी स्थितिः ।

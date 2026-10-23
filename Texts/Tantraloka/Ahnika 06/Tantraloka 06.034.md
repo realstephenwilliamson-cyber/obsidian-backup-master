@@ -34,6 +34,9 @@ varṇamantrapadābhikhyamatrāste'dhvatrayaṃ sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 252)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.34–35]]
+
 *Lead-in:* ननु परस्याः संविदो मूर्तिक्रियाभासनमध्वेत्युक्तं तत्र क्रियावभासने कतरोऽध्वा मूर्त्यवभासने च कतरः ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 6.35: see [[Tantraloka 06.035#Viveka|6.35]].

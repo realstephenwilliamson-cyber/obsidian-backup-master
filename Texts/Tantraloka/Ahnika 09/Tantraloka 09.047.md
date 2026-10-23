@@ -33,6 +33,11 @@ pumānniyatyā kālaśca rāgavidyākalānvitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 52–55)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 9.47–48.*
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.47–48]]
+
 > पुंरागवित्कलाकालमाया ज्ञानोत्तरे क्रमात् ॥
 > नियतिर्नास्ति वैरिञ्चे कलोर्ध्वे नियतिः श्रुता ।
 > पुंरागवित्त्रयादूर्ध्वं कलानियतिसंपुटम् ॥

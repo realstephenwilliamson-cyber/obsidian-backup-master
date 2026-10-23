@@ -31,6 +31,9 @@ eka eva cidātmaiṣa viśvāmarśanasārakaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 178–179)
+> ![[Tantraloka Dyczkowski v11 07 - Chapter Thirty-Three#Viveka on 33.20–21]]
+
 *Lead-in:* वस्तुतो हि चित्प्रकाश एव एकः समस्ति, यस्य शक्तितद्व्यपदेशमात्रत्वम्--इत्याह--
 
 Jayaratha comments on this verse together with 33.21: see [[Tantraloka 33.021#Viveka|33.21]].

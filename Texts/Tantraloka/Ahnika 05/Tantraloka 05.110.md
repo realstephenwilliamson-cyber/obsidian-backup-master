@@ -35,6 +35,9 @@ tathaiva cakre kutrāpi praveśātko'pi saṃbhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 146–147)
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.109–110]]
+
 > यथा सर्वेशिना बोधेनाक्रान्तापि तनुः क्वचित् ॥
 > किञ्चित्कर्तं प्रभवति चक्षुषा रूपसंविदम् ।
 > तथैव चक्रे कुत्रापि प्रवेशात्कोऽपि संभवेत् ॥

@@ -33,5 +33,8 @@ ekadvitricatuḥpañcaṣaḍlataikatamaṃ mahat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 70)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.129–130]]
+
 Jayaratha comments on this verse together with 28.142: see [[Tantraloka 28.142#Viveka|28.142]].
 

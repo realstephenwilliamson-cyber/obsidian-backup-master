@@ -31,6 +31,9 @@ yathārthatattvasaṅghajñastathā śiṣye prakāśakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 299)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.11–12]]
+
 *Lead-in:* अस्मद्दर्शने तु ज्ञानवत्त्वमन्तरेण न कश्चिदयं नियमः--इत्याह--
 
 > श्रीपूर्वशास्त्रे न त्वेष नियमः कोऽपि चोदितः ।

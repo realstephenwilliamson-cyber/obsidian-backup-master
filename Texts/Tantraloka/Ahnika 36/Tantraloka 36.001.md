@@ -34,6 +34,9 @@ bhairavo bhairavī devī svacchando lākulo'ṇurāṭ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 220–222)
+> ![[Tantraloka Dyczkowski v11 10 - Chapter Thirty-Six#Viveka on 36.1–7]]
+
 *Lead-in:* इदानीं सर्वशास्त्रविश्रान्तिधाम्नः प्रक्रान्तस्य शास्त्रस्य आयातिक्रमं कथयितुमुपक्रमते--
 
 > आयातिरथ शास्त्रस्य कथ्यतेऽवसरागता ।

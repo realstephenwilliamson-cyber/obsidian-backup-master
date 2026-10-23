@@ -33,6 +33,11 @@ tadākramya balaṃ mantrā ayamevodayaḥ sphuṭaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 76–77)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.112–113]]
+>
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.113–114]]
+
 *Lead-in:* महाजनैरपि एतत् परिगृहीतम्--इत्याह--
 
 > ऽऽतदाक्रम्य बलं मन्त्राऽऽ ऽऽअयमेवोदयः स्फुटःऽऽ ॥

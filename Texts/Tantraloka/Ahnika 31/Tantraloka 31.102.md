@@ -31,5 +31,8 @@ daṇḍo dvihasta ūrdhvādhaḥpīṭhayugvipulastvasau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 110)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.102–105]]
+
 Jayaratha comments on this verse together with 31.104: see [[Tantraloka 31.104#Viveka|31.104]].
 

@@ -31,6 +31,9 @@ iti śrīsumatiprajñācandrikāśāntatāmasaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 478–479)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.287]]
+
 *Lead-in:* नन्विह "श्रीशम्भुनाथाज्ज्ञात्वा मयैतद्दर्श्यते"इति प्रागुक्तं तेन पुनः स्वोपज्ञमेव किमेतदुक्तं न वा ? -- इत्याशङ्क्याह --
 
 > इति श्रीसुमतिप्रज्ञाचन्द्रिकाशान्ततामसः ।

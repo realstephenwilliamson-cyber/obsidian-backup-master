@@ -30,6 +30,11 @@ anuttarapadāptaye tadidamāṇavaṃ darśitābhyupāyamativistarānnanu vidā�
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 119)
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.26]]
+>
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 12.26 (continued)]]
+
 > दर्शिताभ्युपायमिति दर्शितः स्थानभेदाद्यात्माभ्युपायो यस्य इति शिवम् ॥
 
 चिदभेदभावनावशनिरस्तशङ्काकलङ्कदुर्ललितः ।

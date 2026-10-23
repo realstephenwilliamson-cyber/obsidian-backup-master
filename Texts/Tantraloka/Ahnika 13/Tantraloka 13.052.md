@@ -33,6 +33,11 @@ sa eṣa śaktipātākhyaḥ śāstreṣu paribhāṣyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 156–157)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.51–52]]
+>
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.52]]
+
 *Lead-in:* ननु सर्वत्र पारमेश्वरः शक्तिपात एव स्वसंविदभिव्यक्तो निमित्तमित्यादिष्टं तत्कथमिह रोधशक्त्यौदासीन्यात्मा मलपरिपाक एवोक्तः? -- इत्याशङ्क्याह --
 
 > स एष शक्तिपाताख्यः शास्त्रेषु परिभाष्यते ॥

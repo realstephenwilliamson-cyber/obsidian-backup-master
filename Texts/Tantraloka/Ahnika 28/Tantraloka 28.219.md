@@ -33,6 +33,11 @@ garbhasthadehanirmāṇe tasyaiveśvaratā punaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 98–99)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.218–219]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.219–220]]
+
 *Lead-in:* ननु गर्भस्थ एव देहः कुतस्त्यो यद्गतत्वेन प्राथमिकः प्राणनोदयोऽपि स्यात् ?--इत्याशङ्क्य आह--
 
 > गर्भस्थदेहनिर्माणे तस्यैवेश्वरता पुनः ॥

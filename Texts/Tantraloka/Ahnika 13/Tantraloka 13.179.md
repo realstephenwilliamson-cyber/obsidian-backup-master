@@ -33,6 +33,11 @@ prādurbhūtavivekasya syāccidindriyagocare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 232–234)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.177–179]]
+>
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.179–180]]
+
 *Lead-in:* अत एवास्यार्वाग्दर्शिवैलक्षण्यमपि जायते -- इत्याह --
 
 > प्रादुर्भूतविवेकस्य स्याच्चिदिन्द्रियगोचरे ॥

@@ -32,5 +32,8 @@ carau ca vīradravyāṇi laukikānyathavecchayā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 272–273)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.436–441]]
+
 Jayaratha comments on this verse together with 15.440: see [[Tantraloka 15.440#Viveka|15.440]].
 

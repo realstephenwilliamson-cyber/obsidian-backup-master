@@ -37,6 +37,11 @@ yo'sau nādātmakaḥ śabdaḥ sarvaprāṇiṣvavasthitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 218–221)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.112–113]]
+>
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.113–114]]
+
 *Lead-in:* न केवलं परामर्शनीयविश्ववैचित्र्यात्मना परिस्फुरतोऽस्य न स्वस्वरूपात् प्रच्यावो यावत्तत्तत्परामर्शात्मनापि -- इत्याह --
 
 > योऽसौ नादात्मकः शब्दः सर्वप्राणिष्ववस्थितः ॥

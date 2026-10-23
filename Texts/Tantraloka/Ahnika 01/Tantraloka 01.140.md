@@ -34,6 +34,9 @@ pūrṇameva nijaṃ rūpaṃ kaṃcidaṃśāṃśikākramāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 307)
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.140]]
+
 *Lead-in:* एवं मलनिर्ह्रासतारतम्यानुसारमेव आत्मनां भगवत्स्वरूपमपि प्रथते -- इत्याह --
 
 > अतः कंचित्प्रमातारं प्रति प्रथयते विभुः ।

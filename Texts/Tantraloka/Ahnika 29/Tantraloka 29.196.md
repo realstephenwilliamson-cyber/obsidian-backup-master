@@ -31,6 +31,9 @@ dantakāṣṭhasamādānaparyantastatra lakṣayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 357–358)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.196–197]]
+
 *Lead-in:* ननु एकेनैव नेत्रपटग्रहाद्यात्मना करस्तोभेन अस्य शक्त्यावेशो लक्षित इति किं पुनस्तद्वचनेन ?--इत्याशङ्क्य आह--
 
 > करस्तोभो नेत्रपटग्रहात् प्रभृति यः किल ।

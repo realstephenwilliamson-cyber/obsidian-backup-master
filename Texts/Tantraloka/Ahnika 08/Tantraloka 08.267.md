@@ -35,6 +35,9 @@ sakalajagadekamāturbhartuḥ śrīkaṇṭhanāthasya || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 276)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.263–267]]
+
 > योनीरतीत्य गौणे स्कन्धे स्युर्योगदातारः ।
 > अकृतकृतविभुविरिञ्चा हरिर्गुहः क्रमवशात्ततो देवी ॥
 > करणान्यणिमादिगुणाः कार्याणि प्रत्ययप्रपञ्चश्च ।

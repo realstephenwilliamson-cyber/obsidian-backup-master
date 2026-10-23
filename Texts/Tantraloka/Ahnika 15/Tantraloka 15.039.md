@@ -33,6 +33,11 @@ sa eva hi guruḥ kāryastato'sau dīkṣaṇe kṣamaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 34–35)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.38–39]]
+>
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.39–40]]
+
 *Lead-in:* न च एतदशक्यानुष्ठानम्--इत्याह--
 
 > शिवतावेशिता चास्य बहूपाया प्रदर्शिता ॥

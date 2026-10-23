@@ -34,6 +34,9 @@ adhunā mātṛbhāgasthaṃ rūpam tredhā nirūpyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 43)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.42–43]]
+
 > इत्थं त्र्यात्माध्वनो भेदः स्थूलसूक्ष्मपरत्वतः ॥
 > मेयभागगतः प्रोक्तः पुरतत्त्वकलात्मकः ।
 > अधुना मातृभागस्थं रूपम् त्रेधा निरूप्यते ॥

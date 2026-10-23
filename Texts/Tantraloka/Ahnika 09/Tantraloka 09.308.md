@@ -33,6 +33,11 @@ tadvinā na bhavedyattad vyāptamityucyate yataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 280–281)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.308]]
+>
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.308–309]]
+
 *Lead-in:* एतदेव हेतुत्वस्य लाघवस्य व्यभिचारं दर्शयन्नुपपादयति --
 
 > अहेतुनापि रागो हि व्याप्तो विद्यादिना स्फुटम् ।

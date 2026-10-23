@@ -31,5 +31,10 @@ sambodhopāyatvaṃ tathaiva gururāśrayed vyākhyām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 188–189)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 28.407.*
+>
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.407]]
+
 Jayaratha comments on this verse together with 28.407: see [[Tantraloka 28.407#Viveka|28.407]].
 

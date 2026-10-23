@@ -34,6 +34,9 @@ tatra siddhiśca muktiśca samaṃ saṃprāpyate dvayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 186–188)
+> ![[Tantraloka Dyczkowski v03 06 - Chapter Four, part 5#Viveka on 4.139]]
+
 *Lead-in:* न केवलमेषां बाह्यौन्मुख्य एव साधकतमत्वं, यावत् स्वात्मविश्रान्तावपि, इत्याह --
 
 > तत्रानन्दश्च सर्वस्य ब्रह्मचारी च तत्परः ।

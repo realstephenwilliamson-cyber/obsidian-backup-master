@@ -33,6 +33,11 @@ nimittaṃ karmasaṃskāraḥ sa ca teṣu na vidyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 126–127)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.7]]
+>
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.7–8]]
+
 *Lead-in:* ननु यद्येवं तत् पुंस्त्वाविशेषान्मुक्ताणून् प्रत्यपि किं न तत्सुवीत? - - इत्याह --
 
 > पुंसश्च निर्विशेषत्वे मुक्ताणून् प्रति किं न तत् ।

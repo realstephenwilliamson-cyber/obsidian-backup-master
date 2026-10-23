@@ -33,6 +33,11 @@ maivamadhvastasaṅkoco'pyasau bhāvanayā dṛḍham || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 97–98)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.102–103]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.103–104]]
+
 *Lead-in:* तदेव प्रतिविधत्ते --
 
 > मैवमध्वस्तसङ्कोचोऽप्यसौ भावनया दृढम् ॥

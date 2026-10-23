@@ -33,6 +33,13 @@ bhasmacchannāgnivatsphauṭyaṃ prātibhe gauravāgamāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 231)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.174–175]]
+>
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.175–176]]
+>
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.175–176 (continued)]]
+
 *Lead-in:* एतदेव दृष्टान्तोपदर्शनेन हृदयङ्गमयति --
 
 Jayaratha comments on this verse together with 13.174: see [[Tantraloka 13.174#Viveka|13.174]].

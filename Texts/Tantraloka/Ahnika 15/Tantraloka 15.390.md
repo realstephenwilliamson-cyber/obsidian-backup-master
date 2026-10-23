@@ -34,6 +34,11 @@ evaṃ dehe sthaṇḍile vā liṅge pātre jale'nale || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 241)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.389–390]]
+>
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.390–391]]
+
 *Lead-in:* एतदेव अन्यत्र अपि अतिदिशति--
 
 > एवं देहे स्थण्डिले वा लिङ्गे पात्रे जलेऽनले ॥

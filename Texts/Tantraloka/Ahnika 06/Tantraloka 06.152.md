@@ -35,6 +35,9 @@ sṛjatyeva punastena na samyaṅ muktirīdṛśī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 371–372)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.152]]
+
 *Lead-in:* इत्याद्युक्त्या केचिदात्मानो मुक्ताः संभवन्ति, केचिच्च बद्धास्तत्कथमविशेषेणैवोक्तं "तत्क्षये सृष्टिरुच्यते"इति । नहि मुक्तात्मनां पुनः संसृतिः स्यात्? -- इत्याशङ्क्याह --
 
 > सांख्यवेदादिसंसिद्धाञ्छ्रीकण्ठस्तदहर्मुखे ।

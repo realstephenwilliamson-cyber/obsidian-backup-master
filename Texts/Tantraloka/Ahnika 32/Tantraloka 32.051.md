@@ -31,5 +31,8 @@ bhavasthānābhavasthānamuccāreṇāvadhārayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 160)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.50–52]]
+
 Jayaratha comments on this verse together with 32.53: see [[Tantraloka 32.053#Viveka|32.53]].
 

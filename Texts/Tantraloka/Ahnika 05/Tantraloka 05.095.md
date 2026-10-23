@@ -35,6 +35,13 @@ taddhāma dhāmagatyā tu bhedyaṃ dhāmāntamāntaram || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 126)
+> *No commentary follows this verse directly; shown here is the next, after Dyczkowski's verse 94cd-95.*
+>
+> ![[Tantraloka Dyczkowski v04 05 - Chapter Five, part 3#Viveka on Dyczkowski's verse 94cd-95]]
+>
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on Dyczkowski's verse 94cd-95 (continued)]]
+
 > धामस्थं धाममध्यस्थं धामोदरपुटीकृतम् ॥
 > धाम्ना तु बोधयेद्धाम धाम धामान्तगं कुरु ।
 > तद्धाम धामगत्या तु भेद्यं धामान्तमान्तरम् ॥

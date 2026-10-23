@@ -31,6 +31,9 @@ jñātvā tvayogyatāṃ nainaṃ dīkṣeta pratyavāyitām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 318)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.44–45]]
+
 > देहसंबन्धसंछन्नसार्वज्ञ्यो दम्भभाजनम् ॥
 > अविदन्दीक्षमाणोऽपि न दुष्येद्दैशिकः क्वचित् ।
 > ज्ञात्वा त्वयोग्यतां नैनं दीक्षेत प्रत्यवायिताम् ॥

@@ -42,7 +42,7 @@ Text: [[NRSVue Romans 14|NRSVue]] · [[Romans 14|BSB and SBLGNT]] · Introductio
 
 **[[NRSVue Romans 14#^14-20|20]]:** *Clean*, or pure, fit for eating; *fall*, lit., “stumble.” ^14-20
 
-**[[NRSVue Romans 14#^14-21|21]]:** *Wine* could be associated with idolatrous activities involved in the production or with a libation offered to the gods ([[Torah 53 - Ha'Azinu#^32-38|Deut 32.38]]), and thus prohibited ([[Daniel 01#^1-8|Dan 1.8]]; [[Daniel 05#^5-4|5.4]],[[Daniel 05#^5-23|23]]; *m. Avod. Zar.* 2.3; *b. Avod. Zar.* 30b,31a,36a). ^14-21
+**[[NRSVue Romans 14#^14-21|21]]:** *Wine* could be associated with idolatrous activities involved in the production or with a libation offered to the gods ([[Torah 53 - Ha'Azinu#^32-38|Deut 32.38]]), and thus prohibited ([[Daniel 01#^1-8|Dan 1.8]]; [[Daniel 05#^5-4|5.4]],[[Daniel 05#^5-23|23]]; *m. Avod. Zar.* 2.3; [[Avodah Zarah 30#30b|*b. Avod. Zar.* 30b]],31a,36a). ^14-21
 
 **[[NRSVue Romans 14#^14-23|23]]:** Some manuscripts insert here the doxology in 16.25–27. *Have doubts*, lit., “cause disputes.” ^14-23
 

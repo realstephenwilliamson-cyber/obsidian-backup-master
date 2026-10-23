@@ -36,6 +36,11 @@ sa tāvatkasyacittarkaḥ svata eva pravartate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 49–53)
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.39–40]]
+>
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.40–41]]
+
 *Lead-in:* ननु अस्य परामर्शोदये किं निमित्तम् ? -- इत्याशङ्क्याह --
 
 > स तावत्कस्यचित्तर्कः स्वत एव प्रवर्तते ॥

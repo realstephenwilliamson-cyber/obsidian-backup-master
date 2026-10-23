@@ -31,6 +31,9 @@ prayatnecchāvibodhāṃśahetutvāditi niścitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 225–227)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.237]]
+
 *Lead-in:* ननु चैतन्याविभागवर्त्ती प्राण एव बोधादि विदध्यादिति किमेभिरन्तः -- करणैः? -- इत्याशङ्क्याह --
 
 > प्राणश्च नान्तःकरणं जडत्वात् प्रेरणात्मनः ।

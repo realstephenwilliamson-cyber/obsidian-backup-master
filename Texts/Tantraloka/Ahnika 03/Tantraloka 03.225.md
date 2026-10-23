@@ -34,6 +34,9 @@ tasmādvidaṃstathā sarvaṃ mantratvenaiva paśyati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 346–347)
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.225]]
+
 *Lead-in:* अत एव च एवंविधो गुरुर्न केवलं स्वभावात् एव परिस्फुरत् परशक्तिवीर्यात्मनो मन्त्रानेव वेत्ति यावत् यत्किञ्चन लौकिकमपि श्लोकादि -- इत्याह --
 
 > श्लोकगाथादि यत्किंचिदादिमान्त्ययुतं ततः ।

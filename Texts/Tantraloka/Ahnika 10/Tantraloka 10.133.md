@@ -33,6 +33,11 @@ manvāte neha vai kiñcittadapekṣā tvasau katham |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 378–379)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.132–133]]
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.133–135]]
+
 *Lead-in:* एतदेव प्रतिविधत्ते --
 
 Jayaratha comments on this verse together with 10.132: see [[Tantraloka 10.132#Viveka|10.132]].

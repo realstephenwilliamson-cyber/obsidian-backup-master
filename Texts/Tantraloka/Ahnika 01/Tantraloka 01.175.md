@@ -34,6 +34,9 @@ mātāramadharīkurvat svāṃ vibhūtiṃ pradarśayat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 350–351)
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.174–176]]
+
 > तेनायमत्र वाक्यार्थो विज्ञेयं प्रोन्मिषत्स्वयम् ॥
 > विनापि निश्चयेन द्राक् मातृदर्पणबिम्बितम् ।
 > मातारमधरीकुर्वत् स्वां विभूतिं प्रदर्शयत् ॥

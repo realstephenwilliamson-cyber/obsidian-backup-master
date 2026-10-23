@@ -31,6 +31,9 @@ saptadhetthaṃ pramātṛtvaṃ tatkṣobho mānatā tathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 401–403)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.178–181]]
+
 *Lead-in:* एतदेवोपसंहरति -
 
 > सप्तधेत्थं प्रमातृत्वं तत्क्षोभो मानता तथा ॥

@@ -34,6 +34,11 @@ sphuṭaṃ paśyati sattvātmā rājaso liṅgamātrataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 297–298)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.485–490]]
+>
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.490–491]]
+
 *Lead-in:* त्रैगुण्यात्मकत्वाच्च एते स्वप्नेऽपि वैचित्र्यभाजो भवन्ति--इत्याह--
 
 > .............ष्युश्चेत्थं चित्रतावशात् ।

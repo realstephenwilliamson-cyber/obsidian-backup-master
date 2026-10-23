@@ -31,6 +31,11 @@ na cādyāpi kimapyasti cetanaṃ jñānamapyadaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 326–327)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.50–52]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.50–52 (continued)]]
+
 > सिद्धे हि चेतने युक्त उपचारः स हि स्फुटम् ॥
 > अध्यारोपात्मकः सोऽपि प्रतिसन्धानजीवितः ।
 > न चाद्यापि किमप्यस्ति चेतनं ज्ञानमप्यदः ॥

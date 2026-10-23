@@ -34,6 +34,9 @@ sā dehaṃ deśamakṣāṃścāpyāviśantī gatikriyā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 327–328)
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.154]]
+
 *Lead-in:* ननु कथं ज्ञानमेव क्रिया भवेत् ? इति दृष्टान्तोपदर्शनेन उपपादयति --
 
 > लोकेऽपि किल गच्छामीत्येवमन्तः स्फुरैव या ।

@@ -34,6 +34,9 @@ jīvaḥ śaktiḥ śivasyaiva sarvatraiva sthitāpi sā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 9–10)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.9–10]]
+
 *Lead-in:* न केवलमेतद्युक्तित एव सिद्धं यावदागमतोऽपि -- इत्याह --
 
 > उक्तं त्रैशिरसे चैतद्देव्यै चन्द्रार्धमौलिना ।

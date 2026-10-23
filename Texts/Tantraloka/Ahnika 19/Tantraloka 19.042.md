@@ -37,6 +37,11 @@ mantrāḥ śabdamayāḥ śuddhavimarśātmatayā svayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 225)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.40–42]]
+>
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.42–44]]
+
 *Lead-in:* ननु को नाम अत्र अस्य प्रबोधको यद्वलादन्तरा अयं प्रबोधमासादयेत्?--इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 19.41: see [[Tantraloka 19.041#Viveka|19.41]].

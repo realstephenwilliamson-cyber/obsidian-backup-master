@@ -358,4 +358,4 @@ for she becomes ‘on heat’ from the liver.
 [^44]: *yesod*
 [^45]: *marah*
 [^46]: *marah*
-[^47]: *BT* Qiddushin 30b
+[^47]: *BT* [[Kiddushin 30#30b|Qiddushin 30b]]

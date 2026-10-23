@@ -34,6 +34,9 @@ vastutaścinmayasyaiva hetutā taddhi sarvagam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 38)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.29]]
+
 *Lead-in:* ननु एवमपि सौगतमतमेवापतेत् ? -- इत्याशङ्क्याह --
 
 > तथाभूते च नियमे हेतुतद्वत्त्वकारिणि ।

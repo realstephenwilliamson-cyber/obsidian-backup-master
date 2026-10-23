@@ -33,6 +33,11 @@ kṣaṇāntare'tha te eva pratibandhavivarjite || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 181)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.92–93]]
+>
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.93–94]]
+
 *Lead-in:* अथ न तत्र कर्मान्तरं किञ्चित्फलेत्, अपि तु ते एव प्रतिबन्धवर्जिते रुद्धे कर्मणी फलत इतीष्यते, तत्तयोः प्रतिबन्धवर्जनमेव किंकृतम् -- इत्याह --
 
 > क्षणान्तरेऽथ ते एव प्रतिबन्धविवर्जिते ॥

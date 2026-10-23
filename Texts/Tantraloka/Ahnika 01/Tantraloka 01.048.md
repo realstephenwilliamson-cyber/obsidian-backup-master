@@ -34,6 +34,9 @@ dhīgatasyānivṛttatvādvikalpo'pi hi sambhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 169–170)
+> ![[Tantraloka Dyczkowski v01 06 - Chapter One, part 5#Viveka on 1.48]]
+
 *Lead-in:* ननु भवत्वेवम्, अत्र पुनः किं निमित्तं यत्पौंस्नाज्ञाननिवृतौ देहान्ते मुक्तिः, बौद्धाज्ञाननिवृत्तौ तु तदैव -- इत्याशङ्क्याह --
 
 > दीक्षया गलितेऽप्यन्तरज्ञाने पौरुषात्मनि ।

@@ -32,5 +32,10 @@ mantrasya hṛdayaṃ muktvā na cānyatparamaṃ kvacit || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 347)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 15.608–609.*
+>
+> ![[Tantraloka Dyczkowski v08 10 - Chapter Fifteen, part 9#Viveka on 15.608–609]]
+
 Jayaratha comments on this verse together with 15.608: see [[Tantraloka 15.608#Viveka|15.608]].
 

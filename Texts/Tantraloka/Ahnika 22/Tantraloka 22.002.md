@@ -31,6 +31,9 @@ uktvā yo yojito yatra sa tasmānna nivartate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 279)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.2–7]]
+
 *Lead-in:* ननु इयमस्मच्छास्त्रे दीक्षा किमुक्ता न वा ?--इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 22.6: see [[Tantraloka 22.006#Viveka|22.6]].

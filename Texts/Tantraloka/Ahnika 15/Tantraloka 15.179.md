@@ -33,5 +33,10 @@ prakṛtaṃ brūmahe kṛtvā nyāsaṃ dehārghapātrayoḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 111–112)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.178–179]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.179–180]]
+
 Jayaratha comments on this verse together with 15.178: see [[Tantraloka 15.178#Viveka|15.178]].
 

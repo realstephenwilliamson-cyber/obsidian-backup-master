@@ -31,5 +31,8 @@ tata eva hi somyaṃ tanna cāpi hyaprakāśakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 132–133)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.213–217]]
+
 Jayaratha comments on this verse together with 15.216: see [[Tantraloka 15.216#Viveka|15.216]].
 

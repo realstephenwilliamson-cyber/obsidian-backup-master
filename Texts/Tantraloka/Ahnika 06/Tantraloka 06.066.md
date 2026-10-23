@@ -36,6 +36,11 @@ ketuḥ sūrye vidhau rāhurbhaumādervārabhāginaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 274–287)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.64–66]]
+>
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.66–67]]
+
 *Lead-in:* न केवलमत्र सूर्याचन्द्रमसोरेवोदयो यावद् ग्रहान्तराणामपि -- इत्याह --
 
 > केतुः सूर्ये विधौ राहुर्भौमादेर्वारभागिनः ॥

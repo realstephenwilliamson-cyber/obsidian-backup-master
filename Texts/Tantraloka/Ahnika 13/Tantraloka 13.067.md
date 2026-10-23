@@ -31,6 +31,9 @@ tasyāpi rūpaṃ vaktavyaṃ samatā karmaṇāṃ hi kā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 167–168)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.67–68]]
+
 *Lead-in:* उत्तरस्मिन् पुनः पक्षे कर्मणां साम्यमेव किमुच्यते यदपेक्ष्यास्य प्रवृत्तिः स्यात् -- इत्याह --
 
 > कर्मसाम्यमपेक्ष्याथ तस्येच्छा संप्रवर्तते ।

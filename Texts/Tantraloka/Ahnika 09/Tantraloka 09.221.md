@@ -33,6 +33,11 @@ sukhaṃ sattvaṃ prakāśatvāt prakāśo hlāda ucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 209–211)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.220–221]]
+>
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.221–222]]
+
 *Lead-in:* ननु सत्त्वरजस्तमसां साम्यावस्था प्रकृतिः -- इति सांख्याः, तत्कथमिह सुखादिभ्यस्तद्भोत्स्यते इत्युक्तम् ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 9.220: see [[Tantraloka 09.220#Viveka|9.220]].

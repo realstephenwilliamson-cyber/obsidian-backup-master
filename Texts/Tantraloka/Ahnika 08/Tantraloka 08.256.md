@@ -39,6 +39,13 @@ sāṃkhyasya doṣa evāyaṃ yadi vā tena te guṇāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 267–268)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.255–256]]
+>
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.256]]
+>
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.256–257]]
+
 *Lead-in:* तदाह --
 
 > .................यदि वा तेन ते गुणाः ॥

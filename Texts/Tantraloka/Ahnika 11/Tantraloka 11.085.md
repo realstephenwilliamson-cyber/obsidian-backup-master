@@ -37,6 +37,11 @@ tadviśuddhaṃ bījabhāvāt sūte nottarasaṃtatim |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 74–78)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.84–85]]
+>
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.85–86]]
+
 *Lead-in:* ननु शोध्यस्य षड्वधस्याप्यध्वनः का नाम शुद्धिः? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 11.84: see [[Tantraloka 11.084#Viveka|11.84]].

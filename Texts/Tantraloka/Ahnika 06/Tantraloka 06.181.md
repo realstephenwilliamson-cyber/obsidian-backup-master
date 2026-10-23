@@ -37,6 +37,11 @@ tena saṃvittvamevaitatspandamānaṃ svabhāvataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 391–392)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.179–181]]
+>
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.181–182]]
+
 *Lead-in:* तदाह -
 
 > तेन संवित्त्वमेवैतत्स्पन्दमानं स्वभावतः ॥

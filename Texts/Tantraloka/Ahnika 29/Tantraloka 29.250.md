@@ -31,5 +31,10 @@ brahmasthāne viśantī tu taḍillīnā virājate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 391–393)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 29.252.*
+>
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.252]]
+
 Jayaratha comments on this verse together with 29.252: see [[Tantraloka 29.252#Viveka|29.252]].
 

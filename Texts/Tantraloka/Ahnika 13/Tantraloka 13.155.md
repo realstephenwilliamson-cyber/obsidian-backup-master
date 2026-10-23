@@ -31,6 +31,9 @@ ityetadadhunaivāstāṃ svaprastāve bhaviṣyati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 218–219)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.155]]
+
 *Lead-in:* यत्पुनर्दीक्षादिनिमित्तकं ज्ञानं तज्ज्ञानहीनानाम् -- इत्याह --
 
 > ज्ञानोपायस्तु दीक्षादिक्रिया ज्ञानवियोगिनाम् ।

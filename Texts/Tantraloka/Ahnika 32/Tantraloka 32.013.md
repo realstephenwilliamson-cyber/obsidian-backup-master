@@ -33,6 +33,11 @@ jatrvadhastātkarau kṛtvā vāmapādaṃ ca dakṣiṇe || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 144–145)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.12–13]]
+>
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.13–16]]
+
 *Lead-in:* एतदनुवेधेन त्रिशूलिन्या अपि रूपमाह--
 
 Jayaratha comments on this verse together with 32.12: see [[Tantraloka 32.012#Viveka|32.12]].

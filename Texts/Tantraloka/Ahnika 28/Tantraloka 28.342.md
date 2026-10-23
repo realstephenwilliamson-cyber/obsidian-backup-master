@@ -33,6 +33,11 @@ yattu bandhupriyāputrapānādismaraṇaṃ sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 150–151)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.341–342]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.342–343]]
+
 > यत्तु बन्धुप्रियापुत्रपानादिस्मरणं स्फुटम् ॥
 > न तद्देहान्तरासङ्गि न तदन्त्यं यतो भवेत् ।
 

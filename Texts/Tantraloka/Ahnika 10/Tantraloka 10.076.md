@@ -33,6 +33,11 @@ prakāśe khalu viśrāntiṃ viśvaṃ śrayati cettataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 345)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.75–76]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.76–77]]
+
 *Lead-in:* अतश्च न वेद्यता वेद्या भवितुमर्हति -- इत्याह --
 
 > प्रकाशे खलु विश्रान्तिं विश्वं श्रयति चेत्ततः ॥

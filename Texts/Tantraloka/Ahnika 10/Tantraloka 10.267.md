@@ -31,6 +31,9 @@ viśrāmyatīti saivaiṣā devī viśvaikajīvitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 467)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.267]]
+
 *Lead-in:* कथं चास्यामेते विश्राम्यन्ति? -- इत्याशङ्क्याह --
 
 > मेयं माने मातरि तत् सोऽपि तस्यां मितौ स्फुटम् ।

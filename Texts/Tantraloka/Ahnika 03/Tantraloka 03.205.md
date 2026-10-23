@@ -36,6 +36,11 @@ tadidaṃ viśvamantaḥsthaṃ śaktau sānuttare pare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 324–325)
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.204–205]]
+>
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.205–206]]
+
 *Lead-in:* ननु यदि पाणिनीयप्रक्रियया प्रत्याहारक्रमेणैव युगपत्सर्वेषां वर्णानां परामर्शो विवक्षितः तदकारहकारात्मनैव परामर्शविशेषेण भवेत्, यत्तु पुनरपि "अनुत्तरे एव विश्रान्तिः"इत्युक्तं तत्किमर्थम् ? इत्याशङ्क्याह --
 
 > तदिदं विश्वमन्तःस्थं शक्तौ सानुत्तरे परे ॥

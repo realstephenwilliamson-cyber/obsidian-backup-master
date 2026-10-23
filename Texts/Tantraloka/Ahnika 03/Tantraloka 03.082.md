@@ -37,6 +37,13 @@ kṣobhakaṃ saṃvido rūpaṃ kṣubhyati kṣobhayatyapi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 185)
+> ![[Tantraloka Dyczkowski v02 06 - Chapter Three, part 3#Viveka on 3.82]]
+>
+> ![[Tantraloka Dyczkowski v02 06 - Chapter Three, part 3#Viveka on 3.82–83]]
+>
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.82–83 (continued)]]
+
 *Lead-in:* ननु यद्येवमेषां बीजत्वं नास्ति नर्हि पारिशेष्याद्योनित्वं स्यात् ? इत्याशङ्क्याह -- तत्परिहारार्थमेषां बीजयोनिवैलक्षण्यं प्रतिपादयतुं तत्स्वरूपं तावदाह --
 
 > प्रक्षोभकत्वं बीजत्वं क्षोभाधारश्च योनिता ।

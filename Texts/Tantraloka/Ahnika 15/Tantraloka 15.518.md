@@ -32,6 +32,9 @@ sṛṣṭyādisiddhaye śaṃbhoḥ śaṅkā tatphalakḷptaye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 315–316)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.518]]
+
 *Lead-in:* ननु यदि एवं तत् स्मृत्यादावपि एवमेव कस्मात् न उक्तम्?--इत्याशङ्क्य आह--
 
 > पाशवानि तु शास्त्राणि वामशक्त्यात्मकान्यलम् ।

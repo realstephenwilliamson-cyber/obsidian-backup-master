@@ -35,6 +35,9 @@ antarbhūtāstataḥ śāktī mahāsṛṣṭirudāhṛtā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 388–389)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.173]]
+
 *Lead-in:* न केवलं शक्त्यन्तं प्रलयस्यैव महत्त्वं यावत्सृष्टेरपीत्याह --
 
 > तत्सृष्टौ सृष्टिसंहारा निःसंख्या जगतां यतः ।

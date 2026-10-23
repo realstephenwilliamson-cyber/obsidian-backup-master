@@ -35,5 +35,8 @@ anunmiṣitamunmīlatpronmīlitamiti sthitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 278–280)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.162–165]]
+
 Jayaratha comments on this verse together with 3.164: see [[Tantraloka 03.164#Viveka|3.164]].
 

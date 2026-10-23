@@ -35,6 +35,9 @@ unmeṣātpādivargastu yato viśvaṃ samāpyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 268–271)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.150–152]]
+
 > इच्छाशक्तेः स्वस्वरूपसंस्थाया एकरूपतः ॥
 > चवर्गः पञ्चशक्त्यात्मा क्रमप्रस्फुटतात्मकः ।
 > या तूक्ता ज्ञेयकालुष्यभाक्क्षिप्रचरयोगतः ॥

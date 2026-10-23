@@ -31,5 +31,8 @@ vidāryāsyaṃ sajihvaṃ ca hāhākāraṃ tu kārayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 150)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.27–29]]
+
 Jayaratha comments on this verse together with 32.29: see [[Tantraloka 32.029#Viveka|32.29]].
 

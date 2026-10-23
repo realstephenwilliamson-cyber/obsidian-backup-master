@@ -33,6 +33,11 @@ tena śaktisamūhākhyāt tasmādrudrādyadaṃśataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 116–117)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.267–268]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.268–269]]
+
 *Lead-in:* ननु अनेन प्रकृते किं स्यात् ?--इत्याशङ्क्य आह--
 
 > तेन शक्तिसमूहाख्यात् तस्माद्रुद्राद्यदंशतः ॥

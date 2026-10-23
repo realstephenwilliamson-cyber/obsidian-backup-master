@@ -34,6 +34,9 @@ kulādiṣu niṣiddhāsau dehe viśvātmatāvide || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 357–359)
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.256–257]]
+
 *Lead-in:* अथ "लिङ्गपूजादिकं न च"इति व्याकुरुते --
 
 > सिद्धान्ते लिङ्गपूजोक्ता विश्वाध्वमयताविदे ।

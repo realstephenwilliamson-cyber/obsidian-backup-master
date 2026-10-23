@@ -34,6 +34,9 @@ kalpito dehabuddhyādivyavacchedena carcitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 238–239)
+> ![[Tantraloka Dyczkowski v03 08 - Chapter Four, part 7#Viveka on 4.165–167]]
+
 *Lead-in:* ननु द्विविधः कर्ता -- संकुचितश्चसंकुचितश्च, तदयं कुत्र तावत् प्रलयं प्रयाति ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 4.167: see [[Tantraloka 04.167#Viveka|4.167]].

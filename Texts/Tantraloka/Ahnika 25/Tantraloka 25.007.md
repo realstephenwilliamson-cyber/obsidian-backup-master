@@ -31,6 +31,9 @@ bhogyatānyā tanurdeha iti pāśātmakā matāḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 358)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.7]]
+
 *Lead-in:* एतदेव विभज्य दर्शयति--
 
 > भोग्यतान्या तनुर्देह इति पाशात्मका मताः ।

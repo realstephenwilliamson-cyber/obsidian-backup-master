@@ -33,6 +33,11 @@ tatra svarūpaṃ bhūmeryatpṛthagjaḍamavasthitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 296–298)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.8–9]]
+>
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.9–10]]
+
 *Lead-in:* एवमेषां शक्तिमदादीनां मध्यात्स्वरूपं तावत्प्रथमं लक्षयति - -
 
 > तत्र स्वरूपं भूमेर्यत्पृथग्जडमवस्थितम् ॥

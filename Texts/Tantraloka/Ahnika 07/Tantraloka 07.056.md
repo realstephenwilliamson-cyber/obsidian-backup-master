@@ -34,6 +34,9 @@ kṣipraṃ siddhyediti proktaṃ śrīmadviṃśatike trike || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 38–39)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.55–56]]
+
 > आद्यन्तोदयनिर्मुक्ता मध्यमोदयसंयुताः ।
 > मन्त्रविद्याचक्रगणाः सिद्धिभाजो भवन्ति हि ॥
 > मन्त्रचक्रोदयज्ञस्तु विद्याचक्रोदयार्थवित् ।

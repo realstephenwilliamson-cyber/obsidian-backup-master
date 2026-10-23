@@ -31,6 +31,9 @@ jīvanmuktā hi te naiṣāṃ mṛtau kāpi vicāraṇā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 132)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.306–307]]
+
 > संस्कारकल्पनातिष्ठदध्वस्तीकृतमन्तरा ।
 > प्राप्तपाकं संवरीतुरपाये भासते हि तत् ॥
 > ये तु स्वभ्यस्तविज्ञानमयाः शिवमयाः सदा ।

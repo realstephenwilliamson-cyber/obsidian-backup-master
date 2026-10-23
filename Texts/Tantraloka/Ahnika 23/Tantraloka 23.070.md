@@ -31,6 +31,9 @@ adhaḥśāstraṃ prapadyāpi na śreyaḥ pātratāmiyāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 328)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.70–71]]
+
 *Lead-in:* ननु इतः पतितस्तिरोहित एव उच्यते इत्युक्तम्, एवमसौ ततोऽपि च इतराश्वस्ततया पतितस्तदुभयभ्रष्टत्वादिहापि कथमनुग्राह्यः स्यात् ?--इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 23.71: see [[Tantraloka 23.071#Viveka|23.71]].

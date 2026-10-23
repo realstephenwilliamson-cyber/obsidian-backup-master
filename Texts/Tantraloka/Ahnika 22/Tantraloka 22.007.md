@@ -33,6 +33,11 @@ ato hi dhvanyate'rtho'yaṃ śivatattvādhareṣvapi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 279–280)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.2–7]]
+>
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.7–9]]
+
 *Lead-in:* ननु इह लिङ्गोद्धारदीक्षावचने संदिहानं प्रति सागरं तर्तुकामस्य हिमवद्ववर्णनं किमिदमुच्यते ?--इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 22.6: see [[Tantraloka 22.006#Viveka|22.6]].

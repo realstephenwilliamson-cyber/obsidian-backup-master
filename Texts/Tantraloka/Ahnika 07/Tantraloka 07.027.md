@@ -34,6 +34,9 @@ arthe vātmapradeśe vā na saṃyogavibhāgitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 17–18)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.27]]
+
 *Lead-in:* ननु यद्येवं तत्तदभावोऽपि कदा जायते येन ज्ञानस्याप्यवधिः ? -- इत्याशङ्क्याह --
 
 > तदभावश्च नो तावद्यावत्तत्राक्षवर्त्मनि ।

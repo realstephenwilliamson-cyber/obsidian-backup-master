@@ -246,5 +246,5 @@ and how they are recognised from higher and lower
 [^3]: *Sepher ha-Zohar*
 [^4]: *tiqqunin*
 [^5]: See *Bemidbar Rabbah* 14:11 and *Sepher Yetzirah* 1:2
-[^6]: *BT* Rosh HaShanah 17a
+[^6]: *BT* [[Rosh Hashanah 17#17a|Rosh HaShanah 17a]]
 [^7]: 45

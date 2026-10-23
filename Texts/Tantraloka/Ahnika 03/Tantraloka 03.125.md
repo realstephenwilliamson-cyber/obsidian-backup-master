@@ -37,6 +37,11 @@ jñeyādyupāyasaṅghātanirapekṣaiva saṃvidaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 230–234)
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.124–125]]
+>
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.125–126]]
+
 *Lead-in:* ननु प्रमातुः प्रमेयोपाधिवैचित्र्यमुक्तं प्रमेयं च प्रमात्रपेक्षया पृथगेव न प्रकाशते इति वैचित्र्यचर्चा दूर एवास्तां प्रमातृत्वमेव पुनरस्याः संविदः कथं घटते ? -- इत्याशङ्क्याह --
 
 > ज्ञेयाद्युपायसङ्घातनिरपेक्षैव संविदः ॥

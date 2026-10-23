@@ -34,6 +34,9 @@ kramābhāvānna yugapattadabhāvāt kramo'pi na || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 275–278)
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.178–180]]
+
 > इत्थं द्वादशधा संवित्तिष्ठन्ती विश्वमातृषु ॥
 > एकैवेति न कोऽप्यस्याः क्रमस्य नियमः क्वचित् ।
 > क्रमाभावान्न युगपत्तदभावात् क्रमोऽपि न ॥

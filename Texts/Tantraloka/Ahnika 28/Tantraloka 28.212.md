@@ -31,6 +31,9 @@ mukhya eṣa tu santānaḥ pūjyo mānyaśca sarvadā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 95–96)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.210–212]]
+
 > अन्तःस्थोदारसंवित्तिशक्तेर्बाह्यां विनापि ताम् ॥
 > सामर्थ्यं योगिनो यद्वद्विनापि सहकारिणम् ।
 > एकजन्या भ्रतरः स्युस्तत्सदृग्यस्तु कोऽपि सः ॥

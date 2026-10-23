@@ -31,6 +31,9 @@ tatturyamucyate śaktisamāveśo hyasau mataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 465–466)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.264–265]]
+
 > यत्तु प्रमात्मकं रूपं प्रमातुरुपरि स्थितम् ॥
 > पूर्णतागमनौन्मुख्यमौदासीन्यात्परिच्युतिः ।
 > तत्तुर्यमुच्यते शक्तिसमावेशो ह्यसौ मतः ॥

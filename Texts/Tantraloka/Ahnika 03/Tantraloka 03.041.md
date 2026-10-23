@@ -40,6 +40,9 @@ svakāṃ kriyāṃ sūyata eva tādṛśīm || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 114–115)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.41]]
+
 *Lead-in:* तत्र स्थितं स्पर्शादि अन्तःकरणाधिष्ठितस्वेन्द्रियव्यापारादेव निर्भासते -- इत्याह --
 
 > अतोऽन्तिकस्थस्वकतादृगिन्द्रिय

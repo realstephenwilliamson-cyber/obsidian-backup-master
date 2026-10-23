@@ -35,6 +35,9 @@ ityanyonyaṃ kramādyānti layaṃ māyāntake'dhvani || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 389)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.174–175]]
+
 *Lead-in:* ननु पृथिव्यादितत्त्वप्रलये यैव तन्निवासिनामणूनां व्यवस्था सैव किं तत्त्वेश्वरणां न वा ? -- इत्याशङ्क्याह --
 
 > लये ब्रह्मा हरी रुद्रशतान्यष्टकपञ्चकम् ।

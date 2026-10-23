@@ -32,6 +32,9 @@ aliases:
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 256–257)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.414–416]]
+
 > नवाहुतीरथो दद्यान्नवात्मसहितेन तु ॥
 > शिवाग्नये तारपूर्वं स्वाहान्तं संस्क्रिया भवेत् ।
 > शिवचैतन्यसामान्यव्योमरूपेऽनले ततः ॥

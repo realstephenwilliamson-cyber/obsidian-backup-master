@@ -33,6 +33,11 @@ malasya roddhrī kāpyasti śaktiḥ sā cāpyamuktagā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 69–72)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.68]]
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.68–69]]
+
 > तत्सद्वितीया साशुद्धिः शिवमुक्ताणुगा न किम् ।
 
 ननु व्यापकोऽपि मलः प्रतिपुरुषमेकैकया शक्त्या ज्ञानक्रियात्मकं स्वरूपमावृणुयात्, यदाहुः -

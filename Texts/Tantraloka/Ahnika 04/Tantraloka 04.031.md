@@ -34,6 +34,9 @@ tattattvapralayānte tu tadūrdhvāṃ sṛṣṭimāgataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 42–43)
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.31–32]]
+
 *Lead-in:* इतिन्यायेन त्रिमलबद्धं सकलमपेक्ष्य द्विमलबद्धस्य प्रलयाकलस्य वृत्तः -- इति किमिति नामास्य तत्प्रायस्यापि मोक्षस्य एकान्ततो हेयत्वम् ? -- इत्याशङ्क्याह --
 
 > तं प्राप्यापि चिरं कालं तद्भोगाभोगभुक्ततः ।

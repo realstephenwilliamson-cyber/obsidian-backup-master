@@ -36,6 +36,11 @@ uktaṃ śrīmanniśācāre saṃjñātra trividhā matā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 250–251)
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.31]]
+>
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.31–33]]
+
 *Lead-in:* ननु सर्वशब्दानां समयमात्रादेवार्थप्रतिपादनं सिद्ध्येत् -- इति किमत्रान्वर्थस्मरणेन नहि सर्वत्रैवैतत्संभवेत् ? -- इत्याशङ्क्याह - -
 
 > इह सर्वत्र शब्दानामन्वर्थं चर्चयेद्यतः ।

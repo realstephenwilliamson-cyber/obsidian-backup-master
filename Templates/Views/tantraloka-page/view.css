@@ -1,0 +1,101 @@
+/* Tantrāloka page (Templates/Views/tantraloka-page): one verse laid out like a page of the printed śāstra.
+   Dataview adds this file to the page with view.js. 22 Oct 2026. Colours and fonts are the theme's own. */
+.tl-wrap { container: tl / inline-size; margin: .5em 0 1em; --tl-text: var(--font-text-size, 16px); }
+
+/* The bar */
+.tl-bar { display: flex; flex-wrap: wrap; align-items: center; gap: .4em .6em; margin-bottom: .6em; }
+.tl-input { flex: 0 1 7em; min-width: 5em; }
+.tl-bar button { padding: .25em .75em; font-size: var(--font-ui-small, .85em); cursor: pointer; }
+.tl-switch { display: inline-flex; align-items: center; border: 1px solid var(--background-modifier-border); border-radius: var(--radius-s, 4px); overflow: hidden; }
+.tl-switch-label { padding: 0 .6em; font-size: var(--font-ui-small, .85em); color: var(--text-muted); }
+.tl-switch button { border: none; border-radius: 0; box-shadow: none; background: transparent; border-left: 1px solid var(--background-modifier-border); color: var(--text-muted); }
+.tl-switch button.tl-on { background: var(--interactive-accent); color: var(--text-on-accent); }
+.tl-notice { font-size: .8em; color: var(--text-muted); font-style: italic; margin: .2em 0 .4em; }
+
+/* The list of āhnikas above the page (23 Oct 2026), small, like Sefaria's table of contents; the current one marked */
+.tl-nav { font-size: .8em; margin: .1em 0 .8em; padding-bottom: .4em; border-bottom: 1px solid var(--background-modifier-border); }
+.tl-nav > summary { cursor: pointer; color: var(--text-muted); letter-spacing: .05em; text-transform: uppercase; font-size: .9em; margin-bottom: .3em; }
+.tl-nav-row { display: flex; gap: .7em; align-items: baseline; margin: .2em 0; }
+.tl-nav-label { flex: 0 0 7.5em; color: var(--text-faint); font-size: .9em; letter-spacing: .04em; text-transform: uppercase; }
+.tl-nav-items { display: flex; flex-wrap: wrap; gap: .15em .9em; min-width: 0; }
+.tl-nav-item { cursor: pointer; color: var(--text-muted); white-space: nowrap; }
+.tl-nav-item:hover, .tl-nav-item:focus-visible { color: var(--text-accent); text-decoration: underline; }
+.tl-nav-item.is-on { color: var(--text-accent); font-weight: 700; }
+.tl-nav-grid .tl-nav-items { gap: .25em; }
+.tl-nav-grid .tl-nav-item { min-width: 2.3em; text-align: center; padding: 0 .2em; border: 1px solid var(--background-modifier-border); border-radius: 3px; font-variant-numeric: tabular-nums; }
+.tl-nav-grid .tl-nav-item:hover { text-decoration: none; border-color: var(--text-accent); }
+.tl-nav-grid .tl-nav-item.is-on { background: var(--interactive-accent); border-color: var(--interactive-accent); color: var(--text-on-accent); }
+
+/* The note that holds the page uses the whole width of its tab (23 Oct 2026, Stephen's request): no padding between the ribbon
+   and the page, and no side margins on the block that holds the view. Only a tab showing this page is affected. */
+.markdown-preview-view:has(.tl-wrap) { padding-left: 8px !important; padding-right: 8px !important; }
+.markdown-preview-view.markdown-rendered .markdown-preview-sizer > div.el-pre:has(.tl-wrap) { margin-left: 0 !important; margin-right: 0 !important; width: auto !important; max-width: none !important; }
+
+/* Running head */
+.tl-head { display: grid; grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr); align-items: end; gap: 1em;
+  border-bottom: 2px solid var(--background-modifier-border); padding-bottom: .35em; margin-bottom: .9em; }
+.tl-head-left { display: flex; align-items: baseline; gap: .6em; flex-wrap: wrap; }
+.tl-num { font-size: 2.2em; font-weight: 700; line-height: 1; }
+.tl-ahnika { font-size: .8em; color: var(--text-muted); }
+.tl-head-centre { text-align: center; }
+.tl-sub { font-size: .72em; letter-spacing: .08em; text-transform: uppercase; color: var(--text-muted); }
+.tl-title p { margin: 0; font-size: 1.35em; font-weight: 600; }
+
+/* The page */
+.tl-grid { display: grid; column-gap: 1.6em; row-gap: 1.2em; align-items: start;
+  grid-template-columns: minmax(10em, 230px) minmax(0, 1fr) minmax(12em, 320px); grid-template-areas: "left centre right"; }
+.tl-left { grid-area: left; font-size: .8em; line-height: 1.45; }
+.tl-centre { grid-area: centre; min-width: 0; }
+.tl-right { grid-area: right; font-size: .84em; line-height: 1.5; border-left: 1px solid var(--background-modifier-border); padding-left: 1em; }
+
+/* The verse */
+.tl-mula { text-align: center; font-size: 1.55em; line-height: 1.75; margin: .2em 0 .3em; }
+.tl-iast { text-align: center; font-style: italic; color: var(--text-muted); line-height: 1.5; margin-bottom: .8em; }
+.tl-translation { border-top: 1px solid var(--background-modifier-border); border-bottom: 1px solid var(--background-modifier-border);
+  padding: .7em .3em; font-size: 1.08em; line-height: 1.6; }
+.tl-tr-para p, .tl-tr-note p, .tl-tr-src p, .tl-viv-text p, .tl-item p, .tl-more p, .tl-pg p, .tl-note p, .tl-foot-text p { margin: 0; }
+.tl-tr-para + .tl-tr-para { margin-top: .4em; }
+.tl-tr-note { font-size: .8em; color: var(--text-muted); margin-top: .3em; }
+.tl-tr-src { font-size: .78em; color: var(--text-muted); margin-top: .45em; }
+
+/* The Viveka */
+.tl-viveka { margin-top: 1.1em; }
+.tl-col-title, .tl-box-title { font-size: .72em; font-weight: 700; letter-spacing: .1em; text-transform: uppercase; color: var(--text-muted); margin-bottom: .45em; }
+.tl-viv-para { position: relative; margin: 0 0 .6em; line-height: 1.6; }
+.tl-pg { float: right; margin-left: .6em; font-size: .7em; }
+.tl-pg a { color: var(--text-faint); }
+.tl-notes { margin: .4em 0 .8em; font-size: .85em; color: var(--text-muted); }
+.tl-notes summary { cursor: pointer; }
+.tl-note { margin: .3em 0 .3em .8em; }
+.tl-viv-sa { margin-top: 1em; padding-top: .6em; border-top: 1px solid var(--background-modifier-border); }
+.tl-viv-sa-text { column-width: 22em; column-gap: 1.6em; text-align: justify; line-height: 1.8; font-size: .95em; }
+.tl-viv-sa-text p { margin: 0 0 .6em; }
+.tl-viv-sa-text blockquote { break-inside: avoid; }
+
+/* Margins */
+.tl-box { margin-bottom: 1.1em; }
+.tl-left .tl-box { background: var(--background-secondary); border-radius: var(--radius-s, 4px); padding: .55em .7em; }
+.tl-pada { font-size: .85em; color: var(--text-faint); margin: .35em 0 .15em; }
+.tl-word { margin: .08em 0; }
+.tl-form { font-weight: 600; }
+.tl-gram { color: var(--text-muted); }
+.tl-more { margin-top: .4em; }
+.tl-item { margin: 0 0 .45em; }
+.tl-empty { font-size: .9em; color: var(--text-faint); font-style: italic; }
+.tl-foot { margin-top: 1em; padding-top: .4em; border-top: 1px solid var(--background-modifier-border); font-size: .78em; color: var(--text-muted); }
+
+/* Medium: the margins under the text, side by side */
+@container tl (max-width: 1000px) {
+  .tl-grid { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); grid-template-areas: "centre centre" "left right"; }
+}
+/* Narrow (phone): one column, the text first */
+@container tl (max-width: 600px) {
+  .tl-nav-row { flex-direction: column; gap: .1em; }
+  .tl-nav-label { flex: none; }
+  .tl-grid { grid-template-columns: minmax(0, 1fr); grid-template-areas: "centre" "right" "left"; }
+  .tl-right { border-left: none; padding-left: 0; border-top: 2px solid var(--background-modifier-border); padding-top: .6em; }
+  .tl-head { grid-template-columns: minmax(0, 1fr); }
+  .tl-head-centre { text-align: left; }
+  .tl-mula { font-size: 1.3em; }
+  .tl-viv-sa-text { column-width: auto; }
+}

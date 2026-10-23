@@ -69,4 +69,4 @@ Pritzker translation (Wolski and Hecker): [[Zohar 12.06 - Piqqudin#^z3-93a|Piqqu
 
 *Not translated in the Soncino edition: Emor 39:207.*
 
-[^1]: Cf. T. B. Rosh Hashanah, 8b.
+[^1]: Cf. T. B. [[Rosh Hashanah 8#8b|Rosh Hashanah, 8b]].

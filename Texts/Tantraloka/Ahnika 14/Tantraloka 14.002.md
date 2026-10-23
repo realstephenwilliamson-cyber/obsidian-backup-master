@@ -33,6 +33,13 @@ niyatiṃ karmaphalayorāśrityaiṣa maheśvaraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 346)
+> *No commentary follows this verse directly; shown here is the next, after Dyczkowski's verse 1cd-2ab.*
+>
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on Dyczkowski's verse 1cd-2ab]]
+>
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.2–3]]
+
 *Lead-in:* तत्रास्य नियतिक्रमस्पर्शेन प्रकाशनं दर्शयति -
 
 > नियतिं कर्मफलयोराश्रित्यैष महेश्वरः ॥

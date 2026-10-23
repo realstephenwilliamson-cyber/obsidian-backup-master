@@ -36,6 +36,11 @@ tanmukhā sphuṭatā dharmiṇyāśu tanmayatāsthitiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 384–385)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.205]]
+>
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.205–206]]
+
 *Lead-in:* ननु उपचारे मुख्यार्थबाधादिना त्रितयेन अवश्यभाव्यं तच्चात्र किमस्ति न वा ? इत्याशङ्क्याह—
 
 > तथोपचारस्यात्रैतन्निमित्तं सप्रयोजनम् ।

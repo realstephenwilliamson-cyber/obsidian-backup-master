@@ -36,6 +36,11 @@ atatsvabhāvavapuṣaḥ sa svabhāvo na yujyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 28)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.14]]
+>
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.14 (2)]]
+
 > बीजमङ्कुरपत्रादितया परिणमेत चेत् ।
 
 इह तावत् सर्व एव भाववर्गः परिनिष्ठितनिजरूप इति बीजं चेद् बीजं कथमिवाङ्कुरादिरूपतामियात् अतथास्वभावस्य तथास्वभावायोगात्, नहि कदाचित् घटोऽपि पटः स्यात् ॥

@@ -34,6 +34,9 @@ tasminmukte na lupyeta yato kiñcitkaro'tra saḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 223)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.36]]
+
 *Lead-in:* एतदेव प्रकृते योजयति--
 
 > तथा स्वयं पठन्नेष विद्यां वस्तुस्वभावतः ।

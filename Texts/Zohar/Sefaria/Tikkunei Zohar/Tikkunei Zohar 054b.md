@@ -287,15 +287,15 @@ and the right-side draws them near in repentance
 [^7]: י
 [^8]: phylacteries
 [^9]: י
-[^10]: *BT* Rosh HaShanah 16b
+[^10]: *BT* [[Rosh Hashanah 16#16b|Rosh HaShanah 16b]]
 [^11]: *yonah*
 [^12]: *ḥayyim*
 [^13]: Liturgical: from the ‘Standing Prayer’ of the Ten Days of Repentance.
 [^14]: *beinonim*
 [^15]: ‘daughter of-seven’
-[^16]: See *BT* Beitzah 4b
-[^17]: See *BT* Berakhot 32a and Sotah 14a
-[^18]: See *BT* Shabbat 55a
+[^16]: See *BT* [[Beitzah 4#4b|Beitzah 4b]]
+[^17]: See *BT* [[Berakhot 32#32a|Berakhot 32a]] and [[Sotah 14#14a|Sotah 14a]]
+[^18]: See *BT* [[Shabbat 55#55a|Shabbat 55a]]
 [^19]: See *Midrash Tan*ḥ*uma*, Ḥuqat Ch.10
 [^20]: *me-ḥolal*
 [^21]: *ḥol*

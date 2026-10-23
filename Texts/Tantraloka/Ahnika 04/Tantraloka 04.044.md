@@ -36,6 +36,11 @@ sa samastaṃ ca śāstrārthaṃ sattarkādeva manyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 57–58)
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.43–44]]
+>
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.44]]
+
 *Lead-in:* इत्याद्युक्त्या कां नाम सिद्धिमासादयेत् ? -- इत्याशङ्क्याह --
 
 > स समस्तं च शास्त्रार्थं सत्तर्कादेव मन्यते ॥

@@ -31,6 +31,9 @@ etat tasmāt tataḥ paśyedvistarārthī vivecakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 284)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.313]]
+
 *Lead-in:* एतच्चान्यत्र वैतत्येनोक्तमिति तत एवावधार्यम् -- इत्याह --
 
 > अनुत्तरप्रक्रियायां वैतत्येन प्रदर्शितम् ।

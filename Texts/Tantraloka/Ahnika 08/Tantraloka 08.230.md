@@ -35,6 +35,9 @@ aṣṭānāṃ devānāṃ śaktyāvirbhāvayonayo hyetāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 249–250)
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.230]]
+
 *Lead-in:* एतच्च बृहस्पतिपादैरेव स्वग्रन्थे व्याकृतम् -- इत्याह --
 
 > उक्तं च शिवतनाविदमधिकारपदस्थितेन गुरुणा नः ।

@@ -36,6 +36,13 @@ vratino ye vikarmasthā niṣiddhācārakāriṇaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 89–93)
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.31–32]]
+>
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.31–32 (continued)]]
+>
+> ![[Tantraloka Dyczkowski v05 04 - Chapter Eight, part 2#Viveka on 8.32–35]]
+
 *Lead-in:* नन्वसावेवं सिद्धीः केषां ददाति? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 8.31: see [[Tantraloka 08.031#Viveka|8.31]].

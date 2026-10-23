@@ -33,6 +33,11 @@ yo'pyanucakradṛgādisvarūpabhāk so'pi yattadāyattaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 323–324)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.134–135]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.135–136]]
+
 *Lead-in:* न केवलं मध्यचक्रस्थ एव देवतागण एवमास्ते, यावदनुचक्रस्थोऽपि--इत्याह--
 
 > योऽप्यनुचक्रदृगादिस्वरूपभाक् सोऽपि यत्तदायत्तः ॥

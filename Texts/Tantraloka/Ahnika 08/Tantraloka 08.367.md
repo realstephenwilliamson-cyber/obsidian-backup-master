@@ -35,6 +35,9 @@ pañca brahmāṇyaṅgaṣaṭkaṃ sakalādyaṣṭakaṃ śivāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 351–352)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.364–368]]
+
 > एशात्सादाशिवं ज्ञानक्रियायुगलमण्डितम् ॥
 > शुद्धावरणमित्याहुरुक्ता शुद्धावृतेः परम् ।
 > विद्यावृतिस्ततो भावाभावशक्तिद्वयोज्ज्वला ॥

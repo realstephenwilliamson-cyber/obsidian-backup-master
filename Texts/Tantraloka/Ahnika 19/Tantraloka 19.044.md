@@ -37,6 +37,11 @@ yathā hyalpajavo vāyuḥ sajātīyavimiśritaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 225–226)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.42–44]]
+>
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.44–45]]
+
 *Lead-in:* एतदेव दृष्टान्तमुखेनापि घटयति--
 
 > यथा ह्यल्पजवो वायुः सजातीयविमिश्रितः ॥

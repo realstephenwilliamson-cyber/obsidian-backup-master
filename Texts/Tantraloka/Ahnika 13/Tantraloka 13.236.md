@@ -31,6 +31,9 @@ tāṃ kuryānnānyathārabdhṛ karma yasmānna śuddhyati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 273–274)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.236–238]]
+
 *Lead-in:* न चेयं सर्वथा कार्यो -- इत्याह --
 
 Jayaratha comments on this verse together with 13.235: see [[Tantraloka 13.235#Viveka|13.235]].

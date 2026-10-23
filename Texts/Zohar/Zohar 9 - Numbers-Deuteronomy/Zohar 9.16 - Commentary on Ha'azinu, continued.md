@@ -237,7 +237,7 @@ Rabbi Yitsḥak said, “In two places the blessed Holy One intends to reprove I
 
     The full verse in Micah reads: *You will grant truth to Jacob, love to Abraham, as You swore to our fathers from days of old*. Here, the beginning of the verse demonstrates the link between *truth* and *Tif’eret* (who is symbolized by *Jacob*).
 
-    For the rabbinic saying “The seal of the blessed Holy One is truth,” see BT *Shabbat* 55a; above, p. 58, n. 12.
+    For the rabbinic saying “The seal of the blessed Holy One is truth,” see BT [[Shabbat 55#55a|*Shabbat* 55a]]; above, p. 58, n. 12.
 
 [^14]: **one who enters and emerges…** The seeker who has entered the realm of mystery and emerged unscathed, who has plumbed the secrets and discovered how to apply them in his life. See above, pp. 791–92, n. 74.
 
@@ -255,7 +255,7 @@ Rabbi Yitsḥak said, “In two places the blessed Holy One intends to reprove I
 
     The full verse reads literally: מומם‎ בניו‎ לא‎ לו‎ שחת (*Shiḥet lo lo banav mumam*), *He has dealt corruptly with Him, not His children, their blemish* \[or: *defect*\]—*a perverse and twisted generation*. One possible rendering of the first part of the verse is: *Ruined Him? No, His children’s is the defect*. For a discussion (and other possible meanings), see Tigay, *Deuteronomy*, ad loc. Cf. *Zohar* [[Zohar 4.04 - Parashat Va-Era#^z2-26b|2:26b]].
 
-    On causing a defect above, see BT *Sanhedrin* 74a (in the name of Rabbi Shim’on son of Yoḥai); *Zohar* [[Zohar 4.04 - Parashat Va-Era#^z2-26b|2:26b]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-8a|3:8a]], [[Zohar 7.03 - Parashat Va-Yiqra#^z3-16b|16b]], [[Zohar 7.08 - Parashat Aharei Mot#^z3-66a|66a]], [[Zohar 7.08 - Parashat Aharei Mot#^z3-78a|78a]], [[Zohar 7.08 - Parashat Aharei Mot#^z3-79a|79a]]; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-78c|ZḤ* 78c]] (*MhN, Rut*). Cf. above, pp. 92–93, n. 115 (on weakening God).
+    On causing a defect above, see BT [[Sanhedrin 74#74a|*Sanhedrin* 74a]] (in the name of Rabbi Shim’on son of Yoḥai); *Zohar* [[Zohar 4.04 - Parashat Va-Era#^z2-26b|2:26b]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-8a|3:8a]], [[Zohar 7.03 - Parashat Va-Yiqra#^z3-16b|16b]], [[Zohar 7.08 - Parashat Aharei Mot#^z3-66a|66a]], [[Zohar 7.08 - Parashat Aharei Mot#^z3-78a|78a]], [[Zohar 7.08 - Parashat Aharei Mot#^z3-79a|79a]]; *[[Zohar 11.04 - Midrash ha-Ne'lam al Rut#^zh-78c|ZḤ* 78c]] (*MhN, Rut*). Cf. above, pp. 92–93, n. 115 (on weakening God).
 
 [^17]: ***He donned righteousness*…** When the people of Israel acted virtuously, God manifested צדקה (*tsedaqah*), *righteousness* (or *mercy, charity*); when they acted sinfully, God wreaked *vengeance* upon them.
 
@@ -329,7 +329,7 @@ Rabbi Yitsḥak said, “In two places the blessed Holy One intends to reprove I
 
 [^32]: **Those who are sent to perform a *mitsvah*…** Rabbi Yitsḥak applies this Talmudic teaching to himself and Rabbi Ḥiyya, who are engaged in the holy act of going to visit the “divine” Rabbi Shim’on.
 
-    For the Talmudic statement “Those who are sent to perform a *mitsvah* …,” see BT *Pesaḥim* 8b, *Qiddushin* 39b, *Ḥullin* 142a (all in the name of Rabbi El’azar).
+    For the Talmudic statement “Those who are sent to perform a *mitsvah* …,” see BT [[Pesachim 8#8b|*Pesaḥim* 8b]], [[Kiddushin 39#39b|*Qiddushin* 39b]], [[Chullin 142#142a|*Ḥullin* 142a]] (all in the name of Rabbi El’azar).
 
 [^33]: ***These are the generations*…** According to Rabbi Ḥiyya, *the heavens* includes not only the actual *heavens* but also the divine *heavens*, namely *Ze’eir Anpin* (whose core is *Tif’eret*). Similarly, *and the earth* includes not only the terrestrial world but also the divine *earth*, namely *Shekhinah*. All the lower worlds constitute the *generations of the heavens and the earth*—namely of the divine couple.
 
@@ -339,7 +339,7 @@ Rabbi Yitsḥak said, “In two places the blessed Holy One intends to reprove I
 
     Rabbi Yitsḥak’s point is: If God created all the lower worlds by *Shekhinah* alone, how can Rabbi Ḥiyya say that those worlds *were created* by both divine partners?
 
-    For the midrashic reading בראם‎ בה׳ (*be-he bera’am*), see JT *Ḥagigah* 2:1, 77c; *Bereshit Rabbah* 12:10; BT *Menaḥot* 29b; *Qohelet Rabbah* on 2:12; *Tanḥuma* (Buber), *Bereshit* 16, *Lekh Lekha* 4; *Pesiqta Rabbati* 21, 109b; *Alfa Beita de-Rabbi Aqiva* (*Battei Midrashot*, 2:363); *Midrash Tehillim* 62:1; 114:3; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-46b|1:46b]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-91b|91b]]; [[Zohar 7.04 - Parashat Tsav#^z3-34b|3:34b]], [[Zohar 7.06 - Parashat Tazri'a#^z3-43a|43a]]; *[[Zohar 11.07 - Matnitin#^zh-1d|ZḤ* 1d]] (*MhN*), [[Zohar 10.03 - Parashat Be-Reshit#^zh-17a|17a]] (*MhN*), [[Zohar 10.05 - Parashat Lekh Lekha#^zh-26a|26a]] (*MhN*).
+    For the midrashic reading בראם‎ בה׳ (*be-he bera’am*), see JT *Ḥagigah* 2:1, 77c; *Bereshit Rabbah* 12:10; BT [[Menachot 29#29b|*Menaḥot* 29b]]; *Qohelet Rabbah* on 2:12; *Tanḥuma* (Buber), *Bereshit* 16, *Lekh Lekha* 4; *Pesiqta Rabbati* 21, 109b; *Alfa Beita de-Rabbi Aqiva* (*Battei Midrashot*, 2:363); *Midrash Tehillim* 62:1; 114:3; *Zohar* [[Zohar 1.07 - Parashat Be-Reshit#^z1-46b|1:46b]], [[Zohar 2.02 - Parashat Lekh Lekha#^z1-91b|91b]]; [[Zohar 7.04 - Parashat Tsav#^z3-34b|3:34b]], [[Zohar 7.06 - Parashat Tazri'a#^z3-43a|43a]]; *[[Zohar 11.07 - Matnitin#^zh-1d|ZḤ* 1d]] (*MhN*), [[Zohar 10.03 - Parashat Be-Reshit#^zh-17a|17a]] (*MhN*), [[Zohar 10.05 - Parashat Lekh Lekha#^zh-26a|26a]] (*MhN*).
 
 [^35]: **All is one matter…** Rabbi Ḥiyya explains that when *Ze’eir Anpin* (*the heavens*) united with *Shekhinah* (*the earth*), She then gave birth to the lower worlds, which are thus described as their joint *generations*.
 
@@ -357,7 +357,7 @@ Rabbi Yitsḥak said, “In two places the blessed Holy One intends to reprove I
 
     The verse from Genesis signifies that the *river* of *Binah issues from Eden* (symbolizing *Ḥokhmah*). *Binah*’s flow of emanation waters *the garden*, which includes the six *sefirot* of *Ze’eir Anpin* (*Ḥesed* to *Yesod*), symbolized by *the heavens*. The wording הגן‎ את (*et ha-gan*), *the garden*, includes *Shekhinah* (symbolized by *the earth*). This is based on the hermeneutical significance of את (*et*) and on the fact that it alludes to *Shekhinah*. See above, p. 287, n. 114.
 
-    On the passage in *Bereshit Rabbah*, see JT *Ḥagigah* 2:1, 77c; BT *Menaḥot* 29b; *Alfa Beita de-Rabbi Aqiva* (*Battei Midrashot*, 2:363); *Midrash Aggadah*, [[Torah 01 - Bereshit#^1-1|Genesis 1:1]]; *Tosafot* on *Berakhot* 51a, s.v. *zokheh*; *Zohar* [[Zohar 2.05 - Parashat Toledot#^z1-140a|1:140a]], [[Zohar 2.05 - Parashat Toledot#^z1-141b|141b]]; [[Zohar 4.04 - Parashat Va-Era#^z2-22b|2:22b]], [[Zohar 5.05 - Parashat Terumah#^z2-126b|126b–127a]]; [[Zohar 9.15 - Idra Zuta#^z3-290b|3:290b]] (*IZ*). On *olam* as both “eternal, eternity” and “world,” see above, note 28.
+    On the passage in *Bereshit Rabbah*, see JT *Ḥagigah* 2:1, 77c; BT [[Menachot 29#29b|*Menaḥot* 29b]]; *Alfa Beita de-Rabbi Aqiva* (*Battei Midrashot*, 2:363); *Midrash Aggadah*, [[Torah 01 - Bereshit#^1-1|Genesis 1:1]]; *Tosafot* on [[Berakhot 51#51a|*Berakhot* 51a]], s.v. *zokheh*; *Zohar* [[Zohar 2.05 - Parashat Toledot#^z1-140a|1:140a]], [[Zohar 2.05 - Parashat Toledot#^z1-141b|141b]]; [[Zohar 4.04 - Parashat Va-Era#^z2-22b|2:22b]], [[Zohar 5.05 - Parashat Terumah#^z2-126b|126b–127a]]; [[Zohar 9.15 - Idra Zuta#^z3-290b|3:290b]] (*IZ*). On *olam* as both “eternal, eternity” and “world,” see above, note 28.
 
     On *Binah* as the World that is Coming, see above, p. 144, n. 279. [[Torah 01 - Bereshit#^2-10|Genesis 2:10]] reads in full: *A river issues from Eden to water the garden, and from there it divides and becomes four riverheads*. See above, p. 201, n. 45; Hellner-Eshed, *A River Flows from Eden*, 229–51.
 
@@ -371,7 +371,7 @@ Rabbi Yitsḥak said, “In two places the blessed Holy One intends to reprove I
 
 [^41]: ***And streams from Lebanon*…** *Lebanon* symbolizes *Ḥokhmah*, where “they” (*Ze’eir Anpin* along with *Shekhinah*) are adorned. “The head of the King” is constituted by *Ḥokhmah* and *Binah*.
 
-    The verse in Psalms reads: *For Your love is higher than* \[or: *great over*\] *the heavens*. Here, it apparently implies that *Ḥesed* (Love)—along with the following *sefirot* of *Ze’eir Anpin*—rises *higher than the heavens*, that is, *higher than Ze’eir Anpin* “to the head of the King.” On this verse, see BT *Pesaḥim* 50b; *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-219a|1:219a]]; [[Zohar 4.03 - Parashat Shemot#^z2-6a|2:6a]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-16a|3:16a]]. For various interpretations of this paragraph, see *Or Yaqar*; *Miqdash Melekh*; *Sullam*; *Matoq mi-Devash*.
+    The verse in Psalms reads: *For Your love is higher than* \[or: *great over*\] *the heavens*. Here, it apparently implies that *Ḥesed* (Love)—along with the following *sefirot* of *Ze’eir Anpin*—rises *higher than the heavens*, that is, *higher than Ze’eir Anpin* “to the head of the King.” On this verse, see BT [[Pesachim 50#50b|*Pesaḥim* 50b]]; *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-219a|1:219a]]; [[Zohar 4.03 - Parashat Shemot#^z2-6a|2:6a]]; [[Zohar 7.03 - Parashat Va-Yiqra#^z3-16a|3:16a]]. For various interpretations of this paragraph, see *Or Yaqar*; *Miqdash Melekh*; *Sullam*; *Matoq mi-Devash*.
 
 [^42]: **from there they issue to all…** From *Ḥokhmah, streams* of emanation proceed, finally gathering in *Shekhinah*, who is pictured as “the Great Sea.”
 
@@ -411,7 +411,7 @@ Rabbi Yitsḥak said, “In two places the blessed Holy One intends to reprove I
 
     Here Rabbi Shim’on selects a different instance of *elleh* (*these*): *Elleh, These, are the generations of the heavens and the earth*. Thus, *Shekhinah* declares: *Even these*—namely *the generations of the heavens and the earth*, i.e., all of Creation—*may be forgotten, yet I will not forget you*.
 
-    On the significance of *these* in the verses from Isaiah and [[Torah 21 - Ki Tisa#^32-1|Exodus 32]], see BT *Berakhot* 32b; *Pesiqta de-Rav Kahana* 17:7; *Pesiqta Rabbati* 31, 146a; *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-228a|1:228a]]; [[Zohar 6.06 - Parashat Pequdei#^z2-221a|2:221a]], [[Zohar 6.06 - Parashat Pequdei#^z2-236b|236b]]. Cf. *Targum Yonatan* on [[Isaiah 49#^49-15|Isaiah 49:15]].
+    On the significance of *these* in the verses from Isaiah and [[Torah 21 - Ki Tisa#^32-1|Exodus 32]], see BT [[Berakhot 32#32b|*Berakhot* 32b]]; *Pesiqta de-Rav Kahana* 17:7; *Pesiqta Rabbati* 31, 146a; *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-228a|1:228a]]; [[Zohar 6.06 - Parashat Pequdei#^z2-221a|2:221a]], [[Zohar 6.06 - Parashat Pequdei#^z2-236b|236b]]. Cf. *Targum Yonatan* on [[Isaiah 49#^49-15|Isaiah 49:15]].
 
 [^53]: **\[Rabbi El’azar\] said further…** Quoting his father, Rabbi Shim’on.
 
@@ -439,9 +439,9 @@ Rabbi Yitsḥak said, “In two places the blessed Holy One intends to reprove I
 
 [^59]: ***Ask your father*…** This implies: Ask your heavenly Father.
 
-    The verb הגיד (*higgid*), “to tell,” can imply conveying wisdom. Here the deep message is that the entire purpose of Creation was for Israel to fulfill the Torah. See BT *Shabbat* 88a, in the name of Resh Lakish: “Why is it written *It was evening and it was morning*, הששי‎ יום (*yom ha-shishi*), *the sixth day* ([[Torah 01 - Bereshit#^1-31|Genesis 1:31]]). Why is there an additional letter ה (*he*) \[signifying *the*, whereas the definite article does not appear with any of the preceding days of Creation\]? This teaches that the blessed Holy One stipulated a condition with the works of Creation, saying to them: ‘If Israel accepts the Torah \[which was given specifically on *the sixth day* of Sivan\], you will endure. If not, I will return you to *chaos and void* (ibid., 2).’”
+    The verb הגיד (*higgid*), “to tell,” can imply conveying wisdom. Here the deep message is that the entire purpose of Creation was for Israel to fulfill the Torah. See BT [[Shabbat 88#88a|*Shabbat* 88a]], in the name of Resh Lakish: “Why is it written *It was evening and it was morning*, הששי‎ יום (*yom ha-shishi*), *the sixth day* ([[Torah 01 - Bereshit#^1-31|Genesis 1:31]]). Why is there an additional letter ה (*he*) \[signifying *the*, whereas the definite article does not appear with any of the preceding days of Creation\]? This teaches that the blessed Holy One stipulated a condition with the works of Creation, saying to them: ‘If Israel accepts the Torah \[which was given specifically on *the sixth day* of Sivan\], you will endure. If not, I will return you to *chaos and void* (ibid., 2).’”
 
-    On the significance of the verb *higgid*, “to tell,” see above, p. 813, n. 140. On the passage in BT *Shabbat*, see BT *Avodah Zarah* 3a, 5a; *Tanḥuma, Bereshit* 1; *Midrash Tehillim* 20:3; 75:1; 76:4; *Mishnat Rabbi Eli’ezer* 12, p. 236; above, p. 306, n. 33.
+    On the significance of the verb *higgid*, “to tell,” see above, p. 813, n. 140. On the passage in BT *Shabbat*, see BT [[Avodah Zarah 3#3a|*Avodah Zarah* 3a]], 5a; *Tanḥuma, Bereshit* 1; *Midrash Tehillim* 20:3; 75:1; 76:4; *Mishnat Rabbi Eli’ezer* 12, p. 236; above, p. 306, n. 33.
 
     The context in Genesis (1:1–2) reads: *In the beginning God created the heavens and the earth. And the earth was chaos and void, with darkness over the face of the deep, and the spirit* \[or: *breath, wind*\] *of God hovering over the waters*.
 

@@ -35,6 +35,9 @@ yo'rthakriyāmāha bhinnāṃ kīṭayorapi tādṛśoḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 122)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.274]]
+
 *Lead-in:* अस्माकं पुनर्नायं पक्षः--इत्याह--
 
 > नैषोऽभिनवगुप्तस्य पक्षो मन्त्रार्पितात्मनः ।

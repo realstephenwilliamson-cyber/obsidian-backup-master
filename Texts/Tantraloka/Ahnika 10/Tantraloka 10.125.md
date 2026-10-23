@@ -31,5 +31,8 @@ vijñānākalavedyatve'pyanyo jñānākalo bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 374–375)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.124–127]]
+
 Jayaratha comments on this verse together with 10.126: see [[Tantraloka 10.126#Viveka|10.126]].
 

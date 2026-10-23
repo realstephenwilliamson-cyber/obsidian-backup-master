@@ -1,0 +1,52 @@
+{
+ "pdf": "/mnt/user-data/uploads/Obsidian Vault/Library/Hinduism/Vinasikhatantra_text.pdf",
+ "pdf_vault": "Library/Hinduism/Vinasikhatantra_text.pdf",
+ "catalog": "Catalog/Trika/Goudriaan (ed.) - The Vinasikhatantra - A Saiva Tantra of the Left Current",
+ "route": "pymupdf",
+ "title": "The Vīṇāśikhatantra: A Śaiva Tantra of the Left Current",
+ "authors": [],
+ "byline": "Translated by Teun Goudriaan. Motilal Banarsidass, Delhi, 1985.",
+ "folder": "Library/Hinduism/The Vinasikhatantra (Goudriaan)",
+ "index_name": "The Vinasikhatantra (Goudriaan)",
+ "prefix": "Vinasikhatantra",
+ "out": "/home/claude/p4/out",
+ "date": "2026-10-22",
+ "ctype": "book",
+ "single": false,
+ "text_source": "the PDF's earlier OCR text layer (a scan), PyMuPDF",
+ "callout": "> [!note] Text from the PDF's OCR layer\n> This text is the scan's earlier OCR layer (a fresh OCR read no better). The English is reliable. The transliterated Sanskrit, including the edition of the text, has many lost or misread diacritics: ṃ, ṭ, ḍ, ṇ and ṛ often come out as plain letters. For the Sanskrit, read the PDF (the *Open the PDF* button on the catalog note).",
+ "fixmap": true,
+ "anusvara": true,
+ "toc": [
+  [
+   1,
+   "Preface",
+   10
+  ],
+  [
+   1,
+   "Part I. Introduction",
+   12
+  ],
+  [
+   1,
+   "Text of the Vinasikhatantra",
+   74
+  ],
+  [
+   1,
+   "Translation",
+   108
+  ],
+  [
+   1,
+   "Index of Half-Slokas (Odd Padas)",
+   156
+  ],
+  [
+   1,
+   "Index of Important Sanskrit Words",
+   168
+  ]
+ ]
+}

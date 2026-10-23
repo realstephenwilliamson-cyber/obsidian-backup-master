@@ -31,6 +31,9 @@ tadvarjitā ye paśava ānandaparivarjitāḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 289–296)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.99–100]]
+
 *Lead-in:* इत्याद्युक्त्या मांसादिनिवृत्तौ शास्त्रं प्रयोजकं न तत्प्रवृत्तौ, तस्याः स्वारसिकत्वात् । नहि मलिनः स्नायात् बुभुक्षितोऽश्नीयादित्यादौ क्वचिच्छास्त्रमुपयुक्तम् । तत्किमेतदुक्तम्?--इत्याशङ्क्य आह--
 
 > तद्वर्जिता ये पशव आनन्दपरिवर्जिताः ।

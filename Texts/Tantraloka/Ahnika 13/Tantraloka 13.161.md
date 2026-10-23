@@ -31,6 +31,9 @@ taduktyā na vinā vetti śaktipātasya māndyataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 222–223)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.161]]
+
 *Lead-in:* ननु इदानीमेवोक्तं न कश्चिदपि जन्तुः प्रतिभया रिक्त इति, तत्किं तदुदये परकीयशास्त्राद्यपेक्षणेन ? -- इत्याशङ्क्याह --
 
 > परोपजीविताबुद्ध्या सर्व इत्थं न भासते ।

@@ -34,6 +34,9 @@ na punaḥ kīrtayettasya pāpaṃ kīrtayitā vrajet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 275–276)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.59–61]]
+
 > सर्वथा वर्तमानोऽपि तत्त्वविन्मोचयेत्पशून् ।
 > इच्छयैव शिवः साक्षात्तस्मात्तं पूजयेत्सदा ॥
 > शाठ्यं तत्र न कार्यं च तत्कृत्वाधो व्रजेच्छिशुः ।

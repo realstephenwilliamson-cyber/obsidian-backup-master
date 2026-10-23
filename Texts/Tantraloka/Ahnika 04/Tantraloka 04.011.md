@@ -34,6 +34,9 @@ saiva māyā yato bheda etāvānviśvavṛttikaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 13)
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.11]]
+
 *Lead-in:* तदाह—
 
 > अनावृत्ते स्वरूपेऽपि यदात्माच्छादनं विभोः ।

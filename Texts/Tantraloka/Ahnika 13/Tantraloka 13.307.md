@@ -31,6 +31,9 @@ anyaśāstrarato yastu nāsau siddhiphalapradaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 316)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.307]]
+
 *Lead-in:* न केवलमेतदत्रैवोक्तं यावदन्यत्रापि -- इत्याह --
 
 > स्वच्छन्दशास्त्रे संक्षेपादुक्तं च श्रीमहेशिना ।

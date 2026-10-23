@@ -31,6 +31,9 @@ yatra yatra japeccakre samastavyastabhedanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 315)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.37–39]]
+
 > मूलकन्दनभोनाभिहृत्कण्ठालिकतालुगम् ।
 > अर्धेन्दुरोधिकानादतदन्तव्यापिशक्तिगम् ॥
 > समनोन्मनशुद्धात्मपरचक्रसमाश्रितम् ।

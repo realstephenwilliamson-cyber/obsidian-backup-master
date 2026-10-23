@@ -34,6 +34,9 @@ evaṃ krameṇa saṃśuddhe sadāśivapade'pyalam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 171–172)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.74–76]]
+
 > मायान्ते शुद्धिमायाते वागीशी या पुराभवत् ।
 > माया शक्तिमयी सैव विद्याशक्तित्वमश्नुते ॥
 > तच्छुद्धविद्यामाहूय विद्याशक्तिं नियोजयेत् ।

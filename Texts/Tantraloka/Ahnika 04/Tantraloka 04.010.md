@@ -34,6 +34,9 @@ svātmapracchādanakrīḍāpaṇḍitaḥ parameśvaraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 12–13)
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.10]]
+
 > इत्यादिनोक्तम् । यदभिप्रायेणैव अतो बाह्यैरपि
 > ङापनेयमतः किञ्चित्प्रक्षेप्तव्यं न किञ्चन ।
 

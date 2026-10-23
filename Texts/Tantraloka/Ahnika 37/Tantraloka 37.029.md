@@ -31,6 +31,9 @@ muktastenaiva kālena yantraṃ tiṣṭhati kevalam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 238–239)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.29]]
+
 *Lead-in:* ननु अत्रापि शेषवृत्तौ कर्मादिबाहुल्यमपि उक्तं तत् किमतेदुक्तम्?-- इत्याशङ्क्य आह--
 
 > यस्मिन्काले च गुरुणा निर्विकल्पं प्रकाशितम् ।

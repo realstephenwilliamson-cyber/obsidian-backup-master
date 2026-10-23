@@ -35,6 +35,9 @@ udbhaviṣyattvamudbhūtiprārambho'pyudbhavasthitiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 345–347)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.117–118]]
+
 *Lead-in:* ननु मकरादे राशिद्वादशकस्य सामान्येन पारलौकिकैहलौकिकत्वेऽपि प्रत्येकमस्ति कश्चिद्विशेषो न वा ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 6.118: see [[Tantraloka 06.118#Viveka|6.118]].

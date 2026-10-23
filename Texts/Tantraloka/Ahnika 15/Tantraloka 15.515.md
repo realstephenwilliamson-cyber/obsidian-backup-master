@@ -32,6 +32,9 @@ bhūmābhiprāyataḥ smārte dvijanmā dvijayoḥ sutaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 314)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.515]]
+
 *Lead-in:* ननु एतत् स्मृत्यादिशास्त्रान्तरविरोधात् कथं घटते?--इत्याशङ्क्य आह--
 
 > संविदो देहसंभेदात्सदृशात्सदृशोदयात् ।

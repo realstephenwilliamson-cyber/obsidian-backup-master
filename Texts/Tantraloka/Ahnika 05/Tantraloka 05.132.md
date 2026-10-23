@@ -37,6 +37,11 @@ sṛṣṭisaṃhārabījaṃ ca tasya mukhyaṃ vapurviduḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 180–182)
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.131–132]]
+>
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.132]]
+
 *Lead-in:* नन्वेवंविधोऽयं वर्णः कुत्रोपलभ्यते ? -- इत्याशङ्क्याह --
 
 > सृष्टिसंहारबीजं च तस्य मुख्यं वपुर्विदुः ॥

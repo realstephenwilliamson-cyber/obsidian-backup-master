@@ -31,6 +31,9 @@ santarpya vyākhyānaṃ kuryātsambandhapūrvakaṃ matimān || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 182–183)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.397–399]]
+
 > लिप्तायां भुवि पीठे चतुरस्रे पङ्कजत्रयं कजगे ।
 > कुर्याद्विद्यापीठं स्याद्रसवह्न्यंगुलं त्वेतत् ॥
 > मध्ये वागीशानीं दक्षोत्तरयोर्गुरून्गणेशं च ।

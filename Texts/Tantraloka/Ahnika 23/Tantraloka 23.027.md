@@ -31,5 +31,8 @@ kurvanna bādhyate yasmāddīpāddīpavadīdṛśaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 309–310)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.26–28]]
+
 Jayaratha comments on this verse together with 23.28: see [[Tantraloka 23.028#Viveka|23.28]].
 

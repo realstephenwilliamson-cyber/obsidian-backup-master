@@ -34,6 +34,9 @@ ghaṭa ityapi neyānsyādvikalpaḥ kā kathā sthitau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 23–24)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.33–35]]
+
 > शब्दारूषणया ज्ञानं विकल्पः किल कथ्यते ॥
 > सा च स्यात्क्रमिकैवेत्थं किं कथं को विकल्पयेत् ।
 > घट इत्यपि नेयान्स्याद्विकल्पः का कथा स्थितौ ॥

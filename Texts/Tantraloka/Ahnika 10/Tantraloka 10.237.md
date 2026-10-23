@@ -33,6 +33,11 @@ cāturvidhyaṃ hi piṇḍasthanāmni jāgrati kīrtitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 444–445)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.236–237]]
+>
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.237]]
+
 *Lead-in:* न चाबुद्धादिरूपत्वमत्रास्माभिः स्वोपज्ञमेवोक्तम् -- इत्याह --
 
 > चातुर्विध्यं हि पिण्डस्थनाम्नि जाग्रति कीर्तितम् ॥

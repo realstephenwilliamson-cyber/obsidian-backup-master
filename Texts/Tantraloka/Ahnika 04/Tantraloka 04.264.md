@@ -36,6 +36,11 @@ jvālādiliṅgaṃ cānyasya kapālādi tu me nijam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 370–371)
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.263–264]]
+>
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.264]]
+
 *Lead-in:* "लिङ्गादि"इत्यादिशब्दार्थमाह --
 
 > आदिशब्दात्तपश्चर्यावेलातिथ्यादि कथ्यते ॥

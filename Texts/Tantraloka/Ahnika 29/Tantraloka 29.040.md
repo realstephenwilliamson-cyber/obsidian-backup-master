@@ -31,6 +31,9 @@ acirāllabhate tattatprāpyaṃ yadyoginīvadanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 237–238)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.40]]
+
 *Lead-in:* ननु किमेवमोवल्ल्याद्युपदेशेन ?--इत्याशङ्क्य आह--
 
 > इति सङ्केताभिज्ञो भ्रमते पीठेषु यदि स सिद्धीप्सुः ।

@@ -31,6 +31,9 @@ sa eṣa paramo yāgaḥ stutaḥ śītāṃśumaulinā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 349)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.177]]
+
 *Lead-in:* न च एवमस्माभिः स्वोपज्ञमेवोक्तम्--इत्याह--
 
 > श्रीवीरावल्यमर्यादप्रभृतौ शास्त्रसञ्चये ।

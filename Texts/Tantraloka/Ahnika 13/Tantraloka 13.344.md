@@ -31,6 +31,9 @@ tasya me sarvaśiṣyasya nopadeśadaridratā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 337)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.344–345]]
+
 *Lead-in:* एतच्च गुरुभिरप्युक्तम् -- इत्याह --
 
 > आ तपनान्मोटकान्तं यस्य मेऽस्ति गुरुक्रमः ।

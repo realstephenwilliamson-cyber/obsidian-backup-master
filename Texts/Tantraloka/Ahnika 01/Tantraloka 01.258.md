@@ -35,6 +35,9 @@ dharmasya sṛṣṭiḥ sāmānyasṛṣṭiḥ sā saṃśayātmikā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 435–436)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.258]]
+
 *Lead-in:* तत्र सामान्यस्य किं नाम बहिरवभासनम् ? -- इत्याह --
 
 > स्रक्ष्यमाणविशेषांशाकांक्षायोग्यस्य कस्यचित् ।

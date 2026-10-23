@@ -36,6 +36,11 @@ kā syātsatīti cedetadanyatra pravitānitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 325–327)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.229]]
+>
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.229 (2)]]
+
 *Lead-in:* ननु यदि नाम शुद्ध्यशुद्धिविभागे चोदनैव निमित्तं, तदस्तु को दोषः, किंतु तदविभागेऽपि एषा शिवोदिता चोदनैव निमित्तं ङात्र शुद्धिर्न चाशुद्धिः"इति, तदाह --
 
 > इत्थमस्तु तथाप्येषा चोदनैव शिवोदिता ।

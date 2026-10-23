@@ -36,6 +36,11 @@ prāṇa eva śikhā śrīmattriśirasyuditā hi sā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 237–240)
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.21–22]]
+>
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.22–23]]
+
 *Lead-in:* इत्यादिवक्ष्यमाणनीत्यास्य संविदि प्रतिष्ठितत्वं युक्तं न जडात्मनि प्राणे ? -- इत्याशङ्क्याह --
 
 > प्राण एव शिखा श्रीमत्त्रिशिरस्युदिता हि सा ॥

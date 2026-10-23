@@ -33,6 +33,11 @@ nanu mātrantarairbandhuputrādyaistattathā na kim || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 156)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.353–354]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.354–355]]
+
 *Lead-in:* ननु विषमोऽयं दृष्टान्तः, स्वप्नेऽपि भासमाना अपि बन्ध्वादयस्तद्वृत्तान्तानभिज्ञा एव--इत्याह--
 
 > ननु मात्रन्तरैर्बन्धुपुत्राद्यैस्तत्तथा न किम् ॥

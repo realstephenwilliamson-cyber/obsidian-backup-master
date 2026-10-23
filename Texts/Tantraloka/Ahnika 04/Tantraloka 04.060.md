@@ -36,6 +36,11 @@ tatraiva coktaṃ sevāyāṃ kṛtāyāmavikalpataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 77–80)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.60]]
+>
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.60–62]]
+
 *Lead-in:* न च एतदस्मदुपज्ञमेव, इत्यर्थद्वारेण संवादयति --
 
 > तत्त्वज्ञानादृते नान्यल्लक्षणं ब्रह्मयामले ।

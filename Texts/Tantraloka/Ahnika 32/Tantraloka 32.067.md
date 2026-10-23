@@ -31,6 +31,9 @@ bodhāveśaḥ sannidhiraikyena visarjanaṃ svarūpagatiḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 167)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.67]]
+
 *Lead-in:* ननु एवं समये मुद्राबन्धेन किं स्यात्?--इत्याशङ्क्य आह--
 
 > बोधावेशः सन्निधिरैक्येन विसर्जनं स्वरूपगतिः ।

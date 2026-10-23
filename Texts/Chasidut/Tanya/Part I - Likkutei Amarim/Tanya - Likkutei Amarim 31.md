@@ -57,22 +57,22 @@ The quality of this repentance will be stronger and more intense, from the depth
 For this reason the Torah is described as “restoring the soul,”[^24] i.e., [restoring it] to its source and root. Concerning this it is written, “The precepts of the L–rd are right, rejoicing the heart.”[^25]
 
 [^1]: [[I Chronicles 16#^16-27|I Chronicles 16:27]].
-[^2]: See *Shabbat* 30b.
+[^2]: See [[Shabbat 30#30b|*Shabbat* 30b]].
 [^3]: See above, ch. 2, note 9.
 [^4]: In the Prayer Before Retiring to Bed.
-[^5]: *Sanhedrin* 39b.
-[^6]: *Shabbat* 121b.
+[^5]: [[Sanhedrin 39#39b|*Sanhedrin* 39b]].
+[^6]: [[Shabbat 121#121b|*Shabbat* 121b]].
 [^7]: [[Proverbs 14#^14-23|Proverbs 14:23]].
 [^8]: The author makes a distinction between עצבות (“sadness,” bordering on depression or melancholy) and מרירות (“bitterness”).
 [^9]: See below, chs. 40 and 41.
-[^10]: *Berachot* 5a.
+[^10]: [[Berakhot 5#5a|*Berachot* 5a]].
 [^11]: Ch. 29.
 [^12]: [[Torah 31 - Emor#^22-13|Leviticus 22:13]].
 [^13]: Comp. *Avot* 4:11.
-[^14]: *Shabbat* 153a.
+[^14]: [[Shabbat 153#153a|*Shabbat* 153a]].
 [^15]: Cf. below, ch. 33.
 [^16]: [[Torah 16 - Beshalach#^14-5|Exodus 14:5]].
-[^17]: *Shabbat* 146a.
+[^17]: [[Shabbat 146#146a|*Shabbat* 146a]].
 [^18]: [[Jeremiah 16#^16-19|Jeremiah 16:19]].
 [^19]: [[II Samuel 22#^22-2|II Samuel 22:2]].
 [^20]: Liturgy, *Adon Olam*.

@@ -33,6 +33,11 @@ na cāsau prathamaḥ śabdastāvadvyāpīti yujyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 277)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.302–303]]
+>
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.303–304]]
+
 *Lead-in:* ननु मा भूत् श्रोत्रवृत्तितया शब्दजः शब्दो दूरप्रतीतिविषयः, प्रथम एव तु श्रोत्रपर्यन्तप्रसरणशीलो दूरदेशस्थतया तथा स्यात्? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 9.302: see [[Tantraloka 09.302#Viveka|9.302]].

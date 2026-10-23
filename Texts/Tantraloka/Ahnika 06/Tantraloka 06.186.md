@@ -37,6 +37,11 @@ mūlābhidhamahāpīṭhasaṅkocapravikāsayoḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 394–396)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.185–186]]
+>
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.186–187]]
+
 *Lead-in:* नन्वत्रापि प्राणवत्कालवैचित्र्यं किं सञ्चेत्यते न वा ? -- इत्याशङ्क्याह --
 
 > मूलाभिधमहापीठसङ्कोचप्रविकासयोः ॥

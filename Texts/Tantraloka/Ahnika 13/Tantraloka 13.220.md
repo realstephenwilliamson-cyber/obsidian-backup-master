@@ -31,5 +31,8 @@ dṛṣṭāḥ saṃbhāvitāstena spṛṣṭāśca prītacetasā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 262–263)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.219–222]]
+
 Jayaratha comments on this verse together with 13.221: see [[Tantraloka 13.221#Viveka|13.221]].
 

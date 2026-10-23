@@ -36,6 +36,11 @@ ullāsibodhahutabhugdagdhaviśvendhanodite || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 135–137)
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.115–116]]
+>
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.116–117]]
+
 *Lead-in:* ननु स्नानादेरपि भेदसंधायकत्वान्मायीयामर्शरूपत्वमेव युक्तं कथमस्य शुद्धविद्यापरामर्शकत्वमुक्तम् ? -- इत्याशङ्क्याह --
 
 > उल्लासिबोधहुतभुग्दग्धविश्वेन्धनोदिते ॥

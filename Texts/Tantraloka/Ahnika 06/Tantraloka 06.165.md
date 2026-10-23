@@ -35,6 +35,9 @@ so'pi yāti layaṃ sāmyasaṃjñe sāmanase pade || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 378–380)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.163–165]]
+
 > प्राणगर्भस्थमप्यत्र विश्वं सौषुम्नवर्त्मना ॥
 > प्राणे ब्रह्मविले शान्ते संविद्याप्यवशिष्यते ।
 > अंशांशिकातोऽप्येतस्याः सूक्ष्मसूक्ष्मतरो लयः ॥

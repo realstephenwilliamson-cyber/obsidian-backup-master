@@ -33,6 +33,9 @@ atha śāktamupāyamaṇḍalaṃ kathayāmaḥ paramātmasaṃvide || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 1–3)
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.1]]
+
 *Lead-in:* इदानीं शांभवोपायानन्तरं क्रमप्राप्तं शाक्तोपायं कथयितुमपरार्धेन प्रतिजानीते --
 
 > अथ शाक्तमुपायमण्डलं कथयामः परमात्मसंविदे ॥

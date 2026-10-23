@@ -36,6 +36,11 @@ tatraiva ca punaḥ śrīmadraktārādhanakarmaṇi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 80–82)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.62–63]]
+>
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.63–64]]
+
 *Lead-in:* ननु आचार्यः सस्फुरो भवतु अस्फुरो वा, किमनेन नः प्रयोजनं, तमन्तरेण पुनः स्वयमेव दीक्षा न भवेत्, एवं हि आगमविरोध आपतेत्, तदपव्याख्यानमेतत् ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 4.62: see [[Tantraloka 04.062#Viveka|4.62]].

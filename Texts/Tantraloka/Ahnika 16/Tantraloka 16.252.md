@@ -35,6 +35,9 @@ arthasya pratipattiryā grāhyagrāhakarūpiṇī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 110)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.252–253]]
+
 *Lead-in:* न चैतद्युक्तित एव सिद्धम्--इत्याह--
 
 > श्रीसारशास्त्रे तदिदं परमेशेन भाषितम् ।

@@ -37,7 +37,7 @@ Therefore, my beloved, my brethren: set your hearts to these words expressed in 
 [^9]: V. L.: to become separated.
 [^10]: Cf. *Zohar* [[Zohar 5.05 - Parashat Terumah#^z2-155b|II:155b]] and [[Zohar 8.03 - Parashat Qedoshim#^z3-81a|III:81a]].
 [^11]: [[Torah 45 - Vaetchanan#^6-4|Deuteronomy 6:4]].
-[^12]: See *Berachot* 13b; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-12a|I:12a]]; [[Zohar 2.06 - Parashat Va-Yetse#^z1-158a|158a]]; [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-216b|II:216b]].
+[^12]: See [[Berakhot 13#13b|*Berachot* 13b]]; *Zohar* [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-12a|I:12a]]; [[Zohar 2.06 - Parashat Va-Yetse#^z1-158a|158a]]; [[Zohar 6.05 - Parashat Va-Yaqhel#^z2-216b|II:216b]].
 [^13]: Par. [[Proverbs 23#^23-5|Proverbs 23:5]].
 [^14]: V. L.: for… to be not.
 [^15]: The creature (man).
@@ -50,7 +50,7 @@ Therefore, my beloved, my brethren: set your hearts to these words expressed in 
 [^22]: While the previous seems to be a general Halachic statement, these latter words appear to refer specifically to the Chasidic leaders (including the author’s master and colleague, R. Menachem Mendel of Vitebsk) who ascended to the Holy Land accompanied by their families and numerous followers.
 [^23]: Brackets appear in the text.
 [^24]: See below, note 27.
-[^25]: *Shabbat* 139a; *Sanhedrin* 98a (see glossary notes, ad loc.).
+[^25]: [[Shabbat 139#139a|*Shabbat* 139a]]; [[Sanhedrin 98#98a|*Sanhedrin* 98a]] (see glossary notes, ad loc.).
 [^26]: See Mishnah, *Peah* 1:1: “The study of Torah is equivalent to them all” (including the performance of kindness).—Cf. *Likkutei Sichot*, vol. 9, p. 345, in the glossary notes.
 [^27]: *Be’ikvot Meshicha*, in Hebrew, lit. “on the heels,” or “in the footsteps of the Messiah.” See *Sotah* 49:b, and *Rashi*, ad loc., for this expression and *Etz Chaim* 3:2 for its mystical implication.
 [^28]: [[Amos 9#^9-11|Amos 9:11]].

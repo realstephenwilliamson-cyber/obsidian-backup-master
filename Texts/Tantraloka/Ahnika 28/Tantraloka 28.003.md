@@ -31,6 +31,9 @@ dinamāsarkṣavarṣādinaiyatyāducyate tadā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 4–5)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.3]]
+
 *Lead-in:* अथोच्यते दिनादिकल्पनानियमेन नित्यतेति यथाशंसं सायंप्रातरादावेव सन्ध्यावन्दनादि--इत्याह--
 
 > दिनादिकल्पनोत्थे तु नैयत्ये सर्वनित्यता ।

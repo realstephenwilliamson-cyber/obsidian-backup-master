@@ -34,6 +34,11 @@ eṣa saṃpātasaṃskāraścarorbhoktā hyadhiṣṭhitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 273–274)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.441–442]]
+>
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.442–443]]
+
 *Lead-in:* ननु एवं भोज्यभोजकयोः साम्यमेव उक्तं स्यादिति किमेतत्?-- इत्याशङ्क्य आह--
 
 > एष संपातसंस्कारश्चरोर्भोक्ता ह्यधिष्ठितः ॥

@@ -34,6 +34,11 @@ tamāpāditarudrāṃśaṃ samayān śrāvayed guruḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 317–319)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.520–521]]
+>
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.521–523]]
+
 *Lead-in:* ननु अस्य किं श्रोतव्यमध्येतव्यं वा ?--इत्याशङ्कां गर्भीकृत्य समयान् वक्तुमुपक्रमते--
 
 Jayaratha comments on this verse together with 15.520: see [[Tantraloka 15.520#Viveka|15.520]].

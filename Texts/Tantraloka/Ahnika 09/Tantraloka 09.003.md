@@ -33,6 +33,9 @@ tathāhi kālasadanādvīrabhadrapurāntagam | dhṛtikāṭhinyagarimādyavabh�
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 5–6)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.3]]
+
 *Lead-in:* एतदेवोपपादयति -
 
 > तथाहि कालसदनाद्वीरभद्रपुरान्तगम् । धृतिकाठिन्यगरिमाद्यवभासाद्धरात्मता ॥

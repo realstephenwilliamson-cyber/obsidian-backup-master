@@ -33,6 +33,11 @@ tataḥ saṃsārabhāgīyatathāniścayaśātinīm || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 163–164)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.273–274]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.274–275]]
+
 *Lead-in:* एवं शिवत्वस्य भावनालभ्यत्वमेव युक्तमिति उपसंहरति--
 
 > ततः संसारभागीयतथानिश्चयशातिनीम् ॥

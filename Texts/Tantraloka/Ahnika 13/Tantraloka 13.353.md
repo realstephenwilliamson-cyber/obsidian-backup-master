@@ -33,6 +33,11 @@ evamevordhvavartiṣṇorāgamātsiddhivāñchakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 340–341)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.351–353]]
+>
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.353–355]]
+
 *Lead-in:* न केवलमेतत्स्वदर्शनमेवाधिकृत्योक्तं यावद्दर्शनान्तराण्यपि -- इत्याह --
 
 > एवमेवोर्ध्ववर्तिष्णोरागमात्सिद्धिवाञ्छकः ॥

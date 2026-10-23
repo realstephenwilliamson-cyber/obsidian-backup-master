@@ -36,6 +36,11 @@ pramāṇarūpatāmetya prayātyadhvā padātmatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 53–55)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.55–57]]
+>
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.57]]
+
 *Lead-in:* द्विविधं हि संविदः परिस्फुरणं क्षुब्धमक्षुब्धं च । तत्राक्षुब्धतायामस्याः प्रमातृत्वे मन्त्राध्वत्वम्, अन्यथा पुनः प्रमाणत्वे पदाध्वत्वम्, तदाह --
 
 > प्रमाणरूपतामेत्य प्रयात्यध्वा पदात्मताम् ॥

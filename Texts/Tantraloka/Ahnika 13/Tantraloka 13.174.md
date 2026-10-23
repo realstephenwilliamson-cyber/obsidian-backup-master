@@ -33,6 +33,11 @@ dīkṣāsicchinnapāśatvādbhāvanābhāvitasya hi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 230–231)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.173–174]]
+>
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.174–175]]
+
 *Lead-in:* ननु प्रातिभत्वं वस्तुसदिति असकृदुक्तं तत्कथमिह शिवादितत्त्वत्रयमेव गुर्वादिमाहात्म्यात्प्रातिभतां व्रजेदित्युक्तम्? -- इत्याशङ्क्याह --
 
 > दीक्षासिच्छिन्नपाशत्वाद्भावनाभावितस्य हि ॥

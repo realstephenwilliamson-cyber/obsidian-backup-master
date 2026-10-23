@@ -34,6 +34,9 @@ yathā niṣiddhabhūtādikarmā mantraṃ smaransvayam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 222–223)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.34–35]]
+
 *Lead-in:* एतदेव दृष्टान्तोपदर्शनेन हृदयङ्गमयति--
 
 Jayaratha comments on this verse together with 19.35: see [[Tantraloka 19.035#Viveka|19.35]].

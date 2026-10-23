@@ -34,6 +34,9 @@ agnīṣomau samau tatra sṛjyete cātmanātmani || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 188–190)
+> ![[Tantraloka Dyczkowski v03 06 - Chapter Four, part 5#Viveka on 4.140]]
+
 *Lead-in:* ननु एवं विश्वसृष्टिरेकस्मादेव अस्माज्जन्मस्थानाख्याद् गुह्यचक्रात् अस्य सिद्ध्येत्, इति किमर्थं "गुह्यचक्राणि"इति वहुवचनेनायं निर्देशः? इत्याशङ्क्याह --
 
 > अत ऊर्ध्वं पुनर्याति यावद् ब्रह्मात्मकं पदम् ।

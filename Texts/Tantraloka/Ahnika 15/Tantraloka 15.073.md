@@ -33,6 +33,11 @@ yataḥ śivamayaṃ madyaṃ sarve mantrāḥ śivodbhavāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 53–56)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.69–73]]
+>
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.73–75]]
+
 *Lead-in:* मद्यस्नानमेव च केवलीभावे कस्मात् निमित्तम् ?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 15.72: see [[Tantraloka 15.072#Viveka|15.72]].

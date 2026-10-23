@@ -35,6 +35,9 @@ icchādhīnāni punarvikaraṇasaṃjñāni kāryamapyevam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 280–281)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.276–277]]
+
 > अकृताधिष्ठानतया कृत्याशक्तानि मूढानि ।
 > प्रतिनियतविषयभाञ्जि स्फुटानि शास्त्रे विवृत्तानि ॥
 > भग्नानि महाप्रलये सृष्टौ नोत्पादितानि लीनानि ।

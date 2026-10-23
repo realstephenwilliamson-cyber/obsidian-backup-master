@@ -33,6 +33,11 @@ kiṃcidrūpaviśiṣṭaṃ yat kartṛtvaṃ tatkathaṃ bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 163–165)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.190–191]]
+>
+> ![[Tantraloka Dyczkowski v06 07 - Chapter Nine, part 5#Viveka on 9.191–192]]
+
 *Lead-in:* ननु किंचिद्रूपविशिष्टमपि कर्तृत्वं कथमज्ञस्य भवेत् ? -- इत्याशङ्क्य किञ्चिञ्ज्ञेयत्वाधायिनस्तत्त्वान्तरस्यापि उत्पत्तिं प्रतिजानीते -
 
 > किंचिद्रूपविशिष्टं यत् कर्तृत्वं तत्कथं भवेत् ॥

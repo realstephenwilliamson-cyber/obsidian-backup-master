@@ -34,6 +34,9 @@ mūḍhānāṃ vastu bhavati tato'pyanyatra nāpyalam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 92–97)
+> ![[Tantraloka Dyczkowski v02 04 - Chapter Three, part 1#Viveka on 3.21–22]]
+
 *Lead-in:* न चैतत्प्रतिबिम्बसतत्त्वमस्माभिः स्वोपज्ञमेवोक्तम्, इत्याह --
 
 Jayaratha comments on this verse together with 3.22: see [[Tantraloka 03.022#Viveka|3.22]].

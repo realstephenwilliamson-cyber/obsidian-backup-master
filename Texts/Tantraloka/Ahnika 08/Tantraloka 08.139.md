@@ -37,6 +37,11 @@ agnikanyā mātaraśca rudraśaktyā tvadhiṣṭhitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 174–176)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.139]]
+>
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.139–142]]
+
 *Lead-in:* एतदेव उपसंहरति --
 
 > महापरिवहान्तोऽयमृतर्द्धेः प्राङ्मरुत्पथः ।

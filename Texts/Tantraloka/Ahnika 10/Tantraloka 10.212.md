@@ -30,6 +30,9 @@ tāsu saṃdadhataścittamavadhānaikadharmakam | tattatsiddhisamāveśaḥ svay
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 427)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.212]]
+
 *Lead-in:* -- इत्याशङ्क्याह --
 
 > तासु संदधतश्चित्तमवधानैकधर्मकम् । तत्तत्सिद्धिसमावेशः स्वयमेवोपजायते ॥

@@ -39,16 +39,16 @@ This is also similar to what R. Moses Maimonides wrote “to refine the soul,”
 [^1]: Par. [[Job 29#^29-22|Job 29:22]] and [[Torah 53 - Ha'Azinu#^32-2|Deuteronomy 32:2]].
 [^2]: Par. [[Judges 05#^5-9|Judges 5:9]].
 [^3]: Cf. above, Epistles 14 and 17.
-[^4]: Cf. *Makkot* 23a: *Sifrei*, Numbers, sect. 1.
+[^4]: Cf. [[Makkot 23#23a|*Makkot* 23a]]: *Sifrei*, Numbers, sect. 1.
 [^5]: See *Shulchan Aruch*, *Yoreh Deah* 203; cf. *Likkutei Torah*, *Matot* 82b.
-[^6]: *Nazir* 22b; *Bava Kama* 38b, etc.; see below, note 10.
+[^6]: [[Nazir 22#22b|*Nazir* 22b]]; [[Bava Kamma 38#38b|*Bava Kama* 38b]], etc.; see below, note 10.
 [^7]: The binding of Isaac for sacrificial purposes (Genesis 22).
 [^8]: [[Torah 04 - Vayera#^22-2|Genesis 22:2]].
 [^9]: See [[Torah 04 - Vayera#^22-3|Genesis 22:3]] and *Midrashim*, ad loc.
-[^10]: *Pesachim* 4a; *Rosh Hashanah* 32b; etc.
+[^10]: [[Pesachim 4#4a|*Pesachim* 4a]]; [[Rosh Hashanah 32#32b|*Rosh Hashanah* 32b]]; etc.
 [^11]: Cf. *Peah* 1:1; see above, beg. of Epistle 17.
-[^12]: [[Proverbs 10#^10-2|Proverbs 10:2]]; see *Rosh Hashanah* 16b and *Zohar* [[Zohar 2.03 - Parashat Va-Yera#^z1-104a|I:104a]].
-[^13]: *Rosh Hashanah* 16a.
+[^12]: [[Proverbs 10#^10-2|Proverbs 10:2]]; see [[Rosh Hashanah 16#16b|*Rosh Hashanah* 16b]] and *Zohar* [[Zohar 2.03 - Parashat Va-Yera#^z1-104a|I:104a]].
+[^13]: [[Rosh Hashanah 16#16a|*Rosh Hashanah* 16a]].
 [^14]: *Avot* 3:15; see *The Art of Giving* (Kehot 2014), pp. 24-26 ff.
 [^15]: See [[Proverbs 10#^10-16|Proverbs 10:16]] and 11:19.
 [^16]: Lit., Life of life; see above, Epistle 17, note 4.
@@ -58,12 +58,12 @@ This is also similar to what R. Moses Maimonides wrote “to refine the soul,”
 [^20]: See above, Epistle 14, and note 29, ad loc.
 [^21]: The Land of Life, the *Shechinah*.
 [^22]: See above, Epistle 9, notes 27 ff.
-[^23]: *Megillah* 29a (v.s. of *Eyn Yaakov*, ad loc.); *Mechilta* on [[Torah 15 - Bo#^12-41|Exodus 12:41]]; see below, Epistle 25, note 48.—Cf. *Likkutei Amarim*, Part I, end of ch. 17.
+[^23]: [[Megillah 29#29a|*Megillah* 29a]] (v.s. of *Eyn Yaakov*, ad loc.); *Mechilta* on [[Torah 15 - Bo#^12-41|Exodus 12:41]]; see below, Epistle 25, note 48.—Cf. *Likkutei Amarim*, Part I, end of ch. 17.
 [^24]: The “poor who has nothing of his own” corresponds to the *Shechinah*, the *sefirah* of *malchut*—which has “nothing of its own but what is given to it by others” (cf. *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-249b|I:249b]]; *Etz Chaim* 6:5 and 8:5; *et passim*). See *Zohar* [[Zohar 8.06 - Parashat Be-Huqqotai#^z3-113b|III:113b]].
 [^25]: I.e., the terrestrial Land of Life, the Land of Israel; see above, Epistle 8, note 45.
 [^26]: Cf. *Zohar Chadash*, *Rut* 84a; 78c; *et passim*.
 [^27]: [[Psalms 044#^44-26|Psalms 44:26]].
 [^28]: Cf. above (note 22), and see *Midrash Tehillim* 44:2.
-[^29]: *Bava Batra* 10a.
+[^29]: [[Bava Batra 10#10a|*Bava Batra* 10a]].
 [^30]: See Jerusalem Talmud, *Yoma* 3:2.
 [^31]: [[Torah 12 - Vayechi#^49-7|Genesis 49:7]].

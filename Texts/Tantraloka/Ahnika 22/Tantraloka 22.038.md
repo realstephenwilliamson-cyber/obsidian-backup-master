@@ -31,6 +31,9 @@ sarvathā tvabruvanneṣa bruvāṇo vā viparyayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 290)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.37–39]]
+
 > प्राप्तोऽपि सद्गुरुर्योग्यभावमस्य न वेत्ति चेत् ॥
 > विज्ञानदाने तच्छिष्यो योग्यतां दर्शयेन्निजाम् ।
 > सर्वथा त्वब्रुवन्नेष बुर्वाणो वा विपर्ययम् ॥

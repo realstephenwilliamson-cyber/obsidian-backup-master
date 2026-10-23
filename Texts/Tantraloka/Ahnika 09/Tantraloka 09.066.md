@@ -33,6 +33,11 @@ yathaivāvyatiriktasya dharāderbhāvitātmatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 68–69)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.65–66]]
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.66–67]]
+
 *Lead-in:* नन्वखण्डः पर एव प्रकाशः समस्ति, इति तदतिरेकेण कथङ्कारमयं मलो नाम वस्तुरूपतामियात् ? -- इत्याशङ्क्याह --
 
 > यथैवाव्यतिरिक्तस्य धरादेर्भावितात्मता ॥

@@ -31,6 +31,9 @@ athārthasya prakāśo yastadrūpamiti bhaṇyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 316)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.34–35]]
+
 > अपूर्वमत्र विदितं नरीनृत्यामहे ततः ।
 > अर्थप्रकाशो ज्ञानस्य यद्रूपं तन्निरूप्यताम् ॥
 > अर्थः प्रकाशश्चेद्रूपमर्थो वा ज्ञानमेव वा ।

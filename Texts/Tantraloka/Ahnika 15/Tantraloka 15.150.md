@@ -31,6 +31,9 @@ gacchaṃstiṣṭhannapi dvaitaṃ kārakāṇāṃ vyapojjhati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 97)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.149–151]]
+
 *Lead-in:* ननु एवं किं स्यात्?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 15.151: see [[Tantraloka 15.151#Viveka|15.151]].

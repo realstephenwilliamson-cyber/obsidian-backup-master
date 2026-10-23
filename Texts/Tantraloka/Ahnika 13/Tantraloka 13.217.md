@@ -31,6 +31,11 @@ anyastu mandatīvrākhyaśaktipātavidhiṃ prati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 261–262)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 13.218–219.*
+>
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.218–219]]
+
 *Lead-in:* एतदुपसंहरन्मन्दतीव्रग्रन्थं विभजति --
 
 > स इत्यन्तो ग्रन्थ एष द्वितीयविषयः स्फुटः ।

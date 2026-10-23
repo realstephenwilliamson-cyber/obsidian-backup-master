@@ -35,6 +35,9 @@ yogamantrakriyādeḥ syādvaimalyaṃ tadvidā tadā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 106)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.243]]
+
 *Lead-in:* ननु यद्येवं तद्योगिनां प्रातिभज्ञानादावतीन्द्रियार्थविषयं ज्ञानं कस्मादुदियात्?--इत्याशङ्क्याह--
 
 > यदा तु मनसस्तस्य देहवृत्तेरपि ध्रुवम् ।

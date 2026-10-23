@@ -33,6 +33,11 @@ tadūrdhvaṃ madhyabhāge tu vārijanma samālikhet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 106)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.91–92]]
+>
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.92–93]]
+
 *Lead-in:* तच्च कुत्र लिखेत्--इत्याह--
 
 > तदूर्ध्वं मध्यभागे तु वारिजन्म समालिखेत् ॥

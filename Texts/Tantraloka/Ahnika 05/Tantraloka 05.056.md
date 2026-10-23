@@ -36,6 +36,13 @@ ekāṃ vikāsinīṃ bhūyastvasaṃṅkocāṃ vikasvarām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 58–63)
+> *No commentary follows this verse directly; shown here is the next, after Dyczkowski's verse 54cd-56ab.*
+>
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on Dyczkowski's verse 54cd-56ab]]
+>
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.56–57]]
+
 *Lead-in:* ननु कथमेतावतैवात्रानुप्रवेशः सिद्ध्येत् ? -- इत्याशङ्क्याह --
 
 > एकां विकासिनीं भूयस्त्वसंङ्कोचां विकस्वराम् ॥

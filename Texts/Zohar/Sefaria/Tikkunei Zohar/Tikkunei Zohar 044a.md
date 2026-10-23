@@ -270,7 +270,7 @@ about which it is stated:
 [^2]: mighty
 [^3]: ‘we-have-learnt’
 [^4]: *sel’a*
-[^5]: *BT* Berakhot 31b
+[^5]: *BT* [[Berakhot 31#31b|Berakhot 31b]]
 [^6]: rebels
 [^7]: *teachers*
 [^8]: rock

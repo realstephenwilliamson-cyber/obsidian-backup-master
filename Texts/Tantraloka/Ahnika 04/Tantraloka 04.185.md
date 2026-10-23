@@ -36,6 +36,11 @@ sārametatsamastasya yaccitsāraṃ jaḍaṃ jagat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 285–286)
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.185]]
+>
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.185–186]]
+
 *Lead-in:* ननु कथमेतद्युज्यते ? इत्याशङ्क्य दृष्टान्तयति --
 
 > निस्तरङ्गतरङ्गादिवृत्तिरेव हि सिन्धुता ।

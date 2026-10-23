@@ -34,6 +34,9 @@ ta eva dharmāḥ śaktyākhyāstaistairucitarūpakaiḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 384–385)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.205–206]]
+
 > तन्मुखा स्फुटता धर्मिण्याशु तन्मयतास्थितिः ॥
 > त एव धर्माः शक्त्याख्यास्तैस्तैरुचितरूपकैः ।
 > आकारैः पर्युपास्यन्ते तन्मयीभावसिद्धये ॥

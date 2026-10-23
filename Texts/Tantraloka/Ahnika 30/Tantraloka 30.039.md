@@ -33,5 +33,10 @@ vajriṇe vajradharāya svāhetyoṅkārapūrvakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 28–31)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 30.39–40.*
+>
+> ![[Tantraloka Dyczkowski v11 02 - Chapter Thirty, part 1#Viveka on 30.39–40]]
+
 Jayaratha comments on this verse together with 30.63: see [[Tantraloka 30.063#Viveka|30.63]].
 

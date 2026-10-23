@@ -34,6 +34,9 @@ karaṇe grahaṇākārā yataḥ śrīyogasañcare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 162–165)
+> ![[Tantraloka Dyczkowski v03 06 - Chapter Four, part 5#Viveka on 4.126]]
+
 *Lead-in:* नन्वेवंरूपत्वेनावभासमानाया अस्या वैशिष्ट्यमवश्याश्रयणीयम्, अन्यथानैक्यमेव न स्यात् तत् पुनः कुत्र कीदृक् ? -- इत्याशङ्क्याह --
 
 > शुद्धसंविन्मयी प्राच्ये ज्ञाने शब्दनरूपिणी ।

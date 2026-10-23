@@ -31,6 +31,9 @@ yadā tanmukhyamevoktaṃ naimittikadinaṃ budhaiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 88)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.192–193]]
+
 *Lead-in:* अतश्च आत्मज्ञानस्य साक्षान्मोक्षाद्युपायत्वात् तदवाप्तिदिनं मुख्यं पर्व--इत्याह--
 
 Jayaratha comments on this verse together with 28.193: see [[Tantraloka 28.193#Viveka|28.193]].

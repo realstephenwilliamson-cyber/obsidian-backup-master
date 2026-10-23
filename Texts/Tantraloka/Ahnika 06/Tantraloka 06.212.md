@@ -34,6 +34,9 @@ nāsāśaktyantayoḥ sthāne brahmarandhrordhvadhāmanī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 422–423)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.212–213]]
+
 *Lead-in:* तदेवाह -
 
 Jayaratha comments on this verse together with 6.213: see [[Tantraloka 06.213#Viveka|6.213]].

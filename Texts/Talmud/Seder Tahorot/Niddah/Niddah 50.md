@@ -1,0 +1,111 @@
+---
+type: "text"
+work: "Talmud Bavli"
+masekhet: "Niddah"
+seder: "Tahorot"
+daf: 50
+translation: "William Davidson Edition - English"
+edition: "English from The William Davidson digital edition of the Koren Noé Talmud, with commentary by Rabbi Adin Even-Israel Steinsaltz"
+license: "CC-BY-NC"
+source: "https://www.sefaria.org/Niddah.50a?ven=William_Davidson_Edition_-_English&lang=en"
+aliases:
+  - "Niddah 50a"
+  - "Niddah 50b"
+  - "BT Niddah 50"
+---
+# Niddah 50
+
+← [[Niddah 49]] · [[Niddah]] · [[Niddah 51]] →
+
+*Seder Tahorot · Niddah · Daf 50* · [[Niddah]] · [[Talmud]]
+
+## 50a
+
+> [!xref]- Mesoret HaShas (50a)
+> - [Sifra, Tazria Parashat Negaim, Section 1 9-10](https://www.sefaria.org/Sifra,_Tazria_Parashat_Negaim,_Section_1.9-10) (line 1)
+> - [Sifra, Kedoshim, Chapter 1 7](https://www.sefaria.org/Sifra,_Kedoshim,_Chapter_1.7) (line 11)
+> - [[Shabbat 68#^68a-5|Shabbat 68a:5-6]] (line 11)
+> - [[Pesachim 56#^56b-7|Pesachim 56b:7-8]] (line 11)
+> - [[Chullin 137#^137a-16|Chullin 137a:16]] (line 14)
+
+> [!xref]- Ein Mishpat (50a)
+> - [Sefer Mitzvot Gadol, Positive Commandments 96](https://www.sefaria.org/Sefer_Mitzvot_Gadol,_Positive_Commandments.96) (line 1)
+> - [Tur, Choshen Mishpat 5](https://www.sefaria.org/Tur,_Choshen_Mishpat.5) (lines 1, 6)
+> - [Shulchan Arukh, Choshen Mishpat 5:2](https://www.sefaria.org/Shulchan_Arukh,_Choshen_Mishpat.5.2) (lines 1, 6)
+> - [Sefer Mitzvot Gadol, Positive Commandments 97](https://www.sefaria.org/Sefer_Mitzvot_Gadol,_Positive_Commandments.97) (lines 4, 6)
+> - [Tur, Choshen Mishpat 7](https://www.sefaria.org/Tur,_Choshen_Mishpat.7) (line 4)
+> - [Shulchan Arukh, Choshen Mishpat 7:2](https://www.sefaria.org/Shulchan_Arukh,_Choshen_Mishpat.7.2) (line 4)
+
+**It is** the opinion of **Rabbi Meir, as it is taught** in a *baraita* that **Rabbi Meir would say: What** is the meaning when **the verse states: “According to their word shall every dispute and every leprous mark be”** ([[Torah 48 - Shoftim#^21-5|Deuteronomy 21:5]])? **What do disputes have to do with leprous marks?** The verse **juxtaposes disputes to leprous marks,** to teach that **just as leprous marks** are viewed by a priest only **in the daytime, as it is written** with regard to leprous marks: **“And on the day when** raw flesh **appears in him** he shall be impure” ([[Torah 27 - Tazria#^13-14|Leviticus 13:14]]), **so too, disputes** are adjudicated only **in the daytime.** ^50a-1
+
+**And just as leprous marks** are seen by priests who can see, but **not by blind** priests, **as it is written: “As far as appears to the priest”** ([[Torah 27 - Tazria#^13-12|Leviticus 13:12]]), which teaches that they must be viewed by priests who can see with both eyes, **so too, disputes are not** adjudicated **by blind judges,** even if they are blind in only one eye. **And** the verse **juxtaposes leprous marks to disputes** to teach that **just as disputes may not** be judged **by relatives** of the litigants, **so too, leprous marks may not** be viewed **by** a priest who is **a relative** of the afflicted party. ^50a-2
+
+The *baraita* continues: **If** these two *halakhot* are compared, one can also say that **just as disputes** are judged specifically **by three** judges, **so too, leprous marks** must be viewed **by three** priests. **And this** suggestion is supported by **a logical inference:** If a case that only involves **one’s money** is adjudicated **by three** judges, **all the more so** is it **not** clear that leprous marks, which afflict the person **himself,** should be viewed by three priests? To counter this notion, **the verse states: “And he shall be brought to Aaron the priest or to one of his sons, the priests”** ([[Torah 27 - Tazria#^13-2|Leviticus 13:2]]). **You** have **learned** from this **that even one priest may view leprous marks.** ^50a-3
+
+The Gemara relates: There was **a certain blind person who was** living **in the neighborhood of Rabbi Yoḥanan who would render judgments, and** Rabbi Yoḥanan **did not say anything to him.** The Gemara asks: **How could** Rabbi Yoḥanan **do this? But didn’t Rabbi Yoḥanan** himself **say** that the ***halakha*** is **in accordance with** the ruling of **an unattributed mishna?** ^50a-4
+
+**And we learned** in the mishna: **Any** person **who is fit to adjudicate** a case and serve as a judge **is fit to testify** as a witness, **and there are** those who are **fit to testify but** are **not fit to adjudicate. And we said: What is added** by this *halakha*, **and Rabbi Yoḥanan said:** It serves **to add one who is blind in one of his eyes,** as he is fit to testify but unfit to judge. Since Rabbi Yoḥanan evidently maintains that one who is blind even in one of his eyes is not fit to judge, why did he not admonish this judge? ^50a-5
+
+The Gemara answers: **Rabbi Yoḥanan found another unattributed mishna** which indicates a different conclusion. **As we learned** in the mishna in tractate *Sanhedrin* (32a): In cases of **monetary law,** the court **judges during the daytime, and concludes** the deliberations and issues their ruling even **at night.** This is not the *halakha* with regard to leprous marks, which may not be viewed at night at all. Accordingly, one does not compare judging cases of monetary law to viewing leprous marks. Since this comparison was the source for disqualifying a blind judge, one cannot derive from it that a blind judge is disqualified. ^50a-6
+
+The Gemara asks: **And** in **what** manner is **the strength of that unattributed** mishna in tractate *Sanhedrin* greater **than** the strength of **this unattributed** mishna here? Why did Rabbi Yoḥanan accept the ruling of that mishna? The Gemara explains: **If you wish, say** that **an unattributed** mishna that records the opinion **of many** Sages, as in *Sanhedrin*, is **preferable,** whereas the mishna here was established as in accordance with the individual opinion of Rabbi Meir. **And if you wish, say** instead that it is **because** the mishna in *Sanhedrin* **teaches this** *halakha* **in the context of the *halakhot* of judges.** Since that chapter is the primary source for all of the *halakhot* of court matters, its rulings are of greater weight. ^50a-7
+
+**MISHNA:** **Any** food from **which** one is **obligated to** separate **tithes becomes impure with the ritual impurity of food; and there is** food **that becomes impure with the ritual impurity of food but** from **which one is not obligated to** separate **tithes.** ^50a-8
+
+**GEMARA:** The Gemara asks: **What is added** by the last clause of this mishna? The Gemara answers: This serves **to add meat, fish, and eggs.** Although they are subject to the ritual impurity of food, one is not obligated to separate tithes from them. ^50a-9
+
+**MISHNA:** With regard to **any** produce from **which** one is **obligated to** designate **produce in the corner of the field given to the poor [*pe’a*],** as commanded in the Torah (see [[Torah 30 - Kedoshim#^19-9|Leviticus 19:9]], 23:22), one is **obligated to** separate **tithes** from it; **and there is** produce from **which** one is **obligated to** separate **tithes but** from **which one is not obligated to** designate ***pe’a*.** ^50a-10
+
+**GEMARA:** The Gemara asks: **What is added** by the last clause of the mishna? The Gemara answers: It serves **to add figs and vegetables,** for **which** one is **not obligated to** designate ***pe’a*,** although the obligation of tithes does apply to them. **As we learned** in a mishna (*Pe’a* 1:4): The Sages **stated a principle with regard to** the *halakhot* of ***pe’a*:** With regard to **anything that is food, and is protected, and** that **grows from the earth, and is gathered as one,** i.e., there is one fixed time for gathering it, **and** that one **brings in** to store **for preservation,** its owner **is obligated to** designate ***pe’a*.** ^50a-11
+
+The Gemara analyzes each criterion of the mishna. The clause: **Anything that is food,** serves **to exclude** the ***sefiḥin*,** produce that grew without being intentionally planted, **of woad [*setim*] and safflower [*vekotza*].** These plants are used as dyes rather than for food. The clause: **And is protected,** serves **to exclude ownerless** crops, which no one protects. The clause: **And grows from the earth,** serves **to exclude truffles and mushrooms,** which do not draw sustenance from the ground. The clause: **And is gathered as one,** serves **to exclude** the **fig** tree, whose fruit is gathered over an extended period, as the figs do not all ripen at the same time. Finally, the clause: **And** that **one brings in** to storage **for preservation,** serves **to exclude vegetables,** which cannot be stored for lengthy periods. ^50a-12
+
+**And yet** in the case **of tithe, we learned** in a mishna (*Ma’asrot* 1:1) with regard to the *halakhot* of tithes: **Anything that is food, and is protected, and grows from the earth is obligated in tithes. And whereas** some of the conditions overlap, the following criteria **are not taught** with regard to tithes: **Gathered as one, and that one brings in** to storage **for preservation.** Evidently, the obligation of tithes applies to fig trees and vegetables, despite the fact that the obligation of *pe’a* does not apply. ^50a-13
+
+The Gemara notes that **if** these vegetables that are exempt from *pe’a* **contained garlic and onions,** which are stored for an extended period of time, then they are **obligated** in *pe’a* as well. **As we learned** in a mishna (*Pe’a* 3:4): If one has **garden beds of onions that are between the vegetables, Rabbi Yosei says** that one leaves a separate ***pe’a* from each and every one** of the beds. **And the Rabbis say** one leaves *pe’a* **from one** garden bed **for all** of them. ^50a-14
+
+§ **Rabba bar bar Ḥana says** that **Rabbi Yoḥanan says:** In the case of **endives that were initially planted** to be fed **to animals, and** later the owner **reconsidered their** designation and decided to use them **for human** consumption ^50a-15
+
+## 50b
+
+> [!xref]- Mesoret HaShas (50b)
+> - [[Zevachim 105#^105b-2|Zevachim 105b:2]] (line 2)
+> - [[Bekhorot 10#^10a-10|Bekhorot 10a:10]] (line 12)
+> - [[Bekhorot 10#^10a-7|Bekhorot 10a:7]] (line 2)
+> - [[Chullin 62#^62b-7|Chullin 62b:7]] (line 6)
+> - [[Keritot 21#^21a-21|Keritot 21a:21]] (line 13)
+> - [[Keritot 21#^21a-22|Keritot 21a:22-23]] (line 12)
+
+**they require intent** to be used for human consumption **once they are detached** from the ground, in order for them to be susceptible to ritual impurity. Rabbi Yoḥanan rules in this manner because he **holds** that **intent** to designate produce while it is **attached** to the ground **is not considered intent.** ^50b-1
+
+**Rava said: We learn** in a mishna (*Teharot* 1:1) **as well: Thirteen matters were stated with regard to the carcass of a kosher bird, and this is one of them:** In order for such a carcass to be susceptible to impurity and to be capable of imparting impurity to food through contact, it **requires** a person’s **intention** to eat it, **but it does not require** exposure to liquid to be **rendered susceptible** to impurity. Even if one had intent to eat the bird while it was still alive, intent is still required after it became a carcass for it to transmit impurity. Rava concludes: **Evidently, intent** that the bird be eaten while the bird is **alive is not considered intent. Here too, intent** to designate produce while it is **attached** to the ground **is not considered intent.** ^50b-2
+
+**Rabbi Zeira said:** Rava’s proof is inconclusive, as **here we are dealing with a young bird that fell from a height, where** the bird **was not before us** prior to it becoming a carcass, **so that** one could have had **intent that it** is food. Consequently, it requires intent afterward for it to impart impurity, but had there been intent while it was still alive, that would have sufficed. ^50b-3
+
+**Abaye said to** Rabbi Zeira: **What is there to say** about the case of the **chicken in Yavne?** In that instance the Sages deemed the chicken impure due to intent only after it became a carcass, despite the fact that it was present before them while it was alive. This apparently indicates that intent which occurred while the bird was alive is not considered intent. Rabbi Zeira **said to** Abaye: That **was** actually **a wild chicken,** which was not before them while it was alive, and therefore there was no intent that it should be food while it was alive. ^50b-4
+
+Those who heard this comment **laughed at** Rabbi Zeira’s interpretation: **A wild chicken is a non-kosher bird, and does a non-kosher bird impart impurity? Abaye said to them: A great man has stated a matter; do not laugh at him.** Rabbi Zeira means that this is referring **to a chicken that rebelled** against its owner, ran away to the wild, and raised its kosher chicks there. One of those chicks subsequently returned from the wild. Consequently, it had not been present before the Sages while it was alive. **And what** did Rabbi Zeira mean when he mentioned **a wild [*bara*]** chicken? He meant one **that was created [*de’ivrai*] from** a chicken **that rebelled.** ^50b-5
+
+**Rav Pappa stated** an alternative interpretation: **It was a marsh [*de’agma*] hen.** Since no one lives in a marsh, there was no opportunity for intent while it was alive, and therefore intent was necessary afterward. The Gemara adds: **Rav Pappa** conforms **to his** standard line of **reasoning** in this regard, **as Rav Pappa said:** The animal called **the marsh rooster is prohibited,** as it is a non-kosher bird, whereas **the marsh hen is** kosher and **permitted.** ^50b-6
+
+**And your mnemonic** to remember which animal is permitted and which is prohibited is the well-known statement of the Sages with regard to the verse: “An Ammonite or a Moabite shall not enter into the assembly of the Lord” ([[Torah 49 - Ki Teitzei#^23-4|Deuteronomy 23:4]]). **An Ammonite** man is unfit to enter the assembly **but not an Ammonite woman.** Here too, the animal with a female name is permitted, whereas the one with a male name is prohibited. **Mareimar taught: The marsh hen is prohibited,** contrary to the opinion of Rav Pappa, as **the Sages saw that it mauled and ate** its prey. **And this is** the ***geiruta*,** a non-kosher bird. ^50b-7
+
+§ Apropos the case of a young kosher bird that fell and died, **the Sages taught** in a *baraita*: **A young** kosher **bird that fell into a winepress** and died there, **where** the owner **intended to draw it up** from the press **for a Samaritan** to eat, is **ritually impure,** like any carcass of a kosher bird. If he intended to draw it up from the press **for a dog** to eat, it is **ritually pure. Rabbi Yoḥanan ben Nuri says: Even** if he intended to draw it up from the press **for a dog** to eat, it is **impure,** as the bird does not require intent for it to be impure. ^50b-8
+
+**Rabbi Yoḥanan ben Nuri says** in explanation of his opinion: This *halakha* can be derived by the following ***a fortiori*** inference: **If** the carcass of a kosher bird **transmits severe** ritual **impurity,** i.e., it renders one’s garments impure when an olive-bulk of it is in the throat, **without thought,** i.e., even if no one had intent that a person should eat it, should it **not transmit a lenient impurity** of food, by touch alone, likewise **without thought?** ^50b-9
+
+The Rabbis **said to** Rabbi Yoḥanan ben Nuri: **No,** this is not a valid *a fortiori* inference. **If you said** that there is no requirement of intent **with regard to severe** ritual **impurity, that** is because severe ritual impurity **does not assume** its status **with that** requirement of thought, i.e., intent is not relevant to that type of impurity. **Shall you** also **say** that there is no requirement of thought **with regard to lenient impurity, which does assume** its status **with that** requirement of thought? The Gemara will soon explain the precise meaning of this concept of assuming its status with the requirement of thought. ^50b-10
+
+Rabbi Yoḥanan ben Nuri **said to** the Rabbis: The case of the **chicken in Yavne can prove** that the question of whether or not intent is required does not depend on that factor. The case in Yavne involved an item **that does assume** its status **with that** requirement of thought, **and** yet the Sages **declared it impure without intent.** The Rabbis **said to** Rabbi Yoḥanan ben Nuri: Will you cite **proof from there?** In that case **there were Samaritans there, and** the people in Yavne **intended that it be eaten** by the Samaritans. ^50b-11
+
+The Gemara analyzes the case of a young kosher bird that fell into a winepress: **What** type of situation **are we dealing with? If we say** that we are dealing **with cities,** where there are many people available to consume all sorts of food, including the carcass of a kosher bird, **why does it** require **intent? But didn’t we learn** in a mishna (*Okatzin* 3:3): **An unslaughtered carcass of a kosher animal in any location,** whether the population is large or small, **and the carcass of a kosher bird or the fat** of a kosher animal found **in cities [*bakerakim*], require neither intent** for human consumption **nor** contact with liquid for them to be rendered **susceptible** to impurity? ^50b-12
+
+**Rather,** it must be referring **to villages,** where the population is small and there are not many people who would eat the carcass. **But** this too is difficult: **Is there anyone who said that intent is not required** in the case of a carcass of a non-kosher bird for the impurity of food? **Didn’t we learn** in the beginning of that same mishna: **A carcass of a non-kosher animal** found **in any location, and an unslaughtered carcass of a kosher bird in the villages** both **require intent** to consume them, **but they do not require** contact with a liquid to become **susceptible** to ritual impurity? ^50b-13
+
+**Rabbi Zeira bar Ḥanina says: Actually,** the *baraita* is referring to a case that occurred **in a city,** and even so intent is required. The reason is that the young bird fell into a winepress, **and** the **winepress rendered it disgusting and** thereby **rendered it like** the carcass of a kosher bird in **a village,** where there are few people who would eat it. ^50b-14
+
+The Gemara analyzes the exchange cited above. **Rabbi Yoḥanan ben Nuri says** that this *halakha* can be derived by **an *a fortiori*** inference: **If** the carcass of a kosher bird **transmits severe** ritual **impurity without thought,** should it **not transmit lenient impurity without thought?** ^50b-15
+
+The Rabbis **said to** Rabbi Yoḥanan ben Nuri: **No,** this is not a valid *a fortiori* inference. **If you said** so **with regard to severe ritual impurity, that** is because it **does not assume** its status **with that** requirement of thought. ^50b-16
+
+The Gemara asks: **What** is the meaning of the clause: It **does not assume** its status **with that** requirement of thought? In what manner is thought required for the lenient impurity of food it imparts in the case of a bird carcass but not required for the severe impurity it imparts when it is in the throat? **Rava said** that **this is what** the Rabbis **said to** Rabbi Yoḥanan ben Nuri: **No, if you said** that there is no requirement of thought ^50b-17

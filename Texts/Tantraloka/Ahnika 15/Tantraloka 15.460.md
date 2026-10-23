@@ -32,6 +32,9 @@ cakre bhairavasannābhāvaghorādyaṣṭakārake || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 284–285)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.460–463]]
+
 *Lead-in:* न केवलमेतदत्रैव उक्तं यावदन्यत्रापि--इत्याह--
 
 Jayaratha comments on this verse together with 15.463: see [[Tantraloka 15.463#Viveka|15.463]].

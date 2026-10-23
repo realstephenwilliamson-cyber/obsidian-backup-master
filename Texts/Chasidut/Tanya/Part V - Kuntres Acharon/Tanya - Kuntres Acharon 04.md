@@ -145,7 +145,7 @@ In contrast, the service of the angels with intellectual fear and love does not 
 [^7]: *Meodecha* ([[Torah 45 - Vaetchanan#^6-5|Deuteronomy 6:5]]) refers to absolute devotion, unrestrained and without reservation. It is the state of infinity in mortal terms and can thus arouse the true Infinite.
 [^8]: *Likkutei Amarim*, Part I, ch. 46, note 29. Each Name denotes another aspect of G–d.
 [^9]: See Addendum, Glossary, *nitzotzot*.
-[^10]: *Shabbat* 10a.
+[^10]: [[Shabbat 10#10a|*Shabbat* 10a]].
 [^11]: See Essay 3, note 7.
 [^12]: See ibid., note 8.
 [^13]: “Severities” are limitations, withholding; “Kindnesses” are beneficence, granting. In their source, before they are translated into tangible forms of human kindness or sternness, they are quite abstract, removed from human context. Revelation proceeds by the stages of intellect, emotion, etc. Verbalization of the abstract thought is a limitation on the thought. The “Five Severities” are the five articulations (*Likkutei Amarim*, Part II, ch. 4) that clothe the disembodied thought in “letters.” This is a limitation, placing bounds on the idea. In turn, only through verbalization can the recipient, the lower plane, absorb the idea. For the inferior, then, the limitation is beneficence, or the “Five Kindnesses.” Translator’s Notes to *On Learning Chassidus*; *Iggeret Hateshuvah*, ch. 4, note 16.
@@ -157,7 +157,7 @@ In contrast, the service of the angels with intellectual fear and love does not 
 [^19]: *Moed Kattan 9a*.
 [^20]: Ezekiel 1.
 [^21]: See note 16. In prayer one arouses the appropriate emotion, following the preparation of study and contemplation.
-[^22]: [[Torah 46 - Eikev#^11-22|Deuteronomy 11:22]] and *Rashi*; *Nedarim* 65a.
+[^22]: [[Torah 46 - Eikev#^11-22|Deuteronomy 11:22]] and *Rashi*; [[Nedarim 65#65a|*Nedarim* 65a]].
 [^23]: *On the Teachings of Chassidus*, p. 21, note 6, defining knowledge of “existence” and knowledge of “essence” or “character.”
 [^24]: [[Torah 04 - Vayera#^18-27|Genesis 18:27]]. See *Iggeret Hakodesh*, Epistle 15, for an explanation of the verse.
 [^25]: The term “radiance” and similar expressions indicate that it is not G–d’s essence but only an emanation from Him, comparable to the body of the sun and its light (radiance) or “extension.”
@@ -179,7 +179,7 @@ In contrast, the service of the angels with intellectual fear and love does not 
 [^41]: *Sod*, the esoteric or mystic interpretation of Torah, including Kabbalah. The initiated may be conversant and knowledgeable with the terms and concepts, but he cannot in this manner penetrate beyond “existence” in “essence.”
 [^42]: Here speech and thought are the fulfillment of the mitzvah of learning. This is not comparable to *kavanah* of a mitzvah without the mitzvah.
 [^43]: In studying the law one can fully comprehend the theoretical, legal aspects, and the practical aspects, the nature of the subject he studies. See *On Learning Chassidus*, p. 37 ff.
-[^44]: [[Torah 25 - Tzav#^7-37|Leviticus 7:37]]; *Menachot* 110a.
+[^44]: [[Torah 25 - Tzav#^7-37|Leviticus 7:37]]; [[Menachot 110#110a|*Menachot* 110a]].
 [^45]: [[Torah 45 - Vaetchanan#^4-39|Deuteronomy 4:39]].
 [^46]: [[I Chronicles 28#^28-9|I Chronicles 28:9]].
 [^47]: Ibid.
@@ -206,10 +206,10 @@ In contrast, the service of the angels with intellectual fear and love does not 
 [^68]: [[Torah 25 - Tzav#^7-18|Leviticus 7:18]]. See below, Essay 5.
 [^69]: [[Psalms 104#^104-24|Psalms 104:24]]. “All” includes the highest stage to the lowest. *Chochmah*, the Divine wisdom, invests even the lowliest; even the most exalted is considered as trivial as the lowliest (*Asiyah*, deed) before Him.
 [^70]: In descent from plane to plane, there may be adaptation, acquisition of the traits of the lower. The subject manifests itself through its newly acquired “garments” in which it is now clothed. Another sort of descent involves no adaptation. It is merely a “passage” through the lower plane, without adopting “garments.” See note 33.
-[^71]: *Bava Metzia* 100a.
+[^71]: [[Bava Metzia 100#100a|*Bava Metzia* 100a]].
 [^72]: The law.
 [^73]: The four compass points, above and below.
-[^74]: Cf. *Sanhedrin* 38b.
+[^74]: Cf. [[Sanhedrin 38#38b|*Sanhedrin* 38b]].
 [^75]: [[Ecclesiastes 12#^12-13|Ecclesiastes 12:13]].
 [^76]: See *On the Teachings of Chassidus*, p. 17.
 [^77]: See Addendum, Glossary, *Kelipat Nogah*; *Iggeret Hateshuvah*, ch. 6, note 3.

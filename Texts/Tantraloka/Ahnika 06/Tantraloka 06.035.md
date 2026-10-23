@@ -34,6 +34,9 @@ kalātattvapurābhikhyamantarbhūtamiha trayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 252)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.34–35]]
+
 > तत्र क्रियाभासनं यत्सोऽध्वा कालाह्व उच्यते ।
 > वर्णमन्त्रपदाभिख्यमत्रास्तेऽध्वत्रयं स्फुटम् ॥
 > यस्तु मूर्त्यवभासांशः स देशाध्वा निगद्यते ।

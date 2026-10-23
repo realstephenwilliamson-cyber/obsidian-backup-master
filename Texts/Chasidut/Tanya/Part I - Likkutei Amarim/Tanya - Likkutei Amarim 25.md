@@ -56,14 +56,14 @@ In the light of the above, it will be understood why our teacher Moses, peace be
 [^4]: [[Torah 51 - Nitzavim#^30-14|Deuteronomy 30:14]].
 [^5]: The apodotic clause is expanded later; cf. n. 9.
 [^6]: Mishnah, *Yoma* 8:9.
-[^7]: Jerusalem Talmud, Peah 1:1 (“in the way of repenters”); Comp. *Kiddushin* 40a.
+[^7]: Jerusalem Talmud, Peah 1:1 (“in the way of repenters”); Comp. [[Kiddushin 40#40a|*Kiddushin* 40a]].
 [^8]: Ch. 19.
 [^9]: See above, note 5.
-[^10]: *Avodah Zarah* 5b.
+[^10]: [[Avodah Zarah 5#5b|*Avodah Zarah* 5b]].
 [^11]: Isaiah 40: 8.
 [^12]: Liturgy, Morning Prayer.
 [^13]: From the famous hymn *Yigdal* on the Thirteen Principles of Faith, originally formulated by Maimonides, incorporated into the liturgy of the Ashkenazic and Sephardic rites.
-[^14]: *Yoma* 86a.
+[^14]: [[Yoma 86#86a|*Yoma* 86a]].
 [^15]: In the weekday *Amidah*.
 [^16]: In the Sanctuary of old.
 [^17]: [[Torah 46 - Eikev#^11-25|Deuteronomy 11:25]].

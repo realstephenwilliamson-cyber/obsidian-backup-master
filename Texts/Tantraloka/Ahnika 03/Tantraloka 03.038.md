@@ -34,6 +34,9 @@ evaṃ ghrāṇāntare gandho raso dantodake sphuṭaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 111–112)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.38]]
+
 *Lead-in:* एतदेवान्यत्राप्यतिदिशति --
 
 > एवं घ्रणान्तरे गन्धो रसो दन्तोदके स्फुटः ॥

@@ -31,6 +31,9 @@ aprakāśo'pi naivāsau tathāpi ca na kiñcana || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 318)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.37]]
+
 > तथा चेदं दर्शयामः किं प्रकाशः प्रकाशते ।
 > अप्रकाशोऽपि नैवासौ तथापि च न किञ्चन ॥
 

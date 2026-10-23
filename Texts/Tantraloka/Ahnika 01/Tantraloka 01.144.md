@@ -34,6 +34,9 @@ jñānameva tu tatsūkṣmaṃ paraṃ tvicchātmakaṃ matam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 311)
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.144]]
+
 *Lead-in:* ननु ज्ञानं तावदुपेयतया प्रतिज्ञातम् इति, तत्र उपायेन केनचिद्भाव्यम्, स च न ज्ञानमेव, उपेयत्वात्, नापि अज्ञानम्, तदनौपयिकत्वात् तस्य, इति किं नाम उपायस्वरूपम् ? इत्याशङ्क्याह --
 
 > ज्ञानस्य चाभ्युपायो यो न तदज्ञानमुच्यते ।

@@ -36,6 +36,11 @@ sa evāṃśaka ityuktaḥ svabhāvākhyaḥ sa tu sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 25–29)
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.18–19]]
+>
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.19–20]]
+
 *Lead-in:* इत्यादि अन्यत्रोक्तं, तत् तदुचित एव मोक्षोऽपि अस्य भवेत्, इति कोऽयं रागो नाम ? -- इत्याशङ्क्याह --
 
 > स एवांशक इत्युक्तः स्वभावाख्यः स तु स्फुटम् ॥

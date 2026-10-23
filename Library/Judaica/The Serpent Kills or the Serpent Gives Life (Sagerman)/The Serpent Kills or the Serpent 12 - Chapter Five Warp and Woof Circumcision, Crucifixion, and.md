@@ -336,7 +336,7 @@ He who comes to receive knowledge of God should not set his thoughts on His attr
 
 <sup>271</sup> Ibid., MS Paris-BN héb. 853, fol. 65b; printed edition, p. 33.
 
-<sup>272</sup> See BT. *Kiddushin* 71a.
+<sup>272</sup> See BT. [[Kiddushin 71#71a|*Kiddushin* 71a]].
 
 <sup>273</sup> See above, pp. 133–134, 218–220.
 

@@ -34,5 +34,8 @@ vahnisthe ca krameṇetthaṃ yāvatsvasminsvavāmataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 12–13)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.23–26]]
+
 Jayaratha comments on this verse together with 16.25: see [[Tantraloka 16.025#Viveka|16.25]].
 

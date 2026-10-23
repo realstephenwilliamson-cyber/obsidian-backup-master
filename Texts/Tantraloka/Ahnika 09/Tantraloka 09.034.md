@@ -34,6 +34,9 @@ yathā ca cakraṃ niyate deśe kāle ca hetutām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 41)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.33–35]]
+
 > यदि तत्र भवेन्मेरुर्भविष्यन्वापि कश्चन ॥
 > न जायेत घटो नूनं तत्प्रत्यूहव्यपोहितः ।
 > यथा च चक्रं नियते देशे काले च हेतुताम् ॥

@@ -33,6 +33,13 @@ atha naimittikavidhiryaḥ purāsūtrito mayā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 84–87)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 28.188–189.*
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.185–186]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.188–189]]
+
 *Lead-in:* इदानीं कुलपर्वादावासूत्रितो नैमित्तिकविधिरुच्यते--इत्याह--
 
 Jayaratha comments on this verse together with 28.185: see [[Tantraloka 28.185#Viveka|28.185]].

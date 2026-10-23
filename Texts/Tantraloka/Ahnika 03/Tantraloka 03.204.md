@@ -36,6 +36,11 @@ anuttarādyā prasṛtirhāntā śaktisvarūpiṇī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 323–324)
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.203–204]]
+>
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.204–205]]
+
 *Lead-in:* ननु भवतु नाम स्वात्ममात्रस्फुरत्तारूपोऽहंपरामर्शः, किमनेन नः प्रयोजनं, वर्णपञ्चाशतः पुनरभेदेन स्वरूपमनेनोक्तं न भवेत् ? इत्याशङ्क्याह --
 
 > अनुत्तराद्या प्रसृतिर्हान्ता शक्तिस्वरूपिणी ॥

@@ -36,6 +36,11 @@ yāvānevodayo vittervedyaikagrahatatparaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 306–307)
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.79–80]]
+>
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.80–81]]
+
 *Lead-in:* नन्वेवमपि भवतु को दोषस्तत्राप्यस्या वेद्यग्रहणपरत्वं स्वात्मनि विश्रान्तिपरत्वं वा किं तुल्यकक्ष्यतयैव भवेदुतान्यथापि ? -- इत्याशङ्क्याह --
 
 > यावानेवोदयो वित्तेर्वेद्यैकग्रहतत्परः ॥

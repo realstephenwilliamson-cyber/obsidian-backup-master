@@ -33,6 +33,11 @@ kiṃ ca karmāpi na malādyataḥ karma kriyātmakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 95–96)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.97–98]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.98–99]]
+
 *Lead-in:* वस्तुतस्तु मलस्यैतन्न घटते -- इत्याह --
 
 > किं च कर्मापि न मलाद्यतः कर्म क्रियात्मकम् ॥

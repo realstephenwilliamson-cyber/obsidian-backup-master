@@ -34,5 +34,10 @@ devīnāṃ tritayaṃ śuddhaṃ yadvā yāmalayogataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 380)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 26.28–29.*
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.28–29]]
+
 Jayaratha comments on this verse together with 26.28: see [[Tantraloka 26.028#Viveka|26.28]].
 

@@ -33,6 +33,11 @@ puṃsāṃ ca paśumātrāṇāṃ sālokyamavivekataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 108–109)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.245–248]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.248]]
+
 *Lead-in:* ननु यदि एवमत्र स्थावरादीनां सालोक्यं स्यात्, तन्मनुष्याणां का वार्त्ता?--इत्याशङ्क्य आह--
 
 > पुंसां च पशुमात्राणां सालोक्यमविवेकतः ॥

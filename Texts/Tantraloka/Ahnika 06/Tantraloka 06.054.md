@@ -34,6 +34,9 @@ trayaṃ dvayaṃ vā mukhyaṃ syādyogināmavadhāninām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 265)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.53–54]]
+
 > प्रभुशक्तिः क्वचित्कन्दसङ्कोचस्पन्दने यथा ।
 > प्राणशक्तिः क्वचिन्मुख्या यथाङ्गमरुदीरणे ॥
 > आत्मशक्तिः क्कचित्प्राणचारे हार्दे यथा स्फुटम् ।

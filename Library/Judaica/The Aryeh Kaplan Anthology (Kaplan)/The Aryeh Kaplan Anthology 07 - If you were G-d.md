@@ -362,13 +362,13 @@ Emunos VeDeyos 1:4 end, 3:0, Or HaShem (Crescas) 2:6:2, Sefer HaYashar 1, Pardes
 
 Cf. Mechilta on [[Torah 16 - Beshalach#^14-29|Ex. 14:29]], Bereshis Rabbah 21:5, Shir HaShirim Rabbah 1:46, Yad, Tshuvah 5:1. 
 
-Cf. Midrash Tehillim 36:4, Zohar 1:23a, 2:184a, Akedas Yitzchok 70 (3:145b), Etz Chaim, Shaar HaMelachim 5, Sefer Baal Shem Tov, Sh'mos #9, Chulin 60b. 
+Cf. Midrash Tehillim 36:4, Zohar 1:23a, 2:184a, Akedas Yitzchok 70 (3:145b), Etz Chaim, Shaar HaMelachim 5, Sefer Baal Shem Tov, Sh'mos #9, [[Chullin 60#60b|Chulin 60b]]. 
 
 [[Zohar 7.06 - Parashat Tazri'a#^z3-47b|Zohar 3:47b]]. 
 
 Bereshis Rabbah 9:6, Menoras HaMaor 237, Tosefos Yom Tov on Avodah Zarah 4:7, cf. Ikkarim 4:12 on [[Ecclesiastes 08#^8-11|Eccl. 8:11]]. 
 
-10\. Avodah Zarah 54b. 
+10\. [[Avodah Zarah 54#54b|Avodah Zarah 54b]]. 
 
 11\. Moreh Nevuchim 2:28 on [[Psalms 148#^148-6|Ps. 148:6]]. Cf. [[Zohar 2.05 - Parashat Toledot#^z1-138b|Zohar 1:138b]], Berachos 60b. Also see Rashi, Ibn Ezra, Sforno on [[Ecclesiastes 03#^3-14|Eccl. 3:14]]. 
 
@@ -376,7 +376,7 @@ Bereshis Rabbah 9:6, Menoras HaMaor 237, Tosefos Yom Tov on Avodah Zarah 4:7, cf
 
 13\. Sifrei, Haazinu 306, Bereshis Rabbah 8:11, Rashi in [[Torah 01 - Bereshit#^2-7|Gen. 2:7]]. 
 
-Chagigah 16a. 
+[[Chagigah 16#16a|Chagigah 16a]]. 
 
 14\. 
 
@@ -392,7 +392,7 @@ Likutey Torah (HaAri) on [[Torah 01 - Bereshit#^3-1|Gen. 3:1]].
 
 18\. Etz Chaim, Shaar Kitzur ABYA \*3 ff; Shaarey Kedusha \*1, Likutey Amarim (Tanya) \*1. 
 
-Toras Moshe (Chasam Sofer) on [[Torah 01 - Bereshit#^2-17|Gen. 2:17]], Tosefos, Sanhedrin 56b “Lo.” 19. 
+Toras Moshe (Chasam Sofer) on [[Torah 01 - Bereshit#^2-17|Gen. 2:17]], Tosefos, [[Sanhedrin 56#56b|Sanhedrin 56b]] “Lo.” 19. 
 
 See note 17. 
 
@@ -404,7 +404,7 @@ See note 17.
 
 23\. Zohar 1:24b, Maharal, Beer HaGolah (Pardes, Tel Aviv) p. 39b. Cf. 
 
-Shabbos 89b, Sh'mos Rabbah 2:6. 
+[[Shabbat 89#89b|Shabbos 89b]], Sh'mos Rabbah 2:6. 
 
 24\. [[Zohar 4.07 - Parashat Yitro#^z2-84b|Zohar 2:84b]]. 
 
@@ -430,8 +430,8 @@ According to Rashi and the Mahari Kara, this is speaking of Israel. See Midrash 
 
 32\. Sh'mos Rabbah 36:1. 
 
-33\. See note 28. Cf. Menachos 53b. 
+33\. See note 28. Cf. [[Menachot 53#53b|Menachos 53b]]. 
 
 34\. Rabbi Moshe Chaim Luzatto, KaLaCh Pis'‘chey Chochmah #2. 
 
-35\. Pesachim 50a.
+35\. [[Pesachim 50#50a|Pesachim 50a]].

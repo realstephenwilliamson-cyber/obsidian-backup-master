@@ -34,6 +34,9 @@ kṣurikāmasya vinyasyejjvalantīṃ marmakartarīm || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 204)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.10]]
+
 *Lead-in:* एवमेतदुचितं कालमपेक्ष्य क्षुरिकादिन्यासमभिधत्ते--
 
 > विधिं पूर्वोदितं सर्वं कृत्वा समयशुद्धितः ।

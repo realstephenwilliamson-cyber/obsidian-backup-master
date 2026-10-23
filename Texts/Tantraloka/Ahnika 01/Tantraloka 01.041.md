@@ -34,6 +34,9 @@ vikasvaraṃ tadvijñānaṃ pauruṣaṃ nirvikalpakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 153–155)
+> ![[Tantraloka Dyczkowski v01 05 - Chapter One, part 4#Viveka on 1.41–42]]
+
 *Lead-in:* एवमज्ञानं निरूप्य, ज्ञानमपि द्विविधं निरूपयितुमाह --
 
 Jayaratha comments on this verse together with 1.42: see [[Tantraloka 01.042#Viveka|1.42]].

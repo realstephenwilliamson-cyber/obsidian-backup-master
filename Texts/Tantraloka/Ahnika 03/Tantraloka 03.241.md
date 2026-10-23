@@ -36,6 +36,11 @@ yattu carmāvanaddhādi kiñcittatraiṣa yo dhvaniḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 368–369)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.240–241]]
+>
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.241–242]]
+
 *Lead-in:* एवं पश्यन्त्याः स्थूलं रूपं विचार्य मध्यमाया अप्यभिधत्ते --
 
 > यत्तु चर्मावनद्धादि किञ्चित्तत्रैष यो ध्वनिः ॥

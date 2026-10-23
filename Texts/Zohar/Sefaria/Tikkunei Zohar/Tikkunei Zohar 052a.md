@@ -320,12 +320,12 @@ when
 [^25]: *ge-zeirah*
 [^26]: *marah*
 [^27]: *marah*
-[^28]: See *BT* Ḥullin 46a
+[^28]: See *BT* [[Chullin 46#46a|Ḥullin 46a]]
 [^29]: *gehinom*
 [^30]: ‘edges’
 [^31]: mouths
 [^32]: hell
 [^33]: *Midrash Mishlei*, Parashah 30
 [^34]: *laiylah*
-[^35]: *BT* Berakhot 7b
+[^35]: *BT* [[Berakhot 7#7b|Berakhot 7b]]
 [^36]: *’eirev rav*

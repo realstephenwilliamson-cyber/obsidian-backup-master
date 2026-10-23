@@ -1,0 +1,117 @@
+---
+type: "text"
+work: "Talmud Bavli"
+masekhet: "Shabbat"
+seder: "Moed"
+daf: 122
+translation: "William Davidson Edition - English"
+edition: "English from The William Davidson digital edition of the Koren Noé Talmud, with commentary by Rabbi Adin Even-Israel Steinsaltz"
+license: "CC-BY-NC"
+source: "https://www.sefaria.org/Shabbat.122a?ven=William_Davidson_Edition_-_English&lang=en"
+aliases:
+  - "Shabbat 122a"
+  - "Shabbat 122b"
+  - "BT Shabbat 122"
+---
+# Shabbat 122
+
+← [[Shabbat 121]] · [[Shabbat]] · [[Shabbat 123]] →
+
+*Seder Moed · Shabbat · Daf 122* · [[Shabbat]] · [[Talmud]]
+
+## 122a
+
+> [!xref]- Mesoret HaShas (122a)
+> - [[Shabbat 151#^151a-8|Shabbat 151a:8]] (line 10)
+> - [Tosefta Shabbat 14:11](https://www.sefaria.org/Tosefta_Shabbat.14.11) (line 4)
+> - [Jerusalem Talmud Shabbat 17:1:7](https://www.sefaria.org/Jerusalem_Talmud_Shabbat.17.1.7)
+
+> [!xref]- Ein Mishpat (122a)
+> - [Tur, Orach Chayim 326](https://www.sefaria.org/Tur,_Orach_Chayim.326) (line 10)
+> - [Shulchan Arukh, Orach Chayim 326:13](https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.326.13) (line 10)
+> - [Tur, Orach Chayim 276](https://www.sefaria.org/Tur,_Orach_Chayim.276) (lines 4, 11)
+> - [Shulchan Arukh, Orach Chayim 276:2](https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.276.2) (line 11)
+> - [Tur, Yoreh De'ah 118](https://www.sefaria.org/Tur,_Yoreh_De'ah.118) (line 3)
+> - [Shulchan Arukh, Yoreh De'ah 118:1](https://www.sefaria.org/Shulchan_Arukh,_Yoreh_De'ah.118.1) (line 3)
+> - [Tur, Yoreh De'ah 130](https://www.sefaria.org/Tur,_Yoreh_De'ah.130) (line 3)
+> - [Shulchan Arukh, Yoreh De'ah 130:2](https://www.sefaria.org/Shulchan_Arukh,_Yoreh_De'ah.130.2) (line 3)
+> - [Shulchan Arukh, Orach Chayim 276:1](https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.276.1) (line 4)
+> - [Tur, Orach Chayim 325](https://www.sefaria.org/Tur,_Orach_Chayim.325) (lines 4, 6, 7, 8)
+> - [Shulchan Arukh, Orach Chayim 325:11](https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.325.11) (lines 4, 6, 7, 8)
+> - [Shulchan Arukh, Orach Chayim 325:12](https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.325.12) (line 4)
+> - [Shulchan Arukh, Orach Chayim 325:10](https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.325.10) (line 6)
+> - [Tur, Orach Chayim 324](https://www.sefaria.org/Tur,_Orach_Chayim.324) (line 7)
+> - [Shulchan Arukh, Orach Chayim 324:13](https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.324.13) (line 7)
+
+Rabbi Abba bar Kahana **said to him:** They are **like those from your father’s house,** which are large (*Tosafot*). ^122a-1
+
+**And Rabbi Abba bar Kahana said** that **Rabbi Ḥanina said: The sedan chairs of the house of Rabbi** Yehuda HaNasi **may be moved on Shabbat. Rabbi Zeira said to** Rabbi Abba bar Kahana: Are you referring to sedan chairs **that can be moved by one person or** those that can be only moved **by two people? He said to him:** They are **like those from your father’s house.** ^122a-2
+
+**And Rabbi Abba bar Kahana said: Rabbi Ḥanina permitted** the members **of the household of Rabbi** Yehuda HaNasi **to drink wine** transported **in a gentile’s wagons** even though the wine was sealed only **with one seal.** He was not concerned that perhaps the gentile may have opened the barrel and poured wine libations to idolatry from it or touched it, which would prohibit drinking it. Rabbi Abba bar Kahana adds: **And I do not know if** that is **because** Rabbi Ḥanina **holds in accordance with** the opinion of **Rabbi Eliezer,** who permits drinking wine from a gentile that was protected by a single seal, **or** if it was because the gentile would not dare to open these specific casks **due fear of the household of the *Nasi*,** but in general Rabbi Ḥanina prohibited drinking wine protected by a single seal. ^122a-3
+
+**MISHNA:** If **a gentile kindled a lamp** on Shabbat for his own purposes, **a Jew** also **uses its light; and if** the gentile kindled it **for a Jew,** the Sages **prohibited** to utilize its light. Similarly, if a gentile **drew water** from a well in the public domain **to give his animal to drink, a Jew gives** his own animal **to drink after him** from the same water; **and if** he drew the water initially **for** the benefit of **a Jew, it is prohibited** for a Jew to give his animal to drink from that water. Similarly, if **a gentile made a ramp** on Shabbat **to disembark** from a ship, **a Jew disembarks after him; and if** he made the ramp **for a Jew,** it is **prohibited.** There was **an incident** in which **Rabban Gamliel and the Elders were traveling on a ship and a gentile made a ramp** on Shabbat in order **to disembark** from the ship **on it; and Rabban Gamliel and the Elders disembarked on it** as well. ^122a-4
+
+**GEMARA:** The Gemara comments: **And it was necessary** to teach this *halakha* in all these cases. **As, had it taught us** only the *halakha* with regard to **a lamp,** I would have said that this is the *halakha* **because** the light of **a lamp for one is** the light of **a lamp for one hundred** people. There is no need to kindle multiple lamps for multiple people; the light of one candle suffices for many. Therefore, it is permitted to use the light of a lamp kindled by a gentile. **However,** with regard to **water,** there is room **to issue a decree** against benefitting from the gentile’s efforts, **lest one come to increase** the amount of water he draws **for a Jew,** even without stating that intention. The Gemara asks: **And why do I need** the mishna to mention that it is permitted to use **the ramp?** The Gemara answers: **It taught us** the case of the ramp to cite **the incident** involving **Rabban Gamliel and the Elders** to indicate that they followed this ruling in practice. ^122a-5
+
+**The Sages taught:** If **a gentile collected grass** on Shabbat for himself, in order to feed his animal, **a Jew may feed** his own animal **after him, and if** he collected it **for the benefit of a Jew,** it is **prohibited.** If he **drew water to give his animal to drink, a Jew may give** water to his own animal **to drink after him, and if** he drew it **for the benefit of a Jew** it is **prohibited. In what** case **is** this **statement,** that if the gentile acted for himself it is permitted for a Jew to benefit, **said?** When the gentile **does not know him; however,** if the gentile **knows him, it is prohibited,** as in that case, he certainly intended to benefit his Jewish acquaintance as well. ^122a-6
+
+The Gemara asks: **Is that so? Didn’t Rav Huna say** that **Rabbi Ḥanina said: One may position his animal over grass on Shabbat,** even grass that is growing in the ground, and there is no concern lest he detach the grass and feed the animal; **however,** he may **not** position the animal **over** an item that is **set aside on Shabbat,** since there is concern lest one lift the item with his hand. The grass that the gentile collects for himself is certainly set aside, so why may the Jew feed it to his animal? The Gemara answers: Indeed, a Jew may not position his animal over the grass that a gentile picked; he may only **position it in before** the grass at a distance, **and** the animal **goes** on its own **and eats.** ^122a-7
+
+We learned above that **the Master said: In what** case **is** this **statement,** that if the gentile acted for himself it is permitted for a Jew to benefit, **said?** When the gentile **does not know him; however,** if the gentile **knows him, it is prohibited.** The Gemara asks: **However,** in the incident involving **Rabban Gamliel** and the ship, it is a case where the gentile **knows him** as they traveled together on the ship. **Abaye said:** The action was **not** performed **in** Rabban Gamliel’s **presence,** and since the gentile had not seen him he intended to make it only for himself. **Rava said: Even if you say** that the gentile made the ramp **in his presence,** that is irrelevant because **a lamp for one is a lamp for one hundred;** similarly, with regard to a ramp, once the gentile constructs it for his own use it can be used by others with no further adjustments. ^122a-8
+
+The Gemara **raises an objection** to Rava’s statement based on the *Tosefta*: **Rabban Gamliel said to them: Since he made it not in our presence, we will disembark on it.** Rabban Gamliel made use of the ramp only for this reason, contrary to Rava’s explanation. The Gemara rejects this: **Say** the *Tosefta* in an emended form: Rabban Gamliel said to them: **Since he made it, we will disembark on it.** ^122a-9
+
+**Come** and **hear** proof from another *baraita* with regard to the dispute between Abaye and Rava: With regard to **a city where** both **Jews and gentiles live and there was a bathhouse in it** in which **there is bathing on Shabbat, if the majority** of the city’s residents are **gentiles, it is permitted to bathe in** the bathhouse **immediately** after Shabbat because the bathhouse was heated on Shabbat to serve the gentiles. However, **if** there is **a majority of Jews** in the city, **one waits** after Shabbat **for** a period of **time sufficient for them to heat the hot water** so as not to benefit from prohibited labor performed on Shabbat. Apparently, even when an action is not performed in the presence of a Jew, there is concern that it may have been performed for the benefit of Jews. The Gemara rejects this proof: **There,** in the case of the *baraita*, **when they heat** the water, **they heat it with the majority** of the city’s inhabitants **in mind,** and the owner of the bathhouse sets the heating schedule to service the majority. ^122a-10
+
+**Come** and **hear** a proof from the following *baraita*: With regard to **a lamp kindled at a banquet** in which several people are participating, **if the majority** of those present are **gentiles it is permitted** for a Jew **to utilize its light,** and **if the majority** of those present are **Jews it is prohibited,** as in that case, the lamp was certainly lit for the Jews’ benefit. If those present are **half** Jews **and half** gentiles, **it is prohibited.** Since they are participating in the same banquet, the gentile certainly knows the Jew. Why, then, is it permitted for a Jew to utilize the light of the lamp even when the majority of those present are gentiles? The Gemara rejects this proof: **There, too, when they kindle** the lamp, ^122a-11
+
+## 122b
+
+> [!xref]- Mesoret HaShas (122b)
+> - [Tosefta Shabbat 15:2](https://www.sefaria.org/Tosefta_Shabbat.15.2) (line 10)
+> - [Jerusalem Talmud Shabbat 16:9:2](https://www.sefaria.org/Jerusalem_Talmud_Shabbat.16.9.2)
+
+> [!xref]- Ein Mishpat (122b)
+> - [Tur, Orach Chayim 308](https://www.sefaria.org/Tur,_Orach_Chayim.308) (lines 4, 5, 6, 10)
+> - [Shulchan Arukh, Orach Chayim 308:9](https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.308.9) (line 10)
+> - [Tur, Orach Chayim 314](https://www.sefaria.org/Tur,_Orach_Chayim.314) (line 14)
+> - [Shulchan Arukh, Orach Chayim 314:1](https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.314.1) (line 14)
+> - [Shulchan Arukh, Orach Chayim 276:2](https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.276.2) (line 2)
+> - [Tur, Orach Chayim 276](https://www.sefaria.org/Tur,_Orach_Chayim.276) (line 2)
+> - [Shulchan Arukh, Orach Chayim 308:8](https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.308.8) (line 4)
+> - [Shulchan Arukh, Orach Chayim 308:3](https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.308.3) (line 5)
+> - [Shulchan Arukh, Orach Chayim 308:11](https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.308.11) (line 6)
+
+**they kindle it with the majority** of the those present at the banquet **in mind.** When the majority of those present are gentiles, it is permitted. ^122b-1
+
+The Gemara relates that **Shmuel happened** to come **to the house of Avin Toran. A certain gentile came** and **kindled a lamp. Shmuel turned his face back** away from the lamp in order to avoid benefitting from the light. **When** Shmuel **saw** that the gentile **brought a document and was reading** it, **he said: He kindled it with his** own benefit **in mind. He turned his face back toward the lamp.** ^122b-2
+
+**MISHNA:** **All vessels may be moved on Shabbat, and their doors,** which are part of these vessels, along **with them, even if they were dismantled on Shabbat, as** the doors of these vessels **are unlike the doors of the house.** It is prohibited to make use of the doors of a house on Shabbat, even if they were removed from the entrance, **because they are not prepared** from before Shabbat. ^122b-4
+
+Likewise **a person may move a mallet,** which is generally used for labor prohibited on Shabbat, **to crack nuts with it.** Likewise, one may move **an axe,** a tool generally used to chop wood, **to cut a cake of figs with it.** So too, one may move **a saw to cut cheese with it.** Similarly, one may move **a spade to scoop dried figs with it.** ^122b-5
+
+One may also move **a winnowing shovel and a pitchfork,** both of which are designated for use with crops in a barn, **to place** food **on it for a child.** One is likewise permitted to take a **reed or a shuttle** from a spindle, ordinarily used for weaving, in order **to insert it** into food like a fork. One is permitted to move an ordinary **hand needle** used for sewing clothes **to extract a thorn with it, and** one may move **a sack maker’s** needle **to open the door with it.** ^122b-6
+
+**GEMARA:** The mishna states: **All vessels may be moved, and even if they were dismantled on Shabbat.** Should we learn from here that there is only a question with regard to vessels which were dismantled on Shabbat, **and** that **there is no need** to mention vessels detached **during the week,** as it is certainly permitted to carry them on Shabbat? ^122b-7
+
+**On the contrary,** if they were dismantled **on Shabbat** it can be said that the parts of the vessel **were prepared** for use at the onset of Shabbat, **due to** their being attached to **their original** vessels from which they were removed. However, if they were detached **during the week,** at the onset of Shabbat they would **not** have been **prepared** for use, **due to** their being detached from **their original** vessels from which they were removed. ^122b-8
+
+**Abaye said** that **this is what** the mishna **is saying: All vessels may be moved on Shabbat along with their doors. And even if they came apart during the week, they may be moved on Shabbat.** ^122b-9
+
+**The Sages taught:** With regard to **the door of a chest,** or **of a box,** or **of a closet, one may remove** them from their hinges on Shabbat, **but he may not restore** them to their original places. **And** with regard to the door of **a chicken coop,** one may neither **move** it **nor restore** it to its place. ^122b-10
+
+**Granted,** in the case of **a chicken coop** the *tanna* **holds: Since** the coop **is attached to the ground, there is** a prohibition against **building on the ground** and **there is** a prohibition against **dismantling on the ground.** Consequently, when one dismantles or restores the door he has performed the prohibited labor of building. **However,** in the case of the door **of a chest,** or **a box,** or **a closet, what does he hold?** ^122b-11
+
+**If** the tanna **holds** that **there is** a prohibition against **building with regard to vessels,** then **there is** also a prohibition against **dismantling with regard to vessels** and it should be prohibited to remove the door. **And if there is no** prohibition against **dismantling with regard to vessels** and it is permitted to remove the door, then there should also be **no** prohibition against **building with regard to vessels.** Why, then, is it prohibited to restore a door to its original place? ^122b-12
+
+**Abaye said: Actually, he holds that there is** a prohibition against **building with regard to vessels and there is** also a prohibition against **dismantling with regard to vessels.** To resolve the difficulty, emend the text. Rather than saying: One may remove them, **it is saying:** The doors of a chest, or a box, or a closet **that were** already **removed** may not be restored. ^122b-13
+
+**Rava said to him:** There are **two** possible **responses** with which your statement can be rejected. **One** is that **it is taught** in the *baraita*: **One may remove** them, *ab initio*. **And furthermore, what is** the meaning of: **But one may not restore** them? According to your emendation, what is the meaning of the word, but, in this context? **Rather, Rava said:** The *tanna* holds that **there is no** prohibition against **building with regard to vessels and there is no** prohibition against **dismantling with regard to vessels, and** so why did the *tanna* rule one may not restore the door? It is due to **a decree lest one fix** it firmly in place in the manner of a full-fledged prohibited labor, completing the production process of a vessel. ^122b-14
+
+The mishna states: **A person may take a mallet** on Shabbat in order to crack nuts with it. **Rav Yehuda said:** The type of hammer in this case is **a hammer** designated **for nuts to crack nuts with it, but blacksmiths’** hammers, **no,** they may not be used. ^122b-15
+
+That *tanna* **holds** that using **an object whose** primary **function** is **for** a **prohibited** use, **even for the purpose** of utilizing the object **itself** to perform a permitted action, is **prohibited.** ^122b-16
+
+**Rabba said to him: But if** what you say is **so,** how do you reconcile this with **the latter clause** of the mishna in which **it is taught: And a winnowing shovel or a pitchfork** in order **to place** food **for a child on it; are a winnowing shovel and a pitchfork designated for** use by **a child? Rather, Rabba said:** The mishna should be interpreted as follows: One may use **a blacksmiths’ hammer** on Shabbat **to crack nuts with it.** ^122b-17
+
+The *tanna* **holds:** ^122b-18

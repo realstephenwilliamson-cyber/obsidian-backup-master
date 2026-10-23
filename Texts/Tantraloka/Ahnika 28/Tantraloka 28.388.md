@@ -33,6 +33,11 @@ nānyathā tadabhāvaścetsarvathā so'pyathācaret |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 176–177)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.387–388]]
+>
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.388]]
+
 *Lead-in:* न केवलमत्रैवोक्तं यावदन्यत्रापि--इत्याह--
 
 > श्रीभैरवकुले चोक्तं कल्पादिज्ञत्वमीदृशम् ॥

@@ -31,6 +31,9 @@ nityaṃ niyatarūpatvātsarvasmin śāsanāśrite || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 6)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.5]]
+
 *Lead-in:* एवं नैमित्तिकं लक्षयित्वा प्रसङ्गान्नित्यमपि लक्षयति--
 
 > सन्ध्यादि पर्वसंपूजा पवित्रकमिदं सदा ।

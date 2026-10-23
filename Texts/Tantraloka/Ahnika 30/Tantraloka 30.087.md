@@ -33,5 +33,10 @@ mā dehaṃ bhūtamayaṃ pragṛhyatāṃ śāśvataṃ mahādeham |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 51–52)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 30.89–90.*
+>
+> ![[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#Viveka on 30.89–90]]
+
 Jayaratha comments on this verse together with 30.89: see [[Tantraloka 30.089#Viveka|30.89]].
 

@@ -34,6 +34,9 @@ tadasatsitapakṣe'ntaḥ praveśollāsabhāgini || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 314–315)
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.89–91]]
+
 > श्रीसन्तानगुरुस्त्वाह स्थानं बुद्धाप्रबुद्धयोः ॥
 > हृद आरभ्य यत्तेन रात्रिन्दिवविभाजनम् ।
 > तदसत्सितपक्षेऽन्तः प्रवेशोल्लासभागिनि ॥

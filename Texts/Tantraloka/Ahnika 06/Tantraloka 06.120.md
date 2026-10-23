@@ -35,6 +35,9 @@ karma syādaihikaṃ tacca dūradūraphalaṃ kramāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 347–348)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.119–120]]
+
 > आमुत्रिके झषः कुम्भो मन्त्रादेः पूर्वसेवने ।
 > चतुष्कं किल मीनाद्यमन्तिकं चोत्तरोत्तरम् ॥
 > प्रवेशे खलु तत्रैव शान्तिपुष्ट्यादिसुन्दरम् ।

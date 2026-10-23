@@ -31,6 +31,9 @@ akṣasūtraṃ kramotkṛṣṭaṃ raudrākṣaṃ vā viśeṣataḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 413–414)
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.30–32]]
+
 > अक्षसूत्रमथो कुर्यात्तत्रैवाभ्यर्चयेत्क्रमम् ।
 > वीरधातुजलोद्भूतमुक्तारत्नसुवर्णजम् ॥
 > अक्षसूत्रं क्रमोत्कृष्टं रौद्राक्षं वा विशेषतः ।

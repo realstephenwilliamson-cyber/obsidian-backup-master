@@ -34,6 +34,9 @@ vivicyamānaṃ bahvīṣu paryavasyati śaktiṣu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 334)
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.160]]
+
 *Lead-in:* ननु यदि वस्तुतः संवित्स्वभावः शिव एव एकोऽस्ति, तत्कथमयं चिदादिनानाशक्त्यात्मा व्यवहारोऽन्यथा क्रियते ? इत्याशङ्काम् उपसंहारभङ्ग्या उपशमयितुमाह --
 
 > तस्मात्संवित्त्वमेवैतत्स्वातन्त्र्यं तत्तदप्यलम् ।

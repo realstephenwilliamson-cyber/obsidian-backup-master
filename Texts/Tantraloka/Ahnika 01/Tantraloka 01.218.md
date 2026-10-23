@@ -34,6 +34,9 @@ sā yatheṣṭāntarābhāsakāriṇī śaktirujjvalā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 395–396)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.217–218]]
+
 > एवं वैकल्पिकी भूमिः शाक्ते कर्तृत्ववेदने ।
 > यस्यां स्फुटे परं त्वस्यां सङ्कोचः पूर्वनीतितः ॥
 > तथा सङ्कोचसम्भारविलायनपरस्य तु ।

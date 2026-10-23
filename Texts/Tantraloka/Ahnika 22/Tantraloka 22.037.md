@@ -33,6 +33,11 @@ prāpto'pi sadgururyogyabhāvamasya na vetti cet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 289–290)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.35–37]]
+>
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.37–39]]
+
 *Lead-in:* इत्यादिवक्ष्यमाणनीत्या दीक्षा तावदेवमेव क्रियताम्, उपदेशस्तु अविचार्यैव कथं कार्यः ?--इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 22.36: see [[Tantraloka 22.036#Viveka|22.36]].

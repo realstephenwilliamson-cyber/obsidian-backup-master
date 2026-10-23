@@ -33,6 +33,11 @@ dehastāvadayaṃ pūrvapūrvopādānanirmitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 90–91)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.198]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.198–199]]
+
 *Lead-in:* ननु अस्य कथं देहादावहम्भाव एव भ्रश्येत्, येन तत्र अनास्थापि स्यात् ? --इत्याशङ्क्य आह--
 
 > तत्रेत्थं प्राग्यदा पश्येच्छक्त्युन्मीलितदृक्किर्यः ।

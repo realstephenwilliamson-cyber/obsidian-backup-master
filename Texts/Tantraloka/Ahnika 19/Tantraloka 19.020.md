@@ -34,6 +34,9 @@ devaḥ kimasya pūrṇasya śrāddhādyairiti bhāvitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 216–217)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.17–20]]
+
 > ज्ञानत्रिशूलं संदीप्तं दीप्तचक्रत्रयोज्ज्वलम् ।
 > चिन्तयित्वामुना तस्य वेदनं बोधनं भ्रमम् ॥
 > दीपनं ताडनं तोदं चलनं च पुनः पुनः ।

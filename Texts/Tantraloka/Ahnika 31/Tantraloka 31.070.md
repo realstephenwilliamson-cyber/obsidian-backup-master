@@ -31,6 +31,9 @@ tayorevāparājjīvāt prathamārdhendukoṇataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 98–99)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.69–71]]
+
 > तदग्रपार्श्वयोर्जीवात् सूत्रमेकान्तरे धृतम् ॥
 > आदिद्वितीयखण्डेन्दुकोणात् कोणान्तमानयेत् ।
 > तयोरेवापराज्जीवात् प्रथमार्धेन्दुकोणतः ॥

@@ -33,6 +33,11 @@ mantranādabinduśaktibhujaṅgamaparātmikā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 378–380)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.238–239]]
+>
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.239–240]]
+
 *Lead-in:* बहुधेत्युक्तं निरूपयति--
 
 > मन्त्रनादबिन्दुशक्तिभुजङ्गमपरात्मिका ॥

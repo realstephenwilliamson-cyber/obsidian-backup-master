@@ -35,6 +35,9 @@ sthitivilayasargakarturguhābhagadvārapālasya || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 307)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.303]]
+
 *Lead-in:* किमत्र प्रमाणम् ? -- इत्याशङ्क्याह --
 
 > उक्तं च तस्य परतः स्थानमनन्ताधिपस्य देवस्य ।

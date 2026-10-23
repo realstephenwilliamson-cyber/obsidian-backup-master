@@ -31,6 +31,9 @@ yo'sya syānnarake vāsa iha ca vyādhito bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 310–311)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.29–30]]
+
 > यथार्थमुपदेशं तु कुर्वन्नाचार्य उच्यते ।
 > न चावज्ञा क्रियाकाले संसारोद्धरणं प्रति ॥
 > न दीक्षेत गुरुः शिष्यं तत्त्वयुक्तस्तु गर्वतः ।

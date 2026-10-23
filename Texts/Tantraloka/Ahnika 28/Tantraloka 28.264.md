@@ -33,6 +33,11 @@ ye tu tattattvavijñānamantracaryādivartinaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 114–115)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.261–264]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.264–265]]
+
 *Lead-in:* क्षेत्रौचित्यात् पुनरेषां लोकधर्मिणां तत्सायुज्यमेव भवेत्--इत्याह- -
 
 > ये तु तत्तत्त्वविज्ञानमन्त्रचर्यादिवर्तिनः ॥

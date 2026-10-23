@@ -31,5 +31,10 @@ dviśchagalāṇḍau śikhiśoṇameṣamīnatridaṇḍi sāṣāḍhi || ^ias
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 175)
+> *No commentary follows this verse directly; shown here is the next, after Dyczkowski's verse 13-14ab.*
+>
+> ![[Tantraloka Dyczkowski v11 07 - Chapter Thirty-Three#Viveka on Dyczkowski's verse 13-14ab]]
+
 Jayaratha comments on this verse together with 33.16: see [[Tantraloka 33.016#Viveka|33.16]].
 

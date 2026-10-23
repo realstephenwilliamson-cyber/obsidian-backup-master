@@ -34,6 +34,9 @@ anugrahaṃ cikīrṣustadbhāvinaṃ vidhimāśrayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 55–56)
+> ![[Tantraloka Dyczkowski v02 03 - Chapter Two, part 2#Viveka on 2.44]]
+
 *Lead-in:* अनिर्मलसंविदः प्रति पुनरस्य सोपकरणमेव अनुग्रहकारित्वम् -- इत्याह --
 
 > सोऽपि स्वातन्त्र्यधाम्ना चे दप्यनिर्मलसंविदाम् ।

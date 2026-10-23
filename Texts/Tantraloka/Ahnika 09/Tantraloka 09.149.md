@@ -33,6 +33,11 @@ māyā ca nāma devasya śaktiravyatirekiṇī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 127–128)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.147–149]]
+>
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.149–150]]
+
 *Lead-in:* न च मायापि तदतिरिक्ता काचित्संभवति -- इत्याह --
 
 > माया च नाम देवस्य शक्तिरव्यतिरेकिणी ॥

@@ -31,6 +31,9 @@ kapālaśūlakhaṭvāṅgavarābhayaghaṭādikam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 198–199)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.326–328]]
+
 > मध्ये भैरवसद्भावं दक्षिणे रतिशेखरम् ॥
 > नवात्मानं वामतस्तद्देवीवद्भैरवत्रयम् ।
 > मध्ये परां पूर्णचन्द्रप्रतिमां दक्षिणे पुनः ॥

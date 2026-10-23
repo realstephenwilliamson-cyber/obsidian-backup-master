@@ -34,6 +34,9 @@ pradhvastāvaraṇā śāntā vastumātrātilālasā |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 382–383)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.202–204]]
+
 > तदुक्तं श्रीमतङ्गादौ स्वशक्तिकिरणात्मकम् ।
 > अथ पत्युरधिष्ठानमित्याद्युक्तं विशेषणैः ॥
 > तस्यां दिवि सुदीप्तात्मा निष्कम्पोऽचलमूर्तिमान् ।

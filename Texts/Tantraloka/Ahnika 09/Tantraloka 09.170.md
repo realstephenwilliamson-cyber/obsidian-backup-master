@@ -31,6 +31,9 @@ ekyametīśvarecchāto nṛttagītādivādane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 147–148)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.170]]
+
 *Lead-in:* एवं कलादिक्षित्यन्ता भोगसाधनसंहतिः प्रत्यात्मभिन्नैव येन सुखदुःखादिभेदो भवेत्, तदाह --
 
 > तस्मात् कलादिको वर्गो भिन्न एव कदाचन ।

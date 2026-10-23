@@ -36,6 +36,11 @@ tejojalānnatritayaṃ tredhā pratyekamapyadaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 141–143)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.5–6]]
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.6–7]]
+
 *Lead-in:* अत्रैव शास्त्रान्तरीयप्रक्रिययापि व्याप्तिं दर्शयितुमाह--
 
 > तेजोजलान्नत्रितयं त्रेधा प्रत्येकमप्यदः ॥

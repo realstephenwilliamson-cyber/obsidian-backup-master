@@ -31,5 +31,8 @@ antaḥsthoṣmasamāyogāttadaṣṭakamudāhṛtam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 179–180)
+> ![[Tantraloka Dyczkowski v11 07 - Chapter Thirty-Three#Viveka on 33.22–24]]
+
 Jayaratha comments on this verse together with 33.24: see [[Tantraloka 33.024#Viveka|33.24]].
 

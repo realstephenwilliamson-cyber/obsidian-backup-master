@@ -35,6 +35,9 @@ pañcāśadevaṃ daśasu dikṣu bhūrlokasaṃjñitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 161)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.118]]
+
 *Lead-in:* तदेव सङ्कलयति -
 
 > ब्रह्मणोऽण्डकटाहेन मेरोरर्धेन कोटयः ।

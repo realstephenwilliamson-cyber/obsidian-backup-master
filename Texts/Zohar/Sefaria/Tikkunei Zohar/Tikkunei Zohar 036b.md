@@ -292,16 +292,16 @@ to elevate the four which are
 [^6]: *beten*
 [^7]: MiY
 [^8]: Binah
-[^9]: *BT* Sanhedrin 37a
+[^9]: *BT* [[Sanhedrin 37#37a|Sanhedrin 37a]]
 [^10]: *hushtat*
-[^11]: *BT* Yoma 54b
+[^11]: *BT* [[Yoma 54#54b|Yoma 54b]]
 [^12]: Khaf
 [^13]: beginning
 [^14]: Beiyt
 [^15]: *teru’ah*
 [^16]: alone
 [^17]: *badad*
-[^18]: *BT*’Avodah Zarah 3b
+[^18]: *BT*’[[Avodah Zarah 3#3b|Avodah Zarah 3b]]
 [^19]: ו
 [^20]: 6
 [^21]: ה

@@ -34,6 +34,9 @@ aṣṭāṣṭake dvādaśite pādārdhaṃ viṃśatiṃ vasūn || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 34–36)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.48–52]]
+
 > पदमन्त्रेषु सर्वेषु यावत्तत्पदशक्तिगम् ।
 > शक्यते सततं युक्तैस्तावज्जप्यं तु साधकैः ॥
 > तावती तेषु वै संख्या पदेषु पदसंज्ञिता ।

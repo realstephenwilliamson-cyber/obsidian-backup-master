@@ -33,6 +33,11 @@ tatra tatra ca śāstreṣu nyarūpyata maheśinā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 217)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.42–43]]
+>
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.43–44]]
+
 *Lead-in:* तथा च आगमोऽपि एवम्--इत्याह--
 
 > तत्र तत्र च शास्त्रेषु न्यरूप्यत महेशिना ॥

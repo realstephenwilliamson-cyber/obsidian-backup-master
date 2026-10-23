@@ -35,5 +35,8 @@ anukalpo rudrāṇyā vedī tatrejyate'nukalpena || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 277–278)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.269–271]]
+
 Jayaratha comments on this verse together with 8.271: see [[Tantraloka 08.271#Viveka|8.271]].
 

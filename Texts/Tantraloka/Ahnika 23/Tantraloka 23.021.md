@@ -31,6 +31,9 @@ te dīkṣāyāṃ na mīmāṃsyā jñānakāle vicārayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 305–306)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.20–22]]
+
 > उक्तं ज्ञानोत्तरे चैतद् ब्रह्मणाः क्षत्रिया विशः ॥
 > नपुंसकाः स्त्रियः शूद्रा ये चान्येऽपि तदर्थिनः ।
 > ते दीक्षायां न मीमांस्या ज्ञानकाले विचारयेत् ॥

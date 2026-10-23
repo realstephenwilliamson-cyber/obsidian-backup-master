@@ -31,6 +31,9 @@ na kāryaṃ patatāṃ hastālambaḥ sahyo na pātanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 327)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.68]]
+
 *Lead-in:* ननु तर्हि किमर्थं विज्ञानापहरणं कुर्यादित्याद्युक्तम् ?-- इत्याशङ्क्याह--
 
 > स्वातन्त्र्यमात्रज्ञप्त्यै तु कथितं शास्त्र ईदृशम् ।

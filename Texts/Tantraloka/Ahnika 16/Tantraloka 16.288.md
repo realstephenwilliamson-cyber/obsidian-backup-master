@@ -35,6 +35,9 @@ mantrāṇāṃ lakṣaṇaṃ kasmādityukte munibhiḥ kila || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 129–130)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.288]]
+
 *Lead-in:* एतच्चास्मच्छास्त्रेऽप्युक्तम्--इत्याह--
 
 > उक्ताभिप्रायगर्भं तदुक्तं श्रीमालिनीमते ।

@@ -35,6 +35,9 @@ suptabuddhaṃ manyamānāḥ svatantrammanyatājaḍāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 322–324)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.330–332]]
+
 > प्रलयान्ते ह्यनन्तेन संहृतास्ते त्वहर्मुखे ॥
 > अन्न्यानन्तप्रसादेन विबुधा अपि तं परम् ।
 > सुप्तबुद्धं मन्यमानाः स्वतन्त्रम्मन्यताजडाः ॥

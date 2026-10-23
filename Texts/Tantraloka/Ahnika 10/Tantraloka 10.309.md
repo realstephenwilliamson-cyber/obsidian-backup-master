@@ -31,6 +31,9 @@ icchānivṛtteḥ svasthatvācchiva eko'pi pañcadhā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 493)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.309]]
+
 *Lead-in:* न केवलमियदन्तमेव जाग्रदादि निरूपणीयतया संभवेद्यावद्विगलितभेदसद्भावे शिवेऽपि -- इत्याह --
 
 > व्यापारादाधिपत्याच्च तद्धान्या प्रेरकत्वतः ।

@@ -35,6 +35,9 @@ yattatparaṃ plutaṃ nāma somānandātparaṃ sthitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 238–239)
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.131–133]]
+
 > एषां यत्प्रथमं रूपं ह्रस्वं तत्सूर्य उच्यते ॥
 > क्षोभानन्दवशाद्दीर्घविश्रान्त्या सोम उच्यते ।
 > यत्तत्परं प्लुतं नाम सोमानन्दात्परं स्थितम् ॥

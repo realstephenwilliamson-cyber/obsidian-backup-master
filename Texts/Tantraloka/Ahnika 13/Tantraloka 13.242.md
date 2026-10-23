@@ -33,6 +33,11 @@ madhyamadhye śaktipāte śivalābhotsuko'pi san || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 276–277)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.242]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.242–244]]
+
 *Lead-in:* तदेवार्थद्वारेण पठति --
 
 > विकल्पात्तु तनौ स्थित्वा देहान्ते शिवतां व्रजेत् ।

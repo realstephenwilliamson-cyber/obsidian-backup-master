@@ -35,6 +35,9 @@ guṇānāmādharauttaryācchuddhāśuddhatvasaṃsthiteḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 260–261)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.244–247]]
+
 *Lead-in:* ननु यदि नाम योगस्येयदन्तं प्राप्तौ सामर्थ्यमस्ति तत्कथमस्य अधराधरतत्त्वप्राप्तिरप्युक्ता ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 8.246: see [[Tantraloka 08.246#Viveka|8.246]].

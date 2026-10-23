@@ -36,6 +36,11 @@ parāmarśasvabhāvatvādetasyā yaḥ svayaṃ dhvaniḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 278–281)
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.180–181]]
+>
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.181–182]]
+
 > परामर्शस्वभावत्वादेतस्या यः स्वयं ध्वनिः ॥
 > सदोदितः स एवोक्तः परमं हृदयं महत् ।
 

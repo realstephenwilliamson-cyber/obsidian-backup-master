@@ -34,6 +34,9 @@ yatparāmarśamabhyeti jñānopāyaṃ tu tadviduḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 316–317)
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.147–148]]
+
 > यथा विस्फुरितदृशामनुसन्धिं विनाप्यलम् ।
 > भाति भावः स्फुटस्तद्वत्केषामपि शिवात्मता ॥
 > भूयो भूयो विकल्पांशनिश्चयक्रमचर्चनात् ।

@@ -33,6 +33,11 @@ padaṃ santyajya tanmātraṃ sadyastyajati medinīm |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 145–146)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.13–16]]
+>
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.16–17]]
+
 *Lead-in:* त्रिशूलप्रयोगमेव शिक्षयति--
 
 Jayaratha comments on this verse together with 32.15: see [[Tantraloka 32.015#Viveka|32.15]].

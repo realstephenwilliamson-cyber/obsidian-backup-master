@@ -33,6 +33,11 @@ jāgradādyapi devasya śaktitvena vyavasthitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 470)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.271–272]]
+>
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.272–273]]
+
 *Lead-in:* एतदेव स्वदर्शनभङ्ग्यापि योजयति --
 
 > जाग्रदाद्यपि देवस्य शक्तित्वेन व्यवस्थितम् ॥

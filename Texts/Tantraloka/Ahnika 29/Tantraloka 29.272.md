@@ -33,6 +33,11 @@ abhedyaṃ sarvathā jñeyaṃ madhyaṃ jñātvā na lipyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 402–403)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.272]]
+>
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.272–273]]
+
 *Lead-in:* एतच्च आगमेऽपि एवमुक्तम्--इत्याह--
 
 > श्रीमद्वीरावलिकुले तथा चेत्थं निरूपितम् ।

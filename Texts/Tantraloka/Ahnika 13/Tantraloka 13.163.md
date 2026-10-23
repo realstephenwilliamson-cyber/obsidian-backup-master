@@ -33,6 +33,11 @@ jñānayogyāstathā keciccaryāyogyāstathāpare |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 223–224)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.162–163]]
+>
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.163–164]]
+
 *Lead-in:* ननु इदं सिद्धसाधनं यद्गुरुशास्त्रापेक्षं ज्ञानमुदियादिति । एतद्धि लोकत एव सिद्धम्, किमत्र प्रमाणोपन्यासेन । स्वत एव केषाञ्चिदेतदुदेति इत्यत्र पुनः किं प्रमाणम्? -- इत्याशङ्क्याह --
 
 > श्रीमन्नन्दिशिखातन्त्रे वितत्यैतन्निरूपितम् ॥

@@ -35,5 +35,8 @@ grathito'dhvā tayā sarva ūrdhvaścādhastanastathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 364–366)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.390–393]]
+
 Jayaratha comments on this verse together with 8.393: see [[Tantraloka 08.393#Viveka|8.393]].
 

@@ -329,7 +329,7 @@ It is not entirely clear whose circumcision Abulafia refers to as “life and de
 In his determination to see the Pope, we can already detect Abulafia’s active interest in interacting with the Christian world. It may be that Abulafia took note of the Christian side of some of the contemporary discourse concerning the messiah, and that this influenced his formulation of a mission to Rome. In this connection, some attention should be paid to the Barcelona Disputation of 1263. The Disputation marks the real beginning of opportunistic Christian engagement with rabbinic literature. As is apparent from the extant accounts of the Disputation, there was a Christian eagerness to perceive, in a rabbinic story concerning the messiah’s prior presence in Rome, a literal truth.[^79] Friar Paul contended that the aggadah, which relates that the messiah had been found outside the gates of that city, was to be taken literally. This Christian approach resonates with Abulafia’s apparent feeling that a mission to Rome was to be central to his own messianic calling.
 
 [^78]: *Sefer \[illegible\]* MS Munich-BS 285 fols. 22a, 23b; printed edition (Masref *ha-* *Sekhel* ), p. 85.
-[^79]: See BT. *Sanhedrin* 98a. Berger, “Captive at the Gate of Rome,” pp. 3–4, 12–13.
+[^79]: See BT. [[Sanhedrin 98#98a|*Sanhedrin* 98a]]. Berger, “Captive at the Gate of Rome,” pp. 3–4, 12–13.
 
 *[p. 52]* ^pg67
 

@@ -33,6 +33,11 @@ abhyāsayuktisaṃkrāntivedhaghaṭṭanarodhataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 271–273)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.233–234]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.234–235]]
+
 *Lead-in:* इदानीं तु देहपाताच्छिवं व्रजेदिति विवृणोति --
 
 Jayaratha comments on this verse together with 13.233: see [[Tantraloka 13.233#Viveka|13.233]].

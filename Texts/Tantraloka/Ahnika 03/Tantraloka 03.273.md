@@ -35,6 +35,9 @@ tenānupāye tasminko mucyate vā kathaṃ kutaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 396)
+> ![[Tantraloka Dyczkowski v02 12 - Chapter Three, part 9#Viveka on 3.272–273]]
+
 > इत एव प्रभृत्येषा जीवन्मुक्तिर्विचार्यते ।
 > यत्र सूत्रणयापीयमुपायोपेयकल्पना ॥
 > प्राक्तने त्वाह्निके काचिद्भेदस्य कलनापि नो ।

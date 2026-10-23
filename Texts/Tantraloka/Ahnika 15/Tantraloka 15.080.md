@@ -33,6 +33,11 @@ parvatāgranadītīraikaliṅgādi yaducyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 59)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 15.81–83.*
+>
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.81–83]]
+
 *Lead-in:* तदेव आह—
 
 > भावं प्रसन्नमालोच्य व्रजेद्यागगृहं ततः ।

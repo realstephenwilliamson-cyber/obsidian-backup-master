@@ -31,6 +31,9 @@ mayaitatsrotasāṃ rūpamanuttarapadād dhruvāt |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 239)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.30–31]]
+
 *Lead-in:* ननु स्रोतोऽन्तराणामेव किं रूपं येभ्योऽपि अस्य उत्कृष्टत्वादेवमुपादेयत्वं निरूपयितुं न्याययम्?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 37.31: see [[Tantraloka 37.031#Viveka|37.31]].

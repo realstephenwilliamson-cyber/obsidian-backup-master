@@ -34,6 +34,11 @@ sa śiṣṭaḥ karmakartṛtvācchiṣyo'nyaḥ karmabhāvataḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 206–207)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.134]]
+>
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.134–135]]
+
 > स शिष्टः कर्मकर्तृत्वाच्छिष्योऽन्यः कर्मभावतः ।
 
 शिष्यत इति स्वप्रतिभाधेयव्युत्पत्तिकत्वेन स्वप्रतिभां प्रति कर्मणोऽपि परं प्रति शास्यत्वाभावेन स्वातन्त्र्यविवक्षया कर्तृत्वात् "लूयते केदारः"इतिवत् कर्मवद्भावात् कर्मणि क्ते शिष्ट इति । अन्य इत्येवंप्रतिभाभाजः ॥

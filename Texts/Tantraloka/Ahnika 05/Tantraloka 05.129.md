@@ -35,6 +35,9 @@ karaṇaṃ saptadhā prāhurabhyāsaṃ bodhapūrvakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 172–178)
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.128–130]]
+
 > तच्चेत्थं त्रिशिरःशास्त्रे परमेशेन भाषितम् ॥
 > ग्राह्यग्राहकचिद्व्याप्तित्यागाक्षेपनिवेशनैः ।
 > करणं सप्तधा प्राहुरभ्यासं बोधपूर्वकम् ॥

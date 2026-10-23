@@ -35,6 +35,9 @@ parāmṛśansvamātmānaṃ pūrṇa evāvabhāsate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 399–401)
+> ![[Tantraloka Dyczkowski v02 12 - Chapter Three, part 9#Viveka on 3.278–279]]
+
 > यथा रक्तं पुरः पश्यन्निर्विकल्पकसंविदा ।
 > तत्तद्द्वारनिरंशैकघटसंवित्तिसुस्थितः ॥
 > तद्वद्धरादिकैकैकसङ्घातसमुदायतः ।

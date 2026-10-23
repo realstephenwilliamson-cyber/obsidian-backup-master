@@ -36,6 +36,11 @@ yeṣāṃ na tanmayībhūtiste dehādinimajjanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 367–368)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.239–240]]
+>
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.240–241]]
+
 *Lead-in:* ननु केषांचिद्गीतादाववहितचेतसामपि न तन्मयीभावो भवेदिति कथमेतदुक्तम् ? -- इत्याशङ्क्याह—
 
 > येषां न तन्मयीभूतिस्ते देहादिनिमज्जनम् ॥

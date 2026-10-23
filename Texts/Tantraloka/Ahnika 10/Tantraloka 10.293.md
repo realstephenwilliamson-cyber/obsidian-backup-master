@@ -31,6 +31,9 @@ bhāvā vigaladātmīyasārāḥ svayamabhedinaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 482–484)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.292–294]]
+
 > भेदवन्तः स्वतोऽभिन्नाश्चिकीर्ष्यन्ते जडाजडाः ।
 > तुर्ये तत्र स्थिता मन्त्रतन्नाथाधीश्वरास्त्रयः ॥
 > यावद्भैरवबोधान्तःप्रवेशनसहिष्णवः ।

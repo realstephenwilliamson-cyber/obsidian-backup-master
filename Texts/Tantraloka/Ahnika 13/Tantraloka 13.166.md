@@ -33,6 +33,11 @@ yadā pratibhayā yuktastadā muktaśca mocayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 225–226)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.165–166]]
+>
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.166–167]]
+
 *Lead-in:* ततोऽपि किम्? -- इत्याह -
 
 > यदा प्रतिभया युक्तस्तदा मुक्तश्च मोचयेत् ॥

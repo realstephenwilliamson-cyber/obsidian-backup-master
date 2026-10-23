@@ -33,6 +33,11 @@ yasya yadyat sphuṃṭaṃ rūpaṃ tajjāgraditi manyatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 482–488)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.292–294]]
+>
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.294–297]]
+
 *Lead-in:* एवं मतभेदेऽपि जाग्रदाद्यवस्थानां तात्पर्येणैकमेव रूपं विश्रमयति --
 
 Jayaratha comments on this verse together with 10.293: see [[Tantraloka 10.293#Viveka|10.293]].

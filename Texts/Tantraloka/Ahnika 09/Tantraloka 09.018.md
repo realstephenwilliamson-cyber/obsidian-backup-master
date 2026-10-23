@@ -38,6 +38,13 @@ upalabdhāpi vijñānasvabhāvo yo'sya so'pi hi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 30–31)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.17–18]]
+>
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.18]]
+>
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.18–19]]
+
 *Lead-in:* ननु उपलम्भस्यापि एवंभावे किं निमित्तम् ? -- इत्याह --
 
 > .........................उपलम्भश्च किं तथा ।

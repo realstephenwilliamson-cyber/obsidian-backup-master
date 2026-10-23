@@ -31,6 +31,9 @@ netrādikāṃśca saṃmārjya mārgamadhyāt suśobhane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 125)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.142]]
+
 *Lead-in:* ननु कियति भागजाते वीथीलोपना भवेत्?--इत्याशङ्क्य आह--
 
 > मर्मणां च शते द्वे च ऋषिभिर्गुणिता दिशः ।

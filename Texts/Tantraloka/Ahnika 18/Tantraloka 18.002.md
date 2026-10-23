@@ -34,6 +34,9 @@ jananādivihīnāṃ tu yena yenādhvanā guruḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 194)
+> ![[Tantraloka Dyczkowski v09 09 - Chapter Eighteen#Viveka on 18.1–3]]
+
 > न रजो नाधिवासोऽत्र न भूक्षेत्रपरिग्रहः ।
 > यत्र तत्र प्रदेशे तु पूजयित्वा गुरुः शिवम् ॥
 > अध्वानं मनसा ध्यात्वा दीक्षयेत्तत्त्वपारगः ।

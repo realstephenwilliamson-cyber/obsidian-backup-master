@@ -35,6 +35,9 @@ tejastryaśraṃ tālukaṇṭhe bindurūrdhvapade sthitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 200–201)
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.146]]
+
 *Lead-in:* एवमेतद्वर्णंतत्त्वं संहारबीजानुसारेणापि अभिधत्ते --
 
 > संहारबीजं खं हृत्स्थमोष्ठ्यं फुल्लं स्वमूर्धनि ।

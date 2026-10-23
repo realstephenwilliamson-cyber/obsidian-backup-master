@@ -293,10 +293,10 @@ Hei[^22][^23] stands for five books of the Torah,
 בההוא ^33a-35
 
 [^1]: Liturgical: High Holidays
-[^2]: See *BT* Sanhedrin 38b
+[^2]: See *BT* [[Sanhedrin 38#38b|Sanhedrin 38b]]
 [^3]: *mitzvah*
-[^4]: *BT* Yoma 53b
-[^5]: See *BT* Yoma 53a
+[^4]: *BT* [[Yoma 53#53b|Yoma 53b]]
+[^5]: See *BT* [[Yoma 53#53a|Yoma 53a]]
 [^6]: tiphtaḥ
 [^7]: *ḥaiy*
 [^8]: *ḥaiy*
@@ -304,7 +304,7 @@ Hei[^22][^23] stands for five books of the Torah,
 [^10]: *otot*
 [^11]: *ḥaiy*
 [^12]: *ḥaiy*
-[^13]: *BT* Berakhot 12a
+[^13]: *BT* [[Berakhot 12#12a|Berakhot 12a]]
 [^14]: charity
 [^15]: צ
 [^16]: 90

@@ -33,6 +33,11 @@ svātantryāttu tathābhāse kālaśaktirvijṛmbhatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 250–251)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.205–206]]
+>
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.206–207]]
+
 *Lead-in:* ननु यद्येवं तत्कथमेतदतीतवर्तमानाद्याभाससंभिन्नतया भावजातं भायात्? -- इत्याशङ्क्याह --
 
 > स्वातन्त्र्यात्तु तथाभासे कालशक्तिर्विजृम्भताम् ॥

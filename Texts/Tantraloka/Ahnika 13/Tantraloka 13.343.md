@@ -31,6 +31,9 @@ kṛtvā jñānārṇavaṃ svābhirvipruḍbhiḥ plāvayenna kim || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 336)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.343]]
+
 *Lead-in:* ननु यदि नाम एकस्मादेव पूर्णविज्ञानशालिनो गुरोरनायासमेव पूर्णं ज्ञानं स्यात् तदस्तु, तदर्थं पुनर्नानागुर्वादिसंभरणात्मा प्रयत्नोऽपि कस्मात्क्रियते? -- इत्याशङ्क्याह --
 
 > नानागुर्वागमस्रोतःप्रतिभामात्रमिश्रितम् ।

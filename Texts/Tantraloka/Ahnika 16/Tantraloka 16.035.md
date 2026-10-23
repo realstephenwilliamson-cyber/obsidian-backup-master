@@ -34,6 +34,9 @@ nirvāpitaḥ kṛtābhyāsaguruprāṇamano'rpaṇāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 16–17)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.32–36]]
+
 > दृष्टोऽवलोकितश्चैव किरणेद्धदृगर्पणात् ।
 > प्रोक्षितः केवलं ह्यर्घपात्रविप्रुड्भिरुक्षितः ॥
 > संद्रष्टा दर्शिताशेषसम्यक्पूजितमण्डलः ।

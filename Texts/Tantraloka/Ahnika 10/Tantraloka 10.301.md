@@ -33,6 +33,9 @@ etacchrīpūrvaśāstre ca sphuṭamuktaṃ maheśinā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 489–490)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.300–301]]
+
 *Lead-in:* अत्रैव प्रमाणसिद्धतामाह --
 
 > एतच्छ्रीपूर्वशास्त्रे च स्फुटमुक्तं महेशिना ॥

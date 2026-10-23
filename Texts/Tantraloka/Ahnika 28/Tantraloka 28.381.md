@@ -33,6 +33,11 @@ praviṣṭaścetpramādena saṅkocaṃ na vrajettataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 172–173)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.380–381]]
+>
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.381–382]]
+
 *Lead-in:* ननु यदि नाम मेलकादावतन्मयः कश्चित्प्रमादात् प्रविष्टः, तदा किं प्रतिपत्तव्यम् ?--इत्याशङ्क्य आह--
 
 > प्रविष्टश्चेत्प्रमादेन सङ्कोचं न व्रजेत्ततः ॥

@@ -31,5 +31,8 @@ antyo viśeṣo vyāvṛttirūpo vyāvṛttivarjitān || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 342–344)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.72–75]]
+
 Jayaratha comments on this verse together with 10.74: see [[Tantraloka 10.074#Viveka|10.74]].
 

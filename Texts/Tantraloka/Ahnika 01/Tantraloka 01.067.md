@@ -36,6 +36,13 @@ bahuśaktitvamapyasya tacchaktyaivāviyuktatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 204–205)
+> ![[Tantraloka Dyczkowski v01 06 - Chapter One, part 5#Viveka on 1.66–67]]
+>
+> ![[Tantraloka Dyczkowski v01 06 - Chapter One, part 5#Viveka on 1.67]]
+>
+> ![[Tantraloka Dyczkowski v01 07 - Chapter One, part 6#Viveka on 1.67 (continued)]]
+
 *Lead-in:* ननु सर्वत्रैवास्य इच्छाद्यनन्तशक्तियोगित्वमुक्तमिति तत्कथमिहैकयैव स्वातन्त्र्याख्यया शक्त्या योग उच्यते ? इत्याशङ्क्याह --
 
 > बहुशक्तित्वमप्यस्य तच्छक्त्यैवावियुक्तता ॥

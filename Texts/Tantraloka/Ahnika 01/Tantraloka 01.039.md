@@ -34,6 +34,9 @@ ahamitthamidaṃ vedmītyevamadhyavasāyinī |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 151–153)
+> ![[Tantraloka Dyczkowski v01 05 - Chapter One, part 4#Viveka on 1.39–40]]
+
 *Lead-in:* अत एवाह—
 
 Jayaratha comments on this verse together with 1.40: see [[Tantraloka 01.040#Viveka|1.40]].

@@ -31,6 +31,9 @@ brahmādisthāvarānte'smin saṃsaranti punaḥpunaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 119–120)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.138–139]]
+
 > एतत्कार्ममलं प्रोक्तं येन साकं लयाकलाः ।
 > स्युर्गुहागहनान्तःस्थाः सुप्ता एव सरीसृपाः ॥
 > ततः प्रबुद्धसंस्कारास्ते यथोचितभागिनः ।

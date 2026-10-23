@@ -34,6 +34,9 @@ tannivedya ca devāya tato vijñāpayetprabhum || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 35)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.73]]
+
 > पशोर्वपामेदसी च गालिते वह्निमध्यतः ।
 > अर्पयेच्छक्तिचक्राय परमं तर्पणं मतम् ॥
 > हृदन्त्रमुण्डांसयकृत्प्रधानं विनिवेदयेत् ।

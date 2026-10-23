@@ -31,6 +31,9 @@ tirobhāvābhidhaṃ kṛtyaṃ tathāsau śivatātmakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 324)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.59–61]]
+
 > गुरुः पुनः शिवाभिन्नः सन्यः पञ्चविधां कृतिम् ।
 > कुर्याद्यदि ततः पूर्णमधिकारित्वमस्य तत् ॥
 > अतो यथा शुद्धतत्त्वसृष्टिस्थित्योर्मलात्यये ।

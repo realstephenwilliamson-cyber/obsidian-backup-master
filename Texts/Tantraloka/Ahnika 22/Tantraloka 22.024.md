@@ -31,5 +31,8 @@ prayogādvauṣaḍantāṃ ca kṣiptvāhūya vrateśvaram || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 285–286)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.23–27]]
+
 Jayaratha comments on this verse together with 22.26: see [[Tantraloka 22.026#Viveka|22.26]].
 

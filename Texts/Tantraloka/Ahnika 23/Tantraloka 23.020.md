@@ -33,6 +33,11 @@ uktaṃ jñānottare caitad brāhmaṇāḥ kṣatriyā viśaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 303–306)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.17–20]]
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.20–22]]
+
 *Lead-in:* कर्तव्यसारमेव अभिधत्ते--
 
 > अनुग्राह्यास्त्वया शिष्याः शिवशक्तिप्रचोदिताः ।

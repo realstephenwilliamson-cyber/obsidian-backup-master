@@ -34,6 +34,9 @@ dīkṣāntaṃ vibhunā śrīmatsiddhayogīśvarīmate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 52–54)
+> ![[Tantraloka Dyczkowski v02 03 - Chapter Two, part 2#Viveka on 2.41]]
+
 *Lead-in:* इत्याद्युत्क्या मुक्तावुपायत्वमुक्तम्, इति कथमत्र दीक्षां विनापि दर्शनमात्रादेव तदवाप्तिरुक्ता ? -- इत्याशङ्क्याह --
 
 > एतत्तत्त्वपरिज्ञानं मुख्यं यागादि कथ्यते ।

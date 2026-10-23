@@ -33,5 +33,10 @@ tānyenaṃ na vidurbhinnaṃ taiḥ sa mukto'bhidhīyate |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 137–139)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.317–320]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.320–324]]
+
 Jayaratha comments on this verse together with 28.319: see [[Tantraloka 28.319#Viveka|28.319]].
 

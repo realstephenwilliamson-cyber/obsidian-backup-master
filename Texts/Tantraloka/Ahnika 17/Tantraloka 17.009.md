@@ -34,6 +34,9 @@ tattattvavyāpikāṃ paścānmāyātattvādhidevatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 144)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.8–10]]
+
 > तत्र स्वमन्त्रयोगेन धरामावाहयेत्पुरा ॥
 > इष्ट्वा पुष्पादिभिः सर्पिस्तिलाद्यैरथ तर्पयेत् ।
 > तत्तत्त्वव्यापिकां पश्चान्मायातत्त्वाधिदेवताम् ॥

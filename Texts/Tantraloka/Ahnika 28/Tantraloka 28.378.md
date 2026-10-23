@@ -33,6 +33,11 @@ atanmaye tu kasmiṃścittatrasthe pratihanyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 171–172)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.377–378]]
+>
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.378–379]]
+
 *Lead-in:* येषां पुनरीर्ष्यादिसङ्कोचाभावो नास्ति, तेषां किं संविन्मयीभावो भवेन्न वा?--इत्याशङ्क्य आह--
 
 > अतन्मये तु कस्मिंश्चित्तत्रस्थे प्रतिहन्यते ॥

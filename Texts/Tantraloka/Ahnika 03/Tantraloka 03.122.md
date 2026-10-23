@@ -35,6 +35,11 @@ tato jvalanacidrūpaṃ citrabhānuḥ prakīrtitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 226)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.121–123]]
+>
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.121–123 (continued)]]
+
 > अन्योन्यमवियुक्तौ तौ स्वतन्त्रावप्युभौ स्थितौ ॥
 > भोक्तृभोग्योभयात्मैतदन्योन्योन्मुखतां गतम् ।
 > ततो ज्वलनचिद्रूपं चित्रभानुः प्रकीर्तितः ॥

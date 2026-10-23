@@ -31,5 +31,8 @@ candracakravilomena praviśedbhūtapañjare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 157)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.44–47]]
+
 Jayaratha comments on this verse together with 32.46: see [[Tantraloka 32.046#Viveka|32.46]].
 

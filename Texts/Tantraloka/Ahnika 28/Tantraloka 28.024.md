@@ -31,6 +31,9 @@ tathā suphalasaṃsiddhyai yoginīsiddhanāyakāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 16–17)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.23–25]]
+
 > यथा चिरोपात्तधनः कुर्वन्नुत्सवमादरात् ॥
 > अतिथिं सोऽनुगृह्णाति तत्कालाभिज्ञमागतम् ।
 > तथा सुफलसंसिद्धयै योगिनीसिद्धनायकाः ॥

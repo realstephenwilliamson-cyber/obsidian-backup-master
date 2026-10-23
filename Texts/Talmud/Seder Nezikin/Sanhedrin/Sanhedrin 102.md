@@ -1,0 +1,123 @@
+---
+type: "text"
+work: "Talmud Bavli"
+masekhet: "Sanhedrin"
+seder: "Nezikin"
+daf: 102
+translation: "William Davidson Edition - English"
+edition: "English from The William Davidson digital edition of the Koren Noé Talmud, with commentary by Rabbi Adin Even-Israel Steinsaltz"
+license: "CC-BY-NC"
+source: "https://www.sefaria.org/Sanhedrin.102a?ven=William_Davidson_Edition_-_English&lang=en"
+aliases:
+  - "Sanhedrin 102a"
+  - "Sanhedrin 102b"
+  - "BT Sanhedrin 102"
+---
+# Sanhedrin 102
+
+← [[Sanhedrin 101]] · [[Sanhedrin]] · [[Sanhedrin 103]] →
+
+*Seder Nezikin · Sanhedrin · Daf 102* · [[Sanhedrin]] · [[Talmud]]
+
+## 102a
+
+> [!xref]- Mesoret HaShas (102a)
+> - [[Yoma 86#^86b-14|Yoma 86b:14]] (line 14)
+> - [[Berakhot 32#^32a-8|Berakhot 32a:8]] (line 14)
+> - [[Berakhot 35#^35b-2|Berakhot 35b:2-3]] (line 11)
+> - [Jerusalem Talmud Taanit 4:5:2](https://www.sefaria.org/Jerusalem_Talmud_Taanit.4.5.2)
+
+**And even Ahijah the Shilonite erred** in this matter **and signed** that he would accept all of Jeroboam’s pronouncements. And generations later this caused Jehu to sin. The Gemara explains: **As Jehu was an extremely righteous person. As it is stated: “And the Lord said to Jehu: Because you have done well, to perform what is right in My eyes, and have done to the house of Ahab according to all that was in My heart, your children of the fourth generation shall sit on the throne of Israel”** ([[II Kings 10#^10-30|II Kings 10:30]]). **And it is written: “But Jehu took no care to walk in the Torah of the Lord, God of Israel, with all his heart; he departed not from the sins of Jeroboam, who made Israel sin”** ([[II Kings 10#^10-31|II Kings 10:31]]). ^102a-1
+
+**What caused** Jehu to do so? **Abaye says: A covenant is made with the lips, as it is stated** that Jehu said cunningly in an attempt to entrap the priests of the Baal: **“Ahab worshipped Baal a little, but Jehu shall serve him much”** ([[II Kings 10#^10-18|II Kings 10:18]]). Although it was not his intention, once the statement escaped his lips he began following the path to its fulfillment. **Rava says: He saw the seal of Ahijah the Shilonite** on the coronation document of Jeroboam **and he erred** and believed that it was permitted to act as Jeroboam did. ^102a-2
+
+The Gemara continues its discussion of Jeroboam. With regard to that **which is written: “And the apostates are deep in slaughter and I am rejected by them all”** ([[Hosea 05#^5-2|Hosea 5:2]]), **Rabbi Yoḥanan says** that **the Holy One, Blessed be He, says: They** issued decrees that are **more profound** and more extreme **than my own. I said: Anyone who does not ascend** to Jerusalem **for the pilgrimage Festival violates a positive mitzva, and they said: Anyone who ascends** to Jerusalem **for the pilgrimage Festival will be stabbed with the sword.** In that way, Jeroboam successfully prevented the residents of the kingdom of Israel from ascending to Jerusalem. ^102a-3
+
+The verse states: **“And it came to pass at that time, and Jeroboam left Jerusalem, and the prophet Ahijah the Shilonite found him on the way, and he was clad in a new garment,** and the two were alone in the field” ([[I Kings 11#^11-29|I Kings 11:29]]). It was **taught in the name of Rabbi Yosei:** The phrase “at that time” indicates that **it is a time ordained for calamity.** ^102a-4
+
+The verse states: **“At the time of their punishment, they shall perish”** ([[Jeremiah 51#^51-18|Jeremiah 51:18]]). It was **taught in the name of Rabbi Yosei:** The phrase “at the time” indicates that it is **a time ordained for calamity.** The verse states: **“In an acceptable time have I answered you”** ([[Isaiah 49#^49-8|Isaiah 49:8]]). It was **taught in the name of Rabbi Yosei:** The phrase “in an acceptable time” indicates that it is **a time ordained for good.** The verse states: **“On the day when I punish, I will punish their sin upon them”** ([[Torah 21 - Ki Tisa#^32-34|Exodus 32:34]]). It was **taught in the name of Rabbi Yosei:** The phrase “on the day when I punish” indicates that **it is a time ordained for calamity.** The verse states: **“And it came to pass at that time, and Judah descended from his brothers”** ([[Torah 09 - Vayeshev#^38-1|Genesis 38:1]]). It was **taught in the name of Rabbi Yosei:** The phrase “at that time” indicates that it is **a time ordained for calamity.** ^102a-5
+
+The verse states: **“And Rehoboam went to Shechem; for all Israel came to Shechem, to make him king”** ([[I Kings 12#^12-1|I Kings 12:1]]). It was **taught in the name of Rabbi Yosei:** Shechem is **a place ordained for calamity. In Shechem, they tormented** and raped **Dinah, in** the outskirts of **Shechem the brothers sold Joseph, in Shechem the kingdom of the house of David was divided.** ^102a-6
+
+With regard to the verse which states: **“And Jeroboam left Jerusalem”** ([[I Kings 11#^11-29|I Kings 11:29]]), **Rabbi Ḥanina bar Pappa says:** It means **that he left the destiny of Jerusalem,** meaning he removed himself from the category of the residents of Jerusalem, never to return. ^102a-7
+
+The verse states: **“And the prophet Ahijah the Shilonite found him on the way, and he was clad in a new [*ḥadasha*] garment, and the two were alone in the field.” What** is taught by the phrase **“in a new garment”? Rav Naḥman says:** It was **like a new garment; just as a new garment has no imperfection, so too, the Torah** studies **of Jeroboam** at that time **had no imperfection. Alternatively, “a new garment”** teaches **that they introduced [*sheḥideshu*] matters that** no **ear had ever heard.** ^102a-8
+
+**What** is taught by the phrase **“and the two were alone in the field”? Rav Yehuda says** that **Rav says:** It teaches **that all** the **Torah scholars** of that generation **seemed,** relative **to them, like grass of the field,** as they were wiser than all of them. **And there are** those **who say:** It teaches **that all the rationales of the Torah were revealed to them like a field** that is exposed for all to see. ^102a-9
+
+The verse states: **“Therefore shall you give parting gifts to Moresheth Gath; the houses of Achzib are a deceitful thing for the kings of Israel”** ([[Micah 1#^1-14|Micah 1:14]]). **Rabbi Ḥanina bar Pappa says:** When they crowned Jeroboam, **a Divine Voice emerged and said to** the subjects of the kingdom of Israel: **He who killed the Philistine and bequeathed** the city of **Gath to you,** i.e., King David, **will you give parting gifts to his sons** and revolt against them? Ultimately, **the houses of Achzib are a deceitful thing for the kings of Israel,** as the kings of Israel will also be forsaken by their subjects. ^102a-10
+
+**Rabbi Ḥanina bar Pappa says:** With regard to **anyone who derives benefit from this world without** reciting **a blessing, it is as though he stole from the Holy One, Blessed be He, and the congregation of Israel, as it is stated: “Whoever robs his father and his mother and says: It is no transgression, he is the companion of a corrupter”** ([[Proverbs 28#^28-24|Proverbs 28:24]]). **And** the term **“his father”** is referring to **none other than the Holy One, Blessed be He, as it is stated: “Is He not your Father Who created you,** Who made you and established you?” ([[Torah 53 - Ha'Azinu#^32-6|Deuteronomy 32:6]]). **And** the term **“his mother”** is referring to **none other than the congregation of Israel, as it is stated: “Hear, my son, the discipline of your father, and do not forsake the Torah of your mother”** ([[Proverbs 01#^1-8|Proverbs 1:8]]). The mention of the Torah as emanating from the mother indicates that the mother represents the congregation of Israel, and the Torah of the mother is the tradition of the Jewish people. ^102a-11
+
+**What** is the meaning of the phrase **“He is the companion of a corrupter”?** It means that **he is a companion of Jeroboam, son of Nebat, who corrupted** the people of **Israel before their Father in Heaven** by sinning and by causing others to sin. ^102a-12
+
+With regard to the verse: **“And Jeroboam drove Israel from following the Lord, and caused them to sin a great sin”** ([[II Kings 17#^17-21|II Kings 17:21]]), **Rabbi Ḥanin says:** This is **like two sticks** that when they collide **cause each other to carom,** as due to the strife, Jeroboam caused the subjects of the kingdom of Israel to grow distant from God. ^102a-13
+
+§ Apropos the calves of Jeroboam, the Gemara discusses the Golden Calf discussed in the Torah. The verse states: **“And Di Zahav”** ([[Torah 44 - Devarim#^1-1|Deuteronomy 1:1]]). **The school of Rabbi Yannai said: Moses said before the Holy One, Blessed be He: Master of the Universe, because of the gold and silver that You lavished upon the Jewish people** during the exodus from Egypt **until they said enough [*dai*],** this wealth **caused the Jewish people to fashion for themselves gods of gold.** The combination of wealth and leisure left them open to a transgression of that sort. There is **a parable** for this: **A lion does not maul and roar over a basket of straw** from which he derives no pleasure; **rather,** he mauls and roars **over a basket of meat,** as he roars only when satiated. In other words, the guilt is not exclusively theirs. ^102a-14
+
+**Rabbi Oshaya says: Until Jeroboam, Israel was suckling,** i.e., suffering the consequences, **from** worshipping **one calf** that they fashioned in the wilderness. **From that** point **forward,** they were suckling **from two and three calves,** as Jeroboam added the calves in Bethel and Dan. **Rabbi Yitzḥak says: You have no punishment that comes to the world in which there is not one twenty-fourth of the surplus of a *litra* of the first calf.** When weighing a substance, there would often be a disparity of up to one twenty-fourth of its weight. The point is that a minuscule portion of the sin of the Golden Calf is added to every punishment imposed upon the Jewish people, **as it is stated: “On the day when I punish, I will punish their sin upon them”** ([[Torah 21 - Ki Tisa#^32-34|Exodus 32:34]]), indicating that atonement for that sin is incomplete, and the Jewish people will continue to suffer for it. ^102a-15
+
+**Rabbi Ḥanina says: After twenty-four generations** elapsed from the sin of the Golden Calf, the debt referred to in **this verse was collected, as it is stated: “And he cried in my ears with a loud voice, saying: Those who have charge over the city draw near, every man with his deadly weapon in his hand”** ([[Ezekiel 09#^9-1|Ezekiel 9:1]]). This prophecy occurred twenty-four generations after the sin of the Golden Calf. ^102a-16
+
+The verse states: **“And after this matter, Jeroboam returned not from his evil way”** ([[I Kings 13#^13-33|I Kings 13:33]]). To **what** event is the verse alluding, when it states: **“After** this matter”? **Rabbi Abba says:** It is **after the Holy One, Blessed be He, grabbed Jeroboam by his garment,** i.e., he sent prophets and implored him, **and said to him: Repent, and you and I and** the **son of Yishai will stroll** together **in the Garden of Eden.** Jeroboam **said to Him: Who** will walk **in the lead?** God **said to** Jeroboam: The **son of Yishai** will walk **in the lead.** Jeroboam said: **If so, I do not wish** to repent. ^102a-17
+
+§ The Gemara relates: **Rabbi Abbahu was accustomed to lecture** at great length **about the three kings** enumerated in the mishna, who have no share in the World-to-Come. **He fell ill, and he undertook that he would not lecture** about those kings. **Once** ^102a-18
+
+## 102b
+
+> [!xref]- Mesoret HaShas (102b)
+> - [[Sanhedrin 101#^101a-17|Sanhedrin 101a:17]] (line 19)
+> - [Shemot Rabbah 3:8](https://www.sefaria.org/Shemot_Rabbah.3.8) (line 10)
+> - [[Shabbat 149#^149b-6|Shabbat 149b:6]] (line 14)
+> - [[Yoma 44#^44b-14|Yoma 44b:14-15]] (line 14)
+> - [[Sanhedrin 89#^89a-15|Sanhedrin 89a:15-16]] (line 15)
+> - [Tractate Kallah Rabbati 2:6](https://www.sefaria.org/Tractate_Kallah_Rabbati.2.6) (line 19)
+> - [Tractate Kallah 4:5](https://www.sefaria.org/Tractate_Kallah.4.5) (line 19)
+> - [Tosefta Sanhedrin 12:5](https://www.sefaria.org/Tosefta_Sanhedrin.12.5) (line 19)
+> - [[Sanhedrin 90#^90a-17|Sanhedrin 90a:17]] (line 20)
+> - [[Chullin 4#^4b-15|Chullin 4b:15]] (line 13)
+
+> [!xref]- Ein Mishpat (102b)
+> - [Sefer Mitzvot Gadol, Positive Commandments 27](https://www.sefaria.org/Sefer_Mitzvot_Gadol,_Positive_Commandments.27) (line 3)
+> - [Tur, Orach Chayim 167](https://www.sefaria.org/Tur,_Orach_Chayim.167) (line 3)
+> - [Shulchan Arukh, Orach Chayim 167:1](https://www.sefaria.org/Shulchan_Arukh,_Orach_Chayim.167.1) (line 3)
+
+**he recovered, he then lectured** on that topic. His students **said to him: Did you not undertake that you will not lecture about them?** Rabbi Abbahu **said: Did they repent, that I will reconsider** and refrain from condemning them? ^102b-1
+
+One day **Rav Ashi ended** his lecture just before reaching the matter **of the three kings. He said** to his students: **Tomorrow we will begin** the lecture **with our colleagues** the three kings, who, although they were sinners, were Torah scholars like us. **Manasseh,** king of Judea, **came and appeared to him in his dream.** Manasseh **said** to him angrily: **You called us your colleague and the colleagues of your father?** How dare you characterize yourself as our equal? ^102b-2
+
+Manasseh said to him: I will ask you, **from where are you required to begin** cutting a loaf of bread when reciting the blessing: **Who brings forth** bread from the earth? Rav Ashi **said to him: I do not know.** Manasseh **said to him:** Even this, **from where you are required to begin** cutting a loaf of bread when reciting the blessing: **Who brings forth** bread from the earth, **you did not learn, and** yet **you call us your colleague?** Rav Ashi **said to** Manasseh: **Teach me** this *halakha* **and tomorrow I will lecture** and cite **it in your name during** my public **lecture** delivered on the Festival. Manasseh **said to him:** One cuts the loaf **from where it crusts** as a result of **baking.** ^102b-3
+
+Rav Ashi **said to him: Since you were so wise, what is the reason you engaged in idol worship?** Manasseh **said to him: Had you been there** at that time, **you would have taken** and lifted **the hem of your cloak and run after me** due to the fierce desire to engage in idol worship and due to the fact that it was a common faith. **The next day** Rav Ashi **said to the Sages** as a prelude to his lecture: **We will begin with** the treatment of **our teachers,** those kings who were greater than us in Torah knowledge but whose sins caused them to lose their share in the World-to-Come. ^102b-4
+
+§ The Gemara proceeds to discuss the second king enumerated in the mishna, Ahab. **Ahab [*Aḥav*],** although he was **a brother [*aḥ*] to Heaven,** he was **a father [*av*] for idol worship.** He was **a brother to Heaven, as it is written: “And a brother is born for adversity”** ([[Proverbs 17#^17-17|Proverbs 17:17]]), and in desperate times, he turned to Heaven. He was **a father for idolatry.** This is the highest level of attachment, **as it is written: “As a father has compassion for his children”** ([[Psalms 103#^103-13|Psalms 103:13]]). ^102b-5
+
+With regard to Ahab, it is written: **“And it came to pass, the most minor of his transgressions was his walking in the sins of Jeroboam, son of Nebat”** ([[I Kings 16#^16-31|I Kings 16:31]]). **Rabbi Yoḥanan says: The minor** sins **that Ahab performed** were **on par with the major** sins **that Jeroboam performed,** as the transgressions committed by Ahab were much more serious than those committed by Jeroboam. **And for what** reason **did the verse attribute** the sins of all the kings of Israel **to Jeroboam,** even though the sins of Ahab were more substantial? It is **due to** the fact **that he was first to** engage in **iniquity.** With regard to the verse: **“Their altars shall also be like droppings in the furrows of the field”** ([[Hosea 12#^12-12|Hosea 12:12]]), **Rabbi Yoḥanan says: You do not have even one furrow in Eretz Yisrael upon which Ahab did not place** an object of **idol worship and bow to it.** ^102b-6
+
+The Gemara asks: **And from where do we** derive **that** Ahab **does not enter into the World-to-Come?** The Gemara answers: It is derived **as it is written: “And I will excise from Ahab every man, and him that is shut up and him that is abandoned in Israel”** ([[I Kings 21#^21-21|I Kings 21:21]]). **“Him that is shut up”** indicates he will be excised **in this world,** while **“and him that is abandoned”** indicates he will be excised **in the World-to-Come.** ^102b-7
+
+**Rabbi Yoḥanan says: For what** virtue **was Omri,** king of Israel, who was Ahab’s father, **privileged** to ascend **to** the **monarchy?** It is **due to** the fact **that he added one city in Eretz Yisrael, as it is stated: “And he bought the hill of Samaria from Shemer for two talents of silver, and built on the hill, and called the name of the city that he built after Shemer, the owner of the hill, Samaria”** ([[I Kings 16#^16-24|I Kings 16:24]]). ^102b-8
+
+**Rabbi Yoḥanan says: For what** virtue **was Ahab privileged** to ascend **to** the **monarchy** and rule for **twenty-two years?** ^102b-9
+
+It is **due to** the fact **that he respected the Torah, which was given with twenty-two letters, as it is stated: “And he sent messengers to Ahab, king of Israel, into the city, and said to him: So says Ben-Hadad: Your silver and your gold are mine; your wives and also your good children, are mine.** And the king of Israel answered and said: It is according to your saying, my lord, O king: I am yours, and all that I have. And the messengers came again, and said: So speaks Ben-Hadad, saying: I sent to you, saying: You shall deliver me your silver, and your gold, and your wives, and your children. **Yet I will send my servants to you tomorrow about this time, and they shall search your house, and the houses of your servants, and it shall be, that they shall put in their hand all the delight of your eyes and take it…And he said to the messengers of Ben-Hadad, tell my lord the king: All that you did send for to your servant at the first I will do; but this thing I may not do”** ([[I Kings 20#^20-2|I Kings 20:2-6]], 9). ^102b-10
+
+The Gemara asks: **What** is **“the delight of your eyes”** that Ahab refused to give Ben-Hadad after agreeing to give him his wives and his gold? **Is it not a Torah scroll?** Ahab treated the Torah with deference. ^102b-11
+
+The Gemara suggests: **Perhaps** the delight of his eyes was an object of **idol worship.** The Gemara answers: That could **not enter your mind, as it is written** that Ahab consulted the Sages with regard to this matter: **“And all the elders and all the people said to him: Do not consent and heed not”** ([[I Kings 20#^20-8|I Kings 20:8]]). The elders in this verse are presumably the Sages. The Gemara continues: **But perhaps they were wicked elders,** who worshipped idols. **Isn’t it written: “And the saying pleased Absalom well and all the elders of Israel”** ([[II Samuel 17#^17-4|II Samuel 17:4]]), **and Rav Yosef says:** The elders of Israel mentioned in that verse were **wicked elders.** Perhaps the elders of Israel with whom Ahab consulted were also wicked. ^102b-12
+
+The Gemara rejects this: **There,** with regard to Absalom **it is not written: “And all the people,”** whereas **here,** with regard to Ahab, **it is written: “And all the people.” As it is impossible that there were not among them righteous** people, if the righteous people agreed, apparently, “the delight of your eyes” was sacred. **And it is written: “And I will leave seven thousand in Israel; all the knees that have not bent to the Baal, and every mouth that has not kissed it”** ([[I Kings 19#^19-18|I Kings 19:18]]), indicating that there were righteous people among them. ^102b-13
+
+**Rav Naḥman says: Ahab was balanced** in terms of the mitzvot and transgressions that he performed, **as it is stated: “And the Lord said, who shall entice Ahab that he may ascend and fall at Ramoth Gilead? And this one said in this manner, and that one said in that manner”** ([[I Kings 22#^22-20|I Kings 22:20]]), indicating that it is unclear whether or not he was a full-fledged transgressor. **Rav Yosef objects to this** statement: This is the person **about whom** the prophet **wrote: “But there was none like Ahab who devoted himself to do evil in the eyes of the Lord, whom Jezebel his wife had incited”** ([[I Kings 21#^21-25|I Kings 21:25]]). **And we learn** in a *baraita*: **Every day she would weigh gold shekels** equal to Ahab’s weight **for idol worship. And you say he was balanced? Rather, Ahab was generous with his money** and did not scrimp, **and since he** also **benefited Torah scholars with his property,** the heavenly court **expiated half** his sins **for him.** The result was a balance between mitzvot and transgressions. ^102b-14
+
+With regard to God’s search for a volunteer to entice Ahab, it is written: **“And there came forth a spirit, and stood before the Lord, and said: I will entice him. And the Lord said to him: With what? And he said: I will go out, and I will be a lying spirit in the mouth of all his prophets. And He said: You shall entice him, and also prevail; go out, and do so”** ([[I Kings 22#^22-21|I Kings 22:21–22]]). The Gemara asks: **What spirit** was that? **Rabbi Yoḥanan says:** It was **the spirit of Naboth the Jezreelite,** who sought to take revenge against Ahab. ^102b-15
+
+The Gemara asks: **What** is the meaning of the term **“go out”** that God instructed the spirit? **Ravina says** that it means: **Go out from** within **my partition** and do not return, **as so it is written: “He that speaks falsehoods shall not be established before My eyes”** ([[Psalms 101#^101-7|Psalms 101:7]]). The spirit that volunteered to lie may no longer be before God. **Rav Pappa says** that **this** is in accordance with the adage **that people say: One who avenges** due to **his zealotry destroys his** own **house.** The spirit of Naboth that sought revenge was expelled from before God. ^102b-16
+
+With regard to the verse: **“And Ahab made the *ashera*; and Ahab did more to provoke the Lord, God of Israel, to anger than all the kings of Israel that were before him”** ([[I Kings 16#^16-33|I Kings 16:33]]), **Rabbi Yoḥanan says:** It means **that he wrote on the doors of Samaria: Ahab denies the** existence of the **God of Israel, therefore he has no share in the God of Israel.** ^102b-17
+
+With regard to the verse: **“And he sought Ahaziah, and they apprehended him, for he was hiding in Samaria”** ([[II Chronicles 22#^22-9|II Chronicles 22:9]]), **Rabbi Levi says:** What would he do in hiding? **He would excise mentions** of God’s name in Torah scrolls **and write** the name of an object of **idol worship in their stead.** ^102b-18
+
+The Gemara proceeds to discuss the third king enumerated in the mishna. He was called **Manasseh [*Menashe*] because he forgot God [*nasha yah*]. Alternatively,** he was called **Manasseh since he caused the** kingdom of **Israel to forget [*hinshi*] their Father Who is in Heaven. And from where do we** derive **that** Manasseh **does not enter into the World-to-Come?** The Gemara answers: It is derived **as it is written: “Manasseh was twelve years old when he began to reign, and he reigned fifty-five years in Jerusalem…**And he did that which was evil in the sight of the Lord…**And he made an *ashera*, as did Ahab king of Israel”** ([[II Kings 21#^21-1|II Kings 21:1–3]]). **Just as Ahab has no share in the World-to-Come, so too, Manasseh has no share in the World-to-Come.** ^102b-19
+
+§ The mishna teaches that **Rabbi Yehuda says: Manasseh has a share in the World-to-Come, as it is stated: “And he prayed to him and He was entreated of him,** and heard his supplication and brought him back to Jerusalem unto his kingdom” ([[II Chronicles 33#^33-13|II Chronicles 33:13]]). **Rabbi Yoḥanan says: And both of them,** Rabbi Yehuda and the Rabbis, who disagree with regard to whether Manasseh has a share in the World-to-Come, **interpreted one** and the same **verse, as it is stated: “And I will make them into a horror for all the kingdoms of the earth, on account of Manasseh, son of Hezekiah”** ([[Jeremiah 15#^15-4|Jeremiah 15:4]]). One **Sage,** Rabbi Yehuda, **holds** that **“on account of Manasseh”** means that the Jewish people will be judged harshly, **as** ultimately, one as wicked as Manasseh **repented, and they did not do** so. **And** one **Sage,** the Rabbis, **holds** that ^102b-20

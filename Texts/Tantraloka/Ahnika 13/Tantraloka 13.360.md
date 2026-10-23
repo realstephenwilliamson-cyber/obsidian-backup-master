@@ -31,6 +31,9 @@ kāṃścitprati tathādikṣuste mohādvimatiṃ śritāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 343–344)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.360]]
+
 *Lead-in:* ननु यद्येते सर्वज्ञाः तदत्युत्कृष्टं शैवं ज्ञानमपहाय कस्मादेवमपकृष्टं ज्ञानमादिशन्? -- इत्याशङ्क्याह --
 
 > इत्थं विष्ण्वादयः शैवपरमार्थैकवेदिनः ।

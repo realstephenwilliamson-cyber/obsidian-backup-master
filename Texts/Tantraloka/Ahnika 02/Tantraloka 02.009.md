@@ -34,6 +34,9 @@ prakāśatvaṃ svaprakāśe tacca tatrānyataḥ katham || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 17–19)
+> ![[Tantraloka Dyczkowski v02 02 - Chapter Two, part 1#Viveka on 2.9]]
+
 *Lead-in:* अथ यद्यस्य क्रियादि न कारकम् अपि तु ज्ञापकम् इति उच्यते, तदपि न युज्यते, इत्याह—
 
 > ज्ञप्तावुपाय एव स्यादिति चेज्ज्ञप्तिरुच्यते ।

@@ -33,6 +33,11 @@ ubhayatrāpi karmādermāyāntarvartino yataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 284–285)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.254–256]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.256–257]]
+
 *Lead-in:* नन्वेवंविधस्यास्य शक्तिपातस्य को हेतुः, किं कर्म किमुतान्यत् किञ्चित्? -- इत्याशङ्क्याह --
 
 > उभयत्रापि कर्मादेर्मायान्तर्वर्तिनो यतः ॥

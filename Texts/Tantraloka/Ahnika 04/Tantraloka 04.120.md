@@ -36,6 +36,11 @@ yatkiñcinmānasāhlādi yatra kvāpīndriyasthitau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 140–142)
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.119–120]]
+>
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.120–121]]
+
 *Lead-in:* एव स्नानादेरकल्पितत्त्वमभिधायेतरेषामपि अर्चनाङ्गानां दर्शयति - -
 
 > यत्किञ्चिन्मानसाह्लादि यत्र क्वापीन्द्रियस्थितौ ॥

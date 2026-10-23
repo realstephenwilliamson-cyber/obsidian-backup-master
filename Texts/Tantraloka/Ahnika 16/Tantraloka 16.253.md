@@ -37,6 +37,11 @@ parāmarśasvabhāvetthaṃ mantraśaktirudāhṛtā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 110–111)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.252–253]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.253–254]]
+
 *Lead-in:* एवं चेदमनेनोक्तं स्यादित्याह--
 
 > परामर्शस्वभावेत्थं मन्त्रशक्तिरुदाहृता ॥

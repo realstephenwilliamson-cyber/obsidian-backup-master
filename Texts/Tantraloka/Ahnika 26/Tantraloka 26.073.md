@@ -34,6 +34,9 @@ prakaṭaṃ nedṛśaṃ kuryāllokānugrahavāñchayā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 397)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.73]]
+
 *Lead-in:* ननु अत्र दीक्षितादीक्षितविभागो नाम विकल्पः, स च निर्विकल्पानां ज्ञानिनां न न्यायय इति कथमविशेषेणैवैतदुक्तम् ?--इत्याशङ्क्य आह--
 
 > अतस्तत्त्वविदा ध्वस्तशङ्कातङ्कोऽपि पण्डितः ।

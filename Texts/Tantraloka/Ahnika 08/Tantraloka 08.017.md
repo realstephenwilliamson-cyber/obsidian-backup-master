@@ -36,6 +36,11 @@ yadyapyamuṣya nāthasya saṃvittyanatirekiṇaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 67–68)
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.16–17]]
+>
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.17–19]]
+
 *Lead-in:* ननु यदि नाम बोधात्मैव षड्विधोऽपि अयमध्वा, तद्बोधस्य देशाद्यनवच्छिन्नत्वात् कथमस्योर्ध्वादिव्यवस्था स्यात् ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 8.16: see [[Tantraloka 08.016#Viveka|8.16]].

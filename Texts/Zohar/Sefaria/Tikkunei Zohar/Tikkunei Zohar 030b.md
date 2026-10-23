@@ -260,7 +260,7 @@ and they do not accept grafting from any other species.
 [^1]: *kilayim*
 [^2]: *kenegdo*
 [^3]: *’ezer*
-[^4]: *BT* Yevamot 63a
+[^4]: *BT* [[Yevamot 63#63a|Yevamot 63a]]
 [^5]: *tov*
 [^6]: *tov*
 [^7]: *tov*
@@ -276,9 +276,9 @@ and they do not accept grafting from any other species.
 [^17]: *shleimah*
 [^18]: *matzah*
 [^19]: *perusah*
-[^20]: See *BT* Berakhot 52b
-[^21]: *BT* Ḥullin 105b
+[^20]: See *BT* [[Berakhot 52#52b|Berakhot 52b]]
+[^21]: *BT* [[Chullin 105#105b|Ḥullin 105b]]
 [^22]: *BT* Baba Metzi’a 59a
 [^23]: *badad*
 [^24]: *badad*
-[^25]: *BT*’Avodah Zarah 3b, Yevamot 24b.
+[^25]: *BT*’[[Avodah Zarah 3#3b|Avodah Zarah 3b]], [[Yevamot 24#24b|Yevamot 24b]].

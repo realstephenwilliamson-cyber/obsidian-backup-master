@@ -31,6 +31,9 @@ tatra prādhānyataḥ śrīmanmālokto vidhirucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 61–62)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.112–113]]
+
 > अथोच्यते शिवेनोक्तः पवित्रकविधिः स्फुटः ।
 > श्रीरत्नमालात्रिशिरःशास्त्रयोः सूचितः पुनः ॥
 > श्रीसिद्धाटनसद्भावमालिनीसारशासने ।

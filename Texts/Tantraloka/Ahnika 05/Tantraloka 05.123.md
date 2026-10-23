@@ -35,6 +35,9 @@ bhāsate durghaṭā śaktirasaṅkocavikāsinaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 163)
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.123]]
+
 *Lead-in:* न केवलमत्र सर्व एव देवतागण आस्ते यावत् पारमेश्वरी शक्तिरपि -- इत्याह --
 
 > अत्र भैरवनाथस्य ससङ्कोचविकासिका ।

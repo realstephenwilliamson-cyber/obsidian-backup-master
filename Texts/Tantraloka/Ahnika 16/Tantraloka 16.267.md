@@ -37,6 +37,11 @@ etadarthaṃ guroryatnāllakṣaṇe tatra tatra tat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 117–119)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.265–267]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.267–268]]
+
 *Lead-in:* अनेनैवाभिप्रायेण सर्वत्र शास्त्रे गुरोर्मन्त्रतन्त्रविशारदत्वमेव मुख्यं लक्षणमुक्तम्--इत्याह--
 
 > एतदर्थं गुरोर्यत्नाल्लक्षणे तत्र तत्र तत् ॥

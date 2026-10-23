@@ -33,6 +33,11 @@ aliases:
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 301–302)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.286–287]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.287–288]]
+
 *Lead-in:* एतदेव व्यतिरेकद्वारेण निदर्शयति --
 
 > शिवीभावमहासिद्धिस्पर्शवन्ध्ये तु कुत्रचित् ॥

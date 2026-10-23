@@ -31,6 +31,9 @@ mohastamo varaṇakaḥ prakāśābhāvayogataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 210–211)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.221–222]]
+
 > सुखं सत्त्वं प्रकाशत्वात् प्रकाशो ह्लाद उच्यते ॥
 > दुःखं रजः क्रियात्मत्वाद् क्रिया हि तदतत्क्रमः ।
 > मोहस्तमो वरणकः प्रकाशाभावयोगतः ॥

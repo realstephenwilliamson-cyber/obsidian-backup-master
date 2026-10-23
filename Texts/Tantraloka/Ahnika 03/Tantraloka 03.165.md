@@ -37,6 +37,11 @@ tata eva sakāre'sminsphuṭaṃ viśvaṃ prakāśate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 278–281)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.162–165]]
+>
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.165–166]]
+
 *Lead-in:* अत आह --
 
 > तत एव सकारेऽस्मिन्स्फुटं विश्वं प्रकाशते ॥

@@ -31,6 +31,9 @@ tatkṣaṇādvopabhogādvā dehapātācchivaṃ vrajet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 248–249)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.199–203]]
+
 > एवमस्यात्मनः काले कस्मिंश्चिद्योग्यतावशात् ॥
 > शैवी संबध्यते शक्तिः शान्ता मुक्तिफलप्रदा ।
 > तत्संबन्धात्ततः कश्चित्तत्क्षणादपवृज्यते ॥

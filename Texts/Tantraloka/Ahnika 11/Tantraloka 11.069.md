@@ -35,6 +35,9 @@ bālo vyutpādyate yena tatra saṅketamārgaṇāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 62–63)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.68–69]]
+
 > एतदेव व्यतिरेकद्वारेणाप्युपपादयति
 > अनया तु विना सर्वे सङ्केता बहुशः कृताः ॥
 > अविश्रान्ततया कुर्युरनवस्थां दुरुत्तराम् ।

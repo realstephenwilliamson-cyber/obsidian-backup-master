@@ -36,6 +36,11 @@ tathā pureṣvapītyevaṃ tadviśeṣeṇa noditam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 313–314)
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.87–88]]
+>
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.88–89]]
+
 *Lead-in:* नन्वेवं रात्रिदिनविभजने किं प्रमाणम् ? -- इत्याशङ्क्याह --
 
 > श्रीत्रैयम्बकसन्तानवितताम्बरभास्करः ॥

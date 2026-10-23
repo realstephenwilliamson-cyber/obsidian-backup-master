@@ -36,6 +36,11 @@ anayotkramyate śiṣyo balādevaikakaṃ kṣaṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 219–220)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.26–27]]
+>
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.27–29]]
+
 *Lead-in:* अत्र च ज्ञानादिसद्भावेऽपि ब्रह्मविद्याया एव प्राधान्यम्--इत्याह--
 
 Jayaratha comments on this verse together with 19.26: see [[Tantraloka 19.026#Viveka|19.26]].

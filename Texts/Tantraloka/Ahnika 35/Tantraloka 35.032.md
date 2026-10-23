@@ -31,5 +31,10 @@ ekaṃ prāṇitamevaṃ syāt trikaṃ sarveṣu śāstrataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 211–212)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 35.33–34.*
+>
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.33–34]]
+
 Jayaratha comments on this verse together with 35.34: see [[Tantraloka 35.034#Viveka|35.34]].
 

@@ -33,6 +33,11 @@ anena nayayogena yadāsattividūrate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 103–104)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.164–165]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.165–166]]
+
 *Lead-in:* एवं संविदोऽपि दूरमशुद्धम्--इत्याह--
 
 > अनेन नययोगेन यदासत्तिविदूरते ॥

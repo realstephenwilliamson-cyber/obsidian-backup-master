@@ -34,6 +34,9 @@ bījaṃ nirbījatāmeti svasūtikaraṇākṣamam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 234)
+> ![[Tantraloka Dyczkowski v09 11 - Chapter Twenty#Viveka on 20.2–4]]
+
 > त्रिकोणे वह्निसदने वह्निवर्णोज्ज्वलेऽभितः ।
 > वायव्यपुरनिर्धूते करे सव्ये सुजाज्वले ॥
 > बीजं किञ्चिद् गृहीत्वैतत्तथैव हृदयान्तरे ।

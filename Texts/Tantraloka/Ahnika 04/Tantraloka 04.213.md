@@ -36,6 +36,11 @@ nātra śuddhirna cāśuddhirna bhakṣyādivicāraṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 316–318)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 4.217–221.*
+>
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.217–221]]
+
 *Lead-in:* अत एव जीवन्मुक्तविषयतया भगवानपि एवमभ्यधात्, इत्याह -
 
 > अत्र नाथः समाचारं पटलेऽष्टादशेऽभ्यधात् ।

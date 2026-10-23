@@ -34,6 +34,9 @@ dhvanirūpamanicchaṃ tu dhyānadhāraṇavarjitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 257–266)
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.147]]
+
 > यत्तदक्षरमव्यक्तं कान्ताकण्ठे व्यवस्थितम् ।
 > ध्वनिरूपमनिच्छं तु ध्यानधारणवर्जितम् ॥
 > तत्र चित्तं समाधाय वशयेद्युगपज्जगत् ।

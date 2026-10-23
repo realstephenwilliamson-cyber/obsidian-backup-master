@@ -31,5 +31,8 @@ aśuddhavidyākalanādhvaṃsasaṃskārasaṅgatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 300–301)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.12–17]]
+
 Jayaratha comments on this verse together with 10.17: see [[Tantraloka 10.017#Viveka|10.17]].
 

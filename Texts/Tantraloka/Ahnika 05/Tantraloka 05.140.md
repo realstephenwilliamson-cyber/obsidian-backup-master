@@ -35,6 +35,9 @@ saṃvidaṃ spandayantyete neyuḥ saṃvidupāyatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 192)
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.140]]
+
 *Lead-in:* तदेवं लौकिकानां घटादीनां शब्दानामेवमुच्चारणात् स्मरणाद्वा यत्र संविदैकात्म्यावाप्तावुपायत्वं तत्र सृष्टिबीजादीनां का वार्ता ? -- इत्याह --
 
 > किं पुनः समयापेक्षां विना ये बीजपिण्डकाः ।

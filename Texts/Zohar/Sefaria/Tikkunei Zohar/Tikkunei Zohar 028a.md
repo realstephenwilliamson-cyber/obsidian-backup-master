@@ -289,20 +289,20 @@ to be for him... *an eternal Name*[^42] *...*
 [^12]: song
 [^13]: *brakhah*
 [^14]: *nishmat*
-[^15]: See *BT* Berakhot 10a
+[^15]: See *BT* [[Berakhot 10#10a|Berakhot 10a]]
 [^16]: Who
 [^17]: *MiY*
 [^18]: *whom*
 [^19]: Binah
 [^20]: ה
 [^21]: 5
-[^22]: *BT* Berakhot 61a and *Qohelet Rabbah* 1:36
+[^22]: *BT* [[Berakhot 61#61a|Berakhot 61a]] and *Qohelet Rabbah* 1:36
 [^23]: ה
 [^24]: *ruḥa*
 [^25]: ו
 [^26]: *ruaḥ*
 [^27]: *ruaḥ*
-[^28]: *BT* Berakhot 3b
+[^28]: *BT* [[Berakhot 3#3b|Berakhot 3b]]
 [^29]: י
 [^30]: ה־ה
 [^31]: ו

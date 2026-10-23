@@ -34,6 +34,9 @@ aśeṣaśaktipaṭalīlīlālāmpaṭyapāṭavāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 53–55)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.55–57]]
+
 > तथाहि चिद्विमर्शेन ग्रस्ता वाच्यदशा यदा ॥
 > शिवज्ञानक्रियायत्तमननत्राणतत्परा ।
 > अशेषशक्तिपटलीलीलालाम्पट्यपाटवात् ॥

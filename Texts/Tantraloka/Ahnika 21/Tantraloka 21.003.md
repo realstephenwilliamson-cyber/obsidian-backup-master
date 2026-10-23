@@ -36,6 +36,11 @@ tamārādhyeti vacanaṃ kṛpāhetūpalakṣaṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 245)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.2–3]]
+>
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.3]]
+
 *Lead-in:* इत्यादि सांनिध्यैकजीवितं कथमत्र सङ्गच्छताम् ?--इत्याशङ्क्याह- -
 
 > तमाराध्येति वचनं कृपाहेतूपलक्षणम् ॥

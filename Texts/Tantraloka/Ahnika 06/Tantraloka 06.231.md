@@ -37,6 +37,11 @@ ardhamātrā nava nava syuścaturṣu caturṣu yat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 438)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.230–231]]
+>
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.231–232]]
+
 *Lead-in:* एवमेतत्प्रसङ्गादभिधाय प्रकृतमेवानुसरति --
 
 > अर्धमात्रा नव नव स्युश्चतुर्षु चतुर्षु यत् ॥

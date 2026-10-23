@@ -35,6 +35,9 @@ pitṝṇāṃ tadahorātramityupakramya pṛṣṭhataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 361–362)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.136–137]]
+
 *Lead-in:* न केवलमेतद् गुरुभिरेवोक्तं यावदागमोऽप्येवमेव -- इत्याह --
 
 > श्रीमत्स्वच्छन्दशास्त्रे च तदेव मतमीक्ष्यते ।

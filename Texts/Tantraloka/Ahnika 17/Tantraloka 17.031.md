@@ -34,5 +34,8 @@ tataḥ svanāḍīmārgeṇa hṛdayaṃ prāpya vai śiśoḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 156–158)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.30–33]]
+
 Jayaratha comments on this verse together with 17.33: see [[Tantraloka 17.033#Viveka|17.33]].
 

@@ -36,6 +36,11 @@ pratihantīha māyīyaṃ vikalpaṃ bhedabhāvakam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 133–135)
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.113–114]]
+>
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.114–115]]
+
 *Lead-in:* तच्च परामृश्यभेदादनेकप्रकारम्, इत्याह --
 
 > शुद्धविद्यापरामर्शो यः स एव त्वनेकधा ॥

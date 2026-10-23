@@ -33,6 +33,11 @@ kiṃ tūttaraṃ śaktitayaiva tattvaṃ pūrvaṃ tu taddharmatayeti bhedaḥ 
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 283–284)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.312]]
+>
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.312 (2)]]
+
 *Lead-in:* एतदेवान्यत्रापि अतिदिशति --
 
 > एवं जलादेरपि शक्तितत्त्वपर्यन्तधाम्नो वपुरस्ति तादृक् ।

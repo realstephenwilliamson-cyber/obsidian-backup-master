@@ -37,6 +37,13 @@ antaḥsthaviśvābhinnaikabījāṃśavisisṛkṣutā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 185–187)
+> ![[Tantraloka Dyczkowski v02 06 - Chapter Three, part 3#Viveka on 3.82–83]]
+>
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.82–83 (continued)]]
+>
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.83–84]]
+
 *Lead-in:* एतदेव रहस्यप्रक्रियागर्भीकारेणापि सूत्रयति --
 
 > अन्तःस्थविश्वाभिन्नैकबीजांशविसिसृक्षुता ॥

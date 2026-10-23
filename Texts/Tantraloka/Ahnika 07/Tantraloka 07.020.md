@@ -34,6 +34,9 @@ tato'pi sūkṣmakuśalairardhārdhādiprakalpane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 9–10)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.19–21]]
+
 > क्रमेणेत्थमिदं चक्रं षट्कृत्वो द्विगुणं यदा ॥
 > ततोऽपि द्विगुणेऽष्टांशस्यार्धमध्यर्धमेककम् ।
 > ततोऽपि सूक्ष्मकुशलैरर्धार्धादिप्रकल्पने ॥

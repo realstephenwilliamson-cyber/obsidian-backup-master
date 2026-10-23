@@ -36,6 +36,11 @@ tasya hyetatprapūjyatvadhyeyatvādi yadullaset || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 150–151)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.19–20]]
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.20–21]]
+
 *Lead-in:* ननु यद्येवं तत्कथमात्मा ज्ञातव्यो मन्तव्यो निदिध्यासितव्यश्चेत्याद्युच्यते?--इत्याशङ्क्याह--
 
 > तस्य ह्येतत्प्रपूज्यत्वध्येयत्वादि यदुल्लसेत् ॥

@@ -33,6 +33,11 @@ tathāhi tisro devasya śaktayo varṇitāḥ purā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 293–296)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.6–7]]
+>
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.7–8]]
+
 *Lead-in:* नन्वस्मद्दर्शने नरशक्तिशिवात्मकमेव विश्वमिति सर्वत्रोद्धोष्यते, तत्कथमिह सिद्धान्तदर्शनादिसमुचितं प्रमातृभेदमवलम्ब्यैतदुक्तम् ? -- इत्याशङ्कां गर्भीकृत्यैतदुपपादयति --
 
 > तथाहि तिस्त्रो देवस्य शक्तयो वर्णिताः पुरा ॥

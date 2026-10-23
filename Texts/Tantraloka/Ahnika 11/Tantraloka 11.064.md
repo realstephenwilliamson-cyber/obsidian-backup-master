@@ -35,5 +35,8 @@ sṛṣṭāḥ svātmasahotthe'rthe dharāparyantabhāgini || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 58–59)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.63–65]]
+
 Jayaratha comments on this verse together with 11.65: see [[Tantraloka 11.065#Viveka|11.65]].
 

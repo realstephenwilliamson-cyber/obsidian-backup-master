@@ -31,6 +31,9 @@ rūpasāmānya evāndhaḥ pratipattiṃ prapadyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 238)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.252]]
+
 *Lead-in:* ननु यदि अन्धादीनामपि रूपादि भायात् तत् कृतं बुद्धिकर्मेन्द्रियैः ? -- इत्याशङ्क्याह --
 
 > किंतु सामान्यकरणबलाद्वेद्येऽपि तादृशि ।

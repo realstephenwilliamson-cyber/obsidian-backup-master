@@ -35,6 +35,11 @@ tasyāmavahito yogī kiṃ na vetti karoti vā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 422–425)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.206–207]]
+>
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.207–208]]
+
 *Lead-in:* अत एवात्रावहितस्य सर्वविषयज्ञत्वकर्तृत्वादि भवेत् -- इत्याह --
 
 > तस्यामवहितो योगी किं न वेत्ति करोति वा ॥

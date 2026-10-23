@@ -12,7 +12,7 @@ source: "Oxford University Press 2017 (2nd ed.; ISBN 978-0-19-046185-0); Stephen
 
 Text: [[NRSVue Matthew 04|NRSVue]] · [[Matthew 04|BSB and SBLGNT]] · Introduction: [[JANT Matthew - Introduction]]
 
-**[[NRSVue Matthew 04#^4-1|1]]:** *Led up by the Spirit*, suggests God planned the temptation (e.g., [[Isaiah 63#^63-14|Isa 63.14]]; [[Psalms 107#^107-7|Ps 107.7]]; also [[I Samuel 16#^16-13|1 Sam 16.13]]; [[I Kings 18#^18-12|1 Kings 18.12]]; [[II Kings 02#^2-16|2 Kings 2.16]]; [[Ezekiel 03#^3-14|Ezek 3.14]]). *Tempted*, *Jub.* 17.17 notes that Abraham endured tests of faith, including famine, kingly riches, and circumcision (see also *m. Avot* 5.5, which notes that Abraham endured ten trials). *Devil*, Gk “diabolos,” equivalent to Heb “satan,” “accuser” ([[Torah 40 - Balak#^22-2|Num 22.2]]; [[Zechariah 03#^3-1|Zech 3.1]]; [[Psalms 109#^109-6|Ps 109.6]]; [[Job 06#^6-1|Job 6.1]]; [[I Chronicles 21#^21-1|1 Chr 21.1]]; *b. Shabb*. 89b; see also “Supernatural Beings,” p. 682). ^4-1
+**[[NRSVue Matthew 04#^4-1|1]]:** *Led up by the Spirit*, suggests God planned the temptation (e.g., [[Isaiah 63#^63-14|Isa 63.14]]; [[Psalms 107#^107-7|Ps 107.7]]; also [[I Samuel 16#^16-13|1 Sam 16.13]]; [[I Kings 18#^18-12|1 Kings 18.12]]; [[II Kings 02#^2-16|2 Kings 2.16]]; [[Ezekiel 03#^3-14|Ezek 3.14]]). *Tempted*, *Jub.* 17.17 notes that Abraham endured tests of faith, including famine, kingly riches, and circumcision (see also *m. Avot* 5.5, which notes that Abraham endured ten trials). *Devil*, Gk “diabolos,” equivalent to Heb “satan,” “accuser” ([[Torah 40 - Balak#^22-2|Num 22.2]]; [[Zechariah 03#^3-1|Zech 3.1]]; [[Psalms 109#^109-6|Ps 109.6]]; [[Job 06#^6-1|Job 6.1]]; [[I Chronicles 21#^21-1|1 Chr 21.1]]; [[Shabbat 89#89b|*b. Shabb*. 89b]]; see also “Supernatural Beings,” p. 682). ^4-1
 
 **[[NRSVue Matthew 04#^4-2|2]]:** *He fasted*, Moses fasted while on Sinai ([[Torah 46 - Eikev#^9-9|Deut 9.9]]; see also [[Torah 18 - Mishpatim#^24-18|Ex 24.18]]). *Forty days and forty nights*, evoking Noah, Moses, the wilderness period, Elijah, etc. ([[Torah 02 - Noach#^7-12|Gen 7.12]]; [[Torah 18 - Mishpatim#^24-18|Ex 24.18]]; [[Torah 21 - Ki Tisa#^34-28|34.28]]; [[Torah 37 - Sh'lach#^13-25|Num 13.25]]; [[Torah 46 - Eikev#^8-2|Deut 8.2]]; [[I Kings 19#^19-8|1 Kings 19.8]]; [[Ezekiel 04#^4-6|Ezek 4.6]]; Jon 3.4). ^4-2
 
@@ -22,7 +22,7 @@ Text: [[NRSVue Matthew 04|NRSVue]] · [[Matthew 04|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 04#^4-6|6]]:** [[Psalms 091#^91-11|Ps 91.11–12]]. ^4-6
 
-**[[NRSVue Matthew 04#^4-7|7]]:** *Put the Lord your God to the test*, challenging God’s authority, [[Torah 45 - Vaetchanan#^6-16|Deut 6.16]] (see also [[Torah 37 - Sh'lach#^14-22|Num 14.22]]; [[Isaiah 07#^7-12|Isa 7.12]]; [[Psalms 095#^95-9|Ps 95.9]]; [[LXX Sirach 03#^3-26|Sir 3.26]]; *b. Shabb*. 32a). ^4-7
+**[[NRSVue Matthew 04#^4-7|7]]:** *Put the Lord your God to the test*, challenging God’s authority, [[Torah 45 - Vaetchanan#^6-16|Deut 6.16]] (see also [[Torah 37 - Sh'lach#^14-22|Num 14.22]]; [[Isaiah 07#^7-12|Isa 7.12]]; [[Psalms 095#^95-9|Ps 95.9]]; [[LXX Sirach 03#^3-26|Sir 3.26]]; [[Shabbat 32#32a|*b. Shabb*. 32a]]). ^4-7
 
 **[[NRSVue Matthew 04#^4-8|8]]:** *All the kingdoms*, the offer presumes that the world is in Satanic control; see 20.28. ^4-8
 
@@ -32,7 +32,7 @@ Text: [[NRSVue Matthew 04|NRSVue]] · [[Matthew 04|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 04#^4-12|4.12–17]]:** **Jesus’ public activity begins** ([[Mark 01#^1-14|Mk 1.14–15]]; [[Luke 04#^4-14|Lk 4.14–15]]; [[John 01#^1-35|Jn 1.35–51]]). ^4-12
 
-**[[NRSVue Matthew 04#^4-12|12]]:** *Arrested*, by Herod Antipas (see 14.3). *Withdrew to Galilee*, far north of the Dead Sea, Jesus’ home and a future center of rabbinic Judaism (*t. Maks.* 1.3; *b. Eruv.* 29a; *b. Sot.* 45a; *b. Qidd.* 20a; *b. Arak.* 30b). ^4-12-2
+**[[NRSVue Matthew 04#^4-12|12]]:** *Arrested*, by Herod Antipas (see 14.3). *Withdrew to Galilee*, far north of the Dead Sea, Jesus’ home and a future center of rabbinic Judaism (*t. Maks.* 1.3; [[Eruvin 29#29a|*b. Eruv.* 29a]]; [[Sotah 45#45a|*b. Sot.* 45a]]; [[Kiddushin 20#20a|*b. Qidd.* 20a]]; [[Arakhin 30#30b|*b. Arak.* 30b]]). ^4-12-2
 
 **[[NRSVue Matthew 04#^4-13|13]]:** *Capernaum,* town on the northwestern shore of the Sea of Galilee. ^4-13
 

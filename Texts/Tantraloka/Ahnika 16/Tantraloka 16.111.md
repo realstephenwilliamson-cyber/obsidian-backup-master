@@ -34,6 +34,9 @@ dvāsaptatirdaśa dve ca dehasthaṃ śiraso'ntataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 53–54)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.110–112]]
+
 > उक्तं च त्रिशिरस्तन्त्रे स्वाधारस्थं यथास्थितम् ॥
 > द्वादशांगुलमुत्थानं देहातीतं समं ततः ।
 > द्वासप्ततिर्दश द्वे च देहस्थं शिरसोऽन्ततः ॥

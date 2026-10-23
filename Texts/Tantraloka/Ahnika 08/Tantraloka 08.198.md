@@ -37,6 +37,11 @@ vairabhadrordhvataḥ koṭirviṣkambhādvistṛtaṃ tridhā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 219–221)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 8.198–199.*
+>
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.198–199]]
+
 > ततः कोट्या वीरभद्रो युगान्ताग्निसमप्रभः ॥
 > विजयाख्यं पुरं चास्य ये स्मरन्तो महेश्वरम् ।
 > जलेषु मरुषु चाग्नौ शिरश्छेदेन वा मृताः ॥

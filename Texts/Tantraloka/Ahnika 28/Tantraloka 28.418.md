@@ -31,6 +31,9 @@ pratiṣṭhitasya tūrāderdarśane'nadhikāriṇā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 192–194)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.417–419]]
+
 > यत्स्वयं शिवहस्ताख्ये विधौ सञ्चोदितं पुरा ।
 > शतं जप्त्वास्य चास्त्रस्य मुच्यते स्त्रीवधादृते ॥
 > शक्तिनाशान्महादोषो नरकं शाश्वतं प्रिये ।

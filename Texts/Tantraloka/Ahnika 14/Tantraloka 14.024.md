@@ -31,6 +31,9 @@ iti pañcasu kartṛtvaṃ śivatvaṃ saṃvidātmanaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 357)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.24]]
+
 *Lead-in:* प्रागुक्तमेव प्रमेयं संचिनोति --
 
 > इत्थं सृष्टिस्थितिध्वंसतिरोभावमनुग्रहः ।

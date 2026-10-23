@@ -31,5 +31,8 @@ sā ṣaḍaśreṇa kandākhye sthitā ṣaḍdevatātmikā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 81)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.30–32]]
+
 Jayaratha comments on this verse together with 31.32: see [[Tantraloka 31.032#Viveka|31.32]].
 

@@ -35,6 +35,9 @@ kurvantyapi jñeyakalākāluṣyādvindurūpiṇī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 215–217)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.110]]
+
 *Lead-in:* तदेवं क्रियाशक्तिपर्यन्तेन वैचित्र्येण परिस्फुरन्त्या अपि परस्याः संविदः स्वरूपविप्रलोपो न जातः, इत्येव द्योतयितुं बिन्दुस्वरूपं दर्शयति --
 
 > अत्रानुत्तरशक्तिः सा स्वं वपुः प्रकटस्थितम् ।

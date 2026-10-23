@@ -41,7 +41,7 @@ Text: [[NRSVue Matthew 27|NRSVue]] · [[Matthew 27|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 27#^27-15|15]]:** *Release a prisoner*, Rome sometimes released prisoners but not those “plainly worthy of death” (Josephus, *Ant*. 20.215; cf. *m. Pesah.* 8.6). ^27-15
 
-**[[NRSVue Matthew 27#^27-16|16]]:** See [[Mark 15#^15-7|Mk 15.7]]; [[Luke 23#^23-25|Lk 23.25]]. Rome would not release a *notorious prisoner. Jesus Barabbas*, Aramaic, lit., “son of \[the/a\] father.” Some early manuscripts lack “Jesus.” The name “Barabbas” appears in rabbinic literature, in particular, an Abba bar Abba (“father son of the father”), the father of a famous scholar named Samuel; see *b. Ber*. 18b. The names make a theological point: the innocent “Jesus ‘son of the father’” pays the ransom for his guilty counterpart. ^27-16
+**[[NRSVue Matthew 27#^27-16|16]]:** See [[Mark 15#^15-7|Mk 15.7]]; [[Luke 23#^23-25|Lk 23.25]]. Rome would not release a *notorious prisoner. Jesus Barabbas*, Aramaic, lit., “son of \[the/a\] father.” Some early manuscripts lack “Jesus.” The name “Barabbas” appears in rabbinic literature, in particular, an Abba bar Abba (“father son of the father”), the father of a famous scholar named Samuel; see [[Berakhot 18#18b|*b. Ber*. 18b]]. The names make a theological point: the innocent “Jesus ‘son of the father’” pays the ransom for his guilty counterpart. ^27-16
 
 **[[NRSVue Matthew 27#^27-19|19–20]]:** *His wife*, mentioned only by Matthew (see *Acts Pil*. 2.1). Her *dream* recollects Joseph (Mt 1**–**2). ^27-19
 
@@ -65,7 +65,7 @@ Text: [[NRSVue Matthew 27|NRSVue]] · [[Matthew 27|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 27#^27-33|33]]:** *Golgotha,* Gk transliteration of the Aram “skull.” The reason for the name is unclear. It could refer to the shape of the hill. ^27-33
 
-**[[NRSVue Matthew 27#^27-34|34]]:** *Offered him wine*, to dull the pain ([[Proverbs 31#^31-6|Prov 31.6]]; *b. Sanh*. 43a; see also [[Mark 15#^15-23|Mk 15.23]]). *He would not drink it*, see 26.29. ^27-34
+**[[NRSVue Matthew 27#^27-34|34]]:** *Offered him wine*, to dull the pain ([[Proverbs 31#^31-6|Prov 31.6]]; [[Sanhedrin 43#43a|*b. Sanh*. 43a]]; see also [[Mark 15#^15-23|Mk 15.23]]). *He would not drink it*, see 26.29. ^27-34
 
 **[[NRSVue Matthew 27#^27-35|35]]:** *Divided his clothes*, [[Psalms 022#^22-19|Ps 22.18]]. ^27-35
 
@@ -97,7 +97,7 @@ Text: [[NRSVue Matthew 27|NRSVue]] · [[Matthew 27|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 27#^27-57|57–61]]:** Jesus’ entombment ([[Mark 15#^15-42|Mk 15.42–47]]; [[Luke 23#^23-50|Lk 23.50–56]]; [[John 19#^19-38|Jn 19.38–42]]). ^27-57
 
-**[[NRSVue Matthew 27#^27-57|57–58]]:** *When it was evening*, burials were not permitted on the Sabbath (*m. Shabb*. 23.5; see also [[John 19#^19-31|Jn 19.31]]). Jewish law requires that the deceased be buried quickly ([[Torah 49 - Ki Teitzei#^21-22|Deut 21.22–23]]; see also [[LXX Tobit 01#^1-17|Tob 1.17–18]]; [[LXX Tobit 02#^2-3|2.3–7]]; *m. Ber*. 3.1; *b. Ber*. 14b). See “The Burial of Jesus,” p. 677. No mention is made of what happens to the other crucified men. *Arimathea*, Judean town of uncertain location. *Rich*, see [[Isaiah 53#^53-9|Isa 53.9]]. Later Christian traditions, perhaps originating with the English historian William of Malmesbury in the twelfth century, have Joseph conducting missionary work in Britain. ^27-57-2
+**[[NRSVue Matthew 27#^27-57|57–58]]:** *When it was evening*, burials were not permitted on the Sabbath (*m. Shabb*. 23.5; see also [[John 19#^19-31|Jn 19.31]]). Jewish law requires that the deceased be buried quickly ([[Torah 49 - Ki Teitzei#^21-22|Deut 21.22–23]]; see also [[LXX Tobit 01#^1-17|Tob 1.17–18]]; [[LXX Tobit 02#^2-3|2.3–7]]; *m. Ber*. 3.1; [[Berakhot 14#14b|*b. Ber*. 14b]]). See “The Burial of Jesus,” p. 677. No mention is made of what happens to the other crucified men. *Arimathea*, Judean town of uncertain location. *Rich*, see [[Isaiah 53#^53-9|Isa 53.9]]. Later Christian traditions, perhaps originating with the English historian William of Malmesbury in the twelfth century, have Joseph conducting missionary work in Britain. ^27-57-2
 
 **[[NRSVue Matthew 27#^27-61|61]]:** The wife of Zebedee is not mentioned as going to the tomb. ^27-61
 

@@ -36,6 +36,11 @@ tasmāddevoktimāśritya paśūndadyādbahūniti || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 28–30)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.59–62]]
+>
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.62]]
+
 *Lead-in:* इति ॥ एतदेवोपसंहरति--
 
 > तस्माद्देवोक्तिमाश्रित्य पशून्दद्याद्बहूनिति ॥

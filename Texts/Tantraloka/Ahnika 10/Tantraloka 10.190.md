@@ -33,6 +33,11 @@ tṛtīyaṃ kṣaṇamārabhya kṣaṇaṣaṭkaṃ tu yatsthitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 411–413)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.188–190]]
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.190–191]]
+
 *Lead-in:* एवमवशिष्टं तुटिद्वादशकं मन्त्रमहेश्वरतच्छक्त्यादिरूपतया विभजति --
 
 > तृतीयं क्षणमारभ्य क्षणष् ।ट्कं तु यत्स्थितम् ॥

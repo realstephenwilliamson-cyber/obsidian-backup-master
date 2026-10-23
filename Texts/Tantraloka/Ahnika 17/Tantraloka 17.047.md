@@ -34,5 +34,10 @@ teṣu karmapadātpūrvaṃ dharātattvapadaṃ vadet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 163)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 17.50–51.*
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.50–51]]
+
 Jayaratha comments on this verse together with 17.51: see [[Tantraloka 17.051#Viveka|17.51]].
 

@@ -36,6 +36,11 @@ saṃbodharūpe tattasmin kathaṃ saṃbodhanā bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 150–151)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.20–21]]
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.21–22]]
+
 *Lead-in:* अत एव पूज्यत्वादेरमुख्यत्वात् नात्राह्वानाद्युपयोगः?--इत्याह--
 
 > संबोधरूपे तत्तस्मिन् कथं संबोधना भवेत् ॥

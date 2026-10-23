@@ -31,6 +31,9 @@ vivekalābhe nikhilasūtidṛgyadi sāpi kim || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 146–147)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.38–39]]
+
 *Lead-in:* तदेवाह -
 
 Jayaratha comments on this verse together with 13.39: see [[Tantraloka 13.039#Viveka|13.39]].

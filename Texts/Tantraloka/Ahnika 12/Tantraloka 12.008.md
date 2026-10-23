@@ -34,6 +34,9 @@ yadvā kiñcit kvacitpaśyettatra tanmayatāṃ vrajet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 103)
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.8]]
+
 *Lead-in:* न केवलं देहादावेवंभावनेनैतत्स्याद्यावद् बहिरपि, -- इत्याह -
 
 > इत्थं घटं पटं लिङ्गं स्थण्डिलं पुस्तकं जलम् ।

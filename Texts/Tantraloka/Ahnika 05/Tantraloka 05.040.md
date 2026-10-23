@@ -34,6 +34,9 @@ iti māṅgalaśāstre tu śrīśrīkaṇṭho nyarūpayat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 37–38)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.40]]
+
 *Lead-in:* नन्वत्र किं प्रमाणम् ? इत्याशङ्क्याह --
 
 > शक्तयोऽस्य जगत् कृत्स्नं शक्तिमांस्तु महेश्वरः ।

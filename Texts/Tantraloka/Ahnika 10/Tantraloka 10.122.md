@@ -33,6 +33,11 @@ nanvekarūpatāyuktaḥ śivastadvaśato bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 372–373)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.122]]
+>
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.122–123]]
+
 *Lead-in:* नन्वत्र "शिवो न भिद्यते"इति भेदनिषेध एवोक्तो न तु तस्यैव भूमिकान्तरप्राप्त्या भेदः? -- इत्याशङ्क्याह --
 
 > साक्षात्पदेनायमर्थः समस्तः प्रस्फुटीकृतः ।

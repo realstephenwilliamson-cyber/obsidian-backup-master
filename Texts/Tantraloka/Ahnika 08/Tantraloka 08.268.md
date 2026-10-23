@@ -35,6 +35,9 @@ graharūpiṇyā śaktyā prābhvyādhiṣṭhāni bhūtāni || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 276)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.268]]
+
 *Lead-in:* ननु एभ्योऽप्यूर्ध्वमवस्थानेन अस्य किं स्यात्? -- इत्याशङ्क्याह --
 
 > येनोमागुहनीलब्रह्मऋभुक्षकृताकृतादिभुवनेषु ।

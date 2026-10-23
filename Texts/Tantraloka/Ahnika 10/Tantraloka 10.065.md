@@ -31,6 +31,9 @@ na kañcitprati nīlo'sau nīlo vā yaṃ prati sthitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 336–337)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.64–66]]
+
 > नहि कालाग्निरुद्रीयकायावगतनीलिमा ॥
 > तव नीलः किं नु पीतो मैवं भून्नतु नीलकः ।
 > न कञ्चित्प्रति नीलोऽसौ नीलो वा यं प्रति स्थितः ॥

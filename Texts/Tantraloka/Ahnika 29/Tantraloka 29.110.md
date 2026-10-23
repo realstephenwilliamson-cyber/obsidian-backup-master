@@ -33,6 +33,11 @@ uktaṃ ca triśirastantre vimalāsanagocaraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 303–305)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.109–110]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.110–111]]
+
 *Lead-in:* ननु अनुचक्रतर्पणात् कथं मुख्यचक्रैकात्म्यं स्यात् ?--इत्याशङ्कां गर्भीकृत्य आगममेव अत्र संवादयति--
 
 > उक्तं च त्रिशिरस्तन्त्रे विमलासनगोचरः ॥

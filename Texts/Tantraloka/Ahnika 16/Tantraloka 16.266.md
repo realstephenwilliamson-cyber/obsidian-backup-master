@@ -35,6 +35,9 @@ yaccāpi bījapiṇḍāderuktaṃ prāgbodharūpakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 117–119)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.265–267]]
+
 > तेन तन्मन्त्रशब्दार्थविशेषोत्थं विकल्पनम् ॥
 > शब्दान्तरोत्थाद्भेदेन पश्यता मन्त्र आदृतः ।
 > यच्चापि बीजपिण्डादेरुक्तं प्राग्बोधरूपकम् ॥

@@ -31,6 +31,9 @@ tatkasmātkarmaṇaḥ kṣaiṇyāttatkuto'jñānahānitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 135–136)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.20–21]]
+
 *Lead-in:* तदाह -
 
 Jayaratha comments on this verse together with 13.21: see [[Tantraloka 13.021#Viveka|13.21]].

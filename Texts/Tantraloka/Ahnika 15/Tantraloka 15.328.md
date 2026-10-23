@@ -33,6 +33,11 @@ vastuto viśvarūpāstā devyo bodhātmikā yataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 198–202)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.326–328]]
+>
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.328–330]]
+
 *Lead-in:* ननु एवमासां कृत्यभेदानुसारेण परिकल्पयेदिति कस्मादुक्तम्?-- इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 15.327: see [[Tantraloka 15.327#Viveka|15.327]].

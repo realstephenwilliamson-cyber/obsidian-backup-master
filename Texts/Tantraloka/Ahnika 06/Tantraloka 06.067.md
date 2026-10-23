@@ -36,6 +36,11 @@ siddhirdavīyasī mokṣo'bhicāraḥ pāralaukikī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 279–288)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.66–67]]
+>
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.67–68]]
+
 *Lead-in:* अत्रैव प्रथमार्धप्रहरादारभ्य क्रमेण फलं निर्दिशति --
 
 > सिद्धिर्दवीयसी मोक्षोऽभिचारः पारलौकिकी ॥

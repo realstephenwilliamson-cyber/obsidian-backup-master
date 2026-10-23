@@ -34,6 +34,9 @@ uktaṃ śrītrikasūtre ca jāyate yajanaṃ prati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 109)
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.15–16]]
+
 *Lead-in:* नन्वत्र कस्मादुपेक्षणीयत्वम् ? -- इत्याशङ्क्याह --
 
 > कल्पनाशुद्धिसन्ध्यादेर्नोपयोगोऽत्र कश्चन ।

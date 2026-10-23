@@ -31,6 +31,9 @@ anyonyāsaṅkīrṇāstvarātrayaṃ galitabhedikāstu tataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 211–212)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.342–343]]
+
 > इह किल दृक्कर्मेच्छाः शिव उक्तास्तास्तु वेद्यखण्डनके ।
 > स्थूले सूक्ष्मे क्रमशः सकलप्रलयाकलौ भवतः ॥
 > शुद्धा एव तु सुप्ता ज्ञानाकलतां गताः प्रबुद्धास्तु ।

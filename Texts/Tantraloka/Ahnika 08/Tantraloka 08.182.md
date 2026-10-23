@@ -35,5 +35,8 @@ tadvatte śivarudrā brahmāṇḍamasaṃkhyaparivārāḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 206–207)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.181–183]]
+
 Jayaratha comments on this verse together with 8.183: see [[Tantraloka 08.183#Viveka|8.183]].
 

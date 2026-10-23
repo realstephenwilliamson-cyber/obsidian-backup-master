@@ -33,6 +33,11 @@ roddhryāśca śaktermādhyasthyatāratamyavaśakramāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 155–156)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.50–51]]
+>
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.51–52]]
+
 *Lead-in:* ननु यद्येवं तत्कथं शुद्धात्मनामपि पूर्णनिजज्ञानक्रियासमावेशाविशेषात् स्वरुपाभिव्यक्तावन्योन्यस्य वैचित्र्यं स्यात्? -- इत्याशङ्क्याह --
 
 > रोद्ध्र्याश्च शक्तेर्माध्यस्थ्यतारतम्यवशक्रमात् ॥

@@ -34,6 +34,9 @@ manuṣyadehamapyeṣa tadaivāśu vimuñcati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 266)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.34]]
+
 *Lead-in:* यद्वा गुरुबलात्तु मनुष्यदेहमपि एष त्यजेदेव--इत्याह--
 
 > योगमन्त्रक्रियाज्ञानभूयोबलवशात्पुनः ।

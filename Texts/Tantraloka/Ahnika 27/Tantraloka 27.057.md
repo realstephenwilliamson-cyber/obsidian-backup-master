@@ -31,6 +31,9 @@ adhvā cehāsane proktastatsarvatrārcayedidam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 423–424)
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.56–57]]
+
 > शुद्धाशुद्धाध्वजाः सर्वे मन्त्राः सर्वः शिवान्तकः ॥
 > अध्वा चेहासने प्रोक्तस्तत्सर्वत्रार्चयेदिदम् ।
 > आवाहनविसृष्टी तु तत्र प्राग्वत्समाचरेत् ॥

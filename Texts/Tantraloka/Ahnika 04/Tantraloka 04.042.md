@@ -36,6 +36,11 @@ yasya svato'yaṃ sattarkaḥ sarvatraivādhikāravān || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 53–57)
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.41–42]]
+>
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.42–43]]
+
 *Lead-in:* तेन यस्य स्वत एव परामर्श उद्भवेत् स एव सर्वत्र अधिकृतः, इत्याह - -
 
 > यस्य स्वतोऽयं सत्तर्कः सर्वत्रैवाधिकारवान् ॥

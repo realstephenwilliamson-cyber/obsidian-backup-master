@@ -33,6 +33,11 @@ ataḥ suśivaparyantā siddhā bhuvanapaddhatiḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 141–143)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.161–163]]
+>
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.163–164]]
+
 *Lead-in:* सङ्कल्प्यमित्यागमतः, तथेति -- देहित्वेन, चेतन इति -- चेतनाधिष्ठितः, तादृशदेहवदिति --
 
 > चेतनाधिष्ठितबाह्यदेहयुक्तमित्यर्थः ।

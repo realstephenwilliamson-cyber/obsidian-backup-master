@@ -36,6 +36,11 @@ niyamānupraveśena tādātmyapratipattaye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 357–364)
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.256–257]]
+>
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.257–258]]
+
 *Lead-in:* इदानीं जटाभस्मादिसंग्रहादि आचष्टे --
 
 > नियमानुप्रवेशेन तादात्म्यप्रतिपत्तये ॥

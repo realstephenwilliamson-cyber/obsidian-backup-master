@@ -34,6 +34,11 @@ triśūlabhūmiṃ krāntvāto nāḍitritayasaṅgatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 58–62)
+> *No commentary follows this verse directly; shown here is the next, after Dyczkowski's verse 54cd-56ab.*
+>
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on Dyczkowski's verse 54cd-56ab]]
+
 > प्राणदण्डप्रयोगेन पूर्वापरसमीकृतेः ॥
 > चतुष्किकाम्बुजालम्बिलम्बिकासौधमाश्रयेत् ।
 > त्रिशूलभूमिं क्रान्त्वातो नाडित्रितयसङ्गताम् ॥

@@ -36,6 +36,11 @@ dvādaśāntāvadhāvasmindehe yadyapi sarvataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 258–260)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.45–46]]
+>
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.46–47]]
+
 *Lead-in:* ननु प्राणस्य सर्वशरीव्यापकत्वेनावश्यमवस्थानमस्ति, अन्यथा हि कानिचिदङ्गानि स्तम्भादिवत्स्तब्धान्येव भवेयुः, तदस्य श्रीस्वच्छन्दशास्त्रादौ हृदयादारभ्यैव चारः कस्मादुक्त ? -- इत्याशङ्क्याह -
 
 > द्वादशान्तावधावस्मिन्देहे यद्यपि सर्वतः ॥

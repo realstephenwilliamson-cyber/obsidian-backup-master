@@ -31,5 +31,8 @@ prakāśyaṃ varuṇastacca cāñcalyādvāyurucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 135–136)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.222–225]]
+
 Jayaratha comments on this verse together with 15.224: see [[Tantraloka 15.224#Viveka|15.224]].
 

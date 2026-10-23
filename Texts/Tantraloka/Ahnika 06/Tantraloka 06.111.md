@@ -35,6 +35,9 @@ tuṭyaḥ pañcadaśaitāḥ syustithayaḥ sitapakṣagāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 338–339)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.110–111]]
+
 > एवं प्राणे विशति चित्सूर्य इन्दुं सुधामयम् ।
 > एकैकध्येन बोधांशुकलया परिपूरयेत् ॥
 > क्रमसंपूरणाशालिशशाङ्कामृतसुन्दराः ।

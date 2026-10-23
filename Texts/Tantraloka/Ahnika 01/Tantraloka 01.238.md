@@ -38,6 +38,9 @@ iti te mūlataḥ kṣiptā yattvatrānyaiḥ samarthitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 412–413)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.237–238]]
+
 > तेनात्र ये चोदयन्ति ननु ज्ञानाद्विमुक्तता ।
 > दीक्षादिका क्रिया चेयं सा कथं मुक्तये भवेत् ॥
 > ज्ञानात्मा सेति चेज्ज्ञानं यत्रस्थं तं विमोचयेत् ।

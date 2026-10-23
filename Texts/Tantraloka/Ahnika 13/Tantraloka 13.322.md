@@ -33,6 +33,11 @@ svātmīyādharasaṃsparśātprāṇayannadharāḥ kriyāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 324–325)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.321–322]]
+>
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.322–323]]
+
 *Lead-in:* नन्वेवमूर्ध्वस्थोऽपि पूर्णज्ञानो गुरुरधःस्थे वैष्णवादौ कथङ्कारमधिकारं कुर्यात्? -- इत्याशङ्क्याह --
 
 > स्वात्मीयाधरसंस्पर्शात्प्राणयन्नधराः क्रियाः ॥

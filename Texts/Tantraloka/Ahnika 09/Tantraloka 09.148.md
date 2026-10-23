@@ -31,6 +31,9 @@ bhogecchorupakārārthamādyo mantramaheśvaraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 127)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.147–149]]
+
 *Lead-in:* तदेव पठति -
 
 > ईश्वरेच्छावशादस्य भोगेच्छा संप्रजायते ।

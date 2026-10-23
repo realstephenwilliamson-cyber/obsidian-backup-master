@@ -35,6 +35,9 @@ icchādibhirabhikhyābhirgurubhiḥ prakaṭīkṛtam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 243–244)
+> ![[Tantraloka Dyczkowski v01 07 - Chapter One, part 6#Viveka on 1.93–94]]
+
 > निरावरणमाभाति भात्यावृतनिजात्मकः ।
 > आवृतानावृतो भाति बहुधा भेदसङ्गमात् ॥
 > इति शक्तित्रयं नाथे स्वातन्त्र्यापरनामकम् ।

@@ -31,6 +31,9 @@ kalaivānantanāthasya śaktyā saṃpreritā jaḍā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 155)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.181]]
+
 *Lead-in:* एवमावारकतया मलेन संच्छन्नचैतन्यस्य अणोः किञ्चिञ्ज्ञत्वकर्तृत्वसमुद्बलननिमित्तेन केनचिद्भाव्यं तच्च न तावत् कर्म, तस्य भोगोत्पत्तावेव परिदृष्टशक्तित्वात् -- अतश्च पारिशेष्यात् कलैवेत्याह -
 
 > अतः संच्छन्नचैतन्यसमुद्बलनकार्यकृत् ।

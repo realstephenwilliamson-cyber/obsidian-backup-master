@@ -33,6 +33,11 @@ tathāhi nibhṛtaścauraścaitravedyamiti sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 331–333)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.57–58]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.58–60]]
+
 *Lead-in:* एतदेव दृष्टान्तदृशा दर्शयति --
 
 Jayaratha comments on this verse together with 10.57: see [[Tantraloka 10.057#Viveka|10.57]].

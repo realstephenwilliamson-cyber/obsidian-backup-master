@@ -34,6 +34,9 @@ svacchasyaivaiṣa kasyāpi mahimeti kṛpālunā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 92–97)
+> ![[Tantraloka Dyczkowski v02 04 - Chapter Three, part 1#Viveka on 3.21–22]]
+
 > एतच्च देवदेवेन दर्शितं बोधवृद्धये ।
 > मूढानां वस्तु भवति ततोऽप्यन्यत्र नाप्यलम् ॥
 > प्रतीघाति स्वतन्त्रं नो न स्थाययस्थायि चापि न ।

@@ -45,6 +45,6 @@ Pritzker translation (Matt): [[Zohar 8.08 - Parashat Naso#^z3-126b|Parashat Naso
 
 **Nasso 9:122** Indeed, what a number of ordeals man has to undergo in passing out of this world! First comes the ordeal from on high, at the moment when the spirit leaves the body, just mentioned. Then comes his ordeal when his actions and utterances precede him and make proclamation concerning him. Another ordeal is when he enters the tomb. One more is in the tomb itself. He afterwards undergoes an ordeal at the hands of the worms. There is then the ordeal of Gehinnom. And finally there is the ordeal undergone by the spirit when it roams to and fro through the world, finding no resting-place until its tasks are accomplished. Man has thus to pass through seven ordeals. Hence it behoves man while in this world to fear his Master and minutely to examine daily his works and to repent of any misdeeds before his Maker. ^nasso-9-122
 
-[^1]: v. T. B. Hagigah, 5b.
+[^1]: v. T. B. [[Chagigah 5#5b|Hagigah, 5b]].
 [^2]: i.e. the Angel of Death, v. T. B. Abodah Zaroh, 20b.
 [^3]: *Ruhoth-* winds or spirits.

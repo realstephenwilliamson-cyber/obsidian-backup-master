@@ -31,6 +31,9 @@ saṃnidhānātiriktaṃ ca na kiñcitkurute malaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 163–164)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.62]]
+
 *Lead-in:* द्वितीयमपि पक्षं प्रतिक्षेप्तुमाह --
 
 > संनिधानातिरिक्तं च न किञ्चित्कुरुते मलः ।

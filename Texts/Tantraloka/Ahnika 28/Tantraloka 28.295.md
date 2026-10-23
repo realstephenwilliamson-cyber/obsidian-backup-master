@@ -31,6 +31,9 @@ dhvāntābilatvaṃ manasi taccaiteṣu na vidyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 128)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.295]]
+
 *Lead-in:* ननु कियान् मरणाभिख्यो भोगो य एषां नास्ति--इत्याशङ्क्य आह--
 
 > एतावान्मृतिभोगो हि मर्मच्छिन्मूढताक्षगा ।

@@ -31,6 +31,9 @@ taddravyaṃ devatākṛtye kuryādbhaktajaneṣvatha || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 198–199)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.434]]
+
 *Lead-in:* गुरुश्चेदसन्निहितः, तदा किं कार्यम् ?--इत्याशङ्क्य आह--
 
 > अतत्रस्थोऽपि हि गुरुः पूज्यः सङ्कल्प्य पूर्ववत् ।

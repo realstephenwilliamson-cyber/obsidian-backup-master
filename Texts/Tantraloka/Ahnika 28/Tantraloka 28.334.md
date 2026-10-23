@@ -33,6 +33,11 @@ nīlapītādike jñeye yataḥ prākkalpitāṃ tanum || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 144–145)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.333–334]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.334–335]]
+
 *Lead-in:* ननु आस्तामेतत्, देहस्य पुनः चिता नीलाद्यपेक्षया प्रागधिष्ठानमित्यत्र किं निबन्धनम् ?--इत्याशङ्क्य आह—
 
 > नीलपीतादिके ज्ञेये यतः प्राक्कल्पितां तनुम् ॥

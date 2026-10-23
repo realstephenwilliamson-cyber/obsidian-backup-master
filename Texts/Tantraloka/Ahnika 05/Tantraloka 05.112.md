@@ -37,6 +37,11 @@ evaṃ pradarśitoccāraviśrāntihṛdayaṃ param || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 148–153)
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.112]]
+>
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.112–113]]
+
 *Lead-in:* नन्वेषामेवं प्रतिनियमे किं प्रमाणम् ? -- इत्याशङ्क्याह --
 
 > एतच्च स्फुटमेवोक्तं श्रीमन्त्रैशिरसे मते ।

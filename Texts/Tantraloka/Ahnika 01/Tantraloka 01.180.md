@@ -36,6 +36,11 @@ vikalpāpekṣayā mānamavikalpamiti bruvan || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 354–357)
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.179–180]]
+>
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.180–181]]
+
 *Lead-in:* अत एव च अविकल्पस्य विकल्पापेक्षं प्रामाण्यं वदन्तो निरस्ताः -- इत्याह --
 
 > विकल्पापेक्षया मानमविकल्पमिति ब्रुवन् ॥

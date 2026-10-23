@@ -31,6 +31,11 @@ tathā pradarśyate spaṣṭaṃ yadyapyuktakramādgataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 95)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 31.62–63.*
+>
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.62–63]]
+
 > अथ शूलाब्जविन्यासः श्रीपूर्वे त्रिशिरोमते ।
 > सिद्धातन्त्रे त्रिककुले देव्यायामलमालयोः ॥
 > यथोक्तः सारशास्त्रे च तन्त्रसद्भावगुह्ययोः ।

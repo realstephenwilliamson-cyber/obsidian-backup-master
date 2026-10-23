@@ -31,6 +31,11 @@ pradhāne taddhi saṅkīrṇavaiviktyobhayayogataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 141–143)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 13.34.*
+>
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.34]]
+
 *Lead-in:* नन्विह सामान्येनाज्ञानं न विवक्षितं किन्तु प्रकृतिपुरुषविवेकादर्शनरूपम् यथा सांख्यैराख्यातम्, तदेवाह --
 
 Jayaratha comments on this verse together with 13.34: see [[Tantraloka 13.034#Viveka|13.34]].

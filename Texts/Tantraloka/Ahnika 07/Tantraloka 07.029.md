@@ -36,6 +36,11 @@ na cāsau vastuto dīrghā kālabhedavyapohanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 19–20)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.29]]
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.29 (2)]]
+
 *Lead-in:* ननु भवतु नाम संयोगविभागिता मा वा भूत् किमनया नश्चिन्तया, यावता ह्यत्र प्राणग्रासक्रमेण कालग्रासे वृत्ते एकैव पूर्णा संवित्स्यादित्युपक्रान्तं तदेव कथं निर्वहेत् इत्युच्यताम् ? -- इत्याशङ्क्याह --
 
 > तदभावान्न विज्ञानाभावः सैवं तु सैव धीः ।

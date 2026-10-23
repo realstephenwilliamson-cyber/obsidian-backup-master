@@ -31,6 +31,9 @@ ekārdhendūrdhvakoṭisthaṃ brahmasūtrāgrasaṅgatam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 97–98)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.67–69]]
+
 > ततो द्वितीयभागान्ते ब्रह्मणः पार्श्वयोर्द्वयोः ॥
 > द्वे रेखे पूर्वगे नेये भागत्र्यंशशमे बुधैः ।
 > एकार्धेन्दूर्ध्वकोटिस्थं ब्रह्मसूत्राग्रसङ्गतम् ॥

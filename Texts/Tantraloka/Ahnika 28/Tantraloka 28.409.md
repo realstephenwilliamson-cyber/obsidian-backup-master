@@ -33,6 +33,11 @@ tathāpyatattvavidvargānugrahāya tathā caret |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 189–190)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.408–409]]
+>
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.409–411]]
+
 *Lead-in:* नन्वेवमाचरणे किमस्य प्रमाणम्?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 28.408: see [[Tantraloka 28.408#Viveka|28.408]].

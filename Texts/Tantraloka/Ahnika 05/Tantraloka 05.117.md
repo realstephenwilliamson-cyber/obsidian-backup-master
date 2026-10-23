@@ -38,6 +38,9 @@ avyaktād balamādyaṃ parasya nānuttare tviyaṃ carcā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 157–158)
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.117]]
+
 *Lead-in:* न केवलमेषां स्वरूपत एव भेदो यावत् फलतोऽपि -- इत्याह --
 
 > व्यक्तात्सिद्धिप्रसवो व्यक्ताव्यक्ताद् द्वयं विमोक्षश्च ।

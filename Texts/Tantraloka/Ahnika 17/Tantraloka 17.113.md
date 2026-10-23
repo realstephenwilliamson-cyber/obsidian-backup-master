@@ -34,6 +34,9 @@ muktāni kvāpi viṣaye rodhād bandhāya tāni tu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 188–189)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.113–114]]
+
 *Lead-in:* निगृहीतत्वं विमुक्तत्वं च स्वयमेव भगवान् व्याचष्टे--
 
 Jayaratha comments on this verse together with 17.114: see [[Tantraloka 17.114#Viveka|17.114]].

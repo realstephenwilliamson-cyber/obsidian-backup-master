@@ -37,6 +37,11 @@ aliases:
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 143–145)
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.106–107]]
+>
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.107–108]]
+
 *Lead-in:* यदभिप्रायेणैवागमोऽपि -- इत्याह --
 
 > आनन्द उद्भवः कम्पो निन्द्रा घूर्णिश्च पञ्चकम् ॥

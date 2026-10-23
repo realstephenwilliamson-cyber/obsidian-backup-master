@@ -33,6 +33,11 @@ dṛṣṭvaitanmaṇḍalaṃ devyaḥ sarvā nṛtyanti sarvadā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 84–85)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.39–41]]
+>
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.41–42]]
+
 *Lead-in:* अत एव अस्य इयत् माहात्म्यम्--इत्याह--
 
 > दृष्ट्वतन्मण्डलं देव्यः सर्वा नृत्यन्ति सर्वदा ॥

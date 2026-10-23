@@ -34,6 +34,9 @@ asphuṭādau vikalpe ca bhedo'pyastyāntarālikaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 8)
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.5]]
+
 *Lead-in:* न च इयानेव अस्य संस्कारः संभवेत् । इत्याह --
 
 > ततः स्फुटतरो यावदन्ते स्फुटतमो भवेत् ।

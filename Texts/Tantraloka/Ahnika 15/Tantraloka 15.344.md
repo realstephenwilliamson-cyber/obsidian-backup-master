@@ -33,6 +33,11 @@ bhedagalanādyakoṭerārabhya yato nijaṃ nijaṃ rūpam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 212–213)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.343–344]]
+>
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.344–346]]
+
 *Lead-in:* ननु आसामात्मत्वेऽपि सकलादौ प्रस्फुटतया तथात्वं न लक्षितम्, इह तु स्फुटमेव तत् लक्ष्यते इत्यत्र किं निमित्तम् ?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 15.343: see [[Tantraloka 15.343#Viveka|15.343]].

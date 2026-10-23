@@ -34,6 +34,9 @@ ityasyāyamapi hyartho mālinīvākyasanmaṇeḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 245–246)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.4]]
+
 *Lead-in:* न केवलमेतदत एवावगतं यावदितोऽपि--इत्याह--
 
 > तत्संबन्धात्ततः कश्चित्तत्क्षणादपवृज्यते ।

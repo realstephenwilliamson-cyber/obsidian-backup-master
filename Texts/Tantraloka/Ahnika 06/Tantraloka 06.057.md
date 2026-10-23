@@ -34,6 +34,9 @@ drāvayitrī rujāṃ raudrī roddhrī cākhilakarmaṇām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 267–268)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.57]]
+
 *Lead-in:* अत्र किं निमित्तम् ? -- इत्याशङ्क्याह --
 
 > वामा संसारवमना ज्येष्ठा शिवमयी यतः ।

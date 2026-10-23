@@ -34,6 +34,11 @@ ityetatsaṃskriyātattvaṃ śrīśaṃbhurme nyarūpayat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 253–254)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.407–408]]
+>
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.408–409]]
+
 *Lead-in:* एतच्च अस्माभिर्गुरुपरम्परोपनतमभिहितमिति विवेचनयोग्यम्--इत्याह--
 
 > इत्येतत्संस्क्रियातत्त्वं श्रीशंभुर्मे न्यरूपयत् ॥

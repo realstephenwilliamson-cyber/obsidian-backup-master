@@ -22,7 +22,7 @@ Text: [[NRSVue John 02|NRSVue]] · [[John 02|BSB and SBLGNT]] · Introduction: [
 
 **[[NRSVue John 02#^2-4|4]]:** *Woman*, an unusual and discourteous address to one’s mother, though Jesus uses it elsewhere to introduce a revelation (4.21; 19.26; 20.13,15). This mode of address implies a distance between Jesus and his mother, and it contrasts with the importance attached in this Gospel to the Father-Son relationship. *Hour*, of Jesus’ death and glorification (13.1); here it may also refer to the time when Jesus’ true significance for humankind will be fully revealed (as in 16.25). ^2-4
 
-**[[NRSVue John 02#^2-6|6]]:** *Rites of purification*, ritual hand washing preceding the meal (see *b. Ber*. 53b; *b. Shabb*. 62b). ^2-6
+**[[NRSVue John 02#^2-6|6]]:** *Rites of purification*, ritual hand washing preceding the meal (see [[Berakhot 53#53b|*b. Ber*. 53b]]; [[Shabbat 62#62b|*b. Shabb*. 62b]]). ^2-6
 
 **[[NRSVue John 02#^2-7|7]]:** *Fill the jars*, since they needed to be refilled, the washing likely had already taken place. The size of the jars indicates many guests. ^2-7
 

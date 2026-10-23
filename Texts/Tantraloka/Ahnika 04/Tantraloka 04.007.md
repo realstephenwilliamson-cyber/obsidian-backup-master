@@ -34,6 +34,9 @@ bhūyo bhūyo vimṛśatāṃ jāyate tatsphuṭātmatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 10)
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.7]]
+
 *Lead-in:* एतदेव प्रकृते योजयति --
 
 > अतश्च भैरवीयं यत्तेजः संवित्स्वभावकम् ।

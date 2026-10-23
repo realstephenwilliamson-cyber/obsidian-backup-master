@@ -37,6 +37,11 @@ ete ca parameśānaśaktitvādviśvavartinaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 397–398)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.188–189]]
+>
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.189–190]]
+
 *Lead-in:* ननु व्यापकत्वादेषां स्वरसत एव सर्वत्रावस्थानं सिद्धमित्यत्र विशेषाभिधाने किं प्रयोजनम् ? -- इत्याशङ्क्याह -
 
 > एते च परमेशानशक्तित्वाद्विश्ववर्तिनः ॥

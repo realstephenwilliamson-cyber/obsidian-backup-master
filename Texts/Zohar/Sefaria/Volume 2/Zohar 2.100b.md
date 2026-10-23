@@ -39,5 +39,5 @@ Pritzker translation (Matt): [[Zohar 5.03 - Parashat Mishpatim#^z2-100b|Parashat
 
 **Mishpatim 3:126** However, “Blessed be the name of God for ever and ever: for wisdom and might are his. And he changeth the times and the seasons… He knows what is in the darkness, and the light dwelleth with him” (Dan. 2, 20-21). He who is in the light cannot see the darkness; but not so the Holy One, blessed be He; although the light dwelleth with Him, He knows what is in the darkness. Out of the light He beholds the darkness and knows all that is there. ^mishpatim-3-126
 
-[^1]: v. T. B. Sotah, 2a.
+[^1]: v. T. B. [[Sotah 2#2a|Sotah, 2a]].
 [^2]: v. Zohar, Genesis, 29a.

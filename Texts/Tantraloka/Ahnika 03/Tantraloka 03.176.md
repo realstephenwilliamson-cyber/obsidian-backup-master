@@ -35,5 +35,8 @@ saiva sūte svakartavyamantaḥsthaṃ sveṣṭarūpakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 299–300)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.175–177]]
+
 Jayaratha comments on this verse together with 3.177: see [[Tantraloka 03.177#Viveka|3.177]].
 

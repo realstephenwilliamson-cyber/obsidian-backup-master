@@ -37,6 +37,11 @@ daivaṃ hi bhāviparikarmaṇi saṃskaroti || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 252)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 37.57.*
+>
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.57]]
+
 > रत्नैरलं दलयति स्म भवापदस्ताः ॥
 > तस्यात्मजोऽभिनवगुप्त इति प्रसिद्धः
 > श्रीचन्द्रचूडचरणाब्जपरागपूतः ।

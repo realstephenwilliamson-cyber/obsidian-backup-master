@@ -35,6 +35,9 @@ kṣobhātmakamidaṃ prāhuḥ kṣobhākṣobhātmanāmapi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 276–277)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.159]]
+
 *Lead-in:* नन्विच्छाद्याः शक्तयो विजातीयशक्तिसंभिन्ना यथा परामर्शान्तराणि आविर्भावयन्ति, तथैव सजातीयशक्तिसंबन्धेऽपि किं, न वा ? -- इत्याशङ्क्याह --
 
 > सजातीयकशक्तीनामिच्छाद्याना च योजनम् ।

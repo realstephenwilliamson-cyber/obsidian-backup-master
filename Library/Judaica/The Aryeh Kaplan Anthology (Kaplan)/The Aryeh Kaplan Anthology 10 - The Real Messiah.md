@@ -451,7 +451,7 @@ Yad, loc. cit. 2:5.
 
 17\. Pri Megadim, Eshel Avraham 55:4. 
 
-18\. Sanhedrin 74a. 
+18\. [[Sanhedrin 74#74a|Sanhedrin 74a]]. 
 
 19\. 
 
@@ -461,7 +461,7 @@ Tshuvos Rivash 4,11, Tshuvos Rabbi Yosef ben [[Torah 24 - Vayikra#^1-15|Lev 1:15
 
 21\. It is recommended that such a penitent undergo the ritual of immersion like a convert. See Nimukey Yosef, Yebamos, Rif 16b “Kedusnav,” Yoreh Deah 268:12 in Hagah, Turey Zahav ibid. 267:5; Magen Avraham 325:8. Cf. Avos DeRabbi Nathan 8:8. 
 
-22\. Shabbos 118b; Tur, Orech Chaim 242. 
+22\. [[Shabbat 118#118b|Shabbos 118b]]; Tur, Orech Chaim 242. 
 
 When A Jew Becomes A Christhan ti) 279 
 
@@ -493,7 +493,7 @@ complete redemption to the Jewish people, both spiritually and physically. Along
 
 The Jewish Messiah is truly human in origin. He is born of ordinary human parents, and is of flesh and blood like all mortals. 
 
-As described by the Prophet (/saiah 11:2), the Messiah is “full of wisdom and understanding, counsel and might, knowledge and the fear of G-d.” He has a special feeling for justice, or, as the Talmud put it (Sanhedrin 93b), he “smells and judges.” He can virtually sense a man’s innocence or guilt. 
+As described by the Prophet (/saiah 11:2), the Messiah is “full of wisdom and understanding, counsel and might, knowledge and the fear of G-d.” He has a special feeling for justice, or, as the Talmud put it ([[Sanhedrin 93#93b|Sanhedrin 93b]]), he “smells and judges.” He can virtually sense a man’s innocence or guilt. 
 
 The Prophet (/saiah 11:4) goes on to say that the Messiah will “smite the tyrant with the rod of his mouth, and slay the wicked with the breath of his lips.” Evil and tyranny will not be able to stand up before the Messiah. 
 
@@ -1178,7 +1178,7 @@ Jesus was even able to be vindictive against a tree. When he found himself hungr
 
 Did this innocent tree deserve such cruel punishment? It was not even the season for figs, and the tree was merely fulfilling its nature. If Jesus merely wanted to show his miraculous powers, as the Gospel seems to indicate, why did he not command the tree to bring forth fruit? 
 
-Indeed, the Talmud (Taanis 24a) brings a very similar incident, but with a very different ending. Rabbi Yosi's son once wanted to provide his father’s field hands with food. All he could find was a fig tree, but it was not the season, and the tree was bare. He cried out, ‘Fig tree, fig tree, send forth your fruit so that my father’s workers may eat.” The Talmud tells us that the tree produced fruit before its time and the men were able to fill themselves. 
+Indeed, the Talmud ([[Taanit 24#24a|Taanis 24a]]) brings a very similar incident, but with a very different ending. Rabbi Yosi's son once wanted to provide his father’s field hands with food. All he could find was a fig tree, but it was not the season, and the tree was bare. He cried out, ‘Fig tree, fig tree, send forth your fruit so that my father’s workers may eat.” The Talmud tells us that the tree produced fruit before its time and the men were able to fill themselves. 
 
 If Jesus were truly capable of miracles, he could have done the same. Instead, he chose to display his vindictiveness. 
 
@@ -1467,21 +1467,21 @@ Cf. Yad, Tshuvah 6:5; Moreh Nevuchim 2:48.
 
 Sichos HaRan No. 5. 
 
-See Ralbag, Metzudos David, Malbim ad loc., Yalkut 2:959. Cf. Berachos 55a Rashi ad loc., “Terichim,” Yalkut 1:860, 2:306; Emunos VeDeyos 4:7 end; Maharatz Chayos, Megillah 11a; Radak on [[Jeremiah 10#^10-23|Jer. 10:23]]. 
+See Ralbag, Metzudos David, Malbim ad loc., Yalkut 2:959. Cf. Berachos 55a Rashi ad loc., “Terichim,” Yalkut 1:860, 2:306; Emunos VeDeyos 4:7 end; Maharatz Chayos, [[Megillah 11#11a|Megillah 11a]]; Radak on [[Jeremiah 10#^10-23|Jer. 10:23]]. 
 
 Rabbi Moshe Chaim Lutzatto, KaLaCh Pischey Chochmah No. 2. Idem, Derech HaShem 2:1:1. 
 
 13 Principles of Faith No. 12; Ikkarim 4:42. 
 
-Sanhedrin 98a, Or HaChaim on [[Torah 40 - Balak#^24-17|Num. 24:17]]. 
+[[Sanhedrin 98#98a|Sanhedrin 98a]], Or HaChaim on [[Torah 40 - Balak#^24-17|Num. 24:17]]. 
 
-Pesachim 54b, Emunos VeDeyos 8:2. 
+[[Pesachim 54#54b|Pesachim 54b]], Emunos VeDeyos 8:2. 
 
 Menoras HaMaor 3:end (237), quoting Shaar HaShamayim; Tosefos Yom Tov on Avodah Zarah 4:7. Cf. Berachos 20a. 
 
-. Cf. Baba Metzia 85b. 
+. Cf. [[Bava Metzia 85#85b|Baba Metzia 85b]]. 
 
-. Sanhedrin 99a, Shabbos 63a, Maharsha, Rashash ad loc. Yad, Tshuvah 9:2, Melachim 11:3. See Kesef Mishneh, Lechem Mishneh, Tshuvah 8:7. Also see Abarbanel, Yeshuos Meshicho (Koenigsberg, 5621) 3:7 (56b); Maharal, Netzach Yisroel 50. 
+. [[Sanhedrin 99#99a|Sanhedrin 99a]], [[Shabbat 63#63a|Shabbos 63a]], Maharsha, Rashash ad loc. Yad, Tshuvah 9:2, Melachim 11:3. See Kesef Mishneh, Lechem Mishneh, Tshuvah 8:7. Also see Abarbanel, Yeshuos Meshicho (Koenigsberg, 5621) 3:7 (56b); Maharal, Netzach Yisroel 50. 
 
 12\. 
 
@@ -1491,7 +1491,7 @@ Yerushalmi, Berachos 1:1, Yoma 3:2; Shir HaShirim Rabbah 6:16, Etz Yosef ad loc.
 
 Yad Melachim 11:3, 12:2. 
 
-Rav Zeral, Sanhedrin 97a. Cf. Tosefos, Eruvin 43b “VeAssur,”” Emunos 14. 
+Rav Zeral, [[Sanhedrin 97#97a|Sanhedrin 97a]]. Cf. Tosefos, [[Eruvin 43#43b|Eruvin 43b]] “VeAssur,”” Emunos 14. 
 
 VeDeyos 8:6. 
 
@@ -1499,13 +1499,13 @@ VeDeyos 8:6.
 
 16\. Sifri (315) on [[Torah 53 - Ha'Azinu#^32-12|Deut. 32:12]]. 
 
-. Kesubos 111b. 
+. [[Ketubot 111#111b|Kesubos 111b]]. 
 
-17 18. Shabbos 30b, according to interpretation of Rambam on Sanhedrin 10:1. 
+17 18. [[Shabbat 30#30b|Shabbos 30b]], according to interpretation of Rambam on Sanhedrin 10:1. 
 
 Cf. Yerushalmi, Shekalim 6:2. 
 
-19\. [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-12b|Zohar 1:12b]] on [[Isaiah 40#^40-31|Isa. 40: 31]]. Cf. Sanhedrin 92b. 
+19\. [[Zohar 1.06 - Haqdamat Sefer ha-Zohar#^z1-12b|Zohar 1:12b]] on [[Isaiah 40#^40-31|Isa. 40: 31]]. Cf. [[Sanhedrin 92#92b|Sanhedrin 92b]]. 
 
 Tikuney Zohar 14b, on [[Song of Songs 6#^6-8|Cant. 6:8]]. See my article on “On Extraterrestrial 20. 
 
@@ -1515,7 +1515,7 @@ Life,” in the Cheshvan 5733 issue of Intercom.
 
 22\. Pesikta Rabosi, end of No. 1. Cf. Shir HaShirim Rabbah 2:29. 
 
-23\. Shabbos 63a, Emunos VeDeyos 8:8; Rambam, Milchamos HaShem No. 
+23\. [[Shabbat 63#63a|Shabbos 63a]], Emunos VeDeyos 8:8; Rambam, Milchamos HaShem No. 
 
 49\. 
 
@@ -1542,19 +1542,19 @@ Cf. Giur Aryeh (Maharal) ad loc.
 
 *[PDF 313]* ^pg313
 
-31\. Netzach Yisroel No. 36. Cf. Sanhedrin 98b. 
+31\. Netzach Yisroel No. 36. Cf. [[Sanhedrin 98#98b|Sanhedrin 98b]]. 
 
 32\. Cf. Emunos VeDeyos 8:6. 
 
-33\. Sotah 49b, Sanhedrin 97a, Derech Eretz Zuta, 10, Shir HaShirim Rabbah 2:29, Pirkey Rabbi Eliezer 32, [[Zohar 7.08 - Parashat Aharei Mot#^z3-67b|Zohar 3:67b]], 125b. 
+33\. [[Sotah 49#49b|Sotah 49b]], [[Sanhedrin 97#97a|Sanhedrin 97a]], Derech Eretz Zuta, 10, Shir HaShirim Rabbah 2:29, Pirkey Rabbi Eliezer 32, [[Zohar 7.08 - Parashat Aharei Mot#^z3-67b|Zohar 3:67b]], 125b. 
 
-34\. Or “truth shall be divided into flocks.” Sanhedrin 97a. 
+34\. Or “truth shall be divided into flocks.” [[Sanhedrin 97#97a|Sanhedrin 97a]]. 
 
 35\. Rambam, /geres Taimon (Jerusalem, 5721) p. 5; Sichos HaRan 35. Cf. 
 
 [[Zohar 8.08 - Parashat Naso#^z3-124b|Zohar 3:124b]], 153a. 
 
-36\. Sanhedrin 97a. 
+36\. [[Sanhedrin 97#97a|Sanhedrin 97a]]. 
 
 37\. Ibid. 98, Maharsha ad loc, "And SheTichla.” 
 
@@ -1562,7 +1562,7 @@ Cf. Giur Aryeh (Maharal) ad loc.
 
 39\. See Midrash quoted in Shevelet Fmunah 10:1. 
 
-40\. Sanhedrin 98a. However, see VaYoel Moshe 1:66 for another interpretation. 
+40\. [[Sanhedrin 98#98a|Sanhedrin 98a]]. However, see VaYoel Moshe 1:66 for another interpretation. 
 
 Midrash quoted in note 39. Also see Igeres Taimon p. 32. 
 
@@ -1570,7 +1570,7 @@ Midrash quoted in note 39. Also see Igeres Taimon p. 32.
 
 42\. Ibid. p. 30. 
 
-Malachi 3:25, Radak ad loc.; Eruvin 43b, Eduyos 8:7, Targum J. on Deut. 43. 
+Malachi 3:25, Radak ad loc.; [[Eruvin 43#43b|Eruvin 43b]], Eduyos 8:7, Targum J. on Deut. 43. 
 
 30:4, Pirkey Rabbi Eliezer 43. See Yad, Melachim 10:2, Keresei C'Pleisei, end of Bais HaSafak; VaYoel Moshe 1:52. 
 
@@ -1582,11 +1582,11 @@ Mechilta on [[Torah 15 - Bo#^12-1|Ex. 12:1]], Tanchuma Bo 5, Rashi, Radak on [[J
 
 1:85a, 121a, 2:170b, Emunos VeDeyos 3:5 end, Kuzari, 2:14, Ibn Ezra on [[Joel 3#^3-1|Joel 3:1]], Tshuvos Radbaz 2:842; Sifri, Ramban, Yalkut (919) on [[Torah 48 - Shoftim#^18-15|Deut. 18:15]]. 
 
-Yoma 9b, Kuzari 2:24 (40a). Also see Avodas HaKodesh 4:25. 46. 
+[[Yoma 9#9b|Yoma 9b]], Kuzari 2:24 (40a). Also see Avodas HaKodesh 4:25. 46. 
 
 Yerushalmi, Maaser Sheni 5:2 (29b), Tosefos Yom Tou, Rashash, Maleches 47. 
 
-Shlomo, ibid. Shnei Luchos HaBris, Bais David 1:37b. Cf. Megillah 17b end. In Yalkut 2:499, we find that the Messiah will reveal himself on the Temple roof. See also VaYoel Moshe 55f, Rabbi Yehudah Gershoni, Mishpat HaMelucha 11:1. 
+Shlomo, ibid. Shnei Luchos HaBris, Bais David 1:37b. Cf. [[Megillah 17#17b|Megillah 17b]] end. In Yalkut 2:499, we find that the Messiah will reveal himself on the Temple roof. See also VaYoel Moshe 55f, Rabbi Yehudah Gershoni, Mishpat HaMelucha 11:1. 
 
 48\. Berachos 49a, Yalkut 2:888 from [[Psalms 147#^147-2|Ps. 147:2]]. 
 
@@ -1594,7 +1594,7 @@ Shlomo, ibid. Shnei Luchos HaBris, Bais David 1:37b. Cf. Megillah 17b end. In Ya
 
 Yad, Melachim 11:4. 
 
-50\. There is, however, another opinion stating that it is forbidden for the Jews to emigrate en masse before the actual coming of the Messiah. This is based on an oath to that effect, cf. Kesubos 111a, Shir HaShirim Rabbah 2:18, VaYoel Moshe 1:10. This is the opinion of the Satmar Chassidim and others who oppose the resettlement of Israel. However, a complete discussion of this issue is beyond the scope of this article. 
+50\. There is, however, another opinion stating that it is forbidden for the Jews to emigrate en masse before the actual coming of the Messiah. This is based on an oath to that effect, cf. [[Ketubot 111#111a|Kesubos 111a]], Shir HaShirim Rabbah 2:18, VaYoel Moshe 1:10. This is the opinion of the Satmar Chassidim and others who oppose the resettlement of Israel. However, a complete discussion of this issue is beyond the scope of this article. 
 
 Yad, Melachim 11:3, Yeshuos Meshicho No. 3, p. 45 ff., Lekutey Tshuvos 51. 
 
@@ -1620,9 +1620,9 @@ Sanhedrin 4:4 (37a), Yad, Sanhedrin 4:1.
 
 7, 
 
-Rambam, loc. cit. Also see Megillah 17b, Rashi ad loc. “VeKeven"; Eruvin 8. 
+Rambam, loc. cit. Also see [[Megillah 17#17b|Megillah 17b]], Rashi ad loc. “VeKeven"; Eruvin 8. 
 
-43b, Maharatz Chayos ad loc.; Rashash, Sanhedrin 13b. 
+43b, Maharatz Chayos ad loc.; Rashash, [[Sanhedrin 13#13b|Sanhedrin 13b]]. 
 
 Cf. Tosefta Sanhedrin 3:2, Yad Sanhedrin 5:1, Melachim 1:3. 59. 
 
@@ -1632,11 +1632,11 @@ Cf. Tosefta Sanhedrin 3:2, Yad Sanhedrin 5:1, Melachim 1:3. 59.
 
 Yad, Melachim 11:4. 
 
-62\. Eruvin 43a end. 
+62\. [[Eruvin 43#43a|Eruvin 43a]] end. 
 
-63\. Sanhedrin 98a. 
+63\. [[Sanhedrin 98#98a|Sanhedrin 98a]]. 
 
-Cf. Radak ad loc., Sanhedrin 93b, Yad Melachim 11:3. 
+Cf. Radak ad loc., [[Sanhedrin 93#93b|Sanhedrin 93b]], Yad Melachim 11:3. 
 
 64\. 
 

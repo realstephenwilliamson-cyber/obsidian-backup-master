@@ -31,6 +31,9 @@ sarveṣāmeva bhūtānāṃ maraṇe samupasthite || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 44)
+> ![[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#Viveka on 30.62–64]]
+
 > आधाराधेयभावेन अविनाभावयोगतः ।
 > हंसं चामृतमध्यस्थं कालरुद्रविभेदितम् ॥
 > भुवनेशशिरोयुक्तमनङ्गद्वययोजितम् ।

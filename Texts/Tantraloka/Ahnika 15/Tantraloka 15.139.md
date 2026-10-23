@@ -33,6 +33,11 @@ ityevaṃ mātṛkāṃ nyasyenmālinīṃ vā kramād dvayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 92–93)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.137–139]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.139–142]]
+
 *Lead-in:* एवं प्रसङ्गापतितं मालिन्या वीर्यातिशयं निरूप्य प्रकृतमेव आह--
 
 Jayaratha comments on this verse together with 15.138: see [[Tantraloka 15.138#Viveka|15.138]].

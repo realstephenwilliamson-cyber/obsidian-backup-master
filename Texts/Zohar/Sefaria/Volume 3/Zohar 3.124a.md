@@ -66,6 +66,6 @@ Pritzker translation (Matt): [[Zohar 8.08 - Parashat Naso#^z3-124a|Parashat Naso
 *Not translated in the Soncino edition: Nasso 5:81–5:87.*
 
 [^1]: This is contrary to the Mishnah, which does not forbid, but makes it optional for the priest.
-[^2]: Cf. T. B. Sotah, 26a.
+[^2]: Cf. T. B. [[Sotah 26#26a|Sotah, 26a]].
 [^3]: ahah tetragrammaton.
 [^4]: The reference apparently is to the Nazirite.

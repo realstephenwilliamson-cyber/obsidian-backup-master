@@ -34,5 +34,8 @@ tatastasyāṃ śodhyamekamadhvānaṃ vyāptibhāvanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 258–259)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.22–24]]
+
 Jayaratha comments on this verse together with 21.24: see [[Tantraloka 21.024#Viveka|21.24]].
 

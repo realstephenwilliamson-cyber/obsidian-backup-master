@@ -31,6 +31,9 @@ vinā bāhyairapītyuktaṃ śrīvīrāvalibhairave || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 376–377)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.233–235]]
+
 > षट्कं कारणसंज्ञं यत्तथा यः परमः शिवः ।
 > साकं भैरवनाथेन तदष्टकमुदाहृतम् ॥
 > प्रत्येकं तस्य सार्वात्म्यं पश्यंस्तां वृत्तिमात्मगाम् ।

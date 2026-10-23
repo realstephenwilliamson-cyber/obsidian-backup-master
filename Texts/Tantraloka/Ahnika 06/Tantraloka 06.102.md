@@ -35,6 +35,9 @@ rāhurmāyāpramātā syāttadācchādanakovidaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 330)
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.102–103]]
+
 *Lead-in:* ननु त्रयाणामप्येषां सङ्घट्टे किं सतत्त्वम् ? -- इत्याशङ्क्याह --
 
 > अर्कः प्रमाणं सोमस्तु मेयं ज्ञानक्रियात्मकौ ।

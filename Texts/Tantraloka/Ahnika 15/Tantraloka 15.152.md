@@ -31,6 +31,9 @@ aho svādurasaḥ ko'pi śivapūjāmayotsavaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 97–98)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.152–153]]
+
 *Lead-in:* यद्गुरवोऽपि--इत्याह--
 
 > उवाच पूजनस्तोत्रे ह्यस्माकं परमो गुरुः ।

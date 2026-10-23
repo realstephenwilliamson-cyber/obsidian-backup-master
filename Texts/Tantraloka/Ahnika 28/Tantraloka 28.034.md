@@ -31,5 +31,8 @@ ubhayātmā viśeṣaḥ syāttatsāmānyaviśeṣatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 19–20)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.34–35]]
+
 Jayaratha comments on this verse together with 28.35: see [[Tantraloka 28.035#Viveka|28.35]].
 

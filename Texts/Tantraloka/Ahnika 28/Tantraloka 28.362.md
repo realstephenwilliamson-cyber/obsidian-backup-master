@@ -33,6 +33,13 @@ nipātābhyāmantaśabdātsmaraṇācchaturantyataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 161–163)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.361–362]]
+>
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.361–362 (continued)]]
+>
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.362–363]]
+
 *Lead-in:* न च एतदशब्दार्थमेव उक्तम्--इत्याह--
 
 Jayaratha comments on this verse together with 28.361: see [[Tantraloka 28.361#Viveka|28.361]].

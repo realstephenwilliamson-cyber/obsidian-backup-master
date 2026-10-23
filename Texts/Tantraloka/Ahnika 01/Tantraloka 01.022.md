@@ -34,6 +34,9 @@ ajñānaṃ saṃsṛterheturjñānaṃ mokṣaikakāraṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 116)
+> ![[Tantraloka Dyczkowski v01 04 - Chapter One, part 3#Viveka on 1.22]]
+
 *Lead-in:* इत्याद्युक्त्या तदभ्युपगतो मोक्षो मोक्ष एव न भवति -- इति दर्शयितुं शास्त्रान्तरवैलक्षण्येन तत्परीक्षणस्य वक्ष्यमाणत्वात् प्राधान्यमपि कटाक्षयितुमुपक्रम एव बन्धमोक्षपरीक्षामुट्टङ्कयति ग्रन्थकारः --
 
 > इह तावत्समस्तेषु शास्त्रेषु परिगीयते ।

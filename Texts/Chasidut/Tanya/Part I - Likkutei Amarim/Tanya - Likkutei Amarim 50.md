@@ -46,7 +46,7 @@ And this is the interpretation of the text, “Come, my beloved….”[^18] From
 [^10]: See above, ch. 2, note 9.
 [^11]: [[Ezekiel 44#^44-15|Ezekiel 44:15]].
 [^12]: The counterpart of the ecstatic worship by the angels (*Chayot*); cf. [[Ezekiel 01#^1-14|Ezekiel 1:14]].
-[^13]: *Chagigah* 13b.
+[^13]: [[Chagigah 13#13b|*Chagigah* 13b]].
 [^14]: 1:8. Cf. *Tikkunei Zohar*, Introduction 7a.
 [^15]: …over the left part, i.e., over the natural desires of the animal soul.
 [^16]: *Avot* 4:22.

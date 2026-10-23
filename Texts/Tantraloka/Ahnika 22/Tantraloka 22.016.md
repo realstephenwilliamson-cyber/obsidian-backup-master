@@ -31,5 +31,8 @@ svaliṅgatyāgaśaṅkotthaṃ prāyaścittaṃ ca māsya bhūt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 283)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.14–19]]
+
 Jayaratha comments on this verse together with 22.19: see [[Tantraloka 22.019#Viveka|22.19]].
 

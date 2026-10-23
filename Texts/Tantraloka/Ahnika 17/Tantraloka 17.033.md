@@ -34,6 +34,9 @@ kuryādātmīyahṛdayasthitamapyavabhāsakam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 156–158)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.30–33]]
+
 > ततः शिष्यस्य तत्तत्त्वस्थानेऽस्त्रेण प्रताडनम् ॥
 > कृत्वाऽथ शिवहस्तेन हृदयं परिमर्शयेत् ।
 > ततः स्वनाडीमार्गेण हृदयं प्राप्य वै शिशोः ॥

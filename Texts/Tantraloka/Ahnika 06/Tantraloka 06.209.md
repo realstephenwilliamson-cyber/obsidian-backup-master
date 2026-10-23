@@ -37,6 +37,11 @@ samāne'pi tuṭeḥ pūrvaṃ yāvatṣaṣṭyabdagocaram || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 420–421)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.208–209]]
+>
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.209–210]]
+
 *Lead-in:* ननु किमत्र वर्षद्वयमेवोदियादुतान्यदपि ? -- इत्याशङ्क्याह --
 
 > समानेऽपि तुटेः पूर्वं यावत्षष्ट्यब्दगोचरम् ॥

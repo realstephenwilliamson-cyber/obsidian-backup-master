@@ -31,6 +31,9 @@ yamakiṅkarasarpādipratyayāndehago bhajet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 125–126)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.289]]
+
 *Lead-in:* अतश्च अस्य अन्येऽपि सांसारिकाः संस्काराः सन्ति--इत्याह--
 
 > अत एव प्रबुद्धोऽपि कर्मोत्थान्भोगरूपिणः ।

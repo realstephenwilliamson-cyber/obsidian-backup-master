@@ -36,6 +36,11 @@ kūṣmāṇḍa ūrdhve lakṣonakoṭisthānastadīśitā |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 81–87)
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.24–28]]
+>
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.28–30]]
+
 *Lead-in:* नन्वेवंविधेषु नरकेषु केनाम वसन्ति, केवा न? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 8.27: see [[Tantraloka 08.027#Viveka|8.27]].

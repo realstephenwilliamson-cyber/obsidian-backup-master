@@ -35,6 +35,9 @@ rajo'nuviddhaṃ nirmṛṣṭaṃ sattvamasyādharaṃ tamaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 197–198)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.168–170]]
+
 > व्यक्तेरभिमुखीभूतः प्रच्युतः शक्तिरूपतः ।
 > आवापवाननिर्भक्तो वस्तुपिण्डोऽण्ड उच्यते ॥
 > तमोलेशानुविद्धस्य कपालं सत्त्वमुत्तरम् ।

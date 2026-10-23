@@ -34,6 +34,9 @@ jñātvā dīkṣāṃ carettasya dīkṣā sapratyayā smṛtā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 236)
+> ![[Tantraloka Dyczkowski v09 11 - Chapter Twenty#Viveka on 20.8–10]]
+
 *Lead-in:* अत एवाह--
 
 Jayaratha comments on this verse together with 20.9: see [[Tantraloka 20.009#Viveka|20.9]].

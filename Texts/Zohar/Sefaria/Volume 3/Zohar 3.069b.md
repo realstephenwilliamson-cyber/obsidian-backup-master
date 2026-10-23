@@ -43,4 +43,4 @@ Pritzker translation (Matt): [[Zohar 7.08 - Parashat Aharei Mot#^z3-69b|Parashat
 
 **Achrei Mot 41:245** When is a man purified of his sin?’ R. Isaac said: ‘When he returns to the Most High King and prays from the depths of his heart, as it is written, “From the depths I cried unto thee”.’ ^achrei-mot-41-245
 
-[^1]: v. T. B. Pesahim, 28b.
+[^1]: v. T. B. [[Pesachim 28#28b|Pesahim, 28b]].

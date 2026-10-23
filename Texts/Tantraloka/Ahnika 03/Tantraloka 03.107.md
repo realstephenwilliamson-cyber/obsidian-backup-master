@@ -36,6 +36,11 @@ etattritayamaikyena yadā tu prasphurettadā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 211–213)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.106–107]]
+>
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.107–108]]
+
 *Lead-in:* ननु यदि इच्छादीनामेकैकशः इष्यमाणादिना उपरञ्जने शक्तिमद्रूपत्वं तत्समुदितानामासां किं रूपम् ? -- इत्याशङ्क्याह --
 
 > एतत्त्रितयमैक्येन यदा तु प्रस्फुरेत्तदा ॥

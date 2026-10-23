@@ -34,6 +34,9 @@ trinayanacaraṇasaroruhacintanalabdhaprasiddhiriti || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 109–110)
+> ![[Tantraloka Dyczkowski v01 04 - Chapter One, part 3#Viveka on 1.20]]
+
 *Lead-in:* अन्यादृष्टप्रकटीकरणे च स्वात्मनि भगवत्प्रसाद एव निमित्तम्—इति दर्शयितुमाह—
 
 > अभिनवगुप्तस्य कृतिः सेयं यस्योदिता गुरुभिराख्या ।

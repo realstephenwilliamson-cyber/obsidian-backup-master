@@ -34,6 +34,9 @@ tatpratyūhodayadhvastyai brūyāttasyāpi vartanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 372)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.7]]
+
 *Lead-in:* ननु एवं स्वपरामर्शो यस्य नास्ति, तं प्रति किं शेषवृत्तिर्वाच्या न वा ?--इत्याशङ्क्याह--
 
 > आचार्यप्रत्ययादेव योऽपि स्याद्भुक्तिमुक्तिभाक् ।

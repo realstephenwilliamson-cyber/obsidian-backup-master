@@ -34,5 +34,10 @@ praviśya hṛdaye dhyāyetsuptaḥ svācchandyamāpnuyāt |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 294–296)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.480–481]]
+>
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.481–484]]
+
 Jayaratha comments on this verse together with 15.489: see [[Tantraloka 15.489#Viveka|15.489]].
 

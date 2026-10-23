@@ -34,6 +34,9 @@ bhaktirūhācca vijñānādācāryādvāpyasevitāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 265)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.32]]
+
 *Lead-in:* ननु यद्येवं तदनेन संस्कारेण अस्य तत्र कश्चिद्विशेषो भवेन्न वा?--इत्याशङ्क्याह--
 
 > तस्मिन्देहे तु काप्यस्य जायते शाङ्करी परा ।

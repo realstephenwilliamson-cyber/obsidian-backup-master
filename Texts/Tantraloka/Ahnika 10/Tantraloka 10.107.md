@@ -31,5 +31,8 @@ māyāniviṣṭo vijñānākalādyāḥ prāgvadeva tu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 364–365)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.105–107]]
+
 Jayaratha comments on this verse together with 10.112: see [[Tantraloka 10.112#Viveka|10.112]].
 

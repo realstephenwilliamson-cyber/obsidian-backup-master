@@ -35,6 +35,9 @@ mantrātmāsau vimarśaśca śuddho'pāśavatātmakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 109–110)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.250–251]]
+
 *Lead-in:* ननु शब्दात्मा सञ्जल्पः कथमविकल्पके विश्राम्येत् ?--इत्याशङ्क्याह- -
 
 Jayaratha comments on this verse together with 16.251: see [[Tantraloka 16.251#Viveka|16.251]].

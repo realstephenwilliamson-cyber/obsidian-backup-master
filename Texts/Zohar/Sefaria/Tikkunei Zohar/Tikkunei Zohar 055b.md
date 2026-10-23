@@ -305,7 +305,7 @@ Y-B M-H B-Y M-H.
 [^7]: Yesod
 [^8]: *qe-toret*
 [^9]: *qorban*
-[^10]: See *BT* Berakhot 26b
+[^10]: See *BT* [[Berakhot 26#26b|Berakhot 26b]]
 [^11]: *musaph*
 [^12]: *qorbana*
 [^13]: *qe-rivu*
@@ -319,7 +319,7 @@ Y-B M-H B-Y M-H.
 [^21]: *aur*
 [^22]: daughter of-seven
 [^23]: *qidushin*
-[^24]: See *BT* Qiddushin 5b
+[^24]: See *BT* [[Kiddushin 5#5b|Qiddushin 5b]]
 [^25]: *me-qudeshet*
 [^26]: *ke-hunah*
 [^27]: *koh*
@@ -334,7 +334,7 @@ Y-B M-H B-Y M-H.
 [^36]: *ḥaiy*
 [^37]: *ḥaiy*
 [^38]: *ot*
-[^39]: See *BT* Menaḥot 36b
+[^39]: See *BT* [[Menachot 36#36b|Menaḥot 36b]]
 [^40]: daughter
 [^41]: Shyn
 [^42]: *te-ḥum*

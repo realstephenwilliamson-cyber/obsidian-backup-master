@@ -31,6 +31,9 @@ sarvānprati tathaiṣa syād ruddhaśaktirviṣāgnivat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 161–162)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.59–60]]
+
 *Lead-in:* अथ मलस्य न नाशः पाकः किन्त्वस्य शक्तिप्रतिबन्धो नाम -- इत्याह --
 
 Jayaratha comments on this verse together with 13.60: see [[Tantraloka 13.060#Viveka|13.60]].

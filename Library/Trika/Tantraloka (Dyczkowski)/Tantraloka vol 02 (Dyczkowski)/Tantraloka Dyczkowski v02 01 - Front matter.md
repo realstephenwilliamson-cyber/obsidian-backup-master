@@ -92,9 +92,9 @@ While Swami Laksmaṇajoo was a great master of inner, yogic practice, in Nepal 
 
 Pt. Vrajavallabha Dvivedi, former head of the Yogatantra Department at Saṁpūrṇānanda Sanskrit University, was an abiding source of inexhaustible knowledge. Indeed, his scholarly work, both in Sanskrit and Hindi, is formidable ~ ranging as it does through virtually every major Tantric tradition including not only Kashmiri Śaivism, but also Śaiva Siddhānta, Vīra Śaivism, Śrīvidyā, the Kaula Tantras, Vaiṣṇava Pañcarātra, the Buddhist Anuttarayoga Tantras and even Jain Tantrism. 
 
-In other areas of study, I cannot but recall with gratitude Pt. B. P. Tripathi, better known as Vāgīśa Śāstrī, former Director of the Research Department of Sarnpūrṇānanda Sanskrit University, who labored for years to teach me Sanskrit grammar both in the traditional manner through the Siddhāntakaumudī and through his own didactic method. 
+In other areas of study, I cannot but recall with gratitude Pt. B. P. Tripathi, better known as Vāgīśa Śāstrī, former Director of the Research Department of Saṁpūrṇānanda Sanskrit University, who labored for years to teach me Sanskrit grammar both in the traditional manner through the Siddhāntakaumudī and through his own didactic method. 
 
-Although I have not studied formally with Prof. K. D. Tripathi, retired dean of the Sanskrit college of Banaras Hindu University, I cannot but acknowledge that the many lectures I have heard him deliver and dialogues I have had with him over the years inspired and helped me very much to understand Pratyabhijñā, Bhartrhari’s philosophy of grammar, Abhinavagupta’s aesthetics and the Śaiva Āgamas. In a similar way, I had the good fortune to listen to many lectures and attend classes on the Nāṭyaśsastra with Abhinavagupta’s commentary by the late Premalata Sharma, formerly Dean of the Music Faculty of BHU and President of the Sangit Nataka Academy. There are many other renowned scholars 
+Although I have not studied formally with Prof. K. D. Tripathi, retired dean of the Sanskrit college of Banaras Hindu University, I cannot but acknowledge that the many lectures I have heard him deliver and dialogues I have had with him over the years inspired and helped me very much to understand Pratyabhijñā, Bhartṛhari’s philosophy of grammar, Abhinavagupta’s aesthetics and the Śaiva Āgamas. In a similar way, I had the good fortune to listen to many lectures and attend classes on the Nāṭyaśsastra with Abhinavagupta’s commentary by the late Premalata Sharma, formerly Dean of the Music Faculty of BHU and President of the Sangit Nataka Academy. There are many other renowned scholars 
 
 *[p. iii]* ^pg7
 
@@ -104,7 +104,7 @@ Bhāskara Rāya, the great \[illegible\] century exponent of Śrīvidyā.
 
 I owe a special thanks also to Bettina Bäumer whose dedication and scholarship in many fields has been an abiding source of inspiration and knowledge for me throughout the 50 years of our acquaintance. Of those who do not reside in Benares I gratefully acknowledge Prof. Navajivan Rastogi whose books and lectures have helped me a great deal. 
 
-I should not forget to mention my good friends and fellow travelers, especially Dr. Śitalāprasād Upādhyāya, formarly head of the Yogatantra Department at Sarnpūrṇānanda Sanskrit University and then rector of the University. I am especially grateful to Prof. Rana Singh, retired head of the Geography department of Banaras Hindu University who guided me through the principles of sacred geography, particularly that of Kāŝī. 
+I should not forget to mention my good friends and fellow travelers, especially Dr. Śitalāprasād Upādhyāya, formarly head of the Yogatantra Department at Saṁpūrṇānanda Sanskrit University and then rector of the University. I am especially grateful to Prof. Rana Singh, retired head of the Geography department of Banaras Hindu University who guided me through the principles of sacred geography, particularly that of Kāśī. 
 
 During the decades that went into making this translation and study I continuously searched for the sources Abhinavagupta quotes in his Tantrāloka and other works. In this regard I am deeply indebted to the librarians who permitted me to have copies of manuscripts and early rare printed books. I am especially grateful to the German directors in Nepal of the German Nepalese Manuscript Preservation Project. Over the twenty odd years in which I travelled every year, sometimes more than once, to Nepal, seven came and went. There I collected copies of manuscripts of the majority of the most important texts belonging to the early period, that is, prior to Abhinavagupta, from which he drew. The Nepalese collection is very extensive and contains most of the earliest manuscripts preserved in the Indian subcontinent. Other libraries that have furnished manuscripts of important texts, are the Asiatic Society in Calcutta, the central library of Banaras Hindu University, and the libraries in Jodhpur and Poone. 
 
@@ -168,13 +168,13 @@ The Sequence of the Arising of (the Fifty Forms) of Reflective Awareness: verses
 
 The Emergence of the Sibilants: verses 163-165 (162cd-165ab), pages 278-280 The Sibilant S as the Principle of the Nectar of Poison: verses 166-170ab (165cd- 169), pages 280-289 The Principles of Passion, Poison and the Stainless: verses 170cd-175ab (170- 174), pages 289-298 The Neuter Vowels p R \] Ḷ and the Sibilants: verses 175cd-180ab (175-179), pages 298-301 The Fiftieth Letter, KṢ: verses 180cd-18 lab (180ab-180cd), pages 301-303 
 
-The Two Tetrads Y, R, L, V and S, \[illegible\] \[illegible\] 15: verses 181cd-184 (181-184ab), pages 303-304 The Group of Six Vowels A, Ā, I, Ī, U and Ū: verses 185-192 (184cd-192ab), pages 304-311 The Triad A I U: verses 193-195ab (192cd-194), pages 311-312 The Lord United with Emission is All Things as the Fifty Energies of the Letters: verses 195cd-197ab, pages 312-314 The Goddess with Eighty-one Parts, Śabdarāśi, Mātrkā and Mālinī: verses 197cd- 200ab, pages 314-318 
+The Two Tetrads Y, R, L, V and S, \[illegible\] \[illegible\] 15: verses 181cd-184 (181-184ab), pages 303-304 The Group of Six Vowels A, Ā, I, Ī, U and Ū: verses 185-192 (184cd-192ab), pages 304-311 The Triad A I U: verses 193-195ab (192cd-194), pages 311-312 The Lord United with Emission is All Things as the Fifty Energies of the Letters: verses 195cd-197ab, pages 312-314 The Goddess with Eighty-one Parts, Śabdarāśi, Mātṛkā and Mālinī: verses 197cd- 200ab, pages 314-318 
 
 The Oneness (of these Forms of Reflective Awareness) 
 
 with Mantra and the Rest 
 
-The Cycle of the Flow of AHAM that Encapsulates All Things: verses 200cd- 208ab, pages 318-327 The Aesthetic Delight of Śiva’s Power of Emission: verses 208cd-210, pages 327- 331 The Three Forms of Emission: verses 211-219, pages 331-337 The Triad A I U Continued: verses 220-22 1ab, pages 338-339 The Five-fold Point (bindu): verses 221cd-223ab, pages 340-344 Mantras are Effective Encompassed by the A and H of AHAM: verses 223cd-225, pages 344-347 The Power of Emission Taught in the Aitareyāranyaka: verses 226-228, pages 347-351 Aesthetic Experience as the Arousal of the Vitality of Consciousness: verses 229- 230ab, pages 351-356 This Vitality is the Source of Life and so Emission is All Things: verses 230cd- 231, pages 356-357 Emission is Śabdarāśi, Mātrkā and Mālinī: verses 232, pages 357-359 Mālinī as Parā and Kālasaṁkarṣaṇī: verses 233-234, pages 359-361 The Aesthetics of Music and the Three Levels of Speech: verses 235-247ab, pages 361-371 The Supreme Triad and the Groups of Six: verses 247cd-250ab, pages 371-373 The All-embracing Wheel of the Twelve Kālikās: verses 250cd-259ab, pages 373- 380 The Three Ways of Eliminating Creation, Persistence and Destruction: verses 259cd-260ab, page 381 Peaceful Cessation and the Process of Violent Digestion: verses 260cd-265ab, pages 381-390 
+The Cycle of the Flow of AHAM that Encapsulates All Things: verses 200cd- 208ab, pages 318-327 The Aesthetic Delight of Śiva’s Power of Emission: verses 208cd-210, pages 327- 331 The Three Forms of Emission: verses 211-219, pages 331-337 The Triad A I U Continued: verses 220-22 1ab, pages 338-339 The Five-fold Point (bindu): verses 221cd-223ab, pages 340-344 Mantras are Effective Encompassed by the A and H of AHAM: verses 223cd-225, pages 344-347 The Power of Emission Taught in the Aitareyāranyaka: verses 226-228, pages 347-351 Aesthetic Experience as the Arousal of the Vitality of Consciousness: verses 229- 230ab, pages 351-356 This Vitality is the Source of Life and so Emission is All Things: verses 230cd- 231, pages 356-357 Emission is Śabdarāśi, Mātṛkā and Mālinī: verses 232, pages 357-359 Mālinī as Parā and Kālasaṁkarṣaṇī: verses 233-234, pages 359-361 The Aesthetics of Music and the Three Levels of Speech: verses 235-247ab, pages 361-371 The Supreme Triad and the Groups of Six: verses 247cd-250ab, pages 371-373 The All-embracing Wheel of the Twelve Kālikās: verses 250cd-259ab, pages 373- 380 The Three Ways of Eliminating Creation, Persistence and Destruction: verses 259cd-260ab, page 381 Peaceful Cessation and the Process of Violent Digestion: verses 260cd-265ab, pages 381-390 
 
 *[p. ix]* ^pg13
 
@@ -194,7 +194,7 @@ Abbreviations
 
 APS 
 
-Ajadapramātrsiddhi 
+Ajadapramātṛsiddhi 
 
 ASB 
 
@@ -204,7 +204,7 @@ Atharvaveda BLO
 
 Bodleian Library, Oxford BY 
 
-Brahmayāãmala BhGī 
+Brahmayāmala BhGī 
 
 Bhagavadgītā BhoKā 
 
@@ -226,7 +226,7 @@ DP
 
 Devīpañcaśataka 
 
-DhĀÃI 
+DhĀI 
 
 Dhvanyālokālocana 
 
@@ -328,13 +328,13 @@ Manuscript Mālinīvijayottaratantra
 
 *[p. xi]* ^pg15
 
-Maālinīvijayavārtika Monier-Williams Mundaka Upaniṣad Mrgendratantra Mrgendratantravrtti Kriyāpāda Mrgendratantra Kriyāpāda Mrgendratantra Vidyāpāda Nepal German Manuscript Preservation Project Nityāṣodaśikārnava Nyāyabindu Nyāyabinduṭīkā Netratantra Netratantroddyota Number Page Paramokṣanirāsakārikā 
+Maālinīvijayavārtika Monier-Williams Mundaka Upaniṣad Mṛgendratantra Mṛgendratantravṛtti Kriyāpāda Mṛgendratantra Kriyāpāda Mṛgendratantra Vidyāpāda Nepal German Manuscript Preservation Project Nityāṣodaśikārnava Nyāyabindu Nyāyabinduṭīkā Netratantra Netratantroddyota Number Page Paramokṣanirāsakārikā 
 
 Parātrīśikā (= Parātriśika) 
 
 Parātriṁmśikavivaraṇa (Parātrīśikāvivaraṇa) Pāṇini’s Sūtras, the Aṣṭādhyāyī. 
 
-Pūrvakāmikā Paramārthasāra Pramānṇavārtika Pramānṇaviniścaya Pratyabhijñāhrdaya Ricerche e Studi Orientali Rājataraṁginī Rauravasūtrasagraha Rgveda 
+Pūrvakāmikā Paramārthasāra Pramānṇavārtika Pramānṇaviniścaya Pratyabhijñāhṛdaya Ricerche e Studi Orientali Rājataraṁginī Rauravasūtrasagraha Rgveda 
 
 Śatapathabrāhmaṇa 
 
@@ -342,9 +342,9 @@ Sāvarabhāṣya
 
 Sarvajñānottara Sva/Subodhodayamañjarī Swami Laksmanjoo Science of Light Saṁvitprakāśa Sāmkhyakārikā Spandakārikā Spandanirṇaya Spandapradīpikā 
 
-Spandasardoha 
+Spandasaṁdoha 
 
-'vadrṣṭi 
+'vadṛṣṭi 
 
 Śivasūtra 
 

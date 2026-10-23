@@ -276,14 +276,14 @@ which separates between the Righteous-One and the Shekhinah,
 [^5]: 18
 [^6]: *ve-zeh*
 [^7]: 18
-[^8]: *BT* Berakhot 32b
+[^8]: *BT* [[Berakhot 32#32b|Berakhot 32b]]
 [^9]: ו־ו
 [^10]: 12
 [^11]: הא
 [^12]: 6
 [^13]: ה
 [^14]: ו־ו
-[^15]: See *BT* Shabbat 156a
+[^15]: See *BT* [[Shabbat 156#156a|Shabbat 156a]]
 [^16]: ו
 [^17]: Malkhut
 [^18]: *Mishnah* Zevaḥim 5:1
@@ -291,7 +291,7 @@ which separates between the Righteous-One and the Shekhinah,
 [^20]: *dyna*
 [^21]: *qeshet*
 [^22]: *nogah*
-[^23]: See *BT* Ḥagigah 16a
+[^23]: See *BT* [[Chagigah 16#16a|Ḥagigah 16a]]
 [^24]: *nogah*
 [^25]: *tohu*
 [^26]: See ibid. 12a

@@ -31,6 +31,9 @@ pratyekaṃ taccaturdhaivaṃ maṇḍalaṃ mudrikā tathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 236)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.22–24]]
+
 > प्रधानत्वात्तस्य तस्य वस्तुनो भिन्नता पुनः ॥
 > कथिता साधकेन्द्राणां तत्तद्वस्तुप्रसिद्धये ।
 > प्रत्येकं तच्चतुर्धैवं मण्डलं मुद्रिका तथा ॥

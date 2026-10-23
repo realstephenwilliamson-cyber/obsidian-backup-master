@@ -34,6 +34,9 @@ tadaiva mokṣa ityuktaṃ dhātrā śrīmanniśāṭane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 172–174)
+> ![[Tantraloka Dyczkowski v01 06 - Chapter One, part 5#Viveka on 1.50–51]]
+
 *Lead-in:* एवं विकल्पोऽत्र सम्भवन्मुक्तौ व्यवधायकः इति न तदैव मुक्तिः, तस्य पुनरसम्भवे सत्यपि देहे मुक्तिः -- इत्याह—
 
 > बौद्धाज्ञाननिवृत्तौ तु विकल्पोन्मूलनाद् ध्रुवम् ।

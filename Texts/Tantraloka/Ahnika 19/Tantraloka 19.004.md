@@ -34,6 +34,9 @@ tatra mande'tha gurvādisevayāyuḥ kṣayaṃ vrajet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 201–202)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.4–6]]
+
 *Lead-in:* एवमपि शक्तिपातस्य वैचित्र्यं दर्शयति--
 
 Jayaratha comments on this verse together with 19.6: see [[Tantraloka 19.006#Viveka|19.6]].

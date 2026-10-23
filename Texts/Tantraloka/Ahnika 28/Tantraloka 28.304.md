@@ -31,6 +31,9 @@ vikalpāntarayogena na cāpyunmūlitātmakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 131)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.304–305]]
+
 *Lead-in:* एतदेव उपपादयति--
 
 Jayaratha comments on this verse together with 28.305: see [[Tantraloka 28.305#Viveka|28.305]].

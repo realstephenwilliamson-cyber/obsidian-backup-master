@@ -33,6 +33,11 @@ yathā tanmaṇḍalāsīno maṇḍalāntarabhūpatim || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 340–341)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.350–351]]
+>
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.351–353]]
+
 *Lead-in:* एतदेव दृष्टान्तोपदर्शनेन हृदयङ्गमयति --
 
 Jayaratha comments on this verse together with 13.350: see [[Tantraloka 13.350#Viveka|13.350]].

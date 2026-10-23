@@ -35,6 +35,9 @@ sapañcāṃśāṅgule'bdaḥ syātprāṇe ṣaṣṭyabdatā punaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 352)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.126]]
+
 *Lead-in:* एवं द्वादशाब्दोदयमभिधाय षष्ट्यब्दोदयमप्यभिधत्ते --
 
 > प्रत्यङ्गुलं तिथीनां तु त्रिशते परिकल्पिते ।

@@ -33,6 +33,11 @@ tataḥ prabhṛtyasau pūrvo gurustyaktādhikārakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 308–310)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.25–26]]
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.26–28]]
+
 *Lead-in:* ज्ञानिनः पुनरयं विशेषः--इत्याह--
 
 Jayaratha comments on this verse together with 23.25: see [[Tantraloka 23.025#Viveka|23.25]].

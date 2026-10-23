@@ -31,5 +31,8 @@ anusvāravisargau ca vidyeśeśvaratattvayoḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 5)
+> ![[Tantraloka Dyczkowski v11 02 - Chapter Thirty, part 1#Viveka on 30.6]]
+
 Jayaratha comments on this verse together with 30.11: see [[Tantraloka 30.011#Viveka|30.11]].
 

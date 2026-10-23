@@ -34,5 +34,10 @@ tatsadṛgjñānasaṃtāno dhyānamastamitā param || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 111–113)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.92–94]]
+>
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.92–94 (continued)]]
+
 Jayaratha comments on this verse together with 4.94: see [[Tantraloka 04.094#Viveka|4.94]].
 

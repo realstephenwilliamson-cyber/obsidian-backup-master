@@ -31,6 +31,9 @@ mukhyabhedaprakāreṇa vidherānantyamucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 390–391)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.157]]
+
 *Lead-in:* तत्त्वान्तरैः सहेत्युक्तं विभजति --
 
 > मुख्यानां भेदभेदानां जलाद्यैर्भेदने सति ।

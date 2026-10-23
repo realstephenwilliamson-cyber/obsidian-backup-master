@@ -34,6 +34,9 @@ sphuṭayantī praroheṇa prāṇavṛttiriti sthitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 222–223)
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.8]]
+
 *Lead-in:* तदाह -
 
 > सैव संविद् बहिः स्वात्मगर्भीभूतौ क्रमाक्रमौ ।

@@ -306,6 +306,6 @@ because he rules
 [^34]: ה־ה
 [^35]: *te-mimah*
 [^36]: *tamim*
-[^37]: *BT* Shabbat 146a
+[^37]: *BT* [[Shabbat 146#146a|Shabbat 146a]]
 [^38]: *tam*
 [^39]: *ḥerut*

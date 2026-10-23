@@ -34,6 +34,9 @@ asaṃvidrūpatāyogāddharmiṇaścānirūpaṇāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 331)
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.156–157]]
+
 > मोक्षो हि नाम नैवान्यः स्वरूपप्रथनं हि सः ।
 > स्वरूपं चात्मनः संविन्नान्यत्तत्र तु याः पुनः ॥
 > क्रियादिकाः शक्तयस्ताः संविद्रूपाधिका नहि ।

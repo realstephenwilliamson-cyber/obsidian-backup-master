@@ -37,6 +37,11 @@ nirañjanaṃ paraṃ dhāma tattvaṃ tasya tu sāñjanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 294–297)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.171]]
+>
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.171–172]]
+
 *Lead-in:* एवं न केवलमस्य कामतत्त्वत्वमस्ति, विषतत्त्वत्वं वा, यावन्निरञ्जनत्वमपि -- इत्याह --
 
 > निरञ्जनं परं धाम तत्त्वं तस्य तु साञ्जनम् ॥

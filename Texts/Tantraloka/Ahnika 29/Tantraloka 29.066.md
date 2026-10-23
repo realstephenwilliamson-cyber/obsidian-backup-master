@@ -31,6 +31,9 @@ mātsyikacākrikadayitāsteṣāṃ patnyo navātra navayāge || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 259–260)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.66]]
+
 *Lead-in:* ननु किं नाम तच्चक्रं यस्यापि न्यस्यत्वेन पीठाख्योऽयं विधिर्विवक्षितः?--इत्याशङ्क्य आह--
 
 > मातङ्गकृष्णसौनिककार्मुकचार्मिकविकोषिधातुविभेदाः ।

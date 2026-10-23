@@ -31,6 +31,9 @@ karaṇīkurute'tyantavyatiriktaṃ kuṭhāravat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 234–235)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.245]]
+
 *Lead-in:* ननु यद्येवं तत् कथं "कुठारेण छिनत्ति"इत्यादौ कर्तुर्विभिन्नस्यापि कुठारादेः करणत्वं स्यात्? -- इत्याशङ्क्याह --
 
 > करणीकृततत्स्वांशतन्मयीभावनावशात् ।

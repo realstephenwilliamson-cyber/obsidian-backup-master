@@ -34,6 +34,9 @@ ante pūrṇā ca dātavyā tato'smai dīkṣayā guruḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 273–274)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.54–56]]
+
 > नवात्मा फट्पुटान्तःस्थः पुनः पञ्चफडन्वितः ।
 > अमुकस्येति पापानि दहाम्यनु फडष्टकम् ॥
 > इति साहस्रिको होमः कर्तव्यस्तिलतण्डुलैः ।

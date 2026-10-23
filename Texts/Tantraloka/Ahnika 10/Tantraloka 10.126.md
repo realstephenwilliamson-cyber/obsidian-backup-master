@@ -31,6 +31,9 @@ evaṃ mantratadīśānāṃ mantreśāntarasaṃbhave || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 374–375)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.124–127]]
+
 > ततो लयाकले मेये प्रमातास्ति लयाकलः ॥
 > अतस्त्रयोदशत्वं स्यादित्थं नैकादशात्मता ।
 > विज्ञानाकलवेद्यत्वेऽप्यन्यो ज्ञानाकलो भवेत् ॥

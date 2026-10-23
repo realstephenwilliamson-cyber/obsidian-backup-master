@@ -33,6 +33,11 @@ tadagrapārśvayorjīvāt sūtramekāntare dhṛtam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 97–99)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.67–69]]
+>
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.69–71]]
+
 *Lead-in:* इदानीं पार्श्वशृङ्गवर्तनामभिधत्ते--
 
 Jayaratha comments on this verse together with 31.68: see [[Tantraloka 31.068#Viveka|31.68]].

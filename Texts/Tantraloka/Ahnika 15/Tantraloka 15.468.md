@@ -31,6 +31,9 @@ abhiṣekavidhau kuryādācāryasya gurūttamaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 288–289)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.466–468]]
+
 > एतैर्गुणैः समायुक्तो दीक्षितः शिवशासने ॥
 > चतुष्पात्संहिताभिज्ञस्तन्त्राष्टादशतत्परः ।
 > दशतन्त्रातिमार्गज्ञ आचार्यः स विधीयते ॥

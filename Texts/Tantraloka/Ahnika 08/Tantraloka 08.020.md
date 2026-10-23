@@ -36,6 +36,11 @@ tadatra pārthive tattve kathyate bhuvanasthitiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 68–79)
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.19–20]]
+>
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.20–22]]
+
 *Lead-in:* पृथिवीतत्त्वमेव च स्थौल्यस्य परा कोटिः, इति तदुपक्रमं सुखेनावबोधात् तत्रैव प्रथमं भुवनस्थितिरुच्यते, -- इत्याह --
 
 > तदत्र पार्थिवे तत्त्वे कथ्यते भुवनस्थितिः ॥

@@ -34,6 +34,11 @@ grāhyagrahaṇatādvaitaśūnyateyaṃ samāhitiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 111–113)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.92–94]]
+>
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.92–94 (continued)]]
+
 > प्रत्याहारश्व नामायमर्थीभ्योऽक्षधियां हि यः ।
 > अनिबद्धस्य बन्धस्य तदन्तः किल कीलनम् ॥
 > चित्तस्य विषये क्वापि बन्धनं धारणात्मकम् ।

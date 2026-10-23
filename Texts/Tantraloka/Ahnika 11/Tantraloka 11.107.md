@@ -35,6 +35,9 @@ tato bhāvāstatra bhāvāḥ śaktirādhārikā tataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 93)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.107]]
+
 *Lead-in:* तदाह --
 
 > तस्मात्प्रतीतिरेवेत्थं कर्त्री धर्त्री च सा शिवः ।

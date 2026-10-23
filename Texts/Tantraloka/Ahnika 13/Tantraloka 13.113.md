@@ -33,6 +33,11 @@ itthaṃ sṛṣṭisthitidhvaṃsatraye māyāmapekṣate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 192–193)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.112–113]]
+>
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.113–114]]
+
 *Lead-in:* इत्युक्तम् ॥ ननु यद्येवं तत्किमेभिरन्तर्गडुप्रायैर्मलादिभिः, ईश्वरेच्छैव विश्वसर्गादौ निरपेक्षा निमित्तमस्तु ? -- इत्याशङ्क्याह - -
 
 > इत्थं सृष्टिस्थितिध्वंसत्रये मायामपेक्षते ॥

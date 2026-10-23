@@ -34,6 +34,9 @@ tanmeyamātmanaḥ projjhya viviktaṃ bhāsate nabhaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 223–225)
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.9]]
+
 *Lead-in:* ननु कथं नामेयं प्राणवृत्त्यात्मना प्रस्फुरिता -- इत्याशङ्क्याह --
 
 > संविन्मात्रं हि यच्छुद्धं प्रकाशपरमार्थकम् ।

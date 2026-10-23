@@ -33,6 +33,11 @@ sakalasya pramāṇāṃśo yo'sau vidyākalātmakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 298–301)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.10–12]]
+>
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.12–17]]
+
 *Lead-in:* ननु सकलादिप्रमातृसप्तकं सर्वत्र प्रसिद्धमित्यास्तां को दोषः, तच्छक्तयस्तु न क्वचिदपि परिपठिताः, इति कास्ताः ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 10.11: see [[Tantraloka 10.011#Viveka|10.11]].

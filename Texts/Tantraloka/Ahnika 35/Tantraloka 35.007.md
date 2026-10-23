@@ -31,6 +31,9 @@ so'pi prāgvāsanārūpavimarśaparikalpitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 194)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.7–8]]
+
 *Lead-in:* ननु चेतः प्रसादोऽपि कुतस्त्य इति साक्रोशमुपदिशति--
 
 > हन्त चेतःप्रसादोऽपि योऽसावर्थविशेषगः ।

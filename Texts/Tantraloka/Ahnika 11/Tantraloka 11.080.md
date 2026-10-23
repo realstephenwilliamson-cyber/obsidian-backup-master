@@ -37,6 +37,11 @@ ata eva hi vāksiddhau varṇānāṃ samupāsyatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 71–73)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.79–80]]
+>
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.80–81]]
+
 *Lead-in:* अतश्चागमोऽप्येवम् -- इत्याह --
 
 > अत एव हि वाक्सिद्धौ वर्णानां समुपास्यता ॥

@@ -35,6 +35,9 @@ brahmāṇḍādhaśca rudrordhvaṃ daṇḍapāṇeḥ puraṃ sa ca |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 189–190)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.159–161]]
+
 *Lead-in:* तदाह -
 
 Jayaratha comments on this verse together with 8.161: see [[Tantraloka 08.161#Viveka|8.161]].

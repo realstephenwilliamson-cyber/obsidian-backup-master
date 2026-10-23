@@ -33,6 +33,13 @@ ityeṣā mālinī devī śaktimatkṣobhitā yataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 81–84)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.121–125]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.121–125 (continued)]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.125–126]]
+
 *Lead-in:* तस्या एव उपसंहारगर्भं स्वरूपमाचष्टे--
 
 > इत्येषा मालिनी देवी शक्तिमत्क्षोभिता यतः ॥

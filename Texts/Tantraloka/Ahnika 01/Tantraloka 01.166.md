@@ -34,6 +34,9 @@ hetubhede'pi no bhinnā ghaṭadhvaṃsādivṛttivat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 339–340)
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.166]]
+
 *Lead-in:* इत्यादिना साक्षात् उपायनानात्वमुक्तम् इति कथं न तद्भेदादुपेयेऽपि भेदः ? इत्याशङ्क्याह --
 
 > मलतच्छक्तिविध्वंसतिरोभूच्युतिमध्यतः ।

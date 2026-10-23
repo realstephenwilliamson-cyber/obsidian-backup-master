@@ -42,11 +42,11 @@ By believing this truly, everything becomes good even in appearance. For by such
 [^2]: [[Job 38#^38-19|Job 38:19]].
 [^3]: [[Proverbs 14#^14-30|Proverbs 14:30]].
 [^4]: *Avot* 2:4.
-[^5]: See *Moed Kattan* 28b [*Zohar* [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-43b|I:43b]]; ibid., [[Zohar 3.04 - Parashat Va-Yeshev#^z1-181a|181a]]; *et passim*. See also *Biurei Hazohar*, *Vayera* 11b (in comment on *Zohar* I:115a)].
+[^5]: See [[Moed Katan 28#28b|*Moed Kattan* 28b]] [*Zohar* [[Zohar 12.04 - Heikhalot Be-Reshit#^z1-43b|I:43b]]; ibid., [[Zohar 3.04 - Parashat Va-Yeshev#^z1-181a|181a]]; *et passim*. See also *Biurei Hazohar*, *Vayera* 11b (in comment on *Zohar* I:115a)].
 [^6]: *Avot* 4:22.
 [^7]: Lit., the Former of the Beginning. The latter word, which has a cosmological connotation, is often used and translated as “creation,” or “universe.” It was left untranslated in the text because there is a play on words *(bereishit* here, *reishit* further on). (See also *Pardes Rimonim* 23:10, s.v. *Yotzer Bereishit*, on this term.)
 [^8]: Par. [[Psalms 112#^112-10|Psalms 112:10]] or [[Proverbs 04#^4-7|Proverbs 4:7]]. *Reishit* (the beginning) is another term for *chochmah* (see above, Epistle 5, notes 80-82). *Chochmah* is the *ayin* (naught) out of which the creation came into being (see further on, and cf. Addendum, *Mystical Concepts in Chassidism*).
-[^9]: *Likkutei Amarim*, Part II, ch. 1 ff. below, Epistle 25; see *Kuzari* 3:11 and cf. also *Chagigah* 12b and *Zohar* [[Zohar 3.06 - Parashat Va-Yiggash#^z1-207a|I:207a]].
+[^9]: *Likkutei Amarim*, Part II, ch. 1 ff. below, Epistle 25; see *Kuzari* 3:11 and cf. also [[Chagigah 12#12b|*Chagigah* 12b]] and *Zohar* [[Zohar 3.06 - Parashat Va-Yiggash#^z1-207a|I:207a]].
 [^10]: See *Likkutei Amarim*, Part I, ch. 18 ff. and *Zohar* [[Zohar 3.06 - Parashat Va-Yiggash#^z1-207a|I:207a]]. See also Addendum, ibid.
 [^11]: See *Tikkunei Zohar* 42 (81b); 70 (127a) and 133b. See also *Zohar* [[Zohar 3.07 - Parashat Va-Yhi#^z1-246b|I:246b]]; [[Zohar 12.06 - Piqqudin#^z2-43b|II:43b]] and [[Zohar 4.06 - Parashat Be-Shallah#^z2-64b|64b]]; *et passim*. Cf. *Pardes Rimonim* 23:1, s.v. *Ayin*. (See *Kitzurim V’Hearot*, p. 100, par. 7.)
 [^12]: *Ayin*, *chochmah*.

@@ -31,6 +31,9 @@ karmajatve ca tajjñānaṃ phalarāśau pated dhruvam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 129–130)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.11]]
+
 *Lead-in:* तदेवाह --
 
 > नहि कर्मास्ति तादृक्षं येन ज्ञानं प्रवर्तते ।

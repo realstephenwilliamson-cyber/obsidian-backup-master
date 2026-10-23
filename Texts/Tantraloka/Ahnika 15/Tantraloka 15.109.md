@@ -33,6 +33,11 @@ guravastu vimuktau vā siddhau vā vimalā matiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 74–75)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.108–109]]
+>
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.109–110]]
+
 *Lead-in:* तदिति--अज्ञानग्रन्थिकर्तनम् । नच स्वोपज्ञमेवोक्तम्--इत्युक्तम्-- श्रीमद्वीरावलीपदे इति ॥ गुरूणां पुनरयमाशयो यदुभयत्रापि भावप्रसाद एव निमित्तम्--इत्याह--
 
 > गुरवस्तु विमुक्तौ वा सिद्धौ वा विमला मतिः ॥

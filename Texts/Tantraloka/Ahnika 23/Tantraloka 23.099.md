@@ -31,6 +31,9 @@ bhavetpiśācavidyeśaḥ śuddha eva tu tāntrikaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 339–340)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.99–100]]
+
 *Lead-in:* अत्रैव वाक्यत्रये तात्पर्यतो विषयविभागमाचष्टे--
 
 > इयत्तत्रत्यतात्पर्यं सिद्धान्तगुरुरुन्नयः ।

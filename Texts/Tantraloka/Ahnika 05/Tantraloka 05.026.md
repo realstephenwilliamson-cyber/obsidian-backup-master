@@ -36,6 +36,11 @@ evaṃ dvādaśa tā devyaḥ sūryabimbavadāsthitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 28–29)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.26]]
+>
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.26–27]]
+
 *Lead-in:* ननु आसां सदोदितत्वादनाख्यदशायामपि उदयः संभवेत् -- इति कथं सृष्ट्यादिरूपतया प्रत्येकं त्रित्वमेवोक्तम् ? -- इत्याशङ्क्याह - -
 
 > चतुर्थं चानवच्छिन्नं रूपमासामकल्पितम् ।

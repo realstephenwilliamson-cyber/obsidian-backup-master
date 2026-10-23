@@ -34,6 +34,11 @@ saṃharantī kalayate dvādaśaivāhamātmani || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 230)
+> ![[Tantraloka Dyczkowski v03 07 - Chapter Four, part 6#Viveka on 4.159]]
+>
+> ![[Tantraloka Dyczkowski v03 08 - Chapter Four, part 7#Viveka on 4.159 (continued)]]
+
 *Lead-in:* एवं प्रमाणगतं संहारस्वरूपं निरूप्य, अनाख्यस्वरूपमपि निरूपयितुमाह --
 
 > इत्थं भोग्येऽपि संभुक्ते सति तत्करणान्यपि ।

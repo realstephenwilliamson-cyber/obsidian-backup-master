@@ -31,6 +31,9 @@ akramādathavā nyasyedekamevātha yojayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 93)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.139–142]]
+
 > इत्येवं मातृकां न्यस्येन्मालिनीं वा क्रमाद् द्वयम् ॥
 > सिद्धिमुक्त्यनुसाराद्वा वर्णान्वा युगपद् द्वयोः ।
 > अक्षह्नीं नफह्रीमेतौ पिण्डौ सङ्घाविहानयोः ॥

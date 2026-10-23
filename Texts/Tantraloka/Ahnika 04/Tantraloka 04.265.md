@@ -36,6 +36,11 @@ gotraṃ ca gurusaṃtāno maṭhikākulaśabditaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 371–373)
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.265]]
+>
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.265–267]]
+
 > नाम शक्तिशिवाद्यन्तमेतस्य मम नान्यथा ।
 
 "एतस्य"सैद्धान्तिकस्य साधकस्य, व्रतपरिग्रहादौ पुष्पपातादिक्रमेण क्रियमाणं नाम शक्तिशिवाद्यन्तं स्यात् । तेन शिखाशक्तिः, ईशानशिवः; आदिशब्दाद्गणाद्यन्तं, यथा कवचगणः । तदुक्तम् --

@@ -31,6 +31,9 @@ vākyaiḥ pañcākṣaraistvasyā niṣkalā parikīrtyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 51–52)
+> ![[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#Viveka on 30.89–90]]
+
 > या ज्ञानिनोऽपि संपूर्णकृत्यस्यापि श्रुता सती ॥
 > प्राणादिच्छेदजां मृत्युव्यथां सद्यो व्यपोहति ।
 > यामाकर्ण्य महामोहविवशोऽपि क्रमाद्गतः ॥

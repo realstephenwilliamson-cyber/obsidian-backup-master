@@ -35,6 +35,9 @@ dvādaśābdodaye te ca caitrādyā dvādaśoditāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 350–351)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.123–124]]
+
 > प्राणे वर्षोदयः प्रोक्तो द्वादशाब्दोदयोऽधुना ॥
 > खरसास्तिथ्य एकस्मिन्नेकस्मिन्नङ्गुले क्रमात् ।
 > द्वादशाब्दोदये ते च चैत्राद्या द्वादशोदिताः ॥

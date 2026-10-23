@@ -31,6 +31,9 @@ aliases:
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 313)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.121]]
+
 *Lead-in:* एवमपि अनयोरयं विशेषः--इत्याह--
 
 > शक्तिस्तद्वदुचितां सृष्टिं पुष्णाति नो तद्वान् ।

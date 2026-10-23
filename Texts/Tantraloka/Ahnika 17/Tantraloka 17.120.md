@@ -34,6 +34,9 @@ ekatattve śataṃ prāhurāhutīnāṃ tu sāṣṭakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 191)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.118–120]]
+
 > पुराध्वनि हुतीनां या संख्येयं तत्त्ववर्णयोः ।
 > तामेव द्विगुणीकुर्यात्पदाध्वनि चतुर्गुणाम् ॥
 > क्रमान्मन्त्रकलामार्गे द्विगुणा द्विगुणा क्रमात् ।

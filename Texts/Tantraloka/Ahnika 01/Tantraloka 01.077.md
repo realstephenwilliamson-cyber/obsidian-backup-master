@@ -35,6 +35,9 @@ vikalpo vetti tadvattu nādabindvādinā śivam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 218–219)
+> ![[Tantraloka Dyczkowski v01 07 - Chapter One, part 6#Viveka on 1.77]]
+
 *Lead-in:* ननु सर्वात्मनार्थो ज्ञातो भवति न तु अंशेन । विकल्पश्च सर्वात्मना अर्थं ज्ञातं न शक्नोति -- नियतांशाभिनिवेशित्वात् तस्य, अतः शिवस्तेन शक्तिद्वारेण विषयीकृतोऽपि सर्वात्मना तद्गोचरीभावाभावान्न ज्ञातः इति प्रश्नशेषमाशङ्क्याह --
 
 > रसाद्यनध्यक्षत्वेऽपि रूपादेव यथा तरुम् ।

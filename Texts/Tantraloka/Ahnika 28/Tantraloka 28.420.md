@@ -31,5 +31,8 @@ nityādilopakṛd bhraṣṭasvakamātrāparicchadaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 195)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.419–423]]
+
 Jayaratha comments on this verse together with 28.422: see [[Tantraloka 28.422#Viveka|28.422]].
 

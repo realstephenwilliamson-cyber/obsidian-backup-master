@@ -63,18 +63,18 @@ From this the intelligent, thoughtful person can infer for other sins and transg
 [^9]: “…from there I will bring you down, says the L–rd.” [[Obadiah 1#^1-4|Obadiah 1:4]] (cf. [[Jeremiah 49#^49-16|Jeremiah 49:16]]). See *Likkutei Amarim*, Part I, ch. 27.
 [^10]: [[Psalms 051#^51-19|Psalms 51:19]].
 [^11]: [[Psalms 109#^109-22|Psalms 109:22]].
-[^12]: *Berachot* 61b; *Likkutei Amarim*, Part I, chs. 1, 13, etc. David utterly destroyed the evil impulse within him.
+[^12]: [[Berakhot 61#61b|*Berachot* 61b]]; *Likkutei Amarim*, Part I, chs. 1, 13, etc. David utterly destroyed the evil impulse within him.
 [^13]: Cf. *Zohar* [[Zohar 9.06 - Parashat Qorah#^z3-178a|III:178a]].
-[^14]: *Berachot* 18b.
+[^14]: [[Berakhot 18#18b|*Berachot* 18b]].
 [^15]: [[Psalms 115#^115-17|Psalms 115:17]].
-[^16]: [[Proverbs 17#^17-5|Proverbs 17:5]]. *Berachot* 18a applies the verse to wearing *tefillin* in a cemetery, etc., a “mockery of the impoverished” who cannot perform the *mitzvah*.
+[^16]: [[Proverbs 17#^17-5|Proverbs 17:5]]. [[Berakhot 18#18a|*Berachot* 18a]] applies the verse to wearing *tefillin* in a cemetery, etc., a “mockery of the impoverished” who cannot perform the *mitzvah*.
 [^17]: [[Isaiah 44#^44-22|Isaiah 44:22]]. A discourse on this verse by Rabbi Menachem Mendel (1789-1866), author of *Tzemach Tzedek*, has been translated as a Supplement to *The Tzemach Tzedek and the Haskalah Movement*, p. 100. The reader is warmly urged to study that discourse, for it treats much of the material in this chapter of *Iggeret Hateshuvah*. It was originally delivered before Jewish soldiers in the Czarist army in 1843 (ibid. p. 55).
-[^18]: *Avodah Zarah* 18a; *Rashi* on [[Torah 46 - Eikev#^7-12|Deuteronomy 7:12]].
+[^18]: [[Avodah Zarah 18#18a|*Avodah Zarah* 18a]]; *Rashi* on [[Torah 46 - Eikev#^7-12|Deuteronomy 7:12]].
 [^19]: Cf. *Avot* 5:13.
 [^20]: [[Torah 47 - Re'eh#^15-9|Deuteronomy 15:9]].
-[^21]: *Berachot* 31b.
-[^22]: Cf. *Shabbat* 33; *Bava Batra* 164b; *Erchin* 15b.
-[^23]: Cf. *Shabbat* 105b; *Avot* 2:10.
-[^24]: *Sotah* 4b.
+[^21]: [[Berakhot 31#31b|*Berachot* 31b]].
+[^22]: Cf. *Shabbat* 33; [[Bava Batra 164#164b|*Bava Batra* 164b]]; *Erchin* 15b.
+[^23]: Cf. [[Shabbat 105#105b|*Shabbat* 105b]]; *Avot* 2:10.
+[^24]: [[Sotah 4#4b|*Sotah* 4b]].
 [^25]: Mishnah, *Peah* 1:1.
 [^26]: See above, ch. 1 and note 18.

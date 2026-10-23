@@ -31,6 +31,9 @@ iti jñātvā na sandeha itthaṃ kāryo vipaścitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 367–368)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.27–29]]
+
 > प्राप्तमृत्योर्विषव्याधिशस्त्रादि किल कारणम् ।
 > अल्पं वा बहु वा तद्वदनुध्या मुक्तिकारणम् ॥
 > मुक्त्यर्थमुपचर्यन्ते बाह्यलिङ्गान्यमूनि तु ।

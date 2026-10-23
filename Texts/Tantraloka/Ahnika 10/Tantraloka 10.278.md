@@ -31,6 +31,9 @@ turyātītaṃ tu tatprāhustadeva paramaṃ padam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 473)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.278]]
+
 *Lead-in:* एवं तुर्यमभिधाय तुर्यातीतमप्यभिधत्ते --
 
 > यत्तु पूर्णानवच्छिन्नवपुरानन्दनिर्भरम् ।

@@ -31,6 +31,9 @@ bauddhārhatanyāyaśāstraṃ padārthakramatantraṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 204–208)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.26–27]]
+
 *Lead-in:* ननु बुद्धार्हत्कपिलप्रभृतीनाप्तानपहाय शम्भुनैव इदं सर्वं प्रणीतमित्यत्र किं प्रमाणम्?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 35.27: see [[Tantraloka 35.027#Viveka|35.27]].

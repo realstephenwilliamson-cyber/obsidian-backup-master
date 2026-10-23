@@ -32,5 +32,8 @@ evaṃ prasaṅgānnirṇītaṃ prakṛtaṃ tu nirūpyate |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 291–292)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.472–474]]
+
 Jayaratha comments on this verse together with 15.473: see [[Tantraloka 15.473#Viveka|15.473]].
 

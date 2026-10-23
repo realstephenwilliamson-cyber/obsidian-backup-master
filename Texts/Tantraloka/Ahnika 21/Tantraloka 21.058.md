@@ -34,6 +34,9 @@ kṛtvā vidhimimāṃ cāpi dīkṣāṃ kuryādaśaṅkitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 275)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.57–58]]
+
 > यदि वा दैशिकः सम्यङ् न दीप्तस्तस्य तत्पुरा ॥
 > प्रायश्चित्तैस्तथा दानैः प्राणायामैश्च शोधनम् ।
 > कृत्वा विधिमिमां चापि दीक्षां कुर्यादशङ्कितः ॥

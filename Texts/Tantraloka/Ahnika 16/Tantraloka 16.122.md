@@ -34,6 +34,9 @@ kālasya pūrvaṃ vinyāso niyaterabhidhīyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 57)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.121–123]]
+
 > असारत्वात्क्रमस्यादौ नियतिः परतः कला ।
 > अथवान्योन्यसंज्ञाभ्यां तत्त्वयोर्व्यपदेश्यता ॥
 > एकवीरशिखेशश्रीकण्ठाः काले त्रयस्त्रये ।

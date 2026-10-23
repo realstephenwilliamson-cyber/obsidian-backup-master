@@ -33,6 +33,11 @@ saṃsārakāraṇaṃ karma saṃsārāṅkura ucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 85–89)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.88]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.88–89]]
+
 *Lead-in:* नन्वेवं सर्वस्यानुगतोऽर्थः किं न दर्शितः ? -- इत्याशङ्क्याह --
 
 > शेषास्तु सुगमरूपाः शब्दास्तत्रार्थमूहयेदुचितम् ।

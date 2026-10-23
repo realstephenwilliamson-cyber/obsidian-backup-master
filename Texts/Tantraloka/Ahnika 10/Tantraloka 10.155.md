@@ -31,6 +31,9 @@ layākalādiśaktīnāṃ saṃbhavo'styeva tattvataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 389–390)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.155]]
+
 *Lead-in:* नन्वन्यसंबन्धिनी शक्तिः कथमन्यं भिन्द्यात्, न हि पटस्यातानवितानवत्त्वेन घटस्तथा स्यात् ? -- इत्याशङ्क्याह --
 
 > सर्वं सर्वात्मकं यस्मात्तस्मात्सकलमातरि ।

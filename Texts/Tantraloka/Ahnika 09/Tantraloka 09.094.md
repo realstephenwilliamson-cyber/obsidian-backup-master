@@ -31,6 +31,9 @@ maivaṃ, sa hi malo jñānākale didhvaṃsiṣuḥ katham || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 93)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.93–95]]
+
 *Lead-in:* एतदेव प्रतिविधत्ते --
 
 > मैवं, स हि मलो ज्ञानाकले दिध्वंसिषुः कथम् ॥

@@ -37,6 +37,11 @@ dīkṣā hyasyopayujyeta saṃskriyāyāṃ sa saṃskṛtaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 132–133)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.295–296]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.296–297]]
+
 *Lead-in:* ननु गुरुणा चेदन्यतत्त्वे योजितः, तत्कथमस्य स्वबलादेव अन्यथा भुक्तिर्मुक्तिर्वा स्यात् ?--इत्याशङ्क्याह--
 
 > दीक्षा ह्यस्योपयुज्येत संस्क्रियायां स संस्कृतः ॥

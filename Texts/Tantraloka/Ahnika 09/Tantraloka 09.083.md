@@ -33,6 +33,11 @@ tena svarūpasvātantryamātraṃ malavijṛmbhitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 83–84)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.82–83]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.83–84]]
+
 *Lead-in:* इदानीमेतदुपसंहरन् प्रकृतमेवानुसरति --
 
 > तेन स्वरूपस्वातन्त्र्यमात्रं मलविजृम्भितम् ॥

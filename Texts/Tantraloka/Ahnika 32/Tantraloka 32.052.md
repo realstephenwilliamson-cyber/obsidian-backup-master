@@ -33,5 +33,10 @@ mātṛvyūhakule tāḥ syurasyāstu parivāragāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 160–161)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.50–52]]
+>
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.52–53]]
+
 Jayaratha comments on this verse together with 32.53: see [[Tantraloka 32.053#Viveka|32.53]].
 

@@ -35,6 +35,9 @@ ityāgamaṃ prathayituṃ darśitametadvikalpitaṃ tena || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 388)
+> ![[Tantraloka Dyczkowski v05 11 - Chapter Eight, part 9#Viveka on 8.434–435]]
+
 > यत्र यदा परभोगान् बुभुक्षते तत्र योजनं कार्यम् ॥
 > शोधनमथ तद्धानौ शेषं त्वन्तर्गतं कार्यम् ।
 > इत्यागमं प्रथयितुं दर्शितमेतद्विकल्पितं तेन ॥

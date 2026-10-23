@@ -33,6 +33,11 @@ nanu vijñātrupādhyaṃśopaskṛtaṃ vapurucyatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 309–311)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.23–24]]
+>
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.24–25]]
+
 > ननु विज्ञात्रुपाध्यंशोपस्कृतं वपुरुच्यताम् ॥
 > भावस्यार्थप्रकाशात्म यथा ज्ञानमिदं त्वसत् ।
 

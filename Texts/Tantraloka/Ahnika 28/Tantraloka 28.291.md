@@ -31,6 +31,9 @@ sthitau na ghnanti muktatvaṃ maraṇe'pi tathaiva tāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 126)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.290–291]]
+
 > नैतावता न मुक्तोऽसौ मृतिर्भोगो हि जन्मवत् ।
 > स्थितिवच्च ततो दुःखसुखाभ्यां मरणं द्विधा ॥
 > अतो यथा प्रबुद्धस्य सुखदुःखविचित्रताः ।

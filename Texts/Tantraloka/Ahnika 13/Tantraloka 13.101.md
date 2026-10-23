@@ -33,6 +33,11 @@ tasmānna manmahe ko'yaṃ śaktipātavidheḥ kramaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 185–186)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.100–101]]
+>
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.101]]
+
 *Lead-in:* तद्भेदवादिनां कस्तावच्छक्तिपातविधौ क्रम इति न जानीमः -- इत्याह --
 
 > तस्मान्न मन्महे कोऽयं शक्तिपातविधेः क्रमः ॥

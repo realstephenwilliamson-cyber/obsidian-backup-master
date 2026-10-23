@@ -35,5 +35,8 @@ paiśācaprabhṛtibrāhmaparyantaṃ tacca kīrtitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 247–248)
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.225–227]]
+
 Jayaratha comments on this verse together with 8.227: see [[Tantraloka 08.227#Viveka|8.227]].
 

@@ -33,6 +33,11 @@ iti pṛṣṭo'bhyadhātsvāntadhiyorjāḍyaikavāsanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 238–240)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.187–188]]
+>
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.188–189]]
+
 *Lead-in:* एवमुक्तश्च भगवान् प्रत्युवाच -- इत्याह --
 
 > इति पृष्टोऽभ्यधात्स्वान्तधियोर्जाड्यैकवासनात् ॥

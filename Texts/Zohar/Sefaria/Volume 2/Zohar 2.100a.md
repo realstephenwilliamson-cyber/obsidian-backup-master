@@ -39,6 +39,6 @@ Pritzker translation (Matt): [[Zohar 5.03 - Parashat Mishpatim#^z2-100a|Parashat
 
 **Mishpatim 3:118** It is concerning such bodies that it is written: “And many of them that sleep in the dust of the earth shall awake, some to everlasting life and some to shame and everlasting contempt” (Dan. 12, 2); the latter are those who have not done their duty (by bearing children) in this world. ^mishpatim-3-118
 
-[^1]: v. t. B. Chagigah, 27a.
+[^1]: v. t. B. [[Chagigah 27#27a|Chagigah, 27a]].
 [^2]: Lit. “We give thanks”,: the opening word of one of the Eighteen Benedictions. Cf. T. B. Baba Kama, 16a.
 [^3]: v. Zohar, Genesis 39b, 40a.

@@ -33,6 +33,11 @@ cumbākāreṇa vaktreṇa yattattvaṃ śrūyate param || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 157–158)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.44–47]]
+>
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.47–48]]
+
 *Lead-in:* श्रीकामिकोक्तमपि अस्या रूपमाह --
 
 Jayaratha comments on this verse together with 32.46: see [[Tantraloka 32.046#Viveka|32.46]].

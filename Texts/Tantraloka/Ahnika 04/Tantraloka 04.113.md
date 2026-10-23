@@ -36,6 +36,11 @@ idaṃ vikalpanaṃ śuddhavidyārūpaṃ sphuṭātmakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 132–133)
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.111–113]]
+>
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.113–114]]
+
 *Lead-in:* इत्यादिनीत्या विकल्पस्तावत् सर्व एव हेयः, तदनेनापि विभागेनाभिहितेन कोऽर्थः ? -- इत्याशङ्क्याह --
 
 > इदं विकल्पनं शुद्धविद्यारूपं स्फुटात्मकम् ॥

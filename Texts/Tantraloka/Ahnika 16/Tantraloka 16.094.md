@@ -36,5 +36,10 @@ tataḥ puraḥsthitaṃ yadvā purobhāvitavigraham || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 44)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 16.94–96.*
+>
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.94–96]]
+
 Jayaratha comments on this verse together with 16.95: see [[Tantraloka 16.095#Viveka|16.95]].
 

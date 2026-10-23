@@ -35,6 +35,9 @@ visargaprāntadeśe tu parā kuṇḍalinīti ca |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 244–251)
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.137–141]]
+
 > उक्तं च त्रिशिरःशास्त्रे कलाव्याप्त्यन्तचर्चने ॥
 > कला सप्तदशी तस्मादमृताकाररूपिणी ।
 > परापरस्वस्वरूपबिन्दुगत्या विसर्पिता ॥

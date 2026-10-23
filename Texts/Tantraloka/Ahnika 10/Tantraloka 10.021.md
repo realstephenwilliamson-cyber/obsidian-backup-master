@@ -31,6 +31,9 @@ sarvānpratyeva vedyaḥ syād ghaṭanīlādidharmavat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 306–308)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.21]]
+
 *Lead-in:* ननु ज्ञानं नाम क्रिया, सा च फलानुमेया, फलं च प्रकटताख्यं विषयधर्मः सैव च वेद्यता? -- इति कौमारिलं मतमाशङ्क्य प्रतिक्षिपति --
 
 > वेद्यता च स्वभावेन धर्मो भावस्य चेत्ततः ।

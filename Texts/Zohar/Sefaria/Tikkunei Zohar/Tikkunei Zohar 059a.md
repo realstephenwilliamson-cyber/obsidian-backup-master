@@ -279,7 +279,7 @@ the torn-one and the carcass.
 [^15]: *taqipha*
 [^16]: *tequphinn*
 [^17]: *qashin*
-[^18]: *BT* Pesaḥim 118a
+[^18]: *BT* [[Pesachim 118#118a|Pesaḥim 118a]]
 [^19]: *qashin*
 [^20]: *Pirqei d-Rabbi Eli’ezer* Ch.41
 [^21]: *Pirqei d-Rabbi Eli’ezer* Ch.5
@@ -294,13 +294,13 @@ the torn-one and the carcass.
 [^30]: *ḥokhmah*
 [^31]: *binah*
 [^32]: Aleph
-[^33]: *BT* Ḥullin 60b
+[^33]: *BT* [[Chullin 60#60b|Ḥullin 60b]]
 [^34]: *keter*
 [^35]: Liturgical: from the ‘Additional Service’
 [^36]: *melekh*
 [^37]: *malkhut*
 [^38]: fit
 [^39]: *zarim*
-[^40]: See *BT* Berakhot 31b and Zevaḥim 32a
+[^40]: See *BT* [[Berakhot 31#31b|Berakhot 31b]] and [[Zevachim 32#32a|Zevaḥim 32a]]
 [^41]: *ne-veilah*
 [^42]: *ne-veilah*

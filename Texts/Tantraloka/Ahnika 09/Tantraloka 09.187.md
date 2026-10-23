@@ -31,6 +31,9 @@ kalāpuṃsorviveke tu māyādho naiva gacchati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 160)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.187]]
+
 *Lead-in:* एवं प्रकृतिपुरुषविवेके प्रकृत्यन्तं पुंसः कर्मक्षयो भवेत्, कलापुंविवेके तु मायान्तं, येनास्य तदधःसंसरणं न स्यात्, तदाह --
 
 > अतः सांख्यदृशा सिद्धः प्रधानाधो न संसरेत् ।

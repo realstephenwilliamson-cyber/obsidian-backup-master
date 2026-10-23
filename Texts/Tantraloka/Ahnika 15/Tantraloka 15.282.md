@@ -31,6 +31,9 @@ taduktaṃ srukca pūrṇāyāṃ sruvaścājyāhutau bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 169)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.282–283]]
+
 *Lead-in:* ननु एवं वामशब्दस्य रहस्यार्थाभिधायित्वं सिद्धं वामकरत्वे पुनः किं प्रमाणम् ?--इत्याशङ्क्य आह--
 
 > श्रीमन्नन्दिशिखायां च श्रीमदानन्दशासने ।

@@ -33,6 +33,11 @@ kiṃ tattvaṃ tattvavedī ka ityāmarśanayogataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 262–263)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.219–222]]
+>
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.222–224]]
+
 *Lead-in:* ननु शिवेच्छयास्य सद्गुरुं प्रति यियासा जायते इत्यत्र किं लिङ्गम्? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 13.221: see [[Tantraloka 13.221#Viveka|13.221]].

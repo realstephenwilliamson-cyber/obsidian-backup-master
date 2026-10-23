@@ -36,6 +36,11 @@ itthaṃ dvādaśadhā saṃvittiṣṭhantī viśvamātṛṣu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 274–278)
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.177–178]]
+>
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.178–180]]
+
 *Lead-in:* ननु सृष्ट्यादिरूपोपग्रहेणावभासभेदात् क्रमिकतया वैचित्र्यातिशयादस्याः कथमेकत्वं तात्त्विकं भेवत्, येन "श्रीकालसङ्कर्षिणीति, श्रीमातृसद्भाव, इत्याद्येकतर एव परामर्शः स्यादिति कथमेतदुक्तम् ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 4.177: see [[Tantraloka 04.177#Viveka|4.177]].

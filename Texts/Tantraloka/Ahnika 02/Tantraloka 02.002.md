@@ -34,6 +34,9 @@ sakṛtsyāddeśanā paścādanupāyatvamucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 3–11)
+> ![[Tantraloka Dyczkowski v02 02 - Chapter Two, part 1#Viveka on 2.2]]
+
 *Lead-in:* तन्निर्णयमेवाह—
 
 > अनुपायं हि यद्रूपं कोऽर्थो देशनयात्र वै ।

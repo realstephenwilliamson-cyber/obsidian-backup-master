@@ -33,6 +33,11 @@ vidyāvratamidaṃ proktaṃ mantravīryaprasiddhaye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 315–316)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.37–39]]
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.39–41]]
+
 *Lead-in:* प्रकृतमेवोपसंहरति--
 
 Jayaratha comments on this verse together with 23.38: see [[Tantraloka 23.038#Viveka|23.38]].

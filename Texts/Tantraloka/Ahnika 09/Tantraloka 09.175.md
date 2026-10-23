@@ -31,6 +31,9 @@ suṣuptatāmivādhatte tata eva hyadṛkkriyaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 151–152)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.175]]
+
 *Lead-in:* नन्वात्मा स्वत एव ज्ञाता कर्ता चेत्युक्तं तदस्य कलया किंचित्कर्तृत्वं जन्यते इति किमेतत् ? -- इत्याशङ्क्याह -
 
 > माया हि चिन्मयाद् भेदं शिवाद्विदधती पशोः ।

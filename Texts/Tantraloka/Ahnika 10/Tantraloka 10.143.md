@@ -31,6 +31,9 @@ vedyatā tasya bhāvasya bhoktṛtā tāvatī ca sā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 383–384)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.142–144]]
+
 > एवं शिवोऽपि मनुते एतस्यैतत्प्रवेद्यताम् ॥
 > यास्यतीति सृजामीति तदानीं योग्यतैव सा ।
 > वेद्यता तस्य भावस्य भोक्तृता तावती च सा ॥

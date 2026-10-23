@@ -35,5 +35,8 @@ jñānamayyāṃ tu dīkṣāyāṃ tadviśudhyati sandhitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 136)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.304–307]]
+
 Jayaratha comments on this verse together with 16.306: see [[Tantraloka 16.306#Viveka|16.306]].
 

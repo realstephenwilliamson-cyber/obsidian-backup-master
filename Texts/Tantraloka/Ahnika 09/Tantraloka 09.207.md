@@ -31,6 +31,9 @@ anidaṃpūrvatayā yadrañjayati nijātmanā tato'nanyā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 195–198)
+> ![[Tantraloka Dyczkowski v06 07 - Chapter Nine, part 5#Viveka on 9.207–208]]
+
 *Lead-in:* ननु कथमेकस्या एव अस्या अन्यत्वमनन्यत्वं च स्यात् ? -- इत्याशङ्क्याह --
 
 > शिवदहनकिरणजालैर्दाह्यत्वात् सा यतोऽन्यरूपैव ।

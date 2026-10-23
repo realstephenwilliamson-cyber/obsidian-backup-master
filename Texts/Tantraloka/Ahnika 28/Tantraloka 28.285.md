@@ -31,6 +31,9 @@ ityūce bhujagādhīśastacchidreṣviti sūtrataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 124)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.285–286]]
+
 *Lead-in:* ननु स्वास्थ्याविशेषेऽपि ज्ञानिनां धातुदोषादेते संस्काराः प्रबुद्धाः, इतरेषां तु शक्तिपातत इति कुतस्त्योऽयं विशेषः ?-- इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 28.286: see [[Tantraloka 28.286#Viveka|28.286]].

@@ -37,6 +37,11 @@ bhavecca tatsamūhatvaṃ patyurviśvavapurbhṛtaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 200–203)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.175–177]]
+>
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.177–178]]
+
 *Lead-in:* अत्र च यथासंभवमाशङ्का निराकृतैव -- इत्याह --
 
 > भवेच्च तत्समूहत्वं पत्युर्विश्ववपुर्भृतः ॥

@@ -31,6 +31,9 @@ yāvānyāvati pūrṇaḥ sā hi tithirbhagrahaiḥ sphuṭībhavati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 28–29)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.49]]
+
 *Lead-in:* ननु अत्र तिथिरेव नाम का यस्या अपि विशेषत्वं स्यात् ?--इत्याशङ्क्य आह--
 
 > संवेद्यरूपशशधरभागः संवेदकार्ककरनिकरैः ।

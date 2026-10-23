@@ -33,6 +33,11 @@ itthaṃ saṃvidiyaṃ yājyasvarūpāmarśarūpiṇī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 181–182)
+> ![[Tantraloka Dyczkowski v11 07 - Chapter Thirty-Three#Viveka on 33.27–28]]
+>
+> ![[Tantraloka Dyczkowski v11 07 - Chapter Thirty-Three#Viveka on 33.28–29]]
+
 *Lead-in:* प्रकृतमेव उपसंहरति--
 
 Jayaratha comments on this verse together with 33.27: see [[Tantraloka 33.027#Viveka|33.27]].

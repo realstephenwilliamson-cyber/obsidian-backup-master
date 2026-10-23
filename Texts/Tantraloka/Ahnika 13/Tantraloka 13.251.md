@@ -31,6 +31,9 @@ abhilāṣaḥ śive deve paśūnāṃ bhavate tadā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 282–283)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.251–253]]
+
 *Lead-in:* नचैतन्निर्मूलं व्याख्यानम् -- इत्याह --
 
 Jayaratha comments on this verse together with 13.252: see [[Tantraloka 13.252#Viveka|13.252]].

@@ -34,6 +34,9 @@ ghaṭaḥ paṭaśceti bhavet kāryakāraṇatā na kim || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 26–27)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.13]]
+
 *Lead-in:* ननु भवत्वेवं, नहि कार्यकारणभावात्मा कश्चित् संबन्धोऽस्माकं विवक्षितः, सर्व एव हि भावाः स्वात्ममात्रपर्यवसिता एव ? -- इत्याशङ्क्याह --
 
 > बीजमङ्कुर इत्यस्मिन् सतत्त्वे हेतुतद्वतोः ।

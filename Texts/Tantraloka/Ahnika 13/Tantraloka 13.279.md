@@ -33,6 +33,11 @@ aliases:
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 296–297)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.278–279]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.279–280]]
+
 > शिवतापत्तिपर्यन्तः शक्तिपातश्च चर्च्यते ॥
 > अन्यथा किं हि तत्स्याद्यच्छैव्या शक्त्यानधिष्ठितम् ।
 

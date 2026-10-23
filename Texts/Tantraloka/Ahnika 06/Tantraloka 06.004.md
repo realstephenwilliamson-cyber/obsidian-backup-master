@@ -36,6 +36,11 @@ tatra prāṇāśrayaṃ tāvadvidhānamupadiśyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 217–219)
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.2–4]]
+>
+> ![[Tantraloka Dyczkowski v04 08 - Chapter Six, part 1#Viveka on 6.4–5]]
+
 *Lead-in:* एवं स्वरूपतः स्थानभेदमभिधाय तद्गतं विधिमप्युपदेष्टुं प्रतिजानीते --
 
 > तत्र प्राणाश्रयं तावद्विधानमुपदिश्यते ॥

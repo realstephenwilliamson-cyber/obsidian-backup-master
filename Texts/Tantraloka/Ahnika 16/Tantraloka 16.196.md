@@ -36,6 +36,13 @@ cidvṛttervaicitryāccāñcalye'pi krameṇa sandhānāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 84–86)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 16.199–200.*
+>
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.195–196]]
+>
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.199–200]]
+
 *Lead-in:* एतदेवोपपादयति--
 
 Jayaratha comments on this verse together with 16.195: see [[Tantraloka 16.195#Viveka|16.195]].

@@ -35,6 +35,9 @@ guṇapradhānatābhedāḥ svarūpaṃ vīryacarcanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 472–474)
+> ![[Tantraloka Dyczkowski v01 13 - Chapter One, part 12#Viveka on 1.325–327]]
+
 > इति सप्ताधिकामेनां त्रिंशतं यः सदा बुधः ॥
 > आह्निकानां समभ्यस्येत् स साक्षाद्भैरवो भवेत् ।
 > सप्तत्रिंशत्सु सम्पूर्णबोधो यद्भैरवो भवेत् ॥

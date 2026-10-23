@@ -33,6 +33,11 @@ tena sthitamidaṃ yadyadbhāvyate tattadeva hi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 161)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.359–360]]
+>
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.360–361]]
+
 *Lead-in:* यथाव्याख्यातमेव प्रशमयति--
 
 > तेन स्थितमिदं यद्यद्भाव्यते तत्तदेव हि ॥

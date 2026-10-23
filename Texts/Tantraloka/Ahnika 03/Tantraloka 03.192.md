@@ -37,6 +37,11 @@ tadeva tritayaṃ prāhurbhairavasya paraṃ mahaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 310–312)
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.191–192]]
+>
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.192–193]]
+
 *Lead-in:* नन्वेवमपि भोक्तुरानैक्यादद्वयवादहानिरिति तदवस्थ एव स दोषः ? -- इत्याशङ्क्याह --
 
 > तदेव त्रितयं प्राहुर्भैरवस्य परं महः ॥

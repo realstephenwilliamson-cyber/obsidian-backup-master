@@ -33,6 +33,11 @@ rahasye yojayedvipraṃ parīkṣya viparītataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 317)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 23.42–43.*
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.42–43]]
+
 *Lead-in:* योग्यायोग्यपरीक्षायां च अस्य उदाहरणदिशा युक्तिं दर्शयति--
 
 > रहस्ये योजयेद्विप्रं परीक्ष्य विपरीततः ॥

@@ -39,4 +39,4 @@ Pritzker translation (Matt): [[Zohar 8.04 - Parashat Emor#^z3-90b|Parashat Emor,
 
 *Not translated in the Soncino edition: Emor 20:84–20:85.*
 
-[^1]: v. T. B. Megillah, 29a.
+[^1]: v. T. B. [[Megillah 29#29a|Megillah, 29a]].

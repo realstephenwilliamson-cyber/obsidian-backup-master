@@ -34,6 +34,9 @@ sa ca prāṇātmakastasmāduccāraḥ kathyate sphuṭaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 269–270)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.60]]
+
 *Lead-in:* ततश्च प्रकृते किम् ? -- इत्याशङ्क्याह --
 
 > सृष्ट्यादयश्च ते सर्वे कालाधीना न संशयः ।

@@ -33,6 +33,11 @@ tatrāpi tāratamyasya saṃbhavācciraśīghratā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 276–278)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.242–244]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.244–245]]
+
 *Lead-in:* एवमप्यत्र तरतमभावः कश्चित्संभवति, येन विशेषान्तरमप्युदियात् -- इत्याह --
 
 > तत्रापि तारतम्यस्य संभवाच्चिरशीघ्रता ॥

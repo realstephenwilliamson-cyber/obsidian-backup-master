@@ -35,5 +35,8 @@ kalāntaṃ koṭidhā tasmānmāyā viddaśakoṭidhā |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 209–210)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.186–190]]
+
 Jayaratha comments on this verse together with 8.189: see [[Tantraloka 08.189#Viveka|8.189]].
 

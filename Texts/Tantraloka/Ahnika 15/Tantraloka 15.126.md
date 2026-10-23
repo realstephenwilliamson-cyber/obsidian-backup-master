@@ -33,6 +33,11 @@ anyonyaṃ bījayonīnāṃ kṣobhādvaisargikodayāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 84–85)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.125–126]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.126–127]]
+
 *Lead-in:* अत एव अस्याः सिसृक्षाभिमुख्यात् निखिलसिद्ध्यादिवितरणे परं सामर्थ्यम्--इत्याह--
 
 > अन्योन्यं बीजयोनीनां क्षोभाद्वैसर्गिकोदयात् ॥

@@ -35,6 +35,9 @@ vyāptaḥ piśācarakṣogandharvāṇāṃ sayakṣāṇām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 162)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.119–120]]
+
 *Lead-in:* एष च भूर्लोकः चतुर्दशविधस्यापि भूतसर्गस्यास्पदम् -- इत्याह --
 
 Jayaratha comments on this verse together with 8.120: see [[Tantraloka 08.120#Viveka|8.120]].

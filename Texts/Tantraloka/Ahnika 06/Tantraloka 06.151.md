@@ -35,6 +35,9 @@ sa eṣo'vāntaralayastatkṣaye sṛṣṭirucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 370–371)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.150–151]]
+
 > निवृत्ताधःस्थकर्मा हि ब्रह्मा तत्राधरे धियः ॥
 > न भोक्ता ज्ञोऽधिकारे तु वृत्त एव शिवीभवेत् ।
 > स एषोऽवान्तरलयस्तत्क्षये सृष्टिरुच्यते ॥

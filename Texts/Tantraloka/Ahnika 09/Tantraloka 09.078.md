@@ -33,6 +33,11 @@ na ca cetanamātmānamasvatantro malaḥ kṣamaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 80–81)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.77–78]]
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.78–79]]
+
 *Lead-in:* नन्वचेतनश्चेतनाधिष्ठितः सन् यदि किञ्चित् कुर्यात् तदस्तु, को दोषः, चेतनमेव पुनरावरीतुं कुतोऽस्य सामर्थ्यमस्ति ? -- इत्याह --
 
 > न च चेतनमात्मानमस्वतन्त्रो मलः क्षमः ॥

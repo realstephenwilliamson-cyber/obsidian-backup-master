@@ -33,6 +33,11 @@ aśuddhatā ca vijñeyā paśutacchāsanāśayāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 102–103)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.162–163]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.163]]
+
 *Lead-in:* ननु नीलादिवत् प्रतिभासविकारकारित्वाभावात् न शुद्ध्यशुद्धी नाम कश्चित् भावधर्मः--इत्युक्तं प्राग्बहुशः, तदशुद्धतैव का यदपसारणेनापि शुद्धता स्यात् ? --इत्याशङ्क्य आह—
 
 > अशुद्धता च विज्ञेया पशुतच्छासनाशयात् ॥

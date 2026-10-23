@@ -39,6 +39,9 @@ prakaṭo'yaṃ gahano'pi śāstramārgaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 73–75)
+> ![[Tantraloka Dyczkowski v01 03 - Chapter One, part 2#Viveka on 1.13]]
+
 *Lead-in:* एवं च तन्त्रप्रक्रियोपासन्नगुर्वभिमुखीकरणानन्तरं विश्रान्तिस्थानतया कुलप्रक्रियागुरुमपि उत्कर्षयति --
 
 > जयताज्जगदुद्धृतिक्षमोऽसौ

@@ -37,6 +37,13 @@ evaṃ rātrāvapītyevaṃ viṣuvaddivasātsamāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 412–416)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.200–204]]
+>
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.200–204 (continued)]]
+>
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.204–205]]
+
 *Lead-in:* एतदेवान्यत्राप्यतिदिशति --
 
 > एवं रात्रावपीत्येवं विषुवद्दिवसात्समात् ॥

@@ -36,6 +36,11 @@ buddhirdhyānamayī tatra prāṇa uccāraṇātmakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 17–19)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.16–17]]
+>
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.17–18]]
+
 *Lead-in:* नन्वेषां बुद्ध्यादीनां किं नाम तदस्ति, यदवलम्बनेनापि पारमार्थिकस्वरूपलाभो भवेत् ? -- इत्याशङ्क्याह --
 
 > बुद्धिर्ध्यानमयी तत्र प्राण उच्चारणात्मकः ॥

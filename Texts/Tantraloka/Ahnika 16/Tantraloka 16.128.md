@@ -34,6 +34,9 @@ vedā rasābdhi yugmākṣi ca ravayastatra cāṃgulāḥ kramaśaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 59)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.128]]
+
 *Lead-in:* एतदेवोभयथापि सङ्कलयति--
 
 > षोडशकं रसविशिखं वसुद्विकं वसुशशीति पुरवर्गाः ।

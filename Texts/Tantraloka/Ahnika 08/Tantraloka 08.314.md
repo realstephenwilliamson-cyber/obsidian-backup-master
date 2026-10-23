@@ -35,6 +35,9 @@ na punaryonyānantyāducyante srotasāṃ saṃkhyāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 312–313)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.314]]
+
 *Lead-in:* एषां चाधिष्ठातृभिः सममियत्ताकलने निमित्ताभावं दर्शयति --
 
 > अपि सर्वसिद्धवाचः क्षीयेरन्दीर्घकालमुद्गीर्णाः ।

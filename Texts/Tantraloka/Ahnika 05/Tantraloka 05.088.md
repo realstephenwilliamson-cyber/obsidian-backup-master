@@ -35,6 +35,9 @@ mahāprakāśamudayajñānavyaktipradāyakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 111–113)
+> ![[Tantraloka Dyczkowski v04 05 - Chapter Five, part 3#Viveka on 5.88–89]]
+
 *Lead-in:* तच्च कथं स्यात् ? -- इत्याशङ्क्याह --
 
 > अधःप्रवाहसंरोधादूर्ध्वक्षेपविवर्जनात् ।

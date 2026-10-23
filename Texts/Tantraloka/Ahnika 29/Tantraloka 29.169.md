@@ -31,6 +31,9 @@ kutūhalī tūktaśāstrasaṃpāṭhādeva lakṣayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 346)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.169]]
+
 *Lead-in:* एतच्च अस्माभिरतिरहस्यत्वात् निर्भज्य नोक्तमिति स्वयमेव अवधार्यम्-- इत्याह--
 
 > न पठ्यते रहस्यत्वात्स्पष्टैः शब्दैर्मया पुनः ।

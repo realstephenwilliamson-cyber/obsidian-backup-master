@@ -33,6 +33,11 @@ yaśca dhvāntātprakāśasyāvṛtistatpratighātibhiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 80–81)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.76–77]]
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.77–78]]
+
 *Lead-in:* ननु तमसः प्रकाशाभावमात्रमयत्वात् अमूर्तस्यापि प्रकाशं प्रत्यावारकत्वं दृष्टम्, एवं मलस्यापि भविष्यति इति चेत् ? तदपि न -- इत्याह --
 
 > यश्च ध्वान्तात्प्रकाशस्यावृतिस्तत्प्रतिघातिभिः ॥

@@ -31,6 +31,9 @@ yathā tathaiva śāstrāṇāṃ kulamantaḥ pratiṣṭhitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 211–212)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.33–34]]
+
 > सर्वाविभेदानुच्छेदात् तदेव कुलमुच्यते ॥
 > यथोर्ध्वाधरताभाक्सु देहाङ्गेषु विभेदिषु ।
 > एकं प्राणितमेवं स्यात् त्रिकं सर्वेषु शास्त्रतः ॥

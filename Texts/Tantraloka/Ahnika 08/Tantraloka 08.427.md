@@ -35,6 +35,9 @@ iti ṣoḍaśabhuvaneyaṃ tattvayugaṃ śāntyatītā syāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 384)
+> ![[Tantraloka Dyczkowski v05 11 - Chapter Eight, part 9#Viveka on 8.425–427]]
+
 > यद्यपि गुणसाम्यात्मनि मूले क्रोधेश्वराष्टकं तथापि धियि ।
 > तच्छोधितमिति गणनां न पुनः प्राप्तं प्रतिष्ठायाम् ॥
 > इति जलतत्त्वान्मूलं तत्त्वचतुर्विंशतिः प्रतिष्ठायाम् ।

@@ -36,6 +36,9 @@ tṛṭkṣudduḥkhavibādhāḥ punarasmin || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 351)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.9–12]]
+
 > ये यौष्माके शासनमार्गे कृतदीक्षाः
 > संगच्छन्तो मोहवशाद्विप्रतिपत्तिम् ।
 > नूनं तेषां नास्ति भवद्भानुनियोगः

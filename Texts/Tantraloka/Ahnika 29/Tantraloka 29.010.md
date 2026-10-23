@@ -31,6 +31,9 @@ tadeva yojayeddhīmānvāmāmṛtapariplutam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 208)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.10]]
+
 *Lead-in:* अतश्च संविन्मात्रसारत्वात् सर्वस्य शुद्ध्यशुद्धी अपि वास्तवे न स्त इति कटाक्षयितुं तद्विभागोऽपि नेह अभिमतः--इत्याह--
 
 > अत्र यागे च यद्द्रव्यं निषिद्धं शास्त्रसन्ततौ ।

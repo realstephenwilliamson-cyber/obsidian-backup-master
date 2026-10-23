@@ -33,6 +33,11 @@ kalādhvā vakṣyate śrīmacchāṃbhavājñānusārataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 1–2)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 11.2–3.*
+>
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.2–3]]
+
 *Lead-in:* इदानीमपरार्धेन कलाध्वानमुपक्रमते --
 
 > कलाध्वा वक्ष्यते श्रीमच्छांभवाज्ञानुसारतः ॥

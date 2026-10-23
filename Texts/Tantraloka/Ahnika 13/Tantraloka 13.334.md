@@ -31,6 +31,9 @@ anyaṃ tyajetprāptamapi tathā coktaṃ śivena tat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 332)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.334]]
+
 *Lead-in:* तदेवाह -
 
 > मोक्षज्ञानपरः कुर्याद्गुरुं स्वभ्यस्तवेदनम् ।

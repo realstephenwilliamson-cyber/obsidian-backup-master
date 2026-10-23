@@ -30,6 +30,11 @@ iti nityavidhiḥ prokto naimittikamathocyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 1)
+> ![[Tantraloka Dyczkowski v10 02 - Chapter Twenty-Eight, opening page#Viveka on 28.1]]
+>
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.1 (continued)]]
+
 *Lead-in:* इदानीं नित्यकर्म उपसंहरन् प्राप्तावसरं नैमित्तिकं वक्तुं प्रतिजानीते--
 
 > इति नित्यविधिः प्रोक्तो नैमित्तिकमथोच्यते ॥

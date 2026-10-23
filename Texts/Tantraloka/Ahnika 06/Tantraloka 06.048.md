@@ -34,6 +34,9 @@ sphuṭāsphuṭatvād dvaividhyaṃ pratyekaṃ paribhāvayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 260–261)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.47–48]]
+
 > यत्नो जीवनमात्रात्मा तत्परश्च द्विधा मतः ॥
 > संवेद्यश्चाप्यसंवेद्यो द्विधेत्थं भिद्यते पुनः ।
 > स्फुटास्फुटत्वाद् द्वैविध्यं प्रत्येकं परिभावयेत् ॥

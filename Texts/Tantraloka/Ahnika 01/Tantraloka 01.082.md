@@ -35,6 +35,9 @@ tattvagrāmasya sarvasya dharmaḥ syādanapāyavān |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 224)
+> ![[Tantraloka Dyczkowski v01 07 - Chapter One, part 6#Viveka on 1.82]]
+
 *Lead-in:* तदेवं वैचित्र्यभाजः षट्त्रिंशत्तत्त्वात्मकस्य जगतश्चिदानन्दैकघनः परमार्थः शिव एवानुप्राणकतया वर्तते -- इत्याह --
 
 > तत्त्वग्रामस्य सर्वस्य धर्मः स्यादनपायवान् ।

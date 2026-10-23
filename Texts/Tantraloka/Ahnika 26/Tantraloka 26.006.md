@@ -34,6 +34,9 @@ taduktavastvanuṣṭhānaṃ bhuktyai muktyai ca sevate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 371–372)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.5–6]]
+
 > बुभुक्षोर्वा मुमुक्षोर्वा स्वसंविद्गुरुशास्त्रतः ।
 > प्रमाणाद्या संस्क्रियायै दीक्षा हि गुरुणा कृता ॥
 > ततः स संस्कृतं योग्यं ज्ञात्वात्मानं स्वशासने ।

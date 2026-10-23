@@ -35,6 +35,9 @@ tattathaiva tathātmatvādvastuno'pi bahiḥsthiteḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 127)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.283]]
+
 *Lead-in:* इत्याद्युक्त्या सदेव न भायादित्यत्रापि वस्त्वेव स्फुरेदिति कस्मादुक्तम् ?- -इत्याशङ्क्याह--
 
 > निर्विकल्पा च सा संविद्यद्यथा पश्यति स्फुटम् ।

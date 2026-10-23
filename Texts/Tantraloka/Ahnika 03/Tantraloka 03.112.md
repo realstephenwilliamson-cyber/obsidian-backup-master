@@ -35,6 +35,9 @@ hṛtpadmamaṇḍalāntaḥstho naraśaktiśivātmakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 218–219)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.112–113]]
+
 *Lead-in:* न चैतत्स्वोपज्ञमेवोक्तम् -- इत्याह --
 
 > तत्त्वरक्षाविधाने च तदुक्तं परमेशिना ।

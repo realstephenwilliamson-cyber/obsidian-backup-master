@@ -31,5 +31,8 @@ deho bhogadayoreva nirodha iti cennanu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 170)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.71–72]]
+
 Jayaratha comments on this verse together with 13.72: see [[Tantraloka 13.072#Viveka|13.72]].
 

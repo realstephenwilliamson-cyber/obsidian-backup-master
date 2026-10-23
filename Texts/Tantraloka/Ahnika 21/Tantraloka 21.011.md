@@ -36,6 +36,11 @@ gururdīkṣāṃ mṛtoddhārīṃ kurvīta śivadāyinīm |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 251–252)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.9–11]]
+>
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.11]]
+
 *Lead-in:* न चैतदस्माभिः स्वोपज्ञमेवोक्तम्--इत्याह--
 
 > श्रीमृत्युञ्जयसिद्धादौ यदुक्तम् परमेशिना ॥

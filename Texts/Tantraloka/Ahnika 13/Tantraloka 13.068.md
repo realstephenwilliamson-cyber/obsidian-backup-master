@@ -31,6 +31,9 @@ virodhātkarmaṇī ruddhe tiṣṭhataḥ sāmyamīdṛśam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 167–168)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.67–68]]
+
 *Lead-in:* तदेवाह -
 
 > भोगपर्यायमाहात्म्यात्काले क्वापि फलं प्रति ।

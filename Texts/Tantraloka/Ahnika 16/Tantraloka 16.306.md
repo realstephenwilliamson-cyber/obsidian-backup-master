@@ -35,6 +35,9 @@ yadāsyāśubhakarmāṇi śuddhāni syustadā śubham || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 136)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.304–307]]
+
 > तत्र द्रव्यमयीं दीक्षां कुर्वन्नाज्यतिलादिकैः ॥
 > कर्मास्य शोधयामीति जुहुयाद्दैशिकोत्तमः ।
 > ज्ञानमययां तु दीक्षायां तद्विशुद्ध्यति सन्धितः ॥

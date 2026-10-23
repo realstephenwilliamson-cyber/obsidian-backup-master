@@ -35,6 +35,9 @@ jananādbhogataḥ karmakṣaye syādapavṛktatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 104)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.238–239]]
+
 > एवं शोधकमन्त्रस्य न्यासे तद्रश्मियोगतः ।
 > पाशजालं विलीयेत तद् ध्यानबलतो गुरोः ॥
 > शोध्यतत्त्वे समस्तानां योनीनां तुल्यकालतः ।

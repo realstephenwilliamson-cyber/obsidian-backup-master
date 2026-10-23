@@ -33,6 +33,11 @@ svastikā ca purī ramyā caturdikṣu sthitāvubhau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 124–125)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.140–141]]
+>
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.141]]
+
 *Lead-in:* एतच्च उभयमपि संनिवेशं प्रदर्शयन्नुपसंहरति--
 
 > ...........................षुमेरुर्द्वार संज्ञितः ।

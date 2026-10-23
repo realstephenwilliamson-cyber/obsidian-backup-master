@@ -34,6 +34,9 @@ unmeṣaśaktirjñānākhyā tvapareti nigadyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 372–373)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.248–249]]
+
 *Lead-in:* कास्ताः ? -- इत्याह—
 
 > अनुत्तरा परेच्छा च परापरतया स्थिता ।

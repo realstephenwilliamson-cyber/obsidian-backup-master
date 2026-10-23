@@ -33,6 +33,11 @@ sarvamāsanapakṣe prāṅ nyasya saṃpūjayetkramam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 422–424)
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.55–56]]
+>
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.56–57]]
+
 *Lead-in:* ननु स्वयम्भ्वादयो हि शुद्धादशुद्धाद् वा अध्वमध्यादवतीर्णाः, तत्कथमत्र इदं सर्वाध्वोत्तीर्णं संपूजयेत् ?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 27.55: see [[Tantraloka 27.055#Viveka|27.55]].

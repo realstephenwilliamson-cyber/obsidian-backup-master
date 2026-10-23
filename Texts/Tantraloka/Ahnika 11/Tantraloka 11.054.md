@@ -34,6 +34,9 @@ tatsvātantryātsvatantratvamaśnuvāno'vabhāsate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 52–53)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.54]]
+
 *Lead-in:* ननु पारमेश्वरः शक्तिपरिस्पन्द एव षोढाध्वा इति प्राङ्निरूपितम्, तत्कथमिदानीं तत्त्वभुवनादितया बहीरूपत्वेनापि तस्य स्वरूपमुक्तम्? -- इत्याशङ्क्याह --
 
 > सोऽयं समस्त एवाध्वा भैरवाभेदवृत्तिमान् ।

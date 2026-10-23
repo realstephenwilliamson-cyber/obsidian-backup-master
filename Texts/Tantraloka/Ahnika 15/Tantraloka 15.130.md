@@ -33,6 +33,11 @@ bhedairgītā hi mukhyeyaṃ nādiphānteti mālinī |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 86–89)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.128–130]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.130–133]]
+
 *Lead-in:* ननु भवतु नाम एवम्, मातृकामालिन्योः पुनरेवं शब्दप्रवृत्तौ किं निमित्तम्?--इत्याशङ्क्य आह—
 
 Jayaratha comments on this verse together with 15.129: see [[Tantraloka 15.129#Viveka|15.129]].

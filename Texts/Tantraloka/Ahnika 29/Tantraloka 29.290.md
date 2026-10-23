@@ -31,6 +31,9 @@ taiḥsākaṃ na ca kartavyametacchreyorthinātmani || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 410)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.288–290]]
+
 > परब्रह्मण्यवेत्तारोऽगमागमविवर्जिताः ॥
 > लोभमोहमदक्रोधरागमायाजुषश्च ये ।
 > तैःसाकं न च कर्तव्यमेतच्छेर्योर्थिनात्मनि ॥

@@ -33,6 +33,11 @@ deva eva gurutvena tiṣṭhāsurdaśadhā bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 178)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.390]]
+>
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.390 (2)]]
+
 > देव्यायामल उक्तं तद् द्वापञ्चाशह्व आह्निके ।
 
 तदेव अर्थद्वारेण आह--

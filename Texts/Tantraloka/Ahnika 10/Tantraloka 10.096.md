@@ -33,6 +33,11 @@ bhātatvādvedyamapi tanna vedyatvena bhāsanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 356–358)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.95–96]]
+>
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.96–97]]
+
 *Lead-in:* ननु शुद्धं वस्तु प्रकाशते चेत्सिद्धमस्य वेद्यत्वम्, अवेद्यं च प्रकाशते चेति विप्रतिषेधः ? सत्यं, किन्तु प्रकाशमानत्वाद्वेद्यं नतु वेद्यत्वेन प्रकाशमानम् -- इत्याह --
 
 > भातत्वाद्वेद्यमपि तन्न वेद्यत्वेन भासनात् ॥

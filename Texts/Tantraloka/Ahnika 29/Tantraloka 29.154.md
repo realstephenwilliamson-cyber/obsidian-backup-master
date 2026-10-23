@@ -33,6 +33,11 @@ etatkhecaramudrāveśe'nyonyasya śaktiśaktimatoḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 335–336)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.153–154]]
+>
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.154–156]]
+
 *Lead-in:* एवं मन्त्रवीर्यातिदेशद्वारकं मुद्रास्वरूपमभिधाय, परस्परस्य लोलीभावं दर्शयितुं पुनस्तद्वीर्यमपि मन्त्रेषु अतिदेष्टुमाह--
 
 Jayaratha comments on this verse together with 29.153: see [[Tantraloka 29.153#Viveka|29.153]].

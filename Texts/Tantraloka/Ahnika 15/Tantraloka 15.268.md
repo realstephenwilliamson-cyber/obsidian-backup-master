@@ -33,6 +33,11 @@ māyāpramātā tadrūpavikalpābhyāsapāṭavāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 160–161)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.267–268]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.268–269]]
+
 *Lead-in:* ननु कथमस्य मायाप्रमातृत्वे सति अभेदो यन्नान्तरीयकं शिवात्मत्वं स्यात् ?--इत्याशङ्क्य आह--
 
 > मायाप्रमाता तद्रूपविकल्पाभ्यासपाटवात् ॥

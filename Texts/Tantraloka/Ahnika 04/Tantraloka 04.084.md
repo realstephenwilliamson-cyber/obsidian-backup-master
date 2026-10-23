@@ -34,6 +34,9 @@ priyā yaiḥ parituṣyeta kiṃ brūmaḥ kila tānprati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 98–100)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.84]]
+
 *Lead-in:* इति, प्रमातुरपि एतावतैव फलवत्त्वं "ज्ञातोऽयं मयार्थः"इत्येवंसंतोषाभिमानात्, न च एतत् औत्तरकालिकानां धारावाहिनां विज्ञानानां संभवति, इति कथमुक्तं "प्रमितेऽपि प्रमाणानामवकाशः"इति ? -- इत्याशङ्क्याह --
 
 > दृष्ट्वा दृष्ट्वा समाश्लिष्य चिरं सञ्चर्व्य चेतसा ।

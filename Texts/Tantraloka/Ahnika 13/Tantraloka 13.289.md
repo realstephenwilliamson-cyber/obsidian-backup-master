@@ -33,6 +33,11 @@ yayā yānti parāṃ siddhimityasyedaṃ tu jīvitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 302–303)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.288–289]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.289]]
+
 *Lead-in:* ननु कस्यायमर्थः? -- इत्याशङ्क्याह --
 
 > यया यान्ति परां सिद्धिमित्यस्येदं तु जीवितम् ॥

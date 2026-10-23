@@ -35,6 +35,9 @@ aśnantyamṛtasādbhūtaṃ viśvaṃ saṃvittidevatāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 389)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.263]]
+
 *Lead-in:* नन्वेवं किं स्यात् ? इत्याशङ्क्याह --
 
 > हठपाकेन भावानां रूपे भिन्ने विलापिते ।

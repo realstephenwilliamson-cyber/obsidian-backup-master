@@ -31,6 +31,9 @@ nyāsakrameṇa śivatātādātmyamadhiśerate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 100–101)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.158–159]]
+
 > यष्ट्रधारस्य तादात्म्यं स्थानशुद्धिविधिक्रमात् ॥
 > यष्टृयाज्यतदाधारकरणादानसम्प्रदाः ।
 > न्यासक्रमेण शिवतातादात्म्यमधिशेरते ॥

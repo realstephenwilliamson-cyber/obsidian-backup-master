@@ -349,12 +349,12 @@ and 36 righteous outside the Land of Israel
 [^10]: *ḥaiy*
 [^11]: *ḥaiy*
 [^12]: *ḥaiy*
-[^13]: See *BT* Yevamot 105b
+[^13]: See *BT* [[Yevamot 105#105b|Yevamot 105b]]
 [^14]: *libiy*
 [^15]: 42
 [^16]: *neged*
 [^17]: *Qohelet Rabbah* 1:36
-[^18]: See *BT* Sanhedrin 99a
+[^18]: See *BT* [[Sanhedrin 99#99a|Sanhedrin 99a]]
 [^19]: *le-libiy*
 [^20]: 72
 [^21]: *Bemidbar Rabbah* 13:15

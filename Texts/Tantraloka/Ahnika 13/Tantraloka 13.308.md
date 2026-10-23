@@ -31,6 +31,9 @@ sa ca śaktivaśāditthaṃ vaiṣṇavādiṣu ko'nvayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 316–317)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.308]]
+
 *Lead-in:* एतदेवोपपादयति -
 
 > समययादिक्रमाल्लब्धाभिषेको हि गुरुर्मतः ।

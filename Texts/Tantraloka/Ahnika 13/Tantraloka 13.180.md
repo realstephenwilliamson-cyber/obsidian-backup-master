@@ -33,6 +33,11 @@ sarvabhāvavivekāttu sarvabhāvaparāṅmukhaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 234–236)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.179–180]]
+>
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.180–182]]
+
 *Lead-in:* प्ररूढविवेकस्यास्य पुनरेवं सिद्धिषु वैमुख्यात्परसंविद्विश्रान्तिरेव भवेत् -- इत्याह --
 
 Jayaratha comments on this verse together with 13.179: see [[Tantraloka 13.179#Viveka|13.179]].

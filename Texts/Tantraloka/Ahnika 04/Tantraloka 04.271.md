@@ -36,6 +36,11 @@ na tasya ca niṣedho yanna tattattvasya khaṇḍanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 377–378)
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.270–271]]
+>
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.271]]
+
 *Lead-in:* ननु यदि नामात्र क्षेत्रप्रवेशादेर्न विधिः तर्हि तस्य निषेध एव पर्यवस्येत्? इत्याशङ्क्याह --
 
 > न तस्य च निषेधो यन्न तत्तत्त्वस्य खण्डनम् ॥

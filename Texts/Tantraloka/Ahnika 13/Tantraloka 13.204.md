@@ -31,6 +31,9 @@ svaṃ rūpam prati yā saiva ko'pi kāla ihoditaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 250)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.204–205]]
+
 *Lead-in:* एतच्च स्वयमेव व्याचष्टे --
 
 > अस्यार्थ आत्मनः काचित्कलनामर्शनात्मिका ।

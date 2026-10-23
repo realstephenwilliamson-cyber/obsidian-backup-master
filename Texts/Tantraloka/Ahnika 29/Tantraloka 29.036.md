@@ -31,6 +31,9 @@ etā ovallyaḥ syurmudrāṣaṭkaṃ kramāttvetat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 236–237)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.35–39]]
+
 *Lead-in:* चित्रत्वमेव अस्या दर्शयति--
 
 Jayaratha comments on this verse together with 29.39: see [[Tantraloka 29.039#Viveka|29.39]].

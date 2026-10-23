@@ -36,6 +36,11 @@ pūrṇatvasya parā kāṣṭhā setyatra na phalāntaram || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 310–311)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.209]]
+>
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.209 (2)]]
+
 *Lead-in:* तन्मयीभावो नाम किंस्वरूपः ? इत्याह --
 
 > तन्मयीभवनं नाम प्राप्तिः सानुत्तरात्मनि ।

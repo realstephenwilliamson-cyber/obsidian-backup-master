@@ -33,6 +33,11 @@ dakṣiṇāyanaṣaṇmāsakartavyatvamato vidhau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 67–68)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.125–126]]
+>
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.126–127]]
+
 *Lead-in:* अतश्चेदमप्युक्तं भवति--इत्याह--
 
 > दक्षिणायनषण्मासकर्तव्यत्वमतो विधौ ॥

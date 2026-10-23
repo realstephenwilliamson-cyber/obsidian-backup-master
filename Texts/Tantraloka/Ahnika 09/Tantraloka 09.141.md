@@ -31,6 +31,9 @@ mantratvaṃ pratipadyante citrāccitraṃ ca karmataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 120–122)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.140–141]]
+
 > ये पुनः कर्मसंस्कारहान्यै प्रारब्धभावनाः ।
 > भावनापरिनिष्पत्तिमप्राप्य प्रलयं गताः ॥
 > महान्तं ते तथान्तःस्थभावनापाकसौष्ठवात् ।

@@ -34,6 +34,9 @@ sātra kuṇḍalinī bījaṃ jīvabhūtā cidātmikā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 338–340)
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.220–221]]
+
 *Lead-in:* न चैतदस्माभिः स्वोपज्ञमेवोक्तम् -- इत्याह --
 
 > निरूपितोऽयमर्थः श्रीसिद्धयोगीश्वरीमते ।

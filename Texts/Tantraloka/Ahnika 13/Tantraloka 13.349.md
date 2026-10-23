@@ -33,6 +33,13 @@ gurvantararate mūḍhe āgamāntarasevake || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 339–340)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 13.350–351.*
+>
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.349]]
+>
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.350–351]]
+
 *Lead-in:* एवं यथायथमूर्ध्वोर्ध्वक्रमेण गुरुशास्त्रपरिचयात् संबोधोत्कर्षो भवेत् -- इति न गुरुभूयस्त्वे विचिकित्सितव्यम् -- इत्याह --
 
 > तस्मान्न गुरुभूयस्त्वे विशङ्केत कदाचन ।

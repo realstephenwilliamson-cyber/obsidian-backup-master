@@ -126,4 +126,4 @@ Rabbinic Sources
 
 *Mishna Ḥagigah* 1:8 17n9 *Mekilta de-Rabbi Ishmael* *(ed. Lauterbach)* *Baḥodeš*, 6:22–25 (on Exod 20:3)
 
-51n48 *Babylonian Talmud Berakot* 7a 88n41 *Makkot* 24a 63n8 *Sanhedrin* 27b 88n41 *Šebu 10t* 39a 88n41 *Ibn Ezra, R. Abraham,* *Commentary on the Torah* Deut 7:10 78n26 *Pirqe Rabbi Eliezer* ch. 2, lines 2–6 99, 99n2 *Rashi, Commentary on the Torah* Deut 7:10 77n25
+51n48 *Babylonian Talmud Berakot* 7a 88n41 [[Makkot 24#24a|*Makkot* 24a]] 63n8 [[Sanhedrin 27#27b|*Sanhedrin* 27b]] 88n41 *Šebu 10t* 39a 88n41 *Ibn Ezra, R. Abraham,* *Commentary on the Torah* Deut 7:10 78n26 *Pirqe Rabbi Eliezer* ch. 2, lines 2–6 99, 99n2 *Rashi, Commentary on the Torah* Deut 7:10 77n25

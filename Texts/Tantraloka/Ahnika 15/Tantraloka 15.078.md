@@ -33,6 +33,11 @@ eṣāmekatamaṃ snānaṃ kuryāddvitryādiśo'pi vā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 57–58)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.77–78]]
+>
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.78]]
+
 *Lead-in:* ननु एतद्युगपदेव स्नानाष्टकं कार्यं न वा?--इत्याशङ्क्य आह--
 
 > एषामेकतमं स्नानं कुर्याद्वित्र्यादिशोऽपि वा ॥

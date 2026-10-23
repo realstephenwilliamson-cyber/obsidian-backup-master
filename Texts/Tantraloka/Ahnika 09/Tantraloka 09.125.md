@@ -33,6 +33,11 @@ ihāpyanyānyadehasthe sphuṭaṃ karmaphale yataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 109–110)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.124–125]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.125–126]]
+
 *Lead-in:* न चैतावतैव अत्र वैषम्यमुद्भाव्यमित्याह --
 
 > इहाप्यन्यान्यदेहस्थे स्फुटं कर्मफले यतः ॥

@@ -37,6 +37,11 @@ taccetthaṃ triśiraḥśāstre parameśena bhāṣitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 171–178)
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.128]]
+>
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.128–130]]
+
 *Lead-in:* तच्च करणं न स्वोपज्ञमेवास्माभिः क्रियते -- इत्याह --
 
 Jayaratha comments on this verse together with 5.129: see [[Tantraloka 05.129#Viveka|5.129]].

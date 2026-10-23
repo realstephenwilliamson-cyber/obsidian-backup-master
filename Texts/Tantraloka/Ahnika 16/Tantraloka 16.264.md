@@ -37,6 +37,11 @@ tadvimarśodayaḥ prācyasvavimarśamayaḥ sphuret || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 116–117)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.263–264]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.264–265]]
+
 *Lead-in:* एवमिदमत्र वस्तुसतत्त्वं पर्यवसितम्--इत्याह--
 
 > तद्विमर्शोदयः प्राच्यस्वविमर्शमयः स्फुरेत् ॥

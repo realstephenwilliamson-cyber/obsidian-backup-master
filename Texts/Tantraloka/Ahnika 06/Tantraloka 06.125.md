@@ -34,6 +34,9 @@ hṛdi caitroditistena tatra mantrodayo'pi hi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 351)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.125]]
+
 *Lead-in:* ननु चैत्रस्य प्राक् तालुन्युदयः, इति ततः प्रभृति मन्त्रसेवादि कार्यमित्युक्तम्, इह तु हृदि तस्यैवोदय उक्तः; तदिदानीं साधकः कुत्र मन्त्रादिसेवां कुर्यात् ? -- इत्याशङ्क्याह --
 
 > चैत्रे मन्त्रोदितिः सोऽपि तालुन्युक्तोऽधुना पुनः ।

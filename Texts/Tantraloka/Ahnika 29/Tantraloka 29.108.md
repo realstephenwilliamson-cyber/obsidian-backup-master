@@ -31,6 +31,9 @@ prāṇagādapyathānandasyandino'bhyavahārataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 303)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.108–109]]
+
 *Lead-in:* ननु बहिस्तर्पणमेव कुतः स्याद्यतोऽपि चितो विकासः समुदियात्?-- इत्याशङ्क्य आह--
 
 > चक्रानुचक्रान्तरगाच्छक्तिमत्परिकल्पितात् ।

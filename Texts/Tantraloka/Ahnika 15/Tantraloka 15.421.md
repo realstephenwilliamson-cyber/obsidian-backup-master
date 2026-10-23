@@ -36,6 +36,13 @@ uktaṃ svacchandatantre taddīkṣito'pi na mokṣabhāk || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 260–261)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.420–421]]
+>
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.421]]
+>
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.421 (2)]]
+
 *Lead-in:* इति । ननु एतावतैव शक्तिपातं न विन्दति इत्यत्र किं प्रमाणम्?-- इत्याशङ्क्य आह--
 
 > उक्तं स्वच्छन्दतन्त्रे तद्दीक्षितोऽपि न मोक्षभाक् ॥

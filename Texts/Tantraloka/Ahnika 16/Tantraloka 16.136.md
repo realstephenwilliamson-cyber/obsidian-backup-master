@@ -34,5 +34,8 @@ dharāpadānnavapadīṃ mātṛkāmālinīgatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 62)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.135–138]]
+
 Jayaratha comments on this verse together with 16.137: see [[Tantraloka 16.137#Viveka|16.137]].
 

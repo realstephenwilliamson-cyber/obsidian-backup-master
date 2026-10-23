@@ -35,6 +35,9 @@ kulaṃ yoniśca vāgīśī yasyāṃ jāto na jāyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 320)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.326]]
+
 *Lead-in:* एवमेतत्प्रसङ्गादभिधाय प्रकृतमेवावतारयति --
 
 > पाशाः पुरोक्ताः प्रणवाः पञ्च मानाष्टकं मुनेः ।

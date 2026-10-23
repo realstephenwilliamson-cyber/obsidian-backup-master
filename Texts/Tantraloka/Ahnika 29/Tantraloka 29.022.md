@@ -31,6 +31,9 @@ tatroktamantratādātmyādbhairavātmatvamānayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 225–226)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.22]]
+
 *Lead-in:* इत्यादिना यत्किञ्चिदानन्दमयं द्रव्यजातं तत् पूजोपकरणतया योज्यमिति सर्वत्रोक्तमिति । इह पुनस्तज्जुगुप्स्यं कस्मादभिहितम्?-- इत्याशङ्क्य आह--
 
 > नन्दहेतुफलैर्द्रव्यैरर्घपात्रं प्रपूरयेत् ।

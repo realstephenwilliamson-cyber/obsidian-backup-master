@@ -33,6 +33,11 @@ uktaṃ śrīsāraśāstre ca nirvikalpo hi sidhyati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 76–77)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.111–112]]
+>
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.112–113]]
+
 *Lead-in:* किमत्र प्रमाणम् ?--इत्याशङ्क्य आह--
 
 > उक्तं श्रीसारशास्त्रे च निर्विकल्पो हि सिध्यति ॥

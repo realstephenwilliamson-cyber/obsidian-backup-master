@@ -295,7 +295,7 @@ causes to be withdrawn from Him,
 [^8]: *holekh*
 [^9]: *ḥazeq*
 [^10]: *me-od*
-[^11]: See *BT* Zevaḥim 88b
+[^11]: See *BT* [[Zevachim 88#88b|Zevaḥim 88b]]
 [^12]: Day of Atonements
 [^13]: *ke-dat*
 [^14]: *eish dat*

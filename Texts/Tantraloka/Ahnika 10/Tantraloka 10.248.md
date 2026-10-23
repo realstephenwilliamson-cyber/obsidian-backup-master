@@ -33,6 +33,11 @@ vaikalpikapathārūḍhavedyasāmyāvabhāsanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 453–454)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.247–248]]
+>
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.248–249]]
+
 *Lead-in:* ननु लोके सर्वस्य स्वापावसरे स्वानुभवसाक्षिकमविकल्पकवृत्त्यैव तत्तदर्थानुभवो भवेदिति किमेतत्? -- इत्याशङ्क्याह --
 
 > वैकल्पिकपथारूढवेद्यसाम्यावभासनात् ॥

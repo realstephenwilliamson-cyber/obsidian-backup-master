@@ -33,6 +33,11 @@ utkṣipyotkṣipya kalayā dehamadhyasvarūpataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 117–118)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.124–126]]
+>
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.126–127]]
+
 *Lead-in:* जन्माधारात् द्वादशान्तं यावदुदये युक्तिमाह--
 
 Jayaratha comments on this verse together with 31.125: see [[Tantraloka 31.125#Viveka|31.125]].

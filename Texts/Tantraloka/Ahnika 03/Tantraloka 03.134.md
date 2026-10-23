@@ -37,6 +37,11 @@ makārādanya evāyaṃ tacchāyāmātradhṛdyathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 239–240)
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.133–134]]
+>
+> ![[Tantraloka Dyczkowski v02 08 - Chapter Three, part 5#Viveka on 3.134–135]]
+
 *Lead-in:* ननु न विन्दुर्नाम परामर्शान्तरं किञ्चिद्युज्यते, वक्ष्यमाणेन मकाराख्येन परामर्शविशेषेणैवास्य संग्रहात्; नहि अनयोः प्रतीतौ कश्चिद्विशेषः, प्रत्येयभेदाद्धि प्रतीतिभेदः, तत्कथमयं ततो भिन्नः स्यात् ? -- इत्याशङ्क्याह --
 
 > मकारादन्य एवायं तच्छायामात्रधृद्यथा ॥

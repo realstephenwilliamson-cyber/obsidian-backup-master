@@ -31,6 +31,9 @@ tatra tatra ca śāstre'sya svarūpaṃ stutavān vibhuḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 343–345)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.164–166]]
+
 > आदीयते यतः सारं तस्य मुख्यस्य चैष यत् ।
 > मुख्यश्च यागस्तेनायमादियाग इति स्मृतः ॥
 > तत्र तत्र च शास्त्रेऽस्य स्वरूपं स्तुतवान् विभुः ।

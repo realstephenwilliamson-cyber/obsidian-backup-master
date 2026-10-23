@@ -31,6 +31,9 @@ santatiranavacchinnā citrā śiṣyapraśiṣyamayī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 236–237)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.35–39]]
+
 *Lead-in:* साधिकारत्वमेव एषां व्यनक्ति--
 
 > एते हि साधिकाराः पूज्या येषामियं बहुविभेदा ।

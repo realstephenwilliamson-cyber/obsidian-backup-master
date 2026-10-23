@@ -34,6 +34,11 @@ haṭhanirmalacandrārkaprakāśaḥ satyamīkṣate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 293–294)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.478–479]]
+>
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.479–480]]
+
 *Lead-in:* ननु अतोऽपि किं स्यात् ?--इत्याशङ्क्य आह--
 
 > हठनिर्मलचन्द्रार्कप्रकाशः सत्यमीक्षते ॥

@@ -12,7 +12,7 @@ aliases:
 ---
 # Mei HaShiloach (Edwards)
 
-*Mei HaShiloach* by Rabbi Mordechai Yosef Leiner of Izhbitz, in Betsalel Philip Edwards' translation, following Sefaria's structure: one note per parasha per volume, and one note for each section that is not on a parasha. Teachings are numbered as on Sefaria; where Sefaria links a teaching to a Torah verse, the verse is linked under the teaching. This translation has no English text on Sefaria for: Mei HaShiloach Anthology, Volume II.
+*Mei HaShiloach* by Rabbi Mordechai Yosef Leiner of Izhbitz, in Betsalel Philip Edwards' translation, following Sefaria's structure: one note per parasha per volume, and one note for each section that is not on a parasha. Teachings are numbered as on Sefaria; where Sefaria links a teaching to a Torah verse, the verse is linked under the teaching. Edwards translated Volume I only. Of Volume II, the Sefaria Community Translation (CC0) has translated a few passages; they are under *Volume II* below (added 22 Oct 2026, 13 notes, each marked as partial). The Anthology has no notes here.
 
 ## License and attribution
 
@@ -22,6 +22,7 @@ aliases:
 - **Version source:** https://www.nli.org.il/he/books/NNL_ALEPH002230918/NLI
 - **Print edition:** https://www.amazon.com/Living-Waters-HaShiloach-Mordechai-Yosef/dp/0765761475
 - **Digital text:** [Sefaria](https://www.sefaria.org/), via the [Sefaria-Export](https://github.com/Sefaria/Sefaria-Export) dataset (export of 2026-09-07).
+- **Volume II:** Sefaria Community Translation, CC0 (export of 2026-10-01).
 
 ## Volume I
 
@@ -117,3 +118,19 @@ aliases:
 ### Talmud
 
 - [[Mei HaShiloach I - Shabbat]]
+
+## Volume II (Sefaria Community Translation, partial)
+
+- [[Mei HaShiloach II - Bereshit]]
+- [[Mei HaShiloach II - Shemot]]
+- [[Mei HaShiloach II - Bo]]
+- [[Mei HaShiloach II - Yitro]]
+- [[Mei HaShiloach II - Tetzaveh]]
+- [[Mei HaShiloach II - Achrei Mot]]
+- [[Mei HaShiloach II - Kedoshim]]
+- [[Mei HaShiloach II - Bamidbar]]
+- [[Mei HaShiloach II - Beha'alotcha]]
+- [[Mei HaShiloach II - Eikev]]
+- [[Mei HaShiloach II - Isaiah]]
+- [[Mei HaShiloach II - Jonah]]
+- [[Mei HaShiloach II - Berakhot]]

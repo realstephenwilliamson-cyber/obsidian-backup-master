@@ -35,6 +35,9 @@ so'vyaktamadhiṣṭhāya prakaroti jaganniyogataḥ śambhoḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 308–309)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.304–306]]
+
 > धर्मानणिमादिगुणाञ्ज्ञानानि तपःसुखानि योगांश्च ।
 > मायाबिलात्प्रदत्ते पुंसां निष्कृष्य निष्कृष्य ॥
 > तच्छक्तीद्धस्वबला गुहाधिकारान्धकारगुणदीपाः ।

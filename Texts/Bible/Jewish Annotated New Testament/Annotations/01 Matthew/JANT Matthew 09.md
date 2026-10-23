@@ -24,15 +24,15 @@ Text: [[NRSVue Matthew 09|NRSVue]] · [[Matthew 09|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 09#^9-6|6]]:** *Son of Man*, see 8.20n. ^9-6
 
-**[[NRSVue Matthew 09#^9-8|8]]:** *Glorified God*, see 6.9n. The people do not regard Jesus’ action as blasphemous. *Given such authority to human beings*, see *b. Ber.* 58a, the rabbis debate regarding who has the right to administer authority, especially without governmental permission. ^9-8
+**[[NRSVue Matthew 09#^9-8|8]]:** *Glorified God*, see 6.9n. The people do not regard Jesus’ action as blasphemous. *Given such authority to human beings*, see [[Berakhot 58#58a|*b. Ber.* 58a]], the rabbis debate regarding who has the right to administer authority, especially without governmental permission. ^9-8
 
 ### 9.9–13: Sinners and tax collectors
 
 *[[NRSVue Matthew 09#^9-9|Text]], p. 27* · ([[Mark 02#^2-14|Mk 2.14]]; [[Luke 05#^5-27|Lk 5.27–28]]). ^9-9
 
-**[[NRSVue Matthew 09#^9-9|9]]:** *Matthew*, Heb “mattityahu,” “gift of the Lord” (see [[Matthew 10#^10-3|Mt 10.3]]; [[Mark 03#^3-18|Mk 3.18]]; [[Luke 06#^6-15|Lk 6.15]]; [[Acts 01#^1-13|Acts 1.13]]). See *b. Sanh*. 43a where the rabbis mention that “Mat-thai” was a disciple of Yeshu, a Hebrew derivative for “Jesus.” ^9-9-2
+**[[NRSVue Matthew 09#^9-9|9]]:** *Matthew*, Heb “mattityahu,” “gift of the Lord” (see [[Matthew 10#^10-3|Mt 10.3]]; [[Mark 03#^3-18|Mk 3.18]]; [[Luke 06#^6-15|Lk 6.15]]; [[Acts 01#^1-13|Acts 1.13]]). See [[Sanhedrin 43#43a|*b. Sanh*. 43a]] where the rabbis mention that “Mat-thai” was a disciple of Yeshu, a Hebrew derivative for “Jesus.” ^9-9-2
 
-**[[NRSVue Matthew 09#^9-10|10]]:** *Tax collectors*, see 5.46n., see also *Gerasenes* [[Mark 02#^2-15|Mk 2.15–16]]; [[Luke 03#^3-12|Lk 3.12–13]]; [[Luke 15#^15-1|15.1]]; in *b. Sanh*. 25b, the rabbis discuss tax collectors in the same vein as others criminals such as robbers; see also *Spec. Laws* 3.30; *y. Hag*. 2.2; *b. Bek*. 31a. *Sinners*, those who violate familial or community welfare (see 15.2; see also Tob 4.17; *Pss. Sol.* 2.34; 13.1; 14.6–7; *Sib. Or*. 3.304; *b. Ber*. 61a). ^9-10
+**[[NRSVue Matthew 09#^9-10|10]]:** *Tax collectors*, see 5.46n., see also *Gerasenes* [[Mark 02#^2-15|Mk 2.15–16]]; [[Luke 03#^3-12|Lk 3.12–13]]; [[Luke 15#^15-1|15.1]]; in [[Sanhedrin 25#25b|*b. Sanh*. 25b]], the rabbis discuss tax collectors in the same vein as others criminals such as robbers; see also *Spec. Laws* 3.30; *y. Hag*. 2.2; [[Bekhorot 31#31a|*b. Bek*. 31a]]. *Sinners*, those who violate familial or community welfare (see 15.2; see also Tob 4.17; *Pss. Sol.* 2.34; 13.1; 14.6–7; *Sib. Or*. 3.304; [[Berakhot 61#61a|*b. Ber*. 61a]]). ^9-10
 
 **[[NRSVue Matthew 09#^9-13|13]]:** *I desire mercy. . .* , [[Hosea 06#^6-6|Hos 6.6]]. The rhetorical form, for both Hosea and Jesus, is that mercy takes precedence over sacrifice, not that sacrifice is eliminated (5.23–24). ^9-13
 
@@ -40,9 +40,9 @@ Text: [[NRSVue Matthew 09|NRSVue]] · [[Matthew 09|BSB and SBLGNT]] · Introduct
 
 *[[NRSVue Matthew 09#^9-14|Text]], p. 28* · ([[Mark 02#^2-18|Mk 2.18–22]]; [[Luke 05#^5-33|Lk 5.33–39]]). ^9-14
 
-**[[NRSVue Matthew 09#^9-14|14]]:** *Disciples of John*, that John (the Baptist) kept disciples suggests that he did not view Jesus as the Messiah. *Pharisees fast*, see 6.16–18n.; [[II Samuel 12#^12-22|2 Sam 12.22–23]]; [[I Kings 21#^21-27|1 Kings 21.27–29]]; [[Zechariah 08#^8-19|Zech 8.19]]; on dates of fasts, see *b. Rosh Ha-Shanah* 18b. ^9-14-2
+**[[NRSVue Matthew 09#^9-14|14]]:** *Disciples of John*, that John (the Baptist) kept disciples suggests that he did not view Jesus as the Messiah. *Pharisees fast*, see 6.16–18n.; [[II Samuel 12#^12-22|2 Sam 12.22–23]]; [[I Kings 21#^21-27|1 Kings 21.27–29]]; [[Zechariah 08#^8-19|Zech 8.19]]; on dates of fasts, see [[Rosh Hashanah 18#18b|*b. Rosh Ha-Shanah* 18b]]. ^9-14-2
 
-**[[NRSVue Matthew 09#^9-15|15]]:** *Bridegroom*, early Christian metaphor for Jesus, seen as the church’s bridegroom ([[John 03#^3-29|Jn 3.29]]; [[2 Corinthians 11#^11-2|2 Cor 11.2]]; [[Ephesians 05#^5-21|Eph 5.21–33]]; [[Revelation 19#^19-7|Rev 19.7]]; [[Revelation 21#^21-2|21.2]],[[Revelation 21#^21-9|9]]; [[Revelation 22#^22-17|22.17]]); Jesus likely used the term as a self-designation. For bridegrooms’ exemptions from certain practices, such as observing the festival of Sukkot, see *b. Sukk*. 25b (see also [[Torah 48 - Shoftim#^20-7|Deut 20.7]]). ^9-15
+**[[NRSVue Matthew 09#^9-15|15]]:** *Bridegroom*, early Christian metaphor for Jesus, seen as the church’s bridegroom ([[John 03#^3-29|Jn 3.29]]; [[2 Corinthians 11#^11-2|2 Cor 11.2]]; [[Ephesians 05#^5-21|Eph 5.21–33]]; [[Revelation 19#^19-7|Rev 19.7]]; [[Revelation 21#^21-2|21.2]],[[Revelation 21#^21-9|9]]; [[Revelation 22#^22-17|22.17]]); Jesus likely used the term as a self-designation. For bridegrooms’ exemptions from certain practices, such as observing the festival of Sukkot, see [[Sukkah 25#25b|*b. Sukk*. 25b]] (see also [[Torah 48 - Shoftim#^20-7|Deut 20.7]]). ^9-15
 
 **[[NRSVue Matthew 09#^9-17|17]]:** *Both are preserved*, both biblical law and Jesus/the church’s interpretation of it. ^9-17
 
@@ -52,7 +52,7 @@ Text: [[NRSVue Matthew 09|NRSVue]] · [[Matthew 09|BSB and SBLGNT]] · Introduct
 
 **[[NRSVue Matthew 09#^9-18|18]]:** *Leader of the synagogue*, The Gk reads “archon,” “leader”; “synagogue” comes from [[Mark 05#^5-22|Mk 5.22]]; [[Luke 08#^8-41|Lk 8.41]]. ^9-18-2
 
-**[[NRSVue Matthew 09#^9-20|20]]:** *Hemorrhages*, probably vaginal or uterine. *Fringe* (cf. Heb pl. “tzitzit”), Jewish men (and possibly women) were commanded to wear fringes to remind them of the commandments ([[Torah 37 - Sh'lach#^15-38|Num 15.38]]; [[Torah 49 - Ki Teitzei#^22-12|Deut 22.12]]; *b. Men*. 14a; 43b); see 14.36; 23.5; *Tg. Onq.* to [[Torah 37 - Sh'lach#^15-38|Num 15.38]] and [[Torah 49 - Ki Teitzei#^22-12|Deut 22.12]] uses an Aramaic cognate to the Greek term “kraspedon” (“fringe”). ^9-20
+**[[NRSVue Matthew 09#^9-20|20]]:** *Hemorrhages*, probably vaginal or uterine. *Fringe* (cf. Heb pl. “tzitzit”), Jewish men (and possibly women) were commanded to wear fringes to remind them of the commandments ([[Torah 37 - Sh'lach#^15-38|Num 15.38]]; [[Torah 49 - Ki Teitzei#^22-12|Deut 22.12]]; [[Menachot 14#14a|*b. Men*. 14a]]; 43b); see 14.36; 23.5; *Tg. Onq.* to [[Torah 37 - Sh'lach#^15-38|Num 15.38]] and [[Torah 49 - Ki Teitzei#^22-12|Deut 22.12]] uses an Aramaic cognate to the Greek term “kraspedon” (“fringe”). ^9-20
 
 **[[NRSVue Matthew 09#^9-22|22]]:** *Made you well*, Gk “sōzō” can mean “save” (cf. 1.21; 10.22; 16.25; 19.25; 24.13). ^9-22
 

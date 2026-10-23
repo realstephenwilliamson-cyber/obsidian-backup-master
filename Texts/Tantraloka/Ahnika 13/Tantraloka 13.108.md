@@ -31,6 +31,9 @@ pañcaprakārakṛtyoktiśivatvānnijakarmaṇe || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 190)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.108–109]]
+
 *Lead-in:* न चैतदस्माभिरेवोक्तम् -- इत्याह --
 
 > आहास्मत्परमेष्ठी च शिवदृष्टौ गुरूत्तमः ।

@@ -33,6 +33,11 @@ karmakālaniyatyādi yataḥ saṅkocajīvitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 104–105)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.233–234]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.234–236]]
+
 *Lead-in:* ननु अनुग्रहस्यापि कर्मादिहेतुत्वे को दोषः?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 28.233: see [[Tantraloka 28.233#Viveka|28.233]].

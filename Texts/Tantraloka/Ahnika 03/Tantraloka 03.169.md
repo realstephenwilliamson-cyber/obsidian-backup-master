@@ -35,6 +35,9 @@ viṣatattvamanackākhyaṃ tava snehātprakāśitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 287–289)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.168–169]]
+
 > उवाच भगवानेव तच्छ्रीमत्कुलगुह्वरे ।
 > शक्तिशक्तिमदैकात्म्यलब्धान्वर्थाभिधानके ॥
 > काकचञ्चुपुटाकारं ध्यानधारणवर्जितम् ।

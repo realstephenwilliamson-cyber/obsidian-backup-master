@@ -36,6 +36,11 @@ tasya cidrūpatāṃ satyāṃ svātantryollāsakalpanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 9–11)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.9–10]]
+>
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.10–11]]
+
 *Lead-in:* तथापि अत्र परमार्थप्रकाशनं कथम् ? -- इत्याशङ्क्याह --
 
 > तस्य चिद्रूपतां सत्यां स्वातन्त्र्योल्लासकल्पनात् ॥

@@ -36,6 +36,11 @@ dhīkarmākṣagatā devīrniṣiddhaireva tarpayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 111–112)
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.18–19]]
+>
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.19]]
+
 *Lead-in:* अतश्च किम्? -- इत्याह -
 
 > धीकर्माक्षगता देवीर्निषिद्धैरेव तर्पयेत् ॥

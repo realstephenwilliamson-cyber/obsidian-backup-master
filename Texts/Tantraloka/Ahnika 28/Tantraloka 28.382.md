@@ -33,6 +33,11 @@ sa tvanugrahaśaktyā cedviddhastattanmayībhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 173–174)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.381–382]]
+>
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.382–383]]
+
 *Lead-in:* एवमस्य कश्चिदुपकारः स्यान्न वा ?--इत्याशङ्क्य आह--
 
 > स त्वनुग्रहशक्त्या चेद्विद्धस्तत्तन्मयीभवेत् ॥

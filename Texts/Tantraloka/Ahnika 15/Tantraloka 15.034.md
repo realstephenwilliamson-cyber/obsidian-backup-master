@@ -33,6 +33,11 @@ evaṃ pṛṣṭvā parijñāya vicārya ca guruḥ svayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 29–31)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.33–34]]
+>
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.34–35]]
+
 *Lead-in:* एवं श्रीस्वच्छन्दशास्त्रप्रक्रियया दीक्षाया दीक्ष्यस्य च तत्त्वमभिधाय, प्रक्रान्तं दीक्षाकर्मसमाचारमेव प्रस्तौति--
 
 > एवं पृष्ट्वा परिज्ञाय विचार्य च गुरुः स्वयम् ॥

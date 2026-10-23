@@ -33,6 +33,11 @@ prāgbhedabhāgī jhaṭiti kramātsāmastyatoṃ'śataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 263–264)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.222–224]]
+>
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.224–226]]
+
 *Lead-in:* एवं चास्य उपलक्षणपरतया अवान्तरमपि तरतमभावं विभजति --
 
 Jayaratha comments on this verse together with 13.223: see [[Tantraloka 13.223#Viveka|13.223]].

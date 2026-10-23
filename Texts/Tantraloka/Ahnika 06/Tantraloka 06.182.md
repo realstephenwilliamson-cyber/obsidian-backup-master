@@ -37,6 +37,11 @@ icchāmātrapratiṣṭheyaṃ kriyāvaicitryacarcanā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 392–393)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.181–182]]
+>
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.182–183]]
+
 *Lead-in:* अत आह -
 
 > इच्छामात्रप्रतिष्ठेयं क्रियावैचित्र्यचर्चना ॥

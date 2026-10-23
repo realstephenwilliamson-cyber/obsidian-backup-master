@@ -33,6 +33,11 @@ tallakṣaṇaṃ bruve śrīmatpicuśāstre nirūpitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 408–409)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 27.21–22.*
+>
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.21–22]]
+
 > पुत्रकैर्गुरुरभ्यर्थ्यः साधकस्तु स्वयं विदन् ।
 > यदि तत्स्थापयेन्नो चेत्तेनाप्यर्थ्यो गुरुर्भवेत् ॥
 > गुरुश्चात्र निरोधाख्ये काल इत्थं विभौ वदेत् ।

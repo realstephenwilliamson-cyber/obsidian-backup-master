@@ -38,6 +38,9 @@ pratibimbamalaṃ svacche na khalvanyaprasādataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 136–137)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.65]]
+
 *Lead-in:* तदेवं विश्वचित्प्रतिबिम्बत्वमेवोपसंहरति --
 
 > इत्थं विश्वमिदं नाथे भैरवीयचिदम्बरे ।

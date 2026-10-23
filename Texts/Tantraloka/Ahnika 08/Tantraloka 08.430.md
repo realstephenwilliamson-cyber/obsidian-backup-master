@@ -35,5 +35,8 @@ pañcāṣṭakasya madhyād dvātriṃśadbhūtacatuṣṭaye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 385)
+> ![[Tantraloka Dyczkowski v05 11 - Chapter Eight, part 9#Viveka on 8.428–432]]
+
 Jayaratha comments on this verse together with 8.433: see [[Tantraloka 08.433#Viveka|8.433]].
 

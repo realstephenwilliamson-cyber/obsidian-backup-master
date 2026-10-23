@@ -31,6 +31,9 @@ kṛtaḥ kā'nyā dehatā'sya tatkiṃ syādvācyatāpadam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 359–360)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.29–30]]
+
 > ममेच्छामनुवर्तन्तामित्यत्राहंविदि स्फुरेत् ।
 > शिवो वा परमेशानो देहादिरथ निर्मितः ॥
 > शिवस्य तावदस्त्येतद्देहस्त्वेष तथा त्वया ।

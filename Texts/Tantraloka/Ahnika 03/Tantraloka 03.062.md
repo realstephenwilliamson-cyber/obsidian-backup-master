@@ -35,6 +35,9 @@ nimittena ghanenāstu saṃkrāntadayitākṛtiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 133)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.62]]
+
 *Lead-in:* तदाह --
 
 > अत एव पुरोवर्तिन्यालोके स्मरणादिना ।

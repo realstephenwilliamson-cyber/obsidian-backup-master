@@ -37,6 +37,15 @@ dhāmasthaṃ dhāmamadhyasthaṃ dhāmodarapuṭīkṛtam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 122–126)
+> *No commentary follows this verse directly; shown here is the next, after Dyczkowski's verse 94cd-95.*
+>
+> ![[Tantraloka Dyczkowski v04 05 - Chapter Five, part 3#Viveka on 5.93–94]]
+>
+> ![[Tantraloka Dyczkowski v04 05 - Chapter Five, part 3#Viveka on Dyczkowski's verse 94cd-95]]
+>
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on Dyczkowski's verse 94cd-95 (continued)]]
+
 *Lead-in:* न केवलमत्र खशब्देनैव दशधा भिन्नोऽयमर्थ उच्यते यावच्छब्दान्तरेणापि -- इत्याह --
 
 Jayaratha comments on this verse together with 5.93: see [[Tantraloka 05.093#Viveka|5.93]].

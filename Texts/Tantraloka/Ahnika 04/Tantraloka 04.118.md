@@ -36,6 +36,11 @@ tato'pi dehārambhīṇi tattvāni pariśodhayet |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 137–140)
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.117–118]]
+>
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.118–119]]
+
 *Lead-in:* ननु शर्वं खल्विदं ब्रह्म"इत्यादिनीत्या सर्वमिदं -- देहादि परब्रह्मात्मकशिवस्वभावमेव, इति का नाम तत्र शुद्धिरशुद्धिर्वा ? - - इत्याशङ्क्याह --
 
 > शिवात्मकेष्वप्येतेषु बुद्धिर्या व्यतिरेकिणी ॥

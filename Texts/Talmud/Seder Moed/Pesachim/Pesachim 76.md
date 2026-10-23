@@ -1,0 +1,111 @@
+---
+type: "text"
+work: "Talmud Bavli"
+masekhet: "Pesachim"
+seder: "Moed"
+daf: 76
+translation: "William Davidson Edition - English"
+edition: "English from The William Davidson digital edition of the Koren Noé Talmud, with commentary by Rabbi Adin Even-Israel Steinsaltz"
+license: "CC-BY-NC"
+source: "https://www.sefaria.org/Pesachim.76a?ven=William_Davidson_Edition_-_English&lang=en"
+aliases:
+  - "Pesachim 76a"
+  - "Pesachim 76b"
+  - "BT Pesachim 76"
+---
+# Pesachim 76
+
+← [[Pesachim 75]] · [[Pesachim]] · [[Pesachim 77]] →
+
+*Seder Moed · Pesachim · Daf 76* · [[Pesachim]] · [[Talmud]]
+
+## 76a
+
+> [!xref]- Mesoret HaShas (76a)
+> - [[Pesachim 74#^74a-2|Pesachim 74a:2]] (line 2)
+> - [Tosefta Chullin 8:2](https://www.sefaria.org/Tosefta_Chullin.8.2) (line 8)
+> - [[Chullin 112#^112a-5|Chullin 112a:5]] (line 12)
+> - [[Chullin 97#^97b-4|Chullin 97b:4-5]] (line 11)
+> - [Jerusalem Talmud Terumot 10:2:6](https://www.sefaria.org/Jerusalem_Talmud_Terumot.10.2.6)
+
+> [!xref]- Ein Mishpat (76a)
+> - [Sefer Mitzvot Gadol, Negative Commandments 143](https://www.sefaria.org/Sefer_Mitzvot_Gadol,_Negative_Commandments.143) (lines 8, 9, 12, 15)
+> - [Tur, Yoreh De'ah 91](https://www.sefaria.org/Tur,_Yoreh_De'ah.91) (lines 8, 9, 12, 15)
+> - [Shulchan Arukh, Yoreh De'ah 91:5](https://www.sefaria.org/Shulchan_Arukh,_Yoreh_De'ah.91.5) (line 12)
+> - [Shulchan Arukh, Yoreh De'ah 91:4](https://www.sefaria.org/Shulchan_Arukh,_Yoreh_De'ah.91.4) (lines 8, 9)
+> - [Tur, Yoreh De'ah 105](https://www.sefaria.org/Tur,_Yoreh_De'ah.105) (lines 8, 9)
+> - [Shulchan Arukh, Yoreh De'ah 105:3](https://www.sefaria.org/Shulchan_Arukh,_Yoreh_De'ah.105.3) (lines 8, 9)
+
+that the permitted foods become **forbidden,** because they absorb some of the forbidden food. If a **cold** food item falls **into** another **cold** item, **all agree it is permitted;** the food needs only to be rinsed off. The dispute pertains to a **hot** food item that falls **into a cold** one or **a cold** food item that falls **into a hot** one. **Rav said: The upper one prevails.** The *halakha* is determined based upon the state of the upper substance. If the upper food is hot, the case is judged as though a hot food fell into another hot food because the upper food heats the lower food. If the upper food is cold, the case is similar to a situation where a cold food falls into another cold food because the upper food cools down the lower one and prevents absorption. **And Shmuel said: The lower one prevails.** In his opinion, if the upper substance is hot and the lower one is cold, the permitted food remains permitted; if the lower one is hot and upper one is cold, they are forbidden. ^76a-1
+
+**We learned** in the mishna: If some **of the gravy of** the Paschal lamb **dripped onto the earthenware and returned to it, one** must **remove its place. It** might **enter your mind** to say that this is referring to **cold earthenware. Granted, according to** the opinion of **Rav, who said the upper one prevails,** it is **due to this** reason that **one** must **remove its place.** According to Rav’s view, **the gravy goes and heats the earthenware, and then the earthenware heats the gravy, and when the gravy returns to the Paschal lamb, the Paschal lamb becomes roasted from the heat of the earthenware, and the Merciful One states** in the Torah: **“Roasted in fire”** ([[Torah 15 - Bo#^12-8|Exodus 12:8]]), **and not roasted due to something else.** ^76a-2
+
+**But according to** the opinion of **Shmuel, who said the lower one prevails, since the earthenware is cold, it cools down the gravy.** In that case, **why must he remove its place?** The Gemara answers: **As Rabbi Yirmeya said** that **Shmuel said** in explanation of the mishna’s next ruling in the case of gravy that dripped onto flour: The mishna is referring to **hot flour. Here, too,** it is referring to **hot earthenware.** Since the earthenware is already hot, it is a case of something hot that fell onto something hot, even according to Shmuel. ^76a-3
+
+**We** also **learned** in the mishna that if some **of** the Paschal lamb’s **gravy dripped onto flour, one** must **remove a handful of** flour from **its place. It** could **enter your mind** to say that this is talking about **cold flour. Granted, according to** the opinion of **Rav, who said the upper one prevails,** it is **due to this** reason that **one** must **remove a handful** of flour from **its place, as** the gravy **heats the flour around it, and the flour then heats** the gravy, **and the gravy is roasted from the heat of the flour, and the Merciful One states** in the Torah: **“Roasted in fire,” and not roasted due to something else.** ^76a-4
+
+**But according to** the opinion of **Shmuel, who said the lower one prevails, since the flour is cold it cools down** the gravy. In that case, **why do I** need to say: **One** must **remove a handful** of flour from **its place? It should be enough for one to remove** a small amount from **its place,** and it should not be necessary to take anything more. With regard to this **Rabbi Yirmeya said** that **Shmuel said:** The mishna is referring to **hot flour.** The gravy is therefore roasted from the heat of the flour, and an entire handful of flour must be removed. ^76a-5
+
+**We learned** in the mishna: In a case where **one smears** the Paschal lamb **with *teruma* oil, if** the Paschal lamb belongs to **a group of priests they may eat it,** as they are permitted to eat *teruma*. **If** it belongs to a group **of Israelites,** then **if** the Paschal lamb is still **raw, one** must **rinse it** in order to remove the *teruma* oil; **and if it is roasted, one** must **peel off the outer** layer. **Granted, according to Rav, who said the upper one prevails, for this** reason **it is sufficient** to remove only the outer **peel, because the upper one is cold** and therefore the oil is not absorbed deeply into the meat. ^76a-6
+
+**But** according **to Shmuel, who said: The lower one prevails, since** the meat, which is on the bottom, **is hot, it absorbs** the oil. In that case, **why is it enough for it** to be permitted when only the outer **peel** is removed? **It should be entirely forbidden.** The Gemara answers: **Smearing is different because it is done with only a minute amount.** Since one smears only a little bit of oil, there is not enough oil to render the entire offering forbidden. ^76a-7
+
+It **was taught** in a *baraita* **in accordance with** the opinion of **Shmuel:** If **hot** permitted food falls **into hot** forbidden food, **it is forbidden. And, so too, cold** permitted food **that one put into hot** forbidden food **is forbidden.** If **hot** food falls **into cold** food, **and** similarly, if **cold** food falls **into cold** food, **one** must **rinse** the permitted food, and it remains permitted. ^76a-8
+
+The Gemara asks: Is it true that if **hot** permitted food falls **into cold** forbidden food, **one** must **rinse** the permitted food and it remains permitted? **Since it is hot, until** the bottom food **cools it, it is impossible that it will not absorb a little** of the forbidden food. Therefore, **it should at least require** the removal of the outer **peel;** rinsing it should not be sufficient. **Rather, say** the following corrected version: If **hot** food falls **into cold** food, **one** must **peel** off the outer layer; if **cold** food falls **into cold** food, **one** must **rinse** it off and that is sufficient. ^76a-9
+
+**It was taught** in **another** *baraita*: **Hot meat that fell into hot milk, and so too, cold** meat **that fell into hot** milk, **is prohibited.** If **hot** meat falls **into cold** milk **and** similarly, if **cold** meat falls **into cold** milk, **one** must **rinse** it off and that is sufficient. The Gemara asks: Is it true that if **hot** meat falls **into cold** milk, **one** must **rinse** it off and that is sufficient? **Since it is hot, until** the bottom food **cools it, it is impossible that it will not absorb a little** of the milk. Therefore, **it should at least require** the removal of the outer **peel. Rather, say** the following corrected version: If **hot** meat falls **into cold** milk, **one** must **peel** off the outer layer; if **cold** meat falls **into cold** milk, **one** must **rinse** it off and that is sufficient. ^76a-10
+
+**The Master said** in the *baraita* quoted above: If **cold** meat falls **into cold** milk or into a prohibited food, **one** must **rinse** it off and that is sufficient. **Rav Huna said: They taught** this *halakha* **only** in a case where **he did not salt** either of the food items. **However, if he salted** one of them **it is forbidden, as Shmuel said: A salted** food item **is** considered **like a boiling** food item with regard to its ability to transmit flavor. Additionally, a food item **marinated** in vinegar, brine, or the like **is** considered **like a cooked** food item, as it absorbs flavor from the liquid in which it is marinated or from other foods with which it is marinated. ^76a-11
+
+**Rava said:** With regard to **that which Shmuel said,** that **a salted** food **is like a boiling** food, **we said** it **only** with regard to something salted to the point that **it is not** typically **eaten due to its salt. But** if the food is still **eaten due to its salt,** i.e., despite its having been salted, then it is **not** considered like something that is boiling, and it does not transmit flavor. ^76a-12
+
+There was **a particular young bird that fell into a jug of *kamka*,** also known as *kutaḥ*, a food item that contains milk. There was a question whether the food is considered a forbidden mixture of meat and milk. **Rav Ḥinnana, son of Rava of** the city of **Pashronya, permitted** it. ^76a-13
+
+**Rava said** about this: **Who is wise** enough **to permit something** as complicated **as this, if not Rav Ḥinnana, son of Rava of Pashronya, as he is a great man** and can recognize the reason for leniency even in a case that appears to be prohibited? **He** could have **said to you** in explanation of his lenient ruling: **When Shmuel said** that **a salted** food item **is like a boiling** food item, that *halakha* concerned a food that was salted to the point that **it is not eaten due to its salt,** but **this** *kutaḥ* **is** still **eaten due to,** i.e., despite, **its salt.** Therefore, the case is comparable to a cold food that falls into another cold food, which is permitted after it is rinsed. ^76a-14
+
+The Gemara points out that **this applies** only if the bird is **raw; but** if it is **roasted, it requires** the removal of the outer **peel.** The roasting softens the meat, enabling it to absorb flavor more easily. **And we said** that the bird is permitted **only when it does not have cracks; but** if **it has cracks, it is forbidden** because the milk is absorbed into the cracks. **And if it has been flavored with spices it is forbidden** because the spices soften the meat, causing it to be absorbent. ^76a-15
+
+**Rav said:** ^76a-16
+
+## 76b
+
+> [!xref]- Mesoret HaShas (76b)
+> - [[Avodah Zarah 66#^66b-5|Avodah Zarah 66b:5-6]] (line 7)
+> - [[Pesachim 62#^62b-3|Pesachim 62b:3]] (line 11)
+
+> [!xref]- Ein Mishpat (76b)
+> - [Sefer Mitzvot Gadol, Negative Commandments 141](https://www.sefaria.org/Sefer_Mitzvot_Gadol,_Negative_Commandments.141) (lines 2, 10)
+> - [Tur, Yoreh De'ah 97](https://www.sefaria.org/Tur,_Yoreh_De'ah.97) (line 10)
+> - [Shulchan Arukh, Yoreh De'ah 97:3](https://www.sefaria.org/Shulchan_Arukh,_Yoreh_De'ah.97.3) (line 10)
+> - [Tur, Yoreh De'ah 108](https://www.sefaria.org/Tur,_Yoreh_De'ah.108) (lines 2, 7, 9)
+> - [Shulchan Arukh, Yoreh De'ah 108:1](https://www.sefaria.org/Shulchan_Arukh,_Yoreh_De'ah.108.1) (line 2)
+> - [Shulchan Arukh, Yoreh De'ah 108:4](https://www.sefaria.org/Shulchan_Arukh,_Yoreh_De'ah.108.4) (lines 7, 9)
+
+**Fatty kosher meat that one roasted** in an oven together **with lean non-kosher meat is forbidden,** even if the two meats never came into contact with one another. **What is the reason** for this *halakha*? It is that **they are flavored from one another.** The fatty meat emits an aroma that is absorbed in the non-kosher meat. The aroma is then transferred back to the kosher meat, causing the kosher meat to absorb some aroma from the non-kosher meat. ^76b-1
+
+**And Levi said:** That aroma does not cause meat to be forbidden. **Even lean kosher meat that one roasted with fatty non-kosher meat is permitted. What is the reason** for this *halakha*? Although the non-kosher meat emits an aroma that is absorbed into the kosher meat, **it is merely an aroma, and an aroma is nothing** significant. The Gemara relates that **Levi took action,** meaning that he put his opinion into practice, **in the house of the Exilarch with a kid and something else,** i.e., a pig, that had been roasted together. Levi did not prohibit the meat of the kid due to the aroma of the pig. ^76b-2
+
+The Gemara **raises an objection: One** may **not roast two Paschal lambs together due to the mixing. What, is it not** prohibited due to **the mixing of flavors,** i.e., due to the aromas that waft from one to the other, **and it** poses **a difficulty to** the opinion of **Levi?** The Gemara rejects this challenge: **No,** it is prohibited **due to the mixing of carcasses.** The groups who are roasting their Paschal offerings might accidentally switch offerings, in which case the offerings will be eaten by people who did not register for them. ^76b-3
+
+The Gemara adds: **So too,** one can conclude that **this** explanation **is reasonable from** the fact **that it is taught in the latter clause** that the ruling applies **even** if the two offerings are **a kid and a lamb. Granted, if you say** that the reason is **due to** the mixing of **carcasses, this is** why it **was taught** that the *halakha* applies to **even a kid and a lamb.** The *baraita* needed to teach that although they do not look alike, there is still a concern that after they have been skinned they will be mixed up. **But if you say** that the reason is **due to the mixing of flavors, what is** the difference between a case in which the two offerings are **a kid and a lamb and** one in which they are **a kid and** another **kid?** The case of the kid and the lamb mentioned at the end of the *baraita* would not teach anything new. ^76b-4
+
+The Gemara asks: **Rather, what** do you say? **Perforce,** it is **due to the mixing of carcasses that it is prohibited, but a mixing of flavors is permitted. Let us say that this will be a refutation of** the opinion of **Rav,** who prohibited the mixing of flavors by means of an aroma. **Rabbi Yirmeya said: With what are we dealing here?** It is a case **where one roasted** the offerings **in two pots.** Consequently, they do not absorb flavor from one another. ^76b-5
+
+The Gemara expresses surprise: **Could it enter your mind** to say that they roasted the Paschal offerings **in two pots?** It is prohibited to the roast the Paschal offering in a pot. **Rather, say** that they were roasted in a manner **similar to two pots,** meaning that they were distanced from each other and separated by a partition. **And this is** what the *baraita* is **saying: One** may **not roast two Paschal offerings together due to mixing. What** is this **mixing?** It is **the mixing of flavors. And even** roasting them in a manner **similar to two pots, where there is no mixing of flavors, is** also **prohibited, due to** the concern with regard to the **mixing of carcasses. And** this is the *halakha* **even** if the animals are **a kid and a lamb.** ^76b-6
+
+**Rav Mari said:** This is **like** the following dispute between ***tanna’im*:** In the case of **one who removes hot bread** from an oven **and places it on top of a barrel of wine** that is ***teruma*, Rabbi Meir prohibits** a non-priest from eating the bread. In his opinion, the bread absorbs the aroma of the *teruma* wine and therefore attains the status of *teruma*. **And Rabbi Yehuda permits** it. **And Rabbi Yosei permits** bread made **of wheat,** which is not very absorbent, **but prohibits** bread made **of barley, because barley draws out** and absorbs the aroma. **What, is it not** a dispute between ***tanna’im*? One Sage,** Rabbi Yehuda, **holds that an aroma is nothing** significant, **and one Sage,** Rabbi Meir, **holds that an aroma is something** significant. ^76b-7
+
+The Gemara says: **According to** the opinion of **Levi,** i.e., that aroma is insignificant, **it certainly is** a dispute between ***tanna’im*.** Rabbi Meir and Rabbi Yosei hold that it is significant, and Levi accepts the opinion of Rabbi Yehuda that aroma is insignificant. However, according **to** the opinion of **Rav, shall we say it is** a dispute between ***tanna’im*?** ^76b-8
+
+**Rav** could have **said to you: Everyone agrees that aroma is something** significant. The dispute is about whether bread absorbs aroma in the circumstance under discussion. **Was it not stated with regard to that** mishna that **Rabba bar bar Ḥana said that Reish Lakish said: With regard to hot bread and an open barrel, everyone agrees that it is prohibited** because it certainly draws out the aroma; and **with regard to cold bread and a closed barrel, everyone agrees it is permitted? They disagreed only with regard to hot bread and a sealed barrel** because perhaps the bread nonetheless draws out aroma through the cracks. Similarly, they disputed the case of **cold bread and an open barrel. And this** case of two Paschal offerings roasted in the same oven **is also** considered **like** the case of **hot bread and an open barrel.** ^76b-9
+
+**Rav Kahana, son of Rav Ḥinnana the Elder, teaches:** In the case of **bread that one baked** together **with roasting** meat **in the oven, it is prohibited to eat** the bread **with *kutaḥ*,** which contains milk, because the bread absorbs some of the meat’s aroma. The Gemara relates: There was **a certain fish that was roasted** together **with meat, Rava of Parzikiyya prohibited it from being eaten with *kutaḥ*,** due to the meat flavor absorbed in the fish. **Mar bar Rav Ashi said: Even** to merely eat it **with salt is also prohibited because** meat that is roasted or cooked with fish is **bad for odor,** meaning it causes bad breath, **and for something else,** i.e., leprosy. Therefore, one should avoid eating it due to the danger involved. ^76b-10
+
+**MISHNA:** **Five items,** i.e., offerings, may **be brought in** a state of ritual **impurity,** but **they** may **not be eaten in** a state of ritual **impurity.** They are all communal offerings: **The *omer*,** which is brought in Nisan; **the two loaves** brought on *Shavuot*; **the shewbread,** which were arranged each week; **the communal peace-offerings,** which were brought on *Shavuot*; **and the goats** sacrificed on **the New Moons,** which were sin-offerings eaten by the priests. However, **the Paschal lamb that is sacrificed in impurity is eaten** even **in impurity, as it is brought to begin with only for eating,** which is the essence of the mitzva. With regard to other offerings, the essence of their mitzva is fulfilled when they are sacrificed on the altar, and the eating is non-essential. ^76b-11
+
+**GEMARA:** The mishna mentions the number **five.** The Gemara asks: **To exclude what** does the mishna emphasize this number? The Gemara answers: It is **to exclude the Festival peace-offering of the fifteenth** of Nisan, which is a Festival peace-offering brought on the Festival itself and which may not be sacrificed in a state of ritual impurity. ^76b-12
+
+**It could enter your mind to say: Since it is a communal offering,** as each individual sacrifices it on the Festival in a public setting, **and its time is set,** as it cannot be brought every day, **it should override ritual impurity** like the other communal offerings that have a set time. Therefore, the mishna **teaches us: Since there is redress all seven** days of the Festival if the offering was not brought on the fifteenth, **it does not override Shabbat. And** since **it does not override Shabbat, it does not override ritual impurity.** Therefore, this offering may not be brought in a state of ritual impurity. ^76b-13
+
+The Gemara asks: **Let it also teach** that **the goats** brought as sin-offerings on **the Festivals** override ritual impurity. The Gemara answers: **It did teach** that, as the goats are included in the category of **communal peace-offerings.** The Gemara asks: **If so, it should also not** be necessary to **teach** separately that **the goats** sacrificed on **the New Moons** are brought in a state of ritual impurity, **as it** already **taught** the *halakha* with regard to **the communal peace-offerings. Say** in answer to this question: ^76b-14

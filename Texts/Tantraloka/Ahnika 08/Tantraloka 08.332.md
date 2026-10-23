@@ -37,6 +37,11 @@ ataḥ paraṃ sthitā māyā devī jantuvimohinī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 322–325)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.330–332]]
+>
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.332–336]]
+
 *Lead-in:* एवं मायाया ग्रन्थितत्त्वरूपतया द्वैविध्यं निरूप्य शक्तिरूपतामपि आख्यातुमाह --
 
 Jayaratha comments on this verse together with 8.331: see [[Tantraloka 08.331#Viveka|8.331]].

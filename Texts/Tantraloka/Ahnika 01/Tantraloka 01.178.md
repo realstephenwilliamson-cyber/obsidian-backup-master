@@ -36,6 +36,11 @@ tenāvikalpā saṃvittirbhāvanādyanapekṣiṇī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 351–354)
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.176–178]]
+>
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.178–179]]
+
 *Lead-in:* तदेवोपसंहरति—
 
 > तेनाविकल्पा संवित्तिर्भावनाद्यनपेक्षिणी ॥

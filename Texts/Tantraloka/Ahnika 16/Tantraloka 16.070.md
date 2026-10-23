@@ -36,6 +36,11 @@ tāvatastānpaśūndadyāttathācoktaṃ maheśinā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 33–34)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.69–70]]
+>
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.70]]
+
 *Lead-in:* अत एवाह--
 
 > तावतस्तान्पशून्दद्यात्तथाचोक्तं महेशिना ॥

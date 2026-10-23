@@ -31,6 +31,9 @@ sarvamapyathavā bhogaṃ manyamāno virūpakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 371–373)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.41–42]]
+
 *Lead-in:* न चैतस्वमनीषिकयैवोक्तम् -- इत्याह --
 
 > उक्तं च मालिनीतन्त्रे परमेशेन तादृशम् ।

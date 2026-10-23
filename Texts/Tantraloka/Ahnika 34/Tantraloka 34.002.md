@@ -31,6 +31,9 @@ tato'pi śāmbhavīmevaṃ tāratamyakramātsphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 186)
+> ![[Tantraloka Dyczkowski v11 08 - Chapter Thirty-Four#Viveka on 34.1–2]]
+
 > यदेतद्बहुधा प्रोक्तमाणवं शिवताप्तये ।
 > तत्रान्तरन्तराविश्य विश्राम्येत्सविधे पदे ॥
 > ततोऽप्याणवसंत्यागाच्छाक्तीं भूमिमुपाश्रयेत् ।

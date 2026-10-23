@@ -31,6 +31,9 @@ devīcakrāgragaṃ tyaktakramaḥ khecaratāṃ vrajet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 222–223)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.361–362]]
+
 *Lead-in:* ननु एवं कृते किं स्यात्?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 15.362: see [[Tantraloka 15.362#Viveka|15.362]].

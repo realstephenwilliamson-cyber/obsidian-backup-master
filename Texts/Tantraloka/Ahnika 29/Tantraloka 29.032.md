@@ -31,5 +31,8 @@ macchandaḥ kuṃkuṇāmbā ca ṣaḍyugmaṃ sādhikārakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 233–234)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.29–33]]
+
 Jayaratha comments on this verse together with 29.33: see [[Tantraloka 29.033#Viveka|29.33]].
 

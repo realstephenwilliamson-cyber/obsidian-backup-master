@@ -31,5 +31,8 @@ jñānī yogī ca puruṣaḥ strī vāsminmūrtisaṃjñake || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 36–37)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.60–63]]
+
 Jayaratha comments on this verse together with 28.63: see [[Tantraloka 28.063#Viveka|28.63]].
 

@@ -34,6 +34,9 @@ tacchaktitritayārohādbhairavīye cidātmani || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 287–289)
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.186–188]]
+
 > तथा हि सदिदं ब्रह्ममूलं मायाण्डसंज्ञितम् ॥
 > इच्छाज्ञानक्रियारोहं विना नैव सदुच्यते ।
 > तच्छक्तित्रितयारोहाद्भैरवीये चिदात्मनि ॥

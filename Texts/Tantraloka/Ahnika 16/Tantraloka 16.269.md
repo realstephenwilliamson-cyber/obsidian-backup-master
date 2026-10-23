@@ -38,6 +38,13 @@ mantrārthavidabhāve tu sarvathā mantratanmayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 119–120)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.268–269]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.268–270]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.269–270]]
+
 *Lead-in:* ननु यद्येवंविधो गुरुर्न स्यात्, तदा किं कार्यम्?--इत्याशङ्क्याह--
 
 > मन्त्रार्थविदभावे तु सर्वथा मन्त्रतन्मयम् ॥

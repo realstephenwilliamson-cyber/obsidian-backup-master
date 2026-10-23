@@ -31,6 +31,9 @@ tataḥ pātre'lisaṃpūrṇe pūrvaṃ cakraṃ yajetsudhīḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 46–47)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.87–88]]
+
 > एकारके यथा चक्रे एकवीरविधिं स्मरेत् ।
 > द्व्यरे यामलमन्यत्र त्रिकमेवं षडस्रके ॥
 > षड्योगिनीः सप्तकं च सप्तारेऽष्टाष्टके च वा ।

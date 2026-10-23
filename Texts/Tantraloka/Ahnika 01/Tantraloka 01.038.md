@@ -36,6 +36,11 @@ tadajñānaṃ na buddhyaṃśo'dhyavasāyādyabhāvataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 146–150)
+> ![[Tantraloka Dyczkowski v01 05 - Chapter One, part 4#Viveka on 1.37–38]]
+>
+> ![[Tantraloka Dyczkowski v01 05 - Chapter One, part 4#Viveka on 1.38]]
+
 *Lead-in:* ननु पंसा बुद्धिवृत्त्यात्मकं ज्ञानं निर्विकल्पकम् इत्युच्यते, तत् कथमेतत् बुद्ध्यंशोपनिपाति न स्यात् -- इत्याशङ्क्याह --
 
 > तदज्ञानं न बुद्ध्यंशोऽध्यवसायाद्यभावतः ॥

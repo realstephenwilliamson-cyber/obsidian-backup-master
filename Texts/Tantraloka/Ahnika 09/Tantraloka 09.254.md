@@ -31,6 +31,9 @@ iti yā'haṃkriyā kāryakṣamā karmendriyaṃ tu tat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 240)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.254]]
+
 *Lead-in:* अत्र च प्राग्वदेवाहङ्कारानुवेधात् आहङ्कारिकत्वं स्फुटयति --
 
 > वच्म्याददे त्यजाम्याशु विसृजामि व्रजामि च ।

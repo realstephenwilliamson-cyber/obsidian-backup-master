@@ -35,6 +35,9 @@ ekādiparārdhānteṣvaṣṭādaśasu sthitiṃ brūyāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 384–385)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.169]]
+
 *Lead-in:* नन्वेवमवस्थानमेषां कथं स्यात् ? -- इत्याशङ्क्याह --
 
 > इत्येकस्मात्प्रभृति हि दशधा दशधा क्रमेण कलयित्वा ।

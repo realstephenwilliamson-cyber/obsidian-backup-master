@@ -35,6 +35,9 @@ yāvadante cidasmīti nirvṛttā bhairavātmatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 94)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.109]]
+
 *Lead-in:* ननु घटाद्यात्मना परिस्फुरतो धरादिवपुषो वस्तुसतो विश्वस्य साङ्कल्पिकमवस्तुभूतं निदर्शनं संगच्छतां कथम्? -- इत्याशङ्क्याह --
 
 > अस्या घनाहमित्यादिरूढिरेव धरादिता ।

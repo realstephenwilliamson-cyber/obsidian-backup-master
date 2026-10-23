@@ -34,5 +34,8 @@ dhatte nīlāmbudacchāyāṃ muhurjvalati śāmyati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 273)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.50–53]]
+
 Jayaratha comments on this verse together with 21.53: see [[Tantraloka 21.053#Viveka|21.53]].
 

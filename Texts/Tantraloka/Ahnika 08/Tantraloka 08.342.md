@@ -35,5 +35,10 @@ aliases:
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 332–335)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.341–343]]
+>
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.341–343 (continued)]]
+
 Jayaratha comments on this verse together with 8.343: see [[Tantraloka 08.343#Viveka|8.343]].
 

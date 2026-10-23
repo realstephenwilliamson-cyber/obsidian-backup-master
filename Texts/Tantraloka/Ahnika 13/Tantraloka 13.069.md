@@ -31,6 +31,9 @@ runddhe lakṣyaḥ sa kālaśca sukhaduḥkhādivarjanaiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 168–169)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.69]]
+
 *Lead-in:* ननु भवतु नामैवं कर्मसाम्यम्, का पुनरीश्वरस्य एतदपेक्षा? -- इत्याशङ्क्याह --
 
 > तं च कालांशकं देवः सर्वज्ञो वीक्ष्य तं मलम् ।

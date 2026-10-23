@@ -34,6 +34,11 @@ tataḥ prāksthāpitānyastamantrasaṃskṛtavahninā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 267–273)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.432–436]]
+>
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.436–441]]
+
 *Lead-in:* एवमेतत् प्रसङ्गादभिधाय चरुसंसिद्धिं वक्तुमाह--
 
 Jayaratha comments on this verse together with 15.435: see [[Tantraloka 15.435#Viveka|15.435]].

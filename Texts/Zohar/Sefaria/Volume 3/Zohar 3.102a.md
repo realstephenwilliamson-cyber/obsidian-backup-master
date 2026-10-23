@@ -39,6 +39,6 @@ Pritzker translation (Matt): [[Zohar 8.04 - Parashat Emor#^z3-102a|Parashat Emor
 
 **Emor 40:252** R. Judah said: ‘When he went in and closed his eyes so as not to see what he had no right to see, and heard the voice of the Cherubim chanting praises, he knew that all was in joy and that he would come out in peace, and another sign was if his words came forth joyfully, so as to be accepted and blessed.’ ^emor-40-252
 
-[^1]: v. T. B. Yoma, 53b.
+[^1]: v. T. B. [[Yoma 53#53b|Yoma, 53b]].
 [^2]: Al. “to illumine the lower Mother”.
-[^3]: v. T. B. Yoma, 39a.
+[^3]: v. T. B. [[Yoma 39#39a|Yoma, 39a]].

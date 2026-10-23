@@ -31,6 +31,9 @@ antaryāgaḥ saṃskriyāyai hyanyathārcayitā paśuḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 226)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.367–368]]
+
 *Lead-in:* ननु अन्तश्चेत् यागः कृतः, तत् किं बाह्येन?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 15.368: see [[Tantraloka 15.368#Viveka|15.368]].

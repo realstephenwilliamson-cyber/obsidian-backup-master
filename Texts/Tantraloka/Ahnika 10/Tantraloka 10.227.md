@@ -33,6 +33,11 @@ atraivādhvani vedyatvaṃ prāpte yā saṃvidudbhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 436–439)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.226–227]]
+>
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.227–228]]
+
 *Lead-in:* इदानीं तत्त्वविध्यनुषक्ततयानुजोद्देशोद्दिष्टं जाग्रदादि निरूपयति --
 
 > अत्रैवाध्वनि वेद्यत्वं प्राप्ते या संविदुद्भवेत् ॥

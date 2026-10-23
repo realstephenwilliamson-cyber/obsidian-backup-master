@@ -31,6 +31,9 @@ aliases:
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 231)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.10–11]]
+
 *Lead-in:* किञ्च अत्र प्रमाणम्?--इत्याशङ्क्य आह--
 
 > श्रीमदानन्दशास्त्रादौ प्रोक्तं च परमेशिना ।

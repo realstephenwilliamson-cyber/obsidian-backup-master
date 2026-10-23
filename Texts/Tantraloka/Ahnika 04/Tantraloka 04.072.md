@@ -36,6 +36,11 @@ yo yathākramayogena kasṃmiścicchāstravastuni || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 88–90)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.70–72]]
+>
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.72–73]]
+
 > यो यथाक्रमयोगेन कस्ंमिश्चिच्छास्त्रवस्तुनि ॥
 > आकस्मिकं व्रजेद्बोधं कल्पिताकल्पितो हि सः ।
 

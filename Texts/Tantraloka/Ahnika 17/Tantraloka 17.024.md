@@ -36,6 +36,11 @@ nutiḥ pūrṇatvamagnīndusaṅghaṭṭāpyāyatā param || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 152–153)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.22–24]]
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.24–25]]
+
 *Lead-in:* ननु नमस्कारादेः सर्वस्यैव दीपकस्य किं पूर्णतादायित्वमुत न?-- इत्याशङ्क्याह--
 
 > नुतिः पूर्णत्वमग्नीन्दुसङ्घट्टाप्यायता परम् ॥

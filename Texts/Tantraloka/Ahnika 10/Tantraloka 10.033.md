@@ -33,6 +33,11 @@ jñānasyārthaprakāśatvaṃ nanu rūpaṃ pradīpavat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 314–315)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.31–33]]
+>
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.33]]
+
 *Lead-in:* ननु प्रदीपस्येव ज्ञानस्यार्थप्रकाशकत्वमेव रूपं तत्कस्येदं चोद्यम् "अर्थप्रकाशात्मके ज्ञाने सत्यपि नार्थः प्रकाशते"इति, अपर्यनुयोज्यो हि भावानां स्वभावः । तदाह --
 
 > ज्ञानस्यार्थप्रकाशत्वं ननु रूपं प्रदीपवत् ॥

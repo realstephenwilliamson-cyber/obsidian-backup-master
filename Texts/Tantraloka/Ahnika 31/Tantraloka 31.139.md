@@ -31,6 +31,9 @@ netraṃ saumyagataṃ lopyaṃ pūrvādvedānalau rasāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 123)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.138–139]]
+
 > नाडयो ब्रह्मवंशस्य लोप्या नेत्राद्रसस्थिताः ॥
 > वह्नेर्नेत्रानलौ लोप्यौ वेदान्नेत्रयुगं रसात् ।
 > नेत्रं सौम्यगतं लोप्यं पूर्वाद्वेदानलौ रसात् ॥

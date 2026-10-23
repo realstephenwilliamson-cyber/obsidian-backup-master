@@ -33,6 +33,11 @@ atra vīryaṃ puraivoktaṃ sarvatrānusaredguruḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 63–64)
+> ![[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#Viveka on 30.120–121]]
+>
+> ![[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#Viveka on 30.121–123]]
+
 *Lead-in:* ननु इह मन्त्राणां स्वरूपं दर्शितम्, वीर्यं पुनः कस्मात् न उक्तम्?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 30.120: see [[Tantraloka 30.120#Viveka|30.120]].

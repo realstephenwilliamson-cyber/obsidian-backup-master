@@ -33,6 +33,11 @@ māyāgarbhāgnivarṇaughayukte tryaśriṇi maṇḍale || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 394–395)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.254–255]]
+>
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.255–256]]
+
 *Lead-in:* एतदेव क्रमेण लक्षयति--
 
 Jayaratha comments on this verse together with 29.254: see [[Tantraloka 29.254#Viveka|29.254]].

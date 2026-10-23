@@ -33,5 +33,10 @@ na maṇḍalādikaṃ tvatra bhavet śmāśānike vidhau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 348)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 24.11–12.*
+>
+> ![[Tantraloka Dyczkowski v09 15 - Chapter Twenty-Four#Viveka on 24.11–12]]
+
 Jayaratha comments on this verse together with 24.12: see [[Tantraloka 24.012#Viveka|24.12]].
 

@@ -37,6 +37,11 @@ iti bhairavaśabdasya saṃtatoccāraṇācchivaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 184–186)
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.135–136]]
+>
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.136]]
+
 *Lead-in:* ननु यदि नामैवमुच्चारणाद्भवेत् तदस्तु, स्मरणात् पुनरेतत् कथम्? इत्याशङ्क्याह --
 
 > श्रीमत्त्रैशिरसेऽप्युक्तं मन्त्रोद्धारस्य पूर्वतः ॥

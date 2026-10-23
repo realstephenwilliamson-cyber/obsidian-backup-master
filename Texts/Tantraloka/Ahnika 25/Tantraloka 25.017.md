@@ -31,6 +31,9 @@ pratyeti vaidike bhagnaghaṇṭāvanna sa kiñcana || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 363–364)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.16–18]]
+
 *Lead-in:* एवमपि अत्र साधकं बाधकं च प्रमाणं दर्शयितुमाह--
 
 Jayaratha comments on this verse together with 25.18: see [[Tantraloka 25.018#Viveka|25.18]].

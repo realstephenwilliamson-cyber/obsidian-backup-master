@@ -34,6 +34,9 @@ anye vadanti dīkṣādau sukhasaṃgrahaṇārthataḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 3)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.6]]
+
 *Lead-in:* अत्र चान्येषां मतान्तरमप्यस्ति -- इत्याह --
 
 > अन्ये वदन्ति दीक्षादौ सुखसंग्रहणार्थतः ।

@@ -33,6 +33,11 @@ itthaṃ śrīpūrvaśāstre me sampradāyaṃ nyarūpayat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 148)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.244–245]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.245–246]]
+
 *Lead-in:* न च एतत् स्वोपज्ञमेव अस्माभिरुक्तम्--इत्याह--
 
 Jayaratha comments on this verse together with 15.244: see [[Tantraloka 15.244#Viveka|15.244]].

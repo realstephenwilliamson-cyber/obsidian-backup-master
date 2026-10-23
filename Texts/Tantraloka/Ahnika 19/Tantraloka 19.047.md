@@ -37,6 +37,11 @@ tacchrutvā ko'pi dhanyaścenmucyate nāsya sā kṣatiḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 226–227)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.46–47]]
+>
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.47–48]]
+
 *Lead-in:* ननु एवमेतन्निर्विषयं वाक्यं स्यात् ?--इत्याशङ्क्याह--
 
 > शास्त्रनिन्दां मैष कार्षीद् द्वयोः पातित्यदायिनीम् ॥

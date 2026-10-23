@@ -35,6 +35,9 @@ anirbhakta iti proktaṃ sājātyaparidarśakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 198–200)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.174]]
+
 > वस्तुपिण्ड इति प्रोक्तं शिवशक्तिसमूहभाक् ।
 > अण्डः स्यादिति तद्व्यक्तौ संमुखीभाव उच्यते ॥
 > तथापि शिवमग्नानां शक्तीनामण्डता भवेत् ।

@@ -31,6 +31,9 @@ tasmādvikalparahitaḥ saṃvṛtyuparato yadi |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 190–191)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.413–414]]
+
 *Lead-in:* एवं च यद्ययं निर्विकल्पत्वादेव न संवृतिपरस्तदा अतत्त्वविद्भिः सह समाचारमेव न कुर्यात् । अथ कुर्यात्, प्रायश्चित्तमप्याचरेत्-- इत्याह--
 
 Jayaratha comments on this verse together with 28.414: see [[Tantraloka 28.414#Viveka|28.414]].

@@ -35,6 +35,9 @@ saṃvitprakāśaṃ māheśamata eva hyapekṣate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 224–225)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.119]]
+
 *Lead-in:* एवमुपहितसर्वरूपत्वादेव सूर्यादिप्रकाशः स्वप्रकाशने संवित्प्रकाशमपेक्षते -- इत्याह --
 
 > सूर्यादिषु प्रकाशोऽसावुपाधिकलुषीकृतः ।

@@ -35,6 +35,9 @@ abhyeti bhairavībhāvaṃ jīvanmuktyaparābhidham || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 395)
+> ![[Tantraloka Dyczkowski v02 12 - Chapter Three, part 9#Viveka on 3.271]]
+
 *Lead-in:* तदेवं त्रिविधमपि शांभवोपायमुपासन्नो महात्मा जीवन्नेव मुक्तिमासादयेत् -- इत्याह --
 
 > भूयोभूयः समावेशं निर्विकल्पमिमं श्रितः ।

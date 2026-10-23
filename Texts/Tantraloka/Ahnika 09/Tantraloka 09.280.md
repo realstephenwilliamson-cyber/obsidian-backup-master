@@ -33,6 +33,11 @@ pṛthivyāṃ saurabhānyādivicitre gandhamaṇḍale || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 260–262)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.280]]
+>
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.280–281]]
+
 *Lead-in:* ननु बुद्धिकर्मेन्द्रियवर्गद्वयवत् तन्मात्रोऽपि वर्गः सात्त्विकादेवाहङ्कारात् कथं नोदियात् ? इत्याशङ्क्याह --
 
 > अत्राविवादः सर्वस्य ग्राह्योपक्रम एव हि ।

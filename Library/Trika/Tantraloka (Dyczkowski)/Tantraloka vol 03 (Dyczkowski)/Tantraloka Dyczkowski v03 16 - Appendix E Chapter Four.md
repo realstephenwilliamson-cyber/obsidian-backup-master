@@ -54,7 +54,7 @@ The description of the thirteen Kālīs is found in chapter five. The context te
 
 The Krama teachings concerning the Thirteen Kālīs came to be the focus of a branch of the developing Kālīkula, called the Tradition (krama) or Family (kula) of the Goddess of the Sun (bhānvī). We are told below in a reference quoted by Jayaratha’ that the ‘venerable author’ of the Kramastotra belonged to the Bhāskarakula, which is a homonym. It clear that the form of the Krama the author of the Kramastotra focuses on is centred on the Twelve Kālīs, as is that of the Bhāskara- / Bhānavī -kula. This is the focus of Abhinava’s Krama teachings. although he never refers to it in this way. It may well be that its development at the scriptural level was taking place around the same time or soon after, as Abhinava himself does not refer to the sources where this features. 
 
-Abhinava presents an exposition of the Twelve Kālīs in Chapter Four. The brevity of his presentation is compensated by Jayaratha, who writes an extensive commentary on this important topic. Jayaratha is very troubled throughout his commentary by the evident discrepancy he observes in the sequence of the Kālīs in Abhinava’s presentation and these and other sources. He is obsessed by this problem, returning to it repeatedly in the course of his commentary on the Twelve Kālīs. Jayaratha admits that all the Krama sources basically agree on the number and sequence of the Kālīs. This is in fact true, although they do not say what Jayaratha reports them as saying. Thus, we may safely assume that the original sequence in the Kramastotra is the one we find in the Jayadrathayāãmala, which is the earliest source to which we have access, and the Devīdvayardhaśatika that follows after it, both of which are quoted by Jayaratha.® However, Jayaratha supplies only the verses from the Kramastotra and the DP that refer to twelve Kālīs, omitting Sukālī, as Abhinava does. When the occasion arises to refer to Sukālī, Jayaratha only quotes the DP. This may suggest that she was missing in the Kramastotra also, but this may not be so. Sanderson (2007: 297) considers the Kramastotra by Erakanātha to be dedicated to thirteen Kālīs, and refers to Jayaratha's mention of Sukālī as being with reference to the verse he does not quote from the Kramastotra. However, the Cidgaganacandrika (224-250) by Śrīvatsa describes twelve Kālīs, building on the verses dedicated to them in the Kramastotra. The corresponding verses in the CGC are in my notes to Jayaratha’s commentary, to which the reader is referred. 
+Abhinava presents an exposition of the Twelve Kālīs in Chapter Four. The brevity of his presentation is compensated by Jayaratha, who writes an extensive commentary on this important topic. Jayaratha is very troubled throughout his commentary by the evident discrepancy he observes in the sequence of the Kālīs in Abhinava’s presentation and these and other sources. He is obsessed by this problem, returning to it repeatedly in the course of his commentary on the Twelve Kālīs. Jayaratha admits that all the Krama sources basically agree on the number and sequence of the Kālīs. This is in fact true, although they do not say what Jayaratha reports them as saying. Thus, we may safely assume that the original sequence in the Kramastotra is the one we find in the Jayadrathayāmala, which is the earliest source to which we have access, and the Devīdvayardhaśatika that follows after it, both of which are quoted by Jayaratha. However, Jayaratha supplies only the verses from the Kramastotra and the DP that refer to twelve Kālīs, omitting Sukālī, as Abhinava does. When the occasion arises to refer to Sukālī, Jayaratha only quotes the DP. This may suggest that she was missing in the Kramastotra also, but this may not be so. Sanderson (2007: 297) considers the Kramastotra by Erakanātha to be dedicated to thirteen Kālīs, and refers to Jayaratha's mention of Sukālī as being with reference to the verse he does not quote from the Kramastotra. However, the Cidgaganacandrika (224-250) by Śrīvatsa describes twelve Kālīs, building on the verses dedicated to them in the Kramastotra. The corresponding verses in the CGC are in my notes to Jayaratha’s commentary, to which the reader is referred. 
 
 1140?\. See the Appendix D, above.
 
@@ -71,21 +71,21 @@ Below I have restored the sequence in which the Kālīs are worshipped. This is 
 
 Withdrawal of Emanation 
 
-1\) (1) Srṣtikālī (withdrawal of the emanation of emanation) 
+1\) (1) Sṛṣtikālī (withdrawal of the emanation of emanation) 
 
-kaulārṇavānandaghanormirūpām unmeṣameṣobhayabhājam antah |
-nilīyate nīlakulālaye (>līnakulālaye) yā tām srṣṭikālīṁ satata namāmi || 
+kaulārṇavānandaghanormirūpām unmeṣameṣobhayabhājam antaḥ |
+nilīyate nīlakulālaye (>līnakulālaye) yā tām sṛṣṭikālīṁ satata namāmi || 
 
-I constantly worship Srṣtikālī, Who is the wave \[illegible\] of dense (uninterrupted) bliss of the Ocean of Energy (kaulārṇava), and contains inwardly (within Herself) both the unfolding (of the universe when She opens Her eyes) (unmeṣa) and (its) withdrawal (when She closes them) (meṣa) - She Who merges (and, at rest, dissolves away) into the Abode of Energy that has 
+I constantly worship Sṛṣtikālī, Who is the wave \[illegible\] of dense (uninterrupted) bliss of the Ocean of Energy (kaulārṇava), and contains inwardly (within Herself) both the unfolding (of the universe when She opens Her eyes) (unmeṣa) and (its) withdrawal (when She closes them) (meṣa) - She Who merges (and, at rest, dissolves away) into the Abode of Energy that has 
 
 merged (into Śiva).” 
 
 2\) (3) Sthitināśakālī (withdrawal of the emanation of persistence) 
 
-vājidvayasvīkrtavātacakraprakrāntasaṁghattagamāgamasthām |
-sucir yayāstaṁ gamito ʻarciṣã tām śāntāṁ namāmi sthitināśakālīm || 
+vājidvayasvīkṛtavātacakraprakrāntasaṁghattagamāgamasthām |
+sucir yayāstaṁ gamito ʻarciṣā tām śāntāṁ namāmi sthitināśakālīm || 
 
-I bow to Sthitināśakālī (the Kālī of the Destruction of Persistence) Who, tranquil, abides in the dynamic union (saṁghaṭta) of the going and coming (of the exhalation and inhalation) of the wheels of the wind (of the vital channels of the breath of the chariot of the body), that has yoked (svīkrta) the two horses (of 
+I bow to Sthitināśakālī (the Kālī of the Destruction of Persistence) Who, tranquil, abides in the dynamic union (saṁghaṭta) of the going and coming (of the exhalation and inhalation) of the wheels of the wind (of the vital channels of the breath of the chariot of the body), that has yoked (svīkṛta) the two horses (of 
 
 1143?\. TĀv ad 4/148. CGC 221-224 is a commentary on this verse. The CGC is part of the explanatory notes to the translation to which the reader is referred.
 
@@ -105,8 +105,8 @@ I bow to blissful Saṁhārakālī Who, endless and containing all things, is th
 
 4\) (2) Raktakālī (withdrawal of the emanation of the Inexplicable) 
 
-mahāvinodārpitamātrcakravīrendrakāsrgrasapānasaktām |
-raktīkrtām ca pralayātyaye tā namāmi viśvākrtiraktakālīm | 
+mahāvinodārpitamātṛcakravīrendrakāsṛgrasapānasaktām |
+raktīkṛtām ca pralayātyaye tā namāmi viśvākṛtiraktakālīm | 
 
 I bow to Raktakālī (the Red Kālī), Whose form is all things, She Who is reddened (with passion) when the (period of cosmic) dissolution ends (and creation begins), She Who is attached to drinking the essence (rasa) of the blood of the most excellent Heroes who offer it with great delight to the Circle of the 
 
@@ -123,10 +123,10 @@ the universe (jagato yamāya)."
 
 (5) Sukālī? 
 
-6\) (7) Mrtyukālī (withdrawal of the persistence of perstence) 
+6\) (7) Mṛtyukālī (withdrawal of the persistence of perstence) 
 
-mamety ahaṁkārakalākalāpavisphāraharṣoddhatagarvamrtyuh |
-grasto yayā ghasmarasarhvidarh tā namāmy akāloditamrtyukālīm || 
+mamety ahaṁkārakalākalāpavisphāraharṣoddhatagarvamṛtyuḥ |
+grasto yayā ghasmarasaṁvidaṁ tā namāmy akāloditamṛtyukālīm || 
 
 1144?\. TĀv ad 4/150abc; CGC 225-226.
 
@@ -141,7 +141,7 @@ grasto yayā ghasmarasarhvidarh tā namāmy akāloditamrtyukālīm ||
 
 *[p. 469]* ^pg482
 
-I bow to Mrtyukālī, Who has arisen from timeless (eternity) — (She Who is) the voracious consciousness that has consumed (grasta) the death of pride haughty with the ecstasy of the expansion (visphāra) of the host of energies of the ego (that reflects that “this is) mine. 
+I bow to Mṛtyukālī, Who has arisen from timeless (eternity) — (She Who is) the voracious consciousness that has consumed (grasta) the death of pride haughty with the ecstasy of the expansion (visphāra) of the host of energies of the ego (that reflects that “this is) mine. 
 
 7\) (8) Bhadra / Rudrakālī (withdrawal of the persistence of withdrawal) 
 
@@ -162,11 +162,11 @@ I bow to that endless Paramārkakālī, (otherwise called) Bhargaśikhā (the Su
 mārtandam āpītapataṁgacakraṁ \[illegible\] \[illegible\] kālakalendhanāya |
 karoti yā viśvarasāntakāṁ tām mārtandakālīi satata praṇaumi || 
 
-I bow constantly to Mārtaṇdakālī, Who (consumes) to the end the (aesthetic) essence (rasa) of all things, She Who generates the Sun (mārtanda) that has drunk up the Wheel of the Sun (pataṁga) to serve, like a moth (pataṁga), as fuel for the energy of (the Fire of) Time.'® 
+I bow constantly to Mārtaṇdakālī, Who (consumes) to the end the (aesthetic) essence (rasa) of all things, She Who generates the Sun (mārtanda) that has drunk up the Wheel of the Sun (pataṁga) to serve, like a moth (pataṁga), as fuel for the energy of (the Fire of) Time.' 
 
 10\) (11) Kālāgnirudrakālī (withdrawal of the withdrawal of persistence) 
 
-kālakramākrāntadineśacakrakrodīkrtāntāgnikalāpa ugrah |
+kālakramākrāntadineśacakrakrodīkṛtāntāgnikalāpa ugraḥ |
 kālāgnirudro layam eti yasyāṁ tā naumi kālānalarudrakālīm || 
 
 I bow to Kālāgnirudrakālī, within Whom the Rudra of the Fire of Time dissolves away, the fierce one Who is the aggregate (kalāpa) of (the energies) of 
@@ -202,7 +202,7 @@ I praise Kālī Who, by Night in the cremation ground, where the great elements 
 kramatrayatvāṣṭtramarīcicakrasañcāracāturyaturīyasattām |
 vande mahābhairavaghoracandakālīri kalākāśaśaśāṁkakāntim || 
 
-I praise Mahābhairavaghoracaṇdakālī, She Who is beautiful with the Moon (that shines) in the Void of Energy (kalākāśa), the essential being of the Fourth state which is the skilful power (cãāturya) to set in motion the wheel of the rays of the architect (rvāṣṭtra) of the three processes (of emanation, persistence and withdrawal).' 
+I praise Mahābhairavaghoracaṇdakālī, She Who is beautiful with the Moon (that shines) in the Void of Energy (kalākāśa), the essential being of the Fourth state which is the skilful power (cāturya) to set in motion the wheel of the rays of the architect (rvāṣṭtra) of the three processes (of emanation, persistence and withdrawal).' 
 
 1153?\. This is another verse concerning Kālāgnirudra, that follows on from the one quoted in TĀv ad 4/168, quoted ad 4/173ab CGC 243-246.
 

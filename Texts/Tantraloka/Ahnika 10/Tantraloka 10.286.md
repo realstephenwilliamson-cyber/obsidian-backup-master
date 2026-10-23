@@ -31,6 +31,9 @@ sarvātītaḥ śivo jñeyo yaṃ viditvā vimucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 477–478)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.284–286]]
+
 > ...............पदस्थमपरं विदुः ॥
 > मन्त्रास्तत्पतयः सेशा रूपस्थमिति कीर्त्यते ।
 > रूपातीतं परा शक्तिः सव्यापाराप्यनामया ॥

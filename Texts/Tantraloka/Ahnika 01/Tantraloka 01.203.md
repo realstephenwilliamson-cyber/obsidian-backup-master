@@ -34,5 +34,8 @@ kāṣṭhā saiva parā sūkṣmā sarvadikkāmṛtātmikā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 382–383)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.202–204]]
+
 Jayaratha comments on this verse together with 1.204: see [[Tantraloka 01.204#Viveka|1.204]].
 

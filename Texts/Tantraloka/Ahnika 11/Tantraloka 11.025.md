@@ -36,6 +36,11 @@ cidānandasvatantraikarūpaṃ taditi deśane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 17–18)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.25]]
+>
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.25–26]]
+
 *Lead-in:* नन्वेवमस्य किं विश्वविविक्ततैव रूपमुतान्यत्किञ्चित्तदतिरिक्तम् ? -- तदाह --
 
 > तत्किं न किञ्चिद्वा किञ्चिदित्याकाङ्क्षावशे वपुः ।

@@ -31,6 +31,9 @@ te tadīśasamīpatvaṃ yānti svaucityayogataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 114–115)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.261–264]]
+
 *Lead-in:* नन्वेवं ये न ज्ञानिनः, नापि पशवः, तेषां का वार्त्ता?-- इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 28.263: see [[Tantraloka 28.263#Viveka|28.263]].

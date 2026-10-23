@@ -31,6 +31,9 @@ taccedāvāritaṃ hanta rūpanāśaḥ prasajyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 164)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.63]]
+
 *Lead-in:* ननु न किञ्चिदप्यात्मनां मलः कुर्यात् किन्तु तत्समवेतं ज्ञत्वकर्त्तृत्वाद्यावृणुयाद् येनैषां बद्धत्वमुच्यते? -- इत्याशङ्क्याह --
 
 > ज्ञत्वकर्तृत्वमात्रं च पुद्गला न तदाश्रयाः ।

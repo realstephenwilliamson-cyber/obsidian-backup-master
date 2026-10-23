@@ -31,5 +31,8 @@ ahaṃmamātmatātaṅko māyāśaktirathāvṛtiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 85)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.84–86]]
+
 Jayaratha comments on this verse together with 9.86: see [[Tantraloka 09.086#Viveka|9.86]].
 

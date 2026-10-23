@@ -34,6 +34,9 @@ anusaṃhitaye śiṣyavarjaṃ pañcasu taṃ yajet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 41–42)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.87–88]]
+
 > भिन्नकार्याकृतिव्रातेन्द्रियचक्रानुसन्धिमान् ।
 > एको यथाहं वह्न्यादिषड्रूपोऽस्मि तथा स्फुटम् ॥
 > एवमालोच्य येनैषोऽध्वना दीक्षां चिकीर्षति ।

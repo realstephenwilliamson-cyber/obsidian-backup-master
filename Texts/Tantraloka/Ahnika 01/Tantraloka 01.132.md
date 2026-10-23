@@ -35,6 +35,9 @@ sa bhoktṛprabhuśabdābhyāṃ yājyayaṣṭṭatayoditaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 298)
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.132]]
+
 *Lead-in:* ननु भगवद्वासुदेवेन उक्तस्य "माम्"इति अस्मच्छब्दस्य तदेकवाचकत्वात् कथं बोधमात्राभिधायकत्वमुच्यते ? इत्याशङ्क्याह --
 
 > सर्वत्रात्र ह्यहंशब्दो बोधमात्रैकवाचकः ।

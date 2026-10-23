@@ -33,6 +33,11 @@ apradhvaste'pi saṅkoce nāhaṃ karteti bhāvanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 98–99)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.104–105]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.105–106]]
+
 *Lead-in:* ननु कर्मसंस्कारश्चेदुच्छिन्नस्तावता कर्मणः किं वृत्तं यदस्य तत्फलभागित्वं न स्यात् ? -- इत्याशङ्क्याह -
 
 > अप्रध्वस्तेऽपि सङ्कोचे नाहं कर्तेति भावनात् ॥

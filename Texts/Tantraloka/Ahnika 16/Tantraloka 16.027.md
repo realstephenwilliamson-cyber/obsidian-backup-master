@@ -34,6 +34,9 @@ yā śivādvayatādṛṣṭiḥ sā śuddhiḥ paramīkṛtiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 13)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.26–27]]
+
 > यच्छिवाद्वयपीयूषसंसिक्तं परमं हि तत् ॥
 > तेनार्घपुष्पगन्धादेरासवस्य पशोरथ ।
 > या शिवाद्वयतादृष्टिः सा शुद्धिः परमीकृतिः ॥

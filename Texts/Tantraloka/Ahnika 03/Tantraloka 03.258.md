@@ -34,6 +34,9 @@ sṛṣṭau sthitau ca saṃhāre tadupādhitrayātyaye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 379–381)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.257–259]]
+
 > ता एव निर्मलाः शुद्धा अघोराः परिकीर्तिताः ॥
 > घोरघोरतराणां तु सोतृत्वाच्च तदात्मिकाः ।
 > सृष्टौ स्थितौ च संहारे तदुपाधित्रयात्यये ॥

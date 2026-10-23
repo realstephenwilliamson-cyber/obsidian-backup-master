@@ -31,5 +31,8 @@ kṛtvārcanamardhaniśi dhyātvā japtvā bahirgatasya yathā |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 32–33)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.53–56]]
+
 Jayaratha comments on this verse together with 28.55: see [[Tantraloka 28.055#Viveka|28.55]].
 

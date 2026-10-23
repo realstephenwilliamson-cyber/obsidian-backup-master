@@ -34,6 +34,9 @@ na caitadaprasannena śaṅkareṇeti vākyataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 416–417)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.243–245]]
+
 > तत्स्वप्रकाशं विज्ञानं विद्याविद्येश्वरादिभिः ।
 > अपि दुर्लभसद्भावं श्रीसिद्धातन्त्र उच्यते ॥
 > मालिन्यां सूचितं चैतत्पटलेऽष्टादशे स्फुटम् ।

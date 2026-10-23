@@ -33,5 +33,12 @@ khamarudvahnijalabhūkhāni vaktrāṇyamuṣya hi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 127–129)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 15.208.*
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.204–206]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.208]]
+
 Jayaratha comments on this verse together with 15.205: see [[Tantraloka 15.205#Viveka|15.205]].
 

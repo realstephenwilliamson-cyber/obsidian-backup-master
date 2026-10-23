@@ -31,6 +31,9 @@ kurvanvyāsasamāsābhyāṃ dharādestatphalaṃ bhajet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 49–50)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.64]]
+
 *Lead-in:* न केवलमेतत् स्नानादेव एवं भवेत्, यावदेतदर्चातोऽपि--इत्याह--
 
 > अनेन विधिनार्चायां कन्दाधारादियोजनाम् ।

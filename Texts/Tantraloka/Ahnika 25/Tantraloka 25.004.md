@@ -33,6 +33,11 @@ tato naivedyameva prāggṛhītvā hastagocare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 356–358)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.2–4]]
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.4–6]]
+
 *Lead-in:* अशुद्धानामिति--अन्त्येष्ट्यैव, न तु दीक्षादिना । तत्स्वैरिति--तस्य आत्मीयैः शिष्यपुत्रादिभिभिः--इत्यर्थः । स इति--श्राद्धविधिः ॥ अत्रैव विधिविशेषमाह--
 
 Jayaratha comments on this verse together with 25.3: see [[Tantraloka 25.003#Viveka|25.3]].

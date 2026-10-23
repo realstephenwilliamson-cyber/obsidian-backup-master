@@ -31,6 +31,9 @@ sṛṣṭatvādaparaṃ tattvajālamāsanatāspadam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 191)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.318]]
+
 *Lead-in:* एतदेव अधिकावापेन उपसंहरति--
 
 > पूजकः परतत्त्वात्मा पूज्यं तत्त्वं परापरम् ।

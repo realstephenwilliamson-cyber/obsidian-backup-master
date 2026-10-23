@@ -36,6 +36,11 @@ dinarātrikṣaye muktiḥ sā vyāptidhyānayogataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 296–297)
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.73]]
+>
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.73–74]]
+
 *Lead-in:* इत्यादिदृशानुसन्धानभेदेन फलमपि भिद्यते -- इति कथमेवं नियम एव भवेत् ? -- इत्याशङ्क्याह --
 
 > क्रूरता सौम्यता वाभिसन्धेरपि निरूपिता ।

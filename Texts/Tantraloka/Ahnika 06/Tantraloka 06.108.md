@@ -35,6 +35,9 @@ mokṣabhāgdhyānapūjādi kurvaṃścandrārkayorgrahe || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 335)
+> ![[Tantraloka Dyczkowski v04 11 - Chapter Six, part 4#Viveka on 6.108]]
+
 *Lead-in:* पारलौकिकत्वे निमित्तमाह --
 
 > ग्रास्यग्रासकताक्षोभप्रक्षये क्षणमाविशन् ।

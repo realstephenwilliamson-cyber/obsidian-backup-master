@@ -37,6 +37,11 @@ kṣakārastryardhamātrātmā mātrikaḥ sa tathāntarā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 439–441)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.233–234]]
+>
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.234–236]]
+
 *Lead-in:* नन्वेतन्मध्ये क्षकारश्चेद् गण्यते तदा कियत्योऽर्धमात्रा अधिकीभवन्ति, तथात्वे वासां कथमुदयः ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 6.233: see [[Tantraloka 06.233#Viveka|6.233]].

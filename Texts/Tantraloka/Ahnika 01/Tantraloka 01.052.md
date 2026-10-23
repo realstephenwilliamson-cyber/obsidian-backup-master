@@ -34,6 +34,9 @@ nahyaprakāśarūpasya prākāśyaṃ vastutāpi vā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 175–177)
+> ![[Tantraloka Dyczkowski v01 06 - Chapter One, part 5#Viveka on 1.52]]
+
 *Lead-in:* ननु किं नाम ज्ञेयस्य तत्त्वं यत्प्रदर्श्यमानं शास्त्रप्राधान्यावगमकमपि स्यात् -- इत्याशङ्क्याह—
 
 > ज्ञेयस्य हि परं तत्त्वं यः प्रकाशात्मकः शिवः ।

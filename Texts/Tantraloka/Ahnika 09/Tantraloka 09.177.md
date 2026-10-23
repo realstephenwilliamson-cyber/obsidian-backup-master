@@ -31,6 +31,9 @@ sadyonirvāṇadīkṣotthapuṃviśleṣe hi sā satī |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 152–153)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.177]]
+
 *Lead-in:* एतदेव निदर्शनद्वारेणोपपादयति --
 
 > सद्योनिर्वाणदीक्षोत्थपुंविश्लेषे हि सा सती ।

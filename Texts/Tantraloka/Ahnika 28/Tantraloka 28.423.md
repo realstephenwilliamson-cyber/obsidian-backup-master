@@ -33,6 +33,11 @@ dīkṣābhiṣekanaimittavidhyante gurupūjanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 195–196)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.419–423]]
+>
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.423–425]]
+
 *Lead-in:* इदानीं श्रुतविध्यनन्तरोद्दिष्टं गुरुपूजाविधिमभिधातुमाह--
 
 Jayaratha comments on this verse together with 28.422: see [[Tantraloka 28.422#Viveka|28.422]].

@@ -35,6 +35,9 @@ yattatsāmanasaṃ rūpaṃ tatsāmyaṃ brahma viśvagam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 380–381)
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.166]]
+
 *Lead-in:* नन्वेवं समनाया अपि लयः कस्मान्नोच्यते -- इत्याशङ्क्याह --
 
 > स कालः साम्यसंज्ञः स्यान्नित्योऽकल्यः कलात्मकः ।

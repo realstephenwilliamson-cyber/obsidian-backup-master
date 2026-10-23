@@ -34,6 +34,9 @@ dvyātmakaṃ vā kṣipetpūrṇāṃ praśāntakaraṇena tu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 174)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.78–82]]
+
 > ततः प्रागुक्तसकलप्रमेयं परिचिन्तयन् ॥
 > शिष्यदेहादिमात्मीयदेहप्राणादियोजितम् ।
 > कृत्वात्मदेहप्राणादेर्विश्वमन्तरनुस्मरेत् ॥

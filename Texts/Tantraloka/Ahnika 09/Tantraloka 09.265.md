@@ -33,6 +33,11 @@ iha karmānusandhānabhedādekaṃ vibhidyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 248)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.264–265]]
+>
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.265–266]]
+
 *Lead-in:* तदाह -
 
 > इह कर्मानुसन्धानभेदादेकं विभिद्यते ॥

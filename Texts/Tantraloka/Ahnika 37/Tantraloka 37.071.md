@@ -36,6 +36,9 @@ mājñāvaśena śubhasūtimahāṅkureṇa || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 261)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.71]]
+
 *Lead-in:* सोऽनुग्रहप्रवण एव हि सद्गुरूणा-
 
 Jayaratha comments on this verse together with 37.70: see [[Tantraloka 37.070#Viveka|37.70]].

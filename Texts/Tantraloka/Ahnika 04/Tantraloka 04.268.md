@@ -36,6 +36,11 @@ tādātmyapratipattyai hi svaṃ saṃtānaṃ samāśrayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 374–376)
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.267–268]]
+>
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.268–269]]
+
 *Lead-in:* ननु गुरुसंतानादेरेवमुपदेशे किं प्रयोजनम् ? -- इत्याशङ्क्याह --
 
 > तादात्म्यप्रतिपत्त्यै हि स्वं संतानं समाश्रयेत् ॥

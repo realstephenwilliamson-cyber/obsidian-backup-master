@@ -405,7 +405,20 @@ def lines_pymupdf(page, font_ok=None, bad_langs=None, doc=None, pno=None, bad_fo
             if sp and ''.join(x['text'] for x in sp).strip():
                 txt = ''.join(x['text'] for x in sp)
                 heb = len(HEB.findall(txt)); lat = len(re.findall(r'[A-Za-z]', txt))
-                if heb > 0.5 * (heb + lat) and len(sp) > 1:
+                if heb > 0.5 * (heb + lat) and len(sp) > 1 and OPTS.get('bidi_runs'):
+                    # (22 Oct 2026, Berman) reorder by script runs: Hebrew runs read right to left, Latin runs keep their order;
+                    # a line that opens with a note number and Latin text keeps a left-to-right base (a note quoting Hebrew)
+                    runs = []
+                    for x in sp:
+                        hx = bool(HEB.search(x['text'])); lx = bool(re.search(r'[A-Za-z0-9]', x['text']))
+                        kind = 'h' if hx else ('l' if lx else None)
+                        if runs and (kind is None or kind == runs[-1][0]): runs[-1][1].append(x)
+                        else: runs.append([kind or 'l', [x]])
+                    ltr = bool(re.match(r'\s*\d{1,3}\s', sp[0]['text'] + (sp[1]['text'] if len(sp) > 1 else ''))) and runs[0][0] == 'l'
+                    order = runs if ltr else runs[::-1]
+                    sp = [x for k_, xs in order for x in (xs[::-1] if k_ == 'h' else xs)]
+                    for x in sp: x['text'] = x['text'].strip() + ' '
+                elif heb > 0.5 * (heb + lat) and len(sp) > 1:
                     sp = sp[::-1]
                     for x in sp: x['text'] = x['text'].strip() + ' '
                 if OPTS.get('drop_nums') and re.fullmatch(r'\s*\d{1,3}\s*', ''.join(x['text'] for x in sp)) and sp[0]['size'] >= 16:
@@ -569,9 +582,14 @@ def legacy_fonts(doc, sample=60, langs=None):
     return out
 
 
+def _base(L):
+    """A line's baseline: the bottom of its full-size spans (a raised note letter does not lift the line; 22 Oct 2026, Davila's apparatus)."""
+    return max((s['bbox'][3] for s in L.spans if not s.get('sup') and s['text'].strip()), default=L.y1)
+
+
 def merge_same_line(lines):
     """PyMuPDF sometimes splits one printed line into several 'lines' (e.g. a superscript). Merge lines that overlap vertically and touch horizontally."""
-    lines.sort(key=lambda L: (round(L.y0), L.x0))
+    lines.sort(key=(lambda L: (round(_base(L)), L.x0)) if OPTS.get('baseline_sort') else (lambda L: (round(L.y0), L.x0)))
     out = []
     for L in lines:
         if out:
@@ -855,7 +873,7 @@ def _yq(v):
 def convert(job):
     global OCR_PREP
     OCR_PREP = job.get('ocr_prep')
-    OPTS.clear(); OPTS.update({k: job[k] for k in ('drop_nums', 'col_segments') if k in job})
+    OPTS.clear(); OPTS.update({k: job[k] for k in ('drop_nums', 'col_segments', 'baseline_sort', 'bidi_runs') if k in job})
     doc = fitz.open(job['pdf'])
     N = len(doc)
     route = job['route']
@@ -913,6 +931,10 @@ def convert(job):
                 la = ocr_page(doc, i, langs, dpi=job.get('dpi', 300), psm=3); lb = ocr_page(doc, i, langs, dpi=job.get('dpi', 300), psm=6)
                 _en = english(); _wc = lambda X: sum(1 for x in X for w in re.findall(r'[A-Za-z]{3,}', x.text) if w.lower() in _en)
                 ls = lb if (_wc(lb) > 1.02 * _wc(la) and not order_columns(la, W)[1]) else la
+            elif job.get('split_halves') and W > H * 1.15:
+                # a two-page spread: each half read on its own, so the gutter does not garble the lines beside it (22 Oct 2026, Graham)
+                ls = ocr_page(doc, i, langs, dpi=job.get('dpi', 300), clip=fitz.Rect(0, 0, W / 2, H), psm=job.get('psm', 3)) + \
+                     ocr_page(doc, i, langs, dpi=job.get('dpi', 300), clip=fitz.Rect(W / 2, 0, W, H), psm=job.get('psm', 3))
             else:
                 ls = ocr_page(doc, i, langs, dpi=job.get('dpi', 300), psm=job.get('psm', 3))
             if job.get('latin_fix'): ls = latin_fix(doc, i, ls, job['latin_fix'], dpi=job.get('dpi', 300), stats=stats_latin)
@@ -923,6 +945,7 @@ def convert(job):
                 if dl:
                     def ov(a, b): return min(a.y1, b.y1) - max(a.y0, b.y0) > 0.5 * min(a.y1 - a.y0, b.y1 - b.y0) and min(a.x1, b.x1) - max(a.x0, b.x0) > 0
                     ls = [L for L in ls if not any(ov(L, D) for D in dl)] + dl
+                    if job.get('san_sort'): ls = sorted(ls, key=lambda L: (round(L.y0), L.x0))   # one-column verse pages: Devanagari and transliteration lines in page order (22 Oct 2026, Durga Saptasati)
                     stats_fill[0] += 1
             ocr_conf += [s['conf'] for L in ls for s in L.spans if 'conf' in s]
         else:
@@ -1101,7 +1124,7 @@ def convert(job):
     for i, p in enumerate(pages):
         ls = [L for L in p['lines'] if L.kind != 'hf']
         if job.get('gutter_bands'): ls = order_gutter_bands(ls, p['W'], p['H']); twocol = False
-        elif job.get('ncols'): ls = order_ncols(ls, p['W'], job['ncols']); twocol = False
+        elif job.get('ncols') and (not job.get('ncols_landscape') or p['W'] > p['H'] * 1.15): ls = order_ncols(ls, p['W'], job['ncols']); twocol = False   # ncols_landscape: only the two-page spreads (22 Oct 2026)
         elif route == 'ocr' or not job.get('columns', True): twocol = False
         else: ls, twocol = order_columns(ls, p['W'])
         hebl = [L for L in ls if len(HEB.findall(L.text)) > 0.5 * max(1, len(re.findall(r'[A-Za-z\u0590-\u05FF]', L.text)))]
@@ -1189,7 +1212,7 @@ def convert(job):
             # several notes run on in one line, each opening with a raised number or letter (Lost Scriptures: "3Titus 3:1. 4Prov 7:3.")
             def is_lab(x, L):
                 return (x['sup'] or x['size'] < L.size * 0.85) and re.fullmatch(r'\d{1,3}|[a-z]', x['text'].strip() or '#')
-            for L in sorted(notes_ls, key=lambda L: (round(L.y0 / 3), L.x0)):
+            for L in sorted(notes_ls, key=(lambda L: (round(_base(L) / 3), L.x0)) if OPTS.get('baseline_sort') else (lambda L: (round(L.y0 / 3), L.x0))):
                 pieces = []
                 for x in L.spans:
                     if is_lab(x, L) or not pieces: pieces.append([x])

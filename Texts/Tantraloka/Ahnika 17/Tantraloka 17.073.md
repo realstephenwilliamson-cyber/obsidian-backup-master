@@ -34,6 +34,9 @@ samayaḥ śaktipātasya svabhāvo hyeṣa no pṛthak || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 170–171)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.73]]
+
 *Lead-in:* ननु निर्बीजदीक्षायां कथमिहाविशेषेणैव समयपाशदाह उक्तो यत्र तु गुरुदेवादौ भक्तिरपि समयत्वेनाम्नाता ?--इत्याशङ्क्याह--
 
 > गुरौ देवे तथा शास्त्रे भक्तिः कार्यास्य नह्यसौ ।

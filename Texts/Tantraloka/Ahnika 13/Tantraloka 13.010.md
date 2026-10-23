@@ -31,6 +31,9 @@ dharmādyadi kutaḥ so'pi karmataścettaducyatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 127–129)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.8–10]]
+
 > न भोगादन्यकर्मांशप्रसङ्गो हि दुरत्ययः ॥
 > युगपत्कर्मणां भोगो न च युक्तः क्रमेण हि ।
 > फलेद्यत्कर्म तत्कस्मात्स्वं रूपम् सन्त्यजेत् क्वचित् ॥

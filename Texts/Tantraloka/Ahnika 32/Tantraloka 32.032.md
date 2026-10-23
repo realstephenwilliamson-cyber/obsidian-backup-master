@@ -31,6 +31,9 @@ vāmo yo'yaṃ jagatyasmiṃstasya saṃharaṇodyatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 151–152)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.32–34]]
+
 *Lead-in:* इदानीं श्रीवीरावल्युक्तमपि अस्या विधिमाह--
 
 Jayaratha comments on this verse together with 32.41: see [[Tantraloka 32.041#Viveka|32.41]].

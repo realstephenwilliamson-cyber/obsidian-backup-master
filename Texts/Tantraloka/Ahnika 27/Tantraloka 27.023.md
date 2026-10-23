@@ -33,6 +33,11 @@ kāmya eva bhavettūramiti kecitprapedire || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 409)
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.22–23]]
+>
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.23]]
+
 > जालकैर्जर्जरै रन्ध्रैर्दन्तैरूनाधिकै रुजा ॥
 > युक्ते च तूरे हानिः स्यात् तद्धीने याग उत्तमः ।
 > काम्य एव भवेत्तूरमिति केचित्प्रपेदिरे ॥

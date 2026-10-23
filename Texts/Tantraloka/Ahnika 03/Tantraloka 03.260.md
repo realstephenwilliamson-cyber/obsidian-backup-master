@@ -37,6 +37,11 @@ praśamaśca dvidhā śāntyā haṭhapākakrameṇa tu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 381–388)
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.259–260]]
+>
+> ![[Tantraloka Dyczkowski v02 11 - Chapter Three, part 8#Viveka on 3.260]]
+
 *Lead-in:* प्रशमो हि द्विधा -- इत्याह --
 
 > प्रशमश्च द्विधा शान्त्या हठपाकक्रमेण तु ॥

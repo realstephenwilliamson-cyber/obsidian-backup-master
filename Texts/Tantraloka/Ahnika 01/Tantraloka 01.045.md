@@ -34,6 +34,9 @@ tena tatrāpi bauddhasya jñānasyāsti pradhānatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 162–163)
+> ![[Tantraloka Dyczkowski v01 05 - Chapter One, part 4#Viveka on 1.45]]
+
 *Lead-in:* न केवलमेतदेवास्य ततः प्राधान्यनिमित्तं यावदन्यदपि -- इत्याह—
 
 > दीक्षापि बौद्धविज्ञानपूर्वा सत्यं विमोचिका ।

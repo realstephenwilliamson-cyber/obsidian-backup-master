@@ -31,6 +31,9 @@ kulakrameṣṭirādeśyā pañcāvasthāsamanvitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 371)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.219–220]]
+
 > पृथक्तत्त्वविधौ दीक्षां योग्यतावशवर्तिनः । तत्त्वाभ्यासविधानेन सिद्धयोगी समाचरेत् ॥
 > इति संदीक्षितस्यास्य मुमुक्षोः शेषवर्तने ।
 > कुलक्रमेष्टिरादेश्या पञ्चावस्थासमन्विता ॥

@@ -34,5 +34,8 @@ karṇikākuṇḍalīmajjaparśuṃ mukhyataraṃ ca vā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 35)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.71–72]]
+
 Jayaratha comments on this verse together with 16.73: see [[Tantraloka 16.073#Viveka|16.73]].
 

@@ -34,6 +34,9 @@ sarvataścāpi nairmalyānna vibhādarśavatpṛthak || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 89–92)
+> ![[Tantraloka Dyczkowski v02 04 - Chapter Three, part 1#Viveka on 3.20]]
+
 *Lead-in:* ननूक्तयुक्त्या दर्पणात् दीपादीनामपि अविशिष्टमेव प्रतिबिम्बग्रहणसहिष्णुत्वम्, इति किमिति न तेऽपि स्वात्माभेदेन तद्भासयेयुः? इत्याशङ्क्याह --
 
 > दीपचक्षुर्विबोधानां काठिन्याभावतः परम् ।

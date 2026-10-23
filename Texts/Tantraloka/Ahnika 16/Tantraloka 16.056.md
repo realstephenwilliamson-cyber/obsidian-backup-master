@@ -36,6 +36,11 @@ ekopāyena deveśo viśvānugrahaṇātmakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 24–25)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.54–56]]
+>
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.56–57]]
+
 *Lead-in:* नन्वेवं शिवपूजनया पशुपुष्पादेश्चराचरस्यापि कस्मात्तल्लाभभागित्वं भवेत् ?--इत्याशङ्क्याह--
 
 > एकोपायेन देवेशो विश्वानुग्रहणात्मकः ॥

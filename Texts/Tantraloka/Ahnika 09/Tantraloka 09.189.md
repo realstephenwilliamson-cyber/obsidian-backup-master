@@ -33,6 +33,11 @@ seyaṃ kalā kāryabhedādanyaiva hyanumīyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 161–162)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.189]]
+>
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.189–190]]
+
 *Lead-in:* ननु अत्र शक्तिपातश्चेदविशिष्टः तत् विवेकत्रयात्मनि तत्कार्येऽयं कुतस्त्यो विशेषः -- इत्याशङ्क्याह --
 
 > मायागर्भाधिकारीयो द्वयोरन्त्ये तु निर्मलः ।

@@ -31,6 +31,9 @@ saṅkalparūpe bāhyasya tadadhiṣṭhātṛ bodhakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 443–444)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.234–235]]
+
 *Lead-in:* अधिष्ठात्रधिष्ठेयभावमेव विभज्य दर्शयति --
 
 Jayaratha comments on this verse together with 10.235: see [[Tantraloka 10.235#Viveka|10.235]].

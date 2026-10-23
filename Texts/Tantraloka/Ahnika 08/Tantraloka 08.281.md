@@ -35,6 +35,9 @@ dānaṃ ca siddhayo'ṣṭau siddheḥ pūrvo'ṅkuśastrividhaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 286–288)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.281]]
+
 > आध्यात्मिक्यश्चतस्रः प्रकृत्युपादानकालभाग्याख्याः ।
 > पञ्च विषयोपरमतोऽर्जनरक्षासङ्गसंक्षयविघातैः ॥
 > ऊहः शब्दोऽध्ययनं दुःखविघातास्त्रयः सुहृत्प्राप्तिः ।

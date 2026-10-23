@@ -33,6 +33,13 @@ ye'pi tattvāvatīrṇānāṃ śaṅkarājñānuvartinām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 105–108)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 28.245–248.*
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.236–237]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.245–248]]
+
 *Lead-in:* नन्वेवं देहान्तरानुत्पत्तौ दीक्षैव किं निमित्तमुत निमित्तान्तरमस्ति?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 28.236: see [[Tantraloka 28.236#Viveka|28.236]].

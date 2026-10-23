@@ -31,6 +31,9 @@ yasya deho yathā tasya tajjātīyaṃ puraṃ bahiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 141–142)
+> ![[Tantraloka Dyczkowski v06 06 - Chapter Nine, part 4#Viveka on 9.161–163]]
+
 > यत्सङ्कल्प्यं तथा तस्य बहिर्देहोऽस्ति चेतनः ॥
 > चैत्रवत्सौशिवान्तं तत् सर्वं तादृशदेहवत् ।
 > यस्य देहो यथा तस्य तज्जातीयं पुरं बहिः ॥

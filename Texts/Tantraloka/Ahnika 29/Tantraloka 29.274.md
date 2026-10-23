@@ -33,6 +33,11 @@ citte samarasībhūte dvayoraunmanasī sthitiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 403–404)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.273–274]]
+>
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.274–275]]
+
 *Lead-in:* ननु एवमपि किं स्यात् ?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 29.273: see [[Tantraloka 29.273#Viveka|29.273]].

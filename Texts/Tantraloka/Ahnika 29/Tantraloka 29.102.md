@@ -31,6 +31,9 @@ sākṣātparamparāyogāttattulyeti tridhā punaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 297–299)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.101–102]]
+
 > लौकिकालौकिकद्व्यात्मसङ्गात्तादात्म्यतोऽधिकात् ॥
 > कार्यहेतुसहोत्था सा त्रिधोक्ता शासने गुरोः ।
 > साक्षात्परम्परायोगात्तत्तुल्येति त्रिधा पुनः ॥

@@ -31,5 +31,8 @@ anyonyabhinnasaṃvitkriyā api jñānaparipūrṇāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 179–180)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.391–393]]
+
 Jayaratha comments on this verse together with 28.393: see [[Tantraloka 28.393#Viveka|28.393]].
 

@@ -34,6 +34,9 @@ saṃvartajyotiṣorevaṃ kalātattvagayoḥ kramāt |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 55–56)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.117–119]]
+
 > पुरन्यासोऽथ गुल्फान्तं भूः पुराण्यत्र षोडश ।
 > तस्मादेकांगुलव्याप्त्या प्रत्येकं लकुलादितः ॥
 > द्विरण्डान्तं त्र्यंगुलं तु च्छगलाण्डमथाब्धिषु ।

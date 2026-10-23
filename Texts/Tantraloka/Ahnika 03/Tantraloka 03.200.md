@@ -36,6 +36,11 @@ itthaṃ nādānuvedhena parāmarśasvabhāvakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 316–319)
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.198–200]]
+>
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.200–201]]
+
 *Lead-in:* तदेवमत्र वर्णपञ्चाशतः प्रत्येकं भेदेन स्वरूपमभिधाय अभेदेनापि अभिदधदेव तदनुषक्तमनुजोद्देशोद्दिष्टं मन्त्राद्यभिन्नरूपत्वमपि आसूत्रयति --
 
 > इत्थं नादानुवेधेन परामर्शस्वभावकः ॥

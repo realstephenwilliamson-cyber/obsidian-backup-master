@@ -37,6 +37,11 @@ tulyakālaṃ hi no hastatacchāyārūpaniścayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 106–108)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.33–34]]
+>
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.34]]
+
 *Lead-in:* तदेतन्न -- इत्याह—
 
 > तुल्यकालं हि नो हस्ततच्छायारूपनिश्चयः ॥

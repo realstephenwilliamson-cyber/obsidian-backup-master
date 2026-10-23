@@ -31,6 +31,9 @@ guroḥ śiśośca tau naiva prati dīkṣopayogitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 11–12)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.14]]
+
 *Lead-in:* तीव्रशक्तिपातपवित्रितस्य पुनस्तत्संस्कारोपयोगोऽपि नास्ति--इत्याह--
 
 > यस्य त्वीशप्रसादेन दिव्या काचन योग्यता ।

@@ -36,6 +36,11 @@ tato'sya bahurūpatvamuktaṃ dīkṣottarādike || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 188–199)
+> ![[Tantraloka Dyczkowski v01 06 - Chapter One, part 5#Viveka on 1.60–61]]
+>
+> ![[Tantraloka Dyczkowski v01 06 - Chapter One, part 5#Viveka on 1.61–62]]
+
 *Lead-in:* अत एवास्यागमेषु नानारूपत्वमुच्यते -- इत्याह --
 
 > ततोऽस्य बहुरूपत्वमुक्तं दीक्षोत्तरादिके ॥

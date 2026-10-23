@@ -32,6 +32,9 @@ te nirutthānavihatā naye'smingurudarśane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 254)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.409–410]]
+
 > तेनात्र ये चोदयन्ति यथा बालस्य संस्क्रिया ॥
 > वह्नौ वह्नेस्तथान्यत्रेत्यनवस्थैव संस्कृतेः ।
 > ते निरुत्थानविहता नयेऽस्मिन्गुरुदर्शने ॥

@@ -33,6 +33,11 @@ tasmātprādhānyataḥ kṛtvā guruṃ jñānaviśāradam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 42–43)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.72–75]]
+>
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.75–76]]
+
 *Lead-in:* अतश्च ज्ञानिनमेव आश्रित्य मूर्तियागं कुर्यात्--इत्याह--
 
 > तस्मात्प्राधान्यतः कृत्वा गुरुं ज्ञानविशारदम् ॥

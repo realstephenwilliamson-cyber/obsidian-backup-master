@@ -31,6 +31,9 @@ pūrvoktalakṣaṇopetaḥ kavistrikasatattvavit || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 195–196)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.423–425]]
+
 > दीक्षाभिषेकनैमित्तविध्यन्ते गुरुपूजनम् ॥
 > अपरेद्युः सदा कार्यं सिद्धयोगीश्वरीमते ।
 > पूर्वोक्तलक्षणोपेतः कविस्त्रिकसतत्त्ववित् ॥

@@ -31,6 +31,9 @@ hastārdhaṃ sarvatastyaktvā pūrvodagyāmyadiggatam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 95)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.62–63]]
+
 *Lead-in:* तत्र प्राधान्यात् प्रथमं श्रीपूर्वशास्त्रोक्तमेव दर्शयति--
 
 Jayaratha comments on this verse together with 31.63: see [[Tantraloka 31.063#Viveka|31.63]].

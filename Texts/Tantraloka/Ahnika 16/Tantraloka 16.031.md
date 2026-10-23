@@ -34,6 +34,9 @@ bhaktyāśnāti sa saṃpūrṇaḥ samayī syātsubhāvitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 15)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.31]]
+
 *Lead-in:* ननु किमेवमस्य हविषो माहात्म्यं यत्सर्वो न भोक्तुमर्हतीत्युक्तम्?-- इत्याशङ्क्याह--
 
 > यस्तु दीक्षाविहीनोऽपि शिवेच्छाविधिचोदितः ।

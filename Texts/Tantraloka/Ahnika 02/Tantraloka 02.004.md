@@ -34,6 +34,9 @@ svabhāva eva mantavyaḥ sa hi nityodito vibhuḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 13–14)
+> ![[Tantraloka Dyczkowski v02 02 - Chapter Two, part 1#Viveka on 2.4]]
+
 *Lead-in:* ननु यद्येवं तर्हि अल्प एव कश्चिदुपायांशः समुपदिश्यतां येनोपदेश्यजनस्य सुखमेव उपेयप्राप्तिः स्यात्, किं बह्वायासदायिभिरन्यैरुपायैः ? इत्याशङ्क्याह --
 
 > यच्चतुर्धोदितं रूपं विज्ञानस्य विभोरसौ ।

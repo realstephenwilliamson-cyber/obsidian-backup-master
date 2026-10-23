@@ -33,6 +33,11 @@ vidyāśaṅkī malāśaṅkī śāstraśaṅkī na siddhyati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 147–148)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.20–24]]
+>
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.24]]
+
 *Lead-in:* एतदेव व्यतिरेकद्वारेण द्रढयति--
 
 > विद्याशङ्की मलाशङ्की शास्त्रशङ्की न सिद्ध्यति ॥

@@ -35,6 +35,9 @@ karmarūpā sthitā māyā yadadhaḥ śaktikuṇḍalī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 375)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.403–405]]
+
 > अनाश्रितोऽनाथमयमनन्तं खवपुः सदा ॥
 > स व्यापिनं प्रेरयति स्वशक्त्या करणेन तु ।
 > कर्मरूपा स्थिता माया यदधः शक्तिकुण्डली ॥

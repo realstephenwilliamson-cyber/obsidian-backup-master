@@ -35,6 +35,9 @@ so'nastamitarūpatvādanāhata ihoditaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 425)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.217]]
+
 *Lead-in:* इह पुनर्वर्णोदय एवायत्नजः परसूक्ष्मस्थूलात्मतया त्रिप्रकारोऽभिधीयते । तत्र परस्यापि वर्णोदयस्य तरतमभावेन द्वैविध्यमिति परतमं तदुदयमभिधातुमुपक्रमते --
 
 > एको नादात्मको वर्णः सर्ववर्णाविभागवान् ।

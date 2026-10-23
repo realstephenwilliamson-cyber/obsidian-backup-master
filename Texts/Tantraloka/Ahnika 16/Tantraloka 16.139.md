@@ -36,6 +36,11 @@ varṇādhvano'tha vinyāsaḥ kathyate'tra vidhitraye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 63–64)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.138–139]]
+>
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.139–142]]
+
 *Lead-in:* इदानीं वर्णाध्वानमभिधातुमाह--
 
 Jayaratha comments on this verse together with 16.138: see [[Tantraloka 16.138#Viveka|16.138]].

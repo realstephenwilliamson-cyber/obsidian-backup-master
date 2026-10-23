@@ -47,15 +47,15 @@ Similarly, the sin of the house of Eli will not be atoned by sacrifices and offe
 [^3]: See *Likkutei Amarim*, Part I, ch. 44, etc., and Part II, pp. 284-286, on the concealed and created love.
 [^4]: [[Song of Songs 1#^1-2|Song of Songs 1:2]].
 [^5]: [[Torah 45 - Vaetchanan#^6-5|Deuteronomy 6:5]].
-[^6]: Jerusalem Talmud, *Peah* 1:1; *Sotah* 14a; *Shabbat* 133b; Maimonides, *Hilchot Deot* 1:5, 6.
+[^6]: Jerusalem Talmud, *Peah* 1:1; [[Sotah 14#14a|*Sotah* 14a]]; [[Shabbat 133#133b|*Shabbat* 133b]]; Maimonides, *Hilchot Deot* 1:5, 6.
 [^7]: *Zohar* [[Zohar 4.07 - Parashat Yitro#^z2-85a|II:85a]].
-[^8]: Cf. *Shabbat* 138b.
+[^8]: Cf. [[Shabbat 138#138b|*Shabbat* 138b]].
 [^9]: [[Isaiah 51#^51-16|Isaiah 51:16]].
 [^10]: Ibid., 59:21.
 [^11]: Ibid., 57:15.
 [^12]: [[Torah 17 - Yitro#^20-11|Exodus 20:11]].
-[^13]: Cf. *Berachot* 4b; *Eruvin* 22b; *Sanhedrin* 88b.
+[^13]: Cf. [[Berakhot 4#4b|*Berachot* 4b]]; [[Eruvin 22#22b|*Eruvin* 22b]]; [[Sanhedrin 88#88b|*Sanhedrin* 88b]].
 [^14]: [[Proverbs 16#^16-6|Proverbs 16:6]].
-[^15]: Cf. *Berachot* 5b.
+[^15]: Cf. [[Berakhot 5#5b|*Berachot* 5b]].
 [^16]: Cf. [[I Samuel 03#^3-14|I Samuel 3:14]].
 [^17]: 18a.

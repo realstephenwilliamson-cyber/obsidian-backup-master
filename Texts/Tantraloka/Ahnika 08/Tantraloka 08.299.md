@@ -35,6 +35,9 @@ aṅguṣṭhamātraparyantaṃ mahādevāṣṭakaṃ niśi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 304–305)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.298–300]]
+
 > ततो माया त्रिपुटिका मुख्यतोऽनन्तकोटिभिः ॥
 > आक्रान्ता सा भगबिलैः प्रोक्तं शैव्यां तनौ पुनः ।
 > अङ्गुष्ठमात्रपर्यन्तं महादेवाष्टकं निशि ॥

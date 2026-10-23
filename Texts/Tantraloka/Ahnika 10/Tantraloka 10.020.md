@@ -31,6 +31,9 @@ vedyatākhyastu no dharmo bhāti bhāvasya nīlavat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 305–306)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.20]]
+
 > वेद्यताख्यस्तु नो धर्मो भाति भावस्य नीलवत् ॥
 
 अत्रेति नीलादौ विषये ॥ २० ॥

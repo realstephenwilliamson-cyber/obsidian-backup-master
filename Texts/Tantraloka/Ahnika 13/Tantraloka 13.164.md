@@ -33,6 +33,11 @@ anirdeśyaḥ śivastatra ko'bhyupāyo nirūpyatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 224)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.163–164]]
+>
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.164–165]]
+
 *Lead-in:* तदेवाह -
 
 > अनिर्देश्यः शिवस्तत्र कोऽभ्युपायो निरूप्यताम् ॥

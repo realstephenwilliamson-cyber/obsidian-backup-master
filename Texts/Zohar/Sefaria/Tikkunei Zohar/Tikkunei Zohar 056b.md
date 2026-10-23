@@ -280,7 +280,7 @@ And this is:... *He has brought back His right-hand... etc*.
 [^3]: *Vayiqra Rabbah* 30:14
 [^4]: citron
 [^5]: *tam*
-[^6]: *BT* Megillah 13a
+[^6]: *BT* [[Megillah 13#13a|Megillah 13a]]
 [^7]: *malkhut*
 [^8]: myrtle
 [^9]: Mishnah Sukkah 3:4
@@ -304,8 +304,8 @@ And this is:... *He has brought back His right-hand... etc*.
 [^27]: *aḥor*
 [^28]: *qedem*
 [^29]: *aḥor*
-[^30]: *BT* Baba Batra 25a
+[^30]: *BT* [[Bava Batra 25#25a|Baba Batra 25a]]
 [^31]: *shabtai*
 [^32]: *ei shabat*
 [^33]: ‘Where is Sabbath?’
-[^34]: See *BT* Rosh HaShanah 16b
+[^34]: See *BT* [[Rosh Hashanah 16#16b|Rosh HaShanah 16b]]

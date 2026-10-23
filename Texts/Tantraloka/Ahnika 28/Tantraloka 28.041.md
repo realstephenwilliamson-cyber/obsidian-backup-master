@@ -31,6 +31,9 @@ anuyāgaḥ kila mukhyaḥ sarvasminneva karmaviniyoge || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 24)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.40–42]]
+
 > सर्वत्र च पर्वदिने कुर्यादनुयागचक्रमतिशयतः ॥
 > गुप्तागुप्तविधानादियागचर्याक्रमेण सम्पूर्णम् ।
 > अनुयागः किल मुख्यः सर्वस्मिन्नेव कर्मविनियोगे ॥

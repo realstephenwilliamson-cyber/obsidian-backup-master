@@ -33,6 +33,11 @@ vyabhicāraśca sāmastyavyastatvābhyāṃ svarūpataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 184–186)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.98–100]]
+>
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.100–101]]
+
 *Lead-in:* इति न्यायेन किमेवं कारणान्वेषणेन -- इत्याह --
 
 > व्यभिचारश्च सामस्त्यव्यस्तत्वाभ्यां स्वरूपतः ॥

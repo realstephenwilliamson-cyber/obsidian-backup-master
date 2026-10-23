@@ -35,6 +35,9 @@ vyaktiniṣṭhā tato viddhi sattā sā kīrtitā parā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 190–192)
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.138–139]]
+
 > स्मृतिः स्वरूपजनिका सर्वभावेषु रञ्जिका ।
 > अनेकाकाररूपेण सर्वत्रावस्थितेन तु ॥
 > स्वस्वभावस्य संप्राप्तिः संवित्तिः परमार्थतः ।

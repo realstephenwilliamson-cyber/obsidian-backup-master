@@ -33,6 +33,11 @@ yathāhi duṣṭakarmāsmītyevaṃ bhāvayatastathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 160–161)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.268–269]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.269–270]]
+
 *Lead-in:* ननु एवमभ्यासमात्रादेव कथं शिवत्वं भवेत्?--इत्याशङ्कां गर्भीकृत्य दृष्टान्तयति--
 
 > यथाहि दुष्टकर्मास्मीत्येवं भावयतस्तथा ॥

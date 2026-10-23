@@ -35,5 +35,8 @@ ye ca rūpavratā lokā āvahe te pratiṣṭhitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 172–174)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.135–137]]
+
 Jayaratha comments on this verse together with 8.138: see [[Tantraloka 08.138#Viveka|8.138]].
 

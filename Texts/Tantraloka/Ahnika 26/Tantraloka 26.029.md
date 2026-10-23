@@ -36,6 +36,13 @@ tatra prabhāte saṃbudhya sveṣṭāṃ prāgdevatāṃ smaret || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 380–381)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 26.33–34.*
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.28–29]]
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.33–34]]
+
 *Lead-in:* इदानीं नित्यविधिं शिक्षयति--
 
 Jayaratha comments on this verse together with 26.28: see [[Tantraloka 26.028#Viveka|26.28]].

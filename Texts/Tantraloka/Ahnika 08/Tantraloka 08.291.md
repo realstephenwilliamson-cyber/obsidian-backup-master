@@ -35,6 +35,9 @@ trividhāste sthitāḥ puṃsi mokṣamārgoparodhakāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 296–298)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.288–291]]
+
 > भुवनं देहधर्माणां दशानां विग्रहाष्टकात् ।
 > अहिंसा सत्यमस्तेयं ब्रह्माकल्काक्रुधो गुरोः ॥
 > शुश्रूषाशौचसन्तोषा ऋजुतेति दशोदिताः ।

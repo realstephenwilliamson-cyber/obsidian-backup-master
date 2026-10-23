@@ -31,6 +31,9 @@ prācye cchidrāṇi saṃrakṣetkāmacāritvamuttare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 167)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.371–372]]
+
 *Lead-in:* संमदं सूते इति--
 
 > स्वात्मविश्रान्त्युत्पादात् ।

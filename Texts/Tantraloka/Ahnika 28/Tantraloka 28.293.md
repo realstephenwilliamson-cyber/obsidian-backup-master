@@ -31,6 +31,9 @@ ityādi mālinīśāstre dhāraṇānāṃ tathā phalam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 127)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.293]]
+
 *Lead-in:* तथा च आगमोऽप्येवम्--इत्याह--
 
 > श्रीस्वच्छन्दे ततः प्रोक्तं गन्धधारणया मृताः ।

@@ -31,6 +31,9 @@ mantrātmabhūtadravyāṃśadivyatattvādigocarā |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 245–247)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.197–198]]
+
 > श्रीमन्निशाटने चात्मगुरुशास्त्रवशात्त्रिधा ।
 > ज्ञानं मुख्यं स्वोपलब्धि विकल्पार्णवतारणम् ॥
 > मन्त्रात्मभूतद्रव्यांशदिव्यतत्त्वादिगोचरा ।

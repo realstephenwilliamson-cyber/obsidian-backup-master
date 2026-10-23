@@ -35,6 +35,9 @@ yugapatkṣobhayati niśāṃ sā sūte saṃpuṭairanantaiḥ svaiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 318–319)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.323]]
+
 *Lead-in:* नन्वेवमपि अस्या जाड्यात् कथमेवं कार्याविर्भावने सामर्थ्यम् ? -- इत्याशङ्क्याह --
 
 > मायातत्त्वाधिपतिः सोऽनन्तः समुदितान्विचार्याणून् ।

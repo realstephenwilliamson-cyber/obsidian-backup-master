@@ -33,6 +33,11 @@ tatsāmyāllaukikīṃ nidrāṃ suṣuptaṃ manvate budhāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 461–462)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.257–259]]
+>
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.259–260]]
+
 *Lead-in:* ननु यद्येवं तर्हि कथमन्तःकरणधर्मो गाढनिद्रापि लोकेषु सुषुप्तमित्युच्यते? इत्याशङ्क्याह -
 
 > तत्साम्याल्लौकिकीं निद्रां सुषुप्तं मन्वते बुधाः ॥

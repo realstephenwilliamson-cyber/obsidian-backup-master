@@ -34,6 +34,11 @@ sthaṇḍile kumbhakarkaryorbhāgaṃ bhāgaṃ nivedayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 274–276)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.443–444]]
+>
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.444–446]]
+
 *Lead-in:* एवं संस्कृतं चरुं षोढा विभजति--
 
 Jayaratha comments on this verse together with 15.443: see [[Tantraloka 15.443#Viveka|15.443]].

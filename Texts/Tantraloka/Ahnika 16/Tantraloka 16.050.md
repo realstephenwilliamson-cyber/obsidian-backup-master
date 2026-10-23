@@ -36,6 +36,11 @@ kṛtvā katipayaṃ kālaṃ tatrābhyāsamananyadhīḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 21–23)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.49–50]]
+>
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.50–51]]
+
 *Lead-in:* अत्र च प्राक्कोटावभ्यास उपादेयः--इत्याह--
 
 Jayaratha comments on this verse together with 16.49: see [[Tantraloka 16.049#Viveka|16.49]].

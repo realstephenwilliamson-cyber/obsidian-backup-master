@@ -34,6 +34,9 @@ iti proktaṃ tathā ca śrīmālinīvijayottare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 118–122)
+> ![[Tantraloka Dyczkowski v01 04 - Chapter One, part 3#Viveka on 1.23]]
+
 *Lead-in:* न चैतदस्माभिः स्वोपज्ञमेवोक्तम् -- इत्याह --
 
 > मलमज्ञानमिच्छन्ति संसाराङ्कुरकारणम् ।

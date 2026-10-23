@@ -36,6 +36,11 @@ anuttaravisargātmaśivaśaktyadvayātmani || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 320–323)
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.202–203]]
+>
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.203–204]]
+
 *Lead-in:* ननु इह शरीरादावहंप्रत्यवमर्शः सप्रतियोगित्वाद्भवतु नाम भेदनिबन्धनं परप्रमात्रात्मनि प्रकाशे प्रवर्तमानः अतिरेकानतिरेकविकल्पोपहतत्वात् प्रतियोगिनो (अप्रतियोगी) न तथा ? -- इत्याह --
 
 > अनुत्तरविसर्गात्मशिवशक्त्यद्वयात्मनि ॥

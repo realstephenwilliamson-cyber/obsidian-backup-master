@@ -31,6 +31,9 @@ svācchandyenātha tatsiddhiṃ vidhinā bhāvinā caret || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 362–363)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.15]]
+
 *Lead-in:* नाडीप्रवाहणे च युक्तिमाह--
 
 > तद्वाहकालापेक्षा च कार्या तद्रूपसिद्धये ।

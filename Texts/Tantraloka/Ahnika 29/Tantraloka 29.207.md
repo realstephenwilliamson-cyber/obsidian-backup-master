@@ -31,6 +31,9 @@ anayā śodhyamānasya śiśostīvrādibhedataḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 363–364)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.207–208]]
+
 *Lead-in:* ननु एवमस्य किं फलम्?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 29.208: see [[Tantraloka 29.208#Viveka|29.208]].

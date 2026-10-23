@@ -33,6 +33,11 @@ vede'pi yadabhakṣyaṃ tadbhakṣyamityupadiśyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 109–110)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.175–176]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.176]]
+
 *Lead-in:* ननु किं नाम एषामज्ञत्वादि यत् स्ववचः प्रामाण्योन्मूलनायामपि क्षमते ?--इत्याशङ्क्य आह—
 
 > वेदेऽपि यदभक्ष्यं तद्भक्ष्यमित्युपदिश्यते ॥

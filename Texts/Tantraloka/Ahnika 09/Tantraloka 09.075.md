@@ -33,6 +33,11 @@ nāmūrtena na mūrtena prāvarītuṃ ca śakyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 78–80)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.74–75]]
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.75–76]]
+
 *Lead-in:* ननु रूपानपहस्तनेऽपि यथा चक्षुरादेः पटलादिरावरणं । तथैवेहापि भविष्यति ? -- इत्याशङ्क्याह -
 
 > नामूर्तेन न मूर्तेन प्रावरीतुं च शक्यते ॥

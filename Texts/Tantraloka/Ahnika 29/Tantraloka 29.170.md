@@ -31,6 +31,9 @@ taccakraṃ paramaṃ devīyāgādau saṃnidhāpakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 347)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.170–173]]
+
 *Lead-in:* अत्रैव मण्डलात्मतामपि अभिधातुमाह--
 
 Jayaratha comments on this verse together with 29.173: see [[Tantraloka 29.173#Viveka|29.173]].

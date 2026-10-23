@@ -31,6 +31,9 @@ malaḥ karotu tenāyaṃ dhvaṃsamānatvamaśnute || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 106)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.118]]
+
 *Lead-in:* तदाह --
 
 > तस्मादस्य न कर्मास्ति कस्यापि सहकारिताम् ।

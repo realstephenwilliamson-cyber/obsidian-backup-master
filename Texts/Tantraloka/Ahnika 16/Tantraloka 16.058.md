@@ -36,6 +36,11 @@ paśormahopakāro'yaṃ tadātve'pyapriyaṃ bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 25–27)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.57–58]]
+>
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.58–59]]
+
 *Lead-in:* ननु भवत्वेवं, तथापि पशोः प्रथममिदं मारणं नाम महदप्रियम्?--इत्याशङ्क्याह--
 
 > पशोर्महोपकारोऽयं तदात्वेऽप्यप्रियं भवेत् ॥

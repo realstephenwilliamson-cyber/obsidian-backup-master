@@ -33,6 +33,11 @@ kvāpi kāle tayoretadaudāsīnyaṃ yadā tataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 179–181)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.88–89]]
+>
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.89–92]]
+
 *Lead-in:* एवं हि प्रलयदशायां युगपदेव अणूनां तन्निपातः प्रसजेत् तदानीं सर्वकर्मणां भोगदाने प्रतिरुद्धशक्तित्वात्, न च कर्मसाम्येऽभ्युपगम्यमाने शिवशक्तिनिपातेन कश्चिदर्थः -- इत्याह --
 
 Jayaratha comments on this verse together with 13.88: see [[Tantraloka 13.088#Viveka|13.88]].

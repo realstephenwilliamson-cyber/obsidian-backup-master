@@ -31,6 +31,9 @@ paśyeccarantaṃ hānādādgamāgamapadasthitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 150–151)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.30–31]]
+
 *Lead-in:* सिद्धिमेव दर्शयति--
 
 Jayaratha comments on this verse together with 32.31: see [[Tantraloka 32.031#Viveka|32.31]].

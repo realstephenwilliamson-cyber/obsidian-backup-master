@@ -35,5 +35,8 @@ svayaṃ kuryātsamabhyastaprāṇacāragamāgamaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 229)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.51–53]]
+
 Jayaratha comments on this verse together with 19.53: see [[Tantraloka 19.053#Viveka|19.53]].
 

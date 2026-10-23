@@ -34,6 +34,9 @@ saṃmīlanonmīlanaṃ te anyonyaṃ vidadhātake || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 168–176)
+> ![[Tantraloka Dyczkowski v03 06 - Chapter Four, part 5#Viveka on 4.128–130]]
+
 > प्रतिवारणवद्रक्ते तद्बहिर्ये तदुच्यते ।
 > द्वितीयं मघ्यगे ये ते कृष्णश्वेते च मण्डले ॥
 > तदन्तर्ये स्थिते शुद्धे भिन्नाञ्जनसमप्रभे ।

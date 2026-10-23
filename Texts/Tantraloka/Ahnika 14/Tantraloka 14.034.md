@@ -31,6 +31,9 @@ utkrāntividhiyogo'yamekadeśena kathyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 368)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.33–35]]
+
 > यदि सर्वगतो देवो वदोत्क्रम्य क्व यास्यति ॥
 > अथासर्वगतस्तर्हि घटतुल्यस्तदा भवेत् ।
 > उत्क्रान्तिविधियोगोऽयमेकदेशेन कथ्यते ॥

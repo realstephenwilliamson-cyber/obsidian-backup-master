@@ -31,6 +31,9 @@ anusāreṇa dīkṣādau kṛte syācchivatāmayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 356)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.21]]
+
 *Lead-in:* अत्र स्वयं तावदनुग्रहाभिमुख्येनागमनमाह --
 
 > भूयोऽनुग्रहतः प्रायश्चित्ताद्याचरणे सति ।

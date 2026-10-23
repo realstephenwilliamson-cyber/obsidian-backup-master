@@ -31,6 +31,9 @@ malenāvṛtarūpāṇāmaṇūnāṃ yatsatattvakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 75–77)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.71–73]]
+
 > मलश्चावरणं तच्च नावार्यस्य विशेषकम् ॥
 > उपलम्भं विहन्त्येतद् घटस्येव पटावृतिः ।
 > मलेनावृतरूपाणामणूनां यत्सतत्त्वकम् ॥

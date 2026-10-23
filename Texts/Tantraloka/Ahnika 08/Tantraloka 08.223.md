@@ -35,5 +35,8 @@ manomaṇḍalametasmāt somenādhiṣṭhitaṃ yataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 245–247)
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.223–224]]
+
 Jayaratha comments on this verse together with 8.224: see [[Tantraloka 08.224#Viveka|8.224]].
 

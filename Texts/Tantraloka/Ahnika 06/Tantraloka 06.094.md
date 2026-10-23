@@ -40,6 +40,11 @@ ardhārdhe kramate māyā dvikhaṇḍā śivarūpiṇī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 316–318)
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.92–94]]
+>
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.94–95]]
+
 *Lead-in:* न चैतन्निर्मूलमेवोक्तम् -- इत्याह --
 
 > उक्तं श्रीकामिकायां च नोर्ध्वेऽधः प्रकृतिः परा ।

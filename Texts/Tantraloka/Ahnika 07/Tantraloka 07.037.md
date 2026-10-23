@@ -36,6 +36,11 @@ ekāśītipadodāraśaktyāmarśātmakastataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 25–27)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.36–37]]
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.37–38]]
+
 *Lead-in:* न चैतदपूर्वतया स्वोपज्ञमेवोक्तमित्याह --
 
 > एकाशीतिपदोदारशक्त्यामर्शात्मकस्ततः ॥

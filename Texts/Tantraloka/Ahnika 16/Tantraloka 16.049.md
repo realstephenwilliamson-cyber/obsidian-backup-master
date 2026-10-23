@@ -36,6 +36,11 @@ itthaṃ viśrāntiyogena ghaṭikārdhakrame sati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 21–22)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.48–49]]
+>
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.49–50]]
+
 *Lead-in:* नन्विदं कियता कालेन कियता वा जपेन सिद्ध्येत् ?--इत्याशङ्क्याह--
 
 > इत्थं विश्रान्तियोगेन घटिकार्धक्रमे सति ॥

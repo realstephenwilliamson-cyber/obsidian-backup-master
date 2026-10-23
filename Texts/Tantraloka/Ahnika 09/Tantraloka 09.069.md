@@ -33,6 +33,11 @@ roddhrī śaktirjaḍasyāsau svayaṃ naiva pravartate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 71–73)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.68–69]]
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.69–70]]
+
 *Lead-in:* तदेवाह -
 
 > रोद्ध्री शक्तिर्जडस्यासौ स्वयं नैव प्रवर्तते ॥

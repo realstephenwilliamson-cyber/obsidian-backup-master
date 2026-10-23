@@ -34,6 +34,9 @@ meye caturvidhaṃ bhāti rūpamāśritya sarvadā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 155–162)
+> ![[Tantraloka Dyczkowski v03 06 - Chapter Four, part 5#Viveka on 4.125]]
+
 *Lead-in:* ननु अस्यास्त्रयोदशात्मकत्वमपि अन्यैरुक्तं, तत् कथमिह द्वादशात्मकत्वमेवोच्यते ? -- इत्याशङ्क्याह -
 
 > सा च मातरि विज्ञाने माने करणगोचरे ।

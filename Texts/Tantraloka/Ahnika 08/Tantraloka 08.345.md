@@ -37,6 +37,11 @@ bhagabilaśatakalitaguhāmūrdhāsanago'ṣṭaśaktiyugdevaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 336–339)
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.345]]
+>
+> ![[Tantraloka Dyczkowski v05 10 - Chapter Eight, part 8#Viveka on 8.345–348]]
+
 *Lead-in:* नन्वनन्तस्यैव प्राधान्ये किं प्रमाणम् ? -- इत्याशङ्क्याह --
 
 > उक्तं च गुरुभिरित्थं शिवतन्वाद्येषु शासनेष्वेतत् ।

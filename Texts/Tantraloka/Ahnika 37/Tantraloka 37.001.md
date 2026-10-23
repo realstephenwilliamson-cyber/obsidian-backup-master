@@ -31,6 +31,9 @@ prasiddhāvupajīvyāyāmavaśyagrāhya āgamaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 227)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.1]]
+
 *Lead-in:* तदेवमुपक्रान्तस्यैव शास्त्रस्य उपादेयभावं निर्णेतुं प्रागुपजीवनेन पीठिकाबन्धमारचयति--
 
 > उक्तनीत्यैव सर्वत्र व्यवहारे प्रवर्तिते ।

@@ -31,5 +31,8 @@ ekajanyā bhrātaraḥ syustatsadṛgyastu ko'pi saḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 95–96)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.210–212]]
+
 Jayaratha comments on this verse together with 28.212: see [[Tantraloka 28.212#Viveka|28.212]].
 

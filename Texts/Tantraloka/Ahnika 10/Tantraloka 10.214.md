@@ -31,6 +31,9 @@ tathā tathātinaikaṭyaṃ saṃvidaḥ syācchivāvadhi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 428)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.214–215]]
+
 *Lead-in:* एतदेव व्यतिरेचयति --
 
 > यथा यथा हि न्यूनत्वं तुटीनां ह्रासतो भिदः ।

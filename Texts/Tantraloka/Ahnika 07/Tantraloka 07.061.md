@@ -34,6 +34,9 @@ yadā pūrṇodayātmā tu samaḥ kālastrike sphuret || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 42)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.60–62]]
+
 > पूर्वोदये तु विश्रम्य द्वितीयेनोल्लसेद्यदा ॥
 > विशेच्चार्धार्धिकायोगात्तदोक्तार्धोदयो भवेत् ।
 > यदा पूर्णोदयात्मा तु समः कालस्त्रिके स्फुरेत् ॥

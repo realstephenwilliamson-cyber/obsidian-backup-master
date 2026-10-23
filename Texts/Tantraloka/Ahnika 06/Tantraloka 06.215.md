@@ -35,6 +35,9 @@ kramātprāṇādike kāle taṃ taṃ tatrāśrayettataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 423–424)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.215]]
+
 *Lead-in:* एषां च क्रमेण सृष्ट्यादिपञ्चकृत्यकारित्वमस्ति -- इत्याह --
 
 > सृष्टिः प्रविलयः स्थेमा संहारोऽनुग्रहो यतः ।

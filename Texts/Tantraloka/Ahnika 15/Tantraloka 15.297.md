@@ -33,6 +33,13 @@ nyasyedādhāraśaktiṃ tu nābhyadhaścaturaṃgulām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 174–180)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 15.302–303.*
+>
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.296–297]]
+>
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.302–303]]
+
 *Lead-in:* पूजनं च अध्वन्यासपुरःसरमेव अत्र स्यादिति मनोयागमुपक्रममाणः प्रथममासनपक्षं दर्शयितुं प्राणे तत्तत्तत्त्वविभागोट्टङ्कनेन अध्वानमेव न्यसितुं निरूपयति--
 
 Jayaratha comments on this verse together with 15.296: see [[Tantraloka 15.296#Viveka|15.296]].

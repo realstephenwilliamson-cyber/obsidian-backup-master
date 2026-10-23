@@ -37,6 +37,6 @@ Pritzker translation (Matt): [[Zohar 8.03 - Parashat Qedoshim#^z3-80b|Parashat Q
 
 **Kedoshim 3:13** and the Torah is called “holiness”, as it is written, “I the Lord am holy”, and the Torah is the supernal holy Name. Therefore he who studies it is first purified and then sanctified. We have learnt that the holiness of the Torah surpasses all other sanctifications, and the holiness of the superior recondite wisdom is highest of all.’ ^kedoshim-3-13
 
-[^1]: v. T. B. Yoma, 38b.
-[^2]: v. T. B. Rosh Hashanah, 18a.
+[^1]: v. T. B. [[Yoma 38#38b|Yoma, 38b]].
+[^2]: v. T. B. [[Rosh Hashanah 18#18a|Rosh Hashanah, 18a]].
 [^3]: v. T. B. Berachoth, 22a.

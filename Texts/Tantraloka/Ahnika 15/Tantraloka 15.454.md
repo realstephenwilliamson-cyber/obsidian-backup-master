@@ -34,6 +34,11 @@ kṛtaprajñā hi vinyastamantraṃ dehaṃ jalaṃ sthalam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 279)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.453–454]]
+>
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.454–455]]
+
 *Lead-in:* किमत्र प्रमाणम् ?--इत्याशङ्क्य आह--
 
 > कृतप्रज्ञा हि विन्यस्तमन्त्रं देहं जलं स्थलम् ॥

@@ -31,6 +31,9 @@ abuddho yastu mānāṃśaḥ sa buddho mitikārakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 444–445)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.236–237]]
+
 *Lead-in:* नन्वस्य चतुष्टयस्य समानेऽप्यधिष्ठेयत्वे किमन्योन्यं कश्चिद्विशेषः संभवेन्न वा? -- इत्याशङ्क्याह -
 
 > तत्र चैत्रे भासमाने यो देहांशः स कथ्यते ।

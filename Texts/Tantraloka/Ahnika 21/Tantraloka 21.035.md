@@ -34,6 +34,9 @@ suptakalpo'pyadeho'pi yo jīvaḥ so'pi jālataḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 266)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.35]]
+
 *Lead-in:* ननु गृहीततत्तज्जन्मनो जीवस्यैवमुक्तम्, अगृहीतदेहस्य पुनः का वार्त्ता?--इत्याशङ्क्याह--
 
 > सुप्तकल्पोऽप्यदेहोऽपि यो जीवः सोऽपि जालतः ।

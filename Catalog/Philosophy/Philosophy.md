@@ -15,29 +15,37 @@ filters:
     - file.folder.startsWith("Catalog/")
     - subject.contains("Philosophy")
     - status != "delete"
+formulas:
+  Read: files.filter(value.asFile().ext == "md").map(link(value, "Read"))
 views:
   - type: table
     name: Philosophy
     order:
-      - file.name
+      - formula.Read
+      - title
       - author
-      - year
       - type
-      - text
-      - status
+      - year
+      - physical_copy
     sort:
       - property: file.name
         direction: ASC
     columnSize:
-      file.name: 380
+      formula.Read: 73
+      note.title: 392
+      note.author: 173
+      note.type: 90
+      note.year: 62
   - type: table
     name: Needs review
     filters:
       and:
         - status == "review"
     order:
+      - formula.Read
       - file.name
       - author
+      - type
       - year
     sort:
       - property: file.name

@@ -31,6 +31,9 @@ sarvapramātṛtādātmyaṃ pūrṇarūpānubhāvakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 350)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.86]]
+
 *Lead-in:* तदाह -
 
 > तत एवोच्यते मल्लनटप्रेक्षोपदेशने ।

@@ -331,10 +331,10 @@ like a fish that is
 לויתן לעילא דא צדיק  
 דאיהו כדג ^43a-26
 
-[^1]: *BT* Shabbat 13a
+[^1]: *BT* [[Shabbat 13#13a|Shabbat 13a]]
 [^2]: *nuna*
 [^3]: *yiDGu*
-[^4]: *BT* Baba Batra 75a
+[^4]: *BT* [[Bava Batra 75#75a|Baba Batra 75a]]
 [^5]: *kad*
 [^6]: 24
 [^7]: *ZaHaB*
@@ -352,4 +352,4 @@ like a fish that is
 [^19]: *ḥeilah*
 [^20]: *ḥolah*
 [^21]: *Vayiqra Rabbah* 11:9
-[^22]: *BT* Shabbat 31a
+[^22]: *BT* [[Shabbat 31#31a|Shabbat 31a]]

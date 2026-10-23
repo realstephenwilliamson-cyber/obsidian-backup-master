@@ -36,6 +36,11 @@ kaumbhakārī tu saṃvittiravacchedāvabhāsanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 42–43)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.36–37]]
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.37–38]]
+
 *Lead-in:* ननु कौम्भकारी संवित् देशकालाद्यवच्छेदात् संकुचितस्वभावा "परा"पुनरनवच्छिन्नत्वात् "पराद्वयरूपा"इति कथं तयोरविशेष उक्तः? -- इत्याशङ्क्याह --
 
 > कौम्भकारी तु संवित्तिरवच्छेदावभासनात् ॥

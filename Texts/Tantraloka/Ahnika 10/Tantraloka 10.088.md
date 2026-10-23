@@ -31,6 +31,9 @@ tadvastu śuṣkātprāgrūpādanyadyuktamidaṃ tadā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 352)
+> ![[Tantraloka Dyczkowski v06 11 - Chapter Ten, part 2#Viveka on 10.88]]
+
 *Lead-in:* अत एवाह -
 
 > यदा तु तत्तद्वेद्यत्वधर्मसंदर्भगर्भितम् ।

@@ -36,6 +36,11 @@ ekatattvavidhiścaiṣa suprabuddhaṃ guruṃ prati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 37–42)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.39–40]]
+>
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.40–41]]
+
 *Lead-in:* इति न्यायेन यद्येकतत्त्वात्मना संक्षिप्तेनैव प्रकारेण दीक्षा सिद्ध्येत् तत्किमन्यैर्विस्तृतैः प्रकारैः ? -- इत्याशङ्क्याह --
 
 > एकतत्त्वविधिश्चैष सुप्रबुद्धं गुरुं प्रति ॥

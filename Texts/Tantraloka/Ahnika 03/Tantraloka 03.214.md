@@ -34,6 +34,9 @@ cittapralayanāmāsau visargaḥ śāmbhavaḥ paraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 332–335)
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.211–214]]
+
 > पूर्वं विसृज्यसकलं कर्तव्यं शून्यतानले ।
 > चित्तविश्रान्तिसंज्ञोऽयमाणवस्तदनन्तरम् ॥
 > दृष्टश्रुतादितद्वस्तुप्रोन्मुखत्वं स्वसंविदि ।

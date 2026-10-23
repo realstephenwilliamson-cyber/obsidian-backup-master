@@ -34,6 +34,9 @@ pratyayādyo'pi cācāryapratyayādeva kevalāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 373)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.9–10]]
+
 *Lead-in:* यः पुनरेकान्ततः परमेवापेक्षते नैव वा, तस्य किं शेषवृत्त्या-- इत्याह--
 
 > यः सर्वथा परापेक्षामुज्झित्वा तु स्थितो निजात् ।

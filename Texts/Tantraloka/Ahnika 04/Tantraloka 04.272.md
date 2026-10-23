@@ -34,6 +34,9 @@ vidhirniṣedho vā śaktau na svarūpasya khaṇḍane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 378)
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.272]]
+
 *Lead-in:* अत आह -
 
 > विश्वात्मनो हि नाथस्य स्वस्मिन्रूपे विकल्पितौ ।

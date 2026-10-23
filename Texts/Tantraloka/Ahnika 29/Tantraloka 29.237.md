@@ -31,6 +31,9 @@ sā cābhyāsavatā kāryā yenordhvordhvapraveśataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 378)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.237–238]]
+
 *Lead-in:* तदेव आह--
 
 > वेधदीक्षा च बहुधा तत्र तत्र निरूपिता ।

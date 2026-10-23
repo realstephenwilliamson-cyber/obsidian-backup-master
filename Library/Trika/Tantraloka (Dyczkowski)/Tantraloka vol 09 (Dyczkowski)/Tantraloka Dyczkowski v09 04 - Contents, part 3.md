@@ -14,9 +14,9 @@ converted: 2026-10-07
 
 *[p. xii]* ^pg16
 
-The Funerary Rites (antyeṣtih) 
+The Funerary Rites (antyeṣtiḥ) 
 
-The Qualified Recipient (adhikārin), verses 2-4, 6-1 lab, pages 342-344 The Rite of Passage (sariskārah), verses 5, 1 1cd-16, pages 345-348 
+The Qualified Recipient (adhikārin), verses 2-4, 6-1 lab, pages 342-344 The Rite of Passage (saṁskāraḥ), verses 5, 1 1cd-16, pages 345-348 
 
 The Procedure according to the Kulagahvara, verses 11cd-17ab, pages 348-350 
 
@@ -26,21 +26,21 @@ Its Purpose (tatprayojanam), verses 21-24ab, pages 353-354
 
 CHAPTER TWENTY-FIVE 
 
-The Fashioning of the Offerings to the Ancestors (śrāddhaklrpti) 
+The Fashioning of the Offerings to the Ancestors (śrāddhaklṛpti) 
 
 The Purpose of the Rite (prayojanam) and Times when it Should be Performed, verses 2cd-4ab, page 356 
 
 Identifying the Fettered Aspect with the Experient thereby Becoming Śiva, 
 
-verses 4cd-9, pages 357-359 No Procedure is Necessary for the Deceased who Knows Reality, verses 10, page 359 The Days of the Teacher’s Enlightenment and Birth are Sacred Days (parvan), verses 11-12cd, pages 360-361 The Procedure for the Channels of the Breath (nādīvidhih), verses 13-14ab, 
+verses 4cd-9, pages 357-359 No Procedure is Necessary for the Deceased who Knows Reality, verses 10, page 359 The Days of the Teacher’s Enlightenment and Birth are Sacred Days (parvan), verses 11-12cd, pages 360-361 The Procedure for the Channels of the Breath (nādīvidhiḥ), verses 13-14ab, 
 
 1940-2190, pages 361-362 The Worship of the Assembly When Performing śrāddha for the Ancestors, verses 14cd-18, pages 363-364 The Bestowal of Worldly Benefits (bhoga) and Liberation (bhoganokṣadānam), verses 21cd-29, pages 365-368 
 
 CHAPTER TWENTY-SIX 
 
-The Remaining Observance (śseṣavrttinirūpanam) 
+The Remaining Observance (śseṣavṛttinirūpanam) 
 
-The Purpose of the Remaining Observance (prayojanarh ŝeṣavrtteh), verse 2, pages 369-370 
+The Purpose of the Remaining Observance (prayojanaṁ śeṣavṛtteḥ), verse 2, pages 369-370 
 
 Teacher Instructs as to the Daily Conduct, Including Ritual and Mantra, verses 3-20, pages 370-377 
 
@@ -64,19 +64,19 @@ Hymn to Inner Worship, verses 62cd-65, pages 392-394 Manner of Worship with this
 
 CHAPTER TWENTY-SEVEN 
 
-The Worship of the Liñga (liñgārcā) 
+The Worship of the Liṅga (liṅgārcā) 
 
-The Many Kinds of Liñga (liùgasvarūpaṁ bahudhā), verse 2, page 399 
+The Many Kinds of Liṅga (liṅgasvarūpaṁ bahudhā), verse 2, page 399 
 
 Higher Secret Mantras should not to be Used Externally, verses 2-8, pages 400-404 
 
-Installation of a Deity by Oneself or by the Teacher, Into a Liñga 
+Installation of a Deity by Oneself or by the Teacher, Into a Liṅga 
 
 Anywhere or Into an Iconic Representation, verses 9-20ab, pages 404-407 
 
 Deity May be Installed and Worshipped in a Skull, verses 20cd-21ab, page 407 
 
-Characteristics and Features of a Skull, verses 21cd-29, pages 408-413 A Description of the Varieties of Rosaries (akṣasūtranirīpaṇam), verses 30-39, pages 413-417 The Sacrificial Jar, verses 40-43, pages 417-419 Other Supports on which to Worship the Deity, verses 44-49, pages 418-420 The Various Types of Worship (pujābhedah), verses 50-59, pages 421-424 
+Characteristics and Features of a Skull, verses 21cd-29, pages 408-413 A Description of the Varieties of Rosaries (akṣasūtranirīpaṇam), verses 30-39, pages 413-417 The Sacrificial Jar, verses 40-43, pages 417-419 Other Supports on which to Worship the Deity, verses 44-49, pages 418-420 The Various Types of Worship (pujābhedaḥ), verses 50-59, pages 421-424 
 
 Appendices to Volume Nine 
 
@@ -94,7 +94,7 @@ Kubjikāmata chapter 23, pages 452-456 Appendix to Chapter Twenty-two: The Seven
 
 Abbreviations 
 
-Ajadapramātrsiddhi Asiatic Society of Bengal Atharvaveda Bodleian Library, Oxford Brahmayāmala Bhagavadgītā Bhogakārikā B,ṁadāranyakopaniṣad Chandogyopaniṣad Ciñcinīmatasārasamuccaya Dharmālaṁkārakārikā Devīdyvardhaśatikā Devīpañcaśataka Dhvanyālokālocana Government Oriental Manuscript Library, University of Chennai History of Dharmaśāstra Indo-Iranian Journal Iśvarapratyabhijñāvimarśinī Iśvarapratyabhijñāvivrtivimarśinī Institut Français d'Indologie de Pondichéry Istituto Studi Medio ed Estremo Oriente Isānaśivagurudevapaddhati Journal Asiatique Journal of the Asiatic Society of Bombay Journal of the Royal Asiatic Society Jayadrathayāmala Kashmiri Series Edition Kaulajñānanirnaya Kramanayapradīpikā Kumārikākhanda of the Manthānabhairavatantra Kulapañcaśikā Khacakrapañcakastotra Kubjikāmata Kashmiri Shaivism, the Secret Supreme KSTS 
+Ajadapramātṛsiddhi Asiatic Society of Bengal Atharvaveda Bodleian Library, Oxford Brahmayāmala Bhagavadgītā Bhogakārikā B,ṁadāranyakopaniṣad Chandogyopaniṣad Ciñcinīmatasārasamuccaya Dharmālaṁkārakārikā Devīdyvardhaśatikā Devīpañcaśataka Dhvanyālokālocana Government Oriental Manuscript Library, University of Chennai History of Dharmaśāstra Indo-Iranian Journal Iśvarapratyabhijñāvimarśinī Iśvarapratyabhijñāvivṛtivimarśinī Institut Français d'Indologie de Pondichéry Istituto Studi Medio ed Estremo Oriente Isānaśivagurudevapaddhati Journal Asiatique Journal of the Asiatic Society of Bombay Journal of the Royal Asiatic Society Jayadrathayāmala Kashmiri Series Edition Kaulajñānanirnaya Kramanayapradīpikā Kumārikākhanda of the Manthānabhairavatantra Kulapañcaśikā Khacakrapañcakastotra Kubjikāmata Kashmiri Shaivism, the Secret Supreme KSTS 
 
 Kashmiri Series of Texts and Studies Kramanayapradīpikā KNP LYV 
 
@@ -116,17 +116,17 @@ Manuscript
 
 *[p. xv]* ^pg19
 
-Maālinīvijayottaratantra Maālinīvijayavārtika Monier-Williams Mundaka Upaniṣad Mrgendratantra Mrgendratantravrtti Kriyāpāda Mrgendratantra Kriyāpāda Mrgendratantra Vidyāpāda Nepal German Manuscript Preservation Project Nityāṣodaśikārnava Nyāyabindu Nyāyabinduṭīkā Netratantra Netratantroddyota Number Page Paramokṣanirāsakārikā Parātrīśikā (= Parātrimśika) 
+Maālinīvijayottaratantra Maālinīvijayavārtika Monier-Williams Mundaka Upaniṣad Mṛgendratantra Mṛgendratantravṛtti Kriyāpāda Mṛgendratantra Kriyāpāda Mṛgendratantra Vidyāpāda Nepal German Manuscript Preservation Project Nityāṣodaśikārnava Nyāyabindu Nyāyabinduṭīkā Netratantra Netratantroddyota Number Page Paramokṣanirāsakārikā Parātrīśikā (= Parātrimśika) 
 
 Parātri Pānṇini’s \[illegible\] the Aṣtādhyāyī. 
 
-Pūrvakāmikā Paramārthasāra Pramānavārtika Pramānṇaviniścaya Pratyabhijñāhrdaya Ricerche e Studi Orientali Rājataraṁginī Rauravasūtrasanṁgraha Rgveda Śatapathabrāhmanṇa Sāvarabhāṣya Sarvajñānottara Sva/Subodhodayamañjarī Swami Laksmanjoo Science of Light Saṁvitprakāśa SāhnKā 
+Pūrvakāmikā Paramārthasāra Pramānavārtika Pramānṇaviniścaya Pratyabhijñāhṛdaya Ricerche e Studi Orientali Rājataraṁginī Rauravasūtrasanṁgraha Rgveda Śatapathabrāhmanṇa Sāvarabhāṣya Sarvajñānottara Sva/Subodhodayamañjarī Swami Laksmanjoo Science of Light Saṁvitprakāśa SāhnKā 
 
 Sāmkhyakārikā Spandakārikā SpKā SpNi 
 
 Spandanirṇaya Spandapradīpikā SpPra 
 
-Spandasarhdoha SpSarn ŚDr 
+Spandasaṁdoha SpSarn ŚDr 
 
 )
 
@@ -138,7 +138,7 @@ Sivastotrāvali ŚM
 
 Śrīmatottara Śvetāśvatara Upaniṣad Śvet 
 
-Ṣatsahasrasarnhitā 
+Ṣatsahasrasaṁhitā 
 
 *[p. xvi]* ^pg20
 

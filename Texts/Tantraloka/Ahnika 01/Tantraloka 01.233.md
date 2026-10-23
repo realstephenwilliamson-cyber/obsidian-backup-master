@@ -35,6 +35,9 @@ yato hi kalpanāmātraṃ svaparādivibhūtayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 409–410)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.233]]
+
 *Lead-in:* इत्याद्युक्त्या ज्ञानाधिगमे एव अधिकारो नास्ति इति किं कस्य मोचकं स्यात्, सत्यां चेत् परापेक्षात्मनैव स्वात्मनि दीक्षाकरणानुपपत्तेः, पराधिकरणत्वे च कारणमन्यत्र कार्यं च अन्यत्र इति महान् दोषः ? इत्याशङ्क्याह --
 
 > सम्यग्ज्ञानं च मुक्त्येककारणं स्वपरस्थितम् ।

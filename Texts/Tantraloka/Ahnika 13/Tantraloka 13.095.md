@@ -33,6 +33,11 @@ tirobhāvaśca nāmāyaṃ sa kasmādudbhavetpunaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 181–183)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.94–95]]
+>
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.95–96]]
+
 *Lead-in:* एवमनुग्रहवन्निग्रहोऽपि भवन्मते न घटते -- इत्याह --
 
 > तिरोभावश्च नामायं स कस्मादुद्भवेत्पुनः ॥

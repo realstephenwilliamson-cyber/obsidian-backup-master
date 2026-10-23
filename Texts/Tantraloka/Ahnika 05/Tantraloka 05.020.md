@@ -34,6 +34,9 @@ sarvatattvamayaḥ proktametacca triśiromate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 23)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.20]]
+
 *Lead-in:* तदाह -
 
 > यः प्रकाशः स्वतन्त्रोऽयं चित्स्वभावो हृदि स्थितः ।

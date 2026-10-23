@@ -33,6 +33,11 @@ tatraiva dehe yattvanyadadyagaṃ vā purātanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 112–116)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.130–131]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.131–132]]
+
 *Lead-in:* ननु देहारम्भकजात्यायुष्प्रदकर्म आरब्धकार्यत्वात् मा नाम निरोधि, यत् पुनरद्यतनं प्राक्तनं वा अस्मिन्नेव देहे दिनैर्मासैः संवत्सरैर्वा भोगमात्रलक्षणं कार्यमारप्स्यते तत् किं निरोद्धुं शक्यते न वा ? -- इत्याशङ्क्याह --
 
 > तत्रैव देहे यत्त्वन्यदद्यगं वा पुरातनम् ॥

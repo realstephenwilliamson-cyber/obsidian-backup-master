@@ -31,6 +31,9 @@ tīvratīvramahāśaktisamāviṣṭaḥ sa sidhyati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 257)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.211]]
+
 *Lead-in:* ननु अहञ्चमत्कारसारपरसंविदद्वयमयेऽपि अस्मद्दर्शने यदि जीवतोऽपि काष्ठादितुल्यता नाम मुक्तिस्तत्सर्वगुणच्छेदादेवंप्रायां मुक्तिमभिदधतामक्षपादानां क इव उपहासावसरः? -- इत्याशङ्क्याह --
 
 > समस्तव्यवहारेषु पराचीनितचेतनः ।

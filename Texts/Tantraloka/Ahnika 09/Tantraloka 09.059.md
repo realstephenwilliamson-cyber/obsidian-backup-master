@@ -31,6 +31,9 @@ tathā tattatkaleśānaḥ pṛthak tattvāntaraṃ katham || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 63)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.55–59]]
+
 > तेन यत्प्राहुराख्यानसादृश्येन विडम्बिताः ॥
 > गुरूपासां विनैवात्तपुस्तकाभीष्टदृष्टयः ।
 > ब्रह्मा निवृत्त्यधिपतिः पृथक्तत्त्वं न गण्यते ॥

@@ -33,5 +33,10 @@ jñeyaṃ saṅkalpanārūpamardhapīṭhamataḥ param |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 60–62)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.84–86]]
+>
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.86–88]]
+
 Jayaratha comments on this verse together with 15.96: see [[Tantraloka 15.096#Viveka|15.96]].
 

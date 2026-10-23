@@ -31,6 +31,9 @@ tatpātramunmukhaṃ tacca riktaṃ kuryānna tādṛśam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 418)
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.42–43]]
+
 *Lead-in:* अत्र इतिकर्तव्यतामाह--
 
 Jayaratha comments on this verse together with 27.43: see [[Tantraloka 27.043#Viveka|27.43]].

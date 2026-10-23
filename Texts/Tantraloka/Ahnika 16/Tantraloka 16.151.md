@@ -39,6 +39,13 @@ adhvanyāsanamantraughaḥ śodhako hyeka āditaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 68–70)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.150–151]]
+>
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.151–154]]
+>
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.151–156]]
+
 *Lead-in:* शोधकसंमतमिति--शोधकतयाभिमतं मन्त्रविशेषम्--इत्यर्थः ॥ तदेवाह--
 
 Jayaratha comments on this verse together with 16.150: see [[Tantraloka 16.150#Viveka|16.150]].

@@ -36,6 +36,11 @@ sarvaśāstrārthavettṛtvamakasmāccāsya jāyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 58–59)
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.45]]
+>
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.45–46]]
+
 *Lead-in:* ननु गुर्वादिनैरपेक्ष्येण कथमेतावतैव समस्तशास्त्रावबोधो भवेत्? इत्याशङ्क्याह --
 
 > शुद्धविद्या हि तन्नास्ति सत्यं यद्यन्न भासयेत् ।

@@ -31,6 +31,9 @@ yo'pyatanmaya eṣo'pi tatkāle svakramārcanāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 14–15)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.18–20]]
+
 > तच्चक्रचारनिष्णाता ये केचित् पूर्णसंविदः ॥
 > तन्मेलकसमायुक्तास्ते तत्पूजापराः सदा ।
 > योऽप्यतन्मय एषोऽपि तत्काले स्वक्रमार्चनात् ॥

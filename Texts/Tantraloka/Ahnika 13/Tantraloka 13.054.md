@@ -31,6 +31,9 @@ sa eko mala ityukternairmalyamanuṣajyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 158–159)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.54–56]]
+
 *Lead-in:* तदेवाह -
 
 Jayaratha comments on this verse together with 13.55: see [[Tantraloka 13.055#Viveka|13.55]].

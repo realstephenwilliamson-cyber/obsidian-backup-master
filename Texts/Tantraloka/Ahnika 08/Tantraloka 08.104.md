@@ -35,6 +35,9 @@ saṃvara iti śākādiṣu jambudvīpe nyarūpi cāgnīdhraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 145–147)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.102–104]]
+
 > लक्षैकमात्रो लवणस्तद्बाह्येऽस्य पुरोऽद्रयः ।
 > ऋषभो दुन्दुभिर्धूम्रः कङ्कद्रोणेन्दवो ह्युदक् ॥
 > वराहनन्दनाशोकाः पश्चात् सहबलाहकौ ।

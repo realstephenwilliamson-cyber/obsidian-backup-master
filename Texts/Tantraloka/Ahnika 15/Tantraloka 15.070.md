@@ -31,5 +31,8 @@ kṛtvā nirīkṣaṇaṃ prokṣya tāḍanāpyāyaguṇṭhanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 53–55)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.69–73]]
+
 Jayaratha comments on this verse together with 15.72: see [[Tantraloka 15.072#Viveka|15.72]].
 

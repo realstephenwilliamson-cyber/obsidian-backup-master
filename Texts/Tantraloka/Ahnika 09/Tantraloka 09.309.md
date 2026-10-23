@@ -31,6 +31,9 @@ guṇādhikyādato jñeyā vyāpyavyāpakatā sphuṭā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 280–281)
+> ![[Tantraloka Dyczkowski v06 09 - Chapter Nine, part 7#Viveka on 9.308–309]]
+
 > तद्विना न भवेद्यत्तद् व्याप्तमित्युच्यते यतः ॥
 > न लाघवं च नामास्ति किञ्चिदत्र स्वदर्शने ।
 > गुणाधिक्यादतो ज्ञेया व्याप्यव्यापकता स्फुटा ॥

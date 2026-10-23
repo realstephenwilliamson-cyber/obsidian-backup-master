@@ -33,6 +33,11 @@ svātantryāt punarātmīyādayaṃ channa iva sthitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 90–91)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.198–199]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.199–200]]
+
 *Lead-in:* ननु यदि आत्मा निर्विकारः, तत्कथं पूर्णोऽपि अपूर्णतां श्रयेत्, अपूर्णोऽपि पूर्णताम् ?--इत्याशङ्क्य आह--
 
 > स्वातन्त्र्यात् पुनरात्मीयादयं छन्न इव स्थितः ॥

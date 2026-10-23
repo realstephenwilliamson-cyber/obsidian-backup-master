@@ -31,6 +31,9 @@ karmāṃśasparśinaṃ svāṃśaṃ karaṇīkurute svayam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 234)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.244]]
+
 *Lead-in:* एवं हि देहादौ गृहीताभिमानः संकुचितः प्रमाता स्वयमेव स्वं वपुः पृथक्कृत्यैवाहन्तासंस्पर्शात् स्वाङ्गरूपमपि श्रोत्रादि शब्दादिविषयतया तदालोचनक्रियादौ साधनतां नयेत्, तदाह --
 
 > तस्मात् स्वातन्त्र्ययोगेन कर्ता स्वं भेदयन् वपुः ।

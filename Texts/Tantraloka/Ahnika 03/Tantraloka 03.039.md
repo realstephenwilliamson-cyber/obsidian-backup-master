@@ -40,6 +40,9 @@ na lakṣyate'kṣeṇa vinā sthitaṃ tvapi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 113–114)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.39]]
+
 *Lead-in:* एवं प्रतिश्रुत्कावद्रसादिप्रतिबिम्बानामपि रूपप्रतिबिम्बजातीयत्वं कटाक्षयन् यथासंभवं व्यवस्थां दर्शयति --
 
 > यथा च रूपं प्रतिबिम्बितं दृशोर्न

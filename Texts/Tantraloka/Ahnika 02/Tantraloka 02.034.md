@@ -35,6 +35,9 @@ anuttarapathe rūḍhāste'bhyupāyāniyantritāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 43–45)
+> ![[Tantraloka Dyczkowski v02 03 - Chapter Two, part 2#Viveka on 2.34]]
+
 *Lead-in:* ये चातोऽवहितास्त एव परं कृतकृत्याः -- इत्याह --
 
 > इति ये रूढसंवित्तिपरमार्थपवित्रिताः ।

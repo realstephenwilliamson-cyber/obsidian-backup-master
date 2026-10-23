@@ -36,6 +36,11 @@ ko'pyatrigupta iti nāmaniruktagotraḥ
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 244)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 37.40.*
+>
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.40]]
+
 *Lead-in:* निःशेषशास्त्रसदनं किल मध्यदेश-
 
 > स्तस्मिन्नजायत गुणाभ्यधिको द्विजन्मा ।

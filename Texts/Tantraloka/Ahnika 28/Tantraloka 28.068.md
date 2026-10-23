@@ -31,5 +31,8 @@ evaṃ yo vai vijānāti daiśikastattvapāragaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 38–41)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.65–71]]
+
 Jayaratha comments on this verse together with 28.71: see [[Tantraloka 28.071#Viveka|28.71]].
 

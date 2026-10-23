@@ -31,6 +31,11 @@ tadīyāpriyabhīrustu paraṃ tādṛśamācaret || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 334–335)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 23.89.*
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.89]]
+
 > न ह्यस्य स गुरुत्वे स्याद्दोषो येनोषरे कृषिम् ॥
 > कुर्याद् व्रजेन्निशायां वा स त्वर्थप्राणहारकः ।
 > तदीयाप्रियभीरुस्तु परं तादृशमाचरेत् ॥

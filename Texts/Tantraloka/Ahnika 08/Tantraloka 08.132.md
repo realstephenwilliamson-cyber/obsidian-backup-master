@@ -35,5 +35,8 @@ vaidyutādraivatastāvāṃstatra puṣṭivahāmbudāḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 170)
+> ![[Tantraloka Dyczkowski v05 05 - Chapter Eight, part 3#Viveka on 8.132–133]]
+
 Jayaratha comments on this verse together with 8.138: see [[Tantraloka 08.138#Viveka|8.138]].
 

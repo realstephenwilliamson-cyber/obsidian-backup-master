@@ -31,6 +31,9 @@ etatṣaṭkasasaṅkocaṃ yadavedyamasāvaṇuḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 183–194)
+> ![[Tantraloka Dyczkowski v06 07 - Chapter Nine, part 5#Viveka on 9.205]]
+
 *Lead-in:* इति । तत् कथमिहोक्तं संविदः षट् कञ्चुकानि ? -- इत्याशङ्क्याह --
 
 > देहपुर्यष्टकाद्येषु वेद्येषु किल वेदनम् ।

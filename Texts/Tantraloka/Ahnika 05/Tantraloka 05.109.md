@@ -37,6 +37,11 @@ yathā sarveśinā bodhenākrāntāpi tanuḥ kvacit || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 146–147)
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.108–109]]
+>
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.109–110]]
+
 *Lead-in:* ननु पूर्णतास्पर्शादेवमनुभवोदयः -- इति पूर्णे सर्वस्य भावात् कथं नैयत्येनैवं भवेत्? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 5.108: see [[Tantraloka 05.108#Viveka|5.108]].

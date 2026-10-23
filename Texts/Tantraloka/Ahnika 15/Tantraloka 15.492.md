@@ -34,6 +34,11 @@ sarvasāttvikaceṣṭo'pi bhojane yadi tāmasaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 298–299)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.491–492]]
+>
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.492–493]]
+
 *Lead-in:* एतदेव दर्शयति--
 
 > सर्वसात्त्विकचेष्टोऽपि भोजने यदि तामसः ॥

@@ -34,6 +34,9 @@ nālikātithimāsābdatatsaṅgho'tra sphuṭaṃ sthitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 272)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.63]]
+
 *Lead-in:* एवं सपीठिकाबन्धं प्राणस्य चारमानमभिधाय तदानन्तर्येणानुजोद्देशोद्दिष्टमहोरात्राद्यपि विभक्तुमपक्रमते --
 
 > षट्त्रिंशदङ्गुले चारे यद् गमागमयुग्मकम् ।

@@ -34,6 +34,9 @@ anuttaropāyadhurāṃ yānyāyānti kramaṃ vinā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 38–39)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.42]]
+
 *Lead-in:* एतदेव अन्यत्राप्यतिदिशति --
 
 > अनयैव दिशान्यानि ध्यानान्यपि समाश्रयेत् ।

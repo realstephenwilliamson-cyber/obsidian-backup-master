@@ -34,6 +34,9 @@ dīptānāṃ śaktinādādimantrāṇāmāsavaiḥ palaiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 388)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.51–53]]
+
 > आवाहिते मन्त्रगणे पुष्पासवनिवेदनैः ॥
 > धूपैश्च तर्पणं कार्यं श्रद्धाभक्तिबलोचितैः ।
 > दीप्तानां शक्तिनादादिमन्त्राणामासवैः पलैः ॥

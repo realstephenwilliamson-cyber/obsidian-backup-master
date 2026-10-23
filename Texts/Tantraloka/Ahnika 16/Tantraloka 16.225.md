@@ -37,6 +37,13 @@ dehaśudhyarthamapyetattulyametena vastutaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 97–100)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 16.230.*
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.224–225]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.230]]
+
 *Lead-in:* तदेवाह--
 
 > अधुना न्यासमात्रेण भूतशुद्धिः प्रजायते ।

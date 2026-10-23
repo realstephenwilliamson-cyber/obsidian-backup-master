@@ -34,6 +34,9 @@ tadeva tu samastārthanirbharātmaikagocaram || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 132–133)
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.111–113]]
+
 > तच्च स्वच्छस्वतन्त्रात्मरत्ननिर्भासिनि स्फुटम् ॥
 > भावौघे भेदसंधातृ स्वात्मनो नैशमुच्यते ।
 > तदेव तु समस्तार्थनिर्भरात्मैकगोचरम् ॥

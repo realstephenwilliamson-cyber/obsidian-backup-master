@@ -34,6 +34,9 @@ cakre tu ṣaṇṇavatyākhye sapādā dviśatī bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 7–8)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.5–19]]
+
 > खे रसैकाक्षि नित्योत्थे तदर्धं द्विकपिण्डके ॥
 > त्रिके सप्त सहस्राणि द्विशतीत्युदयो मतः ।
 > चतुष्के तु सहस्राणि पञ्च चैव चतुःशती ॥

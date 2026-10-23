@@ -35,6 +35,11 @@ anuttarānandabhuvāmicchādye bhogyatāṃ gate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 308)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.189–190]]
+>
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.189–190 (continued)]]
+
 *Lead-in:* नन्वेवं भोग्यं तावदास्तां न कश्चिद्दोषो भोक्तुः पुनरनेकरूपतायामद्वयहानिः—इति स्वसिद्धान्तभङ्गो भवेत् ? -- इत्याशङ्क्य इच्छादेर्भोग्यत्वमेवास्ति, न पुनर्भोक्तृत्वम्, इति दर्शयति --
 
 > अनुत्तरानन्दभुवामिच्छाद्ये भोग्यतां गते ॥

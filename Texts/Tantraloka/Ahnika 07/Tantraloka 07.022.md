@@ -36,6 +36,11 @@ prāṇagrāsakramāvāptakālasaṅkarṣaṇasthitiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 10–12)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.21–22]]
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.22–23]]
+
 *Lead-in:* अतोऽप्यस्य किं स्यात् ? -- इत्याशङ्क्याह --
 
 > प्राणग्रासक्रमावाप्तकालसङ्कर्षणस्थितिः ॥

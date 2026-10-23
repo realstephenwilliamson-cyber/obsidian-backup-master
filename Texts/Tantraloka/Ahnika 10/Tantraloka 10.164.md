@@ -31,6 +31,9 @@ kācidasti ghaṭākhyāpi tatra saṃdarśitā bhidaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 394–395)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.164]]
+
 *Lead-in:* एतच्च भेदजातं धरादिगतैकैकभावादिप्रकारेणापि प्रथमं तावद्योज्यम् -- इत्याह --
 
 > एवमेतद्धरादीनां तत्त्वानां यावती दशा ।

@@ -34,5 +34,8 @@ upāsate vikalpaughasaṃskārādye śrutotthitāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 378–379)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.198–200]]
+
 Jayaratha comments on this verse together with 1.200: see [[Tantraloka 01.200#Viveka|1.200]].
 

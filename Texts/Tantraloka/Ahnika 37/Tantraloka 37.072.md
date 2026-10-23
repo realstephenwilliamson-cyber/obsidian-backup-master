@@ -36,6 +36,11 @@ dāsyaṃ janaścarati pīṭhanivāsakalpe || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 263)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 37.75.*
+>
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.75]]
+
 > माज्ञावशेन शुभसूतिमहाङ्कुरेण ॥
 > विक्षिप्तभावपरिहारमथो चिकीर्षन्
 > मन्द्रः स्वके पुरवरे स्थितिमस्य वव्रे ।

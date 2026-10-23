@@ -35,6 +35,9 @@ prājñā vastuni yujyante na tu sāmayike dhvanau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 131)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.58]]
+
 *Lead-in:* तदाह—
 
 > लक्षणस्य व्यवस्थैषाऽकस्माच्चेद्बिम्बमुच्यताम् ।

@@ -35,6 +35,9 @@ iti darśayituṃ nāsya pṛthaṅnyāsaṃ nyarūpayat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 103)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.237]]
+
 *Lead-in:* नन्वेवं देवीद्वयस्यापि न्यासः कस्मान्नोक्तः ?--इत्याशङ्क्याह--
 
 > विद्याद्वयं शिष्यतनौ व्याप्तृत्वेनैव योजयेत् ।

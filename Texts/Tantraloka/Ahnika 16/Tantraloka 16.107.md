@@ -34,6 +34,9 @@ taccaturviṃśatyādhikyātparo'pyaṣṭaśate vidhiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 50)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.107]]
+
 > तत्र तत्त्वेषु विन्यासो गुल्फान्ते चतुरंगुले ॥
 > धरा जलादिमूलान्तं प्रत्येकं द्व्यंगुलं क्रमात् ।
 > रसश्रुत्यंगुलं नाभेरूर्ध्वमित्थं षडंगुले ॥

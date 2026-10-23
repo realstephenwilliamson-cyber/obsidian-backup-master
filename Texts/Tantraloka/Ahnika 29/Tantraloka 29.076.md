@@ -31,5 +31,8 @@ ahorātramimaṃ yāga kurvataścāpare'hani || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 273–274)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.75–77]]
+
 Jayaratha comments on this verse together with 29.77: see [[Tantraloka 29.077#Viveka|29.77]].
 

@@ -33,6 +33,11 @@ tatrāpi mandatīvrādibhedād bahuvidhaḥ kramaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 354–355)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.18–19]]
+>
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.19]]
+
 *Lead-in:* नचात्र शतं समा एव इति नियमो विवक्षितः -- इत्याह --
 
 > तत्रापि मन्दतीव्रदिभेदाद् बहुविधः क्रमः ॥

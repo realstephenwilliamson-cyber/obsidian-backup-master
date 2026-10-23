@@ -31,6 +31,9 @@ bhedāntaramapi jñeyaṃ vīṇāvādakadṛṣṭivat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 394)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.162]]
+
 *Lead-in:* तदेवान्वयव्यतिरेकगर्भं दृष्टान्तद्वारेण द्रढयति --
 
 > अन्यशक्तितिरोभावे कस्याश्चित्सुस्फुटोदये ।

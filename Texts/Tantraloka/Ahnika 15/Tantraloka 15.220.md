@@ -33,6 +33,11 @@ svānusārakṛtaṃ taṃ ca digvibhāgaṃ sadā śivaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 134)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.219–220]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.220–221]]
+
 *Lead-in:* अत्रापि परमेश्वर एव अधिष्ठाता--इत्याह--
 
 > स्वानुसारकृतं तं च दिग्विभागं सदा शिवः ॥

@@ -33,6 +33,11 @@ saṃskāraḥ sarvabhāvānāṃ paratā parikīrtitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 239–240)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.188–189]]
+>
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.189]]
+
 *Lead-in:* ननु जाड्यात्मैव संस्कारो भेदनिबन्धनमिति केनोक्तम्? -- इत्याशङ्क्याह --
 
 > संस्कारः सर्वभावानां परता परिकीर्तिता ॥

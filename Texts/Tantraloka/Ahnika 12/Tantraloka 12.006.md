@@ -34,6 +34,9 @@ deśakālamayaspandasadma dehaṃ vilokayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 102–103)
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.6]]
+
 *Lead-in:* नन्वेवमवभासनेन कोऽर्थः? -- इत्याशङ्क्याह --
 
 > एवं विश्वाध्वसंपूर्णं कालव्यापारचित्रितम् ।

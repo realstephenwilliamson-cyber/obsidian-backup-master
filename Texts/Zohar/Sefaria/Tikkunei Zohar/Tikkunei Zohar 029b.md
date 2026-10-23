@@ -308,7 +308,7 @@ And of the one
 [^7]: man
 [^8]: ג
 [^9]: 53
-[^10]: *BT* Sukkah 47a
+[^10]: *BT* [[Sukkah 47#47a|Sukkah 47a]]
 [^11]: *ḥug*
 [^12]: *ḥagin*
 [^13]: *rinah*
@@ -326,7 +326,7 @@ And of the one
 [^25]: pazer
 [^26]: *Ra’aya Me-heimna*
 [^27]: *tzadiq*
-[^28]: *BT* Berakhot 61b
+[^28]: *BT* [[Berakhot 61#61b|Berakhot 61b]]
 [^29]: *marah*
 [^30]: *r’a*
 [^31]: י

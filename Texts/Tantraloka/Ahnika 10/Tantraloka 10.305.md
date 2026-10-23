@@ -31,5 +31,10 @@ tadīśāḥ śaktiśaṃbhvitthaṃ pañca syurjāgradādayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 491–492)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 10.308.*
+>
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.308]]
+
 Jayaratha comments on this verse together with 10.308: see [[Tantraloka 10.308#Viveka|10.308]].
 

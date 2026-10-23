@@ -36,6 +36,11 @@ evaṃ sadrūpataivaiṣāṃ satāṃ śaktitrayātmatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 287–291)
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.186–188]]
+>
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.188–189]]
+
 *Lead-in:* एतदेवोपसंहरति --
 
 > एवं सद्रूपतैवैषां सतां शक्तित्रयात्मताम् ॥

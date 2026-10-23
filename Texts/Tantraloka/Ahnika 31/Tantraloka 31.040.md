@@ -31,6 +31,9 @@ parā candrasamaprakhyā raktā devī parāparā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 84–85)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.39–41]]
+
 > तद्भेदान्मण्डलानां स्यादसङ्ख्यो भेदविस्तरः ॥
 > पीठवीथीबहिर्भूमिकण्ठकर्णकपोलतः ।
 > शोभोपशोभासंभेदाद्गुणरेखाविकल्पतः ॥

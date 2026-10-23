@@ -34,6 +34,9 @@ dhārikāpyāyinī boddhrī pavitrī cāvakāśadā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 33–34)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.33–34]]
+
 *Lead-in:* ननु भवत्वेवं स्पर्शस्य स्पृहणीयत्वं को दोषः पृथिव्यादितत्त्वपञ्चकस्य पुनरेवमवस्थाने किं प्रमाणम् ? -- इत्याशङ्क्याह --
 
 > मतं चैतन्महेशस्य श्रीपूर्वे यदभाषत ।

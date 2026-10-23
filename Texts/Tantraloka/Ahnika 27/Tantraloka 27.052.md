@@ -33,6 +33,13 @@ satattvamanusandhāya saṃnidhiṃ sphuṭamācaret || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 421–423)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 27.55–56.*
+>
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.50–52]]
+>
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.55–56]]
+
 > इत्थं स्वयंप्रतिष्ठेषु यावद्यावत्स्थितिर्भवेत् ।
 > विभवैस्तर्पणं शुद्धिस्तावद्विच्छेदवर्जनम् ॥
 > अत एव यदा भूरिदिनं मण्डलकल्पनम् ।

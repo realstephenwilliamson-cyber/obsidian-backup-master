@@ -31,6 +31,9 @@ ajñānakhyāpanāyuktakhyāpanātmā tvasau mataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 331–332)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.79–80]]
+
 *Lead-in:* ननु किमत्र लौकिको दोषो ग्राह्यः शास्त्रीयो वा ?--इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 23.80: see [[Tantraloka 23.080#Viveka|23.80]].

@@ -31,6 +31,9 @@ sārdhavarṇacatuṣkaṃ tadityeṣā samayāpahā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 63)
+> ![[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#Viveka on 30.116–120]]
+
 > सिद्धसाधनि तत्पूर्वं शब्दब्रह्मस्वरूपिणि ।
 > समस्तबन्धशब्देन सहितं च निकृन्तनि ॥
 > बोधनि शिवसद्भावजनन्यामन्त्रितं च तत् ।

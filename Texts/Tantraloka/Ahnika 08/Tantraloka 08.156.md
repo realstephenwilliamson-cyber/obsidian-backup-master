@@ -35,6 +35,9 @@ vaiṣṇavātsaptakoṭībhirbhuvanaṃ parameśituḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 183–187)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.155–157]]
+
 > एवं भूमेर्ध्रुवान्तं स्याल्लक्षाणि दश पञ्च च ।
 > द्वे कोटी पञ्च चाशीतिर्लक्षाणि स्वर्गतो महान् ॥
 > मार्कण्डाद्या ऋषिमुनिसिद्धास्तत्र प्रतिष्ठिताः ।

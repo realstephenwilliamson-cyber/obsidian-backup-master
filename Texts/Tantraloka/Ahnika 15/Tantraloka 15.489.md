@@ -32,6 +32,9 @@ yeṣāṃ tu śaṅkāvilayasteṣāṃ svapnavaśotthitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 297–298)
+> ![[Tantraloka Dyczkowski v08 09 - Chapter Fifteen, part 8#Viveka on 15.485–490]]
+
 > उक्तं च पूर्णां च कृशां ध्यात्वा द्वादशगोचरे ॥
 > प्रविश्य हृदये ध्यायेत्सुप्तः स्वाच्छन्द्यमाप्नुयात् ।
 > आयातनिद्रे च शिशौ गुरुरभ्यर्च्य शङ्करम् ॥

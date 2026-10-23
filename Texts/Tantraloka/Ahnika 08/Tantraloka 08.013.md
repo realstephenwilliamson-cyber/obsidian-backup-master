@@ -34,5 +34,8 @@ samastatattvabhāvo'yaṃ svātmanyevāvibhāgakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 63–66)
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.12–15]]
+
 Jayaratha comments on this verse together with 8.14: see [[Tantraloka 08.014#Viveka|8.14]].
 

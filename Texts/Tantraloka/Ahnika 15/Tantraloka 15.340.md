@@ -31,5 +31,10 @@ pravibhinnakatipayātmakavedyavido mantra ucyante || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 211–212)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 15.342–343.*
+>
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.342–343]]
+
 Jayaratha comments on this verse together with 15.342: see [[Tantraloka 15.342#Viveka|15.342]].
 

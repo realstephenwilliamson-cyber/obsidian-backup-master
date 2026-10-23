@@ -37,6 +37,11 @@ aliases:
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 97)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.223–224]]
+>
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.224–225]]
+
 *Lead-in:* अन्यस्तमपि शोध्यं केवलेनैव शोधकन्यासेन शुद्ध्यतीत्यत्र किं प्रमाणम्?--इत्याशङ्क्याह--
 
 > श्रीमन्मृत्युञ्जयादौ च कथितं परमेष्ठिना ॥

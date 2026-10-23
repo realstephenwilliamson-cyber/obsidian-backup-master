@@ -34,5 +34,8 @@ caturdale tu te jñeye agnīṣomātmakepriye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 168–176)
+> ![[Tantraloka Dyczkowski v03 06 - Chapter Four, part 5#Viveka on 4.128–130]]
+
 Jayaratha comments on this verse together with 4.130: see [[Tantraloka 04.130#Viveka|4.130]].
 

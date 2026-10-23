@@ -24,7 +24,7 @@ Text: [[NRSVue 2 Corinthians 08|NRSVue]] · [[2 Corinthians 08|BSB and SBLGNT]] 
 
 **[[NRSVue 2 Corinthians 08#^8-6|6]]:** *Titus*, see 2.13n.; 8.16–24. ^8-6
 
-**[[NRSVue 2 Corinthians 08#^8-7|7]]:** *Now as you excel in everything . . .* , using a common Greco-Roman rhetorical technique (“proparaitesis”), Paul flatters his readers before making his request. This same technique was recommended by the rabbis for use in prayer (*b. Ber.* 34a): it is best to petition God once one has completed the *Amidah’s* first three benedictions, during which the person approaches God as a servant who offers the master a praise-filled eulogy. *In speech, in knowledge*, Paul praises the Corinthians’ knowledge of and ability to declare the gospel. ^8-7
+**[[NRSVue 2 Corinthians 08#^8-7|7]]:** *Now as you excel in everything . . .* , using a common Greco-Roman rhetorical technique (“proparaitesis”), Paul flatters his readers before making his request. This same technique was recommended by the rabbis for use in prayer ([[Berakhot 34#34a|*b. Ber.* 34a]]): it is best to petition God once one has completed the *Amidah’s* first three benedictions, during which the person approaches God as a servant who offers the master a praise-filled eulogy. *In speech, in knowledge*, Paul praises the Corinthians’ knowledge of and ability to declare the gospel. ^8-7
 
 **[[NRSVue 2 Corinthians 08#^8-8|8.8–15]]:** **Generosity relating to the collection.** ^8-8
 

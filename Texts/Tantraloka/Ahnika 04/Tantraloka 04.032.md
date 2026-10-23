@@ -36,6 +36,11 @@ etaccāger taniṣyāma ityāstāṃ tāvadatra tat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 42–43)
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.31–32]]
+>
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.32]]
+
 *Lead-in:* ननु समानेऽपि प्रलयाकलत्वे केषाञ्चिन्मन्त्रत्वं केषाञ्चित् संसारित्वम्, इत्यत्र किं निमित्तम् ? -- इत्याशङ्क्याह—
 
 > एतच्चागेर् तनिष्याम इत्यास्तां तावदत्र तत् ॥

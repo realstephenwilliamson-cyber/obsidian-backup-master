@@ -33,6 +33,11 @@ yathā cātanmayo'pyeti pāpitāṃ taiḥ samāgamāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 68–69)
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.98–99]]
+>
+> ![[Tantraloka Dyczkowski v08 03 - Chapter Fifteen, part 2#Viveka on 15.99–100]]
+
 *Lead-in:* ननु एवं तत्र चेत् ज्ञानयोगादि स्थितं तावता अन्येषां किं भवेत्?- -इत्याशङ्कामुपशमयितुं दृष्टान्तयति--
 
 > यथा चातन्मयोऽप्येति पापितां तैः समागमात् ॥

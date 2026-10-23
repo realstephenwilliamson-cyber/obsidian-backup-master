@@ -34,6 +34,9 @@ dvitīyaṃ madhyage ye te kṛṣṇaśvete ca maṇḍale || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 168–176)
+> ![[Tantraloka Dyczkowski v03 06 - Chapter Four, part 5#Viveka on 4.128–130]]
+
 *Lead-in:* ननु यद्यत्र षोडशारं चक्रमवस्थितं, तत् कथं द्वादशारमपि ? इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 4.130: see [[Tantraloka 04.130#Viveka|4.130]].

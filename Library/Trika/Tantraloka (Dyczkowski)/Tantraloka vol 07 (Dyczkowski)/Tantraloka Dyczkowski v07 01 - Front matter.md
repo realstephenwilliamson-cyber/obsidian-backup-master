@@ -88,9 +88,9 @@ While Swami Laksmaṇajoo was a great master of inner, yogic practice, in Nepal 
 
 Pt. Vrajavallabha Dvivedi, former head of the Yogatantra Department at Saṁpūrṇānanda Sanskrit University, was an abiding source of inexhaustible knowledge. Indeed, his scholarly work, both in Sanskrit and Hindi, is formidable — ranging as it does through virtually every major Tantric tradition including not only Kashmiri Śaivism, but also Śaiva Siddhānta, Vīra Śaivism, Śrīvidyā, the Kaula Tantras, Vaiṣṇava Pañcarātra, the Buddhist Anuttarayoga Tantras and even Jain Tantrism. 
 
-In other areas of study, I cannot but recall with gratitude Pt. B. P. Tripathi, better known as Vāgīśa Śāstī, former Director of the Research Department of Sarnpūrṇānanda Sanskrit University, who labored for years to teach me Sanskrit grammar both in the traditional manner through the Siddhāntakaumudī and through his own didactic method. 
+In other areas of study, I cannot but recall with gratitude Pt. B. P. Tripathi, better known as Vāgīśa Śāstī, former Director of the Research Department of Saṁpūrṇānanda Sanskrit University, who labored for years to teach me Sanskrit grammar both in the traditional manner through the Siddhāntakaumudī and through his own didactic method. 
 
-Although I have not studied formally with Prof. K. D. Tripathi, retired dean of the Sanskrit college of Banaras Hindu University, I cannot but acknowledge that the many lectures I have heard him deliver and dialogues I have had with him over the years inspired and helped me very much to understand Pratyabhijñā, Bhartrhari’s philosophy of grammar, Abhinavagupta’s aesthetics and the Śaiva Āgamas. In a similar way, I had the good fortune to 
+Although I have not studied formally with Prof. K. D. Tripathi, retired dean of the Sanskrit college of Banaras Hindu University, I cannot but acknowledge that the many lectures I have heard him deliver and dialogues I have had with him over the years inspired and helped me very much to understand Pratyabhijñā, Bhartṛhari’s philosophy of grammar, Abhinavagupta’s aesthetics and the Śaiva Āgamas. In a similar way, I had the good fortune to 
 
 attend classes on the Nāṭyaśastra with 
 
@@ -98,13 +98,13 @@ listen to many lectures and Abhinavagupta’s commentary by the late Premalata S
 
 *[p. m]* ^pg7
 
-are many other renowned scholars in Kāśŝî whom I must also thank for inspiration such as the late Prof. Ananda Krishna and Vatukanatha Khiste, who was a scholar and initiate in line of Bhāskara Rāya, the great 18" century 
+are many other renowned scholars in Kāśî whom I must also thank for inspiration such as the late Prof. Ananda Krishna and Vatukanatha Khiste, who was a scholar and initiate in line of Bhāskara Rāya, the great 18" century 
 
 exponent of Śrīvidyā. 
 
 I owe a special thanks also to Bettina Bäumer whose dedication and scholarship in many fields has been an abiding source of inspiration and knowledge for me throughout the 50 years of our acquaintance. Of those who do not reside in Benares I gratefully acknowledge Prof. Navajivan Rastogi whose books and lectures have helped me a great deal. 
 
-I should not forget to mention my good friends and fellow travelers, especially Dr. Śitalāprasād Upādhyāya, formarly head of the Yogatantra Department at Sarnpūrṇānanda Sanskrit University and then rector of thé University. I am especially grateful to Prof. Rana Singh, retired head of the Geography department of Banaras Hindu University who guided me through the principles of sacred geography, particularly that of \[illegible\] 
+I should not forget to mention my good friends and fellow travelers, especially Dr. Śitalāprasād Upādhyāya, formarly head of the Yogatantra Department at Saṁpūrṇānanda Sanskrit University and then rector of thé University. I am especially grateful to Prof. Rana Singh, retired head of the Geography department of Banaras Hindu University who guided me through the principles of sacred geography, particularly that of \[illegible\] 
 
 During the decades that went into making this translation and study I continuously searched for the sources Abhinavagupta quotes in his Tantrāloka and other works. In this regard I am deeply indebted to the librarians who permitted me to have copies of manuscripts and early rare printed books. I am especially grateful to the German directors in Nepal of the German Nepalese Manuscript Preservation Project. Over the twenty odd years in which I travelled every year, sometimes more than once, to Nepal, seven came and went. There I collected copies of manuscripts of the majority of the most important texts belonging to the early period, that is, prior to Abhinavagupta, from which he drew. The Nepalese collection is very extensive and contains most of the earliest manuscripts preserved in the Indian subcontinent. Other libraries that have furnished manuscripts of important texts, are the Asiatic Society in Calcutta, the central library of Banaras Hindu University, and the libraries in Jodhpur and Poone. 
 
@@ -200,7 +200,7 @@ Six Stages in the Process of Purification, verses 86-87ab (85cd-86), pages 75-78
 
 The Application of the Purifying Mantras of the Anuttara Trika, verses 87cd-93ab (87-92), pages 78-83 A Description of the Power that Sustains Everything 
 
-(sarvādhāraśaktinirūpaṇa), verses 93cd-118ab (93-117), pages 83-98 Everything Appears Within iva Like a Reflection or Image in a Dream or Notion of the Mind; it is Inscrutable Formless Consciousness, verses 93cd-105ab (93-104cd), pages 83-91 
+(sarvādhāraśaktinirūpaṇa), verses 93cd-118ab (93-117), pages 83-98 Everything Appears Within Śiva Like a Reflection or Image in a Dream or Notion of the Mind; it is Inscrutable Formless Consciousness, verses 93cd-105ab (93-104cd), pages 83-91 
 
 The Relationship Between the Sustainer and the Sustained, verses 
 
@@ -216,7 +216,7 @@ By His Freedom, Śiva Can Manifest What Does Not Exist, All is One With Him, ver
 
 CHAPTER TWELVE 
 
-The Application of the Path of the Forces and the Rest (kalādyadhvādhvopayogah) 
+The Application of the Path of the Forces and the Rest (kalādyadhvādhvopayogaḥ) 
 
 The Cosmic Body 
 
@@ -256,7 +256,7 @@ False Knowledge and the Production of Karma, verse 24, pages 138- 139
 
 Is Ignorance a Cause When Karma Generates its Consequences? Or Does the Consequence Originate from Karma if Ignorance Exists? verses 25-31, pages 139-142 
 
-The Sārnkhyā Says That the Absence of Insight (adarśana) Stimulates Fundamental Nature (pradhāna), verses 32-34, pages 142-144 Liberating Separation from Nature, verses 35-36, pages 144-146 Ignorance Cannot be Logically Justified from the Sārkhyā Point of View, verses 37-4lab, pages 146-149 The Nature of Impurity etc. (malādīnām tattvam) 
+The Sāṁkhyā Says That the Absence of Insight (adarśana) Stimulates Fundamental Nature (pradhāna), verses 32-34, pages 142-144 Liberating Separation from Nature, verses 35-36, pages 144-146 Ignorance Cannot be Logically Justified from the Sārkhyā Point of View, verses 37-4lab, pages 146-149 The Nature of Impurity etc. (malādīnām tattvam) 
 
 The Existence of Ignorance cannot be Explained, verses 41cd-49, pages 149-156 
 
@@ -440,7 +440,7 @@ The Obscuration of the Transgression of the Pledges, verses 18ab-23, pages
 
 Fulfilment by Knowledge (jñānena paripūrṇatā) 
 
-र The Freedom of the Agency of Consciousness is its iva Nature. The Liberated Perform Śiva’s Five Tasks of Creation etc., verses 24-30, pages 359-362 Manipulation of the Vital Breath and Magic are Deluding, verses 31-32ab, page 362 The Futility of Yogic Suicide (utkrāntyanupayogitva), verses 32cd-42ab, pages 362-375 Conclusion: One Who is Free of Thought is Free in This Very Life, verses 
+र The Freedom of the Agency of Consciousness is its Śiva Nature. The Liberated Perform Śiva’s Five Tasks of Creation etc., verses 24-30, pages 359-362 Manipulation of the Vital Breath and Magic are Deluding, verses 31-32ab, page 362 The Futility of Yogic Suicide (utkrāntyanupayogitva), verses 32cd-42ab, pages 362-375 Conclusion: One Who is Free of Thought is Free in This Very Life, verses 
 
 42cd-46, pages 375-378 
 
@@ -448,7 +448,7 @@ Appendices to Volume Seven
 
 Appendix to Chapter Eleven: Kalādīkṣā. Svacchandatantra Chapter Four, pages 379-388 
 
-Appendix to Chapter Twelve: Chapter Twenty-one of the Fourth Șaṭka of the Jayadrathayāmala, called Kālikulapaṭala, pages 388-402 
+Appendix to Chapter Twelve: Chapter Twenty-one of the Fourth Ṣaṭka of the Jayadrathayāmala, called Kālikulapaṭala, pages 388-402 
 
 Kṣemarāja Concerning Initiation, pages 403-429 
 
@@ -456,7 +456,7 @@ Kṣemarāja Concerning Initiation, pages 403-429
 
 Abbreviations 
 
-Ajadapramātrsiddhi 
+Ajadapramātṛsiddhi 
 
 APS 
 
@@ -482,7 +482,7 @@ Chandogyopaniṣad ChUp
 
 Ciñcinīmatasārasamuccaya CMSS 
 
-Dharmālaùkārakārikā 
+Dharmālaṅkārakārikā 
 
 DhAK 
 
@@ -594,7 +594,7 @@ MP (2 Tri)
 
 Trivendrum. 
 
-Mahānayaprakāśa by Arṇasirnha 
+Mahānayaprakāśa by Arṇasiṁha 
 
 MP (3 AS) 
 
@@ -610,15 +610,15 @@ Maālinīvijayavārtika Monier-Williams Mund
 
 Mundaka Upaniṣad MT 
 
-Mrgendratantra MrTvK 
+Mṛgendratantra MrTvK 
 
-Mrgendratantravrtti Kriyāpāda MrKri 
+Mṛgendratantravṛtti Kriyāpāda MrKri 
 
-Mrgendratantra Kriyāpāda Mrgendratantra Vidyāpāda Nepal German Manuscript Preservation Project Nityāṣodaśikārnava Nyāyabindu Nyāyabinduṭīkā Netratantra Netratantroddyota Number Page Paramokṣanirāsakārikā Parātrīśikā (= Parātriṁmśika) 
+Mṛgendratantra Kriyāpāda Mṛgendratantra Vidyāpāda Nepal German Manuscript Preservation Project Nityāṣodaśikārnava Nyāyabindu Nyāyabinduṭīkā Netratantra Netratantroddyota Number Page Paramokṣanirāsakārikā Parātrīśikā (= Parātriṁmśika) 
 
 Pāṇini’s Sūātras, the Aṣtādhyāyī. 
 
-Pūrvakāmikā Paramārthasāra Pramānṇavārtika Pramāṇaviniścaya Pratyabhijñāhrdaya Ricerche e Studi Orientali Rājataraṁginī RauSūS 
+Pūrvakāmikā Paramārthasāra Pramānṇavārtika Pramāṇaviniścaya Pratyabhijñāhṛdaya Ricerche e Studi Orientali Rājataraṁginī RauSūS 
 
 Rauravasūtrasahgraha 
 
@@ -652,11 +652,11 @@ Spandakārikā SpNi
 
 Spandanirnaya SpPra 
 
-Spandapradīpikā Spandasaridoha SpSarh 
+Spandapradīpikā Spandasaṁdoha SpSaṁ 
 
 ŚDr 
 
-vadrṣti 
+vadṛṣti 
 
 Śsū 
 
@@ -664,7 +664,7 @@ vadrṣti
 
 Śsū 
 
-\$ivasūtravimarśinī 
+Śivasūtravimarśinī 
 
 551 
 
@@ -700,6 +700,6 @@ Tantrāloka TC
 
 Tattvārthacintāmani 
 
-Trika \$āstra Rahasya Prakriyā 
+Trika Śāstra Rahasya Prakriyā 
 
 Tantrasāra Tantrasadbhāva Tantroccaya Taittirīyopaniṣad Tantravaṭadhānikā Triśirobhairava Ürmikaulāraṇvatantra Vijñānabhairava Vāmakeśvarīmata Vātulanāthasūtra Yogavāsiṣta Yonigahvaratantra Upaniṣad laghu guru commentary comm.

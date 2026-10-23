@@ -35,6 +35,9 @@ tathāvidhāvatāreṣu mṛtāścāyataneṣu ye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 237–238)
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.209–212]]
+
 > अदीक्षिता ये भूतेषु शिवतत्त्वाभिमानिनः ॥
 > ज्ञानहीना अपि प्रौढधारणास्तेऽण्डतो बहिः ।
 > धराब्धितेजोऽनिलखपुरगा दीक्षिताश्च वा ॥

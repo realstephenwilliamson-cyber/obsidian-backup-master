@@ -36,6 +36,11 @@ tatpramātari māyīye kālatattvaṃ nigadyate |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 256–257)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.40–41]]
+>
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.41–42]]
+
 *Lead-in:* ननु मायाप्रमातरि किमेवं कालतत्त्वमेवोत तत्त्वान्तराण्यपि -- इत्याशङ्क्याह --
 
 > शिवादिशुद्धविद्यान्तं यच्छिवस्य स्वकं वपुः ॥

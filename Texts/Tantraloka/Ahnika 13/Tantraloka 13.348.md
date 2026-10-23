@@ -31,6 +31,9 @@ kramāt trikārthavijñānacandrotsukitadṛṣṭayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 339)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.347–348]]
+
 > श्रीपूर्वशास्त्रे प्रष्टारो मुनयो नारदादयः ॥
 > प्राग्वैष्णवाः सौगताश्च सिद्धान्तादिविदस्ततः ।
 > क्रमात् त्रिकार्थविज्ञानचन्द्रोत्सुकितदृष्टयः ॥

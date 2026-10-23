@@ -31,6 +31,9 @@ acirāttatprasādena jñānasiddhīrathāśnute || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 350)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.180]]
+
 *Lead-in:* एवञ्च अस्य किं स्यात् ?--इत्याशङ्क्य आह--
 
 > एवं प्राणक्रमेणैव तर्पयेद्देवतागणम् ।

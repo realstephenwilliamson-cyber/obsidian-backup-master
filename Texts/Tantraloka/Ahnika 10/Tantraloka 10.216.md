@@ -33,6 +33,11 @@ bhāvanākaraṇādīnāṃ śive niravakāśatām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 428–429)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.215–216]]
+>
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.216–217]]
+
 *Lead-in:* तदाह -
 
 > भावनाकरणादीनां शिवे निरवकाशताम् ॥

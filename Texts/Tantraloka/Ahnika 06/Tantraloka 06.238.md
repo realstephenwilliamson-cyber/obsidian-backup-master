@@ -35,6 +35,9 @@ ahamātmakamadvaitaṃ yaḥ prakāśātmaviśramaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 442–443)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.238]]
+
 *Lead-in:* एवमेतदुपजीवनेनैव सूक्ष्मपरमपि वर्णानामुदयमाह --
 
 > हृद्यकारो द्वादशान्ते हकारस्तदिदं विदुः ।

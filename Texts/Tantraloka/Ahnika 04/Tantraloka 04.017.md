@@ -34,6 +34,9 @@ viṣiṇoti nibadhnāti yecchā niyatisaṅgatam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 23–25)
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.17–18]]
+
 *Lead-in:* अत्र च विषमत्वात् स्वयमेव पदचतुष्टयं व्याचष्टे --
 
 > मार्गोऽत्र मोक्षोपायः स हेयः शास्त्रान्तरोदितः ।

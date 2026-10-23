@@ -34,6 +34,9 @@ tasmādanuttaro devaḥ svācchandyānuttaratvataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 313)
+> ![[Tantraloka Dyczkowski v02 10 - Chapter Three, part 7#Viveka on 3.195–196]]
+
 *Lead-in:* अत एव च स एव भगवाननुत्तरः स्वस्वातन्त्र्याद्विश्वरूपतामाप्तः -- इत्याह --
 
 > तस्मादनुत्तरो देवः स्वाच्छन्द्यानुत्तरत्वतः ॥

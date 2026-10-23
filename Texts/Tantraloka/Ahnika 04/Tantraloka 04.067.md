@@ -34,6 +34,9 @@ pustakādhītavidyā ye dīkṣāsamayavarjitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 85–86)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.67–68]]
+
 *Lead-in:* एतदभिप्रायावेदकं च तत्रत्यमेव ग्रन्थं पठति --
 
 Jayaratha comments on this verse together with 4.68: see [[Tantraloka 04.068#Viveka|4.68]].

@@ -35,5 +35,8 @@ iti vā lakṣaṇaṃ śeṣaḥ parīkṣopamitau bhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 441–442)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.264–266]]
+
 Jayaratha comments on this verse together with 1.266: see [[Tantraloka 01.266#Viveka|1.266]].
 

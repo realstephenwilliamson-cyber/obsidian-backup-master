@@ -31,5 +31,8 @@ rūpātītaṃ parā śaktiḥ savyāpārāpyanāmayā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 477–478)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.284–286]]
+
 Jayaratha comments on this verse together with 10.286: see [[Tantraloka 10.286#Viveka|10.286]].
 

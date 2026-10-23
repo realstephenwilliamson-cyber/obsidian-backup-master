@@ -31,6 +31,9 @@ turye tatra sthitā mantratannāthādhīśvarāstrayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 482–484)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.292–294]]
+
 *Lead-in:* ननु विज्ञानाकलानामपि किमाणवमलयोगोऽस्ति तन्निमित्तकं भोगयोग्यत्वं च ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 10.293: see [[Tantraloka 10.293#Viveka|10.293]].

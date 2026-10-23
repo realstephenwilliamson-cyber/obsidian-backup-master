@@ -33,6 +33,11 @@ bhogāpavargadvitayābhisandhāturapi sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 196–197)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.117–119]]
+>
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.119–120]]
+
 *Lead-in:* ननु यस्य एकैव अविभक्ता भुक्तिमुक्तिविषया भक्तिस्तस्य कथमसौ एकत्र कर्मापेक्षतेऽपरत्र न इति सङ्गच्छतां नाम? -- इत्याशङ्क्याह --
 
 > भोगापवर्गद्वितयाभिसन्धातुरपि स्फुटम् ॥

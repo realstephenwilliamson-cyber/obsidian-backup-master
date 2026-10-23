@@ -31,6 +31,11 @@ samayyādikrameṇeti śrīmatkāmika ucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 297)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 23.6–7.*
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.6–7]]
+
 *Lead-in:* ननु अभिषेकादेव तावदधिकारो भवेदिति सर्वत्रोक्तम्, तदिहापि अभिषेक एव विधीयतां किं स्वभ्यस्तज्ञानित्वादिचिन्तया ?-- इत्याशङ्क्याह--
 
 Jayaratha comments on this verse together with 23.7: see [[Tantraloka 23.007#Viveka|23.7]].

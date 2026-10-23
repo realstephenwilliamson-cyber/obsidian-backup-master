@@ -33,6 +33,11 @@ tasya dvitīyacitiriva svacchasya niyujyate kalā ślakṣṇā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 195–201)
+> ![[Tantraloka Dyczkowski v06 07 - Chapter Nine, part 5#Viveka on 9.207–208]]
+>
+> ![[Tantraloka Dyczkowski v06 07 - Chapter Nine, part 5#Viveka on 9.208–212]]
+
 *Lead-in:* अत एवाह -
 
 Jayaratha comments on this verse together with 9.207: see [[Tantraloka 09.207#Viveka|9.207]].

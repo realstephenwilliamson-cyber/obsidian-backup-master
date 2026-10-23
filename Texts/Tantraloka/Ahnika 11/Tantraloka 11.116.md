@@ -35,5 +35,8 @@ na tu bhinnasya kasyāpi dharāderupapannatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 98)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.116–117]]
+
 Jayaratha comments on this verse together with 11.117: see [[Tantraloka 11.117#Viveka|11.117]].
 

@@ -31,6 +31,9 @@ pāramparyeṇa saṃskṛtyā mokṣabhogābhyupāyatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 4–5)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.5–7]]
+
 > न चाधिकारिता दीक्षां विना योगेऽस्ति शाङ्करे ।
 > न च योगाधिकारित्वमेकमेवानया भवेत् ॥
 > अपि मन्त्राधिकारित्वं मुक्तिश्च शिवदीक्षया ।

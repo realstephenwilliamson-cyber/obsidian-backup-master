@@ -31,6 +31,9 @@ tridhāsya prakṛtiskandhaḥ sāttvarājasatāmasaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 220)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.233]]
+
 *Lead-in:* एतदुपसंहरन्नन्यदवतारयति --
 
 > इत्ययं करणस्कन्धोऽहङ्कारस्य निरूपितः ।

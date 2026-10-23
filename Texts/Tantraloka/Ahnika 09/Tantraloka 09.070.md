@@ -33,6 +33,11 @@ malasya roddhrīṃ tāṃ śaktimīśaścetsaṃyunakti tat || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 73–75)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.69–70]]
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.70–71]]
+
 *Lead-in:* इहाचेतनश्चेतनाधिष्ठित एव प्रवर्तते, इति तावदविवादः, ततश्च परमेश्वर एव तच्छक्तिं तथा प्रेरयेत्, इति चेत्तदपि न, इत्याह --
 
 > मलस्य रोद्ध्रीं तां शक्तिमीशश्चेत्संयुनक्ति तत् ॥

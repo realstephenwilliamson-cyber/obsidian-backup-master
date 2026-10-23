@@ -37,6 +37,11 @@ evamaṅgularandhrāṃśacatuṣkadvayagaṃ laghu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 439–440)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.232–233]]
+>
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.233–234]]
+
 *Lead-in:* एतदेव सङ्कलयति -
 
 > एवमङ्गुलरन्ध्रंशचतुष्कद्वयगं लघु ॥

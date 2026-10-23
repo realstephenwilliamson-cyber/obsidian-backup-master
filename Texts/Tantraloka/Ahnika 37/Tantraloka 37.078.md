@@ -36,5 +36,10 @@ saubhāgyamabhyadhikamudvahati sma yā'ntaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 265)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 37.80.*
+>
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.80]]
+
 Jayaratha comments on this verse together with 37.79: see [[Tantraloka 37.079#Viveka|37.79]].
 

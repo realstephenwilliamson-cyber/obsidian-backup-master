@@ -33,6 +33,13 @@ abhiṣekavidhirnirūpitaḥ parameśena yathā nirūpitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 341)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.102–103]]
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.103]]
+>
+> ![[Tantraloka Dyczkowski v09 15 - Chapter Twenty-Four#Viveka on 23.103 (continued)]]
+
 *Lead-in:* एतदेव प्रथमार्धेनोपसंहरति--
 
 > अभिषेकविधिर्निरूपितः परमेशेन यथा निरूपितः ॥

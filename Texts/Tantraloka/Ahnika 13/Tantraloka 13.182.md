@@ -31,6 +31,9 @@ heyopādeyatattvajñastadā dhyāyennijāṃ citim || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 235–236)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.180–182]]
+
 *Lead-in:* एवं चास्य हेयमुपादेयं वा किञ्चिन्नास्ति इत्ययमकिञ्चित्करीषु परिमितासु सिद्धिषु निबन्धनभूतं प्रतिनियतं ध्यानाद्यपहाय परामेव संविदं परं परामृशेत् -- इत्याह --
 
 > हेयोपादेयतत्त्वज्ञस्तदा ध्यायेन्निजां चितिम् ॥

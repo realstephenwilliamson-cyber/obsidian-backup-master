@@ -34,6 +34,11 @@ tathā mantreśayuksatyasaṅkalpamahasā jvalan || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 252–253)
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.406–407]]
+>
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.407–408]]
+
 *Lead-in:* एवं संस्कृतेऽग्नौ शिवत्वमापादयितुमाह--
 
 > तथा मन्त्रेशयुक्सत्यसङ्कल्पमहसा ज्वलन् ॥

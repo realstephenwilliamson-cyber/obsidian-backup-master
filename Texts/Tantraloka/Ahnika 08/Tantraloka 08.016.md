@@ -36,6 +36,11 @@ avyavacchinnasaṃvittirbhairavaḥ parameśvaraḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 67)
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.15–16]]
+>
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.16–17]]
+
 *Lead-in:* न केवलमेतदत्रैवोक्तं यावदन्यत्रापि, -- इत्याह --
 
 > श्रीदेव्यायामले चोक्तं षट्त्रिंशत्तत्त्वसुन्दरम् ॥

@@ -34,6 +34,9 @@ tayā ca jhaṭiti jñeyasamāpattirnirūpyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 343–344)
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.171]]
+
 *Lead-in:* तदेव क्रमेण व्याचष्टे --
 
 > अकिञ्चिञ्चिन्तकस्येति विकल्पानुपयोगिता ।

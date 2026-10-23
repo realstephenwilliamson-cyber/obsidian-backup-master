@@ -34,6 +34,9 @@ pramāṇātmavimarśātmā mānavatkṣobhabhāṅ na tu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 44–46)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.46–47]]
+
 *Lead-in:* नन्वस्य तूष्णींभूतत्वादन्तःपरामर्शात्मकत्वे किं प्रमाणम् ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 11.47: see [[Tantraloka 11.047#Viveka|11.47]].

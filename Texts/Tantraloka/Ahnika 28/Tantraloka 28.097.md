@@ -31,5 +31,10 @@ dhārayā bhairavastuṣyet karapānaṃ paraṃ tataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 50–51)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 28.99–101.*
+>
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.99–101]]
+
 Jayaratha comments on this verse together with 28.101: see [[Tantraloka 28.101#Viveka|28.101]].
 

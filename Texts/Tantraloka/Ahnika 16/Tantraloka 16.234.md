@@ -35,6 +35,9 @@ aṣṭāṃgulāni catvāri daśāṃgulamataḥ param || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 102)
+> ![[Tantraloka Dyczkowski v09 07 - Chapter Sixteen, part 3#Viveka on 16.234–236]]
+
 *Lead-in:* तदेवाह--
 
 Jayaratha comments on this verse together with 16.235: see [[Tantraloka 16.235#Viveka|16.235]].

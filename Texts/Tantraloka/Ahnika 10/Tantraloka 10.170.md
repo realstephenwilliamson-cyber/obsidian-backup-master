@@ -31,6 +31,9 @@ dharātattvagataṃ yogamabhyasya śivavidyayā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 397–398)
+> ![[Tantraloka Dyczkowski v06 12 - Chapter Ten, part 3#Viveka on 10.170–172]]
+
 *Lead-in:* के पुनः प्रेर्याः? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 10.172: see [[Tantraloka 10.172#Viveka|10.172]].

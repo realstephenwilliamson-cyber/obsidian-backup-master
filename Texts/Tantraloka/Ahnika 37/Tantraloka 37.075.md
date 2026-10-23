@@ -36,6 +36,9 @@ statyāja yo bhūpatimantribhāvam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 263)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.75]]
+
 *Lead-in:* स शौरिरात्तेश्वरमन्त्रिभाव-
 
 > स्तत्याज यो भूपतिमन्त्रिभावम् ॥

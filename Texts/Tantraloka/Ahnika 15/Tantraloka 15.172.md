@@ -31,6 +31,9 @@ na patnyā ca vinā yāgaḥ sarvadaivatatulyatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 108)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.171–173]]
+
 > पञ्चगव्ये पवित्रत्वं सोमचर्णनपात्रयोः ॥
 > विधिश्चावभृथस्नानं हस्ते कृष्णविषाणिता ।
 > न पत्न्या च विना यागः सर्वदैवततुल्यता ॥

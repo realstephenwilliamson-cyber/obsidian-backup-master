@@ -37,7 +37,7 @@ Text: [[NRSVue 1 Thessalonians 02|NRSVue]] · [[1 Thessalonians 02|BSB and SBLGN
 
 **[[NRSVue 1 Thessalonians 02#^2-8|8]]:** *Our own selves*, by personally visiting the community. ^2-8
 
-**[[NRSVue 1 Thessalonians 02#^2-9|9]]:** *Labor*, Paul was a leather-worker ([[Acts 18#^18-3|Acts 18.3]]). The rabbis value labor as both providing subsistence and guarding against sin (e.g., *b. Qidd.* 29a: “He who does not teach his son a trade is as though he taught him to be a robber”); among Roman elites, the availability of slaves lead to the devaluation of labor. ^2-9
+**[[NRSVue 1 Thessalonians 02#^2-9|9]]:** *Labor*, Paul was a leather-worker ([[Acts 18#^18-3|Acts 18.3]]). The rabbis value labor as both providing subsistence and guarding against sin (e.g., [[Kiddushin 29#29a|*b. Qidd.* 29a]]: “He who does not teach his son a trade is as though he taught him to be a robber”); among Roman elites, the availability of slaves lead to the devaluation of labor. ^2-9
 
 **[[NRSVue 1 Thessalonians 02#^2-11|11]]:** *Like a father*, see [[Hosea 11#^11-1|Hos 11.1–4]]; [[Psalms 103#^103-13|Ps 103.13]]; [[Proverbs 04#^4-1|Prov 4.1]]; [[LXX Sirach 07#^7-3|Sir 7.3]]; [[LXX Sirach 23#^23-1|23.1-4]]; [[LXX Sirach 39#^39-13|39.13]]; Philo, *Life of Moses* 1.328. ^2-11
 
@@ -59,7 +59,7 @@ Text: [[NRSVue 1 Thessalonians 02|NRSVue]] · [[1 Thessalonians 02|BSB and SBLGN
 
 *[[NRSVue 1 Thessalonians 02#^2-17|Text]], p. 422* ^2-17-2
 
-**[[NRSVue 1 Thessalonians 02#^2-18|18]]:** *Satan*, mentioned in the Gospels as tempting/testing Jesus ([[Matthew 04#^4-10|Mt 4.10]] || [[Mark 01#^1-13|Mk 1.13]]), by Paul also in [[1 Corinthians 05#^5-5|1 Cor 5.5]]; [[1 Corinthians 07#^7-5|7.5]]; [[2 Corinthians 02#^2-11|2 Cor 2.11]]; [[2 Corinthians 11#^11-14|11.14]]; etc.). “The Satan” is a member of the heavenly court ([[Job 02#^2-6|Job 2.6]]); for the rabbis, Satan is less the evil agent than one who tests the righteous (*b. Git.* 52a; *Pesiq. Rab.* 185b–186a). See also 3.5n. ^2-18
+**[[NRSVue 1 Thessalonians 02#^2-18|18]]:** *Satan*, mentioned in the Gospels as tempting/testing Jesus ([[Matthew 04#^4-10|Mt 4.10]] || [[Mark 01#^1-13|Mk 1.13]]), by Paul also in [[1 Corinthians 05#^5-5|1 Cor 5.5]]; [[1 Corinthians 07#^7-5|7.5]]; [[2 Corinthians 02#^2-11|2 Cor 2.11]]; [[2 Corinthians 11#^11-14|11.14]]; etc.). “The Satan” is a member of the heavenly court ([[Job 02#^2-6|Job 2.6]]); for the rabbis, Satan is less the evil agent than one who tests the righteous ([[Gittin 52#52a|*b. Git.* 52a]]; *Pesiq. Rab.* 185b–186a). See also 3.5n. ^2-18
 
 **[[NRSVue 1 Thessalonians 02#^2-19|19]]:** *Crown of boasting*, see [[Ezekiel 16#^16-12|Ezek 16.12]]; [[Ezekiel 23#^23-42|23.42]]; [[Proverbs 16#^16-31|Prov 16.31]]; Paul’s language suggests the crown of laurels given to the victor in an athletic contest (see also [[Philippians 03#^3-12|Phil 3.12–14]]). ^2-19
 

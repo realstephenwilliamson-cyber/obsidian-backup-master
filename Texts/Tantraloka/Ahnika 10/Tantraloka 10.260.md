@@ -33,6 +33,11 @@ mukhyā mātṛdaśā seyaṃ suṣuptākhyā nigadyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 461–462)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.259–260]]
+>
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.260]]
+
 *Lead-in:* इदमेव च जाग्रज्जाग्रदादिवन्मुख्यं सुषुप्तम् -- इत्याह --
 
 > मुख्या मातृदशा सेयं सुषुप्ताख्या निगद्यते ॥

@@ -34,6 +34,9 @@ bhāsate niyamenaiva bādhāśūnyena tāvati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 36–37)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.26–27]]
+
 > योगीच्छानन्तरोद्भूततथाभूताङ्कुरो यतः ।
 > इष्टे तथाविधाकारे नियमो भासते यतः ॥
 > स्वप्ने घटपटादीनां हेतुतद्वत्स्वभावता ।

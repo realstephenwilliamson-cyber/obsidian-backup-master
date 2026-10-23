@@ -34,6 +34,9 @@ tatsaṅghātaviparyāsavigrahairbhāsate tathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 93–95)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.78–79]]
+
 > तेन श्रीकिरणोक्तं यद्गुरुतः शास्त्रतः स्वतः ॥
 > त्रिप्रत्ययमिदं ज्ञानमिति यच्च निशाटने ।
 > तत्सङ्घातविपर्यासविग्रहैर्भासते तथा ॥

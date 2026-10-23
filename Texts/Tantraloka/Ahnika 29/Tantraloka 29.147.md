@@ -33,6 +33,11 @@ evaṃ trividhavimarśāveśasamāpattidhāmni ya udeti || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 329–331)
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.146–147]]
+>
+> ![[Tantraloka Dyczkowski v10 12 - Chapter Twenty-Nine, part 4#Viveka on 29.147–149]]
+
 *Lead-in:* तदेवमत्र त्रिविधेऽपि विसर्गे समावेशभाजां यः कश्चन स्वारसिकः परामर्शः परिस्फुरति तदेव परं मन्त्रवीर्यम्--इत्याह--
 
 Jayaratha comments on this verse together with 29.146: see [[Tantraloka 29.146#Viveka|29.146]].

@@ -35,6 +35,9 @@ guravaḥ pravicāraṇe yatastad viphalādveṣakalaṅkahāniyācñā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 482–483)
+> ![[Tantraloka Dyczkowski v01 13 - Chapter One, part 12#Viveka on 1.333]]
+
 *Lead-in:* ननु यद्येवं तर्हि एतच्छास्त्राधिगमाय केषाञ्चन परेषां विदुषामभ्यर्थना क्रियतां यदत्र यथावस्त्वेव बुद्ध्वा द्वेषो मा कार्यः ? इत्याशङ्क्याह --
 
 > इह गलितमलाः परावरज्ञाः शिवसद्भावमया अधिक्रियन्ते ।

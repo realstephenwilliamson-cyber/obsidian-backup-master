@@ -36,6 +36,11 @@ etadīśvaratattvaṃ tacchivasya vapurucyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 254–256)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.38–39]]
+>
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.39–40]]
+
 *Lead-in:* ननु परस्याः संविदो विश्वावभासकारित्वं नाम बहिरुन्मेष उच्यते तदेवमस्येश्वररूपत्वमुक्तं स्यादित्याह --
 
 > एतदीश्वरतत्त्वं तच्छिवस्य वपुरुच्यते ॥

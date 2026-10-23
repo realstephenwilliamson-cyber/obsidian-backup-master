@@ -36,6 +36,11 @@ tataḥ śiṣyasya tattattvasthāne'streṇa pratāḍanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 155–158)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.29–30]]
+>
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.30–33]]
+
 *Lead-in:* एवमेतत्प्रसङ्गादभिधाय प्रकृतमेवाह--
 
 Jayaratha comments on this verse together with 17.29: see [[Tantraloka 17.029#Viveka|17.29]].

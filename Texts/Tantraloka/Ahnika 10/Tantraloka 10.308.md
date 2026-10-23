@@ -31,6 +31,9 @@ maheśabhede trividhe jāgradādi nirūpitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 491–492)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.308]]
+
 > तत्र स्वरूपं शक्तिश्च सकलश्चेति तत्त्रयम् ।
 > इति जाग्रदवस्थेयं भेदे पञ्चदशात्मके ॥
 > अकलौ स्वप्नसौषुप्ते तुर्यं मन्त्रादिवर्गभाक् ।

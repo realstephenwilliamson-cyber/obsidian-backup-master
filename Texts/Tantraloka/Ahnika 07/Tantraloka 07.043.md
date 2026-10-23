@@ -34,5 +34,8 @@ nityodaye mahātattve udayasthe sadāśive || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, p. 31)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.42–44]]
+
 Jayaratha comments on this verse together with 7.44: see [[Tantraloka 07.044#Viveka|7.44]].
 

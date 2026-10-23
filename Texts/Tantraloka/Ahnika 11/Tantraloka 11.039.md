@@ -36,6 +36,11 @@ tena ṣaṭtriṃśato yāvadekatattvavidhirbhavet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 37–38)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.38–39]]
+>
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.39–40]]
+
 *Lead-in:* तदाह --
 
 > तेन षट्त्रिंशतो यावदेकतत्त्वविधिर्भवेत् ॥

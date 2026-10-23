@@ -34,6 +34,9 @@ dharāderviśvarūpatvaṃ pāñcadaśyādibhedataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 375–376)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.196]]
+
 *Lead-in:* एतच्च तत्रत्येनैव अर्थेन संवादयति --
 
 > तत एव द्वितीयेऽस्मिन्नधिकारे न्यरूप्यत ।

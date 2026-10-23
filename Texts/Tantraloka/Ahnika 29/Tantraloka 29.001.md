@@ -33,6 +33,13 @@ atha sarvāpyupāseyaṃ kulaprakriyayocyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 200–201)
+> ![[Tantraloka Dyczkowski v10 08 - Chapter Twenty-Nine, opening page#Viveka on 29.1]]
+>
+> ![[Tantraloka Dyczkowski v10 08 - Chapter Twenty-Nine, opening page#Viveka on 29.1–2]]
+>
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.1–2 (continued)]]
+
 *Lead-in:* इदानीं द्वितीयार्धेन रहस्यचर्चाविधिमभिधातुं प्रतिजानीते--
 
 > अथ समुचिताधिकारिण उद्दिश्य रहस्य उच्यतेऽत्र विधिः ।

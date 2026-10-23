@@ -36,6 +36,11 @@ dṛṣṭāḥ sāmrajyasaṃbhogaṃ nindantaḥ ke'pi bāliśāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 30–31)
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.21–22]]
+>
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.22–23]]
+
 *Lead-in:* ननु शिवशासनमाहात्म्यमजानन् चेदन्यत्र आसक्तो भवेत् तत् भवतु नाम, को दोषो, जानन् पुनः कथमेवम् ? -- इत्याशङ्क्याह --
 
 > दृष्टाः साम्रज्यसंभोगं निन्दन्तः केऽपि बालिशाः ॥

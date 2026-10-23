@@ -35,6 +35,9 @@ saṃvitspandastriśaktyātmā saṅkocapravikāsavān || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 98–99)
+> ![[Tantraloka Dyczkowski v04 05 - Chapter Five, part 3#Viveka on 5.79]]
+
 *Lead-in:* ननु संविदपेक्षयापि विमर्शस्यैव विश्रान्तिस्थानत्वं प्राधान्येन कस्मादुक्तम् ? इत्याशङ्क्याह -
 
 > अन्तर्बाह्ये द्वये वापि सामान्येतरसुन्दरः ।

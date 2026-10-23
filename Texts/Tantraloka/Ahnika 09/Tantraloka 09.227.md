@@ -31,6 +31,9 @@ puṃsprakāśaḥ sa vedyo'tra pratibimbatvamārchati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 214–215)
+> ![[Tantraloka Dyczkowski v06 08 - Chapter Nine, part 6#Viveka on 9.227]]
+
 *Lead-in:* एवमेतत्प्रसङ्गादभिधाय प्रकृतमेवाह --
 
 > गुणेभ्यो बुद्धितत्त्वं तत् सर्वतो निर्मलं ततः ।

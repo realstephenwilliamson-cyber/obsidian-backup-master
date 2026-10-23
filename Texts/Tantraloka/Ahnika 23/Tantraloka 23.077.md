@@ -31,6 +31,9 @@ tadanyaṃ lakṣaṇopetamāśrayetpunarunmukhaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 330–331)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.77]]
+
 *Lead-in:* ननु एवमन्तरा चेदस्य गुरोः पिण्डपातो वृत्तः, तदा अनेन किं कार्यम्?--इत्याशङ्क्याह--
 
 > अत एव पुराभूतगुर्वभावो यदा तदा ।

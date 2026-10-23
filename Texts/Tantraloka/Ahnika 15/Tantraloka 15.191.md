@@ -33,5 +33,10 @@ kṣiptvāstrajaptaṃ kusumaṃ jvaladveśmani vighnanut || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 117–119)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.190–191]]
+>
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.191–193]]
+
 Jayaratha comments on this verse together with 15.193: see [[Tantraloka 15.193#Viveka|15.193]].
 

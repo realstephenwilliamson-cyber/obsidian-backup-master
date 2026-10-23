@@ -33,6 +33,11 @@ bhavināṃ tvantiko'pyevaṃ na bhātītyatidūratā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 430–431)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.218–219]]
+>
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.219]]
+
 *Lead-in:* ननु यद्येवं शिवस्य चिदूर्पताप्राधान्यमेवान्तरत्वं तच्चितः स्वप्रकाशत्वात्सर्वत एव प्रकाशमानत्वं स्यादिति सर्वेषामेवान्तिकतमत्वात्सर्वदैव कस्मान्न भायात् ? -- इत्याशङ्क्याह --
 
 > भविनां त्वन्तिकोऽप्येवं न भातीत्यतिदूरता ॥

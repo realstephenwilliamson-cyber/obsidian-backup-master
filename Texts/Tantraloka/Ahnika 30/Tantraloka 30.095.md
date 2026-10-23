@@ -31,6 +31,9 @@ hṛdayaṃ bhairavākhyaṃ tu sarvasaṃhārakārakam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 54–55)
+> ![[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#Viveka on 30.94–95]]
+
 > तारो माया वेदकलो मातृतारो नवात्मकः ॥
 > इति पञ्चाक्षराणि स्युःप्रोक्तव्याप्त्यनुसारतः ।
 > बिन्दुप्राणामृतजलं मरुत्षष्ठस्वरान्वितम् ॥

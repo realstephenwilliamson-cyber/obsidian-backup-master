@@ -34,6 +34,9 @@ malamāyākhyakarmāṇi mantradhyānakriyābalāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 235)
+> ![[Tantraloka Dyczkowski v09 11 - Chapter Twenty#Viveka on 20.5–7]]
+
 *Lead-in:* स्वसूतिकरणाक्षमत्वमेव व्याचष्टे--
 
 Jayaratha comments on this verse together with 20.7: see [[Tantraloka 20.007#Viveka|20.7]].

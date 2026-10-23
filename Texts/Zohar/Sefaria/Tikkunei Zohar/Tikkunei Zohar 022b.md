@@ -285,10 +285,10 @@ which is Tipheret.
 [^8]: *bat’ayin*
 [^9]: *anokhi*
 [^10]: *Anokhi*
-[^11]: *BT* Berakhot 5b
+[^11]: *BT* [[Berakhot 5#5b|Berakhot 5b]]
 [^12]: ‘I’
 [^13]: Binah
-[^14]: *BT* Sanhedrin 97b
+[^14]: *BT* [[Sanhedrin 97#97b|Sanhedrin 97b]]
 [^15]: *qino*
 [^16]: nest
 [^17]: ו

@@ -33,6 +33,11 @@ muktyekārthī punaḥ pūrvaṃ śāktaṃ nyāsaṃ samācaret || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 152–154)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.254–255]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.255]]
+
 *Lead-in:* ननु अयं शैवः शाक्तो वा न्यासः किमिति यौगपद्येनैव?--क्रियते इत्याशङ्क्य आह--
 
 > मुक्त्येकार्थी पुनः पूर्वं शाक्तं न्यासं समाचरेत् ॥

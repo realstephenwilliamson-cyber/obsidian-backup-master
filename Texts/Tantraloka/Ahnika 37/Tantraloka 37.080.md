@@ -36,6 +36,9 @@ tatraiva tṛṣṇā vavṛdhe nikāmam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 265)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.80]]
+
 *Lead-in:* सच्चरितकृतमेव अभिनवत्वं दर्शयति--
 
 > पीतेन विज्ञानरसेन यस्य

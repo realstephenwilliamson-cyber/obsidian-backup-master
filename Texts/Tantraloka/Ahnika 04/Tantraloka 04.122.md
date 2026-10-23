@@ -36,6 +36,11 @@ tathāhi saṃvideveyamantarbāhyobhayātmanā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 142–151)
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.121–122]]
+>
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.122–123]]
+
 *Lead-in:* ननु कथमन्यस्य अन्येनैकीकार एव भवेत् यदपि पूजादेर्लक्षणतयोच्येत ? इत्याशङ्क्याह --
 
 > तथाहि संविदेवेयमन्तर्बाह्योभयात्मना ॥

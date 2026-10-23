@@ -31,6 +31,9 @@ yadrūpaṃ jāgradādīnāṃ tadidānīṃ nirūpyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 479–480)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.288]]
+
 *Lead-in:* इदानीमेषामेव गुर्वन्तरमताभिप्रायेणापि स्वरूपं निरूपयितुमुपक्रमते --
 
 > अन्ये तु कथयन्त्येषां भङ्गीमन्यादृशीं श्रिताः ।

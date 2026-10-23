@@ -39,6 +39,9 @@ kallolakelikalanāmalakarṇadhārāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 62–65)
+> ![[Tantraloka Dyczkowski v01 03 - Chapter One, part 2#Viveka on 1.8]]
+
 > त्रैयम्बकाभिहितसन्ततिताम्रपर्णी
 > सन्मौक्तिकप्रकरकान्तिविशेषभाजः ।
 > पूर्वे जयन्ति गुरवो गुरुशास्त्रसिन्धु

@@ -31,6 +31,9 @@ pūjodāharaṇe sarvaṃ vyaśnute gamanādyapi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 96)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.148]]
+
 *Lead-in:* ननु तदैव नियतानां यष्ट्रदीनां शिवाव्यतिरेकभावनेन कोऽर्थः, उत्तरकालं हि सर्वत्र तद्व्यतिरेकेणैव प्रतिभासः?-- इत्याशङ्क्य आह--
 
 > समस्तं कारकव्रातं शिवाभिन्नं प्रदर्शितम् ।

@@ -34,6 +34,9 @@ iyataḥ sṛṣṭisaṃhārāḍambarasya pradarśakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 67–68)
+> ![[Tantraloka Dyczkowski v02 04 - Chapter Three, part 1#Viveka on 3.3]]
+
 *Lead-in:* ननु यद्येवं तर्हि प्रकाश एव प्रकाशते इति विश्वस्य अवभास एव न स्यात्, अथ च भासते विश्वमिति किमेतत् ? इत्याशङ्क्याह --
 
 > अतोऽसौ परमेशानः स्वात्मव्योमन्यनर्गलः ।

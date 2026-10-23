@@ -31,6 +31,9 @@ sphuṭendriyāditattvastu sakalātmeti bhaṇyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 101)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.224–227]]
+
 > उक्तं च गह्वराभिख्ये शास्त्रे शीतांशुमौलिना ॥
 > यथा गृहं विनिष्पाद्य गृही समधितिष्ठति ।
 > तथा देही तनुं कृत्वा क्रियादिगुणवर्जितः ॥

@@ -147,7 +147,7 @@ Your awe is invigorated, the love in your soul expands.
 
 [^1]: Moses de León, *The Book of the Pomegranate: Sefer ha-Rimmon,* ed. Elliot R. Wolfson (Atlanta: Scholars Press, 1988), 388; see Daniel C. Matt, “The Mystic and the *Mitsvot,”* in *Jewish Spirituality: From the Bible through the Middle Ages,* ed. Arthur Green (New York: Crossroad, 1986), 390.
 
-[^2]: Babylonian Talmud, *Hagigah* 14b.
+[^2]: Babylonian Talmud, [[Chagigah 14#14b|*Hagigah* 14b]].
 
 [^3]: On the complex question of the composition of the Zohar, see Gershom Scholem, *Major Trends in Jewish Mysticism,* 3d rev. ed. (New York: Schocken, 1961), 156–204; Daniel C. Matt, *Zohar: The Book of Enlightenment* (Mahwah, NJ: Paulist Press, 1983), 3–10; 25–32; Isaiah Tishhy and Fischel Lachower, *The Wisdom of the Zohar* (New York: Oxford University Press, 1989), 1, introduction; Yehuda Liebes, “How the *Zohar* Was Written,” in *Studies in the Zohar* (Albany: State University of New York Press, 1993), 85–138.
 

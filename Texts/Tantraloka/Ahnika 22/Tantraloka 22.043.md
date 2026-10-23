@@ -31,6 +31,9 @@ yo'pi hṛtsthamaheśānacodanātaḥ suvistṛtam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 292–293)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.43–44]]
+
 *Lead-in:* न केवलमयोग्ये गुरौ गुर्वन्तरमाश्रयेत्, यावद्योग्येऽपि--इत्याह--
 
 Jayaratha comments on this verse together with 22.44: see [[Tantraloka 22.044#Viveka|22.44]].

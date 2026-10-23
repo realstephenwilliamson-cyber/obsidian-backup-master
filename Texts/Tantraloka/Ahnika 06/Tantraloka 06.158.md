@@ -37,6 +37,13 @@ prāṇagarbhasthamapyatra viśvaṃ sauṣumnavartmanā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 375–377)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 6.160–161.*
+>
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.157–158]]
+>
+> ![[Tantraloka Dyczkowski v04 12 - Chapter Six, part 5#Viveka on 6.160–161]]
+
 *Lead-in:* न केवलमात्र नादात्मनः प्राणस्यैव प्रशमो यावद् बिन्द्वाद्यात्मिकायाः संविदोऽपि भविष्यति -- इत्याह --
 
 Jayaratha comments on this verse together with 6.157: see [[Tantraloka 06.157#Viveka|6.157]].

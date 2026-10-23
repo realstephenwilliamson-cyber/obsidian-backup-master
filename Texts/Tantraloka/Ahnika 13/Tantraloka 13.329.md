@@ -31,6 +31,9 @@ sadāśivādye svabhyastajñānitvādeva yojakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 328–329)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.329]]
+
 *Lead-in:* इत्याद्युक्त्या योगिनोऽपि मोक्षकारणत्वमुक्तं तत्कथमिह भावनामयस्यैव ज्ञानस्य तदेककारणत्वमुच्यते? -- इत्याशङ्क्याह --
 
 > योगी तु प्राप्ततत्तत्त्वसिद्धिरप्युत्तमे पदे ।

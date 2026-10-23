@@ -28,8 +28,14 @@ All in `Texts/Bible` ([[Bible]]):
 ## Mishnah, Zohar and Chasidut
 
 - [[Pirkei Avot]]
+- [[Talmud]]: the Babylonian Talmud in English (William Davidson edition), one note per daf
 - [[Zohar]]
-- [[Chasidut]]: [[Tanya]] · [[Mei HaShiloach]]
+- [[Chasidut]]: [[Tanya]] · [[Mei HaShiloach]] · [[Kedushat Levi]] · [[Likutei Moharan]]
+
+## Maimonides and halakhah
+
+- [[Maimonides]]: [[Mishneh Torah]] · [[Guide for the Perplexed]] · [[Eight Chapters]] · [[Rambam Introduction to the Mishnah]]
+- [[Kitzur Shulchan Arukh]]
 
 ## Fathers and Aquinas
 

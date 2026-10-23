@@ -31,6 +31,9 @@ na rūkṣavakraśakaladīrghanimnasabinduke |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 411–412)
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.25–28]]
+
 > गुरवस्तु विधौ काम्ये यत्नाद्दोषांस्त्यजेदिति ।
 > व्याचक्षते पिचुप्रोक्तं न नित्ये कर्मणीत्यदः ॥
 > श्रीसिद्धातन्त्र उक्तं च तूरलक्षणमुत्तमम् ।

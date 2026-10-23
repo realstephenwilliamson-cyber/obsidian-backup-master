@@ -34,6 +34,9 @@ janmāntamadhyakuharamūlasrotaḥsamutthitam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 174–175)
+> ![[Tantraloka Dyczkowski v09 08 - Chapter Seventeen#Viveka on 17.83–85]]
+
 > उक्तं त्रैशिरसे तन्त्रे सर्वसंपूरणात्मकम् ।
 > मूलादुदयगत्या तु शिवेन्दुपरिसंप्लुतम् ॥
 > जन्मान्तमध्यकुहरमूलस्रोतःसमुत्थितम् ।

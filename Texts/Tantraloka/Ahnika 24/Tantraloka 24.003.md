@@ -31,6 +31,9 @@ antyeṣṭidīkṣā kartavyā guruṇā tattvavedinā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 343)
+> ![[Tantraloka Dyczkowski v09 15 - Chapter Twenty-Four#Viveka on 24.2–3]]
+
 > सर्वेषामधरस्थानां गुर्वन्तानामपि स्फुटम् ।
 > शक्तिपातात्पुराप्रोक्तात्कुर्यादन्त्येष्टिदीक्षणम् ॥
 > ऊर्ध्वशासनगानां च समयोपहतात्मनाम् ।

@@ -36,6 +36,11 @@ itthaṃ ca vihitasnānastarpitānantadevataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 136–138)
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.116–117]]
+>
+> ![[Tantraloka Dyczkowski v03 05 - Chapter Four, part 4#Viveka on 4.117–118]]
+
 *Lead-in:* ननु बाह्येन स्नानेन नित्यादौ कर्मण्यधिकारो देहादौ च शुद्धिर्भवेत्, अस्य पुनरेवं विधस्य किं फलम् ? -- इत्याशङ्क्याह --
 
 > इत्थं च विहितस्नानस्तर्पितानन्तदेवतः ॥

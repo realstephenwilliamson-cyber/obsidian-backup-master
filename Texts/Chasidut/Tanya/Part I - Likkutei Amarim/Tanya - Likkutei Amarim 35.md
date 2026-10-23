@@ -56,8 +56,8 @@ Clearly, any such diffusion of the light of the *Shechinah*, that is, the revela
 [^8]: Above, ch. 9.
 [^9]: [[Jeremiah 10#^10-10|Jeremiah 10:10]].
 [^10]: [[Isaiah 45#^45-6|Isaiah 45:6]].
-[^11]: *Berachot* 6a.
+[^11]: [[Berakhot 6#6a|*Berachot* 6a]].
 [^12]: Ch. 13.
 [^13]: See above, pp. 157 and 159.
-[^14]: *Sanhedrin* 39a.
+[^14]: [[Sanhedrin 39#39a|*Sanhedrin* 39a]].
 [^15]: Ibid.

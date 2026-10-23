@@ -34,6 +34,11 @@ sambhāvanāṃ nirasyaitadabhāve mokṣamabravīt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 122–123)
+> ![[Tantraloka Dyczkowski v01 04 - Chapter One, part 3#Viveka on 1.24]]
+>
+> ![[Tantraloka Dyczkowski v01 05 - Chapter One, part 4#Viveka on 1.24 (continued)]]
+
 *Lead-in:* अज्ञानस्य पौरुषबौद्धात्मकत्वेन द्वैविध्येऽपि इह पौरुषमेव विवक्षितं स्यान्नान्यत् इत्याह—
 
 > विशेषणेन बुद्धिस्थे संसारोत्तरकालिके ।

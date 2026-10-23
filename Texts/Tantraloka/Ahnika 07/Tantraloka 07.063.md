@@ -36,6 +36,11 @@ ataḥ saṃvitpratiṣṭhānau yato viśvalayodayau || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 42–44)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.62–63]]
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.63–64]]
+
 *Lead-in:* एवं संविदधीनावेव विश्वस्य सृष्टिसंहारावित्याह --
 
 > अतः संवित्प्रतिष्ठानौ यतो विश्वलयोदयौ ॥

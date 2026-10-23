@@ -33,6 +33,11 @@ evaṃ yo veda tattvena tasya nirvāṇagāminī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 217–218)
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.149–151]]
+>
+> ![[Tantraloka Dyczkowski v07 07 - Chapter Thirteen, part 3#Viveka on 13.151–154]]
+
 *Lead-in:* यदागम इत्याह -
 
 Jayaratha comments on this verse together with 13.150: see [[Tantraloka 13.150#Viveka|13.150]].

@@ -31,6 +31,9 @@ pūjyaṃ cakrānusāreṇa tattaccakramidaṃ tviti || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 45–46)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.82–84]]
+
 > मध्ये गुरुर्भवेत्तेषां गुरुवर्गस्तदावृतिः ॥
 > तिस्र आवृतयो बाह्ये समययन्ता यथाक्रमम् ।
 > पङ्क्तिक्रमेण वा सर्वे मध्ये तेषां गुरुः सदा ॥

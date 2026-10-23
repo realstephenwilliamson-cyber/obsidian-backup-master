@@ -33,6 +33,11 @@ vidyāpīṭhapradhānaṃ ca siddhayogīśvarīmatam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 236–237)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.22–24]]
+>
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.24–25]]
+
 *Lead-in:* एतदेव प्रकृते विश्रमयति--
 
 > विद्यापीठप्रधानं च सिद्धयोगीश्वरीमतम् ॥

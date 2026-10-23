@@ -34,6 +34,9 @@ pakṣeṇa sādhako'rdhārdhāt putrakaḥ samayī tathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 81–82)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.63–64]]
+
 > तत्रैव च पुनः श्रीमद्रक्ताराधनकर्मणि ॥
 > विधिं प्रोक्तं सदा कुर्वन् मासेनाचार्य उच्यते ।
 > पक्षेण साधकोऽर्धार्धात् पुत्रकः समयी तथा ॥

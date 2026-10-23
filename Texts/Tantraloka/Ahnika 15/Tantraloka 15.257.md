@@ -31,6 +31,9 @@ tāvatsvapyeṣu mantreṣu nyāsaḥ ṣoḍhaiva kīrtitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 155–156)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.257–258]]
+
 *Lead-in:* न च अत्रैव अयं क्रमः--इत्याह--
 
 Jayaratha comments on this verse together with 15.258: see [[Tantraloka 15.258#Viveka|15.258]].

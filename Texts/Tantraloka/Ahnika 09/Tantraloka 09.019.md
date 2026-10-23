@@ -36,6 +36,11 @@ tasya tarhi kramaḥ ko'sau tadanyānupalambhataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 31–32)
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.18–19]]
+>
+> ![[Tantraloka Dyczkowski v06 03 - Chapter Nine, part 1#Viveka on 9.19]]
+
 *Lead-in:* अत्रापि स एव पर्यनुयोगः -- इत्याह --
 
 > तस्य तर्हि क्रमः कोऽसौ तदन्यानुपलम्भतः ॥

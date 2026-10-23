@@ -33,6 +33,11 @@ svātantryāttu maheśasya te'pi cecchivatonmukhāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 297–298)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.280–281]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.281–282]]
+
 *Lead-in:* नन्वेषामपि कदाचिदनुग्राहिका शैवी शक्तिश्चेत्संबध्यते, तदा किं कर्तव्यम्? -- इत्याशङ्क्याह --
 
 > स्वातन्त्र्यात्तु महेशस्य तेऽपि चेच्छिवतोन्मुखाः ॥

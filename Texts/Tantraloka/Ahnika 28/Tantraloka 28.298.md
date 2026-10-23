@@ -31,6 +31,9 @@ sthitaṃ cānuviśantyevaṃ cittaṃ sarvākṣavṛttayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 129)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.298]]
+
 *Lead-in:* ननु प्राणादेरिन्द्रियचक्रस्य मनोऽनुगामित्वमेव कस्मात् ?-- इत्याशङ्कां दृष्टान्तदिशा उपशमयति--
 
 > मक्षिका मक्षिकाराजं यथोत्थितमनूत्थिताः ।

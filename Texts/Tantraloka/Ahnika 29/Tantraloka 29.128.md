@@ -33,6 +33,11 @@ tadapi ca mitho hi vaktrātpradhānato vaktragaṃ yato bhaṇitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 318–320)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.127–128]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.128–129]]
+
 *Lead-in:* कथञ्च अत्र आहरणादि स्यात् ?--इत्याशङ्क्य आह--
 
 > तदपि च मिथो हि वक्त्रात्प्रधानतो वक्त्रगं यतो भणितम् ॥

@@ -31,6 +31,9 @@ yadvā samudite rūpe maṇḍalasthe ca tādṛśi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 229–230)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.25–27]]
+
 > अर्कांगुलेऽथ तद्द्वित्रिगुणे रक्तपटे शुभे ।
 > व्योम्नि सिन्दूरसुभगे राजवर्त्तभृतेऽथवा ॥
 > नारिकेलात्मके काद्ये मद्यपूर्णेऽथ भाजने ।

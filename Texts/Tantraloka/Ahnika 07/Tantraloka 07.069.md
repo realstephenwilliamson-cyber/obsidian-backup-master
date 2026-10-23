@@ -34,6 +34,9 @@ dvādaśāntāvadhiṃ kiṃcitsūkṣmakālasthitiṃ viduḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 47–48)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.68–70]]
+
 > पादाङ्गुष्ठादिकोर्ध्वस्थब्रह्मकुण्डलिकान्तगः ॥
 > कालः समस्तश्चतुरशीतावेवाङ्गुलेष्वितः ।
 > द्वादशान्तावधिं किंचित्सूक्ष्मकालस्थितिं विदुः ॥

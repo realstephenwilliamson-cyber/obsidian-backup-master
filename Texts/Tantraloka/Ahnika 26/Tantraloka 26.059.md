@@ -34,6 +34,9 @@ mumukṣorna viśeṣāya naiḥśreyasavidhiṃ prati || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 391)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.58–59]]
+
 > देशकालानुसन्धानगुणद्रव्यक्रियादिभिः ।
 > स्वल्पा क्रिया भूयसी वा हृदयाह्लाददायिभिः ॥
 > बाह्यैः सङ्कल्पजैर्वापि कारकैः परिकल्पिता ।

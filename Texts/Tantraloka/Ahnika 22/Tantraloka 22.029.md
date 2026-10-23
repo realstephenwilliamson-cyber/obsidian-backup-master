@@ -31,5 +31,8 @@ punarbhuvo'pi jñāneddhā bhavanti gurutāspadam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 287)
+> ![[Tantraloka Dyczkowski v09 13 - Chapter Twenty-Two#Viveka on 22.28–31]]
+
 Jayaratha comments on this verse together with 22.30: see [[Tantraloka 22.030#Viveka|22.30]].
 

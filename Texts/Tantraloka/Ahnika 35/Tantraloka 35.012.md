@@ -33,6 +33,11 @@ vyavahāro hi naikatra samastaḥ ko'pi mātari || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 197–198)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.11–12]]
+>
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.12–13]]
+
 *Lead-in:* ननु एवं पूर्वपूर्वप्रसिद्ध्युपजीवनमात्रेण असर्वज्ञ एव समस्तोऽयमस्तु व्यवहारः, किं सर्वज्ञस्यापि परिकल्पनेन?-- इत्याशङ्क्य आह--
 
 > व्यवहारो हि नैकत्र समस्तः कोऽपि मातरि ॥

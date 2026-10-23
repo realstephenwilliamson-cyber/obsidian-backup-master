@@ -35,6 +35,9 @@ bahirābhāsayatyeva drāksāmānyaviśeṣataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 435)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.257]]
+
 *Lead-in:* तदाह --
 
 > बोधो हि बोधरूपत्वादन्तर्नानाकृतीः स्थिताः ।

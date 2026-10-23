@@ -55,7 +55,7 @@ But he who has not attained this dimension of savoring the nature of the World t
 [^2]: Cf. Nachmanides, *Shaar HaGemul*.
 [^3]: [[Zohar 3.07 - Parashat Va-Yhi#^z1-233b|I:233b]].
 [^4]: [[Ecclesiastes 01#^1-3|Ecclesiastes 1:3]], with emphasis on “his labor” and on “under the sun.”
-[^5]: *Pesachim* 50a.
+[^5]: [[Pesachim 50#50a|*Pesachim* 50a]].
 [^6]: *Tikkunei Zohar* 57.
 [^7]: Ibid., Introduction.
 [^8]: [[Isaiah 45#^45-15|Isaiah 45:15]].
@@ -65,8 +65,8 @@ But he who has not attained this dimension of savoring the nature of the World t
 [^12]: THE HIGHEST RANKING ANGEL.
 [^13]: REFERRING TO THE NAME OF *HAVAYA*.
 [^14]: DEUTERONOMY 29:28.
-[^15]: *Chullin* 56b.
+[^15]: [[Chullin 56#56b|*Chullin* 56b]].
 [^16]: See Maimonides, *Sefer Hamitzvot*, Precepts 3 & 4.
 [^17]: See above, chs. 9, 14.
-[^18]: *Eruvin* 22a.
+[^18]: [[Eruvin 22#22a|*Eruvin* 22a]].
 [^19]: [[Isaiah 55#^55-1|Isaiah 55:1]].

@@ -31,6 +31,9 @@ dehopakārasantānā jñāteye pariniṣṭhitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 89)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.195]]
+
 *Lead-in:* नन्वत्र कस्मान्न यौन संबन्धः ?--इत्याशङ्क्य आह--
 
 > वीर्यारुणपरीणामदेहाहन्ताप्रतिष्ठिताः ।

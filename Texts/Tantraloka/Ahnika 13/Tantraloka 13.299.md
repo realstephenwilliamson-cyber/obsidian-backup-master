@@ -31,6 +31,9 @@ samayyādicatuṣkasya samāsavyāsayogataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 308)
+> ![[Tantraloka Dyczkowski v07 10 - Chapter Thirteen, part 6#Viveka on 13.295–300]]
+
 > कश्चिद्रुद्रांशतामात्रापादनात्तत्प्रसादतः ॥
 > शिवत्वं क्रमशो गच्छेत् समयी यो निरूप्यते ।
 > कश्चिच्छुद्धाध्वबन्धः सन् पुत्रकः शीघ्रमक्रमात् ॥

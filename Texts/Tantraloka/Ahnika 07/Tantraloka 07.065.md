@@ -36,6 +36,11 @@ prāṇe pratiṣṭhitaḥ kālastadāviṣṭā ca yattanuḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 44–45)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.64–65]]
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.65–66]]
+
 *Lead-in:* इति । (मा.वि. १८ ।४२) ननु भवतु नामैतत् तत्राप्यस्य प्राणस्य देहनिष्ठत्वेन कस्माद्रूपमुच्यते ? -- इत्याशङ्क्याह --
 
 > प्राणे प्रतिष्ठितः कालस्तदाविष्टा च यत्तनुः ॥

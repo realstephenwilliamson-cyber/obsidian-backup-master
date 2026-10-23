@@ -34,5 +34,10 @@ yadi putrakadīkṣāsya na kāryā samanantaram || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 348)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 15.611–613.*
+>
+> ![[Tantraloka Dyczkowski v08 10 - Chapter Fifteen, part 9#Viveka on 15.611–613]]
+
 Jayaratha comments on this verse together with 15.612: see [[Tantraloka 15.612#Viveka|15.612]].
 

@@ -33,6 +33,11 @@ yoginaḥ paradehādijīvattāpādane nijam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 93–94)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.205–206]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.206–207]]
+
 *Lead-in:* न च अत्र कस्यचिद्विप्रतिपत्तिः--इत्याह--
 
 > योगिनः परदेहादिजीवत्तापादने निजम् ॥

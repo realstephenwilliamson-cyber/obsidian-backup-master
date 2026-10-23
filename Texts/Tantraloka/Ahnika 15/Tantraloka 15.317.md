@@ -31,6 +31,9 @@ etānyeva tu tattvāni pūjakatvaṃ prayāntyalam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 190)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.315–317]]
+
 > अत्र सर्वाणि तत्त्वानि भेदप्राणानि यत्ततः ।
 > आसनत्वेन भिन्नं हि संविदो विषयः स्मृतः ॥
 > एतान्येव तु तत्त्वानि लीनानि परभैरवे ।

@@ -31,6 +31,9 @@ bāhyārcādi vinaiva hi vrajati paraṃ dhāma dehānte || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 59)
+> ![[Tantraloka Dyczkowski v11 03 - Chapter Thirty, part 2#Viveka on 30.106]]
+
 > श्रीनाथ आर्य भगवन्नेतत्त्रितयं हि कन्द आधारे ।
 > वरुणो मच्छन्दो भगदत्त इति त्रयमिदं हृदये ॥
 > धर्मादिवर्गसंज्ञाश्चत्वारः कण्ठदेशगाः पूज्याः ।

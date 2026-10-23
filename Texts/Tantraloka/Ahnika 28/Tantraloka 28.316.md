@@ -31,6 +31,9 @@ bhedapradatvenaiṣāpi dhvastā tena viśokatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 136)
+> ![[Tantraloka Dyczkowski v10 06 - Chapter Twenty-Eight, part 4#Viveka on 28.316]]
+
 *Lead-in:* ननु यद्येवं ज्ञानसमकालमेव मुक्तः, किं कैवल्यं यातीत्युक्तम्?-- इत्याशङ्क्य आह--
 
 > कैवल्यमिति चाशङ्कापदं याप्यभवत्तनुः ।

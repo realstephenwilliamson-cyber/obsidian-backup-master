@@ -35,6 +35,9 @@ evaṃ sasthānavarṇānāmantaḥ sā sārṇasantatiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 427–428)
+> ![[Tantraloka Dyczkowski v04 13 - Chapter Six, part 6#Viveka on 6.222]]
+
 *Lead-in:* एतदेवान्यत्राप्यतिदिशति --
 
 > कादिपञ्चकमाद्यस्य वर्णस्यान्तः सदोदितम् ।

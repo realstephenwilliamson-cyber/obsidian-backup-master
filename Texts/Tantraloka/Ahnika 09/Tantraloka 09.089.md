@@ -33,6 +33,11 @@ ata eva sāṃkhyayogapāñcarātrādiśāsane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 88–90)
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.88–89]]
+>
+> ![[Tantraloka Dyczkowski v06 05 - Chapter Nine, part 3#Viveka on 9.89–90]]
+
 *Lead-in:* एवं यतः कर्मवशादेव विचित्रः संसारः समुद्भवेत् अतः सर्वेषां तदुच्छेदायैव यत्नः -- इत्याह -
 
 > अत एव सांख्ययोगपाञ्चरात्रादिशासने ॥

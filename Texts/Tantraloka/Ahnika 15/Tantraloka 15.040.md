@@ -33,6 +33,11 @@ bahvīṣu tāsu tāsveṣa kriyāsu śivatāṃ hṛdi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 35–36)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.39–40]]
+>
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.40–42]]
+
 *Lead-in:* ननु यद्येककस्य स्नानादेः शिवतावेशं प्रति उपायत्वं तत्किमेभिर्बहुभिरुपदिष्टैः ?--इत्याशङ्क्याह—
 
 Jayaratha comments on this verse together with 15.39: see [[Tantraloka 15.039#Viveka|15.39]].

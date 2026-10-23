@@ -35,6 +35,9 @@ tacchodhitamiti gaṇanāṃ na punaḥ prāptaṃ pratiṣṭhāyām || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 380–381)
+> ![[Tantraloka Dyczkowski v05 11 - Chapter Eight, part 9#Viveka on 8.417–418]]
+
 *Lead-in:* नन्वत्र जलादौ सवेषु तत्त्वेषु भुवनानि शोध्यतयोक्तानि प्रकृतौ पुनः कस्मान्न ? -- इत्याशङ्क्याह -
 
 Jayaratha comments on this verse together with 8.427: see [[Tantraloka 08.427#Viveka|8.427]].

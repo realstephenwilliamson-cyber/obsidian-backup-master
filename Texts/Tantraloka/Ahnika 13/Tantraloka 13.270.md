@@ -33,6 +33,11 @@ yathā svātantryato rājāpyanugṛhṇāti kañcana || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 291–292)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.268–270]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.270–271]]
+
 *Lead-in:* ननु मायाध्वमध्यवर्तिनो विष्णुविरिञ्चादेः कथङ्कारमवरे भोगादिमयेऽप्यनुग्रहे सामर्थ्यम्? -- इत्याशङ्कां दृष्टान्तप्रदर्शनेन शिथिलयति --
 
 > यथा स्वातन्त्र्यतो राजाप्यनुगृह्णाति कञ्चन ॥

@@ -31,5 +31,8 @@ svasaṃvitpūrṇatālābhasamayaḥ parva bhaṇyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 12–13)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.15–18]]
+
 Jayaratha comments on this verse together with 28.17: see [[Tantraloka 28.017#Viveka|28.17]].
 

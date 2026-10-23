@@ -31,6 +31,9 @@ ayatnato'ntarantaḥ syānnairmalyaṃ snāyatāṃ tataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 37–38)
+> ![[Tantraloka Dyczkowski v08 02 - Chapter Fifteen, part 1#Viveka on 15.46]]
+
 *Lead-in:* इति देवो न्यरूपयत्--
 
 > इति प्राच्येन संबन्धः ।

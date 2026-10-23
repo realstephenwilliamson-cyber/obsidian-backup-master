@@ -31,6 +31,9 @@ avasthāpañcakaṃ proktabhedaṃ tasmai nirūpayet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 372)
+> ![[Tantraloka Dyczkowski v10 13 - Chapter Twenty-Nine, part 5#Viveka on 29.224]]
+
 *Lead-in:* एतदेव अन्यत्रापि अतिदिशति--
 
 > पिण्डस्थादि च पूर्वोक्तं सर्वातीतावसानकम् ।

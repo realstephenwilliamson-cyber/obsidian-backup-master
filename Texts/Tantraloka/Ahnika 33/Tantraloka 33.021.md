@@ -31,6 +31,9 @@ tayoreva vibhāge tu śaktitadvatprakalpane |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 178–179)
+> ![[Tantraloka Dyczkowski v11 07 - Chapter Thirty-Three#Viveka on 33.20–21]]
+
 > एक एव चिदात्मैष विश्वामर्शनसारकः ।
 > शक्तिस्तद्वानतो माता शब्दराशिः प्रकीर्तितौ ॥
 > तयोरेव विभागे तु शक्तितद्वत्प्रकल्पने ।

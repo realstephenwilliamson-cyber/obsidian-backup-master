@@ -34,6 +34,9 @@ haṃsaḥ pumānadhastasya rudrabindusamanvitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 217)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.21–22]]
+
 *Lead-in:* न च एतदस्मच्छास्त्र एवोक्तम्--इत्याह--
 
 Jayaratha comments on this verse together with 19.22: see [[Tantraloka 19.022#Viveka|19.22]].

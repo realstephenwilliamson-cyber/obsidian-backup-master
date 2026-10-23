@@ -35,6 +35,9 @@ sāmrājyameva viśvatra pratibimbasya jṛmbhate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 125)
+> ![[Tantraloka Dyczkowski v02 05 - Chapter Three, part 2#Viveka on 3.51]]
+
 *Lead-in:* एतदेवोपसंहरति—
 
 > इत्थमेतत्स्वसंवित्तिदृढन्यायास्त्ररक्षितम् ।

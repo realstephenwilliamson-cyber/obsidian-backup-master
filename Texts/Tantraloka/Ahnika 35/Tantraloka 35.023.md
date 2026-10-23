@@ -31,6 +31,9 @@ darśito yaḥ pravṛtte ca nivṛtte ca pathi sthitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 203)
+> ![[Tantraloka Dyczkowski v11 09 - Chapter Thirty-Five#Viveka on 35.23]]
+
 *Lead-in:* ननु शैवबौद्धादिभिदा बहुधा इयं प्रसिद्धिरिति कस्मादवश्यभाविशिवत्वस्य शैवीमेव प्रसिद्धिं प्रति बहुमानः-- इत्याशङ्क्य आह--
 
 > एक एवागमश्चायं विभुना सर्वदर्शिना ।

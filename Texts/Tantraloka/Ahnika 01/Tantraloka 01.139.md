@@ -34,6 +34,9 @@ samāpya paratāṃ sthaulyaprasaṅge carcayiṣyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 305–306)
+> ![[Tantraloka Dyczkowski v01 09 - Chapter One, part 8#Viveka on 1.139]]
+
 *Lead-in:* किं च तत्तारतम्यम् ? इत्याशङ्क्याह --
 
 > तद्विस्तरेण वक्ष्यामः शक्तिपातविनिर्णये ।

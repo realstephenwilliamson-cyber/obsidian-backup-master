@@ -34,6 +34,9 @@ niḥsārayanyathābhīṣṭe sakale niṣkale dvaye || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 220)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.29–31]]
+
 > विनापि क्रियया भाविब्रह्मविद्याबलाद् गुरुः ॥
 > कर्णजापप्रयोगेण तत्त्वकञ्चुकजालतः ।
 > निःसारयन्यथाभीष्टे सकले निष्कले द्वये ॥

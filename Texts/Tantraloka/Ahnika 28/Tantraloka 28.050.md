@@ -31,6 +31,9 @@ velātra na pradhānaṃ yuktaṃ caitattathāhi parameśaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 29–30)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.50–51]]
+
 *Lead-in:* अतश्च तिथेरेव मुख्यत्वम्--इत्याह--
 
 Jayaratha comments on this verse together with 28.51: see [[Tantraloka 28.051#Viveka|28.51]].

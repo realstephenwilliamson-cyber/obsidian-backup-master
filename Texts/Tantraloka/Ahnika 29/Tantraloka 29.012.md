@@ -31,5 +31,8 @@ drākṣotthaṃ tu paraṃ tejo bhairavaṃ kalpanojjhitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 209–216)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.11–13]]
+
 Jayaratha comments on this verse together with 29.13: see [[Tantraloka 29.013#Viveka|29.13]].
 

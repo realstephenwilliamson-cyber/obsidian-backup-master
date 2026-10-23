@@ -31,6 +31,9 @@ varṇāstatra layaṃ yānti hyavarṇe varṇarūpiṇi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 155)
+> ![[Tantraloka Dyczkowski v11 06 - Chapter Thirty-Two#Viveka on 32.40–41]]
+
 > कुलकुण्डलिकां बद्ध्वा अणोरन्तरवेदिनीम् ।
 > वामो योऽयं जगत्यस्मिंस्तस्य संहरणोद्यताम् ॥
 > स्वस्थाने निर्वृतिं लब्ध्वा ज्ञानामृतरसात्मकम् ।

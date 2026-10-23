@@ -33,6 +33,11 @@ anavacchinnaṃ dhāma praviśedvaisargikaṃ subhagaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 310–312)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.118–119]]
+>
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.119]]
+
 *Lead-in:* ननु भवतु एवम्, शान्तोदितयोस्तु रूपयोरुदय एव कथं भवेत्; किं शक्तिगतत्वेनैव, किमुत शक्तिमद्गतत्वेनैव?--इत्याशङ्क्य आह--
 
 > शान्तोदितात्मकं द्वयमथ युगपदुदेति शक्तिशक्तिमतोः ॥

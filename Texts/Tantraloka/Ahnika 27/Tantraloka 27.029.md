@@ -31,6 +31,9 @@ gajakūrmatalaṃ kumbhavṛttaśaktikajākṛti || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 413)
+> ![[Tantraloka Dyczkowski v09 18 - Chapter Twenty-Seven#Viveka on 27.29]]
+
 *Lead-in:* तथा च आगमोऽप्येवम्--इत्याह--
 
 > श्रीब्रह्मयामलेऽप्युक्तं पात्रं गोमुखमुत्तमम् ।

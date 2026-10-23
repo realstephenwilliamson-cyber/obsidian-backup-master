@@ -33,6 +33,11 @@ tathā hi dṛśyatāṃ loko ghaṭādervedane yathā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 429–430)
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.216–217]]
+>
+> ![[Tantraloka Dyczkowski v06 13 - Chapter Ten, part 4#Viveka on 10.217–218]]
+
 *Lead-in:* ननु विप्रकृष्ट एव कस्माद्यत्नयोगः स्यान्न संनिकृष्टे? -- इत्याशङ्कं दृष्टान्तोपदर्शनेन शमयति -
 
 > तथा हि दृश्यतां लोको घटादेर्वेदने यथा ॥

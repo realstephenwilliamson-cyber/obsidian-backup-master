@@ -37,5 +37,10 @@ anayā tu vinā sarve saṅketā bahuśaḥ kṛtāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 60–63)
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.67–68]]
+>
+> ![[Tantraloka Dyczkowski v07 03 - Chapter Eleven, part 2#Viveka on 11.68–69]]
+
 Jayaratha comments on this verse together with 11.67: see [[Tantraloka 11.067#Viveka|11.67]].
 

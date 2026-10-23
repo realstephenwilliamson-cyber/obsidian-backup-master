@@ -36,6 +36,11 @@ yāsau kālādhikāre prāk sandhyā proktā catuṣṭayī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 381–382)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.33–34]]
+>
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 26.34–36]]
+
 *Lead-in:* स्वमतेन पुनराह--
 
 Jayaratha comments on this verse together with 26.33: see [[Tantraloka 26.033#Viveka|26.33]].

@@ -36,6 +36,11 @@ yathā bhedenādisiddhācchivānmuktaśivā hyadhaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 90–92)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.73–74]]
+>
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.74–76]]
+
 *Lead-in:* ननु "कल्पितस्याकल्पितस्य वा गुरोः फले न कश्चिद्विशेषः"इति समनन्तरमेवोक्तं, तदकल्पितस्य कल्पितापेक्षया श्रेष्ठतमत्वे किं निमित्तम्? इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 4.73: see [[Tantraloka 04.073#Viveka|4.73]].

@@ -31,6 +31,9 @@ citrākāraprakāśo'yaṃ svatantraḥ parameśvaraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 288–289)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.264–265]]
+
 *Lead-in:* ननु यद्येते मायया कर्मणा वाप्यनाक्रान्तास्तदेषां पूर्णत्वात् तस्यां तस्यां सिद्धावभिलाष एव कथं भवेत्? -- इत्याशङ्कां प्रदर्श्य प्रतिक्षिपति --
 
 Jayaratha comments on this verse together with 13.265: see [[Tantraloka 13.265#Viveka|13.265]].

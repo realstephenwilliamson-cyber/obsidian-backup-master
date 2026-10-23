@@ -36,6 +36,11 @@ tṛtīyārthe tasi vyākhyā vā vaiyadhikaraṇyataḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 346–349)
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.173]]
+>
+> ![[Tantraloka Dyczkowski v01 10 - Chapter One, part 9#Viveka on 1.173–174]]
+
 *Lead-in:* ननु कथमनयोर्भिन्नविभक्तिकयोः सामानाधिकरण्यम् ? इत्याशङ्क्याह - -
 
 > तृतीयार्थे तसि व्याख्या वा वैयधिकरण्यतः ।

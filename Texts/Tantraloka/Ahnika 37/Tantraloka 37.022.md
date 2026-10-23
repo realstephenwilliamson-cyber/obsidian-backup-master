@@ -33,6 +33,11 @@ pradhānatvāttasya tasya vastuno bhinnatā punaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, pp. 235–236)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.19–22]]
+>
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.22–24]]
+
 *Lead-in:* इति । वेद्यार्थभासिनीति शक्तिरूपत्वात् । मण्डलमिति मण्डं शिवाह्वयं सारं लातीत्यर्थः ॥ ननु यद्येवमेकं पीठं सर्वात्मकं तत् किमेषां पृथगुपदेशेन?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 37.21: see [[Tantraloka 37.021#Viveka|37.21]].

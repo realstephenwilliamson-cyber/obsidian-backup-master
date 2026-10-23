@@ -36,6 +36,11 @@ madhyāhnamadhyaniśayorabhijinmokṣabhogadā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 287–288)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.67–68]]
+>
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.68]]
+
 *Lead-in:* ननु संध्यायाश्चतुर्धोदयोऽपि कथं द्विधैवोक्त ? -- इत्याशङ्क्याह - -
 
 > मध्याह्नमध्यनिशयोरभिजिन्मोक्षभोगदा ॥

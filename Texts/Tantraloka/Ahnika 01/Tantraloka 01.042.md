@@ -34,6 +34,9 @@ tadbauddhaṃ yasya tatpauṃsnaṃ prāgvatpoṣyaṃ ca poṣṭṛ ca || ^ias
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 153–155)
+> ![[Tantraloka Dyczkowski v01 05 - Chapter One, part 4#Viveka on 1.41–42]]
+
 > क्षीणे तु पशुसंस्कारे पंसः प्राप्तपरस्थितेः ।
 > विकस्वरं तद्विज्ञानं पौरुषं निर्विकल्पकम् ॥
 > विकस्वराविकल्पात्मज्ञानौचित्येन यावता ।

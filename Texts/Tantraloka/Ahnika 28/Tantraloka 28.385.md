@@ -33,6 +33,11 @@ atha vacmi guroḥ śāstravyākhyākramamudāhṛtam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 174–175)
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.384–385]]
+>
+> ![[Tantraloka Dyczkowski v10 07 - Chapter Twenty-Eight, part 5#Viveka on 28.385–386]]
+
 *Lead-in:* इदानीं क्रमप्राप्तं व्याख्याविधिं वक्तुं प्रतिजानीते--
 
 > अथ वच्मि गुरोः शास्त्रव्याख्याक्रममुदाहृतम् ॥

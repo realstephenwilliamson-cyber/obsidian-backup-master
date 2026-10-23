@@ -34,6 +34,9 @@ dvidhāpauruṣabauddhatvabhidoktaṃ śivaśāsane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 145–146)
+> ![[Tantraloka Dyczkowski v01 05 - Chapter One, part 4#Viveka on 1.36]]
+
 *Lead-in:* इदानीमुद्दिष्टयोर्ज्ञानाज्ञानयोरेव स्वरूपं विभजति --
 
 > ज्ञानाज्ञानस्वरूपं यदुक्तं प्रत्येकमप्यदः ।

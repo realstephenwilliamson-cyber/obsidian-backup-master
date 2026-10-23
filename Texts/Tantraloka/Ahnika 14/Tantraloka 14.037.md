@@ -31,6 +31,9 @@ muktyupāyatayā kintu bhogahānyai tathaiṣaṇāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 370)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.37]]
+
 *Lead-in:* इत्यादि श्रीमालिनीविजयोत्तरे प्रोक्तम् ? -- इत्याशङ्क्याह --
 
 > श्रीपूर्वशास्त्रे तूक्तं यदुत्क्रान्तेर्लक्षणं न तत् ।

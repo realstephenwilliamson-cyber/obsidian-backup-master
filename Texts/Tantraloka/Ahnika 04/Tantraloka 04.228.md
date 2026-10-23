@@ -36,6 +36,11 @@ nanu codanayā śuddhyaśuddhyādikaviniścayaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 323–325)
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.228]]
+>
+> ![[Tantraloka Dyczkowski v03 10 - Chapter Four, part 9#Viveka on 4.228 (2)]]
+
 *Lead-in:* सा च धरादिष्वपि समाना -- इत्याह --
 
 > योगिनं प्रति सा चास्ति भावेष्विति विशुद्धता ।

@@ -50,4 +50,4 @@ Pritzker translation (Matt): [[Zohar 8.04 - Parashat Emor#^z3-95a|Parashat Emor,
 **Emor 40:227** R. Abba said: ‘On New Year Adam was created and was brought to trial before his Master and repented and was pardoned by the Almighty. He said to him: Adam, thou shalt be a sign to thy descendants for all generations. On this day they are brought to trial, and if they repent I will pardon them and remove from the Throne of Judgement and sit on the Throne of Mercy and have mercy on them.’ ^emor-40-227
 
 [^1]: i.e. the relation of God to the universe, as set forth in the first chapter of Ezekiel.
-[^2]: Cf. T. B. Rosh Hashanah, 8b.
+[^2]: Cf. T. B. [[Rosh Hashanah 8#8b|Rosh Hashanah, 8b]].

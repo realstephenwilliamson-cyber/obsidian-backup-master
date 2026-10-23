@@ -35,6 +35,9 @@ tenātropāsakāḥ sākṣāttatraiva pariniṣṭhitāḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 269–270)
+> ![[Tantraloka Dyczkowski v01 08 - Chapter One, part 7#Viveka on 1.108]]
+
 *Lead-in:* ननु एक एव परप्रकाशात्मको भैरवादिशब्दव्यपदेश्यः परमेश्वरः समस्ति, तस्य चाभिन्ना एकैव स्वातन्त्र्याख्या शक्तिः इत्युपपादितम्, तत्कथमस्य इह द्वादशधोदय इत्युक्तम् ? इत्याशङ्क्याह --
 
 > तावान्पूर्णस्वभावोऽसौ परमः शिव उच्यते ।

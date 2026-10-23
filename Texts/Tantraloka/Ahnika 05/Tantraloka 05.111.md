@@ -35,6 +35,9 @@ kampo hṛttālu nidrā ca ghūrṇiḥ syādūrdhvakuṇḍalī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 147–148)
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.111]]
+
 *Lead-in:* ननु किं कस्य चक्रम् ? -- इत्याशङ्क्याह --
 
 > आनन्दचक्रं वह्न्यश्रि कन्द उद्भव उच्यते ।

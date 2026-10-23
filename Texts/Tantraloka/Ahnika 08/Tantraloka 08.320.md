@@ -35,6 +35,9 @@ madhyato'ṣṭābhirdiksthairvyāpto granthirmataṅgaśāstroktaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 316–317)
+> ![[Tantraloka Dyczkowski v05 09 - Chapter Eight, part 7#Viveka on 8.320]]
+
 *Lead-in:* अन्यत्र पुनरियान्विशेषः -- इत्याह --
 
 > ऊर्ध्वाधरगकपालकपुटषट्कयुगेन तत्परावृत्त्या ।

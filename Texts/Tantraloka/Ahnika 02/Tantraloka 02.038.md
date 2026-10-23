@@ -35,6 +35,9 @@ nānugrahātparaṃ kiñciccheṣavṛttau prayojanam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 46–47)
+> ![[Tantraloka Dyczkowski v02 03 - Chapter Two, part 2#Viveka on 2.38]]
+
 *Lead-in:* ननु यद्येवं तर्ह्यस्य शेषवृत्तिः कथं स्यात् ? -- इत्याशङ्क्याह --
 
 > समस्तयन्त्रणातन्त्रत्रोटनाटङ्कधर्मिणः ।

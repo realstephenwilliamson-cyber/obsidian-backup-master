@@ -31,6 +31,9 @@ atrordhve tantumātreṇa tisraḥ śūlaragāḥ sthitāḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 88)
+> ![[Tantraloka Dyczkowski v11 04 - Chapter Thirty-One, part 1#Viveka on 31.45–50]]
+
 *Lead-in:* एतदेव अंशतो दर्शयति--
 
 Jayaratha comments on this verse together with 31.49: see [[Tantraloka 31.049#Viveka|31.49]].

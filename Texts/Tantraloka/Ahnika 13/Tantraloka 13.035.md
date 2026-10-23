@@ -31,6 +31,9 @@ madvilakṣaṇa ekātmetyevaṃ vaiviktyasaṃvidi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 143–145)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.35–36]]
+
 *Lead-in:* एवं साङ्कर्यमभिधाय वैविक्त्यं व्यनक्ति --
 
 Jayaratha comments on this verse together with 13.36: see [[Tantraloka 13.036#Viveka|13.36]].

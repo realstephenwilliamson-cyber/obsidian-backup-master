@@ -33,6 +33,11 @@ ye cādharaprāptadīkṣāstadāsthānujjhitāḥ pare || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 117–119)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.268–269]]
+>
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.269–272]]
+
 *Lead-in:* अत्रैव अधिकारिभेदात् वैचित्र्यान्तरमपि दर्शयितुमाह--
 
 Jayaratha comments on this verse together with 28.268: see [[Tantraloka 28.268#Viveka|28.268]].

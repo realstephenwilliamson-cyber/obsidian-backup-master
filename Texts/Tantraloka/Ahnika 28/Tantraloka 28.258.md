@@ -31,6 +31,9 @@ vañcane tvasamarthaḥ san kṣetramāyatanaṃ vrajet || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 112)
+> ![[Tantraloka Dyczkowski v10 05 - Chapter Twenty-Eight, part 3#Viveka on 28.256–259]]
+
 > उक्तं श्रीरत्नमालायां ज्ञात्वा कालमुपस्थितम् ॥
 > मोक्षार्थी न भयं गच्छेत्त्यजेद्देहमशङ्कितः ।
 > तीर्थायतनपुण्येषु कालं वा वञ्चयेत्प्रिये ॥

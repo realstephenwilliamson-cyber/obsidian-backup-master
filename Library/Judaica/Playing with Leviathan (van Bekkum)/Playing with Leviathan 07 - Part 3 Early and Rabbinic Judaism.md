@@ -142,7 +142,7 @@ In a later discussion, in *Wayyiqra Rabba*, similar ideas about Leviathan being 
 The other element of the biblical text in [[Job 40#^40-30|Job 40:30]], referring to the ‘division’ of Leviathan, was not forgotten by Rabba, as mentioned above. After alluding to the Messianic banquet, he speaks of what will happen with ‘the leftovers’ of Leviathan. The motif of the Messianic banquet is woven into some other 
 
 [^19]: Jose, son of the Damascene, Tannaite of the second generation.
-[^20]: *Sifra* Sjemini 3:5, 49c/d. This saying of Rabbi Jose ben Durmasqit is brought up literally in *Hullin* 67b, and is alluded to in *Wayyiqra Rabba* 13:3, elaborating on Lev 11, which states that only fish having scales and fins can be considered kosher.
+[^20]: *Sifra* Sjemini 3:5, 49c/d. This saying of Rabbi Jose ben Durmasqit is brought up literally in [[Chullin 67#67b|*Hullin* 67b]], and is alluded to in *Wayyiqra Rabba* 13:3, elaborating on Lev 11, which states that only fish having scales and fins can be considered kosher.
 [^21]: Thus Harry Sysling, *Teḥiyyat Ha-Metim: The Resurrection of the Dead in the Palestinian Targums of the Pentateuch and Parallel Texts in Classical Rabbinic Literature* (TSAJ 57), Tübingen 1996, 53.
 [^22]: *Wayyiqra Rabba* 13:3, cf. Sysling, *Teḥiyyat Ha-Metim*, 60.
 
@@ -201,7 +201,7 @@ Rab Judah said in the name of Rab: The day consists of twelve hours; during the 
 Rab Judah further stated in the name of Rab: The Jordan issues from the cavern of Paneas . . . and rolls down into the great sea from whence it rolls on until it rushes into the mouth of Leviathan; for it is said: “He is confident because the Jordan rushes forth to his mouth” ([[Job 40#^40-23|Job 40:23]]).[^35] It seems that the idea of Leviathan dwelling in the depth of the Dead Sea was older than this midrash, which shows traces of later efforts to connect this tradition with Job 40:23. The comment in that verse about being “confident” actually refers to Behemoth, and not to Leviathan. This is observed by Raba 
 
 [^33]: *AZ* 3b, ed. I Epstein (transl. A. Mishcon).
-[^34]: The idea of ‘playing’ shows how these monsters were respected and at the same time in an occasionally humorous way put in their place, in order to overcome the fear of these monsters. This kind of humor can be understood as the background of the witty remark about Leviathan in *Shabbat* 77b. Five examples serve to show what can be called the greatest fear: “The fear of the *mafgia* (a gnat) over the lion; the fear of the mosquito upon the elephant; the fear of the spider upon the scorpion; the fear of the swallow upon the eagle; the fear of the *kilbith* (stickle-back) over the Leviathan,” ed. I. Epstein (transl. H. Freedman).
+[^34]: The idea of ‘playing’ shows how these monsters were respected and at the same time in an occasionally humorous way put in their place, in order to overcome the fear of these monsters. This kind of humor can be understood as the background of the witty remark about Leviathan in [[Shabbat 77#77b|*Shabbat* 77b]]. Five examples serve to show what can be called the greatest fear: “The fear of the *mafgia* (a gnat) over the lion; the fear of the mosquito upon the elephant; the fear of the spider upon the scorpion; the fear of the swallow upon the eagle; the fear of the *kilbith* (stickle-back) over the Leviathan,” ed. I. Epstein (transl. H. Freedman).
 [^35]: *B. Bat.* 74b, ed. I. Epstein (transl. Israel Slotki).
 
 *[p. 129]* ^pg157

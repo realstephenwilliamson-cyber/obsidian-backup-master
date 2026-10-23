@@ -36,6 +36,13 @@ nanvevaṃ dharaṇīṃ muktvā śaktau prakṛtimāyayoḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 8–11)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 11.18.*
+>
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.13–14]]
+>
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.18]]
+
 *Lead-in:* ननु प्रतीघातो नाम मूर्तधर्मो मूर्तत्वं च पृथिव्यामेव संभवेत्, ततश्च तामपहायान्यत्राण्डस्य संभवो न न्याययः -- इत्याह --
 
 Jayaratha comments on this verse together with 11.13: see [[Tantraloka 11.013#Viveka|11.13]].

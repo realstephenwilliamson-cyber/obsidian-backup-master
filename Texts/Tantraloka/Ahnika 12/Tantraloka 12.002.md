@@ -34,6 +34,9 @@ taddvārā śūnyadhīprāṇanāḍīcakratanuṣvatho || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 100)
+> ![[Tantraloka Dyczkowski v07 04 - Chapter Twelve#Viveka on 12.2–3]]
+
 *Lead-in:* तदेवाह -
 
 Jayaratha comments on this verse together with 12.3: see [[Tantraloka 12.003#Viveka|12.3]].

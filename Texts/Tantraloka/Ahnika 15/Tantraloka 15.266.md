@@ -33,6 +33,11 @@ tathābhāsanayogo'taḥ svarasenāsya jṛmbhate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 159)
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.265–266]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.266]]
+
 *Lead-in:* एवंस्वभावत्वादेव च अस्य न अत्र परापेक्षा--इत्याह--
 
 > तथाभासनयोगोऽतः स्वरसेनास्य जृम्भते ॥

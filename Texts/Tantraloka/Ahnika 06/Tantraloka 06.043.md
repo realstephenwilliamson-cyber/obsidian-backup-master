@@ -36,6 +36,11 @@ anāśritaḥ śūnyamātā buddhimātā sadāśivaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 257–258)
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.42–43]]
+>
+> ![[Tantraloka Dyczkowski v04 09 - Chapter Six, part 2#Viveka on 6.43–44]]
+
 *Lead-in:* न केवलमेषामेवंरूपत्वमेव यावत्प्रमातृत्वमपि -- इत्याह --
 
 > अनाश्रितः शून्यमाता बुद्धिमाता सदाशिवः ॥

@@ -34,6 +34,9 @@ amukta eva muktastu sarvāvacchedavarjitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 141–144)
+> ![[Tantraloka Dyczkowski v01 05 - Chapter One, part 4#Viveka on 1.34]]
+
 *Lead-in:* ननु स्वदर्शनौचित्येन एवं बन्धविगलनेऽपि किमिति नासौ मुक्तः इत्याशङ्क्याह --
 
 > तस्मान्मुक्तोऽप्यवच्छेदादवच्छेदान्तरस्थितेः ।

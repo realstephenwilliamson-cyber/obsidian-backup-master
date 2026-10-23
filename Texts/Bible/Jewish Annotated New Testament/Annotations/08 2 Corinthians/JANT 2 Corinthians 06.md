@@ -28,7 +28,7 @@ Text: [[NRSVue 2 Corinthians 06|NRSVue]] · [[2 Corinthians 06|BSB and SBLGNT]] 
 
 **[[NRSVue 2 Corinthians 06#^6-11|6.11–13]]:** *Frankly*, see 1.12n. ^6-11-2
 
-**[[NRSVue 2 Corinthians 06#^6-13|13]]:** *Children*, rabbis routinely referred to students or others who posed questions as children or sons, following the earlier model of biblical wisdom literature (e.g., [[Proverbs 05#^5-7|Prov 5.7]]). A well-known incident involving Hillel is at *b. Shabb.* 30b-31a. See also, e.g., *b. Taʾan.* 21a. ^6-13
+**[[NRSVue 2 Corinthians 06#^6-13|13]]:** *Children*, rabbis routinely referred to students or others who posed questions as children or sons, following the earlier model of biblical wisdom literature (e.g., [[Proverbs 05#^5-7|Prov 5.7]]). A well-known incident involving Hillel is at [[Shabbat 30#30b|*b. Shabb.* 30b]]-31a. See also, e.g., *b. Taʾan.* 21a. ^6-13
 
 **[[NRSVue 2 Corinthians 06#^6-14|6.14–7.1]]:** An interruption of Paul’s appeal, since 7.2–4 better follows 6.11–13. This passage contains many words Paul nowhere else uses and also an uncharacteristically stark dualism. The section may be inserted here from a different letter. ^6-14
 

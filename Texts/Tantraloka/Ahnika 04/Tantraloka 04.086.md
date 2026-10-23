@@ -34,6 +34,9 @@ antarantaḥ parāmarśapāṭavātiśayāya saḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 102–104)
+> ![[Tantraloka Dyczkowski v03 04 - Chapter Four, part 3#Viveka on 4.86]]
+
 *Lead-in:* इदानीं तर्कतत्त्वानुषक्तं गुरुसतत्त्वमुपसंहारन् तदानन्तर्येणानुजोद्देशोद्दिष्टं योगाङ्गानुपयोगित्वमपि वक्तुमुपक्रमते --
 
 > एवं योगाङ्गमियति तर्क एव न चापरम् ।

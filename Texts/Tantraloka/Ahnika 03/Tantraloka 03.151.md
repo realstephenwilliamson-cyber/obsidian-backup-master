@@ -35,5 +35,8 @@ yā tūktā jñeyakāluṣyabhākkṣipracarayogataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 268–271)
+> ![[Tantraloka Dyczkowski v02 09 - Chapter Three, part 6#Viveka on 3.150–152]]
+
 Jayaratha comments on this verse together with 3.152: see [[Tantraloka 03.152#Viveka|3.152]].
 

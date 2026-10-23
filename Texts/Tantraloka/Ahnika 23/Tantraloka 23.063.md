@@ -33,6 +33,11 @@ saṃsārī sa tu devo hi gururna ca mṛṣāvidaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 325)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.63]]
+>
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.63–64]]
+
 *Lead-in:* ननु किमेतदुक्तं यद्यस्यैव गुरुः कुपितः स एव संसारी तिरोहितः इत्युच्यते--इत्याह--
 
 > गुरुर्हि कुपितो यस्य स तिरोहित उच्यते ।

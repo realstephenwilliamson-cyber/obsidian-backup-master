@@ -31,6 +31,9 @@ pūrṇādavyatirekitvaṃ kārakāṇāmihārcayā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 95–96)
+> ![[Tantraloka Dyczkowski v08 04 - Chapter Fifteen, part 3#Viveka on 15.147]]
+
 *Lead-in:* तदेव आह--
 
 > यतः समस्तभावानां शिवात्सिद्धिमयादथो ।

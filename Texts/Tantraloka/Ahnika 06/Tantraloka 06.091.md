@@ -36,6 +36,11 @@ alaṃ vānena nedaṃ vā mama prāṅmatamatsaraḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 314–315)
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.89–91]]
+>
+> ![[Tantraloka Dyczkowski v04 10 - Chapter Six, part 3#Viveka on 6.91–92]]
+
 *Lead-in:* न चैतद्विद्वेषपूर्वमस्माभिरुक्तमिति न शिष्टनिन्दा कृता स्यात् -- इत्याह --
 
 > अलं वानेन नेदं वा मम प्राङ्मतमत्सरः ॥

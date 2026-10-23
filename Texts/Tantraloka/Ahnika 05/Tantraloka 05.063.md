@@ -36,6 +36,11 @@ tata udyogasaktena sa dvādaśakalātmanā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 70–72)
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.62–63]]
+>
+> ![[Tantraloka Dyczkowski v04 04 - Chapter Five, part 2#Viveka on 5.63–64]]
+
 *Lead-in:* तदाह -
 
 > तत उद्योगसक्तेन स द्वादशकलात्मना ॥

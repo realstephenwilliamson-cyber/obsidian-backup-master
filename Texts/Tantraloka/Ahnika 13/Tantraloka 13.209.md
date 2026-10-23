@@ -31,6 +31,9 @@ tyaktāṇubhāvo bhavati śivastacchaktidārḍhyataḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 253–256)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.209]]
+
 *Lead-in:* ननु भवत्वेवं शान्ता पुनः किं समनन्तरमेव स्वरूपम् दर्शयेदुत केनचित्क्रमेण? -- इत्याशङ्क्याह --
 
 > तया शान्त्या तु संबद्धः स्थितः शक्तिस्वरूपभाक् ।

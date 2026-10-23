@@ -34,6 +34,9 @@ dīkṣā bhavediti proktaṃ tacchrītriṃśakaśāsane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 65–67)
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.49–50]]
+
 > अदृष्टमण्डलोऽप्येवं यः कश्चिद्वेत्ति तत्त्वतः ।
 > स सिद्धिभाग्भवेन्नित्यं स योगी स च दीक्षितः ॥
 > एवं यो वेत्ति तत्त्वेन तस्य निर्वाणगामिनी ।

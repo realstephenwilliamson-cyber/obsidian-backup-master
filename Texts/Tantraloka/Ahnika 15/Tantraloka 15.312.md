@@ -31,6 +31,9 @@ kṛśo meyatvadaurbalyātpreto'ṭṭahasanāditaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, p. 185)
+> ![[Tantraloka Dyczkowski v08 06 - Chapter Fifteen, part 5#Viveka on 15.312]]
+
 *Lead-in:* अयं पुनरेवं न--इत्याह--
 
 > अतः सदाशिवो नित्यमूर्ध्वदृग्भास्वरात्मकः ।

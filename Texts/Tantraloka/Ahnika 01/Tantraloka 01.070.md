@@ -34,6 +34,9 @@ nahyasti kiñcittacchaktitadvadbhedo'pi vāstavaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 208–209)
+> ![[Tantraloka Dyczkowski v01 07 - Chapter One, part 6#Viveka on 1.70]]
+
 *Lead-in:* ननु एवं परिकल्पितोऽपि शक्तीनां भेदो भासत एव इति कथं तदपह्नवः ? -- इत्याशङ्क्याह --
 
 > न चासौ परमार्थेन न किञ्चिद्भासनादृते ।

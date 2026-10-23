@@ -35,6 +35,9 @@ taratamayogena tato'pi devayonyaṣṭakaṃ lakṣyaṃ tu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 251–252)
+> ![[Tantraloka Dyczkowski v05 07 - Chapter Eight, part 5#Viveka on 8.232–233]]
+
 > एतानि भक्तियोगप्राणत्यागादिगम्यानि ॥
 > तेषूमापतिरेव प्रभुः स्वतन्त्रेन्द्रियो विकरणात्मा ।
 > तरतमयोगेन ततोऽपि देवयोन्यष्टकं लक्ष्यं तु ॥

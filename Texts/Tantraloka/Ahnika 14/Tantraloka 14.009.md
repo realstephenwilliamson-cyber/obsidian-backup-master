@@ -33,6 +33,11 @@ hṛdyāste mūḍha evaṃ hi prabuddhānāṃ viceṣṭitam |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 349–351)
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.8–9]]
+>
+> ![[Tantraloka Dyczkowski v07 12 - Chapter Fourteen, and Appendices to Chapters Eleven and Twelve#Viveka on 14.9–12]]
+
 *Lead-in:* न चैतदस्माभिरेवोक्तम् -- इत्याह --
 
 > श्रीविद्याधिपतिश्चाह मानस्तोत्रे तदीदृशम् ॥

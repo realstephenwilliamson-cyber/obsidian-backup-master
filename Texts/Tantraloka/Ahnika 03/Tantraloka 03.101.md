@@ -36,6 +36,11 @@ paricchinnaprakāśatvaṃ jaḍasya kila lakṣaṇam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 206–208)
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.100–101]]
+>
+> ![[Tantraloka Dyczkowski v02 07 - Chapter Three, part 4#Viveka on 3.101–102]]
+
 *Lead-in:* तदाह—
 
 > परिच्छिन्नप्रकाशत्वं जडस्य किल लक्षणम् ॥

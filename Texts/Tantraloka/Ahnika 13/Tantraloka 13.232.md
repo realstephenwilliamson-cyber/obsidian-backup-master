@@ -33,6 +33,11 @@ avidyopāsito deho hyanyajanmasamudbhuvā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 270–271)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.231–232]]
+>
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.232–233]]
+
 *Lead-in:* तदेव पठति -
 
 > अविद्योपासितो देहो ह्यन्यजन्मसमुद्भवा ॥

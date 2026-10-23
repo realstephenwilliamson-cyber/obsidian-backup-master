@@ -53,13 +53,13 @@ And this is the essence of man’s *kavanah* in his service: to draw the light o
 [^1]: The Kabbalah.
 [^2]: The doctrine of *tzimtzum* is more fully discussed in *Likkutei Amarim*, Part II, ch. 4 ff. See also above, ch. 48, note 4.
 [^3]: Chs. 35-37.
-[^4]: *Bava Metzia* 84a.
+[^4]: [[Bava Metzia 84#84a|*Bava Metzia* 84a]].
 [^5]: Mishnah, *Berachot* 1:4.
 [^6]: Rabbi Solomon ibn Aderet, 13th cent. Spanish Talmud exegete and codifier.
-[^7]: *Berachot* 54a.
+[^7]: [[Berakhot 54#54a|*Berachot* 54a]].
 [^8]: [[Psalms 033#^33-9|Psalms 33:9]].
 [^9]: Ibid.
-[^10]: *Shabbat* 152a.
+[^10]: [[Shabbat 152#152a|*Shabbat* 152a]].
 [^11]: Liturgy, First Blessing Preceding the Morning Shema.
 [^12]: [[Isaiah 06#^6-3|Isaiah 6:3]].
 [^13]: [[Ezekiel 03#^3-12|Ezekiel 3:12]], cited in the aforementioned blessing.

@@ -33,6 +33,11 @@ ajñānena vinā bandhamokṣau naiva vyavasthayā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 148–149)
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.41]]
+>
+> ![[Tantraloka Dyczkowski v07 05 - Chapter Thirteen, part 1#Viveka on 13.41–42]]
+
 *Lead-in:* अत आह --
 
 > तस्मात्सांख्यदृशापीदमज्ञानं नैव युज्यते ।

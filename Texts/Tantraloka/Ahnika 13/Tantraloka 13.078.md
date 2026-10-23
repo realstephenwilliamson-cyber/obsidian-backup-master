@@ -33,6 +33,11 @@ anādimalasaṃcchannā aṇavo dṛkkriyātmanā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 173–174)
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.77–78]]
+>
+> ![[Tantraloka Dyczkowski v07 06 - Chapter Thirteen, part 2#Viveka on 13.78–79]]
+
 *Lead-in:* तदनवकल्पनमेव उपपादयति --
 
 > अनादिमलसंच्छन्ना अणवो दृक्क्रियात्मना ॥

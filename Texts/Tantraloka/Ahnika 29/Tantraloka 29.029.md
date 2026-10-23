@@ -33,6 +33,11 @@ khagendraḥ sahavijjāmba illāī ambayā saha || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 230–234)
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.27–29]]
+>
+> ![[Tantraloka Dyczkowski v10 09 - Chapter Twenty-Nine, part 1#Viveka on 29.29–33]]
+
 *Lead-in:* तदेव आह--
 
 Jayaratha comments on this verse together with 29.28: see [[Tantraloka 29.028#Viveka|29.28]].

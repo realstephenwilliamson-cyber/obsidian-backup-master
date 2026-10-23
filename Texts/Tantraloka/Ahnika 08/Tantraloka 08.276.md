@@ -35,6 +35,9 @@ pratiniyataviṣayabhāñji sphuṭāni śāstre vivṛttāni || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 280–281)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.276–277]]
+
 *Lead-in:* मूढडिरूपत्वमेव व्याचष्टे --
 
 Jayaratha comments on this verse together with 8.277: see [[Tantraloka 08.277#Viveka|8.277]].

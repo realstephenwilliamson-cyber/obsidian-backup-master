@@ -36,6 +36,11 @@ citsvābhāvyāt tato bhūyaḥ sṛṣṭiryaccinmaheśvarī || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, p. 35)
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.34–35]]
+>
+> ![[Tantraloka Dyczkowski v04 03 - Chapter Five, part 1#Viveka on 5.35]]
+
 *Lead-in:* ननु यद्येवं विलीनार्था संविदेवावभासते तत् विद्युदुद्ध्योतन्यायेन प्रमातृप्रमेयात्म विश्वं भायात् -- इति सर्वदैव प्रलयोदयः स्यात् ? - - इत्याशङ्क्याह --
 
 > चित्स्वाभाव्यात् ततो भूयः सृष्टिर्यच्चिन्महेश्वरी ॥

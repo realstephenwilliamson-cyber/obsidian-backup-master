@@ -33,6 +33,11 @@ dīkṣottare ca puryaṣṭavargārpaṇamihoditam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 350–351)
+> ![[Tantraloka Dyczkowski v09 15 - Chapter Twenty-Four#Viveka on 24.17]]
+>
+> ![[Tantraloka Dyczkowski v09 15 - Chapter Twenty-Four#Viveka on 24.17 (2)]]
+
 *Lead-in:* यदि नाम अस्य प्रत्ययस्य एकान्तो मोक्षोपयोगित्वं नास्ति, तत् किमेतेन ?-- इत्याशङ्क्याह--
 
 > साध्योऽनुमेयो मोक्षादिः प्रत्ययैर्यदतीन्द्रियः ।

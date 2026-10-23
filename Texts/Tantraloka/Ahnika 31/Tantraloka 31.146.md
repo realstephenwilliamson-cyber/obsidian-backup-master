@@ -31,6 +31,9 @@ saumyagāt pīṭhakoṇeṣu lopayeta caturṣvapi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 127)
+> ![[Tantraloka Dyczkowski v11 05 - Chapter Thirty-One, part 2#Viveka on 31.146]]
+
 *Lead-in:* एवं दिक्षु वर्तनामभिधाय कोणेष्वपि आह--
 
 > भूतनेत्रगतान्मूर्ध्ना नेत्राद् द्विवह्निदृक्त्रिकात् ।

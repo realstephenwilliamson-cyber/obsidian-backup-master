@@ -37,6 +37,11 @@ yato hyakālakalitā saṃdhatte sārvakālikam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 443–445)
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.267–268]]
+>
+> ![[Tantraloka Dyczkowski v01 12 - Chapter One, part 11#Viveka on 1.268]]
+
 *Lead-in:* तत्र हेतुः—
 
 > यतो ह्यकालकलिता संधत्ते सार्वकालिकम् ॥

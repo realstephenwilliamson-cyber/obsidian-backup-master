@@ -34,6 +34,9 @@ vilīyate tadā jīvanmuktiḥ karatale sthitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 159–161)
+> ![[Tantraloka Dyczkowski v01 05 - Chapter One, part 4#Viveka on 1.44]]
+
 *Lead-in:* इत्याशङ्क्याह—
 
 > बौद्धज्ञानेन तु यदा बौद्धमज्ञानजृम्भितम् ।

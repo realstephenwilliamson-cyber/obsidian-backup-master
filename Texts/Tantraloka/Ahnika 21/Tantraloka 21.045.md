@@ -34,6 +34,9 @@ jālākṛṣṭirvinābhyāsaṃ rāgadveṣānna jāyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, pp. 269–270)
+> ![[Tantraloka Dyczkowski v09 12 - Chapter Twenty-One#Viveka on 21.45]]
+
 *Lead-in:* अयं च आम्नात एव विषये जालप्रयोगः सिद्ध्येन्न अन्यत्र--इत्याह--
 
 > पारिमित्यादनैश्वर्यात्साध्ये नियतियन्त्रणात् ।

@@ -37,6 +37,11 @@ saṃvidan ghūrṇate ghūrṇirmahāvyāptiryataḥ smṛtā |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 138–142)
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.104–105]]
+>
+> ![[Tantraloka Dyczkowski v04 06 - Chapter Five, part 4#Viveka on 5.105–106]]
+
 *Lead-in:* इत्याद्युक्त्या परतत्त्वान्तर्विविक्षोर्लक्षणान्तराण्यपि संभवन्ति - इति यावत् तानि नोदितानि तावत्कथमेतावतैव तदनुप्रवेशो भवेत् ? -- इत्याशङ्क्याह --
 
 > आत्मन्यनात्माभिमतौ सत्यामेव ह्यनात्मनि ॥

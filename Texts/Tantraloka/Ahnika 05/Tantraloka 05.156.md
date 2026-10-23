@@ -35,6 +35,9 @@ akiñciccintanaṃ vīryaṃ bhāvanāyāṃ ca sā punaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IV, pp. 206–208)
+> ![[Tantraloka Dyczkowski v04 07 - Chapter Five, part 5#Viveka on 5.155–156]]
+
 *Lead-in:* ननूच्चारादीनामागमेऽप्यनेनैव क्रमेण पाठः -- इति कथमिह तदुल्लङ्घनेन ध्यानोप्रकममेषां निर्देशः कृतः ? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 5.155: see [[Tantraloka 05.155#Viveka|5.155]].

@@ -913,7 +913,7 @@ Light
 
 the Giver of everything; and therefore, one certainly cannot give anything to Him. 
 
-There is a story in the Talmud (Chulin 61a) that illustrates this point quite clearly: 
+There is a story in the Talmud ([[Chullin 61#61a|Chulin 61a]]) that illustrates this point quite clearly: 
 
 A king once said to Rabbi Joshua, “Il would like to prepare a meal for your God.” 
 
@@ -1552,7 +1552,7 @@ Chinuch 26.
 
 29\. 
 
-30\. Kiddushin 40a; Yerushalmi Nazir 4:3 (17a); Tosefta Nazir 3:6, from [[Ezekiel 14#^14-5|Ezekiel 14:5]]. Cf. Radak ad loc. [[Zohar 5.05 - Parashat Terumah#^z2-150b|Zohar 2:150b]]. 
+30\. [[Kiddushin 40#40a|Kiddushin 40a]]; Yerushalmi Nazir 4:3 (17a); Tosefta Nazir 3:6, from [[Ezekiel 14#^14-5|Ezekiel 14:5]]. Cf. Radak ad loc. [[Zohar 5.05 - Parashat Terumah#^z2-150b|Zohar 2:150b]]. 
 
 31\. Sefer Mitzvoth Gadol, loc. cit. See Mekhilta and Ibn Ezra on [[Torah 18 - Mishpatim#^22-19|Exodus 22:19]]. 
 
@@ -1570,7 +1570,7 @@ Sanhedrin 7:6 (60b); Ramban on [[Torah 17 - Yitro#^20-3|Exodus 20:3]].
 
 \$4. 
 
-35, Sanhedrin 63a: Succah 45b; Yad, Shavuoth 11:2. 
+35, [[Sanhedrin 63#63a|Sanhedrin 63a]]: Succah 45b; Yad, Shavuoth 11:2. 
 
 Yad, Melakhim 9:3. 
 
@@ -1578,9 +1578,9 @@ Yad, Melakhim 9:3.
 
 See Yad, loc. cit., which states that a non-Jew is only liable for those 37. 
 
-types of idolatry for which a Jew incurs a death penalty, cf. Minchath Chinukh 26:6. However, this only involves the deed of idolatry, cf. Sanhedrin 63a; Yad, Avodath Kochavim 3:4. 
+types of idolatry for which a Jew incurs a death penalty, cf. Minchath Chinukh 26:6. However, this only involves the deed of idolatry, cf. [[Sanhedrin 63#63a|Sanhedrin 63a]]; Yad, Avodath Kochavim 3:4. 
 
-38\. See Tosafoth, Bekhoroth 2b s.v. “Sh'ma’; Sanhedrin 63b s.v. “Asur”; Orach Chaim 156:1 in Hagah; Rosh, Sanhedrin 7:3, Pilpula Charifta ad loc.; Darkey Moshe, Yoreh Deah 151; Shach ibid. 151:7; Machttzith HaShekel, Orach Chaim 156:2; Teshuvoth Tashbatz 1:139; Teshuvoth VeShev HaKohen 38; Mishnath Chakhamim on Yad, Yesodey HaTorah, quoted in Pithchey Teshuvah, Yoreh Deah 147:2; Maharatz Chayoth on Horioth 8b. There is another opinion that this is only forbidden in the land of Israel, cf. Maharatz Chayoth on Berakhoth 57a; Ramban on [[Torah 29 - Achrei Mot#^18-25|Leviticus 18:25]]; Rabbi Yaakov Emden, Mor C'Ketzia 224. 
+38\. See Tosafoth, Bekhoroth 2b s.v. “Sh'ma’; [[Sanhedrin 63#63b|Sanhedrin 63b]] s.v. “Asur”; Orach Chaim 156:1 in Hagah; Rosh, Sanhedrin 7:3, Pilpula Charifta ad loc.; Darkey Moshe, Yoreh Deah 151; Shach ibid. 151:7; Machttzith HaShekel, Orach Chaim 156:2; Teshuvoth Tashbatz 1:139; Teshuvoth VeShev HaKohen 38; Mishnath Chakhamim on Yad, Yesodey HaTorah, quoted in Pithchey Teshuvah, Yoreh Deah 147:2; Maharatz Chayoth on Horioth 8b. There is another opinion that this is only forbidden in the land of Israel, cf. Maharatz Chayoth on Berakhoth 57a; Ramban on [[Torah 29 - Achrei Mot#^18-25|Leviticus 18:25]]; Rabbi Yaakov Emden, Mor C'Ketzia 224. 
 
 39\. Cf. Rashbam ad loc.; Derech Mitzvothekha (Chabad) p. 59b. 
 
@@ -1594,7 +1594,7 @@ Tzadakah 22; Teshuvoth Shaar Ephraim 24; all quoted in Pithchey Teshuvah, Yoreh 
 
 43\. Moreh Nevukhim loc. cit.; Rashi, Makkoth 22a s.v. “MiPi.”’ 
 
-Yad, Yesodey HaTorah 1:6; Avodath Kokhavim 2:4; Kiddushin 40a. 44. 
+Yad, Yesodey HaTorah 1:6; Avodath Kokhavim 2:4; [[Kiddushin 40#40a|Kiddushin 40a]]. 44. 
 
 Tosefta Shavuoth 3:5. 
 
@@ -1620,7 +1620,7 @@ Ct Kuvzari 1:114, 4:13.
 
 ‘1 
 
-Ct Mesachiin 59b; Nazir 23b; Yoreh Deah 146:20. 
+Ct Mesachiin 59b; [[Nazir 23#23b|Nazir 23b]]; Yoreh Deah 146:20. 
 
 Pa 
 
@@ -1630,13 +1630,13 @@ lOO 0) The dnfinite Light
 
 Reading of Reshith Chakhmah, Shaar HaTeshuvah \*7 (New York, 5728) 123c, of Yerushalmi Chaggigah 1:7 (6b). See Pesikta Eicha Rabbah 2; Pesikta 15 (121a); Yalkut 2:282 54. See note 17. 
 
-55\. See Rashi, Radak ad loc.; Moreh Nevukhim 3:51, 52; Orach Chaim 1:1 in Hagah. cf. Sanhedrin 22a; Reshith Chachmah, Shaar HaYira 1 (8d). 
+55\. See Rashi, Radak ad loc.; Moreh Nevukhim 3:51, 52; Orach Chaim 1:1 in Hagah. cf. [[Sanhedrin 22#22a|Sanhedrin 22a]]; Reshith Chachmah, Shaar HaYira 1 (8d). 
 
 PART TWO: GOD 
 
-Megillah 31a. 
+[[Megillah 31#31a|Megillah 31a]]. 
 
-Sotah 5a. 
+[[Sotah 5#5a|Sotah 5a]]. 
 
 See Emunoth VeDeyoth 1:1; Yad, Yesodey HaTorah 1:1, 1:5; Mechilta on [[Torah 14 - Vaera#^6-2|Exodus 6:2]] (120a); Sifra on [[Torah 29 - Achrei Mot#^18-2|Leviticus 18:2]] (85c). 
 
@@ -1710,7 +1710,7 @@ Thirteen Principles of Faith \*3; Yad, Teshuvah 3:6, Raavad ad loc.; \[ggereth a
 
 Techlyath HaMethim p. 4; Ikkarim 1:2, 2:7; Pardes Rimonim 1:9. See Chovoth HaLevavoth 1:10 (41b); Yad, Yesodey HaTorah 1:8, 1:11, 26. 
 
-from Chagigah 15a; Moreh Nevukhim 1:35, 2:1 end; Kuzari 5:18 \*6. Chovoth HaLevavoth 39b; Moreh Nevukhim 1:58; Pardes Rimonim 3:1, 29. 
+from [[Chagigah 15#15a|Chagigah 15a]]; Moreh Nevukhim 1:35, 2:1 end; Kuzari 5:18 \*6. Chovoth HaLevavoth 39b; Moreh Nevukhim 1:58; Pardes Rimonim 3:1, 29. 
 
 4:8; Ikkarim 2:22. See also Zohar 2:42b; Nefesh HaChaim 2:2. 
 
@@ -1734,19 +1734,19 @@ Tikuney Zohar 17a.
 
 37\. Tana DeBei Eliahu Rabbah, end of \*1. 
 
-38\. Kuzari 4:3, Tosafoth, Kiddushin 3b, s.v. ““DeAsar.” See also [[Torah 30 - Kedoshim#^19-2|Leviticus 19:2]], [[Torah 31 - Emor#^21-8|21:8]], [[Isaiah 06#^6-3|Isaiah 6:3]]; VaYikra Rabbah 24:9. 
+38\. Kuzari 4:3, Tosafoth, [[Kiddushin 3#3b|Kiddushin 3b]], s.v. ““DeAsar.” See also [[Torah 30 - Kedoshim#^19-2|Leviticus 19:2]], [[Torah 31 - Emor#^21-8|21:8]], [[Isaiah 06#^6-3|Isaiah 6:3]]; VaYikra Rabbah 24:9. 
 
 39\. Emunoth VeDeyoth 1:4. 
 
 40\. Midrash Tehillim 103:5. 
 
-Chagigah 13b. 
+[[Chagigah 13#13b|Chagigah 13b]]. 
 
 41\. 
 
 Emunoth VeDeyoth 2:11,12, Sh'vil Emunah ad loc. #10; Moreh Nevukhim 42. 
 
-2:13, 2:30; Ikkurim 2:18; Pardes Rimonim 3:1, 4:7; Torath HaOlah (Isserles) 3:59; Yaaroth Devash on Megillah 9a; Asarah Maamaros 1:16; Derech Mitzvothekha (Chabad) 57a. Also see Bereshith Rabbah 3:8. 
+2:13, 2:30; Ikkurim 2:18; Pardes Rimonim 3:1, 4:7; Torath HaOlah (Isserles) 3:59; Yaaroth Devash on [[Megillah 9#9a|Megillah 9a]]; Asarah Maamaros 1:16; Derech Mitzvothekha (Chabad) 57a. Also see Bereshith Rabbah 3:8. 
 
 43\. Pardes Rimonim 6:3. 
 
@@ -1760,7 +1760,7 @@ Ibid. Cf. Radak ad loc.
 
 47\. See note 42. Also see Albert Einstein, Relativity, the Special and General Theory (Crown, New York, 1961), Appendix 5. 
 
-48\. Sanhedrin 38a; Yerushalmi Sanhedrin 4:9 (23b); Bereshith Rabbah 8:5. 
+48\. [[Sanhedrin 38#38a|Sanhedrin 38a]]; Yerushalmi Sanhedrin 4:9 (23b); Bereshith Rabbah 8:5. 
 
 See also [[Psalms 022#^22-10|Psalms 22:10]], [[Psalms 102#^102-13|102:13]]. 
 
@@ -1792,7 +1792,7 @@ Pevbdt Pdees deatdeadtes L deal
 
 58\. See Rabbi Moshe Almosnino, Pirkey Moshe, quoted in Midrash Shmuel and Tosafoth Yom Tow on Avoth 3:15; Yesod Emunah (Rabbi Baruch Kasover) 2; Shvil Emunah (on Emunoth VeDevoth) 4:4:11. Also see Kol Yehudah (on Kuzari) 5:20 (47b); Otzar Nechemad (on Kuzari) 1:1 (11b), s.v. “Kol.” 
 
-59\. Rosh HaShanah 18a. See Rambam, Tosafoth Yor Too ibid. 1:2. 
+59\. [[Rosh Hashanah 18#18a|Rosh HaShanah 18a]]. See Rambam, Tosafoth Yor Too ibid. 1:2. 
 
 60\. Pesikta 6 (57b). 
 
@@ -1838,7 +1838,7 @@ Ibid.
 
 77\. Berachoth 6a; Avoth 3:5. 
 
-18\. Sanhedrin 39a. 
+18\. [[Sanhedrin 39#39a|Sanhedrin 39a]]. 
 
 79\. Ibn Ezra on [[Torah 16 - Beshalach#^13-21|Exodus 13:21]]; Emunoth VeDeyoth 2:11; Kuzari 2:7,8; Moreh Nevuchim 1:27; Ramban on [[Torah 11 - Vayigash#^47-1|Genesis 47:1]]. 
 
@@ -1850,7 +1850,7 @@ Taanith 21b.
 
 82\. Succoth 53a, according to Rashi. 
 
-83\. Kiddushin 31a. 
+83\. [[Kiddushin 31#31a|Kiddushin 31a]]. 
 
 84\. See Pardes Rimonim 6:8; Likutey Amarim (Tanya) 2:2 (77b). 
 
@@ -1896,11 +1896,11 @@ Yerushalmi Rosh HaShanah 1:3 (7b).
 
 100\. 
 
-Yalkut 1:396. Cf. Chulin 60a. 
+Yalkut 1:396. Cf. [[Chullin 60#60a|Chulin 60a]]. 
 
 101\. Shefa Tal, Introduction (4d); Likutey Amarim (Tanya) 2:6 (81a). 
 
-Chulin 60b. Cf. [[Zohar 7.06 - Parashat Tazri'a#^z3-47b|Zohar 3:47b]]. 
+[[Chullin 60#60b|Chulin 60b]]. Cf. [[Zohar 7.06 - Parashat Tazri'a#^z3-47b|Zohar 3:47b]]. 
 
 102\. 
 
@@ -1912,4 +1912,4 @@ Tikuney Zohar 17a.
 
 105\. Likutey Amarim (Yanya) 2:9 (86b). 
 
-106\. Cf. Chagigah 13b; Yad, Yesodey HaTorah 2:8.
+106\. Cf. [[Chagigah 13#13b|Chagigah 13b]]; Yad, Yesodey HaTorah 2:8.

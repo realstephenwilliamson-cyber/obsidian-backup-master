@@ -31,6 +31,9 @@ anubhūtau vikalpe ca yo'sau draṣṭā sa eva hi || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, p. 461)
+> ![[Tantraloka Dyczkowski v06 14 - Chapter Ten, part 5#Viveka on 10.257–259]]
+
 *Lead-in:* नन्वधिष्ठितिक्रियाकरणं स्वप्नः -- इत्युक्तं तत्कथमामर्शनात्मकत्वमिहास्योक्तम्? -- इत्याशङ्क्याह --
 
 > अनुभूतौ विकल्पे च योऽसौ द्रष्टा स एव हि ॥

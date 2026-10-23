@@ -34,6 +34,9 @@ upāyasyāpi no vāryā tadanyatvādvicitratā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, p. 15)
+> ![[Tantraloka Dyczkowski v02 02 - Chapter Two, part 1#Viveka on 2.6]]
+
 *Lead-in:* न केवलमत्रेयदेव वैचित्र्यं यावदन्यदप्यस्ति -- इत्याह --
 
 > तत्रापि चाभ्युपायादिसापेक्षान्यत्वयोगतः ।

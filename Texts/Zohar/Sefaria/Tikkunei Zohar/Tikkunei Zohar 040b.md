@@ -293,7 +293,7 @@ And it is
 [^2]: *tzadiq*
 [^3]: *tzedaqah*
 [^4]: Yesod
-[^5]: *BT* Baba Batra 75b
+[^5]: *BT* [[Bava Batra 75#75b|Baba Batra 75b]]
 [^6]: Righteous-One
 [^7]: *tzadiq*
 [^8]: *tzedaqah*
@@ -311,14 +311,14 @@ And it is
 [^20]: Malkhut
 [^21]: *tzedaqah*
 [^22]: Yod
-[^23]: *BT* Megillah 15b
+[^23]: *BT* [[Megillah 15#15b|Megillah 15b]]
 [^24]: Vav
 [^25]: Hei
 [^26]: *ne-vi-im*
 [^27]: *dimyon*
 [^28]: *adameh*
 [^29]: *koḥo*
-[^30]: See *BT* Shabbat 119b
+[^30]: See *BT* [[Shabbat 119#119b|Shabbat 119b]]
 [^31]: beginning
 [^32]: Ḥokhmah
 [^33]: Keter

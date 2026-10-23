@@ -36,6 +36,11 @@ rājyaṃ lābho'tha tatsthairyaṃ śive bhaktistadātmatā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 24)
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.53–54]]
+>
+> ![[Tantraloka Dyczkowski v09 05 - Chapter Sixteen, part 1#Viveka on 16.54–56]]
+
 *Lead-in:* अत्रैव क्रमेण फलं निर्दिशति--
 
 Jayaratha comments on this verse together with 16.53: see [[Tantraloka 16.053#Viveka|16.53]].

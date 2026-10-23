@@ -36,6 +36,11 @@ parakīyamidaṃ rūpaṃ dhyeyametattu me nijam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 368–370)
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.261–263]]
+>
+> ![[Tantraloka Dyczkowski v03 11 - Chapter Four, part 10#Viveka on 4.263–264]]
+
 *Lead-in:* अथ "परस्वरूपलिङ्गादि नामगोत्रादिकं च यत्"इति व्याख्यातुकामः क्रमेण परकीयं स्वकीयं च रूपाद्याचष्टे --
 
 > परकीयमिदं रूपं ध्येयमेतत्तु मे निजम् ॥

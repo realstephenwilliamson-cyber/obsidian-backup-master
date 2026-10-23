@@ -112,7 +112,7 @@ Appendix to Chapter Ten: The Seven Perceivers, pages 492-493
 
 Abbreviations 
 
-Ajadapramātrsiddhi Asiatic Society of Bengal Atharvaveda Bodleian Library, Oxford Brahmayāmala Bhagavadgītā Bhogakārikā B,ṁadāraṇyakopaṇiṣad Chandogyopaniṣad Ciñcinīmatasārasamuccaya Dharmālaṁkārakārikā Devīdyvardhaśatikā Devīpañcaśataka Dhvanyālokālocana Government Oriental Manuscript Library, University of Chennai History of Dharmaśāstra Indo-Iranian Journal Iśvarapratyabhijñāvimarśinī Iśvarapratyabhijṁñāvivrtivimarśinī Institut Français d'Indologie de Pondichéry Istituto Studi Medio ed Estremo Oriente Isānaśivagurudevapaddhati Journal Asiatique Journal of the Asiatic Society of Bombay Journal of the Royal Asiatic Society Jayadrathayāmala Kashmiri Series Edition Kaulajñānanirnaya Kramanayapradīpikā Kumārikākhanda of the Manthānabhairavatantra Kulapañcaśikā Khacakrapañcakastotra KM 
+Ajadapramātṛsiddhi Asiatic Society of Bengal Atharvaveda Bodleian Library, Oxford Brahmayāmala Bhagavadgītā Bhogakārikā B,ṁadāraṇyakopaṇiṣad Chandogyopaniṣad Ciñcinīmatasārasamuccaya Dharmālaṁkārakārikā Devīdyvardhaśatikā Devīpañcaśataka Dhvanyālokālocana Government Oriental Manuscript Library, University of Chennai History of Dharmaśāstra Indo-Iranian Journal Iśvarapratyabhijñāvimarśinī Iśvarapratyabhijṁñāvivṛtivimarśinī Institut Français d'Indologie de Pondichéry Istituto Studi Medio ed Estremo Oriente Isānaśivagurudevapaddhati Journal Asiatique Journal of the Asiatic Society of Bombay Journal of the Royal Asiatic Society Jayadrathayāmala Kashmiri Series Edition Kaulajñānanirnaya Kramanayapradīpikā Kumārikākhanda of the Manthānabhairavatantra Kulapañcaśikā Khacakrapañcakastotra KM 
 
 Kubjikāmata Kashmiri Shaivism, the Secret Supreme KSSS KSTS 
 
@@ -136,7 +136,7 @@ Mahānayaprakāśa by unknown author published in Trivendrum.
 
 MP (3 AS) 
 
-Mahānayaprakāśa by Arṇasirnha MS 
+Mahānayaprakāśa by Arṇasiṁha MS 
 
 Manuscript 
 
@@ -148,13 +148,13 @@ Monier-Williams Mund
 
 Mundaka Upaniṣad MT 
 
-Mrgendratantra MrTvK 
+Mṛgendratantra MrTvK 
 
-Mrgendratantravrtti Kriyāpāda MrKri 
+Mṛgendratantravṛtti Kriyāpāda MrKri 
 
-Mrgendratantra Kriyāpāda MrV 
+Mṛgendratantra Kriyāpāda MrV 
 
-Mrgendratantra Vidyāpāda NGMPP 
+Mṛgendratantra Vidyāpāda NGMPP 
 
 Nepal German Manuscript Preservation Project NṢA 
 
@@ -194,7 +194,7 @@ Pramānṇavārtika PVi
 
 Pramānaviniścaya PrHr 
 
-Pratyabhijṁñāhrdaya RSO 
+Pratyabhijṁñāhṛdaya RSO 
 
 Ricerche e Studi Orientali RT 
 
@@ -220,7 +220,7 @@ Swami Laksmanjoo SOL
 
 Science of Light SP 
 
-Sarvitprakāśa SāṁnKā 
+Saṁvitprakāśa SāṁnKā 
 
 Sāmkhyakārikā SpKā 
 
@@ -230,11 +230,11 @@ Spandanirnaya SpPra
 
 Spandapradīpikā SpSarn 
 
-6 andasarhndoha 
+6 andasaṁndoha 
 
 ŚDr 
 
-ivadrṣṭi 
+Śivadṛṣṭi 
 
 Śsū 
 

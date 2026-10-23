@@ -33,6 +33,11 @@ yadaśeṣopadeśena sūyate'nuttaraṃ phalam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. XI, p. 229)
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.6]]
+>
+> ![[Tantraloka Dyczkowski v11 11 - Chapter Thirty-Seven, part 1#Viveka on 37.6 (2)]]
+
 *Lead-in:* एवंविधं च एतत् किम् ?--इत्याशङ्क्य आह--
 
 > तच्च यत्सर्वसर्वज्ञदृष्टं तच्चापि किं भवेत् ।

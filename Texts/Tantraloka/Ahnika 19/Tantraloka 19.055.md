@@ -35,6 +35,9 @@ tadā tena krameṇāśu yojitaḥ samayī śivaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 230)
+> ![[Tantraloka Dyczkowski v09 10 - Chapter Nineteen#Viveka on 19.55]]
+
 *Lead-in:* तदेवाह--
 
 > सर्वं भोगं विरूपं तु मत्वा देहं त्यजेद्यदि ।

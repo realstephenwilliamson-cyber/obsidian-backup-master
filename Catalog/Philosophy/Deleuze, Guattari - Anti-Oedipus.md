@@ -22,7 +22,7 @@ language:
 pages: 551
 text: searchable
 status: keep
-physical_copy: false
+physical_copy: true
 files:
   - "[[Deleuze, Guattari - Anti-Oedipus (1983).pdf]]"
   - "[[Library/Philosophy/Anti-Oedipus (Deleuze, Guattari)/Anti-Oedipus (Deleuze, Guattari)]]"

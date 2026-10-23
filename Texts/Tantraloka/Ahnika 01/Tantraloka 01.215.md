@@ -34,6 +34,9 @@ abhimānena saṅkalpādhyavasāyakrameṇa yaḥ |
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, pp. 393–394)
+> ![[Tantraloka Dyczkowski v01 11 - Chapter One, part 10#Viveka on 1.215]]
+
 *Lead-in:* अत आह—
 
 > अभिमानेन सङ्कल्पाध्यवसायक्रमेण यः ।

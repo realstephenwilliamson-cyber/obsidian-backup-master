@@ -33,6 +33,9 @@ anavacchinnapadepsustāṃ saṃvidamātmasātsadā kuryāt || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, p. 310)
+> ![[Tantraloka Dyczkowski v10 11 - Chapter Twenty-Nine, part 3#Viveka on 29.117–118]]
+
 *Lead-in:* एतदावेशे च अवश्यमवधातव्यम्--इत्याह--
 
 > अनवच्छिन्नपदेप्सुस्तां संविदमात्मसात्सदा कुर्यात् ॥

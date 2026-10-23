@@ -34,6 +34,13 @@ icchātaḥ kṣubhitaṃ jñānaṃ vimarśātmakriyāpade || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 246–251)
+> ![[Tantraloka Dyczkowski v08 07 - Chapter Fifteen, part 6#Viveka on 15.402–403]]
+>
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.402–403 (continued)]]
+>
+> ![[Tantraloka Dyczkowski v08 08 - Chapter Fifteen, part 7#Viveka on 15.403–404]]
+
 *Lead-in:* एतदेव व्याप्तिगर्भीकारेण प्रपञ्चयति--
 
 > इच्छातः क्षुभितं ज्ञानं विमर्शात्मक्रियापदे ॥

@@ -31,6 +31,9 @@ sakalādiśivāntānāṃ śaktiṣūdrecitātmasu || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 298–299)
+> ![[Tantraloka Dyczkowski v06 10 - Chapter Ten, part 1#Viveka on 10.10–12]]
+
 > सकलादिशिवान्तैस्तु मातृभिर्वेद्यतास्य या ॥
 > शक्तिमद्भिरनुद्भूतशक्तिभिः सप्त तद्भिदः ।
 > सकलादिशिवान्तानां शक्तिषूद्रेचितात्मसु ॥

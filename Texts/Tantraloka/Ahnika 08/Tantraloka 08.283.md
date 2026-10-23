@@ -37,6 +37,11 @@ paṃsi nādamayī śaktiḥ prasarākhyā ca yatsthitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 288–291)
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.282–283]]
+>
+> ![[Tantraloka Dyczkowski v05 08 - Chapter Eight, part 6#Viveka on 8.283]]
+
 *Lead-in:* ननु नाङ्यधिष्ठातृदेवतानां पुंस्तत्त्वावस्थाने किं निमित्तम्? -- इत्याशङ्क्याह --
 
 > पंसि नादमयी शक्तिः प्रसराख्या च यत्स्थिता ॥

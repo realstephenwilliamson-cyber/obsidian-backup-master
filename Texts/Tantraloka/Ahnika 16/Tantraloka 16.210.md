@@ -34,6 +34,9 @@ bāḍhameko hi pāśātmā śabdo'nyaśca śivātmakaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 90)
+> ![[Tantraloka Dyczkowski v09 06 - Chapter Sixteen, part 2#Viveka on 16.210]]
+
 *Lead-in:* ननु एकस्यैव शोध्यत्वे शोधकत्वे च किं प्रमाणम् ?--इत्याशङ्क्याह--
 
 > उवाच सद्योज्योतिश्च वृत्तौ स्वायम्भुवस्य तत् ।

@@ -34,6 +34,9 @@ parāmṛśyā kathaṃ tāthārūpyasṛṣṭau tu sā jaḍā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, p. 10)
+> ![[Tantraloka Dyczkowski v03 02 - Chapter Four, part 1#Viveka on 4.8]]
+
 > परामृश्या कथं ताथारूप्यसृष्टौ तु सा जडा ॥
 
 ताथारूप्येति परामृश्यत्वस्येत्यर्थः ॥ ८ ॥

@@ -34,6 +34,9 @@ itthaṃ saṃvidiyaṃ devī svabhāvādeva sarvadā | uddeśāditrayaprāṇā
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. I, p. 458)
+> ![[Tantraloka Dyczkowski v01 13 - Chapter One, part 12#Viveka on 1.277]]
+
 *Lead-in:* एतदेव सङ्कलयति --
 
 > इत्थं संविदियं देवी स्वभावादेव सर्वदा । उद्देशादित्रयप्राणा सर्वशास्त्रस्वरूपिणी ॥

@@ -33,6 +33,11 @@ kāryakāraṇabhāvīye tattve itthaṃ vyavasthite || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VI, pp. 52–56)
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.47–48]]
+>
+> ![[Tantraloka Dyczkowski v06 04 - Chapter Nine, part 2#Viveka on 9.48–49]]
+
 *Lead-in:* इदानीं प्रकृतमेवानुसरति --
 
 > कार्यकारणभावीये तत्त्वे इत्थं व्यवस्थिते ॥

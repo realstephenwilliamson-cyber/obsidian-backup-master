@@ -33,6 +33,11 @@ vittābhāve punaḥ kāryaṃ kāśairapi kuśombhitaiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 71–72)
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.142–143]]
+>
+> ![[Tantraloka Dyczkowski v10 04 - Chapter Twenty-Eight, part 2#Viveka on 28.143–144]]
+
 *Lead-in:* सर्वथैव अस्य कर्तव्यत्वमुपोद्बलयति--
 
 > वित्ताभावे पुनः कार्यं काशैरपि कुशोम्भितैः ॥

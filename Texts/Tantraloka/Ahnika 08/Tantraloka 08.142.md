@@ -37,5 +37,10 @@ navayojanasāhasro vigraho'rkasya maṇḍalam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 175–177)
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.139–142]]
+>
+> ![[Tantraloka Dyczkowski v05 06 - Chapter Eight, part 4#Viveka on 8.142–143]]
+
 Jayaratha comments on this verse together with 8.146: see [[Tantraloka 08.146#Viveka|8.146]].
 

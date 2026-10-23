@@ -31,6 +31,9 @@ etatte prātibhe bhede lakṣaṇaṃ samudāhṛtam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 236)
+> ![[Tantraloka Dyczkowski v07 08 - Chapter Thirteen, part 4#Viveka on 13.184]]
+
 *Lead-in:* यस्य पुनः परप्रत्ययानपेक्षत्वेन परतत्त्व एव भावनादार्ढ्यं स जीवन्नेव मुक्तः -- इत्याह -
 
 > परभावनदार्ढ्यात्तु जीवन्मुक्तो निगद्यते ।

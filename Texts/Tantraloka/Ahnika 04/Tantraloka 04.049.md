@@ -34,6 +34,9 @@ sa siddhibhāgbhavennityaṃ sa yogī sa ca dīkṣitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 65–67)
+> ![[Tantraloka Dyczkowski v03 03 - Chapter Four, part 2#Viveka on 4.49–50]]
+
 *Lead-in:* न च एतत् स्वोपज्ञमेवोक्तम्, इत्याह --
 
 Jayaratha comments on this verse together with 4.50: see [[Tantraloka 04.050#Viveka|4.50]].

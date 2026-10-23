@@ -34,6 +34,9 @@ anuyatparato bhinnaṃ tattvaṃ nāmeti bhaṇyate || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, pp. 1–2)
+> ![[Tantraloka Dyczkowski v07 02 - Chapter Eleven, part 1#Viveka on 11.2–3]]
+
 *Lead-in:* ननु कलैव नाम किमुच्यते यस्या अप्यध्वपरिभाषा स्यात्? -- इत्याशङ्क्याह --
 
 Jayaratha comments on this verse together with 11.3: see [[Tantraloka 11.003#Viveka|11.3]].

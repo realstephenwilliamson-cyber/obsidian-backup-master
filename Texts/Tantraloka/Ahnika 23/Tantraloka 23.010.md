@@ -31,6 +31,9 @@ punarbhūścānyaliṅgo yaḥ punaḥ śaive pratiṣṭhitaḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 298)
+> ![[Tantraloka Dyczkowski v09 14 - Chapter Twenty-Three#Viveka on 23.8–10]]
+
 > न स्वयंभूस्तस्य चोक्तं लक्षणं परमेशिना ।
 > अभक्तो जीवितधिया कुर्वन्नीशानधिष्ठितः ॥
 > पश्वात्मना स्वयंभूष्णुर्नाधिकारी स कुत्रचित् ।

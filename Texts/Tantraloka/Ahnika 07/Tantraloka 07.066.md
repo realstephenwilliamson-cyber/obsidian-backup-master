@@ -36,6 +36,11 @@ citspandaprāṇavṛttīnāmantyā yā sthūlatā suṣiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 45–46)
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.65–66]]
+>
+> ![[Tantraloka Dyczkowski v05 02 - Chapter Seven#Viveka on 7.66–67]]
+
 *Lead-in:* ननु कथं नाम देहस्य तदावेशः ? -- इत्याशङ्क्याह --
 
 > चित्स्पन्दप्राणवृत्तीनामन्त्या या स्थूलता सुषिः ॥

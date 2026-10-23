@@ -43,7 +43,7 @@ Pritzker translation (Matt): [[Zohar 8.07 - Parashat Be-Midbar#^z3-119b|Parashat
 
 **Bamidbar 6:56** The reason for this, as has been explained, is that She may be between north and south, in an attitude of nuptial union, with the north supporting Her beneath Her head and the south embracing Her. So says Scripture: “Let his left hand be under my head, and his right hand embrace me”. There is a dictum: “Whoever recites the Psalm *Praise of David* (Ps. CXLV) thrice daily may be assured that he is destined for the world to come”.[^5] This is because thereby we symbolize daily the union that is effected between north and south. ^bamidbar-6-56
 
-[^1]: SHaDaY (Shaddai)=He who… enough; i.e. He who, at the proper moment, put a limit to the expanding universe at the Creation by the word of command: “Enough!”, v. T. B. Hagigah, 12a.
+[^1]: SHaDaY (Shaddai)=He who… enough; i.e. He who, at the proper moment, put a limit to the expanding universe at the Creation by the word of command: “Enough!”, v. T. B. [[Chagigah 12#12a|Hagigah, 12a]].
 [^2]: This is in reply to the question of R. Judah as to how men of other nations awake during the night.
 [^3]: v. T. B. Baba Bathra, 25a.
 [^4]: Referring to the Shekinah.

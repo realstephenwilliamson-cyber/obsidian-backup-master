@@ -34,6 +34,9 @@ atyaktasvaprakāśasya nairmalyaṃ tadgurūditam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 73–75)
+> ![[Tantraloka Dyczkowski v02 04 - Chapter Three, part 1#Viveka on 3.8]]
+
 *Lead-in:* एतदेव प्रकारान्तरेणापि व्याचष्टे --
 
 > स्वस्मिन्नभेदाद्भिन्नस्य दर्शनक्षमतैव या ।

@@ -82,7 +82,7 @@ The first three Vedas include commandments (*mitzvot*) and duties between a man 
 
 *[p. 176]* ^pg189
 
-like Confucius the lawgiver of China gave a law of birthright<sup>21</sup> for the duties of a man and his neighbor, and thus … both of them walked in the footsteps of the prince of God (*nasi’* ‘*elokim*) in his summation when the Gemara \[b. Shabbat 31a\] says, “This is all the Torah as a whole, and the rest is its commentary.”<sup>22</sup>
+like Confucius the lawgiver of China gave a law of birthright<sup>21</sup> for the duties of a man and his neighbor, and thus … both of them walked in the footsteps of the prince of God (*nasi’* ‘*elokim*) in his summation when the Gemara \[b. [[Shabbat 31#31a|Shabbat 31a]]\] says, “This is all the Torah as a whole, and the rest is its commentary.”<sup>22</sup>
 
 Bloch categorizes the Vedas in a traditional Jewish way – as duties either to other human beings or to God (*bein adam leh. avero uvein adam la-maqom*), a categorization that began in the Talmud and became a major classification in medieval Jewish analysis.<sup>23</sup>
 
@@ -220,7 +220,7 @@ Notes
 
  20 Ibid., 59b.
 
- 21 *Mishpat ha-bekhorah*, a phrase in the Babylonian Talmud: b. Baba Batra 111b and b. Bekhorot 52a. The sense here may be the idea of a natural law inherited by birthright.
+ 21 *Mishpat ha-bekhorah*, a phrase in the Babylonian Talmud: b. [[Bava Batra 111#111b|Baba Batra 111b]] and b. [[Bekhorot 52#52a|Bekhorot 52a]]. The sense here may be the idea of a natural law inherited by birthright.
 
  22 Warsaw ed., 59b.
 
@@ -404,7 +404,7 @@ Notes
 
 7 Hillel’s story of the Samaritans that he attributes to “ancient histories” (p. 
 
-185\) comes from b. Yoma 69a, and his assertion that “the Israelites have a tradition that Artaxerxes was the son of Esther” (p. 133) appears in Tosafot on b. Rosh Hashanah 3b. His reference to Israelite priests performing a difficult form of prostration (p. 149) comes from several passages in the Talmud such as b. Sukkah 53a and from Rashi explaining the word *qidah* in b. Yoma 19b.
+185\) comes from b. [[Yoma 69#69a|Yoma 69a]], and his assertion that “the Israelites have a tradition that Artaxerxes was the son of Esther” (p. 133) appears in Tosafot on b. [[Rosh Hashanah 3#3b|Rosh Hashanah 3b]]. His reference to Israelite priests performing a difficult form of prostration (p. 149) comes from several passages in the Talmud such as b. [[Sukkah 53#53a|Sukkah 53a]] and from Rashi explaining the word *qidah* in b. [[Yoma 19#19b|Yoma 19b]].
 
 *[p. 194]* ^pg207
 
@@ -846,7 +846,7 @@ Notes
 
 *\`Avodah Zarah* 2.2.
 
- 32 Found in b. AZ 18a and 43b, b. Shab. 75a, b. RH 24b. See Rashi’s interpretation of [[Torah 48 - Shoftim#^18-9|Deut. 18:9]]: “But you may learn \[about idolatry or magic\] to understand and teach, that is to say, to understand how corrupt are their works, and to teach your children not to do such and such, because that is a rite of the nations.”
+ 32 Found in b. AZ 18a and 43b, b. [[Shabbat 75#75a|Shab. 75a]], b. RH 24b. See Rashi’s interpretation of [[Torah 48 - Shoftim#^18-9|Deut. 18:9]]: “But you may learn \[about idolatry or magic\] to understand and teach, that is to say, to understand how corrupt are their works, and to teach your children not to do such and such, because that is a rite of the nations.”
 
  33 Cf. [[I Kings 07#^7-36|1 Kings 7:36]] and Rashi’s exegesis.
 

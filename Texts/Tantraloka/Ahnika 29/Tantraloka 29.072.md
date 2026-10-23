@@ -33,6 +33,11 @@ vasvaṃgulonnatānūrdhvavartulān kṣāmamadhyakān || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 267–271)
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.71–72]]
+>
+> ![[Tantraloka Dyczkowski v10 10 - Chapter Twenty-Nine, part 2#Viveka on 29.72–73]]
+
 *Lead-in:* कृतायां पूजायां नैवेद्येनैव अवश्यभाव्यम्--इत्याह--
 
 > वस्वंगुलोन्नतानूर्ध्ववर्तुलान् क्षाममध्यकान् ॥

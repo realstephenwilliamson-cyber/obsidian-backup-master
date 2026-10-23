@@ -33,6 +33,13 @@ paraiva devītritayamadhye yā'bhedinī sthitā || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VIII, pp. 151–153)
+> *No commentary follows this verse directly; shown here is the next, after TĀ 15.254–255.*
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.251–252]]
+>
+> ![[Tantraloka Dyczkowski v08 05 - Chapter Fifteen, part 4#Viveka on 15.254–255]]
+
 *Lead-in:* ननु अस्मिन्दर्शने त्रिकमेव परमार्थ इति किमनेन चतुर्थेन रूपेण उपदिष्टेन?--इत्याशङ्क्य आह--
 
 Jayaratha comments on this verse together with 15.251: see [[Tantraloka 15.251#Viveka|15.251]].

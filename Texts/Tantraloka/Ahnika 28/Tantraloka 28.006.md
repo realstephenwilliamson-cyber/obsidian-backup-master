@@ -31,6 +31,9 @@ tajjanmasaṃskriyābhedāḥ svajanmotsavasaṅgatiḥ || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. X, pp. 7–8)
+> ![[Tantraloka Dyczkowski v10 03 - Chapter Twenty-Eight, part 1#Viveka on 28.6–9]]
+
 *Lead-in:* न्यायबलोपनतश्च अयं प्रमात्रपेक्षो नित्यनैमित्तिकयोर्विभाग उक्तः, शास्त्रीयस्तु यथावचनमेव सर्वत्र प्रसिद्धः । तत्र नित्यविभागः प्रागेव सविस्तरमुक्तः, नैमित्तिकविभागस्तु इह प्रकान्त एव--इत्याह--
 
 Jayaratha comments on this verse together with 28.9: see [[Tantraloka 28.009#Viveka|28.9]].

@@ -31,6 +31,9 @@ hetū tato mṛtoddhāraśrāddhādyasmai samācaret || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. IX, p. 359)
+> ![[Tantraloka Dyczkowski v09 17 - Chapter Twenty-Five (continued) and Chapter Twenty-Six#Viveka on 25.9]]
+
 > बुभुक्षोस्तु क्रियाभ्यासभूमानौ फलभूमनि ।
 > हेतू ततो मृतोद्धारश्राद्धाद्यस्मै समाचरेत् ॥
 

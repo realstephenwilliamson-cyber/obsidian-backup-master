@@ -34,6 +34,9 @@ jñānena hi mahāsiddho bhavedyogīśvarastviti || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. II, pp. 54–55)
+> ![[Tantraloka Dyczkowski v02 03 - Chapter Two, part 2#Viveka on 2.42–43]]
+
 > स्थण्डिलादुत्तरं तूरं तूरादुत्तरतः पटः ।
 > पटाद्ध्यानं ततो ध्येयं ततः स्याद्धारणोत्तरा ॥
 > ततोऽपि योगजं रूपं ततोऽपि ज्ञानमुत्तरम् ।

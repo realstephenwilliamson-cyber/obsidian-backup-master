@@ -36,6 +36,11 @@ tatsadeva bahīrūpaṃ prāgbodhāgnivilāpitam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. III, pp. 290–294)
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.188–189]]
+>
+> ![[Tantraloka Dyczkowski v03 09 - Chapter Four, part 8#Viveka on 4.189–191]]
+
 *Lead-in:* एवं संवित्क्रमेण श्रीपराबीजस्योदयमभिधाय एतत्समानस्कन्धताभिधित्सया श्रीपिण्डनाथस्यापि उदयमभिधत्ते --
 
 Jayaratha comments on this verse together with 4.188: see [[Tantraloka 04.188#Viveka|4.188]].

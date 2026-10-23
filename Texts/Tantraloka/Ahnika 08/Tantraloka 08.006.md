@@ -34,6 +34,9 @@ tadā kiṃ bahunoktena ityuktaṃ spandaśāsane || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. V, pp. 54–55)
+> ![[Tantraloka Dyczkowski v05 03 - Chapter Eight, part 1#Viveka on 8.6]]
+
 *Lead-in:* नचैतदस्मदुपज्ञमेव, इत्याह --
 
 > दिदृक्षयैव सर्वार्थान् यदा व्याप्यावतिष्ठते ।

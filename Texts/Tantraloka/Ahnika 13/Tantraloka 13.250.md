@@ -31,6 +31,9 @@ dārḍhyasaṃvādarūḍhyāderyiyāsurbhavati sphuṭam || ^iast
 
 ## Viveka
 
+> [!viveka]- Viveka in English (Dyczkowski, vol. VII, p. 281)
+> ![[Tantraloka Dyczkowski v07 09 - Chapter Thirteen, part 5#Viveka on 13.250]]
+
 *Lead-in:* तस्मात्प्रातिभज्ञानवत्त्वेऽपि संवाददार्ढ्यमनुपेक्षमाण एव यियासुर्भवति, नान्यः -- इत्याह --
 
 > तेन प्राप्तविवेकोत्थज्ञानसंपूर्णमानसः ।
